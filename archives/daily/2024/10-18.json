@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729220645264,
+  "endTime": 1729222199601,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1597042,
+      "num": 786545,
+      "word": "覃海洋100蛙小组第一",
+      "onboard_time": 1729219579,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1351751,
       "num": 1351751,
       "word": "刘亦菲压轴",
@@ -35,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1306336,
+      "num": 477289,
+      "word": "网恋女友奔现后男子说想把他掐死",
+      "onboard_time": 1729218620,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1282144,
       "num": 497218,
       "word": "孕妇2次到店借用厕所和店员起争执",
       "onboard_time": 1729182378,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1254233,
-      "num": 477289,
-      "word": "网恋女友奔现后男子说想把他掐死",
-      "onboard_time": 1729218620,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1729214959,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 915320,
+      "num": 915320,
+      "word": "武汉公交回应下车请走好有哀悼歧义",
+      "onboard_time": 1729218798,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895496,
@@ -113,14 +129,6 @@
       "onboard_time": 1729214061,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 786545,
-      "num": 786545,
-      "word": "覃海洋100蛙小组第一",
-      "onboard_time": 1729219579,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 771617,
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 533185,
+      "num": 533185,
+      "word": "肖战跟孔笙导演拥抱告别",
+      "onboard_time": 1729220659,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506598,
       "num": 506598,
       "word": "2025鹅厂大剧片单",
@@ -217,6 +233,14 @@
       "onboard_time": 1729210341,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 484782,
+      "num": 484782,
+      "word": "诗幂又坐一起",
+      "onboard_time": 1729217300,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 480143,
@@ -235,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462657,
+      "num": 462657,
+      "word": "长安的荔枝预告",
+      "onboard_time": 1729220541,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453228,
       "num": 453228,
       "word": "以色列国防军确认打死哈马斯领导人",
       "onboard_time": 1729207517,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 442284,
+      "num": 442284,
+      "word": "恋与深空",
+      "onboard_time": 1729220780,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 441968,
@@ -267,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 386840,
+      "num": 386840,
+      "word": "吹牛老爹的疯狂派对",
+      "onboard_time": 1729221140,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386391,
       "num": 386391,
       "word": "赵露思飞吻",
@@ -291,20 +339,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 345696,
-      "num": 345696,
-      "word": "诗幂又坐一起",
-      "onboard_time": 1729217300,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336681,
       "num": 336681,
       "word": "VOGUE聚会大合照",
       "onboard_time": 1729218558,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 332778,
+      "num": 332778,
+      "word": "papi酱问黄圣依杨子是演的还是真的",
+      "onboard_time": 1729222038,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 332080,
@@ -363,20 +411,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296529,
+      "num": 296529,
+      "word": "医学生发大体老师头骨合影引不满",
+      "onboard_time": 1729221920,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "WBG前期全是计谋",
       "onboard_time": 1729177223,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 283665,
-      "num": 447471,
-      "word": "武汉公交回应下车请走好有哀悼歧义",
-      "onboard_time": 1729218798,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281977,
@@ -395,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261939,
+      "num": 261939,
+      "word": "第一批排队开户的00后现状",
+      "onboard_time": 1729220959,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 257905,
       "num": 257905,
       "word": "辛瓦尔最后时刻向以军无人机投掷棍子",
@@ -403,11 +459,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 255436,
-      "num": 255436,
-      "word": "长安的荔枝预告",
-      "onboard_time": 1729220541,
-      "rank": 24,
+      "raw_hot": 257524,
+      "num": 257524,
+      "word": "滤镜 檀健次李兰迪",
+      "onboard_time": 1729220299,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -459,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217679,
+      "num": 277088,
+      "word": "女子40多万买几百件假文物",
+      "onboard_time": 1729218080,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213909,
       "num": 213909,
       "word": "拜登祝贺以军打死辛瓦尔",
@@ -483,11 +547,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207734,
-      "num": 277088,
-      "word": "女子40多万买几百件假文物",
-      "onboard_time": 1729218080,
-      "rank": 19,
+      "raw_hot": 205177,
+      "num": 205177,
+      "word": "2024全国秋裤预警地图",
+      "onboard_time": 1729216159,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -515,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200426,
+      "num": 200426,
+      "word": "叶诗文200蛙预赛第2",
+      "onboard_time": 1729221920,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199995,
       "num": 264657,
       "word": "许我耀眼首发预告",
@@ -531,11 +603,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187008,
-      "num": 199376,
-      "word": "滤镜 檀健次李兰迪",
-      "onboard_time": 1729220299,
-      "rank": 28,
+      "raw_hot": 187170,
+      "num": 256918,
+      "word": "披荆斩棘",
+      "onboard_time": 1729221260,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180163,
+      "num": 180163,
+      "word": "许我耀眼海报",
+      "onboard_time": 1729221320,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -619,12 +699,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165528,
-      "num": 165528,
-      "word": "2024全国秋裤预警地图",
-      "onboard_time": 1729216159,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 163475,
+      "num": 163475,
+      "word": "覃海洋成功晋级后挥手竖大拇指",
+      "onboard_time": 1729222038,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 158362,
@@ -641,6 +721,14 @@
       "onboard_time": 1729186093,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153533,
+      "num": 153533,
+      "word": "许昕周恺光速赢下第一盘",
+      "onboard_time": 1729220840,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 151887,
@@ -745,6 +833,22 @@
       "onboard_time": 1729171282,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138720,
+      "num": 138720,
+      "word": "股票回购增持再贷款正式推出",
+      "onboard_time": 1729221079,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "游泳世界杯上海站",
+      "onboard_time": 1729221620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 133921,
@@ -915,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102017,
+      "num": 340161,
+      "word": "教师非教学负担为什么越减越重",
+      "onboard_time": 1729220719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100671,
       "num": 138486,
       "word": "snowman",
@@ -1035,8 +1147,16 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 58458,
+      "num": 345966,
+      "word": "旅拍的风还是吹到了奔跑吧",
+      "onboard_time": 1729221558,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58104,
-      "num": 140253,
+      "num": 256544,
       "word": "奇瑞智能化也不客气了",
       "onboard_time": 1729220541,
       "rank": 47,
@@ -1081,6 +1201,22 @@
       "onboard_time": 1729215560,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48052,
+      "num": 447446,
+      "word": "以总理回应哈马斯领导人被打死",
+      "onboard_time": 1729221019,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 46612,
+      "num": 389670,
+      "word": "9月70城最新房价出炉",
+      "onboard_time": 1729220840,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38374,
@@ -1147,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27155,
+      "num": 763077,
+      "word": "专家称美网络攻击活动是可捕获的",
+      "onboard_time": 1729219339,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26426,
       "num": 945924,
       "word": "丰收的田野多姿多彩",
@@ -1168,14 +1312,6 @@
       "word": "房地产组合拳不仅有料更追求实效",
       "onboard_time": 1729185674,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25331,
-      "num": 146461,
-      "word": "专家称美网络攻击活动是可捕获的",
-      "onboard_time": 1729219339,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19267,
+      "num": 256690,
+      "word": "双11猫头橱窗卖的是情绪价值",
+      "onboard_time": 1729220541,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15759,
       "num": 42861,
       "word": "你的样子",
@@ -1265,14 +1409,6 @@
       "onboard_time": 1729203733,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13325,
-      "num": 139182,
-      "word": "双11猫头橱窗卖的是情绪价值",
-      "onboard_time": 1729220541,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 12829,
