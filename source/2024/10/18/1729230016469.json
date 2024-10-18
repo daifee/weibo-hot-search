@@ -1,0 +1,410 @@
+{
+  "runTime": 1729230016469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245061,
+        "num": 1245061,
+        "word": "papi酱问黄圣依杨子是演的还是真的",
+        "onboard_time": 1729222038,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1013387,
+        "num": 1013387,
+        "word": "95后研究员4个博士学位本人发声",
+        "onboard_time": 1729226121,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24304,
+        "num": 986429,
+        "word": "丰收的田野多姿多彩",
+        "onboard_time": 1729219879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1458066,
+        "num": 986296,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 985869,
+        "num": 985869,
+        "word": "覃海洋成功晋级后挥手竖大拇指",
+        "onboard_time": 1729222038,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887097,
+        "num": 887097,
+        "word": "医学生发大体老师头骨合影引不满",
+        "onboard_time": 1729221920,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702948,
+        "num": 702948,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674851,
+        "num": 674851,
+        "word": "金饰价格持续大涨",
+        "onboard_time": 1729224981,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490586,
+        "num": 490586,
+        "word": "教师非教学负担为什么越减越重",
+        "onboard_time": 1729220719,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409004,
+        "num": 409004,
+        "word": "朴彩英首单官宣",
+        "onboard_time": 1729226241,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1260903,
+        "num": 404453,
+        "word": "小学副校长被控性侵16岁女学生",
+        "onboard_time": 1729223901,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604058,
+        "num": 385701,
+        "word": "京东金融辟谣网传挤兑",
+        "onboard_time": 1729227440,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421496,
+        "num": 376571,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230791,
+        "num": 369617,
+        "word": "山东滨州一干部在工作场所被捅身亡",
+        "onboard_time": 1729227081,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264707,
+        "num": 353539,
+        "word": "慕胥辞首发剧照",
+        "onboard_time": 1729226899,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224702,
+        "num": 335622,
+        "word": "周也 昼夜",
+        "onboard_time": 1729223301,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330746,
+        "num": 330746,
+        "word": "拜登就以军称打死辛瓦尔发声",
+        "onboard_time": 1729223240,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19633,
+        "num": 329385,
+        "word": "志愿军存亡之战路演含泪量好高",
+        "onboard_time": 1729225701,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242252,
+        "num": 328019,
+        "word": "易梦玲走秀",
+        "onboard_time": 1729228759,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 22676,
+        "num": 325450,
+        "word": "美以称现在正是推动停火协议的机会",
+        "onboard_time": 1729228400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365453,
+        "num": 322356,
+        "word": "小英回应开着路虎去种地",
+        "onboard_time": 1729222879,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 363927,
+        "num": 320144,
+        "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+        "onboard_time": 1729227561,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318357,
+        "num": 318357,
+        "word": "武汉公交回应下车请走好有哀悼歧义",
+        "onboard_time": 1729218798,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247999,
+        "num": 247999,
+        "word": "A股大涨那几天究竟激活了多少股民",
+        "onboard_time": 1729226481,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229944,
+        "num": 229944,
+        "word": "A股",
+        "onboard_time": 1729228700,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225724,
+        "num": 225724,
+        "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
+        "onboard_time": 1729214959,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222216,
+        "num": 222216,
+        "word": "GALA说没想到会输",
+        "onboard_time": 1729226721,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216028,
+        "num": 216028,
+        "word": "娜扎晒和刘诗诗倪妮的合照",
+        "onboard_time": 1729227381,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212611,
+        "num": 212611,
+        "word": "惠英红杨幂新合照",
+        "onboard_time": 1729228941,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109475,
+        "num": 205745,
+        "word": "95后研究员4个博士学位如何获得",
+        "onboard_time": 1729229961,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201356,
+        "num": 201356,
+        "word": "吹牛老爹的疯狂派对",
+        "onboard_time": 1729221140,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198956,
+        "num": 198956,
+        "word": "锦月如歌首发预告",
+        "onboard_time": 1729229480,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195810,
+        "num": 195810,
+        "word": "00后中介失业转行卖车月入10万",
+        "onboard_time": 1729225881,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190373,
+        "num": 190373,
+        "word": "世界从此有了色彩",
+        "onboard_time": 1729229419,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188179,
+        "num": 188179,
+        "word": "九重紫海报",
+        "onboard_time": 1729229120,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180877,
+        "num": 180877,
+        "word": "刚退休正是藏不住爱的年纪",
+        "onboard_time": 1729228579,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174862,
+        "num": 174862,
+        "word": "义乌警方通报摆拍凝视独居女子视频",
+        "onboard_time": 1729225220,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169225,
+        "num": 169225,
+        "word": "诗幂又坐一起",
+        "onboard_time": 1729217300,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93604,
+        "num": 166662,
+        "word": "女子为挽回男友被诱导消费近10万",
+        "onboard_time": 1729227921,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164589,
+        "num": 164589,
+        "word": "珠帘玉幕定档",
+        "onboard_time": 1729229901,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156475,
+        "num": 156475,
+        "word": "不疼痛的乳腺结节更需警惕",
+        "onboard_time": 1729228759,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156351,
+        "num": 156351,
+        "word": "枭起青壤双人海报",
+        "onboard_time": 1729229840,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152504,
+        "num": 152504,
+        "word": "环球人物孙颖莎",
+        "onboard_time": 1729216758,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148185,
+        "num": 148185,
+        "word": "留几手 打分",
+        "onboard_time": 1729227260,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15087,
+        "num": 147034,
+        "word": "核能自嗨锅上架淘宝",
+        "onboard_time": 1729229600,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146518,
+        "num": 146518,
+        "word": "肖战跟孔笙导演拥抱告别",
+        "onboard_time": 1729220659,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145525,
+        "num": 145525,
+        "word": "陈丽君在法国演出红楼梦",
+        "onboard_time": 1729225942,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "克内克特35分",
+        "onboard_time": 1729229961,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134716,
+        "num": 134716,
+        "word": "恋与深空",
+        "onboard_time": 1729220780,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133146,
+        "num": 133146,
+        "word": "陷入我们的热恋预告",
+        "onboard_time": 1729228579,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞过的优秀党员#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 13:22:16
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 13:40:16
 </p>
 </blockquote>
 <p>
@@ -1948,7 +1948,7 @@ VOGUE晚宴（热度：1311474）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%89%AF%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%8E%A7%E6%80%A7%E4%BE%B516%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%23" target="weibo">
-小学副校长被控性侵16岁女学生（热度：1258511）
+小学副校长被控性侵16岁女学生（热度：1260903）
 </a>
 </li>
 
@@ -2933,6 +2933,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E5%88%B0%E4%B8%89%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E9%87%8C%E6%89%93%E4%BA%8629%E5%9C%BA%E6%AF%94%E8%B5%9B%23" target="weibo">
 孙颖莎不到三个月时间里打了29场比赛（热度：1013741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%A0%94%E7%A9%B6%E5%91%984%E4%B8%AA%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%E6%9C%AC%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+95后研究员4个博士学位本人发声（热度：1013387）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战T1（热度：625679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AABurberry%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%23" target="weibo">
 张婧仪Burberry品牌大使（热度：623244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AE%89%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A6%81%E7%86%AC%E8%BF%87%E8%89%B0%E9%9A%BE%E7%9A%84%E9%98%B6%E6%AE%B5%23" target="weibo">
-闫安说王楚钦要熬过艰难的阶段（热度：622987）
 </a>
 </li>
 
