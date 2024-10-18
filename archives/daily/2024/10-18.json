@@ -1,9 +1,9 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729236056662,
+  "endTime": 1729237014668,
   "band_list": [
     {
-      "raw_hot": 2964399,
+      "raw_hot": 3020148,
       "num": 523579,
       "word": "鹿晗乱丢烟头",
       "onboard_time": 1729233622,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 691490,
+      "num": 691490,
+      "word": "我的26岁女房客拍电视剧了",
+      "onboard_time": 1729233860,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 646487,
       "num": 646487,
       "word": "民警搜山喊了4小时找回5名大学生",
@@ -395,6 +403,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 488003,
+      "num": 394722,
+      "word": "黄圣依指责杨子不管小孩",
+      "onboard_time": 1729235001,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480143,
       "num": 480143,
       "word": "前三季度GDP同比增长4.8%",
@@ -467,14 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 440606,
-      "num": 440606,
-      "word": "我的26岁女房客拍电视剧了",
-      "onboard_time": 1729233860,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434935,
       "num": 395702,
       "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
@@ -489,6 +497,14 @@
       "onboard_time": 1729228759,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 414688,
+      "num": 414688,
+      "word": "何浩楠赵一博更新封面",
+      "onboard_time": 1729235361,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 407973,
@@ -512,6 +528,14 @@
       "word": "起猛了看见农民给稻田挠痒痒",
       "onboard_time": 1729230979,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351748,
+      "num": 351748,
+      "word": "中介自称今年已卖出20多个孩子",
+      "onboard_time": 1729236141,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -553,14 +577,6 @@
       "onboard_time": 1729218558,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 332601,
-      "num": 308387,
-      "word": "黄圣依指责杨子不管小孩",
-      "onboard_time": 1729235001,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 332080,
@@ -643,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289129,
+      "num": 289129,
+      "word": "25个微do等于几个伍佰",
+      "onboard_time": 1729236681,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286268,
       "num": 286268,
       "word": "婚姻体检",
@@ -689,6 +713,22 @@
       "onboard_time": 1729220299,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254424,
+      "num": 254424,
+      "word": "女幼师出租屋遇害案被告人获死刑",
+      "onboard_time": 1729235962,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251287,
+      "num": 251287,
+      "word": "高度近视一年最好查一次眼底",
+      "onboard_time": 1729234460,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 251059,
@@ -771,14 +811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227106,
-      "num": 227106,
-      "word": "高度近视一年最好查一次眼底",
-      "onboard_time": 1729234460,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 225987,
       "num": 225987,
       "word": "娜扎 吸血鬼女王",
@@ -817,6 +849,14 @@
       "onboard_time": 1729172783,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221242,
+      "num": 221242,
+      "word": "沙溢肌肉",
+      "onboard_time": 1729236141,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 220121,
@@ -923,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200784,
-      "num": 200784,
-      "word": "何浩楠赵一博更新封面",
-      "onboard_time": 1729235361,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 200426,
       "num": 200426,
       "word": "叶诗文200蛙预赛第2",
@@ -977,6 +1009,14 @@
       "onboard_time": 1729214479,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192479,
+      "num": 192479,
+      "word": "张小斐晚宴造型",
+      "onboard_time": 1729235061,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190373,
@@ -1027,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181829,
+      "num": 179086,
+      "word": "辛瓦尔死前身边为何没有一个人",
+      "onboard_time": 1729236021,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 180972,
       "num": 180972,
       "word": "成毅摇下车窗和粉丝挥手打招呼",
       "onboard_time": 1729225100,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180918,
+      "num": 180918,
+      "word": "股市",
+      "onboard_time": 1729235781,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 180877,
@@ -1155,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169598,
-      "num": 169598,
-      "word": "张小斐晚宴造型",
-      "onboard_time": 1729235061,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 169488,
       "num": 169488,
       "word": "奔跑吧路透",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1729231760,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168185,
+      "num": 168185,
+      "word": "行有林惜 羡入四月",
+      "onboard_time": 1729235781,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167693,
@@ -1243,6 +1299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157601,
+      "num": 245610,
+      "word": "龚俊杨幂打招呼氛围感",
+      "onboard_time": 1729233262,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156427,
       "num": 156427,
       "word": "姚晨用唇印给人化妆",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1729229840,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156326,
+      "num": 156326,
+      "word": "曝男明星走VOGUE红毯耍大牌",
+      "onboard_time": 1729236862,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155912,
@@ -1297,14 +1369,6 @@
       "onboard_time": 1729235421,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153899,
-      "num": 153899,
-      "word": "行有林惜 羡入四月",
-      "onboard_time": 1729235781,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 153533,
@@ -1427,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140839,
+      "num": 140839,
+      "word": "无忧渡什么时候播",
+      "onboard_time": 1729236681,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139834,
       "num": 139834,
       "word": "克内克特35分",
@@ -1507,20 +1579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133132,
-      "num": 133132,
-      "word": "股市",
-      "onboard_time": 1729235781,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 132731,
       "num": 132731,
       "word": "过去一年没有扎堆违规减持现象",
       "onboard_time": 1729223000,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132352,
+      "num": 132352,
+      "word": "青海队排队与樊振东合影",
+      "onboard_time": 1729236380,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 132142,
@@ -1571,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127885,
-      "num": 127885,
-      "word": "女幼师出租屋遇害案被告人获死刑",
-      "onboard_time": 1729235962,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124025,
       "num": 138811,
       "word": "VOGUE盛典男明星",
@@ -1617,14 +1681,6 @@
       "onboard_time": 1729178661,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121522,
-      "num": 121522,
-      "word": "辛瓦尔死前身边为何没有一个人",
-      "onboard_time": 1729236021,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 121195,
@@ -1812,7 +1868,7 @@
     },
     {
       "raw_hot": 83499,
-      "num": 392934,
+      "num": 398477,
       "word": "24岁内地女子用假学历报读港大获刑",
       "onboard_time": 1729235241,
       "rank": 9,
@@ -1880,6 +1936,14 @@
       "word": "江西发现全球最小恐龙蛋化石",
       "onboard_time": 1729204574,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66507,
+      "num": 402275,
+      "word": "A股近270股涨超11%",
+      "onboard_time": 1729236201,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2043,6 +2107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31109,
+      "num": 389848,
+      "word": "vivo拍出了中华五千年非遗之美",
+      "onboard_time": 1729233801,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30995,
       "num": 53036,
       "word": "孩子为集烟卡捡烟盒翻垃圾箱",
@@ -2073,14 +2145,6 @@
       "onboard_time": 1729200911,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28134,
-      "num": 367560,
-      "word": "vivo拍出了中华五千年非遗之美",
-      "onboard_time": 1729233801,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 27835,
@@ -2155,14 +2219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23307,
-      "num": 245610,
-      "word": "龚俊杨幂打招呼氛围感",
-      "onboard_time": 1729233262,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22522,
       "num": 59346,
       "word": "我赴黎维和官兵讲述惊险现场",
@@ -2184,6 +2240,14 @@
       "word": "超级月亮与云海同框氛围感拉满",
       "onboard_time": 1729207517,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21071,
+      "num": 299418,
+      "word": "业内称中老年短剧需求增加",
+      "onboard_time": 1729235301,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2211,16 +2275,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17912,
-      "num": 299418,
-      "word": "业内称中老年短剧需求增加",
-      "onboard_time": 1729235301,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16134,
-      "num": 322792,
+      "raw_hot": 16482,
+      "num": 358292,
       "word": "律师谈学生因无学籍被劝退",
       "onboard_time": 1729235543,
       "rank": 14,
