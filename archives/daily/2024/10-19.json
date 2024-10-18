@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729287339814,
+  "endTime": 1729290055066,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -195,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223231,
+      "num": 61426,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135799,
+      "num": 135799,
+      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+      "onboard_time": 1729276393,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 132965,
       "num": 132965,
       "word": "多兰",
@@ -345,14 +361,6 @@
       "onboard_time": 1729246700,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 129660,
-      "num": 61426,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125681,
@@ -427,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100377,
-      "num": 100377,
-      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
-      "onboard_time": 1729276393,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 96038,
       "num": 96038,
       "word": "胡明轩40分",
@@ -465,6 +465,14 @@
       "onboard_time": 1729261640,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84923,
+      "num": 57183,
+      "word": "刘学义 怎么老往不干净的地方打",
+      "onboard_time": 1729283590,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 72509,
@@ -515,12 +523,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 43107,
-      "num": 32645,
-      "word": "刘学义 怎么老往不干净的地方打",
-      "onboard_time": 1729283590,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 34462,
+      "num": 34462,
+      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
+      "onboard_time": 1729286291,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 33983,
@@ -536,6 +544,22 @@
       "word": "放开手脚创新创造",
       "onboard_time": 1729270517,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30368,
+      "num": 30368,
+      "word": "北航原副校长张广受贿2120万余元",
+      "onboard_time": 1729284431,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28851,
+      "num": 28851,
+      "word": "追光的你",
+      "onboard_time": 1729281132,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -571,22 +595,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24247,
-      "num": 28075,
-      "word": "追光的你",
-      "onboard_time": 1729281132,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23689,
-      "num": 27743,
-      "word": "北航原副校长张广受贿2120万余元",
-      "onboard_time": 1729284431,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22960,
       "num": 25764,
       "word": "珠帘玉幕商海纵横版海报",
@@ -603,20 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19952,
-      "num": 19952,
+      "raw_hot": 22062,
+      "num": 22062,
       "word": "会画画的和不会画画的都沉默了",
       "onboard_time": 1729282572,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16621,
-      "num": 34048,
-      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
-      "onboard_time": 1729286291,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 11549,
@@ -624,6 +624,14 @@
       "word": "光伏组件低于成本投标中标涉嫌违法",
       "onboard_time": 1729280771,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10062,
+      "num": 58520,
+      "word": "北京灯光秀是懂氛围感的",
+      "onboard_time": 1729289353,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
