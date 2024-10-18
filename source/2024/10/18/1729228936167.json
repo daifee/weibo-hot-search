@@ -1,0 +1,410 @@
+{
+  "runTime": 1729228936167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310509,
+        "num": 1310509,
+        "word": "papi酱问黄圣依杨子是演的还是真的",
+        "onboard_time": 1729222038,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1084983,
+        "num": 1084983,
+        "word": "医学生发大体老师头骨合影引不满",
+        "onboard_time": 1729221920,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13345,
+        "num": 855333,
+        "word": "丰收的田野多姿多彩",
+        "onboard_time": 1729219879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1616340,
+        "num": 823456,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1160789,
+        "num": 816406,
+        "word": "覃海洋成功晋级后挥手竖大拇指",
+        "onboard_time": 1729222038,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771020,
+        "num": 771020,
+        "word": "金饰价格持续大涨",
+        "onboard_time": 1729224981,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754461,
+        "num": 754461,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441130,
+        "num": 591184,
+        "word": "朴彩英首单官宣",
+        "onboard_time": 1729226241,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475358,
+        "num": 585987,
+        "word": "95后研究员4个博士学位本人发声",
+        "onboard_time": 1729226121,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585024,
+        "num": 585024,
+        "word": "教师非教学负担为什么越减越重",
+        "onboard_time": 1729220719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174091,
+        "num": 583233,
+        "word": "小学副校长被控性侵16岁女学生",
+        "onboard_time": 1729223901,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618058,
+        "num": 579565,
+        "word": "京东金融辟谣网传挤兑",
+        "onboard_time": 1729227440,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73062,
+        "num": 541994,
+        "word": "为什么有的人总爱泼冷水",
+        "onboard_time": 1729227440,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523490,
+        "num": 523490,
+        "word": "拜登就以军称打死辛瓦尔发声",
+        "onboard_time": 1729223240,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64397,
+        "num": 492766,
+        "word": "女子为挽回男友被诱导消费近10万",
+        "onboard_time": 1729227921,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482427,
+        "num": 482427,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320492,
+        "num": 421202,
+        "word": "周也 昼夜",
+        "onboard_time": 1729223301,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98677,
+        "num": 389791,
+        "word": "陈奕迅深圳售罄",
+        "onboard_time": 1729228279,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 363324,
+        "num": 363324,
+        "word": "武汉公交回应下车请走好有哀悼歧义",
+        "onboard_time": 1729218798,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24934,
+        "num": 321126,
+        "word": "美以称现在正是推动停火协议的机会",
+        "onboard_time": 1729228400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435929,
+        "num": 320368,
+        "word": "小英回应开着路虎去种地",
+        "onboard_time": 1729222879,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318598,
+        "num": 318598,
+        "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
+        "onboard_time": 1729214959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268057,
+        "num": 268057,
+        "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+        "onboard_time": 1729227561,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260162,
+        "num": 260162,
+        "word": "慕胥辞首发剧照",
+        "onboard_time": 1729226899,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250358,
+        "num": 250358,
+        "word": "张雪峰",
+        "onboard_time": 1729222400,
+        "rank": 24,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 234580,
+        "num": 234580,
+        "word": "00后中介失业转行卖车月入10万",
+        "onboard_time": 1729225881,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230924,
+        "num": 230924,
+        "word": "吹牛老爹的疯狂派对",
+        "onboard_time": 1729221140,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212511,
+        "num": 212511,
+        "word": "GALA说没想到会输",
+        "onboard_time": 1729226721,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193437,
+        "num": 211639,
+        "word": "诗幂又坐一起",
+        "onboard_time": 1729217300,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 211049,
+        "word": "肖战跟孔笙导演拥抱告别",
+        "onboard_time": 1729220659,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210857,
+        "num": 210857,
+        "word": "山东滨州一干部在工作场所被捅身亡",
+        "onboard_time": 1729227081,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210057,
+        "num": 210057,
+        "word": "义乌警方通报摆拍凝视独居女子视频",
+        "onboard_time": 1729225220,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180924,
+        "num": 180924,
+        "word": "环球人物孙颖莎",
+        "onboard_time": 1729216758,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178888,
+        "num": 178888,
+        "word": "陈丽君在法国演出红楼梦",
+        "onboard_time": 1729225942,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176353,
+        "num": 176353,
+        "word": "陷入我们的热恋预告",
+        "onboard_time": 1729228579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171183,
+        "num": 171183,
+        "word": "A股大涨那几天究竟激活了多少股民",
+        "onboard_time": 1729226481,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170053,
+        "num": 170053,
+        "word": "恋与深空",
+        "onboard_time": 1729220780,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167693,
+        "num": 167693,
+        "word": "斗罗大陆2燃魂集结海报",
+        "onboard_time": 1729228520,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161008,
+        "num": 161008,
+        "word": "留几手 打分",
+        "onboard_time": 1729227260,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156427,
+        "num": 156427,
+        "word": "姚晨用唇印给人化妆",
+        "onboard_time": 1729226721,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156241,
+        "num": 156241,
+        "word": "覃海洋100蛙小组第一",
+        "onboard_time": 1729219579,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154586,
+        "num": 154586,
+        "word": "易梦玲走秀",
+        "onboard_time": 1729228759,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150460,
+        "num": 150460,
+        "word": "不疼痛的乳腺结节更需警惕",
+        "onboard_time": 1729228759,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147549,
+        "num": 147549,
+        "word": "A股",
+        "onboard_time": 1729228700,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144886,
+        "num": 144886,
+        "word": "听泉鉴宝将改名赏宝",
+        "onboard_time": 1729211120,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144502,
+        "num": 144502,
+        "word": "刚退休正是藏不住爱的年纪",
+        "onboard_time": 1729228579,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140631,
+        "num": 140631,
+        "word": "黑白诀定档",
+        "onboard_time": 1729226001,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139928,
+        "num": 139928,
+        "word": "樊振东光速赢下第二盘",
+        "onboard_time": 1729222218,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136583,
+        "num": 136583,
+        "word": "以军公布哈马斯领导人死前反抗视频",
+        "onboard_time": 1729213160,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136543,
+        "num": 136543,
+        "word": "VOGUE聚会大合照",
+        "onboard_time": 1729218558,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞过的优秀党员#"
+    }
+  }
+}
