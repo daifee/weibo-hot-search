@@ -1,0 +1,410 @@
+{
+  "runTime": 1729215748834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2112640,
+        "num": 2112640,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863106,
+        "num": 863106,
+        "word": "听泉鉴宝将改名赏宝",
+        "onboard_time": 1729211120,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12829,
+        "num": 819887,
+        "word": "嫦娥六号月壤亮相国际宇航大会",
+        "onboard_time": 1729172902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 813988,
+        "num": 813988,
+        "word": "多银行今日起下调存款利率",
+        "onboard_time": 1729214061,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 685064,
+        "num": 685064,
+        "word": "空袭受伤19岁小伙住院又遇空袭丧生",
+        "onboard_time": 1729212921,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 593290,
+        "num": 593290,
+        "word": "以军公布哈马斯领导人死前反抗视频",
+        "onboard_time": 1729213160,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585761,
+        "num": 585761,
+        "word": "一本教材46个付费码不是创新是创收",
+        "onboard_time": 1729210581,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497241,
+        "num": 497241,
+        "word": "VOGUE把秀场搬到了街头",
+        "onboard_time": 1729210341,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 451965,
+        "num": 497235,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1729170383,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266921,
+        "num": 497232,
+        "word": "10万存款年息少250元",
+        "onboard_time": 1729213160,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1349437,
+        "num": 497224,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688633,
+        "num": 497218,
+        "word": "孕妇2次到店借用厕所和店员起争执",
+        "onboard_time": 1729182378,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497216,
+        "num": 497216,
+        "word": "民警搜山喊了4小时找回5名大学生",
+        "onboard_time": 1729193051,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453228,
+        "num": 453228,
+        "word": "以色列国防军确认打死哈马斯领导人",
+        "onboard_time": 1729207517,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 395307,
+        "num": 395307,
+        "word": "老人花40万在直播间买了堆塑料",
+        "onboard_time": 1729174823,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585449,
+        "num": 393774,
+        "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
+        "onboard_time": 1729214959,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378670,
+        "num": 378670,
+        "word": "毕业生举报高校女教师与其恋爱出轨",
+        "onboard_time": 1729173563,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325575,
+        "num": 325575,
+        "word": "谷爱凌给杨幂颁奖",
+        "onboard_time": 1729208958,
+        "rank": 17,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 304997,
+        "num": 304997,
+        "word": "scout 还钱",
+        "onboard_time": 1729183696,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290225,
+        "num": 290225,
+        "word": "倪妮拿到了杨幂的绣球",
+        "onboard_time": 1729172062,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288803,
+        "num": 288803,
+        "word": "黄圣依想离婚是受不了爹式管理",
+        "onboard_time": 1729169061,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257905,
+        "num": 257905,
+        "word": "辛瓦尔最后时刻向以军无人机投掷棍子",
+        "onboard_time": 1729210640,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 256825,
+        "num": 256825,
+        "word": "降息",
+        "onboard_time": 1729214000,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213614,
+        "num": 213614,
+        "word": "美国对以色列的警告被指是一个笑话",
+        "onboard_time": 1729211239,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 205849,
+        "word": "曾之乔怀的是男孩",
+        "onboard_time": 1729207337,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181868,
+        "num": 181868,
+        "word": "黄圣依说不喜欢直播",
+        "onboard_time": 1729213340,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116485,
+        "num": 179832,
+        "word": "VOGUE晚宴",
+        "onboard_time": 1729173142,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115940,
+        "num": 179612,
+        "word": "刘冲让王一博走慢点",
+        "onboard_time": 1729173022,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5668,
+        "num": 175952,
+        "word": "樊振东vs罗铮",
+        "onboard_time": 1729215680,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13109,
+        "num": 175212,
+        "word": "许昕周恺vs陈磊欣王麒凯",
+        "onboard_time": 1729215560,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173423,
+        "num": 173423,
+        "word": "Uzi谈WBG晋级四强",
+        "onboard_time": 1729210881,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173272,
+        "num": 173272,
+        "word": "许家印前妻逾22亿房产或遭接管",
+        "onboard_time": 1729211182,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172624,
+        "num": 172624,
+        "word": "金正恩称朝鲜军队要认清韩国是敌国",
+        "onboard_time": 1729213581,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169822,
+        "num": 169822,
+        "word": "职工医保中断可以补缴吗",
+        "onboard_time": 1729180642,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163680,
+        "num": 163680,
+        "word": "被百万粉丝网红偷拍当事人发声",
+        "onboard_time": 1729212860,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158193,
+        "num": 158193,
+        "word": "南宁巨响",
+        "onboard_time": 1729214479,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154058,
+        "num": 154058,
+        "word": "她是第一位穿越蘑菇云取样的女飞",
+        "onboard_time": 1729186093,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146054,
+        "num": 146054,
+        "word": "4个动作避免乳腺结节",
+        "onboard_time": 1729208839,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145107,
+        "num": 145107,
+        "word": "拜登称DNA检测证明辛瓦尔已死",
+        "onboard_time": 1729214361,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110808,
+        "num": 141837,
+        "word": "赵露思飞吻",
+        "onboard_time": 1729170803,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111767,
+        "num": 141220,
+        "word": "新一和小兰约会提前做攻略",
+        "onboard_time": 1729213940,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140990,
+        "num": 140990,
+        "word": "挂满勋章的老兵坐车司机决定免单",
+        "onboard_time": 1729210401,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133792,
+        "num": 133792,
+        "word": "WBG晋级S14四强",
+        "onboard_time": 1729180282,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122324,
+        "num": 122324,
+        "word": "Breathe说WBG有机会夺冠",
+        "onboard_time": 1729212141,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117726,
+        "num": 117726,
+        "word": "1枚火箭弹掉入我赴黎维和部队营区",
+        "onboard_time": 1729213281,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114921,
+        "num": 114921,
+        "word": "狸花猫 那咋了",
+        "onboard_time": 1729214720,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112035,
+        "num": 112035,
+        "word": "邪恶银渐层出击",
+        "onboard_time": 1729207517,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110613,
+        "num": 110613,
+        "word": "郭晶晶希望让孩子多吃苦",
+        "onboard_time": 1729207278,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109500,
+        "num": 109500,
+        "word": "周也裙子变装",
+        "onboard_time": 1729167921,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109475,
+        "num": 109475,
+        "word": "周翊然扛住了VOGUE背景板",
+        "onboard_time": 1729211781,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年是创新的重要生力军#"
+    }
+  }
+}
