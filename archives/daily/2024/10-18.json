@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729240110007,
+  "endTime": 1729240961487,
   "band_list": [
     {
       "raw_hot": 3020148,
@@ -49,6 +49,14 @@
       "onboard_time": 1729219579,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1578069,
+      "num": 1578069,
+      "word": "ZH9138航班已安全落地",
+      "onboard_time": 1729238781,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1564073,
@@ -123,7 +131,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1132006,
+      "raw_hot": 1133718,
       "num": 1181121,
       "word": "中介自称今年已卖出20多个孩子",
       "onboard_time": 1729236141,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819298,
+      "num": 819298,
+      "word": "女幼师出租屋遇害案被告人获死刑",
+      "onboard_time": 1729235962,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813989,
       "num": 813989,
       "word": "scout 还钱",
@@ -211,12 +227,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 813016,
-      "num": 813016,
-      "word": "女幼师出租屋遇害案被告人获死刑",
-      "onboard_time": 1729235962,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 800450,
+      "num": 800450,
+      "word": "曝男明星走VOGUE红毯耍大牌",
+      "onboard_time": 1729236862,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 790752,
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723515,
-      "num": 723515,
-      "word": "曝男明星走VOGUE红毯耍大牌",
-      "onboard_time": 1729236862,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 712268,
       "num": 712268,
       "word": "空袭受伤19岁小伙住院又遇空袭丧生",
@@ -291,12 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 681703,
-      "num": 681703,
-      "word": "ZH9138航班已安全落地",
-      "onboard_time": 1729238781,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 654979,
+      "num": 319636,
+      "word": "杨子承认曾和黄圣依彻底分开",
+      "onboard_time": 1729240819,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 646487,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583324,
+      "num": 583324,
+      "word": "深圳航空",
+      "onboard_time": 1729239199,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578955,
       "num": 334209,
       "word": "25个微do等于几个伍佰",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 557342,
-      "num": 321327,
+      "num": 326961,
       "word": "沙溢肌肉",
       "onboard_time": 1729236141,
       "rank": 28,
@@ -571,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 377923,
+      "num": 322956,
+      "word": "这还是沙溢吗",
+      "onboard_time": 1729237581,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376043,
       "num": 376043,
       "word": "起猛了看见农民给稻田挠痒痒",
@@ -643,6 +667,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 319078,
+      "num": 319078,
+      "word": "外交部回应辛瓦尔被打死",
+      "onboard_time": 1729238060,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317765,
       "num": 317765,
       "word": "职工医保中断可以补缴吗",
@@ -673,14 +705,6 @@
       "onboard_time": 1729207337,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304925,
-      "num": 244606,
-      "word": "这还是沙溢吗",
-      "onboard_time": 1729237581,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 303750,
@@ -715,20 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282469,
-      "num": 282469,
-      "word": "深圳航空",
-      "onboard_time": 1729239199,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281977,
       "num": 174767,
       "word": "留几手说杨子蹭了黄圣依不少流量",
       "onboard_time": 1729194910,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270763,
+      "num": 362089,
+      "word": "千万奖金被冒领后赢了官司没要回钱",
+      "onboard_time": 1729238659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266108,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233469,
+      "num": 233469,
+      "word": "表姐为了猫扇了亲戚小孩一巴掌",
+      "onboard_time": 1729240520,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230791,
       "num": 369617,
       "word": "山东滨州一干部在工作场所被捅身亡",
@@ -833,6 +865,22 @@
       "onboard_time": 1729223539,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230435,
+      "num": 325388,
+      "word": "VOGUE晚宴主桌",
+      "onboard_time": 1729240040,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229183,
+      "num": 229183,
+      "word": "40岁女性在杭州的真实现状",
+      "onboard_time": 1729238241,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228669,
@@ -864,14 +912,6 @@
       "word": "义乌警方通报摆拍凝视独居女子视频",
       "onboard_time": 1729225220,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223963,
-      "num": 362089,
-      "word": "千万奖金被冒领后赢了官司没要回钱",
-      "onboard_time": 1729238659,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203885,
+      "num": 221519,
+      "word": "朴彩英空降成绩",
+      "onboard_time": 1729239561,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203812,
       "num": 207008,
       "word": "黄圣依说不喜欢直播",
@@ -1043,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196145,
-      "num": 196145,
-      "word": "40岁女性在杭州的真实现状",
-      "onboard_time": 1729238241,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196010,
       "num": 196010,
       "word": "黄圣依 忍者",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1729235061,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190553,
+      "num": 199510,
+      "word": "王一博首场比赛即将来袭",
+      "onboard_time": 1729240520,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190373,
@@ -1331,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164202,
-      "num": 226185,
-      "word": "外交部回应辛瓦尔被打死",
-      "onboard_time": 1729238060,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161008,
       "num": 161008,
       "word": "留几手 打分",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1729226061,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158402,
-      "num": 221519,
-      "word": "朴彩英空降成绩",
-      "onboard_time": 1729239561,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 158362,
@@ -1499,6 +1531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145851,
+      "num": 145851,
+      "word": "油炸方便面",
+      "onboard_time": 1729239861,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145107,
       "num": 145107,
       "word": "拜登称DNA检测证明辛瓦尔已死",
@@ -1579,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138999,
+      "num": 335176,
+      "word": "深航回应客机出现烟雾返航",
+      "onboard_time": 1729239979,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138893,
       "num": 138893,
       "word": "魏大勋 飘带你好坏",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1729215680,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133502,
+      "num": 133502,
+      "word": "刘亦菲领奖致辞",
+      "onboard_time": 1729240461,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132731,
@@ -1763,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121489,
-      "num": 227013,
-      "word": "深航回应客机出现烟雾返航",
-      "onboard_time": 1729239979,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121195,
       "num": 405746,
       "word": "我就说没有大学生不会的吧",
@@ -1833,22 +1881,6 @@
       "onboard_time": 1729183877,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110906,
-      "num": 110906,
-      "word": "油炸方便面",
-      "onboard_time": 1729239861,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109552,
-      "num": 109552,
-      "word": "VOGUE晚宴主桌",
-      "onboard_time": 1729240040,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 109475,
@@ -2059,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65115,
+      "num": 322012,
+      "word": "实测136克辣条可挤出近19克油",
+      "onboard_time": 1729239261,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63759,
       "num": 63759,
       "word": "Scout看好GEN夺冠",
@@ -2115,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53645,
-      "num": 259944,
-      "word": "实测136克辣条可挤出近19克油",
-      "onboard_time": 1729239261,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52209,
       "num": 52209,
       "word": "杭州人也有自己的Jellycat",
@@ -2163,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45831,
+      "num": 320711,
+      "word": "外媒爆马沙尔成为哈马斯代理领导人",
+      "onboard_time": 1729239141,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45333,
       "num": 437366,
       "word": "充电桩靠低额电价高额服务费收割用户",
@@ -2187,14 +2227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 38434,
-      "num": 304380,
-      "word": "外媒爆马沙尔成为哈马斯代理领导人",
-      "onboard_time": 1729239141,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 38374,
       "num": 55015,
       "word": "王者九周年限定回忆",
@@ -2208,6 +2240,14 @@
       "word": "没想到清明上河园真有七色花",
       "onboard_time": 1729222400,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34661,
+      "num": 882718,
+      "word": "三季度免签入境外国人同比上升78.6%",
+      "onboard_time": 1729239920,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2419,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16020,
+      "num": 323612,
+      "word": "陈紫函听不懂土味情话",
+      "onboard_time": 1729240280,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15759,
       "num": 42861,
       "word": "你的样子",
@@ -2475,12 +2523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6130,
-      "num": 747635,
-      "word": "三季度免签入境外国人同比上升78.6%",
-      "onboard_time": 1729239920,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 9346,
+      "num": 324109,
+      "word": "许昕背后击球",
+      "onboard_time": 1729240880,
+      "rank": 16,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
