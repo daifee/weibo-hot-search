@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729220082083,
+  "endTime": 1729220645264,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -40,6 +40,14 @@
       "word": "孕妇2次到店借用厕所和店员起争执",
       "onboard_time": 1729182378,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1254233,
+      "num": 477289,
+      "word": "网恋女友奔现后男子说想把他掐死",
+      "onboard_time": 1729218620,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -107,20 +115,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 786545,
+      "num": 786545,
+      "word": "覃海洋100蛙小组第一",
+      "onboard_time": 1729219579,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771617,
       "num": 771617,
       "word": "LNG对战WBG",
       "onboard_time": 1729167021,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 760630,
-      "num": 477289,
-      "word": "网恋女友奔现后男子说想把他掐死",
-      "onboard_time": 1729218620,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 727346,
@@ -283,6 +291,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 345696,
+      "num": 345696,
+      "word": "诗幂又坐一起",
+      "onboard_time": 1729217300,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336681,
+      "num": 336681,
+      "word": "VOGUE聚会大合照",
+      "onboard_time": 1729218558,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 332080,
       "num": 224534,
       "word": "小英称牛因生了小牛且生病才瘦",
@@ -332,27 +356,11 @@
     },
     {
       "raw_hot": 303750,
-      "num": 271551,
+      "num": 287931,
       "word": "狸花猫 那咋了",
       "onboard_time": 1729214720,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 298606,
-      "num": 298606,
-      "word": "VOGUE聚会大合照",
-      "onboard_time": 1729218558,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 295549,
-      "num": 268730,
-      "word": "覃海洋100蛙小组第一",
-      "onboard_time": 1729219579,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 290768,
@@ -363,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283665,
+      "num": 447471,
+      "word": "武汉公交回应下车请走好有哀悼歧义",
+      "onboard_time": 1729218798,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281977,
       "num": 174767,
       "word": "留几手说杨子蹭了黄圣依不少流量",
@@ -371,20 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278558,
-      "num": 278558,
-      "word": "诗幂又坐一起",
-      "onboard_time": 1729217300,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 261349,
-      "num": 261349,
-      "word": "武汉公交回应下车请走好有哀悼歧义",
-      "onboard_time": 1729218798,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 266108,
+      "num": 266108,
+      "word": "1米9的潘展乐混在小朋友堆里学跳舞",
+      "onboard_time": 1729219278,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 257905,
@@ -393,6 +401,14 @@
       "onboard_time": 1729210640,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 255436,
+      "num": 255436,
+      "word": "长安的荔枝预告",
+      "onboard_time": 1729220541,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 239452,
@@ -443,20 +459,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213909,
+      "num": 213909,
+      "word": "拜登祝贺以军打死辛瓦尔",
+      "onboard_time": 1729218080,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 213614,
       "num": 383208,
       "word": "美国对以色列的警告被指是一个笑话",
       "onboard_time": 1729211239,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 212307,
-      "num": 212307,
-      "word": "1米9的潘展乐混在小朋友堆里学跳舞",
-      "onboard_time": 1729219278,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 209327,
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200634,
-      "num": 200634,
-      "word": "拜登祝贺以军打死辛瓦尔",
-      "onboard_time": 1729218080,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 199995,
       "num": 264657,
       "word": "许我耀眼首发预告",
@@ -521,6 +529,14 @@
       "onboard_time": 1729214479,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187008,
+      "num": 199376,
+      "word": "滤镜 檀健次李兰迪",
+      "onboard_time": 1729220299,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 179988,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174564,
+      "num": 174564,
+      "word": "择机进一步下调存款准备金率",
+      "onboard_time": 1729220060,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173423,
       "num": 173423,
       "word": "Uzi谈WBG晋级四强",
@@ -585,6 +609,14 @@
       "onboard_time": 1729212860,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165689,
+      "num": 165689,
+      "word": "GDP",
+      "onboard_time": 1729220238,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 165528,
@@ -683,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142743,
+      "num": 142743,
+      "word": "打卡秋天里的美丽中国",
+      "onboard_time": 1729215199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141282,
       "num": 141282,
       "word": "以方称打死哈马斯领导人辛瓦尔",
@@ -705,14 +745,6 @@
       "onboard_time": 1729171282,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137281,
-      "num": 137281,
-      "word": "择机进一步下调存款准备金率",
-      "onboard_time": 1729220060,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 133921,
@@ -753,14 +785,6 @@
       "onboard_time": 1729213940,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 125927,
-      "num": 125927,
-      "word": "打卡秋天里的美丽中国",
-      "onboard_time": 1729215199,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124025,
@@ -963,7 +987,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 80498,
+      "raw_hot": 81690,
       "num": 480154,
       "word": "三季度经济数据发布",
       "onboard_time": 1729218860,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1729206316,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 58104,
+      "num": 140253,
+      "word": "奇瑞智能化也不客气了",
+      "onboard_time": 1729220541,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 58023,
@@ -1115,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26426,
+      "num": 945924,
+      "word": "丰收的田野多姿多彩",
+      "onboard_time": 1729219879,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26162,
       "num": 34054,
       "word": "公司回应有人离岗长达16年",
@@ -1136,6 +1176,14 @@
       "word": "专家称美网络攻击活动是可捕获的",
       "onboard_time": 1729219339,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25032,
+      "num": 1068259,
+      "word": "2024金融街论坛年会",
+      "onboard_time": 1729220480,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1219,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13325,
+      "num": 139182,
+      "word": "双11猫头橱窗卖的是情绪价值",
+      "onboard_time": 1729220541,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 12829,
       "num": 846604,
       "word": "嫦娥六号月壤亮相国际宇航大会",
@@ -1232,14 +1288,6 @@
       "word": "清澈的爱只为中国",
       "onboard_time": 1729202472,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9290,
-      "num": 945924,
-      "word": "丰收的田野多姿多彩",
-      "onboard_time": 1729219879,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

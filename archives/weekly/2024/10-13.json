@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729220082083,
+  "endTime": 1729220645264,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1072,6 +1072,14 @@
       "word": "村子只是东北雨姐拍短视频的基地",
       "onboard_time": 1728783618,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1254233,
+      "num": 477289,
+      "word": "网恋女友奔现后男子说想把他掐死",
+      "onboard_time": 1729218620,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786545,
+      "num": 786545,
+      "word": "覃海洋100蛙小组第一",
+      "onboard_time": 1729219579,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 785837,
       "num": 785837,
       "word": "朝鲜140万青年参军或复队",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1728873618,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 760630,
-      "num": 477289,
-      "word": "网恋女友奔现后男子说想把他掐死",
-      "onboard_time": 1729218620,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 755074,
@@ -4803,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345696,
+      "num": 345696,
+      "word": "诗幂又坐一起",
+      "onboard_time": 1729217300,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343623,
       "num": 519183,
       "word": "大学生做兼职名下多了21家公司",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1729050560,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336681,
+      "num": 336681,
+      "word": "VOGUE聚会大合照",
+      "onboard_time": 1729218558,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 334912,
@@ -5284,7 +5308,7 @@
     },
     {
       "raw_hot": 303750,
-      "num": 271551,
+      "num": 287931,
       "word": "狸花猫 那咋了",
       "onboard_time": 1729214720,
       "rank": 45,
@@ -5387,14 +5411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298606,
-      "num": 298606,
-      "word": "VOGUE聚会大合照",
-      "onboard_time": 1729218558,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 298328,
       "num": 298328,
       "word": "2025国考行测增设政治理论部分",
@@ -5441,14 +5457,6 @@
       "onboard_time": 1728973639,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 295549,
-      "num": 268730,
-      "word": "覃海洋100蛙小组第一",
-      "onboard_time": 1729219579,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 295435,
@@ -5691,6 +5699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283665,
+      "num": 447471,
+      "word": "武汉公交回应下车请走好有哀悼歧义",
+      "onboard_time": 1729218798,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283545,
       "num": 255809,
       "word": "赵丽颖提名金鹰视后",
@@ -5801,14 +5817,6 @@
       "onboard_time": 1728863899,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 278558,
-      "num": 278558,
-      "word": "诗幂又坐一起",
-      "onboard_time": 1729217300,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 276611,
@@ -6011,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266108,
+      "num": 266108,
+      "word": "1米9的潘展乐混在小朋友堆里学跳舞",
+      "onboard_time": 1729219278,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266011,
       "num": 266011,
       "word": "上海菜为什么偏甜",
@@ -6137,14 +6153,6 @@
       "onboard_time": 1729018571,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261349,
-      "num": 261349,
-      "word": "武汉公交回应下车请走好有哀悼歧义",
-      "onboard_time": 1729218798,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261312,
@@ -6297,6 +6305,14 @@
       "onboard_time": 1729147703,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255436,
+      "num": 255436,
+      "word": "长安的荔枝预告",
+      "onboard_time": 1729220541,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 254830,
@@ -7315,6 +7331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 213909,
+      "num": 213909,
+      "word": "拜登祝贺以军打死辛瓦尔",
+      "onboard_time": 1729218080,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 213614,
       "num": 383208,
       "word": "美国对以色列的警告被指是一个笑话",
@@ -7409,14 +7433,6 @@
       "onboard_time": 1728880401,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212307,
-      "num": 212307,
-      "word": "1米9的潘展乐混在小朋友堆里学跳舞",
-      "onboard_time": 1729219278,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 212165,
@@ -8081,14 +8097,6 @@
       "onboard_time": 1728800539,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200634,
-      "num": 200634,
-      "word": "拜登祝贺以军打死辛瓦尔",
-      "onboard_time": 1729218080,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 200626,
@@ -9075,6 +9083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187008,
+      "num": 199376,
+      "word": "滤镜 檀健次李兰迪",
+      "onboard_time": 1729220299,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186814,
       "num": 186814,
       "word": "干饭哥0.1环优势夺冠",
@@ -9651,6 +9667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174564,
+      "num": 174564,
+      "word": "择机进一步下调存款准备金率",
+      "onboard_time": 1729220060,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174518,
       "num": 174518,
       "word": "李耕耘黑马王子",
@@ -10073,6 +10097,14 @@
       "onboard_time": 1729128319,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165689,
+      "num": 165689,
+      "word": "GDP",
+      "onboard_time": 1729220238,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 165528,
@@ -11259,6 +11291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142743,
+      "num": 142743,
+      "word": "打卡秋天里的美丽中国",
+      "onboard_time": 1729215199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142731,
       "num": 142731,
       "word": "英雄联盟",
@@ -11489,14 +11529,6 @@
       "onboard_time": 1728988760,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137281,
-      "num": 137281,
-      "word": "择机进一步下调存款准备金率",
-      "onboard_time": 1729220060,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 137136,
@@ -11841,14 +11873,6 @@
       "onboard_time": 1728811940,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125927,
-      "num": 125927,
-      "word": "打卡秋天里的美丽中国",
-      "onboard_time": 1729215199,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125582,
@@ -13355,7 +13379,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80498,
+      "raw_hot": 81690,
       "num": 480154,
       "word": "三季度经济数据发布",
       "onboard_time": 1729218860,
@@ -14001,6 +14025,14 @@
       "onboard_time": 1729065199,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58104,
+      "num": 140253,
+      "word": "奇瑞智能化也不客气了",
+      "onboard_time": 1729220541,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 58023,
@@ -15835,6 +15867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26426,
+      "num": 945924,
+      "word": "丰收的田野多姿多彩",
+      "onboard_time": 1729219879,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26162,
       "num": 34054,
       "word": "公司回应有人离岗长达16年",
@@ -15905,6 +15945,14 @@
       "onboard_time": 1729163420,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25032,
+      "num": 1068259,
+      "word": "2024金融街论坛年会",
+      "onboard_time": 1729220480,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24986,
@@ -16579,6 +16627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13325,
+      "num": 139182,
+      "word": "双11猫头橱窗卖的是情绪价值",
+      "onboard_time": 1729220541,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13099,
       "num": 197898,
       "word": "制片人说再见爱人不会给嘉宾剧本",
@@ -16712,14 +16768,6 @@
       "word": "沉迷网赌明知会输仍继续参赌",
       "onboard_time": 1728861617,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9290,
-      "num": 945924,
-      "word": "丰收的田野多姿多彩",
-      "onboard_time": 1729219879,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

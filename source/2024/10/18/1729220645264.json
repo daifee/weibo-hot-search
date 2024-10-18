@@ -1,0 +1,410 @@
+{
+  "runTime": 1729220645264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466518,
+        "num": 1466518,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140236,
+        "num": 1140236,
+        "word": "降息",
+        "onboard_time": 1729214000,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25032,
+        "num": 1068259,
+        "word": "2024金融街论坛年会",
+        "onboard_time": 1729220480,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017192,
+        "num": 1017192,
+        "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
+        "onboard_time": 1729214959,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786545,
+        "num": 786545,
+        "word": "覃海洋100蛙小组第一",
+        "onboard_time": 1729219579,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618651,
+        "num": 618651,
+        "word": "环球人物孙颖莎",
+        "onboard_time": 1729216758,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457586,
+        "num": 457586,
+        "word": "听泉鉴宝将改名赏宝",
+        "onboard_time": 1729211120,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 452263,
+        "num": 452263,
+        "word": "2025鹅厂大剧片单",
+        "onboard_time": 1729216940,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81690,
+        "num": 452256,
+        "word": "三季度经济数据发布",
+        "onboard_time": 1729218860,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283665,
+        "num": 447471,
+        "word": "武汉公交回应下车请走好有哀悼歧义",
+        "onboard_time": 1729218798,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254233,
+        "num": 443528,
+        "word": "网恋女友奔现后男子说想把他掐死",
+        "onboard_time": 1729218620,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679895,
+        "num": 441252,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403997,
+        "num": 437347,
+        "word": "前三季度GDP同比增长4.8%",
+        "onboard_time": 1729218080,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17400,
+        "num": 435662,
+        "word": "以军此次行动并非针对辛瓦尔",
+        "onboard_time": 1729219999,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433724,
+        "num": 433724,
+        "word": "以军公布哈马斯领导人死前反抗视频",
+        "onboard_time": 1729213160,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382970,
+        "num": 382970,
+        "word": "空袭受伤19岁小伙住院又遇空袭丧生",
+        "onboard_time": 1729212921,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 345696,
+        "num": 345696,
+        "word": "诗幂又坐一起",
+        "onboard_time": 1729217300,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26426,
+        "num": 337836,
+        "word": "丰收的田野多姿多彩",
+        "onboard_time": 1729219879,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336681,
+        "num": 336681,
+        "word": "VOGUE聚会大合照",
+        "onboard_time": 1729218558,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 303273,
+        "num": 303273,
+        "word": "民警搜山喊了4小时找回5名大学生",
+        "onboard_time": 1729193051,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328260,
+        "num": 298904,
+        "word": "孕妇2次到店借用厕所和店员起争执",
+        "onboard_time": 1729182378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287931,
+        "num": 287931,
+        "word": "狸花猫 那咋了",
+        "onboard_time": 1729214720,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278676,
+        "num": 278676,
+        "word": "10万存款年息少250元",
+        "onboard_time": 1729213160,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 266108,
+        "num": 266108,
+        "word": "1米9的潘展乐混在小朋友堆里学跳舞",
+        "onboard_time": 1729219278,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255436,
+        "num": 255436,
+        "word": "长安的荔枝预告",
+        "onboard_time": 1729220541,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223402,
+        "num": 223402,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1729170383,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213909,
+        "num": 213909,
+        "word": "拜登祝贺以军打死辛瓦尔",
+        "onboard_time": 1729218080,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203830,
+        "num": 203830,
+        "word": "永夜星河竹林四侠预告",
+        "onboard_time": 1729219639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187008,
+        "num": 199376,
+        "word": "滤镜 檀健次李兰迪",
+        "onboard_time": 1729220299,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185714,
+        "num": 199312,
+        "word": "许我耀眼首发预告",
+        "onboard_time": 1729219160,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195607,
+        "num": 199302,
+        "word": "金正恩称朝鲜军队要认清韩国是敌国",
+        "onboard_time": 1729213581,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199301,
+        "num": 199301,
+        "word": "女子40多万买几百件假文物",
+        "onboard_time": 1729218080,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184500,
+        "num": 184500,
+        "word": "北京协和医院报案",
+        "onboard_time": 1729216100,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174564,
+        "num": 174564,
+        "word": "择机进一步下调存款准备金率",
+        "onboard_time": 1729220060,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166440,
+        "num": 166440,
+        "word": "黄圣依说不喜欢直播",
+        "onboard_time": 1729213340,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165689,
+        "num": 165689,
+        "word": "GDP",
+        "onboard_time": 1729220238,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165282,
+        "num": 165282,
+        "word": "一本教材46个付费码不是创新是创收",
+        "onboard_time": 1729210581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160081,
+        "num": 160081,
+        "word": "谷爱凌给杨幂颁奖",
+        "onboard_time": 1729208958,
+        "rank": 37,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 155685,
+        "word": "scout 还钱",
+        "onboard_time": 1729183696,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150802,
+        "num": 150802,
+        "word": "樊振东3比0罗铮",
+        "onboard_time": 1729216578,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150349,
+        "num": 150349,
+        "word": "2024全国秋裤预警地图",
+        "onboard_time": 1729216159,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149216,
+        "num": 149216,
+        "word": "毕业生举报高校女教师与其恋爱出轨",
+        "onboard_time": 1729173563,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159670,
+        "num": 148704,
+        "word": "倪妮拿到了杨幂的绣球",
+        "onboard_time": 1729172062,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147108,
+        "num": 147108,
+        "word": "大奉打更人锁定你海报",
+        "onboard_time": 1729217899,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142743,
+        "num": 142743,
+        "word": "打卡秋天里的美丽中国",
+        "onboard_time": 1729215199,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141897,
+        "num": 141897,
+        "word": "以色列总理称战争还未结束",
+        "onboard_time": 1729217359,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141390,
+        "num": 141390,
+        "word": "美国对以色列的警告被指是一个笑话",
+        "onboard_time": 1729211239,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58104,
+        "num": 140253,
+        "word": "奇瑞智能化也不客气了",
+        "onboard_time": 1729220541,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139936,
+        "num": 139936,
+        "word": "VOGUE把秀场搬到了街头",
+        "onboard_time": 1729210341,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 13325,
+        "num": 139182,
+        "word": "双11猫头橱窗卖的是情绪价值",
+        "onboard_time": 1729220541,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬科学精神积极投身科技创新#"
+    }
+  }
+}
