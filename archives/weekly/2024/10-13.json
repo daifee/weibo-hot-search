@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729255332151,
+  "endTime": 1729256322426,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1435,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1091690,
+      "num": 621165,
+      "word": "内娱三大忍者",
+      "onboard_time": 1729253179,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1089422,
       "num": 1277723,
       "word": "K总停播",
@@ -1496,6 +1504,14 @@
       "word": "90后小伙炒股4天亏损32万",
       "onboard_time": 1728803958,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1062942,
+      "num": 479903,
+      "word": "员工嫖娼被抓公司解除劳动合同被告",
+      "onboard_time": 1729252341,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1881,6 +1897,14 @@
       "onboard_time": 1729135944,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 898863,
+      "num": 476338,
+      "word": "教育局回应男老师用球拍捅男生屁股",
+      "onboard_time": 1729252281,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 898165,
@@ -3243,14 +3267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 621165,
-      "num": 621165,
-      "word": "内娱三大忍者",
-      "onboard_time": 1729253179,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 620284,
       "num": 620284,
       "word": "男子乘飞机2小时未起身致肺栓塞身亡",
@@ -3489,14 +3505,6 @@
       "onboard_time": 1729236681,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 578452,
-      "num": 467644,
-      "word": "员工嫖娼被抓公司解除劳动合同被告",
-      "onboard_time": 1729252341,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577803,
@@ -3891,6 +3899,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 521626,
+      "num": 521626,
+      "word": "印媒找到中国男性更高的原因",
+      "onboard_time": 1729252879,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521370,
       "num": 300346,
       "word": "全红婵说知道要减重所以吃了很多",
@@ -4283,6 +4299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 469618,
+      "num": 469618,
+      "word": "骄阳似我 宋威龙赵今麦",
+      "onboard_time": 1729253841,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466476,
       "num": 466476,
       "word": "第五人格前瞻直播",
@@ -4363,14 +4387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 457751,
-      "num": 457751,
-      "word": "骄阳似我 宋威龙赵今麦",
-      "onboard_time": 1729253841,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454584,
       "num": 412589,
       "word": "薛冰冰为赵露思化的妆",
@@ -4393,6 +4409,14 @@
       "onboard_time": 1729207517,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 453080,
+      "num": 453080,
+      "word": "虞书欣和平精英舞台",
+      "onboard_time": 1729254740,
+      "rank": 26,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 452421,
@@ -4617,6 +4641,14 @@
       "onboard_time": 1728832281,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430414,
+      "num": 488249,
+      "word": "泽连斯基向特朗普要核武器",
+      "onboard_time": 1729253960,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 429393,
@@ -4859,14 +4891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399755,
-      "num": 399755,
-      "word": "教育局回应男老师用球拍捅男生屁股",
-      "onboard_time": 1729252281,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399087,
       "num": 578251,
       "word": "赵牧辰刘雨璠断崖式be",
@@ -5064,14 +5088,6 @@
       "word": "起猛了看见农民给稻田挠痒痒",
       "onboard_time": 1729230979,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375536,
-      "num": 375536,
-      "word": "印媒找到中国男性更高的原因",
-      "onboard_time": 1729252879,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -5385,6 +5401,14 @@
       "onboard_time": 1728920960,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344881,
+      "num": 344881,
+      "word": "郭艾伦哭了",
+      "onboard_time": 1729253841,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 343623,
@@ -5747,14 +5771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317089,
-      "num": 317089,
-      "word": "泽连斯基向特朗普要核武器",
-      "onboard_time": 1729253960,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 316667,
       "num": 316667,
       "word": "张本智和3比1吴晙诚",
@@ -6025,6 +6041,14 @@
       "onboard_time": 1729231942,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298417,
+      "num": 298417,
+      "word": "张雨霏回应50米自摘银",
+      "onboard_time": 1729255400,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 298328,
@@ -6496,14 +6520,6 @@
       "word": "郑钦文年度总奖金已达到311.2万美元",
       "onboard_time": 1728875478,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 274368,
-      "num": 274368,
-      "word": "郭艾伦哭了",
-      "onboard_time": 1729253841,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -7435,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233705,
+      "num": 233705,
+      "word": "华晨宇镜头",
+      "onboard_time": 1729255040,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233311,
       "num": 353648,
       "word": "此沙掏耳朵",
@@ -8089,6 +8113,14 @@
       "onboard_time": 1728907758,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214696,
+      "num": 214696,
+      "word": "孙佳俊回应100米蛙泳摘银",
+      "onboard_time": 1729255101,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 214654,
@@ -8779,14 +8811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203254,
-      "num": 203254,
-      "word": "虞书欣和平精英舞台",
-      "onboard_time": 1729254740,
-      "rank": 26,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 203170,
       "num": 203170,
       "word": "iPad mini",
@@ -8969,6 +8993,14 @@
       "onboard_time": 1728800539,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200675,
+      "num": 200675,
+      "word": "汪顺100混打破亚洲纪录",
+      "onboard_time": 1729256121,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 200626,
@@ -9361,6 +9393,14 @@
       "onboard_time": 1729172783,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195662,
+      "num": 195662,
+      "word": "她这么痛还稳稳地抱起孩子",
+      "onboard_time": 1729254980,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195651,
@@ -11227,6 +11267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165926,
+      "num": 165926,
+      "word": "时代少年团直播",
+      "onboard_time": 1729255641,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165689,
       "num": 165689,
       "word": "GDP",
@@ -11555,6 +11603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 160096,
+      "num": 160096,
+      "word": "HLE对战BLG",
+      "onboard_time": 1729253421,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159965,
       "num": 159965,
       "word": "男二来要人了男主才开始慌",
@@ -11875,6 +11931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154719,
+      "num": 154719,
+      "word": "向佐曾贴脸开大杨子",
+      "onboard_time": 1729256001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154510,
       "num": 626831,
       "word": "林高远刘诗雯vs赵子豪陈熠",
@@ -12105,14 +12169,6 @@
       "onboard_time": 1729122560,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151308,
-      "num": 151308,
-      "word": "华晨宇镜头",
-      "onboard_time": 1729255040,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 151235,
@@ -13067,14 +13123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134967,
-      "num": 134967,
-      "word": "她这么痛还稳稳地抱起孩子",
-      "onboard_time": 1729254980,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "鉴宝主播需要为鉴定结果负责吗",
@@ -13321,6 +13369,14 @@
       "onboard_time": 1728788060,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127783,
+      "num": 127783,
+      "word": "张雨霏50自银牌",
+      "onboard_time": 1729255520,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127693,
@@ -13611,14 +13667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120312,
-      "num": 120312,
-      "word": "孙佳俊回应100米蛙泳摘银",
-      "onboard_time": 1729255101,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119977,
       "num": 119977,
       "word": "中国网安协会点名英特尔暗设后门",
@@ -13825,6 +13873,14 @@
       "onboard_time": 1728781998,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115411,
+      "num": 115411,
+      "word": "时光音乐会",
+      "onboard_time": 1729255881,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 115386,
@@ -15931,6 +15987,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53141,
+      "num": 340281,
+      "word": "明星们有多爱开大G",
+      "onboard_time": 1729255280,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52895,
       "num": 292461,
       "word": "10多个省份将人工耳蜗纳入医保",
@@ -17451,6 +17515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30128,
+      "num": 471593,
+      "word": "希林娜依高唱和平精英神曲",
+      "onboard_time": 1729254980,
+      "rank": 40,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 29982,
       "num": 371231,
       "word": "警惕AIGC数据污染稀释人类原创",
@@ -17755,6 +17827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26068,
+      "num": 341779,
+      "word": "刘亦菲和朱珠贴贴",
+      "onboard_time": 1729255701,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25980,
       "num": 286869,
       "word": "买东西总是很纠结怎么办",
@@ -17825,14 +17905,6 @@
       "onboard_time": 1729167921,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24941,
-      "num": 133475,
-      "word": "希林娜依高唱和平精英神曲",
-      "onboard_time": 1729254980,
-      "rank": 40,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 24934,
@@ -17929,14 +18001,6 @@
       "onboard_time": 1728881421,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23426,
-      "num": 115281,
-      "word": "明星们有多爱开大G",
-      "onboard_time": 1729255280,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 23422,
@@ -18256,6 +18320,14 @@
       "word": "邱少云生前部队官兵千里奔赴来渝祭拜",
       "onboard_time": 1728783198,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19216,
+      "num": 484068,
+      "word": "被禁止入台后黄飞红花生销量大增",
+      "onboard_time": 1729256300,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -18715,6 +18787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10126,
+      "num": 718852,
+      "word": "数说中国经济秋季报",
+      "onboard_time": 1729239320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9088,
       "num": 425178,
       "word": "贺聪黎明前的暗夜天使",
@@ -18745,14 +18825,6 @@
       "onboard_time": 1729114691,
       "rank": 9,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 7583,
-      "num": 718852,
-      "word": "数说中国经济秋季报",
-      "onboard_time": 1729239320,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7480,
