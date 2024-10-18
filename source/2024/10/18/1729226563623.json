@@ -1,0 +1,410 @@
+{
+  "runTime": 1729226563623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1759200,
+        "num": 1759200,
+        "word": "papi酱问黄圣依杨子是演的还是真的",
+        "onboard_time": 1729222038,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1563197,
+        "num": 1563197,
+        "word": "医学生发大体老师头骨合影引不满",
+        "onboard_time": 1729221920,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30382,
+        "num": 1396016,
+        "word": "专家称美网络攻击活动是可捕获的",
+        "onboard_time": 1729219339,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346935,
+        "num": 1346935,
+        "word": "覃海洋成功晋级后挥手竖大拇指",
+        "onboard_time": 1729222038,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1258511,
+        "num": 1258511,
+        "word": "小学副校长被控性侵16岁女学生",
+        "onboard_time": 1729223901,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977636,
+        "num": 977636,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713068,
+        "num": 713068,
+        "word": "覃海洋100蛙小组第一",
+        "onboard_time": 1729219579,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608268,
+        "num": 608268,
+        "word": "金饰价格持续大涨",
+        "onboard_time": 1729224981,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27835,
+        "num": 568296,
+        "word": "资本市场的增量资金有了",
+        "onboard_time": 1729225701,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522942,
+        "num": 538250,
+        "word": "拜登就以军称打死辛瓦尔发声",
+        "onboard_time": 1729223240,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 538124,
+        "num": 538124,
+        "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
+        "onboard_time": 1729214959,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535552,
+        "num": 535552,
+        "word": "武汉公交回应下车请走好有哀悼歧义",
+        "onboard_time": 1729218798,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339978,
+        "num": 520239,
+        "word": "肖战跟孔笙导演拥抱告别",
+        "onboard_time": 1729220659,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138615,
+        "num": 516618,
+        "word": "A股大涨那几天究竟激活了多少股民",
+        "onboard_time": 1729226481,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340018,
+        "num": 515485,
+        "word": "周也 昼夜",
+        "onboard_time": 1729223301,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514587,
+        "num": 514587,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477595,
+        "num": 477595,
+        "word": "张雪峰",
+        "onboard_time": 1729222400,
+        "rank": 16,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 75723,
+        "num": 436774,
+        "word": "时光音乐会快男主题歌单",
+        "onboard_time": 1729225761,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304298,
+        "num": 432463,
+        "word": "诗幂又坐一起",
+        "onboard_time": 1729217300,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430559,
+        "num": 430559,
+        "word": "教师非教学负担为什么越减越重",
+        "onboard_time": 1729220719,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565681,
+        "num": 416410,
+        "word": "小英回应开着路虎去种地",
+        "onboard_time": 1729222879,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397974,
+        "num": 397974,
+        "word": "吹牛老爹的疯狂派对",
+        "onboard_time": 1729221140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264831,
+        "num": 264831,
+        "word": "恋与深空",
+        "onboard_time": 1729220780,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235756,
+        "num": 235756,
+        "word": "环球人物孙颖莎",
+        "onboard_time": 1729216758,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230154,
+        "num": 230154,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54483,
+        "num": 228881,
+        "word": "顺德一村干部称几乎村村都围村收费",
+        "onboard_time": 1729224739,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228669,
+        "num": 228669,
+        "word": "黑白诀定档",
+        "onboard_time": 1729226001,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220462,
+        "num": 220462,
+        "word": "听泉鉴宝将改名赏宝",
+        "onboard_time": 1729211120,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217692,
+        "num": 217692,
+        "word": "长安的荔枝预告",
+        "onboard_time": 1729220541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35359,
+        "num": 211767,
+        "word": "没想到清明上河园真有七色花",
+        "onboard_time": 1729222400,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224800,
+        "num": 211046,
+        "word": "义乌警方通报摆拍凝视独居女子视频",
+        "onboard_time": 1729225220,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209749,
+        "num": 209749,
+        "word": "赴山海杀青",
+        "onboard_time": 1729223539,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203170,
+        "num": 203170,
+        "word": "以军公布哈马斯领导人死前反抗视频",
+        "onboard_time": 1729213160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193704,
+        "num": 193704,
+        "word": "国医少年志开播",
+        "onboard_time": 1729225641,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191419,
+        "num": 191419,
+        "word": "樊振东光速赢下第二盘",
+        "onboard_time": 1729222218,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188624,
+        "num": 188624,
+        "word": "朴彩英首单官宣",
+        "onboard_time": 1729226241,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185678,
+        "num": 185678,
+        "word": "枭起青壤诸相非相海报",
+        "onboard_time": 1729223060,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184567,
+        "num": 184567,
+        "word": "95后研究员4个博士学位本人发声",
+        "onboard_time": 1729226121,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182572,
+        "num": 182572,
+        "word": "王鹤棣许七安定妆海报",
+        "onboard_time": 1729226061,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181719,
+        "num": 181719,
+        "word": "00后中介失业转行卖车月入10万",
+        "onboard_time": 1729225881,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172072,
+        "num": 172072,
+        "word": "VOGUE聚会大合照",
+        "onboard_time": 1729218558,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 170653,
+        "num": 170653,
+        "word": "降息",
+        "onboard_time": 1729214000,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169812,
+        "num": 169812,
+        "word": "滤镜 檀健次李兰迪",
+        "onboard_time": 1729220299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76411,
+        "num": 167595,
+        "word": "陈丽君在法国演出红楼梦",
+        "onboard_time": 1729225942,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45167,
+        "num": 167505,
+        "word": "择机进一步降准0.25至0.5个百分点",
+        "onboard_time": 1729224500,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167474,
+        "num": 167474,
+        "word": "前三季度GDP同比增长4.8%",
+        "onboard_time": 1729218080,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159720,
+        "num": 159720,
+        "word": "潘展乐监工董志豪",
+        "onboard_time": 1729226061,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159590,
+        "num": 159590,
+        "word": "奔跑吧路透",
+        "onboard_time": 1729222819,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138755,
+        "num": 158725,
+        "word": "媒体评擅自离岗16年还留编制",
+        "onboard_time": 1729224440,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158079,
+        "num": 158079,
+        "word": "理想汽车交付达100万辆",
+        "onboard_time": 1729226481,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬科学精神积极投身科技创新#"
+    }
+  }
+}

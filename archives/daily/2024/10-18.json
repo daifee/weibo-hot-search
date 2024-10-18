@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729225658544,
+  "endTime": 1729226563623,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1349437,
-      "num": 497224,
+      "num": 514587,
       "word": "何猷君 点天灯",
       "onboard_time": 1729208058,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1346935,
+      "num": 1346935,
+      "word": "覃海洋成功晋级后挥手竖大拇指",
+      "onboard_time": 1729222038,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 1306336,
@@ -72,6 +80,14 @@
       "word": "孕妇2次到店借用厕所和店员起争执",
       "onboard_time": 1729182378,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1258511,
+      "num": 1258511,
+      "word": "小学副校长被控性侵16岁女学生",
+      "onboard_time": 1729223901,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -97,14 +113,6 @@
       "onboard_time": 1729214959,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 969730,
-      "num": 969730,
-      "word": "覃海洋成功晋级后挥手竖大拇指",
-      "onboard_time": 1729222038,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 915320,
@@ -163,14 +171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 737147,
-      "num": 737147,
-      "word": "小学副校长被控性侵16岁女学生",
-      "onboard_time": 1729223901,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 727346,
       "num": 727346,
       "word": "GALA连续四年止步八强",
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 608268,
+      "num": 608268,
+      "word": "金饰价格持续大涨",
+      "onboard_time": 1729224981,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593290,
       "num": 593290,
       "word": "以军公布哈马斯领导人死前反抗视频",
@@ -243,8 +251,8 @@
       "category": "教育,网红"
     },
     {
-      "raw_hot": 548932,
-      "num": 342993,
+      "raw_hot": 565681,
+      "num": 416410,
       "word": "小英回应开着路虎去种地",
       "onboard_time": 1729222879,
       "rank": 34,
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522942,
+      "num": 692789,
+      "word": "拜登就以军称打死辛瓦尔发声",
+      "onboard_time": 1729223240,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 512047,
       "num": 512047,
       "word": "诗幂又坐一起",
@@ -297,14 +313,6 @@
       "onboard_time": 1729210341,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 486379,
-      "num": 692789,
-      "word": "拜登就以军称打死辛瓦尔发声",
-      "onboard_time": 1729223240,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 480143,
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430559,
+      "num": 430559,
+      "word": "教师非教学负担为什么越减越重",
+      "onboard_time": 1729220719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407973,
       "num": 407973,
       "word": "网红小虎行账号已被封",
@@ -393,6 +409,14 @@
       "onboard_time": 1729213160,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 340018,
+      "num": 515485,
+      "word": "周也 昼夜",
+      "onboard_time": 1729223301,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337603,
@@ -435,27 +459,11 @@
       "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 318637,
-      "num": 318637,
-      "word": "金饰价格持续大涨",
-      "onboard_time": 1729224981,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317765,
       "num": 317765,
       "word": "职工医保中断可以补缴吗",
       "onboard_time": 1729180642,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316847,
-      "num": 340161,
-      "word": "教师非教学负担为什么越减越重",
-      "onboard_time": 1729220719,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -539,6 +547,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230154,
+      "num": 230154,
+      "word": "金正恩说打消与韩国同族意识",
+      "onboard_time": 1729226061,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 228669,
+      "num": 228669,
+      "word": "黑白诀定档",
+      "onboard_time": 1729226001,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227843,
       "num": 227843,
       "word": "刘冲让王一博走慢点",
@@ -553,6 +577,14 @@
       "onboard_time": 1729168699,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224800,
+      "num": 211046,
+      "word": "义乌警方通报摆拍凝视独居女子视频",
+      "onboard_time": 1729225220,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222707,
@@ -675,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196387,
-      "num": 196387,
-      "word": "周也 昼夜",
-      "onboard_time": 1729223301,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 193704,
+      "num": 193704,
+      "word": "国医少年志开播",
+      "onboard_time": 1729225641,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 193398,
@@ -689,6 +721,14 @@
       "onboard_time": 1729214479,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "朴彩英首单官宣",
+      "onboard_time": 1729226241,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 187170,
@@ -705,6 +745,30 @@
       "onboard_time": 1729222280,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184567,
+      "num": 184567,
+      "word": "95后研究员4个博士学位本人发声",
+      "onboard_time": 1729226121,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182572,
+      "num": 182572,
+      "word": "王鹤棣许七安定妆海报",
+      "onboard_time": 1729226061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181719,
+      "num": 181719,
+      "word": "00后中介失业转行卖车月入10万",
+      "onboard_time": 1729225881,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180972,
@@ -811,12 +875,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 162141,
-      "num": 162141,
-      "word": "义乌警方通报摆拍凝视独居女子视频",
-      "onboard_time": 1729225220,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 159720,
+      "num": 159720,
+      "word": "潘展乐监工董志豪",
+      "onboard_time": 1729226061,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 158362,
@@ -825,6 +889,14 @@
       "onboard_time": 1729206316,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158079,
+      "num": 158079,
+      "word": "理想汽车交付达100万辆",
+      "onboard_time": 1729226481,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 156404,
@@ -963,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138755,
+      "num": 564375,
+      "word": "媒体评擅自离岗16年还留编制",
+      "onboard_time": 1729224440,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138720,
       "num": 138720,
       "word": "股票回购增持再贷款正式推出",
       "onboard_time": 1729221079,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138615,
+      "num": 516618,
+      "word": "A股大涨那几天究竟激活了多少股民",
+      "onboard_time": 1729226481,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137965,
@@ -985,14 +1073,6 @@
       "onboard_time": 1729225341,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134607,
-      "num": 134607,
-      "word": "国医少年志开播",
-      "onboard_time": 1729225641,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 133921,
@@ -1211,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91051,
-      "num": 564375,
-      "word": "媒体评擅自离岗16年还留编制",
-      "onboard_time": 1729224440,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89360,
       "num": 138313,
       "word": "年轻人工作后选择重养一遍自己",
@@ -1265,6 +1337,22 @@
       "onboard_time": 1729221019,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 76411,
+      "num": 167595,
+      "word": "陈丽君在法国演出红楼梦",
+      "onboard_time": 1729225942,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 75723,
+      "num": 436774,
+      "word": "时光音乐会快男主题歌单",
+      "onboard_time": 1729225761,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 72266,
@@ -1355,6 +1443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54483,
+      "num": 345909,
+      "word": "顺德一村干部称几乎村村都围村收费",
+      "onboard_time": 1729224739,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52209,
       "num": 52209,
       "word": "杭州人也有自己的Jellycat",
@@ -1387,11 +1483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47353,
-      "num": 345909,
-      "word": "顺德一村干部称几乎村村都围村收费",
-      "onboard_time": 1729224739,
-      "rank": 19,
+      "raw_hot": 45167,
+      "num": 565674,
+      "word": "择机进一步降准0.25至0.5个百分点",
+      "onboard_time": 1729224500,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1443,19 +1539,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30185,
-      "num": 1202601,
+      "raw_hot": 30382,
+      "num": 1396016,
       "word": "专家称美网络攻击活动是可捕获的",
       "onboard_time": 1729219339,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29520,
-      "num": 565674,
-      "word": "择机进一步降准0.25至0.5个百分点",
-      "onboard_time": 1729224500,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1472,6 +1560,14 @@
       "word": "上海第二套改善型住房最低首付比例25%",
       "onboard_time": 1729200911,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27835,
+      "num": 568296,
+      "word": "资本市场的增量资金有了",
+      "onboard_time": 1729225701,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

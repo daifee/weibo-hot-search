@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 12:27:38
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 12:42:43
 </p>
 </blockquote>
 <p>
@@ -1659,6 +1659,12 @@ T1战胜BLG（热度：1444060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E6%88%90%E5%8A%9F%E6%99%8B%E7%BA%A7%E5%90%8E%E6%8C%A5%E6%89%8B%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87%23" target="weibo">
+覃海洋成功晋级后挥手竖大拇指（热度：1346935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%AB%98%E6%89%BF%E7%9D%BF%23" target="weibo">
 王楚钦vs高承睿（热度：1346347）
 </a>
@@ -1931,6 +1937,12 @@ VOGUE晚宴（热度：1311474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BA%A2%E5%8C%85%23" target="weibo">
 李佳琦红包（热度：1265752）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%89%AF%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%8E%A7%E6%80%A7%E4%BE%B516%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%23" target="weibo">
+小学副校长被控性侵16岁女学生（热度：1258511）
 </a>
 </li>
 
@@ -3095,12 +3107,6 @@ SEVENTEEN演唱会着火（热度：981986）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E4%B8%8A40%E7%A0%81%E9%BE%9F%E9%80%9F%E8%A1%8C%E9%A9%B6%E8%A2%AB%E8%AE%AD%23" target="weibo">
 女子高速上40码龟速行驶被训（热度：970995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E6%88%90%E5%8A%9F%E6%99%8B%E7%BA%A7%E5%90%8E%E6%8C%A5%E6%89%8B%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87%23" target="weibo">
-覃海洋成功晋级后挥手竖大拇指（热度：969730）
 </a>
 </li>
 
@@ -4805,12 +4811,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%B8%A6%E7%9D%80%E4%BB%98%E6%AC%BE%E7%A0%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 杨天真带着付款码来了（热度：738434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%89%AF%E6%A0%A1%E9%95%BF%E8%A2%AB%E6%8E%A7%E6%80%A7%E4%BE%B516%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%23" target="weibo">
-小学副校长被控性侵16岁女学生（热度：737147）
 </a>
 </li>
 
