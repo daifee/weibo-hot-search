@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729243462502,
+  "endTime": 1729244298214,
   "band_list": [
     {
       "raw_hot": 3020148,
@@ -17,6 +17,14 @@
       "onboard_time": 1729180282,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2664058,
+      "num": 2664058,
+      "word": "GAI发文怒怼脱口秀选手",
+      "onboard_time": 1729242440,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2112640,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035465,
+      "num": 1035465,
+      "word": "杨子承认曾和黄圣依彻底分开",
+      "onboard_time": 1729240819,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1032511,
       "num": 1032511,
       "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
@@ -169,14 +185,6 @@
       "onboard_time": 1729226121,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 969341,
-      "num": 969341,
-      "word": "GAI发文怒怼脱口秀选手",
-      "onboard_time": 1729242440,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 915320,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 883085,
-      "num": 322956,
+      "num": 411637,
       "word": "这还是沙溢吗",
       "onboard_time": 1729237581,
       "rank": 21,
@@ -313,14 +321,6 @@
       "onboard_time": 1729233860,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 669189,
-      "num": 319636,
-      "word": "杨子承认曾和黄圣依彻底分开",
-      "onboard_time": 1729240819,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 646487,
@@ -459,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 528407,
+      "num": 528407,
+      "word": "许昕背后击球",
+      "onboard_time": 1729240880,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523490,
       "num": 692789,
       "word": "拜登就以军称打死辛瓦尔发声",
@@ -489,14 +497,6 @@
       "onboard_time": 1729216940,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 501650,
-      "num": 501650,
-      "word": "许昕背后击球",
-      "onboard_time": 1729240880,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 497241,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459113,
+      "num": 300725,
+      "word": "表姐为了猫扇了亲戚小孩一巴掌",
+      "onboard_time": 1729240520,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453228,
       "num": 453228,
       "word": "以色列国防军确认打死哈马斯领导人",
@@ -569,14 +577,6 @@
       "onboard_time": 1729230920,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443679,
-      "num": 283269,
-      "word": "表姐为了猫扇了亲戚小孩一巴掌",
-      "onboard_time": 1729240520,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 441968,
@@ -611,6 +611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 415027,
+      "num": 415027,
+      "word": "樊振东VS程靖淇",
+      "onboard_time": 1729241120,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414688,
       "num": 414688,
       "word": "何浩楠赵一博更新封面",
@@ -641,6 +649,22 @@
       "onboard_time": 1729230979,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373456,
+      "num": 373456,
+      "word": "故宫最新回应",
+      "onboard_time": 1729240220,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369057,
+      "num": 369057,
+      "word": "时代少年团台历",
+      "onboard_time": 1729243580,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 349117,
@@ -689,6 +713,14 @@
       "onboard_time": 1729169723,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327266,
+      "num": 327266,
+      "word": "原来真正的失望是不想多说一句话",
+      "onboard_time": 1729242200,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 325967,
@@ -771,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284119,
-      "num": 284119,
-      "word": "樊振东VS程靖淇",
-      "onboard_time": 1729241120,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281977,
       "num": 174767,
       "word": "留几手说杨子蹭了黄圣依不少流量",
@@ -792,14 +816,6 @@
       "word": "千万奖金被冒领后赢了官司没要回钱",
       "onboard_time": 1729238659,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269501,
-      "num": 269501,
-      "word": "故宫最新回应",
-      "onboard_time": 1729240220,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -899,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234095,
-      "num": 234095,
-      "word": "原来真正的失望是不想多说一句话",
-      "onboard_time": 1729242200,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230791,
       "num": 369617,
       "word": "山东滨州一干部在工作场所被捅身亡",
@@ -921,6 +929,14 @@
       "onboard_time": 1729223539,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229566,
+      "num": 229566,
+      "word": "韩方称朝鲜派12000人援俄",
+      "onboard_time": 1729243521,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 228669,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1729222218,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215465,
+      "num": 283874,
+      "word": "领养小猫却要分期17个月买猫粮",
+      "onboard_time": 1729241659,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214560,
@@ -1107,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202185,
+      "num": 323705,
+      "word": "樊振东3比2程靖淇",
+      "onboard_time": 1729243641,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200426,
       "num": 200426,
       "word": "叶诗文200蛙预赛第2",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1729235061,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192156,
+      "num": 192156,
+      "word": "和平精英",
+      "onboard_time": 1729243820,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 190553,
@@ -1555,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148119,
+      "num": 148119,
+      "word": "桃花坞第五季",
+      "onboard_time": 1729243218,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147605,
       "num": 147605,
       "word": "大奉打更人锁定你海报",
@@ -1571,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146664,
+      "num": 146664,
+      "word": "油炸方便面",
+      "onboard_time": 1729239861,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146054,
       "num": 146054,
       "word": "4个动作避免乳腺结节",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1729217359,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 145851,
-      "num": 145851,
-      "word": "油炸方便面",
-      "onboard_time": 1729239861,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 145107,
@@ -1617,6 +1665,22 @@
       "onboard_time": 1729169602,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143691,
+      "num": 143691,
+      "word": "阎鹤祥脱口秀",
+      "onboard_time": 1729241061,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143164,
+      "num": 143164,
+      "word": "外国游客因着装问题被劝离故宫",
+      "onboard_time": 1729244242,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142743,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1729229961,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139441,
+      "num": 139441,
+      "word": "2024IVL秋季赛",
+      "onboard_time": 1729243880,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 138999,
@@ -1763,14 +1835,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 133341,
-      "num": 133341,
-      "word": "桃花坞第五季",
-      "onboard_time": 1729243218,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132731,
       "num": 132731,
       "word": "过去一年没有扎堆违规减持现象",
@@ -1807,14 +1871,6 @@
       "num": 131751,
       "word": "周震南cos孙悟空至尊宝",
       "onboard_time": 1729233201,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131652,
-      "num": 131652,
-      "word": "阎鹤祥脱口秀",
-      "onboard_time": 1729241061,
       "rank": 43,
       "category": "综艺"
     },
@@ -1912,14 +1968,6 @@
       "word": "我就说没有大学生不会的吧",
       "onboard_time": 1729182079,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119964,
-      "num": 283874,
-      "word": "领养小猫却要分期17个月买猫粮",
-      "onboard_time": 1729241659,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2097,6 +2145,14 @@
       "onboard_time": 1729238960,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85168,
+      "num": 412974,
+      "word": "昆明涉异味猪肉学校学费每年两万六",
+      "onboard_time": 1729243641,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84436,
@@ -2308,7 +2364,7 @@
     },
     {
       "raw_hot": 49126,
-      "num": 882718,
+      "num": 1095813,
       "word": "三季度免签入境外国人同比上升78.6%",
       "onboard_time": 1729239920,
       "rank": 2,
@@ -2384,6 +2440,14 @@
       "word": "美好新疆",
       "onboard_time": 1729174284,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32461,
+      "num": 385373,
+      "word": "外卖小哥加价代购管制药品被判贩毒",
+      "onboard_time": 1729242501,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2507,14 +2571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23545,
-      "num": 286677,
-      "word": "外卖小哥加价代购管制药品被判贩毒",
-      "onboard_time": 1729242501,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23422,
       "num": 23422,
       "word": "檀健次头纱造型",
@@ -2555,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21653,
+      "num": 146699,
+      "word": "张雪峰教育女儿的方式",
+      "onboard_time": 1729243100,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21071,
       "num": 299418,
       "word": "业内称中老年短剧需求增加",
@@ -2585,14 +2649,6 @@
       "onboard_time": 1729225701,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17503,
-      "num": 131075,
-      "word": "张雪峰教育女儿的方式",
-      "onboard_time": 1729243100,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 16482,
