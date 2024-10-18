@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729256322426,
+  "endTime": 1729258138763,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1444223,
+      "num": 621165,
+      "word": "内娱三大忍者",
+      "onboard_time": 1729253179,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1427331,
       "num": 1427331,
       "word": "员工不服调岗被解雇起诉获赔17万",
@@ -1435,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1091690,
-      "num": 621165,
-      "word": "内娱三大忍者",
-      "onboard_time": 1729253179,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1089422,
       "num": 1277723,
       "word": "K总停播",
@@ -1499,19 +1499,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1066072,
+      "num": 479903,
+      "word": "员工嫖娼被抓公司解除劳动合同被告",
+      "onboard_time": 1729252341,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1065108,
       "num": 471830,
       "word": "90后小伙炒股4天亏损32万",
       "onboard_time": 1728803958,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062942,
-      "num": 479903,
-      "word": "员工嫖娼被抓公司解除劳动合同被告",
-      "onboard_time": 1729252341,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1740,7 +1740,7 @@
     },
     {
       "raw_hot": 958419,
-      "num": 358968,
+      "num": 404275,
       "word": "黄圣依杨子回应当年微博藏头诗",
       "onboard_time": 1729248443,
       "rank": 11,
@@ -2947,6 +2947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 679417,
+      "num": 649388,
+      "word": "黄圣依 杨子",
+      "onboard_time": 1729257524,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677034,
       "num": 677034,
       "word": "上海一妇产医院成网红打卡地",
@@ -3000,6 +3008,14 @@
       "word": "樊振东vs刘家良",
       "onboard_time": 1729154121,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 666124,
+      "num": 666124,
+      "word": "张雨霏回应50米自摘银",
+      "onboard_time": 1729255400,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -3259,6 +3275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 623880,
+      "num": 623880,
+      "word": "泽连斯基向特朗普要核武器",
+      "onboard_time": 1729253960,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 621268,
       "num": 621268,
       "word": "于祥宇 GAI",
@@ -3321,6 +3345,14 @@
       "onboard_time": 1728903260,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 609890,
+      "num": 609890,
+      "word": "印媒找到中国男性更高的原因",
+      "onboard_time": 1729252879,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609535,
@@ -3699,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546329,
+      "num": 546329,
+      "word": "骄阳似我 宋威龙赵今麦",
+      "onboard_time": 1729253841,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544884,
       "num": 544884,
       "word": "2024年度最大超级月亮今晚登场",
@@ -3897,14 +3937,6 @@
       "onboard_time": 1729223240,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 521626,
-      "num": 521626,
-      "word": "印媒找到中国男性更高的原因",
-      "onboard_time": 1729252879,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521370,
@@ -4299,14 +4331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 469618,
-      "num": 469618,
-      "word": "骄阳似我 宋威龙赵今麦",
-      "onboard_time": 1729253841,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466476,
       "num": 466476,
       "word": "第五人格前瞻直播",
@@ -4643,14 +4667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430414,
-      "num": 488249,
-      "word": "泽连斯基向特朗普要核武器",
-      "onboard_time": 1729253960,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 429393,
       "num": 1094430,
       "word": "三次台岛周边军演示意图对比",
@@ -4865,6 +4881,22 @@
       "onboard_time": 1728998241,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406722,
+      "num": 406722,
+      "word": "美国承认为打死辛瓦尔提供情报支持",
+      "onboard_time": 1729256361,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 403897,
+      "num": 403897,
+      "word": "郭艾伦哭了",
+      "onboard_time": 1729253841,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 403585,
@@ -5219,6 +5251,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 361412,
+      "num": 361412,
+      "word": "汪顺100混打破亚洲纪录",
+      "onboard_time": 1729256121,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359560,
       "num": 359560,
       "word": "徐冬冬尹子维改学粤语了",
@@ -5401,14 +5441,6 @@
       "onboard_time": 1728920960,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344881,
-      "num": 344881,
-      "word": "郭艾伦哭了",
-      "onboard_time": 1729253841,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 343623,
@@ -6041,14 +6073,6 @@
       "onboard_time": 1729231942,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298417,
-      "num": 298417,
-      "word": "张雨霏回应50米自摘银",
-      "onboard_time": 1729255400,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 298328,
@@ -7115,6 +7139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249914,
+      "num": 249914,
+      "word": "她这么痛还稳稳地抱起孩子",
+      "onboard_time": 1729254980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249519,
       "num": 249519,
       "word": "王宝强借钱后第一件事是去缴税",
@@ -7177,6 +7209,14 @@
       "onboard_time": 1729125681,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 247372,
+      "num": 247372,
+      "word": "BLG的BP",
+      "onboard_time": 1729256722,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 247261,
@@ -7593,6 +7633,14 @@
       "onboard_time": 1728904220,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 230069,
+      "num": 230069,
+      "word": "王栎鑫唱了17年前快男第一首歌",
+      "onboard_time": 1729257021,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 229998,
@@ -8843,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202913,
+      "num": 202913,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202904,
       "num": 330723,
       "word": "TOP登陆少年爆改",
@@ -8993,14 +9049,6 @@
       "onboard_time": 1728800539,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200675,
-      "num": 200675,
-      "word": "汪顺100混打破亚洲纪录",
-      "onboard_time": 1729256121,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 200626,
@@ -9395,14 +9443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195662,
-      "num": 195662,
-      "word": "她这么痛还稳稳地抱起孩子",
-      "onboard_time": 1729254980,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195651,
       "num": 195651,
       "word": "微博会员50一年",
@@ -9697,6 +9737,14 @@
       "onboard_time": 1729044559,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191633,
+      "num": 406406,
+      "word": "这声三哥终于名正言顺了",
+      "onboard_time": 1729257079,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 191572,
@@ -10275,6 +10323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184492,
+      "num": 184492,
+      "word": "ON别送了",
+      "onboard_time": 1729257799,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184465,
       "num": 184465,
       "word": "日本也有可能被美国重点监控",
@@ -10497,6 +10553,14 @@
       "onboard_time": 1729039641,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180255,
+      "num": 180255,
+      "word": "向佐曾贴脸开大杨子",
+      "onboard_time": 1729256001,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 180198,
@@ -11275,6 +11339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165726,
+      "num": 165726,
+      "word": "骄阳似我",
+      "onboard_time": 1729256840,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165689,
       "num": 165689,
       "word": "GDP",
@@ -11929,14 +12001,6 @@
       "onboard_time": 1729060999,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154719,
-      "num": 154719,
-      "word": "向佐曾贴脸开大杨子",
-      "onboard_time": 1729256001,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 154510,
@@ -13289,6 +13353,14 @@
       "onboard_time": 1728743662,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 129731,
+      "num": 129731,
+      "word": "时代少年团台历配置",
+      "onboard_time": 1729257920,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 129652,
@@ -15091,6 +15163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79405,
+      "num": 484068,
+      "word": "被禁止入台后黄飞红花生销量大增",
+      "onboard_time": 1729256300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79200,
       "num": 296493,
       "word": "别人都亲上了毕雯珺还在搞纯爱",
@@ -15217,6 +15297,14 @@
       "onboard_time": 1728828803,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73808,
+      "num": 405455,
+      "word": "明星们有多爱开大G",
+      "onboard_time": 1729255280,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 73269,
@@ -15699,6 +15787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60154,
+      "num": 547734,
+      "word": "飞机逃生滑梯打开一次不要20万",
+      "onboard_time": 1729256960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59862,
       "num": 260872,
       "word": "虞书欣看了檀健次演唱会",
@@ -15859,6 +15955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56890,
+      "num": 406089,
+      "word": "男子2万多定制家具表面全是划痕",
+      "onboard_time": 1729257079,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56613,
       "num": 57252,
       "word": "WBG对战FNC",
@@ -15985,14 +16089,6 @@
       "onboard_time": 1729105752,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 53141,
-      "num": 340281,
-      "word": "明星们有多爱开大G",
-      "onboard_time": 1729255280,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 52895,
@@ -16369,6 +16465,14 @@
       "onboard_time": 1728975921,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 48020,
+      "num": 567875,
+      "word": "临沂调查网传买卖出生医学证明",
+      "onboard_time": 1729258041,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47842,
@@ -16811,6 +16915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38893,
+      "num": 552991,
+      "word": "奔驰大G",
+      "onboard_time": 1729256659,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38710,
       "num": 357840,
       "word": "学会科学抖腿能保护血管",
@@ -17083,6 +17195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34825,
+      "num": 551059,
+      "word": "希林娜依高唱和平精英神曲",
+      "onboard_time": 1729254980,
+      "rank": 40,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 34782,
       "num": 134510,
       "word": "攻略还没做双11就来了",
@@ -17249,6 +17369,14 @@
       "onboard_time": 1729018932,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33238,
+      "num": 561948,
+      "word": "全明星cos和平精英皮肤走红毯",
+      "onboard_time": 1729256722,
+      "rank": 10,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 33179,
@@ -17513,14 +17641,6 @@
       "onboard_time": 1729248679,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30128,
-      "num": 471593,
-      "word": "希林娜依高唱和平精英神曲",
-      "onboard_time": 1729254980,
-      "rank": 40,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 29982,
@@ -18323,14 +18443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19216,
-      "num": 484068,
-      "word": "被禁止入台后黄飞红花生销量大增",
-      "onboard_time": 1729256300,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19176,
       "num": 19176,
       "word": "代号老邱8点开始梳辫子",
@@ -18928,6 +19040,9 @@
     },
     {
       "word": "#习近平在安徽考察调研#"
+    },
+    {
+      "word": "#高新技术是讨不来要不来的#"
     }
   ]
 }
