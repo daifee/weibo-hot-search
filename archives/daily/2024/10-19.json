@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729283012524,
+  "endTime": 1729283840219,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -579,19 +579,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10356,
-      "num": 19570,
-      "word": "光伏组件低于成本投标中标涉嫌违法",
-      "onboard_time": 1729280771,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 15298,
+      "num": 18831,
+      "word": "刘学义 怎么老往不干净的地方打",
+      "onboard_time": 1729283590,
+      "rank": 46,
+      "category": "剧集"
     },
     {
-      "raw_hot": 10343,
+      "raw_hot": 15096,
+      "num": 18829,
+      "word": "会画画的和不会画画的都沉默了",
+      "onboard_time": 1729282572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11829,
       "num": 28502,
       "word": "毕业生被贴疫情班标签求职遭拒",
       "onboard_time": 1729282931,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11549,
+      "num": 36081,
+      "word": "光伏组件低于成本投标中标涉嫌违法",
+      "onboard_time": 1729280771,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
