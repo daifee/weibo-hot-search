@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729276217032,
+  "endTime": 1729277019979,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -267,8 +267,8 @@
       "category": "演出,电竞"
     },
     {
-      "raw_hot": 161911,
-      "num": 161911,
+      "raw_hot": 165020,
+      "num": 165020,
       "word": "千万奖金被冒领后男子维权了5年",
       "onboard_time": 1729272915,
       "rank": 19,
@@ -499,6 +499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 33983,
+      "num": 124164,
+      "word": "外交部谈西田敏行去世",
+      "onboard_time": 1729274233,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32660,
       "num": 116281,
       "word": "放开手脚创新创造",
@@ -515,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17552,
-      "num": 124164,
-      "word": "外交部谈西田敏行去世",
-      "onboard_time": 1729274233,
+      "raw_hot": 27291,
+      "num": 36594,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1729276272,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16194,
+      "num": 92358,
+      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+      "onboard_time": 1729276393,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 9332,
