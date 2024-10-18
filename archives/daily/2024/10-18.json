@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729223046002,
+  "endTime": 1729225658544,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1817648,
+      "num": 1817648,
+      "word": "papi酱问黄圣依杨子是演的还是真的",
+      "onboard_time": 1729222038,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1597042,
-      "num": 879846,
+      "num": 1049317,
       "word": "覃海洋100蛙小组第一",
       "onboard_time": 1729219579,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1564073,
+      "num": 1564073,
+      "word": "医学生发大体老师头骨合影引不满",
+      "onboard_time": 1729221920,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1351751,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1306336,
-      "num": 477289,
+      "num": 686921,
       "word": "网恋女友奔现后男子说想把他掐死",
       "onboard_time": 1729218620,
       "rank": 11,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 969730,
+      "num": 969730,
+      "word": "覃海洋成功晋级后挥手竖大拇指",
+      "onboard_time": 1729222038,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 915320,
       "num": 915320,
       "word": "武汉公交回应下车请走好有哀悼歧义",
@@ -97,14 +121,6 @@
       "onboard_time": 1729177401,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 868295,
-      "num": 868295,
-      "word": "papi酱问黄圣依杨子是演的还是真的",
-      "onboard_time": 1729222038,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 863106,
@@ -145,6 +161,14 @@
       "onboard_time": 1729167021,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 737147,
+      "num": 737147,
+      "word": "小学副校长被控性侵16岁女学生",
+      "onboard_time": 1729223901,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727346,
@@ -195,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 606552,
-      "num": 606552,
-      "word": "医学生发大体老师头骨合影引不满",
-      "onboard_time": 1729221920,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593290,
       "num": 593290,
       "word": "以军公布哈马斯领导人死前反抗视频",
@@ -219,8 +235,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571336,
+      "num": 571336,
+      "word": "张雪峰",
+      "onboard_time": 1729222400,
+      "rank": 24,
+      "category": "教育,网红"
+    },
+    {
+      "raw_hot": 548932,
+      "num": 342993,
+      "word": "小英回应开着路虎去种地",
+      "onboard_time": 1729222879,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 543059,
-      "num": 451943,
+      "num": 460233,
       "word": "吹牛老爹的疯狂派对",
       "onboard_time": 1729221140,
       "rank": 15,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 533185,
-      "num": 533185,
+      "num": 687651,
       "word": "肖战跟孔笙导演拥抱告别",
       "onboard_time": 1729220659,
       "rank": 5,
@@ -265,6 +297,14 @@
       "onboard_time": 1729210341,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 486379,
+      "num": 692789,
+      "word": "拜登就以军称打死辛瓦尔发声",
+      "onboard_time": 1729223240,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 480143,
@@ -395,11 +435,27 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 318637,
+      "num": 318637,
+      "word": "金饰价格持续大涨",
+      "onboard_time": 1729224981,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317765,
       "num": 317765,
       "word": "职工医保中断可以补缴吗",
       "onboard_time": 1729180642,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316847,
+      "num": 340161,
+      "word": "教师非教学负担为什么越减越重",
+      "onboard_time": 1729220719,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -475,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 230771,
+      "num": 330757,
+      "word": "赴山海杀青",
+      "onboard_time": 1729223539,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227843,
       "num": 227843,
       "word": "刘冲让王一博走慢点",
@@ -491,6 +555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222707,
+      "num": 327486,
+      "word": "枭起青壤诸相非相海报",
+      "onboard_time": 1729223060,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221387,
       "num": 221387,
       "word": "UNIQ TFBOYS前辈挺可爱的",
@@ -505,14 +577,6 @@
       "onboard_time": 1729167802,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218960,
-      "num": 218960,
-      "word": "张雪峰",
-      "onboard_time": 1729222400,
-      "rank": 24,
-      "category": "教育,网红"
     },
     {
       "raw_hot": 218829,
@@ -555,28 +619,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 213431,
-      "num": 340161,
-      "word": "教师非教学负担为什么越减越重",
-      "onboard_time": 1729220719,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209327,
       "num": 263612,
       "word": "永夜星河竹林四侠预告",
       "onboard_time": 1729219639,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206325,
-      "num": 206325,
-      "word": "覃海洋成功晋级后挥手竖大拇指",
-      "onboard_time": 1729222038,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 205177,
@@ -627,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196387,
+      "num": 196387,
+      "word": "周也 昼夜",
+      "onboard_time": 1729223301,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193398,
       "num": 193398,
       "word": "南宁巨响",
@@ -636,7 +692,7 @@
     },
     {
       "raw_hot": 187170,
-      "num": 256918,
+      "num": 390916,
       "word": "披荆斩棘",
       "onboard_time": 1729221260,
       "rank": 27,
@@ -649,6 +705,14 @@
       "onboard_time": 1729222280,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180972,
+      "num": 180972,
+      "word": "成毅摇下车窗和粉丝挥手打招呼",
+      "onboard_time": 1729225100,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 180163,
@@ -731,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168713,
-      "num": 197634,
-      "word": "小英回应开着路虎去种地",
-      "onboard_time": 1729222879,
-      "rank": 34,
-      "category": "网红"
+      "raw_hot": 169488,
+      "num": 169488,
+      "word": "奔跑吧路透",
+      "onboard_time": 1729222819,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 165689,
@@ -747,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 162141,
+      "num": 162141,
+      "word": "义乌警方通报摆拍凝视独居女子视频",
+      "onboard_time": 1729225220,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158362,
       "num": 310054,
       "word": "超级月亮遇见紫金山彗星",
@@ -755,20 +827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "恋与深空排期",
+      "onboard_time": 1729225220,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154058,
       "num": 191456,
       "word": "她是第一位穿越蘑菇云取样的女飞",
       "onboard_time": 1729186093,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153816,
-      "num": 153816,
-      "word": "奔跑吧路透",
-      "onboard_time": 1729222819,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 153533,
@@ -905,6 +977,22 @@
       "onboard_time": 1729221620,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135728,
+      "num": 135728,
+      "word": "董志豪罚做俯卧撑",
+      "onboard_time": 1729225341,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134607,
+      "num": 134607,
+      "word": "国医少年志开播",
+      "onboard_time": 1729225641,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133921,
@@ -1123,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91051,
+      "num": 564375,
+      "word": "媒体评擅自离岗16年还留编制",
+      "onboard_time": 1729224440,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89360,
       "num": 138313,
       "word": "年轻人工作后选择重养一遍自己",
@@ -1203,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65432,
+      "num": 686999,
+      "word": "法务公司称花2.5万可化解10万债务",
+      "onboard_time": 1729224200,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63759,
       "num": 63759,
       "word": "Scout看好GEN夺冠",
@@ -1217,6 +1321,14 @@
       "onboard_time": 1729206316,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 61573,
+      "num": 343891,
+      "word": "央行推股票回购增持再贷款",
+      "onboard_time": 1729223781,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58458,
@@ -1275,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47353,
+      "num": 345909,
+      "word": "顺德一村干部称几乎村村都围村收费",
+      "onboard_time": 1729224739,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38374,
       "num": 55015,
       "word": "王者九周年限定回忆",
@@ -1284,7 +1404,7 @@
     },
     {
       "raw_hot": 37641,
-      "num": 213516,
+      "num": 321620,
       "word": "没想到清明上河园真有七色花",
       "onboard_time": 1729222400,
       "rank": 28,
@@ -1323,6 +1443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30185,
+      "num": 1202601,
+      "word": "专家称美网络攻击活动是可捕获的",
+      "onboard_time": 1729219339,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29520,
+      "num": 565674,
+      "word": "择机进一步降准0.25至0.5个百分点",
+      "onboard_time": 1729224500,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29251,
       "num": 256690,
       "word": "双11猫头橱窗卖的是情绪价值",
@@ -1345,14 +1481,6 @@
       "onboard_time": 1729190712,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27660,
-      "num": 884386,
-      "word": "专家称美网络攻击活动是可捕获的",
-      "onboard_time": 1729219339,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27558,
@@ -1503,6 +1631,9 @@
     },
     {
       "word": "#青年是创新的重要生力军#"
+    },
+    {
+      "word": "#总书记点赞过的优秀党员#"
     }
   ]
 }
