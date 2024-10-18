@@ -1,0 +1,410 @@
+{
+  "runTime": 1729220082083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486837,
+        "num": 1486837,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148104,
+        "num": 1148104,
+        "word": "降息",
+        "onboard_time": 1729214000,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9290,
+        "num": 945924,
+        "word": "丰收的田野多姿多彩",
+        "onboard_time": 1729219879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892806,
+        "num": 892806,
+        "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
+        "onboard_time": 1729214959,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632829,
+        "num": 632829,
+        "word": "环球人物孙颖莎",
+        "onboard_time": 1729216758,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506598,
+        "num": 506598,
+        "word": "2025鹅厂大剧片单",
+        "onboard_time": 1729216940,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480543,
+        "num": 480543,
+        "word": "听泉鉴宝将改名赏宝",
+        "onboard_time": 1729211120,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204661,
+        "num": 480190,
+        "word": "金正恩称朝鲜军队要认清韩国是敌国",
+        "onboard_time": 1729213581,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 80498,
+        "num": 480154,
+        "word": "三季度经济数据发布",
+        "onboard_time": 1729218860,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480143,
+        "num": 480143,
+        "word": "前三季度GDP同比增长4.8%",
+        "onboard_time": 1729218080,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 792813,
+        "num": 480055,
+        "word": "何猷君 点天灯",
+        "onboard_time": 1729208058,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760630,
+        "num": 477289,
+        "word": "网恋女友奔现后男子说想把他掐死",
+        "onboard_time": 1729218620,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473850,
+        "num": 473850,
+        "word": "以军公布哈马斯领导人死前反抗视频",
+        "onboard_time": 1729213160,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32184,
+        "num": 467374,
+        "word": "以军此次行动并非针对辛瓦尔",
+        "onboard_time": 1729219999,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465840,
+        "num": 465840,
+        "word": "空袭受伤19岁小伙住院又遇空袭丧生",
+        "onboard_time": 1729212921,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335048,
+        "num": 335048,
+        "word": "民警搜山喊了4小时找回5名大学生",
+        "onboard_time": 1729193051,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307888,
+        "num": 307888,
+        "word": "10万存款年息少250元",
+        "onboard_time": 1729213160,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 298606,
+        "num": 298606,
+        "word": "VOGUE聚会大合照",
+        "onboard_time": 1729218558,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 278558,
+        "num": 278558,
+        "word": "诗幂又坐一起",
+        "onboard_time": 1729217300,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207734,
+        "num": 277088,
+        "word": "女子40多万买几百件假文物",
+        "onboard_time": 1729218080,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430897,
+        "num": 273565,
+        "word": "孕妇2次到店借用厕所和店员起争执",
+        "onboard_time": 1729182378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303750,
+        "num": 271551,
+        "word": "狸花猫 那咋了",
+        "onboard_time": 1729214720,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295549,
+        "num": 268730,
+        "word": "覃海洋100蛙小组第一",
+        "onboard_time": 1729219579,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199995,
+        "num": 264657,
+        "word": "许我耀眼首发预告",
+        "onboard_time": 1729219160,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209327,
+        "num": 263612,
+        "word": "永夜星河竹林四侠预告",
+        "onboard_time": 1729219639,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261349,
+        "num": 261349,
+        "word": "武汉公交回应下车请走好有哀悼歧义",
+        "onboard_time": 1729218798,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247342,
+        "num": 247342,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1729170383,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212307,
+        "num": 212307,
+        "word": "1米9的潘展乐混在小朋友堆里学跳舞",
+        "onboard_time": 1729219278,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194690,
+        "num": 207008,
+        "word": "黄圣依说不喜欢直播",
+        "onboard_time": 1729213340,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175342,
+        "num": 205240,
+        "word": "谷爱凌给杨幂颁奖",
+        "onboard_time": 1729208958,
+        "rank": 29,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 204255,
+        "num": 204255,
+        "word": "北京协和医院报案",
+        "onboard_time": 1729216100,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200634,
+        "num": 200634,
+        "word": "拜登祝贺以军打死辛瓦尔",
+        "onboard_time": 1729218080,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177567,
+        "num": 177567,
+        "word": "樊振东3比0罗铮",
+        "onboard_time": 1729216578,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177529,
+        "num": 177529,
+        "word": "美国对以色列的警告被指是一个笑话",
+        "onboard_time": 1729211239,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174498,
+        "num": 174498,
+        "word": "南宁巨响",
+        "onboard_time": 1729214479,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173929,
+        "num": 173929,
+        "word": "毕业生举报高校女教师与其恋爱出轨",
+        "onboard_time": 1729173563,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173365,
+        "num": 173365,
+        "word": "倪妮拿到了杨幂的绣球",
+        "onboard_time": 1729172062,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167275,
+        "num": 167275,
+        "word": "多银行今日起下调存款利率",
+        "onboard_time": 1729214061,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165528,
+        "num": 165528,
+        "word": "2024全国秋裤预警地图",
+        "onboard_time": 1729216159,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165341,
+        "num": 165341,
+        "word": "scout 还钱",
+        "onboard_time": 1729183696,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164473,
+        "num": 164473,
+        "word": "VOGUE把秀场搬到了街头",
+        "onboard_time": 1729210341,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 160406,
+        "num": 160406,
+        "word": "一本教材46个付费码不是创新是创收",
+        "onboard_time": 1729210581,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155453,
+        "num": 155453,
+        "word": "老人花40万在直播间买了堆塑料",
+        "onboard_time": 1729174823,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151887,
+        "num": 151887,
+        "word": "名侦探柯南第0话",
+        "onboard_time": 1729219040,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147605,
+        "num": 147605,
+        "word": "大奉打更人锁定你海报",
+        "onboard_time": 1729217899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25331,
+        "num": 146461,
+        "word": "专家称美网络攻击活动是可捕获的",
+        "onboard_time": 1729219339,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145921,
+        "num": 145921,
+        "word": "以色列总理称战争还未结束",
+        "onboard_time": 1729217359,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137281,
+        "num": 137281,
+        "word": "择机进一步下调存款准备金率",
+        "onboard_time": 1729220060,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135238,
+        "num": 135238,
+        "word": "许家印前妻逾22亿房产或遭接管",
+        "onboard_time": 1729211182,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132222,
+        "num": 132222,
+        "word": "拜登称DNA检测证明辛瓦尔已死",
+        "onboard_time": 1729214361,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年是创新的重要生力军#"
+    }
+  }
+}

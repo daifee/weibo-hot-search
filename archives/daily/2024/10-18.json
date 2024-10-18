@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729216794621,
+  "endTime": 1729220082083,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -41,6 +41,14 @@
       "onboard_time": 1729182378,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148104,
+      "num": 1148104,
+      "word": "降息",
+      "onboard_time": 1729214000,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 1035792,
@@ -107,6 +115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 760630,
+      "num": 477289,
+      "word": "网恋女友奔现后男子说想把他掐死",
+      "onboard_time": 1729218620,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727346,
       "num": 727346,
       "word": "GALA连续四年止步八强",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632829,
+      "num": 632829,
+      "word": "环球人物孙颖莎",
+      "onboard_time": 1729216758,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 593290,
       "num": 593290,
       "word": "以军公布哈马斯领导人死前反抗视频",
@@ -171,12 +195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 506598,
+      "num": 506598,
+      "word": "2025鹅厂大剧片单",
+      "onboard_time": 1729216940,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497241,
       "num": 497241,
       "word": "VOGUE把秀场搬到了街头",
       "onboard_time": 1729210341,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 480143,
+      "num": 480143,
+      "word": "前三季度GDP同比增长4.8%",
+      "onboard_time": 1729218080,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 473110,
@@ -291,6 +331,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303750,
+      "num": 271551,
+      "word": "狸花猫 那咋了",
+      "onboard_time": 1729214720,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 298606,
+      "num": 298606,
+      "word": "VOGUE聚会大合照",
+      "onboard_time": 1729218558,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 295549,
+      "num": 268730,
+      "word": "覃海洋100蛙小组第一",
+      "onboard_time": 1729219579,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "WBG前期全是计谋",
@@ -307,12 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264430,
-      "num": 264430,
-      "word": "降息",
-      "onboard_time": 1729214000,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 278558,
+      "num": 278558,
+      "word": "诗幂又坐一起",
+      "onboard_time": 1729217300,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261349,
+      "num": 261349,
+      "word": "武汉公交回应下车请走好有哀悼歧义",
+      "onboard_time": 1729218798,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257905,
@@ -347,14 +419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 223308,
-      "num": 223308,
-      "word": "狸花猫 那咋了",
-      "onboard_time": 1729214720,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221387,
       "num": 221387,
       "word": "UNIQ TFBOYS前辈挺可爱的",
@@ -387,20 +451,68 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 204086,
-      "num": 194120,
+      "raw_hot": 212307,
+      "num": 212307,
+      "word": "1米9的潘展乐混在小朋友堆里学跳舞",
+      "onboard_time": 1729219278,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209327,
+      "num": 263612,
+      "word": "永夜星河竹林四侠预告",
+      "onboard_time": 1729219639,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207734,
+      "num": 277088,
+      "word": "女子40多万买几百件假文物",
+      "onboard_time": 1729218080,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204661,
+      "num": 480190,
       "word": "金正恩称朝鲜军队要认清韩国是敌国",
       "onboard_time": 1729213581,
       "rank": 32,
       "category": "国外时政"
     },
     {
+      "raw_hot": 204255,
+      "num": 204255,
+      "word": "北京协和医院报案",
+      "onboard_time": 1729216100,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203812,
-      "num": 203812,
+      "num": 207008,
       "word": "黄圣依说不喜欢直播",
       "onboard_time": 1729213340,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200634,
+      "num": 200634,
+      "word": "拜登祝贺以军打死辛瓦尔",
+      "onboard_time": 1729218080,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 264657,
+      "word": "许我耀眼首发预告",
+      "onboard_time": 1729219160,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 193398,
@@ -425,6 +537,14 @@
       "onboard_time": 1729165161,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177567,
+      "num": 284439,
+      "word": "樊振东3比0罗铮",
+      "onboard_time": 1729216578,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 175598,
@@ -467,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165528,
+      "num": 165528,
+      "word": "2024全国秋裤预警地图",
+      "onboard_time": 1729216159,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158362,
       "num": 310054,
       "word": "超级月亮遇见紫金山彗星",
@@ -483,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151558,
-      "num": 151558,
-      "word": "北京协和医院报案",
-      "onboard_time": 1729216100,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 151887,
+      "num": 151887,
+      "word": "名侦探柯南第0话",
+      "onboard_time": 1729219040,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 150999,
@@ -507,12 +635,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147605,
+      "num": 147605,
+      "word": "大奉打更人锁定你海报",
+      "onboard_time": 1729217899,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146054,
       "num": 146054,
       "word": "4个动作避免乳腺结节",
       "onboard_time": 1729208839,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145921,
+      "num": 145921,
+      "word": "以色列总理称战争还未结束",
+      "onboard_time": 1729217359,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 145107,
@@ -561,6 +705,14 @@
       "onboard_time": 1729171282,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137281,
+      "num": 137281,
+      "word": "择机进一步下调存款准备金率",
+      "onboard_time": 1729220060,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 133921,
@@ -627,14 +779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123290,
-      "num": 123290,
-      "word": "2024全国秋裤预警地图",
-      "onboard_time": 1729216159,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122324,
       "num": 122324,
       "word": "Breathe说WBG有机会夺冠",
@@ -657,14 +801,6 @@
       "onboard_time": 1729182079,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120373,
-      "num": 120373,
-      "word": "环球人物孙颖莎",
-      "onboard_time": 1729216758,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 119413,
@@ -827,6 +963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 80498,
+      "num": 480154,
+      "word": "三季度经济数据发布",
+      "onboard_time": 1729218860,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72266,
       "num": 72266,
       "word": "意大利将海外代孕入刑",
@@ -915,19 +1059,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36172,
-      "num": 284439,
-      "word": "樊振东3比0罗铮",
-      "onboard_time": 1729216578,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34282,
       "num": 934696,
       "word": "美好新疆",
       "onboard_time": 1729174284,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32184,
+      "num": 467374,
+      "word": "以军此次行动并非针对辛瓦尔",
+      "onboard_time": 1729219999,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -984,6 +1128,14 @@
       "word": "房地产组合拳不仅有料更追求实效",
       "onboard_time": 1729185674,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25331,
+      "num": 146461,
+      "word": "专家称美网络攻击活动是可捕获的",
+      "onboard_time": 1729219339,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1080,6 +1232,14 @@
       "word": "清澈的爱只为中国",
       "onboard_time": 1729202472,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9290,
+      "num": 945924,
+      "word": "丰收的田野多姿多彩",
+      "onboard_time": 1729219879,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
