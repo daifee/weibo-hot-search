@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729265916905,
+  "endTime": 1729268870867,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -657,6 +657,14 @@
       "onboard_time": 1728916401,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1624127,
+      "num": 1624127,
+      "word": "BLG晋级S14四强",
+      "onboard_time": 1729266022,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1623161,
@@ -2056,6 +2064,14 @@
       "word": "医院回应公职人员体检市民被拦住",
       "onboard_time": 1729130419,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872712,
+      "num": 872712,
+      "word": "听泉赏宝",
+      "onboard_time": 1729262421,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3507,14 +3523,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 593765,
-      "num": 593765,
-      "word": "听泉赏宝",
-      "onboard_time": 1729262421,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593725,
       "num": 327985,
       "word": "赵露思 自己化妆",
@@ -3865,6 +3873,14 @@
       "onboard_time": 1729259659,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 539002,
+      "num": 539002,
+      "word": "宋茜虞书欣田曦薇红毯生图",
+      "onboard_time": 1729263920,
+      "rank": 17,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 538832,
@@ -4891,14 +4907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 414977,
-      "num": 414977,
-      "word": "宋茜虞书欣田曦薇红毯生图",
-      "onboard_time": 1729263920,
-      "rank": 17,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 414718,
       "num": 313515,
       "word": "肖战工作室出图",
@@ -5113,6 +5121,14 @@
       "onboard_time": 1729118533,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389540,
+      "num": 389540,
+      "word": "韩华生命",
+      "onboard_time": 1729263741,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 388408,
@@ -5817,6 +5833,14 @@
       "onboard_time": 1729208958,
       "rank": 17,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 324983,
+      "num": 324983,
+      "word": "小S再次错失金钟奖",
+      "onboard_time": 1729264999,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 323792,
@@ -6603,6 +6627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278184,
+      "num": 278184,
+      "word": "HLE对战BLG",
+      "onboard_time": 1729253421,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276611,
       "num": 276611,
       "word": "山东威海一海滩发现甲午战争鱼雷",
@@ -6809,14 +6841,6 @@
       "onboard_time": 1729163963,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267423,
-      "num": 267423,
-      "word": "小S再次错失金钟奖",
-      "onboard_time": 1729264999,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 266868,
@@ -7139,6 +7163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255040,
+      "num": 255040,
+      "word": "BLG的BP",
+      "onboard_time": 1729256722,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254830,
       "num": 254830,
       "word": "世界上只有一个中国",
@@ -7337,14 +7369,6 @@
       "onboard_time": 1729125681,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 247372,
-      "num": 247372,
-      "word": "BLG的BP",
-      "onboard_time": 1729256722,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 247261,
@@ -7643,6 +7667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233546,
+      "num": 233546,
+      "word": "elk",
+      "onboard_time": 1729268180,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233311,
       "num": 353648,
       "word": "此沙掏耳朵",
@@ -7785,14 +7817,6 @@
       "onboard_time": 1729257021,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230043,
-      "num": 230043,
-      "word": "HLE对战BLG",
-      "onboard_time": 1729253421,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 229998,
@@ -8787,6 +8811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206874,
+      "num": 206874,
+      "word": "TES",
+      "onboard_time": 1729268299,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206834,
       "num": 206834,
       "word": "LPL全员晋级S14八强",
@@ -9217,6 +9249,14 @@
       "onboard_time": 1728965781,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200922,
+      "num": 200922,
+      "word": "BigWei",
+      "onboard_time": 1729267820,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 200897,
@@ -9716,7 +9756,7 @@
     },
     {
       "raw_hot": 195019,
-      "num": 195019,
+      "num": 200995,
       "word": "李现直播状态",
       "onboard_time": 1729264820,
       "rank": 43,
@@ -11627,14 +11667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165719,
-      "num": 165719,
-      "word": "韩华生命",
-      "onboard_time": 1729263741,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 165689,
       "num": 165689,
       "word": "GDP",
@@ -11979,6 +12011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159882,
+      "num": 159882,
+      "word": "TheShy看WBG晋级四强",
+      "onboard_time": 1729267160,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159738,
       "num": 477636,
       "word": "在山西随手抓把土都能讲出5000年故事",
@@ -12161,6 +12201,14 @@
       "onboard_time": 1729226721,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "BLG战胜HLE",
+      "onboard_time": 1729267459,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 156404,
@@ -12873,6 +12921,14 @@
       "onboard_time": 1728821659,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145019,
+      "num": 145019,
+      "word": "LPL提前锁定S14决赛",
+      "onboard_time": 1729266621,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 144863,
@@ -14043,6 +14099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 119777,
+      "num": 119777,
+      "word": "铁路客运将推广使用电子发票",
+      "onboard_time": 1729265960,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119415,
       "num": 175709,
       "word": "林诗栋蒯曼冠军",
@@ -14257,6 +14321,14 @@
       "onboard_time": 1728789439,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115083,
+      "num": 115083,
+      "word": "HLE淘汰赛先下一城",
+      "onboard_time": 1729258823,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 114906,
@@ -16593,6 +16665,14 @@
       "onboard_time": 1728916581,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50472,
+      "num": 379143,
+      "word": "好的人生需要8种推动力",
+      "onboard_time": 1729268120,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50382,

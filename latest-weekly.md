@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/18 23:38:36
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/19 00:27:50
 </p>
 </blockquote>
 <p>
@@ -503,6 +503,12 @@ papi酱问黄圣依杨子是演的还是真的（热度：1817648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%8E%A8%E7%89%B9%E8%A2%AB%E5%B0%81%23" target="weibo">
 Jennie推特被封（热度：1626091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S14%E5%9B%9B%E5%BC%BA%23" target="weibo">
+BLG晋级S14四强（热度：1624127）
 </a>
 </li>
 
@@ -1553,6 +1559,12 @@ K总女友颜值（热度：997545）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E4%BD%93%E6%A3%80%E5%B8%82%E6%B0%91%E8%A2%AB%E6%8B%A6%E4%BD%8F%23" target="weibo">
 医院回应公职人员体检市民被拦住（热度：873909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%23" target="weibo">
+听泉赏宝（热度：872712）
 </a>
 </li>
 
@@ -2643,12 +2655,6 @@ Jennie新歌MV被禁（热度：602531）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%23" target="weibo">
-听泉赏宝（热度：593765）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%87%AA%E5%B7%B1%E5%8C%96%E5%A6%86%23" target="weibo">
 赵露思 自己化妆（热度：593725）
 </a>
@@ -2909,6 +2915,12 @@ G2对战BLG（热度：540423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23" target="weibo">
 哈马斯最新声明（热度：539734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%B0%E6%9B%A6%E8%96%87%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE%23" target="weibo">
+宋茜虞书欣田曦薇红毯生图（热度：539002）
 </a>
 </li>
 
@@ -3681,12 +3693,6 @@ B太回应曾夸东北雨姐真实（热度：438734）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%B0%E6%9B%A6%E8%96%87%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE%23" target="weibo">
-宋茜虞书欣田曦薇红毯生图（热度：414977）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23" target="weibo">
 肖战工作室出图（热度：414718）
 </a>
@@ -3845,6 +3851,12 @@ TXT回归（热度：397013）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%94%AE%E5%8D%96336%E9%83%A8%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 大学生售卖336部淫秽视频被判刑（热度：391070）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%8D%8E%E7%94%9F%E5%91%BD%23" target="weibo">
+韩华生命（热度：389540）
 </a>
 </li>
 
@@ -4373,6 +4385,12 @@ ITZY完整体新歌MV（热度：325689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%BB%99%E6%9D%A8%E5%B9%82%E9%A2%81%E5%A5%96%23" target="weibo">
 谷爱凌给杨幂颁奖（热度：325575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%86%8D%E6%AC%A1%E9%94%99%E5%A4%B1%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
+小S再次错失金钟奖（热度：324983）
 </a>
 </li>
 
@@ -4965,6 +4983,12 @@ UNIQ与乐华签约已满十年（热度：282549）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23HLE%E5%AF%B9%E6%88%98BLG%23" target="weibo">
+HLE对战BLG（热度：278184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E4%B8%80%E6%B5%B7%E6%BB%A9%E5%8F%91%E7%8E%B0%E7%94%B2%E5%8D%88%E6%88%98%E4%BA%89%E9%B1%BC%E9%9B%B7%23" target="weibo">
 山东威海一海滩发现甲午战争鱼雷（热度：276611）
 </a>
@@ -5117,12 +5141,6 @@ UNIQ与乐华签约已满十年（热度：282549）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E7%B2%89%E8%89%B2%E8%83%8C%E6%99%AF%E6%9D%BF%23" target="weibo">
 VOGUE粉色背景板（热度：267859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%86%8D%E6%AC%A1%E9%94%99%E5%A4%B1%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
-小S再次错失金钟奖（热度：267423）
 </a>
 </li>
 
@@ -5367,6 +5385,12 @@ Gigi大开（热度：257177）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E7%9A%84BP%23" target="weibo">
+BLG的BP（热度：255040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%23" target="weibo">
 世界上只有一个中国（热度：254830）
 </a>
@@ -5513,12 +5537,6 @@ A股大涨那几天究竟激活了多少股民（热度：247999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E4%BA%92%E5%8A%A9%23" target="weibo">
 京东互助（热度：247509）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E7%9A%84BP%23" target="weibo">
-BLG的BP（热度：247372）
 </a>
 </li>
 
@@ -5745,6 +5763,12 @@ Daeny表情（热度：239452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23elk%23" target="weibo">
+elk（热度：233546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A4%E6%B2%99%E6%8E%8F%E8%80%B3%E6%9C%B5%23" target="weibo">
 此沙掏耳朵（热度：233311）
 </a>
@@ -5849,12 +5873,6 @@ Daeny表情（热度：239452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%94%B1%E4%BA%8617%E5%B9%B4%E5%89%8D%E5%BF%AB%E7%94%B7%E7%AC%AC%E4%B8%80%E9%A6%96%E6%AD%8C%23" target="weibo">
 王栎鑫唱了17年前快男第一首歌（热度：230069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23HLE%E5%AF%B9%E6%88%98BLG%23" target="weibo">
-HLE对战BLG（热度：230043）
 </a>
 </li>
 
@@ -6603,6 +6621,12 @@ A股大涨（热度：210878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%23" target="weibo">
+TES（热度：206874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%E5%85%A8%E5%91%98%E6%99%8B%E7%BA%A7S14%E5%85%AB%E5%BC%BA%23" target="weibo">
 LPL全员晋级S14八强（热度：206834）
 </a>
@@ -6923,6 +6947,12 @@ TOP登陆少年爆改（热度：202904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9Cwonderland%E5%B0%81%E9%9D%A2%E5%A4%A7%E7%89%87%23" target="weibo">
 宋茜wonderland封面大片（热度：200937）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BigWei%23" target="weibo">
+BigWei（热度：200922）
 </a>
 </li>
 
@@ -8733,12 +8763,6 @@ coloros15（热度：172622）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%8D%8E%E7%94%9F%E5%91%BD%23" target="weibo">
-韩华生命（热度：165719）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23GDP%23" target="weibo">
 GDP（热度：165689）
 </a>
@@ -8997,6 +9021,12 @@ A股3大积极信号（热度：160662）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E7%9C%8BWBG%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23" target="weibo">
+TheShy看WBG晋级四强（热度：159882）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B1%B1%E8%A5%BF%E9%9A%8F%E6%89%8B%E6%8A%93%E6%8A%8A%E5%9C%9F%E9%83%BD%E8%83%BD%E8%AE%B2%E5%87%BA5000%E5%B9%B4%E6%95%85%E4%BA%8B%23" target="weibo">
 在山西随手抓把土都能讲出5000年故事（热度：159738）
 </a>
@@ -9131,6 +9161,12 @@ A股3大积极信号（热度：160662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E7%94%A8%E5%94%87%E5%8D%B0%E7%BB%99%E4%BA%BA%E5%8C%96%E5%A6%86%23" target="weibo">
 姚晨用唇印给人化妆（热度：156427）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CHLE%23" target="weibo">
+BLG战胜HLE（热度：156413）
 </a>
 </li>
 
@@ -9665,6 +9701,12 @@ melon抢票（热度：149554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E7%BA%BF%23" target="weibo">
 司线（热度：145034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LPL%E6%8F%90%E5%89%8D%E9%94%81%E5%AE%9AS14%E5%86%B3%E8%B5%9B%23" target="weibo">
+LPL提前锁定S14决赛（热度：145019）
 </a>
 </li>
 
@@ -10545,6 +10587,12 @@ SEVENTEEN演唱会着火（热度：120347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E5%AE%A2%E8%BF%90%E5%B0%86%E6%8E%A8%E5%B9%BF%E4%BD%BF%E7%94%A8%E7%94%B5%E5%AD%90%E5%8F%91%E7%A5%A8%23" target="weibo">
+铁路客运将推广使用电子发票（热度：119777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E5%86%A0%E5%86%9B%23" target="weibo">
 林诗栋蒯曼冠军（热度：119415）
 </a>
@@ -10703,6 +10751,12 @@ NCTWISH亚巡（热度：116901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E7%9A%84%E5%86%9C%E6%9D%91%E7%94%9F%E6%B4%BB%E4%B8%BA%E5%95%A5%E5%8F%97%E6%AC%A2%E8%BF%8E%23" target="weibo">
 东北雨姐的农村生活为啥受欢迎（热度：115163）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23HLE%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
+HLE淘汰赛先下一城（热度：115083）
 </a>
 </li>
 
@@ -12455,6 +12509,12 @@ X200小直屏颜值党天菜（热度：54004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23vivoX200Promini%23" target="weibo">
 vivoX200Promini（热度：50474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%9A%84%E4%BA%BA%E7%94%9F%E9%9C%80%E8%A6%818%E7%A7%8D%E6%8E%A8%E5%8A%A8%E5%8A%9B%23" target="weibo">
+好的人生需要8种推动力（热度：50472）
 </a>
 </li>
 
