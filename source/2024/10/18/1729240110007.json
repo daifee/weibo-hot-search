@@ -1,0 +1,410 @@
+{
+  "runTime": 1729240110007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132006,
+        "num": 1181121,
+        "word": "中介自称今年已卖出20多个孩子",
+        "onboard_time": 1729236141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813016,
+        "num": 813016,
+        "word": "女幼师出租屋遇害案被告人获死刑",
+        "onboard_time": 1729235962,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6130,
+        "num": 747635,
+        "word": "三季度免签入境外国人同比上升78.6%",
+        "onboard_time": 1729239920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723515,
+        "num": 723515,
+        "word": "曝男明星走VOGUE红毯耍大牌",
+        "onboard_time": 1729236862,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 681703,
+        "num": 681703,
+        "word": "ZH9138航班已安全落地",
+        "onboard_time": 1729238781,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521705,
+        "num": 521705,
+        "word": "我的26岁女房客拍电视剧了",
+        "onboard_time": 1729233860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471730,
+        "num": 471730,
+        "word": "被中国制裁的美国公司去坑美国军方了",
+        "onboard_time": 1729232061,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 369842,
+        "num": 369842,
+        "word": "覃海洋成功晋级后挥手竖大拇指",
+        "onboard_time": 1729222038,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368718,
+        "num": 368718,
+        "word": "黄圣依指责杨子不管小孩",
+        "onboard_time": 1729235001,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223963,
+        "num": 362089,
+        "word": "千万奖金被冒领后赢了官司没要回钱",
+        "onboard_time": 1729238659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969650,
+        "num": 343993,
+        "word": "周杰伦 假冒我妈太扯了",
+        "onboard_time": 1729230979,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 578955,
+        "num": 334209,
+        "word": "25个微do等于几个伍佰",
+        "onboard_time": 1729236681,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557342,
+        "num": 321327,
+        "word": "沙溢肌肉",
+        "onboard_time": 1729236141,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306688,
+        "num": 306688,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38434,
+        "num": 304380,
+        "word": "外媒爆马沙尔成为哈马斯代理领导人",
+        "onboard_time": 1729239141,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 303618,
+        "num": 303618,
+        "word": "何浩楠赵一博更新封面",
+        "onboard_time": 1729235361,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282469,
+        "num": 282469,
+        "word": "深圳航空",
+        "onboard_time": 1729239199,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85216,
+        "num": 281811,
+        "word": "庆怜 吗喽跳高",
+        "onboard_time": 1729238960,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45955,
+        "num": 268020,
+        "word": "那些爱挑刺的人到底是什么心理",
+        "onboard_time": 1729238781,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53645,
+        "num": 259944,
+        "word": "实测136克辣条可挤出近19克油",
+        "onboard_time": 1729239261,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259230,
+        "num": 255878,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304925,
+        "num": 244606,
+        "word": "这还是沙溢吗",
+        "onboard_time": 1729237581,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241351,
+        "num": 241351,
+        "word": "高度近视一年最好查一次眼底",
+        "onboard_time": 1729234460,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227509,
+        "num": 227509,
+        "word": "医学生发大体老师头骨合影引不满",
+        "onboard_time": 1729221920,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121489,
+        "num": 227013,
+        "word": "深航回应客机出现烟雾返航",
+        "onboard_time": 1729239979,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164202,
+        "num": 226185,
+        "word": "外交部回应辛瓦尔被打死",
+        "onboard_time": 1729238060,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210494,
+        "num": 225337,
+        "word": "papi酱问黄圣依杨子是演的还是真的",
+        "onboard_time": 1729222038,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202582,
+        "num": 224161,
+        "word": "龚俊杨幂打招呼氛围感",
+        "onboard_time": 1729233262,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158807,
+        "num": 222310,
+        "word": "张小斐晚宴造型",
+        "onboard_time": 1729235061,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158402,
+        "num": 221519,
+        "word": "朴彩英空降成绩",
+        "onboard_time": 1729239561,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221058,
+        "num": 221058,
+        "word": "王曼昱因伤退出冠军赛",
+        "onboard_time": 1729232780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211499,
+        "num": 211499,
+        "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+        "onboard_time": 1729227561,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211477,
+        "num": 211477,
+        "word": "A股近270股涨超11%",
+        "onboard_time": 1729236201,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196145,
+        "num": 196145,
+        "word": "40岁女性在杭州的真实现状",
+        "onboard_time": 1729238241,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192405,
+        "num": 192405,
+        "word": "金饰价格持续大涨",
+        "onboard_time": 1729224981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190002,
+        "num": 190002,
+        "word": "连线听泉鉴宝男子已被重庆警方找到",
+        "onboard_time": 1729208359,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181930,
+        "num": 181930,
+        "word": "辛瓦尔死前身边为何没有一个人",
+        "onboard_time": 1729236021,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22247,
+        "num": 180372,
+        "word": "刘欢一直在幕后慷慨帮助学员们",
+        "onboard_time": 1729237101,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178936,
+        "num": 178936,
+        "word": "95后研究员4个博士学位本人发声",
+        "onboard_time": 1729226121,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100094,
+        "num": 167645,
+        "word": "战士对陈祥榕母亲说我们都是您儿子",
+        "onboard_time": 1729234281,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165365,
+        "num": 165365,
+        "word": "A股牛回来了",
+        "onboard_time": 1729234941,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152138,
+        "num": 152138,
+        "word": "2人建群抢红包赚8万被判开设赌场",
+        "onboard_time": 1729231460,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147052,
+        "num": 147052,
+        "word": "泰国一百块让服务员把毛巾叠成动物",
+        "onboard_time": 1729234880,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144586,
+        "num": 144586,
+        "word": "迪丽热巴陈星旭背对背身高差",
+        "onboard_time": 1729230920,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141954,
+        "num": 141954,
+        "word": "珠帘玉幕",
+        "onboard_time": 1729229901,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128872,
+        "num": 128872,
+        "word": "小英回应开着路虎去种地",
+        "onboard_time": 1729222879,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123400,
+        "num": 123400,
+        "word": "周深 没那么多姿势",
+        "onboard_time": 1729237820,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114210,
+        "num": 114210,
+        "word": "刘学义说吴谨言太疯了",
+        "onboard_time": 1729231942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110906,
+        "num": 110906,
+        "word": "油炸方便面",
+        "onboard_time": 1729239861,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109552,
+        "num": 109552,
+        "word": "VOGUE晚宴主桌",
+        "onboard_time": 1729240040,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在安徽考察调研#"
+    }
+  }
+}
