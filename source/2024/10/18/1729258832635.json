@@ -1,0 +1,402 @@
+{
+  "runTime": 1729258832635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1179647,
+        "num": 1188743,
+        "word": "覃海洋男子100米蛙泳金牌",
+        "onboard_time": 1729252158,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907228,
+        "num": 907228,
+        "word": "美国承认为打死辛瓦尔提供情报支持",
+        "onboard_time": 1729256361,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 870231,
+        "num": 870231,
+        "word": "黄圣依 杨子",
+        "onboard_time": 1729257524,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 817250,
+        "num": 817250,
+        "word": "张雨霏回应50米自摘银",
+        "onboard_time": 1729255400,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657309,
+        "num": 657309,
+        "word": "卖孩子中介称孩子生母多为女大学生",
+        "onboard_time": 1729250778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616460,
+        "num": 616460,
+        "word": "印媒找到中国男性更高的原因",
+        "onboard_time": 1729252879,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541514,
+        "num": 541514,
+        "word": "田曦薇cos绮梦青鸾",
+        "onboard_time": 1729251740,
+        "rank": 7,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 34042,
+        "num": 540096,
+        "word": "临沂调查网传买卖出生医学证明",
+        "onboard_time": 1729258041,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99358,
+        "num": 538161,
+        "word": "外国姑娘被上海豫园感动哭了",
+        "onboard_time": 1729258461,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41209,
+        "num": 535220,
+        "word": "全明星cos和平精英皮肤走红毯",
+        "onboard_time": 1729256722,
+        "rank": 10,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 52326,
+        "num": 533527,
+        "word": "奔驰大G",
+        "onboard_time": 1729256659,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 577003,
+        "num": 530804,
+        "word": "泽连斯基向特朗普要核武器",
+        "onboard_time": 1729253960,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1394554,
+        "num": 526911,
+        "word": "内娱三大忍者",
+        "onboard_time": 1729253179,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 882337,
+        "num": 525154,
+        "word": "员工嫖娼被抓公司解除劳动合同被告",
+        "onboard_time": 1729252341,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37853,
+        "num": 523302,
+        "word": "希林娜依高唱和平精英神曲",
+        "onboard_time": 1729254980,
+        "rank": 15,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 361937,
+        "num": 519404,
+        "word": "金鹰节开幕式",
+        "onboard_time": 1729252941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518981,
+        "num": 518981,
+        "word": "骄阳似我 宋威龙赵今麦",
+        "onboard_time": 1729253841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41031,
+        "num": 517142,
+        "word": "尚雯婕把过火唱出暗黑童话感",
+        "onboard_time": 1729258399,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58356,
+        "num": 514176,
+        "word": "男子2万多定制家具表面全是划痕",
+        "onboard_time": 1729257079,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87143,
+        "num": 510829,
+        "word": "明星们有多爱开大G",
+        "onboard_time": 1729255280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1223981,
+        "num": 508053,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544084,
+        "num": 507060,
+        "word": "黄圣依杨子回应当年微博藏头诗",
+        "onboard_time": 1729248443,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505189,
+        "num": 505189,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492414,
+        "num": 492414,
+        "word": "外国游客因着装问题被劝离故宫",
+        "onboard_time": 1729244242,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342815,
+        "num": 342815,
+        "word": "杨幂刘诗诗在聊孩子",
+        "onboard_time": 1729246700,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87725,
+        "num": 328906,
+        "word": "飞机逃生滑梯打开一次不要20万",
+        "onboard_time": 1729256960,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326724,
+        "num": 326724,
+        "word": "虞书欣和平精英舞台",
+        "onboard_time": 1729254740,
+        "rank": 27,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 286265,
+        "num": 302293,
+        "word": "于祥宇 GAI",
+        "onboard_time": 1729244840,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178192,
+        "num": 298878,
+        "word": "向佐曾贴脸开大杨子",
+        "onboard_time": 1729256001,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296247,
+        "num": 296247,
+        "word": "郭艾伦哭了",
+        "onboard_time": 1729253841,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288898,
+        "num": 288898,
+        "word": "汪顺100混打破亚洲纪录",
+        "onboard_time": 1729256121,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272874,
+        "num": 272874,
+        "word": "金正恩对韩国发出强硬警告",
+        "onboard_time": 1729244660,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 259771,
+        "num": 259771,
+        "word": "睡醒就喊老婆没钱立马拉黑",
+        "onboard_time": 1729257021,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251836,
+        "num": 251836,
+        "word": "她这么痛还稳稳地抱起孩子",
+        "onboard_time": 1729254980,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215140,
+        "num": 215140,
+        "word": "Jennie新歌歌词",
+        "onboard_time": 1729258762,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200724,
+        "num": 200724,
+        "word": "听泉鉴宝APP",
+        "onboard_time": 1729246219,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28816,
+        "num": 194685,
+        "word": "汪东城和平精英神装走秀",
+        "onboard_time": 1729258281,
+        "rank": 37,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 192437,
+        "num": 192437,
+        "word": "每5只帝王蟹就有4只来自吉林",
+        "onboard_time": 1729257740,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183392,
+        "num": 183392,
+        "word": "ON别送了",
+        "onboard_time": 1729257799,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174322,
+        "num": 174322,
+        "word": "新疆真实存在过的女儿国",
+        "onboard_time": 1729258522,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 170758,
+        "num": 170758,
+        "word": "全明星cos和平精英皮肤走秀",
+        "onboard_time": 1729253779,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169648,
+        "num": 169648,
+        "word": "表姐为了猫扇了亲戚小孩一巴掌",
+        "onboard_time": 1729240520,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169076,
+        "num": 169076,
+        "word": "董宇辉独立不到3个月带货超10亿元",
+        "onboard_time": 1729258340,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165527,
+        "num": 165527,
+        "word": "这还是沙溢吗",
+        "onboard_time": 1729237581,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164943,
+        "num": 164943,
+        "word": "王栎鑫唱了17年前快男第一首歌",
+        "onboard_time": 1729257021,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164508,
+        "num": 164508,
+        "word": "BLG的BP",
+        "onboard_time": 1729256722,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163566,
+        "num": 163566,
+        "word": "孙佳俊回应100米蛙泳摘银",
+        "onboard_time": 1729255101,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156572,
+        "num": 156572,
+        "word": "这声三哥终于名正言顺了",
+        "onboard_time": 1729257079,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143231,
+        "num": 143231,
+        "word": "第五人格",
+        "onboard_time": 1729242080,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#高新技术是讨不来要不来的#"
+    }
+  }
+}

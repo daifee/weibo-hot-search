@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729258138763,
+  "endTime": 1729258832635,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 1066072,
-      "num": 479903,
+      "num": 525154,
       "word": "员工嫖娼被抓公司解除劳动合同被告",
       "onboard_time": 1729252341,
       "rank": 10,
@@ -1740,7 +1740,7 @@
     },
     {
       "raw_hot": 958419,
-      "num": 404275,
+      "num": 507060,
       "word": "黄圣依杨子回应当年微博藏头诗",
       "onboard_time": 1729248443,
       "rank": 11,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1728787399,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 907228,
+      "num": 907228,
+      "word": "美国承认为打死辛瓦尔提供情报支持",
+      "onboard_time": 1729256361,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 904925,
@@ -2025,6 +2033,14 @@
       "onboard_time": 1728961159,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870231,
+      "num": 870231,
+      "word": "黄圣依 杨子",
+      "onboard_time": 1729257524,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 869062,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1729042878,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817250,
+      "num": 817250,
+      "word": "张雨霏回应50米自摘银",
+      "onboard_time": 1729255400,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 816918,
@@ -2947,14 +2971,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 679417,
-      "num": 649388,
-      "word": "黄圣依 杨子",
-      "onboard_time": 1729257524,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 677034,
       "num": 677034,
       "word": "上海一妇产医院成网红打卡地",
@@ -3008,14 +3024,6 @@
       "word": "樊振东vs刘家良",
       "onboard_time": 1729154121,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 666124,
-      "num": 666124,
-      "word": "张雨霏回应50米自摘银",
-      "onboard_time": 1729255400,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -3331,6 +3339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 616460,
+      "num": 616460,
+      "word": "印媒找到中国男性更高的原因",
+      "onboard_time": 1729252879,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615684,
       "num": 615684,
       "word": "河南一县城周边发现近2000头野猪",
@@ -3345,14 +3361,6 @@
       "onboard_time": 1728903260,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 609890,
-      "num": 609890,
-      "word": "印媒找到中国男性更高的原因",
-      "onboard_time": 1729252879,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609535,
@@ -4881,14 +4889,6 @@
       "onboard_time": 1728998241,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406722,
-      "num": 406722,
-      "word": "美国承认为打死辛瓦尔提供情报支持",
-      "onboard_time": 1729256361,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 403897,
@@ -6891,6 +6891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259771,
+      "num": 259771,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259603,
       "num": 259603,
       "word": "年收入不足10万元基本不用交个税",
@@ -7083,6 +7091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251836,
+      "num": 251836,
+      "word": "她这么痛还稳稳地抱起孩子",
+      "onboard_time": 1729254980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251488,
       "num": 392126,
       "word": "小S把粉丝送的小象保存了十年",
@@ -7136,14 +7152,6 @@
       "word": "开水烫伤6岁女童的男孩家属说他贪玩",
       "onboard_time": 1728997041,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249914,
-      "num": 249914,
-      "word": "她这么痛还稳稳地抱起孩子",
-      "onboard_time": 1729254980,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -8147,6 +8155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 215140,
+      "num": 215140,
+      "word": "Jennie新歌歌词",
+      "onboard_time": 1729258762,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215113,
       "num": 215113,
       "word": "光遇",
@@ -8889,14 +8905,6 @@
       "onboard_time": 1729097476,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202913,
-      "num": 202913,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202904,
@@ -9665,6 +9673,14 @@
       "onboard_time": 1729235061,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192437,
+      "num": 192437,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1729257740,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192377,
@@ -10556,7 +10572,7 @@
     },
     {
       "raw_hot": 180255,
-      "num": 180255,
+      "num": 298878,
       "word": "向佐曾贴脸开大杨子",
       "onboard_time": 1729256001,
       "rank": 38,
@@ -10867,6 +10883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174322,
+      "num": 174322,
+      "word": "新疆真实存在过的女儿国",
+      "onboard_time": 1729258522,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 174164,
       "num": 295894,
       "word": "现在就出发",
@@ -11137,6 +11161,14 @@
       "onboard_time": 1728996561,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169076,
+      "num": 169076,
+      "word": "董宇辉独立不到3个月带货超10亿元",
+      "onboard_time": 1729258340,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 168980,
@@ -14539,6 +14571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99358,
+      "num": 538161,
+      "word": "外国姑娘被上海豫园感动哭了",
+      "onboard_time": 1729258461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99338,
       "num": 99338,
       "word": "我的宝藏家乡",
@@ -14907,6 +14947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87725,
+      "num": 547734,
+      "word": "飞机逃生滑梯打开一次不要20万",
+      "onboard_time": 1729256960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87610,
       "num": 87610,
       "word": "教育局回应女童被打满嘴是血",
@@ -14921,6 +14969,14 @@
       "onboard_time": 1728969020,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87143,
+      "num": 510829,
+      "word": "明星们有多爱开大G",
+      "onboard_time": 1729255280,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 87054,
@@ -15297,14 +15353,6 @@
       "onboard_time": 1728828803,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73808,
-      "num": 405455,
-      "word": "明星们有多爱开大G",
-      "onboard_time": 1729255280,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 73269,
@@ -15787,14 +15835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60154,
-      "num": 547734,
-      "word": "飞机逃生滑梯打开一次不要20万",
-      "onboard_time": 1729256960,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59862,
       "num": 260872,
       "word": "虞书欣看了檀健次演唱会",
@@ -15872,6 +15912,14 @@
       "word": "美好新疆",
       "onboard_time": 1729174284,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58356,
+      "num": 514176,
+      "word": "男子2万多定制家具表面全是划痕",
+      "onboard_time": 1729257079,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -15953,14 +16001,6 @@
       "onboard_time": 1728801439,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 56890,
-      "num": 406089,
-      "word": "男子2万多定制家具表面全是划痕",
-      "onboard_time": 1729257079,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56613,
@@ -16129,6 +16169,14 @@
       "onboard_time": 1728980539,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52326,
+      "num": 552991,
+      "word": "奔驰大G",
+      "onboard_time": 1729256659,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 52263,
@@ -16843,12 +16891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41209,
+      "num": 561948,
+      "word": "全明星cos和平精英皮肤走红毯",
+      "onboard_time": 1729256722,
+      "rank": 10,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 41123,
       "num": 55868,
       "word": "ITZY GOLD",
       "onboard_time": 1729013353,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41031,
+      "num": 517142,
+      "word": "尚雯婕把过火唱出暗黑童话感",
+      "onboard_time": 1729258399,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 40455,
@@ -16913,14 +16977,6 @@
       "onboard_time": 1729066579,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38893,
-      "num": 552991,
-      "word": "奔驰大G",
-      "onboard_time": 1729256659,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 38710,
@@ -16993,6 +17049,14 @@
       "onboard_time": 1729065440,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37853,
+      "num": 551059,
+      "word": "希林娜依高唱和平精英神曲",
+      "onboard_time": 1729254980,
+      "rank": 40,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 37752,
@@ -17195,14 +17259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34825,
-      "num": 551059,
-      "word": "希林娜依高唱和平精英神曲",
-      "onboard_time": 1729254980,
-      "rank": 40,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 34782,
       "num": 134510,
       "word": "攻略还没做双11就来了",
@@ -17369,14 +17425,6 @@
       "onboard_time": 1729018932,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33238,
-      "num": 561948,
-      "word": "全明星cos和平精英皮肤走红毯",
-      "onboard_time": 1729256722,
-      "rank": 10,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 33179,
@@ -17737,6 +17785,14 @@
       "onboard_time": 1729140744,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28816,
+      "num": 194685,
+      "word": "汪东城和平精英神装走秀",
+      "onboard_time": 1729258281,
+      "rank": 37,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 28615,
