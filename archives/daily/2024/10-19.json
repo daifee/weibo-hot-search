@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729290055066,
+  "endTime": 1729291149285,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308085,
+      "num": 77179,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278184,
       "num": 278184,
       "word": "HLE对战BLG",
@@ -193,14 +201,6 @@
       "onboard_time": 1729269677,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223231,
-      "num": 61426,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208972,
@@ -257,6 +257,14 @@
       "onboard_time": 1729264820,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183075,
+      "num": 183075,
+      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+      "onboard_time": 1729276393,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 178934,
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135799,
-      "num": 135799,
-      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
-      "onboard_time": 1729276393,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 132965,
       "num": 132965,
       "word": "多兰",
@@ -419,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113919,
+      "num": 75475,
+      "word": "刘学义 怎么老往不干净的地方打",
+      "onboard_time": 1729283590,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111414,
       "num": 111414,
       "word": "金正恩对韩国发出强硬警告",
@@ -465,14 +473,6 @@
       "onboard_time": 1729261640,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84923,
-      "num": 57183,
-      "word": "刘学义 怎么老往不干净的地方打",
-      "onboard_time": 1729283590,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 72509,
@@ -523,8 +523,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 34462,
-      "num": 34462,
+      "raw_hot": 36528,
+      "num": 36528,
       "word": "伊朗称辛瓦尔之死将强化抵抗精神",
       "onboard_time": 1729286291,
       "rank": 14,
@@ -547,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30368,
-      "num": 30368,
+      "raw_hot": 30829,
+      "num": 30829,
       "word": "北航原副校长张广受贿2120万余元",
       "onboard_time": 1729284431,
       "rank": 31,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 28851,
-      "num": 28851,
+      "num": 29873,
       "word": "追光的你",
       "onboard_time": 1729281132,
       "rank": 30,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 28670,
-      "num": 28670,
+      "num": 29868,
       "word": "毕业生被贴疫情班标签求职遭拒",
       "onboard_time": 1729282931,
       "rank": 29,
@@ -577,6 +577,14 @@
       "onboard_time": 1729275372,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27572,
+      "num": 29885,
+      "word": "会画画的和不会画画的都沉默了",
+      "onboard_time": 1729282572,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 27291,
@@ -611,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22062,
-      "num": 22062,
-      "word": "会画画的和不会画画的都沉默了",
-      "onboard_time": 1729282572,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 18067,
+      "num": 77641,
+      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+      "onboard_time": 1729289121,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11549,

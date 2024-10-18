@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/19 06:20:55
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/19 06:39:09
 </p>
 </blockquote>
 <p>
@@ -4545,6 +4545,12 @@ ITZY完整体新歌MV（热度：325689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E5%B0%B1%E5%96%8A%E8%80%81%E5%A9%86%E6%B2%A1%E9%92%B1%E7%AB%8B%E9%A9%AC%E6%8B%89%E9%BB%91%23" target="weibo">
+睡醒就喊老婆没钱立马拉黑（热度：308085）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E4%B9%8B%E4%B9%94%E6%80%80%E7%9A%84%E6%98%AF%E7%94%B7%E5%AD%A9%23" target="weibo">
 曾之乔怀的是男孩（热度：308033）
 </a>
@@ -4895,12 +4901,6 @@ WBG前期全是计谋（热度：290768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%20chiha%23" target="weibo">
 第五人格 chiha（热度：284957）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E9%86%92%E5%B0%B1%E5%96%8A%E8%80%81%E5%A9%86%E6%B2%A1%E9%92%B1%E7%AB%8B%E9%A9%AC%E6%8B%89%E9%BB%91%23" target="weibo">
-睡醒就喊老婆没钱立马拉黑（热度：283819）
 </a>
 </li>
 
@@ -8049,6 +8049,12 @@ VOGUE上桌聊天（热度：183152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%93%A6%E5%B0%94%E6%AD%BB%E5%89%8D%E6%90%BA%E5%B8%A6%E6%9E%AA%E6%94%AF%E7%8E%B0%E9%87%91%E8%AF%81%E4%BB%B6%E8%96%84%E8%8D%B7%E7%B3%96%E7%AD%89%23" target="weibo">
+辛瓦尔死前携带枪支现金证件薄荷糖等（热度：183075）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%E8%AF%B4%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9F%E4%B9%8B%E5%89%8D%E6%AF%94%E7%A1%AE%E5%AE%9E%E6%9C%89%E8%BF%9B%E6%AD%A5%23" target="weibo">
 萨巴伦卡说郑钦文跟之前比确实有进步（热度：182989）
 </a>
@@ -10173,12 +10179,6 @@ aespa台历（热度：139522）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%93%A6%E5%B0%94%E6%AD%BB%E5%89%8D%E6%90%BA%E5%B8%A6%E6%9E%AA%E6%94%AF%E7%8E%B0%E9%87%91%E8%AF%81%E4%BB%B6%E8%96%84%E8%8D%B7%E7%B3%96%E7%AD%89%23" target="weibo">
-辛瓦尔死前携带枪支现金证件薄荷糖等（热度：135799）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%BF%97%E8%B1%AA%E7%BD%9A%E5%81%9A%E4%BF%AF%E5%8D%A7%E6%92%91%23" target="weibo">
 董志豪罚做俯卧撑（热度：135728）
 </a>
@@ -10835,6 +10835,12 @@ HLE淘汰赛先下一城（热度：115083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E5%B7%A1%E5%9B%9E%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%8D%E5%8D%95%23" target="weibo">
 蒙特利尔巡回赛中国队名单（热度：114251）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%20%E6%80%8E%E4%B9%88%E8%80%81%E5%BE%80%E4%B8%8D%E5%B9%B2%E5%87%80%E7%9A%84%E5%9C%B0%E6%96%B9%E6%89%93%23" target="weibo">
+刘学义 怎么老往不干净的地方打（热度：113919）
 </a>
 </li>
 
@@ -11597,12 +11603,6 @@ A股成交额连续7个交易日破1.5万亿（热度：86752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9B%9B%E5%B7%9D%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1%23" target="weibo">
 警方通报四川一中学学生死亡（热度：85136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%20%E6%80%8E%E4%B9%88%E8%80%81%E5%BE%80%E4%B8%8D%E5%B9%B2%E5%87%80%E7%9A%84%E5%9C%B0%E6%96%B9%E6%89%93%23" target="weibo">
-刘学义 怎么老往不干净的地方打（热度：84923）
 </a>
 </li>
 
@@ -13227,6 +13227,12 @@ ITZY GOLD（热度：41123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%BE%9B%E7%93%A6%E5%B0%94%E4%B9%8B%E6%AD%BB%E5%B0%86%E5%BC%BA%E5%8C%96%E6%8A%B5%E6%8A%97%E7%B2%BE%E7%A5%9E%23" target="weibo">
+伊朗称辛瓦尔之死将强化抵抗精神（热度：36528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B4%A7%E7%89%A9%E8%B4%B8%E6%98%93%E8%BF%9B%E5%87%BA%E5%8F%A3%E7%AA%81%E7%A0%B432%E4%B8%87%E4%BA%BF%E5%85%83%23" target="weibo">
 我国货物贸易进出口突破32万亿元（热度：35977）
 </a>
@@ -13319,12 +13325,6 @@ ITZY GOLD（热度：41123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%88%86%E7%A0%B4%E9%81%93%E8%B7%AF%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
 朝鲜爆破道路现场画面（热度：34619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%BE%9B%E7%93%A6%E5%B0%94%E4%B9%8B%E6%AD%BB%E5%B0%86%E5%BC%BA%E5%8C%96%E6%8A%B5%E6%8A%97%E7%B2%BE%E7%A5%9E%23" target="weibo">
-伊朗称辛瓦尔之死将强化抵抗精神（热度：34462）
 </a>
 </li>
 
@@ -13611,6 +13611,12 @@ vivo拍出了中华五千年非遗之美（热度：31109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E8%88%AA%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E5%BC%A0%E5%B9%BF%E5%8F%97%E8%B4%BF2120%E4%B8%87%E4%BD%99%E5%85%83%23" target="weibo">
+北航原副校长张广受贿2120万余元（热度：30829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E8%BF%9E%E7%BA%BF%23" target="weibo">
 大冰连线（热度：30725）
 </a>
@@ -13631,12 +13637,6 @@ vivo拍出了中华五千年非遗之美（热度：31109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%BE%8E%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%B4%BB%E5%8A%A8%E6%98%AF%E5%8F%AF%E6%8D%95%E8%8E%B7%E7%9A%84%23" target="weibo">
 专家称美网络攻击活动是可捕获的（热度：30382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E8%88%AA%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E5%BC%A0%E5%B9%BF%E5%8F%97%E8%B4%BF2120%E4%B8%87%E4%BD%99%E5%85%83%23" target="weibo">
-北航原副校长张广受贿2120万余元（热度：30368）
 </a>
 </li>
 
@@ -13811,6 +13811,12 @@ vivo拍出了中华五千年非遗之美（热度：31109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E9%86%8B%E9%B1%BC%E8%87%AD%E9%B3%9C%E9%B1%BC%E5%8F%8C%E6%8B%BC%E6%8A%AB%E8%90%A8%23" target="weibo">
 西湖醋鱼臭鳜鱼双拼披萨（热度：27619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E7%94%BB%E7%94%BB%E7%9A%84%E5%92%8C%E4%B8%8D%E4%BC%9A%E7%94%BB%E7%94%BB%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+会画画的和不会画画的都沉默了（热度：27572）
 </a>
 </li>
 
@@ -14133,12 +14139,6 @@ Ador代表回应Hanni被职场霸凌（热度：27465）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E7%94%BB%E7%94%BB%E7%9A%84%E5%92%8C%E4%B8%8D%E4%BC%9A%E7%94%BB%E7%94%BB%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
-会画画的和不会画画的都沉默了（热度：22062）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E6%96%B0%E8%AF%AD%23" target="weibo">
 学习新语（热度：21977）
 </a>
@@ -14345,6 +14345,12 @@ NewJeans成员为HANNI加油（热度：20238）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E7%8E%B0%E5%9C%BA%E6%8C%96%E5%85%83%E4%B8%80%E5%AE%AB%E5%A2%99%E8%A7%92%23" target="weibo">
 曾舜晞现场挖元一宫墙角（热度：18217）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%86%B7%E7%A9%BA%E6%B0%94%E5%90%B9%E7%9A%8410%E4%BD%99%E7%9C%81%E4%BB%BD%E7%BF%BB%E7%AE%B1%E5%80%92%E6%9F%9C%E6%89%BE%E7%A7%8B%E8%A3%A4%23" target="weibo">
+强冷空气吹的10余省份翻箱倒柜找秋裤（热度：18067）
 </a>
 </li>
 
