@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729277019979,
+  "endTime": 1729279069000,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100377,
+      "num": 100377,
+      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+      "onboard_time": 1729276393,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 96038,
       "num": 96038,
       "word": "胡明轩40分",
@@ -531,10 +539,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16194,
-      "num": 92358,
-      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
-      "onboard_time": 1729276393,
+      "raw_hot": 22960,
+      "num": 25764,
+      "word": "珠帘玉幕商海纵横版海报",
+      "onboard_time": 1729279033,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22649,
+      "num": 25763,
+      "word": "成毅打戏花絮",
+      "onboard_time": 1729277712,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14823,
+      "num": 70417,
+      "word": "以官员称战场上遇到辛瓦尔是个意外",
+      "onboard_time": 1729277833,
       "rank": 9,
       "category": "国外时政"
     },
