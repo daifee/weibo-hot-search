@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729258832635,
+  "endTime": 1729261243238,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -481,6 +481,14 @@
       "onboard_time": 1729061299,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1933949,
+      "num": 1933949,
+      "word": "美国承认为打死辛瓦尔提供情报支持",
+      "onboard_time": 1729256361,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1903011,
@@ -1739,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960996,
+      "num": 960996,
+      "word": "黄圣依 杨子",
+      "onboard_time": 1729257524,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 958419,
       "num": 507060,
       "word": "黄圣依杨子回应当年微博藏头诗",
@@ -1883,14 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 907228,
-      "num": 907228,
-      "word": "美国承认为打死辛瓦尔提供情报支持",
-      "onboard_time": 1729256361,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 904925,
       "num": 1106129,
       "word": "张馨予回应我想我会一直孤单",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1728961159,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870231,
-      "num": 870231,
-      "word": "黄圣依 杨子",
-      "onboard_time": 1729257524,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 869062,
@@ -3833,6 +3833,14 @@
       "onboard_time": 1729041258,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 535576,
+      "num": 538161,
+      "word": "外国姑娘被上海豫园感动哭了",
+      "onboard_time": 1729258461,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534020,
@@ -5803,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317072,
+      "num": 332502,
+      "word": "张杰我是来揍你的贴脸开大",
+      "onboard_time": 1729259481,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316667,
       "num": 316667,
       "word": "张本智和3比1吴晙诚",
@@ -6251,6 +6267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291512,
+      "num": 291512,
+      "word": "董宇辉独立不到3个月带货超10亿元",
+      "onboard_time": 1729258340,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 290768,
       "num": 307398,
       "word": "WBG前期全是计谋",
@@ -6369,6 +6393,14 @@
       "onboard_time": 1728884659,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 283819,
+      "num": 283819,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283545,
@@ -6888,14 +6920,6 @@
       "word": "母女家中养超20只猫恶臭扰邻",
       "onboard_time": 1729153043,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259771,
-      "num": 259771,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -7817,6 +7841,14 @@
       "onboard_time": 1729225220,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224670,
+      "num": 224670,
+      "word": "新疆真实存在过的女儿国",
+      "onboard_time": 1729258522,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 224606,
@@ -8979,6 +9011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201841,
+      "num": 201841,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1729257740,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "郭晶晶43岁生日",
@@ -9249,6 +9289,14 @@
       "onboard_time": 1728747020,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198311,
+      "num": 309581,
+      "word": "朴彩英 阿帕特",
+      "onboard_time": 1729259841,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 198291,
@@ -9555,6 +9603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194176,
+      "num": 194176,
+      "word": "安徽一13岁孩子疑遭室友欺凌致死",
+      "onboard_time": 1729259241,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 194060,
       "num": 557615,
       "word": "东部战区演习现场画面",
@@ -9673,14 +9729,6 @@
       "onboard_time": 1729235061,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192437,
-      "num": 192437,
-      "word": "每5只帝王蟹就有4只来自吉林",
-      "onboard_time": 1729257740,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192377,
@@ -9833,6 +9881,14 @@
       "onboard_time": 1729082180,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191033,
+      "num": 191033,
+      "word": "多兰",
+      "onboard_time": 1729260741,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 190954,
@@ -10363,6 +10419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184113,
+      "num": 184113,
+      "word": "以方公布辛瓦尔被打死前影像",
+      "onboard_time": 1729261041,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 184067,
       "num": 185804,
       "word": "Tarzan莫甘娜打野",
@@ -10883,14 +10947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 174322,
-      "num": 174322,
-      "word": "新疆真实存在过的女儿国",
-      "onboard_time": 1729258522,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 174164,
       "num": 295894,
       "word": "现在就出发",
@@ -11163,14 +11219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169076,
-      "num": 169076,
-      "word": "董宇辉独立不到3个月带货超10亿元",
-      "onboard_time": 1729258340,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168980,
       "num": 317050,
       "word": "四川一落马干部曾把几口袋现金埋在地下",
@@ -11201,6 +11249,14 @@
       "onboard_time": 1729231760,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168701,
+      "num": 168701,
+      "word": "被害女幼师曾向凶手求饶",
+      "onboard_time": 1729261159,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168627,
@@ -11273,6 +11329,14 @@
       "onboard_time": 1729178661,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167807,
+      "num": 167807,
+      "word": "肖俊回复评论",
+      "onboard_time": 1729259902,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167785,
@@ -11753,6 +11817,14 @@
       "onboard_time": 1729125080,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159649,
+      "num": 159649,
+      "word": "刘亦菲章小蕙 玫瑰见到了玫瑰",
+      "onboard_time": 1729261100,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159646,
@@ -12625,6 +12697,14 @@
       "onboard_time": 1728821659,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145014,
+      "num": 145014,
+      "word": "阎鹤祥 郭麒麟是我的处境",
+      "onboard_time": 1729261222,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 144863,
@@ -13523,6 +13603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127104,
+      "num": 552991,
+      "word": "奔驰大G",
+      "onboard_time": 1729256659,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 126478,
       "num": 634007,
       "word": "再见爱人",
@@ -14371,6 +14459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104483,
+      "num": 494376,
+      "word": "哈马斯最新声明",
+      "onboard_time": 1729259659,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 104254,
       "num": 104254,
       "word": "S14瑞士轮第五轮抽签仪式",
@@ -14571,14 +14667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99358,
-      "num": 538161,
-      "word": "外国姑娘被上海豫园感动哭了",
-      "onboard_time": 1729258461,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99338,
       "num": 99338,
       "word": "我的宝藏家乡",
@@ -14641,6 +14729,14 @@
       "onboard_time": 1728804619,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96747,
+      "num": 561948,
+      "word": "全明星cos和平精英皮肤走红毯",
+      "onboard_time": 1729256722,
+      "rank": 10,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 96090,
@@ -16171,14 +16267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52326,
-      "num": 552991,
-      "word": "奔驰大G",
-      "onboard_time": 1729256659,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 52263,
       "num": 456384,
       "word": "女子被假警察骗27万真警察境外追回",
@@ -16819,6 +16907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42092,
+      "num": 396157,
+      "word": "汪东城和平精英神装走秀",
+      "onboard_time": 1729258281,
+      "rank": 37,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 42073,
       "num": 202156,
       "word": "四维图新",
@@ -16891,20 +16987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41209,
-      "num": 561948,
-      "word": "全明星cos和平精英皮肤走红毯",
-      "onboard_time": 1729256722,
-      "rank": 10,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 41123,
       "num": 55868,
       "word": "ITZY GOLD",
       "onboard_time": 1729013353,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41108,
+      "num": 415052,
+      "word": "发臭的肉是如何进入学生餐桌的",
+      "onboard_time": 1729260379,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41031,
@@ -16985,6 +17081,14 @@
       "onboard_time": 1729245799,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38697,
+      "num": 319753,
+      "word": "和平精英广场舞太抽象了",
+      "onboard_time": 1729260320,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 38639,
@@ -17787,14 +17891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28816,
-      "num": 194685,
-      "word": "汪东城和平精英神装走秀",
-      "onboard_time": 1729258281,
-      "rank": 37,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 28615,
       "num": 408587,
       "word": "市监局正督促东北雨姐红薯粉条退赔",
@@ -18032,6 +18128,14 @@
       "word": "古代的勺子上也有满满匠心",
       "onboard_time": 1729014014,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25705,
+      "num": 337084,
+      "word": "湖南一鱼塘数千斤鱼疑被人毒死",
+      "onboard_time": 1729260621,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -18959,6 +19063,14 @@
       "num": 718852,
       "word": "数说中国经济秋季报",
       "onboard_time": 1729239320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9462,
+      "num": 979911,
+      "word": "从先行指标看四季度经济走势",
+      "onboard_time": 1729256659,
       "rank": 2,
       "category": "社会新闻"
     },

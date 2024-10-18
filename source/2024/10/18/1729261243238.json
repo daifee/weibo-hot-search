@@ -1,0 +1,410 @@
+{
+  "runTime": 1729261243238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1933949,
+        "num": 1933949,
+        "word": "美国承认为打死辛瓦尔提供情报支持",
+        "onboard_time": 1729256361,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1005246,
+        "num": 1005246,
+        "word": "覃海洋男子100米蛙泳金牌",
+        "onboard_time": 1729252158,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9462,
+        "num": 979911,
+        "word": "从先行指标看四季度经济走势",
+        "onboard_time": 1729256659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960996,
+        "num": 960996,
+        "word": "黄圣依 杨子",
+        "onboard_time": 1729257524,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712755,
+        "num": 712755,
+        "word": "张雨霏回应50米自摘银",
+        "onboard_time": 1729255400,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612629,
+        "num": 612629,
+        "word": "卖孩子中介称孩子生母多为女大学生",
+        "onboard_time": 1729250778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535576,
+        "num": 535576,
+        "word": "外国姑娘被上海豫园感动哭了",
+        "onboard_time": 1729258461,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534978,
+        "num": 534978,
+        "word": "田曦薇cos绮梦青鸾",
+        "onboard_time": 1729251740,
+        "rank": 7,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 497263,
+        "num": 497263,
+        "word": "外国游客因着装问题被劝离故宫",
+        "onboard_time": 1729244242,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104483,
+        "num": 494376,
+        "word": "哈马斯最新声明",
+        "onboard_time": 1729259659,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 96747,
+        "num": 486307,
+        "word": "全明星cos和平精英皮肤走红毯",
+        "onboard_time": 1729256722,
+        "rank": 10,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 127104,
+        "num": 473565,
+        "word": "奔驰大G",
+        "onboard_time": 1729256659,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1132566,
+        "num": 460521,
+        "word": "内娱三大忍者",
+        "onboard_time": 1729253179,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458984,
+        "num": 458984,
+        "word": "员工嫖娼被抓公司解除劳动合同被告",
+        "onboard_time": 1729252341,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41108,
+        "num": 415052,
+        "word": "发臭的肉是如何进入学生餐桌的",
+        "onboard_time": 1729260379,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42092,
+        "num": 396157,
+        "word": "汪东城和平精英神装走秀",
+        "onboard_time": 1729258281,
+        "rank": 15,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 386666,
+        "num": 386666,
+        "word": "印媒找到中国男性更高的原因",
+        "onboard_time": 1729252879,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357269,
+        "num": 357269,
+        "word": "于祥宇 GAI",
+        "onboard_time": 1729244840,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337252,
+        "num": 337252,
+        "word": "骄阳似我 宋威龙赵今麦",
+        "onboard_time": 1729253841,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25705,
+        "num": 337084,
+        "word": "湖南一鱼塘数千斤鱼疑被人毒死",
+        "onboard_time": 1729260621,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624192,
+        "num": 335637,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567636,
+        "num": 335032,
+        "word": "黄圣依杨子回应当年微博藏头诗",
+        "onboard_time": 1729248443,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1228340,
+        "num": 333835,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346605,
+        "num": 332797,
+        "word": "杨幂刘诗诗在聊孩子",
+        "onboard_time": 1729246700,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317072,
+        "num": 332502,
+        "word": "张杰我是来揍你的贴脸开大",
+        "onboard_time": 1729259481,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331623,
+        "num": 331623,
+        "word": "泽连斯基向特朗普要核武器",
+        "onboard_time": 1729253960,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 279035,
+        "num": 331580,
+        "word": "虞书欣和平精英舞台",
+        "onboard_time": 1729254740,
+        "rank": 26,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 38697,
+        "num": 319753,
+        "word": "和平精英广场舞太抽象了",
+        "onboard_time": 1729260320,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198311,
+        "num": 309581,
+        "word": "朴彩英 阿帕特",
+        "onboard_time": 1729259841,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191147,
+        "num": 307811,
+        "word": "金鹰节开幕式",
+        "onboard_time": 1729252941,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300368,
+        "num": 300368,
+        "word": "金正恩对韩国发出强硬警告",
+        "onboard_time": 1729244660,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 291512,
+        "num": 291512,
+        "word": "董宇辉独立不到3个月带货超10亿元",
+        "onboard_time": 1729258340,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283819,
+        "num": 283819,
+        "word": "睡醒就喊老婆没钱立马拉黑",
+        "onboard_time": 1729257021,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269787,
+        "num": 269787,
+        "word": "汪顺100混打破亚洲纪录",
+        "onboard_time": 1729256121,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227308,
+        "num": 227308,
+        "word": "郭艾伦哭了",
+        "onboard_time": 1729253841,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224670,
+        "num": 224670,
+        "word": "新疆真实存在过的女儿国",
+        "onboard_time": 1729258522,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 218550,
+        "num": 218550,
+        "word": "她这么痛还稳稳地抱起孩子",
+        "onboard_time": 1729254980,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201841,
+        "num": 201841,
+        "word": "每5只帝王蟹就有4只来自吉林",
+        "onboard_time": 1729257740,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194176,
+        "num": 194176,
+        "word": "安徽一13岁孩子疑遭室友欺凌致死",
+        "onboard_time": 1729259241,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191033,
+        "num": 191033,
+        "word": "多兰",
+        "onboard_time": 1729260741,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184113,
+        "num": 184113,
+        "word": "以方公布辛瓦尔被打死前影像",
+        "onboard_time": 1729261041,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183490,
+        "num": 183490,
+        "word": "听泉鉴宝APP",
+        "onboard_time": 1729246219,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169711,
+        "num": 169711,
+        "word": "这还是沙溢吗",
+        "onboard_time": 1729237581,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168701,
+        "num": 168701,
+        "word": "被害女幼师曾向凶手求饶",
+        "onboard_time": 1729261159,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168129,
+        "num": 168129,
+        "word": "Jennie新歌歌词",
+        "onboard_time": 1729258762,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167807,
+        "num": 167807,
+        "word": "肖俊回复评论",
+        "onboard_time": 1729259902,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159649,
+        "num": 159649,
+        "word": "刘亦菲章小蕙 玫瑰见到了玫瑰",
+        "onboard_time": 1729261100,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151493,
+        "num": 151493,
+        "word": "向佐曾贴脸开大杨子",
+        "onboard_time": 1729256001,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145014,
+        "num": 145014,
+        "word": "阎鹤祥 郭麒麟是我的处境",
+        "onboard_time": 1729261222,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144253,
+        "num": 144253,
+        "word": "全明星cos和平精英皮肤走秀",
+        "onboard_time": 1729253779,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#高新技术是讨不来要不来的#"
+    }
+  }
+}
