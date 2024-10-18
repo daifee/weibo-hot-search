@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729291149285,
+  "endTime": 1729293678613,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658801,
+      "num": 799852,
+      "word": "68岁大爷拍网剧最多日入五六百元",
+      "onboard_time": 1729291333,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594739,
       "num": 594739,
       "word": "以方公布辛瓦尔被打死前影像",
@@ -67,6 +75,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 573344,
+      "num": 201929,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546131,
       "num": 369903,
       "word": "内娱三大忍者",
@@ -81,6 +97,14 @@
       "onboard_time": 1729263920,
       "rank": 5,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 497107,
+      "num": 497107,
+      "word": "女儿患红斑狼疮单亲爸爸一夜白头",
+      "onboard_time": 1729292654,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491451,
@@ -147,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350484,
+      "num": 350484,
+      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+      "onboard_time": 1729276393,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 350037,
+      "num": 185976,
+      "word": "杨子 NPD",
+      "onboard_time": 1729272496,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324983,
       "num": 324983,
       "word": "小S再次错失金钟奖",
@@ -161,14 +201,6 @@
       "onboard_time": 1729248443,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308085,
-      "num": 77179,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278184,
@@ -211,14 +243,6 @@
       "category": "作品衍生,电竞"
     },
     {
-      "raw_hot": 207839,
-      "num": 110821,
-      "word": "杨子 NPD",
-      "onboard_time": 1729272496,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206874,
       "num": 206874,
       "word": "TES",
@@ -259,19 +283,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183075,
-      "num": 183075,
-      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
-      "onboard_time": 1729276393,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 178934,
       "num": 361642,
       "word": "这种装扮游故宫到底是谁不尊重谁",
       "onboard_time": 1729269317,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176386,
+      "num": 176386,
+      "word": "千万奖金被冒领后男子维权了5年",
+      "onboard_time": 1729272915,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -281,14 +305,6 @@
       "onboard_time": 1729261580,
       "rank": 29,
       "category": "演出,电竞"
-    },
-    {
-      "raw_hot": 165020,
-      "num": 165020,
-      "word": "千万奖金被冒领后男子维权了5年",
-      "onboard_time": 1729272915,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159882,
@@ -345,6 +361,14 @@
       "onboard_time": 1729252341,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135670,
+      "num": 135670,
+      "word": "刘学义 怎么老往不干净的地方打",
+      "onboard_time": 1729283590,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 132965,
@@ -419,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113919,
-      "num": 75475,
-      "word": "刘学义 怎么老往不干净的地方打",
-      "onboard_time": 1729283590,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111414,
       "num": 111414,
       "word": "金正恩对韩国发出强硬警告",
@@ -467,12 +483,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86653,
+      "num": 86653,
+      "word": "女幼师被害案受害人家属爆发冲突",
+      "onboard_time": 1729292535,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85305,
       "num": 93940,
       "word": "樊振东再现巴黎奥运会逆转现场",
       "onboard_time": 1729261640,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82128,
+      "num": 82128,
+      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+      "onboard_time": 1729289121,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74890,
+      "num": 74890,
+      "word": "新疆真实存在过的女儿国",
+      "onboard_time": 1729258522,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 72509,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62465,
+      "num": 62465,
+      "word": "临沂妇幼保健院院长回应中介卖孩子",
+      "onboard_time": 1729292595,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57475,
       "num": 57475,
       "word": "去世5年的百岁教授捐款又到账了",
@@ -515,20 +563,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48569,
-      "num": 69033,
-      "word": "新疆真实存在过的女儿国",
-      "onboard_time": 1729258522,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 50493,
+      "num": 50493,
+      "word": "追光的你",
+      "onboard_time": 1729281132,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 36528,
-      "num": 36528,
+      "raw_hot": 50368,
+      "num": 50368,
+      "word": "会画画的和不会画画的都沉默了",
+      "onboard_time": 1729282572,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 46049,
+      "num": 47889,
       "word": "伊朗称辛瓦尔之死将强化抵抗精神",
       "onboard_time": 1729286291,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 37633,
+      "num": 215808,
+      "word": "95岁老人向儿子隔空点单可乐走红",
+      "onboard_time": 1729292535,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33983,
@@ -555,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28851,
-      "num": 29873,
-      "word": "追光的你",
-      "onboard_time": 1729281132,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28670,
       "num": 29868,
       "word": "毕业生被贴疫情班标签求职遭拒",
@@ -577,14 +633,6 @@
       "onboard_time": 1729275372,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27572,
-      "num": 29885,
-      "word": "会画画的和不会画画的都沉默了",
-      "onboard_time": 1729282572,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 27291,
@@ -617,14 +665,6 @@
       "onboard_time": 1729277712,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18067,
-      "num": 77641,
-      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
-      "onboard_time": 1729289121,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11549,

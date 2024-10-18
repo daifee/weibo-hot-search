@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729291149285,
+  "endTime": 1729293678613,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -3123,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658801,
+      "num": 799852,
+      "word": "68岁大爷拍网剧最多日入五六百元",
+      "onboard_time": 1729291333,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656159,
       "num": 656159,
       "word": "金正恩对韩国发出强硬警告",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1729075460,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 573344,
+      "num": 283819,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571451,
@@ -4209,6 +4225,14 @@
       "onboard_time": 1729210341,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 497107,
+      "num": 497107,
+      "word": "女儿患红斑狼疮单亲爸爸一夜白头",
+      "onboard_time": 1729292654,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496903,
@@ -5515,12 +5539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350484,
+      "num": 350484,
+      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+      "onboard_time": 1729276393,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 350444,
       "num": 350444,
       "word": "老外在中国治好了数学焦虑",
       "onboard_time": 1729009337,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350037,
+      "num": 185976,
+      "word": "杨子 NPD",
+      "onboard_time": 1729272496,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 349584,
@@ -6041,14 +6081,6 @@
       "onboard_time": 1729168581,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 308085,
-      "num": 283819,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308033,
@@ -8739,14 +8771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207839,
-      "num": 110821,
-      "word": "杨子 NPD",
-      "onboard_time": 1729272496,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207764,
       "num": 367978,
       "word": "吴谨言发疯版鞭子舞",
@@ -10715,14 +10739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 183075,
-      "num": 183075,
-      "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
-      "onboard_time": 1729276393,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 182989,
       "num": 182989,
       "word": "萨巴伦卡说郑钦文跟之前比确实有进步",
@@ -11057,6 +11073,14 @@
       "onboard_time": 1728876559,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176386,
+      "num": 176386,
+      "word": "千万奖金被冒领后男子维权了5年",
+      "onboard_time": 1729272915,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176353,
@@ -11753,14 +11777,6 @@
       "onboard_time": 1729053802,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165020,
-      "num": 165020,
-      "word": "千万奖金被冒领后男子维权了5年",
-      "onboard_time": 1729272915,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164781,
@@ -13563,6 +13579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135670,
+      "num": 135670,
+      "word": "刘学义 怎么老往不干净的地方打",
+      "onboard_time": 1729283590,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135227,
       "num": 135227,
       "word": "赵牧辰阮小咪动物园约会",
@@ -14433,14 +14457,6 @@
       "onboard_time": 1729129759,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113919,
-      "num": 75475,
-      "word": "刘学义 怎么老往不干净的地方打",
-      "onboard_time": 1729283590,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 113876,
@@ -15419,6 +15435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86653,
+      "num": 86653,
+      "word": "女幼师被害案受害人家属爆发冲突",
+      "onboard_time": 1729292535,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86198,
       "num": 247325,
       "word": "刘学义 荆北著名疯璟",
@@ -15569,6 +15593,14 @@
       "onboard_time": 1728968661,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82128,
+      "num": 82128,
+      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+      "onboard_time": 1729289121,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82039,
@@ -16179,6 +16211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62465,
+      "num": 62465,
+      "word": "临沂妇幼保健院院长回应中介卖孩子",
+      "onboard_time": 1729292595,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "郑钦文身体欠佳已尽全力",
@@ -16763,6 +16803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50493,
+      "num": 50493,
+      "word": "追光的你",
+      "onboard_time": 1729281132,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50474,
       "num": 243473,
       "word": "vivoX200Promini",
@@ -16777,6 +16825,14 @@
       "onboard_time": 1728893478,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50368,
+      "num": 50368,
+      "word": "会画画的和不会画画的都沉默了",
+      "onboard_time": 1729282572,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 50361,
@@ -17049,6 +17105,14 @@
       "onboard_time": 1729261580,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46049,
+      "num": 47889,
+      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
+      "onboard_time": 1729286291,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 45982,
@@ -17547,6 +17611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37633,
+      "num": 215808,
+      "word": "95岁老人向儿子隔空点单可乐走红",
+      "onboard_time": 1729292535,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37563,
       "num": 313555,
       "word": "企业虚标大米保质期卖学校被罚超690万",
@@ -17617,14 +17689,6 @@
       "onboard_time": 1729260621,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36528,
-      "num": 36528,
-      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
-      "onboard_time": 1729286291,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 35977,
@@ -18291,14 +18355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28851,
-      "num": 29873,
-      "word": "追光的你",
-      "onboard_time": 1729281132,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28670,
       "num": 29868,
       "word": "毕业生被贴疫情班标签求职遭拒",
@@ -18401,14 +18457,6 @@
       "onboard_time": 1728973279,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 27572,
-      "num": 29885,
-      "word": "会画画的和不会画画的都沉默了",
-      "onboard_time": 1729282572,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 27558,
@@ -19113,14 +19161,6 @@
       "onboard_time": 1728934450,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18067,
-      "num": 77641,
-      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
-      "onboard_time": 1729289121,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18009,
