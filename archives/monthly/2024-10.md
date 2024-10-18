@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 22:39:41
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 23:23:53
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ ZH9138航班已安全落地（热度：1980352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B3%E5%A5%B3%E5%B9%BC%E5%B8%88%E6%9B%BE%E5%90%91%E5%87%B6%E6%89%8B%E6%B1%82%E9%A5%B6%23" target="weibo">
+被害女幼师曾向凶手求饶（热度：1868249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%88%A9%E6%9D%A5%E4%BA%8C%E5%85%AC%E5%AD%90%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%23" target="weibo">
 好利来二公子逐梦演艺圈（热度：1864900）
 </a>
@@ -1373,6 +1379,12 @@ TES战胜T1（热度：1515921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%BF%9B%E8%A1%8C%E8%81%94%E5%90%88%E5%88%A9%E5%89%912024B%E6%BC%94%E4%B9%A0%23" target="weibo">
 为什么要进行联合利剑2024B演习（热度：1495573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F50%E7%A7%92%E4%BB%8E%E5%AE%9D%E5%AE%9D%E8%80%B3%E6%9C%B5%E9%87%8C%E6%8E%8F%E5%87%BA%E4%B8%80%E9%A2%97%E9%BB%84%E9%92%BB%23" target="weibo">
+医生50秒从宝宝耳朵里掏出一颗黄钻（热度：1494713）
 </a>
 </li>
 
@@ -4869,6 +4881,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%A7%90%E7%A7%B0%E5%92%8C%E4%B9%98%E5%8A%A1%E9%95%BF%E5%9C%A8%E5%A4%A7%E5%B7%B4%E4%B8%8A%E4%BA%92%E6%AE%B4%23" target="weibo">
+东航空姐称和乘务长在大巴上互殴（热度：745591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%AC%E7%95%BF%E9%81%93%E7%A6%81%E6%AD%A2%E5%B8%82%E6%B0%91%E5%9C%A8%E8%BE%B9%E7%95%8C%E6%94%BE%E9%A3%9E%E6%B0%94%E7%90%83%23" target="weibo">
 韩国京畿道禁止市民在边界放飞气球（热度：745347）
 </a>
@@ -5087,6 +5105,12 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A5%B3%E9%AA%91%E5%A3%AB%E7%9F%B3%E8%86%8F%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
 网红女骑士石膏发生车祸身亡（热度：725509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%AB%A0%E5%B0%8F%E8%95%99%20%E7%8E%AB%E7%91%B0%E8%A7%81%E5%88%B0%E4%BA%86%E7%8E%AB%E7%91%B0%23" target="weibo">
+刘亦菲章小蕙 玫瑰见到了玫瑰（热度：725188）
 </a>
 </li>
 
@@ -5895,6 +5919,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E5%85%AC%E5%B8%83%E8%BE%9B%E7%93%A6%E5%B0%94%E8%A2%AB%E6%89%93%E6%AD%BB%E5%89%8D%E5%BD%B1%E5%83%8F%23" target="weibo">
+以方公布辛瓦尔被打死前影像（热度：646023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E5%90%B8%E8%A1%80%E9%AC%BC%E5%A5%B3%E7%8E%8B%23" target="weibo">
 娜扎 吸血鬼女王（热度：644517）
 </a>
@@ -5981,36 +6011,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B7%B2%E7%BB%8F%E5%A4%B1%E5%8E%BB%E6%B4%BB%E4%BA%BA%E6%84%9F%E4%BA%86%23" target="weibo">
 朋友圈已经失去活人感了（热度：638674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E8%B0%88%E7%BB%99%E5%A6%88%E5%A6%88%E6%8D%A2%E8%82%BE%23" target="weibo">
-刘学义谈给妈妈换肾（热度：638140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%A1%94%E5%B8%8C%E5%B0%94%23" target="weibo">
-王楚钦vs塔希尔（热度：637848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E4%BA%9A%E9%94%A6%E8%B5%9B%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
-国乒男团亚锦赛晋级决赛（热度：637842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AF%94%E8%B5%9B%E6%97%B6%E4%B8%80%E7%9B%B4%E6%8D%8F%E6%89%8B%E8%87%82%23" target="weibo">
-孙颖莎比赛时一直捏手臂（热度：636830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%B7%B2%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%23" target="weibo">
-叙利亚已申请加入金砖国家（热度：636345）
 </a>
 </li>
 

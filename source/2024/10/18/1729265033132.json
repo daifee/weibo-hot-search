@@ -1,0 +1,410 @@
+{
+  "runTime": 1729265033132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095733,
+        "num": 1175317,
+        "word": "美国承认为打死辛瓦尔提供情报支持",
+        "onboard_time": 1729256361,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 741406,
+        "num": 741406,
+        "word": "覃海洋男子100米蛙泳金牌",
+        "onboard_time": 1729252158,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17400,
+        "num": 726676,
+        "word": "从先行指标看四季度经济走势",
+        "onboard_time": 1729256659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725188,
+        "num": 725188,
+        "word": "刘亦菲章小蕙 玫瑰见到了玫瑰",
+        "onboard_time": 1729261100,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 698902,
+        "num": 698902,
+        "word": "黄圣依 杨子",
+        "onboard_time": 1729257524,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646023,
+        "num": 646023,
+        "word": "以方公布辛瓦尔被打死前影像",
+        "onboard_time": 1729261041,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 539734,
+        "num": 539734,
+        "word": "哈马斯最新声明",
+        "onboard_time": 1729259659,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 442963,
+        "num": 442963,
+        "word": "宋茜舞台",
+        "onboard_time": 1729261580,
+        "rank": 7,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 408686,
+        "num": 408686,
+        "word": "田曦薇cos绮梦青鸾",
+        "onboard_time": 1729251740,
+        "rank": 8,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 81278,
+        "num": 408416,
+        "word": "第八届中国非遗博览会在济南开幕",
+        "onboard_time": 1729264161,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1868249,
+        "num": 402537,
+        "word": "被害女幼师曾向凶手求饶",
+        "onboard_time": 1729261159,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1494713,
+        "num": 394813,
+        "word": "医生50秒从宝宝耳朵里掏出一颗黄钻",
+        "onboard_time": 1729262661,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757345,
+        "num": 391807,
+        "word": "内娱三大忍者",
+        "onboard_time": 1729253179,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 745591,
+        "num": 386167,
+        "word": "东航空姐称和乘务长在大巴上互殴",
+        "onboard_time": 1729262842,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383404,
+        "num": 383404,
+        "word": "外国游客因着装问题被劝离故宫",
+        "onboard_time": 1729244242,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382887,
+        "num": 382887,
+        "word": "听泉赏宝",
+        "onboard_time": 1729262421,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378568,
+        "num": 378568,
+        "word": "中国最早叫中国的城市",
+        "onboard_time": 1729263082,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350238,
+        "num": 350238,
+        "word": "宋茜虞书欣田曦薇红毯生图",
+        "onboard_time": 1729263920,
+        "rank": 17,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 326817,
+        "num": 326817,
+        "word": "卖孩子中介称孩子生母多为女大学生",
+        "onboard_time": 1729250778,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273832,
+        "num": 273832,
+        "word": "张杰我是来揍你的贴脸开大",
+        "onboard_time": 1729259481,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1022487,
+        "num": 270043,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464653,
+        "num": 266776,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462237,
+        "num": 261633,
+        "word": "黄圣依杨子回应当年微博藏头诗",
+        "onboard_time": 1729248443,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372740,
+        "num": 260815,
+        "word": "35岁小伙筋膜枪按摩颈部诱发脑梗死",
+        "onboard_time": 1729263861,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257437,
+        "num": 257437,
+        "word": "员工嫖娼被抓公司解除劳动合同被告",
+        "onboard_time": 1729252341,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262493,
+        "num": 251196,
+        "word": "于祥宇 GAI",
+        "onboard_time": 1729244840,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55127,
+        "num": 240987,
+        "word": "和平精英广场舞太抽象了",
+        "onboard_time": 1729260320,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237880,
+        "num": 237880,
+        "word": "外国姑娘被上海豫园感动哭了",
+        "onboard_time": 1729258461,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229651,
+        "num": 229651,
+        "word": "阎鹤祥 郭麒麟是我的处境",
+        "onboard_time": 1729261222,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224445,
+        "num": 224445,
+        "word": "骄阳似我 宋威龙赵今麦",
+        "onboard_time": 1729253841,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219340,
+        "num": 219340,
+        "word": "杨幂刘诗诗在聊孩子",
+        "onboard_time": 1729246700,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219171,
+        "num": 219171,
+        "word": "金正恩对韩国发出强硬警告",
+        "onboard_time": 1729244660,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199403,
+        "num": 199403,
+        "word": "王鹤棣弄丢的小狗包找到了",
+        "onboard_time": 1729262361,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199102,
+        "num": 199102,
+        "word": "左手秀麻了",
+        "onboard_time": 1729264520,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191322,
+        "num": 191322,
+        "word": "虞书欣和平精英舞台",
+        "onboard_time": 1729254740,
+        "rank": 34,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 188265,
+        "num": 188265,
+        "word": "董宇辉独立不到3个月带货超10亿元",
+        "onboard_time": 1729258340,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188080,
+        "num": 188080,
+        "word": "新疆真实存在过的女儿国",
+        "onboard_time": 1729258522,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 186374,
+        "num": 186374,
+        "word": "Moncler活动",
+        "onboard_time": 1729264520,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186263,
+        "num": 186263,
+        "word": "金钟奖",
+        "onboard_time": 1729263321,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186089,
+        "num": 186089,
+        "word": "安徽一13岁孩子疑遭室友欺凌致死",
+        "onboard_time": 1729259241,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181573,
+        "num": 181573,
+        "word": "脱口秀",
+        "onboard_time": 1729262901,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181195,
+        "num": 181195,
+        "word": "樊振东再现巴黎奥运会逆转现场",
+        "onboard_time": 1729261640,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174735,
+        "num": 174735,
+        "word": "狐狸的作用",
+        "onboard_time": 1729264341,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173460,
+        "num": 173460,
+        "word": "李现直播状态",
+        "onboard_time": 1729264820,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165719,
+        "num": 165719,
+        "word": "韩华生命",
+        "onboard_time": 1729263741,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163915,
+        "num": 163915,
+        "word": "HLE对战BLG",
+        "onboard_time": 1729253421,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159746,
+        "num": 159746,
+        "word": "胡明轩40分",
+        "onboard_time": 1729262240,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152119,
+        "num": 152119,
+        "word": "睡醒就喊老婆没钱立马拉黑",
+        "onboard_time": 1729257021,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149401,
+        "num": 149401,
+        "word": "朴彩英 阿帕特",
+        "onboard_time": 1729259841,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149270,
+        "num": 149270,
+        "word": "小S再次错失金钟奖",
+        "onboard_time": 1729264999,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#高新技术是讨不来要不来的#"
+    }
+  }
+}
