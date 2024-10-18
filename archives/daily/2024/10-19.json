@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729283840219,
+  "endTime": 1729286494622,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -403,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113653,
+      "num": 61426,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111414,
       "num": 111414,
       "word": "金正恩对韩国发出强硬警告",
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61426,
-      "num": 61426,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57475,
       "num": 57475,
       "word": "去世5年的百岁教授捐款又到账了",
@@ -515,6 +515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 38369,
+      "num": 29174,
+      "word": "刘学义 怎么老往不干净的地方打",
+      "onboard_time": 1729283590,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33983,
       "num": 124164,
       "word": "外交部谈西田敏行去世",
@@ -528,6 +536,14 @@
       "word": "放开手脚创新创造",
       "onboard_time": 1729270517,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28670,
+      "num": 28670,
+      "word": "毕业生被贴疫情班标签求职遭拒",
+      "onboard_time": 1729282931,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -571,23 +587,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15442,
-      "num": 28075,
-      "word": "追光的你",
-      "onboard_time": 1729281132,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15298,
-      "num": 18831,
-      "word": "刘学义 怎么老往不干净的地方打",
-      "onboard_time": 1729283590,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15096,
+      "raw_hot": 18816,
       "num": 18829,
       "word": "会画画的和不会画画的都沉默了",
       "onboard_time": 1729282572,
@@ -595,11 +595,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11829,
-      "num": 28502,
-      "word": "毕业生被贴疫情班标签求职遭拒",
-      "onboard_time": 1729282931,
-      "rank": 29,
+      "raw_hot": 16556,
+      "num": 28075,
+      "word": "追光的你",
+      "onboard_time": 1729281132,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14510,
+      "num": 27743,
+      "word": "北航原副校长张广受贿2120万余元",
+      "onboard_time": 1729284431,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -609,6 +617,14 @@
       "onboard_time": 1729280771,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10708,
+      "num": 29352,
+      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
+      "onboard_time": 1729286291,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 9332,
