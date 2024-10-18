@@ -1,0 +1,410 @@
+{
+  "runTime": 1729243462502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1980352,
+        "num": 1980352,
+        "word": "ZH9138航班已安全落地",
+        "onboard_time": 1729238781,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969341,
+        "num": 969341,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49126,
+        "num": 763038,
+        "word": "三季度免签入境外国人同比上升78.6%",
+        "onboard_time": 1729239920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629632,
+        "num": 629632,
+        "word": "VOGUE晚宴主桌",
+        "onboard_time": 1729240040,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 564085,
+        "num": 564085,
+        "word": "外交部回应辛瓦尔被打死",
+        "onboard_time": 1729238060,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946647,
+        "num": 539170,
+        "word": "中介自称今年已卖出20多个孩子",
+        "onboard_time": 1729236141,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501650,
+        "num": 501650,
+        "word": "许昕背后击球",
+        "onboard_time": 1729240880,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439133,
+        "num": 439133,
+        "word": "深圳航空",
+        "onboard_time": 1729239199,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332727,
+        "num": 332727,
+        "word": "我的26岁女房客拍电视剧了",
+        "onboard_time": 1729233860,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89435,
+        "num": 332699,
+        "word": "战士对陈祥榕母亲说我们都是您儿子",
+        "onboard_time": 1729234281,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883085,
+        "num": 314730,
+        "word": "这还是沙溢吗",
+        "onboard_time": 1729237581,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669189,
+        "num": 305465,
+        "word": "杨子承认曾和黄圣依彻底分开",
+        "onboard_time": 1729240819,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584674,
+        "num": 293589,
+        "word": "曝男明星走VOGUE红毯耍大牌",
+        "onboard_time": 1729236862,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293559,
+        "num": 293559,
+        "word": "被中国制裁的美国公司去坑美国军方了",
+        "onboard_time": 1729232061,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23545,
+        "num": 286677,
+        "word": "外卖小哥加价代购管制药品被判贩毒",
+        "onboard_time": 1729242501,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581922,
+        "num": 286202,
+        "word": "女幼师出租屋遇害案被告人获死刑",
+        "onboard_time": 1729235962,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284119,
+        "num": 284119,
+        "word": "樊振东VS程靖淇",
+        "onboard_time": 1729241120,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444305,
+        "num": 283993,
+        "word": "周杰伦 假冒我妈太扯了",
+        "onboard_time": 1729230979,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119964,
+        "num": 283874,
+        "word": "领养小猫却要分期17个月买猫粮",
+        "onboard_time": 1729241659,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67185,
+        "num": 283764,
+        "word": "小鹿 妈妈爸爸的组合好像凤凰传奇",
+        "onboard_time": 1729242920,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101788,
+        "num": 283604,
+        "word": "成年后最害怕突然接到妈妈的电话",
+        "onboard_time": 1729241542,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977299,
+        "num": 283475,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443679,
+        "num": 283269,
+        "word": "表姐为了猫扇了亲戚小孩一巴掌",
+        "onboard_time": 1729240520,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283238,
+        "num": 283238,
+        "word": "25个微do等于几个伍佰",
+        "onboard_time": 1729236681,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269501,
+        "num": 269501,
+        "word": "故宫最新回应",
+        "onboard_time": 1729240220,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253711,
+        "num": 253711,
+        "word": "40岁女性在杭州的真实现状",
+        "onboard_time": 1729238241,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234095,
+        "num": 234095,
+        "word": "原来真正的失望是不想多说一句话",
+        "onboard_time": 1729242200,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192985,
+        "num": 224945,
+        "word": "黄圣依指责杨子不管小孩",
+        "onboard_time": 1729235001,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36844,
+        "num": 221725,
+        "word": "英子教练我要开这个",
+        "onboard_time": 1729241659,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165450,
+        "num": 220742,
+        "word": "朴彩英空降成绩",
+        "onboard_time": 1729239561,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220501,
+        "num": 220501,
+        "word": "沙溢肌肉",
+        "onboard_time": 1729236141,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217941,
+        "num": 217941,
+        "word": "覃海洋成功晋级后挥手竖大拇指",
+        "onboard_time": 1729222038,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197666,
+        "num": 197666,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189312,
+        "num": 189312,
+        "word": "千万奖金被冒领后赢了官司没要回钱",
+        "onboard_time": 1729238659,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162674,
+        "num": 162674,
+        "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+        "onboard_time": 1729227561,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151019,
+        "num": 151019,
+        "word": "逆水寒手游",
+        "onboard_time": 1729241000,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148658,
+        "num": 148658,
+        "word": "许昕vs程靖淇",
+        "onboard_time": 1729242080,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143997,
+        "num": 143997,
+        "word": "医学生发大体老师头骨合影引不满",
+        "onboard_time": 1729221920,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 143068,
+        "word": "何浩楠赵一博更新封面",
+        "onboard_time": 1729235361,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134675,
+        "num": 134675,
+        "word": "高度近视一年最好查一次眼底",
+        "onboard_time": 1729234460,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133341,
+        "num": 133341,
+        "word": "桃花坞第五季",
+        "onboard_time": 1729243218,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132371,
+        "num": 132371,
+        "word": "油炸方便面",
+        "onboard_time": 1729239861,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131860,
+        "num": 131860,
+        "word": "许昕周恺3比0曾蓓勋陈俊菘",
+        "onboard_time": 1729242860,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131652,
+        "num": 131652,
+        "word": "阎鹤祥脱口秀",
+        "onboard_time": 1729241061,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17503,
+        "num": 131075,
+        "word": "张雪峰教育女儿的方式",
+        "onboard_time": 1729243100,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76151,
+        "num": 131066,
+        "word": "因纠纷诬陷举报同事是间谍",
+        "onboard_time": 1729233981,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127769,
+        "num": 131064,
+        "word": "第五人格",
+        "onboard_time": 1729242080,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131062,
+        "num": 131062,
+        "word": "A股近270股涨超11%",
+        "onboard_time": 1729236201,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130263,
+        "num": 130263,
+        "word": "王曼昱因伤退出冠军赛",
+        "onboard_time": 1729232780,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129200,
+        "num": 129200,
+        "word": "珠帘玉幕",
+        "onboard_time": 1729229901,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在安徽考察调研#"
+    }
+  }
+}
