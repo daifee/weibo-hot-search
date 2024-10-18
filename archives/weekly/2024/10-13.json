@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729268870867,
+  "endTime": 1729269844291,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -4907,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415010,
+      "num": 415010,
+      "word": "elk",
+      "onboard_time": 1729268180,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 414718,
       "num": 313515,
       "word": "肖战工作室出图",
@@ -7667,14 +7675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233546,
-      "num": 233546,
-      "word": "elk",
-      "onboard_time": 1729268180,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 233311,
       "num": 353648,
       "word": "此沙掏耳朵",
@@ -9265,6 +9265,14 @@
       "onboard_time": 1729174703,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200803,
+      "num": 200803,
+      "word": "ON说Bin抽象",
+      "onboard_time": 1729269017,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 200777,
@@ -13523,6 +13531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134301,
+      "num": 134301,
+      "word": "Bin",
+      "onboard_time": 1729269677,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134076,
       "num": 134076,
       "word": "鉴宝主播需要为鉴定结果负责吗",
@@ -16433,6 +16449,14 @@
       "onboard_time": 1729260320,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54558,
+      "num": 361642,
+      "word": "这种装扮游故宫到底是谁不尊重谁",
+      "onboard_time": 1729269317,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54483,

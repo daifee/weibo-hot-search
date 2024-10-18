@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729268870867,
+  "endTime": 1729269844291,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415010,
+      "num": 415010,
+      "word": "elk",
+      "onboard_time": 1729268180,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 389540,
       "num": 389540,
       "word": "韩华生命",
@@ -171,14 +179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233546,
-      "num": 233546,
-      "word": "elk",
-      "onboard_time": 1729268180,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 232784,
       "num": 232784,
       "word": "于祥宇 GAI",
@@ -216,6 +216,14 @@
       "word": "BigWei",
       "onboard_time": 1729267820,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200803,
+      "num": 200803,
+      "word": "ON说Bin抽象",
+      "onboard_time": 1729269017,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1729252341,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134301,
+      "num": 134301,
+      "word": "Bin",
+      "onboard_time": 1729269677,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 132965,
@@ -379,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88533,
+      "num": 88533,
+      "word": "第八届中国非遗博览会在济南开幕",
+      "onboard_time": 1729264161,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85305,
       "num": 93940,
       "word": "樊振东再现巴黎奥运会逆转现场",
       "onboard_time": 1729261640,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54558,
+      "num": 361642,
+      "word": "这种装扮游故宫到底是谁不尊重谁",
+      "onboard_time": 1729269317,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50472,
