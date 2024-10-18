@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729286494622,
+  "endTime": 1729287339814,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -347,6 +347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129660,
+      "num": 61426,
+      "word": "睡醒就喊老婆没钱立马拉黑",
+      "onboard_time": 1729257021,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125681,
       "num": 125681,
       "word": "脱口秀",
@@ -401,14 +409,6 @@
       "onboard_time": 1729258823,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113653,
-      "num": 61426,
-      "word": "睡醒就喊老婆没钱立马拉黑",
-      "onboard_time": 1729257021,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111414,
@@ -515,8 +515,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 38369,
-      "num": 29174,
+      "raw_hot": 43107,
+      "num": 32645,
       "word": "刘学义 怎么老往不干净的地方打",
       "onboard_time": 1729283590,
       "rank": 46,
@@ -571,6 +571,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 24247,
+      "num": 28075,
+      "word": "追光的你",
+      "onboard_time": 1729281132,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23689,
+      "num": 27743,
+      "word": "北航原副校长张广受贿2120万余元",
+      "onboard_time": 1729284431,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22960,
       "num": 25764,
       "word": "珠帘玉幕商海纵横版海报",
@@ -587,28 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18816,
-      "num": 18829,
+      "raw_hot": 19952,
+      "num": 19952,
       "word": "会画画的和不会画画的都沉默了",
       "onboard_time": 1729282572,
       "rank": 49,
       "category": "幽默"
     },
     {
-      "raw_hot": 16556,
-      "num": 28075,
-      "word": "追光的你",
-      "onboard_time": 1729281132,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14510,
-      "num": 27743,
-      "word": "北航原副校长张广受贿2120万余元",
-      "onboard_time": 1729284431,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 16621,
+      "num": 34048,
+      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
+      "onboard_time": 1729286291,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 11549,
@@ -617,14 +625,6 @@
       "onboard_time": 1729280771,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10708,
-      "num": 29352,
-      "word": "伊朗称辛瓦尔之死将强化抵抗精神",
-      "onboard_time": 1729286291,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 9332,
