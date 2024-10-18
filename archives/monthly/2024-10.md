@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 07:21:18
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 07:35:22
 </p>
 </blockquote>
 <p>
@@ -3471,6 +3471,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%82%A3%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%8D%95%E4%BA%B2%E7%88%B8%E7%88%B8%E4%B8%80%E5%A4%9C%E7%99%BD%E5%A4%B4%23" target="weibo">
+女儿患红斑狼疮单亲爸爸一夜白头（热度：923179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%A7%E5%85%89%E6%AF%8D%E4%BA%B2%E6%9B%BE%E7%AB%8B%E5%AE%B6%E8%A7%84%E5%90%8E%E4%BB%A3%E9%83%BD%E8%A6%81%E5%8F%82%E5%86%9B%23" target="weibo">
 黄继光母亲曾立家规后代都要参军（热度：921476）
 </a>
@@ -6005,12 +6011,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%82%A1%E7%AA%81%E5%8F%98%23" target="weibo">
 港股突变（热度：639876）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%A5%A5%E6%A6%95%E6%AF%8D%E4%BA%B2%E4%B8%BA%E9%97%AE%E5%8B%87%E8%B7%AF%E6%8F%AD%E7%89%8C%23" target="weibo">
-陈祥榕母亲为问勇路揭牌（热度：639647）
 </a>
 </li>
 
