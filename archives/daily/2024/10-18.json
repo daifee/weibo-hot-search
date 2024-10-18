@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729244298214,
+  "endTime": 1729247086387,
   "band_list": [
     {
       "raw_hot": 3020148,
@@ -73,6 +73,22 @@
       "onboard_time": 1729221920,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493582,
+      "num": 1493582,
+      "word": "外国游客因着装问题被劝离故宫",
+      "onboard_time": 1729244242,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1425976,
+      "num": 1035465,
+      "word": "杨子承认曾和黄圣依彻底分开",
+      "onboard_time": 1729240819,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1351751,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1035465,
-      "num": 1035465,
-      "word": "杨子承认曾和黄圣依彻底分开",
-      "onboard_time": 1729240819,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1032511,
       "num": 1032511,
       "word": "王嘉尔何猷君奚梦瑶坐地上聊天",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 883085,
-      "num": 411637,
+      "num": 457609,
       "word": "这还是沙溢吗",
       "onboard_time": 1729237581,
       "rank": 21,
@@ -347,6 +355,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 625254,
+      "num": 625254,
+      "word": "韩方称朝鲜派12000人援俄",
+      "onboard_time": 1729243521,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 621268,
+      "num": 621268,
+      "word": "于祥宇 GAI",
+      "onboard_time": 1729244840,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618058,
       "num": 579565,
       "word": "京东金融辟谣网传挤兑",
@@ -361,6 +385,14 @@
       "onboard_time": 1729213160,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589378,
+      "num": 589378,
+      "word": "樊振东3比2程靖淇",
+      "onboard_time": 1729243641,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 585761,
@@ -401,6 +433,14 @@
       "onboard_time": 1729222400,
       "rank": 24,
       "category": "教育,网红"
+    },
+    {
+      "raw_hot": 569399,
+      "num": 506820,
+      "word": "原来真正的失望是不想多说一句话",
+      "onboard_time": 1729242200,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 565681,
@@ -515,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484220,
+      "num": 484220,
+      "word": "听泉鉴宝APP上线",
+      "onboard_time": 1729246219,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480143,
       "num": 480143,
       "word": "前三季度GDP同比增长4.8%",
@@ -540,7 +588,7 @@
     },
     {
       "raw_hot": 459113,
-      "num": 300725,
+      "num": 341696,
       "word": "表姐为了猫扇了亲戚小孩一巴掌",
       "onboard_time": 1729240520,
       "rank": 26,
@@ -667,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357576,
+      "num": 357576,
+      "word": "金正恩对韩国发出强硬警告",
+      "onboard_time": 1729244660,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 349117,
       "num": 349117,
       "word": "周也裙子变装",
@@ -715,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327266,
-      "num": 327266,
-      "word": "原来真正的失望是不想多说一句话",
-      "onboard_time": 1729242200,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325967,
       "num": 325967,
       "word": "救救GALA",
@@ -745,6 +793,14 @@
       "onboard_time": 1729180642,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317145,
+      "num": 216751,
+      "word": "韩方称朝鲜派兵援俄",
+      "onboard_time": 1729245079,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 310493,
@@ -875,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250449,
+      "num": 250449,
+      "word": "第五人格",
+      "onboard_time": 1729242080,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247999,
       "num": 516618,
       "word": "A股大涨那几天究竟激活了多少股民",
@@ -891,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 246353,
+      "num": 246353,
+      "word": "家属称女儿因室友牵连被杀未获道歉",
+      "onboard_time": 1729244420,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242784,
       "num": 242784,
       "word": "种地吧",
@@ -905,6 +977,30 @@
       "onboard_time": 1729183156,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239128,
+      "num": 358092,
+      "word": "唐香玉总决赛 普信男",
+      "onboard_time": 1729245560,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238919,
+      "num": 238919,
+      "word": "杨幂刘诗诗在聊孩子",
+      "onboard_time": 1729246700,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238910,
+      "num": 283874,
+      "word": "领养小猫却要分期17个月买猫粮",
+      "onboard_time": 1729241659,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234580,
@@ -931,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229566,
-      "num": 229566,
-      "word": "韩方称朝鲜派12000人援俄",
-      "onboard_time": 1729243521,
-      "rank": 24,
-      "category": "国外时政"
+      "raw_hot": 228780,
+      "num": 238912,
+      "word": "杨子把不回家归咎于黄圣依作息",
+      "onboard_time": 1729246281,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 228669,
@@ -1025,14 +1121,6 @@
       "onboard_time": 1729222218,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215465,
-      "num": 283874,
-      "word": "领养小猫却要分期17个月买猫粮",
-      "onboard_time": 1729241659,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214560,
@@ -1131,12 +1219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202185,
-      "num": 323705,
-      "word": "樊振东3比2程靖淇",
-      "onboard_time": 1729243641,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 202452,
+      "num": 202452,
+      "word": "浪姐 女性主义觉醒夏令营",
+      "onboard_time": 1729244480,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 200426,
@@ -1163,12 +1251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196301,
+      "num": 196301,
+      "word": "我想对孙颖莎说",
+      "onboard_time": 1729246640,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196010,
       "num": 196010,
       "word": "黄圣依 忍者",
       "onboard_time": 1729233262,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194913,
+      "num": 194913,
+      "word": "王一博练车排名",
+      "onboard_time": 1729245860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193704,
@@ -1427,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167935,
+      "num": 167935,
+      "word": "赴山海",
+      "onboard_time": 1729246640,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167693,
       "num": 167693,
       "word": "斗罗大陆2燃魂集结海报",
@@ -1459,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164326,
+      "num": 357925,
+      "word": "樊振东程靖淇老友拥抱",
+      "onboard_time": 1729246400,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161008,
       "num": 161008,
       "word": "留几手 打分",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1729226481,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157602,
+      "num": 412974,
+      "word": "昆明涉异味猪肉学校学费每年两万六",
+      "onboard_time": 1729243641,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156427,
@@ -1627,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "唐香玉感谢杨笠",
+      "onboard_time": 1729244899,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146054,
       "num": 146054,
       "word": "4个动作避免乳腺结节",
@@ -1673,14 +1809,6 @@
       "onboard_time": 1729241061,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143164,
-      "num": 143164,
-      "word": "外国游客因着装问题被劝离故宫",
-      "onboard_time": 1729244242,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142743,
@@ -1835,6 +1963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133372,
+      "num": 133372,
+      "word": "谁给朱珠曾舜晞递个豪门姐弟本子",
+      "onboard_time": 1729245200,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132731,
       "num": 132731,
       "word": "过去一年没有扎堆违规减持现象",
@@ -1905,14 +2041,6 @@
       "onboard_time": 1729229961,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127769,
-      "num": 131064,
-      "word": "第五人格",
-      "onboard_time": 1729242080,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 124025,
@@ -2099,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97404,
+      "num": 247378,
+      "word": "公司发offer后反悔员工起诉获赔5万",
+      "onboard_time": 1729245200,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96090,
       "num": 104125,
       "word": "Crisp请神S9的自己",
@@ -2145,14 +2281,6 @@
       "onboard_time": 1729238960,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85168,
-      "num": 412974,
-      "word": "昆明涉异味猪肉学校学费每年两万六",
-      "onboard_time": 1729243641,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84436,
@@ -2291,6 +2419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 61877,
+      "num": 359696,
+      "word": "全国寒潮天猫增发1亿服饰补贴",
+      "onboard_time": 1729245620,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61573,
       "num": 343891,
       "word": "央行推股票回购增持再贷款",
@@ -2411,6 +2547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38710,
+      "num": 357840,
+      "word": "学会科学抖腿能保护血管",
+      "onboard_time": 1729245799,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38374,
       "num": 55015,
       "word": "王者九周年限定回忆",
@@ -2491,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30254,
+      "num": 171440,
+      "word": "张雪峰教育女儿的方式",
+      "onboard_time": 1729243100,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29251,
       "num": 256690,
       "word": "双11猫头橱窗卖的是情绪价值",
@@ -2504,6 +2656,14 @@
       "word": "上海第二套改善型住房最低首付比例25%",
       "onboard_time": 1729200911,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27872,
+      "num": 493837,
+      "word": "一条视频了解辛瓦尔",
+      "onboard_time": 1729245441,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2609,14 +2769,6 @@
       "onboard_time": 1729207517,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21653,
-      "num": 146699,
-      "word": "张雪峰教育女儿的方式",
-      "onboard_time": 1729243100,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 21071,

@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729244298214,
+  "endTime": 1729247086387,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -771,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1493582,
+      "num": 1493582,
+      "word": "外国游客因着装问题被劝离故宫",
+      "onboard_time": 1729244242,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1479717,
       "num": 612280,
       "word": "韩素希用小号给李惠利留恶评",
@@ -801,6 +809,14 @@
       "onboard_time": 1728960317,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1425976,
+      "num": 1035465,
+      "word": "杨子承认曾和黄圣依彻底分开",
+      "onboard_time": 1729240819,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1419674,
@@ -1563,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1035465,
-      "num": 1035465,
-      "word": "杨子承认曾和黄圣依彻底分开",
-      "onboard_time": 1729240819,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1033570,
       "num": 771278,
       "word": "林允全身涂黑",
@@ -1916,7 +1924,7 @@
     },
     {
       "raw_hot": 883085,
-      "num": 411637,
+      "num": 457609,
       "word": "这还是沙溢吗",
       "onboard_time": 1729237581,
       "rank": 21,
@@ -3155,6 +3163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625254,
+      "num": 625254,
+      "word": "韩方称朝鲜派12000人援俄",
+      "onboard_time": 1729243521,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 621268,
+      "num": 621268,
+      "word": "于祥宇 GAI",
+      "onboard_time": 1729244840,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620284,
       "num": 620284,
       "word": "男子乘飞机2小时未起身致肺栓塞身亡",
@@ -3339,6 +3363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 589378,
+      "num": 589378,
+      "word": "樊振东3比2程靖淇",
+      "onboard_time": 1729243641,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 586087,
       "num": 586087,
       "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1728747201,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569399,
+      "num": 506820,
+      "word": "原来真正的失望是不想多说一句话",
+      "onboard_time": 1729242200,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 568662,
@@ -4035,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484220,
+      "num": 484220,
+      "word": "听泉鉴宝APP上线",
+      "onboard_time": 1729246219,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483631,
       "num": 483631,
       "word": "百亿票房男演员名单",
@@ -4212,7 +4260,7 @@
     },
     {
       "raw_hot": 459113,
-      "num": 300725,
+      "num": 341696,
       "word": "表姐为了猫扇了亲戚小孩一巴掌",
       "onboard_time": 1729240520,
       "rank": 26,
@@ -5019,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357576,
+      "num": 357576,
+      "word": "金正恩对韩国发出强硬警告",
+      "onboard_time": 1729244660,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 357433,
       "num": 357433,
       "word": "无忧渡 11月",
@@ -5427,14 +5483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327266,
-      "num": 327266,
-      "word": "原来真正的失望是不想多说一句话",
-      "onboard_time": 1729242200,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326318,
       "num": 326318,
       "word": "吴镇宇晒费曼王嘉尔合照",
@@ -5537,6 +5585,14 @@
       "onboard_time": 1728970879,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317145,
+      "num": 216751,
+      "word": "韩方称朝鲜派兵援俄",
+      "onboard_time": 1729245079,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 317128,
@@ -6851,6 +6907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250449,
+      "num": 250449,
+      "word": "第五人格",
+      "onboard_time": 1728869179,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250157,
       "num": 250157,
       "word": "时代少年团时尚芭莎封面预告",
@@ -6945,6 +7009,14 @@
       "onboard_time": 1729234941,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 246353,
+      "num": 246353,
+      "word": "家属称女儿因室友牵连被杀未获道歉",
+      "onboard_time": 1729244420,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246210,
@@ -7113,6 +7185,30 @@
       "onboard_time": 1729183156,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239128,
+      "num": 358092,
+      "word": "唐香玉总决赛 普信男",
+      "onboard_time": 1729245560,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238919,
+      "num": 238919,
+      "word": "杨幂刘诗诗在聊孩子",
+      "onboard_time": 1729246700,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238910,
+      "num": 283874,
+      "word": "领养小猫却要分期17个月买猫粮",
+      "onboard_time": 1729241659,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238711,
@@ -7331,14 +7427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229566,
-      "num": 229566,
-      "word": "韩方称朝鲜派12000人援俄",
-      "onboard_time": 1729243521,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 229495,
       "num": 229495,
       "word": "许许多多个邓稼先隐姓埋名以身许国",
@@ -7353,6 +7441,14 @@
       "onboard_time": 1728814040,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228780,
+      "num": 238912,
+      "word": "杨子把不回家归咎于黄圣依作息",
+      "onboard_time": 1729246281,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 228669,
@@ -7801,14 +7897,6 @@
       "onboard_time": 1729149021,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215465,
-      "num": 283874,
-      "word": "领养小猫却要分期17个月买猫粮",
-      "onboard_time": 1729241659,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215389,
@@ -8595,20 +8683,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202452,
+      "num": 202452,
+      "word": "浪姐 女性主义觉醒夏令营",
+      "onboard_time": 1729244480,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202322,
       "num": 231987,
       "word": "奔跑吧茶马古道教科书式官宣",
       "onboard_time": 1729048278,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202185,
-      "num": 323705,
-      "word": "樊振东3比2程靖淇",
-      "onboard_time": 1729243641,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 202080,
@@ -9019,6 +9107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 196301,
+      "num": 196301,
+      "word": "我想对孙颖莎说",
+      "onboard_time": 1729246640,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196166,
       "num": 397001,
       "word": "GAPDAY音乐节佛山定档",
@@ -9145,6 +9241,14 @@
       "onboard_time": 1728999079,
       "rank": 39,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 194913,
+      "num": 194913,
+      "word": "王一博练车排名",
+      "onboard_time": 1729245860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 194747,
@@ -10803,6 +10907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167935,
+      "num": 167935,
+      "word": "赴山海",
+      "onboard_time": 1729246640,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167898,
       "num": 167898,
       "word": "侯佩岑 享受失控带来的安全感",
@@ -10993,6 +11105,14 @@
       "onboard_time": 1728984139,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164326,
+      "num": 357925,
+      "word": "樊振东程靖淇老友拥抱",
+      "onboard_time": 1729246400,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 164281,
@@ -11353,6 +11473,14 @@
       "onboard_time": 1728804017,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157602,
+      "num": 412974,
+      "word": "昆明涉异味猪肉学校学费每年两万六",
+      "onboard_time": 1729243641,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156974,
@@ -11811,14 +11939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149620,
-      "num": 149620,
-      "word": "第五人格",
-      "onboard_time": 1728869179,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149554,
       "num": 149554,
       "word": "melon抢票",
@@ -12000,6 +12120,14 @@
       "word": "油炸方便面",
       "onboard_time": 1729239861,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "唐香玉感谢杨笠",
+      "onboard_time": 1729244899,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -12185,14 +12313,6 @@
       "onboard_time": 1728790399,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143164,
-      "num": 143164,
-      "word": "外国游客因着装问题被劝离故宫",
-      "onboard_time": 1729244242,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143100,
@@ -12697,6 +12817,14 @@
       "onboard_time": 1728777376,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133372,
+      "num": 133372,
+      "word": "谁给朱珠曾舜晞递个豪门姐弟本子",
+      "onboard_time": 1729245200,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133362,
@@ -14011,6 +14139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97404,
+      "num": 247378,
+      "word": "公司发offer后反悔员工起诉获赔5万",
+      "onboard_time": 1729245200,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96934,
       "num": 96934,
       "word": "石凯黑白艺术家演技张力",
@@ -14385,14 +14521,6 @@
       "onboard_time": 1729238960,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85168,
-      "num": 412974,
-      "word": "昆明涉异味猪肉学校学费每年两万六",
-      "onboard_time": 1729243641,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85136,
@@ -15097,6 +15225,14 @@
       "onboard_time": 1728740124,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61877,
+      "num": 359696,
+      "word": "全国寒潮天猫增发1亿服饰补贴",
+      "onboard_time": 1729245620,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 61573,
@@ -16275,6 +16411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38710,
+      "num": 357840,
+      "word": "学会科学抖腿能保护血管",
+      "onboard_time": 1729245799,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38639,
       "num": 38639,
       "word": "重庆姐弟坠楼案生母说要卸下枷锁",
@@ -16939,6 +17083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30254,
+      "num": 171440,
+      "word": "张雪峰教育女儿的方式",
+      "onboard_time": 1729243100,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29982,
       "num": 371231,
       "word": "警惕AIGC数据污染稀释人类原创",
@@ -17064,6 +17216,14 @@
       "word": "市监所回应医院当街打广告",
       "onboard_time": 1729004720,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27872,
+      "num": 493837,
+      "word": "一条视频了解辛瓦尔",
+      "onboard_time": 1729245441,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17513,14 +17673,6 @@
       "onboard_time": 1728810919,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21653,
-      "num": 146699,
-      "word": "张雪峰教育女儿的方式",
-      "onboard_time": 1729243100,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 21594,
