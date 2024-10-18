@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729247086387,
+  "endTime": 1729248135836,
   "band_list": [
     {
       "raw_hot": 3020148,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1640936,
+      "num": 1640936,
+      "word": "外国游客因着装问题被劝离故宫",
+      "onboard_time": 1729244242,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1616340,
       "num": 986296,
       "word": "金正恩说打消与韩国同族意识",
@@ -72,14 +80,6 @@
       "word": "医学生发大体老师头骨合影引不满",
       "onboard_time": 1729221920,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1493582,
-      "num": 1493582,
-      "word": "外国游客因着装问题被劝离故宫",
-      "onboard_time": 1729244242,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -160,6 +160,14 @@
       "word": "中介自称今年已卖出20多个孩子",
       "onboard_time": 1729236141,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084496,
+      "num": 1084496,
+      "word": "听泉鉴宝APP上线",
+      "onboard_time": 1729246219,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 656159,
+      "num": 656159,
+      "word": "金正恩对韩国发出强硬警告",
+      "onboard_time": 1729244660,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 646487,
       "num": 646487,
       "word": "民警搜山喊了4小时找回5名大学生",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 569399,
-      "num": 506820,
+      "num": 517882,
       "word": "原来真正的失望是不想多说一句话",
       "onboard_time": 1729242200,
       "rank": 26,
@@ -531,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508649,
+      "num": 508649,
+      "word": "杨幂刘诗诗在聊孩子",
+      "onboard_time": 1729246700,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 506598,
       "num": 506598,
       "word": "2025鹅厂大剧片单",
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 484220,
-      "num": 484220,
-      "word": "听泉鉴宝APP上线",
-      "onboard_time": 1729246219,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480143,
       "num": 480143,
       "word": "前三季度GDP同比增长4.8%",
@@ -577,6 +593,14 @@
       "onboard_time": 1729174823,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466476,
+      "num": 466476,
+      "word": "第五人格前瞻直播",
+      "onboard_time": 1729247540,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 462657,
@@ -715,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357576,
-      "num": 357576,
-      "word": "金正恩对韩国发出强硬警告",
-      "onboard_time": 1729244660,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 349117,
       "num": 349117,
       "word": "周也裙子变装",
@@ -737,6 +753,14 @@
       "onboard_time": 1729213160,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 340954,
+      "num": 340954,
+      "word": "第五人格",
+      "onboard_time": 1729242080,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 340018,
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264941,
+      "num": 264941,
+      "word": "唐香玉总决赛",
+      "onboard_time": 1729245560,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264707,
       "num": 353539,
       "word": "慕胥辞首发剧照",
@@ -929,14 +961,6 @@
       "onboard_time": 1729233921,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250449,
-      "num": 250449,
-      "word": "第五人格",
-      "onboard_time": 1729242080,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 247999,
@@ -987,20 +1011,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238919,
-      "num": 238919,
-      "word": "杨幂刘诗诗在聊孩子",
-      "onboard_time": 1729246700,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 238910,
       "num": 283874,
       "word": "领养小猫却要分期17个月买猫粮",
       "onboard_time": 1729241659,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238042,
+      "num": 238912,
+      "word": "杨子把不回家归咎于黄圣依作息",
+      "onboard_time": 1729246281,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 234580,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1729223539,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228780,
-      "num": 238912,
-      "word": "杨子把不回家归咎于黄圣依作息",
-      "onboard_time": 1729246281,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 228669,
@@ -1275,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193789,
+      "num": 247378,
+      "word": "公司发offer后反悔员工起诉获赔5万",
+      "onboard_time": 1729245200,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193704,
       "num": 193704,
       "word": "国医少年志开播",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1729229120,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187857,
+      "num": 357925,
+      "word": "樊振东程靖淇老友拥抱",
+      "onboard_time": 1729246400,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 187170,
@@ -1467,6 +1499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173705,
+      "num": 173705,
+      "word": "任敏演技",
+      "onboard_time": 1729247660,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173423,
       "num": 173423,
       "word": "Uzi谈WBG晋级四强",
@@ -1571,12 +1611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164326,
-      "num": 357925,
-      "word": "樊振东程靖淇老友拥抱",
-      "onboard_time": 1729246400,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 161909,
+      "num": 412974,
+      "word": "昆明涉异味猪肉学校学费每年两万六",
+      "onboard_time": 1729243641,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161008,
@@ -1592,6 +1632,14 @@
       "word": "潘展乐监工董志豪",
       "onboard_time": 1729226061,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "许昕3比0程靖淇",
+      "onboard_time": 1729247842,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1611,12 +1659,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 157602,
-      "num": 412974,
-      "word": "昆明涉异味猪肉学校学费每年两万六",
-      "onboard_time": 1729243641,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 157804,
+      "num": 157804,
+      "word": "唐香玉 女生说不要就是不要",
+      "onboard_time": 1729247540,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 156427,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1729170862,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149261,
+      "num": 149261,
+      "word": "第五人格喧嚣再起",
+      "onboard_time": 1729247601,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 148658,
@@ -1857,6 +1913,14 @@
       "onboard_time": 1729236681,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140367,
+      "num": 140367,
+      "word": "上海男团3比1福建男团",
+      "onboard_time": 1729247960,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139834,
@@ -2227,14 +2291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97404,
-      "num": 247378,
-      "word": "公司发offer后反悔员工起诉获赔5万",
-      "onboard_time": 1729245200,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96090,
       "num": 104125,
       "word": "Crisp请神S9的自己",
@@ -2273,6 +2329,14 @@
       "onboard_time": 1729179982,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86776,
+      "num": 359696,
+      "word": "全国寒潮天猫增发1亿服饰补贴",
+      "onboard_time": 1729245620,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 85216,
@@ -2417,14 +2481,6 @@
       "onboard_time": 1729206316,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 61877,
-      "num": 359696,
-      "word": "全国寒潮天猫增发1亿服饰补贴",
-      "onboard_time": 1729245620,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 61573,
@@ -2649,6 +2705,14 @@
       "onboard_time": 1729220541,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 29168,
+      "num": 137012,
+      "word": "一键取消自动续费动了谁的蛋糕",
+      "onboard_time": 1729247900,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28490,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729248135836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640936,
+        "num": 1640936,
+        "word": "外国游客因着装问题被劝离故宫",
+        "onboard_time": 1729244242,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084496,
+        "num": 1084496,
+        "word": "听泉鉴宝APP上线",
+        "onboard_time": 1729246219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15451,
+        "num": 785319,
+        "word": "三季度免签入境外国人同比上升78.6%",
+        "onboard_time": 1729239920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656159,
+        "num": 656159,
+        "word": "金正恩对韩国发出强硬警告",
+        "onboard_time": 1729244660,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 654673,
+        "num": 654673,
+        "word": "ZH9138航班已安全落地",
+        "onboard_time": 1729238781,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590557,
+        "num": 590557,
+        "word": "于祥宇 GAI",
+        "onboard_time": 1729244840,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555855,
+        "num": 555855,
+        "word": "樊振东3比2程靖淇",
+        "onboard_time": 1729243641,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555691,
+        "num": 555691,
+        "word": "韩方称朝鲜派12000人援俄",
+        "onboard_time": 1729243521,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 517882,
+        "num": 517882,
+        "word": "原来真正的失望是不想多说一句话",
+        "onboard_time": 1729242200,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429359,
+        "num": 511167,
+        "word": "中介自称今年已卖出20多个孩子",
+        "onboard_time": 1729236141,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508649,
+        "num": 508649,
+        "word": "杨幂刘诗诗在聊孩子",
+        "onboard_time": 1729246700,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 466476,
+        "num": 466476,
+        "word": "第五人格前瞻直播",
+        "onboard_time": 1729247540,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413172,
+        "num": 413172,
+        "word": "这还是沙溢吗",
+        "onboard_time": 1729237581,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340954,
+        "num": 340954,
+        "word": "第五人格",
+        "onboard_time": 1729242080,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86776,
+        "num": 299527,
+        "word": "全国寒潮天猫增发1亿服饰补贴",
+        "onboard_time": 1729245620,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295450,
+        "num": 295450,
+        "word": "VOGUE晚宴主桌",
+        "onboard_time": 1729240040,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1349341,
+        "num": 293288,
+        "word": "杨子承认曾和黄圣依彻底分开",
+        "onboard_time": 1729240819,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269553,
+        "num": 269553,
+        "word": "许昕背后击球",
+        "onboard_time": 1729240880,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264941,
+        "num": 264941,
+        "word": "唐香玉总决赛",
+        "onboard_time": 1729245560,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211305,
+        "num": 263798,
+        "word": "时代少年团台历",
+        "onboard_time": 1729243580,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2084898,
+        "num": 258051,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 875720,
+        "num": 249777,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320282,
+        "num": 244756,
+        "word": "表姐为了猫扇了亲戚小孩一巴掌",
+        "onboard_time": 1729240520,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238042,
+        "num": 238042,
+        "word": "杨子把不回家归咎于黄圣依作息",
+        "onboard_time": 1729246281,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161909,
+        "num": 234744,
+        "word": "昆明涉异味猪肉学校学费每年两万六",
+        "onboard_time": 1729243641,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231896,
+        "num": 231896,
+        "word": "家属称女儿因室友牵连被杀未获道歉",
+        "onboard_time": 1729244420,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229119,
+        "num": 229119,
+        "word": "周杰伦 假冒我妈太扯了",
+        "onboard_time": 1729230979,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200505,
+        "num": 200505,
+        "word": "领养小猫却要分期17个月买猫粮",
+        "onboard_time": 1729241659,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198971,
+        "num": 198971,
+        "word": "40岁女性在杭州的真实现状",
+        "onboard_time": 1729238241,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188125,
+        "num": 193841,
+        "word": "王一博练车排名",
+        "onboard_time": 1729245860,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193789,
+        "num": 193789,
+        "word": "公司发offer后反悔员工起诉获赔5万",
+        "onboard_time": 1729245200,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192224,
+        "num": 192224,
+        "word": "浪姐 女性主义觉醒夏令营",
+        "onboard_time": 1729244480,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187857,
+        "num": 187857,
+        "word": "樊振东程靖淇老友拥抱",
+        "onboard_time": 1729246400,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178607,
+        "num": 178607,
+        "word": "故宫最新回应",
+        "onboard_time": 1729240220,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177311,
+        "num": 177311,
+        "word": "曝男明星走VOGUE红毯耍大牌",
+        "onboard_time": 1729236862,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174711,
+        "num": 174711,
+        "word": "我的26岁女房客拍电视剧了",
+        "onboard_time": 1729233860,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173705,
+        "num": 173705,
+        "word": "任敏演技",
+        "onboard_time": 1729247660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163069,
+        "num": 163069,
+        "word": "25个微do等于几个伍佰",
+        "onboard_time": 1729236681,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162631,
+        "num": 162631,
+        "word": "女幼师出租屋遇害案被告人获死刑",
+        "onboard_time": 1729235962,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "我想对孙颖莎说",
+        "onboard_time": 1729246640,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158597,
+        "num": 158597,
+        "word": "许昕3比0程靖淇",
+        "onboard_time": 1729247842,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157804,
+        "num": 157804,
+        "word": "唐香玉 女生说不要就是不要",
+        "onboard_time": 1729247540,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152371,
+        "num": 152371,
+        "word": "金正恩说打消与韩国同族意识",
+        "onboard_time": 1729226061,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128741,
+        "num": 149325,
+        "word": "赴山海",
+        "onboard_time": 1729246640,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149261,
+        "num": 149261,
+        "word": "第五人格喧嚣再起",
+        "onboard_time": 1729247601,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145316,
+        "num": 145316,
+        "word": "外交部回应辛瓦尔被打死",
+        "onboard_time": 1729238060,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140367,
+        "num": 140367,
+        "word": "上海男团3比1福建男团",
+        "onboard_time": 1729247960,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29168,
+        "num": 137012,
+        "word": "一键取消自动续费动了谁的蛋糕",
+        "onboard_time": 1729247900,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 136308,
+        "word": "被中国制裁的美国公司去坑美国军方了",
+        "onboard_time": 1729232061,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132766,
+        "num": 132766,
+        "word": "千万奖金被冒领后赢了官司没要回钱",
+        "onboard_time": 1729238659,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在安徽考察调研#"
+    }
+  }
+}
