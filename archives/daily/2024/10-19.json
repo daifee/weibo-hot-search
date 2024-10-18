@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729269844291,
+  "endTime": 1729272034132,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -83,6 +83,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 491451,
+      "num": 491451,
+      "word": "elk",
+      "onboard_time": 1729268180,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 481331,
       "num": 481331,
       "word": "刘亦菲章小蕙 玫瑰见到了玫瑰",
@@ -105,14 +113,6 @@
       "onboard_time": 1729263861,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415010,
-      "num": 415010,
-      "word": "elk",
-      "onboard_time": 1729268180,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 389540,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226379,
+      "num": 226379,
+      "word": "Bin",
+      "onboard_time": 1729269677,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -233,6 +241,14 @@
       "onboard_time": 1729264820,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178934,
+      "num": 361642,
+      "word": "这种装扮游故宫到底是谁不尊重谁",
+      "onboard_time": 1729269317,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165524,
@@ -289,14 +305,6 @@
       "onboard_time": 1729252341,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134301,
-      "num": 134301,
-      "word": "Bin",
-      "onboard_time": 1729269677,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 132965,
@@ -411,19 +419,43 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54558,
-      "num": 361642,
-      "word": "这种装扮游故宫到底是谁不尊重谁",
-      "onboard_time": 1729269317,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 72509,
+      "num": 111543,
+      "word": "朴彩英 阿帕特",
+      "onboard_time": 1729259841,
+      "rank": 29,
+      "category": "音乐"
     },
     {
-      "raw_hot": 50472,
+      "raw_hot": 70345,
       "num": 379143,
       "word": "好的人生需要8种推动力",
       "onboard_time": 1729268120,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44749,
+      "num": 69033,
+      "word": "新疆真实存在过的女儿国",
+      "onboard_time": 1729258522,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 40656,
+      "num": 154795,
+      "word": "哈尔滨冰雪大世界扩至100万平米",
+      "onboard_time": 1729270996,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30301,
+      "num": 116281,
+      "word": "放开手脚创新创造",
+      "onboard_time": 1729270517,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
