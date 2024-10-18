@@ -1,7 +1,15 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729233889653,
+  "endTime": 1729236056662,
   "band_list": [
+    {
+      "raw_hot": 2964399,
+      "num": 523579,
+      "word": "鹿晗乱丢烟头",
+      "onboard_time": 1729233622,
+      "rank": 25,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2689271,
       "num": 2689271,
@@ -113,6 +121,14 @@
       "onboard_time": 1729214000,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1060118,
+      "num": 1060118,
+      "word": "被中国制裁的美国公司去坑美国军方了",
+      "onboard_time": 1729232061,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1035792,
@@ -241,14 +257,6 @@
       "onboard_time": 1729172062,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 650947,
-      "num": 650947,
-      "word": "被中国制裁的美国公司去坑美国军方了",
-      "onboard_time": 1729232061,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 646487,
@@ -459,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440606,
+      "num": 440606,
+      "word": "我的26岁女房客拍电视剧了",
+      "onboard_time": 1729233860,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434935,
       "num": 395702,
       "word": "刘亦菲杨幂刘诗诗倪妮同场走秀",
@@ -539,6 +555,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 332601,
+      "num": 308387,
+      "word": "黄圣依指责杨子不管小孩",
+      "onboard_time": 1729235001,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332080,
       "num": 224534,
       "word": "小英称牛因生了小牛且生病才瘦",
@@ -603,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299036,
+      "num": 349096,
+      "word": "刘学义说吴谨言太疯了",
+      "onboard_time": 1729231942,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290768,
       "num": 290768,
       "word": "WBG前期全是计谋",
@@ -659,12 +691,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251059,
+      "num": 251059,
+      "word": "奔跑吧李善德",
+      "onboard_time": 1729233921,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247999,
       "num": 516618,
       "word": "A股大涨那几天究竟激活了多少股民",
       "onboard_time": 1729226481,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246663,
+      "num": 246663,
+      "word": "A股牛回来了",
+      "onboard_time": 1729234941,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 242784,
+      "num": 242784,
+      "word": "种地吧",
+      "onboard_time": 1729235421,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 239452,
@@ -715,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227106,
+      "num": 227106,
+      "word": "高度近视一年最好查一次眼底",
+      "onboard_time": 1729234460,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 225987,
       "num": 225987,
       "word": "娜扎 吸血鬼女王",
@@ -745,14 +809,6 @@
       "onboard_time": 1729226721,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222171,
-      "num": 349096,
-      "word": "刘学义说吴谨言太疯了",
-      "onboard_time": 1729231942,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 221387,
@@ -827,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212497,
-      "num": 212497,
-      "word": "鹿晗乱丢烟头",
-      "onboard_time": 1729233622,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209327,
       "num": 263612,
       "word": "永夜星河竹林四侠预告",
@@ -873,6 +921,14 @@
       "onboard_time": 1729213340,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200784,
+      "num": 200784,
+      "word": "何浩楠赵一博更新封面",
+      "onboard_time": 1729235361,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200426,
@@ -1043,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175515,
+      "num": 392780,
+      "word": "2人建群抢红包赚8万被判开设赌场",
+      "onboard_time": 1729231460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174564,
       "num": 174564,
       "word": "择机进一步下调存款准备金率",
@@ -1091,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169598,
+      "num": 169598,
+      "word": "张小斐晚宴造型",
+      "onboard_time": 1729235061,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169488,
       "num": 169488,
       "word": "奔跑吧路透",
@@ -1137,14 +1209,6 @@
       "onboard_time": 1729229901,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161384,
-      "num": 392780,
-      "word": "2人建群抢红包赚8万被判开设赌场",
-      "onboard_time": 1729231460,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161008,
@@ -1203,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155912,
+      "num": 301880,
+      "word": "付航 差生也是有优点的",
+      "onboard_time": 1729233860,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155689,
       "num": 155689,
       "word": "WTT蒙彼利埃冠军赛2024",
@@ -1217,6 +1289,22 @@
       "onboard_time": 1729186093,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153991,
+      "num": 153991,
+      "word": "一拍即合的我们",
+      "onboard_time": 1729235421,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153899,
+      "num": 153899,
+      "word": "行有林惜 羡入四月",
+      "onboard_time": 1729235781,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 153533,
@@ -1379,6 +1467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137171,
+      "num": 137171,
+      "word": "战士对陈祥榕母亲说我们都是您儿子",
+      "onboard_time": 1729234281,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136176,
+      "num": 136176,
+      "word": "罗仪涵一直在骆鑫背后",
+      "onboard_time": 1729234941,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135728,
       "num": 135728,
       "word": "董志豪罚做俯卧撑",
@@ -1401,6 +1505,14 @@
       "onboard_time": 1729215680,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133132,
+      "num": 133132,
+      "word": "股市",
+      "onboard_time": 1729235781,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 132731,
@@ -1459,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127885,
+      "num": 127885,
+      "word": "女幼师出租屋遇害案被告人获死刑",
+      "onboard_time": 1729235962,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124025,
       "num": 138811,
       "word": "VOGUE盛典男明星",
@@ -1499,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121522,
+      "num": 121522,
+      "word": "辛瓦尔死前身边为何没有一个人",
+      "onboard_time": 1729236021,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 121195,
       "num": 405746,
       "word": "我就说没有大学生不会的吧",
@@ -1531,28 +1659,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 114484,
-      "num": 114484,
-      "word": "付航 差生也是有优点的",
-      "onboard_time": 1729233860,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114125,
       "num": 138670,
       "word": "樊振东说不存在恢复",
       "onboard_time": 1729164981,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113567,
-      "num": 113567,
-      "word": "我的26岁女房客拍电视剧了",
-      "onboard_time": 1729233860,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 112650,
@@ -1697,6 +1809,14 @@
       "onboard_time": 1729183578,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 83499,
+      "num": 392934,
+      "word": "24岁内地女子用假学历报读港大获刑",
+      "onboard_time": 1729235241,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81690,
@@ -1955,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28134,
+      "num": 367560,
+      "word": "vivo拍出了中华五千年非遗之美",
+      "onboard_time": 1729233801,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27835,
       "num": 568296,
       "word": "资本市场的增量资金有了",
@@ -2059,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21933,
-      "num": 114743,
-      "word": "vivo拍出了中华五千年非遗之美",
-      "onboard_time": 1729233801,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 20575,
       "num": 27234,
       "word": "网红小虎行账号被封",
@@ -2089,6 +2209,22 @@
       "onboard_time": 1729225701,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17912,
+      "num": 299418,
+      "word": "业内称中老年短剧需求增加",
+      "onboard_time": 1729235301,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16134,
+      "num": 322792,
+      "word": "律师谈学生因无学籍被劝退",
+      "onboard_time": 1729235543,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15759,

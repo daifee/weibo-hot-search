@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 14:44:49
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/18 15:20:56
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ A股涨停（热度：2966593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%89%BF%E6%B1%89%E9%80%80%E9%98%9F%23" target="weibo">
 洪承汉退队（热度：2965185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
+鹿晗乱丢烟头（热度：2964399）
 </a>
 </li>
 
@@ -2597,6 +2603,12 @@ TES对战T1（热度：1063834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1100%E4%B8%87%E4%B9%B0%E5%88%B0300%E5%B9%B3%E7%9A%84%E8%80%81%E7%A0%B4%E5%A4%A7%23" target="weibo">
 花100万买到300平的老破大（热度：1060199）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8E%BB%E5%9D%91%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9%E4%BA%86%23" target="weibo">
+被中国制裁的美国公司去坑美国军方了（热度：1060118）
 </a>
 </li>
 
@@ -5673,12 +5685,6 @@ Jessi发文道歉（热度：656438）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8E%BB%E5%9D%91%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9%E4%BA%86%23" target="weibo">
-被中国制裁的美国公司去坑美国军方了（热度：650947）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A6%8F%E5%B7%9E%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
 王楚钦福州见面会（热度：650840）
 </a>
@@ -6005,12 +6011,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 BLG对战T1（热度：625679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E9%9B%A8%E6%9E%9C%23" target="weibo">
-马龙vs雨果（热度：624618）
 </a>
 </li>
 
