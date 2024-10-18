@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729273075811,
+  "endTime": 1729276217032,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -203,6 +203,14 @@
       "category": "作品衍生,电竞"
     },
     {
+      "raw_hot": 207839,
+      "num": 110821,
+      "word": "杨子 NPD",
+      "onboard_time": 1729272496,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206874,
       "num": 206874,
       "word": "TES",
@@ -259,6 +267,14 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 161911,
+      "num": 161911,
+      "word": "千万奖金被冒领后男子维权了5年",
+      "onboard_time": 1729272915,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159882,
       "num": 159882,
       "word": "TheShy看WBG晋级四强",
@@ -299,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144445,
+      "num": 154795,
+      "word": "哈尔滨冰雪大世界扩至100万平米",
+      "onboard_time": 1729270996,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137371,
       "num": 137371,
       "word": "员工嫖娼被抓公司解除劳动合同被告",
@@ -321,14 +345,6 @@
       "onboard_time": 1729246700,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 128880,
-      "num": 154795,
-      "word": "哈尔滨冰雪大世界扩至100万平米",
-      "onboard_time": 1729270996,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125681,
@@ -435,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79786,
-      "num": 79786,
-      "word": "杨子 NPD",
-      "onboard_time": 1729272496,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72509,
       "num": 111543,
       "word": "朴彩英 阿帕特",
@@ -456,6 +464,14 @@
       "word": "好的人生需要8种推动力",
       "onboard_time": 1729268120,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62723,
+      "num": 62723,
+      "word": "学会尊重该是医学第一课",
+      "onboard_time": 1729274353,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -491,11 +507,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21494,
-      "num": 137555,
-      "word": "千万奖金被冒领后男子维权了5年",
-      "onboard_time": 1729272915,
-      "rank": 19,
+      "raw_hot": 28230,
+      "num": 39175,
+      "word": "鞠婧祎live十宫格",
+      "onboard_time": 1729275372,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17552,
+      "num": 124164,
+      "word": "外交部谈西田敏行去世",
+      "onboard_time": 1729274233,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

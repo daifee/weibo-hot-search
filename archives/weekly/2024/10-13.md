@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/13 00:26:54 ~ 2024/10/19 01:37:55
+本榜单时间：2024/10/13 00:26:54 ~ 2024/10/19 02:30:17
 </p>
 </blockquote>
 <p>
@@ -6567,6 +6567,12 @@ A股大涨（热度：210878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%20NPD%23" target="weibo">
+杨子 NPD（热度：207839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E5%8F%91%E7%96%AF%E7%89%88%E9%9E%AD%E5%AD%90%E8%88%9E%23" target="weibo">
 吴谨言发疯版鞭子舞（热度：207764）
 </a>
@@ -8985,6 +8991,12 @@ SM官宣与文泰一解约（热度：162857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%A5%96%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%86%E5%90%8E%E7%94%B7%E5%AD%90%E7%BB%B4%E6%9D%83%E4%BA%865%E5%B9%B4%23" target="weibo">
+千万奖金被冒领后男子维权了5年（热度：161911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%83%B9%E4%BA%89%E8%AE%AE%E5%B1%85%E6%B0%91%E7%8A%B6%E5%91%8A%E9%98%BF%E7%BB%B4%E5%A1%94%23" target="weibo">
 无人驾驶惹争议居民状告阿维塔（热度：161867）
 </a>
@@ -9741,6 +9753,12 @@ LPL提前锁定S14决赛（热度：145019）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%89%A9%E8%87%B3100%E4%B8%87%E5%B9%B3%E7%B1%B3%23" target="weibo">
+哈尔滨冰雪大世界扩至100万平米（热度：144445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E6%8B%89%E9%BB%91%E4%B9%9D%E5%90%8D%E6%8F%92%E9%98%9F%E6%A6%9C%E4%B8%80%23" target="weibo">
 大冰拉黑九名插队榜一（热度：144310）
 </a>
@@ -10319,12 +10337,6 @@ aespa台历（热度：139522）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%84%E5%87%BB%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC4%E9%87%91%23" target="weibo">
 中国射击队世界杯第4金（热度：129201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%89%A9%E8%87%B3100%E4%B8%87%E5%B9%B3%E7%B1%B3%23" target="weibo">
-哈尔滨冰雪大世界扩至100万平米（热度：128880）
 </a>
 </li>
 
@@ -11703,12 +11715,6 @@ A股成交额连续7个交易日破1.5万亿（热度：86752）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%20NPD%23" target="weibo">
-杨子 NPD（热度：79786）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%BB%BA%E5%86%9B%E7%A7%B0%E4%BB%B7%E6%A0%BC%E6%88%98%E5%90%8E%E9%81%97%E7%97%87%E5%B0%86%E8%BE%BE%E5%85%AD%E4%B8%83%E5%B9%B4%23" target="weibo">
 魏建军称价格战后遗症将达六七年（热度：79782）
 </a>
@@ -12113,6 +12119,12 @@ Scout看好GEN夺冠（热度：63759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%85%A7%E9%A1%BE%E5%AD%99%E5%A5%B36%E5%B9%B4%E8%B5%B7%E8%AF%89%E5%84%BF%E5%AD%90%E5%84%BF%E5%AA%B3%E8%BF%98%E9%92%B1%23" target="weibo">
 奶奶照顾孙女6年起诉儿子儿媳还钱（热度：63106）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BC%9A%E5%B0%8A%E9%87%8D%E8%AF%A5%E6%98%AF%E5%8C%BB%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23" target="weibo">
+学会尊重该是医学第一课（热度：62723）
 </a>
 </li>
 
@@ -13701,6 +13713,12 @@ vivo拍出了中华五千年非遗之美（热度：31109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8Elive%E5%8D%81%E5%AE%AB%E6%A0%BC%23" target="weibo">
+鞠婧祎live十宫格（热度：28230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E6%89%80%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E5%BD%93%E8%A1%97%E6%89%93%E5%B9%BF%E5%91%8A%23" target="weibo">
 市监所回应医院当街打广告（热度：27888）
 </a>
@@ -14073,12 +14091,6 @@ Hiro山本舞香结婚（热度：21736）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%A5%96%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%86%E5%90%8E%E7%94%B7%E5%AD%90%E7%BB%B4%E6%9D%83%E4%BA%865%E5%B9%B4%23" target="weibo">
-千万奖金被冒领后男子维权了5年（热度：21494）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%86%9B%E7%89%88%E5%B1%B1%E6%B2%B3%E5%9B%BE%E5%8F%98%E8%A3%85%E5%A4%AA%E7%87%83%E4%BA%86%23" target="weibo">
 海军版山河图变装太燃了（热度：21475）
 </a>
@@ -14267,6 +14279,12 @@ NewJeans成员为HANNI加油（热度：20238）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%AF%BF%E5%85%89%E6%B0%94%E4%BD%93%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%23" target="weibo">
 应急管理部派工作组赴寿光气体中毒事故现场（热度：17573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E8%A5%BF%E7%94%B0%E6%95%8F%E8%A1%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
+外交部谈西田敏行去世（热度：17552）
 </a>
 </li>
 
