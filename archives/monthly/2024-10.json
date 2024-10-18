@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729230016469,
+  "endTime": 1729233070866,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -4235,6 +4235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 955964,
+      "num": 1152954,
+      "word": "周杰伦 假冒我妈太扯了",
+      "onboard_time": 1729230979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954492,
       "num": 344992,
       "word": "消防车5死1伤事故伤亡者均为消防员",
@@ -5697,6 +5705,14 @@
       "onboard_time": 1728544819,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790752,
+      "num": 567017,
+      "word": "珠帘玉幕",
+      "onboard_time": 1729229901,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 790636,
@@ -11467,6 +11483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447743,
+      "num": 332797,
+      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+      "onboard_time": 1729227561,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447677,
       "num": 399850,
       "word": "继业 既生专何生本",
@@ -12065,6 +12089,14 @@
       "onboard_time": 1728202219,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422059,
+      "num": 422059,
+      "word": "易梦玲走秀",
+      "onboard_time": 1729228759,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 421343,
@@ -12875,6 +12907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389256,
+      "num": 389256,
+      "word": "迪丽热巴陈星旭背对背身高差",
+      "onboard_time": 1729230920,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389145,
       "num": 389145,
       "word": "只此青绿演了600次场场满座",
@@ -13256,6 +13296,14 @@
       "word": "家属回应男孩骑行被碾案司机获取保",
       "onboard_time": 1728662238,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376043,
+      "num": 376043,
+      "word": "起猛了看见农民给稻田挠痒痒",
+      "onboard_time": 1729230979,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -13664,14 +13712,6 @@
       "word": "村主任故意撞人致死死者女儿发声",
       "onboard_time": 1728884419,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363927,
-      "num": 320144,
-      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
-      "onboard_time": 1729227561,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -14321,6 +14361,14 @@
       "onboard_time": 1728196098,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345055,
+      "num": 345055,
+      "word": "被中国制裁的美国公司去坑美国军方了",
+      "onboard_time": 1729232061,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 344613,
@@ -15665,6 +15713,14 @@
       "onboard_time": 1727836398,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 310493,
+      "num": 345189,
+      "word": "娜扎晒和刘诗诗倪妮的合照",
+      "onboard_time": 1729227381,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 310395,
@@ -17081,6 +17137,14 @@
       "onboard_time": 1728114979,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286268,
+      "num": 286268,
+      "word": "婚姻体检",
+      "onboard_time": 1729231880,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 286162,
@@ -20115,14 +20179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242252,
-      "num": 328019,
-      "word": "易梦玲走秀",
-      "onboard_time": 1729228759,
-      "rank": 41,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 242110,
       "num": 242110,
       "word": "林高远6小时三战",
@@ -22481,14 +22537,6 @@
       "onboard_time": 1727937918,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216028,
-      "num": 216028,
-      "word": "娜扎晒和刘诗诗倪妮的合照",
-      "onboard_time": 1729227381,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 215959,
@@ -28227,6 +28275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183268,
+      "num": 183268,
+      "word": "王曼昱因伤退出冠军赛",
+      "onboard_time": 1729232780,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183065,
       "num": 360821,
       "word": "庞博宣了一天球都没摸到",
@@ -29747,6 +29803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173330,
+      "num": 173330,
+      "word": "不疼痛的乳腺结节更需警惕",
+      "onboard_time": 1729228759,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173306,
       "num": 485036,
       "word": "徐霞客劝大家安全为首勿涉险地",
@@ -30112,6 +30176,14 @@
       "word": "港股飘红",
       "onboard_time": 1728026179,
       "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 170998,
+      "num": 170998,
+      "word": "央行真金白银拿出5000亿支持A股",
+      "onboard_time": 1729232600,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -30483,6 +30555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168882,
+      "num": 168882,
+      "word": "开始推理吧3原班人马",
+      "onboard_time": 1729231760,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168627,
       "num": 168627,
       "word": "双城之战2剧情预告",
@@ -30801,6 +30881,14 @@
       "onboard_time": 1728124999,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167271,
+      "num": 167271,
+      "word": "怎敌她千娇百媚",
+      "onboard_time": 1729231220,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 167254,
@@ -32753,14 +32841,6 @@
       "onboard_time": 1728976519,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156475,
-      "num": 156475,
-      "word": "不疼痛的乳腺结节更需警惕",
-      "onboard_time": 1729228759,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156427,
@@ -35009,6 +35089,14 @@
       "onboard_time": 1728104118,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144429,
+      "num": 144429,
+      "word": "VOGUE上桌聊天",
+      "onboard_time": 1729232600,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144389,
@@ -37963,6 +38051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128111,
+      "num": 205745,
+      "word": "95后研究员4个博士学位如何获得",
+      "onboard_time": 1729229961,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128059,
       "num": 128059,
       "word": "国考选岗",
@@ -38753,6 +38849,14 @@
       "onboard_time": 1728612739,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122999,
+      "num": 122999,
+      "word": "榜上佳婿真捉婿预告",
+      "onboard_time": 1729231942,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122900,
@@ -39785,6 +39889,14 @@
       "onboard_time": 1728914721,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116447,
+      "num": 116447,
+      "word": "杨子做饭",
+      "onboard_time": 1729232541,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116403,
@@ -40875,14 +40987,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 109475,
-      "num": 205745,
-      "word": "95后研究员4个博士学位如何获得",
-      "onboard_time": 1729229961,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109470,
       "num": 326464,
       "word": "陈幸同3比1吴咏琳",
@@ -41825,6 +41929,14 @@
       "onboard_time": 1728519740,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 103183,
+      "num": 123072,
+      "word": "让gala离开李姓试试",
+      "onboard_time": 1729230560,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 103176,
@@ -44659,6 +44771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78692,
+      "num": 392780,
+      "word": "2人建群抢红包赚8万被判开设赌场",
+      "onboard_time": 1729231460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78656,
       "num": 78656,
       "word": "天秤座要学会放过自己",
@@ -45785,6 +45905,14 @@
       "onboard_time": 1728407053,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66189,
+      "num": 349096,
+      "word": "刘学义说吴谨言太疯了",
+      "onboard_time": 1729231942,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 65973,
@@ -48435,6 +48563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45333,
+      "num": 437366,
+      "word": "充电桩靠低额电价高额服务费收割用户",
+      "onboard_time": 1729231579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45282,
       "num": 250746,
       "word": "红旗颂前奏一响就让人热血沸腾",
@@ -49353,6 +49489,14 @@
       "onboard_time": 1728018678,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39468,
+      "num": 160053,
+      "word": "刘雨昕来自原来那个人的深夜问候",
+      "onboard_time": 1729231641,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 39373,
@@ -53587,19 +53731,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15127,
+      "num": 179653,
+      "word": "核能自嗨锅上架淘宝",
+      "onboard_time": 1729229600,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15109,
       "num": 23857,
       "word": "央美女生把父亲的运煤车改装成泳池",
       "onboard_time": 1728678071,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15087,
-      "num": 147034,
-      "word": "核能自嗨锅上架淘宝",
-      "onboard_time": 1729229600,
-      "rank": 44,
       "category": "社会新闻"
     },
     {

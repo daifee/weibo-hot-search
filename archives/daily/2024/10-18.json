@@ -1,6 +1,6 @@
 {
   "startTime": 1729182564055,
-  "endTime": 1729230016469,
+  "endTime": 1729233070866,
   "band_list": [
     {
       "raw_hot": 2689271,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955964,
+      "num": 1152954,
+      "word": "周杰伦 假冒我妈太扯了",
+      "onboard_time": 1729230979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915320,
       "num": 915320,
       "word": "武汉公交回应下车请走好有哀悼歧义",
@@ -177,6 +185,14 @@
       "onboard_time": 1729214061,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 790752,
+      "num": 567017,
+      "word": "珠帘玉幕",
+      "onboard_time": 1729229901,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 771617,
@@ -379,6 +395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 447743,
+      "num": 332797,
+      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+      "onboard_time": 1729227561,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444797,
       "num": 444797,
       "word": "恋与深空",
@@ -411,12 +435,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422059,
+      "num": 422059,
+      "word": "易梦玲走秀",
+      "onboard_time": 1729228759,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 407973,
       "num": 407973,
       "word": "网红小虎行账号已被封",
       "onboard_time": 1729192213,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 401006,
+      "num": 401006,
+      "word": "A股",
+      "onboard_time": 1729228700,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 389256,
+      "num": 389256,
+      "word": "迪丽热巴陈星旭背对背身高差",
+      "onboard_time": 1729230920,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 386391,
@@ -427,11 +475,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 363927,
-      "num": 320144,
-      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
-      "onboard_time": 1729227561,
-      "rank": 22,
+      "raw_hot": 376043,
+      "num": 376043,
+      "word": "起猛了看见农民给稻田挠痒痒",
+      "onboard_time": 1729230979,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -449,6 +497,14 @@
       "onboard_time": 1729213160,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 345055,
+      "num": 345055,
+      "word": "被中国制裁的美国公司去坑美国军方了",
+      "onboard_time": 1729232061,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 340018,
@@ -507,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310493,
+      "num": 345189,
+      "word": "娜扎晒和刘诗诗倪妮的合照",
+      "onboard_time": 1729227381,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310193,
       "num": 310193,
       "word": "以称正核实是否打死哈马斯领导人辛瓦尔",
@@ -537,6 +601,14 @@
       "onboard_time": 1729177223,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286268,
+      "num": 286268,
+      "word": "婚姻体检",
+      "onboard_time": 1729231880,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 281977,
@@ -587,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242252,
-      "num": 328019,
-      "word": "易梦玲走秀",
-      "onboard_time": 1729228759,
-      "rank": 41,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 239452,
       "num": 239452,
       "word": "Daeny表情",
@@ -625,14 +689,6 @@
       "onboard_time": 1729223539,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229944,
-      "num": 229944,
-      "word": "A股",
-      "onboard_time": 1729228700,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 228669,
@@ -721,14 +777,6 @@
       "onboard_time": 1729222218,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216028,
-      "num": 216028,
-      "word": "娜扎晒和刘诗诗倪妮的合照",
-      "onboard_time": 1729227381,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 213909,
@@ -867,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183268,
+      "num": 183268,
+      "word": "王曼昱因伤退出冠军赛",
+      "onboard_time": 1729232780,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182572,
       "num": 182572,
       "word": "王鹤棣许七安定妆海报",
@@ -963,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173330,
+      "num": 173330,
+      "word": "不疼痛的乳腺结节更需警惕",
+      "onboard_time": 1729228759,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173272,
       "num": 173272,
       "word": "许家印前妻逾22亿房产或遭接管",
@@ -987,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170998,
+      "num": 170998,
+      "word": "央行真金白银拿出5000亿支持A股",
+      "onboard_time": 1729232600,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169488,
       "num": 169488,
       "word": "奔跑吧路透",
@@ -995,11 +1067,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168882,
+      "num": 168882,
+      "word": "开始推理吧3原班人马",
+      "onboard_time": 1729231760,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167693,
       "num": 167693,
       "word": "斗罗大陆2燃魂集结海报",
       "onboard_time": 1729228520,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167271,
+      "num": 167271,
+      "word": "怎敌她千娇百媚",
+      "onboard_time": 1729231220,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1049,14 +1137,6 @@
       "onboard_time": 1729226481,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 156475,
-      "num": 156475,
-      "word": "不疼痛的乳腺结节更需警惕",
-      "onboard_time": 1729228759,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156427,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1729169602,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144429,
+      "num": 144429,
+      "word": "VOGUE上桌聊天",
+      "onboard_time": 1729232600,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142743,
@@ -1299,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128111,
+      "num": 205745,
+      "word": "95后研究员4个博士学位如何获得",
+      "onboard_time": 1729229961,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124025,
       "num": 138811,
       "word": "VOGUE盛典男明星",
@@ -1313,6 +1409,14 @@
       "onboard_time": 1729183514,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122999,
+      "num": 122999,
+      "word": "榜上佳婿真捉婿预告",
+      "onboard_time": 1729231942,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122324,
@@ -1353,6 +1457,14 @@
       "onboard_time": 1729213281,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116447,
+      "num": 116447,
+      "word": "杨子做饭",
+      "onboard_time": 1729232541,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 115608,
@@ -1403,14 +1515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 109475,
-      "num": 205745,
-      "word": "95后研究员4个博士学位如何获得",
-      "onboard_time": 1729229961,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108763,
       "num": 138605,
       "word": "陈祥榕母亲为问勇路揭牌",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1729154541,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103183,
+      "num": 123072,
+      "word": "让gala离开李姓试试",
+      "onboard_time": 1729230560,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 100671,
@@ -1531,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78692,
+      "num": 392780,
+      "word": "2人建群抢红包赚8万被判开设赌场",
+      "onboard_time": 1729231460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77730,
       "num": 447446,
       "word": "以总理回应哈马斯领导人被打死",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1729204574,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66189,
+      "num": 349096,
+      "word": "刘学义说吴谨言太疯了",
+      "onboard_time": 1729231942,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 65432,
@@ -1683,12 +1811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45333,
+      "num": 437366,
+      "word": "充电桩靠低额电价高额服务费收割用户",
+      "onboard_time": 1729231579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45167,
       "num": 565674,
       "word": "择机进一步降准0.25至0.5个百分点",
       "onboard_time": 1729224500,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39468,
+      "num": 160053,
+      "word": "刘雨昕来自原来那个人的深夜问候",
+      "onboard_time": 1729231641,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 38374,
@@ -1899,8 +2043,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15087,
-      "num": 147034,
+      "raw_hot": 15127,
+      "num": 179653,
       "word": "核能自嗨锅上架淘宝",
       "onboard_time": 1729229600,
       "rank": 44,
