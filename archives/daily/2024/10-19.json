@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729280144366,
+  "endTime": 1729283012524,
   "band_list": [
     {
       "raw_hot": 1624127,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57475,
+      "num": 57475,
+      "word": "去世5年的百岁教授捐款又到账了",
+      "onboard_time": 1729278312,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51903,
       "num": 51903,
       "word": "华晨宇刺激之夜火花舞台",
@@ -563,11 +571,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19195,
-      "num": 56014,
-      "word": "去世5年的百岁教授捐款又到账了",
-      "onboard_time": 1729278312,
-      "rank": 9,
+      "raw_hot": 15442,
+      "num": 28075,
+      "word": "追光的你",
+      "onboard_time": 1729281132,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10356,
+      "num": 19570,
+      "word": "光伏组件低于成本投标中标涉嫌违法",
+      "onboard_time": 1729280771,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10343,
+      "num": 28502,
+      "word": "毕业生被贴疫情班标签求职遭拒",
+      "onboard_time": 1729282931,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
