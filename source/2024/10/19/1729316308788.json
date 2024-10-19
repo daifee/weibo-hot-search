@@ -1,0 +1,410 @@
+{
+  "runTime": 1729316308788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248605,
+        "num": 1248605,
+        "word": "刷视频相认双胞胎姐妹称后悔相认",
+        "onboard_time": 1729305318,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714194,
+        "num": 714194,
+        "word": "央视曝有未成年沉迷花钱抽卡",
+        "onboard_time": 1729297339,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14897,
+        "num": 686892,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683191,
+        "num": 683191,
+        "word": "付航喜剧之王单口季总决赛冠军",
+        "onboard_time": 1729314379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646395,
+        "num": 646395,
+        "word": "张凌赫疑似失去所有的手段和力气",
+        "onboard_time": 1729311018,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 470824,
+        "num": 645364,
+        "word": "朝鲜称再次发现韩国放飞垃圾气球",
+        "onboard_time": 1729302858,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 645075,
+        "num": 645075,
+        "word": "奔跑吧一口气发了81张图",
+        "onboard_time": 1729311858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574814,
+        "num": 574814,
+        "word": "张真源晒白鹿拍的自己",
+        "onboard_time": 1729314439,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373582,
+        "num": 574224,
+        "word": "普京说美阻华发展犹如不让太阳升起",
+        "onboard_time": 1729310778,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69878,
+        "num": 561024,
+        "word": "家长称涉臭肉事件学校原口碑不错",
+        "onboard_time": 1729316238,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260472,
+        "num": 551309,
+        "word": "73岁张纪中再当爸",
+        "onboard_time": 1729307657,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904223,
+        "num": 539566,
+        "word": "男子嫖娼被罚自称是婚外情起诉警方",
+        "onboard_time": 1729312999,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759523,
+        "num": 532861,
+        "word": "叶珂称自己卖的衣服独one无two",
+        "onboard_time": 1729302560,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527817,
+        "num": 527817,
+        "word": "金鹰奖出席嘉宾官宣",
+        "onboard_time": 1729312579,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386313,
+        "num": 386313,
+        "word": "胡彦斌 不惯着杨子一点",
+        "onboard_time": 1729315878,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378985,
+        "num": 378985,
+        "word": "田曦薇无刘海大波浪",
+        "onboard_time": 1729303939,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 370154,
+        "num": 370154,
+        "word": "王一博赛车直播",
+        "onboard_time": 1729311618,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 184804,
+        "num": 312642,
+        "word": "白鹿 摄影师的一天",
+        "onboard_time": 1729315160,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292471,
+        "num": 292471,
+        "word": "湖北荆州市长周志红任上被查",
+        "onboard_time": 1729310118,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221859,
+        "num": 221859,
+        "word": "男童骑行遭碾身亡家属发声",
+        "onboard_time": 1729315938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302686,
+        "num": 221256,
+        "word": "5旬大爷恋爱后吃10多种壮阳药进医院",
+        "onboard_time": 1729310059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288939,
+        "num": 220617,
+        "word": "听泉鉴宝直播带货一晚卖出750万元",
+        "onboard_time": 1729313900,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219031,
+        "num": 219031,
+        "word": "刘诗诗刘冲杨幂刘亦菲朱珠合照",
+        "onboard_time": 1729313838,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202123,
+        "num": 202123,
+        "word": "臭肉学校家委会曾多次提食材问题",
+        "onboard_time": 1729312279,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202655,
+        "num": 200919,
+        "word": "男子一年多开车碰瓷222次",
+        "onboard_time": 1729308140,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197741,
+        "num": 197741,
+        "word": "博主花3886买叶珂衣服后吐槽稀碎",
+        "onboard_time": 1729297456,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194320,
+        "num": 194320,
+        "word": "原来潘展乐也有抢票烦恼",
+        "onboard_time": 1729311499,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184407,
+        "num": 184407,
+        "word": "6部门联合调查臭肉事件",
+        "onboard_time": 1729311198,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179845,
+        "num": 179845,
+        "word": "黄圣依 原来她们还可以这样生活",
+        "onboard_time": 1729312040,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169219,
+        "num": 169219,
+        "word": "没认出来这是费曼",
+        "onboard_time": 1729300698,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170616,
+        "num": 168823,
+        "word": "杨子藏手机",
+        "onboard_time": 1729308919,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166873,
+        "num": 166873,
+        "word": "你好星期六全员班味十足",
+        "onboard_time": 1729305139,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165580,
+        "num": 165580,
+        "word": "林依轮 拿了两块金牌骨折了15天",
+        "onboard_time": 1729315878,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165073,
+        "num": 165073,
+        "word": "纪凌尘回应只能牵我手",
+        "onboard_time": 1729315700,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162220,
+        "num": 162220,
+        "word": "布朗尼首发",
+        "onboard_time": 1729315820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152884,
+        "num": 152884,
+        "word": "用户称华为把手机从聋子修成哑巴",
+        "onboard_time": 1729312459,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148461,
+        "num": 148461,
+        "word": "如鸢",
+        "onboard_time": 1729315820,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144242,
+        "num": 144242,
+        "word": "被烧伤妈妈在ICU看到宝宝时安心了",
+        "onboard_time": 1729298839,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138609,
+        "num": 138609,
+        "word": "王一博珠海赛车现场人气",
+        "onboard_time": 1729313959,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 138584,
+        "num": 138584,
+        "word": "金莎22年后又演白月光",
+        "onboard_time": 1729313959,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39167,
+        "num": 138456,
+        "word": "vivoX200系列销售额创20亿新高",
+        "onboard_time": 1729310717,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51410,
+        "num": 138430,
+        "word": "和平精英代言人四排吃鸡",
+        "onboard_time": 1729310717,
+        "rank": 41,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 138427,
+        "num": 138427,
+        "word": "安徽淮南市潘集区火灾已致7死",
+        "onboard_time": 1729314499,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133156,
+        "num": 133156,
+        "word": "于祥宇 歪嘴有冠军相",
+        "onboard_time": 1729311980,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130529,
+        "num": 130529,
+        "word": "好想像马天宇这样不管不顾的活一次",
+        "onboard_time": 1729312218,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128835,
+        "num": 128835,
+        "word": "迪丽热巴新剧淋浴镜头",
+        "onboard_time": 1729312218,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8640,
+        "num": 126826,
+        "word": "收到现货的快乐谁懂啊",
+        "onboard_time": 1729316058,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126279,
+        "num": 126279,
+        "word": "徐璐晚上不吃麻辣烫会得心病",
+        "onboard_time": 1729305918,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125887,
+        "num": 125887,
+        "word": "勇士季前赛全胜",
+        "onboard_time": 1729316179,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116047,
+        "num": 116047,
+        "word": "好团圆一部剧三个爽文女主",
+        "onboard_time": 1729314978,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻桐城文脉悠长#"
+    }
+  }
+}
