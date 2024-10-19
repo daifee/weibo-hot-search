@@ -1,0 +1,410 @@
+{
+  "runTime": 1729348676606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204128,
+        "num": 1204128,
+        "word": "央视曝光证书挂靠陷阱",
+        "onboard_time": 1729344740,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959868,
+        "num": 959868,
+        "word": "29岁自律女生在村里高能量的一天",
+        "onboard_time": 1729345942,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6886,
+        "num": 884407,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849829,
+        "num": 849829,
+        "word": "覃海洋破亚洲纪录夺冠",
+        "onboard_time": 1729339219,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 821817,
+        "num": 821817,
+        "word": "王多多怒喷TES",
+        "onboard_time": 1729346842,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 774273,
+        "num": 774273,
+        "word": "TES 零封",
+        "onboard_time": 1729346301,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 600214,
+        "num": 600214,
+        "word": "潘展乐100自摘银",
+        "onboard_time": 1729339578,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571740,
+        "num": 571740,
+        "word": "披荆斩棘总决赛",
+        "onboard_time": 1729343958,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462206,
+        "num": 462206,
+        "word": "韩称朝鲜士兵将投入俄乌作战前线",
+        "onboard_time": 1729345159,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 342536,
+        "num": 342536,
+        "word": "多名家长称反映臭肉问题被威胁",
+        "onboard_time": 1729330100,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984393,
+        "num": 336770,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 628265,
+        "num": 336076,
+        "word": "美国脑死亡男子捐赠器官手术中苏醒",
+        "onboard_time": 1729329200,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390858,
+        "num": 334379,
+        "word": "昆明学校食堂臭肉事件检测结果已出",
+        "onboard_time": 1729339279,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325193,
+        "num": 325193,
+        "word": "应采儿回应生三胎",
+        "onboard_time": 1729330399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22512,
+        "num": 318330,
+        "word": "HR更改员工信息侵占公司70万",
+        "onboard_time": 1729347081,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314214,
+        "num": 314214,
+        "word": "TES对战T1",
+        "onboard_time": 1729338320,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295195,
+        "num": 295195,
+        "word": "RIIZE上海外滩",
+        "onboard_time": 1729345821,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293903,
+        "num": 293903,
+        "word": "张雪峰回应伍佰被说猥琐",
+        "onboard_time": 1729326679,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144563,
+        "num": 293045,
+        "word": "SNH48 网络好的太不是时候了",
+        "onboard_time": 1729348521,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23559,
+        "num": 282577,
+        "word": "别让孩子安全是重中之重成一句口号",
+        "onboard_time": 1729347500,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125871,
+        "num": 275147,
+        "word": "学生遭老师性侵怀孕19周流产",
+        "onboard_time": 1729344681,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639586,
+        "num": 266812,
+        "word": "何猷君奚梦瑶带娃逛迪士尼",
+        "onboard_time": 1729343779,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301310,
+        "num": 257500,
+        "word": "樊振东胸前的金牌在闪光",
+        "onboard_time": 1729346720,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252947,
+        "num": 252947,
+        "word": "付航call back",
+        "onboard_time": 1729328840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247647,
+        "num": 247647,
+        "word": "杨子 不能她好了我和巨力不好",
+        "onboard_time": 1729316660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72053,
+        "num": 246164,
+        "word": "臭肉涉事学校食堂之前承包给小公司",
+        "onboard_time": 1729346720,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288335,
+        "num": 245586,
+        "word": "付航现场公布已婚",
+        "onboard_time": 1729320737,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244961,
+        "num": 244961,
+        "word": "骗子说花几千办证书就能赚几万元",
+        "onboard_time": 1729346061,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227829,
+        "num": 227829,
+        "word": "金钟奖",
+        "onboard_time": 1729348042,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219436,
+        "num": 222540,
+        "word": "林依晨郑元畅同台颁奖",
+        "onboard_time": 1729347740,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221653,
+        "num": 221653,
+        "word": "滔搏 bp",
+        "onboard_time": 1729343240,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205389,
+        "num": 205389,
+        "word": "火车票纸质报销凭证将成历史",
+        "onboard_time": 1729329739,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204723,
+        "num": 204723,
+        "word": "滔搏 人机局",
+        "onboard_time": 1729348101,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203981,
+        "num": 203981,
+        "word": "鹭卓直播",
+        "onboard_time": 1729347920,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196871,
+        "num": 196871,
+        "word": "付航 总有人会爱你",
+        "onboard_time": 1729336399,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193652,
+        "num": 193652,
+        "word": "杨紫晒照给李现庆生",
+        "onboard_time": 1729332021,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192000,
+        "num": 192000,
+        "word": "杨子签约的艺人",
+        "onboard_time": 1729330279,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191786,
+        "num": 191786,
+        "word": "0比15",
+        "onboard_time": 1729347740,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183797,
+        "num": 183797,
+        "word": "韩国一份拌饭均价57元人民币",
+        "onboard_time": 1729332078,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182489,
+        "num": 182489,
+        "word": "黑灯发文",
+        "onboard_time": 1729333160,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182030,
+        "num": 182030,
+        "word": "樊振东说既然参赛就一定会全力以赴",
+        "onboard_time": 1729348281,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179791,
+        "num": 179791,
+        "word": "王一博手忙脚乱开香槟",
+        "onboard_time": 1729343300,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178440,
+        "num": 178440,
+        "word": "胡夏X Fire",
+        "onboard_time": 1729348340,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176712,
+        "num": 176712,
+        "word": "14岁女孩遭辅导班老师性侵两年",
+        "onboard_time": 1729345942,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 166736,
+        "word": "中国人将在月球用榫卯工艺盖房",
+        "onboard_time": 1729331180,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159378,
+        "num": 159378,
+        "word": "朴彩英流媒",
+        "onboard_time": 1729348581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159331,
+        "num": 159331,
+        "word": "张杰演唱会",
+        "onboard_time": 1729348460,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153653,
+        "num": 153653,
+        "word": "周深声音河流主题曲演唱",
+        "onboard_time": 1729348400,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150401,
+        "num": 150401,
+        "word": "赵丽颖出发金鹰节",
+        "onboard_time": 1729341200,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148639,
+        "num": 148639,
+        "word": "林俊杰魏如萱合唱",
+        "onboard_time": 1729344140,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻桐城文脉悠长#"
+    }
+  }
+}
