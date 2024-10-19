@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 07:35:22
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 09:40:40
 </p>
 </blockquote>
 <p>
@@ -1061,6 +1061,12 @@ papi酱问黄圣依杨子是演的还是真的（热度：1817648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E7%9F%AD%E5%89%A7%E5%B7%B2%E7%BB%8F%E7%96%AF%E4%BA%86%23" target="weibo">
 国产短剧已经疯了（热度：1692193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%9C%89%E6%9C%AA%E6%88%90%E5%B9%B4%E6%B2%89%E8%BF%B7%E8%8A%B1%E9%92%B1%E6%8A%BD%E5%8D%A1%23" target="weibo">
+央视曝有未成年沉迷花钱抽卡（热度：1688869）
 </a>
 </li>
 
@@ -3225,6 +3231,12 @@ SEVENTEEN演唱会着火（热度：981986）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%82%A3%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%8D%95%E4%BA%B2%E7%88%B8%E7%88%B8%E4%B8%80%E5%A4%9C%E7%99%BD%E5%A4%B4%23" target="weibo">
+女儿患红斑狼疮单亲爸爸一夜白头（热度：969531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%B9%A4%E5%A5%B6%E7%B2%89%23" target="weibo">
 飞鹤奶粉（热度：966190）
 </a>
@@ -3467,12 +3479,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%E5%81%9C%E6%9B%B4%23" target="weibo">
 秦霄贤常驻综艺停更（热度：924305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%82%A3%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%8D%95%E4%BA%B2%E7%88%B8%E7%88%B8%E4%B8%80%E5%A4%9C%E7%99%BD%E5%A4%B4%23" target="weibo">
-女儿患红斑狼疮单亲爸爸一夜白头（热度：923179）
 </a>
 </li>
 
@@ -3899,6 +3905,12 @@ K总回应恋情（热度：872466）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%23" target="weibo">
 央行（热度：853137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E8%8A%B13886%E4%B9%B0%E5%8F%B6%E7%8F%82%E8%A1%A3%E6%9C%8D%E5%90%8E%E5%90%90%E6%A7%BD%E7%A8%80%E7%A2%8E%23" target="weibo">
+博主花3886买叶珂衣服后吐槽稀碎（热度：852830）
 </a>
 </li>
 
@@ -5043,6 +5055,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%A2%AB%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%94%BB%E5%87%BB%23" target="weibo">
+字节跳动大模型训练被实习生攻击（热度：733981）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E8%8D%AF%E5%BA%97%E8%A7%81%E6%A3%80%E6%9F%A5%E6%9D%A5%E7%B4%A7%E6%80%A5%E4%B8%8D%E5%8D%96%E8%8D%AF%E4%BA%86%23" target="weibo">
 哈尔滨一药店见检查来紧急不卖药了（热度：733512）
 </a>
@@ -5291,6 +5309,12 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91cue%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
 花少cue王楚钦孙颖莎（热度：708407）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%88%E7%9D%A1%E8%B6%85%E4%B8%80%E5%B0%8F%E6%97%B6%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9%E5%A2%9E%E5%8A%A030%25%23" target="weibo">
+午睡超一小时死亡风险增加30%（热度：708247）
 </a>
 </li>
 
@@ -5931,6 +5955,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A6%88%E5%A6%88%E5%9C%A8ICU%E7%9C%8B%E5%88%B0%E5%AE%9D%E5%AE%9D%E6%97%B6%E5%AE%89%E5%BF%83%E4%BA%86%23" target="weibo">
+被烧伤妈妈在ICU看到宝宝时安心了（热度：647524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%941%E9%98%BF%E6%8B%89%E7%B1%B3%E6%89%AC%23" target="weibo">
 王楚钦3比1阿拉米扬（热度：647149）
 </a>
@@ -5945,6 +5975,12 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8D%E4%BD%B0%E7%9A%84%E6%AD%8C%23" target="weibo">
 伍佰的歌（热度：646459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E8%BF%99%E6%98%AF%E8%B4%B9%E6%9B%BC%23" target="weibo">
+没认出来这是费曼（热度：645121）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ B太回应曾夸东北雨姐真实（热度：649327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854700%E4%BA%BF%23" target="weibo">
 特斯拉市值一夜蒸发超4700亿（热度：642305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%91%E5%8D%9A%23" target="weibo">
-王一博发博（热度：642284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%AE%9A%E9%87%91%23" target="weibo">
-双十一定金（热度：640976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%86%9B%E5%BC%80%E6%9E%AA%E8%AD%A6%E5%91%8A%E5%B0%84%E5%87%BB%23" target="weibo">
-韩军开枪警告射击（热度：640895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%8E%8B%E6%AC%A3%E7%91%9C%23" target="weibo">
-郑钦文vs王欣瑜（热度：640470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%86%9B%E6%96%B9%E4%B8%8B%E8%BE%BE%E7%81%AB%E5%8A%9B%E5%BE%85%E5%91%BD%E6%8C%87%E5%8D%97%23" target="weibo">
-韩国军方下达火力待命指南（热度：640429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%82%A1%E7%AA%81%E5%8F%98%23" target="weibo">
-港股突变（热度：639876）
 </a>
 </li>
 

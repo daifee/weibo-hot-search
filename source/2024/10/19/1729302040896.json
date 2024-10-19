@@ -1,0 +1,410 @@
+{
+  "runTime": 1729302040896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1688869,
+        "num": 1688869,
+        "word": "央视曝有未成年沉迷花钱抽卡",
+        "onboard_time": 1729297339,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969531,
+        "num": 969531,
+        "word": "女儿患红斑狼疮单亲爸爸一夜白头",
+        "onboard_time": 1729292654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4148,
+        "num": 765044,
+        "word": "从先行指标看四季度经济走势",
+        "onboard_time": 1729256659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647524,
+        "num": 647524,
+        "word": "被烧伤妈妈在ICU看到宝宝时安心了",
+        "onboard_time": 1729298839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366259,
+        "num": 366259,
+        "word": "初中生突然倒地老师用AED救回",
+        "onboard_time": 1729294936,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 353467,
+        "num": 353467,
+        "word": "刘亦菲章小蕙 玫瑰见到了玫瑰",
+        "onboard_time": 1729261100,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342016,
+        "num": 342016,
+        "word": "68岁大爷拍网剧最多日入五六百元",
+        "onboard_time": 1729291333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341878,
+        "num": 341878,
+        "word": "以方公布辛瓦尔被打死前影像",
+        "onboard_time": 1729261041,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197606,
+        "num": 341576,
+        "word": "黄圣依 杨子",
+        "onboard_time": 1729257524,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201631,
+        "num": 339761,
+        "word": "朝方公布韩国无人机残骸",
+        "onboard_time": 1729300879,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 852830,
+        "num": 337692,
+        "word": "博主花3886买叶珂衣服后吐槽稀碎",
+        "onboard_time": 1729297456,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733981,
+        "num": 335814,
+        "word": "字节跳动大模型训练被实习生攻击",
+        "onboard_time": 1729295537,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645121,
+        "num": 333981,
+        "word": "没认出来这是费曼",
+        "onboard_time": 1729300698,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558293,
+        "num": 333264,
+        "word": "睡醒就喊老婆没钱立马拉黑",
+        "onboard_time": 1729257021,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498228,
+        "num": 330941,
+        "word": "潘展乐说原本想破汪顺纪录",
+        "onboard_time": 1729299499,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475451,
+        "num": 330189,
+        "word": "医生50秒从宝宝耳朵里掏出一颗黄钻",
+        "onboard_time": 1729262661,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306725,
+        "num": 327728,
+        "word": "听泉赏宝",
+        "onboard_time": 1729262421,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449547,
+        "num": 326893,
+        "word": "被害女幼师曾向凶手求饶",
+        "onboard_time": 1729261159,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396640,
+        "num": 324510,
+        "word": "黄圣依修养",
+        "onboard_time": 1729301838,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154463,
+        "num": 323911,
+        "word": "张杰晒谢娜拍的vlog",
+        "onboard_time": 1729300998,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708247,
+        "num": 322619,
+        "word": "午睡超一小时死亡风险增加30%",
+        "onboard_time": 1729298478,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415909,
+        "num": 321071,
+        "word": "江西一家三口被撞身亡案司机被批捕",
+        "onboard_time": 1729295356,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388327,
+        "num": 318813,
+        "word": "刘学义 怎么老往不干净的地方打",
+        "onboard_time": 1729283590,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317999,
+        "num": 317999,
+        "word": "臭肉学校董事长无视最后提问插兜离席",
+        "onboard_time": 1729302019,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214072,
+        "num": 214072,
+        "word": "千万奖金被冒领后男子维权了5年",
+        "onboard_time": 1729272915,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188499,
+        "num": 188499,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "这种装扮游故宫到底是谁不尊重谁",
+        "onboard_time": 1729269317,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175719,
+        "num": 175719,
+        "word": "张真源每天督促沙溢减肥",
+        "onboard_time": 1729272915,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174400,
+        "num": 174400,
+        "word": "35岁小伙筋膜枪按摩颈部诱发脑梗死",
+        "onboard_time": 1729263861,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173899,
+        "num": 173899,
+        "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
+        "onboard_time": 1729276393,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155461,
+        "num": 155461,
+        "word": "鹿晗乱丢烟头",
+        "onboard_time": 1729233622,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148165,
+        "num": 148165,
+        "word": "女子买四季豆检测笔一照蓝盈盈",
+        "onboard_time": 1729294276,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142354,
+        "num": 142354,
+        "word": "美国承认为打死辛瓦尔提供情报支持",
+        "onboard_time": 1729256361,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137797,
+        "num": 137797,
+        "word": "内娱三大忍者",
+        "onboard_time": 1729253179,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116566,
+        "num": 136791,
+        "word": "小S再次错失金钟奖",
+        "onboard_time": 1729264999,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136716,
+        "num": 136716,
+        "word": "杨子 NPD",
+        "onboard_time": 1729272496,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130986,
+        "num": 130986,
+        "word": "辛瓦尔接任哈马斯领导人至死亡仅72天",
+        "onboard_time": 1729300639,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115352,
+        "num": 115352,
+        "word": "辛瓦尔遇袭身亡全过程还原",
+        "onboard_time": 1729295055,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112442,
+        "num": 112442,
+        "word": "许凯田曦薇新剧相爱相杀",
+        "onboard_time": 1729298238,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111745,
+        "num": 111745,
+        "word": "95岁老人向儿子隔空点单可乐走红",
+        "onboard_time": 1729292535,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110530,
+        "num": 110530,
+        "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+        "onboard_time": 1729289121,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110139,
+        "num": 110139,
+        "word": "伊朗强烈谴责以色列杀害哈马斯领导人",
+        "onboard_time": 1729298117,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87606,
+        "num": 110114,
+        "word": "要对得起五星红旗要保证万万万万万无一失",
+        "onboard_time": 1729296438,
+        "rank": 42,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 111839,
+        "num": 109848,
+        "word": "宋茜虞书欣田曦薇红毯生图",
+        "onboard_time": 1729263920,
+        "rank": 43,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 85071,
+        "num": 109690,
+        "word": "潘展乐采访后抢记者话筒宣布下班",
+        "onboard_time": 1729299559,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82197,
+        "num": 109361,
+        "word": "新疆真实存在过的女儿国",
+        "onboard_time": 1729258522,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 77063,
+        "num": 109249,
+        "word": "留几手 杨子是个懂王",
+        "onboard_time": 1729301778,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75272,
+        "num": 109031,
+        "word": "赵晓卉谈脱口秀现状",
+        "onboard_time": 1729295838,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76325,
+        "num": 108782,
+        "word": "麦琳 全职妈妈的不配得感",
+        "onboard_time": 1729298478,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70406,
+        "num": 108483,
+        "word": "BLG晋级S14四强",
+        "onboard_time": 1729266022,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#高新技术是讨不来要不来的#"
+    }
+  }
+}
