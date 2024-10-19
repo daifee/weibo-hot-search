@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729362479211,
+  "endTime": 1729363287624,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -46595,6 +46595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97306,
+      "num": 97306,
+      "word": "张子墨 恩静大少爷",
+      "onboard_time": 1729360694,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97203,
       "num": 97203,
       "word": "文化中国行感受非遗魅力",
@@ -48457,14 +48465,6 @@
       "onboard_time": 1728511213,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 82123,
-      "num": 82123,
-      "word": "张子墨 恩静大少爷",
-      "onboard_time": 1729360694,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 82062,
@@ -51955,6 +51955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 50584,
+      "num": 50584,
+      "word": "女性脱口秀",
+      "onboard_time": 1729360754,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50499,
       "num": 489338,
       "word": "美联储会暂停降息吗",
@@ -52281,14 +52289,6 @@
       "onboard_time": 1729239920,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49119,
-      "num": 49119,
-      "word": "女性脱口秀",
-      "onboard_time": 1729360754,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 49105,
@@ -54051,6 +54051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38212,
+      "num": 38212,
+      "word": "魏大勋亮相Moncler大秀",
+      "onboard_time": 1729362313,
+      "rank": 47,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 38160,
       "num": 384991,
       "word": "律师称饭店强制收取餐具费涉违法",
@@ -54753,14 +54761,6 @@
       "onboard_time": 1728613578,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34675,
-      "num": 34675,
-      "word": "魏大勋亮相Moncler大秀",
-      "onboard_time": 1729362313,
-      "rank": 47,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 34674,
@@ -55489,6 +55489,14 @@
       "onboard_time": 1729195571,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31293,
+      "num": 31293,
+      "word": "王一博GT3赛车比赛精彩镜头",
+      "onboard_time": 1729363273,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 31290,
@@ -58363,6 +58371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16584,
+      "num": 48699,
+      "word": "加沙民众寒冬只能挤在临时帐篷里",
+      "onboard_time": 1729361893,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16570,
       "num": 381175,
       "word": "相关部门证实颜料师皮划艇视频为水库",
@@ -58707,6 +58723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14042,
+      "num": 102580,
+      "word": "深圳一楼盘超2000人抢192套房",
+      "onboard_time": 1729362854,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13857,
       "num": 202773,
       "word": "江慈的爱永远拿得出手",
@@ -58817,14 +58841,6 @@
       "onboard_time": 1729107013,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 13074,
-      "num": 48699,
-      "word": "加沙民众寒冬只能挤在临时帐篷里",
-      "onboard_time": 1729361893,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 13047,
