@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729356151568,
+  "endTime": 1729358347213,
   "band_list": [
     {
       "raw_hot": 1219719,
@@ -9,6 +9,14 @@
       "onboard_time": 1729351039,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1081015,
+      "num": 1081015,
+      "word": "覃海洋说feelnothing",
+      "onboard_time": 1729353079,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 838714,
@@ -25,14 +33,6 @@
       "onboard_time": 1729351760,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 789729,
-      "num": 789729,
-      "word": "覃海洋说feelnothing",
-      "onboard_time": 1729353079,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 767687,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290491,
+      "num": 290491,
+      "word": "唐香玉晒与王嘉尔合照",
+      "onboard_time": 1729355179,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288055,
       "num": 360824,
       "word": "SNH48 网络好的太不是时候了",
@@ -211,16 +219,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204543,
-      "num": 204543,
-      "word": "唐香玉晒与王嘉尔合照",
-      "onboard_time": 1729355179,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 209477,
+      "num": 241485,
+      "word": "杨贵媚二封视后",
+      "onboard_time": 1729356916,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 202029,
-      "num": 202029,
+      "num": 237836,
       "word": "付航 总有人会爱你",
       "onboard_time": 1729336399,
       "rank": 27,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141876,
+      "num": 410970,
+      "word": "被2000年前的化妆盒种草了",
+      "onboard_time": 1729355298,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137689,
       "num": 137689,
       "word": "樊振东胸前的金牌在闪光",
@@ -313,6 +329,14 @@
       "onboard_time": 1729349603,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132876,
+      "num": 132876,
+      "word": "安徽六尺巷给朱广权排了班表",
+      "onboard_time": 1729356617,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131930,
@@ -395,12 +419,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76024,
-      "num": 410970,
-      "word": "被2000年前的化妆盒种草了",
-      "onboard_time": 1729355298,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 79482,
+      "num": 79482,
+      "word": "对跖点",
+      "onboard_time": 1729357516,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 73473,
@@ -409,6 +433,14 @@
       "onboard_time": 1729355717,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24618,
+      "num": 294449,
+      "word": "打网约车送神秘包裹司机果断报警",
+      "onboard_time": 1729357875,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5590,
