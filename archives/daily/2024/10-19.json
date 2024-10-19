@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729337767235,
+  "endTime": 1729341582648,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -49,6 +49,14 @@
       "onboard_time": 1729320737,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1801813,
+      "num": 1801813,
+      "word": "潘展乐100自摘银",
+      "onboard_time": 1729339578,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1723249,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622067,
+      "num": 292147,
+      "word": "覃海洋破亚洲纪录夺冠",
+      "onboard_time": 1729339219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621286,
       "num": 361549,
       "word": "刘诗诗粉底",
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527328,
+      "num": 312622,
+      "word": "应采儿回应生三胎",
+      "onboard_time": 1729330399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510624,
       "num": 286474,
       "word": "迪丽热巴贝雷帽look",
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440543,
-      "num": 312622,
-      "word": "应采儿回应生三胎",
-      "onboard_time": 1729330399,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440098,
       "num": 440098,
       "word": "姜潮麦迪娜录了情感旅综",
@@ -624,6 +640,14 @@
       "word": "林高远 到了自洽的阶段",
       "onboard_time": 1729324160,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 430270,
+      "num": 430270,
+      "word": "覃海洋50蛙冠军",
+      "onboard_time": 1729338620,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -641,6 +665,14 @@
       "onboard_time": 1729295356,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412757,
+      "num": 412757,
+      "word": "吴谨言跳苹果香",
+      "onboard_time": 1729335560,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 400135,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307608,
+      "num": 275321,
+      "word": "王励勤和樊振东许昕握手",
+      "onboard_time": 1729335979,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305356,
       "num": 433162,
       "word": "男童骑行遭碾压家属称后悔让他学车",
@@ -833,14 +873,6 @@
       "onboard_time": 1729334239,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280267,
-      "num": 189441,
-      "word": "王励勤和樊振东许昕握手",
-      "onboard_time": 1729335979,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 278184,
@@ -939,14 +971,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 226982,
-      "num": 226982,
-      "word": "吴谨言跳苹果香",
-      "onboard_time": 1729335560,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226844,
       "num": 226844,
       "word": "许昕vs徐瑛彬",
@@ -1027,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214048,
+      "num": 214048,
+      "word": "黄晓明回青岛一中参加百年校庆",
+      "onboard_time": 1729336699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213673,
       "num": 213673,
       "word": "安卓机还有必要换iPhone吗",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1729326499,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210454,
+      "num": 300028,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208972,
@@ -1147,6 +1187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196496,
+      "num": 196496,
+      "word": "TES对战T1",
+      "onboard_time": 1729338320,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195067,
+      "num": 195067,
+      "word": "唐钱婷100蛙夺金",
+      "onboard_time": 1729340659,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194865,
       "num": 200995,
       "word": "李现直播状态",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1729333219,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "谁要和你做兄妹名场面",
+      "onboard_time": 1729338380,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 184966,
@@ -1355,12 +1419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174900,
+      "num": 174900,
+      "word": "马尔尚夺冠",
+      "onboard_time": 1729341079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174462,
       "num": 561024,
       "word": "家长称涉臭肉事件学校原口碑不错",
       "onboard_time": 1729316238,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172016,
+      "num": 172016,
+      "word": "英雄联盟",
+      "onboard_time": 1729341020,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 171977,
@@ -1451,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161533,
+      "num": 192396,
+      "word": "汪顺200米混合泳第四",
+      "onboard_time": 1729337599,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161477,
       "num": 161477,
       "word": "布朗尼17分",
@@ -1496,6 +1584,14 @@
       "word": "金莎22年后又演白月光",
       "onboard_time": 1729313959,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159766,
+      "num": 159766,
+      "word": "赵丽颖出发金鹰节",
+      "onboard_time": 1729341200,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1627,6 +1723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145142,
+      "num": 145142,
+      "word": "锦绣安宁",
+      "onboard_time": 1729340359,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145019,
       "num": 145019,
       "word": "LPL提前锁定S14决赛",
@@ -1659,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143256,
+      "num": 143256,
+      "word": "真要觉得青山刚昌是故意的了",
+      "onboard_time": 1729339818,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 142606,
       "num": 142606,
       "word": "Gr对战FPX.ZQ",
@@ -1689,6 +1801,14 @@
       "onboard_time": 1729321879,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "黑灯 学的仁义礼智信",
+      "onboard_time": 1729340780,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 138734,
@@ -1755,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133493,
+      "num": 133493,
+      "word": "真实的产后状态是怎样的",
+      "onboard_time": 1729339460,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 132965,
       "num": 132965,
       "word": "多兰",
@@ -1771,6 +1899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "WBG获胜",
+      "onboard_time": 1729341378,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130986,
       "num": 262851,
       "word": "辛瓦尔接任哈马斯领导人至死亡仅72天",
@@ -1785,6 +1921,14 @@
       "onboard_time": 1729312218,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129214,
+      "num": 129214,
+      "word": "崔然竣上海活动",
+      "onboard_time": 1729341440,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 128952,
@@ -1939,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117381,
+      "num": 117381,
+      "word": "厂长解说",
+      "onboard_time": 1729340659,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116582,
       "num": 116582,
       "word": "赵露思秋日OOTD",
@@ -1947,8 +2099,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116155,
-      "num": 116155,
+      "raw_hot": 116248,
+      "num": 116248,
       "word": "张博恒说夺金的决心还在",
       "onboard_time": 1729336699,
       "rank": 45,
@@ -2043,6 +2195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 111284,
+      "num": 111284,
+      "word": "春花焰男主装瘸七年",
+      "onboard_time": 1729338860,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111181,
       "num": 111181,
       "word": "安徽淮南火灾致9人遇难",
@@ -2096,6 +2256,14 @@
       "word": "月壤砖抗压强度是普通砖头的3倍以上",
       "onboard_time": 1729336640,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107240,
+      "num": 107240,
+      "word": "白鹭站在水牛背上画面不要太美",
+      "onboard_time": 1729338860,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2355,14 +2523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51887,
-      "num": 211897,
-      "word": "黄晓明回青岛一中参加百年校庆",
-      "onboard_time": 1729336699,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50613,
       "num": 62212,
       "word": "伊朗称辛瓦尔之死将强化抵抗精神",
@@ -2484,7 +2644,7 @@
     },
     {
       "raw_hot": 30462,
-      "num": 113549,
+      "num": 217173,
       "word": "和平精英穿的越粉打架越狠",
       "onboard_time": 1729337599,
       "rank": 46,
@@ -2545,6 +2705,14 @@
       "onboard_time": 1729306939,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26556,
+      "num": 129422,
+      "word": "和平精英一个巨大的老六班子",
+      "onboard_time": 1729341319,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 26296,
@@ -2673,14 +2841,6 @@
       "onboard_time": 1729323258,
       "rank": 2,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 7997,
-      "num": 192396,
-      "word": "汪顺200米混合泳第四",
-      "onboard_time": 1729337599,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 5756,

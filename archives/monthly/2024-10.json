@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729337767235,
+  "endTime": 1729341582648,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1729222038,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1801813,
+      "num": 1801813,
+      "word": "潘展乐100自摘银",
+      "onboard_time": 1729339578,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1798923,
@@ -8675,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622067,
+      "num": 292147,
+      "word": "覃海洋破亚洲纪录夺冠",
+      "onboard_time": 1729339219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 621552,
       "num": 621552,
       "word": "A股逼近涨停开盘",
@@ -10488,6 +10504,14 @@
       "word": "杨紫晒照给李现庆生",
       "onboard_time": 1729332021,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 527328,
+      "num": 312622,
+      "word": "应采儿回应生三胎",
+      "onboard_time": 1729330399,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -12611,14 +12635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440543,
-      "num": 312622,
-      "word": "应采儿回应生三胎",
-      "onboard_time": 1729330399,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440098,
       "num": 440098,
       "word": "姜潮麦迪娜录了情感旅综",
@@ -12865,6 +12881,14 @@
       "onboard_time": 1728832281,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430270,
+      "num": 430270,
+      "word": "覃海洋50蛙冠军",
+      "onboard_time": 1729338620,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 429393,
@@ -13345,6 +13369,14 @@
       "onboard_time": 1728483920,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412757,
+      "num": 412757,
+      "word": "吴谨言跳苹果香",
+      "onboard_time": 1729335560,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 412321,
@@ -17163,6 +17195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307608,
+      "num": 275321,
+      "word": "王励勤和樊振东许昕握手",
+      "onboard_time": 1729335979,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307597,
       "num": 307597,
       "word": "孟子义张予曦合体上综艺",
@@ -18833,14 +18873,6 @@
       "onboard_time": 1728032058,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280267,
-      "num": 189441,
-      "word": "王励勤和樊振东许昕握手",
-      "onboard_time": 1729335979,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 280180,
@@ -22883,14 +22915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226982,
-      "num": 226982,
-      "word": "吴谨言跳苹果香",
-      "onboard_time": 1729335560,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226959,
       "num": 226959,
       "word": "孙颖莎王艺迪晋级8强",
@@ -24387,6 +24411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214048,
+      "num": 214048,
+      "word": "黄晓明回青岛一中参加百年校庆",
+      "onboard_time": 1729336699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213909,
       "num": 213909,
       "word": "拜登祝贺以军打死辛瓦尔",
@@ -24833,6 +24865,14 @@
       "onboard_time": 1727743398,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210454,
+      "num": 300028,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210427,
@@ -27827,6 +27867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195067,
+      "num": 195067,
+      "word": "唐钱婷100蛙夺金",
+      "onboard_time": 1729340659,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195053,
       "num": 522216,
       "word": "时装周最热艺人前二十",
@@ -29803,6 +29851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "谁要和你做兄妹名场面",
+      "onboard_time": 1729338380,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186051,
       "num": 186051,
       "word": "林高远刘诗雯晋级混双决赛",
@@ -31675,6 +31731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174900,
+      "num": 174900,
+      "word": "马尔尚夺冠",
+      "onboard_time": 1729341079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174862,
       "num": 174862,
       "word": "突然发现自己的语言能力退化了",
@@ -32185,6 +32249,14 @@
       "onboard_time": 1728651981,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172016,
+      "num": 172016,
+      "word": "英雄联盟",
+      "onboard_time": 1728822260,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 171995,
@@ -34155,6 +34227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161533,
+      "num": 192396,
+      "word": "汪顺200米混合泳第四",
+      "onboard_time": 1729337599,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161530,
       "num": 161530,
       "word": "狼队对战EDGM",
@@ -34440,6 +34520,14 @@
       "word": "金莎22年后又演白月光",
       "onboard_time": 1729313959,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159766,
+      "num": 159766,
+      "word": "赵丽颖出发金鹰节",
+      "onboard_time": 1729341200,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -37435,6 +37523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145142,
+      "num": 286604,
+      "word": "锦绣安宁",
+      "onboard_time": 1728557419,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145107,
       "num": 145107,
       "word": "拜登称DNA检测证明辛瓦尔已死",
@@ -37867,6 +37963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 143256,
+      "num": 143256,
+      "word": "真要觉得青山刚昌是故意的了",
+      "onboard_time": 1729339818,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 143171,
       "num": 143171,
       "word": "justsu直拍",
@@ -38017,14 +38121,6 @@
       "onboard_time": 1728532219,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142731,
-      "num": 142731,
-      "word": "英雄联盟",
-      "onboard_time": 1728822260,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 142704,
@@ -38657,6 +38753,14 @@
       "onboard_time": 1727839518,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "黑灯 学的仁义礼智信",
+      "onboard_time": 1729340780,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 139347,
@@ -39843,6 +39947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133493,
+      "num": 133493,
+      "word": "真实的产后状态是怎样的",
+      "onboard_time": 1729339460,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 133450,
       "num": 133450,
       "word": "林钟勋安宰贤亚锦赛夺冠",
@@ -40025,6 +40137,14 @@
       "onboard_time": 1729223000,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "WBG获胜",
+      "onboard_time": 1729341378,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 132664,
@@ -40625,6 +40745,14 @@
       "onboard_time": 1728022098,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129214,
+      "num": 129214,
+      "word": "崔然竣上海活动",
+      "onboard_time": 1729341440,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 129201,
@@ -42675,6 +42803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117381,
+      "num": 117381,
+      "word": "厂长解说",
+      "onboard_time": 1729340659,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117343,
       "num": 117343,
       "word": "付辛博胡夏二选一得到早安",
@@ -42843,19 +42979,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116248,
+      "num": 116248,
+      "word": "张博恒说夺金的决心还在",
+      "onboard_time": 1729336699,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116183,
       "num": 116183,
       "word": "萨巴伦卡说要努力做郑钦文面前的山",
       "onboard_time": 1728807618,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116155,
-      "num": 116155,
-      "word": "张博恒说夺金的决心还在",
-      "onboard_time": 1729336699,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -43563,14 +43699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112367,
-      "num": 286604,
-      "word": "锦绣安宁",
-      "onboard_time": 1728557419,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112349,
       "num": 291887,
       "word": "美声rap版夕阳红",
@@ -43761,6 +43889,14 @@
       "onboard_time": 1728490819,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111284,
+      "num": 111284,
+      "word": "春花焰男主装瘸七年",
+      "onboard_time": 1729338860,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111253,
@@ -44457,6 +44593,14 @@
       "onboard_time": 1727951838,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107240,
+      "num": 107240,
+      "word": "白鹭站在水牛背上画面不要太美",
+      "onboard_time": 1729338860,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107204,
@@ -50971,14 +51115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51887,
-      "num": 211897,
-      "word": "黄晓明回青岛一中参加百年校庆",
-      "onboard_time": 1729336699,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51883,
       "num": 474950,
       "word": "多地酒店称预订成功后不可取消",
@@ -54852,7 +54988,7 @@
     },
     {
       "raw_hot": 30462,
-      "num": 113549,
+      "num": 217173,
       "word": "和平精英穿的越粉打架越狠",
       "onboard_time": 1729337599,
       "rank": 46,
@@ -55681,6 +55817,14 @@
       "onboard_time": 1729306939,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26556,
+      "num": 129422,
+      "word": "和平精英一个巨大的老六班子",
+      "onboard_time": 1729341319,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 26458,
@@ -58257,14 +58401,6 @@
       "onboard_time": 1729114691,
       "rank": 9,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 7997,
-      "num": 192396,
-      "word": "汪顺200米混合泳第四",
-      "onboard_time": 1729337599,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 7942,
