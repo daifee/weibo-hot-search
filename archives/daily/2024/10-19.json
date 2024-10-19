@@ -1,10 +1,10 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729308417966,
+  "endTime": 1729309277450,
   "band_list": [
     {
-      "raw_hot": 1949240,
-      "num": 1949240,
+      "raw_hot": 2073138,
+      "num": 2073138,
       "word": "刷视频相认双胞胎姐妹称后悔相认",
       "onboard_time": 1729305318,
       "rank": 8,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 946775,
-      "num": 946775,
+      "raw_hot": 959820,
+      "num": 959820,
       "word": "朝鲜称再次发现韩国放飞垃圾气球",
       "onboard_time": 1729302858,
       "rank": 14,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620455,
-      "num": 620455,
+      "raw_hot": 630050,
+      "num": 630050,
       "word": "田曦薇无刘海大波浪",
       "onboard_time": 1729303939,
       "rank": 5,
@@ -243,6 +243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 472920,
+      "num": 472920,
+      "word": "徐璐晚上不吃麻辣烫会得心病",
+      "onboard_time": 1729305918,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461801,
       "num": 244000,
       "word": "鹿晗乱丢烟头",
@@ -257,14 +265,6 @@
       "onboard_time": 1729263861,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422225,
-      "num": 422225,
-      "word": "徐璐晚上不吃麻辣烫会得心病",
-      "onboard_time": 1729305918,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 415909,
@@ -339,6 +339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 337465,
+      "num": 337465,
+      "word": "刘亦菲黄景瑜豪门姐弟既视感",
+      "onboard_time": 1729306278,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324983,
       "num": 324983,
       "word": "小S再次错失金钟奖",
@@ -368,6 +376,14 @@
       "word": "再见爱人 比脱口秀好笑",
       "onboard_time": 1729302077,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262492,
+      "num": 262492,
+      "word": "杨子藏手机",
+      "onboard_time": 1729308919,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -403,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230115,
-      "num": 256061,
-      "word": "刘亦菲黄景瑜豪门姐弟既视感",
-      "onboard_time": 1729306278,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 228990,
       "num": 365184,
       "word": "王一博付费试车自由练习精彩集锦",
@@ -435,12 +443,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 214260,
+      "num": 310214,
+      "word": "哈马斯证实辛瓦尔已死",
+      "onboard_time": 1729307719,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 214072,
       "num": 214072,
       "word": "千万奖金被冒领后男子维权了5年",
       "onboard_time": 1729272915,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213673,
+      "num": 213673,
+      "word": "安卓机还有必要换iPhone吗",
+      "onboard_time": 1729305798,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 208972,
@@ -515,20 +539,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 187257,
+      "num": 230737,
+      "word": "男子一年多开车碰瓷222次",
+      "onboard_time": 1729308140,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184763,
       "num": 184763,
       "word": "李现涛岛旅程vlog",
       "onboard_time": 1729307119,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184477,
-      "num": 184477,
-      "word": "安卓机还有必要换iPhone吗",
-      "onboard_time": 1729305798,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 182098,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157397,
+      "num": 387213,
+      "word": "失联30年姐妹相认3年后决裂",
+      "onboard_time": 1729306518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156413,
       "num": 156413,
       "word": "BLG战胜HLE",
@@ -603,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152660,
-      "num": 387213,
-      "word": "失联30年姐妹相认3年后决裂",
-      "onboard_time": 1729306518,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148165,
       "num": 148165,
       "word": "女子买四季豆检测笔一照蓝盈盈",
@@ -633,6 +657,14 @@
       "onboard_time": 1729270996,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142328,
+      "num": 247339,
+      "word": "73岁张纪中再当爸",
+      "onboard_time": 1729307657,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 138734,
@@ -771,27 +803,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113140,
-      "num": 237040,
-      "word": "哈马斯证实辛瓦尔已死",
-      "onboard_time": 1729307719,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 113088,
       "num": 113088,
       "word": "中国非遗表演自带特效",
       "onboard_time": 1729304599,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113008,
-      "num": 184528,
-      "word": "男子一年多开车碰瓷222次",
-      "onboard_time": 1729308140,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -819,6 +835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 110663,
+      "num": 347769,
+      "word": "潘展乐100自预赛第三",
+      "onboard_time": 1729306219,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110139,
       "num": 110139,
       "word": "伊朗强烈谴责以色列杀害哈马斯领导人",
@@ -835,20 +859,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105700,
-      "num": 347769,
-      "word": "潘展乐100自预赛第三",
-      "onboard_time": 1729306219,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105151,
       "num": 105151,
       "word": "王一博撤回一个剪刀手",
       "onboard_time": 1729304658,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102562,
+      "num": 102562,
+      "word": "每代人都有自己的收集癖好",
+      "onboard_time": 1729309219,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 101585,
@@ -865,6 +889,14 @@
       "onboard_time": 1729262240,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95757,
+      "num": 95757,
+      "word": "韩军在韩朝边境附近举行火箭炮演习",
+      "onboard_time": 1729308498,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 93315,
@@ -1019,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39236,
-      "num": 247339,
-      "word": "73岁张纪中再当爸",
-      "onboard_time": 1729307657,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35832,
       "num": 396798,
       "word": "校园食品安全事故问题出在哪个环节",
@@ -1091,20 +1115,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26606,
+      "num": 402213,
+      "word": "华晨宇宋茜虞书欣合体cos",
+      "onboard_time": 1729306939,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26296,
       "num": 70417,
       "word": "以官员称战场上遇到辛瓦尔是个意外",
       "onboard_time": 1729277833,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 23954,
-      "num": 402213,
-      "word": "华晨宇宋茜虞书欣合体cos",
-      "onboard_time": 1729306939,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 22960,
@@ -1131,20 +1155,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 21393,
-      "num": 998990,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1729308020,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19171,
+      "raw_hot": 21576,
       "num": 126256,
       "word": "颐莲一个牌子两幅面孔",
       "onboard_time": 1729305679,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 21393,
+      "num": 1003331,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1729308020,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11549,
@@ -1169,11 +1193,22 @@
       "onboard_time": 1729256659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5756,
+      "num": 242022,
+      "word": "刘亦菲回复惠英红小菲菲也爱你",
+      "onboard_time": 1729309159,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
     {
       "word": "#高新技术是讨不来要不来的#"
+    },
+    {
+      "word": "#跟着总书记探寻桐城文脉悠长#"
     }
   ]
 }

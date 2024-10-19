@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/19 00:27:50 ~ 2024/10/19 11:26:57
+本榜单时间：2024/10/19 00:27:50 ~ 2024/10/19 11:41:17
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E8%A7%86%E9%A2%91%E7%9B%B8%E8%AE%A4%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E7%A7%B0%E5%90%8E%E6%82%94%E7%9B%B8%E8%AE%A4%23" target="weibo">
-刷视频相认双胞胎姐妹称后悔相认（热度：1949240）
+刷视频相认双胞胎姐妹称后悔相认（热度：2073138）
 </a>
 </li>
 
@@ -70,7 +70,7 @@ BLG晋级S14四强（热度：1624127）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A7%B0%E5%86%8D%E6%AC%A1%E5%8F%91%E7%8E%B0%E9%9F%A9%E5%9B%BD%E6%94%BE%E9%A3%9E%E5%9E%83%E5%9C%BE%E6%B0%94%E7%90%83%23" target="weibo">
-朝鲜称再次发现韩国放飞垃圾气球（热度：946775）
+朝鲜称再次发现韩国放飞垃圾气球（热度：959820）
 </a>
 </li>
 
@@ -136,7 +136,7 @@ GAI发文怒怼脱口秀选手（热度：927894）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%97%A0%E5%88%98%E6%B5%B7%E5%A4%A7%E6%B3%A2%E6%B5%AA%23" target="weibo">
-田曦薇无刘海大波浪（热度：620455）
+田曦薇无刘海大波浪（热度：630050）
 </a>
 </li>
 
@@ -195,6 +195,12 @@ elk（热度：491451）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%92%90%E6%99%9A%E4%B8%8A%E4%B8%8D%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%BC%9A%E5%BE%97%E5%BF%83%E7%97%85%23" target="weibo">
+徐璐晚上不吃麻辣烫会得心病（热度：472920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
 鹿晗乱丢烟头（热度：461801）
 </a>
@@ -203,12 +209,6 @@ elk（热度：491451）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%B0%8F%E4%BC%99%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8C%89%E6%91%A9%E9%A2%88%E9%83%A8%E8%AF%B1%E5%8F%91%E8%84%91%E6%A2%97%E6%AD%BB%23" target="weibo">
 35岁小伙筋膜枪按摩颈部诱发脑梗死（热度：441735）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%92%90%E6%99%9A%E4%B8%8A%E4%B8%8D%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%BC%9A%E5%BE%97%E5%BF%83%E7%97%85%23" target="weibo">
-徐璐晚上不吃麻辣烫会得心病（热度：422225）
 </a>
 </li>
 
@@ -267,6 +267,12 @@ elk（热度：491451）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%BB%84%E6%99%AF%E7%91%9C%E8%B1%AA%E9%97%A8%E5%A7%90%E5%BC%9F%E6%97%A2%E8%A7%86%E6%84%9F%23" target="weibo">
+刘亦菲黄景瑜豪门姐弟既视感（热度：337465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%86%8D%E6%AC%A1%E9%94%99%E5%A4%B1%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
 小S再次错失金钟奖（热度：324983）
 </a>
@@ -287,6 +293,12 @@ HLE对战BLG（热度：278184）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%20%E6%AF%94%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A5%BD%E7%AC%91%23" target="weibo">
 再见爱人 比脱口秀好笑（热度：276262）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E8%97%8F%E6%89%8B%E6%9C%BA%23" target="weibo">
+杨子藏手机（热度：262492）
 </a>
 </li>
 
@@ -315,12 +327,6 @@ BLG的BP（热度：255040）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%BB%84%E6%99%AF%E7%91%9C%E8%B1%AA%E9%97%A8%E5%A7%90%E5%BC%9F%E6%97%A2%E8%A7%86%E6%84%9F%23" target="weibo">
-刘亦菲黄景瑜豪门姐弟既视感（热度：230115）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%98%E8%B4%B9%E8%AF%95%E8%BD%A6%E8%87%AA%E7%94%B1%E7%BB%83%E4%B9%A0%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6%23" target="weibo">
 王一博付费试车自由练习精彩集锦（热度：228990）
 </a>
@@ -339,8 +345,20 @@ Bin（热度：226379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E8%AF%81%E5%AE%9E%E8%BE%9B%E7%93%A6%E5%B0%94%E5%B7%B2%E6%AD%BB%23" target="weibo">
+哈马斯证实辛瓦尔已死（热度：214260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%A5%96%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%86%E5%90%8E%E7%94%B7%E5%AD%90%E7%BB%B4%E6%9D%83%E4%BA%865%E5%B9%B4%23" target="weibo">
 千万奖金被冒领后男子维权了5年（热度：214072）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%8D%93%E6%9C%BA%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E6%8D%A2iPhone%E5%90%97%23" target="weibo">
+安卓机还有必要换iPhone吗（热度：213673）
 </a>
 </li>
 
@@ -399,14 +417,14 @@ ON说Bin抽象（热度：200803）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%B6%9B%E5%B2%9B%E6%97%85%E7%A8%8Bvlog%23" target="weibo">
-李现涛岛旅程vlog（热度：184763）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%80%E5%B9%B4%E5%A4%9A%E5%BC%80%E8%BD%A6%E7%A2%B0%E7%93%B7222%E6%AC%A1%23" target="weibo">
+男子一年多开车碰瓷222次（热度：187257）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%8D%93%E6%9C%BA%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E6%8D%A2iPhone%E5%90%97%23" target="weibo">
-安卓机还有必要换iPhone吗（热度：184477）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%B6%9B%E5%B2%9B%E6%97%85%E7%A8%8Bvlog%23" target="weibo">
+李现涛岛旅程vlog（热度：184763）
 </a>
 </li>
 
@@ -441,6 +459,12 @@ TheShy看WBG晋级四强（热度：159882）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%9430%E5%B9%B4%E5%A7%90%E5%A6%B9%E7%9B%B8%E8%AE%A43%E5%B9%B4%E5%90%8E%E5%86%B3%E8%A3%82%23" target="weibo">
+失联30年姐妹相认3年后决裂（热度：157397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CHLE%23" target="weibo">
 BLG战胜HLE（热度：156413）
 </a>
@@ -465,12 +489,6 @@ BLG战胜HLE（热度：156413）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%9430%E5%B9%B4%E5%A7%90%E5%A6%B9%E7%9B%B8%E8%AE%A43%E5%B9%B4%E5%90%8E%E5%86%B3%E8%A3%82%23" target="weibo">
-失联30年姐妹相认3年后决裂（热度：152660）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%9B%9B%E5%AD%A3%E8%B1%86%E6%A3%80%E6%B5%8B%E7%AC%94%E4%B8%80%E7%85%A7%E8%93%9D%E7%9B%88%E7%9B%88%23" target="weibo">
 女子买四季豆检测笔一照蓝盈盈（热度：148165）
 </a>
@@ -485,6 +503,12 @@ LPL提前锁定S14决赛（热度：145019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%89%A9%E8%87%B3100%E4%B8%87%E5%B9%B3%E7%B1%B3%23" target="weibo">
 哈尔滨冰雪大世界扩至100万平米（热度：144445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%BC%A0%E7%BA%AA%E4%B8%AD%E5%86%8D%E5%BD%93%E7%88%B8%23" target="weibo">
+73岁张纪中再当爸（热度：142328）
 </a>
 </li>
 
@@ -591,20 +615,8 @@ HLE淘汰赛先下一城（热度：115083）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E8%AF%81%E5%AE%9E%E8%BE%9B%E7%93%A6%E5%B0%94%E5%B7%B2%E6%AD%BB%23" target="weibo">
-哈马斯证实辛瓦尔已死（热度：113140）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9D%9E%E9%81%97%E8%A1%A8%E6%BC%94%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23" target="weibo">
 中国非遗表演自带特效（热度：113088）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%80%E5%B9%B4%E5%A4%9A%E5%BC%80%E8%BD%A6%E7%A2%B0%E7%93%B7222%E6%AC%A1%23" target="weibo">
-男子一年多开车碰瓷222次（热度：113008）
 </a>
 </li>
 
@@ -627,6 +639,12 @@ HLE淘汰赛先下一城（热度：115083）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90100%E8%87%AA%E9%A2%84%E8%B5%9B%E7%AC%AC%E4%B8%89%23" target="weibo">
+潘展乐100自预赛第三（热度：110663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E6%9D%80%E5%AE%B3%E5%93%88%E9%A9%AC%E6%96%AF%E9%A2%86%E5%AF%BC%E4%BA%BA%23" target="weibo">
 伊朗强烈谴责以色列杀害哈马斯领导人（热度：110139）
 </a>
@@ -639,14 +657,14 @@ HLE淘汰赛先下一城（热度：115083）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90100%E8%87%AA%E9%A2%84%E8%B5%9B%E7%AC%AC%E4%B8%89%23" target="weibo">
-潘展乐100自预赛第三（热度：105700）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%92%A4%E5%9B%9E%E4%B8%80%E4%B8%AA%E5%89%AA%E5%88%80%E6%89%8B%23" target="weibo">
+王一博撤回一个剪刀手（热度：105151）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%92%A4%E5%9B%9E%E4%B8%80%E4%B8%AA%E5%89%AA%E5%88%80%E6%89%8B%23" target="weibo">
-王一博撤回一个剪刀手（热度：105151）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%BB%A3%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%94%B6%E9%9B%86%E7%99%96%E5%A5%BD%23" target="weibo">
+每代人都有自己的收集癖好（热度：102562）
 </a>
 </li>
 
@@ -659,6 +677,12 @@ HLE淘汰赛先下一城（热度：115083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%98%8E%E8%BD%A940%E5%88%86%23" target="weibo">
 胡明轩40分（热度：96038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%86%9B%E5%9C%A8%E9%9F%A9%E6%9C%9D%E8%BE%B9%E5%A2%83%E9%99%84%E8%BF%91%E4%B8%BE%E8%A1%8C%E7%81%AB%E7%AE%AD%E7%82%AE%E6%BC%94%E4%B9%A0%23" target="weibo">
+韩军在韩朝边境附近举行火箭炮演习（热度：95757）
 </a>
 </li>
 
@@ -777,12 +801,6 @@ HLE淘汰赛先下一城（热度：115083）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%BC%A0%E7%BA%AA%E4%B8%AD%E5%86%8D%E5%BD%93%E7%88%B8%23" target="weibo">
-73岁张纪中再当爸（热度：39236）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%9B%AD%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E4%BA%8B%E6%95%85%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA%E4%B8%AA%E7%8E%AF%E8%8A%82%23" target="weibo">
 校园食品安全事故问题出在哪个环节（热度：35832）
 </a>
@@ -831,14 +849,14 @@ HLE淘汰赛先下一城（热度：115083）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AE%98%E5%91%98%E7%A7%B0%E6%88%98%E5%9C%BA%E4%B8%8A%E9%81%87%E5%88%B0%E8%BE%9B%E7%93%A6%E5%B0%94%E6%98%AF%E4%B8%AA%E6%84%8F%E5%A4%96%23" target="weibo">
-以官员称战场上遇到辛瓦尔是个意外（热度：26296）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%AE%8B%E8%8C%9C%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%88%E4%BD%93cos%23" target="weibo">
+华晨宇宋茜虞书欣合体cos（热度：26606）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%AE%8B%E8%8C%9C%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%88%E4%BD%93cos%23" target="weibo">
-华晨宇宋茜虞书欣合体cos（热度：23954）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AE%98%E5%91%98%E7%A7%B0%E6%88%98%E5%9C%BA%E4%B8%8A%E9%81%87%E5%88%B0%E8%BE%9B%E7%93%A6%E5%B0%94%E6%98%AF%E4%B8%AA%E6%84%8F%E5%A4%96%23" target="weibo">
+以官员称战场上遇到辛瓦尔是个意外（热度：26296）
 </a>
 </li>
 
@@ -861,14 +879,14 @@ HLE淘汰赛先下一城（热度：115083）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%23" target="weibo">
-盛世中华何以中国（热度：21393）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%90%E8%8E%B2%E4%B8%80%E4%B8%AA%E7%89%8C%E5%AD%90%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94%23" target="weibo">
+颐莲一个牌子两幅面孔（热度：21576）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%90%E8%8E%B2%E4%B8%80%E4%B8%AA%E7%89%8C%E5%AD%90%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94%23" target="weibo">
-颐莲一个牌子两幅面孔（热度：19171）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%23" target="weibo">
+盛世中华何以中国（热度：21393）
 </a>
 </li>
 
@@ -890,6 +908,12 @@ HLE淘汰赛先下一城（热度：115083）
 </a>
 </li>
 
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%9B%9E%E5%A4%8D%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%B0%8F%E8%8F%B2%E8%8F%B2%E4%B9%9F%E7%88%B1%E4%BD%A0%23" target="weibo">
+刘亦菲回复惠英红小菲菲也爱你（热度：5756）
+</a>
+</li>
+
 </ol>
 <h2>
 正能量
@@ -899,6 +923,12 @@ HLE淘汰赛先下一城（热度：115083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%AB%98%E6%96%B0%E6%8A%80%E6%9C%AF%E6%98%AF%E8%AE%A8%E4%B8%8D%E6%9D%A5%E8%A6%81%E4%B8%8D%E6%9D%A5%E7%9A%84%23%23" target="weibo">
 #高新技术是讨不来要不来的#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8E%A2%E5%AF%BB%E6%A1%90%E5%9F%8E%E6%96%87%E8%84%89%E6%82%A0%E9%95%BF%23%23" target="weibo">
+#跟着总书记探寻桐城文脉悠长#
 </a>
 </li>
 
