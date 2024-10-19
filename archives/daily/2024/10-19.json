@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729323347720,
+  "endTime": 1729326416154,
   "band_list": [
     {
       "raw_hot": 2230023,
@@ -8,6 +8,14 @@
       "word": "杨子 不能她好了我和巨力不好",
       "onboard_time": 1729316660,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2081983,
+      "num": 242307,
+      "word": "黄磊回应近期舆论",
+      "onboard_time": 1729325179,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661196,
+      "num": 241236,
+      "word": "费曼 我没有被向左绑架",
+      "onboard_time": 1729323018,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658801,
       "num": 799852,
       "word": "68岁大爷拍网剧最多日入五六百元",
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633392,
+      "num": 633392,
+      "word": "男子反复捶断手指碰瓷30多起",
+      "onboard_time": 1729319718,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630050,
       "num": 630050,
       "word": "田曦薇无刘海大波浪",
@@ -267,12 +291,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 620176,
-      "num": 620176,
-      "word": "男子反复捶断手指碰瓷30多起",
-      "onboard_time": 1729319718,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 621286,
+      "num": 315408,
+      "word": "刘诗诗粉底",
+      "onboard_time": 1729323800,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 611318,
@@ -307,20 +331,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 594691,
+      "num": 320248,
+      "word": "Jessi谎称打粉丝的是中国人",
+      "onboard_time": 1729322118,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592932,
       "num": 592932,
       "word": "美国承认为打死辛瓦尔提供情报支持",
       "onboard_time": 1729256361,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 587756,
-      "num": 320248,
-      "word": "Jessi谎称打粉丝的是中国人",
-      "onboard_time": 1729322118,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 586767,
@@ -361,6 +385,14 @@
       "onboard_time": 1729263920,
       "rank": 5,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 529429,
+      "num": 395851,
+      "word": "骑行遭碾压案涉事司机对开车有阴影",
+      "onboard_time": 1729320800,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507943,
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454906,
+      "num": 454906,
+      "word": "身高不足1米2的她保研成功了",
+      "onboard_time": 1729318039,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441735,
       "num": 239782,
       "word": "35岁小伙筋膜枪按摩颈部诱发脑梗死",
@@ -451,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437503,
+      "num": 238335,
+      "word": "林高远 到了自洽的阶段",
+      "onboard_time": 1729324160,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421777,
       "num": 421777,
       "word": "男子一年多开车碰瓷222次",
@@ -464,14 +512,6 @@
       "word": "江西一家三口被撞身亡案司机被批捕",
       "onboard_time": 1729295356,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395851,
-      "num": 395851,
-      "word": "骑行遭碾压案涉事司机对开车有阴影",
-      "onboard_time": 1729320800,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -508,7 +548,7 @@
     },
     {
       "raw_hot": 378273,
-      "num": 216761,
+      "num": 218320,
       "word": "王一博摘头套",
       "onboard_time": 1729320858,
       "rank": 23,
@@ -603,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291447,
+      "num": 220738,
+      "word": "控制欲强的人有3个心理特征",
+      "onboard_time": 1729323078,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278184,
       "num": 278184,
       "word": "HLE对战BLG",
       "onboard_time": 1729253421,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276907,
+      "num": 276907,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1729323977,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 276262,
@@ -619,11 +675,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274012,
-      "num": 319490,
-      "word": "身高不足1米2的她保研成功了",
-      "onboard_time": 1729318039,
-      "rank": 27,
+      "raw_hot": 268519,
+      "num": 216234,
+      "word": "邹贝贝保研了",
+      "onboard_time": 1729321939,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -641,6 +697,22 @@
       "onboard_time": 1729305499,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242613,
+      "num": 242613,
+      "word": "外国工程师兴奋讲解从中国买的好东西",
+      "onboard_time": 1729323379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237963,
+      "num": 237963,
+      "word": "螃蟹身上有针眼是被注水了吗",
+      "onboard_time": 1729324399,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233397,
@@ -731,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "Faker从未在S赛BO5输给LPL",
+      "onboard_time": 1729325720,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -777,6 +857,14 @@
       "onboard_time": 1729259659,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 201476,
+      "num": 201476,
+      "word": "柳智敏solo初一位",
+      "onboard_time": 1729326019,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 200922,
@@ -851,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185794,
+      "num": 238728,
+      "word": "辛瓦尔死后各方誓言继续战斗",
+      "onboard_time": 1729324219,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 184906,
       "num": 184906,
       "word": "意大利球星模仿向佐",
@@ -891,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183783,
-      "num": 161349,
-      "word": "控制欲强的人有3个心理特征",
-      "onboard_time": 1729323078,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182098,
       "num": 361642,
       "word": "这种装扮游故宫到底是谁不尊重谁",
@@ -921,6 +1009,14 @@
       "onboard_time": 1729311980,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "提升战略导弹部队威慑和实战能力",
+      "onboard_time": 1729324278,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176661,
@@ -1051,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160294,
-      "num": 160294,
-      "word": "费曼 我没有被向左绑架",
-      "onboard_time": 1729323018,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159882,
       "num": 159882,
       "word": "TheShy看WBG晋级四强",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1729312459,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150059,
+      "num": 150059,
+      "word": "龚俊活动",
+      "onboard_time": 1729325420,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 149623,
@@ -1339,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125298,
+      "num": 125298,
+      "word": "全锦赛",
+      "onboard_time": 1729324459,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124935,
       "num": 124935,
       "word": "Peanut 遗憾",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1729263321,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116507,
+      "num": 116507,
+      "word": "丁禹兮红发",
+      "onboard_time": 1729323738,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116045,
@@ -1507,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109262,
-      "num": 109262,
-      "word": "邹贝贝保研了",
-      "onboard_time": 1729321939,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108571,
       "num": 108571,
       "word": "阎鹤祥 郭麒麟是我的处境",
@@ -1529,6 +1633,22 @@
       "onboard_time": 1729320559,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108001,
+      "num": 108001,
+      "word": "樊振东周雨老友合照",
+      "onboard_time": 1729326258,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106352,
+      "num": 106352,
+      "word": "现在就出发2",
+      "onboard_time": 1729326320,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 106279,
@@ -1555,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103915,
+      "num": 103915,
+      "word": "TEC人员变动",
+      "onboard_time": 1729325238,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102562,
       "num": 102562,
       "word": "每代人都有自己的收集癖好",
@@ -1569,6 +1697,14 @@
       "onboard_time": 1729302439,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97172,
+      "num": 97172,
+      "word": "小丑2后劲好大",
+      "onboard_time": 1729326379,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 96038,
@@ -1763,6 +1899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 48265,
+      "num": 305050,
+      "word": "娱乐圈玩吃鸡明星世纪合影",
+      "onboard_time": 1729322238,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47804,
       "num": 292339,
       "word": "为什么上大学后跟父母沟通变难了",
@@ -1819,12 +1963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34122,
-      "num": 305050,
-      "word": "娱乐圈玩吃鸡明星世纪合影",
-      "onboard_time": 1729322238,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 34898,
+      "num": 228651,
+      "word": "黄圣依杨子 黄亦玫方协文具象化",
+      "onboard_time": 1729325537,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 33983,
@@ -1848,6 +1992,14 @@
       "word": "北航原副校长张广受贿2120万余元",
       "onboard_time": 1729284431,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29862,
+      "num": 466851,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

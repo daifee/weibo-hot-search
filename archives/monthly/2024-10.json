@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729323347720,
+  "endTime": 1729326416154,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -905,6 +905,14 @@
       "onboard_time": 1728825742,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2081983,
+      "num": 242307,
+      "word": "黄磊回应近期舆论",
+      "onboard_time": 1729325179,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2075112,
@@ -7835,6 +7843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661196,
+      "num": 241236,
+      "word": "费曼 我没有被向左绑架",
+      "onboard_time": 1729323018,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660453,
       "num": 660453,
       "word": "全智贤成为LV品牌大使",
@@ -8299,6 +8315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 633392,
+      "num": 633392,
+      "word": "男子反复捶断手指碰瓷30多起",
+      "onboard_time": 1729319718,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633085,
       "num": 633085,
       "word": "官方通报雁荡山缆车故障致1游客坠落",
@@ -8579,6 +8603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621286,
+      "num": 315408,
+      "word": "刘诗诗粉底",
+      "onboard_time": 1729323800,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621268,
       "num": 621268,
       "word": "于祥宇 GAI",
@@ -8608,14 +8640,6 @@
       "word": "男子乘飞机2小时未起身致肺栓塞身亡",
       "onboard_time": 1728977780,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620176,
-      "num": 620176,
-      "word": "男子反复捶断手指碰瓷30多起",
-      "onboard_time": 1729319718,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -8995,6 +9019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 594691,
+      "num": 320248,
+      "word": "Jessi谎称打粉丝的是中国人",
+      "onboard_time": 1729322118,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594108,
       "num": 897574,
       "word": "千万主播学历造假频繁发生",
@@ -9129,14 +9161,6 @@
       "onboard_time": 1727968760,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 587756,
-      "num": 320248,
-      "word": "Jessi谎称打粉丝的是中国人",
-      "onboard_time": 1729322118,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 587183,
@@ -10297,6 +10321,14 @@
       "onboard_time": 1728538759,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 529429,
+      "num": 395851,
+      "word": "骑行遭碾压案涉事司机对开车有阴影",
+      "onboard_time": 1729320800,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529400,
@@ -12067,6 +12099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 454906,
+      "num": 454906,
+      "word": "身高不足1米2的她保研成功了",
+      "onboard_time": 1729318039,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454584,
       "num": 412589,
       "word": "薛冰冰为赵露思化的妆",
@@ -12537,6 +12577,14 @@
       "onboard_time": 1729040899,
       "rank": 15,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 437503,
+      "num": 238335,
+      "word": "林高远 到了自洽的阶段",
+      "onboard_time": 1729324160,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 437181,
@@ -13603,14 +13651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395851,
-      "num": 395851,
-      "word": "骑行遭碾压案涉事司机对开车有阴影",
-      "onboard_time": 1729320800,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395462,
       "num": 313573,
       "word": "国防部警示台独分子",
@@ -14148,7 +14188,7 @@
     },
     {
       "raw_hot": 378273,
-      "num": 216761,
+      "num": 218320,
       "word": "王一博摘头套",
       "onboard_time": 1729320858,
       "rank": 23,
@@ -17827,6 +17867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291447,
+      "num": 220738,
+      "word": "控制欲强的人有3个心理特征",
+      "onboard_time": 1729323078,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291319,
       "num": 291319,
       "word": "青川地震",
@@ -18763,6 +18811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276907,
+      "num": 276907,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1729323977,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276611,
       "num": 276611,
       "word": "山东威海一海滩发现甲午战争鱼雷",
@@ -18961,14 +19017,6 @@
       "onboard_time": 1728952460,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274012,
-      "num": 319490,
-      "word": "身高不足1米2的她保研成功了",
-      "onboard_time": 1729318039,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274009,
@@ -19361,6 +19409,14 @@
       "onboard_time": 1728573140,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 268519,
+      "num": 216234,
+      "word": "邹贝贝保研了",
+      "onboard_time": 1729321939,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268380,
@@ -21299,6 +21355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242613,
+      "num": 242613,
+      "word": "外国工程师兴奋讲解从中国买的好东西",
+      "onboard_time": 1729323379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242596,
       "num": 242596,
       "word": "伯远MAMA舞台",
@@ -21657,6 +21721,14 @@
       "onboard_time": 1729246281,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237963,
+      "num": 237963,
+      "word": "螃蟹身上有针眼是被注水了吗",
+      "onboard_time": 1729324399,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237926,
@@ -24675,6 +24747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "Faker从未在S赛BO5输给LPL",
+      "onboard_time": 1729325720,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209056,
       "num": 209056,
       "word": "梅西破门",
@@ -26041,6 +26121,14 @@
       "onboard_time": 1727842758,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 201476,
+      "num": 201476,
+      "word": "柳智敏solo初一位",
+      "onboard_time": 1729326019,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 201338,
@@ -29475,6 +29563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185794,
+      "num": 238728,
+      "word": "辛瓦尔死后各方誓言继续战斗",
+      "onboard_time": 1729324219,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185791,
       "num": 185791,
       "word": "童家堡秋季赛总冠军",
@@ -29873,14 +29969,6 @@
       "onboard_time": 1728649580,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 183783,
-      "num": 161349,
-      "word": "控制欲强的人有3个心理特征",
-      "onboard_time": 1729323078,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 183755,
@@ -30872,6 +30960,14 @@
       "word": "战机视角超近距离看宝岛",
       "onboard_time": 1728904938,
       "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "提升战略导弹部队威慑和实战能力",
+      "onboard_time": 1729324278,
+      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -33923,14 +34019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160294,
-      "num": 160294,
-      "word": "费曼 我没有被向左绑架",
-      "onboard_time": 1729323018,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160290,
       "num": 146605,
       "word": "郑钦文返汉爸爸跟在身后为她背包",
@@ -36105,6 +36193,14 @@
       "onboard_time": 1727742198,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150059,
+      "num": 150059,
+      "word": "龚俊活动",
+      "onboard_time": 1729325420,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 150011,
@@ -42307,6 +42403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116507,
+      "num": 116507,
+      "word": "丁禹兮红发",
+      "onboard_time": 1729323738,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116469,
       "num": 450153,
       "word": "年轻人的顶级松弛感是生图直出",
@@ -43523,14 +43627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109262,
-      "num": 109262,
-      "word": "邹贝贝保研了",
-      "onboard_time": 1729321939,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109090,
       "num": 109090,
       "word": "武志红评浴火之路爽感从何而来",
@@ -43705,6 +43801,14 @@
       "onboard_time": 1728257535,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108001,
+      "num": 108001,
+      "word": "樊振东周雨老友合照",
+      "onboard_time": 1729326258,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 107995,
@@ -44041,6 +44145,14 @@
       "onboard_time": 1727910675,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106352,
+      "num": 106352,
+      "word": "现在就出发2",
+      "onboard_time": 1729326320,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 106279,
@@ -44401,6 +44513,14 @@
       "onboard_time": 1727861057,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103915,
+      "num": 103915,
+      "word": "TEC人员变动",
+      "onboard_time": 1729325238,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 103904,
@@ -45281,6 +45401,14 @@
       "onboard_time": 1727853797,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97172,
+      "num": 97172,
+      "word": "小丑2后劲好大",
+      "onboard_time": 1729326379,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 97139,
@@ -51019,6 +51147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48265,
+      "num": 305050,
+      "word": "娱乐圈玩吃鸡明星世纪合影",
+      "onboard_time": 1729322238,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48125,
       "num": 474628,
       "word": "赵明称Magic7是最强AI手机",
@@ -53259,6 +53395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34898,
+      "num": 228651,
+      "word": "黄圣依杨子 黄亦玫方协文具象化",
+      "onboard_time": 1729325537,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34887,
       "num": 756853,
       "word": "多城开启声势浩大的商品房促销",
@@ -53433,14 +53577,6 @@
       "onboard_time": 1728548479,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 34122,
-      "num": 305050,
-      "word": "娱乐圈玩吃鸡明星世纪合影",
-      "onboard_time": 1729322238,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 34112,
@@ -54377,6 +54513,14 @@
       "onboard_time": 1728932772,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29862,
+      "num": 466851,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29850,
