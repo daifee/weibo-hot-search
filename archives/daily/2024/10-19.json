@@ -1,10 +1,18 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729306923937,
+  "endTime": 1729308417966,
   "band_list": [
     {
+      "raw_hot": 1949240,
+      "num": 1949240,
+      "word": "刷视频相认双胞胎姐妹称后悔相认",
+      "onboard_time": 1729305318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1941850,
-      "num": 739382,
+      "num": 841390,
       "word": "臭肉学校董事长无视最后提问插兜离席",
       "onboard_time": 1729302019,
       "rank": 23,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 946775,
+      "num": 946775,
+      "word": "朝鲜称再次发现韩国放飞垃圾气球",
+      "onboard_time": 1729302858,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 928983,
       "num": 398473,
       "word": "没认出来这是费曼",
@@ -97,22 +113,6 @@
       "onboard_time": 1729297456,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 785526,
-      "num": 708269,
-      "word": "朝鲜称再次发现韩国放飞垃圾气球",
-      "onboard_time": 1729302858,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 756048,
-      "num": 756048,
-      "word": "刷视频相认双胞胎姐妹称后悔相认",
-      "onboard_time": 1729305318,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 739718,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609971,
-      "num": 609971,
+      "raw_hot": 620455,
+      "num": 620455,
       "word": "田曦薇无刘海大波浪",
       "onboard_time": 1729303939,
       "rank": 5,
@@ -257,6 +257,14 @@
       "onboard_time": 1729263861,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422225,
+      "num": 422225,
+      "word": "徐璐晚上不吃麻辣烫会得心病",
+      "onboard_time": 1729305918,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 415909,
@@ -379,12 +387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233397,
+      "num": 416165,
+      "word": "臭肉风波学校食堂厨师出面道歉",
+      "onboard_time": 1729304838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232784,
       "num": 232784,
       "word": "于祥宇 GAI",
       "onboard_time": 1729244840,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230115,
+      "num": 256061,
+      "word": "刘亦菲黄景瑜豪门姐弟既视感",
+      "onboard_time": 1729306278,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228990,
@@ -435,14 +459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203388,
-      "num": 203388,
-      "word": "徐璐晚上不吃麻辣烫会得心病",
-      "onboard_time": 1729305918,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201509,
       "num": 201509,
       "word": "哈马斯最新声明",
@@ -465,6 +481,14 @@
       "onboard_time": 1729269017,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198702,
+      "num": 198702,
+      "word": "杨子年内带货12场销售额50万元",
+      "onboard_time": 1729307058,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 194865,
@@ -491,20 +515,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184763,
+      "num": 184763,
+      "word": "李现涛岛旅程vlog",
+      "onboard_time": 1729307119,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184477,
+      "num": 184477,
+      "word": "安卓机还有必要换iPhone吗",
+      "onboard_time": 1729305798,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182098,
       "num": 361642,
       "word": "这种装扮游故宫到底是谁不尊重谁",
       "onboard_time": 1729269317,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182053,
-      "num": 182053,
-      "word": "安卓机还有必要换iPhone吗",
-      "onboard_time": 1729305798,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 175719,
@@ -521,14 +553,6 @@
       "onboard_time": 1729261580,
       "rank": 29,
       "category": "演出,电竞"
-    },
-    {
-      "raw_hot": 162299,
-      "num": 416165,
-      "word": "臭肉风波学校食堂厨师出面道歉",
-      "onboard_time": 1729304838,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159882,
@@ -571,20 +595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152866,
+      "num": 152866,
+      "word": "意大利球星模仿向佐",
+      "onboard_time": 1729306700,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152660,
+      "num": 387213,
+      "word": "失联30年姐妹相认3年后决裂",
+      "onboard_time": 1729306518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148165,
       "num": 148165,
       "word": "女子买四季豆检测笔一照蓝盈盈",
       "onboard_time": 1729294276,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147936,
-      "num": 183552,
-      "word": "刘亦菲黄景瑜豪门姐弟既视感",
-      "onboard_time": 1729306278,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145019,
@@ -601,6 +633,14 @@
       "onboard_time": 1729270996,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138734,
+      "num": 138734,
+      "word": "黑神话悟空",
+      "onboard_time": 1729306518,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 138681,
@@ -659,19 +699,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125433,
+      "num": 125433,
+      "word": "KPL年度总决赛",
+      "onboard_time": 1729307657,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124229,
       "num": 124229,
       "word": "王鹤棣弄丢的小狗包找到了",
       "onboard_time": 1729262361,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121734,
-      "num": 121734,
-      "word": "意大利球星模仿向佐",
-      "onboard_time": 1729306700,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -731,12 +771,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114775,
-      "num": 114775,
-      "word": "黑神话悟空",
-      "onboard_time": 1729306518,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 113140,
+      "num": 237040,
+      "word": "哈马斯证实辛瓦尔已死",
+      "onboard_time": 1729307719,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 113088,
@@ -744,6 +784,14 @@
       "word": "中国非遗表演自带特效",
       "onboard_time": 1729304599,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113008,
+      "num": 184528,
+      "word": "男子一年多开车碰瓷222次",
+      "onboard_time": 1729308140,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -785,6 +833,14 @@
       "onboard_time": 1729261222,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105700,
+      "num": 347769,
+      "word": "潘展乐100自预赛第三",
+      "onboard_time": 1729306219,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 105151,
@@ -947,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48614,
+      "num": 383788,
+      "word": "原来辛巴直播这么燃",
+      "onboard_time": 1729303519,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 44228,
       "num": 62161,
       "word": "拉布拉多太胖上下楼主人用起重机",
@@ -955,28 +1019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44010,
-      "num": 347769,
-      "word": "潘展乐100自预赛第三",
-      "onboard_time": 1729306219,
+      "raw_hot": 39236,
+      "num": 247339,
+      "word": "73岁张纪中再当爸",
+      "onboard_time": 1729307657,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 42516,
-      "num": 383788,
-      "word": "原来辛巴直播这么燃",
-      "onboard_time": 1729303519,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 37417,
-      "num": 387213,
-      "word": "失联30年姐妹相认3年后决裂",
-      "onboard_time": 1729306518,
-      "rank": 9,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 35832,
@@ -1035,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27110,
+      "num": 120676,
+      "word": "这就是大美新疆",
+      "onboard_time": 1729307719,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 26296,
       "num": 70417,
       "word": "以官员称战场上遇到辛瓦尔是个意外",
       "onboard_time": 1729277833,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23954,
+      "num": 402213,
+      "word": "华晨宇宋茜虞书欣合体cos",
+      "onboard_time": 1729306939,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 22960,
@@ -1067,8 +1131,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 11598,
-      "num": 115555,
+      "raw_hot": 21393,
+      "num": 998990,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1729308020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19171,
+      "num": 126256,
       "word": "颐莲一个牌子两幅面孔",
       "onboard_time": 1729305679,
       "rank": 41,
