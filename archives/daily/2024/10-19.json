@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729336655358,
+  "endTime": 1729337767235,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821258,
+      "num": 290969,
+      "word": "黑灯发文",
+      "onboard_time": 1729333160,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782086,
       "num": 368800,
       "word": "肉已经臭了学校应对怎能更臭",
       "onboard_time": 1729329859,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761490,
-      "num": 290969,
-      "word": "黑灯发文",
-      "onboard_time": 1729333160,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 739718,
@@ -481,6 +481,14 @@
       "onboard_time": 1729263920,
       "rank": 5,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 531679,
+      "num": 281858,
+      "word": "BLACKPINK约定一年后重聚",
+      "onboard_time": 1729335319,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 529429,
@@ -731,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353890,
-      "num": 281858,
-      "word": "BLACKPINK约定一年后重聚",
-      "onboard_time": 1729335319,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351977,
       "num": 351977,
       "word": "听泉鉴宝直播带货一晚卖出750万元",
@@ -825,6 +825,22 @@
       "onboard_time": 1729323078,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285777,
+      "num": 204680,
+      "word": "张纪中妻子顺产转剖腹产",
+      "onboard_time": 1729334239,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 280267,
+      "num": 189441,
+      "word": "王励勤和樊振东许昕握手",
+      "onboard_time": 1729335979,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 278184,
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224379,
+      "num": 224379,
+      "word": "金饰价格突破800元每克",
+      "onboard_time": 1729334180,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 221923,
       "num": 221923,
       "word": "韩国回应无人机事件",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1729321398,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212296,
-      "num": 191660,
-      "word": "张纪中妻子顺产转剖腹产",
-      "onboard_time": 1729334239,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 210978,
@@ -1187,12 +1203,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 185406,
-      "num": 185406,
-      "word": "王励勤和樊振东许昕握手",
-      "onboard_time": 1729335979,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 184966,
+      "num": 193863,
+      "word": "APT好听",
+      "onboard_time": 1729336878,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 184906,
@@ -1255,6 +1271,14 @@
       "num": 182009,
       "word": "樊振东许昕全锦赛男团决赛",
       "onboard_time": 1729330760,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181647,
+      "num": 192067,
+      "word": "许昕说我老了",
+      "onboard_time": 1729336159,
       "rank": 29,
       "category": "体育"
     },
@@ -1339,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171977,
+      "num": 171977,
+      "word": "许昕樊振东全锦赛夺冠后安排",
+      "onboard_time": 1729336699,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167368,
       "num": 167368,
       "word": "迪丽热巴新剧淋浴镜头",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1729315878,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165574,
-      "num": 165574,
-      "word": "金饰价格突破800元每克",
-      "onboard_time": 1729334180,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 165524,
@@ -1555,6 +1579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151489,
+      "num": 151489,
+      "word": "蛋仔派对",
+      "onboard_time": 1729336878,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150059,
       "num": 150059,
       "word": "龚俊活动",
@@ -1675,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138532,
-      "num": 192067,
-      "word": "许昕说我老了",
-      "onboard_time": 1729336159,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137806,
       "num": 137806,
       "word": "企业回应广东十大工厂将搬迁到四川",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1729323738,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126343,
+      "num": 126343,
+      "word": "Moncler大秀",
+      "onboard_time": 1729337540,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 125887,
@@ -1907,6 +1939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116582,
+      "num": 116582,
+      "word": "赵露思秋日OOTD",
+      "onboard_time": 1729337359,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116155,
+      "num": 116155,
+      "word": "张博恒说夺金的决心还在",
+      "onboard_time": 1729336699,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116045,
       "num": 116045,
       "word": "女幼师被害案受害人家属爆发冲突",
@@ -1995,6 +2043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "安徽淮南火灾致9人遇难",
+      "onboard_time": 1729337300,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110663,
       "num": 347769,
       "word": "潘展乐100自预赛第三",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1729320559,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107673,
+      "num": 223807,
+      "word": "月壤砖抗压强度是普通砖头的3倍以上",
+      "onboard_time": 1729336640,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106279,
@@ -2219,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68938,
-      "num": 192293,
-      "word": "月壤砖抗压强度是普通砖头的3倍以上",
-      "onboard_time": 1729336640,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63969,
       "num": 182730,
       "word": "叶璇力挺王宝强坚信不会塌房",
@@ -2299,6 +2355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51887,
+      "num": 211897,
+      "word": "黄晓明回青岛一中参加百年校庆",
+      "onboard_time": 1729336699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50613,
       "num": 62212,
       "word": "伊朗称辛瓦尔之死将强化抵抗精神",
@@ -2355,6 +2419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42790,
+      "num": 288020,
+      "word": "起底昆明长丰学校董事长商业版图",
+      "onboard_time": 1729336340,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37726,
       "num": 220527,
       "word": "许昕周恺vs魏世皓王博",
@@ -2409,6 +2481,14 @@
       "onboard_time": 1729284431,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30462,
+      "num": 113549,
+      "word": "和平精英穿的越粉打架越狠",
+      "onboard_time": 1729337599,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 29862,
@@ -2547,14 +2627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11642,
-      "num": 288020,
-      "word": "起底昆明长丰学校董事长商业版图",
-      "onboard_time": 1729336340,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11549,
       "num": 36081,
       "word": "光伏组件低于成本投标中标涉嫌违法",
@@ -2601,6 +2673,14 @@
       "onboard_time": 1729323258,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 7997,
+      "num": 192396,
+      "word": "汪顺200米混合泳第四",
+      "onboard_time": 1729337599,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 5756,

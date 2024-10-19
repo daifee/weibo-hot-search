@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729336655358,
+  "endTime": 1729337767235,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -5691,6 +5691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 821258,
+      "num": 290969,
+      "word": "黑灯发文",
+      "onboard_time": 1729333160,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 820854,
       "num": 334089,
       "word": "女子没钱产检并流产医生两次硬发红包",
@@ -6497,14 +6505,6 @@
       "onboard_time": 1729175123,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 761490,
-      "num": 290969,
-      "word": "黑灯发文",
-      "onboard_time": 1729333160,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 760799,
@@ -10385,6 +10385,14 @@
       "onboard_time": 1728193459,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531679,
+      "num": 281858,
+      "word": "BLACKPINK约定一年后重聚",
+      "onboard_time": 1729335319,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 531445,
@@ -15251,14 +15259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353890,
-      "num": 281858,
-      "word": "BLACKPINK约定一年后重聚",
-      "onboard_time": 1729335319,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353822,
       "num": 353822,
       "word": "山取",
@@ -18403,6 +18403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285777,
+      "num": 204680,
+      "word": "张纪中妻子顺产转剖腹产",
+      "onboard_time": 1729334239,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285683,
       "num": 285683,
       "word": "仅20分钟A股成交额突破1万亿",
@@ -18825,6 +18833,14 @@
       "onboard_time": 1728032058,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280267,
+      "num": 189441,
+      "word": "王励勤和樊振东许昕握手",
+      "onboard_time": 1729335979,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 280180,
@@ -23147,6 +23163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224379,
+      "num": 224379,
+      "word": "金饰价格突破800元每克",
+      "onboard_time": 1729334180,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224356,
       "num": 207827,
       "word": "边牧 玩你如玩狗",
@@ -24601,14 +24625,6 @@
       "onboard_time": 1728027917,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212296,
-      "num": 191660,
-      "word": "张纪中妻子顺产转剖腹产",
-      "onboard_time": 1729334239,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 212247,
@@ -29915,14 +29931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185406,
-      "num": 185406,
-      "word": "王励勤和樊振东许昕握手",
-      "onboard_time": 1729335979,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185278,
       "num": 185278,
       "word": "黄友政4比0敖华磊",
@@ -29969,6 +29977,14 @@
       "onboard_time": 1728085696,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 184966,
+      "num": 193863,
+      "word": "APT好听",
+      "onboard_time": 1729336878,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 184945,
@@ -30513,6 +30529,14 @@
       "onboard_time": 1728267678,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181647,
+      "num": 192067,
+      "word": "许昕说我老了",
+      "onboard_time": 1729336159,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 181573,
@@ -32187,6 +32211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171977,
+      "num": 171977,
+      "word": "许昕樊振东全锦赛夺冠后安排",
+      "onboard_time": 1729336699,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171960,
       "num": 203955,
       "word": "老师给4岁孩子剪指甲4个指头流血",
@@ -33345,14 +33377,6 @@
       "onboard_time": 1729315878,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165574,
-      "num": 165574,
-      "word": "金饰价格突破800元每克",
-      "onboard_time": 1729334180,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 165535,
@@ -36283,6 +36307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151489,
+      "num": 151489,
+      "word": "蛋仔派对",
+      "onboard_time": 1729336878,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151487,
       "num": 151487,
       "word": "尹净汉车银优同框",
@@ -38835,14 +38867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138532,
-      "num": 192067,
-      "word": "许昕说我老了",
-      "onboard_time": 1729336159,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138513,
       "num": 134538,
       "word": "A股踏空后如何上车",
@@ -41195,6 +41219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126343,
+      "num": 126343,
+      "word": "Moncler大秀",
+      "onboard_time": 1729337540,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 126335,
       "num": 126335,
       "word": "虎先锋在杭州已经加了三天班了",
@@ -42771,6 +42803,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 116582,
+      "num": 116582,
+      "word": "赵露思秋日OOTD",
+      "onboard_time": 1729337359,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116552,
       "num": 116552,
       "word": "A股三大股指高开",
@@ -42808,6 +42848,14 @@
       "word": "萨巴伦卡说要努力做郑钦文面前的山",
       "onboard_time": 1728807618,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116155,
+      "num": 116155,
+      "word": "张博恒说夺金的决心还在",
+      "onboard_time": 1729336699,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -43731,6 +43779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "安徽淮南火灾致9人遇难",
+      "onboard_time": 1729337300,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "KSG战胜WE",
@@ -44305,6 +44361,14 @@
       "onboard_time": 1728144918,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107673,
+      "num": 223807,
+      "word": "月壤砖抗压强度是普通砖头的3倍以上",
+      "onboard_time": 1729336640,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107662,
@@ -48923,14 +48987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 68938,
-      "num": 192293,
-      "word": "月壤砖抗压强度是普通砖头的3倍以上",
-      "onboard_time": 1729336640,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68852,
       "num": 575621,
       "word": "在职场该不该扮蠢",
@@ -50915,6 +50971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51887,
+      "num": 211897,
+      "word": "黄晓明回青岛一中参加百年校庆",
+      "onboard_time": 1729336699,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51883,
       "num": 474950,
       "word": "多地酒店称预订成功后不可取消",
@@ -52401,6 +52465,14 @@
       "onboard_time": 1728996261,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42790,
+      "num": 288020,
+      "word": "起底昆明长丰学校董事长商业版图",
+      "onboard_time": 1729336340,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42759,
@@ -54777,6 +54849,14 @@
       "onboard_time": 1728293182,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30462,
+      "num": 113549,
+      "word": "和平精英穿的越粉打架越狠",
+      "onboard_time": 1729337599,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 30451,
@@ -57955,14 +58035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11642,
-      "num": 288020,
-      "word": "起底昆明长丰学校董事长商业版图",
-      "onboard_time": 1729336340,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11556,
       "num": 252624,
       "word": "一首MV见证新中国75年变迁",
@@ -58185,6 +58257,14 @@
       "onboard_time": 1729114691,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 7997,
+      "num": 192396,
+      "word": "汪顺200米混合泳第四",
+      "onboard_time": 1729337599,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 7942,
