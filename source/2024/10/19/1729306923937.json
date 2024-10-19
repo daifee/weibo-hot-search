@@ -1,0 +1,410 @@
+{
+  "runTime": 1729306923937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289646,
+        "num": 1289646,
+        "word": "央视曝有未成年沉迷花钱抽卡",
+        "onboard_time": 1729297339,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756048,
+        "num": 756048,
+        "word": "刷视频相认双胞胎姐妹称后悔相认",
+        "onboard_time": 1729305318,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4177,
+        "num": 712190,
+        "word": "从先行指标看四季度经济走势",
+        "onboard_time": 1729256659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1941850,
+        "num": 710800,
+        "word": "臭肉学校董事长无视最后提问插兜离席",
+        "onboard_time": 1729302019,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785526,
+        "num": 708269,
+        "word": "朝鲜称再次发现韩国放飞垃圾气球",
+        "onboard_time": 1729302858,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 705405,
+        "num": 705405,
+        "word": "你好星期六全员班味十足",
+        "onboard_time": 1729305139,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620588,
+        "num": 620588,
+        "word": "朝方公布韩国无人机残骸",
+        "onboard_time": 1729300879,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 609971,
+        "num": 609971,
+        "word": "田曦薇无刘海大波浪",
+        "onboard_time": 1729303939,
+        "rank": 7,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 394461,
+        "num": 394461,
+        "word": "被烧伤妈妈在ICU看到宝宝时安心了",
+        "onboard_time": 1729298839,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37417,
+        "num": 387213,
+        "word": "失联30年姐妹相认3年后决裂",
+        "onboard_time": 1729306518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171766,
+        "num": 381040,
+        "word": "叶珂称自己卖的衣服独one无two",
+        "onboard_time": 1729302560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639377,
+        "num": 369576,
+        "word": "女儿患红斑狼疮单亲爸爸一夜白头",
+        "onboard_time": 1729292654,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611626,
+        "num": 358696,
+        "word": "没认出来这是费曼",
+        "onboard_time": 1729300698,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353558,
+        "num": 353558,
+        "word": "黄圣依修养",
+        "onboard_time": 1729301838,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288892,
+        "num": 288892,
+        "word": "字节跳动大模型训练被实习生攻击",
+        "onboard_time": 1729295537,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42516,
+        "num": 288529,
+        "word": "原来辛巴直播这么燃",
+        "onboard_time": 1729303519,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255208,
+        "num": 283583,
+        "word": "再见爱人 比脱口秀好笑",
+        "onboard_time": 1729302077,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248431,
+        "num": 281934,
+        "word": "小巷人家定档",
+        "onboard_time": 1729305499,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215994,
+        "num": 280522,
+        "word": "王一博付费试车自由练习精彩集锦",
+        "onboard_time": 1729304238,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 44010,
+        "num": 276005,
+        "word": "潘展乐100自预赛第三",
+        "onboard_time": 1729306219,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710352,
+        "num": 275210,
+        "word": "博主花3886买叶珂衣服后吐槽稀碎",
+        "onboard_time": 1729297456,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421813,
+        "num": 270505,
+        "word": "午睡超一小时死亡风险增加30%",
+        "onboard_time": 1729298478,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270197,
+        "num": 270197,
+        "word": "医生50秒从宝宝耳朵里掏出一颗黄钻",
+        "onboard_time": 1729262661,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267959,
+        "num": 267959,
+        "word": "以方公布辛瓦尔被打死前影像",
+        "onboard_time": 1729261041,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206056,
+        "num": 206056,
+        "word": "韩国回应无人机事件",
+        "onboard_time": 1729304359,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "潘展乐说原本想破汪顺纪录",
+        "onboard_time": 1729299499,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203388,
+        "num": 203388,
+        "word": "徐璐晚上不吃麻辣烫会得心病",
+        "onboard_time": 1729305918,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185554,
+        "num": 185554,
+        "word": "被害女幼师曾向凶手求饶",
+        "onboard_time": 1729261159,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147936,
+        "num": 183552,
+        "word": "刘亦菲黄景瑜豪门姐弟既视感",
+        "onboard_time": 1729306278,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138448,
+        "num": 182730,
+        "word": "张杰晒谢娜拍的vlog",
+        "onboard_time": 1729300998,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182053,
+        "num": 182053,
+        "word": "安卓机还有必要换iPhone吗",
+        "onboard_time": 1729305798,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181636,
+        "num": 181636,
+        "word": "江西一家三口被撞身亡案司机被批捕",
+        "onboard_time": 1729295356,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35832,
+        "num": 168539,
+        "word": "校园食品安全事故问题出在哪个环节",
+        "onboard_time": 1729304958,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163055,
+        "num": 163055,
+        "word": "初中生突然倒地老师用AED救回",
+        "onboard_time": 1729294936,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162299,
+        "num": 162299,
+        "word": "臭肉风波学校食堂厨师出面道歉",
+        "onboard_time": 1729304838,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 157961,
+        "word": "听泉赏宝",
+        "onboard_time": 1729262421,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152661,
+        "num": 152661,
+        "word": "3岁小孩姐3个月轻松拿捏CAD",
+        "onboard_time": 1729303399,
+        "rank": 36,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 142068,
+        "num": 142068,
+        "word": "35岁小伙筋膜枪按摩颈部诱发脑梗死",
+        "onboard_time": 1729263861,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "GAI发文怒怼脱口秀选手",
+        "onboard_time": 1729242440,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121734,
+        "num": 121734,
+        "word": "意大利球星模仿向佐",
+        "onboard_time": 1729306700,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114775,
+        "num": 114775,
+        "word": "黑神话悟空",
+        "onboard_time": 1729306518,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113638,
+        "num": 113638,
+        "word": "留几手 杨子是个懂王",
+        "onboard_time": 1729301778,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110518,
+        "num": 110518,
+        "word": "女子买四季豆检测笔一照蓝盈盈",
+        "onboard_time": 1729294276,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11598,
+        "num": 102781,
+        "word": "颐莲一个牌子两幅面孔",
+        "onboard_time": 1729305679,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98655,
+        "num": 98655,
+        "word": "王一博撤回一个剪刀手",
+        "onboard_time": 1729304658,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96764,
+        "num": 96764,
+        "word": "睡醒就喊老婆没钱立马拉黑",
+        "onboard_time": 1729257021,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95606,
+        "num": 95606,
+        "word": "68岁大爷拍网剧最多日入五六百元",
+        "onboard_time": 1729291333,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95438,
+        "num": 95438,
+        "word": "刘学义 怎么老往不干净的地方打",
+        "onboard_time": 1729283590,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93315,
+        "num": 93315,
+        "word": "何广智 找到自己的舒适区了",
+        "onboard_time": 1729306879,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92747,
+        "num": 92747,
+        "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+        "onboard_time": 1729289121,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高新技术是讨不来要不来的#"
+    }
+  }
+}

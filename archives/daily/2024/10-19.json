@@ -1,21 +1,21 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729306289940,
+  "endTime": 1729306923937,
   "band_list": [
+    {
+      "raw_hot": 1941850,
+      "num": 739382,
+      "word": "臭肉学校董事长无视最后提问插兜离席",
+      "onboard_time": 1729302019,
+      "rank": 23,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1939220,
       "num": 1939220,
       "word": "央视曝有未成年沉迷花钱抽卡",
       "onboard_time": 1729297339,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1731811,
-      "num": 739382,
-      "word": "臭肉学校董事长无视最后提问插兜离席",
-      "onboard_time": 1729302019,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -99,6 +99,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785526,
+      "num": 708269,
+      "word": "朝鲜称再次发现韩国放飞垃圾气球",
+      "onboard_time": 1729302858,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 756048,
+      "num": 756048,
+      "word": "刷视频相认双胞胎姐妹称后悔相认",
+      "onboard_time": 1729305318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739718,
       "num": 739718,
       "word": "朝方公布韩国无人机残骸",
@@ -147,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606671,
-      "num": 606671,
+      "raw_hot": 609971,
+      "num": 609971,
       "word": "田曦薇无刘海大波浪",
       "onboard_time": 1729303939,
       "rank": 5,
@@ -241,14 +257,6 @@
       "onboard_time": 1729263861,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437774,
-      "num": 437774,
-      "word": "朝鲜称再次发现韩国放飞垃圾气球",
-      "onboard_time": 1729302858,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 415909,
@@ -363,12 +371,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 244444,
-      "num": 419632,
-      "word": "刷视频相认双胞胎姐妹称后悔相认",
-      "onboard_time": 1729305318,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 248431,
+      "num": 356241,
+      "word": "小巷人家定档",
+      "onboard_time": 1729305499,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 232784,
@@ -411,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210876,
-      "num": 356241,
-      "word": "小巷人家定档",
-      "onboard_time": 1729305499,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -433,6 +433,14 @@
       "onboard_time": 1729268299,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 203388,
+      "word": "徐璐晚上不吃麻辣烫会得心病",
+      "onboard_time": 1729305918,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 201509,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182053,
+      "num": 182053,
+      "word": "安卓机还有必要换iPhone吗",
+      "onboard_time": 1729305798,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 175719,
       "num": 175719,
       "word": "张真源每天督促沙溢减肥",
@@ -505,6 +521,14 @@
       "onboard_time": 1729261580,
       "rank": 29,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 162299,
+      "num": 416165,
+      "word": "臭肉风波学校食堂厨师出面道歉",
+      "onboard_time": 1729304838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159882,
@@ -539,14 +563,6 @@
       "category": "母婴育儿,教育"
     },
     {
-      "raw_hot": 152997,
-      "num": 152997,
-      "word": "安卓机还有必要换iPhone吗",
-      "onboard_time": 1729305798,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 152939,
       "num": 152939,
       "word": "左手秀麻了",
@@ -561,6 +577,14 @@
       "onboard_time": 1729294276,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147936,
+      "num": 183552,
+      "word": "刘亦菲黄景瑜豪门姐弟既视感",
+      "onboard_time": 1729306278,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145019,
@@ -600,14 +624,6 @@
       "word": "留几手 杨子是个懂王",
       "onboard_time": 1729301778,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 134539,
-      "num": 153593,
-      "word": "徐璐晚上不吃麻辣烫会得心病",
-      "onboard_time": 1729305918,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121734,
+      "num": 121734,
+      "word": "意大利球星模仿向佐",
+      "onboard_time": 1729306700,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121484,
       "num": 121484,
       "word": "虞书欣和平精英舞台",
@@ -673,22 +697,6 @@
       "onboard_time": 1729253841,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118570,
-      "num": 416165,
-      "word": "臭肉风波学校食堂厨师出面道歉",
-      "onboard_time": 1729304838,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117780,
-      "num": 117780,
-      "word": "刘亦菲黄景瑜豪门姐弟既视感",
-      "onboard_time": 1729306278,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117566,
@@ -721,6 +729,14 @@
       "onboard_time": 1729258823,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114775,
+      "num": 114775,
+      "word": "黑神话悟空",
+      "onboard_time": 1729306518,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 113088,
@@ -793,6 +809,14 @@
       "onboard_time": 1729262240,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93315,
+      "num": 93315,
+      "word": "何广智 找到自己的舒适区了",
+      "onboard_time": 1729306879,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 91131,
@@ -931,7 +955,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40534,
+      "raw_hot": 44010,
+      "num": 347769,
+      "word": "潘展乐100自预赛第三",
+      "onboard_time": 1729306219,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42516,
       "num": 383788,
       "word": "原来辛巴直播这么燃",
       "onboard_time": 1729303519,
@@ -939,19 +971,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 37417,
+      "num": 387213,
+      "word": "失联30年姐妹相认3年后决裂",
+      "onboard_time": 1729306518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35832,
+      "num": 396798,
+      "word": "校园食品安全事故问题出在哪个环节",
+      "onboard_time": 1729304958,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33983,
       "num": 124164,
       "word": "外交部谈西田敏行去世",
       "onboard_time": 1729274233,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32899,
-      "num": 396798,
-      "word": "校园食品安全事故问题出在哪个环节",
-      "onboard_time": 1729304958,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 11598,
+      "num": 115555,
+      "word": "颐莲一个牌子两幅面孔",
+      "onboard_time": 1729305679,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 11549,
       "num": 36081,
       "word": "光伏组件低于成本投标中标涉嫌违法",
@@ -1049,22 +1097,6 @@
       "onboard_time": 1729256659,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7997,
-      "num": 115555,
-      "word": "颐莲一个牌子两幅面孔",
-      "onboard_time": 1729305679,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 5681,
-      "num": 347769,
-      "word": "潘展乐100自预赛第三",
-      "onboard_time": 1729306219,
-      "rank": 19,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
