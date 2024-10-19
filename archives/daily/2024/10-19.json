@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729341582648,
+  "endTime": 1729342538904,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -113,6 +113,14 @@
       "onboard_time": 1729302560,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1252637,
+      "num": 1252637,
+      "word": "覃海洋破亚洲纪录夺冠",
+      "onboard_time": 1729339219,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1092223,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 821258,
-      "num": 290969,
+      "num": 352612,
       "word": "黑灯发文",
       "onboard_time": 1729333160,
       "rank": 41,
@@ -380,19 +388,11 @@
     },
     {
       "raw_hot": 626780,
-      "num": 286189,
+      "num": 350493,
       "word": "杨子签约的艺人",
       "onboard_time": 1729330279,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622067,
-      "num": 292147,
-      "word": "覃海洋破亚洲纪录夺冠",
-      "onboard_time": 1729339219,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 621286,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577871,
+      "num": 361826,
+      "word": "应采儿回应生三胎",
+      "onboard_time": 1729330399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576236,
       "num": 576236,
       "word": "王一博赛车直播",
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 527328,
-      "num": 312622,
-      "word": "应采儿回应生三胎",
-      "onboard_time": 1729330399,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 510624,
       "num": 286474,
       "word": "迪丽热巴贝雷帽look",
@@ -553,6 +553,14 @@
       "onboard_time": 1729299499,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497049,
+      "num": 354937,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491451,
@@ -697,6 +705,14 @@
       "onboard_time": 1729310118,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393557,
+      "num": 393557,
+      "word": "TES对战T1",
+      "onboard_time": 1729338320,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 389540,
@@ -899,12 +915,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268549,
+      "num": 268549,
+      "word": "唐钱婷100蛙夺金",
+      "onboard_time": 1729340659,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268519,
       "num": 216234,
       "word": "邹贝贝保研了",
       "onboard_time": 1729321939,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265586,
+      "num": 265586,
+      "word": "马尔尚夺冠",
+      "onboard_time": 1729341079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 261269,
+      "num": 261269,
+      "word": "赵丽颖出发金鹰节",
+      "onboard_time": 1729341200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 255040,
@@ -1083,14 +1123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210454,
-      "num": 300028,
-      "word": "昆明学校食堂臭肉事件检测结果已出",
-      "onboard_time": 1729339279,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -1187,20 +1219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196496,
-      "num": 196496,
-      "word": "TES对战T1",
-      "onboard_time": 1729338320,
-      "rank": 27,
-      "category": "电竞"
+      "raw_hot": 197177,
+      "num": 197177,
+      "word": "崔然竣上海活动",
+      "onboard_time": 1729341440,
+      "rank": 45,
+      "category": "艺人"
     },
     {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "唐钱婷100蛙夺金",
-      "onboard_time": 1729340659,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 195713,
+      "num": 195713,
+      "word": "谁要和你做兄妹名场面",
+      "onboard_time": 1729338380,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 194865,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1729333219,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 186080,
-      "num": 186080,
-      "word": "谁要和你做兄妹名场面",
-      "onboard_time": 1729338380,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 184966,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1729326320,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174900,
-      "num": 174900,
-      "word": "马尔尚夺冠",
-      "onboard_time": 1729341079,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 174462,
@@ -1587,12 +1603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159766,
-      "num": 159766,
-      "word": "赵丽颖出发金鹰节",
-      "onboard_time": 1729341200,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 159392,
+      "num": 159392,
+      "word": "真要觉得青山刚昌是故意的了",
+      "onboard_time": 1729339818,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 157638,
@@ -1699,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148752,
+      "num": 148752,
+      "word": "厂长解说",
+      "onboard_time": 1729340659,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148461,
       "num": 148461,
       "word": "如鸢",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1729294276,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146839,
+      "num": 146839,
+      "word": "WBG获胜",
+      "onboard_time": 1729341378,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 146783,
@@ -1763,20 +1795,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143256,
-      "num": 143256,
-      "word": "真要觉得青山刚昌是故意的了",
-      "onboard_time": 1729339818,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 142606,
       "num": 142606,
       "word": "Gr对战FPX.ZQ",
       "onboard_time": 1729332619,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141803,
+      "num": 141803,
+      "word": "真实的产后状态是怎样的",
+      "onboard_time": 1729339460,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 140919,
+      "num": 140919,
+      "word": "黑灯 学的仁义礼智信",
+      "onboard_time": 1729340780,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140654,
@@ -1801,14 +1841,6 @@
       "onboard_time": 1729321879,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139348,
-      "num": 139348,
-      "word": "黑灯 学的仁义礼智信",
-      "onboard_time": 1729340780,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 138734,
@@ -1859,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136084,
+      "num": 136084,
+      "word": "林俊杰厦门演唱会",
+      "onboard_time": 1729342160,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134880,
       "num": 134880,
       "word": "山东一医院因没钱无法报销医保",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1729323078,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133493,
-      "num": 133493,
-      "word": "真实的产后状态是怎样的",
-      "onboard_time": 1729339460,
-      "rank": 41,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 132965,
@@ -1899,14 +1931,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 132669,
-      "num": 132669,
-      "word": "WBG获胜",
-      "onboard_time": 1729341378,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130986,
       "num": 262851,
       "word": "辛瓦尔接任哈马斯领导人至死亡仅72天",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1729312218,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129214,
-      "num": 129214,
-      "word": "崔然竣上海活动",
-      "onboard_time": 1729341440,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 128952,
@@ -2081,14 +2097,6 @@
       "onboard_time": 1729263321,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117381,
-      "num": 117381,
-      "word": "厂长解说",
-      "onboard_time": 1729340659,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 116582,
@@ -2267,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106424,
+      "num": 106424,
+      "word": "上海队让2追3的神",
+      "onboard_time": 1729342100,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "白鹿孟子义摄影组合叫白日孟影",
@@ -2321,6 +2337,14 @@
       "onboard_time": 1729302439,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101397,
+      "num": 101397,
+      "word": "苏新皓翻跳IYKYK",
+      "onboard_time": 1729342219,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 96038,
@@ -2571,6 +2595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45956,
+      "num": 368782,
+      "word": "昆明长丰学校董事长实控企业26家",
+      "onboard_time": 1729340119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44228,
       "num": 62161,
       "word": "拉布拉多太胖上下楼主人用起重机",
@@ -2585,6 +2617,14 @@
       "onboard_time": 1729336340,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38107,
+      "num": 246626,
+      "word": "和平精英一个巨大的老六班子",
+      "onboard_time": 1729341319,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 37726,
@@ -2609,6 +2649,14 @@
       "onboard_time": 1729304958,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35146,
+      "num": 280981,
+      "word": "陆嘉学我独自开始推理吧",
+      "onboard_time": 1729342519,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 35048,
@@ -2705,14 +2753,6 @@
       "onboard_time": 1729306939,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26556,
-      "num": 129422,
-      "word": "和平精英一个巨大的老六班子",
-      "onboard_time": 1729341319,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 26296,

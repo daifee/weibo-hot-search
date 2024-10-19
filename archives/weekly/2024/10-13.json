@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729341582648,
+  "endTime": 1729342538904,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252637,
+      "num": 1252637,
+      "word": "覃海洋破亚洲纪录夺冠",
+      "onboard_time": 1729339219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1244194,
       "num": 1097926,
       "word": "国考岗位表",
@@ -2468,7 +2476,7 @@
     },
     {
       "raw_hot": 821258,
-      "num": 290969,
+      "num": 352612,
       "word": "黑灯发文",
       "onboard_time": 1729333160,
       "rank": 41,
@@ -3668,7 +3676,7 @@
     },
     {
       "raw_hot": 626780,
-      "num": 286189,
+      "num": 350493,
       "word": "杨子签约的艺人",
       "onboard_time": 1729330279,
       "rank": 25,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1729253960,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 622067,
-      "num": 292147,
-      "word": "覃海洋破亚洲纪录夺冠",
-      "onboard_time": 1729339219,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 621286,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1729236681,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 577871,
+      "num": 361826,
+      "word": "应采儿回应生三胎",
+      "onboard_time": 1729330399,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 577803,
@@ -4435,14 +4443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 527328,
-      "num": 312622,
-      "word": "应采儿回应生三胎",
-      "onboard_time": 1729330399,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 525364,
       "num": 471087,
       "word": "比伯yummy mv",
@@ -4681,6 +4681,14 @@
       "onboard_time": 1729210341,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 497049,
+      "num": 354937,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496903,
@@ -5681,6 +5689,14 @@
       "onboard_time": 1729310118,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393557,
+      "num": 393557,
+      "word": "TES对战T1",
+      "onboard_time": 1729338320,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 393085,
@@ -7563,6 +7579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268549,
+      "num": 268549,
+      "word": "唐钱婷100蛙夺金",
+      "onboard_time": 1729340659,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268519,
       "num": 216234,
       "word": "邹贝贝保研了",
@@ -7617,6 +7641,14 @@
       "onboard_time": 1729052061,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 265586,
+      "num": 265586,
+      "word": "马尔尚夺冠",
+      "onboard_time": 1729341079,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 265324,
@@ -7745,6 +7777,14 @@
       "onboard_time": 1729152682,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 261269,
+      "num": 261269,
+      "word": "赵丽颖出发金鹰节",
+      "onboard_time": 1729341200,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 261252,
@@ -9515,14 +9555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210454,
-      "num": 300028,
-      "word": "昆明学校食堂臭肉事件检测结果已出",
-      "onboard_time": 1729339279,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210427,
       "num": 486006,
       "word": "上甘岭开播",
@@ -10507,6 +10539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197177,
+      "num": 197177,
+      "word": "崔然竣上海活动",
+      "onboard_time": 1729341440,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197126,
       "num": 197126,
       "word": "各地飞往韩国的航班暂未受影响",
@@ -10577,14 +10617,6 @@
       "onboard_time": 1729164262,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196496,
-      "num": 196496,
-      "word": "TES对战T1",
-      "onboard_time": 1729338320,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 196389,
@@ -10659,6 +10691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195713,
+      "num": 195713,
+      "word": "谁要和你做兄妹名场面",
+      "onboard_time": 1729338380,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195651,
       "num": 195651,
       "word": "微博会员50一年",
@@ -10721,14 +10761,6 @@
       "onboard_time": 1729141825,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "唐钱婷100蛙夺金",
-      "onboard_time": 1729340659,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 195019,
@@ -11547,14 +11579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186080,
-      "num": 186080,
-      "word": "谁要和你做兄妹名场面",
-      "onboard_time": 1729338380,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186051,
       "num": 186051,
       "word": "林高远刘诗雯晋级混双决赛",
@@ -12289,14 +12313,6 @@
       "onboard_time": 1729326320,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174900,
-      "num": 174900,
-      "word": "马尔尚夺冠",
-      "onboard_time": 1729341079,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 174802,
@@ -13347,14 +13363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159766,
-      "num": 159766,
-      "word": "赵丽颖出发金鹰节",
-      "onboard_time": 1729341200,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159738,
       "num": 477636,
       "word": "在山西随手抓把土都能讲出5000年故事",
@@ -13393,6 +13401,14 @@
       "onboard_time": 1729069878,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159392,
+      "num": 159392,
+      "word": "真要觉得青山刚昌是故意的了",
+      "onboard_time": 1729339818,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 159242,
@@ -14075,6 +14091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148752,
+      "num": 148752,
+      "word": "厂长解说",
+      "onboard_time": 1729340659,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148658,
       "num": 148658,
       "word": "许昕vs程靖淇",
@@ -14225,6 +14249,14 @@
       "onboard_time": 1729131741,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146839,
+      "num": 146839,
+      "word": "WBG获胜",
+      "onboard_time": 1729341378,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 146783,
@@ -14483,14 +14515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143256,
-      "num": 143256,
-      "word": "真要觉得青山刚昌是故意的了",
-      "onboard_time": 1729339818,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 143171,
       "num": 143171,
       "word": "justsu直拍",
@@ -14587,6 +14611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141803,
+      "num": 141803,
+      "word": "真实的产后状态是怎样的",
+      "onboard_time": 1729339460,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 141462,
       "num": 141462,
       "word": "关晓彤探班张艺兴音乐话剧",
@@ -14633,6 +14665,14 @@
       "onboard_time": 1729230560,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140919,
+      "num": 140919,
+      "word": "黑灯 学的仁义礼智信",
+      "onboard_time": 1729340780,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140839,
@@ -14769,14 +14809,6 @@
       "onboard_time": 1729243880,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139348,
-      "num": 139348,
-      "word": "黑灯 学的仁义礼智信",
-      "onboard_time": 1729340780,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 139092,
@@ -15027,6 +15059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136084,
+      "num": 136084,
+      "word": "林俊杰厦门演唱会",
+      "onboard_time": 1729342160,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135994,
       "num": 135994,
       "word": "记者调查班主任群内发飙事件进展",
@@ -15115,14 +15155,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 133493,
-      "num": 133493,
-      "word": "真实的产后状态是怎样的",
-      "onboard_time": 1729339460,
-      "rank": 41,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 133450,
       "num": 133450,
       "word": "林钟勋安宰贤亚锦赛夺冠",
@@ -15177,14 +15209,6 @@
       "onboard_time": 1729223000,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132669,
-      "num": 132669,
-      "word": "WBG获胜",
-      "onboard_time": 1729341378,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 132369,
@@ -15305,14 +15329,6 @@
       "onboard_time": 1728908238,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129214,
-      "num": 129214,
-      "word": "崔然竣上海活动",
-      "onboard_time": 1729341440,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 129201,
@@ -15881,14 +15897,6 @@
       "onboard_time": 1728815720,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117381,
-      "num": 117381,
-      "word": "厂长解说",
-      "onboard_time": 1729340659,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 117318,
@@ -16483,6 +16491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106424,
+      "num": 106424,
+      "word": "上海队让2追3的神",
+      "onboard_time": 1729342100,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "白鹿孟子义摄影组合叫白日孟影",
@@ -16705,6 +16721,14 @@
       "onboard_time": 1728780318,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 101397,
+      "num": 101397,
+      "word": "苏新皓翻跳IYKYK",
+      "onboard_time": 1729342219,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 101117,
@@ -19059,6 +19083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45956,
+      "num": 368782,
+      "word": "昆明长丰学校董事长实控企业26家",
+      "onboard_time": 1729340119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45955,
       "num": 268020,
       "word": "那些爱挑刺的人到底是什么心理",
@@ -19515,6 +19547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38107,
+      "num": 246626,
+      "word": "和平精英一个巨大的老六班子",
+      "onboard_time": 1729341319,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37980,
       "num": 302757,
       "word": "木马都不旋转了但牛马还在旋转",
@@ -19745,6 +19785,14 @@
       "onboard_time": 1728752056,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35146,
+      "num": 280981,
+      "word": "陆嘉学我独自开始推理吧",
+      "onboard_time": 1729342519,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 35098,
@@ -20577,14 +20625,6 @@
       "onboard_time": 1729306939,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26556,
-      "num": 129422,
-      "word": "和平精英一个巨大的老六班子",
-      "onboard_time": 1729341319,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 26426,

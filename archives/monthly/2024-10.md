@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 20:39:42
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 20:55:38
 </p>
 </blockquote>
 <p>
@@ -2099,6 +2099,12 @@ VOGUE晚宴（热度：1311474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8F%82%E4%B8%8E%E9%AC%BC%E7%81%AB%E5%B0%91%E5%B9%B4%E7%82%B8%E8%A1%97%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%9A%B4%E6%8F%8D%23" target="weibo">
 儿子参与鬼火少年炸街被父亲暴揍（热度：1253548）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0%23" target="weibo">
+覃海洋破亚洲纪录夺冠（热度：1252637）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPadmini7发布（热度：659230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E5%A4%A7%E7%88%B7%E6%8B%8D%E7%BD%91%E5%89%A7%E6%9C%80%E5%A4%9A%E6%97%A5%E5%85%A5%E4%BA%94%E5%85%AD%E7%99%BE%E5%85%83%23" target="weibo">
 68岁大爷拍网剧最多日入五六百元（热度：658801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jessi%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
-Jessi发文道歉（热度：656438）
 </a>
 </li>
 
