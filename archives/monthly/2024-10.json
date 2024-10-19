@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729302040896,
+  "endTime": 1729303068122,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1043,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1939220,
+      "num": 1939220,
+      "word": "央视曝有未成年沉迷花钱抽卡",
+      "onboard_time": 1729297339,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1939138,
       "num": 446342,
       "word": "八角笼中小演员片酬",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1728892219,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1688869,
-      "num": 1688869,
-      "word": "央视曝有未成年沉迷花钱抽卡",
-      "onboard_time": 1729297339,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1685238,
@@ -3667,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1048642,
+      "num": 1048642,
+      "word": "被烧伤妈妈在ICU看到宝宝时安心了",
+      "onboard_time": 1729298839,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048058,
       "num": 1154981,
       "word": "大爷还没意识到他马上成为景点",
@@ -4569,6 +4577,14 @@
       "onboard_time": 1728223699,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 928983,
+      "num": 333981,
+      "word": "没认出来这是费曼",
+      "onboard_time": 1729300698,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 928166,
@@ -7923,14 +7939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 647524,
-      "num": 647524,
-      "word": "被烧伤妈妈在ICU看到宝宝时安心了",
-      "onboard_time": 1729298839,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647149,
       "num": 647149,
       "word": "王楚钦3比1阿拉米扬",
@@ -7953,14 +7961,6 @@
       "onboard_time": 1729073780,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 645121,
-      "num": 333981,
-      "word": "没认出来这是费曼",
-      "onboard_time": 1729300698,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 644517,
@@ -8737,6 +8737,14 @@
       "onboard_time": 1727838617,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601759,
+      "num": 601759,
+      "word": "黄圣依修养",
+      "onboard_time": 1729301838,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 600654,
@@ -11171,6 +11179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480249,
+      "num": 480249,
+      "word": "臭肉学校董事长无视最后提问插兜离席",
+      "onboard_time": 1729302019,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480143,
       "num": 480143,
       "word": "前三季度GDP同比增长4.8%",
@@ -12483,6 +12499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428593,
+      "num": 428593,
+      "word": "朝方公布韩国无人机残骸",
+      "onboard_time": 1729300879,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 427862,
       "num": 427862,
       "word": "海康威视大规模裁员",
@@ -13313,14 +13337,6 @@
       "onboard_time": 1727767519,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 396640,
-      "num": 324510,
-      "word": "黄圣依修养",
-      "onboard_time": 1729301838,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 396510,
@@ -16129,14 +16145,6 @@
       "onboard_time": 1729175243,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317999,
-      "num": 317999,
-      "word": "臭肉学校董事长无视最后提问插兜离席",
-      "onboard_time": 1729302019,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317765,
@@ -19473,6 +19481,14 @@
       "onboard_time": 1727830639,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 262975,
+      "num": 237962,
+      "word": "叶珂称自己卖的衣服独one无two",
+      "onboard_time": 1729302560,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 262916,
@@ -25595,14 +25611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201631,
-      "num": 339761,
-      "word": "朝方公布韩国无人机残骸",
-      "onboard_time": 1729300879,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 201627,
       "num": 201627,
       "word": "推特无条件使用图片AI训练",
@@ -27171,6 +27179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194484,
+      "num": 323911,
+      "word": "张杰晒谢娜拍的vlog",
+      "onboard_time": 1729300998,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194467,
       "num": 194467,
       "word": "网易第五人格",
@@ -27369,6 +27385,14 @@
       "onboard_time": 1728356358,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193414,
+      "num": 193414,
+      "word": "朝鲜称无人机渗透入平壤由韩军方主导",
+      "onboard_time": 1729302141,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 193400,
@@ -33139,6 +33163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161529,
+      "num": 161529,
+      "word": "再见爱人 比脱口秀好笑",
+      "onboard_time": 1729302077,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161505,
       "num": 161505,
       "word": "黄金飙涨周大福们扛不住了吗",
@@ -34529,14 +34561,6 @@
       "onboard_time": 1728473359,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154463,
-      "num": 323911,
-      "word": "张杰晒谢娜拍的vlog",
-      "onboard_time": 1729300998,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 154422,
@@ -37643,6 +37667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138681,
+      "num": 138681,
+      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+      "onboard_time": 1729289121,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138679,
       "num": 138679,
       "word": "这饭要的一点都不像演的",
@@ -39124,7 +39156,7 @@
     },
     {
       "raw_hot": 130986,
-      "num": 130986,
+      "num": 262851,
       "word": "辛瓦尔接任哈马斯领导人至死亡仅72天",
       "onboard_time": 1729300639,
       "rank": 36,
@@ -40313,6 +40345,14 @@
       "onboard_time": 1729180400,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123761,
+      "num": 123761,
+      "word": "留几手 杨子是个懂王",
+      "onboard_time": 1729301778,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 123752,
@@ -42465,14 +42505,6 @@
       "onboard_time": 1728636082,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110530,
-      "num": 110530,
-      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
-      "onboard_time": 1729289121,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110479,
@@ -45059,6 +45091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91976,
+      "num": 91976,
+      "word": "这季再见爱人太好看了",
+      "onboard_time": 1729302439,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91720,
       "num": 318493,
       "word": "央视揭秘增高产品骗局",
@@ -45137,6 +45177,14 @@
       "onboard_time": 1728911301,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91131,
+      "num": 109690,
+      "word": "潘展乐采访后抢记者话筒宣布下班",
+      "onboard_time": 1729299559,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 91089,
@@ -45785,14 +45833,6 @@
       "onboard_time": 1727842278,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85071,
-      "num": 109690,
-      "word": "潘展乐采访后抢记者话筒宣布下班",
-      "onboard_time": 1729299559,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 84850,
@@ -46713,14 +46753,6 @@
       "onboard_time": 1728030499,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77063,
-      "num": 109249,
-      "word": "留几手 杨子是个懂王",
-      "onboard_time": 1729301778,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 77056,
@@ -56545,6 +56577,14 @@
       "onboard_time": 1729114691,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 8292,
+      "num": 261771,
+      "word": "朝鲜称再次发现韩国放飞垃圾气球",
+      "onboard_time": 1729302858,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 7942,

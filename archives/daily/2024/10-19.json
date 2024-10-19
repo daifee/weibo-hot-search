@@ -1,10 +1,10 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729302040896,
+  "endTime": 1729303068122,
   "band_list": [
     {
-      "raw_hot": 1688869,
-      "num": 1688869,
+      "raw_hot": 1939220,
+      "num": 1939220,
       "word": "央视曝有未成年沉迷花钱抽卡",
       "onboard_time": 1729297339,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048642,
+      "num": 1048642,
+      "word": "被烧伤妈妈在ICU看到宝宝时安心了",
+      "onboard_time": 1729298839,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 969531,
       "num": 969531,
       "word": "女儿患红斑狼疮单亲爸爸一夜白头",
@@ -41,6 +49,14 @@
       "onboard_time": 1729262661,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928983,
+      "num": 333981,
+      "word": "没认出来这是费曼",
+      "onboard_time": 1729300698,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 927894,
@@ -99,19 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647524,
-      "num": 647524,
-      "word": "被烧伤妈妈在ICU看到宝宝时安心了",
-      "onboard_time": 1729298839,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645121,
-      "num": 333981,
-      "word": "没认出来这是费曼",
-      "onboard_time": 1729300698,
-      "rank": 12,
+      "raw_hot": 601759,
+      "num": 601759,
+      "word": "黄圣依修养",
+      "onboard_time": 1729301838,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -179,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 480249,
+      "num": 480249,
+      "word": "臭肉学校董事长无视最后提问插兜离席",
+      "onboard_time": 1729302019,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461801,
       "num": 244000,
       "word": "鹿晗乱丢烟头",
@@ -195,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428593,
+      "num": 428593,
+      "word": "朝方公布韩国无人机残骸",
+      "onboard_time": 1729300879,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 415909,
       "num": 321071,
       "word": "江西一家三口被撞身亡案司机被批捕",
       "onboard_time": 1729295356,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396640,
-      "num": 324510,
-      "word": "黄圣依修养",
-      "onboard_time": 1729301838,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 389540,
@@ -283,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317999,
-      "num": 317999,
-      "word": "臭肉学校董事长无视最后提问插兜离席",
-      "onboard_time": 1729302019,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314348,
       "num": 236981,
       "word": "黄圣依杨子回应当年微博藏头诗",
@@ -305,6 +313,14 @@
       "onboard_time": 1729253421,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 262975,
+      "num": 237962,
+      "word": "叶珂称自己卖的衣服独one无two",
+      "onboard_time": 1729302560,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 255040,
@@ -355,14 +371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201631,
-      "num": 339761,
-      "word": "朝方公布韩国无人机残骸",
-      "onboard_time": 1729300879,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 201509,
       "num": 201509,
       "word": "哈马斯最新声明",
@@ -395,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194484,
+      "num": 323911,
+      "word": "张杰晒谢娜拍的vlog",
+      "onboard_time": 1729300998,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193414,
+      "num": 193414,
+      "word": "朝鲜称无人机渗透入平壤由韩军方主导",
+      "onboard_time": 1729302141,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182098,
       "num": 361642,
       "word": "这种装扮游故宫到底是谁不尊重谁",
@@ -419,6 +443,14 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 161529,
+      "num": 161529,
+      "word": "再见爱人 比脱口秀好笑",
+      "onboard_time": 1729302077,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159882,
       "num": 159882,
       "word": "TheShy看WBG晋级四强",
@@ -441,14 +473,6 @@
       "onboard_time": 1729267459,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154463,
-      "num": 323911,
-      "word": "张杰晒谢娜拍的vlog",
-      "onboard_time": 1729300998,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 152939,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138681,
+      "num": 138681,
+      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
+      "onboard_time": 1729289121,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137371,
       "num": 137371,
       "word": "员工嫖娼被抓公司解除劳动合同被告",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 130986,
-      "num": 130986,
+      "num": 262851,
       "word": "辛瓦尔接任哈马斯领导人至死亡仅72天",
       "onboard_time": 1729300639,
       "rank": 36,
@@ -529,6 +561,14 @@
       "onboard_time": 1729262361,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123761,
+      "num": 123761,
+      "word": "留几手 杨子是个懂王",
+      "onboard_time": 1729301778,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121484,
@@ -611,14 +651,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 110530,
-      "num": 110530,
-      "word": "强冷空气吹的10余省份翻箱倒柜找秋裤",
-      "onboard_time": 1729289121,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110139,
       "num": 110139,
       "word": "伊朗强烈谴责以色列杀害哈马斯领导人",
@@ -640,6 +672,22 @@
       "word": "胡明轩40分",
       "onboard_time": 1729262240,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91976,
+      "num": 91976,
+      "word": "这季再见爱人太好看了",
+      "onboard_time": 1729302439,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91131,
+      "num": 109690,
+      "word": "潘展乐采访后抢记者话筒宣布下班",
+      "onboard_time": 1729299559,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -667,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85071,
-      "num": 109690,
-      "word": "潘展乐采访后抢记者话筒宣布下班",
-      "onboard_time": 1729299559,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82197,
       "num": 109361,
       "word": "新疆真实存在过的女儿国",
@@ -689,14 +729,6 @@
       "onboard_time": 1729292595,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77063,
-      "num": 109249,
-      "word": "留几手 杨子是个懂王",
-      "onboard_time": 1729301778,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 76325,
@@ -889,6 +921,14 @@
       "onboard_time": 1729256659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8292,
+      "num": 261771,
+      "word": "朝鲜称再次发现韩国放飞垃圾气球",
+      "onboard_time": 1729302858,
+      "rank": 14,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
