@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 23:21:31
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 23:36:03
 </p>
 </blockquote>
 <p>
@@ -3309,6 +3309,12 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E8%87%B4%E6%AD%89%23" target="weibo">
+TES致歉（热度：984157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9D%80%E7%81%AB%23" target="weibo">
 SEVENTEEN演唱会着火（热度：981986）
 </a>
@@ -6005,12 +6011,6 @@ BLG（热度：663891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E4%B8%80%E5%87%BA%E5%9C%BA%E5%B0%B1%E6%98%AF%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89%23" target="weibo">
 宋佳一出场就是国泰民安（热度：663745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%90%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E4%BC%91%E6%81%AF%E5%8E%85%E5%BC%80%E9%9F%B3%E5%93%8D%E8%B7%B3%E8%88%9E%23" target="weibo">
-机场回应多名大妈在休息厅开音响跳舞（热度：662753）
 </a>
 </li>
 

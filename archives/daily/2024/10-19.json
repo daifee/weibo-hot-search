@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729351291466,
+  "endTime": 1729352163877,
   "band_list": [
     {
       "raw_hot": 2522793,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984157,
+      "num": 984157,
+      "word": "TES致歉",
+      "onboard_time": 1729351039,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 969531,
       "num": 969531,
       "word": "女儿患红斑狼疮单亲爸爸一夜白头",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 817908,
-      "num": 817908,
+      "num": 924476,
       "word": "韩称朝鲜士兵将投入俄乌作战前线",
       "onboard_time": 1729345159,
       "rank": 8,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646495,
+      "num": 784248,
+      "word": "SNH48 网络好的太不是时候了",
+      "onboard_time": 1729348521,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646395,
       "num": 646395,
       "word": "张凌赫疑似失去所有的手段和力气",
@@ -457,14 +473,6 @@
       "onboard_time": 1729311858,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 639104,
-      "num": 784248,
-      "word": "SNH48 网络好的太不是时候了",
-      "onboard_time": 1729348521,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 634447,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565252,
+      "num": 762364,
+      "word": "昆明长丰学校食堂承包商被罚578万",
+      "onboard_time": 1729349901,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546131,
       "num": 369903,
       "word": "内娱三大忍者",
@@ -641,6 +657,14 @@
       "onboard_time": 1729332021,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513218,
+      "num": 513218,
+      "word": "重庆警方通报一男子砍伤他人",
+      "onboard_time": 1729349781,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510624,
@@ -721,14 +745,6 @@
       "onboard_time": 1729305918,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 469318,
-      "num": 469318,
-      "word": "重庆警方通报一男子砍伤他人",
-      "onboard_time": 1729349781,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461801,
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354947,
+      "num": 455758,
+      "word": "昆明一学校食堂肉品散发异味调查情况",
+      "onboard_time": 1729349302,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353311,
       "num": 353311,
       "word": "赵丽颖出发金鹰节",
@@ -961,6 +985,14 @@
       "onboard_time": 1729306278,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335299,
+      "num": 335299,
+      "word": "369",
+      "onboard_time": 1729351760,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 334045,
@@ -1043,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298643,
+      "num": 298643,
+      "word": "LPL最严厉的父亲",
+      "onboard_time": 1729351279,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298075,
       "num": 298075,
       "word": "马尔尚夺冠",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1729328840,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293003,
-      "num": 762364,
-      "word": "昆明长丰学校食堂承包商被罚578万",
-      "onboard_time": 1729349901,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291447,
@@ -1107,12 +1139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273791,
-      "num": 273791,
-      "word": "TES致歉",
-      "onboard_time": 1729351039,
+      "raw_hot": 275511,
+      "num": 463062,
+      "word": "林依晨郑元畅同台颁奖",
+      "onboard_time": 1729347740,
       "rank": 29,
-      "category": "电竞"
+      "category": "剧集"
     },
     {
       "raw_hot": 268549,
@@ -1131,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264012,
-      "num": 436259,
-      "word": "林依晨郑元畅同台颁奖",
-      "onboard_time": 1729347740,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 264229,
+      "num": 366407,
+      "word": "aespa MV预告",
+      "onboard_time": 1729351580,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 255040,
@@ -1176,14 +1208,6 @@
       "word": "外国工程师兴奋讲解从中国买的好东西",
       "onboard_time": 1729323379,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241852,
-      "num": 455758,
-      "word": "昆明一学校食堂肉品散发异味调查情况",
-      "onboard_time": 1729349302,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199696,
+      "num": 199696,
+      "word": "Meiko状态",
+      "onboard_time": 1729351340,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199295,
       "num": 199295,
       "word": "林俊杰魏如萱合唱",
@@ -1563,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192955,
+      "num": 192955,
+      "word": "能不能复仇GenG",
+      "onboard_time": 1729352059,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191827,
       "num": 191827,
       "word": "14岁女孩遭辅导班老师性侵两年",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1729329439,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182279,
+      "num": 182279,
+      "word": "被邓紫棋辣到了",
+      "onboard_time": 1729351519,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 182098,
@@ -2369,6 +2417,14 @@
       "onboard_time": 1729325659,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128303,
+      "num": 276824,
+      "word": "长丰学校食品安全问题调查情况通报",
+      "onboard_time": 1729352059,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127113,
@@ -3305,6 +3361,14 @@
       "onboard_time": 1729305679,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 20806,
+      "num": 489124,
+      "word": "别放过食堂臭肉",
+      "onboard_time": 1729351640,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20444,

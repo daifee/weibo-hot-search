@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729351291466,
+  "endTime": 1729352163877,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -4395,6 +4395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 984157,
+      "num": 984157,
+      "word": "TES致歉",
+      "onboard_time": 1729351039,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 981986,
       "num": 454165,
       "word": "SEVENTEEN演唱会着火",
@@ -5852,7 +5860,7 @@
     },
     {
       "raw_hot": 817908,
-      "num": 817908,
+      "num": 924476,
       "word": "韩称朝鲜士兵将投入俄乌作战前线",
       "onboard_time": 1729345159,
       "rank": 8,
@@ -8275,6 +8283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646495,
+      "num": 784248,
+      "word": "SNH48 网络好的太不是时候了",
+      "onboard_time": 1729348521,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646487,
       "num": 646487,
       "word": "民警搜山喊了4小时找回5名大学生",
@@ -8417,14 +8433,6 @@
       "onboard_time": 1727769019,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 639104,
-      "num": 784248,
-      "word": "SNH48 网络好的太不是时候了",
-      "onboard_time": 1729348521,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 638674,
@@ -9891,6 +9899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565252,
+      "num": 762364,
+      "word": "昆明长丰学校食堂承包商被罚578万",
+      "onboard_time": 1729349901,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565190,
       "num": 383813,
       "word": "4S店称迈巴赫漏水已锁定具体问题点",
@@ -10921,6 +10937,14 @@
       "onboard_time": 1728704179,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 513218,
+      "num": 513218,
+      "word": "重庆警方通报一男子砍伤他人",
+      "onboard_time": 1729349781,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512906,
@@ -12025,14 +12049,6 @@
       "onboard_time": 1728197359,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 469318,
-      "num": 469318,
-      "word": "重庆警方通报一男子砍伤他人",
-      "onboard_time": 1729349781,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468734,
@@ -15387,6 +15403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354947,
+      "num": 455758,
+      "word": "昆明一学校食堂肉品散发异味调查情况",
+      "onboard_time": 1729349302,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354816,
       "num": 284414,
       "word": "女子深夜高速上突遇逆行车辆",
@@ -16129,6 +16153,14 @@
       "onboard_time": 1728036737,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335299,
+      "num": 335299,
+      "word": "369",
+      "onboard_time": 1727964560,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 334912,
@@ -17803,6 +17835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298643,
+      "num": 298643,
+      "word": "LPL最严厉的父亲",
+      "onboard_time": 1729351279,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298328,
       "num": 298328,
       "word": "2025国考行测增设政治理论部分",
@@ -18185,14 +18225,6 @@
       "onboard_time": 1728283698,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293003,
-      "num": 762364,
-      "word": "昆明长丰学校食堂承包商被罚578万",
-      "onboard_time": 1729349901,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292876,
@@ -19339,6 +19371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 275511,
+      "num": 463062,
+      "word": "林依晨郑元畅同台颁奖",
+      "onboard_time": 1729347740,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275368,
       "num": 275368,
       "word": "听泉鉴宝下架大量商品",
@@ -19457,14 +19497,6 @@
       "onboard_time": 1728021021,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273791,
-      "num": 273791,
-      "word": "TES致歉",
-      "onboard_time": 1729351039,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 273754,
@@ -20195,6 +20227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 264229,
+      "num": 366407,
+      "word": "aespa MV预告",
+      "onboard_time": 1729351580,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264147,
       "num": 264147,
       "word": "女子花500元找男大学生陪爬泰山",
@@ -20209,14 +20249,6 @@
       "onboard_time": 1727753240,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264012,
-      "num": 436259,
-      "word": "林依晨郑元畅同台颁奖",
-      "onboard_time": 1729347740,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 263805,
@@ -21859,14 +21891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241852,
-      "num": 455758,
-      "word": "昆明一学校食堂肉品散发异味调查情况",
-      "onboard_time": 1729349302,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241722,
       "num": 200949,
       "word": "王睡睡对老刘张硕说祝你们幸福",
@@ -22113,14 +22137,6 @@
       "onboard_time": 1728901701,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238629,
-      "num": 234963,
-      "word": "369",
-      "onboard_time": 1727964560,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 238624,
@@ -27099,6 +27115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199696,
+      "num": 199696,
+      "word": "Meiko状态",
+      "onboard_time": 1729351340,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199675,
       "num": 199675,
       "word": "王欣瑜晋级武网8强",
@@ -28681,6 +28705,14 @@
       "onboard_time": 1728467299,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192955,
+      "num": 192955,
+      "word": "能不能复仇GenG",
+      "onboard_time": 1729352059,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 192885,
@@ -30777,6 +30809,14 @@
       "onboard_time": 1728301344,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182279,
+      "num": 182279,
+      "word": "被邓紫棋辣到了",
+      "onboard_time": 1729351519,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 182269,
@@ -41392,6 +41432,14 @@
       "word": "官方通报高二女生跑步猝死",
       "onboard_time": 1729001241,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128303,
+      "num": 276824,
+      "word": "长丰学校食品安全问题调查情况通报",
+      "onboard_time": 1729352059,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -57448,6 +57496,14 @@
       "word": "将研究部分税费支持失业保险",
       "onboard_time": 1728369320,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20806,
+      "num": 489124,
+      "word": "别放过食堂臭肉",
+      "onboard_time": 1729351640,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
