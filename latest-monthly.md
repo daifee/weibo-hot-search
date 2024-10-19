@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 23:36:03
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/20 00:26:33
 </p>
 </blockquote>
 <p>
@@ -2217,6 +2217,12 @@ A股开盘近5000只个股下跌（热度：1242137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E8%87%B4%E6%AD%89%23" target="weibo">
+TES致歉（热度：1219719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%910%E6%AF%943%E9%98%BF%E6%8B%89%E7%B1%B3%E6%89%AC%23" target="weibo">
 梁靖崑0比3阿拉米扬（热度：1219388）
 </a>
@@ -3305,12 +3311,6 @@ K总女友颜值（热度：997545）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%80%80%E5%BD%B9%E5%86%9B%E5%AE%98%E5%BB%BA%E8%AE%AE%E7%94%B7%E5%A5%B3%E5%85%B5%E6%B7%B7%E4%BD%8F%E6%8F%90%E9%AB%98%E7%94%9F%E8%82%B2%E7%8E%87%23" target="weibo">
 韩退役军官建议男女兵混住提高生育率（热度：984783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E8%87%B4%E6%AD%89%23" target="weibo">
-TES致歉（热度：984157）
 </a>
 </li>
 
@@ -5901,6 +5901,12 @@ WBG对战G2（热度：687029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23369%23" target="weibo">
+369（热度：672918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%97%E5%86%8532%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%AE%B6%23" target="weibo">
 上海套内32平米的家（热度：672854）
 </a>
@@ -6005,12 +6011,6 @@ WBG对战G2（热度：687029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%23" target="weibo">
 BLG（热度：663891）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E4%B8%80%E5%87%BA%E5%9C%BA%E5%B0%B1%E6%98%AF%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89%23" target="weibo">
-宋佳一出场就是国泰民安（热度：663745）
 </a>
 </li>
 
