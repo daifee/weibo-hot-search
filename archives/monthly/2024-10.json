@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729326416154,
+  "endTime": 1729327223441,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2502756,
+      "num": 242307,
+      "word": "黄磊回应近期舆论",
+      "onboard_time": 1729325179,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2490639,
       "num": 394511,
       "word": "一家人患病查出血液中老鼠药成分高",
@@ -905,14 +913,6 @@
       "onboard_time": 1728825742,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2081983,
-      "num": 242307,
-      "word": "黄磊回应近期舆论",
-      "onboard_time": 1729325179,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2075112,
@@ -14435,6 +14435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371520,
+      "num": 215700,
+      "word": "柳智敏solo初一位",
+      "onboard_time": 1729326019,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371201,
       "num": 301400,
       "word": "凯迪拉克 樊振东",
@@ -15195,6 +15203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352013,
+      "num": 214237,
+      "word": "张雪峰回应伍佰被说猥琐",
+      "onboard_time": 1729326679,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351977,
       "num": 351977,
       "word": "听泉鉴宝直播带货一晚卖出750万元",
@@ -15697,6 +15713,14 @@
       "onboard_time": 1728228320,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 337047,
+      "num": 228936,
+      "word": "Faker从未在S赛BO5输给LPL",
+      "onboard_time": 1729325720,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 336906,
@@ -16313,6 +16337,14 @@
       "onboard_time": 1729171522,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323497,
+      "num": 323497,
+      "word": "螃蟹身上有针眼是被注水了吗",
+      "onboard_time": 1729324399,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322601,
@@ -21723,14 +21755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237963,
-      "num": 237963,
-      "word": "螃蟹身上有针眼是被注水了吗",
-      "onboard_time": 1729324399,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237926,
       "num": 237926,
       "word": "刘耀文摸宋亚轩头",
@@ -22595,6 +22619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228080,
+      "num": 238728,
+      "word": "辛瓦尔死后各方誓言继续战斗",
+      "onboard_time": 1729324219,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 228063,
       "num": 228063,
       "word": "新生儿呛奶父亲跪地求助送医",
@@ -22849,6 +22881,14 @@
       "onboard_time": 1728184517,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225395,
+      "num": 205277,
+      "word": "曝张雨绮新综艺镜头被剪",
+      "onboard_time": 1729326919,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 225340,
@@ -24747,14 +24787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209098,
-      "num": 209098,
-      "word": "Faker从未在S赛BO5输给LPL",
-      "onboard_time": 1729325720,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 209056,
       "num": 209056,
       "word": "梅西破门",
@@ -26123,14 +26155,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 201476,
-      "num": 201476,
-      "word": "柳智敏solo初一位",
-      "onboard_time": 1729326019,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201338,
       "num": 201338,
       "word": "英雄联盟S14",
@@ -27225,6 +27249,14 @@
       "onboard_time": 1729246640,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196274,
+      "num": 196274,
+      "word": "江西一乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729326619,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196266,
@@ -29563,14 +29595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185794,
-      "num": 238728,
-      "word": "辛瓦尔死后各方誓言继续战斗",
-      "onboard_time": 1729324219,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 185791,
       "num": 185791,
       "word": "童家堡秋季赛总冠军",
@@ -30964,7 +30988,7 @@
     },
     {
       "raw_hot": 177452,
-      "num": 177452,
+      "num": 240339,
       "word": "提升战略导弹部队威慑和实战能力",
       "onboard_time": 1729324278,
       "rank": 31,
@@ -31369,6 +31393,14 @@
       "onboard_time": 1728914782,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174956,
+      "num": 174956,
+      "word": "现在就出发2",
+      "onboard_time": 1729326320,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 174862,
@@ -33969,6 +34001,14 @@
       "onboard_time": 1728217399,
       "rank": 42,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 160919,
+      "num": 160919,
+      "word": "福宝变成小花猫",
+      "onboard_time": 1729326499,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 160723,
@@ -37209,6 +37249,14 @@
       "onboard_time": 1728385820,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144800,
+      "num": 144800,
+      "word": "小丑2后劲好大",
+      "onboard_time": 1729326379,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 144799,
@@ -40715,6 +40763,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 127113,
+      "num": 127113,
+      "word": "丁禹兮红发",
+      "onboard_time": 1729323738,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127104,
       "num": 552991,
       "word": "奔驰大G",
@@ -41275,6 +41331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123458,
+      "num": 123458,
+      "word": "樊振东周雨老友合照",
+      "onboard_time": 1729326258,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123428,
       "num": 170258,
       "word": "柳智敏宁艺卓预告照",
@@ -41665,6 +41729,14 @@
       "onboard_time": 1728010277,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120802,
+      "num": 120802,
+      "word": "许昕vs徐瑛彬",
+      "onboard_time": 1729326738,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 120773,
@@ -42401,14 +42473,6 @@
       "onboard_time": 1728525799,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 116507,
-      "num": 116507,
-      "word": "丁禹兮红发",
-      "onboard_time": 1729323738,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 116469,
@@ -43803,14 +43867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108001,
-      "num": 108001,
-      "word": "樊振东周雨老友合照",
-      "onboard_time": 1729326258,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107995,
       "num": 107995,
       "word": "高盛称资金从印度流向中国",
@@ -44147,14 +44203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106352,
-      "num": 106352,
-      "word": "现在就出发2",
-      "onboard_time": 1729326320,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "白鹿孟子义摄影组合叫白日孟影",
@@ -44273,6 +44321,14 @@
       "onboard_time": 1729012394,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 105486,
+      "num": 105486,
+      "word": "Haodong离队",
+      "onboard_time": 1729327039,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 105462,
@@ -45401,14 +45457,6 @@
       "onboard_time": 1727853797,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97172,
-      "num": 97172,
-      "word": "小丑2后劲好大",
-      "onboard_time": 1729326379,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 97139,
@@ -50163,6 +50211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55158,
+      "num": 219140,
+      "word": "付航不工作的猴都得给人类表演",
+      "onboard_time": 1729326799,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55127,
       "num": 358430,
       "word": "和平精英广场舞太抽象了",
@@ -50963,6 +51019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49289,
+      "num": 305050,
+      "word": "娱乐圈玩吃鸡明星世纪合影",
+      "onboard_time": 1729322238,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49276,
       "num": 89808,
       "word": "突然理解骑行的绝对吸引力了",
@@ -51145,14 +51209,6 @@
       "onboard_time": 1728700399,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48265,
-      "num": 305050,
-      "word": "娱乐圈玩吃鸡明星世纪合影",
-      "onboard_time": 1729322238,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 48125,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729327223441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412080,
+        "num": 1412080,
+        "word": "杨子 不能她好了我和巨力不好",
+        "onboard_time": 1729316660,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446501,
+        "num": 446501,
+        "word": "身高不足1米2的她保研成功了",
+        "onboard_time": 1729318039,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26219,
+        "num": 393447,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928666,
+        "num": 392846,
+        "word": "付航现场公布已婚",
+        "onboard_time": 1729320737,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389562,
+        "num": 389562,
+        "word": "央视曝有未成年沉迷花钱抽卡",
+        "onboard_time": 1729297339,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323497,
+        "num": 323497,
+        "word": "螃蟹身上有针眼是被注水了吗",
+        "onboard_time": 1729324399,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679244,
+        "num": 283845,
+        "word": "刘亦菲出道时被叫小黄圣依",
+        "onboard_time": 1729320559,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578316,
+        "num": 265472,
+        "word": "刘诗诗粉底",
+        "onboard_time": 1729323800,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241371,
+        "num": 241371,
+        "word": "樊振东vs徐瑛彬",
+        "onboard_time": 1729323977,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147775,
+        "num": 240339,
+        "word": "提升战略导弹部队威慑和实战能力",
+        "onboard_time": 1729324278,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2502756,
+        "num": 239264,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605596,
+        "num": 236635,
+        "word": "费曼 我没有被向左绑架",
+        "onboard_time": 1729323018,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545312,
+        "num": 234880,
+        "word": "Jessi谎称打粉丝的是中国人",
+        "onboard_time": 1729322118,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512403,
+        "num": 232164,
+        "word": "早期黄圣依",
+        "onboard_time": 1729318939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344132,
+        "num": 231475,
+        "word": "林高远 到了自洽的阶段",
+        "onboard_time": 1729324160,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337047,
+        "num": 228936,
+        "word": "Faker从未在S赛BO5输给LPL",
+        "onboard_time": 1729325720,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228080,
+        "num": 228080,
+        "word": "辛瓦尔死后各方誓言继续战斗",
+        "onboard_time": 1729324219,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49289,
+        "num": 221393,
+        "word": "娱乐圈玩吃鸡明星世纪合影",
+        "onboard_time": 1729322238,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219502,
+        "num": 219502,
+        "word": "刷视频相认双胞胎姐妹称后悔相认",
+        "onboard_time": 1729305318,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55158,
+        "num": 219140,
+        "word": "付航不工作的猴都得给人类表演",
+        "onboard_time": 1729326799,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514539,
+        "num": 217966,
+        "word": "男子反复捶断手指碰瓷30多起",
+        "onboard_time": 1729319718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462178,
+        "num": 217102,
+        "word": "叶珂 高知的颜色",
+        "onboard_time": 1729318340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371520,
+        "num": 215700,
+        "word": "柳智敏solo初一位",
+        "onboard_time": 1729326019,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352013,
+        "num": 214237,
+        "word": "张雪峰回应伍佰被说猥琐",
+        "onboard_time": 1729326679,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282934,
+        "num": 213165,
+        "word": "控制欲强的人有3个心理特征",
+        "onboard_time": 1729323078,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298836,
+        "num": 211658,
+        "word": "严浩翔贺峻霖王者情侣标",
+        "onboard_time": 1729316299,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267977,
+        "num": 210588,
+        "word": "付航喜剧之王单口季总决赛冠军",
+        "onboard_time": 1729314379,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254304,
+        "num": 209718,
+        "word": "王一博摘头套",
+        "onboard_time": 1729320858,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252894,
+        "num": 208048,
+        "word": "胡彦斌 不惯着杨子一点",
+        "onboard_time": 1729315878,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234140,
+        "num": 207109,
+        "word": "白敬亭被沈腾问红温了",
+        "onboard_time": 1729320620,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227893,
+        "num": 206267,
+        "word": "邹贝贝保研了",
+        "onboard_time": 1729321939,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225395,
+        "num": 205277,
+        "word": "曝张雨绮新综艺镜头被剪",
+        "onboard_time": 1729326919,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204419,
+        "num": 204419,
+        "word": "外国工程师兴奋讲解从中国买的好东西",
+        "onboard_time": 1729323379,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196274,
+        "num": 196274,
+        "word": "江西一乡长下乡被村民刺伤身亡",
+        "onboard_time": 1729326619,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "73岁张纪中再当爸",
+        "onboard_time": 1729307657,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174956,
+        "num": 174956,
+        "word": "现在就出发2",
+        "onboard_time": 1729326320,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172118,
+        "num": 172118,
+        "word": "叶珂称自己卖的衣服独one无two",
+        "onboard_time": 1729302560,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160919,
+        "num": 160919,
+        "word": "福宝变成小花猫",
+        "onboard_time": 1729326499,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144800,
+        "num": 144800,
+        "word": "小丑2后劲好大",
+        "onboard_time": 1729326379,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136429,
+        "num": 136429,
+        "word": "男子嫖娼被罚自称是婚外情起诉警方",
+        "onboard_time": 1729312999,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135426,
+        "num": 135426,
+        "word": "奔跑吧一口气发了81张图",
+        "onboard_time": 1729311858,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131161,
+        "num": 131161,
+        "word": "王一博赛车直播",
+        "onboard_time": 1729311618,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127113,
+        "num": 127113,
+        "word": "丁禹兮红发",
+        "onboard_time": 1729323738,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123458,
+        "num": 123458,
+        "word": "樊振东周雨老友合照",
+        "onboard_time": 1729326258,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120802,
+        "num": 120802,
+        "word": "许昕vs徐瑛彬",
+        "onboard_time": 1729326738,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114007,
+        "num": 114007,
+        "word": "张真源晒白鹿拍的自己",
+        "onboard_time": 1729314439,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111718,
+        "num": 111718,
+        "word": "5旬大爷恋爱后吃10多种壮阳药进医院",
+        "onboard_time": 1729310059,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111106,
+        "num": 111106,
+        "word": "臭肉学校家委会曾多次提食材问题",
+        "onboard_time": 1729312279,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105486,
+        "num": 105486,
+        "word": "Haodong离队",
+        "onboard_time": 1729327039,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99426,
+        "num": 99426,
+        "word": "全锦赛",
+        "onboard_time": 1729324459,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻桐城文脉悠长#"
+    }
+  }
+}
