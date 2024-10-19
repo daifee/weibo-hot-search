@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729330521941,
+  "endTime": 1729333305771,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042983,
+      "num": 1166877,
+      "word": "火车票纸质报销凭证将成历史",
+      "onboard_time": 1729329739,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1038069,
       "num": 415289,
       "word": "刘亦菲出道时被叫小黄圣依",
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857796,
+      "num": 751679,
+      "word": "美国脑死亡男子捐赠器官手术中苏醒",
+      "onboard_time": 1729329200,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852830,
       "num": 343802,
       "word": "博主花3886买叶珂衣服后吐槽稀碎",
       "onboard_time": 1729297456,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 751679,
-      "num": 751679,
-      "word": "美国脑死亡男子捐赠器官手术中苏醒",
-      "onboard_time": 1729329200,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 739718,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634447,
+      "num": 247384,
+      "word": "王一博gt3赛车亚军",
+      "onboard_time": 1729330878,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633392,
       "num": 633392,
       "word": "男子反复捶断手指碰瓷30多起",
@@ -321,6 +337,14 @@
       "onboard_time": 1729303939,
       "rank": 5,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 626780,
+      "num": 246445,
+      "word": "杨子签约的艺人",
+      "onboard_time": 1729330279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 621286,
@@ -353,6 +377,14 @@
       "onboard_time": 1729301838,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596854,
+      "num": 368800,
+      "word": "肉已经臭了学校应对怎能更臭",
+      "onboard_time": 1729329859,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594739,
@@ -427,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512660,
+      "num": 512660,
+      "word": "韩国一份拌饭均价57元人民币",
+      "onboard_time": 1729332078,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507943,
       "num": 411813,
       "word": "严浩翔贺峻霖王者情侣标",
       "onboard_time": 1729316299,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507288,
+      "num": 243392,
+      "word": "杨紫晒照给李现庆生",
+      "onboard_time": 1729332021,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 498228,
@@ -515,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440543,
+      "num": 312622,
+      "word": "应采儿回应生三胎",
+      "onboard_time": 1729330399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440098,
       "num": 440098,
       "word": "姜潮麦迪娜录了情感旅综",
@@ -545,6 +601,14 @@
       "onboard_time": 1729295356,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400135,
+      "num": 400135,
+      "word": "上海男团三连冠",
+      "onboard_time": 1729331060,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 393796,
@@ -740,11 +804,19 @@
     },
     {
       "raw_hot": 267673,
-      "num": 212062,
+      "num": 246074,
       "word": "付航call back",
       "onboard_time": 1729328840,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255180,
+      "num": 255180,
+      "word": "樊振东领衔上海队三连冠",
+      "onboard_time": 1729331479,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 255040,
@@ -753,6 +825,14 @@
       "onboard_time": 1729256722,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250313,
+      "num": 250313,
+      "word": "中国人将在月球用榫卯工艺盖房",
+      "onboard_time": 1729331180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249988,
@@ -777,14 +857,6 @@
       "onboard_time": 1729323379,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241100,
-      "num": 241100,
-      "word": "杨子签约的艺人",
-      "onboard_time": 1729330279,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 233397,
@@ -1107,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182009,
+      "num": 182009,
+      "word": "樊振东许昕全锦赛男团决赛",
+      "onboard_time": 1729330760,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180753,
       "num": 180753,
       "word": "TTG对战WE",
@@ -1187,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172515,
-      "num": 172515,
-      "word": "火车票纸质报销凭证将成历史",
-      "onboard_time": 1729329739,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167368,
       "num": 167368,
       "word": "迪丽热巴新剧淋浴镜头",
@@ -1243,12 +1315,28 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 165167,
+      "num": 369313,
+      "word": "宝妈做饭遇煤气爆炸5天仍未完全脱险",
+      "onboard_time": 1729330160,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165073,
       "num": 165073,
       "word": "纪凌尘回应只能牵我手",
       "onboard_time": 1729315700,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162784,
+      "num": 162784,
+      "word": "多名家长称反映臭肉问题被威胁",
+      "onboard_time": 1729330100,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162220,
@@ -1427,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145174,
+      "num": 145174,
+      "word": "内塔尼亚胡住所遭黎无人机袭击",
+      "onboard_time": 1729332379,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 145019,
       "num": 145019,
       "word": "LPL提前锁定S14决赛",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1729322600,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142606,
+      "num": 142606,
+      "word": "Gr对战FPX.ZQ",
+      "onboard_time": 1729332619,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 140654,
@@ -1579,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129959,
-      "num": 129959,
-      "word": "多名家长称反映臭肉问题被威胁",
-      "onboard_time": 1729330100,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128952,
       "num": 128952,
       "word": "樊振东3比0战胜徐瑛彬",
@@ -1683,20 +1779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122107,
-      "num": 368800,
-      "word": "肉已经臭了学校应对怎能更臭",
-      "onboard_time": 1729329859,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121484,
       "num": 121484,
       "word": "虞书欣和平精英舞台",
       "onboard_time": 1729254740,
       "rank": 41,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 121466,
+      "num": 121466,
+      "word": "黑灯发文",
+      "onboard_time": 1729333160,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 119777,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1729310358,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118381,
+      "num": 118381,
+      "word": "肖战蓝色冰川高珠",
+      "onboard_time": 1729332259,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117566,
@@ -1769,6 +1873,14 @@
       "onboard_time": 1729258823,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114446,
+      "num": 114446,
+      "word": "吴谨言白衣撑伞",
+      "onboard_time": 1729330698,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 113088,
@@ -1849,6 +1961,14 @@
       "onboard_time": 1729320017,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105815,
+      "num": 105815,
+      "word": "已故哈马斯领导人上时代杂志封面",
+      "onboard_time": 1729333219,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 105486,
@@ -2171,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32931,
-      "num": 369313,
-      "word": "宝妈做饭遇煤气爆炸5天仍未完全脱险",
-      "onboard_time": 1729330160,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32660,
       "num": 116281,
       "word": "放开手脚创新创造",
@@ -2315,6 +2427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16667,
+      "num": 244798,
+      "word": "春花焰微博追剧团",
+      "onboard_time": 1729332560,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15143,
+      "num": 240782,
+      "word": "vivoX200拍出了古今穿越同框",
+      "onboard_time": 1729329801,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 11549,
       "num": 36081,
       "word": "光伏组件低于成本投标中标涉嫌违法",
@@ -2347,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9079,
-      "num": 211023,
-      "word": "vivoX200拍出了古今穿越同框",
-      "onboard_time": 1729329801,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 8955,
       "num": 362530,
       "word": "欲救室友遇害女幼师父亲发声",
@@ -2375,14 +2495,6 @@
       "num": 242022,
       "word": "刘亦菲回复惠英红小菲菲也爱你",
       "onboard_time": 1729309159,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4606,
-      "num": 312622,
-      "word": "应采儿回应生三胎",
-      "onboard_time": 1729330399,
       "rank": 19,
       "category": "艺人"
     }
