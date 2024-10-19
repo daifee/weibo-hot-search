@@ -1,0 +1,410 @@
+{
+  "runTime": 1729336655358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1519866,
+        "num": 1519866,
+        "word": "韩国一份拌饭均价57元人民币",
+        "onboard_time": 1729332078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865077,
+        "num": 865077,
+        "word": "多名家长称反映臭肉问题被威胁",
+        "onboard_time": 1729330100,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7972,
+        "num": 738580,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625893,
+        "num": 625893,
+        "word": "火车票纸质报销凭证将成历史",
+        "onboard_time": 1729329739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573303,
+        "num": 573303,
+        "word": "中国人将在月球用榫卯工艺盖房",
+        "onboard_time": 1729331180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334045,
+        "num": 334045,
+        "word": "樊振东领衔上海队三连冠",
+        "onboard_time": 1729331479,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320024,
+        "num": 320024,
+        "word": "螃蟹身上有针眼是被注水了吗",
+        "onboard_time": 1729324399,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293291,
+        "num": 293291,
+        "word": "付航call back",
+        "onboard_time": 1729328840,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190601,
+        "num": 292824,
+        "word": "身高不足1米2的她保研成功了",
+        "onboard_time": 1729318039,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179684,
+        "num": 291948,
+        "word": "付航喜剧之王单口季总决赛冠军",
+        "onboard_time": 1729314379,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360580,
+        "num": 291689,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 761490,
+        "num": 290969,
+        "word": "黑灯发文",
+        "onboard_time": 1729333160,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701234,
+        "num": 290209,
+        "word": "肉已经臭了学校应对怎能更臭",
+        "onboard_time": 1729329859,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550059,
+        "num": 288917,
+        "word": "美国脑死亡男子捐赠器官手术中苏醒",
+        "onboard_time": 1729329200,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11642,
+        "num": 288020,
+        "word": "起底昆明长丰学校董事长商业版图",
+        "onboard_time": 1729336340,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56932,
+        "num": 287236,
+        "word": "骗子蹭热点制作多个诈骗APP",
+        "onboard_time": 1729335500,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510624,
+        "num": 286474,
+        "word": "迪丽热巴贝雷帽look",
+        "onboard_time": 1729334780,
+        "rank": 16,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 493286,
+        "num": 286189,
+        "word": "杨子签约的艺人",
+        "onboard_time": 1729330279,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414540,
+        "num": 285231,
+        "word": "付航现场公布已婚",
+        "onboard_time": 1729320737,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394818,
+        "num": 284480,
+        "word": "王一博gt3赛车亚军",
+        "onboard_time": 1729330878,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975406,
+        "num": 283772,
+        "word": "杨子 不能她好了我和巨力不好",
+        "onboard_time": 1729316660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491822,
+        "num": 282874,
+        "word": "杨紫晒照给李现庆生",
+        "onboard_time": 1729332021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379298,
+        "num": 282083,
+        "word": "张雪峰回应伍佰被说猥琐",
+        "onboard_time": 1729326679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353890,
+        "num": 281858,
+        "word": "BLACKPINK约定一年后重聚",
+        "onboard_time": 1729335319,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281154,
+        "num": 281154,
+        "word": "应采儿回应生三胎",
+        "onboard_time": 1729330399,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226982,
+        "num": 226982,
+        "word": "吴谨言跳苹果香",
+        "onboard_time": 1729335560,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194270,
+        "num": 194270,
+        "word": "付航 总有人会爱你",
+        "onboard_time": 1729336399,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192298,
+        "num": 192298,
+        "word": "早期黄圣依",
+        "onboard_time": 1729318939,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68938,
+        "num": 192293,
+        "word": "月壤砖抗压强度是普通砖头的3倍以上",
+        "onboard_time": 1729336640,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 192067,
+        "word": "许昕说我老了",
+        "onboard_time": 1729336159,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273666,
+        "num": 191909,
+        "word": "Jessi谎称打粉丝的是中国人",
+        "onboard_time": 1729322118,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229640,
+        "num": 191872,
+        "word": "叶珂 高知的颜色",
+        "onboard_time": 1729318340,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212296,
+        "num": 191660,
+        "word": "张纪中妻子顺产转剖腹产",
+        "onboard_time": 1729334239,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191614,
+        "num": 191614,
+        "word": "已故哈马斯领导人上时代杂志封面",
+        "onboard_time": 1729333219,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185406,
+        "num": 185406,
+        "word": "王励勤和樊振东许昕握手",
+        "onboard_time": 1729335979,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165574,
+        "num": 165574,
+        "word": "金饰价格突破800元每克",
+        "onboard_time": 1729334180,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146940,
+        "num": 146940,
+        "word": "邹贝贝保研了",
+        "onboard_time": 1729321939,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144717,
+        "num": 144717,
+        "word": "控制欲强的人有3个心理特征",
+        "onboard_time": 1729323078,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142172,
+        "num": 142172,
+        "word": "Faker从未在S赛BO5输给LPL",
+        "onboard_time": 1729325720,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133254,
+        "num": 133254,
+        "word": "严浩翔贺峻霖王者情侣标",
+        "onboard_time": 1729316299,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127480,
+        "num": 127480,
+        "word": "刘诗诗粉底",
+        "onboard_time": 1729323800,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126283,
+        "num": 126283,
+        "word": "福宝变成小花猫",
+        "onboard_time": 1729326499,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123262,
+        "num": 123262,
+        "word": "NINEPERCENT眼中的尤长靖",
+        "onboard_time": 1729328778,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123186,
+        "num": 123186,
+        "word": "黄圣依杨子 黄亦玫方协文具象化",
+        "onboard_time": 1729325537,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111793,
+        "num": 111793,
+        "word": "柳智敏solo初一位",
+        "onboard_time": 1729326019,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111096,
+        "num": 111096,
+        "word": "胡彦斌 不惯着杨子一点",
+        "onboard_time": 1729315878,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107207,
+        "num": 107207,
+        "word": "内塔尼亚胡住所遭黎无人机袭击",
+        "onboard_time": 1729332379,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102970,
+        "num": 102970,
+        "word": "男子反复捶断手指碰瓷30多起",
+        "onboard_time": 1729319718,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101863,
+        "num": 101863,
+        "word": "宝妈做饭遇煤气爆炸5天仍未完全脱险",
+        "onboard_time": 1729330160,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96946,
+        "num": 96946,
+        "word": "费曼 我没有被向左绑架",
+        "onboard_time": 1729323018,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻桐城文脉悠长#"
+    }
+  }
+}
