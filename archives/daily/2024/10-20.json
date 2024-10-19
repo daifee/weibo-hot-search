@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729377636419,
+  "endTime": 1729380074807,
   "band_list": [
     {
       "raw_hot": 1219719,
@@ -163,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324950,
+      "num": 109958,
+      "word": "家属回应乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729370291,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291283,
       "num": 497409,
       "word": "aespa MV预告",
@@ -259,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175218,
+      "num": 175218,
+      "word": "浪姐是黄圣依的觉醒时刻",
+      "onboard_time": 1729371852,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171356,
       "num": 171356,
       "word": "Meiko状态",
@@ -283,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167683,
-      "num": 58345,
-      "word": "家属回应乡长下乡被村民刺伤身亡",
-      "onboard_time": 1729370291,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154096,
       "num": 154096,
       "word": "黑灯发文",
@@ -313,6 +321,14 @@
       "onboard_time": 1729349302,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143303,
+      "num": 143303,
+      "word": "加沙约86%人口处于极度饥饿状态",
+      "onboard_time": 1729365072,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 141876,
@@ -387,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112399,
-      "num": 112399,
-      "word": "浪姐是黄圣依的觉醒时刻",
-      "onboard_time": 1729371852,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
       "onboard_time": 1729326679,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109673,
+      "num": 109673,
+      "word": "尤长靖总决赛第一",
+      "onboard_time": 1729379834,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 97306,
@@ -416,6 +432,14 @@
       "word": "杨子 不能她好了我和巨力不好",
       "onboard_time": 1729316660,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96548,
+      "num": 96548,
+      "word": "黄晓明回青岛一中参加百年校庆",
+      "onboard_time": 1729336699,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -459,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78133,
-      "num": 85262,
-      "word": "加沙约86%人口处于极度饥饿状态",
-      "onboard_time": 1729365072,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 78411,
+      "num": 78411,
+      "word": "宋佳模仿向佐",
+      "onboard_time": 1729368671,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 73473,
@@ -473,6 +497,30 @@
       "onboard_time": 1729355717,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62292,
+      "num": 62292,
+      "word": "106岁奶奶从青丝到白发的等待",
+      "onboard_time": 1729375872,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58734,
+      "num": 58734,
+      "word": "樊振东回应上海男团三连冠",
+      "onboard_time": 1729375692,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55847,
+      "num": 58818,
+      "word": "金秀贤唱了IU的只有我不知道的故事",
+      "onboard_time": 1729377371,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 51733,
@@ -515,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47199,
-      "num": 47199,
-      "word": "宋佳模仿向佐",
-      "onboard_time": 1729368671,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 48106,
+      "num": 48699,
+      "word": "加沙民众寒冬只能挤在临时帐篷里",
+      "onboard_time": 1729361893,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39793,
@@ -539,12 +587,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 37527,
-      "num": 48699,
-      "word": "加沙民众寒冬只能挤在临时帐篷里",
-      "onboard_time": 1729361893,
-      "rank": 34,
-      "category": "国外时政"
+      "raw_hot": 36188,
+      "num": 36188,
+      "word": "黄圣依是在浪姐觉醒的吧",
+      "onboard_time": 1729376593,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 31293,
@@ -553,22 +601,6 @@
       "onboard_time": 1729363273,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30850,
-      "num": 30850,
-      "word": "106岁奶奶从青丝到白发的等待",
-      "onboard_time": 1729375872,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29314,
-      "num": 29314,
-      "word": "樊振东回应上海男团三连冠",
-      "onboard_time": 1729375692,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 26528,
@@ -587,28 +619,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 25148,
-      "num": 25148,
-      "word": "黄圣依是在浪姐觉醒的吧",
-      "onboard_time": 1729376593,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24081,
       "num": 24081,
       "word": "王一博85号赛车手准备就绪",
       "onboard_time": 1729365912,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18183,
-      "num": 23792,
-      "word": "金秀贤唱了IU的只有我不知道的故事",
-      "onboard_time": 1729377371,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 17909,
@@ -683,7 +699,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3745,
+      "raw_hot": 4936,
       "num": 471638,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
