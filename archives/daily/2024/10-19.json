@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729320155275,
+  "endTime": 1729322466274,
   "band_list": [
     {
       "raw_hot": 2230023,
@@ -33,6 +33,14 @@
       "onboard_time": 1729297339,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1875490,
+      "num": 597211,
+      "word": "付航现场公布已婚",
+      "onboard_time": 1729320737,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1723249,
@@ -97,6 +105,14 @@
       "onboard_time": 1729298839,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038069,
+      "num": 415289,
+      "word": "刘亦菲出道时被叫小黄圣依",
+      "onboard_time": 1729320559,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 969531,
@@ -187,7 +203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726770,
+      "raw_hot": 728754,
       "num": 400264,
       "word": "叶珂 高知的颜色",
       "onboard_time": 1729318340,
@@ -283,6 +299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 590889,
+      "num": 330759,
+      "word": "早期黄圣依",
+      "onboard_time": 1729318939,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586767,
       "num": 333264,
       "word": "睡醒就喊老婆没钱立马拉黑",
@@ -321,6 +345,14 @@
       "onboard_time": 1729263920,
       "rank": 5,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 521066,
+      "num": 521066,
+      "word": "男子反复捶断手指碰瓷30多起",
+      "onboard_time": 1729319718,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507943,
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410680,
-      "num": 291638,
-      "word": "早期黄圣依",
-      "onboard_time": 1729318939,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 395851,
+      "num": 395851,
+      "word": "骑行遭碾压案涉事司机对开车有阴影",
+      "onboard_time": 1729320800,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393716,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356879,
+      "num": 220085,
+      "word": "白敬亭被沈腾问红温了",
+      "onboard_time": 1729320620,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351977,
       "num": 351977,
       "word": "听泉鉴宝直播带货一晚卖出750万元",
@@ -513,6 +553,14 @@
       "onboard_time": 1729306278,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331680,
+      "num": 216761,
+      "word": "王一博摘头套",
+      "onboard_time": 1729320858,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 328626,
@@ -561,6 +609,14 @@
       "onboard_time": 1729302077,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255858,
+      "num": 214856,
+      "word": "Jessi谎称打粉丝的是中国人",
+      "onboard_time": 1729322118,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 255040,
@@ -619,6 +675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221626,
+      "num": 319490,
+      "word": "身高不足1米2的她保研成功了",
+      "onboard_time": 1729318039,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220303,
       "num": 223353,
       "word": "Jessi许在原亲密照",
@@ -659,6 +723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 212633,
+      "num": 212633,
+      "word": "何广智当众戳破孟非",
+      "onboard_time": 1729321398,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -673,6 +745,14 @@
       "onboard_time": 1729268299,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205633,
+      "num": 193367,
+      "word": "Jessi说谎",
+      "onboard_time": 1729321640,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 203746,
@@ -715,19 +795,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199349,
-      "num": 319490,
-      "word": "身高不足1米2的她保研成功了",
-      "onboard_time": 1729318039,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198702,
       "num": 198702,
       "word": "杨子年内带货12场销售额50万元",
       "onboard_time": 1729307058,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197251,
+      "num": 197251,
+      "word": "小鹿 单口喜剧女王",
+      "onboard_time": 1729321277,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -761,6 +841,14 @@
       "onboard_time": 1729302141,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 193113,
+      "num": 193113,
+      "word": "贺峻霖给一个宋亚轩丢一个",
+      "onboard_time": 1729321818,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 184906,
@@ -923,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161477,
+      "num": 161477,
+      "word": "布朗尼17分",
+      "onboard_time": 1729321039,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161331,
       "num": 161331,
       "word": "现在就出发",
@@ -969,6 +1065,14 @@
       "onboard_time": 1729314200,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157638,
+      "num": 157638,
+      "word": "猴子要打开包被男子反复拒绝",
+      "onboard_time": 1729318999,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157402,
@@ -1083,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139639,
+      "num": 139639,
+      "word": "朴彩英专访片段",
+      "onboard_time": 1729321879,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138734,
       "num": 138734,
       "word": "黑神话悟空",
@@ -1128,14 +1240,6 @@
       "word": "山东一医院因没钱无法报销医保",
       "onboard_time": 1729318160,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134709,
-      "num": 134709,
-      "word": "猴子要打开包被男子反复拒绝",
-      "onboard_time": 1729318999,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121903,
+      "num": 121903,
+      "word": "贾冰快退伍时宋亚轩出生了",
+      "onboard_time": 1729320258,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121484,
       "num": 121484,
       "word": "虞书欣和平精英舞台",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1729292535,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115608,
+      "num": 115608,
+      "word": "时代少年团自己造浪自己冲",
+      "onboard_time": 1729321398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115352,
@@ -1347,11 +1467,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 109933,
-      "num": 109933,
-      "word": "男子反复捶断手指碰瓷30多起",
-      "onboard_time": 1729319718,
-      "rank": 43,
+      "raw_hot": 109928,
+      "num": 414483,
+      "word": "一线标配正在攻占县城",
+      "onboard_time": 1729319178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109262,
+      "num": 109262,
+      "word": "邹贝贝保研了",
+      "onboard_time": 1729321939,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1540,7 +1668,7 @@
     },
     {
       "raw_hot": 59746,
-      "num": 202625,
+      "num": 219143,
       "word": "40岁正是爱打游戏的年纪",
       "onboard_time": 1729318820,
       "rank": 33,
@@ -1595,14 +1723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 48395,
-      "num": 414483,
-      "word": "一线标配正在攻占县城",
-      "onboard_time": 1729319178,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46106,
       "num": 361349,
       "word": "vivoX200系列销售额创20亿新高",
@@ -1617,6 +1737,14 @@
       "onboard_time": 1729294276,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37726,
+      "num": 220527,
+      "word": "许昕周恺vs魏世皓王博",
+      "onboard_time": 1729321640,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 36312,
@@ -1667,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28912,
+      "num": 425389,
+      "word": "欧阳靖吃鸡版速度与激情",
+      "onboard_time": 1729317859,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28670,
       "num": 29868,
       "word": "毕业生被贴疫情班标签求职遭拒",
@@ -1699,6 +1835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26699,
+      "num": 292339,
+      "word": "为什么上大学后跟父母沟通变难了",
+      "onboard_time": 1729321398,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26606,
       "num": 402213,
       "word": "华晨宇宋茜虞书欣合体cos",
@@ -1713,6 +1857,14 @@
       "onboard_time": 1729277833,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 25777,
+      "num": 97709,
+      "word": "娱乐圈玩吃鸡明星世纪合影",
+      "onboard_time": 1729322238,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 25108,
@@ -1763,14 +1915,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 21493,
-      "num": 425389,
-      "word": "欧阳靖吃鸡版速度与激情",
-      "onboard_time": 1729317859,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20444,
       "num": 126826,
       "word": "收到现货的快乐谁懂啊",
@@ -1801,6 +1945,14 @@
       "onboard_time": 1729256659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6498,
+      "num": 120455,
+      "word": "我的消费冷静期",
+      "onboard_time": 1729322179,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 5756,
