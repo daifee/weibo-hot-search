@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729309277450,
+  "endTime": 1729311963158,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1705,6 +1705,14 @@
       "onboard_time": 1727946619,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1569919,
+      "num": 338095,
+      "word": "73岁张纪中再当爸",
+      "onboard_time": 1729307657,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1564073,
@@ -11331,6 +11339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477863,
+      "num": 477863,
+      "word": "杨子藏手机",
+      "onboard_time": 1729308919,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477356,
       "num": 477356,
       "word": "马龙4比0战胜雨果",
@@ -12721,6 +12737,14 @@
       "onboard_time": 1729228759,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 421777,
+      "num": 421777,
+      "word": "男子一年多开车碰瓷222次",
+      "onboard_time": 1729308140,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421343,
@@ -17347,6 +17371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295312,
+      "num": 295312,
+      "word": "湖北荆州市长周志红任上被查",
+      "onboard_time": 1729310118,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295149,
       "num": 330760,
       "word": "林高远3比0格罗特",
@@ -19585,14 +19617,6 @@
       "onboard_time": 1728165552,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262492,
-      "num": 262492,
-      "word": "杨子藏手机",
-      "onboard_time": 1729308919,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 262456,
@@ -27395,6 +27419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193813,
+      "num": 193813,
+      "word": "王一博赛车直播",
+      "onboard_time": 1729311618,
+      "rank": 25,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 193800,
       "num": 193800,
       "word": "林高远林诗栋3比1高承睿黄彦诚",
@@ -28499,6 +28531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189046,
+      "num": 189046,
+      "word": "5旬大爷恋爱后吃10多种壮阳药进医院",
+      "onboard_time": 1729310059,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189045,
       "num": 189045,
       "word": "陈丽君和法国歌手机场合唱越剧选段",
@@ -28865,14 +28905,6 @@
       "onboard_time": 1727845998,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 187257,
-      "num": 230737,
-      "word": "男子一年多开车碰瓷222次",
-      "onboard_time": 1729308140,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187248,
@@ -29337,6 +29369,14 @@
       "onboard_time": 1729151362,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184906,
+      "num": 184906,
+      "word": "意大利球星模仿向佐",
+      "onboard_time": 1729306700,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 184889,
@@ -30883,6 +30923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175159,
+      "num": 175159,
+      "word": "微博竞燃之夜",
+      "onboard_time": 1729311379,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175022,
       "num": 387108,
       "word": "中公教育又被指不履行退款承诺",
@@ -31313,6 +31361,14 @@
       "onboard_time": 1727840658,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172723,
+      "num": 172723,
+      "word": "宋亚轩变成i人",
+      "onboard_time": 1729311918,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 172622,
@@ -33371,6 +33427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161271,
+      "num": 161271,
+      "word": "无期迷途",
+      "onboard_time": 1729311858,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161198,
       "num": 161198,
       "word": "我爱你中国千千万万遍",
@@ -33929,6 +33993,14 @@
       "onboard_time": 1729226481,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 158050,
+      "num": 364479,
+      "word": "普京说美阻华发展犹如不让太阳升起",
+      "onboard_time": 1729310778,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 158027,
@@ -35067,14 +35139,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 152866,
-      "num": 152866,
-      "word": "意大利球星模仿向佐",
-      "onboard_time": 1729306700,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152863,
       "num": 152863,
       "word": "日本女团晋级亚锦赛决赛",
@@ -35649,6 +35713,14 @@
       "onboard_time": 1728438499,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "张凌赫疑似失去所有的手段和力气",
+      "onboard_time": 1729311018,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149676,
@@ -37097,14 +37169,6 @@
       "onboard_time": 1728577637,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142328,
-      "num": 247339,
-      "word": "73岁张纪中再当爸",
-      "onboard_time": 1729307657,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 142301,
@@ -40291,6 +40355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125595,
+      "num": 195023,
+      "word": "奔跑吧一口气发了81张图",
+      "onboard_time": 1729311858,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125584,
       "num": 375921,
       "word": "律师解读进口日本红薯或涉违法",
@@ -40409,6 +40481,14 @@
       "onboard_time": 1728615139,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124935,
+      "num": 124935,
+      "word": "Peanut 遗憾",
+      "onboard_time": 1729310479,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 124925,
@@ -40633,6 +40713,14 @@
       "onboard_time": 1728401780,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123086,
+      "num": 123086,
+      "word": "好团圆定档",
+      "onboard_time": 1729311018,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 123052,
@@ -41431,6 +41519,14 @@
       "num": 121490,
       "word": "NBA名宿穆托姆博去世",
       "onboard_time": 1727747960,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118085,
+      "num": 118085,
+      "word": "原来潘展乐也有抢票烦恼",
+      "onboard_time": 1729311499,
       "rank": 46,
       "category": "体育"
     },
@@ -46931,6 +47027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77603,
+      "num": 357626,
+      "word": "6部门联合调查臭肉事件",
+      "onboard_time": 1729311198,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77520,
       "num": 212470,
       "word": "小鹿 爱自己成为了财富密码",
@@ -47779,6 +47883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68533,
+      "num": 288650,
+      "word": "让校长和孩子吃一样饭菜有用吗",
+      "onboard_time": 1729311080,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68455,
       "num": 306102,
       "word": "粮食公司以次充好必须一查到底",
@@ -48193,6 +48305,14 @@
       "onboard_time": 1727775500,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63969,
+      "num": 182730,
+      "word": "叶璇力挺王宝强坚信不会塌房",
+      "onboard_time": 1729310778,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 63939,
@@ -51195,6 +51315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42381,
+      "num": 288467,
+      "word": "vivoX200系列销售额创20亿新高",
+      "onboard_time": 1729310717,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42285,
       "num": 310961,
       "word": "当地回应网曝城管穿便衣暴力执法",
@@ -52545,6 +52673,14 @@
       "onboard_time": 1729118123,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34825,
+      "num": 283672,
+      "word": "和平精英代言人四排吃鸡",
+      "onboard_time": 1729310717,
+      "rank": 17,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 34782,
@@ -55179,6 +55315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21837,
+      "num": 1003331,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1729308020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21759,
       "num": 24748,
       "word": "广州一商贩持铁棍殴打城管",
@@ -55248,14 +55392,6 @@
       "word": "富贵券中求",
       "onboard_time": 1728983238,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21393,
-      "num": 1003331,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1729308020,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -56793,6 +56929,14 @@
       "onboard_time": 1728159132,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 9768,
+      "num": 279069,
+      "word": "vivoX200拍出了古建筑的历史细节",
+      "onboard_time": 1729310717,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 9599,
