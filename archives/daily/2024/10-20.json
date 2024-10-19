@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729376463955,
+  "endTime": 1729377636419,
   "band_list": [
     {
       "raw_hot": 1219719,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167683,
+      "num": 58345,
+      "word": "家属回应乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729370291,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154096,
       "num": 154096,
       "word": "黑灯发文",
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130138,
-      "num": 50739,
-      "word": "家属回应乡长下乡被村民刺伤身亡",
-      "onboard_time": 1729370291,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122930,
       "num": 122930,
       "word": "杨子签约的艺人",
@@ -385,6 +385,14 @@
       "onboard_time": 1729344740,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112399,
+      "num": 112399,
+      "word": "浪姐是黄圣依的觉醒时刻",
+      "onboard_time": 1729371852,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 110135,
@@ -443,14 +451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86324,
-      "num": 86324,
-      "word": "浪姐是黄圣依的觉醒时刻",
-      "onboard_time": 1729371852,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79482,
       "num": 79482,
       "word": "对跖点",
@@ -459,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78133,
+      "num": 85262,
+      "word": "加沙约86%人口处于极度饥饿状态",
+      "onboard_time": 1729365072,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 73473,
       "num": 73473,
       "word": "有生之年金钟奖奖项",
       "onboard_time": 1729355717,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63622,
-      "num": 85262,
-      "word": "加沙约86%人口处于极度饥饿状态",
-      "onboard_time": 1729365072,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 51733,
@@ -555,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30850,
+      "num": 30850,
+      "word": "106岁奶奶从青丝到白发的等待",
+      "onboard_time": 1729375872,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29314,
+      "num": 29314,
+      "word": "樊振东回应上海男团三连冠",
+      "onboard_time": 1729375692,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -571,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25148,
+      "num": 25148,
+      "word": "黄圣依是在浪姐觉醒的吧",
+      "onboard_time": 1729376593,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24081,
       "num": 24081,
       "word": "王一博85号赛车手准备就绪",
@@ -579,19 +603,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18183,
+      "num": 23792,
+      "word": "金秀贤唱了IU的只有我不知道的故事",
+      "onboard_time": 1729377371,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 17909,
       "num": 140236,
       "word": "深圳一楼盘超10倍认筹刷新3年记录",
       "onboard_time": 1729361473,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17756,
-      "num": 17756,
-      "word": "106岁奶奶从青丝到白发的等待",
-      "onboard_time": 1729375872,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -609,14 +633,6 @@
       "onboard_time": 1729359076,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15893,
-      "num": 17755,
-      "word": "樊振东回应上海男团三连冠",
-      "onboard_time": 1729375692,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 13914,
@@ -667,7 +683,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2616,
+      "raw_hot": 3745,
       "num": 471638,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
