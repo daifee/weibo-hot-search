@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729380074807,
+  "endTime": 1729380922505,
   "band_list": [
     {
       "raw_hot": 1219719,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 827168,
-      "num": 827168,
+      "num": 869526,
       "word": "369",
       "onboard_time": 1729351760,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393681,
+      "num": 109958,
+      "word": "家属回应乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729370291,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375217,
       "num": 375217,
       "word": "潘展乐100自摘银",
@@ -161,14 +169,6 @@
       "onboard_time": 1729353679,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 324950,
-      "num": 109958,
-      "word": "家属回应乡长下乡被村民刺伤身亡",
-      "onboard_time": 1729370291,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291283,
@@ -200,6 +200,14 @@
       "word": "披荆斩棘总决赛",
       "onboard_time": 1729343958,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247103,
+      "num": 247103,
+      "word": "尤长靖总决赛第一",
+      "onboard_time": 1729379834,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160956,
+      "num": 160956,
+      "word": "加沙约86%人口处于极度饥饿状态",
+      "onboard_time": 1729365072,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 154096,
       "num": 154096,
       "word": "黑灯发文",
@@ -321,14 +337,6 @@
       "onboard_time": 1729349302,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143303,
-      "num": 143303,
-      "word": "加沙约86%人口处于极度饥饿状态",
-      "onboard_time": 1729365072,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 141876,
@@ -403,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117203,
+      "num": 117203,
+      "word": "黄晓明回青岛一中参加百年校庆",
+      "onboard_time": 1729336699,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
       "onboard_time": 1729326679,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109673,
-      "num": 109673,
-      "word": "尤长靖总决赛第一",
-      "onboard_time": 1729379834,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 97306,
@@ -432,14 +440,6 @@
       "word": "杨子 不能她好了我和巨力不好",
       "onboard_time": 1729316660,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96548,
-      "num": 96548,
-      "word": "黄晓明回青岛一中参加百年校庆",
-      "onboard_time": 1729336699,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -499,28 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62292,
-      "num": 62292,
+      "raw_hot": 71394,
+      "num": 77760,
+      "word": "金秀贤唱了IU的只有我不知道的故事",
+      "onboard_time": 1729377371,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 70845,
+      "num": 70845,
       "word": "106岁奶奶从青丝到白发的等待",
       "onboard_time": 1729375872,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58734,
-      "num": 58734,
+      "raw_hot": 62473,
+      "num": 62473,
       "word": "樊振东回应上海男团三连冠",
       "onboard_time": 1729375692,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55847,
-      "num": 58818,
-      "word": "金秀贤唱了IU的只有我不知道的故事",
-      "onboard_time": 1729377371,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 51733,
@@ -571,6 +571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41109,
+      "num": 41109,
+      "word": "银川地震",
+      "onboard_time": 1729380195,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39793,
       "num": 39793,
       "word": "假网站内容骗子可以随便删改",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 36188,
-      "num": 36188,
+      "num": 40330,
       "word": "黄圣依是在浪姐觉醒的吧",
       "onboard_time": 1729376593,
       "rank": 41,
