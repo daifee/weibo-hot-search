@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729355193836,
+  "endTime": 1729356151568,
   "band_list": [
     {
       "raw_hot": 1219719,
@@ -19,20 +19,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 827168,
+      "num": 827168,
+      "word": "369",
+      "onboard_time": 1729351760,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 789729,
+      "num": 789729,
+      "word": "覃海洋说feelnothing",
+      "onboard_time": 1729353079,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 767687,
       "num": 767687,
       "word": "林心如金钟奖红毯",
       "onboard_time": 1729349543,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 672918,
-      "num": 672918,
-      "word": "369",
-      "onboard_time": 1729351760,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 657719,
@@ -51,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557280,
+      "raw_hot": 559484,
       "num": 475129,
       "word": "任敏妆造",
       "onboard_time": 1729353020,
@@ -83,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 470688,
+      "num": 481327,
+      "word": "特朗普回应辛瓦尔之死",
+      "onboard_time": 1729353919,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "TES止步S14八强",
@@ -91,7 +107,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 432287,
+      "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
       "onboard_time": 1729352421,
@@ -107,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406610,
+      "num": 406610,
+      "word": "Tian辛苦了",
+      "onboard_time": 1729353199,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399041,
       "num": 399041,
       "word": "长丰学校食品安全问题调查情况通报",
       "onboard_time": 1729352059,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378723,
-      "num": 378723,
-      "word": "覃海洋说feelnothing",
-      "onboard_time": 1729353079,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 375217,
@@ -139,16 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347759,
-      "num": 347759,
-      "word": "Tian辛苦了",
-      "onboard_time": 1729353199,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 310035,
-      "num": 310035,
+      "raw_hot": 346567,
+      "num": 346567,
       "word": "周深香港人气",
       "onboard_time": 1729353679,
       "rank": 23,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236905,
-      "num": 481327,
-      "word": "特朗普回应辛瓦尔之死",
-      "onboard_time": 1729353919,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204543,
+      "num": 204543,
+      "word": "唐香玉晒与王嘉尔合照",
+      "onboard_time": 1729355179,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202029,
       "num": 202029,
       "word": "付航 总有人会爱你",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 185013,
-      "num": 190315,
+      "num": 195495,
       "word": "被邓紫棋辣到了",
       "onboard_time": 1729351519,
       "rank": 28,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 169732,
-      "num": 187429,
+      "num": 195494,
       "word": "林依晨郑元畅同台颁奖",
       "onboard_time": 1729347740,
       "rank": 29,
@@ -387,16 +395,24 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83966,
-      "num": 83966,
-      "word": "唐香玉晒与王嘉尔合照",
-      "onboard_time": 1729355179,
+      "raw_hot": 76024,
+      "num": 410970,
+      "word": "被2000年前的化妆盒种草了",
+      "onboard_time": 1729355298,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73473,
+      "num": 73473,
+      "word": "有生之年金钟奖奖项",
+      "onboard_time": 1729355717,
       "rank": 49,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 5590,
-      "num": 714458,
+      "num": 808332,
       "word": "盛世中华何以中国",
       "onboard_time": 1729308020,
       "rank": 2,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记赴福建安徽考察纪实#"
+    },
+    {
+      "word": "#习近平视察火箭军某旅#"
     }
   ]
 }

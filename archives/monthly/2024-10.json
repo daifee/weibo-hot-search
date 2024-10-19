@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729355193836,
+  "endTime": 1729356151568,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -5723,6 +5723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827168,
+      "num": 827168,
+      "word": "369",
+      "onboard_time": 1727964560,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 827093,
       "num": 344739,
       "word": "王以太当爸爸了",
@@ -6225,6 +6233,14 @@
       "onboard_time": 1728605120,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 789729,
+      "num": 789729,
+      "word": "覃海洋说feelnothing",
+      "onboard_time": 1729353079,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 789005,
@@ -7849,14 +7865,6 @@
       "onboard_time": 1728220461,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672918,
-      "num": 672918,
-      "word": "369",
-      "onboard_time": 1727964560,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 672854,
@@ -10035,6 +10043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559484,
+      "num": 475129,
+      "word": "任敏妆造",
+      "onboard_time": 1729353020,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559020,
       "num": 559020,
       "word": "又一条高铁要来了",
@@ -10057,14 +10073,6 @@
       "onboard_time": 1729236141,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 557280,
-      "num": 475129,
-      "word": "任敏妆造",
-      "onboard_time": 1729353020,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 557276,
@@ -12035,6 +12043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470688,
+      "num": 481327,
+      "word": "特朗普回应辛瓦尔之死",
+      "onboard_time": 1729353919,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 470540,
       "num": 316536,
       "word": "雷军 小米SU7Ultra原型车",
@@ -12915,6 +12931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436441,
+      "num": 354453,
+      "word": "老人挖了7天茨菇却换来三张假币",
+      "onboard_time": 1729352421,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435873,
       "num": 435873,
       "word": "谢瑜世界杯10米气手枪夺冠",
@@ -13009,14 +13033,6 @@
       "onboard_time": 1728953600,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 432287,
-      "num": 354453,
-      "word": "老人挖了7天茨菇却换来三张假币",
-      "onboard_time": 1729352421,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432147,
@@ -13697,6 +13713,14 @@
       "onboard_time": 1727847617,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 406610,
+      "num": 406610,
+      "word": "Tian辛苦了",
+      "onboard_time": 1729353199,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 406011,
@@ -14520,14 +14544,6 @@
       "word": "王楚钦3比1安宰贤",
       "onboard_time": 1728548059,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 378723,
-      "num": 378723,
-      "word": "覃海洋说feelnothing",
-      "onboard_time": 1729353079,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -15755,14 +15771,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 347759,
-      "num": 347759,
-      "word": "Tian辛苦了",
-      "onboard_time": 1729353199,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "易烊千玺代言华为nova13",
@@ -15785,6 +15793,14 @@
       "onboard_time": 1728140059,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 346567,
+      "num": 346567,
+      "word": "周深香港人气",
+      "onboard_time": 1729353679,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 345680,
@@ -17241,14 +17257,6 @@
       "onboard_time": 1727910494,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310035,
-      "num": 310035,
-      "word": "周深香港人气",
-      "onboard_time": 1729353679,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 309864,
@@ -22331,14 +22339,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 236905,
-      "num": 481327,
-      "word": "特朗普回应辛瓦尔之死",
-      "onboard_time": 1729353919,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 236864,
       "num": 236864,
       "word": "莫雷加德3比2张本智和",
@@ -26089,6 +26089,14 @@
       "onboard_time": 1728824722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204543,
+      "num": 204543,
+      "word": "唐香玉晒与王嘉尔合照",
+      "onboard_time": 1729355179,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 204527,
@@ -30436,7 +30444,7 @@
     },
     {
       "raw_hot": 185013,
-      "num": 190315,
+      "num": 195495,
       "word": "被邓紫棋辣到了",
       "onboard_time": 1729351519,
       "rank": 42,
@@ -48171,14 +48179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83966,
-      "num": 83966,
-      "word": "唐香玉晒与王嘉尔合照",
-      "onboard_time": 1729355179,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83941,
       "num": 103952,
       "word": "成都混团世界杯名单",
@@ -49019,6 +49019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76024,
+      "num": 410970,
+      "word": "被2000年前的化妆盒种草了",
+      "onboard_time": 1729355298,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75963,
       "num": 75963,
       "word": "被国产剧一群脆皮00后刀到了",
@@ -49233,6 +49241,14 @@
       "onboard_time": 1728343637,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73473,
+      "num": 73473,
+      "word": "有生之年金钟奖奖项",
+      "onboard_time": 1729355717,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 73434,
