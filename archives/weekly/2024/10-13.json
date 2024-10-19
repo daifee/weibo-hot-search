@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729303068122,
+  "endTime": 1729306289940,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -577,6 +577,14 @@
       "onboard_time": 1728905958,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1731811,
+      "num": 739382,
+      "word": "臭肉学校董事长无视最后提问插兜离席",
+      "onboard_time": 1729302019,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1727739,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1728888919,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1275453,
+      "num": 415820,
+      "word": "叶珂称自己卖的衣服独one无two",
+      "onboard_time": 1729302560,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1270329,
@@ -1900,7 +1916,7 @@
     },
     {
       "raw_hot": 928983,
-      "num": 333981,
+      "num": 398473,
       "word": "没认出来这是费曼",
       "onboard_time": 1729300698,
       "rank": 12,
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 852830,
-      "num": 337692,
+      "num": 343802,
       "word": "博主花3886买叶珂衣服后吐槽稀碎",
       "onboard_time": 1729297456,
       "rank": 10,
@@ -2755,6 +2771,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739718,
+      "num": 739718,
+      "word": "朝方公布韩国无人机残骸",
+      "onboard_time": 1729300879,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 739370,
+      "num": 739370,
+      "word": "你好星期六全员班味十足",
+      "onboard_time": 1729305139,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739270,
       "num": 739270,
       "word": "步步高商业连锁股份被申请破产",
@@ -2980,7 +3012,7 @@
     },
     {
       "raw_hot": 708247,
-      "num": 322619,
+      "num": 338302,
       "word": "午睡超一小时死亡风险增加30%",
       "onboard_time": 1729298478,
       "rank": 20,
@@ -3505,6 +3537,14 @@
       "onboard_time": 1728831083,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 606671,
+      "num": 606671,
+      "word": "田曦薇无刘海大波浪",
+      "onboard_time": 1729303939,
+      "rank": 5,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 602531,
@@ -4427,14 +4467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 480249,
-      "num": 480249,
-      "word": "臭肉学校董事长无视最后提问插兜离席",
-      "onboard_time": 1729302019,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480143,
       "num": 480143,
       "word": "前三季度GDP同比增长4.8%",
@@ -4787,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437774,
+      "num": 437774,
+      "word": "朝鲜称再次发现韩国放飞垃圾气球",
+      "onboard_time": 1729302858,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 437708,
       "num": 326213,
       "word": "刘雯粉色look",
@@ -4897,14 +4937,6 @@
       "onboard_time": 1728751996,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428593,
-      "num": 428593,
-      "word": "朝方公布韩国无人机残骸",
-      "onboard_time": 1729300879,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 427560,
@@ -6795,6 +6827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276262,
+      "num": 377427,
+      "word": "再见爱人 比脱口秀好笑",
+      "onboard_time": 1729302077,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276128,
       "num": 625120,
       "word": "海警2901号万吨舰首次参加对台任务",
@@ -7104,14 +7144,6 @@
       "word": "Hanni国会合影自拍",
       "onboard_time": 1729051999,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 262975,
-      "num": 237962,
-      "word": "叶珂称自己卖的衣服独one无two",
-      "onboard_time": 1729302560,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -7595,6 +7627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244444,
+      "num": 419632,
+      "word": "刷视频相认双胞胎姐妹称后悔相认",
+      "onboard_time": 1729305318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244360,
       "num": 244360,
       "word": "尚美巴黎光与夜之恋",
@@ -7995,6 +8035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228990,
+      "num": 365184,
+      "word": "王一博付费试车自由练习精彩集锦",
+      "onboard_time": 1729304238,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 228669,
       "num": 228669,
       "word": "黑白诀定档",
@@ -8241,6 +8289,14 @@
       "onboard_time": 1729226721,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221923,
+      "num": 221923,
+      "word": "韩国回应无人机事件",
+      "onboard_time": 1729304359,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 221551,
@@ -8777,6 +8833,14 @@
       "onboard_time": 1729249580,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210876,
+      "num": 356241,
+      "word": "小巷人家定档",
+      "onboard_time": 1729305499,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 210810,
@@ -12147,14 +12211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161529,
-      "num": 161529,
-      "word": "再见爱人 比脱口秀好笑",
-      "onboard_time": 1729302077,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161457,
       "num": 161457,
       "word": "迈巴赫漏水车主回应经销商",
@@ -12491,6 +12547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155498,
+      "num": 155498,
+      "word": "3岁小孩姐3个月轻松拿捏CAD",
+      "onboard_time": 1729303399,
+      "rank": 33,
+      "category": "母婴育儿,教育"
+    },
+    {
       "raw_hot": 155450,
       "num": 155450,
       "word": "建兴中学一学生系自缢身亡",
@@ -12649,6 +12713,14 @@
       "onboard_time": 1728885679,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "安卓机还有必要换iPhone吗",
+      "onboard_time": 1729305798,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 152402,
@@ -13659,6 +13731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136916,
+      "num": 214565,
+      "word": "留几手 杨子是个懂王",
+      "onboard_time": 1729301778,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136868,
       "num": 136868,
       "word": "成都一库房突发火灾浓烟滚滚",
@@ -13752,6 +13832,14 @@
       "word": "杨子做饭",
       "onboard_time": 1729232541,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134539,
+      "num": 153593,
+      "word": "徐璐晚上不吃麻辣烫会得心病",
+      "onboard_time": 1729305918,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -14155,14 +14243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123761,
-      "num": 123761,
-      "word": "留几手 杨子是个懂王",
-      "onboard_time": 1729301778,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123640,
       "num": 123640,
       "word": "LNG发文告别S14",
@@ -14395,6 +14475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 118570,
+      "num": 416165,
+      "word": "臭肉风波学校食堂厨师出面道歉",
+      "onboard_time": 1729304838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118487,
       "num": 118487,
       "word": "又解锁了杨梅的隐藏吃法",
@@ -14433,6 +14521,14 @@
       "onboard_time": 1728815480,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117780,
+      "num": 117780,
+      "word": "刘亦菲黄景瑜豪门姐弟既视感",
+      "onboard_time": 1729306278,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117718,
@@ -14665,6 +14761,14 @@
       "onboard_time": 1728817400,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113088,
+      "num": 113088,
+      "word": "中国非遗表演自带特效",
+      "onboard_time": 1729304599,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112878,
@@ -14963,6 +15067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105151,
+      "num": 105151,
+      "word": "王一博撤回一个剪刀手",
+      "onboard_time": 1729304658,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104995,
       "num": 104995,
       "word": "上海一养护院环境恶劣如同猪圈",
@@ -15089,6 +15201,14 @@
       "onboard_time": 1729241542,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101585,
+      "num": 101585,
+      "word": "这季再见爱人太好看了",
+      "onboard_time": 1729302439,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 101552,
@@ -15385,14 +15505,6 @@
       "onboard_time": 1728973999,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91976,
-      "num": 91976,
-      "word": "这季再见爱人太好看了",
-      "onboard_time": 1729302439,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 91720,
@@ -17675,6 +17787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40534,
+      "num": 383788,
+      "word": "原来辛巴直播这么燃",
+      "onboard_time": 1729303519,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 40455,
       "num": 985965,
       "word": "一不留神穿越进绝美秋日油画",
@@ -18249,6 +18369,14 @@
       "onboard_time": 1729062080,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 32899,
+      "num": 396798,
+      "word": "校园食品安全事故问题出在哪个环节",
+      "onboard_time": 1729304958,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32835,
@@ -19859,12 +19987,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 8292,
-      "num": 261771,
-      "word": "朝鲜称再次发现韩国放飞垃圾气球",
-      "onboard_time": 1729302858,
-      "rank": 14,
-      "category": "国外时政"
+      "raw_hot": 7997,
+      "num": 115555,
+      "word": "颐莲一个牌子两幅面孔",
+      "onboard_time": 1729305679,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 7480,
@@ -19889,6 +20017,14 @@
       "onboard_time": 1728785298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5681,
+      "num": 347769,
+      "word": "潘展乐100自预赛第三",
+      "onboard_time": 1729306219,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 4335,
