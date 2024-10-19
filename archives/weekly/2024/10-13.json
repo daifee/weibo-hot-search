@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729329682418,
+  "endTime": 1729330521941,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 2502756,
-      "num": 327201,
+      "num": 368634,
       "word": "黄磊回应近期舆论",
       "onboard_time": 1729325179,
       "rank": 10,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1875490,
-      "num": 597211,
+      "num": 747436,
       "word": "付航现场公布已婚",
       "onboard_time": 1729320737,
       "rank": 3,
@@ -1907,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957384,
+      "num": 367972,
+      "word": "张雪峰回应伍佰被说猥琐",
+      "onboard_time": 1729326679,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 956396,
       "num": 956396,
       "word": "陈梦谈最近国外乒乓小将崛起",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1729122560,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 945897,
-      "num": 327078,
-      "word": "张雪峰回应伍佰被说猥琐",
-      "onboard_time": 1729326679,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 938525,
@@ -2835,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751679,
+      "num": 751679,
+      "word": "美国脑死亡男子捐赠器官手术中苏醒",
+      "onboard_time": 1729329200,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746216,
       "num": 413321,
       "word": "杨幂红毯生图",
@@ -3068,7 +3076,7 @@
     },
     {
       "raw_hot": 717221,
-      "num": 327019,
+      "num": 366012,
       "word": "江西一乡长下乡被村民刺伤身亡",
       "onboard_time": 1729326619,
       "rank": 33,
@@ -3620,7 +3628,7 @@
     },
     {
       "raw_hot": 621286,
-      "num": 337224,
+      "num": 361549,
       "word": "刘诗诗粉底",
       "onboard_time": 1729323800,
       "rank": 7,
@@ -3700,7 +3708,7 @@
     },
     {
       "raw_hot": 611318,
-      "num": 330759,
+      "num": 367687,
       "word": "早期黄圣依",
       "onboard_time": 1729318939,
       "rank": 30,
@@ -3804,7 +3812,7 @@
     },
     {
       "raw_hot": 594691,
-      "num": 346393,
+      "num": 389895,
       "word": "Jessi谎称打粉丝的是中国人",
       "onboard_time": 1729322118,
       "rank": 25,
@@ -5523,6 +5531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393796,
+      "num": 393796,
+      "word": "菲律宾火锅店中枪华人男子已身亡",
+      "onboard_time": 1729329379,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393716,
       "num": 393716,
       "word": "湖北荆州市长周志红任上被查",
@@ -5915,14 +5931,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 355807,
-      "num": 326718,
-      "word": "美国脑死亡男子捐赠器官手术中苏醒",
-      "onboard_time": 1729329200,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354763,
       "num": 294665,
       "word": "资助了5年的女孩悄悄给我转钱",
@@ -6075,6 +6083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342775,
+      "num": 342775,
+      "word": "Faker从未在S赛BO5输给LPL",
+      "onboard_time": 1729325720,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 341525,
       "num": 341525,
       "word": "这个周一给我一种无力感",
@@ -6177,14 +6193,6 @@
       "onboard_time": 1728869838,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337047,
-      "num": 327346,
-      "word": "Faker从未在S赛BO5输给LPL",
-      "onboard_time": 1729325720,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 336906,
@@ -7403,6 +7411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267673,
+      "num": 212062,
+      "word": "付航call back",
+      "onboard_time": 1729328840,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266868,
       "num": 266868,
       "word": "25地最低工资标准不低于2000元",
@@ -7859,6 +7875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 249988,
+      "num": 249988,
+      "word": "黄圣依杨子 黄亦玫方协文具象化",
+      "onboard_time": 1729325537,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249937,
       "num": 249937,
       "word": "开水烫伤6岁女童的男孩家属说他贪玩",
@@ -8083,6 +8107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 241100,
+      "num": 241100,
+      "word": "杨子签约的艺人",
+      "onboard_time": 1729330279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241085,
       "num": 333086,
       "word": "他一搂我就知道跑不了了",
@@ -8153,14 +8185,6 @@
       "onboard_time": 1729241659,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238758,
-      "num": 194834,
-      "word": "付航call back",
-      "onboard_time": 1729328840,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 238711,
@@ -8521,6 +8545,14 @@
       "onboard_time": 1729053442,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226844,
+      "num": 226844,
+      "word": "许昕vs徐瑛彬",
+      "onboard_time": 1729326738,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 226493,
@@ -8939,6 +8971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215905,
+      "num": 215905,
+      "word": "NINEPERCENT眼中的尤长靖",
+      "onboard_time": 1729328778,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215811,
       "num": 215811,
       "word": "联合国维和部队拒绝以色列撤离要求",
@@ -9273,6 +9313,14 @@
       "onboard_time": 1729050140,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210978,
+      "num": 210978,
+      "word": "福宝变成小花猫",
+      "onboard_time": 1729326499,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 210942,
@@ -9667,6 +9715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204124,
+      "num": 204124,
+      "word": "白百何演技",
+      "onboard_time": 1729329078,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204081,
       "num": 204081,
       "word": "2024诺贝尔经济学奖公布",
@@ -9705,6 +9761,14 @@
       "onboard_time": 1729239561,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203842,
+      "num": 203842,
+      "word": "周恺3比2王博",
+      "onboard_time": 1729329379,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 203812,
@@ -9929,14 +9993,6 @@
       "onboard_time": 1728901039,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201207,
-      "num": 201207,
-      "word": "菲律宾火锅店中枪华人男子已身亡",
-      "onboard_time": 1729329379,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201201,
@@ -10355,14 +10411,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 196318,
-      "num": 196318,
-      "word": "福宝变成小花猫",
-      "onboard_time": 1729326499,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196301,
       "num": 196301,
       "word": "我想对孙颖莎说",
@@ -10512,14 +10560,6 @@
       "word": "王一博练车排名",
       "onboard_time": 1729245860,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 194906,
-      "num": 194906,
-      "word": "NINEPERCENT眼中的尤长靖",
-      "onboard_time": 1729328778,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -11155,14 +11195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187354,
-      "num": 228651,
-      "word": "黄圣依杨子 黄亦玫方协文具象化",
-      "onboard_time": 1729325537,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187335,
       "num": 187335,
       "word": "中国人民用能力和志气攥成的拳头",
@@ -11457,6 +11489,14 @@
       "onboard_time": 1729145362,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184096,
+      "num": 184096,
+      "word": "刘学义演技",
+      "onboard_time": 1729329439,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 184067,
@@ -11793,14 +11833,6 @@
       "onboard_time": 1729094120,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 178362,
-      "num": 178362,
-      "word": "白百何演技",
-      "onboard_time": 1729329078,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 178317,
@@ -12195,6 +12227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172515,
+      "num": 172515,
+      "word": "火车票纸质报销凭证将成历史",
+      "onboard_time": 1729329739,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172469,
       "num": 172469,
       "word": "梅西国家队第110球",
@@ -12473,14 +12513,6 @@
       "onboard_time": 1729178661,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167821,
-      "num": 167821,
-      "word": "许昕vs徐瑛彬",
-      "onboard_time": 1729326738,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 167807,
@@ -12923,6 +12955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161954,
+      "num": 327342,
+      "word": "前承包商称臭肉学校食堂承包费每年超40万",
+      "onboard_time": 1729328541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161867,
       "num": 161867,
       "word": "无人驾驶惹争议居民状告阿维塔",
@@ -13299,14 +13339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156088,
-      "num": 156088,
-      "word": "周恺3比2王博",
-      "onboard_time": 1729329379,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155912,
       "num": 301880,
       "word": "付航 差生也是有优点的",
@@ -13337,6 +13369,14 @@
       "onboard_time": 1728949517,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155600,
+      "num": 155600,
+      "word": "狼队晋级淘汰赛",
+      "onboard_time": 1729330040,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 155498,
@@ -14899,6 +14939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129959,
+      "num": 129959,
+      "word": "多名家长称反映臭肉问题被威胁",
+      "onboard_time": 1729330100,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129849,
       "num": 196754,
       "word": "拜登要求以色列停止袭击联黎部队",
@@ -14961,14 +15009,6 @@
       "onboard_time": 1728782718,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128367,
-      "num": 128367,
-      "word": "刘学义演技",
-      "onboard_time": 1729329439,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 128315,
@@ -15297,6 +15337,14 @@
       "onboard_time": 1729212141,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122107,
+      "num": 368800,
+      "word": "肉已经臭了学校应对怎能更臭",
+      "onboard_time": 1729329859,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121965,
@@ -17000,14 +17048,6 @@
       "word": "三季度经济数据发布",
       "onboard_time": 1729218860,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80987,
-      "num": 327342,
-      "word": "前承包商称臭肉学校食堂承包费每年超40万",
-      "onboard_time": 1729328541,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -19523,6 +19563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32931,
+      "num": 369313,
+      "word": "宝妈做饭遇煤气爆炸5天仍未完全脱险",
+      "onboard_time": 1729330160,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32835,
       "num": 385771,
       "word": "辛瓦尔之死将如何影响中东",
@@ -19780,7 +19828,7 @@
     },
     {
       "raw_hot": 29862,
-      "num": 480939,
+      "num": 747544,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,
@@ -21179,11 +21227,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 9079,
+      "num": 211023,
+      "word": "vivoX200拍出了古今穿越同框",
+      "onboard_time": 1729329801,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 9077,
       "num": 822593,
       "word": "2024年全国数字乡村创新大赛",
       "onboard_time": 1728735319,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8955,
+      "num": 362530,
+      "word": "欲救室友遇害女幼师父亲发声",
+      "onboard_time": 1729330279,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -21231,6 +21295,14 @@
       "num": 242022,
       "word": "刘亦菲回复惠英红小菲菲也爱你",
       "onboard_time": 1729309159,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4606,
+      "num": 312622,
+      "word": "应采儿回应生三胎",
+      "onboard_time": 1729330399,
       "rank": 19,
       "category": "艺人"
     },

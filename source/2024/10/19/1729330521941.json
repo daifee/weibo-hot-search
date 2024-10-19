@@ -1,0 +1,410 @@
+{
+  "runTime": 1729330521941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165694,
+        "num": 1186511,
+        "word": "杨子 不能她好了我和巨力不好",
+        "onboard_time": 1729316660,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751679,
+        "num": 751679,
+        "word": "美国脑死亡男子捐赠器官手术中苏醒",
+        "onboard_time": 1729329200,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29287,
+        "num": 747544,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747436,
+        "num": 747436,
+        "word": "付航现场公布已婚",
+        "onboard_time": 1729320737,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616016,
+        "num": 616016,
+        "word": "螃蟹身上有针眼是被注水了吗",
+        "onboard_time": 1729324399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393796,
+        "num": 393796,
+        "word": "菲律宾火锅店中枪华人男子已身亡",
+        "onboard_time": 1729329379,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421474,
+        "num": 389895,
+        "word": "Jessi谎称打粉丝的是中国人",
+        "onboard_time": 1729322118,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369665,
+        "num": 369665,
+        "word": "身高不足1米2的她保研成功了",
+        "onboard_time": 1729318039,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32931,
+        "num": 369313,
+        "word": "宝妈做饭遇煤气爆炸5天仍未完全脱险",
+        "onboard_time": 1729330160,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122107,
+        "num": 368800,
+        "word": "肉已经臭了学校应对怎能更臭",
+        "onboard_time": 1729329859,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2132230,
+        "num": 368634,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 957384,
+        "num": 367972,
+        "word": "张雪峰回应伍佰被说猥琐",
+        "onboard_time": 1729326679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367687,
+        "num": 367687,
+        "word": "早期黄圣依",
+        "onboard_time": 1729318939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699914,
+        "num": 366012,
+        "word": "江西一乡长下乡被村民刺伤身亡",
+        "onboard_time": 1729326619,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8955,
+        "num": 362530,
+        "word": "欲救室友遇害女幼师父亲发声",
+        "onboard_time": 1729330279,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498024,
+        "num": 362242,
+        "word": "叶珂 高知的颜色",
+        "onboard_time": 1729318340,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361549,
+        "num": 361549,
+        "word": "刘诗诗粉底",
+        "onboard_time": 1729323800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350114,
+        "num": 350114,
+        "word": "王一博赛车直播",
+        "onboard_time": 1729311618,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 342775,
+        "num": 342775,
+        "word": "Faker从未在S赛BO5输给LPL",
+        "onboard_time": 1729325720,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4606,
+        "num": 312622,
+        "word": "应采儿回应生三胎",
+        "onboard_time": 1729330399,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303299,
+        "num": 303299,
+        "word": "费曼 我没有被向左绑架",
+        "onboard_time": 1729323018,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299047,
+        "num": 299047,
+        "word": "柳智敏solo初一位",
+        "onboard_time": 1729326019,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269390,
+        "num": 269390,
+        "word": "央视曝有未成年沉迷花钱抽卡",
+        "onboard_time": 1729297339,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259179,
+        "num": 259179,
+        "word": "林高远 到了自洽的阶段",
+        "onboard_time": 1729324160,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249988,
+        "num": 249988,
+        "word": "黄圣依杨子 黄亦玫方协文具象化",
+        "onboard_time": 1729325537,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241100,
+        "num": 241100,
+        "word": "杨子签约的艺人",
+        "onboard_time": 1729330279,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226844,
+        "num": 226844,
+        "word": "许昕vs徐瑛彬",
+        "onboard_time": 1729326738,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215905,
+        "num": 215905,
+        "word": "NINEPERCENT眼中的尤长靖",
+        "onboard_time": 1729328778,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214532,
+        "num": 214532,
+        "word": "付航喜剧之王单口季总决赛冠军",
+        "onboard_time": 1729314379,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212703,
+        "num": 212703,
+        "word": "严浩翔贺峻霖王者情侣标",
+        "onboard_time": 1729316299,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267673,
+        "num": 212062,
+        "word": "付航call back",
+        "onboard_time": 1729328840,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9079,
+        "num": 211023,
+        "word": "vivoX200拍出了古今穿越同框",
+        "onboard_time": 1729329801,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210978,
+        "num": 210978,
+        "word": "福宝变成小花猫",
+        "onboard_time": 1729326499,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204124,
+        "num": 204124,
+        "word": "白百何演技",
+        "onboard_time": 1729329078,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203842,
+        "num": 203842,
+        "word": "周恺3比2王博",
+        "onboard_time": 1729329379,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188488,
+        "num": 188488,
+        "word": "辛瓦尔死后各方誓言继续战斗",
+        "onboard_time": 1729324219,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184096,
+        "num": 184096,
+        "word": "刘学义演技",
+        "onboard_time": 1729329439,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173717,
+        "num": 173717,
+        "word": "控制欲强的人有3个心理特征",
+        "onboard_time": 1729323078,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172852,
+        "num": 172852,
+        "word": "邹贝贝保研了",
+        "onboard_time": 1729321939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172515,
+        "num": 172515,
+        "word": "火车票纸质报销凭证将成历史",
+        "onboard_time": 1729329739,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166824,
+        "num": 166824,
+        "word": "曝张雨绮新综艺镜头被剪",
+        "onboard_time": 1729326919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161954,
+        "num": 161954,
+        "word": "前承包商称臭肉学校食堂承包费每年超40万",
+        "onboard_time": 1729328541,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156476,
+        "num": 156476,
+        "word": "男子反复捶断手指碰瓷30多起",
+        "onboard_time": 1729319718,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155600,
+        "num": 155600,
+        "word": "狼队晋级淘汰赛",
+        "onboard_time": 1729330040,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143718,
+        "num": 143718,
+        "word": "小丑2后劲好大",
+        "onboard_time": 1729326379,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140770,
+        "num": 140770,
+        "word": "白敬亭被沈腾问红温了",
+        "onboard_time": 1729320620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129959,
+        "num": 129959,
+        "word": "多名家长称反映臭肉问题被威胁",
+        "onboard_time": 1729330100,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129097,
+        "num": 129097,
+        "word": "奔跑吧一口气发了81张图",
+        "onboard_time": 1729311858,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125677,
+        "num": 125677,
+        "word": "胡彦斌 不惯着杨子一点",
+        "onboard_time": 1729315878,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125510,
+        "num": 125510,
+        "word": "臭肉学校家委会曾多次提食材问题",
+        "onboard_time": 1729312279,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻桐城文脉悠长#"
+    }
+  }
+}
