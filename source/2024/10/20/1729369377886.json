@@ -1,0 +1,410 @@
+{
+  "runTime": 1729369377886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 158879,
+        "num": 158879,
+        "word": "369",
+        "onboard_time": 1729351760,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122160,
+        "num": 122160,
+        "word": "覃海洋说feelnothing",
+        "onboard_time": 1729353079,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1683,
+        "num": 91304,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70652,
+        "num": 70652,
+        "word": "TES止步S14八强",
+        "onboard_time": 1729350561,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60530,
+        "num": 60530,
+        "word": "特朗普回应辛瓦尔之死",
+        "onboard_time": 1729353919,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 56469,
+        "num": 56469,
+        "word": "打网约车送神秘包裹司机果断报警",
+        "onboard_time": 1729357875,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56416,
+        "num": 56416,
+        "word": "昆明长丰学校食堂承包商被罚578万",
+        "onboard_time": 1729349901,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54685,
+        "num": 54685,
+        "word": "加沙约86%人口处于极度饥饿状态",
+        "onboard_time": 1729365072,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52068,
+        "num": 52068,
+        "word": "王多多怒喷TES",
+        "onboard_time": 1729346842,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35526,
+        "num": 51110,
+        "word": "林心如金钟奖红毯",
+        "onboard_time": 1729349543,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 51058,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58679,
+        "num": 51050,
+        "word": "杨贵媚二封视后",
+        "onboard_time": 1729356916,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50887,
+        "num": 50887,
+        "word": "TES致歉",
+        "onboard_time": 1729351039,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49970,
+        "num": 49970,
+        "word": "任敏妆造",
+        "onboard_time": 1729353020,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9333,
+        "num": 49540,
+        "word": "300万国债扶贫资金免费领千万别信",
+        "onboard_time": 1729369153,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49274,
+        "num": 49274,
+        "word": "Tian辛苦了",
+        "onboard_time": 1729353199,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39760,
+        "num": 39760,
+        "word": "长丰学校食品安全问题调查情况通报",
+        "onboard_time": 1729352059,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39268,
+        "num": 39268,
+        "word": "TES 零封",
+        "onboard_time": 1729346301,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38702,
+        "num": 38702,
+        "word": "张子墨 恩静大少爷",
+        "onboard_time": 1729360694,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37776,
+        "num": 37776,
+        "word": "付航call back",
+        "onboard_time": 1729328840,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48181,
+        "num": 37651,
+        "word": "老人挖了7天茨菇却换来三张假币",
+        "onboard_time": 1729352421,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37367,
+        "num": 37367,
+        "word": "周深香港人气",
+        "onboard_time": 1729353679,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37291,
+        "num": 37291,
+        "word": "应采儿回应生三胎",
+        "onboard_time": 1729330399,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35295,
+        "num": 35295,
+        "word": "GEN LPL最后的希望",
+        "onboard_time": 1729352240,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35102,
+        "num": 35102,
+        "word": "唐香玉晒与王嘉尔合照",
+        "onboard_time": 1729355179,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32249,
+        "num": 32249,
+        "word": "被2000年前的化妆盒种草了",
+        "onboard_time": 1729355298,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31534,
+        "num": 31534,
+        "word": "潘展乐100自摘银",
+        "onboard_time": 1729339578,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29479,
+        "num": 29479,
+        "word": "付航 总有人会爱你",
+        "onboard_time": 1729336399,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28453,
+        "num": 29010,
+        "word": "披荆斩棘总决赛",
+        "onboard_time": 1729343958,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22887,
+        "num": 28771,
+        "word": "被邓紫棋辣到了",
+        "onboard_time": 1729351519,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28695,
+        "num": 28695,
+        "word": "Meiko状态",
+        "onboard_time": 1729351340,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28435,
+        "num": 28435,
+        "word": "警方通报男子报警称女儿被人强奸",
+        "onboard_time": 1729350083,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27562,
+        "num": 27562,
+        "word": "昆明一学校食堂肉品散发异味调查情况",
+        "onboard_time": 1729349302,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25115,
+        "num": 25115,
+        "word": "美国脑死亡男子捐赠器官手术中苏醒",
+        "onboard_time": 1729329200,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24476,
+        "num": 24476,
+        "word": "安徽六尺巷给朱广权排了班表",
+        "onboard_time": 1729356617,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24122,
+        "num": 24122,
+        "word": "长丰学校校长和法定代表人被免职",
+        "onboard_time": 1729350321,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23900,
+        "num": 23900,
+        "word": "滔搏回家",
+        "onboard_time": 1729349662,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22923,
+        "num": 22923,
+        "word": "付航现场公布已婚",
+        "onboard_time": 1729320737,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22888,
+        "num": 22888,
+        "word": "加沙民众寒冬只能挤在临时帐篷里",
+        "onboard_time": 1729361893,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22501,
+        "num": 22501,
+        "word": "何猷君奚梦瑶带娃逛迪士尼",
+        "onboard_time": 1729343779,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22446,
+        "num": 22446,
+        "word": "宋佳模仿向佐",
+        "onboard_time": 1729368671,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22223,
+        "num": 22223,
+        "word": "黑灯发文",
+        "onboard_time": 1729333160,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13367,
+        "num": 21410,
+        "word": "新疆人的舞蹈天赋刻在DNA里",
+        "onboard_time": 1729366812,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7280,
+        "num": 21388,
+        "word": "被杭州的秋天美到了",
+        "onboard_time": 1729368971,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21382,
+        "num": 21382,
+        "word": "29岁自律女生在村里高能量的一天",
+        "onboard_time": 1729345942,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20162,
+        "num": 20162,
+        "word": "张雪峰回应伍佰被说猥琐",
+        "onboard_time": 1729326679,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20110,
+        "num": 20110,
+        "word": "杨子 不能她好了我和巨力不好",
+        "onboard_time": 1729316660,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19166,
+        "num": 19166,
+        "word": "aespa MV预告",
+        "onboard_time": 1729351580,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18936,
+        "num": 18936,
+        "word": "0比15",
+        "onboard_time": 1729347740,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17778,
+        "num": 17778,
+        "word": "覃海洋破亚洲纪录夺冠",
+        "onboard_time": 1729339219,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴福建安徽考察纪实#"
+    }
+  }
+}
