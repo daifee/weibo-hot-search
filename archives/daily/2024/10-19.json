@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729344297104,
+  "endTime": 1729345007257,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056642,
+      "num": 354937,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048642,
       "num": 1048642,
       "word": "被烧伤妈妈在ICU看到宝宝时安心了",
@@ -241,14 +249,6 @@
       "onboard_time": 1729297456,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 834782,
-      "num": 354937,
-      "word": "昆明学校食堂臭肉事件检测结果已出",
-      "onboard_time": 1729339279,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 821258,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610680,
+      "num": 290826,
+      "word": "何猷君奚梦瑶带娃逛迪士尼",
+      "onboard_time": 1729343779,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608548,
       "num": 608548,
       "word": "金鹰奖出席嘉宾官宣",
@@ -569,6 +577,14 @@
       "onboard_time": 1729268180,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 490102,
+      "num": 287181,
+      "word": "学生遭老师性侵怀孕19周流产",
+      "onboard_time": 1729344681,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481331,
@@ -859,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313833,
-      "num": 290826,
-      "word": "何猷君奚梦瑶带娃逛迪士尼",
-      "onboard_time": 1729343779,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307608,
       "num": 275321,
       "word": "王励勤和樊振东许昕握手",
@@ -961,6 +969,14 @@
       "onboard_time": 1729256722,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250629,
+      "num": 250629,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1729343958,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 249988,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1729304359,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 221916,
+      "num": 221916,
+      "word": "滔搏 bp",
+      "onboard_time": 1729343240,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 220303,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1729269017,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199295,
+      "num": 199295,
+      "word": "林俊杰魏如萱合唱",
+      "onboard_time": 1729344140,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 198702,
@@ -1403,20 +1435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180940,
+      "num": 368782,
+      "word": "昆明长丰学校董事长实控企业26家",
+      "onboard_time": 1729340119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180753,
       "num": 180753,
       "word": "TTG对战WE",
       "onboard_time": 1729329200,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180674,
-      "num": 368782,
-      "word": "昆明长丰学校董事长实控企业26家",
-      "onboard_time": 1729340119,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179845,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1729317919,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176639,
+      "num": 176639,
+      "word": "Faker 狐狸",
+      "onboard_time": 1729343900,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 176339,
@@ -1523,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166363,
+      "num": 166363,
+      "word": "陈丽君亮相moncler大秀",
+      "onboard_time": 1729344559,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165673,
       "num": 165673,
       "word": "offer6带教下庭后躲厕所哭",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1729315700,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164644,
+      "num": 164644,
+      "word": "DRG战胜KSG",
+      "onboard_time": 1729344681,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 163973,
@@ -1723,14 +1779,6 @@
       "category": "母婴育儿,教育"
     },
     {
-      "raw_hot": 155189,
-      "num": 155189,
-      "word": "Faker 狐狸",
-      "onboard_time": 1729343900,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 152939,
       "num": 152939,
       "word": "左手秀麻了",
@@ -1867,14 +1915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141424,
-      "num": 141424,
-      "word": "林俊杰魏如萱合唱",
-      "onboard_time": 1729344140,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 140919,
       "num": 140919,
       "word": "黑灯 学的仁义礼智信",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1729318160,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134646,
-      "num": 134646,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1729343958,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 133532,
@@ -2235,14 +2267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114678,
-      "num": 114678,
-      "word": "滔搏 bp",
-      "onboard_time": 1729343240,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114446,
       "num": 114446,
       "word": "吴谨言白衣撑伞",
@@ -2467,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91492,
+      "num": 307929,
+      "word": "臭肉学校董事长不该再有臭态度",
+      "onboard_time": 1729343479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91131,
       "num": 109690,
       "word": "潘展乐采访后抢记者话筒宣布下班",
@@ -2611,12 +2643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56443,
+      "num": 289033,
+      "word": "央视曝光证书挂靠陷阱",
+      "onboard_time": 1729344740,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56114,
       "num": 374504,
       "word": "和平精英代言人四排吃鸡",
       "onboard_time": 1729310717,
       "rank": 17,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 55373,
+      "num": 192146,
+      "word": "我国模拟月壤成分烧制出月壤砖",
+      "onboard_time": 1729344380,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55158,
@@ -2691,14 +2739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43349,
-      "num": 307929,
-      "word": "臭肉学校董事长不该再有臭态度",
-      "onboard_time": 1729343479,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42790,
       "num": 288020,
       "word": "起底昆明长丰学校董事长商业版图",
@@ -2708,7 +2748,7 @@
     },
     {
       "raw_hot": 38107,
-      "num": 246626,
+      "num": 251011,
       "word": "和平精英一个巨大的老六班子",
       "onboard_time": 1729341319,
       "rank": 44,
@@ -2891,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22115,
+      "num": 297587,
+      "word": "女子总做噩梦请法师消灾被骗20万",
+      "onboard_time": 1729344200,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21999,
       "num": 242509,
       "word": "克林顿参加集会嘲讽特朗普年龄",
@@ -2971,12 +3019,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 5829,
-      "num": 297587,
-      "word": "女子总做噩梦请法师消灾被骗20万",
-      "onboard_time": 1729344200,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 6420,
+      "num": 281991,
+      "word": "黄圣依早期采访谈爱情观",
+      "onboard_time": 1729344801,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 5756,
@@ -2996,6 +3044,9 @@
     },
     {
       "word": "#习近平总书记赴福建安徽考察纪实#"
+    },
+    {
+      "word": "#习近平视察火箭军某旅#"
     }
   ]
 }
