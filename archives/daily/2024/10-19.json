@@ -1,10 +1,18 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729348676606,
+  "endTime": 1729351291466,
   "band_list": [
     {
+      "raw_hot": 2522793,
+      "num": 2522793,
+      "word": "TES止步S14八强",
+      "onboard_time": 1729350561,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2502756,
-      "num": 368634,
+      "num": 759343,
       "word": "黄磊回应近期舆论",
       "onboard_time": 1729325179,
       "rank": 10,
@@ -25,6 +33,14 @@
       "onboard_time": 1729305318,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2019613,
+      "num": 2019613,
+      "word": "TES 零封",
+      "onboard_time": 1729346301,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1941850,
@@ -49,6 +65,14 @@
       "onboard_time": 1729320737,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1854781,
+      "num": 1854781,
+      "word": "王多多怒喷TES",
+      "onboard_time": 1729346842,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 1801813,
@@ -171,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047117,
+      "num": 1047117,
+      "word": "29岁自律女生在村里高能量的一天",
+      "onboard_time": 1729345942,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1038069,
       "num": 415289,
       "word": "刘亦菲出道时被叫小黄圣依",
       "onboard_time": 1729320559,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 985685,
+      "num": 985685,
+      "word": "林心如金钟奖红毯",
+      "onboard_time": 1729349543,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 969531,
@@ -193,14 +233,6 @@
       "onboard_time": 1729262661,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 959868,
-      "num": 959868,
-      "word": "29岁自律女生在村里高能量的一天",
-      "onboard_time": 1729345942,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 959820,
@@ -275,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 821817,
-      "num": 821817,
-      "word": "王多多怒喷TES",
-      "onboard_time": 1729346842,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 821258,
       "num": 352612,
       "word": "黑灯发文",
@@ -291,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 795989,
-      "num": 795989,
-      "word": "TES 零封",
-      "onboard_time": 1729346301,
-      "rank": 3,
-      "category": "游戏"
+      "raw_hot": 817908,
+      "num": 817908,
+      "word": "韩称朝鲜士兵将投入俄乌作战前线",
+      "onboard_time": 1729345159,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 782086,
@@ -305,6 +329,22 @@
       "onboard_time": 1729329859,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759979,
+      "num": 759979,
+      "word": "TES教练",
+      "onboard_time": 1729349363,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 756356,
+      "num": 756356,
+      "word": "T1晋级S14四强",
+      "onboard_time": 1729349244,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 739718,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 709983,
-      "num": 314913,
+      "num": 450601,
       "word": "何猷君奚梦瑶带娃逛迪士尼",
       "onboard_time": 1729343779,
       "rank": 22,
@@ -417,6 +457,14 @@
       "onboard_time": 1729311858,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639104,
+      "num": 784248,
+      "word": "SNH48 网络好的太不是时候了",
+      "onboard_time": 1729348521,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 634447,
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 577871,
-      "num": 361826,
+      "num": 457958,
       "word": "应采儿回应生三胎",
       "onboard_time": 1729330399,
       "rank": 19,
@@ -659,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 473098,
+      "num": 473098,
+      "word": "茂凯 井盖",
+      "onboard_time": 1729349603,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 472920,
       "num": 472920,
       "word": "徐璐晚上不吃麻辣烫会得心病",
@@ -667,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462206,
-      "num": 462206,
-      "word": "韩称朝鲜士兵将投入俄乌作战前线",
-      "onboard_time": 1729345159,
-      "rank": 8,
-      "category": "国外时政"
+      "raw_hot": 469318,
+      "num": 469318,
+      "word": "重庆警方通报一男子砍伤他人",
+      "onboard_time": 1729349781,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461801,
@@ -753,6 +809,14 @@
       "onboard_time": 1729335560,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400744,
+      "num": 400744,
+      "word": "滔搏回家",
+      "onboard_time": 1729349662,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 400135,
@@ -923,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320160,
+      "num": 320160,
+      "word": "0比15",
+      "onboard_time": 1729347740,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314348,
       "num": 236981,
       "word": "黄圣依杨子回应当年微博藏头诗",
@@ -947,8 +1019,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302160,
+      "num": 464838,
+      "word": "金钟奖",
+      "onboard_time": 1729263321,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301310,
-      "num": 257500,
+      "num": 289526,
       "word": "樊振东胸前的金牌在闪光",
       "onboard_time": 1729346720,
       "rank": 33,
@@ -977,6 +1057,14 @@
       "onboard_time": 1729328840,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293003,
+      "num": 762364,
+      "word": "昆明长丰学校食堂承包商被罚578万",
+      "onboard_time": 1729349901,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291447,
@@ -1019,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273791,
+      "num": 273791,
+      "word": "TES致歉",
+      "onboard_time": 1729351039,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268549,
       "num": 268549,
       "word": "唐钱婷100蛙夺金",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1729321939,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264012,
+      "num": 436259,
+      "word": "林依晨郑元畅同台颁奖",
+      "onboard_time": 1729347740,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 255040,
@@ -1075,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241852,
+      "num": 455758,
+      "word": "昆明一学校食堂肉品散发异味调查情况",
+      "onboard_time": 1729349302,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233397,
       "num": 416165,
       "word": "臭肉风波学校食堂厨师出面道歉",
@@ -1105,14 +1217,6 @@
       "onboard_time": 1729324219,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 227829,
-      "num": 227829,
-      "word": "金钟奖",
-      "onboard_time": 1729263321,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 226844,
@@ -1147,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224667,
+      "num": 224667,
+      "word": "滔搏 人机局",
+      "onboard_time": 1729348101,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224379,
       "num": 224379,
       "word": "金饰价格突破800元每克",
@@ -1169,14 +1281,6 @@
       "onboard_time": 1729314739,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219436,
-      "num": 222540,
-      "word": "林依晨郑元畅同台颁奖",
-      "onboard_time": 1729347740,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 219031,
@@ -1243,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209173,
+      "num": 209173,
+      "word": "水鬼",
+      "onboard_time": 1729350442,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
@@ -1265,14 +1377,6 @@
       "onboard_time": 1729321640,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204723,
-      "num": 204723,
-      "word": "滔搏 人机局",
-      "onboard_time": 1729348101,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 204124,
@@ -1395,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196513,
+      "num": 196513,
+      "word": "AD凯南",
+      "onboard_time": 1729350442,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195713,
       "num": 195713,
       "word": "谁要和你做兄妹名场面",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1729300998,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193993,
+      "num": 193993,
+      "word": "打个飞的赶飞机",
+      "onboard_time": 1729348880,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193790,
@@ -1451,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191786,
-      "num": 191786,
-      "word": "0比15",
-      "onboard_time": 1729347740,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191614,
       "num": 191614,
       "word": "已故哈马斯领导人上时代杂志封面",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1729343540,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187794,
+      "num": 187794,
+      "word": "警方通报男子报警称女儿被人强奸",
+      "onboard_time": 1729350083,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184966,
@@ -1907,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156384,
+      "num": 500386,
+      "word": "长丰学校校长和法定代表人被免职",
+      "onboard_time": 1729350321,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156353,
       "num": 156353,
       "word": "贾冰快退伍时宋亚轩出生了",
@@ -2049,14 +2177,6 @@
       "onboard_time": 1729319540,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144563,
-      "num": 293045,
-      "word": "SNH48 网络好的太不是时候了",
-      "onboard_time": 1729348521,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 144445,
@@ -3132,7 +3252,7 @@
     },
     {
       "raw_hot": 23348,
-      "num": 1132212,
+      "num": 1934711,
       "word": "盛世中华何以中国",
       "onboard_time": 1729308020,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 22:37:56
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 23:21:31
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ k总（热度：2611084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E6%AD%A2%E6%AD%A5S14%E5%85%AB%E5%BC%BA%23" target="weibo">
+TES止步S14八强（热度：2522793）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E7%BE%A4%E9%87%8C%E5%A4%B1%E6%8E%A7%E6%80%92%E9%AA%82%E8%A2%AB%E6%9A%82%E5%81%9C%E6%95%99%E5%AD%A6%23" target="weibo">
 中学老师群里失控怒骂被暂停教学（热度：2508866）
 </a>
@@ -759,6 +765,12 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%20%E9%9B%B6%E5%B0%81%23" target="weibo">
+TES 零封（热度：2019613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%202%E4%B8%AA%E4%BA%BA8%E4%BA%BA%E7%BE%A4%23" target="weibo">
 黄圣依杨子 2个人8人群（热度：2011218）
 </a>
@@ -935,6 +947,12 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8E%8F%E8%80%B3%E6%9C%B5%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%92%9E%E5%88%B0%E6%88%B3%E7%A0%B4%E8%80%B3%E8%86%9C%23" target="weibo">
 女生掏耳朵被男友撞到戳破耳膜（热度：1856615）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%9A%E5%A4%9A%E6%80%92%E5%96%B7TES%23" target="weibo">
+王多多怒喷TES（热度：1854781）
 </a>
 </li>
 
@@ -2889,6 +2907,12 @@ TES对战T1（热度：1063834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E8%87%AA%E5%BE%8B%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%9D%91%E9%87%8C%E9%AB%98%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
+29岁自律女生在村里高能量的一天（热度：1047117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E6%90%BA10%E5%8F%AA%E7%8B%978%E5%8F%AA%E9%B8%A1%E6%8B%8D%E5%B0%81%E9%9D%A2%23" target="weibo">
 霍思燕携10只狗8只鸡拍封面（热度：1046522）
 </a>
@@ -3273,6 +3297,12 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E9%87%91%E9%92%9F%E5%A5%96%E7%BA%A2%E6%AF%AF%23" target="weibo">
+林心如金钟奖红毯（热度：985685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%80%80%E5%BD%B9%E5%86%9B%E5%AE%98%E5%BB%BA%E8%AE%AE%E7%94%B7%E5%A5%B3%E5%85%B5%E6%B7%B7%E4%BD%8F%E6%8F%90%E9%AB%98%E7%94%9F%E8%82%B2%E7%8E%87%23" target="weibo">
 韩退役军官建议男女兵混住提高生育率（热度：984783）
 </a>
@@ -3395,12 +3425,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%20%E6%9D%A8%E5%AD%90%23" target="weibo">
 黄圣依 杨子（热度：960996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E8%87%AA%E5%BE%8B%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%9D%91%E9%87%8C%E9%AB%98%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
-29岁自律女生在村里高能量的一天（热度：959868）
 </a>
 </li>
 
@@ -4317,12 +4341,6 @@ aespa（热度：832836）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%9A%E5%A4%9A%E6%80%92%E5%96%B7TES%23" target="weibo">
-王多多怒喷TES（热度：821817）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%81%AF%E5%8F%91%E6%96%87%23" target="weibo">
 黑灯发文（热度：821258）
 </a>
@@ -4379,6 +4397,12 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 国新办新闻发布会（热度：817992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%A7%B0%E6%9C%9D%E9%B2%9C%E5%A3%AB%E5%85%B5%E5%B0%86%E6%8A%95%E5%85%A5%E4%BF%84%E4%B9%8C%E4%BD%9C%E6%88%98%E5%89%8D%E7%BA%BF%23" target="weibo">
+韩称朝鲜士兵将投入俄乌作战前线（热度：817908）
 </a>
 </li>
 
@@ -4577,12 +4601,6 @@ SpaceX首次回收星舰成功（热度：798348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC10%E4%B8%87%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A2%AB%E5%B0%8F%E5%AD%A9%E7%A2%B0%E5%80%92%E5%90%8E%E7%BB%AD%23" target="weibo">
 价值10万自行车被小孩碰倒后续（热度：798327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%20%E9%9B%B6%E5%B0%81%23" target="weibo">
-TES 零封（热度：795989）
 </a>
 </li>
 
@@ -4959,6 +4977,12 @@ WTT（热度：765189）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E6%95%99%E7%BB%83%23" target="weibo">
+TES教练（热度：759979）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9D%9A%E5%AE%9A%E6%94%AF%E6%8C%81%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%B7%A5%E4%BD%9C%23" target="weibo">
 中国坚定支持联合国秘书长工作（热度：758844）
 </a>
@@ -4997,6 +5021,12 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E5%93%80%E7%89%A2%E5%B1%B1%E5%BE%88%E6%83%B3%E4%BD%A0%23" target="weibo">
 我在哀牢山很想你（热度：756849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S14%E5%9B%9B%E5%BC%BA%23" target="weibo">
+T1晋级S14四强（热度：756356）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ BLG（热度：663891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%90%8D%E5%A4%A7%E5%A6%88%E5%9C%A8%E4%BC%91%E6%81%AF%E5%8E%85%E5%BC%80%E9%9F%B3%E5%93%8D%E8%B7%B3%E8%88%9E%23" target="weibo">
 机场回应多名大妈在休息厅开音响跳舞（热度：662753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B0%86%E6%8D%A7%E8%8A%B1%E6%89%94%E5%90%91%E4%BA%86%E8%A7%82%E4%BC%97%E5%B8%AD%23" target="weibo">
-王楚钦将捧花扔向了观众席（热度：662177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%B1%E7%84%B0%E5%AE%9A%E6%A1%A3%E4%BA%86%23" target="weibo">
-春花焰定档了（热度：661491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9E%83%E8%9F%B9%E8%BA%AB%E4%B8%8A%E6%9C%89%E9%92%88%E7%9C%BC%E6%98%AF%E8%A2%AB%E6%B3%A8%E6%B0%B4%E4%BA%86%E5%90%97%23" target="weibo">
-螃蟹身上有针眼是被注水了吗（热度：661331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%20%E6%88%91%E6%B2%A1%E6%9C%89%E8%A2%AB%E5%90%91%E5%B7%A6%E7%BB%91%E6%9E%B6%23" target="weibo">
-费曼 我没有被向左绑架（热度：661196）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%99%BA%E8%B4%A4%E6%88%90%E4%B8%BALV%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%23" target="weibo">
-全智贤成为LV品牌大使（热度：660453）
 </a>
 </li>
 
