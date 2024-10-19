@@ -1,0 +1,410 @@
+{
+  "runTime": 1729344297104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544125,
+        "num": 1544125,
+        "word": "覃海洋破亚洲纪录夺冠",
+        "onboard_time": 1729339219,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1224770,
+        "num": 1224770,
+        "word": "潘展乐100自摘银",
+        "onboard_time": 1729339578,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8384,
+        "num": 661002,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433240,
+        "num": 433240,
+        "word": "多名家长称反映臭肉问题被威胁",
+        "onboard_time": 1729330100,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385745,
+        "num": 385745,
+        "word": "火车票纸质报销凭证将成历史",
+        "onboard_time": 1729329739,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368100,
+        "num": 368100,
+        "word": "韩国一份拌饭均价57元人民币",
+        "onboard_time": 1729332078,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364672,
+        "num": 364672,
+        "word": "付航现场公布已婚",
+        "onboard_time": 1729320737,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353311,
+        "num": 353311,
+        "word": "赵丽颖出发金鹰节",
+        "onboard_time": 1729341200,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308902,
+        "num": 308902,
+        "word": "中国人将在月球用榫卯工艺盖房",
+        "onboard_time": 1729331180,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43349,
+        "num": 307929,
+        "word": "臭肉学校董事长不该再有臭态度",
+        "onboard_time": 1729343479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135027,
+        "num": 307122,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 846343,
+        "num": 306483,
+        "word": "美国脑死亡男子捐赠器官手术中苏醒",
+        "onboard_time": 1729329200,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834782,
+        "num": 305310,
+        "word": "昆明学校食堂臭肉事件检测结果已出",
+        "onboard_time": 1729339279,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480779,
+        "num": 304277,
+        "word": "张雪峰回应伍佰被说猥琐",
+        "onboard_time": 1729326679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454449,
+        "num": 302769,
+        "word": "应采儿回应生三胎",
+        "onboard_time": 1729330399,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320912,
+        "num": 301242,
+        "word": "杨子签约的艺人",
+        "onboard_time": 1729330279,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300919,
+        "num": 300919,
+        "word": "TES对战T1",
+        "onboard_time": 1729338320,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298075,
+        "num": 298075,
+        "word": "马尔尚夺冠",
+        "onboard_time": 1729341079,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232707,
+        "num": 297781,
+        "word": "付航call back",
+        "onboard_time": 1729328840,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5829,
+        "num": 297587,
+        "word": "女子总做噩梦请法师消灾被骗20万",
+        "onboard_time": 1729344200,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673643,
+        "num": 297576,
+        "word": "杨子 不能她好了我和巨力不好",
+        "onboard_time": 1729316660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297516,
+        "num": 297516,
+        "word": "黑灯发文",
+        "onboard_time": 1729333160,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313833,
+        "num": 290826,
+        "word": "何猷君奚梦瑶带娃逛迪士尼",
+        "onboard_time": 1729343779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279996,
+        "num": 279996,
+        "word": "杨紫晒照给李现庆生",
+        "onboard_time": 1729332021,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225751,
+        "num": 225751,
+        "word": "吴谨言跳苹果香",
+        "onboard_time": 1729335560,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36753,
+        "num": 225681,
+        "word": "和平精英一个巨大的老六班子",
+        "onboard_time": 1729341319,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225668,
+        "num": 225668,
+        "word": "王一博手忙脚乱开香槟",
+        "onboard_time": 1729343300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201811,
+        "num": 201811,
+        "word": "真要觉得青山刚昌是故意的了",
+        "onboard_time": 1729339818,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199469,
+        "num": 199469,
+        "word": "唐钱婷100蛙夺金",
+        "onboard_time": 1729340659,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 188162,
+        "word": "小丑女真的存在过吗",
+        "onboard_time": 1729343540,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180674,
+        "num": 180674,
+        "word": "昆明长丰学校董事长实控企业26家",
+        "onboard_time": 1729340119,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165725,
+        "num": 165725,
+        "word": "BLACKPINK约定一年后重聚",
+        "onboard_time": 1729335319,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165272,
+        "num": 165272,
+        "word": "迪丽热巴贝雷帽look",
+        "onboard_time": 1729334780,
+        "rank": 32,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 163973,
+        "num": 163973,
+        "word": "真实的产后状态是怎样的",
+        "onboard_time": 1729339460,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 159014,
+        "num": 159014,
+        "word": "王一博gt3赛车亚军",
+        "onboard_time": 1729330878,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 156096,
+        "word": "369兰博",
+        "onboard_time": 1729343660,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155189,
+        "num": 155189,
+        "word": "Faker 狐狸",
+        "onboard_time": 1729343900,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150988,
+        "num": 150988,
+        "word": "Jessi谎称打粉丝的是中国人",
+        "onboard_time": 1729322118,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143626,
+        "num": 143626,
+        "word": "T1 运营",
+        "onboard_time": 1729342820,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141424,
+        "num": 141424,
+        "word": "林俊杰魏如萱合唱",
+        "onboard_time": 1729344140,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139995,
+        "num": 139995,
+        "word": "叶珂 高知的颜色",
+        "onboard_time": 1729318340,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134646,
+        "num": 134646,
+        "word": "披荆斩棘总决赛",
+        "onboard_time": 1729343958,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134320,
+        "num": 134320,
+        "word": "螃蟹身上有针眼是被注水了吗",
+        "onboard_time": 1729324399,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123033,
+        "num": 123033,
+        "word": "黄晓明回青岛一中参加百年校庆",
+        "onboard_time": 1729336699,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122921,
+        "num": 122921,
+        "word": "厂长解说",
+        "onboard_time": 1729340659,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122597,
+        "num": 122597,
+        "word": "王励勤和樊振东许昕握手",
+        "onboard_time": 1729335979,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120815,
+        "num": 120815,
+        "word": "黑灯 学的仁义礼智信",
+        "onboard_time": 1729340780,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118299,
+        "num": 118299,
+        "word": "谁要和你做兄妹名场面",
+        "onboard_time": 1729338380,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116514,
+        "num": 116514,
+        "word": "汪顺遗憾没能上领奖台",
+        "onboard_time": 1729343839,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114678,
+        "num": 114678,
+        "word": "滔搏 bp",
+        "onboard_time": 1729343240,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴福建安徽考察纪实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729342538904,
+  "endTime": 1729344297104,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1544125,
+      "num": 1544125,
+      "word": "覃海洋破亚洲纪录夺冠",
+      "onboard_time": 1729339219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1519866,
       "num": 1519866,
       "word": "韩国一份拌饭均价57元人民币",
@@ -113,14 +121,6 @@
       "onboard_time": 1729302560,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1252637,
-      "num": 1252637,
-      "word": "覃海洋破亚洲纪录夺冠",
-      "onboard_time": 1729339219,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1092223,
@@ -241,6 +241,14 @@
       "onboard_time": 1729297456,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 834782,
+      "num": 354937,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821258,
@@ -555,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 497049,
-      "num": 354937,
-      "word": "昆明学校食堂臭肉事件检测结果已出",
-      "onboard_time": 1729339279,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491451,
       "num": 491451,
       "word": "elk",
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353311,
+      "num": 353311,
+      "word": "赵丽颖出发金鹰节",
+      "onboard_time": 1729341200,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351977,
       "num": 351977,
       "word": "听泉鉴宝直播带货一晚卖出750万元",
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313833,
+      "num": 290826,
+      "word": "何猷君奚梦瑶带娃逛迪士尼",
+      "onboard_time": 1729343779,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307608,
       "num": 275321,
       "word": "王励勤和樊振东许昕握手",
@@ -867,8 +883,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298075,
+      "num": 298075,
+      "word": "马尔尚夺冠",
+      "onboard_time": 1729341079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293291,
-      "num": 293291,
+      "num": 297781,
       "word": "付航call back",
       "onboard_time": 1729328840,
       "rank": 30,
@@ -929,22 +953,6 @@
       "onboard_time": 1729321939,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265586,
-      "num": 265586,
-      "word": "马尔尚夺冠",
-      "onboard_time": 1729341079,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 261269,
-      "num": 261269,
-      "word": "赵丽颖出发金鹰节",
-      "onboard_time": 1729341200,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 255040,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1729269677,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225668,
+      "num": 225668,
+      "word": "王一博手忙脚乱开香槟",
+      "onboard_time": 1729343300,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225395,
@@ -1179,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201811,
+      "num": 201811,
+      "word": "真要觉得青山刚昌是故意的了",
+      "onboard_time": 1729339818,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201509,
       "num": 201509,
       "word": "哈马斯最新声明",
@@ -1291,6 +1315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 188162,
+      "num": 188162,
+      "word": "小丑女真的存在过吗",
+      "onboard_time": 1729343540,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184966,
       "num": 193863,
       "word": "APT好听",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1729329200,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180674,
+      "num": 368782,
+      "word": "昆明长丰学校董事长实控企业26家",
+      "onboard_time": 1729340119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179845,
@@ -1531,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163973,
+      "num": 163973,
+      "word": "真实的产后状态是怎样的",
+      "onboard_time": 1729339460,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 162220,
       "num": 162220,
       "word": "布朗尼首发",
@@ -1603,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159392,
-      "num": 159392,
-      "word": "真要觉得青山刚昌是故意的了",
-      "onboard_time": 1729339818,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 157638,
       "num": 157638,
       "word": "曾黎向欧洲媒体安利赵露思",
@@ -1659,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156096,
+      "num": 156096,
+      "word": "369兰博",
+      "onboard_time": 1729343660,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155600,
       "num": 155600,
       "word": "狼队晋级淘汰赛",
@@ -1673,6 +1721,14 @@
       "onboard_time": 1729303399,
       "rank": 33,
       "category": "母婴育儿,教育"
+    },
+    {
+      "raw_hot": 155189,
+      "num": 155189,
+      "word": "Faker 狐狸",
+      "onboard_time": 1729343900,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 152939,
@@ -1795,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143626,
+      "num": 143626,
+      "word": "T1 运营",
+      "onboard_time": 1729342820,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142606,
       "num": 142606,
       "word": "Gr对战FPX.ZQ",
@@ -1803,12 +1867,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141803,
-      "num": 141803,
-      "word": "真实的产后状态是怎样的",
-      "onboard_time": 1729339460,
-      "rank": 41,
-      "category": "母婴育儿"
+      "raw_hot": 141424,
+      "num": 141424,
+      "word": "林俊杰魏如萱合唱",
+      "onboard_time": 1729344140,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 140919,
@@ -1905,6 +1969,14 @@
       "onboard_time": 1729318160,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134646,
+      "num": 134646,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1729343958,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 133532,
@@ -2107,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116514,
+      "num": 116514,
+      "word": "汪顺遗憾没能上领奖台",
+      "onboard_time": 1729343839,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116248,
       "num": 116248,
       "word": "张博恒说夺金的决心还在",
@@ -2153,6 +2233,14 @@
       "onboard_time": 1729258823,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114678,
+      "num": 114678,
+      "word": "滔搏 bp",
+      "onboard_time": 1729343240,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 114446,
@@ -2595,20 +2683,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 45956,
-      "num": 368782,
-      "word": "昆明长丰学校董事长实控企业26家",
-      "onboard_time": 1729340119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44228,
       "num": 62161,
       "word": "拉布拉多太胖上下楼主人用起重机",
       "onboard_time": 1729294276,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43349,
+      "num": 307929,
+      "word": "臭肉学校董事长不该再有臭态度",
+      "onboard_time": 1729343479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42790,
@@ -2881,6 +2969,14 @@
       "onboard_time": 1729323258,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 5829,
+      "num": 297587,
+      "word": "女子总做噩梦请法师消灾被骗20万",
+      "onboard_time": 1729344200,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5756,

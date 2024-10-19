@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729342538904,
+  "endTime": 1729344297104,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1544125,
+      "num": 1544125,
+      "word": "覃海洋破亚洲纪录夺冠",
+      "onboard_time": 1729339219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1529565,
       "num": 571336,
       "word": "张雪峰",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1728783618,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1252637,
-      "num": 1252637,
-      "word": "覃海洋破亚洲纪录夺冠",
-      "onboard_time": 1729339219,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1244194,
@@ -2385,6 +2385,14 @@
       "onboard_time": 1728827243,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 834782,
+      "num": 354937,
+      "word": "昆明学校食堂臭肉事件检测结果已出",
+      "onboard_time": 1729339279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834061,
@@ -4683,14 +4691,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 497049,
-      "num": 354937,
-      "word": "昆明学校食堂臭肉事件检测结果已出",
-      "onboard_time": 1729339279,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496903,
       "num": 559431,
       "word": "MAMA提名",
@@ -6107,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353311,
+      "num": 353311,
+      "word": "赵丽颖出发金鹰节",
+      "onboard_time": 1729341200,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353305,
       "num": 471916,
       "word": "翁青雅 恋综喜剧人",
@@ -6651,6 +6659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313833,
+      "num": 290826,
+      "word": "何猷君奚梦瑶带娃逛迪士尼",
+      "onboard_time": 1729343779,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313311,
       "num": 313311,
       "word": "李沁提名视后",
@@ -6923,6 +6939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 298075,
+      "num": 298075,
+      "word": "马尔尚夺冠",
+      "onboard_time": 1729341079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297562,
       "num": 297562,
       "word": "董宇辉独立不到3个月带货超10亿元",
@@ -7044,7 +7068,7 @@
     },
     {
       "raw_hot": 293291,
-      "num": 293291,
+      "num": 297781,
       "word": "付航call back",
       "onboard_time": 1729328840,
       "rank": 30,
@@ -7643,14 +7667,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 265586,
-      "num": 265586,
-      "word": "马尔尚夺冠",
-      "onboard_time": 1729341079,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265324,
       "num": 265324,
       "word": "药水哥健身比赛第三名",
@@ -7777,14 +7793,6 @@
       "onboard_time": 1729152682,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 261269,
-      "num": 261269,
-      "word": "赵丽颖出发金鹰节",
-      "onboard_time": 1729341200,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 261252,
@@ -8777,6 +8785,14 @@
       "onboard_time": 1728796579,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225668,
+      "num": 225668,
+      "word": "王一博手忙脚乱开香槟",
+      "onboard_time": 1729343300,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225454,
@@ -10155,6 +10171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201811,
+      "num": 201811,
+      "word": "真要觉得青山刚昌是故意的了",
+      "onboard_time": 1729339818,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "郭晶晶43岁生日",
@@ -11371,6 +11395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188162,
+      "num": 188162,
+      "word": "小丑女真的存在过吗",
+      "onboard_time": 1729343540,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188047,
       "num": 188047,
       "word": "我国宣布将开展地外生命探寻",
@@ -11985,6 +12017,14 @@
       "onboard_time": 1729329200,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180674,
+      "num": 368782,
+      "word": "昆明长丰学校董事长实控企业26家",
+      "onboard_time": 1729340119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180273,
@@ -13067,6 +13107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163973,
+      "num": 163973,
+      "word": "真实的产后状态是怎样的",
+      "onboard_time": 1729339460,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 163856,
       "num": 163856,
       "word": "樊振东许昕赛前训练画面",
@@ -13403,14 +13451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159392,
-      "num": 159392,
-      "word": "真要觉得青山刚昌是故意的了",
-      "onboard_time": 1729339818,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 159242,
       "num": 172818,
       "word": "汪苏泷带着4万人一起蹦迪",
@@ -13635,6 +13675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156096,
+      "num": 156096,
+      "word": "369兰博",
+      "onboard_time": 1729343660,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155912,
       "num": 301880,
       "word": "付航 差生也是有优点的",
@@ -13689,6 +13737,14 @@
       "onboard_time": 1728958219,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155189,
+      "num": 155189,
+      "word": "Faker 狐狸",
+      "onboard_time": 1729343900,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 155150,
@@ -14491,6 +14547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143626,
+      "num": 143626,
+      "word": "T1 运营",
+      "onboard_time": 1729342820,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "甄嬛传有自己的向佐",
@@ -14611,19 +14675,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141803,
-      "num": 141803,
-      "word": "真实的产后状态是怎样的",
-      "onboard_time": 1729339460,
-      "rank": 41,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 141462,
       "num": 141462,
       "word": "关晓彤探班张艺兴音乐话剧",
       "onboard_time": 1728742703,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141424,
+      "num": 141424,
+      "word": "林俊杰魏如萱合唱",
+      "onboard_time": 1729344140,
+      "rank": 39,
       "category": "演出"
     },
     {
@@ -15113,6 +15177,14 @@
       "onboard_time": 1729318160,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134646,
+      "num": 134646,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1729343958,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134076,
@@ -15955,6 +16027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116514,
+      "num": 116514,
+      "word": "汪顺遗憾没能上领奖台",
+      "onboard_time": 1729343839,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116469,
       "num": 450153,
       "word": "年轻人的顶级松弛感是生图直出",
@@ -16097,6 +16177,14 @@
       "onboard_time": 1729001602,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114678,
+      "num": 114678,
+      "word": "滔搏 bp",
+      "onboard_time": 1729343240,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 114568,
@@ -19083,14 +19171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45956,
-      "num": 368782,
-      "word": "昆明长丰学校董事长实控企业26家",
-      "onboard_time": 1729340119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45955,
       "num": 268020,
       "word": "那些爱挑刺的人到底是什么心理",
@@ -19248,6 +19328,14 @@
       "word": "青海有毒致6死气体确认为硫化氢",
       "onboard_time": 1728980719,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43349,
+      "num": 307929,
+      "word": "臭肉学校董事长不该再有臭态度",
+      "onboard_time": 1729343479,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -21777,6 +21865,14 @@
       "onboard_time": 1728785298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5829,
+      "num": 297587,
+      "word": "女子总做噩梦请法师消灾被骗20万",
+      "onboard_time": 1729344200,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5756,
