@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 16:40:23
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 17:21:22
 </p>
 </blockquote>
 <p>
@@ -3441,6 +3441,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E4%BC%8D%E4%BD%B0%E8%A2%AB%E8%AF%B4%E7%8C%A5%E7%90%90%23" target="weibo">
+张雪峰回应伍佰被说猥琐（热度：945897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%88%BF%E4%B8%9C220%E4%B8%87%E5%8D%96%E6%88%BF%E4%B8%B4%E6%97%B6%E8%BF%BD%E5%8A%A020%E4%B8%87%23" target="weibo">
 上海一房东220万卖房临时追加20万（热度：945157）
 </a>
@@ -5343,6 +5349,12 @@ GALA连续四年止步八强（热度：727346）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E4%B9%A1%E9%95%BF%E4%B8%8B%E4%B9%A1%E8%A2%AB%E6%9D%91%E6%B0%91%E5%88%BA%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
+江西一乡长下乡被村民刺伤身亡（热度：717221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%A4%A7%E7%88%86%E5%89%A7%E5%8F%8C%E9%A1%B6%E6%B5%81%E6%8F%90%E5%90%8D%E9%87%91%E9%B9%B0%E5%A5%96%E8%A7%86%E5%B8%9D%E8%A7%86%E5%90%8E%23" target="weibo">
 曝大爆剧双顶流提名金鹰奖视帝视后（热度：717211）
 </a>
@@ -5895,6 +5907,12 @@ BLG（热度：663891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9E%83%E8%9F%B9%E8%BA%AB%E4%B8%8A%E6%9C%89%E9%92%88%E7%9C%BC%E6%98%AF%E8%A2%AB%E6%B3%A8%E6%B0%B4%E4%BA%86%E5%90%97%23" target="weibo">
+螃蟹身上有针眼是被注水了吗（热度：661331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%20%E6%88%91%E6%B2%A1%E6%9C%89%E8%A2%AB%E5%90%91%E5%B7%A6%E7%BB%91%E6%9E%B6%23" target="weibo">
 费曼 我没有被向左绑架（热度：661196）
 </a>
@@ -5993,24 +6011,6 @@ Jessi发文道歉（热度：656438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%88%98%E6%B5%A9%E5%AD%98MIUMIU%E5%87%BA%E5%9B%BE%23" target="weibo">
 赵今麦刘浩存MIUMIU出图（热度：653812）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A2%81%E9%9D%96%E5%B4%91%E6%8B%A5%E6%8A%B1%23" target="weibo">
-王楚钦梁靖崑拥抱（热度：653237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%8D%B4%E4%B8%8D%E9%A6%99%E4%BA%86%23" target="weibo">
-为什么金价狂飙却不香了（热度：653059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%BF%9F%E5%88%B0%E8%A2%AB%E7%82%B9%E5%90%8D%23" target="weibo">
-檀健次坐飞机迟到被点名（热度：652956）
 </a>
 </li>
 

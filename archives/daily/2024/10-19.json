@@ -1,10 +1,10 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729327223441,
+  "endTime": 1729329682418,
   "band_list": [
     {
       "raw_hot": 2502756,
-      "num": 242307,
+      "num": 327201,
       "word": "黄磊回应近期舆论",
       "onboard_time": 1729325179,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 945897,
+      "num": 327078,
+      "word": "张雪峰回应伍佰被说猥琐",
+      "onboard_time": 1729326679,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 928983,
       "num": 398473,
       "word": "没认出来这是费曼",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717221,
+      "num": 327019,
+      "word": "江西一乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729326619,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708247,
       "num": 338302,
       "word": "午睡超一小时死亡风险增加30%",
@@ -243,8 +259,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661331,
+      "num": 661331,
+      "word": "螃蟹身上有针眼是被注水了吗",
+      "onboard_time": 1729324399,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661196,
-      "num": 241236,
+      "num": 321427,
       "word": "费曼 我没有被向左绑架",
       "onboard_time": 1729323018,
       "rank": 32,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 621286,
-      "num": 315408,
+      "num": 337224,
       "word": "刘诗诗粉底",
       "onboard_time": 1729323800,
       "rank": 7,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 594691,
-      "num": 320248,
+      "num": 346393,
       "word": "Jessi谎称打粉丝的是中国人",
       "onboard_time": 1729322118,
       "rank": 25,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 437503,
-      "num": 238335,
+      "num": 349656,
       "word": "林高远 到了自洽的阶段",
       "onboard_time": 1729324160,
       "rank": 16,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 371520,
-      "num": 215700,
+      "num": 326540,
       "word": "柳智敏solo初一位",
       "onboard_time": 1729326019,
       "rank": 30,
@@ -595,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352013,
-      "num": 214237,
-      "word": "张雪峰回应伍佰被说猥琐",
-      "onboard_time": 1729326679,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 355807,
+      "num": 326718,
+      "word": "美国脑死亡男子捐赠器官手术中苏醒",
+      "onboard_time": 1729329200,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351977,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 337047,
-      "num": 228936,
+      "num": 327346,
       "word": "Faker从未在S赛BO5输给LPL",
       "onboard_time": 1729325720,
       "rank": 29,
@@ -649,14 +673,6 @@
       "onboard_time": 1729264999,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323497,
-      "num": 323497,
-      "word": "螃蟹身上有针眼是被注水了吗",
-      "onboard_time": 1729324399,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314348,
@@ -737,6 +753,14 @@
       "onboard_time": 1729323379,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238758,
+      "num": 194834,
+      "word": "付航call back",
+      "onboard_time": 1729328840,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 233397,
@@ -891,6 +915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 201207,
+      "num": 201207,
+      "word": "菲律宾火锅店中枪华人男子已身亡",
+      "onboard_time": 1729329379,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200922,
       "num": 200922,
       "word": "BigWei",
@@ -923,12 +955,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196274,
-      "num": 196274,
-      "word": "江西一乡长下乡被村民刺伤身亡",
-      "onboard_time": 1729326619,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 196318,
+      "num": 196318,
+      "word": "福宝变成小花猫",
+      "onboard_time": 1729326499,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194906,
+      "num": 194906,
+      "word": "NINEPERCENT眼中的尤长靖",
+      "onboard_time": 1729328778,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 194865,
@@ -969,6 +1009,14 @@
       "onboard_time": 1729321818,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187354,
+      "num": 228651,
+      "word": "黄圣依杨子 黄亦玫方协文具象化",
+      "onboard_time": 1729325537,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 184906,
@@ -1019,12 +1067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180753,
+      "num": 180753,
+      "word": "TTG对战WE",
+      "onboard_time": 1729329200,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179845,
       "num": 179845,
       "word": "黄圣依 原来她们还可以这样生活",
       "onboard_time": 1729312040,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178362,
+      "num": 178362,
+      "word": "白百何演技",
+      "onboard_time": 1729329078,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 177794,
@@ -1091,12 +1155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167821,
+      "num": 167821,
+      "word": "许昕vs徐瑛彬",
+      "onboard_time": 1729326738,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167368,
       "num": 167368,
       "word": "迪丽热巴新剧淋浴镜头",
       "onboard_time": 1729312218,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166857,
+      "num": 166857,
+      "word": "小丑2后劲好大",
+      "onboard_time": 1729326379,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 165673,
@@ -1171,14 +1251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160919,
-      "num": 160919,
-      "word": "福宝变成小花猫",
-      "onboard_time": 1729326499,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160541,
       "num": 160541,
       "word": "复制粘贴式制造事故骗保33万",
@@ -1251,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156088,
+      "num": 156088,
+      "word": "周恺3比2王博",
+      "onboard_time": 1729329379,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155498,
       "num": 155498,
       "word": "3岁小孩姐3个月轻松拿捏CAD",
@@ -1321,14 +1401,6 @@
       "onboard_time": 1729319540,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144800,
-      "num": 144800,
-      "word": "小丑2后劲好大",
-      "onboard_time": 1729326379,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 144445,
@@ -1411,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136355,
+      "num": 136355,
+      "word": "许昕周恺1比3魏世皓王博",
+      "onboard_time": 1729327459,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134880,
       "num": 134880,
       "word": "山东一医院因没钱无法报销医保",
@@ -1457,6 +1537,22 @@
       "onboard_time": 1729312218,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128952,
+      "num": 128952,
+      "word": "樊振东3比0战胜徐瑛彬",
+      "onboard_time": 1729325659,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128367,
+      "num": 128367,
+      "word": "刘学义演技",
+      "onboard_time": 1729329439,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 127113,
@@ -1555,14 +1651,6 @@
       "category": "演出,电竞"
     },
     {
-      "raw_hot": 120802,
-      "num": 120802,
-      "word": "许昕vs徐瑛彬",
-      "onboard_time": 1729326738,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119777,
       "num": 119777,
       "word": "铁路客运将推广使用电子发票",
@@ -1609,6 +1697,14 @@
       "onboard_time": 1729321398,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115399,
+      "num": 115399,
+      "word": "炮兵实弹射击考核全程高燃",
+      "onboard_time": 1729327759,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115352,
@@ -1827,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80987,
+      "num": 327342,
+      "word": "前承包商称臭肉学校食堂承包费每年超40万",
+      "onboard_time": 1729328541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77925,
       "num": 77925,
       "word": "临沂妇幼保健院院长回应中介卖孩子",
@@ -2019,14 +2123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34898,
-      "num": 228651,
-      "word": "黄圣依杨子 黄亦玫方协文具象化",
-      "onboard_time": 1729325537,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33983,
       "num": 124164,
       "word": "外交部谈西田敏行去世",
@@ -2052,7 +2148,7 @@
     },
     {
       "raw_hot": 29862,
-      "num": 466851,
+      "num": 480939,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,
