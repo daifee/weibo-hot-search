@@ -1,6 +1,6 @@
 {
   "startTime": 1728750414717,
-  "endTime": 1729319346568,
+  "endTime": 1729320155275,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -355,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2230023,
+      "num": 2230023,
+      "word": "杨子 不能她好了我和巨力不好",
+      "onboard_time": 1729316660,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2206509,
       "num": 463482,
       "word": "多名中国女性在德国遭强奸",
       "onboard_time": 1729074259,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2150980,
-      "num": 2150980,
-      "word": "杨子 不能她好了我和巨力不好",
-      "onboard_time": 1729316660,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2143839,
@@ -2947,6 +2947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 726770,
+      "num": 400264,
+      "word": "叶珂 高知的颜色",
+      "onboard_time": 1729318340,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726295,
       "num": 726295,
       "word": "特朗普称美国城市发展远落后中国",
@@ -4339,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507943,
+      "num": 411813,
+      "word": "严浩翔贺峻霖王者情侣标",
+      "onboard_time": 1729316299,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507284,
       "num": 277138,
       "word": "2人走私2.7吨活体蛇被刑拘",
@@ -4393,14 +4409,6 @@
       "onboard_time": 1728913882,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 503778,
-      "num": 411813,
-      "word": "严浩翔贺峻霖王者情侣标",
-      "onboard_time": 1729316299,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 502171,
@@ -5259,6 +5267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 410680,
+      "num": 291638,
+      "word": "早期黄圣依",
+      "onboard_time": 1729318939,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408879,
       "num": 408879,
       "word": "徐锦江拍过最辛苦的戏是西游记",
@@ -5328,14 +5344,6 @@
       "word": "One Direction",
       "onboard_time": 1729134683,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 400264,
-      "num": 400264,
-      "word": "叶珂 高知的颜色",
-      "onboard_time": 1729318340,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -6441,6 +6449,14 @@
       "onboard_time": 1728786197,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305356,
+      "num": 433162,
+      "word": "男童骑行遭碾压家属称后悔让他学车",
+      "onboard_time": 1729318399,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305239,
@@ -8963,14 +8979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212464,
-      "num": 182284,
-      "word": "早期黄圣依",
-      "onboard_time": 1729318939,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212433,
       "num": 212433,
       "word": "林孝埈说代表中国参赛很自豪",
@@ -9852,7 +9860,7 @@
     },
     {
       "raw_hot": 199349,
-      "num": 199349,
+      "num": 319490,
       "word": "身高不足1米2的她保研成功了",
       "onboard_time": 1729318039,
       "rank": 27,
@@ -11187,14 +11195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184340,
-      "num": 433162,
-      "word": "男童骑行遭碾压家属称后悔让他学车",
-      "onboard_time": 1729318399,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184299,
       "num": 184311,
       "word": "刘冲让黄景瑜少穿一点",
@@ -11785,6 +11785,14 @@
       "onboard_time": 1729076241,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174462,
+      "num": 561024,
+      "word": "家长称涉臭肉事件学校原口碑不错",
+      "onboard_time": 1729316238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174409,
@@ -13675,6 +13683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144878,
+      "num": 144878,
+      "word": "尤长靖 漫画跑",
+      "onboard_time": 1729319540,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144863,
       "num": 144863,
       "word": "莽小五上树",
@@ -13920,6 +13936,14 @@
       "word": "无忧渡什么时候播",
       "onboard_time": 1729236681,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140654,
+      "num": 401097,
+      "word": "檀健次看了也脸红",
+      "onboard_time": 1729318820,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -14313,6 +14337,22 @@
       "onboard_time": 1729232541,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134880,
+      "num": 134880,
+      "word": "山东一医院因没钱无法报销医保",
+      "onboard_time": 1729318160,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134709,
+      "num": 134709,
+      "word": "猴子要打开包被男子反复拒绝",
+      "onboard_time": 1729318999,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134076,
@@ -14763,14 +14803,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 123486,
-      "num": 123486,
-      "word": "山东一医院因没钱无法报销医保",
-      "onboard_time": 1729318160,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123400,
       "num": 123400,
       "word": "周深 没那么多姿势",
@@ -15025,22 +15057,6 @@
       "onboard_time": 1728960498,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 118447,
-      "num": 118447,
-      "word": "猴子要打开包被男子反复拒绝",
-      "onboard_time": 1729318999,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118267,
-      "num": 401097,
-      "word": "檀健次看了也脸红",
-      "onboard_time": 1729318820,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 118256,
@@ -15419,14 +15435,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 110572,
-      "num": 561024,
-      "word": "家长称涉臭肉事件学校原口碑不错",
-      "onboard_time": 1729316238,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110265,
       "num": 374244,
       "word": "Bella维密闭场",
@@ -15457,6 +15465,14 @@
       "onboard_time": 1728859515,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109933,
+      "num": 109933,
+      "word": "男子反复捶断手指碰瓷30多起",
+      "onboard_time": 1729319718,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109559,
@@ -15587,6 +15603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106279,
+      "num": 106279,
+      "word": "白鹿孟子义摄影组合叫白日孟影",
+      "onboard_time": 1729320017,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105813,
       "num": 119659,
       "word": "大四学生失联数月家属称其挂科8门",
@@ -15641,6 +15665,14 @@
       "onboard_time": 1728820641,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104618,
+      "num": 104618,
+      "word": "上头电子烟里竟然藏着新型毒品",
+      "onboard_time": 1729319600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104565,
@@ -17259,6 +17291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59746,
+      "num": 202625,
+      "word": "40岁正是爱打游戏的年纪",
+      "onboard_time": 1729318820,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59628,
       "num": 279342,
       "word": "真正好用的卫生巾",
@@ -17939,6 +17979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 48395,
+      "num": 414483,
+      "word": "一线标配正在攻占县城",
+      "onboard_time": 1729319178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48375,
       "num": 514264,
       "word": "郑号锡将于17日退伍",
@@ -18579,14 +18627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37511,
-      "num": 174260,
-      "word": "40岁正是爱打游戏的年纪",
-      "onboard_time": 1729318820,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37489,
       "num": 41527,
       "word": "四地证监局重拳打击违规减持现象",
@@ -18761,6 +18801,14 @@
       "onboard_time": 1728903618,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35048,
+      "num": 417800,
+      "word": "谭松韵贾乃亮没话硬说",
+      "onboard_time": 1729316837,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 34918,
@@ -19153,14 +19201,6 @@
       "onboard_time": 1729193530,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30973,
-      "num": 417800,
-      "word": "谭松韵贾乃亮没话硬说",
-      "onboard_time": 1729316837,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 30912,
@@ -19955,6 +19995,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 21493,
+      "num": 425389,
+      "word": "欧阳靖吃鸡版速度与激情",
+      "onboard_time": 1729317859,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21475,
       "num": 44870,
       "word": "海军版山河图变装太燃了",
@@ -20073,14 +20121,6 @@
       "onboard_time": 1728763331,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20174,
-      "num": 425389,
-      "word": "欧阳靖吃鸡版速度与激情",
-      "onboard_time": 1729317859,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 19880,
@@ -20681,14 +20721,6 @@
       "onboard_time": 1729142303,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 6766,
-      "num": 414483,
-      "word": "一线标配正在攻占县城",
-      "onboard_time": 1729319178,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6368,
