@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 15:21:06
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 15:35:47
 </p>
 </blockquote>
 <p>
@@ -6407,6 +6407,12 @@ Jessi发文道歉（热度：656438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8E%A2%E5%AF%BB%E6%A1%90%E5%9F%8E%E6%96%87%E8%84%89%E6%82%A0%E9%95%BF%23%23" target="weibo">
 #跟着总书记探寻桐城文脉悠长#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%B4%E7%A6%8F%E5%BB%BA%E5%AE%89%E5%BE%BD%E8%80%83%E5%AF%9F%E7%BA%AA%E5%AE%9E%23%23" target="weibo">
+#习近平总书记赴福建安徽考察纪实#
 </a>
 </li>
 
