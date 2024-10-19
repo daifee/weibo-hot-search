@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729311963158,
+  "endTime": 1729312815894,
   "band_list": [
     {
       "raw_hot": 2073138,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1723249,
+      "num": 384190,
+      "word": "73岁张纪中再当爸",
+      "onboard_time": 1729307657,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1624127,
       "num": 1624127,
       "word": "BLG晋级S14四强",
@@ -35,20 +43,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1569919,
-      "num": 338095,
-      "word": "73岁张纪中再当爸",
-      "onboard_time": 1729307657,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1311161,
       "num": 375220,
       "word": "被害女幼师曾向凶手求饶",
       "onboard_time": 1729261159,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281313,
+      "num": 1281313,
+      "word": "纪凌尘回应与沈月牵手",
+      "onboard_time": 1729312398,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1275453,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576236,
+      "num": 576236,
+      "word": "王一博赛车直播",
+      "onboard_time": 1729311618,
+      "rank": 25,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 546131,
       "num": 369903,
       "word": "内娱三大忍者",
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402668,
+      "num": 402668,
+      "word": "普京说美阻华发展犹如不让太阳升起",
+      "onboard_time": 1729310778,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 389540,
       "num": 389540,
       "word": "韩华生命",
@@ -313,6 +337,14 @@
       "onboard_time": 1729283590,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381448,
+      "num": 355684,
+      "word": "张凌赫疑似失去所有的手段和力气",
+      "onboard_time": 1729311018,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 379448,
@@ -363,6 +395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 350262,
+      "num": 350262,
+      "word": "湖北荆州市长周志红任上被查",
+      "onboard_time": 1729310118,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337465,
       "num": 337465,
       "word": "刘亦菲黄景瑜豪门姐弟既视感",
@@ -385,14 +425,6 @@
       "onboard_time": 1729248443,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295312,
-      "num": 295312,
-      "word": "湖北荆州市长周志红任上被查",
-      "onboard_time": 1729310118,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278184,
@@ -425,6 +457,14 @@
       "onboard_time": 1729305499,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243338,
+      "num": 243338,
+      "word": "5旬大爷恋爱后吃10多种壮阳药进医院",
+      "onboard_time": 1729310059,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233397,
@@ -465,6 +505,14 @@
       "onboard_time": 1729304359,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 217192,
+      "num": 359905,
+      "word": "奔跑吧一口气发了81张图",
+      "onboard_time": 1729311858,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 214260,
@@ -531,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198794,
+      "num": 198794,
+      "word": "金鹰奖出席嘉宾官宣",
+      "onboard_time": 1729312579,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198702,
       "num": 198702,
       "word": "杨子年内带货12场销售额50万元",
@@ -555,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193813,
-      "num": 193813,
-      "word": "王一博赛车直播",
-      "onboard_time": 1729311618,
-      "rank": 25,
-      "category": "艺人,体育"
+      "raw_hot": 193790,
+      "num": 193790,
+      "word": "宋亚轩变成i人",
+      "onboard_time": 1729311918,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 193414,
@@ -571,12 +627,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 189046,
-      "num": 189046,
-      "word": "5旬大爷恋爱后吃10多种壮阳药进医院",
-      "onboard_time": 1729310059,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 187142,
+      "num": 187142,
+      "word": "原来潘展乐也有抢票烦恼",
+      "onboard_time": 1729311499,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 184906,
@@ -603,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177794,
+      "num": 177794,
+      "word": "于祥宇 歪嘴有冠军相",
+      "onboard_time": 1729311980,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175719,
       "num": 175719,
       "word": "张真源每天督促沙溢减肥",
@@ -619,11 +683,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172723,
-      "num": 172723,
-      "word": "宋亚轩变成i人",
-      "onboard_time": 1729311918,
+      "raw_hot": 167368,
+      "num": 167368,
+      "word": "迪丽热巴新剧淋浴镜头",
+      "onboard_time": 1729312218,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165595,
+      "num": 165595,
+      "word": "战至巅峰",
+      "onboard_time": 1729312579,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -635,12 +707,28 @@
       "category": "演出,电竞"
     },
     {
+      "raw_hot": 161331,
+      "num": 161331,
+      "word": "现在就出发",
+      "onboard_time": 1729312638,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161271,
       "num": 161271,
       "word": "无期迷途",
       "onboard_time": 1729311858,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160541,
+      "num": 160541,
+      "word": "复制粘贴式制造事故骗保33万",
+      "onboard_time": 1729312339,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159882,
@@ -651,12 +739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158050,
-      "num": 364479,
-      "word": "普京说美阻华发展犹如不让太阳升起",
-      "onboard_time": 1729310778,
-      "rank": 8,
-      "category": "国外时政"
+      "raw_hot": 157876,
+      "num": 157876,
+      "word": "臭肉学校家委会曾多次提食材问题",
+      "onboard_time": 1729312279,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157402,
@@ -699,12 +787,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149707,
-      "num": 149707,
-      "word": "张凌赫疑似失去所有的手段和力气",
-      "onboard_time": 1729311018,
-      "rank": 36,
-      "category": "作品衍生,时尚"
+      "raw_hot": 151855,
+      "num": 151855,
+      "word": "黄圣依 原来她们还可以这样生活",
+      "onboard_time": 1729312040,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 148165,
@@ -712,6 +800,14 @@
       "word": "女子买四季豆检测笔一照蓝盈盈",
       "onboard_time": 1729294276,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146292,
+      "num": 386969,
+      "word": "6部门联合调查臭肉事件",
+      "onboard_time": 1729311198,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -787,19 +883,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 130532,
+      "num": 130532,
+      "word": "好想像马天宇这样不管不顾的活一次",
+      "onboard_time": 1729312218,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125681,
       "num": 125681,
       "word": "脱口秀",
       "onboard_time": 1729262901,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 125595,
-      "num": 195023,
-      "word": "奔跑吧一口气发了81张图",
-      "onboard_time": 1729311858,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -825,6 +921,22 @@
       "onboard_time": 1729262361,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123353,
+      "num": 123353,
+      "word": "用户称华为把手机从聋子修成哑巴",
+      "onboard_time": 1729312459,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 123198,
+      "num": 123198,
+      "word": "绘旅人琳琅珍馐",
+      "onboard_time": 1729312158,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 123086,
@@ -865,14 +977,6 @@
       "onboard_time": 1729310358,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118085,
-      "num": 118085,
-      "word": "原来潘展乐也有抢票烦恼",
-      "onboard_time": 1729311499,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 117566,
@@ -1051,19 +1155,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81755,
+      "num": 369066,
+      "word": "让校长和孩子吃一样饭菜有用吗",
+      "onboard_time": 1729311080,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77925,
       "num": 77925,
       "word": "临沂妇幼保健院院长回应中介卖孩子",
       "onboard_time": 1729292595,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77603,
-      "num": 357626,
-      "word": "6部门联合调查臭肉事件",
-      "onboard_time": 1729311198,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1104,14 +1208,6 @@
       "word": "好的人生需要8种推动力",
       "onboard_time": 1729268120,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68533,
-      "num": 288650,
-      "word": "让校长和孩子吃一样饭菜有用吗",
-      "onboard_time": 1729311080,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1180,7 +1276,7 @@
     },
     {
       "raw_hot": 42381,
-      "num": 288467,
+      "num": 361349,
       "word": "vivoX200系列销售额创20亿新高",
       "onboard_time": 1729310717,
       "rank": 15,
@@ -1196,7 +1292,7 @@
     },
     {
       "raw_hot": 34825,
-      "num": 283672,
+      "num": 374504,
       "word": "和平精英代言人四排吃鸡",
       "onboard_time": 1729310717,
       "rank": 17,
@@ -1275,6 +1371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23348,
+      "num": 1003331,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1729308020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22960,
       "num": 25764,
       "word": "珠帘玉幕商海纵横版海报",
@@ -1299,20 +1403,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 21837,
-      "num": 1003331,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1729308020,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21576,
       "num": 126256,
       "word": "颐莲一个牌子两幅面孔",
       "onboard_time": 1729305679,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14535,
+      "num": 284052,
+      "word": "vivoX200拍出了古建筑的历史细节",
+      "onboard_time": 1729310717,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 11549,
@@ -1329,14 +1433,6 @@
       "onboard_time": 1729289353,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9768,
-      "num": 279069,
-      "word": "vivoX200拍出了古建筑的历史细节",
-      "onboard_time": 1729310717,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 9332,
