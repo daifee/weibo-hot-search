@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729333305771,
+  "endTime": 1729334362990,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1277864,
+      "num": 1277864,
+      "word": "韩国一份拌饭均价57元人民币",
+      "onboard_time": 1729332078,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1275453,
       "num": 532861,
       "word": "叶珂称自己卖的衣服独one无two",
@@ -107,19 +115,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088578,
+      "num": 1166877,
+      "word": "火车票纸质报销凭证将成历史",
+      "onboard_time": 1729329739,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048642,
       "num": 1048642,
       "word": "被烧伤妈妈在ICU看到宝宝时安心了",
       "onboard_time": 1729298839,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1042983,
-      "num": 1166877,
-      "word": "火车票纸质报销凭证将成历史",
-      "onboard_time": 1729329739,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1729297456,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782086,
+      "num": 368800,
+      "word": "肉已经臭了学校应对怎能更臭",
+      "onboard_time": 1729329859,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739718,
@@ -379,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 596854,
-      "num": 368800,
-      "word": "肉已经臭了学校应对怎能更臭",
-      "onboard_time": 1729329859,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594739,
       "num": 594739,
       "word": "以方公布辛瓦尔被打死前影像",
@@ -459,11 +467,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512660,
-      "num": 512660,
-      "word": "韩国一份拌饭均价57元人民币",
-      "onboard_time": 1729332078,
-      "rank": 1,
+      "raw_hot": 527398,
+      "num": 243392,
+      "word": "杨紫晒照给李现庆生",
+      "onboard_time": 1729332021,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 518196,
+      "num": 518196,
+      "word": "中国人将在月球用榫卯工艺盖房",
+      "onboard_time": 1729331180,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -473,14 +489,6 @@
       "onboard_time": 1729316299,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 507288,
-      "num": 243392,
-      "word": "杨紫晒照给李现庆生",
-      "onboard_time": 1729332021,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 498228,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291689,
+      "num": 291689,
+      "word": "樊振东领衔上海队三连冠",
+      "onboard_time": 1729331479,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291447,
       "num": 220738,
       "word": "控制欲强的人有3个心理特征",
@@ -811,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255180,
-      "num": 255180,
-      "word": "樊振东领衔上海队三连冠",
-      "onboard_time": 1729331479,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 256349,
+      "num": 229621,
+      "word": "黑灯发文",
+      "onboard_time": 1729333160,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 255040,
@@ -825,14 +841,6 @@
       "onboard_time": 1729256722,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 250313,
-      "num": 250313,
-      "word": "中国人将在月球用榫卯工艺盖房",
-      "onboard_time": 1729331180,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249988,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 162784,
-      "num": 162784,
+      "num": 237181,
       "word": "多名家长称反映臭肉问题被威胁",
       "onboard_time": 1729330100,
       "rank": 46,
@@ -1515,11 +1523,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145174,
-      "num": 145174,
+      "raw_hot": 146783,
+      "num": 146783,
       "word": "内塔尼亚胡住所遭黎无人机袭击",
       "onboard_time": 1729332379,
       "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 145063,
+      "num": 145063,
+      "word": "已故哈马斯领导人上时代杂志封面",
+      "onboard_time": 1729333219,
+      "rank": 49,
       "category": "国外时政"
     },
     {
@@ -1787,14 +1803,6 @@
       "category": "演出,电竞"
     },
     {
-      "raw_hot": 121466,
-      "num": 121466,
-      "word": "黑灯发文",
-      "onboard_time": 1729333160,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119777,
       "num": 119777,
       "word": "铁路客运将推广使用电子发票",
@@ -1883,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114336,
+      "num": 114336,
+      "word": "火车票报销不用再取纸质车票",
+      "onboard_time": 1729333519,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113088,
       "num": 113088,
       "word": "中国非遗表演自带特效",
@@ -1963,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105815,
-      "num": 105815,
-      "word": "已故哈马斯领导人上时代杂志封面",
-      "onboard_time": 1729333219,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 105486,
       "num": 105486,
       "word": "Haodong离队",
@@ -2019,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99306,
+      "num": 99306,
+      "word": "张纪中妻子顺产转剖腹产",
+      "onboard_time": 1729334239,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96038,
       "num": 96038,
       "word": "胡明轩40分",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1729308498,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 93373,
+      "num": 93373,
+      "word": "你好星期六",
+      "onboard_time": 1729334119,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 93315,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1729318820,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59921,
+      "num": 232308,
+      "word": "赵露思中法环境月访谈",
+      "onboard_time": 1729333879,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 57475,
@@ -2308,7 +2340,7 @@
     },
     {
       "raw_hot": 29862,
-      "num": 747544,
+      "num": 779419,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,
@@ -2379,6 +2411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25060,
+      "num": 240782,
+      "word": "vivoX200拍出了古今穿越同框",
+      "onboard_time": 1729329801,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23348,
       "num": 1132212,
       "word": "盛世中华何以中国",
@@ -2433,14 +2473,6 @@
       "onboard_time": 1729332560,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15143,
-      "num": 240782,
-      "word": "vivoX200拍出了古今穿越同框",
-      "onboard_time": 1729329801,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 11549,
