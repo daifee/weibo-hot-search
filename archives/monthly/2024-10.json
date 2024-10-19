@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729345007257,
+  "endTime": 1729347614063,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2083,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412932,
+      "num": 322070,
+      "word": "学生遭老师性侵怀孕19周流产",
+      "onboard_time": 1729344681,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1409148,
       "num": 1409148,
       "word": "孙颖莎WTT退赛",
@@ -3547,6 +3555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1081760,
+      "num": 1173081,
+      "word": "央视曝光证书挂靠陷阱",
+      "onboard_time": 1729344740,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078807,
       "num": 689883,
       "word": "刺痛减肥",
@@ -3628,7 +3644,7 @@
     },
     {
       "raw_hot": 1063834,
-      "num": 393557,
+      "num": 477214,
       "word": "TES对战T1",
       "onboard_time": 1727960179,
       "rank": 39,
@@ -6059,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795989,
+      "num": 795989,
+      "word": "TES 零封",
+      "onboard_time": 1729346301,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 795934,
       "num": 324953,
       "word": "叶珂说自己不是很做作的人",
@@ -6577,6 +6601,14 @@
       "onboard_time": 1728548299,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757670,
+      "num": 353707,
+      "word": "29岁自律女生在村里高能量的一天",
+      "onboard_time": 1729345942,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 757470,
@@ -7272,6 +7304,14 @@
       "word": "黄晓明",
       "onboard_time": 1729149321,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 709983,
+      "num": 314913,
+      "word": "何猷君奚梦瑶带娃逛迪士尼",
+      "onboard_time": 1729343779,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -8867,6 +8907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613617,
+      "num": 350856,
+      "word": "王多多怒喷TES",
+      "onboard_time": 1729346842,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 613292,
       "num": 507017,
       "word": "博主擅闯哀牢山禁区已违法",
@@ -8896,14 +8944,6 @@
       "word": "时代峰峻噪声超标被罚1.25万",
       "onboard_time": 1728729979,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 610680,
-      "num": 290826,
-      "word": "何猷君奚梦瑶带娃逛迪士尼",
-      "onboard_time": 1729343779,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -9785,6 +9825,14 @@
       "onboard_time": 1729222879,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 565549,
+      "num": 565549,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1729343958,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 565371,
@@ -11377,14 +11425,6 @@
       "onboard_time": 1728447080,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490102,
-      "num": 287181,
-      "word": "学生遭老师性侵怀孕19周流产",
-      "onboard_time": 1729344681,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489891,
@@ -14795,6 +14835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367590,
+      "num": 367590,
+      "word": "滔搏 bp",
+      "onboard_time": 1729343240,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367137,
       "num": 330325,
       "word": "赵丽颖完成了演员与角色之间的交汇",
@@ -17569,6 +17617,14 @@
       "onboard_time": 1728218601,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299849,
+      "num": 299849,
+      "word": "RIIZE上海外滩",
+      "onboard_time": 1729345821,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 299758,
@@ -21051,14 +21107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250629,
-      "num": 250629,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1729343958,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250555,
       "num": 209147,
       "word": "小车高速上倒车致多车追尾",
@@ -22257,6 +22305,14 @@
       "onboard_time": 1729225881,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234525,
+      "num": 365562,
+      "word": "韩称朝鲜士兵将投入俄乌作战前线",
+      "onboard_time": 1729345159,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234520,
@@ -23489,14 +23545,6 @@
       "onboard_time": 1728225800,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221916,
-      "num": 221916,
-      "word": "滔搏 bp",
-      "onboard_time": 1729343240,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 221821,
@@ -24899,6 +24947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210881,
+      "num": 210881,
+      "word": "樊振东胸前的金牌在闪光",
+      "onboard_time": 1729346720,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210878,
       "num": 210878,
       "word": "A股大涨",
@@ -25201,6 +25257,14 @@
       "onboard_time": 1728706401,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208094,
+      "num": 215291,
+      "word": "骗子说花几千办证书就能赚几万元",
+      "onboard_time": 1729346061,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208031,
@@ -26489,6 +26553,14 @@
       "onboard_time": 1727842758,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 201464,
+      "num": 201464,
+      "word": "向佐费曼互动",
+      "onboard_time": 1729346301,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 201338,
@@ -28681,6 +28753,14 @@
       "onboard_time": 1728210858,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191827,
+      "num": 191827,
+      "word": "14岁女孩遭辅导班老师性侵两年",
+      "onboard_time": 1729345942,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191826,
@@ -35115,6 +35195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157645,
+      "num": 157645,
+      "word": "T1淘汰赛手握三个赛点",
+      "onboard_time": 1729346601,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157638,
       "num": 157638,
       "word": "曾黎向欧洲媒体安利赵露思",
@@ -38459,6 +38547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141401,
+      "num": 141401,
+      "word": "丹麦赛梁王组合进决赛",
+      "onboard_time": 1729345341,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141360,
       "num": 141360,
       "word": "哀牢山未开发区域",
@@ -39969,6 +40065,14 @@
       "onboard_time": 1729032433,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 134056,
+      "num": 134056,
+      "word": "AG翻盘",
+      "onboard_time": 1729345159,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 133993,
@@ -41603,6 +41707,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 125689,
+      "num": 125689,
+      "word": "仁川人巴黎人冰岛人都在看吧",
+      "onboard_time": 1729346480,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "难怪狗子能睡单人沙发",
@@ -41873,6 +41985,14 @@
       "onboard_time": 1728027499,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123702,
+      "num": 123702,
+      "word": "LOL",
+      "onboard_time": 1729347260,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 123698,
@@ -42473,6 +42593,14 @@
       "onboard_time": 1728105258,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119579,
+      "num": 119579,
+      "word": "许昕说十年七冠是最好的答案",
+      "onboard_time": 1729346121,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119578,
@@ -50667,14 +50795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56443,
-      "num": 289033,
-      "word": "央视曝光证书挂靠陷阱",
-      "onboard_time": 1729344740,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56319,
       "num": 246959,
       "word": "9月A股港股牛冠全球",
@@ -52899,6 +53019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41884,
+      "num": 362916,
+      "word": "臭肉涉事学校食堂之前承包给小公司",
+      "onboard_time": 1729346720,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41824,
       "num": 311713,
       "word": "中国造霸总短剧硬控海外主妇",
@@ -53921,6 +54049,14 @@
       "onboard_time": 1728495672,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36218,
+      "num": 327655,
+      "word": "姚琛直播",
+      "onboard_time": 1729347081,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 35977,
@@ -58227,6 +58363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13151,
+      "num": 341353,
+      "word": "HR更改员工信息侵占公司70万",
+      "onboard_time": 1729347081,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13099,
       "num": 197898,
       "word": "制片人说再见爱人不会给嘉宾剧本",
@@ -58624,6 +58768,14 @@
       "word": "中国广播电视精品创作盛典",
       "onboard_time": 1728708020,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5835,
+      "num": 323657,
+      "word": "别让孩子安全是重中之重成一句口号",
+      "onboard_time": 1729347500,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729345007257,
+  "endTime": 1729347614063,
   "band_list": [
     {
       "raw_hot": 2502756,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412932,
+      "num": 322070,
+      "word": "学生遭老师性侵怀孕19周流产",
+      "onboard_time": 1729344681,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311161,
       "num": 375220,
       "word": "被害女幼师曾向凶手求饶",
@@ -136,6 +144,14 @@
       "word": "火车票纸质报销凭证将成历史",
       "onboard_time": 1729329739,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081760,
+      "num": 1173081,
+      "word": "央视曝光证书挂靠陷阱",
+      "onboard_time": 1729344740,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -259,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 795989,
+      "num": 795989,
+      "word": "TES 零封",
+      "onboard_time": 1729346301,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 782086,
       "num": 368800,
       "word": "肉已经臭了学校应对怎能更臭",
       "onboard_time": 1729329859,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757670,
+      "num": 353707,
+      "word": "29岁自律女生在村里高能量的一天",
+      "onboard_time": 1729345942,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 739718,
@@ -305,6 +337,14 @@
       "onboard_time": 1729326619,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709983,
+      "num": 314913,
+      "word": "何猷君奚梦瑶带娃逛迪士尼",
+      "onboard_time": 1729343779,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 708247,
@@ -411,19 +451,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613617,
+      "num": 350856,
+      "word": "王多多怒喷TES",
+      "onboard_time": 1729346842,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 611318,
       "num": 367687,
       "word": "早期黄圣依",
       "onboard_time": 1729318939,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 610680,
-      "num": 290826,
-      "word": "何猷君奚梦瑶带娃逛迪士尼",
-      "onboard_time": 1729343779,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565549,
+      "num": 565549,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1729343958,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546131,
       "num": 369903,
       "word": "内娱三大忍者",
@@ -579,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 490102,
-      "num": 287181,
-      "word": "学生遭老师性侵怀孕19周流产",
-      "onboard_time": 1729344681,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481331,
       "num": 481331,
       "word": "刘亦菲章小蕙 玫瑰见到了玫瑰",
@@ -609,6 +649,14 @@
       "onboard_time": 1729308919,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477214,
+      "num": 477214,
+      "word": "TES对战T1",
+      "onboard_time": 1729338320,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 472920,
@@ -723,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393557,
-      "num": 393557,
-      "word": "TES对战T1",
-      "onboard_time": 1729338320,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 389540,
       "num": 389540,
       "word": "韩华生命",
@@ -777,6 +817,14 @@
       "onboard_time": 1729257524,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367590,
+      "num": 367590,
+      "word": "滔搏 bp",
+      "onboard_time": 1729343240,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 366259,
@@ -891,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299849,
+      "num": 299849,
+      "word": "RIIZE上海外滩",
+      "onboard_time": 1729345821,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298075,
       "num": 298075,
       "word": "马尔尚夺冠",
@@ -971,14 +1027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250629,
-      "num": 250629,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1729343958,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249988,
       "num": 249988,
       "word": "黄圣依杨子 黄亦玫方协文具象化",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1729323379,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234525,
+      "num": 365562,
+      "word": "韩称朝鲜士兵将投入俄乌作战前线",
+      "onboard_time": 1729345159,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 233397,
@@ -1083,14 +1139,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 221916,
-      "num": 221916,
-      "word": "滔搏 bp",
-      "onboard_time": 1729343240,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 220303,
       "num": 223353,
       "word": "Jessi许在原亲密照",
@@ -1163,12 +1211,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210881,
+      "num": 210881,
+      "word": "樊振东胸前的金牌在闪光",
+      "onboard_time": 1729346720,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208972,
       "num": 252932,
       "word": "田曦薇cos绮梦青鸾",
       "onboard_time": 1729251740,
       "rank": 19,
       "category": "作品衍生,电竞"
+    },
+    {
+      "raw_hot": 208094,
+      "num": 215291,
+      "word": "骗子说花几千办证书就能赚几万元",
+      "onboard_time": 1729346061,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206874,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1729259659,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 201464,
+      "num": 201464,
+      "word": "向佐费曼互动",
+      "onboard_time": 1729346301,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 200922,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1729321818,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191827,
+      "num": 191827,
+      "word": "14岁女孩遭辅导班老师性侵两年",
+      "onboard_time": 1729345942,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191614,
@@ -1707,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157645,
+      "num": 157645,
+      "word": "T1淘汰赛手握三个赛点",
+      "onboard_time": 1729346601,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157638,
       "num": 157638,
       "word": "曾黎向欧洲媒体安利赵露思",
@@ -1915,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141401,
+      "num": 141401,
+      "word": "丹麦赛梁王组合进决赛",
+      "onboard_time": 1729345341,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140919,
       "num": 140919,
       "word": "黑灯 学的仁义礼智信",
@@ -2011,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134056,
+      "num": 134056,
+      "word": "AG翻盘",
+      "onboard_time": 1729345159,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133532,
       "num": 133532,
       "word": "赵晴新剧猫系女友感",
@@ -2083,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125689,
+      "num": 125689,
+      "word": "仁川人巴黎人冰岛人都在看吧",
+      "onboard_time": 1729346480,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125681,
       "num": 125681,
       "word": "脱口秀",
@@ -2121,6 +2233,14 @@
       "onboard_time": 1729262361,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123702,
+      "num": 123702,
+      "word": "LOL",
+      "onboard_time": 1729347260,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 123458,
@@ -2169,6 +2289,14 @@
       "onboard_time": 1729265960,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119579,
+      "num": 119579,
+      "word": "许昕说十年七冠是最好的答案",
+      "onboard_time": 1729346121,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119459,
@@ -2643,14 +2771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56443,
-      "num": 289033,
-      "word": "央视曝光证书挂靠陷阱",
-      "onboard_time": 1729344740,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56114,
       "num": 374504,
       "word": "和平精英代言人四排吃鸡",
@@ -2747,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41884,
+      "num": 362916,
+      "word": "臭肉涉事学校食堂之前承包给小公司",
+      "onboard_time": 1729346720,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38107,
       "num": 251011,
       "word": "和平精英一个巨大的老六班子",
@@ -2769,6 +2897,14 @@
       "onboard_time": 1729317379,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36218,
+      "num": 327655,
+      "word": "姚琛直播",
+      "onboard_time": 1729347081,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 35832,
@@ -2971,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13151,
+      "num": 341353,
+      "word": "HR更改员工信息侵占公司70万",
+      "onboard_time": 1729347081,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11549,
       "num": 36081,
       "word": "光伏组件低于成本投标中标涉嫌违法",
@@ -3025,6 +3169,14 @@
       "onboard_time": 1729344801,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5835,
+      "num": 323657,
+      "word": "别让孩子安全是重中之重成一句口号",
+      "onboard_time": 1729347500,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5756,

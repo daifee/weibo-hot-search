@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 21:36:47
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/19 22:20:14
 </p>
 </blockquote>
 <p>
@@ -1575,6 +1575,12 @@ T1战胜BLG（热度：1444060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%81%AD%E8%80%81%E5%B8%88%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%9519%E5%91%A8%E6%B5%81%E4%BA%A7%23" target="weibo">
+学生遭老师性侵怀孕19周流产（热度：1412932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8EWTT%E9%80%80%E8%B5%9B%23" target="weibo">
 孙颖莎WTT退赛（热度：1409148）
 </a>
@@ -2669,6 +2675,12 @@ K总停播（热度：1089422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%AD%A6%E7%94%9F%E6%8B%BF%E6%9A%91%E5%81%87%E8%B5%9A%E7%9A%845%E5%8D%83%E5%85%83%E5%85%A5%E5%9C%BA%E7%82%92%E8%82%A1%23" target="weibo">
 18岁学生拿暑假赚的5千元入场炒股（热度：1082851）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%AF%81%E4%B9%A6%E6%8C%82%E9%9D%A0%E9%99%B7%E9%98%B1%23" target="weibo">
+央视曝光证书挂靠陷阱（热度：1081760）
 </a>
 </li>
 
@@ -4557,6 +4569,12 @@ SpaceX首次回收星舰成功（热度：798348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%20%E9%9B%B6%E5%B0%81%23" target="weibo">
+TES 零封（热度：795989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%8F%82%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%BE%88%E5%81%9A%E4%BD%9C%E7%9A%84%E4%BA%BA%23" target="weibo">
 叶珂说自己不是很做作的人（热度：795934）
 </a>
@@ -4943,6 +4961,12 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%A6%82%E4%B9%9F%E7%A6%81%E8%A8%80%23" target="weibo">
 温如也禁言（热度：757725）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E8%87%AA%E5%BE%8B%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%9D%91%E9%87%8C%E9%AB%98%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
+29岁自律女生在村里高能量的一天（热度：757670）
 </a>
 </li>
 
@@ -5469,6 +5493,12 @@ GALA连续四年止步八强（热度：727346）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%B8%A6%E5%A8%83%E9%80%9B%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
+何猷君奚梦瑶带娃逛迪士尼（热度：709983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%92%8C%E9%A9%AC%E7%90%B3%E5%84%BF%E5%AD%90%E8%81%8A%E5%A4%A9%23" target="weibo">
 王楚钦和马琳儿子聊天（热度：709556）
 </a>
@@ -5981,36 +6011,6 @@ BLG（热度：663891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E7%84%B6%20%E4%BB%BF%E7%94%9F%E6%9C%BA%E6%A2%B0%E5%A7%AC%23" target="weibo">
 娜然 仿生机械姬（热度：660274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E5%8F%96%E6%99%AF%E5%9C%B0%E5%B0%8F%E8%A5%BF%E5%A4%A9%E8%A2%AB%E5%96%8A%E5%B7%AE%E8%AF%84%23" target="weibo">
-黑神话取景地小西天被喊差评（热度：660090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2vs%E4%BC%8A%E6%9C%97%23" target="weibo">
-国乒男团vs伊朗（热度：659884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%85%AC%E5%8F%B8%E5%B7%B2%E7%94%B3%E8%AF%B7%E5%A4%9A%E6%9E%9A%E5%AE%A2%E5%8E%85%E7%8B%82%E6%AC%A2%E5%95%86%E6%A0%87%23" target="weibo">
-王源公司已申请多枚客厅狂欢商标（热度：659304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPadmini7%E5%8F%91%E5%B8%83%23" target="weibo">
-iPadmini7发布（热度：659230）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E7%A7%A6%E6%B5%B7%E7%92%90%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%83%B3%E7%9C%8B%E9%9C%B8%E6%80%BB%E6%96%87%E4%BA%86%23" target="weibo">
-感觉秦海璐再也不想看霸总文了（热度：658881）
 </a>
 </li>
 
