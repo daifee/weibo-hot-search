@@ -1,7 +1,15 @@
 {
   "startTime": 1729268870867,
-  "endTime": 1729316308788,
+  "endTime": 1729319346568,
   "band_list": [
+    {
+      "raw_hot": 2150980,
+      "num": 2150980,
+      "word": "杨子 不能她好了我和巨力不好",
+      "onboard_time": 1729316660,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2073138,
       "num": 2073138,
@@ -43,6 +51,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1601439,
+      "num": 1601439,
+      "word": "男童骑行遭碾身亡家属发声",
+      "onboard_time": 1729315938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311161,
       "num": 375220,
       "word": "被害女幼师曾向凶手求饶",
@@ -65,6 +81,14 @@
       "onboard_time": 1729302560,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1092223,
+      "num": 1092223,
+      "word": "胡彦斌 不惯着杨子一点",
+      "onboard_time": 1729315878,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1048642,
@@ -291,6 +315,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 503778,
+      "num": 411813,
+      "word": "严浩翔贺峻霖王者情侣标",
+      "onboard_time": 1729316299,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498228,
       "num": 330941,
       "word": "潘展乐说原本想破汪顺纪录",
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440098,
+      "num": 440098,
+      "word": "姜潮麦迪娜录了情感旅综",
+      "onboard_time": 1729316660,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421777,
       "num": 421777,
       "word": "男子一年多开车碰瓷222次",
@@ -369,6 +409,14 @@
       "onboard_time": 1729295356,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400264,
+      "num": 400264,
+      "word": "叶珂 高知的颜色",
+      "onboard_time": 1729318340,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 393716,
@@ -393,14 +441,6 @@
       "onboard_time": 1729283590,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386313,
-      "num": 386313,
-      "word": "胡彦斌 不惯着杨子一点",
-      "onboard_time": 1729315878,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 379448,
@@ -443,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351977,
+      "num": 351977,
+      "word": "听泉鉴宝直播带货一晚卖出750万元",
+      "onboard_time": 1729313900,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 350484,
       "num": 350484,
       "word": "辛瓦尔死前携带枪支现金证件薄荷糖等",
@@ -481,14 +529,6 @@
       "onboard_time": 1729248443,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288939,
-      "num": 220617,
-      "word": "听泉鉴宝直播带货一晚卖出750万元",
-      "onboard_time": 1729313900,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 278184,
@@ -563,12 +603,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 221859,
-      "num": 221859,
-      "word": "男童骑行遭碾身亡家属发声",
-      "onboard_time": 1729315938,
+      "raw_hot": 220303,
+      "num": 223353,
+      "word": "Jessi许在原亲密照",
+      "onboard_time": 1729314739,
       "rank": 19,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 219031,
@@ -601,6 +641,14 @@
       "onboard_time": 1729305798,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 212464,
+      "num": 182284,
+      "word": "早期黄圣依",
+      "onboard_time": 1729318939,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 208972,
@@ -659,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199349,
+      "num": 199349,
+      "word": "身高不足1米2的她保研成功了",
+      "onboard_time": 1729318039,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198702,
       "num": 198702,
       "word": "杨子年内带货12场销售额50万元",
@@ -715,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184767,
+      "num": 184767,
+      "word": "张峻豪地下停车场跳舞",
+      "onboard_time": 1729318578,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184763,
       "num": 184763,
       "word": "李现涛岛旅程vlog",
@@ -727,6 +791,14 @@
       "num": 386969,
       "word": "6部门联合调查臭肉事件",
       "onboard_time": 1729311198,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184340,
+      "num": 433162,
+      "word": "男童骑行遭碾压家属称后悔让他学车",
+      "onboard_time": 1729318399,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -753,6 +825,14 @@
       "onboard_time": 1729311980,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176661,
+      "num": 176661,
+      "word": "春花焰一个敢教一个敢学",
+      "onboard_time": 1729317919,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 176339,
@@ -785,6 +865,14 @@
       "onboard_time": 1729312218,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165673,
+      "num": 165673,
+      "word": "offer6带教下庭后躲厕所哭",
+      "onboard_time": 1729317379,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 165595,
@@ -1083,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123486,
+      "num": 123486,
+      "word": "山东一医院因没钱无法报销医保",
+      "onboard_time": 1729318160,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123198,
       "num": 123198,
       "word": "绘旅人琳琅珍馐",
@@ -1136,6 +1232,22 @@
       "word": "微博视界大会",
       "onboard_time": 1729310358,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118447,
+      "num": 118447,
+      "word": "猴子要打开包被男子反复拒绝",
+      "onboard_time": 1729318999,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118267,
+      "num": 401097,
+      "word": "檀健次看了也脸红",
+      "onboard_time": 1729318820,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1209,6 +1321,14 @@
       "onboard_time": 1729306219,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110572,
+      "num": 561024,
+      "word": "家长称涉臭肉事件学校原口碑不错",
+      "onboard_time": 1729316238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110139,
@@ -1371,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69878,
-      "num": 561024,
-      "word": "家长称涉臭肉事件学校原口碑不错",
-      "onboard_time": 1729316238,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63969,
       "num": 182730,
       "word": "叶璇力挺王宝强坚信不会塌房",
@@ -1459,6 +1571,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37511,
+      "num": 174260,
+      "word": "40岁正是爱打游戏的年纪",
+      "onboard_time": 1729318820,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 36312,
+      "num": 122179,
+      "word": "逼疯全网家长的吴彬彬同学到底是谁",
+      "onboard_time": 1729317379,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35832,
       "num": 396798,
       "word": "校园食品安全事故问题出在哪个环节",
@@ -1481,6 +1609,14 @@
       "onboard_time": 1729270517,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30973,
+      "num": 417800,
+      "word": "谭松韵贾乃亮没话硬说",
+      "onboard_time": 1729316837,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 30829,
@@ -1548,7 +1684,7 @@
     },
     {
       "raw_hot": 23348,
-      "num": 1003331,
+      "num": 1132212,
       "word": "盛世中华何以中国",
       "onboard_time": 1729308020,
       "rank": 2,
@@ -1587,11 +1723,19 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 13593,
-      "num": 223353,
-      "word": "Jessi许在原亲密照",
-      "onboard_time": 1729314739,
-      "rank": 19,
+      "raw_hot": 20444,
+      "num": 126826,
+      "word": "收到现货的快乐谁懂啊",
+      "onboard_time": 1729316058,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20174,
+      "num": 425389,
+      "word": "欧阳靖吃鸡版速度与激情",
+      "onboard_time": 1729317859,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1619,11 +1763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8640,
-      "num": 126826,
-      "word": "收到现货的快乐谁懂啊",
-      "onboard_time": 1729316058,
-      "rank": 46,
+      "raw_hot": 6766,
+      "num": 414483,
+      "word": "一线标配正在攻占县城",
+      "onboard_time": 1729319178,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
