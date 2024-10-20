@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729423178469,
+  "endTime": 1729424198000,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1489780,
+      "num": 1489780,
+      "word": "金鹰奖直播",
+      "onboard_time": 1729422621,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1454725,
       "num": 699818,
       "word": "程莉莎早就发现黄圣依懒得听杨子说话",
@@ -99,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1193551,
+      "num": 1193551,
+      "word": "男子为讹钱将3岁女儿抛向大货车致被碾身亡",
+      "onboard_time": 1729422981,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1120366,
       "num": 1179258,
       "word": "潘展乐无缘200自决赛",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 1058642,
-      "num": 791100,
+      "num": 1021612,
       "word": "谭松韵金鹰奖公主造型",
       "onboard_time": 1729421001,
       "rank": 3,
@@ -227,6 +243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 799292,
+      "num": 799292,
+      "word": "6名女生被造谣10万彩礼做女友胜诉",
+      "onboard_time": 1729420400,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790193,
       "num": 342142,
       "word": "白鹿拍的日照金山",
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658627,
-      "num": 551684,
-      "word": "金鹰奖直播",
-      "onboard_time": 1729422621,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 657719,
       "num": 657719,
       "word": "王多多怒喷TES",
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571654,
+      "num": 288215,
+      "word": "芒果艺人做近视眼手术后复发",
+      "onboard_time": 1729423342,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566104,
       "num": 566104,
       "word": "曝登陆少年组合将新增一人",
       "onboard_time": 1729418600,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 565586,
-      "num": 565586,
-      "word": "6名女生被造谣10万彩礼做女友胜诉",
-      "onboard_time": 1729420400,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559484,
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412207,
+      "num": 412207,
+      "word": "付航值得",
+      "onboard_time": 1729422860,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406610,
       "num": 406610,
       "word": "Tian辛苦了",
@@ -600,14 +624,6 @@
       "word": "河南的雪要来了",
       "onboard_time": 1729381154,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403127,
-      "num": 403127,
-      "word": "男子为讹钱将3岁女儿抛向大货车致被碾身亡",
-      "onboard_time": 1729422981,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315268,
+      "num": 315268,
+      "word": "战至巅峰 镜头",
+      "onboard_time": 1729421901,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313074,
       "num": 409611,
       "word": "鲜肉9小时没冷藏变臭肉",
@@ -939,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249916,
+      "num": 249916,
+      "word": "甘肃真的产南美对虾",
+      "onboard_time": 1729422680,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 249677,
       "num": 261018,
       "word": "哈马斯回应以军公布辛瓦尔视频画面",
@@ -955,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245829,
+      "num": 245829,
+      "word": "狗 妈妈为什么我离你越来越远了",
+      "onboard_time": 1729418839,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 245348,
       "num": 297986,
       "word": "披荆斩棘4成团名单",
@@ -969,14 +1009,6 @@
       "onboard_time": 1729408698,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232560,
-      "num": 232560,
-      "word": "狗 妈妈为什么我离你越来越远了",
-      "onboard_time": 1729418839,
-      "rank": 34,
-      "category": "休闲"
     },
     {
       "raw_hot": 231895,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1729346301,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218721,
-      "num": 218721,
-      "word": "战至巅峰 镜头",
-      "onboard_time": 1729421901,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 215206,
@@ -1267,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191301,
-      "num": 191301,
-      "word": "付航值得",
-      "onboard_time": 1729422860,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191011,
       "num": 191011,
       "word": "安妮海瑟薇米卡同框合照",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1729395078,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184383,
+      "num": 184383,
+      "word": "阴阳师",
+      "onboard_time": 1729422440,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 183366,
@@ -1459,12 +1483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165322,
-      "num": 165322,
-      "word": "阴阳师",
+      "raw_hot": 167473,
+      "num": 224573,
+      "word": "博主造谣六姐妹10万彩礼仍未道歉",
       "onboard_time": 1729422440,
-      "rank": 35,
-      "category": "游戏"
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164468,
@@ -1523,20 +1547,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159279,
+      "num": 159279,
+      "word": "迪丽热巴说重庆火锅好安逸",
+      "onboard_time": 1729421300,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158165,
       "num": 297668,
       "word": "杨天真喜剧之王单口季repo",
       "onboard_time": 1729388419,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156724,
-      "num": 156724,
-      "word": "甘肃真的产南美对虾",
-      "onboard_time": 1729422680,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 154414,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1729394839,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147651,
+      "num": 147651,
+      "word": "AG晋级年总淘汰赛",
+      "onboard_time": 1729423580,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 147101,
@@ -1667,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140970,
-      "num": 224573,
-      "word": "博主造谣六姐妹10万彩礼仍未道歉",
-      "onboard_time": 1729422440,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138198,
       "num": 138198,
       "word": "女生两层楼高发型回头率爆表",
@@ -1739,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134089,
-      "num": 134089,
-      "word": "迪丽热巴说重庆火锅好安逸",
-      "onboard_time": 1729421300,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133003,
       "num": 133003,
       "word": "胖东来攻入北京",
@@ -1809,6 +1825,22 @@
       "onboard_time": 1729385357,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125846,
+      "num": 125846,
+      "word": "战至巅峰",
+      "onboard_time": 1729421119,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125697,
+      "num": 125697,
+      "word": "四川乐山摩托与轿车相撞致3死",
+      "onboard_time": 1729423460,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125424,
@@ -1931,20 +1963,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 114407,
-      "num": 114407,
-      "word": "战至巅峰",
-      "onboard_time": 1729421119,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113755,
       "num": 113755,
       "word": "周深一开口谭盾眼泪止不住了",
       "onboard_time": 1729419139,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "女子回应儿子疑遭前夫女友虐待致死",
+      "onboard_time": 1729424181,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110135,
@@ -2259,6 +2291,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48867,
+      "num": 418638,
+      "word": "广州一豪宅卖出4.61亿元天价",
+      "onboard_time": 1729424000,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48828,
+      "num": 464508,
+      "word": "文旅局长回应小西天景区保安被辞退",
+      "onboard_time": 1729423762,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48467,
       "num": 344808,
       "word": "短趾雕住院渡劫18个月重回天空",
@@ -2339,6 +2387,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 38028,
+      "num": 414898,
+      "word": "为什么有人跑马拉松停不下来",
+      "onboard_time": 1729422020,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 36732,
       "num": 405344,
       "word": "谷子如何成为塑料黄金的",
@@ -2361,6 +2417,14 @@
       "onboard_time": 1729398800,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35017,
+      "num": 137804,
+      "word": "新逍客一口价9.98万",
+      "onboard_time": 1729423520,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 32636,
@@ -2419,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26179,
+      "num": 125331,
+      "word": "马青骅TCR世界巡回赛主场夺冠",
+      "onboard_time": 1729423941,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25438,
       "num": 25438,
       "word": "声音河流",
@@ -2449,14 +2521,6 @@
       "onboard_time": 1729414580,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23588,
-      "num": 329206,
-      "word": "为什么有人跑马拉松停不下来",
-      "onboard_time": 1729422020,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 23098,
@@ -2516,7 +2580,7 @@
     },
     {
       "raw_hot": 15448,
-      "num": 802247,
+      "num": 1319217,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729424198000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489780,
+        "num": 1489780,
+        "word": "金鹰奖直播",
+        "onboard_time": 1729422621,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1463700,
+        "num": 1463700,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5639,
+        "num": 1319217,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193551,
+        "num": 1193551,
+        "word": "男子为讹钱将3岁女儿抛向大货车致被碾身亡",
+        "onboard_time": 1729422981,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021612,
+        "num": 1021612,
+        "word": "谭松韵金鹰奖公主造型",
+        "onboard_time": 1729421001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 799292,
+        "num": 799292,
+        "word": "6名女生被造谣10万彩礼做女友胜诉",
+        "onboard_time": 1729420400,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778664,
+        "num": 778664,
+        "word": "赵丽颖金鹰高定造型",
+        "onboard_time": 1729419019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633465,
+        "num": 633465,
+        "word": "哀牢山拍到大量珍稀野生动物",
+        "onboard_time": 1729416979,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 501286,
+        "num": 501286,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48828,
+        "num": 464508,
+        "word": "文旅局长回应小西天景区保安被辞退",
+        "onboard_time": 1729423762,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714216,
+        "num": 457999,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684393,
+        "num": 454435,
+        "word": "臭肉事件被免职校长临近退休",
+        "onboard_time": 1729418120,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438659,
+        "num": 438659,
+        "word": "曝登陆少年组合将新增一人",
+        "onboard_time": 1729418600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48867,
+        "num": 418638,
+        "word": "广州一豪宅卖出4.61亿元天价",
+        "onboard_time": 1729424000,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38028,
+        "num": 414898,
+        "word": "为什么有人跑马拉松停不下来",
+        "onboard_time": 1729422020,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 412207,
+        "num": 412207,
+        "word": "付航值得",
+        "onboard_time": 1729422860,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329954,
+        "num": 329954,
+        "word": "赵丽颖纯白公主裙",
+        "onboard_time": 1729422080,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315268,
+        "num": 315268,
+        "word": "战至巅峰 镜头",
+        "onboard_time": 1729421901,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293554,
+        "num": 293554,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290135,
+        "num": 290135,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571654,
+        "num": 288215,
+        "word": "芒果艺人做近视眼手术后复发",
+        "onboard_time": 1729423342,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370189,
+        "num": 269694,
+        "word": "对视力伤害很大的行为",
+        "onboard_time": 1729418000,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 249916,
+        "num": 249916,
+        "word": "甘肃真的产南美对虾",
+        "onboard_time": 1729422680,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245829,
+        "num": 245829,
+        "word": "狗 妈妈为什么我离你越来越远了",
+        "onboard_time": 1729418839,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 241499,
+        "num": 241499,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235800,
+        "num": 235800,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225979,
+        "num": 225979,
+        "word": "黄圣依原生家庭",
+        "onboard_time": 1729414999,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218615,
+        "num": 218615,
+        "word": "金鹰奖路透",
+        "onboard_time": 1729420218,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193788,
+        "num": 193788,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184383,
+        "num": 184383,
+        "word": "阴阳师",
+        "onboard_time": 1729422440,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167473,
+        "num": 167473,
+        "word": "博主造谣六姐妹10万彩礼仍未道歉",
+        "onboard_time": 1729422440,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165324,
+        "num": 165324,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 162015,
+        "num": 162015,
+        "word": "代号鸢",
+        "onboard_time": 1729421239,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159279,
+        "num": 159279,
+        "word": "迪丽热巴说重庆火锅好安逸",
+        "onboard_time": 1729421300,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152063,
+        "num": 152063,
+        "word": "战至巅峰直播",
+        "onboard_time": 1729419200,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147651,
+        "num": 147651,
+        "word": "AG晋级年总淘汰赛",
+        "onboard_time": 1729423580,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144248,
+        "num": 144248,
+        "word": "撒贝宁疑似失去所有力气和手段",
+        "onboard_time": 1729422680,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141113,
+        "num": 141113,
+        "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+        "onboard_time": 1729417458,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35017,
+        "num": 137804,
+        "word": "新逍客一口价9.98万",
+        "onboard_time": 1729423520,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137614,
+        "num": 137614,
+        "word": "付航的获奖感言",
+        "onboard_time": 1729409300,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131922,
+        "num": 131922,
+        "word": "男子飞脚踹倒女孩警方介入处理",
+        "onboard_time": 1729411098,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 127466,
+        "word": "被爱真的会长出新的羽毛",
+        "onboard_time": 1729416019,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125846,
+        "num": 125846,
+        "word": "战至巅峰",
+        "onboard_time": 1729421119,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 125697,
+        "word": "四川乐山摩托与轿车相撞致3死",
+        "onboard_time": 1729423460,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26179,
+        "num": 125331,
+        "word": "马青骅TCR世界巡回赛主场夺冠",
+        "onboard_time": 1729423941,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125142,
+        "num": 125142,
+        "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+        "onboard_time": 1729415658,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118501,
+        "num": 118501,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112946,
+        "num": 112946,
+        "word": "女子回应儿子疑遭前夫女友虐待致死",
+        "onboard_time": 1729424181,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112880,
+        "num": 112880,
+        "word": "王一博车队冠军",
+        "onboard_time": 1729408759,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18577,
+        "num": 110821,
+        "word": "来厦门再过一次夏天",
+        "onboard_time": 1729421661,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺普拉博沃就任印尼总统#"
+    }
+  }
+}
