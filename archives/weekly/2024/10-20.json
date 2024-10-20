@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729466537586,
+  "endTime": 1729467368663,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1296592,
-      "num": 579279,
+      "num": 614235,
       "word": "听泉鉴宝下播",
       "onboard_time": 1729436963,
       "rank": 26,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910289,
+      "num": 910289,
+      "word": "妈妈说朝鲜太冷了让我带您回家",
+      "onboard_time": 1729431805,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907978,
       "num": 401254,
       "word": "黄圣依原生家庭",
@@ -368,14 +376,6 @@
       "word": "臭肉事件被免职校长临近退休",
       "onboard_time": 1729418120,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809153,
-      "num": 809153,
-      "word": "妈妈说朝鲜太冷了让我带您回家",
-      "onboard_time": 1729431805,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -651,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 539525,
+      "num": 390336,
+      "word": "东北雨姐极速坠落",
+      "onboard_time": 1729429641,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 537322,
       "num": 537322,
       "word": "尤长靖总决赛第一",
@@ -681,14 +689,6 @@
       "onboard_time": 1729434923,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 513984,
-      "num": 390336,
-      "word": "东北雨姐极速坠落",
-      "onboard_time": 1729429641,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 512192,
@@ -979,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374108,
+      "num": 374108,
+      "word": "虹桥机场廊桥内一乘客行李起火",
+      "onboard_time": 1729437983,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362262,
       "num": 362262,
       "word": "重庆警方通报一男子砍伤他人",
@@ -1091,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336177,
-      "num": 336177,
-      "word": "虹桥机场廊桥内一乘客行李起火",
-      "onboard_time": 1729437983,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327766,
       "num": 327766,
       "word": "千万级网红被举报涉嫌组织赌博",
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298978,
+      "num": 218472,
+      "word": "吴越金鹰奖",
+      "onboard_time": 1729443615,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297403,
       "num": 297403,
       "word": "嚣张骗子要挟管住舌头平安无事",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1729433904,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294973,
+      "num": 294973,
+      "word": "男子阻拦发飙水牛被撞断10根肋骨",
+      "onboard_time": 1729461491,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293103,
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257563,
+      "num": 257563,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254024,
       "num": 254024,
       "word": "付航底色不是悲凉是passion",
@@ -1427,20 +1451,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 243477,
-      "num": 243477,
-      "word": "男子阻拦发飙水牛被撞断10根肋骨",
-      "onboard_time": 1729461491,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241245,
       "num": 241245,
       "word": "黄俊捷哭了",
       "onboard_time": 1729428140,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237458,
+      "num": 199453,
+      "word": "李沁收到范闲送的鸡腿",
+      "onboard_time": 1729431987,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 237027,
@@ -1600,14 +1624,6 @@
       "word": "女子独吞老母280万征收补偿款",
       "onboard_time": 1729435763,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212430,
-      "num": 212430,
-      "word": "今年冬天会是史上最冷吗",
-      "onboard_time": 1729447093,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2051,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172676,
+      "num": 172676,
+      "word": "东部战区回应美加军舰过航台湾海峡",
+      "onboard_time": 1729467258,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171356,
       "num": 171356,
       "word": "Meiko状态",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1729417819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168909,
+      "num": 146837,
+      "word": "只有大学生才知道她有多全能",
+      "onboard_time": 1729467258,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 168721,
@@ -2161,14 +2193,6 @@
       "onboard_time": 1729392858,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161041,
-      "num": 161041,
-      "word": "李沁收到范闲送的鸡腿",
-      "onboard_time": 1729431987,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 160956,
@@ -2419,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135450,
+      "num": 135450,
+      "word": "辛巴怒怼叶珂",
+      "onboard_time": 1729467019,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 135151,
       "num": 135151,
       "word": "aespa互换发型",
@@ -2643,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118828,
+      "num": 118828,
+      "word": "F1美国站勒克莱尔夺冠",
+      "onboard_time": 1729467258,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118760,
       "num": 118760,
       "word": "樊振东无情的合影机器",
@@ -2779,6 +2819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100090,
+      "num": 222322,
+      "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
+      "onboard_time": 1729443255,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98252,
       "num": 98252,
       "word": "海贼王动画 顶上战争",
@@ -2843,12 +2891,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94008,
-      "num": 222322,
-      "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
-      "onboard_time": 1729443255,
+      "raw_hot": 93768,
+      "num": 147747,
+      "word": "外卖员抱孩子送餐视频系摆拍",
+      "onboard_time": 1729444934,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91342,
+      "num": 91342,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 90492,
@@ -2865,6 +2921,22 @@
       "onboard_time": 1729349244,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87795,
+      "num": 87795,
+      "word": "苏新皓cover全站排行第一",
+      "onboard_time": 1729466897,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 86698,
+      "num": 243026,
+      "word": "婚礼上的显眼包又出现了",
+      "onboard_time": 1729465336,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85042,
@@ -2899,11 +2971,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82638,
-      "num": 82638,
-      "word": "以军瞄准辛瓦尔视频画面曝光",
-      "onboard_time": 1729450331,
-      "rank": 9,
+      "raw_hot": 82651,
+      "num": 82651,
+      "word": "印度首都河面漂浮大量有毒泡沫",
+      "onboard_time": 1729455732,
+      "rank": 49,
       "category": "国外时政"
     },
     {
@@ -2929,14 +3001,6 @@
       "onboard_time": 1729410199,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79852,
-      "num": 79852,
-      "word": "印度首都河面漂浮大量有毒泡沫",
-      "onboard_time": 1729455732,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 79482,
@@ -2969,6 +3033,14 @@
       "onboard_time": 1729368671,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78072,
+      "num": 78072,
+      "word": "王昶 要么不赢一赢就赢到底是吧",
+      "onboard_time": 1729466836,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 74003,
@@ -3027,19 +3099,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70446,
-      "num": 147747,
-      "word": "外卖员抱孩子送餐视频系摆拍",
-      "onboard_time": 1729444934,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69310,
       "num": 499158,
       "word": "警方回应贩婴事件",
       "onboard_time": 1729401918,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66561,
+      "num": 66561,
+      "word": "东北囤秋菜给了南方人亿点点震撼",
+      "onboard_time": 1729457171,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3075,11 +3147,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57744,
-      "num": 57744,
-      "word": "东北囤秋菜给了南方人亿点点震撼",
-      "onboard_time": 1729457171,
-      "rank": 28,
+      "raw_hot": 60690,
+      "num": 93191,
+      "word": "这个哨所外每立方米蚊虫达1700多只",
+      "onboard_time": 1729463654,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3089,14 +3161,6 @@
       "onboard_time": 1729425620,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53597,
-      "num": 93191,
-      "word": "这个哨所外每立方米蚊虫达1700多只",
-      "onboard_time": 1729463654,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53265,
@@ -3283,14 +3347,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 37007,
-      "num": 243026,
-      "word": "婚礼上的显眼包又出现了",
-      "onboard_time": 1729465336,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36732,
       "num": 405344,
       "word": "谷子如何成为塑料黄金的",
@@ -3456,6 +3512,14 @@
       "word": "文人墨客笔下的安徽",
       "onboard_time": 1729413737,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24673,
+      "num": 142731,
+      "word": "卖锅盔大叔妻子生病学生自发购买支持",
+      "onboard_time": 1729457892,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3633,6 +3697,14 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12314,
+      "num": 160539,
+      "word": "国家级经开区40周年座谈会",
+      "onboard_time": 1729467198,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12115,
