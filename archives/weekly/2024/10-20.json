@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729435066192,
+  "endTime": 1729437753477,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1652773,
-      "num": 433000,
+      "num": 577492,
       "word": "金鹰奖 六缺三",
       "onboard_time": 1729431202,
       "rank": 12,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1427643,
-      "num": 430292,
+      "num": 524928,
       "word": "金鹰奖获奖名单",
       "onboard_time": 1729431383,
       "rank": 42,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 882348,
-      "num": 420874,
+      "num": 513785,
       "word": "刘琳什么时候拿奖",
       "onboard_time": 1729432644,
       "rank": 14,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704819,
+      "num": 528837,
+      "word": "向前看 别回头",
+      "onboard_time": 1729433663,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 700562,
       "num": 325396,
       "word": "网约车时速150迈刹不住事故判决",
@@ -497,6 +505,14 @@
       "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598702,
+      "num": 598702,
+      "word": "男孩球场飞踹女孩不予处罚",
+      "onboard_time": 1729434503,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596215,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 515114,
-      "num": 405717,
+      "num": 481896,
       "word": "金鹰奖 白玉兰",
       "onboard_time": 1729434923,
       "rank": 22,
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 508602,
-      "num": 508602,
+      "num": 558269,
       "word": "妈妈说朝鲜太冷了让我带您回家",
       "onboard_time": 1729431805,
       "rank": 7,
@@ -713,6 +729,14 @@
       "onboard_time": 1729395798,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476062,
+      "num": 476062,
+      "word": "GEN对战FLY",
+      "onboard_time": 1729426520,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 471591,
@@ -769,6 +793,14 @@
       "onboard_time": 1729426761,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444009,
+      "num": 338286,
+      "word": "赵丽颖眼含热泪",
+      "onboard_time": 1729435824,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 436441,
@@ -833,14 +865,6 @@
       "onboard_time": 1729424360,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 404734,
-      "num": 404734,
-      "word": "向前看 别回头",
-      "onboard_time": 1729433663,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 399041,
@@ -931,6 +955,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355383,
+      "num": 322661,
+      "word": "听泉鉴宝下播",
+      "onboard_time": 1729436963,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 352958,
+      "num": 408597,
+      "word": "TES好好学",
+      "onboard_time": 1729429521,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 351862,
       "num": 293820,
       "word": "TheShy看369凯南一脸懵",
@@ -955,20 +995,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348152,
+      "num": 322616,
+      "word": "王凯淘汰",
+      "onboard_time": 1729435582,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346567,
       "num": 346567,
       "word": "周深香港人气",
       "onboard_time": 1729353679,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 345841,
-      "num": 345841,
-      "word": "GEN对战FLY",
-      "onboard_time": 1729426520,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 343560,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1729381697,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334857,
-      "num": 408597,
-      "word": "TES好好学",
-      "onboard_time": 1729429521,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 327766,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1729389920,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 282000,
+      "num": 282000,
+      "word": "3岁幼童遭生父女友虐待后离世",
+      "onboard_time": 1729434743,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280893,
@@ -1355,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233184,
+      "num": 233184,
+      "word": "杨鸣暴怒",
+      "onboard_time": 1729434443,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231895,
       "num": 231895,
       "word": "战至巅峰直播",
@@ -1427,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219780,
+      "num": 219780,
+      "word": "飞天奖",
+      "onboard_time": 1729435403,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215206,
       "num": 401345,
       "word": "宜宾燃面真能点燃啊",
@@ -1459,12 +1515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213691,
+      "num": 213691,
+      "word": "iPhone16官旗多款机型破发",
+      "onboard_time": 1729437141,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 212812,
       "num": 212812,
       "word": "付航call back",
       "onboard_time": 1729328840,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212810,
+      "num": 212810,
+      "word": "女子独吞老母280万征收补偿款",
+      "onboard_time": 1729435763,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212204,
@@ -1659,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192054,
-      "num": 192054,
-      "word": "杨鸣暴怒",
-      "onboard_time": 1729434443,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191608,
       "num": 191608,
       "word": "宁静说演员行业门槛低",
@@ -1787,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183503,
+      "num": 183503,
+      "word": "战至巅峰",
+      "onboard_time": 1729421119,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183366,
       "num": 183366,
       "word": "32人用电子烟吸毒被抓",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1729351340,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170839,
-      "num": 443428,
-      "word": "男孩球场飞踹女孩不予处罚",
-      "onboard_time": 1729434503,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170601,
@@ -2011,12 +2075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158818,
+      "num": 158818,
+      "word": "林俊杰嘉宾动力火车",
+      "onboard_time": 1729437681,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158165,
       "num": 297668,
       "word": "杨天真喜剧之王单口季repo",
       "onboard_time": 1729388419,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154493,
+      "num": 154493,
+      "word": "张杰我的眼泪是不要钱吗",
+      "onboard_time": 1729437262,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 154414,
@@ -2051,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150126,
+      "num": 322752,
+      "word": "梁伟铿王昶vs丹麦组合",
+      "onboard_time": 1729436482,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149878,
       "num": 149878,
       "word": "行政法",
@@ -2081,14 +2169,6 @@
       "onboard_time": 1729423580,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147204,
-      "num": 147204,
-      "word": "战至巅峰",
-      "onboard_time": 1729421119,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 147101,
@@ -2329,14 +2409,6 @@
       "onboard_time": 1729395439,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127088,
-      "num": 127088,
-      "word": "3岁幼童遭生父女友虐待后离世",
-      "onboard_time": 1729434743,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125976,
@@ -2755,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64091,
+      "num": 353073,
+      "word": "刘宇宁金鹰节舞台彩排vlog",
+      "onboard_time": 1729436782,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63275,
       "num": 434252,
       "word": "带状疱疹危害有多大",
@@ -2864,6 +2944,14 @@
       "word": "云南开展校园食品安全大排查大整治",
       "onboard_time": 1729387518,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44474,
+      "num": 692881,
+      "word": "新疆处处好地方",
+      "onboard_time": 1729435462,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2987,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31481,
+      "num": 243436,
+      "word": "全友双11在玩一种很新的秀",
+      "onboard_time": 1729436723,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31293,
       "num": 31293,
       "word": "王一博GT3赛车比赛精彩镜头",
@@ -3027,6 +3123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27065,
+      "num": 258271,
+      "word": "深蓝CEO发布会公开回应车主吐槽",
+      "onboard_time": 1729435403,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -3056,6 +3160,14 @@
       "word": "文人墨客笔下的安徽",
       "onboard_time": 1729413737,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24678,
+      "num": 544651,
+      "word": "臭肉查清楚臭脸也要说明白",
+      "onboard_time": 1729437321,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3104,6 +3216,14 @@
       "word": "央视曝光职业背贷人骗局",
       "onboard_time": 1729434923,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19642,
+      "num": 476450,
+      "word": "校园食品安全不能靠家长当检测员",
+      "onboard_time": 1729436963,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
