@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729445871854,
+  "endTime": 1729448871591,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -451,6 +451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68058,
+      "num": 61923,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61366,
+      "num": 61366,
+      "word": "官方回应男子将大量海绵倾倒河中",
+      "onboard_time": 1729446134,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52990,
       "num": 70788,
       "word": "2024年丹麦羽毛球公开赛",
@@ -467,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45018,
+      "num": 147747,
+      "word": "外卖员抱孩子送餐视频系摆拍",
+      "onboard_time": 1729444934,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33122,
       "num": 277090,
       "word": "大型纪录片为了新中国",
@@ -475,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33085,
-      "num": 147747,
-      "word": "外卖员抱孩子送餐视频系摆拍",
-      "onboard_time": 1729444934,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 19836,
+      "num": 61888,
+      "word": "握紧接力棒走好新时代长征路",
+      "onboard_time": 1729446254,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19460,
@@ -488,6 +512,14 @@
       "word": "新疆处处好地方",
       "onboard_time": 1729435462,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16370,
+      "num": 62892,
+      "word": "全国气温榜前十广东拿下九席",
+      "onboard_time": 1729448352,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
