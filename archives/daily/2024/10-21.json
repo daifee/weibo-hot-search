@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729451827102,
+  "endTime": 1729453003412,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -491,8 +491,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35943,
-      "num": 35943,
+      "raw_hot": 38935,
+      "num": 44938,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 38814,
+      "num": 38814,
       "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
       "onboard_time": 1729449912,
       "rank": 18,
@@ -547,12 +555,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 14249,
-      "num": 44938,
-      "word": "以军瞄准辛瓦尔视频画面曝光",
-      "onboard_time": 1729450331,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 13415,
+      "num": 38524,
+      "word": "不断激发创新活力和内生动力",
+      "onboard_time": 1729452371,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12988,
+      "num": 20226,
+      "word": "以高水平对外开放促进深层次改革高质量发展",
+      "onboard_time": 1729452791,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2437,

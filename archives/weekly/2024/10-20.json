@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729451827102,
+  "endTime": 1729453003412,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -3203,6 +3203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38935,
+      "num": 44938,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 38814,
+      "num": 38814,
+      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+      "onboard_time": 1729449912,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38212,
       "num": 38212,
       "word": "魏大勋亮相Moncler大秀",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1729376593,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35943,
-      "num": 35943,
-      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
-      "onboard_time": 1729449912,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35647,
@@ -3499,14 +3507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14249,
-      "num": 44938,
-      "word": "以军瞄准辛瓦尔视频画面曝光",
-      "onboard_time": 1729450331,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 13914,
       "num": 15311,
       "word": "吴谨言发春花焰库存",
@@ -3515,12 +3515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13415,
+      "num": 38524,
+      "word": "不断激发创新活力和内生动力",
+      "onboard_time": 1729452371,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13367,
       "num": 21410,
       "word": "新疆人的舞蹈天赋刻在DNA里",
       "onboard_time": 1729366812,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12988,
+      "num": 20226,
+      "word": "以高水平对外开放促进深层次改革高质量发展",
+      "onboard_time": 1729452791,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12115,
