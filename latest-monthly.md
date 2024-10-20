@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/20 17:21:48
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/20 17:36:15
 </p>
 </blockquote>
 <p>
@@ -6437,6 +6437,12 @@ WBG对战G2（热度：687029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E8%A6%81%E6%89%93%E5%A4%B4%E9%98%B5%23%23" target="weibo">
 #推进中国式现代化科学技术要打头阵#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E5%B0%B1%E4%BB%BB%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%23%23" target="weibo">
+#习近平致电祝贺普拉博沃就任印尼总统#
 </a>
 </li>
 
