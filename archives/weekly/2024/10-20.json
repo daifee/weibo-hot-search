@@ -1,7 +1,23 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729380922505,
+  "endTime": 1729388954322,
   "band_list": [
+    {
+      "raw_hot": 2479436,
+      "num": 292516,
+      "word": "黄晓明回应近期舆论",
+      "onboard_time": 1729387278,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1383107,
+      "num": 290092,
+      "word": "一家三口被撞身亡案司机父亲发声",
+      "onboard_time": 1729385778,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1219719,
       "num": 1219719,
@@ -19,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 950305,
+      "num": 1152048,
+      "word": "医院不是网红打卡的秀场",
+      "onboard_time": 1729383316,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838714,
       "num": 477488,
       "word": "黄磊回应近期舆论",
@@ -33,6 +57,14 @@
       "onboard_time": 1729351760,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 790193,
+      "num": 286306,
+      "word": "白鹿拍的日照金山",
+      "onboard_time": 1729385057,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 767687,
@@ -59,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584919,
+      "num": 283443,
+      "word": "调查将全面分析不想生不敢生原因",
+      "onboard_time": 1729385837,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559484,
       "num": 475129,
       "word": "任敏妆造",
@@ -81,6 +121,22 @@
       "onboard_time": 1729345942,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 537322,
+      "num": 537322,
+      "word": "尤长靖总决赛第一",
+      "onboard_time": 1729379834,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 485542,
+      "num": 280676,
+      "word": "巴勒斯坦司机疑发动自杀式袭击",
+      "onboard_time": 1729386138,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 483797,
@@ -131,6 +187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 406433,
+      "num": 406433,
+      "word": "河南的雪要来了",
+      "onboard_time": 1729381154,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399041,
       "num": 399041,
       "word": "长丰学校食品安全问题调查情况通报",
@@ -144,6 +208,22 @@
       "word": "家属回应乡长下乡被村民刺伤身亡",
       "onboard_time": 1729370291,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387805,
+      "num": 387805,
+      "word": "梁静茹哽咽回应去年演唱会翻车",
+      "onboard_time": 1729385178,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 377039,
+      "num": 275602,
+      "word": "广东一医院上百名医护举牌讨薪",
+      "onboard_time": 1729381214,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -163,12 +243,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351862,
+      "num": 271883,
+      "word": "TheShy看369凯南一脸懵",
+      "onboard_time": 1729384938,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 346567,
       "num": 346567,
       "word": "周深香港人气",
       "onboard_time": 1729353679,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343560,
+      "num": 247525,
+      "word": "有一种腿叫做超模的腿",
+      "onboard_time": 1729384938,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 337045,
+      "num": 337045,
+      "word": "韩综模仿Hanni出席国会监查",
+      "onboard_time": 1729381697,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308944,
+      "num": 308944,
+      "word": "冷空气要把河南人赶进被窝里",
+      "onboard_time": 1729384635,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291283,
@@ -203,11 +315,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247103,
-      "num": 247103,
-      "word": "尤长靖总决赛第一",
-      "onboard_time": 1729379834,
-      "rank": 13,
+      "raw_hot": 269391,
+      "num": 269391,
+      "word": "邪恶菠萝蜜",
+      "onboard_time": 1729387579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252348,
+      "num": 252348,
+      "word": "浪姐是黄圣依的觉醒时刻",
+      "onboard_time": 1729371852,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245348,
+      "num": 245348,
+      "word": "披荆斩棘4成团名单",
+      "onboard_time": 1729381636,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -219,12 +347,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228052,
+      "num": 228052,
+      "word": "985毕业男子捡垃圾8年实现财务自由",
+      "onboard_time": 1729388658,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226208,
+      "num": 226208,
+      "word": "潘展乐回应100米自由泳摘银",
+      "onboard_time": 1729383437,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221008,
       "num": 221008,
       "word": "TES 零封",
       "onboard_time": 1729346301,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213840,
+      "num": 213840,
+      "word": "中国警犬大赛堪比警匪大片",
+      "onboard_time": 1729387339,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212812,
@@ -241,6 +393,14 @@
       "onboard_time": 1729356916,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207234,
+      "num": 207234,
+      "word": "男子吃饭遇陌生男子拍其饭菜",
+      "onboard_time": 1729381154,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202029,
@@ -275,12 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175218,
-      "num": 175218,
-      "word": "浪姐是黄圣依的觉醒时刻",
-      "onboard_time": 1729371852,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 175727,
+      "num": 175727,
+      "word": "他把世界上肉最多的肉牛引进新疆",
+      "onboard_time": 1729387278,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171356,
@@ -305,6 +465,22 @@
       "onboard_time": 1729347740,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169533,
+      "num": 169533,
+      "word": "青春期的性好奇应该被正视",
+      "onboard_time": 1729386858,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163529,
+      "num": 163529,
+      "word": "世界乒联称马龙是乒坛GOAT",
+      "onboard_time": 1729387458,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160956,
@@ -337,6 +513,22 @@
       "onboard_time": 1729349302,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145179,
+      "num": 145179,
+      "word": "潘展乐换头像",
+      "onboard_time": 1729386017,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145084,
+      "num": 218779,
+      "word": "奔跑吧日照金山早安直播",
+      "onboard_time": 1729382057,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 141876,
@@ -387,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131338,
+      "num": 131338,
+      "word": "潘展乐回应落后0.03秒",
+      "onboard_time": 1729388658,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130941,
       "num": 130941,
       "word": "付航现场公布已婚",
       "onboard_time": 1729320737,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125929,
+      "num": 125929,
+      "word": "梅西连场戴帽",
+      "onboard_time": 1729385357,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122930,
@@ -403,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118394,
+      "num": 118394,
+      "word": "369小天Meiko合同即将到期",
+      "onboard_time": 1729384097,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117670,
       "num": 117670,
       "word": "央视曝光证书挂靠陷阱",
       "onboard_time": 1729344740,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117396,
+      "num": 214792,
+      "word": "陈好好六街万人迷",
+      "onboard_time": 1729388239,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 117203,
@@ -419,12 +643,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110695,
+      "num": 110695,
+      "word": "高考让锦绣安宁拍明白了",
+      "onboard_time": 1729388658,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
       "onboard_time": 1729326679,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109578,
+      "num": 109578,
+      "word": "千万级网红被举报涉嫌组织赌博",
+      "onboard_time": 1729388599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107478,
+      "num": 107478,
+      "word": "马龙 俯冲的灵魂",
+      "onboard_time": 1729384156,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107321,
+      "num": 107321,
+      "word": "天津马拉松",
+      "onboard_time": 1729386557,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 101856,
+      "num": 101856,
+      "word": "六福周大福半年均关店180多家",
+      "onboard_time": 1729384097,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101272,
+      "num": 101272,
+      "word": "张韶涵在雨中坐着飙高音",
+      "onboard_time": 1729388899,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 97306,
@@ -571,6 +843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 47267,
+      "num": 295152,
+      "word": "云南开展校园食品安全大排查大整治",
+      "onboard_time": 1729387518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41109,
       "num": 41109,
       "word": "银川地震",
@@ -691,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9077,
+      "num": 471638,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7280,
       "num": 21388,
       "word": "被杭州的秋天美到了",
@@ -705,14 +993,6 @@
       "onboard_time": 1729308020,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4936,
-      "num": 471638,
-      "word": "何以中国五星出东方",
-      "onboard_time": 1729323379,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
