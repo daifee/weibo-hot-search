@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729463932986,
+  "endTime": 1729466537586,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 809153,
+      "num": 809153,
+      "word": "妈妈说朝鲜太冷了让我带您回家",
+      "onboard_time": 1729431805,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708439,
       "num": 708439,
       "word": "男孩球场飞踹女孩不予处罚",
@@ -65,6 +73,14 @@
       "onboard_time": 1729426520,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 474632,
+      "num": 242861,
+      "word": "东北雨姐极速坠落",
+      "onboard_time": 1729429641,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 464859,
@@ -107,14 +123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 361447,
-      "num": 361447,
-      "word": "妈妈说朝鲜太冷了让我带您回家",
-      "onboard_time": 1729431805,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351073,
       "num": 351073,
       "word": "覃海洋获8000美元奖金",
@@ -129,6 +137,14 @@
       "onboard_time": 1729439599,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 336177,
+      "num": 336177,
+      "word": "虹桥机场廊桥内一乘客行李起火",
+      "onboard_time": 1729437983,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325680,
@@ -187,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243477,
+      "num": 243477,
+      "word": "男子阻拦发飙水牛被撞断10根肋骨",
+      "onboard_time": 1729461491,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236148,
       "num": 236148,
       "word": "北京真的下雪了",
@@ -203,11 +227,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216306,
-      "num": 216306,
-      "word": "虹桥机场廊桥内一乘客行李起火",
-      "onboard_time": 1729437983,
-      "rank": 24,
+      "raw_hot": 219289,
+      "num": 219289,
+      "word": "文旅局长回应小西天景区保安被辞退",
+      "onboard_time": 1729423762,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212430,
+      "num": 212430,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -227,14 +259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 206103,
-      "num": 198276,
-      "word": "东北雨姐极速坠落",
-      "onboard_time": 1729429641,
-      "rank": 26,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 196528,
       "num": 196528,
       "word": "刘琳什么时候拿奖",
@@ -249,6 +273,14 @@
       "onboard_time": 1729424360,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 187766,
+      "num": 187766,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 184787,
@@ -283,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143224,
-      "num": 181915,
-      "word": "GEN晋级S14四强",
-      "onboard_time": 1729442179,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 161041,
+      "num": 161041,
+      "word": "李沁收到范闲送的鸡腿",
+      "onboard_time": 1729431987,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 129201,
@@ -371,14 +403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103017,
-      "num": 103017,
-      "word": "文旅局长回应小西天景区保安被辞退",
-      "onboard_time": 1729423762,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100949,
       "num": 100949,
       "word": "付航底色不是悲凉是passion",
@@ -411,18 +435,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93069,
+      "raw_hot": 94008,
       "num": 222322,
       "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
       "onboard_time": 1729443255,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92527,
-      "num": 92527,
-      "word": "男子阻拦发飙水牛被撞断10根肋骨",
-      "onboard_time": 1729461491,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -443,20 +459,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88802,
-      "num": 68825,
-      "word": "今年冬天会是史上最冷吗",
-      "onboard_time": 1729447093,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85042,
       "num": 98178,
       "word": "游本昌张绍林获中国文联终身成就奖",
       "onboard_time": 1729439659,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82638,
+      "num": 82638,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 79852,
+      "num": 79852,
+      "word": "印度首都河面漂浮大量有毒泡沫",
+      "onboard_time": 1729455732,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 79410,
@@ -467,11 +491,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72201,
+      "num": 72201,
+      "word": "范伟获奖感言",
+      "onboard_time": 1729460891,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70446,
+      "num": 147747,
+      "word": "外卖员抱孩子送餐视频系摆拍",
+      "onboard_time": 1729444934,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61366,
       "num": 61366,
       "word": "官方回应男子将大量海绵倾倒河中",
       "onboard_time": 1729446134,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57744,
+      "num": 57744,
+      "word": "东北囤秋菜给了南方人亿点点震撼",
+      "onboard_time": 1729457171,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53597,
+      "num": 93191,
+      "word": "这个哨所外每立方米蚊虫达1700多只",
+      "onboard_time": 1729463654,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -491,35 +547,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45018,
-      "num": 147747,
-      "word": "外卖员抱孩子送餐视频系摆拍",
-      "onboard_time": 1729444934,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44774,
-      "num": 44938,
-      "word": "以军瞄准辛瓦尔视频画面曝光",
-      "onboard_time": 1729450331,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 43792,
-      "num": 43792,
-      "word": "印度首都河面漂浮大量有毒泡沫",
-      "onboard_time": 1729455732,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 38814,
       "num": 38814,
       "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
       "onboard_time": 1729449912,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37007,
+      "num": 243026,
+      "word": "婚礼上的显眼包又出现了",
+      "onboard_time": 1729465336,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -529,14 +569,6 @@
       "onboard_time": 1729441337,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32718,
-      "num": 32718,
-      "word": "范伟获奖感言",
-      "onboard_time": 1729460891,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 27047,
@@ -552,14 +584,6 @@
       "word": "卖饼大叔妻子生病仍照顾困难同学",
       "onboard_time": 1729458491,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25904,
-      "num": 26761,
-      "word": "东北囤秋菜给了南方人亿点点震撼",
-      "onboard_time": 1729457171,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -635,14 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13279,
-      "num": 93191,
-      "word": "这个哨所外每立方米蚊虫达1700多只",
-      "onboard_time": 1729463654,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12988,
       "num": 20226,
       "word": "以高水平对外开放促进深层次改革高质量发展",
@@ -651,8 +667,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2622,
-      "num": 330463,
+      "raw_hot": 4632,
+      "num": 541797,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,

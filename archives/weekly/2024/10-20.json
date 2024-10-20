@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729463932986,
+  "endTime": 1729466537586,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809153,
+      "num": 809153,
+      "word": "妈妈说朝鲜太冷了让我带您回家",
+      "onboard_time": 1729431805,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804328,
       "num": 804328,
       "word": "文旅局长回应小西天景区保安被辞退",
@@ -697,14 +705,6 @@
       "onboard_time": 1729399039,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 508602,
-      "num": 558269,
-      "word": "妈妈说朝鲜太冷了让我带您回家",
-      "onboard_time": 1729431805,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504377,
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336177,
+      "num": 336177,
+      "word": "虹桥机场廊桥内一乘客行李起火",
+      "onboard_time": 1729437983,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327766,
       "num": 327766,
       "word": "千万级网红被举报涉嫌组织赌博",
@@ -1419,6 +1427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 243477,
+      "num": 243477,
+      "word": "男子阻拦发飙水牛被撞断10根肋骨",
+      "onboard_time": 1729461491,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241245,
       "num": 241245,
       "word": "黄俊捷哭了",
@@ -1539,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216306,
-      "num": 283902,
-      "word": "虹桥机场廊桥内一乘客行李起火",
-      "onboard_time": 1729437983,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215206,
       "num": 401345,
       "word": "宜宾燃面真能点燃啊",
@@ -1592,6 +1600,14 @@
       "word": "女子独吞老母280万征收补偿款",
       "onboard_time": 1729435763,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212430,
+      "num": 212430,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1857,6 +1873,14 @@
       "onboard_time": 1729394297,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187766,
+      "num": 187766,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 186934,
@@ -2139,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161041,
+      "num": 161041,
+      "word": "李沁收到范闲送的鸡腿",
+      "onboard_time": 1729431987,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "加沙约86%人口处于极度饥饿状态",
@@ -2321,14 +2353,6 @@
       "onboard_time": 1729402099,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143224,
-      "num": 181915,
-      "word": "GEN晋级S14四强",
-      "onboard_time": 1729442179,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 142889,
@@ -2819,18 +2843,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93069,
+      "raw_hot": 94008,
       "num": 222322,
       "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
       "onboard_time": 1729443255,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92527,
-      "num": 92527,
-      "word": "男子阻拦发飙水牛被撞断10根肋骨",
-      "onboard_time": 1729461491,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2849,14 +2865,6 @@
       "onboard_time": 1729349244,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88802,
-      "num": 68825,
-      "word": "今年冬天会是史上最冷吗",
-      "onboard_time": 1729447093,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85042,
@@ -2891,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82638,
+      "num": 82638,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 81494,
       "num": 357076,
       "word": "小鬼说和雅经历了无数个碰撞瞬间",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1729410199,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79852,
+      "num": 79852,
+      "word": "印度首都河面漂浮大量有毒泡沫",
+      "onboard_time": 1729455732,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 79482,
@@ -2979,6 +3003,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 72201,
+      "num": 72201,
+      "word": "范伟获奖感言",
+      "onboard_time": 1729460891,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71394,
       "num": 77760,
       "word": "金秀贤唱了IU的只有我不知道的故事",
@@ -2992,6 +3024,14 @@
       "word": "106岁奶奶从青丝到白发的等待",
       "onboard_time": 1729375872,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70446,
+      "num": 147747,
+      "word": "外卖员抱孩子送餐视频系摆拍",
+      "onboard_time": 1729444934,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3035,12 +3075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57744,
+      "num": 57744,
+      "word": "东北囤秋菜给了南方人亿点点震撼",
+      "onboard_time": 1729457171,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57575,
       "num": 349706,
       "word": "王建国秒变天猫双11种草王",
       "onboard_time": 1729425620,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53597,
+      "num": 93191,
+      "word": "这个哨所外每立方米蚊虫达1700多只",
+      "onboard_time": 1729463654,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53265,
@@ -3139,22 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45018,
-      "num": 147747,
-      "word": "外卖员抱孩子送餐视频系摆拍",
-      "onboard_time": 1729444934,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44774,
-      "num": 44938,
-      "word": "以军瞄准辛瓦尔视频画面曝光",
-      "onboard_time": 1729450331,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 44474,
       "num": 692881,
       "word": "新疆处处好地方",
@@ -3177,14 +3217,6 @@
       "onboard_time": 1729407919,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43792,
-      "num": 43792,
-      "word": "印度首都河面漂浮大量有毒泡沫",
-      "onboard_time": 1729455732,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 41725,
@@ -3251,6 +3283,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37007,
+      "num": 243026,
+      "word": "婚礼上的显眼包又出现了",
+      "onboard_time": 1729465336,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36732,
       "num": 405344,
       "word": "谷子如何成为塑料黄金的",
@@ -3297,14 +3337,6 @@
       "onboard_time": 1729427660,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 32718,
-      "num": 32718,
-      "word": "范伟获奖感言",
-      "onboard_time": 1729460891,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 32636,
@@ -3409,14 +3441,6 @@
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 25904,
-      "num": 26761,
-      "word": "东北囤秋菜给了南方人亿点点震撼",
-      "onboard_time": 1729457171,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25438,
@@ -3600,14 +3624,6 @@
       "word": "新疆人的舞蹈天赋刻在DNA里",
       "onboard_time": 1729366812,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13279,
-      "num": 93191,
-      "word": "这个哨所外每立方米蚊虫达1700多只",
-      "onboard_time": 1729463654,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

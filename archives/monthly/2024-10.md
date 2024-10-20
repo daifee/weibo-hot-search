@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 06:38:52
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 07:22:17
 </p>
 </blockquote>
 <p>
@@ -4761,6 +4761,12 @@ scout 还钱（热度：813989）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B4%E6%9C%9D%E9%B2%9C%E5%A4%AA%E5%86%B7%E4%BA%86%E8%AE%A9%E6%88%91%E5%B8%A6%E6%82%A8%E5%9B%9E%E5%AE%B6%23" target="weibo">
+妈妈说朝鲜太冷了让我带您回家（热度：809153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23" target="weibo">
 光遇（热度：807536）
 </a>
@@ -6005,12 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E8%82%A5%E4%B8%9C%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%BB%8F%E5%8F%91%E7%94%9F6%E6%AC%A13%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87%23" target="weibo">
 合肥肥东今年已经发生6次3级以上地震（热度：693254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E4%BA%89%E5%86%A0%23" target="weibo">
-林诗栋张本智和争冠（热度：693223）
 </a>
 </li>
 
