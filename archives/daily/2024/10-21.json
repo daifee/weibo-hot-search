@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729444814686,
+  "endTime": 1729445871854,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1296592,
-      "num": 521645,
+      "num": 579279,
       "word": "听泉鉴宝下播",
       "onboard_time": 1729436963,
       "rank": 3,
@@ -97,6 +97,14 @@
       "onboard_time": 1729434743,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375859,
+      "num": 197054,
+      "word": "吴越",
+      "onboard_time": 1729443615,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 351073,
@@ -225,14 +233,6 @@
       "onboard_time": 1729429641,
       "rank": 26,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 197054,
-      "num": 197054,
-      "word": "吴越",
-      "onboard_time": 1729443615,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 196528,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93069,
+      "num": 222322,
+      "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
+      "onboard_time": 1729443255,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91928,
       "num": 91928,
       "word": "飞天奖",
@@ -435,20 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71778,
-      "num": 71778,
+      "raw_hot": 79410,
+      "num": 79410,
       "word": "北舞偶遇刘浩存",
       "onboard_time": 1729443975,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64683,
-      "num": 222322,
-      "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
-      "onboard_time": 1729443255,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52990,
@@ -472,6 +472,14 @@
       "word": "大型纪录片为了新中国",
       "onboard_time": 1729441337,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33085,
+      "num": 147747,
+      "word": "外卖员抱孩子送餐视频系摆拍",
+      "onboard_time": 1729444934,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
