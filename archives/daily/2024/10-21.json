@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729449672076,
+  "endTime": 1729451827102,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -491,12 +491,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35943,
+      "num": 35943,
+      "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+      "onboard_time": 1729449912,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33122,
       "num": 277090,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1729441337,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27047,
+      "num": 70163,
+      "word": "全国气温榜前十广东拿下九席",
+      "onboard_time": 1729448352,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20378,
+      "num": 20378,
+      "word": "张杰绽放首唱",
+      "onboard_time": 1729450511,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 19836,
@@ -515,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16370,
-      "num": 70163,
-      "word": "全国气温榜前十广东拿下九席",
-      "onboard_time": 1729448352,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15962,
       "num": 96398,
       "word": "全友双11在玩一种很新的秀",
       "onboard_time": 1729436723,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14249,
+      "num": 44938,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2437,
