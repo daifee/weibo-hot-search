@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729408841287,
+  "endTime": 1729409781151,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1944898,
-      "num": 222756,
+      "num": 290497,
       "word": "黄圣依仍然想离婚",
       "onboard_time": 1729403600,
       "rank": 10,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696608,
+      "num": 485638,
+      "word": "王一博车队冠军",
+      "onboard_time": 1729408759,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657719,
       "num": 657719,
       "word": "王多多怒喷TES",
@@ -195,11 +203,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 624572,
+      "raw_hot": 625310,
       "num": 356652,
       "word": "花车上的迪丽热巴",
       "onboard_time": 1729405760,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 609145,
+      "num": 373493,
+      "word": "黄圣依杨子 爱是真的不爱也是真的",
+      "onboard_time": 1729405519,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -209,14 +225,6 @@
       "onboard_time": 1729397838,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 594973,
-      "num": 252993,
-      "word": "黄圣依杨子 爱是真的不爱也是真的",
-      "onboard_time": 1729405519,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 588102,
@@ -257,14 +265,6 @@
       "onboard_time": 1729395018,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550089,
-      "num": 230083,
-      "word": "王一博车队冠军",
-      "onboard_time": 1729408759,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 548098,
@@ -336,6 +336,14 @@
       "word": "湖南一纪委干部在工作地坠楼身亡",
       "onboard_time": 1729402278,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483972,
+      "num": 483972,
+      "word": "小西天保安大叔已经返岗",
+      "onboard_time": 1729407619,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -547,19 +555,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302733,
-      "num": 216520,
+      "raw_hot": 320094,
+      "num": 272040,
       "word": "迪丽热巴重庆活动",
       "onboard_time": 1729407018,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 302686,
+      "raw_hot": 313074,
       "num": 409611,
       "word": "鲜肉9小时没冷藏变臭肉",
       "onboard_time": 1729400959,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307533,
+      "num": 307533,
+      "word": "北京明天要下雪",
+      "onboard_time": 1729407800,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -635,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257684,
+      "num": 257684,
+      "word": "第32届金鹰奖颁奖晚会节目单",
+      "onboard_time": 1729403959,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252908,
       "num": 247368,
       "word": "RIIZE被上海硬控",
@@ -648,14 +672,6 @@
       "word": "浪姐是黄圣依的觉醒时刻",
       "onboard_time": 1729371852,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247395,
-      "num": 217483,
-      "word": "第32届金鹰奖颁奖晚会节目单",
-      "onboard_time": 1729403959,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -713,14 +729,6 @@
       "onboard_time": 1729383437,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223411,
-      "num": 223411,
-      "word": "北京明天要下雪",
-      "onboard_time": 1729407800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222888,
@@ -819,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201566,
-      "num": 216065,
-      "word": "小西天保安大叔已经返岗",
-      "onboard_time": 1729407619,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195630,
       "num": 195630,
       "word": "Meiko说对T1的信息不了解",
@@ -875,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186676,
+      "num": 186676,
+      "word": "小交警贴脸开大让路人戴头盔",
+      "onboard_time": 1729405459,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186565,
       "num": 186565,
       "word": "LPL最严厉的父亲",
@@ -907,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182479,
-      "num": 182479,
-      "word": "小交警贴脸开大让路人戴头盔",
-      "onboard_time": 1729405459,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 176992,
+      "num": 129494,
+      "word": "TES后台",
+      "onboard_time": 1729409419,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 176743,
@@ -1115,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145085,
+      "num": 129268,
+      "word": "付航的获奖感言",
+      "onboard_time": 1729409300,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145084,
       "num": 218779,
       "word": "奔跑吧日照金山早安直播",
@@ -1187,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134171,
+      "num": 134171,
+      "word": "网红为燃气爆炸烧伤妈妈捐款30万",
+      "onboard_time": 1729408400,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133003,
       "num": 133003,
       "word": "胖东来攻入北京",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1729320737,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129078,
+      "num": 129078,
+      "word": "网传被开除的小西天保安大爷被调岗",
+      "onboard_time": 1729408458,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127267,
@@ -1323,12 +1355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116425,
+      "num": 116425,
+      "word": "年轻人为什么爱上了毛绒玩具",
+      "onboard_time": 1729408278,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
       "onboard_time": 1729326679,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109050,
+      "num": 129731,
+      "word": "侯明昊丁程鑫跳舞直拍",
+      "onboard_time": 1729409239,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 107478,
@@ -1347,20 +1395,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 102784,
+      "num": 102784,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1729409599,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102121,
       "num": 102121,
       "word": "六福周大福半年均关店180多家",
       "onboard_time": 1729384097,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98435,
-      "num": 98435,
-      "word": "年轻人为什么爱上了毛绒玩具",
-      "onboard_time": 1729408278,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 98252,
@@ -1377,14 +1425,6 @@
       "onboard_time": 1729360694,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97008,
-      "num": 97008,
-      "word": "网传被开除的小西天保安大爷被调岗",
-      "onboard_time": 1729408458,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96942,
@@ -1419,11 +1459,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92715,
-      "num": 92715,
-      "word": "网红为燃气爆炸烧伤妈妈捐款30万",
-      "onboard_time": 1729408400,
-      "rank": 40,
+      "raw_hot": 93254,
+      "num": 252023,
+      "word": "高校女厕坑位旁发现摄像头",
+      "onboard_time": 1729408698,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1441,6 +1481,14 @@
       "onboard_time": 1729349244,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83511,
+      "num": 83511,
+      "word": "于祥宇 最强新人",
+      "onboard_time": 1729409659,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 83122,
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 37289,
-      "num": 143669,
+      "num": 261898,
       "word": "三代女团来和平精英抢C位",
       "onboard_time": 1729407919,
       "rank": 27,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1729398800,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32636,
+      "num": 301215,
+      "word": "律师解读臭肉事件调查处理结果",
+      "onboard_time": 1729409119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31794,
@@ -1755,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23098,
+      "num": 277055,
+      "word": "为重启父被杀案儿子诉母遗弃罪",
+      "onboard_time": 1729408518,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22340,
       "num": 120594,
       "word": "这届年轻人过冬既要city又要warm",
@@ -1792,14 +1856,6 @@
       "word": "吐鲁番有条3400公里地下水长城",
       "onboard_time": 1729390158,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14857,
-      "num": 219175,
-      "word": "为重启父被杀案儿子诉母遗弃罪",
-      "onboard_time": 1729408518,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
