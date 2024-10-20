@@ -1,0 +1,410 @@
+{
+  "runTime": 1729401643555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863463,
+        "num": 1138154,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642896,
+        "num": 642896,
+        "word": "潘展乐无缘200自决赛",
+        "onboard_time": 1729393579,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7644,
+        "num": 573051,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1657291,
+        "num": 572353,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551619,
+        "num": 551619,
+        "word": "中介自称今年贩婴超十个月收入8万",
+        "onboard_time": 1729395018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499696,
+        "num": 499696,
+        "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
+        "onboard_time": 1729397838,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 493959,
+        "num": 493959,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449888,
+        "num": 449888,
+        "word": "记者卧底贩婴现场",
+        "onboard_time": 1729394958,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418241,
+        "num": 418241,
+        "word": "法考",
+        "onboard_time": 1729399039,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54088,
+        "num": 417922,
+        "word": "一名残障未婚女的宅基地执念",
+        "onboard_time": 1729400659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305501,
+        "num": 412954,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038547,
+        "num": 409160,
+        "word": "两岁宝宝右耳里掏出一克拉黄钻",
+        "onboard_time": 1729399638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31646,
+        "num": 405071,
+        "word": "当游戏神话遇到汽车神话",
+        "onboard_time": 1729398800,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36732,
+        "num": 403598,
+        "word": "谷子如何成为塑料黄金的",
+        "onboard_time": 1729400838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40367,
+        "num": 396987,
+        "word": "带状疱疹危害有多大",
+        "onboard_time": 1729400419,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396459,
+        "num": 396459,
+        "word": "张若昀李沁李现同框热聊",
+        "onboard_time": 1729395798,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755200,
+        "num": 389558,
+        "word": "马斯克每天随机向选民发100万美元",
+        "onboard_time": 1729395498,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81494,
+        "num": 357076,
+        "word": "小鬼说和雅经历了无数个碰撞瞬间",
+        "onboard_time": 1729395738,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352692,
+        "num": 352692,
+        "word": "小米15",
+        "onboard_time": 1729400119,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 316150,
+        "num": 316150,
+        "word": "以报复伊朗计划外泄",
+        "onboard_time": 1729396397,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 500255,
+        "num": 312477,
+        "word": "一家三口被撞身亡案司机父亲发声",
+        "onboard_time": 1729385778,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386453,
+        "num": 308998,
+        "word": "覃海洋夺冠后狠狠拍水",
+        "onboard_time": 1729396820,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351239,
+        "num": 307041,
+        "word": "长期熬夜身体或会发臭",
+        "onboard_time": 1729400719,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302218,
+        "num": 302218,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275320,
+        "num": 275320,
+        "word": "白鹿拍的日照金山",
+        "onboard_time": 1729385057,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264367,
+        "num": 264367,
+        "word": "小西天保安涨工资笑说沾了游客的光",
+        "onboard_time": 1729396939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258236,
+        "num": 258236,
+        "word": "这可能是小猫睡得最暖的一次",
+        "onboard_time": 1729397359,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250348,
+        "num": 250348,
+        "word": "留几手 去爹味版",
+        "onboard_time": 1729395560,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210968,
+        "num": 247532,
+        "word": "李晨拍的日照金山",
+        "onboard_time": 1729398738,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192830,
+        "num": 247371,
+        "word": "时代少年团赢了重庆狼队",
+        "onboard_time": 1729399279,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252908,
+        "num": 247368,
+        "word": "RIIZE被上海硬控",
+        "onboard_time": 1729399399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247290,
+        "num": 247290,
+        "word": "景区回应网传小西天保安大叔被辞退",
+        "onboard_time": 1729398978,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221151,
+        "num": 221151,
+        "word": "法考主观题",
+        "onboard_time": 1729400239,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206307,
+        "num": 206307,
+        "word": "369",
+        "onboard_time": 1729351760,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185295,
+        "num": 185295,
+        "word": "985毕业男子捡垃圾8年实现财务自由",
+        "onboard_time": 1729388658,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183366,
+        "num": 183366,
+        "word": "32人用电子烟吸毒被抓",
+        "onboard_time": 1729399818,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181939,
+        "num": 181939,
+        "word": "邪恶菠萝蜜",
+        "onboard_time": 1729387579,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174264,
+        "num": 174264,
+        "word": "网约车时速150迈刹不住事故判决",
+        "onboard_time": 1729392737,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169756,
+        "num": 169756,
+        "word": "尤长靖总决赛第一",
+        "onboard_time": 1729379834,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144789,
+        "num": 144789,
+        "word": "王一博正赛第二回合",
+        "onboard_time": 1729398439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144626,
+        "num": 144626,
+        "word": "医院不是网红打卡的秀场",
+        "onboard_time": 1729383316,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140549,
+        "num": 140549,
+        "word": "韩综模仿Hanni出席国会监查",
+        "onboard_time": 1729381697,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133582,
+        "num": 133582,
+        "word": "鲜肉9小时没冷藏变臭肉",
+        "onboard_time": 1729400959,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "老人挖了7天茨菇却换来三张假币",
+        "onboard_time": 1729352421,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127068,
+        "num": 127068,
+        "word": "TheShy看369凯南一脸懵",
+        "onboard_time": 1729384938,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124719,
+        "num": 124719,
+        "word": "重返未来1999",
+        "onboard_time": 1729399578,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122880,
+        "num": 122880,
+        "word": "TES止步S14八强",
+        "onboard_time": 1729350561,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120429,
+        "num": 120429,
+        "word": "Bin AD凯南",
+        "onboard_time": 1729395078,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117455,
+        "num": 117455,
+        "word": "披荆斩棘4成团名单",
+        "onboard_time": 1729381636,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116356,
+        "num": 116356,
+        "word": "梁静茹哽咽回应去年演唱会翻车",
+        "onboard_time": 1729385178,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把部队作战能力搞扎实#"
+    }
+  }
+}

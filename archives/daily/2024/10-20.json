@@ -1,10 +1,10 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729399263126,
+  "endTime": 1729401643555,
   "band_list": [
     {
       "raw_hot": 2479436,
-      "num": 344349,
+      "num": 412954,
       "word": "黄晓明回应近期舆论",
       "onboard_time": 1729387278,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2192978,
-      "num": 568635,
+      "num": 572353,
       "word": "海关查获蟑螂尸体3000余只",
       "onboard_time": 1729395919,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1038547,
+      "num": 409160,
+      "word": "两岁宝宝右耳里掏出一克拉黄钻",
+      "onboard_time": 1729399638,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958892,
       "num": 913788,
       "word": "马斯克每天随机向选民发100万美元",
@@ -65,6 +73,14 @@
       "onboard_time": 1729383316,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863463,
+      "num": 1138154,
+      "word": "金鹰奖",
+      "onboard_time": 1729398259,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 858503,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562315,
-      "num": 562315,
-      "word": "金鹰奖",
-      "onboard_time": 1729398259,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 559484,
       "num": 475129,
       "word": "任敏妆造",
@@ -169,6 +177,14 @@
       "onboard_time": 1729386138,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 551619,
+      "num": 551619,
+      "word": "中介自称今年贩婴超十个月收入8万",
+      "onboard_time": 1729395018,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548098,
@@ -201,6 +217,14 @@
       "onboard_time": 1729387579,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493959,
+      "num": 493959,
+      "word": "丁真画了自己去世的小马",
+      "onboard_time": 1729395198,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 493298,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418241,
+      "num": 418241,
+      "word": "法考",
+      "onboard_time": 1729399039,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 416827,
       "num": 349550,
       "word": "何猷君奚梦瑶带娃逛迪士尼",
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393809,
-      "num": 393809,
-      "word": "中介自称今年贩婴超十个月收入8万",
-      "onboard_time": 1729395018,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393681,
       "num": 109958,
       "word": "家属回应乡长下乡被村民刺伤身亡",
@@ -321,6 +345,14 @@
       "onboard_time": 1729385178,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 386453,
+      "num": 337047,
+      "word": "覃海洋夺冠后狠狠拍水",
+      "onboard_time": 1729396820,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 377039,
@@ -339,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366825,
-      "num": 337047,
-      "word": "覃海洋夺冠后狠狠拍水",
-      "onboard_time": 1729396820,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362262,
       "num": 362262,
       "word": "重庆警方通报一男子砍伤他人",
@@ -355,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361745,
-      "num": 326106,
-      "word": "丁真画了自己去世的小马",
-      "onboard_time": 1729395198,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 352692,
+      "num": 352692,
+      "word": "小米15",
+      "onboard_time": 1729400119,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 351862,
@@ -369,6 +393,14 @@
       "onboard_time": 1729384938,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 351239,
+      "num": 307041,
+      "word": "长期熬夜身体或会发臭",
+      "onboard_time": 1729400719,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 346567,
@@ -417,6 +449,14 @@
       "onboard_time": 1729395560,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302218,
+      "num": 302218,
+      "word": "女子把降压药掰开吃致昏迷",
+      "onboard_time": 1729401019,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297403,
@@ -483,12 +523,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 264367,
+      "num": 264367,
+      "word": "小西天保安涨工资笑说沾了游客的光",
+      "onboard_time": 1729396939,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258236,
+      "num": 258236,
+      "word": "这可能是小猫睡得最暖的一次",
+      "onboard_time": 1729397359,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 252908,
+      "num": 247368,
+      "word": "RIIZE被上海硬控",
+      "onboard_time": 1729399399,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252348,
       "num": 252348,
       "word": "浪姐是黄圣依的觉醒时刻",
       "onboard_time": 1729371852,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247290,
+      "num": 247290,
+      "word": "景区回应网传小西天保安大叔被辞退",
+      "onboard_time": 1729398978,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245348,
@@ -499,28 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234077,
-      "num": 234077,
-      "word": "这可能是小猫睡得最暖的一次",
-      "onboard_time": 1729397359,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
       "onboard_time": 1729339219,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230754,
-      "num": 230754,
-      "word": "小西天保安涨工资笑说沾了游客的光",
-      "onboard_time": 1729396939,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230578,
@@ -555,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221151,
+      "num": 221151,
+      "word": "法考主观题",
+      "onboard_time": 1729400239,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 221008,
       "num": 221008,
       "word": "TES 零封",
@@ -576,6 +640,14 @@
       "word": "付航call back",
       "onboard_time": 1729328840,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210968,
+      "num": 247532,
+      "word": "李晨拍的日照金山",
+      "onboard_time": 1729398738,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -627,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192830,
+      "num": 247371,
+      "word": "时代少年团赢了重庆狼队",
+      "onboard_time": 1729399279,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191536,
       "num": 294449,
       "word": "打网约车送神秘包裹司机果断报警",
@@ -665,6 +745,14 @@
       "onboard_time": 1729395078,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183366,
+      "num": 183366,
+      "word": "32人用电子烟吸毒被抓",
+      "onboard_time": 1729399818,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176743,
@@ -843,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133582,
+      "num": 133582,
+      "word": "鲜肉9小时没冷藏变臭肉",
+      "onboard_time": 1729400959,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132876,
       "num": 132876,
       "word": "安徽六尺巷给朱广权排了班表",
@@ -881,6 +977,14 @@
       "onboard_time": 1729385357,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124719,
+      "num": 124719,
+      "word": "重返未来1999",
+      "onboard_time": 1729399578,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 122930,
@@ -945,22 +1049,6 @@
       "onboard_time": 1729336699,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115471,
-      "num": 115471,
-      "word": "景区回应网传小西天保安大叔被辞退",
-      "onboard_time": 1729398978,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115054,
-      "num": 115054,
-      "word": "法考",
-      "onboard_time": 1729399039,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 110135,
@@ -1051,6 +1139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81494,
+      "num": 357076,
+      "word": "小鬼说和雅经历了无数个碰撞瞬间",
+      "onboard_time": 1729395738,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 79482,
       "num": 79482,
       "word": "对跖点",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1729375692,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54088,
+      "num": 417922,
+      "word": "一名残障未婚女的宅基地执念",
+      "onboard_time": 1729400659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53265,
@@ -1203,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40367,
+      "num": 396987,
+      "word": "带状疱疹危害有多大",
+      "onboard_time": 1729400419,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39793,
       "num": 39793,
       "word": "假网站内容骗子可以随便删改",
@@ -1219,6 +1331,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 36732,
+      "num": 403598,
+      "word": "谷子如何成为塑料黄金的",
+      "onboard_time": 1729400838,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36188,
       "num": 40330,
       "word": "黄圣依是在浪姐觉醒的吧",
@@ -1228,7 +1348,7 @@
     },
     {
       "raw_hot": 33695,
-      "num": 156813,
+      "num": 405071,
       "word": "当游戏神话遇到汽车神话",
       "onboard_time": 1729398800,
       "rank": 36,
