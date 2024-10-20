@@ -1,18 +1,18 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729398397876,
+  "endTime": 1729399263126,
   "band_list": [
     {
       "raw_hot": 2479436,
-      "num": 328499,
+      "num": 344349,
       "word": "黄晓明回应近期舆论",
       "onboard_time": 1729387278,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1989695,
-      "num": 501296,
+      "raw_hot": 2192978,
+      "num": 568635,
       "word": "海关查获蟑螂尸体3000余只",
       "onboard_time": 1729395919,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1383107,
-      "num": 328071,
+      "num": 342834,
       "word": "一家三口被撞身亡案司机父亲发声",
       "onboard_time": 1729385778,
       "rank": 11,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 958892,
+      "num": 913788,
+      "word": "马斯克每天随机向选民发100万美元",
+      "onboard_time": 1729395498,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 950305,
       "num": 1152048,
       "word": "医院不是网红打卡的秀场",
       "onboard_time": 1729383316,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913788,
-      "num": 913788,
-      "word": "马斯克每天随机向选民发100万美元",
-      "onboard_time": 1729395498,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 858503,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 790193,
-      "num": 326692,
+      "num": 342142,
       "word": "白鹿拍的日照金山",
       "onboard_time": 1729385057,
       "rank": 12,
@@ -131,12 +131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 596215,
+      "num": 596215,
+      "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
+      "onboard_time": 1729397838,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 588102,
       "num": 588102,
       "word": "昆明长丰学校食堂承包商被罚578万",
       "onboard_time": 1729349901,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562315,
+      "num": 562315,
+      "word": "金鹰奖",
+      "onboard_time": 1729398259,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 559484,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 516535,
-      "num": 324638,
+      "num": 341004,
       "word": "邪恶菠萝蜜",
       "onboard_time": 1729387579,
       "rank": 18,
@@ -201,6 +217,14 @@
       "onboard_time": 1729352240,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 477003,
+      "num": 429680,
+      "word": "张若昀李沁李现同框热聊",
+      "onboard_time": 1729395798,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 471591,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393809,
+      "num": 393809,
+      "word": "中介自称今年贩婴超十个月收入8万",
+      "onboard_time": 1729395018,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393681,
       "num": 109958,
       "word": "家属回应乡长下乡被村民刺伤身亡",
@@ -307,12 +339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375148,
-      "num": 375148,
-      "word": "中介自称今年贩婴超十个月收入8万",
-      "onboard_time": 1729395018,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 366825,
+      "num": 337047,
+      "word": "覃海洋夺冠后狠狠拍水",
+      "onboard_time": 1729396820,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 362262,
@@ -323,11 +355,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358075,
-      "num": 358075,
-      "word": "张若昀李沁李现同框热聊",
-      "onboard_time": 1729395798,
-      "rank": 38,
+      "raw_hot": 361745,
+      "num": 326106,
+      "word": "丁真画了自己去世的小马",
+      "onboard_time": 1729395198,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -347,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 344452,
-      "num": 317345,
-      "word": "丁真画了自己去世的小马",
-      "onboard_time": 1729395198,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343560,
       "num": 247525,
       "word": "有一种腿叫做超模的腿",
@@ -363,20 +387,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 338916,
+      "num": 338916,
+      "word": "以报复伊朗计划外泄",
+      "onboard_time": 1729396397,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 337045,
       "num": 337045,
       "word": "韩综模仿Hanni出席国会监查",
       "onboard_time": 1729381697,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329507,
-      "num": 329507,
-      "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
-      "onboard_time": 1729397838,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 327766,
@@ -388,27 +412,11 @@
     },
     {
       "raw_hot": 324113,
-      "num": 324113,
+      "num": 340487,
       "word": "留几手 去爹味版",
       "onboard_time": 1729395560,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316449,
-      "num": 316449,
-      "word": "覃海洋夺冠后狠狠拍水",
-      "onboard_time": 1729396820,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 305111,
-      "num": 305111,
-      "word": "以报复伊朗计划外泄",
-      "onboard_time": 1729396397,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 297403,
@@ -491,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234077,
+      "num": 234077,
+      "word": "这可能是小猫睡得最暖的一次",
+      "onboard_time": 1729397359,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
       "onboard_time": 1729339219,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230754,
+      "num": 230754,
+      "word": "小西天保安涨工资笑说沾了游客的光",
+      "onboard_time": 1729396939,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230578,
@@ -595,6 +619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193095,
+      "num": 193095,
+      "word": "王一博正赛第二回合",
+      "onboard_time": 1729398439,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191536,
       "num": 294449,
       "word": "打网约车送神秘包裹司机果断报警",
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 188759,
-      "num": 292474,
+      "num": 339685,
       "word": "陆嘉学 发疯纯爱",
       "onboard_time": 1729394297,
       "rank": 18,
@@ -633,14 +665,6 @@
       "onboard_time": 1729395078,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181701,
-      "num": 181701,
-      "word": "这可能是小猫睡得最暖的一次",
-      "onboard_time": 1729397359,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 176743,
@@ -681,14 +705,6 @@
       "onboard_time": 1729386858,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165040,
-      "num": 165040,
-      "word": "小西天保安涨工资笑说沾了游客的光",
-      "onboard_time": 1729396939,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163529,
@@ -787,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141479,
-      "num": 141479,
-      "word": "金鹰奖",
-      "onboard_time": 1729398259,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137689,
       "num": 137689,
       "word": "樊振东胸前的金牌在闪光",
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121505,
+      "num": 121505,
+      "word": "哈妮克孜唐代美妆博主",
+      "onboard_time": 1729398919,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119911,
       "num": 119911,
       "word": "怎么可以有人活的跟动漫一样",
@@ -929,6 +945,22 @@
       "onboard_time": 1729336699,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115471,
+      "num": 115471,
+      "word": "景区回应网传小西天保安大叔被辞退",
+      "onboard_time": 1729398978,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115054,
+      "num": 115054,
+      "word": "法考",
+      "onboard_time": 1729399039,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 110135,
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48467,
+      "num": 344808,
+      "word": "短趾雕住院渡劫18个月重回天空",
+      "onboard_time": 1729398558,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48106,
       "num": 48699,
       "word": "加沙民众寒冬只能挤在临时帐篷里",
@@ -1144,6 +1184,14 @@
       "word": "云南开展校园食品安全大排查大整治",
       "onboard_time": 1729387518,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44438,
+      "num": 341727,
+      "word": "禁养烈性犬伤人饲养人将担全责",
+      "onboard_time": 1729397478,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1179,12 +1227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34225,
-      "num": 326115,
-      "word": "禁养烈性犬伤人饲养人将担全责",
-      "onboard_time": 1729397478,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 33695,
+      "num": 156813,
+      "word": "当游戏神话遇到汽车神话",
+      "onboard_time": 1729398800,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 31794,
