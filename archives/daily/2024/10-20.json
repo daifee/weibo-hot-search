@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729433997808,
+  "endTime": 1729435066192,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1652773,
-      "num": 425016,
+      "num": 433000,
       "word": "金鹰奖 六缺三",
       "onboard_time": 1729431202,
       "rank": 12,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1427643,
-      "num": 279561,
+      "num": 430292,
       "word": "金鹰奖获奖名单",
       "onboard_time": 1729431383,
       "rank": 42,
@@ -235,8 +235,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1025321,
-      "num": 1025321,
+      "raw_hot": 1026756,
+      "num": 1026756,
       "word": "覃海洋获8000美元奖金",
       "onboard_time": 1729430722,
       "rank": 17,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 882348,
-      "num": 266470,
+      "num": 420874,
       "word": "刘琳什么时候拿奖",
       "onboard_time": 1729432644,
       "rank": 14,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579737,
+      "num": 407470,
+      "word": "曝赵丽颖入围金鸡奖",
+      "onboard_time": 1729434324,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 566104,
       "num": 566104,
       "word": "曝登陆少年组合将新增一人",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 558099,
-      "num": 312155,
+      "num": 406595,
       "word": "男子将3岁女儿抛向大货车被判死刑",
       "onboard_time": 1729422981,
       "rank": 23,
@@ -627,8 +635,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515114,
+      "num": 405717,
+      "word": "金鹰奖 白玉兰",
+      "onboard_time": 1729434923,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513984,
-      "num": 314252,
+      "num": 390336,
       "word": "东北雨姐极速坠落",
       "onboard_time": 1729429641,
       "rank": 22,
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412343,
+      "num": 412343,
+      "word": "警方回应男子篮球场飞踹女孩",
+      "onboard_time": 1729430423,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412207,
       "num": 412207,
       "word": "付航值得",
@@ -804,19 +828,19 @@
     },
     {
       "raw_hot": 406030,
-      "num": 310457,
+      "num": 332803,
       "word": "原地超慢跑减掉54斤",
       "onboard_time": 1729424360,
       "rank": 25,
       "category": "运动健身"
     },
     {
-      "raw_hot": 405548,
-      "num": 257088,
-      "word": "警方回应男子篮球场飞踹女孩",
-      "onboard_time": 1729430423,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 404734,
+      "num": 404734,
+      "word": "向前看 别回头",
+      "onboard_time": 1729433663,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 399041,
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 351275,
-      "num": 227559,
+      "num": 286839,
       "word": "杨紫粉色抹胸长裙",
       "onboard_time": 1729432407,
       "rank": 26,
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 334857,
-      "num": 319861,
+      "num": 408597,
       "word": "TES好好学",
       "onboard_time": 1729429521,
       "rank": 30,
@@ -1043,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312435,
-      "num": 227290,
-      "word": "向前看 别回头",
-      "onboard_time": 1729433663,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 307533,
       "num": 307533,
       "word": "北京明天要下雪",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1729389201,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295855,
+      "num": 295855,
+      "word": "张若昀来日方长",
+      "onboard_time": 1729433904,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 293103,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1729410199,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 248254,
+      "num": 411201,
+      "word": "男子开车将大量海绵倾倒河中",
+      "onboard_time": 1729433605,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247290,
@@ -1451,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211595,
+      "num": 211595,
+      "word": "于和伟陪跑",
+      "onboard_time": 1729433963,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211116,
       "num": 211116,
       "word": "王一博正赛第二回合",
@@ -1619,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192054,
+      "num": 192054,
+      "word": "杨鸣暴怒",
+      "onboard_time": 1729434443,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191608,
       "num": 191608,
       "word": "宁静说演员行业门槛低",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1729357875,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191050,
+      "num": 191050,
+      "word": "李耕耘 躺着怎么减肥",
+      "onboard_time": 1729432706,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 191011,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1729394297,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187152,
-      "num": 187152,
-      "word": "李耕耘 躺着怎么减肥",
-      "onboard_time": 1729432706,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 186934,
@@ -1811,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170839,
+      "num": 443428,
+      "word": "男孩球场飞踹女孩不予处罚",
+      "onboard_time": 1729434503,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170601,
       "num": 170601,
       "word": "警方通报男子报警称女儿被人强奸",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1729417819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168721,
+      "num": 168721,
+      "word": "CBA",
+      "onboard_time": 1729434083,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 167807,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1729388419,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156261,
-      "num": 156261,
-      "word": "张若昀来日方长",
-      "onboard_time": 1729433904,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 154414,
@@ -2147,11 +2203,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136625,
-      "num": 136625,
-      "word": "于和伟陪跑",
-      "onboard_time": 1729433963,
-      "rank": 49,
+      "raw_hot": 136881,
+      "num": 136881,
+      "word": "漫长的季节值得",
+      "onboard_time": 1729434563,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2267,20 +2323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128783,
-      "num": 265030,
-      "word": "男子开车将大量海绵倾倒河中",
-      "onboard_time": 1729433605,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127267,
       "num": 127267,
       "word": "王者荣耀共创之夜抢票",
       "onboard_time": 1729395439,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127088,
+      "num": 127088,
+      "word": "3岁幼童遭生父女友虐待后离世",
+      "onboard_time": 1729434743,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125976,
@@ -3041,6 +3097,14 @@
       "onboard_time": 1729421661,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 20611,
+      "num": 440887,
+      "word": "央视曝光职业背贷人骗局",
+      "onboard_time": 1729434923,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17909,
