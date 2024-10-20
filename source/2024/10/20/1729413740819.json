@@ -1,0 +1,410 @@
+{
+  "runTime": 1729413740819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1438276,
+        "num": 1438276,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849006,
+        "num": 849006,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15438,
+        "num": 677797,
+        "word": "他把世界上肉最多的肉牛引进新疆",
+        "onboard_time": 1729387278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661349,
+        "num": 661349,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638717,
+        "num": 638717,
+        "word": "美国绝密情报遭泄露",
+        "onboard_time": 1729411098,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386518,
+        "num": 386518,
+        "word": "黄圣依杨子 爱是真的不爱也是真的",
+        "onboard_time": 1729405519,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346547,
+        "num": 346547,
+        "word": "小西天保安大叔已经返岗",
+        "onboard_time": 1729407619,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334698,
+        "num": 334698,
+        "word": "王一博车队冠军",
+        "onboard_time": 1729408759,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329766,
+        "num": 329766,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1729409599,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276232,
+        "num": 276232,
+        "word": "马龙生日发文",
+        "onboard_time": 1729403119,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1137958,
+        "num": 274032,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492525,
+        "num": 270389,
+        "word": "男子篮球场飞脚从背后踹倒女孩",
+        "onboard_time": 1729410379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489337,
+        "num": 268680,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454398,
+        "num": 265029,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188090,
+        "num": 261018,
+        "word": "哈马斯回应以军公布辛瓦尔视频画面",
+        "onboard_time": 1729410199,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 379922,
+        "num": 259281,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256137,
+        "num": 256137,
+        "word": "男子飞脚踹倒女孩警方介入处理",
+        "onboard_time": 1729411098,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240424,
+        "num": 240424,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 200548,
+        "num": 240018,
+        "word": "王一博刷新了自己的最快圈速",
+        "onboard_time": 1729413078,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95205,
+        "num": 237718,
+        "word": "小区收楼仅3年139户玻璃自爆",
+        "onboard_time": 1729410740,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565519,
+        "num": 236302,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317519,
+        "num": 235137,
+        "word": "弦子又要讲李茂了",
+        "onboard_time": 1729410678,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265473,
+        "num": 234675,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233532,
+        "num": 233532,
+        "word": "高校女厕坑位旁发现摄像头",
+        "onboard_time": 1729408698,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227280,
+        "num": 227280,
+        "word": "当我买狗窝时忘了看尺寸",
+        "onboard_time": 1729412298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214926,
+        "num": 214926,
+        "word": "失聪女博士与丈夫在清华实验室相遇",
+        "onboard_time": 1729412358,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165661,
+        "num": 214416,
+        "word": "老教授去世5年捐款仍年年按时到账",
+        "onboard_time": 1729411339,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15448,
+        "num": 208069,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178317,
+        "num": 200889,
+        "word": "付航的获奖感言",
+        "onboard_time": 1729409300,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171520,
+        "num": 200522,
+        "word": "张新成 我还年轻啥都能演啥都想演",
+        "onboard_time": 1729413019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195953,
+        "num": 195953,
+        "word": "看滔搏比赛 破防",
+        "onboard_time": 1729412779,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "小米15",
+        "onboard_time": 1729400119,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177452,
+        "num": 177452,
+        "word": "胖东来进京能火多久",
+        "onboard_time": 1729406058,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155864,
+        "num": 155864,
+        "word": "杨超越超绝松弛感",
+        "onboard_time": 1729410318,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153453,
+        "num": 153453,
+        "word": "苏有朋开口梦回五阿哥",
+        "onboard_time": 1729411940,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150860,
+        "num": 150860,
+        "word": "法考",
+        "onboard_time": 1729399039,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131948,
+        "num": 131948,
+        "word": "鲜肉9小时没冷藏变臭肉",
+        "onboard_time": 1729400959,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128914,
+        "num": 128914,
+        "word": "年轻人为什么爱上了毛绒玩具",
+        "onboard_time": 1729408278,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128349,
+        "num": 128349,
+        "word": "覃海洋夺冠后狠狠拍水",
+        "onboard_time": 1729396820,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117385,
+        "num": 117385,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4138,
+        "num": 116826,
+        "word": "这就是大美新疆",
+        "onboard_time": 1729307719,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116815,
+        "num": 116815,
+        "word": "网红为燃气爆炸烧伤妈妈捐款30万",
+        "onboard_time": 1729408400,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113655,
+        "num": 113655,
+        "word": "贾静雯不顾女儿反对临时剪短发",
+        "onboard_time": 1729402338,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111437,
+        "num": 111437,
+        "word": "张真源还是不适应应援",
+        "onboard_time": 1729412119,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110270,
+        "num": 110270,
+        "word": "第32届金鹰奖颁奖晚会节目单",
+        "onboard_time": 1729403959,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99671,
+        "num": 99671,
+        "word": "潘展乐无缘200自决赛",
+        "onboard_time": 1729393579,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96125,
+        "num": 96125,
+        "word": "小交警贴脸开大让路人戴头盔",
+        "onboard_time": 1729405459,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94595,
+        "num": 94595,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77535,
+        "num": 77535,
+        "word": "林诗栋晒启程照",
+        "onboard_time": 1729410199,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80863,
+        "num": 76244,
+        "word": "金鹰奖颁授典礼座位图",
+        "onboard_time": 1729402638,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话金砖#"
+    }
+  }
+}
