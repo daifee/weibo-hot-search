@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729428975329,
+  "endTime": 1729430731963,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -121,6 +121,14 @@
       "onboard_time": 1727789425,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4037026,
+      "num": 4037026,
+      "word": "何炅 三十年真心换真心",
+      "onboard_time": 1729428681,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 3993999,
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 1944898,
-      "num": 290497,
+      "num": 297804,
       "word": "黄圣依仍然想离婚",
       "onboard_time": 1729403600,
       "rank": 10,
@@ -1659,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1630402,
+      "num": 592720,
+      "word": "高叶金鹰奖最佳女配角",
+      "onboard_time": 1729430183,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1629008,
       "num": 516877,
       "word": "李静从160斤瘦到了105斤",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1728733699,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1560425,
-      "num": 515075,
-      "word": "何炅 三十年真心换真心",
-      "onboard_time": 1729428681,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 1548865,
@@ -7651,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713445,
+      "num": 477325,
+      "word": "赵丽颖于和伟一起亮相",
+      "onboard_time": 1729430002,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 712625,
       "num": 509672,
       "word": "新西兰一艘5700吨军舰沉没",
@@ -9465,6 +9481,14 @@
       "onboard_time": 1728565281,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606113,
+      "num": 473495,
+      "word": "没有金鹰女神",
+      "onboard_time": 1729430121,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 604976,
@@ -11387,6 +11411,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 513984,
+      "num": 314252,
+      "word": "东北雨姐极速坠落",
+      "onboard_time": 1729429641,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 513853,
       "num": 591276,
       "word": "奔驰客服回应215万的迈巴赫漏水",
@@ -11627,6 +11659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 502653,
+      "num": 502653,
+      "word": "小米芯片",
+      "onboard_time": 1729430002,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 502171,
       "num": 502171,
       "word": "联合利剑2024B演习开始了",
@@ -11825,6 +11865,14 @@
       "onboard_time": 1728193398,
       "rank": 16,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 495912,
+      "num": 312155,
+      "word": "男子将3岁女儿抛向大货车被判死刑",
+      "onboard_time": 1729422981,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495631,
@@ -12979,6 +13027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453999,
+      "num": 453999,
+      "word": "康辉来了",
+      "onboard_time": 1729426761,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453798,
       "num": 453798,
       "word": "亚锦赛",
@@ -13336,14 +13392,6 @@
       "word": "黄圣依杨子参加再见爱人",
       "onboard_time": 1728552020,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 440372,
-      "num": 271607,
-      "word": "康辉来了",
-      "onboard_time": 1729426761,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -14259,14 +14307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 406641,
-      "num": 270064,
-      "word": "男子将3岁女儿抛向大货车被判死刑",
-      "onboard_time": 1729422981,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406610,
       "num": 406610,
       "word": "Tian辛苦了",
@@ -15121,6 +15161,14 @@
       "onboard_time": 1728718219,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 380243,
+      "num": 310457,
+      "word": "原地超慢跑减掉54斤",
+      "onboard_time": 1729424360,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 379903,
@@ -16443,6 +16491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 345841,
+      "num": 345841,
+      "word": "GEN对战FLY",
+      "onboard_time": 1729426520,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "王楚钦梁靖崑回应夺冠",
@@ -16505,14 +16561,6 @@
       "onboard_time": 1728485001,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343649,
-      "num": 267759,
-      "word": "原地超慢跑减掉54斤",
-      "onboard_time": 1729424360,
-      "rank": 25,
-      "category": "运动健身"
     },
     {
       "raw_hot": 343644,
@@ -16913,6 +16961,14 @@
       "onboard_time": 1728883759,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 334857,
+      "num": 252813,
+      "word": "TES好好学",
+      "onboard_time": 1729429521,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 334491,
@@ -17563,6 +17619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320546,
+      "num": 320546,
+      "word": "女子回应儿子疑遭前夫女友虐待致死",
+      "onboard_time": 1729424181,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320496,
       "num": 320496,
       "word": "张本智和vs吴晙诚",
@@ -17633,14 +17697,6 @@
       "onboard_time": 1729175243,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318027,
-      "num": 318027,
-      "word": "女子回应儿子疑遭前夫女友虐待致死",
-      "onboard_time": 1729424181,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317765,
@@ -19539,6 +19595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286095,
+      "num": 286095,
+      "word": "张雪迎吃螃蟹吃出个冠军",
+      "onboard_time": 1729428741,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285777,
       "num": 204680,
       "word": "张纪中妻子顺产转剖腹产",
@@ -20305,14 +20369,6 @@
       "onboard_time": 1728950960,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275169,
-      "num": 275169,
-      "word": "GEN对战FLY",
-      "onboard_time": 1729426520,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 274826,
@@ -21401,6 +21457,14 @@
       "onboard_time": 1728985039,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261100,
+      "num": 261100,
+      "word": "权志龙染了红发",
+      "onboard_time": 1729430242,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 261013,
@@ -22939,6 +23003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241245,
+      "num": 241245,
+      "word": "黄俊捷哭了",
+      "onboard_time": 1729428140,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241099,
       "num": 372381,
       "word": "国庆假期倒数第2天",
@@ -23480,6 +23552,14 @@
       "word": "老师捡手机归还失主送全班汉堡",
       "onboard_time": 1728528258,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234443,
+      "num": 316099,
+      "word": "非遗蜀绣上的花花连小耳朵都是细节",
+      "onboard_time": 1729430362,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -24937,14 +25017,6 @@
       "onboard_time": 1727829978,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 220044,
-      "num": 220044,
-      "word": "黄俊捷哭了",
-      "onboard_time": 1729428140,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 220033,
@@ -28691,6 +28763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198003,
+      "num": 198003,
+      "word": "FLY淘汰赛先下一城",
+      "onboard_time": 1729429221,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197997,
       "num": 197997,
       "word": "沪指高开10.13%",
@@ -30040,14 +30120,6 @@
       "word": "杨超越超绝松弛感",
       "onboard_time": 1729410318,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192548,
-      "num": 192548,
-      "word": "张雪迎吃螃蟹吃出个冠军",
-      "onboard_time": 1729428741,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -35003,6 +35075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166940,
+      "num": 496883,
+      "word": "人民网评长丰学校臭肉事件",
+      "onboard_time": 1729429402,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166857,
       "num": 166857,
       "word": "小丑2后劲好大",
@@ -37955,6 +38035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153166,
+      "num": 153166,
+      "word": "警方回应男子篮球场飞踹女孩",
+      "onboard_time": 1729430423,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153124,
       "num": 153124,
       "word": "花海达成KPL首个3000击杀",
@@ -39641,6 +39729,14 @@
       "onboard_time": 1729266621,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145000,
+      "num": 145000,
+      "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+      "onboard_time": 1729430481,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144976,
@@ -41929,6 +42025,14 @@
       "onboard_time": 1727929639,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134313,
+      "num": 275667,
+      "word": "未来3天又来一股新冷空气",
+      "onboard_time": 1729428441,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134182,
@@ -48939,6 +49043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93436,
+      "num": 319087,
+      "word": "王景春金鹰奖最佳男配角",
+      "onboard_time": 1729430602,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93396,
       "num": 414421,
       "word": "三折叠怎么折都很妙",
@@ -51275,6 +51387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72965,
+      "num": 235900,
+      "word": "大连舰女兵勇敢坚定的发言太飒了",
+      "onboard_time": 1729428921,
+      "rank": 29,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 72958,
       "num": 458976,
       "word": "以空袭叙首都居民楼致7死11伤",
@@ -52049,14 +52169,6 @@
       "onboard_time": 1727782159,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 64978,
-      "num": 275667,
-      "word": "未来3天又来一股新冷空气",
-      "onboard_time": 1729428441,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64969,
@@ -53073,14 +53185,6 @@
       "onboard_time": 1728943633,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57025,
-      "num": 235900,
-      "word": "大连舰女兵勇敢坚定的发言太飒了",
-      "onboard_time": 1729428921,
-      "rank": 29,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 56932,
@@ -56459,6 +56563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36322,
+      "num": 354950,
+      "word": "深蓝S05太能装了",
+      "onboard_time": 1729429461,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36312,
       "num": 122179,
       "word": "逼疯全网家长的吴彬彬同学到底是谁",
@@ -57244,7 +57356,7 @@
     },
     {
       "raw_hot": 32922,
-      "num": 281331,
+      "num": 348710,
       "word": "能开上路的Vlog相机",
       "onboard_time": 1729427660,
       "rank": 40,

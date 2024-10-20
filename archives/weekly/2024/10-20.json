@@ -1,7 +1,15 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729428975329,
+  "endTime": 1729430731963,
   "band_list": [
+    {
+      "raw_hot": 4037026,
+      "num": 4037026,
+      "word": "何炅 三十年真心换真心",
+      "onboard_time": 1729428681,
+      "rank": 5,
+      "category": "剧集"
+    },
     {
       "raw_hot": 3242927,
       "num": 388761,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1944898,
-      "num": 290497,
+      "num": 297804,
       "word": "黄圣依仍然想离婚",
       "onboard_time": 1729403600,
       "rank": 10,
@@ -59,11 +67,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1560425,
-      "num": 515075,
-      "word": "何炅 三十年真心换真心",
-      "onboard_time": 1729428681,
-      "rank": 5,
+      "raw_hot": 1630402,
+      "num": 592720,
+      "word": "高叶金鹰奖最佳女配角",
+      "onboard_time": 1729430183,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 713445,
+      "num": 477325,
+      "word": "赵丽颖于和伟一起亮相",
+      "onboard_time": 1729430002,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 700562,
       "num": 325396,
       "word": "网约车时速150迈刹不住事故判决",
@@ -409,6 +425,14 @@
       "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606113,
+      "num": 473495,
+      "word": "没有金鹰女神",
+      "onboard_time": 1729430121,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 596215,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513984,
+      "num": 314252,
+      "word": "东北雨姐极速坠落",
+      "onboard_time": 1729429641,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 510686,
       "num": 510686,
       "word": "法考",
@@ -545,6 +577,22 @@
       "onboard_time": 1729418000,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 502653,
+      "num": 502653,
+      "word": "小米芯片",
+      "onboard_time": 1729430002,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 495912,
+      "num": 312155,
+      "word": "男子将3岁女儿抛向大货车被判死刑",
+      "onboard_time": 1729422981,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493575,
@@ -635,8 +683,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 440372,
-      "num": 271607,
+      "raw_hot": 453999,
+      "num": 453999,
       "word": "康辉来了",
       "onboard_time": 1729426761,
       "rank": 28,
@@ -673,14 +721,6 @@
       "onboard_time": 1729422860,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406641,
-      "num": 270064,
-      "word": "男子将3岁女儿抛向大货车被判死刑",
-      "onboard_time": 1729422981,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406610,
@@ -737,6 +777,14 @@
       "onboard_time": 1729396820,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380243,
+      "num": 310457,
+      "word": "原地超慢跑减掉54斤",
+      "onboard_time": 1729424360,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 377039,
@@ -811,12 +859,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 343649,
-      "num": 267759,
-      "word": "原地超慢跑减掉54斤",
-      "onboard_time": 1729424360,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 345841,
+      "num": 345841,
+      "word": "GEN对战FLY",
+      "onboard_time": 1729426520,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 343560,
@@ -851,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334857,
+      "num": 252813,
+      "word": "TES好好学",
+      "onboard_time": 1729429521,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 327766,
       "num": 327766,
       "word": "千万级网红被举报涉嫌组织赌博",
@@ -867,20 +923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320546,
+      "num": 320546,
+      "word": "女子回应儿子疑遭前夫女友虐待致死",
+      "onboard_time": 1729424181,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320094,
       "num": 272040,
       "word": "迪丽热巴重庆活动",
       "onboard_time": 1729407018,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318027,
-      "num": 318027,
-      "word": "女子回应儿子疑遭前夫女友虐待致死",
-      "onboard_time": 1729424181,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315268,
@@ -979,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286095,
+      "num": 286095,
+      "word": "张雪迎吃螃蟹吃出个冠军",
+      "onboard_time": 1729428741,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285513,
       "num": 285513,
       "word": "高考全省第二北漂5年后的生活",
@@ -1019,20 +1083,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275169,
-      "num": 275169,
-      "word": "GEN对战FLY",
-      "onboard_time": 1729426520,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 270308,
       "num": 270308,
       "word": "粉笔模考",
       "onboard_time": 1729393939,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261100,
+      "num": 261100,
+      "word": "权志龙染了红发",
+      "onboard_time": 1729430242,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 259858,
@@ -1123,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241245,
+      "num": 241245,
+      "word": "黄俊捷哭了",
+      "onboard_time": 1729428140,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237027,
       "num": 252023,
       "word": "高校女厕坑位旁发现摄像头",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1729426761,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234443,
+      "num": 316099,
+      "word": "非遗蜀绣上的花花连小耳朵都是细节",
+      "onboard_time": 1729430362,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231895,
@@ -1209,14 +1289,6 @@
       "onboard_time": 1729346301,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 220044,
-      "num": 220044,
-      "word": "黄俊捷哭了",
-      "onboard_time": 1729428140,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 215206,
@@ -1339,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198003,
+      "num": 198003,
+      "word": "FLY淘汰赛先下一城",
+      "onboard_time": 1729429221,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197282,
       "num": 197282,
       "word": "王一博香槟洗礼",
@@ -1424,14 +1504,6 @@
       "word": "杨超越超绝松弛感",
       "onboard_time": 1729410318,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192548,
-      "num": 192548,
-      "word": "张雪迎吃螃蟹吃出个冠军",
-      "onboard_time": 1729428741,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1651,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166940,
+      "num": 496883,
+      "word": "人民网评长丰学校臭肉事件",
+      "onboard_time": 1729429402,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164468,
       "num": 164468,
       "word": "臭肉事件",
@@ -1737,6 +1817,14 @@
       "onboard_time": 1729333160,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153166,
+      "num": 153166,
+      "word": "警方回应男子篮球场飞踹女孩",
+      "onboard_time": 1729430423,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152392,
@@ -1843,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145000,
+      "num": 145000,
+      "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+      "onboard_time": 1729430481,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143536,
       "num": 143536,
       "word": "奔跑吧全员手写东巴文公益路透",
@@ -1929,6 +2025,14 @@
       "onboard_time": 1729425079,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134313,
+      "num": 275667,
+      "word": "未来3天又来一股新冷空气",
+      "onboard_time": 1729428441,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134171,
@@ -2291,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93436,
+      "num": 319087,
+      "word": "王景春金鹰奖最佳男配角",
+      "onboard_time": 1729430602,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90492,
       "num": 90492,
       "word": "TES教练",
@@ -2403,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72965,
+      "num": 235900,
+      "word": "大连舰女兵勇敢坚定的发言太飒了",
+      "onboard_time": 1729428921,
+      "rank": 29,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 71394,
       "num": 77760,
       "word": "金秀贤唱了IU的只有我不知道的故事",
@@ -2424,14 +2544,6 @@
       "word": "警方回应贩婴事件",
       "onboard_time": 1729401918,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64978,
-      "num": 275667,
-      "word": "未来3天又来一股新冷空气",
-      "onboard_time": 1729428441,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2457,14 +2569,6 @@
       "onboard_time": 1729425620,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57025,
-      "num": 235900,
-      "word": "大连舰女兵勇敢坚定的发言太飒了",
-      "onboard_time": 1729428921,
-      "rank": 29,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 53265,
@@ -2619,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36322,
+      "num": 354950,
+      "word": "深蓝S05太能装了",
+      "onboard_time": 1729429461,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36188,
       "num": 40330,
       "word": "黄圣依是在浪姐觉醒的吧",
@@ -2644,7 +2756,7 @@
     },
     {
       "raw_hot": 32922,
-      "num": 281331,
+      "num": 348710,
       "word": "能开上路的Vlog相机",
       "onboard_time": 1729427660,
       "rank": 40,
