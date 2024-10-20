@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729405784974,
+  "endTime": 1729406592275,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -41,6 +41,14 @@
       "onboard_time": 1729385778,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1339379,
+      "num": 1339379,
+      "word": "杨子 气笑了",
+      "onboard_time": 1729404980,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1219719,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 828959,
-      "num": 452846,
+      "num": 512880,
       "word": "马龙生日发文",
       "onboard_time": 1729403119,
       "rank": 3,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 743154,
-      "num": 443879,
+      "num": 468767,
       "word": "贾静雯不顾女儿反对临时剪短发",
       "onboard_time": 1729402338,
       "rank": 27,
@@ -177,14 +185,6 @@
       "onboard_time": 1729346842,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 649708,
-      "num": 353850,
-      "word": "杨子 气笑了",
-      "onboard_time": 1729404980,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 596215,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547153,
+      "num": 547153,
+      "word": "胖东来进京能火多久",
+      "onboard_time": 1729405700,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540184,
       "num": 540184,
       "word": "29岁自律女生在村里高能量的一天",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 492305,
-      "num": 339981,
+      "num": 358257,
       "word": "湖南一纪委干部在工作地坠楼身亡",
       "onboard_time": 1729402278,
       "rank": 37,
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415787,
-      "num": 415787,
-      "word": "胖东来进京能火多久",
-      "onboard_time": 1729405700,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406610,
       "num": 406610,
       "word": "Tian辛苦了",
@@ -409,6 +409,14 @@
       "onboard_time": 1729396939,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398416,
+      "num": 356652,
+      "word": "花车上的迪丽热巴",
+      "onboard_time": 1729405760,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 393681,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302686,
+      "num": 409611,
+      "word": "鲜肉9小时没冷藏变臭肉",
+      "onboard_time": 1729400959,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297403,
       "num": 297403,
       "word": "嚣张骗子要挟管住舌头平安无事",
@@ -617,14 +633,6 @@
       "onboard_time": 1729381636,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236987,
-      "num": 409611,
-      "word": "鲜肉9小时没冷藏变臭肉",
-      "onboard_time": 1729400959,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231105,
@@ -795,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189937,
-      "num": 189937,
-      "word": "花车上的迪丽热巴",
-      "onboard_time": 1729405760,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188759,
       "num": 339685,
       "word": "陆嘉学 发疯纯爱",
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181863,
+      "num": 181863,
+      "word": "第32届金鹰奖颁奖晚会节目单",
+      "onboard_time": 1729403959,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "程靖淇 老友记",
@@ -857,6 +865,14 @@
       "onboard_time": 1729404799,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173088,
+      "num": 153144,
+      "word": "逆水寒喜羊羊与灰太狼联动",
+      "onboard_time": 1729405819,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 171356,
@@ -939,14 +955,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 159754,
-      "num": 159754,
-      "word": "第32届金鹰奖颁奖晚会节目单",
-      "onboard_time": 1729403959,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159712,
       "num": 159712,
       "word": "柏浪涛 刑法的神",
@@ -963,12 +971,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154414,
+      "num": 413335,
+      "word": "要让给孩子吃臭肉的幕后黑手付出代价",
+      "onboard_time": 1729404499,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154096,
       "num": 154096,
       "word": "黑灯发文",
       "onboard_time": 1729333160,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152714,
+      "num": 152714,
+      "word": "人贩子一手数钱一手抱娃",
+      "onboard_time": 1729405400,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152392,
+      "num": 152392,
+      "word": "贩婴现场14天男婴被多次抬价卖15万",
+      "onboard_time": 1729406179,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151473,
@@ -979,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149751,
-      "num": 413335,
-      "word": "要让给孩子吃臭肉的幕后黑手付出代价",
-      "onboard_time": 1729404499,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 149878,
+      "num": 149878,
+      "word": "行政法",
+      "onboard_time": 1729405939,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 149451,
@@ -1091,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134171,
+      "num": 134171,
+      "word": "泫雅龙俊亨在日本度蜜月",
+      "onboard_time": 1729403959,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133003,
       "num": 133003,
       "word": "胖东来攻入北京",
@@ -1163,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122383,
+      "num": 122383,
+      "word": "小交警贴脸开大让路人戴头盔",
+      "onboard_time": 1729405459,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121809,
       "num": 266506,
       "word": "高考让锦绣安宁拍明白了",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1729336699,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114516,
-      "num": 114516,
-      "word": "人贩子一手数钱一手抱娃",
-      "onboard_time": 1729405400,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110135,
@@ -1435,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51381,
+      "num": 269030,
+      "word": "谭盾说周深彩排时间少但最完整",
+      "onboard_time": 1729406179,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50709,
       "num": 50709,
       "word": "TES对战T1",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1729398558,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48248,
+      "num": 252993,
+      "word": "黄圣依杨子 爱是真的不爱也是真的",
+      "onboard_time": 1729405519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 48106,
@@ -1571,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29704,
+      "num": 398053,
+      "word": "遗嘱字迹模糊有法律效力吗",
+      "onboard_time": 1729404858,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27940,
       "num": 251218,
       "word": "11.11集卡新玩法",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1729364951,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25382,
-      "num": 398053,
-      "word": "遗嘱字迹模糊有法律效力吗",
-      "onboard_time": 1729404858,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24081,
@@ -1671,14 +1727,6 @@
       "num": 408528,
       "word": "姚晨回母校报道",
       "onboard_time": 1729402099,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 10639,
-      "num": 250036,
-      "word": "黄圣依杨子 爱是真的不爱也是真的",
-      "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
     },

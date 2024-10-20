@@ -1,0 +1,410 @@
+{
+  "runTime": 1729406592275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1339379,
+        "num": 1339379,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547153,
+        "num": 547153,
+        "word": "胖东来进京能火多久",
+        "onboard_time": 1729406058,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5464,
+        "num": 537397,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800130,
+        "num": 512880,
+        "word": "马龙生日发文",
+        "onboard_time": 1729403119,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656678,
+        "num": 503501,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565038,
+        "num": 468767,
+        "word": "贾静雯不顾女儿反对临时剪短发",
+        "onboard_time": 1729402338,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467758,
+        "num": 467758,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394180,
+        "num": 394180,
+        "word": "小米15",
+        "onboard_time": 1729400119,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 391251,
+        "num": 391251,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29704,
+        "num": 383360,
+        "word": "遗嘱字迹模糊有法律效力吗",
+        "onboard_time": 1729404858,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3237397,
+        "num": 378541,
+        "word": "黄圣依仍然选择离婚",
+        "onboard_time": 1729403600,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 708065,
+        "num": 369515,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471994,
+        "num": 358257,
+        "word": "湖南一纪委干部在工作地坠楼身亡",
+        "onboard_time": 1729402278,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398416,
+        "num": 356652,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348939,
+        "num": 348939,
+        "word": "两岁宝宝右耳里掏出一克拉黄钻",
+        "onboard_time": 1729399638,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304482,
+        "num": 304482,
+        "word": "马斯克每天随机向选民发100万美元",
+        "onboard_time": 1729395498,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 302686,
+        "num": 302686,
+        "word": "鲜肉9小时没冷藏变臭肉",
+        "onboard_time": 1729400959,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51381,
+        "num": 269030,
+        "word": "谭盾说周深彩排时间少但最完整",
+        "onboard_time": 1729406179,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262797,
+        "num": 262797,
+        "word": "法考",
+        "onboard_time": 1729399039,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 48248,
+        "num": 252993,
+        "word": "黄圣依杨子 爱是真的不爱也是真的",
+        "onboard_time": 1729405519,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836826,
+        "num": 242305,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296088,
+        "num": 233261,
+        "word": "中介自称今年贩婴超十个月收入8万",
+        "onboard_time": 1729395018,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406113,
+        "num": 219510,
+        "word": "长期熬夜身体或会发臭",
+        "onboard_time": 1729400719,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209994,
+        "num": 209994,
+        "word": "潘展乐无缘200自决赛",
+        "onboard_time": 1729393579,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181863,
+        "num": 181863,
+        "word": "第32届金鹰奖颁奖晚会节目单",
+        "onboard_time": 1729403959,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176837,
+        "num": 176837,
+        "word": "安妮海瑟薇米卡同框合照",
+        "onboard_time": 1729403720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173416,
+        "num": 173416,
+        "word": "覃海洋夺冠后狠狠拍水",
+        "onboard_time": 1729396820,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170912,
+        "num": 170912,
+        "word": "小西天保安涨工资笑说沾了游客的光",
+        "onboard_time": 1729396939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154414,
+        "num": 154414,
+        "word": "要让给孩子吃臭肉的幕后黑手付出代价",
+        "onboard_time": 1729404499,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136760,
+        "num": 153145,
+        "word": "李现 演员应该是橡皮泥",
+        "onboard_time": 1729402278,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173088,
+        "num": 153144,
+        "word": "逆水寒喜羊羊与灰太狼联动",
+        "onboard_time": 1729405819,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152714,
+        "num": 152714,
+        "word": "人贩子一手数钱一手抱娃",
+        "onboard_time": 1729405400,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183669,
+        "num": 152556,
+        "word": "景德镇车祸受害人家属称绝不谅解",
+        "onboard_time": 1729402638,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152392,
+        "num": 152392,
+        "word": "贩婴现场14天男婴被多次抬价卖15万",
+        "onboard_time": 1729406179,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 149878,
+        "word": "行政法",
+        "onboard_time": 1729405939,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141977,
+        "num": 141977,
+        "word": "柏浪涛 刑法的神",
+        "onboard_time": 1729404918,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134171,
+        "num": 134171,
+        "word": "泫雅龙俊亨在日本度蜜月",
+        "onboard_time": 1729403959,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160553,
+        "num": 131917,
+        "word": "一家三口被撞身亡案司机父亲发声",
+        "onboard_time": 1729385778,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129111,
+        "num": 129111,
+        "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
+        "onboard_time": 1729397838,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123905,
+        "num": 123905,
+        "word": "宋亚轩上官婉儿堪称教学局",
+        "onboard_time": 1729402698,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123267,
+        "num": 123267,
+        "word": "985毕业男子捡垃圾8年实现财务自由",
+        "onboard_time": 1729388658,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122383,
+        "num": 122383,
+        "word": "小交警贴脸开大让路人戴头盔",
+        "onboard_time": 1729405459,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 116622,
+        "word": "景区回应网传小西天保安大叔被辞退",
+        "onboard_time": 1729398978,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115683,
+        "num": 115683,
+        "word": "没人告诉武艺挨打是可以躲的吗",
+        "onboard_time": 1729403419,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109478,
+        "num": 109478,
+        "word": "张若昀李沁李现同框热聊",
+        "onboard_time": 1729395798,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109090,
+        "num": 109090,
+        "word": "马龙想听到大家说马龙再来一球",
+        "onboard_time": 1729404678,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106976,
+        "num": 106976,
+        "word": "法考主观题",
+        "onboard_time": 1729400239,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104717,
+        "num": 104717,
+        "word": "RIIZE被上海硬控",
+        "onboard_time": 1729399399,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100444,
+        "num": 100444,
+        "word": "战至巅峰3半决赛现场直击",
+        "onboard_time": 1729405040,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98365,
+        "num": 98365,
+        "word": "369",
+        "onboard_time": 1729351760,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话金砖#"
+    }
+  }
+}
