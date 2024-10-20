@@ -1,0 +1,410 @@
+{
+  "runTime": 1729402693700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 791732,
+        "num": 1126677,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564609,
+        "num": 564609,
+        "word": "潘展乐无缘200自决赛",
+        "onboard_time": 1729393579,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6169,
+        "num": 554338,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138824,
+        "num": 554056,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551715,
+        "num": 551715,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536327,
+        "num": 536327,
+        "word": "小米15",
+        "onboard_time": 1729400119,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 529267,
+        "num": 529267,
+        "word": "中介自称今年贩婴超十个月收入8万",
+        "onboard_time": 1729395018,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510686,
+        "num": 510686,
+        "word": "法考",
+        "onboard_time": 1729399039,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69310,
+        "num": 499158,
+        "word": "警方回应贩婴事件",
+        "onboard_time": 1729401918,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488649,
+        "num": 488649,
+        "word": "记者卧底贩婴现场",
+        "onboard_time": 1729394958,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35647,
+        "num": 480405,
+        "word": "当游戏神话遇到汽车神话",
+        "onboard_time": 1729398800,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1660059,
+        "num": 475050,
+        "word": "两岁宝宝右耳里掏出一克拉黄钻",
+        "onboard_time": 1729399638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207136,
+        "num": 457055,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288457,
+        "num": 445704,
+        "word": "张若昀李沁李现同框热聊",
+        "onboard_time": 1729395798,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63275,
+        "num": 434252,
+        "word": "带状疱疹危害有多大",
+        "onboard_time": 1729400419,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 595221,
+        "num": 422987,
+        "word": "马斯克每天随机向选民发100万美元",
+        "onboard_time": 1729395498,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106934,
+        "num": 416009,
+        "word": "李现 演员应该是橡皮泥",
+        "onboard_time": 1729402278,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411488,
+        "num": 411488,
+        "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
+        "onboard_time": 1729397838,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150412,
+        "num": 409611,
+        "word": "鲜肉9小时没冷藏变臭肉",
+        "onboard_time": 1729400959,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12115,
+        "num": 408528,
+        "word": "姚晨回母校报道",
+        "onboard_time": 1729402099,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35380,
+        "num": 405344,
+        "word": "谷子如何成为塑料黄金的",
+        "onboard_time": 1729400838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864370,
+        "num": 404310,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491022,
+        "num": 401130,
+        "word": "一家三口被撞身亡案司机父亲发声",
+        "onboard_time": 1729385778,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467676,
+        "num": 399851,
+        "word": "长期熬夜身体或会发臭",
+        "onboard_time": 1729400719,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 398591,
+        "num": 398591,
+        "word": "小西天保安涨工资笑说沾了游客的光",
+        "onboard_time": 1729396939,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338938,
+        "num": 338938,
+        "word": "覃海洋夺冠后狠狠拍水",
+        "onboard_time": 1729396820,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80597,
+        "num": 270088,
+        "word": "一名残障未婚女的宅基地执念",
+        "onboard_time": 1729400659,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264178,
+        "num": 264178,
+        "word": "贾静雯不顾女儿反对临时剪短发",
+        "onboard_time": 1729402338,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245972,
+        "num": 245972,
+        "word": "以报复伊朗计划外泄",
+        "onboard_time": 1729396397,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231203,
+        "num": 231203,
+        "word": "留几手 去爹味版",
+        "onboard_time": 1729395560,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242080,
+        "num": 229370,
+        "word": "这可能是小猫睡得最暖的一次",
+        "onboard_time": 1729397359,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227189,
+        "num": 227189,
+        "word": "RIIZE被上海硬控",
+        "onboard_time": 1729399399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212328,
+        "num": 212328,
+        "word": "法考主观题",
+        "onboard_time": 1729400239,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209926,
+        "num": 209926,
+        "word": "白鹿拍的日照金山",
+        "onboard_time": 1729385057,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208442,
+        "num": 208442,
+        "word": "景区回应网传小西天保安大叔被辞退",
+        "onboard_time": 1729398978,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191796,
+        "num": 191796,
+        "word": "985毕业男子捡垃圾8年实现财务自由",
+        "onboard_time": 1729388658,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186435,
+        "num": 186435,
+        "word": "369",
+        "onboard_time": 1729351760,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 168271,
+        "word": "湖南一纪委干部在工作地坠楼身亡",
+        "onboard_time": 1729402278,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167807,
+        "num": 167807,
+        "word": "金鹰奖颁授典礼座位图",
+        "onboard_time": 1729402638,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160871,
+        "num": 160871,
+        "word": "时代少年团赢了重庆狼队",
+        "onboard_time": 1729399279,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159667,
+        "num": 159667,
+        "word": "李晨拍的日照金山",
+        "onboard_time": 1729398738,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143536,
+        "num": 143536,
+        "word": "奔跑吧全员手写东巴文公益路透",
+        "onboard_time": 1729402099,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140632,
+        "num": 140632,
+        "word": "尤长靖总决赛第一",
+        "onboard_time": 1729379834,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 137817,
+        "word": "邪恶菠萝蜜",
+        "onboard_time": 1729387579,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133003,
+        "num": 133003,
+        "word": "胖东来攻入北京",
+        "onboard_time": 1729402520,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132060,
+        "num": 132060,
+        "word": "网约车时速150迈刹不住事故判决",
+        "onboard_time": 1729392737,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125154,
+        "num": 125154,
+        "word": "景德镇车祸受害人家属称绝不谅解",
+        "onboard_time": 1729402638,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123427,
+        "num": 123427,
+        "word": "韩综模仿Hanni出席国会监查",
+        "onboard_time": 1729381697,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120189,
+        "num": 120189,
+        "word": "TheShy看369凯南一脸懵",
+        "onboard_time": 1729384938,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 119921,
+        "word": "王一博正赛第二回合",
+        "onboard_time": 1729398439,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话金砖#"
+    }
+  }
+}
