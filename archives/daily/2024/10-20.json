@@ -1,7 +1,15 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729402693700,
+  "endTime": 1729405784974,
   "band_list": [
+    {
+      "raw_hot": 3242927,
+      "num": 388761,
+      "word": "黄圣依仍然选择离婚",
+      "onboard_time": 1729403600,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2479436,
       "num": 457055,
@@ -75,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 864370,
+      "raw_hot": 912967,
       "num": 404310,
       "word": "女子把降压药掰开吃致昏迷",
       "onboard_time": 1729401019,
@@ -107,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 828959,
+      "num": 452846,
+      "word": "马龙生日发文",
+      "onboard_time": 1729403119,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 827168,
       "num": 869526,
       "word": "369",
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 743154,
+      "num": 443879,
+      "word": "贾静雯不顾女儿反对临时剪短发",
+      "onboard_time": 1729402338,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741444,
       "num": 1118631,
       "word": "潘展乐回应落后0.03秒",
@@ -153,6 +177,14 @@
       "onboard_time": 1729346842,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 649708,
+      "num": 353850,
+      "word": "杨子 气笑了",
+      "onboard_time": 1729404980,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 596215,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492305,
+      "num": 339981,
+      "word": "湖南一纪委干部在工作地坠楼身亡",
+      "onboard_time": 1729402278,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483797,
       "num": 483797,
       "word": "GEN LPL最后的希望",
@@ -329,6 +369,14 @@
       "onboard_time": 1729343779,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415787,
+      "num": 415787,
+      "word": "胖东来进京能火多久",
+      "onboard_time": 1729405700,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406610,
@@ -531,14 +579,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 264178,
-      "num": 264178,
-      "word": "贾静雯不顾女儿反对临时剪短发",
-      "onboard_time": 1729402338,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258236,
       "num": 258236,
       "word": "这可能是小猫睡得最暖的一次",
@@ -579,12 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236987,
+      "num": 409611,
+      "word": "鲜肉9小时没冷藏变臭肉",
+      "onboard_time": 1729400959,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
       "onboard_time": 1729339219,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230899,
+      "num": 230899,
+      "word": "景德镇车祸受害人家属称绝不谅解",
+      "onboard_time": 1729402638,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230578,
@@ -699,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194944,
+      "num": 194944,
+      "word": "马龙想听到大家说马龙再来一球",
+      "onboard_time": 1729404678,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193095,
       "num": 193095,
       "word": "王一博正赛第二回合",
@@ -721,6 +785,22 @@
       "onboard_time": 1729357875,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191011,
+      "num": 191011,
+      "word": "安妮海瑟薇米卡同框合照",
+      "onboard_time": 1729403720,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189937,
+      "num": 189937,
+      "word": "花车上的迪丽热巴",
+      "onboard_time": 1729405760,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 188759,
@@ -771,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173750,
+      "num": 204888,
+      "word": "春花焰",
+      "onboard_time": 1729404799,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171356,
       "num": 171356,
       "word": "Meiko状态",
@@ -803,19 +891,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168271,
-      "num": 168271,
-      "word": "湖南一纪委干部在工作地坠楼身亡",
-      "onboard_time": 1729402278,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "金鹰奖颁授典礼座位图",
       "onboard_time": 1729402638,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163929,
+      "num": 416009,
+      "word": "李现 演员应该是橡皮泥",
+      "onboard_time": 1729402278,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -851,6 +939,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 159754,
+      "num": 159754,
+      "word": "第32届金鹰奖颁奖晚会节目单",
+      "onboard_time": 1729403959,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159712,
+      "num": 159712,
+      "word": "柏浪涛 刑法的神",
+      "onboard_time": 1729404918,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158165,
       "num": 297668,
       "word": "杨天真喜剧之王单口季repo",
@@ -875,11 +979,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150412,
-      "num": 409611,
-      "word": "鲜肉9小时没冷藏变臭肉",
-      "onboard_time": 1729400959,
-      "rank": 42,
+      "raw_hot": 149751,
+      "num": 413335,
+      "word": "要让给孩子吃臭肉的幕后黑手付出代价",
+      "onboard_time": 1729404499,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -897,6 +1001,22 @@
       "onboard_time": 1729349302,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146100,
+      "num": 146100,
+      "word": "没人告诉武艺挨打是可以躲的吗",
+      "onboard_time": 1729403419,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145360,
+      "num": 145360,
+      "word": "四川这碗面要用几十种料",
+      "onboard_time": 1729403659,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 145179,
@@ -1011,20 +1131,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125976,
+      "num": 125976,
+      "word": "宋亚轩上官婉儿堪称教学局",
+      "onboard_time": 1729402698,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125929,
       "num": 125929,
       "word": "梅西连场戴帽",
       "onboard_time": 1729385357,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125154,
-      "num": 125154,
-      "word": "景德镇车祸受害人家属称绝不谅解",
-      "onboard_time": 1729402638,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124719,
@@ -1067,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119262,
+      "num": 119262,
+      "word": "战至巅峰3半决赛现场直击",
+      "onboard_time": 1729405040,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118760,
       "num": 118760,
       "word": "樊振东无情的合影机器",
@@ -1099,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114516,
+      "num": 114516,
+      "word": "人贩子一手数钱一手抱娃",
+      "onboard_time": 1729405400,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
@@ -1121,14 +1257,6 @@
       "onboard_time": 1729386557,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 106934,
-      "num": 416009,
-      "word": "李现 演员应该是橡皮泥",
-      "onboard_time": 1729402278,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 102121,
@@ -1347,6 +1475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 47788,
+      "num": 241891,
+      "word": "周诗雨广州巡演舞台直拍",
+      "onboard_time": 1729404558,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47755,
       "num": 293282,
       "word": "和平精英玩家这么上流的吗",
@@ -1459,12 +1595,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25382,
+      "num": 398053,
+      "word": "遗嘱字迹模糊有法律效力吗",
+      "onboard_time": 1729404858,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24081,
       "num": 24081,
       "word": "王一博85号赛车手准备就绪",
       "onboard_time": 1729365912,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22340,
+      "num": 120594,
+      "word": "这届年轻人过冬既要city又要warm",
+      "onboard_time": 1729403478,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17909,
@@ -1519,6 +1671,14 @@
       "num": 408528,
       "word": "姚晨回母校报道",
       "onboard_time": 1729402099,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10639,
+      "num": 250036,
+      "word": "黄圣依杨子 爱是真的不爱也是真的",
+      "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
     },
