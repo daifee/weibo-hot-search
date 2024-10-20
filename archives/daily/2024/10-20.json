@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729416975903,
+  "endTime": 1729419773598,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454725,
+      "num": 699818,
+      "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+      "onboard_time": 1729418000,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1440907,
       "num": 1440907,
       "word": "杨子 气笑了",
@@ -75,6 +83,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1196793,
+      "num": 616443,
+      "word": "日本小学生的校内午餐",
+      "onboard_time": 1729415599,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1120366,
       "num": 1179258,
       "word": "潘展乐无缘200自决赛",
@@ -89,6 +105,14 @@
       "onboard_time": 1729353079,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1025642,
+      "num": 1164102,
+      "word": "北京真的下雪了",
+      "onboard_time": 1729418540,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958892,
@@ -147,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 837052,
+      "num": 837052,
+      "word": "哀牢山拍到大量珍稀野生动物",
+      "onboard_time": 1729416979,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 828959,
       "num": 512880,
       "word": "马龙生日发文",
@@ -177,6 +209,14 @@
       "onboard_time": 1729385057,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 786707,
+      "num": 786707,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1729417640,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 767687,
@@ -257,14 +297,6 @@
       "onboard_time": 1729411098,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616443,
-      "num": 616443,
-      "word": "日本小学生的校内午餐",
-      "onboard_time": 1729415599,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 609145,
@@ -475,6 +507,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 449125,
+      "num": 425887,
+      "word": "赵丽颖金鹰高定造型",
+      "onboard_time": 1729419019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 443209,
+      "num": 443209,
+      "word": "曝登陆少年组合将新增一人",
+      "onboard_time": 1729418600,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376092,
+      "num": 376092,
+      "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+      "onboard_time": 1729415658,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375217,
       "num": 375217,
       "word": "潘展乐100自摘银",
@@ -609,6 +665,14 @@
       "onboard_time": 1729413019,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348040,
+      "num": 212531,
+      "word": "对视力伤害很大的行为",
+      "onboard_time": 1729418000,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 346567,
@@ -683,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299691,
+      "num": 410551,
+      "word": "臭肉事件被免职校长临近退休",
+      "onboard_time": 1729418120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297403,
       "num": 297403,
       "word": "嚣张骗子要挟管住舌头平安无事",
@@ -707,12 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290326,
-      "num": 290326,
-      "word": "烧伤妈妈双手因抱孩子二次损伤严重",
-      "onboard_time": 1729415658,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 290457,
+      "num": 290457,
+      "word": "秦彻单人池",
+      "onboard_time": 1729417699,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 288055,
@@ -761,6 +833,14 @@
       "onboard_time": 1729393939,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 264754,
+      "num": 264754,
+      "word": "被爱真的会长出新的羽毛",
+      "onboard_time": 1729416019,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258236,
@@ -891,6 +971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215206,
+      "num": 401345,
+      "word": "宜宾燃面真能点燃啊",
+      "onboard_time": 1729416200,
+      "rank": 9,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 214479,
       "num": 152714,
       "word": "人贩子一手数钱一手抱娃",
@@ -955,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206806,
-      "num": 401345,
-      "word": "宜宾燃面真能点燃啊",
-      "onboard_time": 1729416200,
-      "rank": 9,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 202029,
       "num": 237836,
       "word": "付航 总有人会爱你",
@@ -1020,7 +1100,7 @@
     },
     {
       "raw_hot": 195423,
-      "num": 195423,
+      "num": 230187,
       "word": "陈昊宇厦门",
       "onboard_time": 1729416318,
       "rank": 19,
@@ -1032,6 +1112,14 @@
       "word": "马龙想听到大家说马龙再来一球",
       "onboard_time": 1729404678,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193668,
+      "num": 193668,
+      "word": "潘展乐总成绩第9",
+      "onboard_time": 1729416499,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1107,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186001,
+      "num": 186001,
+      "word": "付航底色不是悲凉是passion",
+      "onboard_time": 1729416859,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185013,
       "num": 195495,
       "word": "被邓紫棋辣到了",
@@ -1139,11 +1235,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177050,
-      "num": 194350,
-      "word": "被爱真的会长出新的羽毛",
-      "onboard_time": 1729416019,
-      "rank": 28,
+      "raw_hot": 179796,
+      "num": 179796,
+      "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+      "onboard_time": 1729417458,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169304,
+      "num": 169304,
+      "word": "不良执念清除师",
+      "onboard_time": 1729417819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "金鹰奖颁授典礼座位图",
@@ -1224,6 +1328,14 @@
       "word": "张真源还是不适应应援",
       "onboard_time": 1729412119,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166342,
+      "num": 166342,
+      "word": "战至巅峰直播",
+      "onboard_time": 1729419200,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1283,6 +1395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159463,
+      "num": 159463,
+      "word": "张新成金鹰奖唯一入围95生",
+      "onboard_time": 1729418479,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158165,
       "num": 297668,
       "word": "杨天真喜剧之王单口季repo",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1729404499,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154410,
+      "num": 154410,
+      "word": "王一博香槟洗礼",
+      "onboard_time": 1729419679,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154096,
@@ -1363,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145400,
+      "num": 130781,
+      "word": "王一博登上冠军领奖台",
+      "onboard_time": 1729417100,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145360,
       "num": 145360,
       "word": "四川这碗面要用几十种料",
@@ -1387,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144208,
+      "num": 144208,
+      "word": "狗 妈妈为什么我离你越来越远了",
+      "onboard_time": 1729418839,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 143536,
       "num": 143536,
       "word": "奔跑吧全员手写东巴文公益路透",
@@ -1409,14 +1553,6 @@
       "onboard_time": 1729355298,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138208,
-      "num": 138208,
-      "word": "付航底色不是悲凉是passion",
-      "onboard_time": 1729416859,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 137754,
@@ -1499,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131065,
+      "num": 131065,
+      "word": "女生两层楼高发型回头率爆表",
+      "onboard_time": 1729417580,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130941,
       "num": 130941,
       "word": "付航现场公布已婚",
@@ -1563,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122202,
+      "num": 122202,
+      "word": "井胧 我不会缺席石凯的人生",
+      "onboard_time": 1729419080,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121809,
       "num": 266506,
       "word": "高考让锦绣安宁拍明白了",
@@ -1593,6 +1745,14 @@
       "onboard_time": 1729405040,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119186,
+      "num": 119186,
+      "word": "VOGUE比高更高大片",
+      "onboard_time": 1729419560,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118760,
@@ -1635,6 +1795,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 113755,
+      "num": 113755,
+      "word": "周深一开口谭盾眼泪止不住了",
+      "onboard_time": 1729419139,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
@@ -1673,14 +1841,6 @@
       "onboard_time": 1729386557,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 103994,
-      "num": 103994,
-      "word": "潘展乐总成绩第9",
-      "onboard_time": 1729416499,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 102121,
@@ -2180,7 +2340,7 @@
     },
     {
       "raw_hot": 15448,
-      "num": 472582,
+      "num": 801278,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,

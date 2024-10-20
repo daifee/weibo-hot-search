@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729416975903,
+  "endTime": 1729419773598,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2027,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454725,
+      "num": 699818,
+      "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+      "onboard_time": 1729418000,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1453629,
       "num": 1026949,
       "word": "卢昱晓工作室声明",
@@ -3139,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1196793,
+      "num": 616443,
+      "word": "日本小学生的校内午餐",
+      "onboard_time": 1729415599,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1196589,
       "num": 372609,
       "word": "于正报警",
@@ -4153,6 +4169,14 @@
       "onboard_time": 1728607400,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1025642,
+      "num": 1164102,
+      "word": "北京真的下雪了",
+      "onboard_time": 1729418540,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1025547,
@@ -5731,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837052,
+      "num": 837052,
+      "word": "哀牢山拍到大量珍稀野生动物",
+      "onboard_time": 1729416979,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 834061,
       "num": 618455,
       "word": "国企员工擅自离岗16年丈夫发声",
@@ -6409,6 +6441,14 @@
       "onboard_time": 1728740363,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786707,
+      "num": 786707,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1729417640,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 786513,
@@ -9145,14 +9185,6 @@
       "onboard_time": 1729252879,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616443,
-      "num": 616443,
-      "word": "日本小学生的校内午餐",
-      "onboard_time": 1729415599,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 616424,
@@ -12971,6 +13003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449125,
+      "num": 425887,
+      "word": "赵丽颖金鹰高定造型",
+      "onboard_time": 1729419019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449120,
       "num": 449120,
       "word": "香港男子5000万拿下广州三套房",
@@ -13097,6 +13137,14 @@
       "onboard_time": 1729094598,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 443209,
+      "num": 443209,
+      "word": "曝登陆少年组合将新增一人",
+      "onboard_time": 1729418600,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 443121,
@@ -15067,6 +15115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376092,
+      "num": 376092,
+      "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+      "onboard_time": 1729415658,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376043,
       "num": 376043,
       "word": "起猛了看见农民给稻田挠痒痒",
@@ -16217,6 +16273,14 @@
       "onboard_time": 1728626780,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 348040,
+      "num": 212531,
+      "word": "对视力伤害很大的行为",
+      "onboard_time": 1729418000,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 347410,
@@ -18339,6 +18403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299691,
+      "num": 410551,
+      "word": "臭肉事件被免职校长临近退休",
+      "onboard_time": 1729418120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299520,
       "num": 512720,
       "word": "春花厌改名",
@@ -18979,12 +19051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290326,
-      "num": 290326,
-      "word": "烧伤妈妈双手因抱孩子二次损伤严重",
-      "onboard_time": 1729415658,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 290457,
+      "num": 290457,
+      "word": "秦彻单人池",
+      "onboard_time": 1729417699,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 290322,
@@ -20824,6 +20896,14 @@
       "word": "在哀牢山中遇到危险该如何自救",
       "onboard_time": 1728793998,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264754,
+      "num": 264754,
+      "word": "被爱真的会长出新的羽毛",
+      "onboard_time": 1729416019,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -25243,6 +25323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 215206,
+      "num": 401345,
+      "word": "宜宾燃面真能点燃啊",
+      "onboard_time": 1729416200,
+      "rank": 9,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 215140,
       "num": 215140,
       "word": "Jennie新歌歌词",
@@ -26433,14 +26521,6 @@
       "onboard_time": 1728486499,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206806,
-      "num": 401345,
-      "word": "宜宾燃面真能点燃啊",
-      "onboard_time": 1729416200,
-      "rank": 9,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 206725,
@@ -28956,7 +29036,7 @@
     },
     {
       "raw_hot": 195423,
-      "num": 195423,
+      "num": 230187,
       "word": "陈昊宇厦门",
       "onboard_time": 1729416318,
       "rank": 19,
@@ -29360,6 +29440,14 @@
       "word": "国乒提前包揽WTT五冠",
       "onboard_time": 1728050480,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193668,
+      "num": 193668,
+      "word": "潘展乐总成绩第9",
+      "onboard_time": 1729416499,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -31147,6 +31235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186001,
+      "num": 186001,
+      "word": "付航底色不是悲凉是passion",
+      "onboard_time": 1729416859,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185884,
       "num": 236682,
       "word": "吴谨言这次终于有公主护着了",
@@ -32283,6 +32379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179796,
+      "num": 179796,
+      "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+      "onboard_time": 1729417458,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179728,
       "num": 175475,
       "word": "虞书欣Chill小兔",
@@ -32681,14 +32785,6 @@
       "onboard_time": 1727788880,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177050,
-      "num": 194350,
-      "word": "被爱真的会长出新的羽毛",
-      "onboard_time": 1729416019,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176970,
@@ -34075,6 +34171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169304,
+      "num": 169304,
+      "word": "不良执念清除师",
+      "onboard_time": 1729417819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169286,
       "num": 169286,
       "word": "干饭哥世界杯10米气步枪夺冠",
@@ -34721,6 +34825,14 @@
       "onboard_time": 1728054379,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166342,
+      "num": 166342,
+      "word": "战至巅峰直播",
+      "onboard_time": 1729419200,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 166336,
@@ -36091,6 +36203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159463,
+      "num": 159463,
+      "word": "张新成金鹰奖唯一入围95生",
+      "onboard_time": 1729418479,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159378,
       "num": 159378,
       "word": "朴彩英流媒",
@@ -37257,6 +37377,14 @@
       "onboard_time": 1729404499,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154410,
+      "num": 154410,
+      "word": "王一博香槟洗礼",
+      "onboard_time": 1729419679,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154395,
@@ -39075,6 +39203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145400,
+      "num": 130781,
+      "word": "王一博登上冠军领奖台",
+      "onboard_time": 1729417100,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145360,
       "num": 145360,
       "word": "四川这碗面要用几十种料",
@@ -39393,6 +39529,14 @@
       "onboard_time": 1728577340,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144208,
+      "num": 144208,
+      "word": "狗 妈妈为什么我离你越来越远了",
+      "onboard_time": 1729418839,
+      "rank": 34,
+      "category": "休闲"
     },
     {
       "raw_hot": 144177,
@@ -40721,14 +40865,6 @@
       "onboard_time": 1728267497,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138208,
-      "num": 138208,
-      "word": "付航底色不是悲凉是passion",
-      "onboard_time": 1729416859,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 138166,
@@ -42177,6 +42313,14 @@
       "onboard_time": 1727764758,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131065,
+      "num": 131065,
+      "word": "女生两层楼高发型回头率爆表",
+      "onboard_time": 1729417580,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 130986,
@@ -43747,6 +43891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122202,
+      "num": 122202,
+      "word": "井胧 我不会缺席石凯的人生",
+      "onboard_time": 1729419080,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122132,
       "num": 122132,
       "word": "希林娜依高打卡烟台焖子",
@@ -44249,6 +44401,14 @@
       "onboard_time": 1728809419,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119186,
+      "num": 119186,
+      "word": "VOGUE比高更高大片",
+      "onboard_time": 1729419560,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119144,
@@ -45281,6 +45441,14 @@
       "onboard_time": 1728815841,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113755,
+      "num": 113755,
+      "word": "周深一开口谭盾眼泪止不住了",
+      "onboard_time": 1729419139,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 113678,
@@ -46945,14 +47113,6 @@
       "onboard_time": 1728518839,
       "rank": 44,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 103994,
-      "num": 103994,
-      "word": "潘展乐总成绩第9",
-      "onboard_time": 1729416499,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 103979,
@@ -57364,7 +57524,7 @@
     },
     {
       "raw_hot": 29862,
-      "num": 779419,
+      "num": 801278,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,

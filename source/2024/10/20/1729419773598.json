@@ -1,0 +1,410 @@
+{
+  "runTime": 1729419773598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025642,
+        "num": 1164102,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837052,
+        "num": 837052,
+        "word": "哀牢山拍到大量珍稀野生动物",
+        "onboard_time": 1729416979,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 8465,
+        "num": 801278,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786707,
+        "num": 786707,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1729417640,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720564,
+        "num": 720564,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454725,
+        "num": 699818,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484990,
+        "num": 484990,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 443209,
+        "num": 443209,
+        "word": "曝登陆少年组合将新增一人",
+        "onboard_time": 1729418600,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449125,
+        "num": 425887,
+        "word": "赵丽颖金鹰高定造型",
+        "onboard_time": 1729419019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299691,
+        "num": 410551,
+        "word": "臭肉事件被免职校长临近退休",
+        "onboard_time": 1729418120,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196793,
+        "num": 409495,
+        "word": "日本小学生的校内午餐",
+        "onboard_time": 1729415599,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400705,
+        "num": 400705,
+        "word": "美国绝密情报遭泄露",
+        "onboard_time": 1729411098,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 390590,
+        "num": 390590,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376092,
+        "num": 376092,
+        "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+        "onboard_time": 1729415658,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373705,
+        "num": 373705,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323869,
+        "num": 323869,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290457,
+        "num": 290457,
+        "word": "秦彻单人池",
+        "onboard_time": 1729417699,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264754,
+        "num": 264754,
+        "word": "被爱真的会长出新的羽毛",
+        "onboard_time": 1729416019,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187440,
+        "num": 230187,
+        "word": "陈昊宇厦门",
+        "onboard_time": 1729416318,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215206,
+        "num": 215206,
+        "word": "宜宾燃面真能点燃啊",
+        "onboard_time": 1729416200,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 387826,
+        "num": 212571,
+        "word": "男子飞脚踹倒女孩警方介入处理",
+        "onboard_time": 1729411098,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348040,
+        "num": 212531,
+        "word": "对视力伤害很大的行为",
+        "onboard_time": 1729418000,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 346862,
+        "num": 210292,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206567,
+        "num": 206567,
+        "word": "失聪女博士与丈夫在清华实验室相遇",
+        "onboard_time": 1729412358,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193668,
+        "num": 193668,
+        "word": "潘展乐总成绩第9",
+        "onboard_time": 1729416499,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186001,
+        "num": 186001,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179796,
+        "num": 179796,
+        "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+        "onboard_time": 1729417458,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171057,
+        "num": 171057,
+        "word": "高楼扔烟头掉楼下邻居家引火灾",
+        "onboard_time": 1729415599,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169304,
+        "num": 169304,
+        "word": "不良执念清除师",
+        "onboard_time": 1729417819,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168095,
+        "num": 168095,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166342,
+        "num": 166342,
+        "word": "战至巅峰直播",
+        "onboard_time": 1729419200,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270761,
+        "num": 163395,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159463,
+        "num": 159463,
+        "word": "张新成金鹰奖唯一入围95生",
+        "onboard_time": 1729418479,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154410,
+        "num": 154410,
+        "word": "王一博香槟洗礼",
+        "onboard_time": 1729419679,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144208,
+        "num": 144208,
+        "word": "狗 妈妈为什么我离你越来越远了",
+        "onboard_time": 1729418839,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 579779,
+        "num": 142598,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 136512,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131065,
+        "num": 131065,
+        "word": "女生两层楼高发型回头率爆表",
+        "onboard_time": 1729417580,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152678,
+        "num": 131045,
+        "word": "张新成 我还年轻啥都能演啥都想演",
+        "onboard_time": 1729413019,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145400,
+        "num": 130781,
+        "word": "王一博登上冠军领奖台",
+        "onboard_time": 1729417100,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129783,
+        "num": 129783,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125061,
+        "num": 125061,
+        "word": "哈马斯回应以军公布辛瓦尔视频画面",
+        "onboard_time": 1729410199,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 122202,
+        "num": 122202,
+        "word": "井胧 我不会缺席石凯的人生",
+        "onboard_time": 1729419080,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125011,
+        "num": 121738,
+        "word": "付航的获奖感言",
+        "onboard_time": 1729409300,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119186,
+        "num": 119186,
+        "word": "VOGUE比高更高大片",
+        "onboard_time": 1729419560,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115801,
+        "num": 115801,
+        "word": "当我买狗窝时忘了看尺寸",
+        "onboard_time": 1729412298,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113755,
+        "num": 113755,
+        "word": "周深一开口谭盾眼泪止不住了",
+        "onboard_time": 1729419139,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111422,
+        "num": 111422,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100976,
+        "num": 100976,
+        "word": "老教授去世5年捐款仍年年按时到账",
+        "onboard_time": 1729411339,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97249,
+        "num": 97249,
+        "word": "金钟奖获奖名单",
+        "onboard_time": 1729415419,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化科学技术要打头阵#"
+    }
+  }
+}
