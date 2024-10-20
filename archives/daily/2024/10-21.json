@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729462853854,
+  "endTime": 1729463932986,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 375859,
-      "num": 212897,
+      "num": 314040,
       "word": "吴越",
       "onboard_time": 1729443615,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361447,
+      "num": 361447,
+      "word": "妈妈说朝鲜太冷了让我带您回家",
+      "onboard_time": 1729431805,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351073,
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239527,
-      "num": 349016,
-      "word": "妈妈说朝鲜太冷了让我带您回家",
-      "onboard_time": 1729431805,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236148,
       "num": 236148,
       "word": "北京真的下雪了",
@@ -227,7 +227,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 198276,
+      "raw_hot": 206103,
       "num": 198276,
       "word": "东北雨姐极速坠落",
       "onboard_time": 1729429641,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92527,
+      "num": 92527,
+      "word": "男子阻拦发飙水牛被撞断10根肋骨",
+      "onboard_time": 1729461491,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91928,
       "num": 91928,
       "word": "飞天奖",
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88802,
+      "num": 68825,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85042,
       "num": 98178,
       "word": "游本昌张绍林获中国文联终身成就奖",
@@ -449,14 +465,6 @@
       "onboard_time": 1729443975,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73337,
-      "num": 61923,
-      "word": "今年冬天会是史上最冷吗",
-      "onboard_time": 1729447093,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61366,
@@ -499,6 +507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 43792,
+      "num": 43792,
+      "word": "印度首都河面漂浮大量有毒泡沫",
+      "onboard_time": 1729455732,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 38814,
       "num": 38814,
       "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
@@ -507,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35435,
-      "num": 35435,
-      "word": "印度首都河面漂浮大量有毒泡沫",
-      "onboard_time": 1729455732,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 33122,
       "num": 277090,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1729441337,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32718,
+      "num": 32718,
+      "word": "范伟获奖感言",
+      "onboard_time": 1729460891,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 27047,
@@ -539,15 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24870,
-      "num": 26782,
-      "word": "范伟获奖感言",
-      "onboard_time": 1729460891,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22656,
+      "raw_hot": 25904,
       "num": 26761,
       "word": "东北囤秋菜给了南方人亿点点震撼",
       "onboard_time": 1729457171,
@@ -611,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15670,
-      "num": 76992,
-      "word": "男子阻拦发飙水牛被撞断10根肋骨",
-      "onboard_time": 1729461491,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 14118,
+      "num": 33266,
+      "word": "酒泉卫星发射中心66岁了",
+      "onboard_time": 1729461612,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13803,
@@ -627,6 +635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13279,
+      "num": 93191,
+      "word": "这个哨所外每立方米蚊虫达1700多只",
+      "onboard_time": 1729463654,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12988,
       "num": 20226,
       "word": "以高水平对外开放促进深层次改革高质量发展",
@@ -635,18 +651,18 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2437,
-      "num": 127350,
-      "word": "吐鲁番有条3400公里地下水长城",
-      "onboard_time": 1729390158,
+      "raw_hot": 2622,
+      "num": 330463,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1548,
-      "num": 214926,
-      "word": "何以中国五星出东方",
-      "onboard_time": 1729323379,
+      "raw_hot": 2437,
+      "num": 127350,
+      "word": "吐鲁番有条3400公里地下水长城",
+      "onboard_time": 1729390158,
       "rank": 2,
       "category": "社会新闻"
     }

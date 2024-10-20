@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729462853854,
+  "endTime": 1729463932986,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 375859,
-      "num": 212897,
+      "num": 314040,
       "word": "吴越",
       "onboard_time": 1729443615,
       "rank": 14,
@@ -2827,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92527,
+      "num": 92527,
+      "word": "男子阻拦发飙水牛被撞断10根肋骨",
+      "onboard_time": 1729461491,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90492,
       "num": 90492,
       "word": "TES教练",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1729349244,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88802,
+      "num": 68825,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85042,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1729355717,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73337,
-      "num": 61923,
-      "word": "今年冬天会是史上最冷吗",
-      "onboard_time": 1729447093,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72965,
@@ -3171,6 +3179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43792,
+      "num": 43792,
+      "word": "印度首都河面漂浮大量有毒泡沫",
+      "onboard_time": 1729455732,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41725,
       "num": 544651,
       "word": "臭肉查清楚臭脸也要说明白",
@@ -3259,14 +3275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 35435,
-      "num": 35435,
-      "word": "印度首都河面漂浮大量有毒泡沫",
-      "onboard_time": 1729455732,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 35017,
       "num": 137804,
       "word": "新逍客一口价9.98万",
@@ -3289,6 +3297,14 @@
       "onboard_time": 1729427660,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32718,
+      "num": 32718,
+      "word": "范伟获奖感言",
+      "onboard_time": 1729460891,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 32636,
@@ -3395,6 +3411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25904,
+      "num": 26761,
+      "word": "东北囤秋菜给了南方人亿点点震撼",
+      "onboard_time": 1729457171,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25438,
       "num": 25438,
       "word": "声音河流",
@@ -3409,14 +3433,6 @@
       "onboard_time": 1729413737,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24870,
-      "num": 26782,
-      "word": "范伟获奖感言",
-      "onboard_time": 1729460891,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 24081,
@@ -3440,14 +3456,6 @@
       "word": "为重启父被杀案儿子诉母遗弃罪",
       "onboard_time": 1729408518,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22656,
-      "num": 26761,
-      "word": "东北囤秋菜给了南方人亿点点震撼",
-      "onboard_time": 1729457171,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3555,19 +3563,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15670,
-      "num": 76992,
-      "word": "男子阻拦发飙水牛被撞断10根肋骨",
-      "onboard_time": 1729461491,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15448,
       "num": 1319217,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14118,
+      "num": 33266,
+      "word": "酒泉卫星发射中心66岁了",
+      "onboard_time": 1729461612,
+      "rank": 36,
       "category": "国内时政"
     },
     {
@@ -3592,6 +3600,14 @@
       "word": "新疆人的舞蹈天赋刻在DNA里",
       "onboard_time": 1729366812,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13279,
+      "num": 93191,
+      "word": "这个哨所外每立方米蚊虫达1700多只",
+      "onboard_time": 1729463654,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
