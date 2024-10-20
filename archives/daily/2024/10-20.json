@@ -1,18 +1,26 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729395924939,
+  "endTime": 1729398397876,
   "band_list": [
     {
       "raw_hot": 2479436,
-      "num": 300640,
+      "num": 328499,
       "word": "黄晓明回应近期舆论",
       "onboard_time": 1729387278,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1989695,
+      "num": 501296,
+      "word": "海关查获蟑螂尸体3000余只",
+      "onboard_time": 1729395919,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1383107,
-      "num": 300282,
+      "num": 328071,
       "word": "一家三口被撞身亡案司机父亲发声",
       "onboard_time": 1729385778,
       "rank": 11,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913788,
+      "num": 913788,
+      "word": "马斯克每天随机向选民发100万美元",
+      "onboard_time": 1729395498,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 858503,
       "num": 300115,
       "word": "调查将全面分析不想生不敢生原因",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 790193,
-      "num": 299549,
+      "num": 326692,
       "word": "白鹿拍的日照金山",
       "onboard_time": 1729385057,
       "rank": 12,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 700562,
-      "num": 295121,
+      "num": 325396,
       "word": "网约车时速150迈刹不住事故判决",
       "onboard_time": 1729392737,
       "rank": 38,
@@ -164,11 +180,19 @@
     },
     {
       "raw_hot": 516535,
-      "num": 299207,
+      "num": 324638,
       "word": "邪恶菠萝蜜",
       "onboard_time": 1729387579,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493298,
+      "num": 493298,
+      "word": "记者卧底贩婴现场",
+      "onboard_time": 1729394958,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483797,
@@ -283,12 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375148,
+      "num": 375148,
+      "word": "中介自称今年贩婴超十个月收入8万",
+      "onboard_time": 1729395018,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362262,
       "num": 362262,
       "word": "重庆警方通报一男子砍伤他人",
       "onboard_time": 1729349781,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358075,
+      "num": 358075,
+      "word": "张若昀李沁李现同框热聊",
+      "onboard_time": 1729395798,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 351862,
@@ -307,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344452,
+      "num": 317345,
+      "word": "丁真画了自己去世的小马",
+      "onboard_time": 1729395198,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343560,
       "num": 247525,
       "word": "有一种腿叫做超模的腿",
@@ -323,12 +371,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329507,
+      "num": 329507,
+      "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
+      "onboard_time": 1729397838,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327766,
       "num": 327766,
       "word": "千万级网红被举报涉嫌组织赌博",
       "onboard_time": 1729388599,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324113,
+      "num": 324113,
+      "word": "留几手 去爹味版",
+      "onboard_time": 1729395560,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316449,
+      "num": 316449,
+      "word": "覃海洋夺冠后狠狠拍水",
+      "onboard_time": 1729396820,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305111,
+      "num": 305111,
+      "word": "以报复伊朗计划外泄",
+      "onboard_time": 1729396397,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 297403,
@@ -409,14 +489,6 @@
       "onboard_time": 1729381636,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240525,
-      "num": 240525,
-      "word": "记者卧底贩婴现场",
-      "onboard_time": 1729394958,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231105,
@@ -515,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197250,
-      "num": 296481,
-      "word": "中介自称今年贩婴超十个月收入8万",
-      "onboard_time": 1729395018,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195630,
       "num": 195630,
       "word": "Meiko说对T1的信息不了解",
@@ -571,20 +635,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181701,
+      "num": 181701,
+      "word": "这可能是小猫睡得最暖的一次",
+      "onboard_time": 1729397359,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "程靖淇 老友记",
       "onboard_time": 1729391779,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175485,
-      "num": 238644,
-      "word": "丁真画了自己去世的小马",
-      "onboard_time": 1729395198,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 171356,
@@ -619,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165040,
+      "num": 165040,
+      "word": "小西天保安涨工资笑说沾了游客的光",
+      "onboard_time": 1729396939,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "世界乒联称马龙是乒坛GOAT",
@@ -644,7 +716,7 @@
     },
     {
       "raw_hot": 160369,
-      "num": 160369,
+      "num": 329472,
       "word": "解放军喷火器实喷训练满屏热浪",
       "onboard_time": 1729391120,
       "rank": 39,
@@ -656,14 +728,6 @@
       "word": "杨天真喜剧之王单口季repo",
       "onboard_time": 1729388419,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 154716,
-      "num": 154716,
-      "word": "张若昀李沁李现同框热聊",
-      "onboard_time": 1729395798,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -699,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146357,
-      "num": 146357,
-      "word": "马斯克每天随机向选民发100万美元",
-      "onboard_time": 1729395498,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 145179,
       "num": 145179,
       "word": "潘展乐换头像",
@@ -729,6 +785,14 @@
       "onboard_time": 1729355298,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141479,
+      "num": 141479,
+      "word": "金鹰奖",
+      "onboard_time": 1729398259,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 137689,
@@ -865,14 +929,6 @@
       "onboard_time": 1729336699,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113933,
-      "num": 113933,
-      "word": "留几手 去爹味版",
-      "onboard_time": 1729395560,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 110135,
@@ -1123,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34225,
+      "num": 326115,
+      "word": "禁养烈性犬伤人饲养人将担全责",
+      "onboard_time": 1729397478,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31794,
       "num": 122235,
       "word": "不能让界碑移动哪怕一毫米是他们家训",
@@ -1243,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8280,
+      "num": 808332,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1729308020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7280,
       "num": 21388,
       "word": "被杭州的秋天美到了",
       "onboard_time": 1729368971,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 6770,
-      "num": 808332,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1729308020,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
