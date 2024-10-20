@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729388954322,
+  "endTime": 1729390288289,
   "band_list": [
     {
       "raw_hot": 2479436,
@@ -83,19 +83,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 615286,
+      "num": 283443,
+      "word": "调查将全面分析不想生不敢生原因",
+      "onboard_time": 1729385837,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588102,
       "num": 588102,
       "word": "昆明长丰学校食堂承包商被罚578万",
       "onboard_time": 1729349901,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584919,
-      "num": 283443,
-      "word": "调查将全面分析不想生不敢生原因",
-      "onboard_time": 1729385837,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1729353020,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552211,
+      "num": 280676,
+      "word": "巴勒斯坦司机疑发动自杀式袭击",
+      "onboard_time": 1729386138,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 548098,
@@ -131,20 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485542,
-      "num": 280676,
-      "word": "巴勒斯坦司机疑发动自杀式袭击",
-      "onboard_time": 1729386138,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 483797,
       "num": 483797,
       "word": "GEN LPL最后的希望",
       "onboard_time": 1729352240,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 471591,
+      "num": 471591,
+      "word": "冷空气要把河南人赶进被窝里",
+      "onboard_time": 1729384635,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470688,
@@ -163,11 +171,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 446987,
+      "num": 269391,
+      "word": "邪恶菠萝蜜",
+      "onboard_time": 1729387579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
       "onboard_time": 1729352421,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420625,
+      "num": 228052,
+      "word": "985毕业男子捡垃圾8年实现财务自由",
+      "onboard_time": 1729388658,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -275,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308944,
-      "num": 308944,
-      "word": "冷空气要把河南人赶进被窝里",
-      "onboard_time": 1729384635,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291283,
       "num": 497409,
       "word": "aespa MV预告",
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269391,
-      "num": 269391,
-      "word": "邪恶菠萝蜜",
-      "onboard_time": 1729387579,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252348,
       "num": 252348,
       "word": "浪姐是黄圣依的觉醒时刻",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233196,
+      "num": 212511,
+      "word": "潘展乐回应落后0.03秒",
+      "onboard_time": 1729388658,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
@@ -347,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228052,
-      "num": 228052,
-      "word": "985毕业男子捡垃圾8年实现财务自由",
-      "onboard_time": 1729388658,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 229776,
+      "num": 229776,
+      "word": "陈好好六街万人迷",
+      "onboard_time": 1729388239,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 226208,
@@ -491,6 +507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 158828,
+      "num": 250442,
+      "word": "千万级网红被举报涉嫌组织赌博",
+      "onboard_time": 1729388599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154096,
       "num": 154096,
       "word": "黑灯发文",
@@ -547,6 +571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137530,
+      "num": 204645,
+      "word": "张韶涵在雨中坐着飙高音",
+      "onboard_time": 1729388899,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 137044,
+      "num": 137044,
+      "word": "嚣张骗子要挟管住舌头平安无事",
+      "onboard_time": 1729389201,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135489,
       "num": 135489,
       "word": "打个飞的赶飞机",
@@ -577,14 +617,6 @@
       "onboard_time": 1729348042,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131338,
-      "num": 131338,
-      "word": "潘展乐回应落后0.03秒",
-      "onboard_time": 1729388658,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 130941,
@@ -627,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117396,
-      "num": 214792,
-      "word": "陈好好六街万人迷",
-      "onboard_time": 1729388239,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 117347,
+      "num": 117347,
+      "word": "高考让锦绣安宁拍明白了",
+      "onboard_time": 1729388658,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 117203,
@@ -643,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110695,
-      "num": 110695,
-      "word": "高考让锦绣安宁拍明白了",
-      "onboard_time": 1729388658,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 114080,
+      "num": 114080,
+      "word": "高考全省第二北漂5年后的生活",
+      "onboard_time": 1729389920,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 110135,
@@ -657,14 +689,6 @@
       "onboard_time": 1729326679,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109578,
-      "num": 109578,
-      "word": "千万级网红被举报涉嫌组织赌博",
-      "onboard_time": 1729388599,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107478,
@@ -683,20 +707,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 101856,
-      "num": 101856,
+      "raw_hot": 102395,
+      "num": 102395,
+      "word": "杨天真喜剧之王单口季repo",
+      "onboard_time": 1729388419,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102121,
+      "num": 102121,
       "word": "六福周大福半年均关店180多家",
       "onboard_time": 1729384097,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101272,
-      "num": 101272,
-      "word": "张韶涵在雨中坐着飙高音",
-      "onboard_time": 1729388899,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 97306,
@@ -729,6 +753,14 @@
       "onboard_time": 1729350442,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95554,
+      "num": 95554,
+      "word": "汪顺潘展乐回应同场竞技",
+      "onboard_time": 1729389859,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90492,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27940,
+      "num": 102188,
+      "word": "11.11集卡新玩法",
+      "onboard_time": 1729389920,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16649,
+      "num": 262177,
+      "word": "吐鲁番有条3400公里地下水长城",
+      "onboard_time": 1729390158,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13914,
       "num": 15311,
       "word": "吴谨言发春花焰库存",
@@ -963,20 +1011,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9846,
+      "num": 472582,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9429,
       "num": 34168,
       "word": "热心司机组队变救火卫士",
       "onboard_time": 1729366273,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9077,
-      "num": 471638,
-      "word": "何以中国五星出东方",
-      "onboard_time": 1729323379,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7280,
