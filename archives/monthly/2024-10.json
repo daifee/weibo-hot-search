@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729395214968,
+  "endTime": 1729395924939,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -3473,6 +3473,14 @@
       "onboard_time": 1729037299,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1120366,
+      "num": 1179258,
+      "word": "潘展乐无缘200自决赛",
+      "onboard_time": 1729393579,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 1114891,
@@ -7259,14 +7267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 721285,
-      "num": 721285,
-      "word": "潘展乐无缘200自决赛",
-      "onboard_time": 1729393579,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 721032,
       "num": 721032,
       "word": "马龙正手狂轰",
@@ -7556,7 +7556,7 @@
     },
     {
       "raw_hot": 700562,
-      "num": 289725,
+      "num": 295121,
       "word": "网约车时速150迈刹不住事故判决",
       "onboard_time": 1729392737,
       "rank": 38,
@@ -13412,7 +13412,7 @@
     },
     {
       "raw_hot": 420625,
-      "num": 288349,
+      "num": 291667,
       "word": "985毕业男子捡垃圾8年实现财务自由",
       "onboard_time": 1729388658,
       "rank": 24,
@@ -15772,7 +15772,7 @@
     },
     {
       "raw_hot": 351862,
-      "num": 274394,
+      "num": 293820,
       "word": "TheShy看369凯南一脸懵",
       "onboard_time": 1729384938,
       "rank": 16,
@@ -16723,6 +16723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327766,
+      "num": 327766,
+      "word": "千万级网红被举报涉嫌组织赌博",
+      "onboard_time": 1729388599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327629,
       "num": 299041,
       "word": "杨紫商务",
@@ -17089,14 +17097,6 @@
       "onboard_time": 1729175243,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317832,
-      "num": 317832,
-      "word": "千万级网红被举报涉嫌组织赌博",
-      "onboard_time": 1729388599,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317765,
@@ -22267,6 +22267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240525,
+      "num": 240525,
+      "word": "记者卧底贩婴现场",
+      "onboard_time": 1729394958,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240457,
       "num": 240457,
       "word": "A股倒车接人还是反弹结束",
@@ -23913,6 +23921,14 @@
       "onboard_time": 1728721159,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222888,
+      "num": 222888,
+      "word": "贾静雯短发",
+      "onboard_time": 1729392978,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222789,
@@ -26171,14 +26187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205841,
-      "num": 205841,
-      "word": "贾静雯短发",
-      "onboard_time": 1729392978,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205796,
       "num": 205796,
       "word": "一男子在白宫附近自焚",
@@ -27969,6 +27977,14 @@
       "onboard_time": 1729321277,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197250,
+      "num": 296481,
+      "word": "中介自称今年贩婴超十个月收入8万",
+      "onboard_time": 1729395018,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197221,
@@ -29995,6 +30011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188759,
+      "num": 292474,
+      "word": "陆嘉学 发疯纯爱",
+      "onboard_time": 1729394297,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188691,
       "num": 188691,
       "word": "郑钦文半决赛面对穆霍娃",
@@ -30849,6 +30873,14 @@
       "onboard_time": 1728711021,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184507,
+      "num": 184507,
+      "word": "Bin AD凯南",
+      "onboard_time": 1729395078,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 184505,
@@ -32393,6 +32425,14 @@
       "onboard_time": 1728998419,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175485,
+      "num": 238644,
+      "word": "丁真画了自己去世的小马",
+      "onboard_time": 1729395198,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 175470,
@@ -35243,6 +35283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160369,
+      "num": 160369,
+      "word": "解放军喷火器实喷训练满屏热浪",
+      "onboard_time": 1729391120,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 160290,
       "num": 146605,
       "word": "郑钦文返汉爸爸跟在身后为她背包",
@@ -35441,14 +35489,6 @@
       "onboard_time": 1727854998,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159347,
-      "num": 287201,
-      "word": "陆嘉学 发疯纯爱",
-      "onboard_time": 1729394297,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 159338,
@@ -36539,6 +36579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154716,
+      "num": 154716,
+      "word": "张若昀李沁李现同框热聊",
+      "onboard_time": 1729395798,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154709,
       "num": 154709,
       "word": "夏之光按出道顺序念出R1SE所有人",
@@ -37619,6 +37667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149451,
+      "num": 253610,
+      "word": "周深说谭盾写的歌好难唱",
+      "onboard_time": 1729394839,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149317,
       "num": 149317,
       "word": "Coldplay抢票",
@@ -38169,6 +38225,14 @@
       "onboard_time": 1727940798,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146357,
+      "num": 146357,
+      "word": "马斯克每天随机向选民发100万美元",
+      "onboard_time": 1729395498,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146310,
@@ -39585,14 +39649,6 @@
       "onboard_time": 1728484760,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 139743,
-      "num": 139743,
-      "word": "解放军喷火器实喷训练满屏热浪",
-      "onboard_time": 1729391120,
-      "rank": 39,
-      "category": "军事"
     },
     {
       "raw_hot": 139742,
@@ -42155,6 +42211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127267,
+      "num": 127267,
+      "word": "王者荣耀共创之夜抢票",
+      "onboard_time": 1729395439,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127238,
       "num": 376516,
       "word": "河南十一假期接待游客7991.6万人次",
@@ -43291,20 +43355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119911,
+      "num": 119911,
+      "word": "怎么可以有人活的跟动漫一样",
+      "onboard_time": 1729394118,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119818,
       "num": 119818,
       "word": "高盛上调中国股市至超配",
       "onboard_time": 1728268878,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119818,
-      "num": 119818,
-      "word": "记者卧底贩婴现场",
-      "onboard_time": 1729394958,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119781,
@@ -43739,14 +43803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117680,
-      "num": 117680,
-      "word": "周深说谭盾写的歌好难唱",
-      "onboard_time": 1729394839,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117640,
       "num": 117640,
       "word": "许昕赛前称力争取胜除非真坚持不了",
@@ -43865,14 +43921,6 @@
       "onboard_time": 1727854938,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117018,
-      "num": 117018,
-      "word": "Bin AD凯南",
-      "onboard_time": 1729395078,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 116949,
@@ -44283,14 +44331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114840,
-      "num": 114840,
-      "word": "丁真画了自己去世的小马",
-      "onboard_time": 1729395198,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114727,
       "num": 114727,
       "word": "Zeus夸赞Bin",
@@ -44481,6 +44521,14 @@
       "onboard_time": 1728614418,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113933,
+      "num": 113933,
+      "word": "留几手 去爹味版",
+      "onboard_time": 1729395560,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113876,
@@ -44881,14 +44929,6 @@
       "onboard_time": 1727881160,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111436,
-      "num": 111436,
-      "word": "怎么可以有人活的跟动漫一样",
-      "onboard_time": 1729394118,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 111427,
@@ -45408,14 +45448,6 @@
       "word": "东北雨姐橱窗已下架所有商品",
       "onboard_time": 1728790699,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108030,
-      "num": 108030,
-      "word": "中介自称今年贩婴超十个月收入8万",
-      "onboard_time": 1729395018,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -53067,6 +53099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47755,
+      "num": 293282,
+      "word": "和平精英玩家这么上流的吗",
+      "onboard_time": 1729392618,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47679,
       "num": 325553,
       "word": "国庆各地人们最爱自驾去哪里",
@@ -53681,14 +53721,6 @@
       "onboard_time": 1728652042,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43857,
-      "num": 287997,
-      "word": "和平精英玩家这么上流的吗",
-      "onboard_time": 1729392618,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 43698,
