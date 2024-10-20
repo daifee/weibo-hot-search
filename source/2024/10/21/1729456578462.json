@@ -1,0 +1,410 @@
+{
+  "runTime": 1729456578462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126801,
+        "num": 126801,
+        "word": "赵丽颖二封金鹰视后",
+        "onboard_time": 1729431504,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61159,
+        "num": 61159,
+        "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+        "onboard_time": 1729430481,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1498,
+        "num": 46268,
+        "word": "吐鲁番有条3400公里地下水长城",
+        "onboard_time": 1729390158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92370,
+        "num": 45376,
+        "word": "听泉鉴宝下播",
+        "onboard_time": 1729436963,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41960,
+        "num": 41960,
+        "word": "以军瞄准辛瓦尔视频画面曝光",
+        "onboard_time": 1729450331,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40321,
+        "num": 40321,
+        "word": "3岁幼童遭生父女友虐待后离世",
+        "onboard_time": 1729434743,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80532,
+        "num": 39681,
+        "word": "吴越",
+        "onboard_time": 1729443615,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37995,
+        "num": 37995,
+        "word": "虹桥机场廊桥内一乘客行李起火",
+        "onboard_time": 1729437983,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70632,
+        "num": 36585,
+        "word": "何炅 三十年真心换真心",
+        "onboard_time": 1729428681,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33258,
+        "num": 33258,
+        "word": "GEN晋级S14四强",
+        "onboard_time": 1729442179,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71063,
+        "num": 33131,
+        "word": "东北雨姐极速坠落",
+        "onboard_time": 1729429641,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 39189,
+        "num": 32948,
+        "word": "芒果艺人做近视眼手术后复发",
+        "onboard_time": 1729423342,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35759,
+        "num": 32513,
+        "word": "范伟金鹰视帝",
+        "onboard_time": 1729432644,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44004,
+        "num": 32420,
+        "word": "谢娜祝贺何炅赵丽颖拿奖",
+        "onboard_time": 1729437983,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32236,
+        "num": 32236,
+        "word": "金鹰奖获奖名单",
+        "onboard_time": 1729431383,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28503,
+        "num": 28503,
+        "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
+        "onboard_time": 1729443255,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27850,
+        "num": 27850,
+        "word": "妈妈说朝鲜太冷了让我带您回家",
+        "onboard_time": 1729431805,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27667,
+        "num": 27667,
+        "word": "iPhone16官旗多款机型破发",
+        "onboard_time": 1729437141,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26760,
+        "num": 26760,
+        "word": "覃海洋获8000美元奖金",
+        "onboard_time": 1729430722,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15809,
+        "num": 26750,
+        "word": "农村单身女拒拆迁称嫁给自建房",
+        "onboard_time": 1729454890,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37634,
+        "num": 26750,
+        "word": "金鹰奖 六缺三",
+        "onboard_time": 1729431202,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31637,
+        "num": 26750,
+        "word": "男子将3岁女儿抛向大货车被判死刑",
+        "onboard_time": 1729422981,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26746,
+        "num": 26746,
+        "word": "付航值得",
+        "onboard_time": 1729422860,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26070,
+        "num": 26070,
+        "word": "Fly眼见为实",
+        "onboard_time": 1729439599,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25722,
+        "num": 25722,
+        "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
+        "onboard_time": 1729449912,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25057,
+        "num": 25057,
+        "word": "今年冬天会是史上最冷吗",
+        "onboard_time": 1729447093,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22430,
+        "num": 22430,
+        "word": "TES好好学",
+        "onboard_time": 1729429521,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22166,
+        "num": 22166,
+        "word": "文旅局长回应小西天景区保安被辞退",
+        "onboard_time": 1729423762,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21979,
+        "num": 21979,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13320,
+        "num": 21330,
+        "word": "东北秋天的名场面又来了",
+        "onboard_time": 1729449312,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21164,
+        "num": 21164,
+        "word": "想贷款开店被骗反背一身债",
+        "onboard_time": 1729442179,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20785,
+        "num": 20785,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20238,
+        "num": 20238,
+        "word": "男子开车将大量海绵倾倒河中",
+        "onboard_time": 1729433605,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20170,
+        "num": 20170,
+        "word": "外卖员抱孩子送餐视频系摆拍",
+        "onboard_time": 1729444934,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19954,
+        "num": 19954,
+        "word": "原地超慢跑减掉54斤",
+        "onboard_time": 1729424360,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19579,
+        "num": 19579,
+        "word": "手工耿已停更近5月",
+        "onboard_time": 1729439000,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18991,
+        "num": 18991,
+        "word": "梁王组合丹麦赛夺冠",
+        "onboard_time": 1729439422,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17877,
+        "num": 17877,
+        "word": "握紧接力棒走好新时代长征路",
+        "onboard_time": 1729446254,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17752,
+        "num": 17752,
+        "word": "没有金鹰女神",
+        "onboard_time": 1729430121,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17721,
+        "num": 17721,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17071,
+        "num": 17718,
+        "word": "向前看 别回头",
+        "onboard_time": 1729433663,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16672,
+        "num": 17713,
+        "word": "无锡江阴警方通报贩婴事件",
+        "onboard_time": 1729437802,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16148,
+        "num": 17708,
+        "word": "GEN对战FLY",
+        "onboard_time": 1729426520,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15631,
+        "num": 17707,
+        "word": "GEN战胜Fly",
+        "onboard_time": 1729443676,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15499,
+        "num": 17699,
+        "word": "战至巅峰 镜头",
+        "onboard_time": 1729421901,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15246,
+        "num": 17694,
+        "word": "北舞偶遇刘浩存",
+        "onboard_time": 1729443975,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15121,
+        "num": 17690,
+        "word": "全国气温榜前十广东拿下九席",
+        "onboard_time": 1729448352,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14790,
+        "num": 17685,
+        "word": "官方回应男子将大量海绵倾倒河中",
+        "onboard_time": 1729446134,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14735,
+        "num": 17683,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13813,
+        "num": 17675,
+        "word": "印度首都河面漂浮大量有毒泡沫",
+        "onboard_time": 1729455732,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对国家级经济技术开发区工作作出重要指示#"
+    }
+  }
+}
