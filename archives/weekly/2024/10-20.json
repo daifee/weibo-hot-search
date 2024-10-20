@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729442509979,
+  "endTime": 1729444814686,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -1059,6 +1059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 338700,
+      "num": 338700,
+      "word": "Fly眼见为实",
+      "onboard_time": 1729439599,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 337502,
       "num": 337502,
       "word": "赵丽颖纯白公主裙",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1729388599,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325680,
+      "num": 279304,
+      "word": "金鹰奖证明了自己",
+      "onboard_time": 1729438641,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 324113,
@@ -1251,14 +1267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279304,
-      "num": 279304,
-      "word": "金鹰奖证明了自己",
-      "onboard_time": 1729438641,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278978,
       "num": 278978,
       "word": "四川乐山摩托与轿车相撞致3死",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1729381636,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245284,
-      "num": 245284,
-      "word": "Fly眼见为实",
-      "onboard_time": 1729439599,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 244100,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1729412779,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197054,
+      "num": 197054,
+      "word": "吴越",
+      "onboard_time": 1729443615,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 196163,
@@ -2315,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143224,
+      "num": 181915,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142889,
       "num": 142889,
       "word": "年轻人为什么爱上了毛绒玩具",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1729427540,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129201,
+      "num": 227323,
+      "word": "想贷款开店被骗反背一身债",
+      "onboard_time": 1729442179,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129091,
@@ -2739,6 +2763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97905,
+      "num": 97905,
+      "word": "GEN战胜Fly",
+      "onboard_time": 1729443676,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97591,
       "num": 391377,
       "word": "A股首单增持贷款落地",
@@ -2915,6 +2947,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 71778,
+      "num": 71778,
+      "word": "北舞偶遇刘浩存",
+      "onboard_time": 1729443975,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71394,
       "num": 77760,
       "word": "金秀贤唱了IU的只有我不知道的故事",
@@ -2936,6 +2976,14 @@
       "word": "警方回应贩婴事件",
       "onboard_time": 1729401918,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64683,
+      "num": 222322,
+      "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
+      "onboard_time": 1729443255,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2977,6 +3025,14 @@
       "onboard_time": 1729392198,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52990,
+      "num": 70788,
+      "word": "2024年丹麦羽毛球公开赛",
+      "onboard_time": 1729444454,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 51733,
@@ -3115,14 +3171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39964,
-      "num": 181915,
-      "word": "GEN晋级S14四强",
-      "onboard_time": 1729442179,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 39793,
       "num": 39793,
       "word": "假网站内容骗子可以随便删改",
@@ -3240,14 +3288,6 @@
       "word": "40岁就可以打带状疱疹疫苗了",
       "onboard_time": 1729424961,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28288,
-      "num": 182848,
-      "word": "想贷款开店被骗反背一身债",
-      "onboard_time": 1729442179,
-      "rank": 28,
       "category": "社会新闻"
     },
     {

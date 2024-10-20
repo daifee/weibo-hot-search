@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729442509979,
+  "endTime": 1729444814686,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -107,6 +107,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338700,
+      "num": 338700,
+      "word": "Fly眼见为实",
+      "onboard_time": 1729439599,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 325680,
+      "num": 279304,
+      "word": "金鹰奖证明了自己",
+      "onboard_time": 1729438641,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306888,
       "num": 240129,
       "word": "男子将3岁女儿抛向大货车被判死刑",
@@ -131,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279304,
-      "num": 279304,
-      "word": "金鹰奖证明了自己",
-      "onboard_time": 1729438641,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270521,
       "num": 270521,
       "word": "无锡江阴警方通报贩婴事件",
@@ -161,14 +169,6 @@
       "onboard_time": 1729433663,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245284,
-      "num": 245284,
-      "word": "Fly眼见为实",
-      "onboard_time": 1729439599,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 239527,
@@ -227,6 +227,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 197054,
+      "num": 197054,
+      "word": "吴越",
+      "onboard_time": 1729443615,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196528,
       "num": 196528,
       "word": "刘琳什么时候拿奖",
@@ -243,8 +251,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 182426,
-      "num": 182426,
+      "raw_hot": 184787,
+      "num": 184787,
       "word": "警方回应男子篮球场飞踹女孩",
       "onboard_time": 1729430423,
       "rank": 29,
@@ -273,6 +281,22 @@
       "onboard_time": 1729434923,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143224,
+      "num": 181915,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 129201,
+      "num": 227323,
+      "word": "想贷款开店被骗反背一身债",
+      "onboard_time": 1729442179,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126252,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97905,
+      "num": 97905,
+      "word": "GEN战胜Fly",
+      "onboard_time": 1729443676,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94889,
       "num": 98105,
       "word": "张若昀来日方长",
@@ -403,11 +435,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39964,
-      "num": 181915,
-      "word": "GEN晋级S14四强",
-      "onboard_time": 1729442179,
-      "rank": 29,
+      "raw_hot": 71778,
+      "num": 71778,
+      "word": "北舞偶遇刘浩存",
+      "onboard_time": 1729443975,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64683,
+      "num": 222322,
+      "word": "昆明市委书记说要把校园餐办成放心餐良心餐",
+      "onboard_time": 1729443255,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52990,
+      "num": 70788,
+      "word": "2024年丹麦羽毛球公开赛",
+      "onboard_time": 1729444454,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51331,
+      "num": 70774,
+      "word": "FLY淘汰赛先下一城",
+      "onboard_time": 1729429221,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -416,14 +472,6 @@
       "word": "大型纪录片为了新中国",
       "onboard_time": 1729441337,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28288,
-      "num": 182848,
-      "word": "想贷款开店被骗反背一身债",
-      "onboard_time": 1729442179,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
