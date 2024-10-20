@@ -1,0 +1,410 @@
+{
+  "runTime": 1729423178469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1566643,
+        "num": 1566643,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811003,
+        "num": 811003,
+        "word": "臭肉事件被免职校长临近退休",
+        "onboard_time": 1729418120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5425,
+        "num": 792057,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058642,
+        "num": 791100,
+        "word": "谭松韵金鹰奖公主造型",
+        "onboard_time": 1729421001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 789955,
+        "num": 789955,
+        "word": "哀牢山拍到大量珍稀野生动物",
+        "onboard_time": 1729416979,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1011258,
+        "num": 715946,
+        "word": "赵丽颖金鹰高定造型",
+        "onboard_time": 1729419019,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565586,
+        "num": 565586,
+        "word": "6名女生被造谣10万彩礼做女友胜诉",
+        "onboard_time": 1729420400,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658627,
+        "num": 551684,
+        "word": "金鹰奖直播",
+        "onboard_time": 1729422621,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489479,
+        "num": 489479,
+        "word": "曝登陆少年组合将新增一人",
+        "onboard_time": 1729418600,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403127,
+        "num": 403127,
+        "word": "男子为讹钱将3岁女儿抛向大货车致被碾身亡",
+        "onboard_time": 1729422981,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958235,
+        "num": 399161,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340291,
+        "num": 340291,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337502,
+        "num": 337502,
+        "word": "赵丽颖纯白公主裙",
+        "onboard_time": 1729422080,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333000,
+        "num": 333000,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23588,
+        "num": 329206,
+        "word": "为什么有人跑马拉松停不下来",
+        "onboard_time": 1729422020,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 326843,
+        "num": 326843,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315009,
+        "num": 315009,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293103,
+        "num": 293103,
+        "word": "长丰学校家长称多名学生查出尿酸高",
+        "onboard_time": 1729421060,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292400,
+        "num": 292400,
+        "word": "黄圣依原生家庭",
+        "onboard_time": 1729414999,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291234,
+        "num": 291234,
+        "word": "金鹰奖路透",
+        "onboard_time": 1729420218,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504377,
+        "num": 285187,
+        "word": "对视力伤害很大的行为",
+        "onboard_time": 1729418000,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 517974,
+        "num": 280931,
+        "word": "日本小学生的校内午餐",
+        "onboard_time": 1729415599,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276476,
+        "num": 276476,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238451,
+        "num": 238451,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232560,
+        "num": 232560,
+        "word": "狗 妈妈为什么我离你越来越远了",
+        "onboard_time": 1729418839,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 140970,
+        "num": 224573,
+        "word": "博主造谣六姐妹10万彩礼仍未道歉",
+        "onboard_time": 1729422440,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218721,
+        "num": 218721,
+        "word": "战至巅峰 镜头",
+        "onboard_time": 1729421901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212204,
+        "num": 212204,
+        "word": "代号鸢",
+        "onboard_time": 1729421239,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207750,
+        "num": 207750,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 196163,
+        "num": 196163,
+        "word": "撒贝宁疑似失去所有力气和手段",
+        "onboard_time": 1729422680,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193337,
+        "num": 193337,
+        "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+        "onboard_time": 1729415658,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191301,
+        "num": 191301,
+        "word": "付航值得",
+        "onboard_time": 1729422860,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188215,
+        "num": 188215,
+        "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+        "onboard_time": 1729417458,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177172,
+        "num": 177172,
+        "word": "男子飞脚踹倒女孩警方介入处理",
+        "onboard_time": 1729411098,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173633,
+        "num": 173633,
+        "word": "被爱真的会长出新的羽毛",
+        "onboard_time": 1729416019,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165322,
+        "num": 165322,
+        "word": "阴阳师",
+        "onboard_time": 1729422440,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156724,
+        "num": 156724,
+        "word": "甘肃真的产南美对虾",
+        "onboard_time": 1729422680,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144819,
+        "num": 144819,
+        "word": "战至巅峰直播",
+        "onboard_time": 1729419200,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138795,
+        "num": 138795,
+        "word": "美国绝密情报遭泄露",
+        "onboard_time": 1729411098,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 135463,
+        "word": "不良执念清除师",
+        "onboard_time": 1729417819,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134775,
+        "num": 134775,
+        "word": "付航的获奖感言",
+        "onboard_time": 1729409300,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "迪丽热巴说重庆火锅好安逸",
+        "onboard_time": 1729421300,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123736,
+        "num": 123736,
+        "word": "女生两层楼高发型回头率爆表",
+        "onboard_time": 1729417580,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 21473,
+        "num": 123307,
+        "word": "来厦门再过一次夏天",
+        "onboard_time": 1729421661,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122893,
+        "num": 122893,
+        "word": "肖战剧综人物推荐破3200w",
+        "onboard_time": 1729421600,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119362,
+        "num": 119362,
+        "word": "王一博车队冠军",
+        "onboard_time": 1729408759,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126719,
+        "num": 119146,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117679,
+        "num": 117679,
+        "word": "鲜肉9小时没冷藏变臭肉",
+        "onboard_time": 1729400959,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114407,
+        "num": 114407,
+        "word": "战至巅峰",
+        "onboard_time": 1729421119,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108909,
+        "num": 108909,
+        "word": "敖子逸拍爆炸戏坚持不要替身",
+        "onboard_time": 1729423101,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺普拉博沃就任印尼总统#"
+    }
+  }
+}
