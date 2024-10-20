@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729409781151,
+  "endTime": 1729412920844,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -56,6 +56,14 @@
       "word": "一家三口被撞身亡案司机父亲发声",
       "onboard_time": 1729385778,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326563,
+      "num": 1326563,
+      "word": "网传被开除的小西天保安大爷被调岗",
+      "onboard_time": 1729408458,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 609145,
-      "num": 373493,
+      "num": 461354,
       "word": "黄圣依杨子 爱是真的不爱也是真的",
       "onboard_time": 1729405519,
       "rank": 19,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540487,
+      "num": 540487,
+      "word": "小西天保安大叔已经返岗",
+      "onboard_time": 1729407619,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540184,
       "num": 540184,
       "word": "29岁自律女生在村里高能量的一天",
@@ -323,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 509457,
+      "num": 509457,
+      "word": "美国绝密情报遭泄露",
+      "onboard_time": 1729411098,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 493298,
       "num": 493298,
       "word": "记者卧底贩婴现场",
@@ -339,20 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483972,
-      "num": 483972,
-      "word": "小西天保安大叔已经返岗",
-      "onboard_time": 1729407619,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483797,
       "num": 483797,
       "word": "GEN LPL最后的希望",
       "onboard_time": 1729352240,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 481038,
+      "num": 481038,
+      "word": "云南下月起实施痛经假",
+      "onboard_time": 1729411519,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477003,
@@ -395,12 +419,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 453741,
+      "num": 256997,
+      "word": "男子篮球场飞脚从背后踹倒女孩",
+      "onboard_time": 1729410379,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
       "onboard_time": 1729352421,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433335,
+      "num": 248304,
+      "word": "TES后台",
+      "onboard_time": 1729409419,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 420625,
@@ -483,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376836,
+      "num": 191598,
+      "word": "弦子又要讲李茂了",
+      "onboard_time": 1729410678,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375217,
       "num": 375217,
       "word": "潘展乐100自摘银",
@@ -497,6 +545,14 @@
       "onboard_time": 1729349781,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355632,
+      "num": 355632,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1729409599,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 351862,
@@ -691,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237027,
+      "num": 252023,
+      "word": "高校女厕坑位旁发现摄像头",
+      "onboard_time": 1729408698,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
@@ -827,6 +891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200049,
+      "num": 187906,
+      "word": "苏有朋开口梦回五阿哥",
+      "onboard_time": 1729411940,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197088,
+      "num": 167507,
+      "word": "看滔搏比赛 破防",
+      "onboard_time": 1729412779,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195630,
       "num": 195630,
       "word": "Meiko说对T1的信息不了解",
@@ -848,6 +928,14 @@
       "word": "时代少年团赢了重庆狼队",
       "onboard_time": 1729399279,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192607,
+      "num": 192607,
+      "word": "杨超越超绝松弛感",
+      "onboard_time": 1729410318,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -875,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187280,
+      "num": 187280,
+      "word": "男子飞脚踹倒女孩警方介入处理",
+      "onboard_time": 1729411098,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186676,
       "num": 186676,
       "word": "小交警贴脸开大让路人戴头盔",
@@ -889,6 +985,14 @@
       "onboard_time": 1729351279,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186443,
+      "num": 186443,
+      "word": "付航的获奖感言",
+      "onboard_time": 1729409300,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 185013,
@@ -913,14 +1017,6 @@
       "onboard_time": 1729399818,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176992,
-      "num": 129494,
-      "word": "TES后台",
-      "onboard_time": 1729409419,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 176743,
@@ -987,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167638,
+      "num": 167638,
+      "word": "张真源还是不适应应援",
+      "onboard_time": 1729412119,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163929,
       "num": 416009,
       "word": "李现 演员应该是橡皮泥",
@@ -1043,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157760,
+      "num": 190210,
+      "word": "哈马斯回应以军公布辛瓦尔视频画面",
+      "onboard_time": 1729410199,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 154414,
       "num": 413335,
       "word": "要让给孩子吃臭肉的幕后黑手付出代价",
@@ -1091,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148704,
+      "num": 148704,
+      "word": "老教授去世5年捐款仍年年按时到账",
+      "onboard_time": 1729411339,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147101,
       "num": 147101,
       "word": "昆明一学校食堂肉品散发异味调查情况",
@@ -1105,6 +1225,14 @@
       "onboard_time": 1729403419,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145723,
+      "num": 145723,
+      "word": "网红为燃气爆炸烧伤妈妈捐款30万",
+      "onboard_time": 1729408400,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145360,
@@ -1123,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145085,
-      "num": 129268,
-      "word": "付航的获奖感言",
-      "onboard_time": 1729409300,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145084,
       "num": 218779,
       "word": "奔跑吧日照金山早安直播",
@@ -1147,12 +1267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142889,
+      "num": 142889,
+      "word": "年轻人为什么爱上了毛绒玩具",
+      "onboard_time": 1729408278,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141876,
       "num": 410970,
       "word": "被2000年前的化妆盒种草了",
       "onboard_time": 1729355298,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139143,
+      "num": 139143,
+      "word": "当我买狗窝时忘了看尺寸",
+      "onboard_time": 1729412298,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 137689,
@@ -1203,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134171,
-      "num": 134171,
-      "word": "网红为燃气爆炸烧伤妈妈捐款30万",
-      "onboard_time": 1729408400,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133003,
       "num": 133003,
       "word": "胖东来攻入北京",
@@ -1243,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129078,
-      "num": 129078,
-      "word": "网传被开除的小西天保安大爷被调岗",
-      "onboard_time": 1729408458,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127267,
       "num": 127267,
       "word": "王者荣耀共创之夜抢票",
@@ -1281,6 +1401,14 @@
       "onboard_time": 1729399578,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123756,
+      "num": 123756,
+      "word": "小区收楼仅3年139户玻璃自爆",
+      "onboard_time": 1729410740,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122930,
@@ -1355,12 +1483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116425,
-      "num": 116425,
-      "word": "年轻人为什么爱上了毛绒玩具",
-      "onboard_time": 1729408278,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 117009,
+      "num": 117009,
+      "word": "失聪女博士与丈夫在清华实验室相遇",
+      "onboard_time": 1729412358,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110135,
@@ -1393,14 +1521,6 @@
       "onboard_time": 1729386557,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 102784,
-      "num": 102784,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1729409599,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 102121,
@@ -1459,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93254,
-      "num": 252023,
-      "word": "高校女厕坑位旁发现摄像头",
-      "onboard_time": 1729408698,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90492,
       "num": 90492,
       "word": "TES教练",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1729400659,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80155,
+      "num": 80155,
+      "word": "林诗栋晒启程照",
+      "onboard_time": 1729410199,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 79482,
@@ -1691,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44303,
+      "num": 261898,
+      "word": "三代女团来和平精英抢C位",
+      "onboard_time": 1729407919,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 41109,
       "num": 41109,
       "word": "银川地震",
@@ -1713,14 +1841,6 @@
       "onboard_time": 1729362313,
       "rank": 47,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 37289,
-      "num": 261898,
-      "word": "三代女团来和平精英抢C位",
-      "onboard_time": 1729407919,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 36732,
@@ -1921,6 +2041,14 @@
       "onboard_time": 1729368971,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1312,
+      "num": 729310,
+      "word": "这就是大美新疆",
+      "onboard_time": 1729307719,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
