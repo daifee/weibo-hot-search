@@ -1,0 +1,410 @@
+{
+  "runTime": 1729433997808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11386028,
+        "num": 11386028,
+        "word": "赵丽颖二封金鹰视后",
+        "onboard_time": 1729431504,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1025321,
+        "num": 1025321,
+        "word": "覃海洋获8000美元奖金",
+        "onboard_time": 1729430722,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1347,
+        "num": 964340,
+        "word": "吐鲁番有条3400公里地下水长城",
+        "onboard_time": 1729390158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3863784,
+        "num": 959601,
+        "word": "范伟金鹰视帝",
+        "onboard_time": 1729432644,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 948227,
+        "num": 948227,
+        "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+        "onboard_time": 1729430481,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518382,
+        "num": 518382,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2176957,
+        "num": 513656,
+        "word": "何炅 三十年真心换真心",
+        "onboard_time": 1729428681,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508602,
+        "num": 508602,
+        "word": "妈妈说朝鲜太冷了让我带您回家",
+        "onboard_time": 1729431805,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1652773,
+        "num": 425016,
+        "word": "金鹰奖 六缺三",
+        "onboard_time": 1729431202,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282551,
+        "num": 282551,
+        "word": "文旅局长回应小西天景区保安被辞退",
+        "onboard_time": 1729423762,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1427643,
+        "num": 279561,
+        "word": "金鹰奖获奖名单",
+        "onboard_time": 1729431383,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1271879,
+        "num": 277490,
+        "word": "高叶金鹰奖最佳女配角",
+        "onboard_time": 1729430183,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41161,
+        "num": 272921,
+        "word": "深蓝S05太能装了",
+        "onboard_time": 1729429461,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12127,
+        "num": 270700,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882348,
+        "num": 266470,
+        "word": "刘琳什么时候拿奖",
+        "onboard_time": 1729432644,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128783,
+        "num": 265030,
+        "word": "男子开车将大量海绵倾倒河中",
+        "onboard_time": 1729433605,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873937,
+        "num": 259971,
+        "word": "没有金鹰女神",
+        "onboard_time": 1729430121,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405548,
+        "num": 257088,
+        "word": "警方回应男子篮球场飞踹女孩",
+        "onboard_time": 1729430423,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256444,
+        "num": 256444,
+        "word": "TES好好学",
+        "onboard_time": 1729429521,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228416,
+        "num": 228416,
+        "word": "广州一豪宅卖出4.61亿元天价",
+        "onboard_time": 1729424000,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603202,
+        "num": 228322,
+        "word": "金鹰奖直播",
+        "onboard_time": 1729422621,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558099,
+        "num": 228187,
+        "word": "男子将3岁女儿抛向大货车被判死刑",
+        "onboard_time": 1729422981,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536411,
+        "num": 228067,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1729417640,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428830,
+        "num": 228018,
+        "word": "芒果艺人做近视眼手术后复发",
+        "onboard_time": 1729423342,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244100,
+        "num": 227921,
+        "word": "雷军",
+        "onboard_time": 1729433245,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425951,
+        "num": 227692,
+        "word": "东北雨姐极速坠落",
+        "onboard_time": 1729429641,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 351275,
+        "num": 227559,
+        "word": "杨紫粉色抹胸长裙",
+        "onboard_time": 1729432407,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348920,
+        "num": 227503,
+        "word": "原地超慢跑减掉54斤",
+        "onboard_time": 1729424360,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 339981,
+        "num": 227321,
+        "word": "风吹半夏",
+        "onboard_time": 1729433005,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312435,
+        "num": 227290,
+        "word": "向前看 别回头",
+        "onboard_time": 1729433663,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236043,
+        "num": 227129,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227054,
+        "num": 227054,
+        "word": "付航值得",
+        "onboard_time": 1729422860,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214841,
+        "num": 214841,
+        "word": "对视力伤害很大的行为",
+        "onboard_time": 1729418000,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200364,
+        "num": 200364,
+        "word": "臭肉事件被免职校长临近退休",
+        "onboard_time": 1729418120,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191608,
+        "num": 191608,
+        "word": "宁静说演员行业门槛低",
+        "onboard_time": 1729433484,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187977,
+        "num": 187977,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187152,
+        "num": 187152,
+        "word": "李耕耘 躺着怎么减肥",
+        "onboard_time": 1729432706,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186141,
+        "num": 186141,
+        "word": "游泳队英语最好的是汪顺",
+        "onboard_time": 1729433844,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182396,
+        "num": 182396,
+        "word": "权志龙染了红发",
+        "onboard_time": 1729430242,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175511,
+        "num": 175511,
+        "word": "哀牢山拍到大量珍稀野生动物",
+        "onboard_time": 1729416979,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1152786,
+        "num": 175119,
+        "word": "小米芯片",
+        "onboard_time": 1729430002,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170324,
+        "num": 170324,
+        "word": "非遗蜀绣上的花花连小耳朵都是细节",
+        "onboard_time": 1729430362,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161490,
+        "num": 161490,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160926,
+        "num": 160926,
+        "word": "学校回应男孩校内丢失人工耳蜗",
+        "onboard_time": 1729432106,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158059,
+        "num": 158059,
+        "word": "战至巅峰 镜头",
+        "onboard_time": 1729421901,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156261,
+        "num": 156261,
+        "word": "张若昀来日方长",
+        "onboard_time": 1729433904,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147204,
+        "num": 147204,
+        "word": "战至巅峰",
+        "onboard_time": 1729421119,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146773,
+        "num": 146773,
+        "word": "黄俊捷哭了",
+        "onboard_time": 1729428140,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141568,
+        "num": 141568,
+        "word": "GEN对战FLY",
+        "onboard_time": 1729426520,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "于和伟陪跑",
+        "onboard_time": 1729433963,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对国家级经济技术开发区工作作出重要指示#"
+    }
+  }
+}
