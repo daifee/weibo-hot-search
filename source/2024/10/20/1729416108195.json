@@ -1,0 +1,410 @@
+{
+  "runTime": 1729416108195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1144864,
+        "num": 1183178,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799811,
+        "num": 799811,
+        "word": "美国绝密情报遭泄露",
+        "onboard_time": 1729411098,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22432,
+        "num": 719525,
+        "word": "文人墨客笔下的安徽",
+        "onboard_time": 1729413737,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656370,
+        "num": 656370,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631336,
+        "num": 631336,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599502,
+        "num": 599502,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 349802,
+        "num": 349802,
+        "word": "张新成 我还年轻啥都能演啥都想演",
+        "onboard_time": 1729413019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256535,
+        "num": 256535,
+        "word": "王一博车队冠军",
+        "onboard_time": 1729408759,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254149,
+        "num": 254149,
+        "word": "失聪女博士与丈夫在清华实验室相遇",
+        "onboard_time": 1729412358,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249677,
+        "num": 249677,
+        "word": "哈马斯回应以军公布辛瓦尔视频画面",
+        "onboard_time": 1729410199,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 907978,
+        "num": 245530,
+        "word": "黄圣依原生家庭",
+        "onboard_time": 1729414999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619758,
+        "num": 243034,
+        "word": "男子飞脚踹倒女孩警方介入处理",
+        "onboard_time": 1729411098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493575,
+        "num": 233587,
+        "word": "男子篮球场飞脚从背后踹倒女孩",
+        "onboard_time": 1729410379,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366066,
+        "num": 229702,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 346845,
+        "num": 224466,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837224,
+        "num": 216590,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290087,
+        "num": 215448,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189950,
+        "num": 210008,
+        "word": "小区收楼仅3年139户玻璃自爆",
+        "onboard_time": 1729410740,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260773,
+        "num": 201326,
+        "word": "日本小学生的校内午餐",
+        "onboard_time": 1729415599,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199500,
+        "num": 199500,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1729409599,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503572,
+        "num": 199210,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280893,
+        "num": 199083,
+        "word": "当我买狗窝时忘了看尺寸",
+        "onboard_time": 1729412298,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208832,
+        "num": 198961,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198367,
+        "num": 198367,
+        "word": "刘惜君allin选择薛之谦",
+        "onboard_time": 1729414878,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27424,
+        "num": 195513,
+        "word": "吃鸡er的飙车是飞车",
+        "onboard_time": 1729414099,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195481,
+        "num": 195481,
+        "word": "迪丽热巴线下土味应援牌",
+        "onboard_time": 1729415119,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169054,
+        "num": 195180,
+        "word": "弦子又要讲李茂了",
+        "onboard_time": 1729410678,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151083,
+        "num": 195081,
+        "word": "付航的获奖感言",
+        "onboard_time": 1729409300,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94129,
+        "num": 194350,
+        "word": "被爱真的会长出新的羽毛",
+        "onboard_time": 1729416019,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23994,
+        "num": 194239,
+        "word": "被迪士尼皮到了甜到了",
+        "onboard_time": 1729414580,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 74003,
+        "num": 193816,
+        "word": "小西天辟谣保安透露涨薪被辞退",
+        "onboard_time": 1729415238,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193596,
+        "num": 193596,
+        "word": "高校女厕坑位旁发现摄像头",
+        "onboard_time": 1729408698,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173405,
+        "num": 173405,
+        "word": "老教授去世5年捐款仍年年按时到账",
+        "onboard_time": 1729411339,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150911,
+        "num": 150911,
+        "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+        "onboard_time": 1729415658,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137754,
+        "num": 137754,
+        "word": "小丑从i变e仅需一个小丑女",
+        "onboard_time": 1729414400,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55353,
+        "num": 136086,
+        "word": "小交警贴脸开大让路人戴头盔",
+        "onboard_time": 1729405459,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149013,
+        "num": 136043,
+        "word": "马龙生日发文",
+        "onboard_time": 1729403119,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134752,
+        "num": 134752,
+        "word": "小米15",
+        "onboard_time": 1729400119,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125724,
+        "num": 125724,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125424,
+        "num": 125424,
+        "word": "短剧版聊斋",
+        "onboard_time": 1729415478,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123107,
+        "num": 123107,
+        "word": "王一博刷新了自己的最快圈速",
+        "onboard_time": 1729413078,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121046,
+        "num": 121046,
+        "word": "小西天保安大叔已经返岗",
+        "onboard_time": 1729407619,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112964,
+        "num": 112964,
+        "word": "法考",
+        "onboard_time": 1729399039,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111581,
+        "num": 111581,
+        "word": "高楼扔烟头掉楼下邻居家引火灾",
+        "onboard_time": 1729415599,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107895,
+        "num": 107895,
+        "word": "刘耀文新歌sugar预告",
+        "onboard_time": 1729414758,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105600,
+        "num": 105600,
+        "word": "金鹰奖颁授典礼座位图",
+        "onboard_time": 1729402638,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102659,
+        "num": 102659,
+        "word": "胖东来进京能火多久",
+        "onboard_time": 1729406058,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102042,
+        "num": 102042,
+        "word": "年轻人为什么爱上了毛绒玩具",
+        "onboard_time": 1729408278,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101896,
+        "num": 101896,
+        "word": "苏有朋开口梦回五阿哥",
+        "onboard_time": 1729411940,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101204,
+        "num": 101204,
+        "word": "金钟奖获奖名单",
+        "onboard_time": 1729415419,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化科学技术要打头阵#"
+    }
+  }
+}

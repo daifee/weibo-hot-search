@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729413740819,
+  "endTime": 1729416108195,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907978,
+      "num": 245530,
+      "word": "黄圣依原生家庭",
+      "onboard_time": 1729414999,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863463,
       "num": 1138154,
       "word": "金鹰奖",
@@ -153,6 +161,14 @@
       "onboard_time": 1729351760,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 799811,
+      "num": 799811,
+      "word": "美国绝密情报遭泄露",
+      "onboard_time": 1729411098,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 790193,
@@ -219,14 +235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 638717,
-      "num": 638717,
-      "word": "美国绝密情报遭泄露",
-      "onboard_time": 1729411098,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 625310,
       "num": 356652,
       "word": "花车上的迪丽热巴",
@@ -235,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619758,
+      "num": 256137,
+      "word": "男子飞脚踹倒女孩警方介入处理",
+      "onboard_time": 1729411098,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609145,
       "num": 461354,
       "word": "黄圣依杨子 爱是真的不爱也是真的",
       "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599502,
+      "num": 599502,
+      "word": "闵塔鲨",
+      "onboard_time": 1729413078,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 596215,
@@ -355,19 +379,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 493575,
+      "num": 270389,
+      "word": "男子篮球场飞脚从背后踹倒女孩",
+      "onboard_time": 1729410379,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493298,
       "num": 493298,
       "word": "记者卧底贩婴现场",
       "onboard_time": 1729394958,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492525,
-      "num": 270389,
-      "word": "男子篮球场飞脚从背后踹倒女孩",
-      "onboard_time": 1729410379,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -563,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349802,
+      "num": 349802,
+      "word": "张新成 我还年轻啥都能演啥都想演",
+      "onboard_time": 1729413019,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346567,
       "num": 346567,
       "word": "周深香港人气",
@@ -675,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280893,
+      "num": 227280,
+      "word": "当我买狗窝时忘了看尺寸",
+      "onboard_time": 1729412298,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280196,
       "num": 280196,
       "word": "班主任 人生照片这不就来了",
@@ -699,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 260773,
+      "num": 201326,
+      "word": "日本小学生的校内午餐",
+      "onboard_time": 1729415599,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 258236,
       "num": 258236,
       "word": "这可能是小猫睡得最暖的一次",
@@ -715,11 +763,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256137,
-      "num": 256137,
-      "word": "男子飞脚踹倒女孩警方介入处理",
-      "onboard_time": 1729411098,
-      "rank": 26,
+      "raw_hot": 254149,
+      "num": 254149,
+      "word": "失聪女博士与丈夫在清华实验室相遇",
+      "onboard_time": 1729412358,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -739,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249677,
+      "num": 261018,
+      "word": "哈马斯回应以军公布辛瓦尔视频画面",
+      "onboard_time": 1729410199,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 247290,
       "num": 247290,
       "word": "景区回应网传小西天保安大叔被辞退",
@@ -753,14 +809,6 @@
       "onboard_time": 1729381636,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240424,
-      "num": 240424,
-      "word": "闵塔鲨",
-      "onboard_time": 1729413078,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 237027,
@@ -803,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227280,
-      "num": 227280,
-      "word": "当我买狗窝时忘了看尺寸",
-      "onboard_time": 1729412298,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226208,
       "num": 226208,
       "word": "潘展乐回应100米自由泳摘银",
@@ -841,14 +881,6 @@
       "onboard_time": 1729346301,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 214926,
-      "num": 214926,
-      "word": "失聪女博士与丈夫在清华实验室相遇",
-      "onboard_time": 1729412358,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214479,
@@ -939,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198367,
+      "num": 198367,
+      "word": "刘惜君allin选择薛之谦",
+      "onboard_time": 1729414878,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197088,
       "num": 195953,
       "word": "看滔搏比赛 破防",
@@ -953,6 +993,14 @@
       "onboard_time": 1729390400,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195481,
+      "num": 195481,
+      "word": "迪丽热巴线下土味应援牌",
+      "onboard_time": 1729415119,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 194944,
@@ -995,20 +1043,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189950,
+      "num": 237718,
+      "word": "小区收楼仅3年139户玻璃自爆",
+      "onboard_time": 1729410740,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188759,
       "num": 339685,
       "word": "陆嘉学 发疯纯爱",
       "onboard_time": 1729394297,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188090,
-      "num": 261018,
-      "word": "哈马斯回应以军公布辛瓦尔视频画面",
-      "onboard_time": 1729410199,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 186676,
@@ -1075,20 +1123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173405,
+      "num": 214416,
+      "word": "老教授去世5年捐款仍年年按时到账",
+      "onboard_time": 1729411339,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173088,
       "num": 153144,
       "word": "逆水寒喜羊羊与灰太狼联动",
       "onboard_time": 1729405819,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171520,
-      "num": 200522,
-      "word": "张新成 我还年轻啥都能演啥都想演",
-      "onboard_time": 1729413019,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 171356,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1729412119,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165661,
-      "num": 214416,
-      "word": "老教授去世5年捐款仍年年按时到账",
-      "onboard_time": 1729411339,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163929,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150911,
+      "num": 150911,
+      "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+      "onboard_time": 1729415658,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149878,
       "num": 149878,
       "word": "行政法",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1729355298,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137754,
+      "num": 137754,
+      "word": "小丑从i变e仅需一个小丑女",
+      "onboard_time": 1729414400,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 137689,
@@ -1427,20 +1483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125424,
+      "num": 125424,
+      "word": "短剧版聊斋",
+      "onboard_time": 1729415478,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124719,
       "num": 124719,
       "word": "重返未来1999",
       "onboard_time": 1729399578,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123756,
-      "num": 237718,
-      "word": "小区收楼仅3年139户玻璃自爆",
-      "onboard_time": 1729410740,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122930,
@@ -1515,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111581,
+      "num": 111581,
+      "word": "高楼扔烟头掉楼下邻居家引火灾",
+      "onboard_time": 1729415599,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1729409239,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107895,
+      "num": 107895,
+      "word": "刘耀文新歌sugar预告",
+      "onboard_time": 1729414758,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 107478,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1729384097,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101204,
+      "num": 101204,
+      "word": "金钟奖获奖名单",
+      "onboard_time": 1729415419,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98252,
@@ -1601,6 +1681,14 @@
       "onboard_time": 1729389859,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94129,
+      "num": 194350,
+      "word": "被爱真的会长出新的羽毛",
+      "onboard_time": 1729416019,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90492,
@@ -1681,6 +1769,14 @@
       "onboard_time": 1729368671,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 74003,
+      "num": 193816,
+      "word": "小西天辟谣保安透露涨薪被辞退",
+      "onboard_time": 1729415238,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73909,
@@ -1931,6 +2027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 27424,
+      "num": 195513,
+      "word": "吃鸡er的飙车是飞车",
+      "onboard_time": 1729414099,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -1955,11 +2059,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23994,
+      "num": 194239,
+      "word": "被迪士尼皮到了甜到了",
+      "onboard_time": 1729414580,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 23098,
       "num": 277055,
       "word": "为重启父被杀案儿子诉母遗弃罪",
       "onboard_time": 1729408518,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22432,
+      "num": 719525,
+      "word": "文人墨客笔下的安徽",
+      "onboard_time": 1729413737,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2090,6 +2210,9 @@
     },
     {
       "word": "#习近平引经据典话金砖#"
+    },
+    {
+      "word": "#推进中国式现代化科学技术要打头阵#"
     }
   ]
 }
