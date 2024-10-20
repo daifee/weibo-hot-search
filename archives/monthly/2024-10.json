@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729441556264,
+  "endTime": 1729442509979,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2755,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296592,
+      "num": 524244,
+      "word": "听泉鉴宝下播",
+      "onboard_time": 1729436963,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1294678,
       "num": 618519,
       "word": "诺贝尔文学奖",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1727947038,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1212888,
-      "num": 524244,
-      "word": "听泉鉴宝下播",
-      "onboard_time": 1729436963,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 1211726,
@@ -20323,6 +20323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 279304,
+      "num": 279304,
+      "word": "金鹰奖证明了自己",
+      "onboard_time": 1729438641,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279277,
       "num": 338459,
       "word": "七夜雪 抠图",
@@ -22291,14 +22299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252672,
-      "num": 252672,
-      "word": "金鹰奖证明了自己",
-      "onboard_time": 1729438641,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252426,
       "num": 252426,
       "word": "刺痛 帅哥你谁",
@@ -22889,6 +22889,14 @@
       "onboard_time": 1727835798,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245284,
+      "num": 245284,
+      "word": "Fly眼见为实",
+      "onboard_time": 1729439599,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 245254,
@@ -26651,6 +26659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209921,
+      "num": 209921,
+      "word": "蜀绣翻转瞬间惊艳了",
+      "onboard_time": 1729439780,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209889,
       "num": 209889,
       "word": "第五人格昆虫学者",
@@ -27201,6 +27217,14 @@
       "onboard_time": 1727766260,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206420,
+      "num": 206420,
+      "word": "手工耿已停更近5月",
+      "onboard_time": 1729439000,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 206340,
@@ -32227,14 +32251,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 184461,
-      "num": 184461,
-      "word": "蜀绣翻转瞬间惊艳了",
-      "onboard_time": 1729439780,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184459,
       "num": 184459,
       "word": "古德温世界波",
@@ -34497,14 +34513,6 @@
       "onboard_time": 1727789183,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171604,
-      "num": 171604,
-      "word": "手工耿已停更近5月",
-      "onboard_time": 1729439000,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 171430,
@@ -48099,14 +48107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102920,
-      "num": 102920,
-      "word": "Fly眼见为实",
-      "onboard_time": 1729439599,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 102863,
       "num": 102863,
       "word": "付航 懂的人都知道门道有多深",
@@ -50344,6 +50344,14 @@
       "word": "任嘉伦深情表白祖国",
       "onboard_time": 1727842278,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85042,
+      "num": 98178,
+      "word": "游本昌张绍林获中国文联终身成就奖",
+      "onboard_time": 1729439659,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -56267,6 +56275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39964,
+      "num": 181915,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39944,
       "num": 491533,
       "word": "中国汽车如何更好走出国门",
@@ -58760,6 +58776,14 @@
       "word": "自驾川西遇大量落石众人自发清理",
       "onboard_time": 1728059957,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28288,
+      "num": 182848,
+      "word": "想贷款开店被骗反背一身债",
+      "onboard_time": 1729442179,
+      "rank": 28,
       "category": "社会新闻"
     },
     {

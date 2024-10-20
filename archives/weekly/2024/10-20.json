@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729441556264,
+  "endTime": 1729442509979,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -163,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1296592,
+      "num": 524244,
+      "word": "听泉鉴宝下播",
+      "onboard_time": 1729436963,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1283262,
       "num": 491449,
       "word": "谢娜祝贺何炅赵丽颖拿奖",
@@ -185,14 +193,6 @@
       "onboard_time": 1729351039,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1212888,
-      "num": 524244,
-      "word": "听泉鉴宝下播",
-      "onboard_time": 1729436963,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 1196793,
@@ -1251,6 +1251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279304,
+      "num": 279304,
+      "word": "金鹰奖证明了自己",
+      "onboard_time": 1729438641,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278978,
       "num": 278978,
       "word": "四川乐山摩托与轿车相撞致3死",
@@ -1331,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252672,
-      "num": 252672,
-      "word": "金鹰奖证明了自己",
-      "onboard_time": 1729438641,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252348,
       "num": 252348,
       "word": "浪姐是黄圣依的觉醒时刻",
@@ -1393,6 +1393,14 @@
       "onboard_time": 1729381636,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245284,
+      "num": 245284,
+      "word": "Fly眼见为实",
+      "onboard_time": 1729439599,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 244100,
@@ -1627,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209921,
+      "num": 209921,
+      "word": "蜀绣翻转瞬间惊艳了",
+      "onboard_time": 1729439780,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209477,
       "num": 241485,
       "word": "杨贵媚二封视后",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1729381154,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206420,
+      "num": 206420,
+      "word": "手工耿已停更近5月",
+      "onboard_time": 1729439000,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 202029,
@@ -1883,14 +1907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184461,
-      "num": 184461,
-      "word": "蜀绣翻转瞬间惊艳了",
-      "onboard_time": 1729439780,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "阴阳师",
@@ -2001,14 +2017,6 @@
       "onboard_time": 1729431084,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171604,
-      "num": 171604,
-      "word": "手工耿已停更近5月",
-      "onboard_time": 1729439000,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 171356,
@@ -2707,14 +2715,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 102920,
-      "num": 102920,
-      "word": "Fly眼见为实",
-      "onboard_time": 1729439599,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 102121,
       "num": 102121,
       "word": "六福周大福半年均关店180多家",
@@ -2801,6 +2801,14 @@
       "onboard_time": 1729349244,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85042,
+      "num": 98178,
+      "word": "游本昌张绍林获中国文联终身成就奖",
+      "onboard_time": 1729439659,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 83511,
@@ -3107,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39964,
+      "num": 181915,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39793,
       "num": 39793,
       "word": "假网站内容骗子可以随便删改",
@@ -3164,7 +3180,7 @@
     },
     {
       "raw_hot": 33122,
-      "num": 274759,
+      "num": 277090,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1729441337,
       "rank": 14,
@@ -3224,6 +3240,14 @@
       "word": "40岁就可以打带状疱疹疫苗了",
       "onboard_time": 1729424961,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28288,
+      "num": 182848,
+      "word": "想贷款开店被骗反背一身债",
+      "onboard_time": 1729442179,
+      "rank": 28,
       "category": "社会新闻"
     },
     {

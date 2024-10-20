@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729441556264,
+  "endTime": 1729442509979,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -11,7 +11,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1212888,
+      "raw_hot": 1296592,
       "num": 521645,
       "word": "听泉鉴宝下播",
       "onboard_time": 1729436963,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1081547,
-      "num": 425206,
+      "num": 468224,
       "word": "谢娜祝贺何炅赵丽颖拿奖",
       "onboard_time": 1729437983,
       "rank": 6,
@@ -59,8 +59,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474818,
+      "num": 474818,
+      "word": "GEN对战FLY",
+      "onboard_time": 1729426520,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 464859,
-      "num": 235692,
+      "num": 240888,
       "word": "金鹰奖 六缺三",
       "onboard_time": 1729431202,
       "rank": 20,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 306888,
-      "num": 234792,
+      "num": 240129,
       "word": "男子将3岁女儿抛向大货车被判死刑",
       "onboard_time": 1729422981,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306760,
+      "num": 306760,
+      "word": "TES好好学",
+      "onboard_time": 1729429521,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 302085,
@@ -113,6 +129,14 @@
       "onboard_time": 1729436482,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279304,
+      "num": 279304,
+      "word": "金鹰奖证明了自己",
+      "onboard_time": 1729438641,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 270521,
@@ -139,11 +163,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242833,
-      "num": 242833,
-      "word": "GEN对战FLY",
-      "onboard_time": 1729426520,
-      "rank": 18,
+      "raw_hot": 245284,
+      "num": 245284,
+      "word": "Fly眼见为实",
+      "onboard_time": 1729439599,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -163,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232775,
-      "num": 232775,
-      "word": "金鹰奖证明了自己",
-      "onboard_time": 1729438641,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226647,
       "num": 226647,
       "word": "没有金鹰女神",
@@ -187,6 +203,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209921,
+      "num": 209921,
+      "word": "蜀绣翻转瞬间惊艳了",
+      "onboard_time": 1729439780,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206420,
+      "num": 206420,
+      "word": "手工耿已停更近5月",
+      "onboard_time": 1729439000,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 198276,
+      "num": 198276,
+      "word": "东北雨姐极速坠落",
+      "onboard_time": 1729429641,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 196528,
       "num": 196528,
       "word": "刘琳什么时候拿奖",
@@ -195,28 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192478,
-      "num": 192478,
-      "word": "东北雨姐极速坠落",
-      "onboard_time": 1729429641,
-      "rank": 26,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 188236,
       "num": 188236,
       "word": "原地超慢跑减掉54斤",
       "onboard_time": 1729424360,
       "rank": 27,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 184461,
-      "num": 184461,
-      "word": "蜀绣翻转瞬间惊艳了",
-      "onboard_time": 1729439780,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182426,
@@ -243,20 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171604,
-      "num": 171604,
-      "word": "手工耿已停更近5月",
-      "onboard_time": 1729439000,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 167729,
       "num": 167729,
       "word": "金鹰奖 白玉兰",
       "onboard_time": 1729434923,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126252,
+      "num": 126252,
+      "word": "TES后台",
+      "onboard_time": 1729409419,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 121451,
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107635,
+      "num": 107635,
+      "word": "看滔搏比赛 破防",
+      "onboard_time": 1729412779,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103017,
       "num": 103017,
       "word": "文旅局长回应小西天景区保安被辞退",
@@ -323,16 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102920,
-      "num": 102920,
-      "word": "Fly眼见为实",
-      "onboard_time": 1729439599,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 99999,
-      "num": 99999,
+      "raw_hot": 100949,
+      "num": 100949,
       "word": "付航底色不是悲凉是passion",
       "onboard_time": 1729416859,
       "rank": 43,
@@ -348,19 +372,11 @@
     },
     {
       "raw_hot": 94889,
-      "num": 94889,
+      "num": 98105,
       "word": "张若昀来日方长",
       "onboard_time": 1729433904,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92884,
-      "num": 92884,
-      "word": "TES好好学",
-      "onboard_time": 1729429521,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 91928,
@@ -379,11 +395,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85042,
+      "num": 98178,
+      "word": "游本昌张绍林获中国文联终身成就奖",
+      "onboard_time": 1729439659,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39964,
+      "num": 181915,
+      "word": "GEN晋级S14四强",
+      "onboard_time": 1729442179,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33122,
-      "num": 274759,
+      "num": 277090,
       "word": "大型纪录片为了新中国",
       "onboard_time": 1729441337,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28288,
+      "num": 182848,
+      "word": "想贷款开店被骗反背一身债",
+      "onboard_time": 1729442179,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
