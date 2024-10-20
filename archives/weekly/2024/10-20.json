@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729459210696,
+  "endTime": 1729460112616,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -3419,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22763,
+      "num": 22763,
+      "word": "印度首都河面漂浮大量有毒泡沫",
+      "onboard_time": 1729455732,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22340,
       "num": 120594,
       "word": "这届年轻人过冬既要city又要warm",
@@ -3441,14 +3449,6 @@
       "onboard_time": 1729457171,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20963,
-      "num": 20963,
-      "word": "印度首都河面漂浮大量有毒泡沫",
-      "onboard_time": 1729455732,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 20882,
@@ -3491,7 +3491,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17677,
+      "raw_hot": 17882,
       "num": 29437,
       "word": "农村单身女拒拆迁称嫁给自建房",
       "onboard_time": 1729454890,
@@ -3571,12 +3571,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12255,
+      "raw_hot": 12792,
       "num": 19196,
       "word": "要珍惜呵护当前良好势头",
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12259,
+      "num": 43780,
+      "word": "卖饼大叔妻子生病仍照顾困难同学",
+      "onboard_time": 1729458491,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12115,
@@ -3585,14 +3593,6 @@
       "onboard_time": 1729402099,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11321,
-      "num": 35970,
-      "word": "卖饼大叔妻子生病仍照顾困难同学",
-      "onboard_time": 1729458491,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10544,
