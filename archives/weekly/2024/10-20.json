@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729393727457,
+  "endTime": 1729395214968,
   "band_list": [
     {
       "raw_hot": 2479436,
@@ -83,12 +83,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 734880,
-      "num": 1117580,
+      "raw_hot": 741444,
+      "num": 1118631,
       "word": "潘展乐回应落后0.03秒",
       "onboard_time": 1729388658,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 721285,
+      "num": 721285,
+      "word": "潘展乐无缘200自决赛",
+      "onboard_time": 1729393579,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 700562,
+      "num": 289725,
+      "word": "网约车时速150迈刹不住事故判决",
+      "onboard_time": 1729392737,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657719,
@@ -307,8 +323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302133,
-      "num": 302133,
+      "raw_hot": 317832,
+      "num": 317832,
       "word": "千万级网红被举报涉嫌组织赌博",
       "onboard_time": 1729388599,
       "rank": 45,
@@ -347,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285513,
+      "num": 285513,
+      "word": "高考全省第二北漂5年后的生活",
+      "onboard_time": 1729389920,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 280196,
+      "num": 280196,
+      "word": "班主任 人生照片这不就来了",
+      "onboard_time": 1729390999,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276627,
       "num": 358541,
       "word": "披荆斩棘总决赛",
@@ -355,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274542,
-      "num": 274542,
-      "word": "班主任 人生照片这不就来了",
-      "onboard_time": 1729390999,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 270308,
+      "num": 270308,
+      "word": "粉笔模考",
+      "onboard_time": 1729393939,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 252348,
@@ -377,14 +409,6 @@
       "onboard_time": 1729381636,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243306,
-      "num": 243306,
-      "word": "网约车时速150迈刹不住事故判决",
-      "onboard_time": 1729392737,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231105,
@@ -459,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208381,
-      "num": 208381,
-      "word": "高考全省第二北漂5年后的生活",
-      "onboard_time": 1729389920,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 207234,
       "num": 207234,
       "word": "男子吃饭遇陌生男子拍其饭菜",
       "onboard_time": 1729381154,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205841,
+      "num": 205841,
+      "word": "贾静雯短发",
+      "onboard_time": 1729392978,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202029,
@@ -513,14 +537,6 @@
       "onboard_time": 1729351519,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181828,
-      "num": 181828,
-      "word": "贾静雯短发",
-      "onboard_time": 1729392978,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176743,
@@ -571,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161546,
+      "num": 161546,
+      "word": "官方通报乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729392858,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "加沙约86%人口处于极度饥饿状态",
@@ -579,19 +603,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 159347,
+      "num": 287201,
+      "word": "陆嘉学 发疯纯爱",
+      "onboard_time": 1729394297,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158165,
+      "num": 297668,
+      "word": "杨天真喜剧之王单口季repo",
+      "onboard_time": 1729388419,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154096,
       "num": 154096,
       "word": "黑灯发文",
       "onboard_time": 1729333160,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 152828,
-      "num": 297668,
-      "word": "杨天真喜剧之王单口季repo",
-      "onboard_time": 1729388419,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -643,14 +675,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 137754,
-      "num": 137754,
-      "word": "官方通报乡长下乡被村民刺伤身亡",
-      "onboard_time": 1729392858,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137689,
       "num": 137689,
       "word": "樊振东胸前的金牌在闪光",
@@ -673,6 +697,14 @@
       "onboard_time": 1729348880,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135151,
+      "num": 135151,
+      "word": "aespa互换发型",
+      "onboard_time": 1729391419,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135125,
@@ -731,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119818,
+      "num": 119818,
+      "word": "记者卧底贩婴现场",
+      "onboard_time": 1729394958,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118760,
       "num": 118760,
       "word": "樊振东无情的合影机器",
@@ -745,6 +785,14 @@
       "onboard_time": 1729384097,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117680,
+      "num": 117680,
+      "word": "周深说谭盾写的歌好难唱",
+      "onboard_time": 1729394839,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 117670,
@@ -763,6 +811,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117018,
+      "num": 117018,
+      "word": "Bin AD凯南",
+      "onboard_time": 1729395078,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114840,
+      "num": 114840,
+      "word": "丁真画了自己去世的小马",
+      "onboard_time": 1729395198,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111436,
+      "num": 111436,
+      "word": "怎么可以有人活的跟动漫一样",
+      "onboard_time": 1729394118,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
@@ -771,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107800,
-      "num": 107800,
-      "word": "aespa互换发型",
-      "onboard_time": 1729391419,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 108030,
+      "num": 108030,
+      "word": "中介自称今年贩婴超十个月收入8万",
+      "onboard_time": 1729395018,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107478,
@@ -873,6 +945,14 @@
       "onboard_time": 1729368671,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73909,
+      "num": 301556,
+      "word": "当地通报乡长下村工作时遇害",
+      "onboard_time": 1729393038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73473,
@@ -972,7 +1052,7 @@
     },
     {
       "raw_hot": 43857,
-      "num": 274571,
+      "num": 287997,
       "word": "和平精英玩家这么上流的吗",
       "onboard_time": 1729392618,
       "rank": 37,
@@ -1011,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33319,
-      "num": 301556,
-      "word": "当地通报乡长下村工作时遇害",
-      "onboard_time": 1729393038,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31794,
       "num": 122235,
       "word": "不能让界碑移动哪怕一毫米是他们家训",
@@ -1033,14 +1105,6 @@
       "onboard_time": 1729363273,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30540,
-      "num": 275771,
-      "word": "潘展乐无缘200自决赛",
-      "onboard_time": 1729393579,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 27940,
@@ -1155,7 +1219,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 5590,
+      "raw_hot": 6566,
       "num": 808332,
       "word": "盛世中华何以中国",
       "onboard_time": 1729308020,
@@ -1175,6 +1239,9 @@
     },
     {
       "word": "#把部队作战能力搞扎实#"
+    },
+    {
+      "word": "#习近平引经据典话金砖#"
     }
   ]
 }

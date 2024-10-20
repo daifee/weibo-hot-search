@@ -1,0 +1,410 @@
+{
+  "runTime": 1729395214968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 741444,
+        "num": 1118631,
+        "word": "潘展乐回应落后0.03秒",
+        "onboard_time": 1729388658,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721285,
+        "num": 721285,
+        "word": "潘展乐无缘200自决赛",
+        "onboard_time": 1729393579,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6566,
+        "num": 615119,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606609,
+        "num": 606609,
+        "word": "医院不是网红打卡的秀场",
+        "onboard_time": 1729383316,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335024,
+        "num": 335024,
+        "word": "河南的雪要来了",
+        "onboard_time": 1729381154,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317832,
+        "num": 317832,
+        "word": "千万级网红被举报涉嫌组织赌博",
+        "onboard_time": 1729388599,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301200,
+        "num": 301200,
+        "word": "尤长靖总决赛第一",
+        "onboard_time": 1729379834,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291957,
+        "num": 291957,
+        "word": "369",
+        "onboard_time": 1729351760,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256404,
+        "num": 291622,
+        "word": "韩综模仿Hanni出席国会监查",
+        "onboard_time": 1729381697,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151243,
+        "num": 291201,
+        "word": "他把世界上肉最多的肉牛引进新疆",
+        "onboard_time": 1729387278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1932979,
+        "num": 290725,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937156,
+        "num": 290500,
+        "word": "一家三口被撞身亡案司机父亲发声",
+        "onboard_time": 1729385778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700562,
+        "num": 289725,
+        "word": "网约车时速150迈刹不住事故判决",
+        "onboard_time": 1729392737,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559105,
+        "num": 289571,
+        "word": "白鹿拍的日照金山",
+        "onboard_time": 1729385057,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270797,
+        "num": 289191,
+        "word": "冷空气要把河南人赶进被窝里",
+        "onboard_time": 1729384635,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236060,
+        "num": 288678,
+        "word": "披荆斩棘4成团名单",
+        "onboard_time": 1729381636,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43324,
+        "num": 287997,
+        "word": "和平精英玩家这么上流的吗",
+        "onboard_time": 1729392618,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188190,
+        "num": 287581,
+        "word": "梁静茹哽咽回应去年演唱会翻车",
+        "onboard_time": 1729385178,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159347,
+        "num": 287201,
+        "word": "陆嘉学 发疯纯爱",
+        "onboard_time": 1729394297,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158165,
+        "num": 286737,
+        "word": "杨天真喜剧之王单口季repo",
+        "onboard_time": 1729388419,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508556,
+        "num": 286024,
+        "word": "邪恶菠萝蜜",
+        "onboard_time": 1729387579,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304052,
+        "num": 285611,
+        "word": "985毕业男子捡垃圾8年实现财务自由",
+        "onboard_time": 1729388658,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285513,
+        "num": 285513,
+        "word": "高考全省第二北漂5年后的生活",
+        "onboard_time": 1729389920,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 280196,
+        "num": 280196,
+        "word": "班主任 人生照片这不就来了",
+        "onboard_time": 1729390999,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279129,
+        "num": 279129,
+        "word": "巴勒斯坦司机疑发动自杀式袭击",
+        "onboard_time": 1729386138,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273403,
+        "num": 273403,
+        "word": "TheShy看369凯南一脸懵",
+        "onboard_time": 1729384938,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270308,
+        "num": 270308,
+        "word": "粉笔模考",
+        "onboard_time": 1729393939,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260176,
+        "num": 260176,
+        "word": "老人挖了7天茨菇却换来三张假币",
+        "onboard_time": 1729352421,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252046,
+        "num": 252046,
+        "word": "嚣张骗子要挟管住舌头平安无事",
+        "onboard_time": 1729389201,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128503,
+        "num": 223298,
+        "word": "陈好好六街万人迷",
+        "onboard_time": 1729388239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205841,
+        "num": 205841,
+        "word": "贾静雯短发",
+        "onboard_time": 1729392978,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203866,
+        "num": 203866,
+        "word": "当地调查哥读北大弟辍学卖苹果事件",
+        "onboard_time": 1729391538,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185815,
+        "num": 185815,
+        "word": "Meiko说对T1的信息不了解",
+        "onboard_time": 1729390400,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161546,
+        "num": 161546,
+        "word": "官方通报乡长下乡被村民刺伤身亡",
+        "onboard_time": 1729392858,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161505,
+        "num": 161505,
+        "word": "TES止步S14八强",
+        "onboard_time": 1729350561,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142882,
+        "num": 142882,
+        "word": "中国警犬大赛堪比警匪大片",
+        "onboard_time": 1729387339,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138986,
+        "num": 138986,
+        "word": "程靖淇 老友记",
+        "onboard_time": 1729391779,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135151,
+        "num": 135151,
+        "word": "aespa互换发型",
+        "onboard_time": 1729391419,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124265,
+        "num": 124265,
+        "word": "昆明长丰学校食堂承包商被罚578万",
+        "onboard_time": 1729349901,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119818,
+        "num": 119818,
+        "word": "记者卧底贩婴现场",
+        "onboard_time": 1729394958,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117680,
+        "num": 117680,
+        "word": "周深说谭盾写的歌好难唱",
+        "onboard_time": 1729394839,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117018,
+        "num": 117018,
+        "word": "Bin AD凯南",
+        "onboard_time": 1729395078,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114840,
+        "num": 114840,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111436,
+        "num": 111436,
+        "word": "怎么可以有人活的跟动漫一样",
+        "onboard_time": 1729394118,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109858,
+        "num": 109858,
+        "word": "解放军喷火器实喷训练满屏热浪",
+        "onboard_time": 1729391120,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108030,
+        "num": 108030,
+        "word": "中介自称今年贩婴超十个月收入8万",
+        "onboard_time": 1729395018,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73909,
+        "num": 106683,
+        "word": "当地通报乡长下村工作时遇害",
+        "onboard_time": 1729393038,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106456,
+        "num": 106456,
+        "word": "覃海洋说feelnothing",
+        "onboard_time": 1729353079,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 105891,
+        "word": "男子吃饭遇陌生男子拍其饭菜",
+        "onboard_time": 1729381154,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102715,
+        "num": 102715,
+        "word": "林心如金钟奖红毯",
+        "onboard_time": 1729349543,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话金砖#"
+    }
+  }
+}
