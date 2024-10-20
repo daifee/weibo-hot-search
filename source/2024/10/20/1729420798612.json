@@ -1,0 +1,410 @@
+{
+  "runTime": 1729420798612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1662181,
+        "num": 1662181,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989778,
+        "num": 989778,
+        "word": "哀牢山拍到大量珍稀野生动物",
+        "onboard_time": 1729416979,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 6828,
+        "num": 802247,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099523,
+        "num": 786548,
+        "word": "赵丽颖金鹰高定造型",
+        "onboard_time": 1729419019,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640041,
+        "num": 640041,
+        "word": "臭肉事件被免职校长临近退休",
+        "onboard_time": 1729418120,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566104,
+        "num": 566104,
+        "word": "曝登陆少年组合将新增一人",
+        "onboard_time": 1729418600,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550732,
+        "num": 550732,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397113,
+        "num": 397113,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87884,
+        "num": 393534,
+        "word": "6名女生被造谣10万彩礼做女友胜诉",
+        "onboard_time": 1729420400,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97591,
+        "num": 391377,
+        "word": "A股首单增持贷款落地",
+        "onboard_time": 1729420460,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1400741,
+        "num": 385070,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 941442,
+        "num": 382991,
+        "word": "日本小学生的校内午餐",
+        "onboard_time": 1729415599,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 550587,
+        "num": 378913,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1729417640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375212,
+        "num": 375212,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 343907,
+        "num": 343907,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369276,
+        "num": 337769,
+        "word": "黄圣依原生家庭",
+        "onboard_time": 1729414999,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322735,
+        "num": 322735,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301491,
+        "num": 301491,
+        "word": "烧伤妈妈双手因抱孩子二次损伤严重",
+        "onboard_time": 1729415658,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290290,
+        "num": 290290,
+        "word": "被爱真的会长出新的羽毛",
+        "onboard_time": 1729416019,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254024,
+        "num": 254024,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410807,
+        "num": 252134,
+        "word": "对视力伤害很大的行为",
+        "onboard_time": 1729418000,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 367562,
+        "num": 245771,
+        "word": "男子飞脚踹倒女孩警方介入处理",
+        "onboard_time": 1729411098,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301806,
+        "num": 242215,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278791,
+        "num": 232110,
+        "word": "美国绝密情报遭泄露",
+        "onboard_time": 1729411098,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231895,
+        "num": 231895,
+        "word": "战至巅峰直播",
+        "onboard_time": 1729419200,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228249,
+        "num": 228249,
+        "word": "狗 妈妈为什么我离你越来越远了",
+        "onboard_time": 1729418839,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 197282,
+        "num": 197282,
+        "word": "王一博香槟洗礼",
+        "onboard_time": 1729419679,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192997,
+        "num": 192997,
+        "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+        "onboard_time": 1729417458,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189715,
+        "num": 189715,
+        "word": "VOGUE比高更高大片",
+        "onboard_time": 1729419560,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182759,
+        "num": 182759,
+        "word": "陈昊宇厦门",
+        "onboard_time": 1729416318,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181772,
+        "num": 181772,
+        "word": "秦彻单人池",
+        "onboard_time": 1729417699,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181048,
+        "num": 181048,
+        "word": "张新成金鹰奖唯一入围95生",
+        "onboard_time": 1729418479,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161221,
+        "num": 161221,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163849,
+        "num": 160868,
+        "word": "金鹰奖路透",
+        "onboard_time": 1729420218,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159593,
+        "num": 159593,
+        "word": "不良执念清除师",
+        "onboard_time": 1729417819,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138198,
+        "num": 138198,
+        "word": "女生两层楼高发型回头率爆表",
+        "onboard_time": 1729417580,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137069,
+        "num": 137069,
+        "word": "潘展乐总成绩第9",
+        "onboard_time": 1729416499,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132954,
+        "num": 132954,
+        "word": "宜宾燃面真能点燃啊",
+        "onboard_time": 1729416200,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 129923,
+        "num": 129923,
+        "word": "王一博登上冠军领奖台",
+        "onboard_time": 1729417100,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129780,
+        "num": 129780,
+        "word": "付航的获奖感言",
+        "onboard_time": 1729409300,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127792,
+        "num": 127792,
+        "word": "失聪女博士与丈夫在清华实验室相遇",
+        "onboard_time": 1729412358,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124400,
+        "num": 124400,
+        "word": "高楼扔烟头掉楼下邻居家引火灾",
+        "onboard_time": 1729415599,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119205,
+        "num": 119205,
+        "word": "逆水寒手游",
+        "onboard_time": 1729419859,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115229,
+        "num": 115229,
+        "word": "老教授去世5年捐款仍年年按时到账",
+        "onboard_time": 1729411339,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111267,
+        "num": 111267,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109371,
+        "num": 109371,
+        "word": "哈马斯回应以军公布辛瓦尔视频画面",
+        "onboard_time": 1729410199,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105496,
+        "num": 105496,
+        "word": "当我买狗窝时忘了看尺寸",
+        "onboard_time": 1729412298,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104681,
+        "num": 104681,
+        "word": "张新成 我还年轻啥都能演啥都想演",
+        "onboard_time": 1729413019,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103692,
+        "num": 103692,
+        "word": "看滔搏比赛 破防",
+        "onboard_time": 1729412779,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化科学技术要打头阵#"
+    }
+  }
+}

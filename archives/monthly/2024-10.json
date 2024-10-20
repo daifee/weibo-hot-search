@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729419773598,
+  "endTime": 1729420798612,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1568,6 +1568,14 @@
       "word": "三胞胎宝宝坐高铁买挂票",
       "onboard_time": 1728195978,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1662181,
+      "num": 1662181,
+      "word": "北京真的下雪了",
+      "onboard_time": 1729418540,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -3611,6 +3619,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1099523,
+      "num": 786548,
+      "word": "赵丽颖金鹰高定造型",
+      "onboard_time": 1729419019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1099436,
       "num": 459927,
       "word": "赵丽颖 金鹰奖",
@@ -4171,14 +4187,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1025642,
-      "num": 1164102,
-      "word": "北京真的下雪了",
-      "onboard_time": 1729418540,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1025547,
       "num": 1164087,
       "word": "中国公民从黎巴嫩撤离车顶贴国旗",
@@ -4457,6 +4465,14 @@
       "onboard_time": 1727789063,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 989778,
+      "num": 989778,
+      "word": "哀牢山拍到大量珍稀野生动物",
+      "onboard_time": 1729416979,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 988385,
@@ -5753,14 +5769,6 @@
       "onboard_time": 1728026478,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 837052,
-      "num": 837052,
-      "word": "哀牢山拍到大量珍稀野生动物",
-      "onboard_time": 1729416979,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 834061,
@@ -8651,6 +8659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 640041,
+      "num": 640041,
+      "word": "臭肉事件被免职校长临近退休",
+      "onboard_time": 1729418120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639876,
       "num": 639876,
       "word": "港股突变",
@@ -10161,6 +10177,14 @@
       "onboard_time": 1728563841,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566104,
+      "num": 566104,
+      "word": "曝登陆少年组合将新增一人",
+      "onboard_time": 1729418600,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 565878,
@@ -13003,14 +13027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 449125,
-      "num": 425887,
-      "word": "赵丽颖金鹰高定造型",
-      "onboard_time": 1729419019,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 449120,
       "num": 449120,
       "word": "香港男子5000万拿下广州三套房",
@@ -13137,14 +13153,6 @@
       "onboard_time": 1729094598,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 443209,
-      "num": 443209,
-      "word": "曝登陆少年组合将新增一人",
-      "onboard_time": 1729418600,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 443121,
@@ -14041,6 +14049,14 @@
       "onboard_time": 1728567080,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410807,
+      "num": 252134,
+      "word": "对视力伤害很大的行为",
+      "onboard_time": 1729418000,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 410672,
@@ -16275,14 +16291,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 348040,
-      "num": 212531,
-      "word": "对视力伤害很大的行为",
-      "onboard_time": 1729418000,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "易烊千玺代言华为nova13",
@@ -18403,14 +18411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299691,
-      "num": 410551,
-      "word": "臭肉事件被免职校长临近退休",
-      "onboard_time": 1729418120,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299520,
       "num": 512720,
       "word": "春花厌改名",
@@ -19073,6 +19073,14 @@
       "onboard_time": 1728362721,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290290,
+      "num": 290290,
+      "word": "被爱真的会长出新的羽毛",
+      "onboard_time": 1729416019,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290276,
@@ -20899,14 +20907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264754,
-      "num": 264754,
-      "word": "被爱真的会长出新的羽毛",
-      "onboard_time": 1729416019,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264707,
       "num": 353539,
       "word": "慕胥辞首发剧照",
@@ -21761,6 +21761,14 @@
       "onboard_time": 1727957121,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 254024,
+      "num": 254024,
+      "word": "付航底色不是悲凉是passion",
+      "onboard_time": 1729416859,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 253963,
@@ -23443,6 +23451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231895,
+      "num": 231895,
+      "word": "战至巅峰直播",
+      "onboard_time": 1729419200,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231822,
       "num": 231822,
       "word": "朝韩部分交界被韩指定为危险区",
@@ -23873,6 +23889,14 @@
       "onboard_time": 1728050659,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228249,
+      "num": 228249,
+      "word": "狗 妈妈为什么我离你越来越远了",
+      "onboard_time": 1729418839,
+      "rank": 34,
+      "category": "休闲"
     },
     {
       "raw_hot": 228080,
@@ -28523,6 +28547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197282,
+      "num": 197282,
+      "word": "王一博香槟洗礼",
+      "onboard_time": 1729419679,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197251,
       "num": 197251,
       "word": "小鹿 单口喜剧女王",
@@ -29659,6 +29691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192997,
+      "num": 192997,
+      "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
+      "onboard_time": 1729417458,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192955,
       "num": 192955,
       "word": "能不能复仇GenG",
@@ -30385,6 +30425,14 @@
       "onboard_time": 1728797719,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189715,
+      "num": 189715,
+      "word": "VOGUE比高更高大片",
+      "onboard_time": 1729419560,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189714,
@@ -31233,14 +31281,6 @@
       "onboard_time": 1728982039,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186001,
-      "num": 186001,
-      "word": "付航底色不是悲凉是passion",
-      "onboard_time": 1729416859,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 185884,
@@ -32147,6 +32187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181048,
+      "num": 181048,
+      "word": "张新成金鹰奖唯一入围95生",
+      "onboard_time": 1729418479,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181033,
       "num": 181033,
       "word": "维密秀 黑皮辣妹",
@@ -32377,14 +32425,6 @@
       "onboard_time": 1728639020,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179796,
-      "num": 179796,
-      "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
-      "onboard_time": 1729417458,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179728,
@@ -34827,14 +34867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166342,
-      "num": 166342,
-      "word": "战至巅峰直播",
-      "onboard_time": 1729419200,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166336,
       "num": 258077,
       "word": "花儿与少年第六季观后感",
@@ -35337,6 +35369,14 @@
       "onboard_time": 1727872639,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163849,
+      "num": 160868,
+      "word": "金鹰奖路透",
+      "onboard_time": 1729420218,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 163844,
@@ -36201,14 +36241,6 @@
       "onboard_time": 1728362662,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159463,
-      "num": 159463,
-      "word": "张新成金鹰奖唯一入围95生",
-      "onboard_time": 1729418479,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 159378,
@@ -37377,14 +37409,6 @@
       "onboard_time": 1729404499,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154410,
-      "num": 154410,
-      "word": "王一博香槟洗礼",
-      "onboard_time": 1729419679,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154395,
@@ -39531,14 +39555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144208,
-      "num": 144208,
-      "word": "狗 妈妈为什么我离你越来越远了",
-      "onboard_time": 1729418839,
-      "rank": 34,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 144177,
       "num": 144177,
       "word": "曹宝儿婚礼",
@@ -40865,6 +40881,14 @@
       "onboard_time": 1728267497,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138198,
+      "num": 138198,
+      "word": "女生两层楼高发型回头率爆表",
+      "onboard_time": 1729417580,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 138166,
@@ -42313,14 +42337,6 @@
       "onboard_time": 1727764758,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131065,
-      "num": 131065,
-      "word": "女生两层楼高发型回头率爆表",
-      "onboard_time": 1729417580,
-      "rank": 37,
-      "category": "美妆"
     },
     {
       "raw_hot": 130986,
@@ -44401,14 +44417,6 @@
       "onboard_time": 1728809419,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119186,
-      "num": 119186,
-      "word": "VOGUE比高更高大片",
-      "onboard_time": 1729419560,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119144,
@@ -48043,6 +48051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97591,
+      "num": 391377,
+      "word": "A股首单增持贷款落地",
+      "onboard_time": 1729420460,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97306,
       "num": 97306,
       "word": "张子墨 恩静大少爷",
@@ -49193,6 +49209,14 @@
       "onboard_time": 1728519979,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87884,
+      "num": 393534,
+      "word": "6名女生被造谣10万彩礼做女友胜诉",
+      "onboard_time": 1729420400,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87778,
@@ -57524,7 +57548,7 @@
     },
     {
       "raw_hot": 29862,
-      "num": 801278,
+      "num": 802247,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,
