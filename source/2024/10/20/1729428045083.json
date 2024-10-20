@@ -1,0 +1,410 @@
+{
+  "runTime": 1729428045083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249431,
+        "num": 1249431,
+        "word": "闫妮差点摔了",
+        "onboard_time": 1729425260,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 884527,
+        "num": 884527,
+        "word": "北京真的下雪了",
+        "onboard_time": 1729418540,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5819,
+        "num": 827836,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159516,
+        "num": 819208,
+        "word": "金鹰奖直播",
+        "onboard_time": 1729422621,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804328,
+        "num": 804328,
+        "word": "文旅局长回应小西天景区保安被辞退",
+        "onboard_time": 1729423762,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558635,
+        "num": 558635,
+        "word": "广州一豪宅卖出4.61亿元天价",
+        "onboard_time": 1729424000,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895915,
+        "num": 527168,
+        "word": "金鹰奖椅子",
+        "onboard_time": 1729424299,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864029,
+        "num": 521078,
+        "word": "芒果艺人做近视眼手术后复发",
+        "onboard_time": 1729423342,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465440,
+        "num": 465440,
+        "word": "哀牢山拍到大量珍稀野生动物",
+        "onboard_time": 1729416979,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 45845,
+        "num": 463540,
+        "word": "A股下周能否走出第二波上涨",
+        "onboard_time": 1729427721,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 768504,
+        "num": 425470,
+        "word": "何炅获奖",
+        "onboard_time": 1729427240,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 751049,
+        "num": 421011,
+        "word": "赵丽颖金鹰高定造型",
+        "onboard_time": 1729419019,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490129,
+        "num": 394900,
+        "word": "臭肉事件被免职校长临近退休",
+        "onboard_time": 1729418120,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665606,
+        "num": 359292,
+        "word": "谭松韵金鹰奖公主造型",
+        "onboard_time": 1729421001,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43681,
+        "num": 349706,
+        "word": "王建国秒变天猫双11种草王",
+        "onboard_time": 1729425620,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337006,
+        "num": 337006,
+        "word": "云南下月起实施痛经假",
+        "onboard_time": 1729411519,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236291,
+        "num": 236291,
+        "word": "四川乐山摩托与轿车相撞致3死",
+        "onboard_time": 1729423460,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216820,
+        "num": 216820,
+        "word": "女子回应儿子疑遭前夫女友虐待致死",
+        "onboard_time": 1729424181,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107343,
+        "num": 216816,
+        "word": "爆火的小西天保安大爷未被开除",
+        "onboard_time": 1729423699,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40895,
+        "num": 216740,
+        "word": "王一博赛车登泰趋",
+        "onboard_time": 1729427240,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881567,
+        "num": 216711,
+        "word": "程莉莎早就发现黄圣依懒得听杨子说话",
+        "onboard_time": 1729418000,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646086,
+        "num": 216654,
+        "word": "何炅刘涛主持",
+        "onboard_time": 1729426220,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201698,
+        "num": 216583,
+        "word": "6名女生被造谣10万彩礼做女友胜诉",
+        "onboard_time": 1729420400,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406641,
+        "num": 216573,
+        "word": "男子将3岁女儿抛向大货车被判死刑",
+        "onboard_time": 1729422981,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19590,
+        "num": 216502,
+        "word": "马青骅TCR世界巡回赛主场夺冠",
+        "onboard_time": 1729423941,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 343649,
+        "num": 216474,
+        "word": "原地超慢跑减掉54斤",
+        "onboard_time": 1729424360,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 328077,
+        "num": 216394,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301943,
+        "num": 216366,
+        "word": "周洁琼晒ioi聚会合照",
+        "onboard_time": 1729426880,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284773,
+        "num": 216334,
+        "word": "康辉来了",
+        "onboard_time": 1729426761,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265201,
+        "num": 216260,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259858,
+        "num": 216196,
+        "word": "上海偶遇蕾哈娜",
+        "onboard_time": 1729425561,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252255,
+        "num": 216168,
+        "word": "付航值得",
+        "onboard_time": 1729422860,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244916,
+        "num": 216115,
+        "word": "对视力伤害很大的行为",
+        "onboard_time": 1729418000,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 235935,
+        "num": 216061,
+        "word": "李耕耘直播",
+        "onboard_time": 1729426761,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218747,
+        "num": 216002,
+        "word": "战至巅峰 镜头",
+        "onboard_time": 1729421901,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215996,
+        "num": 215996,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1729417640,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162692,
+        "num": 215064,
+        "word": "TES后台",
+        "onboard_time": 1729409419,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214294,
+        "num": 214294,
+        "word": "敖子逸时代少年团赛后拥抱",
+        "onboard_time": 1729427179,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186934,
+        "num": 186934,
+        "word": "刘亦菲天梯大片",
+        "onboard_time": 1729427840,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162420,
+        "num": 162420,
+        "word": "曝登陆少年组合将新增一人",
+        "onboard_time": 1729418600,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28248,
+        "num": 161019,
+        "word": "能开上路的Vlog相机",
+        "onboard_time": 1729427660,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82267,
+        "num": 160968,
+        "word": "GEN对战FLY",
+        "onboard_time": 1729426520,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160941,
+        "num": 160941,
+        "word": "付航底色不是悲凉是passion",
+        "onboard_time": 1729416859,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153044,
+        "num": 153044,
+        "word": "狗 妈妈为什么我离你越来越远了",
+        "onboard_time": 1729418839,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 149452,
+        "num": 149452,
+        "word": "覃海洋获200米蛙泳亚军",
+        "onboard_time": 1729425800,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147806,
+        "num": 147806,
+        "word": "闵塔鲨",
+        "onboard_time": 1729413078,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135114,
+        "num": 135114,
+        "word": "李沁黑长直look",
+        "onboard_time": 1729425079,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129884,
+        "num": 129884,
+        "word": "Gr对战Wolves",
+        "onboard_time": 1729427540,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128039,
+        "num": 128039,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23117,
+        "num": 127179,
+        "word": "40岁就可以打带状疱疹疫苗了",
+        "onboard_time": 1729424961,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺普拉博沃就任印尼总统#"
+    }
+  }
+}
