@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729437753477,
+  "endTime": 1729438737302,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -163,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1283262,
+      "num": 491449,
+      "word": "谢娜祝贺何炅赵丽颖拿奖",
+      "onboard_time": 1729437983,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1249431,
       "num": 1249431,
       "word": "闫妮差点摔了",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855751,
+      "num": 524244,
+      "word": "听泉鉴宝下播",
+      "onboard_time": 1729436963,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 838714,
       "num": 477488,
       "word": "黄磊回应近期舆论",
@@ -475,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 655810,
+      "num": 655810,
+      "word": "男孩球场飞踹女孩不予处罚",
+      "onboard_time": 1729434503,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646086,
       "num": 216654,
       "word": "何炅刘涛主持",
@@ -505,14 +529,6 @@
       "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598702,
-      "num": 598702,
-      "word": "男孩球场飞踹女孩不予处罚",
-      "onboard_time": 1729434503,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596215,
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442863,
+      "num": 442863,
+      "word": "iPhone16官旗多款机型破发",
+      "onboard_time": 1729437141,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
@@ -953,14 +977,6 @@
       "onboard_time": 1729409599,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355383,
-      "num": 322661,
-      "word": "听泉鉴宝下播",
-      "onboard_time": 1729436963,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 352958,
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281312,
+      "num": 322752,
+      "word": "梁伟铿王昶vs丹麦组合",
+      "onboard_time": 1729436482,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280893,
       "num": 227280,
       "word": "当我买狗窝时忘了看尺寸",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1729343958,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274414,
+      "num": 274414,
+      "word": "无锡江阴警方通报贩婴事件",
+      "onboard_time": 1729437802,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270308,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1729399399,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252672,
+      "num": 252672,
+      "word": "金鹰奖证明了自己",
+      "onboard_time": 1729438641,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 252348,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1729387339,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213691,
-      "num": 213691,
-      "word": "iPhone16官旗多款机型破发",
-      "onboard_time": 1729437141,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 212812,
@@ -1851,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184120,
+      "num": 184120,
+      "word": "林俊杰嘉宾动力火车",
+      "onboard_time": 1729437681,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "战至巅峰",
@@ -1875,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181254,
+      "num": 181254,
+      "word": "黄俊捷淘汰",
+      "onboard_time": 1729438102,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181048,
       "num": 181048,
       "word": "张新成金鹰奖唯一入围95生",
@@ -1888,6 +1936,14 @@
       "word": "程靖淇 老友记",
       "onboard_time": 1729391779,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173773,
+      "num": 173773,
+      "word": "狼队1比2曼城",
+      "onboard_time": 1729438281,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2075,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158818,
-      "num": 158818,
-      "word": "林俊杰嘉宾动力火车",
-      "onboard_time": 1729437681,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 158165,
       "num": 297668,
       "word": "杨天真喜剧之王单口季repo",
@@ -2129,14 +2177,6 @@
       "onboard_time": 1729350321,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150126,
-      "num": 322752,
-      "word": "梁伟铿王昶vs丹麦组合",
-      "onboard_time": 1729436482,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 149878,
@@ -2851,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58194,
+      "num": 283902,
+      "word": "虹桥机场廊桥内一乘客行李起火",
+      "onboard_time": 1729437983,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57575,
       "num": 349706,
       "word": "王建国秒变天猫双11种草王",
@@ -2971,6 +3019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41725,
+      "num": 544651,
+      "word": "臭肉查清楚臭脸也要说明白",
+      "onboard_time": 1729437321,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41161,
       "num": 381595,
       "word": "深蓝S05太能装了",
@@ -3076,7 +3132,7 @@
     },
     {
       "raw_hot": 31481,
-      "num": 243436,
+      "num": 262626,
       "word": "全友双11在玩一种很新的秀",
       "onboard_time": 1729436723,
       "rank": 33,
@@ -3163,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24678,
-      "num": 544651,
-      "word": "臭肉查清楚臭脸也要说明白",
-      "onboard_time": 1729437321,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24081,
       "num": 24081,
       "word": "王一博85号赛车手准备就绪",
@@ -3211,19 +3259,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 20882,
+      "num": 476450,
+      "word": "校园食品安全不能靠家长当检测员",
+      "onboard_time": 1729436963,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20611,
       "num": 440887,
       "word": "央视曝光职业背贷人骗局",
       "onboard_time": 1729434923,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19642,
-      "num": 476450,
-      "word": "校园食品安全不能靠家长当检测员",
-      "onboard_time": 1729436963,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
