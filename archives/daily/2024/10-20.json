@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729428045083,
+  "endTime": 1729428975329,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2188559,
+      "num": 2188559,
+      "word": "何炅获奖",
+      "onboard_time": 1729427240,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1944898,
       "num": 290497,
       "word": "黄圣依仍然想离婚",
@@ -49,6 +57,14 @@
       "onboard_time": 1729399638,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560425,
+      "num": 515075,
+      "word": "何炅 三十年真心换真心",
+      "onboard_time": 1729428681,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1489780,
@@ -121,6 +137,14 @@
       "onboard_time": 1729422981,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132770,
+      "num": 521078,
+      "word": "芒果艺人做近视眼手术后复发",
+      "onboard_time": 1729423342,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1120366,
@@ -201,14 +225,6 @@
       "onboard_time": 1729424299,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 864029,
-      "num": 521078,
-      "word": "芒果艺人做近视眼手术后复发",
-      "onboard_time": 1729423342,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 863463,
@@ -297,14 +313,6 @@
       "onboard_time": 1729417640,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 768504,
-      "num": 425470,
-      "word": "何炅获奖",
-      "onboard_time": 1729427240,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 767687,
@@ -627,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 440372,
+      "num": 271607,
+      "word": "康辉来了",
+      "onboard_time": 1729426761,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 406641,
-      "num": 216573,
+      "num": 270064,
       "word": "男子将3岁女儿抛向大货车被判死刑",
       "onboard_time": 1729422981,
       "rank": 23,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 343649,
-      "num": 216474,
+      "num": 267759,
       "word": "原地超慢跑减掉54斤",
       "onboard_time": 1729424360,
       "rank": 25,
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318027,
+      "num": 318027,
+      "word": "女子回应儿子疑遭前夫女友虐待致死",
+      "onboard_time": 1729424181,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315268,
       "num": 315268,
       "word": "战至巅峰 镜头",
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 301943,
-      "num": 216366,
+      "num": 266447,
       "word": "周洁琼晒ioi聚会合照",
       "onboard_time": 1729426880,
       "rank": 27,
@@ -963,14 +987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 284773,
-      "num": 216334,
-      "word": "康辉来了",
-      "onboard_time": 1729426761,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280893,
       "num": 227280,
       "word": "当我买狗窝时忘了看尺寸",
@@ -987,12 +1003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278978,
+      "num": 278978,
+      "word": "四川乐山摩托与轿车相撞致3死",
+      "onboard_time": 1729423460,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276627,
       "num": 358541,
       "word": "披荆斩棘总决赛",
       "onboard_time": 1729343958,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275169,
+      "num": 275169,
+      "word": "GEN对战FLY",
+      "onboard_time": 1729426520,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 270308,
@@ -1004,7 +1036,7 @@
     },
     {
       "raw_hot": 259858,
-      "num": 216196,
+      "num": 235572,
       "word": "上海偶遇蕾哈娜",
       "onboard_time": 1729425561,
       "rank": 30,
@@ -1099,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236291,
-      "num": 236291,
-      "word": "四川乐山摩托与轿车相撞致3死",
-      "onboard_time": 1729423460,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235935,
       "num": 216061,
       "word": "李耕耘直播",
@@ -1187,12 +1211,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216820,
-      "num": 216820,
-      "word": "女子回应儿子疑遭前夫女友虐待致死",
-      "onboard_time": 1729424181,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 220044,
+      "num": 220044,
+      "word": "黄俊捷哭了",
+      "onboard_time": 1729428140,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 215206,
@@ -1400,6 +1424,14 @@
       "word": "杨超越超绝松弛感",
       "onboard_time": 1729410318,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192548,
+      "num": 192548,
+      "word": "张雪迎吃螃蟹吃出个冠军",
+      "onboard_time": 1729428741,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1907,12 +1939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133752,
+      "num": 133752,
+      "word": "周涛好美啊",
+      "onboard_time": 1729428622,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133003,
       "num": 133003,
       "word": "胖东来攻入北京",
       "onboard_time": 1729402520,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132951,
+      "num": 132951,
+      "word": "球球大作战服务器",
+      "onboard_time": 1729428320,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 132876,
@@ -2283,14 +2331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82267,
-      "num": 160968,
-      "word": "GEN对战FLY",
-      "onboard_time": 1729426520,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 81494,
       "num": 357076,
       "word": "小鬼说和雅经历了无数个碰撞瞬间",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1729357516,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79444,
+      "num": 463540,
+      "word": "A股下周能否走出第二波上涨",
+      "onboard_time": 1729427721,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 78411,
@@ -2379,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64978,
+      "num": 275667,
+      "word": "未来3天又来一股新冷空气",
+      "onboard_time": 1729428441,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63275,
       "num": 434252,
       "word": "带状疱疹危害有多大",
@@ -2393,6 +2449,22 @@
       "onboard_time": 1729375692,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57575,
+      "num": 349706,
+      "word": "王建国秒变天猫双11种草王",
+      "onboard_time": 1729425620,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57025,
+      "num": 235900,
+      "word": "大连舰女兵勇敢坚定的发言太飒了",
+      "onboard_time": 1729428921,
+      "rank": 29,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 53265,
@@ -2483,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45845,
-      "num": 463540,
-      "word": "A股下周能否走出第二波上涨",
-      "onboard_time": 1729427721,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 44438,
       "num": 341727,
       "word": "禁养烈性犬伤人饲养人将担全责",
@@ -2505,14 +2569,6 @@
       "onboard_time": 1729407919,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43681,
-      "num": 349706,
-      "word": "王建国秒变天猫双11种草王",
-      "onboard_time": 1729425620,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 41109,
@@ -2587,6 +2643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32922,
+      "num": 281331,
+      "word": "能开上路的Vlog相机",
+      "onboard_time": 1729427660,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32636,
       "num": 301215,
       "word": "律师解读臭肉事件调查处理结果",
@@ -2619,12 +2683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28248,
-      "num": 161019,
-      "word": "能开上路的Vlog相机",
-      "onboard_time": 1729427660,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 29332,
+      "num": 131612,
+      "word": "40岁就可以打带状疱疹疫苗了",
+      "onboard_time": 1729424961,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27940,
@@ -2689,14 +2753,6 @@
       "onboard_time": 1729414580,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23117,
-      "num": 127179,
-      "word": "40岁就可以打带状疱疹疫苗了",
-      "onboard_time": 1729424961,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23098,
