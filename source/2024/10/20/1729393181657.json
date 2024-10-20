@@ -1,0 +1,410 @@
+{
+  "runTime": 1729393181657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710465,
+        "num": 1113674,
+        "word": "医院不是网红打卡的秀场",
+        "onboard_time": 1729383316,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624704,
+        "num": 624704,
+        "word": "潘展乐回应落后0.03秒",
+        "onboard_time": 1729388658,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9526,
+        "num": 434829,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386830,
+        "num": 386830,
+        "word": "369",
+        "onboard_time": 1729351760,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 385684,
+        "num": 385684,
+        "word": "尤长靖总决赛第一",
+        "onboard_time": 1729379834,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328365,
+        "num": 328365,
+        "word": "冷空气要把河南人赶进被窝里",
+        "onboard_time": 1729384635,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322402,
+        "num": 322402,
+        "word": "河南的雪要来了",
+        "onboard_time": 1729381154,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302133,
+        "num": 302133,
+        "word": "千万级网红被举报涉嫌组织赌博",
+        "onboard_time": 1729388599,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255179,
+        "num": 301954,
+        "word": "韩综模仿Hanni出席国会监查",
+        "onboard_time": 1729381697,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29867,
+        "num": 301556,
+        "word": "当地通报乡长下村工作时遇害",
+        "onboard_time": 1729393038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53265,
+        "num": 301094,
+        "word": "文化中国行看诗意安徽",
+        "onboard_time": 1729392198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2183057,
+        "num": 300640,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1004691,
+        "num": 300282,
+        "word": "一家三口被撞身亡案司机父亲发声",
+        "onboard_time": 1729385778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858503,
+        "num": 300115,
+        "word": "调查将全面分析不想生不敢生原因",
+        "onboard_time": 1729385837,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645057,
+        "num": 299549,
+        "word": "白鹿拍的日照金山",
+        "onboard_time": 1729385057,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495705,
+        "num": 299207,
+        "word": "邪恶菠萝蜜",
+        "onboard_time": 1729387579,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172208,
+        "num": 298658,
+        "word": "他把世界上肉最多的肉牛引进新疆",
+        "onboard_time": 1729387278,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247286,
+        "num": 298437,
+        "word": "梁静茹哽咽回应去年演唱会翻车",
+        "onboard_time": 1729385178,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202226,
+        "num": 297986,
+        "word": "披荆斩棘4成团名单",
+        "onboard_time": 1729381636,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146604,
+        "num": 297668,
+        "word": "杨天真喜剧之王单口季repo",
+        "onboard_time": 1729388419,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297403,
+        "num": 297403,
+        "word": "嚣张骗子要挟管住舌头平安无事",
+        "onboard_time": 1729389201,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378991,
+        "num": 288349,
+        "word": "985毕业男子捡垃圾8年实现财务自由",
+        "onboard_time": 1729388658,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345531,
+        "num": 282680,
+        "word": "巴勒斯坦司机疑发动自杀式袭击",
+        "onboard_time": 1729386138,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274394,
+        "num": 274394,
+        "word": "TheShy看369凯南一脸懵",
+        "onboard_time": 1729384938,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268013,
+        "num": 268013,
+        "word": "老人挖了7天茨菇却换来三张假币",
+        "onboard_time": 1729352421,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212059,
+        "num": 212059,
+        "word": "有一种腿叫做超模的腿",
+        "onboard_time": 1729384938,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 208381,
+        "num": 208381,
+        "word": "高考全省第二北漂5年后的生活",
+        "onboard_time": 1729389920,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173884,
+        "num": 207229,
+        "word": "陈好好六街万人迷",
+        "onboard_time": 1729388239,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121809,
+        "num": 203640,
+        "word": "高考让锦绣安宁拍明白了",
+        "onboard_time": 1729388658,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24352,
+        "num": 200114,
+        "word": "11.11集卡新玩法",
+        "onboard_time": 1729389920,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 265402,
+        "num": 197423,
+        "word": "班主任 人生照片这不就来了",
+        "onboard_time": 1729390999,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195630,
+        "num": 195630,
+        "word": "Meiko说对T1的信息不了解",
+        "onboard_time": 1729390400,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190974,
+        "num": 190974,
+        "word": "当地调查哥读北大弟辍学卖苹果事件",
+        "onboard_time": 1729391538,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182168,
+        "num": 182168,
+        "word": "中国警犬大赛堪比警匪大片",
+        "onboard_time": 1729387339,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180045,
+        "num": 180045,
+        "word": "昆明长丰学校食堂承包商被罚578万",
+        "onboard_time": 1729349901,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174132,
+        "num": 174132,
+        "word": "程靖淇 老友记",
+        "onboard_time": 1729391779,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170243,
+        "num": 170243,
+        "word": "TES止步S14八强",
+        "onboard_time": 1729350561,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35749,
+        "num": 166161,
+        "word": "和平精英玩家这么上流的吗",
+        "onboard_time": 1729392618,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165415,
+        "num": 165415,
+        "word": "网约车时速150迈刹不住事故判决",
+        "onboard_time": 1729392737,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139743,
+        "num": 139743,
+        "word": "解放军喷火器实喷训练满屏热浪",
+        "onboard_time": 1729391120,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135429,
+        "num": 135429,
+        "word": "贾静雯短发",
+        "onboard_time": 1729392978,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132300,
+        "num": 132300,
+        "word": "青春期的性好奇应该被正视",
+        "onboard_time": 1729386858,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131528,
+        "num": 131528,
+        "word": "男子吃饭遇陌生男子拍其饭菜",
+        "onboard_time": 1729381154,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129520,
+        "num": 129520,
+        "word": "官方通报乡长下乡被村民刺伤身亡",
+        "onboard_time": 1729392858,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125594,
+        "num": 125594,
+        "word": "覃海洋说feelnothing",
+        "onboard_time": 1729353079,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124221,
+        "num": 124221,
+        "word": "世界乒联称马龙是乒坛GOAT",
+        "onboard_time": 1729387458,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109117,
+        "num": 118374,
+        "word": "林心如金钟奖红毯",
+        "onboard_time": 1729349543,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113984,
+        "num": 113984,
+        "word": "黄磊回应近期舆论",
+        "onboard_time": 1729325179,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113109,
+        "num": 113109,
+        "word": "樊振东无情的合影机器",
+        "onboard_time": 1729391898,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103455,
+        "num": 103455,
+        "word": "杨贵媚二封视后",
+        "onboard_time": 1729356916,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把部队作战能力搞扎实#"
+    }
+  }
+}
