@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729448871591,
+  "endTime": 1729449672076,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -451,7 +451,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68058,
+      "raw_hot": 73337,
       "num": 61923,
       "word": "今年冬天会是史上最冷吗",
       "onboard_time": 1729447093,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 16370,
-      "num": 62892,
+      "num": 70163,
       "word": "全国气温榜前十广东拿下九席",
       "onboard_time": 1729448352,
       "rank": 19,
@@ -529,6 +529,14 @@
       "onboard_time": 1729436723,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2437,
+      "num": 127350,
+      "word": "吐鲁番有条3400公里地下水长城",
+      "onboard_time": 1729390158,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
