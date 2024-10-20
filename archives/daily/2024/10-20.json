@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729430731963,
+  "endTime": 1729431431638,
   "band_list": [
     {
       "raw_hot": 4037026,
@@ -25,6 +25,14 @@
       "onboard_time": 1729387278,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2307091,
+      "num": 959229,
+      "word": "高叶金鹰奖最佳女配角",
+      "onboard_time": 1729430183,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2192978,
@@ -67,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1630402,
-      "num": 592720,
-      "word": "高叶金鹰奖最佳女配角",
-      "onboard_time": 1729430183,
-      "rank": 3,
+      "raw_hot": 1510671,
+      "num": 473495,
+      "word": "没有金鹰女神",
+      "onboard_time": 1729430121,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1729385778,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1309911,
+      "num": 1309911,
+      "word": "小米芯片",
+      "onboard_time": 1729430002,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 1249431,
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 740384,
+      "num": 408885,
+      "word": "金鹰奖 六缺三",
+      "onboard_time": 1729431202,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 713445,
       "num": 477325,
       "word": "赵丽颖于和伟一起亮相",
@@ -425,14 +449,6 @@
       "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 606113,
-      "num": 473495,
-      "word": "没有金鹰女神",
-      "onboard_time": 1729430121,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 596215,
@@ -531,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 537622,
+      "num": 312155,
+      "word": "男子将3岁女儿抛向大货车被判死刑",
+      "onboard_time": 1729422981,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537322,
       "num": 537322,
       "word": "尤长靖总决赛第一",
@@ -577,22 +601,6 @@
       "onboard_time": 1729418000,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 502653,
-      "num": 502653,
-      "word": "小米芯片",
-      "onboard_time": 1729430002,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 495912,
-      "num": 312155,
-      "word": "男子将3岁女儿抛向大货车被判死刑",
-      "onboard_time": 1729422981,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493575,
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406030,
+      "num": 310457,
+      "word": "原地超慢跑减掉54斤",
+      "onboard_time": 1729424360,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 399041,
       "num": 399041,
       "word": "长丰学校食品安全问题调查情况通报",
@@ -779,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380243,
-      "num": 310457,
-      "word": "原地超慢跑减掉54斤",
-      "onboard_time": 1729424360,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 381261,
+      "num": 381261,
+      "word": "覃海洋获8000美元奖金",
+      "onboard_time": 1729430722,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 377039,
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 334857,
-      "num": 252813,
+      "num": 319861,
       "word": "TES好好学",
       "onboard_time": 1729429521,
       "rank": 30,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1729420218,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290999,
+      "num": 290999,
+      "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+      "onboard_time": 1729430481,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290491,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 234443,
-      "num": 316099,
+      "num": 432038,
       "word": "非遗蜀绣上的花花连小耳朵都是细节",
       "onboard_time": 1729430362,
       "rank": 21,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1729421239,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212019,
+      "num": 319087,
+      "word": "王景春金鹰奖最佳男配角",
+      "onboard_time": 1729430602,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 211116,
@@ -1547,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187369,
+      "num": 187369,
+      "word": "警方回应男子篮球场飞踹女孩",
+      "onboard_time": 1729430423,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186934,
       "num": 186934,
       "word": "刘亦菲天梯大片",
@@ -1657,6 +1697,22 @@
       "onboard_time": 1729405819,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172959,
+      "num": 172959,
+      "word": "谢霆锋舒淇合照",
+      "onboard_time": 1729431084,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172867,
+      "num": 172867,
+      "word": "金鹰奖获奖名单",
+      "onboard_time": 1729431383,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 171356,
@@ -1819,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153166,
-      "num": 153166,
-      "word": "警方回应男子篮球场飞踹女孩",
-      "onboard_time": 1729430423,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152392,
       "num": 152392,
       "word": "贩婴现场14天男婴被多次抬价卖15万",
@@ -1929,14 +1977,6 @@
       "onboard_time": 1729382057,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145000,
-      "num": 145000,
-      "word": "男孩花费近60万人工耳蜗宿舍内丢失",
-      "onboard_time": 1729430481,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143536,
@@ -2395,14 +2435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93436,
-      "num": 319087,
-      "word": "王景春金鹰奖最佳男配角",
-      "onboard_time": 1729430602,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90492,
       "num": 90492,
       "word": "TES教练",
@@ -2724,7 +2756,7 @@
     },
     {
       "raw_hot": 36322,
-      "num": 354950,
+      "num": 381595,
       "word": "深蓝S05太能装了",
       "onboard_time": 1729429461,
       "rank": 15,
@@ -2756,7 +2788,7 @@
     },
     {
       "raw_hot": 32922,
-      "num": 348710,
+      "num": 381378,
       "word": "能开上路的Vlog相机",
       "onboard_time": 1729427660,
       "rank": 40,
