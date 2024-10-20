@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729393181657,
+  "endTime": 1729393727457,
   "band_list": [
     {
       "raw_hot": 2479436,
@@ -83,20 +83,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 734880,
+      "num": 1117580,
+      "word": "潘展乐回应落后0.03秒",
+      "onboard_time": 1729388658,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 657719,
       "num": 657719,
       "word": "王多多怒喷TES",
       "onboard_time": 1729346842,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 624704,
-      "num": 624704,
-      "word": "潘展乐回应落后0.03秒",
-      "onboard_time": 1729388658,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 588102,
@@ -147,7 +147,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495705,
+      "raw_hot": 516535,
       "num": 299207,
       "word": "邪恶菠萝蜜",
       "onboard_time": 1729387579,
@@ -355,8 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265402,
-      "num": 197423,
+      "raw_hot": 274542,
+      "num": 274542,
       "word": "班主任 人生照片这不就来了",
       "onboard_time": 1729390999,
       "rank": 30,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243306,
+      "num": 243306,
+      "word": "网约车时速150迈刹不住事故判决",
+      "onboard_time": 1729392737,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231105,
       "num": 231105,
       "word": "覃海洋破亚洲纪录夺冠",
@@ -387,8 +395,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230578,
+      "num": 298658,
+      "word": "他把世界上肉最多的肉牛引进新疆",
+      "onboard_time": 1729387278,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229776,
-      "num": 229776,
+      "num": 271044,
       "word": "陈好好六街万人迷",
       "onboard_time": 1729388239,
       "rank": 29,
@@ -425,6 +441,14 @@
       "onboard_time": 1729328840,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209975,
+      "num": 209975,
+      "word": "当地调查哥读北大弟辍学卖苹果事件",
+      "onboard_time": 1729391538,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209477,
@@ -475,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190974,
-      "num": 190974,
-      "word": "当地调查哥读北大弟辍学卖苹果事件",
-      "onboard_time": 1729391538,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186565,
       "num": 186565,
       "word": "LPL最严厉的父亲",
@@ -499,16 +515,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175727,
-      "num": 298658,
-      "word": "他把世界上肉最多的肉牛引进新疆",
-      "onboard_time": 1729387278,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 181828,
+      "num": 181828,
+      "word": "贾静雯短发",
+      "onboard_time": 1729392978,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 174132,
-      "num": 174132,
+      "raw_hot": 176743,
+      "num": 176743,
       "word": "程靖淇 老友记",
       "onboard_time": 1729391779,
       "rank": 35,
@@ -547,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165415,
-      "num": 165415,
-      "word": "网约车时速150迈刹不住事故判决",
-      "onboard_time": 1729392737,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "世界乒联称马龙是乒坛GOAT",
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152828,
+      "num": 297668,
+      "word": "杨天真喜剧之王单口季repo",
+      "onboard_time": 1729388419,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151473,
       "num": 151473,
       "word": "长丰学校校长和法定代表人被免职",
@@ -593,14 +609,6 @@
       "onboard_time": 1729349302,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146604,
-      "num": 297668,
-      "word": "杨天真喜剧之王单口季repo",
-      "onboard_time": 1729388419,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 145179,
@@ -635,6 +643,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 137754,
+      "num": 137754,
+      "word": "官方通报乡长下乡被村民刺伤身亡",
+      "onboard_time": 1729392858,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137689,
       "num": 137689,
       "word": "樊振东胸前的金牌在闪光",
@@ -657,14 +673,6 @@
       "onboard_time": 1729348880,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135429,
-      "num": 135429,
-      "word": "贾静雯短发",
-      "onboard_time": 1729392978,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 135125,
@@ -699,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129520,
-      "num": 129520,
-      "word": "官方通报乡长下乡被村民刺伤身亡",
-      "onboard_time": 1729392858,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125929,
       "num": 125929,
       "word": "梅西连场戴帽",
@@ -724,11 +724,19 @@
     },
     {
       "raw_hot": 121809,
-      "num": 203640,
+      "num": 266506,
       "word": "高考让锦绣安宁拍明白了",
       "onboard_time": 1729388658,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118760,
+      "num": 118760,
+      "word": "樊振东无情的合影机器",
+      "onboard_time": 1729391898,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118394,
@@ -755,20 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113109,
-      "num": 113109,
-      "word": "樊振东无情的合影机器",
-      "onboard_time": 1729391898,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "张雪峰回应伍佰被说猥琐",
       "onboard_time": 1729326679,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107800,
+      "num": 107800,
+      "word": "aespa互换发型",
+      "onboard_time": 1729391419,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 107478,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43857,
+      "num": 274571,
+      "word": "和平精英玩家这么上流的吗",
+      "onboard_time": 1729392618,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 41109,
       "num": 41109,
       "word": "银川地震",
@@ -995,12 +1011,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35749,
-      "num": 166161,
-      "word": "和平精英玩家这么上流的吗",
-      "onboard_time": 1729392618,
-      "rank": 37,
-      "category": "电竞"
+      "raw_hot": 33319,
+      "num": 301556,
+      "word": "当地通报乡长下村工作时遇害",
+      "onboard_time": 1729393038,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31794,
+      "num": 122235,
+      "word": "不能让界碑移动哪怕一毫米是他们家训",
+      "onboard_time": 1729393278,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31293,
@@ -1011,16 +1035,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29867,
-      "num": 301556,
-      "word": "当地通报乡长下村工作时遇害",
-      "onboard_time": 1729393038,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 30540,
+      "num": 275771,
+      "word": "潘展乐无缘200自决赛",
+      "onboard_time": 1729393579,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 27940,
-      "num": 200114,
+      "num": 251218,
       "word": "11.11集卡新玩法",
       "onboard_time": 1729389920,
       "rank": 46,
