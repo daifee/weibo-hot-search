@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729453003412,
+  "endTime": 1729455741561,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -3139,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44774,
+      "num": 44938,
+      "word": "以军瞄准辛瓦尔视频画面曝光",
+      "onboard_time": 1729450331,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 44474,
       "num": 692881,
       "word": "新疆处处好地方",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1729359494,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38935,
-      "num": 44938,
-      "word": "以军瞄准辛瓦尔视频画面曝光",
-      "onboard_time": 1729450331,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38814,
@@ -3515,7 +3515,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13415,
+      "raw_hot": 13803,
       "num": 38524,
       "word": "不断激发创新活力和内生动力",
       "onboard_time": 1729452371,
@@ -3537,6 +3537,22 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12884,
+      "num": 29437,
+      "word": "农村单身女拒拆迁称嫁给自建房",
+      "onboard_time": 1729454890,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12246,
+      "num": 15122,
+      "word": "东北秋天的名场面又来了",
+      "onboard_time": 1729449312,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12115,
