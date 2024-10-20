@@ -1,0 +1,410 @@
+{
+  "runTime": 1729408841287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1440907,
+        "num": 1440907,
+        "word": "杨子 气笑了",
+        "onboard_time": 1729404980,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499042,
+        "num": 499042,
+        "word": "胖东来进京能火多久",
+        "onboard_time": 1729406058,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6419,
+        "num": 238699,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1729308020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594973,
+        "num": 236716,
+        "word": "黄圣依杨子 爱是真的不爱也是真的",
+        "onboard_time": 1729405519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563426,
+        "num": 235514,
+        "word": "马龙生日发文",
+        "onboard_time": 1729403119,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230852,
+        "num": 230852,
+        "word": "小米15",
+        "onboard_time": 1729400119,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 550089,
+        "num": 230083,
+        "word": "王一博车队冠军",
+        "onboard_time": 1729408759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345540,
+        "num": 229415,
+        "word": "贾静雯不顾女儿反对临时剪短发",
+        "onboard_time": 1729402338,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256847,
+        "num": 229340,
+        "word": "鲜肉9小时没冷藏变臭肉",
+        "onboard_time": 1729400959,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223411,
+        "num": 223411,
+        "word": "北京明天要下雪",
+        "onboard_time": 1729407800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1944898,
+        "num": 222756,
+        "word": "黄圣依仍然想离婚",
+        "onboard_time": 1729403600,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700411,
+        "num": 221761,
+        "word": "黄晓明回应近期舆论",
+        "onboard_time": 1729387278,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624572,
+        "num": 220923,
+        "word": "花车上的迪丽热巴",
+        "onboard_time": 1729405760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404973,
+        "num": 219824,
+        "word": "湖南一纪委干部在工作地坠楼身亡",
+        "onboard_time": 1729402278,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14857,
+        "num": 219175,
+        "word": "为重启父被杀案儿子诉母遗弃罪",
+        "onboard_time": 1729408518,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290368,
+        "num": 218051,
+        "word": "丁真画了自己去世的小马",
+        "onboard_time": 1729395198,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247395,
+        "num": 217483,
+        "word": "第32届金鹰奖颁奖晚会节目单",
+        "onboard_time": 1729403959,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302733,
+        "num": 216520,
+        "word": "迪丽热巴重庆活动",
+        "onboard_time": 1729407018,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201566,
+        "num": 216065,
+        "word": "小西天保安大叔已经返岗",
+        "onboard_time": 1729407619,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215333,
+        "num": 215333,
+        "word": "法考",
+        "onboard_time": 1729399039,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 669442,
+        "num": 214871,
+        "word": "女子把降压药掰开吃致昏迷",
+        "onboard_time": 1729401019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529033,
+        "num": 213045,
+        "word": "海关查获蟑螂尸体3000余只",
+        "onboard_time": 1729395919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329783,
+        "num": 212793,
+        "word": "长期熬夜身体或会发臭",
+        "onboard_time": 1729400719,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211116,
+        "num": 211116,
+        "word": "王一博正赛第二回合",
+        "onboard_time": 1729398439,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214862,
+        "num": 206576,
+        "word": "金鹰奖",
+        "onboard_time": 1729398259,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182479,
+        "num": 182479,
+        "word": "小交警贴脸开大让路人戴头盔",
+        "onboard_time": 1729405459,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144665,
+        "num": 144665,
+        "word": "覃海洋夺冠后狠狠拍水",
+        "onboard_time": 1729396820,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37289,
+        "num": 143669,
+        "word": "三代女团来和平精英抢C位",
+        "onboard_time": 1729407919,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142687,
+        "num": 142687,
+        "word": "潘展乐无缘200自决赛",
+        "onboard_time": 1729393579,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130024,
+        "num": 130024,
+        "word": "行政法",
+        "onboard_time": 1729405939,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114371,
+        "num": 114371,
+        "word": "安妮海瑟薇米卡同框合照",
+        "onboard_time": 1729403720,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108215,
+        "num": 108215,
+        "word": "景区回应网传小西天保安大叔被辞退",
+        "onboard_time": 1729398978,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104725,
+        "num": 104725,
+        "word": "泫雅龙俊亨在日本度蜜月",
+        "onboard_time": 1729403959,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101928,
+        "num": 101928,
+        "word": "宋亚轩上官婉儿堪称教学局",
+        "onboard_time": 1729402698,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101107,
+        "num": 101107,
+        "word": "小西天保安涨工资笑说沾了游客的光",
+        "onboard_time": 1729396939,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99570,
+        "num": 99570,
+        "word": "985毕业男子捡垃圾8年实现财务自由",
+        "onboard_time": 1729388658,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98435,
+        "num": 98435,
+        "word": "年轻人为什么爱上了毛绒玩具",
+        "onboard_time": 1729408278,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98252,
+        "num": 98252,
+        "word": "海贼王动画 顶上战争",
+        "onboard_time": 1729408219,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 97008,
+        "num": 97008,
+        "word": "网传被开除的小西天保安大爷被调岗",
+        "onboard_time": 1729408458,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92735,
+        "num": 92735,
+        "word": "柏浪涛 刑法的神",
+        "onboard_time": 1729404918,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92715,
+        "num": 92715,
+        "word": "网红为燃气爆炸烧伤妈妈捐款30万",
+        "onboard_time": 1729408400,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89520,
+        "num": 89520,
+        "word": "逆水寒喜羊羊与灰太狼联动",
+        "onboard_time": 1729405819,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89378,
+        "num": 89378,
+        "word": "马龙想听到大家说马龙再来一球",
+        "onboard_time": 1729404678,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113227,
+        "num": 89148,
+        "word": "要让给孩子吃臭肉的幕后黑手付出代价",
+        "onboard_time": 1729404499,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214479,
+        "num": 88727,
+        "word": "人贩子一手数钱一手抱娃",
+        "onboard_time": 1729405400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87593,
+        "num": 87593,
+        "word": "时代少年团赢了重庆狼队",
+        "onboard_time": 1729399279,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85488,
+        "num": 85488,
+        "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
+        "onboard_time": 1729397838,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83122,
+        "num": 83122,
+        "word": "张真源的镜是战至巅峰全员认证的无解",
+        "onboard_time": 1729408458,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82841,
+        "num": 82841,
+        "word": "谭盾说周深彩排时间少但最完整",
+        "onboard_time": 1729406179,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78104,
+        "num": 78104,
+        "word": "张若昀李沁李现同框热聊",
+        "onboard_time": 1729395798,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话金砖#"
+    }
+  }
+}

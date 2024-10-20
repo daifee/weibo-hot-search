@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729406592275,
+  "endTime": 1729408841287,
   "band_list": [
     {
       "raw_hot": 3242927,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1944898,
+      "num": 222756,
+      "word": "黄圣依仍然想离婚",
+      "onboard_time": 1729403600,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1660059,
       "num": 475050,
       "word": "两岁宝宝右耳里掏出一克拉黄钻",
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1440907,
+      "num": 1440907,
+      "word": "杨子 气笑了",
+      "onboard_time": 1729404980,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1383107,
       "num": 401130,
       "word": "一家三口被撞身亡案司机父亲发声",
       "onboard_time": 1729385778,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1339379,
-      "num": 1339379,
-      "word": "杨子 气笑了",
-      "onboard_time": 1729404980,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1219719,
@@ -187,12 +195,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 624572,
+      "num": 356652,
+      "word": "花车上的迪丽热巴",
+      "onboard_time": 1729405760,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596215,
       "num": 596215,
       "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
       "onboard_time": 1729397838,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 594973,
+      "num": 252993,
+      "word": "黄圣依杨子 爱是真的不爱也是真的",
+      "onboard_time": 1729405519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 588102,
@@ -233,6 +257,14 @@
       "onboard_time": 1729395018,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550089,
+      "num": 230083,
+      "word": "王一博车队冠军",
+      "onboard_time": 1729408759,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 548098,
@@ -411,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398416,
-      "num": 356652,
-      "word": "花车上的迪丽热巴",
-      "onboard_time": 1729405760,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393681,
       "num": 109958,
       "word": "家属回应乡长下乡被村民刺伤身亡",
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302733,
+      "num": 216520,
+      "word": "迪丽热巴重庆活动",
+      "onboard_time": 1729407018,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302686,
       "num": 409611,
       "word": "鲜肉9小时没冷藏变臭肉",
@@ -619,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247395,
+      "num": 217483,
+      "word": "第32届金鹰奖颁奖晚会节目单",
+      "onboard_time": 1729403959,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247290,
       "num": 247290,
       "word": "景区回应网传小西天保安大叔被辞退",
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223411,
+      "num": 223411,
+      "word": "北京明天要下雪",
+      "onboard_time": 1729407800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222888,
       "num": 222888,
       "word": "贾静雯短发",
@@ -699,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214479,
+      "num": 152714,
+      "word": "人贩子一手数钱一手抱娃",
+      "onboard_time": 1729405400,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213840,
       "num": 213840,
       "word": "中国警犬大赛堪比警匪大片",
@@ -713,6 +769,14 @@
       "onboard_time": 1729328840,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211116,
+      "num": 211116,
+      "word": "王一博正赛第二回合",
+      "onboard_time": 1729398439,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210968,
@@ -755,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201566,
+      "num": 216065,
+      "word": "小西天保安大叔已经返岗",
+      "onboard_time": 1729407619,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195630,
       "num": 195630,
       "word": "Meiko说对T1的信息不了解",
@@ -767,14 +839,6 @@
       "num": 194944,
       "word": "马龙想听到大家说马龙再来一球",
       "onboard_time": 1729404678,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 193095,
-      "num": 193095,
-      "word": "王一博正赛第二回合",
-      "onboard_time": 1729398439,
       "rank": 30,
       "category": "体育"
     },
@@ -843,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181863,
-      "num": 181863,
-      "word": "第32届金鹰奖颁奖晚会节目单",
-      "onboard_time": 1729403959,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 182479,
+      "num": 182479,
+      "word": "小交警贴脸开大让路人戴头盔",
+      "onboard_time": 1729405459,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176743,
@@ -985,14 +1049,6 @@
       "onboard_time": 1729333160,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152714,
-      "num": 152714,
-      "word": "人贩子一手数钱一手抱娃",
-      "onboard_time": 1729405400,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152392,
@@ -1203,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122383,
-      "num": 122383,
-      "word": "小交警贴脸开大让路人戴头盔",
-      "onboard_time": 1729405459,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121809,
       "num": 266506,
       "word": "高考让锦绣安宁拍明白了",
@@ -1307,12 +1355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98435,
+      "num": 98435,
+      "word": "年轻人为什么爱上了毛绒玩具",
+      "onboard_time": 1729408278,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98252,
+      "num": 98252,
+      "word": "海贼王动画 顶上战争",
+      "onboard_time": 1729408219,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97306,
       "num": 97306,
       "word": "张子墨 恩静大少爷",
       "onboard_time": 1729360694,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97008,
+      "num": 97008,
+      "word": "网传被开除的小西天保安大爷被调岗",
+      "onboard_time": 1729408458,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96942,
@@ -1347,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92715,
+      "num": 92715,
+      "word": "网红为燃气爆炸烧伤妈妈捐款30万",
+      "onboard_time": 1729408400,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90492,
       "num": 90492,
       "word": "TES教练",
@@ -1361,6 +1441,22 @@
       "onboard_time": 1729349244,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83122,
+      "num": 83122,
+      "word": "张真源的镜是战至巅峰全员认证的无解",
+      "onboard_time": 1729408458,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82841,
+      "num": 269030,
+      "word": "谭盾说周深彩排时间少但最完整",
+      "onboard_time": 1729406179,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 81494,
@@ -1475,14 +1571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51381,
-      "num": 269030,
-      "word": "谭盾说周深彩排时间少但最完整",
-      "onboard_time": 1729406179,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 50709,
       "num": 50709,
       "word": "TES对战T1",
@@ -1513,14 +1601,6 @@
       "onboard_time": 1729398558,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48248,
-      "num": 252993,
-      "word": "黄圣依杨子 爱是真的不爱也是真的",
-      "onboard_time": 1729405519,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 48106,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1729362313,
       "rank": 47,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 37289,
+      "num": 143669,
+      "word": "三代女团来和平精英抢C位",
+      "onboard_time": 1729407919,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 36732,
@@ -1704,6 +1792,14 @@
       "word": "吐鲁番有条3400公里地下水长城",
       "onboard_time": 1729390158,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14857,
+      "num": 219175,
+      "word": "为重启父被杀案儿子诉母遗弃罪",
+      "onboard_time": 1729408518,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
