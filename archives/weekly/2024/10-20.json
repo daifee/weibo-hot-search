@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729438737302,
+  "endTime": 1729441556264,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -187,6 +187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1212888,
+      "num": 524244,
+      "word": "听泉鉴宝下播",
+      "onboard_time": 1729436963,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1196793,
       "num": 616443,
       "word": "日本小学生的校内午餐",
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 855751,
-      "num": 524244,
-      "word": "听泉鉴宝下播",
-      "onboard_time": 1729436963,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 838714,
       "num": 477488,
       "word": "黄磊回应近期舆论",
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 708439,
+      "num": 708439,
+      "word": "男孩球场飞踹女孩不予处罚",
+      "onboard_time": 1729434503,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704819,
       "num": 528837,
       "word": "向前看 别回头",
@@ -489,14 +497,6 @@
       "onboard_time": 1729346842,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 655810,
-      "num": 655810,
-      "word": "男孩球场飞踹女孩不予处罚",
-      "onboard_time": 1729434503,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 646086,
@@ -683,6 +683,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 512192,
+      "num": 512192,
+      "word": "iPhone16官旗多款机型破发",
+      "onboard_time": 1729437141,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 510686,
       "num": 510686,
       "word": "法考",
@@ -819,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442863,
-      "num": 442863,
-      "word": "iPhone16官旗多款机型破发",
-      "onboard_time": 1729437141,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
@@ -912,6 +912,14 @@
       "word": "家属回应乡长下乡被村民刺伤身亡",
       "onboard_time": 1729370291,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390223,
+      "num": 390223,
+      "word": "3岁幼童遭生父女友虐待后离世",
+      "onboard_time": 1729434743,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302085,
+      "num": 322752,
+      "word": "梁伟铿王昶vs丹麦组合",
+      "onboard_time": 1729436482,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301943,
       "num": 266447,
       "word": "周洁琼晒ioi聚会合照",
@@ -1217,22 +1233,6 @@
       "onboard_time": 1729389920,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 282000,
-      "num": 282000,
-      "word": "3岁幼童遭生父女友虐待后离世",
-      "onboard_time": 1729434743,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281312,
-      "num": 322752,
-      "word": "梁伟铿王昶vs丹麦组合",
-      "onboard_time": 1729436482,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 280893,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1729435403,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216306,
+      "num": 283902,
+      "word": "虹桥机场廊桥内一乘客行李起火",
+      "onboard_time": 1729437983,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215206,
@@ -1875,6 +1883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184461,
+      "num": 184461,
+      "word": "蜀绣翻转瞬间惊艳了",
+      "onboard_time": 1729439780,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "阴阳师",
@@ -1931,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178034,
+      "num": 178034,
+      "word": "梁王组合丹麦赛夺冠",
+      "onboard_time": 1729439422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "程靖淇 老友记",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1729431084,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171604,
+      "num": 171604,
+      "word": "手工耿已停更近5月",
+      "onboard_time": 1729439000,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 171356,
@@ -2547,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119157,
+      "num": 119157,
+      "word": "工作室恭喜王一博夺得冠军",
+      "onboard_time": 1729440799,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118760,
       "num": 118760,
       "word": "樊振东无情的合影机器",
@@ -2593,6 +2633,22 @@
       "onboard_time": 1729419139,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112885,
+      "num": 112885,
+      "word": "马龙说现在运动员承受舆论压力更大",
+      "onboard_time": 1729439181,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111912,
+      "num": 111912,
+      "word": "最长久的感情是相互成就",
+      "onboard_time": 1729440440,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 110135,
@@ -2649,6 +2705,14 @@
       "onboard_time": 1729386557,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 102920,
+      "num": 102920,
+      "word": "Fly眼见为实",
+      "onboard_time": 1729439599,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 102121,
@@ -2891,14 +2955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58194,
-      "num": 283902,
-      "word": "虹桥机场廊桥内一乘客行李起火",
-      "onboard_time": 1729437983,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57575,
       "num": 349706,
       "word": "王建国秒变天猫双11种草王",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1729423520,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 33122,
+      "num": 274759,
+      "word": "大型纪录片为了新中国",
+      "onboard_time": 1729441337,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32922,
