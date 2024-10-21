@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729489190796,
+  "endTime": 1729492363081,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -184,6 +184,14 @@
       "word": "一家三口被撞身亡案司机父亲发声",
       "onboard_time": 1729385778,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1358562,
+      "num": 1358562,
+      "word": "家属称听到判决结果眼泪止不住",
+      "onboard_time": 1729485861,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 883704,
-      "num": 883704,
-      "word": "家属称听到判决结果眼泪止不住",
-      "onboard_time": 1729485861,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 882348,
       "num": 513785,
       "word": "刘琳什么时候拿奖",
@@ -553,6 +553,14 @@
       "onboard_time": 1729388658,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 738764,
+      "num": 738764,
+      "word": "食骨奉母男孩不用再食剩骨",
+      "onboard_time": 1729488318,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713445,
@@ -771,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552301,
+      "num": 356802,
+      "word": "赵牧辰 边界感",
+      "onboard_time": 1729488199,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552211,
       "num": 282680,
       "word": "巴勒斯坦司机疑发动自杀式袭击",
@@ -865,6 +881,14 @@
       "onboard_time": 1729400119,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 533541,
+      "num": 533541,
+      "word": "付航 我就是一个喜欢搞笑的普通人",
+      "onboard_time": 1729490418,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 528766,
@@ -1035,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452338,
+      "num": 452338,
+      "word": "男子想死不敢跳楼高空抛物砸死路人",
+      "onboard_time": 1729488018,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444009,
       "num": 338286,
       "word": "赵丽颖眼含热泪",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1729415658,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375921,
+      "num": 324089,
+      "word": "这条裙子果然是蓝黑色",
+      "onboard_time": 1729487718,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 375859,
@@ -1409,14 +1449,6 @@
       "onboard_time": 1729407018,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318574,
-      "num": 265276,
-      "word": "这条裙子果然是蓝黑色",
-      "onboard_time": 1729487718,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 315268,
@@ -1635,6 +1667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269442,
+      "num": 269442,
+      "word": "高雅cp",
+      "onboard_time": 1729489218,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267738,
       "num": 267738,
       "word": "姜妍回应金鹰奖提名",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1729430242,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260479,
+      "num": 260479,
+      "word": "半导体15天暴涨70%",
+      "onboard_time": 1729491558,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 259858,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1729428140,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238096,
-      "num": 238096,
-      "word": "食骨奉母男孩不用再食剩骨",
-      "onboard_time": 1729488318,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237838,
@@ -2091,14 +2131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211968,
-      "num": 211968,
-      "word": "赵牧辰 边界感",
-      "onboard_time": 1729488199,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211595,
       "num": 211595,
       "word": "于和伟陪跑",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202820,
+      "num": 331563,
+      "word": "宋雨琦日照金山明信片",
+      "onboard_time": 1729489279,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 202029,
@@ -2675,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167852,
+      "num": 175618,
+      "word": "Bighit将推出新男团",
+      "onboard_time": 1729491077,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "金鹰奖颁授典礼座位图",
@@ -2745,6 +2793,14 @@
       "onboard_time": 1729392858,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161168,
+      "num": 161168,
+      "word": "手工耿否认停更是因为挣太多了",
+      "onboard_time": 1729491498,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 160956,
@@ -3099,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134566,
+      "num": 134566,
+      "word": "翁青雅彭高按摩约会",
+      "onboard_time": 1729490058,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134313,
       "num": 275667,
       "word": "未来3天又来一股新冷空气",
@@ -3211,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129079,
+      "num": 129079,
+      "word": "手工耿说会尽快更新",
+      "onboard_time": 1729490418,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127947,
       "num": 127947,
       "word": "LPR再降25基点存量房贷月供省多少",
@@ -3297,6 +3369,14 @@
       "onboard_time": 1729419080,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121935,
+      "num": 121935,
+      "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
+      "onboard_time": 1729492099,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121809,
@@ -3395,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118719,
+      "num": 118719,
+      "word": "微信找工作上线超3000个岗位",
+      "onboard_time": 1729487658,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118461,
       "num": 332942,
       "word": "100万元房贷30年减少5.1万元",
@@ -3443,12 +3531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114901,
-      "num": 114901,
-      "word": "微信找工作上线超3000个岗位",
-      "onboard_time": 1729487658,
-      "rank": 41,
-      "category": "互联网"
+      "raw_hot": 116004,
+      "num": 116004,
+      "word": "它竟比吴承恩的书还早200多年",
+      "onboard_time": 1729490598,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 114714,
@@ -3523,6 +3611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109479,
+      "num": 283072,
+      "word": "高空抛物致死案受害者家属发声",
+      "onboard_time": 1729481658,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109050,
       "num": 129731,
       "word": "侯明昊丁程鑫跳舞直拍",
@@ -3577,6 +3673,14 @@
       "onboard_time": 1729477938,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 105878,
+      "num": 105878,
+      "word": "赵丽颖录音现场",
+      "onboard_time": 1729490899,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 102121,
@@ -3699,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94584,
+      "num": 94584,
+      "word": "手工耿曾说挣到了驾驭不了的钱",
+      "onboard_time": 1729482559,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 93768,
       "num": 147747,
       "word": "外卖员抱孩子送餐视频系摆拍",
@@ -3744,14 +3856,6 @@
       "word": "婚礼上的显眼包又出现了",
       "onboard_time": 1729465336,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85822,
-      "num": 283072,
-      "word": "高空抛物致死案受害者家属发声",
-      "onboard_time": 1729481658,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3801,14 +3905,6 @@
       "onboard_time": 1729455732,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 82516,
-      "num": 432867,
-      "word": "男子想死不敢跳楼高空抛物砸死路人",
-      "onboard_time": 1729488018,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81494,
@@ -4155,12 +4251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41001,
+      "num": 332257,
+      "word": "张杰圳的又充满电量了",
+      "onboard_time": 1729490718,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 40895,
       "num": 216740,
       "word": "王一博赛车登泰趋",
       "onboard_time": 1729427240,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40658,
+      "num": 335286,
+      "word": "坚持每天放生的人是怎么想的",
+      "onboard_time": 1729490718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39793,
@@ -4419,11 +4531,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23232,
+      "num": 324703,
+      "word": "易烊千玺折学家",
+      "onboard_time": 1729488918,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23098,
       "num": 277055,
       "word": "为重启父被杀案儿子诉母遗弃罪",
       "onboard_time": 1729408518,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22433,
+      "num": 435384,
+      "word": "私立学校食堂不能没人管",
+      "onboard_time": 1729490838,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4441,14 +4569,6 @@
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21531,
-      "num": 116002,
-      "word": "易烊千玺折学家",
-      "onboard_time": 1729488918,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 21473,
@@ -4545,6 +4665,14 @@
       "onboard_time": 1729449312,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14971,
+      "num": 334185,
+      "word": "Tiffany高珠活动",
+      "onboard_time": 1729491077,
+      "rank": 15,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 14118,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729492363081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358562,
+        "num": 1358562,
+        "word": "家属称听到判决结果眼泪止不住",
+        "onboard_time": 1729485861,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758089,
+        "num": 758089,
+        "word": "潘展乐回应腹肌消失问题",
+        "onboard_time": 1729484960,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19800,
+        "num": 743319,
+        "word": "金秋十月里田间农事忙",
+        "onboard_time": 1729484179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738764,
+        "num": 738764,
+        "word": "食骨奉母男孩不用再食剩骨",
+        "onboard_time": 1729488318,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592807,
+        "num": 592807,
+        "word": "耳蜗丢失男孩就读学校将赔7成",
+        "onboard_time": 1729482018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578778,
+        "num": 578778,
+        "word": "手工耿已注销个人独资工作室",
+        "onboard_time": 1729481299,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 575482,
+        "num": 575482,
+        "word": "Ning开团王多多",
+        "onboard_time": 1729483219,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 533541,
+        "num": 533541,
+        "word": "付航 我就是一个喜欢搞笑的普通人",
+        "onboard_time": 1729490418,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452338,
+        "num": 452338,
+        "word": "男子想死不敢跳楼高空抛物砸死路人",
+        "onboard_time": 1729488018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22433,
+        "num": 435384,
+        "word": "私立学校食堂不能没人管",
+        "onboard_time": 1729490838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957991,
+        "num": 423144,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829958,
+        "num": 371945,
+        "word": "孟子义剪了短发",
+        "onboard_time": 1729486639,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552301,
+        "num": 356802,
+        "word": "赵牧辰 边界感",
+        "onboard_time": 1729488199,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335863,
+        "num": 335863,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40658,
+        "num": 335286,
+        "word": "坚持每天放生的人是怎么想的",
+        "onboard_time": 1729490718,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14971,
+        "num": 334185,
+        "word": "Tiffany高珠活动",
+        "onboard_time": 1729491077,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 312440,
+        "num": 333550,
+        "word": "赵丽颖获金鹰视后发文",
+        "onboard_time": 1729471281,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41001,
+        "num": 332257,
+        "word": "张杰圳的又充满电量了",
+        "onboard_time": 1729490718,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202820,
+        "num": 331563,
+        "word": "宋雨琦日照金山明信片",
+        "onboard_time": 1729489279,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330911,
+        "num": 330911,
+        "word": "男子高空抛物致死案被核准死刑",
+        "onboard_time": 1729477338,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23232,
+        "num": 324703,
+        "word": "易烊千玺折学家",
+        "onboard_time": 1729488918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375921,
+        "num": 324089,
+        "word": "这条裙子果然是蓝黑色",
+        "onboard_time": 1729487718,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319955,
+        "num": 319955,
+        "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
+        "onboard_time": 1729482080,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269442,
+        "num": 269442,
+        "word": "高雅cp",
+        "onboard_time": 1729489218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260479,
+        "num": 260479,
+        "word": "半导体15天暴涨70%",
+        "onboard_time": 1729491558,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240512,
+        "num": 240512,
+        "word": "缅甸人以为辛芷蕾是本地人",
+        "onboard_time": 1729487059,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209238,
+        "num": 209238,
+        "word": "上海月租1300的房子",
+        "onboard_time": 1729483219,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196511,
+        "num": 196511,
+        "word": "权志龙回归预热",
+        "onboard_time": 1729489039,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "旺旺三公子何猷君奚梦瑶同逛迪士尼",
+        "onboard_time": 1729476678,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167852,
+        "num": 175618,
+        "word": "Bighit将推出新男团",
+        "onboard_time": 1729491077,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171214,
+        "num": 171214,
+        "word": "这和自己亲生的有什么区别",
+        "onboard_time": 1729485319,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170161,
+        "num": 170161,
+        "word": "受害家属称抛物男子获死刑依然微笑",
+        "onboard_time": 1729487420,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161168,
+        "num": 161168,
+        "word": "手工耿否认停更是因为挣太多了",
+        "onboard_time": 1729491498,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159549,
+        "num": 159549,
+        "word": "王昶三折叠的腰",
+        "onboard_time": 1729481540,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151814,
+        "num": 151814,
+        "word": "爸爸化作蝴蝶送女儿出嫁",
+        "onboard_time": 1729485140,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134566,
+        "num": 134566,
+        "word": "翁青雅彭高按摩约会",
+        "onboard_time": 1729490058,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129079,
+        "num": 129079,
+        "word": "手工耿说会尽快更新",
+        "onboard_time": 1729490418,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127205,
+        "num": 127205,
+        "word": "张瑞告别国乒",
+        "onboard_time": 1729482797,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123312,
+        "num": 123312,
+        "word": "北方多地气温已是冬日模式",
+        "onboard_time": 1729476438,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121935,
+        "num": 121935,
+        "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
+        "onboard_time": 1729492099,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120450,
+        "num": 120450,
+        "word": "以军401装甲旅旅长被打死",
+        "onboard_time": 1729480758,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118719,
+        "num": 118719,
+        "word": "微信找工作上线超3000个岗位",
+        "onboard_time": 1729487658,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116125,
+        "num": 116125,
+        "word": "美国电子战飞机坠毁飞行员死亡",
+        "onboard_time": 1729482678,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116004,
+        "num": 116004,
+        "word": "它竟比吴承恩的书还早200多年",
+        "onboard_time": 1729490598,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 114523,
+        "num": 114523,
+        "word": "叶一茜维权胜诉",
+        "onboard_time": 1729488619,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113504,
+        "num": 113504,
+        "word": "黑神话获泰国年度最佳游戏",
+        "onboard_time": 1729488738,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109479,
+        "num": 109479,
+        "word": "高空抛物致死案受害者家属发声",
+        "onboard_time": 1729481658,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105878,
+        "num": 105878,
+        "word": "赵丽颖录音现场",
+        "onboard_time": 1729490899,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104283,
+        "num": 104283,
+        "word": "刘谦董卿合照",
+        "onboard_time": 1729485801,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94584,
+        "num": 94584,
+        "word": "手工耿曾说挣到了驾驭不了的钱",
+        "onboard_time": 1729482559,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述金砖合作之道#"
+    }
+  }
+}
