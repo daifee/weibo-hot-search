@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729484838042,
+  "endTime": 1729485714263,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -11,8 +11,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1751912,
+      "num": 1751912,
+      "word": "耳蜗丢失男孩就读学校将赔7成",
+      "onboard_time": 1729482018,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1650818,
-      "num": 486240,
+      "num": 506143,
       "word": "黄圣依 纯元活着的版本",
       "onboard_time": 1729479918,
       "rank": 18,
@@ -60,27 +68,19 @@
     },
     {
       "raw_hot": 1127384,
-      "num": 492417,
+      "num": 505462,
       "word": "辛巴怒怼叶珂",
       "onboard_time": 1729467019,
       "rank": 26,
       "category": "网红"
     },
     {
-      "raw_hot": 1094650,
-      "num": 1094650,
+      "raw_hot": 1101161,
+      "num": 1101161,
       "word": "Ning开团王多多",
       "onboard_time": 1729483219,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1081877,
-      "num": 1081877,
-      "word": "耳蜗丢失男孩就读学校将赔7成",
-      "onboard_time": 1729482018,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081547,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897166,
+      "num": 897166,
+      "word": "手工耿停更原因是挣太多了",
+      "onboard_time": 1729482559,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 880856,
       "num": 829310,
       "word": "何炅 三十年真心换真心",
@@ -121,14 +129,6 @@
       "onboard_time": 1729468700,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 858964,
-      "num": 478504,
-      "word": "手工耿停更原因是挣太多了",
-      "onboard_time": 1729482559,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 708439,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640168,
+      "num": 640168,
+      "word": "赵丽颖获金鹰视后发文",
+      "onboard_time": 1729471281,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 627953,
       "num": 627953,
       "word": "张瑞告别国乒",
@@ -169,6 +177,14 @@
       "onboard_time": 1729431987,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595230,
+      "num": 595230,
+      "word": "王昶三折叠的腰",
+      "onboard_time": 1729481540,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 573058,
@@ -193,14 +209,6 @@
       "onboard_time": 1729476379,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542331,
-      "num": 542331,
-      "word": "王昶三折叠的腰",
-      "onboard_time": 1729481540,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 539525,
@@ -243,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 510725,
-      "num": 510725,
-      "word": "赵丽颖获金鹰视后发文",
-      "onboard_time": 1729471281,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 496128,
+      "num": 496128,
+      "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
+      "onboard_time": 1729482080,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483699,
@@ -297,14 +305,6 @@
       "onboard_time": 1729473078,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 429843,
-      "num": 429843,
-      "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
-      "onboard_time": 1729482080,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419467,
@@ -377,6 +377,14 @@
       "onboard_time": 1729439599,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 331593,
+      "num": 331593,
+      "word": "潘展乐回应腹肌消失问题",
+      "onboard_time": 1729484960,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 325680,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 245511,
-      "num": 245511,
+      "num": 255436,
       "word": "以军401装甲旅旅长被打死",
       "onboard_time": 1729480758,
       "rank": 32,
@@ -715,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181910,
+      "num": 225784,
+      "word": "手工耿",
+      "onboard_time": 1729484839,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 179067,
+      "num": 179067,
+      "word": "369",
+      "onboard_time": 1729484420,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178034,
       "num": 178034,
       "word": "梁王组合丹麦赛夺冠",
@@ -731,20 +755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175092,
+      "num": 175092,
+      "word": "美国电子战飞机坠毁飞行员死亡",
+      "onboard_time": 1729482678,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172986,
       "num": 172986,
       "word": "bwipo哭了",
       "onboard_time": 1729475299,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 169103,
-      "num": 169103,
-      "word": "美国电子战飞机坠毁飞行员死亡",
-      "onboard_time": 1729482678,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169072,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 167900,
-      "num": 167900,
+      "num": 180421,
       "word": "张新成最开心给何老师颁奖",
       "onboard_time": 1729472120,
       "rank": 33,
@@ -795,12 +819,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155390,
+      "num": 155390,
+      "word": "这和自己亲生的有什么区别",
+      "onboard_time": 1729485319,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151958,
       "num": 151958,
       "word": "陕西一下子冷起来了",
       "onboard_time": 1729469059,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143961,
+      "num": 143961,
+      "word": "爸爸化作蝴蝶送女儿出嫁",
+      "onboard_time": 1729485140,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "股市",
+      "onboard_time": 1729483399,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 139665,
@@ -859,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128804,
-      "num": 128804,
-      "word": "股市",
-      "onboard_time": 1729483399,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 127947,
       "num": 127947,
       "word": "LPR再降25基点存量房贷月供省多少",
@@ -904,6 +944,14 @@
       "word": "黄圣依仍然想离婚",
       "onboard_time": 1729403600,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121386,
+      "num": 121386,
+      "word": "披荆斩棘",
+      "onboard_time": 1729484900,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1227,6 +1275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56707,
+      "num": 444904,
+      "word": "疼痛管理公开课",
+      "onboard_time": 1729483219,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 54431,
+      "num": 501002,
+      "word": "双11翻车主播回归但套路不能回归",
+      "onboard_time": 1729483818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52990,
       "num": 70788,
       "word": "2024年丹麦羽毛球公开赛",
@@ -1243,14 +1307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41305,
-      "num": 444904,
-      "word": "疼痛管理公开课",
-      "onboard_time": 1729483219,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 38814,
       "num": 38814,
       "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
@@ -1264,14 +1320,6 @@
       "word": "律师谈男子占车位被堵猛踹业主车门",
       "onboard_time": 1729479918,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35585,
-      "num": 501002,
-      "word": "双11翻车主播回归但套路不能回归",
-      "onboard_time": 1729483818,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1295,6 +1343,14 @@
       "num": 754883,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27727,
+      "num": 1088038,
+      "word": "金秋十月里田间农事忙",
+      "onboard_time": 1729484179,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1409,14 +1465,6 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12861,
-      "num": 1088038,
-      "word": "金秋十月里田间农事忙",
-      "onboard_time": 1729484179,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12314,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729485714263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751912,
+        "num": 1751912,
+        "word": "耳蜗丢失男孩就读学校将赔7成",
+        "onboard_time": 1729482018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101161,
+        "num": 1101161,
+        "word": "Ning开团王多多",
+        "onboard_time": 1729483219,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27727,
+        "num": 1057142,
+        "word": "金秋十月里田间农事忙",
+        "onboard_time": 1729484179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031437,
+        "num": 1031437,
+        "word": "手工耿已注销个人独资工作室",
+        "onboard_time": 1729481299,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 897166,
+        "num": 897166,
+        "word": "手工耿停更原因是挣太多了",
+        "onboard_time": 1729482559,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 656756,
+        "num": 656756,
+        "word": "男子高空抛物致死案被核准死刑",
+        "onboard_time": 1729477338,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640168,
+        "num": 640168,
+        "word": "赵丽颖获金鹰视后发文",
+        "onboard_time": 1729471281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595230,
+        "num": 595230,
+        "word": "王昶三折叠的腰",
+        "onboard_time": 1729481540,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565782,
+        "num": 565782,
+        "word": "张瑞告别国乒",
+        "onboard_time": 1729482797,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308954,
+        "num": 513568,
+        "word": "何炅 三十年真心换真心",
+        "onboard_time": 1729428681,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1486784,
+        "num": 506143,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747358,
+        "num": 505462,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 496128,
+        "num": 496128,
+        "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
+        "onboard_time": 1729482080,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54431,
+        "num": 462142,
+        "word": "双11翻车主播回归但套路不能回归",
+        "onboard_time": 1729483818,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56707,
+        "num": 440819,
+        "word": "疼痛管理公开课",
+        "onboard_time": 1729483219,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429740,
+        "num": 429740,
+        "word": "旺旺三公子何猷君奚梦瑶同逛迪士尼",
+        "onboard_time": 1729476678,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331593,
+        "num": 331593,
+        "word": "潘展乐回应腹肌消失问题",
+        "onboard_time": 1729484960,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300275,
+        "num": 300275,
+        "word": "听泉鉴宝下播",
+        "onboard_time": 1729436963,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291305,
+        "num": 291305,
+        "word": "第一批房价下跌的夫妻已经离婚了",
+        "onboard_time": 1729467437,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284455,
+        "num": 284455,
+        "word": "耳蜗丢失男孩母亲发声",
+        "onboard_time": 1729480459,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214143,
+        "num": 255436,
+        "word": "以军401装甲旅旅长被打死",
+        "onboard_time": 1729480758,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149419,
+        "num": 233244,
+        "word": "李知勋发长文",
+        "onboard_time": 1729472719,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 527187,
+        "num": 231981,
+        "word": "上海月租1300的房子",
+        "onboard_time": 1729483219,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230099,
+        "num": 230099,
+        "word": "安静公主",
+        "onboard_time": 1729480100,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181910,
+        "num": 225784,
+        "word": "手工耿",
+        "onboard_time": 1729484839,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221608,
+        "num": 221608,
+        "word": "韩国三星电子决定退出LED业务",
+        "onboard_time": 1729476379,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203562,
+        "num": 203562,
+        "word": "闪耀暖暖联动米山舞",
+        "onboard_time": 1729483159,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194710,
+        "num": 194710,
+        "word": "国产葡萄换上洋外衣价格相差10倍",
+        "onboard_time": 1729474579,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149960,
+        "num": 186805,
+        "word": "我谈的那场恋爱定档",
+        "onboard_time": 1729482259,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85884,
+        "num": 180421,
+        "word": "张新成最开心给何老师颁奖",
+        "onboard_time": 1729472120,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179067,
+        "num": 179067,
+        "word": "369",
+        "onboard_time": 1729484420,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175092,
+        "num": 175092,
+        "word": "美国电子战飞机坠毁飞行员死亡",
+        "onboard_time": 1729482678,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172240,
+        "num": 172240,
+        "word": "妈妈说朝鲜太冷了让我带您回家",
+        "onboard_time": 1729431805,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128261,
+        "num": 171490,
+        "word": "李沐宸 恶女小白花",
+        "onboard_time": 1729477818,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171420,
+        "num": 171420,
+        "word": "谢娜祝贺何炅赵丽颖拿奖",
+        "onboard_time": 1729437983,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155390,
+        "num": 155390,
+        "word": "这和自己亲生的有什么区别",
+        "onboard_time": 1729485319,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152163,
+        "num": 152163,
+        "word": "成都一小区承重柱不达标被拆",
+        "onboard_time": 1729474639,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150905,
+        "num": 150905,
+        "word": "Chovy喊话T1",
+        "onboard_time": 1729477099,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146192,
+        "num": 146192,
+        "word": "T1战队CEO谈Faker职业生涯",
+        "onboard_time": 1729483999,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144857,
+        "num": 144857,
+        "word": "30岁汪顺和17岁小将的填空题撞答案了",
+        "onboard_time": 1729468097,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143961,
+        "num": 143961,
+        "word": "爸爸化作蝴蝶送女儿出嫁",
+        "onboard_time": 1729485140,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141113,
+        "num": 141113,
+        "word": "股市",
+        "onboard_time": 1729483399,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140585,
+        "num": 140585,
+        "word": "李沁收到范闲送的鸡腿",
+        "onboard_time": 1729431987,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136536,
+        "num": 136536,
+        "word": "A股四大利好来袭",
+        "onboard_time": 1729477338,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134587,
+        "num": 134587,
+        "word": "Faker想要打到30岁",
+        "onboard_time": 1729484060,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132626,
+        "num": 132626,
+        "word": "LPR全面降息",
+        "onboard_time": 1729481179,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131805,
+        "num": 131805,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1729467258,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129052,
+        "num": 129052,
+        "word": "巴勒斯坦女艺术家全家遭空袭丧生",
+        "onboard_time": 1729477338,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123756,
+        "num": 123756,
+        "word": "加沙人街头遭轰炸有人施救又被炸",
+        "onboard_time": 1729473078,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121386,
+        "num": 121386,
+        "word": "披荆斩棘",
+        "onboard_time": 1729484900,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述金砖合作之道#"
+    }
+  }
+}
