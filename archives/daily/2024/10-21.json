@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729488155483,
+  "endTime": 1729489190796,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1113642,
+      "num": 1178182,
+      "word": "潘展乐回应腹肌消失问题",
+      "onboard_time": 1729484960,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1101161,
       "num": 1101161,
       "word": "Ning开团王多多",
@@ -91,19 +99,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1053667,
-      "num": 1053667,
-      "word": "潘展乐回应腹肌消失问题",
-      "onboard_time": 1729484960,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1001460,
       "num": 1160233,
       "word": "李沁发文祝贺赵丽颖",
       "onboard_time": 1729473319,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 933802,
+      "num": 462660,
+      "word": "孟子义剪了短发",
+      "onboard_time": 1729486639,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -123,12 +131,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 893299,
-      "num": 462660,
-      "word": "孟子义剪了短发",
-      "onboard_time": 1729486639,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 883704,
+      "num": 883704,
+      "word": "家属称听到判决结果眼泪止不住",
+      "onboard_time": 1729485861,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880856,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 686033,
-      "num": 221108,
+      "num": 271345,
       "word": "缅甸人以为辛芷蕾是本地人",
       "onboard_time": 1729487059,
       "rank": 20,
@@ -185,14 +193,6 @@
       "onboard_time": 1729471281,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 631738,
-      "num": 631738,
-      "word": "家属称听到判决结果眼泪止不住",
-      "onboard_time": 1729485861,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 627953,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318574,
+      "num": 265276,
+      "word": "这条裙子果然是蓝黑色",
+      "onboard_time": 1729487718,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309095,
       "num": 390110,
       "word": "成都一小区承重柱不达标被拆",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 245511,
-      "num": 255436,
+      "num": 444065,
       "word": "以军401装甲旅旅长被打死",
       "onboard_time": 1729480758,
       "rank": 32,
@@ -564,11 +572,19 @@
     },
     {
       "raw_hot": 241806,
-      "num": 145414,
+      "num": 181499,
       "word": "闪耀暖暖新PV",
       "onboard_time": 1729487959,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238096,
+      "num": 238096,
+      "word": "食骨奉母男孩不用再食剩骨",
+      "onboard_time": 1729488318,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237838,
@@ -603,6 +619,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 229050,
+      "num": 229050,
+      "word": "这和自己亲生的有什么区别",
+      "onboard_time": 1729485319,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 228220,
+      "num": 228220,
+      "word": "爸爸化作蝴蝶送女儿出嫁",
+      "onboard_time": 1729485140,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226647,
       "num": 226647,
       "word": "没有金鹰女神",
@@ -617,6 +649,14 @@
       "onboard_time": 1729477338,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 224343,
+      "num": 282871,
+      "word": "心动的信号7群像好美好",
+      "onboard_time": 1729486460,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 223344,
@@ -651,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215118,
-      "num": 215118,
-      "word": "这和自己亲生的有什么区别",
-      "onboard_time": 1729485319,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 214599,
+      "num": 214599,
+      "word": "权志龙回归预热",
+      "onboard_time": 1729489039,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 212834,
@@ -665,6 +705,14 @@
       "onboard_time": 1729473260,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 211968,
+      "num": 211968,
+      "word": "赵牧辰 边界感",
+      "onboard_time": 1729488199,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210996,
@@ -683,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209529,
+      "num": 209529,
+      "word": "受害家属称抛物男子获死刑依然微笑",
+      "onboard_time": 1729487420,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206420,
       "num": 206420,
       "word": "手工耿已停更近5月",
@@ -697,22 +753,6 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203776,
-      "num": 203776,
-      "word": "心动的信号7群像好美好",
-      "onboard_time": 1729486460,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203742,
-      "num": 203742,
-      "word": "爸爸化作蝴蝶送女儿出嫁",
-      "onboard_time": 1729485140,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196528,
@@ -793,14 +833,6 @@
       "onboard_time": 1729484839,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 179090,
-      "num": 145397,
-      "word": "这条裙子果然是蓝黑色",
-      "onboard_time": 1729487718,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 179067,
@@ -907,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150829,
+      "num": 150829,
+      "word": "叶一茜维权胜诉",
+      "onboard_time": 1729488619,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141113,
       "num": 141113,
       "word": "股市",
@@ -923,20 +963,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139472,
-      "num": 139472,
-      "word": "受害家属称抛物男子获死刑依然微笑",
-      "onboard_time": 1729487420,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138246,
       "num": 138246,
       "word": "金饰价格持续大涨金店却现闭店潮",
       "onboard_time": 1729472418,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137948,
+      "num": 137948,
+      "word": "微博网友喜爱运动员",
+      "onboard_time": 1729488318,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136301,
+      "num": 285175,
+      "word": "华晨宇演唱会舞美获国际大奖",
+      "onboard_time": 1729488318,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 135709,
@@ -948,7 +996,7 @@
     },
     {
       "raw_hot": 132892,
-      "num": 132892,
+      "num": 449271,
       "word": "北证50指数刷新历史新高",
       "onboard_time": 1729484238,
       "rank": 43,
@@ -1083,6 +1131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116192,
+      "num": 116192,
+      "word": "黑神话获泰国年度最佳游戏",
+      "onboard_time": 1729488738,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 114901,
+      "num": 114901,
+      "word": "微信找工作上线超3000个岗位",
+      "onboard_time": 1729487658,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112885,
       "num": 112885,
       "word": "马龙说现在运动员承受舆论压力更大",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1729480639,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112297,
+      "num": 112297,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1729488558,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 111912,
@@ -1161,14 +1233,6 @@
       "onboard_time": 1729477938,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 101071,
-      "num": 101071,
-      "word": "微信找工作上线超3000个岗位",
-      "onboard_time": 1729487658,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 100949,
@@ -1299,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85673,
+      "num": 472604,
+      "word": "65岁老人手机有上百个短剧小程序",
+      "onboard_time": 1729487119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85042,
       "num": 98178,
       "word": "游本昌张绍林获中国文联终身成就奖",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1729455732,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 82516,
+      "num": 432867,
+      "word": "男子想死不敢跳楼高空抛物砸死路人",
+      "onboard_time": 1729488018,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79410,
@@ -1337,14 +1417,6 @@
       "onboard_time": 1729460891,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70613,
-      "num": 432867,
-      "word": "男子想死不敢跳楼高空抛物砸死路人",
-      "onboard_time": 1729488018,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66561,
@@ -1401,14 +1473,6 @@
       "onboard_time": 1729429221,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48906,
-      "num": 472604,
-      "word": "65岁老人手机有上百个短剧小程序",
-      "onboard_time": 1729487119,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38814,
@@ -1489,6 +1553,14 @@
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21531,
+      "num": 116002,
+      "word": "易烊千玺折学家",
+      "onboard_time": 1729488918,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 21210,
