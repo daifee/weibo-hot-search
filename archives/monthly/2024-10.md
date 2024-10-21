@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 11:32:15
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 11:45:12
 </p>
 </blockquote>
 <p>
@@ -1533,6 +1533,12 @@ TES战胜T1（热度：1515921）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91%23" target="weibo">
+男子高空抛物致死案被核准死刑（热度：1507341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B7%B2%E6%98%AF%E4%BA%BA%E9%97%B4%E7%82%BC%E7%8B%B1%23" target="weibo">
 加沙已是人间炼狱（热度：1504318）
 </a>
@@ -1637,12 +1643,6 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%8F%8B%E5%90%A6%E8%AE%A4%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%AD%A6%E5%8E%86%23" target="weibo">
 北大校友否认听泉鉴宝学历（热度：1439285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91%23" target="weibo">
-男子高空抛物致死案被核准死刑（热度：1439274）
 </a>
 </li>
 
@@ -3417,6 +3417,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%B7%A5%E8%80%BF%E5%B7%B2%E6%B3%A8%E9%94%80%E4%B8%AA%E4%BA%BA%E7%8B%AC%E8%B5%84%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
+手工耿已注销个人独资工作室（热度：1004336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
 儿子用父亲的旧手机消费了十多万（热度：1001896）
 </a>
@@ -3851,6 +3857,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2315%E5%85%83%E5%A4%96%E5%8D%96%E4%B8%8E%E7%85%A7%E7%89%87%E4%B8%8D%E7%AC%A6%E8%B5%B7%E8%AF%89%E8%8E%B7%E8%B5%94500%E5%85%83%23" target="weibo">
 15元外卖与照片不符起诉获赔500元（热度：928166）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%20%E7%BA%AF%E5%85%83%E6%B4%BB%E7%9D%80%E7%9A%84%E7%89%88%E6%9C%AC%23" target="weibo">
+黄圣依 纯元活着的版本（热度：927991）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%BC%9D%E7%90%83%23" target="weibo">
 无缝球（热度：699183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%23" target="weibo">
-国考（热度：697587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BD%A6%E9%98%9F%E5%86%A0%E5%86%9B%23" target="weibo">
-王一博车队冠军（热度：696608）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729481535474,
+  "endTime": 1729482312349,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1439274,
-      "num": 1439274,
+      "raw_hot": 1507341,
+      "num": 1507341,
       "word": "男子高空抛物致死案被核准死刑",
       "onboard_time": 1729477338,
       "rank": 4,
@@ -59,12 +59,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1004336,
+      "num": 1004336,
+      "word": "手工耿已注销个人独资工作室",
+      "onboard_time": 1729481299,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1001460,
       "num": 1160233,
       "word": "李沁发文祝贺赵丽颖",
       "onboard_time": 1729473319,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 927991,
+      "num": 286027,
+      "word": "黄圣依 纯元活着的版本",
+      "onboard_time": 1729479918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 910289,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 513693,
-      "num": 273062,
+      "num": 282079,
       "word": "人民网评长丰学校臭肉事件",
       "onboard_time": 1729471340,
       "rank": 12,
@@ -275,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 359628,
+      "num": 280560,
+      "word": "王昶三折叠的腰",
+      "onboard_time": 1729481540,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351073,
       "num": 351073,
       "word": "覃海洋获8000美元奖金",
@@ -313,6 +337,14 @@
       "onboard_time": 1729467258,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309095,
+      "num": 390110,
+      "word": "成都一小区承重柱不达标被拆",
+      "onboard_time": 1729474639,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306888,
@@ -371,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291900,
+      "num": 277904,
+      "word": "耳蜗丢失男孩母亲发声",
+      "onboard_time": 1729480459,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283652,
       "num": 252793,
       "word": "安静公主",
@@ -379,28 +419,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 278009,
-      "num": 390110,
-      "word": "成都一小区承重柱不达标被拆",
-      "onboard_time": 1729474639,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270521,
       "num": 270521,
       "word": "无锡江阴警方通报贩婴事件",
       "onboard_time": 1729437802,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268078,
-      "num": 268078,
-      "word": "手工耿已注销个人独资工作室",
-      "onboard_time": 1729481299,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 267738,
@@ -435,11 +459,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255820,
-      "num": 255820,
-      "word": "耳蜗丢失男孩母亲发声",
-      "onboard_time": 1729480459,
-      "rank": 17,
+      "raw_hot": 259526,
+      "num": 259526,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -451,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236484,
-      "num": 256240,
-      "word": "国产葡萄换上洋外衣价格相差10倍",
-      "onboard_time": 1729474579,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236148,
       "num": 236148,
       "word": "北京真的下雪了",
       "onboard_time": 1729418540,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230348,
+      "num": 230348,
+      "word": "以军401装甲旅旅长被打死",
+      "onboard_time": 1729480758,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 229601,
@@ -507,16 +531,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 214699,
-      "num": 263636,
-      "word": "黄圣依 纯元活着的版本",
-      "onboard_time": 1729479918,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 220051,
+      "num": 220051,
+      "word": "LPR全面降息",
+      "onboard_time": 1729481179,
+      "rank": 38,
+      "category": "财经"
     },
     {
-      "raw_hot": 213304,
-      "num": 213304,
+      "raw_hot": 217284,
+      "num": 217284,
       "word": "刺痛 敖子逸是被耽误的电竞选手",
       "onboard_time": 1729478958,
       "rank": 26,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202755,
+      "num": 202755,
+      "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
+      "onboard_time": 1729482080,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196528,
       "num": 196528,
       "word": "刘琳什么时候拿奖",
@@ -577,6 +609,14 @@
       "onboard_time": 1729470680,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189536,
+      "num": 189536,
+      "word": "我谈的那场恋爱定档",
+      "onboard_time": 1729482259,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 189347,
@@ -617,14 +657,6 @@
       "onboard_time": 1729470800,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181728,
-      "num": 181728,
-      "word": "以军401装甲旅旅长被打死",
-      "onboard_time": 1729480758,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 178034,
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 159160,
-      "num": 159160,
+      "num": 197114,
       "word": "付航 笑着笑着就哭了",
       "onboard_time": 1729478118,
       "rank": 29,
@@ -697,6 +729,14 @@
       "onboard_time": 1729469059,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139665,
+      "num": 139665,
+      "word": "未定事件簿 左然侧脸",
+      "onboard_time": 1729481960,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 138246,
@@ -729,14 +769,6 @@
       "onboard_time": 1729442179,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128567,
-      "num": 128567,
-      "word": "LPR全面降息",
-      "onboard_time": 1729481179,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 126252,
@@ -875,6 +907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109265,
+      "num": 109265,
+      "word": "耳蜗丢失男孩就读学校将赔7成",
+      "onboard_time": 1729482018,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107751,
       "num": 107751,
       "word": "男子开车将大量海绵倾倒河中",
@@ -1011,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85822,
+      "num": 283072,
+      "word": "高空抛物致死案受害者家属发声",
+      "onboard_time": 1729481658,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85042,
       "num": 98178,
       "word": "游本昌张绍林获中国文联终身成就奖",
@@ -1059,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64521,
+      "num": 287212,
+      "word": "劣质小太阳厂家花几百元伪造质检报告",
+      "onboard_time": 1729481179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61366,
       "num": 61366,
       "word": "官方回应男子将大量海绵倾倒河中",
@@ -1091,14 +1147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50646,
-      "num": 277902,
-      "word": "劣质小太阳厂家花几百元伪造质检报告",
-      "onboard_time": 1729481179,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38814,
       "num": 38814,
       "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 32488,
-      "num": 194257,
+      "num": 202820,
       "word": "天猫双11购物车今晚8点见",
       "onboard_time": 1729480639,
       "rank": 29,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21210,
+      "num": 279771,
+      "word": "给学生上课时的陈好",
+      "onboard_time": 1729481718,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 20378,

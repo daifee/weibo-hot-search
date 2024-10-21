@@ -1,0 +1,410 @@
+{
+  "runTime": 1729482312349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507341,
+        "num": 1507341,
+        "word": "男子高空抛物致死案被核准死刑",
+        "onboard_time": 1729477338,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004336,
+        "num": 1004336,
+        "word": "手工耿已注销个人独资工作室",
+        "onboard_time": 1729481299,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23378,
+        "num": 555370,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520515,
+        "num": 520515,
+        "word": "何炅 三十年真心换真心",
+        "onboard_time": 1729428681,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441699,
+        "num": 441699,
+        "word": "韩国三星电子决定退出LED业务",
+        "onboard_time": 1729476379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337212,
+        "num": 337212,
+        "word": "30岁汪顺和17岁小将的填空题撞答案了",
+        "onboard_time": 1729468097,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494175,
+        "num": 326251,
+        "word": "赵丽颖获金鹰视后发文",
+        "onboard_time": 1729471281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309095,
+        "num": 309095,
+        "word": "成都一小区承重柱不达标被拆",
+        "onboard_time": 1729474639,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287761,
+        "num": 287761,
+        "word": "妈妈说朝鲜太冷了让我带您回家",
+        "onboard_time": 1729431805,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64521,
+        "num": 287212,
+        "word": "劣质小太阳厂家花几百元伪造质检报告",
+        "onboard_time": 1729481179,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217334,
+        "num": 286641,
+        "word": "旺旺三公子何猷君奚梦瑶同逛迪士尼",
+        "onboard_time": 1729476678,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927991,
+        "num": 286027,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759302,
+        "num": 284920,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398316,
+        "num": 284142,
+        "word": "听泉鉴宝下播",
+        "onboard_time": 1729436963,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85822,
+        "num": 283072,
+        "word": "高空抛物致死案受害者家属发声",
+        "onboard_time": 1729481658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394612,
+        "num": 282079,
+        "word": "人民网评长丰学校臭肉事件",
+        "onboard_time": 1729471340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378941,
+        "num": 281292,
+        "word": "第一批房价下跌的夫妻已经离婚了",
+        "onboard_time": 1729467437,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359628,
+        "num": 280560,
+        "word": "王昶三折叠的腰",
+        "onboard_time": 1729481540,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21210,
+        "num": 279771,
+        "word": "给学生上课时的陈好",
+        "onboard_time": 1729481718,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242578,
+        "num": 278988,
+        "word": "谢娜祝贺何炅赵丽颖拿奖",
+        "onboard_time": 1729437983,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291900,
+        "num": 277904,
+        "word": "耳蜗丢失男孩母亲发声",
+        "onboard_time": 1729480459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277778,
+        "num": 277778,
+        "word": "Chovy喊话T1",
+        "onboard_time": 1729477099,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259526,
+        "num": 259526,
+        "word": "国产葡萄换上洋外衣价格相差10倍",
+        "onboard_time": 1729474579,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236836,
+        "num": 236836,
+        "word": "安静公主",
+        "onboard_time": 1729480100,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230348,
+        "num": 230348,
+        "word": "以军401装甲旅旅长被打死",
+        "onboard_time": 1729480758,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220051,
+        "num": 220051,
+        "word": "LPR全面降息",
+        "onboard_time": 1729481179,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217284,
+        "num": 217284,
+        "word": "刺痛 敖子逸是被耽误的电竞选手",
+        "onboard_time": 1729478958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206627,
+        "num": 206627,
+        "word": "加沙人街头遭轰炸有人施救又被炸",
+        "onboard_time": 1729473078,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190121,
+        "num": 203704,
+        "word": "李沐宸 恶女小白花",
+        "onboard_time": 1729477818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22389,
+        "num": 202820,
+        "word": "天猫双11购物车今晚8点见",
+        "onboard_time": 1729480639,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202755,
+        "num": 202755,
+        "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
+        "onboard_time": 1729482080,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200060,
+        "num": 200060,
+        "word": "A股四大利好来袭",
+        "onboard_time": 1729477338,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135359,
+        "num": 197114,
+        "word": "付航 笑着笑着就哭了",
+        "onboard_time": 1729478118,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196606,
+        "num": 196606,
+        "word": "李沁收到范闲送的鸡腿",
+        "onboard_time": 1729431987,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194572,
+        "num": 194572,
+        "word": "狗 真过来了你又不高兴",
+        "onboard_time": 1729473380,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194318,
+        "num": 194318,
+        "word": "北方多地气温已是冬日模式",
+        "onboard_time": 1729476438,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193671,
+        "num": 193671,
+        "word": "听泉赏宝回应直播连线争议",
+        "onboard_time": 1729473078,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189536,
+        "num": 189536,
+        "word": "我谈的那场恋爱定档",
+        "onboard_time": 1729482259,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180139,
+        "num": 180139,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1729467258,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156694,
+        "num": 156694,
+        "word": "巴勒斯坦女艺术家全家遭空袭丧生",
+        "onboard_time": 1729477338,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139665,
+        "num": 139665,
+        "word": "未定事件簿 左然侧脸",
+        "onboard_time": 1729481960,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120955,
+        "num": 120955,
+        "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+        "onboard_time": 1729430481,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118021,
+        "num": 118021,
+        "word": "上海3岁男童被虐",
+        "onboard_time": 1729478238,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116940,
+        "num": 116940,
+        "word": "陕西一下子冷起来了",
+        "onboard_time": 1729469059,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111564,
+        "num": 111564,
+        "word": "台湾海峡中部发生3.5级地震",
+        "onboard_time": 1729477158,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109265,
+        "num": 109265,
+        "word": "耳蜗丢失男孩就读学校将赔7成",
+        "onboard_time": 1729482018,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105880,
+        "num": 105880,
+        "word": "李知勋发长文",
+        "onboard_time": 1729472719,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100546,
+        "num": 100546,
+        "word": "金饰价格持续大涨金店却现闭店潮",
+        "onboard_time": 1729472418,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99908,
+        "num": 99908,
+        "word": "警方通报男子站在车上张开双臂骑行",
+        "onboard_time": 1729475959,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94231,
+        "num": 94231,
+        "word": "以军一次轰炸后妇女儿童不停尖叫",
+        "onboard_time": 1729477938,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对国家级经济技术开发区工作作出重要指示#"
+    }
+  }
+}
