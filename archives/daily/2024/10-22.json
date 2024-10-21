@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729546578915,
+  "endTime": 1729549256794,
   "band_list": [
     {
       "raw_hot": 1034461,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194285,
+      "num": 51937,
+      "word": "亲属回应情侣夜爬秦岭失温遇难",
+      "onboard_time": 1729504098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194220,
       "num": 194220,
       "word": "APT手势舞",
@@ -185,6 +193,14 @@
       "onboard_time": 1729515319,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131590,
+      "num": 131590,
+      "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
+      "onboard_time": 1729532713,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124313,
@@ -241,14 +257,6 @@
       "onboard_time": 1729521741,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 94217,
-      "num": 94217,
-      "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
-      "onboard_time": 1729532713,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92619,
@@ -371,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72642,
+      "num": 72642,
+      "word": "食骨奉母男孩家中堆满捐赠物资",
+      "onboard_time": 1729537512,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71982,
       "num": 71982,
       "word": "这种疼痛好多人都挂错科室了",
@@ -475,11 +491,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48142,
-      "num": 64530,
-      "word": "食骨奉母男孩家中堆满捐赠物资",
-      "onboard_time": 1729537512,
-      "rank": 9,
+      "raw_hot": 38246,
+      "num": 38246,
+      "word": "楼上扔烟头导致楼下居民家起火",
+      "onboard_time": 1729544771,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -491,11 +507,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32269,
-      "num": 32269,
-      "word": "亲属回应情侣夜爬秦岭失温遇难",
-      "onboard_time": 1729504098,
-      "rank": 45,
+      "raw_hot": 35055,
+      "num": 35055,
+      "word": "丈夫谈及烧伤妻子满眼泪水",
+      "onboard_time": 1729546570,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -505,6 +521,14 @@
       "onboard_time": 1729535171,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28705,
+      "num": 28705,
+      "word": "吃布洛芬止疼不具有成瘾性",
+      "onboard_time": 1729547051,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21923,
@@ -563,14 +587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14140,
-      "num": 14140,
-      "word": "楼上扔烟头导致楼下居民家起火",
-      "onboard_time": 1729544771,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13194,
       "num": 24576,
       "word": "长征路上平均每300米就有1名红军牺牲",
@@ -579,11 +595,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12393,
+      "num": 36574,
+      "word": "畅通产业工人向上发展通道",
+      "onboard_time": 1729541351,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12335,
       "num": 22101,
       "word": "民警驾车逼停失控车辆",
       "onboard_time": 1729534512,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12105,
+      "num": 38295,
+      "word": "马背上4岁小孩姐又帅又飒",
+      "onboard_time": 1729548431,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
