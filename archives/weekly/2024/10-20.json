@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729503557885,
+  "endTime": 1729506382525,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1727700,
+      "num": 368297,
+      "word": "男子调戏女生男友上前制止被打",
+      "onboard_time": 1729501337,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1662181,
       "num": 1662181,
       "word": "北京真的下雪了",
@@ -169,6 +177,14 @@
       "onboard_time": 1729422621,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1484305,
+      "num": 1484305,
+      "word": "东部战区",
+      "onboard_time": 1729502900,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1454725,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761686,
+      "num": 761686,
+      "word": "梁强当选越南国家主席",
+      "onboard_time": 1729505119,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 756454,
       "num": 601395,
       "word": "ILLIT aespa",
@@ -689,6 +713,14 @@
       "onboard_time": 1729430002,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 709199,
+      "num": 355807,
+      "word": "难听",
+      "onboard_time": 1729504219,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 708439,
@@ -1411,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376226,
+      "num": 376226,
+      "word": "奔跑吧 7人到齐",
+      "onboard_time": 1729503618,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376092,
       "num": 376092,
       "word": "烧伤妈妈双手因抱孩子二次损伤严重",
@@ -1651,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322691,
-      "num": 357822,
-      "word": "男子调戏女生男友上前制止被打",
-      "onboard_time": 1729501337,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320546,
       "num": 320546,
       "word": "女子回应儿子疑遭前夫女友虐待致死",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1729407018,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319566,
+      "num": 319566,
+      "word": "刘丁硕退出国家队",
+      "onboard_time": 1729506019,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 315268,
@@ -1731,14 +1771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304676,
-      "num": 304676,
-      "word": "东部战区",
-      "onboard_time": 1729502900,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 302085,
       "num": 322752,
       "word": "梁伟铿王昶vs丹麦组合",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1729426880,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299608,
+      "num": 299608,
+      "word": "工资决定了我的工作状态",
+      "onboard_time": 1729503740,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 298978,
@@ -1955,6 +1995,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267364,
+      "num": 300470,
+      "word": "要求缅甸严惩袭击我总领馆肇事者",
+      "onboard_time": 1729500979,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 264295,
+      "num": 320324,
+      "word": "广东夫妇回应卖假货",
+      "onboard_time": 1729501458,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 262965,
       "num": 262965,
       "word": "今年冬天会是史上最冷吗",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1729430242,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260493,
+      "num": 319874,
+      "word": "李现金鹰节帮赵丽颖卷海报",
+      "onboard_time": 1729504039,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 259858,
@@ -2339,6 +2403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220022,
+      "num": 220022,
+      "word": "这一次情报外泄让以色列更尴尬了",
+      "onboard_time": 1729505479,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 219780,
       "num": 219780,
       "word": "飞天奖",
@@ -2355,11 +2427,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217602,
-      "num": 252678,
-      "word": "要求缅甸严惩袭击我总领馆肇事者",
-      "onboard_time": 1729500979,
-      "rank": 28,
+      "raw_hot": 217682,
+      "num": 217682,
+      "word": "台湾问题事关中国主权和领土完整",
+      "onboard_time": 1729503798,
+      "rank": 40,
       "category": "国内时政"
     },
     {
@@ -2555,20 +2627,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 206371,
+      "num": 299664,
+      "word": "宁宁表现力",
+      "onboard_time": 1729505659,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204356,
       "num": 344377,
       "word": "李知勋发长文",
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203340,
-      "num": 249080,
-      "word": "广东夫妇回应卖假货",
-      "onboard_time": 1729501458,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 202820,
@@ -2811,6 +2883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189646,
+      "num": 372304,
+      "word": "国资委介入调查国企员工擅自离岗",
+      "onboard_time": 1729504159,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189536,
       "num": 214565,
       "word": "我谈的那场恋爱定档",
@@ -2841,6 +2921,14 @@
       "onboard_time": 1729442179,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187211,
+      "num": 187211,
+      "word": "芒果艺人给赵丽颖写的信",
+      "onboard_time": 1729506320,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 186934,
@@ -4091,6 +4179,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 114142,
+      "num": 345832,
+      "word": "3.2万种植牙咬个黄瓜片牙冠碎了",
+      "onboard_time": 1729505539,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113755,
       "num": 113755,
       "word": "周深一开口谭盾眼泪止不住了",
@@ -4547,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74512,
+      "num": 324500,
+      "word": "外媒称公开辛瓦尔死亡视频是重大错误",
+      "onboard_time": 1729505839,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 74003,
       "num": 193816,
       "word": "小西天辟谣保安透露涨薪被辞退",
@@ -4819,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45905,
+      "num": 352150,
+      "word": "冰晶顶遇难者未带专业设备未穿冲锋衣",
+      "onboard_time": 1729506320,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44474,
       "num": 692881,
       "word": "新疆处处好地方",
@@ -4897,6 +5009,14 @@
       "onboard_time": 1729359494,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38914,
+      "num": 222530,
+      "word": "SM艺人服装仓库公开",
+      "onboard_time": 1729505119,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 38814,
@@ -5027,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29734,
+      "num": 323904,
+      "word": "今晚花呗12期免息买家具",
+      "onboard_time": 1729504999,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29704,
       "num": 398053,
       "word": "遗嘱字迹模糊有法律效力吗",
@@ -5040,6 +5168,14 @@
       "word": "40岁就可以打带状疱疹疫苗了",
       "onboard_time": 1729424961,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28253,
+      "num": 299757,
+      "word": "花呗24期免息买特斯拉充电桩",
+      "onboard_time": 1729504999,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -5076,7 +5212,7 @@
     },
     {
       "raw_hot": 27122,
-      "num": 159046,
+      "num": 324262,
       "word": "淘宝百亿补贴家电最高降9000元",
       "onboard_time": 1729503380,
       "rank": 43,
@@ -5139,6 +5275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25277,
+      "num": 332506,
+      "word": "小米双11可用花呗分期免息",
+      "onboard_time": 1729504819,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25169,
       "num": 719525,
       "word": "文人墨客笔下的安徽",
@@ -5161,6 +5305,14 @@
       "onboard_time": 1729457892,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24608,
+      "num": 220095,
+      "word": "vivoX200全系列支持花呗24期免息",
+      "onboard_time": 1729506080,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 24177,
