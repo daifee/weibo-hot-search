@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729493185331,
+  "endTime": 1729495344276,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -41,6 +41,14 @@
       "onboard_time": 1729387278,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2344269,
+      "num": 2344269,
+      "word": "男子想死不敢跳楼高空抛物砸死路人",
+      "onboard_time": 1729488018,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2307091,
@@ -177,14 +185,6 @@
       "onboard_time": 1729431383,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1416960,
-      "num": 1416960,
-      "word": "男子想死不敢跳楼高空抛物砸死路人",
-      "onboard_time": 1729488018,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1383107,
@@ -723,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 595649,
+      "num": 393402,
+      "word": "手工耿否认停更是因为挣太多了",
+      "onboard_time": 1729491498,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 595230,
       "num": 595230,
       "word": "王昶三折叠的腰",
@@ -1067,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445313,
+      "num": 445313,
+      "word": "向佐回应医生提醒模仿摸鼻梁有风险",
+      "onboard_time": 1729493297,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444009,
       "num": 338286,
       "word": "赵丽颖眼含热泪",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1729388658,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418349,
+      "num": 418349,
+      "word": "半导体15天暴涨70%",
+      "onboard_time": 1729491558,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 416827,
@@ -1283,14 +1307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369122,
-      "num": 369122,
-      "word": "半导体15天暴涨70%",
-      "onboard_time": 1729491558,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 362262,
       "num": 362262,
       "word": "重庆警方通报一男子砍伤他人",
@@ -1337,6 +1353,22 @@
       "onboard_time": 1729413019,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349106,
+      "num": 304908,
+      "word": "楼下误以为楼上噪音持刀入室伤人",
+      "onboard_time": 1729492398,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348892,
+      "num": 348892,
+      "word": "王昭君映山客皮肤正式亮相",
+      "onboard_time": 1729492518,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 348152,
@@ -1491,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305197,
+      "num": 305197,
+      "word": "吉林国企离岗16年员工已返回公司",
+      "onboard_time": 1729492877,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302085,
       "num": 322752,
       "word": "梁伟铿王昶vs丹麦组合",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1729461491,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293190,
+      "num": 212313,
+      "word": "旺旺三公子 我叫蔡旺庭",
+      "onboard_time": 1729493537,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 293103,
@@ -1603,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286758,
+      "num": 286758,
+      "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
+      "onboard_time": 1729492099,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286095,
       "num": 286095,
       "word": "张雪迎吃螃蟹吃出个冠军",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1729389920,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 284575,
+      "num": 284575,
+      "word": "韩国外交部召见俄罗斯驻韩大使",
+      "onboard_time": 1729492998,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 283652,
@@ -1809,6 +1873,14 @@
       "onboard_time": 1729418839,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 245663,
+      "num": 245663,
+      "word": "每一位大体老师都是家人心尖上的人",
+      "onboard_time": 1729493959,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245511,
@@ -2091,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213808,
+      "num": 213808,
+      "word": "赵小童代表十个勤天参加戛纳",
+      "onboard_time": 1729494498,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212834,
       "num": 498113,
       "word": "5年期和1年期LPR均下调25基点",
@@ -2137,6 +2217,14 @@
       "onboard_time": 1729433963,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211519,
+      "num": 211519,
+      "word": "深圳水贝有人拖行李箱来买黄金",
+      "onboard_time": 1729494438,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211116,
@@ -2265,6 +2353,14 @@
       "onboard_time": 1729429221,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197600,
+      "num": 197600,
+      "word": "中国紧急援助物资飞往黎巴嫩",
+      "onboard_time": 1729493777,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 197282,
@@ -2451,14 +2547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187160,
-      "num": 183616,
-      "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
-      "onboard_time": 1729492099,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186934,
       "num": 186934,
       "word": "刘亦菲天梯大片",
@@ -2521,14 +2609,6 @@
       "onboard_time": 1729422440,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184363,
-      "num": 184363,
-      "word": "手工耿否认停更是因为挣太多了",
-      "onboard_time": 1729491498,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 184120,
@@ -2601,6 +2681,14 @@
       "onboard_time": 1729439422,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177797,
+      "num": 177797,
+      "word": "王者荣耀",
+      "onboard_time": 1729494677,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 176743,
@@ -2705,14 +2793,6 @@
       "onboard_time": 1729417819,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169093,
-      "num": 169093,
-      "word": "王昭君映山客皮肤正式亮相",
-      "onboard_time": 1729492518,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 169072,
@@ -2971,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147858,
+      "num": 386574,
+      "word": "30岁的人60岁的骨头",
+      "onboard_time": 1729494138,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147651,
       "num": 147651,
       "word": "AG晋级年总淘汰赛",
@@ -2995,6 +3083,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 147079,
+      "num": 464618,
+      "word": "鄂A6PZ19拦停失控汽车",
+      "onboard_time": 1729492698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146422,
       "num": 170839,
       "word": "徐明浩单人登封韩版COSMO",
@@ -3017,6 +3113,14 @@
       "onboard_time": 1729408400,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145510,
+      "num": 164896,
+      "word": "谁能看出雅42岁啊",
+      "onboard_time": 1729493659,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 145400,
@@ -3227,14 +3331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 133287,
-      "num": 133287,
-      "word": "楼下误以为楼上噪音持刀入室伤人",
-      "onboard_time": 1729492398,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133003,
       "num": 133003,
       "word": "胖东来攻入北京",
@@ -3289,14 +3385,6 @@
       "onboard_time": 1729320737,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130311,
-      "num": 130311,
-      "word": "吉林国企离岗16年员工已返回公司",
-      "onboard_time": 1729492877,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130178,
@@ -3369,6 +3457,14 @@
       "onboard_time": 1729385357,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125546,
+      "num": 125546,
+      "word": "吉林一国企员工离岗16年后续",
+      "onboard_time": 1729494918,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125424,
@@ -3547,6 +3643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118143,
+      "num": 118143,
+      "word": "3岁男童被生父女友虐待后死亡后续",
+      "onboard_time": 1729494977,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117670,
       "num": 117670,
       "word": "央视曝光证书挂靠陷阱",
@@ -3571,14 +3675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116596,
-      "num": 116596,
-      "word": "韩国外交部召见俄罗斯驻韩大使",
-      "onboard_time": 1729492998,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 116192,
       "num": 116192,
       "word": "黑神话获泰国年度最佳游戏",
@@ -3601,6 +3697,14 @@
       "onboard_time": 1729419139,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113702,
+      "num": 113702,
+      "word": "王者九周年限定回忆",
+      "onboard_time": 1729493839,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 112885,
@@ -3923,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84769,
+      "num": 389242,
+      "word": "辛巴称有大主播卖学习机赚1000差价",
+      "onboard_time": 1729495279,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 83511,
       "num": 83511,
       "word": "于祥宇 最强新人",
@@ -3979,6 +4091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79681,
+      "num": 412966,
+      "word": "保安公司回应小西天保安大叔工资标准",
+      "onboard_time": 1729494259,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79482,
       "num": 79482,
       "word": "对跖点",
@@ -4017,14 +4137,6 @@
       "onboard_time": 1729466836,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77620,
-      "num": 464618,
-      "word": "鄂A6PZ19拦停失控汽车",
-      "onboard_time": 1729492698,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74003,
@@ -4732,11 +4844,19 @@
     },
     {
       "raw_hot": 14971,
-      "num": 334185,
+      "num": 379505,
       "word": "Tiffany高珠活动",
       "onboard_time": 1729491077,
       "rank": 15,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 14152,
+      "num": 212510,
+      "word": "黎多地真主党相关金融机构遭以军空袭",
+      "onboard_time": 1729495158,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 14118,

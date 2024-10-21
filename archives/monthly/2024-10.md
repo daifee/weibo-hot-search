@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 14:46:25
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 15:22:24
 </p>
 </blockquote>
 <p>
@@ -539,6 +539,12 @@ VOGUE走秀（热度：2466480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A2%81%E9%9D%96%E5%B4%91%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0%23" target="weibo">
 王楚钦梁靖崑逆转夺冠（热度：2363617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E6%AD%BB%E4%B8%8D%E6%95%A2%E8%B7%B3%E6%A5%BC%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%23" target="weibo">
+男子想死不敢跳楼高空抛物砸死路人（热度：2344269）
 </a>
 </li>
 
@@ -1703,12 +1709,6 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%BA%BA%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%23" target="weibo">
 8人被终身禁入稻城亚丁景区（热度：1417596）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E6%AD%BB%E4%B8%8D%E6%95%A2%E8%B7%B3%E6%A5%BC%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%23" target="weibo">
-男子想死不敢跳楼高空抛物砸死路人（热度：1416960）
 </a>
 </li>
 
