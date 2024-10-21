@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729467368663,
+  "endTime": 1729475076270,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1296592,
-      "num": 614235,
+      "num": 640035,
       "word": "听泉鉴宝下播",
       "onboard_time": 1729436963,
       "rank": 26,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1127384,
+      "num": 492417,
+      "word": "辛巴怒怼叶珂",
+      "onboard_time": 1729467019,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1120366,
       "num": 1179258,
       "word": "潘展乐无缘200自决赛",
@@ -257,6 +265,14 @@
       "onboard_time": 1729430722,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1001460,
+      "num": 1160233,
+      "word": "李沁发文祝贺赵丽颖",
+      "onboard_time": 1729473319,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 989778,
@@ -331,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 877094,
+      "num": 490748,
+      "word": "辛瓦尔小18岁遗孀罕见曝光",
+      "onboard_time": 1729468700,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 863463,
       "num": 1138154,
       "word": "金鹰奖",
@@ -369,6 +393,14 @@
       "onboard_time": 1729351760,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 814402,
+      "num": 814402,
+      "word": "一盆臭肉为何熏倒多名官员",
+      "onboard_time": 1729471340,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811003,
@@ -507,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 657158,
+      "num": 483451,
+      "word": "第一批房价下跌的夫妻已经离婚了",
+      "onboard_time": 1729467437,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646086,
       "num": 216654,
       "word": "何炅刘涛主持",
@@ -515,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640285,
+      "num": 640285,
+      "word": "30岁汪顺和17岁小将的填空题撞答案了",
+      "onboard_time": 1729468097,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625310,
       "num": 356652,
       "word": "花车上的迪丽热巴",
       "onboard_time": 1729405760,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625017,
+      "num": 547980,
+      "word": "李沁收到范闲送的鸡腿",
+      "onboard_time": 1729431987,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 619758,
@@ -601,6 +657,14 @@
       "onboard_time": 1729386138,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 552154,
+      "num": 552154,
+      "word": "东部战区回应美加军舰过航台湾海峡",
+      "onboard_time": 1729467258,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 551715,
@@ -747,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 480780,
+      "num": 480780,
+      "word": "听泉赏宝回应直播连线争议",
+      "onboard_time": 1729473078,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477003,
       "num": 445704,
       "word": "张若昀李沁李现同框热聊",
@@ -825,6 +897,14 @@
       "onboard_time": 1729435824,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440181,
+      "num": 440181,
+      "word": "LPR",
+      "onboard_time": 1729471939,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 436441,
@@ -995,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356763,
+      "num": 356763,
+      "word": "高叶获奖后发文",
+      "onboard_time": 1729473260,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355632,
       "num": 355632,
       "word": "李行亮 麦琳",
@@ -1131,12 +1219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320278,
+      "num": 320278,
+      "word": "只有大学生才知道她有多全能",
+      "onboard_time": 1729467258,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320094,
       "num": 272040,
       "word": "迪丽热巴重庆活动",
       "onboard_time": 1729407018,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318524,
+      "num": 318524,
+      "word": "狗 真过来了你又不高兴",
+      "onboard_time": 1729473380,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 315268,
@@ -1331,6 +1435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262965,
+      "num": 262965,
+      "word": "今年冬天会是史上最冷吗",
+      "onboard_time": 1729447093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261100,
       "num": 261100,
       "word": "权志龙染了红发",
@@ -1361,14 +1473,6 @@
       "onboard_time": 1729403959,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257563,
-      "num": 257563,
-      "word": "今年冬天会是史上最冷吗",
-      "onboard_time": 1729447093,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254024,
@@ -1443,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244333,
+      "num": 244333,
+      "word": "姜妍回应金鹰奖提名",
+      "onboard_time": 1729472780,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244100,
       "num": 227921,
       "word": "雷军",
@@ -1457,14 +1569,6 @@
       "onboard_time": 1729428140,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237458,
-      "num": 199453,
-      "word": "李沁收到范闲送的鸡腿",
-      "onboard_time": 1729431987,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 237027,
@@ -1579,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218679,
+      "num": 218679,
+      "word": "试婚纱让男朋友全程摆臭脸",
+      "onboard_time": 1729467798,
+      "rank": 24,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 215206,
       "num": 401345,
       "word": "宜宾燃面真能点燃啊",
@@ -1609,6 +1721,14 @@
       "onboard_time": 1729387339,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212834,
+      "num": 498113,
+      "word": "5年期和1年期LPR均下调25基点",
+      "onboard_time": 1729473260,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 212812,
@@ -1707,6 +1827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 204356,
+      "num": 204356,
+      "word": "李知勋发长文",
+      "onboard_time": 1729472719,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202029,
       "num": 237836,
       "word": "付航 总有人会爱你",
@@ -1760,6 +1888,22 @@
       "word": "看滔搏比赛 破防",
       "onboard_time": 1729412779,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "A股",
+      "onboard_time": 1729474758,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 196516,
+      "num": 196516,
+      "word": "S14决赛将是LPL对战LCK",
+      "onboard_time": 1729470680,
+      "rank": 28,
       "category": "电竞"
     },
     {
@@ -1883,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189347,
+      "num": 189347,
+      "word": "臭肉事件校方如此傲慢只会臭上加臭",
+      "onboard_time": 1729471161,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188759,
       "num": 339685,
       "word": "陆嘉学 发疯纯爱",
@@ -1987,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182135,
+      "num": 182135,
+      "word": "外国小姐姐穿上了汉代甲胄",
+      "onboard_time": 1729470800,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182067,
       "num": 182067,
       "word": "高楼扔烟头掉楼下邻居家引火灾",
@@ -2067,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172676,
-      "num": 172676,
-      "word": "东部战区回应美加军舰过航台湾海峡",
-      "onboard_time": 1729467258,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 171356,
       "num": 171356,
       "word": "Meiko状态",
@@ -2115,20 +2267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168909,
-      "num": 146837,
-      "word": "只有大学生才知道她有多全能",
-      "onboard_time": 1729467258,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168721,
       "num": 168721,
       "word": "CBA",
       "onboard_time": 1729434083,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167900,
+      "num": 167900,
+      "word": "张新成最开心给何老师颁奖",
+      "onboard_time": 1729472120,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 167807,
@@ -2161,6 +2313,14 @@
       "onboard_time": 1729429402,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166026,
+      "num": 166026,
+      "word": "一加13",
+      "onboard_time": 1729473679,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 164468,
@@ -2395,6 +2555,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141258,
+      "num": 141258,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140452,
+      "num": 504100,
+      "word": "海南琼海市委书记田志强被带走",
+      "onboard_time": 1729472120,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138246,
+      "num": 138246,
+      "word": "金饰价格持续大涨金店却现闭店潮",
+      "onboard_time": 1729472418,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138198,
       "num": 138198,
       "word": "女生两层楼高发型回头率爆表",
@@ -2435,20 +2619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135985,
+      "num": 135985,
+      "word": "陕西一下子冷起来了",
+      "onboard_time": 1729469059,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135709,
+      "num": 135709,
+      "word": "看双胞胎打乒乓球还以为散光了",
+      "onboard_time": 1729469298,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135489,
       "num": 135489,
       "word": "打个飞的赶飞机",
       "onboard_time": 1729348880,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135450,
-      "num": 135450,
-      "word": "辛巴怒怼叶珂",
-      "onboard_time": 1729467019,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 135151,
@@ -2563,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128740,
+      "num": 128740,
+      "word": "成都一小区承重柱不达标被拆",
+      "onboard_time": 1729474639,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127267,
       "num": 127267,
       "word": "王者荣耀共创之夜抢票",
@@ -2603,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123150,
+      "num": 123150,
+      "word": "加沙人街头遭轰炸有人施救又被炸",
+      "onboard_time": 1729473078,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 122930,
       "num": 122930,
       "word": "杨子签约的艺人",
@@ -2641,6 +2849,14 @@
       "onboard_time": 1729398919,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121017,
+      "num": 121017,
+      "word": "黄旭熙去走秀了",
+      "onboard_time": 1729468459,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119911,
@@ -2691,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118461,
+      "num": 332942,
+      "word": "100万元房贷30年减少5.1万元",
+      "onboard_time": 1729473798,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118394,
       "num": 118394,
       "word": "369小天Meiko合同即将到期",
@@ -2713,6 +2937,14 @@
       "onboard_time": 1729336699,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116931,
+      "num": 116931,
+      "word": "情敌一叫七姑娘罗慎远慌了",
+      "onboard_time": 1729473739,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 114714,
@@ -2745,6 +2977,14 @@
       "onboard_time": 1729440440,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111645,
+      "num": 111645,
+      "word": "LPR年内第三次下降",
+      "onboard_time": 1729474338,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 110135,
