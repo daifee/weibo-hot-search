@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729502717309,
+  "endTime": 1729503557885,
   "band_list": [
     {
       "raw_hot": 2400219,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1361020,
-      "num": 579264,
+      "num": 658481,
       "word": "情侣夜爬秦岭冰晶顶看云海遇难",
       "onboard_time": 1729496718,
       "rank": 11,
@@ -171,6 +171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 983346,
+      "num": 581140,
+      "word": "伍佰玩叶珂梗",
+      "onboard_time": 1729502778,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 935449,
+      "num": 935449,
+      "word": "多架飞往福州的航班中途备降",
+      "onboard_time": 1729499238,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933802,
       "num": 462660,
       "word": "孟子义剪了短发",
@@ -225,6 +241,14 @@
       "onboard_time": 1729468700,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 872043,
+      "num": 727019,
+      "word": "whiplash 吒味十足",
+      "onboard_time": 1729502659,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 868427,
@@ -340,19 +364,11 @@
     },
     {
       "raw_hot": 613244,
-      "num": 348999,
+      "num": 373728,
       "word": "韦雪直播三场赚了1个亿",
       "onboard_time": 1729500318,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 607140,
-      "num": 607140,
-      "word": "多架飞往福州的航班中途备降",
-      "onboard_time": 1729499238,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595649,
@@ -491,14 +507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 471336,
-      "num": 243183,
-      "word": "whiplash 吒味十足",
-      "onboard_time": 1729502659,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 464859,
       "num": 240888,
       "word": "金鹰奖 六缺三",
@@ -553,6 +561,14 @@
       "onboard_time": 1729434743,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380641,
+      "num": 380641,
+      "word": "ILLIT回归",
+      "onboard_time": 1729502900,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 375921,
@@ -643,8 +659,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 341298,
-      "num": 341298,
+      "raw_hot": 345973,
+      "num": 345973,
       "word": "冷冷冷冷北方冷冷冷冷",
       "onboard_time": 1729498279,
       "rank": 34,
@@ -665,6 +681,14 @@
       "onboard_time": 1729438641,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322691,
+      "num": 357822,
+      "word": "男子调戏女生男友上前制止被打",
+      "onboard_time": 1729501337,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320278,
@@ -715,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304676,
+      "num": 304676,
+      "word": "东部战区",
+      "onboard_time": 1729502900,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 302085,
       "num": 302085,
       "word": "梁伟铿王昶vs丹麦组合",
@@ -761,6 +793,14 @@
       "onboard_time": 1729423762,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287842,
+      "num": 287842,
+      "word": "whiplash",
+      "onboard_time": 1729501997,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 283652,
@@ -971,14 +1011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222823,
-      "num": 256688,
-      "word": "whiplash",
-      "onboard_time": 1729501997,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 220400,
       "num": 388566,
       "word": "A股四大利好来袭",
@@ -993,6 +1025,14 @@
       "onboard_time": 1729481179,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 219056,
+      "num": 219056,
+      "word": "东北小伙花千元把老家爆改成三亚",
+      "onboard_time": 1729502118,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217602,
@@ -1075,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206784,
-      "num": 357822,
-      "word": "男子调戏女生男友上前制止被打",
-      "onboard_time": 1729501337,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206420,
       "num": 206420,
       "word": "手工耿已停更近5月",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203340,
+      "num": 249080,
+      "word": "广东夫妇回应卖假货",
+      "onboard_time": 1729501458,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 202820,
@@ -1163,12 +1203,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191452,
-      "num": 249080,
-      "word": "广东夫妇回应卖假货",
-      "onboard_time": 1729501458,
-      "rank": 29,
-      "category": "网红"
+      "raw_hot": 189737,
+      "num": 189737,
+      "word": "周深宋雨琦回归奔跑吧录制",
+      "onboard_time": 1729502419,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 189536,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1729502118,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 182227,
-      "num": 182227,
-      "word": "东北小伙花千元把老家爆改成三亚",
-      "onboard_time": 1729502118,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182135,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1729492578,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163986,
-      "num": 163986,
-      "word": "周深宋雨琦回归奔跑吧录制",
-      "onboard_time": 1729502419,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 162947,
@@ -2011,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86379,
+      "num": 691520,
+      "word": "涨薪20%依然难招新能源车维修人",
+      "onboard_time": 1729501698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85673,
       "num": 472604,
       "word": "65岁老人手机有上百个短剧小程序",
@@ -2057,14 +2089,6 @@
       "onboard_time": 1729460891,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70950,
-      "num": 589888,
-      "word": "涨薪20%依然难招新能源车维修人",
-      "onboard_time": 1729501698,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66561,
@@ -2123,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53572,
+      "num": 474518,
+      "word": "易烊千玺天猫双11开幕盛典",
+      "onboard_time": 1729501218,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52990,
       "num": 70788,
       "word": "2024年丹麦羽毛球公开赛",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1729499778,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50362,
-      "num": 474518,
-      "word": "易烊千玺天猫双11开幕盛典",
-      "onboard_time": 1729501218,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 47060,
@@ -2235,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27122,
+      "num": 159046,
+      "word": "淘宝百亿补贴家电最高降9000元",
+      "onboard_time": 1729503380,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27047,
       "num": 70163,
       "word": "全国气温榜前十广东拿下九席",
@@ -2275,20 +2307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24177,
+      "num": 200272,
+      "word": "闫妮说天猫双11美低狠",
+      "onboard_time": 1729500439,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22270,
       "num": 26756,
       "word": "要珍惜呵护当前良好势头",
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22249,
-      "num": 200272,
-      "word": "闫妮说天猫双11美低狠",
-      "onboard_time": 1729500439,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 21210,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729502717309,
+  "endTime": 1729503557885,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2548,7 +2548,7 @@
     },
     {
       "raw_hot": 1361020,
-      "num": 579264,
+      "num": 658481,
       "word": "情侣夜爬秦岭冰晶顶看云海遇难",
       "onboard_time": 1729496718,
       "rank": 11,
@@ -4803,6 +4803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 983346,
+      "num": 581140,
+      "word": "伍佰玩叶珂梗",
+      "onboard_time": 1729502778,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 981986,
       "num": 454165,
       "word": "SEVENTEEN演唱会着火",
@@ -5184,6 +5192,14 @@
       "word": "男子工作电脑藏64G色情视频被开除",
       "onboard_time": 1728639081,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935449,
+      "num": 935449,
+      "word": "多架飞往福州的航班中途备降",
+      "onboard_time": 1729499238,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5769,6 +5785,14 @@
       "onboard_time": 1728473480,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 872043,
+      "num": 727019,
+      "word": "whiplash 吒味十足",
+      "onboard_time": 1729502659,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 871194,
@@ -9764,7 +9788,7 @@
     },
     {
       "raw_hot": 613244,
-      "num": 348999,
+      "num": 373728,
       "word": "韦雪直播三场赚了1个亿",
       "onboard_time": 1729500318,
       "rank": 21,
@@ -9873,14 +9897,6 @@
       "onboard_time": 1728134299,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 607140,
-      "num": 607140,
-      "word": "多架飞往福州的航班中途备降",
-      "onboard_time": 1729499238,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606426,
@@ -13107,14 +13123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471336,
-      "num": 243183,
-      "word": "whiplash 吒味十足",
-      "onboard_time": 1729502659,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 471099,
       "num": 290408,
       "word": "张雨霏差点被郑钦文的球砸中",
@@ -15747,6 +15755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 380641,
+      "num": 380641,
+      "word": "ILLIT回归",
+      "onboard_time": 1729502900,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 380523,
       "num": 276510,
       "word": "女子穿僵尸服回小区吓到遛狗大爷",
@@ -17187,6 +17203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 345973,
+      "num": 345973,
+      "word": "冷冷冷冷北方冷冷冷冷",
+      "onboard_time": 1729498279,
+      "rank": 34,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "王楚钦梁靖崑回应夺冠",
@@ -17329,14 +17353,6 @@
       "onboard_time": 1728894139,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341298,
-      "num": 341298,
-      "word": "冷冷冷冷北方冷冷冷冷",
-      "onboard_time": 1729498279,
-      "rank": 34,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 341136,
@@ -18227,6 +18243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322691,
+      "num": 357822,
+      "word": "男子调戏女生男友上前制止被打",
+      "onboard_time": 1729501337,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322601,
       "num": 230747,
       "word": "伊朗向以色列发动大规模导弹袭击",
@@ -19097,6 +19121,14 @@
       "onboard_time": 1729497559,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304676,
+      "num": 304676,
+      "word": "东部战区",
+      "onboard_time": 1729502900,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 304524,
@@ -20281,6 +20313,14 @@
       "onboard_time": 1727932877,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287842,
+      "num": 287842,
+      "word": "whiplash",
+      "onboard_time": 1729501997,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 287833,
@@ -25723,14 +25763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222823,
-      "num": 256688,
-      "word": "whiplash",
-      "onboard_time": 1729501997,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 222789,
       "num": 231841,
       "word": "陈丽君谈更多年轻人喜欢上越剧",
@@ -26153,6 +26185,14 @@
       "onboard_time": 1729050919,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 219056,
+      "num": 219056,
+      "word": "东北小伙花千元把老家爆改成三亚",
+      "onboard_time": 1729502118,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219054,
@@ -27971,14 +28011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206784,
-      "num": 357822,
-      "word": "男子调戏女生男友上前制止被打",
-      "onboard_time": 1729501337,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206725,
       "num": 206725,
       "word": "樊振东巴黎奥运之后首次参赛",
@@ -28729,6 +28761,14 @@
       "onboard_time": 1728816201,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203340,
+      "num": 249080,
+      "word": "广东夫妇回应卖假货",
+      "onboard_time": 1729501458,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 203314,
@@ -31555,14 +31595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191452,
-      "num": 249080,
-      "word": "广东夫妇回应卖假货",
-      "onboard_time": 1729501458,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 191389,
       "num": 496381,
       "word": "官方回应小英送养孩子情况",
@@ -31961,6 +31993,14 @@
       "onboard_time": 1728797719,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189737,
+      "num": 189737,
+      "word": "周深宋雨琦回归奔跑吧录制",
+      "onboard_time": 1729502419,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 189715,
@@ -33513,14 +33553,6 @@
       "onboard_time": 1728358640,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 182227,
-      "num": 182227,
-      "word": "东北小伙花千元把老家爆改成三亚",
-      "onboard_time": 1729502118,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182135,
@@ -37057,14 +37089,6 @@
       "onboard_time": 1727781259,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163986,
-      "num": 163986,
-      "word": "周深宋雨琦回归奔跑吧录制",
-      "onboard_time": 1729502419,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 163973,
@@ -51739,6 +51763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86379,
+      "num": 691520,
+      "word": "涨薪20%依然难招新能源车维修人",
+      "onboard_time": 1729501698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86242,
       "num": 520509,
       "word": "北极赛梁王组合进16强",
@@ -53561,14 +53593,6 @@
       "onboard_time": 1728920960,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 70950,
-      "num": 589888,
-      "word": "涨薪20%依然难招新能源车维修人",
-      "onboard_time": 1729501698,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70888,
@@ -55675,6 +55699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53572,
+      "num": 474518,
+      "word": "易烊千玺天猫双11开幕盛典",
+      "onboard_time": 1729501218,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53511,
       "num": 472534,
       "word": "国乒女团vs中国香港",
@@ -56145,14 +56177,6 @@
       "onboard_time": 1729282572,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50362,
-      "num": 474518,
-      "word": "易烊千玺天猫双11开幕盛典",
-      "onboard_time": 1729501218,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 50361,
@@ -60747,6 +60771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27122,
+      "num": 159046,
+      "word": "淘宝百亿补贴家电最高降9000元",
+      "onboard_time": 1729503380,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27110,
       "num": 729310,
       "word": "这就是大美新疆",
@@ -61403,6 +61435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24177,
+      "num": 200272,
+      "word": "闫妮说天猫双11美低狠",
+      "onboard_time": 1729500439,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24125,
       "num": 26530,
       "word": "所谓社区维修服务中心暗藏陷阱",
@@ -61817,14 +61857,6 @@
       "onboard_time": 1728589931,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22249,
-      "num": 200272,
-      "word": "闫妮说天猫双11美低狠",
-      "onboard_time": 1729500439,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 22247,
