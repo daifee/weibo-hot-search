@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729492363081,
+  "endTime": 1729493185331,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -41,6 +41,14 @@
       "onboard_time": 1729476678,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1416960,
+      "num": 1416960,
+      "word": "男子想死不敢跳楼高空抛物砸死路人",
+      "onboard_time": 1729488018,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1358562,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 552301,
-      "num": 356802,
+      "num": 377419,
       "word": "赵牧辰 边界感",
       "onboard_time": 1729488199,
       "rank": 28,
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452338,
-      "num": 452338,
-      "word": "男子想死不敢跳楼高空抛物砸死路人",
-      "onboard_time": 1729488018,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443095,
       "num": 443095,
       "word": "耳蜗丢失男孩母亲发声",
@@ -425,6 +425,14 @@
       "onboard_time": 1729473380,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 369122,
+      "num": 369122,
+      "word": "半导体15天暴涨70%",
+      "onboard_time": 1729491558,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 351073,
@@ -585,14 +593,6 @@
       "onboard_time": 1729433663,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260479,
-      "num": 260479,
-      "word": "半导体15天暴涨70%",
-      "onboard_time": 1729491558,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 259526,
@@ -851,12 +851,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187160,
+      "num": 183616,
+      "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
+      "onboard_time": 1729492099,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184787,
       "num": 184787,
       "word": "警方回应男子篮球场飞踹女孩",
       "onboard_time": 1729430423,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184363,
+      "num": 184363,
+      "word": "手工耿否认停更是因为挣太多了",
+      "onboard_time": 1729491498,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 182135,
@@ -915,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169093,
+      "num": 169093,
+      "word": "王昭君映山客皮肤正式亮相",
+      "onboard_time": 1729492518,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169072,
       "num": 169072,
       "word": "T1战队CEO谈Faker职业生涯",
@@ -955,20 +979,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165316,
+      "num": 165316,
+      "word": "马龙谈大满贯赛后被恭喜获得亚军",
+      "onboard_time": 1729492578,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162012,
       "num": 162012,
       "word": "刘谦董卿合照",
       "onboard_time": 1729485801,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161168,
-      "num": 161168,
-      "word": "手工耿否认停更是因为挣太多了",
-      "onboard_time": 1729491498,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 160066,
@@ -1001,6 +1025,22 @@
       "onboard_time": 1729488619,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147101,
+      "num": 147101,
+      "word": "它竟比吴承恩的书还早200多年",
+      "onboard_time": 1729490598,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 146422,
+      "num": 170839,
+      "word": "徐明浩单人登封韩版COSMO",
+      "onboard_time": 1729492518,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 141113,
@@ -1059,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133287,
+      "num": 133287,
+      "word": "楼下误以为楼上噪音持刀入室伤人",
+      "onboard_time": 1729492398,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132892,
       "num": 449271,
       "word": "北证50指数刷新历史新高",
@@ -1072,6 +1120,14 @@
       "word": "台湾海峡中部发生3.5级地震",
       "onboard_time": 1729477158,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130311,
+      "num": 130311,
+      "word": "吉林国企离岗16年员工已返回公司",
+      "onboard_time": 1729492877,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1129,14 +1185,6 @@
       "onboard_time": 1729475658,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121935,
-      "num": 121935,
-      "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
-      "onboard_time": 1729492099,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121451,
@@ -1219,20 +1267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116596,
+      "num": 116596,
+      "word": "韩国外交部召见俄罗斯驻韩大使",
+      "onboard_time": 1729492998,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 116192,
       "num": 116192,
       "word": "黑神话获泰国年度最佳游戏",
       "onboard_time": 1729488738,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116004,
-      "num": 116004,
-      "word": "它竟比吴承恩的书还早200多年",
-      "onboard_time": 1729490598,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 112885,
@@ -1507,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77620,
+      "num": 464618,
+      "word": "鄂A6PZ19拦停失控汽车",
+      "onboard_time": 1729492698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72201,
       "num": 72201,
       "word": "范伟获奖感言",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1729429221,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47060,
+      "num": 435384,
+      "word": "私立学校食堂不能没人管",
+      "onboard_time": 1729490838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41001,
@@ -1643,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26843,
+      "num": 324703,
+      "word": "易烊千玺折学家",
+      "onboard_time": 1729488918,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26800,
       "num": 43780,
       "word": "卖饼大叔妻子生病仍照顾困难同学",
@@ -1651,27 +1723,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24812,
+      "num": 279977,
+      "word": "哈妮克孜 皇北霜终于杀通关了",
+      "onboard_time": 1729492758,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24673,
       "num": 142731,
       "word": "卖锅盔大叔妻子生病学生自发购买支持",
       "onboard_time": 1729457892,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23232,
-      "num": 324703,
-      "word": "易烊千玺折学家",
-      "onboard_time": 1729488918,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 22433,
-      "num": 435384,
-      "word": "私立学校食堂不能没人管",
-      "onboard_time": 1729490838,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

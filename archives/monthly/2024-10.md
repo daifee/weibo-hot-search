@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 14:32:43
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 14:46:25
 </p>
 </blockquote>
 <p>
@@ -1703,6 +1703,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%BA%BA%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E5%85%A5%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%23" target="weibo">
 8人被终身禁入稻城亚丁景区（热度：1417596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E6%AD%BB%E4%B8%8D%E6%95%A2%E8%B7%B3%E6%A5%BC%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%23" target="weibo">
+男子想死不敢跳楼高空抛物砸死路人（热度：1416960）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%941%E8%92%AF%E6%9B%BC%23" target="weibo">
 孙颖莎3比1蒯曼（热度：705507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E6%9D%8E%E8%B1%AA%E4%B8%96%E7%95%8C%E6%9D%AF10%E7%B1%B3%E6%B0%94%E6%AD%A5%E6%9E%AA%E5%A4%BA%E5%86%A0%23" target="weibo">
-盛李豪世界杯10米气步枪夺冠（热度：705083）
 </a>
 </li>
 
