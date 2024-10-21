@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729521645053,
+  "endTime": 1729524308728,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -763,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 746850,
+      "num": 746850,
+      "word": "00后女生被辞硬怼公司拿回双倍工资",
+      "onboard_time": 1729520120,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743154,
       "num": 468767,
       "word": "贾静雯不顾女儿反对临时剪短发",
@@ -905,6 +913,14 @@
       "onboard_time": 1729426220,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 642021,
+      "num": 366652,
+      "word": "东北雨姐贷款1200多万买电商楼",
+      "onboard_time": 1729511900,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640285,
@@ -1144,14 +1160,6 @@
       "word": "胖东来进京能火多久",
       "onboard_time": 1729405700,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546517,
-      "num": 366652,
-      "word": "东北雨姐贷款1200多万买电商楼",
-      "onboard_time": 1729511900,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2523,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229960,
+      "num": 185001,
+      "word": "本周最幸运星座",
+      "onboard_time": 1729521562,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229776,
       "num": 271044,
       "word": "陈好好六街万人迷",
@@ -2616,6 +2632,14 @@
       "word": "流量下我们需要什么样的网红",
       "onboard_time": 1729515559,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221416,
+      "num": 221416,
+      "word": "女子拆快递后揉眼睛感染疱疹病毒",
+      "onboard_time": 1729520661,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3715,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160652,
+      "num": 160652,
+      "word": "WB晋级年总淘汰赛",
+      "onboard_time": 1729523182,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160369,
       "num": 329472,
       "word": "解放军喷火器实喷训练满屏热浪",
@@ -4003,20 +4035,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144736,
-      "num": 157451,
-      "word": "00后女生被辞硬怼公司拿回双倍工资",
-      "onboard_time": 1729520120,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143874,
       "num": 143874,
       "word": "赵露思蝴蝶隐喻",
       "onboard_time": 1729511540,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143689,
+      "num": 293924,
+      "word": "研究发现晚上更容易冲动消费",
+      "onboard_time": 1729520481,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143536,
@@ -4033,14 +4065,6 @@
       "onboard_time": 1729408278,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142159,
-      "num": 293924,
-      "word": "研究发现晚上更容易冲动消费",
-      "onboard_time": 1729520481,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141876,
@@ -4145,14 +4169,6 @@
       "onboard_time": 1729388899,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137526,
-      "num": 137526,
-      "word": "女子拆快递后揉眼睛感染疱疹病毒",
-      "onboard_time": 1729520661,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136881,
@@ -4531,6 +4547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119518,
+      "num": 119518,
+      "word": "双十一洗衣液",
+      "onboard_time": 1729524140,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119262,
       "num": 119262,
       "word": "战至巅峰3半决赛现场直击",
@@ -4603,6 +4627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117761,
+      "num": 117761,
+      "word": "iPhone16哪个型号跌幅最大",
+      "onboard_time": 1729521741,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117670,
       "num": 117670,
       "word": "央视曝光证书挂靠陷阱",
@@ -4627,20 +4659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116362,
+      "num": 272466,
+      "word": "这种疼痛好多人都挂错科室了",
+      "onboard_time": 1729521439,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116192,
       "num": 116192,
       "word": "黑神话获泰国年度最佳游戏",
       "onboard_time": 1729488738,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115341,
-      "num": 115341,
-      "word": "本周最幸运星座",
-      "onboard_time": 1729521562,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 115083,
@@ -4793,6 +4825,14 @@
       "onboard_time": 1729414758,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107862,
+      "num": 160663,
+      "word": "李昊将加盟声生不息港乐季2",
+      "onboard_time": 1729522699,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 107478,
@@ -5123,6 +5163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80245,
+      "num": 89595,
+      "word": "刘宇宁金鹰奖理想舞台",
+      "onboard_time": 1729522041,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80155,
       "num": 80155,
       "word": "林诗栋晒启程照",
@@ -5227,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70814,
+      "num": 185033,
+      "word": "天猫双11大额券用完2张还有2张",
+      "onboard_time": 1729519941,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69310,
       "num": 499158,
       "word": "警方回应贩婴事件",
@@ -5299,7 +5355,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59884,
+      "raw_hot": 60104,
       "num": 908621,
       "word": "吐鲁番一个地方藏着多少高考地理题",
       "onboard_time": 1729519700,
@@ -5403,6 +5459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50834,
+      "num": 192977,
+      "word": "学校回应1477名新生拟放弃入学",
+      "onboard_time": 1729522939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50739,
       "num": 1521631,
       "word": "发现不一样的新疆",
@@ -5465,14 +5529,6 @@
       "onboard_time": 1729392618,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47684,
-      "num": 272466,
-      "word": "这种疼痛好多人都挂错科室了",
-      "onboard_time": 1729521439,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47267,
@@ -5760,14 +5816,6 @@
       "word": "天猫双11购物车今晚8点见",
       "onboard_time": 1729480639,
       "rank": 29,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 32082,
-      "num": 175713,
-      "word": "天猫双11大额券用完2张还有2张",
-      "onboard_time": 1729519941,
-      "rank": 37,
       "category": "互联网"
     },
     {
@@ -6089,6 +6137,14 @@
       "onboard_time": 1729446254,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19797,
+      "num": 222685,
+      "word": "长安可变新汽车E07你来定",
+      "onboard_time": 1729521921,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 19655,
