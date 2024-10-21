@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729538286743,
+  "endTime": 1729539340733,
   "band_list": [
     {
       "raw_hot": 1034461,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24458,
+      "num": 64530,
+      "word": "食骨奉母男孩家中堆满捐赠物资",
+      "onboard_time": 1729537512,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21923,
       "num": 33420,
       "word": "刘耀文新歌SUGAR预告海报",
@@ -515,19 +523,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18396,
-      "num": 64530,
-      "word": "食骨奉母男孩家中堆满捐赠物资",
-      "onboard_time": 1729537512,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17815,
       "num": 538579,
       "word": "吐鲁番一个地方藏着多少高考地理题",
       "onboard_time": 1729519700,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15085,
+      "num": 15085,
+      "word": "米饭千层",
+      "onboard_time": 1729538531,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 14443,
+      "num": 40387,
+      "word": "央视揭秘停息挂账骗局",
+      "onboard_time": 1729538891,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
