@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 18:26:22
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 18:44:01
 </p>
 </blockquote>
 <p>
@@ -1535,6 +1535,12 @@ BLG晋级S14四强（热度：1624127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%9F%A9%E5%85%B3%E7%B3%BB%E4%B8%BA%E4%BD%95%E4%B8%80%E4%B8%8B%E5%8F%98%E5%A4%A9%23" target="weibo">
 朝韩关系为何一下变天（热度：1520873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%81%E7%A1%95%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%23" target="weibo">
+刘丁硕退出国家队（热度：1519991）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A5%BF%E5%A4%A9%E7%88%86%E7%81%AB%E8%AE%A9%E6%9B%B4%E5%A4%9A%E4%BA%BA%E8%AE%A4%E8%AF%86%E4%BA%86%E9%9A%B0%E5%AD%97%23" target="weibo">
 小西天爆火让更多人认识了隰字（热度：715422）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E7%A7%8B%E8%8E%B2%E5%9B%9E%E5%BA%94%E9%AA%97%E6%8D%90%E8%B4%A8%E7%96%91%23" target="weibo">
-江秋莲回应骗捐质疑（热度：714362）
 </a>
 </li>
 
