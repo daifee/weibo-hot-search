@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729524308728,
+  "endTime": 1729525161547,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -3604,7 +3604,7 @@
     },
     {
       "raw_hot": 1155839,
-      "num": 624033,
+      "num": 680588,
       "word": "中国军队和武警严防死守中缅边境",
       "onboard_time": 1729515019,
       "rank": 21,
@@ -8177,6 +8177,14 @@
       "onboard_time": 1729063338,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708614,
+      "num": 708614,
+      "word": "女子拆快递后揉眼睛感染疱疹病毒",
+      "onboard_time": 1729520661,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708439,
@@ -25051,6 +25059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 231466,
+      "num": 185001,
+      "word": "本周最幸运星座",
+      "onboard_time": 1729521562,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231454,
       "num": 231454,
       "word": "张凌赫有题是真做",
@@ -25289,14 +25305,6 @@
       "onboard_time": 1729134143,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229960,
-      "num": 185001,
-      "word": "本周最幸运星座",
-      "onboard_time": 1729521562,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 229824,
@@ -26208,14 +26216,6 @@
       "word": "流量下我们需要什么样的网红",
       "onboard_time": 1729515559,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221416,
-      "num": 221416,
-      "word": "女子拆快递后揉眼睛感染疱疹病毒",
-      "onboard_time": 1729520661,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -37875,6 +37875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162683,
+      "num": 162683,
+      "word": "双十一洗衣液",
+      "onboard_time": 1729524140,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162676,
       "num": 162676,
       "word": "朱志鑫smoke舞蹈Cover",
@@ -44059,6 +44067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "iPhone16哪个型号跌幅最大",
+      "onboard_time": 1729521741,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134784,
       "num": 134784,
       "word": "共和国的圆梦时刻",
@@ -47019,14 +47035,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 119518,
-      "num": 119518,
-      "word": "双十一洗衣液",
-      "onboard_time": 1729524140,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119424,
       "num": 207291,
       "word": "五星红旗凝聚着中国人民的爱国之心",
@@ -47425,14 +47433,6 @@
       "onboard_time": 1727784199,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 117761,
-      "num": 117761,
-      "word": "iPhone16哪个型号跌幅最大",
-      "onboard_time": 1729521741,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 117756,
@@ -49243,6 +49243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108094,
+      "num": 160663,
+      "word": "李昊将加盟声生不息港乐季2",
+      "onboard_time": 1729522699,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108045,
       "num": 314916,
       "word": "东北雨姐橱窗已下架所有商品",
@@ -49305,14 +49313,6 @@
       "onboard_time": 1728192798,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107862,
-      "num": 160663,
-      "word": "李昊将加盟声生不息港乐季2",
-      "onboard_time": 1729522699,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 107811,
@@ -50843,6 +50843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98633,
+      "num": 98633,
+      "word": "卓沅直播",
+      "onboard_time": 1729524920,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98628,
       "num": 98628,
       "word": "九寨沟秋雪全糖微冰",
@@ -51185,6 +51193,14 @@
       "onboard_time": 1727928018,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96153,
+      "num": 96153,
+      "word": "APT手势舞",
+      "onboard_time": 1729525098,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 96104,
@@ -55161,6 +55177,14 @@
       "onboard_time": 1728624200,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62411,
+      "num": 175724,
+      "word": "杨妞花回应余华英案将宣判",
+      "onboard_time": 1729524920,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62321,

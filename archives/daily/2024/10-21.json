@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729524308728,
+  "endTime": 1729525161547,
   "band_list": [
     {
       "raw_hot": 2400219,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1155839,
-      "num": 624033,
+      "num": 680588,
       "word": "中国军队和武警严防死守中缅边境",
       "onboard_time": 1729515019,
       "rank": 21,
@@ -417,6 +417,14 @@
       "onboard_time": 1729496598,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 708614,
+      "num": 708614,
+      "word": "女子拆快递后揉眼睛感染疱疹病毒",
+      "onboard_time": 1729520661,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708439,
@@ -1243,20 +1251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231466,
+      "num": 185001,
+      "word": "本周最幸运星座",
+      "onboard_time": 1729521562,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230858,
       "num": 230858,
       "word": "易烊千玺复古红西装",
       "onboard_time": 1729513098,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229960,
-      "num": 185001,
-      "word": "本周最幸运星座",
-      "onboard_time": 1729521562,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 229601,
@@ -1336,14 +1344,6 @@
       "word": "流量下我们需要什么样的网红",
       "onboard_time": 1729515559,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221416,
-      "num": 221416,
-      "word": "女子拆快递后揉眼睛感染疱疹病毒",
-      "onboard_time": 1729520661,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1875,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162683,
+      "num": 162683,
+      "word": "双十一洗衣液",
+      "onboard_time": 1729524140,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162012,
       "num": 162012,
       "word": "刘谦董卿合照",
@@ -2123,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "iPhone16哪个型号跌幅最大",
+      "onboard_time": 1729521741,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134566,
       "num": 134566,
       "word": "翁青雅彭高按摩约会",
@@ -2291,14 +2307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119518,
-      "num": 119518,
-      "word": "双十一洗衣液",
-      "onboard_time": 1729524140,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119157,
       "num": 119157,
       "word": "工作室恭喜王一博夺得冠军",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1729473798,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117761,
-      "num": 117761,
-      "word": "iPhone16哪个型号跌幅最大",
-      "onboard_time": 1729521741,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 116622,
@@ -2491,7 +2491,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107862,
+      "raw_hot": 108094,
       "num": 160663,
       "word": "李昊将加盟声生不息港乐季2",
       "onboard_time": 1729522699,
@@ -2587,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98633,
+      "num": 98633,
+      "word": "卓沅直播",
+      "onboard_time": 1729524920,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98340,
       "num": 98340,
       "word": "专家称居民存量房贷利息支出明显减少",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1729479798,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96153,
+      "num": 96153,
+      "word": "APT手势舞",
+      "onboard_time": 1729525098,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 94889,
@@ -2785,6 +2801,14 @@
       "onboard_time": 1729499659,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62411,
+      "num": 175724,
+      "word": "杨妞花回应余华英案将宣判",
+      "onboard_time": 1729524920,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61834,
