@@ -1,0 +1,410 @@
+{
+  "runTime": 1729509642463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073173,
+        "num": 1171707,
+        "word": "中国驻缅甸曼德勒总领馆遭爆炸袭击",
+        "onboard_time": 1729497738,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 869450,
+        "num": 869450,
+        "word": "国资委介入调查国企员工擅自离岗",
+        "onboard_time": 1729504159,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21644,
+        "num": 832398,
+        "word": "从延安再出发",
+        "onboard_time": 1729499598,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810721,
+        "num": 810721,
+        "word": "雷军开法拉利引热议",
+        "onboard_time": 1729506559,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 689501,
+        "num": 689501,
+        "word": "周星驰发文庆祝付航夺冠",
+        "onboard_time": 1729506259,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481099,
+        "num": 481099,
+        "word": "梁强当选越南国家主席",
+        "onboard_time": 1729505119,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 447597,
+        "num": 447597,
+        "word": "东北雨姐被禁言",
+        "onboard_time": 1729508479,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 425115,
+        "num": 425115,
+        "word": "iPhone16官方罕见降价1600元",
+        "onboard_time": 1729498337,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 419756,
+        "num": 419756,
+        "word": "芒果艺人给赵丽颖写的信",
+        "onboard_time": 1729506320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57050,
+        "num": 417390,
+        "word": "严惩高空抛物不仅要依法而且要及时",
+        "onboard_time": 1729509441,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179189,
+        "num": 416234,
+        "word": "刘丁硕退出国家队",
+        "onboard_time": 1729506019,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1164138,
+        "num": 411702,
+        "word": "男子调戏女生男友上前制止被打",
+        "onboard_time": 1729501337,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952344,
+        "num": 409299,
+        "word": "广东夫妇疑删除八亿补贴宣传",
+        "onboard_time": 1729507640,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12852,
+        "num": 405821,
+        "word": "杨妞花重返故乡追忆寻亲历程",
+        "onboard_time": 1729508718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64766,
+        "num": 404716,
+        "word": "天猫晚八点数码家电国补6折起",
+        "onboard_time": 1729508420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589873,
+        "num": 400818,
+        "word": "难听",
+        "onboard_time": 1729504219,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 484492,
+        "num": 399161,
+        "word": "黄圣依脖子纹身",
+        "onboard_time": 1729498217,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426663,
+        "num": 396100,
+        "word": "韦雪直播三场赚了1个亿",
+        "onboard_time": 1729500318,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34572,
+        "num": 393728,
+        "word": "阿勒泰导演新电影丹心恋人官宣",
+        "onboard_time": 1729508539,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79820,
+        "num": 390121,
+        "word": "男子称因转发未婚妻出轨证据被拘7天",
+        "onboard_time": 1729508839,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388586,
+        "num": 388586,
+        "word": "情侣夜爬秦岭冰晶顶看云海遇难",
+        "onboard_time": 1729496718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414704,
+        "num": 387558,
+        "word": "外交部回应中国驻曼德勒总领馆遭袭",
+        "onboard_time": 1729498819,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383581,
+        "num": 383581,
+        "word": "王多多回应Ning",
+        "onboard_time": 1729495937,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36439,
+        "num": 371727,
+        "word": "今晚花呗12期免息买家具",
+        "onboard_time": 1729504999,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16770,
+        "num": 365654,
+        "word": "深蓝承诺交付超期全额赔付",
+        "onboard_time": 1729508839,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362557,
+        "num": 362557,
+        "word": "奔跑吧 7人到齐",
+        "onboard_time": 1729503618,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203695,
+        "num": 362345,
+        "word": "奔跑吧对冰岛的执念有多深",
+        "onboard_time": 1729508839,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23619,
+        "num": 331078,
+        "word": "vivoX200全系列支持花呗24期免息",
+        "onboard_time": 1729506080,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194032,
+        "num": 323815,
+        "word": "李现金鹰节帮赵丽颖卷海报",
+        "onboard_time": 1729504039,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187398,
+        "num": 313365,
+        "word": "付航脱口秀 内涵",
+        "onboard_time": 1729498459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164414,
+        "num": 294057,
+        "word": "外交部回应驻缅甸曼德勒总领馆遭袭",
+        "onboard_time": 1729508959,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282977,
+        "num": 282977,
+        "word": "工资决定了我的工作状态",
+        "onboard_time": 1729503740,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269395,
+        "num": 269395,
+        "word": "福州机场",
+        "onboard_time": 1729497018,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242315,
+        "num": 242315,
+        "word": "冷冷冷冷北方冷冷冷冷",
+        "onboard_time": 1729498279,
+        "rank": 33,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 240742,
+        "num": 240742,
+        "word": "这一次情报外泄让以色列更尴尬了",
+        "onboard_time": 1729505479,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236850,
+        "num": 236850,
+        "word": "外媒称公开辛瓦尔死亡视频是重大错误",
+        "onboard_time": 1729505839,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235428,
+        "num": 235428,
+        "word": "多架飞往福州的航班中途备降",
+        "onboard_time": 1729499238,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222885,
+        "num": 222885,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200250,
+        "num": 200250,
+        "word": "东部战区",
+        "onboard_time": 1729502900,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31188,
+        "num": 183243,
+        "word": "今晚花呗分期买戴森12期免息",
+        "onboard_time": 1729509139,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182497,
+        "num": 182497,
+        "word": "孟子义剪了短发",
+        "onboard_time": 1729486639,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175356,
+        "num": 175356,
+        "word": "ILLIT aespa",
+        "onboard_time": 1729498878,
+        "rank": 41,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 169231,
+        "num": 169231,
+        "word": "逆水寒",
+        "onboard_time": 1729509500,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38186,
+        "num": 168511,
+        "word": "花呗24期免息买特斯拉充电桩",
+        "onboard_time": 1729504999,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 168313,
+        "word": "勒布伦摔拍单打成绩被取消",
+        "onboard_time": 1729495458,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164672,
+        "num": 164672,
+        "word": "华晨宇与朋友在西湖骑单车",
+        "onboard_time": 1729509500,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158745,
+        "num": 158745,
+        "word": "中领馆通报中国女性在德国遭强奸",
+        "onboard_time": 1729509200,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151842,
+        "num": 151842,
+        "word": "吉林一国企员工离岗16年后续",
+        "onboard_time": 1729494918,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150271,
+        "num": 150271,
+        "word": "韩国国脚金玟哉宣布离婚",
+        "onboard_time": 1729508179,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147504,
+        "num": 147504,
+        "word": "家属称听到判决结果眼泪止不住",
+        "onboard_time": 1729485861,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#农民会有更加火热的生活#"
+    }
+  }
+}
