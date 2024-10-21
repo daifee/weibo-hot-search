@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729475076270,
+  "endTime": 1729476247542,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -17,6 +17,14 @@
       "onboard_time": 1729436963,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1266022,
+      "num": 1266022,
+      "word": "一盆臭肉为何熏倒多名官员",
+      "onboard_time": 1729471340,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1127384,
@@ -52,27 +60,19 @@
     },
     {
       "raw_hot": 880856,
-      "num": 462275,
+      "num": 470111,
       "word": "何炅 三十年真心换真心",
       "onboard_time": 1729428681,
       "rank": 11,
       "category": "剧集"
     },
     {
-      "raw_hot": 877094,
+      "raw_hot": 879914,
       "num": 490748,
       "word": "辛瓦尔小18岁遗孀罕见曝光",
       "onboard_time": 1729468700,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 814402,
-      "num": 814402,
-      "word": "一盆臭肉为何熏倒多名官员",
-      "onboard_time": 1729471340,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 708439,
@@ -105,6 +105,14 @@
       "onboard_time": 1729431987,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 573058,
+      "num": 573058,
+      "word": "听泉赏宝回应直播连线争议",
+      "onboard_time": 1729473078,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552154,
@@ -144,14 +152,6 @@
       "word": "男孩花费近60万人工耳蜗宿舍内丢失",
       "onboard_time": 1729430481,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480780,
-      "num": 480780,
-      "word": "听泉赏宝回应直播连线争议",
-      "onboard_time": 1729473078,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374664,
+      "num": 356763,
+      "word": "高叶获奖后发文",
+      "onboard_time": 1729473260,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374108,
       "num": 374108,
       "word": "虹桥机场廊桥内一乘客行李起火",
@@ -211,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356763,
-      "num": 356763,
-      "word": "高叶获奖后发文",
-      "onboard_time": 1729473260,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 373483,
+      "num": 318524,
+      "word": "狗 真过来了你又不高兴",
+      "onboard_time": 1729473380,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 351073,
@@ -248,14 +256,6 @@
       "word": "只有大学生才知道她有多全能",
       "onboard_time": 1729467258,
       "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 318524,
-      "num": 318524,
-      "word": "狗 真过来了你又不高兴",
-      "onboard_time": 1729473380,
-      "rank": 21,
       "category": "幽默"
     },
     {
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297600,
+      "num": 504100,
+      "word": "海南琼海市委书记田志强被带走",
+      "onboard_time": 1729472120,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294973,
       "num": 294973,
       "word": "男子阻拦发飙水牛被撞断10根肋骨",
@@ -313,6 +321,14 @@
       "onboard_time": 1729437802,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267738,
+      "num": 267738,
+      "word": "姜妍回应金鹰奖提名",
+      "onboard_time": 1729472780,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 267460,
@@ -339,20 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244333,
-      "num": 244333,
-      "word": "姜妍回应金鹰奖提名",
-      "onboard_time": 1729472780,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236148,
       "num": 236148,
       "word": "北京真的下雪了",
       "onboard_time": 1729418540,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229063,
+      "num": 218679,
+      "word": "试婚纱让男朋友全程摆臭脸",
+      "onboard_time": 1729467798,
+      "rank": 24,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 226647,
@@ -363,19 +379,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218679,
-      "num": 218679,
-      "word": "试婚纱让男朋友全程摆臭脸",
-      "onboard_time": 1729467798,
-      "rank": 24,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 212834,
       "num": 498113,
       "word": "5年期和1年期LPR均下调25基点",
       "onboard_time": 1729473260,
       "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 210996,
+      "num": 210996,
+      "word": "A股",
+      "onboard_time": 1729474758,
+      "rank": 27,
       "category": "财经"
     },
     {
@@ -401,14 +417,6 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196979,
-      "num": 196979,
-      "word": "A股",
-      "onboard_time": 1729474758,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 196528,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184615,
+      "num": 184615,
+      "word": "成都一小区承重柱不达标被拆",
+      "onboard_time": 1729474639,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182135,
       "num": 182135,
       "word": "外国小姐姐穿上了汉代甲胄",
@@ -481,6 +497,14 @@
       "onboard_time": 1729422860,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172986,
+      "num": 172986,
+      "word": "bwipo哭了",
+      "onboard_time": 1729475299,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 167900,
@@ -507,19 +531,35 @@
       "category": "数码"
     },
     {
-      "raw_hot": 141258,
-      "num": 141258,
-      "word": "国产葡萄换上洋外衣价格相差10倍",
-      "onboard_time": 1729474579,
-      "rank": 36,
+      "raw_hot": 160066,
+      "num": 168048,
+      "word": "情敌一叫七姑娘罗慎远慌了",
+      "onboard_time": 1729473739,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154763,
+      "num": 186599,
+      "word": "加沙人街头遭轰炸有人施救又被炸",
+      "onboard_time": 1729473078,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 151958,
+      "num": 151958,
+      "word": "陕西一下子冷起来了",
+      "onboard_time": 1729469059,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140452,
-      "num": 504100,
-      "word": "海南琼海市委书记田志强被带走",
-      "onboard_time": 1729472120,
-      "rank": 8,
+      "raw_hot": 141976,
+      "num": 141976,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -529,14 +569,6 @@
       "onboard_time": 1729472418,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135985,
-      "num": 135985,
-      "word": "陕西一下子冷起来了",
-      "onboard_time": 1729469059,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135709,
@@ -555,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128740,
-      "num": 128740,
-      "word": "成都一小区承重柱不达标被拆",
-      "onboard_time": 1729474639,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126252,
       "num": 126252,
       "word": "TES后台",
@@ -571,12 +595,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123150,
-      "num": 123150,
-      "word": "加沙人街头遭轰炸有人施救又被炸",
-      "onboard_time": 1729473078,
-      "rank": 45,
-      "category": "国外时政"
+      "raw_hot": 123878,
+      "num": 123878,
+      "word": "蒲熠星关键双杀",
+      "onboard_time": 1729475658,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 121451,
@@ -619,12 +643,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116931,
-      "num": 116931,
-      "word": "情敌一叫七姑娘罗慎远慌了",
-      "onboard_time": 1729473739,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 116622,
+      "num": 116622,
+      "word": "戚薇输了比赛给刘忻打电话求安慰",
+      "onboard_time": 1729471460,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 112885,
@@ -681,6 +705,14 @@
       "onboard_time": 1729412779,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107624,
+      "num": 107624,
+      "word": "警方通报男子站在车上张开双臂骑行",
+      "onboard_time": 1729475959,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100949,
@@ -947,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14218,
+      "num": 738637,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14118,
       "num": 33266,
       "word": "酒泉卫星发射中心66岁了",
@@ -969,14 +1009,6 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12744,
-      "num": 738637,
-      "word": "何以中国五星出东方",
-      "onboard_time": 1729323379,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12314,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729476247542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266022,
+        "num": 1266022,
+        "word": "一盆臭肉为何熏倒多名官员",
+        "onboard_time": 1729471340,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999901,
+        "num": 999901,
+        "word": "李沁发文祝贺赵丽颖",
+        "onboard_time": 1729473319,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14218,
+        "num": 659819,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573058,
+        "num": 573058,
+        "word": "听泉赏宝回应直播连线争议",
+        "onboard_time": 1729473078,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559402,
+        "num": 559402,
+        "word": "听泉鉴宝下播",
+        "onboard_time": 1729436963,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 535471,
+        "num": 535471,
+        "word": "30岁汪顺和17岁小将的填空题撞答案了",
+        "onboard_time": 1729468097,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533028,
+        "num": 533028,
+        "word": "李沁收到范闲送的鸡腿",
+        "onboard_time": 1729431987,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475621,
+        "num": 475621,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1729467258,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498839,
+        "num": 470111,
+        "word": "何炅 三十年真心换真心",
+        "onboard_time": 1729428681,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320746,
+        "num": 320746,
+        "word": "LPR",
+        "onboard_time": 1729471939,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1061110,
+        "num": 319667,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 606016,
+        "num": 317428,
+        "word": "第一批房价下跌的夫妻已经离婚了",
+        "onboard_time": 1729467437,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413419,
+        "num": 311957,
+        "word": "赵丽颖二封金鹰视后",
+        "onboard_time": 1729431504,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374664,
+        "num": 310786,
+        "word": "高叶获奖后发文",
+        "onboard_time": 1729473260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353795,
+        "num": 307436,
+        "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+        "onboard_time": 1729430481,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304426,
+        "num": 304426,
+        "word": "妈妈说朝鲜太冷了让我带您回家",
+        "onboard_time": 1729431805,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297600,
+        "num": 297600,
+        "word": "海南琼海市委书记田志强被带走",
+        "onboard_time": 1729472120,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267738,
+        "num": 267738,
+        "word": "姜妍回应金鹰奖提名",
+        "onboard_time": 1729472780,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210996,
+        "num": 210996,
+        "word": "A股",
+        "onboard_time": 1729474758,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203845,
+        "num": 203845,
+        "word": "范伟金鹰视帝",
+        "onboard_time": 1729432644,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 879914,
+        "num": 203347,
+        "word": "辛瓦尔小18岁遗孀罕见曝光",
+        "onboard_time": 1729468700,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 373483,
+        "num": 195034,
+        "word": "狗 真过来了你又不高兴",
+        "onboard_time": 1729473380,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229063,
+        "num": 192964,
+        "word": "试婚纱让男朋友全程摆臭脸",
+        "onboard_time": 1729467798,
+        "rank": 22,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 154763,
+        "num": 186599,
+        "word": "加沙人街头遭轰炸有人施救又被炸",
+        "onboard_time": 1729473078,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184615,
+        "num": 184615,
+        "word": "成都一小区承重柱不达标被拆",
+        "onboard_time": 1729474639,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185184,
+        "num": 184159,
+        "word": "李知勋发长文",
+        "onboard_time": 1729472719,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172986,
+        "num": 172986,
+        "word": "bwipo哭了",
+        "onboard_time": 1729475299,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168667,
+        "num": 168667,
+        "word": "虹桥机场廊桥内一乘客行李起火",
+        "onboard_time": 1729437983,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165663,
+        "num": 168312,
+        "word": "只有大学生才知道她有多全能",
+        "onboard_time": 1729467258,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160066,
+        "num": 168048,
+        "word": "情敌一叫七姑娘罗慎远慌了",
+        "onboard_time": 1729473739,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168014,
+        "num": 168014,
+        "word": "今年冬天会是史上最冷吗",
+        "onboard_time": 1729447093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167139,
+        "num": 167139,
+        "word": "S14决赛将是LPL对战LCK",
+        "onboard_time": 1729470680,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151958,
+        "num": 151958,
+        "word": "陕西一下子冷起来了",
+        "onboard_time": 1729469059,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144930,
+        "num": 144930,
+        "word": "张新成最开心给何老师颁奖",
+        "onboard_time": 1729472120,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "5年期和1年期LPR均下调25基点",
+        "onboard_time": 1729473260,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141976,
+        "num": 141976,
+        "word": "国产葡萄换上洋外衣价格相差10倍",
+        "onboard_time": 1729474579,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137095,
+        "num": 137095,
+        "word": "金饰价格持续大涨金店却现闭店潮",
+        "onboard_time": 1729472418,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128831,
+        "num": 128831,
+        "word": "臭肉事件校方如此傲慢只会臭上加臭",
+        "onboard_time": 1729471161,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128012,
+        "num": 128012,
+        "word": "芒果艺人做近视眼手术后复发",
+        "onboard_time": 1729423342,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126224,
+        "num": 126224,
+        "word": "一加13",
+        "onboard_time": 1729473679,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "蒲熠星关键双杀",
+        "onboard_time": 1729475658,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118434,
+        "num": 118434,
+        "word": "外国小姐姐穿上了汉代甲胄",
+        "onboard_time": 1729470800,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 116622,
+        "word": "戚薇输了比赛给刘忻打电话求安慰",
+        "onboard_time": 1729471460,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114304,
+        "num": 114304,
+        "word": "东北雨姐极速坠落",
+        "onboard_time": 1729429641,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 112849,
+        "word": "看双胞胎打乒乓球还以为散光了",
+        "onboard_time": 1729469298,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 112224,
+        "word": "覃海洋获8000美元奖金",
+        "onboard_time": 1729430722,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111188,
+        "num": 111188,
+        "word": "iPhone16官旗多款机型破发",
+        "onboard_time": 1729437141,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107624,
+        "num": 107624,
+        "word": "警方通报男子站在车上张开双臂骑行",
+        "onboard_time": 1729475959,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107616,
+        "num": 107616,
+        "word": "手工耿已停更近5月",
+        "onboard_time": 1729439000,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106000,
+        "num": 106000,
+        "word": "男子将3岁女儿抛向大货车被判死刑",
+        "onboard_time": 1729422981,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对国家级经济技术开发区工作作出重要指示#"
+    }
+  }
+}
