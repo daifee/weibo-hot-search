@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729517473802,
+  "endTime": 1729518169370,
   "band_list": [
     {
       "raw_hot": 2400219,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536129,
+      "num": 1536129,
+      "word": "双十一退款",
+      "onboard_time": 1729515260,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1526774,
       "num": 1526774,
       "word": "付航脱口秀 内涵",
@@ -105,14 +113,6 @@
       "onboard_time": 1729476678,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1409138,
-      "num": 1409138,
-      "word": "双十一退款",
-      "onboard_time": 1729515260,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 1361020,
@@ -211,20 +211,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1040576,
+      "num": 624033,
+      "word": "中国军队和武警严防死守中缅边境",
+      "onboard_time": 1729515019,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1001460,
       "num": 1160233,
       "word": "李沁发文祝贺赵丽颖",
       "onboard_time": 1729473319,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 985437,
-      "num": 507206,
-      "word": "中国军队和武警严防死守中缅边境",
-      "onboard_time": 1729515019,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 983346,
@@ -355,6 +355,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 750007,
+      "num": 404254,
+      "word": "高空抛物致死案男子听到安乐死露笑容",
+      "onboard_time": 1729515559,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748499,
       "num": 457522,
       "word": "难听",
@@ -393,6 +401,14 @@
       "onboard_time": 1729434503,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706747,
+      "num": 706747,
+      "word": "斐乐 尾款",
+      "onboard_time": 1729514659,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 705259,
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614842,
-      "num": 343327,
-      "word": "高空抛物致死案男子听到安乐死露笑容",
-      "onboard_time": 1729515559,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595649,
       "num": 533388,
       "word": "手工耿否认停更是因为挣太多了",
@@ -547,14 +555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 551731,
-      "num": 551731,
-      "word": "斐乐 尾款",
-      "onboard_time": 1729514659,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 543384,
       "num": 543384,
       "word": "韩国三星电子决定退出LED业务",
@@ -617,6 +617,14 @@
       "onboard_time": 1729432644,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509605,
+      "num": 509605,
+      "word": "外交部回应朝军已进入乌克兰战场",
+      "onboard_time": 1729514959,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 496128,
@@ -723,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394961,
+      "num": 394961,
+      "word": "Ning直播回应王多多",
+      "onboard_time": 1729512979,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390223,
       "num": 390223,
       "word": "3岁幼童遭生父女友虐待后离世",
       "onboard_time": 1729434743,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387293,
-      "num": 387293,
-      "word": "Ning直播回应王多多",
-      "onboard_time": 1729512979,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 380641,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 354895,
-      "num": 316025,
+      "num": 353921,
       "word": "迪丽热巴半扎发型",
       "onboard_time": 1729513157,
       "rank": 26,
@@ -833,6 +841,14 @@
       "onboard_time": 1729492398,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351117,
+      "num": 419321,
+      "word": "老舅演唱会嘉宾 鹿晗",
+      "onboard_time": 1729515319,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 351073,
@@ -881,14 +897,6 @@
       "onboard_time": 1729439599,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 330806,
-      "num": 330806,
-      "word": "外交部回应朝军已进入乌克兰战场",
-      "onboard_time": 1729514959,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 329362,
@@ -953,14 +961,6 @@
       "onboard_time": 1729497559,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303790,
-      "num": 350934,
-      "word": "老舅演唱会嘉宾 鹿晗",
-      "onboard_time": 1729515319,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 302085,
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 212810,
-      "num": 331582,
+      "num": 415831,
       "word": "流量下我们需要什么样的网红",
       "onboard_time": 1729515559,
       "rank": 16,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1729514358,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200431,
+      "num": 200431,
+      "word": "WTT蒙彼利埃冠军赛赛程",
+      "onboard_time": 1729517181,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 200201,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1729442179,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185996,
+      "num": 185996,
+      "word": "辰咪cp",
+      "onboard_time": 1729517901,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 185319,
@@ -1835,14 +1851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161996,
-      "num": 161996,
-      "word": "WTT蒙彼利埃冠军赛赛程",
-      "onboard_time": 1729517181,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161111,
       "num": 389242,
       "word": "辛巴称有大主播卖学习机赚1000差价",
@@ -1971,12 +1979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145090,
+      "num": 202307,
+      "word": "刘学义妆造",
+      "onboard_time": 1729517060,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143874,
       "num": 143874,
       "word": "赵露思蝴蝶隐喻",
       "onboard_time": 1729511540,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141343,
+      "num": 286531,
+      "word": "卧底催收公司30天",
+      "onboard_time": 1729510879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141270,
@@ -2083,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131045,
-      "num": 194243,
-      "word": "刘学义妆造",
-      "onboard_time": 1729517060,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130178,
       "num": 287212,
       "word": "劣质小太阳厂家花几百元伪造质检报告",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1729505119,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121732,
-      "num": 286531,
-      "word": "卧底催收公司30天",
-      "onboard_time": 1729510879,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121451,
@@ -2379,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108163,
+      "num": 108163,
+      "word": "TES锁定突围赛",
+      "onboard_time": 1729518079,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107751,
       "num": 107751,
       "word": "男子开车将大量海绵倾倒河中",
@@ -2563,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86485,
+      "num": 388114,
+      "word": "被天猫双11的开幕烟花燃到了",
+      "onboard_time": 1729515619,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 85673,
       "num": 472604,
       "word": "65岁老人手机有上百个短剧小程序",
@@ -2659,20 +2683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60860,
-      "num": 336416,
-      "word": "被天猫双11的开幕烟花燃到了",
-      "onboard_time": 1729515619,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 60690,
       "num": 93191,
       "word": "这个哨所外每立方米蚊虫达1700多只",
       "onboard_time": 1729463654,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58883,
+      "num": 387642,
+      "word": "天猫双11美妆买一赠一真5折",
+      "onboard_time": 1729514059,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 57050,
@@ -2689,14 +2713,6 @@
       "onboard_time": 1729483219,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55732,
-      "num": 340106,
-      "word": "天猫双11美妆买一赠一真5折",
-      "onboard_time": 1729514059,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 54431,
@@ -2820,11 +2836,19 @@
     },
     {
       "raw_hot": 37927,
-      "num": 335470,
+      "num": 394934,
       "word": "霸王茶姬上桌了",
       "onboard_time": 1729516160,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37667,
+      "num": 358512,
+      "word": "如何从婚姻本质解决高额彩礼问题",
+      "onboard_time": 1729517779,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37209,
