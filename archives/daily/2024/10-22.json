@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729545670925,
+  "endTime": 1729546578915,
   "band_list": [
     {
       "raw_hot": 1034461,
@@ -491,19 +491,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32269,
+      "num": 32269,
+      "word": "亲属回应情侣夜爬秦岭失温遇难",
+      "onboard_time": 1729504098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28815,
       "num": 28815,
       "word": "未来三天新一股冷空气来袭",
       "onboard_time": 1729535171,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25060,
-      "num": 25060,
-      "word": "亲属回应情侣夜爬秦岭失温遇难",
-      "onboard_time": 1729504098,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -547,15 +547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14555,
-      "num": 31304,
-      "word": "金砖合作大有可为",
-      "onboard_time": 1729540750,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13706,
+      "raw_hot": 14688,
       "num": 41285,
       "word": "一图了解金砖扩员后首次峰会",
       "onboard_time": 1729542432,
@@ -563,8 +555,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13048,
-      "num": 22636,
+      "raw_hot": 14615,
+      "num": 31304,
+      "word": "金砖合作大有可为",
+      "onboard_time": 1729540750,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14140,
+      "num": 14140,
+      "word": "楼上扔烟头导致楼下居民家起火",
+      "onboard_time": 1729544771,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13194,
+      "num": 24576,
       "word": "长征路上平均每300米就有1名红军牺牲",
       "onboard_time": 1729543151,
       "rank": 29,
@@ -576,6 +584,14 @@
       "word": "民警驾车逼停失控车辆",
       "onboard_time": 1729534512,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11479,
+      "num": 35749,
+      "word": "高原实弹演练震撼瞬间",
+      "onboard_time": 1729544831,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
