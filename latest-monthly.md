@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 10:57:50
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 11:07:14
 </p>
 </blockquote>
 <p>
@@ -3411,6 +3411,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91%23" target="weibo">
+男子高空抛物致死案被核准死刑（热度：1007411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%88%B6%E4%BA%B2%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E4%BA%86%E5%8D%81%E5%A4%9A%E4%B8%87%23" target="weibo">
 儿子用父亲的旧手机消费了十多万（热度：1001896）
 </a>
@@ -6005,12 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BD%A6%E9%98%9F%E5%86%A0%E5%86%9B%23" target="weibo">
 王一博车队冠军（热度：696608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%84%91%E6%BA%A2%E8%A1%80%E6%98%8F%E8%BF%B78%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96%23" target="weibo">
-百万粉丝网红脑溢血昏迷8天后离世（热度：695978）
 </a>
 </li>
 

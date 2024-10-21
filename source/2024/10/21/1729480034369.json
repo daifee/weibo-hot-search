@@ -1,0 +1,410 @@
+{
+  "runTime": 1729480034369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246893,
+        "num": 1246893,
+        "word": "一盆臭肉为何熏倒多名官员",
+        "onboard_time": 1729471340,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007411,
+        "num": 1007411,
+        "word": "男子高空抛物致死案被核准死刑",
+        "onboard_time": 1729477338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19260,
+        "num": 754883,
+        "word": "何以中国五星出东方",
+        "onboard_time": 1729323379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727471,
+        "num": 727471,
+        "word": "何炅 三十年真心换真心",
+        "onboard_time": 1729428681,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494551,
+        "num": 494551,
+        "word": "韩国三星电子决定退出LED业务",
+        "onboard_time": 1729476379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398701,
+        "num": 398701,
+        "word": "听泉鉴宝下播",
+        "onboard_time": 1729436963,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 390272,
+        "num": 390272,
+        "word": "赵丽颖获金鹰视后发文",
+        "onboard_time": 1729471281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347964,
+        "num": 347964,
+        "word": "30岁汪顺和17岁小将的填空题撞答案了",
+        "onboard_time": 1729468097,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340144,
+        "num": 340144,
+        "word": "加沙人街头遭轰炸有人施救又被炸",
+        "onboard_time": 1729473078,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 272646,
+        "num": 272646,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1729467258,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1364140,
+        "num": 271898,
+        "word": "旺旺三公子何猷君奚梦瑶同逛迪士尼",
+        "onboard_time": 1729476678,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870732,
+        "num": 270812,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 469996,
+        "num": 269488,
+        "word": "第一批房价下跌的夫妻已经离婚了",
+        "onboard_time": 1729467437,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395438,
+        "num": 268190,
+        "word": "谢娜祝贺何炅赵丽颖拿奖",
+        "onboard_time": 1729437983,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314928,
+        "num": 267078,
+        "word": "Chovy喊话T1",
+        "onboard_time": 1729477099,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305258,
+        "num": 266239,
+        "word": "李沁收到范闲送的鸡腿",
+        "onboard_time": 1729431987,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265856,
+        "num": 265856,
+        "word": "妈妈说朝鲜太冷了让我带您回家",
+        "onboard_time": 1729431805,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15462,
+        "num": 264805,
+        "word": "单依纯直播",
+        "onboard_time": 1729479798,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12586,
+        "num": 263636,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37209,
+        "num": 262424,
+        "word": "律师谈男子占车位被堵猛踹业主车门",
+        "onboard_time": 1729479918,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220400,
+        "num": 260014,
+        "word": "A股四大利好来袭",
+        "onboard_time": 1729477338,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199594,
+        "num": 259275,
+        "word": "成都一小区承重柱不达标被拆",
+        "onboard_time": 1729474639,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314959,
+        "num": 256762,
+        "word": "狗 真过来了你又不高兴",
+        "onboard_time": 1729473380,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 256240,
+        "word": "国产葡萄换上洋外衣价格相差10倍",
+        "onboard_time": 1729474579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254658,
+        "num": 254658,
+        "word": "北方多地气温已是冬日模式",
+        "onboard_time": 1729476438,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231388,
+        "num": 231388,
+        "word": "听泉赏宝回应直播连线争议",
+        "onboard_time": 1729473078,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202432,
+        "num": 202432,
+        "word": "刺痛 敖子逸是被耽误的电竞选手",
+        "onboard_time": 1729478958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182156,
+        "num": 182156,
+        "word": "高叶获奖后发文",
+        "onboard_time": 1729473260,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163126,
+        "num": 163126,
+        "word": "李沐宸 恶女小白花",
+        "onboard_time": 1729477818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152343,
+        "num": 152343,
+        "word": "付航 笑着笑着就哭了",
+        "onboard_time": 1729478118,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203259,
+        "num": 150530,
+        "word": "男孩花费近60万人工耳蜗宿舍内丢失",
+        "onboard_time": 1729430481,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197605,
+        "num": 150340,
+        "word": "巴勒斯坦女艺术家全家遭空袭丧生",
+        "onboard_time": 1729477338,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147647,
+        "num": 147647,
+        "word": "试婚纱让男朋友全程摆臭脸",
+        "onboard_time": 1729467798,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 140762,
+        "num": 140762,
+        "word": "李知勋发长文",
+        "onboard_time": 1729472719,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131858,
+        "num": 131858,
+        "word": "台湾海峡中部发生3.5级地震",
+        "onboard_time": 1729477158,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131271,
+        "num": 131271,
+        "word": "范伟金鹰视帝",
+        "onboard_time": 1729432644,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129850,
+        "num": 129850,
+        "word": "陕西一下子冷起来了",
+        "onboard_time": 1729469059,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123951,
+        "num": 123951,
+        "word": "上海3岁男童被虐",
+        "onboard_time": 1729478238,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118133,
+        "num": 118133,
+        "word": "100万元房贷30年减少5.1万元",
+        "onboard_time": 1729473798,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116471,
+        "num": 116471,
+        "word": "警方通报男子站在车上张开双臂骑行",
+        "onboard_time": 1729475959,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114332,
+        "num": 114332,
+        "word": "虹桥机场廊桥内一乘客行李起火",
+        "onboard_time": 1729437983,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106666,
+        "num": 106666,
+        "word": "以军一次轰炸后妇女儿童不停尖叫",
+        "onboard_time": 1729477938,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106137,
+        "num": 106137,
+        "word": "bwipo哭了",
+        "onboard_time": 1729475299,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106079,
+        "num": 106079,
+        "word": "张新成最开心给何老师颁奖",
+        "onboard_time": 1729472120,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104589,
+        "num": 104589,
+        "word": "姜妍回应金鹰奖提名",
+        "onboard_time": 1729472780,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103737,
+        "num": 103737,
+        "word": "海南琼海市委书记田志强被带走",
+        "onboard_time": 1729472120,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100454,
+        "num": 100454,
+        "word": "金饰价格持续大涨金店却现闭店潮",
+        "onboard_time": 1729472418,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99162,
+        "num": 99162,
+        "word": "情敌一叫七姑娘罗慎远慌了",
+        "onboard_time": 1729473739,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87269,
+        "num": 87269,
+        "word": "S14决赛将是LPL对战LCK",
+        "onboard_time": 1729470680,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85877,
+        "num": 85877,
+        "word": "上证指数涨0.44%",
+        "onboard_time": 1729479319,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对国家级经济技术开发区工作作出重要指示#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729479470478,
+  "endTime": 1729480034369,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -49,6 +49,14 @@
       "onboard_time": 1729437983,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1007411,
+      "num": 1007411,
+      "word": "男子高空抛物致死案被核准死刑",
+      "onboard_time": 1729477338,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1001460,
@@ -187,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440953,
-      "num": 440953,
-      "word": "男子高空抛物致死案被核准死刑",
-      "onboard_time": 1729477338,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440181,
       "num": 440181,
       "word": "LPR",
@@ -217,6 +217,14 @@
       "onboard_time": 1729423342,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390272,
+      "num": 390272,
+      "word": "赵丽颖获金鹰视后发文",
+      "onboard_time": 1729471281,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 390223,
@@ -395,19 +403,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254658,
+      "num": 254658,
+      "word": "北方多地气温已是冬日模式",
+      "onboard_time": 1729476438,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236148,
       "num": 236148,
       "word": "北京真的下雪了",
       "onboard_time": 1729418540,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232597,
-      "num": 232597,
-      "word": "北方多地气温已是冬日模式",
-      "onboard_time": 1729476438,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -435,7 +443,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 218790,
+      "raw_hot": 220400,
       "num": 388566,
       "word": "A股四大利好来袭",
       "onboard_time": 1729477338,
@@ -489,6 +497,14 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202432,
+      "num": 202432,
+      "word": "刺痛 敖子逸是被耽误的电竞选手",
+      "onboard_time": 1729478958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 196528,
@@ -545,14 +561,6 @@
       "onboard_time": 1729430423,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183788,
-      "num": 183788,
-      "word": "刺痛 敖子逸是被耽误的电竞选手",
-      "onboard_time": 1729478958,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 182135,
@@ -627,19 +635,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158219,
+      "num": 256240,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151958,
       "num": 151958,
       "word": "陕西一下子冷起来了",
       "onboard_time": 1729469059,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141976,
-      "num": 141976,
-      "word": "国产葡萄换上洋外衣价格相差10倍",
-      "onboard_time": 1729474579,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131858,
+      "num": 131858,
+      "word": "台湾海峡中部发生3.5级地震",
+      "onboard_time": 1729477158,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129201,
       "num": 227323,
       "word": "想贷款开店被骗反背一身债",
@@ -673,6 +689,14 @@
       "onboard_time": 1729409419,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123951,
+      "num": 123951,
+      "word": "上海3岁男童被虐",
+      "onboard_time": 1729478238,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123878,
@@ -731,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116471,
+      "num": 116471,
+      "word": "警方通报男子站在车上张开双臂骑行",
+      "onboard_time": 1729475959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112885,
       "num": 112885,
       "word": "马龙说现在运动员承受舆论压力更大",
@@ -779,22 +811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109603,
-      "num": 109603,
-      "word": "警方通报男子站在车上张开双臂骑行",
-      "onboard_time": 1729475959,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108758,
-      "num": 108758,
-      "word": "上海3岁男童被虐",
-      "onboard_time": 1729478238,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107751,
       "num": 107751,
       "word": "男子开车将大量海绵倾倒河中",
@@ -809,6 +825,14 @@
       "onboard_time": 1729412779,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106666,
+      "num": 106666,
+      "word": "以军一次轰炸后妇女儿童不停尖叫",
+      "onboard_time": 1729477938,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 100949,
@@ -1003,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37209,
+      "num": 262424,
+      "word": "律师谈男子占车位被堵猛踹业主车门",
+      "onboard_time": 1729479918,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33122,
       "num": 277090,
       "word": "大型纪录片为了新中国",
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 19877,
-      "num": 738637,
+      "num": 754883,
       "word": "何以中国五星出东方",
       "onboard_time": 1729323379,
       "rank": 2,
@@ -1099,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15462,
+      "num": 264805,
+      "word": "单依纯直播",
+      "onboard_time": 1729479798,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14118,
       "num": 33266,
       "word": "酒泉卫星发射中心66岁了",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12586,
+      "num": 263636,
+      "word": "黄圣依 纯元活着的版本",
+      "onboard_time": 1729479918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 12314,

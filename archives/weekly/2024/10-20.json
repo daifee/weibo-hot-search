@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729479470478,
+  "endTime": 1729480034369,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -281,6 +281,14 @@
       "onboard_time": 1729430722,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1007411,
+      "num": 1007411,
+      "word": "男子高空抛物致死案被核准死刑",
+      "onboard_time": 1729477338,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1001460,
@@ -915,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440953,
-      "num": 440953,
-      "word": "男子高空抛物致死案被核准死刑",
-      "onboard_time": 1729477338,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440181,
       "num": 440181,
       "word": "LPR",
@@ -1025,6 +1025,14 @@
       "onboard_time": 1729370291,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390272,
+      "num": 390272,
+      "word": "赵丽颖获金鹰视后发文",
+      "onboard_time": 1729471281,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 390223,
@@ -1531,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254658,
+      "num": 254658,
+      "word": "北方多地气温已是冬日模式",
+      "onboard_time": 1729476438,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254024,
       "num": 254024,
       "word": "付航底色不是悲凉是passion",
@@ -1651,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232597,
-      "num": 232597,
-      "word": "北方多地气温已是冬日模式",
-      "onboard_time": 1729476438,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231895,
       "num": 231895,
       "word": "战至巅峰直播",
@@ -1747,20 +1755,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220400,
+      "num": 388566,
+      "word": "A股四大利好来袭",
+      "onboard_time": 1729477338,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 219780,
       "num": 219780,
       "word": "飞天奖",
       "onboard_time": 1729435403,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218790,
-      "num": 388566,
-      "word": "A股四大利好来袭",
-      "onboard_time": 1729477338,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 215242,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202432,
+      "num": 202432,
+      "word": "刺痛 敖子逸是被耽误的电竞选手",
+      "onboard_time": 1729478958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 202029,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1729437681,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183788,
-      "num": 183788,
-      "word": "刺痛 敖子逸是被耽误的电竞选手",
-      "onboard_time": 1729478958,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 183503,
@@ -2515,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158219,
+      "num": 256240,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158165,
       "num": 297668,
       "word": "杨天真喜剧之王单口季repo",
@@ -2675,14 +2691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141976,
-      "num": 141976,
-      "word": "国产葡萄换上洋外衣价格相差10倍",
-      "onboard_time": 1729474579,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141876,
       "num": 410970,
       "word": "被2000年前的化妆盒种草了",
@@ -2835,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131858,
+      "num": 131858,
+      "word": "台湾海峡中部发生3.5级地震",
+      "onboard_time": 1729477158,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130941,
       "num": 130941,
       "word": "付航现场公布已婚",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1729399578,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123951,
+      "num": 123951,
+      "word": "上海3岁男童被虐",
+      "onboard_time": 1729478238,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123878,
@@ -3051,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116471,
+      "num": 116471,
+      "word": "警方通报男子站在车上张开双臂骑行",
+      "onboard_time": 1729475959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114714,
       "num": 114714,
       "word": "哀牢山的红外相机拍到了什么",
@@ -3107,14 +3139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109603,
-      "num": 109603,
-      "word": "警方通报男子站在车上张开双臂骑行",
-      "onboard_time": 1729475959,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109050,
       "num": 129731,
       "word": "侯明昊丁程鑫跳舞直拍",
@@ -3129,14 +3153,6 @@
       "onboard_time": 1729423101,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108758,
-      "num": 108758,
-      "word": "上海3岁男童被虐",
-      "onboard_time": 1729478238,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107895,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1729386557,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 106666,
+      "num": 106666,
+      "word": "以军一次轰炸后妇女儿童不停尖叫",
+      "onboard_time": 1729477938,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 102121,
@@ -3731,6 +3755,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37209,
+      "num": 262424,
+      "word": "律师谈男子占车位被堵猛踹业主车门",
+      "onboard_time": 1729479918,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36732,
       "num": 405344,
       "word": "谷子如何成为塑料黄金的",
@@ -4043,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15462,
+      "num": 264805,
+      "word": "单依纯直播",
+      "onboard_time": 1729479798,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14118,
       "num": 33266,
       "word": "酒泉卫星发射中心66岁了",
@@ -4081,6 +4121,14 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12586,
+      "num": 263636,
+      "word": "黄圣依 纯元活着的版本",
+      "onboard_time": 1729479918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 12314,
