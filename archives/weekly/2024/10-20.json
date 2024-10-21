@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729500195486,
+  "endTime": 1729502717309,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -131,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1526774,
+      "num": 1526774,
+      "word": "付航脱口秀 内涵",
+      "onboard_time": 1729498459,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1519733,
+      "num": 1519733,
+      "word": "aespa回归",
+      "onboard_time": 1729501279,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1510671,
       "num": 473495,
       "word": "没有金鹰女神",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1361020,
+      "num": 579264,
+      "word": "情侣夜爬秦岭冰晶顶看云海遇难",
+      "onboard_time": 1729496718,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1358562,
       "num": 1358562,
       "word": "家属称听到判决结果眼泪止不住",
@@ -249,14 +273,6 @@
       "onboard_time": 1729425260,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1221929,
-      "num": 536425,
-      "word": "情侣夜爬秦岭冰晶顶看云海遇难",
-      "onboard_time": 1729496718,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1219719,
@@ -371,14 +387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1035539,
-      "num": 1035539,
-      "word": "付航脱口秀 内涵",
-      "onboard_time": 1729498459,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1026756,
       "num": 1026756,
       "word": "覃海洋获8000美元奖金",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 919296,
-      "num": 533082,
+      "num": 893873,
       "word": "iPhone16官方罕见降价1600元",
       "onboard_time": 1729498337,
       "rank": 16,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 882415,
-      "num": 534017,
+      "num": 575096,
       "word": "黄圣依脖子纹身",
       "onboard_time": 1729498217,
       "rank": 10,
@@ -609,6 +617,14 @@
       "onboard_time": 1729349543,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 756454,
+      "num": 601395,
+      "word": "ILLIT aespa",
+      "onboard_time": 1729498878,
+      "rank": 24,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 743154,
@@ -803,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613244,
+      "num": 348999,
+      "word": "韦雪直播三场赚了1个亿",
+      "onboard_time": 1729500318,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 609145,
       "num": 461354,
       "word": "黄圣依杨子 爱是真的不爱也是真的",
       "onboard_time": 1729405519,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607140,
+      "num": 607140,
+      "word": "多架飞往福州的航班中途备降",
+      "onboard_time": 1729499238,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596215,
@@ -1027,14 +1059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 525144,
-      "num": 525144,
-      "word": "ILLIT aespa",
-      "onboard_time": 1729498878,
-      "rank": 24,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 516535,
       "num": 341004,
       "word": "邪恶菠萝蜜",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1729384635,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471336,
+      "num": 243183,
+      "word": "whiplash 吒味十足",
+      "onboard_time": 1729502659,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 470688,
@@ -1531,6 +1563,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 341298,
+      "num": 341298,
+      "word": "冷冷冷冷北方冷冷冷冷",
+      "onboard_time": 1729498279,
+      "rank": 34,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 339981,
       "num": 227321,
       "word": "风吹半夏",
@@ -1595,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323914,
-      "num": 323914,
-      "word": "多架飞往福州的航班中途备降",
-      "onboard_time": 1729499238,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320546,
       "num": 320546,
       "word": "女子回应儿子疑遭前夫女友虐待致死",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1729407800,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306668,
+      "num": 306668,
+      "word": "恋与深空偷跑",
+      "onboard_time": 1729500979,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 304786,
@@ -1843,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275123,
-      "num": 275123,
-      "word": "冷冷冷冷北方冷冷冷冷",
-      "onboard_time": 1729498279,
-      "rank": 34,
-      "category": "社会新闻,社会新闻"
-    },
-    {
       "raw_hot": 274414,
       "num": 274414,
       "word": "无锡江阴警方通报贩婴事件",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1729493959,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262376,
+      "num": 262376,
+      "word": "锦绣安宁 先婚后爱",
+      "onboard_time": 1729501878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 261100,
@@ -2099,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233411,
+      "num": 542497,
+      "word": "飞福州机场航班备降系空中管制",
+      "onboard_time": 1729499659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233184,
       "num": 233184,
       "word": "杨鸣暴怒",
@@ -2219,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222823,
+      "num": 256688,
+      "word": "whiplash",
+      "onboard_time": 1729501997,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221151,
       "num": 221151,
       "word": "法考主观题",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1729435403,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217602,
+      "num": 252678,
+      "word": "要求缅甸严惩袭击我总领馆肇事者",
+      "onboard_time": 1729500979,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 217284,
@@ -2364,7 +2428,7 @@
     },
     {
       "raw_hot": 211519,
-      "num": 211519,
+      "num": 485289,
       "word": "深圳水贝有人拖行李箱来买黄金",
       "onboard_time": 1729494438,
       "rank": 32,
@@ -2427,11 +2491,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208984,
-      "num": 542497,
-      "word": "飞福州机场航班备降系空中管制",
-      "onboard_time": 1729499659,
-      "rank": 9,
+      "raw_hot": 207397,
+      "num": 550365,
+      "word": "广东一高校1477名新生拟放弃入学",
+      "onboard_time": 1729499179,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2440,6 +2504,14 @@
       "word": "男子吃饭遇陌生男子拍其饭菜",
       "onboard_time": 1729381154,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206784,
+      "num": 357822,
+      "word": "男子调戏女生男友上前制止被打",
+      "onboard_time": 1729501337,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2659,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191452,
+      "num": 249080,
+      "word": "广东夫妇回应卖假货",
+      "onboard_time": 1729501458,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191050,
       "num": 191050,
       "word": "李耕耘 躺着怎么减肥",
@@ -2811,11 +2891,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183388,
+      "num": 183388,
+      "word": "中国首部电竞纪录片电影",
+      "onboard_time": 1729502118,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183366,
       "num": 183366,
       "word": "32人用电子烟吸毒被抓",
       "onboard_time": 1729399818,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182227,
+      "num": 182227,
+      "word": "东北小伙花千元把老家爆改成三亚",
+      "onboard_time": 1729502118,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3067,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163986,
+      "num": 163986,
+      "word": "周深宋雨琦回归奔跑吧录制",
+      "onboard_time": 1729502419,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163929,
       "num": 416009,
       "word": "李现 演员应该是橡皮泥",
@@ -3081,6 +3185,14 @@
       "onboard_time": 1729387458,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162947,
+      "num": 162947,
+      "word": "闵塔鲨晒赵丽颖视后时刻",
+      "onboard_time": 1729501458,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 162012,
@@ -3193,6 +3305,22 @@
       "onboard_time": 1729333160,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153731,
+      "num": 153731,
+      "word": "北交所暴涨5大原因找到了",
+      "onboard_time": 1729501698,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 153563,
+      "num": 153563,
+      "word": "张艺兴国家话剧院排练vlog",
+      "onboard_time": 1729501938,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 152392,
@@ -3377,6 +3505,14 @@
       "onboard_time": 1729355298,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141270,
+      "num": 141270,
+      "word": "北交所牛市",
+      "onboard_time": 1729502478,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 141113,
@@ -4427,19 +4563,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 70950,
+      "num": 589888,
+      "word": "涨薪20%依然难招新能源车维修人",
+      "onboard_time": 1729501698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70845,
       "num": 70845,
       "word": "106岁奶奶从青丝到白发的等待",
       "onboard_time": 1729375872,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70645,
-      "num": 550365,
-      "word": "广东一高校1477名新生拟放弃入学",
-      "onboard_time": 1729499179,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4571,6 +4707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50739,
+      "num": 1521631,
+      "word": "发现不一样的新疆",
+      "onboard_time": 1729499778,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50709,
       "num": 50709,
       "word": "TES对战T1",
@@ -4593,6 +4737,14 @@
       "onboard_time": 1729360754,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50362,
+      "num": 474518,
+      "word": "易烊千玺天猫双11开幕盛典",
+      "onboard_time": 1729501218,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 48467,
@@ -5019,6 +5171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22249,
+      "num": 200272,
+      "word": "闫妮说天猫双11美低狠",
+      "onboard_time": 1729500439,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21473,
       "num": 123307,
       "word": "来厦门再过一次夏天",
@@ -5185,14 +5345,6 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12670,
-      "num": 1064641,
-      "word": "发现不一样的新疆",
-      "onboard_time": 1729499778,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12314,
