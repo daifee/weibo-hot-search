@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729496268888,
+  "endTime": 1729499370739,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -41,6 +41,14 @@
       "onboard_time": 1729387278,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2363281,
+      "num": 2363281,
+      "word": "中国驻缅甸曼德勒总领馆遭爆炸袭击",
+      "onboard_time": 1729497738,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2344269,
@@ -275,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1141410,
+      "num": 1141410,
+      "word": "福州机场",
+      "onboard_time": 1729497018,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132770,
       "num": 521078,
       "word": "芒果艺人做近视眼手术后复发",
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 882415,
+      "num": 534017,
+      "word": "黄圣依脖子纹身",
+      "onboard_time": 1729498217,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882348,
       "num": 513785,
       "word": "刘琳什么时候拿奖",
@@ -451,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 868427,
+      "num": 868427,
+      "word": "擅自离岗16年国企员工有机会返岗",
+      "onboard_time": 1729495578,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 863463,
       "num": 1138154,
       "word": "金鹰奖",
@@ -464,6 +496,14 @@
       "word": "调查将全面分析不想生不敢生原因",
       "onboard_time": 1729385837,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841637,
+      "num": 521476,
+      "word": "情侣夜爬秦岭冰晶顶看云海遇难",
+      "onboard_time": 1729496718,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -569,6 +609,14 @@
       "onboard_time": 1729488318,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727562,
+      "num": 727562,
+      "word": "宁静谈女演员评奖镜头是流眼泪",
+      "onboard_time": 1729496598,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 713445,
@@ -683,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637720,
+      "num": 509649,
+      "word": "旺旺三公子 我叫蔡旺庭",
+      "onboard_time": 1729493537,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627953,
       "num": 627953,
       "word": "张瑞告别国乒",
@@ -763,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580893,
+      "num": 476454,
+      "word": "iPhone16官方罕见降价1600元",
+      "onboard_time": 1729498337,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 579737,
       "num": 407470,
       "word": "曝赵丽颖入围金鸡奖",
       "onboard_time": 1729434324,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 578994,
+      "num": 578994,
+      "word": "王多多回应Ning",
+      "onboard_time": 1729495937,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 573058,
@@ -785,6 +857,14 @@
       "onboard_time": 1729418600,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561485,
+      "num": 561485,
+      "word": "勒布伦摔拍单打成绩被取消",
+      "onboard_time": 1729495458,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 559484,
@@ -1131,6 +1211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 425195,
+      "num": 425195,
+      "word": "外交部回应中国驻曼德勒总领馆遭袭",
+      "onboard_time": 1729498819,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 420625,
       "num": 291667,
       "word": "985毕业男子捡垃圾8年实现财务自由",
@@ -1195,6 +1283,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 404403,
+      "num": 467508,
+      "word": "付航脱口秀 内涵",
+      "onboard_time": 1729498459,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399041,
       "num": 399041,
       "word": "长丰学校食品安全问题调查情况通报",
@@ -1209,14 +1305,6 @@
       "onboard_time": 1729396939,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397345,
-      "num": 397345,
-      "word": "旺旺三公子 我叫蔡旺庭",
-      "onboard_time": 1729493537,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 393681,
@@ -1531,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313334,
-      "num": 313334,
-      "word": "勒布伦摔拍单打成绩被取消",
-      "onboard_time": 1729495458,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313074,
       "num": 409611,
       "word": "鲜肉9小时没冷藏变臭肉",
@@ -1561,6 +1641,14 @@
       "onboard_time": 1729407800,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304786,
+      "num": 304786,
+      "word": "洞洞鞋内胆",
+      "onboard_time": 1729497559,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 302085,
@@ -1601,6 +1689,14 @@
       "onboard_time": 1729389201,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295998,
+      "num": 295998,
+      "word": "本轮牛市第一个10倍股出现了",
+      "onboard_time": 1729496298,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 295855,
@@ -1779,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261170,
+      "num": 403381,
+      "word": "ILLIT aespa",
+      "onboard_time": 1729498878,
+      "rank": 24,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 261100,
       "num": 261100,
       "word": "权志龙染了红发",
@@ -1820,7 +1924,7 @@
     },
     {
       "raw_hot": 255954,
-      "num": 255954,
+      "num": 296561,
       "word": "赵小童代表十个勤天参加戛纳",
       "onboard_time": 1729494498,
       "rank": 28,
@@ -1880,14 +1984,6 @@
       "word": "男子开车将大量海绵倾倒河中",
       "onboard_time": 1729433605,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247852,
-      "num": 295409,
-      "word": "擅自离岗16年国企员工有机会返岗",
-      "onboard_time": 1729495578,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1952,6 +2048,14 @@
       "word": "闪耀暖暖联动米山舞",
       "onboard_time": 1729483159,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 237228,
+      "num": 237228,
+      "word": "王昭君新皮肤",
+      "onboard_time": 1729495998,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -2075,20 +2179,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 224372,
+      "num": 224372,
+      "word": "冷冷冷冷北方冷冷冷冷",
+      "onboard_time": 1729498279,
+      "rank": 34,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 224343,
       "num": 282871,
       "word": "心动的信号7群像好美好",
       "onboard_time": 1729486460,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224198,
-      "num": 224198,
-      "word": "王多多回应Ning",
-      "onboard_time": 1729495937,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 223344,
@@ -2345,6 +2449,14 @@
       "onboard_time": 1729489279,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202058,
+      "num": 202058,
+      "word": "哈马斯发布以军一上校被炸死画面",
+      "onboard_time": 1729497860,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 202029,
@@ -2811,14 +2923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170494,
-      "num": 170494,
-      "word": "王昭君新皮肤",
-      "onboard_time": 1729495998,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169900,
       "num": 386574,
       "word": "30岁的人60岁的骨头",
@@ -2899,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167475,
+      "num": 296073,
+      "word": "林依晨 爱情里不能当好人",
+      "onboard_time": 1729497497,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167473,
       "num": 224573,
       "word": "博主造谣六姐妹10万彩礼仍未道歉",
@@ -2961,6 +3073,14 @@
       "onboard_time": 1729392858,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161111,
+      "num": 389242,
+      "word": "辛巴称有大主播卖学习机赚1000差价",
+      "onboard_time": 1729495279,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 160956,
@@ -3027,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155466,
+      "num": 155466,
+      "word": "多架飞往福州的航班中途备降",
+      "onboard_time": 1729499238,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154493,
       "num": 154493,
       "word": "张杰我的眼泪是不要钱吗",
@@ -3057,6 +3185,14 @@
       "onboard_time": 1729406179,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152170,
+      "num": 152170,
+      "word": "王弘毅演尾鱼新剧男主",
+      "onboard_time": 1729499059,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 151958,
@@ -3163,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145647,
+      "num": 145647,
+      "word": "五月天的歌是产房最佳BGM",
+      "onboard_time": 1729499238,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145510,
       "num": 164896,
       "word": "谁能看出雅42岁啊",
@@ -3233,6 +3377,14 @@
       "onboard_time": 1729483399,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139982,
+      "num": 139982,
+      "word": "Deft希望Chovy夺冠",
+      "onboard_time": 1729498337,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 139665,
@@ -3497,14 +3649,6 @@
       "onboard_time": 1729395439,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127208,
-      "num": 389242,
-      "word": "辛巴称有大主播卖学习机赚1000差价",
-      "onboard_time": 1729495279,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 127206,
@@ -4027,6 +4171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 94437,
+      "num": 159876,
+      "word": "曾黎躺在一口井上拍封面",
+      "onboard_time": 1729498096,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93768,
       "num": 147747,
       "word": "外卖员抱孩子送餐视频系摆拍",
@@ -4289,6 +4441,14 @@
       "onboard_time": 1729375692,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61834,
+      "num": 543534,
+      "word": "云南新规不得询问女求职者婚育",
+      "onboard_time": 1729497798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61366,
@@ -4851,6 +5011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18692,
+      "num": 505090,
+      "word": "擅自离岗十六年限期返回之后呢",
+      "onboard_time": 1729498158,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17909,
       "num": 140236,
       "word": "深圳一楼盘超10倍认筹刷新3年记录",
@@ -4923,6 +5091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14066,
+      "num": 935904,
+      "word": "秋日限定壁纸上新",
+      "onboard_time": 1729499059,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13914,
       "num": 15311,
       "word": "吴谨言发春花焰库存",
@@ -4955,6 +5131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12862,
+      "num": 495786,
+      "word": "全民疼痛疾病攻略",
+      "onboard_time": 1729498459,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12314,
       "num": 160539,
       "word": "国家级经开区40周年座谈会",
@@ -4976,6 +5160,14 @@
       "word": "他们曾浴血奋战的土地如今鲜花盛开",
       "onboard_time": 1729366391,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10486,
+      "num": 545166,
+      "word": "广东一高校1477名新生拟放弃入学",
+      "onboard_time": 1729499179,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5046,6 +5238,9 @@
     },
     {
       "word": "#习近平讲述金砖合作之道#"
+    },
+    {
+      "word": "#农民会有更加火热的生活#"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729496268888,
+  "endTime": 1729499370739,
   "band_list": [
+    {
+      "raw_hot": 2363281,
+      "num": 2363281,
+      "word": "中国驻缅甸曼德勒总领馆遭爆炸袭击",
+      "onboard_time": 1729497738,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2344269,
       "num": 2344269,
@@ -83,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1141410,
+      "num": 1141410,
+      "word": "福州机场",
+      "onboard_time": 1729497018,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127384,
       "num": 505462,
       "word": "辛巴怒怼叶珂",
@@ -147,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 882415,
+      "num": 534017,
+      "word": "黄圣依脖子纹身",
+      "onboard_time": 1729498217,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880856,
       "num": 829310,
       "word": "何炅 三十年真心换真心",
@@ -163,12 +187,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 868427,
+      "num": 868427,
+      "word": "擅自离岗16年国企员工有机会返岗",
+      "onboard_time": 1729495578,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841637,
+      "num": 521476,
+      "word": "情侣夜爬秦岭冰晶顶看云海遇难",
+      "onboard_time": 1729496718,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738764,
       "num": 738764,
       "word": "食骨奉母男孩不用再食剩骨",
       "onboard_time": 1729488318,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727562,
+      "num": 727562,
+      "word": "宁静谈女演员评奖镜头是流眼泪",
+      "onboard_time": 1729496598,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 708439,
@@ -219,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637720,
+      "num": 509649,
+      "word": "旺旺三公子 我叫蔡旺庭",
+      "onboard_time": 1729493537,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627953,
       "num": 627953,
       "word": "张瑞告别国乒",
@@ -259,12 +315,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580893,
+      "num": 476454,
+      "word": "iPhone16官方罕见降价1600元",
+      "onboard_time": 1729498337,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 578994,
+      "num": 578994,
+      "word": "王多多回应Ning",
+      "onboard_time": 1729495937,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 573058,
       "num": 573058,
       "word": "听泉赏宝回应直播连线争议",
       "onboard_time": 1729473078,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561485,
+      "num": 561485,
+      "word": "勒布伦摔拍单打成绩被取消",
+      "onboard_time": 1729495458,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 552301,
@@ -395,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 425195,
+      "num": 425195,
+      "word": "外交部回应中国驻曼德勒总领馆遭袭",
+      "onboard_time": 1729498819,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 419467,
       "num": 305386,
       "word": "芒果艺人做近视眼手术后复发",
@@ -411,12 +499,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 397345,
-      "num": 397345,
-      "word": "旺旺三公子 我叫蔡旺庭",
-      "onboard_time": 1729493537,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 404403,
+      "num": 467508,
+      "word": "付航脱口秀 内涵",
+      "onboard_time": 1729498459,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 390223,
@@ -539,14 +627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 313334,
-      "num": 313334,
-      "word": "勒布伦摔拍单打成绩被取消",
-      "onboard_time": 1729495458,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309095,
       "num": 390110,
       "word": "成都一小区承重柱不达标被拆",
@@ -571,6 +651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 304786,
+      "num": 304786,
+      "word": "洞洞鞋内胆",
+      "onboard_time": 1729497559,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302085,
       "num": 302085,
       "word": "梁伟铿王昶vs丹麦组合",
@@ -593,6 +681,14 @@
       "onboard_time": 1729472120,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295998,
+      "num": 295998,
+      "word": "本轮牛市第一个10倍股出现了",
+      "onboard_time": 1729496298,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 294973,
@@ -667,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261170,
+      "num": 403381,
+      "word": "ILLIT aespa",
+      "onboard_time": 1729498878,
+      "rank": 24,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "向前看 别回头",
@@ -684,7 +788,7 @@
     },
     {
       "raw_hot": 255954,
-      "num": 255954,
+      "num": 296561,
       "word": "赵小童代表十个勤天参加戛纳",
       "onboard_time": 1729494498,
       "rank": 28,
@@ -696,14 +800,6 @@
       "word": "北方多地气温已是冬日模式",
       "onboard_time": 1729476438,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247852,
-      "num": 295409,
-      "word": "擅自离岗16年国企员工有机会返岗",
-      "onboard_time": 1729495578,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -728,6 +824,14 @@
       "word": "闪耀暖暖联动米山舞",
       "onboard_time": 1729483159,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 237228,
+      "num": 237228,
+      "word": "王昭君新皮肤",
+      "onboard_time": 1729495998,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -787,20 +891,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 224372,
+      "num": 224372,
+      "word": "冷冷冷冷北方冷冷冷冷",
+      "onboard_time": 1729498279,
+      "rank": 34,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 224343,
       "num": 282871,
       "word": "心动的信号7群像好美好",
       "onboard_time": 1729486460,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224198,
-      "num": 224198,
-      "word": "王多多回应Ning",
-      "onboard_time": 1729495937,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 223344,
@@ -913,6 +1017,14 @@
       "onboard_time": 1729489279,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202058,
+      "num": 202058,
+      "word": "哈马斯发布以军一上校被炸死画面",
+      "onboard_time": 1729497860,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 200201,
@@ -1059,14 +1171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170494,
-      "num": 170494,
-      "word": "王昭君新皮肤",
-      "onboard_time": 1729495998,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169900,
       "num": 386574,
       "word": "30岁的人60岁的骨头",
@@ -1107,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167475,
+      "num": 296073,
+      "word": "林依晨 爱情里不能当好人",
+      "onboard_time": 1729497497,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166026,
       "num": 166026,
       "word": "一加13",
@@ -1131,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161111,
+      "num": 389242,
+      "word": "辛巴称有大主播卖学习机赚1000差价",
+      "onboard_time": 1729495279,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 160066,
       "num": 168048,
       "word": "情敌一叫七姑娘罗慎远慌了",
@@ -1145,6 +1265,22 @@
       "onboard_time": 1729478118,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155466,
+      "num": 155466,
+      "word": "多架飞往福州的航班中途备降",
+      "onboard_time": 1729499238,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152170,
+      "num": 152170,
+      "word": "王弘毅演尾鱼新剧男主",
+      "onboard_time": 1729499059,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 151958,
@@ -1187,6 +1323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145647,
+      "num": 145647,
+      "word": "五月天的歌是产房最佳BGM",
+      "onboard_time": 1729499238,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145510,
       "num": 164896,
       "word": "谁能看出雅42岁啊",
@@ -1201,6 +1345,14 @@
       "onboard_time": 1729483399,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139982,
+      "num": 139982,
+      "word": "Deft希望Chovy夺冠",
+      "onboard_time": 1729498337,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 139665,
@@ -1305,14 +1457,6 @@
       "onboard_time": 1729484599,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 127208,
-      "num": 389242,
-      "word": "辛巴称有大主播卖学习机赚1000差价",
-      "onboard_time": 1729495279,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 127206,
@@ -1635,6 +1779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 94437,
+      "num": 159876,
+      "word": "曾黎躺在一口井上拍封面",
+      "onboard_time": 1729498096,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93768,
       "num": 147747,
       "word": "外卖员抱孩子送餐视频系摆拍",
@@ -1744,6 +1896,14 @@
       "word": "东北囤秋菜给了南方人亿点点震撼",
       "onboard_time": 1729457171,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61834,
+      "num": 543534,
+      "word": "云南新规不得询问女求职者婚育",
+      "onboard_time": 1729497798,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1947,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18692,
+      "num": 505090,
+      "word": "擅自离岗十六年限期返回之后呢",
+      "onboard_time": 1729498158,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17882,
       "num": 29437,
       "word": "农村单身女拒拆迁称嫁给自建房",
@@ -1995,6 +2163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14066,
+      "num": 935904,
+      "word": "秋日限定壁纸上新",
+      "onboard_time": 1729499059,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13803,
       "num": 38524,
       "word": "不断激发创新活力和内生动力",
@@ -2011,11 +2187,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12862,
+      "num": 495786,
+      "word": "全民疼痛疾病攻略",
+      "onboard_time": 1729498459,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12314,
       "num": 160539,
       "word": "国家级经开区40周年座谈会",
       "onboard_time": 1729467198,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10486,
+      "num": 545166,
+      "word": "广东一高校1477名新生拟放弃入学",
+      "onboard_time": 1729499179,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2041,6 +2233,9 @@
     },
     {
       "word": "#习近平讲述金砖合作之道#"
+    },
+    {
+      "word": "#农民会有更加火热的生活#"
     }
   ]
 }
