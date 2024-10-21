@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729509642463,
+  "endTime": 1729510614602,
   "band_list": [
     {
       "raw_hot": 2400219,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1519991,
-      "num": 458268,
+      "num": 1270487,
       "word": "刘丁硕退出国家队",
       "onboard_time": 1729506019,
       "rank": 29,
@@ -155,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1119733,
+      "num": 409299,
+      "word": "广东夫妇疑删除八亿补贴宣传",
+      "onboard_time": 1729507640,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1113642,
       "num": 1178182,
       "word": "潘展乐回应腹肌消失问题",
@@ -201,14 +209,6 @@
       "onboard_time": 1729502778,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 952344,
-      "num": 409299,
-      "word": "广东夫妇疑删除八亿补贴宣传",
-      "onboard_time": 1729507640,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 935449,
@@ -299,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 810721,
-      "num": 810721,
+      "raw_hot": 844579,
+      "num": 844579,
       "word": "雷军开法拉利引热议",
       "onboard_time": 1729506559,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 761799,
+      "num": 456337,
+      "word": "韦雪直播三场赚了1个亿",
+      "onboard_time": 1729500318,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 761686,
@@ -329,6 +337,14 @@
       "onboard_time": 1729504219,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 742790,
+      "num": 689501,
+      "word": "周星驰发文庆祝付航夺冠",
+      "onboard_time": 1729506259,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 738764,
@@ -361,14 +377,6 @@
       "onboard_time": 1729493297,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 689501,
-      "num": 689501,
-      "word": "周星驰发文庆祝付航夺冠",
-      "onboard_time": 1729506259,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 686033,
@@ -433,14 +441,6 @@
       "onboard_time": 1729431987,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 613244,
-      "num": 456337,
-      "word": "韦雪直播三场赚了1个亿",
-      "onboard_time": 1729500318,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 595649,
@@ -587,20 +587,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 466150,
+      "num": 466150,
+      "word": "东北雨姐被禁言",
+      "onboard_time": 1729508479,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 464859,
       "num": 240888,
       "word": "金鹰奖 六缺三",
       "onboard_time": 1729431202,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447597,
-      "num": 447597,
-      "word": "东北雨姐被禁言",
-      "onboard_time": 1729508479,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 443095,
@@ -1243,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209072,
+      "num": 209072,
+      "word": "中领馆通报中国女性在德国遭强奸",
+      "onboard_time": 1729509200,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207397,
       "num": 550365,
       "word": "广东一高校1477名新生拟放弃入学",
@@ -1323,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195776,
+      "num": 195776,
+      "word": "逆水寒",
+      "onboard_time": 1729509500,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194967,
       "num": 319415,
       "word": "五月天的歌是产房最佳BGM",
@@ -1355,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189739,
+      "num": 189739,
+      "word": "华晨宇与朋友在西湖骑单车",
+      "onboard_time": 1729509500,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189737,
       "num": 189737,
       "word": "周深宋雨琦回归奔跑吧录制",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1729471161,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189046,
+      "num": 189046,
+      "word": "迪丽热巴妆发时刻",
+      "onboard_time": 1729509739,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188236,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1729502118,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182786,
+      "num": 182786,
+      "word": "把女儿抛向货车致身亡男子已被执行死刑",
+      "onboard_time": 1729510098,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182135,
@@ -1475,20 +1515,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170424,
+      "num": 210455,
+      "word": "柳智敏镜头",
+      "onboard_time": 1729504938,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169900,
       "num": 386574,
       "word": "30岁的人60岁的骨头",
       "onboard_time": 1729494138,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169231,
-      "num": 169231,
-      "word": "逆水寒",
-      "onboard_time": 1729509500,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 169072,
@@ -1555,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164672,
-      "num": 164672,
-      "word": "华晨宇与朋友在西湖骑单车",
-      "onboard_time": 1729509500,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164414,
       "num": 294057,
       "word": "外交部回应驻缅甸曼德勒总领馆遭袭",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1729478118,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158745,
-      "num": 158745,
-      "word": "中领馆通报中国女性在德国遭强奸",
-      "onboard_time": 1729509200,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153731,
@@ -1705,6 +1729,22 @@
       "onboard_time": 1729493659,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143625,
+      "num": 143625,
+      "word": "4名初中生因涨潮被困1死1失联",
+      "onboard_time": 1729510339,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142579,
+      "num": 142579,
+      "word": "王楚钦祝福刘丁硕",
+      "onboard_time": 1729510519,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141270,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1729499838,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122349,
+      "num": 222530,
+      "word": "SM艺人服装仓库公开",
+      "onboard_time": 1729505119,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 121451,
@@ -2259,20 +2307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84144,
+      "num": 390121,
+      "word": "男子称因转发未婚妻出轨证据被拘7天",
+      "onboard_time": 1729508839,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83060,
+      "num": 404716,
+      "word": "天猫晚八点数码家电国补6折起",
+      "onboard_time": 1729508420,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82651,
       "num": 82651,
       "word": "印度首都河面漂浮大量有毒泡沫",
       "onboard_time": 1729455732,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 79820,
-      "num": 390121,
-      "word": "男子称因转发未婚妻出轨证据被拘7天",
-      "onboard_time": 1729508839,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79410,
@@ -2313,14 +2369,6 @@
       "onboard_time": 1729499659,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64766,
-      "num": 404716,
-      "word": "天猫晚八点数码家电国补6折起",
-      "onboard_time": 1729508420,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61834,
@@ -2443,14 +2491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38914,
-      "num": 222530,
-      "word": "SM艺人服装仓库公开",
-      "onboard_time": 1729505119,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38814,
       "num": 38814,
       "word": "女子大面积烧伤忍剧痛抱起孩子安慰",
@@ -2532,7 +2572,7 @@
     },
     {
       "raw_hot": 31188,
-      "num": 183243,
+      "num": 209534,
       "word": "今晚花呗分期买戴森12期免息",
       "onboard_time": 1729509139,
       "rank": 39,
@@ -2755,7 +2795,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12852,
+      "raw_hot": 12982,
       "num": 405821,
       "word": "杨妞花重返故乡追忆寻亲历程",
       "onboard_time": 1729508718,
