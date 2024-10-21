@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729550352705,
+  "endTime": 1729552903884,
   "band_list": [
     {
       "raw_hot": 1034461,
@@ -27,8 +27,32 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 621938,
+      "num": 800916,
+      "word": "断崖式降温羽绒服价格不升反降",
+      "onboard_time": 1729514358,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583566,
+      "num": 196225,
+      "word": "亲属回应情侣夜爬秦岭失温遇难",
+      "onboard_time": 1729504098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548268,
+      "num": 548268,
+      "word": "学校回应1477名新生拟放弃入学",
+      "onboard_time": 1729522939,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525232,
-      "num": 301689,
+      "num": 302069,
       "word": "中国军队和武警严防死守中缅边境",
       "onboard_time": 1729515019,
       "rank": 5,
@@ -51,7 +75,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316786,
+      "raw_hot": 336911,
       "num": 296178,
       "word": "外交部回应朝军已进入乌克兰战场",
       "onboard_time": 1729514959,
@@ -67,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305363,
+      "num": 305363,
+      "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
+      "onboard_time": 1729532713,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298543,
       "num": 267535,
       "word": "黄圣依脖子纹身",
       "onboard_time": 1729498217,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293165,
-      "num": 73580,
-      "word": "亲属回应情侣夜爬秦岭失温遇难",
-      "onboard_time": 1729504098,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272786,
@@ -99,14 +123,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 243408,
-      "num": 243408,
-      "word": "学校回应1477名新生拟放弃入学",
-      "onboard_time": 1729522939,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234373,
       "num": 234373,
       "word": "刘丁硕退出国家队",
@@ -121,6 +137,14 @@
       "onboard_time": 1729506259,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217226,
+      "num": 217226,
+      "word": "把女儿抛向货车致身亡男子已被执行死刑",
+      "onboard_time": 1729510098,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212237,
@@ -147,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 196029,
+      "num": 196029,
+      "word": "这一次情报外泄让以色列更尴尬了",
+      "onboard_time": 1729505479,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194220,
       "num": 194220,
       "word": "APT手势舞",
@@ -163,20 +195,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169821,
+      "num": 169821,
+      "word": "食骨奉母男孩家中堆满捐赠物资",
+      "onboard_time": 1729537512,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168842,
       "num": 168842,
       "word": "辰咪cp",
       "onboard_time": 1729517901,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160910,
-      "num": 160910,
-      "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
-      "onboard_time": 1729532713,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148388,
@@ -195,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145177,
+      "num": 145177,
+      "word": "手工耿小店只卖创意设计",
+      "onboard_time": 1729550474,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 137625,
       "num": 171908,
       "word": "老舅演唱会嘉宾 鹿晗",
@@ -203,11 +243,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135591,
-      "num": 135591,
-      "word": "断崖式降温羽绒服价格不升反降",
-      "onboard_time": 1729514358,
-      "rank": 30,
+      "raw_hot": 136968,
+      "num": 136968,
+      "word": "全球水循环有记录以来首次失衡",
+      "onboard_time": 1729531872,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -227,6 +267,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113451,
+      "num": 113451,
+      "word": "31岁哈工大女博导秀肌肉招生",
+      "onboard_time": 1729515800,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108524,
+      "num": 108524,
+      "word": "吃布洛芬止疼不具有成瘾性",
+      "onboard_time": 1729547051,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108391,
       "num": 108391,
       "word": "王楚钦祝福刘丁硕",
@@ -243,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101676,
-      "num": 101676,
-      "word": "31岁哈工大女博导秀肌肉招生",
-      "onboard_time": 1729515800,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97877,
       "num": 97877,
       "word": "iPhone16哪个型号跌幅最大",
@@ -259,11 +307,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 93732,
-      "num": 93732,
-      "word": "食骨奉母男孩家中堆满捐赠物资",
-      "onboard_time": 1729537512,
-      "rank": 9,
+      "raw_hot": 97328,
+      "num": 97328,
+      "word": "丈夫谈及烧伤妻子满眼泪水",
+      "onboard_time": 1729546570,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -307,22 +355,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 86908,
-      "num": 86908,
-      "word": "这一次情报外泄让以色列更尴尬了",
-      "onboard_time": 1729505479,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 84235,
-      "num": 101796,
-      "word": "全球水循环有记录以来首次失衡",
-      "onboard_time": 1729531872,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82980,
       "num": 82980,
       "word": "男子调戏女生男友上前制止被打",
@@ -337,6 +369,14 @@
       "onboard_time": 1729511718,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81799,
+      "num": 81799,
+      "word": "长期忍受疼痛免疫力会降低",
+      "onboard_time": 1729529418,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81403,
@@ -360,6 +400,14 @@
       "word": "研究发现晚上更容易冲动消费",
       "onboard_time": 1729520481,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77773,
+      "num": 77773,
+      "word": "马背上4岁小孩姐又帅又飒",
+      "onboard_time": 1729548431,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -403,12 +451,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 64867,
-      "num": 64867,
-      "word": "长期忍受疼痛免疫力会降低",
-      "onboard_time": 1729529418,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 67215,
+      "num": 67215,
+      "word": "套内69平米的独居小家",
+      "onboard_time": 1729552095,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 63565,
@@ -419,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62588,
+      "num": 140044,
+      "word": "意见要求提高产业工人经济收入",
+      "onboard_time": 1729528876,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62431,
       "num": 62431,
       "word": "无畏张良MVP",
       "onboard_time": 1729527976,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61762,
-      "num": 140044,
-      "word": "意见要求提高产业工人经济收入",
-      "onboard_time": 1729528876,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 58830,
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53730,
+      "num": 53730,
+      "word": "楼上扔烟头导致楼下居民家起火",
+      "onboard_time": 1729544771,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53042,
       "num": 81522,
       "word": "新疆4岁萌娃与父亲骑马气场全开",
@@ -491,40 +547,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52184,
-      "num": 52184,
-      "word": "马背上4岁小孩姐又帅又飒",
-      "onboard_time": 1729548431,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51376,
-      "num": 51376,
-      "word": "丈夫谈及烧伤妻子满眼泪水",
-      "onboard_time": 1729546570,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47291,
-      "num": 47291,
-      "word": "楼上扔烟头导致楼下居民家起火",
-      "onboard_time": 1729544771,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46604,
-      "num": 46604,
-      "word": "吃布洛芬止疼不具有成瘾性",
-      "onboard_time": 1729547051,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 35629,
-      "num": 40387,
+      "raw_hot": 44829,
+      "num": 44829,
       "word": "央视揭秘停息挂账骗局",
       "onboard_time": 1729538891,
       "rank": 14,
@@ -536,6 +560,22 @@
       "word": "未来三天新一股冷空气来袭",
       "onboard_time": 1729535171,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25070,
+      "num": 80432,
+      "word": "小孩哥教科书式报警救自己",
+      "onboard_time": 1729552335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23172,
+      "num": 196402,
+      "word": "暗能量探测天籁项目",
+      "onboard_time": 1729551314,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -553,14 +593,6 @@
       "onboard_time": 1729534632,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19356,
-      "num": 65611,
-      "word": "把女儿抛向货车致身亡男子已被执行死刑",
-      "onboard_time": 1729510098,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19262,
