@@ -1,0 +1,410 @@
+{
+  "runTime": 1729496268888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2012643,
+        "num": 2012643,
+        "word": "男子想死不敢跳楼高空抛物砸死路人",
+        "onboard_time": 1729488018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705259,
+        "num": 705259,
+        "word": "向佐回应医生提醒模仿摸鼻梁有风险",
+        "onboard_time": 1729493297,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9709,
+        "num": 636479,
+        "word": "金秋十月里田间农事忙",
+        "onboard_time": 1729484179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626387,
+        "num": 626387,
+        "word": "吉林国企离岗16年员工已返回公司",
+        "onboard_time": 1729492877,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553181,
+        "num": 553181,
+        "word": "Ning开团王多多",
+        "onboard_time": 1729483219,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 533388,
+        "num": 533388,
+        "word": "手工耿否认停更是因为挣太多了",
+        "onboard_time": 1729491498,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 509921,
+        "num": 509921,
+        "word": "家属称听到判决结果眼泪止不住",
+        "onboard_time": 1729485861,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432705,
+        "num": 432705,
+        "word": "潘展乐回应腹肌消失问题",
+        "onboard_time": 1729484960,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407532,
+        "num": 407532,
+        "word": "半导体15天暴涨70%",
+        "onboard_time": 1729491558,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 401005,
+        "num": 401005,
+        "word": "耳蜗丢失男孩就读学校将赔7成",
+        "onboard_time": 1729482018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799197,
+        "num": 400825,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555222,
+        "num": 400121,
+        "word": "孟子义剪了短发",
+        "onboard_time": 1729486639,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397345,
+        "num": 397345,
+        "word": "旺旺三公子 我叫蔡旺庭",
+        "onboard_time": 1729493537,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127208,
+        "num": 381736,
+        "word": "辛巴称有大主播卖学习机赚1000差价",
+        "onboard_time": 1729495279,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366886,
+        "num": 366886,
+        "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
+        "onboard_time": 1729492099,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366058,
+        "num": 366058,
+        "word": "韩国外交部召见俄罗斯驻韩大使",
+        "onboard_time": 1729492998,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 313334,
+        "num": 313334,
+        "word": "勒布伦摔拍单打成绩被取消",
+        "onboard_time": 1729495458,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276537,
+        "num": 297847,
+        "word": "手工耿已注销个人独资工作室",
+        "onboard_time": 1729481299,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247852,
+        "num": 295409,
+        "word": "擅自离岗16年国企员工有机会返岗",
+        "onboard_time": 1729495578,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8103,
+        "num": 294661,
+        "word": "胡定欣否认与杨茜尧不和",
+        "onboard_time": 1729496117,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294526,
+        "num": 294526,
+        "word": "王昭君映山客皮肤正式亮相",
+        "onboard_time": 1729492518,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351196,
+        "num": 288285,
+        "word": "楼下误以为楼上噪音持刀入室伤人",
+        "onboard_time": 1729492398,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281901,
+        "num": 281901,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264487,
+        "num": 264487,
+        "word": "食骨奉母男孩不用再食剩骨",
+        "onboard_time": 1729488318,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90095,
+        "num": 263395,
+        "word": "保安公司回应小西天保安大叔工资标准",
+        "onboard_time": 1729494259,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262837,
+        "num": 262837,
+        "word": "每一位大体老师都是家人心尖上的人",
+        "onboard_time": 1729493959,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255954,
+        "num": 255954,
+        "word": "赵小童代表十个勤天参加戛纳",
+        "onboard_time": 1729494498,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225423,
+        "num": 255532,
+        "word": "付航 我就是一个喜欢搞笑的普通人",
+        "onboard_time": 1729490418,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192900,
+        "num": 254078,
+        "word": "内娱寸头帅哥补货了",
+        "onboard_time": 1729495638,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11904,
+        "num": 251257,
+        "word": "黎多地真主党相关金融机构遭以军空袭",
+        "onboard_time": 1729495158,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169900,
+        "num": 250237,
+        "word": "30岁的人60岁的骨头",
+        "onboard_time": 1729494138,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248568,
+        "num": 248568,
+        "word": "赵牧辰 边界感",
+        "onboard_time": 1729488199,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230144,
+        "num": 230144,
+        "word": "这条裙子果然是蓝黑色",
+        "onboard_time": 1729487718,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224198,
+        "num": 224198,
+        "word": "王多多回应Ning",
+        "onboard_time": 1729495937,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214343,
+        "num": 214343,
+        "word": "中国紧急援助物资飞往黎巴嫩",
+        "onboard_time": 1729493777,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213404,
+        "num": 213404,
+        "word": "赵丽颖获金鹰视后发文",
+        "onboard_time": 1729471281,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200201,
+        "num": 200201,
+        "word": "王者荣耀",
+        "onboard_time": 1729494677,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184317,
+        "num": 184317,
+        "word": "3岁男童被生父女友虐待后死亡后续",
+        "onboard_time": 1729494977,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174296,
+        "num": 174296,
+        "word": "深圳水贝有人拖行李箱来买黄金",
+        "onboard_time": 1729494438,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170494,
+        "num": 170494,
+        "word": "王昭君新皮肤",
+        "onboard_time": 1729495998,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169788,
+        "num": 169788,
+        "word": "旺旺三公子何猷君奚梦瑶同逛迪士尼",
+        "onboard_time": 1729476678,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162043,
+        "num": 162043,
+        "word": "高雅cp",
+        "onboard_time": 1729489218,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 155266,
+        "word": "上海月租1300的房子",
+        "onboard_time": 1729483219,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "男子高空抛物致死案被核准死刑",
+        "onboard_time": 1729477338,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5755,
+        "num": 146379,
+        "word": "Tiffany高珠活动",
+        "onboard_time": 1729491077,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 145165,
+        "num": 145165,
+        "word": "权志龙回归预热",
+        "onboard_time": 1729489039,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141354,
+        "num": 141354,
+        "word": "马龙谈大满贯赛后被恭喜获得亚军",
+        "onboard_time": 1729492578,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138257,
+        "num": 138257,
+        "word": "鄂A6PZ19拦停失控汽车",
+        "onboard_time": 1729492698,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134045,
+        "num": 134045,
+        "word": "半导体",
+        "onboard_time": 1729496238,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127206,
+        "num": 127206,
+        "word": "韩国将视朝俄动向研讨是否向乌供武",
+        "onboard_time": 1729496177,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述金砖合作之道#"
+    }
+  }
+}
