@@ -1,0 +1,411 @@
+{
+  "startTime": 1729528059875,
+  "endTime": 1729528059875,
+  "band_list": [
+    {
+      "raw_hot": 1034461,
+      "num": 1034461,
+      "word": "双十一退款",
+      "onboard_time": 1729515260,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 901608,
+      "num": 56942,
+      "word": "斐乐 尾款",
+      "onboard_time": 1729514659,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 755388,
+      "num": 755388,
+      "word": "福建平潭海域22日进行实弹射击",
+      "onboard_time": 1729525220,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 525232,
+      "num": 301689,
+      "word": "中国军队和武警严防死守中缅边境",
+      "onboard_time": 1729515019,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 429547,
+      "num": 269699,
+      "word": "东北雨姐贷款1200多万买电商楼",
+      "onboard_time": 1729511900,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420080,
+      "num": 420080,
+      "word": "疑似何炅攻击性最强的一集",
+      "onboard_time": 1729510999,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316786,
+      "num": 296178,
+      "word": "外交部回应朝军已进入乌克兰战场",
+      "onboard_time": 1729514959,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 306227,
+      "num": 306227,
+      "word": "女子拆快递后揉眼睛感染疱疹病毒",
+      "onboard_time": 1729520661,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298543,
+      "num": 267535,
+      "word": "黄圣依脖子纹身",
+      "onboard_time": 1729498217,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272786,
+      "num": 272786,
+      "word": "00后女生被辞硬怼公司拿回双倍工资",
+      "onboard_time": 1729520120,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266861,
+      "num": 266861,
+      "word": "广东夫妇疑删除八亿补贴宣传",
+      "onboard_time": 1729507640,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 234373,
+      "num": 234373,
+      "word": "刘丁硕退出国家队",
+      "onboard_time": 1729506019,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231681,
+      "num": 272642,
+      "word": "周星驰发文庆祝付航夺冠",
+      "onboard_time": 1729506259,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211385,
+      "num": 211385,
+      "word": "双十一 抄作业",
+      "onboard_time": 1729511119,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 208808,
+      "num": 208808,
+      "word": "韦雪直播三场赚了1个亿",
+      "onboard_time": 1729500318,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 194220,
+      "num": 194220,
+      "word": "APT手势舞",
+      "onboard_time": 1729525098,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187920,
+      "num": 187920,
+      "word": "Ning直播回应王多多",
+      "onboard_time": 1729512979,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 177305,
+      "num": 177305,
+      "word": "螃蟹结伴上岸散步当场被抓",
+      "onboard_time": 1729525760,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168842,
+      "num": 168842,
+      "word": "辰咪cp",
+      "onboard_time": 1729517901,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164010,
+      "num": 164010,
+      "word": "学校回应1477名新生拟放弃入学",
+      "onboard_time": 1729522939,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148388,
+      "num": 148388,
+      "word": "本周最幸运星座",
+      "onboard_time": 1729521562,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148022,
+      "num": 148022,
+      "word": "双十一洗衣液",
+      "onboard_time": 1729524140,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137625,
+      "num": 171908,
+      "word": "老舅演唱会嘉宾 鹿晗",
+      "onboard_time": 1729515319,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124313,
+      "num": 124313,
+      "word": "韩国总统与北约秘书长通话",
+      "onboard_time": 1729525338,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 116537,
+      "num": 116537,
+      "word": "iPhone16官方罕见降价1600元",
+      "onboard_time": 1729498337,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 108391,
+      "num": 108391,
+      "word": "王楚钦祝福刘丁硕",
+      "onboard_time": 1729510519,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101755,
+      "num": 101755,
+      "word": "易烊千玺复古红西装",
+      "onboard_time": 1729513098,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101676,
+      "num": 101676,
+      "word": "31岁哈工大女博导秀肌肉招生",
+      "onboard_time": 1729515800,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101404,
+      "num": 101404,
+      "word": "断崖式降温羽绒服价格不升反降",
+      "onboard_time": 1729514358,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97877,
+      "num": 97877,
+      "word": "iPhone16哪个型号跌幅最大",
+      "onboard_time": 1729521741,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 92619,
+      "num": 92619,
+      "word": "唐嫣活动生图",
+      "onboard_time": 1729512438,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90801,
+      "num": 90801,
+      "word": "梁强当选越南国家主席",
+      "onboard_time": 1729505119,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 89175,
+      "num": 89175,
+      "word": "冷冷冷冷北方冷冷冷冷",
+      "onboard_time": 1729498279,
+      "rank": 34,
+      "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 88904,
+      "num": 88904,
+      "word": "美妆券",
+      "onboard_time": 1729513277,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 86908,
+      "num": 86908,
+      "word": "这一次情报外泄让以色列更尴尬了",
+      "onboard_time": 1729505479,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 82980,
+      "num": 82980,
+      "word": "男子调戏女生男友上前制止被打",
+      "onboard_time": 1729501337,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82210,
+      "num": 101418,
+      "word": "赵丽颖提到吴越李沁",
+      "onboard_time": 1729511718,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80465,
+      "num": 80465,
+      "word": "迪丽热巴半扎发型",
+      "onboard_time": 1729513157,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77940,
+      "num": 77940,
+      "word": "研究发现晚上更容易冲动消费",
+      "onboard_time": 1729520481,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77641,
+      "num": 77641,
+      "word": "防弹少年团老粉",
+      "onboard_time": 1729512979,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74644,
+      "num": 74644,
+      "word": "付航脱口秀 内涵",
+      "onboard_time": 1729498459,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 71982,
+      "num": 71982,
+      "word": "这种疼痛好多人都挂错科室了",
+      "onboard_time": 1729521439,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71863,
+      "num": 71863,
+      "word": "身体疼痛不是忍忍就过去了",
+      "onboard_time": 1729526179,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 69480,
+      "num": 69480,
+      "word": "4个动作保护膝盖",
+      "onboard_time": 1729526118,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 63565,
+      "num": 63565,
+      "word": "奔跑吧 7人到齐",
+      "onboard_time": 1729503618,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58830,
+      "num": 58830,
+      "word": "李昊将加盟声生不息港乐季2",
+      "onboard_time": 1729522699,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57277,
+      "num": 57277,
+      "word": "金价创下历史新高",
+      "onboard_time": 1729527319,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 56458,
+      "num": 56458,
+      "word": "力争到2035年培养造就约2000名大国工匠",
+      "onboard_time": 1729526418,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 56345,
+      "num": 270155,
+      "word": "要让产业工人更有职业荣耀",
+      "onboard_time": 1729527798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17815,
+      "num": 538579,
+      "word": "吐鲁番一个地方藏着多少高考地理题",
+      "onboard_time": 1729519700,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#金砖合作大有可为#"
+    }
+  ]
+}

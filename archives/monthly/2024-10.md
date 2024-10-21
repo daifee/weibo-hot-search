@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 23:39:21
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 00:27:39
 </p>
 </blockquote>
 <p>
@@ -5589,6 +5589,12 @@ T1晋级S14四强（热度：756356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B9%B3%E6%BD%AD%E6%B5%B7%E5%9F%9F22%E6%97%A5%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%23" target="weibo">
+福建平潭海域22日进行实弹射击（热度：755388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E5%8D%97%E7%89%9B%E8%82%89%E6%B1%A4%23" target="weibo">
 淮南牛肉汤（热度：755074）
 </a>
@@ -6005,12 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E6%AD%A6%E7%BD%91%E5%86%B3%E8%B5%9B%23" target="weibo">
 郑钦文晋级武网决赛（热度：720478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E6%B6%B2%E6%A8%A1%E4%BB%BF%E5%90%91%E4%BD%90%23" target="weibo">
-毒液模仿向佐（热度：720382）
 </a>
 </li>
 
