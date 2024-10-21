@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 11:07:14
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/21 11:32:15
 </p>
 </blockquote>
 <p>
@@ -1637,6 +1637,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%8F%8B%E5%90%A6%E8%AE%A4%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%AD%A6%E5%8E%86%23" target="weibo">
 北大校友否认听泉鉴宝学历（热度：1439285）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91%23" target="weibo">
+男子高空抛物致死案被核准死刑（热度：1439274）
 </a>
 </li>
 
@@ -3407,12 +3413,6 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%88%9D%E4%B8%AD%E6%8A%A2%E4%BA%A4%E5%8D%B7%E7%BB%93%E6%9E%9C%E5%8F%AA%E8%80%83%E4%BA%8618%E5%88%86%23" target="weibo">
 数学家初中抢交卷结果只考了18分（热度：1010012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%87%B4%E6%AD%BB%E6%A1%88%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91%23" target="weibo">
-男子高空抛物致死案被核准死刑（热度：1007411）
 </a>
 </li>
 

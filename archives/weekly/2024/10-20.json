@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729480034369,
+  "endTime": 1729481535474,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -129,6 +129,14 @@
       "onboard_time": 1729404980,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1439274,
+      "num": 1439274,
+      "word": "男子高空抛物致死案被核准死刑",
+      "onboard_time": 1729477338,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1438276,
@@ -281,14 +289,6 @@
       "onboard_time": 1729430722,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1007411,
-      "num": 1007411,
-      "word": "男子高空抛物致死案被核准死刑",
-      "onboard_time": 1729477338,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1001460,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543384,
+      "num": 543384,
+      "word": "韩国三星电子决定退出LED业务",
+      "onboard_time": 1729476379,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540487,
       "num": 540487,
       "word": "小西天保安大叔已经返岗",
@@ -779,20 +787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513693,
+      "num": 496883,
+      "word": "人民网评长丰学校臭肉事件",
+      "onboard_time": 1729429402,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512192,
       "num": 512192,
       "word": "iPhone16官旗多款机型破发",
       "onboard_time": 1729437141,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 511919,
-      "num": 511919,
-      "word": "韩国三星电子决定退出LED业务",
-      "onboard_time": 1729476379,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510686,
@@ -809,6 +817,14 @@
       "onboard_time": 1729418000,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 501478,
+      "num": 501478,
+      "word": "赵丽颖获金鹰视后发文",
+      "onboard_time": 1729471281,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 493575,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1729370291,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390272,
-      "num": 390272,
-      "word": "赵丽颖获金鹰视后发文",
-      "onboard_time": 1729471281,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 390223,
@@ -1443,6 +1451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 283652,
+      "num": 252793,
+      "word": "安静公主",
+      "onboard_time": 1729480100,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 280893,
       "num": 227280,
       "word": "当我买狗窝时忘了看尺寸",
@@ -1464,6 +1480,14 @@
       "word": "四川乐山摩托与轿车相撞致3死",
       "onboard_time": 1729423460,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278009,
+      "num": 390110,
+      "word": "成都一小区承重柱不达标被拆",
+      "onboard_time": 1729474639,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1489,6 +1513,14 @@
       "onboard_time": 1729393939,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268078,
+      "num": 268078,
+      "word": "手工耿已注销个人独资工作室",
+      "onboard_time": 1729481299,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 267738,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1729403959,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255820,
+      "num": 255820,
+      "word": "耳蜗丢失男孩母亲发声",
+      "onboard_time": 1729480459,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254658,
@@ -1643,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236484,
+      "num": 256240,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235935,
       "num": 216061,
       "word": "李耕耘直播",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1729388239,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229601,
+      "num": 252807,
+      "word": "李沐宸 恶女小白花",
+      "onboard_time": 1729477818,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 229063,
@@ -1771,20 +1827,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215242,
-      "num": 390110,
-      "word": "成都一小区承重柱不达标被拆",
-      "onboard_time": 1729474639,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215206,
       "num": 401345,
       "word": "宜宾燃面真能点燃啊",
       "onboard_time": 1729416200,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 214699,
+      "num": 263636,
+      "word": "黄圣依 纯元活着的版本",
+      "onboard_time": 1729479918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 214479,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1729387339,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213304,
+      "num": 213304,
+      "word": "刺痛 敖子逸是被耽误的电竞选手",
+      "onboard_time": 1729478958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 212834,
@@ -1929,14 +1993,6 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202432,
-      "num": 202432,
-      "word": "刺痛 敖子逸是被耽误的电竞选手",
-      "onboard_time": 1729478958,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 202029,
@@ -2147,14 +2203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187427,
-      "num": 187427,
-      "word": "李沐宸 恶女小白花",
-      "onboard_time": 1729477818,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186934,
       "num": 186934,
       "word": "刘亦菲天梯大片",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1729415599,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181728,
+      "num": 181728,
+      "word": "以军401装甲旅旅长被打死",
+      "onboard_time": 1729480758,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 181254,
@@ -2419,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166940,
-      "num": 496883,
-      "word": "人民网评长丰学校臭肉事件",
-      "onboard_time": 1729429402,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166026,
       "num": 166026,
       "word": "一加13",
@@ -2521,14 +2569,6 @@
       "onboard_time": 1729478118,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158219,
-      "num": 256240,
-      "word": "国产葡萄换上洋外衣价格相差10倍",
-      "onboard_time": 1729474579,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158165,
@@ -2883,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128567,
+      "num": 128567,
+      "word": "LPR全面降息",
+      "onboard_time": 1729481179,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127267,
       "num": 127267,
       "word": "王者荣耀共创之夜抢票",
@@ -3019,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118948,
+      "num": 118948,
+      "word": "警方通报男子站在车上张开双臂骑行",
+      "onboard_time": 1729475959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118828,
       "num": 118828,
       "word": "F1美国站勒克莱尔夺冠",
@@ -3075,14 +3131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116471,
-      "num": 116471,
-      "word": "警方通报男子站在车上张开双臂骑行",
-      "onboard_time": 1729475959,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114714,
       "num": 114714,
       "word": "哀牢山的红外相机拍到了什么",
@@ -3105,6 +3153,14 @@
       "onboard_time": 1729439181,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112556,
+      "num": 112556,
+      "word": "降温",
+      "onboard_time": 1729480639,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111912,
@@ -3272,6 +3328,14 @@
       "word": "杨子 不能她好了我和巨力不好",
       "onboard_time": 1729316660,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96472,
+      "num": 264805,
+      "word": "单依纯直播",
+      "onboard_time": 1729479798,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -3619,6 +3683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50646,
+      "num": 277902,
+      "word": "劣质小太阳厂家花几百元伪造质检报告",
+      "onboard_time": 1729481179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50584,
       "num": 50584,
       "word": "女性脱口秀",
@@ -3819,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32488,
+      "num": 194257,
+      "word": "天猫双11购物车今晚8点见",
+      "onboard_time": 1729480639,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31794,
       "num": 122235,
       "word": "不能让界碑移动哪怕一毫米是他们家训",
@@ -3865,6 +3945,14 @@
       "onboard_time": 1729389920,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 27933,
+      "num": 1319217,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27424,
@@ -4011,14 +4099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19877,
-      "num": 1319217,
-      "word": "何以中国五星出东方",
-      "onboard_time": 1729323379,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19836,
       "num": 61888,
       "word": "握紧接力棒走好新时代长征路",
@@ -4075,14 +4155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15462,
-      "num": 264805,
-      "word": "单依纯直播",
-      "onboard_time": 1729479798,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 14118,
       "num": 33266,
       "word": "酒泉卫星发射中心66岁了",
@@ -4121,14 +4193,6 @@
       "onboard_time": 1729452791,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12586,
-      "num": 263636,
-      "word": "黄圣依 纯元活着的版本",
-      "onboard_time": 1729479918,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 12314,

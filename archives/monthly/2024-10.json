@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729480034369,
+  "endTime": 1729481535474,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2169,6 +2169,14 @@
       "onboard_time": 1728735560,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1439274,
+      "num": 1439274,
+      "word": "男子高空抛物致死案被核准死刑",
+      "onboard_time": 1729477338,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1438276,
@@ -4528,14 +4536,6 @@
       "word": "数学家初中抢交卷结果只考了18分",
       "onboard_time": 1728033018,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1007411,
-      "num": 1007411,
-      "word": "男子高空抛物致死案被核准死刑",
-      "onboard_time": 1729477338,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -10979,6 +10979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 543384,
+      "num": 543384,
+      "word": "韩国三星电子决定退出LED业务",
+      "onboard_time": 1729476379,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543152,
       "num": 322373,
       "word": "林诗栋黄牌",
@@ -11651,6 +11659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513693,
+      "num": 496883,
+      "word": "人民网评长丰学校臭肉事件",
+      "onboard_time": 1729429402,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513522,
       "num": 425148,
       "word": "2024年国家奖学金奖励名额将翻倍",
@@ -11705,14 +11721,6 @@
       "onboard_time": 1729217300,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 511919,
-      "num": 511919,
-      "word": "韩国三星电子决定退出LED业务",
-      "onboard_time": 1729476379,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511272,
@@ -11905,6 +11913,14 @@
       "onboard_time": 1729133541,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 501478,
+      "num": 501478,
+      "word": "赵丽颖获金鹰视后发文",
+      "onboard_time": 1729471281,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 501459,
@@ -15105,14 +15121,6 @@
       "onboard_time": 1728003318,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390272,
-      "num": 390272,
-      "word": "赵丽颖获金鹰视后发文",
-      "onboard_time": 1729471281,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 390223,
@@ -20179,6 +20187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 283652,
+      "num": 252793,
+      "word": "安静公主",
+      "onboard_time": 1729480100,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 283545,
       "num": 255809,
       "word": "赵丽颖提名金鹰视后",
@@ -20601,6 +20617,14 @@
       "onboard_time": 1728270257,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278009,
+      "num": 390110,
+      "word": "成都一小区承重柱不达标被拆",
+      "onboard_time": 1729474639,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277743,
@@ -21281,6 +21305,14 @@
       "onboard_time": 1728438438,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268078,
+      "num": 268078,
+      "word": "手工耿已注销个人独资工作室",
+      "onboard_time": 1729481299,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 267932,
@@ -22313,6 +22345,14 @@
       "onboard_time": 1727785338,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255820,
+      "num": 255820,
+      "word": "耳蜗丢失男孩母亲发声",
+      "onboard_time": 1729480459,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255808,
@@ -23819,6 +23859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 236484,
+      "num": 256240,
+      "word": "国产葡萄换上洋外衣价格相差10倍",
+      "onboard_time": 1729474579,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236093,
       "num": 236093,
       "word": "女生巧用保鲜膜快速包馄饨",
@@ -24496,6 +24544,14 @@
       "word": "流水迢迢热度逆跌",
       "onboard_time": 1728304764,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229601,
+      "num": 252807,
+      "word": "李沐宸 恶女小白花",
+      "onboard_time": 1729477818,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -26115,14 +26171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215242,
-      "num": 390110,
-      "word": "成都一小区承重柱不达标被拆",
-      "onboard_time": 1729474639,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215226,
       "num": 215226,
       "word": "iPadmini7或下月推出",
@@ -26177,6 +26225,14 @@
       "onboard_time": 1728216320,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214699,
+      "num": 263636,
+      "word": "黄圣依 纯元活着的版本",
+      "onboard_time": 1729479918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 214696,
@@ -26433,6 +26489,14 @@
       "onboard_time": 1729061839,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213304,
+      "num": 213304,
+      "word": "刺痛 敖子逸是被耽误的电竞选手",
+      "onboard_time": 1729478958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213167,
@@ -28328,14 +28392,6 @@
       "word": "浪姐 女性主义觉醒夏令营",
       "onboard_time": 1729244480,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202432,
-      "num": 202432,
-      "word": "刺痛 敖子逸是被耽误的电竞选手",
-      "onboard_time": 1729478958,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -31883,14 +31939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187427,
-      "num": 187427,
-      "word": "李沐宸 恶女小白花",
-      "onboard_time": 1729477818,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187399,
       "num": 187399,
       "word": "林高远刘诗雯4比2赵钊彦孙铭阳",
@@ -32977,6 +33025,14 @@
       "onboard_time": 1728256574,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181728,
+      "num": 181728,
+      "word": "以军401装甲旅旅长被打死",
+      "onboard_time": 1729480758,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 181724,
@@ -35747,14 +35803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166940,
-      "num": 496883,
-      "word": "人民网评长丰学校臭肉事件",
-      "onboard_time": 1729429402,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166857,
       "num": 166857,
       "word": "小丑2后劲好大",
@@ -37569,14 +37617,6 @@
       "onboard_time": 1728352161,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158219,
-      "num": 256240,
-      "word": "国产葡萄换上洋外衣价格相差10倍",
-      "onboard_time": 1729474579,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158170,
@@ -43907,6 +43947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128567,
+      "num": 128567,
+      "word": "LPR全面降息",
+      "onboard_time": 1729481179,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128534,
       "num": 151022,
       "word": "最高法披露AI生成他人声音侵权案例",
@@ -45683,6 +45731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118948,
+      "num": 118948,
+      "word": "警方通报男子站在车上张开双臂骑行",
+      "onboard_time": 1729475959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118901,
       "num": 118901,
       "word": "神户胜利船2比1山东泰山",
@@ -46161,14 +46217,6 @@
       "onboard_time": 1729343839,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116471,
-      "num": 116471,
-      "word": "警方通报男子站在车上张开双臂骑行",
-      "onboard_time": 1729475959,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116469,
@@ -46897,6 +46945,14 @@
       "onboard_time": 1727942419,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112556,
+      "num": 112556,
+      "word": "降温",
+      "onboard_time": 1729480639,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112545,
@@ -49529,6 +49585,14 @@
       "onboard_time": 1728288621,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96472,
+      "num": 264805,
+      "word": "单依纯直播",
+      "onboard_time": 1729479798,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 96241,
@@ -54995,6 +55059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50646,
+      "num": 277902,
+      "word": "劣质小太阳厂家花几百元伪造质检报告",
+      "onboard_time": 1729481179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50622,
       "num": 81360,
       "word": "成都住房贷款可以商转公了",
@@ -58457,6 +58529,14 @@
       "onboard_time": 1728223220,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 32488,
+      "num": 194257,
+      "word": "天猫双11购物车今晚8点见",
+      "onboard_time": 1729480639,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 32461,
@@ -61931,14 +62011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15462,
-      "num": 264805,
-      "word": "单依纯直播",
-      "onboard_time": 1729479798,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15432,
       "num": 225608,
       "word": "用爱心骑行的方式祝福祖国",
@@ -62361,14 +62433,6 @@
       "onboard_time": 1728552979,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12586,
-      "num": 263636,
-      "word": "黄圣依 纯元活着的版本",
-      "onboard_time": 1729479918,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 12538,
