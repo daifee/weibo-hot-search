@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729518169370,
+  "endTime": 1729520499274,
   "band_list": [
     {
       "raw_hot": 2400219,
@@ -25,6 +25,14 @@
       "onboard_time": 1729431504,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2000073,
+      "num": 2000073,
+      "word": "斐乐 尾款",
+      "onboard_time": 1729514659,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1751912,
@@ -155,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1155839,
+      "num": 624033,
+      "word": "中国军队和武警严防死守中缅边境",
+      "onboard_time": 1729515019,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1141410,
       "num": 1141410,
       "word": "福州机场",
@@ -208,14 +224,6 @@
       "word": "外交部回应中国驻曼德勒总领馆遭袭",
       "onboard_time": 1729498819,
       "rank": 23,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1040576,
-      "num": 624033,
-      "word": "中国军队和武警严防死守中缅边境",
-      "onboard_time": 1729515019,
-      "rank": 21,
       "category": "国内时政"
     },
     {
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859690,
+      "num": 404254,
+      "word": "高空抛物致死案男子听到安乐死露笑容",
+      "onboard_time": 1729515559,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844579,
       "num": 844579,
       "word": "雷军开法拉利引热议",
@@ -355,14 +371,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 750007,
-      "num": 404254,
-      "word": "高空抛物致死案男子听到安乐死露笑容",
-      "onboard_time": 1729515559,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 748499,
       "num": 457522,
       "word": "难听",
@@ -377,6 +385,14 @@
       "onboard_time": 1729506259,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 739881,
+      "num": 509605,
+      "word": "外交部回应朝军已进入乌克兰战场",
+      "onboard_time": 1729514959,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 738764,
@@ -401,14 +417,6 @@
       "onboard_time": 1729434503,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 706747,
-      "num": 706747,
-      "word": "斐乐 尾款",
-      "onboard_time": 1729514659,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 705259,
@@ -619,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 509605,
-      "num": 509605,
-      "word": "外交部回应朝军已进入乌克兰战场",
-      "onboard_time": 1729514959,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 496128,
       "num": 496128,
       "word": "男子高空扔8块砖2桶水3罐饮料砸死路人",
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410336,
+      "num": 291084,
+      "word": "辰咪cp",
+      "onboard_time": 1729517901,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394961,
       "num": 394961,
       "word": "Ning直播回应王多多",
@@ -769,6 +777,14 @@
       "onboard_time": 1729443615,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375104,
+      "num": 419321,
+      "word": "老舅演唱会嘉宾 鹿晗",
+      "onboard_time": 1729515319,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 374664,
@@ -841,14 +857,6 @@
       "onboard_time": 1729492398,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351117,
-      "num": 419321,
-      "word": "老舅演唱会嘉宾 鹿晗",
-      "onboard_time": 1729515319,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 351073,
@@ -1016,6 +1024,14 @@
       "word": "文旅局长回应小西天景区保安被辞退",
       "onboard_time": 1729423762,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289461,
+      "num": 289461,
+      "word": "市民双十一遭遇先涨价再打折",
+      "onboard_time": 1729518739,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1299,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221442,
+      "num": 415831,
+      "word": "流量下我们需要什么样的网红",
+      "onboard_time": 1729515559,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220400,
       "num": 388566,
       "word": "A股四大利好来袭",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1729473260,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212810,
-      "num": 415831,
-      "word": "流量下我们需要什么样的网红",
-      "onboard_time": 1729515559,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211519,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1729442179,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185996,
-      "num": 185996,
-      "word": "辰咪cp",
-      "onboard_time": 1729517901,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 185319,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1729483399,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141108,
+      "num": 141108,
+      "word": "eStar对战DRG",
+      "onboard_time": 1729520120,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 139982,
@@ -2387,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108295,
+      "num": 291513,
+      "word": "网红的流量应当成为向上向善的力量",
+      "onboard_time": 1729518260,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108163,
       "num": 108163,
       "word": "TES锁定突围赛",
@@ -2531,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92925,
+      "num": 206983,
+      "word": "研究发现晚上更容易冲动消费",
+      "onboard_time": 1729520481,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91928,
       "num": 91928,
       "word": "飞天奖",
@@ -2667,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62414,
+      "num": 291911,
+      "word": "淘宝拍立淘发钱",
+      "onboard_time": 1729519220,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61834,
       "num": 543534,
       "word": "云南新规不得询问女求职者婚育",
@@ -2699,6 +2739,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 57133,
+      "num": 394934,
+      "word": "霸王茶姬上桌了",
+      "onboard_time": 1729516160,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 57050,
       "num": 417390,
       "word": "严惩高空抛物不仅要依法而且要及时",
@@ -2729,6 +2777,14 @@
       "onboard_time": 1729501218,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53373,
+      "num": 292647,
+      "word": "新房还没入住产生五百多水费",
+      "onboard_time": 1729519761,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52990,
@@ -2768,6 +2824,14 @@
       "word": "冰晶顶遇难者未带专业设备未穿冲锋衣",
       "onboard_time": 1729506320,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42612,
+      "num": 103818,
+      "word": "阿勒泰迎降雪银装素裹美如画",
+      "onboard_time": 1729519820,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2833,14 +2897,6 @@
       "onboard_time": 1729504999,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37927,
-      "num": 394934,
-      "word": "霸王茶姬上桌了",
-      "onboard_time": 1729516160,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 37667,
@@ -2987,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26570,
+      "num": 908621,
+      "word": "吐鲁番一个地方藏着多少高考地理题",
+      "onboard_time": 1729519700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24812,
       "num": 279977,
       "word": "哈妮克孜 皇北霜终于杀通关了",
@@ -3027,6 +3091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23435,
+      "num": 290227,
+      "word": "博主卖惨带货本质就是欺诈",
+      "onboard_time": 1729519521,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22270,
       "num": 26756,
       "word": "要珍惜呵护当前良好势头",
@@ -3057,6 +3129,14 @@
       "onboard_time": 1729450511,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20335,
+      "num": 158730,
+      "word": "天猫双11大额券用完2张还有2张",
+      "onboard_time": 1729519941,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 19836,
