@@ -1,0 +1,410 @@
+{
+  "runTime": 1729517473802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1409138,
+        "num": 1409138,
+        "word": "双十一退款",
+        "onboard_time": 1729515260,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1102464,
+        "num": 1102464,
+        "word": "疑似何炅攻击性最强的一集",
+        "onboard_time": 1729510999,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31135,
+        "num": 759918,
+        "word": "又到最美赏秋季",
+        "onboard_time": 1729514659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608536,
+        "num": 608536,
+        "word": "刘丁硕退出国家队",
+        "onboard_time": 1729506019,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551731,
+        "num": 551731,
+        "word": "斐乐 尾款",
+        "onboard_time": 1729514659,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 985437,
+        "num": 507206,
+        "word": "中国军队和武警严防死守中缅边境",
+        "onboard_time": 1729515019,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426772,
+        "num": 426772,
+        "word": "双十一 抄作业",
+        "onboard_time": 1729511119,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 371067,
+        "num": 371067,
+        "word": "Ning直播回应王多多",
+        "onboard_time": 1729512979,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351124,
+        "num": 351124,
+        "word": "王楚钦祝福刘丁硕",
+        "onboard_time": 1729510519,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303790,
+        "num": 350934,
+        "word": "老舅演唱会嘉宾 鹿晗",
+        "onboard_time": 1729515319,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 615485,
+        "num": 346618,
+        "word": "东北雨姐的千万大楼贷款没还完",
+        "onboard_time": 1729511119,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33024,
+        "num": 345108,
+        "word": "荣耀Magic7等新品可花呗分期免息",
+        "onboard_time": 1729512797,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 614842,
+        "num": 343327,
+        "word": "高空抛物致死案男子听到安乐死露笑容",
+        "onboard_time": 1729515559,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55732,
+        "num": 340106,
+        "word": "天猫双11美妆买一赠一真5折",
+        "onboard_time": 1729514059,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 60860,
+        "num": 336416,
+        "word": "被天猫双11的开幕烟花燃到了",
+        "onboard_time": 1729515619,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37927,
+        "num": 335470,
+        "word": "霸王茶姬上桌了",
+        "onboard_time": 1729516160,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212810,
+        "num": 331582,
+        "word": "流量下我们需要什么样的网红",
+        "onboard_time": 1729515559,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330806,
+        "num": 330806,
+        "word": "外交部回应朝军已进入乌克兰战场",
+        "onboard_time": 1729514959,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36484,
+        "num": 330762,
+        "word": "夫妻俩为争夺抚养权竟不让孩子上学",
+        "onboard_time": 1729515919,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62998,
+        "num": 324583,
+        "word": "西安文旅局回应大学生夜爬秦岭遇难",
+        "onboard_time": 1729515980,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448103,
+        "num": 322350,
+        "word": "韦雪直播三场赚了1个亿",
+        "onboard_time": 1729500318,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378798,
+        "num": 319723,
+        "word": "广东夫妇疑删除八亿补贴宣传",
+        "onboard_time": 1729507640,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354895,
+        "num": 316025,
+        "word": "迪丽热巴半扎发型",
+        "onboard_time": 1729513157,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313810,
+        "num": 313810,
+        "word": "黄圣依脖子纹身",
+        "onboard_time": 1729498217,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297764,
+        "num": 297764,
+        "word": "31岁哈工大女博导秀肌肉招生",
+        "onboard_time": 1729515800,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280934,
+        "num": 280934,
+        "word": "防弹少年团老粉",
+        "onboard_time": 1729512979,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275784,
+        "num": 275784,
+        "word": "东北雨姐贷款1200多万买电商楼",
+        "onboard_time": 1729511900,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246959,
+        "num": 246959,
+        "word": "周星驰发文庆祝付航夺冠",
+        "onboard_time": 1729506259,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185319,
+        "num": 236343,
+        "word": "赵丽颖提到吴越李沁",
+        "onboard_time": 1729511718,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133270,
+        "num": 230968,
+        "word": "付航脱口秀 内涵",
+        "onboard_time": 1729498459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254876,
+        "num": 230470,
+        "word": "唐嫣活动生图",
+        "onboard_time": 1729512438,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228098,
+        "num": 228098,
+        "word": "iPhone16官方罕见降价1600元",
+        "onboard_time": 1729498337,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213591,
+        "num": 213591,
+        "word": "雷军开法拉利引热议",
+        "onboard_time": 1729506559,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199135,
+        "num": 199135,
+        "word": "尾款",
+        "onboard_time": 1729516518,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131045,
+        "num": 194243,
+        "word": "刘学义妆造",
+        "onboard_time": 1729517060,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193596,
+        "num": 193596,
+        "word": "情侣夜爬秦岭冰晶顶看云海遇难",
+        "onboard_time": 1729496718,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187450,
+        "num": 187450,
+        "word": "易烊千玺复古红西装",
+        "onboard_time": 1729513098,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177796,
+        "num": 177796,
+        "word": "断崖式降温羽绒服价格不升反降",
+        "onboard_time": 1729514358,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167639,
+        "num": 167639,
+        "word": "男子调戏女生男友上前制止被打",
+        "onboard_time": 1729501337,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161996,
+        "num": 161996,
+        "word": "WTT蒙彼利埃冠军赛赛程",
+        "onboard_time": 1729517181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161413,
+        "num": 161413,
+        "word": "冷冷冷冷北方冷冷冷冷",
+        "onboard_time": 1729498279,
+        "rank": 40,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 147756,
+        "num": 147756,
+        "word": "辽宁盘锦发生海水倒灌致多处被淹",
+        "onboard_time": 1729511479,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145201,
+        "num": 145201,
+        "word": "东北雨姐被禁言",
+        "onboard_time": 1729508479,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140666,
+        "num": 140666,
+        "word": "美妆券",
+        "onboard_time": 1729513277,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137639,
+        "num": 137639,
+        "word": "这一次情报外泄让以色列更尴尬了",
+        "onboard_time": 1729505479,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129572,
+        "num": 129572,
+        "word": "WTT",
+        "onboard_time": 1729513399,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121732,
+        "num": 121732,
+        "word": "卧底催收公司30天",
+        "onboard_time": 1729510879,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113615,
+        "num": 113615,
+        "word": "一起打卡秋天里的中国",
+        "onboard_time": 1729516820,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112019,
+        "num": 112019,
+        "word": "双十一卫生巾活动",
+        "onboard_time": 1729514600,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110196,
+        "num": 110196,
+        "word": "赵露思蝴蝶隐喻",
+        "onboard_time": 1729511540,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖合作大有可为#"
+    }
+  }
+}

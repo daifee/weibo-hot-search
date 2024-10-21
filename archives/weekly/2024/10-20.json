@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729515569481,
+  "endTime": 1729517473802,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1409138,
+      "num": 1409138,
+      "word": "双十一退款",
+      "onboard_time": 1729515260,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1383107,
       "num": 401130,
       "word": "一家三口被撞身亡案司机父亲发声",
@@ -449,6 +457,14 @@
       "onboard_time": 1729416979,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 985437,
+      "num": 507206,
+      "word": "中国军队和武警严防死守中缅边境",
+      "onboard_time": 1729515019,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 983346,
@@ -931,11 +947,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612993,
+      "raw_hot": 615485,
       "num": 462690,
       "word": "东北雨姐的千万大楼贷款没还完",
       "onboard_time": 1729511119,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614842,
+      "num": 343327,
+      "word": "高空抛物致死案男子听到安乐死露笑容",
+      "onboard_time": 1729515559,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1073,6 +1097,14 @@
       "onboard_time": 1729467258,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 551731,
+      "num": 551731,
+      "word": "斐乐 尾款",
+      "onboard_time": 1729514659,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 551715,
@@ -1659,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354895,
+      "num": 316025,
+      "word": "迪丽热巴半扎发型",
+      "onboard_time": 1729513157,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352958,
       "num": 408597,
       "word": "TES好好学",
@@ -1795,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330806,
+      "num": 330806,
+      "word": "外交部回应朝军已进入乌克兰战场",
+      "onboard_time": 1729514959,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 329362,
       "num": 329362,
       "word": "防弹少年团老粉",
@@ -1899,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303790,
+      "num": 350934,
+      "word": "老舅演唱会嘉宾 鹿晗",
+      "onboard_time": 1729515319,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 302085,
       "num": 322752,
       "word": "梁伟铿王昶vs丹麦组合",
@@ -1921,6 +1977,14 @@
       "onboard_time": 1729443615,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297764,
+      "num": 297764,
+      "word": "31岁哈工大女博导秀肌肉招生",
+      "onboard_time": 1729515800,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297600,
@@ -2057,14 +2121,6 @@
       "onboard_time": 1729480100,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 281327,
-      "num": 281327,
-      "word": "中国军队和武警严防死守中缅边境",
-      "onboard_time": 1729515019,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 280893,
@@ -2251,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254020,
-      "num": 218098,
-      "word": "斐乐 尾款",
-      "onboard_time": 1729514659,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 252908,
       "num": 247368,
       "word": "RIIZE被上海硬控",
@@ -2273,14 +2321,6 @@
       "onboard_time": 1729371852,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251986,
-      "num": 251986,
-      "word": "迪丽热巴半扎发型",
-      "onboard_time": 1729513157,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 249916,
@@ -2691,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212810,
+      "num": 331582,
+      "word": "流量下我们需要什么样的网红",
+      "onboard_time": 1729515559,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212204,
       "num": 212204,
       "word": "代号鸢",
@@ -2891,20 +2939,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199993,
-      "num": 199993,
-      "word": "双十一退款",
-      "onboard_time": 1729515260,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 199521,
       "num": 199521,
       "word": "4名初中生因涨潮被困1死1失联",
       "onboard_time": 1729510339,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199135,
+      "num": 199135,
+      "word": "尾款",
+      "onboard_time": 1729516518,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 198367,
@@ -3235,12 +3283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185249,
-      "num": 223541,
-      "word": "老舅演唱会嘉宾 鹿晗",
-      "onboard_time": 1729515319,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 185319,
+      "num": 237551,
+      "word": "赵丽颖提到吴越李沁",
+      "onboard_time": 1729511718,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 185013,
@@ -3523,14 +3571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167736,
-      "num": 167736,
-      "word": "外交部回应朝军已进入乌克兰战场",
-      "onboard_time": 1729514959,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167638,
       "num": 167638,
       "word": "张真源还是不适应应援",
@@ -3617,6 +3657,14 @@
       "onboard_time": 1729485801,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161996,
+      "num": 161996,
+      "word": "WTT蒙彼利埃冠军赛赛程",
+      "onboard_time": 1729517181,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 161546,
@@ -3827,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147756,
+      "num": 403584,
+      "word": "辽宁盘锦发生海水倒灌致多处被淹",
+      "onboard_time": 1729511479,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147651,
       "num": 147651,
       "word": "AG晋级年总淘汰赛",
@@ -3907,14 +3963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145264,
-      "num": 237551,
-      "word": "赵丽颖提到吴越李沁",
-      "onboard_time": 1729511718,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145179,
       "num": 145179,
       "word": "潘展乐换头像",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1729481960,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138390,
-      "num": 403584,
-      "word": "辽宁盘锦发生海水倒灌致多处被淹",
-      "onboard_time": 1729511479,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138246,
@@ -4203,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131045,
+      "num": 194243,
+      "word": "刘学义妆造",
+      "onboard_time": 1729517060,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130941,
       "num": 130941,
       "word": "付航现场公布已婚",
@@ -4387,6 +4435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121732,
+      "num": 286531,
+      "word": "卧底催收公司30天",
+      "onboard_time": 1729510879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121505,
       "num": 121505,
       "word": "哈妮克孜唐代美妆博主",
@@ -4553,6 +4609,14 @@
       "onboard_time": 1729493839,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113615,
+      "num": 113615,
+      "word": "一起打卡秋天里的中国",
+      "onboard_time": 1729516820,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112885,
@@ -5011,14 +5075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74835,
-      "num": 286531,
-      "word": "卧底催收公司30天",
-      "onboard_time": 1729510879,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74003,
       "num": 193816,
       "word": "小西天辟谣保安透露涨薪被辞退",
@@ -5115,6 +5171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 62998,
+      "num": 324583,
+      "word": "西安文旅局回应大学生夜爬秦岭遇难",
+      "onboard_time": 1729515980,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62473,
       "num": 62473,
       "word": "樊振东回应上海男团三连冠",
@@ -5137,6 +5201,14 @@
       "onboard_time": 1729446134,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60860,
+      "num": 336416,
+      "word": "被天猫双11的开幕烟花燃到了",
+      "onboard_time": 1729515619,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 60690,
@@ -5169,6 +5241,14 @@
       "onboard_time": 1729483219,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55732,
+      "num": 340106,
+      "word": "天猫双11美妆买一赠一真5折",
+      "onboard_time": 1729514059,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 54431,
@@ -5451,6 +5531,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37927,
+      "num": 335470,
+      "word": "霸王茶姬上桌了",
+      "onboard_time": 1729516160,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37209,
       "num": 262424,
       "word": "律师谈男子占车位被堵猛踹业主车门",
@@ -5464,6 +5552,14 @@
       "word": "谷子如何成为塑料黄金的",
       "onboard_time": 1729400838,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36484,
+      "num": 330762,
+      "word": "夫妻俩为争夺抚养权竟不让孩子上学",
+      "onboard_time": 1729515919,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -5513,6 +5609,14 @@
       "onboard_time": 1729441337,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33024,
+      "num": 392155,
+      "word": "荣耀Magic7等新品可花呗分期免息",
+      "onboard_time": 1729512797,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 32922,
@@ -5587,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31135,
+      "num": 759918,
+      "word": "又到最美赏秋季",
+      "onboard_time": 1729514659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30375,
       "num": 458730,
       "word": "长春高空抛物致死案物业是否担责",
@@ -5611,14 +5723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27973,
-      "num": 286450,
-      "word": "天猫双11美妆买一赠一真5折",
-      "onboard_time": 1729514059,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 27940,
       "num": 251218,
       "word": "11.11集卡新玩法",
@@ -5641,14 +5745,6 @@
       "onboard_time": 1729484179,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27448,
-      "num": 392155,
-      "word": "荣耀Magic7等新品可花呗分期免息",
-      "onboard_time": 1729512797,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 27424,
@@ -5784,14 +5880,6 @@
       "word": "为重启父被杀案儿子诉母遗弃罪",
       "onboard_time": 1729408518,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22733,
-      "num": 579876,
-      "word": "又到最美赏秋季",
-      "onboard_time": 1729514659,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6108,6 +6196,9 @@
     },
     {
       "word": "#一图了解金砖扩员后首次峰会#"
+    },
+    {
+      "word": "#金砖合作大有可为#"
     }
   ]
 }

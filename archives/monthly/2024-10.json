@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729515569481,
+  "endTime": 1729517473802,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2361,6 +2361,14 @@
       "onboard_time": 1728966982,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1409138,
+      "num": 1409138,
+      "word": "双十一退款",
+      "onboard_time": 1729515260,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 1408701,
@@ -4833,6 +4841,14 @@
       "onboard_time": 1729349543,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 985437,
+      "num": 507206,
+      "word": "中国军队和武警严防死守中缅边境",
+      "onboard_time": 1729515019,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 984783,
@@ -9851,6 +9867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615485,
+      "num": 462690,
+      "word": "东北雨姐的千万大楼贷款没还完",
+      "onboard_time": 1729511119,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615153,
       "num": 296125,
       "word": "Jasper中文名陈昊廷",
@@ -9859,19 +9883,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614842,
+      "num": 343327,
+      "word": "高空抛物致死案男子听到安乐死露笑容",
+      "onboard_time": 1729515559,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613292,
       "num": 507017,
       "word": "博主擅闯哀牢山禁区已违法",
       "onboard_time": 1728307222,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612993,
-      "num": 462690,
-      "word": "东北雨姐的千万大楼贷款没还完",
-      "onboard_time": 1729511119,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -11169,6 +11193,14 @@
       "onboard_time": 1727766137,
       "rank": 24,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 551731,
+      "num": 551731,
+      "word": "斐乐 尾款",
+      "onboard_time": 1729514659,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 551715,
@@ -16963,6 +16995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354895,
+      "num": 316025,
+      "word": "迪丽热巴半扎发型",
+      "onboard_time": 1729513157,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354816,
       "num": 284414,
       "word": "女子深夜高速上突遇逆行车辆",
@@ -18001,6 +18041,14 @@
       "onboard_time": 1728880401,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330806,
+      "num": 330806,
+      "word": "外交部回应朝军已进入乌克兰战场",
+      "onboard_time": 1729514959,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 330789,
@@ -19323,6 +19371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303790,
+      "num": 350934,
+      "word": "老舅演唱会嘉宾 鹿晗",
+      "onboard_time": 1729515319,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 303750,
       "num": 287931,
       "word": "狸花猫 那咋了",
@@ -19689,6 +19745,14 @@
       "onboard_time": 1728036798,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297764,
+      "num": 297764,
+      "word": "31岁哈工大女博导秀肌肉招生",
+      "onboard_time": 1729515800,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297698,
@@ -20985,14 +21049,6 @@
       "onboard_time": 1728307882,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281327,
-      "num": 281327,
-      "word": "中国军队和武警严防死守中缅边境",
-      "onboard_time": 1729515019,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 280979,
@@ -23139,14 +23195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254020,
-      "num": 218098,
-      "word": "斐乐 尾款",
-      "onboard_time": 1729514659,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 253963,
       "num": 253963,
       "word": "樊振东穿上沪队外套了",
@@ -23249,14 +23297,6 @@
       "onboard_time": 1728412811,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251986,
-      "num": 251986,
-      "word": "迪丽热巴半扎发型",
-      "onboard_time": 1729513157,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251945,
@@ -27339,6 +27379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212810,
+      "num": 331582,
+      "word": "流量下我们需要什么样的网红",
+      "onboard_time": 1729515559,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212775,
       "num": 212775,
       "word": "我国庆7天假期belike",
@@ -29763,14 +29811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199993,
-      "num": 199993,
-      "word": "双十一退款",
-      "onboard_time": 1729515260,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 199979,
       "num": 199979,
       "word": "白鹿配音白月梵星",
@@ -29913,6 +29953,14 @@
       "onboard_time": 1729344140,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199135,
+      "num": 199135,
+      "word": "尾款",
+      "onboard_time": 1729516518,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 199102,
@@ -33347,6 +33395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185319,
+      "num": 237551,
+      "word": "赵丽颖提到吴越李沁",
+      "onboard_time": 1729511718,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185278,
       "num": 185278,
       "word": "黄友政4比0敖华磊",
@@ -33361,14 +33417,6 @@
       "onboard_time": 1728684971,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185249,
-      "num": 223541,
-      "word": "老舅演唱会嘉宾 鹿晗",
-      "onboard_time": 1729515319,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 185201,
@@ -36635,14 +36683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167736,
-      "num": 167736,
-      "word": "外交部回应朝军已进入乌克兰战场",
-      "onboard_time": 1729514959,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167735,
       "num": 167735,
       "word": "两民警均索要差旅费",
@@ -37889,6 +37929,14 @@
       "onboard_time": 1729485801,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161996,
+      "num": 161996,
+      "word": "WTT蒙彼利埃冠军赛赛程",
+      "onboard_time": 1729517181,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 161954,
@@ -40987,6 +41035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147756,
+      "num": 403584,
+      "word": "辽宁盘锦发生海水倒灌致多处被淹",
+      "onboard_time": 1729511479,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147726,
       "num": 212755,
       "word": "成都警方通报河道男尸系溺亡",
@@ -41561,14 +41617,6 @@
       "onboard_time": 1728687975,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 145264,
-      "num": 237551,
-      "word": "赵丽颖提到吴越李沁",
-      "onboard_time": 1729511718,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 145179,
@@ -43153,14 +43201,6 @@
       "onboard_time": 1728451519,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138390,
-      "num": 403584,
-      "word": "辽宁盘锦发生海水倒灌致多处被淹",
-      "onboard_time": 1729511479,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138388,
@@ -44785,6 +44825,14 @@
       "onboard_time": 1727764758,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131045,
+      "num": 194243,
+      "word": "刘学义妆造",
+      "onboard_time": 1729517060,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130986,
@@ -46561,6 +46609,14 @@
       "onboard_time": 1728096858,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121732,
+      "num": 286531,
+      "word": "卧底催收公司30天",
+      "onboard_time": 1729510879,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121505,
@@ -53595,14 +53651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74835,
-      "num": 286531,
-      "word": "卧底催收公司30天",
-      "onboard_time": 1729510879,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74730,
       "num": 104391,
       "word": "许昕全锦赛神仙球",
@@ -54899,6 +54947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62998,
+      "num": 324583,
+      "word": "西安文旅局回应大学生夜爬秦岭遇难",
+      "onboard_time": 1729515980,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62940,
       "num": 257967,
       "word": "每年今天都难舍国庆",
@@ -55137,6 +55193,14 @@
       "onboard_time": 1728563541,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60860,
+      "num": 336416,
+      "word": "被天猫双11的开幕烟花燃到了",
+      "onboard_time": 1729515619,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 60784,
@@ -55849,6 +55913,14 @@
       "onboard_time": 1729138105,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55732,
+      "num": 340106,
+      "word": "天猫双11美妆买一赠一真5折",
+      "onboard_time": 1729514059,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 55703,
@@ -58875,6 +58947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37927,
+      "num": 335470,
+      "word": "霸王茶姬上桌了",
+      "onboard_time": 1729516160,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37913,
       "num": 396611,
       "word": "亲历者回忆第一颗原子弹爆炸",
@@ -59168,6 +59248,14 @@
       "word": "这是航天员拍摄的锦绣山河",
       "onboard_time": 1728401000,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36484,
+      "num": 330762,
+      "word": "夫妻俩为争夺抚养权竟不让孩子上学",
+      "onboard_time": 1729515919,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -59963,6 +60051,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 33024,
+      "num": 392155,
+      "word": "荣耀Magic7等新品可花呗分期免息",
+      "onboard_time": 1729512797,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32984,
       "num": 1193593,
       "word": "哪些民生领域这次被国家钱袋子眷顾",
@@ -60441,6 +60537,14 @@
       "onboard_time": 1729071200,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31135,
+      "num": 759918,
+      "word": "又到最美赏秋季",
+      "onboard_time": 1729514659,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31111,
@@ -61115,14 +61219,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 27973,
-      "num": 286450,
-      "word": "天猫双11美妆买一赠一真5折",
-      "onboard_time": 1729514059,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 27940,
       "num": 251218,
       "word": "11.11集卡新玩法",
@@ -61281,14 +61377,6 @@
       "onboard_time": 1728983059,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27448,
-      "num": 392155,
-      "word": "荣耀Magic7等新品可花呗分期免息",
-      "onboard_time": 1729512797,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 27424,
@@ -62305,14 +62393,6 @@
       "onboard_time": 1728496212,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22733,
-      "num": 579876,
-      "word": "又到最美赏秋季",
-      "onboard_time": 1729514659,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22679,
@@ -64812,6 +64892,9 @@
     },
     {
       "word": "#一图了解金砖扩员后首次峰会#"
+    },
+    {
+      "word": "#金砖合作大有可为#"
     }
   ]
 }
