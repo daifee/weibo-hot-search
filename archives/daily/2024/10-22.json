@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729542208985,
+  "endTime": 1729543041342,
   "band_list": [
     {
       "raw_hot": 1034461,
@@ -483,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33443,
+      "raw_hot": 35629,
       "num": 40387,
       "word": "央视揭秘停息挂账骗局",
       "onboard_time": 1729538891,
@@ -515,16 +515,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19697,
-      "num": 19697,
+      "raw_hot": 19902,
+      "num": 19902,
       "word": "亲属回应情侣夜爬秦岭失温遇难",
       "onboard_time": 1729504098,
       "rank": 45,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18739,
-      "num": 18739,
+      "raw_hot": 19262,
+      "num": 19262,
       "word": "米饭千层",
       "onboard_time": 1729538531,
       "rank": 49,
@@ -552,6 +552,14 @@
       "word": "金砖合作大有可为",
       "onboard_time": 1729540750,
       "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13706,
+      "num": 41285,
+      "word": "一图了解金砖扩员后首次峰会",
+      "onboard_time": 1729542432,
+      "rank": 9,
       "category": "国内时政"
     },
     {

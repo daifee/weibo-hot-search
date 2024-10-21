@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729542208985,
+  "endTime": 1729543041342,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -59795,6 +59795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35629,
+      "num": 40387,
+      "word": "央视揭秘停息挂账骗局",
+      "onboard_time": 1729538891,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35601,
       "num": 30536,
       "word": "周深荒芜之地爆改青草地",
@@ -60297,14 +60305,6 @@
       "onboard_time": 1728631101,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 33443,
-      "num": 40387,
-      "word": "央视揭秘停息挂账骗局",
-      "onboard_time": 1729538891,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33410,
@@ -63427,6 +63427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19902,
+      "num": 19902,
+      "word": "亲属回应情侣夜爬秦岭失温遇难",
+      "onboard_time": 1729504098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19880,
       "num": 47777,
       "word": "姜杰一审被判死缓",
@@ -63481,14 +63489,6 @@
       "onboard_time": 1727951239,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19697,
-      "num": 19697,
-      "word": "亲属回应情侣夜爬秦岭失温遇难",
-      "onboard_time": 1729504098,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19691,
@@ -63627,6 +63627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19262,
+      "num": 19262,
+      "word": "米饭千层",
+      "onboard_time": 1729538531,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 19251,
       "num": 244929,
       "word": "港股券商股开盘继续大涨",
@@ -63697,14 +63705,6 @@
       "onboard_time": 1727944279,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 18739,
-      "num": 18739,
-      "word": "米饭千层",
-      "onboard_time": 1729538531,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 18680,
@@ -64505,6 +64505,14 @@
       "onboard_time": 1728956598,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13706,
+      "num": 41285,
+      "word": "一图了解金砖扩员后首次峰会",
+      "onboard_time": 1729542432,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13656,
