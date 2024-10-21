@@ -1,6 +1,6 @@
 {
   "startTime": 1729441556264,
-  "endTime": 1729476247542,
+  "endTime": 1729479470478,
   "band_list": [
     {
       "raw_hot": 2087869,
@@ -9,6 +9,14 @@
       "onboard_time": 1729431504,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1429651,
+      "num": 385603,
+      "word": "旺旺三公子何猷君奚梦瑶同逛迪士尼",
+      "onboard_time": 1729476678,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1296592,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 880856,
-      "num": 470111,
+      "num": 829310,
       "word": "何炅 三十年真心换真心",
       "onboard_time": 1729428681,
       "rank": 11,
@@ -139,6 +147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 511919,
+      "num": 511919,
+      "word": "韩国三星电子决定退出LED业务",
+      "onboard_time": 1729476379,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511042,
       "num": 338407,
       "word": "范伟金鹰视帝",
@@ -171,12 +187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440953,
+      "num": 440953,
+      "word": "男子高空抛物致死案被核准死刑",
+      "onboard_time": 1729477338,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440181,
       "num": 440181,
       "word": "LPR",
       "onboard_time": 1729471939,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 433679,
+      "num": 433679,
+      "word": "加沙人街头遭轰炸有人施救又被炸",
+      "onboard_time": 1729473078,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 419467,
@@ -233,6 +265,14 @@
       "onboard_time": 1729430722,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347815,
+      "num": 347815,
+      "word": "Chovy喊话T1",
+      "onboard_time": 1729477099,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 338700,
@@ -363,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232597,
+      "num": 232597,
+      "word": "北方多地气温已是冬日模式",
+      "onboard_time": 1729476438,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229063,
       "num": 218679,
       "word": "试婚纱让男朋友全程摆臭脸",
@@ -377,6 +425,30 @@
       "onboard_time": 1729430121,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225232,
+      "num": 225232,
+      "word": "巴勒斯坦女艺术家全家遭空袭丧生",
+      "onboard_time": 1729477338,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 218790,
+      "num": 388566,
+      "word": "A股四大利好来袭",
+      "onboard_time": 1729477338,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 215242,
+      "num": 390110,
+      "word": "成都一小区承重柱不达标被拆",
+      "onboard_time": 1729474639,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212834,
@@ -459,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187427,
+      "num": 187427,
+      "word": "李沐宸 恶女小白花",
+      "onboard_time": 1729477818,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184787,
       "num": 184787,
       "word": "警方回应男子篮球场飞踹女孩",
@@ -467,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184615,
-      "num": 184615,
-      "word": "成都一小区承重柱不达标被拆",
-      "onboard_time": 1729474639,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 183788,
+      "num": 183788,
+      "word": "刺痛 敖子逸是被耽误的电竞选手",
+      "onboard_time": 1729478958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 182135,
@@ -539,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154763,
-      "num": 186599,
-      "word": "加沙人街头遭轰炸有人施救又被炸",
-      "onboard_time": 1729473078,
-      "rank": 45,
-      "category": "国外时政"
+      "raw_hot": 159160,
+      "num": 159160,
+      "word": "付航 笑着笑着就哭了",
+      "onboard_time": 1729478118,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 151958,
@@ -691,6 +771,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110054,
+      "num": 110054,
+      "word": "LPR下调能省多少利息",
+      "onboard_time": 1729478058,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 109603,
+      "num": 109603,
+      "word": "警方通报男子站在车上张开双臂骑行",
+      "onboard_time": 1729475959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108758,
+      "num": 108758,
+      "word": "上海3岁男童被虐",
+      "onboard_time": 1729478238,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107751,
       "num": 107751,
       "word": "男子开车将大量海绵倾倒河中",
@@ -705,14 +809,6 @@
       "onboard_time": 1729412779,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107624,
-      "num": 107624,
-      "word": "警方通报男子站在车上张开双臂骑行",
-      "onboard_time": 1729475959,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100949,
@@ -737,6 +833,22 @@
       "onboard_time": 1729418000,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99033,
+      "num": 99033,
+      "word": "上证指数涨0.44%",
+      "onboard_time": 1729479319,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 98340,
+      "num": 98340,
+      "word": "专家称居民存量房贷利息支出明显减少",
+      "onboard_time": 1729478658,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 97905,
@@ -939,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19877,
+      "num": 738637,
+      "word": "何以中国五星出东方",
+      "onboard_time": 1729323379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19836,
       "num": 61888,
       "word": "握紧接力棒走好新时代长征路",
@@ -976,14 +1096,6 @@
       "word": "东北秋天的名场面又来了",
       "onboard_time": 1729449312,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14218,
-      "num": 738637,
-      "word": "何以中国五星出东方",
-      "onboard_time": 1729323379,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
