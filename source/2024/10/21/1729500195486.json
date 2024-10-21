@@ -1,0 +1,410 @@
+{
+  "runTime": 1729500195486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2400219,
+        "num": 2400219,
+        "word": "中国驻缅甸曼德勒总领馆遭爆炸袭击",
+        "onboard_time": 1729497738,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1097945,
+        "num": 1097945,
+        "word": "福州机场",
+        "onboard_time": 1729497018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12670,
+        "num": 1064641,
+        "word": "发现不一样的新疆",
+        "onboard_time": 1729499778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042343,
+        "num": 1042343,
+        "word": "外交部回应中国驻曼德勒总领馆遭袭",
+        "onboard_time": 1729498819,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035539,
+        "num": 1035539,
+        "word": "付航脱口秀 内涵",
+        "onboard_time": 1729498459,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694441,
+        "num": 694441,
+        "word": "宁静谈女演员评奖镜头是流眼泪",
+        "onboard_time": 1729496598,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650379,
+        "num": 650379,
+        "word": "擅自离岗16年国企员工有机会返岗",
+        "onboard_time": 1729495578,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550441,
+        "num": 550441,
+        "word": "王多多回应Ning",
+        "onboard_time": 1729495937,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70645,
+        "num": 550365,
+        "word": "广东一高校1477名新生拟放弃入学",
+        "onboard_time": 1729499179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208984,
+        "num": 542497,
+        "word": "飞福州机场航班备降系空中管制",
+        "onboard_time": 1729499659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221929,
+        "num": 536425,
+        "word": "情侣夜爬秦岭冰晶顶看云海遇难",
+        "onboard_time": 1729496718,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919296,
+        "num": 533082,
+        "word": "iPhone16官方罕见降价1600元",
+        "onboard_time": 1729498337,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 866473,
+        "num": 530072,
+        "word": "黄圣依脖子纹身",
+        "onboard_time": 1729498217,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525144,
+        "num": 525144,
+        "word": "ILLIT aespa",
+        "onboard_time": 1729498878,
+        "rank": 13,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 17178,
+        "num": 492885,
+        "word": "全民疼痛疾病攻略",
+        "onboard_time": 1729498459,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 485963,
+        "num": 485963,
+        "word": "勒布伦摔拍单打成绩被取消",
+        "onboard_time": 1729495458,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461407,
+        "num": 461407,
+        "word": "旺旺三公子 我叫蔡旺庭",
+        "onboard_time": 1729493537,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237125,
+        "num": 460363,
+        "word": "向佐回应医生提醒模仿摸鼻梁有风险",
+        "onboard_time": 1729493297,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575447,
+        "num": 444446,
+        "word": "黄圣依 纯元活着的版本",
+        "onboard_time": 1729479918,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65406,
+        "num": 437830,
+        "word": "奶奶你爱看的秀终于要播了",
+        "onboard_time": 1729499659,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1262474,
+        "num": 431606,
+        "word": "男子想死不敢跳楼高空抛物砸死路人",
+        "onboard_time": 1729488018,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607724,
+        "num": 421828,
+        "word": "家属称听到判决结果眼泪止不住",
+        "onboard_time": 1729485861,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412387,
+        "num": 412387,
+        "word": "Ning开团王多多",
+        "onboard_time": 1729483219,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 336915,
+        "num": 336915,
+        "word": "孟子义剪了短发",
+        "onboard_time": 1729486639,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323914,
+        "num": 323914,
+        "word": "多架飞往福州的航班中途备降",
+        "onboard_time": 1729499238,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203330,
+        "num": 323625,
+        "word": "潘展乐回应腹肌消失问题",
+        "onboard_time": 1729484960,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197911,
+        "num": 321865,
+        "word": "手工耿否认停更是因为挣太多了",
+        "onboard_time": 1729491498,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194967,
+        "num": 319415,
+        "word": "五月天的歌是产房最佳BGM",
+        "onboard_time": 1729499238,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186063,
+        "num": 318452,
+        "word": "赵小童代表十个勤天参加戛纳",
+        "onboard_time": 1729494498,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151221,
+        "num": 316265,
+        "word": "林依晨 爱情里不能当好人",
+        "onboard_time": 1729497497,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316261,
+        "num": 316261,
+        "word": "吉林国企离岗16年员工已返回公司",
+        "onboard_time": 1729492877,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303940,
+        "num": 303940,
+        "word": "洞洞鞋内胆",
+        "onboard_time": 1729497559,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275123,
+        "num": 275123,
+        "word": "冷冷冷冷北方冷冷冷冷",
+        "onboard_time": 1729498279,
+        "rank": 32,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 268132,
+        "num": 268132,
+        "word": "本轮牛市第一个10倍股出现了",
+        "onboard_time": 1729496298,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235397,
+        "num": 235397,
+        "word": "王昭君新皮肤",
+        "onboard_time": 1729495998,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200302,
+        "num": 200302,
+        "word": "姐姐说被高空抛砖砸死的妹妹刚要结婚",
+        "onboard_time": 1729492099,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31590,
+        "num": 180251,
+        "word": "擅自离岗十六年限期返回之后呢",
+        "onboard_time": 1729498158,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172497,
+        "num": 172497,
+        "word": "耳蜗丢失男孩就读学校将赔7成",
+        "onboard_time": 1729482018,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172164,
+        "num": 172164,
+        "word": "哈马斯发布以军一上校被炸死画面",
+        "onboard_time": 1729497860,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162480,
+        "num": 162480,
+        "word": "楼下误以为楼上噪音持刀入室伤人",
+        "onboard_time": 1729492398,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152430,
+        "num": 152430,
+        "word": "中国紧急援助物资飞往黎巴嫩",
+        "onboard_time": 1729493777,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148151,
+        "num": 148151,
+        "word": "赵牧辰 边界感",
+        "onboard_time": 1729488199,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146586,
+        "num": 146586,
+        "word": "赵丽颖获金鹰视后发文",
+        "onboard_time": 1729471281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141711,
+        "num": 141711,
+        "word": "辛巴怒怼叶珂",
+        "onboard_time": 1729467019,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137578,
+        "num": 137578,
+        "word": "这条裙子果然是蓝黑色",
+        "onboard_time": 1729487718,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135050,
+        "num": 135050,
+        "word": "辛巴称有大主播卖学习机赚1000差价",
+        "onboard_time": 1729495279,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132995,
+        "num": 132995,
+        "word": "王弘毅演尾鱼新剧男主",
+        "onboard_time": 1729499059,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 127785,
+        "word": "特朗普去麦当劳炸薯条",
+        "onboard_time": 1729500078,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123739,
+        "num": 123739,
+        "word": "春花焰 假兄妹真情侣",
+        "onboard_time": 1729500078,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122885,
+        "num": 122885,
+        "word": "刘耀文新歌",
+        "onboard_time": 1729499838,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#农民会有更加火热的生活#"
+    }
+  }
+}
