@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729552903884,
+  "endTime": 1729553822221,
   "band_list": [
     {
       "raw_hot": 1034461,
@@ -19,6 +19,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 768546,
+      "num": 932967,
+      "word": "断崖式降温羽绒服价格不升反降",
+      "onboard_time": 1729514358,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755388,
       "num": 755388,
       "word": "福建平潭海域22日进行实弹射击",
@@ -27,23 +35,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 621938,
-      "num": 800916,
-      "word": "断崖式降温羽绒服价格不升反降",
-      "onboard_time": 1729514358,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 583566,
-      "num": 196225,
+      "raw_hot": 672260,
+      "num": 210739,
       "word": "亲属回应情侣夜爬秦岭失温遇难",
       "onboard_time": 1729504098,
       "rank": 45,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548268,
+      "raw_hot": 642316,
       "num": 548268,
       "word": "学校回应1477名新生拟放弃入学",
       "onboard_time": 1729522939,
@@ -52,15 +52,15 @@
     },
     {
       "raw_hot": 525232,
-      "num": 302069,
+      "num": 381914,
       "word": "中国军队和武警严防死守中缅边境",
       "onboard_time": 1729515019,
       "rank": 5,
       "category": "国内时政"
     },
     {
-      "raw_hot": 429547,
-      "num": 269699,
+      "raw_hot": 479034,
+      "num": 299997,
       "word": "东北雨姐贷款1200多万买电商楼",
       "onboard_time": 1729511900,
       "rank": 10,
@@ -75,8 +75,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336911,
-      "num": 296178,
+      "raw_hot": 388451,
+      "num": 388451,
+      "word": "把女儿抛向货车致身亡男子已被执行死刑",
+      "onboard_time": 1729510098,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373054,
+      "num": 373054,
       "word": "外交部回应朝军已进入乌克兰战场",
       "onboard_time": 1729514959,
       "rank": 6,
@@ -139,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217226,
-      "num": 217226,
-      "word": "把女儿抛向货车致身亡男子已被执行死刑",
-      "onboard_time": 1729510098,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 229073,
+      "num": 229073,
+      "word": "这一次情报外泄让以色列更尴尬了",
+      "onboard_time": 1729505479,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 212237,
@@ -171,20 +179,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 196029,
-      "num": 196029,
-      "word": "这一次情报外泄让以色列更尴尬了",
-      "onboard_time": 1729505479,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 194220,
       "num": 194220,
       "word": "APT手势舞",
       "onboard_time": 1729525098,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188826,
+      "num": 188826,
+      "word": "手工耿小店只卖创意设计",
+      "onboard_time": 1729550474,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 187920,
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165668,
+      "num": 165668,
+      "word": "全球水循环有记录以来首次失衡",
+      "onboard_time": 1729531872,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148388,
       "num": 148388,
       "word": "本周最幸运星座",
@@ -227,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145177,
-      "num": 145177,
-      "word": "手工耿小店只卖创意设计",
-      "onboard_time": 1729550474,
-      "rank": 18,
-      "category": "网红"
+      "raw_hot": 141530,
+      "num": 141530,
+      "word": "31岁哈工大女博导秀肌肉招生",
+      "onboard_time": 1729515800,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137625,
@@ -243,12 +259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136968,
-      "num": 136968,
-      "word": "全球水循环有记录以来首次失衡",
-      "onboard_time": 1729531872,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 130913,
+      "num": 130913,
+      "word": "套内69平米的独居小家",
+      "onboard_time": 1729552095,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 124313,
@@ -267,16 +283,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 113451,
-      "num": 113451,
-      "word": "31岁哈工大女博导秀肌肉招生",
-      "onboard_time": 1729515800,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108524,
-      "num": 108524,
+      "raw_hot": 112355,
+      "num": 112355,
       "word": "吃布洛芬止疼不具有成瘾性",
       "onboard_time": 1729547051,
       "rank": 38,
@@ -291,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105143,
+      "num": 105143,
+      "word": "iPhone16哪个型号跌幅最大",
+      "onboard_time": 1729521741,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "易烊千玺复古红西装",
       "onboard_time": 1729513098,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97877,
-      "num": 97877,
-      "word": "iPhone16哪个型号跌幅最大",
-      "onboard_time": 1729521741,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 97328,
@@ -339,6 +347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 90784,
+      "num": 90784,
+      "word": "长期忍受疼痛免疫力会降低",
+      "onboard_time": 1729529418,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89175,
       "num": 89175,
       "word": "冷冷冷冷北方冷冷冷冷",
@@ -363,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82876,
+      "num": 82876,
+      "word": "充完电没拔充电器把家烧了",
+      "onboard_time": 1729553656,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82210,
       "num": 101418,
       "word": "赵丽颖提到吴越李沁",
       "onboard_time": 1729511718,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81799,
-      "num": 81799,
-      "word": "长期忍受疼痛免疫力会降低",
-      "onboard_time": 1729529418,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81403,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71140,
+      "num": 140044,
+      "word": "意见要求提高产业工人经济收入",
+      "onboard_time": 1729528876,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69480,
       "num": 69480,
       "word": "4个动作保护膝盖",
@@ -451,12 +475,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 67215,
-      "num": 67215,
-      "word": "套内69平米的独居小家",
-      "onboard_time": 1729552095,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 68770,
+      "num": 68770,
+      "word": "KPL",
+      "onboard_time": 1729552935,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 64159,
+      "num": 64159,
+      "word": "楼上扔烟头导致楼下居民家起火",
+      "onboard_time": 1729544771,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63565,
@@ -465,14 +497,6 @@
       "onboard_time": 1729503618,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62588,
-      "num": 140044,
-      "word": "意见要求提高产业工人经济收入",
-      "onboard_time": 1729528876,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62431,
@@ -515,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56730,
+      "num": 56730,
+      "word": "秦彻头衔",
+      "onboard_time": 1729553656,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56345,
       "num": 270155,
       "word": "要让产业工人更有职业荣耀",
@@ -523,11 +555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53730,
-      "num": 53730,
-      "word": "楼上扔烟头导致楼下居民家起火",
-      "onboard_time": 1729544771,
-      "rank": 49,
+      "raw_hot": 55511,
+      "num": 300002,
+      "word": "男孩被困在找妈妈和找警察中选择了后者",
+      "onboard_time": 1729553355,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -545,6 +577,14 @@
       "onboard_time": 1729528577,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48459,
+      "num": 48459,
+      "word": "披荆斩棘是场巨大的戒断反应",
+      "onboard_time": 1729553776,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 44829,
