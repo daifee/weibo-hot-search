@@ -1,0 +1,410 @@
+{
+  "runTime": 1729640177811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925904,
+        "num": 950662,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 529214,
+        "num": 529214,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3186,
+        "num": 501748,
+        "word": "一图带你数读金砖",
+        "onboard_time": 1729599618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484514,
+        "num": 484514,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452702,
+        "num": 452702,
+        "word": "俄方回应特朗普涉袭击莫斯科言论",
+        "onboard_time": 1729619293,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401026,
+        "num": 401026,
+        "word": "霜降",
+        "onboard_time": 1729638855,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386306,
+        "num": 386306,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324745,
+        "num": 324745,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253655,
+        "num": 318745,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34120,
+        "num": 310147,
+        "word": "男子被拐38年与家人重逢时跪地痛哭",
+        "onboard_time": 1729639396,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143356,
+        "num": 308382,
+        "word": "警方抓嫖时女子从空调外机坠落身亡",
+        "onboard_time": 1729598179,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325454,
+        "num": 300358,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295537,
+        "num": 295537,
+        "word": "四川警方发布无名尸体认领公告",
+        "onboard_time": 1729612818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289753,
+        "num": 289753,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266510,
+        "num": 266510,
+        "word": "教育局回应学生带饭只能室外用餐",
+        "onboard_time": 1729629370,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266049,
+        "num": 266049,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237514,
+        "num": 237514,
+        "word": "金店撑不住了",
+        "onboard_time": 1729638196,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215750,
+        "num": 215750,
+        "word": "北京前副市长骗取经济学博士学位",
+        "onboard_time": 1729598718,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208664,
+        "num": 208664,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161999,
+        "num": 161999,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2660326,
+        "num": 161975,
+        "word": "放整个杭州肛肠科都很炸裂",
+        "onboard_time": 1729638196,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402668,
+        "num": 161650,
+        "word": "女子孕晚期肚子鼓包像犄角",
+        "onboard_time": 1729638915,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211307,
+        "num": 161275,
+        "word": "15天让头发变钻石",
+        "onboard_time": 1729638134,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193545,
+        "num": 160901,
+        "word": "小学生课间嬉闹致同学受伤谁担责",
+        "onboard_time": 1729626431,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160704,
+        "num": 160704,
+        "word": "中国女子新西兰遇害1年后才找到遗体",
+        "onboard_time": 1729604479,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150944,
+        "num": 150944,
+        "word": "杭州地铁将投运130列无人驾驶列车",
+        "onboard_time": 1729638196,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141301,
+        "num": 141301,
+        "word": "印度网友欢呼的大国工程是中国的",
+        "onboard_time": 1729617614,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116132,
+        "num": 137205,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84834,
+        "num": 136494,
+        "word": "徐志胜 你红你多分点",
+        "onboard_time": 1729599259,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68670,
+        "num": 135997,
+        "word": "赵露思刘宇宁 戏里戏外反差感",
+        "onboard_time": 1729614618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135982,
+        "num": 135982,
+        "word": "中俄领导人会晤",
+        "onboard_time": 1729608980,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130053,
+        "num": 130053,
+        "word": "布林肯刚到以色列空中就响起爆炸声",
+        "onboard_time": 1729624571,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129161,
+        "num": 129161,
+        "word": "文化中国行看霜降节气",
+        "onboard_time": 1729639816,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128463,
+        "num": 128463,
+        "word": "皇马5比2多特蒙德",
+        "onboard_time": 1729638495,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126474,
+        "num": 126474,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123300,
+        "num": 123300,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109096,
+        "num": 109096,
+        "word": "警方通报西安一公务车街头漂移",
+        "onboard_time": 1729607061,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103825,
+        "num": 103825,
+        "word": "纯血鸿蒙",
+        "onboard_time": 1729597399,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 97149,
+        "word": "广东夫妇60秒以上广告报价100万",
+        "onboard_time": 1729620732,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92384,
+        "num": 92384,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91894,
+        "num": 91894,
+        "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
+        "onboard_time": 1729612158,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91276,
+        "num": 91276,
+        "word": "孙颖莎教王楠女儿打乒乓",
+        "onboard_time": 1729602019,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88495,
+        "num": 88495,
+        "word": "商家回应近2万的泰迪裁耳画眼线",
+        "onboard_time": 1729632551,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85499,
+        "num": 85499,
+        "word": "Ale谈369AD凯南",
+        "onboard_time": 1729639816,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82960,
+        "num": 82960,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82805,
+        "num": 82805,
+        "word": "女子入秋骑电动车冻腿找中医放血",
+        "onboard_time": 1729633212,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74858,
+        "num": 74858,
+        "word": "女子遭陌生男子扒衣跑隔壁店求救",
+        "onboard_time": 1729623192,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70058,
+        "num": 70058,
+        "word": "神舟十九号发射",
+        "onboard_time": 1729618573,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67207,
+        "num": 67207,
+        "word": "四川一女主播深夜马路直播被撞",
+        "onboard_time": 1729626312,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37039,
+        "num": 67080,
+        "word": "书墨越秦线",
+        "onboard_time": 1729618993,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国永远是老挝可信赖的朋友和伙伴#"
+    }
+  }
+}
