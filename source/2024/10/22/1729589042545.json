@@ -1,0 +1,410 @@
+{
+  "runTime": 1729589042545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131523,
+        "num": 1181043,
+        "word": "绝密文件间接证实以确实有核武器",
+        "onboard_time": 1729582998,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 889567,
+        "num": 889567,
+        "word": "中印就边境问题达成解决方案",
+        "onboard_time": 1729583958,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6942,
+        "num": 645522,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546863,
+        "num": 546863,
+        "word": "许家印香港豪宅6折急寻买家",
+        "onboard_time": 1729587737,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267195,
+        "num": 267195,
+        "word": "刘雨璠 只是没有被喜欢而已",
+        "onboard_time": 1729584320,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1580529,
+        "num": 266685,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262386,
+        "num": 262386,
+        "word": "国考河南12个岗位无人报名",
+        "onboard_time": 1729571180,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114185,
+        "num": 232957,
+        "word": "三星堆还在不断有新发现",
+        "onboard_time": 1729585218,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220652,
+        "num": 220652,
+        "word": "俄空军战机升空护航",
+        "onboard_time": 1729588339,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90433,
+        "num": 220296,
+        "word": "老弱病残孕谁该优先乘坐",
+        "onboard_time": 1729587737,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759502,
+        "num": 219357,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556713,
+        "num": 218540,
+        "word": "银行回应女子存40多万取款时余额为零",
+        "onboard_time": 1729583719,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488425,
+        "num": 217248,
+        "word": "女子称存40多万取款时余额为零",
+        "onboard_time": 1729584859,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475435,
+        "num": 216344,
+        "word": "向佐回应头像被用来拍照签到",
+        "onboard_time": 1729584679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22263,
+        "num": 215386,
+        "word": "废品站买旧书稿拼凑出女科学家的人生",
+        "onboard_time": 1729588278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413461,
+        "num": 214321,
+        "word": "老人地铁上强行拉拽孕妇要求让座",
+        "onboard_time": 1729580837,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411556,
+        "num": 213739,
+        "word": "哈尔滨市公安局原副局长于涛涉黑",
+        "onboard_time": 1729587978,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71172,
+        "num": 212117,
+        "word": "双11算了一周发现拼多多是真划算",
+        "onboard_time": 1729585998,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 380045,
+        "num": 211340,
+        "word": "肯德基被曝用转基因大豆油",
+        "onboard_time": 1729576399,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6007,
+        "num": 210168,
+        "word": "徐子未cha青你主题曲cha笑了",
+        "onboard_time": 1729588879,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209954,
+        "num": 209954,
+        "word": "神十九船箭组合体垂直转运",
+        "onboard_time": 1729583238,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1045367,
+        "num": 209933,
+        "word": "徒步者曾遇秦岭遇难女孩称看起来吓人",
+        "onboard_time": 1729580478,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482073,
+        "num": 209914,
+        "word": "男子抑郁发作捂死87岁母亲",
+        "onboard_time": 1729570220,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402358,
+        "num": 209884,
+        "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+        "onboard_time": 1729577299,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352568,
+        "num": 209816,
+        "word": "杨子 过年了",
+        "onboard_time": 1729582697,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284559,
+        "num": 209798,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1729580360,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266826,
+        "num": 209764,
+        "word": "马龙说借鉴了莫雷加德的打法",
+        "onboard_time": 1729587438,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28715,
+        "num": 209717,
+        "word": "海底捞抱团大会是什么神秘组织",
+        "onboard_time": 1729585998,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154530,
+        "num": 209680,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115435,
+        "num": 209656,
+        "word": "王者荣耀时代少年团合作新歌",
+        "onboard_time": 1729585519,
+        "rank": 29,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 209640,
+        "num": 209640,
+        "word": "涵艺谈王多多Ning风波",
+        "onboard_time": 1729585937,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199642,
+        "num": 199642,
+        "word": "MAMA阵容",
+        "onboard_time": 1729587679,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186289,
+        "num": 186289,
+        "word": "班上成绩最差的同学写下自己的优点",
+        "onboard_time": 1729567279,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166985,
+        "num": 166985,
+        "word": "绝密文件曝光以色列报复伊朗计划",
+        "onboard_time": 1729588339,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164217,
+        "num": 164217,
+        "word": "杨子 已读乱回",
+        "onboard_time": 1729588278,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162530,
+        "num": 162530,
+        "word": "赵牧辰 不想伤害任何人但伤害所有人",
+        "onboard_time": 1729585158,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162080,
+        "num": 162080,
+        "word": "进口美妆正在向国货看齐",
+        "onboard_time": 1729588097,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158146,
+        "num": 158146,
+        "word": "阎鹤祥 工程师",
+        "onboard_time": 1729581798,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155776,
+        "num": 155776,
+        "word": "美国一幼童开枪打死一名婴儿",
+        "onboard_time": 1729582457,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154032,
+        "num": 154032,
+        "word": "王灿呼吁拒绝专柜隐形歧视",
+        "onboard_time": 1729584440,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153850,
+        "num": 153850,
+        "word": "樊振东ins简介 Swiftie",
+        "onboard_time": 1729574120,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150213,
+        "num": 150213,
+        "word": "小米15",
+        "onboard_time": 1729569499,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140222,
+        "num": 140222,
+        "word": "朝鲜否认出兵援俄",
+        "onboard_time": 1729581619,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139744,
+        "num": 139744,
+        "word": "天津多家肯德基门店被立案调查",
+        "onboard_time": 1729570640,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135636,
+        "num": 135636,
+        "word": "一图读懂金砖从何而来",
+        "onboard_time": 1729568359,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134239,
+        "num": 134239,
+        "word": "沈阳下雪",
+        "onboard_time": 1729588998,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132227,
+        "num": 132227,
+        "word": "为什么衣服穿的越多反而没那么暖和",
+        "onboard_time": 1729578918,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124348,
+        "num": 124348,
+        "word": "一教师因学生丢橡皮被举报",
+        "onboard_time": 1729576939,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123138,
+        "num": 123138,
+        "word": "中部战区运20直冲云霄有多酷炫",
+        "onboard_time": 1729580837,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84858,
+        "num": 121024,
+        "word": "猎罪图鉴2下证",
+        "onboard_time": 1729573701,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平喀山之行#"
+    }
+  }
+}

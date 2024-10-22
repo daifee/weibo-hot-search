@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729586588738,
+  "endTime": 1729589042545,
   "band_list": [
     {
       "raw_hot": 2424806,
@@ -33,6 +33,14 @@
       "onboard_time": 1729576399,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1580529,
+      "num": 266685,
+      "word": "花少 4个人吃9人餐",
+      "onboard_time": 1729587617,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1346249,
@@ -139,6 +147,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 889567,
+      "num": 889567,
+      "word": "中印就边境问题达成解决方案",
+      "onboard_time": 1729583958,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 887708,
       "num": 322705,
       "word": "班上成绩最差的同学写下自己的优点",
@@ -207,14 +223,6 @@
       "num": 755388,
       "word": "福建平潭海域22日进行实弹射击",
       "onboard_time": 1729525220,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 744192,
-      "num": 744192,
-      "word": "中印就边境问题达成解决方案",
-      "onboard_time": 1729583958,
       "rank": 1,
       "category": "国内时政"
     },
@@ -307,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556713,
+      "num": 290395,
+      "word": "银行回应女子存40多万取款时余额为零",
+      "onboard_time": 1729583719,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546863,
+      "num": 546863,
+      "word": "许家印香港豪宅6折急寻买家",
+      "onboard_time": 1729587737,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536470,
       "num": 258509,
       "word": "一个姐姐离婚时发的朋友圈",
@@ -363,19 +387,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 523915,
-      "num": 290395,
-      "word": "银行回应女子存40多万取款时余额为零",
-      "onboard_time": 1729583719,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509492,
       "num": 509492,
       "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
       "onboard_time": 1729532713,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488425,
+      "num": 217248,
+      "word": "女子称存40多万取款时余额为零",
+      "onboard_time": 1729584859,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -393,6 +417,14 @@
       "onboard_time": 1729565478,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475435,
+      "num": 340909,
+      "word": "向佐回应头像被用来拍照签到",
+      "onboard_time": 1729584679,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 434493,
@@ -425,6 +457,14 @@
       "onboard_time": 1729510999,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411556,
+      "num": 213739,
+      "word": "哈尔滨市公安局原副局长于涛涉黑",
+      "onboard_time": 1729587978,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411242,
@@ -537,14 +577,6 @@
       "onboard_time": 1729569800,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340909,
-      "num": 340909,
-      "word": "向佐回应头像被用来拍照签到",
-      "onboard_time": 1729584679,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 337903,
@@ -707,6 +739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 266826,
+      "num": 209764,
+      "word": "马龙说借鉴了莫雷加德的打法",
+      "onboard_time": 1729587438,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263613,
       "num": 245068,
       "word": "王灿呼吁拒绝专柜隐形歧视",
@@ -803,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220652,
+      "num": 220652,
+      "word": "俄空军战机升空护航",
+      "onboard_time": 1729588339,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 218398,
       "num": 314549,
       "word": "夜爬秦岭遇难情侣穿常规外套没背包",
@@ -875,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209954,
+      "num": 306345,
+      "word": "神十九船箭组合体垂直转运",
+      "onboard_time": 1729583238,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208808,
       "num": 208808,
       "word": "韦雪直播三场赚了1个亿",
@@ -921,6 +977,14 @@
       "onboard_time": 1729573281,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199642,
+      "num": 199642,
+      "word": "MAMA阵容",
+      "onboard_time": 1729587679,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 199631,
@@ -1051,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166985,
+      "num": 166985,
+      "word": "绝密文件曝光以色列报复伊朗计划",
+      "onboard_time": 1729588339,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 165668,
       "num": 165668,
       "word": "全球水循环有记录以来首次失衡",
@@ -1064,6 +1136,14 @@
       "word": "心动的信号7",
       "onboard_time": 1729577478,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164217,
+      "num": 164217,
+      "word": "杨子 已读乱回",
+      "onboard_time": 1729588278,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1083,12 +1163,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162080,
+      "num": 162080,
+      "word": "进口美妆正在向国货看齐",
+      "onboard_time": 1729588097,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158279,
       "num": 158279,
       "word": "三星堆的含玉量还在上升",
       "onboard_time": 1729567759,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154530,
+      "num": 209680,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1729588698,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 153850,
@@ -1235,20 +1331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134239,
+      "num": 134239,
+      "word": "沈阳下雪",
+      "onboard_time": 1729588998,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133848,
       "num": 133848,
       "word": "四川一女子马路直播被撞",
       "onboard_time": 1729554498,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133597,
-      "num": 306345,
-      "word": "神十九船箭组合体垂直转运",
-      "onboard_time": 1729583238,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131877,
@@ -1297,14 +1393,6 @@
       "onboard_time": 1729579939,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126452,
-      "num": 126452,
-      "word": "女子称存40多万取款时余额为零",
-      "onboard_time": 1729584859,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125710,
@@ -1369,6 +1457,14 @@
       "onboard_time": 1729498337,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114185,
+      "num": 314521,
+      "word": "三星堆还在不断有新发现",
+      "onboard_time": 1729585218,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113916,
@@ -1515,6 +1611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 90433,
+      "num": 220296,
+      "word": "老弱病残孕谁该优先乘坐",
+      "onboard_time": 1729587737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89175,
       "num": 89175,
       "word": "冷冷冷冷北方冷冷冷冷",
@@ -1611,14 +1715,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 73601,
-      "num": 314521,
-      "word": "三星堆还在不断有新发现",
-      "onboard_time": 1729585218,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72721,
       "num": 191772,
       "word": "力争到2035年培养造就约2000名大国工匠",
@@ -1641,6 +1737,14 @@
       "onboard_time": 1729568419,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71172,
+      "num": 224250,
+      "word": "双11算了一周发现拼多多是真划算",
+      "onboard_time": 1729585998,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 71140,
@@ -1843,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37924,
-      "num": 224250,
-      "word": "双11算了一周发现拼多多是真划算",
-      "onboard_time": 1729585998,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 35658,
       "num": 325261,
       "word": "以物抵债69套房产遭法院查封8年",
@@ -1935,6 +2031,14 @@
       "num": 196402,
       "word": "暗能量探测天籁项目",
       "onboard_time": 1729551314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22263,
+      "num": 215386,
+      "word": "废品站买旧书稿拼凑出女科学家的人生",
+      "onboard_time": 1729588278,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2065,6 +2169,14 @@
       "onboard_time": 1729544831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6007,
+      "num": 210168,
+      "word": "徐子未cha青你主题曲cha笑了",
+      "onboard_time": 1729588879,
+      "rank": 19,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
