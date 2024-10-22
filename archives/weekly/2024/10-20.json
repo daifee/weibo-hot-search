@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729621813001,
+  "endTime": 1729622615054,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -6083,6 +6083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135420,
+      "num": 135420,
+      "word": "俄方回应特朗普涉袭击莫斯科言论",
+      "onboard_time": 1729619293,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 135151,
       "num": 135151,
       "word": "aespa互换发型",
@@ -7643,14 +7651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69963,
-      "num": 69963,
-      "word": "俄方回应特朗普涉袭击莫斯科言论",
-      "onboard_time": 1729619293,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 69480,
       "num": 69480,
       "word": "4个动作保护膝盖",
@@ -8499,6 +8499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35453,
+      "num": 35453,
+      "word": "骗子酒馆",
+      "onboard_time": 1729620913,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35200,
       "num": 358558,
       "word": "红星美凯龙的质保金退着退着成负数",
@@ -8577,6 +8585,14 @@
       "onboard_time": 1729427660,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32788,
+      "num": 32788,
+      "word": "广东夫妇60秒以上广告报价100万",
+      "onboard_time": 1729620732,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 32636,
@@ -8705,14 +8721,6 @@
       "onboard_time": 1729424961,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29003,
-      "num": 29003,
-      "word": "广东夫妇60秒以上广告报价100万",
-      "onboard_time": 1729620732,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 28884,
@@ -8849,14 +8857,6 @@
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 25941,
-      "num": 25941,
-      "word": "骗子酒馆",
-      "onboard_time": 1729620913,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 25438,
@@ -9107,6 +9107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18875,
+      "num": 25163,
+      "word": "书墨越秦线",
+      "onboard_time": 1729618993,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18472,
       "num": 18472,
       "word": "被虐待致死3岁男童生母欲讨公道",
@@ -9353,6 +9361,14 @@
       "onboard_time": 1729402099,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12040,
+      "num": 45082,
+      "word": "18名民辅警10分钟集结为伤者献血",
+      "onboard_time": 1729622172,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11479,
