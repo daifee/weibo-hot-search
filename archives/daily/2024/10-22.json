@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729568576757,
+  "endTime": 1729571263865,
   "band_list": [
     {
       "raw_hot": 1678981,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346249,
+      "num": 336423,
+      "word": "刘宪华说黄磊的饭好吃",
+      "onboard_time": 1729567218,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1301159,
       "num": 316326,
       "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
       "onboard_time": 1729566317,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1268162,
+      "num": 322385,
+      "word": "男子抑郁发作捂死87岁母亲",
+      "onboard_time": 1729570220,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1124917,
@@ -59,12 +75,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 879110,
-      "num": 311754,
-      "word": "刘宪华说黄磊的饭好吃",
-      "onboard_time": 1729567218,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 887708,
+      "num": 314428,
+      "word": "班上成绩最差的同学写下自己的优点",
+      "onboard_time": 1729567279,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 871932,
@@ -97,6 +113,14 @@
       "onboard_time": 1729556597,
       "rank": 41,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 785699,
+      "num": 314512,
+      "word": "翁青雅 不想再谈浪费时间的恋爱",
+      "onboard_time": 1729569198,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 768546,
@@ -147,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636524,
-      "num": 267271,
-      "word": "班上成绩最差的同学写下自己的优点",
-      "onboard_time": 1729567279,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 635055,
       "num": 313211,
       "word": "第一次拿到身份证的他得了第一名",
       "onboard_time": 1729558758,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556946,
+      "num": 556946,
+      "word": "小米15",
+      "onboard_time": 1729569499,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 527208,
@@ -179,6 +203,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 524406,
+      "num": 314404,
+      "word": "不管炒什么肉不要直接下锅炒",
+      "onboard_time": 1729567577,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 515242,
+      "num": 314655,
+      "word": "陈好说中戏喜欢招北舞的学生",
+      "onboard_time": 1729569079,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509492,
       "num": 509492,
       "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
@@ -187,16 +227,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484004,
+      "num": 484004,
+      "word": "美媒将俄两款坦克列入全球最佳前五",
+      "onboard_time": 1729569622,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 478501,
-      "num": 247422,
+      "num": 314291,
       "word": "北京市原副市长高朋被双开",
       "onboard_time": 1729565478,
       "rank": 46,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422376,
+      "num": 422376,
+      "word": "樊振东开通ins账号",
+      "onboard_time": 1729570220,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420206,
-      "num": 246298,
+      "num": 260308,
       "word": "刘志强严重违纪违法被开除党籍",
       "onboard_time": 1729566677,
       "rank": 30,
@@ -209,6 +265,14 @@
       "onboard_time": 1729510999,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411242,
+      "num": 314218,
+      "word": "王多多喊话高振宁",
+      "onboard_time": 1729568900,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 410582,
@@ -228,11 +292,19 @@
     },
     {
       "raw_hot": 379799,
-      "num": 345431,
+      "num": 371374,
       "word": "戚薇切号回歌手身份了",
       "onboard_time": 1729565057,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 374487,
+      "num": 374487,
+      "word": "央视曝光快速致富陷阱",
+      "onboard_time": 1729564817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373054,
@@ -267,20 +339,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 318789,
-      "num": 320366,
-      "word": "央视曝光快速致富陷阱",
-      "onboard_time": 1729564817,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316631,
       "num": 316631,
       "word": "奔跑吧直播",
       "onboard_time": 1729566017,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314035,
+      "num": 314035,
+      "word": "200人帮双非生改简历进大厂",
+      "onboard_time": 1729569800,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306227,
@@ -291,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303083,
+      "num": 303083,
+      "word": "警方回应宝马司机搭讪被拒驾车撞人",
+      "onboard_time": 1729569019,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298543,
       "num": 267535,
       "word": "黄圣依脖子纹身",
       "onboard_time": 1729498217,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292352,
-      "num": 203819,
-      "word": "不管炒什么肉不要直接下锅炒",
-      "onboard_time": 1729567577,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 288478,
@@ -321,6 +393,22 @@
       "onboard_time": 1729555879,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277295,
+      "num": 277295,
+      "word": "出国一年终于实现了狐臭自由",
+      "onboard_time": 1729567938,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 274935,
+      "num": 274935,
+      "word": "王楚钦林诗栋排名前二",
+      "onboard_time": 1729567879,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 272786,
@@ -345,6 +433,14 @@
       "onboard_time": 1729507640,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 250857,
+      "num": 250857,
+      "word": "睡觉有这个习惯的人老得更快",
+      "onboard_time": 1729569440,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245444,
@@ -387,20 +483,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 226532,
-      "num": 226532,
-      "word": "王楚钦林诗栋排名前二",
-      "onboard_time": 1729567879,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224040,
       "num": 320860,
       "word": "权志龙官宣出演MAMA",
       "onboard_time": 1729557439,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221195,
+      "num": 314136,
+      "word": "沈腾像极了回村吃席的我",
+      "onboard_time": 1729570039,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 213770,
@@ -419,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212081,
+      "num": 212081,
+      "word": "公司称东北雨姐不是永久禁言",
+      "onboard_time": 1729570879,
+      "rank": 42,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 211385,
       "num": 211385,
       "word": "双十一 抄作业",
@@ -435,12 +539,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 205722,
+      "num": 205722,
+      "word": "一图读懂金砖从何而来",
+      "onboard_time": 1729568359,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 204273,
+      "num": 314067,
+      "word": "藤井风巡演",
+      "onboard_time": 1729570999,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199631,
       "num": 199631,
       "word": "以军被曝强迫加沙平民作人肉盾牌",
       "onboard_time": 1729565958,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 199225,
+      "num": 199225,
+      "word": "王昭君周年庆皮肤动画",
+      "onboard_time": 1729570220,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 195788,
@@ -465,6 +593,14 @@
       "onboard_time": 1729550474,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 188340,
+      "num": 188340,
+      "word": "张真源藏服",
+      "onboard_time": 1729569379,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 187920,
@@ -523,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163937,
+      "num": 314844,
+      "word": "罗慎远这不是求婚是什么",
+      "onboard_time": 1729570101,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158279,
       "num": 158279,
       "word": "三星堆的含玉量还在上升",
       "onboard_time": 1729567759,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154585,
-      "num": 154585,
-      "word": "出国一年终于实现了狐臭自由",
-      "onboard_time": 1729567938,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 153850,
@@ -611,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135181,
-      "num": 135181,
-      "word": "一图读懂金砖从何而来",
-      "onboard_time": 1729568359,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 134739,
       "num": 222382,
       "word": "披荆斩棘是场巨大的戒断反应",
@@ -651,6 +779,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 129892,
+      "num": 184787,
+      "word": "春花焰男织女耕",
+      "onboard_time": 1729569680,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124313,
       "num": 124313,
       "word": "韩国总统与北约秘书长通话",
@@ -681,6 +817,14 @@
       "onboard_time": 1729565297,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117225,
+      "num": 340608,
+      "word": "天津多家肯德基门店被立案调查",
+      "onboard_time": 1729570640,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116537,
@@ -827,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78586,
+      "num": 279319,
+      "word": "吴宇恒剧透和董思怡浪漫到天亮",
+      "onboard_time": 1729569919,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77940,
       "num": 77940,
       "word": "研究发现晚上更容易冲动消费",
@@ -923,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65113,
+      "num": 314785,
+      "word": "我要不要上车啊",
+      "onboard_time": 1729566736,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64159,
       "num": 64159,
       "word": "楼上扔烟头导致楼下居民家起火",
@@ -1011,19 +1171,35 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52373,
-      "num": 273188,
-      "word": "我要不要上车啊",
-      "onboard_time": 1729566736,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 44829,
       "num": 44829,
       "word": "央视揭秘停息挂账骗局",
       "onboard_time": 1729538891,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41770,
+      "num": 351489,
+      "word": "中小学英语教材改版有师生反映变难",
+      "onboard_time": 1729571240,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31391,
+      "num": 314726,
+      "word": "手机CPU的巅峰时刻",
+      "onboard_time": 1729568058,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 30478,
+      "num": 314589,
+      "word": "复古相机成年轻人的新理财",
+      "onboard_time": 1729569800,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1036,11 +1212,19 @@
     },
     {
       "raw_hot": 26820,
-      "num": 272868,
+      "num": 314752,
       "word": "长安启源E07免费上门试驾",
       "onboard_time": 1729566797,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23819,
+      "num": 314913,
+      "word": "律师解读宣判后余华英还能否上诉",
+      "onboard_time": 1729570280,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23172,
@@ -1065,14 +1249,6 @@
       "onboard_time": 1729534632,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19651,
-      "num": 154694,
-      "word": "手机CPU的巅峰时刻",
-      "onboard_time": 1729568058,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 19262,
