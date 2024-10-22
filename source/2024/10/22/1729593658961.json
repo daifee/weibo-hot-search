@@ -1,0 +1,410 @@
+{
+  "runTime": 1729593658961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096203,
+        "num": 1175392,
+        "word": "广东夫妇邀请公证员监督直播间红包补贴发放",
+        "onboard_time": 1729591339,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960927,
+        "num": 960927,
+        "word": "绝密文件间接证实以确实有核武器",
+        "onboard_time": 1729582998,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4274,
+        "num": 677050,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649583,
+        "num": 649583,
+        "word": "许家印香港豪宅6折急寻买家",
+        "onboard_time": 1729587737,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529123,
+        "num": 529123,
+        "word": "张艺谋称黑神话剧本非常好",
+        "onboard_time": 1729589539,
+        "rank": 4,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 494521,
+        "num": 494521,
+        "word": "中印就边境问题达成解决方案",
+        "onboard_time": 1729583958,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347999,
+        "num": 347999,
+        "word": "俄空军战机升空护航",
+        "onboard_time": 1729588339,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46975,
+        "num": 295427,
+        "word": "三星堆还在不断有新发现",
+        "onboard_time": 1729585218,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292041,
+        "num": 292041,
+        "word": "官方回应女子存40多万取款余额为零",
+        "onboard_time": 1729591878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207952,
+        "num": 289450,
+        "word": "花少",
+        "onboard_time": 1729591998,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2003598,
+        "num": 285356,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1229882,
+        "num": 279256,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903063,
+        "num": 271038,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184427,
+        "num": 264979,
+        "word": "俄罗斯礼兵在机场列队致敬",
+        "onboard_time": 1729592177,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 870896,
+        "num": 263154,
+        "word": "女子称存40多万取款时余额为零",
+        "onboard_time": 1729584859,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708879,
+        "num": 257389,
+        "word": "东北雨姐徒弟现状",
+        "onboard_time": 1729590318,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 693011,
+        "num": 252579,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684426,
+        "num": 246253,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242746,
+        "num": 242746,
+        "word": "马龙说借鉴了莫雷加德的打法",
+        "onboard_time": 1729587438,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29729,
+        "num": 242511,
+        "word": "电单车自燃致13辆旁车受损",
+        "onboard_time": 1729591878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669200,
+        "num": 240219,
+        "word": "哈尔滨市公安局原副局长于涛涉黑",
+        "onboard_time": 1729587978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594039,
+        "num": 236924,
+        "word": "再见爱人 窒息",
+        "onboard_time": 1729591878,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409430,
+        "num": 236514,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382195,
+        "num": 234020,
+        "word": "徒步者曾遇秦岭遇难女孩称看起来吓人",
+        "onboard_time": 1729580478,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314687,
+        "num": 232406,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310989,
+        "num": 229085,
+        "word": "宋茜 我的梦中情姐",
+        "onboard_time": 1729591579,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308130,
+        "num": 226907,
+        "word": "老人地铁上强行拉拽孕妇要求让座",
+        "onboard_time": 1729580837,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265962,
+        "num": 224477,
+        "word": "金晨 人尴尬的时候会假装很忙",
+        "onboard_time": 1729592598,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175099,
+        "num": 223471,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222425,
+        "num": 222425,
+        "word": "绝密文件曝光以色列报复伊朗计划",
+        "onboard_time": 1729588339,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211761,
+        "num": 211761,
+        "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+        "onboard_time": 1729577299,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201191,
+        "num": 201191,
+        "word": "Ale爆料Jiejie离队",
+        "onboard_time": 1729589239,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198403,
+        "num": 198403,
+        "word": "博主要求进入哀牢山颜料师公开道歉",
+        "onboard_time": 1729589839,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186996,
+        "num": 186996,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1729580360,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63329,
+        "num": 185438,
+        "word": "揭秘荣耀高通联合研发AI黑科技",
+        "onboard_time": 1729593139,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184424,
+        "num": 184424,
+        "word": "肯德基被曝用转基因大豆油",
+        "onboard_time": 1729576399,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59944,
+        "num": 169342,
+        "word": "太平洋咖啡大规模关店",
+        "onboard_time": 1729591639,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167402,
+        "num": 167402,
+        "word": "神十九船箭组合体垂直转运",
+        "onboard_time": 1729583238,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161128,
+        "num": 161128,
+        "word": "广东夫妇回应要求品牌方涨价",
+        "onboard_time": 1729589839,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136419,
+        "num": 155953,
+        "word": "刘雨璠 只是没有被喜欢而已",
+        "onboard_time": 1729584320,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152449,
+        "num": 152449,
+        "word": "为什么衣服穿的越多反而没那么暖和",
+        "onboard_time": 1729578918,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149305,
+        "num": 149305,
+        "word": "杨子 已读乱回",
+        "onboard_time": 1729588278,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147044,
+        "num": 147044,
+        "word": "沈阳下雪",
+        "onboard_time": 1729588998,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 144439,
+        "word": "传大众汽车中国首席营销官被驱逐出境",
+        "onboard_time": 1729591819,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 143810,
+        "word": "樊振东与网坛四巨头合影",
+        "onboard_time": 1729591458,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143505,
+        "num": 143505,
+        "word": "男子抑郁发作捂死87岁母亲",
+        "onboard_time": 1729570220,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130968,
+        "num": 130968,
+        "word": "樊振东ins全是网球",
+        "onboard_time": 1729592299,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129889,
+        "num": 129889,
+        "word": "MAMA阵容",
+        "onboard_time": 1729587679,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125495,
+        "num": 125495,
+        "word": "孩子掉小区化粪池爷爷施救不幸身亡",
+        "onboard_time": 1729593199,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123751,
+        "num": 123751,
+        "word": "阴阳师",
+        "onboard_time": 1729591219,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京出席金砖国家领导人会晤#"
+    }
+  }
+}
