@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729624804248,
+  "endTime": 1729625812420,
   "band_list": [
     {
       "raw_hot": 1579903,
@@ -483,8 +483,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 30534,
-      "num": 30534,
+      "raw_hot": 32333,
+      "num": 32332,
       "word": "女子遭陌生男子扒衣跑隔壁店求救",
       "onboard_time": 1729623192,
       "rank": 30,
@@ -497,6 +497,14 @@
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28288,
+      "num": 41182,
+      "word": "布林肯刚到以色列空中就响起爆炸声",
+      "onboard_time": 1729624571,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 24957,
@@ -523,7 +531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17550,
+      "raw_hot": 18039,
       "num": 23920,
       "word": "双十一攻略",
       "onboard_time": 1729619532,
@@ -537,14 +545,6 @@
       "onboard_time": 1729622172,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11216,
-      "num": 36239,
-      "word": "布林肯刚到以色列空中就响起爆炸声",
-      "onboard_time": 1729624571,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 9705,

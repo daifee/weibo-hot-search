@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729624804248,
+  "endTime": 1729625812420,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -8619,6 +8619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 32333,
+      "num": 32332,
+      "word": "女子遭陌生男子扒衣跑隔壁店求救",
+      "onboard_time": 1729623192,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31794,
       "num": 122235,
       "word": "不能让界碑移动哪怕一毫米是他们家训",
@@ -8680,14 +8688,6 @@
       "word": "又到最美赏秋季",
       "onboard_time": 1729514659,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30534,
-      "num": 30534,
-      "word": "女子遭陌生男子扒衣跑隔壁店求救",
-      "onboard_time": 1729623192,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -8769,6 +8769,14 @@
       "onboard_time": 1729578378,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28288,
+      "num": 41182,
+      "word": "布林肯刚到以色列空中就响起爆炸声",
+      "onboard_time": 1729624571,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 28054,
@@ -9163,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18039,
+      "num": 23920,
+      "word": "双十一攻略",
+      "onboard_time": 1729619532,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 17909,
       "num": 140236,
       "word": "深圳一楼盘超10倍认筹刷新3年记录",
@@ -9177,14 +9193,6 @@
       "onboard_time": 1729454890,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17550,
-      "num": 23920,
-      "word": "双十一攻略",
-      "onboard_time": 1729619532,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 17532,
@@ -9401,14 +9409,6 @@
       "onboard_time": 1729544831,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11216,
-      "num": 36239,
-      "word": "布林肯刚到以色列空中就响起爆炸声",
-      "onboard_time": 1729624571,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 10544,
