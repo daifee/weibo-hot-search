@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729610647978,
+  "endTime": 1729611534809,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -5963,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885415,
+      "num": 885415,
+      "word": "微信内测查删单向好友功能",
+      "onboard_time": 1729610540,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 884958,
       "num": 430183,
       "word": "朱珠真是风情万种",
@@ -9203,6 +9211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 665898,
+      "num": 415237,
+      "word": "00后女警被审讯对象气到捶墙",
+      "onboard_time": 1729607480,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665681,
       "num": 363445,
       "word": "邱贻可 下一站已出发",
@@ -9617,14 +9633,6 @@
       "onboard_time": 1728087016,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 643009,
-      "num": 415237,
-      "word": "00后女警被审讯对象气到捶墙",
-      "onboard_time": 1729607480,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 642796,
@@ -13235,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492352,
+      "num": 492352,
+      "word": "中俄领导人会晤",
+      "onboard_time": 1729608980,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 492305,
       "num": 358257,
       "word": "湖南一纪委干部在工作地坠楼身亡",
@@ -15409,14 +15425,6 @@
       "onboard_time": 1728614657,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416712,
-      "num": 416712,
-      "word": "中俄领导人会晤",
-      "onboard_time": 1729608980,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 416302,
@@ -22905,14 +22913,6 @@
       "onboard_time": 1728555077,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269295,
-      "num": 269295,
-      "word": "微信内测查删单向好友功能",
-      "onboard_time": 1729610540,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 268993,
@@ -54619,6 +54619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 85390,
+      "num": 85390,
+      "word": "这不是纱这是中国瓷器",
+      "onboard_time": 1729610720,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 85237,
       "num": 196848,
       "word": "文物专家从要扔的废纸里抢回国宝",
@@ -56321,6 +56329,14 @@
       "onboard_time": 1728468979,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72055,
+      "num": 399536,
+      "word": "美国飞行员航展现场遇难",
+      "onboard_time": 1729610658,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72053,
@@ -58265,6 +58281,14 @@
       "onboard_time": 1729553656,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56720,
+      "num": 401231,
+      "word": "官方回应小学生坠井身亡",
+      "onboard_time": 1729609521,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56707,
@@ -62255,14 +62279,6 @@
       "num": 41160,
       "word": "烟卡正威胁孩子健康",
       "onboard_time": 1728673152,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35212,
-      "num": 401231,
-      "word": "官方回应小学生坠井身亡",
-      "onboard_time": 1729609521,
       "rank": 14,
       "category": "社会新闻"
     },
