@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729600977569,
+  "endTime": 1729601960166,
   "band_list": [
     {
       "raw_hot": 2424806,
@@ -192,6 +192,14 @@
       "word": "喝奶的年纪就拥有了植物专家的水准",
       "onboard_time": 1729556297,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003131,
+      "num": 1003131,
+      "word": "战狼还是拍保守了",
+      "onboard_time": 1729600700,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476221,
+      "num": 476221,
+      "word": "徐志胜 你红你多分点",
+      "onboard_time": 1729599259,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475435,
       "num": 340909,
       "word": "向佐回应头像被用来拍照签到",
@@ -625,14 +641,6 @@
       "onboard_time": 1729581798,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394313,
-      "num": 394313,
-      "word": "徐志胜 你红你多分点",
-      "onboard_time": 1729599259,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 388451,
@@ -755,6 +763,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 331542,
+      "num": 331542,
+      "word": "陈好说短时间内不会再参加真人秀",
+      "onboard_time": 1729601240,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331377,
       "num": 331377,
       "word": "刘冲 新东方",
@@ -769,6 +785,14 @@
       "onboard_time": 1729566617,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 326399,
+      "num": 361576,
+      "word": "心动的信号",
+      "onboard_time": 1729599738,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 323353,
@@ -825,6 +849,14 @@
       "onboard_time": 1729498217,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294598,
+      "num": 294598,
+      "word": "nova13",
+      "onboard_time": 1729600519,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 292041,
@@ -939,14 +971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 270433,
-      "num": 353144,
-      "word": "心动的信号",
-      "onboard_time": 1729599738,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268046,
       "num": 324580,
       "word": "张凯丽发文祝贺赵丽颖",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1729589239,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 238809,
+      "num": 238809,
+      "word": "等等说孙俪头发的长度刚好",
+      "onboard_time": 1729601539,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234373,
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219831,
+      "num": 219831,
+      "word": "08年女高中生的课间十分钟",
+      "onboard_time": 1729598238,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219347,
       "num": 219347,
       "word": "黎深 魅魔与社畜",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1729571661,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213966,
+      "num": 213966,
+      "word": "警方抓嫖时女子从空调外机坠落身亡",
+      "onboard_time": 1729598179,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213770,
@@ -1251,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200814,
-      "num": 200814,
-      "word": "警方抓嫖时女子从空调外机坠落身亡",
-      "onboard_time": 1729598179,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200723,
       "num": 200723,
       "word": "纯血鸿蒙 自主可控",
@@ -1291,12 +1331,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 197557,
-      "num": 232332,
-      "word": "战狼还是拍保守了",
-      "onboard_time": 1729600700,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 199140,
+      "num": 199140,
+      "word": "鸿蒙OS5.0发布",
+      "onboard_time": 1729600459,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 196981,
@@ -1315,20 +1355,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 195431,
+      "num": 195431,
+      "word": "再见爱人4问题最大的夫妻",
+      "onboard_time": 1729601120,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194220,
       "num": 194220,
       "word": "APT手势舞",
       "onboard_time": 1729525098,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191587,
-      "num": 191587,
-      "word": "nova13",
-      "onboard_time": 1729600519,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 188826,
@@ -1355,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186645,
+      "num": 186645,
+      "word": "逆水寒手游国色头像",
+      "onboard_time": 1729600940,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185964,
       "num": 185964,
       "word": "广东夫妇回应要求品牌方涨价",
@@ -1379,14 +1427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 183292,
-      "num": 183292,
-      "word": "鸿蒙OS5.0发布",
-      "onboard_time": 1729600459,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 180992,
       "num": 180992,
       "word": "孙悟空维基百科词条被改为印度神",
@@ -1403,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179563,
-      "num": 179563,
-      "word": "08年女高中生的课间十分钟",
-      "onboard_time": 1729598238,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177474,
       "num": 244038,
       "word": "金晨怎么能松弛成这样",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1729552335,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174940,
+      "num": 174940,
+      "word": "绘旅人 尔木萄",
+      "onboard_time": 1729601660,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 174272,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1729537512,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168861,
+      "num": 168861,
+      "word": "高雅cp空降超话",
+      "onboard_time": 1729601840,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 168842,
@@ -1531,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157786,
+      "num": 157786,
+      "word": "金价涨了又涨金饰卖不动了",
+      "onboard_time": 1729599080,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156969,
       "num": 156969,
       "word": "传大众汽车中国首席营销官被驱逐出境",
@@ -1553,6 +1609,22 @@
       "onboard_time": 1729596618,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155162,
+      "num": 155162,
+      "word": "纯血鸿蒙真细节狂魔",
+      "onboard_time": 1729601899,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 155029,
+      "num": 155029,
+      "word": "建议发行2万亿国债设立平准基金",
+      "onboard_time": 1729600400,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 154524,
@@ -1587,20 +1659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152470,
-      "num": 152470,
-      "word": "逆水寒手游国色头像",
-      "onboard_time": 1729600940,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151349,
       "num": 151349,
       "word": "樊振东ins全是网球",
       "onboard_time": 1729592299,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149934,
+      "num": 354152,
+      "word": "原三只羊员工加盟听泉鉴宝",
+      "onboard_time": 1729601600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149834,
@@ -1715,12 +1787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138997,
+      "num": 169170,
+      "word": "当兵真的可以改变一个人的气场",
+      "onboard_time": 1729599321,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 137625,
       "num": 171908,
       "word": "老舅演唱会嘉宾 鹿晗",
       "onboard_time": 1729515319,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135589,
+      "num": 300576,
+      "word": "何广智 给我个面子",
+      "onboard_time": 1729600579,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 135120,
@@ -2091,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79580,
+      "num": 301072,
+      "word": "黑话和烂梗包围中小学生",
+      "onboard_time": 1729598659,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78586,
       "num": 322455,
       "word": "吴宇恒剧透和董思怡浪漫到天亮",
@@ -2152,14 +2248,6 @@
       "word": "这种疼痛好多人都挂错科室了",
       "onboard_time": 1729521439,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71975,
-      "num": 301072,
-      "word": "黑话和烂梗包围中小学生",
-      "onboard_time": 1729598659,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2331,12 +2419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53925,
-      "num": 300576,
-      "word": "何广智 给我个面子",
-      "onboard_time": 1729600579,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 53280,
+      "num": 234889,
+      "word": "nova13洛登绿",
+      "onboard_time": 1729599438,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 53042,
@@ -2387,20 +2475,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 38755,
-      "num": 234889,
-      "word": "nova13洛登绿",
-      "onboard_time": 1729599438,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 38658,
       "num": 310987,
       "word": "高空抛物判死刑法律没有宽宥余地",
       "onboard_time": 1729585578,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38459,
+      "num": 947277,
+      "word": "1分钟认识千年古城喀山",
+      "onboard_time": 1729600639,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37852,
@@ -2419,12 +2507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37643,
+      "num": 309508,
+      "word": "余承东称鸿蒙而今迈步从头越",
+      "onboard_time": 1729600760,
+      "rank": 44,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 37499,
       "num": 221854,
       "word": "徐子未cha青你主题曲cha笑了",
       "onboard_time": 1729588879,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36251,
+      "num": 356417,
+      "word": "黄河清流飞瀑映生态治理奇迹",
+      "onboard_time": 1729600459,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35658,
@@ -2441,6 +2545,14 @@
       "onboard_time": 1729595119,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34589,
+      "num": 199294,
+      "word": "纯血鸿蒙应用100%来源可靠",
+      "onboard_time": 1729601360,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 33206,
@@ -2491,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29303,
+      "num": 233883,
+      "word": "纯血鸿蒙打造全新系统级AI",
+      "onboard_time": 1729599438,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28884,
       "num": 234068,
       "word": "废品站买旧书稿拼凑出女科学家的人生",
@@ -2515,12 +2635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28064,
-      "num": 233883,
-      "word": "纯血鸿蒙打造全新系统级AI",
-      "onboard_time": 1729599438,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 28054,
+      "num": 199529,
+      "word": "谁懂看上捞面锦标赛了",
+      "onboard_time": 1729600579,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 27822,
@@ -2529,14 +2649,6 @@
       "onboard_time": 1729585460,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27677,
-      "num": 175934,
-      "word": "余承东称鸿蒙而今迈步从头越",
-      "onboard_time": 1729600760,
-      "rank": 44,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 26820,
@@ -2571,14 +2683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22706,
-      "num": 178111,
-      "word": "谁懂看上捞面锦标赛了",
-      "onboard_time": 1729600579,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 21923,
       "num": 33420,
       "word": "刘耀文新歌SUGAR预告海报",
@@ -2601,14 +2705,6 @@
       "onboard_time": 1729534632,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20194,
-      "num": 353924,
-      "word": "黄河清流飞瀑映生态治理奇迹",
-      "onboard_time": 1729600459,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19262,
@@ -2723,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12233,
-      "num": 405806,
-      "word": "1分钟认识千年古城喀山",
-      "onboard_time": 1729600639,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11479,
       "num": 35749,
       "word": "高原实弹演练震撼瞬间",
@@ -2760,6 +2848,9 @@
     },
     {
       "word": "#习近平主席抵达喀山受到热烈欢迎#"
+    },
+    {
+      "word": "#习近平抵达俄罗斯喀山#"
     }
   ]
 }
