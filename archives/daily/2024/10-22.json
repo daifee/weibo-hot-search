@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729589042545,
+  "endTime": 1729589890306,
   "band_list": [
     {
       "raw_hot": 2424806,
@@ -9,6 +9,14 @@
       "onboard_time": 1729570220,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2014108,
+      "num": 266685,
+      "word": "花少 4个人吃9人餐",
+      "onboard_time": 1729587617,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1735708,
@@ -33,14 +41,6 @@
       "onboard_time": 1729576399,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1580529,
-      "num": 266685,
-      "word": "花少 4个人吃9人餐",
-      "onboard_time": 1729587617,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1346249,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 871930,
+      "num": 239027,
+      "word": "哈尔滨市公安局原副局长于涛涉黑",
+      "onboard_time": 1729587978,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870809,
       "num": 1139329,
       "word": "张凯丽把颁奖手卡给了赵丽颖",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760140,
+      "num": 236807,
+      "word": "女子称存40多万取款时余额为零",
+      "onboard_time": 1729584859,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755388,
       "num": 755388,
       "word": "福建平潭海域22日进行实弹射击",
@@ -240,6 +256,14 @@
       "word": "南京200斤梅花鹿闯进稻田撞伤村民",
       "onboard_time": 1729562238,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682456,
+      "num": 682456,
+      "word": "许家印香港豪宅6折急寻买家",
+      "onboard_time": 1729587737,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546863,
-      "num": 546863,
-      "word": "许家印香港豪宅6折急寻买家",
-      "onboard_time": 1729587737,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536470,
       "num": 258509,
       "word": "一个姐姐离婚时发的朋友圈",
@@ -395,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488425,
-      "num": 217248,
-      "word": "女子称存40多万取款时余额为零",
-      "onboard_time": 1729584859,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484004,
       "num": 484004,
       "word": "美媒将俄两款坦克列入全球最佳前五",
@@ -425,6 +433,14 @@
       "onboard_time": 1729584679,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437386,
+      "num": 437386,
+      "word": "俄空军战机升空护航",
+      "onboard_time": 1729588339,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 434493,
@@ -457,14 +473,6 @@
       "onboard_time": 1729510999,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411556,
-      "num": 213739,
-      "word": "哈尔滨市公安局原副局长于涛涉黑",
-      "onboard_time": 1729587978,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411242,
@@ -601,6 +609,14 @@
       "onboard_time": 1729566617,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 322769,
+      "num": 176856,
+      "word": "花少 荣梓杉",
+      "onboard_time": 1729589058,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 316631,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 266826,
-      "num": 209764,
+      "num": 247412,
       "word": "马龙说借鉴了莫雷加德的打法",
       "onboard_time": 1729587438,
       "rank": 26,
@@ -779,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233031,
+      "num": 233031,
+      "word": "Ale爆料Jiejie离队",
+      "onboard_time": 1729589239,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231681,
       "num": 272642,
       "word": "周星驰发文庆祝付航夺冠",
@@ -793,6 +817,14 @@
       "onboard_time": 1729578918,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230479,
+      "num": 209680,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1729588698,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 229073,
@@ -843,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220652,
-      "num": 220652,
-      "word": "俄空军战机升空护航",
-      "onboard_time": 1729588339,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218398,
       "num": 314549,
       "word": "夜爬秦岭遇难情侣穿常规外套没背包",
@@ -865,6 +889,14 @@
       "onboard_time": 1729571240,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217237,
+      "num": 199642,
+      "word": "MAMA阵容",
+      "onboard_time": 1729587679,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 217076,
@@ -963,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201131,
+      "num": 201131,
+      "word": "沈阳下雪",
+      "onboard_time": 1729588998,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200455,
       "num": 200455,
       "word": "一教师因学生丢橡皮被举报",
@@ -977,14 +1017,6 @@
       "onboard_time": 1729573281,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199642,
-      "num": 199642,
-      "word": "MAMA阵容",
-      "onboard_time": 1729587679,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 199631,
@@ -1075,6 +1107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176881,
+      "num": 176881,
+      "word": "张艺谋称黑神话剧本非常好",
+      "onboard_time": 1729589539,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176288,
+      "num": 241003,
+      "word": "绝密文件曝光以色列报复伊朗计划",
+      "onboard_time": 1729588339,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 175547,
       "num": 175547,
       "word": "小孩哥教科书式报警救自己",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1729517901,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166985,
-      "num": 166985,
-      "word": "绝密文件曝光以色列报复伊朗计划",
-      "onboard_time": 1729588339,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 165668,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1729567759,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154530,
-      "num": 209680,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1729588698,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 153850,
@@ -1275,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142269,
+      "num": 220296,
+      "word": "老弱病残孕谁该优先乘坐",
+      "onboard_time": 1729587737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141831,
       "num": 141831,
       "word": "星期日大招",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1729553776,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134239,
-      "num": 134239,
-      "word": "沈阳下雪",
-      "onboard_time": 1729588998,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133848,
@@ -1419,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123349,
+      "num": 123349,
+      "word": "博主要求进入哀牢山颜料师公开道歉",
+      "onboard_time": 1729589839,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "丈夫谈及烧伤妻子满眼泪水",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1729564458,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121352,
+      "num": 121352,
+      "word": "广东夫妇回应要求品牌方涨价",
+      "onboard_time": 1729589839,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 119110,
@@ -1611,12 +1659,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 90433,
-      "num": 220296,
-      "word": "老弱病残孕谁该优先乘坐",
-      "onboard_time": 1729587737,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 90231,
+      "num": 230927,
+      "word": "双11算了一周发现拼多多是真划算",
+      "onboard_time": 1729585998,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 89175,
@@ -1737,14 +1785,6 @@
       "onboard_time": 1729568419,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71172,
-      "num": 224250,
-      "word": "双11算了一周发现拼多多是真划算",
-      "onboard_time": 1729585998,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 71140,
@@ -1947,6 +1987,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37852,
+      "num": 223321,
+      "word": "走路摔骨折花了10万能索赔吗",
+      "onboard_time": 1729589179,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37499,
+      "num": 221854,
+      "word": "徐子未cha青你主题曲cha笑了",
+      "onboard_time": 1729588879,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35658,
       "num": 325261,
       "word": "以物抵债69套房产遭法院查封8年",
@@ -1976,6 +2032,14 @@
       "word": "复古相机成年轻人的新理财",
       "onboard_time": 1729569800,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28884,
+      "num": 234068,
+      "word": "废品站买旧书稿拼凑出女科学家的人生",
+      "onboard_time": 1729588278,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2035,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22263,
-      "num": 215386,
-      "word": "废品站买旧书稿拼凑出女科学家的人生",
-      "onboard_time": 1729588278,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21923,
       "num": 33420,
       "word": "刘耀文新歌SUGAR预告海报",
@@ -2096,6 +2152,14 @@
       "word": "骑行者竞速飙车时速超40公里",
       "onboard_time": 1729584198,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18075,
+      "num": 235788,
+      "word": "司机斗气撞车引4车相撞获刑4年",
+      "onboard_time": 1729589359,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2169,14 +2233,6 @@
       "onboard_time": 1729544831,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6007,
-      "num": 210168,
-      "word": "徐子未cha青你主题曲cha笑了",
-      "onboard_time": 1729588879,
-      "rank": 19,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

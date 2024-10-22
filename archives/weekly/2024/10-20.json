@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729589042545,
+  "endTime": 1729589890306,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -89,6 +89,14 @@
       "onboard_time": 1729427240,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2014108,
+      "num": 266685,
+      "word": "花少 4个人吃9人餐",
+      "onboard_time": 1729587617,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2000073,
@@ -185,14 +193,6 @@
       "onboard_time": 1729576399,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1580529,
-      "num": 266685,
-      "word": "花少 4个人吃9人餐",
-      "onboard_time": 1729587617,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1536129,
@@ -755,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 871930,
+      "num": 239027,
+      "word": "哈尔滨市公安局原副局长于涛涉黑",
+      "onboard_time": 1729587978,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870809,
       "num": 1139329,
       "word": "张凯丽把颁奖手卡给了赵丽颖",
@@ -947,6 +955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 760140,
+      "num": 236807,
+      "word": "女子称存40多万取款时余额为零",
+      "onboard_time": 1729584859,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756454,
       "num": 601395,
       "word": "ILLIT aespa",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1729487059,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 682456,
+      "num": 682456,
+      "word": "许家印香港豪宅6折急寻买家",
+      "onboard_time": 1729587737,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672260,
@@ -1475,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546863,
-      "num": 546863,
-      "word": "许家印香港豪宅6折急寻买家",
-      "onboard_time": 1729587737,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543384,
       "num": 543384,
       "word": "韩国三星电子决定退出LED业务",
@@ -1675,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488425,
-      "num": 217248,
-      "word": "女子称存40多万取款时余额为零",
-      "onboard_time": 1729584859,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484004,
       "num": 484004,
       "word": "美媒将俄两款坦克列入全球最佳前五",
@@ -1827,6 +1835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 437386,
+      "num": 437386,
+      "word": "俄空军战机升空护航",
+      "onboard_time": 1729588339,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 436441,
       "num": 354453,
       "word": "老人挖了7天茨菇却换来三张假币",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1729422860,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411556,
-      "num": 213739,
-      "word": "哈尔滨市公安局原副局长于涛涉黑",
-      "onboard_time": 1729587978,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411242,
@@ -2451,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322769,
+      "num": 176856,
+      "word": "花少 荣梓杉",
+      "onboard_time": 1729589058,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320546,
       "num": 320546,
       "word": "女子回应儿子疑遭前夫女友虐待致死",
@@ -2876,7 +2892,7 @@
     },
     {
       "raw_hot": 266826,
-      "num": 209764,
+      "num": 247412,
       "word": "马龙说借鉴了莫雷加德的打法",
       "onboard_time": 1729587438,
       "rank": 26,
@@ -3179,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233031,
+      "num": 233031,
+      "word": "Ale爆料Jiejie离队",
+      "onboard_time": 1729589239,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231895,
       "num": 231895,
       "word": "战至巅峰直播",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1729387278,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230479,
+      "num": 209680,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1729588698,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 229776,
@@ -3387,14 +3419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220652,
-      "num": 220652,
-      "word": "俄空军战机升空护航",
-      "onboard_time": 1729588339,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 220400,
       "num": 388566,
       "word": "A股四大利好来袭",
@@ -3457,6 +3481,14 @@
       "onboard_time": 1729478958,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217237,
+      "num": 199642,
+      "word": "MAMA阵容",
+      "onboard_time": 1729587679,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 217076,
@@ -3779,6 +3811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201131,
+      "num": 201131,
+      "word": "沈阳下雪",
+      "onboard_time": 1729588998,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200548,
       "num": 240018,
       "word": "王一博刷新了自己的最快圈速",
@@ -3824,14 +3864,6 @@
       "word": "苏有朋开口梦回五阿哥",
       "onboard_time": 1729411940,
       "rank": 25,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 199642,
-      "num": 199642,
-      "word": "MAMA阵容",
-      "onboard_time": 1729587679,
-      "rank": 31,
       "category": "演出"
     },
     {
@@ -4363,12 +4395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176881,
+      "num": 176881,
+      "word": "张艺谋称黑神话剧本非常好",
+      "onboard_time": 1729589539,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "程靖淇 老友记",
       "onboard_time": 1729391779,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176288,
+      "num": 241003,
+      "word": "绝密文件曝光以色列报复伊朗计划",
+      "onboard_time": 1729588339,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 175547,
@@ -4587,14 +4635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166985,
-      "num": 166985,
-      "word": "绝密文件曝光以色列报复伊朗计划",
-      "onboard_time": 1729588339,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 166026,
       "num": 166026,
       "word": "一加13",
@@ -4809,14 +4849,6 @@
       "onboard_time": 1729388419,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154530,
-      "num": 209680,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1729588698,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 154493,
@@ -5163,6 +5195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142269,
+      "num": 220296,
+      "word": "老弱病残孕谁该优先乘坐",
+      "onboard_time": 1729587737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141876,
       "num": 410970,
       "word": "被2000年前的化妆盒种草了",
@@ -5384,14 +5424,6 @@
       "word": "未来3天又来一股新冷空气",
       "onboard_time": 1729428441,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134239,
-      "num": 134239,
-      "word": "沈阳下雪",
-      "onboard_time": 1729588998,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5691,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123349,
+      "num": 123349,
+      "word": "博主要求进入哀牢山颜料师公开道歉",
+      "onboard_time": 1729589839,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "丈夫谈及烧伤妻子满眼泪水",
@@ -5769,6 +5809,14 @@
       "onboard_time": 1729484900,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121352,
+      "num": 121352,
+      "word": "广东夫妇回应要求品牌方涨价",
+      "onboard_time": 1729589839,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 121017,
@@ -6419,12 +6467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90433,
-      "num": 220296,
-      "word": "老弱病残孕谁该优先乘坐",
-      "onboard_time": 1729587737,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 90231,
+      "num": 230927,
+      "word": "双11算了一周发现拼多多是真划算",
+      "onboard_time": 1729585998,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 90095,
@@ -6689,14 +6737,6 @@
       "onboard_time": 1729377371,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 71172,
-      "num": 224250,
-      "word": "双11算了一周发现拼多多是真划算",
-      "onboard_time": 1729585998,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 71140,
@@ -7323,12 +7363,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37852,
+      "num": 223321,
+      "word": "走路摔骨折花了10万能索赔吗",
+      "onboard_time": 1729589179,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37667,
       "num": 358512,
       "word": "如何从婚姻本质解决高额彩礼问题",
       "onboard_time": 1729517779,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37499,
+      "num": 221854,
+      "word": "徐子未cha青你主题曲cha笑了",
+      "onboard_time": 1729588879,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 37209,
@@ -7544,6 +7600,14 @@
       "word": "40岁就可以打带状疱疹疫苗了",
       "onboard_time": 1729424961,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28884,
+      "num": 234068,
+      "word": "废品站买旧书稿拼凑出女科学家的人生",
+      "onboard_time": 1729588278,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7787,14 +7851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22263,
-      "num": 215386,
-      "word": "废品站买旧书稿拼凑出女科学家的人生",
-      "onboard_time": 1729588278,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21923,
       "num": 33420,
       "word": "刘耀文新歌SUGAR预告海报",
@@ -7912,6 +7968,14 @@
       "word": "骑行者竞速飙车时速超40公里",
       "onboard_time": 1729584198,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18075,
+      "num": 235788,
+      "word": "司机斗气撞车引4车相撞获刑4年",
+      "onboard_time": 1729589359,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -8169,14 +8233,6 @@
       "onboard_time": 1729368971,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 6007,
-      "num": 210168,
-      "word": "徐子未cha青你主题曲cha笑了",
-      "onboard_time": 1729588879,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 4138,
