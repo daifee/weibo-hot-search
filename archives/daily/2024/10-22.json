@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729601960166,
+  "endTime": 1729603803454,
   "band_list": [
     {
       "raw_hot": 2424806,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2310395,
-      "num": 368184,
+      "num": 422178,
       "word": "花少 4个人吃9人餐",
       "onboard_time": 1729587617,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2286674,
+      "num": 2286674,
+      "word": "战狼还是拍保守了",
+      "onboard_time": 1729600700,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2082721,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1203125,
-      "num": 368959,
+      "num": 404263,
       "word": "1个月5大网红塌房",
       "onboard_time": 1729593678,
       "rank": 12,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1003131,
-      "num": 1003131,
-      "word": "战狼还是拍保守了",
-      "onboard_time": 1729600700,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 999063,
       "num": 1159850,
       "word": "樊振东ins简介 Swiftie",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 973361,
-      "num": 352304,
+      "num": 423967,
       "word": "北京前副市长骗取经济学博士学位",
       "onboard_time": 1729598718,
       "rank": 10,
@@ -313,6 +313,14 @@
       "onboard_time": 1729577299,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846879,
+      "num": 846879,
+      "word": "孙颖莎教王楠女儿打乒乓",
+      "onboard_time": 1729602019,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 839867,
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591538,
+      "num": 591538,
+      "word": "陈好说短时间内不会再参加真人秀",
+      "onboard_time": 1729601240,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586452,
       "num": 317036,
       "word": "黄圣依 疲惫感",
@@ -465,6 +481,14 @@
       "onboard_time": 1729583719,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551993,
+      "num": 551993,
+      "word": "nova13",
+      "onboard_time": 1729600519,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 536470,
@@ -529,6 +553,14 @@
       "onboard_time": 1729567577,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 515860,
+      "num": 515860,
+      "word": "原三只羊员工加盟听泉鉴宝",
+      "onboard_time": 1729601600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509492,
@@ -763,14 +795,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 331542,
-      "num": 331542,
-      "word": "陈好说短时间内不会再参加真人秀",
-      "onboard_time": 1729601240,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331377,
       "num": 331377,
       "word": "刘冲 新东方",
@@ -849,14 +873,6 @@
       "onboard_time": 1729498217,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294598,
-      "num": 294598,
-      "word": "nova13",
-      "onboard_time": 1729600519,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 292041,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250653,
+      "num": 250653,
+      "word": "再见爱人4问题最大的夫妻",
+      "onboard_time": 1729601120,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245444,
       "num": 245444,
       "word": "男子正要给骗子再转100万时民警来了",
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225948,
+      "num": 225948,
+      "word": "08年女高中生的课间十分钟",
+      "onboard_time": 1729598238,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225202,
       "num": 225202,
       "word": "赵牧辰 不想伤害任何人但伤害所有人",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1729588998,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219831,
-      "num": 219831,
-      "word": "08年女高中生的课间十分钟",
-      "onboard_time": 1729598238,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 219347,
@@ -1203,6 +1227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 214659,
+      "num": 214659,
+      "word": "花近2万网购的泰迪竟被裁耳画眼线",
+      "onboard_time": 1729603040,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214458,
       "num": 214458,
       "word": "孙颖莎第43周世排第一",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1729570879,
       "rank": 42,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 211837,
+      "num": 211837,
+      "word": "纯血鸿蒙界面到底有多精致",
+      "onboard_time": 1729602079,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 211385,
@@ -1283,6 +1323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204572,
+      "num": 204572,
+      "word": "鸿蒙OS5.0发布",
+      "onboard_time": 1729600459,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 204273,
       "num": 362494,
       "word": "藤井风巡演",
@@ -1323,20 +1371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199810,
+      "num": 199810,
+      "word": "nova13价格",
+      "onboard_time": 1729603220,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199631,
       "num": 199631,
       "word": "以军被曝强迫加沙平民作人肉盾牌",
       "onboard_time": 1729565958,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 199140,
-      "num": 199140,
-      "word": "鸿蒙OS5.0发布",
-      "onboard_time": 1729600459,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 196981,
@@ -1355,12 +1403,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 195431,
-      "num": 195431,
-      "word": "再见爱人4问题最大的夫妻",
-      "onboard_time": 1729601120,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 195020,
+      "num": 195020,
+      "word": "华为nova13上手体验",
+      "onboard_time": 1729603220,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 194220,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1729573939,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177253,
+      "num": 177253,
+      "word": "官方回应区长被指酒后亲吻他人妻子",
+      "onboard_time": 1729602320,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175547,
@@ -1667,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149934,
-      "num": 354152,
-      "word": "原三只羊员工加盟听泉鉴宝",
-      "onboard_time": 1729601600,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149834,
       "num": 149834,
       "word": "坏了他是真想教会我做PPT",
@@ -1739,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142561,
+      "num": 188682,
+      "word": "大梦归离hi6路透",
+      "onboard_time": 1729603100,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142269,
       "num": 220296,
       "word": "老弱病残孕谁该优先乘坐",
@@ -1788,7 +1844,7 @@
     },
     {
       "raw_hot": 138997,
-      "num": 169170,
+      "num": 418050,
       "word": "当兵真的可以改变一个人的气场",
       "onboard_time": 1729599321,
       "rank": 45,
@@ -2163,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81450,
+      "num": 245696,
+      "word": "南京肯德基店员称用哪种油不好和你说",
+      "onboard_time": 1729603759,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81403,
       "num": 81403,
       "word": "韩国大学食堂自助午餐",
@@ -2180,7 +2244,7 @@
     },
     {
       "raw_hot": 79580,
-      "num": 301072,
+      "num": 408232,
       "word": "黑话和烂梗包围中小学生",
       "onboard_time": 1729598659,
       "rank": 18,
@@ -2219,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75575,
+      "num": 245934,
+      "word": "nova13洛登绿",
+      "onboard_time": 1729599438,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74644,
       "num": 74644,
       "word": "付航脱口秀 内涵",
@@ -2241,6 +2313,14 @@
       "onboard_time": 1729526418,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72211,
+      "num": 416271,
+      "word": "女子回应女儿被生父及女友虐待致死",
+      "onboard_time": 1729602260,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71982,
@@ -2419,12 +2499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53280,
-      "num": 234889,
-      "word": "nova13洛登绿",
-      "onboard_time": 1729599438,
-      "rank": 27,
-      "category": "数码"
+      "raw_hot": 53471,
+      "num": 947277,
+      "word": "1分钟认识千年古城喀山",
+      "onboard_time": 1729600639,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53042,
@@ -2459,12 +2539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42419,
+      "num": 413747,
+      "word": "余承东称鸿蒙而今迈步从头越",
+      "onboard_time": 1729600760,
+      "rank": 44,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 42273,
       "num": 328920,
       "word": "穿搭天才都在冬季",
       "onboard_time": 1729573399,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 41376,
+      "num": 235735,
+      "word": "纯血鸿蒙打造全新系统级AI",
+      "onboard_time": 1729599438,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 39991,
@@ -2483,12 +2579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38459,
-      "num": 947277,
-      "word": "1分钟认识千年古城喀山",
-      "onboard_time": 1729600639,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 38429,
+      "num": 234696,
+      "word": "纯血鸿蒙应用100%来源可靠",
+      "onboard_time": 1729601360,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 37852,
@@ -2505,14 +2601,6 @@
       "onboard_time": 1729596919,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37643,
-      "num": 309508,
-      "word": "余承东称鸿蒙而今迈步从头越",
-      "onboard_time": 1729600760,
-      "rank": 44,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 37499,
@@ -2539,20 +2627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35658,
+      "num": 252431,
+      "word": "纯血鸿蒙万物皆可碰一碰",
+      "onboard_time": 1729602140,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35200,
       "num": 358558,
       "word": "红星美凯龙的质保金退着退着成负数",
       "onboard_time": 1729595119,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34589,
-      "num": 199294,
-      "word": "纯血鸿蒙应用100%来源可靠",
-      "onboard_time": 1729601360,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 33206,
@@ -2603,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29303,
-      "num": 233883,
-      "word": "纯血鸿蒙打造全新系统级AI",
-      "onboard_time": 1729599438,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 28884,
       "num": 234068,
       "word": "废品站买旧书稿拼凑出女科学家的人生",
@@ -2636,7 +2716,7 @@
     },
     {
       "raw_hot": 28054,
-      "num": 199529,
+      "num": 227432,
       "word": "谁懂看上捞面锦标赛了",
       "onboard_time": 1729600579,
       "rank": 42,
@@ -2707,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19463,
+      "num": 405619,
+      "word": "李家超谈女子用假学历上港大",
+      "onboard_time": 1729602380,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19262,
       "num": 19262,
       "word": "米饭千层",
@@ -2771,6 +2859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14639,
+      "num": 410414,
+      "word": "专家称加沙局势不会得到彻底改变",
+      "onboard_time": 1729602320,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14615,
       "num": 31304,
       "word": "金砖合作大有可为",
@@ -2817,6 +2913,14 @@
       "onboard_time": 1729534512,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11989,
+      "num": 411264,
+      "word": "漫才兄弟 那个红酒有点涩",
+      "onboard_time": 1729603399,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 11479,
