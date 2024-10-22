@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729606900376,
+  "endTime": 1729607991543,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973685,
+      "num": 973685,
+      "word": "没下单快递却要送30件冰箱上门",
+      "onboard_time": 1729606459,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 973361,
       "num": 423967,
       "word": "北京前副市长骗取经济学博士学位",
@@ -1168,6 +1176,14 @@
       "word": "食骨奉母男孩不用再食剩骨",
       "onboard_time": 1729488318,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736521,
+      "num": 736521,
+      "word": "轮椅女生呼吁设立无障碍宜居城市排名",
+      "onboard_time": 1729605139,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1817,14 +1833,6 @@
       "onboard_time": 1729418000,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 500906,
-      "num": 500906,
-      "word": "轮椅女生呼吁设立无障碍宜居城市排名",
-      "onboard_time": 1729605139,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496128,
@@ -2859,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296910,
+      "num": 296910,
+      "word": "警方抓嫖时女子从空调外机坠落身亡",
+      "onboard_time": 1729598179,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295998,
       "num": 295998,
       "word": "本轮牛市第一个10倍股出现了",
@@ -3411,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242119,
+      "num": 242119,
+      "word": "男子举报区长酒后亲吻搂抱其妻",
+      "onboard_time": 1729606820,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241806,
       "num": 181499,
       "word": "闪耀暖暖新PV",
@@ -3433,14 +3457,6 @@
       "onboard_time": 1729428140,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240332,
-      "num": 240332,
-      "word": "警方抓嫖时女子从空调外机坠落身亡",
-      "onboard_time": 1729598179,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239302,
@@ -3665,6 +3681,14 @@
       "onboard_time": 1729598238,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225649,
+      "num": 225649,
+      "word": "王者荣耀重度依赖",
+      "onboard_time": 1729606521,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 225232,
@@ -4323,14 +4347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198316,
-      "num": 471231,
-      "word": "没下单快递却要送30件冰箱上门",
-      "onboard_time": 1729606459,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198003,
       "num": 198003,
       "word": "FLY淘汰赛先下一城",
@@ -4401,14 +4417,6 @@
       "onboard_time": 1729509500,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195703,
-      "num": 195703,
-      "word": "王者荣耀重度依赖",
-      "onboard_time": 1729606521,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 195630,
@@ -4496,6 +4504,14 @@
       "word": "生完双胞胎又怀三胞胎妈妈谈经济压力",
       "onboard_time": 1729417458,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192923,
+      "num": 192923,
+      "word": "00后女警被审讯对象气到捶墙",
+      "onboard_time": 1729607480,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5259,6 +5275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161670,
+      "num": 161670,
+      "word": "郑铮绝平",
+      "onboard_time": 1729607240,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161546,
       "num": 161546,
       "word": "官方通报乡长下乡被村民刺伤身亡",
@@ -5368,14 +5392,6 @@
       "word": "传大众汽车中国首席营销官被驱逐出境",
       "onboard_time": 1729591819,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156630,
-      "num": 156630,
-      "word": "男子举报区长酒后亲吻搂抱其妻",
-      "onboard_time": 1729606820,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5712,6 +5728,14 @@
       "word": "奔跑吧日照金山早安直播",
       "onboard_time": 1729382057,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144660,
+      "num": 144660,
+      "word": "凤小岳直播",
+      "onboard_time": 1729607540,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -7307,6 +7331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74171,
+      "num": 346257,
+      "word": "爸爸找回失散38年儿子后痛哭道歉",
+      "onboard_time": 1729607720,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74003,
       "num": 193816,
       "word": "小西天辟谣保安透露涨薪被辞退",
@@ -7403,12 +7435,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70717,
+      "num": 451570,
+      "word": "律师解读家中煤气燃爆谁担责",
+      "onboard_time": 1729605859,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70343,
       "num": 278246,
       "word": "下一战歌手新浪扫楼",
       "onboard_time": 1729578858,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69945,
+      "num": 407113,
+      "word": "警方通报西安一公务车街头漂移",
+      "onboard_time": 1729607061,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69480,
@@ -7441,6 +7489,14 @@
       "onboard_time": 1729564517,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67356,
+      "num": 392223,
+      "word": "大张伟开场",
+      "onboard_time": 1729607600,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 66561,
@@ -7505,6 +7561,14 @@
       "onboard_time": 1729400419,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62880,
+      "num": 403683,
+      "word": "外滩的大牙膏被挤爆了",
+      "onboard_time": 1729604359,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 62473,
@@ -7651,14 +7715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56152,
-      "num": 403683,
-      "word": "外滩的大牙膏被挤爆了",
-      "onboard_time": 1729604359,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 55089,
       "num": 314414,
       "word": "5岁小女孩穿战国袍乘地铁",
@@ -7683,20 +7739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54326,
-      "num": 451570,
-      "word": "律师解读家中煤气燃爆谁担责",
-      "onboard_time": 1729605859,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54211,
       "num": 947277,
       "word": "1分钟认识千年古城喀山",
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53905,
+      "num": 423512,
+      "word": "nova13系列新增后置长焦人像镜头",
+      "onboard_time": 1729603940,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 53572,
@@ -7803,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49738,
+      "num": 415384,
+      "word": "鸿蒙原生应用一天迭代一版本",
+      "onboard_time": 1729603940,
+      "rank": 33,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 48467,
       "num": 344808,
       "word": "短趾雕住院渡劫18个月重回天空",
@@ -7891,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45155,
+      "num": 405997,
+      "word": "nova13全系支持北斗卫星图片消息",
+      "onboard_time": 1729604059,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45110,
       "num": 442083,
       "word": "东北雨X变形账号名风靡",
@@ -7969,14 +8041,6 @@
       "onboard_time": 1729437321,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41636,
-      "num": 423512,
-      "word": "nova13系列新增后置长焦人像镜头",
-      "onboard_time": 1729603940,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 41627,
@@ -8083,14 +8147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38636,
-      "num": 405997,
-      "word": "nova13全系支持北斗卫星图片消息",
-      "onboard_time": 1729604059,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 38404,
       "num": 288390,
       "word": "中国援助3601箱医疗物资到黎巴嫩了",
@@ -8153,14 +8209,6 @@
       "onboard_time": 1729588879,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37366,
-      "num": 415384,
-      "word": "鸿蒙原生应用一天迭代一版本",
-      "onboard_time": 1729603940,
-      "rank": 33,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 37209,

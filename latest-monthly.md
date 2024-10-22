@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 22:21:40
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 22:39:51
 </p>
 </blockquote>
 <p>
@@ -3855,6 +3855,12 @@ SEVENTEEN演唱会着火（热度：981986）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%B8%8B%E5%8D%95%E5%BF%AB%E9%80%92%E5%8D%B4%E8%A6%81%E9%80%8130%E4%BB%B6%E5%86%B0%E7%AE%B1%E4%B8%8A%E9%97%A8%23" target="weibo">
+没下单快递却要送30件冰箱上门（热度：973685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%89%8D%E5%89%AF%E5%B8%82%E9%95%BF%E9%AA%97%E5%8F%96%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%23" target="weibo">
 北京前副市长骗取经济学博士学位（热度：973361）
 </a>
@@ -6005,12 +6011,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%90%8C%E6%84%8F%E9%94%80%E6%AF%8128%E6%AC%BE%E5%8D%B3%E5%BC%80%E5%9E%8B%E5%BD%A9%E7%A5%A8%23" target="weibo">
 财政部同意销毁28款即开型彩票（热度：742683）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%A5%B3%E7%AB%A5%E5%9D%90%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%91%94%E4%B8%8B%E5%90%8E%E6%98%8F%E8%BF%B7%23" target="weibo">
-高铁站女童坐行李箱摔下后昏迷（热度：742017）
 </a>
 </li>
 
