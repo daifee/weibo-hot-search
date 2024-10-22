@@ -1,0 +1,410 @@
+{
+  "runTime": 1729579480285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999063,
+        "num": 1159850,
+        "word": "樊振东ins简介 Swiftie",
+        "onboard_time": 1729574120,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713116,
+        "num": 713116,
+        "word": "肯德基被曝用转基因大豆油",
+        "onboard_time": 1729576399,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15288,
+        "num": 531945,
+        "word": "文化中国行看传统服饰之美",
+        "onboard_time": 1729563978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445311,
+        "num": 445311,
+        "word": "国考河南12个岗位无人报名",
+        "onboard_time": 1729571180,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415068,
+        "num": 415068,
+        "word": "天津多家肯德基门店被立案调查",
+        "onboard_time": 1729570640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348523,
+        "num": 348523,
+        "word": "物业做防水40颗钉子将天花板打穿",
+        "onboard_time": 1729572562,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268046,
+        "num": 324580,
+        "word": "张凯丽发文祝贺赵丽颖",
+        "onboard_time": 1729575198,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246867,
+        "num": 317408,
+        "word": "猎罪图鉴2下证",
+        "onboard_time": 1729573701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55089,
+        "num": 314414,
+        "word": "5岁小女孩穿战国袍乘地铁",
+        "onboard_time": 1729577178,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311791,
+        "num": 311791,
+        "word": "中国援助包机约60吨物资满满登登",
+        "onboard_time": 1729573760,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1102694,
+        "num": 308783,
+        "word": "婴儿死亡委托火化结果未留骨灰",
+        "onboard_time": 1729576698,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076205,
+        "num": 304792,
+        "word": "男子抑郁发作捂死87岁母亲",
+        "onboard_time": 1729570220,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578012,
+        "num": 299857,
+        "word": "24岁带了四个月娃后发生的变化",
+        "onboard_time": 1729573939,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126249,
+        "num": 295627,
+        "word": "夜爬秦岭遇难情侣穿常规外套没背包",
+        "onboard_time": 1729578018,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28472,
+        "num": 292471,
+        "word": "2名内鬼倒卖两千多吨柴油被判刑",
+        "onboard_time": 1729578378,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437383,
+        "num": 284432,
+        "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+        "onboard_time": 1729577299,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422531,
+        "num": 283529,
+        "word": "偶遇王大陆与女友看大熊猫",
+        "onboard_time": 1729576399,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70343,
+        "num": 278246,
+        "word": "下一战歌手新浪扫楼",
+        "onboard_time": 1729578858,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406923,
+        "num": 274219,
+        "word": "黄圣依 疲惫感",
+        "onboard_time": 1729573820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270384,
+        "num": 270384,
+        "word": "小米15",
+        "onboard_time": 1729569499,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 358755,
+        "num": 249653,
+        "word": "班上成绩最差的同学写下自己的优点",
+        "onboard_time": 1729567279,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228048,
+        "num": 228048,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 21,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 221243,
+        "num": 221243,
+        "word": "周深请跑男全组吃饭",
+        "onboard_time": 1729572201,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213300,
+        "num": 213300,
+        "word": "翁青雅 不想再谈浪费时间的恋爱",
+        "onboard_time": 1729569198,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200455,
+        "num": 200455,
+        "word": "一教师因学生丢橡皮被举报",
+        "onboard_time": 1729576939,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196429,
+        "num": 196429,
+        "word": "黄磊在乌镇宴请多位圈内好友吃饭",
+        "onboard_time": 1729579157,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171610,
+        "num": 194401,
+        "word": "陈好说中戏喜欢招北舞的学生",
+        "onboard_time": 1729569079,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162213,
+        "num": 189316,
+        "word": "心动的信号7",
+        "onboard_time": 1729577478,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139923,
+        "num": 185227,
+        "word": "金晨怎么能松弛成这样",
+        "onboard_time": 1729573939,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14198,
+        "num": 182408,
+        "word": "校园食品安全问题亡羊补牢犹未晚",
+        "onboard_time": 1729577960,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180992,
+        "num": 180992,
+        "word": "孙悟空维基百科词条被改为印度神",
+        "onboard_time": 1729578318,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179795,
+        "num": 179795,
+        "word": "中国男子在马尔代夫潜水时溺亡",
+        "onboard_time": 1729575020,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171260,
+        "num": 171260,
+        "word": "睡觉有这个习惯的人老得更快",
+        "onboard_time": 1729569440,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166133,
+        "num": 166133,
+        "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
+        "onboard_time": 1729566317,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116152,
+        "num": 158904,
+        "word": "一学校自带饭学生只能蹲教室外吃",
+        "onboard_time": 1729578798,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155009,
+        "num": 155009,
+        "word": "不管炒什么肉不要直接下锅炒",
+        "onboard_time": 1729567577,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154211,
+        "num": 154211,
+        "word": "刘宪华说黄磊的饭好吃",
+        "onboard_time": 1729567218,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150310,
+        "num": 150310,
+        "word": "国产口红克单价仅5元",
+        "onboard_time": 1729575439,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149799,
+        "num": 149799,
+        "word": "为什么衣服穿的越多反而没那么暖和",
+        "onboard_time": 1729578918,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139375,
+        "num": 139375,
+        "word": "汤镇业女儿婚礼",
+        "onboard_time": 1729578498,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130370,
+        "num": 130370,
+        "word": "陈少熙直播",
+        "onboard_time": 1729572980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124411,
+        "num": 124411,
+        "word": "三星堆玉石器材质已辨认出19种",
+        "onboard_time": 1729568359,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124180,
+        "num": 124180,
+        "word": "黄子弘凡上海",
+        "onboard_time": 1729578977,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120399,
+        "num": 120399,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118286,
+        "num": 118286,
+        "word": "北京市原副市长高朋被双开",
+        "onboard_time": 1729565478,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115960,
+        "num": 115960,
+        "word": "充完电没拔充电器把家烧了",
+        "onboard_time": 1729553656,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115643,
+        "num": 115643,
+        "word": "救援者说再走10分钟遇难女孩就能活",
+        "onboard_time": 1729571482,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110876,
+        "num": 110876,
+        "word": "王多多喊话高振宁",
+        "onboard_time": 1729568900,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 108494,
+        "word": "张凯丽把颁奖手卡给了赵丽颖",
+        "onboard_time": 1729561999,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107553,
+        "num": 107553,
+        "word": "86版西游记碰上AI特效",
+        "onboard_time": 1729576279,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂金砖从何而来#"
+    }
+  }
+}
