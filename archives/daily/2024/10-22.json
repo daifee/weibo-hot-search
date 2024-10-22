@@ -1,10 +1,18 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729571263865,
+  "endTime": 1729572175083,
   "band_list": [
     {
+      "raw_hot": 2424806,
+      "num": 365914,
+      "word": "男子抑郁发作捂死87岁母亲",
+      "onboard_time": 1729570220,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1678981,
-      "num": 339003,
+      "num": 363394,
       "word": "充完电没拔充电器把家烧了",
       "onboard_time": 1729553656,
       "rank": 32,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1346249,
-      "num": 336423,
+      "num": 365484,
       "word": "刘宪华说黄磊的饭好吃",
       "onboard_time": 1729567218,
       "rank": 16,
@@ -20,19 +28,11 @@
     },
     {
       "raw_hot": 1301159,
-      "num": 316326,
+      "num": 365078,
       "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
       "onboard_time": 1729566317,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1268162,
-      "num": 322385,
-      "word": "男子抑郁发作捂死87岁母亲",
-      "onboard_time": 1729570220,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1124917,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 785699,
-      "num": 314512,
+      "num": 364504,
       "word": "翁青雅 不想再谈浪费时间的恋爱",
       "onboard_time": 1729569198,
       "rank": 21,
@@ -179,12 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 556946,
-      "num": 556946,
+      "raw_hot": 608120,
+      "num": 1097299,
       "word": "小米15",
       "onboard_time": 1729569499,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 535955,
+      "num": 535955,
+      "word": "樊振东开通ins账号",
+      "onboard_time": 1729570220,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 527208,
@@ -193,6 +201,14 @@
       "onboard_time": 1729511900,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527134,
+      "num": 364195,
+      "word": "陈好说中戏喜欢招北舞的学生",
+      "onboard_time": 1729569079,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 525232,
@@ -209,14 +225,6 @@
       "onboard_time": 1729567577,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 515242,
-      "num": 314655,
-      "word": "陈好说中戏喜欢招北舞的学生",
-      "onboard_time": 1729569079,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 509492,
@@ -236,19 +244,11 @@
     },
     {
       "raw_hot": 478501,
-      "num": 314291,
+      "num": 362174,
       "word": "北京市原副市长高朋被双开",
       "onboard_time": 1729565478,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422376,
-      "num": 422376,
-      "word": "樊振东开通ins账号",
-      "onboard_time": 1729570220,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 420206,
@@ -315,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367801,
+      "num": 367801,
+      "word": "国考河南12个岗位无人报名",
+      "onboard_time": 1729571180,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353011,
       "num": 353011,
       "word": "长征胜利88周年",
@@ -331,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341091,
+      "num": 314035,
+      "word": "200人帮双非生改简历进大厂",
+      "onboard_time": 1729569800,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328636,
       "num": 328636,
       "word": "我国成功发射天平三号卫星",
@@ -345,14 +361,6 @@
       "onboard_time": 1729566017,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314035,
-      "num": 314035,
-      "word": "200人帮双非生改简历进大厂",
-      "onboard_time": 1729569800,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306227,
@@ -392,6 +400,14 @@
       "word": "被醉酒男骚扰女生男友发声",
       "onboard_time": 1729555879,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277322,
+      "num": 255336,
+      "word": "多家肯德基门店被立案调查",
+      "onboard_time": 1729571120,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -435,8 +451,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 250857,
-      "num": 250857,
+      "raw_hot": 256915,
+      "num": 256915,
       "word": "睡觉有这个习惯的人老得更快",
       "onboard_time": 1729569440,
       "rank": 38,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212190,
+      "num": 366678,
+      "word": "天津多家肯德基门店被立案调查",
+      "onboard_time": 1729570640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212081,
       "num": 212081,
       "word": "公司称东北雨姐不是永久禁言",
@@ -529,6 +553,14 @@
       "onboard_time": 1729511119,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210666,
+      "num": 210666,
+      "word": "王昭君周年庆皮肤动画",
+      "onboard_time": 1729570220,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 208808,
@@ -548,11 +580,19 @@
     },
     {
       "raw_hot": 204273,
-      "num": 314067,
+      "num": 362494,
       "word": "藤井风巡演",
       "onboard_time": 1729570999,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203800,
+      "num": 203800,
+      "word": "救援者说再走10分钟遇难女孩就能活",
+      "onboard_time": 1729571482,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199631,
@@ -561,14 +601,6 @@
       "onboard_time": 1729565958,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 199225,
-      "num": 199225,
-      "word": "王昭君周年庆皮肤动画",
-      "onboard_time": 1729570220,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 195788,
@@ -617,6 +649,14 @@
       "onboard_time": 1729561638,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175943,
+      "num": 175943,
+      "word": "孙颖莎第43周世排第一",
+      "onboard_time": 1729571661,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 175547,
@@ -683,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153476,
+      "num": 153476,
+      "word": "华裔女作家聂华苓逝世",
+      "onboard_time": 1729572021,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 149834,
       "num": 149834,
       "word": "坏了他是真想教会我做PPT",
@@ -705,6 +753,14 @@
       "onboard_time": 1729524140,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146977,
+      "num": 146977,
+      "word": "婚姻中最受欢迎的伴侣类型",
+      "onboard_time": 1729569499,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 144308,
@@ -817,14 +873,6 @@
       "onboard_time": 1729565297,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117225,
-      "num": 340608,
-      "word": "天津多家肯德基门店被立案调查",
-      "onboard_time": 1729570640,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116537,
@@ -972,7 +1020,7 @@
     },
     {
       "raw_hot": 78586,
-      "num": 279319,
+      "num": 322455,
       "word": "吴宇恒剧透和董思怡浪漫到天亮",
       "onboard_time": 1729569919,
       "rank": 34,
@@ -1024,6 +1072,14 @@
       "word": "这种疼痛好多人都挂错科室了",
       "onboard_time": 1729521439,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71938,
+      "num": 367206,
+      "word": "中小学英语教材改版有师生反映变难",
+      "onboard_time": 1729571240,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1179,16 +1235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41770,
-      "num": 351489,
-      "word": "中小学英语教材改版有师生反映变难",
-      "onboard_time": 1729571240,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31391,
-      "num": 314726,
+      "raw_hot": 39991,
+      "num": 363082,
       "word": "手机CPU的巅峰时刻",
       "onboard_time": 1729568058,
       "rank": 36,

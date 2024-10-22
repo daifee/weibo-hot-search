@@ -1,0 +1,410 @@
+{
+  "runTime": 1729572175083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 608120,
+        "num": 1097299,
+        "word": "小米15",
+        "onboard_time": 1729569499,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 605163,
+        "num": 605163,
+        "word": "张凯丽把颁奖手卡给了赵丽颖",
+        "onboard_time": 1729561999,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29806,
+        "num": 562529,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535955,
+        "num": 535955,
+        "word": "樊振东开通ins账号",
+        "onboard_time": 1729570220,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450878,
+        "num": 450878,
+        "word": "美媒将俄两款坦克列入全球最佳前五",
+        "onboard_time": 1729569622,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416826,
+        "num": 416826,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 5,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 367801,
+        "num": 367801,
+        "word": "国考河南12个岗位无人报名",
+        "onboard_time": 1729571180,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186515,
+        "num": 367381,
+        "word": "戚薇切号回歌手身份了",
+        "onboard_time": 1729565057,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71938,
+        "num": 367206,
+        "word": "中小学英语教材改版有师生反映变难",
+        "onboard_time": 1729571240,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212190,
+        "num": 366678,
+        "word": "天津多家肯德基门店被立案调查",
+        "onboard_time": 1729570640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2424806,
+        "num": 365914,
+        "word": "男子抑郁发作捂死87岁母亲",
+        "onboard_time": 1729570220,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946965,
+        "num": 365484,
+        "word": "刘宪华说黄磊的饭好吃",
+        "onboard_time": 1729567218,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 787504,
+        "num": 365078,
+        "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
+        "onboard_time": 1729566317,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 650021,
+        "num": 364504,
+        "word": "翁青雅 不想再谈浪费时间的恋爱",
+        "onboard_time": 1729569198,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527134,
+        "num": 364195,
+        "word": "陈好说中戏喜欢招北舞的学生",
+        "onboard_time": 1729569079,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434191,
+        "num": 363394,
+        "word": "充完电没拔充电器把家烧了",
+        "onboard_time": 1729553656,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39991,
+        "num": 363082,
+        "word": "手机CPU的巅峰时刻",
+        "onboard_time": 1729568058,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203721,
+        "num": 362494,
+        "word": "藤井风巡演",
+        "onboard_time": 1729570999,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362174,
+        "num": 362174,
+        "word": "北京市原副市长高朋被双开",
+        "onboard_time": 1729565478,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58151,
+        "num": 322455,
+        "word": "吴宇恒剧透和董思怡浪漫到天亮",
+        "onboard_time": 1729569919,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313424,
+        "num": 313424,
+        "word": "王多多喊话高振宁",
+        "onboard_time": 1729568900,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 831701,
+        "num": 300333,
+        "word": "班上成绩最差的同学写下自己的优点",
+        "onboard_time": 1729567279,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430990,
+        "num": 298007,
+        "word": "不管炒什么肉不要直接下锅炒",
+        "onboard_time": 1729567577,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 341091,
+        "num": 296685,
+        "word": "200人帮双非生改简历进大厂",
+        "onboard_time": 1729569800,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274497,
+        "num": 274497,
+        "word": "出国一年终于实现了狐臭自由",
+        "onboard_time": 1729567938,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274434,
+        "num": 274434,
+        "word": "第一次拿到身份证的他得了第一名",
+        "onboard_time": 1729558758,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22965,
+        "num": 263707,
+        "word": "律师解读宣判后余华英还能否上诉",
+        "onboard_time": 1729570280,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256915,
+        "num": 256915,
+        "word": "睡觉有这个习惯的人老得更快",
+        "onboard_time": 1729569440,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201159,
+        "num": 256901,
+        "word": "沈腾像极了回村吃席的我",
+        "onboard_time": 1729570039,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144797,
+        "num": 256165,
+        "word": "付航演过电影",
+        "onboard_time": 1729564757,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277322,
+        "num": 255336,
+        "word": "多家肯德基门店被立案调查",
+        "onboard_time": 1729571120,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109657,
+        "num": 254987,
+        "word": "罗慎远这不是求婚是什么",
+        "onboard_time": 1729570101,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254728,
+        "num": 254728,
+        "word": "警方回应宝马司机搭讪被拒驾车撞人",
+        "onboard_time": 1729569019,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247193,
+        "num": 247193,
+        "word": "官方回应国企为离岗16年员工缴社保",
+        "onboard_time": 1729561037,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234565,
+        "num": 234565,
+        "word": "央视曝光快速致富陷阱",
+        "onboard_time": 1729564817,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232318,
+        "num": 232318,
+        "word": "耳帝 伍佰和猥琐最不沾边",
+        "onboard_time": 1729561037,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218414,
+        "num": 218414,
+        "word": "王楚钦林诗栋排名前二",
+        "onboard_time": 1729567879,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218239,
+        "num": 218239,
+        "word": "刘志强严重违纪违法被开除党籍",
+        "onboard_time": 1729566677,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210666,
+        "num": 210666,
+        "word": "王昭君周年庆皮肤动画",
+        "onboard_time": 1729570220,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203800,
+        "num": 203800,
+        "word": "救援者说再走10分钟遇难女孩就能活",
+        "onboard_time": 1729571482,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41780,
+        "num": 203707,
+        "word": "我要不要上车啊",
+        "onboard_time": 1729566736,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203705,
+        "num": 203705,
+        "word": "男孩被困在找妈妈和找警察中选择了后者",
+        "onboard_time": 1729553355,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177775,
+        "num": 177775,
+        "word": "公司称东北雨姐不是永久禁言",
+        "onboard_time": 1729570879,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 175943,
+        "num": 175943,
+        "word": "孙颖莎第43周世排第一",
+        "onboard_time": 1729571661,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169986,
+        "num": 169986,
+        "word": "喝奶的年纪就拥有了植物专家的水准",
+        "onboard_time": 1729556297,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169252,
+        "num": 169252,
+        "word": "一图读懂金砖从何而来",
+        "onboard_time": 1729568359,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161488,
+        "num": 161488,
+        "word": "南京200斤梅花鹿闯进稻田撞伤村民",
+        "onboard_time": 1729562238,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153476,
+        "num": 153476,
+        "word": "华裔女作家聂华苓逝世",
+        "onboard_time": 1729572021,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 148446,
+        "num": 148446,
+        "word": "我国成功发射天平三号卫星",
+        "onboard_time": 1729566617,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146977,
+        "num": 146977,
+        "word": "婚姻中最受欢迎的伴侣类型",
+        "onboard_time": 1729569499,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的金砖峰会时间#"
+    }
+  }
+}
