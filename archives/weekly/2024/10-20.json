@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729575571429,
+  "endTime": 1729578664521,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -595,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 922179,
+      "num": 1147548,
+      "word": "樊振东ins简介 Swiftie",
+      "onboard_time": 1729574120,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 919296,
       "num": 893873,
       "word": "iPhone16官方罕见降价1600元",
@@ -816,6 +824,14 @@
       "word": "6名女生被造谣10万彩礼做女友胜诉",
       "onboard_time": 1729420400,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795065,
+      "num": 795065,
+      "word": "肯德基被曝用转基因大豆油",
+      "onboard_time": 1729576399,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641078,
+      "num": 321802,
+      "word": "24岁带了四个月娃后发生的变化",
+      "onboard_time": 1729573939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640285,
       "num": 640285,
       "word": "30岁汪顺和17岁小将的填空题撞答案了",
@@ -1203,14 +1227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 606967,
-      "num": 318983,
-      "word": "樊振东ins简介 Swiftie",
-      "onboard_time": 1729574120,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 596215,
       "num": 596215,
       "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
@@ -1280,6 +1296,14 @@
       "word": "听泉赏宝回应直播连线争议",
       "onboard_time": 1729473078,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572692,
+      "num": 317623,
+      "word": "婴儿死亡委托火化结果未留骨灰",
+      "onboard_time": 1729576698,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1891,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385560,
-      "num": 311842,
-      "word": "24岁带了四个月娃后发生的变化",
-      "onboard_time": 1729573939,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 380641,
       "num": 380641,
       "word": "ILLIT回归",
@@ -2467,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289864,
+      "num": 335507,
+      "word": "猎罪图鉴2下证",
+      "onboard_time": 1729573701,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289461,
       "num": 289461,
       "word": "市民双十一遭遇先涨价再打折",
@@ -2547,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281782,
+      "num": 256873,
+      "word": "偶遇王大陆与女友看大熊猫",
+      "onboard_time": 1729576399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280893,
       "num": 227280,
       "word": "当我买狗窝时忘了看尺寸",
@@ -2593,14 +2625,6 @@
       "onboard_time": 1729343958,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275715,
-      "num": 333522,
-      "word": "猎罪图鉴2下证",
-      "onboard_time": 1729573701,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 274935,
@@ -2747,12 +2771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257672,
+      "num": 314112,
+      "word": "张凯丽发文祝贺赵丽颖",
+      "onboard_time": 1729575198,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255954,
       "num": 318452,
       "word": "赵小童代表十个勤天参加戛纳",
       "onboard_time": 1729494498,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255799,
+      "num": 255799,
+      "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+      "onboard_time": 1729577299,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254658,
@@ -3571,14 +3611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197729,
-      "num": 314112,
-      "word": "张凯丽发文祝贺赵丽颖",
-      "onboard_time": 1729575198,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197282,
       "num": 197282,
       "word": "王一博香槟洗礼",
@@ -4075,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175067,
+      "num": 175067,
+      "word": "中国男子在马尔代夫潜水时溺亡",
+      "onboard_time": 1729575020,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173773,
       "num": 173773,
       "word": "狼队1比2曼城",
@@ -4291,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164969,
+      "num": 265969,
+      "word": "心动的信号7",
+      "onboard_time": 1729577478,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164468,
       "num": 164468,
       "word": "臭肉事件",
@@ -4337,6 +4385,14 @@
       "onboard_time": 1729501458,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162698,
+      "num": 162698,
+      "word": "国产口红克单价仅5元",
+      "onboard_time": 1729575439,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 162683,
@@ -4732,10 +4788,18 @@
     },
     {
       "raw_hot": 144308,
-      "num": 151641,
+      "num": 329770,
       "word": "三星堆玉石器材质已辨认出19种",
       "onboard_time": 1729568359,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144004,
+      "num": 144004,
+      "word": "一教师因学生丢橡皮被举报",
+      "onboard_time": 1729576939,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5115,6 +5179,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 130407,
+      "num": 178177,
+      "word": "86版西游记碰上AI特效",
+      "onboard_time": 1729576279,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130178,
       "num": 287212,
       "word": "劣质小太阳厂家花几百元伪造质检报告",
@@ -5299,6 +5371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122417,
+      "num": 122417,
+      "word": "孙悟空维基百科词条被改为印度神",
+      "onboard_time": 1729578318,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122349,
       "num": 222530,
       "word": "SM艺人服装仓库公开",
@@ -5459,11 +5539,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117546,
-      "num": 117546,
-      "word": "中国男子在马尔代夫潜水时溺亡",
-      "onboard_time": 1729575020,
-      "rank": 47,
+      "raw_hot": 117550,
+      "num": 321034,
+      "word": "金店店员说今年金条比首饰好卖",
+      "onboard_time": 1729574839,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5481,6 +5561,14 @@
       "onboard_time": 1729471460,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116600,
+      "num": 116600,
+      "word": "汤镇业女儿婚礼",
+      "onboard_time": 1729578498,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 116362,
@@ -5513,6 +5601,14 @@
       "onboard_time": 1729416680,
       "rank": 40,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 113916,
+      "num": 113916,
+      "word": "小米15本月发布",
+      "onboard_time": 1729575499,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 113755,
@@ -5707,14 +5803,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 107071,
-      "num": 107071,
-      "word": "小米15本月发布",
-      "onboard_time": 1729575499,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 106666,
       "num": 106666,
       "word": "以军一次轰炸后妇女儿童不停尖叫",
@@ -5761,6 +5849,14 @@
       "onboard_time": 1729384097,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101214,
+      "num": 101214,
+      "word": "周也Wonderland封面大片",
+      "onboard_time": 1729577358,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 101069,
@@ -6219,6 +6315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70373,
+      "num": 314549,
+      "word": "夜爬秦岭遇难情侣穿常规外套没背包",
+      "onboard_time": 1729578018,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69480,
       "num": 69480,
       "word": "4个动作保护膝盖",
@@ -6643,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42273,
+      "num": 328920,
+      "word": "穿搭天才都在冬季",
+      "onboard_time": 1729573399,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 41725,
       "num": 544651,
       "word": "臭肉查清楚臭脸也要说明白",
@@ -6833,14 +6945,6 @@
       "onboard_time": 1729398800,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35450,
-      "num": 328920,
-      "word": "穿搭天才都在冬季",
-      "onboard_time": 1729573399,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 35017,
@@ -7043,6 +7147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26890,
+      "num": 310540,
+      "word": "2名内鬼倒卖两千多吨柴油被判刑",
+      "onboard_time": 1729578378,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26843,
       "num": 324703,
       "word": "易烊千玺折学家",
@@ -7064,14 +7176,6 @@
       "word": "卖饼大叔妻子生病仍照顾困难同学",
       "onboard_time": 1729458491,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26530,
-      "num": 321034,
-      "word": "金店店员说今年金条比首饰好卖",
-      "onboard_time": 1729574839,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7401,6 +7505,14 @@
       "onboard_time": 1729540750,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14603,
+      "num": 177845,
+      "word": "校园食品安全问题亡羊补牢犹未晚",
+      "onboard_time": 1729577960,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14152,

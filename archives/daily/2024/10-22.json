@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729575571429,
+  "endTime": 1729578664521,
   "band_list": [
     {
       "raw_hot": 2424806,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922179,
+      "num": 1147548,
+      "word": "樊振东ins简介 Swiftie",
+      "onboard_time": 1729574120,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 901608,
       "num": 56942,
       "word": "斐乐 尾款",
@@ -129,6 +137,14 @@
       "onboard_time": 1729556597,
       "rank": 41,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 795065,
+      "num": 795065,
+      "word": "肯德基被曝用转基因大豆油",
+      "onboard_time": 1729576399,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785699,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641078,
+      "num": 321802,
+      "word": "24岁带了四个月娃后发生的变化",
+      "onboard_time": 1729573939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635055,
       "num": 313211,
       "word": "第一次拿到身份证的他得了第一名",
@@ -211,20 +235,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 606967,
-      "num": 318983,
-      "word": "樊振东ins简介 Swiftie",
-      "onboard_time": 1729574120,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 586452,
       "num": 317036,
       "word": "黄圣依 疲惫感",
       "onboard_time": 1729573820,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572692,
+      "num": 317623,
+      "word": "婴儿死亡委托火化结果未留骨灰",
+      "onboard_time": 1729576698,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535955,
@@ -339,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385560,
-      "num": 311842,
-      "word": "24岁带了四个月娃后发生的变化",
-      "onboard_time": 1729573939,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 379799,
       "num": 371374,
       "word": "戚薇切号回歌手身份了",
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289864,
+      "num": 335507,
+      "word": "猎罪图鉴2下证",
+      "onboard_time": 1729573701,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288478,
       "num": 288478,
       "word": "打网约车送神秘包裹司机果断报警",
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281782,
+      "num": 256873,
+      "word": "偶遇王大陆与女友看大熊猫",
+      "onboard_time": 1729576399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277322,
       "num": 255336,
       "word": "多家肯德基门店被立案调查",
@@ -481,14 +513,6 @@
       "onboard_time": 1729567938,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275715,
-      "num": 333522,
-      "word": "猎罪图鉴2下证",
-      "onboard_time": 1729573701,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 274935,
@@ -521,6 +545,22 @@
       "onboard_time": 1729507640,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 257672,
+      "num": 314112,
+      "word": "张凯丽发文祝贺赵丽颖",
+      "onboard_time": 1729575198,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255799,
+      "num": 255799,
+      "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+      "onboard_time": 1729577299,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245444,
@@ -691,14 +731,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 197729,
-      "num": 314112,
-      "word": "张凯丽发文祝贺赵丽颖",
-      "onboard_time": 1729575198,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195788,
       "num": 195788,
       "word": "骁龙8至尊版",
@@ -771,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175067,
+      "num": 175067,
+      "word": "中国男子在马尔代夫潜水时溺亡",
+      "onboard_time": 1729575020,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172139,
       "num": 197210,
       "word": "学校称学生返校被搜身是为安全着想",
@@ -803,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164969,
+      "num": 265969,
+      "word": "心动的信号7",
+      "onboard_time": 1729577478,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163937,
       "num": 314844,
       "word": "罗慎远这不是求婚是什么",
       "onboard_time": 1729570101,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162698,
+      "num": 162698,
+      "word": "国产口红克单价仅5元",
+      "onboard_time": 1729575439,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 158279,
@@ -876,10 +932,18 @@
     },
     {
       "raw_hot": 144308,
-      "num": 151641,
+      "num": 329770,
       "word": "三星堆玉石器材质已辨认出19种",
       "onboard_time": 1729568359,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144004,
+      "num": 144004,
+      "word": "一教师因学生丢橡皮被举报",
+      "onboard_time": 1729576939,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -971,6 +1035,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 130407,
+      "num": 178177,
+      "word": "86版西游记碰上AI特效",
+      "onboard_time": 1729576279,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129892,
       "num": 184787,
       "word": "春花焰男织女耕",
@@ -1003,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122417,
+      "num": 122417,
+      "word": "孙悟空维基百科词条被改为印度神",
+      "onboard_time": 1729578318,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122235,
       "num": 230767,
       "word": "陈都灵绿野仙踪造型",
@@ -1019,12 +1099,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117546,
-      "num": 117546,
-      "word": "中国男子在马尔代夫潜水时溺亡",
-      "onboard_time": 1729575020,
-      "rank": 47,
+      "raw_hot": 117550,
+      "num": 321034,
+      "word": "金店店员说今年金条比首饰好卖",
+      "onboard_time": 1729574839,
+      "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116600,
+      "num": 116600,
+      "word": "汤镇业女儿婚礼",
+      "onboard_time": 1729578498,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 116537,
@@ -1032,6 +1120,14 @@
       "word": "iPhone16官方罕见降价1600元",
       "onboard_time": 1729498337,
       "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 113916,
+      "num": 113916,
+      "word": "小米15本月发布",
+      "onboard_time": 1729575499,
+      "rank": 49,
       "category": "数码"
     },
     {
@@ -1075,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107071,
-      "num": 107071,
-      "word": "小米15本月发布",
-      "onboard_time": 1729575499,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 104476,
       "num": 104476,
       "word": "长期忍受疼痛免疫力会降低",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1729513098,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101214,
+      "num": 101214,
+      "word": "周也Wonderland封面大片",
+      "onboard_time": 1729577358,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 92619,
@@ -1251,6 +1347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70373,
+      "num": 314549,
+      "word": "夜爬秦岭遇难情侣穿常规外套没背包",
+      "onboard_time": 1729578018,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69480,
       "num": 69480,
       "word": "4个动作保护膝盖",
@@ -1387,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42273,
+      "num": 328920,
+      "word": "穿搭天才都在冬季",
+      "onboard_time": 1729573399,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 39991,
       "num": 363082,
       "word": "手机CPU的巅峰时刻",
@@ -1401,14 +1513,6 @@
       "onboard_time": 1729573580,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35450,
-      "num": 328920,
-      "word": "穿搭天才都在冬季",
-      "onboard_time": 1729573399,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 30478,
@@ -1427,20 +1531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26890,
+      "num": 310540,
+      "word": "2名内鬼倒卖两千多吨柴油被判刑",
+      "onboard_time": 1729578378,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26820,
       "num": 314752,
       "word": "长安启源E07免费上门试驾",
       "onboard_time": 1729566797,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 26530,
-      "num": 321034,
-      "word": "金店店员说今年金条比首饰好卖",
-      "onboard_time": 1729574839,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23819,
@@ -1521,6 +1625,14 @@
       "onboard_time": 1729540750,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14603,
+      "num": 177845,
+      "word": "校园食品安全问题亡羊补牢犹未晚",
+      "onboard_time": 1729577960,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13194,

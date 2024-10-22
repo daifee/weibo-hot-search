@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 13:39:31
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 14:31:04
 </p>
 </blockquote>
 <p>
@@ -4089,6 +4089,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cins%E7%AE%80%E4%BB%8B%20Swiftie%23" target="weibo">
+樊振东ins简介 Swiftie（热度：922179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%A7%E5%85%89%E6%AF%8D%E4%BA%B2%E6%9B%BE%E7%AB%8B%E5%AE%B6%E8%A7%84%E5%90%8E%E4%BB%A3%E9%83%BD%E8%A6%81%E5%8F%82%E5%86%9B%23" target="weibo">
 黄继光母亲曾立家规后代都要参军（热度：921476）
 </a>
@@ -5217,6 +5223,12 @@ SpaceX首次回收星舰成功（热度：798348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E8%A2%AB%E6%9B%9D%E7%94%A8%E8%BD%AC%E5%9F%BA%E5%9B%A0%E5%A4%A7%E8%B1%86%E6%B2%B9%23" target="weibo">
+肯德基被曝用转基因大豆油（热度：795065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 马龙vs梁靖崑（热度：794963）
 </a>
@@ -5999,18 +6011,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%8A%A018%E4%B8%87%E5%BD%A9%E7%A4%BC%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E5%B7%B2%E5%92%8C%E8%A7%A3%23" target="weibo">
 网传加18万彩礼事件双方已和解（热度：729414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%BF%99%E4%B9%88%E6%90%9E%E7%AC%91%E5%95%8A%23" target="weibo">
-没人告诉我王楚然这么搞笑啊（热度：728917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%8F%82%20%E9%AB%98%E7%9F%A5%E7%9A%84%E9%A2%9C%E8%89%B2%23" target="weibo">
-叶珂 高知的颜色（热度：728754）
 </a>
 </li>
 
