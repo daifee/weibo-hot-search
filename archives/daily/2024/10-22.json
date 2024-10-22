@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729604484158,
+  "endTime": 1729606900376,
   "band_list": [
     {
       "raw_hot": 2437821,
@@ -371,8 +371,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 723580,
-      "num": 723580,
+      "raw_hot": 748733,
+      "num": 748733,
       "word": "陈好说短时间内不会再参加真人秀",
       "onboard_time": 1729601240,
       "rank": 15,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584573,
+      "num": 584573,
+      "word": "原三只羊员工加盟听泉鉴宝",
+      "onboard_time": 1729601600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556713,
       "num": 290395,
       "word": "银行回应女子存40多万取款时余额为零",
@@ -505,14 +513,6 @@
       "onboard_time": 1729570220,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 533069,
-      "num": 533069,
-      "word": "原三只羊员工加盟听泉鉴宝",
-      "onboard_time": 1729601600,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529703,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500906,
+      "num": 500906,
+      "word": "轮椅女生呼吁设立无障碍宜居城市排名",
+      "onboard_time": 1729605139,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484004,
       "num": 484004,
       "word": "美媒将俄两款坦克列入全球最佳前五",
@@ -601,6 +609,14 @@
       "onboard_time": 1729584679,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448338,
+      "num": 448338,
+      "word": "再见爱人4问题最大的夫妻",
+      "onboard_time": 1729601120,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 445235,
@@ -737,6 +753,14 @@
       "onboard_time": 1729573760,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 356415,
+      "num": 395068,
+      "word": "花近2万网购的泰迪竟被裁耳画眼线",
+      "onboard_time": 1729603040,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353011,
@@ -923,14 +947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 286418,
-      "num": 286418,
-      "word": "花近2万网购的泰迪竟被裁耳画眼线",
-      "onboard_time": 1729603040,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283279,
       "num": 238873,
       "word": "被醉酒男骚扰女生男友发声",
@@ -987,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272520,
+      "num": 272520,
+      "word": "东北雨婶回应",
+      "onboard_time": 1729604840,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 271471,
       "num": 345861,
       "word": "王一博代言法丽兹",
@@ -1027,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251272,
-      "num": 315209,
-      "word": "再见爱人4问题最大的夫妻",
-      "onboard_time": 1729601120,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250795,
       "num": 250795,
       "word": "孩子掉小区化粪池爷爷施救不幸身亡",
@@ -1059,12 +1075,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 243623,
+      "num": 243623,
+      "word": "中国女子新西兰遇害1年后才找到遗体",
+      "onboard_time": 1729604479,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241728,
       "num": 241728,
       "word": "为什么你比别人更加怕冷",
       "onboard_time": 1729560378,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240332,
+      "num": 240332,
+      "word": "警方抓嫖时女子从空调外机坠落身亡",
+      "onboard_time": 1729598179,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239302,
@@ -1227,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217572,
+      "num": 217572,
+      "word": "nova13 易烊千玺提示音",
+      "onboard_time": 1729605740,
+      "rank": 35,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 217237,
       "num": 199642,
       "word": "MAMA阵容",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1729571661,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213966,
-      "num": 213966,
-      "word": "警方抓嫖时女子从空调外机坠落身亡",
-      "onboard_time": 1729598179,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213770,
@@ -1331,12 +1363,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209860,
+      "num": 209860,
+      "word": "华为Watch",
+      "onboard_time": 1729605139,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208808,
       "num": 208808,
       "word": "韦雪直播三场赚了1个亿",
       "onboard_time": 1729500318,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 207447,
+      "num": 207447,
+      "word": "山东泰山2比2横滨水手",
+      "onboard_time": 1729606641,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 205722,
@@ -1403,6 +1451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 198316,
+      "num": 471231,
+      "word": "没下单快递却要送30件冰箱上门",
+      "onboard_time": 1729606459,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196981,
       "num": 196981,
       "word": "樊振东与网坛四巨头合影",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1729566498,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195703,
+      "num": 195703,
+      "word": "王者荣耀重度依赖",
+      "onboard_time": 1729606521,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 195020,
@@ -1571,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171709,
+      "num": 171709,
+      "word": "亚冠",
+      "onboard_time": 1729605740,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169821,
       "num": 169821,
       "word": "食骨奉母男孩家中堆满捐赠物资",
@@ -1672,6 +1744,14 @@
       "word": "传大众汽车中国首席营销官被驱逐出境",
       "onboard_time": 1729591819,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156630,
+      "num": 156630,
+      "word": "男子举报区长酒后亲吻搂抱其妻",
+      "onboard_time": 1729606820,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2260,7 +2340,7 @@
     },
     {
       "raw_hot": 79580,
-      "num": 408232,
+      "num": 426831,
       "word": "黑话和烂梗包围中小学生",
       "onboard_time": 1729598659,
       "rank": 18,
@@ -2499,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56152,
+      "num": 403683,
+      "word": "外滩的大牙膏被挤爆了",
+      "onboard_time": 1729604359,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55089,
       "num": 314414,
       "word": "5岁小女孩穿战国袍乘地铁",
@@ -2511,6 +2599,14 @@
       "num": 245685,
       "word": "2中国男子称在泰国遭5人持枪绑架",
       "onboard_time": 1729584198,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54326,
+      "num": 451570,
+      "word": "律师解读家中煤气燃爆谁担责",
+      "onboard_time": 1729605859,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2563,11 +2659,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46159,
+      "num": 252431,
+      "word": "纯血鸿蒙万物皆可碰一碰",
+      "onboard_time": 1729602140,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45525,
       "num": 224504,
       "word": "教育局称小学生坠井身亡系意外",
       "onboard_time": 1729580898,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45110,
+      "num": 442083,
+      "word": "东北雨X变形账号名风靡",
+      "onboard_time": 1729605801,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2579,12 +2691,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43783,
+      "num": 430834,
+      "word": "男子违反禁令殴打前妻获刑3年",
+      "onboard_time": 1729605321,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42698,
+      "num": 313127,
+      "word": "华为传奇绿表火出圈",
+      "onboard_time": 1729606040,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42273,
       "num": 328920,
       "word": "穿搭天才都在冬季",
       "onboard_time": 1729573399,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 41636,
+      "num": 423512,
+      "word": "nova13系列新增后置长焦人像镜头",
+      "onboard_time": 1729603940,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 41376,
@@ -2603,20 +2739,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 39643,
-      "num": 183109,
-      "word": "外滩的大牙膏被挤爆了",
-      "onboard_time": 1729604359,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 38658,
       "num": 310987,
       "word": "高空抛物判死刑法律没有宽宥余地",
       "onboard_time": 1729585578,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38636,
+      "num": 405997,
+      "word": "nova13全系支持北斗卫星图片消息",
+      "onboard_time": 1729604059,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 37852,
@@ -2643,12 +2779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36784,
-      "num": 252431,
-      "word": "纯血鸿蒙万物皆可碰一碰",
-      "onboard_time": 1729602140,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 37366,
+      "num": 415384,
+      "word": "鸿蒙原生应用一天迭代一版本",
+      "onboard_time": 1729603940,
+      "rank": 33,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 36251,
@@ -2667,14 +2803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35500,
-      "num": 237483,
-      "word": "nova13系列新增后置长焦人像镜头",
-      "onboard_time": 1729603940,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 35200,
       "num": 358558,
       "word": "红星美凯龙的质保金退着退着成负数",
@@ -2683,16 +2811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34947,
-      "num": 211454,
-      "word": "鸿蒙原生应用一天迭代一版本",
-      "onboard_time": 1729603940,
-      "rank": 33,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 34081,
-      "num": 210600,
+      "num": 294092,
       "word": "张雨霏现学手势舞",
       "onboard_time": 1729604059,
       "rank": 34,
@@ -2809,14 +2929,6 @@
       "onboard_time": 1729584679,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 24156,
-      "num": 193834,
-      "word": "nova13全系支持北斗卫星图片消息",
-      "onboard_time": 1729604059,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 23819,

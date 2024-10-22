@@ -1,0 +1,410 @@
+{
+  "runTime": 1729606900376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2235382,
+        "num": 2235382,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847965,
+        "num": 847965,
+        "word": "孙颖莎教王楠女儿打乒乓",
+        "onboard_time": 1729602019,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49784,
+        "num": 792306,
+        "word": "1分钟认识千年古城喀山",
+        "onboard_time": 1729600639,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 748733,
+        "num": 748733,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584573,
+        "num": 584573,
+        "word": "原三只羊员工加盟听泉鉴宝",
+        "onboard_time": 1729601600,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500906,
+        "num": 500906,
+        "word": "轮椅女生呼吁设立无障碍宜居城市排名",
+        "onboard_time": 1729605139,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479827,
+        "num": 479827,
+        "word": "纯血鸿蒙",
+        "onboard_time": 1729597399,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198316,
+        "num": 471231,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464153,
+        "num": 464153,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54326,
+        "num": 451570,
+        "word": "律师解读家中煤气燃爆谁担责",
+        "onboard_time": 1729605859,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448338,
+        "num": 448338,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 989642,
+        "num": 443917,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45110,
+        "num": 442083,
+        "word": "东北雨X变形账号名风靡",
+        "onboard_time": 1729605801,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43783,
+        "num": 430834,
+        "word": "男子违反禁令殴打前妻获刑3年",
+        "onboard_time": 1729605321,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47700,
+        "num": 426831,
+        "word": "黑话和烂梗包围中小学生",
+        "onboard_time": 1729598659,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41636,
+        "num": 423512,
+        "word": "nova13系列新增后置长焦人像镜头",
+        "onboard_time": 1729603940,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37366,
+        "num": 415384,
+        "word": "鸿蒙原生应用一天迭代一版本",
+        "onboard_time": 1729603940,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 38636,
+        "num": 405997,
+        "word": "nova13全系支持北斗卫星图片消息",
+        "onboard_time": 1729604059,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56152,
+        "num": 403683,
+        "word": "外滩的大牙膏被挤爆了",
+        "onboard_time": 1729604359,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356415,
+        "num": 395068,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598892,
+        "num": 389741,
+        "word": "北京前副市长骗取经济学博士学位",
+        "onboard_time": 1729598718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581126,
+        "num": 382122,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380661,
+        "num": 380661,
+        "word": "爱奇艺新规",
+        "onboard_time": 1729595838,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364603,
+        "num": 364603,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 328169,
+        "num": 328169,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229505,
+        "num": 324447,
+        "word": "徐志胜 你红你多分点",
+        "onboard_time": 1729599259,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42698,
+        "num": 313127,
+        "word": "华为传奇绿表火出圈",
+        "onboard_time": 1729606040,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203616,
+        "num": 311807,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166908,
+        "num": 302797,
+        "word": "心动的信号",
+        "onboard_time": 1729599738,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28304,
+        "num": 294092,
+        "word": "张雨霏现学手势舞",
+        "onboard_time": 1729604059,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288465,
+        "num": 288465,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273692,
+        "num": 273692,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272520,
+        "num": 272520,
+        "word": "东北雨婶回应",
+        "onboard_time": 1729604840,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243623,
+        "num": 243623,
+        "word": "中国女子新西兰遇害1年后才找到遗体",
+        "onboard_time": 1729604479,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240332,
+        "num": 240332,
+        "word": "警方抓嫖时女子从空调外机坠落身亡",
+        "onboard_time": 1729598179,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217572,
+        "num": 217572,
+        "word": "nova13 易烊千玺提示音",
+        "onboard_time": 1729605740,
+        "rank": 35,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 215824,
+        "num": 215824,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209860,
+        "num": 209860,
+        "word": "华为Watch",
+        "onboard_time": 1729605139,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207764,
+        "num": 207764,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207447,
+        "num": 207447,
+        "word": "山东泰山2比2横滨水手",
+        "onboard_time": 1729606641,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206121,
+        "num": 206121,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195933,
+        "num": 195933,
+        "word": "nova13",
+        "onboard_time": 1729600519,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195703,
+        "num": 195703,
+        "word": "王者荣耀重度依赖",
+        "onboard_time": 1729606521,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46159,
+        "num": 188914,
+        "word": "纯血鸿蒙万物皆可碰一碰",
+        "onboard_time": 1729602140,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184739,
+        "num": 184739,
+        "word": "东北雨姐徒弟现状",
+        "onboard_time": 1729590318,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 176457,
+        "num": 176457,
+        "word": "Mate70什么时候上",
+        "onboard_time": 1729603940,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171709,
+        "num": 171709,
+        "word": "亚冠",
+        "onboard_time": 1729605740,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165985,
+        "num": 165985,
+        "word": "女子称存40多万取款时余额为零",
+        "onboard_time": 1729584859,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157405,
+        "num": 157405,
+        "word": "当兵真的可以改变一个人的气场",
+        "onboard_time": 1729599321,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 156630,
+        "num": 156630,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达喀山受到热烈欢迎#"
+    }
+  }
+}
