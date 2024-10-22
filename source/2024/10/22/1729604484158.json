@@ -1,0 +1,410 @@
+{
+  "runTime": 1729604484158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2437821,
+        "num": 2437821,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935318,
+        "num": 935318,
+        "word": "孙颖莎教王楠女儿打乒乓",
+        "onboard_time": 1729602019,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54211,
+        "num": 751360,
+        "word": "1分钟认识千年古城喀山",
+        "onboard_time": 1729600639,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 723580,
+        "num": 723580,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619705,
+        "num": 619705,
+        "word": "纯血鸿蒙",
+        "onboard_time": 1729597399,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 647679,
+        "num": 606918,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562115,
+        "num": 562115,
+        "word": "爱奇艺新规",
+        "onboard_time": 1729595838,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 533069,
+        "num": 533069,
+        "word": "原三只羊员工加盟听泉鉴宝",
+        "onboard_time": 1729601600,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453262,
+        "num": 453262,
+        "word": "nova13",
+        "onboard_time": 1729600519,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134732,
+        "num": 443733,
+        "word": "南京肯德基店员称用哪种油不好和你说",
+        "onboard_time": 1729603759,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1635363,
+        "num": 437110,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972805,
+        "num": 418781,
+        "word": "北京前副市长骗取经济学博士学位",
+        "onboard_time": 1729598718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554604,
+        "num": 407425,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402772,
+        "num": 402772,
+        "word": "当兵真的可以改变一个人的气场",
+        "onboard_time": 1729599321,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 388749,
+        "num": 388749,
+        "word": "徐志胜 你红你多分点",
+        "onboard_time": 1729599259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46542,
+        "num": 379495,
+        "word": "漫才兄弟 那个红酒有点涩",
+        "onboard_time": 1729603399,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52422,
+        "num": 378914,
+        "word": "余承东称鸿蒙而今迈步从头越",
+        "onboard_time": 1729600760,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 378584,
+        "num": 378584,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61592,
+        "num": 319006,
+        "word": "黑话和烂梗包围中小学生",
+        "onboard_time": 1729598659,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251272,
+        "num": 315209,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311509,
+        "num": 311509,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299170,
+        "num": 299170,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286418,
+        "num": 286418,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252202,
+        "num": 252202,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251242,
+        "num": 251242,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36784,
+        "num": 238763,
+        "word": "纯血鸿蒙万物皆可碰一碰",
+        "onboard_time": 1729602140,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35500,
+        "num": 237483,
+        "word": "nova13系列新增后置长焦人像镜头",
+        "onboard_time": 1729603940,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 236660,
+        "num": 236660,
+        "word": "心动的信号",
+        "onboard_time": 1729599738,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235848,
+        "num": 235848,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182645,
+        "num": 218549,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218235,
+        "num": 218235,
+        "word": "鸿蒙OS5.0发布",
+        "onboard_time": 1729600459,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212644,
+        "num": 212644,
+        "word": "nova13价格",
+        "onboard_time": 1729603220,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47655,
+        "num": 211676,
+        "word": "纯血鸿蒙应用100%来源可靠",
+        "onboard_time": 1729601360,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34947,
+        "num": 211454,
+        "word": "鸿蒙原生应用一天迭代一版本",
+        "onboard_time": 1729603940,
+        "rank": 33,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 34081,
+        "num": 210600,
+        "word": "张雨霏现学手势舞",
+        "onboard_time": 1729604059,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17170,
+        "num": 209082,
+        "word": "谁懂看上捞面锦标赛了",
+        "onboard_time": 1729600579,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208625,
+        "num": 208625,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202660,
+        "num": 202660,
+        "word": "Mate70什么时候上",
+        "onboard_time": 1729603940,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199815,
+        "num": 199815,
+        "word": "东北雨姐徒弟现状",
+        "onboard_time": 1729590318,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 24156,
+        "num": 193834,
+        "word": "nova13全系支持北斗卫星图片消息",
+        "onboard_time": 1729604059,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193647,
+        "num": 193647,
+        "word": "08年女高中生的课间十分钟",
+        "onboard_time": 1729598238,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28871,
+        "num": 186858,
+        "word": "李家超谈女子用假学历上港大",
+        "onboard_time": 1729602380,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113446,
+        "num": 186343,
+        "word": "大梦归离hi6路透",
+        "onboard_time": 1729603100,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186137,
+        "num": 186137,
+        "word": "警方抓嫖时女子从空调外机坠落身亡",
+        "onboard_time": 1729598179,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183806,
+        "num": 183806,
+        "word": "李瑞hanni新闻图",
+        "onboard_time": 1729604299,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39643,
+        "num": 183109,
+        "word": "外滩的大牙膏被挤爆了",
+        "onboard_time": 1729604359,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182756,
+        "num": 182756,
+        "word": "女子称存40多万取款时余额为零",
+        "onboard_time": 1729584859,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75563,
+        "num": 178658,
+        "word": "nova13洛登绿",
+        "onboard_time": 1729599438,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177934,
+        "num": 177934,
+        "word": "华为nova13上手体验",
+        "onboard_time": 1729603220,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20713,
+        "num": 175983,
+        "word": "专家称加沙局势不会得到彻底改变",
+        "onboard_time": 1729602320,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达俄罗斯喀山#"
+    }
+  }
+}

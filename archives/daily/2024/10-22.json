@@ -1,7 +1,15 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729603803454,
+  "endTime": 1729604484158,
   "band_list": [
+    {
+      "raw_hot": 2437821,
+      "num": 2437821,
+      "word": "战狼还是拍保守了",
+      "onboard_time": 1729600700,
+      "rank": 29,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2424806,
       "num": 365914,
@@ -25,14 +33,6 @@
       "onboard_time": 1729587617,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2286674,
-      "num": 2286674,
-      "word": "战狼还是拍保守了",
-      "onboard_time": 1729600700,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2082721,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935318,
+      "num": 935318,
+      "word": "孙颖莎教王楠女儿打乒乓",
+      "onboard_time": 1729602019,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 930488,
       "num": 930488,
       "word": "刘宪华才是蘑菇屋最聪明的",
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 846879,
-      "num": 846879,
-      "word": "孙颖莎教王楠女儿打乒乓",
-      "onboard_time": 1729602019,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 839867,
       "num": 317512,
       "word": "东北雨宙",
@@ -369,6 +369,14 @@
       "onboard_time": 1729525220,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 723580,
+      "num": 723580,
+      "word": "陈好说短时间内不会再参加真人秀",
+      "onboard_time": 1729601240,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 695140,
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 591538,
-      "num": 591538,
-      "word": "陈好说短时间内不会再参加真人秀",
-      "onboard_time": 1729601240,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 586452,
       "num": 317036,
       "word": "黄圣依 疲惫感",
@@ -505,6 +505,14 @@
       "onboard_time": 1729570220,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533069,
+      "num": 533069,
+      "word": "原三只羊员工加盟听泉鉴宝",
+      "onboard_time": 1729601600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529703,
@@ -553,14 +561,6 @@
       "onboard_time": 1729567577,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 515860,
-      "num": 515860,
-      "word": "原三只羊员工加盟听泉鉴宝",
-      "onboard_time": 1729601600,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509492,
@@ -673,6 +673,14 @@
       "onboard_time": 1729581798,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402772,
+      "num": 418050,
+      "word": "当兵真的可以改变一个人的气场",
+      "onboard_time": 1729599321,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 388451,
@@ -915,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 286418,
+      "num": 286418,
+      "word": "花近2万网购的泰迪竟被裁耳画眼线",
+      "onboard_time": 1729603040,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283279,
       "num": 238873,
       "word": "被醉酒男骚扰女生男友发声",
@@ -1011,20 +1027,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251272,
+      "num": 315209,
+      "word": "再见爱人4问题最大的夫妻",
+      "onboard_time": 1729601120,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250795,
       "num": 250795,
       "word": "孩子掉小区化粪池爷爷施救不幸身亡",
       "onboard_time": 1729593199,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250653,
-      "num": 250653,
-      "word": "再见爱人4问题最大的夫妻",
-      "onboard_time": 1729601120,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 245444,
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218235,
+      "num": 218235,
+      "word": "鸿蒙OS5.0发布",
+      "onboard_time": 1729600459,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 218224,
       "num": 367206,
       "word": "中小学英语教材改版有师生反映变难",
@@ -1227,14 +1251,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 214659,
-      "num": 214659,
-      "word": "花近2万网购的泰迪竟被裁耳画眼线",
-      "onboard_time": 1729603040,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214458,
       "num": 214458,
       "word": "孙颖莎第43周世排第一",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1729557318,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212644,
+      "num": 212644,
+      "word": "nova13价格",
+      "onboard_time": 1729603220,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 212237,
@@ -1323,14 +1347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204572,
-      "num": 204572,
-      "word": "鸿蒙OS5.0发布",
-      "onboard_time": 1729600459,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 204273,
       "num": 362494,
       "word": "藤井风巡演",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1729571482,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202660,
+      "num": 202660,
+      "word": "Mate70什么时候上",
+      "onboard_time": 1729603940,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 200723,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1729573281,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199810,
-      "num": 199810,
-      "word": "nova13价格",
-      "onboard_time": 1729603220,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 199631,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1729561638,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 183806,
+      "num": 183806,
+      "word": "李瑞hanni新闻图",
+      "onboard_time": 1729604299,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180992,
@@ -1843,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138997,
-      "num": 418050,
-      "word": "当兵真的可以改变一个人的气场",
-      "onboard_time": 1729599321,
-      "rank": 45,
-      "category": "军事"
-    },
-    {
       "raw_hot": 137625,
       "num": 171908,
       "word": "老舅演唱会嘉宾 鹿晗",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1729553776,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134732,
+      "num": 443733,
+      "word": "南京肯德基店员称用哪种油不好和你说",
+      "onboard_time": 1729603759,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133848,
@@ -2219,14 +2243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81450,
-      "num": 245696,
-      "word": "南京肯德基店员称用哪种油不好和你说",
-      "onboard_time": 1729603759,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81403,
       "num": 81403,
       "word": "韩国大学食堂自助午餐",
@@ -2499,7 +2515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53471,
+      "raw_hot": 54211,
       "num": 947277,
       "word": "1分钟认识千年古城喀山",
       "onboard_time": 1729600639,
@@ -2523,6 +2539,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52422,
+      "num": 413747,
+      "word": "余承东称鸿蒙而今迈步从头越",
+      "onboard_time": 1729600760,
+      "rank": 44,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 47655,
+      "num": 234696,
+      "word": "纯血鸿蒙应用100%来源可靠",
+      "onboard_time": 1729601360,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 46542,
+      "num": 411264,
+      "word": "漫才兄弟 那个红酒有点涩",
+      "onboard_time": 1729603399,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45525,
       "num": 224504,
       "word": "教育局称小学生坠井身亡系意外",
@@ -2537,14 +2577,6 @@
       "onboard_time": 1729538891,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42419,
-      "num": 413747,
-      "word": "余承东称鸿蒙而今迈步从头越",
-      "onboard_time": 1729600760,
-      "rank": 44,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 42273,
@@ -2571,20 +2603,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39643,
+      "num": 183109,
+      "word": "外滩的大牙膏被挤爆了",
+      "onboard_time": 1729604359,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38658,
       "num": 310987,
       "word": "高空抛物判死刑法律没有宽宥余地",
       "onboard_time": 1729585578,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38429,
-      "num": 234696,
-      "word": "纯血鸿蒙应用100%来源可靠",
-      "onboard_time": 1729601360,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 37852,
@@ -2611,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36784,
+      "num": 252431,
+      "word": "纯血鸿蒙万物皆可碰一碰",
+      "onboard_time": 1729602140,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36251,
       "num": 356417,
       "word": "黄河清流飞瀑映生态治理奇迹",
@@ -2627,11 +2667,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35658,
-      "num": 252431,
-      "word": "纯血鸿蒙万物皆可碰一碰",
-      "onboard_time": 1729602140,
-      "rank": 24,
+      "raw_hot": 35500,
+      "num": 237483,
+      "word": "nova13系列新增后置长焦人像镜头",
+      "onboard_time": 1729603940,
+      "rank": 26,
       "category": "数码"
     },
     {
@@ -2641,6 +2681,22 @@
       "onboard_time": 1729595119,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34947,
+      "num": 211454,
+      "word": "鸿蒙原生应用一天迭代一版本",
+      "onboard_time": 1729603940,
+      "rank": 33,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 34081,
+      "num": 210600,
+      "word": "张雨霏现学手势舞",
+      "onboard_time": 1729604059,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 33206,
@@ -2699,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28871,
+      "num": 405619,
+      "word": "李家超谈女子用假学历上港大",
+      "onboard_time": 1729602380,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28815,
       "num": 28815,
       "word": "未来三天新一股冷空气来袭",
@@ -2747,6 +2811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 24156,
+      "num": 193834,
+      "word": "nova13全系支持北斗卫星图片消息",
+      "onboard_time": 1729604059,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23819,
       "num": 314913,
       "word": "律师解读宣判后余华英还能否上诉",
@@ -2779,20 +2851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20713,
+      "num": 410414,
+      "word": "专家称加沙局势不会得到彻底改变",
+      "onboard_time": 1729602320,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20625,
       "num": 27663,
       "word": "春花焰",
       "onboard_time": 1729534632,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19463,
-      "num": 405619,
-      "word": "李家超谈女子用假学历上港大",
-      "onboard_time": 1729602380,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19262,
@@ -2859,14 +2931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14639,
-      "num": 410414,
-      "word": "专家称加沙局势不会得到彻底改变",
-      "onboard_time": 1729602320,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14615,
       "num": 31304,
       "word": "金砖合作大有可为",
@@ -2913,14 +2977,6 @@
       "onboard_time": 1729534512,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11989,
-      "num": 411264,
-      "word": "漫才兄弟 那个红酒有点涩",
-      "onboard_time": 1729603399,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 11479,
