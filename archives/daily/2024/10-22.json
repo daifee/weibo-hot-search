@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729572175083,
+  "endTime": 1729574512365,
   "band_list": [
     {
       "raw_hot": 2424806,
@@ -35,6 +35,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1235458,
+      "num": 1034994,
+      "word": "天津多家肯德基门店被立案调查",
+      "onboard_time": 1729570640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1124917,
       "num": 314778,
       "word": "白天当店长晚上做小偷",
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 946098,
+      "num": 946098,
+      "word": "国考河南12个岗位无人报名",
+      "onboard_time": 1729571180,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 901608,
       "num": 56942,
       "word": "斐乐 尾款",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 887708,
-      "num": 314428,
+      "num": 322705,
       "word": "班上成绩最差的同学写下自己的优点",
       "onboard_time": 1729567279,
       "rank": 20,
@@ -187,12 +203,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 547870,
+      "num": 1087659,
+      "word": "物业做防水40颗钉子将天花板打穿",
+      "onboard_time": 1729572562,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535955,
       "num": 535955,
       "word": "樊振东开通ins账号",
       "onboard_time": 1729570220,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 529703,
+      "num": 316855,
+      "word": "周深请跑男全组吃饭",
+      "onboard_time": 1729572201,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 527208,
@@ -249,6 +281,14 @@
       "onboard_time": 1729565478,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472261,
+      "num": 234459,
+      "word": "黄圣依 疲惫感",
+      "onboard_time": 1729573820,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 420206,
@@ -313,14 +353,6 @@
       "onboard_time": 1729514959,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 367801,
-      "num": 367801,
-      "word": "国考河南12个岗位无人报名",
-      "onboard_time": 1729571180,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353011,
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287134,
+      "num": 287134,
+      "word": "睡觉有这个习惯的人老得更快",
+      "onboard_time": 1729569440,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283279,
       "num": 238873,
       "word": "被醉酒男骚扰女生男友发声",
@@ -451,14 +491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 256915,
-      "num": 256915,
-      "word": "睡觉有这个习惯的人老得更快",
-      "onboard_time": 1729569440,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 245444,
       "num": 245444,
       "word": "男子正要给骗子再转100万时民警来了",
@@ -499,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 227742,
+      "num": 227742,
+      "word": "樊振东ins简介 Swiftie",
+      "onboard_time": 1729574120,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224040,
       "num": 320860,
       "word": "权志龙官宣出演MAMA",
@@ -507,12 +547,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 223533,
+      "num": 223533,
+      "word": "24岁带了四个月娃后发生的变化",
+      "onboard_time": 1729573939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221195,
       "num": 314136,
       "word": "沈腾像极了回村吃席的我",
       "onboard_time": 1729570039,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218224,
+      "num": 367206,
+      "word": "中小学英语教材改版有师生反映变难",
+      "onboard_time": 1729571240,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217076,
+      "num": 339449,
+      "word": "陈少熙直播",
+      "onboard_time": 1729572980,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214458,
+      "num": 214458,
+      "word": "孙颖莎第43周世排第一",
+      "onboard_time": 1729571661,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 213770,
@@ -531,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212190,
-      "num": 366678,
-      "word": "天津多家肯德基门店被立案调查",
-      "onboard_time": 1729570640,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212081,
       "num": 212081,
       "word": "公司称东北雨姐不是永久禁言",
@@ -553,6 +617,14 @@
       "onboard_time": 1729511119,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210899,
+      "num": 333522,
+      "word": "猎罪图鉴2下证",
+      "onboard_time": 1729573701,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 210666,
@@ -593,6 +665,14 @@
       "onboard_time": 1729571482,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200139,
+      "num": 327515,
+      "word": "周深采访羊问你的肉膻不膻",
+      "onboard_time": 1729573281,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 199631,
@@ -643,20 +723,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185385,
+      "num": 185385,
+      "word": "婚姻中最受欢迎的伴侣类型",
+      "onboard_time": 1729569499,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184529,
       "num": 184529,
       "word": "双十一发货速度",
       "onboard_time": 1729561638,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175943,
-      "num": 175943,
-      "word": "孙颖莎第43周世排第一",
-      "onboard_time": 1729571661,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 175547,
@@ -739,6 +819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149053,
+      "num": 149053,
+      "word": "早期做魏大勋梦女的追星视频",
+      "onboard_time": 1729572380,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148388,
       "num": 148388,
       "word": "本周最幸运星座",
@@ -755,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146977,
-      "num": 146977,
-      "word": "婚姻中最受欢迎的伴侣类型",
-      "onboard_time": 1729569499,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 144667,
+      "num": 219133,
+      "word": "金晨怎么能松弛成这样",
+      "onboard_time": 1729573939,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 144308,
@@ -777,6 +865,14 @@
       "onboard_time": 1729558520,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141831,
+      "num": 141831,
+      "word": "星期日大招",
+      "onboard_time": 1729572860,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141530,
@@ -803,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136957,
+      "num": 136957,
+      "word": "成都的烧烤摊敢出你敢吃吗",
+      "onboard_time": 1729572380,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134739,
       "num": 222382,
       "word": "披荆斩棘是场巨大的戒断反应",
@@ -817,6 +921,14 @@
       "onboard_time": 1729554498,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131877,
+      "num": 131877,
+      "word": "张杰南宁",
+      "onboard_time": 1729572501,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 130913,
@@ -931,6 +1043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 104116,
+      "num": 331897,
+      "word": "声生不息",
+      "onboard_time": 1729574120,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103397,
       "num": 103397,
       "word": "被大熊猫的柔韧度惊到了",
@@ -945,6 +1065,14 @@
       "onboard_time": 1729513098,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95519,
+      "num": 345515,
+      "word": "中国援助包机约60吨物资满满登登",
+      "onboard_time": 1729573760,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92619,
@@ -1075,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71938,
-      "num": 367206,
-      "word": "中小学英语教材改版有师生反映变难",
-      "onboard_time": 1729571240,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71413,
       "num": 276297,
       "word": "衡阳一工地发生小学生坠井死亡事件",
@@ -1116,7 +1236,7 @@
     },
     {
       "raw_hot": 67460,
-      "num": 696708,
+      "num": 985029,
       "word": "让二万五千里长征精神永远流传",
       "onboard_time": 1729564517,
       "rank": 2,
@@ -1243,6 +1363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33942,
+      "num": 328920,
+      "word": "穿搭天才都在冬季",
+      "onboard_time": 1729573399,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 30478,
       "num": 314589,
       "word": "复古相机成年轻人的新理财",
@@ -1265,6 +1393,14 @@
       "onboard_time": 1729566797,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24705,
+      "num": 325261,
+      "word": "以物抵债69套房产遭法院查封8年",
+      "onboard_time": 1729573580,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23819,
@@ -1312,6 +1448,14 @@
       "word": "被虐待致死3岁男童生母欲讨公道",
       "onboard_time": 1729537751,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18461,
+      "num": 334080,
+      "word": "当地辟谣因疫情和登革热死了很多人",
+      "onboard_time": 1729574239,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
