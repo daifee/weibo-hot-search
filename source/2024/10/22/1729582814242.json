@@ -1,0 +1,410 @@
+{
+  "runTime": 1729582814242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 421745,
+        "num": 1067479,
+        "word": "物业做防水40颗钉子将天花板打穿",
+        "onboard_time": 1729572562,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296395,
+        "num": 296395,
+        "word": "小米15",
+        "onboard_time": 1729569499,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19759,
+        "num": 282815,
+        "word": "文化中国行看传统服饰之美",
+        "onboard_time": 1729563978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369797,
+        "num": 282188,
+        "word": "国考河南12个岗位无人报名",
+        "onboard_time": 1729571180,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271248,
+        "num": 271248,
+        "word": "中部战区运20直冲云霄有多酷炫",
+        "onboard_time": 1729580837,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253119,
+        "num": 271181,
+        "word": "天津多家肯德基门店被立案调查",
+        "onboard_time": 1729570640,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223098,
+        "num": 270861,
+        "word": "中国援助包机约60吨物资满满登登",
+        "onboard_time": 1729573760,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198432,
+        "num": 270822,
+        "word": "猎罪图鉴2下证",
+        "onboard_time": 1729573701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154357,
+        "num": 270420,
+        "word": "张凯丽发文祝贺赵丽颖",
+        "onboard_time": 1729575198,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74973,
+        "num": 270244,
+        "word": "秦岭遇险获救者发声",
+        "onboard_time": 1729580837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283648,
+        "num": 270148,
+        "word": "肯德基被曝用转基因大豆油",
+        "onboard_time": 1729576399,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109659,
+        "num": 269852,
+        "word": "徒步者曾遇秦岭遇难女孩称看起来吓人",
+        "onboard_time": 1729580478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965787,
+        "num": 269700,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486778,
+        "num": 269465,
+        "word": "樊振东ins简介 Swiftie",
+        "onboard_time": 1729574120,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351119,
+        "num": 269158,
+        "word": "一学校自带饭学生只能蹲教室外吃",
+        "onboard_time": 1729578798,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323381,
+        "num": 269116,
+        "word": "阎鹤祥 工程师",
+        "onboard_time": 1729581798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314946,
+        "num": 268816,
+        "word": "朝鲜否认出兵援俄",
+        "onboard_time": 1729581619,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268689,
+        "num": 268689,
+        "word": "24岁带了四个月娃后发生的变化",
+        "onboard_time": 1729573939,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264954,
+        "num": 264954,
+        "word": "老人地铁上强行拉拽孕妇要求让座",
+        "onboard_time": 1729580837,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135311,
+        "num": 264899,
+        "word": "陈少熙直播",
+        "onboard_time": 1729572980,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1024509,
+        "num": 263131,
+        "word": "男子抑郁发作捂死87岁母亲",
+        "onboard_time": 1729570220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602998,
+        "num": 262293,
+        "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+        "onboard_time": 1729577299,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476193,
+        "num": 260140,
+        "word": "婴儿死亡委托火化结果未留骨灰",
+        "onboard_time": 1729576698,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448987,
+        "num": 258509,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1729580360,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129639,
+        "num": 257528,
+        "word": "朴彩英Spotify日冠",
+        "onboard_time": 1729579939,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257104,
+        "num": 257104,
+        "word": "班上成绩最差的同学写下自己的优点",
+        "onboard_time": 1729567279,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249487,
+        "num": 249487,
+        "word": "黄磊在乌镇宴请多位圈内好友吃饭",
+        "onboard_time": 1729579157,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232317,
+        "num": 232317,
+        "word": "黄圣依 疲惫感",
+        "onboard_time": 1729573820,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101980,
+        "num": 229430,
+        "word": "心动的信号7",
+        "onboard_time": 1729577478,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17532,
+        "num": 227907,
+        "word": "居民称衡阳小学生坠井地此前有井盖",
+        "onboard_time": 1729581018,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45525,
+        "num": 224504,
+        "word": "教育局称小学生坠井身亡系意外",
+        "onboard_time": 1729580898,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36993,
+        "num": 220085,
+        "word": "老外晒在中国喜提双11第一单",
+        "onboard_time": 1729581138,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219593,
+        "num": 219593,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 32,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 218398,
+        "num": 218398,
+        "word": "夜爬秦岭遇难情侣穿常规外套没背包",
+        "onboard_time": 1729578018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213975,
+        "num": 213975,
+        "word": "为什么衣服穿的越多反而没那么暖和",
+        "onboard_time": 1729578918,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158263,
+        "num": 158263,
+        "word": "孙悟空维基百科词条被改为印度神",
+        "onboard_time": 1729578318,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149758,
+        "num": 149758,
+        "word": "一图读懂金砖从何而来",
+        "onboard_time": 1729568359,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "一教师因学生丢橡皮被举报",
+        "onboard_time": 1729576939,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 145581,
+        "word": "周深请跑男全组吃饭",
+        "onboard_time": 1729572201,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140285,
+        "num": 140285,
+        "word": "不管炒什么肉不要直接下锅炒",
+        "onboard_time": 1729567577,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139677,
+        "num": 139677,
+        "word": "金牛座其实很吃强制爱",
+        "onboard_time": 1729579519,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137870,
+        "num": 137870,
+        "word": "睡觉有这个习惯的人老得更快",
+        "onboard_time": 1729569440,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134983,
+        "num": 134983,
+        "word": "雨姐传媒回应东北雨姐被禁言",
+        "onboard_time": 1729582280,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "美国一幼童开枪打死一名婴儿",
+        "onboard_time": 1729582457,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108321,
+        "num": 128073,
+        "word": "老父亲当榜一大哥刷光50万元养老金",
+        "onboard_time": 1729580958,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126764,
+        "num": 126764,
+        "word": "翁青雅 不想再谈浪费时间的恋爱",
+        "onboard_time": 1729569198,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110410,
+        "num": 110410,
+        "word": "学校回应自带饭学生只能蹲教室外吃",
+        "onboard_time": 1729581738,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102696,
+        "num": 102696,
+        "word": "杨子 过年了",
+        "onboard_time": 1729582697,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96117,
+        "num": 96117,
+        "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
+        "onboard_time": 1729566317,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 95734,
+        "num": 95734,
+        "word": "中国男子在马尔代夫潜水时溺亡",
+        "onboard_time": 1729575020,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂金砖从何而来#"
+    }
+  }
+}
