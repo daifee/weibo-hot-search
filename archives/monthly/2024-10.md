@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 19:35:41
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 20:42:57
 </p>
 </blockquote>
 <p>
@@ -779,6 +779,12 @@ A股成交再创历史最快万亿纪录（热度：2096595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E8%A2%AB%E6%8C%87%E5%A1%8C%E6%88%BF%E5%9B%9B%E5%A4%A7%E7%96%91%E9%97%AE%E5%BE%85%E8%A7%A3%23" target="weibo">
 听泉鉴宝被指塌房四大疑问待解（热度：2082819）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8A%93%E5%AB%96%E6%97%B6%E5%A5%B3%E5%AD%90%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9468%E4%B8%87%23" target="weibo">
+警方抓嫖时女子坠亡家属索赔68万（热度：2082721）
 </a>
 </li>
 
@@ -3123,6 +3129,12 @@ K总停播（热度：1089422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%96%B0%E8%A7%84%23" target="weibo">
+爱奇艺新规（热度：1081814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E8%AF%B4feelnothing%23" target="weibo">
 覃海洋说feelnothing（热度：1081015）
 </a>
@@ -3837,6 +3849,12 @@ SEVENTEEN演唱会着火（热度：981986）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%89%8D%E5%89%AF%E5%B8%82%E9%95%BF%E9%AA%97%E5%8F%96%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%23" target="weibo">
+北京前副市长骗取经济学博士学位（热度：973361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%92%E8%81%94%E8%AF%B4%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF%23" target="weibo">
 世界乒联说孙颖莎好好休息（热度：972423）
 </a>
@@ -4163,6 +4181,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%8B%B1%E7%A7%B0%E7%89%9B%E5%9B%A0%E7%94%9F%E4%BA%86%E5%B0%8F%E7%89%9B%E4%B8%94%E7%94%9F%E7%97%85%E6%89%8D%E7%98%A6%23" target="weibo">
 小英称牛因生了小牛且生病才瘦（热度：925119）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AF%E8%A1%80%E9%B8%BF%E8%92%99%23" target="weibo">
+纯血鸿蒙（热度：925027）
 </a>
 </li>
 
@@ -5990,30 +6014,6 @@ HPV疫苗已降到20多元1支（热度：747235）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%AF%8C%E8%B1%AA%E6%AD%A3%E9%80%83%E7%A6%BB%E8%8B%B1%E5%9B%BD%23" target="weibo">
-全球富豪正逃离英国（热度：739917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9C%9D%E5%86%9B%E5%B7%B2%E8%BF%9B%E5%85%A5%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E5%9C%BA%23" target="weibo">
-外交部回应朝军已进入乌克兰战场（热度：739881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E6%96%B9%E5%85%AC%E5%B8%83%E9%9F%A9%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%AE%8B%E9%AA%B8%23" target="weibo">
-朝方公布韩国无人机残骸（热度：739718）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%B7%B1%E5%94%AE%E6%A5%BC%E9%83%A8%E6%8C%A4%E6%BB%A1%E4%BA%86%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%23" target="weibo">
-广深售楼部挤满了买房的人（热度：739698）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6497,6 +6497,12 @@ HPV疫苗已降到20多元1支（热度：747235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%96%80%E5%B1%B1%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
 #习近平喀山之行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8A%B5%E8%BE%BE%E5%96%80%E5%B1%B1%E5%8F%97%E5%88%B0%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%23%23" target="weibo">
+#习近平主席抵达喀山受到热烈欢迎#
 </a>
 </li>
 

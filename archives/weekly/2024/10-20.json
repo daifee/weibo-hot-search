@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729596941855,
+  "endTime": 1729600977569,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -105,6 +105,14 @@
       "onboard_time": 1729427240,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2082721,
+      "num": 177225,
+      "word": "警方抓嫖时女子坠亡家属索赔68万",
+      "onboard_time": 1729596859,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2000073,
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1081814,
+      "num": 1173090,
+      "word": "爱奇艺新规",
+      "onboard_time": 1729595838,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1081015,
       "num": 1081015,
       "word": "覃海洋说feelnothing",
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973361,
+      "num": 352304,
+      "word": "北京前副市长骗取经济学博士学位",
+      "onboard_time": 1729598718,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958892,
       "num": 913788,
       "word": "马斯克每天随机向选民发100万美元",
@@ -713,6 +737,14 @@
       "onboard_time": 1729593438,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 925027,
+      "num": 925027,
+      "word": "纯血鸿蒙",
+      "onboard_time": 1729597399,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 919296,
@@ -1995,6 +2027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 418072,
+      "num": 361654,
+      "word": "Ning 情商",
+      "onboard_time": 1729595779,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 416827,
       "num": 349550,
       "word": "何猷君奚梦瑶带娃逛迪士尼",
@@ -2099,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398297,
-      "num": 398297,
-      "word": "爱奇艺新规",
-      "onboard_time": 1729595838,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 394961,
       "num": 394961,
       "word": "Ning直播回应王多多",
@@ -2115,20 +2147,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 394313,
+      "num": 394313,
+      "word": "徐志胜 你红你多分点",
+      "onboard_time": 1729599259,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393681,
       "num": 109958,
       "word": "家属回应乡长下乡被村民刺伤身亡",
       "onboard_time": 1729370291,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392122,
-      "num": 361654,
-      "word": "Ning 情商",
-      "onboard_time": 1729595779,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 390223,
@@ -3019,6 +3051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270433,
+      "num": 353144,
+      "word": "心动的信号",
+      "onboard_time": 1729599738,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270308,
       "num": 270308,
       "word": "粉笔模考",
@@ -3411,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230963,
+      "num": 230963,
+      "word": "全球第三大移动操作系统正式发布",
+      "onboard_time": 1729598959,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 230899,
       "num": 230899,
       "word": "景德镇车祸受害人家属称绝不谅解",
@@ -3627,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219347,
+      "num": 219347,
+      "word": "黎深 魅魔与社畜",
+      "onboard_time": 1729599559,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219056,
       "num": 219056,
       "word": "东北小伙花千元把老家爆改成三亚",
@@ -3689,6 +3745,14 @@
       "onboard_time": 1729572980,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215889,
+      "num": 215889,
+      "word": "HarmonyOS NEXT",
+      "onboard_time": 1729598839,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 215206,
@@ -4003,6 +4067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200814,
+      "num": 200814,
+      "word": "警方抓嫖时女子从空调外机坠落身亡",
+      "onboard_time": 1729598179,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200723,
+      "num": 200723,
+      "word": "纯血鸿蒙 自主可控",
+      "onboard_time": 1729600158,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200548,
       "num": 240018,
       "word": "王一博刷新了自己的最快圈速",
@@ -4089,6 +4169,14 @@
       "onboard_time": 1729429221,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197557,
+      "num": 232332,
+      "word": "战狼还是拍保守了",
+      "onboard_time": 1729600700,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197282,
@@ -4265,6 +4353,14 @@
       "onboard_time": 1729433484,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191587,
+      "num": 191587,
+      "word": "nova13",
+      "onboard_time": 1729600519,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 191481,
@@ -4523,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183292,
+      "num": 183292,
+      "word": "鸿蒙OS5.0发布",
+      "onboard_time": 1729600459,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182135,
       "num": 182135,
       "word": "外国小姐姐穿上了汉代甲胄",
@@ -4577,6 +4681,14 @@
       "onboard_time": 1729575020,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179563,
+      "num": 179563,
+      "word": "08年女高中生的课间十分钟",
+      "onboard_time": 1729598238,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 178034,
@@ -4785,6 +4897,14 @@
       "onboard_time": 1729472120,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167881,
+      "num": 167881,
+      "word": "宋雨琦谢谢李晨送的兔兔",
+      "onboard_time": 1729598298,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 167852,
@@ -5043,6 +5163,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156203,
+      "num": 156203,
+      "word": "湖南一小学被曝学生带饭只能室外用餐",
+      "onboard_time": 1729596379,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 359368,
+      "word": "教育局回应4名初中生1死1失联",
+      "onboard_time": 1729596618,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154524,
+      "num": 300345,
+      "word": "姑娘穿上军装眼里瞬间有了杀气",
+      "onboard_time": 1729597519,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154493,
       "num": 154493,
       "word": "张杰我的眼泪是不要钱吗",
@@ -5105,6 +5249,14 @@
       "onboard_time": 1729574120,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152470,
+      "num": 152470,
+      "word": "逆水寒手游国色头像",
+      "onboard_time": 1729600940,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 152392,
@@ -5361,14 +5513,6 @@
       "onboard_time": 1729511540,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143764,
-      "num": 143764,
-      "word": "湖南一小学被曝学生带饭只能室外用餐",
-      "onboard_time": 1729596379,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143689,
@@ -6041,14 +6185,6 @@
       "onboard_time": 1729394118,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119573,
-      "num": 119573,
-      "word": "警方抓嫖时女子坠亡家属索赔68万",
-      "onboard_time": 1729596859,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119262,
@@ -6955,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71975,
+      "num": 301072,
+      "word": "黑话和烂梗包围中小学生",
+      "onboard_time": 1729598659,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71413,
       "num": 276297,
       "word": "衡阳一工地发生小学生坠井死亡事件",
@@ -7267,6 +7411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53925,
+      "num": 300576,
+      "word": "何广智 给我个面子",
+      "onboard_time": 1729600579,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53572,
       "num": 474518,
       "word": "易烊千玺天猫双11开幕盛典",
@@ -7419,14 +7571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45851,
-      "num": 359368,
-      "word": "教育局回应4名初中生1死1失联",
-      "onboard_time": 1729596618,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45525,
       "num": 224504,
       "word": "教育局称小学生坠井身亡系意外",
@@ -7569,6 +7713,14 @@
       "onboard_time": 1729449912,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38755,
+      "num": 234889,
+      "word": "nova13洛登绿",
+      "onboard_time": 1729599438,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 38678,
@@ -7795,6 +7947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31599,
+      "num": 349617,
+      "word": "官方通报一学生遭醉酒班老师殴打",
+      "onboard_time": 1729599321,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31590,
       "num": 505090,
       "word": "擅自离岗十六年限期返回之后呢",
@@ -7875,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29530,
+      "num": 179345,
+      "word": "购物卡黄牛行骗败露威胁受害者",
+      "onboard_time": 1729598839,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29332,
       "num": 131612,
       "word": "40岁就可以打带状疱疹疫苗了",
@@ -7907,6 +8075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28064,
+      "num": 233883,
+      "word": "纯血鸿蒙打造全新系统级AI",
+      "onboard_time": 1729599438,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27940,
       "num": 251218,
       "word": "11.11集卡新玩法",
@@ -7937,6 +8113,14 @@
       "onboard_time": 1729484179,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27677,
+      "num": 175934,
+      "word": "余承东称鸿蒙而今迈步从头越",
+      "onboard_time": 1729600760,
+      "rank": 44,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 27424,
@@ -8115,6 +8299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22706,
+      "num": 178111,
+      "word": "谁懂看上捞面锦标赛了",
+      "onboard_time": 1729600579,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 22340,
       "num": 120594,
       "word": "这届年轻人过冬既要city又要warm",
@@ -8193,6 +8385,14 @@
       "onboard_time": 1729450511,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20194,
+      "num": 353924,
+      "word": "黄河清流飞瀑映生态治理奇迹",
+      "onboard_time": 1729600459,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19836,
@@ -8467,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12233,
+      "num": 405806,
+      "word": "1分钟认识千年古城喀山",
+      "onboard_time": 1729600639,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12115,
       "num": 408528,
       "word": "姚晨回母校报道",
@@ -8579,6 +8787,9 @@
     },
     {
       "word": "#习近平喀山之行#"
+    },
+    {
+      "word": "#习近平主席抵达喀山受到热烈欢迎#"
     }
   ]
 }
