@@ -1,0 +1,410 @@
+{
+  "runTime": 1729596941855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2351392,
+        "num": 2351392,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930488,
+        "num": 930488,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3530,
+        "num": 771965,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725774,
+        "num": 725774,
+        "word": "广东夫妇邀请公证员监督直播间红包补贴发放",
+        "onboard_time": 1729591339,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398297,
+        "num": 398297,
+        "word": "爱奇艺新规",
+        "onboard_time": 1729595838,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 390993,
+        "num": 390993,
+        "word": "中印就边境问题达成解决方案",
+        "onboard_time": 1729583958,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371666,
+        "num": 371666,
+        "word": "绝密文件间接证实以确实有核武器",
+        "onboard_time": 1729582998,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17696,
+        "num": 371631,
+        "word": "三星堆还在不断有新发现",
+        "onboard_time": 1729585218,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323353,
+        "num": 370675,
+        "word": "花少",
+        "onboard_time": 1729591998,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14280,
+        "num": 369389,
+        "word": "俄罗斯街头明信片接力",
+        "onboard_time": 1729596559,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203125,
+        "num": 368959,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1187238,
+        "num": 368184,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1033604,
+        "num": 367392,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616519,
+        "num": 366557,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66726,
+        "num": 365796,
+        "word": "双11算了一周发现拼多多是真划算",
+        "onboard_time": 1729585998,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 453414,
+        "num": 365422,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445638,
+        "num": 364147,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438891,
+        "num": 363984,
+        "word": "东北雨姐徒弟现状",
+        "onboard_time": 1729590318,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 424448,
+        "num": 362862,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412701,
+        "num": 361824,
+        "word": "女子称存40多万取款时余额为零",
+        "onboard_time": 1729584859,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392122,
+        "num": 361654,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 383638,
+        "num": 360511,
+        "word": "再见爱人 窒息",
+        "onboard_time": 1729591878,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382062,
+        "num": 359774,
+        "word": "哈尔滨市公安局原副局长于涛涉黑",
+        "onboard_time": 1729587978,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45851,
+        "num": 359368,
+        "word": "教育局回应4名初中生1死1失联",
+        "onboard_time": 1729596618,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35200,
+        "num": 358558,
+        "word": "红星美凯龙的质保金退着退着成负数",
+        "onboard_time": 1729595119,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225207,
+        "num": 357943,
+        "word": "金晨 人尴尬的时候会假装很忙",
+        "onboard_time": 1729592598,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207939,
+        "num": 357082,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127472,
+        "num": 356469,
+        "word": "脱口秀和Ta的朋友们总决赛",
+        "onboard_time": 1729594039,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92443,
+        "num": 355014,
+        "word": "再见爱人",
+        "onboard_time": 1729595479,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37657,
+        "num": 354436,
+        "word": "下个月就立冬了",
+        "onboard_time": 1729596919,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354209,
+        "num": 354209,
+        "word": "张艺谋称黑神话剧本非常好",
+        "onboard_time": 1729589539,
+        "rank": 30,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 331377,
+        "num": 331377,
+        "word": "刘冲 新东方",
+        "onboard_time": 1729595479,
+        "rank": 31,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 280744,
+        "num": 280744,
+        "word": "女子被猥亵求助隔壁老板霸气喝退",
+        "onboard_time": 1729595239,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246009,
+        "num": 246009,
+        "word": "徒步者曾遇秦岭遇难女孩称看起来吓人",
+        "onboard_time": 1729580478,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88990,
+        "num": 245299,
+        "word": "刘雨璠 只是没有被喜欢而已",
+        "onboard_time": 1729584320,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245200,
+        "num": 245200,
+        "word": "洪磊任外交部部长助理",
+        "onboard_time": 1729594159,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240110,
+        "num": 240110,
+        "word": "孩子掉小区化粪池爷爷施救不幸身亡",
+        "onboard_time": 1729593199,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214559,
+        "num": 214559,
+        "word": "宋茜 我的梦中情姐",
+        "onboard_time": 1729591579,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201230,
+        "num": 201230,
+        "word": "许家印香港豪宅6折急寻买家",
+        "onboard_time": 1729587737,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189901,
+        "num": 189901,
+        "word": "肯德基被曝用转基因大豆油",
+        "onboard_time": 1729576399,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173040,
+        "num": 173040,
+        "word": "俄罗斯礼兵在机场列队致敬",
+        "onboard_time": 1729592177,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163503,
+        "num": 163503,
+        "word": "官方回应女子存40多万取款余额为零",
+        "onboard_time": 1729591878,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 143764,
+        "word": "湖南一小学被曝学生带饭只能室外用餐",
+        "onboard_time": 1729596379,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "老人地铁上强行拉拽孕妇要求让座",
+        "onboard_time": 1729580837,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137278,
+        "num": 137278,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1729580360,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137141,
+        "num": 137141,
+        "word": "博主要求进入哀牢山颜料师公开道歉",
+        "onboard_time": 1729589839,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129394,
+        "num": 129394,
+        "word": "9个月婴儿离世未被留骨灰家属获赔4万",
+        "onboard_time": 1729577299,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119573,
+        "num": 119573,
+        "word": "警方抓嫖时女子坠亡家属索赔68万",
+        "onboard_time": 1729596859,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115284,
+        "num": 115284,
+        "word": "郑钦文说做回普通人挺好",
+        "onboard_time": 1729596738,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110165,
+        "num": 110165,
+        "word": "皓嫣批活过来了",
+        "onboard_time": 1729596499,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平喀山之行#"
+    }
+  }
+}
