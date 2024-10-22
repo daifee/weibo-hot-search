@@ -1,0 +1,410 @@
+{
+  "runTime": 1729615481760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307163,
+        "num": 1307163,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 458238,
+        "num": 458238,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9705,
+        "num": 381810,
+        "word": "一图带你数读金砖",
+        "onboard_time": 1729599618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327152,
+        "num": 327152,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302874,
+        "num": 302874,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273807,
+        "num": 273807,
+        "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
+        "onboard_time": 1729612158,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272422,
+        "num": 272422,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220574,
+        "num": 220574,
+        "word": "中俄领导人会晤",
+        "onboard_time": 1729608980,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194123,
+        "num": 220310,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75306,
+        "num": 216920,
+        "word": "约400年前中国武夷山茶叶送至俄罗斯",
+        "onboard_time": 1729612878,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 589292,
+        "num": 216112,
+        "word": "四川警方发布无名尸体认领公告",
+        "onboard_time": 1729612818,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497996,
+        "num": 213086,
+        "word": "警方抓嫖时女子从空调外机坠落身亡",
+        "onboard_time": 1729598179,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296463,
+        "num": 210957,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209909,
+        "num": 209909,
+        "word": "纯血鸿蒙",
+        "onboard_time": 1729597399,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277680,
+        "num": 208399,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258976,
+        "num": 206081,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219976,
+        "num": 202729,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196850,
+        "num": 196850,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180999,
+        "num": 180999,
+        "word": "北京前副市长骗取经济学博士学位",
+        "onboard_time": 1729598718,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139029,
+        "num": 161012,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199767,
+        "num": 160371,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159645,
+        "num": 159645,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146740,
+        "num": 146740,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143197,
+        "num": 143197,
+        "word": "孙颖莎教王楠女儿打乒乓",
+        "onboard_time": 1729602019,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141207,
+        "num": 141207,
+        "word": "爸爸找回失散38年儿子后痛哭道歉",
+        "onboard_time": 1729607720,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134846,
+        "num": 134846,
+        "word": "华为SIM卡版平板首发开箱",
+        "onboard_time": 1729612039,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132958,
+        "num": 132958,
+        "word": "王者荣耀重度依赖",
+        "onboard_time": 1729606521,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127438,
+        "num": 127438,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121878,
+        "num": 121878,
+        "word": "2025考研",
+        "onboard_time": 1729614316,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111416,
+        "num": 111416,
+        "word": "美国飞行员航展现场遇难",
+        "onboard_time": 1729610658,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106721,
+        "num": 106721,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "此沙演技",
+        "onboard_time": 1729609580,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "中国女子新西兰遇害1年后才找到遗体",
+        "onboard_time": 1729604479,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97481,
+        "num": 97481,
+        "word": "SM三十周年纪念视频",
+        "onboard_time": 1729608921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92544,
+        "num": 92544,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88785,
+        "num": 88785,
+        "word": "08年女高中生的课间十分钟",
+        "onboard_time": 1729598238,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86817,
+        "num": 86817,
+        "word": "警方通报西安一公务车街头漂移",
+        "onboard_time": 1729607061,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85069,
+        "num": 85069,
+        "word": "毓言cp",
+        "onboard_time": 1729609040,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83496,
+        "num": 83496,
+        "word": "A股",
+        "onboard_time": 1729611499,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80280,
+        "num": 80280,
+        "word": "爱奇艺新规",
+        "onboard_time": 1729595838,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78240,
+        "num": 78240,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72523,
+        "num": 72523,
+        "word": "赵露思刘宇宁 戏里戏外反差感",
+        "onboard_time": 1729614618,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72327,
+        "num": 72327,
+        "word": "Mate70什么时候上",
+        "onboard_time": 1729603940,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64973,
+        "num": 72323,
+        "word": "呼兰 开心3300点",
+        "onboard_time": 1729608020,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63742,
+        "num": 72236,
+        "word": "心动的信号",
+        "onboard_time": 1729599738,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59089,
+        "num": 72194,
+        "word": "华为手表支持带血氧数据发卫星消息求救",
+        "onboard_time": 1729615456,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58448,
+        "num": 72092,
+        "word": "nova13 易烊千玺提示音",
+        "onboard_time": 1729605740,
+        "rank": 47,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 58095,
+        "num": 72009,
+        "word": "徐志胜 你红你多分点",
+        "onboard_time": 1729599259,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54028,
+        "num": 71965,
+        "word": "张凯丽晒给赵丽颖颁奖照",
+        "onboard_time": 1729608741,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达喀山受到热烈欢迎#"
+    }
+  }
+}
