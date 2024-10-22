@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729611534809,
+  "endTime": 1729614506646,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -217,6 +217,14 @@
       "onboard_time": 1729576399,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1579903,
+      "num": 1579903,
+      "word": "微信内测查删单向好友功能",
+      "onboard_time": 1729610540,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 1536129,
@@ -833,14 +841,6 @@
       "onboard_time": 1729567279,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 885415,
-      "num": 885415,
-      "word": "微信内测查删单向好友功能",
-      "onboard_time": 1729610540,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 882415,
@@ -2819,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310522,
+      "num": 247091,
+      "word": "四川警方发布无名尸体认领公告",
+      "onboard_time": 1729612818,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309095,
       "num": 390110,
       "word": "成都一小区承重柱不达标被拆",
@@ -3435,6 +3443,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 245569,
+      "num": 245569,
+      "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
+      "onboard_time": 1729612158,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245511,
       "num": 444065,
       "word": "以军401装甲旅旅长被打死",
@@ -3481,6 +3497,14 @@
       "onboard_time": 1729604479,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242879,
+      "num": 228123,
+      "word": "白鹿奔跑吧特别季录制结束哭了",
+      "onboard_time": 1729612639,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 241806,
@@ -5275,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163857,
+      "num": 163857,
+      "word": "华为SIM卡版平板首发开箱",
+      "onboard_time": 1729612039,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "世界乒联称马龙是乒坛GOAT",
@@ -5304,6 +5336,14 @@
       "word": "双十一洗衣液",
       "onboard_time": 1729524140,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162638,
+      "num": 399536,
+      "word": "美国飞行员航展现场遇难",
+      "onboard_time": 1729610658,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -7355,6 +7395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79708,
+      "num": 79708,
+      "word": "真正的自律是对自己负责",
+      "onboard_time": 1729613418,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79580,
       "num": 426831,
       "word": "黑话和烂梗包围中小学生",
@@ -7427,6 +7475,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75180,
+      "num": 75180,
+      "word": "约400年前中国武夷山茶叶送至俄罗斯",
+      "onboard_time": 1729612878,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 74690,
+      "num": 74690,
+      "word": "2025考研",
+      "onboard_time": 1729614316,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 74483,
       "num": 220085,
       "word": "老外晒在中国喜提双11第一单",
@@ -7440,6 +7504,14 @@
       "word": "小西天辟谣保安透露涨薪被辞退",
       "onboard_time": 1729415238,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73959,
+      "num": 249091,
+      "word": "肯德基回应未明示用转基因油被查",
+      "onboard_time": 1729613117,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7489,14 +7561,6 @@
       "onboard_time": 1729460891,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72055,
-      "num": 399536,
-      "word": "美国飞行员航展现场遇难",
-      "onboard_time": 1729610658,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71413,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 23:38:54
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/23 00:28:26
 </p>
 </blockquote>
 <p>
@@ -1499,6 +1499,12 @@ BLG晋级S14四强（热度：1624127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
 难听（热度：1584202）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E6%B5%8B%E6%9F%A5%E5%88%A0%E5%8D%95%E5%90%91%E5%A5%BD%E5%8F%8B%E5%8A%9F%E8%83%BD%23" target="weibo">
+微信内测查删单向好友功能（热度：1579903）
 </a>
 </li>
 
@@ -4481,12 +4487,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%8B%B1%E5%9B%9E%E5%BA%94%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%23" target="weibo">
 小英回应经济状况（热度：885855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E6%B5%8B%E6%9F%A5%E5%88%A0%E5%8D%95%E5%90%91%E5%A5%BD%E5%8F%8B%E5%8A%9F%E8%83%BD%23" target="weibo">
-微信内测查删单向好友功能（热度：885415）
 </a>
 </li>
 
