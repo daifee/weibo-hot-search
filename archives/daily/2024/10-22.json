@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729562428247,
+  "endTime": 1729565692147,
   "band_list": [
     {
       "raw_hot": 1678981,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 1124917,
-      "num": 310786,
+      "num": 314778,
       "word": "白天当店长晚上做小偷",
       "onboard_time": 1729556119,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067256,
+      "num": 319483,
+      "word": "官方回应国企为离岗16年员工缴社保",
+      "onboard_time": 1729561037,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -43,12 +51,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 871932,
+      "num": 319051,
+      "word": "耳帝 伍佰和猥琐最不沾边",
+      "onboard_time": 1729561037,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 839867,
-      "num": 290968,
+      "num": 317512,
       "word": "东北雨宙",
       "onboard_time": 1729560499,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 809412,
+      "num": 1129506,
+      "word": "张凯丽把颁奖手卡给了赵丽颖",
+      "onboard_time": 1729561999,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 768546,
@@ -65,6 +89,22 @@
       "onboard_time": 1729525220,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 707435,
+      "num": 707435,
+      "word": "充电器一直插着有多危险",
+      "onboard_time": 1729556597,
+      "rank": 41,
+      "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 686811,
+      "num": 686811,
+      "word": "南京200斤梅花鹿闯进稻田撞伤村民",
+      "onboard_time": 1729562238,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672260,
@@ -92,19 +132,11 @@
     },
     {
       "raw_hot": 635055,
-      "num": 240819,
+      "num": 313211,
       "word": "第一次拿到身份证的他得了第一名",
       "onboard_time": 1729558758,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598620,
-      "num": 253064,
-      "word": "耳帝 伍佰和猥琐最不沾边",
-      "onboard_time": 1729561037,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 527208,
@@ -163,6 +195,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 345108,
+      "num": 315744,
+      "word": "赛车手问王一博真的是第一次吗",
+      "onboard_time": 1729559717,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333228,
+      "num": 314824,
+      "word": "付航演过电影",
+      "onboard_time": 1729564757,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306227,
       "num": 306227,
       "word": "女子拆快递后揉眼睛感染疱疹病毒",
@@ -177,14 +225,6 @@
       "onboard_time": 1729498217,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296831,
-      "num": 245631,
-      "word": "赛车手问王一博真的是第一次吗",
-      "onboard_time": 1729559717,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288478,
@@ -227,12 +267,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 254116,
-      "num": 254116,
-      "word": "官方回应国企为离岗16年员工缴社保",
-      "onboard_time": 1729561037,
-      "rank": 44,
+      "raw_hot": 245444,
+      "num": 245444,
+      "word": "男子正要给骗子再转100万时民警来了",
+      "onboard_time": 1729561820,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241728,
+      "num": 241728,
+      "word": "为什么你比别人更加怕冷",
+      "onboard_time": 1729560378,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234373,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 224040,
-      "num": 278584,
+      "num": 320860,
       "word": "权志龙官宣出演MAMA",
       "onboard_time": 1729557439,
       "rank": 19,
@@ -323,6 +371,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184529,
+      "num": 184529,
+      "word": "双十一发货速度",
+      "onboard_time": 1729561638,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 179883,
+      "num": 313272,
+      "word": "戚薇切号回歌手身份了",
+      "onboard_time": 1729565057,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175547,
       "num": 175547,
       "word": "小孩哥教科书式报警救自己",
@@ -353,22 +417,6 @@
       "onboard_time": 1729531872,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165400,
-      "num": 165400,
-      "word": "为什么你比别人更加怕冷",
-      "onboard_time": 1729560378,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 156686,
-      "num": 156686,
-      "word": "双十一发货速度",
-      "onboard_time": 1729561638,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 148388,
@@ -419,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136340,
-      "num": 136340,
-      "word": "张凯丽把颁奖手卡给了赵丽颖",
-      "onboard_time": 1729561999,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134739,
       "num": 167528,
       "word": "披荆斩棘是场巨大的戒断反应",
@@ -440,14 +480,6 @@
       "word": "四川一女子马路直播被撞",
       "onboard_time": 1729554498,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132591,
-      "num": 132591,
-      "word": "南京200斤梅花鹿闯进稻田撞伤村民",
-      "onboard_time": 1729562238,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -467,12 +499,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 123488,
+      "num": 320366,
+      "word": "央视曝光快速致富陷阱",
+      "onboard_time": 1729564817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "丈夫谈及烧伤妻子满眼泪水",
       "onboard_time": 1729546570,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122235,
+      "num": 122235,
+      "word": "陈都灵绿野仙踪造型",
+      "onboard_time": 1729564458,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116537,
@@ -499,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110443,
+      "num": 116654,
+      "word": "郑恩彩好帅",
+      "onboard_time": 1729564576,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110338,
       "num": 110338,
       "word": "iPhone16哪个型号跌幅最大",
@@ -523,28 +579,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103397,
+      "num": 103397,
+      "word": "被大熊猫的柔韧度惊到了",
+      "onboard_time": 1729559899,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "易烊千玺复古红西装",
       "onboard_time": 1729513098,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99226,
-      "num": 99226,
-      "word": "充电器一直插着有多危险",
-      "onboard_time": 1729556597,
-      "rank": 41,
-      "category": "社会新闻,数码"
-    },
-    {
-      "raw_hot": 98096,
-      "num": 98096,
-      "word": "被大熊猫的柔韧度惊到了",
-      "onboard_time": 1729559899,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 92619,
@@ -561,6 +609,14 @@
       "onboard_time": 1729526179,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90816,
+      "num": 90816,
+      "word": "丢失耳蜗男孩母亲辟谣耳蜗价值60万",
+      "onboard_time": 1729565057,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90801,
@@ -585,6 +641,14 @@
       "onboard_time": 1729513277,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 85589,
+      "num": 85589,
+      "word": "北京市原副市长高朋被双开",
+      "onboard_time": 1729565478,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82980,
@@ -643,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76655,
+      "num": 76655,
+      "word": "金饰品价格每克冲破800元",
+      "onboard_time": 1729565297,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74644,
       "num": 74644,
       "word": "付航脱口秀 内涵",
@@ -691,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67460,
+      "num": 696708,
+      "word": "让二万五千里长征精神永远流传",
+      "onboard_time": 1729564517,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65329,
       "num": 77564,
       "word": "导演方励回应王毅点名里斯本丸沉没",
@@ -737,14 +817,6 @@
       "onboard_time": 1729528157,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 58609,
-      "num": 242477,
-      "word": "男子正要给骗子再转100万时民警来了",
-      "onboard_time": 1729561820,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57277,
@@ -913,6 +985,9 @@
     },
     {
       "word": "#一图了解金砖扩员后首次峰会#"
+    },
+    {
+      "word": "#一图读懂金砖从何而来#"
     }
   ]
 }

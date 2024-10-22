@@ -1,0 +1,410 @@
+{
+  "runTime": 1729565692147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 809412,
+        "num": 1129506,
+        "word": "张凯丽把颁奖手卡给了赵丽颖",
+        "onboard_time": 1729561999,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707435,
+        "num": 707435,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 1,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 67460,
+        "num": 696708,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686811,
+        "num": 686811,
+        "word": "南京200斤梅花鹿闯进稻田撞伤村民",
+        "onboard_time": 1729562238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372787,
+        "num": 372787,
+        "word": "喝奶的年纪就拥有了植物专家的水准",
+        "onboard_time": 1729556297,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356495,
+        "num": 356495,
+        "word": "双十一退款",
+        "onboard_time": 1729515260,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322306,
+        "num": 322306,
+        "word": "男孩被困在找妈妈和找警察中选择了后者",
+        "onboard_time": 1729553355,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275673,
+        "num": 322102,
+        "word": "学校回应1477名新生拟放弃入学",
+        "onboard_time": 1729522939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156208,
+        "num": 320860,
+        "word": "权志龙官宣出演MAMA",
+        "onboard_time": 1729557439,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123488,
+        "num": 320366,
+        "word": "央视曝光快速致富陷阱",
+        "onboard_time": 1729564817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067256,
+        "num": 319483,
+        "word": "官方回应国企为离岗16年员工缴社保",
+        "onboard_time": 1729561037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871932,
+        "num": 319051,
+        "word": "耳帝 伍佰和猥琐最不沾边",
+        "onboard_time": 1729561037,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 805300,
+        "num": 317871,
+        "word": "充完电没拔充电器把家烧了",
+        "onboard_time": 1729553656,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535056,
+        "num": 317512,
+        "word": "东北雨宙",
+        "onboard_time": 1729560499,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356795,
+        "num": 316592,
+        "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
+        "onboard_time": 1729532713,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345108,
+        "num": 315744,
+        "word": "赛车手问王一博真的是第一次吗",
+        "onboard_time": 1729559717,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333228,
+        "num": 314824,
+        "word": "付航演过电影",
+        "onboard_time": 1729564757,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314778,
+        "num": 314778,
+        "word": "白天当店长晚上做小偷",
+        "onboard_time": 1729556119,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179883,
+        "num": 313272,
+        "word": "戚薇切号回歌手身份了",
+        "onboard_time": 1729565057,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127774,
+        "num": 313216,
+        "word": "王一博代言法丽兹",
+        "onboard_time": 1729556719,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464846,
+        "num": 313211,
+        "word": "第一次拿到身份证的他得了第一名",
+        "onboard_time": 1729558758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313192,
+        "num": 313192,
+        "word": "中国军队和武警严防死守中缅边境",
+        "onboard_time": 1729515019,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245444,
+        "num": 245444,
+        "word": "男子正要给骗子再转100万时民警来了",
+        "onboard_time": 1729561820,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241728,
+        "num": 241728,
+        "word": "为什么你比别人更加怕冷",
+        "onboard_time": 1729560378,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240349,
+        "num": 240349,
+        "word": "东北雨姐贷款1200多万买电商楼",
+        "onboard_time": 1729511900,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192042,
+        "num": 192042,
+        "word": "长征胜利88周年",
+        "onboard_time": 1729556478,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184529,
+        "num": 184529,
+        "word": "双十一发货速度",
+        "onboard_time": 1729561638,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180371,
+        "num": 180371,
+        "word": "被醉酒男骚扰女生男友发声",
+        "onboard_time": 1729555879,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122235,
+        "num": 122235,
+        "word": "陈都灵绿野仙踪造型",
+        "onboard_time": 1729564458,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110443,
+        "num": 116654,
+        "word": "郑恩彩好帅",
+        "onboard_time": 1729564576,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126540,
+        "num": 116017,
+        "word": "四川一女子马路直播被撞",
+        "onboard_time": 1729554498,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111808,
+        "num": 111808,
+        "word": "打网约车送神秘包裹司机果断报警",
+        "onboard_time": 1729559058,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108915,
+        "num": 108915,
+        "word": "学校称学生返校被搜身是为安全着想",
+        "onboard_time": 1729562238,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104845,
+        "num": 104845,
+        "word": "福建平潭海域22日进行实弹射击",
+        "onboard_time": 1729525220,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103397,
+        "num": 103397,
+        "word": "被大熊猫的柔韧度惊到了",
+        "onboard_time": 1729559899,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102507,
+        "num": 102507,
+        "word": "外交部回应朝军已进入乌克兰战场",
+        "onboard_time": 1729514959,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100286,
+        "num": 100286,
+        "word": "黄圣依脖子纹身",
+        "onboard_time": 1729498217,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98661,
+        "num": 98661,
+        "word": "小孩哥教科书式报警救自己",
+        "onboard_time": 1729552335,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98570,
+        "num": 98570,
+        "word": "丈夫谈及烧伤妻子满眼泪水",
+        "onboard_time": 1729546570,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70930,
+        "num": 98237,
+        "word": "披荆斩棘是场巨大的戒断反应",
+        "onboard_time": 1729553776,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98216,
+        "num": 98216,
+        "word": "亲属回应情侣夜爬秦岭失温遇难",
+        "onboard_time": 1729504098,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97606,
+        "num": 97606,
+        "word": "00后女生被辞硬怼公司拿回双倍工资",
+        "onboard_time": 1729520120,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96961,
+        "num": 96961,
+        "word": "断崖式降温羽绒服价格不升反降",
+        "onboard_time": 1729514358,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95678,
+        "num": 95678,
+        "word": "星座的风还是吹到了职场",
+        "onboard_time": 1729558520,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92451,
+        "num": 92451,
+        "word": "马龙说想过很多告别赛场的方式",
+        "onboard_time": 1729557318,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90816,
+        "num": 90816,
+        "word": "丢失耳蜗男孩母亲辟谣耳蜗价值60万",
+        "onboard_time": 1729565057,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85589,
+        "num": 85589,
+        "word": "北京市原副市长高朋被双开",
+        "onboard_time": 1729565478,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83383,
+        "num": 83383,
+        "word": "iPhone16哪个型号跌幅最大",
+        "onboard_time": 1729521741,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76655,
+        "num": 76655,
+        "word": "金饰品价格每克冲破800元",
+        "onboard_time": 1729565297,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73325,
+        "num": 73325,
+        "word": "螃蟹结伴上岸散步当场被抓",
+        "onboard_time": 1729525760,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂金砖从何而来#"
+    }
+  }
+}
