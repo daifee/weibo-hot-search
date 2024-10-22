@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729625812420,
+  "endTime": 1729628626091,
   "band_list": [
     {
       "raw_hot": 1579903,
@@ -451,6 +451,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 50243,
+      "num": 50243,
+      "word": "布林肯刚到以色列空中就响起爆炸声",
+      "onboard_time": 1729624571,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 40685,
+      "num": 35357,
+      "word": "小学生课间嬉闹致同学受伤谁担责",
+      "onboard_time": 1729626431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35453,
       "num": 35453,
       "word": "骗子酒馆",
@@ -499,12 +515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28288,
-      "num": 41182,
-      "word": "布林肯刚到以色列空中就响起爆炸声",
-      "onboard_time": 1729624571,
-      "rank": 14,
-      "category": "国外时政"
+      "raw_hot": 25440,
+      "num": 25440,
+      "word": "四川一女主播深夜马路直播被撞",
+      "onboard_time": 1729626312,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24957,
@@ -513,6 +529,14 @@
       "onboard_time": 1729621093,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21418,
+      "num": 21418,
+      "word": "哈马斯称暂不选举辛瓦尔的继任者",
+      "onboard_time": 1729624991,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 19362,
@@ -545,6 +569,14 @@
       "onboard_time": 1729622172,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10133,
+      "num": 37533,
+      "word": "金砖扩员后首次举行会晤",
+      "onboard_time": 1729628292,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9705,

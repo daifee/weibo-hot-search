@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729625812420,
+  "endTime": 1729628626091,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -8091,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50243,
+      "num": 50243,
+      "word": "布林肯刚到以色列空中就响起爆炸声",
+      "onboard_time": 1729624571,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 49738,
       "num": 415384,
       "word": "鸿蒙原生应用一天迭代一版本",
@@ -8313,6 +8321,14 @@
       "onboard_time": 1729427240,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40685,
+      "num": 35357,
+      "word": "小学生课间嬉闹致同学受伤谁担责",
+      "onboard_time": 1729626431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40658,
@@ -8771,14 +8787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28288,
-      "num": 41182,
-      "word": "布林肯刚到以色列空中就响起爆炸声",
-      "onboard_time": 1729624571,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 28054,
       "num": 227432,
       "word": "谁懂看上捞面锦标赛了",
@@ -8881,6 +8889,14 @@
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25440,
+      "num": 25440,
+      "word": "四川一女主播深夜马路直播被撞",
+      "onboard_time": 1729626312,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25438,
@@ -9049,6 +9065,14 @@
       "onboard_time": 1729421661,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 21418,
+      "num": 21418,
+      "word": "哈马斯称暂不选举辛瓦尔的继任者",
+      "onboard_time": 1729624991,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 21210,
@@ -9417,6 +9441,14 @@
       "onboard_time": 1729366391,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10133,
+      "num": 37533,
+      "word": "金砖扩员后首次举行会晤",
+      "onboard_time": 1729628292,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9705,
