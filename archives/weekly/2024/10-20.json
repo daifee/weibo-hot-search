@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729574512365,
+  "endTime": 1729575571429,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -547,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 973766,
+      "num": 946098,
+      "word": "国考河南12个岗位无人报名",
+      "onboard_time": 1729571180,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958892,
       "num": 913788,
       "word": "马斯克每天随机向选民发100万美元",
@@ -568,14 +576,6 @@
       "word": "男孩花费近60万人工耳蜗宿舍内丢失",
       "onboard_time": 1729430481,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 946098,
-      "num": 946098,
-      "word": "国考河南12个岗位无人报名",
-      "onboard_time": 1729571180,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631585,
+      "num": 1101053,
+      "word": "物业做防水40颗钉子将天花板打穿",
+      "onboard_time": 1729572562,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627953,
       "num": 627953,
       "word": "张瑞告别国乒",
@@ -1195,6 +1203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 606967,
+      "num": 318983,
+      "word": "樊振东ins简介 Swiftie",
+      "onboard_time": 1729574120,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596215,
       "num": 596215,
       "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1729349901,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586452,
+      "num": 317036,
+      "word": "黄圣依 疲惫感",
+      "onboard_time": 1729573820,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 579737,
@@ -1344,14 +1368,6 @@
       "word": "美国脑死亡男子捐赠器官手术中苏醒",
       "onboard_time": 1729329200,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547870,
-      "num": 1087659,
-      "word": "物业做防水40颗钉子将天花板打穿",
-      "onboard_time": 1729572562,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1585,14 +1601,6 @@
       "onboard_time": 1729426520,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 472261,
-      "num": 234459,
-      "word": "黄圣依 疲惫感",
-      "onboard_time": 1729573820,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 471591,
@@ -1883,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385560,
+      "num": 311842,
+      "word": "24岁带了四个月娃后发生的变化",
+      "onboard_time": 1729573939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380641,
       "num": 380641,
       "word": "ILLIT回归",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1729349781,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357011,
+      "num": 357011,
+      "word": "中国援助包机约60吨物资满满登登",
+      "onboard_time": 1729573760,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 355632,
@@ -2571,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275715,
+      "num": 333522,
+      "word": "猎罪图鉴2下证",
+      "onboard_time": 1729573701,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274935,
       "num": 274935,
       "word": "王楚钦林诗栋排名前二",
@@ -3003,14 +3035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227742,
-      "num": 227742,
-      "word": "樊振东ins简介 Swiftie",
-      "onboard_time": 1729574120,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226969,
       "num": 226969,
       "word": "美妆券",
@@ -3049,14 +3073,6 @@
       "onboard_time": 1729557439,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 223533,
-      "num": 223533,
-      "word": "24岁带了四个月娃后发生的变化",
-      "onboard_time": 1729573939,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 223344,
@@ -3331,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210899,
-      "num": 333522,
-      "word": "猎罪图鉴2下证",
-      "onboard_time": 1729573701,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210666,
       "num": 210666,
       "word": "王昭君周年庆皮肤动画",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1729429221,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197729,
+      "num": 314112,
+      "word": "张凯丽发文祝贺赵丽颖",
+      "onboard_time": 1729575198,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 197282,
@@ -4027,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177474,
+      "num": 244038,
+      "word": "金晨怎么能松弛成这样",
+      "onboard_time": 1729573939,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "程靖淇 老友记",
@@ -4483,6 +4507,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 153338,
+      "num": 331897,
+      "word": "声生不息",
+      "onboard_time": 1729574120,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152392,
       "num": 152392,
       "word": "贩婴现场14天男婴被多次抬价卖15万",
@@ -4699,20 +4731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144667,
-      "num": 219133,
-      "word": "金晨怎么能松弛成这样",
-      "onboard_time": 1729573939,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144308,
       "num": 151641,
       "word": "三星堆玉石器材质已辨认出19种",
       "onboard_time": 1729568359,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "成都的烧烤摊敢出你敢吃吗",
+      "onboard_time": 1729572380,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 143874,
@@ -4873,14 +4905,6 @@
       "onboard_time": 1729388899,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136957,
-      "num": 136957,
-      "word": "成都的烧烤摊敢出你敢吃吗",
-      "onboard_time": 1729572380,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 136881,
@@ -5187,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "双十一究竟什么在便宜",
+      "onboard_time": 1729572679,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125424,
       "num": 125424,
       "word": "短剧版聊斋",
@@ -5424,6 +5456,14 @@
       "word": "央视曝光证书挂靠陷阱",
       "onboard_time": 1729344740,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "中国男子在马尔代夫潜水时溺亡",
+      "onboard_time": 1729575020,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5667,6 +5707,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107071,
+      "num": 107071,
+      "word": "小米15本月发布",
+      "onboard_time": 1729575499,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106666,
       "num": 106666,
       "word": "以军一次轰炸后妇女儿童不停尖叫",
@@ -5689,14 +5737,6 @@
       "onboard_time": 1729529418,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 104116,
-      "num": 331897,
-      "word": "声生不息",
-      "onboard_time": 1729574120,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 103397,
@@ -5849,14 +5889,6 @@
       "onboard_time": 1729389859,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95519,
-      "num": 345515,
-      "word": "中国援助包机约60吨物资满满登登",
-      "onboard_time": 1729573760,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94584,
@@ -6787,12 +6819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35658,
+      "num": 325261,
+      "word": "以物抵债69套房产遭法院查封8年",
+      "onboard_time": 1729573580,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35647,
       "num": 480405,
       "word": "当游戏神话遇到汽车神话",
       "onboard_time": 1729398800,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35450,
+      "num": 328920,
+      "word": "穿搭天才都在冬季",
+      "onboard_time": 1729573399,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 35017,
@@ -6809,14 +6857,6 @@
       "onboard_time": 1729508539,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33942,
-      "num": 328920,
-      "word": "穿搭天才都在冬季",
-      "onboard_time": 1729573399,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 33122,
@@ -7027,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26530,
+      "num": 321034,
+      "word": "金店店员说今年金条比首饰好卖",
+      "onboard_time": 1729574839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -7065,14 +7113,6 @@
       "onboard_time": 1729492758,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24705,
-      "num": 325261,
-      "word": "以物抵债69套房产遭法院查封8年",
-      "onboard_time": 1729573580,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24673,

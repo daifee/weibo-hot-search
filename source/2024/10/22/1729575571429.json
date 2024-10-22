@@ -1,0 +1,410 @@
+{
+  "runTime": 1729575571429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631585,
+        "num": 1101053,
+        "word": "物业做防水40颗钉子将天花板打穿",
+        "onboard_time": 1729572562,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472269,
+        "num": 472269,
+        "word": "小米15",
+        "onboard_time": 1729569499,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15050,
+        "num": 366812,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145075,
+        "num": 365118,
+        "word": "天津多家肯德基门店被立案调查",
+        "onboard_time": 1729570640,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973766,
+        "num": 363936,
+        "word": "国考河南12个岗位无人报名",
+        "onboard_time": 1729571180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357011,
+        "num": 357011,
+        "word": "中国援助包机约60吨物资满满登登",
+        "onboard_time": 1729573760,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347974,
+        "num": 347974,
+        "word": "陈好说中戏喜欢招北舞的学生",
+        "onboard_time": 1729569079,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346955,
+        "num": 346955,
+        "word": "樊振东开通ins账号",
+        "onboard_time": 1729570220,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321292,
+        "num": 321292,
+        "word": "张凯丽把颁奖手卡给了赵丽颖",
+        "onboard_time": 1729561999,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26530,
+        "num": 321034,
+        "word": "金店店员说今年金条比首饰好卖",
+        "onboard_time": 1729574839,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1997941,
+        "num": 319607,
+        "word": "男子抑郁发作捂死87岁母亲",
+        "onboard_time": 1729570220,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606967,
+        "num": 318983,
+        "word": "樊振东ins简介 Swiftie",
+        "onboard_time": 1729574120,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586452,
+        "num": 317036,
+        "word": "黄圣依 疲惫感",
+        "onboard_time": 1729573820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463395,
+        "num": 316442,
+        "word": "周深请跑男全组吃饭",
+        "onboard_time": 1729572201,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17011,
+        "num": 314884,
+        "word": "当地辟谣因疫情和登革热死了很多人",
+        "onboard_time": 1729574239,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197729,
+        "num": 314112,
+        "word": "张凯丽发文祝贺赵丽颖",
+        "onboard_time": 1729575198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35450,
+        "num": 313371,
+        "word": "穿搭天才都在冬季",
+        "onboard_time": 1729573399,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 385560,
+        "num": 311842,
+        "word": "24岁带了四个月娃后发生的变化",
+        "onboard_time": 1729573939,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275715,
+        "num": 311237,
+        "word": "猎罪图鉴2下证",
+        "onboard_time": 1729573701,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382884,
+        "num": 309395,
+        "word": "翁青雅 不想再谈浪费时间的恋爱",
+        "onboard_time": 1729569198,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470467,
+        "num": 308773,
+        "word": "班上成绩最差的同学写下自己的优点",
+        "onboard_time": 1729567279,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382707,
+        "num": 308115,
+        "word": "刘宪华说黄磊的饭好吃",
+        "onboard_time": 1729567218,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307149,
+        "num": 307149,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 22,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 285048,
+        "num": 285048,
+        "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
+        "onboard_time": 1729566317,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254499,
+        "num": 254499,
+        "word": "不管炒什么肉不要直接下锅炒",
+        "onboard_time": 1729567577,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252770,
+        "num": 252770,
+        "word": "充完电没拔充电器把家烧了",
+        "onboard_time": 1729553656,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189132,
+        "num": 247653,
+        "word": "陈少熙直播",
+        "onboard_time": 1729572980,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177474,
+        "num": 244038,
+        "word": "金晨怎么能松弛成这样",
+        "onboard_time": 1729573939,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153338,
+        "num": 238692,
+        "word": "声生不息",
+        "onboard_time": 1729574120,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143185,
+        "num": 231613,
+        "word": "沈腾像极了回村吃席的我",
+        "onboard_time": 1729570039,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226965,
+        "num": 226965,
+        "word": "睡觉有这个习惯的人老得更快",
+        "onboard_time": 1729569440,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217646,
+        "num": 217646,
+        "word": "美媒将俄两款坦克列入全球最佳前五",
+        "onboard_time": 1729569622,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184783,
+        "num": 184783,
+        "word": "200人帮双非生改简历进大厂",
+        "onboard_time": 1729569800,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177239,
+        "num": 177239,
+        "word": "出国一年终于实现了狐臭自由",
+        "onboard_time": 1729567938,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166939,
+        "num": 166939,
+        "word": "中小学英语教材改版有师生反映变难",
+        "onboard_time": 1729571240,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160510,
+        "num": 160510,
+        "word": "救援者说再走10分钟遇难女孩就能活",
+        "onboard_time": 1729571482,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159443,
+        "num": 159443,
+        "word": "第一次拿到身份证的他得了第一名",
+        "onboard_time": 1729558758,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154147,
+        "num": 154147,
+        "word": "北京市原副市长高朋被双开",
+        "onboard_time": 1729565478,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152692,
+        "num": 152692,
+        "word": "婚姻中最受欢迎的伴侣类型",
+        "onboard_time": 1729569499,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143924,
+        "num": 143924,
+        "word": "成都的烧烤摊敢出你敢吃吗",
+        "onboard_time": 1729572380,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143430,
+        "num": 143430,
+        "word": "王多多喊话高振宁",
+        "onboard_time": 1729568900,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35658,
+        "num": 138034,
+        "word": "以物抵债69套房产遭法院查封8年",
+        "onboard_time": 1729573580,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136149,
+        "num": 136149,
+        "word": "早期做魏大勋梦女的追星视频",
+        "onboard_time": 1729572380,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134227,
+        "num": 134227,
+        "word": "警方回应宝马司机搭讪被拒驾车撞人",
+        "onboard_time": 1729569019,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "双十一究竟什么在便宜",
+        "onboard_time": 1729572679,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122849,
+        "num": 122849,
+        "word": "孙颖莎第43周世排第一",
+        "onboard_time": 1729571661,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120978,
+        "num": 120978,
+        "word": "王楚钦林诗栋排名前二",
+        "onboard_time": 1729567879,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117546,
+        "num": 117546,
+        "word": "中国男子在马尔代夫潜水时溺亡",
+        "onboard_time": 1729575020,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108732,
+        "num": 108732,
+        "word": "刘志强严重违纪违法被开除党籍",
+        "onboard_time": 1729566677,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107071,
+        "num": 107071,
+        "word": "小米15本月发布",
+        "onboard_time": 1729575499,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂金砖从何而来#"
+    }
+  }
+}
