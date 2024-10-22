@@ -1,0 +1,410 @@
+{
+  "runTime": 1729561397902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1003228,
+        "num": 1160516,
+        "word": "喝奶的年纪就拥有了植物专家的水准",
+        "onboard_time": 1729556297,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652866,
+        "num": 652866,
+        "word": "男孩被困在找妈妈和找警察中选择了后者",
+        "onboard_time": 1729553355,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12833,
+        "num": 555467,
+        "word": "吐鲁番一个地方藏着多少高考地理题",
+        "onboard_time": 1729519700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509492,
+        "num": 509492,
+        "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
+        "onboard_time": 1729532713,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473420,
+        "num": 473420,
+        "word": "学校回应1477名新生拟放弃入学",
+        "onboard_time": 1729522939,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448432,
+        "num": 448432,
+        "word": "中国军队和武警严防死守中缅边境",
+        "onboard_time": 1729515019,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420429,
+        "num": 420429,
+        "word": "双十一退款",
+        "onboard_time": 1729515260,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353011,
+        "num": 353011,
+        "word": "长征胜利88周年",
+        "onboard_time": 1729556478,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271471,
+        "num": 345861,
+        "word": "王一博代言法丽兹",
+        "onboard_time": 1729556719,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341828,
+        "num": 341828,
+        "word": "外交部回应朝军已进入乌克兰战场",
+        "onboard_time": 1729514959,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1678981,
+        "num": 339003,
+        "word": "充完电没拔充电器把家烧了",
+        "onboard_time": 1729553656,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124917,
+        "num": 310786,
+        "word": "白天当店长晚上做小偷",
+        "onboard_time": 1729556119,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527208,
+        "num": 305053,
+        "word": "东北雨姐贷款1200多万买电商楼",
+        "onboard_time": 1729511900,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470943,
+        "num": 290968,
+        "word": "东北雨宙",
+        "onboard_time": 1729560499,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 277965,
+        "num": 277965,
+        "word": "断崖式降温羽绒服价格不升反降",
+        "onboard_time": 1729514358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348299,
+        "num": 275819,
+        "word": "亲属回应情侣夜爬秦岭失温遇难",
+        "onboard_time": 1729504098,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271754,
+        "num": 271754,
+        "word": "把女儿抛向货车致身亡男子已被执行死刑",
+        "onboard_time": 1729510098,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126694,
+        "num": 244374,
+        "word": "打网约车送神秘包裹司机果断报警",
+        "onboard_time": 1729559058,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243380,
+        "num": 243380,
+        "word": "疑似何炅攻击性最强的一集",
+        "onboard_time": 1729510999,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192837,
+        "num": 224445,
+        "word": "权志龙官宣出演MAMA",
+        "onboard_time": 1729557439,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 583791,
+        "num": 222553,
+        "word": "第一次拿到身份证的他得了第一名",
+        "onboard_time": 1729558758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283279,
+        "num": 222088,
+        "word": "被醉酒男骚扰女生男友发声",
+        "onboard_time": 1729555879,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220351,
+        "num": 220351,
+        "word": "赛车手问王一博真的是第一次吗",
+        "onboard_time": 1729559717,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217890,
+        "num": 217890,
+        "word": "福建平潭海域22日进行实弹射击",
+        "onboard_time": 1729525220,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213770,
+        "num": 213770,
+        "word": "马龙说想过很多告别赛场的方式",
+        "onboard_time": 1729557318,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202440,
+        "num": 202440,
+        "word": "00后女生被辞硬怼公司拿回双倍工资",
+        "onboard_time": 1729520120,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175547,
+        "num": 175547,
+        "word": "小孩哥教科书式报警救自己",
+        "onboard_time": 1729552335,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134739,
+        "num": 162560,
+        "word": "披荆斩棘是场巨大的戒断反应",
+        "onboard_time": 1729553776,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159285,
+        "num": 159285,
+        "word": "黄圣依脖子纹身",
+        "onboard_time": 1729498217,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106860,
+        "num": 154596,
+        "word": "老舅演唱会嘉宾 鹿晗",
+        "onboard_time": 1729515319,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151477,
+        "num": 151477,
+        "word": "耳帝 伍佰和猥琐最不沾边",
+        "onboard_time": 1729561037,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136722,
+        "num": 136722,
+        "word": "星座的风还是吹到了职场",
+        "onboard_time": 1729558520,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133848,
+        "num": 133848,
+        "word": "四川一女子马路直播被撞",
+        "onboard_time": 1729554498,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133475,
+        "num": 133475,
+        "word": "女子拆快递后揉眼睛感染疱疹病毒",
+        "onboard_time": 1729520661,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77884,
+        "num": 130337,
+        "word": "手工耿小店只卖创意设计",
+        "onboard_time": 1729550474,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129566,
+        "num": 129566,
+        "word": "为什么你比别人更加怕冷",
+        "onboard_time": 1729560378,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123293,
+        "num": 123293,
+        "word": "丈夫谈及烧伤妻子满眼泪水",
+        "onboard_time": 1729546570,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111536,
+        "num": 111536,
+        "word": "朱涛",
+        "onboard_time": 1729557740,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110338,
+        "num": 110338,
+        "word": "iPhone16哪个型号跌幅最大",
+        "onboard_time": 1729521741,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107048,
+        "num": 107048,
+        "word": "31岁哈工大女博导秀肌肉招生",
+        "onboard_time": 1729515800,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99338,
+        "num": 99338,
+        "word": "长期忍受疼痛免疫力会降低",
+        "onboard_time": 1729529418,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99226,
+        "num": 99226,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 41,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 97617,
+        "num": 97617,
+        "word": "广东夫妇疑删除八亿补贴宣传",
+        "onboard_time": 1729507640,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97312,
+        "num": 97312,
+        "word": "螃蟹结伴上岸散步当场被抓",
+        "onboard_time": 1729525760,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93293,
+        "num": 93293,
+        "word": "官方回应国企为离岗16年员工缴社保",
+        "onboard_time": 1729561037,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92938,
+        "num": 92938,
+        "word": "套内69平米的独居小家",
+        "onboard_time": 1729552095,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89883,
+        "num": 89883,
+        "word": "吃布洛芬止疼不具有成瘾性",
+        "onboard_time": 1729547051,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87127,
+        "num": 87127,
+        "word": "被大熊猫的柔韧度惊到了",
+        "onboard_time": 1729559899,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86107,
+        "num": 86107,
+        "word": "Ning直播回应王多多",
+        "onboard_time": 1729512979,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65329,
+        "num": 77564,
+        "word": "导演方励回应王毅点名里斯本丸沉没",
+        "onboard_time": 1729555879,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖合作大有可为#"
+    }
+  }
+}
