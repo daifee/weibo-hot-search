@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729622615054,
+  "endTime": 1729624804248,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -62851,6 +62851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33391,
+      "num": 33391,
+      "word": "市监回应肯德基未明示用转基因油",
+      "onboard_time": 1729622651,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33338,
       "num": 803296,
       "word": "千年石窟 匠心传承",
@@ -63624,6 +63632,14 @@
       "word": "动画还原杨妞花被拐案",
       "onboard_time": 1728672672,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30534,
+      "num": 30534,
+      "word": "女子遭陌生男子扒衣跑隔壁店求救",
+      "onboard_time": 1729623192,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -66283,6 +66299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19362,
+      "num": 51342,
+      "word": "神十九近日将择机发射",
+      "onboard_time": 1729619832,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19361,
       "num": 24728,
       "word": "加沙城所到之处满目疮痍",
@@ -66329,14 +66353,6 @@
       "onboard_time": 1729111812,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19100,
-      "num": 51342,
-      "word": "神十九近日将择机发射",
-      "onboard_time": 1729619832,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19056,
@@ -66617,6 +66633,14 @@
       "onboard_time": 1728858013,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17550,
+      "num": 23920,
+      "word": "双十一攻略",
+      "onboard_time": 1729619532,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 17532,
@@ -67609,6 +67633,14 @@
       "onboard_time": 1727702721,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11216,
+      "num": 36239,
+      "word": "布林肯刚到以色列空中就响起爆炸声",
+      "onboard_time": 1729624571,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 11081,

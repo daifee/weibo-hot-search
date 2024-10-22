@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729622615054,
+  "endTime": 1729624804248,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -8547,6 +8547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33391,
+      "num": 33391,
+      "word": "市监回应肯德基未明示用转基因油",
+      "onboard_time": 1729622651,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33206,
       "num": 245448,
       "word": "熊孩子组团在28楼房顶攀爬玩耍",
@@ -8672,6 +8680,14 @@
       "word": "又到最美赏秋季",
       "onboard_time": 1729514659,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30534,
+      "num": 30534,
+      "word": "女子遭陌生男子扒衣跑隔壁店求救",
+      "onboard_time": 1729623192,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9091,20 +9107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19362,
+      "num": 51342,
+      "word": "神十九近日将择机发射",
+      "onboard_time": 1729619832,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19262,
       "num": 19262,
       "word": "米饭千层",
       "onboard_time": 1729538531,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 19100,
-      "num": 51342,
-      "word": "神十九近日将择机发射",
-      "onboard_time": 1729619832,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18875,
@@ -9161,6 +9177,14 @@
       "onboard_time": 1729454890,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17550,
+      "num": 23920,
+      "word": "双十一攻略",
+      "onboard_time": 1729619532,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 17532,
@@ -9377,6 +9401,14 @@
       "onboard_time": 1729544831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11216,
+      "num": 36239,
+      "word": "布林肯刚到以色列空中就响起爆炸声",
+      "onboard_time": 1729624571,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 10544,

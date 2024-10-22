@@ -1,0 +1,410 @@
+{
+  "runTime": 1729624804248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 167194,
+        "num": 167194,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108137,
+        "num": 108137,
+        "word": "俄方回应特朗普涉袭击莫斯科言论",
+        "onboard_time": 1729619293,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2478,
+        "num": 77048,
+        "word": "一图带你数读金砖",
+        "onboard_time": 1729599618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74324,
+        "num": 74324,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64952,
+        "num": 64952,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64361,
+        "num": 64361,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57087,
+        "num": 57087,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43914,
+        "num": 43914,
+        "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
+        "onboard_time": 1729612158,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37080,
+        "num": 37080,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36451,
+        "num": 36451,
+        "word": "神舟十九号发射",
+        "onboard_time": 1729618573,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197128,
+        "num": 36419,
+        "word": "警方抓嫖时女子从空调外机坠落身亡",
+        "onboard_time": 1729598179,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77668,
+        "num": 36381,
+        "word": "四川警方发布无名尸体认领公告",
+        "onboard_time": 1729612818,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76979,
+        "num": 36330,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56349,
+        "num": 36288,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11216,
+        "num": 36239,
+        "word": "布林肯刚到以色列空中就响起爆炸声",
+        "onboard_time": 1729624571,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54483,
+        "num": 36201,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49677,
+        "num": 36138,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44468,
+        "num": 36130,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36088,
+        "num": 36088,
+        "word": "北京前副市长骗取经济学博士学位",
+        "onboard_time": 1729598718,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30088,
+        "num": 35585,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35388,
+        "num": 35388,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34742,
+        "num": 34742,
+        "word": "00后员工吐槽公司无效加班被开除",
+        "onboard_time": 1729616174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34219,
+        "num": 34219,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33391,
+        "num": 33391,
+        "word": "市监回应肯德基未明示用转基因油",
+        "onboard_time": 1729622651,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32105,
+        "num": 32105,
+        "word": "广东夫妇60秒以上广告报价100万",
+        "onboard_time": 1729620732,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31523,
+        "num": 31523,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30682,
+        "num": 30682,
+        "word": "骗子酒馆",
+        "onboard_time": 1729620913,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26201,
+        "num": 30566,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16962,
+        "num": 30546,
+        "word": "赵露思刘宇宁 戏里戏外反差感",
+        "onboard_time": 1729614618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16817,
+        "num": 30536,
+        "word": "徐志胜 你红你多分点",
+        "onboard_time": 1729599259,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30534,
+        "num": 30534,
+        "word": "女子遭陌生男子扒衣跑隔壁店求救",
+        "onboard_time": 1729623192,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29710,
+        "num": 29710,
+        "word": "中国女子新西兰遇害1年后才找到遗体",
+        "onboard_time": 1729604479,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28555,
+        "num": 28555,
+        "word": "印度网友欢呼的大国工程是中国的",
+        "onboard_time": 1729617614,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27691,
+        "num": 27691,
+        "word": "约400年前中国武夷山茶叶送至俄罗斯",
+        "onboard_time": 1729612878,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27362,
+        "num": 27362,
+        "word": "中俄领导人会晤",
+        "onboard_time": 1729608980,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25585,
+        "num": 25585,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24405,
+        "num": 24405,
+        "word": "08年女高中生的课间十分钟",
+        "onboard_time": 1729598238,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24249,
+        "num": 24249,
+        "word": "纯血鸿蒙",
+        "onboard_time": 1729597399,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 24054,
+        "word": "王者荣耀重度依赖",
+        "onboard_time": 1729606521,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23934,
+        "num": 23934,
+        "word": "华为SIM卡版平板首发开箱",
+        "onboard_time": 1729612039,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22645,
+        "num": 23934,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22015,
+        "num": 23932,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21214,
+        "num": 23929,
+        "word": "警惕国产水果披上洋外衣",
+        "onboard_time": 1729616174,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20757,
+        "num": 23929,
+        "word": "SM三十周年纪念视频",
+        "onboard_time": 1729608921,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20101,
+        "num": 23926,
+        "word": "警方通报西安一公务车街头漂移",
+        "onboard_time": 1729607061,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19362,
+        "num": 23925,
+        "word": "神十九近日将择机发射",
+        "onboard_time": 1729619832,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18991,
+        "num": 23925,
+        "word": "孙颖莎教王楠女儿打乒乓",
+        "onboard_time": 1729602019,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18694,
+        "num": 23922,
+        "word": "爱奇艺新规",
+        "onboard_time": 1729595838,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17550,
+        "num": 23920,
+        "word": "双十一攻略",
+        "onboard_time": 1729619532,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16622,
+        "num": 23920,
+        "word": "书墨越秦线",
+        "onboard_time": 1729618993,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达俄罗斯喀山#"
+    }
+  }
+}
