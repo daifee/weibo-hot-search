@@ -1,0 +1,410 @@
+{
+  "runTime": 1729568576757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 682865,
+        "num": 1109258,
+        "word": "张凯丽把颁奖手卡给了赵丽颖",
+        "onboard_time": 1729561999,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328636,
+        "num": 328636,
+        "word": "我国成功发射天平三号卫星",
+        "onboard_time": 1729566617,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29401,
+        "num": 328278,
+        "word": "让二万五千里长征精神永远流传",
+        "onboard_time": 1729564517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458117,
+        "num": 327296,
+        "word": "充电器一直插着有多危险",
+        "onboard_time": 1729556597,
+        "rank": 3,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 380347,
+        "num": 327015,
+        "word": "南京200斤梅花鹿闯进稻田撞伤村民",
+        "onboard_time": 1729562238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372421,
+        "num": 325581,
+        "word": "戚薇切号回歌手身份了",
+        "onboard_time": 1729565057,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325527,
+        "num": 325527,
+        "word": "男孩被困在找妈妈和找警察中选择了后者",
+        "onboard_time": 1729553355,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318789,
+        "num": 318789,
+        "word": "央视曝光快速致富陷阱",
+        "onboard_time": 1729564817,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312638,
+        "num": 312638,
+        "word": "喝奶的年纪就拥有了植物专家的水准",
+        "onboard_time": 1729556297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286074,
+        "num": 286074,
+        "word": "双十一退款",
+        "onboard_time": 1729515260,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1301159,
+        "num": 285785,
+        "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
+        "onboard_time": 1729566317,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 879110,
+        "num": 282608,
+        "word": "刘宪华说黄磊的饭好吃",
+        "onboard_time": 1729567218,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 661440,
+        "num": 280940,
+        "word": "官方回应国企为离岗16年员工缴社保",
+        "onboard_time": 1729561037,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153850,
+        "num": 278683,
+        "word": "明日霜降",
+        "onboard_time": 1729567338,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71413,
+        "num": 276297,
+        "word": "衡阳一工地发生小学生坠井死亡事件",
+        "onboard_time": 1729568419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52373,
+        "num": 273188,
+        "word": "我要不要上车啊",
+        "onboard_time": 1729566736,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24124,
+        "num": 272868,
+        "word": "长安启源E07免费上门试驾",
+        "onboard_time": 1729566797,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270835,
+        "num": 270835,
+        "word": "付航演过电影",
+        "onboard_time": 1729564757,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 612121,
+        "num": 270747,
+        "word": "充完电没拔充电器把家烧了",
+        "onboard_time": 1729553656,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268271,
+        "num": 268271,
+        "word": "奔跑吧直播",
+        "onboard_time": 1729566017,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636524,
+        "num": 267271,
+        "word": "班上成绩最差的同学写下自己的优点",
+        "onboard_time": 1729567279,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511303,
+        "num": 255885,
+        "word": "耳帝 伍佰和猥琐最不沾边",
+        "onboard_time": 1729561037,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 478501,
+        "num": 247422,
+        "word": "北京市原副市长高朋被双开",
+        "onboard_time": 1729565478,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420206,
+        "num": 246298,
+        "word": "刘志强严重违纪违法被开除党籍",
+        "onboard_time": 1729566677,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373997,
+        "num": 234085,
+        "word": "东北雨宙",
+        "onboard_time": 1729560499,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302243,
+        "num": 232856,
+        "word": "第一次拿到身份证的他得了第一名",
+        "onboard_time": 1729558758,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226532,
+        "num": 226532,
+        "word": "王楚钦林诗栋排名前二",
+        "onboard_time": 1729567879,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158671,
+        "num": 222241,
+        "word": "权志龙官宣出演MAMA",
+        "onboard_time": 1729557439,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92578,
+        "num": 214698,
+        "word": "王一博代言法丽兹",
+        "onboard_time": 1729556719,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72541,
+        "num": 207985,
+        "word": "郑恩彩好帅",
+        "onboard_time": 1729564576,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292352,
+        "num": 203819,
+        "word": "不管炒什么肉不要直接下锅炒",
+        "onboard_time": 1729567577,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199631,
+        "num": 199631,
+        "word": "以军被曝强迫加沙平民作人肉盾牌",
+        "onboard_time": 1729565958,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 178931,
+        "num": 178931,
+        "word": "男子骚扰女生被烧烤店老板娘霸气阻拦",
+        "onboard_time": 1729532713,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203527,
+        "num": 174474,
+        "word": "赛车手问王一博真的是第一次吗",
+        "onboard_time": 1729559717,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160859,
+        "num": 160859,
+        "word": "白天当店长晚上做小偷",
+        "onboard_time": 1729556119,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158279,
+        "num": 158279,
+        "word": "三星堆的含玉量还在上升",
+        "onboard_time": 1729567759,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19651,
+        "num": 154694,
+        "word": "手机CPU的巅峰时刻",
+        "onboard_time": 1729568058,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154585,
+        "num": 154585,
+        "word": "出国一年终于实现了狐臭自由",
+        "onboard_time": 1729567938,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95064,
+        "num": 151762,
+        "word": "陈都灵绿野仙踪造型",
+        "onboard_time": 1729564458,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144308,
+        "num": 151641,
+        "word": "三星堆玉石器材质已辨认出19种",
+        "onboard_time": 1729568359,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54794,
+        "num": 151572,
+        "word": "披荆斩棘是场巨大的戒断反应",
+        "onboard_time": 1729553776,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151559,
+        "num": 151559,
+        "word": "男子正要给骗子再转100万时民警来了",
+        "onboard_time": 1729561820,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149834,
+        "num": 149834,
+        "word": "坏了他是真想教会我做PPT",
+        "onboard_time": 1729567158,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143026,
+        "num": 143026,
+        "word": "长征胜利88周年",
+        "onboard_time": 1729556478,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141120,
+        "num": 141120,
+        "word": "丢失耳蜗男孩母亲辟谣耳蜗价值60万",
+        "onboard_time": 1729565057,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135181,
+        "num": 135181,
+        "word": "一图读懂金砖从何而来",
+        "onboard_time": 1729568359,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 132231,
+        "word": "学校回应1477名新生拟放弃入学",
+        "onboard_time": 1729522939,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130771,
+        "num": 130771,
+        "word": "中国军队和武警严防死守中缅边境",
+        "onboard_time": 1729515019,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127946,
+        "num": 127946,
+        "word": "学校称学生返校被搜身是为安全着想",
+        "onboard_time": 1729562238,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116839,
+        "num": 116839,
+        "word": "为什么你比别人更加怕冷",
+        "onboard_time": 1729560378,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的金砖峰会时间#"
+    }
+  }
+}

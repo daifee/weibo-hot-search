@@ -1,6 +1,6 @@
 {
   "startTime": 1729528059875,
-  "endTime": 1729567705683,
+  "endTime": 1729568576757,
   "band_list": [
     {
       "raw_hot": 1678981,
@@ -9,6 +9,14 @@
       "onboard_time": 1729553656,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1301159,
+      "num": 316326,
+      "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
+      "onboard_time": 1729566317,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1124917,
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1002075,
-      "num": 316326,
-      "word": "韩称朝鲜首批1500名士兵已抵达俄罗斯",
-      "onboard_time": 1729566317,
-      "rank": 10,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 901608,
       "num": 56942,
       "word": "斐乐 尾款",
       "onboard_time": 1729514659,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 879110,
+      "num": 311754,
+      "word": "刘宪华说黄磊的饭好吃",
+      "onboard_time": 1729567218,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 871932,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636524,
+      "num": 267271,
+      "word": "班上成绩最差的同学写下自己的优点",
+      "onboard_time": 1729567279,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635055,
       "num": 313211,
       "word": "第一次拿到身份证的他得了第一名",
@@ -171,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503400,
-      "num": 244625,
-      "word": "班上成绩最差的同学写下自己的优点",
-      "onboard_time": 1729567279,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 478501,
+      "num": 247422,
+      "word": "北京市原副市长高朋被双开",
+      "onboard_time": 1729565478,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420206,
+      "num": 246298,
+      "word": "刘志强严重违纪违法被开除党籍",
+      "onboard_time": 1729566677,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420080,
@@ -235,20 +259,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 328636,
+      "num": 328636,
+      "word": "我国成功发射天平三号卫星",
+      "onboard_time": 1729566617,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 318789,
+      "num": 320366,
+      "word": "央视曝光快速致富陷阱",
+      "onboard_time": 1729564817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316631,
       "num": 316631,
       "word": "奔跑吧直播",
       "onboard_time": 1729566017,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311754,
-      "num": 311754,
-      "word": "刘宪华说黄磊的饭好吃",
-      "onboard_time": 1729567218,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306227,
@@ -265,6 +297,14 @@
       "onboard_time": 1729498217,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292352,
+      "num": 203819,
+      "word": "不管炒什么肉不要直接下锅炒",
+      "onboard_time": 1729567577,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 288478,
@@ -307,14 +347,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 262562,
-      "num": 320366,
-      "word": "央视曝光快速致富陷阱",
-      "onboard_time": 1729564817,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245444,
       "num": 245444,
       "word": "男子正要给骗子再转100万时民警来了",
@@ -339,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232961,
-      "num": 232961,
-      "word": "北京市原副市长高朋被双开",
-      "onboard_time": 1729565478,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231681,
       "num": 272642,
       "word": "周星驰发文庆祝付航夺冠",
@@ -363,20 +387,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 226532,
+      "num": 226532,
+      "word": "王楚钦林诗栋排名前二",
+      "onboard_time": 1729567879,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224040,
       "num": 320860,
       "word": "权志龙官宣出演MAMA",
       "onboard_time": 1729557439,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 220619,
-      "num": 220619,
-      "word": "刘志强严重违纪违法被开除党籍",
-      "onboard_time": 1729566677,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213770,
@@ -411,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 199631,
+      "num": 199631,
+      "word": "以军被曝强迫加沙平民作人肉盾牌",
+      "onboard_time": 1729565958,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 195788,
       "num": 195788,
       "word": "骁龙8至尊版",
@@ -427,28 +459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192937,
-      "num": 192937,
-      "word": "不管炒什么肉不要直接下锅炒",
-      "onboard_time": 1729567577,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 188826,
       "num": 188826,
       "word": "手工耿小店只卖创意设计",
       "onboard_time": 1729550474,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 188107,
-      "num": 316415,
-      "word": "我国成功发射天平三号卫星",
-      "onboard_time": 1729566617,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 187920,
@@ -507,12 +523,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154235,
-      "num": 154235,
-      "word": "以军被曝强迫加沙平民作人肉盾牌",
-      "onboard_time": 1729565958,
-      "rank": 39,
-      "category": "国外时政"
+      "raw_hot": 158279,
+      "num": 158279,
+      "word": "三星堆的含玉量还在上升",
+      "onboard_time": 1729567759,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154585,
+      "num": 154585,
+      "word": "出国一年终于实现了狐臭自由",
+      "onboard_time": 1729567938,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153850,
+      "num": 278683,
+      "word": "明日霜降",
+      "onboard_time": 1729567338,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149834,
+      "num": 149834,
+      "word": "坏了他是真想教会我做PPT",
+      "onboard_time": 1729567158,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 148388,
@@ -528,6 +568,14 @@
       "word": "双十一洗衣液",
       "onboard_time": 1729524140,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144308,
+      "num": 151641,
+      "word": "三星堆玉石器材质已辨认出19种",
+      "onboard_time": 1729568359,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -547,8 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137784,
-      "num": 137784,
+      "raw_hot": 141120,
+      "num": 141120,
       "word": "丢失耳蜗男孩母亲辟谣耳蜗价值60万",
       "onboard_time": 1729565057,
       "rank": 45,
@@ -561,6 +609,14 @@
       "onboard_time": 1729515319,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135181,
+      "num": 135181,
+      "word": "一图读懂金砖从何而来",
+      "onboard_time": 1729568359,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134739,
@@ -579,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131736,
-      "num": 131736,
-      "word": "明日霜降",
-      "onboard_time": 1729567338,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130913,
       "num": 130913,
       "word": "套内69平米的独居小家",
@@ -601,14 +649,6 @@
       "onboard_time": 1729566197,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 124511,
-      "num": 124511,
-      "word": "坏了他是真想教会我做PPT",
-      "onboard_time": 1729567158,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 124313,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71413,
+      "num": 276297,
+      "word": "衡阳一工地发生小学生坠井死亡事件",
+      "onboard_time": 1729568419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71140,
       "num": 140044,
       "word": "意见要求提高产业工人经济收入",
@@ -963,20 +1011,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52373,
+      "num": 273188,
+      "word": "我要不要上车啊",
+      "onboard_time": 1729566736,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44829,
       "num": 44829,
       "word": "央视揭秘停息挂账骗局",
       "onboard_time": 1729538891,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39162,
-      "num": 228186,
-      "word": "我要不要上车啊",
-      "onboard_time": 1729566736,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 28815,
@@ -988,7 +1036,7 @@
     },
     {
       "raw_hot": 26820,
-      "num": 221276,
+      "num": 272868,
       "word": "长安启源E07免费上门试驾",
       "onboard_time": 1729566797,
       "rank": 29,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1729534632,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19651,
+      "num": 154694,
+      "word": "手机CPU的巅峰时刻",
+      "onboard_time": 1729568058,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 19262,
@@ -1100,6 +1156,9 @@
     },
     {
       "word": "#一图读懂金砖从何而来#"
+    },
+    {
+      "word": "#习主席的金砖峰会时间#"
     }
   ]
 }
