@@ -1,0 +1,410 @@
+{
+  "runTime": 1729610647978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564353,
+        "num": 1564353,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443927,
+        "num": 1443927,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27745,
+        "num": 681668,
+        "word": "1分钟认识千年古城喀山",
+        "onboard_time": 1729600639,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 527959,
+        "num": 527959,
+        "word": "爸爸找回失散38年儿子后痛哭道歉",
+        "onboard_time": 1729607720,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481139,
+        "num": 481139,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435710,
+        "num": 435710,
+        "word": "纯血鸿蒙",
+        "onboard_time": 1729597399,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 435608,
+        "num": 435608,
+        "word": "孙颖莎教王楠女儿打乒乓",
+        "onboard_time": 1729602019,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369190,
+        "num": 417486,
+        "word": "刘宪华才是蘑菇屋最聪明的",
+        "onboard_time": 1729593438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53721,
+        "num": 416897,
+        "word": "看战鹰穿梭于光影之间",
+        "onboard_time": 1729606940,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 416712,
+        "num": 416712,
+        "word": "中俄领导人会晤",
+        "onboard_time": 1729608980,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643009,
+        "num": 415237,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629047,
+        "num": 410562,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567292,
+        "num": 406126,
+        "word": "警方抓嫖时女子从空调外机坠落身亡",
+        "onboard_time": 1729598179,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487645,
+        "num": 402963,
+        "word": "花少 4个人吃9人餐",
+        "onboard_time": 1729587617,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35212,
+        "num": 401231,
+        "word": "官方回应小学生坠井身亡",
+        "onboard_time": 1729609521,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398401,
+        "num": 398401,
+        "word": "北京前副市长骗取经济学博士学位",
+        "onboard_time": 1729598718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318344,
+        "num": 318344,
+        "word": "SM三十周年纪念视频",
+        "onboard_time": 1729608921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302081,
+        "num": 302081,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288592,
+        "num": 288592,
+        "word": "轮椅女生呼吁设立无障碍宜居城市排名",
+        "onboard_time": 1729605139,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281796,
+        "num": 281796,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273211,
+        "num": 273211,
+        "word": "花学 周雨彤",
+        "onboard_time": 1729579399,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271867,
+        "num": 271867,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269295,
+        "num": 269295,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259769,
+        "num": 259769,
+        "word": "王者荣耀重度依赖",
+        "onboard_time": 1729606521,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243774,
+        "num": 243774,
+        "word": "3岁加沙男童被援助物资砸死",
+        "onboard_time": 1729589958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229757,
+        "num": 229757,
+        "word": "警方通报西安一公务车街头漂移",
+        "onboard_time": 1729607061,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208669,
+        "num": 208669,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206973,
+        "num": 206973,
+        "word": "Ning 情商",
+        "onboard_time": 1729595779,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 203507,
+        "word": "呼兰 开心3300点",
+        "onboard_time": 1729608020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124155,
+        "num": 201871,
+        "word": "徐志胜 你红你多分点",
+        "onboard_time": 1729599259,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200541,
+        "num": 200541,
+        "word": "爱奇艺新规",
+        "onboard_time": 1729595838,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197855,
+        "num": 197855,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729589058,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194733,
+        "num": 194733,
+        "word": "中国女子新西兰遇害1年后才找到遗体",
+        "onboard_time": 1729604479,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186119,
+        "num": 186119,
+        "word": "孩子小区内坠井爷爷救子身亡",
+        "onboard_time": 1729591038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179699,
+        "num": 179699,
+        "word": "马尔代夫潜水溺亡医学博士为家中独子",
+        "onboard_time": 1729592542,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168898,
+        "num": 168898,
+        "word": "毓言cp",
+        "onboard_time": 1729609040,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164354,
+        "num": 164354,
+        "word": "华为Watch",
+        "onboard_time": 1729605139,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81713,
+        "num": 161302,
+        "word": "华为传奇绿表火出圈",
+        "onboard_time": 1729606040,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116461,
+        "num": 159627,
+        "word": "心动的信号",
+        "onboard_time": 1729599738,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159075,
+        "num": 159075,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1729588698,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138996,
+        "num": 138996,
+        "word": "nova13 易烊千玺提示音",
+        "onboard_time": 1729605740,
+        "rank": 40,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 133002,
+        "num": 133002,
+        "word": "Mate70什么时候上",
+        "onboard_time": 1729603940,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128313,
+        "num": 128313,
+        "word": "余承东称用10年干了欧美30年的事",
+        "onboard_time": 1729609459,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 121973,
+        "word": "此沙演技",
+        "onboard_time": 1729609580,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110292,
+        "num": 110292,
+        "word": "女子称存40多万取款时余额为零",
+        "onboard_time": 1729584859,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109492,
+        "num": 109492,
+        "word": "这些所谓进口水果都是假的",
+        "onboard_time": 1729609521,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144941,
+        "num": 106519,
+        "word": "东北雨婶回应",
+        "onboard_time": 1729604840,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146127,
+        "num": 105035,
+        "word": "东北雨姐徒弟现状",
+        "onboard_time": 1729590318,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 101858,
+        "num": 101858,
+        "word": "张凯丽晒给赵丽颖颁奖照",
+        "onboard_time": 1729608741,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79425,
+        "num": 101642,
+        "word": "凤小岳直播",
+        "onboard_time": 1729607540,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达喀山受到热烈欢迎#"
+    }
+  }
+}
