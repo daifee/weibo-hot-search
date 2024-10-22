@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 10:54:52
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/22 11:03:46
 </p>
 </blockquote>
 <p>
@@ -3063,6 +3063,12 @@ K总停播（热度：1089422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E4%B8%BA%E7%A6%BB%E5%B2%9716%E5%B9%B4%E5%91%98%E5%B7%A5%E7%BC%B4%E7%A4%BE%E4%BF%9D%23" target="weibo">
+官方回应国企为离岗16年员工缴社保（热度：1070751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E5%8E%BF%E5%9F%8E%E4%B9%B0%E5%87%A0%E5%8D%83%E4%B8%87%E7%9A%84%E8%B1%AA%E5%AE%85%23" target="weibo">
 谁在县城买几千万的豪宅（热度：1069438）
 </a>
@@ -3071,12 +3077,6 @@ K总停播（热度：1089422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%9C%AA%E4%B9%B0%E6%B7%80%E7%B2%89%E8%82%A0%E6%91%8A%E4%B8%BB%E5%88%AE%E4%B8%8B%E8%B0%83%E6%96%99%E8%88%94%E6%8E%89%23" target="weibo">
 顾客未买淀粉肠摊主刮下调料舔掉（热度：1069057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E4%B8%BA%E7%A6%BB%E5%B2%9716%E5%B9%B4%E5%91%98%E5%B7%A5%E7%BC%B4%E7%A4%BE%E4%BF%9D%23" target="weibo">
-官方回应国企为离岗16年员工缴社保（热度：1067256）
 </a>
 </li>
 
@@ -4917,6 +4917,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%85%E7%94%B5%E5%99%A8%E4%B8%80%E7%9B%B4%E6%8F%92%E7%9D%80%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23" target="weibo">
+充电器一直插着有多危险（热度：819544）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E7%A7%B0%E6%89%93%E6%AD%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%BE%9B%E7%93%A6%E5%B0%94%23" target="weibo">
 以方称打死哈马斯领导人辛瓦尔（热度：819406）
 </a>
@@ -6005,12 +6011,6 @@ GALA连续四年止步八强（热度：727346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82%E5%8F%91%E5%B1%95%E8%BF%9C%E8%90%BD%E5%90%8E%E4%B8%AD%E5%9B%BD%23" target="weibo">
 特朗普称美国城市发展远落后中国（热度：726295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8B%90%E5%90%8E%E5%A6%88%E5%A6%88%E7%96%AF%E4%BA%86%E7%88%B8%E7%88%B8%E8%87%AA%E6%9D%80%E4%BA%86%23" target="weibo">
-女儿被拐后妈妈疯了爸爸自杀了（热度：725787）
 </a>
 </li>
 
