@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729654952729,
+  "endTime": 1729657616375,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -16,6 +16,14 @@
       "word": "实锤山取团队摆拍",
       "onboard_time": 1729650077,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1960116,
+      "num": 414424,
+      "word": "女子离职后举报足道店疑似卖淫",
+      "onboard_time": 1729655178,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -59,11 +67,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1056712,
+      "num": 1056712,
+      "word": "美国多地麦当劳发生大肠杆菌感染",
+      "onboard_time": 1729651757,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877759,
       "num": 877759,
       "word": "银行人员称存款消失与储户泄露账密有关",
       "onboard_time": 1729646238,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866822,
+      "num": 450046,
+      "word": "丈夫碾压妻子致死案进行三次尸检",
+      "onboard_time": 1729654697,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -83,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 728868,
+      "num": 728868,
+      "word": "徐志胜淘汰感言爆哭",
+      "onboard_time": 1729649238,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694705,
       "num": 694705,
       "word": "10万多水军每个账号背后都是真人",
@@ -97,6 +129,14 @@
       "onboard_time": 1729652418,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660042,
+      "num": 660042,
+      "word": "小米电视",
+      "onboard_time": 1729654819,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 633284,
@@ -123,19 +163,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 590012,
-      "num": 590012,
-      "word": "徐志胜淘汰感言爆哭",
-      "onboard_time": 1729649238,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 589292,
       "num": 295537,
       "word": "四川警方发布无名尸体认领公告",
       "onboard_time": 1729612818,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583581,
+      "num": 446692,
+      "word": "医院回应双胞胎儿在生产时死亡",
+      "onboard_time": 1729655358,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -153,6 +193,14 @@
       "onboard_time": 1729638855,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547686,
+      "num": 444251,
+      "word": "布朗尼甩锅詹姆斯",
+      "onboard_time": 1729655719,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 540743,
@@ -243,11 +291,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382810,
-      "num": 475314,
-      "word": "美国多地麦当劳发生大肠杆菌感染",
-      "onboard_time": 1729651757,
-      "rank": 8,
+      "raw_hot": 401450,
+      "num": 401450,
+      "word": "孩子家门口玩荡椅致头部重伤身亡",
+      "onboard_time": 1729654638,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -268,7 +316,7 @@
     },
     {
       "raw_hot": 346725,
-      "num": 382655,
+      "num": 431836,
       "word": "唐朝诡事录3开机",
       "onboard_time": 1729653137,
       "rank": 18,
@@ -297,6 +345,14 @@
       "onboard_time": 1729608980,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 316765,
+      "num": 316765,
+      "word": "近千个家庭收到长安街摆放过的鲜花",
+      "onboard_time": 1729654097,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315268,
@@ -435,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243567,
+      "num": 226155,
+      "word": "果丹皮曾是军用信纸",
+      "onboard_time": 1729656019,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 242879,
       "num": 228123,
       "word": "白鹿奔跑吧特别季录制结束哭了",
       "onboard_time": 1729612639,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241107,
+      "num": 241107,
+      "word": "为什么我们容易越省越穷",
+      "onboard_time": 1729656740,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234466,
@@ -491,19 +563,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215572,
-      "num": 215572,
-      "word": "近千个家庭收到长安街摆放过的鲜花",
-      "onboard_time": 1729654097,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211307,
       "num": 161275,
       "word": "15天让头发变钻石",
       "onboard_time": 1729638134,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208506,
+      "num": 380138,
+      "word": "男子辗轧妻子被诉过失致人死亡罪",
+      "onboard_time": 1729652058,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -521,6 +593,14 @@
       "onboard_time": 1729654278,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202652,
+      "num": 202652,
+      "word": "付航说自己真没得过抑郁症",
+      "onboard_time": 1729657400,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200266,
@@ -563,12 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188543,
-      "num": 380138,
-      "word": "男子辗轧妻子被诉过失致人死亡罪",
-      "onboard_time": 1729652058,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 190408,
+      "num": 190408,
+      "word": "苏宁易购要求万达集团支付50.4亿",
+      "onboard_time": 1729656079,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 189420,
+      "num": 204065,
+      "word": "花少更新",
+      "onboard_time": 1729657459,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 187554,
@@ -601,6 +689,14 @@
       "onboard_time": 1729623192,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174058,
+      "num": 226590,
+      "word": "乔妍的心事终极预告",
+      "onboard_time": 1729657400,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 165465,
@@ -659,6 +755,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157252,
+      "num": 157252,
+      "word": "库克来微博扫楼",
+      "onboard_time": 1729654578,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 156502,
+      "num": 156502,
+      "word": "中国代表三次还击美方攻击抹黑",
+      "onboard_time": 1729656379,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 155919,
+      "num": 155919,
+      "word": "首都国庆花坛撤下鲜花回赠市民",
+      "onboard_time": 1729655358,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155792,
       "num": 155792,
       "word": "金价杀到2748.85美元",
@@ -667,12 +787,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 154858,
-      "num": 154858,
-      "word": "小米电视",
-      "onboard_time": 1729654819,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 151290,
+      "num": 151290,
+      "word": "我恋6小宇cp爱人错过",
+      "onboard_time": 1729657519,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 150944,
@@ -680,14 +800,6 @@
       "word": "杭州地铁将投运130列无人驾驶列车",
       "onboard_time": 1729638196,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150672,
-      "num": 150672,
-      "word": "孩子家门口玩荡椅致头部重伤身亡",
-      "onboard_time": 1729654638,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -705,14 +817,6 @@
       "onboard_time": 1729617614,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 149424,
-      "num": 149424,
-      "word": "库克来微博扫楼",
-      "onboard_time": 1729654578,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 148163,
@@ -761,14 +865,6 @@
       "onboard_time": 1729651817,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138213,
-      "num": 138213,
-      "word": "丈夫碾压妻子致死案进行三次尸检",
-      "onboard_time": 1729654697,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137903,
@@ -1027,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83235,
+      "num": 422790,
+      "word": "刘浩存哭戏共情力",
+      "onboard_time": 1729657278,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83212,
       "num": 83212,
       "word": "女子入秋骑电动车冻腿找中医放血",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1729599738,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60973,
+      "num": 436843,
+      "word": "如何解救困在直播间的老人",
+      "onboard_time": 1729656199,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59089,
@@ -1177,6 +1289,22 @@
       "onboard_time": 1729622651,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31880,
+      "num": 455010,
+      "word": "使用转基因大豆油应向大众标注告知",
+      "onboard_time": 1729656319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30650,
+      "num": 157558,
+      "word": "何小鹏称P7+智驾开得比自己好",
+      "onboard_time": 1729657400,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 29634,
