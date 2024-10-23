@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729712177262,
+  "endTime": 1729715120924,
   "band_list": [
     {
       "raw_hot": 1837166,
@@ -435,8 +435,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40730,
-      "num": 40730,
+      "raw_hot": 46284,
+      "num": 46284,
+      "word": "团伙直播间卖假鞋封一个就再开一个",
+      "onboard_time": 1729711151,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40821,
+      "num": 40821,
       "word": "留学姑娘回村创业年销售额2500万",
       "onboard_time": 1729709892,
       "rank": 9,
@@ -491,12 +499,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16734,
-      "num": 40401,
-      "word": "团伙直播间卖假鞋封一个就再开一个",
-      "onboard_time": 1729711151,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 23692,
+      "num": 23692,
+      "word": "揭秘直播间限量版运动鞋骗局",
+      "onboard_time": 1729712472,
+      "rank": 31,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 17281,
+      "num": 29742,
+      "word": "中俄世代友好的深厚情谊不会变",
+      "onboard_time": 1729712951,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15301,
@@ -512,6 +528,14 @@
       "word": "警惕家中老年人遭受保健品杀猪盘",
       "onboard_time": 1729707613,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13718,
+      "num": 33598,
+      "word": "商户回应游客在景德镇捡瓷器",
+      "onboard_time": 1729714691,
+      "rank": 19,
       "category": "社会新闻"
     }
   ],
