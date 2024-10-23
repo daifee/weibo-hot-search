@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729722104374,
+  "endTime": 1729723188872,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -4059,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287883,
+      "num": 484967,
+      "word": "江西张某某拒服兵役性质恶劣被罚",
+      "onboard_time": 1729716730,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287842,
       "num": 287842,
       "word": "whiplash",
@@ -6216,14 +6224,6 @@
       "word": "太空3人组打扫屋子迎接神十九",
       "onboard_time": 1729665318,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189989,
-      "num": 375554,
-      "word": "江西张某某拒服兵役性质恶劣被罚",
-      "onboard_time": 1729716730,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9595,6 +9595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88934,
+      "num": 88934,
+      "word": "团伙直播间卖假鞋封一个就再开一个",
+      "onboard_time": 1729711151,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88495,
       "num": 88495,
       "word": "商家回应近2万的泰迪裁耳画眼线",
@@ -10059,14 +10067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67592,
-      "num": 67592,
-      "word": "团伙直播间卖假鞋封一个就再开一个",
-      "onboard_time": 1729711151,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67460,
       "num": 985029,
       "word": "让二万五千里长征精神永远流传",
@@ -10288,6 +10288,14 @@
       "word": "太平洋咖啡大规模关店",
       "onboard_time": 1729591639,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59270,
+      "num": 59270,
+      "word": "民族元素给校服界一点震撼",
+      "onboard_time": 1729720511,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10649,6 +10657,14 @@
       "onboard_time": 1729602140,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 45972,
+      "num": 45972,
+      "word": "医院回应女职工被举报出轨",
+      "onboard_time": 1729715770,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45905,
@@ -11123,14 +11139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 35804,
-      "num": 35804,
-      "word": "医院回应女职工被举报出轨",
-      "onboard_time": 1729715770,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35658,
       "num": 325261,
       "word": "以物抵债69套房产遭法院查封8年",
@@ -11200,6 +11208,14 @@
       "word": "万千气象看北京",
       "onboard_time": 1729652177,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34742,
+      "num": 38762,
+      "word": "商户回应游客在景德镇捡瓷器",
+      "onboard_time": 1729714691,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -11321,6 +11337,14 @@
       "onboard_time": 1729480639,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32418,
+      "num": 32418,
+      "word": "伊朗沙特将在红海举行联合军演",
+      "onboard_time": 1729718471,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 31794,
@@ -11595,28 +11619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26235,
-      "num": 38762,
-      "word": "商户回应游客在景德镇捡瓷器",
-      "onboard_time": 1729714691,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26179,
       "num": 216502,
       "word": "马青骅TCR世界巡回赛主场夺冠",
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 25979,
-      "num": 29550,
-      "word": "伊朗沙特将在红海举行联合军演",
-      "onboard_time": 1729718471,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 25677,
@@ -11683,6 +11691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 24348,
+      "num": 80497,
+      "word": "联播主播遇上中文满级外国主持人",
+      "onboard_time": 1729722252,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24284,
       "num": 386167,
       "word": "双11花呗分期免息不用白不用",
@@ -11745,6 +11761,14 @@
       "onboard_time": 1729712472,
       "rank": 31,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 23642,
+      "num": 30342,
+      "word": "Hani未婚夫不承认医疗过失",
+      "onboard_time": 1729723092,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 23435,
@@ -11897,14 +11921,6 @@
       "onboard_time": 1729450511,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20125,
-      "num": 54501,
-      "word": "民族元素给校服界一点震撼",
-      "onboard_time": 1729720511,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19836,
