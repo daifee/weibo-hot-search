@@ -1,0 +1,410 @@
+{
+  "runTime": 1729652004130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068014,
+        "num": 1170882,
+        "word": "唐朝诡事录之长安换导演",
+        "onboard_time": 1729650018,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 977594,
+        "num": 977594,
+        "word": "有人卖黄金一单变现234万",
+        "onboard_time": 1729641139,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4648,
+        "num": 871664,
+        "word": "一图带你数读金砖",
+        "onboard_time": 1729599618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 859451,
+        "num": 859451,
+        "word": "以色列总理住宅遭无人机袭击",
+        "onboard_time": 1729646357,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 694705,
+        "num": 694705,
+        "word": "10万多水军每个账号背后都是真人",
+        "onboard_time": 1729648157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482158,
+        "num": 482158,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397061,
+        "num": 397061,
+        "word": "霜降是秋天的第六个节气",
+        "onboard_time": 1729646478,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350075,
+        "num": 395844,
+        "word": "徐志胜第6",
+        "onboard_time": 1729645398,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54816,
+        "num": 393365,
+        "word": "美国多地麦当劳发生大肠杆菌感染",
+        "onboard_time": 1729651757,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67196,
+        "num": 391774,
+        "word": "电商平台仓管员猝死该谁来赔偿",
+        "onboard_time": 1729650497,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941980,
+        "num": 389219,
+        "word": "实锤山取团队摆拍",
+        "onboard_time": 1729650077,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387223,
+        "num": 387223,
+        "word": "霜降后好像一键入冬了",
+        "onboard_time": 1729645457,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470764,
+        "num": 386870,
+        "word": "老伯报警打死护工吓坏接警员",
+        "onboard_time": 1729642098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420123,
+        "num": 386457,
+        "word": "邱贻可说孙颖莎也有疲劳的时候",
+        "onboard_time": 1729650677,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384753,
+        "num": 384753,
+        "word": "徐志胜淘汰感言爆哭",
+        "onboard_time": 1729649238,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344862,
+        "num": 344862,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329006,
+        "num": 329006,
+        "word": "Ning拒绝背王多多的诗",
+        "onboard_time": 1729641738,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302920,
+        "num": 302920,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295118,
+        "num": 295118,
+        "word": "毒液3",
+        "onboard_time": 1729647676,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134361,
+        "num": 290820,
+        "word": "得闲谨制开机",
+        "onboard_time": 1729642519,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414987,
+        "num": 290310,
+        "word": "邱贻可回应全网都在心疼孙颖莎",
+        "onboard_time": 1729648816,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289774,
+        "num": 289774,
+        "word": "Rookie谈Ning事件",
+        "onboard_time": 1729651517,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265007,
+        "num": 265007,
+        "word": "女子孕晚期肚子鼓包像犄角",
+        "onboard_time": 1729638915,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228485,
+        "num": 228485,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216240,
+        "num": 216240,
+        "word": "金价要涨到什么时候",
+        "onboard_time": 1729650619,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202497,
+        "num": 202497,
+        "word": "天蝎座生日快乐",
+        "onboard_time": 1729641677,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201610,
+        "num": 201610,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186318,
+        "num": 186318,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184028,
+        "num": 184028,
+        "word": "霜降",
+        "onboard_time": 1729638855,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86712,
+        "num": 169829,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169138,
+        "num": 169138,
+        "word": "金店撑不住了",
+        "onboard_time": 1729638196,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166941,
+        "num": 166941,
+        "word": "上山采茶籽捡到6只长得像猴的小鸟",
+        "onboard_time": 1729643598,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 155792,
+        "word": "金价杀到2748.85美元",
+        "onboard_time": 1729647498,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150879,
+        "num": 150879,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150583,
+        "num": 150583,
+        "word": "北京地铁2号线",
+        "onboard_time": 1729650737,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148304,
+        "num": 148304,
+        "word": "男子38年前被拐以为遭抛弃不敢寻亲",
+        "onboard_time": 1729644858,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139385,
+        "num": 139385,
+        "word": "份量逐渐增加的烤肉",
+        "onboard_time": 1729645457,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "团伙打着躺赚噱头招人入伙先交会费",
+        "onboard_time": 1729650018,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121715,
+        "num": 121715,
+        "word": "当地回应清北毕业生入职县级中学",
+        "onboard_time": 1729645457,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121070,
+        "num": 121070,
+        "word": "节气里的大美中国",
+        "onboard_time": 1729647317,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119133,
+        "num": 119133,
+        "word": "以军称纳斯鲁拉继任者已死",
+        "onboard_time": 1729648759,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114336,
+        "num": 114336,
+        "word": "文化中国行看霜降节气",
+        "onboard_time": 1729639816,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112199,
+        "num": 112199,
+        "word": "宝蓝说不会力挺Ning",
+        "onboard_time": 1729651638,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110761,
+        "num": 110761,
+        "word": "教师称网络热梗泛滥对学生影响太大",
+        "onboard_time": 1729646117,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109099,
+        "num": 109099,
+        "word": "早安结婚 rapper在台上battle",
+        "onboard_time": 1729643358,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108776,
+        "num": 108776,
+        "word": "凯尔特人追平NBA单场三分纪录",
+        "onboard_time": 1729651817,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104042,
+        "num": 104042,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1729649897,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102981,
+        "num": 102981,
+        "word": "没工作骗妈妈出门上班",
+        "onboard_time": 1729641017,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98045,
+        "num": 98045,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71486,
+        "num": 96557,
+        "word": "七夜雪 BE美学",
+        "onboard_time": 1729644199,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行双边会晤#"
+    }
+  }
+}

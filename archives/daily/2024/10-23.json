@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729648723996,
+  "endTime": 1729652004130,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -43,11 +43,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1068014,
+      "num": 1170882,
+      "word": "唐朝诡事录之长安换导演",
+      "onboard_time": 1729650018,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 941980,
+      "num": 389219,
+      "word": "实锤山取团队摆拍",
+      "onboard_time": 1729650077,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877759,
       "num": 877759,
       "word": "银行人员称存款消失与储户泄露账密有关",
       "onboard_time": 1729646238,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859451,
+      "num": 859451,
+      "word": "以色列总理住宅遭无人机袭击",
+      "onboard_time": 1729646357,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 694705,
+      "num": 694705,
+      "word": "10万多水军每个账号背后都是真人",
+      "onboard_time": 1729648157,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -57,14 +89,6 @@
       "onboard_time": 1729645398,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 620642,
-      "num": 620642,
-      "word": "以色列总理住宅遭无人机袭击",
-      "onboard_time": 1729646357,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 592360,
@@ -155,12 +179,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 420123,
+      "num": 386457,
+      "word": "邱贻可说孙颖莎也有疲劳的时候",
+      "onboard_time": 1729650677,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414987,
+      "num": 290310,
+      "word": "邱贻可回应全网都在心疼孙颖莎",
+      "onboard_time": 1729648816,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402668,
-      "num": 249797,
+      "num": 265007,
       "word": "女子孕晚期肚子鼓包像犄角",
       "onboard_time": 1729638915,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384753,
+      "num": 384753,
+      "word": "徐志胜淘汰感言爆哭",
+      "onboard_time": 1729649238,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 377442,
@@ -235,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295118,
+      "num": 295118,
+      "word": "毒液3",
+      "onboard_time": 1729647676,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292599,
       "num": 266049,
       "word": "1个月5大网红塌房",
       "onboard_time": 1729593678,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 289774,
+      "num": 289774,
+      "word": "Rookie谈Ning事件",
+      "onboard_time": 1729651517,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 289753,
@@ -281,14 +345,6 @@
       "onboard_time": 1729629370,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268638,
-      "num": 268638,
-      "word": "毒液3",
-      "onboard_time": 1729647676,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 264167,
@@ -361,6 +417,14 @@
       "onboard_time": 1729645878,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216240,
+      "num": 216240,
+      "word": "金价要涨到什么时候",
+      "onboard_time": 1729650619,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 216138,
@@ -483,11 +547,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155792,
+      "num": 155792,
+      "word": "金价杀到2748.85美元",
+      "onboard_time": 1729647498,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150944,
       "num": 277235,
       "word": "杭州地铁将投运130列无人驾驶列车",
       "onboard_time": 1729638196,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150583,
+      "num": 150583,
+      "word": "北京地铁2号线",
+      "onboard_time": 1729650737,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -563,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131565,
-      "num": 131565,
-      "word": "10万多水军每个账号背后都是真人",
-      "onboard_time": 1729648157,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129161,
       "num": 129161,
       "word": "文化中国行看霜降节气",
@@ -603,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123925,
-      "num": 123925,
-      "word": "金价杀到2748.85美元",
-      "onboard_time": 1729647498,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 125358,
+      "num": 125358,
+      "word": "团伙打着躺赚噱头招人入伙先交会费",
+      "onboard_time": 1729650018,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121878,
@@ -625,6 +697,14 @@
       "onboard_time": 1729592542,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119133,
+      "num": 119133,
+      "word": "以军称纳斯鲁拉继任者已死",
+      "onboard_time": 1729648759,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116312,
@@ -649,6 +729,14 @@
       "onboard_time": 1729646117,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112199,
+      "num": 112199,
+      "word": "宝蓝说不会力挺Ning",
+      "onboard_time": 1729651638,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 111367,
@@ -681,6 +769,22 @@
       "onboard_time": 1729609040,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108776,
+      "num": 108776,
+      "word": "凯尔特人追平NBA单场三分纪录",
+      "onboard_time": 1729651817,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104042,
+      "num": 104042,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1729649897,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 97353,
@@ -835,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67196,
+      "num": 391774,
+      "word": "电商平台仓管员猝死该谁来赔偿",
+      "onboard_time": 1729650497,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66406,
       "num": 72236,
       "word": "心动的信号",
@@ -849,6 +961,14 @@
       "onboard_time": 1729615456,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54816,
+      "num": 393365,
+      "word": "美国多地麦当劳发生大肠杆菌感染",
+      "onboard_time": 1729651757,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37039,
@@ -988,7 +1108,7 @@
     },
     {
       "raw_hot": 9705,
-      "num": 643977,
+      "num": 871664,
       "word": "一图带你数读金砖",
       "onboard_time": 1729599618,
       "rank": 2,
