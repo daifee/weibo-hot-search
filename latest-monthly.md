@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/23 23:39:10
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 00:28:17
 </p>
 </blockquote>
 <p>
@@ -1115,6 +1115,12 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8D%95%E6%97%A0%E7%BC%98%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%9B%9B%E5%BC%BA%23" target="weibo">
 国乒女单无缘亚锦赛四强（热度：1841069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%BE%AE%E8%BE%B1%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%BC%95%E8%88%86%E8%AE%BA%E5%93%97%E7%84%B6%23" target="weibo">
+医学生侮辱大体老师引舆论哗然（热度：1837166）
 </a>
 </li>
 
@@ -2991,6 +2997,12 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B0%B4%E4%BA%A7%E5%B8%82%E5%9C%BA%E9%81%AD%E6%9D%80%E5%AE%B3%23" target="weibo">
+大连一男子在水产市场遭杀害（热度：1147697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E6%B2%A1%E6%9C%89%E8%9F%92%E8%9B%87%E4%BD%86%E6%9C%89%E6%AF%92%E8%9B%87%23" target="weibo">
 哀牢山没有蟒蛇但有毒蛇（热度：1146049）
 </a>
@@ -3939,12 +3951,6 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B0%B4%E4%BA%A7%E5%B8%82%E5%9C%BA%E9%81%AD%E6%9D%80%E5%AE%B3%23" target="weibo">
-大连一男子在水产市场遭杀害（热度：990895）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E6%8D%A1%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%AD%A9%E8%AF%BE%E6%9C%AC%E7%A7%B0%E4%B8%8D%E6%98%AF%E5%89%A7%E6%9C%AC%23" target="weibo">
 博主捡到中国小孩课本称不是剧本（热度：990598）
 </a>
@@ -4275,6 +4281,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E5%8F%98%E5%93%88%E9%87%8C%E6%96%AF%23" target="weibo">
+选特朗普打印出来变哈里斯（热度：944383）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E6%9C%AC%E9%9B%85%E6%98%8E%23" target="weibo">
 林诗栋vs本雅明（热度：942655）
 </a>
@@ -4355,12 +4367,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%9B%A0%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%8E%A5%E4%B9%94%E5%A6%8D%E7%9A%84%E5%BF%83%E4%BA%8B%23" target="weibo">
 辛芷蕾因赵丽颖接乔妍的心事（热度：932383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E5%8F%98%E5%93%88%E9%87%8C%E6%96%AF%23" target="weibo">
-选特朗普打印出来变哈里斯（热度：931306）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ WTT（热度：765189）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%9A%E5%B1%82%E5%AF%BC%E5%BC%B9%E6%8B%A6%E6%88%AA%E7%B3%BB%E7%BB%9F%E7%96%91%E4%BC%BC%E7%A0%B4%E9%98%B2%23" target="weibo">
-以色列多层导弹拦截系统疑似破防（热度：761988）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6563,6 +6563,12 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E6%99%A4%23%23" target="weibo">
 #习近平出席金砖国家领导人会晤#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%23%23" target="weibo">
+#习近平会见埃及总统#
 </a>
 </li>
 
