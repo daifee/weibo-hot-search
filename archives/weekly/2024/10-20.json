@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729688340869,
+  "endTime": 1729690163344,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -939,6 +939,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 954775,
+      "num": 290939,
+      "word": "8块8的虫草内裤直播间卖了250万元",
+      "onboard_time": 1729685657,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950305,
       "num": 1152048,
       "word": "医院不是网红打卡的秀场",
@@ -1275,14 +1283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 825469,
-      "num": 290939,
-      "word": "8块8的虫草内裤直播间卖了250万元",
-      "onboard_time": 1729685657,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 819544,
       "num": 1131127,
       "word": "充电器一直插着有多危险",
@@ -1513,6 +1513,14 @@
       "onboard_time": 1729605139,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730655,
+      "num": 227849,
+      "word": "赵丽颖不想身材管理",
+      "onboard_time": 1729689019,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 728868,
@@ -2024,6 +2032,14 @@
       "word": "医院回应双胞胎儿在生产时死亡",
       "onboard_time": 1729655358,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579822,
+      "num": 579822,
+      "word": "明年起面包里不能有这种添加剂",
+      "onboard_time": 1729683858,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2769,6 +2785,14 @@
       "onboard_time": 1729473078,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433510,
+      "num": 212900,
+      "word": "抑郁症的时候爸爸往家里扛了三箱香蕉",
+      "onboard_time": 1729689078,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 427140,
@@ -3521,14 +3545,6 @@
       "onboard_time": 1729658360,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321325,
-      "num": 321325,
-      "word": "明年起面包里不能有这种添加剂",
-      "onboard_time": 1729683858,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320546,
@@ -5483,11 +5499,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203869,
+      "num": 203869,
+      "word": "呼兰亚军",
+      "onboard_time": 1729688418,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203800,
       "num": 203800,
       "word": "救援者说再走10分钟遇难女孩就能活",
       "onboard_time": 1729571482,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203798,
+      "num": 160417,
+      "word": "11岁女孩只爱吃荤胸部长5个肿瘤",
+      "onboard_time": 1729689439,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -5641,6 +5673,14 @@
       "onboard_time": 1729429221,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197315,
+      "num": 190403,
+      "word": "用一只虾做13菜一汤",
+      "onboard_time": 1729684397,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 197282,
@@ -5939,14 +5979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190403,
-      "num": 190403,
-      "word": "用一只虾做13菜一汤",
-      "onboard_time": 1729684397,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "太空3人组打扫屋子迎接神十九",
@@ -6065,6 +6097,14 @@
       "onboard_time": 1729657819,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187198,
+      "num": 187198,
+      "word": "女子做易拉宝举报丈夫出轨医院职工",
+      "onboard_time": 1729689980,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186934,
@@ -6507,6 +6547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171239,
+      "num": 171239,
+      "word": "毛豆 可惜",
+      "onboard_time": 1729688719,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170601,
       "num": 170601,
       "word": "警方通报男子报警称女儿被人强奸",
@@ -6560,6 +6608,14 @@
       "word": "不良执念清除师",
       "onboard_time": 1729417819,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169133,
+      "num": 169133,
+      "word": "七夜雪",
+      "onboard_time": 1729688597,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -6721,6 +6777,14 @@
       "onboard_time": 1729508959,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164345,
+      "num": 164345,
+      "word": "脱友 喜单",
+      "onboard_time": 1729689019,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 164241,
@@ -6985,6 +7049,14 @@
       "onboard_time": 1729646177,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157056,
+      "num": 227086,
+      "word": "父母三次闹离婚都不愿抚养残疾儿子",
+      "onboard_time": 1729685539,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156969,
@@ -7331,14 +7403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146820,
-      "num": 227086,
-      "word": "父母三次闹离婚都不愿抚养残疾儿子",
-      "onboard_time": 1729685539,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146422,
       "num": 170839,
       "word": "徐明浩单人登封韩版COSMO",
@@ -7500,7 +7564,7 @@
     },
     {
       "raw_hot": 143367,
-      "num": 143367,
+      "num": 162079,
       "word": "四川科幻世界杂志社副总编辑被查",
       "onboard_time": 1729685238,
       "rank": 43,
@@ -7689,6 +7753,14 @@
       "onboard_time": 1729388899,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137321,
+      "num": 137321,
+      "word": "孕妇生产双胞胎一胎死亡调查情况",
+      "onboard_time": 1729688779,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136881,
@@ -7891,6 +7963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133003,
+      "num": 133003,
+      "word": "称存款消失女子被建议到属地报案",
+      "onboard_time": 1729686919,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132951,
       "num": 132951,
       "word": "球球大作战服务器",
@@ -7913,6 +7993,14 @@
       "onboard_time": 1729356617,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132662,
+      "num": 132662,
+      "word": "全女脱口秀",
+      "onboard_time": 1729689919,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 131930,
@@ -8009,6 +8097,14 @@
       "onboard_time": 1729427540,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129796,
+      "num": 129796,
+      "word": "火车电子发票给你整明明白白",
+      "onboard_time": 1729688359,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129639,
@@ -8121,6 +8217,14 @@
       "onboard_time": 1729496177,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 127092,
+      "num": 127092,
+      "word": "湖南一凉亭免费供应茶水146年",
+      "onboard_time": 1729690100,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126987,
@@ -8593,14 +8697,6 @@
       "onboard_time": 1729439181,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112564,
-      "num": 112564,
-      "word": "称存款消失女子被建议到属地报案",
-      "onboard_time": 1729686919,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112556,
@@ -9931,6 +10027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54066,
+      "num": 295538,
+      "word": "多方回应村民补办户口本因医保被拒",
+      "onboard_time": 1729687998,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53905,
       "num": 423512,
       "word": "nova13系列新增后置长焦人像镜头",
@@ -10763,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31315,
+      "num": 642078,
+      "word": "金砖允许更多发展中国家的声音",
+      "onboard_time": 1729689141,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31293,
       "num": 31293,
       "word": "王一博GT3赛车比赛精彩镜头",
@@ -10891,20 +11003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28170,
-      "num": 295538,
-      "word": "多方回应村民补办户口本因医保被拒",
-      "onboard_time": 1729687998,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28054,
       "num": 227432,
       "word": "谁懂看上捞面锦标赛了",
       "onboard_time": 1729600579,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 28028,
+      "num": 226040,
+      "word": "极氪MIX侧碰和压顶表现",
+      "onboard_time": 1729689319,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 27940,
@@ -11011,6 +11123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26058,
+      "num": 215094,
+      "word": "蓝罐曲奇被判向皇冠曲奇赔偿50万",
+      "onboard_time": 1729688899,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25677,
       "num": 51342,
       "word": "神十九近日将择机发射",
@@ -11056,6 +11176,14 @@
       "word": "卖锅盔大叔妻子生病学生自发购买支持",
       "onboard_time": 1729457892,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24654,
+      "num": 231367,
+      "word": "商家万元项链售假抗辩称发错货",
+      "onboard_time": 1729688719,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
