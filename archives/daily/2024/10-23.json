@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729683346318,
+  "endTime": 1729687357420,
   "band_list": [
     {
       "raw_hot": 6591637,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1146036,
+      "num": 237388,
+      "word": "4岁女孩右眼做手术左眼被开刀",
+      "onboard_time": 1729684997,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143356,
       "num": 308382,
       "word": "警方抓嫖时女子从空调外机坠落身亡",
@@ -161,6 +169,14 @@
       "onboard_time": 1729650018,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1064776,
+      "num": 1170364,
+      "word": "民政部鼓励婚姻登记设在公园",
+      "onboard_time": 1729684217,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1056712,
@@ -297,6 +313,14 @@
       "onboard_time": 1729664539,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735684,
+      "num": 237113,
+      "word": "周雨彤边界感",
+      "onboard_time": 1729683258,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 728868,
@@ -579,6 +603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 503392,
+      "num": 503392,
+      "word": "漫才兄弟冠军",
+      "onboard_time": 1729683318,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499490,
       "num": 499490,
       "word": "付航说自己真没得过抑郁症",
@@ -609,6 +641,22 @@
       "onboard_time": 1729643598,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476563,
+      "num": 476563,
+      "word": "西安取消车辆单双号限行及学校停课强制措施",
+      "onboard_time": 1729681519,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475268,
+      "num": 236334,
+      "word": "赵小棠吻戏",
+      "onboard_time": 1729685957,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 452702,
@@ -691,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394453,
+      "num": 236300,
+      "word": "8块8的虫草内裤直播间卖了250万元",
+      "onboard_time": 1729685657,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385564,
       "num": 385564,
       "word": "奔跑吧收官大合影",
@@ -745,14 +801,6 @@
       "onboard_time": 1729653137,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339652,
-      "num": 339652,
-      "word": "西安取消车辆单双号限行及学校停课强制措施",
-      "onboard_time": 1729681519,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336248,
@@ -865,6 +913,14 @@
       "onboard_time": 1729653258,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 295069,
+      "num": 220457,
+      "word": "李晋晔断层第一",
+      "onboard_time": 1729685358,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 293773,
@@ -1043,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235722,
+      "num": 235722,
+      "word": "赵丽颖辛芷蕾微博直播",
+      "onboard_time": 1729685837,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234466,
       "num": 234466,
       "word": "爸爸找回失散38年儿子后痛哭道歉",
@@ -1179,6 +1243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 215176,
+      "num": 215176,
+      "word": "不会舔毛的猫是弱智猫",
+      "onboard_time": 1729683978,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212945,
       "num": 353436,
       "word": "东北雨X系列账号名称被初始化",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1729661659,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212045,
+      "num": 212045,
+      "word": "张本美和3比2刘杨子",
+      "onboard_time": 1729684279,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 211501,
@@ -1315,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199127,
-      "num": 199127,
-      "word": "周雨彤边界感",
-      "onboard_time": 1729683258,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196966,
       "num": 224242,
       "word": "山取",
@@ -1395,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190504,
+      "num": 236707,
+      "word": "明年起面包里不能有这种添加剂",
+      "onboard_time": 1729683858,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190408,
       "num": 190408,
       "word": "苏宁易购要求万达集团支付50.4亿",
@@ -1425,6 +1505,14 @@
       "onboard_time": 1729657819,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185300,
+      "num": 185300,
+      "word": "用一只虾做13菜一汤",
+      "onboard_time": 1729684397,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 184761,
@@ -1673,6 +1761,14 @@
       "onboard_time": 1729638196,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150651,
+      "num": 150651,
+      "word": "极氪MIX",
+      "onboard_time": 1729687280,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 150462,
@@ -1940,7 +2036,7 @@
     },
     {
       "raw_hot": 120001,
-      "num": 120001,
+      "num": 507030,
       "word": "俄罗斯人开始用中国式茶具喝茶",
       "onboard_time": 1729670658,
       "rank": 47,
@@ -1987,12 +2083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112564,
+      "num": 112564,
+      "word": "称存款消失女子被建议到属地报案",
+      "onboard_time": 1729686919,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112443,
       "num": 112443,
       "word": "崩坏星穹铁道",
       "onboard_time": 1729653917,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112200,
+      "num": 112200,
+      "word": "四川科幻世界杂志社副总编辑被查",
+      "onboard_time": 1729685238,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111367,
@@ -2009,14 +2121,6 @@
       "onboard_time": 1729667359,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111032,
-      "num": 111032,
-      "word": "漫才兄弟冠军",
-      "onboard_time": 1729683318,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 110955,
@@ -2049,6 +2153,14 @@
       "onboard_time": 1729609040,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109773,
+      "num": 109773,
+      "word": "傅韵哲解约",
+      "onboard_time": 1729685899,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 102484,
@@ -2195,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73332,
+      "num": 227086,
+      "word": "父母三次闹离婚都不愿抚养残疾儿子",
+      "onboard_time": 1729685539,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68561,
       "num": 68561,
       "word": "大熊猫幼崽妹猪转圈圈太萌了",
@@ -2248,6 +2368,14 @@
       "word": "男子与妻吵架后变路怒逆行撞车",
       "onboard_time": 1729663398,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64602,
+      "num": 185386,
+      "word": "把翻包当传统的态度只会让人反感",
+      "onboard_time": 1729685299,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2451,12 +2579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29716,
+      "num": 185560,
+      "word": "极氪MIX的百变超级座舱",
+      "onboard_time": 1729686797,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29634,
       "num": 477263,
       "word": "1分钟认识千年古城喀山",
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28596,
+      "num": 191793,
+      "word": "山取否认哀牢山钓鱼系摆拍",
+      "onboard_time": 1729686679,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26778,
@@ -2520,6 +2664,14 @@
       "word": "李家超回应女子用假学历上港大",
       "onboard_time": 1729628650,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14795,
+      "num": 231109,
+      "word": "6人黄河湿地滥伐40棵林木被抓",
+      "onboard_time": 1729686257,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
