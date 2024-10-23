@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729682348049,
+  "endTime": 1729683346318,
   "band_list": [
     {
       "raw_hot": 6591637,
@@ -24,6 +24,14 @@
       "word": "放整个杭州肛肠科都很炸裂",
       "onboard_time": 1729638196,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2240679,
+      "num": 2240679,
+      "word": "爸爸一句宝宝对不起突然就泪目了",
+      "onboard_time": 1729680979,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1729672756,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1156256,
-      "num": 1156256,
-      "word": "爸爸一句宝宝对不起突然就泪目了",
-      "onboard_time": 1729680979,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1143356,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534410,
+      "num": 534410,
+      "word": "霜降后心情不好要当心",
+      "onboard_time": 1729678277,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532348,
       "num": 532348,
       "word": "没下单快递却要送30件冰箱上门",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 525098,
-      "num": 261997,
+      "num": 283758,
       "word": "毕业六年后整个寝室整整齐齐的自驾",
       "onboard_time": 1729678938,
       "rank": 44,
@@ -707,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361838,
+      "num": 423849,
+      "word": "脱口秀总冠军之夜",
+      "onboard_time": 1729682179,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354063,
       "num": 248079,
       "word": "花少 4个人吃9人餐",
@@ -715,12 +731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346746,
+      "num": 346746,
+      "word": "乔妍的心事",
+      "onboard_time": 1729681756,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346725,
       "num": 431836,
       "word": "唐朝诡事录3开机",
       "onboard_time": 1729653137,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339652,
+      "num": 339652,
+      "word": "西安取消车辆单双号限行及学校停课强制措施",
+      "onboard_time": 1729681519,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336248,
@@ -915,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253896,
+      "num": 419525,
+      "word": "摄影师记录以军轰炸公寓瞬间破坏力",
+      "onboard_time": 1729682960,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 253655,
       "num": 318745,
       "word": "再见爱人4问题最大的夫妻",
@@ -945,6 +985,14 @@
       "onboard_time": 1729664899,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251122,
+      "num": 251122,
+      "word": "SM新男团练习生",
+      "onboard_time": 1729682117,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 249530,
@@ -1107,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219911,
-      "num": 219911,
-      "word": "SM新男团练习生",
-      "onboard_time": 1729682117,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218329,
       "num": 218329,
       "word": "猫 这人造猫抓板可真结实啊",
@@ -1275,12 +1315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197766,
-      "num": 437547,
-      "word": "霜降后心情不好要当心",
-      "onboard_time": 1729678277,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 199127,
+      "num": 199127,
+      "word": "周雨彤边界感",
+      "onboard_time": 1729683258,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 196966,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1729674557,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 194704,
-      "num": 263143,
-      "word": "乔妍的心事",
-      "onboard_time": 1729681756,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 194414,
@@ -1411,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181807,
+      "num": 181807,
+      "word": "大爷边跪地乞讨边用流量偷刷短视频",
+      "onboard_time": 1729682299,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181256,
       "num": 181256,
       "word": "知网崩了",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1729657278,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173190,
-      "num": 173190,
-      "word": "西安取消车辆单双号限行及学校停课强制措施",
-      "onboard_time": 1729681519,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171969,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1729660699,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159730,
+      "num": 159730,
+      "word": "光与夜之恋",
+      "onboard_time": 1729682657,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 158579,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1729611499,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 140848,
-      "num": 140848,
-      "word": "脱口秀总冠军之夜",
-      "onboard_time": 1729682179,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 140203,
@@ -1923,14 +1955,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 116996,
-      "num": 116996,
-      "word": "大爷边跪地乞讨边用流量偷刷短视频",
-      "onboard_time": 1729682299,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116312,
       "num": 116312,
       "word": "孩子小区内坠井爷爷救子身亡",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1729667359,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111032,
+      "num": 111032,
+      "word": "漫才兄弟冠军",
+      "onboard_time": 1729683318,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110955,
@@ -2243,11 +2275,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 52750,
+      "num": 416384,
+      "word": "高空抛物判死刑是一次震慑",
+      "onboard_time": 1729682717,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50054,
       "num": 400519,
       "word": "官方回应疑似村主任开挖掘机撞人",
       "onboard_time": 1729666997,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44391,
+      "num": 242409,
+      "word": "大学生拉推车喜提天猫首波快递",
+      "onboard_time": 1729679298,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2313,14 +2361,6 @@
       "onboard_time": 1729618993,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36636,
-      "num": 242409,
-      "word": "大学生拉推车喜提天猫首波快递",
-      "onboard_time": 1729679298,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36234,
