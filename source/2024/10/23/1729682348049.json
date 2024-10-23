@@ -1,0 +1,410 @@
+{
+  "runTime": 1729682348049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1303758,
+        "num": 1303758,
+        "word": "官方回应跟同一人离婚复婚能否休假",
+        "onboard_time": 1729676899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156256,
+        "num": 1156256,
+        "word": "爸爸一句宝宝对不起突然就泪目了",
+        "onboard_time": 1729680979,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21479,
+        "num": 849470,
+        "word": "五彩斑斓的秋天根本看不够",
+        "onboard_time": 1729671498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813966,
+        "num": 813966,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637150,
+        "num": 637150,
+        "word": "以军导弹瞬间炸塌10层高楼",
+        "onboard_time": 1729677138,
+        "rank": 4,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 461394,
+        "num": 461394,
+        "word": "Ning投降认输",
+        "onboard_time": 1729675457,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 444370,
+        "num": 444370,
+        "word": "山取闯哀牢山采矿到底合规吗",
+        "onboard_time": 1729679598,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 439579,
+        "num": 439579,
+        "word": "山取颜料师已被限制高消费",
+        "onboard_time": 1729658960,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223254,
+        "num": 438834,
+        "word": "杨天真补给",
+        "onboard_time": 1729668740,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186227,
+        "num": 437547,
+        "word": "霜降后心情不好要当心",
+        "onboard_time": 1729678277,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3097854,
+        "num": 436177,
+        "word": "双胞胎待产时死亡官方将组织调解",
+        "onboard_time": 1729677978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982978,
+        "num": 434128,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 892611,
+        "num": 432744,
+        "word": "大学生曝校园水卡上网址打开是黄网",
+        "onboard_time": 1729678879,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618196,
+        "num": 432501,
+        "word": "鹿晗 音乐节",
+        "onboard_time": 1729679718,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 431230,
+        "num": 431230,
+        "word": "周雨彤路人缘",
+        "onboard_time": 1729672999,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413525,
+        "num": 413525,
+        "word": "广州晚霞",
+        "onboard_time": 1729679658,
+        "rank": 15,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 401465,
+        "num": 401465,
+        "word": "杨子 我能看你手机你不能看我",
+        "onboard_time": 1729672756,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282503,
+        "num": 282503,
+        "word": "澳门CoCo姐卖内裤月销千万元",
+        "onboard_time": 1729668798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276052,
+        "num": 276052,
+        "word": "大众公司一高管因吸毒被遣送出境",
+        "onboard_time": 1729674856,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194704,
+        "num": 263143,
+        "word": "乔妍的心事",
+        "onboard_time": 1729681756,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 525098,
+        "num": 261997,
+        "word": "毕业六年后整个寝室整整齐齐的自驾",
+        "onboard_time": 1729678938,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253878,
+        "num": 253878,
+        "word": "二本艺术生毕业成保洁员遭弟弟质问",
+        "onboard_time": 1729673718,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241291,
+        "num": 241291,
+        "word": "4人合谋猥亵迷奸多名女性被抓",
+        "onboard_time": 1729664539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219911,
+        "num": 219911,
+        "word": "SM新男团练习生",
+        "onboard_time": 1729682117,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211640,
+        "num": 211640,
+        "word": "油价",
+        "onboard_time": 1729678277,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195062,
+        "num": 195062,
+        "word": "心疼陈好",
+        "onboard_time": 1729671617,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194575,
+        "num": 194575,
+        "word": "猫 这人造猫抓板可真结实啊",
+        "onboard_time": 1729675757,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186012,
+        "num": 193272,
+        "word": "张卫健有头发时的杀伤力",
+        "onboard_time": 1729669759,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140985,
+        "num": 193083,
+        "word": "JENNIE新歌被KBS判定不合格",
+        "onboard_time": 1729668258,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36636,
+        "num": 192966,
+        "word": "大学生拉推车喜提天猫首波快递",
+        "onboard_time": 1729679298,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192948,
+        "num": 192948,
+        "word": "女子先后和4人办婚礼骗了160多万元",
+        "onboard_time": 1729676058,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181256,
+        "num": 181256,
+        "word": "知网崩了",
+        "onboard_time": 1729681638,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179817,
+        "num": 179817,
+        "word": "涉事银行回应储户40多万存款消失",
+        "onboard_time": 1729677437,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179578,
+        "num": 179578,
+        "word": "孙颖莎又去演讲了",
+        "onboard_time": 1729666338,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173190,
+        "num": 173190,
+        "word": "西安取消车辆单双号限行及学校停课强制措施",
+        "onboard_time": 1729681519,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154065,
+        "num": 154065,
+        "word": "清北博士生入职县级中学房补105万",
+        "onboard_time": 1729664839,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149344,
+        "num": 149344,
+        "word": "60岁老人看店收银一年半偷30万",
+        "onboard_time": 1729674378,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149092,
+        "num": 149092,
+        "word": "五月天上海",
+        "onboard_time": 1729680858,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143934,
+        "num": 143934,
+        "word": "救护车送错医院致人死亡谁来担责",
+        "onboard_time": 1729664958,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140848,
+        "num": 140848,
+        "word": "脱口秀总冠军之夜",
+        "onboard_time": 1729682179,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138478,
+        "num": 138478,
+        "word": "黄圣依曾经把杨子写到歌词里",
+        "onboard_time": 1729668798,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136805,
+        "num": 136805,
+        "word": "林俊杰一千年以后与文物修复适配度",
+        "onboard_time": 1729680917,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136445,
+        "num": 136445,
+        "word": "室外就餐被天降树叶砸骨折获赔2.2万",
+        "onboard_time": 1729680318,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130931,
+        "num": 130931,
+        "word": "林依轮没少在朋友圈发疯",
+        "onboard_time": 1729680078,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126277,
+        "num": 126277,
+        "word": "要回地球的航天员嘴角根本压不住",
+        "onboard_time": 1729670057,
+        "rank": 44,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 124509,
+        "num": 124509,
+        "word": "贾冰提示 宋亚轩直给",
+        "onboard_time": 1729678218,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121274,
+        "num": 121274,
+        "word": "北斗七行含金量",
+        "onboard_time": 1729664299,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120605,
+        "num": 120605,
+        "word": "深圳晚霞",
+        "onboard_time": 1729681997,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "大爷边跪地乞讨边用流量偷刷短视频",
+        "onboard_time": 1729682299,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114434,
+        "num": 114434,
+        "word": "微信查删单向好友需人数先达1万",
+        "onboard_time": 1729659200,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全球南方争取更多新机遇#"
+    }
+  }
+}
