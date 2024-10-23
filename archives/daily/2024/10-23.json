@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729652004130,
+  "endTime": 1729652573551,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340484,
+      "num": 1340484,
+      "word": "实锤山取团队摆拍",
+      "onboard_time": 1729650077,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143356,
       "num": 308382,
       "word": "警方抓嫖时女子从空调外机坠落身亡",
@@ -43,20 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1068014,
+      "raw_hot": 1126795,
       "num": 1170882,
       "word": "唐朝诡事录之长安换导演",
       "onboard_time": 1729650018,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 941980,
-      "num": 389219,
-      "word": "实锤山取团队摆拍",
-      "onboard_time": 1729650077,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877759,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 520768,
-      "num": 447008,
+      "num": 478668,
       "word": "霜降后好像一键入冬了",
       "onboard_time": 1729645457,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494395,
+      "num": 469444,
+      "word": "Rookie谈Ning事件",
+      "onboard_time": 1729651517,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 484514,
@@ -179,16 +187,24 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 420123,
-      "num": 386457,
+      "raw_hot": 442824,
+      "num": 442824,
       "word": "邱贻可说孙颖莎也有疲劳的时候",
       "onboard_time": 1729650677,
       "rank": 13,
       "category": "体育"
     },
     {
+      "raw_hot": 424081,
+      "num": 424081,
+      "word": "徐志胜淘汰感言爆哭",
+      "onboard_time": 1729649238,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414987,
-      "num": 290310,
+      "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
       "onboard_time": 1729648816,
       "rank": 20,
@@ -201,14 +217,6 @@
       "onboard_time": 1729638915,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384753,
-      "num": 384753,
-      "word": "徐志胜淘汰感言爆哭",
-      "onboard_time": 1729649238,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 377442,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 332776,
-      "num": 332776,
+      "num": 413133,
       "word": "得闲谨制开机",
       "onboard_time": 1729642519,
       "rank": 16,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 295118,
-      "num": 295118,
+      "num": 471479,
       "word": "毒液3",
       "onboard_time": 1729647676,
       "rank": 47,
@@ -297,14 +305,6 @@
       "onboard_time": 1729593678,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 289774,
-      "num": 289774,
-      "word": "Rookie谈Ning事件",
-      "onboard_time": 1729651517,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 289753,
@@ -419,8 +419,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216240,
-      "num": 216240,
+      "raw_hot": 222190,
+      "num": 222190,
       "word": "金价要涨到什么时候",
       "onboard_time": 1729650619,
       "rank": 24,
@@ -440,6 +440,14 @@
       "word": "15天让头发变钻石",
       "onboard_time": 1729638134,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200266,
+      "num": 200266,
+      "word": "北京地铁2号线",
+      "onboard_time": 1729650737,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168293,
+      "num": 168293,
+      "word": "宝蓝说不会力挺Ning",
+      "onboard_time": 1729651638,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165465,
       "num": 165465,
       "word": "NBA",
@@ -513,6 +529,14 @@
       "onboard_time": 1729612039,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163606,
+      "num": 163606,
+      "word": "山取回应",
+      "onboard_time": 1729652418,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162638,
@@ -563,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150583,
-      "num": 150583,
-      "word": "北京地铁2号线",
-      "onboard_time": 1729650737,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150462,
       "num": 150462,
       "word": "花少 荣梓杉",
@@ -585,6 +601,14 @@
       "onboard_time": 1729617614,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 148163,
+      "num": 148163,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1729649897,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 147009,
@@ -609,6 +633,14 @@
       "onboard_time": 1729648337,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140203,
+      "num": 140203,
+      "word": "凯尔特人追平NBA单场三分纪录",
+      "onboard_time": 1729651817,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 137903,
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 129161,
-      "num": 129161,
+      "num": 914139,
       "word": "文化中国行看霜降节气",
       "onboard_time": 1729639816,
       "rank": 32,
@@ -676,10 +708,18 @@
     },
     {
       "raw_hot": 125358,
-      "num": 125358,
+      "num": 407170,
       "word": "团伙打着躺赚噱头招人入伙先交会费",
       "onboard_time": 1729650018,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123690,
+      "num": 123690,
+      "word": "男子辗轧妻子被诉过失致人死亡罪",
+      "onboard_time": 1729652058,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -731,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112199,
-      "num": 112199,
-      "word": "宝蓝说不会力挺Ning",
-      "onboard_time": 1729651638,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111367,
       "num": 111367,
       "word": "08年女高中生的课间十分钟",
@@ -769,22 +801,6 @@
       "onboard_time": 1729609040,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108776,
-      "num": 108776,
-      "word": "凯尔特人追平NBA单场三分纪录",
-      "onboard_time": 1729651817,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104042,
-      "num": 104042,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1729649897,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 97353,
@@ -883,11 +899,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84767,
+      "num": 391774,
+      "word": "电商平台仓管员猝死该谁来赔偿",
+      "onboard_time": 1729650497,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83212,
       "num": 83212,
       "word": "女子入秋骑电动车冻腿找中医放血",
       "onboard_time": 1729633212,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81927,
+      "num": 475314,
+      "word": "美国多地麦当劳发生大肠杆菌感染",
+      "onboard_time": 1729651757,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -939,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67196,
-      "num": 391774,
-      "word": "电商平台仓管员猝死该谁来赔偿",
-      "onboard_time": 1729650497,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66406,
       "num": 72236,
       "word": "心动的信号",
@@ -961,14 +985,6 @@
       "onboard_time": 1729615456,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 54816,
-      "num": 393365,
-      "word": "美国多地麦当劳发生大肠杆菌感染",
-      "onboard_time": 1729651757,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37039,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26361,
+      "num": 430477,
+      "word": "陕西一班主任酒后殴打学生已被停职",
+      "onboard_time": 1729652537,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25677,
@@ -1091,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12658,
+      "num": 477093,
+      "word": "万千气象看北京",
+      "onboard_time": 1729652177,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12040,
       "num": 45082,
       "word": "18名民辅警10分钟集结为伤者献血",
@@ -1127,6 +1159,9 @@
     },
     {
       "word": "#习近平同普京举行双边会晤#"
+    },
+    {
+      "word": "#习近平俄罗斯喀山之行#"
     }
   ]
 }
