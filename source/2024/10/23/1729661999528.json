@@ -1,0 +1,410 @@
+{
+  "runTime": 1729661999528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607079,
+        "num": 1607079,
+        "word": "山取颜料师已被限制高消费",
+        "onboard_time": 1729658960,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717111,
+        "num": 717111,
+        "word": "微信查删单向好友需人数先达1万",
+        "onboard_time": 1729659200,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25703,
+        "num": 706203,
+        "word": "一组数字看金砖国家含金量",
+        "onboard_time": 1729652959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6591637,
+        "num": 697833,
+        "word": "红楼梦退出高考语文",
+        "onboard_time": 1729657758,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297348,
+        "num": 689706,
+        "word": "千万网红吴迪涉嫌虚假宣传",
+        "onboard_time": 1729657699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772439,
+        "num": 675807,
+        "word": "实锤山取团队摆拍",
+        "onboard_time": 1729650077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665917,
+        "num": 665917,
+        "word": "外网博主评价华晨宇演唱会",
+        "onboard_time": 1729658479,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 543919,
+        "num": 543919,
+        "word": "赵露思刘宇宁 三搭",
+        "onboard_time": 1729660098,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467917,
+        "num": 467917,
+        "word": "徐志胜淘汰感言爆哭",
+        "onboard_time": 1729649238,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40730,
+        "num": 464640,
+        "word": "仿制药能真正替代原研药吗",
+        "onboard_time": 1729661178,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024186,
+        "num": 458524,
+        "word": "为什么我们容易越省越穷",
+        "onboard_time": 1729659259,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587964,
+        "num": 456911,
+        "word": "花学课件",
+        "onboard_time": 1729658779,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115076,
+        "num": 450383,
+        "word": "没有了东北雨姐的磨石峪村",
+        "onboard_time": 1729661298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448042,
+        "num": 448042,
+        "word": "付航说自己真没得过抑郁症",
+        "onboard_time": 1729657400,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 400577,
+        "num": 400577,
+        "word": "布朗尼甩锅詹姆斯",
+        "onboard_time": 1729655719,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385564,
+        "num": 385564,
+        "word": "奔跑吧收官大合影",
+        "onboard_time": 1729660039,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380896,
+        "num": 380896,
+        "word": "唐朝诡事录之长安换导演",
+        "onboard_time": 1729650018,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160551,
+        "num": 374909,
+        "word": "时光音乐会考古声入人心",
+        "onboard_time": 1729660699,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371168,
+        "num": 371168,
+        "word": "花少更新",
+        "onboard_time": 1729657459,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326519,
+        "num": 326519,
+        "word": "小米电视",
+        "onboard_time": 1729654819,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 732750,
+        "num": 326103,
+        "word": "女子坐高铁睡过站为下车按紧急制动",
+        "onboard_time": 1729660758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692115,
+        "num": 324539,
+        "word": "每天坚持晨跑5公里会怎样",
+        "onboard_time": 1729657639,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437249,
+        "num": 323232,
+        "word": "女子离职后举报足道店疑似卖淫",
+        "onboard_time": 1729655178,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348917,
+        "num": 322615,
+        "word": "丈夫碾压妻子致死案进行三次尸检",
+        "onboard_time": 1729654697,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321520,
+        "num": 321520,
+        "word": "黑色月光邪恶栀子花",
+        "onboard_time": 1729658360,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317375,
+        "num": 317375,
+        "word": "安妮海瑟薇刘宪华评论互动",
+        "onboard_time": 1729656979,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299444,
+        "num": 299444,
+        "word": "医院回应双胞胎儿在生产时死亡",
+        "onboard_time": 1729655358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141675,
+        "num": 294319,
+        "word": "网友曝价值百万元花灯被景区暴力拆除",
+        "onboard_time": 1729659859,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292733,
+        "num": 292733,
+        "word": "有人卖黄金一单变现234万",
+        "onboard_time": 1729641139,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241207,
+        "num": 241207,
+        "word": "马龙也教王楠女儿打乒乓球了",
+        "onboard_time": 1729661057,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237902,
+        "num": 237902,
+        "word": "美国多地麦当劳发生大肠杆菌感染",
+        "onboard_time": 1729651757,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219831,
+        "num": 219831,
+        "word": "近千个家庭收到长安街摆放过的鲜花",
+        "onboard_time": 1729654097,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191116,
+        "num": 191116,
+        "word": "论语红楼梦高考不再单独设题",
+        "onboard_time": 1729661419,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187380,
+        "num": 187380,
+        "word": "Rookie谈Ning事件",
+        "onboard_time": 1729651517,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184600,
+        "num": 184600,
+        "word": "Ning和王多多事件大结局",
+        "onboard_time": 1729657699,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36006,
+        "num": 182826,
+        "word": "何小鹏称P7+智驾开得比自己好",
+        "onboard_time": 1729657400,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181545,
+        "num": 181545,
+        "word": "霜降是秋天的第六个节气",
+        "onboard_time": 1729646478,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180594,
+        "num": 180594,
+        "word": "10万多水军每个账号背后都是真人",
+        "onboard_time": 1729648157,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175624,
+        "num": 175624,
+        "word": "付航曾拿过小号九级证书",
+        "onboard_time": 1729661659,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162470,
+        "num": 162470,
+        "word": "热浪之外嘉宾陈梦",
+        "onboard_time": 1729660999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156147,
+        "num": 156147,
+        "word": "邱贻可说孙颖莎也有疲劳的时候",
+        "onboard_time": 1729650677,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154231,
+        "num": 154231,
+        "word": "邱贻可回应全网都在心疼孙颖莎",
+        "onboard_time": 1729648816,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149467,
+        "num": 149467,
+        "word": "山取回应",
+        "onboard_time": 1729652418,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148513,
+        "num": 148513,
+        "word": "中国代表三次还击美方攻击抹黑",
+        "onboard_time": 1729656379,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132735,
+        "num": 132735,
+        "word": "官方称正核实山取长文真实性",
+        "onboard_time": 1729659800,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132497,
+        "num": 132497,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125499,
+        "num": 125499,
+        "word": "BLG战胜G2暂停真相",
+        "onboard_time": 1729653318,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123064,
+        "num": 123064,
+        "word": "唐朝诡事录3开机",
+        "onboard_time": 1729653137,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119282,
+        "num": 119282,
+        "word": "湖人揭幕战终于赢了",
+        "onboard_time": 1729658779,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115395,
+        "num": 115395,
+        "word": "浓眉36分16篮板",
+        "onboard_time": 1729661119,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系风雨兼程砥砺前行#"
+    }
+  }
+}

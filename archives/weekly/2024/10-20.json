@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729660945667,
+  "endTime": 1729661999528,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -11,7 +11,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6373272,
+      "raw_hot": 6591637,
       "num": 806990,
       "word": "红楼梦退出高考语文",
       "onboard_time": 1729657758,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1607079,
+      "num": 1607079,
+      "word": "山取颜料师已被限制高消费",
+      "onboard_time": 1729658960,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1589249,
       "num": 795065,
       "word": "肯德基被曝用转基因大豆油",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1346857,
-      "num": 582150,
+      "num": 689706,
       "word": "千万网红吴迪涉嫌虚假宣传",
       "onboard_time": 1729657699,
       "rank": 15,
@@ -481,14 +489,6 @@
       "onboard_time": 1729425260,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1236444,
-      "num": 1236444,
-      "word": "山取颜料师已被限制高消费",
-      "onboard_time": 1729658960,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1235458,
@@ -753,6 +753,14 @@
       "onboard_time": 1729430722,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1024186,
+      "num": 598848,
+      "word": "为什么我们容易越省越穷",
+      "onboard_time": 1729656740,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003228,
@@ -1315,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732750,
+      "num": 326103,
+      "word": "女子坐高铁睡过站为下车按紧急制动",
+      "onboard_time": 1729660758,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "徐志胜淘汰感言爆哭",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1729496598,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717111,
+      "num": 717111,
+      "word": "微信查删单向好友需人数先达1万",
+      "onboard_time": 1729659200,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 713445,
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692115,
+      "num": 356328,
+      "word": "每天坚持晨跑5公里会怎样",
+      "onboard_time": 1729657639,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 686811,
       "num": 686811,
       "word": "南京200斤梅花鹿闯进稻田撞伤村民",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1729487059,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 682239,
-      "num": 356328,
-      "word": "每天坚持晨跑5公里会怎样",
-      "onboard_time": 1729657639,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 672260,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1729413078,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 665917,
+      "num": 665917,
+      "word": "外网博主评价华晨宇演唱会",
+      "onboard_time": 1729658479,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 665898,
@@ -1659,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598848,
-      "num": 598848,
-      "word": "为什么我们容易越省越穷",
-      "onboard_time": 1729656740,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 596215,
       "num": 596215,
       "word": "李荣浩 5岁开始喜欢我你挺早熟啊",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1729349901,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587964,
+      "num": 456911,
+      "word": "花学课件",
+      "onboard_time": 1729658779,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 586452,
@@ -1769,14 +1801,6 @@
       "onboard_time": 1729506259,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 574839,
-      "num": 574839,
-      "word": "外网博主评价华晨宇演唱会",
-      "onboard_time": 1729658479,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 573058,
@@ -1921,6 +1945,14 @@
       "onboard_time": 1729654638,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543919,
+      "num": 543919,
+      "word": "赵露思刘宇宁 三搭",
+      "onboard_time": 1729660098,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 543384,
@@ -2299,14 +2331,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 456360,
-      "num": 456360,
-      "word": "花学课件",
-      "onboard_time": 1729658779,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454938,
       "num": 454938,
       "word": "失聪女博士与丈夫在清华实验室相遇",
@@ -2643,12 +2667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383505,
-      "num": 383505,
-      "word": "微信查删单向好友需人数先达1万",
-      "onboard_time": 1729659200,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 385564,
+      "num": 385564,
+      "word": "奔跑吧收官大合影",
+      "onboard_time": 1729660039,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 382304,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1729349781,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357598,
-      "num": 341684,
-      "word": "赵露思刘宇宁 三搭",
-      "onboard_time": 1729660098,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 357011,
@@ -3051,14 +3067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331474,
-      "num": 331474,
-      "word": "奔跑吧收官大合影",
-      "onboard_time": 1729660039,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331377,
       "num": 331377,
       "word": "刘冲 新东方",
@@ -3131,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321520,
+      "num": 321520,
+      "word": "黑色月光邪恶栀子花",
+      "onboard_time": 1729658360,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320546,
       "num": 320546,
       "word": "女子回应儿子疑遭前夫女友虐待致死",
@@ -3161,6 +3177,14 @@
       "onboard_time": 1729608921,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317375,
+      "num": 317375,
+      "word": "安妮海瑟薇刘宪华评论互动",
+      "onboard_time": 1729656979,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 316631,
@@ -3384,14 +3408,6 @@
       "word": "金鹰奖路透",
       "onboard_time": 1729420218,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 290637,
-      "num": 290637,
-      "word": "黑色月光邪恶栀子花",
-      "onboard_time": 1729658360,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -3883,14 +3899,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 248928,
-      "num": 248928,
-      "word": "安妮海瑟薇刘宪华评论互动",
-      "onboard_time": 1729656979,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 248254,
       "num": 411201,
       "word": "男子开车将大量海绵倾倒河中",
@@ -4001,6 +4009,14 @@
       "onboard_time": 1729428140,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241207,
+      "num": 241207,
+      "word": "马龙也教王楠女儿打乒乓球了",
+      "onboard_time": 1729661057,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 241092,
@@ -4585,14 +4601,6 @@
       "onboard_time": 1729603220,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 212449,
-      "num": 212449,
-      "word": "女子坐高铁睡过站为下车按紧急制动",
-      "onboard_time": 1729660758,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212237,
@@ -5203,6 +5211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191116,
+      "num": 191116,
+      "word": "论语红楼梦高考不再单独设题",
+      "onboard_time": 1729661419,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191050,
       "num": 191050,
       "word": "李耕耘 躺着怎么减肥",
@@ -5443,6 +5459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184600,
+      "num": 184600,
+      "word": "Ning和王多多事件大结局",
+      "onboard_time": 1729657699,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184529,
       "num": 184529,
       "word": "双十一发货速度",
@@ -5571,14 +5595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178426,
-      "num": 178426,
-      "word": "Ning和王多多事件大结局",
-      "onboard_time": 1729657699,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178034,
       "num": 178034,
       "word": "梁王组合丹麦赛夺冠",
@@ -5617,6 +5633,14 @@
       "onboard_time": 1729391779,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175624,
+      "num": 175624,
+      "word": "付航曾拿过小号九级证书",
+      "onboard_time": 1729661659,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 175547,
@@ -6027,6 +6051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162470,
+      "num": 162470,
+      "word": "热浪之外嘉宾陈梦",
+      "onboard_time": 1729660999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162080,
       "num": 162080,
       "word": "进口美妆正在向国货看齐",
@@ -6089,6 +6121,14 @@
       "onboard_time": 1729523182,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160551,
+      "num": 374909,
+      "word": "时光音乐会考古声入人心",
+      "onboard_time": 1729660699,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 160369,
@@ -6691,6 +6731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141675,
+      "num": 470592,
+      "word": "网友曝价值百万元花灯被景区暴力拆除",
+      "onboard_time": 1729659859,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141343,
       "num": 286531,
       "word": "卧底催收公司30天",
@@ -7019,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132735,
+      "num": 552615,
+      "word": "官方称正核实山取长文真实性",
+      "onboard_time": 1729659800,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131930,
       "num": 131930,
       "word": "金钟奖",
@@ -7265,14 +7321,6 @@
       "onboard_time": 1729578977,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124155,
-      "num": 470592,
-      "word": "网友曝价值百万元花灯被景区暴力拆除",
-      "onboard_time": 1729659859,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123951,
@@ -7555,6 +7603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115395,
+      "num": 115395,
+      "word": "浓眉36分16篮板",
+      "onboard_time": 1729661119,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115284,
       "num": 115284,
       "word": "郑钦文说做回普通人挺好",
@@ -7569,6 +7625,14 @@
       "onboard_time": 1729519220,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 115076,
+      "num": 450383,
+      "word": "没有了东北雨姐的磨石峪村",
+      "onboard_time": 1729661298,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114714,
@@ -8019,14 +8083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97883,
-      "num": 196547,
-      "word": "时光音乐会考古声入人心",
-      "onboard_time": 1729660699,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97591,
       "num": 391377,
       "word": "A股首单增持贷款落地",
@@ -8424,14 +8480,6 @@
       "word": "马背上4岁小孩姐又帅又飒",
       "onboard_time": 1729548431,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76188,
-      "num": 552615,
-      "word": "官方称正核实山取长文真实性",
-      "onboard_time": 1729659800,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -9267,6 +9315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40730,
+      "num": 464640,
+      "word": "仿制药能真正替代原研药吗",
+      "onboard_time": 1729661178,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40658,
       "num": 335286,
       "word": "坚持每天放生的人是怎么想的",
@@ -9459,6 +9515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36006,
+      "num": 334116,
+      "word": "何小鹏称P7+智驾开得比自己好",
+      "onboard_time": 1729657400,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35658,
       "num": 325261,
       "word": "以物抵债69套房产遭法院查封8年",
@@ -9584,14 +9648,6 @@
       "word": "能开上路的Vlog相机",
       "onboard_time": 1729427660,
       "rank": 40,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 32651,
-      "num": 334116,
-      "word": "何小鹏称P7+智驾开得比自己好",
-      "onboard_time": 1729657400,
-      "rank": 44,
       "category": "汽车"
     },
     {
@@ -9865,6 +9921,14 @@
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25703,
+      "num": 706203,
+      "word": "一组数字看金砖国家含金量",
+      "onboard_time": 1729652959,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25677,
@@ -10416,14 +10480,6 @@
       "word": "18名民辅警10分钟集结为伤者献血",
       "onboard_time": 1729622172,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11542,
-      "num": 593545,
-      "word": "一组数字看金砖国家含金量",
-      "onboard_time": 1729652959,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
