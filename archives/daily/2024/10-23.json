@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729647707345,
+  "endTime": 1729648723996,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877759,
+      "num": 877759,
+      "word": "银行人员称存款消失与储户泄露账密有关",
+      "onboard_time": 1729646238,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633284,
       "num": 633284,
       "word": "徐志胜第6",
       "onboard_time": 1729645398,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 620642,
+      "num": 620642,
+      "word": "以色列总理住宅遭无人机袭击",
+      "onboard_time": 1729646357,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 592360,
@@ -67,18 +83,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577958,
+      "num": 577958,
+      "word": "霜降是秋天的第六个节气",
+      "onboard_time": 1729646478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554351,
       "num": 554351,
       "word": "霜降",
       "onboard_time": 1729638855,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548165,
-      "num": 548165,
-      "word": "银行人员称存款消失与储户泄露账密有关",
-      "onboard_time": 1729646238,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -104,6 +120,14 @@
       "word": "没下单快递却要送30件冰箱上门",
       "onboard_time": 1729606459,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520768,
+      "num": 447008,
+      "word": "霜降后好像一键入冬了",
+      "onboard_time": 1729645457,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -139,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402211,
-      "num": 402211,
-      "word": "霜降后好像一键入冬了",
-      "onboard_time": 1729645457,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377442,
       "num": 377442,
       "word": "陈好说短时间内不会再参加真人秀",
@@ -179,14 +195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 319561,
-      "num": 319561,
-      "word": "以色列总理住宅遭无人机袭击",
-      "onboard_time": 1729646357,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 318020,
       "num": 318020,
       "word": "中俄领导人会晤",
@@ -203,20 +211,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307091,
+      "num": 302871,
+      "word": "短视频在加速我们的衰老",
+      "onboard_time": 1729643539,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305140,
       "num": 305140,
       "word": "早安结婚 rapper在台上battle",
       "onboard_time": 1729643358,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302871,
-      "num": 302871,
-      "word": "短视频在加速我们的衰老",
-      "onboard_time": 1729643539,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 302866,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268638,
+      "num": 268638,
+      "word": "毒液3",
+      "onboard_time": 1729647676,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264167,
       "num": 264167,
       "word": "纯血鸿蒙",
@@ -313,14 +329,6 @@
       "onboard_time": 1729612639,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240225,
-      "num": 518575,
-      "word": "霜降是秋天的第六个节气",
-      "onboard_time": 1729646478,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234466,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175542,
+      "num": 175542,
+      "word": "女子遭陌生男子扒衣跑隔壁店求救",
+      "onboard_time": 1729623192,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165465,
       "num": 165465,
       "word": "NBA",
@@ -448,14 +464,6 @@
       "word": "中国女子新西兰遇害1年后才找到遗体",
       "onboard_time": 1729604479,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159507,
-      "num": 159507,
-      "word": "女子遭陌生男子扒衣跑隔壁店求救",
-      "onboard_time": 1729623192,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145775,
+      "num": 212054,
+      "word": "曾舜晞粤语改编蔡健雅陌生人",
+      "onboard_time": 1729648337,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137903,
       "num": 137903,
       "word": "布林肯刚到以色列空中就响起爆炸声",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 133773,
-      "num": 133773,
+      "num": 170128,
       "word": "神舟十九号蓄势待发",
       "onboard_time": 1729646117,
       "rank": 44,
@@ -544,6 +560,14 @@
       "word": "3岁加沙男童被援助物资砸死",
       "onboard_time": 1729589958,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131565,
+      "num": 131565,
+      "word": "10万多水军每个账号背后都是真人",
+      "onboard_time": 1729648157,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -579,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123925,
+      "num": 123925,
+      "word": "金价杀到2748.85美元",
+      "onboard_time": 1729647498,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121878,
       "num": 121878,
       "word": "2025考研",
@@ -595,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118759,
-      "num": 118759,
-      "word": "毒液3",
-      "onboard_time": 1729647676,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116312,
       "num": 116312,
       "word": "孩子小区内坠井爷爷救子身亡",
@@ -616,6 +640,14 @@
       "word": "警方通报西安一公务车街头漂移",
       "onboard_time": 1729607061,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113715,
+      "num": 113715,
+      "word": "教师称网络热梗泛滥对学生影响太大",
+      "onboard_time": 1729646117,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

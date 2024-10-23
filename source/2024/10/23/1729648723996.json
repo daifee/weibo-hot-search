@@ -1,0 +1,410 @@
+{
+  "runTime": 1729648723996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314750,
+        "num": 1314750,
+        "word": "有人卖黄金一单变现234万",
+        "onboard_time": 1729641139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877759,
+        "num": 877759,
+        "word": "银行人员称存款消失与储户泄露账密有关",
+        "onboard_time": 1729646238,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5521,
+        "num": 643135,
+        "word": "一图带你数读金砖",
+        "onboard_time": 1729599618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620642,
+        "num": 620642,
+        "word": "以色列总理住宅遭无人机袭击",
+        "onboard_time": 1729646357,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 617653,
+        "num": 617653,
+        "word": "徐志胜第6",
+        "onboard_time": 1729645398,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584612,
+        "num": 584612,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 577958,
+        "num": 577958,
+        "word": "霜降是秋天的第六个节气",
+        "onboard_time": 1729646478,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509150,
+        "num": 509150,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377415,
+        "num": 454645,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 520768,
+        "num": 447008,
+        "word": "霜降后好像一键入冬了",
+        "onboard_time": 1729645457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069445,
+        "num": 439493,
+        "word": "老伯报警打死护工吓坏接警员",
+        "onboard_time": 1729642098,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427533,
+        "num": 427533,
+        "word": "Ning拒绝背王多多的诗",
+        "onboard_time": 1729641738,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 401646,
+        "num": 401646,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361991,
+        "num": 361991,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356432,
+        "num": 356432,
+        "word": "霜降",
+        "onboard_time": 1729638855,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334208,
+        "num": 334208,
+        "word": "上山采茶籽捡到6只长得像猴的小鸟",
+        "onboard_time": 1729643598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293032,
+        "num": 293032,
+        "word": "早安结婚 rapper在台上battle",
+        "onboard_time": 1729643358,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268638,
+        "num": 268638,
+        "word": "毒液3",
+        "onboard_time": 1729647676,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268552,
+        "num": 268552,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258100,
+        "num": 258100,
+        "word": "得闲谨制开机",
+        "onboard_time": 1729642519,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307091,
+        "num": 252457,
+        "word": "短视频在加速我们的衰老",
+        "onboard_time": 1729643539,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260077,
+        "num": 252292,
+        "word": "天蝎座生日快乐",
+        "onboard_time": 1729641677,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243231,
+        "num": 243231,
+        "word": "没工作骗妈妈出门上班",
+        "onboard_time": 1729641017,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235402,
+        "num": 235402,
+        "word": "女子孕晚期肚子鼓包像犄角",
+        "onboard_time": 1729638915,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218235,
+        "num": 218235,
+        "word": "金店撑不住了",
+        "onboard_time": 1729638196,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217680,
+        "num": 217680,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213495,
+        "num": 213495,
+        "word": "男子38年前被拐以为遭抛弃不敢寻亲",
+        "onboard_time": 1729644858,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 212054,
+        "word": "曾舜晞粤语改编蔡健雅陌生人",
+        "onboard_time": 1729648337,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120494,
+        "num": 211295,
+        "word": "七夜雪 BE美学",
+        "onboard_time": 1729644199,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115061,
+        "num": 210847,
+        "word": "没想到罗慎远留的是遗书",
+        "onboard_time": 1729646177,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210648,
+        "num": 210648,
+        "word": "四川警方发布无名尸体认领公告",
+        "onboard_time": 1729612818,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190788,
+        "num": 190788,
+        "word": "神舟十九号发射",
+        "onboard_time": 1729618573,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175542,
+        "num": 175542,
+        "word": "女子遭陌生男子扒衣跑隔壁店求救",
+        "onboard_time": 1729623192,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173747,
+        "num": 173747,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127059,
+        "num": 170128,
+        "word": "神舟十九号蓄势待发",
+        "onboard_time": 1729646117,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168741,
+        "num": 168741,
+        "word": "当地回应清北毕业生入职县级中学",
+        "onboard_time": 1729645457,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166884,
+        "num": 166884,
+        "word": "每一帧都是霜降国风壁纸",
+        "onboard_time": 1729641619,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153735,
+        "num": 153735,
+        "word": "份量逐渐增加的烤肉",
+        "onboard_time": 1729645457,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116377,
+        "num": 150474,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149324,
+        "num": 149324,
+        "word": "烧烤店老板娘说不担心打击报复",
+        "onboard_time": 1729642338,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144319,
+        "num": 144319,
+        "word": "教育局回应学生带饭只能室外用餐",
+        "onboard_time": 1729629370,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140038,
+        "num": 140038,
+        "word": "NBA",
+        "onboard_time": 1729646419,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134660,
+        "num": 134660,
+        "word": "印度网友欢呼的大国工程是中国的",
+        "onboard_time": 1729617614,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131565,
+        "num": 131565,
+        "word": "10万多水军每个账号背后都是真人",
+        "onboard_time": 1729648157,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129101,
+        "num": 129101,
+        "word": "文化中国行看霜降节气",
+        "onboard_time": 1729639816,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 125622,
+        "word": "王者荣耀",
+        "onboard_time": 1729645878,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123925,
+        "num": 123925,
+        "word": "金价杀到2748.85美元",
+        "onboard_time": 1729647498,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123041,
+        "num": 123041,
+        "word": "高振宁解释破防原因",
+        "onboard_time": 1729643418,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113715,
+        "num": 113715,
+        "word": "教师称网络热梗泛滥对学生影响太大",
+        "onboard_time": 1729646117,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国永远是老挝可信赖的朋友和伙伴#"
+    }
+  }
+}
