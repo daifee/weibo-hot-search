@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729652573551,
+  "endTime": 1729654070524,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -8,6 +8,14 @@
       "word": "放整个杭州肛肠科都很炸裂",
       "onboard_time": 1729638196,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2011003,
+      "num": 2011003,
+      "word": "实锤山取团队摆拍",
+      "onboard_time": 1729650077,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -31,14 +39,6 @@
       "num": 511338,
       "word": "老伯报警打死护工吓坏接警员",
       "onboard_time": 1729642098,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1340484,
-      "num": 1340484,
-      "word": "实锤山取团队摆拍",
-      "onboard_time": 1729650077,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669772,
+      "num": 669772,
+      "word": "山取回应",
+      "onboard_time": 1729652418,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633284,
       "num": 633284,
       "word": "徐志胜第6",
       "onboard_time": 1729645398,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607769,
+      "num": 469444,
+      "word": "Rookie谈Ning事件",
+      "onboard_time": 1729651517,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 592360,
@@ -147,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532052,
+      "num": 532052,
+      "word": "徐志胜淘汰感言爆哭",
+      "onboard_time": 1729649238,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520768,
       "num": 478668,
       "word": "霜降后好像一键入冬了",
       "onboard_time": 1729645457,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494395,
-      "num": 469444,
-      "word": "Rookie谈Ning事件",
-      "onboard_time": 1729651517,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 484514,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479383,
+      "num": 479383,
+      "word": "詹姆斯布朗尼父子同台",
+      "onboard_time": 1729652717,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452702,
       "num": 452702,
       "word": "俄方回应特朗普涉袭击莫斯科言论",
@@ -187,20 +211,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 442824,
-      "num": 442824,
+      "raw_hot": 451028,
+      "num": 451028,
       "word": "邱贻可说孙颖莎也有疲劳的时候",
       "onboard_time": 1729650677,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424081,
-      "num": 424081,
-      "word": "徐志胜淘汰感言爆哭",
-      "onboard_time": 1729649238,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 414987,
@@ -259,6 +275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 315268,
+      "num": 471479,
+      "word": "毒液3",
+      "onboard_time": 1729647676,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309863,
       "num": 309863,
       "word": "天蝎座生日快乐",
@@ -291,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295118,
-      "num": 471479,
-      "word": "毒液3",
-      "onboard_time": 1729647676,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 301754,
+      "num": 301754,
+      "word": "BLG战胜G2暂停真相",
+      "onboard_time": 1729653318,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 292599,
@@ -321,6 +345,14 @@
       "onboard_time": 1729641017,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275101,
+      "num": 275101,
+      "word": "金价要涨到什么时候",
+      "onboard_time": 1729650619,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 273807,
@@ -353,6 +385,14 @@
       "onboard_time": 1729597399,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 256909,
+      "num": 312062,
+      "word": "唐朝诡事录3开机",
+      "onboard_time": 1729653137,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 253655,
@@ -411,20 +451,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226573,
+      "num": 407170,
+      "word": "团伙打着躺赚噱头招人入伙先交会费",
+      "onboard_time": 1729650018,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223918,
       "num": 223918,
       "word": "王者荣耀",
       "onboard_time": 1729645878,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222190,
-      "num": 222190,
-      "word": "金价要涨到什么时候",
-      "onboard_time": 1729650619,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 216138,
@@ -435,11 +475,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212422,
+      "num": 212422,
+      "word": "贾跃亭计划两年还清债务回国",
+      "onboard_time": 1729653258,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 211307,
       "num": 161275,
       "word": "15天让头发变钻石",
       "onboard_time": 1729638134,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205171,
+      "num": 475314,
+      "word": "美国多地麦当劳发生大肠杆菌感染",
+      "onboard_time": 1729651757,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -507,8 +563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168293,
-      "num": 168293,
+      "raw_hot": 171249,
+      "num": 171249,
       "word": "宝蓝说不会力挺Ning",
       "onboard_time": 1729651638,
       "rank": 42,
@@ -529,14 +585,6 @@
       "onboard_time": 1729612039,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 163606,
-      "num": 163606,
-      "word": "山取回应",
-      "onboard_time": 1729652418,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162638,
@@ -707,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125358,
-      "num": 407170,
-      "word": "团伙打着躺赚噱头招人入伙先交会费",
-      "onboard_time": 1729650018,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123690,
       "num": 123690,
       "word": "男子辗轧妻子被诉过失致人死亡罪",
@@ -737,6 +777,14 @@
       "onboard_time": 1729592542,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119903,
+      "num": 119903,
+      "word": "詹姆斯第22个赛季平历史纪录",
+      "onboard_time": 1729653617,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 119133,
@@ -771,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112443,
+      "num": 112443,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1729653917,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111367,
       "num": 111367,
       "word": "08年女高中生的课间十分钟",
       "onboard_time": 1729598238,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110955,
+      "num": 391774,
+      "word": "电商平台仓管员猝死该谁来赔偿",
+      "onboard_time": 1729650497,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110925,
@@ -899,27 +963,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84767,
-      "num": 391774,
-      "word": "电商平台仓管员猝死该谁来赔偿",
-      "onboard_time": 1729650497,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83212,
       "num": 83212,
       "word": "女子入秋骑电动车冻腿找中医放血",
       "onboard_time": 1729633212,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81927,
-      "num": 475314,
-      "word": "美国多地麦当劳发生大肠杆菌感染",
-      "onboard_time": 1729651757,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -971,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67131,
+      "num": 430477,
+      "word": "陕西一班主任酒后殴打学生已被停职",
+      "onboard_time": 1729652537,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66406,
       "num": 72236,
       "word": "心动的信号",
@@ -985,6 +1041,14 @@
       "onboard_time": 1729615456,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38923,
+      "num": 390890,
+      "word": "北京地铁回应二号线故障",
+      "onboard_time": 1729653857,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37039,
@@ -1019,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34871,
+      "num": 669921,
+      "word": "万千气象看北京",
+      "onboard_time": 1729652177,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34120,
       "num": 310147,
       "word": "男子被拐38年与家人重逢时跪地痛哭",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26361,
-      "num": 430477,
-      "word": "陕西一班主任酒后殴打学生已被停职",
-      "onboard_time": 1729652537,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25677,
@@ -1115,14 +1179,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12658,
-      "num": 477093,
-      "word": "万千气象看北京",
-      "onboard_time": 1729652177,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12040,
       "num": 45082,
       "word": "18名民辅警10分钟集结为伤者献血",
@@ -1162,6 +1218,9 @@
     },
     {
       "word": "#习近平俄罗斯喀山之行#"
+    },
+    {
+      "word": "#中俄关系风雨兼程砥砺前行#"
     }
   ]
 }

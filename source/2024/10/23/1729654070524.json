@@ -1,0 +1,410 @@
+{
+  "runTime": 1729654070524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011003,
+        "num": 2011003,
+        "word": "实锤山取团队摆拍",
+        "onboard_time": 1729650077,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060252,
+        "num": 1060252,
+        "word": "唐朝诡事录之长安换导演",
+        "onboard_time": 1729650018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37913,
+        "num": 848485,
+        "word": "文化中国行看霜降节气",
+        "onboard_time": 1729639816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755732,
+        "num": 755732,
+        "word": "有人卖黄金一单变现234万",
+        "onboard_time": 1729641139,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671784,
+        "num": 671784,
+        "word": "10万多水军每个账号背后都是真人",
+        "onboard_time": 1729648157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34871,
+        "num": 669921,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669772,
+        "num": 669772,
+        "word": "山取回应",
+        "onboard_time": 1729652418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532052,
+        "num": 532052,
+        "word": "徐志胜淘汰感言爆哭",
+        "onboard_time": 1729649238,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479383,
+        "num": 479383,
+        "word": "詹姆斯布朗尼父子同台",
+        "onboard_time": 1729652717,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461309,
+        "num": 461309,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 607769,
+        "num": 457434,
+        "word": "Rookie谈Ning事件",
+        "onboard_time": 1729651517,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 451028,
+        "num": 451028,
+        "word": "邱贻可说孙颖莎也有疲劳的时候",
+        "onboard_time": 1729650677,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436636,
+        "num": 436636,
+        "word": "以色列总理住宅遭无人机袭击",
+        "onboard_time": 1729646357,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38923,
+        "num": 390890,
+        "word": "北京地铁回应二号线故障",
+        "onboard_time": 1729653857,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67131,
+        "num": 390056,
+        "word": "陕西一班主任酒后殴打学生已被停职",
+        "onboard_time": 1729652537,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389665,
+        "num": 389665,
+        "word": "霜降后好像一键入冬了",
+        "onboard_time": 1729645457,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315268,
+        "num": 315268,
+        "word": "毒液3",
+        "onboard_time": 1729647676,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276807,
+        "num": 312449,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256909,
+        "num": 312062,
+        "word": "唐朝诡事录3开机",
+        "onboard_time": 1729653137,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145446,
+        "num": 308396,
+        "word": "徐志胜第6",
+        "onboard_time": 1729645398,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378646,
+        "num": 306031,
+        "word": "老伯报警打死护工吓坏接警员",
+        "onboard_time": 1729642098,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303172,
+        "num": 303172,
+        "word": "霜降是秋天的第六个节气",
+        "onboard_time": 1729646478,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301754,
+        "num": 301754,
+        "word": "BLG战胜G2暂停真相",
+        "onboard_time": 1729653318,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275101,
+        "num": 275101,
+        "word": "金价要涨到什么时候",
+        "onboard_time": 1729650619,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271587,
+        "num": 271587,
+        "word": "邱贻可回应全网都在心疼孙颖莎",
+        "onboard_time": 1729648816,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231023,
+        "num": 231023,
+        "word": "Ning拒绝背王多多的诗",
+        "onboard_time": 1729641738,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226573,
+        "num": 226573,
+        "word": "团伙打着躺赚噱头招人入伙先交会费",
+        "onboard_time": 1729650018,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212422,
+        "num": 212422,
+        "word": "贾跃亭计划两年还清债务回国",
+        "onboard_time": 1729653258,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134957,
+        "num": 208925,
+        "word": "得闲谨制开机",
+        "onboard_time": 1729642519,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75957,
+        "num": 207140,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206186,
+        "num": 206186,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205171,
+        "num": 205171,
+        "word": "美国多地麦当劳发生大肠杆菌感染",
+        "onboard_time": 1729651757,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183516,
+        "num": 183516,
+        "word": "天蝎座生日快乐",
+        "onboard_time": 1729641677,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171249,
+        "num": 171249,
+        "word": "宝蓝说不会力挺Ning",
+        "onboard_time": 1729651638,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140986,
+        "num": 140986,
+        "word": "金店撑不住了",
+        "onboard_time": 1729638196,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137929,
+        "num": 137929,
+        "word": "上山采茶籽捡到6只长得像猴的小鸟",
+        "onboard_time": 1729643598,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136169,
+        "num": 136169,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1729649897,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134520,
+        "num": 134520,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133861,
+        "num": 133861,
+        "word": "霜降",
+        "onboard_time": 1729638855,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132169,
+        "num": 132169,
+        "word": "北京地铁2号线",
+        "onboard_time": 1729650737,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129210,
+        "num": 129210,
+        "word": "没工作骗妈妈出门上班",
+        "onboard_time": 1729641017,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125132,
+        "num": 125132,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119903,
+        "num": 119903,
+        "word": "詹姆斯第22个赛季平历史纪录",
+        "onboard_time": 1729653617,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117918,
+        "num": 117918,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117404,
+        "num": 117404,
+        "word": "节气里的大美中国",
+        "onboard_time": 1729647317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112443,
+        "num": 112443,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1729653917,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110955,
+        "num": 110955,
+        "word": "电商平台仓管员猝死该谁来赔偿",
+        "onboard_time": 1729650497,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107965,
+        "num": 107965,
+        "word": "凯尔特人追平NBA单场三分纪录",
+        "onboard_time": 1729651817,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100126,
+        "num": 100126,
+        "word": "女子孕晚期肚子鼓包像犄角",
+        "onboard_time": 1729638915,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96552,
+        "num": 96552,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系风雨兼程砥砺前行#"
+    }
+  }
+}
