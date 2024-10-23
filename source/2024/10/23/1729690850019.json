@@ -1,0 +1,410 @@
+{
+  "runTime": 1729690850019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794843,
+        "num": 1127174,
+        "word": "民政部鼓励婚姻登记设在公园",
+        "onboard_time": 1729684217,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695092,
+        "num": 695092,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42663,
+        "num": 635899,
+        "word": "金砖允许更多发展中国家的声音",
+        "onboard_time": 1729689141,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583429,
+        "num": 583429,
+        "word": "爸爸一句宝宝对不起突然就泪目了",
+        "onboard_time": 1729680979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525870,
+        "num": 525870,
+        "word": "明年起面包里不能有这种添加剂",
+        "onboard_time": 1729683858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401856,
+        "num": 401856,
+        "word": "官方回应跟同一人离婚复婚能否休假",
+        "onboard_time": 1729676899,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349918,
+        "num": 349918,
+        "word": "土耳其航空航天公司总部发生爆炸",
+        "onboard_time": 1729690159,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 322141,
+        "num": 322141,
+        "word": "西安取消车辆单双号限行及学校停课强制措施",
+        "onboard_time": 1729681519,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321026,
+        "num": 321026,
+        "word": "漫才兄弟冠军",
+        "onboard_time": 1729683318,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15909,
+        "num": 320721,
+        "word": "祖国秋收壮美画卷徐徐展开",
+        "onboard_time": 1729690159,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1449812,
+        "num": 319774,
+        "word": "双胞胎待产时死亡官方将组织调解",
+        "onboard_time": 1729677978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271250,
+        "num": 318871,
+        "word": "赵丽颖不想身材管理",
+        "onboard_time": 1729689019,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32742,
+        "num": 318275,
+        "word": "极氪MIX的百变超级座舱",
+        "onboard_time": 1729686797,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 985952,
+        "num": 317109,
+        "word": "4岁女孩右眼做手术左眼被开刀",
+        "onboard_time": 1729684997,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869243,
+        "num": 316475,
+        "word": "8块8的虫草内裤直播间卖了250万元",
+        "onboard_time": 1729685657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616216,
+        "num": 315002,
+        "word": "周雨彤边界感",
+        "onboard_time": 1729683258,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 314223,
+        "word": "极氪MIX侧碰和压顶表现",
+        "onboard_time": 1729689319,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 405775,
+        "num": 313597,
+        "word": "两家长班级群相识后出轨私奔生1子",
+        "onboard_time": 1729690279,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352946,
+        "num": 312469,
+        "word": "赵小棠吻戏",
+        "onboard_time": 1729685957,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237441,
+        "num": 312326,
+        "word": "赵丽颖辛芷蕾微博直播",
+        "onboard_time": 1729685837,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 674366,
+        "num": 311266,
+        "word": "抑郁症的时候爸爸往家里扛了三箱香蕉",
+        "onboard_time": 1729689078,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345837,
+        "num": 309953,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309819,
+        "num": 309819,
+        "word": "毕业六年后整个寝室整整齐齐的自驾",
+        "onboard_time": 1729678938,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307560,
+        "num": 307560,
+        "word": "霜降后心情不好要当心",
+        "onboard_time": 1729678277,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300452,
+        "num": 300452,
+        "word": "11岁女孩只爱吃荤胸部长5个肿瘤",
+        "onboard_time": 1729689439,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278193,
+        "num": 278193,
+        "word": "湖南一凉亭免费供应茶水146年",
+        "onboard_time": 1729690100,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225850,
+        "num": 225850,
+        "word": "女子做易拉宝举报丈夫出轨医院职工",
+        "onboard_time": 1729689980,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223995,
+        "num": 223995,
+        "word": "全女脱口秀",
+        "onboard_time": 1729689919,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199294,
+        "num": 199294,
+        "word": "呼兰亚军",
+        "onboard_time": 1729688418,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155920,
+        "num": 195843,
+        "word": "毛豆 可惜",
+        "onboard_time": 1729688719,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207753,
+        "num": 195808,
+        "word": "鹿晗 音乐节",
+        "onboard_time": 1729679718,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195235,
+        "num": 195235,
+        "word": "心疼陈好",
+        "onboard_time": 1729671617,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192669,
+        "num": 192669,
+        "word": "Ning投降认输",
+        "onboard_time": 1729675457,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192246,
+        "num": 192246,
+        "word": "大学生曝校园水卡上网址打开是黄网",
+        "onboard_time": 1729678879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184669,
+        "num": 184669,
+        "word": "以军导弹瞬间炸塌10层高楼",
+        "onboard_time": 1729677138,
+        "rank": 34,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 45185,
+        "num": 179107,
+        "word": "蓝罐曲奇被判向皇冠曲奇赔偿50万",
+        "onboard_time": 1729688899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176282,
+        "num": 176282,
+        "word": "缅甸女子遭人迷晕后拐至河南",
+        "onboard_time": 1729690580,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168016,
+        "num": 168016,
+        "word": "用一只虾做13菜一汤",
+        "onboard_time": 1729684397,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153479,
+        "num": 161955,
+        "word": "七夜雪",
+        "onboard_time": 1729688597,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161845,
+        "num": 161845,
+        "word": "孕妇生产双胞胎一胎死亡调查情况",
+        "onboard_time": 1729688779,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161800,
+        "num": 161800,
+        "word": "周大福回应涨价",
+        "onboard_time": 1729687638,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160093,
+        "num": 160093,
+        "word": "毒液",
+        "onboard_time": 1729668618,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158717,
+        "num": 158717,
+        "word": "澳门CoCo姐卖内裤月销千万元",
+        "onboard_time": 1729668798,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156284,
+        "num": 156284,
+        "word": "父母三次闹离婚都不愿抚养残疾儿子",
+        "onboard_time": 1729685539,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37561,
+        "num": 153113,
+        "word": "商家万元项链售假抗辩称发错货",
+        "onboard_time": 1729688719,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152171,
+        "num": 152171,
+        "word": "山取否认哀牢山钓鱼系摆拍",
+        "onboard_time": 1729686679,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145320,
+        "num": 145320,
+        "word": "樊振东ins更新费德勒合影",
+        "onboard_time": 1729689678,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142086,
+        "num": 142086,
+        "word": "称存款消失女子被建议到属地报案",
+        "onboard_time": 1729686919,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138975,
+        "num": 138975,
+        "word": "脱友 喜单",
+        "onboard_time": 1729689019,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136866,
+        "num": 136866,
+        "word": "李晋晔断层第一",
+        "onboard_time": 1729685358,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全球南方争取更多新机遇#"
+    }
+  }
+}
