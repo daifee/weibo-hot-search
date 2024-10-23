@@ -1,0 +1,410 @@
+{
+  "runTime": 1729715957173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67408,
+        "num": 67408,
+        "word": "台风潭美最强或达强台风级",
+        "onboard_time": 1729698378,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57395,
+        "num": 57395,
+        "word": "团伙直播间卖假鞋封一个就再开一个",
+        "onboard_time": 1729711151,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2299,
+        "num": 52298,
+        "word": "俄罗斯人为什么喜欢送面包和盐",
+        "onboard_time": 1729692438,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47462,
+        "num": 47462,
+        "word": "欧盟单独约谈个别车企妄图分化中方",
+        "onboard_time": 1729699876,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46802,
+        "num": 46802,
+        "word": "付航脱口秀",
+        "onboard_time": 1729694900,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43471,
+        "num": 43471,
+        "word": "土耳其恐袭",
+        "onboard_time": 1729693159,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39737,
+        "num": 39737,
+        "word": "留学姑娘回村创业年销售额2500万",
+        "onboard_time": 1729709892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34333,
+        "num": 39351,
+        "word": "爸爸一句宝宝对不起突然就泪目了",
+        "onboard_time": 1729680979,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32250,
+        "num": 39110,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 38762,
+        "word": "商户回应游客在景德镇捡瓷器",
+        "onboard_time": 1729714691,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147116,
+        "num": 38327,
+        "word": "女子称凶手公开杀害其弟后还向周围炫耀",
+        "onboard_time": 1729698918,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100631,
+        "num": 37879,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98671,
+        "num": 37185,
+        "word": "缅甸女子遭人迷晕后拐至河南",
+        "onboard_time": 1729690580,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96316,
+        "num": 36712,
+        "word": "两家长班级群相识后出轨私奔生1子",
+        "onboard_time": 1729690279,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64337,
+        "num": 36179,
+        "word": "官方通报孕妇待产过程中一胎死于宫内",
+        "onboard_time": 1729690999,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53294,
+        "num": 36043,
+        "word": "周雨彤边界感",
+        "onboard_time": 1729683258,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46246,
+        "num": 35348,
+        "word": "大连一男子在水产市场遭杀害",
+        "onboard_time": 1729696220,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35170,
+        "num": 35170,
+        "word": "男子花10.5万买缅甸媳妇被公诉",
+        "onboard_time": 1729698078,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34400,
+        "num": 34400,
+        "word": "4岁女孩右眼做手术左眼被开刀",
+        "onboard_time": 1729684997,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19961,
+        "num": 33553,
+        "word": "鹿晗gapday音乐节票价",
+        "onboard_time": 1729699099,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32788,
+        "num": 32788,
+        "word": "抑郁症的时候爸爸往家里扛了三箱香蕉",
+        "onboard_time": 1729689078,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30499,
+        "num": 30499,
+        "word": "纪检介入男子举报妻子被区长强占",
+        "onboard_time": 1729691479,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28722,
+        "num": 28722,
+        "word": "警方抓获一网络水军团伙涉案1亿元",
+        "onboard_time": 1729708450,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28683,
+        "num": 28683,
+        "word": "女网红曝光厦门一干部同时出轨多人",
+        "onboard_time": 1729696518,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28539,
+        "num": 28539,
+        "word": "8块8的虫草内裤直播间卖了250万元",
+        "onboard_time": 1729685657,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26217,
+        "num": 26217,
+        "word": "邻居以为我在居民楼里开超市",
+        "onboard_time": 1729698679,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25294,
+        "num": 25294,
+        "word": "土耳其恐袭已致4死14伤",
+        "onboard_time": 1729695860,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25202,
+        "num": 25202,
+        "word": "太原通报双胞胎待产时死亡调查情况",
+        "onboard_time": 1729697240,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18101,
+        "num": 25016,
+        "word": "王睡睡的心结被体育生男大治愈了",
+        "onboard_time": 1729693940,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15717,
+        "num": 25014,
+        "word": "七夜雪",
+        "onboard_time": 1729688597,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25014,
+        "num": 25013,
+        "word": "以军称真主党高级领导人萨菲丁已死",
+        "onboard_time": 1729701556,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24047,
+        "num": 24047,
+        "word": "深圳一小学鸡肉标签显示过期4年",
+        "onboard_time": 1729701736,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23441,
+        "num": 23441,
+        "word": "赵丽颖不想身材管理",
+        "onboard_time": 1729689019,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23396,
+        "num": 23396,
+        "word": "中俄世代友好的深厚情谊不会变",
+        "onboard_time": 1729712951,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22683,
+        "num": 22683,
+        "word": "差点没认出来小沈阳",
+        "onboard_time": 1729692438,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21624,
+        "num": 21624,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19781,
+        "num": 19781,
+        "word": "明年起面包里不能有这种添加剂",
+        "onboard_time": 1729683858,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19615,
+        "num": 19615,
+        "word": "有种抑郁叫缺维生素D",
+        "onboard_time": 1729693880,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19565,
+        "num": 19565,
+        "word": "揭秘直播间限量版运动鞋骗局",
+        "onboard_time": 1729712472,
+        "rank": 38,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 18640,
+        "num": 18640,
+        "word": "山取研修班前学员发声",
+        "onboard_time": 1729694599,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17480,
+        "num": 17480,
+        "word": "霜降后心情不好要当心",
+        "onboard_time": 1729678277,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17100,
+        "num": 17100,
+        "word": "赵小棠吻戏",
+        "onboard_time": 1729685957,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16310,
+        "num": 16310,
+        "word": "土耳其航空航天公司总部发生爆炸",
+        "onboard_time": 1729690159,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 16160,
+        "num": 16160,
+        "word": "加沙女孩光脚扛受伤妹妹求医",
+        "onboard_time": 1729705334,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15438,
+        "num": 15438,
+        "word": "医院回应女职工被举报出轨",
+        "onboard_time": 1729715770,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15323,
+        "num": 15323,
+        "word": "周大福3个月已关店145家",
+        "onboard_time": 1729692920,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15188,
+        "num": 15188,
+        "word": "独居一年的31平米小家",
+        "onboard_time": 1729704194,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 15019,
+        "word": "民政部鼓励婚姻登记设在公园",
+        "onboard_time": 1729684217,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13882,
+        "num": 14793,
+        "word": "漫才兄弟冠军",
+        "onboard_time": 1729683318,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13037,
+        "num": 14740,
+        "word": "林诗栋3比0罗伯勒斯",
+        "onboard_time": 1729702335,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见埃及总统#"
+    }
+  }
+}
