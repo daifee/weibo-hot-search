@@ -1,0 +1,410 @@
+{
+  "runTime": 1729669097202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525881,
+        "num": 1525881,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 957396,
+        "num": 957396,
+        "word": "山取颜料师已被限制高消费",
+        "onboard_time": 1729658960,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24403,
+        "num": 930359,
+        "word": "一组数字看金砖国家含金量",
+        "onboard_time": 1729652959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911304,
+        "num": 911304,
+        "word": "清北博士生入职县级中学房补105万",
+        "onboard_time": 1729664839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799598,
+        "num": 799598,
+        "word": "孙颖莎又去演讲了",
+        "onboard_time": 1729666338,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717490,
+        "num": 717490,
+        "word": "花少6你的人脉我的人脉好像不一样",
+        "onboard_time": 1729664958,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636602,
+        "num": 636602,
+        "word": "千万网红吴迪涉嫌虚假宣传",
+        "onboard_time": 1729657699,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568896,
+        "num": 568896,
+        "word": "微信查删单向好友需人数先达1万",
+        "onboard_time": 1729659200,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445574,
+        "num": 445574,
+        "word": "没有了东北雨姐的磨石峪村",
+        "onboard_time": 1729661298,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191991,
+        "num": 439401,
+        "word": "广州文旅称拒批金星演出非领导个人原因",
+        "onboard_time": 1729668559,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664759,
+        "num": 439133,
+        "word": "呼兰涉黑案件曝光后张绪霞退出多家公司",
+        "onboard_time": 1729663038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438742,
+        "num": 438742,
+        "word": "省委书记暗访小学发现电脑不能用",
+        "onboard_time": 1729662139,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435711,
+        "num": 435711,
+        "word": "赵露思方否认与刘宇宁三搭",
+        "onboard_time": 1729665858,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391834,
+        "num": 391834,
+        "word": "北斗七行含金量",
+        "onboard_time": 1729664299,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62079,
+        "num": 353436,
+        "word": "东北雨X系列账号名称被初始化",
+        "onboard_time": 1729669038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351478,
+        "num": 351478,
+        "word": "JENNIE新歌被KBS判定不合格",
+        "onboard_time": 1729668258,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308611,
+        "num": 308611,
+        "word": "花少 坦桑尼亚行程",
+        "onboard_time": 1729663276,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299082,
+        "num": 299082,
+        "word": "救护车送错医院致人死亡谁来担责",
+        "onboard_time": 1729664958,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296055,
+        "num": 296055,
+        "word": "花儿与少年节目组",
+        "onboard_time": 1729663518,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261095,
+        "num": 261095,
+        "word": "毒液20分钟毁灭大战",
+        "onboard_time": 1729665378,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 689704,
+        "num": 251606,
+        "word": "4人合谋猥亵迷奸多名女性被抓",
+        "onboard_time": 1729664539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373657,
+        "num": 248405,
+        "word": "每天坚持晨跑5公里会怎样",
+        "onboard_time": 1729657639,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240624,
+        "num": 240624,
+        "word": "江西一男子拒服兵役受7项联合惩戒",
+        "onboard_time": 1729666997,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230313,
+        "num": 230313,
+        "word": "警犬福仔已经有班味儿了",
+        "onboard_time": 1729664899,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222196,
+        "num": 222196,
+        "word": "女孩二本毕业后决定去当保洁员",
+        "onboard_time": 1729666219,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215466,
+        "num": 215466,
+        "word": "外媒再曝以军用加沙平民作人肉盾牌",
+        "onboard_time": 1729668379,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212800,
+        "num": 212800,
+        "word": "网友曝价值百万元花灯被景区暴力拆除",
+        "onboard_time": 1729659859,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208507,
+        "num": 208507,
+        "word": "丈夫碾压妻子致死案进行三次尸检",
+        "onboard_time": 1729654697,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 205849,
+        "word": "毒液",
+        "onboard_time": 1729668618,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195859,
+        "num": 195859,
+        "word": "医院回应双胞胎儿在生产时死亡",
+        "onboard_time": 1729655358,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283880,
+        "num": 193415,
+        "word": "黄圣依曾经把杨子写到歌词里",
+        "onboard_time": 1729668798,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190287,
+        "num": 190287,
+        "word": "太空3人组打扫屋子迎接神十九",
+        "onboard_time": 1729665318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189546,
+        "num": 189546,
+        "word": "奶茶起名怎么越来越奇怪",
+        "onboard_time": 1729667899,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173569,
+        "num": 173569,
+        "word": "澳门CoCo姐卖内裤月销千万元",
+        "onboard_time": 1729668798,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167469,
+        "num": 167469,
+        "word": "解放军装备投送训练大片感拉满",
+        "onboard_time": 1729664719,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165931,
+        "num": 165931,
+        "word": "客运站投资2亿建成3年没卖出1张票",
+        "onboard_time": 1729663219,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157151,
+        "num": 157151,
+        "word": "您优雅的穿衣节奏已被打乱",
+        "onboard_time": 1729663999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156094,
+        "num": 156094,
+        "word": "奔跑吧收官大合影",
+        "onboard_time": 1729660039,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154789,
+        "num": 154789,
+        "word": "杨天真补给",
+        "onboard_time": 1729668740,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139920,
+        "num": 139920,
+        "word": "马龙也教王楠女儿打乒乓球了",
+        "onboard_time": 1729661057,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50054,
+        "num": 138097,
+        "word": "官方回应疑似村主任开挖掘机撞人",
+        "onboard_time": 1729666997,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137633,
+        "num": 137633,
+        "word": "小米电视",
+        "onboard_time": 1729654819,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "布朗尼甩锅詹姆斯",
+        "onboard_time": 1729655719,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133357,
+        "num": 133357,
+        "word": "官方称正核实山取长文真实性",
+        "onboard_time": 1729659800,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129138,
+        "num": 129138,
+        "word": "唐朝诡事录之长安换导演",
+        "onboard_time": 1729650018,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127496,
+        "num": 127496,
+        "word": "实锤山取团队摆拍",
+        "onboard_time": 1729650077,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126883,
+        "num": 126883,
+        "word": "花学课件",
+        "onboard_time": 1729658779,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122619,
+        "num": 122619,
+        "word": "燃烧的月亮 大雪封山前杀青",
+        "onboard_time": 1729669038,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121153,
+        "num": 121153,
+        "word": "Rookie谈Ning事件",
+        "onboard_time": 1729651517,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120407,
+        "num": 120407,
+        "word": "赵露思刘宇宁 三搭",
+        "onboard_time": 1729660098,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系风雨兼程砥砺前行#"
+    }
+  }
+}

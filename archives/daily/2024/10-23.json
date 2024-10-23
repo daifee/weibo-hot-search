@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729668150986,
+  "endTime": 1729669097202,
   "band_list": [
     {
       "raw_hot": 6591637,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435711,
+      "num": 435711,
+      "word": "赵露思方否认与刘宇宁三搭",
+      "onboard_time": 1729665858,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417474,
       "num": 417474,
       "word": "北斗七行含金量",
@@ -513,6 +521,14 @@
       "onboard_time": 1729587617,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351478,
+      "num": 351478,
+      "word": "JENNIE新歌被KBS判定不合格",
+      "onboard_time": 1729668258,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 346725,
@@ -603,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305449,
-      "num": 357282,
-      "word": "赵露思方否认与刘宇宁三搭",
-      "onboard_time": 1729665858,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305140,
       "num": 305140,
       "word": "早安结婚 rapper在台上battle",
@@ -633,6 +641,14 @@
       "onboard_time": 1729653258,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 299082,
+      "num": 357958,
+      "word": "救护车送错医院致人死亡谁来担责",
+      "onboard_time": 1729664958,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293773,
@@ -665,6 +681,14 @@
       "onboard_time": 1729641017,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283880,
+      "num": 193415,
+      "word": "黄圣依曾经把杨子写到歌词里",
+      "onboard_time": 1729668798,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 275101,
@@ -707,15 +731,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 255773,
-      "num": 357958,
-      "word": "救护车送错医院致人死亡谁来担责",
-      "onboard_time": 1729664958,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255662,
+      "raw_hot": 261095,
       "num": 311987,
       "word": "毒液20分钟毁灭大战",
       "onboard_time": 1729665378,
@@ -843,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222196,
+      "num": 304261,
+      "word": "女孩二本毕业后决定去当保洁员",
+      "onboard_time": 1729666219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216138,
       "num": 216138,
       "word": "小学生课间嬉闹致同学受伤谁担责",
@@ -851,20 +875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215466,
+      "num": 215466,
+      "word": "外媒再曝以军用加沙平民作人肉盾牌",
+      "onboard_time": 1729668379,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 212584,
       "num": 212584,
       "word": "付航曾拿过小号九级证书",
       "onboard_time": 1729661659,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211847,
-      "num": 304261,
-      "word": "女孩二本毕业后决定去当保洁员",
-      "onboard_time": 1729666219,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211307,
@@ -897,6 +921,14 @@
       "onboard_time": 1729660098,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205849,
+      "num": 205849,
+      "word": "毒液",
+      "onboard_time": 1729668618,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 204430,
@@ -979,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191991,
+      "num": 439401,
+      "word": "广州文旅称拒批金星演出非领导个人原因",
+      "onboard_time": 1729668559,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190791,
       "num": 396713,
       "word": "客运站投资2亿建成3年没卖出1张票",
@@ -1011,11 +1051,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 188117,
-      "num": 188117,
+      "raw_hot": 190287,
+      "num": 190287,
       "word": "太空3人组打扫屋子迎接神十九",
       "onboard_time": 1729665318,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189546,
+      "num": 189546,
+      "word": "奶茶起名怎么越来越奇怪",
+      "onboard_time": 1729667899,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173569,
+      "num": 173569,
+      "word": "澳门CoCo姐卖内裤月销千万元",
+      "onboard_time": 1729668798,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173473,
       "num": 422790,
       "word": "刘浩存哭戏共情力",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1729662439,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167469,
+      "num": 569943,
+      "word": "解放军装备投送训练大片感拉满",
+      "onboard_time": 1729664719,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165465,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1729647498,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "杨天真补给",
+      "onboard_time": 1729668740,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 153004,
@@ -1307,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132120,
-      "num": 132120,
-      "word": "奶茶起名怎么越来越奇怪",
-      "onboard_time": 1729667899,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129161,
       "num": 931655,
       "word": "文化中国行看霜降节气",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1729644199,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "燃烧的月亮 大雪封山前杀青",
+      "onboard_time": 1729669038,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121878,
@@ -1457,14 +1529,6 @@
       "onboard_time": 1729609040,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106449,
-      "num": 569943,
-      "word": "解放军装备投送训练大片感拉满",
-      "onboard_time": 1729664719,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102484,
@@ -1667,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62079,
+      "num": 353436,
+      "word": "东北雨X系列账号名称被初始化",
+      "onboard_time": 1729669038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60973,
       "num": 436843,
       "word": "如何解救困在直播间的老人",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1729615456,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50054,
+      "num": 400519,
+      "word": "官方回应疑似村主任开挖掘机撞人",
+      "onboard_time": 1729666997,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43234,
@@ -1784,14 +1864,6 @@
       "word": "市监回应肯德基未明示用转基因油",
       "onboard_time": 1729622651,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29883,
-      "num": 400519,
-      "word": "官方回应疑似村主任开挖掘机撞人",
-      "onboard_time": 1729666997,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

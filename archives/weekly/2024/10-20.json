@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729668150986,
+  "endTime": 1729669097202,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435711,
+      "num": 435711,
+      "word": "赵露思方否认与刘宇宁三搭",
+      "onboard_time": 1729665858,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434493,
       "num": 114984,
       "word": "杨子 陶虹",
@@ -2971,6 +2979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351478,
+      "num": 351478,
+      "word": "JENNIE新歌被KBS判定不合格",
+      "onboard_time": 1729668258,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 351275,
       "num": 286839,
       "word": "杨紫粉色抹胸长裙",
@@ -3371,14 +3387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305449,
-      "num": 357282,
-      "word": "赵露思方否认与刘宇宁三搭",
-      "onboard_time": 1729665858,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305140,
       "num": 305140,
       "word": "早安结婚 rapper在台上battle",
@@ -3433,6 +3441,14 @@
       "onboard_time": 1729592598,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299082,
+      "num": 357958,
+      "word": "救护车送错医院致人死亡谁来担责",
+      "onboard_time": 1729664958,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298978,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1729389920,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 283880,
+      "num": 193415,
+      "word": "黄圣依曾经把杨子写到歌词里",
+      "onboard_time": 1729668798,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 283652,
@@ -3899,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261095,
+      "num": 311987,
+      "word": "毒液20分钟毁灭大战",
+      "onboard_time": 1729665378,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260493,
       "num": 455116,
       "word": "李现金鹰节帮赵丽颖卷海报",
@@ -3953,22 +3985,6 @@
       "onboard_time": 1729494498,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255773,
-      "num": 357958,
-      "word": "救护车送错医院致人死亡谁来担责",
-      "onboard_time": 1729664958,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255662,
-      "num": 311987,
-      "word": "毒液20分钟毁灭大战",
-      "onboard_time": 1729665378,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 254658,
@@ -4491,6 +4507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222196,
+      "num": 304261,
+      "word": "女孩二本毕业后决定去当保洁员",
+      "onboard_time": 1729666219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221442,
       "num": 415831,
       "word": "流量下我们需要什么样的网红",
@@ -4659,6 +4683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 215466,
+      "num": 215466,
+      "word": "外媒再曝以军用加沙平民作人肉盾牌",
+      "onboard_time": 1729668379,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 215206,
       "num": 401345,
       "word": "宜宾燃面真能点燃啊",
@@ -4793,14 +4825,6 @@
       "onboard_time": 1729430602,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211847,
-      "num": 304261,
-      "word": "女孩二本毕业后决定去当保洁员",
-      "onboard_time": 1729666219,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211837,
@@ -4985,6 +5009,14 @@
       "onboard_time": 1729660098,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205849,
+      "num": 205849,
+      "word": "毒液",
+      "onboard_time": 1729668618,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 205722,
@@ -5395,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191991,
+      "num": 439401,
+      "word": "广州文旅称拒批金星演出非领导个人原因",
+      "onboard_time": 1729668559,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191608,
       "num": 191608,
       "word": "宁静说演员行业门槛低",
@@ -5459,6 +5499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190287,
+      "num": 190287,
+      "word": "太空3人组打扫屋子迎接神十九",
+      "onboard_time": 1729665318,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189950,
       "num": 237718,
       "word": "小区收楼仅3年139户玻璃自爆",
@@ -5489,6 +5537,14 @@
       "onboard_time": 1729419560,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189546,
+      "num": 189546,
+      "word": "奶茶起名怎么越来越奇怪",
+      "onboard_time": 1729667899,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189536,
@@ -5545,14 +5601,6 @@
       "onboard_time": 1729569379,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188117,
-      "num": 188117,
-      "word": "太空3人组打扫屋子迎接神十九",
-      "onboard_time": 1729665318,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187766,
@@ -5907,6 +5955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173569,
+      "num": 173569,
+      "word": "澳门CoCo姐卖内裤月销千万元",
+      "onboard_time": 1729668798,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173473,
       "num": 422790,
       "word": "刘浩存哭戏共情力",
@@ -6120,6 +6176,14 @@
       "word": "博主造谣六姐妹10万彩礼仍未道歉",
       "onboard_time": 1729422440,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167469,
+      "num": 569943,
+      "word": "解放军装备投送训练大片感拉满",
+      "onboard_time": 1729664719,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -6465,6 +6529,14 @@
       "onboard_time": 1729600400,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "杨天真补给",
+      "onboard_time": 1729668740,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 154524,
@@ -7267,14 +7339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132120,
-      "num": 132120,
-      "word": "奶茶起名怎么越来越奇怪",
-      "onboard_time": 1729667899,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131930,
       "num": 131930,
       "word": "金钟奖",
@@ -7577,6 +7641,14 @@
       "onboard_time": 1729499838,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "燃烧的月亮 大雪封山前杀青",
+      "onboard_time": 1729669038,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 122349,
@@ -8137,14 +8209,6 @@
       "onboard_time": 1729477938,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 106449,
-      "num": 569943,
-      "word": "解放军装备投送训练大片感拉满",
-      "onboard_time": 1729664719,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105878,
@@ -9011,6 +9075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62079,
+      "num": 353436,
+      "word": "东北雨X系列账号名称被初始化",
+      "onboard_time": 1729669038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61834,
       "num": 543534,
       "word": "云南新规不得询问女求职者婚育",
@@ -9305,6 +9377,14 @@
       "onboard_time": 1729360754,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50054,
+      "num": 400519,
+      "word": "官方回应疑似村主任开挖掘机撞人",
+      "onboard_time": 1729666997,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49738,
@@ -9984,14 +10064,6 @@
       "word": "长春高空抛物致死案物业是否担责",
       "onboard_time": 1729506920,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29883,
-      "num": 400519,
-      "word": "官方回应疑似村主任开挖掘机撞人",
-      "onboard_time": 1729666997,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
