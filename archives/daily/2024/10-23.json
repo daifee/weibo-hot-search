@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729640177811,
+  "endTime": 1729647707345,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -19,12 +19,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1499275,
+      "num": 1499275,
+      "word": "有人卖黄金一单变现234万",
+      "onboard_time": 1729641139,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1419856,
+      "num": 511338,
+      "word": "老伯报警打死护工吓坏接警员",
+      "onboard_time": 1729642098,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143356,
       "num": 308382,
       "word": "警方抓嫖时女子从空调外机坠落身亡",
       "onboard_time": 1729598179,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633284,
+      "num": 633284,
+      "word": "徐志胜第6",
+      "onboard_time": 1729645398,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 592360,
@@ -43,8 +67,40 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529214,
-      "num": 529214,
+      "raw_hot": 554351,
+      "num": 554351,
+      "word": "霜降",
+      "onboard_time": 1729638855,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548165,
+      "num": 548165,
+      "word": "银行人员称存款消失与储户泄露账密有关",
+      "onboard_time": 1729646238,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540743,
+      "num": 490829,
+      "word": "Ning拒绝背王多多的诗",
+      "onboard_time": 1729641738,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 536992,
+      "num": 536992,
+      "word": "花近2万网购的泰迪竟被裁耳画眼线",
+      "onboard_time": 1729603040,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532348,
+      "num": 532348,
       "word": "没下单快递却要送30件冰箱上门",
       "onboard_time": 1729606459,
       "rank": 3,
@@ -52,11 +108,19 @@
     },
     {
       "raw_hot": 484514,
-      "num": 484514,
+      "num": 527000,
       "word": "肖战纯素颜开机路透",
       "onboard_time": 1729639215,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481423,
+      "num": 481423,
+      "word": "上山采茶籽捡到6只长得像猴的小鸟",
+      "onboard_time": 1729643598,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452702,
@@ -68,26 +132,18 @@
     },
     {
       "raw_hot": 402668,
-      "num": 161650,
+      "num": 249797,
       "word": "女子孕晚期肚子鼓包像犄角",
       "onboard_time": 1729638915,
       "rank": 21,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401026,
-      "num": 401026,
-      "word": "霜降",
-      "onboard_time": 1729638855,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386306,
-      "num": 386306,
-      "word": "花近2万网购的泰迪竟被裁耳画眼线",
-      "onboard_time": 1729603040,
-      "rank": 6,
+      "raw_hot": 402211,
+      "num": 402211,
+      "word": "霜降后好像一键入冬了",
+      "onboard_time": 1729645457,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -107,12 +163,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325454,
-      "num": 300358,
+      "raw_hot": 336248,
+      "num": 336248,
       "word": "奶奶排队取药10分钟孙子被人拐走",
       "onboard_time": 1729594640,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332776,
+      "num": 332776,
+      "word": "得闲谨制开机",
+      "onboard_time": 1729642519,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 319561,
+      "num": 319561,
+      "word": "以色列总理住宅遭无人机袭击",
+      "onboard_time": 1729646357,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 318020,
@@ -121,6 +193,30 @@
       "onboard_time": 1729608980,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 309863,
+      "num": 309863,
+      "word": "天蝎座生日快乐",
+      "onboard_time": 1729641677,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 305140,
+      "num": 305140,
+      "word": "早安结婚 rapper在台上battle",
+      "onboard_time": 1729643358,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302871,
+      "num": 302871,
+      "word": "短视频在加速我们的衰老",
+      "onboard_time": 1729643539,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 302866,
@@ -147,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289668,
+      "num": 289668,
+      "word": "没工作骗妈妈出门上班",
+      "onboard_time": 1729641017,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273807,
       "num": 273807,
       "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
       "onboard_time": 1729612158,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273645,
+      "num": 273645,
+      "word": "男子38年前被拐以为遭抛弃不敢寻亲",
+      "onboard_time": 1729644858,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -179,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252148,
+      "num": 252148,
+      "word": "金店撑不住了",
+      "onboard_time": 1729638196,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249530,
       "num": 279163,
       "word": "刘宪华才是蘑菇屋最聪明的",
@@ -195,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237514,
-      "num": 237514,
-      "word": "金店撑不住了",
-      "onboard_time": 1729638196,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 240225,
+      "num": 518575,
+      "word": "霜降是秋天的第六个节气",
+      "onboard_time": 1729646478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234466,
@@ -227,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223918,
+      "num": 223918,
+      "word": "王者荣耀",
+      "onboard_time": 1729645878,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216138,
       "num": 216138,
       "word": "小学生课间嬉闹致同学受伤谁担责",
@@ -251,12 +379,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194362,
+      "num": 194362,
+      "word": "神舟十九号发射",
+      "onboard_time": 1729618573,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 193675,
+      "num": 193675,
+      "word": "每一帧都是霜降国风壁纸",
+      "onboard_time": 1729641619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190588,
+      "num": 190588,
+      "word": "当地回应清北毕业生入职县级中学",
+      "onboard_time": 1729645457,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177484,
+      "num": 177484,
+      "word": "烧烤店老板娘说不担心打击报复",
+      "onboard_time": 1729642338,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177406,
       "num": 177406,
       "word": "花学 周雨彤",
       "onboard_time": 1729579399,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165465,
+      "num": 165465,
+      "word": "NBA",
+      "onboard_time": 1729646419,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163857,
@@ -283,6 +451,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159507,
+      "num": 159507,
+      "word": "女子遭陌生男子扒衣跑隔壁店求救",
+      "onboard_time": 1729623192,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158579,
+      "num": 158579,
+      "word": "份量逐渐增加的烤肉",
+      "onboard_time": 1729645457,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 157485,
+      "num": 250612,
+      "word": "没想到罗慎远留的是遗书",
+      "onboard_time": 1729646177,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150944,
       "num": 277235,
       "word": "杭州地铁将投运130列无人驾驶列车",
@@ -297,6 +489,14 @@
       "onboard_time": 1729589058,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150056,
+      "num": 150056,
+      "word": "印度网友欢呼的大国工程是中国的",
+      "onboard_time": 1729617614,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147009,
@@ -315,20 +515,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141301,
-      "num": 141301,
-      "word": "印度网友欢呼的大国工程是中国的",
-      "onboard_time": 1729617614,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 137903,
       "num": 137903,
       "word": "布林肯刚到以色列空中就响起爆炸声",
       "onboard_time": 1729624571,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 133773,
+      "num": 133773,
+      "word": "神舟十九号蓄势待发",
+      "onboard_time": 1729646117,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 133054,
+      "num": 133054,
+      "word": "节气里的大美中国",
+      "onboard_time": 1729647317,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132301,
@@ -355,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126987,
+      "num": 126987,
+      "word": "高振宁解释破防原因",
+      "onboard_time": 1729643418,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125488,
+      "num": 249890,
+      "word": "七夜雪 BE美学",
+      "onboard_time": 1729644199,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121878,
       "num": 121878,
       "word": "2025考研",
@@ -369,6 +593,14 @@
       "onboard_time": 1729592542,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118759,
+      "num": 118759,
+      "word": "毒液3",
+      "onboard_time": 1729647676,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 116312,
@@ -547,28 +779,12 @@
       "category": "数码,艺人"
     },
     {
-      "raw_hot": 74858,
-      "num": 74858,
-      "word": "女子遭陌生男子扒衣跑隔壁店求救",
-      "onboard_time": 1729623192,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73959,
       "num": 249091,
       "word": "肯德基回应未明示用转基因油被查",
       "onboard_time": 1729613117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70058,
-      "num": 78211,
-      "word": "神舟十九号发射",
-      "onboard_time": 1729618573,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 68561,
@@ -740,7 +956,7 @@
     },
     {
       "raw_hot": 9705,
-      "num": 501748,
+      "num": 643977,
       "word": "一图带你数读金砖",
       "onboard_time": 1729599618,
       "rank": 2,
@@ -756,6 +972,9 @@
     },
     {
       "word": "#中国永远是老挝可信赖的朋友和伙伴#"
+    },
+    {
+      "word": "#习近平同普京举行双边会晤#"
     }
   ]
 }

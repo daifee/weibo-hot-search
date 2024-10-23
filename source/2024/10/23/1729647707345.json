@@ -1,0 +1,410 @@
+{
+  "runTime": 1729647707345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1499275,
+        "num": 1499275,
+        "word": "有人卖黄金一单变现234万",
+        "onboard_time": 1729641139,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734482,
+        "num": 734482,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7039,
+        "num": 643977,
+        "word": "一图带你数读金砖",
+        "onboard_time": 1729599618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633284,
+        "num": 633284,
+        "word": "徐志胜第6",
+        "onboard_time": 1729645398,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554351,
+        "num": 554351,
+        "word": "霜降",
+        "onboard_time": 1729638855,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548165,
+        "num": 548165,
+        "word": "银行人员称存款消失与储户泄露账密有关",
+        "onboard_time": 1729646238,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536992,
+        "num": 536992,
+        "word": "花近2万网购的泰迪竟被裁耳画眼线",
+        "onboard_time": 1729603040,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532348,
+        "num": 532348,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482667,
+        "num": 527000,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240225,
+        "num": 518575,
+        "word": "霜降是秋天的第六个节气",
+        "onboard_time": 1729646478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419856,
+        "num": 511338,
+        "word": "老伯报警打死护工吓坏接警员",
+        "onboard_time": 1729642098,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540743,
+        "num": 490829,
+        "word": "Ning拒绝背王多多的诗",
+        "onboard_time": 1729641738,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 490433,
+        "num": 490433,
+        "word": "战狼还是拍保守了",
+        "onboard_time": 1729600700,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481423,
+        "num": 481423,
+        "word": "上山采茶籽捡到6只长得像猴的小鸟",
+        "onboard_time": 1729643598,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402211,
+        "num": 402211,
+        "word": "霜降后好像一键入冬了",
+        "onboard_time": 1729645457,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336248,
+        "num": 336248,
+        "word": "奶奶排队取药10分钟孙子被人拐走",
+        "onboard_time": 1729594640,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332776,
+        "num": 332776,
+        "word": "得闲谨制开机",
+        "onboard_time": 1729642519,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319561,
+        "num": 319561,
+        "word": "以色列总理住宅遭无人机袭击",
+        "onboard_time": 1729646357,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216166,
+        "num": 311053,
+        "word": "陈好说短时间内不会再参加真人秀",
+        "onboard_time": 1729601240,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145904,
+        "num": 310271,
+        "word": "再见爱人4问题最大的夫妻",
+        "onboard_time": 1729601120,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309863,
+        "num": 309863,
+        "word": "天蝎座生日快乐",
+        "onboard_time": 1729641677,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305140,
+        "num": 305140,
+        "word": "早安结婚 rapper在台上battle",
+        "onboard_time": 1729643358,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302871,
+        "num": 302871,
+        "word": "短视频在加速我们的衰老",
+        "onboard_time": 1729643539,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289668,
+        "num": 289668,
+        "word": "没工作骗妈妈出门上班",
+        "onboard_time": 1729641017,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284285,
+        "num": 284285,
+        "word": "四川警方发布无名尸体认领公告",
+        "onboard_time": 1729612818,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273645,
+        "num": 273645,
+        "word": "男子38年前被拐以为遭抛弃不敢寻亲",
+        "onboard_time": 1729644858,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266835,
+        "num": 266835,
+        "word": "男子举报区长酒后亲吻搂抱其妻",
+        "onboard_time": 1729606820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252148,
+        "num": 252148,
+        "word": "金店撑不住了",
+        "onboard_time": 1729638196,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157485,
+        "num": 250612,
+        "word": "没想到罗慎远留的是遗书",
+        "onboard_time": 1729646177,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125488,
+        "num": 249890,
+        "word": "七夜雪 BE美学",
+        "onboard_time": 1729644199,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249797,
+        "num": 249797,
+        "word": "女子孕晚期肚子鼓包像犄角",
+        "onboard_time": 1729638915,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223918,
+        "num": 223918,
+        "word": "王者荣耀",
+        "onboard_time": 1729645878,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221131,
+        "num": 221131,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111325,
+        "num": 207588,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199859,
+        "num": 199859,
+        "word": "教育局回应学生带饭只能室外用餐",
+        "onboard_time": 1729629370,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194362,
+        "num": 194362,
+        "word": "神舟十九号发射",
+        "onboard_time": 1729618573,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193675,
+        "num": 193675,
+        "word": "每一帧都是霜降国风壁纸",
+        "onboard_time": 1729641619,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190588,
+        "num": 190588,
+        "word": "当地回应清北毕业生入职县级中学",
+        "onboard_time": 1729645457,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177484,
+        "num": 177484,
+        "word": "烧烤店老板娘说不担心打击报复",
+        "onboard_time": 1729642338,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165465,
+        "num": 165465,
+        "word": "NBA",
+        "onboard_time": 1729646419,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159507,
+        "num": 159507,
+        "word": "女子遭陌生男子扒衣跑隔壁店求救",
+        "onboard_time": 1729623192,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "份量逐渐增加的烤肉",
+        "onboard_time": 1729645457,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150056,
+        "num": 150056,
+        "word": "印度网友欢呼的大国工程是中国的",
+        "onboard_time": 1729617614,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134664,
+        "num": 134664,
+        "word": "1个月5大网红塌房",
+        "onboard_time": 1729593678,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133773,
+        "num": 133773,
+        "word": "神舟十九号蓄势待发",
+        "onboard_time": 1729646117,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133054,
+        "num": 133054,
+        "word": "节气里的大美中国",
+        "onboard_time": 1729647317,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126987,
+        "num": 126987,
+        "word": "高振宁解释破防原因",
+        "onboard_time": 1729643418,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 118759,
+        "word": "毒液3",
+        "onboard_time": 1729647676,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115371,
+        "num": 115371,
+        "word": "布林肯刚到以色列空中就响起爆炸声",
+        "onboard_time": 1729624571,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110609,
+        "num": 110609,
+        "word": "文化中国行看霜降节气",
+        "onboard_time": 1729639816,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行双边会晤#"
+    }
+  }
+}
