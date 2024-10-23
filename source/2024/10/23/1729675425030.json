@@ -1,0 +1,410 @@
+{
+  "runTime": 1729675425030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1363098,
+        "num": 1363098,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671722,
+        "num": 671722,
+        "word": "救护车送错医院致人死亡谁来担责",
+        "onboard_time": 1729664958,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36296,
+        "num": 637857,
+        "word": "五彩斑斓的秋天根本看不够",
+        "onboard_time": 1729671498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616532,
+        "num": 616532,
+        "word": "要回地球的航天员嘴角根本压不住",
+        "onboard_time": 1729670057,
+        "rank": 3,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 613928,
+        "num": 613928,
+        "word": "山取颜料师已被限制高消费",
+        "onboard_time": 1729658960,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482628,
+        "num": 482628,
+        "word": "杨天真补给",
+        "onboard_time": 1729668740,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25128,
+        "num": 455605,
+        "word": "遥感四十三号03组卫星发射成功",
+        "onboard_time": 1729670598,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439541,
+        "num": 439541,
+        "word": "清北博士生入职县级中学房补105万",
+        "onboard_time": 1729664839,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370232,
+        "num": 370232,
+        "word": "微信查删单向好友需人数先达1万",
+        "onboard_time": 1729659200,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 340393,
+        "num": 340393,
+        "word": "孙颖莎又去演讲了",
+        "onboard_time": 1729666338,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1157860,
+        "num": 332827,
+        "word": "澳门CoCo姐卖内裤月销千万元",
+        "onboard_time": 1729668798,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145260,
+        "num": 326910,
+        "word": "杨子 我能看你手机你不能看我",
+        "onboard_time": 1729672756,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 969489,
+        "num": 316934,
+        "word": "周雨彤路人缘",
+        "onboard_time": 1729672999,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641671,
+        "num": 306530,
+        "word": "东北雨姐租的院子有居住痕迹",
+        "onboard_time": 1729673419,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618037,
+        "num": 298873,
+        "word": "心疼陈好",
+        "onboard_time": 1729671617,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436022,
+        "num": 294835,
+        "word": "二本艺术生毕业成保洁员遭弟弟质问",
+        "onboard_time": 1729673718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410631,
+        "num": 286378,
+        "word": "黄圣依曾经把杨子写到歌词里",
+        "onboard_time": 1729668798,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278337,
+        "num": 278337,
+        "word": "千万网红吴迪涉嫌虚假宣传",
+        "onboard_time": 1729657699,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250041,
+        "num": 250041,
+        "word": "JENNIE新歌被KBS判定不合格",
+        "onboard_time": 1729668258,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25903,
+        "num": 249025,
+        "word": "小伙凌晨砸门偷刮刮乐被当场抓获",
+        "onboard_time": 1729674197,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356823,
+        "num": 247463,
+        "word": "4人合谋猥亵迷奸多名女性被抓",
+        "onboard_time": 1729664539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252062,
+        "num": 244020,
+        "word": "每天坚持晨跑5公里会怎样",
+        "onboard_time": 1729657639,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22829,
+        "num": 242721,
+        "word": "沈腾新片只有一句话",
+        "onboard_time": 1729673779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184611,
+        "num": 238955,
+        "word": "大众公司一高管因吸毒被遣送出境",
+        "onboard_time": 1729674856,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82320,
+        "num": 236292,
+        "word": "白宇焚城吼到缺氧花絮",
+        "onboard_time": 1729674258,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235636,
+        "num": 235636,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223541,
+        "num": 223541,
+        "word": "仁川人回应Ning风波",
+        "onboard_time": 1729672338,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192517,
+        "num": 192517,
+        "word": "山取",
+        "onboard_time": 1729674557,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177357,
+        "num": 192144,
+        "word": "北斗七行含金量",
+        "onboard_time": 1729664299,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174738,
+        "num": 191807,
+        "word": "张卫健有头发时的杀伤力",
+        "onboard_time": 1729669759,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200419,
+        "num": 191802,
+        "word": "赵露思方否认与刘宇宁三搭",
+        "onboard_time": 1729665858,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191790,
+        "num": 191790,
+        "word": "白鹿奔跑吧特别季录制收官",
+        "onboard_time": 1729674617,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191748,
+        "num": 191748,
+        "word": "这9平方公里有10处国家级宝藏",
+        "onboard_time": 1729670238,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183925,
+        "num": 183925,
+        "word": "60岁老人看店收银一年半偷30万",
+        "onboard_time": 1729674378,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164241,
+        "num": 175125,
+        "word": "花少6你的人脉我的人脉好像不一样",
+        "onboard_time": 1729664958,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167599,
+        "num": 167599,
+        "word": "外媒再曝以军用加沙平民作人肉盾牌",
+        "onboard_time": 1729668379,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164241,
+        "num": 164241,
+        "word": "男子买土豆被要求缴6%交易费",
+        "onboard_time": 1729671198,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153390,
+        "num": 153390,
+        "word": "省委书记暗访小学发现电脑不能用",
+        "onboard_time": 1729662139,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126587,
+        "num": 149837,
+        "word": "航天员在太空菜园种樱桃番茄",
+        "onboard_time": 1729675098,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148479,
+        "num": 148479,
+        "word": "24岁男生给爷爷奶奶改造厨房的一天",
+        "onboard_time": 1729672338,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144546,
+        "num": 144546,
+        "word": "呼兰涉黑案件曝光后张绪霞退出多家公司",
+        "onboard_time": 1729663038,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144222,
+        "num": 144222,
+        "word": "江西一男子拒服兵役受7项联合惩戒",
+        "onboard_time": 1729666997,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15700,
+        "num": 143043,
+        "word": "现在入职海底捞还来得及吗",
+        "onboard_time": 1729674258,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142701,
+        "num": 142701,
+        "word": "奶茶起名怎么越来越奇怪",
+        "onboard_time": 1729667899,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140414,
+        "num": 140414,
+        "word": "太空3人组打扫屋子迎接神十九",
+        "onboard_time": 1729665318,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139717,
+        "num": 139717,
+        "word": "医生建议不吃霜打瓜",
+        "onboard_time": 1729674317,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137941,
+        "num": 137941,
+        "word": "宋茜芭莎十一月刊封面预告",
+        "onboard_time": 1729670178,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133860,
+        "num": 133860,
+        "word": "孩子心地善良但视力不详",
+        "onboard_time": 1729671198,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132394,
+        "num": 132394,
+        "word": "河北正定一步千年具象化了",
+        "onboard_time": 1729670238,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129979,
+        "num": 129979,
+        "word": "毒液",
+        "onboard_time": 1729668618,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全球南方争取更多新机遇#"
+    }
+  }
+}
