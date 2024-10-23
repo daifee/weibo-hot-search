@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729654070524,
+  "endTime": 1729654952729,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2011003,
-      "num": 2011003,
+      "raw_hot": 2126064,
+      "num": 2126064,
       "word": "实锤山取团队摆拍",
       "onboard_time": 1729650077,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860577,
+      "num": 860577,
+      "word": "詹姆斯布朗尼父子同台",
+      "onboard_time": 1729652717,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 859451,
       "num": 859451,
       "word": "以色列总理住宅遭无人机袭击",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 607769,
-      "num": 469444,
+      "num": 508370,
       "word": "Rookie谈Ning事件",
       "onboard_time": 1729651517,
       "rank": 21,
@@ -113,6 +121,14 @@
       "onboard_time": 1729600700,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590012,
+      "num": 590012,
+      "word": "徐志胜淘汰感言爆哭",
+      "onboard_time": 1729649238,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 589292,
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532052,
-      "num": 532052,
-      "word": "徐志胜淘汰感言爆哭",
-      "onboard_time": 1729649238,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 520768,
       "num": 478668,
       "word": "霜降后好像一键入冬了",
       "onboard_time": 1729645457,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507208,
+      "num": 507208,
+      "word": "BLG战胜G2暂停真相",
+      "onboard_time": 1729653318,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 484514,
@@ -193,14 +209,6 @@
       "onboard_time": 1729643598,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479383,
-      "num": 479383,
-      "word": "詹姆斯布朗尼父子同台",
-      "onboard_time": 1729652717,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 452702,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382810,
+      "num": 475314,
+      "word": "美国多地麦当劳发生大肠杆菌感染",
+      "onboard_time": 1729651757,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377442,
       "num": 377442,
       "word": "陈好说短时间内不会再参加真人秀",
@@ -249,6 +265,14 @@
       "onboard_time": 1729587617,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346725,
+      "num": 382655,
+      "word": "唐朝诡事录3开机",
+      "onboard_time": 1729653137,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 336248,
@@ -315,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301754,
-      "num": 301754,
-      "word": "BLG战胜G2暂停真相",
-      "onboard_time": 1729653318,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 302387,
+      "num": 302387,
+      "word": "贾跃亭计划两年还清债务回国",
+      "onboard_time": 1729653258,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 292599,
@@ -385,14 +409,6 @@
       "onboard_time": 1729597399,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 256909,
-      "num": 312062,
-      "word": "唐朝诡事录3开机",
-      "onboard_time": 1729653137,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 253655,
@@ -475,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212422,
-      "num": 212422,
-      "word": "贾跃亭计划两年还清债务回国",
-      "onboard_time": 1729653258,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 215572,
+      "num": 215572,
+      "word": "近千个家庭收到长安街摆放过的鲜花",
+      "onboard_time": 1729654097,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211307,
@@ -491,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205171,
-      "num": 475314,
-      "word": "美国多地麦当劳发生大肠杆菌感染",
-      "onboard_time": 1729651757,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 204430,
+      "num": 204430,
+      "word": "禹庆准退队",
+      "onboard_time": 1729654338,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203965,
+      "num": 321403,
+      "word": "披荆斩棘4手绘名场面海报",
+      "onboard_time": 1729654278,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 200266,
@@ -539,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188543,
+      "num": 380138,
+      "word": "男子辗轧妻子被诉过失致人死亡罪",
+      "onboard_time": 1729652058,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187554,
+      "num": 187554,
+      "word": "宝蓝说不会力挺Ning",
+      "onboard_time": 1729651638,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177484,
       "num": 177484,
       "word": "烧烤店老板娘说不担心打击报复",
@@ -563,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171249,
-      "num": 171249,
-      "word": "宝蓝说不会力挺Ning",
-      "onboard_time": 1729651638,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 165465,
       "num": 165465,
       "word": "NBA",
@@ -585,6 +617,14 @@
       "onboard_time": 1729612039,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163086,
+      "num": 163086,
+      "word": "詹姆斯第22个赛季平历史纪录",
+      "onboard_time": 1729653617,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 162638,
@@ -627,11 +667,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154858,
+      "num": 154858,
+      "word": "小米电视",
+      "onboard_time": 1729654819,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150944,
       "num": 277235,
       "word": "杭州地铁将投运130列无人驾驶列车",
       "onboard_time": 1729638196,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150672,
+      "num": 150672,
+      "word": "孩子家门口玩荡椅致头部重伤身亡",
+      "onboard_time": 1729654638,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -649,6 +705,14 @@
       "onboard_time": 1729617614,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 149424,
+      "num": 149424,
+      "word": "库克来微博扫楼",
+      "onboard_time": 1729654578,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 148163,
@@ -683,12 +747,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143664,
+      "num": 143664,
+      "word": "赛力斯",
+      "onboard_time": 1729654757,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140203,
       "num": 140203,
       "word": "凯尔特人追平NBA单场三分纪录",
       "onboard_time": 1729651817,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138213,
+      "num": 138213,
+      "word": "丈夫碾压妻子致死案进行三次尸检",
+      "onboard_time": 1729654697,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137903,
@@ -724,7 +804,7 @@
     },
     {
       "raw_hot": 129161,
-      "num": 914139,
+      "num": 931655,
       "word": "文化中国行看霜降节气",
       "onboard_time": 1729639816,
       "rank": 32,
@@ -755,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123690,
-      "num": 123690,
-      "word": "男子辗轧妻子被诉过失致人死亡罪",
-      "onboard_time": 1729652058,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121878,
       "num": 121878,
       "word": "2025考研",
@@ -777,14 +849,6 @@
       "onboard_time": 1729592542,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119903,
-      "num": 119903,
-      "word": "詹姆斯第22个赛季平历史纪录",
-      "onboard_time": 1729653617,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 119133,
@@ -1043,8 +1107,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43091,
+      "num": 508792,
+      "word": "教你一眼看穿日用品广告的文字游戏",
+      "onboard_time": 1729654398,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38923,
-      "num": 390890,
+      "num": 420612,
       "word": "北京地铁回应二号线故障",
       "onboard_time": 1729653857,
       "rank": 13,
@@ -1084,7 +1156,7 @@
     },
     {
       "raw_hot": 34871,
-      "num": 669921,
+      "num": 674235,
       "word": "万千气象看北京",
       "onboard_time": 1729652177,
       "rank": 7,

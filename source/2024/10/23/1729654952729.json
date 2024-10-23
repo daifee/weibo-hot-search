@@ -1,0 +1,410 @@
+{
+  "runTime": 1729654952729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126064,
+        "num": 2126064,
+        "word": "实锤山取团队摆拍",
+        "onboard_time": 1729650077,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007299,
+        "num": 1007299,
+        "word": "唐朝诡事录之长安换导演",
+        "onboard_time": 1729650018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20975,
+        "num": 931655,
+        "word": "文化中国行看霜降节气",
+        "onboard_time": 1729639816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860577,
+        "num": 860577,
+        "word": "詹姆斯布朗尼父子同台",
+        "onboard_time": 1729652717,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 833677,
+        "num": 833677,
+        "word": "有人卖黄金一单变现234万",
+        "onboard_time": 1729641139,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34036,
+        "num": 674235,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667250,
+        "num": 667250,
+        "word": "山取回应",
+        "onboard_time": 1729652418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590012,
+        "num": 590012,
+        "word": "徐志胜淘汰感言爆哭",
+        "onboard_time": 1729649238,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569696,
+        "num": 569696,
+        "word": "10万多水军每个账号背后都是真人",
+        "onboard_time": 1729648157,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43091,
+        "num": 508792,
+        "word": "教你一眼看穿日用品广告的文字游戏",
+        "onboard_time": 1729654398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570629,
+        "num": 508370,
+        "word": "Rookie谈Ning事件",
+        "onboard_time": 1729651517,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 507208,
+        "num": 507208,
+        "word": "BLG战胜G2暂停真相",
+        "onboard_time": 1729653318,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 436075,
+        "num": 436075,
+        "word": "微信内测查删单向好友功能",
+        "onboard_time": 1729610540,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31524,
+        "num": 420612,
+        "word": "北京地铁回应二号线故障",
+        "onboard_time": 1729653857,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418634,
+        "num": 418634,
+        "word": "邱贻可说孙颖莎也有疲劳的时候",
+        "onboard_time": 1729650677,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382810,
+        "num": 382810,
+        "word": "美国多地麦当劳发生大肠杆菌感染",
+        "onboard_time": 1729651757,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346725,
+        "num": 382655,
+        "word": "唐朝诡事录3开机",
+        "onboard_time": 1729653137,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287659,
+        "num": 381494,
+        "word": "毒液3",
+        "onboard_time": 1729647676,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270971,
+        "num": 380921,
+        "word": "肖战纯素颜开机路透",
+        "onboard_time": 1729639215,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188543,
+        "num": 380138,
+        "word": "男子辗轧妻子被诉过失致人死亡罪",
+        "onboard_time": 1729652058,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380071,
+        "num": 380071,
+        "word": "老伯报警打死护工吓坏接警员",
+        "onboard_time": 1729642098,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367361,
+        "num": 367361,
+        "word": "以色列总理住宅遭无人机袭击",
+        "onboard_time": 1729646357,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203965,
+        "num": 321403,
+        "word": "披荆斩棘4手绘名场面海报",
+        "onboard_time": 1729654278,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306485,
+        "num": 306485,
+        "word": "霜降后好像一键入冬了",
+        "onboard_time": 1729645457,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302387,
+        "num": 302387,
+        "word": "贾跃亭计划两年还清债务回国",
+        "onboard_time": 1729653258,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269397,
+        "num": 269397,
+        "word": "金价要涨到什么时候",
+        "onboard_time": 1729650619,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238892,
+        "num": 238892,
+        "word": "霜降是秋天的第六个节气",
+        "onboard_time": 1729646478,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223501,
+        "num": 223501,
+        "word": "邱贻可回应全网都在心疼孙颖莎",
+        "onboard_time": 1729648816,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126003,
+        "num": 218427,
+        "word": "得闲谨制开机",
+        "onboard_time": 1729642519,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90101,
+        "num": 216024,
+        "word": "徐志胜第6",
+        "onboard_time": 1729645398,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215572,
+        "num": 215572,
+        "word": "近千个家庭收到长安街摆放过的鲜花",
+        "onboard_time": 1729654097,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204430,
+        "num": 204430,
+        "word": "禹庆准退队",
+        "onboard_time": 1729654338,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196739,
+        "num": 196739,
+        "word": "Ning拒绝背王多多的诗",
+        "onboard_time": 1729641738,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187554,
+        "num": 187554,
+        "word": "宝蓝说不会力挺Ning",
+        "onboard_time": 1729651638,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173161,
+        "num": 173161,
+        "word": "团伙打着躺赚噱头招人入伙先交会费",
+        "onboard_time": 1729650018,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167339,
+        "num": 167339,
+        "word": "没下单快递却要送30件冰箱上门",
+        "onboard_time": 1729606459,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163086,
+        "num": 163086,
+        "word": "詹姆斯第22个赛季平历史纪录",
+        "onboard_time": 1729653617,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159709,
+        "num": 159709,
+        "word": "天蝎座生日快乐",
+        "onboard_time": 1729641677,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154858,
+        "num": 154858,
+        "word": "小米电视",
+        "onboard_time": 1729654819,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150672,
+        "num": 150672,
+        "word": "孩子家门口玩荡椅致头部重伤身亡",
+        "onboard_time": 1729654638,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149424,
+        "num": 149424,
+        "word": "库克来微博扫楼",
+        "onboard_time": 1729654578,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143664,
+        "num": 143664,
+        "word": "赛力斯",
+        "onboard_time": 1729654757,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138213,
+        "num": 138213,
+        "word": "丈夫碾压妻子致死案进行三次尸检",
+        "onboard_time": 1729654697,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137551,
+        "num": 137551,
+        "word": "金店撑不住了",
+        "onboard_time": 1729638196,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132951,
+        "num": 132951,
+        "word": "没工作骗妈妈出门上班",
+        "onboard_time": 1729641017,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130649,
+        "num": 130649,
+        "word": "节气里的大美中国",
+        "onboard_time": 1729647317,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127421,
+        "num": 127421,
+        "word": "上山采茶籽捡到6只长得像猴的小鸟",
+        "onboard_time": 1729643598,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126959,
+        "num": 126959,
+        "word": "霜降",
+        "onboard_time": 1729638855,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119143,
+        "num": 119143,
+        "word": "00后女警被审讯对象气到捶墙",
+        "onboard_time": 1729607480,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69880,
+        "num": 117950,
+        "word": "白鹿奔跑吧特别季录制结束哭了",
+        "onboard_time": 1729612639,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平俄罗斯喀山之行#"
+    }
+  }
+}
