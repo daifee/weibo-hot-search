@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729665086229,
+  "endTime": 1729665893829,
   "band_list": [
     {
       "raw_hot": 6591637,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1637567,
+      "num": 1637567,
+      "word": "花少 剧本",
+      "onboard_time": 1729662918,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1607079,
       "num": 1607079,
       "word": "山取颜料师已被限制高消费",
@@ -65,14 +73,6 @@
       "onboard_time": 1729641139,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1439318,
-      "num": 1439318,
-      "word": "花少 剧本",
-      "onboard_time": 1729662918,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1419856,
@@ -171,20 +171,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 777724,
+      "num": 450383,
+      "word": "没有了东北雨姐的磨石峪村",
+      "onboard_time": 1729661298,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "徐志胜淘汰感言爆哭",
       "onboard_time": 1729649238,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716651,
-      "num": 450383,
-      "word": "没有了东北雨姐的磨石峪村",
-      "onboard_time": 1729661298,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 699831,
@@ -209,6 +209,14 @@
       "onboard_time": 1729657639,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 672531,
+      "num": 308776,
+      "word": "4人合谋猥亵迷奸多名女性被抓",
+      "onboard_time": 1729664539,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669772,
@@ -243,6 +251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 603060,
+      "num": 603060,
+      "word": "网友曝价值百万元花灯被景区暴力拆除",
+      "onboard_time": 1729659859,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592360,
       "num": 592360,
       "word": "战狼还是拍保守了",
@@ -255,14 +271,6 @@
       "num": 295537,
       "word": "四川警方发布无名尸体认领公告",
       "onboard_time": 1729612818,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588864,
-      "num": 588864,
-      "word": "网友曝价值百万元花灯被景区暴力拆除",
-      "onboard_time": 1729659859,
       "rank": 13,
       "category": "社会新闻"
     },
@@ -419,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438832,
+      "num": 438832,
+      "word": "花少 坦桑尼亚行程",
+      "onboard_time": 1729663276,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414987,
       "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
       "onboard_time": 1729648816,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411245,
+      "num": 314308,
+      "word": "花少6你的人脉我的人脉好像不一样",
+      "onboard_time": 1729664958,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 402668,
@@ -435,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391767,
-      "num": 391767,
-      "word": "花少 坦桑尼亚行程",
-      "onboard_time": 1729663276,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 386803,
+      "num": 310112,
+      "word": "呼兰涉黑案件曝光后张绪霞退出多家公司",
+      "onboard_time": 1729663038,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385564,
@@ -464,6 +488,14 @@
       "word": "花少 4个人吃9人餐",
       "onboard_time": 1729587617,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347775,
+      "num": 347775,
+      "word": "北斗七行含金量",
+      "onboard_time": 1729664299,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -523,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315646,
+      "num": 315646,
+      "word": "清北博士生入职县级中学房补105万",
+      "onboard_time": 1729664839,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315268,
       "num": 471479,
       "word": "毒液3",
@@ -547,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306619,
+      "num": 306619,
+      "word": "花儿与少年节目组",
+      "onboard_time": 1729663518,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305140,
       "num": 305140,
       "word": "早安结婚 rapper在台上battle",
@@ -569,14 +617,6 @@
       "onboard_time": 1729653258,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 299281,
-      "num": 299281,
-      "word": "4人合谋猥亵迷奸多名女性被抓",
-      "onboard_time": 1729664539,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293773,
@@ -609,14 +649,6 @@
       "onboard_time": 1729641017,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281269,
-      "num": 299381,
-      "word": "呼兰涉黑案件曝光后张绪霞退出多家公司",
-      "onboard_time": 1729663038,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275101,
@@ -667,28 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253503,
-      "num": 253503,
-      "word": "北斗七行含金量",
-      "onboard_time": 1729664299,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252148,
       "num": 252148,
       "word": "金店撑不住了",
       "onboard_time": 1729638196,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 251389,
-      "num": 296167,
-      "word": "花儿与少年节目组",
-      "onboard_time": 1729663518,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 249530,
@@ -729,6 +745,14 @@
       "onboard_time": 1729607720,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230577,
+      "num": 230577,
+      "word": "张杰成都站官宣",
+      "onboard_time": 1729665019,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 229726,
@@ -803,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211105,
-      "num": 211105,
-      "word": "张杰成都站官宣",
-      "onboard_time": 1729665019,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208506,
       "num": 380138,
       "word": "男子辗轧妻子被诉过失致人死亡罪",
@@ -833,6 +849,14 @@
       "onboard_time": 1729654338,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204198,
+      "num": 204198,
+      "word": "王者荣耀共创之夜全阵容海报",
+      "onboard_time": 1729665138,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 203965,
@@ -931,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186825,
+      "num": 186825,
+      "word": "警犬福仔已经有班味儿了",
+      "onboard_time": 1729664899,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184761,
       "num": 379251,
       "word": "中国代表三次还击美方攻击抹黑",
@@ -977,6 +1009,14 @@
       "onboard_time": 1729657278,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "Bin AD凯南",
+      "onboard_time": 1729662439,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 165465,
@@ -1035,12 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159945,
-      "num": 159945,
-      "word": "Bin AD凯南",
-      "onboard_time": 1729662439,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 159710,
+      "num": 228408,
+      "word": "您优雅的穿衣节奏已被打乱",
+      "onboard_time": 1729663999,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158579,
@@ -1075,19 +1115,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 154745,
-      "num": 228408,
-      "word": "您优雅的穿衣节奏已被打乱",
-      "onboard_time": 1729663999,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153030,
-      "num": 153030,
-      "word": "清北博士生入职县级中学房补105万",
-      "onboard_time": 1729664839,
-      "rank": 42,
+      "raw_hot": 153387,
+      "num": 153387,
+      "word": "太空3人组打扫屋子迎接神十九",
+      "onboard_time": 1729665318,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1129,14 +1161,6 @@
       "onboard_time": 1729617614,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 149000,
-      "num": 149000,
-      "word": "花少6你的人脉我的人脉好像不一样",
-      "onboard_time": 1729664958,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 148540,
@@ -1203,6 +1227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134915,
+      "num": 311987,
+      "word": "毒液20分钟毁灭大战",
+      "onboard_time": 1729665378,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133773,
       "num": 170128,
       "word": "神舟十九号蓄势待发",
@@ -1224,6 +1256,14 @@
       "word": "3岁加沙男童被援助物资砸死",
       "onboard_time": 1729589958,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130770,
+      "num": 396713,
+      "word": "客运站投资2亿建成3年没卖出1张票",
+      "onboard_time": 1729663219,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1305,14 @@
       "onboard_time": 1729614316,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121283,
+      "num": 121283,
+      "word": "赵露思方否认与刘宇宁三搭",
+      "onboard_time": 1729665858,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120766,
@@ -1312,14 +1360,6 @@
       "word": "教师称网络热梗泛滥对学生影响太大",
       "onboard_time": 1729646117,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113052,
-      "num": 396713,
-      "word": "客运站投资2亿建成3年没卖出1张票",
-      "onboard_time": 1729663219,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
