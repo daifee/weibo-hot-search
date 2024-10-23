@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729672152716,
+  "endTime": 1729672995225,
   "band_list": [
     {
       "raw_hot": 6591637,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1701485,
+      "num": 448481,
+      "word": "澳门CoCo姐卖内裤月销千万元",
+      "onboard_time": 1729668798,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1690489,
       "num": 1690489,
       "word": "花少 剧本",
@@ -48,14 +56,6 @@
       "word": "山取颜料师已被限制高消费",
       "onboard_time": 1729658960,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1600998,
-      "num": 448481,
-      "word": "澳门CoCo姐卖内裤月销千万元",
-      "onboard_time": 1729668798,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700815,
+      "num": 700815,
+      "word": "杨天真补给",
+      "onboard_time": 1729668740,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699831,
       "num": 699831,
       "word": "小米电视",
@@ -257,14 +265,6 @@
       "onboard_time": 1729648157,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693898,
-      "num": 693898,
-      "word": "杨天真补给",
-      "onboard_time": 1729668740,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 692115,
@@ -297,6 +297,14 @@
       "onboard_time": 1729658479,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 637438,
+      "num": 637438,
+      "word": "要回地球的航天员嘴角根本压不住",
+      "onboard_time": 1729670057,
+      "rank": 13,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 633284,
@@ -507,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432701,
+      "num": 432701,
+      "word": "心疼陈好",
+      "onboard_time": 1729671617,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 427140,
+      "num": 427140,
+      "word": "这9平方公里有10处国家级宝藏",
+      "onboard_time": 1729670238,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417474,
       "num": 417474,
       "word": "北斗七行含金量",
@@ -521,14 +545,6 @@
       "onboard_time": 1729648816,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 414510,
-      "num": 414510,
-      "word": "要回地球的航天员嘴角根本压不住",
-      "onboard_time": 1729670057,
-      "rank": 13,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 402668,
@@ -569,14 +585,6 @@
       "onboard_time": 1729587617,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348107,
-      "num": 348107,
-      "word": "这9平方公里有10处国家级宝藏",
-      "onboard_time": 1729670238,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346725,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264987,
+      "num": 264987,
+      "word": "杨子 我能看你手机你不能看我",
+      "onboard_time": 1729672756,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264167,
       "num": 264167,
       "word": "纯血鸿蒙",
@@ -843,11 +859,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 236385,
+      "num": 236385,
+      "word": "仁川人回应Ning风波",
+      "onboard_time": 1729672338,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234466,
       "num": 234466,
       "word": "爸爸找回失散38年儿子后痛哭道歉",
       "onboard_time": 1729607720,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231741,
+      "num": 231741,
+      "word": "河北正定一步千年具象化了",
+      "onboard_time": 1729670238,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -859,19 +891,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230543,
+      "num": 230542,
+      "word": "孩子心地善良但视力不详",
+      "onboard_time": 1729671198,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229726,
       "num": 229726,
       "word": "北京前副市长骗取经济学博士学位",
       "onboard_time": 1729598718,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228501,
-      "num": 228501,
-      "word": "河北正定一步千年具象化了",
-      "onboard_time": 1729670238,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -977,14 +1009,6 @@
       "onboard_time": 1729660098,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205935,
-      "num": 205935,
-      "word": "心疼陈好",
-      "onboard_time": 1729671617,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 205849,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 189848,
-      "num": 207102,
+      "num": 230894,
       "word": "张卫健有头发时的杀伤力",
       "onboard_time": 1729669759,
       "rank": 28,
@@ -1188,19 +1212,11 @@
     },
     {
       "raw_hot": 175484,
-      "num": 206311,
+      "num": 230543,
       "word": "谭松韵新剧班底",
       "onboard_time": 1729671498,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174351,
-      "num": 174351,
-      "word": "孩子心地善良但视力不详",
-      "onboard_time": 1729671198,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 174025,
@@ -1323,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155370,
+      "num": 155370,
+      "word": "男子买土豆被要求缴6%交易费",
+      "onboard_time": 1729671198,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153004,
       "num": 153004,
       "word": "湖人揭幕战终于赢了",
@@ -1419,6 +1443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141613,
+      "num": 141613,
+      "word": "A股",
+      "onboard_time": 1729611499,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140203,
       "num": 140203,
       "word": "凯尔特人追平NBA单场三分纪录",
@@ -1435,14 +1467,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 134660,
-      "num": 134660,
-      "word": "A股",
-      "onboard_time": 1729611499,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 133773,
       "num": 170128,
       "word": "神舟十九号蓄势待发",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1729647317,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132904,
+      "num": 132904,
+      "word": "24岁男生给爷爷奶奶改造厨房的一天",
+      "onboard_time": 1729672338,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 132301,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1729638495,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128151,
+      "num": 128151,
+      "word": "吴建豪给公园大爷拍时尚大片",
+      "onboard_time": 1729672219,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 128109,
@@ -1515,19 +1555,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 121046,
-      "num": 121046,
-      "word": "男子买土豆被要求缴6%交易费",
-      "onboard_time": 1729671198,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120766,
       "num": 120766,
       "word": "马尔代夫潜水溺亡医学博士为家中独子",
       "onboard_time": 1729592542,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120001,
+      "num": 120001,
+      "word": "俄罗斯人开始用中国式茶具喝茶",
+      "onboard_time": 1729670658,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1875,6 +1915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38769,
+      "num": 813328,
+      "word": "五彩斑斓的秋天根本看不够",
+      "onboard_time": 1729671498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37796,
+      "num": 528662,
+      "word": "遥感四十三号03组卫星发射成功",
+      "onboard_time": 1729670598,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37039,
       "num": 67080,
       "word": "书墨越秦线",
@@ -1947,15 +2003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33371,
-      "num": 506584,
-      "word": "遥感四十三号03组卫星发射成功",
-      "onboard_time": 1729670598,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 30138,
+      "raw_hot": 31469,
       "num": 449198,
       "word": "请为新A0NG25让行",
       "onboard_time": 1729671978,
@@ -1969,14 +2017,6 @@
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29230,
-      "num": 813328,
-      "word": "五彩斑斓的秋天根本看不够",
-      "onboard_time": 1729671498,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26778,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1729621093,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22128,
+      "num": 428889,
+      "word": "沪指收复3300点A股成交近2万亿",
+      "onboard_time": 1729672458,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 21418,
