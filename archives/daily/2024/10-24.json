@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729719333633,
+  "endTime": 1729722104374,
   "band_list": [
     {
       "raw_hot": 1837166,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189989,
+      "num": 375554,
+      "word": "江西张某某拒服兵役性质恶劣被罚",
+      "onboard_time": 1729716730,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143613,
       "num": 143613,
       "word": "民政部鼓励婚姻登记设在公园",
@@ -403,16 +411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69495,
-      "num": 69495,
-      "word": "江西张某某拒服兵役性质恶劣被罚",
-      "onboard_time": 1729716730,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61726,
-      "num": 61726,
+      "raw_hot": 67592,
+      "num": 67592,
       "word": "团伙直播间卖假鞋封一个就再开一个",
       "onboard_time": 1729711151,
       "rank": 9,
@@ -475,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35804,
+      "num": 35804,
+      "word": "医院回应女职工被举报出轨",
+      "onboard_time": 1729715770,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35407,
       "num": 49448,
       "word": "林诗栋3比0罗伯勒斯",
       "onboard_time": 1729702335,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33373,
+      "num": 33373,
+      "word": "奶茶名越卷越嗲让人怎么念",
+      "onboard_time": 1729718590,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30996,
@@ -499,12 +515,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23948,
-      "num": 23948,
-      "word": "医院回应女职工被举报出轨",
-      "onboard_time": 1729715770,
-      "rank": 44,
+      "raw_hot": 26235,
+      "num": 38762,
+      "word": "商户回应游客在景德镇捡瓷器",
+      "onboard_time": 1729714691,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25979,
+      "num": 29550,
+      "word": "伊朗沙特将在红海举行联合军演",
+      "onboard_time": 1729718471,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 23920,
@@ -523,14 +547,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 23638,
-      "num": 38762,
-      "word": "商户回应游客在景德镇捡瓷器",
-      "onboard_time": 1729714691,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23396,
       "num": 29742,
       "word": "中俄世代友好的深厚情谊不会变",
@@ -539,11 +555,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18569,
+      "raw_hot": 21608,
       "num": 27994,
       "word": "警犬福仔也逃不过班味",
       "onboard_time": 1729715291,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20125,
+      "num": 54501,
+      "word": "民族元素给校服界一点震撼",
+      "onboard_time": 1729720511,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -560,22 +584,6 @@
       "word": "警惕家中老年人遭受保健品杀猪盘",
       "onboard_time": 1729707613,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14417,
-      "num": 29550,
-      "word": "伊朗沙特将在红海举行联合军演",
-      "onboard_time": 1729718471,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 14147,
-      "num": 25875,
-      "word": "奶茶名越卷越嗲让人怎么念",
-      "onboard_time": 1729718590,
-      "rank": 30,
       "category": "社会新闻"
     }
   ],
