@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 00:28:17
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 00:45:50
 </p>
 </blockquote>
 <p>
@@ -5229,6 +5229,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%87%B6%E6%89%8B%E5%85%AC%E5%BC%80%E6%9D%80%E5%AE%B3%E5%85%B6%E5%BC%9F%E5%90%8E%E8%BF%98%E5%90%91%E5%91%A8%E5%9B%B4%E7%82%AB%E8%80%80%23" target="weibo">
+女子称凶手公开杀害其弟后还向周围炫耀（热度：832487）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E6%8B%8D%E5%86%99%E7%9C%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 哀牢山拍写真当事人回应质疑（热度：832380）
 </a>
@@ -6005,12 +6011,6 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%98%AF%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%A0%B5%E8%BD%A6%E7%9A%84%E7%A8%8B%E5%BA%A6%23" target="weibo">
 还是低估了国庆假期堵车的程度（热度：762775）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%942%E6%88%98%E8%83%9C%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
-孙颖莎4比2战胜王曼昱（热度：762356）
 </a>
 </li>
 
