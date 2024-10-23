@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729697061125,
+  "endTime": 1729697950115,
   "band_list": [
     {
       "raw_hot": 6591637,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990895,
+      "num": 412123,
+      "word": "大连一男子在水产市场遭杀害",
+      "onboard_time": 1729696220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 975682,
       "num": 975682,
       "word": "女子做易拉宝举报丈夫出轨医院职工",
@@ -273,6 +281,14 @@
       "onboard_time": 1729685657,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931306,
+      "num": 931306,
+      "word": "选特朗普打印出来变哈里斯",
+      "onboard_time": 1729696579,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 919075,
@@ -481,6 +497,14 @@
       "onboard_time": 1729658479,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 664780,
+      "num": 353706,
+      "word": "医学生侮辱大体老师引舆论哗然",
+      "onboard_time": 1729695260,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637438,
@@ -819,14 +843,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 412123,
-      "num": 412123,
-      "word": "大连一男子在水产市场遭杀害",
-      "onboard_time": 1729696220,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408124,
       "num": 350569,
       "word": "11岁女孩只爱吃荤胸部长5个肿瘤",
@@ -865,14 +881,6 @@
       "onboard_time": 1729601240,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 370063,
-      "num": 370063,
-      "word": "选特朗普打印出来变哈里斯",
-      "onboard_time": 1729696579,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 361838,
@@ -1083,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277693,
+      "num": 277693,
+      "word": "黄金",
+      "onboard_time": 1729695620,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 275101,
       "num": 275101,
       "word": "金价要涨到什么时候",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1729682960,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 253849,
+      "num": 253849,
+      "word": "女网红曝光厦门一干部同时出轨多人",
+      "onboard_time": 1729696518,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253655,
@@ -1387,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215884,
+      "num": 215884,
+      "word": "有种抑郁叫缺维生素D",
+      "onboard_time": 1729693880,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215466,
       "num": 379840,
       "word": "外媒再曝以军用加沙平民作人肉盾牌",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1729695559,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209285,
-      "num": 209285,
-      "word": "女网红曝光厦门一干部同时出轨多人",
-      "onboard_time": 1729696518,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208506,
@@ -1699,22 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189142,
-      "num": 189142,
-      "word": "有种抑郁叫缺维生素D",
-      "onboard_time": 1729693880,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 188376,
-      "num": 188376,
-      "word": "黄金",
-      "onboard_time": 1729695620,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 187554,
       "num": 187554,
       "word": "宝蓝说不会力挺Ning",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1729657699,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 182013,
-      "num": 353706,
-      "word": "医学生侮辱大体老师引舆论哗然",
-      "onboard_time": 1729695260,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181807,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1729660999,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162341,
+      "num": 201671,
+      "word": "权志龙将推迟回归",
+      "onboard_time": 1729696820,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 162047,
@@ -2275,14 +2283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130149,
-      "num": 130149,
-      "word": "权志龙将推迟回归",
-      "onboard_time": 1729696820,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 129796,
       "num": 129796,
       "word": "火车电子发票给你整明明白白",
@@ -2515,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108008,
+      "num": 108008,
+      "word": "太原通报双胞胎待产时死亡调查情况",
+      "onboard_time": 1729697240,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102484,
       "num": 370181,
       "word": "ILLIT元气",
@@ -2571,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91710,
+      "num": 301167,
+      "word": "土耳其首都工厂遭恐袭已致3死14伤",
+      "onboard_time": 1729695860,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90849,
       "num": 90849,
       "word": "Mate70什么时候上",
@@ -2596,7 +2612,7 @@
     },
     {
       "raw_hot": 87847,
-      "num": 757684,
+      "num": 783499,
       "word": "俄罗斯人为什么喜欢送面包和盐",
       "onboard_time": 1729692438,
       "rank": 2,
@@ -2649,6 +2665,14 @@
       "onboard_time": 1729674258,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81956,
+      "num": 367990,
+      "word": "网约车司机1分钟完单骗取平台3千元",
+      "onboard_time": 1729696039,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79708,
@@ -2760,14 +2784,6 @@
       "word": "如何解救困在直播间的老人",
       "onboard_time": 1729656199,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60946,
-      "num": 367990,
-      "word": "网约车司机1分钟完单骗取平台3千元",
-      "onboard_time": 1729696039,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3011,6 +3027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32677,
+      "num": 269566,
+      "word": "起底山取颜料师商业版图",
+      "onboard_time": 1729697359,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31469,
       "num": 449198,
       "word": "请为新A0NG25让行",
@@ -3067,7 +3091,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22954,
+      "raw_hot": 24887,
       "num": 310718,
       "word": "NPD不能理解他人的感受和需求",
       "onboard_time": 1729696279,
@@ -3097,6 +3121,14 @@
       "onboard_time": 1729624991,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 19249,
+      "num": 142797,
+      "word": "宝宝巴士如何隐藏B柱",
+      "onboard_time": 1729694720,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 18168,
@@ -3129,14 +3161,6 @@
       "onboard_time": 1729628650,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16143,
-      "num": 142797,
-      "word": "宝宝巴士如何隐藏B柱",
-      "onboard_time": 1729694720,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 13877,
