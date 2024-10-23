@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729705092710,
+  "endTime": 1729708189607,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -58243,6 +58243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75856,
+      "num": 75856,
+      "word": "加沙女孩光脚扛受伤妹妹求医",
+      "onboard_time": 1729705334,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 75802,
       "num": 103718,
       "word": "肖战 月亮代表我的心",
@@ -60145,6 +60153,14 @@
       "onboard_time": 1729097296,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60743,
+      "num": 60743,
+      "word": "独居一年的31平米小家",
+      "onboard_time": 1729704194,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 60690,
@@ -63137,14 +63153,6 @@
       "onboard_time": 1727829978,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43265,
-      "num": 43265,
-      "word": "独居一年的31平米小家",
-      "onboard_time": 1729704194,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 43239,
@@ -67795,6 +67803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23920,
+      "num": 26102,
+      "word": "檀健次巡演成都站官宣",
+      "onboard_time": 1729708031,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23819,
       "num": 314913,
       "word": "律师解读宣判后余华英还能否上诉",
@@ -68497,6 +68513,14 @@
       "onboard_time": 1728933612,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21234,
+      "num": 74449,
+      "word": "矿业律师解读山取带走矿石",
+      "onboard_time": 1729706773,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21210,
