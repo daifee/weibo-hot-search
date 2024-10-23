@@ -1,0 +1,410 @@
+{
+  "runTime": 1729680087862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617385,
+        "num": 1617385,
+        "word": "双胞胎待产时死亡官方将组织调解",
+        "onboard_time": 1729677978,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1504099,
+        "num": 1504099,
+        "word": "官方回应跟同一人离婚复婚能否休假",
+        "onboard_time": 1729676899,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20200,
+        "num": 1175665,
+        "word": "五彩斑斓的秋天根本看不够",
+        "onboard_time": 1729671498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984361,
+        "num": 984361,
+        "word": "东北雨姐租的院子有居住痕迹",
+        "onboard_time": 1729673419,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 941937,
+        "num": 941937,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641346,
+        "num": 641346,
+        "word": "Ning投降认输",
+        "onboard_time": 1729675457,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 529987,
+        "num": 529987,
+        "word": "山取颜料师已被限制高消费",
+        "onboard_time": 1729658960,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466910,
+        "num": 466910,
+        "word": "大众公司一高管因吸毒被遣送出境",
+        "onboard_time": 1729674856,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356254,
+        "num": 356254,
+        "word": "救护车送错医院致人死亡谁来担责",
+        "onboard_time": 1729664958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232191,
+        "num": 347609,
+        "word": "杨天真补给",
+        "onboard_time": 1729668740,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1247915,
+        "num": 326820,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663496,
+        "num": 316882,
+        "word": "二本艺术生毕业成保洁员遭弟弟质问",
+        "onboard_time": 1729673718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659327,
+        "num": 298360,
+        "word": "杨子 我能看你手机你不能看我",
+        "onboard_time": 1729672756,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629723,
+        "num": 285416,
+        "word": "周雨彤路人缘",
+        "onboard_time": 1729672999,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275458,
+        "num": 275458,
+        "word": "以军导弹瞬间炸塌10层高楼",
+        "onboard_time": 1729677138,
+        "rank": 14,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 486371,
+        "num": 271706,
+        "word": "澳门CoCo姐卖内裤月销千万元",
+        "onboard_time": 1729668798,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320096,
+        "num": 270871,
+        "word": "心疼陈好",
+        "onboard_time": 1729671617,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262366,
+        "num": 262366,
+        "word": "清北博士生入职县级中学房补105万",
+        "onboard_time": 1729664839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195442,
+        "num": 254873,
+        "word": "张卫健有头发时的杀伤力",
+        "onboard_time": 1729669759,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189598,
+        "num": 250010,
+        "word": "smtown",
+        "onboard_time": 1729675517,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249520,
+        "num": 249520,
+        "word": "山取闯哀牢山采矿到底合规吗",
+        "onboard_time": 1729679598,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 383495,
+        "num": 248900,
+        "word": "毕业六年后整个寝室整整齐齐的自驾",
+        "onboard_time": 1729678938,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273443,
+        "num": 246993,
+        "word": "4人合谋猥亵迷奸多名女性被抓",
+        "onboard_time": 1729664539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244169,
+        "num": 244169,
+        "word": "孙颖莎又去演讲了",
+        "onboard_time": 1729666338,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242490,
+        "num": 242490,
+        "word": "油价",
+        "onboard_time": 1729678277,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29861,
+        "num": 242482,
+        "word": "卧底揭秘短视频培训公司反维权套路",
+        "onboard_time": 1729678157,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170839,
+        "num": 242454,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1729678398,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165715,
+        "num": 242434,
+        "word": "JENNIE新歌被KBS判定不合格",
+        "onboard_time": 1729668258,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33356,
+        "num": 242409,
+        "word": "大学生拉推车喜提天猫首波快递",
+        "onboard_time": 1729679298,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158166,
+        "num": 242392,
+        "word": "北斗七行含金量",
+        "onboard_time": 1729664299,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242383,
+        "num": 242383,
+        "word": "大学生曝校园水卡上网址打开是黄网",
+        "onboard_time": 1729678879,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223611,
+        "num": 223611,
+        "word": "女子先后和4人办婚礼骗了160多万元",
+        "onboard_time": 1729676058,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209075,
+        "num": 209075,
+        "word": "60岁老人看店收银一年半偷30万",
+        "onboard_time": 1729674378,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206239,
+        "num": 206239,
+        "word": "要回地球的航天员嘴角根本压不住",
+        "onboard_time": 1729670057,
+        "rank": 33,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 202335,
+        "num": 202335,
+        "word": "猫 这人造猫抓板可真结实啊",
+        "onboard_time": 1729675757,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197766,
+        "num": 197766,
+        "word": "霜降后心情不好要当心",
+        "onboard_time": 1729678277,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191641,
+        "num": 191641,
+        "word": "鹿晗 音乐节",
+        "onboard_time": 1729679718,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181231,
+        "num": 181231,
+        "word": "广州晚霞",
+        "onboard_time": 1729679658,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 173463,
+        "num": 173463,
+        "word": "涉事银行回应储户40多万存款消失",
+        "onboard_time": 1729677437,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171121,
+        "num": 171121,
+        "word": "微信查删单向好友需人数先达1万",
+        "onboard_time": 1729659200,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166523,
+        "num": 166523,
+        "word": "贾冰提示 宋亚轩直给",
+        "onboard_time": 1729678218,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157844,
+        "num": 157844,
+        "word": "每天坚持晨跑5公里会怎样",
+        "onboard_time": 1729657639,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153603,
+        "num": 153603,
+        "word": "医生建议不吃霜打瓜",
+        "onboard_time": 1729674317,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147453,
+        "num": 147453,
+        "word": "山取",
+        "onboard_time": 1729674557,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140856,
+        "num": 140856,
+        "word": "黄圣依曾经把杨子写到歌词里",
+        "onboard_time": 1729668798,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125961,
+        "num": 125961,
+        "word": "姚译添拍的张真源",
+        "onboard_time": 1729677739,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125920,
+        "num": 125920,
+        "word": "双成药业跌停",
+        "onboard_time": 1729679419,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124991,
+        "num": 124991,
+        "word": "阿信也没抢到周杰伦演唱会门票",
+        "onboard_time": 1729676598,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115030,
+        "num": 115030,
+        "word": "航天员在太空菜园种樱桃番茄",
+        "onboard_time": 1729675098,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113045,
+        "num": 113045,
+        "word": "呼兰涉黑案件曝光后张绪霞退出多家公司",
+        "onboard_time": 1729663038,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全球南方争取更多新机遇#"
+    }
+  }
+}
