@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 00:45:50
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 01:20:23
 </p>
 </blockquote>
 <p>
@@ -4041,6 +4041,12 @@ SEVENTEEN演唱会着火（热度：981986）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%87%B6%E6%89%8B%E5%85%AC%E5%BC%80%E6%9D%80%E5%AE%B3%E5%85%B6%E5%BC%9F%E5%90%8E%E8%BF%98%E5%90%91%E5%91%A8%E5%9B%B4%E7%82%AB%E8%80%80%23" target="weibo">
+女子称凶手公开杀害其弟后还向周围炫耀（热度：975471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%B8%82%E7%9B%91%E6%89%80%E6%89%80%E9%95%BF%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
 山东一市监所所长被刺身亡（热度：974639）
 </a>
@@ -5225,12 +5231,6 @@ Jennie小松菜奈同框（热度：844521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%23" target="weibo">
 aespa（热度：832836）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%87%B6%E6%89%8B%E5%85%AC%E5%BC%80%E6%9D%80%E5%AE%B3%E5%85%B6%E5%BC%9F%E5%90%8E%E8%BF%98%E5%90%91%E5%91%A8%E5%9B%B4%E7%82%AB%E8%80%80%23" target="weibo">
-女子称凶手公开杀害其弟后还向周围炫耀（热度：832487）
 </a>
 </li>
 
@@ -6569,6 +6569,12 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%23%23" target="weibo">
 #习近平会见埃及总统#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%BD%A9%E6%B3%BD%E5%B8%8C%E9%BD%90%E6%89%AC%23%23" target="weibo">
+#习近平会见伊朗总统佩泽希齐扬#
 </a>
 </li>
 
