@@ -1,6 +1,6 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729657616375,
+  "endTime": 1729658468943,
   "band_list": [
     {
       "raw_hot": 2660326,
@@ -33,6 +33,14 @@
       "onboard_time": 1729610540,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1549478,
+      "num": 450046,
+      "word": "丈夫碾压妻子致死案进行三次尸检",
+      "onboard_time": 1729654697,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1499275,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 866822,
-      "num": 450046,
-      "word": "丈夫碾压妻子致死案进行三次尸检",
-      "onboard_time": 1729654697,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 860577,
       "num": 860577,
       "word": "詹姆斯布朗尼父子同台",
@@ -107,12 +107,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 806990,
+      "num": 806990,
+      "word": "红楼梦退出高考语文",
+      "onboard_time": 1729657758,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "徐志胜淘汰感言爆哭",
       "onboard_time": 1729649238,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 699831,
+      "num": 699831,
+      "word": "小米电视",
+      "onboard_time": 1729654819,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 694705,
@@ -129,14 +145,6 @@
       "onboard_time": 1729652418,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660042,
-      "num": 660042,
-      "word": "小米电视",
-      "onboard_time": 1729654819,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 633284,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 583581,
-      "num": 446692,
+      "num": 468827,
       "word": "医院回应双胞胎儿在生产时死亡",
       "onboard_time": 1729655358,
       "rank": 11,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559015,
+      "num": 478892,
+      "word": "布朗尼甩锅詹姆斯",
+      "onboard_time": 1729655719,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554351,
       "num": 554351,
       "word": "霜降",
@@ -195,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547686,
-      "num": 444251,
-      "word": "布朗尼甩锅詹姆斯",
-      "onboard_time": 1729655719,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 544741,
+      "num": 401450,
+      "word": "孩子家门口玩荡椅致头部重伤身亡",
+      "onboard_time": 1729654638,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540743,
@@ -275,6 +291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424854,
+      "num": 424854,
+      "word": "花少更新",
+      "onboard_time": 1729657459,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421200,
+      "num": 421200,
+      "word": "千万网红吴迪涉嫌虚假宣传",
+      "onboard_time": 1729657699,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414987,
       "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
@@ -291,20 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401450,
-      "num": 401450,
-      "word": "孩子家门口玩荡椅致头部重伤身亡",
-      "onboard_time": 1729654638,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377442,
       "num": 377442,
       "word": "陈好说短时间内不会再参加真人秀",
       "onboard_time": 1729601240,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356210,
+      "num": 471324,
+      "word": "为什么我们容易越省越穷",
+      "onboard_time": 1729656740,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354063,
@@ -323,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336841,
+      "num": 297825,
+      "word": "付航说自己真没得过抑郁症",
+      "onboard_time": 1729657400,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 336248,
       "num": 336248,
       "word": "奶奶排队取药10分钟孙子被人拐走",
@@ -339,20 +379,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326079,
+      "num": 326079,
+      "word": "近千个家庭收到长安街摆放过的鲜花",
+      "onboard_time": 1729654097,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318020,
       "num": 318020,
       "word": "中俄领导人会晤",
       "onboard_time": 1729608980,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 316765,
-      "num": 316765,
-      "word": "近千个家庭收到长安街摆放过的鲜花",
-      "onboard_time": 1729654097,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315268,
@@ -401,6 +441,14 @@
       "onboard_time": 1729653258,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 297760,
+      "num": 297760,
+      "word": "每天坚持晨跑5公里会怎样",
+      "onboard_time": 1729657639,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 292599,
@@ -507,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241107,
-      "num": 241107,
-      "word": "为什么我们容易越省越穷",
-      "onboard_time": 1729656740,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234466,
       "num": 234466,
       "word": "爸爸找回失散38年儿子后痛哭道歉",
@@ -547,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223942,
+      "num": 223942,
+      "word": "库克来微博扫楼",
+      "onboard_time": 1729654578,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223918,
       "num": 223918,
       "word": "王者荣耀",
@@ -571,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211221,
+      "num": 211221,
+      "word": "孙佳俊泳池大片",
+      "onboard_time": 1729658119,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208506,
       "num": 380138,
       "word": "男子辗轧妻子被诉过失致人死亡罪",
@@ -593,14 +649,6 @@
       "onboard_time": 1729654278,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202652,
-      "num": 202652,
-      "word": "付航说自己真没得过抑郁症",
-      "onboard_time": 1729657400,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200266,
@@ -635,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190757,
+      "num": 307638,
+      "word": "乔妍的心事终极预告",
+      "onboard_time": 1729657400,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190588,
       "num": 190588,
       "word": "当地回应清北毕业生入职县级中学",
@@ -651,20 +707,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 189420,
-      "num": 204065,
-      "word": "花少更新",
-      "onboard_time": 1729657459,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187554,
       "num": 187554,
       "word": "宝蓝说不会力挺Ning",
       "onboard_time": 1729651638,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187315,
+      "num": 300898,
+      "word": "王鹤棣新单曲预告",
+      "onboard_time": 1729657819,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184761,
+      "num": 184761,
+      "word": "中国代表三次还击美方攻击抹黑",
+      "onboard_time": 1729656379,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 183458,
+      "num": 183458,
+      "word": "安妮海瑟薇刘宪华评论互动",
+      "onboard_time": 1729656979,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 177484,
@@ -683,6 +755,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177339,
+      "num": 177339,
+      "word": "Ning和王多多事件大结局",
+      "onboard_time": 1729657699,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176070,
+      "num": 176070,
+      "word": "黑色月光邪恶栀子花",
+      "onboard_time": 1729658360,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175542,
       "num": 175542,
       "word": "女子遭陌生男子扒衣跑隔壁店求救",
@@ -691,11 +779,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174058,
-      "num": 226590,
-      "word": "乔妍的心事终极预告",
-      "onboard_time": 1729657400,
-      "rank": 29,
+      "raw_hot": 173473,
+      "num": 422790,
+      "word": "刘浩存哭戏共情力",
+      "onboard_time": 1729657278,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -753,22 +841,6 @@
       "onboard_time": 1729646177,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157252,
-      "num": 157252,
-      "word": "库克来微博扫楼",
-      "onboard_time": 1729654578,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 156502,
-      "num": 156502,
-      "word": "中国代表三次还击美方攻击抹黑",
-      "onboard_time": 1729656379,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155919,
@@ -1123,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83235,
-      "num": 422790,
-      "word": "刘浩存哭戏共情力",
-      "onboard_time": 1729657278,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83212,
       "num": 83212,
       "word": "女子入秋骑电动车冻腿找中医放血",
@@ -1219,6 +1283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43234,
+      "num": 455010,
+      "word": "使用转基因大豆油应向大众标注告知",
+      "onboard_time": 1729656319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43091,
       "num": 508792,
       "word": "教你一眼看穿日用品广告的文字游戏",
@@ -1291,16 +1363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31880,
-      "num": 455010,
-      "word": "使用转基因大豆油应向大众标注告知",
-      "onboard_time": 1729656319,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30650,
-      "num": 157558,
+      "raw_hot": 32651,
+      "num": 304523,
       "word": "何小鹏称P7+智驾开得比自己好",
       "onboard_time": 1729657400,
       "rank": 44,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1729600639,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26778,
+      "num": 556577,
+      "word": "人脸识别进教室知情同意不能省",
+      "onboard_time": 1729658119,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25677,
