@@ -1,7 +1,15 @@
 {
   "startTime": 1729614506646,
-  "endTime": 1729658468943,
+  "endTime": 1729660945667,
   "band_list": [
+    {
+      "raw_hot": 6373272,
+      "num": 806990,
+      "word": "红楼梦退出高考语文",
+      "onboard_time": 1729657758,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2660326,
       "num": 161975,
@@ -59,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346857,
+      "num": 582150,
+      "word": "千万网红吴迪涉嫌虚假宣传",
+      "onboard_time": 1729657699,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236444,
+      "num": 1236444,
+      "word": "山取颜料师已被限制高消费",
+      "onboard_time": 1729658960,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143356,
       "num": 308382,
       "word": "警方抓嫖时女子从空调外机坠落身亡",
@@ -107,14 +131,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 806990,
-      "num": 806990,
-      "word": "红楼梦退出高考语文",
-      "onboard_time": 1729657758,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "徐志胜淘汰感言爆哭",
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682239,
+      "num": 356328,
+      "word": "每天坚持晨跑5公里会怎样",
+      "onboard_time": 1729657639,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 669772,
       "num": 669772,
       "word": "山取回应",
@@ -161,6 +185,14 @@
       "onboard_time": 1729651517,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 598848,
+      "num": 598848,
+      "word": "为什么我们容易越省越穷",
+      "onboard_time": 1729656740,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592360,
@@ -195,8 +227,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574839,
+      "num": 574839,
+      "word": "外网博主评价华晨宇演唱会",
+      "onboard_time": 1729658479,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 559015,
-      "num": 478892,
+      "num": 499580,
       "word": "布朗尼甩锅詹姆斯",
       "onboard_time": 1729655719,
       "rank": 12,
@@ -259,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 499490,
+      "num": 499490,
+      "word": "付航说自己真没得过抑郁症",
+      "onboard_time": 1729657400,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 484514,
       "num": 527000,
       "word": "肖战纯素颜开机路透",
@@ -267,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484500,
+      "num": 484500,
+      "word": "花少更新",
+      "onboard_time": 1729657459,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481423,
       "num": 481423,
       "word": "上山采茶籽捡到6只长得像猴的小鸟",
       "onboard_time": 1729643598,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456360,
+      "num": 456360,
+      "word": "花学课件",
+      "onboard_time": 1729658779,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 452702,
@@ -291,22 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 424854,
-      "num": 424854,
-      "word": "花少更新",
-      "onboard_time": 1729657459,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 421200,
-      "num": 421200,
-      "word": "千万网红吴迪涉嫌虚假宣传",
-      "onboard_time": 1729657699,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414987,
       "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
@@ -323,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383505,
+      "num": 383505,
+      "word": "微信查删单向好友需人数先达1万",
+      "onboard_time": 1729659200,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 377442,
       "num": 377442,
       "word": "陈好说短时间内不会再参加真人秀",
@@ -331,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356210,
-      "num": 471324,
-      "word": "为什么我们容易越省越穷",
-      "onboard_time": 1729656740,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 357598,
+      "num": 341684,
+      "word": "赵露思刘宇宁 三搭",
+      "onboard_time": 1729660098,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 354063,
@@ -355,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336841,
-      "num": 297825,
-      "word": "付航说自己真没得过抑郁症",
-      "onboard_time": 1729657400,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 336248,
       "num": 336248,
       "word": "奶奶排队取药10分钟孙子被人拐走",
@@ -379,8 +427,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331474,
+      "num": 331474,
+      "word": "奔跑吧收官大合影",
+      "onboard_time": 1729660039,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326079,
-      "num": 326079,
+      "num": 339963,
       "word": "近千个家庭收到长安街摆放过的鲜花",
       "onboard_time": 1729654097,
       "rank": 30,
@@ -443,20 +499,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 297760,
-      "num": 297760,
-      "word": "每天坚持晨跑5公里会怎样",
-      "onboard_time": 1729657639,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 292599,
       "num": 266049,
       "word": "1个月5大网红塌房",
       "onboard_time": 1729593678,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 290637,
+      "num": 290637,
+      "word": "黑色月光邪恶栀子花",
+      "onboard_time": 1729658360,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 289753,
@@ -539,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248928,
+      "num": 248928,
+      "word": "安妮海瑟薇刘宪华评论互动",
+      "onboard_time": 1729656979,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243567,
       "num": 226155,
       "word": "果丹皮曾是军用信纸",
@@ -553,6 +617,14 @@
       "onboard_time": 1729612639,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241092,
+      "num": 170695,
+      "word": "妇科检查遇到男医生要更换吗",
+      "onboard_time": 1729660518,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234466,
@@ -611,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212449,
+      "num": 212449,
+      "word": "女子坐高铁睡过站为下车按紧急制动",
+      "onboard_time": 1729660758,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211307,
       "num": 161275,
       "word": "15天让头发变钻石",
@@ -632,6 +712,14 @@
       "word": "男子辗轧妻子被诉过失致人死亡罪",
       "onboard_time": 1729652058,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205990,
+      "num": 205990,
+      "word": "山取否认摆拍视频",
+      "onboard_time": 1729660098,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -724,19 +812,19 @@
     },
     {
       "raw_hot": 184761,
-      "num": 184761,
+      "num": 379251,
       "word": "中国代表三次还击美方攻击抹黑",
       "onboard_time": 1729656379,
       "rank": 46,
       "category": "国内时政"
     },
     {
-      "raw_hot": 183458,
-      "num": 183458,
-      "word": "安妮海瑟薇刘宪华评论互动",
-      "onboard_time": 1729656979,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 178426,
+      "num": 178426,
+      "word": "Ning和王多多事件大结局",
+      "onboard_time": 1729657699,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 177484,
@@ -753,22 +841,6 @@
       "onboard_time": 1729579399,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177339,
-      "num": 177339,
-      "word": "Ning和王多多事件大结局",
-      "onboard_time": 1729657699,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 176070,
-      "num": 176070,
-      "word": "黑色月光邪恶栀子花",
-      "onboard_time": 1729658360,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 175542,
@@ -857,6 +929,14 @@
       "onboard_time": 1729647498,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 153004,
+      "num": 153004,
+      "word": "湖人揭幕战终于赢了",
+      "onboard_time": 1729658779,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 151290,
@@ -1003,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124155,
+      "num": 470592,
+      "word": "网友曝价值百万元花灯被景区暴力拆除",
+      "onboard_time": 1729659859,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121878,
       "num": 121878,
       "word": "2025考研",
@@ -1096,6 +1184,22 @@
       "word": "毓言cp",
       "onboard_time": 1729609040,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102484,
+      "num": 370181,
+      "word": "ILLIT元气",
+      "onboard_time": 1729660279,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 97883,
+      "num": 196547,
+      "word": "时光音乐会考古声入人心",
+      "onboard_time": 1729660699,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1217,6 +1321,14 @@
       "onboard_time": 1729608741,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76188,
+      "num": 552615,
+      "word": "官方称正核实山取长文真实性",
+      "onboard_time": 1729659800,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74903,
@@ -1364,7 +1476,7 @@
     },
     {
       "raw_hot": 32651,
-      "num": 304523,
+      "num": 334116,
       "word": "何小鹏称P7+智驾开得比自己好",
       "onboard_time": 1729657400,
       "rank": 44,
@@ -1456,6 +1568,14 @@
       "word": "18名民辅警10分钟集结为伤者献血",
       "onboard_time": 1729622172,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11542,
+      "num": 593545,
+      "word": "一组数字看金砖国家含金量",
+      "onboard_time": 1729652959,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
