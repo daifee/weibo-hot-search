@@ -1,0 +1,410 @@
+{
+  "runTime": 1729688340869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991387,
+        "num": 1158621,
+        "word": "民政部鼓励婚姻登记设在公园",
+        "onboard_time": 1729684217,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697647,
+        "num": 697647,
+        "word": "花少 剧本",
+        "onboard_time": 1729662918,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69388,
+        "num": 438976,
+        "word": "俄罗斯人开始用中国式茶具喝茶",
+        "onboard_time": 1729670658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1102736,
+        "num": 431472,
+        "word": "爸爸一句宝宝对不起突然就泪目了",
+        "onboard_time": 1729680979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418214,
+        "num": 418214,
+        "word": "漫才兄弟冠军",
+        "onboard_time": 1729683318,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349010,
+        "num": 349010,
+        "word": "官方回应跟同一人离婚复婚能否休假",
+        "onboard_time": 1729676899,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331979,
+        "num": 331979,
+        "word": "西安取消车辆单双号限行及学校停课强制措施",
+        "onboard_time": 1729681519,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321325,
+        "num": 321325,
+        "word": "明年起面包里不能有这种添加剂",
+        "onboard_time": 1729683858,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295727,
+        "num": 295727,
+        "word": "霜降后心情不好要当心",
+        "onboard_time": 1729678277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28170,
+        "num": 295538,
+        "word": "多方回应村民补办户口本因医保被拒",
+        "onboard_time": 1729687998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554549,
+        "num": 293120,
+        "word": "双胞胎待产时死亡官方将组织调解",
+        "onboard_time": 1729677978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051531,
+        "num": 292448,
+        "word": "4岁女孩右眼做手术左眼被开刀",
+        "onboard_time": 1729684997,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825469,
+        "num": 290939,
+        "word": "8块8的虫草内裤直播间卖了250万元",
+        "onboard_time": 1729685657,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752076,
+        "num": 290212,
+        "word": "周雨彤边界感",
+        "onboard_time": 1729683258,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442813,
+        "num": 289090,
+        "word": "赵小棠吻戏",
+        "onboard_time": 1729685957,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21507,
+        "num": 287290,
+        "word": "极氪MIX的百变超级座舱",
+        "onboard_time": 1729686797,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339443,
+        "num": 285992,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267326,
+        "num": 284721,
+        "word": "赵丽颖辛芷蕾微博直播",
+        "onboard_time": 1729685837,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283968,
+        "num": 283968,
+        "word": "Ning投降认输",
+        "onboard_time": 1729675457,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35294,
+        "num": 277250,
+        "word": "哈哈曹建议安陵容宣传禁烟",
+        "onboard_time": 1729687397,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336019,
+        "num": 275931,
+        "word": "大学生曝校园水卡上网址打开是黄网",
+        "onboard_time": 1729678879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273071,
+        "num": 273071,
+        "word": "李晋晔断层第一",
+        "onboard_time": 1729685358,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266672,
+        "num": 266672,
+        "word": "毕业六年后整个寝室整整齐齐的自驾",
+        "onboard_time": 1729678938,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250447,
+        "num": 250447,
+        "word": "鹿晗 音乐节",
+        "onboard_time": 1729679718,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218057,
+        "num": 218057,
+        "word": "以军导弹瞬间炸塌10层高楼",
+        "onboard_time": 1729677138,
+        "rank": 24,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 217113,
+        "num": 217113,
+        "word": "不会舔毛的猫是弱智猫",
+        "onboard_time": 1729683978,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198925,
+        "num": 198925,
+        "word": "澳门CoCo姐卖内裤月销千万元",
+        "onboard_time": 1729668798,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193874,
+        "num": 193874,
+        "word": "张本美和3比2刘杨子",
+        "onboard_time": 1729684279,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190739,
+        "num": 190739,
+        "word": "极氪MIX",
+        "onboard_time": 1729687280,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119792,
+        "num": 190476,
+        "word": "乔妍的心事",
+        "onboard_time": 1729681756,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190403,
+        "num": 190403,
+        "word": "用一只虾做13菜一汤",
+        "onboard_time": 1729684397,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158667,
+        "num": 158667,
+        "word": "周大福回应涨价",
+        "onboard_time": 1729687638,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146820,
+        "num": 146820,
+        "word": "父母三次闹离婚都不愿抚养残疾儿子",
+        "onboard_time": 1729685539,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145391,
+        "num": 145391,
+        "word": "山取闯哀牢山采矿到底合规吗",
+        "onboard_time": 1729679598,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143489,
+        "num": 143489,
+        "word": "山取颜料师已被限制高消费",
+        "onboard_time": 1729658960,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109034,
+        "num": 143425,
+        "word": "脱口秀总冠军之夜",
+        "onboard_time": 1729682179,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143367,
+        "num": 143367,
+        "word": "四川科幻世界杂志社副总编辑被查",
+        "onboard_time": 1729685238,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141917,
+        "num": 141917,
+        "word": "4人合谋猥亵迷奸多名女性被抓",
+        "onboard_time": 1729664539,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141282,
+        "num": 141282,
+        "word": "摄影师记录以军轰炸公寓瞬间破坏力",
+        "onboard_time": 1729682960,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99176,
+        "num": 135893,
+        "word": "JENNIE新歌被KBS判定不合格",
+        "onboard_time": 1729668258,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131067,
+        "num": 131067,
+        "word": "心疼陈好",
+        "onboard_time": 1729671617,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126341,
+        "num": 126341,
+        "word": "杨子 我能看你手机你不能看我",
+        "onboard_time": 1729672756,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116554,
+        "num": 116554,
+        "word": "大爷边跪地乞讨边用流量偷刷短视频",
+        "onboard_time": 1729682299,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115889,
+        "num": 115889,
+        "word": "漫才兄弟 你旁边的一直是老子",
+        "onboard_time": 1729687580,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107118,
+        "num": 107118,
+        "word": "杨天真补给",
+        "onboard_time": 1729668740,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105222,
+        "num": 105222,
+        "word": "SM新男团练习生",
+        "onboard_time": 1729682117,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103120,
+        "num": 103120,
+        "word": "张卫健有头发时的杀伤力",
+        "onboard_time": 1729669759,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18103,
+        "num": 96995,
+        "word": "6人黄河湿地滥伐40棵林木被抓",
+        "onboard_time": 1729686257,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94491,
+        "num": 94491,
+        "word": "二本艺术生毕业成保洁员遭弟弟质问",
+        "onboard_time": 1729673718,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93068,
+        "num": 93068,
+        "word": "刘学义吴谨言时尚芭莎预告",
+        "onboard_time": 1729688239,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄世代友好的深厚情谊不会变#"
+    }
+  }
+}

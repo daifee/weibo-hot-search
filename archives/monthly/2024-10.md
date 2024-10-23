@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/23 20:42:37
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/23 20:59:00
 </p>
 </blockquote>
 <p>
@@ -5259,6 +5259,12 @@ aespa（热度：832836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%9D%978%E7%9A%84%E8%99%AB%E8%8D%89%E5%86%85%E8%A3%A4%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%BA%86250%E4%B8%87%E5%85%83%23" target="weibo">
+8块8的虫草内裤直播间卖了250万元（热度：825469）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%BD%91%E7%BB%9C%E6%81%B6%E6%84%8F%E6%AD%A6%E5%99%A8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%9B%9D%E5%85%89%23" target="weibo">
 美国一网络恶意武器被中国曝光（热度：824848）
 </a>
@@ -6005,12 +6011,6 @@ WTT（热度：765189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%8810%E5%88%86%E9%92%9F%E8%B6%85%E5%BF%AB%E9%A1%BA%E4%BA%A7%E8%87%AA%E5%B7%B1%E8%B5%B0%E5%87%BA%E4%BA%A7%E6%88%BF%23" target="weibo">
 宝妈10分钟超快顺产自己走出产房（热度：760522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E6%95%99%E7%BB%83%23" target="weibo">
-TES教练（热度：759979）
 </a>
 </li>
 
