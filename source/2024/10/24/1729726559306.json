@@ -1,0 +1,410 @@
+{
+  "runTime": 1729726559306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647744,
+        "num": 906156,
+        "word": "江西张某某拒服兵役性质恶劣被罚",
+        "onboard_time": 1729716730,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380396,
+        "num": 380396,
+        "word": "台风潭美最强或达强台风级",
+        "onboard_time": 1729698378,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2518,
+        "num": 357454,
+        "word": "一组数字看金砖国家含金量",
+        "onboard_time": 1729652959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339497,
+        "num": 339497,
+        "word": "豆腐放室外四五个小时就成了冻豆腐",
+        "onboard_time": 1729723574,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325133,
+        "num": 325133,
+        "word": "爸爸一句宝宝对不起突然就泪目了",
+        "onboard_time": 1729680979,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276403,
+        "num": 276403,
+        "word": "联播主播遇上中文满级外国主持人",
+        "onboard_time": 1729722252,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258288,
+        "num": 258288,
+        "word": "土耳其恐袭",
+        "onboard_time": 1729693159,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232363,
+        "num": 232363,
+        "word": "付航脱口秀",
+        "onboard_time": 1729694900,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232032,
+        "num": 232032,
+        "word": "匡威 王源",
+        "onboard_time": 1729725797,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53300,
+        "num": 228440,
+        "word": "女生背小儿麻痹症男友登上泰山",
+        "onboard_time": 1729726157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568931,
+        "num": 226943,
+        "word": "李诞回应黄磊做饭好吃与否",
+        "onboard_time": 1729724713,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1033420,
+        "num": 220925,
+        "word": "女子称凶手公开杀害其弟后还向周围炫耀",
+        "onboard_time": 1729698918,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011185,
+        "num": 218977,
+        "word": "两家长班级群相识后出轨私奔生1子",
+        "onboard_time": 1729690279,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875859,
+        "num": 213897,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746668,
+        "num": 207522,
+        "word": "缅甸女子遭人迷晕后拐至河南",
+        "onboard_time": 1729690580,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519369,
+        "num": 206964,
+        "word": "官方通报孕妇待产过程中一胎死于宫内",
+        "onboard_time": 1729690999,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399675,
+        "num": 202474,
+        "word": "大连一男子在水产市场遭杀害",
+        "onboard_time": 1729696220,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279588,
+        "num": 198650,
+        "word": "纪检介入男子举报妻子被区长强占",
+        "onboard_time": 1729691479,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194861,
+        "num": 194861,
+        "word": "欧盟单独约谈个别车企妄图分化中方",
+        "onboard_time": 1729699876,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 93322,
+        "num": 194642,
+        "word": "鹿晗gapday音乐节票价",
+        "onboard_time": 1729699099,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279192,
+        "num": 194586,
+        "word": "女网红曝光厦门一干部同时出轨多人",
+        "onboard_time": 1729696518,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194502,
+        "num": 194502,
+        "word": "巴萨4比1拜仁",
+        "onboard_time": 1729725677,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174846,
+        "num": 174846,
+        "word": "周雨彤边界感",
+        "onboard_time": 1729683258,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152878,
+        "num": 152878,
+        "word": "4岁女孩右眼做手术左眼被开刀",
+        "onboard_time": 1729684997,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142715,
+        "num": 142715,
+        "word": "8块8的虫草内裤直播间卖了250万元",
+        "onboard_time": 1729685657,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142553,
+        "num": 142553,
+        "word": "抑郁症的时候爸爸往家里扛了三箱香蕉",
+        "onboard_time": 1729689078,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129315,
+        "num": 129315,
+        "word": "赵丽颖不想身材管理",
+        "onboard_time": 1729689019,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111187,
+        "num": 111187,
+        "word": "Hani未婚夫不承认医疗过失",
+        "onboard_time": 1729723092,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79759,
+        "num": 108364,
+        "word": "王睡睡的心结被体育生男大治愈了",
+        "onboard_time": 1729693940,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76308,
+        "num": 106937,
+        "word": "权志龙新综艺状态",
+        "onboard_time": 1729726276,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106321,
+        "num": 106321,
+        "word": "欧冠",
+        "onboard_time": 1729725736,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95371,
+        "num": 95371,
+        "word": "深圳一小学鸡肉标签显示过期4年",
+        "onboard_time": 1729701736,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92944,
+        "num": 92944,
+        "word": "有种抑郁叫缺维生素D",
+        "onboard_time": 1729693880,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92616,
+        "num": 92616,
+        "word": "太原通报双胞胎待产时死亡调查情况",
+        "onboard_time": 1729697240,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92038,
+        "num": 92038,
+        "word": "医院回应女职工被举报出轨",
+        "onboard_time": 1729715770,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87341,
+        "num": 87341,
+        "word": "神十九船箭组合体1500米走了75分钟",
+        "onboard_time": 1729724776,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86401,
+        "num": 86401,
+        "word": "留学姑娘回村创业年销售额2500万",
+        "onboard_time": 1729709892,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85860,
+        "num": 85860,
+        "word": "商户回应游客在景德镇捡瓷器",
+        "onboard_time": 1729714691,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85456,
+        "num": 85456,
+        "word": "霜降后心情不好要当心",
+        "onboard_time": 1729678277,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83193,
+        "num": 83193,
+        "word": "明年起面包里不能有这种添加剂",
+        "onboard_time": 1729683858,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82521,
+        "num": 82521,
+        "word": "民族元素给校服界一点震撼",
+        "onboard_time": 1729720511,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80967,
+        "num": 80967,
+        "word": "团伙直播间卖假鞋封一个就再开一个",
+        "onboard_time": 1729711151,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80240,
+        "num": 80240,
+        "word": "刘雯谈维密和时装周走秀的不同",
+        "onboard_time": 1729725616,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79997,
+        "num": 79997,
+        "word": "男子花10.5万买缅甸媳妇被公诉",
+        "onboard_time": 1729698078,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76692,
+        "num": 76692,
+        "word": "山取研修班前学员发声",
+        "onboard_time": 1729694599,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76656,
+        "num": 76656,
+        "word": "魏晨华鼎奖华语最佳男演员",
+        "onboard_time": 1729726336,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73776,
+        "num": 73776,
+        "word": "差点没认出来小沈阳",
+        "onboard_time": 1729692438,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73172,
+        "num": 73172,
+        "word": "周大福3个月已关店145家",
+        "onboard_time": 1729692920,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69725,
+        "num": 69725,
+        "word": "对不起一开始对刘烨太大声了",
+        "onboard_time": 1729674856,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61949,
+        "num": 69595,
+        "word": "漫才兄弟冠军",
+        "onboard_time": 1729683318,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见伊朗总统佩泽希齐扬#"
+    }
+  }
+}

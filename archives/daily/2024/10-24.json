@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729725730973,
+  "endTime": 1729726559306,
   "band_list": [
     {
       "raw_hot": 1837166,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1175721,
+      "raw_hot": 1568931,
       "num": 238507,
       "word": "李诞回应黄磊做饭好吃与否",
       "onboard_time": 1729724713,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011185,
+      "num": 236437,
+      "word": "两家长班级群相识后出轨私奔生1子",
+      "onboard_time": 1729690279,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944383,
       "num": 944383,
       "word": "选特朗普打印出来变哈里斯",
@@ -43,15 +51,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 932783,
-      "num": 236437,
-      "word": "两家长班级群相识后出轨私奔生1子",
-      "onboard_time": 1729690279,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612247,
+      "raw_hot": 746668,
       "num": 235272,
       "word": "缅甸女子遭人迷晕后拐至河南",
       "onboard_time": 1729690580,
@@ -59,11 +59,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530755,
-      "num": 786327,
+      "raw_hot": 647744,
+      "num": 906156,
       "word": "江西张某某拒服兵役性质恶劣被罚",
       "onboard_time": 1729716730,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519369,
+      "num": 231888,
+      "word": "官方通报孕妇待产过程中一胎死于宫内",
+      "onboard_time": 1729690999,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -91,14 +99,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 443026,
-      "num": 231888,
-      "word": "官方通报孕妇待产过程中一胎死于宫内",
-      "onboard_time": 1729690999,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397866,
       "num": 397866,
       "word": "土耳其恐袭",
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380396,
+      "num": 380396,
+      "word": "台风潭美最强或达强台风级",
+      "onboard_time": 1729698378,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377542,
       "num": 285260,
       "word": "邻居以为我在居民楼里开超市",
@@ -123,19 +131,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358434,
-      "num": 358434,
-      "word": "台风潭美最强或达强台风级",
-      "onboard_time": 1729698378,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307091,
-      "num": 307091,
+      "raw_hot": 339497,
+      "num": 339497,
       "word": "豆腐放室外四五个小时就成了冻豆腐",
       "onboard_time": 1729723574,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325133,
+      "num": 325133,
+      "word": "爸爸一句宝宝对不起突然就泪目了",
+      "onboard_time": 1729680979,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -179,16 +187,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 278310,
-      "num": 278310,
-      "word": "爸爸一句宝宝对不起突然就泪目了",
-      "onboard_time": 1729680979,
-      "rank": 17,
+      "raw_hot": 279588,
+      "num": 222959,
+      "word": "纪检介入男子举报妻子被区长强占",
+      "onboard_time": 1729691479,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273540,
-      "num": 181872,
+      "raw_hot": 279192,
+      "num": 194586,
       "word": "女网红曝光厦门一干部同时出轨多人",
       "onboard_time": 1729696518,
       "rank": 22,
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232032,
+      "num": 232032,
+      "word": "匡威 王源",
+      "onboard_time": 1729725797,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231644,
       "num": 231644,
       "word": "欧盟单独约谈个别车企妄图分化中方",
       "onboard_time": 1729699876,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 222959,
-      "num": 222959,
-      "word": "纪检介入男子举报妻子被区长强占",
-      "onboard_time": 1729691479,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215208,
@@ -249,6 +257,14 @@
       "onboard_time": 1729694959,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194502,
+      "num": 194502,
+      "word": "巴萨4比1拜仁",
+      "onboard_time": 1729725677,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 143613,
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111187,
+      "num": 111187,
+      "word": "Hani未婚夫不承认医疗过失",
+      "onboard_time": 1729723092,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109333,
       "num": 109333,
       "word": "虞书欣cue了永夜星河",
       "onboard_time": 1729695019,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106321,
+      "num": 106321,
+      "word": "欧冠",
+      "onboard_time": 1729725736,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 105448,
@@ -347,20 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95371,
+      "num": 95371,
+      "word": "深圳一小学鸡肉标签显示过期4年",
+      "onboard_time": 1729701736,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92038,
+      "num": 92038,
+      "word": "医院回应女职工被举报出轨",
+      "onboard_time": 1729715770,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88162,
       "num": 88162,
       "word": "差点没认出来小沈阳",
       "onboard_time": 1729692438,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87977,
-      "num": 87977,
-      "word": "深圳一小学鸡肉标签显示过期4年",
-      "onboard_time": 1729701736,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87872,
@@ -371,20 +411,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86688,
-      "num": 86688,
-      "word": "医院回应女职工被举报出轨",
-      "onboard_time": 1729715770,
-      "rank": 44,
+      "raw_hot": 87341,
+      "num": 239798,
+      "word": "神十九船箭组合体1500米走了75分钟",
+      "onboard_time": 1729724776,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85437,
-      "num": 85437,
-      "word": "Hani未婚夫不承认医疗过失",
-      "onboard_time": 1729723092,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 86401,
+      "num": 86401,
+      "word": "留学姑娘回村创业年销售额2500万",
+      "onboard_time": 1729709892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85860,
+      "num": 85860,
+      "word": "商户回应游客在景德镇捡瓷器",
+      "onboard_time": 1729714691,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83275,
@@ -395,12 +443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82521,
+      "num": 82521,
+      "word": "民族元素给校服界一点震撼",
+      "onboard_time": 1729720511,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81665,
       "num": 81665,
       "word": "保持成长的3件事",
       "onboard_time": 1729700416,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80240,
+      "num": 80240,
+      "word": "刘雯谈维密和时装周走秀的不同",
+      "onboard_time": 1729725616,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79759,
+      "num": 184263,
+      "word": "王睡睡的心结被体育生男大治愈了",
+      "onboard_time": 1729693940,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 79198,
@@ -411,20 +483,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 78138,
-      "num": 78138,
-      "word": "民族元素给校服界一点震撼",
-      "onboard_time": 1729720511,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76824,
       "num": 77773,
       "word": "心疼陈好",
       "onboard_time": 1729671617,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76692,
+      "num": 98965,
+      "word": "山取研修班前学员发声",
+      "onboard_time": 1729694599,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76656,
+      "num": 76656,
+      "word": "魏晨华鼎奖华语最佳男演员",
+      "onboard_time": 1729726336,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 76573,
@@ -435,20 +515,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 76308,
+      "num": 106937,
+      "word": "权志龙新综艺状态",
+      "onboard_time": 1729726276,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 75856,
       "num": 75856,
       "word": "加沙女孩光脚扛受伤妹妹求医",
       "onboard_time": 1729705334,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 75501,
-      "num": 75501,
-      "word": "商户回应游客在景德镇捡瓷器",
-      "onboard_time": 1729714691,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75327,
@@ -467,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73098,
-      "num": 98965,
-      "word": "山取研修班前学员发声",
-      "onboard_time": 1729694599,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 73172,
+      "num": 77667,
+      "word": "周大福3个月已关店145家",
+      "onboard_time": 1729692920,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 72255,
@@ -481,30 +561,6 @@
       "onboard_time": 1729693459,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70659,
-      "num": 70659,
-      "word": "留学姑娘回村创业年销售额2500万",
-      "onboard_time": 1729709892,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68333,
-      "num": 184263,
-      "word": "王睡睡的心结被体育生男大治愈了",
-      "onboard_time": 1729693940,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 61215,
-      "num": 77667,
-      "word": "周大福3个月已关店145家",
-      "onboard_time": 1729692920,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 60743,
@@ -523,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49088,
-      "num": 60586,
-      "word": "刘雯谈维密和时装周走秀的不同",
-      "onboard_time": 1729725616,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 53300,
+      "num": 228440,
+      "word": "女生背小儿麻痹症男友登上泰山",
+      "onboard_time": 1729726157,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44706,
@@ -536,14 +592,6 @@
       "word": "林诗栋3比0罗伯勒斯",
       "onboard_time": 1729702335,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 43863,
-      "num": 60573,
-      "word": "巴萨4比1拜仁",
-      "onboard_time": 1729725677,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -585,14 +633,6 @@
       "onboard_time": 1729692438,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29656,
-      "num": 239798,
-      "word": "神十九船箭组合体1500米走了75分钟",
-      "onboard_time": 1729724776,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23920,
@@ -641,6 +681,14 @@
       "onboard_time": 1729707613,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2518,
+      "num": 357454,
+      "word": "一组数字看金砖国家含金量",
+      "onboard_time": 1729652959,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
