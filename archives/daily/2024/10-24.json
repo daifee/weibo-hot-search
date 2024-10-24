@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729741345481,
+  "endTime": 1729744041883,
   "band_list": [
     {
       "raw_hot": 2610038,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1789317,
+      "num": 1789317,
+      "word": "中方在联合国强烈谴责以色列",
+      "onboard_time": 1729738818,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1723816,
       "num": 442812,
       "word": "韩安冉举报汪静逃税",
@@ -35,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1588653,
+      "num": 608464,
+      "word": "官方通报厦门一干部同时出轨多人",
+      "onboard_time": 1729738638,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1568931,
       "num": 311023,
       "word": "李诞回应黄磊做饭好吃与否",
       "onboard_time": 1729724713,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1394210,
+      "num": 1394210,
+      "word": "花钱请人每周放30万只不咬人的蚊子",
+      "onboard_time": 1729741698,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1387449,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 1120290,
-      "num": 624802,
+      "num": 695526,
       "word": "离婚又复婚还有婚假吗",
       "onboard_time": 1729739178,
       "rank": 16,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 758864,
+      "num": 366705,
+      "word": "南航一架波音飞机疑似发生着陆事故",
+      "onboard_time": 1729741637,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746668,
       "num": 235272,
       "word": "缅甸女子遭人迷晕后拐至河南",
@@ -147,16 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742994,
-      "num": 1118879,
-      "word": "中方在联合国强烈谴责以色列",
-      "onboard_time": 1729738818,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 676725,
-      "num": 317716,
+      "num": 318609,
       "word": "老人收银偷20万私了2万多后失联",
       "onboard_time": 1729733418,
       "rank": 15,
@@ -195,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608464,
-      "num": 608464,
-      "word": "官方通报厦门一干部同时出轨多人",
-      "onboard_time": 1729738638,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 574463,
       "num": 574463,
       "word": "小米15",
@@ -235,11 +251,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477889,
+      "num": 366140,
+      "word": "花少弹幕 呵呵",
+      "onboard_time": 1729743259,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475895,
       "num": 735142,
       "word": "付航脱口秀",
       "onboard_time": 1729694900,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 465307,
+      "num": 365437,
+      "word": "孟佳路边救被撞小猫情绪崩了",
+      "onboard_time": 1729741879,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -265,6 +297,14 @@
       "onboard_time": 1729738938,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414567,
+      "num": 365828,
+      "word": "高学历夫妇二孩生育概率最低",
+      "onboard_time": 1729737678,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397866,
@@ -347,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306544,
-      "num": 290021,
-      "word": "高学历夫妇二孩生育概率最低",
-      "onboard_time": 1729737678,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 313726,
+      "num": 313726,
+      "word": "每套房都让人眼前一亮又一亮",
+      "onboard_time": 1729743380,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 305928,
@@ -387,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288413,
+      "num": 288413,
+      "word": "股神巴菲特表态美国大选",
+      "onboard_time": 1729743920,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 286658,
+      "num": 286658,
+      "word": "NASA局长称正与中方商谈租借月壤样品",
+      "onboard_time": 1729742838,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 285351,
       "num": 285351,
       "word": "黄金",
@@ -411,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279842,
+      "num": 279842,
+      "word": "孙颖莎参加演讲比赛荣获二等奖",
+      "onboard_time": 1729740317,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279588,
       "num": 222959,
       "word": "纪检介入男子举报妻子被区长强占",
@@ -427,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265011,
-      "num": 265011,
-      "word": "孙颖莎参加演讲比赛荣获二等奖",
-      "onboard_time": 1729740317,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 269359,
+      "num": 368510,
+      "word": "杜华说乐华家大业大是前人栽树",
+      "onboard_time": 1729741879,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 261430,
@@ -475,12 +539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238128,
+      "num": 238128,
+      "word": "耿爽代表中国在联合国为难民发声",
+      "onboard_time": 1729740558,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235089,
       "num": 278929,
       "word": "央视起底老年人养生骗局",
       "onboard_time": 1729737318,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234627,
+      "num": 234627,
+      "word": "张踩铃 回家抓老公现行的女人",
+      "onboard_time": 1729743198,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 231644,
@@ -571,20 +651,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191240,
+      "num": 191240,
+      "word": "宁愿爬七楼也想住的房子",
+      "onboard_time": 1729743198,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190639,
+      "num": 314921,
+      "word": "难哄开通角色号",
+      "onboard_time": 1729742478,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189085,
+      "num": 367269,
+      "word": "人民网评网红频频塌房",
+      "onboard_time": 1729742239,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179803,
+      "num": 287023,
+      "word": "黄子弘凡抢票",
+      "onboard_time": 1729743019,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 174098,
+      "num": 174098,
+      "word": "儿子恋爱后总要钱被妈妈送派出所",
+      "onboard_time": 1729743798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167777,
+      "num": 431831,
+      "word": "秋天是懂配色的",
+      "onboard_time": 1729739237,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166985,
       "num": 286766,
       "word": "土耳其恐袭已造成5死22伤",
       "onboard_time": 1729729639,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 166877,
-      "num": 431831,
-      "word": "秋天是懂配色的",
-      "onboard_time": 1729739237,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164110,
@@ -627,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145248,
+      "num": 145248,
+      "word": "凤凰传奇深圳抢票",
+      "onboard_time": 1729743440,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143974,
       "num": 269846,
       "word": "APT破表",
@@ -649,6 +777,14 @@
       "onboard_time": 1729684217,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141316,
+      "num": 141316,
+      "word": "现在就出发",
+      "onboard_time": 1729742417,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 140227,
@@ -705,14 +841,6 @@
       "onboard_time": 1729740617,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 120436,
-      "num": 120436,
-      "word": "耿爽代表中国在联合国为难民发声",
-      "onboard_time": 1729740558,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118234,
@@ -1011,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63178,
+      "num": 368130,
+      "word": "土耳其恐袭现场画面曝光",
+      "onboard_time": 1729742779,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 60743,
       "num": 60743,
       "word": "独居一年的31平米小家",
@@ -1107,6 +1243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 31791,
+      "num": 366747,
+      "word": "河北唐山一煤矿冒顶致6人被困",
+      "onboard_time": 1729742959,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30996,
       "num": 49435,
       "word": "脱友 喜单",
@@ -1129,6 +1273,22 @@
       "onboard_time": 1729692438,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28505,
+      "num": 287471,
+      "word": "卓沅发长图",
+      "onboard_time": 1729743740,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25068,
+      "num": 314196,
+      "word": "朱志鑫Walking练习室",
+      "onboard_time": 1729743679,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 23920,
@@ -1164,7 +1324,7 @@
     },
     {
       "raw_hot": 20389,
-      "num": 635129,
+      "num": 789841,
       "word": "一图了解金砖未来发展关键词",
       "onboard_time": 1729732397,
       "rank": 2,

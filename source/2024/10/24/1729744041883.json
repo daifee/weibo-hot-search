@@ -1,0 +1,410 @@
+{
+  "runTime": 1729744041883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789317,
+        "num": 1789317,
+        "word": "中方在联合国强烈谴责以色列",
+        "onboard_time": 1729738818,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1394210,
+        "num": 1394210,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18274,
+        "num": 789841,
+        "word": "一图了解金砖未来发展关键词",
+        "onboard_time": 1729732397,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695526,
+        "num": 695526,
+        "word": "离婚又复婚还有婚假吗",
+        "onboard_time": 1729739178,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403318,
+        "num": 403318,
+        "word": "一次袭击炸死加沙一个家庭所有孩子",
+        "onboard_time": 1729735038,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398475,
+        "num": 398475,
+        "word": "TheShy和Rookie疑似回归iG",
+        "onboard_time": 1729737737,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 368635,
+        "num": 368635,
+        "word": "以军称找到5亿美元2天了没证据",
+        "onboard_time": 1729732818,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269359,
+        "num": 368510,
+        "word": "杜华说乐华家大业大是前人栽树",
+        "onboard_time": 1729741879,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260850,
+        "num": 368314,
+        "word": "杨旭文唐诡开机现场哽咽了",
+        "onboard_time": 1729738938,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63178,
+        "num": 368130,
+        "word": "土耳其恐袭现场画面曝光",
+        "onboard_time": 1729742779,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1362063,
+        "num": 367748,
+        "word": "女性学历向下婚反超向上婚",
+        "onboard_time": 1729735938,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976490,
+        "num": 367526,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189085,
+        "num": 367269,
+        "word": "人民网评网红频频塌房",
+        "onboard_time": 1729742239,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927518,
+        "num": 367132,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31791,
+        "num": 366747,
+        "word": "河北唐山一煤矿冒顶致6人被困",
+        "onboard_time": 1729742959,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758864,
+        "num": 366705,
+        "word": "南航一架波音飞机疑似发生着陆事故",
+        "onboard_time": 1729741637,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481374,
+        "num": 366267,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477889,
+        "num": 366140,
+        "word": "花少弹幕 呵呵",
+        "onboard_time": 1729743259,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414567,
+        "num": 365828,
+        "word": "高学历夫妇二孩生育概率最低",
+        "onboard_time": 1729737678,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379011,
+        "num": 365730,
+        "word": "台湾幼儿园园长之子涉侵犯39名幼童",
+        "onboard_time": 1729730059,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465307,
+        "num": 365437,
+        "word": "孟佳路边救被撞小猫情绪崩了",
+        "onboard_time": 1729741879,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365266,
+        "num": 365266,
+        "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+        "onboard_time": 1729735397,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318609,
+        "num": 318609,
+        "word": "老人收银偷20万私了2万多后失联",
+        "onboard_time": 1729733418,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190639,
+        "num": 314921,
+        "word": "难哄开通角色号",
+        "onboard_time": 1729742478,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25068,
+        "num": 314196,
+        "word": "朱志鑫Walking练习室",
+        "onboard_time": 1729743679,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313726,
+        "num": 313726,
+        "word": "每套房都让人眼前一亮又一亮",
+        "onboard_time": 1729743380,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293497,
+        "num": 293497,
+        "word": "杜华儿子在韩国训练瘦了15斤",
+        "onboard_time": 1729736237,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288413,
+        "num": 288413,
+        "word": "股神巴菲特表态美国大选",
+        "onboard_time": 1729743920,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28505,
+        "num": 287471,
+        "word": "卓沅发长图",
+        "onboard_time": 1729743740,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179803,
+        "num": 287023,
+        "word": "黄子弘凡抢票",
+        "onboard_time": 1729743019,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1588653,
+        "num": 286886,
+        "word": "官方通报厦门一干部同时出轨多人",
+        "onboard_time": 1729738638,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286658,
+        "num": 286658,
+        "word": "NASA局长称正与中方商谈租借月壤样品",
+        "onboard_time": 1729742838,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 279842,
+        "num": 279842,
+        "word": "孙颖莎参加演讲比赛荣获二等奖",
+        "onboard_time": 1729740317,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241243,
+        "num": 241243,
+        "word": "工作不到4个月新警抓了24名嫌疑人",
+        "onboard_time": 1729735338,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238128,
+        "num": 238128,
+        "word": "耿爽代表中国在联合国为难民发声",
+        "onboard_time": 1729740558,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237512,
+        "num": 237512,
+        "word": "男子蹲守前女友老家多日将其杀害",
+        "onboard_time": 1729728680,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234627,
+        "num": 234627,
+        "word": "张踩铃 回家抓老公现行的女人",
+        "onboard_time": 1729743198,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220940,
+        "num": 220940,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192814,
+        "num": 192814,
+        "word": "韩媒修改珠帘玉幕番位",
+        "onboard_time": 1729733478,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191240,
+        "num": 191240,
+        "word": "宁愿爬七楼也想住的房子",
+        "onboard_time": 1729743198,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187563,
+        "num": 187563,
+        "word": "李诞回应黄磊做饭好吃与否",
+        "onboard_time": 1729724713,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174098,
+        "num": 174098,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "董宇辉离开后新东方首份季报",
+        "onboard_time": 1729735457,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167777,
+        "num": 167777,
+        "word": "秋天是懂配色的",
+        "onboard_time": 1729739237,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156152,
+        "num": 156152,
+        "word": "上海一小区饮用水中现活体红线虫",
+        "onboard_time": 1729728680,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151250,
+        "num": 151250,
+        "word": "被骗197万他还准备再投100万",
+        "onboard_time": 1729732638,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146734,
+        "num": 146734,
+        "word": "阿乐Doinb下赛季疑似同队",
+        "onboard_time": 1729740378,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145248,
+        "num": 145248,
+        "word": "凤凰传奇深圳抢票",
+        "onboard_time": 1729743440,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144490,
+        "num": 144490,
+        "word": "你放不下订单我们放不下你",
+        "onboard_time": 1729737978,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141316,
+        "num": 141316,
+        "word": "现在就出发",
+        "onboard_time": 1729742417,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展是中印两国当前最大公约数#"
+    }
+  }
+}
