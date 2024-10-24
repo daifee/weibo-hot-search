@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729798531870,
+  "endTime": 1729801476798,
   "band_list": [
     {
       "raw_hot": 2659700,
@@ -491,6 +491,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24666,
+      "num": 51781,
+      "word": "今年第20号台风潭美来了",
+      "onboard_time": 1729798152,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23619,
+      "num": 23619,
+      "word": "3000年前的文物盖着3000年前的植物",
+      "onboard_time": 1729799412,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 19007,
+      "word": "大哥上份工作是在宫里吧",
+      "onboard_time": 1729797312,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17260,
       "num": 20629,
       "word": "A股",
@@ -516,18 +540,26 @@
     },
     {
       "raw_hot": 13698,
-      "num": 20592,
+      "num": 28167,
       "word": "张真源个人EP预告",
       "onboard_time": 1729795814,
       "rank": 45,
       "category": "音乐"
     },
     {
-      "raw_hot": 12685,
-      "num": 51781,
-      "word": "今年第20号台风潭美来了",
-      "onboard_time": 1729798152,
+      "raw_hot": 12113,
+      "num": 41314,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1729800911,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12075,
+      "num": 22528,
+      "word": "小学生路遇军车驻足敬礼获回礼",
+      "onboard_time": 1729798570,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
