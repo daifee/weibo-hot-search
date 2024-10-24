@@ -1,0 +1,410 @@
+{
+  "runTime": 1729761840462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026513,
+        "num": 1164242,
+        "word": "学信网结业错失工作高校拒改学历",
+        "onboard_time": 1729749198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825107,
+        "num": 825107,
+        "word": "人怎么可以捅出这么大的篓子",
+        "onboard_time": 1729757959,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33845,
+        "num": 795235,
+        "word": "一组数据说金砖",
+        "onboard_time": 1729759459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1856378,
+        "num": 761566,
+        "word": "老人花200跟团游被忽悠买了套房",
+        "onboard_time": 1729756878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919042,
+        "num": 712676,
+        "word": "黄圣依这期不想离婚了",
+        "onboard_time": 1729746679,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26012,
+        "num": 702449,
+        "word": "第七届进博会要来了",
+        "onboard_time": 1729758858,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665046,
+        "num": 665046,
+        "word": "医生在快递盒上检测出十几种病原体",
+        "onboard_time": 1729758559,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388094,
+        "num": 664683,
+        "word": "papi酱 黄圣依杨子简直儿戏",
+        "onboard_time": 1729754059,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13224,
+        "num": 655382,
+        "word": "律师解读公务员出轨仅被行政记大过",
+        "onboard_time": 1729761798,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185222,
+        "num": 646988,
+        "word": "中印要为发展中国家联合自强作出表率",
+        "onboard_time": 1729760118,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1408922,
+        "num": 643418,
+        "word": "4天内4名国乒队员宣布退出国家队",
+        "onboard_time": 1729756638,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007504,
+        "num": 637617,
+        "word": "乐山大佛景区男厕被女游客进入使用",
+        "onboard_time": 1729759218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633429,
+        "num": 633429,
+        "word": "女子拆快递没洗手吃零食腹泻到脱水",
+        "onboard_time": 1729754899,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353442,
+        "num": 631523,
+        "word": "李子柒营业了",
+        "onboard_time": 1729761739,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40178,
+        "num": 628565,
+        "word": "多家企业提出反内卷",
+        "onboard_time": 1729760778,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104300,
+        "num": 624378,
+        "word": "小米15一眼Crush",
+        "onboard_time": 1729758979,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 304803,
+        "num": 617246,
+        "word": "邓超接管新浪电影官微",
+        "onboard_time": 1729755559,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276020,
+        "num": 613681,
+        "word": "赵丽颖 潮流是会变的",
+        "onboard_time": 1729758439,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 613191,
+        "num": 613191,
+        "word": "艺人7天不发泡泡将退款",
+        "onboard_time": 1729760539,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89549,
+        "num": 531212,
+        "word": "严屹宽跳进披哥决赛圈",
+        "onboard_time": 1729761078,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474596,
+        "num": 474596,
+        "word": "烧伤妈妈求生欲很强没有放弃治疗",
+        "onboard_time": 1729756638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445905,
+        "num": 445905,
+        "word": "为什么转人工越来越难了",
+        "onboard_time": 1729751959,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343002,
+        "num": 343002,
+        "word": "王楚钦看王楠女儿打球",
+        "onboard_time": 1729759339,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319725,
+        "num": 319725,
+        "word": "医院介绍烧伤妈妈最新情况",
+        "onboard_time": 1729760300,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298533,
+        "num": 298533,
+        "word": "国考报名",
+        "onboard_time": 1729754478,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250514,
+        "num": 250514,
+        "word": "曹巍退出国家队",
+        "onboard_time": 1729752439,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214681,
+        "num": 214681,
+        "word": "研究显示亚洲人更能忍耐工作",
+        "onboard_time": 1729751778,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17116,
+        "num": 210996,
+        "word": "海底捞是懂宠粉的",
+        "onboard_time": 1729759277,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210639,
+        "num": 210639,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184870,
+        "num": 204844,
+        "word": "花少弹幕 呵呵",
+        "onboard_time": 1729743259,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201388,
+        "num": 201388,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198594,
+        "num": 198594,
+        "word": "四川长虹",
+        "onboard_time": 1729755138,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197749,
+        "num": 197749,
+        "word": "南航擦尾事故飞行员接受调查",
+        "onboard_time": 1729759519,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186397,
+        "num": 186397,
+        "word": "50万卖出劳力士20万被警方强制扣划",
+        "onboard_time": 1729750100,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181174,
+        "num": 181174,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173561,
+        "num": 173561,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109493,
+        "num": 166116,
+        "word": "郑钦文vs内岛萌夏",
+        "onboard_time": 1729760418,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160761,
+        "num": 160761,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152285,
+        "num": 152285,
+        "word": "喀山宣言",
+        "onboard_time": 1729760658,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146131,
+        "num": 146131,
+        "word": "麦琳 窒息",
+        "onboard_time": 1729747099,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140776,
+        "num": 140776,
+        "word": "研究发现对抗抑郁最有效的运动",
+        "onboard_time": 1729749140,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140216,
+        "num": 140216,
+        "word": "南航回应6年机龄787被曝机尾擦地",
+        "onboard_time": 1729753518,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139291,
+        "num": 139291,
+        "word": "南航一航班疑发生着陆事故乘客发声",
+        "onboard_time": 1729745121,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138165,
+        "num": 138165,
+        "word": "十个勤天全员入围视界大会巅峰赛",
+        "onboard_time": 1729757418,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133925,
+        "num": 133925,
+        "word": "珠帘玉幕排面",
+        "onboard_time": 1729759398,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133868,
+        "num": 133868,
+        "word": "七夜雪 大结局",
+        "onboard_time": 1729761499,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131476,
+        "num": 131476,
+        "word": "炒菜机能炒出锅气吗",
+        "onboard_time": 1729761739,
+        "rank": 46,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 210827,
+        "num": 130291,
+        "word": "vivo产品副总裁道歉",
+        "onboard_time": 1729759697,
+        "rank": 47,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 127805,
+        "num": 127805,
+        "word": "小狗在吸它的阿贝贝",
+        "onboard_time": 1729754478,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9612,
+        "num": 127538,
+        "word": "欧诗漫满足我的周边收集癖",
+        "onboard_time": 1729757418,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平引用的古语读懂金砖之道#"
+    }
+  }
+}

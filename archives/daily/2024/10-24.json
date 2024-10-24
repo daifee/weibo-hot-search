@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729759361435,
+  "endTime": 1729761840462,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1923823,
-      "num": 418067,
+      "num": 643418,
       "word": "4天内4名国乒队员宣布退出国家队",
       "onboard_time": 1729756638,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1856378,
+      "num": 1029893,
+      "word": "老人花200跟团游被忽悠买了套房",
+      "onboard_time": 1729756878,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1837166,
@@ -155,19 +163,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1029893,
-      "num": 1029893,
-      "word": "老人花200跟团游被忽悠买了套房",
-      "onboard_time": 1729756878,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1011185,
       "num": 236437,
       "word": "两家长班级群相识后出轨私奔生1子",
       "onboard_time": 1729690279,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007504,
+      "num": 637617,
+      "word": "乐山大佛景区男厕被女游客进入使用",
+      "onboard_time": 1729759218,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -219,6 +227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 825107,
+      "num": 825107,
+      "word": "人怎么可以捅出这么大的篓子",
+      "onboard_time": 1729757959,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 821907,
       "num": 640109,
       "word": "kimi",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 810794,
-      "num": 433901,
+      "num": 664683,
       "word": "papi酱 黄圣依杨子简直儿戏",
       "onboard_time": 1729754059,
       "rank": 21,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665046,
+      "num": 665046,
+      "word": "医生在快递盒上检测出十几种病原体",
+      "onboard_time": 1729758559,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664658,
       "num": 422342,
       "word": "杜华儿子在韩国训练瘦了15斤",
@@ -345,6 +369,14 @@
       "onboard_time": 1729735397,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613191,
+      "num": 613191,
+      "word": "艺人7天不发泡泡将退款",
+      "onboard_time": 1729760539,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 589043,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 512671,
-      "num": 236629,
+      "num": 474596,
       "word": "烧伤妈妈求生欲很强没有放弃治疗",
       "onboard_time": 1729756638,
       "rank": 20,
@@ -579,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 353442,
+      "num": 631523,
+      "word": "李子柒营业了",
+      "onboard_time": 1729761739,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 351395,
       "num": 351395,
       "word": "耿爽代表中国在联合国为难民发声",
@@ -593,6 +633,14 @@
       "onboard_time": 1729750818,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343002,
+      "num": 343002,
+      "word": "王楚钦看王楠女儿打球",
+      "onboard_time": 1729759339,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 342076,
@@ -651,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319725,
+      "num": 319725,
+      "word": "医院介绍烧伤妈妈最新情况",
+      "onboard_time": 1729760300,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312499,
       "num": 368510,
       "word": "杜华说乐华家大业大是前人栽树",
@@ -665,6 +721,14 @@
       "onboard_time": 1729731198,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304803,
+      "num": 617246,
+      "word": "邓超接管新浪电影官微",
+      "onboard_time": 1729755559,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 297458,
@@ -723,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 281177,
-      "num": 281177,
-      "word": "邓超接管新浪电影官微",
-      "onboard_time": 1729755559,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 279842,
       "num": 279842,
       "word": "孙颖莎参加演讲比赛荣获二等奖",
@@ -761,6 +817,14 @@
       "onboard_time": 1729749140,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 276020,
+      "num": 613681,
+      "word": "赵丽颖 潮流是会变的",
+      "onboard_time": 1729758439,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 261430,
@@ -891,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227522,
-      "num": 227522,
-      "word": "人怎么可以捅出这么大的篓子",
-      "onboard_time": 1729757959,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221172,
       "num": 221172,
       "word": "勇士狂轰139分",
@@ -915,12 +971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211568,
-      "num": 211568,
-      "word": "赵丽颖 潮流是会变的",
-      "onboard_time": 1729758439,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 210827,
+      "num": 130291,
+      "word": "vivo产品副总裁道歉",
+      "onboard_time": 1729759697,
+      "rank": 47,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 209590,
@@ -945,14 +1001,6 @@
       "onboard_time": 1729747280,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 204668,
-      "num": 286779,
-      "word": "医生在快递盒上检测出十几种病原体",
-      "onboard_time": 1729758559,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202182,
@@ -993,6 +1041,14 @@
       "onboard_time": 1729739897,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197749,
+      "num": 197749,
+      "word": "南航擦尾事故飞行员接受调查",
+      "onboard_time": 1729759519,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195992,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1729753218,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185222,
+      "num": 646988,
+      "word": "中印要为发展中国家联合自强作出表率",
+      "onboard_time": 1729760118,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181526,
@@ -1203,6 +1267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152285,
+      "num": 152285,
+      "word": "喀山宣言",
+      "onboard_time": 1729760658,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152008,
       "num": 270576,
       "word": "魏晨华鼎奖华语最佳男演员",
@@ -1331,12 +1403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133925,
+      "num": 133925,
+      "word": "珠帘玉幕排面",
+      "onboard_time": 1729759398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133868,
+      "num": 133868,
+      "word": "七夜雪 大结局",
+      "onboard_time": 1729761499,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132115,
       "num": 288544,
       "word": "土耳其航空航天公司遭恐袭已致3死5伤",
       "onboard_time": 1729737318,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131476,
+      "num": 131476,
+      "word": "炒菜机能炒出锅气吗",
+      "onboard_time": 1729761739,
+      "rank": 46,
+      "category": "美食,科学科普"
     },
     {
       "raw_hot": 131060,
@@ -1384,14 +1480,6 @@
       "word": "国内首批太空船票上架淘宝直播间",
       "onboard_time": 1729749919,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120896,
-      "num": 120896,
-      "word": "乐山大佛景区男厕被女游客进入使用",
-      "onboard_time": 1729759218,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1483,11 +1571,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 110278,
-      "num": 110278,
-      "word": "王楚钦看王楠女儿打球",
-      "onboard_time": 1729759339,
-      "rank": 47,
+      "raw_hot": 109493,
+      "num": 166116,
+      "word": "郑钦文vs内岛萌夏",
+      "onboard_time": 1729760418,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1537,6 +1625,14 @@
       "onboard_time": 1729726276,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104300,
+      "num": 624378,
+      "word": "小米15一眼Crush",
+      "onboard_time": 1729758979,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 104119,
@@ -1609,6 +1705,14 @@
       "onboard_time": 1729715770,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89549,
+      "num": 531212,
+      "word": "严屹宽跳进披哥决赛圈",
+      "onboard_time": 1729761078,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 88162,
@@ -1851,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40178,
+      "num": 628565,
+      "word": "多家企业提出反内卷",
+      "onboard_time": 1729760778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38387,
       "num": 312196,
       "word": "监管部门回应深圳一小学使用过期肉",
@@ -1905,6 +2017,14 @@
       "onboard_time": 1729744460,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33845,
+      "num": 795235,
+      "word": "一组数据说金砖",
+      "onboard_time": 1729759459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33373,
@@ -1996,7 +2116,7 @@
     },
     {
       "raw_hot": 27471,
-      "num": 109266,
+      "num": 210996,
       "word": "海底捞是懂宠粉的",
       "onboard_time": 1729759277,
       "rank": 48,
@@ -2017,6 +2137,14 @@
       "onboard_time": 1729749077,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 26012,
+      "num": 702449,
+      "word": "第七届进博会要来了",
+      "onboard_time": 1729758858,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23920,
@@ -2059,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21198,
-      "num": 138320,
-      "word": "小米15一眼Crush",
-      "onboard_time": 1729758979,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 20389,
       "num": 846520,
       "word": "一图了解金砖未来发展关键词",
@@ -2091,12 +2211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12138,
-      "num": 369210,
-      "word": "第七届进博会要来了",
-      "onboard_time": 1729758858,
+      "raw_hot": 13224,
+      "num": 655382,
+      "word": "律师解读公务员出轨仅被行政记大过",
+      "onboard_time": 1729761798,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9612,
+      "num": 143642,
+      "word": "欧诗漫满足我的周边收集癖",
+      "onboard_time": 1729757418,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 9457,
@@ -2113,14 +2241,6 @@
       "onboard_time": 1729652959,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8048,
-      "num": 143642,
-      "word": "欧诗漫满足我的周边收集癖",
-      "onboard_time": 1729757418,
-      "rank": 40,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
@@ -2141,6 +2261,9 @@
     },
     {
       "word": "#习近平俄罗斯喀山之行#"
+    },
+    {
+      "word": "#从习近平引用的古语读懂金砖之道#"
     }
   ]
 }
