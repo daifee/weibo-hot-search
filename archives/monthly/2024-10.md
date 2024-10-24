@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 21:29:29
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 21:41:08
 </p>
 </blockquote>
 <p>
@@ -4803,6 +4803,12 @@ iPhone16官方罕见降价1600元（热度：919296）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E4%BD%8D%E8%A2%AB%E5%A4%A7%E4%BC%97%E8%AE%A8%E5%8E%8C%E7%9A%84%E6%98%8E%E6%98%9F%E8%81%9A%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%B2%9B%E4%B8%8A%23" target="weibo">
+12位被大众讨厌的明星聚在一个岛上（热度：902185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%99%E5%B0%8F%E7%B3%AF%E7%B1%B3%E4%B9%B0%E7%8E%A9%E5%81%B6%23" target="weibo">
 杨幂给小糯米买玩偶（热度：902117）
 </a>
@@ -6005,12 +6011,6 @@ SpaceX首次回收星舰成功（热度：798348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E6%8A%A2%E7%A5%A8%23" target="weibo">
 12306抢票（热度：786513）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C140%E4%B8%87%E9%9D%92%E5%B9%B4%E5%8F%82%E5%86%9B%E6%88%96%E5%A4%8D%E9%98%9F%23" target="weibo">
-朝鲜140万青年参军或复队（热度：785837）
 </a>
 </li>
 

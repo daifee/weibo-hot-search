@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729776569541,
+  "endTime": 1729777268487,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1743044,
-      "num": 328609,
+      "num": 375167,
       "word": "同居20个月发现自己是第四者",
       "onboard_time": 1729771819,
       "rank": 25,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1322410,
-      "num": 317127,
+      "num": 374589,
       "word": "合肥银泰LV",
       "onboard_time": 1729765097,
       "rank": 34,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1159315,
-      "num": 319787,
+      "num": 374788,
       "word": "女子因长相被开玩笑意外发现身世",
       "onboard_time": 1729769178,
       "rank": 22,
@@ -337,6 +337,14 @@
       "onboard_time": 1729741637,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 902185,
+      "num": 378152,
+      "word": "12位被大众讨厌的明星聚在一个岛上",
+      "onboard_time": 1729775359,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 896927,
@@ -563,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 499529,
-      "num": 304675,
-      "word": "12位被大众讨厌的明星聚在一个岛上",
-      "onboard_time": 1729775359,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 490444,
       "num": 490444,
       "word": "股神巴菲特表态美国大选",
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373609,
+      "num": 373609,
+      "word": "OPPO Find X8价格",
+      "onboard_time": 1729776079,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 357171,
       "num": 290007,
       "word": "张踩铃 回家抓老公现行的女人",
@@ -923,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285475,
+      "num": 285475,
+      "word": "王者荣耀",
+      "onboard_time": 1729776318,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285351,
       "num": 285351,
       "word": "黄金",
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 267126,
-      "num": 267126,
+      "num": 379243,
       "word": "我们都是时代记录者",
       "onboard_time": 1729775599,
       "rank": 32,
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 263583,
-      "num": 338269,
+      "num": 375374,
       "word": "李现 OPPO发布会",
       "onboard_time": 1729773979,
       "rank": 19,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1729733897,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260915,
-      "num": 260915,
-      "word": "OPPO Find X8价格",
-      "onboard_time": 1729776079,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 259085,
@@ -1075,6 +1083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248011,
+      "num": 248011,
+      "word": "警方通报女子存银行40万莫名消失",
+      "onboard_time": 1729773140,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245991,
       "num": 646988,
       "word": "中印要为发展中国家联合自强作出表率",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1729689078,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242923,
-      "num": 242923,
-      "word": "警方通报女子存银行40万莫名消失",
-      "onboard_time": 1729773140,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240567,
@@ -1211,6 +1219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219432,
+      "num": 219432,
+      "word": "女子5年攒5万根掉发老了做假发",
+      "onboard_time": 1729774518,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219003,
+      "num": 219003,
+      "word": "A股高位下跌后已调整10个交易日",
+      "onboard_time": 1729774760,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218480,
       "num": 238712,
       "word": "中国要推动乌克兰危机局势尽快缓和",
@@ -1243,6 +1267,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 210396,
+      "num": 210396,
+      "word": "教育局回应建议取消家长护学岗",
+      "onboard_time": 1729775599,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209700,
       "num": 209700,
       "word": "郑钦文vs内岛萌夏",
@@ -1260,7 +1292,7 @@
     },
     {
       "raw_hot": 207933,
-      "num": 292353,
+      "num": 373629,
       "word": "offer6吵架名场面",
       "onboard_time": 1729772598,
       "rank": 17,
@@ -1371,14 +1403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 195504,
-      "num": 195504,
-      "word": "A股高位下跌后已调整10个交易日",
-      "onboard_time": 1729774760,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 194502,
       "num": 194502,
       "word": "巴萨4比1拜仁",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1729757598,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193675,
+      "num": 193675,
+      "word": "你最pick哪个孙颖莎上封面",
+      "onboard_time": 1729776799,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 193477,
@@ -1499,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171464,
-      "num": 171464,
-      "word": "王者荣耀",
-      "onboard_time": 1729776318,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171103,
       "num": 223623,
       "word": "林俊杰重庆二开",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1729750458,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166260,
-      "num": 166260,
-      "word": "女子5年攒5万根掉发老了做假发",
-      "onboard_time": 1729774518,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165797,
@@ -1633,14 +1649,6 @@
       "onboard_time": 1729753818,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156054,
-      "num": 156054,
-      "word": "教育局回应建议取消家长护学岗",
-      "onboard_time": 1729775599,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 156024,
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143282,
+      "num": 143282,
+      "word": "潘展乐反超飞起来了",
+      "onboard_time": 1729776079,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143250,
       "num": 143250,
       "word": "杨迪听我记得想到去世狗狗痛哭",
@@ -1899,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129711,
+      "num": 410914,
+      "word": "旅游搭子可能是境外间谍",
+      "onboard_time": 1729774999,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129637,
       "num": 129637,
       "word": "雷军程序员节发文",
@@ -1931,6 +1955,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 124490,
+      "num": 395092,
+      "word": "程序员转行干保洁月入过万",
+      "onboard_time": 1729775119,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124088,
       "num": 124088,
       "word": "南京警方破获南博等文旅场所黄牛大案",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1729773140,
       "rank": 43,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 119525,
+      "num": 377152,
+      "word": "刚失恋收到淘宝4166元拍立淘红包",
+      "onboard_time": 1729774818,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 118659,
@@ -2057,14 +2097,6 @@
       "onboard_time": 1729723092,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110807,
-      "num": 395092,
-      "word": "程序员转行干保洁月入过万",
-      "onboard_time": 1729775119,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110691,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1729730600,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99515,
-      "num": 374103,
-      "word": "刚失恋收到淘宝4166元拍立淘红包",
-      "onboard_time": 1729774818,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 98323,
@@ -2331,14 +2355,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 78286,
-      "num": 410914,
-      "word": "旅游搭子可能是境外间谍",
-      "onboard_time": 1729774999,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76824,
       "num": 77773,
       "word": "心疼陈好",
@@ -2419,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68306,
+      "num": 376519,
+      "word": "苹果没有的OPhone都有了",
+      "onboard_time": 1729775060,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67973,
       "num": 347653,
       "word": "荣耀Magic7朱珠",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1729751478,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62114,
-      "num": 364893,
-      "word": "苹果没有的OPhone都有了",
-      "onboard_time": 1729775060,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 60743,
@@ -2667,6 +2683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32309,
+      "num": 949510,
+      "word": "外国朋友说金砖是个大家庭",
+      "onboard_time": 1729774699,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31577,
       "num": 278653,
       "word": "外交部回应土耳其遭恐袭",
@@ -2691,12 +2715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30820,
-      "num": 949510,
-      "word": "外国朋友说金砖是个大家庭",
-      "onboard_time": 1729774699,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 30876,
+      "num": 385914,
+      "word": "李现OPPO发布会抓拍奶狗",
+      "onboard_time": 1729775060,
+      "rank": 13,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 30810,
@@ -2723,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29974,
+      "num": 209873,
+      "word": "OPPO的AI还是太全面了",
+      "onboard_time": 1729776799,
+      "rank": 35,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 29879,
       "num": 342018,
       "word": "朱志鑫Walking练习室",
@@ -2745,14 +2777,6 @@
       "onboard_time": 1729753579,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27927,
-      "num": 385914,
-      "word": "李现OPPO发布会抓拍奶狗",
-      "onboard_time": 1729775060,
-      "rank": 13,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 27616,
