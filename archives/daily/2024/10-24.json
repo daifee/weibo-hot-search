@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729748383042,
+  "endTime": 1729751509561,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -16,6 +16,14 @@
       "word": "某高校部分女生要求公共健身房禁入男生",
       "onboard_time": 1729732818,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1861245,
+      "num": 1861245,
+      "word": "学信网结业错失工作高校拒改学历",
+      "onboard_time": 1729749198,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969388,
+      "num": 393972,
+      "word": "南航一航班疑发生着陆事故乘客发声",
+      "onboard_time": 1729745121,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944383,
       "num": 944383,
       "word": "选特朗普打印出来变哈里斯",
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589043,
+      "num": 434885,
+      "word": "麦琳 窒息",
+      "onboard_time": 1729747099,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574463,
       "num": 574463,
       "word": "小米15",
@@ -323,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449883,
+      "num": 449883,
+      "word": "50万卖出劳力士20万被警方强制扣划",
+      "onboard_time": 1729750100,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449039,
       "num": 449039,
       "word": "TheShy和Rookie疑似回归iG",
@@ -339,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443182,
+      "num": 443182,
+      "word": "目前房贷商贷利率最低只能办到2.85%",
+      "onboard_time": 1729748598,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 441131,
       "num": 441131,
       "word": "教师不是什么大冤种不该如此背刺",
@@ -353,14 +393,6 @@
       "onboard_time": 1729742838,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 418383,
-      "num": 418383,
-      "word": "麦琳 窒息",
-      "onboard_time": 1729747099,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 414567,
@@ -393,6 +425,14 @@
       "onboard_time": 1729662918,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395208,
+      "num": 395208,
+      "word": "kimi",
+      "onboard_time": 1729750458,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 384902,
@@ -475,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334787,
+      "num": 251005,
+      "word": "母亲去世豪门三姐弟互撕",
+      "onboard_time": 1729750818,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325155,
       "num": 309809,
       "word": "巨石强森变小石强森",
@@ -539,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 285099,
+      "num": 306994,
+      "word": "李沁 越虐越美",
+      "onboard_time": 1729745781,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284250,
       "num": 230104,
       "word": "4岁女孩右眼做手术左眼被开刀",
@@ -579,20 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270807,
-      "num": 306994,
-      "word": "李沁 越虐越美",
-      "onboard_time": 1729745781,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 265856,
-      "num": 265856,
-      "word": "南航一航班疑发生着陆事故乘客发声",
-      "onboard_time": 1729745121,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 265660,
+      "num": 248195,
+      "word": "研究发现对抗抑郁最有效的运动",
+      "onboard_time": 1729749140,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 261430,
@@ -617,6 +665,14 @@
       "onboard_time": 1729689078,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243778,
+      "num": 243778,
+      "word": "保时捷车主蹭4S店免费车位被拒绝",
+      "onboard_time": 1729748959,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240567,
@@ -687,6 +743,30 @@
       "num": 230305,
       "word": "女子厕所点汽油轻生致邻居马桶崩开",
       "onboard_time": 1729732939,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221172,
+      "num": 221172,
+      "word": "勇士狂轰139分",
+      "onboard_time": 1729749259,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218813,
+      "num": 269598,
+      "word": "留几手亏了葛夕妈妈一套房",
+      "onboard_time": 1729750818,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218488,
+      "num": 174505,
+      "word": "女子举报干部婚内出轨自己被当第四者",
+      "onboard_time": 1729748778,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -803,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174683,
+      "num": 174683,
+      "word": "慕容璟和大婚坐轿子",
+      "onboard_time": 1729750999,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167777,
       "num": 431831,
       "word": "秋天是懂配色的",
@@ -817,6 +905,14 @@
       "onboard_time": 1729729639,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 166488,
+      "num": 166488,
+      "word": "孙艺珍池昌旭将合作新剧",
+      "onboard_time": 1729750458,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 164110,
@@ -971,12 +1067,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130699,
+      "num": 130699,
+      "word": "原来牛是色盲",
+      "onboard_time": 1729751419,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130025,
+      "num": 130025,
+      "word": "宋亚轩生吃大葱",
+      "onboard_time": 1729749979,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129637,
       "num": 129637,
       "word": "雷军程序员节发文",
       "onboard_time": 1729734439,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129347,
+      "num": 129347,
+      "word": "马龙说心理健康很重要",
+      "onboard_time": 1729748478,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125677,
@@ -1025,6 +1145,14 @@
       "onboard_time": 1729709892,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113293,
+      "num": 253098,
+      "word": "李沁收官文",
+      "onboard_time": 1729750159,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 111369,
@@ -1163,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91670,
+      "num": 138606,
+      "word": "国内首批太空船票上架淘宝直播间",
+      "onboard_time": 1729749919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88162,
       "num": 88162,
       "word": "差点没认出来小沈阳",
@@ -1193,6 +1329,14 @@
       "onboard_time": 1729720511,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82076,
+      "num": 136423,
+      "word": "吴彤去不了华晨宇演唱会了",
+      "onboard_time": 1729749979,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 81665,
@@ -1305,6 +1449,14 @@
       "onboard_time": 1729744460,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 62888,
+      "num": 125801,
+      "word": "陈梦谈乒乓球队精神传承",
+      "onboard_time": 1729751478,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60743,
@@ -1475,6 +1627,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27726,
+      "num": 394611,
+      "word": "土耳其军工厂遭恐袭更多细节公布",
+      "onboard_time": 1729750039,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 27429,
+      "num": 138939,
+      "word": "任嘉伦回眸杀",
+      "onboard_time": 1729749499,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25941,
+      "num": 140318,
+      "word": "朱珠chill得毫不费力",
+      "onboard_time": 1729749439,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23920,
       "num": 26102,
       "word": "檀健次巡演成都站官宣",
@@ -1505,6 +1681,14 @@
       "onboard_time": 1729746441,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22240,
+      "num": 171762,
+      "word": "OPPO无影抓拍国产大飞机",
+      "onboard_time": 1729749077,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 21608,

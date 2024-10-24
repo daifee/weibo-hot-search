@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 13:39:43
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 14:31:49
 </p>
 </blockquote>
 <p>
@@ -1085,6 +1085,12 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%88%A9%E6%9D%A5%E4%BA%8C%E5%85%AC%E5%AD%90%E9%80%90%E6%A2%A6%E6%BC%94%E8%89%BA%E5%9C%88%23" target="weibo">
 好利来二公子逐梦演艺圈（热度：1864900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BF%A1%E7%BD%91%E7%BB%93%E4%B8%9A%E9%94%99%E5%A4%B1%E5%B7%A5%E4%BD%9C%E9%AB%98%E6%A0%A1%E6%8B%92%E6%94%B9%E5%AD%A6%E5%8E%86%23" target="weibo">
+学信网结业错失工作高校拒改学历（热度：1861245）
 </a>
 </li>
 
@@ -4197,6 +4203,12 @@ SEVENTEEN演唱会着火（热度：981986）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E4%B8%80%E8%88%AA%E7%8F%AD%E7%96%91%E5%8F%91%E7%94%9F%E7%9D%80%E9%99%86%E4%BA%8B%E6%95%85%E4%B9%98%E5%AE%A2%E5%8F%91%E5%A3%B0%23" target="weibo">
+南航一航班疑发生着陆事故乘客发声（热度：969388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%B9%A4%E5%A5%B6%E7%B2%89%23" target="weibo">
 飞鹤奶粉（热度：966190）
 </a>
@@ -5999,18 +6011,6 @@ SpaceX首次回收星舰成功（热度：798348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E8%B6%85180%E6%9E%9A%E5%AF%BC%E5%BC%B9%23" target="weibo">
 以军称伊朗向以色列发射超180枚导弹（热度：775576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%AD%E9%95%BF%E4%B9%8B%E5%AD%90%E6%B6%89%E4%BE%B5%E7%8A%AF39%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
-台湾幼儿园园长之子涉侵犯39名幼童（热度：774480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E6%AD%BB%E9%A1%B6%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%A6%E8%BE%86%E7%9A%84%E4%BB%96%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%23" target="weibo">
-死死顶住失控车辆的他获赠新车（热度：773924）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729748383042,
+  "endTime": 1729751509561,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -209,6 +209,14 @@
       "onboard_time": 1729403600,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1861245,
+      "num": 1861245,
+      "word": "学信网结业错失工作高校拒改学历",
+      "onboard_time": 1729749198,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1837166,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1729672999,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 969388,
+      "num": 393972,
+      "word": "南航一航班疑发生着陆事故乘客发声",
+      "onboard_time": 1729745121,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 962236,
@@ -2291,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589043,
+      "num": 434885,
+      "word": "麦琳 窒息",
+      "onboard_time": 1729747099,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588102,
       "num": 588102,
       "word": "昆明长丰学校食堂承包商被罚578万",
@@ -3019,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449883,
+      "num": 449883,
+      "word": "50万卖出劳力士20万被警方强制扣划",
+      "onboard_time": 1729750100,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449039,
       "num": 449039,
       "word": "TheShy和Rookie疑似回归iG",
@@ -3073,6 +3105,14 @@
       "onboard_time": 1729435824,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443182,
+      "num": 443182,
+      "word": "目前房贷商贷利率最低只能办到2.85%",
+      "onboard_time": 1729748598,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 443095,
@@ -3185,14 +3225,6 @@
       "onboard_time": 1729506320,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418383,
-      "num": 418383,
-      "word": "麦琳 窒息",
-      "onboard_time": 1729747099,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 418349,
@@ -3377,6 +3409,14 @@
       "onboard_time": 1729396939,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395208,
+      "num": 395208,
+      "word": "kimi",
+      "onboard_time": 1729750458,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 394961,
@@ -3920,6 +3960,14 @@
       "word": "韩综模仿Hanni出席国会监查",
       "onboard_time": 1729381697,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334787,
+      "num": 251005,
+      "word": "母亲去世豪门三姐弟互撕",
+      "onboard_time": 1729750818,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -4499,6 +4547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 285099,
+      "num": 306994,
+      "word": "李沁 越虐越美",
+      "onboard_time": 1729745781,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283652,
       "num": 252793,
       "word": "安静公主",
@@ -4675,14 +4731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 270807,
-      "num": 306994,
-      "word": "李沁 越虐越美",
-      "onboard_time": 1729745781,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270522,
       "num": 270522,
       "word": "教育局回应学生带饭只能室外用餐",
@@ -4755,12 +4803,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265856,
-      "num": 265856,
-      "word": "南航一航班疑发生着陆事故乘客发声",
-      "onboard_time": 1729745121,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 265660,
+      "num": 248195,
+      "word": "研究发现对抗抑郁最有效的运动",
+      "onboard_time": 1729749140,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 264295,
@@ -5049,6 +5097,14 @@
       "onboard_time": 1729433245,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 243778,
+      "num": 243778,
+      "word": "保时捷车主蹭4S店免费车位被拒绝",
+      "onboard_time": 1729748959,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243623,
@@ -5571,6 +5627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221172,
+      "num": 221172,
+      "word": "勇士狂轰139分",
+      "onboard_time": 1729749259,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221151,
       "num": 221151,
       "word": "法考主观题",
@@ -5643,12 +5707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218813,
+      "num": 269598,
+      "word": "留几手亏了葛夕妈妈一套房",
+      "onboard_time": 1729750818,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218797,
       "num": 264979,
       "word": "俄罗斯礼兵在机场列队致敬",
       "onboard_time": 1729592177,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 218488,
+      "num": 174505,
+      "word": "女子举报干部婚内出轨自己被当第四者",
+      "onboard_time": 1729748778,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218398,
@@ -7243,6 +7323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174683,
+      "num": 174683,
+      "word": "慕容璟和大婚坐轿子",
+      "onboard_time": 1729750999,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174272,
       "num": 174272,
       "word": "杨子 已读乱回",
@@ -7553,6 +7641,14 @@
       "onboard_time": 1729729639,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 166488,
+      "num": 166488,
+      "word": "孙艺珍池昌旭将合作新剧",
+      "onboard_time": 1729750458,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 166026,
@@ -9051,6 +9147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130699,
+      "num": 130699,
+      "word": "原来牛是色盲",
+      "onboard_time": 1729751419,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130584,
       "num": 130584,
       "word": "1至9月共追回医保资金160.6亿",
@@ -9073,6 +9177,14 @@
       "onboard_time": 1729481179,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130025,
+      "num": 130025,
+      "word": "宋亚轩生吃大葱",
+      "onboard_time": 1729749979,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129892,
@@ -9121,6 +9233,14 @@
       "onboard_time": 1729676598,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129347,
+      "num": 129347,
+      "word": "马龙说心理健康很重要",
+      "onboard_time": 1729748478,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129201,
@@ -9721,6 +9841,14 @@
       "onboard_time": 1729516820,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113293,
+      "num": 253098,
+      "word": "李沁收官文",
+      "onboard_time": 1729750159,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 112885,
@@ -10355,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91670,
+      "num": 138606,
+      "word": "国内首批太空船票上架淘宝直播间",
+      "onboard_time": 1729749919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91342,
       "num": 91342,
       "word": "以军瞄准辛瓦尔视频画面曝光",
@@ -10553,6 +10689,14 @@
       "onboard_time": 1729674258,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82076,
+      "num": 136423,
+      "word": "吴彤去不了华晨宇演唱会了",
+      "onboard_time": 1729749979,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 81713,
@@ -11033,6 +11177,14 @@
       "onboard_time": 1729400419,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62888,
+      "num": 125801,
+      "word": "陈梦谈乒乓球队精神传承",
+      "onboard_time": 1729751478,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62880,
@@ -12459,6 +12611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27726,
+      "num": 394611,
+      "word": "土耳其军工厂遭恐袭更多细节公布",
+      "onboard_time": 1729750039,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 27429,
+      "num": 138939,
+      "word": "任嘉伦回眸杀",
+      "onboard_time": 1729749499,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27424,
       "num": 195513,
       "word": "吃鸡er的飙车是飞车",
@@ -12529,6 +12697,14 @@
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25941,
+      "num": 140318,
+      "word": "朱珠chill得毫不费力",
+      "onboard_time": 1729749439,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25677,
@@ -12713,6 +12889,14 @@
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22240,
+      "num": 171762,
+      "word": "OPPO无影抓拍国产大飞机",
+      "onboard_time": 1729749077,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 22128,

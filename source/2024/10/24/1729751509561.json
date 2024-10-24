@@ -1,0 +1,410 @@
+{
+  "runTime": 1729751509561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1861245,
+        "num": 1861245,
+        "word": "学信网结业错失工作高校拒改学历",
+        "onboard_time": 1729749198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685515,
+        "num": 685515,
+        "word": "花少弹幕 呵呵",
+        "onboard_time": 1729743259,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2917,
+        "num": 480180,
+        "word": "一图了解金砖未来发展关键词",
+        "onboard_time": 1729732397,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2655110,
+        "num": 478292,
+        "word": "黄圣依这期不想离婚了",
+        "onboard_time": 1729746679,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449883,
+        "num": 449883,
+        "word": "50万卖出劳力士20万被警方强制扣划",
+        "onboard_time": 1729750100,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443182,
+        "num": 443182,
+        "word": "目前房贷商贷利率最低只能办到2.85%",
+        "onboard_time": 1729748598,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 589043,
+        "num": 434885,
+        "word": "麦琳 窒息",
+        "onboard_time": 1729747099,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404886,
+        "num": 404886,
+        "word": "中方在联合国强烈谴责以色列",
+        "onboard_time": 1729738818,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395208,
+        "num": 395208,
+        "word": "kimi",
+        "onboard_time": 1729750458,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27726,
+        "num": 394611,
+        "word": "土耳其军工厂遭恐袭更多细节公布",
+        "onboard_time": 1729750039,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 969388,
+        "num": 393972,
+        "word": "南航一航班疑发生着陆事故乘客发声",
+        "onboard_time": 1729745121,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495272,
+        "num": 393310,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404052,
+        "num": 392598,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392530,
+        "num": 392530,
+        "word": "教师不是什么大冤种不该如此背刺",
+        "onboard_time": 1729744400,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305320,
+        "num": 305320,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304220,
+        "num": 304220,
+        "word": "NASA局长称正与中方商谈租借月壤样品",
+        "onboard_time": 1729742838,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 285099,
+        "num": 285099,
+        "word": "李沁 越虐越美",
+        "onboard_time": 1729745781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218813,
+        "num": 269598,
+        "word": "留几手亏了葛夕妈妈一套房",
+        "onboard_time": 1729750818,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254772,
+        "num": 254772,
+        "word": "南航一架波音飞机疑似发生着陆事故",
+        "onboard_time": 1729741637,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113293,
+        "num": 253098,
+        "word": "李沁收官文",
+        "onboard_time": 1729750159,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372981,
+        "num": 252378,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334787,
+        "num": 251005,
+        "word": "母亲去世豪门三姐弟互撕",
+        "onboard_time": 1729750818,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265660,
+        "num": 248195,
+        "word": "研究发现对抗抑郁最有效的运动",
+        "onboard_time": 1729749140,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 217620,
+        "num": 247526,
+        "word": "桑延为温以凡庆生vlog",
+        "onboard_time": 1729745300,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246288,
+        "num": 246288,
+        "word": "每套房都让人眼前一亮又一亮",
+        "onboard_time": 1729743380,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243778,
+        "num": 243778,
+        "word": "保时捷车主蹭4S店免费车位被拒绝",
+        "onboard_time": 1729748959,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241934,
+        "num": 241934,
+        "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+        "onboard_time": 1729735397,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224049,
+        "num": 224049,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221172,
+        "num": 221172,
+        "word": "勇士狂轰139分",
+        "onboard_time": 1729749259,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174683,
+        "num": 174683,
+        "word": "慕容璟和大婚坐轿子",
+        "onboard_time": 1729750999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218488,
+        "num": 174505,
+        "word": "女子举报干部婚内出轨自己被当第四者",
+        "onboard_time": 1729748778,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174301,
+        "num": 174301,
+        "word": "巨石强森变小石强森",
+        "onboard_time": 1729746080,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22240,
+        "num": 171762,
+        "word": "OPPO无影抓拍国产大飞机",
+        "onboard_time": 1729749077,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169985,
+        "num": 169985,
+        "word": "台湾幼儿园园长之子涉侵犯39名幼童",
+        "onboard_time": 1729730059,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169963,
+        "num": 169963,
+        "word": "离婚又复婚还有婚假吗",
+        "onboard_time": 1729739178,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166488,
+        "num": 166488,
+        "word": "孙艺珍池昌旭将合作新剧",
+        "onboard_time": 1729750458,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147251,
+        "num": 147251,
+        "word": "老人收银偷20万私了2万多后失联",
+        "onboard_time": 1729733418,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147148,
+        "num": 147148,
+        "word": "孟佳路边救被撞小猫情绪崩了",
+        "onboard_time": 1729741879,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141455,
+        "num": 141455,
+        "word": "剑来",
+        "onboard_time": 1729747280,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 25941,
+        "num": 140318,
+        "word": "朱珠chill得毫不费力",
+        "onboard_time": 1729749439,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27429,
+        "num": 138939,
+        "word": "任嘉伦回眸杀",
+        "onboard_time": 1729749499,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91670,
+        "num": 138606,
+        "word": "国内首批太空船票上架淘宝直播间",
+        "onboard_time": 1729749919,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82076,
+        "num": 136423,
+        "word": "吴彤去不了华晨宇演唱会了",
+        "onboard_time": 1729749979,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136124,
+        "num": 136124,
+        "word": "TheShy和Rookie疑似回归iG",
+        "onboard_time": 1729737737,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135255,
+        "num": 135255,
+        "word": "Uzi说不打老头杯",
+        "onboard_time": 1729747939,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135196,
+        "num": 135196,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130699,
+        "num": 130699,
+        "word": "原来牛是色盲",
+        "onboard_time": 1729751419,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130025,
+        "num": 130025,
+        "word": "宋亚轩生吃大葱",
+        "onboard_time": 1729749979,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129347,
+        "num": 129347,
+        "word": "马龙说心理健康很重要",
+        "onboard_time": 1729748478,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62888,
+        "num": 125801,
+        "word": "陈梦谈乒乓球队精神传承",
+        "onboard_time": 1729751478,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同埃方做守望相助的真诚朋友#"
+    }
+  }
+}
