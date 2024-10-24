@@ -1,10 +1,10 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729754470042,
+  "endTime": 1729755403972,
   "band_list": [
     {
       "raw_hot": 3027434,
-      "num": 832866,
+      "num": 834247,
       "word": "黄圣依这期不想离婚了",
       "onboard_time": 1729746679,
       "rank": 14,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1145445,
+      "num": 1145445,
+      "word": "为什么转人工越来越难了",
+      "onboard_time": 1729751959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1120290,
       "num": 695526,
       "word": "离婚又复婚还有婚假吗",
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 903464,
-      "num": 903464,
-      "word": "为什么转人工越来越难了",
-      "onboard_time": 1729751959,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 896927,
       "num": 1143508,
       "word": "以军称找到5亿美元2天了没证据",
@@ -209,6 +209,14 @@
       "onboard_time": 1729735038,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 810794,
+      "num": 363542,
+      "word": "papi酱 黄圣依杨子简直儿戏",
+      "onboard_time": 1729754059,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 792129,
@@ -251,20 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719128,
+      "num": 719128,
+      "word": "小米15Pro",
+      "onboard_time": 1729752139,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 694206,
+      "num": 354860,
+      "word": "影视飓风致歉",
+      "onboard_time": 1729752799,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 676725,
       "num": 318609,
       "word": "老人收银偷20万私了2万多后失联",
       "onboard_time": 1729733418,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672149,
-      "num": 246601,
-      "word": "影视飓风致歉",
-      "onboard_time": 1729752799,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 664658,
@@ -297,14 +313,6 @@
       "onboard_time": 1729735397,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600086,
-      "num": 246580,
-      "word": "小米15Pro",
-      "onboard_time": 1729752139,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 589043,
@@ -595,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309849,
-      "num": 246503,
-      "word": "papi酱 黄圣依杨子简直儿戏",
-      "onboard_time": 1729754059,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305928,
       "num": 305928,
       "word": "法国一城用雪貂抓老鼠",
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213934,
+      "num": 342775,
+      "word": "研究显示亚洲人更能忍耐工作",
+      "onboard_time": 1729751778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209590,
       "num": 209590,
       "word": "8块8的虫草内裤直播间卖了250万元",
@@ -931,20 +939,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190379,
+      "num": 213977,
+      "word": "战至巅峰3总决赛全阵容",
+      "onboard_time": 1729754478,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189728,
+      "num": 213944,
+      "word": "赵晴新剧钓系小白花女主",
+      "onboard_time": 1729754240,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187688,
+      "num": 216333,
+      "word": "宋茜五登芭莎封面",
+      "onboard_time": 1729753218,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182162,
+      "num": 182162,
+      "word": "国考报名",
+      "onboard_time": 1729754478,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181526,
       "num": 181526,
       "word": "杜华对旗下艺人说不要恨我",
       "onboard_time": 1729747939,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180397,
-      "num": 216333,
-      "word": "宋茜五登芭莎封面",
-      "onboard_time": 1729753218,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179803,
@@ -961,6 +993,14 @@
       "onboard_time": 1729750999,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171043,
+      "num": 246575,
+      "word": "南航回应6年机龄787被曝机尾擦地",
+      "onboard_time": 1729753518,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167777,
@@ -987,20 +1027,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165716,
+      "num": 165716,
+      "word": "小狗在吸它的阿贝贝",
+      "onboard_time": 1729754478,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164110,
       "num": 164110,
       "word": "闪耀暖暖",
       "onboard_time": 1729734618,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163883,
-      "num": 342775,
-      "word": "研究显示亚洲人更能忍耐工作",
-      "onboard_time": 1729751778,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162998,
@@ -1019,14 +1059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158539,
-      "num": 246575,
-      "word": "南航回应6年机龄787被曝机尾擦地",
-      "onboard_time": 1729753518,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157124,
       "num": 157124,
       "word": "黄仁俊拍摄路透",
@@ -1040,6 +1072,14 @@
       "word": "2024微博视界大会定档",
       "onboard_time": 1729744820,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155487,
+      "num": 155487,
+      "word": "白敬亭单手打蛋 眼睛会了手没会",
+      "onboard_time": 1729754658,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1073,6 +1113,14 @@
       "onboard_time": 1729753339,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147214,
+      "num": 147214,
+      "word": "杨幂密逃6收官总结",
+      "onboard_time": 1729754899,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 145322,
@@ -1171,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134967,
-      "num": 134967,
-      "word": "赵晴新剧钓系小白花女主",
-      "onboard_time": 1729754240,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132115,
       "num": 288544,
       "word": "土耳其航空航天公司遭恐袭已致3死5伤",
@@ -1219,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126760,
+      "num": 126760,
+      "word": "四川长虹",
+      "onboard_time": 1729755138,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125677,
       "num": 125677,
       "word": "秋日OOTD",
@@ -1227,7 +1275,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 121899,
+      "raw_hot": 122321,
       "num": 138606,
       "word": "国内首批太空船票上架淘宝直播间",
       "onboard_time": 1729749919,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1729683318,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115595,
+      "num": 365563,
+      "word": "学信网显示结业错失工作案迎新进展",
+      "onboard_time": 1729754418,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114839,
@@ -1547,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75140,
-      "num": 214170,
-      "word": "学信网显示结业错失工作案迎新进展",
-      "onboard_time": 1729754418,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74152,
       "num": 77691,
       "word": "东北的冬季要来了",
@@ -1595,8 +1643,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66495,
+      "num": 246517,
+      "word": "9岁孩子出现叛逆表现确诊甲亢",
+      "onboard_time": 1729753459,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62888,
-      "num": 274762,
+      "num": 360109,
       "word": "陈梦谈乒乓球队精神传承",
       "onboard_time": 1729751478,
       "rank": 49,
@@ -1633,6 +1689,14 @@
       "onboard_time": 1729738818,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 53774,
+      "num": 358305,
+      "word": "女子拆快递没洗手吃零食腹泻到脱水",
+      "onboard_time": 1729754899,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52814,
@@ -1675,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42390,
-      "num": 246517,
-      "word": "9岁孩子出现叛逆表现确诊甲亢",
-      "onboard_time": 1729753459,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38387,
       "num": 312196,
       "word": "监管部门回应深圳一小学使用过期肉",
@@ -1720,6 +1776,14 @@
       "word": "一辈子捆绑在车上的货车司机们",
       "onboard_time": 1729737378,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36858,
+      "num": 355759,
+      "word": "揭秘短视频账号运营培训圈钱套路",
+      "onboard_time": 1729755320,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28401,
+      "num": 246568,
+      "word": "长春高空抛物被砸女孩梦想当检察官",
+      "onboard_time": 1729753579,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26388,
       "num": 190064,
       "word": "OPPO无影抓拍国产大飞机",
@@ -1851,14 +1923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22349,
-      "num": 246568,
-      "word": "长春高空抛物被砸女孩梦想当检察官",
-      "onboard_time": 1729753579,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21608,
       "num": 27994,
       "word": "警犬福仔也逃不过班味",
@@ -1892,7 +1956,7 @@
     },
     {
       "raw_hot": 9109,
-      "num": 834278,
+      "num": 911888,
       "word": "大金砖合作的中国方案",
       "onboard_time": 1729732638,
       "rank": 2,
