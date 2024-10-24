@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729773767118,
+  "endTime": 1729774774125,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2145411,
-      "num": 249795,
+      "num": 510098,
       "word": "网传客户出轨LV柜姐后原配来闹事",
       "onboard_time": 1729769598,
       "rank": 37,
@@ -113,6 +113,14 @@
       "onboard_time": 1729757959,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1743044,
+      "num": 268462,
+      "word": "同居20个月发现自己是第四者",
+      "onboard_time": 1729771819,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1741737,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1233243,
+      "num": 1233243,
+      "word": "花少 重新剪辑",
+      "onboard_time": 1729769899,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1162560,
       "num": 1186009,
       "word": "花少弹幕 呵呵",
@@ -243,28 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1117607,
-      "num": 180265,
-      "word": "同居20个月发现自己是第四者",
-      "onboard_time": 1729771819,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1117189,
       "num": 637617,
       "word": "乐山大佛景区男厕被女游客进入使用",
       "onboard_time": 1729759218,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1068224,
-      "num": 1068224,
-      "word": "花少 重新剪辑",
-      "onboard_time": 1729769899,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1011185,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577489,
+      "num": 506028,
+      "word": "转发未婚妻出轨证据被拘男子发声",
+      "onboard_time": 1729772359,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574463,
       "num": 574463,
       "word": "小米15",
@@ -545,14 +553,6 @@
       "onboard_time": 1729683258,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492688,
-      "num": 247373,
-      "word": "转发未婚妻出轨证据被拘男子发声",
-      "onboard_time": 1729772359,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490444,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 439954,
-      "num": 439954,
+      "num": 518607,
       "word": "武艺精准吐槽杨子",
       "onboard_time": 1729761982,
       "rank": 19,
@@ -641,6 +641,14 @@
       "onboard_time": 1729751778,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433742,
+      "num": 433742,
+      "word": "黄圣依不知道自己个人资产有多少",
+      "onboard_time": 1729773979,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 426866,
@@ -787,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340804,
+      "num": 340804,
+      "word": "七夜雪 男二",
+      "onboard_time": 1729771038,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339497,
       "num": 339497,
       "word": "豆腐放室外四五个小时就成了冻豆腐",
@@ -819,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329532,
-      "num": 227929,
-      "word": "七夜雪 男二",
-      "onboard_time": 1729771038,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 325155,
       "num": 309809,
       "word": "巨石强森变小石强森",
@@ -841,6 +849,14 @@
       "onboard_time": 1729680979,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312789,
+      "num": 234545,
+      "word": "伴娘 我办事你就闹心吧",
+      "onboard_time": 1729771278,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 312499,
@@ -1075,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237276,
+      "num": 237276,
+      "word": "警方通报女子存银行40万莫名消失",
+      "onboard_time": 1729773140,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236487,
       "num": 236487,
       "word": "爱奇艺新规被吐槽吃相难看",
@@ -1139,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221896,
-      "num": 176986,
-      "word": "伴娘 我办事你就闹心吧",
-      "onboard_time": 1729771278,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221172,
       "num": 221172,
       "word": "勇士狂轰139分",
@@ -1171,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213209,
+      "num": 213209,
+      "word": "萨摩耶把边牧关进了笼子里",
+      "onboard_time": 1729769239,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210827,
       "num": 130291,
       "word": "vivo产品副总裁道歉",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1729685657,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207933,
+      "num": 287330,
+      "word": "offer6吵架名场面",
+      "onboard_time": 1729772598,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 205707,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1729753518,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199451,
+      "num": 283261,
+      "word": "李现 OPPO发布会",
+      "onboard_time": 1729773979,
+      "rank": 19,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 198189,
@@ -1355,14 +1395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186216,
-      "num": 186216,
-      "word": "offer6吵架名场面",
-      "onboard_time": 1729772598,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183303,
       "num": 342489,
       "word": "苏醒紧急撤回了一个夸赞",
@@ -1411,16 +1443,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172778,
-      "num": 172778,
-      "word": "萨摩耶把边牧关进了笼子里",
-      "onboard_time": 1729769239,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171103,
-      "num": 182304,
+      "num": 223623,
       "word": "林俊杰重庆二开",
       "onboard_time": 1729773258,
       "rank": 23,
@@ -1436,7 +1460,7 @@
     },
     {
       "raw_hot": 168204,
-      "num": 182590,
+      "num": 230910,
       "word": "朴彩英apt初一位",
       "onboard_time": 1729772359,
       "rank": 22,
@@ -1507,14 +1531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160821,
-      "num": 160821,
-      "word": "警方通报女子存银行40万莫名消失",
-      "onboard_time": 1729773140,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160075,
       "num": 160075,
       "word": "阿乐Doinb下赛季疑似同队",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1729765519,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157293,
+      "num": 227076,
+      "word": "锦绣安宁 第一次见大牢里这么多人",
+      "onboard_time": 1729773258,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 157124,
@@ -1747,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135420,
+      "num": 173822,
+      "word": "教育局回应三亚一小学教学楼开裂",
+      "onboard_time": 1729771639,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133925,
       "num": 133925,
       "word": "珠帘玉幕排面",
@@ -1819,6 +1851,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 124943,
+      "num": 124943,
+      "word": "张本智和3比0宇田幸矢",
+      "onboard_time": 1729774699,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124088,
       "num": 124088,
       "word": "南京警方破获南博等文旅场所黄牛大案",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1729749919,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121419,
+      "num": 121419,
+      "word": "宝妈抱娃起身闪了腰120原姿势抬走",
+      "onboard_time": 1729773140,
+      "rank": 43,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 118659,
@@ -1867,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117355,
-      "num": 117355,
-      "word": "宝妈抱娃起身闪了腰120原姿势抬走",
-      "onboard_time": 1729773140,
-      "rank": 43,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 116433,
       "num": 116433,
       "word": "权志龙将推迟回归",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1729683318,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115183,
+      "num": 115183,
+      "word": "你的肾是这样一点点透支的",
+      "onboard_time": 1729773498,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114839,
@@ -1980,7 +2028,7 @@
     },
     {
       "raw_hot": 106094,
-      "num": 181204,
+      "num": 512983,
       "word": "汇聚全球南方磅礴力量",
       "onboard_time": 1729763479,
       "rank": 49,
@@ -1993,14 +2041,6 @@
       "onboard_time": 1729678277,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105156,
-      "num": 178268,
-      "word": "锦绣安宁 第一次见大牢里这么多人",
-      "onboard_time": 1729773258,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 104906,
@@ -2057,6 +2097,22 @@
       "onboard_time": 1729767558,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97219,
+      "num": 97219,
+      "word": "余依婷银牌",
+      "onboard_time": 1729773619,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97061,
+      "num": 97061,
+      "word": "A股高位下跌后已调整10个交易日",
+      "onboard_time": 1729774760,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 96206,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1729725616,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79861,
+      "num": 121733,
+      "word": "为救室友身中七刀的女孩穿上了警服",
+      "onboard_time": 1729772299,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79759,
@@ -2315,14 +2379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59084,
-      "num": 173822,
-      "word": "教育局回应三亚一小学教学楼开裂",
-      "onboard_time": 1729771639,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54073,
       "num": 425727,
       "word": "土耳其遇袭工厂承接多项国防订单",
@@ -2459,11 +2515,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35112,
+      "num": 217261,
+      "word": "陈梦鲁豫圆梦环球影城",
+      "onboard_time": 1729771278,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34278,
       "num": 307657,
       "word": "荣耀Magic7全新配色朝霞金",
       "onboard_time": 1729744460,
       "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 33895,
+      "num": 228971,
+      "word": "FindX8氛围感抓拍神器",
+      "onboard_time": 1729773798,
+      "rank": 27,
       "category": "数码"
     },
     {
@@ -2553,14 +2625,6 @@
       "onboard_time": 1729743679,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 28571,
-      "num": 174739,
-      "word": "陈梦鲁豫圆梦环球影城",
-      "onboard_time": 1729771278,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 28505,
@@ -2745,6 +2809,22 @@
       "onboard_time": 1729652959,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7464,
+      "num": 516497,
+      "word": "前三季度工业数据该咋看",
+      "onboard_time": 1729774579,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6226,
+      "num": 731671,
+      "word": "外国朋友说金砖是个大家庭",
+      "onboard_time": 1729774699,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2768,6 +2848,9 @@
     },
     {
       "word": "#从习近平引用的古语读懂金砖之道#"
+    },
+    {
+      "word": "#喀山宣言#"
     }
   ]
 }
