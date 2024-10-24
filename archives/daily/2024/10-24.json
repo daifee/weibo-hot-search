@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729769771353,
+  "endTime": 1729773767118,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2145411,
+      "num": 249795,
+      "word": "网传客户出轨LV柜姐后原配来闹事",
+      "onboard_time": 1729769598,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2078201,
       "num": 2078201,
       "word": "李子柒营业了",
       "onboard_time": 1729761739,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2028587,
+      "num": 903350,
+      "word": "杨子 你姓什么呀",
+      "onboard_time": 1729769958,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1923823,
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1159315,
+      "num": 297857,
+      "word": "女子因长相被开玩笑意外发现身世",
+      "onboard_time": 1729769178,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1152063,
       "num": 309600,
       "word": "女子称凶手公开杀害其弟后还向周围炫耀",
@@ -219,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1117607,
+      "num": 180265,
+      "word": "同居20个月发现自己是第四者",
+      "onboard_time": 1729771819,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117189,
       "num": 637617,
       "word": "乐山大佛景区男厕被女游客进入使用",
       "onboard_time": 1729759218,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1068224,
+      "num": 1068224,
+      "word": "花少 重新剪辑",
+      "onboard_time": 1729769899,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1011185,
@@ -371,14 +411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 681437,
-      "num": 297857,
-      "word": "女子因长相被开玩笑意外发现身世",
-      "onboard_time": 1729769178,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 676725,
       "num": 318609,
       "word": "老人收银偷20万私了2万多后失联",
@@ -401,6 +433,14 @@
       "onboard_time": 1729736237,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 642521,
+      "num": 642521,
+      "word": "雷军确认小米15涨价",
+      "onboard_time": 1729768637,
+      "rank": 30,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 642205,
@@ -459,14 +499,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 570700,
-      "num": 351804,
-      "word": "雷军确认小米15涨价",
-      "onboard_time": 1729768637,
-      "rank": 30,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 564809,
       "num": 564809,
       "word": "董宇辉离开后新东方首份季报",
@@ -513,6 +545,14 @@
       "onboard_time": 1729683258,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492688,
+      "num": 247373,
+      "word": "转发未婚妻出轨证据被拘男子发声",
+      "onboard_time": 1729772359,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490444,
@@ -779,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329532,
+      "num": 227929,
+      "word": "七夜雪 男二",
+      "onboard_time": 1729771038,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325155,
       "num": 309809,
       "word": "巨石强森变小石强森",
@@ -931,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275262,
+      "num": 217885,
+      "word": "潘展乐把PB提高了6秒",
+      "onboard_time": 1729769839,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261430,
       "num": 293330,
       "word": "唐朝诡事录3路透",
@@ -945,6 +1001,14 @@
       "onboard_time": 1729728079,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257109,
+      "num": 257109,
+      "word": "覃海洋100蛙银牌",
+      "onboard_time": 1729770439,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 250065,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1729754418,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221896,
+      "num": 176986,
+      "word": "伴娘 我办事你就闹心吧",
+      "onboard_time": 1729771278,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 221172,
@@ -1283,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186216,
+      "num": 186216,
+      "word": "offer6吵架名场面",
+      "onboard_time": 1729772598,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183303,
       "num": 342489,
       "word": "苏醒紧急撤回了一个夸赞",
@@ -1331,12 +1411,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172778,
+      "num": 172778,
+      "word": "萨摩耶把边牧关进了笼子里",
+      "onboard_time": 1729769239,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171103,
+      "num": 182304,
+      "word": "林俊杰重庆二开",
+      "onboard_time": 1729773258,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169714,
       "num": 227720,
       "word": "十个勤天全员入围视界大会巅峰赛",
       "onboard_time": 1729757418,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168204,
+      "num": 182590,
+      "word": "朴彩英apt初一位",
+      "onboard_time": 1729772359,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 167777,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1729747939,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160821,
+      "num": 160821,
+      "word": "警方通报女子存银行40万莫名消失",
+      "onboard_time": 1729773140,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160075,
@@ -1691,12 +1803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126605,
-      "num": 126605,
-      "word": "网传客户出轨LV柜姐后原配来闹事",
-      "onboard_time": 1729769598,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 129084,
+      "num": 129084,
+      "word": "外交部回应中方是否认为朝鲜向俄派兵",
+      "onboard_time": 1729770799,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 125677,
@@ -1705,14 +1817,6 @@
       "onboard_time": 1729740617,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 125228,
-      "num": 125228,
-      "word": "萨摩耶把边牧关进了笼子里",
-      "onboard_time": 1729769239,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 124088,
@@ -1739,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118659,
+      "num": 118659,
+      "word": "游泳世界杯首日中国队1金3银",
+      "onboard_time": 1729772598,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118234,
       "num": 267500,
       "word": "赵丽颖金鹰实绩图",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1729698078,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117355,
+      "num": 117355,
+      "word": "宝妈抱娃起身闪了腰120原姿势抬走",
+      "onboard_time": 1729773140,
+      "rank": 43,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 116433,
@@ -1860,7 +1980,7 @@
     },
     {
       "raw_hot": 106094,
-      "num": 106094,
+      "num": 181204,
       "word": "汇聚全球南方磅礴力量",
       "onboard_time": 1729763479,
       "rank": 49,
@@ -1873,6 +1993,14 @@
       "onboard_time": 1729678277,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105156,
+      "num": 178268,
+      "word": "锦绣安宁 第一次见大牢里这么多人",
+      "onboard_time": 1729773258,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 104906,
@@ -1929,6 +2057,14 @@
       "onboard_time": 1729767558,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96206,
+      "num": 96206,
+      "word": "小米平板7Pro更多规格曝光",
+      "onboard_time": 1729773558,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 95240,
@@ -2179,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59084,
+      "num": 173822,
+      "word": "教育局回应三亚一小学教学楼开裂",
+      "onboard_time": 1729771639,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54073,
       "num": 425727,
       "word": "土耳其遇袭工厂承接多项国防订单",
@@ -2248,6 +2392,14 @@
       "word": "林诗栋3比0罗伯勒斯",
       "onboard_time": 1729702335,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41730,
+      "num": 186008,
+      "word": "潘展乐夺冠手势",
+      "onboard_time": 1729773079,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2403,6 +2555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 28571,
+      "num": 174739,
+      "word": "陈梦鲁豫圆梦环球影城",
+      "onboard_time": 1729771278,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28505,
       "num": 287471,
       "word": "卓沅发长图",
@@ -2535,6 +2695,14 @@
       "num": 319812,
       "word": "律师称车位被占物业疏于履责可追责",
       "onboard_time": 1729769598,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15246,
+      "num": 184911,
+      "word": "东莞一幼儿园被曝停办欠学费",
+      "onboard_time": 1729773198,
       "rank": 19,
       "category": "社会新闻"
     },

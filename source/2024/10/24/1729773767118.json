@@ -1,0 +1,402 @@
+{
+  "runTime": 1729773767118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180555,
+        "num": 1188888,
+        "word": "高铁破例临停1分钟救人",
+        "onboard_time": 1729762398,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1068224,
+        "num": 1068224,
+        "word": "花少 重新剪辑",
+        "onboard_time": 1729769899,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2028587,
+        "num": 903350,
+        "word": "杨子 你姓什么呀",
+        "onboard_time": 1729769958,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894816,
+        "num": 894816,
+        "word": "潘展乐400自金牌",
+        "onboard_time": 1729768518,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642521,
+        "num": 642521,
+        "word": "雷军确认小米15涨价",
+        "onboard_time": 1729768637,
+        "rank": 5,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 520889,
+        "num": 520889,
+        "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
+        "onboard_time": 1729762099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367673,
+        "num": 367673,
+        "word": "余华英死刑将是对其他犯罪的震慑",
+        "onboard_time": 1729765937,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339465,
+        "num": 339465,
+        "word": "老人花200跟团游被忽悠买了套房",
+        "onboard_time": 1729756878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257109,
+        "num": 257109,
+        "word": "覃海洋100蛙银牌",
+        "onboard_time": 1729770439,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2145411,
+        "num": 249795,
+        "word": "网传客户出轨LV柜姐后原配来闹事",
+        "onboard_time": 1729769598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492688,
+        "num": 247373,
+        "word": "转发未婚妻出轨证据被拘男子发声",
+        "onboard_time": 1729772359,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478599,
+        "num": 235723,
+        "word": "4天内4名国乒队员宣布退出国家队",
+        "onboard_time": 1729756638,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329532,
+        "num": 227929,
+        "word": "七夜雪 男二",
+        "onboard_time": 1729771038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284627,
+        "num": 225398,
+        "word": "大学生吐槽牛肉面没蛋遭商家索赔",
+        "onboard_time": 1729766359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275262,
+        "num": 217885,
+        "word": "潘展乐把PB提高了6秒",
+        "onboard_time": 1729769839,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212989,
+        "num": 212989,
+        "word": "武艺精准吐槽杨子",
+        "onboard_time": 1729761982,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186216,
+        "num": 186216,
+        "word": "offer6吵架名场面",
+        "onboard_time": 1729772598,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41730,
+        "num": 186008,
+        "word": "潘展乐夺冠手势",
+        "onboard_time": 1729773079,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15246,
+        "num": 184911,
+        "word": "东莞一幼儿园被曝停办欠学费",
+        "onboard_time": 1729773198,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159315,
+        "num": 184239,
+        "word": "女子因长相被开玩笑意外发现身世",
+        "onboard_time": 1729769178,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68747,
+        "num": 183584,
+        "word": "OPPO发布会",
+        "onboard_time": 1729769479,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168204,
+        "num": 182590,
+        "word": "朴彩英apt初一位",
+        "onboard_time": 1729772359,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171103,
+        "num": 182304,
+        "word": "林俊杰重庆二开",
+        "onboard_time": 1729773258,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80830,
+        "num": 181204,
+        "word": "汇聚全球南方磅礴力量",
+        "onboard_time": 1729763479,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1117607,
+        "num": 180265,
+        "word": "同居20个月发现自己是第四者",
+        "onboard_time": 1729771819,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618180,
+        "num": 179778,
+        "word": "合肥银泰LV",
+        "onboard_time": 1729765097,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543185,
+        "num": 178932,
+        "word": "黄圣依这期不想离婚了",
+        "onboard_time": 1729746679,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178647,
+        "num": 178647,
+        "word": "李子柒现身强国熊猫周宣传视频",
+        "onboard_time": 1729761739,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105156,
+        "num": 178268,
+        "word": "锦绣安宁 第一次见大牢里这么多人",
+        "onboard_time": 1729773258,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221896,
+        "num": 176986,
+        "word": "伴娘 我办事你就闹心吧",
+        "onboard_time": 1729771278,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28571,
+        "num": 174739,
+        "word": "陈梦鲁豫圆梦环球影城",
+        "onboard_time": 1729771278,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59084,
+        "num": 173822,
+        "word": "教育局回应三亚一小学教学楼开裂",
+        "onboard_time": 1729771639,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172778,
+        "num": 172778,
+        "word": "萨摩耶把边牧关进了笼子里",
+        "onboard_time": 1729769239,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160821,
+        "num": 160821,
+        "word": "警方通报女子存银行40万莫名消失",
+        "onboard_time": 1729773140,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160378,
+        "num": 160378,
+        "word": "乐山大佛景区男厕被女游客进入使用",
+        "onboard_time": 1729759218,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27699,
+        "num": 154781,
+        "word": "一组数据说金砖",
+        "onboard_time": 1729759459,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153604,
+        "num": 153604,
+        "word": "为什么转人工越来越难了",
+        "onboard_time": 1729751959,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143297,
+        "num": 143297,
+        "word": "烧伤妈妈求生欲很强没有放弃治疗",
+        "onboard_time": 1729756638,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91448,
+        "num": 138314,
+        "word": "喀山宣言",
+        "onboard_time": 1729760658,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138172,
+        "num": 138172,
+        "word": "医生在快递盒上检测出十几种病原体",
+        "onboard_time": 1729758559,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129084,
+        "num": 129084,
+        "word": "外交部回应中方是否认为朝鲜向俄派兵",
+        "onboard_time": 1729770799,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118659,
+        "num": 118659,
+        "word": "游泳世界杯首日中国队1金3银",
+        "onboard_time": 1729772598,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117355,
+        "num": 117355,
+        "word": "宝妈抱娃起身闪了腰120原姿势抬走",
+        "onboard_time": 1729773140,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 101083,
+        "num": 101083,
+        "word": "GEN训练赛狂虐T1",
+        "onboard_time": 1729762398,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98132,
+        "num": 98132,
+        "word": "艺人7天不发泡泡将退款",
+        "onboard_time": 1729760539,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96436,
+        "num": 96436,
+        "word": "郑钦文衣服吊牌没摘",
+        "onboard_time": 1729767318,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96206,
+        "num": 96206,
+        "word": "小米平板7Pro更多规格曝光",
+        "onboard_time": 1729773558,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79262,
+        "num": 94457,
+        "word": "锦绣安宁",
+        "onboard_time": 1729769598,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93531,
+        "num": 93531,
+        "word": "爱奇艺新规被吐槽吃相难看",
+        "onboard_time": 1729766178,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平俄罗斯喀山之行#"
+    }
+  }
+}
