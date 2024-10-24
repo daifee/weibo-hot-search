@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729747317618,
+  "endTime": 1729748383042,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -297,6 +297,14 @@
       "onboard_time": 1729076660,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3027434,
+      "num": 510311,
+      "word": "黄圣依这期不想离婚了",
+      "onboard_time": 1729746679,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 3020148,
@@ -8435,14 +8443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 747094,
-      "num": 345374,
-      "word": "黄圣依这期不想离婚了",
-      "onboard_time": 1729746679,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 746850,
       "num": 746850,
       "word": "00后女生被辞硬怼公司拿回双倍工资",
@@ -15755,6 +15755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441131,
+      "num": 441131,
+      "word": "教师不是什么大冤种不该如此背刺",
+      "onboard_time": 1729744400,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441130,
       "num": 591184,
       "word": "朴彩英首单官宣",
@@ -15817,6 +15825,14 @@
       "onboard_time": 1728173116,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 438846,
+      "num": 438846,
+      "word": "NASA局长称正与中方商谈租借月壤样品",
+      "onboard_time": 1729742838,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 438832,
@@ -16393,6 +16409,14 @@
       "onboard_time": 1728606141,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 418383,
+      "num": 418383,
+      "word": "麦琳 窒息",
+      "onboard_time": 1729747099,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 418349,
@@ -20483,6 +20507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325155,
+      "num": 309809,
+      "word": "巨石强森变小石强森",
+      "onboard_time": 1729746080,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325076,
       "num": 367026,
       "word": "没认出来张大大",
@@ -21523,14 +21555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 304799,
-      "num": 304799,
-      "word": "教师不是什么大冤种不该如此背刺",
-      "onboard_time": 1729744400,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304786,
       "num": 304786,
       "word": "洞洞鞋内胆",
@@ -21777,14 +21801,6 @@
       "onboard_time": 1729592598,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300731,
-      "num": 350827,
-      "word": "NASA局长称正与中方商谈租借月壤样品",
-      "onboard_time": 1729742838,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 300434,
@@ -22609,14 +22625,6 @@
       "onboard_time": 1729417699,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290427,
-      "num": 309809,
-      "word": "巨石强森变小石强森",
-      "onboard_time": 1729746080,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 290322,
@@ -24657,6 +24665,14 @@
       "onboard_time": 1728907879,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 265856,
+      "num": 265856,
+      "word": "南航一航班疑发生着陆事故乘客发声",
+      "onboard_time": 1729745121,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265831,
@@ -27473,14 +27489,6 @@
       "onboard_time": 1728649519,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 234816,
-      "num": 234816,
-      "word": "南航一航班疑发生着陆事故乘客发声",
-      "onboard_time": 1729745121,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234720,
@@ -31841,6 +31849,14 @@
       "onboard_time": 1728695421,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205254,
+      "num": 205254,
+      "word": "剑来",
+      "onboard_time": 1729747280,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 205198,
@@ -37787,6 +37803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 181526,
+      "num": 181526,
+      "word": "杜华对旗下艺人说不要恨我",
+      "onboard_time": 1729747939,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181511,
       "num": 181511,
       "word": "寻儿31年认亲现场父母赠儿百万房产",
@@ -41131,14 +41155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165265,
-      "num": 165265,
-      "word": "麦琳 窒息",
-      "onboard_time": 1729747099,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165219,
       "num": 303600,
       "word": "尼加拉瓜宣布与以色列断交",
@@ -41697,6 +41713,14 @@
       "onboard_time": 1728708682,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162998,
+      "num": 162998,
+      "word": "Uzi说不打老头杯",
+      "onboard_time": 1729747939,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 162947,
@@ -43545,6 +43569,14 @@
       "onboard_time": 1729303399,
       "rank": 33,
       "category": "母婴育儿,教育"
+    },
+    {
+      "raw_hot": 155465,
+      "num": 155465,
+      "word": "巴萨开半瓶拉菲",
+      "onboard_time": 1729748120,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 155450,
@@ -46899,6 +46931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141511,
+      "num": 141511,
+      "word": "杨子是真的觉得自己很幽默",
+      "onboard_time": 1729747819,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141509,
       "num": 203453,
       "word": "王楚钦梁靖崑vs玛纳什塔卡",
@@ -48361,14 +48401,6 @@
       "onboard_time": 1728046581,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135741,
-      "num": 135741,
-      "word": "剑来",
-      "onboard_time": 1729747280,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 135728,
@@ -59963,6 +59995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67973,
+      "num": 347653,
+      "word": "荣耀Magic7朱珠",
+      "onboard_time": 1729744460,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67891,
       "num": 319662,
       "word": "刘旸 一口气念完全网恶评",
@@ -61016,6 +61056,14 @@
       "word": "儿童智能手表引发儿童社交攀比",
       "onboard_time": 1728532939,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60226,
+      "num": 357634,
+      "word": "当丁达尔效应遇到大理稻田",
+      "onboard_time": 1729743679,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -63416,14 +63464,6 @@
       "word": "纯血鸿蒙万物皆可碰一碰",
       "onboard_time": 1729602140,
       "rank": 24,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 46131,
-      "num": 347118,
-      "word": "荣耀Magic7朱珠",
-      "onboard_time": 1729744460,
-      "rank": 38,
       "category": "数码"
     },
     {
@@ -66107,6 +66147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34278,
+      "num": 307657,
+      "word": "荣耀Magic7全新配色朝霞金",
+      "onboard_time": 1729744460,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34243,
       "num": 483489,
       "word": "余华英以熟人作案方式拐走多名儿童",
@@ -66939,14 +66987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 31195,
-      "num": 307657,
-      "word": "荣耀Magic7全新配色朝霞金",
-      "onboard_time": 1729744460,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 31188,
       "num": 209534,
       "word": "今晚花呗分期买戴森12期免息",
@@ -67305,6 +67345,14 @@
       "onboard_time": 1728932772,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29879,
+      "num": 342018,
+      "word": "朱志鑫Walking练习室",
+      "onboard_time": 1729743679,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 29862,
@@ -68161,14 +68209,6 @@
       "onboard_time": 1729306939,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26546,
-      "num": 342018,
-      "word": "朱志鑫Walking练习室",
-      "onboard_time": 1729743679,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 26528,
@@ -71896,6 +71936,9 @@
     },
     {
       "word": "#习近平会见塞西#"
+    },
+    {
+      "word": "#中方愿同埃方做守望相助的真诚朋友#"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729747317618,
+  "endTime": 1729748383042,
   "band_list": [
+    {
+      "raw_hot": 3027434,
+      "num": 510311,
+      "word": "黄圣依这期不想离婚了",
+      "onboard_time": 1729746679,
+      "rank": 14,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2610038,
       "num": 268721,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747094,
-      "num": 345374,
-      "word": "黄圣依这期不想离婚了",
-      "onboard_time": 1729746679,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 746668,
       "num": 235272,
       "word": "缅甸女子遭人迷晕后拐至河南",
@@ -339,6 +339,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441131,
+      "num": 441131,
+      "word": "教师不是什么大冤种不该如此背刺",
+      "onboard_time": 1729744400,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438846,
+      "num": 438846,
+      "word": "NASA局长称正与中方商谈租借月壤样品",
+      "onboard_time": 1729742838,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 418383,
+      "num": 418383,
+      "word": "麦琳 窒息",
+      "onboard_time": 1729747099,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414567,
       "num": 365828,
       "word": "高学历夫妇二孩生育概率最低",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325155,
+      "num": 309809,
+      "word": "巨石强森变小石强森",
+      "onboard_time": 1729746080,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325133,
       "num": 325133,
       "word": "爸爸一句宝宝对不起突然就泪目了",
@@ -475,22 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304799,
-      "num": 304799,
-      "word": "教师不是什么大冤种不该如此背刺",
-      "onboard_time": 1729744400,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300731,
-      "num": 350827,
-      "word": "NASA局长称正与中方商谈租借月壤样品",
-      "onboard_time": 1729742838,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 297458,
       "num": 297458,
       "word": "土耳其恐袭已致4死14伤",
@@ -513,14 +529,6 @@
       "onboard_time": 1729722252,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290427,
-      "num": 309809,
-      "word": "巨石强森变小石强森",
-      "onboard_time": 1729746080,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 285351,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265856,
+      "num": 265856,
+      "word": "南航一航班疑发生着陆事故乘客发声",
+      "onboard_time": 1729745121,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261430,
       "num": 293330,
       "word": "唐朝诡事录3路透",
@@ -632,14 +648,6 @@
       "word": "央视起底老年人养生骗局",
       "onboard_time": 1729737318,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234816,
-      "num": 234816,
-      "word": "南航一航班疑发生着陆事故乘客发声",
-      "onboard_time": 1729745121,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -707,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205254,
+      "num": 205254,
+      "word": "剑来",
+      "onboard_time": 1729747280,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 202182,
       "num": 254756,
       "word": "凤凰传奇深圳抢票",
@@ -771,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181526,
+      "num": 181526,
+      "word": "杜华对旗下艺人说不要恨我",
+      "onboard_time": 1729747939,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179803,
       "num": 287023,
       "word": "黄子弘凡抢票",
@@ -795,20 +819,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 165265,
-      "num": 165265,
-      "word": "麦琳 窒息",
-      "onboard_time": 1729747099,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164110,
       "num": 164110,
       "word": "闪耀暖暖",
       "onboard_time": 1729734618,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162998,
+      "num": 162998,
+      "word": "Uzi说不打老头杯",
+      "onboard_time": 1729747939,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 160075,
@@ -825,6 +849,14 @@
       "onboard_time": 1729744820,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155465,
+      "num": 155465,
+      "word": "巴萨开半瓶拉菲",
+      "onboard_time": 1729748120,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 152549,
@@ -875,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141511,
+      "num": 141511,
+      "word": "杨子是真的觉得自己很幽默",
+      "onboard_time": 1729747819,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141316,
       "num": 141316,
       "word": "现在就出发",
@@ -913,14 +953,6 @@
       "onboard_time": 1729733658,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135741,
-      "num": 135741,
-      "word": "剑来",
-      "onboard_time": 1729747280,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 132115,
@@ -1267,12 +1299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67973,
+      "num": 347653,
+      "word": "荣耀Magic7朱珠",
+      "onboard_time": 1729744460,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60743,
       "num": 60743,
       "word": "独居一年的31平米小家",
       "onboard_time": 1729704194,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60226,
+      "num": 357634,
+      "word": "当丁达尔效应遇到大理稻田",
+      "onboard_time": 1729743679,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59084,
@@ -1315,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46131,
-      "num": 347118,
-      "word": "荣耀Magic7朱珠",
-      "onboard_time": 1729744460,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 44706,
       "num": 60578,
       "word": "林诗栋3比0罗伯勒斯",
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34278,
+      "num": 307657,
+      "word": "荣耀Magic7全新配色朝霞金",
+      "onboard_time": 1729744460,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 33373,
       "num": 33373,
       "word": "奶茶名越卷越嗲让人怎么念",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1729718471,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 31195,
-      "num": 307657,
-      "word": "荣耀Magic7全新配色朝霞金",
-      "onboard_time": 1729744460,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 30996,
@@ -1419,20 +1459,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29879,
+      "num": 342018,
+      "word": "朱志鑫Walking练习室",
+      "onboard_time": 1729743679,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 28505,
       "num": 287471,
       "word": "卓沅发长图",
       "onboard_time": 1729743740,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26546,
-      "num": 342018,
-      "word": "朱志鑫Walking练习室",
-      "onboard_time": 1729743679,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 23920,
@@ -1519,6 +1559,9 @@
     },
     {
       "word": "#习近平会见塞西#"
+    },
+    {
+      "word": "#中方愿同埃方做守望相助的真诚朋友#"
     }
   ]
 }

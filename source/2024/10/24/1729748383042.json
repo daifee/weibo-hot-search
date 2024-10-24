@@ -1,0 +1,410 @@
+{
+  "runTime": 1729748383042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075054,
+        "num": 1172008,
+        "word": "花少弹幕 呵呵",
+        "onboard_time": 1729743259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632404,
+        "num": 632404,
+        "word": "中方在联合国强烈谴责以色列",
+        "onboard_time": 1729738818,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5909,
+        "num": 513484,
+        "word": "一图了解金砖未来发展关键词",
+        "onboard_time": 1729732397,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3027434,
+        "num": 510311,
+        "word": "黄圣依这期不想离婚了",
+        "onboard_time": 1729746679,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441131,
+        "num": 441131,
+        "word": "教师不是什么大冤种不该如此背刺",
+        "onboard_time": 1729744400,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438846,
+        "num": 438846,
+        "word": "NASA局长称正与中方商谈租借月壤样品",
+        "onboard_time": 1729742838,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 418383,
+        "num": 418383,
+        "word": "麦琳 窒息",
+        "onboard_time": 1729747099,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308281,
+        "num": 381030,
+        "word": "离婚又复婚还有婚假吗",
+        "onboard_time": 1729739178,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359043,
+        "num": 359043,
+        "word": "再见爱人更新",
+        "onboard_time": 1729744160,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60226,
+        "num": 357634,
+        "word": "当丁达尔效应遇到大理稻田",
+        "onboard_time": 1729743679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666338,
+        "num": 353889,
+        "word": "女性学历向下婚反超向上婚",
+        "onboard_time": 1729735938,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67973,
+        "num": 347653,
+        "word": "荣耀Magic7朱珠",
+        "onboard_time": 1729744460,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 482984,
+        "num": 343939,
+        "word": "股神巴菲特表态美国大选",
+        "onboard_time": 1729743920,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 657892,
+        "num": 338064,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648362,
+        "num": 334306,
+        "word": "南航一架波音飞机疑似发生着陆事故",
+        "onboard_time": 1729741637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561242,
+        "num": 329364,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431735,
+        "num": 322828,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320947,
+        "num": 320947,
+        "word": "桑延为温以凡庆生vlog",
+        "onboard_time": 1729745300,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265856,
+        "num": 265856,
+        "word": "南航一航班疑发生着陆事故乘客发声",
+        "onboard_time": 1729745121,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187996,
+        "num": 265423,
+        "word": "杜华说乐华家大业大是前人栽树",
+        "onboard_time": 1729741879,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 881031,
+        "num": 264660,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476571,
+        "num": 263385,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376289,
+        "num": 261908,
+        "word": "每套房都让人眼前一亮又一亮",
+        "onboard_time": 1729743380,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325155,
+        "num": 261100,
+        "word": "巨石强森变小石强森",
+        "onboard_time": 1729746080,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29879,
+        "num": 259974,
+        "word": "朱志鑫Walking练习室",
+        "onboard_time": 1729743679,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259068,
+        "num": 259068,
+        "word": "耿爽代表中国在联合国为难民发声",
+        "onboard_time": 1729740558,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34278,
+        "num": 259034,
+        "word": "荣耀Magic7全新配色朝霞金",
+        "onboard_time": 1729744460,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28028,
+        "num": 258995,
+        "word": "卓沅发长图",
+        "onboard_time": 1729743740,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271932,
+        "num": 258973,
+        "word": "孟佳路边救被撞小猫情绪崩了",
+        "onboard_time": 1729741879,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202905,
+        "num": 258946,
+        "word": "李沁 越虐越美",
+        "onboard_time": 1729745781,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274023,
+        "num": 258881,
+        "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+        "onboard_time": 1729735397,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258878,
+        "num": 258878,
+        "word": "台湾幼儿园园长之子涉侵犯39名幼童",
+        "onboard_time": 1729730059,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223594,
+        "num": 223594,
+        "word": "老人收银偷20万私了2万多后失联",
+        "onboard_time": 1729733418,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205254,
+        "num": 205254,
+        "word": "剑来",
+        "onboard_time": 1729747280,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181526,
+        "num": 181526,
+        "word": "杜华对旗下艺人说不要恨我",
+        "onboard_time": 1729747939,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174750,
+        "num": 174750,
+        "word": "人民网评网红频频塌房",
+        "onboard_time": 1729742239,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169182,
+        "num": 169182,
+        "word": "高学历夫妇二孩生育概率最低",
+        "onboard_time": 1729737678,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166048,
+        "num": 166048,
+        "word": "TheShy和Rookie疑似回归iG",
+        "onboard_time": 1729737737,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165495,
+        "num": 165495,
+        "word": "花少",
+        "onboard_time": 1729744220,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165490,
+        "num": 165490,
+        "word": "孙颖莎参加演讲比赛荣获二等奖",
+        "onboard_time": 1729740317,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163307,
+        "num": 163307,
+        "word": "一次袭击炸死加沙一个家庭所有孩子",
+        "onboard_time": 1729735038,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84809,
+        "num": 163095,
+        "word": "你放不下订单我们放不下你",
+        "onboard_time": 1729737978,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162998,
+        "num": 162998,
+        "word": "Uzi说不打老头杯",
+        "onboard_time": 1729747939,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155465,
+        "num": 155465,
+        "word": "巴萨开半瓶拉菲",
+        "onboard_time": 1729748120,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173188,
+        "num": 149404,
+        "word": "张踩铃 回家抓老公现行的女人",
+        "onboard_time": 1729743198,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "杨子是真的觉得自己很幽默",
+        "onboard_time": 1729747819,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141244,
+        "num": 141244,
+        "word": "工作不到4个月新警抓了24名嫌疑人",
+        "onboard_time": 1729735338,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139229,
+        "num": 139229,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136051,
+        "num": 136051,
+        "word": "男子蹲守前女友老家多日将其杀害",
+        "onboard_time": 1729728680,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130836,
+        "num": 130836,
+        "word": "再见爱人",
+        "onboard_time": 1729744940,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同埃方做守望相助的真诚朋友#"
+    }
+  }
+}
