@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729735147383,
+  "endTime": 1729738389019,
   "band_list": [
     {
       "raw_hot": 2610038,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627007,
+      "num": 284292,
+      "word": "韩安冉举报汪静逃税",
+      "onboard_time": 1729736598,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1568931,
       "num": 311023,
       "word": "李诞回应黄磊做饭好吃与否",
       "onboard_time": 1729724713,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1387449,
+      "num": 281128,
+      "word": "王嘉尔自曝有抑郁症",
+      "onboard_time": 1729736179,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1152063,
@@ -51,11 +67,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995340,
+      "num": 274580,
+      "word": "工作不到4个月新警抓了24名嫌疑人",
+      "onboard_time": 1729735338,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944383,
       "num": 944383,
       "word": "选特朗普打印出来变哈里斯",
       "onboard_time": 1729696579,
       "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 896927,
+      "num": 1143508,
+      "word": "以军称找到5亿美元2天了没证据",
+      "onboard_time": 1729732818,
+      "rank": 16,
       "category": "国外时政"
     },
     {
@@ -91,20 +123,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726101,
-      "num": 1116176,
-      "word": "以军称找到5亿美元2天了没证据",
-      "onboard_time": 1729732818,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 676725,
       "num": 309193,
       "word": "老人收银偷20万私了2万多后失联",
       "onboard_time": 1729733418,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670741,
+      "num": 670741,
+      "word": "一次袭击炸死加沙一个家庭所有孩子",
+      "onboard_time": 1729735038,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 664658,
+      "num": 277579,
+      "word": "杜华儿子在韩国训练瘦了15斤",
+      "onboard_time": 1729736237,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 642205,
@@ -121,6 +161,30 @@
       "onboard_time": 1729725797,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574463,
+      "num": 574463,
+      "word": "小米15",
+      "onboard_time": 1729734379,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 564809,
+      "num": 564809,
+      "word": "董宇辉离开后新东方首份季报",
+      "onboard_time": 1729735457,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 564120,
+      "num": 273967,
+      "word": "女性学历向下婚反超向上婚",
+      "onboard_time": 1729735938,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519369,
@@ -153,6 +217,14 @@
       "onboard_time": 1729689019,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 441302,
+      "num": 272027,
+      "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+      "onboard_time": 1729735397,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397866,
@@ -188,7 +260,7 @@
     },
     {
       "raw_hot": 378285,
-      "num": 244405,
+      "num": 264323,
       "word": "韩媒修改珠帘玉幕番位",
       "onboard_time": 1729733478,
       "rank": 28,
@@ -209,14 +281,6 @@
       "onboard_time": 1729728680,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360792,
-      "num": 360792,
-      "word": "小米15",
-      "onboard_time": 1729734379,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 339497,
@@ -275,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291109,
+      "num": 263735,
+      "word": "TheShy和Rookie疑似回归iG",
+      "onboard_time": 1729737737,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285351,
       "num": 285351,
       "word": "黄金",
@@ -316,7 +388,7 @@
     },
     {
       "raw_hot": 261430,
-      "num": 261430,
+      "num": 293330,
       "word": "唐朝诡事录3路透",
       "onboard_time": 1729733897,
       "rank": 39,
@@ -363,6 +435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230318,
+      "num": 292304,
+      "word": "电影胜券在握定档",
+      "onboard_time": 1729735457,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230305,
       "num": 230305,
       "word": "女子厕所点汽油轻生致邻居马桶崩开",
@@ -403,8 +483,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189490,
+      "num": 189490,
+      "word": "高学历夫妇二孩生育概率最低",
+      "onboard_time": 1729737678,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166985,
-      "num": 176860,
+      "num": 286766,
       "word": "土耳其恐袭已造成5死22伤",
       "onboard_time": 1729729639,
       "rank": 35,
@@ -475,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134213,
-      "num": 169992,
-      "word": "一次袭击炸死加沙一个家庭所有孩子",
-      "onboard_time": 1729735038,
-      "rank": 29,
-      "category": "国外时政"
+      "raw_hot": 132726,
+      "num": 271389,
+      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
+      "onboard_time": 1729733238,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131060,
@@ -499,16 +587,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 120996,
-      "num": 141446,
-      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
-      "onboard_time": 1729733238,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118234,
-      "num": 169969,
+      "num": 267500,
       "word": "赵丽颖金鹰实绩图",
       "onboard_time": 1729730419,
       "rank": 34,
@@ -595,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105234,
+      "num": 105234,
+      "word": "你放不下订单我们放不下你",
+      "onboard_time": 1729737978,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104906,
       "num": 106937,
       "word": "权志龙新综艺状态",
@@ -643,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95823,
+      "num": 288544,
+      "word": "土耳其航空航天公司遭恐袭已致3死5伤",
+      "onboard_time": 1729737318,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95240,
       "num": 95240,
       "word": "商户回应游客在景德镇捡瓷器",
@@ -657,6 +753,14 @@
       "onboard_time": 1729735038,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92906,
+      "num": 268204,
+      "word": "2NE1全开麦",
+      "onboard_time": 1729736117,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 92038,
@@ -771,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74652,
+      "num": 278929,
+      "word": "央视起底老年人养生骗局",
+      "onboard_time": 1729737318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74152,
       "num": 77691,
       "word": "东北的冬季要来了",
@@ -827,11 +939,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44651,
+      "num": 269544,
+      "word": "纯血鸿蒙丝滑手势舞挑战",
+      "onboard_time": 1729735516,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37848,
       "num": 74449,
       "word": "矿业律师解读山取带走矿石",
       "onboard_time": 1729706773,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34551,
+      "num": 275298,
+      "word": "一辈子捆绑在车上的货车司机们",
+      "onboard_time": 1729737378,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

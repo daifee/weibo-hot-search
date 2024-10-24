@@ -1,0 +1,410 @@
+{
+  "runTime": 1729738389019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 896927,
+        "num": 1143508,
+        "word": "以军称找到5亿美元2天了没证据",
+        "onboard_time": 1729732818,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 670741,
+        "num": 670741,
+        "word": "一次袭击炸死加沙一个家庭所有孩子",
+        "onboard_time": 1729735038,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 5174,
+        "num": 601096,
+        "word": "一组数字看金砖国家含金量",
+        "onboard_time": 1729652959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574463,
+        "num": 574463,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 564809,
+        "num": 564809,
+        "word": "董宇辉离开后新东方首份季报",
+        "onboard_time": 1729735457,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294668,
+        "num": 294668,
+        "word": "江西张某某拒服兵役性质恶劣被罚",
+        "onboard_time": 1729716730,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247517,
+        "num": 293330,
+        "word": "唐朝诡事录3路透",
+        "onboard_time": 1729733897,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230318,
+        "num": 292304,
+        "word": "电影胜券在握定档",
+        "onboard_time": 1729735457,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95823,
+        "num": 288544,
+        "word": "土耳其航空航天公司遭恐袭已致3死5伤",
+        "onboard_time": 1729737318,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96990,
+        "num": 286766,
+        "word": "土耳其恐袭已造成5死22伤",
+        "onboard_time": 1729729639,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1627007,
+        "num": 284292,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1387449,
+        "num": 281128,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280551,
+        "num": 280551,
+        "word": "外交部回应辽宁舰过航台湾海峡",
+        "onboard_time": 1729728739,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 731918,
+        "num": 280275,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74652,
+        "num": 278929,
+        "word": "央视起底老年人养生骗局",
+        "onboard_time": 1729737318,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202520,
+        "num": 278262,
+        "word": "土耳其恐袭",
+        "onboard_time": 1729693159,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 664658,
+        "num": 277579,
+        "word": "杜华儿子在韩国训练瘦了15斤",
+        "onboard_time": 1729736237,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585658,
+        "num": 276930,
+        "word": "匡威 王源",
+        "onboard_time": 1729725797,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178614,
+        "num": 275763,
+        "word": "付航脱口秀",
+        "onboard_time": 1729694900,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34551,
+        "num": 275298,
+        "word": "一辈子捆绑在车上的货车司机们",
+        "onboard_time": 1729737378,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995340,
+        "num": 274580,
+        "word": "工作不到4个月新警抓了24名嫌疑人",
+        "onboard_time": 1729735338,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564120,
+        "num": 273967,
+        "word": "女性学历向下婚反超向上婚",
+        "onboard_time": 1729735938,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474114,
+        "num": 273116,
+        "word": "台湾幼儿园园长之子涉侵犯39名幼童",
+        "onboard_time": 1729730059,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441302,
+        "num": 272027,
+        "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+        "onboard_time": 1729735397,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132726,
+        "num": 271389,
+        "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
+        "onboard_time": 1729733238,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129643,
+        "num": 270511,
+        "word": "鹿晗gapday音乐节票价",
+        "onboard_time": 1729699099,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44651,
+        "num": 269544,
+        "word": "纯血鸿蒙丝滑手势舞挑战",
+        "onboard_time": 1729735516,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118748,
+        "num": 268937,
+        "word": "华鼎奖",
+        "onboard_time": 1729727297,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92906,
+        "num": 268204,
+        "word": "2NE1全开麦",
+        "onboard_time": 1729736117,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77801,
+        "num": 267500,
+        "word": "赵丽颖金鹰实绩图",
+        "onboard_time": 1729730419,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429222,
+        "num": 266207,
+        "word": "老人收银偷20万私了2万多后失联",
+        "onboard_time": 1729733418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396520,
+        "num": 265170,
+        "word": "李诞回应黄磊做饭好吃与否",
+        "onboard_time": 1729724713,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377799,
+        "num": 264323,
+        "word": "韩媒修改珠帘玉幕番位",
+        "onboard_time": 1729733478,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291109,
+        "num": 263735,
+        "word": "TheShy和Rookie疑似回归iG",
+        "onboard_time": 1729737737,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263494,
+        "num": 263494,
+        "word": "被骗197万他还准备再投100万",
+        "onboard_time": 1729732638,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233825,
+        "num": 233825,
+        "word": "男子蹲守前女友老家多日将其杀害",
+        "onboard_time": 1729728680,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207567,
+        "num": 207567,
+        "word": "上海一小区饮用水中现活体红线虫",
+        "onboard_time": 1729728680,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189490,
+        "num": 189490,
+        "word": "高学历夫妇二孩生育概率最低",
+        "onboard_time": 1729737678,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185197,
+        "num": 185197,
+        "word": "女子称凶手公开杀害其弟后还向周围炫耀",
+        "onboard_time": 1729698918,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167813,
+        "num": 167813,
+        "word": "爸爸一句宝宝对不起突然就泪目了",
+        "onboard_time": 1729680979,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157745,
+        "num": 157745,
+        "word": "大连一男子在水产市场遭杀害",
+        "onboard_time": 1729696220,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140086,
+        "num": 140086,
+        "word": "抑郁的5个非典型表现",
+        "onboard_time": 1729728739,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125835,
+        "num": 125835,
+        "word": "台风潭美最强或达强台风级",
+        "onboard_time": 1729698378,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125707,
+        "num": 125707,
+        "word": "年轻人穷养卧室也要富养电竞房",
+        "onboard_time": 1729728079,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114630,
+        "num": 114630,
+        "word": "赵丽颖不想身材管理",
+        "onboard_time": 1729689019,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105234,
+        "num": 105234,
+        "word": "你放不下订单我们放不下你",
+        "onboard_time": 1729737978,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94889,
+        "num": 94889,
+        "word": "豆腐放室外四五个小时就成了冻豆腐",
+        "onboard_time": 1729723574,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91099,
+        "num": 91099,
+        "word": "有种抑郁叫缺维生素D",
+        "onboard_time": 1729693880,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75319,
+        "num": 81764,
+        "word": "魏晨华鼎奖华语最佳男演员",
+        "onboard_time": 1729726336,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81664,
+        "num": 81664,
+        "word": "没有人伦底线何来医者仁心",
+        "onboard_time": 1729733658,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见埃及总统#"
+    }
+  }
+}
