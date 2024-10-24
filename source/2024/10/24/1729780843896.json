@@ -1,0 +1,410 @@
+{
+  "runTime": 1729780843896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944371,
+        "num": 1151099,
+        "word": "花少 重新剪辑",
+        "onboard_time": 1729769899,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 837668,
+        "num": 837668,
+        "word": "高铁破例临停1分钟救人",
+        "onboard_time": 1729762398,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 28324,
+        "num": 767495,
+        "word": "外国朋友说金砖是个大家庭",
+        "onboard_time": 1729774699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732996,
+        "num": 732996,
+        "word": "林高远1比3杜达",
+        "onboard_time": 1729778181,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547639,
+        "num": 547639,
+        "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
+        "onboard_time": 1729762099,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416153,
+        "num": 416153,
+        "word": "喜剧大会选手官宣",
+        "onboard_time": 1729779980,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399690,
+        "num": 399690,
+        "word": "Prada站台",
+        "onboard_time": 1729778660,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 352782,
+        "num": 352782,
+        "word": "潘展乐400自金牌",
+        "onboard_time": 1729768518,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308303,
+        "num": 308303,
+        "word": "雷军确认小米15涨价",
+        "onboard_time": 1729768637,
+        "rank": 8,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 87776,
+        "num": 302310,
+        "word": "孙海洋希望余华英被判死刑",
+        "onboard_time": 1729779440,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1583996,
+        "num": 295463,
+        "word": "12位被大众讨厌的明星聚在一个岛上",
+        "onboard_time": 1729775359,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1172388,
+        "num": 293306,
+        "word": "网传客户出轨LV柜姐后原配来闹事",
+        "onboard_time": 1729769598,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900081,
+        "num": 285816,
+        "word": "黄圣依不知道自己个人资产有多少",
+        "onboard_time": 1729773979,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106916,
+        "num": 280258,
+        "word": "杨妞花称索赔920万是对人贩子的震慑",
+        "onboard_time": 1729779801,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857119,
+        "num": 274897,
+        "word": "papi酱说杨子恶劣至极",
+        "onboard_time": 1729778181,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496371,
+        "num": 263087,
+        "word": "4天内4名国乒队员宣布退出国家队",
+        "onboard_time": 1729756638,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416270,
+        "num": 260692,
+        "word": "转发未婚妻出轨证据被拘男子发声",
+        "onboard_time": 1729772359,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373027,
+        "num": 254302,
+        "word": "女子2天做6项整容手术身亡",
+        "onboard_time": 1729779921,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248192,
+        "num": 248192,
+        "word": "武艺精准吐槽杨子",
+        "onboard_time": 1729761982,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233904,
+        "num": 233904,
+        "word": "韩安冉 汪静",
+        "onboard_time": 1729780460,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56568,
+        "num": 232921,
+        "word": "英雄联盟S15重回中国",
+        "onboard_time": 1729778599,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1637839,
+        "num": 232121,
+        "word": "杨子 你姓什么呀",
+        "onboard_time": 1729769958,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783255,
+        "num": 230773,
+        "word": "女子因长相被开玩笑意外发现身世",
+        "onboard_time": 1729769178,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33474,
+        "num": 229481,
+        "word": "OPPO的AI还是太全面了",
+        "onboard_time": 1729776799,
+        "rank": 23,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 519739,
+        "num": 228586,
+        "word": "合肥银泰LV",
+        "onboard_time": 1729765097,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266151,
+        "num": 227339,
+        "word": "女子5年攒5万根掉发老了做假发",
+        "onboard_time": 1729774518,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226433,
+        "num": 226433,
+        "word": "OPPO Find X8价格",
+        "onboard_time": 1729776079,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217869,
+        "num": 217869,
+        "word": "教育局回应建议取消家长护学岗",
+        "onboard_time": 1729775599,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206577,
+        "num": 206577,
+        "word": "杨子 黄圣依",
+        "onboard_time": 1729780041,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132156,
+        "num": 204086,
+        "word": "朴彩英apt初一位",
+        "onboard_time": 1729772359,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202899,
+        "num": 202899,
+        "word": "吉吉国王照进现实了",
+        "onboard_time": 1729777460,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196688,
+        "num": 196688,
+        "word": "老人花200跟团游被忽悠买了套房",
+        "onboard_time": 1729756878,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187603,
+        "num": 187603,
+        "word": "七夜雪 男二",
+        "onboard_time": 1729771038,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186484,
+        "num": 186484,
+        "word": "警方通报女子存银行40万莫名消失",
+        "onboard_time": 1729773140,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180435,
+        "num": 180435,
+        "word": "A股高位下跌后已调整10个交易日",
+        "onboard_time": 1729774760,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178965,
+        "num": 178965,
+        "word": "何洁承认吧你也被李斯丹妮迷住了",
+        "onboard_time": 1729777639,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54080,
+        "num": 176772,
+        "word": "为什么总有写不完的材料",
+        "onboard_time": 1729778840,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175395,
+        "num": 175395,
+        "word": "樊振东能说出羽毛球男单前16的名字",
+        "onboard_time": 1729777700,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174371,
+        "num": 174371,
+        "word": "老人被冤枉卖儿子一辈子抬不起头",
+        "onboard_time": 1729779740,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169641,
+        "num": 169641,
+        "word": "你的肾是这样一点点透支的",
+        "onboard_time": 1729773498,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74632,
+        "num": 166833,
+        "word": "男子偷快递摆地摊卖",
+        "onboard_time": 1729778840,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164981,
+        "num": 164981,
+        "word": "汪静账号被禁止关注",
+        "onboard_time": 1729778540,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160194,
+        "num": 160194,
+        "word": "潘展乐外网解说",
+        "onboard_time": 1729778960,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159583,
+        "num": 159583,
+        "word": "官方通报公职人员婚内出轨女网红",
+        "onboard_time": 1729780520,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154271,
+        "num": 154271,
+        "word": "羊驼肉女士",
+        "onboard_time": 1729780641,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149569,
+        "num": 149569,
+        "word": "山东多名大学生发帖怒斥偷拍男",
+        "onboard_time": 1729780700,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134561,
+        "num": 134561,
+        "word": "潘展乐反超飞起来了",
+        "onboard_time": 1729776079,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132587,
+        "num": 132587,
+        "word": "OPPO Find X8",
+        "onboard_time": 1729778540,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100985,
+        "num": 127813,
+        "word": "锦绣安宁 第一次见大牢里这么多人",
+        "onboard_time": 1729773258,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97238,
+        "num": 126835,
+        "word": "毒液3",
+        "onboard_time": 1729777879,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#喀山宣言#"
+    }
+  }
+}

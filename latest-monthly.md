@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 22:21:49
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/24 22:40:43
 </p>
 </blockquote>
 <p>
@@ -5277,6 +5277,12 @@ whiplash 吒味十足（热度：872043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%AF%B4%E6%9D%A8%E5%AD%90%E6%81%B6%E5%8A%A3%E8%87%B3%E6%9E%81%23" target="weibo">
+papi酱说杨子恶劣至极（热度：857119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E6%8C%87%E5%AF%BC%23" target="weibo">
 王皓指导（热度：857024）
 </a>
@@ -6005,12 +6011,6 @@ SpaceX首次回收星舰成功（热度：798348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%8F%B8%E6%9C%BA%E6%83%B3%E5%B8%AE%E5%85%BB%E8%80%81%E6%8D%A2%E8%B0%85%E8%A7%A3%23" target="weibo">
 一家三口被撞身亡司机想帮养老换谅解（热度：786958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
-赵丽颖工作室（热度：786707）
 </a>
 </li>
 

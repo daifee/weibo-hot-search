@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729779709316,
+  "endTime": 1729780843896,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -1627,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857119,
+      "num": 284534,
+      "word": "papi酱说杨子恶劣至极",
+      "onboard_time": 1729778181,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 850651,
       "num": 284432,
       "word": "9个月婴儿离世未被留骨灰家属获赔4万",
@@ -3115,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490871,
-      "num": 284534,
-      "word": "papi酱说杨子恶劣至极",
-      "onboard_time": 1729778181,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 490444,
       "num": 490444,
       "word": "股神巴菲特表态美国大选",
@@ -3547,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416153,
+      "num": 416153,
+      "word": "喜剧大会选手官宣",
+      "onboard_time": 1729779980,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414987,
       "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
@@ -3681,6 +3689,14 @@
       "onboard_time": 1729638915,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399690,
+      "num": 399690,
+      "word": "Prada站台",
+      "onboard_time": 1729778660,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 399041,
@@ -3945,6 +3961,14 @@
       "onboard_time": 1729473380,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373027,
+      "num": 254302,
+      "word": "女子2天做6项整容手术身亡",
+      "onboard_time": 1729779921,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369092,
@@ -5763,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233904,
+      "num": 233904,
+      "word": "韩安冉 汪静",
+      "onboard_time": 1729780460,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233760,
       "num": 233760,
       "word": "你的肾是这样一点点透支的",
@@ -6715,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206577,
+      "num": 206577,
+      "word": "杨子 黄圣依",
+      "onboard_time": 1729780041,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206420,
       "num": 206420,
       "word": "手工耿已停更近5月",
@@ -7065,14 +7105,6 @@
       "onboard_time": 1729759519,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197578,
-      "num": 197578,
-      "word": "Prada站台",
-      "onboard_time": 1729778660,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 197315,
@@ -8003,6 +8035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175395,
+      "num": 175395,
+      "word": "樊振东能说出羽毛球男单前16的名字",
+      "onboard_time": 1729777700,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175092,
       "num": 175092,
       "word": "美国电子战飞机坠毁飞行员死亡",
@@ -8017,6 +8057,14 @@
       "onboard_time": 1729601660,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174371,
+      "num": 174371,
+      "word": "老人被冤枉卖儿子一辈子抬不起头",
+      "onboard_time": 1729779740,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174272,
@@ -8675,6 +8723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 160194,
+      "num": 160194,
+      "word": "潘展乐外网解说",
+      "onboard_time": 1729778960,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160075,
       "num": 160075,
       "word": "阿乐Doinb下赛季疑似同队",
@@ -8707,6 +8763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159583,
+      "num": 159583,
+      "word": "官方通报公职人员婚内出轨女网红",
+      "onboard_time": 1729780520,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159279,
       "num": 159279,
       "word": "迪丽热巴说重庆火锅好安逸",
@@ -8729,14 +8793,6 @@
       "onboard_time": 1729765519,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159092,
-      "num": 159092,
-      "word": "樊振东能说出羽毛球男单前16的名字",
-      "onboard_time": 1729777700,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 158579,
@@ -8905,6 +8961,14 @@
       "onboard_time": 1729404499,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154271,
+      "num": 154271,
+      "word": "羊驼肉女士",
+      "onboard_time": 1729780641,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 154096,
@@ -9105,6 +9169,14 @@
       "onboard_time": 1729567158,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149569,
+      "num": 149569,
+      "word": "山东多名大学生发帖怒斥偷拍男",
+      "onboard_time": 1729780700,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149452,
@@ -9713,14 +9785,6 @@
       "onboard_time": 1729680917,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136685,
-      "num": 136685,
-      "word": "潘展乐外网解说",
-      "onboard_time": 1729778960,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 136632,
@@ -11131,6 +11195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 106916,
+      "num": 280258,
+      "word": "杨妞花称索赔920万是对人贩子的震慑",
+      "onboard_time": 1729779801,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106708,
       "num": 245133,
       "word": "白鹿奔跑吧蓝色藏服",
@@ -11619,6 +11691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 87776,
+      "num": 302310,
+      "word": "孙海洋希望余华英被判死刑",
+      "onboard_time": 1729779440,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86698,
       "num": 243026,
       "word": "婚礼上的显眼包又出现了",
@@ -11779,14 +11859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81146,
-      "num": 294857,
-      "word": "孙海洋希望余华英被判死刑",
-      "onboard_time": 1729779440,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80597,
       "num": 417922,
       "word": "一名残障未婚女的宅基地执念",
@@ -11945,6 +12017,14 @@
       "onboard_time": 1729599438,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74632,
+      "num": 282139,
+      "word": "男子偷快递摆地摊卖",
+      "onboard_time": 1729778840,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74483,
@@ -12523,6 +12603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54080,
+      "num": 288530,
+      "word": "为什么总有写不完的材料",
+      "onboard_time": 1729778840,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54073,
       "num": 425727,
       "word": "土耳其遇袭工厂承接多项国防订单",
@@ -12792,14 +12880,6 @@
       "word": "私立学校食堂不能没人管",
       "onboard_time": 1729490838,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46884,
-      "num": 282139,
-      "word": "男子偷快递摆地摊卖",
-      "onboard_time": 1729778840,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -13467,6 +13547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33474,
+      "num": 275180,
+      "word": "OPPO的AI还是太全面了",
+      "onboard_time": 1729776799,
+      "rank": 35,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 33391,
       "num": 33391,
       "word": "市监回应肯德基未明示用转基因油",
@@ -13675,14 +13763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30684,
-      "num": 275180,
-      "word": "OPPO的AI还是太全面了",
-      "onboard_time": 1729776799,
-      "rank": 35,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 30676,
       "num": 437617,
       "word": "北京房产居住权登记拟出台新规",
@@ -13799,14 +13879,6 @@
       "num": 246568,
       "word": "长春高空抛物被砸女孩梦想当检察官",
       "onboard_time": 1729753579,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28285,
-      "num": 288530,
-      "word": "为什么总有写不完的材料",
-      "onboard_time": 1729778840,
       "rank": 14,
       "category": "社会新闻"
     },
