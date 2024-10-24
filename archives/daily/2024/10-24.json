@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729768735314,
+  "endTime": 1729769771353,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2248799,
-      "num": 2248799,
+      "raw_hot": 2297956,
+      "num": 2297956,
       "word": "高铁破例临停1分钟救人",
       "onboard_time": 1729762398,
       "rank": 8,
@@ -73,6 +73,14 @@
       "onboard_time": 1729735938,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1818605,
+      "num": 1818605,
+      "word": "潘展乐400自金牌",
+      "onboard_time": 1729768518,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1789317,
@@ -155,19 +163,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1307017,
-      "num": 239683,
-      "word": "大学生吐槽牛肉面没蛋遭商家索赔",
-      "onboard_time": 1729766359,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1270197,
-      "num": 265064,
+      "raw_hot": 1322410,
+      "num": 312639,
       "word": "合肥银泰LV",
       "onboard_time": 1729765097,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1307017,
+      "num": 361047,
+      "word": "大学生吐槽牛肉面没蛋遭商家索赔",
+      "onboard_time": 1729766359,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 681437,
+      "num": 297857,
+      "word": "女子因长相被开玩笑意外发现身世",
+      "onboard_time": 1729769178,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676725,
       "num": 318609,
       "word": "老人收银偷20万私了2万多后失联",
@@ -441,6 +457,14 @@
       "onboard_time": 1729734379,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 570700,
+      "num": 351804,
+      "word": "雷军确认小米15涨价",
+      "onboard_time": 1729768637,
+      "rank": 30,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 564809,
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375661,
+      "num": 423592,
+      "word": "余华英死刑将是对其他犯罪的震慑",
+      "onboard_time": 1729765937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357171,
       "num": 290007,
       "word": "张踩铃 回家抓老公现行的女人",
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 312020,
-      "num": 221721,
+      "num": 293489,
       "word": "郑钦文衣服吊牌没摘",
       "onboard_time": 1729767318,
       "rank": 22,
@@ -1051,12 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219376,
-      "num": 423592,
-      "word": "余华英死刑将是对其他犯罪的震慑",
-      "onboard_time": 1729765937,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 218480,
+      "num": 238712,
+      "word": "中国要推动乌克兰危机局势尽快缓和",
+      "onboard_time": 1729767259,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215208,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1729685657,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207544,
-      "num": 197596,
-      "word": "雷军确认小米15涨价",
-      "onboard_time": 1729768637,
-      "rank": 30,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 205707,
@@ -1435,14 +1459,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 152553,
-      "num": 238712,
-      "word": "中国要推动乌克兰危机局势尽快缓和",
-      "onboard_time": 1729767259,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152549,
       "num": 152549,
       "word": "有种抑郁叫缺维生素D",
@@ -1483,6 +1499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147222,
+      "num": 231841,
+      "word": "不出意外我本打算这样打工的",
+      "onboard_time": 1729766718,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147214,
       "num": 147214,
       "word": "杨幂密逃6收官总结",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1729756399,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145463,
-      "num": 145463,
-      "word": "潘展乐400自金牌",
-      "onboard_time": 1729768518,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 145322,
@@ -1595,8 +1611,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137717,
-      "num": 230170,
+      "raw_hot": 139920,
+      "num": 338577,
       "word": "MCD舞台",
       "onboard_time": 1729767138,
       "rank": 19,
@@ -1675,12 +1691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126605,
+      "num": 126605,
+      "word": "网传客户出轨LV柜姐后原配来闹事",
+      "onboard_time": 1729769598,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125677,
       "num": 125677,
       "word": "秋日OOTD",
       "onboard_time": 1729740617,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 125228,
+      "num": 125228,
+      "word": "萨摩耶把边牧关进了笼子里",
+      "onboard_time": 1729769239,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 124088,
@@ -1691,20 +1723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123549,
+      "num": 228375,
+      "word": "锦绣安宁",
+      "onboard_time": 1729710972,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122321,
       "num": 138606,
       "word": "国内首批太空船票上架淘宝直播间",
       "onboard_time": 1729749919,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120625,
-      "num": 199771,
-      "word": "不出意外我本打算这样打工的",
-      "onboard_time": 1729766718,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 118234,
@@ -1945,6 +1977,14 @@
       "onboard_time": 1729692438,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87936,
+      "num": 234385,
+      "word": "OPPO发布会",
+      "onboard_time": 1729769479,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 87872,
@@ -2244,7 +2284,7 @@
     },
     {
       "raw_hot": 37787,
-      "num": 929450,
+      "num": 1178364,
       "word": "一组数据说金砖",
       "onboard_time": 1729759459,
       "rank": 2,
@@ -2419,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25237,
+      "num": 344909,
+      "word": "老番茄试驾真的会痛的痛车",
+      "onboard_time": 1729767617,
+      "rank": 14,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 23920,
       "num": 26102,
       "word": "檀健次巡演成都站官宣",
@@ -2467,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20770,
+      "num": 369179,
+      "word": "杨妞花已做好余华英上诉的准备",
+      "onboard_time": 1729769297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20389,
       "num": 846520,
       "word": "一图了解金砖未来发展关键词",
@@ -2475,12 +2531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15301,
-      "num": 21299,
-      "word": "锦绣安宁",
-      "onboard_time": 1729710972,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 15766,
+      "num": 319812,
+      "word": "律师称车位被占物业疏于履责可追责",
+      "onboard_time": 1729769598,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14706,
@@ -2491,12 +2547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14215,
-      "num": 237825,
-      "word": "老番茄试驾真的会痛的痛车",
-      "onboard_time": 1729767617,
-      "rank": 14,
-      "category": "汽车,网红"
+      "raw_hot": 13602,
+      "num": 346941,
+      "word": "低俗直播是没有社会价值的审丑",
+      "onboard_time": 1729769297,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9612,
