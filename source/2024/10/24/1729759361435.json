@@ -1,0 +1,402 @@
+{
+  "runTime": 1729759361435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1550432,
+        "num": 1550432,
+        "word": "女子拆快递没洗手吃零食腹泻到脱水",
+        "onboard_time": 1729754899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105916,
+        "num": 1105916,
+        "word": "学信网结业错失工作高校拒改学历",
+        "onboard_time": 1729749198,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148970,
+        "num": 1033887,
+        "word": "黄圣依这期不想离婚了",
+        "onboard_time": 1729746679,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1029893,
+        "num": 1029893,
+        "word": "老人花200跟团游被忽悠买了套房",
+        "onboard_time": 1729756878,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599920,
+        "num": 599920,
+        "word": "为什么转人工越来越难了",
+        "onboard_time": 1729751959,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400808,
+        "num": 400808,
+        "word": "曹巍退出国家队",
+        "onboard_time": 1729752439,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382285,
+        "num": 382285,
+        "word": "国考报名",
+        "onboard_time": 1729754478,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12138,
+        "num": 369210,
+        "word": "第七届进博会要来了",
+        "onboard_time": 1729758858,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646397,
+        "num": 368819,
+        "word": "papi酱 黄圣依杨子简直儿戏",
+        "onboard_time": 1729754059,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1713471,
+        "num": 368810,
+        "word": "4天内4名国乒队员宣布退出国家队",
+        "onboard_time": 1729756638,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366757,
+        "num": 366757,
+        "word": "50万卖出劳力士20万被警方强制扣划",
+        "onboard_time": 1729750100,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338938,
+        "num": 338938,
+        "word": "研究显示亚洲人更能忍耐工作",
+        "onboard_time": 1729751778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204668,
+        "num": 286779,
+        "word": "医生在快递盒上检测出十几种病原体",
+        "onboard_time": 1729758559,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281177,
+        "num": 281177,
+        "word": "邓超接管新浪电影官微",
+        "onboard_time": 1729755559,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267642,
+        "num": 267642,
+        "word": "李行亮麦琳 无限流式吵架",
+        "onboard_time": 1729751597,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249592,
+        "num": 249592,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248299,
+        "num": 248299,
+        "word": "四川长虹",
+        "onboard_time": 1729755138,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234004,
+        "num": 234004,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27280,
+        "num": 231678,
+        "word": "尤长靖阵营存档vlog",
+        "onboard_time": 1729758198,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512671,
+        "num": 231414,
+        "word": "烧伤妈妈求生欲很强没有放弃治疗",
+        "onboard_time": 1729756638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247686,
+        "num": 231293,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230362,
+        "num": 230362,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229295,
+        "num": 229295,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227522,
+        "num": 227522,
+        "word": "人怎么可以捅出这么大的篓子",
+        "onboard_time": 1729757959,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227106,
+        "num": 227106,
+        "word": "花少弹幕 呵呵",
+        "onboard_time": 1729743259,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211568,
+        "num": 211568,
+        "word": "赵丽颖 潮流是会变的",
+        "onboard_time": 1729758439,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181831,
+        "num": 199839,
+        "word": "麦琳 窒息",
+        "onboard_time": 1729747099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160818,
+        "num": 199697,
+        "word": "宋茜五登芭莎封面",
+        "onboard_time": 1729753218,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111228,
+        "num": 199694,
+        "word": "中方在联合国强烈谴责以色列",
+        "onboard_time": 1729738818,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199694,
+        "num": 199693,
+        "word": "南航回应6年机龄787被曝机尾擦地",
+        "onboard_time": 1729753518,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184080,
+        "num": 184080,
+        "word": "南航一航班疑发生着陆事故乘客发声",
+        "onboard_time": 1729745121,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180607,
+        "num": 180607,
+        "word": "研究发现对抗抑郁最有效的运动",
+        "onboard_time": 1729749140,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175077,
+        "num": 175077,
+        "word": "小狗在吸它的阿贝贝",
+        "onboard_time": 1729754478,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159953,
+        "num": 159953,
+        "word": "十个勤天全员入围视界大会巅峰赛",
+        "onboard_time": 1729757418,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144515,
+        "num": 144515,
+        "word": "G868次为心梗老人破例停车1分钟",
+        "onboard_time": 1729751898,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48119,
+        "num": 139850,
+        "word": "杨妞花说余华英死刑不是一个人的复仇",
+        "onboard_time": 1729757239,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8044,
+        "num": 139206,
+        "word": "大金砖合作的中国方案",
+        "onboard_time": 1729732638,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138791,
+        "num": 138791,
+        "word": "檀健次影视角色TOP1",
+        "onboard_time": 1729757899,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21198,
+        "num": 138320,
+        "word": "小米15一眼Crush",
+        "onboard_time": 1729758979,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 7989,
+        "num": 138239,
+        "word": "欧诗漫满足我的周边收集癖",
+        "onboard_time": 1729757418,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138229,
+        "num": 138229,
+        "word": "女子举报干部婚内出轨自己被当第四者",
+        "onboard_time": 1729748778,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128812,
+        "num": 128812,
+        "word": "学信网显示结业错失工作案迎新进展",
+        "onboard_time": 1729754418,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120896,
+        "num": 120896,
+        "word": "乐山大佛景区男厕被女游客进入使用",
+        "onboard_time": 1729759218,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179933,
+        "num": 120044,
+        "word": "小米手机",
+        "onboard_time": 1729757598,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119013,
+        "num": 119013,
+        "word": "黄牛非法抢占博物馆门票一月获利30万",
+        "onboard_time": 1729756399,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118272,
+        "num": 118272,
+        "word": "保时捷车主蹭4S店免费车位被拒绝",
+        "onboard_time": 1729748959,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110278,
+        "num": 110278,
+        "word": "王楚钦看王楠女儿打球",
+        "onboard_time": 1729759339,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27471,
+        "num": 109266,
+        "word": "海底捞是懂宠粉的",
+        "onboard_time": 1729759277,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 398213,
+        "num": 109248,
+        "word": "小米15Pro",
+        "onboard_time": 1729752139,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平俄罗斯喀山之行#"
+    }
+  }
+}
