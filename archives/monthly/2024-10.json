@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729801476798,
+  "endTime": 1729802283398,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -71835,6 +71835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19060,
+      "num": 19060,
+      "word": "大哥上份工作是在宫里吧",
+      "onboard_time": 1729797312,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19056,
       "num": 31407,
       "word": "外交部谈中国游升温",
@@ -71849,14 +71857,6 @@
       "onboard_time": 1729167021,
       "rank": 34,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 19007,
-      "num": 19007,
-      "word": "大哥上份工作是在宫里吧",
-      "onboard_time": 1729797312,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 18901,
@@ -72873,6 +72873,14 @@
       "onboard_time": 1728426673,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13489,
+      "num": 31382,
+      "word": "建设和平创新绿色公正人文金砖",
+      "onboard_time": 1729801691,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13475,
