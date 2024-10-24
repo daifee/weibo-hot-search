@@ -1,0 +1,410 @@
+{
+  "runTime": 1729812128843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117511,
+        "num": 1117511,
+        "word": "巴勒斯坦女孩被当作人肉盾牌探路",
+        "onboard_time": 1729785198,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 598398,
+        "num": 598398,
+        "word": "杨妞花说在领养家庭像贼一样",
+        "onboard_time": 1729787238,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2571,
+        "num": 423722,
+        "word": "一组数据说金砖",
+        "onboard_time": 1729759459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414221,
+        "num": 414221,
+        "word": "吉吉国王照进现实了",
+        "onboard_time": 1729777460,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364981,
+        "num": 364981,
+        "word": "教育局回应建议取消家长护学岗",
+        "onboard_time": 1729775599,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258128,
+        "num": 258128,
+        "word": "尼日利亚酋长在机场豪横发钱",
+        "onboard_time": 1729785259,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250509,
+        "num": 250509,
+        "word": "央视曝光医美行业乱象",
+        "onboard_time": 1729783881,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177691,
+        "num": 177691,
+        "word": "花少 重新剪辑",
+        "onboard_time": 1729769899,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109143,
+        "num": 175635,
+        "word": "赵露思彭冠英恋人即将开拍",
+        "onboard_time": 1729785557,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36415,
+        "num": 173368,
+        "word": "关闭捐助渠道的烧伤妈妈让人动容",
+        "onboard_time": 1729811776,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337680,
+        "num": 168387,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800944,
+        "num": 167254,
+        "word": "当地回应出轨多人干部被质疑公款出游",
+        "onboard_time": 1729790235,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603725,
+        "num": 162370,
+        "word": "网传客户出轨LV柜姐后原配来闹事",
+        "onboard_time": 1729769598,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162041,
+        "num": 162041,
+        "word": "商务部回应美国宣布制裁两家中国实体",
+        "onboard_time": 1729804570,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488656,
+        "num": 160931,
+        "word": "12位被大众讨厌的明星聚在一个岛上",
+        "onboard_time": 1729775359,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347580,
+        "num": 157332,
+        "word": "用同事手机拍照抽中4000元想平分遭拒",
+        "onboard_time": 1729783819,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344277,
+        "num": 153242,
+        "word": "女子2天做6项整容手术身亡",
+        "onboard_time": 1729779921,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338059,
+        "num": 151643,
+        "word": "转发未婚妻出轨证据被拘男子发声",
+        "onboard_time": 1729772359,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221695,
+        "num": 148512,
+        "word": "4天内4名国乒队员宣布退出国家队",
+        "onboard_time": 1729756638,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75729,
+        "num": 144641,
+        "word": "锦绣安宁 第一次见大牢里这么多人",
+        "onboard_time": 1729773258,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465831,
+        "num": 142983,
+        "word": "女子因长相被开玩笑意外发现身世",
+        "onboard_time": 1729769178,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176973,
+        "num": 138969,
+        "word": "papi酱说杨子恶劣至极",
+        "onboard_time": 1729778181,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138413,
+        "num": 138413,
+        "word": "妹妹突然会走路哥哥欣喜到定住",
+        "onboard_time": 1729789574,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "4个伤肾的坏习惯",
+        "onboard_time": 1729809073,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118231,
+        "num": 118231,
+        "word": "周雨彤让陈好做深蹲",
+        "onboard_time": 1729781059,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 117707,
+        "word": "高铁破例临停1分钟救人",
+        "onboard_time": 1729762398,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109350,
+        "num": 109350,
+        "word": "老人被冤枉卖儿子一辈子抬不起头",
+        "onboard_time": 1729779740,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75247,
+        "num": 106690,
+        "word": "原声是吴谨言亲自争取来的",
+        "onboard_time": 1729810216,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68139,
+        "num": 105253,
+        "word": "永夜星河预约",
+        "onboard_time": 1729807091,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52948,
+        "num": 105064,
+        "word": "喜剧大会选手官宣",
+        "onboard_time": 1729779980,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 104938,
+        "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
+        "onboard_time": 1729811957,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99993,
+        "num": 99993,
+        "word": "山东大学男生多次偷拍女厕后求饶",
+        "onboard_time": 1729781000,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94908,
+        "num": 94908,
+        "word": "你的肾是这样一点点透支的",
+        "onboard_time": 1729773498,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81518,
+        "num": 81518,
+        "word": "韩安冉 汪静",
+        "onboard_time": 1729780460,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81198,
+        "num": 81198,
+        "word": "合肥银泰LV",
+        "onboard_time": 1729765097,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75204,
+        "num": 75204,
+        "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
+        "onboard_time": 1729762099,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71423,
+        "num": 71423,
+        "word": "大哥上份工作是在宫里吧",
+        "onboard_time": 1729797312,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70796,
+        "num": 70796,
+        "word": "釜山一驻韩美军补给仓发生火灾",
+        "onboard_time": 1729789934,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65419,
+        "num": 65419,
+        "word": "我们都是时代记录者",
+        "onboard_time": 1729775599,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46403,
+        "num": 64834,
+        "word": "杨妞花说作为子女想替所有父母讨公道",
+        "onboard_time": 1729810335,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64749,
+        "num": 64749,
+        "word": "杨子 你姓什么呀",
+        "onboard_time": 1729769958,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60089,
+        "num": 60089,
+        "word": "美国还没查清以色列绝密咋泄露的",
+        "onboard_time": 1729794131,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59545,
+        "num": 59545,
+        "word": "杨子 黄圣依",
+        "onboard_time": 1729780041,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58487,
+        "num": 58487,
+        "word": "潘展乐400自金牌",
+        "onboard_time": 1729768518,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57010,
+        "num": 57010,
+        "word": "不能再让巴勒斯坦黎巴嫩生灵涂炭",
+        "onboard_time": 1729807873,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 56642,
+        "num": 56642,
+        "word": "杨妞花对余华英提索赔790万升920万",
+        "onboard_time": 1729789214,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55716,
+        "num": 55716,
+        "word": "3000年前的文物盖着3000年前的植物",
+        "onboard_time": 1729799412,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47790,
+        "num": 55685,
+        "word": "加沙小女孩哭诉走不动了腿上都是血",
+        "onboard_time": 1729794552,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46462,
+        "num": 55575,
+        "word": "今年第20号台风潭美来了",
+        "onboard_time": 1729798152,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45344,
+        "num": 55520,
+        "word": "七夜雪 男二",
+        "onboard_time": 1729771038,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#喀山宣言#"
+    }
+  }
+}
