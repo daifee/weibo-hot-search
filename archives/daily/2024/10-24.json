@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729755403972,
+  "endTime": 1729758521671,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -25,6 +25,14 @@
       "onboard_time": 1729749198,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1923823,
+      "num": 418067,
+      "word": "4天内4名国乒队员宣布退出国家队",
+      "onboard_time": 1729756638,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1837166,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 810794,
-      "num": 363542,
+      "num": 433901,
       "word": "papi酱 黄圣依杨子简直儿戏",
       "onboard_time": 1729754059,
       "rank": 21,
@@ -247,6 +255,14 @@
       "num": 374904,
       "word": "台湾幼儿园园长之子涉侵犯39名幼童",
       "onboard_time": 1729730059,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774338,
+      "num": 774338,
+      "word": "女子拆快递没洗手吃零食腹泻到脱水",
+      "onboard_time": 1729754899,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -297,6 +313,22 @@
       "onboard_time": 1729728739,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 630760,
+      "num": 630760,
+      "word": "老人花200跟团游被忽悠买了套房",
+      "onboard_time": 1729756878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627672,
+      "num": 627672,
+      "word": "曹巍退出国家队",
+      "onboard_time": 1729752439,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 618123,
@@ -387,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462011,
+      "num": 236629,
+      "word": "烧伤妈妈求生欲很强没有放弃治疗",
+      "onboard_time": 1729756638,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452411,
       "num": 231647,
       "word": "赵丽颖不想身材管理",
@@ -433,6 +473,14 @@
       "onboard_time": 1729742838,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433956,
+      "num": 433956,
+      "word": "研究显示亚洲人更能忍耐工作",
+      "onboard_time": 1729751778,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426866,
@@ -521,6 +569,14 @@
       "onboard_time": 1729743198,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356010,
+      "num": 356010,
+      "word": "国考报名",
+      "onboard_time": 1729754478,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 351395,
@@ -731,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242581,
+      "num": 242581,
+      "word": "邓超接管新浪电影官微",
+      "onboard_time": 1729755559,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240567,
       "num": 240567,
       "word": "明年起面包里不能有这种添加剂",
@@ -779,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233281,
+      "num": 233281,
+      "word": "四川长虹",
+      "onboard_time": 1729755138,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 231736,
       "num": 305048,
       "word": "花少",
@@ -811,12 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228220,
-      "num": 228220,
-      "word": "曹巍退出国家队",
-      "onboard_time": 1729752439,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 227646,
+      "num": 365563,
+      "word": "学信网显示结业错失工作案迎新进展",
+      "onboard_time": 1729754418,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221172,
@@ -833,14 +905,6 @@
       "onboard_time": 1729674856,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213934,
-      "num": 342775,
-      "word": "研究显示亚洲人更能忍耐工作",
-      "onboard_time": 1729751778,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209590,
@@ -915,11 +979,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194351,
+      "num": 194351,
+      "word": "小米手机",
+      "onboard_time": 1729757598,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193477,
       "num": 246547,
       "word": "G868次为心梗老人破例停车1分钟",
       "onboard_time": 1729751898,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192229,
+      "num": 246575,
+      "word": "南航回应6年机龄787被曝机尾擦地",
+      "onboard_time": 1729753518,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -963,12 +1043,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182162,
-      "num": 182162,
-      "word": "国考报名",
-      "onboard_time": 1729754478,
-      "rank": 37,
-      "category": "教育"
+      "raw_hot": 182128,
+      "num": 182128,
+      "word": "人怎么可以捅出这么大的篓子",
+      "onboard_time": 1729757959,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 181526,
@@ -979,12 +1059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180775,
+      "num": 227779,
+      "word": "檀健次影视角色TOP1",
+      "onboard_time": 1729757899,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179803,
       "num": 287023,
       "word": "黄子弘凡抢票",
       "onboard_time": 1729743019,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178505,
+      "num": 178505,
+      "word": "小狗在吸它的阿贝贝",
+      "onboard_time": 1729754478,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 177231,
@@ -995,12 +1091,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171043,
-      "num": 246575,
-      "word": "南航回应6年机龄787被曝机尾擦地",
-      "onboard_time": 1729753518,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 169714,
+      "num": 227720,
+      "word": "十个勤天全员入围视界大会巅峰赛",
+      "onboard_time": 1729757418,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 167777,
@@ -1027,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165716,
-      "num": 165716,
-      "word": "小狗在吸它的阿贝贝",
-      "onboard_time": 1729754478,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164110,
       "num": 164110,
       "word": "闪耀暖暖",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1729747939,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160741,
+      "num": 160741,
+      "word": "赵丽颖 潮流是会变的",
+      "onboard_time": 1729758439,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 160075,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1729754899,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145987,
+      "num": 145987,
+      "word": "黄牛非法抢占博物馆门票一月获利30万",
+      "onboard_time": 1729756399,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145322,
@@ -1259,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126760,
-      "num": 126760,
-      "word": "四川长虹",
-      "onboard_time": 1729755138,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 125677,
       "num": 125677,
       "word": "秋日OOTD",
@@ -1313,14 +1409,6 @@
       "onboard_time": 1729683318,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115595,
-      "num": 365563,
-      "word": "学信网显示结业错失工作案迎新进展",
-      "onboard_time": 1729754418,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114839,
@@ -1691,14 +1779,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 53774,
-      "num": 358305,
-      "word": "女子拆快递没洗手吃零食腹泻到脱水",
-      "onboard_time": 1729754899,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52814,
       "num": 473859,
       "word": "公安网安查处侮辱英烈案",
@@ -1827,6 +1907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32277,
+      "num": 418307,
+      "word": "杨妞花说余华英死刑不是一个人的复仇",
+      "onboard_time": 1729757239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30996,
       "num": 49435,
       "word": "脱友 喜单",
@@ -1907,6 +1995,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 23477,
+      "num": 238350,
+      "word": "尤长靖阵营存档vlog",
+      "onboard_time": 1729758198,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23396,
       "num": 29742,
       "word": "中俄世代友好的深厚情谊不会变",
@@ -1955,7 +2051,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9109,
+      "raw_hot": 9457,
       "num": 911888,
       "word": "大金砖合作的中国方案",
       "onboard_time": 1729732638,
@@ -1969,6 +2065,14 @@
       "onboard_time": 1729652959,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8048,
+      "num": 143642,
+      "word": "欧诗漫满足我的周边收集癖",
+      "onboard_time": 1729757418,
+      "rank": 40,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

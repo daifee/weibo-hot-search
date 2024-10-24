@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729755403972,
+  "endTime": 1729758521671,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -217,6 +217,14 @@
       "onboard_time": 1729403600,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1923823,
+      "num": 418067,
+      "word": "4天内4名国乒队员宣布退出国家队",
+      "onboard_time": 1729756638,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1837166,
@@ -1540,7 +1548,7 @@
     },
     {
       "raw_hot": 810794,
-      "num": 363542,
+      "num": 433901,
       "word": "papi酱 黄圣依杨子简直儿戏",
       "onboard_time": 1729754059,
       "rank": 21,
@@ -1647,6 +1655,14 @@
       "num": 374904,
       "word": "台湾幼儿园园长之子涉侵犯39名幼童",
       "onboard_time": 1729730059,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774338,
+      "num": 774338,
+      "word": "女子拆快递没洗手吃零食腹泻到脱水",
+      "onboard_time": 1729754899,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -2187,11 +2203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630760,
+      "num": 630760,
+      "word": "老人花200跟团游被忽悠买了套房",
+      "onboard_time": 1729756878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627953,
       "num": 627953,
       "word": "张瑞告别国乒",
       "onboard_time": 1729482797,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 627672,
+      "num": 627672,
+      "word": "曹巍退出国家队",
+      "onboard_time": 1729752439,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -3051,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462011,
+      "num": 236629,
+      "word": "烧伤妈妈求生欲很强没有放弃治疗",
+      "onboard_time": 1729756638,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454938,
       "num": 454938,
       "word": "失聪女博士与丈夫在清华实验室相遇",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1729581197,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433956,
+      "num": 433956,
+      "word": "研究显示亚洲人更能忍耐工作",
+      "onboard_time": 1729751778,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433679,
@@ -3737,6 +3785,14 @@
       "onboard_time": 1729573760,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 356010,
+      "num": 356010,
+      "word": "国考报名",
+      "onboard_time": 1729754478,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 355632,
@@ -5187,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242581,
+      "num": 242581,
+      "word": "邓超接管新浪电影官微",
+      "onboard_time": 1729755559,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242490,
       "num": 242490,
       "word": "油价",
@@ -5353,6 +5417,14 @@
       "onboard_time": 1729499659,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233281,
+      "num": 233281,
+      "word": "四川长虹",
+      "onboard_time": 1729755138,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 233184,
@@ -5539,19 +5611,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228220,
-      "num": 228220,
-      "word": "曹巍退出国家队",
-      "onboard_time": 1729752439,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227900,
       "num": 227900,
       "word": "美国一幼童开枪打死一名婴儿",
       "onboard_time": 1729582457,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227646,
+      "num": 365563,
+      "word": "学信网显示结业错失工作案迎新进展",
+      "onboard_time": 1729754418,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -5945,14 +6017,6 @@
       "onboard_time": 1729427179,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213934,
-      "num": 342775,
-      "word": "研究显示亚洲人更能忍耐工作",
-      "onboard_time": 1729751778,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213840,
@@ -6723,6 +6787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194351,
+      "num": 194351,
+      "word": "小米手机",
+      "onboard_time": 1729757598,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194220,
       "num": 194220,
       "word": "APT手势舞",
@@ -6801,6 +6873,14 @@
       "onboard_time": 1729410318,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192229,
+      "num": 246575,
+      "word": "南航回应6年机龄787被曝机尾擦地",
+      "onboard_time": 1729753518,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192025,
@@ -7227,20 +7307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182162,
-      "num": 182162,
-      "word": "国考报名",
-      "onboard_time": 1729754478,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 182135,
       "num": 182135,
       "word": "外国小姐姐穿上了汉代甲胄",
       "onboard_time": 1729470800,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182128,
+      "num": 182128,
+      "word": "人怎么可以捅出这么大的篓子",
+      "onboard_time": 1729757959,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 182067,
@@ -7307,6 +7387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180775,
+      "num": 227779,
+      "word": "檀健次影视角色TOP1",
+      "onboard_time": 1729757899,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179872,
       "num": 218710,
       "word": "七夜雪",
@@ -7336,6 +7424,14 @@
       "word": "24岁男生给爷爷奶奶改造厨房的一天",
       "onboard_time": 1729672338,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178505,
+      "num": 178505,
+      "word": "小狗在吸它的阿贝贝",
+      "onboard_time": 1729754478,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -7563,14 +7659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171043,
-      "num": 246575,
-      "word": "南航回应6年机龄787被曝机尾擦地",
-      "onboard_time": 1729753518,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170601,
       "num": 170601,
       "word": "警方通报男子报警称女儿被人强奸",
@@ -7609,6 +7697,14 @@
       "onboard_time": 1729347740,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169714,
+      "num": 227720,
+      "word": "十个勤天全员入围视界大会巅峰赛",
+      "onboard_time": 1729757418,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 169533,
@@ -7769,14 +7865,6 @@
       "onboard_time": 1729473679,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 165716,
-      "num": 165716,
-      "word": "小狗在吸它的阿贝贝",
-      "onboard_time": 1729754478,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 165668,
@@ -8025,6 +8113,14 @@
       "onboard_time": 1729432106,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160741,
+      "num": 160741,
+      "word": "赵丽颖 潮流是会变的",
+      "onboard_time": 1729758439,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 160652,
@@ -8569,6 +8665,14 @@
       "onboard_time": 1729403419,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145987,
+      "num": 145987,
+      "word": "黄牛非法抢占博物馆门票一月获利30万",
+      "onboard_time": 1729756399,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145775,
@@ -9507,14 +9611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126760,
-      "num": 126760,
-      "word": "四川长虹",
-      "onboard_time": 1729755138,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 125976,
       "num": 125976,
       "word": "宋亚轩上官婉儿堪称教学局",
@@ -9929,14 +10025,6 @@
       "onboard_time": 1729687580,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115595,
-      "num": 365563,
-      "word": "学信网显示结业错失工作案迎新进展",
-      "onboard_time": 1729754418,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115395,
@@ -11651,14 +11739,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 53774,
-      "num": 358305,
-      "word": "女子拆快递没洗手吃零食腹泻到脱水",
-      "onboard_time": 1729754899,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53721,
       "num": 416897,
       "word": "看战鹰穿梭于光影之间",
@@ -12619,6 +12699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 32277,
+      "num": 418307,
+      "word": "杨妞花说余华英死刑不是一个人的复仇",
+      "onboard_time": 1729757239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31794,
       "num": 122235,
       "word": "不能让界碑移动哪怕一毫米是他们家训",
@@ -13073,6 +13161,14 @@
       "onboard_time": 1729712472,
       "rank": 31,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 23477,
+      "num": 238350,
+      "word": "尤长靖阵营存档vlog",
+      "onboard_time": 1729758198,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 23435,
@@ -13659,19 +13755,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9457,
+      "num": 911888,
+      "word": "大金砖合作的中国方案",
+      "onboard_time": 1729732638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9429,
       "num": 34168,
       "word": "热心司机组队变救火卫士",
       "onboard_time": 1729366273,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9109,
-      "num": 911888,
-      "word": "大金砖合作的中国方案",
-      "onboard_time": 1729732638,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -13689,6 +13785,14 @@
       "onboard_time": 1729496117,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8048,
+      "num": 143642,
+      "word": "欧诗漫满足我的周边收集癖",
+      "onboard_time": 1729757418,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 7280,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729755403972,
+  "endTime": 1729758521671,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1729256361,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1923823,
+      "num": 418067,
+      "word": "4天内4名国乒队员宣布退出国家队",
+      "onboard_time": 1729756638,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1907090,
@@ -7476,7 +7484,7 @@
     },
     {
       "raw_hot": 810794,
-      "num": 363542,
+      "num": 433901,
       "word": "papi酱 黄圣依杨子简直儿戏",
       "onboard_time": 1729754059,
       "rank": 21,
@@ -8039,6 +8047,14 @@
       "num": 374904,
       "word": "台湾幼儿园园长之子涉侵犯39名幼童",
       "onboard_time": 1729730059,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774338,
+      "num": 774338,
+      "word": "女子拆快递没洗手吃零食腹泻到脱水",
+      "onboard_time": 1729754899,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -10747,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630760,
+      "num": 630760,
+      "word": "老人花200跟团游被忽悠买了套房",
+      "onboard_time": 1729756878,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630552,
       "num": 630552,
       "word": "国足2比0领先印尼",
@@ -10825,6 +10849,14 @@
       "onboard_time": 1728967282,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 627672,
+      "num": 627672,
+      "word": "曹巍退出国家队",
+      "onboard_time": 1729752439,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 627250,
@@ -15163,6 +15195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 462011,
+      "num": 236629,
+      "word": "烧伤妈妈求生欲很强没有放弃治疗",
+      "onboard_time": 1729756638,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460129,
       "num": 960335,
       "word": "河南省司法厅原厅长王文海病亡",
@@ -16081,6 +16121,14 @@
       "onboard_time": 1729165761,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433956,
+      "num": 433956,
+      "word": "研究显示亚洲人更能忍耐工作",
+      "onboard_time": 1729751778,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433679,
@@ -18985,6 +19033,14 @@
       "onboard_time": 1728976579,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356010,
+      "num": 356010,
+      "word": "国考报名",
+      "onboard_time": 1728958697,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 355876,
@@ -26883,6 +26939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242581,
+      "num": 242581,
+      "word": "邓超接管新浪电影官微",
+      "onboard_time": 1729755559,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242490,
       "num": 242490,
       "word": "油价",
@@ -27739,6 +27803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233281,
+      "num": 233281,
+      "word": "四川长虹",
+      "onboard_time": 1729755138,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 233184,
       "num": 233184,
       "word": "杨鸣暴怒",
@@ -28435,14 +28507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228220,
-      "num": 228220,
-      "word": "曹巍退出国家队",
-      "onboard_time": 1729752439,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228080,
       "num": 238728,
       "word": "辛瓦尔死后各方誓言继续战斗",
@@ -28505,6 +28569,14 @@
       "onboard_time": 1728018620,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227646,
+      "num": 365563,
+      "word": "学信网显示结业错失工作案迎新进展",
+      "onboard_time": 1729754418,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227607,
@@ -30433,14 +30505,6 @@
       "onboard_time": 1729336699,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213934,
-      "num": 342775,
-      "word": "研究显示亚洲人更能忍耐工作",
-      "onboard_time": 1729751778,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213909,
@@ -34803,6 +34867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194351,
+      "num": 194351,
+      "word": "小米手机",
+      "onboard_time": 1729757598,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194270,
       "num": 194270,
       "word": "央视三农直播",
@@ -35368,6 +35440,14 @@
       "word": "能生成人裸照的性犯罪从韩国开始泛滥",
       "onboard_time": 1728369501,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192229,
+      "num": 246575,
+      "word": "南航回应6年机龄787被曝机尾擦地",
+      "onboard_time": 1729753518,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -37763,20 +37843,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182162,
-      "num": 182162,
-      "word": "国考报名",
-      "onboard_time": 1728958697,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 182135,
       "num": 182135,
       "word": "外国小姐姐穿上了汉代甲胄",
       "onboard_time": 1729470800,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182128,
+      "num": 182128,
+      "word": "人怎么可以捅出这么大的篓子",
+      "onboard_time": 1729757959,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 182098,
@@ -38155,6 +38235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180775,
+      "num": 227779,
+      "word": "檀健次影视角色TOP1",
+      "onboard_time": 1729757899,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180762,
       "num": 180762,
       "word": "我的国庆作业终于写完了",
@@ -38529,6 +38617,14 @@
       "onboard_time": 1727792241,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178505,
+      "num": 178505,
+      "word": "小狗在吸它的阿贝贝",
+      "onboard_time": 1729754478,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 178445,
@@ -40035,14 +40131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171043,
-      "num": 246575,
-      "word": "南航回应6年机龄787被曝机尾擦地",
-      "onboard_time": 1729753518,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171010,
       "num": 199646,
       "word": "港股飘红",
@@ -40289,6 +40377,14 @@
       "onboard_time": 1728954979,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169714,
+      "num": 227720,
+      "word": "十个勤天全员入围视界大会巅峰赛",
+      "onboard_time": 1729757418,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 169680,
@@ -41233,14 +41329,6 @@
       "onboard_time": 1729256840,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165716,
-      "num": 165716,
-      "word": "小狗在吸它的阿贝贝",
-      "onboard_time": 1729754478,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 165689,
@@ -42457,6 +42545,14 @@
       "onboard_time": 1728217399,
       "rank": 42,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 160741,
+      "num": 160741,
+      "word": "赵丽颖 潮流是会变的",
+      "onboard_time": 1729758439,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 160723,
@@ -45993,6 +46089,14 @@
       "onboard_time": 1729208839,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145987,
+      "num": 145987,
+      "word": "黄牛非法抢占博物馆门票一月获利30万",
+      "onboard_time": 1729756399,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145973,
@@ -50763,14 +50867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126760,
-      "num": 126760,
-      "word": "四川长虹",
-      "onboard_time": 1729755138,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "A股疯涨专家提醒笑不露齿",
@@ -53017,14 +53113,6 @@
       "onboard_time": 1729321398,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115595,
-      "num": 365563,
-      "word": "学信网显示结业错失工作案迎新进展",
-      "onboard_time": 1729754418,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115558,
@@ -62443,14 +62531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53774,
-      "num": 358305,
-      "word": "女子拆快递没洗手吃零食腹泻到脱水",
-      "onboard_time": 1729754899,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53762,
       "num": 672557,
       "word": "朴智旻方回应诈骗受害",
@@ -67091,6 +67171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32277,
+      "num": 418307,
+      "word": "杨妞花说余华英死刑不是一个人的复仇",
+      "onboard_time": 1729757239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32247,
       "num": 233972,
       "word": "专家称伊以陷入全面战争可能性不大",
@@ -69273,6 +69361,14 @@
       "onboard_time": 1728116720,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 23477,
+      "num": 238350,
+      "word": "尤长靖阵营存档vlog",
+      "onboard_time": 1729758198,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 23456,
@@ -71891,6 +71987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 9457,
+      "num": 911888,
+      "word": "大金砖合作的中国方案",
+      "onboard_time": 1729732638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9429,
       "num": 34168,
       "word": "热心司机组队变救火卫士",
@@ -71905,14 +72009,6 @@
       "onboard_time": 1727998395,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9109,
-      "num": 911888,
-      "word": "大金砖合作的中国方案",
-      "onboard_time": 1729732638,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9088,
@@ -71961,6 +72057,14 @@
       "onboard_time": 1729496117,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8048,
+      "num": 143642,
+      "word": "欧诗漫满足我的周边收集癖",
+      "onboard_time": 1729757418,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 7942,
