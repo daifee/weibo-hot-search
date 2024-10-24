@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729744922816,
+  "endTime": 1729747317618,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -240,6 +240,14 @@
       "word": "耳蜗丢失男孩就读学校将赔7成",
       "onboard_time": 1729482018,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1741737,
+      "num": 829664,
+      "word": "2岁宝宝从未掏耳朵被耳屎堵满",
+      "onboard_time": 1729746020,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1162560,
+      "num": 1186009,
+      "word": "花少弹幕 呵呵",
+      "onboard_time": 1729743259,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1155839,
       "num": 680588,
       "word": "中国军队和武警严防死守中缅边境",
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1000034,
+      "num": 1000034,
+      "word": "儿子恋爱后总要钱被妈妈送派出所",
+      "onboard_time": 1729743798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999063,
       "num": 1159850,
       "word": "樊振东ins简介 Swiftie",
@@ -1169,14 +1193,6 @@
       "onboard_time": 1729662139,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915168,
-      "num": 915168,
-      "word": "花少弹幕 呵呵",
-      "onboard_time": 1729743259,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 914539,
@@ -1657,6 +1673,14 @@
       "onboard_time": 1729504219,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 747094,
+      "num": 345374,
+      "word": "黄圣依这期不想离婚了",
+      "onboard_time": 1729746679,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 746850,
@@ -2371,6 +2395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 564656,
+      "num": 564656,
+      "word": "再见爱人更新",
+      "onboard_time": 1729744160,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561485,
       "num": 561485,
       "word": "勒布伦摔拍单打成绩被取消",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1729402278,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490444,
+      "num": 490444,
+      "word": "股神巴菲特表态美国大选",
+      "onboard_time": 1729743920,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 484514,
@@ -3235,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408645,
+      "num": 341906,
+      "word": "每套房都让人眼前一亮又一亮",
+      "onboard_time": 1729743380,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 408124,
       "num": 350569,
       "word": "11岁女孩只爱吃荤胸部长5个肿瘤",
@@ -3369,14 +3417,6 @@
       "onboard_time": 1729726157,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384395,
-      "num": 313726,
-      "word": "每套房都让人眼前一亮又一亮",
-      "onboard_time": 1729743380,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 382304,
@@ -3580,7 +3620,7 @@
     },
     {
       "raw_hot": 357171,
-      "num": 250179,
+      "num": 290007,
       "word": "张踩铃 回家抓老公现行的女人",
       "onboard_time": 1729743198,
       "rank": 36,
@@ -3633,6 +3673,14 @@
       "onboard_time": 1729384938,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 351395,
+      "num": 351395,
+      "word": "耿爽代表中国在联合国为难民发声",
+      "onboard_time": 1729740558,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 351275,
@@ -3761,6 +3809,14 @@
       "onboard_time": 1729689919,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342076,
+      "num": 342076,
+      "word": "桑延为温以凡庆生vlog",
+      "onboard_time": 1729745300,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 341091,
@@ -3971,14 +4027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317545,
-      "num": 317545,
-      "word": "股神巴菲特表态美国大选",
-      "onboard_time": 1729743920,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 317375,
       "num": 317375,
       "word": "安妮海瑟薇刘宪华评论互动",
@@ -4107,6 +4155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304799,
+      "num": 304799,
+      "word": "教师不是什么大冤种不该如此背刺",
+      "onboard_time": 1729744400,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304786,
       "num": 304786,
       "word": "洞洞鞋内胆",
@@ -4156,7 +4212,7 @@
     },
     {
       "raw_hot": 300731,
-      "num": 300731,
+      "num": 350827,
       "word": "NASA局长称正与中方商谈租借月壤样品",
       "onboard_time": 1729742838,
       "rank": 31,
@@ -4305,6 +4361,14 @@
       "onboard_time": 1729417699,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290427,
+      "num": 309809,
+      "word": "巨石强森变小石强森",
+      "onboard_time": 1729746080,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 290290,
@@ -4595,20 +4659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271295,
-      "num": 271295,
-      "word": "儿子恋爱后总要钱被妈妈送派出所",
-      "onboard_time": 1729743798,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271248,
       "num": 271248,
       "word": "中部战区运20直冲云霄有多酷炫",
       "onboard_time": 1729580837,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 270807,
+      "num": 306994,
+      "word": "李沁 越虐越美",
+      "onboard_time": 1729745781,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 270522,
@@ -5075,14 +5139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238128,
-      "num": 309838,
-      "word": "耿爽代表中国在联合国为难民发声",
-      "onboard_time": 1729740558,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 237838,
       "num": 237838,
       "word": "闪耀暖暖联动米山舞",
@@ -5139,11 +5195,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234816,
+      "num": 234816,
+      "word": "南航一航班疑发生着陆事故乘客发声",
+      "onboard_time": 1729745121,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234443,
       "num": 432038,
       "word": "非遗蜀绣上的花花连小耳朵都是细节",
       "onboard_time": 1729430362,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233520,
+      "num": 367269,
+      "word": "人民网评网红频频塌房",
+      "onboard_time": 1729742239,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -6067,6 +6139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205707,
+      "num": 355014,
+      "word": "再见爱人",
+      "onboard_time": 1729595479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204430,
       "num": 204430,
       "word": "禹庆准退队",
@@ -6081,14 +6161,6 @@
       "onboard_time": 1729472719,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204317,
-      "num": 256483,
-      "word": "再见爱人更新",
-      "onboard_time": 1729744160,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 204273,
@@ -6728,14 +6800,6 @@
       "word": "臭肉事件校方如此傲慢只会臭上加臭",
       "onboard_time": 1729471161,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189085,
-      "num": 367269,
-      "word": "人民网评网红频频塌房",
-      "onboard_time": 1729742239,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -7497,6 +7561,14 @@
       "onboard_time": 1729492578,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165265,
+      "num": 165265,
+      "word": "麦琳 窒息",
+      "onboard_time": 1729747099,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 164969,
@@ -8515,6 +8587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140201,
+      "num": 140201,
+      "word": "太阳vs快船",
+      "onboard_time": 1729746800,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139982,
       "num": 139982,
       "word": "Deft希望Chovy夺冠",
@@ -8657,6 +8737,14 @@
       "onboard_time": 1729673057,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "剑来",
+      "onboard_time": 1729747280,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 135709,
@@ -9307,14 +9395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120860,
-      "num": 301435,
-      "word": "教师不是什么大冤种不该如此背刺",
-      "onboard_time": 1729744400,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120605,
       "num": 120605,
       "word": "深圳晚霞",
@@ -9937,14 +10017,6 @@
       "onboard_time": 1729559899,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103333,
-      "num": 355014,
-      "word": "再见爱人",
-      "onboard_time": 1729595479,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 102767,
@@ -11411,6 +11483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46131,
+      "num": 347118,
+      "word": "荣耀Magic7朱珠",
+      "onboard_time": 1729744460,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45905,
       "num": 457910,
       "word": "冰晶顶遇难者未带专业设备未穿冲锋衣",
@@ -12156,7 +12236,7 @@
     },
     {
       "raw_hot": 31195,
-      "num": 171522,
+      "num": 307657,
       "word": "荣耀Magic7全新配色朝霞金",
       "onboard_time": 1729744460,
       "rank": 45,
@@ -12265,14 +12345,6 @@
       "onboard_time": 1729535171,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28688,
-      "num": 227595,
-      "word": "荣耀Magic7朱珠",
-      "onboard_time": 1729744460,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 28505,
@@ -12395,6 +12467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26546,
+      "num": 342018,
+      "word": "朱志鑫Walking练习室",
+      "onboard_time": 1729743679,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -12433,14 +12513,6 @@
       "onboard_time": 1729413737,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25068,
-      "num": 314196,
-      "word": "朱志鑫Walking练习室",
-      "onboard_time": 1729743679,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 24957,
@@ -12579,6 +12651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22910,
+      "num": 205925,
+      "word": "把好日子的味道画给志愿军",
+      "onboard_time": 1729746441,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22340,
       "num": 120594,
       "word": "这届年轻人过冬既要city又要warm",
@@ -12692,7 +12772,7 @@
     },
     {
       "raw_hot": 20389,
-      "num": 789841,
+      "num": 846520,
       "word": "一图了解金砖未来发展关键词",
       "onboard_time": 1729732397,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729744922816,
+  "endTime": 1729747317618,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1727748018,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1741737,
+      "num": 829664,
+      "word": "2岁宝宝从未掏耳朵被耳屎堵满",
+      "onboard_time": 1729746020,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1741199,
@@ -3939,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1162560,
+      "num": 1186009,
+      "word": "花少弹幕 呵呵",
+      "onboard_time": 1729743259,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1162161,
       "num": 214529,
       "word": "新买的宾利送人就医座椅被血染红",
@@ -5259,6 +5275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1000034,
+      "num": 1000034,
+      "word": "儿子恋爱后总要钱被妈妈送派出所",
+      "onboard_time": 1729743798,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999594,
       "num": 605626,
       "word": "两个月后日本找到伤害中国游客凶手",
@@ -6049,14 +6073,6 @@
       "onboard_time": 1729218798,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915168,
-      "num": 915168,
-      "word": "花少弹幕 呵呵",
-      "onboard_time": 1729743259,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 914539,
@@ -8417,6 +8433,14 @@
       "onboard_time": 1727824215,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 747094,
+      "num": 345374,
+      "word": "黄圣依这期不想离婚了",
+      "onboard_time": 1729746679,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 746850,
@@ -12235,6 +12259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 564656,
+      "num": 564656,
+      "word": "再见爱人更新",
+      "onboard_time": 1729744160,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564621,
       "num": 564621,
       "word": "人人人人人广州人人人人人",
@@ -14209,6 +14241,14 @@
       "onboard_time": 1728447080,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490444,
+      "num": 490444,
+      "word": "股神巴菲特表态美国大选",
+      "onboard_time": 1729743920,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 489891,
@@ -16763,6 +16803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408645,
+      "num": 341906,
+      "word": "每套房都让人眼前一亮又一亮",
+      "onboard_time": 1729743380,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 408571,
       "num": 408571,
       "word": "林诗栋4比2向鹏",
@@ -17593,14 +17641,6 @@
       "onboard_time": 1728013039,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384395,
-      "num": 313726,
-      "word": "每套房都让人眼前一亮又一亮",
-      "onboard_time": 1729743380,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 384388,
@@ -18772,7 +18812,7 @@
     },
     {
       "raw_hot": 357171,
-      "num": 250179,
+      "num": 290007,
       "word": "张踩铃 回家抓老公现行的女人",
       "onboard_time": 1729743198,
       "rank": 36,
@@ -19097,6 +19137,14 @@
       "onboard_time": 1728806540,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351395,
+      "num": 351395,
+      "word": "耿爽代表中国在联合国为难民发声",
+      "onboard_time": 1729740558,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 351320,
@@ -19497,6 +19545,14 @@
       "onboard_time": 1728536899,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 342076,
+      "num": 342076,
+      "word": "桑延为温以凡庆生vlog",
+      "onboard_time": 1729745300,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 341525,
@@ -20731,14 +20787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317545,
-      "num": 317545,
-      "word": "股神巴菲特表态美国大选",
-      "onboard_time": 1729743920,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 317409,
       "num": 269969,
       "word": "749局 奥特曼",
@@ -21475,6 +21523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304799,
+      "num": 304799,
+      "word": "教师不是什么大冤种不该如此背刺",
+      "onboard_time": 1729744400,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304786,
       "num": 304786,
       "word": "洞洞鞋内胆",
@@ -21724,7 +21780,7 @@
     },
     {
       "raw_hot": 300731,
-      "num": 300731,
+      "num": 350827,
       "word": "NASA局长称正与中方商谈租借月壤样品",
       "onboard_time": 1729742838,
       "rank": 31,
@@ -22553,6 +22609,14 @@
       "onboard_time": 1729417699,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290427,
+      "num": 309809,
+      "word": "巨石强森变小石强森",
+      "onboard_time": 1729746080,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 290322,
@@ -24155,14 +24219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271295,
-      "num": 271295,
-      "word": "儿子恋爱后总要钱被妈妈送派出所",
-      "onboard_time": 1729743798,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "700多位航天英烈长眠酒泉",
@@ -24209,6 +24265,14 @@
       "onboard_time": 1728188837,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270807,
+      "num": 306994,
+      "word": "李沁 越虐越美",
+      "onboard_time": 1729745781,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 270763,
@@ -27107,14 +27171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 238128,
-      "num": 309838,
-      "word": "耿爽代表中国在联合国为难民发声",
-      "onboard_time": 1729740558,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238089,
       "num": 238089,
       "word": "国庆第1天西湖人从众",
@@ -27419,6 +27475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234816,
+      "num": 234816,
+      "word": "南航一航班疑发生着陆事故乘客发声",
+      "onboard_time": 1729745121,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "单依纯巴黎看秀状态",
@@ -27513,6 +27577,14 @@
       "onboard_time": 1728463700,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 233520,
+      "num": 367269,
+      "word": "人民网评网红频频塌房",
+      "onboard_time": 1729742239,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233492,
@@ -31707,6 +31779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205707,
+      "num": 634007,
+      "word": "再见爱人",
+      "onboard_time": 1728966262,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205653,
       "num": 205653,
       "word": "刘耀文正是憋不住笑的年纪",
@@ -31928,14 +32008,6 @@
       "word": "姜潮回应恋爱脑",
       "onboard_time": 1728030018,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 204317,
-      "num": 256483,
-      "word": "再见爱人更新",
-      "onboard_time": 1729744160,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -36025,14 +36097,6 @@
       "onboard_time": 1728652582,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189085,
-      "num": 367269,
-      "word": "人民网评网红频频塌房",
-      "onboard_time": 1729742239,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189080,
@@ -41065,6 +41129,14 @@
       "onboard_time": 1728654200,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165265,
+      "num": 165265,
+      "word": "麦琳 窒息",
+      "onboard_time": 1729747099,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 165219,
@@ -47147,6 +47219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140201,
+      "num": 140201,
+      "word": "太阳vs快船",
+      "onboard_time": 1729746800,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140181,
       "num": 140181,
       "word": "好团圆一部剧三个爽文女主",
@@ -48281,6 +48361,14 @@
       "onboard_time": 1728046581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "剑来",
+      "onboard_time": 1729747280,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 135728,
@@ -50403,14 +50491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126478,
-      "num": 634007,
-      "word": "再见爱人",
-      "onboard_time": 1728966262,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126439,
       "num": 255912,
       "word": "妈妈来大城市工作比我挣钱还多",
@@ -51512,14 +51592,6 @@
       "word": "文化中国行一起打卡北京中轴线",
       "onboard_time": 1728010277,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120860,
-      "num": 301435,
-      "word": "教师不是什么大冤种不该如此背刺",
-      "onboard_time": 1729744400,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -63347,6 +63419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46131,
+      "num": 347118,
+      "word": "荣耀Magic7朱珠",
+      "onboard_time": 1729744460,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46129,
       "num": 102291,
       "word": "2024央视国庆晚会节目单",
@@ -66860,7 +66940,7 @@
     },
     {
       "raw_hot": 31195,
-      "num": 171522,
+      "num": 307657,
       "word": "荣耀Magic7全新配色朝霞金",
       "onboard_time": 1729744460,
       "rank": 45,
@@ -67507,14 +67587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28688,
-      "num": 227595,
-      "word": "荣耀Magic7朱珠",
-      "onboard_time": 1729744460,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 28670,
       "num": 29868,
       "word": "毕业生被贴疫情班标签求职遭拒",
@@ -68091,6 +68163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26546,
+      "num": 342018,
+      "word": "朱志鑫Walking练习室",
+      "onboard_time": 1729743679,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -68433,14 +68513,6 @@
       "onboard_time": 1729310717,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 25068,
-      "num": 314196,
-      "word": "朱志鑫Walking练习室",
-      "onboard_time": 1729743679,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 25060,
@@ -68913,6 +68985,14 @@
       "onboard_time": 1728418813,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22910,
+      "num": 205925,
+      "word": "把好日子的味道画给志愿军",
+      "onboard_time": 1729746441,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 22854,
@@ -69580,7 +69660,7 @@
     },
     {
       "raw_hot": 20389,
-      "num": 789841,
+      "num": 846520,
       "word": "一图了解金砖未来发展关键词",
       "onboard_time": 1729732397,
       "rank": 2,
