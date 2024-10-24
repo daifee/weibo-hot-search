@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729797539571,
+  "endTime": 1729798531870,
   "band_list": [
     {
       "raw_hot": 2659700,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57622,
+      "num": 57622,
+      "word": "加沙小女孩被迫步行数英里",
+      "onboard_time": 1729796592,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 47515,
       "num": 236483,
       "word": "打卡秋天里的美丽中国",
@@ -483,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17534,
-      "num": 51401,
-      "word": "加沙小女孩被迫步行数英里",
-      "onboard_time": 1729796592,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 17260,
+      "num": 20629,
+      "word": "A股",
+      "onboard_time": 1729798452,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 16322,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 14592,
-      "num": 19015,
+      "num": 20620,
       "word": "ENHYPEN预告照",
       "onboard_time": 1729795753,
       "rank": 48,
@@ -508,11 +516,19 @@
     },
     {
       "raw_hot": 13698,
-      "num": 19303,
+      "num": 20592,
       "word": "张真源个人EP预告",
       "onboard_time": 1729795814,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12685,
+      "num": 51781,
+      "word": "今年第20号台风潭美来了",
+      "onboard_time": 1729798152,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2682,
