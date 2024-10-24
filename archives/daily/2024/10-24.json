@@ -1,10 +1,18 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729726559306,
+  "endTime": 1729734109536,
   "band_list": [
     {
+      "raw_hot": 2610038,
+      "num": 268721,
+      "word": "某高校部分女生要求公共健身房禁入男生",
+      "onboard_time": 1729732818,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1837166,
-      "num": 240262,
+      "num": 311945,
       "word": "医学生侮辱大体老师引舆论哗然",
       "onboard_time": 1729695260,
       "rank": 10,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1568931,
-      "num": 238507,
+      "num": 311023,
       "word": "李诞回应黄磊做饭好吃与否",
       "onboard_time": 1729724713,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1152063,
-      "num": 238154,
+      "num": 309600,
       "word": "女子称凶手公开杀害其弟后还向周围炫耀",
       "onboard_time": 1729698918,
       "rank": 23,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1147697,
-      "num": 238787,
+      "num": 271111,
       "word": "大连一男子在水产市场遭杀害",
       "onboard_time": 1729696220,
       "rank": 11,
@@ -51,6 +59,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 781160,
+      "num": 1124985,
+      "word": "江西张某某拒服兵役性质恶劣被罚",
+      "onboard_time": 1729716730,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774480,
+      "num": 310577,
+      "word": "台湾幼儿园园长之子涉侵犯39名幼童",
+      "onboard_time": 1729730059,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746668,
       "num": 235272,
       "word": "缅甸女子遭人迷晕后拐至河南",
@@ -59,16 +83,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647744,
-      "num": 906156,
-      "word": "江西张某某拒服兵役性质恶劣被罚",
-      "onboard_time": 1729716730,
-      "rank": 9,
+      "raw_hot": 711136,
+      "num": 711136,
+      "word": "被骗197万他还准备再投100万",
+      "onboard_time": 1729732638,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642205,
+      "num": 642205,
+      "word": "外交部回应辽宁舰过航台湾海峡",
+      "onboard_time": 1729728739,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 618123,
+      "num": 310182,
+      "word": "匡威 王源",
+      "onboard_time": 1729725797,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519369,
-      "num": 231888,
+      "num": 236493,
       "word": "官方通报孕妇待产过程中一胎死于宫内",
       "onboard_time": 1729690999,
       "rank": 25,
@@ -115,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384902,
+      "num": 384902,
+      "word": "女生背小儿麻痹症男友登上泰山",
+      "onboard_time": 1729726157,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380396,
       "num": 380396,
       "word": "台风潭美最强或达强台风级",
@@ -131,11 +179,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375946,
+      "num": 268478,
+      "word": "男子蹲守前女友老家多日将其杀害",
+      "onboard_time": 1729728680,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339497,
       "num": 339497,
       "word": "豆腐放室外四五个小时就成了冻豆腐",
       "onboard_time": 1729723574,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338732,
+      "num": 267142,
+      "word": "上海一小区饮用水中现活体红线虫",
+      "onboard_time": 1729728680,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -147,12 +211,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309193,
+      "num": 309193,
+      "word": "老人收银偷20万私了2万多后失联",
+      "onboard_time": 1729733418,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299532,
+      "num": 299532,
+      "word": "以军称找到5亿美元2天了没证据",
+      "onboard_time": 1729732818,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 297458,
       "num": 297458,
       "word": "土耳其恐袭已致4死14伤",
       "onboard_time": 1729695860,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297377,
+      "num": 266702,
+      "word": "抑郁的5个非典型表现",
+      "onboard_time": 1729728739,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 291767,
@@ -196,10 +284,26 @@
     },
     {
       "raw_hot": 279192,
-      "num": 194586,
+      "num": 205239,
       "word": "女网红曝光厦门一干部同时出轨多人",
       "onboard_time": 1729696518,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265555,
+      "num": 265555,
+      "word": "法国一城用雪貂抓老鼠",
+      "onboard_time": 1729731198,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259085,
+      "num": 259085,
+      "word": "年轻人穷养卧室也要富养电竞房",
+      "onboard_time": 1729728079,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -219,12 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232032,
-      "num": 232032,
-      "word": "匡威 王源",
-      "onboard_time": 1729725797,
+      "raw_hot": 238728,
+      "num": 313026,
+      "word": "华鼎奖",
+      "onboard_time": 1729727297,
       "rank": 8,
-      "category": "艺人"
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232402,
+      "num": 232402,
+      "word": "韩媒修改珠帘玉幕番位",
+      "onboard_time": 1729733478,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 231644,
@@ -233,6 +345,14 @@
       "onboard_time": 1729699876,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 230305,
+      "num": 230305,
+      "word": "女子厕所点汽油轻生致邻居马桶崩开",
+      "onboard_time": 1729732939,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215208,
@@ -267,6 +387,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166985,
+      "num": 166985,
+      "word": "土耳其恐袭已造成5死22伤",
+      "onboard_time": 1729729639,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 152549,
+      "num": 152549,
+      "word": "有种抑郁叫缺维生素D",
+      "onboard_time": 1729693880,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152008,
+      "num": 270576,
+      "word": "魏晨华鼎奖华语最佳男演员",
+      "onboard_time": 1729726336,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143974,
+      "num": 269846,
+      "word": "APT破表",
+      "onboard_time": 1729726877,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143613,
       "num": 143613,
       "word": "民政部鼓励婚姻登记设在公园",
@@ -283,12 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124363,
-      "num": 115467,
-      "word": "有种抑郁叫缺维生素D",
-      "onboard_time": 1729693880,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 125982,
+      "num": 125982,
+      "word": "唐朝诡事录3路透",
+      "onboard_time": 1729733897,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120996,
+      "num": 120996,
+      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
+      "onboard_time": 1729733238,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118234,
+      "num": 169969,
+      "word": "赵丽颖金鹰实绩图",
+      "onboard_time": 1729730419,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 117429,
@@ -315,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114839,
+      "num": 114839,
+      "word": "留学姑娘回村创业年销售额2500万",
+      "onboard_time": 1729709892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111369,
       "num": 111369,
       "word": "赵小棠吻戏",
@@ -331,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110959,
+      "num": 110959,
+      "word": "1024程序员节",
+      "onboard_time": 1729733958,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 109333,
       "num": 109333,
       "word": "虞书欣cue了永夜星河",
       "onboard_time": 1729695019,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108126,
+      "num": 108126,
+      "word": "深圳一小学鸡肉标签显示过期4年",
+      "onboard_time": 1729701736,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106321,
@@ -355,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104906,
+      "num": 106937,
+      "word": "权志龙新综艺状态",
+      "onboard_time": 1729726276,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104119,
       "num": 115472,
       "word": "七夜雪",
@@ -371,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101655,
+      "num": 239798,
+      "word": "神十九船箭组合体1500米走了75分钟",
+      "onboard_time": 1729724776,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100756,
       "num": 100756,
       "word": "团伙直播间卖假鞋封一个就再开一个",
@@ -379,11 +587,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95371,
-      "num": 95371,
-      "word": "深圳一小学鸡肉标签显示过期4年",
-      "onboard_time": 1729701736,
-      "rank": 45,
+      "raw_hot": 99599,
+      "num": 99599,
+      "word": "如鸢",
+      "onboard_time": 1729730600,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 95453,
+      "num": 95453,
+      "word": "苏新皓抽象版APT",
+      "onboard_time": 1729734077,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 95240,
+      "num": 95240,
+      "word": "商户回应游客在景德镇捡瓷器",
+      "onboard_time": 1729714691,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -409,30 +633,6 @@
       "onboard_time": 1729675457,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87341,
-      "num": 239798,
-      "word": "神十九船箭组合体1500米走了75分钟",
-      "onboard_time": 1729724776,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86401,
-      "num": 86401,
-      "word": "留学姑娘回村创业年销售额2500万",
-      "onboard_time": 1729709892,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85860,
-      "num": 85860,
-      "word": "商户回应游客在景德镇捡瓷器",
-      "onboard_time": 1729714691,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83275,
@@ -499,28 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76656,
-      "num": 76656,
-      "word": "魏晨华鼎奖华语最佳男演员",
-      "onboard_time": 1729726336,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 76573,
       "num": 77808,
       "word": "土耳其航空航天公司总部发生爆炸",
       "onboard_time": 1729690159,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 76308,
-      "num": 106937,
-      "word": "权志龙新综艺状态",
-      "onboard_time": 1729726276,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 75856,
@@ -571,19 +755,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59938,
+      "num": 312522,
+      "word": "没有人伦底线何来医者仁心",
+      "onboard_time": 1729733658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59084,
       "num": 59084,
       "word": "警方抓获一网络水军团伙涉案1亿元",
       "onboard_time": 1729708450,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53300,
-      "num": 228440,
-      "word": "女生背小儿麻痹症男友登上泰山",
-      "onboard_time": 1729726157,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -683,8 +867,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2518,
-      "num": 357454,
+      "raw_hot": 8311,
+      "num": 662944,
       "word": "一组数字看金砖国家含金量",
       "onboard_time": 1729652959,
       "rank": 2,
