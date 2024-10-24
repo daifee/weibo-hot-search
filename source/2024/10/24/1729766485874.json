@@ -1,0 +1,410 @@
+{
+  "runTime": 1729766485874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840716,
+        "num": 1840716,
+        "word": "李子柒营业了",
+        "onboard_time": 1729761739,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1588494,
+        "num": 1588494,
+        "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
+        "onboard_time": 1729762099,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28815,
+        "num": 731470,
+        "word": "一组数据说金砖",
+        "onboard_time": 1729759459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690220,
+        "num": 690220,
+        "word": "学信网结业错失工作高校拒改学历",
+        "onboard_time": 1729749198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620449,
+        "num": 620449,
+        "word": "老人花200跟团游被忽悠买了套房",
+        "onboard_time": 1729756878,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550223,
+        "num": 550223,
+        "word": "宣言支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1729762819,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484610,
+        "num": 484610,
+        "word": "高铁破例临停1分钟救人",
+        "onboard_time": 1729762398,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 428047,
+        "num": 428047,
+        "word": "为什么转人工越来越难了",
+        "onboard_time": 1729751959,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337324,
+        "num": 425969,
+        "word": "武艺精准吐槽杨子",
+        "onboard_time": 1729761982,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90162,
+        "num": 423592,
+        "word": "余华英死刑将是对其他犯罪的震慑",
+        "onboard_time": 1729765937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868558,
+        "num": 421853,
+        "word": "黄圣依这期不想离婚了",
+        "onboard_time": 1729746679,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785073,
+        "num": 420335,
+        "word": "4天内4名国乒队员宣布退出国家队",
+        "onboard_time": 1729756638,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697874,
+        "num": 418828,
+        "word": "乐山大佛景区男厕被女游客进入使用",
+        "onboard_time": 1729759218,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48611,
+        "num": 415900,
+        "word": "郑钦文收获东京站开门红",
+        "onboard_time": 1729765819,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414300,
+        "num": 414300,
+        "word": "艺人7天不发泡泡将退款",
+        "onboard_time": 1729760539,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379835,
+        "num": 379835,
+        "word": "医生在快递盒上检测出十几种病原体",
+        "onboard_time": 1729758559,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171133,
+        "num": 377034,
+        "word": "赵丽颖 潮流是会变的",
+        "onboard_time": 1729758439,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169341,
+        "num": 342489,
+        "word": "苏醒紧急撤回了一个夸赞",
+        "onboard_time": 1729762879,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123643,
+        "num": 324865,
+        "word": "七夜雪 大结局",
+        "onboard_time": 1729761499,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26672,
+        "num": 290257,
+        "word": "年轻人中在外互助父母协议火了",
+        "onboard_time": 1729765759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834444,
+        "num": 265064,
+        "word": "合肥银泰LV",
+        "onboard_time": 1729765097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201571,
+        "num": 254655,
+        "word": "papi酱 黄圣依杨子简直儿戏",
+        "onboard_time": 1729754059,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231724,
+        "num": 231724,
+        "word": "烧伤妈妈求生欲很强没有放弃治疗",
+        "onboard_time": 1729756638,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228424,
+        "num": 228424,
+        "word": "GEN训练赛狂虐T1",
+        "onboard_time": 1729762398,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188802,
+        "num": 188802,
+        "word": "郑钦文晋级东京站八强",
+        "onboard_time": 1729766058,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186679,
+        "num": 186679,
+        "word": "郑钦文vs内岛萌夏",
+        "onboard_time": 1729760418,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177918,
+        "num": 177918,
+        "word": "女子拆快递没洗手吃零食腹泻到脱水",
+        "onboard_time": 1729754899,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114678,
+        "num": 169059,
+        "word": "邓超接管新浪电影官微",
+        "onboard_time": 1729755559,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103795,
+        "num": 166385,
+        "word": "十个勤天全员入围视界大会巅峰赛",
+        "onboard_time": 1729757418,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97465,
+        "num": 165701,
+        "word": "麦琳 窒息",
+        "onboard_time": 1729747099,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165614,
+        "num": 165614,
+        "word": "律师解读公务员出轨仅被行政记大过",
+        "onboard_time": 1729761798,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159221,
+        "num": 159221,
+        "word": "王楚钦看王楠女儿打球",
+        "onboard_time": 1729759339,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159114,
+        "num": 159114,
+        "word": "2024KPL年度总决赛",
+        "onboard_time": 1729765519,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154905,
+        "num": 154905,
+        "word": "陈梦说队员之间就像一个大家庭",
+        "onboard_time": 1729762758,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145539,
+        "num": 145539,
+        "word": "国考报名",
+        "onboard_time": 1729754478,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144305,
+        "num": 144305,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 136873,
+        "word": "在北大上学的一天",
+        "onboard_time": 1729762218,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131016,
+        "num": 131016,
+        "word": "南航擦尾事故飞行员接受调查",
+        "onboard_time": 1729759519,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124534,
+        "num": 124534,
+        "word": "研究显示亚洲人更能忍耐工作",
+        "onboard_time": 1729751778,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124088,
+        "num": 124088,
+        "word": "南京警方破获南博等文旅场所黄牛大案",
+        "onboard_time": 1729763180,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119699,
+        "num": 119699,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115948,
+        "num": 115948,
+        "word": "研究发现对抗抑郁最有效的运动",
+        "onboard_time": 1729749140,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109259,
+        "num": 109259,
+        "word": "男友国外买的礼物喊我付清关税费",
+        "onboard_time": 1729762998,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107313,
+        "num": 107313,
+        "word": "爱奇艺新规被吐槽吃相难看",
+        "onboard_time": 1729766178,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107279,
+        "num": 107279,
+        "word": "喀山宣言",
+        "onboard_time": 1729760658,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106902,
+        "num": 106902,
+        "word": "大学生吐槽牛肉面没蛋遭商家索赔",
+        "onboard_time": 1729766359,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106515,
+        "num": 106515,
+        "word": "G868次为心梗老人破例停车1分钟",
+        "onboard_time": 1729751898,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101849,
+        "num": 101849,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100198,
+        "num": 100198,
+        "word": "中印要为发展中国家联合自强作出表率",
+        "onboard_time": 1729760118,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75933,
+        "num": 100171,
+        "word": "加沙女孩步行撤离痛哭称满腿是血",
+        "onboard_time": 1729764259,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平引用的古语读懂金砖之道#"
+    }
+  }
+}
