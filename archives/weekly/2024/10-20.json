@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729751509561,
+  "endTime": 1729752302870,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3027434,
-      "num": 510311,
+      "num": 653299,
       "word": "黄圣依这期不想离婚了",
       "onboard_time": 1729746679,
       "rank": 14,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2204712,
+      "num": 2204712,
+      "word": "学信网结业错失工作高校拒改学历",
+      "onboard_time": 1729749198,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2192978,
       "num": 572353,
       "word": "海关查获蟑螂尸体3000余只",
@@ -209,14 +217,6 @@
       "onboard_time": 1729403600,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1861245,
-      "num": 1861245,
-      "word": "学信网结业错失工作高校拒改学历",
-      "onboard_time": 1729749198,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1837166,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 969388,
-      "num": 393972,
+      "num": 415903,
       "word": "南航一航班疑发生着陆事故乘客发声",
       "onboard_time": 1729745121,
       "rank": 32,
@@ -1499,6 +1499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 821907,
+      "num": 640109,
+      "word": "kimi",
+      "onboard_time": 1729750458,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 819544,
       "num": 1131127,
       "word": "充电器一直插着有多危险",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1729430002,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 713046,
+      "num": 713046,
+      "word": "50万卖出劳力士20万被警方强制扣划",
+      "onboard_time": 1729750100,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708614,
@@ -2308,7 +2324,7 @@
     },
     {
       "raw_hot": 589043,
-      "num": 434885,
+      "num": 483810,
       "word": "麦琳 窒息",
       "onboard_time": 1729747099,
       "rank": 41,
@@ -3043,14 +3059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 449883,
-      "num": 449883,
-      "word": "50万卖出劳力士20万被警方强制扣划",
-      "onboard_time": 1729750100,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449039,
       "num": 449039,
       "word": "TheShy和Rookie疑似回归iG",
@@ -3409,14 +3417,6 @@
       "onboard_time": 1729396939,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395208,
-      "num": 395208,
-      "word": "kimi",
-      "onboard_time": 1729750458,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 394961,
@@ -3875,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342331,
+      "num": 342331,
+      "word": "留几手亏了葛夕妈妈一套房",
+      "onboard_time": 1729750818,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342076,
       "num": 342076,
       "word": "桑延为温以凡庆生vlog",
@@ -3964,7 +3972,7 @@
     },
     {
       "raw_hot": 334787,
-      "num": 251005,
+      "num": 276765,
       "word": "母亲去世豪门三姐弟互撕",
       "onboard_time": 1729750818,
       "rank": 21,
@@ -4683,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273958,
+      "num": 273958,
+      "word": "研究发现对抗抑郁最有效的运动",
+      "onboard_time": 1729749140,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 273807,
       "num": 273807,
       "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
@@ -4801,14 +4817,6 @@
       "onboard_time": 1729512438,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 265660,
-      "num": 248195,
-      "word": "研究发现对抗抑郁最有效的运动",
-      "onboard_time": 1729749140,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 264295,
@@ -5019,6 +5027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250065,
+      "num": 250065,
+      "word": "保时捷车主蹭4S店免费车位被拒绝",
+      "onboard_time": 1729748959,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249916,
       "num": 249916,
       "word": "甘肃真的产南美对虾",
@@ -5099,14 +5115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 243778,
-      "num": 243778,
-      "word": "保时捷车主蹭4S店免费车位被拒绝",
-      "onboard_time": 1729748959,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243623,
       "num": 243623,
       "word": "中国女子新西兰遇害1年后才找到遗体",
@@ -5185,6 +5193,14 @@
       "onboard_time": 1729743198,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239579,
+      "num": 239579,
+      "word": "女子举报干部婚内出轨自己被当第四者",
+      "onboard_time": 1729748778,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239302,
@@ -5707,28 +5723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218813,
-      "num": 269598,
-      "word": "留几手亏了葛夕妈妈一套房",
-      "onboard_time": 1729750818,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218797,
       "num": 264979,
       "word": "俄罗斯礼兵在机场列队致敬",
       "onboard_time": 1729592177,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218488,
-      "num": 174505,
-      "word": "女子举报干部婚内出轨自己被当第四者",
-      "onboard_time": 1729748778,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218398,
@@ -6571,6 +6571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195692,
+      "num": 214086,
+      "word": "李行亮麦琳 无限流式吵架",
+      "onboard_time": 1729751597,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195630,
       "num": 195630,
       "word": "Meiko说对T1的信息不了解",
@@ -7275,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177231,
+      "num": 213003,
+      "word": "慕容璟和大婚坐轿子",
+      "onboard_time": 1729750999,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "程靖淇 老友记",
@@ -7321,14 +7337,6 @@
       "onboard_time": 1729601660,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174683,
-      "num": 174683,
-      "word": "慕容璟和大婚坐轿子",
-      "onboard_time": 1729750999,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 174272,
@@ -7513,6 +7521,14 @@
       "onboard_time": 1729417819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169275,
+      "num": 425351,
+      "word": "为什么转人工越来越难了",
+      "onboard_time": 1729751959,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169072,
@@ -8017,6 +8033,14 @@
       "onboard_time": 1729646177,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157390,
+      "num": 157390,
+      "word": "小米15Pro",
+      "onboard_time": 1729752139,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 157056,
@@ -8667,6 +8691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141325,
+      "num": 141325,
+      "word": "原来牛是色盲",
+      "onboard_time": 1729751419,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141316,
       "num": 141316,
       "word": "现在就出发",
@@ -9145,14 +9177,6 @@
       "onboard_time": 1729552095,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130699,
-      "num": 130699,
-      "word": "原来牛是色盲",
-      "onboard_time": 1729751419,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 130584,
@@ -9931,6 +9955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111493,
+      "num": 287066,
+      "word": "吴彤去不了华晨宇演唱会了",
+      "onboard_time": 1729749979,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111187,
       "num": 111187,
       "word": "Hani未婚夫不承认医疗过失",
@@ -10691,14 +10723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82076,
-      "num": 136423,
-      "word": "吴彤去不了华晨宇演唱会了",
-      "onboard_time": 1729749979,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 81713,
       "num": 313127,
       "word": "华为传奇绿表火出圈",
@@ -11180,7 +11204,7 @@
     },
     {
       "raw_hot": 62888,
-      "num": 125801,
+      "num": 274762,
       "word": "陈梦谈乒乓球队精神传承",
       "onboard_time": 1729751478,
       "rank": 49,
@@ -11555,6 +11579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51098,
+      "num": 394611,
+      "word": "土耳其军工厂遭恐袭更多细节公布",
+      "onboard_time": 1729750039,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 50739,
       "num": 1521631,
       "word": "发现不一样的新疆",
@@ -11776,6 +11808,14 @@
       "word": "男子违反禁令殴打前妻获刑3年",
       "onboard_time": 1729605321,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43746,
+      "num": 342775,
+      "word": "研究显示亚洲人更能忍耐工作",
+      "onboard_time": 1729751778,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -12363,6 +12403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32579,
+      "num": 138939,
+      "word": "任嘉伦回眸杀",
+      "onboard_time": 1729749499,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32488,
       "num": 202820,
       "word": "天猫双11购物车今晚8点见",
@@ -12435,6 +12483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31212,
+      "num": 149659,
+      "word": "朱珠chill得毫不费力",
+      "onboard_time": 1729749439,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31188,
       "num": 209534,
       "word": "今晚花呗分期买戴森12期免息",
@@ -12455,6 +12511,14 @@
       "num": 457542,
       "word": "神十八乘组揭秘中国空间站生活区",
       "onboard_time": 1729741039,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30676,
+      "num": 437617,
+      "word": "北京房产居住权登记拟出台新规",
+      "onboard_time": 1729751659,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -12611,22 +12675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27726,
-      "num": 394611,
-      "word": "土耳其军工厂遭恐袭更多细节公布",
-      "onboard_time": 1729750039,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 27429,
-      "num": 138939,
-      "word": "任嘉伦回眸杀",
-      "onboard_time": 1729749499,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 27424,
       "num": 195513,
       "word": "吃鸡er的飙车是飞车",
@@ -12691,20 +12739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26388,
+      "num": 190064,
+      "word": "OPPO无影抓拍国产大飞机",
+      "onboard_time": 1729749077,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26179,
       "num": 216502,
       "word": "马青骅TCR世界巡回赛主场夺冠",
       "onboard_time": 1729423941,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 25941,
-      "num": 140318,
-      "word": "朱珠chill得毫不费力",
-      "onboard_time": 1729749439,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 25677,
@@ -12889,14 +12937,6 @@
       "onboard_time": 1729459092,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22240,
-      "num": 171762,
-      "word": "OPPO无影抓拍国产大飞机",
-      "onboard_time": 1729749077,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 22128,
