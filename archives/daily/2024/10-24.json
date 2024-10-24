@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729783413360,
+  "endTime": 1729784333921,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -283,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1027284,
+      "num": 298066,
+      "word": "女子2天做6项整容手术身亡",
+      "onboard_time": 1729779921,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018952,
       "num": 1018952,
       "word": "林高远1比3杜达",
       "onboard_time": 1729778181,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1017344,
-      "num": 298066,
-      "word": "女子2天做6项整容手术身亡",
-      "onboard_time": 1729779921,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1011185,
@@ -379,11 +379,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 895972,
+      "num": 288312,
+      "word": "官方通报公职人员婚内出轨女网红",
+      "onboard_time": 1729780520,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857119,
       "num": 289078,
       "word": "papi酱说杨子恶劣至极",
       "onboard_time": 1729778181,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 827838,
+      "num": 254897,
+      "word": "曝周雨彤送金晨的礼物是假货",
+      "onboard_time": 1729783881,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423667,
-      "num": 288312,
-      "word": "官方通报公职人员婚内出轨女网红",
-      "onboard_time": 1729780520,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423204,
       "num": 423204,
       "word": "吉吉国王照进现实了",
@@ -939,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318940,
+      "num": 278481,
+      "word": "羊驼肉女士",
+      "onboard_time": 1729780641,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312789,
       "num": 234545,
       "word": "伴娘 我办事你就闹心吧",
@@ -977,6 +993,14 @@
       "onboard_time": 1729755559,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 304332,
+      "num": 304332,
+      "word": "老人被冤枉卖儿子一辈子抬不起头",
+      "onboard_time": 1729779740,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297458,
@@ -1067,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278481,
-      "num": 278481,
-      "word": "羊驼肉女士",
-      "onboard_time": 1729780641,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278318,
       "num": 278318,
       "word": "GEN训练赛狂虐T1",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1729769839,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273274,
-      "num": 273274,
-      "word": "老人被冤枉卖儿子一辈子抬不起头",
-      "onboard_time": 1729779740,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267126,
@@ -1153,6 +1161,14 @@
       "onboard_time": 1729770439,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253856,
+      "num": 253856,
+      "word": "活死人演唱会取消",
+      "onboard_time": 1729782440,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 252702,
@@ -1219,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240518,
+      "num": 240518,
+      "word": "山东多名大学生发帖怒斥偷拍男",
+      "onboard_time": 1729780700,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240363,
       "num": 240363,
       "word": "宁愿爬七楼也想住的房子",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1729766178,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 236375,
-      "num": 236375,
-      "word": "山东多名大学生发帖怒斥偷拍男",
-      "onboard_time": 1729780700,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235089,
@@ -1395,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209547,
-      "num": 209547,
-      "word": "活死人演唱会取消",
-      "onboard_time": 1729782440,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207933,
       "num": 373629,
       "word": "offer6吵架名场面",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1729694959,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200837,
+      "num": 200837,
+      "word": "用同事手机拍照抽中4000元想平分遭拒",
+      "onboard_time": 1729783819,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199856,
@@ -1699,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170622,
+      "num": 280258,
+      "word": "杨妞花称索赔920万是对人贩子的震慑",
+      "onboard_time": 1729779801,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169714,
       "num": 227720,
       "word": "十个勤天全员入围视界大会巅峰赛",
@@ -1891,11 +1915,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150779,
-      "num": 280258,
-      "word": "杨妞花称索赔920万是对人贩子的震慑",
-      "onboard_time": 1729779801,
-      "rank": 13,
+      "raw_hot": 150991,
+      "num": 258410,
+      "word": "央视曝光医美行业乱象",
+      "onboard_time": 1729783881,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1921,6 +1945,14 @@
       "onboard_time": 1729782020,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147943,
+      "num": 147943,
+      "word": "这才是真正的戒奶茶饮料甜食宣传片",
+      "onboard_time": 1729782799,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147850,
@@ -2187,14 +2219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122627,
-      "num": 122627,
-      "word": "这才是真正的戒奶茶饮料甜食宣传片",
-      "onboard_time": 1729782799,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 122321,
       "num": 138606,
       "word": "国内首批太空船票上架淘宝直播间",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1729752379,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114592,
+      "num": 114592,
+      "word": "沙白白",
+      "onboard_time": 1729783759,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113293,
@@ -2683,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69218,
+      "num": 285481,
+      "word": "男子参观博物馆顺走十几斤重的砚台",
+      "onboard_time": 1729782440,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67973,
       "num": 347653,
       "word": "荣耀Magic7朱珠",
@@ -2787,14 +2827,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 50896,
-      "num": 285481,
-      "word": "男子参观博物馆顺走十几斤重的砚台",
-      "onboard_time": 1729782440,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48611,
       "num": 415900,
       "word": "郑钦文收获东京站开门红",
@@ -2816,6 +2848,14 @@
       "word": "杨妞花说余华英死刑不是一个人的复仇",
       "onboard_time": 1729757239,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47209,
+      "num": 113886,
+      "word": "专家建议对参与护学岗家长进行培训",
+      "onboard_time": 1729782320,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3129,6 +3169,14 @@
       "onboard_time": 1729712472,
       "rank": 31,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 23442,
+      "num": 256918,
+      "word": "律师称冷漠是余华英给人最强烈印象",
+      "onboard_time": 1729784239,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23396,
