@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729734109536,
+  "endTime": 1729735147383,
   "band_list": [
     {
       "raw_hot": 2610038,
@@ -59,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 792129,
+      "num": 711136,
+      "word": "被骗197万他还准备再投100万",
+      "onboard_time": 1729732638,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781160,
       "num": 1124985,
       "word": "江西张某某拒服兵役性质恶劣被罚",
@@ -83,11 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 711136,
-      "num": 711136,
-      "word": "被骗197万他还准备再投100万",
-      "onboard_time": 1729732638,
-      "rank": 1,
+      "raw_hot": 726101,
+      "num": 1116176,
+      "word": "以军称找到5亿美元2天了没证据",
+      "onboard_time": 1729732818,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 676725,
+      "num": 309193,
+      "word": "老人收银偷20万私了2万多后失联",
+      "onboard_time": 1729733418,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378285,
+      "num": 244405,
+      "word": "韩媒修改珠帘玉幕番位",
+      "onboard_time": 1729733478,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377542,
       "num": 285260,
       "word": "邻居以为我在居民楼里开超市",
@@ -185,6 +209,14 @@
       "onboard_time": 1729728680,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360792,
+      "num": 360792,
+      "word": "小米15",
+      "onboard_time": 1729734379,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 339497,
@@ -211,20 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309193,
-      "num": 309193,
-      "word": "老人收银偷20万私了2万多后失联",
-      "onboard_time": 1729733418,
-      "rank": 15,
+      "raw_hot": 305928,
+      "num": 305928,
+      "word": "法国一城用雪貂抓老鼠",
+      "onboard_time": 1729731198,
+      "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299532,
-      "num": 299532,
-      "word": "以军称找到5亿美元2天了没证据",
-      "onboard_time": 1729732818,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 297458,
@@ -291,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265555,
-      "num": 265555,
-      "word": "法国一城用雪貂抓老鼠",
-      "onboard_time": 1729731198,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 261430,
+      "num": 261430,
+      "word": "唐朝诡事录3路透",
+      "onboard_time": 1729733897,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 259085,
@@ -329,14 +353,6 @@
       "onboard_time": 1729727297,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232402,
-      "num": 232402,
-      "word": "韩媒修改珠帘玉幕番位",
-      "onboard_time": 1729733478,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 231644,
@@ -388,11 +404,19 @@
     },
     {
       "raw_hot": 166985,
-      "num": 166985,
+      "num": 176860,
       "word": "土耳其恐袭已造成5死22伤",
       "onboard_time": 1729729639,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 164110,
+      "num": 164110,
+      "word": "闪耀暖暖",
+      "onboard_time": 1729734618,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 152549,
@@ -411,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145322,
+      "num": 145322,
+      "word": "苏新皓抽象版APT",
+      "onboard_time": 1729734077,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143974,
       "num": 269846,
       "word": "APT破表",
@@ -427,6 +459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140227,
+      "num": 140227,
+      "word": "1024程序员节",
+      "onboard_time": 1729733958,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 136051,
+      "num": 312522,
+      "word": "没有人伦底线何来医者仁心",
+      "onboard_time": 1729733658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134213,
+      "num": 169992,
+      "word": "一次袭击炸死加沙一个家庭所有孩子",
+      "onboard_time": 1729735038,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 131060,
       "num": 130805,
       "word": "太原通报双胞胎待产时死亡调查情况",
@@ -435,16 +491,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125982,
-      "num": 125982,
-      "word": "唐朝诡事录3路透",
-      "onboard_time": 1729733897,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 129637,
+      "num": 129637,
+      "word": "雷军程序员节发文",
+      "onboard_time": 1729734439,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 120996,
-      "num": 120996,
+      "num": 141446,
       "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
       "onboard_time": 1729733238,
       "rank": 41,
@@ -505,14 +561,6 @@
       "onboard_time": 1729723092,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110959,
-      "num": 110959,
-      "word": "1024程序员节",
-      "onboard_time": 1729733958,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 109333,
@@ -595,20 +643,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95453,
-      "num": 95453,
-      "word": "苏新皓抽象版APT",
-      "onboard_time": 1729734077,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 95240,
       "num": 95240,
       "word": "商户回应游客在景德镇捡瓷器",
       "onboard_time": 1729714691,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93421,
+      "num": 93421,
+      "word": "勇士vs开拓者",
+      "onboard_time": 1729735038,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92038,
@@ -755,19 +803,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59938,
-      "num": 312522,
-      "word": "没有人伦底线何来医者仁心",
-      "onboard_time": 1729733658,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59084,
       "num": 59084,
       "word": "警方抓获一网络水军团伙涉案1亿元",
       "onboard_time": 1729708450,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52814,
+      "num": 473859,
+      "word": "公安网安查处侮辱英烈案",
+      "onboard_time": 1729734257,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
