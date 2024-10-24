@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729738389019,
+  "endTime": 1729738955572,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1723816,
+      "num": 284292,
+      "word": "韩安冉举报汪静逃税",
+      "onboard_time": 1729736598,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1701485,
       "num": 448481,
       "word": "澳门CoCo姐卖内裤月销千万元",
@@ -312,14 +320,6 @@
       "word": "黄圣依 纯元活着的版本",
       "onboard_time": 1729479918,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1627007,
-      "num": 284292,
-      "word": "韩安冉举报汪静逃税",
-      "onboard_time": 1729736598,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -993,6 +993,14 @@
       "onboard_time": 1729502778,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 977737,
+      "num": 273967,
+      "word": "女性学历向下婚反超向上婚",
+      "onboard_time": 1729735938,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 975682,
@@ -1731,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707716,
+      "num": 707716,
+      "word": "一次袭击炸死加沙一个家庭所有孩子",
+      "onboard_time": 1729735038,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 705259,
       "num": 705259,
       "word": "向佐回应医生提醒模仿摸鼻梁有风险",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1729504098,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670741,
-      "num": 670741,
-      "word": "一次袭击炸死加沙一个家庭所有孩子",
-      "onboard_time": 1729735038,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 669772,
@@ -2305,14 +2313,6 @@
       "onboard_time": 1729735457,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 564120,
-      "num": 273967,
-      "word": "女性学历向下婚反超向上婚",
-      "onboard_time": 1729735938,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 561485,
@@ -2835,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473845,
+      "num": 272027,
+      "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+      "onboard_time": 1729735397,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471591,
       "num": 471591,
       "word": "冷空气要把河南人赶进被窝里",
@@ -2960,14 +2968,6 @@
       "word": "耳蜗丢失男孩母亲发声",
       "onboard_time": 1729480459,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441302,
-      "num": 272027,
-      "word": "烧伤妈妈丈夫称已关闭捐款渠道",
-      "onboard_time": 1729735397,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3563,6 +3563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350395,
+      "num": 263735,
+      "word": "TheShy和Rookie疑似回归iG",
+      "onboard_time": 1729737737,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 349802,
       "num": 406347,
       "word": "张新成 我还年轻啥都能演啥都想演",
@@ -3979,6 +3987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306544,
+      "num": 221509,
+      "word": "高学历夫妇二孩生育概率最低",
+      "onboard_time": 1729737678,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305928,
       "num": 305928,
       "word": "法国一城用雪貂抓老鼠",
@@ -4169,14 +4185,6 @@
       "onboard_time": 1729420218,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291109,
-      "num": 263735,
-      "word": "TheShy和Rookie疑似回归iG",
-      "onboard_time": 1729737737,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 290491,
@@ -6515,14 +6523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189490,
-      "num": 189490,
-      "word": "高学历夫妇二孩生育概率最低",
-      "onboard_time": 1729737678,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189347,
       "num": 189347,
       "word": "臭肉事件校方如此傲慢只会臭上加臭",
@@ -7459,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161635,
+      "num": 161635,
+      "word": "你放不下订单我们放不下你",
+      "onboard_time": 1729737978,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161546,
       "num": 161546,
       "word": "官方通报乡长下乡被村民刺伤身亡",
@@ -7939,6 +7947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147320,
+      "num": 147320,
+      "word": "官方通报厦门一干部同时出轨多人",
+      "onboard_time": 1729738638,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147101,
       "num": 147101,
       "word": "昆明一学校食堂肉品散发异味调查情况",
@@ -8259,6 +8275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140112,
+      "num": 278929,
+      "word": "央视起底老年人养生骗局",
+      "onboard_time": 1729737318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139982,
       "num": 139982,
       "word": "Deft希望Chovy夺冠",
@@ -8361,6 +8385,14 @@
       "onboard_time": 1729680917,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136632,
+      "num": 271389,
+      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
+      "onboard_time": 1729733238,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136445,
@@ -8595,12 +8627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132726,
-      "num": 271389,
-      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
-      "onboard_time": 1729733238,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 132115,
+      "num": 288544,
+      "word": "土耳其航空航天公司遭恐袭已致3死5伤",
+      "onboard_time": 1729737318,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131930,
@@ -9635,14 +9667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105234,
-      "num": 105234,
-      "word": "你放不下订单我们放不下你",
-      "onboard_time": 1729737978,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104906,
       "num": 106937,
       "word": "权志龙新综艺状态",
@@ -9875,14 +9899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95823,
-      "num": 288544,
-      "word": "土耳其航空航天公司遭恐袭已致3死5伤",
-      "onboard_time": 1729737318,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95800,
       "num": 95800,
       "word": "水鬼",
@@ -9907,6 +9923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95132,
+      "num": 95132,
+      "word": "中方在联合国强烈谴责以色列",
+      "onboard_time": 1729738818,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94584,
       "num": 94584,
       "word": "手工耿曾说挣到了驾驭不了的钱",
@@ -9921,6 +9945,14 @@
       "onboard_time": 1729498096,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94028,
+      "num": 94028,
+      "word": "杨旭文唐诡开机现场哽咽了",
+      "onboard_time": 1729738938,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 93768,
@@ -10353,14 +10385,6 @@
       "onboard_time": 1729599438,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 74652,
-      "num": 278929,
-      "word": "央视起底老年人养生骗局",
-      "onboard_time": 1729737318,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74483,
@@ -10987,6 +11011,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 51769,
+      "num": 269544,
+      "word": "纯血鸿蒙丝滑手势舞挑战",
+      "onboard_time": 1729735516,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51733,
       "num": 51733,
       "word": "0比15",
@@ -11177,14 +11209,6 @@
       "onboard_time": 1729702335,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44651,
-      "num": 269544,
-      "word": "纯血鸿蒙丝滑手势舞挑战",
-      "onboard_time": 1729735516,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 44474,
@@ -11523,6 +11547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36952,
+      "num": 275298,
+      "word": "一辈子捆绑在车上的货车司机们",
+      "onboard_time": 1729737378,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36732,
       "num": 405344,
       "word": "谷子如何成为塑料黄金的",
@@ -11665,14 +11697,6 @@
       "onboard_time": 1729508539,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34551,
-      "num": 275298,
-      "word": "一辈子捆绑在车上的货车司机们",
-      "onboard_time": 1729737378,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34432,
@@ -12737,6 +12761,14 @@
       "onboard_time": 1729544831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11419,
+      "num": 233838,
+      "word": "土耳其遇袭工厂承接多项国防订单",
+      "onboard_time": 1729738818,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 11228,

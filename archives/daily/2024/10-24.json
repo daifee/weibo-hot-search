@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729738389019,
+  "endTime": 1729738955572,
   "band_list": [
     {
       "raw_hot": 2610038,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1627007,
+      "raw_hot": 1723816,
       "num": 284292,
       "word": "韩安冉举报汪静逃税",
       "onboard_time": 1729736598,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977737,
+      "num": 273967,
+      "word": "女性学历向下婚反超向上婚",
+      "onboard_time": 1729735938,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 944383,
       "num": 944383,
       "word": "选特朗普打印出来变哈里斯",
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707716,
+      "num": 707716,
+      "word": "一次袭击炸死加沙一个家庭所有孩子",
+      "onboard_time": 1729735038,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 676725,
       "num": 309193,
       "word": "老人收银偷20万私了2万多后失联",
       "onboard_time": 1729733418,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670741,
-      "num": 670741,
-      "word": "一次袭击炸死加沙一个家庭所有孩子",
-      "onboard_time": 1729735038,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 664658,
@@ -179,14 +187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 564120,
-      "num": 273967,
-      "word": "女性学历向下婚反超向上婚",
-      "onboard_time": 1729735938,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519369,
       "num": 236493,
       "word": "官方通报孕妇待产过程中一胎死于宫内",
@@ -211,20 +211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473845,
+      "num": 272027,
+      "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+      "onboard_time": 1729735397,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452411,
       "num": 231647,
       "word": "赵丽颖不想身材管理",
       "onboard_time": 1729689019,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 441302,
-      "num": 272027,
-      "word": "烧伤妈妈丈夫称已关闭捐款渠道",
-      "onboard_time": 1729735397,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397866,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350395,
+      "num": 263735,
+      "word": "TheShy和Rookie疑似回归iG",
+      "onboard_time": 1729737737,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 339497,
       "num": 339497,
       "word": "豆腐放室外四五个小时就成了冻豆腐",
@@ -304,6 +312,14 @@
       "word": "爸爸一句宝宝对不起突然就泪目了",
       "onboard_time": 1729680979,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306544,
+      "num": 221509,
+      "word": "高学历夫妇二孩生育概率最低",
+      "onboard_time": 1729737678,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -337,14 +353,6 @@
       "onboard_time": 1729722252,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291109,
-      "num": 263735,
-      "word": "TheShy和Rookie疑似回归iG",
-      "onboard_time": 1729737737,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 285351,
@@ -483,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189490,
-      "num": 189490,
-      "word": "高学历夫妇二孩生育概率最低",
-      "onboard_time": 1729737678,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166985,
       "num": 286766,
       "word": "土耳其恐袭已造成5死22伤",
@@ -507,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161635,
+      "num": 161635,
+      "word": "你放不下订单我们放不下你",
+      "onboard_time": 1729737978,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152549,
       "num": 152549,
       "word": "有种抑郁叫缺维生素D",
@@ -521,6 +529,14 @@
       "onboard_time": 1729726336,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147320,
+      "num": 147320,
+      "word": "官方通报厦门一干部同时出轨多人",
+      "onboard_time": 1729738638,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145322,
@@ -555,6 +571,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 140112,
+      "num": 278929,
+      "word": "央视起底老年人养生骗局",
+      "onboard_time": 1729737318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136632,
+      "num": 271389,
+      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
+      "onboard_time": 1729733238,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136051,
       "num": 312522,
       "word": "没有人伦底线何来医者仁心",
@@ -563,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132726,
-      "num": 271389,
-      "word": "唐诗逸华鼎奖全球最佳舞蹈演员",
-      "onboard_time": 1729733238,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 132115,
+      "num": 288544,
+      "word": "土耳其航空航天公司遭恐袭已致3死5伤",
+      "onboard_time": 1729737318,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131060,
@@ -675,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105234,
-      "num": 105234,
-      "word": "你放不下订单我们放不下你",
-      "onboard_time": 1729737978,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104906,
       "num": 106937,
       "word": "权志龙新综艺状态",
@@ -731,20 +755,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95823,
-      "num": 288544,
-      "word": "土耳其航空航天公司遭恐袭已致3死5伤",
-      "onboard_time": 1729737318,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95240,
       "num": 95240,
       "word": "商户回应游客在景德镇捡瓷器",
       "onboard_time": 1729714691,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95132,
+      "num": 95132,
+      "word": "中方在联合国强烈谴责以色列",
+      "onboard_time": 1729738818,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 94028,
+      "num": 94028,
+      "word": "杨旭文唐诡开机现场哽咽了",
+      "onboard_time": 1729738938,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 93421,
@@ -875,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74652,
-      "num": 278929,
-      "word": "央视起底老年人养生骗局",
-      "onboard_time": 1729737318,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74152,
       "num": 77691,
       "word": "东北的冬季要来了",
@@ -931,20 +955,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51769,
+      "num": 269544,
+      "word": "纯血鸿蒙丝滑手势舞挑战",
+      "onboard_time": 1729735516,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44706,
       "num": 60578,
       "word": "林诗栋3比0罗伯勒斯",
       "onboard_time": 1729702335,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44651,
-      "num": 269544,
-      "word": "纯血鸿蒙丝滑手势舞挑战",
-      "onboard_time": 1729735516,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 37848,
@@ -955,7 +979,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34551,
+      "raw_hot": 36952,
       "num": 275298,
       "word": "一辈子捆绑在车上的货车司机们",
       "onboard_time": 1729737378,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1729707613,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11419,
+      "num": 233838,
+      "word": "土耳其遇袭工厂承接多项国防订单",
+      "onboard_time": 1729738818,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 8311,
