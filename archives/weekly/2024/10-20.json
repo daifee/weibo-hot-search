@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729761840462,
+  "endTime": 1729762690479,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1610045,
+      "num": 1610045,
+      "word": "李子柒营业了",
+      "onboard_time": 1729761739,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1607079,
       "num": 1607079,
       "word": "山取颜料师已被限制高消费",
@@ -593,6 +601,14 @@
       "onboard_time": 1729385778,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1371271,
+      "num": 825107,
+      "word": "人怎么可以捅出这么大的篓子",
+      "onboard_time": 1729757959,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 1361020,
@@ -1537,14 +1553,6 @@
       "onboard_time": 1729351760,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 825107,
-      "num": 825107,
-      "word": "人怎么可以捅出这么大的篓子",
-      "onboard_time": 1729757959,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 821907,
@@ -3603,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383947,
+      "num": 383947,
+      "word": "医院介绍烧伤妈妈最新情况",
+      "onboard_time": 1729760300,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382304,
       "num": 357082,
       "word": "猎罪图鉴2",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1729513157,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353442,
-      "num": 631523,
-      "word": "李子柒营业了",
-      "onboard_time": 1729761739,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 353011,
@@ -4259,14 +4267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319725,
-      "num": 319725,
-      "word": "医院介绍烧伤妈妈最新情况",
-      "onboard_time": 1729760300,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318344,
       "num": 318344,
       "word": "SM三十周年纪念视频",
@@ -4521,6 +4521,14 @@
       "onboard_time": 1729433904,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295459,
+      "num": 390974,
+      "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
+      "onboard_time": 1729762099,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295069,
@@ -5123,6 +5131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255462,
+      "num": 192327,
+      "word": "GEN训练赛狂虐T1",
+      "onboard_time": 1729762398,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254658,
       "num": 254658,
       "word": "北方多地气温已是冬日模式",
@@ -5249,6 +5265,14 @@
       "onboard_time": 1729398978,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245991,
+      "num": 646988,
+      "word": "中印要为发展中国家联合自强作出表率",
+      "onboard_time": 1729760118,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 245829,
@@ -5817,6 +5841,14 @@
       "onboard_time": 1729666219,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222055,
+      "num": 377180,
+      "word": "武艺精准吐槽杨子",
+      "onboard_time": 1729761982,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 221442,
@@ -7291,14 +7323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185222,
-      "num": 646988,
-      "word": "中印要为发展中国家联合自强作出表率",
-      "onboard_time": 1729760118,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185013,
       "num": 195495,
       "word": "被邓紫棋辣到了",
@@ -7947,6 +7971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165797,
+      "num": 165797,
+      "word": "炒菜机能炒出锅气吗",
+      "onboard_time": 1729761739,
+      "rank": 46,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 165668,
       "num": 165668,
       "word": "全球水循环有记录以来首次失衡",
@@ -7969,6 +8001,14 @@
       "onboard_time": 1729492578,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165024,
+      "num": 224076,
+      "word": "七夜雪 大结局",
+      "onboard_time": 1729761499,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 164969,
@@ -8481,6 +8521,14 @@
       "onboard_time": 1729658779,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152894,
+      "num": 624378,
+      "word": "小米15一眼Crush",
+      "onboard_time": 1729758979,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 152392,
@@ -9363,14 +9411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133868,
-      "num": 133868,
-      "word": "七夜雪 大结局",
-      "onboard_time": 1729761499,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133848,
       "num": 133848,
       "word": "四川一女子马路直播被撞",
@@ -9473,14 +9513,6 @@
       "onboard_time": 1729477158,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131476,
-      "num": 131476,
-      "word": "炒菜机能炒出锅气吗",
-      "onboard_time": 1729761739,
-      "rank": 46,
-      "category": "美食,科学科普"
     },
     {
       "raw_hot": 131315,
@@ -9913,6 +9945,14 @@
       "onboard_time": 1729398919,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121478,
+      "num": 166116,
+      "word": "郑钦文vs内岛萌夏",
+      "onboard_time": 1729760418,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 121017,
@@ -10403,14 +10443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109493,
-      "num": 166116,
-      "word": "郑钦文vs内岛萌夏",
-      "onboard_time": 1729760418,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109492,
       "num": 109492,
       "word": "这些所谓进口水果都是假的",
@@ -10577,14 +10609,6 @@
       "onboard_time": 1729529418,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 104300,
-      "num": 624378,
-      "word": "小米15一眼Crush",
-      "onboard_time": 1729758979,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 103397,
@@ -11323,6 +11347,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 72941,
+      "num": 655382,
+      "word": "律师解读公务员出轨仅被行政记大过",
+      "onboard_time": 1729761798,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72721,
       "num": 191772,
       "word": "力争到2035年培养造就约2000名大国工匠",
@@ -11947,6 +11979,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 52419,
+      "num": 628565,
+      "word": "多家企业提出反内卷",
+      "onboard_time": 1729760778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51769,
       "num": 269544,
       "word": "纯血鸿蒙丝滑手势舞挑战",
@@ -12323,14 +12363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40178,
-      "num": 628565,
-      "word": "多家企业提出反内卷",
-      "onboard_time": 1729760778,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39991,
       "num": 363082,
       "word": "手机CPU的巅峰时刻",
@@ -12481,6 +12513,14 @@
       "onboard_time": 1729670598,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37787,
+      "num": 795235,
+      "word": "一组数据说金砖",
+      "onboard_time": 1729759459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37667,
@@ -12729,14 +12769,6 @@
       "onboard_time": 1729604059,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33845,
-      "num": 795235,
-      "word": "一组数据说金砖",
-      "onboard_time": 1729759459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33391,
@@ -13100,7 +13132,7 @@
     },
     {
       "raw_hot": 27471,
-      "num": 210996,
+      "num": 213693,
       "word": "海底捞是懂宠粉的",
       "onboard_time": 1729759277,
       "rank": 48,
@@ -13432,6 +13464,14 @@
       "word": "警犬福仔也逃不过班味",
       "onboard_time": 1729715291,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21531,
+      "num": 386905,
+      "word": "取景取石都应取之有道",
+      "onboard_time": 1729762638,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -13784,14 +13824,6 @@
       "word": "新疆人的舞蹈天赋刻在DNA里",
       "onboard_time": 1729366812,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13224,
-      "num": 655382,
-      "word": "律师解读公务员出轨仅被行政记大过",
-      "onboard_time": 1729761798,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
