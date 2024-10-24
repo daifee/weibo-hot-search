@@ -1,0 +1,410 @@
+{
+  "runTime": 1729744922816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296218,
+        "num": 1296218,
+        "word": "中方在联合国强烈谴责以色列",
+        "onboard_time": 1729738818,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 915168,
+        "num": 915168,
+        "word": "花少弹幕 呵呵",
+        "onboard_time": 1729743259,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15495,
+        "num": 698853,
+        "word": "一图了解金砖未来发展关键词",
+        "onboard_time": 1729732397,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645910,
+        "num": 645910,
+        "word": "离婚又复婚还有婚假吗",
+        "onboard_time": 1729739178,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384389,
+        "num": 384389,
+        "word": "一次袭击炸死加沙一个家庭所有孩子",
+        "onboard_time": 1729735038,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 328803,
+        "num": 328803,
+        "word": "TheShy和Rookie疑似回归iG",
+        "onboard_time": 1729737737,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 317545,
+        "num": 317545,
+        "word": "股神巴菲特表态美国大选",
+        "onboard_time": 1729743920,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 312499,
+        "num": 312499,
+        "word": "杜华说乐华家大业大是前人栽树",
+        "onboard_time": 1729741879,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38387,
+        "num": 312196,
+        "word": "监管部门回应深圳一小学使用过期肉",
+        "onboard_time": 1729744040,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183081,
+        "num": 309838,
+        "word": "耿爽代表中国在联合国为难民发声",
+        "onboard_time": 1729740558,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1184133,
+        "num": 307887,
+        "word": "女性学历向下婚反超向上婚",
+        "onboard_time": 1729735938,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914539,
+        "num": 304925,
+        "word": "南航一架波音飞机疑似发生着陆事故",
+        "onboard_time": 1729741637,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163960,
+        "num": 304133,
+        "word": "人民网评网红频频塌房",
+        "onboard_time": 1729742239,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120860,
+        "num": 301435,
+        "word": "教师不是什么大冤种不该如此背刺",
+        "onboard_time": 1729744400,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300731,
+        "num": 300731,
+        "word": "NASA局长称正与中方商谈租借月壤样品",
+        "onboard_time": 1729742838,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 883628,
+        "num": 299323,
+        "word": "韩安冉举报汪静逃税",
+        "onboard_time": 1729736598,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217416,
+        "num": 288444,
+        "word": "杨旭文唐诡开机现场哽咽了",
+        "onboard_time": 1729738938,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72470,
+        "num": 284846,
+        "word": "黑色月光港星演技大赏",
+        "onboard_time": 1729744220,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 854006,
+        "num": 271647,
+        "word": "王嘉尔自曝有抑郁症",
+        "onboard_time": 1729736179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271295,
+        "num": 271295,
+        "word": "儿子恋爱后总要钱被妈妈送派出所",
+        "onboard_time": 1729743798,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332650,
+        "num": 270066,
+        "word": "花钱请人每周放30万只不咬人的蚊子",
+        "onboard_time": 1729741698,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502889,
+        "num": 269451,
+        "word": "医学生侮辱大体老师引舆论哗然",
+        "onboard_time": 1729695260,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443479,
+        "num": 266145,
+        "word": "孟佳路边救被撞小猫情绪崩了",
+        "onboard_time": 1729741879,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384395,
+        "num": 265105,
+        "word": "每套房都让人眼前一亮又一亮",
+        "onboard_time": 1729743380,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371477,
+        "num": 263348,
+        "word": "台湾幼儿园园长之子涉侵犯39名幼童",
+        "onboard_time": 1729730059,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363985,
+        "num": 261623,
+        "word": "烧伤妈妈丈夫称已关闭捐款渠道",
+        "onboard_time": 1729735397,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324390,
+        "num": 260722,
+        "word": "高学历夫妇二孩生育概率最低",
+        "onboard_time": 1729737678,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207145,
+        "num": 258750,
+        "word": "花少",
+        "onboard_time": 1729744220,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204317,
+        "num": 256483,
+        "word": "再见爱人更新",
+        "onboard_time": 1729744160,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202182,
+        "num": 254756,
+        "word": "凤凰传奇深圳抢票",
+        "onboard_time": 1729743440,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286120,
+        "num": 253984,
+        "word": "以军称找到5亿美元2天了没证据",
+        "onboard_time": 1729732818,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48165,
+        "num": 252229,
+        "word": "河北唐山一煤矿冒顶致6人被困",
+        "onboard_time": 1729742959,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357171,
+        "num": 250179,
+        "word": "张踩铃 回家抓老公现行的女人",
+        "onboard_time": 1729743198,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287149,
+        "num": 247830,
+        "word": "老人收银偷20万私了2万多后失联",
+        "onboard_time": 1729733418,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247213,
+        "num": 247213,
+        "word": "孙颖莎参加演讲比赛荣获二等奖",
+        "onboard_time": 1729740317,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110691,
+        "num": 245114,
+        "word": "土耳其恐袭现场画面曝光",
+        "onboard_time": 1729742779,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 245042,
+        "num": 245042,
+        "word": "杜华儿子在韩国训练瘦了15斤",
+        "onboard_time": 1729736237,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240363,
+        "num": 240363,
+        "word": "宁愿爬七楼也想住的房子",
+        "onboard_time": 1729743198,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28688,
+        "num": 227595,
+        "word": "荣耀Magic7朱珠",
+        "onboard_time": 1729744460,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217522,
+        "num": 217522,
+        "word": "小米15",
+        "onboard_time": 1729734379,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211173,
+        "num": 211173,
+        "word": "男子蹲守前女友老家多日将其杀害",
+        "onboard_time": 1729728680,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195517,
+        "num": 208079,
+        "word": "官方通报厦门一干部同时出轨多人",
+        "onboard_time": 1729738638,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201759,
+        "num": 201759,
+        "word": "工作不到4个月新警抓了24名嫌疑人",
+        "onboard_time": 1729735338,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179607,
+        "num": 179607,
+        "word": "韩媒修改珠帘玉幕番位",
+        "onboard_time": 1729733478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171595,
+        "num": 171595,
+        "word": "李诞回应黄磊做饭好吃与否",
+        "onboard_time": 1729724713,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31195,
+        "num": 171522,
+        "word": "荣耀Magic7全新配色朝霞金",
+        "onboard_time": 1729744460,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171518,
+        "num": 171518,
+        "word": "难哄开通角色号",
+        "onboard_time": 1729742478,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156024,
+        "num": 156024,
+        "word": "2024微博视界大会定档",
+        "onboard_time": 1729744820,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154171,
+        "num": 154171,
+        "word": "秋天是懂配色的",
+        "onboard_time": 1729739237,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148114,
+        "num": 148114,
+        "word": "董宇辉离开后新东方首份季报",
+        "onboard_time": 1729735457,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见塞西#"
+    }
+  }
+}
