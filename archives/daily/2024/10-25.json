@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729808467860,
+  "endTime": 1729809539133,
   "band_list": [
     {
       "raw_hot": 2659700,
@@ -99,6 +99,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 318013,
+      "num": 318013,
+      "word": "杨妞花说在领养家庭像贼一样",
+      "onboard_time": 1729787238,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311052,
       "num": 311052,
       "word": "尼日利亚酋长在机场豪横发钱",
@@ -115,11 +123,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299941,
-      "num": 299941,
-      "word": "杨妞花说在领养家庭像贼一样",
-      "onboard_time": 1729787238,
-      "rank": 9,
+      "raw_hot": 307197,
+      "num": 138067,
+      "word": "当地回应出轨多人干部被质疑公款出游",
+      "onboard_time": 1729790235,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188227,
-      "num": 86563,
-      "word": "当地回应出轨多人干部被质疑公款出游",
-      "onboard_time": 1729790235,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176131,
       "num": 176131,
       "word": "活死人演唱会取消",
@@ -195,12 +195,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174782,
+      "num": 174782,
+      "word": "教育局回应建议取消家长护学岗",
+      "onboard_time": 1729775599,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173434,
       "num": 173434,
       "word": "釜山一驻韩美军补给仓发生火灾",
       "onboard_time": 1729789934,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 158815,
+      "num": 158815,
+      "word": "商务部回应美国宣布制裁两家中国实体",
+      "onboard_time": 1729804570,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158478,
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122008,
-      "num": 122008,
-      "word": "商务部回应美国宣布制裁两家中国实体",
-      "onboard_time": 1729804570,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121321,
       "num": 121321,
       "word": "你的肾是这样一点点透支的",
@@ -337,14 +345,6 @@
       "onboard_time": 1729775599,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95238,
-      "num": 108814,
-      "word": "教育局回应建议取消家长护学岗",
-      "onboard_time": 1729775599,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 90690,
@@ -467,6 +467,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34931,
+      "num": 50720,
+      "word": "永夜星河预约",
+      "onboard_time": 1729807091,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31780,
+      "num": 31780,
+      "word": "大哥上份工作是在宫里吧",
+      "onboard_time": 1729797312,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 31698,
+      "num": 51781,
+      "word": "今年第20号台风潭美来了",
+      "onboard_time": 1729798152,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31547,
       "num": 111799,
       "word": "国内首张太空旅行船票半小时被拍走",
@@ -483,20 +507,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 28438,
+      "num": 31646,
+      "word": "3000年前的文物盖着3000年前的植物",
+      "onboard_time": 1729799412,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27021,
       "num": 46665,
       "word": "汪苏泷深圳抢票",
       "onboard_time": 1729793832,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25746,
-      "num": 51781,
-      "word": "今年第20号台风潭美来了",
-      "onboard_time": 1729798152,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25049,
@@ -507,28 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23824,
-      "num": 25353,
-      "word": "大哥上份工作是在宫里吧",
-      "onboard_time": 1729797312,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 23619,
-      "num": 25346,
-      "word": "3000年前的文物盖着3000年前的植物",
-      "onboard_time": 1729799412,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23145,
-      "num": 36081,
-      "word": "永夜星河预约",
-      "onboard_time": 1729807091,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 22066,
+      "num": 31613,
+      "word": "4个伤肾的坏习惯",
+      "onboard_time": 1729809073,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19762,
@@ -555,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15977,
+      "num": 141248,
+      "word": "不能再让巴勒斯坦黎巴嫩生灵涂炭",
+      "onboard_time": 1729807873,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 15829,
+      "num": 31589,
+      "word": "张真源个人EP预告",
+      "onboard_time": 1729795814,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 15091,
       "num": 41314,
       "word": "文化中国行文博日历",
@@ -568,14 +592,6 @@
       "word": "ENHYPEN预告照",
       "onboard_time": 1729795753,
       "rank": 48,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 13698,
-      "num": 28167,
-      "word": "张真源个人EP预告",
-      "onboard_time": 1729795814,
-      "rank": 45,
       "category": "音乐"
     },
     {
@@ -593,14 +609,6 @@
       "onboard_time": 1729799711,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12525,
-      "num": 68311,
-      "word": "不能再让巴勒斯坦黎巴嫩生灵涂炭",
-      "onboard_time": 1729807873,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 12075,
