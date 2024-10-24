@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729791471863,
+  "endTime": 1729794610732,
   "band_list": [
     {
       "raw_hot": 2659700,
@@ -185,6 +185,14 @@
       "onboard_time": 1729782440,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173434,
+      "num": 173434,
+      "word": "釜山一驻韩美军补给仓发生火灾",
+      "onboard_time": 1729789934,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 158478,
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59758,
-      "num": 98889,
-      "word": "釜山一驻韩美军补给仓发生火灾",
-      "onboard_time": 1729789934,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 47515,
       "num": 236483,
       "word": "打卡秋天里的美丽中国",
@@ -443,12 +443,52 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 27021,
+      "num": 46665,
+      "word": "汪苏泷深圳抢票",
+      "onboard_time": 1729793832,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26893,
+      "num": 30095,
+      "word": "魔兽世界",
+      "onboard_time": 1729794493,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 25049,
+      "num": 30077,
+      "word": "众多网友用自身经历鼓励烧伤妈妈",
+      "onboard_time": 1729792752,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16488,
+      "num": 70718,
+      "word": "美国还没查清以色列绝密咋泄露的",
+      "onboard_time": 1729794131,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16322,
       "num": 83922,
       "word": "余华英拐卖的17名儿童部分家庭至今无法相认",
       "onboard_time": 1729791014,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14729,
+      "num": 46591,
+      "word": "加沙小女孩哭诉走不动了腿上都是血",
+      "onboard_time": 1729794552,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2682,
