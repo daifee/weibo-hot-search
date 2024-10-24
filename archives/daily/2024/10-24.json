@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729766485874,
+  "endTime": 1729768735314,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -17,6 +17,14 @@
       "onboard_time": 1729732818,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2248799,
+      "num": 2248799,
+      "word": "高铁破例临停1分钟救人",
+      "onboard_time": 1729762398,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 2204712,
@@ -147,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1307017,
+      "num": 239683,
+      "word": "大学生吐槽牛肉面没蛋遭商家索赔",
+      "onboard_time": 1729766359,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1270197,
+      "num": 265064,
+      "word": "合肥银泰LV",
+      "onboard_time": 1729765097,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162560,
       "num": 1186009,
       "word": "花少弹幕 呵呵",
@@ -235,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 934173,
+      "num": 934173,
+      "word": "李子柒现身强国熊猫周宣传视频",
+      "onboard_time": 1729761739,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 914539,
       "num": 366705,
       "word": "南航一架波音飞机疑似发生着陆事故",
@@ -249,14 +281,6 @@
       "onboard_time": 1729732818,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 834444,
-      "num": 265064,
-      "word": "合肥银泰LV",
-      "onboard_time": 1729765097,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 821907,
@@ -473,14 +497,6 @@
       "onboard_time": 1729743920,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 484610,
-      "num": 484610,
-      "word": "高铁破例临停1分钟救人",
-      "onboard_time": 1729762398,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 475895,
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312020,
+      "num": 221721,
+      "word": "郑钦文衣服吊牌没摘",
+      "onboard_time": 1729767318,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305928,
       "num": 305928,
       "word": "法国一城用雪貂抓老鼠",
@@ -955,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236487,
+      "num": 236487,
+      "word": "爱奇艺新规被吐槽吃相难看",
+      "onboard_time": 1729766178,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235089,
       "num": 278929,
       "word": "央视起底老年人养生骗局",
@@ -1019,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219376,
+      "num": 423592,
+      "word": "余华英死刑将是对其他犯罪的震慑",
+      "onboard_time": 1729765937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215208,
       "num": 215208,
       "word": "对不起一开始对刘烨太大声了",
@@ -1051,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207544,
+      "num": 197596,
+      "word": "雷军确认小米15涨价",
+      "onboard_time": 1729768637,
+      "rank": 30,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 205707,
       "num": 205707,
       "word": "再见爱人",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1729747280,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203147,
+      "num": 203147,
+      "word": "郑钦文晋级东京站八强",
+      "onboard_time": 1729766058,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 202182,
@@ -1121,6 +1177,14 @@
       "onboard_time": 1729759519,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196618,
+      "num": 196618,
+      "word": "潘展乐人民日报发文",
+      "onboard_time": 1729768039,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 195992,
@@ -1187,20 +1251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188802,
-      "num": 188802,
-      "word": "郑钦文晋级东京站八强",
-      "onboard_time": 1729766058,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187688,
       "num": 216333,
       "word": "宋茜五登芭莎封面",
       "onboard_time": 1729753218,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183303,
+      "num": 342489,
+      "word": "苏醒紧急撤回了一个夸赞",
+      "onboard_time": 1729762879,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 181526,
@@ -1248,14 +1312,6 @@
       "word": "十个勤天全员入围视界大会巅峰赛",
       "onboard_time": 1729757418,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 169341,
-      "num": 342489,
-      "word": "苏醒紧急撤回了一个夸赞",
-      "onboard_time": 1729762879,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1379,6 +1435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 152553,
+      "num": 238712,
+      "word": "中国要推动乌克兰危机局势尽快缓和",
+      "onboard_time": 1729767259,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152549,
       "num": 152549,
       "word": "有种抑郁叫缺维生素D",
@@ -1388,7 +1452,7 @@
     },
     {
       "raw_hot": 152285,
-      "num": 152285,
+      "num": 197134,
       "word": "喀山宣言",
       "onboard_time": 1729760658,
       "rank": 38,
@@ -1433,6 +1497,14 @@
       "onboard_time": 1729756399,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145463,
+      "num": 145463,
+      "word": "潘展乐400自金牌",
+      "onboard_time": 1729768518,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 145322,
@@ -1521,6 +1593,14 @@
       "onboard_time": 1729746800,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137717,
+      "num": 230170,
+      "word": "MCD舞台",
+      "onboard_time": 1729767138,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 136632,
@@ -1617,6 +1697,14 @@
       "onboard_time": 1729749919,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120625,
+      "num": 199771,
+      "word": "不出意外我本打算这样打工的",
+      "onboard_time": 1729766718,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 118234,
@@ -1731,28 +1819,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 107313,
-      "num": 107313,
-      "word": "爱奇艺新规被吐槽吃相难看",
-      "onboard_time": 1729766178,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 106902,
-      "num": 106902,
-      "word": "大学生吐槽牛肉面没蛋遭商家索赔",
-      "onboard_time": 1729766359,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106321,
       "num": 106321,
       "word": "欧冠",
       "onboard_time": 1729725736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106094,
+      "num": 106094,
+      "word": "汇聚全球南方磅礴力量",
+      "onboard_time": 1729763479,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105448,
@@ -1811,12 +1891,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96281,
-      "num": 96281,
-      "word": "汇聚全球南方磅礴力量",
-      "onboard_time": 1729763479,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 98323,
+      "num": 98323,
+      "word": "00年的树先生说自己想通了",
+      "onboard_time": 1729767558,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 95240,
@@ -1848,14 +1928,6 @@
       "word": "医院回应女职工被举报出轨",
       "onboard_time": 1729715770,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90162,
-      "num": 423592,
-      "word": "余华英死刑将是对其他犯罪的震慑",
-      "onboard_time": 1729765937,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1897,6 +1969,14 @@
       "onboard_time": 1729720511,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82486,
+      "num": 238349,
+      "word": "eStar对战TES",
+      "onboard_time": 1729767918,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 81665,
@@ -2409,6 +2489,14 @@
       "onboard_time": 1729707613,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14215,
+      "num": 237825,
+      "word": "老番茄试驾真的会痛的痛车",
+      "onboard_time": 1729767617,
+      "rank": 14,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 9612,
