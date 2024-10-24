@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729787211358,
+  "endTime": 1729788318907,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141942,
+      "num": 1141942,
+      "word": "巴勒斯坦女孩被当作人肉盾牌探路",
+      "onboard_time": 1729785198,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1141410,
       "num": 1141410,
       "word": "福州机场",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1729486639,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 930593,
-      "num": 943964,
-      "word": "巴勒斯坦女孩被当作人肉盾牌探路",
-      "onboard_time": 1729785198,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 930488,
@@ -5091,6 +5091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280075,
+      "num": 280075,
+      "word": "尼日利亚酋长在机场豪横发钱",
+      "onboard_time": 1729785259,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 279842,
       "num": 279842,
       "word": "孙颖莎参加演讲比赛荣获二等奖",
@@ -6163,6 +6171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224293,
+      "num": 238013,
+      "word": "赵露思彭冠英恋人即将开拍",
+      "onboard_time": 1729785557,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224040,
       "num": 320860,
       "word": "权志龙官宣出演MAMA",
@@ -6817,14 +6833,6 @@
       "onboard_time": 1729499179,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207349,
-      "num": 207349,
-      "word": "尼日利亚酋长在机场豪横发钱",
-      "onboard_time": 1729785259,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 207234,
@@ -8065,14 +8073,6 @@
       "onboard_time": 1729439422,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177921,
-      "num": 238013,
-      "word": "赵露思彭冠英恋人即将开拍",
-      "onboard_time": 1729785557,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 177613,
@@ -11713,6 +11713,14 @@
       "onboard_time": 1729736117,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92598,
+      "num": 206367,
+      "word": "杨妞花说在领养家庭像贼一样",
+      "onboard_time": 1729787238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92576,
