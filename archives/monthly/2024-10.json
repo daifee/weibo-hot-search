@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729802283398,
+  "endTime": 1729804894980,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -72737,6 +72737,14 @@
       "onboard_time": 1729596559,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14274,
+      "num": 36074,
+      "word": "商务部回应美国宣布制裁两家中国实体",
+      "onboard_time": 1729804570,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14173,
