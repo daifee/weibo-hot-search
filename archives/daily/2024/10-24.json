@@ -1,6 +1,6 @@
 {
   "startTime": 1729700897272,
-  "endTime": 1729762690479,
+  "endTime": 1729765438290,
   "band_list": [
     {
       "raw_hot": 3027434,
@@ -25,6 +25,14 @@
       "onboard_time": 1729749198,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2078201,
+      "num": 2078201,
+      "word": "李子柒营业了",
+      "onboard_time": 1729761739,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1923823,
@@ -67,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1772542,
+      "num": 825107,
+      "word": "人怎么可以捅出这么大的篓子",
+      "onboard_time": 1729757959,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1741737,
       "num": 829664,
       "word": "2岁宝宝从未掏耳朵被耳屎堵满",
@@ -81,14 +97,6 @@
       "onboard_time": 1729736598,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1610045,
-      "num": 1610045,
-      "word": "李子柒营业了",
-      "onboard_time": 1729761739,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 1588653,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1498463,
+      "num": 1498463,
+      "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
+      "onboard_time": 1729762099,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1394210,
       "num": 1394210,
       "word": "花钱请人每周放30万只不咬人的蚊子",
@@ -129,14 +145,6 @@
       "onboard_time": 1729736179,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1371271,
-      "num": 825107,
-      "word": "人怎么可以捅出这么大的篓子",
-      "onboard_time": 1729757959,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1162560,
@@ -179,19 +187,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1117189,
+      "num": 637617,
+      "word": "乐山大佛景区男厕被女游客进入使用",
+      "onboard_time": 1729759218,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011185,
       "num": 236437,
       "word": "两家长班级群相识后出轨私奔生1子",
       "onboard_time": 1729690279,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1007504,
-      "num": 637617,
-      "word": "乐山大佛景区男厕被女游客进入使用",
-      "onboard_time": 1729759218,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439954,
+      "num": 439954,
+      "word": "武艺精准吐槽杨子",
+      "onboard_time": 1729761982,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438846,
       "num": 438846,
       "word": "NASA局长称正与中方商谈租借月壤样品",
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314455,
+      "num": 314455,
+      "word": "高铁破例临停1分钟救人",
+      "onboard_time": 1729762398,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 312499,
       "num": 368510,
       "word": "杜华说乐华家大业大是前人栽树",
@@ -745,14 +769,6 @@
       "onboard_time": 1729728739,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 295459,
-      "num": 390974,
-      "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
-      "onboard_time": 1729762099,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291767,
@@ -795,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282025,
+      "num": 282025,
+      "word": "宣言支持巴勒斯坦成为联合国正式会员国",
+      "onboard_time": 1729762819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279842,
       "num": 279842,
       "word": "孙颖莎参加演讲比赛荣获二等奖",
@@ -817,6 +841,14 @@
       "onboard_time": 1729696518,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278318,
+      "num": 278318,
+      "word": "GEN训练赛狂虐T1",
+      "onboard_time": 1729762398,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 277577,
@@ -849,14 +881,6 @@
       "onboard_time": 1729728079,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255462,
-      "num": 192327,
-      "word": "GEN训练赛狂虐T1",
-      "onboard_time": 1729762398,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 250065,
@@ -979,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222055,
-      "num": 377180,
-      "word": "武艺精准吐槽杨子",
-      "onboard_time": 1729761982,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221172,
       "num": 221172,
       "word": "勇士狂轰139分",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1729759697,
       "rank": 47,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 209700,
+      "num": 209700,
+      "word": "郑钦文vs内岛萌夏",
+      "onboard_time": 1729760418,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 209590,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1729694959,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199856,
+      "num": 655382,
+      "word": "律师解读公务员出轨仅被行政记大过",
+      "onboard_time": 1729761798,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199694,
@@ -1219,6 +1251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 166596,
+      "num": 166596,
+      "word": "陈梦说队员之间就像一个大家庭",
+      "onboard_time": 1729762758,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166488,
       "num": 166488,
       "word": "孙艺珍池昌旭将合作新剧",
@@ -1299,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154567,
+      "num": 154567,
+      "word": "合肥银泰LV",
+      "onboard_time": 1729765097,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152894,
       "num": 624378,
       "word": "小米15一眼Crush",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1729726336,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150555,
+      "num": 150555,
+      "word": "在北大上学的一天",
+      "onboard_time": 1729762218,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 147850,
@@ -1395,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142326,
+      "num": 142326,
+      "word": "男友国外买的礼物喊我付清关税费",
+      "onboard_time": 1729762998,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "杨子是真的觉得自己很幽默",
@@ -1459,12 +1523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133790,
+      "num": 208373,
+      "word": "苏醒紧急撤回了一个夸赞",
+      "onboard_time": 1729762879,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132115,
       "num": 288544,
       "word": "土耳其航空航天公司遭恐袭已致3死5伤",
       "onboard_time": 1729737318,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131299,
+      "num": 206412,
+      "word": "时代少年团全员加盟战至巅峰冠军之夜",
+      "onboard_time": 1729764497,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 131060,
@@ -1515,12 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121478,
-      "num": 166116,
-      "word": "郑钦文vs内岛萌夏",
-      "onboard_time": 1729760418,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 122316,
+      "num": 122316,
+      "word": "南京警方破获南博等文旅场所黄牛大案",
+      "onboard_time": 1729763180,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118234,
@@ -1699,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96281,
+      "num": 96281,
+      "word": "汇聚全球南方磅礴力量",
+      "onboard_time": 1729763479,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95240,
       "num": 95240,
       "word": "商户回应游客在景德镇捡瓷器",
@@ -1859,14 +1947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 72941,
-      "num": 655382,
-      "word": "律师解读公务员出轨仅被行政记大过",
-      "onboard_time": 1729761798,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72470,
       "num": 284846,
       "word": "黑色月光港星演技大赏",
@@ -1995,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39461,
+      "num": 280549,
+      "word": "加沙女孩步行撤离痛哭称满腿是血",
+      "onboard_time": 1729764259,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 38387,
       "num": 312196,
       "word": "监管部门回应深圳一小学使用过期肉",
@@ -2028,7 +2116,7 @@
     },
     {
       "raw_hot": 37787,
-      "num": 795235,
+      "num": 929450,
       "word": "一组数据说金砖",
       "onboard_time": 1729759459,
       "rank": 2,
@@ -2089,6 +2177,22 @@
       "onboard_time": 1729718471,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31577,
+      "num": 278653,
+      "word": "外交部回应土耳其遭恐袭",
+      "onboard_time": 1729763539,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31445,
+      "num": 279321,
+      "word": "大学生创业筹款十余万救患病女童",
+      "onboard_time": 1729764919,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30996,
