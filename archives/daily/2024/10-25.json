@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729831375798,
+  "endTime": 1729833777453,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3725431,
-      "num": 1073419,
+      "num": 1190901,
       "word": "余华英当庭上诉",
       "onboard_time": 1729826058,
       "rank": 3,
@@ -43,19 +43,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1779979,
+      "num": 1779979,
+      "word": "梅姨案最后一个孩子找到了",
+      "onboard_time": 1729819639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1702355,
       "num": 1702355,
       "word": "听到父母去世杨妞花整张脸都麻了",
       "onboard_time": 1729821978,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1646569,
-      "num": 1646569,
-      "word": "梅姨案最后一个孩子找到了",
-      "onboard_time": 1729819639,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,22 @@
       "onboard_time": 1729785198,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 985236,
+      "num": 514940,
+      "word": "赵一博发文悼念去世站姐",
+      "onboard_time": 1729830740,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 982139,
+      "num": 982139,
+      "word": "Hybe承认BTS音源注水",
+      "onboard_time": 1729832120,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 944743,
@@ -155,6 +171,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750343,
+      "num": 653996,
+      "word": "普京首次回应所谓朝鲜派兵援俄",
+      "onboard_time": 1729829060,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 732331,
+      "num": 732331,
+      "word": "100万房贷20年少还近9万",
+      "onboard_time": 1729830921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697012,
+      "num": 697012,
+      "word": "保时捷售价跌破40万",
+      "onboard_time": 1729830441,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 676309,
       "num": 345945,
       "word": "妈妈每月2000订我泡泡",
@@ -201,14 +241,6 @@
       "onboard_time": 1729827020,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653996,
-      "num": 653996,
-      "word": "普京首次回应所谓朝鲜派兵援俄",
-      "onboard_time": 1729829060,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 636492,
@@ -273,14 +305,6 @@
       "onboard_time": 1729775359,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 560849,
-      "num": 560849,
-      "word": "保时捷售价跌破40万",
-      "onboard_time": 1729830441,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 553552,
@@ -379,6 +403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 428314,
+      "num": 428314,
+      "word": "澳洲安保狙击手被发现在摸鱼",
+      "onboard_time": 1729832120,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 420444,
       "num": 344796,
       "word": "警方通报女子因挪车纠纷被打骨折",
@@ -393,6 +425,14 @@
       "onboard_time": 1729826178,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409087,
+      "num": 409087,
+      "word": "陈钰琪出演赴山海",
+      "onboard_time": 1729832241,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 404544,
@@ -523,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298467,
-      "num": 298467,
-      "word": "赵一博发文悼念去世站姐",
-      "onboard_time": 1729830740,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285628,
       "num": 285628,
       "word": "余华英庭审现场视频公布",
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233953,
+      "num": 402205,
+      "word": "原来第一个想出分手综艺的是papi酱",
+      "onboard_time": 1729830620,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232748,
       "num": 232748,
       "word": "美宣布向乌提供200亿美元贷款",
@@ -643,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210138,
-      "num": 402205,
-      "word": "原来第一个想出分手综艺的是papi酱",
-      "onboard_time": 1729830620,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209722,
       "num": 402103,
       "word": "张婧仪辛云来芭莎大片",
@@ -675,12 +707,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203974,
+      "num": 203974,
+      "word": "权志龙回归预告",
+      "onboard_time": 1729833020,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 203148,
+      "num": 203148,
+      "word": "赵露思扛剧能力",
+      "onboard_time": 1729833200,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200950,
       "num": 200950,
       "word": "关闭捐助渠道的烧伤妈妈让人动容",
       "onboard_time": 1729811776,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198003,
+      "num": 198003,
+      "word": "披荆斩棘4总决赛节目单",
+      "onboard_time": 1729832720,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 196931,
@@ -723,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189543,
+      "num": 228532,
+      "word": "柳俊烈张元英成韩彬AAA主持",
+      "onboard_time": 1729833139,
+      "rank": 28,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 183721,
       "num": 196085,
       "word": "HYBE被指用章昊营销韩振",
@@ -753,6 +817,14 @@
       "onboard_time": 1729824618,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177724,
+      "num": 177724,
+      "word": "付航脱口秀",
+      "onboard_time": 1729833559,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 176131,
@@ -803,12 +875,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161117,
-      "num": 622718,
-      "word": "100万房贷20年少还近9万",
-      "onboard_time": 1729830921,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 164971,
+      "num": 164971,
+      "word": "S14最有含金量的一冠",
+      "onboard_time": 1729833619,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 158478,
@@ -843,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151819,
+      "num": 151819,
+      "word": "孙海洋说杨妞花太苦了",
+      "onboard_time": 1729833020,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150839,
       "num": 150839,
       "word": "4个伤肾的坏习惯",
       "onboard_time": 1729809073,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150778,
+      "num": 150778,
+      "word": "梅姨案",
+      "onboard_time": 1729833200,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149758,
@@ -865,6 +953,14 @@
       "onboard_time": 1729827560,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142772,
+      "num": 142772,
+      "word": "喜剧大会",
+      "onboard_time": 1729833499,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 141997,
@@ -1059,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109049,
+      "num": 950564,
+      "word": "中国人有自己的秋日九件套",
+      "onboard_time": 1729829419,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108884,
       "num": 108884,
       "word": "我们都是时代记录者",
@@ -1089,14 +1193,6 @@
       "onboard_time": 1729810216,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 107856,
-      "num": 664463,
-      "word": "中国人有自己的秋日九件套",
-      "onboard_time": 1729829419,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106373,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1729746679,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75343,
+      "num": 230295,
+      "word": "老人花6千买的乾隆拐杖是塑料制品",
+      "onboard_time": 1729833680,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72945,
@@ -1347,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34202,
+      "num": 224241,
+      "word": "花式晒娃会招来人贩子吗",
+      "onboard_time": 1729832120,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33850,
       "num": 1096964,
       "word": "大金砖合作大有可为",
@@ -1393,6 +1505,14 @@
       "onboard_time": 1729803910,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19330,
+      "num": 222191,
+      "word": "鹭卓彩排照",
+      "onboard_time": 1729830980,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 17260,

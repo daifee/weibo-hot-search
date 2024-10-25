@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729831375798,
+  "endTime": 1729833777453,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3725431,
-      "num": 1073419,
+      "num": 1190901,
       "word": "余华英当庭上诉",
       "onboard_time": 1729826058,
       "rank": 3,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1779979,
+      "num": 1779979,
+      "word": "梅姨案最后一个孩子找到了",
+      "onboard_time": 1729819639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1772542,
       "num": 825107,
       "word": "人怎么可以捅出这么大的篓子",
@@ -489,14 +497,6 @@
       "onboard_time": 1729479918,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1646569,
-      "num": 1646569,
-      "word": "梅姨案最后一个孩子找到了",
-      "onboard_time": 1729819639,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1630510,
@@ -1339,12 +1339,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 985236,
+      "num": 514940,
+      "word": "赵一博发文悼念去世站姐",
+      "onboard_time": 1729830740,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 983346,
       "num": 581140,
       "word": "伍佰玩叶珂梗",
       "onboard_time": 1729502778,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 982139,
+      "num": 982139,
+      "word": "Hybe承认BTS音源注水",
+      "onboard_time": 1729832120,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 975682,
@@ -2059,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750343,
+      "num": 653996,
+      "word": "普京首次回应所谓朝鲜派兵援俄",
+      "onboard_time": 1729829060,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 748733,
       "num": 748733,
       "word": "陈好说短时间内不会再参加真人秀",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1729694900,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732331,
+      "num": 732331,
+      "word": "100万房贷20年少还近9万",
+      "onboard_time": 1729830921,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728868,
@@ -2257,6 +2289,14 @@
       "onboard_time": 1729654819,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 697012,
+      "num": 697012,
+      "word": "保时捷售价跌破40万",
+      "onboard_time": 1729830441,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 696608,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1729467437,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653996,
-      "num": 653996,
-      "word": "普京首次回应所谓朝鲜派兵援俄",
-      "onboard_time": 1729829060,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 652866,
@@ -2953,14 +2985,6 @@
       "onboard_time": 1729495458,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 560849,
-      "num": 560849,
-      "word": "保时捷售价跌破40万",
-      "onboard_time": 1729830441,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 559484,
@@ -3811,6 +3835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 428314,
+      "num": 428314,
+      "word": "澳洲安保狙击手被发现在摸鱼",
+      "onboard_time": 1729832120,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 427140,
       "num": 427140,
       "word": "这9平方公里有10处国家级宝藏",
@@ -3985,6 +4017,14 @@
       "onboard_time": 1729517901,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409087,
+      "num": 409087,
+      "word": "陈钰琪出演赴山海",
+      "onboard_time": 1729832241,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 408645,
@@ -5163,14 +5203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298467,
-      "num": 298467,
-      "word": "赵一博发文悼念去世站姐",
-      "onboard_time": 1729830740,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297764,
       "num": 297764,
       "word": "31岁哈工大女博导秀肌肉招生",
@@ -6315,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233953,
+      "num": 402205,
+      "word": "原来第一个想出分手综艺的是papi酱",
+      "onboard_time": 1729830620,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233760,
       "num": 233760,
       "word": "你的肾是这样一点点透支的",
@@ -7203,14 +7243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210138,
-      "num": 402205,
-      "word": "原来第一个想出分手综艺的是papi酱",
-      "onboard_time": 1729830620,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209975,
       "num": 209975,
       "word": "当地调查哥读北大弟辍学卖苹果事件",
@@ -7451,6 +7483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203974,
+      "num": 203974,
+      "word": "权志龙回归预告",
+      "onboard_time": 1729833020,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203965,
       "num": 321403,
       "word": "披荆斩棘4手绘名场面海报",
@@ -7481,6 +7521,14 @@
       "onboard_time": 1729508839,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203148,
+      "num": 203148,
+      "word": "赵露思扛剧能力",
+      "onboard_time": 1729833200,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 203147,
@@ -7697,6 +7745,14 @@
       "onboard_time": 1729429221,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198003,
+      "num": 198003,
+      "word": "披荆斩棘4总决赛节目单",
+      "onboard_time": 1729832720,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 197749,
@@ -8209,6 +8265,14 @@
       "onboard_time": 1729419560,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189543,
+      "num": 228532,
+      "word": "柳俊烈张元英成韩彬AAA主持",
+      "onboard_time": 1729833139,
+      "rank": 28,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 189536,
@@ -9195,6 +9259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164971,
+      "num": 164971,
+      "word": "S14最有含金量的一冠",
+      "onboard_time": 1729833619,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164969,
       "num": 265969,
       "word": "心动的信号7",
@@ -9400,14 +9472,6 @@
       "word": "官方通报乡长下乡被村民刺伤身亡",
       "onboard_time": 1729392858,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161117,
-      "num": 622718,
-      "word": "100万房贷20年少还近9万",
-      "onboard_time": 1729830921,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9827,6 +9891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151819,
+      "num": 151819,
+      "word": "孙海洋说杨妞花太苦了",
+      "onboard_time": 1729833020,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151473,
       "num": 151473,
       "word": "长丰学校校长和法定代表人被免职",
@@ -9873,6 +9945,14 @@
       "onboard_time": 1729488619,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150778,
+      "num": 150778,
+      "word": "梅姨案",
+      "onboard_time": 1729833200,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150555,
@@ -10305,6 +10385,14 @@
       "onboard_time": 1729408278,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142772,
+      "num": 142772,
+      "word": "喜剧大会",
+      "onboard_time": 1729833499,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 142561,
@@ -12011,6 +12099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109049,
+      "num": 950564,
+      "word": "中国人有自己的秋日九件套",
+      "onboard_time": 1729829419,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108909,
       "num": 108909,
       "word": "敖子逸拍爆炸戏坚持不要替身",
@@ -12089,14 +12185,6 @@
       "onboard_time": 1729414758,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107856,
-      "num": 664463,
-      "word": "中国人有自己的秋日九件套",
-      "onboard_time": 1729829419,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107478,
@@ -12985,6 +13073,14 @@
       "onboard_time": 1729599438,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 75343,
+      "num": 230295,
+      "word": "老人花6千买的乾隆拐杖是塑料制品",
+      "onboard_time": 1729833680,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74632,
@@ -14635,6 +14731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 34202,
+      "num": 224241,
+      "word": "花式晒娃会招来人贩子吗",
+      "onboard_time": 1729832120,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34171,
       "num": 302269,
       "word": "杨妞花希望提高赔偿维持原判",
@@ -15585,6 +15689,14 @@
       "onboard_time": 1729512797,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19330,
+      "num": 222191,
+      "word": "鹭卓彩排照",
+      "onboard_time": 1729830980,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 19262,
