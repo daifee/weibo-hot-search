@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729845753134,
+  "endTime": 1729848236060,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1614516,
+      "num": 1614516,
+      "word": "高三学生拿走两条天线被劝退",
+      "onboard_time": 1729845679,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1607079,
       "num": 1607079,
       "word": "山取颜料师已被限制高消费",
@@ -1003,6 +1011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1179970,
+      "num": 1179970,
+      "word": "一觉醒来每月房贷少了近千元",
+      "onboard_time": 1729843639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175415,
       "num": 367392,
       "word": "马尔代夫潜水溺亡医学博士为家中独子",
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 1173832,
-      "num": 407727,
+      "num": 545589,
       "word": "余华英在雪糕上下药拐走孩子",
       "onboard_time": 1729840217,
       "rank": 33,
@@ -1689,6 +1705,14 @@
       "onboard_time": 1729567279,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 885849,
+      "num": 885849,
+      "word": "黄晓明秃头海报",
+      "onboard_time": 1729842918,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 882415,
@@ -2627,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641628,
+      "num": 641628,
+      "word": "大梦归离",
+      "onboard_time": 1729842859,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641078,
       "num": 321802,
       "word": "24岁带了四个月娃后发生的变化",
@@ -2939,14 +2971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588001,
-      "num": 505228,
-      "word": "大梦归离",
-      "onboard_time": 1729842859,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 587964,
       "num": 456911,
       "word": "花学课件",
@@ -3041,6 +3065,14 @@
       "onboard_time": 1729418600,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565197,
+      "num": 565197,
+      "word": "梅姨案就差梅姨本人没找到了",
+      "onboard_time": 1729847418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564809,
@@ -3563,6 +3595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 483135,
+      "num": 483135,
+      "word": "鹿晗关注TFING",
+      "onboard_time": 1729843939,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 481423,
       "num": 481423,
       "word": "上山采茶籽捡到6只长得像猴的小鸟",
@@ -3779,14 +3819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 449114,
-      "num": 382694,
-      "word": "黄晓明秃头海报",
-      "onboard_time": 1729842918,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 449039,
       "num": 449039,
       "word": "TheShy和Rookie疑似回归iG",
@@ -3969,14 +4001,6 @@
       "onboard_time": 1729751597,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423289,
-      "num": 335530,
-      "word": "鹿晗关注TFING",
-      "onboard_time": 1729843939,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 422531,
@@ -4203,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406048,
+      "num": 406048,
+      "word": "武汉防空警报",
+      "onboard_time": 1729845018,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406030,
       "num": 332803,
       "word": "原地超慢跑减掉54斤",
@@ -4328,14 +4360,6 @@
       "word": "未婚妻就在隔壁男子竟偷拍合租女生",
       "onboard_time": 1729819818,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384193,
-      "num": 410418,
-      "word": "一觉醒来每月房贷少了近千元",
-      "onboard_time": 1729843639,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4633,6 +4657,14 @@
       "onboard_time": 1729513157,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353832,
+      "num": 353832,
+      "word": "南通小米SU7事件附近商户停业",
+      "onboard_time": 1729847600,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353011,
@@ -5107,6 +5139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318622,
+      "num": 318622,
+      "word": "男子疑因买车被嘲讽持刀伤人致1死",
+      "onboard_time": 1729846698,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318344,
       "num": 318344,
       "word": "SM三十周年纪念视频",
@@ -5241,6 +5281,14 @@
       "onboard_time": 1729814179,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307614,
+      "num": 307614,
+      "word": "服务员 坏了遇到真来吃饭的了",
+      "onboard_time": 1729845199,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 307533,
@@ -6411,6 +6459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 243260,
+      "num": 243260,
+      "word": "郑钦文vs费尔南德斯",
+      "onboard_time": 1729845857,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242879,
       "num": 228123,
       "word": "白鹿奔跑吧特别季录制结束哭了",
@@ -6867,6 +6923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227052,
+      "num": 227052,
+      "word": "江映蓉说秦奋真的很勤奋",
+      "onboard_time": 1729843158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226969,
       "num": 226969,
       "word": "美妆券",
@@ -6880,6 +6944,14 @@
       "word": "博主要求进入哀牢山颜料师公开道歉",
       "onboard_time": 1729589839,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226795,
+      "num": 226795,
+      "word": "50个民族资产解冻类诈骗项目名称",
+      "onboard_time": 1729846039,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -7275,14 +7347,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 214742,
-      "num": 214742,
-      "word": "服务员 坏了遇到真来吃饭的了",
-      "onboard_time": 1729845199,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214599,
       "num": 214599,
       "word": "权志龙回归预热",
@@ -7659,14 +7723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207219,
-      "num": 207219,
-      "word": "江映蓉说秦奋真的很勤奋",
-      "onboard_time": 1729843158,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206577,
       "num": 206577,
       "word": "杨子 黄圣依",
@@ -7987,14 +8043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199935,
-      "num": 199935,
-      "word": "武汉防空警报",
-      "onboard_time": 1729845018,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199856,
       "num": 655382,
       "word": "律师解读公务员出轨仅被行政记大过",
@@ -8168,6 +8216,14 @@
       "word": "撒贝宁疑似失去所有力气和手段",
       "onboard_time": 1729422680,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196154,
+      "num": 196154,
+      "word": "篮球选手退役做演员拍出黑历史",
+      "onboard_time": 1729847177,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -8400,6 +8456,14 @@
       "word": "杨超越超绝松弛感",
       "onboard_time": 1729410318,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192562,
+      "num": 192562,
+      "word": "中国胃",
+      "onboard_time": 1729847600,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -9211,14 +9275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 173988,
-      "num": 173988,
-      "word": "高三学生拿走两条天线被劝退",
-      "onboard_time": 1729845679,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173866,
       "num": 173866,
       "word": "雨姐传媒回应东北雨姐被禁言",
@@ -9747,20 +9803,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163810,
+      "num": 242177,
+      "word": "读研选错导师有多严重",
+      "onboard_time": 1729841779,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "世界乒联称马龙是乒坛GOAT",
       "onboard_time": 1729387458,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163186,
-      "num": 242177,
-      "word": "读研选错导师有多严重",
-      "onboard_time": 1729841779,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163086,
@@ -10049,6 +10105,14 @@
       "onboard_time": 1729753818,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157062,
+      "num": 157062,
+      "word": "王多多预测WBG进决赛",
+      "onboard_time": 1729846399,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 157056,
@@ -10993,6 +11057,14 @@
       "onboard_time": 1729767138,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139746,
+      "num": 139746,
+      "word": "刷的不是短视频 是倍速的伤害",
+      "onboard_time": 1729847000,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 139677,
@@ -13475,6 +13547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79395,
+      "num": 588334,
+      "word": "教育部要求自觉抵制丑书和怪书",
+      "onboard_time": 1729847118,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79198,
       "num": 149190,
       "word": "以军称真主党高级领导人萨菲丁已死",
@@ -13553,6 +13633,14 @@
       "onboard_time": 1729599438,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 75429,
+      "num": 444805,
+      "word": "MLB帽子打起来了",
+      "onboard_time": 1729846819,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 74632,
@@ -15299,6 +15387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33689,
+      "num": 398134,
+      "word": "商场游艺室隐藏了16台赌博机",
+      "onboard_time": 1729847118,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33474,
       "num": 275180,
       "word": "OPPO的AI还是太全面了",
@@ -15401,6 +15497,14 @@
       "onboard_time": 1729749499,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32516,
+      "num": 469303,
+      "word": "余华英没有敢再盯着杨妞花看",
+      "onboard_time": 1729847418,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32488,
@@ -15548,7 +15652,7 @@
     },
     {
       "raw_hot": 30604,
-      "num": 1125323,
+      "num": 1319267,
       "word": "大金砖合作高光时刻",
       "onboard_time": 1729818139,
       "rank": 15,
@@ -16825,6 +16929,14 @@
       "onboard_time": 1729368971,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 6335,
+      "num": 400247,
+      "word": "严屹宽视频作文告别披哥",
+      "onboard_time": 1729848079,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 5625,

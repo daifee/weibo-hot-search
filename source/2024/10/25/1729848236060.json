@@ -1,0 +1,410 @@
+{
+  "runTime": 1729848236060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661439,
+        "num": 1661439,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1614516,
+        "num": 1614516,
+        "word": "高三学生拿走两条天线被劝退",
+        "onboard_time": 1729845679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10559,
+        "num": 1319267,
+        "word": "大金砖合作高光时刻",
+        "onboard_time": 1729818139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179970,
+        "num": 1179970,
+        "word": "一觉醒来每月房贷少了近千元",
+        "onboard_time": 1729843639,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012747,
+        "num": 1012747,
+        "word": "钟自然涉嫌故意泄露国家秘密",
+        "onboard_time": 1729840698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885849,
+        "num": 885849,
+        "word": "黄晓明秃头海报",
+        "onboard_time": 1729842918,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 770115,
+        "num": 770115,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641628,
+        "num": 641628,
+        "word": "大梦归离",
+        "onboard_time": 1729842859,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79395,
+        "num": 588334,
+        "word": "教育部要求自觉抵制丑书和怪书",
+        "onboard_time": 1729847118,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565197,
+        "num": 565197,
+        "word": "梅姨案就差梅姨本人没找到了",
+        "onboard_time": 1729847418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545589,
+        "num": 545589,
+        "word": "余华英在雪糕上下药拐走孩子",
+        "onboard_time": 1729840217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542308,
+        "num": 542308,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483135,
+        "num": 483135,
+        "word": "鹿晗关注TFING",
+        "onboard_time": 1729843939,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32516,
+        "num": 469303,
+        "word": "余华英没有敢再盯着杨妞花看",
+        "onboard_time": 1729847418,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75429,
+        "num": 444805,
+        "word": "MLB帽子打起来了",
+        "onboard_time": 1729846819,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497351,
+        "num": 439218,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381540,
+        "num": 417679,
+        "word": "杨子说不到1年将回归家庭",
+        "onboard_time": 1729839738,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406048,
+        "num": 406048,
+        "word": "武汉防空警报",
+        "onboard_time": 1729845018,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6335,
+        "num": 400247,
+        "word": "严屹宽视频作文告别披哥",
+        "onboard_time": 1729848079,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33689,
+        "num": 398134,
+        "word": "商场游艺室隐藏了16台赌博机",
+        "onboard_time": 1729847118,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397677,
+        "num": 397677,
+        "word": "为啥莫名其妙就开了先用后付",
+        "onboard_time": 1729836258,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353832,
+        "num": 353832,
+        "word": "南通小米SU7事件附近商户停业",
+        "onboard_time": 1729847600,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353657,
+        "num": 353657,
+        "word": "尤长靖披哥史上最年轻总冠军",
+        "onboard_time": 1729834338,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337532,
+        "num": 337532,
+        "word": "王铮亮总决赛第二",
+        "onboard_time": 1729843218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318622,
+        "num": 318622,
+        "word": "男子疑因买车被嘲讽持刀伤人致1死",
+        "onboard_time": 1729846698,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307614,
+        "num": 307614,
+        "word": "服务员 坏了遇到真来吃饭的了",
+        "onboard_time": 1729845199,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243260,
+        "num": 243260,
+        "word": "郑钦文vs费尔南德斯",
+        "onboard_time": 1729845857,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227052,
+        "num": 227052,
+        "word": "江映蓉说秦奋真的很勤奋",
+        "onboard_time": 1729843158,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226795,
+        "num": 226795,
+        "word": "50个民族资产解冻类诈骗项目名称",
+        "onboard_time": 1729846039,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226282,
+        "num": 226282,
+        "word": "李子柒团队回应何时更新",
+        "onboard_time": 1729844659,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216123,
+        "num": 216123,
+        "word": "陈梦为巴黎奥运会做金色美甲",
+        "onboard_time": 1729844597,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199466,
+        "num": 199466,
+        "word": "连孟子义张予曦都认证的撞脸",
+        "onboard_time": 1729843338,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196154,
+        "num": 196154,
+        "word": "篮球选手退役做演员拍出黑历史",
+        "onboard_time": 1729847177,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195818,
+        "num": 195818,
+        "word": "Hybe承认BTS音源注水",
+        "onboard_time": 1729832120,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194084,
+        "num": 194084,
+        "word": "鸿蒙微信",
+        "onboard_time": 1729837817,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192562,
+        "num": 192562,
+        "word": "中国胃",
+        "onboard_time": 1729847600,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187435,
+        "num": 187435,
+        "word": "李行亮麦琳吵架",
+        "onboard_time": 1729838359,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179707,
+        "num": 179707,
+        "word": "R1SE解散后姚琛压力没停过",
+        "onboard_time": 1729845079,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176377,
+        "num": 176377,
+        "word": "我推的孩子 男主死了",
+        "onboard_time": 1729836139,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175034,
+        "num": 175034,
+        "word": "余华英庭审现场全程发抖",
+        "onboard_time": 1729834459,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169253,
+        "num": 169253,
+        "word": "坚持跑步一年身体的变化",
+        "onboard_time": 1729836198,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168617,
+        "num": 168617,
+        "word": "赵一博发文悼念去世站姐",
+        "onboard_time": 1729830740,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163810,
+        "num": 163810,
+        "word": "读研选错导师有多严重",
+        "onboard_time": 1729841779,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157062,
+        "num": 157062,
+        "word": "王多多预测WBG进决赛",
+        "onboard_time": 1729846399,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149743,
+        "num": 149743,
+        "word": "春花焰男主男二开撕",
+        "onboard_time": 1729843518,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147520,
+        "num": 147520,
+        "word": "迪士尼万圣节的氛围感拉满了",
+        "onboard_time": 1729844418,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144744,
+        "num": 144744,
+        "word": "95后为242名志愿军老战士拍戎装照",
+        "onboard_time": 1729838898,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27157,
+        "num": 141083,
+        "word": "年轻人的表情管理大师来了",
+        "onboard_time": 1729843518,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139746,
+        "num": 139746,
+        "word": "刷的不是短视频 是倍速的伤害",
+        "onboard_time": 1729847000,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136974,
+        "num": 136974,
+        "word": "被害人家属称余华英再判死是正义胜利",
+        "onboard_time": 1729843639,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国海洋大学全体师生回信#"
+    }
+  }
+}
