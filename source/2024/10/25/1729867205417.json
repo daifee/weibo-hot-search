@@ -1,0 +1,410 @@
+{
+  "runTime": 1729867205417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1892042,
+        "num": 1892042,
+        "word": "拜登将正式道歉",
+        "onboard_time": 1729861998,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1746536,
+        "num": 1746536,
+        "word": "荣梓杉被审判",
+        "onboard_time": 1729863079,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3059,
+        "num": 1272730,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2059019,
+        "num": 1208127,
+        "word": "杨妞花爸爸吃老鼠药自杀",
+        "onboard_time": 1729865181,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928764,
+        "num": 928764,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919050,
+        "num": 919050,
+        "word": "A2O 林钰珊",
+        "onboard_time": 1729865120,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913492,
+        "num": 913492,
+        "word": "A2O",
+        "onboard_time": 1729863680,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863720,
+        "num": 863720,
+        "word": "花少 三个体面的山东人",
+        "onboard_time": 1729858818,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595862,
+        "num": 595862,
+        "word": "塔斯汀 豆角汉堡",
+        "onboard_time": 1729866320,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 547720,
+        "num": 547720,
+        "word": "覃海洋说今晚真的很幸运",
+        "onboard_time": 1729862718,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 792609,
+        "num": 536294,
+        "word": "如果我不丢爸妈就死不了",
+        "onboard_time": 1729863500,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759614,
+        "num": 528509,
+        "word": "宋茜对得起所有人 除了蒋欣",
+        "onboard_time": 1729865541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502903,
+        "num": 502903,
+        "word": "AI聊天机器人诱导美国少年自杀身亡",
+        "onboard_time": 1729861399,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493999,
+        "num": 493999,
+        "word": "李秀满A2O练习生公开",
+        "onboard_time": 1729861399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178743,
+        "num": 442580,
+        "word": "一起打卡秋天里的中国",
+        "onboard_time": 1729866260,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392883,
+        "num": 392883,
+        "word": "湖南一男子杀父骗保被刑拘",
+        "onboard_time": 1729860497,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346267,
+        "num": 346267,
+        "word": "郑钦文不吃香蕉尖尖",
+        "onboard_time": 1729854440,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250568,
+        "num": 345788,
+        "word": "华晨宇说西湖醋鱼好吃",
+        "onboard_time": 1729866140,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32566,
+        "num": 344200,
+        "word": "潘展乐新增800米自由泳项目",
+        "onboard_time": 1729866980,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16397,
+        "num": 343519,
+        "word": "郑恺是小鬼新歌的导演",
+        "onboard_time": 1729866980,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387038,
+        "num": 342003,
+        "word": "雅真的让妻子在披哥闪耀了",
+        "onboard_time": 1729864158,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341621,
+        "num": 341621,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324398,
+        "num": 324398,
+        "word": "张本智和3比2卡尔伯格",
+        "onboard_time": 1729864040,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281970,
+        "num": 281970,
+        "word": "穿山甲给自己挖了32洞小区",
+        "onboard_time": 1729862359,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280200,
+        "num": 280200,
+        "word": "徐海乔四十岁实现了二十岁的梦想",
+        "onboard_time": 1729863799,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245395,
+        "num": 245395,
+        "word": "男孩踩女童家长不道歉反骂狗都不如",
+        "onboard_time": 1729857738,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216025,
+        "num": 237783,
+        "word": "四位专家会诊海水倒灌",
+        "onboard_time": 1729863320,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237659,
+        "num": 237659,
+        "word": "宋茜 人好",
+        "onboard_time": 1729858578,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235311,
+        "num": 235311,
+        "word": "这50个项目都是诈骗",
+        "onboard_time": 1729856598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224614,
+        "num": 224614,
+        "word": "酒店订单订后即焚功能引争议",
+        "onboard_time": 1729861519,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75302,
+        "num": 222942,
+        "word": "养老服务专业本科生毕业即遭疯抢",
+        "onboard_time": 1729865239,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222934,
+        "num": 222934,
+        "word": "留几手",
+        "onboard_time": 1729866561,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220705,
+        "num": 220705,
+        "word": "田小娟不续约CUBE股价暴跌",
+        "onboard_time": 1729860318,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211613,
+        "num": 211613,
+        "word": "彭昱畅直播回应黄磊做饭好吃",
+        "onboard_time": 1729853778,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207893,
+        "num": 207893,
+        "word": "八个人吃着几百个人的饺子",
+        "onboard_time": 1729866320,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204233,
+        "num": 204233,
+        "word": "BIGBANG合体录综艺",
+        "onboard_time": 1729858520,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200474,
+        "num": 200474,
+        "word": "papi酱 黄圣依是杨子的金丝雀",
+        "onboard_time": 1729852098,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196252,
+        "num": 196252,
+        "word": "拐卖孩子的判了那买孩子的呢",
+        "onboard_time": 1729863380,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194582,
+        "num": 194582,
+        "word": "怪不得有时候老师莫名其妙就生气",
+        "onboard_time": 1729866020,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191015,
+        "num": 191015,
+        "word": "鹿晗和邓佳鑫互关",
+        "onboard_time": 1729854079,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185803,
+        "num": 185803,
+        "word": "近七旬父亲出狱后女儿不愿赡养",
+        "onboard_time": 1729866020,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180983,
+        "num": 180983,
+        "word": "司机警车内失去意识后抢救无效身亡",
+        "onboard_time": 1729866921,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170485,
+        "num": 170485,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157533,
+        "num": 157533,
+        "word": "上一季的人都正常",
+        "onboard_time": 1729862238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153777,
+        "num": 153777,
+        "word": "第一次见用保温杯吃火锅",
+        "onboard_time": 1729854259,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150349,
+        "num": 150349,
+        "word": "千万级主播带货称21天能年轻3.5岁",
+        "onboard_time": 1729861697,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145486,
+        "num": 145486,
+        "word": "哈尔滨一楼房外墙起火致2死4伤",
+        "onboard_time": 1729862779,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141983,
+        "num": 141983,
+        "word": "毒液",
+        "onboard_time": 1729859778,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141937,
+        "num": 141937,
+        "word": "汪苏泷嘉宾王源",
+        "onboard_time": 1729858158,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139582,
+        "num": 139582,
+        "word": "律师解读余华英被判死刑要上诉",
+        "onboard_time": 1729851979,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何汇聚全球南方磅礴力量#"
+    }
+  }
+}

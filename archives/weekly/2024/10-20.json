@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729866071558,
+  "endTime": 1729867205417,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -281,6 +281,14 @@
       "onboard_time": 1729761739,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2059019,
+      "num": 1208127,
+      "word": "杨妞花爸爸吃老鼠药自杀",
+      "onboard_time": 1729865181,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2028587,
@@ -1691,12 +1699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919050,
+      "num": 919050,
+      "word": "A2O 林钰珊",
+      "onboard_time": 1729865120,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 914539,
       "num": 366705,
       "word": "南航一架波音飞机疑似发生着陆事故",
       "onboard_time": 1729741637,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913492,
+      "num": 913492,
+      "word": "A2O",
+      "onboard_time": 1729863680,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 912967,
@@ -2035,14 +2059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 825244,
-      "num": 825244,
-      "word": "A2O",
-      "onboard_time": 1729863680,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 821907,
       "num": 640109,
       "word": "kimi",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1729664958,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 759614,
+      "num": 528509,
+      "word": "宋茜对得起所有人 除了蒋欣",
+      "onboard_time": 1729865541,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 758513,
@@ -3075,6 +3099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 595862,
+      "num": 595862,
+      "word": "塔斯汀 豆角汉堡",
+      "onboard_time": 1729866320,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 595649,
       "num": 533388,
       "word": "手工耿否认停更是因为挣太多了",
@@ -3667,14 +3699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508722,
-      "num": 508722,
-      "word": "A2O 林钰珊",
-      "onboard_time": 1729865120,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 507208,
       "num": 507208,
       "word": "BLG战胜G2暂停真相",
@@ -3769,14 +3793,6 @@
       "onboard_time": 1729835718,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 488507,
-      "num": 488507,
-      "word": "杨妞花爸爸吃老鼠药自杀",
-      "onboard_time": 1729865181,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484514,
@@ -4595,6 +4611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387038,
+      "num": 354829,
+      "word": "雅真的让妻子在披哥闪耀了",
+      "onboard_time": 1729864158,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386453,
       "num": 338938,
       "word": "覃海洋夺冠后狠狠拍水",
@@ -4929,14 +4953,6 @@
       "onboard_time": 1729513157,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354829,
-      "num": 354829,
-      "word": "雅真的让妻子在披哥闪耀了",
-      "onboard_time": 1729864158,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 353011,
@@ -5795,14 +5811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 295388,
-      "num": 264700,
-      "word": "宋茜对得起所有人 除了蒋欣",
-      "onboard_time": 1729865541,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295069,
       "num": 273071,
       "word": "李晋晔断层第一",
@@ -6097,6 +6105,14 @@
       "onboard_time": 1729595239,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280200,
+      "num": 280200,
+      "word": "徐海乔四十岁实现了二十岁的梦想",
+      "onboard_time": 1729863799,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 280196,
@@ -6651,6 +6667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250568,
+      "num": 345788,
+      "word": "华晨宇说西湖醋鱼好吃",
+      "onboard_time": 1729866140,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 250361,
       "num": 250361,
       "word": "R1SE解散后姚琛压力没停过",
@@ -6673,14 +6697,6 @@
       "onboard_time": 1729422680,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 249719,
-      "num": 249719,
-      "word": "徐海乔四十岁实现了二十岁的梦想",
-      "onboard_time": 1729863799,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 249677,
@@ -7411,6 +7427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222934,
+      "num": 222934,
+      "word": "留几手",
+      "onboard_time": 1729866561,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222888,
       "num": 222888,
       "word": "贾静雯短发",
@@ -7680,6 +7704,14 @@
       "word": "小学生课间嬉闹致同学受伤谁担责",
       "onboard_time": 1729626431,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216025,
+      "num": 566201,
+      "word": "四位专家会诊海水倒灌",
+      "onboard_time": 1729863320,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -8089,6 +8121,14 @@
       "onboard_time": 1729772598,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207893,
+      "num": 207893,
+      "word": "八个人吃着几百个人的饺子",
+      "onboard_time": 1729866320,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 207447,
@@ -8739,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194582,
+      "num": 194582,
+      "word": "怪不得有时候老师莫名其妙就生气",
+      "onboard_time": 1729866020,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 194502,
       "num": 194502,
       "word": "巴萨4比1拜仁",
@@ -9283,6 +9331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185803,
+      "num": 185803,
+      "word": "近七旬父亲出狱后女儿不愿赡养",
+      "onboard_time": 1729866020,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185408,
       "num": 185408,
       "word": "刘诗诗鎏金风格大片",
@@ -9531,6 +9587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180983,
+      "num": 180983,
+      "word": "司机警车内失去意识后抢救无效身亡",
+      "onboard_time": 1729866921,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180775,
       "num": 227779,
       "word": "檀健次影视角色TOP1",
@@ -9584,6 +9648,14 @@
       "word": "重庆抗美援朝老兵回忆峥嵘岁月",
       "onboard_time": 1729859838,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178743,
+      "num": 442580,
+      "word": "一起打卡秋天里的中国",
+      "onboard_time": 1729516820,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -9777,14 +9849,6 @@
       "onboard_time": 1729588278,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174241,
-      "num": 174241,
-      "word": "怪不得有时候老师莫名其妙就生气",
-      "onboard_time": 1729866020,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 174218,
@@ -11035,6 +11099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150349,
+      "num": 256971,
+      "word": "千万级主播带货称21天能年轻3.5岁",
+      "onboard_time": 1729861697,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150271,
       "num": 150271,
       "word": "韩国国脚金玟哉宣布离婚",
@@ -11057,14 +11129,6 @@
       "onboard_time": 1729617614,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 149972,
-      "num": 566201,
-      "word": "四位专家会诊海水倒灌",
-      "onboard_time": 1729863320,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149878,
@@ -11323,6 +11387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145486,
+      "num": 145486,
+      "word": "哈尔滨一楼房外墙起火致2死4伤",
+      "onboard_time": 1729862779,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145400,
       "num": 130781,
       "word": "王一博登上冠军领奖台",
@@ -11400,14 +11472,6 @@
       "word": "三星堆玉石器材质已辨认出19种",
       "onboard_time": 1729568359,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144280,
-      "num": 144280,
-      "word": "哈尔滨一楼房外墙起火致2死4伤",
-      "onboard_time": 1729862779,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -12851,14 +12915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118847,
-      "num": 118847,
-      "word": "近七旬父亲出狱后女儿不愿赡养",
-      "onboard_time": 1729866020,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118828,
       "num": 118828,
       "word": "F1美国站勒克莱尔夺冠",
@@ -13153,14 +13209,6 @@
       "onboard_time": 1729493839,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113615,
-      "num": 113615,
-      "word": "一起打卡秋天里的中国",
-      "onboard_time": 1729516820,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113293,
@@ -14443,6 +14491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75302,
+      "num": 497707,
+      "word": "养老服务专业本科生毕业即遭疯抢",
+      "onboard_time": 1729865239,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74632,
       "num": 282139,
       "word": "男子偷快递摆地摊卖",
@@ -14744,14 +14800,6 @@
       "word": "美国拟部分撤消中国光伏电池双反税",
       "onboard_time": 1729666578,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65569,
-      "num": 256971,
-      "word": "千万级主播带货称21天能年轻3.5岁",
-      "onboard_time": 1729861697,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -15536,14 +15584,6 @@
       "word": "东北雨X变形账号名风靡",
       "onboard_time": 1729605801,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45034,
-      "num": 497707,
-      "word": "养老服务专业本科生毕业即遭疯抢",
-      "onboard_time": 1729865239,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -16353,6 +16393,14 @@
       "onboard_time": 1729749499,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32566,
+      "num": 344200,
+      "word": "潘展乐新增800米自由泳项目",
+      "onboard_time": 1729866980,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 32488,
@@ -17401,6 +17449,14 @@
       "onboard_time": 1729390158,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16397,
+      "num": 343519,
+      "word": "郑恺是小鬼新歌的导演",
+      "onboard_time": 1729866980,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 16322,
