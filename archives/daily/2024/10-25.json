@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729841826981,
+  "endTime": 1729844908629,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -24,6 +24,14 @@
       "word": "曝周雨彤送金晨的礼物是假货",
       "onboard_time": 1729783881,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2260365,
+      "num": 2260365,
+      "word": "周雨彤怕别人想吃她的零食",
+      "onboard_time": 1729841598,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1529215,
+      "num": 1529215,
+      "word": "钟自然涉嫌故意泄露国家秘密",
+      "onboard_time": 1729840698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1478285,
       "num": 578452,
       "word": "热河去世",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1344381,
-      "num": 264161,
+      "num": 265648,
       "word": "鸿蒙微信",
       "onboard_time": 1729837817,
       "rank": 47,
@@ -120,6 +136,14 @@
       "word": "为啥莫名其妙就开了先用后付",
       "onboard_time": 1729836258,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173832,
+      "num": 407727,
+      "word": "余华英在雪糕上下药拐走孩子",
+      "onboard_time": 1729840217,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -203,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 758513,
+      "num": 758513,
+      "word": "杨子说不到1年将回归家庭",
+      "onboard_time": 1729839738,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 753939,
       "num": 228303,
       "word": "网传客户出轨LV柜姐后原配来闹事",
@@ -217,14 +249,6 @@
       "onboard_time": 1729829060,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 746823,
-      "num": 746823,
-      "word": "杨子说不到1年将回归家庭",
-      "onboard_time": 1729839738,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 707428,
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509235,
-      "num": 368133,
-      "word": "余华英在雪糕上下药拐走孩子",
-      "onboard_time": 1729840217,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489156,
       "num": 415883,
       "word": "成毅被吓得撤回一个摘口罩",
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449114,
+      "num": 382694,
+      "word": "黄晓明秃头海报",
+      "onboard_time": 1729842918,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 438551,
       "num": 438551,
       "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
@@ -523,11 +547,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412774,
+      "num": 412774,
+      "word": "王铮亮总决赛第二",
+      "onboard_time": 1729843218,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409087,
       "num": 409087,
       "word": "陈钰琪出演赴山海",
       "onboard_time": 1729832241,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 405994,
+      "num": 405994,
+      "word": "大梦归离",
+      "onboard_time": 1729842859,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -553,6 +593,14 @@
       "onboard_time": 1729819818,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381364,
+      "num": 381364,
+      "word": "连孟子义张予曦都认证的撞脸",
+      "onboard_time": 1729843338,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 373947,
@@ -617,6 +665,14 @@
       "onboard_time": 1729820478,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 319647,
+      "num": 319647,
+      "word": "被害人家属称余华英再判死是正义胜利",
+      "onboard_time": 1729843639,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311052,
@@ -699,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284373,
+      "num": 284373,
+      "word": "小米手环9Pro",
+      "onboard_time": 1729839798,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 281438,
       "num": 451966,
       "word": "志愿军出国作战74周年",
@@ -755,20 +819,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253336,
-      "num": 239534,
-      "word": "小米手环9Pro",
-      "onboard_time": 1729839798,
-      "rank": 36,
-      "category": "数码"
+      "raw_hot": 253771,
+      "num": 253771,
+      "word": "中国式的极致浪漫在这一刻具象化了",
+      "onboard_time": 1729839078,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 248385,
-      "num": 248385,
-      "word": "周雨彤怕别人想吃她的零食",
-      "onboard_time": 1729841598,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 246332,
+      "num": 246332,
+      "word": "鹿晗关注TFING",
+      "onboard_time": 1729843939,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 243937,
@@ -803,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232900,
+      "num": 410418,
+      "word": "一觉醒来每月房贷少了近千元",
+      "onboard_time": 1729843639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232748,
       "num": 232748,
       "word": "美宣布向乌提供200亿美元贷款",
@@ -817,6 +889,14 @@
       "onboard_time": 1729833020,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231582,
+      "num": 231582,
+      "word": "春花焰男主男二开撕",
+      "onboard_time": 1729843518,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 230847,
@@ -851,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223288,
+      "num": 223288,
+      "word": "陈梦为巴黎奥运会做金色美甲",
+      "onboard_time": 1729844597,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219815,
       "num": 365873,
       "word": "赴山海官宣杀青",
@@ -883,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206850,
+      "num": 206850,
+      "word": "江映蓉说秦奋真的很勤奋",
+      "onboard_time": 1729843158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204907,
       "num": 534544,
       "word": "火星哥发韩文感谢粉丝",
@@ -905,6 +1001,14 @@
       "onboard_time": 1729818918,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "李子柒团队回应何时更新",
+      "onboard_time": 1729844659,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 200950,
@@ -1011,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183502,
+      "num": 183502,
+      "word": "金砖+领导人对话会",
+      "onboard_time": 1729843579,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182264,
       "num": 182264,
       "word": "陈梦给现在的自己打10分",
@@ -1065,6 +1177,14 @@
       "onboard_time": 1729840278,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174862,
+      "num": 174862,
+      "word": "迪士尼万圣节的氛围感拉满了",
+      "onboard_time": 1729844418,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 174735,
@@ -1161,14 +1281,6 @@
       "onboard_time": 1729841297,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151959,
-      "num": 151959,
-      "word": "中国式的极致浪漫在这一刻具象化了",
-      "onboard_time": 1729839078,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150956,
@@ -1435,14 +1547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111373,
-      "num": 375787,
-      "word": "钟自然涉嫌故意泄露国家秘密",
-      "onboard_time": 1729840698,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110642,
       "num": 110642,
       "word": "小米15沿用顶部无孔化设计",
@@ -1515,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97860,
+      "num": 394035,
+      "word": "被拐儿童再次见到余华英哭了",
+      "onboard_time": 1729843399,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96291,
       "num": 354573,
       "word": "男子5岁被余华英拐走卖到邯郸",
@@ -1568,6 +1680,14 @@
       "word": "林高远1比3杜达",
       "onboard_time": 1729778181,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84494,
+      "num": 386564,
+      "word": "潘展乐说400自是以赛代练",
+      "onboard_time": 1729844118,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1739,20 +1859,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45539,
+      "num": 357069,
+      "word": "华为nova在玩一种很新的开箱",
+      "onboard_time": 1729839798,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42824,
       "num": 161819,
       "word": "浙江一村庄疑改地名骗政府专项资金",
       "onboard_time": 1729835778,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40207,
-      "num": 357069,
-      "word": "华为nova在玩一种很新的开箱",
-      "onboard_time": 1729839798,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 39367,
@@ -1785,6 +1905,14 @@
       "onboard_time": 1729794493,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35143,
+      "num": 388422,
+      "word": "李克勤黑泽良平雅尤长靖斗牛",
+      "onboard_time": 1729844779,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 34202,
@@ -1827,6 +1955,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 30604,
+      "num": 391537,
+      "word": "大金砖合作高光时刻",
+      "onboard_time": 1729818139,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 30517,
+      "num": 284504,
+      "word": "年轻人的表情管理大师来了",
+      "onboard_time": 1729843518,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29920,
       "num": 356280,
       "word": "法律将严惩每一个打孩子主意的坏人",
@@ -1851,11 +1995,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25974,
+      "num": 266961,
+      "word": "如何看待网络主播打造精英人设",
+      "onboard_time": 1729844239,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25049,
       "num": 30077,
       "word": "众多网友用自身经历鼓励烧伤妈妈",
       "onboard_time": 1729792752,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23569,
+      "num": 384710,
+      "word": "对话梅姨案最后一名被拐儿童父亲",
+      "onboard_time": 1729843939,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1872,6 +2032,14 @@
       "word": "对话余华英案被害人杨妞花",
       "onboard_time": 1729803910,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19451,
+      "num": 411387,
+      "word": "全年粮食再获丰收",
+      "onboard_time": 1729844597,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 14305,
+      "num": 265748,
+      "word": "中国始终心系全球南方扎根全球南方",
+      "onboard_time": 1729829179,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13489,
       "num": 31382,
       "word": "建设和平创新绿色公正人文金砖",
@@ -1953,6 +2129,14 @@
       "onboard_time": 1729841659,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10176,
+      "num": 814757,
+      "word": "金砖国家走到一起是基于共同追求",
+      "onboard_time": 1729844718,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5625,
@@ -1991,6 +2175,9 @@
     },
     {
       "word": "#习主席的金砖峰会时间#"
+    },
+    {
+      "word": "#中国始终心系全球南方扎根全球南方#"
     }
   ]
 }

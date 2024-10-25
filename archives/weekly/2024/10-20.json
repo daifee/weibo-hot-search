@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729841826981,
+  "endTime": 1729844908629,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -169,6 +169,14 @@
       "onboard_time": 1729762398,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 2260365,
+      "num": 2260365,
+      "word": "周雨彤怕别人想吃她的零食",
+      "onboard_time": 1729841598,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 2240679,
@@ -587,6 +595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1529215,
+      "num": 1529215,
+      "word": "钟自然涉嫌故意泄露国家秘密",
+      "onboard_time": 1729840698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1526774,
       "num": 1526774,
       "word": "付航脱口秀 内涵",
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 1344381,
-      "num": 264161,
+      "num": 265648,
       "word": "鸿蒙微信",
       "onboard_time": 1729837817,
       "rank": 47,
@@ -992,6 +1008,14 @@
       "word": "马尔代夫潜水溺亡医学博士为家中独子",
       "onboard_time": 1729592542,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173832,
+      "num": 407727,
+      "word": "余华英在雪糕上下药拐走孩子",
+      "onboard_time": 1729840217,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2091,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 758513,
+      "num": 758513,
+      "word": "杨子说不到1年将回归家庭",
+      "onboard_time": 1729839738,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756454,
       "num": 601395,
       "word": "ILLIT aespa",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1729520120,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 746823,
-      "num": 746823,
-      "word": "杨子说不到1年将回归家庭",
-      "onboard_time": 1729839738,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 743154,
@@ -3411,14 +3435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509235,
-      "num": 368133,
-      "word": "余华英在雪糕上下药拐走孩子",
-      "onboard_time": 1729840217,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507208,
       "num": 507208,
       "word": "BLG战胜G2暂停真相",
@@ -3755,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449114,
+      "num": 382694,
+      "word": "黄晓明秃头海报",
+      "onboard_time": 1729842918,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 449039,
       "num": 449039,
       "word": "TheShy和Rookie疑似回归iG",
@@ -4059,6 +4083,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 412774,
+      "num": 412774,
+      "word": "王铮亮总决赛第二",
+      "onboard_time": 1729843218,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412343,
       "num": 412343,
       "word": "警方回应男子篮球场飞踹女孩",
@@ -4161,6 +4193,14 @@
       "onboard_time": 1729424360,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 405994,
+      "num": 405994,
+      "word": "大梦归离",
+      "onboard_time": 1729842859,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 404544,
@@ -4305,6 +4345,14 @@
       "onboard_time": 1729754478,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381364,
+      "num": 381364,
+      "word": "连孟子义张予曦都认证的撞脸",
+      "onboard_time": 1729843338,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 380641,
@@ -5027,6 +5075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319647,
+      "num": 319647,
+      "word": "被害人家属称余华英再判死是正义胜利",
+      "onboard_time": 1729843639,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318940,
       "num": 278481,
       "word": "羊驼肉女士",
@@ -5603,6 +5659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284373,
+      "num": 284373,
+      "word": "小米手环9Pro",
+      "onboard_time": 1729839798,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 283652,
       "num": 252793,
       "word": "安静公主",
@@ -6099,20 +6163,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253771,
+      "num": 253771,
+      "word": "中国式的极致浪漫在这一刻具象化了",
+      "onboard_time": 1729839078,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253437,
       "num": 253437,
       "word": "江西一男子拒服兵役受7项联合惩戒",
       "onboard_time": 1729666997,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253336,
-      "num": 239534,
-      "word": "小米手环9Pro",
-      "onboard_time": 1729839798,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 252908,
@@ -6195,14 +6259,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 248385,
-      "num": 248385,
-      "word": "周雨彤怕别人想吃她的零食",
-      "onboard_time": 1729841598,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248299,
       "num": 248299,
       "word": "四川长虹",
@@ -6233,6 +6289,14 @@
       "onboard_time": 1729398978,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246332,
+      "num": 246332,
+      "word": "鹿晗关注TFING",
+      "onboard_time": 1729843939,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 245991,
@@ -6547,6 +6611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232900,
+      "num": 410418,
+      "word": "一觉醒来每月房贷少了近千元",
+      "onboard_time": 1729843639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232748,
       "num": 232748,
       "word": "美宣布向乌提供200亿美元贷款",
@@ -6585,6 +6657,14 @@
       "onboard_time": 1729833020,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231582,
+      "num": 231582,
+      "word": "春花焰男主男二开撕",
+      "onboard_time": 1729843518,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 231466,
@@ -6873,6 +6953,14 @@
       "onboard_time": 1729486041,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223288,
+      "num": 223288,
+      "word": "陈梦为巴黎奥运会做金色美甲",
+      "onboard_time": 1729844597,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 222888,
@@ -7539,6 +7627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206850,
+      "num": 206850,
+      "word": "江映蓉说秦奋真的很勤奋",
+      "onboard_time": 1729843158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206577,
       "num": 206577,
       "word": "杨子 黄圣依",
@@ -7665,6 +7761,14 @@
       "onboard_time": 1729570999,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "李子柒团队回应何时更新",
+      "onboard_time": 1729844659,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 204198,
@@ -8747,6 +8851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183502,
+      "num": 183502,
+      "word": "金砖+领导人对话会",
+      "onboard_time": 1729843579,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183388,
       "num": 183388,
       "word": "中国首部电竞纪录片电影",
@@ -9041,6 +9153,14 @@
       "onboard_time": 1729601660,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174862,
+      "num": 174862,
+      "word": "迪士尼万圣节的氛围感拉满了",
+      "onboard_time": 1729844418,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 174272,
@@ -10121,14 +10241,6 @@
       "onboard_time": 1729726336,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151959,
-      "num": 151959,
-      "word": "中国式的极致浪漫在这一刻具象化了",
-      "onboard_time": 1729839078,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151958,
@@ -12275,14 +12387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111373,
-      "num": 375787,
-      "word": "钟自然涉嫌故意泄露国家秘密",
-      "onboard_time": 1729840698,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111187,
       "num": 111187,
       "word": "Hani未婚夫不承认医疗过失",
@@ -12755,6 +12859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97860,
+      "num": 394035,
+      "word": "被拐儿童再次见到余华英哭了",
+      "onboard_time": 1729843399,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97591,
       "num": 391377,
       "word": "A股首单增持贷款落地",
@@ -13097,6 +13209,14 @@
       "onboard_time": 1729692199,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84494,
+      "num": 386564,
+      "word": "潘展乐说400自是以赛代练",
+      "onboard_time": 1729844118,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 83511,
@@ -14403,6 +14523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45539,
+      "num": 357069,
+      "word": "华为nova在玩一种很新的开箱",
+      "onboard_time": 1729839798,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45525,
       "num": 224504,
       "word": "教育局称小学生坠井身亡系意外",
@@ -14617,14 +14745,6 @@
       "onboard_time": 1729490718,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40207,
-      "num": 357069,
-      "word": "华为nova在玩一种很新的开箱",
-      "onboard_time": 1729839798,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 39991,
@@ -15003,6 +15123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35143,
+      "num": 388422,
+      "word": "李克勤黑泽良平雅尤长靖斗牛",
+      "onboard_time": 1729844779,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35112,
       "num": 217261,
       "word": "陈梦鲁豫圆梦环球影城",
@@ -15363,6 +15491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30604,
+      "num": 391537,
+      "word": "大金砖合作高光时刻",
+      "onboard_time": 1729818139,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 30517,
+      "num": 284504,
+      "word": "年轻人的表情管理大师来了",
+      "onboard_time": 1729843518,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30478,
       "num": 314589,
       "word": "复古相机成年轻人的新理财",
@@ -15675,6 +15819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25974,
+      "num": 266961,
+      "word": "如何看待网络主播打造精英人设",
+      "onboard_time": 1729844239,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25677,
       "num": 51342,
       "word": "神十九近日将择机发射",
@@ -15825,6 +15977,14 @@
       "onboard_time": 1729712472,
       "rank": 31,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 23569,
+      "num": 384710,
+      "word": "对话梅姨案最后一名被拐儿童父亲",
+      "onboard_time": 1729843939,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23442,
@@ -16056,6 +16216,14 @@
       "word": "海尔爆品支持花呗分期12期免息",
       "onboard_time": 1729512797,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19451,
+      "num": 411387,
+      "word": "全年粮食再获丰收",
+      "onboard_time": 1729844597,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -16307,6 +16475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 14305,
+      "num": 265748,
+      "word": "中国始终心系全球南方扎根全球南方",
+      "onboard_time": 1729829179,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14280,
       "num": 369389,
       "word": "俄罗斯街头明信片接力",
@@ -16523,6 +16699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10176,
+      "num": 814757,
+      "word": "金砖国家走到一起是基于共同追求",
+      "onboard_time": 1729844718,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9721,
       "num": 26187,
       "word": "直击2024北外滩国际航运论坛",
@@ -16711,6 +16895,9 @@
     },
     {
       "word": "#汇聚全球南方磅礴力量#"
+    },
+    {
+      "word": "#中国始终心系全球南方扎根全球南方#"
     }
   ]
 }

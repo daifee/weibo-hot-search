@@ -1,0 +1,410 @@
+{
+  "runTime": 1729844908629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2260365,
+        "num": 2260365,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1529215,
+        "num": 1529215,
+        "word": "钟自然涉嫌故意泄露国家秘密",
+        "onboard_time": 1729840698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10176,
+        "num": 814757,
+        "word": "金砖国家走到一起是基于共同追求",
+        "onboard_time": 1729844718,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 758513,
+        "num": 758513,
+        "word": "杨子说不到1年将回归家庭",
+        "onboard_time": 1729839738,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709273,
+        "num": 709273,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634931,
+        "num": 634931,
+        "word": "为啥莫名其妙就开了先用后付",
+        "onboard_time": 1729836258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501212,
+        "num": 501212,
+        "word": "尤长靖披哥史上最年轻总冠军",
+        "onboard_time": 1729834338,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412774,
+        "num": 412774,
+        "word": "王铮亮总决赛第二",
+        "onboard_time": 1729843218,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19451,
+        "num": 411387,
+        "word": "全年粮食再获丰收",
+        "onboard_time": 1729844597,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232900,
+        "num": 410418,
+        "word": "一觉醒来每月房贷少了近千元",
+        "onboard_time": 1729843639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173832,
+        "num": 407727,
+        "word": "余华英在雪糕上下药拐走孩子",
+        "onboard_time": 1729840217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510100,
+        "num": 406810,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405994,
+        "num": 405994,
+        "word": "大梦归离",
+        "onboard_time": 1729842859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97860,
+        "num": 394035,
+        "word": "被拐儿童再次见到余华英哭了",
+        "onboard_time": 1729843399,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392046,
+        "num": 392046,
+        "word": "李行亮麦琳吵架",
+        "onboard_time": 1729838359,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30604,
+        "num": 391537,
+        "word": "大金砖合作高光时刻",
+        "onboard_time": 1729818139,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 438843,
+        "num": 389455,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35143,
+        "num": 388422,
+        "word": "李克勤黑泽良平雅尤长靖斗牛",
+        "onboard_time": 1729844779,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84494,
+        "num": 386564,
+        "word": "潘展乐说400自是以赛代练",
+        "onboard_time": 1729844118,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23569,
+        "num": 384710,
+        "word": "对话梅姨案最后一名被拐儿童父亲",
+        "onboard_time": 1729843939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449114,
+        "num": 382694,
+        "word": "黄晓明秃头海报",
+        "onboard_time": 1729842918,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381364,
+        "num": 381364,
+        "word": "连孟子义张予曦都认证的撞脸",
+        "onboard_time": 1729843338,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354226,
+        "num": 354226,
+        "word": "Hybe承认BTS音源注水",
+        "onboard_time": 1729832120,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349273,
+        "num": 349273,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345287,
+        "num": 345287,
+        "word": "100万房贷20年少还近9万",
+        "onboard_time": 1729830921,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319647,
+        "num": 319647,
+        "word": "被害人家属称余华英再判死是正义胜利",
+        "onboard_time": 1729843639,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291076,
+        "num": 291076,
+        "word": "赵一博发文悼念去世站姐",
+        "onboard_time": 1729830740,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30517,
+        "num": 284504,
+        "word": "年轻人的表情管理大师来了",
+        "onboard_time": 1729843518,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284373,
+        "num": 284373,
+        "word": "小米手环9Pro",
+        "onboard_time": 1729839798,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25974,
+        "num": 266961,
+        "word": "如何看待网络主播打造精英人设",
+        "onboard_time": 1729844239,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14305,
+        "num": 265748,
+        "word": "中国始终心系全球南方扎根全球南方",
+        "onboard_time": 1729829179,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 533503,
+        "num": 265648,
+        "word": "鸿蒙微信",
+        "onboard_time": 1729837817,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265354,
+        "num": 265354,
+        "word": "保时捷售价跌破40万",
+        "onboard_time": 1729830441,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 253771,
+        "num": 253771,
+        "word": "中国式的极致浪漫在这一刻具象化了",
+        "onboard_time": 1729839078,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252004,
+        "num": 252004,
+        "word": "余华英庭审现场全程发抖",
+        "onboard_time": 1729834459,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45539,
+        "num": 246634,
+        "word": "华为nova在玩一种很新的开箱",
+        "onboard_time": 1729839798,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246332,
+        "num": 246332,
+        "word": "鹿晗关注TFING",
+        "onboard_time": 1729843939,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239156,
+        "num": 239156,
+        "word": "坚持跑步一年身体的变化",
+        "onboard_time": 1729836198,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 231582,
+        "num": 231582,
+        "word": "春花焰男主男二开撕",
+        "onboard_time": 1729843518,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223288,
+        "num": 223288,
+        "word": "陈梦为巴黎奥运会做金色美甲",
+        "onboard_time": 1729844597,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210781,
+        "num": 210781,
+        "word": "95后为242名志愿军老战士拍戎装照",
+        "onboard_time": 1729838898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206850,
+        "num": 206850,
+        "word": "江映蓉说秦奋真的很勤奋",
+        "onboard_time": 1729843158,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204271,
+        "num": 204271,
+        "word": "李子柒团队回应何时更新",
+        "onboard_time": 1729844659,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203629,
+        "num": 203629,
+        "word": "我推的孩子 男主死了",
+        "onboard_time": 1729836139,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183502,
+        "num": 183502,
+        "word": "金砖+领导人对话会",
+        "onboard_time": 1729843579,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180347,
+        "num": 180347,
+        "word": "放弃上亿家产只为一句道歉",
+        "onboard_time": 1729827981,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174862,
+        "num": 174862,
+        "word": "迪士尼万圣节的氛围感拉满了",
+        "onboard_time": 1729844418,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 170048,
+        "num": 170048,
+        "word": "田小娟离开CUBE不续约",
+        "onboard_time": 1729824439,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169699,
+        "num": 169699,
+        "word": "余华英被判死刑是告慰亦是震慑",
+        "onboard_time": 1729834519,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167720,
+        "num": 167720,
+        "word": "ENHYPEN专辑销量注水",
+        "onboard_time": 1729841537,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国始终心系全球南方扎根全球南方#"
+    }
+  }
+}
