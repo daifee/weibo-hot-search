@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/26 00:28:02 ~ 2024/10/26 03:35:39
+本榜单时间：2024/10/26 00:28:02 ~ 2024/10/26 04:24:44
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ papi酱 黄圣依是杨子的金丝雀（热度：88682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8F%91%E7%9A%84%E9%B8%A1%E8%85%BF%E6%9C%89%E9%B8%A1%E6%AF%9B%23" target="weibo">
+官方通报幼儿园发的鸡腿有鸡毛（热度：39257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E5%85%BB%E7%8B%97%E4%BA%BA%E6%99%AE%E9%81%8D%E5%8F%AA%E8%AE%A4%E7%8B%97%E4%B8%8D%E8%AE%A4%E4%BA%BA%23" target="weibo">
 发现养狗人普遍只认狗不认人（热度：36009）
 </a>
@@ -393,8 +399,26 @@ papi酱 黄圣依是杨子的金丝雀（热度：88682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23100%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%80%95%E6%98%8E%E5%B9%B4%E4%B8%8D%E8%83%BD%E7%BB%99%E5%AD%99%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%23" target="weibo">
+100岁奶奶怕明年不能给孙子过生日（热度：24309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E6%88%98%E6%AD%8C%E6%89%8B%E7%AC%AC%E5%85%AB%E6%9C%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
+下一战歌手第八期直播（热度：19779）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%94%A8%E4%B8%80%E8%85%94%E7%83%AD%E8%A1%80%E6%8B%BC%E6%9D%A5%E5%AE%B6%E5%9B%BD%E5%AE%89%E5%AE%81%23" target="weibo">
 他们用一腔热血拼来家国安宁（热度：12555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%995%E5%A4%A93%E4%B8%87%E4%BD%99%E7%B2%92%E5%AD%90%E6%89%8B%E7%BB%98%E7%A7%8B%E5%A4%A9%23" target="weibo">
+95后小伙5天3万余粒子手绘秋天（热度：10112）
 </a>
 </li>
 

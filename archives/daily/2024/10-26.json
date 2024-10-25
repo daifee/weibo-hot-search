@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729884939172,
+  "endTime": 1729887884391,
   "band_list": [
     {
       "raw_hot": 1051052,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39257,
+      "num": 39257,
+      "word": "官方通报幼儿园发的鸡腿有鸡毛",
+      "onboard_time": 1729885331,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36009,
       "num": 36009,
       "word": "发现养狗人普遍只认狗不认人",
@@ -507,11 +515,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24309,
+      "num": 36884,
+      "word": "100岁奶奶怕明年不能给孙子过生日",
+      "onboard_time": 1729885692,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19779,
+      "num": 19779,
+      "word": "下一战歌手第八期直播",
+      "onboard_time": 1729885871,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12555,
       "num": 37253,
       "word": "他们用一腔热血拼来家国安宁",
       "onboard_time": 1729884792,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10112,
+      "num": 22685,
+      "word": "95后小伙5天3万余粒子手绘秋天",
+      "onboard_time": 1729887851,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
