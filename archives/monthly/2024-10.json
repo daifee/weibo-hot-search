@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729852886655,
+  "endTime": 1729855150794,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -8979,6 +8979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747388,
+      "num": 1119582,
+      "word": "papi酱 黄圣依是杨子的金丝雀",
+      "onboard_time": 1729852098,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747235,
       "num": 1119557,
       "word": "HPV疫苗已降到20多元1支",
@@ -10739,6 +10747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655705,
+      "num": 600805,
+      "word": "彭昱畅直播回应黄磊做饭好吃",
+      "onboard_time": 1729853778,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654051,
       "num": 399186,
       "word": "00后贷款10万炒股倒赔7000元",
@@ -11715,6 +11731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617218,
+      "num": 617218,
+      "word": "研究发现怀孕会令大脑变小",
+      "onboard_time": 1729852879,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616890,
       "num": 315898,
       "word": "Minnie走秀",
@@ -12073,6 +12097,14 @@
       "onboard_time": 1729132701,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599277,
+      "num": 599277,
+      "word": "郑钦文连丢6局",
+      "onboard_time": 1729851739,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 599044,
@@ -12785,6 +12817,14 @@
       "onboard_time": 1728003078,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 570791,
+      "num": 244980,
+      "word": "百万粉丝网红编造虚假身世卖惨被抓",
+      "onboard_time": 1729851137,
+      "rank": 23,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 570054,
@@ -15441,6 +15481,14 @@
       "onboard_time": 1729599259,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476161,
+      "num": 186384,
+      "word": "34岁女生在英国留学的堕落之夜",
+      "onboard_time": 1729852997,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 476062,
@@ -20811,6 +20859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 338560,
+      "num": 205500,
+      "word": "鹿晗和邓佳鑫互关",
+      "onboard_time": 1729854079,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 338485,
       "num": 338485,
       "word": "亚锦赛直播",
@@ -22755,14 +22811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304500,
-      "num": 152220,
-      "word": "郑钦文连丢6局",
-      "onboard_time": 1729851739,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304479,
       "num": 248569,
       "word": "班级群情绪失控老师已请假休息",
@@ -22841,14 +22889,6 @@
       "onboard_time": 1729569019,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303020,
-      "num": 226859,
-      "word": "百万粉丝网红编造虚假身世卖惨被抓",
-      "onboard_time": 1729851137,
-      "rank": 23,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 302958,
@@ -23089,6 +23129,14 @@
       "onboard_time": 1729836139,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 299554,
+      "num": 182909,
+      "word": "郑钦文不吃香蕉尖尖",
+      "onboard_time": 1729854440,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 299520,
@@ -23353,14 +23401,6 @@
       "onboard_time": 1728883759,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 296631,
-      "num": 296631,
-      "word": "papi酱 黄圣依是杨子的金丝雀",
-      "onboard_time": 1729852098,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 296610,
@@ -24025,6 +24065,14 @@
       "onboard_time": 1728622943,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 289040,
+      "num": 181136,
+      "word": "读研前后我眼中的奢侈品",
+      "onboard_time": 1729852997,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 288948,
@@ -28252,7 +28300,7 @@
     },
     {
       "raw_hot": 241885,
-      "num": 150758,
+      "num": 213835,
       "word": "中方回应中印军队从中印边境撤退",
       "onboard_time": 1729851678,
       "rank": 46,
@@ -33803,6 +33851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204196,
+      "num": 204196,
+      "word": "TF三代台历",
+      "onboard_time": 1729854259,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204171,
       "num": 204171,
       "word": "余华英作案时用年幼女儿当拐卖幌子",
@@ -35665,6 +35721,14 @@
       "onboard_time": 1729341440,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197160,
+      "num": 197160,
+      "word": "好团圆00后嫁40岁离婚有娃总裁",
+      "onboard_time": 1729853658,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 197126,
@@ -40083,12 +40147,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180417,
+      "num": 180417,
+      "word": "TTG对战EDGM",
+      "onboard_time": 1729854319,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180401,
       "num": 161368,
       "word": "苏新皓E人的极限在哪里",
       "onboard_time": 1728292043,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180312,
+      "num": 180312,
+      "word": "第一次见用保温杯吃火锅",
+      "onboard_time": 1729854259,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 180273,
@@ -43763,6 +43843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163849,
+      "num": 314832,
+      "word": "杨妞花曾以为余华英会把她送回家",
+      "onboard_time": 1729850658,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163844,
       "num": 163844,
       "word": "珉佑",
@@ -44777,6 +44865,14 @@
       "onboard_time": 1728605540,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159634,
+      "num": 195496,
+      "word": "汪苏泷上海",
+      "onboard_time": 1729854617,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 159624,
@@ -45852,7 +45948,7 @@
     },
     {
       "raw_hot": 155585,
-      "num": 155585,
+      "num": 188261,
       "word": "大梦归离下证了",
       "onboard_time": 1729849517,
       "rank": 31,
@@ -53227,6 +53323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126582,
+      "num": 357242,
+      "word": "直播间剧本骗走爸妈血汗钱",
+      "onboard_time": 1729851379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126573,
       "num": 315857,
       "word": "谁是中国第一个吃螃蟹的人",
@@ -55089,6 +55193,14 @@
       "onboard_time": 1729823059,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117582,
+      "num": 117582,
+      "word": "郑钦文2比1费尔南德斯",
+      "onboard_time": 1729853658,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117564,
@@ -57081,6 +57193,14 @@
       "onboard_time": 1727768000,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108400,
+      "num": 108400,
+      "word": "亲友是我的何老师",
+      "onboard_time": 1729854979,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108360,
@@ -59076,7 +59196,7 @@
     },
     {
       "raw_hot": 97219,
-      "num": 97219,
+      "num": 233002,
       "word": "余依婷银牌",
       "onboard_time": 1729773619,
       "rank": 47,
@@ -59185,6 +59305,14 @@
       "onboard_time": 1727940678,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96777,
+      "num": 96777,
+      "word": "rita皎月cos",
+      "onboard_time": 1729855099,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 96747,
@@ -60033,6 +60161,14 @@
       "onboard_time": 1729052302,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91042,
+      "num": 260231,
+      "word": "95后花4年为242位志愿军战士拍照",
+      "onboard_time": 1729854798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91027,
@@ -62483,14 +62619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 72975,
-      "num": 314832,
-      "word": "杨妞花曾以为余华英会把她送回家",
-      "onboard_time": 1729850658,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72965,
       "num": 235900,
       "word": "大连舰女兵勇敢坚定的发言太飒了",
@@ -63131,14 +63259,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 67962,
-      "num": 357242,
-      "word": "直播间剧本骗走爸妈血汗钱",
-      "onboard_time": 1729851379,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67891,
       "num": 319662,
       "word": "刘旸 一口气念完全网恶评",
@@ -63345,6 +63465,14 @@
       "onboard_time": 1728407053,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66125,
+      "num": 96922,
+      "word": "赵金云涉嫌严重职务违法",
+      "onboard_time": 1729854378,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65973,
@@ -75345,6 +75473,14 @@
       "onboard_time": 1728941410,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8466,
+      "num": 224514,
+      "word": "全明星喊你今晚8点上天猫抽红盒",
+      "onboard_time": 1729854018,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 8417,
