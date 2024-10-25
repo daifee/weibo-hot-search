@@ -1,0 +1,410 @@
+{
+  "runTime": 1729881807173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 258351,
+        "num": 258351,
+        "word": "拜登将正式道歉",
+        "onboard_time": 1729861998,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186693,
+        "num": 186693,
+        "word": "台风潭美进入24小时警戒线",
+        "onboard_time": 1729873338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205,
+        "num": 172909,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161256,
+        "num": 161256,
+        "word": "花少 三个体面的山东人",
+        "onboard_time": 1729858818,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122427,
+        "num": 122427,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142708,
+        "num": 121501,
+        "word": "荣梓杉被审判",
+        "onboard_time": 1729863079,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117910,
+        "num": 117910,
+        "word": "近七旬父亲出狱后女儿不愿赡养",
+        "onboard_time": 1729866020,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100209,
+        "num": 100209,
+        "word": "如果我不丢爸妈就死不了",
+        "onboard_time": 1729863500,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98694,
+        "num": 98694,
+        "word": "司机警车内失去意识后抢救无效身亡",
+        "onboard_time": 1729866921,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14625,
+        "num": 95667,
+        "word": "如何看待酒店订单订后即焚",
+        "onboard_time": 1729881132,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187599,
+        "num": 95655,
+        "word": "宋茜对得起所有人 除了蒋欣",
+        "onboard_time": 1729865541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112786,
+        "num": 95324,
+        "word": "孕激素让29岁女生妈感一下来了",
+        "onboard_time": 1729868600,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94869,
+        "num": 94869,
+        "word": "千万级主播带货称21天能年轻3.5岁",
+        "onboard_time": 1729861697,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88990,
+        "num": 88990,
+        "word": "AI聊天机器人诱导美国少年自杀身亡",
+        "onboard_time": 1729861399,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81905,
+        "num": 81905,
+        "word": "余华英5000元亲手卖了儿子",
+        "onboard_time": 1729867401,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80353,
+        "num": 80353,
+        "word": "麦琳想要什么",
+        "onboard_time": 1729873038,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79037,
+        "num": 79037,
+        "word": "林诗栋vs吴晙诚",
+        "onboard_time": 1729877054,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65283,
+        "num": 65283,
+        "word": "A2O 林钰珊",
+        "onboard_time": 1729865120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61588,
+        "num": 61588,
+        "word": "A2O",
+        "onboard_time": 1729863680,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53211,
+        "num": 59480,
+        "word": "汪苏泷演唱会DJ是宋茜",
+        "onboard_time": 1729867761,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57792,
+        "num": 57792,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55388,
+        "num": 55388,
+        "word": "男孩踩女童家长不道歉反骂狗都不如",
+        "onboard_time": 1729857738,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55188,
+        "num": 55188,
+        "word": "梅姨案来龙去脉",
+        "onboard_time": 1729879273,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54717,
+        "num": 54717,
+        "word": "开店真的可以改变人的心态",
+        "onboard_time": 1729876395,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53078,
+        "num": 53078,
+        "word": "留几手",
+        "onboard_time": 1729866561,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46612,
+        "num": 46612,
+        "word": "李秀满A2O练习生公开",
+        "onboard_time": 1729861399,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43859,
+        "num": 43859,
+        "word": "酒店订单订后即焚功能引争议",
+        "onboard_time": 1729861519,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42325,
+        "num": 42325,
+        "word": "司机与交警冲突后在警车身亡",
+        "onboard_time": 1729874057,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41777,
+        "num": 41777,
+        "word": "田小娟不续约CUBE股价暴跌",
+        "onboard_time": 1729860318,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40039,
+        "num": 40039,
+        "word": "陈幸同vs高达",
+        "onboard_time": 1729877054,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38739,
+        "num": 38739,
+        "word": "上一季的人都正常",
+        "onboard_time": 1729862238,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36920,
+        "num": 36920,
+        "word": "覃海洋说今晚真的很幸运",
+        "onboard_time": 1729862718,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36783,
+        "num": 36783,
+        "word": "深圳晚霞绝了",
+        "onboard_time": 1729873098,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36009,
+        "num": 36009,
+        "word": "发现养狗人普遍只认狗不认人",
+        "onboard_time": 1729879693,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35516,
+        "num": 35516,
+        "word": "雅真的让妻子在披哥闪耀了",
+        "onboard_time": 1729864158,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33845,
+        "num": 33845,
+        "word": "成都警方通报河道现浮尸",
+        "onboard_time": 1729869260,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33003,
+        "num": 33003,
+        "word": "男子杀父骗保赔偿金超790万",
+        "onboard_time": 1729874177,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32086,
+        "num": 32086,
+        "word": "休痛经假需要开诊断证明",
+        "onboard_time": 1729868781,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31866,
+        "num": 31866,
+        "word": "穿山甲给自己挖了32洞小区",
+        "onboard_time": 1729862359,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31839,
+        "num": 31839,
+        "word": "钱天一3比0王艺迪",
+        "onboard_time": 1729870160,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31714,
+        "num": 31714,
+        "word": "湖南一男子杀父骗保被刑拘",
+        "onboard_time": 1729860497,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31474,
+        "num": 31474,
+        "word": "张本智和救4赛点逆转晋级",
+        "onboard_time": 1729870819,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30609,
+        "num": 30609,
+        "word": "再见爱人 一分钟震惊无数次",
+        "onboard_time": 1729859778,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30306,
+        "num": 30306,
+        "word": "徐海乔四十岁实现了二十岁的梦想",
+        "onboard_time": 1729863799,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28964,
+        "num": 30304,
+        "word": "papi酱 黄圣依是杨子的金丝雀",
+        "onboard_time": 1729852098,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28063,
+        "num": 30291,
+        "word": "BIGBANG合体录综艺",
+        "onboard_time": 1729858520,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27965,
+        "num": 30274,
+        "word": "怪不得有时候老师莫名其妙就生气",
+        "onboard_time": 1729866020,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26545,
+        "num": 30265,
+        "word": "乔妍的心事",
+        "onboard_time": 1729869080,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25462,
+        "num": 30254,
+        "word": "拐卖孩子的判了那买孩子的呢",
+        "onboard_time": 1729863380,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25206,
+        "num": 30241,
+        "word": "彭昱畅直播回应黄磊做饭好吃",
+        "onboard_time": 1729853778,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何汇聚全球南方磅礴力量#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729881000186,
+  "endTime": 1729881807173,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -15331,6 +15331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55188,
+      "num": 112490,
+      "word": "梅姨案来龙去脉",
+      "onboard_time": 1729879273,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55089,
       "num": 314414,
       "word": "5岁小女孩穿战国袍乘地铁",
@@ -15979,6 +15987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40039,
+      "num": 134730,
+      "word": "陈幸同vs高达",
+      "onboard_time": 1729877054,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39991,
       "num": 363082,
       "word": "手机CPU的巅峰时刻",
@@ -16305,6 +16321,14 @@
       "onboard_time": 1729674197,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36009,
+      "num": 36009,
+      "word": "发现养狗人普遍只认狗不认人",
+      "onboard_time": 1729879693,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 36006,
@@ -16729,14 +16753,6 @@
       "onboard_time": 1729741039,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30750,
-      "num": 30750,
-      "word": "发现养狗人普遍只认狗不认人",
-      "onboard_time": 1729879693,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 30676,
@@ -17723,14 +17739,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 14715,
-      "num": 112490,
-      "word": "梅姨案来龙去脉",
-      "onboard_time": 1729879273,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14706,
       "num": 31832,
       "word": "警惕家中老年人遭受保健品杀猪盘",
@@ -17745,6 +17753,14 @@
       "onboard_time": 1729542432,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14625,
+      "num": 95667,
+      "word": "如何看待酒店订单订后即焚",
+      "onboard_time": 1729881132,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14615,
@@ -17993,14 +18009,6 @@
       "onboard_time": 1729677917,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11089,
-      "num": 134730,
-      "word": "陈幸同vs高达",
-      "onboard_time": 1729877054,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 10627,
