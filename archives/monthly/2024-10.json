@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729873682162,
+  "endTime": 1729874630554,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -21499,6 +21499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331487,
+      "num": 331487,
+      "word": "千万级主播带货称21天能年轻3.5岁",
+      "onboard_time": 1729861697,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331377,
       "num": 331377,
       "word": "刘冲 新东方",
@@ -22203,14 +22211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318852,
-      "num": 318852,
-      "word": "千万级主播带货称21天能年轻3.5岁",
-      "onboard_time": 1729861697,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318344,
       "num": 318344,
       "word": "SM三十周年纪念视频",
@@ -22521,6 +22521,14 @@
       "onboard_time": 1728200418,
       "rank": 6,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 311728,
+      "num": 311728,
+      "word": "张本智和救4赛点逆转晋级",
+      "onboard_time": 1729870819,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 311694,
@@ -24169,14 +24177,6 @@
       "onboard_time": 1729162102,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 290526,
-      "num": 290526,
-      "word": "张本智和救4赛点逆转晋级",
-      "onboard_time": 1729870819,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 290491,
@@ -48979,6 +48979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145337,
+      "num": 145337,
+      "word": "台风潭美进入24小时警戒线",
+      "onboard_time": 1729873338,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145332,
       "num": 145332,
       "word": "朱志鑫Dance拍摄over",
@@ -52147,6 +52155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133426,
+      "num": 133426,
+      "word": "麦琳想要什么",
+      "onboard_time": 1729873038,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133408,
       "num": 133408,
       "word": "罗云熙晒音乐节大合照",
@@ -54433,6 +54449,14 @@
       "onboard_time": 1729475658,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123759,
+      "num": 123759,
+      "word": "深圳晚霞绝了",
+      "onboard_time": 1729873098,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123752,
@@ -57001,14 +57025,6 @@
       "onboard_time": 1729514418,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112094,
-      "num": 112094,
-      "word": "麦琳想要什么",
-      "onboard_time": 1729873038,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 112070,
@@ -62227,14 +62243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81182,
-      "num": 81182,
-      "word": "深圳晚霞绝了",
-      "onboard_time": 1729873098,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81144,
       "num": 81144,
       "word": "郑钦文逆转安德烈耶娃",
@@ -62289,6 +62297,14 @@
       "onboard_time": 1728570381,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80436,
+      "num": 80436,
+      "word": "男子杀父骗保赔偿金超790万",
+      "onboard_time": 1729874177,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80340,
@@ -63009,14 +63025,6 @@
       "onboard_time": 1728445278,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75106,
-      "num": 75106,
-      "word": "台风潭美进入24小时警戒线",
-      "onboard_time": 1729873338,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75074,
@@ -69047,6 +69055,14 @@
       "num": 224957,
       "word": "我这样为祖国庆生",
       "onboard_time": 1727850558,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38772,
+      "num": 183078,
+      "word": "司机与交警冲突后在警车身亡",
+      "onboard_time": 1729874057,
       "rank": 19,
       "category": "社会新闻"
     },

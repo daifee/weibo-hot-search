@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729873682162,
+  "endTime": 1729874630554,
   "band_list": [
     {
       "raw_hot": 1051052,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438503,
+      "num": 438503,
+      "word": "花少 三个体面的山东人",
+      "onboard_time": 1729858818,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426626,
       "num": 426626,
       "word": "成都警方通报河道现浮尸",
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392823,
-      "num": 392823,
-      "word": "花少 三个体面的山东人",
-      "onboard_time": 1729858818,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386888,
       "num": 386888,
       "word": "A2O",
@@ -91,20 +91,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327930,
-      "num": 327930,
+      "raw_hot": 342115,
+      "num": 342115,
       "word": "AI聊天机器人诱导美国少年自杀身亡",
       "onboard_time": 1729861399,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318852,
-      "num": 318852,
+      "raw_hot": 331487,
+      "num": 331487,
       "word": "千万级主播带货称21天能年轻3.5岁",
       "onboard_time": 1729861697,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311728,
+      "num": 311728,
+      "word": "张本智和救4赛点逆转晋级",
+      "onboard_time": 1729870819,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 309150,
@@ -121,14 +129,6 @@
       "onboard_time": 1729867761,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 290526,
-      "num": 290526,
-      "word": "张本智和救4赛点逆转晋级",
-      "onboard_time": 1729870819,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 285474,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145337,
+      "num": 145337,
+      "word": "台风潭美进入24小时警戒线",
+      "onboard_time": 1729873338,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "怪不得有时候老师莫名其妙就生气",
@@ -192,6 +200,14 @@
       "word": "周雨彤怕别人想吃她的零食",
       "onboard_time": 1729841598,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133426,
+      "num": 133426,
+      "word": "麦琳想要什么",
+      "onboard_time": 1729873038,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -219,11 +235,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124159,
-      "num": 124159,
+      "raw_hot": 127660,
+      "num": 127660,
       "word": "湖南一男子杀父骗保被刑拘",
       "onboard_time": 1729860497,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123759,
+      "num": 123759,
+      "word": "深圳晚霞绝了",
+      "onboard_time": 1729873098,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -265,14 +289,6 @@
       "onboard_time": 1729869080,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112094,
-      "num": 112094,
-      "word": "麦琳想要什么",
-      "onboard_time": 1729873038,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 107860,
@@ -339,16 +355,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81182,
-      "num": 81182,
-      "word": "深圳晚霞绝了",
-      "onboard_time": 1729873098,
-      "rank": 43,
+      "raw_hot": 80436,
+      "num": 80436,
+      "word": "男子杀父骗保赔偿金超790万",
+      "onboard_time": 1729874177,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
       "raw_hot": 77728,
-      "num": 77728,
+      "num": 79072,
       "word": "四位专家会诊海水倒灌",
       "onboard_time": 1729863320,
       "rank": 44,
@@ -356,23 +372,15 @@
     },
     {
       "raw_hot": 77279,
-      "num": 77279,
+      "num": 79062,
       "word": "喻言王妃红绳舞",
       "onboard_time": 1729867220,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 75106,
-      "num": 75106,
-      "word": "台风潭美进入24小时警戒线",
-      "onboard_time": 1729873338,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74640,
-      "num": 74640,
+      "raw_hot": 76239,
+      "num": 79107,
       "word": "再见爱人 一分钟震惊无数次",
       "onboard_time": 1729859778,
       "rank": 47,
@@ -395,7 +403,23 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2103,
+      "raw_hot": 65843,
+      "num": 79050,
+      "word": "王者九周年限定回忆",
+      "onboard_time": 1729874536,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 38772,
+      "num": 183078,
+      "word": "司机与交警冲突后在警车身亡",
+      "onboard_time": 1729874057,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2388,
       "num": 687575,
       "word": "万千气象看北京",
       "onboard_time": 1729652177,
