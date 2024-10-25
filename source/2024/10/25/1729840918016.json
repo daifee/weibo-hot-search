@@ -1,0 +1,410 @@
+{
+  "runTime": 1729840918016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1195629,
+        "num": 1195629,
+        "word": "为啥莫名其妙就开了先用后付",
+        "onboard_time": 1729836258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006442,
+        "num": 1006442,
+        "word": "尤长靖披哥史上最年轻总冠军",
+        "onboard_time": 1729834338,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5869,
+        "num": 715289,
+        "word": "大金砖合作大有可为",
+        "onboard_time": 1729829780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 707428,
+        "num": 707428,
+        "word": "李行亮麦琳吵架",
+        "onboard_time": 1729838359,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688951,
+        "num": 688951,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433043,
+        "num": 433043,
+        "word": "保时捷售价跌破40万",
+        "onboard_time": 1729830441,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 420469,
+        "num": 420469,
+        "word": "Hybe承认BTS音源注水",
+        "onboard_time": 1729832120,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388834,
+        "num": 388834,
+        "word": "100万房贷20年少还近9万",
+        "onboard_time": 1729830921,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343513,
+        "num": 343513,
+        "word": "付航脱口秀",
+        "onboard_time": 1729833559,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23302,
+        "num": 340749,
+        "word": "钟自然涉嫌故意泄露国家秘密",
+        "onboard_time": 1729840698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618403,
+        "num": 339062,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618153,
+        "num": 336501,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518574,
+        "num": 334023,
+        "word": "赵一博发文悼念去世站姐",
+        "onboard_time": 1729830740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15070,
+        "num": 331238,
+        "word": "人贩子切莫心存侥幸",
+        "onboard_time": 1729839917,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31561,
+        "num": 328508,
+        "word": "主播能否假装自己高学历苦出身",
+        "onboard_time": 1729839498,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489156,
+        "num": 324125,
+        "word": "成毅被吓得撤回一个摘口罩",
+        "onboard_time": 1729835718,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485241,
+        "num": 320145,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345688,
+        "num": 319445,
+        "word": "杨子说不到1年将回归家庭",
+        "onboard_time": 1729839738,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40207,
+        "num": 316030,
+        "word": "华为nova在玩一种很新的开箱",
+        "onboard_time": 1729839798,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29920,
+        "num": 313297,
+        "word": "法律将严惩每一个打孩子主意的坏人",
+        "onboard_time": 1729840878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 308985,
+        "word": "95后为242名志愿军老战士拍戎装照",
+        "onboard_time": 1729838898,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543638,
+        "num": 307123,
+        "word": "黄圣依选择不离婚的原因",
+        "onboard_time": 1729815500,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463032,
+        "num": 303463,
+        "word": "坚持跑步一年身体的变化",
+        "onboard_time": 1729836198,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 414309,
+        "num": 300715,
+        "word": "余华英庭审现场全程发抖",
+        "onboard_time": 1729834459,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298845,
+        "num": 298845,
+        "word": "S14最有含金量的一冠",
+        "onboard_time": 1729833619,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274214,
+        "num": 274214,
+        "word": "常华森荧幕初吻",
+        "onboard_time": 1729839377,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250349,
+        "num": 274111,
+        "word": "声入人心 我回来了",
+        "onboard_time": 1729833858,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219077,
+        "num": 274012,
+        "word": "放弃上亿家产只为一句道歉",
+        "onboard_time": 1729827981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198635,
+        "num": 273846,
+        "word": "田小娟离开CUBE不续约",
+        "onboard_time": 1729824439,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46768,
+        "num": 273729,
+        "word": "潘展乐用10年兑现了10岁的承诺",
+        "onboard_time": 1729840458,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273642,
+        "num": 273642,
+        "word": "听到父母去世杨妞花整张脸都麻了",
+        "onboard_time": 1729821978,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344381,
+        "num": 264161,
+        "word": "鸿蒙微信",
+        "onboard_time": 1729837817,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 250561,
+        "num": 250561,
+        "word": "金价昨晚大跌",
+        "onboard_time": 1729826780,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249970,
+        "num": 249970,
+        "word": "余华英在雪糕上下药拐走孩子",
+        "onboard_time": 1729840217,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243937,
+        "num": 243937,
+        "word": "余华英案细节最新披露",
+        "onboard_time": 1729837398,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218470,
+        "num": 218470,
+        "word": "菜市场代炒吊打外卖预制菜",
+        "onboard_time": 1729835959,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215501,
+        "num": 215501,
+        "word": "小米手环9Pro",
+        "onboard_time": 1729839798,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185408,
+        "num": 185408,
+        "word": "刘诗诗鎏金风格大片",
+        "onboard_time": 1729840158,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175274,
+        "num": 175274,
+        "word": "余华英被判死刑是告慰亦是震慑",
+        "onboard_time": 1729834519,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173943,
+        "num": 173943,
+        "word": "普京首次回应所谓朝鲜派兵援俄",
+        "onboard_time": 1729829060,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170098,
+        "num": 170098,
+        "word": "17个被拐孩子的父母遍体鳞伤",
+        "onboard_time": 1729840278,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162955,
+        "num": 162955,
+        "word": "打伤女子公职人员欲花40万私了",
+        "onboard_time": 1729826058,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162772,
+        "num": 162772,
+        "word": "你怎么能把我的孩子当商品卖啊",
+        "onboard_time": 1729834579,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161237,
+        "num": 161237,
+        "word": "热河去世",
+        "onboard_time": 1729824738,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161025,
+        "num": 161025,
+        "word": "我推的孩子 男主死了",
+        "onboard_time": 1729836139,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151959,
+        "num": 151959,
+        "word": "中国式的极致浪漫在这一刻具象化了",
+        "onboard_time": 1729839078,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150857,
+        "num": 150857,
+        "word": "澳洲安保狙击手被发现在摸鱼",
+        "onboard_time": 1729832120,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139778,
+        "num": 139778,
+        "word": "母亲哭诉已经寻子11688天",
+        "onboard_time": 1729835058,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138931,
+        "num": 138931,
+        "word": "李行亮和麦琳都没选过离婚",
+        "onboard_time": 1729839377,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137889,
+        "num": 137889,
+        "word": "35岁未婚女生的一天",
+        "onboard_time": 1729826058,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#汇聚全球南方磅礴力量#"
+    }
+  }
+}

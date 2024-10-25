@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729838693531,
+  "endTime": 1729840918016,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -787,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1344381,
+      "num": 264161,
+      "word": "鸿蒙微信",
+      "onboard_time": 1729837817,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1322410,
       "num": 374589,
       "word": "合肥银泰LV",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1729673718,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1006442,
+      "num": 1006442,
+      "word": "尤长靖披哥史上最年轻总冠军",
+      "onboard_time": 1729834338,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003228,
@@ -2267,11 +2283,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707715,
-      "num": 707715,
-      "word": "尤长靖披哥史上最年轻总冠军",
-      "onboard_time": 1729834338,
-      "rank": 19,
+      "raw_hot": 707428,
+      "num": 707428,
+      "word": "李行亮麦琳吵架",
+      "onboard_time": 1729838359,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -3467,6 +3483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 489156,
+      "num": 415883,
+      "word": "成毅被吓得撤回一个摘口罩",
+      "onboard_time": 1729835718,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484514,
       "num": 527000,
       "word": "肖战纯素颜开机路透",
@@ -3641,6 +3665,14 @@
       "onboard_time": 1729777460,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463032,
+      "num": 335676,
+      "word": "坚持跑步一年身体的变化",
+      "onboard_time": 1729836198,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 457745,
@@ -3985,14 +4017,6 @@
       "onboard_time": 1729826178,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415883,
-      "num": 415883,
-      "word": "成毅被吓得撤回一个摘口罩",
-      "onboard_time": 1729835718,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 414987,
@@ -4491,14 +4515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360149,
-      "num": 231423,
-      "word": "鸿蒙微信",
-      "onboard_time": 1729837817,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 357171,
       "num": 290007,
       "word": "张踩铃 回家抓老公现行的女人",
@@ -4667,6 +4683,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 345688,
+      "num": 319445,
+      "word": "杨子说不到1年将回归家庭",
+      "onboard_time": 1729839738,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345325,
       "num": 270244,
       "word": "秦岭遇险获救者发声",
@@ -4833,14 +4857,6 @@
       "onboard_time": 1729381697,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335676,
-      "num": 335676,
-      "word": "坚持跑步一年身体的变化",
-      "onboard_time": 1729836198,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 334787,
@@ -5273,6 +5289,14 @@
       "onboard_time": 1729443615,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298845,
+      "num": 465505,
+      "word": "S14最有含金量的一冠",
+      "onboard_time": 1729833619,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 298571,
@@ -5739,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274214,
+      "num": 274214,
+      "word": "常华森荧幕初吻",
+      "onboard_time": 1729839377,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273807,
       "num": 273807,
       "word": "加沙女孩扛着受伤妹妹光脚走了一小时",
@@ -6123,6 +6155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249970,
+      "num": 249970,
+      "word": "余华英在雪糕上下药拐走孩子",
+      "onboard_time": 1729840217,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249916,
       "num": 249916,
       "word": "甘肃真的产南美对虾",
@@ -6225,6 +6265,14 @@
       "onboard_time": 1729433245,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 243937,
+      "num": 455338,
+      "word": "余华英案细节最新披露",
+      "onboard_time": 1729837398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243623,
@@ -6408,14 +6456,6 @@
       "word": "仁川人回应Ning风波",
       "onboard_time": 1729672338,
       "rank": 24,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 236147,
-      "num": 465505,
-      "word": "S14最有含金量的一冠",
-      "onboard_time": 1729833619,
-      "rank": 43,
       "category": "电竞"
     },
     {
@@ -6963,6 +7003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218470,
+      "num": 252067,
+      "word": "菜市场代炒吊打外卖预制菜",
+      "onboard_time": 1729835959,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218398,
       "num": 314549,
       "word": "夜爬秦岭遇难情侣穿常规外套没背包",
@@ -7073,6 +7121,14 @@
       "onboard_time": 1729693880,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215501,
+      "num": 215501,
+      "word": "小米手环9Pro",
+      "onboard_time": 1729839798,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 215466,
@@ -8355,6 +8411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189871,
+      "num": 308985,
+      "word": "95后为242名志愿军老战士拍戎装照",
+      "onboard_time": 1729838898,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "华晨宇与朋友在西湖骑单车",
@@ -8553,6 +8617,14 @@
       "onboard_time": 1729589839,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "刘诗诗鎏金风格大片",
+      "onboard_time": 1729840158,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185385,
@@ -8817,14 +8889,6 @@
       "onboard_time": 1729818139,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178241,
-      "num": 178241,
-      "word": "李行亮麦琳吵架",
-      "onboard_time": 1729838359,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 178034,
@@ -9121,6 +9185,14 @@
       "onboard_time": 1729504938,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170098,
+      "num": 170098,
+      "word": "17个被拐孩子的父母遍体鳞伤",
+      "onboard_time": 1729840278,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169900,
@@ -9755,14 +9827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157813,
-      "num": 252067,
-      "word": "菜市场代炒吊打外卖预制菜",
-      "onboard_time": 1729835959,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157786,
       "num": 157786,
       "word": "金价涨了又涨金饰卖不动了",
@@ -10017,6 +10081,14 @@
       "onboard_time": 1729726336,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151959,
+      "num": 151959,
+      "word": "中国式的极致浪漫在这一刻具象化了",
+      "onboard_time": 1729839078,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151958,
@@ -10737,6 +10809,14 @@
       "onboard_time": 1729578498,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138931,
+      "num": 138931,
+      "word": "李行亮和麦琳都没选过离婚",
+      "onboard_time": 1729839377,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 138534,
@@ -12619,14 +12699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97740,
-      "num": 455338,
-      "word": "余华英案细节最新披露",
-      "onboard_time": 1729837398,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97591,
       "num": 391377,
       "word": "A股首单增持贷款落地",
@@ -14227,6 +14299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46768,
+      "num": 273729,
+      "word": "潘展乐用10年兑现了10岁的承诺",
+      "onboard_time": 1729840458,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46542,
       "num": 411264,
       "word": "漫才兄弟 那个红酒有点涩",
@@ -14473,6 +14553,14 @@
       "onboard_time": 1729490718,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40207,
+      "num": 316030,
+      "word": "华为nova在玩一种很新的开箱",
+      "onboard_time": 1729839798,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 39991,
@@ -15123,6 +15211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31561,
+      "num": 328508,
+      "word": "主播能否假装自己高学历苦出身",
+      "onboard_time": 1729839498,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31547,
       "num": 111799,
       "word": "国内首张太空旅行船票半小时被拍走",
@@ -15216,6 +15312,14 @@
       "word": "长春高空抛物致死案物业是否担责",
       "onboard_time": 1729506920,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29920,
+      "num": 313297,
+      "word": "法律将严惩每一个打孩子主意的坏人",
+      "onboard_time": 1729840878,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -15675,6 +15779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23302,
+      "num": 340749,
+      "word": "钟自然涉嫌故意泄露国家秘密",
+      "onboard_time": 1729840698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23172,
       "num": 196402,
       "word": "暗能量探测天籁项目",
@@ -16080,6 +16192,14 @@
       "word": "文化中国行文博日历",
       "onboard_time": 1729800911,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15070,
+      "num": 331238,
+      "word": "人贩子切莫心存侥幸",
+      "onboard_time": 1729839917,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
