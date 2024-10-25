@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729863621184,
+  "endTime": 1729866071558,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2436758,
-      "num": 2436758,
+      "raw_hot": 2464241,
+      "num": 2464241,
       "word": "拜登将正式道歉",
       "onboard_time": 1729861998,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1729818738,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 2156115,
+      "num": 2156115,
+      "word": "荣梓杉被审判",
+      "onboard_time": 1729863079,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1938950,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 909002,
-      "num": 458718,
+      "num": 562466,
       "word": "湖南一男子杀父骗保被刑拘",
       "onboard_time": 1729860497,
       "rank": 36,
@@ -307,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 835291,
+      "num": 835291,
+      "word": "如果我不丢爸妈就死不了",
+      "onboard_time": 1729863500,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828613,
       "num": 828613,
       "word": "披荆斩棘4总决赛",
       "onboard_time": 1729829361,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 825244,
+      "num": 825244,
+      "word": "A2O",
+      "onboard_time": 1729863680,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 788527,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627575,
-      "num": 627575,
-      "word": "荣梓杉被审判",
-      "onboard_time": 1729863079,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 618753,
       "num": 327059,
       "word": "百万粉丝网红编造虚假身世卖惨被抓",
@@ -523,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588639,
+      "num": 588639,
+      "word": "覃海洋说今晚真的很幸运",
+      "onboard_time": 1729862718,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580827,
       "num": 580827,
       "word": "付航脱口秀",
       "onboard_time": 1729833559,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574960,
+      "num": 574960,
+      "word": "AI聊天机器人诱导美国少年自杀身亡",
+      "onboard_time": 1729861399,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573181,
@@ -571,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548525,
+      "num": 548525,
+      "word": "张本智和3比2卡尔伯格",
+      "onboard_time": 1729864040,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 542277,
       "num": 542277,
       "word": "宋茜 人好",
       "onboard_time": 1729858578,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532689,
+      "num": 532689,
+      "word": "李秀满A2O练习生公开",
+      "onboard_time": 1729861399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 524649,
@@ -595,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508722,
+      "num": 508722,
+      "word": "A2O 林钰珊",
+      "onboard_time": 1729865120,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492541,
       "num": 382841,
       "word": "34岁女生在英国留学的堕落之夜",
@@ -609,6 +665,14 @@
       "onboard_time": 1729835718,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488507,
+      "num": 488507,
+      "word": "杨妞花爸爸吃老鼠药自杀",
+      "onboard_time": 1729865181,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483135,
@@ -641,14 +705,6 @@
       "onboard_time": 1729835058,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469844,
-      "num": 469844,
-      "word": "李秀满A2O练习生公开",
-      "onboard_time": 1729861399,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 464469,
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396137,
+      "num": 461708,
+      "word": "穿山甲给自己挖了32洞小区",
+      "onboard_time": 1729862359,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384765,
       "num": 312369,
       "word": "未婚妻就在隔壁男子竟偷拍合租女生",
@@ -875,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354829,
+      "num": 354829,
+      "word": "雅真的让妻子在披哥闪耀了",
+      "onboard_time": 1729864158,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341626,
       "num": 384878,
       "word": "汪苏泷嘉宾王源",
@@ -904,14 +976,6 @@
       "word": "转发未婚妻出轨证据被拘男子发声",
       "onboard_time": 1729772359,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332998,
-      "num": 332998,
-      "word": "AI聊天机器人诱导美国少年自杀身亡",
-      "onboard_time": 1729861399,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295388,
+      "num": 264700,
+      "word": "宋茜对得起所有人 除了蒋欣",
+      "onboard_time": 1729865541,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289040,
       "num": 181136,
       "word": "读研前后我眼中的奢侈品",
@@ -1131,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263199,
+      "num": 344101,
+      "word": "酒店订单订后即焚功能引争议",
+      "onboard_time": 1729861519,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255945,
       "num": 255945,
       "word": "老人被冤枉卖儿子一辈子抬不起头",
@@ -1168,6 +1248,14 @@
       "word": "R1SE解散后姚琛压力没停过",
       "onboard_time": 1729845079,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249719,
+      "num": 249719,
+      "word": "徐海乔四十岁实现了二十岁的梦想",
+      "onboard_time": 1729863799,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1257,6 +1345,14 @@
       "onboard_time": 1729854259,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227764,
+      "num": 227764,
+      "word": "拐卖孩子的判了那买孩子的呢",
+      "onboard_time": 1729863380,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227052,
@@ -1475,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192960,
+      "num": 263437,
+      "word": "小鬼问新歌够不够三折叠",
+      "onboard_time": 1729864760,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192656,
       "num": 192656,
       "word": "妹妹突然会走路哥哥欣喜到定住",
@@ -1635,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177427,
+      "num": 177427,
+      "word": "Gr对战成都GG",
+      "onboard_time": 1729865900,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177396,
       "num": 177396,
       "word": "麦当劳绝区零联动",
@@ -1699,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174241,
+      "num": 174241,
+      "word": "怪不得有时候老师莫名其妙就生气",
+      "onboard_time": 1729866020,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "有效沟通在婚姻里有多重要",
@@ -1753,22 +1873,6 @@
       "onboard_time": 1729834159,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169025,
-      "num": 270581,
-      "word": "覃海洋说今晚真的很幸运",
-      "onboard_time": 1729862718,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 168869,
-      "num": 168869,
-      "word": "拐卖孩子的判了那买孩子的呢",
-      "onboard_time": 1729863380,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168339,
@@ -1833,14 +1937,6 @@
       "onboard_time": 1729846399,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162064,
-      "num": 461708,
-      "word": "穿山甲给自己挖了32洞小区",
-      "onboard_time": 1729862359,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159634,
@@ -1931,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149972,
+      "num": 566201,
+      "word": "四位专家会诊海水倒灌",
+      "onboard_time": 1729863320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149758,
       "num": 149758,
       "word": "杨妞花和姐姐手牵手步入法庭",
@@ -1961,6 +2065,14 @@
       "onboard_time": 1729834220,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144280,
+      "num": 144280,
+      "word": "哈尔滨一楼房外墙起火致2死4伤",
+      "onboard_time": 1729862779,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144171,
@@ -2091,14 +2203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134316,
-      "num": 344101,
-      "word": "酒店订单订后即焚功能引争议",
-      "onboard_time": 1729861519,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134044,
       "num": 134044,
       "word": "羊驼肉女士",
@@ -2120,14 +2224,6 @@
       "word": "杨妞花回忆与余华英的15秒对视",
       "onboard_time": 1729819579,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132585,
-      "num": 132585,
-      "word": "哈尔滨一楼房外墙起火致2死4伤",
-      "onboard_time": 1729862779,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2153,14 +2249,6 @@
       "onboard_time": 1729850778,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129581,
-      "num": 129581,
-      "word": "如果我不丢爸妈就死不了",
-      "onboard_time": 1729863500,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129386,
@@ -2249,6 +2337,14 @@
       "onboard_time": 1729857917,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118847,
+      "num": 118847,
+      "word": "近七旬父亲出狱后女儿不愿赡养",
+      "onboard_time": 1729866020,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117596,
@@ -2755,6 +2851,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45034,
+      "num": 497707,
+      "word": "养老服务专业本科生毕业即遭疯抢",
+      "onboard_time": 1729865239,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44492,
+      "num": 340766,
+      "word": "男子执意去柬埔寨赚高薪一去就失联",
+      "onboard_time": 1729865000,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42824,
       "num": 161819,
       "word": "浙江一村庄疑改地名骗政府专项资金",
@@ -3107,18 +3219,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2682,
-      "num": 667836,
-      "word": "外国朋友说金砖是个大家庭",
-      "onboard_time": 1729774699,
+      "raw_hot": 3153,
+      "num": 1671766,
+      "word": "万千气象看北京",
+      "onboard_time": 1729652177,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2279,
-      "num": 1671766,
-      "word": "万千气象看北京",
-      "onboard_time": 1729652177,
+      "raw_hot": 2682,
+      "num": 667836,
+      "word": "外国朋友说金砖是个大家庭",
+      "onboard_time": 1729774699,
       "rank": 2,
       "category": "社会新闻"
     }
