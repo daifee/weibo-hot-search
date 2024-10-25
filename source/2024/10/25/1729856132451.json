@@ -1,0 +1,410 @@
+{
+  "runTime": 1729856132451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532752,
+        "num": 1085240,
+        "word": "一觉醒来每月房贷少了近千元",
+        "onboard_time": 1729843639,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415046,
+        "num": 415046,
+        "word": "教育部要求自觉抵制丑书和怪书",
+        "onboard_time": 1729847118,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2699,
+        "num": 259477,
+        "word": "大金砖合作高光时刻",
+        "onboard_time": 1729818139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242499,
+        "num": 242499,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240304,
+        "num": 240304,
+        "word": "尤长靖披哥史上最年轻总冠军",
+        "onboard_time": 1729834338,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230974,
+        "num": 230974,
+        "word": "钟自然涉嫌故意泄露国家秘密",
+        "onboard_time": 1729840698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221516,
+        "num": 221516,
+        "word": "大梦归离",
+        "onboard_time": 1729842859,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203924,
+        "num": 203924,
+        "word": "研究发现怀孕会令大脑变小",
+        "onboard_time": 1729852879,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200350,
+        "num": 200350,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197193,
+        "num": 197193,
+        "word": "连孟子义张予曦都认证的撞脸",
+        "onboard_time": 1729843338,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 973868,
+        "num": 195595,
+        "word": "彭昱畅直播回应黄磊做饭好吃",
+        "onboard_time": 1729853778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714219,
+        "num": 194170,
+        "word": "papi酱 黄圣依是杨子的金丝雀",
+        "onboard_time": 1729852098,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680370,
+        "num": 192598,
+        "word": "郑钦文不吃香蕉尖尖",
+        "onboard_time": 1729854440,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42232,
+        "num": 190803,
+        "word": "覃海洋50蛙金牌",
+        "onboard_time": 1729856058,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9693,
+        "num": 189149,
+        "word": "全明星喊你今晚8点上天猫抽红盒",
+        "onboard_time": 1729854018,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225514,
+        "num": 187365,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618753,
+        "num": 185376,
+        "word": "百万粉丝网红编造虚假身世卖惨被抓",
+        "onboard_time": 1729851137,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 492541,
+        "num": 183699,
+        "word": "34岁女生在英国留学的堕落之夜",
+        "onboard_time": 1729852997,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315417,
+        "num": 181228,
+        "word": "亲友是我的何老师",
+        "onboard_time": 1729854979,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484142,
+        "num": 180020,
+        "word": "高三学生拿走两条天线被劝退",
+        "onboard_time": 1729845679,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891004,
+        "num": 177680,
+        "word": "杨子嫌黄圣依赚不到钱",
+        "onboard_time": 1729849459,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327346,
+        "num": 176160,
+        "word": "鹿晗和邓佳鑫互关",
+        "onboard_time": 1729854079,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 652213,
+        "num": 174211,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449960,
+        "num": 173672,
+        "word": "黄晓明秃头海报",
+        "onboard_time": 1729842918,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101297,
+        "num": 171880,
+        "word": "95后花4年为242位志愿军战士拍照",
+        "onboard_time": 1729854798,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271880,
+        "num": 169861,
+        "word": "中方回应中印军队从中印边境撤退",
+        "onboard_time": 1729851678,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267186,
+        "num": 167202,
+        "word": "读研前后我眼中的奢侈品",
+        "onboard_time": 1729852997,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221139,
+        "num": 165551,
+        "word": "鹿晗关注TFING",
+        "onboard_time": 1729843939,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165207,
+        "num": 165207,
+        "word": "好团圆00后嫁40岁离婚有娃总裁",
+        "onboard_time": 1729853658,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139718,
+        "num": 139718,
+        "word": "你好种地少年",
+        "onboard_time": 1729855638,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189080,
+        "num": 138117,
+        "word": "第一次见用保温杯吃火锅",
+        "onboard_time": 1729854259,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129275,
+        "num": 129275,
+        "word": "汪苏泷上海",
+        "onboard_time": 1729854617,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120904,
+        "num": 120904,
+        "word": "为啥莫名其妙就开了先用后付",
+        "onboard_time": 1729836258,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105609,
+        "num": 120834,
+        "word": "浙江一校运会开幕式方阵创意拉满",
+        "onboard_time": 1729855518,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176150,
+        "num": 119566,
+        "word": "rita皎月cos",
+        "onboard_time": 1729855099,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140559,
+        "num": 118721,
+        "word": "律师解读余华英被判死刑要上诉",
+        "onboard_time": 1729851979,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 117412,
+        "word": "TF三代台历",
+        "onboard_time": 1729854259,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117066,
+        "num": 117066,
+        "word": "贵州茅台前三季度净利润608.28亿元",
+        "onboard_time": 1729855518,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110174,
+        "num": 110174,
+        "word": "中级会计成绩",
+        "onboard_time": 1729848258,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105249,
+        "num": 105249,
+        "word": "李克勤 这个奖有三分之一属于秦昊",
+        "onboard_time": 1729848679,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103107,
+        "num": 103107,
+        "word": "Hybe承认BTS音源注水",
+        "onboard_time": 1729832120,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 100145,
+        "word": "50个民族资产解冻类诈骗项目名称",
+        "onboard_time": 1729846039,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97366,
+        "num": 97366,
+        "word": "王铮亮发文告别披荆斩棘4",
+        "onboard_time": 1729855938,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95270,
+        "num": 95270,
+        "word": "直播间剧本骗走爸妈血汗钱",
+        "onboard_time": 1729851379,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94974,
+        "num": 94974,
+        "word": "大梦归离下证了",
+        "onboard_time": 1729849517,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93470,
+        "num": 93470,
+        "word": "郑钦文2比1费尔南德斯",
+        "onboard_time": 1729853658,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91035,
+        "num": 91035,
+        "word": "鸿蒙微信",
+        "onboard_time": 1729837817,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87486,
+        "num": 87486,
+        "word": "95后为242名志愿军老战士拍戎装照",
+        "onboard_time": 1729838898,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77575,
+        "num": 86520,
+        "word": "TTG对战EDGM",
+        "onboard_time": 1729854319,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86072,
+        "num": 86072,
+        "word": "奥克兰海域尸骸死者为中国公民",
+        "onboard_time": 1729856058,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国始终心系全球南方扎根全球南方#"
+    }
+  }
+}
