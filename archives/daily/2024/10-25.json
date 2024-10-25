@@ -1,13 +1,29 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729812975590,
+  "endTime": 1729820574873,
   "band_list": [
     {
       "raw_hot": 2659700,
-      "num": 232299,
+      "num": 369830,
       "word": "曝周雨彤送金晨的礼物是假货",
       "onboard_time": 1729783881,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2163022,
+      "num": 371272,
+      "word": "南通小米su7",
+      "onboard_time": 1729818738,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1788456,
+      "num": 1788456,
+      "word": "黄圣依选择不离婚的原因",
+      "onboard_time": 1729815500,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -27,6 +43,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929221,
+      "num": 929221,
+      "word": "领养奶奶让杨妞花赚钱还买她的钱",
+      "onboard_time": 1729816400,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 850901,
+      "num": 850901,
+      "word": "武艺 五个微信还不够折腾吗",
+      "onboard_time": 1729814898,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 788527,
+      "num": 788527,
+      "word": "孙颖莎郭晶晶赵丽颖怎么折都有面",
+      "onboard_time": 1729816039,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 753939,
       "num": 228303,
       "word": "网传客户出轨LV柜姐后原配来闹事",
@@ -43,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672123,
+      "num": 366189,
+      "word": "警方通报男子持刀捅人后驾车乱撞",
+      "onboard_time": 1729815440,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670332,
       "num": 670332,
       "word": "央视曝光医美行业乱象",
@@ -56,6 +104,14 @@
       "word": "花少 重新剪辑",
       "onboard_time": 1729769899,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 600896,
+      "num": 348339,
+      "word": "杨子黑脸",
+      "onboard_time": 1729812317,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -76,7 +132,7 @@
     },
     {
       "raw_hot": 564385,
-      "num": 222799,
+      "num": 338215,
       "word": "12位被大众讨厌的明星聚在一个岛上",
       "onboard_time": 1729775359,
       "rank": 13,
@@ -84,10 +140,18 @@
     },
     {
       "raw_hot": 521888,
-      "num": 200338,
+      "num": 354522,
       "word": "女子因长相被开玩笑意外发现身世",
       "onboard_time": 1729769178,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494028,
+      "num": 361730,
+      "word": "梅姨案最后一个孩子找到了",
+      "onboard_time": 1729819639,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -97,6 +161,22 @@
       "onboard_time": 1729781059,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478863,
+      "num": 359231,
+      "word": "江苏南通持刀伤人致1死嫌犯被控制",
+      "onboard_time": 1729817540,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478621,
+      "num": 478621,
+      "word": "泡泡玛特 抢不到",
+      "onboard_time": 1729813578,
+      "rank": 5,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 464469,
@@ -123,12 +203,44 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 438551,
+      "num": 438551,
+      "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
+      "onboard_time": 1729811957,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430514,
+      "num": 358634,
+      "word": "巴西健身网红与军人妻子有染遭枪杀",
+      "onboard_time": 1729816880,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 371442,
       "num": 371442,
       "word": "教育局回应建议取消家长护学岗",
       "onboard_time": 1729775599,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 364314,
+      "num": 216712,
+      "word": "妈妈每月2000订我泡泡",
+      "onboard_time": 1729819639,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 356575,
+      "num": 356575,
+      "word": "你用过的头像竟然是庆怜",
+      "onboard_time": 1729812197,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 338059,
@@ -147,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 308809,
+      "num": 354627,
+      "word": "杨子 圣依一思考老天爷就发笑",
+      "onboard_time": 1729814179,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308110,
       "num": 213585,
       "word": "4天内4名国乒队员宣布退出国家队",
@@ -155,12 +275,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303226,
+      "num": 303226,
+      "word": "张极 朱志鑫",
+      "onboard_time": 1729813937,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269197,
+      "num": 305705,
+      "word": "中国工匠用空气流动造0耗电空调",
+      "onboard_time": 1729816581,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265734,
       "num": 265734,
       "word": "医生回应烧伤妈妈用钢丝球搓坏死皮肤",
       "onboard_time": 1729762099,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260920,
+      "num": 260920,
+      "word": "中美南海撞机事件肇事美机将展出",
+      "onboard_time": 1729820178,
+      "rank": 26,
+      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 255945,
@@ -179,6 +323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242907,
+      "num": 354915,
+      "word": "受害者希望余华英能被判处死刑",
+      "onboard_time": 1729819518,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232748,
+      "num": 232748,
+      "word": "美宣布向乌提供200亿美元贷款",
+      "onboard_time": 1729816641,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 226466,
       "num": 200187,
       "word": "合肥银泰LV",
@@ -193,6 +353,62 @@
       "onboard_time": 1729785557,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215840,
+      "num": 215840,
+      "word": "警方通报女子因挪车纠纷被打骨折",
+      "onboard_time": 1729817300,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211371,
+      "num": 211371,
+      "word": "被拐家庭想用针挑掉余华英的筋",
+      "onboard_time": 1729816759,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204443,
+      "num": 375459,
+      "word": "余华英囚车进入法院",
+      "onboard_time": 1729818918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200950,
+      "num": 200950,
+      "word": "关闭捐助渠道的烧伤妈妈让人动容",
+      "onboard_time": 1729811776,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192656,
+      "num": 192656,
+      "word": "妹妹突然会走路哥哥欣喜到定住",
+      "onboard_time": 1729789574,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184727,
+      "num": 184727,
+      "word": "请记住他们用生命换来的和平",
+      "onboard_time": 1729820478,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 176158,
+      "num": 176158,
+      "word": "程序员下班都要带回家的键盘",
+      "onboard_time": 1729818139,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176131,
@@ -219,19 +435,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164739,
-      "num": 164739,
-      "word": "妹妹突然会走路哥哥欣喜到定住",
-      "onboard_time": 1729789574,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160190,
-      "num": 160190,
-      "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
-      "onboard_time": 1729811957,
-      "rank": 30,
+      "raw_hot": 159781,
+      "num": 376336,
+      "word": "存量房贷利率今日起调整",
+      "onboard_time": 1729815259,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -275,14 +483,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 136417,
-      "num": 136417,
-      "word": "你用过的头像竟然是庆怜",
-      "onboard_time": 1729812197,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135720,
       "num": 135720,
       "word": "山东多名大学生发帖怒斥偷拍男",
@@ -315,11 +515,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130350,
+      "num": 130350,
+      "word": "直击余华英拐卖儿童重审一审宣判",
+      "onboard_time": 1729815920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126751,
+      "num": 126751,
+      "word": "医护人员分享女性分娩用的无痛针",
+      "onboard_time": 1729812977,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125151,
       "num": 125151,
       "word": "山东大学男生多次偷拍女厕后求饶",
       "onboard_time": 1729781000,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124766,
+      "num": 124766,
+      "word": "杨妞花回忆与余华英的15秒对视",
+      "onboard_time": 1729819579,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -329,6 +553,14 @@
       "onboard_time": 1729773498,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116722,
+      "num": 116722,
+      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
+      "onboard_time": 1729819818,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116317,
@@ -355,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111678,
+      "num": 222905,
+      "word": "BABYMONSTER专辑配置",
+      "onboard_time": 1729814719,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110642,
       "num": 110642,
       "word": "小米15沿用顶部无孔化设计",
@@ -379,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108827,
+      "num": 108827,
+      "word": "新网球王子 超大型巨人",
+      "onboard_time": 1729813098,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108228,
       "num": 178039,
       "word": "原声是吴谨言亲自争取来的",
@@ -387,12 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97121,
-      "num": 118456,
-      "word": "杨子黑脸",
-      "onboard_time": 1729812317,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 96291,
+      "num": 96291,
+      "word": "男子5岁被余华英拐走卖到邯郸",
+      "onboard_time": 1729820538,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90690,
@@ -451,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81041,
+      "num": 216921,
+      "word": "柳智敏直拍",
+      "onboard_time": 1729817480,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 80656,
       "num": 108342,
       "word": "杨妞花称索赔920万是对人贩子的震慑",
@@ -489,14 +745,6 @@
       "onboard_time": 1729746679,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75084,
-      "num": 198371,
-      "word": "关闭捐助渠道的烧伤妈妈让人动容",
-      "onboard_time": 1729811776,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72945,
@@ -683,8 +931,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2806,
-      "num": 471039,
+      "raw_hot": 4540,
+      "num": 889611,
       "word": "一组数据说金砖",
       "onboard_time": 1729759459,
       "rank": 2,

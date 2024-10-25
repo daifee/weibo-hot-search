@@ -1,0 +1,410 @@
+{
+  "runTime": 1729820574873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1788456,
+        "num": 1788456,
+        "word": "黄圣依选择不离婚的原因",
+        "onboard_time": 1729815500,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 929221,
+        "num": 929221,
+        "word": "领养奶奶让杨妞花赚钱还买她的钱",
+        "onboard_time": 1729816400,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4540,
+        "num": 889611,
+        "word": "一组数据说金砖",
+        "onboard_time": 1729759459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850901,
+        "num": 850901,
+        "word": "武艺 五个微信还不够折腾吗",
+        "onboard_time": 1729814898,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788527,
+        "num": 788527,
+        "word": "孙颖莎郭晶晶赵丽颖怎么折都有面",
+        "onboard_time": 1729816039,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478621,
+        "num": 478621,
+        "word": "泡泡玛特 抢不到",
+        "onboard_time": 1729813578,
+        "rank": 5,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 438551,
+        "num": 438551,
+        "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
+        "onboard_time": 1729811957,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378446,
+        "num": 378446,
+        "word": "杨妞花说在领养家庭像贼一样",
+        "onboard_time": 1729787238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159781,
+        "num": 376336,
+        "word": "存量房贷利率今日起调整",
+        "onboard_time": 1729815259,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204443,
+        "num": 375459,
+        "word": "余华英囚车进入法院",
+        "onboard_time": 1729818918,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2163022,
+        "num": 371272,
+        "word": "南通小米su7",
+        "onboard_time": 1729818738,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1352294,
+        "num": 369830,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722286,
+        "num": 367163,
+        "word": "巴勒斯坦女孩被当作人肉盾牌探路",
+        "onboard_time": 1729785198,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 672123,
+        "num": 366189,
+        "word": "警方通报男子持刀捅人后驾车乱撞",
+        "onboard_time": 1729815440,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494028,
+        "num": 361730,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478863,
+        "num": 359231,
+        "word": "江苏南通持刀伤人致1死嫌犯被控制",
+        "onboard_time": 1729817540,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430514,
+        "num": 358634,
+        "word": "巴西健身网红与军人妻子有染遭枪杀",
+        "onboard_time": 1729816880,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 356575,
+        "num": 356575,
+        "word": "你用过的头像竟然是庆怜",
+        "onboard_time": 1729812197,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242907,
+        "num": 354915,
+        "word": "受害者希望余华英能被判处死刑",
+        "onboard_time": 1729819518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308809,
+        "num": 354627,
+        "word": "杨子 圣依一思考老天爷就发笑",
+        "onboard_time": 1729814179,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354522,
+        "num": 354522,
+        "word": "女子因长相被开玩笑意外发现身世",
+        "onboard_time": 1729769178,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600896,
+        "num": 348339,
+        "word": "杨子黑脸",
+        "onboard_time": 1729812317,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338215,
+        "num": 338215,
+        "word": "12位被大众讨厌的明星聚在一个岛上",
+        "onboard_time": 1729775359,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269197,
+        "num": 305705,
+        "word": "中国工匠用空气流动造0耗电空调",
+        "onboard_time": 1729816581,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303226,
+        "num": 303226,
+        "word": "张极 朱志鑫",
+        "onboard_time": 1729813937,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283422,
+        "num": 283422,
+        "word": "央视曝光医美行业乱象",
+        "onboard_time": 1729783881,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260920,
+        "num": 260920,
+        "word": "中美南海撞机事件肇事美机将展出",
+        "onboard_time": 1729820178,
+        "rank": 26,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 232748,
+        "num": 232748,
+        "word": "美宣布向乌提供200亿美元贷款",
+        "onboard_time": 1729816641,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 111678,
+        "num": 222905,
+        "word": "BABYMONSTER专辑配置",
+        "onboard_time": 1729814719,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81041,
+        "num": 216921,
+        "word": "柳智敏直拍",
+        "onboard_time": 1729817480,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364314,
+        "num": 216712,
+        "word": "妈妈每月2000订我泡泡",
+        "onboard_time": 1729819639,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215840,
+        "num": 215840,
+        "word": "警方通报女子因挪车纠纷被打骨折",
+        "onboard_time": 1729817300,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211371,
+        "num": 211371,
+        "word": "被拐家庭想用针挑掉余华英的筋",
+        "onboard_time": 1729816759,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209217,
+        "num": 209217,
+        "word": "周雨彤让陈好做深蹲",
+        "onboard_time": 1729781059,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200950,
+        "num": 200950,
+        "word": "关闭捐助渠道的烧伤妈妈让人动容",
+        "onboard_time": 1729811776,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192656,
+        "num": 192656,
+        "word": "妹妹突然会走路哥哥欣喜到定住",
+        "onboard_time": 1729789574,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184727,
+        "num": 184727,
+        "word": "请记住他们用生命换来的和平",
+        "onboard_time": 1729820478,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176158,
+        "num": 176158,
+        "word": "程序员下班都要带回家的键盘",
+        "onboard_time": 1729818139,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172913,
+        "num": 172913,
+        "word": "教育局回应建议取消家长护学岗",
+        "onboard_time": 1729775599,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165162,
+        "num": 165162,
+        "word": "转发未婚妻出轨证据被拘男子发声",
+        "onboard_time": 1729772359,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130350,
+        "num": 130350,
+        "word": "直击余华英拐卖儿童重审一审宣判",
+        "onboard_time": 1729815920,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128986,
+        "num": 128986,
+        "word": "高铁破例临停1分钟救人",
+        "onboard_time": 1729762398,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 126751,
+        "num": 126751,
+        "word": "医护人员分享女性分娩用的无痛针",
+        "onboard_time": 1729812977,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124766,
+        "num": 124766,
+        "word": "杨妞花回忆与余华英的15秒对视",
+        "onboard_time": 1729819579,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "papi酱说杨子恶劣至极",
+        "onboard_time": 1729778181,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117685,
+        "num": 117685,
+        "word": "4个伤肾的坏习惯",
+        "onboard_time": 1729809073,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116722,
+        "num": 116722,
+        "word": "未婚妻就在隔壁男子竟偷拍合租女生",
+        "onboard_time": 1729819818,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112932,
+        "num": 112932,
+        "word": "花少 重新剪辑",
+        "onboard_time": 1729769899,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108827,
+        "num": 108827,
+        "word": "新网球王子 超大型巨人",
+        "onboard_time": 1729813098,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96291,
+        "num": 96291,
+        "word": "男子5岁被余华英拐走卖到邯郸",
+        "onboard_time": 1729820538,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#喀山宣言#"
+    }
+  }
+}
