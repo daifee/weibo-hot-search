@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729851847968,
+  "endTime": 1729852886655,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1459768,
+      "num": 946323,
+      "word": "多名目击者回应南通小米SU7事件",
+      "onboard_time": 1729850239,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1405023,
       "num": 1405023,
       "word": "领养奶奶让杨妞花赚钱还买她的钱",
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1135516,
+      "num": 1165164,
+      "word": "杨子嫌黄圣依赚不到钱",
+      "onboard_time": 1729849459,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1072052,
       "num": 784870,
       "word": "赵一博发文悼念去世站姐",
       "onboard_time": 1729830740,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1032277,
-      "num": 1165164,
-      "word": "杨子嫌黄圣依赚不到钱",
-      "onboard_time": 1729849459,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1006442,
@@ -217,14 +225,6 @@
       "onboard_time": 1729842918,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 946323,
-      "num": 946323,
-      "word": "多名目击者回应南通小米SU7事件",
-      "onboard_time": 1729850239,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 944743,
@@ -531,6 +531,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 459023,
+      "num": 588334,
+      "word": "教育部要求自觉抵制丑书和怪书",
+      "onboard_time": 1729847118,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457745,
       "num": 457745,
       "word": "杨妞花声音嘶哑念判决书",
@@ -683,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373600,
-      "num": 588334,
-      "word": "教育部要求自觉抵制丑书和怪书",
-      "onboard_time": 1729847118,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371442,
       "num": 371442,
       "word": "教育局回应建议取消家长护学岗",
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314542,
+      "num": 314542,
+      "word": "郑钦文vs费尔南德斯",
+      "onboard_time": 1729845857,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311856,
       "num": 311856,
       "word": "李子柒团队回应何时更新",
@@ -803,12 +811,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304500,
+      "num": 152220,
+      "word": "郑钦文连丢6局",
+      "onboard_time": 1729851739,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303226,
       "num": 303226,
       "word": "张极 朱志鑫",
       "onboard_time": 1729813937,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303020,
+      "num": 226859,
+      "word": "百万粉丝网红编造虚假身世卖惨被抓",
+      "onboard_time": 1729851137,
+      "rank": 23,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 299599,
@@ -841,6 +865,14 @@
       "onboard_time": 1729827260,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296631,
+      "num": 296631,
+      "word": "papi酱 黄圣依是杨子的金丝雀",
+      "onboard_time": 1729852098,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 285628,
@@ -907,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265073,
-      "num": 265073,
-      "word": "郑钦文vs费尔南德斯",
-      "onboard_time": 1729845857,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255945,
       "num": 255945,
       "word": "老人被冤枉卖儿子一辈子抬不起头",
@@ -961,6 +985,14 @@
       "onboard_time": 1729837398,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241885,
+      "num": 150758,
+      "word": "中方回应中印军队从中印边境撤退",
+      "onboard_time": 1729851678,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237089,
@@ -1027,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226859,
-      "num": 226859,
-      "word": "百万粉丝网红编造虚假身世卖惨被抓",
-      "onboard_time": 1729851137,
-      "rank": 23,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 226466,
       "num": 200187,
       "word": "合肥银泰LV",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1729785557,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221939,
+      "num": 314484,
+      "word": "李克勤 这个奖有三分之一属于秦昊",
+      "onboard_time": 1729848679,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 219815,
@@ -1147,12 +1179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198723,
-      "num": 314484,
-      "word": "李克勤 这个奖有三分之一属于秦昊",
-      "onboard_time": 1729848679,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 199313,
+      "num": 199313,
+      "word": "律师解读余华英被判死刑要上诉",
+      "onboard_time": 1729851979,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198003,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1729848258,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186269,
+      "num": 186269,
+      "word": "罗宜宁身世让罗慎远查明白了",
+      "onboard_time": 1729851979,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 185408,
@@ -1459,20 +1499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155585,
+      "num": 155585,
+      "word": "大梦归离下证了",
+      "onboard_time": 1729849517,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155285,
       "num": 155285,
       "word": "马来西亚环球小姐参赛服装引争议",
       "onboard_time": 1729824258,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153337,
-      "num": 153337,
-      "word": "大梦归离下证了",
-      "onboard_time": 1729849517,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 152722,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1729827560,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143317,
+      "num": 367800,
+      "word": "外交部回应中印军队从边境撤退",
+      "onboard_time": 1729850418,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142772,
@@ -1683,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129386,
+      "num": 129386,
+      "word": "郑钦文连续两场送蛋",
+      "onboard_time": 1729850222,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129303,
       "num": 129303,
       "word": "张杰看谢娜的脱口秀舞台",
@@ -1779,14 +1835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112283,
-      "num": 112283,
-      "word": "中方回应中印军队从中印边境撤退",
-      "onboard_time": 1729851678,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 111678,
       "num": 243161,
       "word": "BABYMONSTER专辑配置",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1729810216,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 107754,
-      "num": 107754,
-      "word": "郑钦文连丢6局",
-      "onboard_time": 1729851739,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 106373,
@@ -2027,12 +2067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73493,
-      "num": 367800,
-      "word": "外交部回应中印军队从边境撤退",
-      "onboard_time": 1729850418,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 72975,
+      "num": 314832,
+      "word": "杨妞花曾以为余华英会把她送回家",
+      "onboard_time": 1729850658,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72945,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1729807091,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67962,
+      "num": 357242,
+      "word": "直播间剧本骗走爸妈血汗钱",
+      "onboard_time": 1729851379,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65284,
@@ -2171,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40561,
-      "num": 314832,
-      "word": "杨妞花曾以为余华英会把她送回家",
-      "onboard_time": 1729850658,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39367,
       "num": 525071,
       "word": "9个被拐孩子的回家路走了5年",
@@ -2243,14 +2283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33732,
-      "num": 357242,
-      "word": "直播间剧本骗走爸妈血汗钱",
-      "onboard_time": 1729851379,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31822,
       "num": 487568,
       "word": "李沁发文道别七夜雪",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1729840878,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27985,
+      "num": 238227,
+      "word": "郑钦文晋级东京站四强",
+      "onboard_time": 1729852819,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 27021,
