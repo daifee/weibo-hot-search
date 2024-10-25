@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729867205417,
+  "endTime": 1729869808815,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1576566,
+      "num": 595862,
+      "word": "塔斯汀 豆角汉堡",
+      "onboard_time": 1729866320,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1507576,
       "num": 863309,
       "word": "南通小米SU7事件附近商户停业",
       "onboard_time": 1729847600,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1487119,
+      "num": 1487119,
+      "word": "孕激素让29岁女生妈感一下来了",
+      "onboard_time": 1729868600,
+      "rank": 0,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 1478285,
@@ -233,6 +249,14 @@
       "onboard_time": 1729849459,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1105657,
+      "num": 1105657,
+      "word": "宋茜对得起所有人 除了蒋欣",
+      "onboard_time": 1729865541,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1072052,
@@ -379,14 +403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 759614,
-      "num": 528509,
-      "word": "宋茜对得起所有人 除了蒋欣",
-      "onboard_time": 1729865541,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 758513,
       "num": 758513,
       "word": "杨子说不到1年将回归家庭",
@@ -400,6 +416,14 @@
       "word": "网传客户出轨LV柜姐后原配来闹事",
       "onboard_time": 1729769598,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750371,
+      "num": 750371,
+      "word": "司机警车内失去意识后抢救无效身亡",
+      "onboard_time": 1729866921,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -563,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595862,
-      "num": 595862,
-      "word": "塔斯汀 豆角汉堡",
-      "onboard_time": 1729866320,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 588639,
       "num": 588639,
       "word": "覃海洋说今晚真的很幸运",
@@ -649,6 +665,14 @@
       "onboard_time": 1729858578,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 537462,
+      "num": 537462,
+      "word": "汪苏泷演唱会DJ是宋茜",
+      "onboard_time": 1729867761,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 532689,
@@ -787,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440672,
+      "num": 440672,
+      "word": "留几手",
+      "onboard_time": 1729866561,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438551,
       "num": 438551,
       "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 387038,
-      "num": 354829,
+      "num": 374517,
       "word": "雅真的让妻子在披哥闪耀了",
       "onboard_time": 1729864158,
       "rank": 18,
@@ -1016,6 +1048,14 @@
       "word": "被害人家属称余华英再判死是正义胜利",
       "onboard_time": 1729843639,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317567,
+      "num": 317567,
+      "word": "近七旬父亲出狱后女儿不愿赡养",
+      "onboard_time": 1729866020,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225355,
+      "num": 256971,
+      "word": "千万级主播带货称21天能年轻3.5岁",
+      "onboard_time": 1729861697,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225008,
       "num": 340766,
       "word": "赴山海杀青特辑",
@@ -1401,14 +1449,6 @@
       "onboard_time": 1729785557,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222934,
-      "num": 222934,
-      "word": "留几手",
-      "onboard_time": 1729866561,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 221939,
@@ -1587,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196109,
+      "num": 196109,
+      "word": "乔妍的心事",
+      "onboard_time": 1729869080,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195880,
       "num": 195880,
       "word": "余华英案情回顾",
@@ -1691,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185803,
-      "num": 185803,
-      "word": "近七旬父亲出狱后女儿不愿赡养",
-      "onboard_time": 1729866020,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185408,
       "num": 185408,
       "word": "刘诗诗鎏金风格大片",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1729841537,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180983,
-      "num": 180983,
-      "word": "司机警车内失去意识后抢救无效身亡",
-      "onboard_time": 1729866921,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180417,
@@ -2019,6 +2051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157827,
+      "num": 157827,
+      "word": "成都警方通报河道现浮尸",
+      "onboard_time": 1729869260,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156976,
       "num": 156976,
       "word": "潘展乐400自金牌",
@@ -2083,14 +2123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150349,
-      "num": 256971,
-      "word": "千万级主播带货称21天能年轻3.5岁",
-      "onboard_time": 1729861697,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150257,
       "num": 150257,
       "word": "李克勤披荆斩棘xleader",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1729833680,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148388,
+      "num": 148388,
+      "word": "极客湾小米15性能评测",
+      "onboard_time": 1729869739,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 146619,
@@ -2363,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "火树直播",
+      "onboard_time": 1729867940,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125390,
       "num": 125390,
       "word": "华晨宇唱响大莲花",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1729855518,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116675,
+      "num": 116675,
+      "word": "喻言王妃红绳舞",
+      "onboard_time": 1729867220,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 116317,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1729780041,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109842,
+      "num": 163325,
+      "word": "王艺迪vs钱天一",
+      "onboard_time": 1729868421,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 109049,
@@ -2843,6 +2907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53600,
+      "num": 271138,
+      "word": "休痛经假需要开诊断证明",
+      "onboard_time": 1729868781,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53044,
       "num": 411387,
       "word": "全年粮食再获丰收",
@@ -2928,6 +3000,14 @@
       "word": "捡秋的含金量还在上升",
       "onboard_time": 1729858877,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40912,
+      "num": 564462,
+      "word": "余华英案死刑是罪有应得但不是终点",
+      "onboard_time": 1729868001,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

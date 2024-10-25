@@ -1,0 +1,410 @@
+{
+  "runTime": 1729869808815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1487119,
+        "num": 1487119,
+        "word": "孕激素让29岁女生妈感一下来了",
+        "onboard_time": 1729868600,
+        "rank": 0,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 1222535,
+        "num": 1222535,
+        "word": "拜登将正式道歉",
+        "onboard_time": 1729861998,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2638,
+        "num": 1128398,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105657,
+        "num": 1105657,
+        "word": "宋茜对得起所有人 除了蒋欣",
+        "onboard_time": 1729865541,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1068218,
+        "num": 1068218,
+        "word": "荣梓杉被审判",
+        "onboard_time": 1729863079,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927177,
+        "num": 927177,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891023,
+        "num": 891023,
+        "word": "A2O 林钰珊",
+        "onboard_time": 1729865120,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772815,
+        "num": 772815,
+        "word": "A2O",
+        "onboard_time": 1729863680,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750371,
+        "num": 750371,
+        "word": "司机警车内失去意识后抢救无效身亡",
+        "onboard_time": 1729866921,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40912,
+        "num": 564462,
+        "word": "余华英案死刑是罪有应得但不是终点",
+        "onboard_time": 1729868001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537462,
+        "num": 537462,
+        "word": "汪苏泷演唱会DJ是宋茜",
+        "onboard_time": 1729867761,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1177446,
+        "num": 535583,
+        "word": "杨妞花爸爸吃老鼠药自杀",
+        "onboard_time": 1729865181,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508837,
+        "num": 508837,
+        "word": "花少 三个体面的山东人",
+        "onboard_time": 1729858818,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440672,
+        "num": 440672,
+        "word": "留几手",
+        "onboard_time": 1729866561,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420260,
+        "num": 420260,
+        "word": "AI聊天机器人诱导美国少年自杀身亡",
+        "onboard_time": 1729861399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374517,
+        "num": 374517,
+        "word": "雅真的让妻子在披哥闪耀了",
+        "onboard_time": 1729864158,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371647,
+        "num": 371647,
+        "word": "如果我不丢爸妈就死不了",
+        "onboard_time": 1729863500,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317567,
+        "num": 317567,
+        "word": "近七旬父亲出狱后女儿不愿赡养",
+        "onboard_time": 1729866020,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288366,
+        "num": 288366,
+        "word": "覃海洋说今晚真的很幸运",
+        "onboard_time": 1729862718,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53600,
+        "num": 271138,
+        "word": "休痛经假需要开诊断证明",
+        "onboard_time": 1729868781,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344929,
+        "num": 269260,
+        "word": "李秀满A2O练习生公开",
+        "onboard_time": 1729861399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266079,
+        "num": 266079,
+        "word": "徐海乔四十岁实现了二十岁的梦想",
+        "onboard_time": 1729863799,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236364,
+        "num": 236364,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234671,
+        "num": 234671,
+        "word": "湖南一男子杀父骗保被刑拘",
+        "onboard_time": 1729860497,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231143,
+        "num": 231143,
+        "word": "郑钦文不吃香蕉尖尖",
+        "onboard_time": 1729854440,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225355,
+        "num": 225355,
+        "word": "千万级主播带货称21天能年轻3.5岁",
+        "onboard_time": 1729861697,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196109,
+        "num": 196109,
+        "word": "乔妍的心事",
+        "onboard_time": 1729869080,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166297,
+        "num": 166297,
+        "word": "BIGBANG合体录综艺",
+        "onboard_time": 1729858520,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164560,
+        "num": 164560,
+        "word": "怪不得有时候老师莫名其妙就生气",
+        "onboard_time": 1729866020,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109842,
+        "num": 163325,
+        "word": "王艺迪vs钱天一",
+        "onboard_time": 1729868421,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162549,
+        "num": 162549,
+        "word": "男孩踩女童家长不道歉反骂狗都不如",
+        "onboard_time": 1729857738,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162314,
+        "num": 162314,
+        "word": "八个人吃着几百个人的饺子",
+        "onboard_time": 1729866320,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157827,
+        "num": 157827,
+        "word": "成都警方通报河道现浮尸",
+        "onboard_time": 1729869260,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157647,
+        "num": 157647,
+        "word": "四位专家会诊海水倒灌",
+        "onboard_time": 1729863320,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576566,
+        "num": 157383,
+        "word": "塔斯汀 豆角汉堡",
+        "onboard_time": 1729866320,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155369,
+        "num": 155369,
+        "word": "酒店订单订后即焚功能引争议",
+        "onboard_time": 1729861519,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150716,
+        "num": 150716,
+        "word": "穿山甲给自己挖了32洞小区",
+        "onboard_time": 1729862359,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150486,
+        "num": 150486,
+        "word": "拐卖孩子的判了那买孩子的呢",
+        "onboard_time": 1729863380,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 148599,
+        "word": "田小娟不续约CUBE股价暴跌",
+        "onboard_time": 1729860318,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148388,
+        "num": 148388,
+        "word": "极客湾小米15性能评测",
+        "onboard_time": 1729869739,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 146803,
+        "word": "papi酱 黄圣依是杨子的金丝雀",
+        "onboard_time": 1729852098,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140424,
+        "num": 140424,
+        "word": "鹿晗和邓佳鑫互关",
+        "onboard_time": 1729854079,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 133455,
+        "word": "张本智和3比2卡尔伯格",
+        "onboard_time": 1729864040,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131177,
+        "num": 131177,
+        "word": "彭昱畅直播回应黄磊做饭好吃",
+        "onboard_time": 1729853778,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130142,
+        "num": 130142,
+        "word": "一起打卡秋天里的中国",
+        "onboard_time": 1729866260,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128655,
+        "num": 128655,
+        "word": "华晨宇说西湖醋鱼好吃",
+        "onboard_time": 1729866140,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125539,
+        "num": 125539,
+        "word": "火树直播",
+        "onboard_time": 1729867940,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125455,
+        "num": 125455,
+        "word": "律师解读余华英被判死刑要上诉",
+        "onboard_time": 1729851979,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "汪苏泷嘉宾王源",
+        "onboard_time": 1729858158,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116675,
+        "num": 116675,
+        "word": "喻言王妃红绳舞",
+        "onboard_time": 1729867220,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何汇聚全球南方磅礴力量#"
+    }
+  }
+}
