@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729874630554,
+  "endTime": 1729876818945,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -18513,6 +18513,14 @@
       "onboard_time": 1727984952,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 394468,
+      "num": 394468,
+      "word": "台风潭美进入24小时警戒线",
+      "onboard_time": 1729873338,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394385,
@@ -48627,6 +48635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146705,
+      "num": 146705,
+      "word": "麦琳想要什么",
+      "onboard_time": 1729873038,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146704,
       "num": 118628,
       "word": "伊朗称将非常规回应以色列袭击",
@@ -48977,14 +48993,6 @@
       "onboard_time": 1729403659,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145337,
-      "num": 145337,
-      "word": "台风潭美进入24小时警戒线",
-      "onboard_time": 1729873338,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145332,
@@ -52153,14 +52161,6 @@
       "onboard_time": 1728120018,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133426,
-      "num": 133426,
-      "word": "麦琳想要什么",
-      "onboard_time": 1729873038,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 133408,
@@ -59707,6 +59707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98401,
+      "num": 98401,
+      "word": "男子杀父骗保赔偿金超790万",
+      "onboard_time": 1729874177,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98397,
       "num": 98397,
       "word": "武磊打了两针封闭",
@@ -62299,14 +62307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80436,
-      "num": 80436,
-      "word": "男子杀父骗保赔偿金超790万",
-      "onboard_time": 1729874177,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80340,
       "num": 179464,
       "word": "教科局回应严禁学生参加cos活动",
@@ -62409,6 +62409,14 @@
       "onboard_time": 1728965059,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79774,
+      "num": 183078,
+      "word": "司机与交警冲突后在警车身亡",
+      "onboard_time": 1729874057,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79749,
@@ -62721,6 +62729,14 @@
       "onboard_time": 1727921117,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77872,
+      "num": 77872,
+      "word": "余华英5000元亲手卖了儿子",
+      "onboard_time": 1729867401,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77773,
@@ -66299,6 +66315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52643,
+      "num": 52643,
+      "word": "登陆少年五只小熊台历",
+      "onboard_time": 1729876754,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52632,
       "num": 58938,
       "word": "许嵩西安演唱会",
@@ -69055,14 +69079,6 @@
       "num": 224957,
       "word": "我这样为祖国庆生",
       "onboard_time": 1727850558,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38772,
-      "num": 183078,
-      "word": "司机与交警冲突后在警车身亡",
-      "onboard_time": 1729874057,
       "rank": 19,
       "category": "社会新闻"
     },

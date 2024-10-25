@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729874630554,
+  "endTime": 1729876818945,
   "band_list": [
     {
       "raw_hot": 1051052,
@@ -80,6 +80,14 @@
       "word": "司机警车内失去意识后抢救无效身亡",
       "onboard_time": 1729866921,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394468,
+      "num": 394468,
+      "word": "台风潭美进入24小时警戒线",
+      "onboard_time": 1729873338,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -179,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145337,
-      "num": 145337,
-      "word": "台风潭美进入24小时警戒线",
-      "onboard_time": 1729873338,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 146705,
+      "num": 146705,
+      "word": "麦琳想要什么",
+      "onboard_time": 1729873038,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137567,
@@ -200,14 +208,6 @@
       "word": "周雨彤怕别人想吃她的零食",
       "onboard_time": 1729841598,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 133426,
-      "num": 133426,
-      "word": "麦琳想要什么",
-      "onboard_time": 1729873038,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -315,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98401,
+      "num": 98401,
+      "word": "男子杀父骗保赔偿金超790万",
+      "onboard_time": 1729874177,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98159,
       "num": 98159,
       "word": "彭昱畅直播回应黄磊做饭好吃",
       "onboard_time": 1729853778,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95084,
+      "num": 95084,
+      "word": "王者九周年限定回忆",
+      "onboard_time": 1729874536,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 93543,
@@ -355,11 +371,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80436,
-      "num": 80436,
-      "word": "男子杀父骗保赔偿金超790万",
-      "onboard_time": 1729874177,
-      "rank": 42,
+      "raw_hot": 79774,
+      "num": 183078,
+      "word": "司机与交警冲突后在警车身亡",
+      "onboard_time": 1729874057,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77872,
+      "num": 77872,
+      "word": "余华英5000元亲手卖了儿子",
+      "onboard_time": 1729867401,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -403,20 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65843,
-      "num": 79050,
-      "word": "王者九周年限定回忆",
-      "onboard_time": 1729874536,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 55662,
+      "num": 55662,
+      "word": "上一季的人都正常",
+      "onboard_time": 1729862238,
+      "rank": 44,
+      "category": "综艺"
     },
     {
-      "raw_hot": 38772,
-      "num": 183078,
-      "word": "司机与交警冲突后在警车身亡",
-      "onboard_time": 1729874057,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 52643,
+      "num": 52643,
+      "word": "登陆少年五只小熊台历",
+      "onboard_time": 1729876754,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 2388,
