@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729877889657,
+  "endTime": 1729881000186,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -61347,6 +61347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87009,
+      "num": 87009,
+      "word": "余华英5000元亲手卖了儿子",
+      "onboard_time": 1729867401,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87007,
       "num": 87007,
       "word": "刘青松状态",
@@ -61496,14 +61504,6 @@
       "word": "65岁老人手机有上百个短剧小程序",
       "onboard_time": 1729487119,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85615,
-      "num": 85615,
-      "word": "余华英5000元亲手卖了儿子",
-      "onboard_time": 1729867401,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -62257,6 +62257,14 @@
       "onboard_time": 1728494415,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81252,
+      "num": 154855,
+      "word": "林诗栋vs吴晙诚",
+      "onboard_time": 1729877054,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 81221,
@@ -71475,6 +71483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30750,
+      "num": 30750,
+      "word": "发现养狗人普遍只认狗不认人",
+      "onboard_time": 1729879693,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30725,
       "num": 30725,
       "word": "大冰连线",
@@ -72667,6 +72683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26585,
+      "num": 26585,
+      "word": "14岁少年沉迷AI恋人最终自尽",
+      "onboard_time": 1729880951,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26528,
       "num": 102580,
       "word": "深圳一楼盘超2000人抢192套房",
@@ -73505,14 +73529,6 @@
       "onboard_time": 1728299781,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23017,
-      "num": 154855,
-      "word": "林诗栋vs吴晙诚",
-      "onboard_time": 1729877054,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 23007,
@@ -75377,6 +75393,14 @@
       "onboard_time": 1728585492,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14715,
+      "num": 112490,
+      "word": "梅姨案来龙去脉",
+      "onboard_time": 1729879273,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14706,
