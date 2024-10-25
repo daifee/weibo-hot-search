@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729860152629,
+  "endTime": 1729861125873,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1528637,
+      "num": 1528637,
+      "word": "花少 三个体面的山东人",
+      "onboard_time": 1729858818,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1507576,
       "num": 863309,
       "word": "南通小米SU7事件附近商户停业",
@@ -211,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1008444,
-      "num": 337246,
-      "word": "花少 三个体面的山东人",
-      "onboard_time": 1729858818,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1006442,
       "num": 1006442,
       "word": "尤长靖披哥史上最年轻总冠军",
@@ -273,6 +273,14 @@
       "onboard_time": 1729854440,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 861177,
+      "num": 382960,
+      "word": "男孩踩女童家长不道歉反骂狗都不如",
+      "onboard_time": 1729857738,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850901,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535479,
+      "num": 535479,
+      "word": "宋茜 人好",
+      "onboard_time": 1729858578,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524649,
       "num": 524649,
       "word": "BIGBANG合体录综艺",
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 492541,
-      "num": 329825,
+      "num": 382841,
       "word": "34岁女生在英国留学的堕落之夜",
       "onboard_time": 1729852997,
       "rank": 30,
@@ -592,14 +608,6 @@
       "word": "母亲哭诉已经寻子11688天",
       "onboard_time": 1729835058,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464545,
-      "num": 334420,
-      "word": "男孩踩女童家长不道歉反骂狗都不如",
-      "onboard_time": 1729857738,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446884,
+      "num": 446884,
+      "word": "这50个项目都是诈骗",
+      "onboard_time": 1729856598,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438551,
       "num": 438551,
       "word": "台湾每日鸡蛋过剩百万颗蛋农赔惨",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 438443,
-      "num": 332225,
+      "num": 362400,
       "word": "鹿晗和邓佳鑫互关",
       "onboard_time": 1729854079,
       "rank": 22,
@@ -763,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 402126,
-      "num": 402126,
-      "word": "宋茜 人好",
-      "onboard_time": 1729858578,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "杨妞花说未来一定无人敢来贵州偷孩子",
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 341626,
-      "num": 341626,
+      "num": 384878,
       "word": "汪苏泷嘉宾王源",
       "onboard_time": 1729858158,
       "rank": 8,
@@ -1035,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274491,
+      "num": 274491,
+      "word": "花少6豆瓣开分4.8",
+      "onboard_time": 1729859118,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274214,
       "num": 274214,
       "word": "常华森荧幕初吻",
@@ -1091,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251771,
+      "num": 222701,
+      "word": "养了四年的狗每次回家都重启系统",
+      "onboard_time": 1729857018,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250361,
       "num": 250361,
       "word": "R1SE解散后姚琛压力没停过",
       "onboard_time": 1729845079,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248595,
+      "num": 248595,
+      "word": "TTG年总淘汰",
+      "onboard_time": 1729860618,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 244472,
@@ -1112,14 +1144,6 @@
       "word": "余华英案细节最新披露",
       "onboard_time": 1729837398,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238059,
-      "num": 238059,
-      "word": "这50个项目都是诈骗",
-      "onboard_time": 1729856598,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1179,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228817,
-      "num": 228817,
-      "word": "花少6豆瓣开分4.8",
-      "onboard_time": 1729859118,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228219,
       "num": 224806,
       "word": "第一次见用保温杯吃火锅",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1729785557,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222701,
-      "num": 222701,
-      "word": "养了四年的狗每次回家都重启系统",
-      "onboard_time": 1729857018,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 221939,
@@ -1283,12 +1291,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209347,
+      "num": 199313,
+      "word": "律师解读余华英被判死刑要上诉",
+      "onboard_time": 1729851979,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208562,
       "num": 208562,
       "word": "余华英被判死刑是告慰亦是震慑",
       "onboard_time": 1729834519,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206427,
+      "num": 206427,
+      "word": "田小娟不续约CUBE股价暴跌",
+      "onboard_time": 1729860318,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 204907,
@@ -1344,14 +1368,6 @@
       "word": "关闭捐助渠道的烧伤妈妈让人动容",
       "onboard_time": 1729811776,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199313,
-      "num": 199313,
-      "word": "律师解读余华英被判死刑要上诉",
-      "onboard_time": 1729851979,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1515,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181885,
+      "num": 181885,
+      "word": "GAPDAY 谁抢到了",
+      "onboard_time": 1729860078,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181864,
       "num": 181864,
       "word": "毒液",
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 179152,
-      "num": 341321,
+      "num": 383042,
       "word": "重庆抗美援朝老兵回忆峥嵘岁月",
       "onboard_time": 1729859838,
       "rank": 9,
@@ -1563,12 +1587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "麦当劳绝区零联动",
+      "onboard_time": 1729860558,
+      "rank": 31,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 176790,
       "num": 176790,
       "word": "宋茜 舞台是服务观众",
       "onboard_time": 1729841357,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176612,
+      "num": 176612,
+      "word": "绝区零",
+      "onboard_time": 1729860139,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 176150,
@@ -1595,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174869,
+      "num": 174869,
+      "word": "你好种地少年",
+      "onboard_time": 1729855638,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174735,
       "num": 174735,
       "word": "再见爱人",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1729827620,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 173961,
+      "num": 173961,
+      "word": "湖南一男子杀父骗保被刑拘",
+      "onboard_time": 1729860497,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173434,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1729804570,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 169194,
-      "num": 169194,
-      "word": "你好种地少年",
-      "onboard_time": 1729855638,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 169161,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1729780460,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 157357,
+      "num": 157357,
+      "word": "再见爱人 一分钟震惊无数次",
+      "onboard_time": 1729859778,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 156976,
@@ -1817,14 +1873,6 @@
       "onboard_time": 1729837757,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146240,
-      "num": 146240,
-      "word": "再见爱人 一分钟震惊无数次",
-      "onboard_time": 1729859778,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 145853,
@@ -1939,20 +1987,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134478,
+      "num": 134478,
+      "word": "奥克兰海域尸骸死者为中国公民",
+      "onboard_time": 1729856058,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134044,
       "num": 134044,
       "word": "羊驼肉女士",
       "onboard_time": 1729780641,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133815,
-      "num": 133815,
-      "word": "奥克兰海域尸骸死者为中国公民",
-      "onboard_time": 1729856058,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133576,
@@ -2043,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125390,
+      "num": 125390,
+      "word": "华晨宇唱响大莲花",
+      "onboard_time": 1729860919,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125151,
       "num": 125151,
       "word": "山东大学男生多次偷拍女厕后求饶",
@@ -2051,8 +2107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122726,
-      "num": 122726,
+      "raw_hot": 123800,
+      "num": 123800,
       "word": "为什么存量房贷利率没有降到3.3%",
       "onboard_time": 1729857259,
       "rank": 44,
@@ -2067,20 +2123,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121198,
-      "num": 121198,
-      "word": "绝区零",
-      "onboard_time": 1729860139,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 120977,
       "num": 120977,
       "word": "唐钱婷女子100蛙夺金",
       "onboard_time": 1729857917,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119430,
+      "num": 119430,
+      "word": "拐卖对受害家庭是无法量化的伤害",
+      "onboard_time": 1729861100,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117596,
@@ -2507,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52065,
+      "num": 230657,
+      "word": "以为是向佐家人组团袭榜",
+      "onboard_time": 1729859657,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49438,
       "num": 208184,
       "word": "陈梦谈个人梦想和国家荣誉排序",
@@ -2561,14 +2625,6 @@
       "onboard_time": 1729835778,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40771,
-      "num": 230657,
-      "word": "以为是向佐家人组团袭榜",
-      "onboard_time": 1729859657,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 39367,
@@ -2676,7 +2732,7 @@
     },
     {
       "raw_hot": 29973,
-      "num": 137600,
+      "num": 148237,
       "word": "捡秋的含金量还在上升",
       "onboard_time": 1729858877,
       "rank": 40,
@@ -2825,6 +2881,22 @@
       "onboard_time": 1729829179,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13980,
+      "num": 927154,
+      "word": "这些重大工程彰显中国力量",
+      "onboard_time": 1729861038,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13612,
+      "num": 267280,
+      "word": "秋粮收获好丰景",
+      "onboard_time": 1729860558,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13489,

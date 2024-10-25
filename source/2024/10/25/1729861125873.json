@@ -1,0 +1,410 @@
+{
+  "runTime": 1729861125873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2217748,
+        "num": 2217748,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1528637,
+        "num": 1528637,
+        "word": "花少 三个体面的山东人",
+        "onboard_time": 1729858818,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13980,
+        "num": 927154,
+        "word": "这些重大工程彰显中国力量",
+        "onboard_time": 1729861038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695217,
+        "num": 695217,
+        "word": "郑钦文不吃香蕉尖尖",
+        "onboard_time": 1729854440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535479,
+        "num": 535479,
+        "word": "宋茜 人好",
+        "onboard_time": 1729858578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446884,
+        "num": 446884,
+        "word": "这50个项目都是诈骗",
+        "onboard_time": 1729856598,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501602,
+        "num": 424837,
+        "word": "BIGBANG合体录综艺",
+        "onboard_time": 1729858520,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393888,
+        "num": 393888,
+        "word": "潘展乐100自第四",
+        "onboard_time": 1729857318,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319862,
+        "num": 384878,
+        "word": "汪苏泷嘉宾王源",
+        "onboard_time": 1729858158,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130270,
+        "num": 383042,
+        "word": "重庆抗美援朝老兵回忆峥嵘岁月",
+        "onboard_time": 1729859838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861177,
+        "num": 382960,
+        "word": "男孩踩女童家长不道歉反骂狗都不如",
+        "onboard_time": 1729857738,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382841,
+        "num": 382841,
+        "word": "34岁女生在英国留学的堕落之夜",
+        "onboard_time": 1729852997,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362400,
+        "num": 362400,
+        "word": "鹿晗和邓佳鑫互关",
+        "onboard_time": 1729854079,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318379,
+        "num": 318379,
+        "word": "一觉醒来每月房贷少了近千元",
+        "onboard_time": 1729843639,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274491,
+        "num": 274491,
+        "word": "花少6豆瓣开分4.8",
+        "onboard_time": 1729859118,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13612,
+        "num": 267280,
+        "word": "秋粮收获好丰景",
+        "onboard_time": 1729860558,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264642,
+        "num": 264642,
+        "word": "百万粉丝网红编造虚假身世卖惨被抓",
+        "onboard_time": 1729851137,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 254659,
+        "num": 254659,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252750,
+        "num": 252750,
+        "word": "覃海洋50蛙金牌",
+        "onboard_time": 1729856058,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248595,
+        "num": 248595,
+        "word": "TTG年总淘汰",
+        "onboard_time": 1729860618,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 728410,
+        "num": 241871,
+        "word": "彭昱畅直播回应黄磊做饭好吃",
+        "onboard_time": 1729853778,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389203,
+        "num": 234736,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340123,
+        "num": 217441,
+        "word": "papi酱 黄圣依是杨子的金丝雀",
+        "onboard_time": 1729852098,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251771,
+        "num": 208533,
+        "word": "养了四年的狗每次回家都重启系统",
+        "onboard_time": 1729857018,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206427,
+        "num": 206427,
+        "word": "田小娟不续约CUBE股价暴跌",
+        "onboard_time": 1729860318,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199980,
+        "num": 199980,
+        "word": "大梦归离",
+        "onboard_time": 1729842859,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232723,
+        "num": 194243,
+        "word": "高三学生拿走两条天线被劝退",
+        "onboard_time": 1729845679,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319731,
+        "num": 193108,
+        "word": "杨子嫌黄圣依赚不到钱",
+        "onboard_time": 1729849459,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209347,
+        "num": 191479,
+        "word": "律师解读余华英被判死刑要上诉",
+        "onboard_time": 1729851979,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187692,
+        "num": 187692,
+        "word": "亲友是我的何老师",
+        "onboard_time": 1729854979,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181885,
+        "num": 181885,
+        "word": "GAPDAY 谁抢到了",
+        "onboard_time": 1729860078,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177396,
+        "num": 177396,
+        "word": "麦当劳绝区零联动",
+        "onboard_time": 1729860558,
+        "rank": 31,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 176612,
+        "num": 176612,
+        "word": "绝区零",
+        "onboard_time": 1729860139,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174937,
+        "num": 174937,
+        "word": "第一次见用保温杯吃火锅",
+        "onboard_time": 1729854259,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 174887,
+        "word": "毒液",
+        "onboard_time": 1729859778,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174869,
+        "num": 174869,
+        "word": "你好种地少年",
+        "onboard_time": 1729855638,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173961,
+        "num": 173961,
+        "word": "湖南一男子杀父骗保被刑拘",
+        "onboard_time": 1729860497,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157357,
+        "num": 157357,
+        "word": "再见爱人 一分钟震惊无数次",
+        "onboard_time": 1729859778,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152306,
+        "num": 152306,
+        "word": "鹿晗音乐节抢票",
+        "onboard_time": 1729859417,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150641,
+        "num": 150641,
+        "word": "电影乔妍的心事",
+        "onboard_time": 1729856657,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28488,
+        "num": 148237,
+        "word": "捡秋的含金量还在上升",
+        "onboard_time": 1729858877,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52065,
+        "num": 148138,
+        "word": "以为是向佐家人组团袭榜",
+        "onboard_time": 1729859657,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148122,
+        "num": 148122,
+        "word": "黄晓明秃头海报",
+        "onboard_time": 1729842918,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134478,
+        "num": 134478,
+        "word": "奥克兰海域尸骸死者为中国公民",
+        "onboard_time": 1729856058,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131140,
+        "num": 131140,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128902,
+        "num": 128902,
+        "word": "TTG对战EDGM",
+        "onboard_time": 1729854319,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 125390,
+        "word": "华晨宇唱响大莲花",
+        "onboard_time": 1729860919,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 123800,
+        "word": "为什么存量房贷利率没有降到3.3%",
+        "onboard_time": 1729857259,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122866,
+        "num": 122866,
+        "word": "教育部要求自觉抵制丑书和怪书",
+        "onboard_time": 1729847118,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119430,
+        "num": 119430,
+        "word": "拐卖对受害家庭是无法量化的伤害",
+        "onboard_time": 1729861100,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国始终心系全球南方扎根全球南方#"
+    }
+  }
+}
