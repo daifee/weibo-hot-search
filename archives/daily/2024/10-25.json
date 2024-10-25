@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729848236060,
+  "endTime": 1729849071866,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -41,6 +41,14 @@
       "onboard_time": 1729818738,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1938950,
+      "num": 1938950,
+      "word": "梅姨案就差梅姨本人没找到了",
+      "onboard_time": 1729847418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1788456,
@@ -187,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 974841,
+      "num": 974841,
+      "word": "黄晓明秃头海报",
+      "onboard_time": 1729842918,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 944743,
       "num": 196847,
       "word": "当地回应出轨多人干部被质疑公款出游",
@@ -203,12 +219,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 885849,
-      "num": 885849,
-      "word": "黄晓明秃头海报",
-      "onboard_time": 1729842918,
-      "rank": 20,
-      "category": "电影"
+      "raw_hot": 863309,
+      "num": 863309,
+      "word": "南通小米SU7事件附近商户停业",
+      "onboard_time": 1729847600,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850901,
@@ -409,14 +425,6 @@
       "onboard_time": 1729827981,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 565197,
-      "num": 565197,
-      "word": "梅姨案就差梅姨本人没找到了",
-      "onboard_time": 1729847418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564385,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394717,
+      "num": 394717,
+      "word": "男子疑因买车被嘲讽持刀伤人致1死",
+      "onboard_time": 1729846698,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384765,
       "num": 312369,
       "word": "未婚妻就在隔壁男子竟偷拍合租女生",
@@ -665,14 +681,6 @@
       "onboard_time": 1729812197,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353832,
-      "num": 353832,
-      "word": "南通小米SU7事件附近商户停业",
-      "onboard_time": 1729847600,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339344,
@@ -720,14 +728,6 @@
       "word": "被害人家属称余华英再判死是正义胜利",
       "onboard_time": 1729843639,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318622,
-      "num": 318622,
-      "word": "男子疑因买车被嘲讽持刀伤人致1死",
-      "onboard_time": 1729846698,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -915,20 +915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249755,
+      "num": 249755,
+      "word": "郑钦文vs费尔南德斯",
+      "onboard_time": 1729845857,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 244472,
+      "num": 244472,
+      "word": "50个民族资产解冻类诈骗项目名称",
+      "onboard_time": 1729846039,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243937,
       "num": 455338,
       "word": "余华英案细节最新披露",
       "onboard_time": 1729837398,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243260,
-      "num": 243260,
-      "word": "郑钦文vs费尔南德斯",
-      "onboard_time": 1729845857,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 237089,
@@ -993,14 +1001,6 @@
       "onboard_time": 1729843158,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226795,
-      "num": 226795,
-      "word": "50个民族资产解冻类诈骗项目名称",
-      "onboard_time": 1729846039,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226466,
@@ -1091,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202484,
+      "num": 202484,
+      "word": "篮球选手退役做演员拍出黑历史",
+      "onboard_time": 1729847177,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200950,
       "num": 200950,
       "word": "关闭捐助渠道的烧伤妈妈让人动容",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1729827500,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196154,
-      "num": 196154,
-      "word": "篮球选手退役做演员拍出黑历史",
-      "onboard_time": 1729847177,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 195880,
@@ -1195,6 +1195,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 186375,
+      "num": 186375,
+      "word": "中级会计成绩",
+      "onboard_time": 1729848258,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185408,
       "num": 185408,
       "word": "刘诗诗鎏金风格大片",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1729841537,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179512,
+      "num": 179512,
+      "word": "李克勤 这个奖有三分之一属于秦昊",
+      "onboard_time": 1729848679,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 178352,
@@ -1347,20 +1363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162203,
+      "num": 162203,
+      "word": "王多多预测WBG进决赛",
+      "onboard_time": 1729846399,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158478,
       "num": 154730,
       "word": "韩安冉 汪静",
       "onboard_time": 1729780460,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 157062,
-      "num": 157062,
-      "word": "王多多预测WBG进决赛",
-      "onboard_time": 1729846399,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 156976,
@@ -1587,6 +1603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129303,
+      "num": 129303,
+      "word": "张杰看谢娜的脱口秀舞台",
+      "onboard_time": 1729848378,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129254,
+      "num": 129254,
+      "word": "朱星杰短剧赛道",
+      "onboard_time": 1729848977,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127040,
       "num": 127040,
       "word": "首套房贷利率已调至LPR减30个点",
@@ -1731,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106325,
+      "num": 588334,
+      "word": "教育部要求自觉抵制丑书和怪书",
+      "onboard_time": 1729847118,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98976,
       "num": 310808,
       "word": "尤长靖发文谈披荆斩棘4",
@@ -1795,11 +1835,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85980,
+      "num": 406617,
+      "word": "严屹宽视频作文告别披哥",
+      "onboard_time": 1729848079,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85525,
       "num": 108433,
       "word": "林高远1比3杜达",
       "onboard_time": 1729778181,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85009,
+      "num": 444805,
+      "word": "MLB帽子打起来了",
+      "onboard_time": 1729846819,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -1843,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79395,
-      "num": 588334,
-      "word": "教育部要求自觉抵制丑书和怪书",
-      "onboard_time": 1729847118,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79384,
       "num": 79384,
       "word": "沙白白",
@@ -1873,14 +1921,6 @@
       "onboard_time": 1729746679,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75429,
-      "num": 444805,
-      "word": "MLB帽子打起来了",
-      "onboard_time": 1729846819,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 72945,
@@ -1971,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53003,
+      "num": 469303,
+      "word": "余华英没有敢再盯着杨妞花看",
+      "onboard_time": 1729847418,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48940,
       "num": 542186,
       "word": "杨妞花说重审前一晚梦到爸爸了",
@@ -2027,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38622,
+      "num": 398134,
+      "word": "商场游艺室隐藏了16台赌博机",
+      "onboard_time": 1729847118,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37219,
       "num": 319944,
       "word": "法院称余华英主观恶性极深",
@@ -2075,22 +2131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33689,
-      "num": 398134,
-      "word": "商场游艺室隐藏了16台赌博机",
-      "onboard_time": 1729847118,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32516,
-      "num": 469303,
-      "word": "余华英没有敢再盯着杨妞花看",
-      "onboard_time": 1729847418,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31822,
       "num": 487568,
       "word": "李沁发文道别七夜雪",
@@ -2116,7 +2156,7 @@
     },
     {
       "raw_hot": 30604,
-      "num": 1319267,
+      "num": 1454312,
       "word": "大金砖合作高光时刻",
       "onboard_time": 1729818139,
       "rank": 15,
@@ -2176,6 +2216,14 @@
       "word": "对话梅姨案最后一名被拐儿童父亲",
       "onboard_time": 1729843939,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21674,
+      "num": 573919,
+      "word": "为什么房贷利率调整后有高有低",
+      "onboard_time": 1729848439,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2297,14 +2345,6 @@
       "onboard_time": 1729844718,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6335,
-      "num": 400247,
-      "word": "严屹宽视频作文告别披哥",
-      "onboard_time": 1729848079,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 5625,
