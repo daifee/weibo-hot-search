@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729821602228,
+  "endTime": 1729824977805,
   "band_list": [
     {
       "raw_hot": 2659700,
@@ -25,6 +25,14 @@
       "onboard_time": 1729815500,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1702355,
+      "num": 1702355,
+      "word": "听到父母去世杨妞花整张脸都麻了",
+      "onboard_time": 1729821978,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1405023,
@@ -73,6 +81,14 @@
       "onboard_time": 1729816039,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 785779,
+      "num": 785779,
+      "word": "中美南海撞机事件肇事美机将展出",
+      "onboard_time": 1729820178,
+      "rank": 26,
+      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 753939,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596925,
+      "num": 449157,
+      "word": "江苏南通持刀伤人致1死嫌犯被控制",
+      "onboard_time": 1729817540,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573181,
       "num": 200413,
       "word": "杨子 你姓什么呀",
@@ -163,27 +187,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 546918,
-      "num": 546918,
-      "word": "中美南海撞机事件肇事美机将展出",
-      "onboard_time": 1729820178,
-      "rank": 26,
-      "category": "国内时政,国外时政"
-    },
-    {
       "raw_hot": 521888,
       "num": 354522,
       "word": "女子因长相被开玩笑意外发现身世",
       "onboard_time": 1729769178,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487208,
-      "num": 449157,
-      "word": "江苏南通持刀伤人致1死嫌犯被控制",
-      "onboard_time": 1729817540,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392294,
+      "num": 392294,
+      "word": "被拐女孩只记得爸爸和人贩子的脸",
+      "onboard_time": 1729821918,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371442,
       "num": 371442,
       "word": "教育局回应建议取消家长护学岗",
@@ -267,12 +283,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 363938,
+      "num": 344597,
+      "word": "李钟硕宋智孝甜到大家以为是真的",
+      "onboard_time": 1729822038,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356575,
       "num": 356575,
       "word": "你用过的头像竟然是庆怜",
       "onboard_time": 1729812197,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339344,
+      "num": 339344,
+      "word": "著名韩国演员金秀美去世",
+      "onboard_time": 1729822518,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 338059,
@@ -289,6 +321,14 @@
       "onboard_time": 1729820478,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 312369,
+      "num": 312369,
+      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
+      "onboard_time": 1729819818,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311052,
@@ -320,6 +360,14 @@
       "word": "张极 朱志鑫",
       "onboard_time": 1729813937,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286241,
+      "num": 286241,
+      "word": "杨子否认给黄圣依送礼物",
+      "onboard_time": 1729824079,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -355,6 +403,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249826,
+      "num": 183675,
+      "word": "热河去世",
+      "onboard_time": 1729824738,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249551,
+      "num": 355742,
+      "word": "田小娟离开CUBE不续约",
+      "onboard_time": 1729824439,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237927,
+      "num": 451966,
+      "word": "志愿军出国作战74周年",
+      "onboard_time": 1729816099,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 237089,
+      "num": 237089,
+      "word": "胡冰卿再看戚百草感到陌生",
+      "onboard_time": 1729824258,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232748,
       "num": 232748,
       "word": "美宣布向乌提供200亿美元贷款",
@@ -369,6 +449,14 @@
       "onboard_time": 1729765097,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225008,
+      "num": 340766,
+      "word": "赴山海杀青特辑",
+      "onboard_time": 1729822220,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 224293,
@@ -395,12 +483,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194334,
+      "num": 454486,
+      "word": "存量房贷利率今日起调整",
+      "onboard_time": 1729815259,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192656,
       "num": 192656,
       "word": "妹妹突然会走路哥哥欣喜到定住",
       "onboard_time": 1729789574,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189418,
+      "num": 189418,
+      "word": "受害者称余华英毁了她的家庭和人生",
+      "onboard_time": 1729824559,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183721,
+      "num": 183721,
+      "word": "HYBE被指用章昊营销韩振",
+      "onboard_time": 1729823597,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182264,
+      "num": 182264,
+      "word": "陈梦给现在的自己打10分",
+      "onboard_time": 1729822699,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 178352,
@@ -411,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177749,
+      "num": 177749,
+      "word": "我一定要抓到人贩子给爸妈讨个公道",
+      "onboard_time": 1729824618,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176131,
       "num": 176131,
       "word": "活死人演唱会取消",
       "onboard_time": 1729782440,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173475,
+      "num": 173475,
+      "word": "古茗 魔道祖师",
+      "onboard_time": 1729824679,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 173434,
@@ -435,14 +571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159781,
-      "num": 454486,
-      "word": "存量房贷利率今日起调整",
-      "onboard_time": 1729815259,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158478,
       "num": 154730,
       "word": "韩安冉 汪静",
@@ -459,28 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151620,
-      "num": 151620,
-      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
-      "onboard_time": 1729819818,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150839,
       "num": 150839,
       "word": "4个伤肾的坏习惯",
       "onboard_time": 1729809073,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 150122,
-      "num": 451966,
-      "word": "志愿军出国作战74周年",
-      "onboard_time": 1729816099,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 141997,
@@ -497,6 +609,14 @@
       "onboard_time": 1729768637,
       "rank": 27,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 136245,
+      "num": 450142,
+      "word": "严惩人贩的呼吁是对天下无拐的期待",
+      "onboard_time": 1729820839,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135720,
@@ -555,6 +675,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131068,
+      "num": 131068,
+      "word": "马来西亚环球小姐参赛服装引争议",
+      "onboard_time": 1729824258,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130223,
+      "num": 130223,
+      "word": "赵丽颖辛芷蕾合唱渔樵问答",
+      "onboard_time": 1729824859,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 130219,
+      "num": 130219,
+      "word": "剑网3",
+      "onboard_time": 1729824559,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127040,
+      "num": 127040,
+      "word": "首套房贷利率已调至LPR减30个点",
+      "onboard_time": 1729822939,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 126751,
       "num": 126751,
       "word": "医护人员分享女性分娩用的无痛针",
@@ -579,6 +731,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117596,
+      "num": 117596,
+      "word": "柳智敏Sana未能入场Prada活动",
+      "onboard_time": 1729823059,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116963,
+      "num": 116963,
+      "word": "杨桑英说因为余华英从小爬着过来的",
+      "onboard_time": 1729824618,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "林高远止步男单32强",
@@ -601,14 +769,6 @@
       "onboard_time": 1729782799,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114302,
-      "num": 450142,
-      "word": "严惩人贩的呼吁是对天下无拐的期待",
-      "onboard_time": 1729820839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113790,
@@ -676,7 +836,7 @@
     },
     {
       "raw_hot": 96291,
-      "num": 96291,
+      "num": 354573,
       "word": "男子5岁被余华英拐走卖到邯郸",
       "onboard_time": 1729820538,
       "rank": 49,
@@ -980,7 +1140,7 @@
     },
     {
       "raw_hot": 4540,
-      "num": 889611,
+      "num": 912109,
       "word": "一组数据说金砖",
       "onboard_time": 1729759459,
       "rank": 2,
