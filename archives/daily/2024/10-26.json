@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729891315664,
+  "endTime": 1729892260712,
   "band_list": [
     {
       "raw_hot": 1051052,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128488,
+      "num": 128488,
+      "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
+      "onboard_time": 1729888512,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127951,
       "num": 127951,
       "word": "酒店订单订后即焚功能引争议",
@@ -313,14 +321,6 @@
       "onboard_time": 1729854079,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106979,
-      "num": 106979,
-      "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
-      "onboard_time": 1729888512,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100948,
@@ -515,20 +515,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35088,
+      "num": 38581,
+      "word": "耿爽呼吁以方立即停止袭击叙利亚",
+      "onboard_time": 1729890911,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29045,
+      "num": 29045,
+      "word": "95后小伙5天3万余粒子手绘秋天",
+      "onboard_time": 1729887851,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28618,
       "num": 31978,
       "word": "以军围困下医院要变大型坟场了",
       "onboard_time": 1729882332,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27000,
-      "num": 27000,
-      "word": "95后小伙5天3万余粒子手绘秋天",
-      "onboard_time": 1729887851,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26585,
@@ -547,19 +555,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13783,
-      "num": 36730,
-      "word": "耿爽呼吁以方立即停止袭击叙利亚",
-      "onboard_time": 1729890911,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12555,
       "num": 37253,
       "word": "他们用一腔热血拼来家国安宁",
       "onboard_time": 1729884792,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11792,
+      "num": 26723,
+      "word": "哈尔滨一居民楼突发火灾",
+      "onboard_time": 1729891632,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
