@@ -1,0 +1,410 @@
+{
+  "runTime": 1729851847968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032277,
+        "num": 1165164,
+        "word": "杨子嫌黄圣依赚不到钱",
+        "onboard_time": 1729849459,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946323,
+        "num": 946323,
+        "word": "多名目击者回应南通小米SU7事件",
+        "onboard_time": 1729850239,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3123,
+        "num": 711217,
+        "word": "大金砖合作高光时刻",
+        "onboard_time": 1729818139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600015,
+        "num": 600015,
+        "word": "一觉醒来每月房贷少了近千元",
+        "onboard_time": 1729843639,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592338,
+        "num": 592338,
+        "word": "黄晓明秃头海报",
+        "onboard_time": 1729842918,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 442895,
+        "num": 442895,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209330,
+        "num": 412971,
+        "word": "高三学生拿走两条天线被劝退",
+        "onboard_time": 1729845679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373600,
+        "num": 373600,
+        "word": "教育部要求自觉抵制丑书和怪书",
+        "onboard_time": 1729847118,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73493,
+        "num": 367800,
+        "word": "外交部回应中印军队从边境撤退",
+        "onboard_time": 1729850418,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33732,
+        "num": 357242,
+        "word": "直播间剧本骗走爸妈血汗钱",
+        "onboard_time": 1729851379,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507576,
+        "num": 339949,
+        "word": "南通小米SU7事件附近商户停业",
+        "onboard_time": 1729847600,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436297,
+        "num": 334062,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328322,
+        "num": 328322,
+        "word": "鹿晗关注TFING",
+        "onboard_time": 1729843939,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315099,
+        "num": 315099,
+        "word": "余华英在雪糕上下药拐走孩子",
+        "onboard_time": 1729840217,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40561,
+        "num": 314832,
+        "word": "杨妞花曾以为余华英会把她送回家",
+        "onboard_time": 1729850658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030553,
+        "num": 314719,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314585,
+        "num": 314585,
+        "word": "尤长靖披哥史上最年轻总冠军",
+        "onboard_time": 1729834338,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240668,
+        "num": 314493,
+        "word": "大梦归离",
+        "onboard_time": 1729842859,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198723,
+        "num": 314484,
+        "word": "李克勤 这个奖有三分之一属于秦昊",
+        "onboard_time": 1729848679,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314477,
+        "num": 314477,
+        "word": "钟自然涉嫌故意泄露国家秘密",
+        "onboard_time": 1729840698,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429004,
+        "num": 302622,
+        "word": "男子疑因买车被嘲讽持刀伤人致1死",
+        "onboard_time": 1729846698,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265073,
+        "num": 265073,
+        "word": "郑钦文vs费尔南德斯",
+        "onboard_time": 1729845857,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238136,
+        "num": 238136,
+        "word": "服务员 坏了遇到真来吃饭的了",
+        "onboard_time": 1729845199,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226859,
+        "num": 226859,
+        "word": "百万粉丝网红编造虚假身世卖惨被抓",
+        "onboard_time": 1729851137,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 217395,
+        "num": 217395,
+        "word": "想去上海过万圣节",
+        "onboard_time": 1729849699,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214698,
+        "num": 214698,
+        "word": "为啥莫名其妙就开了先用后付",
+        "onboard_time": 1729836258,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193955,
+        "num": 193955,
+        "word": "朱志鑫cos袁湘琴可爱鬼",
+        "onboard_time": 1729851618,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185482,
+        "num": 185482,
+        "word": "中国胃",
+        "onboard_time": 1729847600,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171982,
+        "num": 171982,
+        "word": "篮球选手退役做演员拍出黑历史",
+        "onboard_time": 1729847177,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165711,
+        "num": 165711,
+        "word": "华晨宇直播",
+        "onboard_time": 1729850418,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 160478,
+        "word": "余华英没有敢再盯着杨妞花看",
+        "onboard_time": 1729847418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153337,
+        "num": 153337,
+        "word": "大梦归离下证了",
+        "onboard_time": 1729849517,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152752,
+        "num": 152752,
+        "word": "连孟子义张予曦都认证的撞脸",
+        "onboard_time": 1729843338,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149456,
+        "num": 149456,
+        "word": "Hybe承认BTS音源注水",
+        "onboard_time": 1729832120,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146882,
+        "num": 146882,
+        "word": "鸿蒙微信",
+        "onboard_time": 1729837817,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139569,
+        "num": 139569,
+        "word": "陈梦为巴黎奥运会做金色美甲",
+        "onboard_time": 1729844597,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137846,
+        "num": 137846,
+        "word": "50个民族资产解冻类诈骗项目名称",
+        "onboard_time": 1729846039,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134259,
+        "num": 134259,
+        "word": "我推的孩子 男主死了",
+        "onboard_time": 1729836139,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134028,
+        "num": 134028,
+        "word": "中级会计成绩",
+        "onboard_time": 1729848258,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130941,
+        "num": 130941,
+        "word": "万圣节氛围",
+        "onboard_time": 1729850778,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130487,
+        "num": 130487,
+        "word": "李子柒团队回应何时更新",
+        "onboard_time": 1729844659,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124734,
+        "num": 124734,
+        "word": "王铮亮总决赛第二",
+        "onboard_time": 1729843218,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117006,
+        "num": 117006,
+        "word": "李行亮麦琳吵架",
+        "onboard_time": 1729838359,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115852,
+        "num": 115852,
+        "word": "海口做汤胡椒按斤倒",
+        "onboard_time": 1729849397,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115523,
+        "num": 115523,
+        "word": "坚持跑步一年身体的变化",
+        "onboard_time": 1729836198,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114067,
+        "num": 114067,
+        "word": "王多多预测WBG进决赛",
+        "onboard_time": 1729846399,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112283,
+        "num": 112283,
+        "word": "中方回应中印军队从中印边境撤退",
+        "onboard_time": 1729851678,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107754,
+        "num": 107754,
+        "word": "郑钦文连丢6局",
+        "onboard_time": 1729851739,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104904,
+        "num": 104904,
+        "word": "被害人家属称余华英再判死是正义胜利",
+        "onboard_time": 1729843639,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102050,
+        "num": 102050,
+        "word": "学生拿走两条天线家长称学校索赔25万",
+        "onboard_time": 1729851678,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国海洋大学全体师生回信#"
+    }
+  }
+}
