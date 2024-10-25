@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729824977805,
+  "endTime": 1729825528301,
   "band_list": [
     {
       "raw_hot": 2659700,
@@ -57,6 +57,14 @@
       "onboard_time": 1729819639,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084385,
+      "num": 1173501,
+      "word": "田小娟离开CUBE不续约",
+      "onboard_time": 1729824439,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 944743,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636492,
+      "num": 449157,
+      "word": "江苏南通持刀伤人致1死嫌犯被控制",
+      "onboard_time": 1729817540,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617931,
       "num": 617931,
       "word": "受害者希望余华英能被判处死刑",
@@ -163,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596925,
-      "num": 449157,
-      "word": "江苏南通持刀伤人致1死嫌犯被控制",
-      "onboard_time": 1729817540,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 597646,
+      "num": 231202,
+      "word": "热河去世",
+      "onboard_time": 1729824738,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 573181,
@@ -185,6 +201,14 @@
       "onboard_time": 1729775359,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 553552,
+      "num": 553552,
+      "word": "被拐女孩只记得爸爸和人贩子的脸",
+      "onboard_time": 1729821918,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521888,
@@ -267,12 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392294,
-      "num": 392294,
-      "word": "被拐女孩只记得爸爸和人贩子的脸",
-      "onboard_time": 1729821918,
-      "rank": 6,
+      "raw_hot": 384765,
+      "num": 312369,
+      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
+      "onboard_time": 1729819818,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373947,
+      "num": 344597,
+      "word": "李钟硕宋智孝甜到大家以为是真的",
+      "onboard_time": 1729822038,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 371442,
@@ -281,14 +313,6 @@
       "onboard_time": 1729775599,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 363938,
-      "num": 344597,
-      "word": "李钟硕宋智孝甜到大家以为是真的",
-      "onboard_time": 1729822038,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 356575,
@@ -323,14 +347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 312369,
-      "num": 312369,
-      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
-      "onboard_time": 1729819818,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311052,
       "num": 311052,
       "word": "尼日利亚酋长在机场豪横发钱",
@@ -363,12 +379,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286241,
+      "raw_hot": 292683,
+      "num": 292683,
+      "word": "古茗 魔道祖师",
+      "onboard_time": 1729824679,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 290781,
       "num": 286241,
       "word": "杨子否认给黄圣依送礼物",
       "onboard_time": 1729824079,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281438,
+      "num": 451966,
+      "word": "志愿军出国作战74周年",
+      "onboard_time": 1729816099,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 269197,
@@ -403,36 +435,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249826,
-      "num": 183675,
-      "word": "热河去世",
-      "onboard_time": 1729824738,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249551,
-      "num": 355742,
-      "word": "田小娟离开CUBE不续约",
-      "onboard_time": 1729824439,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237927,
-      "num": 451966,
-      "word": "志愿军出国作战74周年",
-      "onboard_time": 1729816099,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 237089,
       "num": 237089,
       "word": "胡冰卿再看戚百草感到陌生",
       "onboard_time": 1729824258,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235414,
+      "num": 235414,
+      "word": "受害者称余华英毁了她的家庭和人生",
+      "onboard_time": 1729824559,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232748,
@@ -499,10 +515,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189418,
-      "num": 189418,
-      "word": "受害者称余华英毁了她的家庭和人生",
-      "onboard_time": 1729824559,
+      "raw_hot": 191801,
+      "num": 191801,
+      "word": "赵丽颖辛芷蕾合唱渔樵问答",
+      "onboard_time": 1729824859,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186007,
+      "num": 186007,
+      "word": "余华英重审一审死刑",
+      "onboard_time": 1729825400,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -521,6 +545,14 @@
       "onboard_time": 1729822699,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "赴山海官宣杀青",
+      "onboard_time": 1729825098,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 178352,
@@ -545,14 +577,6 @@
       "onboard_time": 1729782440,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173475,
-      "num": 173475,
-      "word": "古茗 魔道祖师",
-      "onboard_time": 1729824679,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 173434,
@@ -587,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155285,
+      "num": 155285,
+      "word": "马来西亚环球小姐参赛服装引争议",
+      "onboard_time": 1729824258,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150839,
       "num": 150839,
       "word": "4个伤肾的坏习惯",
@@ -601,6 +633,14 @@
       "onboard_time": 1729779980,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138916,
+      "num": 138916,
+      "word": "杨桑英说因为余华英从小爬着过来的",
+      "onboard_time": 1729824618,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136929,
@@ -625,6 +665,14 @@
       "onboard_time": 1729780700,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135255,
+      "num": 135255,
+      "word": "剑网3",
+      "onboard_time": 1729824559,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 135183,
@@ -675,30 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131068,
-      "num": 131068,
-      "word": "马来西亚环球小姐参赛服装引争议",
-      "onboard_time": 1729824258,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 130223,
-      "num": 130223,
-      "word": "赵丽颖辛芷蕾合唱渔樵问答",
-      "onboard_time": 1729824859,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 130219,
-      "num": 130219,
-      "word": "剑网3",
-      "onboard_time": 1729824559,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127040,
       "num": 127040,
       "word": "首套房贷利率已调至LPR减30个点",
@@ -737,14 +761,6 @@
       "onboard_time": 1729823059,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 116963,
-      "num": 116963,
-      "word": "杨桑英说因为余华英从小爬着过来的",
-      "onboard_time": 1729824618,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116317,

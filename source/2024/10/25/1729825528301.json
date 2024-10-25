@@ -1,0 +1,410 @@
+{
+  "runTime": 1729825528301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084385,
+        "num": 1173501,
+        "word": "田小娟离开CUBE不续约",
+        "onboard_time": 1729824439,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046980,
+        "num": 1046980,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3422,
+        "num": 907748,
+        "word": "一组数据说金砖",
+        "onboard_time": 1729759459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1698452,
+        "num": 884395,
+        "word": "听到父母去世杨妞花整张脸都麻了",
+        "onboard_time": 1729821978,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777893,
+        "num": 777893,
+        "word": "中美南海撞机事件肇事美机将展出",
+        "onboard_time": 1729820178,
+        "rank": 4,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 553552,
+        "num": 553552,
+        "word": "被拐女孩只记得爸爸和人贩子的脸",
+        "onboard_time": 1729821918,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494127,
+        "num": 494127,
+        "word": "孙颖莎郭晶晶赵丽颖怎么折都有面",
+        "onboard_time": 1729816039,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437258,
+        "num": 437258,
+        "word": "武艺 五个微信还不够折腾吗",
+        "onboard_time": 1729814898,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405620,
+        "num": 405620,
+        "word": "受害者希望余华英能被判处死刑",
+        "onboard_time": 1729819518,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292683,
+        "num": 292683,
+        "word": "古茗 魔道祖师",
+        "onboard_time": 1729824679,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1124202,
+        "num": 289918,
+        "word": "黄圣依选择不离婚的原因",
+        "onboard_time": 1729815500,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1041386,
+        "num": 287142,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636492,
+        "num": 286171,
+        "word": "江苏南通持刀伤人致1死嫌犯被控制",
+        "onboard_time": 1729817540,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281438,
+        "num": 281438,
+        "word": "志愿军出国作战74周年",
+        "onboard_time": 1729816099,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373947,
+        "num": 279803,
+        "word": "李钟硕宋智孝甜到大家以为是真的",
+        "onboard_time": 1729822038,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305572,
+        "num": 278059,
+        "word": "著名韩国演员金秀美去世",
+        "onboard_time": 1729822518,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290781,
+        "num": 276986,
+        "word": "杨子否认给黄圣依送礼物",
+        "onboard_time": 1729824079,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271377,
+        "num": 271377,
+        "word": "巴勒斯坦女孩被当作人肉盾牌探路",
+        "onboard_time": 1729785198,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235414,
+        "num": 235414,
+        "word": "受害者称余华英毁了她的家庭和人生",
+        "onboard_time": 1729824559,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231358,
+        "num": 231358,
+        "word": "你用过的头像竟然是庆怜",
+        "onboard_time": 1729812197,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597646,
+        "num": 231202,
+        "word": "热河去世",
+        "onboard_time": 1729824738,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393635,
+        "num": 229472,
+        "word": "妈妈每月2000订我泡泡",
+        "onboard_time": 1729819639,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369221,
+        "num": 228829,
+        "word": "警方通报女子因挪车纠纷被打骨折",
+        "onboard_time": 1729817300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224218,
+        "num": 224218,
+        "word": "胡冰卿再看戚百草感到陌生",
+        "onboard_time": 1729824258,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201595,
+        "num": 201595,
+        "word": "赴山海杀青特辑",
+        "onboard_time": 1729822220,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191801,
+        "num": 191801,
+        "word": "赵丽颖辛芷蕾合唱渔樵问答",
+        "onboard_time": 1729824859,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189901,
+        "num": 189901,
+        "word": "泡泡玛特 抢不到",
+        "onboard_time": 1729813578,
+        "rank": 26,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 186007,
+        "num": 186007,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141748,
+        "num": 184476,
+        "word": "请记住他们用生命换来的和平",
+        "onboard_time": 1729820478,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189356,
+        "num": 183931,
+        "word": "张极 朱志鑫",
+        "onboard_time": 1729813937,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183217,
+        "num": 183217,
+        "word": "HYBE被指用章昊营销韩振",
+        "onboard_time": 1729823597,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181008,
+        "num": 181008,
+        "word": "赴山海官宣杀青",
+        "onboard_time": 1729825098,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179404,
+        "num": 179404,
+        "word": "存量房贷利率今日起调整",
+        "onboard_time": 1729815259,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384765,
+        "num": 178802,
+        "word": "未婚妻就在隔壁男子竟偷拍合租女生",
+        "onboard_time": 1729819818,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165471,
+        "num": 165471,
+        "word": "陈梦给现在的自己打10分",
+        "onboard_time": 1729822699,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162495,
+        "num": 162495,
+        "word": "我一定要抓到人贩子给爸妈讨个公道",
+        "onboard_time": 1729824618,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155990,
+        "num": 155990,
+        "word": "杨妞花说在领养家庭像贼一样",
+        "onboard_time": 1729787238,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155285,
+        "num": 155285,
+        "word": "马来西亚环球小姐参赛服装引争议",
+        "onboard_time": 1729824258,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147401,
+        "num": 147401,
+        "word": "警方通报男子持刀捅人后驾车乱撞",
+        "onboard_time": 1729815440,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138916,
+        "num": 138916,
+        "word": "杨桑英说因为余华英从小爬着过来的",
+        "onboard_time": 1729824618,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137845,
+        "num": 137845,
+        "word": "周雨彤让陈好做深蹲",
+        "onboard_time": 1729781059,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135255,
+        "num": 135255,
+        "word": "剑网3",
+        "onboard_time": 1729824559,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127518,
+        "num": 127518,
+        "word": "杨妞花和姐姐手牵手步入法庭",
+        "onboard_time": 1729821078,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127211,
+        "num": 127211,
+        "word": "严惩人贩的呼吁是对天下无拐的期待",
+        "onboard_time": 1729820839,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "12位被大众讨厌的明星聚在一个岛上",
+        "onboard_time": 1729775359,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118975,
+        "num": 118975,
+        "word": "余华英囚车进入法院",
+        "onboard_time": 1729818918,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113832,
+        "num": 113832,
+        "word": "女子因长相被开玩笑意外发现身世",
+        "onboard_time": 1729769178,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113466,
+        "num": 113466,
+        "word": "美宣布向乌提供200亿美元贷款",
+        "onboard_time": 1729816641,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113156,
+        "num": 113156,
+        "word": "首套房贷利率已调至LPR减30个点",
+        "onboard_time": 1729822939,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 112823,
+        "num": 112823,
+        "word": "央视曝光医美行业乱象",
+        "onboard_time": 1729783881,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#喀山宣言#"
+    }
+  }
+}

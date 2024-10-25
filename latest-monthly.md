@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/25 10:56:17
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/25 11:05:28
 </p>
 </blockquote>
 <p>
@@ -3525,6 +3525,12 @@ K总停播（热度：1089422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9F%E7%A6%BB%E5%BC%80CUBE%E4%B8%8D%E7%BB%AD%E7%BA%A6%23" target="weibo">
+田小娟离开CUBE不续约（热度：1084385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E5%B0%B11%E7%B1%B38%E7%9A%84%E5%B0%8F%E5%85%AC%E4%B8%BB%E6%9D%A5%E5%95%A6%23" target="weibo">
 刚出生就1米8的小公主来啦（热度：1083402）
 </a>
@@ -6005,12 +6011,6 @@ SpaceX首次回收星舰成功（热度：798348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B6%85%E7%94%9F%E5%89%8D%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89%23" target="weibo">
 王超生前录音曝光（热度：793628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E4%B8%8B%E4%BB%A4%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E8%A7%86%E9%A2%91%23" target="weibo">
-伊朗公布下令向以色列发射导弹视频（热度：793385）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729824977805,
+  "endTime": 1729825528301,
   "band_list": [
     {
       "raw_hot": 11386028,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1729579399,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1084385,
+      "num": 1173501,
+      "word": "田小娟离开CUBE不续约",
+      "onboard_time": 1729824439,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1081814,
@@ -2499,6 +2507,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 636492,
+      "num": 449157,
+      "word": "江苏南通持刀伤人致1死嫌犯被控制",
+      "onboard_time": 1729817540,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635055,
       "num": 313211,
       "word": "第一次拿到身份证的他得了第一名",
@@ -2691,12 +2707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596925,
-      "num": 449157,
-      "word": "江苏南通持刀伤人致1死嫌犯被控制",
-      "onboard_time": 1729817540,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 597646,
+      "num": 231202,
+      "word": "热河去世",
+      "onboard_time": 1729824738,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 596215,
@@ -2912,6 +2928,14 @@
       "word": "霜降",
       "onboard_time": 1729638855,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553552,
+      "num": 553552,
+      "word": "被拐女孩只记得爸爸和人贩子的脸",
+      "onboard_time": 1729821918,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3955,14 +3979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392294,
-      "num": 392294,
-      "word": "被拐女孩只记得爸爸和人贩子的脸",
-      "onboard_time": 1729821918,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390223,
       "num": 390223,
       "word": "3岁幼童遭生父女友虐待后离世",
@@ -4008,6 +4024,14 @@
       "word": "女生背小儿麻痹症男友登上泰山",
       "onboard_time": 1729726157,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384765,
+      "num": 312369,
+      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
+      "onboard_time": 1729819818,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4179,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373947,
+      "num": 344597,
+      "word": "李钟硕宋智孝甜到大家以为是真的",
+      "onboard_time": 1729822038,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373609,
       "num": 373609,
       "word": "OPPO Find X8价格",
@@ -4225,14 +4257,6 @@
       "onboard_time": 1729492998,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 363938,
-      "num": 344597,
-      "word": "李钟硕宋智孝甜到大家以为是真的",
-      "onboard_time": 1729822038,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 362465,
@@ -4819,14 +4843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312369,
-      "num": 312369,
-      "word": "未婚妻就在隔壁男子竟偷拍合租女生",
-      "onboard_time": 1729819818,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312020,
       "num": 293489,
       "word": "郑钦文衣服吊牌没摘",
@@ -5091,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292683,
+      "num": 292683,
+      "word": "古茗 魔道祖师",
+      "onboard_time": 1729824679,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 292041,
       "num": 316613,
       "word": "官方回应女子存40多万取款余额为零",
@@ -5121,6 +5145,14 @@
       "onboard_time": 1729420218,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290781,
+      "num": 286241,
+      "word": "杨子否认给黄圣依送礼物",
+      "onboard_time": 1729824079,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 290491,
@@ -5227,14 +5259,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 286241,
-      "num": 286241,
-      "word": "杨子否认给黄圣依送礼物",
-      "onboard_time": 1729824079,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286095,
       "num": 286095,
       "word": "张雪迎吃螃蟹吃出个冠军",
@@ -5305,6 +5329,14 @@
       "onboard_time": 1729699099,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 281438,
+      "num": 451966,
+      "word": "志愿军出国作战74周年",
+      "onboard_time": 1729816099,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281278,
@@ -5835,28 +5867,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 249826,
-      "num": 183675,
-      "word": "热河去世",
-      "onboard_time": 1729824738,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 249677,
       "num": 261018,
       "word": "哈马斯回应以军公布辛瓦尔视频画面",
       "onboard_time": 1729410199,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 249551,
-      "num": 355742,
-      "word": "田小娟离开CUBE不续约",
-      "onboard_time": 1729824439,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 248299,
@@ -6067,14 +6083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 237927,
-      "num": 451966,
-      "word": "志愿军出国作战74周年",
-      "onboard_time": 1729816099,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 237838,
       "num": 237838,
       "word": "闪耀暖暖联动米山舞",
@@ -6137,6 +6145,14 @@
       "onboard_time": 1729426761,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235414,
+      "num": 235414,
+      "word": "受害者称余华英毁了她的家庭和人生",
+      "onboard_time": 1729824559,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235089,
@@ -7827,6 +7843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191801,
+      "num": 191801,
+      "word": "赵丽颖辛芷蕾合唱渔樵问答",
+      "onboard_time": 1729824859,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191790,
       "num": 191790,
       "word": "白鹿奔跑吧特别季录制收官",
@@ -7995,14 +8019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189418,
-      "num": 189418,
-      "word": "受害者称余华英毁了她的家庭和人生",
-      "onboard_time": 1729824559,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189347,
       "num": 189347,
       "word": "臭肉事件校方如此傲慢只会臭上加臭",
@@ -8145,6 +8161,14 @@
       "onboard_time": 1729781121,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186007,
+      "num": 186007,
+      "word": "余华英重审一审死刑",
+      "onboard_time": 1729825400,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185964,
@@ -8353,6 +8377,14 @@
       "onboard_time": 1729418479,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "赴山海官宣杀青",
+      "onboard_time": 1729825098,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 180992,
@@ -8569,14 +8601,6 @@
       "onboard_time": 1729404799,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173475,
-      "num": 173475,
-      "word": "古茗 魔道祖师",
-      "onboard_time": 1729824679,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 173473,
@@ -9419,6 +9443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155285,
+      "num": 155285,
+      "word": "马来西亚环球小姐参赛服装引争议",
+      "onboard_time": 1729824258,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155162,
       "num": 155162,
       "word": "纯血鸿蒙真细节狂魔",
@@ -10219,6 +10251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138916,
+      "num": 138916,
+      "word": "杨桑英说因为余华英从小爬着过来的",
+      "onboard_time": 1729824618,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138246,
       "num": 138246,
       "word": "金饰价格持续大涨金店却现闭店潮",
@@ -10377,6 +10417,14 @@
       "onboard_time": 1729782799,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135255,
+      "num": 135255,
+      "word": "剑网3",
+      "onboard_time": 1729824559,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 135183,
@@ -10651,14 +10699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131068,
-      "num": 131068,
-      "word": "马来西亚环球小姐参赛服装引争议",
-      "onboard_time": 1729824258,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131060,
       "num": 130805,
       "word": "太原通报双胞胎待产时死亡调查情况",
@@ -10705,22 +10745,6 @@
       "onboard_time": 1729576279,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130223,
-      "num": 130223,
-      "word": "赵丽颖辛芷蕾合唱渔樵问答",
-      "onboard_time": 1729824859,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 130219,
-      "num": 130219,
-      "word": "剑网3",
-      "onboard_time": 1729824559,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 130178,
@@ -11377,14 +11401,6 @@
       "onboard_time": 1729336699,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116963,
-      "num": 116963,
-      "word": "杨桑英说因为余华英从小爬着过来的",
-      "onboard_time": 1729824618,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116622,
