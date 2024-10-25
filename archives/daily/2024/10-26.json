@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729876818945,
+  "endTime": 1729877889657,
   "band_list": [
     {
       "raw_hot": 1051052,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 394468,
-      "num": 394468,
+      "num": 414425,
       "word": "台风潭美进入24小时警戒线",
       "onboard_time": 1729873338,
       "rank": 46,
@@ -187,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146705,
-      "num": 146705,
+      "raw_hot": 150029,
+      "num": 150029,
       "word": "麦琳想要什么",
       "onboard_time": 1729873038,
       "rank": 34,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 123759,
-      "num": 123759,
+      "num": 210697,
       "word": "深圳晚霞绝了",
       "onboard_time": 1729873098,
       "rank": 43,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100311,
+      "num": 183078,
+      "word": "司机与交警冲突后在警车身亡",
+      "onboard_time": 1729874057,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98401,
       "num": 98401,
       "word": "男子杀父骗保赔偿金超790万",
@@ -363,28 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85615,
+      "num": 85615,
+      "word": "余华英5000元亲手卖了儿子",
+      "onboard_time": 1729867401,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81687,
       "num": 81687,
       "word": "汪苏泷嘉宾王源",
       "onboard_time": 1729858158,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79774,
-      "num": 183078,
-      "word": "司机与交警冲突后在警车身亡",
-      "onboard_time": 1729874057,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77872,
-      "num": 77872,
-      "word": "余华英5000元亲手卖了儿子",
-      "onboard_time": 1729867401,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77728,
@@ -427,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55662,
-      "num": 55662,
+      "raw_hot": 57072,
+      "num": 57072,
       "word": "上一季的人都正常",
       "onboard_time": 1729862238,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55716,
+      "num": 55716,
+      "word": "开店真的可以改变人的心态",
+      "onboard_time": 1729876395,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 52643,
@@ -441,6 +449,22 @@
       "onboard_time": 1729876754,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23017,
+      "num": 154855,
+      "word": "林诗栋vs吴晙诚",
+      "onboard_time": 1729877054,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11089,
+      "num": 134730,
+      "word": "陈幸同vs高达",
+      "onboard_time": 1729877054,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 2388,
@@ -454,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#三个维度看习近平喀山之行#"
+    },
+    {
+      "word": "#如何汇聚全球南方磅礴力量#"
     }
   ]
 }
