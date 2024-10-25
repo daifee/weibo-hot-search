@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729898546439,
+  "endTime": 1729899356374,
   "band_list": [
     {
       "raw_hot": 1051052,
@@ -27,19 +27,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666737,
+      "num": 211296,
+      "word": "警方回应男子钓到一具尸体是真的",
+      "onboard_time": 1729897513,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666116,
+      "num": 909096,
+      "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
+      "onboard_time": 1729888512,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557871,
       "num": 557871,
       "word": "美国请求中国出借月壤",
       "onboard_time": 1729855700,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549028,
-      "num": 796247,
-      "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
-      "onboard_time": 1729888512,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1729866020,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453478,
+      "num": 453478,
+      "word": "差点没认出周一围",
+      "onboard_time": 1729898417,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 438553,
@@ -88,14 +104,6 @@
       "word": "司机警车内失去意识后抢救无效身亡",
       "onboard_time": 1729866921,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400845,
-      "num": 182865,
-      "word": "警方回应男子钓到一具尸体是真的",
-      "onboard_time": 1729897513,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -163,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270149,
+      "num": 270149,
+      "word": "穿山甲给自己挖了32洞小区",
+      "onboard_time": 1729862359,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248211,
       "num": 248211,
       "word": "留几手",
       "onboard_time": 1729866561,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210038,
+      "num": 210038,
+      "word": "余华英5000元亲手卖了儿子",
+      "onboard_time": 1729867401,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202353,
@@ -187,19 +211,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179623,
-      "num": 179623,
-      "word": "余华英5000元亲手卖了儿子",
-      "onboard_time": 1729867401,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177509,
-      "num": 177509,
-      "word": "穿山甲给自己挖了32洞小区",
-      "onboard_time": 1729862359,
-      "rank": 30,
+      "raw_hot": 173371,
+      "num": 173371,
+      "word": "14岁男生校内厕所遭霸凌腰部骨折",
+      "onboard_time": 1729897695,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1729854440,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160848,
+      "num": 160848,
+      "word": "花少 荣梓杉",
+      "onboard_time": 1729863079,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 156786,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138718,
-      "num": 138718,
-      "word": "差点没认出周一围",
-      "onboard_time": 1729898417,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "怪不得有时候老师莫名其妙就生气",
@@ -265,6 +281,14 @@
       "onboard_time": 1729841598,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136505,
+      "num": 185235,
+      "word": "60天用河南水土造出超大钻石",
+      "onboard_time": 1729897574,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130733,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 109536,
-      "num": 90319,
+      "num": 101514,
       "word": "姐姐含泪说杨妞花真的了不起",
       "onboard_time": 1729895234,
       "rank": 27,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97137,
+      "num": 97137,
+      "word": "全红婵陈梦打乒乓球",
+      "onboard_time": 1729896015,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95084,
       "num": 95084,
       "word": "王者九周年限定回忆",
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91664,
-      "num": 91664,
-      "word": "14岁男生校内厕所遭霸凌腰部骨折",
-      "onboard_time": 1729897695,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 90120,
+      "num": 90120,
+      "word": "发现养狗人普遍只认狗不认人",
+      "onboard_time": 1729879693,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 88682,
@@ -432,6 +464,22 @@
       "word": "papi酱 黄圣依是杨子的金丝雀",
       "onboard_time": 1729852098,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88001,
+      "num": 88001,
+      "word": "新娘用生菜做手捧花水果装饰婚车",
+      "onboard_time": 1729898954,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87473,
+      "num": 95560,
+      "word": "徐璐这么多年泡脚都泡错了",
+      "onboard_time": 1729898595,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -443,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84843,
+      "num": 84843,
+      "word": "陈幸同1比3高达",
+      "onboard_time": 1729898835,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83939,
+      "num": 83939,
+      "word": "王者福卡",
+      "onboard_time": 1729898776,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81687,
       "num": 81687,
       "word": "汪苏泷嘉宾王源",
@@ -451,28 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81457,
-      "num": 81457,
-      "word": "发现养狗人普遍只认狗不认人",
-      "onboard_time": 1729879693,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 81252,
       "num": 154855,
       "word": "林诗栋vs吴晙诚",
       "onboard_time": 1729877054,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78542,
-      "num": 185235,
-      "word": "60天用河南水土造出超大钻石",
-      "onboard_time": 1729897574,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77728,
@@ -499,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74301,
-      "num": 74301,
-      "word": "全红婵陈梦打乒乓球",
-      "onboard_time": 1729896015,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71550,
       "num": 73494,
       "word": "周末和秋天合个影",
@@ -523,15 +563,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66227,
-      "num": 66227,
-      "word": "100岁奶奶怕明年不能给孙子过生日",
-      "onboard_time": 1729885692,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63079,
+      "raw_hot": 67004,
       "num": 81858,
       "word": "上一季的人都正常",
       "onboard_time": 1729862238,
@@ -539,12 +571,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56241,
-      "num": 56241,
+      "raw_hot": 66423,
+      "num": 66423,
+      "word": "100岁奶奶怕明年不能给孙子过生日",
+      "onboard_time": 1729885692,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61986,
+      "num": 61986,
       "word": "14岁少年沉迷AI恋人最终自尽",
       "onboard_time": 1729880951,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57900,
+      "num": 57900,
+      "word": "华晨宇 大莲花首次吊补位音响",
+      "onboard_time": 1729899195,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 55716,
@@ -577,6 +625,14 @@
       "onboard_time": 1729877054,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42932,
+      "num": 211999,
+      "word": "烧伤妈妈丈夫回应喊停捐款",
+      "onboard_time": 1729897574,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42019,
@@ -667,7 +723,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2388,
+      "raw_hot": 2564,
       "num": 687575,
       "word": "万千气象看北京",
       "onboard_time": 1729652177,
