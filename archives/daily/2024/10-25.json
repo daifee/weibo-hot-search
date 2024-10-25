@@ -1,10 +1,18 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729825528301,
+  "endTime": 1729826966180,
   "band_list": [
     {
+      "raw_hot": 5459056,
+      "num": 6709056,
+      "word": "余华英重审一审死刑",
+      "onboard_time": 1729825400,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2659700,
-      "num": 451369,
+      "num": 580967,
       "word": "曝周雨彤送金晨的礼物是假货",
       "onboard_time": 1729783881,
       "rank": 10,
@@ -35,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1676480,
+      "num": 797355,
+      "word": "余华英当庭上诉",
+      "onboard_time": 1729826058,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1630510,
+      "num": 1173501,
+      "word": "田小娟离开CUBE不续约",
+      "onboard_time": 1729824439,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1405023,
       "num": 1405023,
       "word": "领养奶奶让杨妞花赚钱还买她的钱",
@@ -59,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1084385,
-      "num": 1173501,
-      "word": "田小娟离开CUBE不续约",
-      "onboard_time": 1729824439,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 989957,
+      "num": 578452,
+      "word": "热河去世",
+      "onboard_time": 1729824738,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 944743,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 636492,
-      "num": 449157,
+      "num": 575871,
       "word": "江苏南通持刀伤人致1死嫌犯被控制",
       "onboard_time": 1729817540,
       "rank": 15,
@@ -161,6 +185,14 @@
       "onboard_time": 1729819518,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607659,
+      "num": 607659,
+      "word": "古茗 魔道祖师",
+      "onboard_time": 1729824679,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 600896,
@@ -177,14 +209,6 @@
       "onboard_time": 1729787238,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597646,
-      "num": 231202,
-      "word": "热河去世",
-      "onboard_time": 1729824738,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 573181,
@@ -265,6 +289,14 @@
       "onboard_time": 1729816759,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452940,
+      "num": 310207,
+      "word": "杨子否认给黄圣依送礼物",
+      "onboard_time": 1729824079,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 438551,
@@ -379,22 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292683,
-      "num": 292683,
-      "word": "古茗 魔道祖师",
-      "onboard_time": 1729824679,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 290781,
-      "num": 286241,
-      "word": "杨子否认给黄圣依送礼物",
-      "onboard_time": 1729824079,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281438,
       "num": 451966,
       "word": "志愿军出国作战74周年",
@@ -459,12 +475,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230129,
+      "num": 195907,
+      "word": "金价昨晚大跌",
+      "onboard_time": 1729826780,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226466,
       "num": 200187,
       "word": "合肥银泰LV",
       "onboard_time": 1729765097,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225014,
+      "num": 225014,
+      "word": "35岁未婚女生的一天",
+      "onboard_time": 1729826058,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 225008,
@@ -483,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221624,
+      "num": 221624,
+      "word": "打伤女子公职人员欲花40万私了",
+      "onboard_time": 1729826058,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219815,
+      "num": 232188,
+      "word": "赴山海官宣杀青",
+      "onboard_time": 1729825098,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204443,
       "num": 375459,
       "word": "余华英囚车进入法院",
@@ -496,6 +544,14 @@
       "word": "关闭捐助渠道的烧伤妈妈让人动容",
       "onboard_time": 1729811776,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195624,
+      "num": 195624,
+      "word": "杨桑英说因为余华英从小爬着过来的",
+      "onboard_time": 1729824618,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -523,16 +579,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186007,
-      "num": 186007,
-      "word": "余华英重审一审死刑",
-      "onboard_time": 1729825400,
-      "rank": 27,
+      "raw_hot": 189090,
+      "num": 620275,
+      "word": "杨妞花最初建议余华英量刑14年",
+      "onboard_time": 1729826178,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
       "raw_hot": 183721,
-      "num": 183721,
+      "num": 196085,
       "word": "HYBE被指用章昊营销韩振",
       "onboard_time": 1729823597,
       "rank": 29,
@@ -545,14 +601,6 @@
       "onboard_time": 1729822699,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181008,
-      "num": 181008,
-      "word": "赴山海官宣杀青",
-      "onboard_time": 1729825098,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 178352,
@@ -619,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152019,
+      "num": 152019,
+      "word": "电影独一无二阵容官宣",
+      "onboard_time": 1729826480,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150839,
       "num": 150839,
       "word": "4个伤肾的坏习惯",
       "onboard_time": 1729809073,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149758,
+      "num": 149758,
+      "word": "杨妞花和姐姐手牵手步入法庭",
+      "onboard_time": 1729821078,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141997,
@@ -635,11 +699,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138916,
-      "num": 138916,
-      "word": "杨桑英说因为余华英从小爬着过来的",
-      "onboard_time": 1729824618,
-      "rank": 49,
+      "raw_hot": 138534,
+      "num": 138534,
+      "word": "被拐女孩盼望的团圆再也无法实现",
+      "onboard_time": 1729825518,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -673,14 +737,6 @@
       "onboard_time": 1729824559,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135183,
-      "num": 135183,
-      "word": "杨妞花和姐姐手牵手步入法庭",
-      "onboard_time": 1729821078,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134808,
@@ -753,6 +809,14 @@
       "onboard_time": 1729773498,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118975,
+      "num": 118975,
+      "word": "现在就出发2定档",
+      "onboard_time": 1729826899,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 117596,
@@ -849,6 +913,14 @@
       "onboard_time": 1729810216,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106373,
+      "num": 166108,
+      "word": "杨桑英一直觉得是自己害了父亲",
+      "onboard_time": 1729826538,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96291,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1729794493,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32196,
+      "num": 120766,
+      "word": "你永远可以相信张艺谋的审美",
+      "onboard_time": 1729826780,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 31547,
