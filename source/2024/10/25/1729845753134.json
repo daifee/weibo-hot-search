@@ -1,0 +1,410 @@
+{
+  "runTime": 1729845753134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2210534,
+        "num": 2210534,
+        "word": "周雨彤怕别人想吃她的零食",
+        "onboard_time": 1729841598,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1637744,
+        "num": 1637744,
+        "word": "钟自然涉嫌故意泄露国家秘密",
+        "onboard_time": 1729840698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18847,
+        "num": 1125323,
+        "word": "大金砖合作高光时刻",
+        "onboard_time": 1729818139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641729,
+        "num": 641729,
+        "word": "杨子说不到1年将回归家庭",
+        "onboard_time": 1729839738,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609555,
+        "num": 609555,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560524,
+        "num": 560524,
+        "word": "为啥莫名其妙就开了先用后付",
+        "onboard_time": 1729836258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588001,
+        "num": 505228,
+        "word": "大梦归离",
+        "onboard_time": 1729842859,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441823,
+        "num": 441823,
+        "word": "尤长靖披哥史上最年轻总冠军",
+        "onboard_time": 1729834338,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53044,
+        "num": 396633,
+        "word": "全年粮食再获丰收",
+        "onboard_time": 1729844597,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384193,
+        "num": 384193,
+        "word": "一觉醒来每月房贷少了近千元",
+        "onboard_time": 1729843639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942495,
+        "num": 376523,
+        "word": "余华英在雪糕上下药拐走孩子",
+        "onboard_time": 1729840217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182204,
+        "num": 372001,
+        "word": "金砖+领导人对话会",
+        "onboard_time": 1729843579,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 558297,
+        "num": 362451,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36320,
+        "num": 359951,
+        "word": "被余华英拐走的第17名儿童发声",
+        "onboard_time": 1729845377,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17905,
+        "num": 347893,
+        "word": "散户为何热衷借基入市",
+        "onboard_time": 1729845257,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505655,
+        "num": 336355,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423289,
+        "num": 335530,
+        "word": "鹿晗关注TFING",
+        "onboard_time": 1729843939,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68460,
+        "num": 327352,
+        "word": "李克勤黑泽良平雅尤长靖斗牛",
+        "onboard_time": 1729844779,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396683,
+        "num": 315723,
+        "word": "王铮亮总决赛第二",
+        "onboard_time": 1729843218,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311856,
+        "num": 311856,
+        "word": "李子柒团队回应何时更新",
+        "onboard_time": 1729844659,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 420427,
+        "num": 308253,
+        "word": "黄晓明秃头海报",
+        "onboard_time": 1729842918,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353807,
+        "num": 306803,
+        "word": "连孟子义张予曦都认证的撞脸",
+        "onboard_time": 1729843338,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300615,
+        "num": 300615,
+        "word": "Hybe承认BTS音源注水",
+        "onboard_time": 1729832120,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299528,
+        "num": 299528,
+        "word": "李行亮麦琳吵架",
+        "onboard_time": 1729838359,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292238,
+        "num": 292238,
+        "word": "赵一博发文悼念去世站姐",
+        "onboard_time": 1729830740,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21837,
+        "num": 280629,
+        "word": "对话梅姨案最后一名被拐儿童父亲",
+        "onboard_time": 1729843939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275699,
+        "num": 275699,
+        "word": "陈梦为巴黎奥运会做金色美甲",
+        "onboard_time": 1729844597,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274063,
+        "num": 274063,
+        "word": "被害人家属称余华英再判死是正义胜利",
+        "onboard_time": 1729843639,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22527,
+        "num": 254721,
+        "word": "年轻人的表情管理大师来了",
+        "onboard_time": 1729843518,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19959,
+        "num": 251490,
+        "word": "如何看待网络主播打造精英人设",
+        "onboard_time": 1729844239,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416142,
+        "num": 251308,
+        "word": "鸿蒙微信",
+        "onboard_time": 1729837817,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251069,
+        "num": 251069,
+        "word": "100万房贷20年少还近9万",
+        "onboard_time": 1729830921,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250361,
+        "num": 250361,
+        "word": "R1SE解散后姚琛压力没停过",
+        "onboard_time": 1729845079,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225924,
+        "num": 225924,
+        "word": "余华英庭审现场全程发抖",
+        "onboard_time": 1729834459,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214757,
+        "num": 214757,
+        "word": "迪士尼万圣节的氛围感拉满了",
+        "onboard_time": 1729844418,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214742,
+        "num": 214742,
+        "word": "服务员 坏了遇到真来吃饭的了",
+        "onboard_time": 1729845199,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207219,
+        "num": 207219,
+        "word": "江映蓉说秦奋真的很勤奋",
+        "onboard_time": 1729843158,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201099,
+        "num": 201099,
+        "word": "春花焰男主男二开撕",
+        "onboard_time": 1729843518,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199935,
+        "num": 199935,
+        "word": "武汉防空警报",
+        "onboard_time": 1729845018,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197747,
+        "num": 197747,
+        "word": "我推的孩子 男主死了",
+        "onboard_time": 1729836139,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 268132,
+        "num": 197682,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197591,
+        "num": 197591,
+        "word": "坚持跑步一年身体的变化",
+        "onboard_time": 1729836198,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 197261,
+        "num": 197261,
+        "word": "保时捷售价跌破40万",
+        "onboard_time": 1729830441,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177878,
+        "num": 177878,
+        "word": "中国式的极致浪漫在这一刻具象化了",
+        "onboard_time": 1729839078,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173988,
+        "num": 173988,
+        "word": "高三学生拿走两条天线被劝退",
+        "onboard_time": 1729845679,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171995,
+        "num": 171995,
+        "word": "庆怜第一次没卡位",
+        "onboard_time": 1729845137,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168459,
+        "num": 168459,
+        "word": "95后为242名志愿军老战士拍戎装照",
+        "onboard_time": 1729838898,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163186,
+        "num": 163186,
+        "word": "读研选错导师有多严重",
+        "onboard_time": 1729841779,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159610,
+        "num": 159610,
+        "word": "小米手环9Pro",
+        "onboard_time": 1729839798,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157661,
+        "num": 157661,
+        "word": "放弃上亿家产只为一句道歉",
+        "onboard_time": 1729827981,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国海洋大学全体师生回信#"
+    }
+  }
+}

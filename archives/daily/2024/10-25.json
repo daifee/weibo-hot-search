@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729844908629,
+  "endTime": 1729845753134,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1637744,
+      "num": 1637744,
+      "word": "钟自然涉嫌故意泄露国家秘密",
+      "onboard_time": 1729840698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1630510,
       "num": 1173501,
       "word": "田小娟离开CUBE不续约",
@@ -81,14 +89,6 @@
       "onboard_time": 1729827859,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1529215,
-      "num": 1529215,
-      "word": "钟自然涉嫌故意泄露国家秘密",
-      "onboard_time": 1729840698,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1478285,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588001,
+      "num": 505228,
+      "word": "大梦归离",
+      "onboard_time": 1729842859,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580827,
       "num": 580827,
       "word": "付航脱口秀",
@@ -523,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 423289,
+      "num": 335530,
+      "word": "鹿晗关注TFING",
+      "onboard_time": 1729843939,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 421775,
       "num": 362824,
       "word": "余华英庭审现场全程发抖",
@@ -563,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 405994,
-      "num": 405994,
-      "word": "大梦归离",
-      "onboard_time": 1729842859,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 404544,
       "num": 404544,
       "word": "35岁未婚女生的一天",
@@ -592,6 +600,14 @@
       "word": "未婚妻就在隔壁男子竟偷拍合租女生",
       "onboard_time": 1729819818,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384193,
+      "num": 410418,
+      "word": "一觉醒来每月房贷少了近千元",
+      "onboard_time": 1729843639,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -673,6 +689,14 @@
       "onboard_time": 1729843639,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311856,
+      "num": 311856,
+      "word": "李子柒团队回应何时更新",
+      "onboard_time": 1729844659,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 311052,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275699,
+      "num": 275699,
+      "word": "陈梦为巴黎奥运会做金色美甲",
+      "onboard_time": 1729844597,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274214,
       "num": 274214,
       "word": "常华森荧幕初吻",
@@ -827,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246332,
-      "num": 246332,
-      "word": "鹿晗关注TFING",
-      "onboard_time": 1729843939,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 250361,
+      "num": 250361,
+      "word": "R1SE解散后姚琛压力没停过",
+      "onboard_time": 1729845079,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 243937,
@@ -864,14 +896,6 @@
       "word": "受害者称余华英毁了她的家庭和人生",
       "onboard_time": 1729824559,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232900,
-      "num": 410418,
-      "word": "一觉醒来每月房贷少了近千元",
-      "onboard_time": 1729843639,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -931,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223288,
-      "num": 223288,
-      "word": "陈梦为巴黎奥运会做金色美甲",
-      "onboard_time": 1729844597,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219815,
       "num": 365873,
       "word": "赴山海官宣杀青",
@@ -953,6 +969,22 @@
       "onboard_time": 1729835959,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214757,
+      "num": 214757,
+      "word": "迪士尼万圣节的氛围感拉满了",
+      "onboard_time": 1729844418,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 214742,
+      "num": 214742,
+      "word": "服务员 坏了遇到真来吃饭的了",
+      "onboard_time": 1729845199,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 209722,
@@ -971,8 +1003,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206850,
-      "num": 206850,
+      "raw_hot": 207219,
+      "num": 207219,
       "word": "江映蓉说秦奋真的很勤奋",
       "onboard_time": 1729843158,
       "rank": 41,
@@ -1003,19 +1035,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204271,
-      "num": 204271,
-      "word": "李子柒团队回应何时更新",
-      "onboard_time": 1729844659,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 200950,
       "num": 200950,
       "word": "关闭捐助渠道的烧伤妈妈让人动容",
       "onboard_time": 1729811776,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199935,
+      "num": 199935,
+      "word": "武汉防空警报",
+      "onboard_time": 1729845018,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 183502,
-      "num": 183502,
+      "num": 372001,
       "word": "金砖+领导人对话会",
       "onboard_time": 1729843579,
       "rank": 44,
@@ -1179,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174862,
-      "num": 174862,
-      "word": "迪士尼万圣节的氛围感拉满了",
-      "onboard_time": 1729844418,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 174735,
       "num": 174735,
       "word": "再见爱人",
@@ -1203,12 +1227,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 173988,
+      "num": 173988,
+      "word": "高三学生拿走两条天线被劝退",
+      "onboard_time": 1729845679,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173434,
       "num": 173434,
       "word": "釜山一驻韩美军补给仓发生火灾",
       "onboard_time": 1729789934,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 171995,
+      "num": 171995,
+      "word": "庆怜第一次没卡位",
+      "onboard_time": 1729845137,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 171209,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1729826480,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163186,
+      "num": 242177,
+      "word": "读研选错导师有多严重",
+      "onboard_time": 1729841779,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158478,
@@ -1771,6 +1819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68460,
+      "num": 388422,
+      "word": "李克勤黑泽良平雅尤长靖斗牛",
+      "onboard_time": 1729844779,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68139,
       "num": 118430,
       "word": "永夜星河预约",
@@ -1785,14 +1841,6 @@
       "onboard_time": 1729811655,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 64202,
-      "num": 242177,
-      "word": "读研选错导师有多严重",
-      "onboard_time": 1729841779,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60973,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1729807873,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 53044,
+      "num": 411387,
+      "word": "全年粮食再获丰收",
+      "onboard_time": 1729844597,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48940,
@@ -1891,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36320,
+      "num": 359951,
+      "word": "被余华英拐走的第17名儿童发声",
+      "onboard_time": 1729845377,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35838,
       "num": 580882,
       "word": "律师称余英华作案手法混熟了下手",
@@ -1905,14 +1969,6 @@
       "onboard_time": 1729794493,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35143,
-      "num": 388422,
-      "word": "李克勤黑泽良平雅尤长靖斗牛",
-      "onboard_time": 1729844779,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 34202,
@@ -1956,7 +2012,7 @@
     },
     {
       "raw_hot": 30604,
-      "num": 391537,
+      "num": 1125323,
       "word": "大金砖合作高光时刻",
       "onboard_time": 1729818139,
       "rank": 15,
@@ -2035,20 +2091,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19451,
-      "num": 411387,
-      "word": "全年粮食再获丰收",
-      "onboard_time": 1729844597,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19330,
       "num": 222191,
       "word": "鹭卓彩排照",
       "onboard_time": 1729830980,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17905,
+      "num": 347893,
+      "word": "散户为何热衷借基入市",
+      "onboard_time": 1729845257,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17260,
@@ -2178,6 +2234,9 @@
     },
     {
       "word": "#中国始终心系全球南方扎根全球南方#"
+    },
+    {
+      "word": "#习近平给中国海洋大学全体师生回信#"
     }
   ]
 }
