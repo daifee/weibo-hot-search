@@ -1,6 +1,6 @@
 {
   "startTime": 1729787211358,
-  "endTime": 1729834839335,
+  "endTime": 1729837876273,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626276,
+      "num": 626276,
+      "word": "为啥莫名其妙就开了先用后付",
+      "onboard_time": 1729836258,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617931,
       "num": 617931,
       "word": "受害者希望余华英能被判处死刑",
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580827,
+      "num": 580827,
+      "word": "付航脱口秀",
+      "onboard_time": 1729833559,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573181,
       "num": 200413,
       "word": "杨子 你姓什么呀",
@@ -312,6 +328,14 @@
       "word": "12位被大众讨厌的明星聚在一个岛上",
       "onboard_time": 1729775359,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 562975,
+      "num": 562975,
+      "word": "声入人心 我回来了",
+      "onboard_time": 1729833858,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413226,
+      "num": 327591,
+      "word": "母亲哭诉已经寻子11688天",
+      "onboard_time": 1729835058,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409087,
       "num": 409087,
       "word": "陈钰琪出演赴山海",
@@ -475,6 +507,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 366278,
+      "num": 366278,
+      "word": "尤长靖披哥史上最年轻总冠军",
+      "onboard_time": 1729834338,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362824,
+      "num": 362824,
+      "word": "余华英庭审现场全程发抖",
+      "onboard_time": 1729834459,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356575,
       "num": 356575,
       "word": "你用过的头像竟然是庆怜",
@@ -515,20 +563,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 315020,
-      "num": 315020,
-      "word": "尤长靖披哥史上最年轻总冠军",
-      "onboard_time": 1729834338,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 311052,
       "num": 311052,
       "word": "尼日利亚酋长在机场豪横发钱",
       "onboard_time": 1729785259,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 311042,
+      "num": 311042,
+      "word": "孙海洋说杨妞花太苦了",
+      "onboard_time": 1729833020,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308809,
@@ -555,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299599,
+      "num": 299599,
+      "word": "我推的孩子 男主死了",
+      "onboard_time": 1729836139,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 299139,
       "num": 299139,
       "word": "打伤女子公职人员欲花40万私了",
@@ -577,6 +633,14 @@
       "onboard_time": 1729829780,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282991,
+      "num": 282991,
+      "word": "成毅被吓得撤回一个摘口罩",
+      "onboard_time": 1729835718,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 281438,
@@ -627,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237517,
-      "num": 237517,
-      "word": "声入人心 我回来了",
-      "onboard_time": 1729833858,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237089,
       "num": 237089,
       "word": "胡冰卿再看戚百草感到陌生",
@@ -673,6 +729,14 @@
       "onboard_time": 1729816641,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 232015,
+      "num": 232015,
+      "word": "坚持跑步一年身体的变化",
+      "onboard_time": 1729836198,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 231635,
@@ -715,28 +779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222689,
-      "num": 222689,
-      "word": "孙海洋说杨妞花太苦了",
-      "onboard_time": 1729833020,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219815,
       "num": 365873,
       "word": "赴山海官宣杀青",
       "onboard_time": 1729825098,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219722,
-      "num": 219722,
-      "word": "付航脱口秀",
-      "onboard_time": 1729833559,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 209722,
@@ -779,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197682,
+      "num": 197682,
+      "word": "HYBE韩国国会文件厚度",
+      "onboard_time": 1729837039,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196931,
       "num": 275702,
       "word": "童瑶 20岁的我演不了顾佳",
@@ -819,12 +875,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189643,
-      "num": 189643,
-      "word": "余华英庭审现场全程发抖",
-      "onboard_time": 1729834459,
-      "rank": 37,
+      "raw_hot": 191442,
+      "num": 191442,
+      "word": "你怎么能把我的孩子当商品卖啊",
+      "onboard_time": 1729834579,
+      "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190928,
+      "num": 334618,
+      "word": "五月天上海抢票",
+      "onboard_time": 1729837157,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 189543,
@@ -872,14 +936,6 @@
       "word": "我一定要抓到人贩子给爸妈讨个公道",
       "onboard_time": 1729824618,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177527,
-      "num": 177527,
-      "word": "你怎么能把我的孩子当商品卖啊",
-      "onboard_time": 1729834579,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150257,
+      "num": 150257,
+      "word": "李克勤披荆斩棘xleader",
+      "onboard_time": 1729835778,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149758,
       "num": 149758,
       "word": "杨妞花和姐姐手牵手步入法庭",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1729833680,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146619,
+      "num": 146619,
+      "word": "大部分存量房贷完成下调",
+      "onboard_time": 1729837757,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 145853,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1729779980,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141122,
+      "num": 141122,
+      "word": "鸿蒙微信",
+      "onboard_time": 1729837817,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 138534,
@@ -1299,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90187,
+      "num": 252067,
+      "word": "菜市场代炒吊打外卖预制菜",
+      "onboard_time": 1729835959,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88833,
       "num": 144641,
       "word": "锦绣安宁 第一次见大牢里这么多人",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1729746679,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75013,
+      "num": 366224,
+      "word": "余华英案细节最新披露",
+      "onboard_time": 1729837398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72945,
@@ -1480,6 +1576,14 @@
       "word": "今年第20号台风潭美来了",
       "onboard_time": 1729798152,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42824,
+      "num": 161819,
+      "word": "浙江一村庄疑改地名骗政府专项资金",
+      "onboard_time": 1729835778,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1617,6 +1721,14 @@
       "onboard_time": 1729795753,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13902,
+      "num": 362966,
+      "word": "杨妞花在寻亲路上找到原本那个自己",
+      "onboard_time": 1729837578,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13489,
