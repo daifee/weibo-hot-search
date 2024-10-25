@@ -1,0 +1,410 @@
+{
+  "runTime": 1729831375798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10311777,
+        "num": 10311777,
+        "word": "余华英重审一审死刑",
+        "onboard_time": 1729825400,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1646569,
+        "num": 1646569,
+        "word": "梅姨案最后一个孩子找到了",
+        "onboard_time": 1729819639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24942,
+        "num": 1096964,
+        "word": "大金砖合作大有可为",
+        "onboard_time": 1729829780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1649040,
+        "num": 1073419,
+        "word": "余华英当庭上诉",
+        "onboard_time": 1729826058,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828613,
+        "num": 828613,
+        "word": "披荆斩棘4总决赛",
+        "onboard_time": 1729829361,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90455,
+        "num": 664463,
+        "word": "中国人有自己的秋日九件套",
+        "onboard_time": 1729829419,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653996,
+        "num": 653996,
+        "word": "普京首次回应所谓朝鲜派兵援俄",
+        "onboard_time": 1729829060,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 632216,
+        "num": 632216,
+        "word": "田小娟离开CUBE不续约",
+        "onboard_time": 1729824439,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628257,
+        "num": 628257,
+        "word": "听到父母去世杨妞花整张脸都麻了",
+        "onboard_time": 1729821978,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161117,
+        "num": 622718,
+        "word": "100万房贷20年少还近9万",
+        "onboard_time": 1729830921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283328,
+        "num": 610167,
+        "word": "赵一博站姐 热河",
+        "onboard_time": 1729827859,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123634,
+        "num": 596651,
+        "word": "曝周雨彤送金晨的礼物是假货",
+        "onboard_time": 1729783881,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658631,
+        "num": 594019,
+        "word": "男子捅死1人后驾车冲撞多辆摩托",
+        "onboard_time": 1729827020,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35838,
+        "num": 580882,
+        "word": "律师称余英华作案手法混熟了下手",
+        "onboard_time": 1729830801,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573824,
+        "num": 573824,
+        "word": "热河去世",
+        "onboard_time": 1729824738,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560849,
+        "num": 560849,
+        "word": "保时捷售价跌破40万",
+        "onboard_time": 1729830441,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 521518,
+        "num": 521518,
+        "word": "古茗 魔道祖师",
+        "onboard_time": 1729824679,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 31822,
+        "num": 487568,
+        "word": "李沁发文道别七夜雪",
+        "onboard_time": 1729829719,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292750,
+        "num": 470528,
+        "word": "杨子否认给黄圣依送礼物",
+        "onboard_time": 1729824079,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457745,
+        "num": 457745,
+        "word": "杨妞花声音嘶哑念判决书",
+        "onboard_time": 1729827739,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69615,
+        "num": 448324,
+        "word": "你永远可以相信张艺谋的审美",
+        "onboard_time": 1729826780,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132581,
+        "num": 443223,
+        "word": "小米15稳了",
+        "onboard_time": 1729827500,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 767439,
+        "num": 433151,
+        "word": "金价昨晚大跌",
+        "onboard_time": 1729826780,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 507979,
+        "num": 421643,
+        "word": "黄圣依选择不离婚的原因",
+        "onboard_time": 1729815500,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572713,
+        "num": 410628,
+        "word": "放弃上亿家产只为一句道歉",
+        "onboard_time": 1729827981,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402463,
+        "num": 402463,
+        "word": "35岁未婚女生的一天",
+        "onboard_time": 1729826058,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48940,
+        "num": 402424,
+        "word": "杨妞花说重审前一晚梦到爸爸了",
+        "onboard_time": 1729829479,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277415,
+        "num": 402247,
+        "word": "武艺 五个微信还不够折腾吗",
+        "onboard_time": 1729814898,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210138,
+        "num": 402205,
+        "word": "原来第一个想出分手综艺的是papi酱",
+        "onboard_time": 1729830620,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209722,
+        "num": 402103,
+        "word": "张婧仪辛云来芭莎大片",
+        "onboard_time": 1729830801,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402024,
+        "num": 402024,
+        "word": "杨妞花说未来一定无人敢来贵州偷孩子",
+        "onboard_time": 1729827379,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307712,
+        "num": 307712,
+        "word": "江苏南通持刀伤人致1死嫌犯被控制",
+        "onboard_time": 1729817540,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299276,
+        "num": 299276,
+        "word": "花10万买到了70平的老破小",
+        "onboard_time": 1729828400,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298467,
+        "num": 298467,
+        "word": "赵一博发文悼念去世站姐",
+        "onboard_time": 1729830740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285628,
+        "num": 285628,
+        "word": "余华英庭审现场视频公布",
+        "onboard_time": 1729829780,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39367,
+        "num": 274680,
+        "word": "9个被拐孩子的回家路走了5年",
+        "onboard_time": 1729829419,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267908,
+        "num": 267908,
+        "word": "孙颖莎郭晶晶赵丽颖怎么折都有面",
+        "onboard_time": 1729816039,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261682,
+        "num": 261682,
+        "word": "妈妈每月2000订我泡泡",
+        "onboard_time": 1729819639,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260881,
+        "num": 260881,
+        "word": "打伤女子公职人员欲花40万私了",
+        "onboard_time": 1729826058,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236669,
+        "num": 236669,
+        "word": "杨妞花最初建议余华英量刑14年",
+        "onboard_time": 1729826178,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201661,
+        "num": 201661,
+        "word": "警方通报女子因挪车纠纷被打骨折",
+        "onboard_time": 1729817300,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217859,
+        "num": 199331,
+        "word": "余华英死刑宣判现场",
+        "onboard_time": 1729827260,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196755,
+        "num": 196755,
+        "word": "巴勒斯坦女孩被当作人肉盾牌探路",
+        "onboard_time": 1729785198,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208392,
+        "num": 196623,
+        "word": "杨桑英说因为余华英从小爬着过来的",
+        "onboard_time": 1729824618,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195569,
+        "num": 195569,
+        "word": "中美南海撞机事件肇事美机将展出",
+        "onboard_time": 1729820178,
+        "rank": 44,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 179989,
+        "num": 179989,
+        "word": "杨妞花说在领养家庭像贼一样",
+        "onboard_time": 1729787238,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174735,
+        "num": 174735,
+        "word": "再见爱人",
+        "onboard_time": 1729831342,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172749,
+        "num": 172749,
+        "word": "著名韩国演员金秀美去世",
+        "onboard_time": 1729822518,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172487,
+        "num": 172487,
+        "word": "火星哥发韩文感谢粉丝",
+        "onboard_time": 1729828880,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170822,
+        "num": 170822,
+        "word": "志愿军出国作战74周年",
+        "onboard_time": 1729816099,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的金砖峰会时间#"
+    }
+  }
+}
