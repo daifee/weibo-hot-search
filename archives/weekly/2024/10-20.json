@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729921098067,
+  "endTime": 1729924155459,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1493985,
+      "num": 316423,
+      "word": "女子凌晨遭39岁醉汉入室强吻",
+      "onboard_time": 1729921578,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1489780,
       "num": 1489780,
       "word": "金鹰奖直播",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1729915399,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1252750,
+      "num": 518523,
+      "word": "房价跌了100万后如何与自己和解",
+      "onboard_time": 1729919719,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1249431,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1729684217,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1064176,
+      "num": 339908,
+      "word": "老娘与海",
+      "onboard_time": 1729919840,
+      "rank": 44,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 1063365,
@@ -2523,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 743500,
-      "num": 518523,
-      "word": "房价跌了100万后如何与自己和解",
-      "onboard_time": 1729919719,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 743154,
       "num": 468767,
       "word": "贾静雯不顾女儿反对临时剪短发",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1729838359,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 706235,
+      "num": 706235,
+      "word": "当妈的千万不要没苦硬吃",
+      "onboard_time": 1729918580,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705259,
@@ -3915,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516261,
+      "num": 516261,
+      "word": "周峻纬回归名侦探学院",
+      "onboard_time": 1729920919,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515114,
       "num": 481896,
       "word": "金鹰奖 白玉兰",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1729657400,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 496901,
+      "num": 333147,
+      "word": "王楚钦福州见面会",
+      "onboard_time": 1729920919,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 496128,
@@ -4273,6 +4313,14 @@
       "onboard_time": 1729836198,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 460878,
+      "num": 460878,
+      "word": "北斗七行包场乔妍的心事",
+      "onboard_time": 1729923138,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 459832,
@@ -4601,6 +4649,22 @@
       "onboard_time": 1729576399,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422432,
+      "num": 327034,
+      "word": "边伯贤 上海",
+      "onboard_time": 1729920319,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 421985,
+      "num": 421985,
+      "word": "大梦归离预告 吓人",
+      "onboard_time": 1729919539,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 421775,
@@ -5057,14 +5121,6 @@
       "onboard_time": 1729565057,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 379662,
-      "num": 379662,
-      "word": "大梦归离预告 吓人",
-      "onboard_time": 1729919539,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 378285,
@@ -5907,14 +5963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 314648,
-      "num": 314648,
-      "word": "老娘与海",
-      "onboard_time": 1729919840,
-      "rank": 44,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 314542,
       "num": 314542,
       "word": "郑钦文vs费尔南德斯",
@@ -6281,6 +6329,14 @@
       "onboard_time": 1729912278,
       "rank": 33,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 294192,
+      "num": 294192,
+      "word": "猫 你也没告诉我是集体宿舍啊",
+      "onboard_time": 1729920558,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 293773,
@@ -6897,6 +6953,14 @@
       "onboard_time": 1729472780,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267434,
+      "num": 267434,
+      "word": "杨超越说虞书欣说话像自动语音回复",
+      "onboard_time": 1729921818,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 267364,
@@ -7539,6 +7603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236644,
+      "num": 236644,
+      "word": "赵丽颖即兴表演把导演震撼了",
+      "onboard_time": 1729923618,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236487,
       "num": 236487,
       "word": "爱奇艺新规被吐槽吃相难看",
@@ -7779,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230042,
+      "num": 202109,
+      "word": "赵丽颖谈7分钟长镜头针扎戏感受",
+      "onboard_time": 1729921339,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229776,
       "num": 271044,
       "word": "陈好好六街万人迷",
@@ -7939,14 +8019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225017,
-      "num": 225017,
-      "word": "边伯贤 上海",
-      "onboard_time": 1729920319,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225008,
       "num": 340766,
       "word": "赴山海杀青特辑",
@@ -8073,6 +8145,14 @@
       "onboard_time": 1729346301,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220977,
+      "num": 220977,
+      "word": "名侦探学院8",
+      "onboard_time": 1729923256,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 220718,
@@ -8545,6 +8625,14 @@
       "onboard_time": 1729398439,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211050,
+      "num": 211050,
+      "word": "一个普通女孩读研的真实感受",
+      "onboard_time": 1729920438,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 210996,
@@ -9027,14 +9115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201638,
-      "num": 355299,
-      "word": "当妈的千万不要没苦硬吃",
-      "onboard_time": 1729918580,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201629,
       "num": 201629,
       "word": "田嘉瑞 这段一定播出去",
@@ -9417,6 +9497,14 @@
       "onboard_time": 1729404678,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194712,
+      "num": 194712,
+      "word": "杨子黄圣依曾发文庆祝结婚十周年",
+      "onboard_time": 1729922658,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194582,
@@ -10203,6 +10291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181918,
+      "num": 181918,
+      "word": "郑钦文vs施耐德",
+      "onboard_time": 1729919239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181910,
       "num": 225784,
       "word": "手工耿",
@@ -10731,6 +10827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170158,
+      "num": 170158,
+      "word": "APT",
+      "onboard_time": 1729920859,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170105,
       "num": 170105,
       "word": "再见爱人 一分钟震惊无数次",
@@ -11083,14 +11187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165024,
-      "num": 165024,
-      "word": "周峻纬回归名侦探学院",
-      "onboard_time": 1729920919,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164969,
       "num": 265969,
       "word": "心动的信号7",
@@ -11297,14 +11393,6 @@
       "onboard_time": 1729675098,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162014,
-      "num": 162014,
-      "word": "一个普通女孩读研的真实感受",
-      "onboard_time": 1729920438,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 162012,
@@ -11739,14 +11827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153210,
-      "num": 153210,
-      "word": "猫 你也没告诉我是集体宿舍啊",
-      "onboard_time": 1729920558,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153004,
       "num": 153004,
       "word": "湖人揭幕战终于赢了",
@@ -11859,14 +11939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151290,
-      "num": 151290,
-      "word": "APT",
-      "onboard_time": 1729920859,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 151272,
       "num": 151272,
       "word": "极客湾小米15性能评测",
@@ -11953,6 +12025,14 @@
       "onboard_time": 1729873038,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149904,
+      "num": 146850,
+      "word": "中微子就是阿飘吗",
+      "onboard_time": 1729923917,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149878,
@@ -12643,14 +12723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139148,
-      "num": 139148,
-      "word": "王楚钦福州见面会",
-      "onboard_time": 1729920919,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138931,
       "num": 138931,
       "word": "李行亮和麦琳都没选过离婚",
@@ -12705,14 +12777,6 @@
       "onboard_time": 1729417580,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 138006,
-      "num": 181124,
-      "word": "郑钦文vs施耐德",
-      "onboard_time": 1729919239,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 137948,
@@ -13497,6 +13561,14 @@
       "onboard_time": 1729822939,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 127008,
+      "num": 127008,
+      "word": "娜扎大梦归离演神女",
+      "onboard_time": 1729921699,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126987,
@@ -16204,7 +16276,7 @@
     },
     {
       "raw_hot": 59623,
-      "num": 160360,
+      "num": 171945,
       "word": "年轻人的旅游观该囤囤该花花",
       "onboard_time": 1729920800,
       "rank": 37,
@@ -17011,6 +17083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41464,
+      "num": 329032,
+      "word": "鹭卓看十个勤天演唱会彩排",
+      "onboard_time": 1729922478,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 41376,
       "num": 235735,
       "word": "纯血鸿蒙打造全新系统级AI",
@@ -17289,6 +17369,14 @@
       "onboard_time": 1729588879,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37231,
+      "num": 336129,
+      "word": "女孩沉迷卡游偷妈妈数千元买卡",
+      "onboard_time": 1729922598,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37219,
@@ -18113,6 +18201,14 @@
       "onboard_time": 1729793832,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26926,
+      "num": 348775,
+      "word": "声称用货车运茶叶其实内藏33包毒品",
+      "onboard_time": 1729923018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26910,
