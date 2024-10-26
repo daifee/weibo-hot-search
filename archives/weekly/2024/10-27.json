@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729971388688,
+  "endTime": 1729974109952,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49676,
+      "num": 74998,
+      "word": "美媒称以色列袭击前向伊朗传话",
+      "onboard_time": 1729970112,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 39378,
       "num": 75316,
       "word": "以称出动F35等百余架飞机袭击伊朗",
@@ -515,12 +523,52 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 31782,
+      "num": 31782,
+      "word": "特朗普嘲讽碧昂丝为哈里斯站台",
+      "onboard_time": 1729972751,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26828,
       "num": 26828,
       "word": "恋与深空",
       "onboard_time": 1729968793,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23938,
+      "num": 23938,
+      "word": "美防长称增强兵力部署保护以色列",
+      "onboard_time": 1729971792,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 22987,
+      "num": 22987,
+      "word": "短道速滑世界巡回赛",
+      "onboard_time": 1729971792,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22576,
+      "num": 22576,
+      "word": "12岁男孩被同学打致重伤父亲发声",
+      "onboard_time": 1729972991,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20739,
+      "num": 20739,
+      "word": "大梦归离 慢动作",
+      "onboard_time": 1729973171,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 20736,
@@ -531,20 +579,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 18731,
-      "num": 74998,
-      "word": "美媒称以色列袭击前向伊朗传话",
-      "onboard_time": 1729970112,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 16781,
       "num": 735880,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12729,
+      "num": 44236,
+      "word": "遭受校园霸凌的7个迹象",
+      "onboard_time": 1729972333,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11570,
+      "num": 31486,
+      "word": "航程二万五千里",
+      "onboard_time": 1729972450,
+      "rank": 29,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
