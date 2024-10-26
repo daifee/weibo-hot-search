@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729924949373,
+  "endTime": 1729927203296,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2069708,
-      "num": 355065,
+      "num": 402957,
       "word": "LV称合肥银泰中心涉事柜姐已离职",
       "onboard_time": 1729918940,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2049153,
-      "num": 600836,
+      "num": 744284,
       "word": "杨幂格局",
       "onboard_time": 1729915878,
       "rank": 5,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1064176,
-      "num": 339908,
+      "num": 376923,
       "word": "老娘与海",
       "onboard_time": 1729919840,
       "rank": 44,
@@ -187,6 +187,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 782371,
+      "num": 782371,
+      "word": "中国共产党是人民的党",
+      "onboard_time": 1729924159,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 755622,
       "num": 755622,
       "word": "当妈的千万不要没苦硬吃",
@@ -209,6 +217,14 @@
       "onboard_time": 1729907957,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738311,
+      "num": 738311,
+      "word": "麦当劳铲子",
+      "onboard_time": 1729924998,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 732645,
@@ -241,6 +257,14 @@
       "onboard_time": 1729863079,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709076,
+      "num": 709076,
+      "word": "辛芷蕾连头皮都打了黑粉",
+      "onboard_time": 1729925598,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 666737,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320384,
+      "num": 272528,
+      "word": "中微子就是阿飘吗",
+      "onboard_time": 1729923917,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317275,
       "num": 317275,
       "word": "伊以冲突",
@@ -593,14 +625,6 @@
       "onboard_time": 1729915758,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291269,
-      "num": 240015,
-      "word": "中微子就是阿飘吗",
-      "onboard_time": 1729923917,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290810,
@@ -707,20 +731,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 250077,
+      "num": 250077,
+      "word": "宋茜和陈好的互动",
+      "onboard_time": 1729926438,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248211,
       "num": 248211,
       "word": "留几手",
       "onboard_time": 1729866561,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240636,
-      "num": 240636,
-      "word": "中国共产党是人民的党",
-      "onboard_time": 1729924159,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 239495,
@@ -851,6 +875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 196353,
+      "num": 196353,
+      "word": "成毅直播",
+      "onboard_time": 1729926198,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194712,
       "num": 194712,
       "word": "杨子黄圣依曾发文庆祝结婚十周年",
@@ -931,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178775,
+      "num": 255953,
+      "word": "杨超越小熊发夹",
+      "onboard_time": 1729924337,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174908,
       "num": 174908,
       "word": "包间搞得一团糟被收100元清洁费",
@@ -977,6 +1017,14 @@
       "onboard_time": 1729881132,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166148,
+      "num": 295158,
+      "word": "郑钦文晋级东京站决赛",
+      "onboard_time": 1729926498,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 165798,
@@ -1051,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155027,
+      "num": 155027,
+      "word": "云南橙连夜改名成哀牢山冰糖橙",
+      "onboard_time": 1729926618,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152400,
       "num": 152400,
       "word": "布朗尼将被下放至G联盟",
@@ -1099,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145473,
+      "num": 145473,
+      "word": "艾伦宋亚轩 这就是养成系的快乐",
+      "onboard_time": 1729927158,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143591,
       "num": 143591,
       "word": "战至巅峰",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1729915698,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139646,
+      "num": 139646,
+      "word": "户外失温急救指南来了",
+      "onboard_time": 1729925478,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138836,
@@ -1259,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127040,
+      "num": 127040,
+      "word": "田嘉瑞行走的剧宣",
+      "onboard_time": 1729925358,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126644,
       "num": 174564,
       "word": "徐明浩上了MBN新闻",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1729905437,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 124327,
+      "num": 124327,
+      "word": "可可西里网红狼被游客喂成胖球",
+      "onboard_time": 1729926979,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123759,
@@ -1531,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77038,
-      "num": 255953,
-      "word": "杨超越小熊发夹",
-      "onboard_time": 1729924337,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76239,
       "num": 79107,
       "word": "再见爱人 一分钟震惊无数次",
@@ -1635,12 +1715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50936,
+      "num": 428703,
+      "word": "受台风潭美影响海南出现海水倒灌",
+      "onboard_time": 1729925779,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49352,
       "num": 248246,
       "word": "抠门的人怎么健身",
       "onboard_time": 1729918338,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48356,
+      "num": 182997,
+      "word": "郑钦文1比0施耐德",
+      "onboard_time": 1729924699,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 48234,
@@ -1665,6 +1761,14 @@
       "onboard_time": 1729918459,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42754,
+      "num": 349153,
+      "word": "美国称已做好准备保卫以色列",
+      "onboard_time": 1729926318,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 42589,
@@ -1715,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36797,
+      "num": 292945,
+      "word": "千万粉丝直播间被质疑变相涨价",
+      "onboard_time": 1729926739,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36218,
       "num": 348775,
       "word": "声称用货车运茶叶其实内藏33包毒品",
@@ -1737,14 +1849,6 @@
       "onboard_time": 1729917019,
       "rank": 9,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 33098,
-      "num": 182997,
-      "word": "郑钦文1比0施耐德",
-      "onboard_time": 1729924699,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 31497,
