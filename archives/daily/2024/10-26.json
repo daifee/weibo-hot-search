@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729949114318,
+  "endTime": 1729949799359,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2257259,
-      "num": 320024,
+      "num": 336260,
       "word": "女子为遮一胎妊娠纹在腹部纹身",
       "onboard_time": 1729931900,
       "rank": 44,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1142813,
-      "num": 657289,
+      "num": 666882,
       "word": "余华英丈夫越狱后多次拐卖儿童",
       "onboard_time": 1729943839,
       "rank": 11,
@@ -251,6 +251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 899230,
+      "num": 624368,
+      "word": "审判大梦归离",
+      "onboard_time": 1729946000,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 897625,
+      "num": 620397,
+      "word": "肖战直播",
+      "onboard_time": 1729945579,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 896172,
       "num": 896172,
       "word": "大梦归离",
@@ -273,14 +289,6 @@
       "onboard_time": 1729911559,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846181,
-      "num": 620397,
-      "word": "肖战直播",
-      "onboard_time": 1729945579,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 822391,
@@ -323,14 +331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 778728,
-      "num": 608904,
-      "word": "审判大梦归离",
-      "onboard_time": 1729946000,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 755622,
       "num": 755622,
       "word": "当妈的千万不要没苦硬吃",
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 730913,
+      "num": 730913,
+      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
+      "onboard_time": 1729945280,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726653,
       "num": 726653,
       "word": "北斗七行包场乔妍的心事",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 703545,
-      "num": 324900,
+      "num": 362680,
       "word": "被入室强吻女子嘴唇被咬破担心传染病",
       "onboard_time": 1729937419,
       "rank": 22,
@@ -464,14 +472,6 @@
       "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
       "onboard_time": 1729910838,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608636,
-      "num": 608636,
-      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
-      "onboard_time": 1729945280,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -537,6 +537,14 @@
       "onboard_time": 1729920919,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502987,
+      "num": 454491,
+      "word": "张本美和vs申裕斌",
+      "onboard_time": 1729948399,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 497087,
@@ -811,6 +819,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 370090,
+      "num": 370090,
+      "word": "梁靖崑vs杜达",
+      "onboard_time": 1729949121,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357052,
       "num": 357052,
       "word": "Winter偷藏Karina的奖杯",
@@ -923,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313399,
-      "num": 313399,
-      "word": "张本美和vs申裕斌",
-      "onboard_time": 1729948399,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311728,
       "num": 311728,
       "word": "张本智和救4赛点逆转晋级",
@@ -985,6 +993,14 @@
       "onboard_time": 1729941439,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298694,
+      "num": 298694,
+      "word": "杨幂战至巅峰直播镜头",
+      "onboard_time": 1729948041,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 294526,
@@ -1081,6 +1097,22 @@
       "onboard_time": 1729899737,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272185,
+      "num": 272185,
+      "word": "杭州有菜场推出代炒服务已20多年",
+      "onboard_time": 1729946477,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271483,
+      "num": 271483,
+      "word": "陈都灵圈内人缘",
+      "onboard_time": 1729945938,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 270322,
@@ -1211,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244259,
-      "num": 244259,
-      "word": "陈都灵圈内人缘",
-      "onboard_time": 1729945938,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242391,
       "num": 244532,
       "word": "迪丽热巴包场辛芷蕾新片",
@@ -1259,6 +1283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233829,
+      "num": 233829,
+      "word": "郭敬明审美",
+      "onboard_time": 1729949360,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "名侦探学院8",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1729921339,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228091,
-      "num": 228091,
-      "word": "杨幂战至巅峰直播镜头",
-      "onboard_time": 1729948041,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 225915,
@@ -1683,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170252,
+      "num": 170252,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1729948581,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169876,
       "num": 169876,
       "word": "以色列袭击伊朗发电厂",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1729881132,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166339,
+      "num": 166339,
+      "word": "杨子称黄圣依有焦虑症",
+      "onboard_time": 1729949480,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 165798,
@@ -1835,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151034,
-      "num": 151034,
-      "word": "十个勤天演唱会",
-      "onboard_time": 1729948581,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 150927,
       "num": 150927,
       "word": "李行亮嫌麦琳唠叨",
@@ -1899,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147698,
+      "num": 147698,
+      "word": "永夜星河",
+      "onboard_time": 1729949780,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147432,
       "num": 147432,
       "word": "宋亚轩问沈腾为什么要扇巴掌",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1729942158,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141255,
+      "num": 141255,
+      "word": "急诊大夫取蛋糕先打120再打110",
+      "onboard_time": 1729949301,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139900,
@@ -2259,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119825,
+      "num": 427313,
+      "word": "梁靖崑0比3杜达",
+      "onboard_time": 1729949721,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117505,
       "num": 117505,
       "word": "总台记者手机拍下伊朗防空防御现场",
@@ -2360,14 +2416,6 @@
       "word": "男孩踩女童家长不道歉反骂狗都不如",
       "onboard_time": 1729857738,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107571,
-      "num": 265290,
-      "word": "杭州有菜场推出代炒服务已20多年",
-      "onboard_time": 1729946477,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2491,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80895,
+      "num": 454702,
+      "word": "伊朗已准备好回应以色列袭击",
+      "onboard_time": 1729948941,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 78852,
       "num": 818504,
       "word": "这项工程奇迹创下多个世界第一",
@@ -2585,6 +2641,14 @@
       "onboard_time": 1729935739,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61045,
+      "num": 231436,
+      "word": "伊朗首都传出巨大爆炸声",
+      "onboard_time": 1729949061,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 59623,
@@ -2753,22 +2817,6 @@
       "onboard_time": 1729885331,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39157,
-      "num": 212259,
-      "word": "伊朗已准备好回应以色列袭击",
-      "onboard_time": 1729948941,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 39096,
-      "num": 231436,
-      "word": "伊朗首都传出巨大爆炸声",
-      "onboard_time": 1729949061,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38798,

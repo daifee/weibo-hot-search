@@ -1,0 +1,410 @@
+{
+  "runTime": 1729949799359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636770,
+        "num": 1636770,
+        "word": "黄磊 饭不是我做的放心吃",
+        "onboard_time": 1729935739,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 730913,
+        "num": 730913,
+        "word": "江苏约50%筛查对象有幽门螺杆菌感染",
+        "onboard_time": 1729945280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75630,
+        "num": 712098,
+        "word": "这项工程奇迹创下多个世界第一",
+        "onboard_time": 1729946360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012992,
+        "num": 666882,
+        "word": "余华英丈夫越狱后多次拐卖儿童",
+        "onboard_time": 1729943839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899230,
+        "num": 624368,
+        "word": "审判大梦归离",
+        "onboard_time": 1729946000,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 865687,
+        "num": 586907,
+        "word": "爷爷床头柜放罂粟孙子报警",
+        "onboard_time": 1729936100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897625,
+        "num": 543613,
+        "word": "肖战直播",
+        "onboard_time": 1729945579,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543124,
+        "num": 543124,
+        "word": "潘展乐800自金牌",
+        "onboard_time": 1729940539,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456823,
+        "num": 456823,
+        "word": "花少5播放量超过花少6",
+        "onboard_time": 1729936158,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80895,
+        "num": 454702,
+        "word": "伊朗已准备好回应以色列袭击",
+        "onboard_time": 1729948941,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 665415,
+        "num": 454525,
+        "word": "男孩被同学打致重伤智力不到5岁",
+        "onboard_time": 1729941560,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502987,
+        "num": 454491,
+        "word": "张本美和vs申裕斌",
+        "onboard_time": 1729948399,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454332,
+        "num": 454332,
+        "word": "明日方舟",
+        "onboard_time": 1729933397,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442325,
+        "num": 442325,
+        "word": "大梦归离",
+        "onboard_time": 1729939998,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119825,
+        "num": 427313,
+        "word": "梁靖崑0比3杜达",
+        "onboard_time": 1729949721,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413332,
+        "num": 413332,
+        "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
+        "onboard_time": 1729943358,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409254,
+        "num": 409254,
+        "word": "余华英老家亲属发声",
+        "onboard_time": 1729941138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392233,
+        "num": 392233,
+        "word": "程潇演技",
+        "onboard_time": 1729945340,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370090,
+        "num": 370090,
+        "word": "梁靖崑vs杜达",
+        "onboard_time": 1729949121,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367212,
+        "num": 367212,
+        "word": "殷世航看华晨宇演唱会",
+        "onboard_time": 1729946599,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498105,
+        "num": 362680,
+        "word": "被入室强吻女子嘴唇被咬破担心传染病",
+        "onboard_time": 1729937419,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345071,
+        "num": 345071,
+        "word": "WBG对战BLG",
+        "onboard_time": 1729943538,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 336260,
+        "num": 336260,
+        "word": "女子为遮一胎妊娠纹在腹部纹身",
+        "onboard_time": 1729931900,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321672,
+        "num": 321672,
+        "word": "Bin扔衣服",
+        "onboard_time": 1729946061,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 313214,
+        "num": 313214,
+        "word": "战至巅峰3冠军之夜",
+        "onboard_time": 1729936639,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298694,
+        "num": 298694,
+        "word": "杨幂战至巅峰直播镜头",
+        "onboard_time": 1729948041,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272185,
+        "num": 272185,
+        "word": "杭州有菜场推出代炒服务已20多年",
+        "onboard_time": 1729946477,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271483,
+        "num": 271483,
+        "word": "陈都灵圈内人缘",
+        "onboard_time": 1729945938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265144,
+        "num": 265144,
+        "word": "余华英是如何物色和拐卖儿童的",
+        "onboard_time": 1729945819,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234416,
+        "num": 234416,
+        "word": "郑秀晶30岁生日照",
+        "onboard_time": 1729948342,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965814,
+        "num": 234344,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233829,
+        "num": 233829,
+        "word": "郭敬明审美",
+        "onboard_time": 1729949360,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227090,
+        "num": 227090,
+        "word": "赵继伟受伤",
+        "onboard_time": 1729946900,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216531,
+        "num": 216531,
+        "word": "乔妍的心事票房",
+        "onboard_time": 1729935558,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32664,
+        "num": 211962,
+        "word": "战至巅峰人手一台iQOO13",
+        "onboard_time": 1729944260,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207602,
+        "num": 207602,
+        "word": "英雄联盟",
+        "onboard_time": 1729948702,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203226,
+        "num": 203226,
+        "word": "边伯贤cos财神爷",
+        "onboard_time": 1729941980,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172529,
+        "num": 172529,
+        "word": "画皮",
+        "onboard_time": 1729947921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170712,
+        "num": 170712,
+        "word": "严浩翔电竞男主怼脸拍",
+        "onboard_time": 1729945159,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61045,
+        "num": 170265,
+        "word": "伊朗首都传出巨大爆炸声",
+        "onboard_time": 1729949061,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170252,
+        "num": 170252,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1729948581,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167634,
+        "num": 167634,
+        "word": "房价跌了100万后如何与自己和解",
+        "onboard_time": 1729919719,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166339,
+        "num": 166339,
+        "word": "杨子称黄圣依有焦虑症",
+        "onboard_time": 1729949480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161711,
+        "num": 161711,
+        "word": "1.45万吨桥梁墩体转体有多震撼",
+        "onboard_time": 1729946599,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161224,
+        "num": 161224,
+        "word": "赵露思武汉线下活动生图",
+        "onboard_time": 1729933700,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154202,
+        "num": 154202,
+        "word": "美国一宇航员回地球后出现健康问题",
+        "onboard_time": 1729937541,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147698,
+        "num": 147698,
+        "word": "永夜星河",
+        "onboard_time": 1729949780,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147280,
+        "num": 147280,
+        "word": "遭货车碾压的男孩被医生救回",
+        "onboard_time": 1729935019,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141255,
+        "num": 141255,
+        "word": "急诊大夫取蛋糕先打120再打110",
+        "onboard_time": 1729949301,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134787,
+        "num": 134787,
+        "word": "日本将再次向中国归还朱鹮",
+        "onboard_time": 1729916780,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民群众做好事办实事解难事#"
+    }
+  }
+}
