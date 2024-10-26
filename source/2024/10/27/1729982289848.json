@@ -1,0 +1,410 @@
+{
+  "runTime": 1729982289848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277812,
+        "num": 472384,
+        "word": "水军狂发正面评价让真实评价沉帖",
+        "onboard_time": 1729977311,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158728,
+        "num": 158728,
+        "word": "外交部回应美国19.88亿美元对台军售",
+        "onboard_time": 1729958660,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1861,
+        "num": 118561,
+        "word": "神十九发射场区全系统合练",
+        "onboard_time": 1729945579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113802,
+        "num": 113802,
+        "word": "余华英丈夫越狱后多次拐卖儿童",
+        "onboard_time": 1729943839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104763,
+        "num": 104763,
+        "word": "爷爷床头柜放罂粟孙子报警",
+        "onboard_time": 1729936100,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95595,
+        "num": 95595,
+        "word": "有的网红账号看似真实实为水军工具",
+        "onboard_time": 1729980672,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93671,
+        "num": 93671,
+        "word": "钱天一vs巴特拉",
+        "onboard_time": 1729959020,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92691,
+        "num": 92691,
+        "word": "黄磊 饭不是我做的放心吃",
+        "onboard_time": 1729935739,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81514,
+        "num": 87470,
+        "word": "麦琳 李行亮",
+        "onboard_time": 1729952840,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69464,
+        "num": 87366,
+        "word": "肖战直播",
+        "onboard_time": 1729945579,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97140,
+        "num": 87362,
+        "word": "想到余华英丈夫给孙子糖就害怕",
+        "onboard_time": 1729977790,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87334,
+        "num": 87334,
+        "word": "业主卧室改厕所被判改回去",
+        "onboard_time": 1729961716,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85015,
+        "num": 85015,
+        "word": "余华英老家亲属发声",
+        "onboard_time": 1729941138,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81228,
+        "num": 81228,
+        "word": "男孩被同学打致重伤智力不到5岁",
+        "onboard_time": 1729941560,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65490,
+        "num": 65490,
+        "word": "特朗普嘲讽碧昂丝为哈里斯站台",
+        "onboard_time": 1729972751,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62576,
+        "num": 62576,
+        "word": "郭敬明审美",
+        "onboard_time": 1729949360,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62556,
+        "num": 62556,
+        "word": "刘青松哭了",
+        "onboard_time": 1729957459,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59916,
+        "num": 59916,
+        "word": "招聘人员解答女生多次投简历被拒",
+        "onboard_time": 1729951341,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44957,
+        "num": 44957,
+        "word": "辛芷蕾工作室的海报没有辛芷蕾",
+        "onboard_time": 1729954939,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7500,
+        "num": 43993,
+        "word": "4名高中生勇救七旬落水婆婆",
+        "onboard_time": 1729976531,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317093,
+        "num": 43961,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58825,
+        "num": 43950,
+        "word": "戚薇 不要再说是我的狗",
+        "onboard_time": 1729966693,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43909,
+        "num": 43909,
+        "word": "被入室强吻女子嘴唇被咬破担心传染病",
+        "onboard_time": 1729937419,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43293,
+        "num": 43293,
+        "word": "杨幂粉色抹胸长裙梦回夏晚晴",
+        "onboard_time": 1729949901,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42817,
+        "num": 42817,
+        "word": "梅姨到底是谁",
+        "onboard_time": 1729964534,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42661,
+        "num": 42661,
+        "word": "战至巅峰3冠军之夜",
+        "onboard_time": 1729936639,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38327,
+        "num": 38327,
+        "word": "BLG晋级S14决赛",
+        "onboard_time": 1729954162,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38288,
+        "num": 38288,
+        "word": "30岁当然还可以觉得自己像小孩",
+        "onboard_time": 1729959918,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36891,
+        "num": 38155,
+        "word": "李昊 一半婚纱一半西服",
+        "onboard_time": 1729958060,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35050,
+        "num": 38082,
+        "word": "胡歌 红房子140岁生日快乐",
+        "onboard_time": 1729981272,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253969,
+        "num": 38078,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38064,
+        "num": 38064,
+        "word": "樊振东为皇马国家德比加油",
+        "onboard_time": 1729974372,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37511,
+        "num": 37511,
+        "word": "以军已完全摧毁加沙地带126所学校",
+        "onboard_time": 1729955660,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37103,
+        "num": 37103,
+        "word": "潘展乐打破张琳15年前800自纪录",
+        "onboard_time": 1729954403,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34048,
+        "num": 34048,
+        "word": "以称出动F35等百余架飞机袭击伊朗",
+        "onboard_time": 1729969393,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33838,
+        "num": 33838,
+        "word": "白百何新剧这段比短剧还爽",
+        "onboard_time": 1729960938,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33321,
+        "num": 33321,
+        "word": "成毅把难过的事想了遍还是没忍住",
+        "onboard_time": 1729955121,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31576,
+        "num": 31576,
+        "word": "赞达亚荷兰弟 女王和她的小手办",
+        "onboard_time": 1729965193,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30216,
+        "num": 30216,
+        "word": "12岁男孩被同学打致重伤父亲发声",
+        "onboard_time": 1729972991,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28296,
+        "num": 28296,
+        "word": "迪丽热巴包场乔妍的心事",
+        "onboard_time": 1729963695,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27782,
+        "num": 27782,
+        "word": "赵露思生图live",
+        "onboard_time": 1729953801,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27776,
+        "num": 27776,
+        "word": "大梦归离",
+        "onboard_time": 1729939998,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26953,
+        "num": 26953,
+        "word": "美媒称以色列袭击前向伊朗传话",
+        "onboard_time": 1729970112,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27773,
+        "num": 26688,
+        "word": "张淼怡大梦归离妆造",
+        "onboard_time": 1729955241,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26287,
+        "num": 26287,
+        "word": "Uzi预测BLG夺冠",
+        "onboard_time": 1729959319,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25468,
+        "num": 25468,
+        "word": "遭受校园霸凌的7个迹象",
+        "onboard_time": 1729972333,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24814,
+        "num": 24814,
+        "word": "遭货车拦腰碾压男孩已入学幼儿园",
+        "onboard_time": 1729980551,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24777,
+        "num": 24777,
+        "word": "飞行员精准命中目标治好强迫症",
+        "onboard_time": 1729979111,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23936,
+        "num": 24777,
+        "word": "花少5播放量超过花少6",
+        "onboard_time": 1729936158,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22380,
+        "num": 24773,
+        "word": "WBG止步S14四强",
+        "onboard_time": 1729954704,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民群众做好事办实事解难事#"
+    }
+  }
+}
