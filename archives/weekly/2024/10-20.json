@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729949799359,
+  "endTime": 1729952343155,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141902,
+      "num": 558253,
+      "word": "郭敬明审美",
+      "onboard_time": 1729949360,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1141410,
       "num": 1141410,
       "word": "福州机场",
@@ -2116,7 +2124,7 @@
     },
     {
       "raw_hot": 885973,
-      "num": 506444,
+      "num": 535214,
       "word": "男孩被同学打致重伤智力不到5岁",
       "onboard_time": 1729941560,
       "rank": 22,
@@ -2916,7 +2924,7 @@
     },
     {
       "raw_hot": 703545,
-      "num": 362680,
+      "num": 384504,
       "word": "被入室强吻女子嘴唇被咬破担心传染病",
       "onboard_time": 1729937419,
       "rank": 22,
@@ -3659,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585485,
+      "num": 532900,
+      "word": "杨幂粉色抹胸长裙梦回夏晚晴",
+      "onboard_time": 1729949901,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 584573,
       "num": 584573,
       "word": "原三只羊员工加盟听泉鉴宝",
@@ -3747,12 +3763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566399,
+      "num": 566399,
+      "word": "樊振东造访伯纳乌",
+      "onboard_time": 1729952120,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566104,
       "num": 566104,
       "word": "曝登陆少年组合将新增一人",
       "onboard_time": 1729418600,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565796,
+      "num": 529100,
+      "word": "永夜星河",
+      "onboard_time": 1729949780,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 564809,
@@ -4121,6 +4153,14 @@
       "onboard_time": 1729569079,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526561,
+      "num": 526561,
+      "word": "WBG对战BLG",
+      "onboard_time": 1729943538,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 525098,
@@ -5035,14 +5075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415170,
-      "num": 415170,
-      "word": "WBG对战BLG",
-      "onboard_time": 1729943538,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 414987,
       "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
@@ -5259,6 +5291,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 397471,
+      "num": 397471,
+      "word": "国色芳华",
+      "onboard_time": 1729951820,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 396470,
+      "num": 396470,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1729950741,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396137,
       "num": 461708,
       "word": "穿山甲给自己挖了32洞小区",
@@ -5377,6 +5425,14 @@
       "onboard_time": 1729760300,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383698,
+      "num": 454702,
+      "word": "伊朗已准备好回应以色列袭击",
+      "onboard_time": 1729948941,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 382304,
@@ -6339,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315474,
+      "num": 427313,
+      "word": "梁靖崑0比3杜达",
+      "onboard_time": 1729949721,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315417,
       "num": 256826,
       "word": "亲友是我的何老师",
@@ -6891,6 +6955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289391,
+      "num": 289391,
+      "word": "伊朗首都传出巨大爆炸声",
+      "onboard_time": 1729949061,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 289040,
       "num": 181136,
       "word": "读研前后我眼中的奢侈品",
@@ -7424,6 +7496,14 @@
       "word": "杨超越说虞书欣说话像自动语音回复",
       "onboard_time": 1729921818,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267417,
+      "num": 267417,
+      "word": "王安宇顺嘴的事",
+      "onboard_time": 1729950621,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -8219,14 +8299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233829,
-      "num": 233829,
-      "word": "郭敬明审美",
-      "onboard_time": 1729949360,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233760,
       "num": 233760,
       "word": "你的肾是这样一点点透支的",
@@ -8689,6 +8761,14 @@
       "onboard_time": 1729848679,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221532,
+      "num": 221532,
+      "word": "小虎 抽象",
+      "onboard_time": 1729951943,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 221442,
@@ -9539,6 +9619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205094,
+      "num": 538674,
+      "word": "招聘人员解答女生多次投简历被拒",
+      "onboard_time": 1729951341,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204907,
       "num": 534544,
       "word": "火星哥发韩文感谢粉丝",
@@ -9665,6 +9753,14 @@
       "onboard_time": 1729508839,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203480,
+      "num": 203480,
+      "word": "梁靖崑止步男单八强",
+      "onboard_time": 1729949841,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 203147,
@@ -9905,6 +10001,14 @@
       "onboard_time": 1729516518,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 198550,
+      "num": 198550,
+      "word": "大梦归离热度",
+      "onboard_time": 1729951282,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 198367,
@@ -10499,6 +10603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190528,
+      "num": 190528,
+      "word": "登陆少年有五只小熊住在一起",
+      "onboard_time": 1729951282,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190408,
       "num": 190408,
       "word": "苏宁易购要求万达集团支付50.4亿",
@@ -10979,12 +11091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182924,
+      "num": 479938,
+      "word": "BLG拿到赛点",
+      "onboard_time": 1729951581,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182772,
       "num": 250642,
       "word": "刘学义别说了 敖瑞鹏要破防了",
       "onboard_time": 1729918998,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182416,
+      "num": 182416,
+      "word": "LPL",
+      "onboard_time": 1729952059,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 182264,
@@ -13027,14 +13155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147698,
-      "num": 147698,
-      "word": "永夜星河",
-      "onboard_time": 1729949780,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147651,
       "num": 147651,
       "word": "AG晋级年总淘汰赛",
@@ -13705,6 +13825,14 @@
       "onboard_time": 1729388899,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137520,
+      "num": 384936,
+      "word": "BLG运营",
+      "onboard_time": 1729951701,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 136881,
@@ -14937,14 +15065,6 @@
       "onboard_time": 1729394118,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119825,
-      "num": 427313,
-      "word": "梁靖崑0比3杜达",
-      "onboard_time": 1729949721,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 119525,
@@ -16563,14 +16683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80895,
-      "num": 454702,
-      "word": "伊朗已准备好回应以色列袭击",
-      "onboard_time": 1729948941,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 80597,
       "num": 417922,
       "word": "一名残障未婚女的宅基地执念",
@@ -17257,14 +17369,6 @@
       "onboard_time": 1729446134,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61045,
-      "num": 231436,
-      "word": "伊朗首都传出巨大爆炸声",
-      "onboard_time": 1729949061,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 60973,
