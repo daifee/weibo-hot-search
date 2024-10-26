@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729982289848,
+  "endTime": 1729984872809,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -43,7 +43,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 575282,
+      "raw_hot": 698564,
       "num": 134336,
       "word": "被醉汉强吻女子2天都不敢睡",
       "onboard_time": 1729962616,
@@ -73,6 +73,14 @@
       "onboard_time": 1729936639,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533809,
+      "num": 779853,
+      "word": "水军狂发正面评价让真实评价沉帖",
+      "onboard_time": 1729977311,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523720,
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277812,
-      "num": 472384,
-      "word": "水军狂发正面评价让真实评价沉帖",
-      "onboard_time": 1729977311,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271386,
       "num": 271386,
       "word": "男孩被同学打致重伤智力不到5岁",
@@ -200,6 +200,14 @@
       "word": "招聘人员解答女生多次投简历被拒",
       "onboard_time": 1729951341,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248157,
+      "num": 248157,
+      "word": "想到余华英丈夫给孙子糖就害怕",
+      "onboard_time": 1729977790,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224210,
+      "num": 224210,
+      "word": "皇马0比4巴萨",
+      "onboard_time": 1729983974,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222282,
       "num": 222282,
       "word": "成毅把难过的事想了遍还是没忍住",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 218980,
-      "num": 75299,
+      "num": 123447,
       "word": "戚薇 不要再说是我的狗",
       "onboard_time": 1729966693,
       "rank": 36,
@@ -289,6 +305,30 @@
       "onboard_time": 1729959378,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202631,
+      "num": 202631,
+      "word": "有的网红账号看似真实实为水军工具",
+      "onboard_time": 1729980672,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201580,
+      "num": 165533,
+      "word": "司机踩错油门6秒连撞3车4人",
+      "onboard_time": 1729983734,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192049,
+      "num": 164452,
+      "word": "业主卧室改厕所被判改回去",
+      "onboard_time": 1729961716,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183061,
@@ -371,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147498,
-      "num": 147498,
-      "word": "业主卧室改厕所被判改回去",
-      "onboard_time": 1729961716,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143810,
       "num": 143810,
       "word": "辛芷蕾工作室的海报没有辛芷蕾",
@@ -435,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127146,
+      "num": 127146,
+      "word": "胡歌 红房子140岁生日快乐",
+      "onboard_time": 1729981272,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
       "onboard_time": 1729946061,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123278,
+      "num": 123278,
+      "word": "特朗普嘲讽碧昂丝为哈里斯站台",
+      "onboard_time": 1729972751,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 119888,
@@ -459,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109585,
+      "num": 109585,
+      "word": "网购千万不要没苦硬吃",
+      "onboard_time": 1729983734,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102098,
       "num": 287868,
       "word": "人造宝石或进一步降价",
@@ -473,22 +529,6 @@
       "onboard_time": 1729954881,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97140,
-      "num": 87362,
-      "word": "想到余华英丈夫给孙子糖就害怕",
-      "onboard_time": 1729977790,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95595,
-      "num": 95595,
-      "word": "有的网红账号看似真实实为水军工具",
-      "onboard_time": 1729980672,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95177,
@@ -507,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74247,
+      "num": 74247,
+      "word": "遭货车拦腰碾压男孩已入学幼儿园",
+      "onboard_time": 1729980551,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71595,
       "num": 120239,
       "word": "全球约70%人工宝石产自广西梧州",
@@ -515,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65490,
-      "num": 65490,
-      "word": "特朗普嘲讽碧昂丝为哈里斯站台",
-      "onboard_time": 1729972751,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 57322,
       "num": 61373,
       "word": "HYBE报告Kpop大点兵",
       "onboard_time": 1729964114,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 55469,
+      "num": 75316,
+      "word": "以称出动F35等百余架飞机袭击伊朗",
+      "onboard_time": 1729969393,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 52942,
@@ -547,7 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49676,
+      "raw_hot": 50445,
       "num": 74998,
       "word": "美媒称以色列袭击前向伊朗传话",
       "onboard_time": 1729970112,
@@ -555,12 +603,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 39378,
-      "num": 75316,
-      "word": "以称出动F35等百余架飞机袭击伊朗",
-      "onboard_time": 1729969393,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 46947,
+      "num": 46947,
+      "word": "12岁男孩被同学打致重伤父亲发声",
+      "onboard_time": 1729972991,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38372,
@@ -569,22 +617,6 @@
       "onboard_time": 1729966153,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 35050,
-      "num": 38082,
-      "word": "胡歌 红房子140岁生日快乐",
-      "onboard_time": 1729981272,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30216,
-      "num": 30216,
-      "word": "12岁男孩被同学打致重伤父亲发声",
-      "onboard_time": 1729972991,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26828,
@@ -603,19 +635,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25655,
+      "num": 168485,
+      "word": "近距离投喂拍照可能激怒野生动物",
+      "onboard_time": 1729983793,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25029,
       "num": 26106,
       "word": "飞行员精准命中目标治好强迫症",
       "onboard_time": 1729979111,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24814,
-      "num": 24814,
-      "word": "遭货车拦腰碾压男孩已入学幼儿园",
-      "onboard_time": 1729980551,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
