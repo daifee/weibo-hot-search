@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729913171760,
+  "endTime": 1729914010899,
   "band_list": [
     {
       "raw_hot": 2322765,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1300149,
-      "num": 1300149,
+      "raw_hot": 1452154,
+      "num": 1452154,
       "word": "丈夫称烧伤妈妈已经有了求生欲",
       "onboard_time": 1729909758,
       "rank": 8,
@@ -59,6 +59,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 955222,
+      "num": 955222,
+      "word": "侯明昊 花少",
+      "onboard_time": 1729911196,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 822391,
       "num": 822391,
       "word": "宋茜对得起所有人 除了蒋欣",
@@ -83,6 +91,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 793637,
+      "num": 354595,
+      "word": "成都一河道现浮尸",
+      "onboard_time": 1729911559,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746943,
       "num": 746943,
       "word": "普京回应特朗普曾威胁袭击莫斯科",
@@ -91,7 +107,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 733913,
+      "raw_hot": 741215,
       "num": 686312,
       "word": "家长称孩子因上课抬头被认定违纪",
       "onboard_time": 1729907957,
@@ -120,14 +136,6 @@
       "word": "荣梓杉被审判",
       "onboard_time": 1729863079,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 715442,
-      "num": 715442,
-      "word": "侯明昊 花少",
-      "onboard_time": 1729911196,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -235,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425920,
+      "num": 442890,
+      "word": "以色列对伊朗袭击最新情况",
+      "onboard_time": 1729910838,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 415668,
       "num": 415668,
       "word": "司机警车内失去意识后抢救无效身亡",
       "onboard_time": 1729866921,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401407,
+      "num": 401407,
+      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
+      "onboard_time": 1729910838,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331175,
-      "num": 331175,
-      "word": "成都一河道现浮尸",
-      "onboard_time": 1729911559,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322161,
       "num": 397212,
       "word": "还原余华英11年拐卖17名儿童",
@@ -355,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 294526,
+      "num": 294526,
+      "word": "张雨霏汪顺芭莎封面",
+      "onboard_time": 1729912278,
+      "rank": 33,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 290810,
       "num": 290810,
       "word": "鱼 游泳很累的",
@@ -379,28 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278596,
-      "num": 442890,
-      "word": "以色列对伊朗袭击最新情况",
-      "onboard_time": 1729910838,
-      "rank": 9,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 277545,
       "num": 277545,
       "word": "以色列对伊朗发动第二轮袭击",
       "onboard_time": 1729907478,
       "rank": 29,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 273894,
-      "num": 273894,
-      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
-      "onboard_time": 1729910838,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273628,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253339,
+      "num": 253339,
+      "word": "以色列打击伊朗行动已结束",
+      "onboard_time": 1729912938,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 250354,
       "num": 250354,
       "word": "伊朗关闭其领空",
@@ -449,6 +465,22 @@
       "onboard_time": 1729866561,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239617,
+      "num": 239617,
+      "word": "51岁阿姨打两份工的老年生活",
+      "onboard_time": 1729912758,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226554,
+      "num": 359635,
+      "word": "伊媒称伊朗已准备回应以色列侵略",
+      "onboard_time": 1729912637,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 225539,
@@ -491,28 +523,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 204459,
-      "num": 204459,
-      "word": "张雨霏汪顺芭莎封面",
-      "onboard_time": 1729912278,
-      "rank": 33,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 202353,
       "num": 202353,
       "word": "李秀满A2O练习生公开",
       "onboard_time": 1729861399,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190919,
-      "num": 190919,
-      "word": "以色列打击伊朗行动已结束",
-      "onboard_time": 1729912938,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 187699,
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179414,
-      "num": 179414,
-      "word": "51岁阿姨打两份工的老年生活",
-      "onboard_time": 1729912758,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174908,
       "num": 174908,
       "word": "包间搞得一团糟被收100元清洁费",
@@ -587,20 +595,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 169055,
+      "num": 224353,
+      "word": "乔妍的心事上映",
+      "onboard_time": 1729906997,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168448,
       "num": 168448,
       "word": "如何看待酒店订单订后即焚",
       "onboard_time": 1729881132,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167829,
-      "num": 167829,
-      "word": "伊媒称伊朗已准备回应以色列侵略",
-      "onboard_time": 1729912637,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 165432,
@@ -619,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162899,
+      "num": 162899,
+      "word": "何炅主持的尴尬经历",
+      "onboard_time": 1729913538,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162883,
       "num": 162883,
       "word": "新娘用生菜做手捧花水果装饰婚车",
       "onboard_time": 1729898954,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159344,
+      "num": 159344,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1729913358,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 156786,
@@ -641,14 +665,6 @@
       "onboard_time": 1729900456,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153144,
-      "num": 224353,
-      "word": "乔妍的心事上映",
-      "onboard_time": 1729906997,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 152400,
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130974,
+      "num": 130974,
+      "word": "加沙民众一家人分食一块大饼",
+      "onboard_time": 1729913299,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 130733,
       "num": 130733,
       "word": "极客湾小米15性能评测",
@@ -761,6 +785,14 @@
       "onboard_time": 1729870279,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129667,
+      "num": 129667,
+      "word": "伊朗突遭以色列袭击现场画面",
+      "onboard_time": 1729913838,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 127951,
@@ -779,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127427,
+      "num": 127427,
+      "word": "男子偷挖天山雪莲4年攒了5000株",
+      "onboard_time": 1729913959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126644,
       "num": 174564,
       "word": "徐明浩上了MBN新闻",
@@ -793,6 +833,14 @@
       "onboard_time": 1729879693,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126237,
+      "num": 126237,
+      "word": "伊朗暂停所有航班",
+      "onboard_time": 1729913718,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 125345,
@@ -1075,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62684,
+      "num": 276044,
+      "word": "官方通报示众举报人令人生疑",
+      "onboard_time": 1729911916,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61986,
       "num": 61986,
       "word": "14岁少年沉迷AI恋人最终自尽",
@@ -1131,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45482,
-      "num": 276044,
-      "word": "官方通报示众举报人令人生疑",
-      "onboard_time": 1729911916,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42019,
       "num": 42019,
       "word": "耿爽呼吁以方立即停止袭击叙利亚",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1729910297,
       "rank": 14,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 23102,
+      "num": 347823,
+      "word": "网传一主播在菏泽南站直播时被打",
+      "onboard_time": 1729913718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19779,
