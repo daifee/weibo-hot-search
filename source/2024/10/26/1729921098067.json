@@ -1,0 +1,410 @@
+{
+  "runTime": 1729921098067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2277719,
+        "num": 2277719,
+        "word": "日本将再次向中国归还朱鹮",
+        "onboard_time": 1729916780,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1133597,
+        "num": 1133597,
+        "word": "加沙一袋生虫面粉370元",
+        "onboard_time": 1729916118,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 7796,
+        "num": 602907,
+        "word": "祖国大地深秋之美",
+        "onboard_time": 1729896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536277,
+        "num": 536277,
+        "word": "金晨装不了一点",
+        "onboard_time": 1729914017,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743500,
+        "num": 518523,
+        "word": "房价跌了100万后如何与自己和解",
+        "onboard_time": 1729919719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495068,
+        "num": 495068,
+        "word": "伊朗突遭以色列袭击现场画面",
+        "onboard_time": 1729913838,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 480672,
+        "num": 480672,
+        "word": "APT 嘻唰唰",
+        "onboard_time": 1729917799,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379662,
+        "num": 379662,
+        "word": "大梦归离预告 吓人",
+        "onboard_time": 1729919539,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355644,
+        "num": 355644,
+        "word": "丈夫称烧伤妈妈已经有了求生欲",
+        "onboard_time": 1729909758,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190410,
+        "num": 353606,
+        "word": "当妈的千万不要没苦硬吃",
+        "onboard_time": 1729918580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2069708,
+        "num": 352633,
+        "word": "LV称合肥银泰中心涉事柜姐已离职",
+        "onboard_time": 1729918940,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1508742,
+        "num": 349666,
+        "word": "金晨 干呕",
+        "onboard_time": 1729914198,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1256761,
+        "num": 348784,
+        "word": "杨幂谢谢那么多杨幂",
+        "onboard_time": 1729915399,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365749,
+        "num": 346857,
+        "word": "成都一河道现浮尸",
+        "onboard_time": 1729911559,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344925,
+        "num": 344925,
+        "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
+        "onboard_time": 1729910838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314648,
+        "num": 314648,
+        "word": "老娘与海",
+        "onboard_time": 1729919840,
+        "rank": 15,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 308787,
+        "num": 308787,
+        "word": "赵丽颖回应拿奖",
+        "onboard_time": 1729915878,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152004,
+        "num": 286065,
+        "word": "吴谨言打戏拍了四个大夜",
+        "onboard_time": 1729918459,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264664,
+        "num": 264664,
+        "word": "侯明昊 花少",
+        "onboard_time": 1729911196,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239398,
+        "num": 239398,
+        "word": "周雨彤",
+        "onboard_time": 1729905797,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1730937,
+        "num": 236787,
+        "word": "杨幂包场乔妍的心事",
+        "onboard_time": 1729910718,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272682,
+        "num": 236692,
+        "word": "男子打顺风车司机高速上打游戏",
+        "onboard_time": 1729914978,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269760,
+        "num": 235669,
+        "word": "央视曝光电动自行车解限速乱象",
+        "onboard_time": 1729904778,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232195,
+        "num": 232195,
+        "word": "伦敦一女子设计出防抢手机壳",
+        "onboard_time": 1729906097,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230333,
+        "num": 230333,
+        "word": "警方通报女子凌晨遭醉酒男入室强吻",
+        "onboard_time": 1729918099,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225017,
+        "num": 225017,
+        "word": "边伯贤 上海",
+        "onboard_time": 1729920319,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208246,
+        "num": 208246,
+        "word": "尹子维罚站徐冬冬",
+        "onboard_time": 1729916057,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197801,
+        "num": 197801,
+        "word": "以军警告伊朗",
+        "onboard_time": 1729918640,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191094,
+        "num": 191094,
+        "word": "太阳vs湖人",
+        "onboard_time": 1729916959,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185968,
+        "num": 185968,
+        "word": "滑滑梯的易烊千玺",
+        "onboard_time": 1729917318,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183212,
+        "num": 183212,
+        "word": "戚薇预制生日照",
+        "onboard_time": 1729920379,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181374,
+        "num": 181374,
+        "word": "51岁阿姨打两份工的老年生活",
+        "onboard_time": 1729912758,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165798,
+        "num": 165798,
+        "word": "白敬亭宋亚轩i人见面",
+        "onboard_time": 1729919779,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165164,
+        "num": 165164,
+        "word": "还原余华英11年拐卖17名儿童",
+        "onboard_time": 1729909876,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165024,
+        "num": 165024,
+        "word": "周峻纬回归名侦探学院",
+        "onboard_time": 1729920919,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164455,
+        "num": 164455,
+        "word": "男子偷挖天山雪莲4年攒了5000株",
+        "onboard_time": 1729913959,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162014,
+        "num": 162014,
+        "word": "一个普通女孩读研的真实感受",
+        "onboard_time": 1729920438,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59623,
+        "num": 160360,
+        "word": "年轻人的旅游观该囤囤该花花",
+        "onboard_time": 1729920800,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 36129,
+        "num": 159866,
+        "word": "好团圆今日开播",
+        "onboard_time": 1729919719,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159647,
+        "num": 159647,
+        "word": "小狗坐在大狗身上晒太阳",
+        "onboard_time": 1729913237,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156911,
+        "num": 156911,
+        "word": "刘学义别说了 敖瑞鹏要破防了",
+        "onboard_time": 1729918998,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155635,
+        "num": 155635,
+        "word": "生理性喜欢会有哪些表现",
+        "onboard_time": 1729904237,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155459,
+        "num": 155459,
+        "word": "大梦归离",
+        "onboard_time": 1729909397,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153210,
+        "num": 153210,
+        "word": "猫 你也没告诉我是集体宿舍啊",
+        "onboard_time": 1729920558,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151290,
+        "num": 151290,
+        "word": "APT",
+        "onboard_time": 1729920859,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146014,
+        "num": 146014,
+        "word": "大梦归离 空降",
+        "onboard_time": 1729900637,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140033,
+        "num": 140033,
+        "word": "张雨霏汪顺芭莎封面",
+        "onboard_time": 1729912278,
+        "rank": 46,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 139148,
+        "num": 139148,
+        "word": "王楚钦福州见面会",
+        "onboard_time": 1729920919,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135478,
+        "num": 135478,
+        "word": "多家马来西亚媒体恭喜尤长靖",
+        "onboard_time": 1729920678,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "赵丽颖谈女演员的花期",
+        "onboard_time": 1729916540,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写大金砖合作高质量发展新篇章#"
+    }
+  }
+}
