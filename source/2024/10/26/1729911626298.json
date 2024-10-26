@@ -1,0 +1,410 @@
+{
+  "runTime": 1729911626298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277286,
+        "num": 1277286,
+        "word": "央视曝光电动自行车解限速乱象",
+        "onboard_time": 1729904778,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114884,
+        "num": 1114884,
+        "word": "伦敦一女子设计出防抢手机壳",
+        "onboard_time": 1729906097,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2716,
+        "num": 781897,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723178,
+        "num": 723178,
+        "word": "普京回应特朗普曾威胁袭击莫斯科",
+        "onboard_time": 1729908257,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 686312,
+        "num": 686312,
+        "word": "家长称孩子因上课抬头被认定违纪",
+        "onboard_time": 1729907957,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509820,
+        "num": 509820,
+        "word": "再见爱人 没有剧本",
+        "onboard_time": 1729905797,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470256,
+        "num": 470256,
+        "word": "女单只剩钱天一",
+        "onboard_time": 1729902197,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443789,
+        "num": 443789,
+        "word": "丈夫称烧伤妈妈已经有了求生欲",
+        "onboard_time": 1729909758,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443609,
+        "num": 443609,
+        "word": "大梦归离 空降",
+        "onboard_time": 1729900637,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109374,
+        "num": 442890,
+        "word": "以色列对伊朗袭击最新情况",
+        "onboard_time": 1729910838,
+        "rank": 9,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 992261,
+        "num": 423516,
+        "word": "周雨彤",
+        "onboard_time": 1729905797,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1732004,
+        "num": 414895,
+        "word": "LV柜姐",
+        "onboard_time": 1729902436,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556260,
+        "num": 392038,
+        "word": "妈妈可能正在经历最痛苦的十年",
+        "onboard_time": 1729903457,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76130,
+        "num": 383558,
+        "word": "以军称精确打击伊朗军事目标",
+        "onboard_time": 1729910358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26215,
+        "num": 371038,
+        "word": "白宫在以色列对伊朗打击前收到通知",
+        "onboard_time": 1729910297,
+        "rank": 14,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 365075,
+        "num": 365075,
+        "word": "多架美军F16战机抵达中东",
+        "onboard_time": 1729906699,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352386,
+        "num": 352386,
+        "word": "警方回应男子钓到一具尸体是真的",
+        "onboard_time": 1729897513,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347054,
+        "num": 347054,
+        "word": "宋茜对得起所有人 除了蒋欣",
+        "onboard_time": 1729865541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305650,
+        "num": 305650,
+        "word": "中医认证汉堡属于健康食物",
+        "onboard_time": 1729901416,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248486,
+        "num": 305584,
+        "word": "大梦归离",
+        "onboard_time": 1729909397,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1123681,
+        "num": 302824,
+        "word": "杨幂包场乔妍的心事",
+        "onboard_time": 1729910718,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434352,
+        "num": 300029,
+        "word": "生理性喜欢会有哪些表现",
+        "onboard_time": 1729904237,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322161,
+        "num": 298922,
+        "word": "还原余华英11年拐卖17名儿童",
+        "onboard_time": 1729909876,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297154,
+        "num": 297154,
+        "word": "伊以冲突",
+        "onboard_time": 1729907058,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218936,
+        "num": 292409,
+        "word": "徐海乔单手考拉抱黄潇",
+        "onboard_time": 1729905437,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290810,
+        "num": 290810,
+        "word": "鱼 游泳很累的",
+        "onboard_time": 1729909337,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280618,
+        "num": 280618,
+        "word": "以色列称已对伊朗发动袭击",
+        "onboard_time": 1729900216,
+        "rank": 26,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 270291,
+        "num": 270291,
+        "word": "小朋友输球不跟马龙握手",
+        "onboard_time": 1729908377,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250354,
+        "num": 250354,
+        "word": "伊朗关闭其领空",
+        "onboard_time": 1729908318,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202744,
+        "num": 237516,
+        "word": "侯明昊 花少",
+        "onboard_time": 1729911196,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233394,
+        "num": 233394,
+        "word": "以色列对伊朗发动第二轮袭击",
+        "onboard_time": 1729907478,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222278,
+        "num": 222278,
+        "word": "差点没认出周一围",
+        "onboard_time": 1729898417,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213956,
+        "num": 213956,
+        "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
+        "onboard_time": 1729910838,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186694,
+        "num": 186694,
+        "word": "带小猫做绝育被它的眼神吓到",
+        "onboard_time": 1729908618,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170351,
+        "num": 170351,
+        "word": "徐璐这么多年泡脚都泡错了",
+        "onboard_time": 1729898595,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168493,
+        "num": 168493,
+        "word": "包间搞得一团糟被收100元清洁费",
+        "onboard_time": 1729907359,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 148920,
+        "word": "这是重庆大哥第三次救人了",
+        "onboard_time": 1729908976,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148491,
+        "num": 148491,
+        "word": "孕激素让29岁女生妈感一下来了",
+        "onboard_time": 1729868600,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148281,
+        "num": 148281,
+        "word": "布朗尼将被下放至G联盟",
+        "onboard_time": 1729907717,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146355,
+        "num": 146355,
+        "word": "烧伤妈妈丈夫回应喊停捐款",
+        "onboard_time": 1729897574,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143368,
+        "num": 143368,
+        "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
+        "onboard_time": 1729888512,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128462,
+        "num": 128462,
+        "word": "A2O 林钰珊",
+        "onboard_time": 1729865120,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125563,
+        "num": 125563,
+        "word": "白宫称以色列打击伊朗是自卫",
+        "onboard_time": 1729903877,
+        "rank": 42,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 123631,
+        "num": 123631,
+        "word": "蜘蛛侠4定档",
+        "onboard_time": 1729906817,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123017,
+        "num": 123017,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729863079,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117852,
+        "num": 117852,
+        "word": "拜登将正式道歉",
+        "onboard_time": 1729861998,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114984,
+        "num": 114984,
+        "word": "老人领免费礼品后被骗2万多元",
+        "onboard_time": 1729906938,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112944,
+        "num": 112944,
+        "word": "勇士vs爵士",
+        "onboard_time": 1729911559,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110401,
+        "num": 110401,
+        "word": "乔妍的心事上映",
+        "onboard_time": 1729906997,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109182,
+        "num": 109182,
+        "word": "成都一河道现浮尸",
+        "onboard_time": 1729911559,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何汇聚全球南方磅礴力量#"
+    }
+  }
+}
