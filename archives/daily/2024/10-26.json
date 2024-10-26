@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729952343155,
+  "endTime": 1729953437552,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1141902,
-      "num": 558253,
+      "num": 949836,
       "word": "郭敬明审美",
       "onboard_time": 1729949360,
       "rank": 31,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1036206,
+      "num": 1036206,
+      "word": "招聘人员解答女生多次投简历被拒",
+      "onboard_time": 1729951341,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955222,
       "num": 955222,
       "word": "侯明昊 花少",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 885973,
-      "num": 535214,
+      "num": 568218,
       "word": "男孩被同学打致重伤智力不到5岁",
       "onboard_time": 1729941560,
       "rank": 22,
@@ -420,11 +428,19 @@
     },
     {
       "raw_hot": 703545,
-      "num": 384504,
+      "num": 387933,
       "word": "被入室强吻女子嘴唇被咬破担心传染病",
       "onboard_time": 1729937419,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696194,
+      "num": 696194,
+      "word": "樊振东造访伯纳乌",
+      "onboard_time": 1729952120,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 691729,
@@ -491,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601398,
+      "num": 601398,
+      "word": "杨幂粉色抹胸长裙梦回夏晚晴",
+      "onboard_time": 1729949901,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 586349,
       "num": 491510,
       "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
       "onboard_time": 1729943358,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585485,
-      "num": 532900,
-      "word": "杨幂粉色抹胸长裙梦回夏晚晴",
-      "onboard_time": 1729949901,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 584416,
@@ -515,16 +531,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 566399,
-      "num": 566399,
-      "word": "樊振东造访伯纳乌",
-      "onboard_time": 1729952120,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 565796,
-      "num": 529100,
+      "num": 536155,
       "word": "永夜星河",
       "onboard_time": 1729949780,
       "rank": 46,
@@ -579,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 515664,
+      "num": 515664,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1729950741,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502987,
       "num": 454491,
       "word": "张本美和vs申裕斌",
@@ -601,6 +617,14 @@
       "onboard_time": 1729920919,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494211,
+      "num": 494211,
+      "word": "国色芳华",
+      "onboard_time": 1729951820,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 481584,
@@ -771,22 +795,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 397471,
-      "num": 397471,
-      "word": "国色芳华",
-      "onboard_time": 1729951820,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 396470,
-      "num": 396470,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1729950741,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394468,
       "num": 414425,
       "word": "台风潭美进入24小时警戒线",
@@ -816,6 +824,14 @@
       "word": "Bin扔衣服",
       "onboard_time": 1729946061,
       "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 387834,
+      "num": 387834,
+      "word": "小虎 抽象",
+      "onboard_time": 1729951943,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -1251,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 256213,
+      "num": 256213,
+      "word": "麦琳 李行亮",
+      "onboard_time": 1729952840,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253600,
       "num": 253600,
       "word": "全智贤腹肌大片",
@@ -1411,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221532,
-      "num": 221532,
-      "word": "小虎 抽象",
-      "onboard_time": 1729951943,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 213672,
       "num": 171659,
       "word": "武汉机关食堂已经nextlevel",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1729931119,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205094,
-      "num": 538674,
-      "word": "招聘人员解答女生多次投简历被拒",
-      "onboard_time": 1729951341,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204696,
@@ -1963,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158072,
+      "num": 158072,
+      "word": "周深说巡演太太太太快了",
+      "onboard_time": 1729953200,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156786,
       "num": 156786,
       "word": "雅真的让妻子在披哥闪耀了",
@@ -2403,6 +2419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 124081,
+      "num": 388033,
+      "word": "呼吸哥尽力了",
+      "onboard_time": 1729953260,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123759,
       "num": 210697,
       "word": "深圳晚霞绝了",
@@ -2659,8 +2683,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78852,
-      "num": 818504,
+      "raw_hot": 81000,
+      "num": 960268,
       "word": "这项工程奇迹创下多个世界第一",
       "onboard_time": 1729946360,
       "rank": 2,
@@ -2689,6 +2713,14 @@
       "onboard_time": 1729859778,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75619,
+      "num": 576609,
+      "word": "大型纪录片为了新中国",
+      "onboard_time": 1729952541,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71550,
@@ -2729,6 +2761,14 @@
       "onboard_time": 1729885692,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64402,
+      "num": 188901,
+      "word": "渤海部分海域连续3天实弹射击",
+      "onboard_time": 1729952960,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62684,
