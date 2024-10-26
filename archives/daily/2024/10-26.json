@@ -1,7 +1,15 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729914010899,
+  "endTime": 1729916833673,
   "band_list": [
+    {
+      "raw_hot": 3222200,
+      "num": 394612,
+      "word": "金晨 干呕",
+      "onboard_time": 1729914198,
+      "rank": 11,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2322765,
       "num": 414895,
@@ -11,11 +19,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1782122,
-      "num": 397144,
+      "raw_hot": 2224379,
+      "num": 2224379,
       "word": "杨幂包场乔妍的心事",
       "onboard_time": 1729910718,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2049153,
+      "num": 460611,
+      "word": "杨幂格局",
+      "onboard_time": 1729915878,
+      "rank": 5,
       "category": "电影"
     },
     {
@@ -33,6 +49,14 @@
       "onboard_time": 1729909758,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1418609,
+      "num": 453682,
+      "word": "金晨装不了一点",
+      "onboard_time": 1729914017,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1114884,
@@ -67,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 866306,
+      "num": 396567,
+      "word": "成都一河道现浮尸",
+      "onboard_time": 1729911559,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822391,
       "num": 822391,
       "word": "宋茜对得起所有人 除了蒋欣",
@@ -89,14 +121,6 @@
       "onboard_time": 1729900216,
       "rank": 0,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 793637,
-      "num": 354595,
-      "word": "成都一河道现浮尸",
-      "onboard_time": 1729911559,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 746943,
@@ -171,6 +195,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612361,
+      "num": 612361,
+      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
+      "onboard_time": 1729910838,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605820,
+      "num": 393756,
+      "word": "黄晓明欠了陈梦一顿饭3年没还",
+      "onboard_time": 1729916239,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 584416,
       "num": 371691,
       "word": "生理性喜欢会有哪些表现",
@@ -201,6 +241,14 @@
       "onboard_time": 1729900637,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470380,
+      "num": 470380,
+      "word": "伊朗突遭以色列袭击现场画面",
+      "onboard_time": 1729913838,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 468982,
@@ -235,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435489,
+      "num": 287687,
+      "word": "男子打顺风车司机高速上打游戏",
+      "onboard_time": 1729914978,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426626,
       "num": 426626,
       "word": "成都警方通报河道现浮尸",
@@ -259,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401407,
-      "num": 401407,
-      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
-      "onboard_time": 1729910838,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 398407,
+      "num": 398407,
+      "word": "以色列打击伊朗行动已结束",
+      "onboard_time": 1729912938,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 394468,
@@ -273,6 +329,14 @@
       "onboard_time": 1729873338,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392628,
+      "num": 392628,
+      "word": "赵丽颖回应拿奖",
+      "onboard_time": 1729915878,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 391320,
@@ -289,6 +353,14 @@
       "onboard_time": 1729863680,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374742,
+      "num": 283237,
+      "word": "男子偷挖天山雪莲4年攒了5000株",
+      "onboard_time": 1729913959,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372288,
@@ -323,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323895,
+      "num": 359635,
+      "word": "伊媒称伊朗已准备回应以色列侵略",
+      "onboard_time": 1729912637,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 322161,
       "num": 397212,
       "word": "还原余华英11年拐卖17名儿童",
@@ -336,6 +416,14 @@
       "word": "伊以冲突",
       "onboard_time": 1729907058,
       "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 314236,
+      "num": 397516,
+      "word": "加沙一袋生虫面粉370元",
+      "onboard_time": 1729916118,
+      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -377,6 +465,14 @@
       "onboard_time": 1729912278,
       "rank": 33,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 292534,
+      "num": 292534,
+      "word": "恋与制作人万圣新卡",
+      "onboard_time": 1729915758,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 290810,
@@ -443,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253339,
-      "num": 253339,
-      "word": "以色列打击伊朗行动已结束",
-      "onboard_time": 1729912938,
-      "rank": 34,
-      "category": "国外时政"
+      "raw_hot": 254212,
+      "num": 254212,
+      "word": "51岁阿姨打两份工的老年生活",
+      "onboard_time": 1729912758,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 250354,
@@ -467,20 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239617,
-      "num": 239617,
-      "word": "51岁阿姨打两份工的老年生活",
-      "onboard_time": 1729912758,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226554,
-      "num": 359635,
-      "word": "伊媒称伊朗已准备回应以色列侵略",
-      "onboard_time": 1729912637,
-      "rank": 40,
-      "category": "国外时政"
+      "raw_hot": 231882,
+      "num": 231882,
+      "word": "王者荣耀共创之夜节目单",
+      "onboard_time": 1729916178,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 225539,
@@ -507,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208697,
+      "num": 208697,
+      "word": "小狗坐在大狗身上晒太阳",
+      "onboard_time": 1729913237,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207751,
       "num": 224558,
       "word": "何广智上过非诚勿扰",
@@ -529,6 +625,22 @@
       "onboard_time": 1729861399,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193515,
+      "num": 193515,
+      "word": "尹子维罚站徐冬冬",
+      "onboard_time": 1729916057,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191080,
+      "num": 256156,
+      "word": "赵丽颖谈女演员的花期",
+      "onboard_time": 1729916540,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 187699,
@@ -555,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183089,
+      "num": 183089,
+      "word": "何炅主持的尴尬经历",
+      "onboard_time": 1729913538,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183007,
       "num": 211999,
       "word": "烧伤妈妈丈夫回应喊停捐款",
@@ -569,6 +689,14 @@
       "onboard_time": 1729907359,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173607,
+      "num": 173607,
+      "word": "焚城",
+      "onboard_time": 1729916540,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 173371,
@@ -627,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162899,
-      "num": 162899,
-      "word": "何炅主持的尴尬经历",
-      "onboard_time": 1729913538,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 162883,
       "num": 162883,
       "word": "新娘用生菜做手捧花水果装饰婚车",
@@ -649,6 +769,14 @@
       "onboard_time": 1729913358,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159216,
+      "num": 159216,
+      "word": "十三邀100期 娃不是鸡出来的",
+      "onboard_time": 1729916658,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 156786,
@@ -683,6 +811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149706,
+      "num": 149706,
+      "word": "杨紫 微博视界大会",
+      "onboard_time": 1729915278,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148598,
+      "num": 148598,
+      "word": "成毅石家庄活动",
+      "onboard_time": 1729914619,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146978,
       "num": 146978,
       "word": "原来动画片里的鼹鼠是真的",
@@ -707,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143150,
+      "num": 171618,
+      "word": "林依轮发了37张披哥合照",
+      "onboard_time": 1729915698,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138836,
       "num": 138836,
       "word": "哈尔滨一居民楼突发火灾",
@@ -729,6 +881,14 @@
       "onboard_time": 1729841598,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137198,
+      "num": 137198,
+      "word": "日本将再次向中国归还朱鹮",
+      "onboard_time": 1729916780,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 136505,
@@ -787,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129667,
-      "num": 129667,
-      "word": "伊朗突遭以色列袭击现场画面",
-      "onboard_time": 1729913838,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 127951,
       "num": 127951,
       "word": "酒店订单订后即焚功能引争议",
@@ -808,14 +960,6 @@
       "word": "湖南一男子杀父骗保被刑拘",
       "onboard_time": 1729860497,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127427,
-      "num": 127427,
-      "word": "男子偷挖天山雪莲4年攒了5000株",
-      "onboard_time": 1729913959,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1280,6 +1424,14 @@
       "word": "文化中国行",
       "onboard_time": 1729890431,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7816,
+      "num": 629676,
+      "word": "打卡秋日限定款壁纸",
+      "onboard_time": 1729916599,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
