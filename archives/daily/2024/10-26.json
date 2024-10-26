@@ -1,18 +1,26 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729907782069,
+  "endTime": 1729911018694,
   "band_list": [
     {
       "raw_hot": 2322765,
-      "num": 359624,
+      "num": 372090,
       "word": "LV柜姐",
       "onboard_time": 1729902436,
       "rank": 10,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1500399,
+      "num": 1500399,
+      "word": "央视曝光电动自行车解限速乱象",
+      "onboard_time": 1729904778,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1057274,
-      "num": 352254,
+      "num": 372042,
       "word": "周雨彤",
       "onboard_time": 1729905797,
       "rank": 11,
@@ -25,6 +33,14 @@
       "onboard_time": 1729868600,
       "rank": 0,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 1017016,
+      "num": 1017016,
+      "word": "伦敦一女子设计出防抢手机壳",
+      "onboard_time": 1729906097,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822391,
@@ -51,8 +67,16 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 746943,
+      "num": 746943,
+      "word": "普京回应特朗普曾威胁袭击莫斯科",
+      "onboard_time": 1729908257,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 732645,
-      "num": 340061,
+      "num": 372015,
       "word": "妈妈可能正在经历最痛苦的十年",
       "onboard_time": 1729903457,
       "rank": 12,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 666737,
-      "num": 324441,
+      "num": 371884,
       "word": "警方回应男子钓到一具尸体是真的",
       "onboard_time": 1729897513,
       "rank": 10,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 584416,
-      "num": 271255,
+      "num": 371691,
       "word": "生理性喜欢会有哪些表现",
       "onboard_time": 1729904237,
       "rank": 21,
@@ -123,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539127,
+      "num": 539127,
+      "word": "家长称孩子因上课抬头被认定违纪",
+      "onboard_time": 1729907957,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532362,
       "num": 532362,
       "word": "拜登将正式道歉",
@@ -131,12 +163,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 497098,
-      "num": 497098,
-      "word": "央视曝光电动自行车解限速乱象",
-      "onboard_time": 1729904778,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 477697,
+      "num": 477697,
+      "word": "大梦归离 空降",
+      "onboard_time": 1729900637,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 468982,
@@ -171,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426909,
-      "num": 426909,
-      "word": "大梦归离 空降",
-      "onboard_time": 1729900637,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 426626,
       "num": 426626,
       "word": "成都警方通报河道现浮尸",
@@ -193,6 +217,14 @@
       "onboard_time": 1729866921,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403217,
+      "num": 371652,
+      "word": "杨幂包场乔妍的心事",
+      "onboard_time": 1729910718,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 394468,
@@ -227,6 +259,22 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 372129,
+      "num": 372129,
+      "word": "丈夫称烧伤妈妈已经有了求生欲",
+      "onboard_time": 1729909758,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371633,
+      "num": 371633,
+      "word": "多架美军F16战机抵达中东",
+      "onboard_time": 1729906699,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 342115,
       "num": 342115,
       "word": "AI聊天机器人诱导美国少年自杀身亡",
@@ -241,6 +289,14 @@
       "onboard_time": 1729861697,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317275,
+      "num": 317275,
+      "word": "伊以冲突",
+      "onboard_time": 1729907058,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 311728,
@@ -283,12 +339,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284811,
+      "num": 371829,
+      "word": "大梦归离",
+      "onboard_time": 1729909397,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277545,
+      "num": 277545,
+      "word": "以色列对伊朗发动第二轮袭击",
+      "onboard_time": 1729907478,
+      "rank": 29,
+      "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 277484,
+      "num": 277484,
+      "word": "鱼 游泳很累的",
+      "onboard_time": 1729909337,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273628,
       "num": 273628,
       "word": "王者荣耀崩了",
       "onboard_time": 1729899737,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270322,
+      "num": 371775,
+      "word": "徐海乔单手考拉抱黄潇",
+      "onboard_time": 1729905437,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 270149,
@@ -299,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264599,
+      "num": 371712,
+      "word": "还原余华英11年拐卖17名儿童",
+      "onboard_time": 1729909876,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260469,
+      "num": 260469,
+      "word": "小朋友输球不跟马龙握手",
+      "onboard_time": 1729908377,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248211,
       "num": 248211,
       "word": "留几手",
@@ -307,19 +411,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232325,
-      "num": 365761,
-      "word": "多架美军F16战机抵达中东",
-      "onboard_time": 1729906699,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 219468,
-      "num": 219468,
-      "word": "伊以冲突",
-      "onboard_time": 1729907058,
-      "rank": 24,
+      "raw_hot": 235671,
+      "num": 235671,
+      "word": "伊朗关闭其领空",
+      "onboard_time": 1729908318,
+      "rank": 31,
       "category": "国外时政"
     },
     {
@@ -371,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184858,
+      "num": 184858,
+      "word": "带小猫做绝育被它的眼神吓到",
+      "onboard_time": 1729908618,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183007,
       "num": 211999,
       "word": "烧伤妈妈丈夫回应喊停捐款",
@@ -411,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165979,
-      "num": 165979,
-      "word": "伦敦一女子设计出防抢手机壳",
-      "onboard_time": 1729906097,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 165432,
+      "num": 165432,
+      "word": "这是重庆大哥第三次救人了",
+      "onboard_time": 1729908976,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 165154,
@@ -427,20 +531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164610,
+      "num": 164610,
+      "word": "包间搞得一团糟被收100元清洁费",
+      "onboard_time": 1729907359,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162883,
       "num": 162883,
       "word": "新娘用生菜做手捧花水果装饰婚车",
       "onboard_time": 1729898954,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159082,
-      "num": 207709,
-      "word": "徐海乔单手考拉抱黄潇",
-      "onboard_time": 1729905437,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 156786,
@@ -457,6 +561,14 @@
       "onboard_time": 1729900456,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152400,
+      "num": 152400,
+      "word": "布朗尼将被下放至G联盟",
+      "onboard_time": 1729907717,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 150029,
@@ -523,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133302,
+      "num": 133302,
+      "word": "老人领免费礼品后被骗2万多元",
+      "onboard_time": 1729906938,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130733,
       "num": 130733,
       "word": "极客湾小米15性能评测",
@@ -539,11 +659,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129869,
-      "num": 129869,
-      "word": "老人领免费礼品后被骗2万多元",
-      "onboard_time": 1729906938,
-      "rank": 42,
+      "raw_hot": 129286,
+      "num": 129286,
+      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
+      "onboard_time": 1729910838,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -595,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123389,
-      "num": 184456,
-      "word": "以色列对伊朗发动第二轮袭击",
-      "onboard_time": 1729907478,
-      "rank": 29,
-      "category": "国外时政,军事"
-    },
-    {
       "raw_hot": 123171,
       "num": 123171,
       "word": "BIGBANG合体录综艺",
@@ -617,14 +729,6 @@
       "onboard_time": 1729852997,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118579,
-      "num": 118579,
-      "word": "布朗尼将被下放至G联盟",
-      "onboard_time": 1729907717,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116640,
@@ -731,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96283,
+      "num": 371974,
+      "word": "以军称精确打击伊朗军事目标",
+      "onboard_time": 1729910358,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95084,
       "num": 95084,
       "word": "王者九周年限定回忆",
@@ -745,6 +857,14 @@
       "onboard_time": 1729868001,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90197,
+      "num": 372108,
+      "word": "以色列对伊朗袭击最新情况",
+      "onboard_time": 1729910838,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 88682,
@@ -899,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45786,
+      "num": 371766,
+      "word": "为什么一旦开始整容就停不下来",
+      "onboard_time": 1729909397,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42019,
       "num": 42019,
       "word": "耿爽呼吁以方立即停止袭击叙利亚",
@@ -929,6 +1057,14 @@
       "onboard_time": 1729882332,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31497,
+      "num": 371952,
+      "word": "白宫在以色列对伊朗打击前收到通知",
+      "onboard_time": 1729910297,
+      "rank": 14,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 19779,
@@ -980,7 +1116,7 @@
     },
     {
       "raw_hot": 3512,
-      "num": 687575,
+      "num": 776854,
       "word": "万千气象看北京",
       "onboard_time": 1729652177,
       "rank": 2,
