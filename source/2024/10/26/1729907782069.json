@@ -1,0 +1,410 @@
+{
+  "runTime": 1729907782069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817892,
+        "num": 1130862,
+        "word": "女单只剩钱天一",
+        "onboard_time": 1729902197,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 712431,
+        "num": 712431,
+        "word": "以色列称已对伊朗发动袭击",
+        "onboard_time": 1729900216,
+        "rank": 1,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 3512,
+        "num": 657122,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636937,
+        "num": 636937,
+        "word": "再见爱人 没有剧本",
+        "onboard_time": 1729905797,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515943,
+        "num": 515943,
+        "word": "中医认证汉堡属于健康食物",
+        "onboard_time": 1729901416,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497098,
+        "num": 497098,
+        "word": "央视曝光电动自行车解限速乱象",
+        "onboard_time": 1729904778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417944,
+        "num": 417944,
+        "word": "拜登将正式道歉",
+        "onboard_time": 1729861998,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398342,
+        "num": 398342,
+        "word": "大梦归离 空降",
+        "onboard_time": 1729900637,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372288,
+        "num": 372288,
+        "word": "白宫称以色列打击伊朗是自卫",
+        "onboard_time": 1729903877,
+        "rank": 8,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 232325,
+        "num": 365761,
+        "word": "多架美军F16战机抵达中东",
+        "onboard_time": 1729906699,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1935423,
+        "num": 359624,
+        "word": "LV柜姐",
+        "onboard_time": 1729902436,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057274,
+        "num": 352254,
+        "word": "周雨彤",
+        "onboard_time": 1729905797,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553529,
+        "num": 340061,
+        "word": "妈妈可能正在经历最痛苦的十年",
+        "onboard_time": 1729903457,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524011,
+        "num": 328945,
+        "word": "孕激素让29岁女生妈感一下来了",
+        "onboard_time": 1729868600,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326861,
+        "num": 326861,
+        "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
+        "onboard_time": 1729888512,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477146,
+        "num": 324441,
+        "word": "警方回应男子钓到一具尸体是真的",
+        "onboard_time": 1729897513,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336611,
+        "num": 321271,
+        "word": "宋茜对得起所有人 除了蒋欣",
+        "onboard_time": 1729865541,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317315,
+        "num": 317315,
+        "word": "差点没认出周一围",
+        "onboard_time": 1729898417,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286196,
+        "num": 286196,
+        "word": "14岁少年自制火箭惊呆网友",
+        "onboard_time": 1729901176,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272453,
+        "num": 272453,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1729899737,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 584416,
+        "num": 271255,
+        "word": "生理性喜欢会有哪些表现",
+        "onboard_time": 1729904237,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570613,
+        "num": 267190,
+        "word": "徐璐这么多年泡脚都泡错了",
+        "onboard_time": 1729898595,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297876,
+        "num": 263191,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729863079,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256274,
+        "num": 256274,
+        "word": "花少 三个体面的山东人",
+        "onboard_time": 1729858818,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219468,
+        "num": 219468,
+        "word": "伊以冲突",
+        "onboard_time": 1729907058,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171975,
+        "num": 212360,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1729906577,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159082,
+        "num": 207709,
+        "word": "徐海乔单手考拉抱黄潇",
+        "onboard_time": 1729905437,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144380,
+        "num": 202373,
+        "word": "小英恢复更新",
+        "onboard_time": 1729900757,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134912,
+        "num": 196082,
+        "word": "A2O 林钰珊",
+        "onboard_time": 1729865120,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 184456,
+        "word": "以色列对伊朗发动第二轮袭击",
+        "onboard_time": 1729907478,
+        "rank": 29,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 183007,
+        "num": 183007,
+        "word": "烧伤妈妈丈夫回应喊停捐款",
+        "onboard_time": 1729897574,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169876,
+        "num": 169876,
+        "word": "以色列袭击伊朗发电厂",
+        "onboard_time": 1729906338,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167693,
+        "num": 167693,
+        "word": "穿山甲给自己挖了32洞小区",
+        "onboard_time": 1729862359,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133257,
+        "num": 166321,
+        "word": "A2O",
+        "onboard_time": 1729863680,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165979,
+        "num": 165979,
+        "word": "伦敦一女子设计出防抢手机壳",
+        "onboard_time": 1729906097,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162883,
+        "num": 162883,
+        "word": "新娘用生菜做手捧花水果装饰婚车",
+        "onboard_time": 1729898954,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156646,
+        "num": 156646,
+        "word": "余华英5000元亲手卖了儿子",
+        "onboard_time": 1729867401,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152703,
+        "num": 152703,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147593,
+        "num": 147593,
+        "word": "武汉机关食堂已经nextlevel",
+        "onboard_time": 1729903517,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134135,
+        "num": 147223,
+        "word": "蜘蛛侠4定档",
+        "onboard_time": 1729906817,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146978,
+        "num": 146978,
+        "word": "原来动画片里的鼹鼠是真的",
+        "onboard_time": 1729903517,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134295,
+        "num": 134295,
+        "word": "AI聊天机器人诱导美国少年自杀身亡",
+        "onboard_time": 1729861399,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129869,
+        "num": 129869,
+        "word": "老人领免费礼品后被骗2万多元",
+        "onboard_time": 1729906938,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129327,
+        "num": 129327,
+        "word": "如何看待酒店订单订后即焚",
+        "onboard_time": 1729881132,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128993,
+        "num": 128993,
+        "word": "毒液 爱情片",
+        "onboard_time": 1729905257,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128179,
+        "num": 128179,
+        "word": "offer为什么总拍律师",
+        "onboard_time": 1729900456,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127397,
+        "num": 127397,
+        "word": "近七旬父亲出狱后女儿不愿赡养",
+        "onboard_time": 1729866020,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126644,
+        "num": 126644,
+        "word": "徐明浩上了MBN新闻",
+        "onboard_time": 1729902135,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124731,
+        "num": 124731,
+        "word": "如果我不丢爸妈就死不了",
+        "onboard_time": 1729863500,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118579,
+        "num": 118579,
+        "word": "布朗尼将被下放至G联盟",
+        "onboard_time": 1729907717,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何汇聚全球南方磅礴力量#"
+    }
+  }
+}
