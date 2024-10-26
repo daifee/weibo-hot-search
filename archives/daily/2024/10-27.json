@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729975005956,
+  "endTime": 1729977581358,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73428,
+      "num": 39944,
+      "word": "樊振东为皇马国家德比加油",
+      "onboard_time": 1729974372,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71595,
       "num": 120239,
       "word": "全球约70%人工宝石产自广西梧州",
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51614,
+      "num": 51614,
+      "word": "遭受校园霸凌的7个迹象",
+      "onboard_time": 1729972333,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49676,
       "num": 74998,
       "word": "美媒称以色列袭击前向伊朗传话",
@@ -507,12 +523,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 42266,
-      "num": 44236,
-      "word": "遭受校园霸凌的7个迹象",
-      "onboard_time": 1729972333,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 46503,
+      "num": 39368,
+      "word": "特朗普嘲讽碧昂丝为哈里斯站台",
+      "onboard_time": 1729972751,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39378,
@@ -531,12 +547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 32511,
-      "num": 32511,
-      "word": "特朗普嘲讽碧昂丝为哈里斯站台",
-      "onboard_time": 1729972751,
-      "rank": 28,
-      "category": "国外时政"
+      "raw_hot": 27651,
+      "num": 27651,
+      "word": "12岁男孩被同学打致重伤父亲发声",
+      "onboard_time": 1729972991,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26828,
@@ -545,14 +561,6 @@
       "onboard_time": 1729968793,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26322,
-      "num": 26322,
-      "word": "12岁男孩被同学打致重伤父亲发声",
-      "onboard_time": 1729972991,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26296,
@@ -571,6 +579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 22101,
+      "num": 22101,
+      "word": "他们的墓碑上没有名字只有红星",
+      "onboard_time": 1729975812,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20739,
       "num": 20739,
       "word": "大梦归离 慢动作",
@@ -585,14 +601,6 @@
       "onboard_time": 1729962316,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 17758,
-      "num": 19275,
-      "word": "樊振东为皇马国家德比加油",
-      "onboard_time": 1729974372,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 16781,
@@ -611,11 +619,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10622,
+      "num": 25402,
+      "word": "平台有人直播宣传食用老鼠的好处",
+      "onboard_time": 1729976951,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10597,
       "num": 24843,
       "word": "积极主动为人民群众做好事办实事解难事",
       "onboard_time": 1729974791,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10060,
+      "num": 29614,
+      "word": "水军狂发正面评价让真实评价沉帖",
+      "onboard_time": 1729977311,
+      "rank": 25,
       "category": "社会新闻"
     }
   ],
