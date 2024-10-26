@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729939282061,
+  "endTime": 1729941547571,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1728703220,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1590400,
+      "num": 821492,
+      "word": "爷爷床头柜放罂粟孙子报警",
+      "onboard_time": 1729936100,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1590236,
@@ -8795,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779767,
+      "num": 779767,
+      "word": "大梦归离",
+      "onboard_time": 1729842859,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 779592,
       "num": 779592,
       "word": "余华英拿滚烫的水浇到5岁女孩头上",
@@ -10251,6 +10267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 703545,
+      "num": 320990,
+      "word": "被入室强吻女子嘴唇被咬破担心传染病",
+      "onboard_time": 1729937419,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702876,
       "num": 342168,
       "word": "恩利说妈妈最好的朋友是刘亦菲",
@@ -10321,6 +10345,14 @@
       "onboard_time": 1729408759,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696176,
+      "num": 518800,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 695978,
@@ -10673,14 +10705,6 @@
       "onboard_time": 1728046220,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 677783,
-      "num": 320990,
-      "word": "被入室强吻女子嘴唇被咬破担心传染病",
-      "onboard_time": 1729937419,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677034,
@@ -11465,14 +11489,6 @@
       "onboard_time": 1729511900,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641628,
-      "num": 641628,
-      "word": "大梦归离",
-      "onboard_time": 1729842859,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 641078,
@@ -12497,14 +12513,6 @@
       "onboard_time": 1728737482,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 604593,
-      "num": 604593,
-      "word": "爷爷床头柜放罂粟孙子报警",
-      "onboard_time": 1729936100,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604325,
@@ -14235,6 +14243,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 539135,
+      "num": 539135,
+      "word": "美国一宇航员回地球后出现健康问题",
+      "onboard_time": 1729937541,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539002,
       "num": 539002,
       "word": "宋茜虞书欣田曦薇红毯生图",
@@ -14785,14 +14801,6 @@
       "onboard_time": 1728613818,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 518800,
-      "num": 518800,
-      "word": "战至巅峰3冠军之夜",
-      "onboard_time": 1729936639,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 518787,
@@ -19115,6 +19123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392530,
+      "num": 392530,
+      "word": "潘展乐打破赛会纪录",
+      "onboard_time": 1729941019,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392329,
       "num": 392329,
       "word": "伊朗男团 擦网",
@@ -19641,6 +19657,14 @@
       "onboard_time": 1729698378,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379961,
+      "num": 370427,
+      "word": "潘展乐800自金牌",
+      "onboard_time": 1729940539,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 379903,
@@ -20729,6 +20753,14 @@
       "onboard_time": 1729743198,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 357052,
+      "num": 357052,
+      "word": "Winter偷藏Karina的奖杯",
+      "onboard_time": 1729938199,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 357011,
@@ -22609,14 +22641,6 @@
       "onboard_time": 1729146321,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 323740,
-      "num": 323740,
-      "word": "Winter偷藏Karina的奖杯",
-      "onboard_time": 1729938199,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 323716,
@@ -24745,14 +24769,6 @@
       "onboard_time": 1728724400,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292058,
-      "num": 292058,
-      "word": "美国一宇航员回地球后出现健康问题",
-      "onboard_time": 1729937541,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292041,
@@ -28875,6 +28891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247986,
+      "num": 247986,
+      "word": "hybe认为BLACKPINK无法集中运营",
+      "onboard_time": 1729939998,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247892,
       "num": 247892,
       "word": "网红机场强迫志愿者路人出手了",
@@ -30201,6 +30225,14 @@
       "onboard_time": 1727780119,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 234622,
+      "num": 234622,
+      "word": "非专英生和英语死磕8个月后的质变",
+      "onboard_time": 1729938680,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 234580,
@@ -37155,6 +37187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "以色列事先告知伊朗打击位置",
+      "onboard_time": 1729938501,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 196970,
       "num": 196970,
       "word": "驴奶皂",
@@ -39307,6 +39347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189949,
+      "num": 189949,
+      "word": "赵一博你好你好",
+      "onboard_time": 1729940478,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189872,
       "num": 189872,
       "word": "谭飞 王俊凯撑住了每个档期",
@@ -41020,7 +41068,7 @@
     },
     {
       "raw_hot": 183297,
-      "num": 183297,
+      "num": 187152,
       "word": "时代少年团战至巅峰总决赛开场",
       "onboard_time": 1729938920,
       "rank": 35,
@@ -41185,6 +41233,14 @@
       "onboard_time": 1729822699,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182251,
+      "num": 182251,
+      "word": "余华英老家亲属发声",
+      "onboard_time": 1729941138,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182135,
@@ -42553,6 +42609,14 @@
       "onboard_time": 1728694521,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176074,
+      "num": 176074,
+      "word": "停狗位",
+      "onboard_time": 1729940238,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 176059,
@@ -45201,14 +45265,6 @@
       "onboard_time": 1728971119,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164949,
-      "num": 164949,
-      "word": "以色列事先告知伊朗打击位置",
-      "onboard_time": 1729938501,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 164941,
@@ -48571,14 +48627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "非专英生和英语死磕8个月后的质变",
-      "onboard_time": 1729938680,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152060,
       "num": 152060,
       "word": "朝韩两国会擦枪走火吗",
@@ -49881,6 +49929,14 @@
       "onboard_time": 1728199879,
       "rank": 35,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 146949,
+      "num": 400179,
+      "word": "律师回应搞乱包间被收100元清洁费",
+      "onboard_time": 1729940419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146933,
@@ -52627,6 +52683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136972,
+      "num": 136972,
+      "word": "戚薇说学历只能算一个加分项",
+      "onboard_time": 1729941439,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136965,
       "num": 136965,
       "word": "宋亚轩julia官摄",
@@ -55355,6 +55419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126557,
+      "num": 126557,
+      "word": "侯明昊新剧开局就自投罗网",
+      "onboard_time": 1729940779,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126439,
       "num": 255912,
       "word": "妈妈来大城市工作比我挣钱还多",
@@ -56297,6 +56369,14 @@
       "onboard_time": 1729419080,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "王曼昱回私信鼓励DMD罕见病小男孩",
+      "onboard_time": 1729941258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122132,
@@ -59217,6 +59297,14 @@
       "onboard_time": 1727842518,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109317,
+      "num": 256792,
+      "word": "Knight想证明自己是最强中单",
+      "onboard_time": 1729941379,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 109297,
@@ -68067,6 +68155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52256,
+      "num": 183677,
+      "word": "电动自行车先上牌后解速限速成摆设",
+      "onboard_time": 1729940899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52254,
       "num": 435962,
       "word": "比安卡回应与侃爷分手",
@@ -70876,7 +70972,7 @@
     },
     {
       "raw_hot": 38798,
-      "num": 847194,
+      "num": 849760,
       "word": "和大美胡杨一起守护神舟腾飞",
       "onboard_time": 1729933700,
       "rank": 2,
@@ -71113,6 +71209,14 @@
       "onboard_time": 1729087882,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37971,
+      "num": 177274,
+      "word": "马自达EZ6只为交个朋友13万98起",
+      "onboard_time": 1729940899,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 37927,

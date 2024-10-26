@@ -1,0 +1,410 @@
+{
+  "runTime": 1729941547571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048130,
+        "num": 1167700,
+        "word": "遭货车拦腰碾压的男孩被医生拼好了",
+        "onboard_time": 1729935019,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036485,
+        "num": 1036485,
+        "word": "花少5播放量超过花少6",
+        "onboard_time": 1729936158,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21553,
+        "num": 849760,
+        "word": "和大美胡杨一起守护神舟腾飞",
+        "onboard_time": 1729933700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590400,
+        "num": 821492,
+        "word": "爷爷床头柜放罂粟孙子报警",
+        "onboard_time": 1729936100,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779767,
+        "num": 779767,
+        "word": "大梦归离",
+        "onboard_time": 1729939998,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539135,
+        "num": 539135,
+        "word": "美国一宇航员回地球后出现健康问题",
+        "onboard_time": 1729937541,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696176,
+        "num": 506085,
+        "word": "战至巅峰3冠军之夜",
+        "onboard_time": 1729936639,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455902,
+        "num": 455902,
+        "word": "日本将再次向中国归还朱鹮",
+        "onboard_time": 1729916780,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 443758,
+        "num": 443758,
+        "word": "乔妍的心事票房",
+        "onboard_time": 1729935558,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146949,
+        "num": 400179,
+        "word": "律师回应搞乱包间被收100元清洁费",
+        "onboard_time": 1729940419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2428576,
+        "num": 396864,
+        "word": "黄磊 饭不是我做的放心吃",
+        "onboard_time": 1729935739,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459804,
+        "num": 395752,
+        "word": "房价跌了100万后如何与自己和解",
+        "onboard_time": 1729919719,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392530,
+        "num": 392530,
+        "word": "潘展乐打破赛会纪录",
+        "onboard_time": 1729941019,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376980,
+        "num": 376980,
+        "word": "为什么不要投喂可可西里网红狼",
+        "onboard_time": 1729931959,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379961,
+        "num": 370427,
+        "word": "潘展乐800自金牌",
+        "onboard_time": 1729940539,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357052,
+        "num": 357052,
+        "word": "Winter偷藏Karina的奖杯",
+        "onboard_time": 1729938199,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 346557,
+        "num": 346557,
+        "word": "杨幂格局",
+        "onboard_time": 1729915878,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300858,
+        "num": 300858,
+        "word": "赵露思武汉线下活动生图",
+        "onboard_time": 1729933700,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271838,
+        "num": 271838,
+        "word": "hybe计划放弃newjeans的时间",
+        "onboard_time": 1729937358,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109317,
+        "num": 256792,
+        "word": "Knight想证明自己是最强中单",
+        "onboard_time": 1729941379,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 703545,
+        "num": 255551,
+        "word": "被入室强吻女子嘴唇被咬破担心传染病",
+        "onboard_time": 1729937419,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414577,
+        "num": 252678,
+        "word": "女子为遮一胎妊娠纹在腹部纹身",
+        "onboard_time": 1729931900,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247986,
+        "num": 247986,
+        "word": "hybe认为BLACKPINK无法集中运营",
+        "onboard_time": 1729939998,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234622,
+        "num": 234622,
+        "word": "非专英生和英语死磕8个月后的质变",
+        "onboard_time": 1729938680,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221002,
+        "num": 221002,
+        "word": "金晨 干呕",
+        "onboard_time": 1729914198,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196979,
+        "num": 196979,
+        "word": "以色列事先告知伊朗打击位置",
+        "onboard_time": 1729938501,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194036,
+        "num": 194036,
+        "word": "可可西里网红狼被游客喂成胖球",
+        "onboard_time": 1729926979,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189949,
+        "num": 189949,
+        "word": "赵一博你好你好",
+        "onboard_time": 1729940478,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162237,
+        "num": 189220,
+        "word": "李行亮同款油漆垃圾桶1元拍卖",
+        "onboard_time": 1729936879,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157947,
+        "num": 187152,
+        "word": "时代少年团战至巅峰总决赛开场",
+        "onboard_time": 1729938920,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1498489,
+        "num": 185025,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52256,
+        "num": 183677,
+        "word": "电动自行车先上牌后解速限速成摆设",
+        "onboard_time": 1729940899,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182251,
+        "num": 182251,
+        "word": "余华英老家亲属发声",
+        "onboard_time": 1729941138,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37971,
+        "num": 177274,
+        "word": "马自达EZ6只为交个朋友13万98起",
+        "onboard_time": 1729940899,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131027,
+        "num": 176490,
+        "word": "迪丽热巴包场辛芷蕾新片",
+        "onboard_time": 1729933518,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176074,
+        "num": 176074,
+        "word": "停狗位",
+        "onboard_time": 1729940238,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168237,
+        "num": 168237,
+        "word": "LV称合肥银泰中心涉事柜姐已离职",
+        "onboard_time": 1729918940,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165689,
+        "num": 165689,
+        "word": "王者荣耀",
+        "onboard_time": 1729938379,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162528,
+        "num": 162528,
+        "word": "女子凌晨遭39岁醉汉入室强吻",
+        "onboard_time": 1729921578,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143318,
+        "num": 143318,
+        "word": "12年前我们就吃上哀牢山特产了",
+        "onboard_time": 1729937120,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "小儿麻痹症男孩多次拒绝漂亮女生追求",
+        "onboard_time": 1729929979,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136972,
+        "num": 136972,
+        "word": "戚薇说学历只能算一个加分项",
+        "onboard_time": 1729941439,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134035,
+        "num": 134035,
+        "word": "杨幂谢谢那么多杨幂",
+        "onboard_time": 1729915399,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128795,
+        "num": 128795,
+        "word": "战至巅峰",
+        "onboard_time": 1729912457,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128511,
+        "num": 128511,
+        "word": "王楚钦福州见面会",
+        "onboard_time": 1729920919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127357,
+        "num": 127357,
+        "word": "伊朗核设施均未发生爆炸",
+        "onboard_time": 1729931058,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126557,
+        "num": 126557,
+        "word": "侯明昊新剧开局就自投罗网",
+        "onboard_time": 1729940779,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126346,
+        "num": 126346,
+        "word": "可可西里网红狼孤狼变胖狼",
+        "onboard_time": 1729936279,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124455,
+        "num": 124455,
+        "word": "明日方舟",
+        "onboard_time": 1729933397,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122133,
+        "num": 122133,
+        "word": "王曼昱回私信鼓励DMD罕见病小男孩",
+        "onboard_time": 1729941258,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党是人民的党#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729939282061,
+  "endTime": 1729941547571,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -73,6 +73,14 @@
       "onboard_time": 1729915878,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1590400,
+      "num": 821492,
+      "word": "爷爷床头柜放罂粟孙子报警",
+      "onboard_time": 1729936100,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1500399,
@@ -259,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 779767,
+      "num": 779767,
+      "word": "大梦归离",
+      "onboard_time": 1729909397,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 755622,
       "num": 755622,
       "word": "当妈的千万不要没苦硬吃",
@@ -323,20 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703545,
+      "num": 320990,
+      "word": "被入室强吻女子嘴唇被咬破担心传染病",
+      "onboard_time": 1729937419,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696176,
+      "num": 518800,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691729,
       "num": 488496,
       "word": "田嘉瑞最大方的朋友是虞书欣",
       "onboard_time": 1729929439,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 677783,
-      "num": 320990,
-      "word": "被入室强吻女子嘴唇被咬破担心传染病",
-      "onboard_time": 1729937419,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 666737,
@@ -395,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 604593,
-      "num": 604593,
-      "word": "爷爷床头柜放罂粟孙子报警",
-      "onboard_time": 1729936100,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 584416,
       "num": 371691,
       "word": "生理性喜欢会有哪些表现",
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539135,
+      "num": 539135,
+      "word": "美国一宇航员回地球后出现健康问题",
+      "onboard_time": 1729937541,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532362,
       "num": 532362,
       "word": "拜登将正式道歉",
@@ -432,14 +456,6 @@
       "word": "周峻纬回归名侦探学院",
       "onboard_time": 1729920919,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 518800,
-      "num": 518800,
-      "word": "战至巅峰3冠军之夜",
-      "onboard_time": 1729936639,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392530,
+      "num": 392530,
+      "word": "潘展乐打破赛会纪录",
+      "onboard_time": 1729941019,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391320,
       "num": 263191,
       "word": "花少 荣梓杉",
@@ -633,6 +657,14 @@
       "onboard_time": 1729863680,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379961,
+      "num": 370427,
+      "word": "潘展乐800自金牌",
+      "onboard_time": 1729940539,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 377984,
@@ -673,6 +705,14 @@
       "onboard_time": 1729906699,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 357052,
+      "num": 357052,
+      "word": "Winter偷藏Karina的奖杯",
+      "onboard_time": 1729938199,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 355369,
@@ -737,14 +777,6 @@
       "onboard_time": 1729912637,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 323740,
-      "num": 323740,
-      "word": "Winter偷藏Karina的奖杯",
-      "onboard_time": 1729938199,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 322161,
@@ -835,14 +867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292058,
-      "num": 292058,
-      "word": "美国一宇航员回地球后出现健康问题",
-      "onboard_time": 1729937541,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290810,
       "num": 290810,
       "word": "鱼 游泳很累的",
@@ -865,14 +889,6 @@
       "onboard_time": 1729863500,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284811,
-      "num": 371829,
-      "word": "大梦归离",
-      "onboard_time": 1729909397,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 284146,
@@ -1003,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247986,
+      "num": 247986,
+      "word": "hybe认为BLACKPINK无法集中运营",
+      "onboard_time": 1729939998,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242391,
       "num": 244532,
       "word": "迪丽热巴包场辛芷蕾新片",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1729916959,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234622,
+      "num": 234622,
+      "word": "非专英生和英语死磕8个月后的质变",
+      "onboard_time": 1729938680,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 232908,
@@ -1219,6 +1251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "以色列事先告知伊朗打击位置",
+      "onboard_time": 1729938501,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 196304,
       "num": 196304,
       "word": "可可西里网红狼孤狼变胖狼",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1729937419,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189949,
+      "num": 189949,
+      "word": "赵一博你好你好",
+      "onboard_time": 1729940478,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189107,
@@ -1276,7 +1324,7 @@
     },
     {
       "raw_hot": 183297,
-      "num": 183297,
+      "num": 187152,
       "word": "时代少年团战至巅峰总决赛开场",
       "onboard_time": 1729938920,
       "rank": 35,
@@ -1323,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182251,
+      "num": 182251,
+      "word": "余华英老家亲属发声",
+      "onboard_time": 1729941138,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181918,
       "num": 181918,
       "word": "郑钦文vs施耐德",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1729934598,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176074,
+      "num": 176074,
+      "word": "停狗位",
+      "onboard_time": 1729940238,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 174908,
@@ -1443,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164949,
-      "num": 164949,
-      "word": "以色列事先告知伊朗打击位置",
-      "onboard_time": 1729938501,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 162883,
       "num": 162883,
       "word": "新娘用生菜做手捧花水果装饰婚车",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1729907717,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "非专英生和英语死磕8个月后的质变",
-      "onboard_time": 1729938680,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 150927,
@@ -1587,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146949,
+      "num": 400179,
+      "word": "律师回应搞乱包间被收100元清洁费",
+      "onboard_time": 1729940419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143447,
       "num": 143447,
       "word": "希尔德太香了",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1729841598,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136972,
+      "num": 136972,
+      "word": "戚薇说学历只能算一个加分项",
+      "onboard_time": 1729941439,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 136505,
@@ -1803,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126557,
+      "num": 126557,
+      "word": "侯明昊新剧开局就自投罗网",
+      "onboard_time": 1729940779,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126237,
       "num": 126237,
       "word": "伊朗暂停所有航班",
@@ -1865,6 +1937,14 @@
       "onboard_time": 1729852997,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "王曼昱回私信鼓励DMD罕见病小男孩",
+      "onboard_time": 1729941258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117505,
@@ -1953,6 +2033,14 @@
       "onboard_time": 1729895234,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109317,
+      "num": 256792,
+      "word": "Knight想证明自己是最强中单",
+      "onboard_time": 1729941379,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 107860,
@@ -2219,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52256,
+      "num": 183677,
+      "word": "电动自行车先上牌后解速限速成摆设",
+      "onboard_time": 1729940899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50936,
       "num": 428703,
       "word": "受台风潭美影响海南出现海水倒灌",
@@ -2332,11 +2428,19 @@
     },
     {
       "raw_hot": 38798,
-      "num": 847194,
+      "num": 849760,
       "word": "和大美胡杨一起守护神舟腾飞",
       "onboard_time": 1729933700,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37971,
+      "num": 177274,
+      "word": "马自达EZ6只为交个朋友13万98起",
+      "onboard_time": 1729940899,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 37231,

@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729939282061,
+  "endTime": 1729941547571,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -672,6 +672,14 @@
       "word": "山取颜料师已被限制高消费",
       "onboard_time": 1729658960,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1590400,
+      "num": 821492,
+      "word": "爷爷床头柜放罂粟孙子报警",
+      "onboard_time": 1729936100,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2467,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779767,
+      "num": 779767,
+      "word": "大梦归离",
+      "onboard_time": 1729842859,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 777724,
       "num": 541577,
       "word": "没有了东北雨姐的磨石峪村",
@@ -2827,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 703545,
+      "num": 320990,
+      "word": "被入室强吻女子嘴唇被咬破担心传染病",
+      "onboard_time": 1729937419,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700815,
       "num": 700815,
       "word": "杨天真补给",
@@ -2865,6 +2889,14 @@
       "onboard_time": 1729408759,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696176,
+      "num": 518800,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 695248,
@@ -2937,14 +2969,6 @@
       "onboard_time": 1729668798,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 677783,
-      "num": 320990,
-      "word": "被入室强吻女子嘴唇被咬破担心传染病",
-      "onboard_time": 1729937419,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676725,
@@ -3145,14 +3169,6 @@
       "onboard_time": 1729511900,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641628,
-      "num": 641628,
-      "word": "大梦归离",
-      "onboard_time": 1729842859,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 641078,
@@ -3449,14 +3465,6 @@
       "onboard_time": 1729582697,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 604593,
-      "num": 604593,
-      "word": "爷爷床头柜放罂粟孙子报警",
-      "onboard_time": 1729936100,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604066,
@@ -3907,6 +3915,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 539135,
+      "num": 539135,
+      "word": "美国一宇航员回地球后出现健康问题",
+      "onboard_time": 1729937541,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537614,
       "num": 552615,
       "word": "官方称正核实山取长文真实性",
@@ -4057,14 +4073,6 @@
       "onboard_time": 1729645457,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518800,
-      "num": 518800,
-      "word": "战至巅峰3冠军之夜",
-      "onboard_time": 1729936639,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 516535,
@@ -5171,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392530,
+      "num": 392530,
+      "word": "潘展乐打破赛会纪录",
+      "onboard_time": 1729941019,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390223,
       "num": 390223,
       "word": "3岁幼童遭生父女友虐待后离世",
@@ -5281,6 +5297,14 @@
       "onboard_time": 1729698378,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379961,
+      "num": 370427,
+      "word": "潘展乐800自金牌",
+      "onboard_time": 1729940539,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 379799,
@@ -5545,6 +5569,14 @@
       "onboard_time": 1729743198,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 357052,
+      "num": 357052,
+      "word": "Winter偷藏Karina的奖杯",
+      "onboard_time": 1729938199,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 357011,
@@ -6057,14 +6089,6 @@
       "onboard_time": 1729912637,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 323740,
-      "num": 323740,
-      "word": "Winter偷藏Karina的奖杯",
-      "onboard_time": 1729938199,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 323353,
@@ -6609,14 +6633,6 @@
       "onboard_time": 1729915758,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292058,
-      "num": 292058,
-      "word": "美国一宇航员回地球后出现健康问题",
-      "onboard_time": 1729937541,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292041,
@@ -7643,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247986,
+      "num": 247986,
+      "word": "hybe认为BLACKPINK无法集中运营",
+      "onboard_time": 1729939998,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247290,
       "num": 247290,
       "word": "景区回应网传小西天保安大叔被辞退",
@@ -7953,6 +7977,14 @@
       "onboard_time": 1729737318,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234622,
+      "num": 234622,
+      "word": "非专英生和英语死磕8个月后的质变",
+      "onboard_time": 1729938680,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 234443,
@@ -9731,6 +9763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "以色列事先告知伊朗打击位置",
+      "onboard_time": 1729938501,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 196966,
       "num": 224242,
       "word": "山取",
@@ -10235,6 +10275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189949,
+      "num": 189949,
+      "word": "赵一博你好你好",
+      "onboard_time": 1729940478,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "华晨宇与朋友在西湖骑单车",
@@ -10628,7 +10676,7 @@
     },
     {
       "raw_hot": 183297,
-      "num": 183297,
+      "num": 187152,
       "word": "时代少年团战至巅峰总决赛开场",
       "onboard_time": 1729938920,
       "rank": 35,
@@ -10681,6 +10729,14 @@
       "onboard_time": 1729822699,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182251,
+      "num": 182251,
+      "word": "余华英老家亲属发声",
+      "onboard_time": 1729941138,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182135,
@@ -10985,6 +11041,14 @@
       "onboard_time": 1729855099,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176074,
+      "num": 176074,
+      "word": "停狗位",
+      "onboard_time": 1729940238,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 175547,
@@ -11633,14 +11697,6 @@
       "onboard_time": 1729577478,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164949,
-      "num": 164949,
-      "word": "以色列事先告知伊朗打击位置",
-      "onboard_time": 1729938501,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 164852,
@@ -12339,14 +12395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "非专英生和英语死磕8个月后的质变",
-      "onboard_time": 1729938680,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152008,
       "num": 270576,
       "word": "魏晨华鼎奖华语最佳男演员",
@@ -12729,6 +12777,14 @@
       "onboard_time": 1729903517,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146949,
+      "num": 400179,
+      "word": "律师回应搞乱包间被收100元清洁费",
+      "onboard_time": 1729940419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146619,
@@ -13313,6 +13369,14 @@
       "onboard_time": 1729388899,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136972,
+      "num": 136972,
+      "word": "戚薇说学历只能算一个加分项",
+      "onboard_time": 1729941439,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 136881,
@@ -14147,6 +14211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126557,
+      "num": 126557,
+      "word": "侯明昊新剧开局就自投罗网",
+      "onboard_time": 1729940779,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126237,
       "num": 126237,
       "word": "伊朗暂停所有航班",
@@ -14401,6 +14473,14 @@
       "onboard_time": 1729419080,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "王曼昱回私信鼓励DMD罕见病小男孩",
+      "onboard_time": 1729941258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121973,
@@ -15145,6 +15225,14 @@
       "onboard_time": 1729481658,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109317,
+      "num": 256792,
+      "word": "Knight想证明自己是最强中单",
+      "onboard_time": 1729941379,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 109104,
@@ -17203,6 +17291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52256,
+      "num": 183677,
+      "word": "电动自行车先上牌后解速限速成摆设",
+      "onboard_time": 1729940899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52065,
       "num": 230657,
       "word": "以为是向佐家人组团袭榜",
@@ -17844,7 +17940,7 @@
     },
     {
       "raw_hot": 38798,
-      "num": 847194,
+      "num": 849760,
       "word": "和大美胡杨一起守护神舟腾飞",
       "onboard_time": 1729933700,
       "rank": 2,
@@ -17937,6 +18033,14 @@
       "onboard_time": 1729422020,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 37971,
+      "num": 177274,
+      "word": "马自达EZ6只为交个朋友13万98起",
+      "onboard_time": 1729940899,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 37908,
