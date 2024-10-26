@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729964287909,
+  "endTime": 1729967278298,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -41,6 +41,14 @@
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575282,
+      "num": 134336,
+      "word": "被醉汉强吻女子2天都不敢睡",
+      "onboard_time": 1729962616,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567892,
@@ -267,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194383,
-      "num": 134336,
-      "word": "被醉汉强吻女子2天都不敢睡",
-      "onboard_time": 1729962616,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183061,
       "num": 183061,
       "word": "Bin 重铸LPL荣光",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146034,
+      "num": 57212,
+      "word": "赞达亚荷兰弟 女王和她的小手办",
+      "onboard_time": 1729965193,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143810,
       "num": 143810,
       "word": "辛芷蕾工作室的海报没有辛芷蕾",
@@ -411,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122228,
+      "num": 122228,
+      "word": "梅姨到底是谁",
+      "onboard_time": 1729964534,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119888,
       "num": 119888,
       "word": "白百何新剧这段比短剧还爽",
@@ -443,8 +459,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87852,
-      "num": 87852,
+      "raw_hot": 95177,
+      "num": 95177,
       "word": "迪丽热巴包场乔妍的心事",
       "onboard_time": 1729963695,
       "rank": 35,
@@ -464,6 +480,22 @@
       "word": "这项工程奇迹创下多个世界第一",
       "onboard_time": 1729946360,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52536,
+      "num": 52536,
+      "word": "戚薇 不要再说是我的狗",
+      "onboard_time": 1729966693,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44334,
+      "num": 120239,
+      "word": "全球约70%人工宝石产自广西梧州",
+      "onboard_time": 1729965974,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
