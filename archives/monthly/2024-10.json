@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729957004018,
+  "endTime": 1729959949693,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -6657,6 +6657,14 @@
       "onboard_time": 1728438798,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936292,
+      "num": 952324,
+      "word": "刘青松哭了",
+      "onboard_time": 1729957459,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 936197,
@@ -14363,6 +14371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540584,
+      "num": 534845,
+      "word": "张淼怡大梦归离妆造",
+      "onboard_time": 1729955241,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 540487,
       "num": 540487,
       "word": "小西天保安大叔已经返岗",
@@ -14513,14 +14529,6 @@
       "onboard_time": 1729570220,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534845,
-      "num": 534845,
-      "word": "张淼怡大梦归离妆造",
-      "onboard_time": 1729955241,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 534786,
@@ -14873,6 +14881,14 @@
       "onboard_time": 1728870018,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 523720,
+      "num": 570103,
+      "word": "以军已完全摧毁加沙地带126所学校",
+      "onboard_time": 1729955660,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 523623,
@@ -15409,6 +15425,14 @@
       "onboard_time": 1729948399,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 502595,
+      "num": 407471,
+      "word": "李昊 一半婚纱一半西服",
+      "onboard_time": 1729958060,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 502171,
@@ -16785,6 +16809,14 @@
       "onboard_time": 1727738235,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 460856,
+      "num": 338535,
+      "word": "赵露思生图live",
+      "onboard_time": 1729953801,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 460129,
@@ -29971,6 +30003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241172,
+      "num": 226103,
+      "word": "杨幂辅助丁程鑫存活率为零",
+      "onboard_time": 1729958899,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241099,
       "num": 372381,
       "word": "国庆假期倒数第2天",
@@ -36139,6 +36179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202827,
+      "num": 202827,
+      "word": "丁程鑫18秒挥了5次手",
+      "onboard_time": 1729959378,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202820,
       "num": 331563,
       "word": "宋雨琦日照金山明信片",
@@ -36537,6 +36585,14 @@
       "onboard_time": 1729054881,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201198,
+      "num": 317135,
+      "word": "外交部回应美国19.88亿美元对台军售",
+      "onboard_time": 1729958660,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201184,
@@ -42235,6 +42291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180481,
+      "num": 180481,
+      "word": "Uzi预测BLG夺冠",
+      "onboard_time": 1729959319,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180463,
       "num": 180463,
       "word": "券商称潜在交易资金是个天文数字",
@@ -43561,6 +43625,14 @@
       "onboard_time": 1729588278,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174244,
+      "num": 174244,
+      "word": "刘青松 大家加油",
+      "onboard_time": 1729957700,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 174218,
@@ -47123,6 +47195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159721,
+      "num": 159721,
+      "word": "钱天一vs巴特拉",
+      "onboard_time": 1729959020,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159720,
       "num": 159720,
       "word": "潘展乐监工董志豪",
@@ -49153,6 +49233,14 @@
       "onboard_time": 1729406179,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152361,
+      "num": 152361,
+      "word": "广东男篮签约莫兰德",
+      "onboard_time": 1729958119,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 152337,
@@ -55057,6 +55145,14 @@
       "onboard_time": 1729481179,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130145,
+      "num": 130145,
+      "word": "杨超越像极了纣王在抓爱妃",
+      "onboard_time": 1729957160,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130097,
@@ -61123,6 +61219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103502,
+      "num": 220916,
+      "word": "30岁当然还可以觉得自己像小孩",
+      "onboard_time": 1729959918,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103467,
       "num": 219855,
       "word": "杨怡现场还原moon姐金句",
@@ -64320,14 +64424,6 @@
       "word": "互呛后马克龙与内塔尼亚胡通话",
       "onboard_time": 1728278238,
       "rank": 47,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 82945,
-      "num": 570103,
-      "word": "以军已完全摧毁加沙地带126所学校",
-      "onboard_time": 1729955660,
-      "rank": 9,
       "category": "国外时政"
     },
     {
