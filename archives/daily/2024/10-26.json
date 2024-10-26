@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729941547571,
+  "endTime": 1729942519354,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3215844,
-      "num": 458429,
+      "num": 477243,
       "word": "黄磊 饭不是我做的放心吃",
       "onboard_time": 1729935739,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2257259,
-      "num": 319293,
+      "num": 320024,
       "word": "女子为遮一胎妊娠纹在腹部纹身",
       "onboard_time": 1729931900,
       "rank": 44,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1590400,
-      "num": 821492,
+      "num": 1048139,
       "word": "爷爷床头柜放罂粟孙子报警",
       "onboard_time": 1729936100,
       "rank": 21,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1225137,
+      "num": 1225137,
+      "word": "潘展乐打破赛会纪录",
+      "onboard_time": 1729941019,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1224556,
+      "num": 1224556,
+      "word": "潘展乐800自金牌",
+      "onboard_time": 1729940539,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1114884,
       "num": 1114884,
       "word": "伦敦一女子设计出防抢手机壳",
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 896172,
+      "num": 896172,
+      "word": "大梦归离",
+      "onboard_time": 1729909397,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 866306,
       "num": 460361,
       "word": "成都一河道现浮尸",
@@ -267,14 +291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 779767,
-      "num": 779767,
-      "word": "大梦归离",
-      "onboard_time": 1729909397,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 755622,
       "num": 755622,
       "word": "当妈的千万不要没苦硬吃",
@@ -289,6 +305,14 @@
       "onboard_time": 1729908257,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 744698,
+      "num": 744698,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 741215,
@@ -340,19 +364,11 @@
     },
     {
       "raw_hot": 703545,
-      "num": 320990,
+      "num": 321315,
       "word": "被入室强吻女子嘴唇被咬破担心传染病",
       "onboard_time": 1729937419,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696176,
-      "num": 518800,
-      "word": "战至巅峰3冠军之夜",
-      "onboard_time": 1729936639,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 691729,
@@ -531,6 +547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 458487,
+      "num": 458487,
+      "word": "余华英老家亲属发声",
+      "onboard_time": 1729941138,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453478,
       "num": 453478,
       "word": "差点没认出周一围",
@@ -635,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392530,
-      "num": 392530,
-      "word": "潘展乐打破赛会纪录",
-      "onboard_time": 1729941019,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 391320,
       "num": 263191,
       "word": "花少 荣梓杉",
@@ -657,14 +673,6 @@
       "onboard_time": 1729863680,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379961,
-      "num": 370427,
-      "word": "潘展乐800自金牌",
-      "onboard_time": 1729940539,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 377984,
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319003,
+      "num": 319003,
+      "word": "男孩被同学打致重伤智力不到5岁",
+      "onboard_time": 1729941560,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317275,
       "num": 317275,
       "word": "伊以冲突",
@@ -841,6 +857,14 @@
       "onboard_time": 1729867761,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296795,
+      "num": 203791,
+      "word": "戚薇说学历只能算一个加分项",
+      "onboard_time": 1729941439,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 294526,
@@ -896,6 +920,14 @@
       "word": "尹子维罚站徐冬冬",
       "onboard_time": 1729916057,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283421,
+      "num": 324102,
+      "word": "边伯贤cos财神爷",
+      "onboard_time": 1729941980,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1051,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237327,
+      "num": 400179,
+      "word": "律师回应搞乱包间被收100元清洁费",
+      "onboard_time": 1729940419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234622,
       "num": 234622,
       "word": "非专英生和英语死磕8个月后的质变",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1729912219,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207734,
+      "num": 207734,
+      "word": "肖战纯白九宫格",
+      "onboard_time": 1729941860,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 207728,
@@ -1371,20 +1419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182251,
-      "num": 182251,
-      "word": "余华英老家亲属发声",
-      "onboard_time": 1729941138,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181918,
       "num": 181918,
       "word": "郑钦文vs施耐德",
       "onboard_time": 1729919239,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181377,
+      "num": 204107,
+      "word": "锦绣安宁",
+      "onboard_time": 1729941620,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 180264,
@@ -1635,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146949,
-      "num": 400179,
-      "word": "律师回应搞乱包间被收100元清洁费",
-      "onboard_time": 1729940419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143447,
       "num": 143447,
       "word": "希尔德太香了",
@@ -1657,6 +1697,22 @@
       "onboard_time": 1729915698,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141717,
+      "num": 141717,
+      "word": "全红婵没睡醒被起跑喇叭吓出表情包",
+      "onboard_time": 1729942158,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139900,
+      "num": 139900,
+      "word": "英雄联盟S14半决赛",
+      "onboard_time": 1729942100,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 139646,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1729841598,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136972,
-      "num": 136972,
-      "word": "戚薇说学历只能算一个加分项",
-      "onboard_time": 1729941439,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 136505,
@@ -1761,6 +1809,14 @@
       "onboard_time": 1729935378,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131623,
+      "num": 131623,
+      "word": "王曼昱回私信鼓励DMD罕见病小男孩",
+      "onboard_time": 1729941258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131219,
@@ -1848,6 +1904,14 @@
       "word": "田嘉瑞行走的剧宣",
       "onboard_time": 1729925358,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "大学生催播永夜星河",
+      "onboard_time": 1729942459,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1939,14 +2003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122133,
-      "num": 122133,
-      "word": "王曼昱回私信鼓励DMD罕见病小男孩",
-      "onboard_time": 1729941258,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117505,
       "num": 117505,
       "word": "总台记者手机拍下伊朗防空防御现场",
@@ -2036,7 +2092,7 @@
     },
     {
       "raw_hot": 109317,
-      "num": 256792,
+      "num": 322392,
       "word": "Knight想证明自己是最强中单",
       "onboard_time": 1729941379,
       "rank": 19,
@@ -2203,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71452,
+      "num": 487315,
+      "word": "电动自行车先上牌后解速限速成摆设",
+      "onboard_time": 1729940899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69181,
       "num": 72999,
       "word": "李霄云她真漂亮诉说感",
@@ -2304,14 +2368,6 @@
       "word": "男子路边昏迷被4个高中生救起",
       "onboard_time": 1729939099,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52256,
-      "num": 183677,
-      "word": "电动自行车先上牌后解速限速成摆设",
-      "onboard_time": 1729940899,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2428,7 +2484,7 @@
     },
     {
       "raw_hot": 38798,
-      "num": 849760,
+      "num": 1070774,
       "word": "和大美胡杨一起守护神舟腾飞",
       "onboard_time": 1729933700,
       "rank": 2,
@@ -2436,7 +2492,7 @@
     },
     {
       "raw_hot": 37971,
-      "num": 177274,
+      "num": 329895,
       "word": "马自达EZ6只为交个朋友13万98起",
       "onboard_time": 1729940899,
       "rank": 33,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1729916599,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23306,
+      "num": 194275,
+      "word": "iQOO13战至巅峰",
+      "onboard_time": 1729942039,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 23102,
