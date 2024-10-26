@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729938229494,
+  "endTime": 1729939282061,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3215844,
-      "num": 257882,
+      "num": 458429,
       "word": "黄磊 饭不是我做的放心吃",
       "onboard_time": 1729935739,
       "rank": 11,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2779431,
-      "num": 421554,
+      "num": 452918,
       "word": "LV柜姐事件",
       "onboard_time": 1729933459,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2257259,
-      "num": 302492,
+      "num": 319293,
       "word": "女子为遮一胎妊娠纹在腹部纹身",
       "onboard_time": 1729931900,
       "rank": 44,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1239191,
+      "num": 1239191,
+      "word": "遭货车拦腰碾压的男孩被医生拼好了",
+      "onboard_time": 1729935019,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114884,
       "num": 1114884,
       "word": "伦敦一女子设计出防抢手机壳",
       "onboard_time": 1729906097,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112778,
+      "num": 1160228,
+      "word": "花少5播放量超过花少6",
+      "onboard_time": 1729936158,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1064176,
@@ -187,28 +203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1001428,
-      "num": 1160228,
-      "word": "花少5播放量超过花少6",
-      "onboard_time": 1729936158,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 955222,
       "num": 955222,
       "word": "侯明昊 花少",
       "onboard_time": 1729911196,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 938514,
-      "num": 938514,
-      "word": "遭货车拦腰碾压的男孩被医生拼好了",
-      "onboard_time": 1729935019,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 866306,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677783,
+      "num": 320990,
+      "word": "被入室强吻女子嘴唇被咬破担心传染病",
+      "onboard_time": 1729937419,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666737,
       "num": 371884,
       "word": "警方回应男子钓到一具尸体是真的",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604593,
+      "num": 604593,
+      "word": "爷爷床头柜放罂粟孙子报警",
+      "onboard_time": 1729936100,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584416,
       "num": 371691,
       "word": "生理性喜欢会有哪些表现",
@@ -416,6 +432,14 @@
       "word": "周峻纬回归名侦探学院",
       "onboard_time": 1729920919,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 518800,
+      "num": 518800,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -449,6 +473,14 @@
       "onboard_time": 1729900637,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473072,
+      "num": 473072,
+      "word": "乔妍的心事票房",
+      "onboard_time": 1729935558,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 468982,
@@ -595,19 +627,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387456,
-      "num": 387456,
-      "word": "乔妍的心事票房",
-      "onboard_time": 1729935558,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 386888,
       "num": 386888,
       "word": "A2O",
       "onboard_time": 1729863680,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377984,
+      "num": 377984,
+      "word": "hybe计划放弃newjeans的时间",
+      "onboard_time": 1729937358,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -643,14 +675,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 358052,
-      "num": 256631,
-      "word": "hybe计划放弃newjeans的时间",
-      "onboard_time": 1729937358,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355369,
       "num": 355369,
       "word": "宋茜和陈好的互动",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 333997,
-      "num": 333997,
+      "num": 470631,
       "word": "李行亮同款油漆垃圾桶1元拍卖",
       "onboard_time": 1729936879,
       "rank": 7,
@@ -715,6 +739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 323740,
+      "num": 323740,
+      "word": "Winter偷藏Karina的奖杯",
+      "onboard_time": 1729938199,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 322161,
       "num": 397212,
       "word": "还原余华英11年拐卖17名儿童",
@@ -747,14 +779,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 313364,
-      "num": 256110,
-      "word": "爷爷床头柜放罂粟孙子报警",
-      "onboard_time": 1729936100,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311728,
       "num": 311728,
       "word": "张本智和救4赛点逆转晋级",
@@ -768,14 +792,6 @@
       "word": "14岁少年自制火箭惊呆网友",
       "onboard_time": 1729901176,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310748,
-      "num": 255962,
-      "word": "被入室强吻女子嘴唇被咬破担心传染病",
-      "onboard_time": 1729937419,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -817,6 +833,14 @@
       "onboard_time": 1729915758,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292058,
+      "num": 292058,
+      "word": "美国一宇航员回地球后出现健康问题",
+      "onboard_time": 1729937541,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290810,
@@ -931,8 +955,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259348,
-      "num": 255616,
+      "raw_hot": 265727,
+      "num": 265727,
       "word": "纪凌尘镜头下的沙溢胡可",
       "onboard_time": 1729936879,
       "rank": 24,
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 258174,
-      "num": 258174,
+      "num": 321351,
       "word": "麦当劳1把铲子免费板烧",
       "onboard_time": 1729924998,
       "rank": 9,
@@ -980,7 +1004,7 @@
     },
     {
       "raw_hot": 242391,
-      "num": 242391,
+      "num": 244532,
       "word": "迪丽热巴包场辛芷蕾新片",
       "onboard_time": 1729933518,
       "rank": 27,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1729921339,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225915,
+      "num": 225915,
+      "word": "王者荣耀",
+      "onboard_time": 1729938379,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 225539,
@@ -1243,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184519,
-      "num": 257356,
-      "word": "美国一宇航员回地球后出现健康问题",
-      "onboard_time": 1729937541,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 183297,
+      "num": 183297,
+      "word": "时代少年团战至巅峰总决赛开场",
+      "onboard_time": 1729938920,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 183212,
@@ -1411,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164949,
+      "num": 164949,
+      "word": "以色列事先告知伊朗打击位置",
+      "onboard_time": 1729938501,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 162883,
       "num": 162883,
       "word": "新娘用生菜做手捧花水果装饰婚车",
@@ -1467,11 +1507,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152114,
+      "num": 152114,
+      "word": "非专英生和英语死磕8个月后的质变",
+      "onboard_time": 1729938680,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150927,
       "num": 150927,
       "word": "李行亮嫌麦琳唠叨",
       "onboard_time": 1729931179,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150209,
+      "num": 244119,
+      "word": "井胧7个月超长记录披荆斩棘",
+      "onboard_time": 1729938439,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1763,14 +1819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126193,
-      "num": 126193,
-      "word": "战至巅峰3冠军之夜",
-      "onboard_time": 1729936639,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126140,
       "num": 126140,
       "word": "余华英丈夫被判16年半",
@@ -1833,14 +1881,6 @@
       "onboard_time": 1729860318,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116243,
-      "num": 116243,
-      "word": "Winter偷藏Karina的奖杯",
-      "onboard_time": 1729938199,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 116122,
@@ -2115,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61693,
+      "num": 467158,
+      "word": "成毅有牛了",
+      "onboard_time": 1729935739,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59623,
       "num": 171945,
       "word": "年轻人的旅游观该囤囤该花花",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1729876754,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52487,
+      "num": 322678,
+      "word": "男子路边昏迷被4个高中生救起",
+      "onboard_time": 1729939099,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50936,
@@ -2217,6 +2273,14 @@
       "onboard_time": 1729918459,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43577,
+      "num": 152723,
+      "word": "建议每个内耗的人都去看场脱口秀",
+      "onboard_time": 1729935620,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 42719,
@@ -2283,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37207,
-      "num": 258020,
-      "word": "成毅有牛了",
-      "onboard_time": 1729935739,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36218,
       "num": 348775,
       "word": "声称用货车运茶叶其实内藏33包毒品",
@@ -2321,14 +2377,6 @@
       "onboard_time": 1729932199,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35417,
-      "num": 152723,
-      "word": "建议每个内耗的人都去看场脱口秀",
-      "onboard_time": 1729935620,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 34500,
