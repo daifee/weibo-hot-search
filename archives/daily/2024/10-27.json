@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729970220308,
+  "endTime": 1729971388688,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39378,
+      "num": 75316,
+      "word": "以称出动F35等百余架飞机袭击伊朗",
+      "onboard_time": 1729969393,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 38372,
       "num": 102611,
       "word": "以空袭黎南部致3名媒体人员死亡",
@@ -523,28 +531,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 18731,
+      "num": 74998,
+      "word": "美媒称以色列袭击前向伊朗传话",
+      "onboard_time": 1729970112,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16781,
       "num": 735880,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13610,
-      "num": 75316,
-      "word": "以称出动F35等百余架飞机袭击伊朗",
-      "onboard_time": 1729969393,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 11331,
-      "num": 37599,
-      "word": "美媒称以色列袭击前向伊朗传话",
-      "onboard_time": 1729970112,
-      "rank": 34,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
