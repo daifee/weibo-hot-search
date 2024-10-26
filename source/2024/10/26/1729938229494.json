@@ -1,0 +1,410 @@
+{
+  "runTime": 1729938229494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1001428,
+        "num": 1160228,
+        "word": "花少5播放量超过花少6",
+        "onboard_time": 1729936158,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938514,
+        "num": 938514,
+        "word": "遭货车拦腰碾压的男孩被医生拼好了",
+        "onboard_time": 1729935019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29133,
+        "num": 792938,
+        "word": "和大美胡杨一起守护神舟腾飞",
+        "onboard_time": 1729933700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723224,
+        "num": 723224,
+        "word": "陈梦一度卸载全部社交软件",
+        "onboard_time": 1729934238,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661930,
+        "num": 661930,
+        "word": "日本将再次向中国归还朱鹮",
+        "onboard_time": 1729916780,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 497087,
+        "num": 497087,
+        "word": "为什么不要投喂可可西里网红狼",
+        "onboard_time": 1729931959,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387456,
+        "num": 387456,
+        "word": "乔妍的心事票房",
+        "onboard_time": 1729935558,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333997,
+        "num": 333997,
+        "word": "李行亮同款油漆垃圾桶1元拍卖",
+        "onboard_time": 1729936879,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326601,
+        "num": 326601,
+        "word": "战至巅峰",
+        "onboard_time": 1729912457,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258174,
+        "num": 258174,
+        "word": "麦当劳1把铲子免费板烧",
+        "onboard_time": 1729924998,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37207,
+        "num": 258020,
+        "word": "成毅有牛了",
+        "onboard_time": 1729935739,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3215844,
+        "num": 257882,
+        "word": "黄磊 饭不是我做的放心吃",
+        "onboard_time": 1729935739,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2333475,
+        "num": 257772,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693256,
+        "num": 257576,
+        "word": "杨幂格局",
+        "onboard_time": 1729915878,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184519,
+        "num": 257356,
+        "word": "美国一宇航员回地球后出现健康问题",
+        "onboard_time": 1729937541,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493593,
+        "num": 257227,
+        "word": "房价跌了100万后如何与自己和解",
+        "onboard_time": 1729919719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432326,
+        "num": 256941,
+        "word": "赵露思武汉线下活动生图",
+        "onboard_time": 1729933700,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372313,
+        "num": 256788,
+        "word": "LV称合肥银泰中心涉事柜姐已离职",
+        "onboard_time": 1729918940,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358052,
+        "num": 256631,
+        "word": "hybe计划放弃newjeans的时间",
+        "onboard_time": 1729937358,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350233,
+        "num": 256541,
+        "word": "金晨 干呕",
+        "onboard_time": 1729914198,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650259,
+        "num": 256183,
+        "word": "女子为遮一胎妊娠纹在腹部纹身",
+        "onboard_time": 1729931900,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313364,
+        "num": 256110,
+        "word": "爷爷床头柜放罂粟孙子报警",
+        "onboard_time": 1729936100,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310748,
+        "num": 255962,
+        "word": "被入室强吻女子嘴唇被咬破担心传染病",
+        "onboard_time": 1729937419,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302512,
+        "num": 255760,
+        "word": "女子凌晨遭39岁醉汉入室强吻",
+        "onboard_time": 1729921578,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259348,
+        "num": 255616,
+        "word": "纪凌尘镜头下的沙溢胡可",
+        "onboard_time": 1729936879,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255453,
+        "num": 255453,
+        "word": "可可西里网红狼被游客喂成胖球",
+        "onboard_time": 1729926979,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251097,
+        "num": 251097,
+        "word": "12年前我们就吃上哀牢山特产了",
+        "onboard_time": 1729937120,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232881,
+        "num": 232881,
+        "word": "新疆库车5.5级地震",
+        "onboard_time": 1729932917,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204696,
+        "num": 204696,
+        "word": "战至巅峰探班直播",
+        "onboard_time": 1729937120,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196745,
+        "num": 199604,
+        "word": "迪丽热巴包场辛芷蕾新片",
+        "onboard_time": 1729933518,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198393,
+        "num": 198393,
+        "word": "王者荣耀直播",
+        "onboard_time": 1729933040,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196304,
+        "num": 196304,
+        "word": "可可西里网红狼孤狼变胖狼",
+        "onboard_time": 1729936279,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191820,
+        "num": 191820,
+        "word": "成毅条纹拼色毛衣look",
+        "onboard_time": 1729937419,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186213,
+        "num": 186213,
+        "word": "伊朗核设施均未发生爆炸",
+        "onboard_time": 1729931058,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181371,
+        "num": 181371,
+        "word": "王楚钦福州见面会",
+        "onboard_time": 1729920919,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176202,
+        "num": 176202,
+        "word": "杨幂谢谢那么多杨幂",
+        "onboard_time": 1729915399,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172429,
+        "num": 172429,
+        "word": "小儿麻痹症男孩多次拒绝漂亮女生追求",
+        "onboard_time": 1729929979,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157126,
+        "num": 157126,
+        "word": "辛芷蕾连头皮都打了黑粉",
+        "onboard_time": 1729925598,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155736,
+        "num": 155736,
+        "word": "加沙一袋生虫面粉370元",
+        "onboard_time": 1729916118,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155661,
+        "num": 155661,
+        "word": "田嘉瑞最大方的朋友是虞书欣",
+        "onboard_time": 1729929439,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35417,
+        "num": 152723,
+        "word": "建议每个内耗的人都去看场脱口秀",
+        "onboard_time": 1729935620,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152597,
+        "num": 152597,
+        "word": "金饰价格升至813元",
+        "onboard_time": 1729932800,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139598,
+        "num": 139598,
+        "word": "中微子就是阿飘吗",
+        "onboard_time": 1729923917,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134507,
+        "num": 134507,
+        "word": "寇振海cos陆振华",
+        "onboard_time": 1729932379,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132420,
+        "num": 132420,
+        "word": "谢娜李川的故事还有续集",
+        "onboard_time": 1729935378,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128075,
+        "num": 128075,
+        "word": "陈都灵新剧演毒舌神女",
+        "onboard_time": 1729935320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126193,
+        "num": 126193,
+        "word": "战至巅峰3冠军之夜",
+        "onboard_time": 1729936639,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106189,
+        "num": 120678,
+        "word": "明日方舟",
+        "onboard_time": 1729933397,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116243,
+        "num": 116243,
+        "word": "Winter偷藏Karina的奖杯",
+        "onboard_time": 1729938199,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114753,
+        "num": 114753,
+        "word": "中国共产党是人民的党",
+        "onboard_time": 1729924159,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党是人民的党#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/26 17:35:22
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/26 18:23:49
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ UNIQ 解散（热度：3249713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%20%E5%B9%B2%E5%91%95%23" target="weibo">
 金晨 干呕（热度：3222200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%20%E9%A5%AD%E4%B8%8D%E6%98%AF%E6%88%91%E5%81%9A%E7%9A%84%E6%94%BE%E5%BF%83%E5%90%83%23" target="weibo">
+黄磊 饭不是我做的放心吃（热度：3215844）
 </a>
 </li>
 
@@ -4431,6 +4437,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E6%92%AD%E6%94%BE%E9%87%8F%E8%B6%85%E8%BF%87%E8%8A%B1%E5%B0%916%23" target="weibo">
+花少5播放量超过花少6（热度：1001428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A5%E6%AD%A5%E9%AB%98%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%23" target="weibo">
 步步高被申请破产（热度：1000719）
 </a>
@@ -4907,6 +4919,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%B7%91%E6%AD%A5%E7%95%99%E8%80%81%E5%A4%A7%E7%85%A7%E9%A1%BE%E8%80%81%E4%BA%8C%E7%BB%93%E6%9E%9C%E9%83%BD%E4%B8%A2%E4%BA%86%23" target="weibo">
 爸爸跑步留老大照顾老二结果都丢了（热度：938525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%B4%A7%E8%BD%A6%E6%8B%A6%E8%85%B0%E7%A2%BE%E5%8E%8B%E7%9A%84%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8B%BC%E5%A5%BD%E4%BA%86%23" target="weibo">
+遭货车拦腰碾压的男孩被医生拼好了（热度：938514）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%B2%9B%E6%BC%94%E4%B9%A0%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E8%BD%AC%E4%B8%BA%E5%AE%9E%E6%88%98%23" target="weibo">
 解放军围岛演习随时可以转为实战（热度：826910）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%A4%A9%E5%A4%A7%E6%96%B0%E7%94%9F%E5%84%BF%E5%8C%BB%E9%99%A2%E7%85%A7%E8%93%9D%E5%85%89%E6%9C%9F%E9%97%B4%E6%AD%BB%E4%BA%A1%23" target="weibo">
-4天大新生儿医院照蓝光期间死亡（热度：825647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%BD%91%E7%BB%9C%E6%81%B6%E6%84%8F%E6%AD%A6%E5%99%A8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%9B%9D%E5%85%89%23" target="weibo">
-美国一网络恶意武器被中国曝光（热度：824848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E8%A6%812500%E5%90%8E%E8%B6%8A%E6%83%B3%E8%B6%8A%E4%B8%8D%E5%AF%B9%23" target="weibo">
-撞电动车被要2500后越想越不对（热度：824237）
 </a>
 </li>
 

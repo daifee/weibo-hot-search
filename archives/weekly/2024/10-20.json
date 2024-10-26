@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729935322387,
+  "endTime": 1729938229494,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -65,6 +65,14 @@
       "onboard_time": 1729914198,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3215844,
+      "num": 257882,
+      "word": "黄磊 饭不是我做的放心吃",
+      "onboard_time": 1729935739,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 3097854,
@@ -1643,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1001428,
+      "num": 1160228,
+      "word": "花少5播放量超过花少6",
+      "onboard_time": 1729936158,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1000034,
       "num": 1000034,
       "word": "儿子恋爱后总要钱被妈妈送派出所",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1729696579,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 938514,
+      "num": 938514,
+      "word": "遭货车拦腰碾压的男孩被医生拼好了",
+      "onboard_time": 1729935019,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 935449,
@@ -2721,6 +2745,14 @@
       "onboard_time": 1729898595,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 723224,
+      "num": 723224,
+      "word": "陈梦一度卸载全部社交软件",
+      "onboard_time": 1729934238,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 719128,
@@ -4107,6 +4139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 497087,
+      "num": 497087,
+      "word": "为什么不要投喂可可西里网红狼",
+      "onboard_time": 1729931959,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496901,
       "num": 333147,
       "word": "王楚钦福州见面会",
@@ -5123,6 +5163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387456,
+      "num": 387456,
+      "word": "乔妍的心事票房",
+      "onboard_time": 1729935558,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387038,
       "num": 374517,
       "word": "雅真的让妻子在披哥闪耀了",
@@ -5457,6 +5505,14 @@
       "onboard_time": 1729682179,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358052,
+      "num": 256631,
+      "word": "hybe计划放弃newjeans的时间",
+      "onboard_time": 1729937358,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 357171,
@@ -5827,6 +5883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333997,
+      "num": 333997,
+      "word": "李行亮同款油漆垃圾桶1元拍卖",
+      "onboard_time": 1729936879,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332978,
       "num": 332978,
       "word": "王者荣耀时代少年团合作新歌",
@@ -5883,14 +5947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329049,
-      "num": 329049,
-      "word": "陈梦一度卸载全部社交软件",
-      "onboard_time": 1729934238,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328942,
       "num": 328942,
       "word": "95后为242名志愿军老战士拍戎装照",
@@ -5921,6 +5977,14 @@
       "onboard_time": 1729388599,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326601,
+      "num": 326601,
+      "word": "战至巅峰",
+      "onboard_time": 1729421119,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 326399,
@@ -6123,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313364,
+      "num": 256110,
+      "word": "爷爷床头柜放罂粟孙子报警",
+      "onboard_time": 1729936100,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313074,
       "num": 409611,
       "word": "鲜肉9小时没冷藏变臭肉",
@@ -6201,6 +6273,14 @@
       "onboard_time": 1729591579,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310748,
+      "num": 255962,
+      "word": "被入室强吻女子嘴唇被咬破担心传染病",
+      "onboard_time": 1729937419,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309863,
@@ -7275,6 +7355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259348,
+      "num": 255616,
+      "word": "纪凌尘镜头下的沙溢胡可",
+      "onboard_time": 1729936879,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259085,
       "num": 259085,
       "word": "年轻人穷养卧室也要富养电竞房",
@@ -7289,6 +7377,14 @@
       "onboard_time": 1729397359,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258174,
+      "num": 258174,
+      "word": "麦当劳1把铲子免费板烧",
+      "onboard_time": 1729924998,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 257684,
@@ -7425,6 +7521,14 @@
       "onboard_time": 1729682117,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251097,
+      "num": 251097,
+      "word": "12年前我们就吃上哀牢山特产了",
+      "onboard_time": 1729937120,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250795,
@@ -8795,14 +8899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211369,
-      "num": 211369,
-      "word": "战至巅峰",
-      "onboard_time": 1729421119,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211307,
       "num": 161275,
       "word": "15天让头发变钻石",
@@ -9161,6 +9257,14 @@
       "onboard_time": 1729774818,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204696,
+      "num": 204696,
+      "word": "战至巅峰探班直播",
+      "onboard_time": 1729937120,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 204565,
@@ -9643,6 +9747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196304,
+      "num": 196304,
+      "word": "可可西里网红狼孤狼变胖狼",
+      "onboard_time": 1729936279,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196163,
       "num": 196163,
       "word": "撒贝宁疑似失去所有力气和手段",
@@ -9939,6 +10051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191820,
+      "num": 191820,
+      "word": "成毅条纹拼色毛衣look",
+      "onboard_time": 1729937419,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191801,
       "num": 191801,
       "word": "赵丽颖辛芷蕾合唱渔樵问答",
@@ -10144,14 +10264,6 @@
       "word": "臭肉事件校方如此傲慢只会臭上加臭",
       "onboard_time": 1729471161,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189214,
-      "num": 374317,
-      "word": "为什么不要投喂可可西里网红狼",
-      "onboard_time": 1729931959,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -10401,6 +10513,14 @@
       "onboard_time": 1729561638,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 184519,
+      "num": 257356,
+      "word": "美国一宇航员回地球后出现健康问题",
+      "onboard_time": 1729937541,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184507,
@@ -13163,14 +13283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136713,
-      "num": 136713,
-      "word": "遭货车拦腰碾压的男孩被医生拼好了",
-      "onboard_time": 1729935019,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136701,
       "num": 136701,
       "word": "陶喆广州",
@@ -13547,6 +13659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132420,
+      "num": 132420,
+      "word": "谢娜李川的故事还有续集",
+      "onboard_time": 1729935378,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132115,
       "num": 288544,
       "word": "土耳其航空航天公司遭恐袭已致3死5伤",
@@ -13867,6 +13987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128075,
+      "num": 128075,
+      "word": "陈都灵新剧演毒舌神女",
+      "onboard_time": 1729935320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127947,
       "num": 127947,
       "word": "LPR再降25基点存量房贷月供省多少",
@@ -13977,6 +14105,14 @@
       "onboard_time": 1729913718,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 126193,
+      "num": 126193,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126140,
@@ -14553,6 +14689,14 @@
       "onboard_time": 1729521439,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116243,
+      "num": 116243,
+      "word": "Winter偷藏Karina的奖杯",
+      "onboard_time": 1729938199,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 116192,
@@ -17843,6 +17987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37207,
+      "num": 258020,
+      "word": "成毅有牛了",
+      "onboard_time": 1729935739,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37039,
       "num": 67080,
       "word": "书墨越秦线",
@@ -18009,6 +18161,14 @@
       "onboard_time": 1729620913,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35417,
+      "num": 152723,
+      "word": "建议每个内耗的人都去看场脱口秀",
+      "onboard_time": 1729935620,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 35294,
