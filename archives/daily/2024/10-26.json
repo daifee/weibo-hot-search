@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729931163994,
+  "endTime": 1729931990728,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393840,
+      "num": 267274,
+      "word": "小儿麻痹症男孩多次拒绝漂亮女生追求",
+      "onboard_time": 1729929979,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391320,
       "num": 263191,
       "word": "花少 荣梓杉",
@@ -529,14 +537,6 @@
       "onboard_time": 1729906699,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 365542,
-      "num": 267274,
-      "word": "小儿麻痹症男孩多次拒绝漂亮女生追求",
-      "onboard_time": 1729929979,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355369,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319779,
+      "num": 319779,
+      "word": "蒲熠星 名学",
+      "onboard_time": 1729927998,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317275,
       "num": 317275,
       "word": "伊以冲突",
@@ -657,14 +665,6 @@
       "onboard_time": 1729920558,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293087,
-      "num": 293087,
-      "word": "蒲熠星 名学",
-      "onboard_time": 1729927998,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 292534,
@@ -851,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217695,
+      "num": 375287,
+      "word": "余华英丈夫王加文获刑16年",
+      "onboard_time": 1729929499,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213672,
       "num": 171659,
       "word": "武汉机关食堂已经nextlevel",
@@ -913,6 +921,14 @@
       "onboard_time": 1729900757,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 207025,
+      "num": 207025,
+      "word": "刘学义替杨超越吃虫子",
+      "onboard_time": 1729931119,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 203865,
@@ -1075,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "战至巅峰",
+      "onboard_time": 1729912457,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169876,
       "num": 169876,
       "word": "以色列袭击伊朗发电厂",
@@ -1139,20 +1163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161804,
+      "num": 324775,
+      "word": "伊朗核设施均未发生爆炸",
+      "onboard_time": 1729931058,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160103,
       "num": 286065,
       "word": "吴谨言打戏拍了四个大夜",
       "onboard_time": 1729918459,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159686,
-      "num": 375287,
-      "word": "余华英丈夫王加文获刑16年",
-      "onboard_time": 1729929499,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159344,
@@ -1195,19 +1219,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150927,
+      "num": 150927,
+      "word": "李行亮嫌麦琳唠叨",
+      "onboard_time": 1729931179,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150029,
       "num": 150029,
       "word": "麦琳想要什么",
       "onboard_time": 1729873038,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 150000,
-      "num": 150000,
-      "word": "战至巅峰",
-      "onboard_time": 1729912457,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1499,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120639,
+      "num": 120639,
+      "word": "女子为遮一胎妊娠纹在腹部纹身",
+      "onboard_time": 1729931900,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117505,
       "num": 117505,
       "word": "总台记者手机拍下伊朗防空防御现场",
@@ -1515,20 +1547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114363,
-      "num": 114363,
-      "word": "刘学义替杨超越吃虫子",
-      "onboard_time": 1729931119,
+      "raw_hot": 116122,
+      "num": 116122,
+      "word": "陈都灵大梦归离打着出场",
+      "onboard_time": 1729930398,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 112975,
-      "num": 112975,
-      "word": "伊朗核设施均未发生爆炸",
-      "onboard_time": 1729931058,
-      "rank": 49,
-      "category": "国外时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 112944,
@@ -1553,6 +1577,22 @@
       "onboard_time": 1729869080,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110973,
+      "num": 110973,
+      "word": "申军良说一定不会放弃寻找梅姨",
+      "onboard_time": 1729931779,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110530,
+      "num": 373156,
+      "word": "梅姨为何仍无影踪",
+      "onboard_time": 1729929378,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110454,
@@ -1595,11 +1635,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102991,
-      "num": 373156,
-      "word": "梅姨为何仍无影踪",
-      "onboard_time": 1729929378,
-      "rank": 9,
+      "raw_hot": 105753,
+      "num": 105753,
+      "word": "为什么不要投喂可可西里网红狼",
+      "onboard_time": 1729931959,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1891,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42719,
+      "num": 285906,
+      "word": "村干部谈男子杀父骗保",
+      "onboard_time": 1729930218,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42589,
       "num": 248646,
       "word": "好团圆今日开播",
@@ -1928,14 +1976,6 @@
       "word": "官方通报幼儿园发的鸡腿有鸡毛",
       "onboard_time": 1729885331,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37993,
-      "num": 285906,
-      "word": "村干部谈男子杀父骗保",
-      "onboard_time": 1729930218,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2052,7 +2092,7 @@
     },
     {
       "raw_hot": 6932,
-      "num": 134821,
+      "num": 139018,
       "word": "你不知道的澳门2049",
       "onboard_time": 1729929617,
       "rank": 39,

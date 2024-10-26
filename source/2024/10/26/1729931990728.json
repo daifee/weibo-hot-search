@@ -1,0 +1,410 @@
+{
+  "runTime": 1729931990728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300555,
+        "num": 1300555,
+        "word": "麦当劳铲子",
+        "onboard_time": 1729924998,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 888337,
+        "num": 888337,
+        "word": "日本将再次向中国归还朱鹮",
+        "onboard_time": 1729916780,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 9001,
+        "num": 887146,
+        "word": "祖国大地深秋之美",
+        "onboard_time": 1729896854,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886438,
+        "num": 886438,
+        "word": "辛芷蕾连头皮都打了黑粉",
+        "onboard_time": 1729925598,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 539321,
+        "num": 539321,
+        "word": "加沙一袋生虫面粉370元",
+        "onboard_time": 1729916118,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 739374,
+        "num": 468718,
+        "word": "杨幂格局",
+        "onboard_time": 1729915878,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 640663,
+        "num": 422931,
+        "word": "田嘉瑞最大方的朋友是虞书欣",
+        "onboard_time": 1729929439,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344469,
+        "num": 344469,
+        "word": "中国共产党是人民的党",
+        "onboard_time": 1729924159,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325373,
+        "num": 325373,
+        "word": "宋茜和陈好的互动",
+        "onboard_time": 1729926438,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 324775,
+        "word": "伊朗核设施均未发生爆炸",
+        "onboard_time": 1729931058,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 891671,
+        "num": 323663,
+        "word": "LV称合肥银泰中心涉事柜姐已离职",
+        "onboard_time": 1729918940,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649950,
+        "num": 321448,
+        "word": "房价跌了100万后如何与自己和解",
+        "onboard_time": 1729919719,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629865,
+        "num": 320144,
+        "word": "金晨 干呕",
+        "onboard_time": 1729914198,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319779,
+        "num": 319779,
+        "word": "蒲熠星 名学",
+        "onboard_time": 1729927998,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499378,
+        "num": 317641,
+        "word": "可可西里网红狼被游客喂成胖球",
+        "onboard_time": 1729926979,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348664,
+        "num": 312846,
+        "word": "老娘与海",
+        "onboard_time": 1729919840,
+        "rank": 15,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 303948,
+        "num": 303948,
+        "word": "郑钦文晋级东京站决赛",
+        "onboard_time": 1729926498,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248388,
+        "num": 248388,
+        "word": "北斗七行包场乔妍的心事",
+        "onboard_time": 1729923138,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244019,
+        "num": 244019,
+        "word": "王楚钦福州见面会",
+        "onboard_time": 1729920919,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42719,
+        "num": 243486,
+        "word": "村干部谈男子杀父骗保",
+        "onboard_time": 1729930218,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403556,
+        "num": 242602,
+        "word": "女子凌晨遭39岁醉汉入室强吻",
+        "onboard_time": 1729921578,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393840,
+        "num": 242391,
+        "word": "小儿麻痹症男孩多次拒绝漂亮女生追求",
+        "onboard_time": 1729929979,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382355,
+        "num": 241219,
+        "word": "杨幂包场乔妍的心事",
+        "onboard_time": 1729910718,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241023,
+        "num": 241023,
+        "word": "电动车解限速后每小时跑到50公里",
+        "onboard_time": 1729926198,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227482,
+        "num": 227482,
+        "word": "还原余华英11年拐卖17名儿童",
+        "onboard_time": 1729909876,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217695,
+        "num": 217695,
+        "word": "余华英丈夫王加文获刑16年",
+        "onboard_time": 1729929499,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211631,
+        "num": 211631,
+        "word": "当妈的千万不要没苦硬吃",
+        "onboard_time": 1729918580,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209885,
+        "num": 209885,
+        "word": "云南橙连夜改名成哀牢山冰糖橙",
+        "onboard_time": 1729926618,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207025,
+        "num": 207025,
+        "word": "刘学义替杨超越吃虫子",
+        "onboard_time": 1729931119,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198331,
+        "num": 198331,
+        "word": "中微子就是阿飘吗",
+        "onboard_time": 1729923917,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193747,
+        "num": 193747,
+        "word": "美国称已做好准备保卫以色列",
+        "onboard_time": 1729926318,
+        "rank": 30,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 186030,
+        "num": 186030,
+        "word": "向佐 感觉自己好像一只有趣的猴子",
+        "onboard_time": 1729930339,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179778,
+        "num": 179778,
+        "word": "边伯贤 上海",
+        "onboard_time": 1729920319,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "战至巅峰",
+        "onboard_time": 1729912457,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164761,
+        "num": 164761,
+        "word": "伊朗突遭以色列袭击现场画面",
+        "onboard_time": 1729913838,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162106,
+        "num": 162106,
+        "word": "赵丽颖即兴表演把导演震撼了",
+        "onboard_time": 1729923618,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152148,
+        "num": 152148,
+        "word": "大梦归离预告 吓人",
+        "onboard_time": 1729919539,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150927,
+        "num": 150927,
+        "word": "李行亮嫌麦琳唠叨",
+        "onboard_time": 1729931179,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144946,
+        "num": 144946,
+        "word": "成毅直播",
+        "onboard_time": 1729926198,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6780,
+        "num": 139018,
+        "word": "你不知道的澳门2049",
+        "onboard_time": 1729929617,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137042,
+        "num": 137042,
+        "word": "周峻纬回归名侦探学院",
+        "onboard_time": 1729920919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136001,
+        "num": 136001,
+        "word": "白敬亭 现发人有自己的体育棒子",
+        "onboard_time": 1729930099,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125337,
+        "num": 125337,
+        "word": "战至巅峰总决赛探班直播",
+        "onboard_time": 1729928537,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124650,
+        "num": 124650,
+        "word": "丈夫称烧伤妈妈已经有了求生欲",
+        "onboard_time": 1729909758,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120639,
+        "num": 120639,
+        "word": "女子为遮一胎妊娠纹在腹部纹身",
+        "onboard_time": 1729931900,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116122,
+        "num": 116122,
+        "word": "陈都灵大梦归离打着出场",
+        "onboard_time": 1729930398,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110973,
+        "num": 110973,
+        "word": "申军良说一定不会放弃寻找梅姨",
+        "onboard_time": 1729931779,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110530,
+        "num": 110530,
+        "word": "梅姨为何仍无影踪",
+        "onboard_time": 1729929378,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108803,
+        "num": 108803,
+        "word": "艾伦宋亚轩 这就是养成系的快乐",
+        "onboard_time": 1729927158,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105753,
+        "num": 105753,
+        "word": "为什么不要投喂可可西里网红狼",
+        "onboard_time": 1729931959,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写大金砖合作高质量发展新篇章#"
+    }
+  }
+}
