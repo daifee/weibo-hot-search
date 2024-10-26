@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729934500043,
+  "endTime": 1729935322387,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -81,6 +81,14 @@
       "onboard_time": 1729746679,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2779431,
+      "num": 421554,
+      "word": "LV柜姐事件",
+      "onboard_time": 1729933459,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2660326,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 2257259,
-      "num": 290363,
+      "num": 302492,
       "word": "女子为遮一胎妊娠纹在腹部纹身",
       "onboard_time": 1729931900,
       "rank": 44,
@@ -2787,14 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 704353,
-      "num": 421554,
-      "word": "LV柜姐事件",
-      "onboard_time": 1729933459,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 700815,
       "num": 700815,
       "word": "杨天真补给",
@@ -4363,6 +4363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 465705,
+      "num": 465705,
+      "word": "赵露思武汉线下活动生图",
+      "onboard_time": 1729933700,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465307,
       "num": 365437,
       "word": "孟佳路边救被撞小猫情绪崩了",
@@ -5299,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375210,
+      "num": 375210,
+      "word": "万圣节cos",
+      "onboard_time": 1729932558,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 375104,
       "num": 419321,
       "word": "老舅演唱会嘉宾 鹿晗",
@@ -5867,6 +5883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329049,
+      "num": 329049,
+      "word": "陈梦一度卸载全部社交软件",
+      "onboard_time": 1729934238,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328942,
       "num": 328942,
       "word": "95后为242名志愿军老战士拍戎装照",
@@ -6331,14 +6355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301845,
-      "num": 301845,
-      "word": "赵露思武汉线下活动生图",
-      "onboard_time": 1729933700,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300805,
       "num": 357943,
       "word": "金晨 人尴尬的时候会假装很忙",
@@ -6505,14 +6521,6 @@
       "onboard_time": 1729591878,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291968,
-      "num": 291968,
-      "word": "万圣节cos",
-      "onboard_time": 1729932558,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 291767,
@@ -8787,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211369,
+      "num": 211369,
+      "word": "战至巅峰",
+      "onboard_time": 1729421119,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211307,
       "num": 161275,
       "word": "15天让头发变钻石",
@@ -9339,12 +9355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201368,
-      "num": 201368,
-      "word": "战至巅峰",
-      "onboard_time": 1729421119,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 201360,
+      "num": 201360,
+      "word": "张艺兴银框眼镜总裁感",
+      "onboard_time": 1729934299,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 201227,
@@ -10132,11 +10148,19 @@
     },
     {
       "raw_hot": 189214,
-      "num": 189214,
+      "num": 374317,
       "word": "为什么不要投喂可可西里网红狼",
       "onboard_time": 1729931959,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189107,
+      "num": 189107,
+      "word": "李纯新剧扇巴掌 令妃回宫",
+      "onboard_time": 1729934478,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 189046,
@@ -10795,6 +10819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176729,
+      "num": 169017,
+      "word": "名侦探学院",
+      "onboard_time": 1729934598,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176612,
       "num": 176612,
       "word": "绝区零",
@@ -11153,6 +11185,14 @@
       "onboard_time": 1729417819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169213,
+      "num": 429199,
+      "word": "金饰价格升至813元",
+      "onboard_time": 1729932800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169161,
@@ -11991,14 +12031,6 @@
       "num": 155285,
       "word": "马来西亚环球小姐参赛服装引争议",
       "onboard_time": 1729824258,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 155261,
-      "num": 155261,
-      "word": "陈梦一度卸载全部社交软件",
-      "onboard_time": 1729934238,
       "rank": 40,
       "category": "体育"
     },
@@ -13131,6 +13163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136713,
+      "num": 136713,
+      "word": "遭货车拦腰碾压的男孩被医生拼好了",
+      "onboard_time": 1729935019,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136701,
       "num": 136701,
       "word": "陶喆广州",
@@ -13619,14 +13659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130604,
-      "num": 130604,
-      "word": "张艺兴银框眼镜总裁感",
-      "onboard_time": 1729934299,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130584,
       "num": 130584,
       "word": "1至9月共追回医保资金160.6亿",
@@ -13945,6 +13977,14 @@
       "onboard_time": 1729913718,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 126140,
+      "num": 126140,
+      "word": "余华英丈夫被判16年半",
+      "onboard_time": 1729929499,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125976,
@@ -14585,14 +14625,6 @@
       "onboard_time": 1729861459,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 114865,
-      "num": 114865,
-      "word": "李纯新剧扇巴掌 令妃回宫",
-      "onboard_time": 1729934478,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 114839,
@@ -15561,14 +15593,6 @@
       "onboard_time": 1729526179,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 92211,
-      "num": 429199,
-      "word": "金饰价格升至813元",
-      "onboard_time": 1729932800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92038,
@@ -17619,6 +17643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38798,
+      "num": 847194,
+      "word": "和大美胡杨一起守护神舟腾飞",
+      "onboard_time": 1729933700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38769,
       "num": 1175665,
       "word": "五彩斑斓的秋天根本看不够",
@@ -17931,6 +17963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35927,
+      "num": 311923,
+      "word": "217户业主地址被莫名注册公司",
+      "onboard_time": 1729933938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35838,
       "num": 580882,
       "word": "律师称余英华作案手法混熟了下手",
@@ -17953,6 +17993,14 @@
       "onboard_time": 1729398800,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35515,
+      "num": 288392,
+      "word": "成毅听讲状态演我",
+      "onboard_time": 1729932199,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 35453,
@@ -18169,14 +18217,6 @@
       "onboard_time": 1729512797,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 32941,
-      "num": 847194,
-      "word": "和大美胡杨一起守护神舟腾飞",
-      "onboard_time": 1729933700,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32922,
@@ -18409,22 +18449,6 @@
       "onboard_time": 1729506920,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30245,
-      "num": 291858,
-      "word": "217户业主地址被莫名注册公司",
-      "onboard_time": 1729933938,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30151,
-      "num": 288392,
-      "word": "成毅听讲状态演我",
-      "onboard_time": 1729932199,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 29920,

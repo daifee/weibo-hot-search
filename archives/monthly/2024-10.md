@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/26 17:21:40
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/26 17:35:22
 </p>
 </blockquote>
 <p>
@@ -353,6 +353,12 @@ A股涨停（热度：2966593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%86%9B%E7%94%A8%E5%BC%80%E6%9E%AA%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E7%82%B8%E6%AF%81%E9%81%93%E8%B7%AF%23" target="weibo">
 韩军用开枪回应朝鲜炸毁道路（热度：2792750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E6%9F%9C%E5%A7%90%E4%BA%8B%E4%BB%B6%23" target="weibo">
+LV柜姐事件（热度：2779431）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E8%A6%812500%E5%90%8E%E8%B6%8A%E6%83%B3%E8%B6%8A%E4%B8%8D%E5%AF%B9%23" target="weibo">
 撞电动车被要2500后越想越不对（热度：824237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
-林诗栋蒯曼亚锦赛夺冠（热度：822478）
 </a>
 </li>
 
