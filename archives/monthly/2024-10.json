@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729916833673,
+  "endTime": 1729917668800,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 3222200,
-      "num": 394612,
+      "num": 461499,
       "word": "金晨 干呕",
       "onboard_time": 1729914198,
       "rank": 11,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2233393,
+      "num": 2233393,
+      "word": "杨幂包场乔妍的心事",
+      "onboard_time": 1729910718,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2232538,
       "num": 723020,
       "word": "沈梦辰模仿叶珂",
@@ -985,14 +993,6 @@
       "onboard_time": 1729316660,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2224379,
-      "num": 2224379,
-      "word": "杨幂包场乔妍的心事",
-      "onboard_time": 1729910718,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 2210049,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 2049153,
-      "num": 460611,
+      "num": 600836,
       "word": "杨幂格局",
       "onboard_time": 1729915878,
       "rank": 5,
@@ -2940,7 +2940,7 @@
     },
     {
       "raw_hot": 1418609,
-      "num": 453682,
+      "num": 595690,
       "word": "金晨装不了一点",
       "onboard_time": 1729914017,
       "rank": 6,
@@ -3497,6 +3497,14 @@
       "onboard_time": 1729785198,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1313767,
+      "num": 462598,
+      "word": "黄晓明欠了陈梦一顿饭3年没还",
+      "onboard_time": 1729916239,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1312860,
@@ -6003,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 978082,
+      "num": 978082,
+      "word": "加沙一袋生虫面粉370元",
+      "onboard_time": 1729916118,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 977734,
       "num": 483193,
       "word": "一早涨停买入的已经开始亏钱",
@@ -7324,7 +7340,7 @@
     },
     {
       "raw_hot": 866306,
-      "num": 396567,
+      "num": 460361,
       "word": "成都一河道现浮尸",
       "onboard_time": 1729911559,
       "rank": 49,
@@ -10483,6 +10499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 680138,
+      "num": 680138,
+      "word": "日本将再次向中国归还朱鹮",
+      "onboard_time": 1729916780,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 678720,
       "num": 331444,
       "word": "任嘉伦 三折叠怎么折都be",
@@ -11875,6 +11899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622200,
+      "num": 622200,
+      "word": "伊朗突遭以色列袭击现场画面",
+      "onboard_time": 1729913838,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 621552,
       "num": 621552,
       "word": "A股逼近涨停开盘",
@@ -12297,14 +12329,6 @@
       "onboard_time": 1729582697,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605820,
-      "num": 393756,
-      "word": "黄晓明欠了陈梦一顿饭3年没还",
-      "onboard_time": 1729916239,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 604976,
@@ -16099,14 +16123,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 470380,
-      "num": 470380,
-      "word": "伊朗突遭以色列袭击现场画面",
-      "onboard_time": 1729913838,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 470324,
       "num": 377435,
       "word": "刘国梁为孙颖莎颁奖",
@@ -16353,6 +16369,14 @@
       "onboard_time": 1728565160,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459832,
+      "num": 459832,
+      "word": "赵丽颖回应拿奖",
+      "onboard_time": 1729915878,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 459767,
@@ -18833,14 +18857,6 @@
       "onboard_time": 1728098958,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 392628,
-      "num": 392628,
-      "word": "赵丽颖回应拿奖",
-      "onboard_time": 1729915878,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 392329,
@@ -22699,14 +22715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314236,
-      "num": 397516,
-      "word": "加沙一袋生虫面粉370元",
-      "onboard_time": 1729916118,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 313851,
       "num": 438566,
       "word": "拜合拉木破门",
@@ -25115,6 +25123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 284146,
+      "num": 278791,
+      "word": "尹子维罚站徐冬冬",
+      "onboard_time": 1729916057,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283996,
       "num": 197888,
       "word": "小jiojio出现的一瞬间萌化了",
@@ -25555,6 +25571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279472,
+      "num": 279472,
+      "word": "王者荣耀共创之夜节目单",
+      "onboard_time": 1729916178,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279450,
       "num": 203478,
       "word": "日本新外相回应石破茂内阁亲中亲韩",
@@ -25777,6 +25801,14 @@
       "onboard_time": 1727938458,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 276140,
+      "num": 274366,
+      "word": "51岁阿姨打两份工的老年生活",
+      "onboard_time": 1729912758,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 276128,
@@ -27843,14 +27875,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 254212,
-      "num": 254212,
-      "word": "51岁阿姨打两份工的老年生活",
-      "onboard_time": 1729912758,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254043,
       "num": 254043,
       "word": "BLG对战MDK",
@@ -29915,6 +29939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232885,
+      "num": 296104,
+      "word": "赵丽颖谈女演员的花期",
+      "onboard_time": 1729916540,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232780,
       "num": 232780,
       "word": "王楚钦这一分好精彩",
@@ -30017,14 +30049,6 @@
       "onboard_time": 1729419200,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231882,
-      "num": 231882,
-      "word": "王者荣耀共创之夜节目单",
-      "onboard_time": 1729916178,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 231822,
@@ -35035,6 +35059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203035,
+      "num": 203035,
+      "word": "太阳vs湖人",
+      "onboard_time": 1728267497,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202994,
       "num": 202994,
       "word": "女儿的安全感是爸爸给的",
@@ -35073,6 +35105,14 @@
       "onboard_time": 1728807918,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202896,
+      "num": 211194,
+      "word": "焚城",
+      "onboard_time": 1729916540,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 202879,
@@ -35585,6 +35625,14 @@
       "onboard_time": 1729267820,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200912,
+      "num": 200912,
+      "word": "滑滑梯的易烊千玺",
+      "onboard_time": 1729917318,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 200897,
@@ -37643,14 +37691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193515,
-      "num": 193515,
-      "word": "尹子维罚站徐冬冬",
-      "onboard_time": 1729916057,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193491,
       "num": 193491,
       "word": "Faker说小虎可以爱豆出道了",
@@ -38361,14 +38401,6 @@
       "onboard_time": 1728833900,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191080,
-      "num": 256156,
-      "word": "赵丽颖谈女演员的花期",
-      "onboard_time": 1729916540,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 191078,
@@ -42449,14 +42481,6 @@
       "onboard_time": 1728037398,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173607,
-      "num": 173607,
-      "word": "焚城",
-      "onboard_time": 1729916540,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 173598,
@@ -51595,14 +51619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138236,
-      "num": 138236,
-      "word": "太阳vs湖人",
-      "onboard_time": 1728267497,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138198,
       "num": 138198,
       "word": "女生两层楼高发型回头率爆表",
@@ -51857,14 +51873,6 @@
       "onboard_time": 1728125418,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137198,
-      "num": 137198,
-      "word": "日本将再次向中国归还朱鹮",
-      "onboard_time": 1729916780,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 137171,
@@ -52931,6 +52939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133043,
+      "num": 133043,
+      "word": "MLB世界大赛",
+      "onboard_time": 1729917438,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133030,
       "num": 133030,
       "word": "VOGUE时装周主题大片",
@@ -53025,6 +53041,14 @@
       "onboard_time": 1729051581,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132734,
+      "num": 132734,
+      "word": "勇士41分大胜爵士",
+      "onboard_time": 1729917200,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132733,
@@ -71187,6 +71211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34500,
+      "num": 462972,
+      "word": "以色列为何选择在此时打击伊朗",
+      "onboard_time": 1729917019,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 34497,
       "num": 298259,
       "word": "港股波动是正常的无需担心牛市结束",
@@ -74024,6 +74056,14 @@
       "word": "理个发被忽悠充3万治扁平疣",
       "onboard_time": 1729249818,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24644,
+      "num": 753258,
+      "word": "打卡秋日限定款壁纸",
+      "onboard_time": 1729916599,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -77209,14 +77249,6 @@
       "onboard_time": 1728470418,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7816,
-      "num": 629676,
-      "word": "打卡秋日限定款壁纸",
-      "onboard_time": 1729916599,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7480,
