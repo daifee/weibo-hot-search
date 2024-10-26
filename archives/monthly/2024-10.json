@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729917668800,
+  "endTime": 1729920037325,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -825,6 +825,14 @@
       "onboard_time": 1729594640,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2349022,
+      "num": 2349022,
+      "word": "日本将再次向中国归还朱鹮",
+      "onboard_time": 1729916780,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2344269,
@@ -2940,7 +2948,7 @@
     },
     {
       "raw_hot": 1418609,
-      "num": 595690,
+      "num": 611681,
       "word": "金晨装不了一点",
       "onboard_time": 1729914017,
       "rank": 6,
@@ -3587,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1299592,
+      "num": 1299592,
+      "word": "加沙一袋生虫面粉370元",
+      "onboard_time": 1729916118,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1299305,
       "num": 895074,
       "word": "女童被打满嘴是血父亲称不追究责任",
@@ -4001,6 +4017,14 @@
       "onboard_time": 1729152801,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1228642,
+      "num": 355065,
+      "word": "LV称合肥银泰中心涉事柜姐已离职",
+      "onboard_time": 1729918940,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1228601,
@@ -4625,6 +4649,14 @@
       "onboard_time": 1728993619,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1136083,
+      "num": 406673,
+      "word": "杨幂谢谢那么多杨幂",
+      "onboard_time": 1729915399,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 1135516,
@@ -6009,14 +6041,6 @@
       "onboard_time": 1729164981,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 978082,
-      "num": 978082,
-      "word": "加沙一袋生虫面粉370元",
-      "onboard_time": 1729916118,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 977734,
@@ -10497,14 +10521,6 @@
       "onboard_time": 1728531260,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 680138,
-      "num": 680138,
-      "word": "日本将再次向中国归还朱鹮",
-      "onboard_time": 1729916780,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 678720,
@@ -15649,6 +15665,14 @@
       "onboard_time": 1728639859,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481584,
+      "num": 481584,
+      "word": "APT 嘻唰唰",
+      "onboard_time": 1729917799,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 481423,
@@ -29291,6 +29315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239495,
+      "num": 239495,
+      "word": "警方通报女子凌晨遭醉酒男入室强吻",
+      "onboard_time": 1729918099,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239452,
       "num": 239452,
       "word": "Daeny表情",
@@ -29393,6 +29425,14 @@
       "onboard_time": 1728117079,
       "rank": 23,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 238345,
+      "num": 238345,
+      "word": "太阳vs湖人",
+      "onboard_time": 1728267497,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 238303,
@@ -33243,6 +33283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211430,
+      "num": 211430,
+      "word": "大梦归离预告 吓人",
+      "onboard_time": 1729919539,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "VOGUE出发图",
@@ -33881,6 +33929,14 @@
       "onboard_time": 1729912219,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207728,
+      "num": 207728,
+      "word": "滑滑梯的易烊千玺",
+      "onboard_time": 1729917318,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 207699,
@@ -35059,14 +35115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203035,
-      "num": 203035,
-      "word": "太阳vs湖人",
-      "onboard_time": 1728267497,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202994,
       "num": 202994,
       "word": "女儿的安全感是爸爸给的",
@@ -35387,6 +35435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201638,
+      "num": 355299,
+      "word": "当妈的千万不要没苦硬吃",
+      "onboard_time": 1729918580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201629,
       "num": 201629,
       "word": "田嘉瑞 这段一定播出去",
@@ -35625,14 +35681,6 @@
       "onboard_time": 1729267820,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200912,
-      "num": 200912,
-      "word": "滑滑梯的易烊千玺",
-      "onboard_time": 1729917318,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 200897,
@@ -40539,6 +40587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182772,
+      "num": 250642,
+      "word": "刘学义别说了 敖瑞鹏要破防了",
+      "onboard_time": 1729918998,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182679,
       "num": 182679,
       "word": "蔡依林 你去年也这样讲吧",
@@ -41241,6 +41297,14 @@
       "onboard_time": 1727856139,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179648,
+      "num": 179648,
+      "word": "以军警告伊朗",
+      "onboard_time": 1729918640,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 179641,
@@ -45251,6 +45315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162461,
+      "num": 162461,
+      "word": "白敬亭宋亚轩i人见面",
+      "onboard_time": 1729919779,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162437,
       "num": 194193,
       "word": "A股测试",
@@ -45769,6 +45841,14 @@
       "onboard_time": 1728539000,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160103,
+      "num": 160103,
+      "word": "吴谨言打戏拍了四个大夜",
+      "onboard_time": 1729918459,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 160075,
@@ -46865,6 +46945,14 @@
       "onboard_time": 1729001180,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156160,
+      "num": 156160,
+      "word": "房价跌了100万后如何与自己和解",
+      "onboard_time": 1729919719,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156096,
@@ -50691,6 +50779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141499,
+      "num": 141499,
+      "word": "老娘与海",
+      "onboard_time": 1729919840,
+      "rank": 44,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 141419,
       "num": 141419,
       "word": "井胧姐姐喜欢阿如那",
@@ -51641,6 +51737,14 @@
       "onboard_time": 1728624919,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138006,
+      "num": 181124,
+      "word": "郑钦文vs施耐德",
+      "onboard_time": 1729919239,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 137984,
@@ -54297,6 +54401,14 @@
       "onboard_time": 1729500078,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 127784,
+      "num": 127784,
+      "word": "以闪亮之名阁楼上的新娘",
+      "onboard_time": 1729917799,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 127783,
@@ -67835,6 +67947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49352,
+      "num": 248246,
+      "word": "抠门的人怎么健身",
+      "onboard_time": 1729918338,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49289,
       "num": 305050,
       "word": "娱乐圈玩吃鸡明星世纪合影",
@@ -68787,6 +68907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44723,
+      "num": 263106,
+      "word": "有人直播饲养老鼠疑用来炒菜",
+      "onboard_time": 1729918459,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44706,
       "num": 60578,
       "word": "林诗栋3比0罗伯勒斯",
@@ -69193,6 +69321,14 @@
       "onboard_time": 1729519820,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42589,
+      "num": 248646,
+      "word": "好团圆今日开播",
+      "onboard_time": 1729919719,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 42454,
@@ -77291,6 +77427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6096,
+      "num": 852041,
+      "word": "祖国大地深秋之美",
+      "onboard_time": 1729896854,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5941,
       "num": 555973,
       "word": "中国广播电视精品创作盛典",
@@ -77659,6 +77803,9 @@
     },
     {
       "word": "#三个维度看习近平喀山之行#"
+    },
+    {
+      "word": "#他们用一腔热血拼来家国安宁#"
     }
   ]
 }
