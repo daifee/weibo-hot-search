@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729953437552,
+  "endTime": 1729956077536,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1985,6 +1985,14 @@
       "onboard_time": 1728572060,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1713355,
+      "num": 1713355,
+      "word": "BLG晋级S14决赛",
+      "onboard_time": 1729954162,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1712869,
@@ -5187,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1067906,
+      "num": 1067906,
+      "word": "小虎 抽象",
+      "onboard_time": 1729951943,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1066673,
       "num": 474698,
       "word": "特朗普暗示韩国应支付巨额保护费",
@@ -7739,6 +7755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852523,
+      "num": 852523,
+      "word": "WBG止步S14四强",
+      "onboard_time": 1729954704,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 850901,
       "num": 850901,
       "word": "武艺 五个微信还不够折腾吗",
@@ -9875,6 +9899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 728391,
+      "num": 728391,
+      "word": "麦琳 李行亮",
+      "onboard_time": 1729952840,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728320,
       "num": 326943,
       "word": "真有艺人因为造型被扣钱",
@@ -10393,6 +10425,14 @@
       "onboard_time": 1729392737,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700394,
+      "num": 700394,
+      "word": "WBG对战BLG",
+      "onboard_time": 1729943538,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 699831,
@@ -14739,14 +14779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 526561,
-      "num": 526561,
-      "word": "WBG对战BLG",
-      "onboard_time": 1729943538,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 526100,
       "num": 366129,
       "word": "赵丽颖刘烨听徐冬冬说英语的反应",
@@ -17875,6 +17907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429890,
+      "num": 429890,
+      "word": "你好星期六下期是锦绣安宁",
+      "onboard_time": 1729954939,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429393,
       "num": 1094430,
       "word": "三次台岛周边军演示意图对比",
@@ -19467,14 +19507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 387834,
-      "num": 387834,
-      "word": "小虎 抽象",
-      "onboard_time": 1729951943,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 387805,
       "num": 387805,
       "word": "梁静茹哽咽回应去年演唱会翻车",
@@ -19833,6 +19865,14 @@
       "onboard_time": 1729698378,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380329,
+      "num": 380329,
+      "word": "小虎排雷",
+      "onboard_time": 1729954582,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 379903,
@@ -21115,6 +21155,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 354639,
+      "num": 354639,
+      "word": "成毅把难过的事想了遍还是没忍住",
+      "onboard_time": 1729955121,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354484,
       "num": 1054519,
       "word": "再也不用羡慕美国展出的月壤了",
@@ -21161,6 +21209,14 @@
       "onboard_time": 1728790279,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353738,
+      "num": 353738,
+      "word": "张淼怡大梦归离妆造",
+      "onboard_time": 1729955241,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 353611,
@@ -21395,6 +21451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350204,
+      "num": 350204,
+      "word": "全华班时隔11年晋级S赛决赛",
+      "onboard_time": 1729954881,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 349802,
       "num": 406347,
       "word": "张新成 我还年轻啥都能演啥都想演",
@@ -21577,6 +21641,14 @@
       "onboard_time": 1728483561,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344488,
+      "num": 344488,
+      "word": "樊振东姆巴佩合影",
+      "onboard_time": 1729953620,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 344310,
@@ -22881,6 +22953,22 @@
       "onboard_time": 1728281538,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321695,
+      "num": 460881,
+      "word": "林诗栋3比1林昀儒",
+      "onboard_time": 1728572781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 321616,
+      "num": 321616,
+      "word": "赵露思生图ive",
+      "onboard_time": 1729953801,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 321536,
@@ -25779,6 +25867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 283643,
+      "num": 283643,
+      "word": "李雪琴骗过了全场",
+      "onboard_time": 1729954821,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283545,
       "num": 255809,
       "word": "赵丽颖提名金鹰视后",
@@ -27017,6 +27113,14 @@
       "onboard_time": 1728530539,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270424,
+      "num": 270424,
+      "word": "张杰又被堵在了路上",
+      "onboard_time": 1729955002,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 270417,
@@ -28361,14 +28465,6 @@
       "onboard_time": 1729172123,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256213,
-      "num": 256213,
-      "word": "麦琳 李行亮",
-      "onboard_time": 1729952840,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 256195,
@@ -30241,6 +30337,14 @@
       "onboard_time": 1729940419,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237318,
+      "num": 237318,
+      "word": "WBG三放武器蝎子",
+      "onboard_time": 1729954521,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 237310,
@@ -33265,14 +33369,6 @@
       "onboard_time": 1727833637,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215444,
-      "num": 215444,
-      "word": "林诗栋3比1林昀儒",
-      "onboard_time": 1728572781,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 215403,
@@ -38443,6 +38539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193980,
+      "num": 193980,
+      "word": "辛芷蕾工作室的海报没有辛芷蕾",
+      "onboard_time": 1729954939,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193955,
       "num": 193955,
       "word": "朱志鑫cos袁湘琴可爱鬼",
@@ -39041,6 +39145,14 @@
       "onboard_time": 1728058878,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192012,
+      "num": 192012,
+      "word": "阿卡丽来了",
+      "onboard_time": 1729955002,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 192001,
@@ -41625,6 +41737,14 @@
       "onboard_time": 1729470800,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182128,
+      "num": 182128,
+      "word": "潘展乐打破张琳15年前800自纪录",
+      "onboard_time": 1729954403,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 182098,
@@ -45107,6 +45227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167316,
+      "num": 704814,
+      "word": "辽宁海事局最新航行警告",
+      "onboard_time": 1729954939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167290,
       "num": 167290,
       "word": "姜妍虞书欣友情",
@@ -45625,6 +45753,14 @@
       "onboard_time": 1728124159,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165152,
+      "num": 165152,
+      "word": "中国首批太空旅游船票上架即售罄",
+      "onboard_time": 1729955782,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165073,
@@ -46675,6 +46811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161247,
+      "num": 161247,
+      "word": "薛之谦音乐节造型",
+      "onboard_time": 1729955901,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161198,
       "num": 161198,
       "word": "我爱你中国千千万万遍",
@@ -47209,6 +47353,14 @@
       "onboard_time": 1728658103,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158847,
+      "num": 188901,
+      "word": "渤海部分海域连续3天实弹射击",
+      "onboard_time": 1729952960,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158809,
@@ -64444,7 +64596,7 @@
     },
     {
       "raw_hot": 81000,
-      "num": 960268,
+      "num": 1093640,
       "word": "这项工程奇迹创下多个世界第一",
       "onboard_time": 1729946360,
       "rank": 2,
@@ -66577,14 +66729,6 @@
       "onboard_time": 1727770398,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64402,
-      "num": 188901,
-      "word": "渤海部分海域连续3天实弹射击",
-      "onboard_time": 1729952960,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64159,
