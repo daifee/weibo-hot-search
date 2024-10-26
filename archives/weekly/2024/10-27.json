@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729974109952,
+  "endTime": 1729975005956,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -507,6 +507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42266,
+      "num": 44236,
+      "word": "遭受校园霸凌的7个迹象",
+      "onboard_time": 1729972333,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39378,
       "num": 75316,
       "word": "以称出动F35等百余架飞机袭击伊朗",
@@ -523,8 +531,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 31782,
-      "num": 31782,
+      "raw_hot": 32511,
+      "num": 32511,
       "word": "特朗普嘲讽碧昂丝为哈里斯站台",
       "onboard_time": 1729972751,
       "rank": 28,
@@ -539,28 +547,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23938,
-      "num": 23938,
-      "word": "美防长称增强兵力部署保护以色列",
-      "onboard_time": 1729971792,
-      "rank": 38,
-      "category": "国外时政"
+      "raw_hot": 26322,
+      "num": 26322,
+      "word": "12岁男孩被同学打致重伤父亲发声",
+      "onboard_time": 1729972991,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 22987,
-      "num": 22987,
+      "raw_hot": 26296,
+      "num": 26296,
       "word": "短道速滑世界巡回赛",
       "onboard_time": 1729971792,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 22576,
-      "num": 22576,
-      "word": "12岁男孩被同学打致重伤父亲发声",
-      "onboard_time": 1729972991,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 23938,
+      "num": 23938,
+      "word": "美防长称增强兵力部署保护以色列",
+      "onboard_time": 1729971792,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 20739,
@@ -579,6 +587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 17758,
+      "num": 19275,
+      "word": "樊振东为皇马国家德比加油",
+      "onboard_time": 1729974372,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16781,
       "num": 735880,
       "word": "神十九发射场区全系统合练",
@@ -587,20 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12729,
-      "num": 44236,
-      "word": "遭受校园霸凌的7个迹象",
-      "onboard_time": 1729972333,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11570,
-      "num": 31486,
+      "raw_hot": 13360,
+      "num": 44174,
       "word": "航程二万五千里",
       "onboard_time": 1729972450,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10597,
+      "num": 24843,
+      "word": "积极主动为人民群众做好事办实事解难事",
+      "onboard_time": 1729974791,
+      "rank": 36,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

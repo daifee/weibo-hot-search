@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/27 00:25:49 ~ 2024/10/27 04:21:49
+本榜单时间：2024/10/27 00:25:49 ~ 2024/10/27 04:36:45
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ HYBE报告Kpop大点兵（热度：57322）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%8F%97%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E7%9A%847%E4%B8%AA%E8%BF%B9%E8%B1%A1%23" target="weibo">
+遭受校园霸凌的7个迹象（热度：42266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%A7%B0%E5%87%BA%E5%8A%A8F35%E7%AD%89%E7%99%BE%E4%BD%99%E6%9E%B6%E9%A3%9E%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%23" target="weibo">
 以称出动F35等百余架飞机袭击伊朗（热度：39378）
 </a>
@@ -406,7 +412,7 @@ HYBE报告Kpop大点兵（热度：57322）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD%E7%A2%A7%E6%98%82%E4%B8%9D%E4%B8%BA%E5%93%88%E9%87%8C%E6%96%AF%E7%AB%99%E5%8F%B0%23" target="weibo">
-特朗普嘲讽碧昂丝为哈里斯站台（热度：31782）
+特朗普嘲讽碧昂丝为哈里斯站台（热度：32511）
 </a>
 </li>
 
@@ -417,20 +423,20 @@ HYBE报告Kpop大点兵（热度：57322）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E5%A2%9E%E5%BC%BA%E5%85%B5%E5%8A%9B%E9%83%A8%E7%BD%B2%E4%BF%9D%E6%8A%A4%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
-美防长称增强兵力部署保护以色列（热度：23938）
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E8%87%B4%E9%87%8D%E4%BC%A4%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+12岁男孩被同学打致重伤父亲发声（热度：26322）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E8%B5%9B%23" target="weibo">
-短道速滑世界巡回赛（热度：22987）
+短道速滑世界巡回赛（热度：26296）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E8%87%B4%E9%87%8D%E4%BC%A4%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-12岁男孩被同学打致重伤父亲发声（热度：22576）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E5%A2%9E%E5%BC%BA%E5%85%B5%E5%8A%9B%E9%83%A8%E7%BD%B2%E4%BF%9D%E6%8A%A4%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
+美防长称增强兵力部署保护以色列（热度：23938）
 </a>
 </li>
 
@@ -447,20 +453,26 @@ HYBE报告Kpop大点兵（热度：57322）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%BA%E7%9A%87%E9%A9%AC%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94%E5%8A%A0%E6%B2%B9%23" target="weibo">
+樊振东为皇马国家德比加油（热度：17758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B9%9D%E5%8F%91%E5%B0%84%E5%9C%BA%E5%8C%BA%E5%85%A8%E7%B3%BB%E7%BB%9F%E5%90%88%E7%BB%83%23" target="weibo">
 神十九发射场区全系统合练（热度：16781）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%8F%97%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E7%9A%847%E4%B8%AA%E8%BF%B9%E8%B1%A1%23" target="weibo">
-遭受校园霸凌的7个迹象（热度：12729）
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%A8%8B%E4%BA%8C%E4%B8%87%E4%BA%94%E5%8D%83%E9%87%8C%23" target="weibo">
+航程二万五千里（热度：13360）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%A8%8B%E4%BA%8C%E4%B8%87%E4%BA%94%E5%8D%83%E9%87%8C%23" target="weibo">
-航程二万五千里（热度：11570）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%AF%E6%9E%81%E4%B8%BB%E5%8A%A8%E4%B8%BA%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%81%9A%E5%A5%BD%E4%BA%8B%E5%8A%9E%E5%AE%9E%E4%BA%8B%E8%A7%A3%E9%9A%BE%E4%BA%8B%23" target="weibo">
+积极主动为人民群众做好事办实事解难事（热度：10597）
 </a>
 </li>
 
