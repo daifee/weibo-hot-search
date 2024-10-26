@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729899356374,
+  "endTime": 1729906763885,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -160,6 +160,14 @@
       "word": "男子想死不敢跳楼高空抛物砸死路人",
       "onboard_time": 1729488018,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2322765,
+      "num": 282454,
+      "word": "LV柜姐",
+      "onboard_time": 1729902436,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2123,12 +2131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804735,
+      "num": 1128757,
+      "word": "以色列称已对伊朗发动袭击",
+      "onboard_time": 1729900216,
+      "rank": 0,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 804328,
       "num": 804328,
       "word": "文旅局长回应小西天景区保安被辞退",
       "onboard_time": 1729423762,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803930,
+      "num": 281359,
+      "word": "周雨彤",
+      "onboard_time": 1729905797,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 799811,
@@ -2435,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732645,
+      "num": 280152,
+      "word": "妈妈可能正在经历最痛苦的十年",
+      "onboard_time": 1729903457,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "徐志胜淘汰感言爆哭",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1729675457,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 725783,
+      "num": 228751,
+      "word": "徐璐这么多年泡脚都泡错了",
+      "onboard_time": 1729898595,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 719128,
@@ -2513,6 +2553,14 @@
       "onboard_time": 1729838359,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 705750,
+      "num": 705750,
+      "word": "女单只剩钱天一",
+      "onboard_time": 1729902197,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 705259,
@@ -2708,7 +2756,7 @@
     },
     {
       "raw_hot": 666737,
-      "num": 211296,
+      "num": 277850,
       "word": "警方回应男子钓到一具尸体是真的",
       "onboard_time": 1729897513,
       "rank": 10,
@@ -2921,6 +2969,14 @@
       "onboard_time": 1729572562,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628405,
+      "num": 628405,
+      "word": "中医认证汉堡属于健康食物",
+      "onboard_time": 1729901416,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 627953,
@@ -3297,6 +3353,14 @@
       "onboard_time": 1729827981,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568180,
+      "num": 228208,
+      "word": "生理性喜欢会有哪些表现",
+      "onboard_time": 1729904237,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 566104,
@@ -4315,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426909,
+      "num": 426909,
+      "word": "大梦归离 空降",
+      "onboard_time": 1729900637,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426866,
       "num": 426866,
       "word": "李行亮麦琳 无限流式吵架",
@@ -5019,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356409,
+      "num": 275619,
+      "word": "再见爱人 没有剧本",
+      "onboard_time": 1729905797,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355632,
       "num": 355632,
       "word": "李行亮 麦琳",
@@ -5633,6 +5713,14 @@
       "onboard_time": 1729870819,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311176,
+      "num": 311176,
+      "word": "14岁少年自制火箭惊呆网友",
+      "onboard_time": 1729901176,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311052,
@@ -6377,6 +6465,14 @@
       "onboard_time": 1729644858,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273628,
+      "num": 273628,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1729899737,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 273159,
@@ -7667,6 +7763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219031,
+      "num": 219031,
+      "word": "央视曝光电动自行车解限速乱象",
+      "onboard_time": 1729904778,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219003,
       "num": 219003,
       "word": "A股高位下跌后已调整10个交易日",
@@ -7907,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213672,
+      "num": 171659,
+      "word": "武汉机关食堂已经nextlevel",
+      "onboard_time": 1729903517,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213209,
       "num": 213209,
       "word": "萨摩耶把边牧关进了笼子里",
@@ -7945,6 +8057,14 @@
       "onboard_time": 1729435763,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212682,
+      "num": 283259,
+      "word": "白宫称以色列打击伊朗是自卫",
+      "onboard_time": 1729903877,
+      "rank": 9,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 212644,
@@ -8257,6 +8377,14 @@
       "onboard_time": 1729381154,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207226,
+      "num": 207226,
+      "word": "小英恢复更新",
+      "onboard_time": 1729900757,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 206577,
@@ -9323,6 +9451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187699,
+      "num": 187699,
+      "word": "万圣节",
+      "onboard_time": 1729906036,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187688,
       "num": 216333,
       "word": "宋茜五登芭莎封面",
@@ -10275,6 +10411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168143,
+      "num": 211999,
+      "word": "烧伤妈妈丈夫回应喊停捐款",
+      "onboard_time": 1729897574,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167900,
       "num": 180421,
       "word": "张新成最开心给何老师颁奖",
@@ -10947,6 +11091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155565,
+      "num": 186764,
+      "word": "offer为什么总拍律师",
+      "onboard_time": 1729900456,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155487,
       "num": 155487,
       "word": "白敬亭单手打蛋 眼睛会了手没会",
@@ -11137,6 +11289,14 @@
       "onboard_time": 1729494918,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151812,
+      "num": 151812,
+      "word": "以色列袭击伊朗发电厂",
+      "onboard_time": 1729906338,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 151473,
@@ -11377,6 +11537,14 @@
       "onboard_time": 1729753339,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147771,
+      "num": 181659,
+      "word": "徐海乔单手考拉抱黄潇",
+      "onboard_time": 1729905437,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 147756,
@@ -11827,6 +11995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140278,
+      "num": 140278,
+      "word": "原来动画片里的鼹鼠是真的",
+      "onboard_time": 1729903517,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140227,
       "num": 140227,
       "word": "1024程序员节",
@@ -11889,6 +12065,14 @@
       "onboard_time": 1729481960,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139528,
+      "num": 139528,
+      "word": "新娘用生菜做手捧花水果装饰婚车",
+      "onboard_time": 1729898954,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139375,
@@ -12065,6 +12249,14 @@
       "onboard_time": 1729673057,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135744,
+      "num": 180506,
+      "word": "毒液 爱情片",
+      "onboard_time": 1729905257,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 135709,
@@ -12691,6 +12883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126599,
+      "num": 126599,
+      "word": "发现养狗人普遍只认狗不认人",
+      "onboard_time": 1729879693,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126582,
       "num": 357242,
       "word": "直播间剧本骗走爸妈血汗钱",
@@ -12755,6 +12955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125462,
+      "num": 174564,
+      "word": "徐明浩上了MBN新闻",
+      "onboard_time": 1729902135,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125424,
       "num": 125424,
       "word": "短剧版聊斋",
@@ -12769,6 +12977,14 @@
       "onboard_time": 1729860919,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125345,
+      "num": 125345,
+      "word": "以色列对伊朗袭击前白宫收到通知",
+      "onboard_time": 1729905437,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 124719,
@@ -13539,6 +13755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 110454,
+      "num": 110454,
+      "word": "澳门城市大学问全红婵想不想入学",
+      "onboard_time": 1729901476,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110443,
       "num": 225129,
       "word": "郑恩彩好帅",
@@ -14027,6 +14251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 98083,
+      "num": 98083,
+      "word": "多架美军F16战机抵达中东",
+      "onboard_time": 1729906699,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 97905,
       "num": 97905,
       "word": "GEN战胜Fly",
@@ -14073,6 +14305,14 @@
       "onboard_time": 1729773619,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97202,
+      "num": 97202,
+      "word": "不经意伤胃的习惯",
+      "onboard_time": 1729897993,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97149,
@@ -14275,14 +14515,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 90120,
-      "num": 90120,
-      "word": "发现养狗人普遍只认狗不认人",
-      "onboard_time": 1729879693,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90095,
       "num": 412966,
       "word": "保安公司回应小西天保安大叔工资标准",
@@ -14323,14 +14555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88001,
-      "num": 88001,
-      "word": "新娘用生菜做手捧花水果装饰婚车",
-      "onboard_time": 1729898954,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87936,
       "num": 234385,
       "word": "OPPO发布会",
@@ -14353,14 +14577,6 @@
       "onboard_time": 1729466897,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87473,
-      "num": 95560,
-      "word": "徐璐这么多年泡脚都泡错了",
-      "onboard_time": 1729898595,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 86698,
@@ -16011,14 +16227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42932,
-      "num": 211999,
-      "word": "烧伤妈妈丈夫回应喊停捐款",
-      "onboard_time": 1729897574,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42824,
       "num": 161819,
       "word": "浙江一村庄疑改地名骗政府专项资金",
@@ -16377,14 +16585,6 @@
       "onboard_time": 1729588879,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37485,
-      "num": 49543,
-      "word": "不经意伤胃的习惯",
-      "onboard_time": 1729897993,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 37219,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1729906763885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804735,
+        "num": 1128757,
+        "word": "以色列称已对伊朗发动袭击",
+        "onboard_time": 1729900216,
+        "rank": 0,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 705750,
+        "num": 705750,
+        "word": "女单只剩钱天一",
+        "onboard_time": 1729902197,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3464,
+        "num": 646057,
+        "word": "万千气象看北京",
+        "onboard_time": 1729652177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628405,
+        "num": 628405,
+        "word": "中医认证汉堡属于健康食物",
+        "onboard_time": 1729901416,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472723,
+        "num": 472723,
+        "word": "拜登将正式道歉",
+        "onboard_time": 1729861998,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426909,
+        "num": 426909,
+        "word": "大梦归离 空降",
+        "onboard_time": 1729900637,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344325,
+        "num": 344325,
+        "word": "台湾鸡蛋过剩提议校园班班吃鸡蛋",
+        "onboard_time": 1729888512,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311176,
+        "num": 311176,
+        "word": "14岁少年自制火箭惊呆网友",
+        "onboard_time": 1729901176,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284099,
+        "num": 284099,
+        "word": "花少 三个体面的山东人",
+        "onboard_time": 1729858818,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212682,
+        "num": 283259,
+        "word": "白宫称以色列打击伊朗是自卫",
+        "onboard_time": 1729903877,
+        "rank": 9,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 2322765,
+        "num": 282454,
+        "word": "LV柜姐",
+        "onboard_time": 1729902436,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803930,
+        "num": 281359,
+        "word": "周雨彤",
+        "onboard_time": 1729905797,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732645,
+        "num": 280152,
+        "word": "妈妈可能正在经历最痛苦的十年",
+        "onboard_time": 1729903457,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 556352,
+        "num": 279284,
+        "word": "孕激素让29岁女生妈感一下来了",
+        "onboard_time": 1729868600,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515999,
+        "num": 277850,
+        "word": "警方回应男子钓到一具尸体是真的",
+        "onboard_time": 1729897513,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379563,
+        "num": 277048,
+        "word": "差点没认出周一围",
+        "onboard_time": 1729898417,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356409,
+        "num": 275619,
+        "word": "再见爱人 没有剧本",
+        "onboard_time": 1729905797,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309864,
+        "num": 274002,
+        "word": "宋茜对得起所有人 除了蒋欣",
+        "onboard_time": 1729865541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273628,
+        "num": 273628,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1729899737,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229681,
+        "num": 229681,
+        "word": "穿山甲给自己挖了32洞小区",
+        "onboard_time": 1729862359,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725783,
+        "num": 228751,
+        "word": "徐璐这么多年泡脚都泡错了",
+        "onboard_time": 1729898595,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568180,
+        "num": 228208,
+        "word": "生理性喜欢会有哪些表现",
+        "onboard_time": 1729904237,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391320,
+        "num": 224715,
+        "word": "花少 荣梓杉",
+        "onboard_time": 1729863079,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219031,
+        "num": 219031,
+        "word": "央视曝光电动自行车解限速乱象",
+        "onboard_time": 1729904778,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207226,
+        "num": 207226,
+        "word": "小英恢复更新",
+        "onboard_time": 1729900757,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187699,
+        "num": 187699,
+        "word": "万圣节",
+        "onboard_time": 1729906036,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 186764,
+        "word": "offer为什么总拍律师",
+        "onboard_time": 1729900456,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 181659,
+        "word": "徐海乔单手考拉抱黄潇",
+        "onboard_time": 1729905437,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135744,
+        "num": 180506,
+        "word": "毒液 爱情片",
+        "onboard_time": 1729905257,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125462,
+        "num": 174564,
+        "word": "徐明浩上了MBN新闻",
+        "onboard_time": 1729902135,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213672,
+        "num": 171659,
+        "word": "武汉机关食堂已经nextlevel",
+        "onboard_time": 1729903517,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170761,
+        "num": 170761,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1729855700,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169176,
+        "num": 169176,
+        "word": "近七旬父亲出狱后女儿不愿赡养",
+        "onboard_time": 1729866020,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168143,
+        "num": 168143,
+        "word": "烧伤妈妈丈夫回应喊停捐款",
+        "onboard_time": 1729897574,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159264,
+        "num": 159264,
+        "word": "余华英5000元亲手卖了儿子",
+        "onboard_time": 1729867401,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152842,
+        "num": 152842,
+        "word": "AI聊天机器人诱导美国少年自杀身亡",
+        "onboard_time": 1729861399,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151812,
+        "num": 151812,
+        "word": "以色列袭击伊朗发电厂",
+        "onboard_time": 1729906338,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140278,
+        "num": 140278,
+        "word": "原来动画片里的鼹鼠是真的",
+        "onboard_time": 1729903517,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "新娘用生菜做手捧花水果装饰婚车",
+        "onboard_time": 1729898954,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 133927,
+        "word": "如果我不丢爸妈就死不了",
+        "onboard_time": 1729863500,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126599,
+        "num": 126599,
+        "word": "发现养狗人普遍只认狗不认人",
+        "onboard_time": 1729879693,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125345,
+        "num": 125345,
+        "word": "以色列对伊朗袭击前白宫收到通知",
+        "onboard_time": 1729905437,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121023,
+        "num": 121023,
+        "word": "如何看待酒店订单订后即焚",
+        "onboard_time": 1729881132,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114201,
+        "num": 114201,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1729906577,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110454,
+        "num": 110454,
+        "word": "澳门城市大学问全红婵想不想入学",
+        "onboard_time": 1729901476,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110046,
+        "num": 110046,
+        "word": "A2O",
+        "onboard_time": 1729863680,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109614,
+        "num": 109614,
+        "word": "A2O 林钰珊",
+        "onboard_time": 1729865120,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101500,
+        "num": 101500,
+        "word": "台风潭美进入24小时警戒线",
+        "onboard_time": 1729873338,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98083,
+        "num": 98083,
+        "word": "多架美军F16战机抵达中东",
+        "onboard_time": 1729906699,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 97202,
+        "num": 97202,
+        "word": "不经意伤胃的习惯",
+        "onboard_time": 1729897993,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个维度看习近平喀山之行#"
+    }
+  }
+}
