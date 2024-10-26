@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729946380638,
+  "endTime": 1729947316048,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -1827,6 +1827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 956616,
+      "num": 657289,
+      "word": "余华英丈夫越狱后多次拐卖儿童",
+      "onboard_time": 1729943839,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955222,
       "num": 955222,
       "word": "侯明昊 花少",
@@ -2092,18 +2100,10 @@
     },
     {
       "raw_hot": 885973,
-      "num": 501372,
+      "num": 506444,
       "word": "男孩被同学打致重伤智力不到5岁",
       "onboard_time": 1729941560,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884168,
-      "num": 471234,
-      "word": "余华英丈夫越狱后多次拐卖儿童",
-      "onboard_time": 1729943839,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2401,6 +2401,14 @@
       "onboard_time": 1729754059,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 805357,
+      "num": 620397,
+      "word": "肖战直播",
+      "onboard_time": 1729945579,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 804735,
@@ -3627,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586349,
+      "num": 481259,
+      "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
+      "onboard_time": 1729943358,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584573,
       "num": 584573,
       "word": "原三只羊员工加盟听泉鉴宝",
@@ -4355,6 +4371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479842,
+      "num": 515713,
+      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
+      "onboard_time": 1729945280,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478621,
       "num": 478621,
       "word": "泡泡玛特 抢不到",
@@ -4635,14 +4659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446554,
-      "num": 446554,
-      "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
-      "onboard_time": 1729943358,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446306,
       "num": 468747,
       "word": "杨旭文唐诡开机现场哽咽了",
@@ -4697,6 +4713,14 @@
       "onboard_time": 1729480459,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442667,
+      "num": 442667,
+      "word": "程潇演技",
+      "onboard_time": 1729945340,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 441131,
@@ -5177,6 +5201,14 @@
       "onboard_time": 1729860318,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399365,
+      "num": 399365,
+      "word": "审判大梦归离",
+      "onboard_time": 1729946000,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 399041,
@@ -6259,14 +6291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316095,
-      "num": 316095,
-      "word": "程潇演技",
-      "onboard_time": 1729945340,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315417,
       "num": 256826,
       "word": "亲友是我的何老师",
@@ -6507,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302817,
+      "num": 302817,
+      "word": "WBG对战BLG",
+      "onboard_time": 1729943538,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 302438,
       "num": 302438,
       "word": "遭货车碾压的男孩被医生救回",
@@ -6673,6 +6705,14 @@
       "onboard_time": 1729912278,
       "rank": 33,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 294512,
+      "num": 255368,
+      "word": "殷世航看华晨宇演唱会",
+      "onboard_time": 1729946599,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 294192,
@@ -7059,14 +7099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278267,
-      "num": 278267,
-      "word": "肖战直播",
-      "onboard_time": 1729945579,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277577,
       "num": 273958,
       "word": "研究发现对抗抑郁最有效的运动",
@@ -7395,6 +7427,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 263305,
+      "num": 255190,
+      "word": "金秀美死于高血糖休克",
+      "onboard_time": 1729945938,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263199,
       "num": 344101,
       "word": "酒店订单订后即焚功能引争议",
@@ -7449,14 +7489,6 @@
       "onboard_time": 1729665378,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 260553,
-      "num": 260553,
-      "word": "WBG对战BLG",
-      "onboard_time": 1729943538,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 260493,
@@ -7544,6 +7576,14 @@
       "word": "北方多地气温已是冬日模式",
       "onboard_time": 1729476438,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254490,
+      "num": 254490,
+      "word": "余华英是如何物色和拐卖儿童的",
+      "onboard_time": 1729945819,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -7793,6 +7833,14 @@
       "onboard_time": 1729418839,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 245546,
+      "num": 245546,
+      "word": "严浩翔电竞男主怼脸拍",
+      "onboard_time": 1729945159,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 245511,
@@ -8131,14 +8179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233258,
-      "num": 233258,
-      "word": "金秀美死于高血糖休克",
-      "onboard_time": 1729945938,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233184,
       "num": 233184,
       "word": "杨鸣暴怒",
@@ -8371,14 +8411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228725,
-      "num": 228725,
-      "word": "余华英是如何物色和拐卖儿童的",
-      "onboard_time": 1729945819,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228220,
       "num": 228220,
       "word": "爸爸化作蝴蝶送女儿出嫁",
@@ -8417,14 +8449,6 @@
       "onboard_time": 1729754418,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227105,
-      "num": 227105,
-      "word": "审判大梦归离",
-      "onboard_time": 1729946000,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 227052,
@@ -9163,6 +9187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210056,
+      "num": 210056,
+      "word": "陈都灵圈内人缘",
+      "onboard_time": 1729945938,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210038,
       "num": 210038,
       "word": "余华英5000元亲手卖了儿子",
@@ -9321,14 +9353,6 @@
       "onboard_time": 1729606641,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207444,
-      "num": 207444,
-      "word": "严浩翔电竞男主怼脸拍",
-      "onboard_time": 1729945159,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 207397,
@@ -12291,14 +12315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 157771,
-      "num": 157771,
-      "word": "陈都灵圈内人缘",
-      "onboard_time": 1729945938,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157485,
       "num": 250612,
       "word": "没想到罗慎远留的是遗书",
@@ -12521,6 +12537,14 @@
       "onboard_time": 1729658779,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152984,
+      "num": 152984,
+      "word": "好团圆",
+      "onboard_time": 1729946541,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 152894,
@@ -13000,6 +13024,14 @@
       "word": "威少掘金首秀",
       "onboard_time": 1729834220,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145806,
+      "num": 145806,
+      "word": "赵继伟受伤",
+      "onboard_time": 1729946900,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -15171,14 +15203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113204,
-      "num": 515713,
-      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
-      "onboard_time": 1729945280,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112944,
       "num": 112944,
       "word": "勇士vs爵士",
@@ -15819,6 +15843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98919,
+      "num": 315619,
+      "word": "Bin扔衣服",
+      "onboard_time": 1729946061,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98633,
       "num": 98633,
       "word": "卓沅直播",
@@ -16144,14 +16176,6 @@
       "word": "T1晋级S14四强",
       "onboard_time": 1729349244,
       "rank": 48,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 88919,
-      "num": 315619,
-      "word": "Bin扔衣服",
-      "onboard_time": 1729946061,
-      "rank": 19,
       "category": "电竞"
     },
     {
@@ -16995,6 +17019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64087,
+      "num": 526979,
+      "word": "1.45万吨桥梁墩体转体有多震撼",
+      "onboard_time": 1729946599,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64028,
       "num": 434543,
       "word": "北京教育考试院辟谣",
@@ -17225,6 +17257,14 @@
       "onboard_time": 1729899195,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57652,
+      "num": 151429,
+      "word": "杭州有菜场推出代炒服务已20多年",
+      "onboard_time": 1729946477,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57622,
@@ -17800,6 +17840,14 @@
       "word": "为什么一旦开始整容就停不下来",
       "onboard_time": 1729909397,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45721,
+      "num": 818504,
+      "word": "这项工程奇迹创下多个世界第一",
+      "onboard_time": 1729946360,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -19259,6 +19307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26450,
+      "num": 497943,
+      "word": "战至巅峰人手一台iQOO13",
+      "onboard_time": 1729944260,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26388,
       "num": 190064,
       "word": "OPPO无影抓拍国产大飞机",
@@ -19489,14 +19545,6 @@
       "onboard_time": 1729712951,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23293,
-      "num": 463751,
-      "word": "战至巅峰人手一台iQOO13",
-      "onboard_time": 1729944260,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 23172,
@@ -20369,14 +20417,6 @@
       "onboard_time": 1729929617,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 5845,
-      "num": 818504,
-      "word": "这项工程奇迹创下多个世界第一",
-      "onboard_time": 1729946360,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5625,
