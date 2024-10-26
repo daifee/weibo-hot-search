@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729942519354,
+  "endTime": 1729946380638,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3215844,
-      "num": 477243,
+      "num": 1673186,
       "word": "黄磊 饭不是我做的放心吃",
       "onboard_time": 1729935739,
       "rank": 11,
@@ -219,6 +219,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1049302,
+      "num": 811802,
+      "word": "余华英老家亲属发声",
+      "onboard_time": 1729941138,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047664,
       "num": 1047664,
       "word": "辛芷蕾连头皮都打了黑粉",
@@ -241,6 +249,22 @@
       "onboard_time": 1729909397,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 885973,
+      "num": 501372,
+      "word": "男孩被同学打致重伤智力不到5岁",
+      "onboard_time": 1729941560,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884168,
+      "num": 471234,
+      "word": "余华英丈夫越狱后多次拐卖儿童",
+      "onboard_time": 1729943839,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866306,
@@ -443,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 561752,
+      "num": 561752,
+      "word": "明日方舟",
+      "onboard_time": 1729933397,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 557871,
       "num": 557871,
       "word": "美国请求中国出借月壤",
@@ -547,20 +579,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 458487,
-      "num": 458487,
-      "word": "余华英老家亲属发声",
-      "onboard_time": 1729941138,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453478,
       "num": 453478,
       "word": "差点没认出周一围",
       "onboard_time": 1729898417,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446554,
+      "num": 446554,
+      "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
+      "onboard_time": 1729943358,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438553,
@@ -585,6 +617,14 @@
       "onboard_time": 1729914978,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431946,
+      "num": 431946,
+      "word": "边伯贤cos财神爷",
+      "onboard_time": 1729941980,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 426626,
@@ -811,20 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319003,
-      "num": 319003,
-      "word": "男孩被同学打致重伤智力不到5岁",
-      "onboard_time": 1729941560,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317275,
       "num": 317275,
       "word": "伊以冲突",
       "onboard_time": 1729907058,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 316095,
+      "num": 316095,
+      "word": "程潇演技",
+      "onboard_time": 1729945340,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 311728,
@@ -859,8 +899,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 296795,
-      "num": 203791,
+      "raw_hot": 302438,
+      "num": 302438,
+      "word": "遭货车碾压的男孩被医生救回",
+      "onboard_time": 1729935019,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301729,
+      "num": 301729,
       "word": "戚薇说学历只能算一个加分项",
       "onboard_time": 1729941439,
       "rank": 41,
@@ -923,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283421,
-      "num": 324102,
-      "word": "边伯贤cos财神爷",
-      "onboard_time": 1729941980,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280321,
       "num": 280321,
       "word": "云南橙连夜改名成哀牢山冰糖橙",
@@ -945,6 +985,14 @@
       "onboard_time": 1729916178,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278267,
+      "num": 278267,
+      "word": "肖战直播",
+      "onboard_time": 1729945579,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 277545,
@@ -1011,12 +1059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260553,
+      "num": 260553,
+      "word": "WBG对战BLG",
+      "onboard_time": 1729943538,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258174,
       "num": 321351,
       "word": "麦当劳1把铲子免费板烧",
       "onboard_time": 1729924998,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 253600,
+      "num": 253600,
+      "word": "全智贤腹肌大片",
+      "onboard_time": 1729945219,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 253255,
@@ -1059,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247174,
+      "num": 247174,
+      "word": "覃海洋200蛙金牌",
+      "onboard_time": 1729944139,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242391,
       "num": 244532,
       "word": "迪丽热巴包场辛芷蕾新片",
@@ -1099,6 +1171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233258,
+      "num": 233258,
+      "word": "金秀美死于高血糖休克",
+      "onboard_time": 1729945938,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "名侦探学院8",
@@ -1123,6 +1203,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228725,
+      "num": 228725,
+      "word": "余华英是如何物色和拐卖儿童的",
+      "onboard_time": 1729945819,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227105,
+      "num": 227105,
+      "word": "审判大梦归离",
+      "onboard_time": 1729946000,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225915,
       "num": 225915,
       "word": "王者荣耀",
@@ -1137,14 +1233,6 @@
       "onboard_time": 1729908618,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220758,
-      "num": 220758,
-      "word": "明日方舟",
-      "onboard_time": 1729933397,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 213672,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1729917318,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207444,
+      "num": 207444,
+      "word": "严浩翔电竞男主怼脸拍",
+      "onboard_time": 1729945159,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 207226,
@@ -1329,6 +1425,14 @@
       "onboard_time": 1729937419,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191039,
+      "num": 191039,
+      "word": "小水仿妆柳智敏",
+      "onboard_time": 1729943059,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 189949,
@@ -1499,6 +1603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 169345,
+      "num": 438793,
+      "word": "余依婷200混金牌",
+      "onboard_time": 1729945579,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169213,
       "num": 429199,
       "word": "金饰价格升至813元",
@@ -1555,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164449,
+      "num": 164449,
+      "word": "黄子弘凡演唱会",
+      "onboard_time": 1729945759,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162883,
       "num": 162883,
       "word": "新娘用生菜做手捧花水果装饰婚车",
@@ -1587,6 +1707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157771,
+      "num": 157771,
+      "word": "陈都灵圈内人缘",
+      "onboard_time": 1729945938,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156786,
       "num": 156786,
       "word": "雅真的让妻子在披哥闪耀了",
@@ -1601,6 +1729,14 @@
       "onboard_time": 1729900456,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153432,
+      "num": 153432,
+      "word": "游客对野生东北虎说我是本地的",
+      "onboard_time": 1729942879,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152400,
@@ -1851,6 +1987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130306,
+      "num": 130306,
+      "word": "戚薇经常发拍立得的漂亮姐姐",
+      "onboard_time": 1729943599,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128401,
+      "num": 128401,
+      "word": "给媳妇定蛋糕的医生顺手救了一个家",
+      "onboard_time": 1729946061,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128112,
       "num": 128112,
       "word": "娜扎大梦归离演神女",
@@ -2027,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113204,
+      "num": 515713,
+      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
+      "onboard_time": 1729945280,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112944,
       "num": 112944,
       "word": "勇士vs爵士",
@@ -2177,6 +2337,14 @@
       "onboard_time": 1729868001,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88919,
+      "num": 315619,
+      "word": "Bin扔衣服",
+      "onboard_time": 1729946061,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 88682,
@@ -2547,12 +2715,28 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 32011,
+      "num": 540409,
+      "word": "神十九发射场区全系统合练",
+      "onboard_time": 1729945579,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31497,
       "num": 371952,
       "word": "白宫在以色列对伊朗打击前收到通知",
       "onboard_time": 1729910297,
       "rank": 14,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 25622,
+      "num": 312568,
+      "word": "iQOO13战至巅峰",
+      "onboard_time": 1729942039,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 24644,
@@ -2563,11 +2747,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23306,
-      "num": 194275,
-      "word": "iQOO13战至巅峰",
-      "onboard_time": 1729942039,
-      "rank": 33,
+      "raw_hot": 23293,
+      "num": 463751,
+      "word": "战至巅峰人手一台iQOO13",
+      "onboard_time": 1729944260,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2643,6 +2827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 5845,
+      "num": 818504,
+      "word": "这项工程奇迹创下多个世界第一",
+      "onboard_time": 1729946360,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3512,
       "num": 781897,
       "word": "万千气象看北京",
@@ -2666,6 +2858,9 @@
     },
     {
       "word": "#中国共产党是人民的党#"
+    },
+    {
+      "word": "#为人民群众做好事办实事解难事#"
     }
   ]
 }
