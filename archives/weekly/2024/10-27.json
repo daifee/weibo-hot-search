@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729963171371,
+  "endTime": 1729964287909,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194383,
+      "num": 134336,
+      "word": "被醉汉强吻女子2天都不敢睡",
+      "onboard_time": 1729962616,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183061,
       "num": 183061,
       "word": "Bin 重铸LPL荣光",
@@ -419,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102098,
+      "num": 287868,
+      "word": "人造宝石或进一步降价",
+      "onboard_time": 1729962136,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98819,
       "num": 98819,
       "word": "全华班时隔11年晋级S赛决赛",
@@ -427,12 +443,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92808,
-      "num": 92808,
-      "word": "被醉汉强吻女子2天都不敢睡",
-      "onboard_time": 1729962616,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 87852,
+      "num": 87852,
+      "word": "迪丽热巴包场乔妍的心事",
+      "onboard_time": 1729963695,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 57322,
+      "num": 61373,
+      "word": "HYBE报告Kpop大点兵",
+      "onboard_time": 1729964114,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 52942,
@@ -443,15 +467,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30421,
-      "num": 287868,
-      "word": "人造宝石或进一步降价",
-      "onboard_time": 1729962136,
+      "raw_hot": 20736,
+      "num": 218588,
+      "word": "以方称参与空袭飞机已安全返回",
+      "onboard_time": 1729962316,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
-      "raw_hot": 16269,
+      "raw_hot": 16781,
       "num": 735880,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,

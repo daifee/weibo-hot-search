@@ -1,0 +1,410 @@
+{
+  "runTime": 1729964287909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805712,
+        "num": 805712,
+        "word": "李昊 一半婚纱一半西服",
+        "onboard_time": 1729958060,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437943,
+        "num": 437943,
+        "word": "刘青松哭了",
+        "onboard_time": 1729957459,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16781,
+        "num": 427021,
+        "word": "神十九发射场区全系统合练",
+        "onboard_time": 1729945579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421029,
+        "num": 421029,
+        "word": "黄磊 饭不是我做的放心吃",
+        "onboard_time": 1729935739,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343812,
+        "num": 343812,
+        "word": "外交部回应美国19.88亿美元对台军售",
+        "onboard_time": 1729958660,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252876,
+        "num": 252876,
+        "word": "30岁当然还可以觉得自己像小孩",
+        "onboard_time": 1729959918,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408947,
+        "num": 243536,
+        "word": "战至巅峰3冠军之夜",
+        "onboard_time": 1729936639,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400282,
+        "num": 235949,
+        "word": "郭敬明审美",
+        "onboard_time": 1729949360,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224879,
+        "num": 224879,
+        "word": "爷爷床头柜放罂粟孙子报警",
+        "onboard_time": 1729936100,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20736,
+        "num": 218588,
+        "word": "以方称参与空袭飞机已安全返回",
+        "onboard_time": 1729962316,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216941,
+        "num": 216941,
+        "word": "张淼怡大梦归离妆造",
+        "onboard_time": 1729955241,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214086,
+        "num": 214086,
+        "word": "赵露思生图live",
+        "onboard_time": 1729953801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185990,
+        "num": 185990,
+        "word": "余华英丈夫越狱后多次拐卖儿童",
+        "onboard_time": 1729943839,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185269,
+        "num": 185269,
+        "word": "麦琳 李行亮",
+        "onboard_time": 1729952840,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183720,
+        "num": 183720,
+        "word": "Uzi预测BLG夺冠",
+        "onboard_time": 1729959319,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155191,
+        "num": 155191,
+        "word": "杨幂粉色抹胸长裙梦回夏晚晴",
+        "onboard_time": 1729949901,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147052,
+        "num": 147052,
+        "word": "以军已完全摧毁加沙地带126所学校",
+        "onboard_time": 1729955660,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141131,
+        "num": 141131,
+        "word": "业主卧室改厕所被判改回去",
+        "onboard_time": 1729961716,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140750,
+        "num": 140750,
+        "word": "余华英老家亲属发声",
+        "onboard_time": 1729941138,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135591,
+        "num": 135591,
+        "word": "男孩被同学打致重伤智力不到5岁",
+        "onboard_time": 1729941560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 134336,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145061,
+        "num": 134090,
+        "word": "被入室强吻女子嘴唇被咬破担心传染病",
+        "onboard_time": 1729937419,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143391,
+        "num": 133934,
+        "word": "永夜星河",
+        "onboard_time": 1729949780,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132362,
+        "num": 132362,
+        "word": "大梦归离",
+        "onboard_time": 1729939998,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129890,
+        "num": 129890,
+        "word": "BLG晋级S14决赛",
+        "onboard_time": 1729954162,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115979,
+        "num": 115979,
+        "word": "桔子也没想到自己会有这么一天",
+        "onboard_time": 1729958540,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109848,
+        "num": 109848,
+        "word": "肖战直播",
+        "onboard_time": 1729945579,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108938,
+        "num": 108938,
+        "word": "白百何新剧这段比短剧还爽",
+        "onboard_time": 1729960938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107798,
+        "num": 107798,
+        "word": "花少5播放量超过花少6",
+        "onboard_time": 1729936158,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106434,
+        "num": 106434,
+        "word": "杨幂辅助丁程鑫存活率为零",
+        "onboard_time": 1729958899,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720074,
+        "num": 105967,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102098,
+        "num": 102098,
+        "word": "人造宝石或进一步降价",
+        "onboard_time": 1729962136,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96009,
+        "num": 96009,
+        "word": "招聘人员解答女生多次投简历被拒",
+        "onboard_time": 1729951341,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94395,
+        "num": 94395,
+        "word": "WBG对战BLG",
+        "onboard_time": 1729943538,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90143,
+        "num": 90143,
+        "word": "中国首批太空旅游船票上架即售罄",
+        "onboard_time": 1729955782,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87852,
+        "num": 87852,
+        "word": "迪丽热巴包场乔妍的心事",
+        "onboard_time": 1729963695,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87485,
+        "num": 87485,
+        "word": "丁程鑫18秒挥了5次手",
+        "onboard_time": 1729959378,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84147,
+        "num": 84147,
+        "word": "WBG止步S14四强",
+        "onboard_time": 1729954704,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83439,
+        "num": 83439,
+        "word": "小虎 抽象",
+        "onboard_time": 1729951943,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82310,
+        "num": 82310,
+        "word": "樊振东姆巴佩合影",
+        "onboard_time": 1729953620,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80173,
+        "num": 80173,
+        "word": "刘青松 大家加油",
+        "onboard_time": 1729957700,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76928,
+        "num": 76928,
+        "word": "成毅把难过的事想了遍还是没忍住",
+        "onboard_time": 1729955121,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75653,
+        "num": 75653,
+        "word": "你好星期六下期是锦绣安宁",
+        "onboard_time": 1729954939,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73116,
+        "num": 73116,
+        "word": "Bin 重铸LPL荣光",
+        "onboard_time": 1729956440,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72336,
+        "num": 72336,
+        "word": "辛芷蕾工作室的海报没有辛芷蕾",
+        "onboard_time": 1729954939,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66382,
+        "num": 66382,
+        "word": "审判大梦归离",
+        "onboard_time": 1729946000,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65585,
+        "num": 65585,
+        "word": "张杰又被堵在了路上",
+        "onboard_time": 1729955002,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64242,
+        "num": 64242,
+        "word": "潘展乐打破张琳15年前800自纪录",
+        "onboard_time": 1729954403,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61375,
+        "num": 61375,
+        "word": "广东男篮签约莫兰德",
+        "onboard_time": 1729958119,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57322,
+        "num": 61373,
+        "word": "HYBE报告Kpop大点兵",
+        "onboard_time": 1729964114,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民群众做好事办实事解难事#"
+    }
+  }
+}
