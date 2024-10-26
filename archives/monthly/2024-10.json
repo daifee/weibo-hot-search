@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1729960867017,
+  "endTime": 1729963171371,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -7739,6 +7739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 854069,
+      "num": 854069,
+      "word": "李昊 一半婚纱一半西服",
+      "onboard_time": 1729958060,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 853434,
       "num": 593385,
       "word": "残雪 诺贝尔文学奖提名",
@@ -13449,14 +13457,6 @@
       "onboard_time": 1729314439,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 574079,
-      "num": 493235,
-      "word": "李昊 一半婚纱一半西服",
-      "onboard_time": 1729958060,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 574078,
@@ -22713,6 +22713,14 @@
       "onboard_time": 1727860697,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 327163,
+      "num": 377667,
+      "word": "30岁当然还可以觉得自己像小孩",
+      "onboard_time": 1729959918,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326715,
@@ -32467,6 +32475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221306,
+      "num": 221306,
+      "word": "Uzi预测BLG夺冠",
+      "onboard_time": 1729959319,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221234,
       "num": 221234,
       "word": "王楚钦梁靖崑3比2林高远林诗栋",
@@ -37841,14 +37857,6 @@
       "onboard_time": 1729249520,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196531,
-      "num": 180481,
-      "word": "Uzi预测BLG夺冠",
-      "onboard_time": 1729959319,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 196524,
@@ -45675,6 +45683,14 @@
       "category": "美食,科学科普"
     },
     {
+      "raw_hot": 165788,
+      "num": 165788,
+      "word": "桔子也没想到自己会有这么一天",
+      "onboard_time": 1729958540,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165726,
       "num": 165726,
       "word": "骄阳似我",
@@ -50481,6 +50497,14 @@
       "onboard_time": 1729217899,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147498,
+      "num": 147498,
+      "word": "业主卧室改厕所被判改回去",
+      "onboard_time": 1729961716,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147465,
@@ -57563,6 +57587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119888,
+      "num": 119888,
+      "word": "白百何新剧这段比短剧还爽",
+      "onboard_time": 1729960938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119818,
       "num": 119818,
       "word": "高盛上调中国股市至超配",
@@ -61219,14 +61251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103502,
-      "num": 377667,
-      "word": "30岁当然还可以觉得自己像小孩",
-      "onboard_time": 1729959918,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103467,
       "num": 219855,
       "word": "杨怡现场还原moon姐金句",
@@ -62993,6 +63017,14 @@
       "onboard_time": 1729736117,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92808,
+      "num": 92808,
+      "word": "被醉汉强吻女子2天都不敢睡",
+      "onboard_time": 1729962616,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92730,
@@ -74312,6 +74344,14 @@
       "word": "听泉鉴宝停播公司人员称其太累要休息",
       "onboard_time": 1728963559,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30421,
+      "num": 287868,
+      "word": "人造宝石或进一步降价",
+      "onboard_time": 1729962136,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

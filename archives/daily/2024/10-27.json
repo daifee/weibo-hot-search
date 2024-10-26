@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729960867017,
+  "endTime": 1729963171371,
   "band_list": [
     {
       "raw_hot": 1055135,
@@ -27,20 +27,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 854069,
+      "num": 854069,
+      "word": "李昊 一半婚纱一半西服",
+      "onboard_time": 1729958060,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 728974,
       "num": 728974,
       "word": "郭敬明审美",
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 574079,
-      "num": 493235,
-      "word": "李昊 一半婚纱一半西服",
-      "onboard_time": 1729958060,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 567892,
@@ -57,6 +57,14 @@
       "onboard_time": 1729955241,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540335,
+      "num": 540335,
+      "word": "战至巅峰3冠军之夜",
+      "onboard_time": 1729936639,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 523720,
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373365,
-      "num": 337653,
-      "word": "战至巅峰3冠军之夜",
-      "onboard_time": 1729936639,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345073,
       "num": 345073,
       "word": "余华英丈夫越狱后多次拐卖儿童",
@@ -121,6 +121,14 @@
       "onboard_time": 1729954939,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327163,
+      "num": 377667,
+      "word": "30岁当然还可以觉得自己像小孩",
+      "onboard_time": 1729959918,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314252,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221306,
+      "num": 221306,
+      "word": "Uzi预测BLG夺冠",
+      "onboard_time": 1729959319,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220401,
       "num": 220401,
       "word": "花少5播放量超过花少6",
@@ -249,14 +265,6 @@
       "onboard_time": 1729959378,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196531,
-      "num": 180481,
-      "word": "Uzi预测BLG夺冠",
-      "onboard_time": 1729959319,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 183061,
@@ -281,6 +289,14 @@
       "onboard_time": 1729955002,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165788,
+      "num": 165788,
+      "word": "桔子也没想到自己会有这么一天",
+      "onboard_time": 1729958540,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159721,
@@ -320,6 +336,14 @@
       "word": "中国首批太空旅游船票上架即售罄",
       "onboard_time": 1729955782,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147498,
+      "num": 147498,
+      "word": "业主卧室改厕所被判改回去",
+      "onboard_time": 1729961716,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -379,20 +403,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119888,
+      "num": 119888,
+      "word": "白百何新剧这段比短剧还爽",
+      "onboard_time": 1729960938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119632,
       "num": 119632,
       "word": "殷世航看华晨宇演唱会",
       "onboard_time": 1729946599,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103502,
-      "num": 377667,
-      "word": "30岁当然还可以觉得自己像小孩",
-      "onboard_time": 1729959918,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98819,
@@ -403,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92808,
+      "num": 92808,
+      "word": "被醉汉强吻女子2天都不敢睡",
+      "onboard_time": 1729962616,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52942,
       "num": 754896,
       "word": "这项工程奇迹创下多个世界第一",
@@ -411,7 +443,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11478,
+      "raw_hot": 30421,
+      "num": 287868,
+      "word": "人造宝石或进一步降价",
+      "onboard_time": 1729962136,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16269,
       "num": 735880,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,
