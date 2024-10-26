@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729947316048,
+  "endTime": 1729949114318,
   "band_list": [
     {
       "raw_hot": 3222200,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3215844,
-      "num": 1673186,
+      "num": 1689759,
       "word": "黄磊 饭不是我做的放心吃",
       "onboard_time": 1729935739,
       "rank": 11,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1142813,
+      "num": 657289,
+      "word": "余华英丈夫越狱后多次拐卖儿童",
+      "onboard_time": 1729943839,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114884,
       "num": 1114884,
       "word": "伦敦一女子设计出防抢手机壳",
@@ -235,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 956616,
-      "num": 657289,
-      "word": "余华英丈夫越狱后多次拐卖儿童",
-      "onboard_time": 1729943839,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 955222,
       "num": 955222,
       "word": "侯明昊 花少",
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846181,
+      "num": 620397,
+      "word": "肖战直播",
+      "onboard_time": 1729945579,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822391,
       "num": 822391,
       "word": "宋茜对得起所有人 除了蒋欣",
@@ -299,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 805357,
-      "num": 620397,
-      "word": "肖战直播",
-      "onboard_time": 1729945579,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 804735,
       "num": 1128757,
       "word": "以色列称已对伊朗发动袭击",
@@ -321,6 +321,14 @@
       "onboard_time": 1729924159,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 778728,
+      "num": 608904,
+      "word": "审判大梦归离",
+      "onboard_time": 1729946000,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 755622,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 703545,
-      "num": 321315,
+      "num": 324900,
       "word": "被入室强吻女子嘴唇被咬破担心传染病",
       "onboard_time": 1729937419,
       "rank": 22,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608636,
+      "num": 608636,
+      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
+      "onboard_time": 1729945280,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607379,
       "num": 407230,
       "word": "可可西里网红狼被游客喂成胖球",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 586349,
-      "num": 481259,
+      "num": 491510,
       "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
       "onboard_time": 1729943358,
       "rank": 13,
@@ -547,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 479842,
-      "num": 515713,
-      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
-      "onboard_time": 1729945280,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 479069,
+      "num": 479069,
+      "word": "殷世航看华晨宇演唱会",
+      "onboard_time": 1729946599,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 477697,
@@ -611,8 +627,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442667,
-      "num": 442667,
+      "raw_hot": 451076,
+      "num": 451076,
       "word": "程潇演技",
       "onboard_time": 1729945340,
       "rank": 18,
@@ -691,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415170,
+      "num": 415170,
+      "word": "WBG对战BLG",
+      "onboard_time": 1729943538,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 403303,
       "num": 403303,
       "word": "寇振海cos陆振华",
       "onboard_time": 1729932379,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 399365,
-      "num": 399365,
-      "word": "审判大梦归离",
-      "onboard_time": 1729946000,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 398407,
@@ -737,6 +753,14 @@
       "onboard_time": 1729863079,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390669,
+      "num": 390669,
+      "word": "Bin扔衣服",
+      "onboard_time": 1729946061,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 386888,
@@ -891,6 +915,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 316622,
+      "num": 316622,
+      "word": "余华英是如何物色和拐卖儿童的",
+      "onboard_time": 1729945819,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313399,
+      "num": 313399,
+      "word": "张本美和vs申裕斌",
+      "onboard_time": 1729948399,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311728,
       "num": 311728,
       "word": "张本智和救4赛点逆转晋级",
@@ -923,12 +963,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 302817,
-      "num": 302817,
-      "word": "WBG对战BLG",
-      "onboard_time": 1729943538,
-      "rank": 26,
-      "category": "电竞"
+      "raw_hot": 303806,
+      "num": 303806,
+      "word": "赵继伟受伤",
+      "onboard_time": 1729946900,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 302438,
@@ -953,14 +993,6 @@
       "onboard_time": 1729912278,
       "rank": 33,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 294512,
-      "num": 255368,
-      "word": "殷世航看华晨宇演唱会",
-      "onboard_time": 1729946599,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 294192,
@@ -1107,14 +1139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 254490,
-      "num": 254490,
-      "word": "余华英是如何物色和拐卖儿童的",
-      "onboard_time": 1729945819,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253600,
       "num": 253600,
       "word": "全智贤腹肌大片",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1729926198,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251450,
+      "num": 251450,
+      "word": "郑秀晶30岁生日照",
+      "onboard_time": 1729948342,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 251097,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1729945159,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244259,
+      "num": 244259,
+      "word": "陈都灵圈内人缘",
+      "onboard_time": 1729945938,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 242391,
@@ -1243,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228091,
+      "num": 228091,
+      "word": "杨幂战至巅峰直播镜头",
+      "onboard_time": 1729948041,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225915,
       "num": 225915,
       "word": "王者荣耀",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1729908618,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225310,
+      "num": 526979,
+      "word": "1.45万吨桥梁墩体转体有多震撼",
+      "onboard_time": 1729946599,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213672,
@@ -1283,12 +1339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210056,
-      "num": 210056,
-      "word": "陈都灵圈内人缘",
-      "onboard_time": 1729945938,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "英雄联盟",
+      "onboard_time": 1729948702,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 210038,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1729922658,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193400,
+      "num": 193400,
+      "word": "画皮",
+      "onboard_time": 1729947921,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 191820,
@@ -1771,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151034,
+      "num": 151034,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1729948581,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150927,
       "num": 150927,
       "word": "李行亮嫌麦琳唠叨",
@@ -1841,14 +1913,6 @@
       "onboard_time": 1729903517,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145806,
-      "num": 145806,
-      "word": "赵继伟受伤",
-      "onboard_time": 1729946900,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 143447,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1729920678,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134948,
+      "num": 134948,
+      "word": "郑钦文决赛对手世界第155",
+      "onboard_time": 1729947619,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134135,
@@ -2291,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107571,
+      "num": 265290,
+      "word": "杭州有菜场推出代炒服务已20多年",
+      "onboard_time": 1729946477,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107491,
       "num": 107491,
       "word": "鹿晗和邓佳鑫互关",
@@ -2313,14 +2393,6 @@
       "onboard_time": 1729874057,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98919,
-      "num": 315619,
-      "word": "Bin扔衣服",
-      "onboard_time": 1729946061,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 98401,
@@ -2419,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78852,
+      "num": 818504,
+      "word": "这项工程奇迹创下多个世界第一",
+      "onboard_time": 1729946360,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77728,
       "num": 79072,
       "word": "四位专家会诊海水倒灌",
@@ -2483,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64087,
-      "num": 526979,
-      "word": "1.45万吨桥梁墩体转体有多震撼",
-      "onboard_time": 1729946599,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62684,
       "num": 276044,
       "word": "官方通报示众举报人令人生疑",
@@ -2529,14 +2601,6 @@
       "onboard_time": 1729899195,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57652,
-      "num": 151429,
-      "word": "杭州有菜场推出代炒服务已20多年",
-      "onboard_time": 1729946477,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55716,
@@ -2627,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45721,
-      "num": 818504,
-      "word": "这项工程奇迹创下多个世界第一",
-      "onboard_time": 1729946360,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44723,
       "num": 263106,
       "word": "有人直播饲养老鼠疑用来炒菜",
@@ -2697,6 +2753,22 @@
       "onboard_time": 1729885331,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39157,
+      "num": 212259,
+      "word": "伊朗已准备好回应以色列袭击",
+      "onboard_time": 1729948941,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 39096,
+      "num": 231436,
+      "word": "伊朗首都传出巨大爆炸声",
+      "onboard_time": 1729949061,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38798,
@@ -2763,6 +2835,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 33493,
+      "num": 497943,
+      "word": "战至巅峰人手一台iQOO13",
+      "onboard_time": 1729944260,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32011,
       "num": 540409,
       "word": "神十九发射场区全系统合练",
@@ -2777,14 +2857,6 @@
       "onboard_time": 1729910297,
       "rank": 14,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 26450,
-      "num": 497943,
-      "word": "战至巅峰人手一台iQOO13",
-      "onboard_time": 1729944260,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 25622,
@@ -2901,6 +2973,9 @@
     },
     {
       "word": "#为人民群众做好事办实事解难事#"
+    },
+    {
+      "word": "#大金砖合作高光时刻#"
     }
   ]
 }

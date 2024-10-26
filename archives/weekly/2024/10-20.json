@@ -1,6 +1,6 @@
 {
   "startTime": 1729355193836,
-  "endTime": 1729947316048,
+  "endTime": 1729949114318,
   "band_list": [
     {
       "raw_hot": 11587288,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3215844,
-      "num": 1673186,
+      "num": 1689759,
       "word": "黄磊 饭不是我做的放心吃",
       "onboard_time": 1729935739,
       "rank": 11,
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1142813,
+      "num": 657289,
+      "word": "余华英丈夫越狱后多次拐卖儿童",
+      "onboard_time": 1729943839,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1141410,
       "num": 1141410,
       "word": "福州机场",
@@ -1827,14 +1835,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 956616,
-      "num": 657289,
-      "word": "余华英丈夫越狱后多次拐卖儿童",
-      "onboard_time": 1729943839,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 955222,
       "num": 955222,
       "word": "侯明昊 花少",
@@ -2291,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846181,
+      "num": 620397,
+      "word": "肖战直播",
+      "onboard_time": 1729945579,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844579,
       "num": 844579,
       "word": "雷军开法拉利引热议",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1729754059,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 805357,
-      "num": 620397,
-      "word": "肖战直播",
-      "onboard_time": 1729945579,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 804735,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1729716730,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778728,
+      "num": 608904,
+      "word": "审判大梦归离",
+      "onboard_time": 1729946000,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 777724,
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 703545,
-      "num": 321315,
+      "num": 324900,
       "word": "被入室强吻女子嘴唇被咬破担心传染病",
       "onboard_time": 1729937419,
       "rank": 22,
@@ -3475,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608636,
+      "num": 608636,
+      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
+      "onboard_time": 1729945280,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608120,
       "num": 1097299,
       "word": "小米15",
@@ -3636,7 +3652,7 @@
     },
     {
       "raw_hot": 586349,
-      "num": 481259,
+      "num": 491510,
       "word": "妈妈用孙颖莎立牌给女儿泪目惊喜",
       "onboard_time": 1729943358,
       "rank": 13,
@@ -4371,12 +4387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479842,
-      "num": 515713,
-      "word": "江苏约50%筛查对象有幽门螺杆菌感染",
-      "onboard_time": 1729945280,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 479069,
+      "num": 479069,
+      "word": "殷世航看华晨宇演唱会",
+      "onboard_time": 1729946599,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 478621,
@@ -4635,6 +4651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 451076,
+      "num": 451076,
+      "word": "程潇演技",
+      "onboard_time": 1729945340,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451028,
       "num": 451028,
       "word": "邱贻可说孙颖莎也有疲劳的时候",
@@ -4713,14 +4737,6 @@
       "onboard_time": 1729480459,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442667,
-      "num": 442667,
-      "word": "程潇演技",
-      "onboard_time": 1729945340,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 441131,
@@ -5011,6 +5027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415170,
+      "num": 415170,
+      "word": "WBG对战BLG",
+      "onboard_time": 1729943538,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 414987,
       "num": 393307,
       "word": "邱贻可回应全网都在心疼孙颖莎",
@@ -5203,14 +5227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399365,
-      "num": 399365,
-      "word": "审判大梦归离",
-      "onboard_time": 1729946000,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 399041,
       "num": 399041,
       "word": "长丰学校食品安全问题调查情况通报",
@@ -5273,6 +5289,14 @@
       "onboard_time": 1729370291,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390669,
+      "num": 390669,
+      "word": "Bin扔衣服",
+      "onboard_time": 1729946061,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 390223,
@@ -6283,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316622,
+      "num": 316622,
+      "word": "余华英是如何物色和拐卖儿童的",
+      "onboard_time": 1729945819,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316297,
       "num": 348167,
       "word": "奶茶起名怎么越来越奇怪",
@@ -6320,6 +6352,14 @@
       "word": "郑钦文vs费尔南德斯",
       "onboard_time": 1729845857,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 313399,
+      "num": 313399,
+      "word": "张本美和vs申裕斌",
+      "onboard_time": 1729948399,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -6515,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303806,
+      "num": 303806,
+      "word": "赵继伟受伤",
+      "onboard_time": 1729946900,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303226,
       "num": 303226,
       "word": "张极 朱志鑫",
@@ -6529,14 +6577,6 @@
       "onboard_time": 1729569019,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302817,
-      "num": 302817,
-      "word": "WBG对战BLG",
-      "onboard_time": 1729943538,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 302438,
@@ -6705,14 +6745,6 @@
       "onboard_time": 1729912278,
       "rank": 33,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 294512,
-      "num": 255368,
-      "word": "殷世航看华晨宇演唱会",
-      "onboard_time": 1729946599,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 294192,
@@ -7579,14 +7611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254490,
-      "num": 254490,
-      "word": "余华英是如何物色和拐卖儿童的",
-      "onboard_time": 1729945819,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254024,
       "num": 254024,
       "word": "付航底色不是悲凉是passion",
@@ -7681,6 +7705,14 @@
       "onboard_time": 1729857018,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251450,
+      "num": 251450,
+      "word": "郑秀晶30岁生日照",
+      "onboard_time": 1729948342,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 251376,
@@ -7881,6 +7913,14 @@
       "onboard_time": 1729846039,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244259,
+      "num": 244259,
+      "word": "陈都灵圈内人缘",
+      "onboard_time": 1729945938,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 244100,
@@ -8427,6 +8467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228091,
+      "num": 228091,
+      "word": "杨幂战至巅峰直播镜头",
+      "onboard_time": 1729948041,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227900,
       "num": 227900,
       "word": "美国一幼童开枪打死一名婴儿",
@@ -8505,6 +8553,14 @@
       "onboard_time": 1729908618,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225310,
+      "num": 526979,
+      "word": "1.45万吨桥梁墩体转体有多震撼",
+      "onboard_time": 1729946599,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225232,
@@ -9187,12 +9243,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210056,
-      "num": 210056,
-      "word": "陈都灵圈内人缘",
-      "onboard_time": 1729945938,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "英雄联盟",
+      "onboard_time": 1729948702,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 210038,
@@ -10209,6 +10265,14 @@
       "onboard_time": 1729751898,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193400,
+      "num": 193400,
+      "word": "画皮",
+      "onboard_time": 1729947921,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 192997,
@@ -12659,6 +12723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151034,
+      "num": 151034,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1729948581,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150956,
       "num": 150956,
       "word": "声入人心",
@@ -13024,14 +13096,6 @@
       "word": "威少掘金首秀",
       "onboard_time": 1729834220,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145806,
-      "num": 145806,
-      "word": "赵继伟受伤",
-      "onboard_time": 1729946900,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -13761,6 +13825,14 @@
       "onboard_time": 1729425079,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134948,
+      "num": 134948,
+      "word": "郑钦文决赛对手世界第155",
+      "onboard_time": 1729947619,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134814,
@@ -15571,6 +15643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107571,
+      "num": 265290,
+      "word": "杭州有菜场推出代炒服务已20多年",
+      "onboard_time": 1729946477,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107478,
       "num": 107478,
       "word": "马龙 俯冲的灵魂",
@@ -15841,14 +15921,6 @@
       "onboard_time": 1729838598,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98919,
-      "num": 315619,
-      "word": "Bin扔衣服",
-      "onboard_time": 1729946061,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 98633,
@@ -16547,6 +16619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78852,
+      "num": 818504,
+      "word": "这项工程奇迹创下多个世界第一",
+      "onboard_time": 1729946360,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78586,
       "num": 322455,
       "word": "吴宇恒剧透和董思怡浪漫到天亮",
@@ -17019,14 +17099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64087,
-      "num": 526979,
-      "word": "1.45万吨桥梁墩体转体有多震撼",
-      "onboard_time": 1729946599,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64028,
       "num": 434543,
       "word": "北京教育考试院辟谣",
@@ -17257,14 +17329,6 @@
       "onboard_time": 1729899195,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57652,
-      "num": 151429,
-      "word": "杭州有菜场推出代炒服务已20多年",
-      "onboard_time": 1729946477,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57622,
@@ -17843,14 +17907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45721,
-      "num": 818504,
-      "word": "这项工程奇迹创下多个世界第一",
-      "onboard_time": 1729946360,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45539,
       "num": 357069,
       "word": "华为nova在玩一种很新的开箱",
@@ -18185,6 +18241,22 @@
       "onboard_time": 1729512619,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39157,
+      "num": 212259,
+      "word": "伊朗已准备好回应以色列袭击",
+      "onboard_time": 1729948941,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 39096,
+      "num": 231436,
+      "word": "伊朗首都传出巨大爆炸声",
+      "onboard_time": 1729949061,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38923,
@@ -18721,6 +18793,14 @@
       "onboard_time": 1729829780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33493,
+      "num": 497943,
+      "word": "战至巅峰人手一台iQOO13",
+      "onboard_time": 1729944260,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 33474,
@@ -19305,14 +19385,6 @@
       "onboard_time": 1729362854,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26450,
-      "num": 497943,
-      "word": "战至巅峰人手一台iQOO13",
-      "onboard_time": 1729944260,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 26388,
@@ -20567,6 +20639,9 @@
     },
     {
       "word": "#为人民群众做好事办实事解难事#"
+    },
+    {
+      "word": "#大金砖合作高光时刻#"
     }
   ]
 }
