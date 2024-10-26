@@ -1,6 +1,6 @@
 {
   "startTime": 1729873682162,
-  "endTime": 1729911626298,
+  "endTime": 1729913171760,
   "band_list": [
     {
       "raw_hot": 2322765,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1782122,
+      "num": 397144,
+      "word": "杨幂包场乔妍的心事",
+      "onboard_time": 1729910718,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1500399,
       "num": 1500399,
       "word": "央视曝光电动自行车解限速乱象",
@@ -19,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1123681,
-      "num": 371652,
-      "word": "杨幂包场乔妍的心事",
-      "onboard_time": 1729910718,
-      "rank": 22,
-      "category": "电影"
+      "raw_hot": 1300149,
+      "num": 1300149,
+      "word": "丈夫称烧伤妈妈已经有了求生欲",
+      "onboard_time": 1729909758,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1114884,
@@ -83,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 733913,
+      "num": 686312,
+      "word": "家长称孩子因上课抬头被认定违纪",
+      "onboard_time": 1729907957,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732645,
       "num": 392038,
       "word": "妈妈可能正在经历最痛苦的十年",
@@ -107,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 686312,
-      "num": 686312,
-      "word": "家长称孩子因上课抬头被认定违纪",
-      "onboard_time": 1729907957,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 715442,
+      "num": 715442,
+      "word": "侯明昊 花少",
+      "onboard_time": 1729911196,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 666737,
@@ -193,14 +209,6 @@
       "onboard_time": 1729898417,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443789,
-      "num": 443789,
-      "word": "丈夫称烧伤妈妈已经有了求生欲",
-      "onboard_time": 1729909758,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438553,
@@ -291,8 +299,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331175,
+      "num": 331175,
+      "word": "成都一河道现浮尸",
+      "onboard_time": 1729911559,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322161,
-      "num": 371712,
+      "num": 397212,
       "word": "还原余华英11年拐卖17名儿童",
       "onboard_time": 1729909876,
       "rank": 20,
@@ -363,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278596,
+      "num": 442890,
+      "word": "以色列对伊朗袭击最新情况",
+      "onboard_time": 1729910838,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 277545,
       "num": 277545,
       "word": "以色列对伊朗发动第二轮袭击",
       "onboard_time": 1729907478,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 273894,
+      "num": 273894,
+      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
+      "onboard_time": 1729910838,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273628,
@@ -419,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213956,
-      "num": 213956,
-      "word": "妻子照顾烧伤90%丈夫两年创造奇迹",
-      "onboard_time": 1729910838,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 225539,
+      "num": 225539,
+      "word": "带小猫做绝育被它的眼神吓到",
+      "onboard_time": 1729908618,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 213672,
@@ -443,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207751,
+      "num": 224558,
+      "word": "何广智上过非诚勿扰",
+      "onboard_time": 1729912219,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207226,
       "num": 207226,
       "word": "小英恢复更新",
@@ -451,12 +491,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 202744,
-      "num": 237516,
-      "word": "侯明昊 花少",
-      "onboard_time": 1729911196,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "张雨霏汪顺芭莎封面",
+      "onboard_time": 1729912278,
+      "rank": 33,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 202353,
@@ -467,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190919,
+      "num": 190919,
+      "word": "以色列打击伊朗行动已结束",
+      "onboard_time": 1729912938,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 187699,
       "num": 187699,
       "word": "万圣节",
       "onboard_time": 1729906036,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186694,
-      "num": 186694,
-      "word": "带小猫做绝育被它的眼神吓到",
-      "onboard_time": 1729908618,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 185228,
@@ -491,11 +531,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183089,
+      "num": 183089,
+      "word": "王曼昱为DMD罕见病小朋友寄礼物",
+      "onboard_time": 1729912219,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183007,
       "num": 211999,
       "word": "烧伤妈妈丈夫回应喊停捐款",
       "onboard_time": 1729897574,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179414,
+      "num": 179414,
+      "word": "51岁阿姨打两份工的老年生活",
+      "onboard_time": 1729912758,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 174908,
+      "num": 174908,
+      "word": "包间搞得一团糟被收100元清洁费",
+      "onboard_time": 1729907359,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -523,20 +587,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 168493,
-      "num": 168493,
-      "word": "包间搞得一团糟被收100元清洁费",
-      "onboard_time": 1729907359,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168448,
       "num": 168448,
       "word": "如何看待酒店订单订后即焚",
       "onboard_time": 1729881132,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167829,
+      "num": 167829,
+      "word": "伊媒称伊朗已准备回应以色列侵略",
+      "onboard_time": 1729912637,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 165432,
@@ -579,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153144,
+      "num": 224353,
+      "word": "乔妍的心事上映",
+      "onboard_time": 1729906997,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152400,
       "num": 152400,
       "word": "布朗尼将被下放至G联盟",
@@ -601,6 +673,22 @@
       "onboard_time": 1729903517,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143591,
+      "num": 143591,
+      "word": "战至巅峰",
+      "onboard_time": 1729912457,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143447,
+      "num": 143447,
+      "word": "希尔德太香了",
+      "onboard_time": 1729911618,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 138836,
@@ -723,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123489,
+      "num": 383558,
+      "word": "以军称精确打击伊朗军事目标",
+      "onboard_time": 1729910358,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123171,
       "num": 123171,
       "word": "BIGBANG合体录综艺",
@@ -737,6 +833,14 @@
       "onboard_time": 1729852997,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117505,
+      "num": 117505,
+      "word": "总台记者手机拍下伊朗防空防御现场",
+      "onboard_time": 1729912698,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116640,
@@ -779,35 +883,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110401,
-      "num": 110401,
-      "word": "乔妍的心事上映",
-      "onboard_time": 1729906997,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 109536,
       "num": 101514,
       "word": "姐姐含泪说杨妞花真的了不起",
       "onboard_time": 1729895234,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109374,
-      "num": 442890,
-      "word": "以色列对伊朗袭击最新情况",
-      "onboard_time": 1729910838,
-      "rank": 9,
-      "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 109182,
-      "num": 109182,
-      "word": "成都一河道现浮尸",
-      "onboard_time": 1729911559,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -873,14 +953,6 @@
       "onboard_time": 1729896015,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96283,
-      "num": 383558,
-      "word": "以军称精确打击伊朗军事目标",
-      "onboard_time": 1729910358,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95084,
@@ -1055,6 +1127,14 @@
       "num": 371766,
       "word": "为什么一旦开始整容就停不下来",
       "onboard_time": 1729909397,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45482,
+      "num": 276044,
+      "word": "官方通报示众举报人令人生疑",
+      "onboard_time": 1729911916,
       "rank": 19,
       "category": "社会新闻"
     },
