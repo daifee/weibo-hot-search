@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/26 15:20:03
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/26 15:35:00
 </p>
 </blockquote>
 <p>
@@ -3165,6 +3165,12 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%93%B2%E5%AD%90%23" target="weibo">
+麦当劳铲子（热度：1204167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%AF%81%E4%B9%A6%E6%8C%82%E9%9D%A0%E9%99%B7%E9%98%B1%23" target="weibo">
 央视曝光证书挂靠陷阱（热度：1204128）
 </a>
@@ -4037,6 +4043,12 @@ TES对战T1（热度：1063834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E6%B5%AA%E5%A7%90%E6%8E%92%E7%BB%83%23" target="weibo">
 黄圣依回应缺席浪姐排练（热度：1047859）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%BF%9E%E5%A4%B4%E7%9A%AE%E9%83%BD%E6%89%93%E4%BA%86%E9%BB%91%E7%B2%89%23" target="weibo">
+辛芷蕾连头皮都打了黑粉（热度：1047664）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ aespa（热度：832836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%8C%E6%8F%A1%E4%BA%86%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%BB%91%E5%AE%A2%E5%AB%81%E7%A5%B8%E4%BB%96%E5%9B%BD%E7%9A%84%E8%AF%81%E6%8D%AE%23" target="weibo">
 中国掌握了美政府黑客嫁祸他国的证据（热度：822433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23kimi%23" target="weibo">
-kimi（热度：821907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%81%AF%E5%8F%91%E6%96%87%23" target="weibo">
-黑灯发文（热度：821258）
 </a>
 </li>
 
