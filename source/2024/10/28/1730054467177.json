@@ -1,0 +1,410 @@
+{
+  "runTime": 1730054467177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460837,
+        "num": 460837,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253398,
+        "num": 253398,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7730,
+        "num": 175177,
+        "word": "这件瓷壶静静美了700多年",
+        "onboard_time": 1730037382,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104889,
+        "num": 104889,
+        "word": "T1晋级S14决赛",
+        "onboard_time": 1730046199,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93880,
+        "num": 93880,
+        "word": "BLG决赛对战T1",
+        "onboard_time": 1730047037,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90056,
+        "num": 90056,
+        "word": "烧伤妈妈情况不好",
+        "onboard_time": 1730040141,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68695,
+        "num": 68695,
+        "word": "大藤沙月4比2张本美和",
+        "onboard_time": 1730046617,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61758,
+        "num": 68436,
+        "word": "镜头从严浩翔切到沈腾有多好笑",
+        "onboard_time": 1730032761,
+        "rank": 7,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 43087,
+        "num": 68421,
+        "word": "周深给杨幂提裙子",
+        "onboard_time": 1730042419,
+        "rank": 8,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 24116,
+        "num": 68044,
+        "word": "部分保暖用品卖断货",
+        "onboard_time": 1730052853,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176470,
+        "num": 67853,
+        "word": "Gumayusi喊话Bin",
+        "onboard_time": 1730048594,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168305,
+        "num": 67627,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90445,
+        "num": 67225,
+        "word": "GEN白赢一整年",
+        "onboard_time": 1730047757,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89664,
+        "num": 66965,
+        "word": "饶雪漫和翁青雅吃饭",
+        "onboard_time": 1730042060,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72878,
+        "num": 66695,
+        "word": "黄嘉千女儿14岁近照",
+        "onboard_time": 1730039902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66624,
+        "num": 66624,
+        "word": "林诗栋0比4F勒布伦",
+        "onboard_time": 1730037682,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62924,
+        "num": 62924,
+        "word": "Faker飞雷神",
+        "onboard_time": 1730043680,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56988,
+        "num": 56988,
+        "word": "23年前杀害女子真凶被找到时在服刑",
+        "onboard_time": 1730038581,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40071,
+        "num": 56890,
+        "word": "justsu直拍",
+        "onboard_time": 1730052432,
+        "rank": 18,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 37838,
+        "num": 56840,
+        "word": "张凯丽也体会到秦海璐周一围的苦了",
+        "onboard_time": 1730036360,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203467,
+        "num": 56652,
+        "word": "周雨彤边界感",
+        "onboard_time": 1730029699,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70728,
+        "num": 56627,
+        "word": "乐言 oner看不懂",
+        "onboard_time": 1730044398,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56527,
+        "num": 56527,
+        "word": "BLG",
+        "onboard_time": 1730047696,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55656,
+        "num": 55656,
+        "word": "29岁女生被脱口秀主持人喊大姐",
+        "onboard_time": 1730029160,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55341,
+        "num": 55341,
+        "word": "Faker第七次晋级决赛",
+        "onboard_time": 1730046379,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55208,
+        "num": 55208,
+        "word": "WTT蒙彼利埃冠军赛2024",
+        "onboard_time": 1730044758,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50978,
+        "num": 50978,
+        "word": "鞠婧祎薄荷绿长裙",
+        "onboard_time": 1730031739,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50833,
+        "num": 50833,
+        "word": "今年第21号台风康妮已经生成",
+        "onboard_time": 1730050814,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35691,
+        "num": 49871,
+        "word": "大梦归离",
+        "onboard_time": 1730025018,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35068,
+        "num": 49461,
+        "word": "演宁静把宁静看哭了",
+        "onboard_time": 1730036180,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147437,
+        "num": 49452,
+        "word": "Chovy还在补兵",
+        "onboard_time": 1730049973,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49431,
+        "num": 49431,
+        "word": "dl天秤",
+        "onboard_time": 1730047996,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42161,
+        "num": 42161,
+        "word": "谁说Faker老了",
+        "onboard_time": 1730048176,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42019,
+        "num": 42019,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41231,
+        "num": 41231,
+        "word": "阿森纳vs利物浦",
+        "onboard_time": 1730048535,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40823,
+        "num": 40823,
+        "word": "GEN止步S14四强",
+        "onboard_time": 1730046497,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40135,
+        "num": 40135,
+        "word": "网店2小时被水军坑走11万",
+        "onboard_time": 1730028678,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39145,
+        "num": 39145,
+        "word": "T1对战GEN",
+        "onboard_time": 1730033479,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37491,
+        "num": 37491,
+        "word": "塔斯汀门店回应汉堡肉是生的",
+        "onboard_time": 1730041881,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31148,
+        "num": 36091,
+        "word": "赵丽颖百花飞天东京金鹰金鸡五连击",
+        "onboard_time": 1730038880,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35359,
+        "num": 35359,
+        "word": "上一次全华班进决赛对手也是T1",
+        "onboard_time": 1730047696,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34397,
+        "num": 34397,
+        "word": "一个人真正靠谱的4种表现",
+        "onboard_time": 1730049913,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32950,
+        "num": 32950,
+        "word": "沈梦辰不含一根假发片的plog",
+        "onboard_time": 1730039001,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32667,
+        "num": 32667,
+        "word": "买房除了凑首付还要交这些钱",
+        "onboard_time": 1730044700,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31623,
+        "num": 31623,
+        "word": "2024年医保谈判竞价开始",
+        "onboard_time": 1730049434,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31331,
+        "num": 31331,
+        "word": "张予曦cos芈月",
+        "onboard_time": 1730037801,
+        "rank": 45,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 30014,
+        "num": 30014,
+        "word": "涵艺爆料Ruler离队原因",
+        "onboard_time": 1730038280,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29057,
+        "num": 30012,
+        "word": "杜华后悔一个人来看李梦",
+        "onboard_time": 1730042361,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27282,
+        "num": 30010,
+        "word": "Chovy 隐身",
+        "onboard_time": 1730046439,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26125,
+        "num": 30006,
+        "word": "韩国网友抵制HYBE旗下艺人",
+        "onboard_time": 1730027537,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个维度看习近平喀山之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730053680509,
+  "endTime": 1730054467177,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -3547,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24116,
+      "num": 74430,
+      "word": "部分保暖用品卖断货",
+      "onboard_time": 1730052853,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23938,
       "num": 23938,
       "word": "美防长称增强兵力部署保护以色列",
@@ -3643,14 +3651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13936,
-      "num": 74430,
-      "word": "部分保暖用品卖断货",
-      "onboard_time": 1730052853,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13770,
       "num": 370519,
       "word": "时代少年团组队教练Gemini",
@@ -3691,19 +3691,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7730,
+      "num": 201515,
+      "word": "这件瓷壶静静美了700多年",
+      "onboard_time": 1730037382,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7500,
       "num": 43993,
       "word": "4名高中生勇救七旬落水婆婆",
       "onboard_time": 1729976531,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6977,
-      "num": 201515,
-      "word": "这件瓷壶静静美了700多年",
-      "onboard_time": 1730037382,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
