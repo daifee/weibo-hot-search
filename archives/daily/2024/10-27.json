@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730017678355,
+  "endTime": 1730018545819,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 667390,
+      "num": 1106782,
+      "word": "虞书欣发的乱码文案",
+      "onboard_time": 1730015718,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 648279,
       "num": 368644,
       "word": "用人民币感受韩国物价",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483038,
+      "num": 483038,
+      "word": "初中学历研发出50类农业机械",
+      "onboard_time": 1730014278,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 472051,
       "num": 472051,
       "word": "许嵩 我到鸟巢只比唐僧取经少一年",
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433149,
-      "num": 433149,
-      "word": "初中学历研发出50类农业机械",
-      "onboard_time": 1730014278,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 432877,
       "num": 324159,
       "word": "秦昊披荆斩棘瘦了20斤",
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410341,
-      "num": 410341,
-      "word": "虞书欣发的乱码文案",
-      "onboard_time": 1730015718,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 415599,
+      "num": 341845,
+      "word": "电影今年二十二12月全国上映",
+      "onboard_time": 1730013679,
+      "rank": 14,
+      "category": "电影,电竞"
     },
     {
       "raw_hot": 405971,
@@ -481,6 +489,14 @@
       "onboard_time": 1729996638,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394577,
+      "num": 245480,
+      "word": "单依纯工作室脑子快转冒烟了",
+      "onboard_time": 1730017878,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 380878,
@@ -553,14 +569,6 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 341845,
-      "num": 341845,
-      "word": "电影今年二十二12月全国上映",
-      "onboard_time": 1730013679,
-      "rank": 14,
-      "category": "电影,电竞"
     },
     {
       "raw_hot": 336205,
@@ -843,6 +851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241174,
+      "num": 303106,
+      "word": "以军公布出动战机袭击伊朗视频",
+      "onboard_time": 1730016918,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 241172,
       "num": 226103,
       "word": "杨幂辅助丁程鑫存活率为零",
@@ -939,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222078,
+      "num": 185832,
+      "word": "侯明昊圈内人缘",
+      "onboard_time": 1730015777,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221306,
       "num": 221306,
       "word": "Uzi预测BLG夺冠",
@@ -987,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211669,
-      "num": 162856,
-      "word": "侯明昊圈内人缘",
-      "onboard_time": 1730015777,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208584,
       "num": 208584,
       "word": "小猫没夹住发出呱叫声",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1730002338,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201869,
+      "num": 201869,
+      "word": "虞书欣新剧重生之当恶毒女配了",
+      "onboard_time": 1730017519,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 199194,
@@ -1075,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192955,
+      "num": 171663,
+      "word": "郑钦文夺冠后发博",
+      "onboard_time": 1730017578,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191956,
       "num": 191956,
       "word": "16岁女孩决定重启人生",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1729988775,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185447,
+      "num": 185447,
+      "word": "陈哲远 疯感美人",
+      "onboard_time": 1730017339,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 183936,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1730006299,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177925,
+      "num": 177925,
+      "word": "长沙一商家疑用公厕水管接水泡臭豆腐",
+      "onboard_time": 1730015598,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177501,
@@ -1275,14 +1323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162249,
-      "num": 162249,
-      "word": "长沙一商家疑用公厕水管接水泡臭豆腐",
-      "onboard_time": 1730015598,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "粉笔模考",
@@ -1363,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151625,
+      "num": 151625,
+      "word": "毒液",
+      "onboard_time": 1730006659,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151477,
       "num": 236687,
       "word": "赵丽颖在乔妍的心事中的演技",
@@ -1387,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149277,
+      "num": 149277,
+      "word": "周传雄黄昏大合唱太顶了",
+      "onboard_time": 1730017699,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146649,
       "num": 146649,
       "word": "慕容璟和目送眉林嫁给别人",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1729988177,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142993,
-      "num": 142993,
-      "word": "毒液",
-      "onboard_time": 1730006659,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 141062,
@@ -1547,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126349,
+      "num": 126349,
+      "word": "2岁小孩的词汇量有多恐怖",
+      "onboard_time": 1730017457,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
@@ -1611,12 +1667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117598,
-      "num": 117598,
-      "word": "郑钦文夺冠后发博",
-      "onboard_time": 1730017578,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 118443,
+      "num": 118443,
+      "word": "白敬亭你不要再打宋亚轩屁股啦",
+      "onboard_time": 1730017339,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 117361,
@@ -1627,28 +1683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116657,
-      "num": 116657,
-      "word": "陈哲远 疯感美人",
-      "onboard_time": 1730017339,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116073,
       "num": 116073,
       "word": "一手烂牌打不出王炸人生",
       "onboard_time": 1730012179,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113140,
-      "num": 113140,
-      "word": "白敬亭你不要再打宋亚轩屁股啦",
-      "onboard_time": 1730017339,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 111861,
@@ -1667,20 +1707,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111037,
+      "num": 111037,
+      "word": "芒果新生班有自己的彭高",
+      "onboard_time": 1730017699,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107125,
       "num": 107125,
       "word": "两位90多岁女兵重逢抱在一起",
       "onboard_time": 1730017217,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106566,
-      "num": 106566,
-      "word": "虞书欣新剧重生之当恶毒女配了",
-      "onboard_time": 1730017519,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 105140,
@@ -1697,14 +1737,6 @@
       "onboard_time": 1730017217,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102314,
-      "num": 102314,
-      "word": "2岁小孩的词汇量有多恐怖",
-      "onboard_time": 1730017457,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 102098,
@@ -1859,14 +1891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50376,
-      "num": 303106,
-      "word": "以军公布出动战机袭击伊朗视频",
-      "onboard_time": 1730016918,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 50067,
       "num": 365276,
       "word": "官方回应山东一餐饮店夜间坍塌",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1729966153,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 34984,
+      "num": 249230,
+      "word": "以军被曝涉嫌对联黎部队使用白磷弹",
+      "onboard_time": 1730017817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32217,
@@ -2011,6 +2043,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22029,
+      "num": 242363,
+      "word": "开发商将架空层改为车位售卖",
+      "onboard_time": 1730017817,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21797,
+      "num": 172033,
+      "word": "伊朗警告美国应控制以色列",
+      "onboard_time": 1730018478,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 21058,
       "num": 312655,
       "word": "起底大闸蟹假蟹扣制售链",
@@ -2035,8 +2083,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 18381,
-      "num": 434982,
+      "raw_hot": 20318,
+      "num": 437812,
       "word": "神十八乘组回地球前在忙什么",
       "onboard_time": 1730017399,
       "rank": 2,
@@ -2083,20 +2131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6780,
+      "num": 127997,
+      "word": "澳门2049的科技与艺术",
+      "onboard_time": 1730016018,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 6716,
       "num": 163420,
       "word": "1.45万吨桥梁墩体转体有多震撼",
       "onboard_time": 1729946599,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5351,
-      "num": 116705,
-      "word": "澳门2049的科技与艺术",
-      "onboard_time": 1730016018,
-      "rank": 39,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
