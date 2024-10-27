@@ -1,0 +1,410 @@
+{
+  "runTime": 1729993683172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227618,
+        "num": 1227618,
+        "word": "再见爱人4最应该离婚的一对",
+        "onboard_time": 1729992137,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1200153,
+        "num": 1200153,
+        "word": "周杰伦演唱会开场前歌迷场外生子",
+        "onboard_time": 1729988416,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 9352,
+        "num": 665586,
+        "word": "神十九发射场区全系统合练",
+        "onboard_time": 1729945579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482657,
+        "num": 482657,
+        "word": "永夜星河定档",
+        "onboard_time": 1729985955,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421373,
+        "num": 421373,
+        "word": "波音把宇航员送太空回不来要撂挑子",
+        "onboard_time": 1729991117,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396359,
+        "num": 396359,
+        "word": "想到余华英丈夫给孙子糖就害怕",
+        "onboard_time": 1729977790,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388952,
+        "num": 388952,
+        "word": "超过100架飞机袭击伊朗",
+        "onboard_time": 1729992438,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 388167,
+        "num": 388167,
+        "word": "爷爷床头柜放罂粟孙子报警",
+        "onboard_time": 1729936100,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382176,
+        "num": 382176,
+        "word": "水军狂发正面评价让真实评价沉帖",
+        "onboard_time": 1729977311,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380878,
+        "num": 380878,
+        "word": "喻言卡位",
+        "onboard_time": 1729988236,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1048488,
+        "num": 379011,
+        "word": "当相亲时吃的是地锅鸡",
+        "onboard_time": 1729990577,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 829062,
+        "num": 365485,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1729992617,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546967,
+        "num": 354751,
+        "word": "郭敬明又换名了",
+        "onboard_time": 1729990219,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524603,
+        "num": 346556,
+        "word": "司机踩错油门6秒连撞3车4人",
+        "onboard_time": 1729983734,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499050,
+        "num": 341860,
+        "word": "戚薇 不要再说是我的狗",
+        "onboard_time": 1729966693,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487524,
+        "num": 333308,
+        "word": "老人被骗花6万元买洗洁精",
+        "onboard_time": 1729988836,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328033,
+        "num": 328033,
+        "word": "黄磊 饭不是我做的放心吃",
+        "onboard_time": 1729935739,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315985,
+        "num": 315985,
+        "word": "以军强迫加沙男医生一丝不挂",
+        "onboard_time": 1729993157,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 306361,
+        "num": 306361,
+        "word": "谭松韵口误带偏全场",
+        "onboard_time": 1729989078,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297305,
+        "num": 297305,
+        "word": "皇马0比4巴萨",
+        "onboard_time": 1729983974,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1177339,
+        "num": 296711,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529576,
+        "num": 295274,
+        "word": "已婚已育已二胎在大学里的一天",
+        "onboard_time": 1729986015,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369766,
+        "num": 295073,
+        "word": "带牙套后牙齿可能发生的变化",
+        "onboard_time": 1729986975,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 352626,
+        "num": 293567,
+        "word": "突然收到前男友爸爸发来的消息",
+        "onboard_time": 1729986015,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302856,
+        "num": 292823,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1729991538,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291957,
+        "num": 291957,
+        "word": "业主卧室改厕所被判改回去",
+        "onboard_time": 1729961716,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255178,
+        "num": 255178,
+        "word": "原来柑橘味可以抗抑郁",
+        "onboard_time": 1729989856,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 32550,
+        "num": 253626,
+        "word": "论省钱还得是你姨",
+        "onboard_time": 1729993098,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252388,
+        "num": 252388,
+        "word": "龚俊回请迪丽热巴剧组下午茶",
+        "onboard_time": 1729986556,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187710,
+        "num": 243719,
+        "word": "易梦玲特别主演大梦归离",
+        "onboard_time": 1729991959,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633192,
+        "num": 243413,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239143,
+        "num": 239143,
+        "word": "英国一学生宿舍产子锁行李箱致死",
+        "onboard_time": 1729992798,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210855,
+        "num": 210855,
+        "word": "饥饿外卖员取餐后秒退单偷4份餐",
+        "onboard_time": 1729992916,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196177,
+        "num": 196177,
+        "word": "应采儿发Jasper全英文演讲",
+        "onboard_time": 1729985955,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189020,
+        "num": 189020,
+        "word": "外交部回应美国19.88亿美元对台军售",
+        "onboard_time": 1729958660,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183501,
+        "num": 183501,
+        "word": "珠帘玉幕",
+        "onboard_time": 1729992916,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179974,
+        "num": 179974,
+        "word": "余华英丈夫越狱后多次拐卖儿童",
+        "onboard_time": 1729943839,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165029,
+        "num": 165029,
+        "word": "辛芷蕾工作室的海报没有辛芷蕾",
+        "onboard_time": 1729954939,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162496,
+        "num": 162496,
+        "word": "拜登回应以色列袭击伊朗",
+        "onboard_time": 1729993578,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159150,
+        "num": 159150,
+        "word": "战至巅峰3冠军",
+        "onboard_time": 1729985595,
+        "rank": 39,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 156199,
+        "num": 156199,
+        "word": "郭敬明审美",
+        "onboard_time": 1729949360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155193,
+        "num": 155193,
+        "word": "Doinb爆料Ale被开",
+        "onboard_time": 1729987277,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148535,
+        "num": 148535,
+        "word": "姆巴佩为樊振东比第一",
+        "onboard_time": 1729988775,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144861,
+        "num": 144861,
+        "word": "赵露思生图live",
+        "onboard_time": 1729953801,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143721,
+        "num": 143721,
+        "word": "威少8中0",
+        "onboard_time": 1729988177,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141062,
+        "num": 141062,
+        "word": "神十八乘组高光时刻盘点",
+        "onboard_time": 1729990278,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139820,
+        "num": 139820,
+        "word": "招聘人员解答女生多次投简历被拒",
+        "onboard_time": 1729951341,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137977,
+        "num": 137977,
+        "word": "丁程鑫social好忙",
+        "onboard_time": 1729993397,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135628,
+        "num": 135628,
+        "word": "麦琳 李行亮",
+        "onboard_time": 1729952840,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134845,
+        "num": 134845,
+        "word": "以称出动F35等百余架飞机袭击伊朗",
+        "onboard_time": 1729969393,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#大金砖合作高光时刻#"
+    }
+  }
+}
