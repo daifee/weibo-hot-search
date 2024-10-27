@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730014571672,
+  "endTime": 1730017678355,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -355,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 513997,
+      "num": 293482,
+      "word": "LV柜姐事件原配辟谣",
+      "onboard_time": 1730009778,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499050,
       "num": 371955,
       "word": "戚薇 不要再说是我的狗",
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433149,
+      "num": 433149,
+      "word": "初中学历研发出50类农业机械",
+      "onboard_time": 1730014278,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 432877,
       "num": 324159,
       "word": "秦昊披荆斩棘瘦了20斤",
@@ -435,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415788,
-      "num": 293482,
-      "word": "LV柜姐事件原配辟谣",
-      "onboard_time": 1730009778,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 410341,
+      "num": 410341,
+      "word": "虞书欣发的乱码文案",
+      "onboard_time": 1730015718,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 405971,
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353158,
+      "num": 353158,
+      "word": "凤冠冰箱贴成国博销冠",
+      "onboard_time": 1730012838,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352626,
       "num": 310735,
       "word": "突然收到前男友爸爸发来的消息",
@@ -529,6 +553,14 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 341845,
+      "num": 341845,
+      "word": "电影今年二十二12月全国上映",
+      "onboard_time": 1730013679,
+      "rank": 14,
+      "category": "电影,电竞"
     },
     {
       "raw_hot": 336205,
@@ -587,20 +619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304403,
+      "num": 304403,
+      "word": "丁禹兮永夜星河换了配音",
+      "onboard_time": 1730013978,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303613,
       "num": 303613,
       "word": "詹姆斯杀疯了",
       "onboard_time": 1730005999,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303090,
-      "num": 319625,
-      "word": "凤冠冰箱贴成国博销冠",
-      "onboard_time": 1730012838,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302856,
@@ -659,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 289273,
-      "num": 289273,
-      "word": "电影今年二十二12月全国上映",
-      "onboard_time": 1730013679,
-      "rank": 14,
-      "category": "电影,电竞"
-    },
-    {
       "raw_hot": 287495,
       "num": 319046,
       "word": "易梦玲特别主演大梦归离",
@@ -713,6 +737,14 @@
       "onboard_time": 1730001858,
       "rank": 28,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 266822,
+      "num": 266822,
+      "word": "杨紫海边碎片随拍",
+      "onboard_time": 1730015298,
+      "rank": 13,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 266759,
@@ -835,6 +867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229927,
+      "num": 229927,
+      "word": "喻言贴脸开大李莎旻子总卖关子",
+      "onboard_time": 1730014997,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228467,
       "num": 228467,
       "word": "WBG止步S14四强",
@@ -849,14 +889,6 @@
       "onboard_time": 1730000418,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226881,
-      "num": 226881,
-      "word": "丁禹兮永夜星河换了配音",
-      "onboard_time": 1730013978,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 226861,
@@ -955,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211669,
+      "num": 162856,
+      "word": "侯明昊圈内人缘",
+      "onboard_time": 1730015777,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208584,
       "num": 208584,
       "word": "小猫没夹住发出呱叫声",
       "onboard_time": 1729994658,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207844,
+      "num": 207844,
+      "word": "陈梦最想问自己的一个问题",
+      "onboard_time": 1730013618,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 207308,
@@ -1155,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168631,
+      "num": 168631,
+      "word": "方灿疑似回应hybe",
+      "onboard_time": 1730016257,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167841,
       "num": 167841,
       "word": "热烈",
@@ -1219,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162249,
+      "num": 162249,
+      "word": "长沙一商家疑用公厕水管接水泡臭豆腐",
+      "onboard_time": 1730015598,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "粉笔模考",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1729995558,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156383,
+      "num": 312379,
+      "word": "青海两户6人中毒死亡背后",
+      "onboard_time": 1730012417,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155193,
@@ -1323,20 +1395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144884,
-      "num": 144884,
-      "word": "陈梦最想问自己的一个问题",
-      "onboard_time": 1730013618,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143721,
       "num": 143721,
       "word": "威少8中0",
       "onboard_time": 1729988177,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142993,
+      "num": 142993,
+      "word": "毒液",
+      "onboard_time": 1730006659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 141062,
@@ -1483,20 +1555,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125344,
+      "num": 125344,
+      "word": "在浙江农村吃席被震惊了",
+      "onboard_time": 1730016198,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123278,
       "num": 123278,
       "word": "特朗普嘲讽碧昂丝为哈里斯站台",
       "onboard_time": 1729972751,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 122824,
-      "num": 312379,
-      "word": "青海两户6人中毒死亡背后",
-      "onboard_time": 1730012417,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122215,
@@ -1539,6 +1611,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117598,
+      "num": 117598,
+      "word": "郑钦文夺冠后发博",
+      "onboard_time": 1730017578,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117361,
+      "num": 117361,
+      "word": "郑钦文抢七拍子甩掉了",
+      "onboard_time": 1730013739,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116657,
+      "num": 116657,
+      "word": "陈哲远 疯感美人",
+      "onboard_time": 1730017339,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116073,
       "num": 116073,
       "word": "一手烂牌打不出王炸人生",
@@ -1547,12 +1643,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115494,
-      "num": 115494,
-      "word": "毒液",
-      "onboard_time": 1730006659,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 113140,
+      "num": 113140,
+      "word": "白敬亭你不要再打宋亚轩屁股啦",
+      "onboard_time": 1730017339,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 111861,
@@ -1571,12 +1667,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107125,
+      "num": 107125,
+      "word": "两位90多岁女兵重逢抱在一起",
+      "onboard_time": 1730017217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106566,
+      "num": 106566,
+      "word": "虞书欣新剧重生之当恶毒女配了",
+      "onboard_time": 1730017519,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105140,
       "num": 310044,
       "word": "一周工作4天打工人会更快乐吗",
       "onboard_time": 1730001797,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104788,
+      "num": 104788,
+      "word": "赖伟明大梦归离白月光弟弟",
+      "onboard_time": 1730017217,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102314,
+      "num": 102314,
+      "word": "2岁小孩的词汇量有多恐怖",
+      "onboard_time": 1730017457,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 102098,
@@ -1617,14 +1745,6 @@
       "onboard_time": 1729980551,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80946,
-      "num": 301844,
-      "word": "初中学历研发出50类农业机械",
-      "onboard_time": 1730014278,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 75283,
@@ -1737,6 +1857,14 @@
       "onboard_time": 1729999398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50376,
+      "num": 303106,
+      "word": "以军公布出动战机袭击伊朗视频",
+      "onboard_time": 1730016918,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 50067,
@@ -1907,6 +2035,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 18381,
+      "num": 434982,
+      "word": "神十八乘组回地球前在忙什么",
+      "onboard_time": 1730017399,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16781,
       "num": 1394643,
       "word": "神十九发射场区全系统合练",
@@ -1945,6 +2081,22 @@
       "onboard_time": 1729976531,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6716,
+      "num": 163420,
+      "word": "1.45万吨桥梁墩体转体有多震撼",
+      "onboard_time": 1729946599,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5351,
+      "num": 116705,
+      "word": "澳门2049的科技与艺术",
+      "onboard_time": 1730016018,
+      "rank": 39,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

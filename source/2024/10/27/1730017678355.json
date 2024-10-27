@@ -1,0 +1,410 @@
+{
+  "runTime": 1730017678355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 661272,
+        "num": 1105803,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440552,
+        "num": 440552,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18381,
+        "num": 434982,
+        "word": "神十八乘组回地球前在忙什么",
+        "onboard_time": 1730017399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433149,
+        "num": 433149,
+        "word": "初中学历研发出50类农业机械",
+        "onboard_time": 1730014278,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 410341,
+        "num": 410341,
+        "word": "虞书欣发的乱码文案",
+        "onboard_time": 1730015718,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353158,
+        "num": 353158,
+        "word": "凤冠冰箱贴成国博销冠",
+        "onboard_time": 1730012838,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346498,
+        "num": 346498,
+        "word": "郑钦文首夺东京站冠军",
+        "onboard_time": 1730007679,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341845,
+        "num": 341845,
+        "word": "电影今年二十二12月全国上映",
+        "onboard_time": 1730013679,
+        "rank": 7,
+        "category": "电影,电竞"
+      },
+      {
+        "raw_hot": 304403,
+        "num": 304403,
+        "word": "丁禹兮永夜星河换了配音",
+        "onboard_time": 1730013978,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50376,
+        "num": 303106,
+        "word": "以军公布出动战机袭击伊朗视频",
+        "onboard_time": 1730016918,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 952553,
+        "num": 288655,
+        "word": "离婚后发现男方隐匿了上百万房产",
+        "onboard_time": 1730011879,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513997,
+        "num": 279178,
+        "word": "LV柜姐事件原配辟谣",
+        "onboard_time": 1730009778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332837,
+        "num": 274500,
+        "word": "用人民币感受韩国物价",
+        "onboard_time": 1730005818,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 266822,
+        "num": 266822,
+        "word": "杨紫海边碎片随拍",
+        "onboard_time": 1730015298,
+        "rank": 13,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 233828,
+        "num": 233828,
+        "word": "以军强迫加沙男医生一丝不挂",
+        "onboard_time": 1729993157,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229927,
+        "num": 229927,
+        "word": "喻言贴脸开大李莎旻子总卖关子",
+        "onboard_time": 1730014997,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207844,
+        "num": 207844,
+        "word": "陈梦最想问自己的一个问题",
+        "onboard_time": 1730013618,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199750,
+        "num": 199750,
+        "word": "金鸡奖最佳女主提名3个00后",
+        "onboard_time": 1730008519,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187941,
+        "num": 187941,
+        "word": "赵牧辰 阮小咪",
+        "onboard_time": 1730005578,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168631,
+        "num": 168631,
+        "word": "方灿疑似回应hybe",
+        "onboard_time": 1730016257,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636192,
+        "num": 168408,
+        "word": "工资4000一个月的存钱计划",
+        "onboard_time": 1730009898,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485931,
+        "num": 168389,
+        "word": "韩安冉领证发现户口本在前夫家",
+        "onboard_time": 1730008759,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 346409,
+        "num": 168370,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "杨幂和灵儿加微信",
+        "onboard_time": 1730005398,
+        "rank": 23,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 291710,
+        "num": 165330,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6716,
+        "num": 163420,
+        "word": "1.45万吨桥梁墩体转体有多震撼",
+        "onboard_time": 1729946599,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211669,
+        "num": 162856,
+        "word": "侯明昊圈内人缘",
+        "onboard_time": 1730015777,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162249,
+        "num": 162249,
+        "word": "长沙一商家疑用公厕水管接水泡臭豆腐",
+        "onboard_time": 1730015598,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270352,
+        "num": 161670,
+        "word": "杨幂沈腾上班上到眼里没光了",
+        "onboard_time": 1730003597,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156383,
+        "num": 156383,
+        "word": "青海两户6人中毒死亡背后",
+        "onboard_time": 1730012417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155092,
+        "num": 155092,
+        "word": "超过100架飞机袭击伊朗",
+        "onboard_time": 1729992438,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 142993,
+        "word": "毒液",
+        "onboard_time": 1730006659,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139483,
+        "num": 139483,
+        "word": "当初处罚骑手的人失业后送外卖",
+        "onboard_time": 1730011279,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135267,
+        "num": 135267,
+        "word": "乔妍的心事",
+        "onboard_time": 1730012538,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134887,
+        "num": 134887,
+        "word": "余华英两次被判死刑两次称要上诉",
+        "onboard_time": 1730006119,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125344,
+        "num": 125344,
+        "word": "在浙江农村吃席被震惊了",
+        "onboard_time": 1730016198,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 119039,
+        "word": "秦昊披荆斩棘瘦了20斤",
+        "onboard_time": 1730005398,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117598,
+        "num": 117598,
+        "word": "郑钦文夺冠后发博",
+        "onboard_time": 1730017578,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117361,
+        "num": 117361,
+        "word": "郑钦文抢七拍子甩掉了",
+        "onboard_time": 1730013739,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5351,
+        "num": 116705,
+        "word": "澳门2049的科技与艺术",
+        "onboard_time": 1730016018,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116657,
+        "num": 116657,
+        "word": "陈哲远 疯感美人",
+        "onboard_time": 1730017339,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113140,
+        "num": 113140,
+        "word": "白敬亭你不要再打宋亚轩屁股啦",
+        "onboard_time": 1730017339,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107125,
+        "num": 107125,
+        "word": "两位90多岁女兵重逢抱在一起",
+        "onboard_time": 1730017217,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106566,
+        "num": 106566,
+        "word": "虞书欣新剧重生之当恶毒女配了",
+        "onboard_time": 1730017519,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106075,
+        "num": 106075,
+        "word": "一手烂牌打不出王炸人生",
+        "onboard_time": 1730012179,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104788,
+        "num": 104788,
+        "word": "赖伟明大梦归离白月光弟弟",
+        "onboard_time": 1730017217,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102314,
+        "num": 102314,
+        "word": "2岁小孩的词汇量有多恐怖",
+        "onboard_time": 1730017457,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98166,
+        "num": 100901,
+        "word": "第一次见清洁力这么强的食物",
+        "onboard_time": 1730008099,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100432,
+        "num": 100432,
+        "word": "徐璐陪诊哭了",
+        "onboard_time": 1729999160,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98408,
+        "num": 98408,
+        "word": "第37届金鸡奖提名名单",
+        "onboard_time": 1729998857,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}
