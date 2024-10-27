@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 23:35:54
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 00:27:04
 </p>
 </blockquote>
 <p>
@@ -2583,6 +2583,12 @@ T1战胜BLG（热度：1444060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E9%95%BF%E6%9C%9F%E6%99%9A%E7%9D%A1%E6%99%9A%E8%B5%B7%E4%B9%9F%E7%AE%97%E7%86%AC%E5%A4%9C%23" target="weibo">
+专家提醒长期晚睡晚起也算熬夜（热度：1369368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E6%9C%80%E6%81%90%E6%80%96%E7%9A%84%E4%B8%80%E9%9B%86%23" target="weibo">
 听泉鉴宝最恐怖的一集（热度：1369067）
 </a>
@@ -3125,12 +3131,6 @@ VOGUE晚宴（热度：1311474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%B7%8C%E4%BA%86100%E4%B8%87%E5%90%8E%E5%A6%82%E4%BD%95%E4%B8%8E%E8%87%AA%E5%B7%B1%E5%92%8C%E8%A7%A3%23" target="weibo">
 房价跌了100万后如何与自己和解（热度：1252750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E9%95%BF%E6%9C%9F%E6%99%9A%E7%9D%A1%E6%99%9A%E8%B5%B7%E4%B9%9F%E7%AE%97%E7%86%AC%E5%A4%9C%23" target="weibo">
-专家提醒长期晚睡晚起也算熬夜（热度：1251522）
 </a>
 </li>
 
@@ -5121,6 +5121,12 @@ A股后续将迎第二波上涨行情（热度：964810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98GEN%23" target="weibo">
+T1对战GEN（热度：952675）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%951%E5%A4%A92%E6%88%98%E5%B7%A6%E8%87%82%E5%87%BA%E7%8E%B0%E5%8F%8D%E5%BA%94%23" target="weibo">
 许昕1天2战左臂出现反应（热度：951025）
 </a>
@@ -6005,12 +6011,6 @@ whiplash 吒味十足（热度：872043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
 檀健次经纪人聊天记录（热度：861104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B8%83%E6%9C%97%E5%B0%BC%E7%88%B6%E5%AD%90%E5%90%8C%E5%8F%B0%23" target="weibo">
-詹姆斯布朗尼父子同台（热度：860577）
 </a>
 </li>
 

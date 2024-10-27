@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730043354339,
+  "endTime": 1730046424764,
   "band_list": [
     {
       "raw_hot": 2850454,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1369368,
+      "num": 1369368,
+      "word": "专家提醒长期晚睡晚起也算熬夜",
+      "onboard_time": 1730040741,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1339659,
       "num": 1339659,
       "word": "钱天一vs张本美和",
@@ -192,14 +200,6 @@
       "word": "23年前杀害女子真凶被找到时在服刑",
       "onboard_time": 1730038581,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1251522,
-      "num": 1251522,
-      "word": "专家提醒长期晚睡晚起也算熬夜",
-      "onboard_time": 1730040741,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1112251,
-      "num": 480909,
+      "num": 488376,
       "word": "黄嘉千女儿14岁近照",
       "onboard_time": 1730039902,
       "rank": 30,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1045593,
-      "num": 476524,
+      "num": 580521,
       "word": "烧伤妈妈情况不好",
       "onboard_time": 1730040141,
       "rank": 11,
@@ -305,6 +305,14 @@
       "onboard_time": 1729990219,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 952675,
+      "num": 952675,
+      "word": "T1对战GEN",
+      "onboard_time": 1730033479,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 942417,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 766059,
-      "num": 419792,
+      "num": 488708,
       "word": "饶雪漫和翁青雅吃饭",
       "onboard_time": 1730042060,
       "rank": 30,
@@ -595,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 555036,
+      "num": 489131,
+      "word": "Faker飞雷神",
+      "onboard_time": 1730043680,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 554615,
       "num": 891255,
       "word": "水军狂发正面评价让真实评价沉帖",
@@ -608,6 +624,14 @@
       "word": "司机踩错油门6秒连撞3车4人",
       "onboard_time": 1729983734,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552654,
+      "num": 552654,
+      "word": "塔斯汀门店回应汉堡肉是生的",
+      "onboard_time": 1730041881,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -827,20 +851,20 @@
       "category": "电影,电竞"
     },
     {
+      "raw_hot": 410922,
+      "num": 410922,
+      "word": "T1晋级S14决赛",
+      "onboard_time": 1730046199,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 408248,
       "num": 408248,
       "word": "周深摘耳机",
       "onboard_time": 1730029699,
       "rank": 15,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 408234,
-      "num": 408234,
-      "word": "T1对战GEN",
-      "onboard_time": 1730033479,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 405971,
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 383260,
-      "num": 415739,
+      "num": 492437,
       "word": "杜华后悔一个人来看李梦",
       "onboard_time": 1730042361,
       "rank": 24,
@@ -1000,14 +1024,6 @@
       "word": "央视曝网店刷好评套路",
       "onboard_time": 1730023097,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329679,
-      "num": 490909,
-      "word": "塔斯汀门店回应汉堡肉是生的",
-      "onboard_time": 1730041881,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284236,
+      "num": 284236,
+      "word": "周深给杨幂提裙子",
+      "onboard_time": 1730042419,
+      "rank": 48,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 282561,
       "num": 307289,
       "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
@@ -1331,6 +1355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 254244,
+      "num": 216802,
+      "word": "乐言 oner看不懂",
+      "onboard_time": 1730044398,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252945,
       "num": 252945,
       "word": "林诗栋止步冠军赛四强",
@@ -1411,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240833,
+      "num": 215719,
+      "word": "Elk看困了",
+      "onboard_time": 1730043441,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238039,
       "num": 435682,
       "word": "南京南站列车运行秩序逐步恢复",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1730017457,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237070,
+      "num": 217750,
+      "word": "WTT蒙彼利埃冠军赛2024",
+      "onboard_time": 1730044758,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 237047,
@@ -1867,14 +1915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189945,
-      "num": 189945,
-      "word": "周深给杨幂提裙子",
-      "onboard_time": 1730042419,
-      "rank": 48,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 189839,
       "num": 189839,
       "word": "姆巴佩为樊振东比第一",
@@ -2235,6 +2275,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 158078,
+      "num": 491056,
+      "word": "买房除了凑首付还要交这些钱",
+      "onboard_time": 1730044700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157982,
       "num": 157982,
       "word": "谁懂许嵩这一圈专辑名的杀伤力",
@@ -2355,12 +2403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149733,
+      "num": 184053,
+      "word": "要挤干网络水军的水分",
+      "onboard_time": 1730043199,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149277,
       "num": 149277,
       "word": "周传雄黄昏大合唱太顶了",
       "onboard_time": 1730017699,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149109,
+      "num": 418701,
+      "word": "T1拿到赛点",
+      "onboard_time": 1730043199,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 147145,
@@ -2400,6 +2464,14 @@
       "word": "威少8中0",
       "onboard_time": 1729988177,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143073,
+      "num": 143073,
+      "word": "西汉姆联vs曼联",
+      "onboard_time": 1730045238,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2595,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131274,
+      "num": 408562,
+      "word": "她叫杨妞花",
+      "onboard_time": 1730043081,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130266,
       "num": 130266,
       "word": "卡车冲入以色列公交站致数十人受伤",
@@ -2699,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120927,
+      "num": 120927,
+      "word": "Faker第七次晋级决赛",
+      "onboard_time": 1730046379,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119951,
       "num": 119951,
       "word": "傅菁一分一秒舞台",
@@ -2771,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116408,
+      "num": 116408,
+      "word": "十个勤天种下一个未来巡回演唱会",
+      "onboard_time": 1730045599,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116073,
       "num": 116073,
       "word": "一手烂牌打不出王炸人生",
@@ -2825,6 +2921,14 @@
       "onboard_time": 1730020700,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109116,
+      "num": 109116,
+      "word": "朴彩英新专配置",
+      "onboard_time": 1730045478,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 108141,
@@ -3003,14 +3107,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 61206,
-      "num": 408562,
-      "word": "她叫杨妞花",
-      "onboard_time": 1730043081,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59632,
       "num": 59632,
       "word": "钱天一3比0巴特拉",
@@ -3096,14 +3192,6 @@
       "word": "官方回应山东一餐饮店夜间坍塌",
       "onboard_time": 1730003418,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46411,
-      "num": 184053,
-      "word": "要挤干网络水军的水分",
-      "onboard_time": 1730043199,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3193,14 +3281,6 @@
       "onboard_time": 1730017817,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32352,
-      "num": 418701,
-      "word": "T1拿到赛点",
-      "onboard_time": 1730043199,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 32217,
