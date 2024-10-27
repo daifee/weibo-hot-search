@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730018545819,
+  "endTime": 1730020909549,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -49,6 +49,14 @@
       "onboard_time": 1730009898,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1831417,
+      "num": 1831417,
+      "word": "长沙一外卖员抓猫从26楼扔下致死",
+      "onboard_time": 1730018897,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1735646,
@@ -137,6 +145,14 @@
       "onboard_time": 1729990577,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1035903,
+      "num": 1035903,
+      "word": "单依纯工作室脑子快转冒烟了",
+      "onboard_time": 1730017878,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 992590,
@@ -283,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 601617,
+      "num": 261039,
+      "word": "郑钦文夺冠后发博",
+      "onboard_time": 1730017578,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 594383,
       "num": 559726,
       "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
@@ -328,6 +352,14 @@
       "word": "司机踩错油门6秒连撞3车4人",
       "onboard_time": 1729983734,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544292,
+      "num": 544292,
+      "word": "可可西里讨食狼越来越多",
+      "onboard_time": 1730019017,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -475,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397540,
+      "num": 257807,
+      "word": "博主称小西天保安大叔今日辞职",
+      "onboard_time": 1730019379,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396359,
       "num": 396359,
       "word": "想到余华英丈夫给孙子糖就害怕",
@@ -489,14 +529,6 @@
       "onboard_time": 1729996638,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394577,
-      "num": 245480,
-      "word": "单依纯工作室脑子快转冒烟了",
-      "onboard_time": 1730017878,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 380878,
@@ -667,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 293926,
+      "num": 238243,
+      "word": "侯明昊圈内人缘",
+      "onboard_time": 1730015777,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293253,
       "num": 226656,
       "word": "杨幂粉色抹胸长裙梦回夏晚晴",
@@ -707,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286404,
+      "num": 256576,
+      "word": "柳智敏李瑞cha了",
+      "onboard_time": 1730020399,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281027,
       "num": 226641,
       "word": "李雪琴骗过了全场",
@@ -745,6 +793,14 @@
       "onboard_time": 1730001858,
       "rank": 28,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 267605,
+      "num": 303106,
+      "word": "以军公布出动战机袭击伊朗视频",
+      "onboard_time": 1730016918,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 266822,
@@ -851,20 +907,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 241174,
-      "num": 303106,
-      "word": "以军公布出动战机袭击伊朗视频",
-      "onboard_time": 1730016918,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 241172,
       "num": 226103,
       "word": "杨幂辅助丁程鑫存活率为零",
       "onboard_time": 1729958899,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237758,
+      "num": 237758,
+      "word": "2岁小孩的词汇量有多恐怖",
+      "onboard_time": 1730017457,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 235531,
@@ -953,14 +1009,6 @@
       "onboard_time": 1729955121,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222078,
-      "num": 185832,
-      "word": "侯明昊圈内人缘",
-      "onboard_time": 1730015777,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 221306,
@@ -1096,14 +1144,6 @@
       "word": "樊振东连发5条皇马动态",
       "onboard_time": 1730001199,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192955,
-      "num": 171663,
-      "word": "郑钦文夺冠后发博",
-      "onboard_time": 1730017578,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1371,12 +1411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155493,
+      "num": 155493,
+      "word": "谁懂许嵩这一圈专辑名的杀伤力",
+      "onboard_time": 1730019077,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "Doinb爆料Ale被开",
       "onboard_time": 1729987277,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154717,
+      "num": 154717,
+      "word": "毒液",
+      "onboard_time": 1730006659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 153762,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1729943538,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151625,
-      "num": 151625,
-      "word": "毒液",
-      "onboard_time": 1730006659,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 151477,
@@ -1491,12 +1539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138487,
+      "num": 138487,
+      "word": "钎城国风舞枪好惊艳",
+      "onboard_time": 1730019919,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138281,
       "num": 138281,
       "word": "当表演生第一次拍吻戏",
       "onboard_time": 1730010198,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138245,
+      "num": 138245,
+      "word": "特朗普谈总统任期中犯的最大错误",
+      "onboard_time": 1730020640,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 137977,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1729954939,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134740,
+      "num": 134740,
+      "word": "在浙江农村吃席被震惊了",
+      "onboard_time": 1730016198,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 133971,
@@ -1595,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126349,
-      "num": 126349,
-      "word": "2岁小孩的词汇量有多恐怖",
-      "onboard_time": 1730017457,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
@@ -1611,12 +1675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125344,
-      "num": 125344,
-      "word": "在浙江农村吃席被震惊了",
-      "onboard_time": 1730016198,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "李佳薇高音快成超声波了",
+      "onboard_time": 1730020038,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 123278,
@@ -1683,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116632,
+      "num": 116632,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1730020878,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116073,
       "num": 116073,
       "word": "一手烂牌打不出王炸人生",
@@ -1745,6 +1817,22 @@
       "onboard_time": 1729962136,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101892,
+      "num": 101892,
+      "word": "左航拍摄花絮",
+      "onboard_time": 1730020399,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101858,
+      "num": 101858,
+      "word": "上海申花vs深圳新鹏城",
+      "onboard_time": 1730020700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98819,
@@ -1955,6 +2043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 37164,
+      "num": 156870,
+      "word": "以军在加沙医院内四处开火",
+      "onboard_time": 1730019858,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 34984,
       "num": 249230,
       "word": "以军被曝涉嫌对联黎部队使用白磷弹",
@@ -1968,6 +2064,14 @@
       "word": "律师称南通捅人嫌犯或将数罪并罚",
       "onboard_time": 1730005219,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30577,
+      "num": 663141,
+      "word": "神十八乘组回地球前在忙什么",
+      "onboard_time": 1730017399,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2059,11 +2163,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 21618,
+      "num": 263616,
+      "word": "可免试获取执业证书不靠谱",
+      "onboard_time": 1730019618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21058,
       "num": 312655,
       "word": "起底大闸蟹假蟹扣制售链",
       "onboard_time": 1730008818,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20836,
+      "num": 245041,
+      "word": "消费者刚充11万家政平台被曝欠薪",
+      "onboard_time": 1730019618,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2083,11 +2203,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 20318,
-      "num": 437812,
-      "word": "神十八乘组回地球前在忙什么",
-      "onboard_time": 1730017399,
-      "rank": 2,
+      "raw_hot": 18553,
+      "num": 255797,
+      "word": "不打扰才是对动物最大的尊重与保护",
+      "onboard_time": 1730019618,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

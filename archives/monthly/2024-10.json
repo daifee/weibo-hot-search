@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730018545819,
+  "endTime": 1730020909549,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1777,6 +1777,14 @@
       "onboard_time": 1729693159,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1831417,
+      "num": 1831417,
+      "word": "长沙一外卖员抓猫从26楼扔下致死",
+      "onboard_time": 1730018897,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1819131,
@@ -5753,6 +5761,14 @@
       "onboard_time": 1729951341,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035903,
+      "num": 1035903,
+      "word": "单依纯工作室脑子快转冒烟了",
+      "onboard_time": 1730017878,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1035792,
@@ -12979,6 +12995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601617,
+      "num": 261039,
+      "word": "郑钦文夺冠后发博",
+      "onboard_time": 1730017578,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601398,
       "num": 601398,
       "word": "杨幂粉色抹胸长裙梦回夏晚晴",
@@ -14545,6 +14569,14 @@
       "onboard_time": 1728799998,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544292,
+      "num": 544292,
+      "word": "可可西里讨食狼越来越多",
+      "onboard_time": 1730019017,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544239,
@@ -19563,6 +19595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397540,
+      "num": 257807,
+      "word": "博主称小西天保安大叔今日辞职",
+      "onboard_time": 1730019379,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397256,
       "num": 277597,
       "word": "易烊千玺朋友请听好后续",
@@ -19665,14 +19705,6 @@
       "onboard_time": 1727984952,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 394577,
-      "num": 245480,
-      "word": "单依纯工作室脑子快转冒烟了",
-      "onboard_time": 1730017878,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 394468,
@@ -25507,6 +25539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293926,
+      "num": 238243,
+      "word": "侯明昊圈内人缘",
+      "onboard_time": 1730015777,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293864,
       "num": 428090,
       "word": "国庆档电影票房一路飘红破纪录",
@@ -26209,6 +26249,14 @@
       "onboard_time": 1728114979,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286404,
+      "num": 256576,
+      "word": "柳智敏李瑞cha了",
+      "onboard_time": 1730020399,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 286268,
@@ -28001,6 +28049,14 @@
       "onboard_time": 1728377541,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267605,
+      "num": 303106,
+      "word": "以军公布出动战机袭击伊朗视频",
+      "onboard_time": 1730016918,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 267434,
@@ -30667,14 +30723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241174,
-      "num": 303106,
-      "word": "以军公布出动战机袭击伊朗视频",
-      "onboard_time": 1730016918,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 241172,
       "num": 226103,
       "word": "杨幂辅助丁程鑫存活率为零",
@@ -31057,6 +31105,14 @@
       "onboard_time": 1728294563,
       "rank": 15,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 237758,
+      "num": 237758,
+      "word": "2岁小孩的词汇量有多恐怖",
+      "onboard_time": 1730017457,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 237523,
@@ -33097,14 +33153,6 @@
       "onboard_time": 1729666219,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222078,
-      "num": 185832,
-      "word": "侯明昊圈内人缘",
-      "onboard_time": 1730015777,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 221959,
@@ -39833,14 +39881,6 @@
       "onboard_time": 1729352059,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192955,
-      "num": 171663,
-      "word": "郑钦文夺冠后发博",
-      "onboard_time": 1730017578,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 192900,
@@ -49427,6 +49467,14 @@
       "category": "母婴育儿,教育"
     },
     {
+      "raw_hot": 155493,
+      "num": 155493,
+      "word": "谁懂许嵩这一圈专辑名的杀伤力",
+      "onboard_time": 1730019077,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155487,
       "num": 155487,
       "word": "白敬亭单手打蛋 眼睛会了手没会",
@@ -54067,6 +54115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138487,
+      "num": 138487,
+      "word": "钎城国风舞枪好惊艳",
+      "onboard_time": 1730019919,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138485,
       "num": 138485,
       "word": "赵露思白色深V针织衫",
@@ -54185,6 +54241,14 @@
       "onboard_time": 1729472418,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138245,
+      "num": 138245,
+      "word": "特朗普谈总统任期中犯的最大错误",
+      "onboard_time": 1730020640,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 138198,
@@ -55065,6 +55129,14 @@
       "onboard_time": 1728037157,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134740,
+      "num": 134740,
+      "word": "在浙江农村吃席被震惊了",
+      "onboard_time": 1730016198,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 134739,
@@ -57379,14 +57451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126349,
-      "num": 126349,
-      "word": "2岁小孩的词汇量有多恐怖",
-      "onboard_time": 1730017457,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126343,
       "num": 126343,
       "word": "Moncler大秀",
@@ -57699,12 +57763,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 125344,
-      "num": 125344,
-      "word": "在浙江农村吃席被震惊了",
-      "onboard_time": 1730016198,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "李佳薇高音快成超声波了",
+      "onboard_time": 1730020038,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 125313,
@@ -62795,6 +62859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101892,
+      "num": 101892,
+      "word": "左航拍摄花絮",
+      "onboard_time": 1730020399,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101876,
       "num": 101876,
       "word": "BLG晋级S14八强",
@@ -62809,6 +62881,14 @@
       "onboard_time": 1729608741,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101858,
+      "num": 101858,
+      "word": "上海申花vs深圳新鹏城",
+      "onboard_time": 1730020700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101836,
@@ -73739,6 +73819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37164,
+      "num": 156870,
+      "word": "以军在加沙医院内四处开火",
+      "onboard_time": 1730019858,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 37160,
       "num": 410234,
       "word": "追寻光辉的足迹",
@@ -75761,6 +75849,14 @@
       "onboard_time": 1728417910,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30577,
+      "num": 663141,
+      "word": "神十八乘组回地球前在忙什么",
+      "onboard_time": 1730017399,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30551,
@@ -78251,6 +78347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 21618,
+      "num": 263616,
+      "word": "可免试获取执业证书不靠谱",
+      "onboard_time": 1730019618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21608,
       "num": 27994,
       "word": "警犬福仔也逃不过班味",
@@ -78483,6 +78587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20836,
+      "num": 245041,
+      "word": "消费者刚充11万家政平台被曝欠薪",
+      "onboard_time": 1730019618,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20829,
       "num": 394486,
       "word": "将研究部分税费支持失业保险",
@@ -78625,14 +78737,6 @@
       "onboard_time": 1727773700,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20318,
-      "num": 437812,
-      "word": "神十八乘组回地球前在忙什么",
-      "onboard_time": 1730017399,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20238,
@@ -79032,6 +79136,14 @@
       "word": "多地阿斯利康药代曾频繁改基因报告",
       "onboard_time": 1728592691,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18553,
+      "num": 255797,
+      "word": "不打扰才是对动物最大的尊重与保护",
+      "onboard_time": 1730019618,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
