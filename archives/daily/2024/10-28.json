@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730071341572,
+  "endTime": 1730072138420,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -51,7 +51,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612186,
+      "raw_hot": 704314,
       "num": 287178,
       "word": "长沙一公厕疑有人冲洗臭豆腐原材料",
       "onboard_time": 1730061851,
@@ -139,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 460238,
+      "num": 460238,
+      "word": "23年前杀害女子真凶被找到时在服刑",
+      "onboard_time": 1730038581,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436226,
       "num": 277698,
       "word": "Gumayusi喊话Bin",
@@ -147,11 +155,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 413417,
-      "num": 413417,
-      "word": "23年前杀害女子真凶被找到时在服刑",
-      "onboard_time": 1730038581,
-      "rank": 15,
+      "raw_hot": 369431,
+      "num": 369431,
+      "word": "网店2小时被水军坑走11万",
+      "onboard_time": 1730028678,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1730047757,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 297967,
-      "num": 297967,
-      "word": "网店2小时被水军坑走11万",
-      "onboard_time": 1730028678,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286684,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 224606,
-      "num": 109080,
+      "num": 114205,
       "word": "Chovy还在补兵",
       "onboard_time": 1730049973,
       "rank": 31,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182517,
+      "num": 290741,
+      "word": "台风以前叫风痴和风台",
+      "onboard_time": 1730070795,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176371,
       "num": 176371,
       "word": "白桃星座",
@@ -313,6 +321,22 @@
       "onboard_time": 1730042361,
       "rank": 19,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 161971,
+      "num": 161971,
+      "word": "Uzi说chovy没有冠军的命",
+      "onboard_time": 1730071696,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 153855,
+      "num": 244833,
+      "word": "张新成回应金鹰节唯一提名95生",
+      "onboard_time": 1730068813,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 149733,
@@ -331,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148240,
+      "num": 148240,
+      "word": "F勒布伦跳上球台庆祝",
+      "onboard_time": 1730071696,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143073,
       "num": 143073,
       "word": "西汉姆联vs曼联",
@@ -339,20 +371,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141993,
+      "num": 141993,
+      "word": "古天乐被催生的反应",
+      "onboard_time": 1730066292,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141498,
       "num": 141498,
       "word": "25岁辅警救落水老人双双溺亡",
       "onboard_time": 1730039120,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139392,
-      "num": 139392,
-      "word": "古天乐被催生的反应",
-      "onboard_time": 1730066292,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 136641,
@@ -411,6 +443,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122482,
+      "num": 122482,
+      "word": "撞以色列公交站司机为以籍阿拉伯人",
+      "onboard_time": 1730055192,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 121322,
+      "num": 121322,
+      "word": "LV柜姐事件原配已提起离婚",
+      "onboard_time": 1730024238,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121060,
       "num": 121060,
       "word": "轿车掉头与货车碰撞轿车内6人身亡",
@@ -443,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114023,
+      "num": 114023,
+      "word": "F1",
+      "onboard_time": 1730071097,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112078,
       "num": 112078,
       "word": "韩国网友抵制HYBE旗下艺人",
@@ -467,20 +523,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108567,
+      "num": 108567,
+      "word": "王者新英雄空空儿首曝",
+      "onboard_time": 1730071155,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107503,
       "num": 107503,
       "word": "时代少年团这一刻钟舞台",
       "onboard_time": 1730041521,
       "rank": 45,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 107198,
-      "num": 107198,
-      "word": "LV柜姐事件原配已提起离婚",
-      "onboard_time": 1730024238,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105152,
@@ -547,22 +603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94073,
-      "num": 176427,
-      "word": "张新成回应金鹰节唯一提名95生",
-      "onboard_time": 1730068813,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 90695,
-      "num": 90695,
-      "word": "撞以色列公交站司机为以籍阿拉伯人",
-      "onboard_time": 1730055192,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 89970,
       "num": 89970,
       "word": "T1 BP",
@@ -571,12 +611,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81158,
-      "num": 81158,
-      "word": "F1",
-      "onboard_time": 1730071097,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 80859,
+      "num": 80859,
+      "word": "纤维肌痛患者9成以上是女性",
+      "onboard_time": 1730070795,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 80213,
+      "num": 80213,
+      "word": "今年第21号台风康妮已经生成",
+      "onboard_time": 1730050814,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78064,
+      "num": 182648,
+      "word": "赵丽颖王梓薇 三搭",
+      "onboard_time": 1730035100,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 76371,
@@ -587,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72546,
+      "num": 72546,
+      "word": "F勒布伦冠军赛夺冠",
+      "onboard_time": 1730071997,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71190,
       "num": 73200,
       "word": "女子为保护女孩手被恶犬咬伤",
@@ -595,31 +659,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70945,
-      "num": 70945,
-      "word": "今年第21号台风康妮已经生成",
-      "onboard_time": 1730050814,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70501,
-      "num": 70501,
-      "word": "王者新英雄空空儿首曝",
-      "onboard_time": 1730071155,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 68812,
-      "num": 68812,
+      "raw_hot": 70632,
+      "num": 70632,
       "word": "官方回应公厕有人冲洗臭豆腐原材料",
       "onboard_time": 1730058970,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62667,
+      "raw_hot": 66189,
+      "num": 66189,
+      "word": "郭艾伦你就宠着孟子义吧",
+      "onboard_time": 1730042120,
+      "rank": 45,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 66164,
       "num": 90509,
       "word": "李纯 同时怼恶婆婆和妈宝男",
       "onboard_time": 1730041341,
@@ -627,12 +683,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61854,
-      "num": 61854,
-      "word": "纤维肌痛患者9成以上是女性",
-      "onboard_time": 1730070795,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 63663,
+      "num": 63663,
+      "word": "哈里斯和特朗普民调结果不相上下",
+      "onboard_time": 1730060650,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 63160,
+      "num": 63160,
+      "word": "鞠婧祎低丸子盘发",
+      "onboard_time": 1730072116,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 63063,
+      "num": 63063,
+      "word": "T1战胜GEN",
+      "onboard_time": 1730071097,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 61810,
+      "num": 61810,
+      "word": "警方通报乘客酒后殴打网约车司机",
+      "onboard_time": 1730057471,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60041,
@@ -651,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59335,
-      "num": 89348,
-      "word": "赵丽颖王梓薇 三搭",
-      "onboard_time": 1730035100,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 58250,
       "num": 76633,
       "word": "justsu直拍",
@@ -675,44 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57633,
-      "num": 57633,
-      "word": "警方通报乘客酒后殴打网约车司机",
-      "onboard_time": 1730057471,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54547,
-      "num": 54547,
-      "word": "郭艾伦你就宠着孟子义吧",
-      "onboard_time": 1730042120,
-      "rank": 45,
-      "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 53334,
-      "num": 53334,
-      "word": "T1战胜GEN",
-      "onboard_time": 1730071097,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53256,
       "num": 117450,
       "word": "张凯丽也体会到秦海璐周一围的苦了",
       "onboard_time": 1730036360,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53170,
-      "num": 53170,
-      "word": "哈里斯和特朗普民调结果不相上下",
-      "onboard_time": 1730060650,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 42315,
@@ -771,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15371,
-      "num": 290741,
-      "word": "台风以前叫风痴和风台",
-      "onboard_time": 1730070795,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15314,
       "num": 1051933,
       "word": "秋冬旅游热门目的地航线航班增加",
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 7730,
-      "num": 444111,
+      "num": 466610,
       "word": "这件瓷壶静静美了700多年",
       "onboard_time": 1730037382,
       "rank": 2,
