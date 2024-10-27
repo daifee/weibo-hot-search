@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729998462095,
+  "endTime": 1729999949792,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -11,6 +11,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2148572,
+      "num": 608146,
+      "word": "LV柜姐事件原配回应",
+      "onboard_time": 1729997179,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1876486,
       "num": 1876486,
       "word": "以军强迫加沙男医生一丝不挂",
@@ -19,20 +27,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1655210,
-      "num": 608146,
-      "word": "LV柜姐事件原配回应",
-      "onboard_time": 1729997179,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1573960,
       "num": 1573960,
       "word": "再见爱人4最应该离婚的一对",
       "onboard_time": 1729992137,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1481299,
+      "num": 601162,
+      "word": "第37届金鸡奖提名名单",
+      "onboard_time": 1729998857,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1200153,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1177339,
-      "num": 314238,
+      "num": 364489,
       "word": "被醉汉强吻女子2天都不敢睡",
       "onboard_time": 1729962616,
       "rank": 40,
@@ -147,6 +155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 594383,
+      "num": 559726,
+      "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
+      "onboard_time": 1729996217,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586182,
       "num": 589632,
       "word": "永夜星河定档",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472051,
+      "num": 472051,
+      "word": "许嵩 我到鸟巢只比唐僧取经少一年",
+      "onboard_time": 1729997959,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 460856,
       "num": 375336,
       "word": "赵露思生图live",
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395065,
+      "num": 395065,
+      "word": "留几手",
+      "onboard_time": 1729996638,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380878,
       "num": 380878,
       "word": "喻言卡位",
@@ -289,6 +321,14 @@
       "onboard_time": 1729983974,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357008,
+      "num": 357008,
+      "word": "原来辛芷蕾演的才是真乔妍",
+      "onboard_time": 1729999217,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 352626,
@@ -323,27 +363,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335230,
-      "num": 335230,
-      "word": "留几手",
-      "onboard_time": 1729996638,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327163,
       "num": 377667,
       "word": "30岁当然还可以觉得自己像小孩",
       "onboard_time": 1729959918,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324940,
-      "num": 324940,
-      "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
-      "onboard_time": 1729996217,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -387,6 +411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302831,
+      "num": 302831,
+      "word": "许嵩 我不喜欢瘦我喜欢胖",
+      "onboard_time": 1729997719,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 302285,
+      "num": 302285,
+      "word": "徐璐陪诊哭了",
+      "onboard_time": 1729999160,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293253,
       "num": 226656,
       "word": "杨幂粉色抹胸长裙梦回夏晚晴",
@@ -401,6 +441,30 @@
       "onboard_time": 1729961716,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291499,
+      "num": 291499,
+      "word": "金鸡奖海报",
+      "onboard_time": 1729998137,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 290262,
+      "num": 387630,
+      "word": "特朗普称当选就公布肯尼迪遇刺档案",
+      "onboard_time": 1729998677,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 289203,
+      "num": 565612,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1729997899,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 287495,
@@ -571,28 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214478,
-      "num": 215515,
-      "word": "许嵩 我不喜欢瘦我喜欢胖",
-      "onboard_time": 1729997719,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214271,
       "num": 214271,
       "word": "有的网红账号看似真实实为水军工具",
       "onboard_time": 1729980672,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209003,
-      "num": 209003,
-      "word": "金鸡奖海报",
-      "onboard_time": 1729998137,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 208584,
@@ -609,14 +657,6 @@
       "onboard_time": 1729959378,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201351,
-      "num": 201351,
-      "word": "许嵩 我到鸟巢只比唐僧取经少一年",
-      "onboard_time": 1729997959,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 199194,
@@ -667,6 +707,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182645,
+      "num": 182645,
+      "word": "肚子疼西医给我开了两根冰棍",
+      "onboard_time": 1729997778,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179642,
+      "num": 179642,
+      "word": "大学生假扮高中生给弟弟送情书",
+      "onboard_time": 1729999097,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175708,
       "num": 102122,
       "word": "赞达亚荷兰弟 女王和她的小手办",
@@ -707,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165149,
-      "num": 275527,
-      "word": "郑钦文vs肯宁",
-      "onboard_time": 1729997899,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "辛芷蕾工作室的海报没有辛芷蕾",
@@ -737,6 +785,14 @@
       "onboard_time": 1729985174,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161303,
+      "num": 161303,
+      "word": "赵丽颖蒲公英写真",
+      "onboard_time": 1729999517,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 159721,
@@ -803,7 +859,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145580,
+      "raw_hot": 148533,
       "num": 615603,
       "word": "又一批罕见病药有望进医保",
       "onboard_time": 1729996398,
@@ -817,14 +873,6 @@
       "onboard_time": 1729988177,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142162,
-      "num": 142162,
-      "word": "肚子疼西医给我开了两根冰棍",
-      "onboard_time": 1729997778,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 141062,
@@ -864,6 +912,14 @@
       "word": "辽宁海事局最新航行警告",
       "onboard_time": 1729954939,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133971,
+      "num": 636687,
+      "word": "小区投喂流浪猫抓伤邻居需担责吗",
+      "onboard_time": 1729992737,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -947,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119453,
+      "num": 119453,
+      "word": "保时捷售价跌破40万背后",
+      "onboard_time": 1729999818,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102098,
       "num": 287868,
       "word": "人造宝石或进一步降价",
@@ -992,14 +1056,6 @@
       "word": "全球约70%人工宝石产自广西梧州",
       "onboard_time": 1729965974,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62592,
-      "num": 636687,
-      "word": "小区投喂流浪猫抓伤邻居需担责吗",
-      "onboard_time": 1729992737,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1151,6 +1207,14 @@
       "num": 1394643,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15893,
+      "num": 611189,
+      "word": "我国最大平价海上风电项目并网发电",
+      "onboard_time": 1729999398,
       "rank": 2,
       "category": "社会新闻"
     },
