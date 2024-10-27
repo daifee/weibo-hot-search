@@ -1,0 +1,410 @@
+{
+  "runTime": 1730047344474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3122104,
+        "num": 3122104,
+        "word": "T1晋级S14决赛",
+        "onboard_time": 1730046199,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1553896,
+        "num": 1553896,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10664,
+        "num": 1051933,
+        "word": "秋冬旅游热门目的地航线航班增加",
+        "onboard_time": 1730037501,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044428,
+        "num": 1044428,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855953,
+        "num": 855953,
+        "word": "T1对战GEN",
+        "onboard_time": 1730033479,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 845320,
+        "num": 845320,
+        "word": "Faker飞雷神",
+        "onboard_time": 1730043680,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300108,
+        "num": 843237,
+        "word": "杜华后悔一个人来看李梦",
+        "onboard_time": 1730042361,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292641,
+        "num": 710772,
+        "word": "镜头从严浩翔切到沈腾有多好笑",
+        "onboard_time": 1730032761,
+        "rank": 7,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 24942,
+        "num": 623790,
+        "word": "以色列一天2起汽车冲撞人群事件",
+        "onboard_time": 1730046797,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 483671,
+        "num": 563470,
+        "word": "Faker第七次晋级决赛",
+        "onboard_time": 1730046379,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 517958,
+        "num": 517958,
+        "word": "Elk看困了",
+        "onboard_time": 1730043441,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 513015,
+        "num": 513015,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464384,
+        "num": 464384,
+        "word": "塔斯汀门店回应汉堡肉是生的",
+        "onboard_time": 1730041881,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464304,
+        "num": 464304,
+        "word": "烧伤妈妈情况不好",
+        "onboard_time": 1730040141,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426312,
+        "num": 426312,
+        "word": "饶雪漫和翁青雅吃饭",
+        "onboard_time": 1730042060,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408846,
+        "num": 408846,
+        "word": "黄嘉千女儿14岁近照",
+        "onboard_time": 1730039902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383884,
+        "num": 383884,
+        "word": "林诗栋0比4F勒布伦",
+        "onboard_time": 1730037682,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369043,
+        "num": 369043,
+        "word": "BLG决赛对战T1",
+        "onboard_time": 1730047037,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232081,
+        "num": 360672,
+        "word": "周深给杨幂提裙子",
+        "onboard_time": 1730042419,
+        "rank": 18,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 180963,
+        "num": 340233,
+        "word": "赵丽颖百花飞天东京金鹰金鸡五连击",
+        "onboard_time": 1730038880,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 700194,
+        "num": 306413,
+        "word": "周雨彤边界感",
+        "onboard_time": 1730029699,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494290,
+        "num": 296672,
+        "word": "乐言 oner看不懂",
+        "onboard_time": 1730044398,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281208,
+        "num": 281208,
+        "word": "GEN止步S14四强",
+        "onboard_time": 1730046497,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259723,
+        "num": 259723,
+        "word": "23年前杀害女子真凶被找到时在服刑",
+        "onboard_time": 1730038581,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256178,
+        "num": 256178,
+        "word": "Chovy 隐身",
+        "onboard_time": 1730046439,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245091,
+        "num": 245091,
+        "word": "大藤沙月4比2张本美和",
+        "onboard_time": 1730046617,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 243212,
+        "word": "刘耀文比赛结束就搂上宋亚轩",
+        "onboard_time": 1730042361,
+        "rank": 26,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 120821,
+        "num": 241151,
+        "word": "张予曦cos芈月",
+        "onboard_time": 1730037801,
+        "rank": 27,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 114100,
+        "num": 239201,
+        "word": "十个勤天种下一个未来巡回演唱会",
+        "onboard_time": 1730045599,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107573,
+        "num": 238889,
+        "word": "周深游戏ID是周深藏不露头",
+        "onboard_time": 1730039902,
+        "rank": 29,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 236982,
+        "num": 236982,
+        "word": "29岁女生被脱口秀主持人喊大姐",
+        "onboard_time": 1730029160,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227169,
+        "num": 227169,
+        "word": "WTT蒙彼利埃冠军赛2024",
+        "onboard_time": 1730044758,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196637,
+        "num": 196637,
+        "word": "S赛的T1好强",
+        "onboard_time": 1730043262,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194829,
+        "num": 194829,
+        "word": "买房除了凑首付还要交这些钱",
+        "onboard_time": 1730044700,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193525,
+        "num": 193525,
+        "word": "鞠婧祎薄荷绿长裙",
+        "onboard_time": 1730031739,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162603,
+        "num": 162603,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158936,
+        "num": 158936,
+        "word": "张本智和晋级冠军赛决赛",
+        "onboard_time": 1730039781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137564,
+        "num": 137564,
+        "word": "要挤干网络水军的水分",
+        "onboard_time": 1730043199,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122598,
+        "num": 122598,
+        "word": "涵艺爆料Ruler离队原因",
+        "onboard_time": 1730038280,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120331,
+        "num": 120331,
+        "word": "JDG官宣Ruler离队",
+        "onboard_time": 1730027360,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119469,
+        "num": 119469,
+        "word": "白桃星座",
+        "onboard_time": 1730042660,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117988,
+        "num": 117988,
+        "word": "网店2小时被水军坑走11万",
+        "onboard_time": 1730028678,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115166,
+        "num": 115166,
+        "word": "25岁辅警救落水老人双双溺亡",
+        "onboard_time": 1730039120,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106886,
+        "num": 106886,
+        "word": "她叫杨妞花",
+        "onboard_time": 1730043081,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103088,
+        "num": 103088,
+        "word": "轿车掉头与货车碰撞轿车内6人身亡",
+        "onboard_time": 1730035519,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100999,
+        "num": 100999,
+        "word": "易烊千玺确认出席东京电影节",
+        "onboard_time": 1730041762,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99107,
+        "num": 99107,
+        "word": "韩国网友抵制HYBE旗下艺人",
+        "onboard_time": 1730027537,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97850,
+        "num": 97850,
+        "word": "沈梦辰不含一根假发片的plog",
+        "onboard_time": 1730039001,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "时代少年团这一刻钟舞台",
+        "onboard_time": 1730041521,
+        "rank": 48,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 89970,
+        "num": 89970,
+        "word": "T1 BP",
+        "onboard_time": 1730047158,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看西部陆海新通道建设新貌#"
+    }
+  }
+}

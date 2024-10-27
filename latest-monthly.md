@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 00:27:04
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 00:42:24
 </p>
 </blockquote>
 <p>
@@ -245,6 +245,12 @@ UNIQ 解散（热度：3249713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E7%BA%A2%E6%AF%AF%23" target="weibo">
 VOGUE红毯（热度：3127370）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S14%E5%86%B3%E8%B5%9B%23" target="weibo">
+T1晋级S14决赛（热度：3122104）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ whiplash 吒味十足（热度：872043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BA%A7%E5%AD%90%E9%94%81%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%87%B4%E6%AD%BB%23" target="weibo">
 英国一学生宿舍产子锁行李箱致死（热度：861114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
-檀健次经纪人聊天记录（热度：861104）
 </a>
 </li>
 

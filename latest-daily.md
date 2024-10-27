@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 00:27:04
+本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 00:42:24
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S14%E5%86%B3%E8%B5%9B%23" target="weibo">
+T1晋级S14决赛（热度：3122104）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%A1%94%E6%96%AF%E6%B1%80%E6%B1%89%E5%A0%A1%E5%90%83%E5%87%BA%E7%94%9F%E8%82%89%23" target="weibo">
@@ -29,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98GEN%23" target="weibo">
 T1对战GEN（热度：952675）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E9%A3%9E%E9%9B%B7%E7%A5%9E%23" target="weibo">
+Faker飞雷神（热度：845320）
 </a>
 </li>
 
@@ -51,12 +63,6 @@ T1对战GEN（热度：952675）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E9%A3%9E%E9%9B%B7%E7%A5%9E%23" target="weibo">
-Faker飞雷神（热度：555036）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%94%E6%96%AF%E6%B1%80%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%B1%89%E5%A0%A1%E8%82%89%E6%98%AF%E7%94%9F%E7%9A%84%23" target="weibo">
 塔斯汀门店回应汉堡肉是生的（热度：552654）
 </a>
@@ -65,6 +71,18 @@ Faker飞雷神（热度：555036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E5%92%8C%E7%BF%81%E9%9D%92%E9%9B%85%E5%90%83%E9%A5%AD%23" target="weibo">
 饶雪漫和翁青雅吃饭（热度：539965）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Elk%E7%9C%8B%E5%9B%B0%E4%BA%86%23" target="weibo">
+Elk看困了（热度：517958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%A8%80%20oner%E7%9C%8B%E4%B8%8D%E6%87%82%23" target="weibo">
+乐言 oner看不懂（热度：494290）
 </a>
 </li>
 
@@ -81,8 +99,14 @@ Faker飞雷神（热度：555036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S14%E5%86%B3%E8%B5%9B%23" target="weibo">
-T1晋级S14决赛（热度：410922）
+<a href="https://s.weibo.com/weibo?q=%23Faker%E7%AC%AC%E4%B8%83%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
+Faker第七次晋级决赛（热度：483671）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23" target="weibo">
+BLG决赛对战T1（热度：369043）
 </a>
 </li>
 
@@ -117,14 +141,20 @@ T1晋级S14决赛（热度：410922）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%A8%80%20oner%E7%9C%8B%E4%B8%8D%E6%87%82%23" target="weibo">
-乐言 oner看不懂（热度：254244）
+<a href="https://s.weibo.com/weibo?q=%23GEN%E6%AD%A2%E6%AD%A5S14%E5%9B%9B%E5%BC%BA%23" target="weibo">
+GEN止步S14四强（热度：281208）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Elk%E7%9C%8B%E5%9B%B0%E4%BA%86%23" target="weibo">
-Elk看困了（热度：240833）
+<a href="https://s.weibo.com/weibo?q=%23Chovy%20%E9%9A%90%E8%BA%AB%23" target="weibo">
+Chovy 隐身（热度：256178）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%884%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
+大藤沙月4比2张本美和（热度：245091）
 </a>
 </li>
 
@@ -159,14 +189,26 @@ WTT蒙彼利埃冠军赛2024（热度：237070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23S%E8%B5%9B%E7%9A%84T1%E5%A5%BD%E5%BC%BA%23" target="weibo">
+S赛的T1好强（热度：196637）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%88%BF%E9%99%A4%E4%BA%86%E5%87%91%E9%A6%96%E4%BB%98%E8%BF%98%E8%A6%81%E4%BA%A4%E8%BF%99%E4%BA%9B%E9%92%B1%23" target="weibo">
+买房除了凑首付还要交这些钱（热度：194829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
 白桃星座（热度：176371）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%88%BF%E9%99%A4%E4%BA%86%E5%87%91%E9%A6%96%E4%BB%98%E8%BF%98%E8%A6%81%E4%BA%A4%E8%BF%99%E4%BA%9B%E9%92%B1%23" target="weibo">
-买房除了凑首付还要交这些钱（热度：158078）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9D%9F%E5%B0%B1%E6%90%82%E4%B8%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%23" target="weibo">
+刘耀文比赛结束就搂上宋亚轩（热度：163860）
 </a>
 </li>
 
@@ -179,12 +221,6 @@ WTT蒙彼利埃冠军赛2024（热度：237070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9%23" target="weibo">
 T1拿到赛点（热度：149109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9D%9F%E5%B0%B1%E6%90%82%E4%B8%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%23" target="weibo">
-刘耀文比赛结束就搂上宋亚轩（热度：144822）
 </a>
 </li>
 
@@ -231,14 +267,14 @@ T1拿到赛点（热度：149109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BF%E8%BD%A6%E6%8E%89%E5%A4%B4%E4%B8%8E%E8%B4%A7%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%BD%BF%E8%BD%A6%E5%86%856%E4%BA%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
-轿车掉头与货车碰撞轿车内6人身亡（热度：121060）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%B5%E8%89%BA%E7%88%86%E6%96%99Ruler%E7%A6%BB%E9%98%9F%E5%8E%9F%E5%9B%A0%23" target="weibo">
+涵艺爆料Ruler离队原因（热度：122598）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E7%AC%AC%E4%B8%83%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
-Faker第七次晋级决赛（热度：120927）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BF%E8%BD%A6%E6%8E%89%E5%A4%B4%E4%B8%8E%E8%B4%A7%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%BD%BF%E8%BD%A6%E5%86%856%E4%BA%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
+轿车掉头与货车碰撞轿车内6人身亡（热度：121060）
 </a>
 </li>
 
@@ -249,14 +285,14 @@ Faker第七次晋级决赛（热度：120927）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%A7%8D%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9C%AA%E6%9D%A5%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-十个勤天种下一个未来巡回演唱会（热度：116408）
+<a href="https://s.weibo.com/weibo?q=%23JDG%E5%AE%98%E5%AE%A3Ruler%E7%A6%BB%E9%98%9F%23" target="weibo">
+JDG官宣Ruler离队（热度：120331）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23S%E8%B5%9B%E7%9A%84T1%E5%A5%BD%E5%BC%BA%23" target="weibo">
-S赛的T1好强（热度：115528）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%A7%8D%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9C%AA%E6%9D%A5%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+十个勤天种下一个未来巡回演唱会（热度：116408）
 </a>
 </li>
 
@@ -309,6 +345,24 @@ S赛的T1好强（热度：115528）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8D%E5%90%AB%E4%B8%80%E6%A0%B9%E5%81%87%E5%8F%91%E7%89%87%E7%9A%84plog%23" target="weibo">
+沈梦辰不含一根假发片的plog（热度：97850）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%20BP%23" target="weibo">
+T1 BP（热度：89970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%80%E5%A4%A92%E8%B5%B7%E6%B1%BD%E8%BD%A6%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E4%BA%8B%E4%BB%B6%23" target="weibo">
+以色列一天2起汽车冲撞人群事件（热度：24942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E6%97%85%E6%B8%B8%E7%83%AD%E9%97%A8%E7%9B%AE%E7%9A%84%E5%9C%B0%E8%88%AA%E7%BA%BF%E8%88%AA%E7%8F%AD%E5%A2%9E%E5%8A%A0%23" target="weibo">
 秋冬旅游热门目的地航线航班增加（热度：15314）
 </a>
@@ -323,6 +377,12 @@ S赛的T1好强（热度：115528）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%96%80%E5%B1%B1%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
 #三个维度看习近平喀山之行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%BE%AA%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E5%88%87%E7%9C%8B%E8%A5%BF%E9%83%A8%E9%99%86%E6%B5%B7%E6%96%B0%E9%80%9A%E9%81%93%E5%BB%BA%E8%AE%BE%E6%96%B0%E8%B2%8C%23%23" target="weibo">
+#循着总书记关切看西部陆海新通道建设新貌#
 </a>
 </li>
 
