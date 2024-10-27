@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730011380979,
+  "endTime": 1730013637967,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -43,20 +43,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1876197,
+      "num": 346073,
+      "word": "工资4000一个月的存钱计划",
+      "onboard_time": 1730009898,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1735646,
       "num": 1228460,
       "word": "第37届金鸡奖提名名单",
       "onboard_time": 1729998857,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1593566,
-      "num": 346073,
-      "word": "工资4000一个月的存钱计划",
-      "onboard_time": 1730009898,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1573960,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 968069,
+      "num": 310821,
+      "word": "离婚后发现男方隐匿了上百万房产",
+      "onboard_time": 1730011879,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942417,
       "num": 952324,
       "word": "刘青松哭了",
@@ -201,6 +209,14 @@
       "onboard_time": 1729999160,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 733515,
+      "num": 1117362,
+      "word": "金鸡 提名",
+      "onboard_time": 1730005881,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 728974,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405971,
+      "num": 323615,
+      "word": "金鸡奖最佳女主提名3个00后",
+      "onboard_time": 1730008519,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396359,
       "num": 396359,
       "word": "想到余华英丈夫给孙子糖就害怕",
@@ -464,6 +488,14 @@
       "word": "国家医保局新增免陪照护服务",
       "onboard_time": 1730000718,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365406,
+      "num": 202445,
+      "word": "LV柜姐事件原配辟谣",
+      "onboard_time": 1730009778,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -633,14 +665,6 @@
       "onboard_time": 1729954821,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276257,
-      "num": 306280,
-      "word": "金鸡奖最佳女主提名3个00后",
-      "onboard_time": 1730008519,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 272660,
@@ -835,7 +859,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223229,
+      "raw_hot": 225490,
       "num": 223229,
       "word": "第一次见清洁力这么强的食物",
       "onboard_time": 1730008099,
@@ -955,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197117,
+      "num": 197117,
+      "word": "乔妍的心事",
+      "onboard_time": 1730012538,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196177,
       "num": 196177,
       "word": "应采儿发Jasper全英文演讲",
@@ -969,14 +1001,6 @@
       "onboard_time": 1730001199,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194031,
-      "num": 194031,
-      "word": "LV柜姐事件原配辟谣",
-      "onboard_time": 1730009778,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191956,
@@ -1091,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172946,
+      "num": 172946,
+      "word": "当初处罚骑手的人失业后送外卖",
+      "onboard_time": 1730011279,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 171319,
       "num": 171319,
       "word": "宋亚轩的6号马赢了",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1729955002,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166790,
+      "num": 232625,
+      "word": "神十八乘组开展返回前各项准备",
+      "onboard_time": 1730011099,
+      "rank": 18,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 166179,
@@ -1443,6 +1483,30 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 116073,
+      "num": 116073,
+      "word": "一手烂牌打不出王炸人生",
+      "onboard_time": 1730012179,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113510,
+      "num": 113510,
+      "word": "毒液",
+      "onboard_time": 1730006659,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111861,
+      "num": 235358,
+      "word": "杜德伟苏有朋脱掉舞台圆披哥遗憾",
+      "onboard_time": 1730008699,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 111580,
       "num": 111580,
       "word": "永夜星河一键乱码",
@@ -1467,12 +1531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102074,
-      "num": 235358,
-      "word": "杜德伟苏有朋脱掉舞台圆披哥遗憾",
-      "onboard_time": 1730008699,
-      "rank": 49,
-      "category": "音乐"
+      "raw_hot": 100787,
+      "num": 100787,
+      "word": "陈梦最想问自己的一个问题",
+      "onboard_time": 1730013618,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100408,
+      "num": 319625,
+      "word": "凤冠冰箱贴成国博销冠",
+      "onboard_time": 1730012838,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98819,
@@ -1497,22 +1569,6 @@
       "onboard_time": 1730008159,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94907,
-      "num": 94907,
-      "word": "当初处罚骑手的人失业后送外卖",
-      "onboard_time": 1730011279,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 87692,
-      "num": 232625,
-      "word": "神十八乘组开展返回前各项准备",
-      "onboard_time": 1730011099,
-      "rank": 18,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 87496,
@@ -1551,6 +1607,14 @@
       "num": 120239,
       "word": "全球约70%人工宝石产自广西梧州",
       "onboard_time": 1729965974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64475,
+      "num": 312379,
+      "word": "青海两户6人中毒死亡背后",
+      "onboard_time": 1730012417,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1683,6 +1747,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 37977,
+      "num": 289783,
+      "word": "代炒菜会在菜市场普及吗",
+      "onboard_time": 1730012417,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37345,
+      "num": 304763,
+      "word": "成毅给粉丝鞠躬",
+      "onboard_time": 1730009837,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32217,
       "num": 293121,
       "word": "律师称南通捅人嫌犯或将数罪并罚",
@@ -1721,14 +1801,6 @@
       "onboard_time": 1729968793,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26684,
-      "num": 247165,
-      "word": "成毅给粉丝鞠躬",
-      "onboard_time": 1730009837,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 26296,
