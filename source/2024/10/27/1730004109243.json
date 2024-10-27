@@ -1,0 +1,410 @@
+{
+  "runTime": 1730004109243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2118980,
+        "num": 2118980,
+        "word": "热辣滚烫0提",
+        "onboard_time": 1730002338,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1234030,
+        "num": 1234030,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45469,
+        "num": 761358,
+        "word": "我国最大平价海上风电项目并网发电",
+        "onboard_time": 1729999398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407722,
+        "num": 761289,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 761150,
+        "num": 761150,
+        "word": "以军强迫加沙男医生一丝不挂",
+        "onboard_time": 1729993157,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 410733,
+        "num": 410733,
+        "word": "英国一学生宿舍产子锁行李箱致死",
+        "onboard_time": 1729992798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001652,
+        "num": 407608,
+        "word": "第37届金鸡奖提名名单",
+        "onboard_time": 1729998857,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 642535,
+        "num": 397985,
+        "word": "再见爱人4最应该离婚的一对",
+        "onboard_time": 1729992137,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367813,
+        "num": 367813,
+        "word": "超过100架飞机袭击伊朗",
+        "onboard_time": 1729992438,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50067,
+        "num": 365276,
+        "word": "官方回应山东一餐饮店夜间坍塌",
+        "onboard_time": 1730003418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565834,
+        "num": 360990,
+        "word": "赵丽颖金鸡奖最佳女配提名",
+        "onboard_time": 1730001797,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 546431,
+        "num": 358477,
+        "word": "原来辛芷蕾演的才是真乔妍",
+        "onboard_time": 1729999217,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75206,
+        "num": 354628,
+        "word": "肖战水灵灵地出现了",
+        "onboard_time": 1730000178,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545527,
+        "num": 351066,
+        "word": "郭敬明又换名了",
+        "onboard_time": 1729990219,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496132,
+        "num": 347650,
+        "word": "特朗普称当选就公布肯尼迪遇刺档案",
+        "onboard_time": 1729998677,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 344563,
+        "num": 344563,
+        "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
+        "onboard_time": 1729996217,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263063,
+        "num": 263063,
+        "word": "家里失火后只有蛋挞是好的",
+        "onboard_time": 1729996158,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151477,
+        "num": 236687,
+        "word": "赵丽颖在乔妍的心事中的演技",
+        "onboard_time": 1730000779,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231861,
+        "num": 231861,
+        "word": "郑钦文vs肯宁",
+        "onboard_time": 1729997899,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104392,
+        "num": 231114,
+        "word": "一周工作4天打工人会更快乐吗",
+        "onboard_time": 1730001797,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1539327,
+        "num": 230633,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366610,
+        "num": 229628,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347090,
+        "num": 229179,
+        "word": "周杰伦演唱会开场前歌迷场外生子",
+        "onboard_time": 1729988416,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 337694,
+        "num": 228165,
+        "word": "徐璐陪诊哭了",
+        "onboard_time": 1729999160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307322,
+        "num": 227771,
+        "word": "许嵩 我到鸟巢只比唐僧取经少一年",
+        "onboard_time": 1729997959,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280605,
+        "num": 226460,
+        "word": "大学生假扮高中生给弟弟送情书",
+        "onboard_time": 1729999097,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272660,
+        "num": 225557,
+        "word": "虞书欣丁禹兮3年二搭",
+        "onboard_time": 1730002938,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263935,
+        "num": 225129,
+        "word": "永夜星河定档",
+        "onboard_time": 1729985955,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260064,
+        "num": 224082,
+        "word": "杨幂直播为戚薇庆生",
+        "onboard_time": 1730001858,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 247154,
+        "num": 223560,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1729992617,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223185,
+        "num": 223185,
+        "word": "米歇尔让男选民投票前想想女儿",
+        "onboard_time": 1729999998,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220285,
+        "num": 220285,
+        "word": "两高中生奸杀教师案最新进展",
+        "onboard_time": 1730004018,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205597,
+        "num": 205597,
+        "word": "留几手",
+        "onboard_time": 1729996638,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215535,
+        "num": 205226,
+        "word": "杨幂沈腾上班上到眼里没光了",
+        "onboard_time": 1730003597,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202153,
+        "num": 202153,
+        "word": "心动的信号",
+        "onboard_time": 1730002338,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199365,
+        "num": 199365,
+        "word": "国家医保局新增免陪照护服务",
+        "onboard_time": 1730000718,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 194600,
+        "word": "樊振东连发5条皇马动态",
+        "onboard_time": 1730001199,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190020,
+        "num": 190020,
+        "word": "全红婵晒了好多人模仿向佐",
+        "onboard_time": 1730003178,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 179927,
+        "num": 179927,
+        "word": "王一博连续两年提名金鸡奖",
+        "onboard_time": 1730002398,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179405,
+        "num": 179405,
+        "word": "杭州万圣节",
+        "onboard_time": 1730001137,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170421,
+        "num": 170421,
+        "word": "许嵩 我不喜欢瘦我喜欢胖",
+        "onboard_time": 1729997719,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153762,
+        "num": 153762,
+        "word": "范丞丞提名金鸡奖最佳男配角",
+        "onboard_time": 1730003959,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153581,
+        "num": 153581,
+        "word": "肚子疼西医给我开了两根冰棍",
+        "onboard_time": 1729997778,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160386,
+        "num": 153475,
+        "word": "演员王一博脚踏实地行而不辍",
+        "onboard_time": 1730003899,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150078,
+        "num": 150078,
+        "word": "带牙套后牙齿可能发生的变化",
+        "onboard_time": 1729986975,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146375,
+        "num": 146375,
+        "word": "国王vs湖人",
+        "onboard_time": 1730000418,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142988,
+        "num": 142988,
+        "word": "金鸡奖海报",
+        "onboard_time": 1729998137,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142129,
+        "num": 142129,
+        "word": "TheShy谈WBG告别S14",
+        "onboard_time": 1729996698,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140395,
+        "num": 140395,
+        "word": "好团圆 生理性分手",
+        "onboard_time": 1730004079,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132392,
+        "num": 140381,
+        "word": "马丽提名金鸡奖最佳女主角",
+        "onboard_time": 1730002518,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}

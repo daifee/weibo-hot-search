@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730003224118,
+  "endTime": 1730004109243,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -17,6 +17,14 @@
       "onboard_time": 1729997179,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2118980,
+      "num": 2118980,
+      "word": "热辣滚烫0提",
+      "onboard_time": 1730002338,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1876486,
@@ -139,14 +147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 846841,
-      "num": 443236,
-      "word": "热辣滚烫0提",
-      "onboard_time": 1730002338,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 728974,
       "num": 728974,
       "word": "郭敬明审美",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 669604,
-      "num": 357008,
+      "num": 358477,
       "word": "原来辛芷蕾演的才是真乔妍",
       "onboard_time": 1729999217,
       "rank": 22,
@@ -209,6 +209,14 @@
       "onboard_time": 1729958660,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 565834,
+      "num": 360990,
+      "word": "赵丽颖金鸡奖最佳女配提名",
+      "onboard_time": 1730001797,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 554615,
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358070,
-      "num": 217794,
-      "word": "赵丽颖金鸡奖最佳女配提名",
-      "onboard_time": 1730001797,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 352626,
       "num": 310735,
       "word": "突然收到前男友爸爸发来的消息",
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272660,
+      "num": 225557,
+      "word": "虞书欣丁禹兮3年二搭",
+      "onboard_time": 1730002938,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272449,
       "num": 272449,
       "word": "TheShy谈WBG告别S14",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 267712,
-      "num": 217595,
+      "num": 224082,
       "word": "杨幂直播为戚薇庆生",
       "onboard_time": 1730001858,
       "rank": 28,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223185,
+      "num": 223185,
+      "word": "米歇尔让男选民投票前想想女儿",
+      "onboard_time": 1729999998,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 222282,
       "num": 222282,
       "word": "成毅把难过的事想了遍还是没忍住",
@@ -683,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217499,
-      "num": 217499,
-      "word": "米歇尔让男选民投票前想想女儿",
-      "onboard_time": 1729999998,
-      "rank": 38,
-      "category": "国外时政"
+      "raw_hot": 220285,
+      "num": 220285,
+      "word": "两高中生奸杀教师案最新进展",
+      "onboard_time": 1730004018,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216322,
@@ -697,6 +713,14 @@
       "onboard_time": 1730002518,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215535,
+      "num": 205226,
+      "word": "杨幂沈腾上班上到眼里没光了",
+      "onboard_time": 1730003597,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 214271,
@@ -723,12 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201481,
-      "num": 201481,
-      "word": "虞书欣丁禹兮3年二搭",
-      "onboard_time": 1730002938,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 202153,
+      "num": 202153,
+      "word": "心动的信号",
+      "onboard_time": 1730002338,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199365,
+      "num": 217533,
+      "word": "国家医保局新增免陪照护服务",
+      "onboard_time": 1730000718,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199194,
@@ -755,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191740,
-      "num": 191740,
-      "word": "心动的信号",
-      "onboard_time": 1730002338,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 194600,
+      "num": 194600,
+      "word": "樊振东连发5条皇马动态",
+      "onboard_time": 1730001199,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191713,
@@ -777,6 +809,14 @@
       "onboard_time": 1730002398,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190020,
+      "num": 190020,
+      "word": "全红婵晒了好多人模仿向佐",
+      "onboard_time": 1730003178,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 189839,
@@ -825,14 +865,6 @@
       "onboard_time": 1729997778,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179511,
-      "num": 179511,
-      "word": "樊振东连发5条皇马动态",
-      "onboard_time": 1730001199,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 175708,
@@ -899,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160386,
+      "num": 153475,
+      "word": "演员王一博脚踏实地行而不辍",
+      "onboard_time": 1730003899,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "粉笔模考",
@@ -947,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153762,
+      "num": 153762,
+      "word": "范丞丞提名金鸡奖最佳男配角",
+      "onboard_time": 1730003959,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152361,
       "num": 152361,
       "word": "广东男篮签约莫兰德",
@@ -963,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151477,
+      "num": 236687,
+      "word": "赵丽颖在乔妍的心事中的演技",
+      "onboard_time": 1730000779,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150352,
       "num": 150352,
       "word": "中国首批太空旅游船票上架即售罄",
@@ -971,12 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146168,
-      "num": 146168,
-      "word": "赵丽颖在乔妍的心事中的演技",
-      "onboard_time": 1730000779,
+      "raw_hot": 146375,
+      "num": 146375,
+      "word": "国王vs湖人",
+      "onboard_time": 1730000418,
       "rank": 45,
-      "category": "电影"
+      "category": "体育"
     },
     {
       "raw_hot": 143721,
@@ -987,20 +1043,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141360,
-      "num": 141360,
-      "word": "全红婵晒了好多人模仿向佐",
-      "onboard_time": 1730003178,
-      "rank": 46,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 141062,
       "num": 141062,
       "word": "神十八乘组高光时刻盘点",
       "onboard_time": 1729990278,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140395,
+      "num": 140395,
+      "word": "好团圆 生理性分手",
+      "onboard_time": 1730004079,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 140177,
@@ -1091,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126851,
-      "num": 126851,
-      "word": "国王vs湖人",
-      "onboard_time": 1730000418,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
@@ -1139,6 +1187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104392,
+      "num": 231114,
+      "word": "一周工作4天打工人会更快乐吗",
+      "onboard_time": 1730001797,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102098,
       "num": 287868,
       "word": "人造宝石或进一步降价",
@@ -1171,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80864,
-      "num": 217894,
-      "word": "一周工作4天打工人会更快乐吗",
-      "onboard_time": 1730001797,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75283,
       "num": 45982,
       "word": "樊振东为皇马国家德比加油",
       "onboard_time": 1729974372,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75206,
+      "num": 354628,
+      "word": "肖战水灵灵地出现了",
+      "onboard_time": 1730000178,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 73022,
@@ -1200,14 +1256,6 @@
       "word": "全球约70%人工宝石产自广西梧州",
       "onboard_time": 1729965974,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66666,
-      "num": 217533,
-      "word": "国家医保局新增免陪照护服务",
-      "onboard_time": 1730000718,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1243,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53211,
-      "num": 218154,
-      "word": "肖战水灵灵地出现了",
-      "onboard_time": 1730000178,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52942,
       "num": 754896,
       "word": "这项工程奇迹创下多个世界第一",
@@ -1280,6 +1320,14 @@
       "word": "我国最大平价海上风电项目并网发电",
       "onboard_time": 1729999398,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50067,
+      "num": 365276,
+      "word": "官方回应山东一餐饮店夜间坍塌",
+      "onboard_time": 1730003418,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
