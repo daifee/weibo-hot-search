@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730006484325,
+  "endTime": 1730007496615,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -49,6 +49,14 @@
       "onboard_time": 1729992137,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1549642,
+      "num": 617526,
+      "word": "金鸡 离谱",
+      "onboard_time": 1730005881,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1256607,
@@ -139,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 878996,
+      "num": 405435,
+      "word": "杨幂和灵儿加微信",
+      "onboard_time": 1730005398,
+      "rank": 10,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 861114,
       "num": 861114,
       "word": "英国一学生宿舍产子锁行李箱致死",
@@ -153,14 +169,6 @@
       "onboard_time": 1729958060,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 851675,
-      "num": 336498,
-      "word": "杨幂和灵儿加微信",
-      "onboard_time": 1730005398,
-      "rank": 10,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 771789,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 706836,
-      "num": 306220,
+      "num": 330819,
       "word": "杨幂沈腾上班上到眼里没光了",
       "onboard_time": 1730003597,
       "rank": 33,
@@ -201,6 +209,14 @@
       "onboard_time": 1729999217,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 648279,
+      "num": 352004,
+      "word": "用人民币感受韩国物价",
+      "onboard_time": 1730005818,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 637785,
@@ -323,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491306,
-      "num": 313331,
-      "word": "金鸡 离谱",
-      "onboard_time": 1730005881,
-      "rank": 12,
-      "category": "电影"
+      "raw_hot": 491755,
+      "num": 309373,
+      "word": "赵牧辰 阮小咪",
+      "onboard_time": 1730005578,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 487524,
@@ -355,11 +371,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425870,
-      "num": 266793,
-      "word": "赵牧辰 阮小咪",
-      "onboard_time": 1730005578,
-      "rank": 25,
+      "raw_hot": 435043,
+      "num": 435043,
+      "word": "余华英两次被判死刑两次称要上诉",
+      "onboard_time": 1730006119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432877,
+      "num": 296339,
+      "word": "秦昊披荆斩棘瘦了20斤",
+      "onboard_time": 1730005398,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -387,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389933,
-      "num": 296339,
-      "word": "秦昊披荆斩棘瘦了20斤",
-      "onboard_time": 1730005398,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 380878,
       "num": 380878,
       "word": "喻言卡位",
@@ -419,8 +435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356076,
-      "num": 356076,
+      "raw_hot": 366938,
+      "num": 366938,
       "word": "国家医保局新增免陪照护服务",
       "onboard_time": 1730000718,
       "rank": 29,
@@ -457,14 +473,6 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 341906,
-      "num": 228247,
-      "word": "用人民币感受韩国物价",
-      "onboard_time": 1730005818,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 336205,
@@ -625,6 +633,14 @@
       "onboard_time": 1729937419,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260327,
+      "num": 260327,
+      "word": "朴成训柳智敏cha了Whiplash",
+      "onboard_time": 1730006478,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 258337,
@@ -835,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207308,
+      "num": 207308,
+      "word": "原神",
+      "onboard_time": 1730005759,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202827,
       "num": 202827,
       "word": "丁程鑫18秒挥了5次手",
@@ -883,6 +907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192761,
+      "num": 232322,
+      "word": "詹姆斯杀疯了",
+      "onboard_time": 1730005999,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191956,
+      "num": 191956,
+      "word": "16岁女孩决定重启人生",
+      "onboard_time": 1730007079,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191713,
       "num": 191713,
       "word": "赵丽颖蒲公英写真",
@@ -905,14 +945,6 @@
       "onboard_time": 1729988775,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184569,
-      "num": 184569,
-      "word": "原神",
-      "onboard_time": 1730005759,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 183936,
@@ -955,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181711,
+      "num": 181711,
+      "word": "还得看詹姆斯",
+      "onboard_time": 1730006299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175708,
       "num": 102122,
       "word": "赞达亚荷兰弟 女王和她的小手办",
@@ -969,6 +1009,14 @@
       "onboard_time": 1729957700,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171319,
+      "num": 171319,
+      "word": "宋亚轩的6号马赢了",
+      "onboard_time": 1730007198,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 167841,
@@ -1115,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149811,
+      "num": 149811,
+      "word": "湖人三连胜",
+      "onboard_time": 1730007138,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143721,
       "num": 143721,
       "word": "威少8中0",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1729990278,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140722,
-      "num": 140722,
-      "word": "还得看詹姆斯",
-      "onboard_time": 1730006299,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 140177,
@@ -1243,14 +1291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125278,
-      "num": 345138,
-      "word": "余华英两次被判死刑两次称要上诉",
-      "onboard_time": 1730006119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123278,
       "num": 123278,
       "word": "特朗普嘲讽碧昂丝为哈里斯站台",
@@ -1283,7 +1323,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 104392,
+      "raw_hot": 105140,
       "num": 289519,
       "word": "一周工作4天打工人会更快乐吗",
       "onboard_time": 1730001797,
@@ -1353,14 +1393,6 @@
       "onboard_time": 1729965974,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59891,
-      "num": 232322,
-      "word": "詹姆斯杀疯了",
-      "onboard_time": 1730005999,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 59632,
@@ -1435,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48201,
+      "num": 225207,
+      "word": "被拐儿童家属说判余华英死刑不重",
+      "onboard_time": 1730007319,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44604,
       "num": 218042,
       "word": "那些决定买房的年轻人",
@@ -1483,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28515,
+      "num": 286964,
+      "word": "成毅想做个纯粹的演员",
+      "onboard_time": 1730004500,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26828,
       "num": 26828,
       "word": "恋与深空",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1729979111,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24557,
-      "num": 286964,
-      "word": "成毅想做个纯粹的演员",
-      "onboard_time": 1730004500,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 23938,
