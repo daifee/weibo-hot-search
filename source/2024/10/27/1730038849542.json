@@ -1,0 +1,410 @@
+{
+  "runTime": 1730038849542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2138928,
+        "num": 2138928,
+        "word": "林诗栋vsF勒布伦",
+        "onboard_time": 1730035820,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1507795,
+        "num": 1507795,
+        "word": "林诗栋0比4F勒布伦",
+        "onboard_time": 1730037682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44373,
+        "num": 1329295,
+        "word": "秋冬旅游热门目的地航线航班增加",
+        "onboard_time": 1730037501,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273921,
+        "num": 1273921,
+        "word": "特朗普要向台湾收保护费",
+        "onboard_time": 1730022797,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1106715,
+        "num": 1106715,
+        "word": "国乒无缘蒙彼利埃赛女单决赛",
+        "onboard_time": 1730036119,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826664,
+        "num": 826664,
+        "word": "29岁女生被脱口秀主持人喊大姐",
+        "onboard_time": 1730029160,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749172,
+        "num": 749172,
+        "word": "演宁静把宁静看哭了",
+        "onboard_time": 1730036180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744248,
+        "num": 744248,
+        "word": "镜头从严浩翔切到沈腾有多好笑",
+        "onboard_time": 1730032761,
+        "rank": 7,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 630905,
+        "num": 630905,
+        "word": "南京南站",
+        "onboard_time": 1730030419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537110,
+        "num": 537110,
+        "word": "轿车掉头与货车碰撞轿车内6人身亡",
+        "onboard_time": 1730035519,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010598,
+        "num": 536577,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662325,
+        "num": 536384,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586237,
+        "num": 536230,
+        "word": "鞠婧祎薄荷绿长裙",
+        "onboard_time": 1730031739,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 535890,
+        "num": 535890,
+        "word": "付航 我非常感谢我的父母",
+        "onboard_time": 1730036180,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494844,
+        "num": 494844,
+        "word": "奥巴马妻子称投特朗普是反对女性",
+        "onboard_time": 1730033599,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 433495,
+        "num": 433495,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1730020878,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 431560,
+        "num": 431560,
+        "word": "网店2小时被水军坑走11万",
+        "onboard_time": 1730028678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416213,
+        "num": 416213,
+        "word": "张予曦cos芈月",
+        "onboard_time": 1730037801,
+        "rank": 17,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 365854,
+        "num": 365854,
+        "word": "T1对战GEN",
+        "onboard_time": 1730033479,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326984,
+        "num": 326984,
+        "word": "张凯丽也体会到秦海璐周一围的苦了",
+        "onboard_time": 1730036360,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27535,
+        "num": 324451,
+        "word": "中国星东方曜上市9.97万起",
+        "onboard_time": 1730036780,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1231395,
+        "num": 324441,
+        "word": "周雨彤边界感",
+        "onboard_time": 1730029699,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324097,
+        "num": 324097,
+        "word": "杨幂开叉绣花拖尾裙",
+        "onboard_time": 1730034079,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324005,
+        "num": 324005,
+        "word": "赵丽颖王梓薇 三搭",
+        "onboard_time": 1730035100,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195949,
+        "num": 318479,
+        "word": "23年前杀害女子真凶被找到时在服刑",
+        "onboard_time": 1730038581,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65837,
+        "num": 316838,
+        "word": "T1半决赛先下一城",
+        "onboard_time": 1730037682,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315748,
+        "num": 315748,
+        "word": "国乒蒙彼利埃赛无缘冠军",
+        "onboard_time": 1730038221,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289303,
+        "num": 289303,
+        "word": "韩国网友抵制HYBE旗下艺人",
+        "onboard_time": 1730027537,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267346,
+        "num": 267346,
+        "word": "哈里斯称伊朗不能报复以色列",
+        "onboard_time": 1730035339,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216063,
+        "num": 258991,
+        "word": "大梦归离",
+        "onboard_time": 1730025018,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256765,
+        "num": 256765,
+        "word": "鞠婧祎 暗黑魔女",
+        "onboard_time": 1730037682,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216185,
+        "num": 216185,
+        "word": "JDG官宣Ruler离队",
+        "onboard_time": 1730027360,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214979,
+        "num": 214979,
+        "word": "美国15岁少年枪杀5名家人",
+        "onboard_time": 1730024718,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212515,
+        "num": 212515,
+        "word": "长沙一外卖员抓猫从26楼扔下致死",
+        "onboard_time": 1730018897,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208330,
+        "num": 208330,
+        "word": "可可西里讨食狼越来越多",
+        "onboard_time": 1730019017,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207447,
+        "num": 207447,
+        "word": "林诗栋止步冠军赛四强",
+        "onboard_time": 1730038460,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203304,
+        "num": 203304,
+        "word": "心跳慢和心跳快哪个更健康",
+        "onboard_time": 1730023278,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201269,
+        "num": 201269,
+        "word": "涵艺爆料Ruler离队原因",
+        "onboard_time": 1730038280,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192553,
+        "num": 192553,
+        "word": "u17国足vs韩国u17",
+        "onboard_time": 1730033300,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191388,
+        "num": 191388,
+        "word": "钱天一2比4张本美和",
+        "onboard_time": 1730031139,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189182,
+        "num": 189182,
+        "word": "一人薅羊毛非法获利上百万",
+        "onboard_time": 1730028678,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186265,
+        "num": 186265,
+        "word": "央视曝网店刷好评套路",
+        "onboard_time": 1730023097,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182545,
+        "num": 182545,
+        "word": "百万粉丝宠物博主疑似人设崩塌",
+        "onboard_time": 1730024418,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177844,
+        "num": 177844,
+        "word": "时代少年团王者荣耀共创之夜造型",
+        "onboard_time": 1730037440,
+        "rank": 43,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 164096,
+        "num": 164096,
+        "word": "赵继伟左膝半月板损伤",
+        "onboard_time": 1730037260,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152242,
+        "num": 152242,
+        "word": "WTT蒙彼利埃冠军赛",
+        "onboard_time": 1730030960,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149697,
+        "num": 149697,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145335,
+        "num": 145335,
+        "word": "杨超越灵狐造型",
+        "onboard_time": 1730034020,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144565,
+        "num": 144565,
+        "word": "薛之谦周深合作舞台",
+        "onboard_time": 1730037260,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140067,
+        "num": 140067,
+        "word": "黄磊喊话台下何老师别吃啊",
+        "onboard_time": 1730026998,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看西部陆海新通道建设新貌#"
+    }
+  }
+}
