@@ -1,0 +1,410 @@
+{
+  "runTime": 1730003224118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605875,
+        "num": 1605875,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1256607,
+        "num": 1256607,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51124,
+        "num": 1240671,
+        "word": "我国最大平价海上风电项目并网发电",
+        "onboard_time": 1729999398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228460,
+        "num": 1228460,
+        "word": "第37届金鸡奖提名名单",
+        "onboard_time": 1729998857,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 787722,
+        "num": 787722,
+        "word": "以军强迫加沙男医生一丝不挂",
+        "onboard_time": 1729993157,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 458296,
+        "num": 458296,
+        "word": "英国一学生宿舍产子锁行李箱致死",
+        "onboard_time": 1729992798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846841,
+        "num": 443236,
+        "word": "热辣滚烫0提",
+        "onboard_time": 1730002338,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 695382,
+        "num": 434454,
+        "word": "再见爱人4最应该离婚的一对",
+        "onboard_time": 1729992137,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421786,
+        "num": 421786,
+        "word": "超过100架飞机袭击伊朗",
+        "onboard_time": 1729992438,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218192,
+        "num": 218192,
+        "word": "郑钦文vs肯宁",
+        "onboard_time": 1729997899,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1680337,
+        "num": 218163,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53211,
+        "num": 218154,
+        "word": "肖战水灵灵地出现了",
+        "onboard_time": 1730000178,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669604,
+        "num": 218126,
+        "word": "原来辛芷蕾演的才是真乔妍",
+        "onboard_time": 1729999217,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637785,
+        "num": 218065,
+        "word": "特朗普称当选就公布肯尼迪遇刺档案",
+        "onboard_time": 1729998677,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44604,
+        "num": 218042,
+        "word": "那些决定买房的年轻人",
+        "onboard_time": 1730001617,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73022,
+        "num": 218010,
+        "word": "医保目录6年累计新增744种药品",
+        "onboard_time": 1730001978,
+        "rank": 15,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 637725,
+        "num": 217977,
+        "word": "郭敬明又换名了",
+        "onboard_time": 1729990219,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384873,
+        "num": 217938,
+        "word": "许嵩 我到鸟巢只比唐僧取经少一年",
+        "onboard_time": 1729997959,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347981,
+        "num": 217928,
+        "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
+        "onboard_time": 1729996217,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80864,
+        "num": 217894,
+        "word": "一周工作4天打工人会更快乐吗",
+        "onboard_time": 1730001797,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465045,
+        "num": 217829,
+        "word": "周杰伦演唱会开场前歌迷场外生子",
+        "onboard_time": 1729988416,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 433338,
+        "num": 217810,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358070,
+        "num": 217794,
+        "word": "赵丽颖金鸡奖最佳女配提名",
+        "onboard_time": 1730001797,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336572,
+        "num": 217730,
+        "word": "家里失火后只有蛋挞是好的",
+        "onboard_time": 1729996158,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327575,
+        "num": 217727,
+        "word": "永夜星河定档",
+        "onboard_time": 1729985955,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302732,
+        "num": 217685,
+        "word": "徐璐陪诊哭了",
+        "onboard_time": 1729999160,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294372,
+        "num": 217632,
+        "word": "大学生假扮高中生给弟弟送情书",
+        "onboard_time": 1729999097,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292979,
+        "num": 217602,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1729992617,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267712,
+        "num": 217595,
+        "word": "杨幂直播为戚薇庆生",
+        "onboard_time": 1730001858,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 66666,
+        "num": 217533,
+        "word": "国家医保局新增免陪照护服务",
+        "onboard_time": 1730000718,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240500,
+        "num": 217525,
+        "word": "留几手",
+        "onboard_time": 1729996638,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217499,
+        "num": 217499,
+        "word": "米歇尔让男选民投票前想想女儿",
+        "onboard_time": 1729999998,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216322,
+        "num": 216322,
+        "word": "马丽提名金鸡奖最佳女主角",
+        "onboard_time": 1730002518,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204071,
+        "num": 204071,
+        "word": "许嵩 我不喜欢瘦我喜欢胖",
+        "onboard_time": 1729997719,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201481,
+        "num": 201481,
+        "word": "虞书欣丁禹兮3年二搭",
+        "onboard_time": 1730002938,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191740,
+        "num": 191740,
+        "word": "心动的信号",
+        "onboard_time": 1730002338,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191305,
+        "num": 191305,
+        "word": "王一博连续两年提名金鸡奖",
+        "onboard_time": 1730002398,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183936,
+        "num": 183936,
+        "word": "杭州万圣节",
+        "onboard_time": 1730001137,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179511,
+        "num": 179511,
+        "word": "樊振东连发5条皇马动态",
+        "onboard_time": 1730001199,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179377,
+        "num": 179377,
+        "word": "美国批准19.88亿美元对台军售",
+        "onboard_time": 1729993758,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167910,
+        "num": 167910,
+        "word": "又一批罕见病药有望进医保",
+        "onboard_time": 1729996398,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160037,
+        "num": 160037,
+        "word": "粉笔模考",
+        "onboard_time": 1730001678,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 158872,
+        "word": "TheShy谈WBG告别S14",
+        "onboard_time": 1729996698,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154239,
+        "num": 154239,
+        "word": "肚子疼西医给我开了两根冰棍",
+        "onboard_time": 1729997778,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152793,
+        "num": 152793,
+        "word": "金鸡奖海报",
+        "onboard_time": 1729998137,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "赵丽颖在乔妍的心事中的演技",
+        "onboard_time": 1730000779,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141360,
+        "num": 141360,
+        "word": "全红婵晒了好多人模仿向佐",
+        "onboard_time": 1730003178,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 123143,
+        "num": 123143,
+        "word": "老人被骗花6万元买洗洁精",
+        "onboard_time": 1729988836,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119917,
+        "num": 119917,
+        "word": "带牙套后牙齿可能发生的变化",
+        "onboard_time": 1729986975,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98100,
+        "num": 112070,
+        "word": "保时捷售价跌破40万背后",
+        "onboard_time": 1729999818,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}
