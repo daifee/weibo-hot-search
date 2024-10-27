@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 05:19:49
+本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 05:35:21
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ T1拿到赛点（热度：149109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8E%95%E7%96%91%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23" target="weibo">
+长沙一公厕疑有人冲洗臭豆腐原材料（热度：129412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23dl%E5%A4%A9%E7%A7%A4%23" target="weibo">
 dl天秤（热度：125694）
 </a>
@@ -401,12 +407,6 @@ JDG官宣Ruler离队（热度：120331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%20BP%23" target="weibo">
 T1 BP（热度：89970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8E%95%E7%96%91%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23" target="weibo">
-长沙一公厕疑有人冲洗臭豆腐原材料（热度：83252）
 </a>
 </li>
 
