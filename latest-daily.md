@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 00:42:24
+本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 01:19:43
 </p>
 </blockquote>
 <p>
@@ -106,7 +106,7 @@ Faker第七次晋级决赛（热度：483671）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23" target="weibo">
-BLG决赛对战T1（热度：369043）
+BLG决赛对战T1（热度：460801）
 </a>
 </li>
 
@@ -123,8 +123,20 @@ BLG决赛对战T1（热度：369043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Gumayusi%E5%96%8A%E8%AF%9DBin%23" target="weibo">
+Gumayusi喊话Bin（热度：344887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%9C%E5%A4%B4%E4%BB%8E%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%88%87%E5%88%B0%E6%B2%88%E8%85%BE%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23" target="weibo">
 镜头从严浩翔切到沈腾有多好笑（热度：338123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E7%99%BD%E8%B5%A2%E4%B8%80%E6%95%B4%E5%B9%B4%23" target="weibo">
+GEN白赢一整年（热度：330568）
 </a>
 </li>
 
@@ -147,14 +159,20 @@ GEN止步S14四强（热度：281208）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%884%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
+大藤沙月4比2张本美和（热度：267814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Chovy%20%E9%9A%90%E8%BA%AB%23" target="weibo">
 Chovy 隐身（热度：256178）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%884%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
-大藤沙月4比2张本美和（热度：245091）
+<a href="https://s.weibo.com/weibo?q=%23BLG%23" target="weibo">
+BLG（热度：237133）
 </a>
 </li>
 
@@ -267,6 +285,18 @@ T1拿到赛点（热度：149109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23dl%E5%A4%A9%E7%A7%A4%23" target="weibo">
+dl天秤（热度：125694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4Faker%E8%80%81%E4%BA%86%23" target="weibo">
+谁说Faker老了（热度：122923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%B5%E8%89%BA%E7%88%86%E6%96%99Ruler%E7%A6%BB%E9%98%9F%E5%8E%9F%E5%9B%A0%23" target="weibo">
 涵艺爆料Ruler离队原因（热度：122598）
 </a>
@@ -327,6 +357,12 @@ JDG官宣Ruler离队（热度：120331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8D%E5%90%AB%E4%B8%80%E6%A0%B9%E5%81%87%E5%8F%91%E7%89%87%E7%9A%84plog%23" target="weibo">
+沈梦辰不含一根假发片的plog（热度：104366）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%80%E5%8F%89%E7%BB%A3%E8%8A%B1%E6%8B%96%E5%B0%BE%E8%A3%99%23" target="weibo">
 杨幂开叉绣花拖尾裙（热度：103578）
 </a>
@@ -345,8 +381,14 @@ JDG官宣Ruler离队（热度：120331）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8D%E5%90%AB%E4%B8%80%E6%A0%B9%E5%81%87%E5%8F%91%E7%89%87%E7%9A%84plog%23" target="weibo">
-沈梦辰不含一根假发片的plog（热度：97850）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%A9%E7%89%A9%E6%B5%A6%23" target="weibo">
+阿森纳vs利物浦（热度：97028）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%80%E6%AC%A1%E5%85%A8%E5%8D%8E%E7%8F%AD%E8%BF%9B%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%E4%B9%9F%E6%98%AFT1%23" target="weibo">
+上一次全华班进决赛对手也是T1（热度：94118）
 </a>
 </li>
 
@@ -357,14 +399,44 @@ T1 BP（热度：89970）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E8%BF%91%E4%B8%A4%E5%B9%B4%E5%AF%B9%E6%88%98LCK%E8%83%9C%E7%8E%87%23" target="weibo">
+BLG近两年对战LCK胜率（热度：76371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%AD%A9%E6%89%8B%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
+女子为保护女孩手被恶犬咬伤（热度：66007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%23" target="weibo">
+大梦归离（热度：58142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%80%E5%A4%A92%E8%B5%B7%E6%B1%BD%E8%BD%A6%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E4%BA%8B%E4%BB%B6%23" target="weibo">
 以色列一天2起汽车冲撞人群事件（热度：24942）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E5%89%8D%E6%9C%AA%E5%91%8A%E7%9F%A5%E4%BC%8A%E6%9C%97%23" target="weibo">
+以色列称袭击前未告知伊朗（热度：16104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E6%97%85%E6%B8%B8%E7%83%AD%E9%97%A8%E7%9B%AE%E7%9A%84%E5%9C%B0%E8%88%AA%E7%BA%BF%E8%88%AA%E7%8F%AD%E5%A2%9E%E5%8A%A0%23" target="weibo">
 秋冬旅游热门目的地航线航班增加（热度：15314）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E5%BC%80%E5%A7%8B%23" target="weibo">
+2024年医保谈判竞价开始（热度：13568）
 </a>
 </li>
 

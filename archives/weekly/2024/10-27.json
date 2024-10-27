@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730047344474,
+  "endTime": 1730049583743,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -835,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460801,
+      "num": 460801,
+      "word": "BLG决赛对战T1",
+      "onboard_time": 1730047037,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 452833,
       "num": 452833,
       "word": "心跳慢和心跳快哪个更健康",
@@ -979,14 +987,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 369043,
-      "num": 369043,
-      "word": "BLG决赛对战T1",
-      "onboard_time": 1730047037,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 366938,
       "num": 366938,
       "word": "国家医保局新增免陪照护服务",
@@ -1035,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344887,
+      "num": 134268,
+      "word": "Gumayusi喊话Bin",
+      "onboard_time": 1730048594,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 343546,
       "num": 343546,
       "word": "BLG晋级S14决赛",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1730023097,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330568,
+      "num": 256444,
+      "word": "GEN白赢一整年",
+      "onboard_time": 1730047757,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 328701,
@@ -1307,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267814,
+      "num": 267814,
+      "word": "大藤沙月4比2张本美和",
+      "onboard_time": 1730046617,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267712,
       "num": 224082,
       "word": "杨幂直播为戚薇庆生",
@@ -1467,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245091,
-      "num": 245091,
-      "word": "大藤沙月4比2张本美和",
-      "onboard_time": 1730046617,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242206,
       "num": 242206,
       "word": "以军士兵承认用加沙平民当人肉盾牌",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1730017457,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237133,
+      "num": 259786,
+      "word": "BLG",
+      "onboard_time": 1730047696,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 237070,
@@ -2787,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125694,
+      "num": 125694,
+      "word": "dl天秤",
+      "onboard_time": 1730047996,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125337,
       "num": 125337,
       "word": "李佳薇高音快成超声波了",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1729972751,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 122923,
+      "num": 122923,
+      "word": "谁说Faker老了",
+      "onboard_time": 1730048176,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 122215,
@@ -3043,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97028,
+      "num": 97028,
+      "word": "阿森纳vs利物浦",
+      "onboard_time": 1730048535,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95177,
       "num": 95177,
       "word": "迪丽热巴包场乔妍的心事",
@@ -3059,6 +3107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 94118,
+      "num": 94118,
+      "word": "上一次全华班进决赛对手也是T1",
+      "onboard_time": 1730047696,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89970,
       "num": 89970,
       "word": "T1 BP",
@@ -3073,6 +3129,14 @@
       "onboard_time": 1729980551,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76371,
+      "num": 76371,
+      "word": "BLG近两年对战LCK胜率",
+      "onboard_time": 1730047517,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 75283,
@@ -3112,6 +3176,14 @@
       "word": "代炒菜会在菜市场普及吗",
       "onboard_time": 1730012417,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66007,
+      "num": 73200,
+      "word": "女子为保护女孩手被恶犬咬伤",
+      "onboard_time": 1730047397,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3507,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16104,
+      "num": 157381,
+      "word": "以色列称袭击前未告知伊朗",
+      "onboard_time": 1730049194,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16079,
       "num": 1161204,
       "word": "1.45万吨桥梁墩体转体有多震撼",
@@ -3529,6 +3609,14 @@
       "onboard_time": 1730035880,
       "rank": 19,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 13568,
+      "num": 124046,
+      "word": "2024年医保谈判竞价开始",
+      "onboard_time": 1730049434,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13360,

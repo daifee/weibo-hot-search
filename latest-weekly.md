@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/27 00:25:49 ~ 2024/10/28 00:42:24
+本榜单时间：2024/10/27 00:25:49 ~ 2024/10/28 01:19:43
 </p>
 </blockquote>
 <p>
@@ -639,6 +639,12 @@ Faker第七次晋级决赛（热度：483671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23" target="weibo">
+BLG决赛对战T1（热度：460801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E8%B7%B3%E6%85%A2%E5%92%8C%E5%BF%83%E8%B7%B3%E5%BF%AB%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7%23" target="weibo">
 心跳慢和心跳快哪个更健康（热度：452833）
 </a>
@@ -747,12 +753,6 @@ TXT超话空降（热度：391040）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%88%98T1%23" target="weibo">
-BLG决赛对战T1（热度：369043）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E6%96%B0%E5%A2%9E%E5%85%8D%E9%99%AA%E7%85%A7%E6%8A%A4%E6%9C%8D%E5%8A%A1%23" target="weibo">
 国家医保局新增免陪照护服务（热度：366938）
 </a>
@@ -789,6 +789,12 @@ BLG决赛对战T1（热度：369043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Gumayusi%E5%96%8A%E8%AF%9DBin%23" target="weibo">
+Gumayusi喊话Bin（热度：344887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S14%E5%86%B3%E8%B5%9B%23" target="weibo">
 BLG晋级S14决赛（热度：343546）
 </a>
@@ -803,6 +809,12 @@ BLG晋级S14决赛（热度：343546）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E7%BD%91%E5%BA%97%E5%88%B7%E5%A5%BD%E8%AF%84%E5%A5%97%E8%B7%AF%23" target="weibo">
 央视曝网店刷好评套路（热度：334395）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E7%99%BD%E8%B5%A2%E4%B8%80%E6%95%B4%E5%B9%B4%23" target="weibo">
+GEN白赢一整年（热度：330568）
 </a>
 </li>
 
@@ -993,6 +1005,12 @@ TheShy谈WBG告别S14（热度：272449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%884%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
+大藤沙月4比2张本美和（热度：267814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD%E4%B8%BA%E6%88%9A%E8%96%87%E5%BA%86%E7%94%9F%23" target="weibo">
 杨幂直播为戚薇庆生（热度：267712）
 </a>
@@ -1113,12 +1131,6 @@ Chovy 隐身（热度：256178）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%884%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
-大藤沙月4比2张本美和（热度：245091）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%89%BF%E8%AE%A4%E7%94%A8%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91%E5%BD%93%E4%BA%BA%E8%82%89%E7%9B%BE%E7%89%8C%23" target="weibo">
 以军士兵承认用加沙平民当人肉盾牌（热度：242206）
 </a>
@@ -1139,6 +1151,12 @@ Chovy 隐身（热度：256178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%B0%8F%E5%AD%A9%E7%9A%84%E8%AF%8D%E6%B1%87%E9%87%8F%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96%23" target="weibo">
 2岁小孩的词汇量有多恐怖（热度：237758）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%23" target="weibo">
+BLG（热度：237133）
 </a>
 </li>
 
@@ -2103,6 +2121,12 @@ Bin扔衣服（热度：126269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23dl%E5%A4%A9%E7%A7%A4%23" target="weibo">
+dl天秤（热度：125694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87%E9%AB%98%E9%9F%B3%E5%BF%AB%E6%88%90%E8%B6%85%E5%A3%B0%E6%B3%A2%E4%BA%86%23" target="weibo">
 李佳薇高音快成超声波了（热度：125337）
 </a>
@@ -2117,6 +2141,12 @@ Bin扔衣服（热度：126269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD%E7%A2%A7%E6%98%82%E4%B8%9D%E4%B8%BA%E5%93%88%E9%87%8C%E6%96%AF%E7%AB%99%E5%8F%B0%23" target="weibo">
 特朗普嘲讽碧昂丝为哈里斯站台（热度：123278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4Faker%E8%80%81%E4%BA%86%23" target="weibo">
+谁说Faker老了（热度：122923）
 </a>
 </li>
 
@@ -2295,6 +2325,12 @@ LV柜姐事件原配已提起离婚（热度：98586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%A9%E7%89%A9%E6%B5%A6%23" target="weibo">
+阿森纳vs利物浦（热度：97028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8C%85%E5%9C%BA%E4%B9%94%E5%A6%8D%E7%9A%84%E5%BF%83%E4%BA%8B%23" target="weibo">
 迪丽热巴包场乔妍的心事（热度：95177）
 </a>
@@ -2307,6 +2343,12 @@ LV柜姐事件原配已提起离婚（热度：98586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%80%E6%AC%A1%E5%85%A8%E5%8D%8E%E7%8F%AD%E8%BF%9B%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%E4%B9%9F%E6%98%AFT1%23" target="weibo">
+上一次全华班进决赛对手也是T1（热度：94118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%20BP%23" target="weibo">
 T1 BP（热度：89970）
 </a>
@@ -2315,6 +2357,12 @@ T1 BP（热度：89970）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%B4%A7%E8%BD%A6%E6%8B%A6%E8%85%B0%E7%A2%BE%E5%8E%8B%E7%94%B7%E5%AD%A9%E5%B7%B2%E5%85%A5%E5%AD%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%23" target="weibo">
 遭货车拦腰碾压男孩已入学幼儿园（热度：87496）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E8%BF%91%E4%B8%A4%E5%B9%B4%E5%AF%B9%E6%88%98LCK%E8%83%9C%E7%8E%87%23" target="weibo">
+BLG近两年对战LCK胜率（热度：76371）
 </a>
 </li>
 
@@ -2345,6 +2393,12 @@ T1 BP（热度：89970）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E7%82%92%E8%8F%9C%E4%BC%9A%E5%9C%A8%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%99%AE%E5%8F%8A%E5%90%97%23" target="weibo">
 代炒菜会在菜市场普及吗（热度：68358）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%AD%A9%E6%89%8B%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
+女子为保护女孩手被恶犬咬伤（热度：66007）
 </a>
 </li>
 
@@ -2643,6 +2697,12 @@ HYBE报告Kpop大点兵（热度：57322）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E5%89%8D%E6%9C%AA%E5%91%8A%E7%9F%A5%E4%BC%8A%E6%9C%97%23" target="weibo">
+以色列称袭击前未告知伊朗（热度：16104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%231.45%E4%B8%87%E5%90%A8%E6%A1%A5%E6%A2%81%E5%A2%A9%E4%BD%93%E8%BD%AC%E4%BD%93%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC%23" target="weibo">
 1.45万吨桥梁墩体转体有多震撼（热度：16079）
 </a>
@@ -2657,6 +2717,12 @@ HYBE报告Kpop大点兵（热度：57322）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%BB%84%E9%98%9F%E6%95%99%E7%BB%83Gemini%23" target="weibo">
 时代少年团组队教练Gemini（热度：13770）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E5%BC%80%E5%A7%8B%23" target="weibo">
+2024年医保谈判竞价开始（热度：13568）
 </a>
 </li>
 

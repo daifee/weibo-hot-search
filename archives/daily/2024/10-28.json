@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730047344474,
+  "endTime": 1730049583743,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -123,8 +123,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 369043,
-      "num": 369043,
+      "raw_hot": 460801,
+      "num": 460801,
       "word": "BLG决赛对战T1",
       "onboard_time": 1730047037,
       "rank": 17,
@@ -147,12 +147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 344887,
+      "num": 134268,
+      "word": "Gumayusi喊话Bin",
+      "onboard_time": 1730048594,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338123,
       "num": 710772,
       "word": "镜头从严浩翔切到沈腾有多好笑",
       "onboard_time": 1730032761,
       "rank": 8,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 330568,
+      "num": 256444,
+      "word": "GEN白赢一整年",
+      "onboard_time": 1730047757,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 286684,
@@ -179,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 267814,
+      "num": 267814,
+      "word": "大藤沙月4比2张本美和",
+      "onboard_time": 1730046617,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256178,
       "num": 256178,
       "word": "Chovy 隐身",
@@ -187,12 +211,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 245091,
-      "num": 245091,
-      "word": "大藤沙月4比2张本美和",
-      "onboard_time": 1730046617,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 237133,
+      "num": 259786,
+      "word": "BLG",
+      "onboard_time": 1730047696,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 237070,
@@ -339,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125694,
+      "num": 125694,
+      "word": "dl天秤",
+      "onboard_time": 1730047996,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 122923,
+      "num": 122923,
+      "word": "谁说Faker老了",
+      "onboard_time": 1730048176,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122598,
       "num": 122598,
       "word": "涵艺爆料Ruler离队原因",
@@ -419,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104366,
+      "num": 104366,
+      "word": "沈梦辰不含一根假发片的plog",
+      "onboard_time": 1730039001,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103578,
       "num": 103578,
       "word": "杨幂开叉绣花拖尾裙",
@@ -443,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97850,
-      "num": 97850,
-      "word": "沈梦辰不含一根假发片的plog",
-      "onboard_time": 1730039001,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 97028,
+      "num": 97028,
+      "word": "阿森纳vs利物浦",
+      "onboard_time": 1730048535,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94118,
+      "num": 94118,
+      "word": "上一次全华班进决赛对手也是T1",
+      "onboard_time": 1730047696,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 89970,
@@ -459,6 +515,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76371,
+      "num": 76371,
+      "word": "BLG近两年对战LCK胜率",
+      "onboard_time": 1730047517,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 66007,
+      "num": 73200,
+      "word": "女子为保护女孩手被恶犬咬伤",
+      "onboard_time": 1730047397,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58142,
+      "num": 75925,
+      "word": "大梦归离",
+      "onboard_time": 1730025018,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24942,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -467,11 +547,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 16104,
+      "num": 157381,
+      "word": "以色列称袭击前未告知伊朗",
+      "onboard_time": 1730049194,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 15314,
       "num": 1051933,
       "word": "秋冬旅游热门目的地航线航班增加",
       "onboard_time": 1730037501,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13568,
+      "num": 124046,
+      "word": "2024年医保谈判竞价开始",
+      "onboard_time": 1730049434,
+      "rank": 33,
       "category": "社会新闻"
     }
   ],
