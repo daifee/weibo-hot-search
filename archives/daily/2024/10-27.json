@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730024500574,
+  "endTime": 1730025560380,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -9,6 +9,22 @@
       "onboard_time": 1729996036,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2431959,
+      "num": 248391,
+      "word": "特朗普要向台湾收保护费",
+      "onboard_time": 1730022797,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2235776,
+      "num": 247542,
+      "word": "黄子韬 老婆请说",
+      "onboard_time": 1730023998,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2148572,
@@ -57,14 +73,6 @@
       "onboard_time": 1730018897,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1796536,
-      "num": 211598,
-      "word": "特朗普要向台湾收保护费",
-      "onboard_time": 1730022797,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1735646,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760122,
+      "num": 760122,
+      "word": "用公厕下水管冲洗臭豆腐",
+      "onboard_time": 1730023578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760110,
       "num": 760110,
       "word": "博主称小西天保安大叔今日辞职",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 710158,
-      "num": 211512,
+      "num": 245276,
       "word": "多方回应网传饿了么外卖员虐猫",
       "onboard_time": 1730021299,
       "rank": 34,
@@ -539,14 +555,6 @@
       "category": "电影,电竞"
     },
     {
-      "raw_hot": 407704,
-      "num": 210394,
-      "word": "黄子韬 老婆请说",
-      "onboard_time": 1730023998,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 405971,
       "num": 323615,
       "word": "金鸡奖最佳女主提名3个00后",
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317291,
+      "num": 243337,
+      "word": "黄子韬燃点比白磷还低",
+      "onboard_time": 1730023879,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314252,
       "num": 314252,
       "word": "余华英老家亲属发声",
@@ -697,6 +713,14 @@
       "onboard_time": 1729989078,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305654,
+      "num": 243013,
+      "word": "知情人曝柜姐和妈妈已报案",
+      "onboard_time": 1730025438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305086,
@@ -809,6 +833,14 @@
       "onboard_time": 1729954821,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275144,
+      "num": 275144,
+      "word": "程潇白色花朵立体裙",
+      "onboard_time": 1730023938,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272660,
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 243319,
-      "num": 226423,
+      "num": 249028,
       "word": "大梦归离",
       "onboard_time": 1729939998,
       "rank": 24,
@@ -969,6 +1001,14 @@
       "onboard_time": 1729958899,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238920,
+      "num": 238920,
+      "word": "张元英金玟庭人生四格",
+      "onboard_time": 1730025319,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 237758,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1730000418,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227570,
+      "num": 227570,
+      "word": "美国15岁少年枪杀5名家人",
+      "onboard_time": 1730024718,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226861,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1730002518,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 215526,
-      "num": 215526,
-      "word": "用公厕下水管冲洗臭豆腐",
-      "onboard_time": 1730023578,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214271,
@@ -1211,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193818,
-      "num": 147214,
-      "word": "黄子韬燃点比白磷还低",
-      "onboard_time": 1730023879,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191956,
       "num": 191956,
       "word": "16岁女孩决定重启人生",
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 190680,
-      "num": 147186,
+      "num": 183747,
       "word": "南京一头大水牛横渡长江",
       "onboard_time": 1730021898,
       "rank": 31,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1729988775,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189144,
+      "num": 189144,
+      "word": "百万粉丝宠物博主疑似人设崩塌",
+      "onboard_time": 1730024418,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185447,
@@ -1323,6 +1363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181128,
+      "num": 206314,
+      "word": "赵露思恋人开拍路透",
+      "onboard_time": 1730024298,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178633,
+      "num": 211654,
+      "word": "心跳慢和心跳快哪个更健康",
+      "onboard_time": 1730023278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177925,
       "num": 177925,
       "word": "长沙一商家疑用公厕水管接水泡臭豆腐",
@@ -1363,20 +1419,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172907,
+      "num": 172907,
+      "word": "中超",
+      "onboard_time": 1730025079,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171319,
       "num": 171319,
       "word": "宋亚轩的6号马赢了",
       "onboard_time": 1730007198,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171265,
-      "num": 171265,
-      "word": "程潇白色花朵立体裙",
-      "onboard_time": 1730023938,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168631,
@@ -1460,7 +1516,7 @@
     },
     {
       "raw_hot": 159884,
-      "num": 159884,
+      "num": 206308,
       "word": "毒液",
       "onboard_time": 1730006659,
       "rank": 42,
@@ -1523,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156215,
+      "num": 156215,
+      "word": "郑钦文说东京站夺冠弥补了19岁的遗憾",
+      "onboard_time": 1730025438,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "Doinb爆料Ale被开",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1730003959,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153141,
+      "num": 153141,
+      "word": "成都裸眼3D大屏因太逼真硬控观众",
+      "onboard_time": 1730021538,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152361,
@@ -1593,14 +1665,6 @@
       "onboard_time": 1730017699,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147105,
-      "num": 147105,
-      "word": "成都裸眼3D大屏因太逼真硬控观众",
-      "onboard_time": 1730021538,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146649,
@@ -1779,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128091,
+      "num": 128091,
+      "word": "郑钦文夺冠获得100万奖金",
+      "onboard_time": 1730023039,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127146,
       "num": 127146,
       "word": "胡歌 红房子140岁生日快乐",
@@ -1803,6 +1875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123600,
+      "num": 123600,
+      "word": "黄仁俊亮相直播",
+      "onboard_time": 1730025198,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123278,
       "num": 123278,
       "word": "特朗普嘲讽碧昂丝为哈里斯站台",
@@ -1817,14 +1897,6 @@
       "onboard_time": 1730007319,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120372,
-      "num": 120372,
-      "word": "赵露思恋人开拍路透",
-      "onboard_time": 1730024298,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 119814,
@@ -1884,11 +1956,27 @@
     },
     {
       "raw_hot": 116033,
-      "num": 116033,
+      "num": 248798,
       "word": "物业回应外卖员抓猫从26楼扔下",
       "onboard_time": 1730023457,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114379,
+      "num": 114379,
+      "word": "成都蓉城队史首进亚冠",
+      "onboard_time": 1730025438,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112991,
+      "num": 112991,
+      "word": "赵丽颖王梓薇对峙戏",
+      "onboard_time": 1730025259,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 111861,
@@ -1947,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105675,
-      "num": 105675,
-      "word": "郑钦文夺冠获得100万奖金",
-      "onboard_time": 1730023039,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105140,
       "num": 310044,
       "word": "一周工作4天打工人会更快乐吗",
@@ -2003,14 +2083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97446,
-      "num": 97446,
-      "word": "百万粉丝宠物博主疑似人设崩塌",
-      "onboard_time": 1730024418,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95177,
       "num": 95177,
       "word": "迪丽热巴包场乔妍的心事",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1730008159,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94650,
-      "num": 211654,
-      "word": "心跳慢和心跳快哪个更健康",
-      "onboard_time": 1730023278,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87496,

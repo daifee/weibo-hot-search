@@ -1,0 +1,410 @@
+{
+  "runTime": 1730025560380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993888,
+        "num": 1159022,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1730020878,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 760122,
+        "num": 760122,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15924,
+        "num": 531378,
+        "word": "神十八乘组回地球前在忙什么",
+        "onboard_time": 1730017399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519114,
+        "num": 519114,
+        "word": "可可西里讨食狼越来越多",
+        "onboard_time": 1730019017,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391051,
+        "num": 391051,
+        "word": "博主称小西天保安大叔今日辞职",
+        "onboard_time": 1730019379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275144,
+        "num": 275144,
+        "word": "程潇白色花朵立体裙",
+        "onboard_time": 1730023938,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257207,
+        "num": 257207,
+        "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
+        "onboard_time": 1730021239,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249578,
+        "num": 249578,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222765,
+        "num": 249028,
+        "word": "大梦归离",
+        "onboard_time": 1730025018,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98840,
+        "num": 248798,
+        "word": "物业回应外卖员抓猫从26楼扔下",
+        "onboard_time": 1730023457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2431959,
+        "num": 248391,
+        "word": "特朗普要向台湾收保护费",
+        "onboard_time": 1730022797,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2235776,
+        "num": 247542,
+        "word": "黄子韬 老婆请说",
+        "onboard_time": 1730023998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1087214,
+        "num": 247134,
+        "word": "长沙一外卖员抓猫从26楼扔下致死",
+        "onboard_time": 1730018897,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968230,
+        "num": 246315,
+        "word": "单依纯工作室脑子快转冒烟了",
+        "onboard_time": 1730017878,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216128,
+        "num": 245907,
+        "word": "大梦归离反派颜值",
+        "onboard_time": 1730021959,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 560827,
+        "num": 245276,
+        "word": "多方回应网传饿了么外卖员虐猫",
+        "onboard_time": 1730021299,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384538,
+        "num": 244627,
+        "word": "离婚后发现男方隐匿了上百万房产",
+        "onboard_time": 1730011879,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364901,
+        "num": 244381,
+        "word": "特朗普谈总统任期中犯的最大错误",
+        "onboard_time": 1730020640,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 317291,
+        "num": 243337,
+        "word": "黄子韬燃点比白磷还低",
+        "onboard_time": 1730023879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305654,
+        "num": 243013,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480927,
+        "num": 242673,
+        "word": "工资4000一个月的存钱计划",
+        "onboard_time": 1730009898,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266979,
+        "num": 241726,
+        "word": "韩安冉领证发现户口本在前夫家",
+        "onboard_time": 1730008759,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 259713,
+        "num": 241269,
+        "word": "郑钦文夺冠后发博",
+        "onboard_time": 1730017578,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240973,
+        "num": 240973,
+        "word": "用人民币感受韩国物价",
+        "onboard_time": 1730005818,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 238920,
+        "num": 238920,
+        "word": "张元英金玟庭人生四格",
+        "onboard_time": 1730025319,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227570,
+        "num": 227570,
+        "word": "美国15岁少年枪杀5名家人",
+        "onboard_time": 1730024718,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206337,
+        "num": 206337,
+        "word": "柳智敏李瑞cha了",
+        "onboard_time": 1730020399,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181128,
+        "num": 206314,
+        "word": "赵露思恋人开拍路透",
+        "onboard_time": 1730024298,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154582,
+        "num": 206308,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142306,
+        "num": 206308,
+        "word": "毒液",
+        "onboard_time": 1730006659,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206308,
+        "num": 206307,
+        "word": "虞书欣发的乱码文案",
+        "onboard_time": 1730015718,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189144,
+        "num": 189144,
+        "word": "百万粉丝宠物博主疑似人设崩塌",
+        "onboard_time": 1730024418,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183747,
+        "num": 183747,
+        "word": "南京一头大水牛横渡长江",
+        "onboard_time": 1730021898,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178633,
+        "num": 178633,
+        "word": "心跳慢和心跳快哪个更健康",
+        "onboard_time": 1730023278,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173802,
+        "num": 173802,
+        "word": "杨幂和灵儿加微信",
+        "onboard_time": 1730005398,
+        "rank": 34,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 172907,
+        "num": 172907,
+        "word": "中超",
+        "onboard_time": 1730025079,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158225,
+        "num": 158225,
+        "word": "LV柜姐事件原配辟谣",
+        "onboard_time": 1730009778,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156215,
+        "num": 156215,
+        "word": "郑钦文说东京站夺冠弥补了19岁的遗憾",
+        "onboard_time": 1730025438,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153141,
+        "num": 153141,
+        "word": "成都裸眼3D大屏因太逼真硬控观众",
+        "onboard_time": 1730021538,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136213,
+        "num": 136213,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131538,
+        "num": 131538,
+        "word": "侯明昊圈内人缘",
+        "onboard_time": 1730015777,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "郑钦文夺冠获得100万奖金",
+        "onboard_time": 1730023039,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123600,
+        "num": 123600,
+        "word": "黄仁俊亮相直播",
+        "onboard_time": 1730025198,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119734,
+        "num": 119734,
+        "word": "赵丽颖 把细节揉进角色里",
+        "onboard_time": 1730022018,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118349,
+        "num": 118349,
+        "word": "杨幂沈腾上班上到眼里没光了",
+        "onboard_time": 1730003597,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116899,
+        "num": 116899,
+        "word": "宁静谈电影电视剧短剧鄙视链",
+        "onboard_time": 1730022377,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114379,
+        "num": 114379,
+        "word": "成都蓉城队史首进亚冠",
+        "onboard_time": 1730025438,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114183,
+        "num": 114183,
+        "word": "央视曝网店刷好评套路",
+        "onboard_time": 1730023097,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112991,
+        "num": 112991,
+        "word": "赵丽颖王梓薇对峙戏",
+        "onboard_time": 1730025259,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109342,
+        "num": 109342,
+        "word": "家有儿女编剧费明去世",
+        "onboard_time": 1730014220,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}
