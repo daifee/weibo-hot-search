@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730020909549,
+  "endTime": 1730021712107,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1389333,
-      "num": 310821,
+      "num": 341289,
       "word": "离婚后发现男方隐匿了上百万房产",
       "onboard_time": 1730011879,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1117399,
+      "num": 1117399,
+      "word": "单依纯工作室脑子快转冒烟了",
+      "onboard_time": 1730017878,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060226,
       "num": 277558,
       "word": "两高中生奸杀教师案最新进展",
@@ -145,14 +153,6 @@
       "onboard_time": 1729990577,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1035903,
-      "num": 1035903,
-      "word": "单依纯工作室脑子快转冒烟了",
-      "onboard_time": 1730017878,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 992590,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760110,
+      "num": 760110,
+      "word": "博主称小西天保安大叔今日辞职",
+      "onboard_time": 1730019379,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733515,
       "num": 1117362,
       "word": "金鸡 提名",
@@ -299,8 +307,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 616753,
+      "num": 616753,
+      "word": "可可西里讨食狼越来越多",
+      "onboard_time": 1730019017,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601617,
-      "num": 261039,
+      "num": 336375,
       "word": "郑钦文夺冠后发博",
       "onboard_time": 1730017578,
       "rank": 37,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544292,
-      "num": 544292,
-      "word": "可可西里讨食狼越来越多",
-      "onboard_time": 1730019017,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540584,
       "num": 474887,
       "word": "张淼怡大梦归离妆造",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 513997,
-      "num": 293482,
+      "num": 310803,
       "word": "LV柜姐事件原配辟谣",
       "onboard_time": 1730009778,
       "rank": 42,
@@ -499,20 +507,20 @@
       "category": "电影,电竞"
     },
     {
+      "raw_hot": 407059,
+      "num": 407059,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1730020878,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405971,
       "num": 323615,
       "word": "金鸡奖最佳女主提名3个00后",
       "onboard_time": 1730008519,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 397540,
-      "num": 257807,
-      "word": "博主称小西天保安大叔今日辞职",
-      "onboard_time": 1730019379,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396359,
@@ -553,6 +561,14 @@
       "onboard_time": 1729983974,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372982,
+      "num": 372982,
+      "word": "柳智敏李瑞cha了",
+      "onboard_time": 1730020399,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 366938,
@@ -609,6 +625,14 @@
       "onboard_time": 1729954939,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328016,
+      "num": 328016,
+      "word": "特朗普谈总统任期中犯的最大错误",
+      "onboard_time": 1730020640,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 327163,
@@ -745,14 +769,6 @@
       "onboard_time": 1729991959,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286404,
-      "num": 256576,
-      "word": "柳智敏李瑞cha了",
-      "onboard_time": 1730020399,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 281027,
@@ -1395,6 +1411,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 157982,
+      "num": 157982,
+      "word": "谁懂许嵩这一圈专辑名的杀伤力",
+      "onboard_time": 1730019077,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157795,
       "num": 233982,
       "word": "王一博出发巴塞罗那路透",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1730012417,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155493,
-      "num": 155493,
-      "word": "谁懂许嵩这一圈专辑名的杀伤力",
-      "onboard_time": 1730019077,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 155193,
@@ -1499,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145741,
+      "num": 145741,
+      "word": "在浙江农村吃席被震惊了",
+      "onboard_time": 1730016198,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143721,
       "num": 143721,
       "word": "威少8中0",
@@ -1539,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138846,
+      "num": 138846,
+      "word": "多方回应网传饿了么外卖员虐猫",
+      "onboard_time": 1730021299,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138487,
       "num": 138487,
       "word": "钎城国风舞枪好惊艳",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1730010198,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138245,
-      "num": 138245,
-      "word": "特朗普谈总统任期中犯的最大错误",
-      "onboard_time": 1730020640,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 137977,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1729954939,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134740,
-      "num": 134740,
-      "word": "在浙江农村吃席被震惊了",
-      "onboard_time": 1730016198,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 133971,
@@ -1747,12 +1763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116632,
-      "num": 116632,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1730020878,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 116683,
+      "num": 307289,
+      "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
+      "onboard_time": 1730021239,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116659,
+      "num": 116659,
+      "word": "成都裸眼3D大屏因太逼真硬控观众",
+      "onboard_time": 1730021538,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116073,
@@ -1787,12 +1811,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110994,
+      "num": 110994,
+      "word": "上海申花vs深圳新鹏城",
+      "onboard_time": 1730020700,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108141,
+      "num": 108141,
+      "word": "雅是披荆斩棘4必须邀请的艺人",
+      "onboard_time": 1730018838,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107125,
       "num": 107125,
       "word": "两位90多岁女兵重逢抱在一起",
       "onboard_time": 1730017217,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106891,
+      "num": 106891,
+      "word": "左航拍摄花絮",
+      "onboard_time": 1730020399,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105140,
@@ -1817,22 +1865,6 @@
       "onboard_time": 1729962136,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101892,
-      "num": 101892,
-      "word": "左航拍摄花絮",
-      "onboard_time": 1730020399,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101858,
-      "num": 101858,
-      "word": "上海申花vs深圳新鹏城",
-      "onboard_time": 1730020700,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 98819,
@@ -2067,11 +2099,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30577,
-      "num": 663141,
+      "raw_hot": 31982,
+      "num": 930332,
       "word": "神十八乘组回地球前在忙什么",
       "onboard_time": 1730017399,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30456,
+      "num": 263616,
+      "word": "可免试获取执业证书不靠谱",
+      "onboard_time": 1730019618,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27751,
+      "num": 255797,
+      "word": "不打扰才是对动物最大的尊重与保护",
+      "onboard_time": 1730019618,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26828,
       "num": 26828,
       "word": "恋与深空",
@@ -2120,6 +2168,14 @@
       "word": "飞行员精准命中目标治好强迫症",
       "onboard_time": 1729979111,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24224,
+      "num": 245041,
+      "word": "消费者刚充11万家政平台被曝欠薪",
+      "onboard_time": 1730019618,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2163,27 +2219,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 21618,
-      "num": 263616,
-      "word": "可免试获取执业证书不靠谱",
-      "onboard_time": 1730019618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21058,
       "num": 312655,
       "word": "起底大闸蟹假蟹扣制售链",
       "onboard_time": 1730008818,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20836,
-      "num": 245041,
-      "word": "消费者刚充11万家政平台被曝欠薪",
-      "onboard_time": 1730019618,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2201,14 +2241,6 @@
       "onboard_time": 1729962316,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 18553,
-      "num": 255797,
-      "word": "不打扰才是对动物最大的尊重与保护",
-      "onboard_time": 1730019618,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16781,
