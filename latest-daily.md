@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 03:18:54
+本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 03:35:23
 </p>
 </blockquote>
 <p>
@@ -429,6 +429,12 @@ BLG近两年对战LCK胜率（热度：76371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B8%E6%9C%BA%E4%B8%BA%E4%BB%A5%E7%B1%8D%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%23" target="weibo">
+撞以色列公交站司机为以籍阿拉伯人（热度：59639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23justsu%E7%9B%B4%E6%8B%8D%23" target="weibo">
 justsu直拍（热度：58250）
 </a>
@@ -443,12 +449,6 @@ justsu直拍（热度：58250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E4%B9%9F%E4%BD%93%E4%BC%9A%E5%88%B0%E7%A7%A6%E6%B5%B7%E7%92%90%E5%91%A8%E4%B8%80%E5%9B%B4%E7%9A%84%E8%8B%A6%E4%BA%86%23" target="weibo">
 张凯丽也体会到秦海璐周一围的苦了（热度：43956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B8%E6%9C%BA%E4%B8%BA%E4%BB%A5%E7%B1%8D%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%23" target="weibo">
-撞以色列公交站司机为以籍阿拉伯人（热度：43458）
 </a>
 </li>
 
@@ -496,7 +496,13 @@ justsu直拍（热度：58250）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E7%BD%91%E7%BB%9C%E9%98%B2%E9%AA%97%E7%A7%98%E7%B1%8D%23" target="weibo">
-双十一网络防骗秘籍（热度：11425）
+双十一网络防骗秘籍（热度：11785）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
+警方通报乘客酒后殴打网约车司机（热度：10058）
 </a>
 </li>
 

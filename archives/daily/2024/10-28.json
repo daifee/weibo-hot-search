@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730056734030,
+  "endTime": 1730057723602,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -555,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59639,
+      "num": 59639,
+      "word": "撞以色列公交站司机为以籍阿拉伯人",
+      "onboard_time": 1730055192,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 58250,
       "num": 76633,
       "word": "justsu直拍",
@@ -577,14 +585,6 @@
       "onboard_time": 1730036360,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43458,
-      "num": 43458,
-      "word": "撞以色列公交站司机为以籍阿拉伯人",
-      "onboard_time": 1730055192,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 42315,
@@ -643,11 +643,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11425,
+      "raw_hot": 11785,
       "num": 65324,
       "word": "双十一网络防骗秘籍",
       "onboard_time": 1730055791,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10058,
+      "num": 32724,
+      "word": "警方通报乘客酒后殴打网约车司机",
+      "onboard_time": 1730057471,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
