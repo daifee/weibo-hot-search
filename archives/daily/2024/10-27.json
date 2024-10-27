@@ -1,7 +1,15 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730028917365,
+  "endTime": 1730032774126,
   "band_list": [
+    {
+      "raw_hot": 2598049,
+      "num": 2598049,
+      "word": "南京南站",
+      "onboard_time": 1730030419,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2566868,
       "num": 2566868,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2431959,
-      "num": 331105,
+      "num": 537605,
       "word": "特朗普要向台湾收保护费",
       "onboard_time": 1730022797,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2253350,
-      "num": 331718,
+      "num": 533752,
       "word": "知情人曝柜姐和妈妈已报案",
       "onboard_time": 1730025438,
       "rank": 19,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1339659,
+      "num": 1339659,
+      "word": "钱天一vs张本美和",
+      "onboard_time": 1730027659,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1324529,
       "num": 307657,
       "word": "韩安冉领证发现户口本在前夫家",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057415,
+      "num": 1057415,
+      "word": "周雨彤边界感",
+      "onboard_time": 1730029699,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1055135,
       "num": 243413,
       "word": "LV柜姐事件",
@@ -243,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 882501,
+      "num": 882501,
+      "word": "29岁女生被脱口秀主持人喊大姐",
+      "onboard_time": 1730029160,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878996,
       "num": 405435,
       "word": "杨幂和灵儿加微信",
@@ -265,6 +297,14 @@
       "onboard_time": 1729958060,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 846463,
+      "num": 846463,
+      "word": "钱天一2比4张本美和",
+      "onboard_time": 1730031139,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 771789,
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 652110,
-      "num": 326779,
+      "num": 425300,
       "word": "韩国网友抵制HYBE旗下艺人",
       "onboard_time": 1730027537,
       "rank": 23,
@@ -409,6 +449,14 @@
       "onboard_time": 1729985955,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 573854,
+      "num": 573854,
+      "word": "网店2小时被水军坑走11万",
+      "onboard_time": 1730028678,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567892,
@@ -491,14 +539,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 518208,
-      "num": 518208,
-      "word": "钱天一vs张本美和",
-      "onboard_time": 1730027659,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 513997,
       "num": 310803,
       "word": "LV柜姐事件原配辟谣",
@@ -537,6 +577,14 @@
       "onboard_time": 1730005578,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490983,
+      "num": 554623,
+      "word": "黄磊喊话台下何老师别吃啊",
+      "onboard_time": 1730026998,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 487524,
@@ -649,6 +697,14 @@
       "onboard_time": 1729988236,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378955,
+      "num": 378955,
+      "word": "周深摘耳机",
+      "onboard_time": 1730029699,
+      "rank": 15,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 375835,
@@ -771,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321988,
+      "num": 321988,
+      "word": "WTT蒙彼利埃冠军赛",
+      "onboard_time": 1730030960,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317291,
       "num": 243337,
       "word": "黄子韬燃点比白磷还低",
@@ -841,6 +905,14 @@
       "onboard_time": 1729997719,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300315,
+      "num": 300315,
+      "word": "鞠婧祎薄荷绿长裙",
+      "onboard_time": 1730031739,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294372,
@@ -979,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265683,
-      "num": 322042,
-      "word": "黄磊喊话台下何老师别吃啊",
-      "onboard_time": 1730026998,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 260327,
       "num": 260327,
       "word": "朴成训柳智敏cha了Whiplash",
@@ -1123,6 +1187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231493,
+      "num": 322389,
+      "word": "辛芷蕾在片场不说普通话",
+      "onboard_time": 1730027478,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229927,
       "num": 229927,
       "word": "喻言贴脸开大李莎旻子总卖关子",
@@ -1203,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220414,
+      "num": 220414,
+      "word": "钱天一止步女单四强",
+      "onboard_time": 1730031500,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220401,
       "num": 220401,
       "word": "花少5播放量超过花少6",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1730005759,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205758,
+      "num": 205758,
+      "word": "九尾紫色passion",
+      "onboard_time": 1730031859,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 202827,
@@ -1467,12 +1555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181655,
+      "num": 181655,
+      "word": "单依纯回复粉丝评论",
+      "onboard_time": 1730030779,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181128,
       "num": 206314,
       "word": "赵露思恋人开拍路透",
       "onboard_time": 1730024298,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180690,
+      "num": 209540,
+      "word": "丁程鑫提醒周深看镜头",
+      "onboard_time": 1730031798,
+      "rank": 29,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 177925,
@@ -1523,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171342,
+      "num": 171342,
+      "word": "乔妍的心事 女人的饭局与荒野",
+      "onboard_time": 1730031920,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171319,
       "num": 171319,
       "word": "宋亚轩的6号马赢了",
@@ -1552,6 +1664,14 @@
       "word": "张杰又被堵在了路上",
       "onboard_time": 1729955002,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166947,
+      "num": 166947,
+      "word": "TXT超话空降",
+      "onboard_time": 1730032761,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1651,12 +1771,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 158045,
+      "num": 544474,
+      "word": "一人薅羊毛非法获利上百万",
+      "onboard_time": 1730028678,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157982,
       "num": 157982,
       "word": "谁懂许嵩这一圈专辑名的杀伤力",
       "onboard_time": 1730019077,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157839,
+      "num": 157839,
+      "word": "Ning 旁观者赤近墨者黑",
+      "onboard_time": 1730028619,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 157795,
@@ -1697,6 +1833,14 @@
       "onboard_time": 1730022018,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153771,
+      "num": 153771,
+      "word": "长大版王者小乔首曝",
+      "onboard_time": 1730030419,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 153762,
@@ -1771,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145993,
-      "num": 145993,
-      "word": "Ning 旁观者赤近墨者黑",
-      "onboard_time": 1730028619,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145741,
       "num": 145741,
       "word": "在浙江农村吃席被震惊了",
@@ -1801,14 +1937,6 @@
       "onboard_time": 1730028737,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142290,
-      "num": 142290,
-      "word": "辛芷蕾在片场不说普通话",
-      "onboard_time": 1730027478,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 141062,
@@ -1883,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137722,
+      "num": 137722,
+      "word": "沈腾时代少年团模仿安琪拉",
+      "onboard_time": 1730031200,
+      "rank": 41,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 136693,
       "num": 136693,
       "word": "湖人登顶西部第一",
@@ -1899,20 +2035,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136201,
+      "num": 136201,
+      "word": "镜头从严浩翔切到沈腾有多好笑",
+      "onboard_time": 1730032761,
+      "rank": 42,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 136170,
       "num": 136170,
       "word": "华科大祝贺郑钦文再夺冠",
       "onboard_time": 1730027838,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134253,
-      "num": 134253,
-      "word": "网店2小时被水军坑走11万",
-      "onboard_time": 1730028678,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133971,
@@ -2019,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126648,
+      "num": 126648,
+      "word": "曝光60余万刷手给网店刷好评",
+      "onboard_time": 1730029939,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
@@ -2033,14 +2177,6 @@
       "onboard_time": 1730020038,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123997,
-      "num": 123997,
-      "word": "一人薅羊毛非法获利上百万",
-      "onboard_time": 1730028678,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123600,
@@ -2115,12 +2251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117364,
+      "num": 117364,
+      "word": "张艺谋现身王者共创之夜",
+      "onboard_time": 1730032219,
+      "rank": 46,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 117361,
       "num": 117361,
       "word": "郑钦文抢七拍子甩掉了",
       "onboard_time": 1730013739,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117196,
+      "num": 117196,
+      "word": "杨洋雨霖铃骑马路透",
+      "onboard_time": 1730032520,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 116073,
@@ -2571,6 +2723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23828,
+      "num": 139963,
+      "word": "好团圆婚姻生活太抽象了",
+      "onboard_time": 1730031619,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23077,
       "num": 89812,
       "word": "村民们含泪送别驻村第一书记",
@@ -2659,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8813,
+      "num": 1132043,
+      "word": "1.45万吨桥梁墩体转体有多震撼",
+      "onboard_time": 1729946599,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7500,
       "num": 43993,
       "word": "4名高中生勇救七旬落水婆婆",
@@ -2673,14 +2841,6 @@
       "onboard_time": 1730016018,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 6716,
-      "num": 163420,
-      "word": "1.45万吨桥梁墩体转体有多震撼",
-      "onboard_time": 1729946599,
-      "rank": 25,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
