@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729997932024,
+  "endTime": 1729998462095,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -17,6 +17,14 @@
       "onboard_time": 1729993157,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1655210,
+      "num": 608146,
+      "word": "LV柜姐事件原配回应",
+      "onboard_time": 1729997179,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1573960,
@@ -91,14 +99,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 886428,
-      "num": 587592,
-      "word": "LV柜姐事件原配回应",
-      "onboard_time": 1729997179,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 882529,
       "num": 882529,
       "word": "黄磊 饭不是我做的放心吃",
@@ -131,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704044,
+      "num": 600249,
+      "word": "家里失火后只有蛋挞是好的",
+      "onboard_time": 1729996158,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 621813,
       "num": 621813,
       "word": "美国批准19.88亿美元对台军售",
       "onboard_time": 1729993758,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 586182,
+      "num": 589632,
+      "word": "永夜星河定档",
+      "onboard_time": 1729985955,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 567892,
@@ -147,28 +163,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 566597,
-      "num": 589632,
-      "word": "永夜星河定档",
-      "onboard_time": 1729985955,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 554615,
       "num": 891255,
       "word": "水军狂发正面评价让真实评价沉帖",
       "onboard_time": 1729977311,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554410,
-      "num": 554410,
-      "word": "家里失火后只有蛋挞是好的",
-      "onboard_time": 1729996158,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 554304,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324940,
+      "num": 324940,
+      "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
+      "onboard_time": 1729996217,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324298,
       "num": 324298,
       "word": "太平年官宣",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287495,
+      "num": 319046,
+      "word": "易梦玲特别主演大梦归离",
+      "onboard_time": 1729991959,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281027,
       "num": 226641,
       "word": "李雪琴骗过了全场",
@@ -403,20 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273785,
-      "num": 273785,
-      "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
-      "onboard_time": 1729996217,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271916,
-      "num": 319046,
-      "word": "易梦玲特别主演大梦归离",
-      "onboard_time": 1729991959,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 272449,
+      "num": 272449,
+      "word": "TheShy谈WBG告别S14",
+      "onboard_time": 1729996698,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 271386,
@@ -425,14 +433,6 @@
       "onboard_time": 1729941560,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269478,
-      "num": 269478,
-      "word": "TheShy谈WBG告别S14",
-      "onboard_time": 1729996698,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 266759,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246015,
+      "num": 246015,
+      "word": "饥饿外卖员取餐后秒退单偷4份餐",
+      "onboard_time": 1729992916,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243319,
       "num": 226423,
       "word": "大梦归离",
@@ -497,14 +505,6 @@
       "onboard_time": 1729958899,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236314,
-      "num": 236314,
-      "word": "饥饿外卖员取餐后秒退单偷4份餐",
-      "onboard_time": 1729992916,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235531,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214478,
+      "num": 215515,
+      "word": "许嵩 我不喜欢瘦我喜欢胖",
+      "onboard_time": 1729997719,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214271,
       "num": 214271,
       "word": "有的网红账号看似真实实为水军工具",
@@ -579,8 +587,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205132,
-      "num": 205132,
+      "raw_hot": 209003,
+      "num": 209003,
+      "word": "金鸡奖海报",
+      "onboard_time": 1729998137,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208584,
+      "num": 208584,
       "word": "小猫没夹住发出呱叫声",
       "onboard_time": 1729994658,
       "rank": 49,
@@ -593,6 +609,14 @@
       "onboard_time": 1729959378,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201351,
+      "num": 201351,
+      "word": "许嵩 我到鸟巢只比唐僧取经少一年",
+      "onboard_time": 1729997959,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 199194,
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165149,
+      "num": 275527,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1729997899,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "辛芷蕾工作室的海报没有辛芷蕾",
@@ -705,14 +737,6 @@
       "onboard_time": 1729985174,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162911,
-      "num": 172700,
-      "word": "许嵩 我不喜欢瘦我喜欢胖",
-      "onboard_time": 1729997719,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 159721,
@@ -739,20 +763,20 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 157795,
+      "num": 233982,
+      "word": "王一博出发巴塞罗那路透",
+      "onboard_time": 1729995558,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "Doinb爆料Ale被开",
       "onboard_time": 1729987277,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154552,
-      "num": 233982,
-      "word": "王一博出发巴塞罗那路透",
-      "onboard_time": 1729995558,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 152361,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 145580,
-      "num": 145580,
+      "num": 615603,
       "word": "又一批罕见病药有望进医保",
       "onboard_time": 1729996398,
       "rank": 44,
@@ -793,6 +817,14 @@
       "onboard_time": 1729988177,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142162,
+      "num": 142162,
+      "word": "肚子疼西医给我开了两根冰棍",
+      "onboard_time": 1729997778,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 141062,
@@ -859,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130078,
-      "num": 130078,
-      "word": "肚子疼西医给我开了两根冰棍",
-      "onboard_time": 1729997778,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "小虎排雷",
@@ -891,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126897,
-      "num": 126897,
-      "word": "郑钦文vs肯宁",
-      "onboard_time": 1729997899,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
@@ -913,6 +929,14 @@
       "onboard_time": 1729972751,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 119814,
+      "num": 119814,
+      "word": "WTA总决赛宣传片无郑钦文",
+      "onboard_time": 1729998438,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119632,
@@ -968,6 +992,14 @@
       "word": "全球约70%人工宝石产自广西梧州",
       "onboard_time": 1729965974,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62592,
+      "num": 636687,
+      "word": "小区投喂流浪猫抓伤邻居需担责吗",
+      "onboard_time": 1729992737,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1033,14 +1065,6 @@
       "onboard_time": 1729993098,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41888,
-      "num": 327263,
-      "word": "小区投喂流浪猫抓伤邻居需担责吗",
-      "onboard_time": 1729992737,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38390,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 16781,
-      "num": 1349850,
+      "num": 1394643,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,
       "rank": 2,
