@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730004109243,
+  "endTime": 1730006484325,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -72,6 +72,14 @@
       "word": "被醉汉强吻女子2天都不敢睡",
       "onboard_time": 1729962616,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060226,
+      "num": 277558,
+      "word": "两高中生奸杀教师案最新进展",
+      "onboard_time": 1730004018,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -147,12 +155,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 851675,
+      "num": 336498,
+      "word": "杨幂和灵儿加微信",
+      "onboard_time": 1730005398,
+      "rank": 10,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 771789,
+      "num": 388941,
+      "word": "徐璐陪诊哭了",
+      "onboard_time": 1729999160,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728974,
       "num": 728974,
       "word": "郭敬明审美",
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 706836,
+      "num": 306220,
+      "word": "杨幂沈腾上班上到眼里没光了",
+      "onboard_time": 1730003597,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 704044,
@@ -291,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491306,
+      "num": 313331,
+      "word": "金鸡 离谱",
+      "onboard_time": 1730005881,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 487524,
       "num": 333308,
       "word": "老人被骗花6万元买洗洁精",
       "onboard_time": 1729988836,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477801,
-      "num": 302285,
-      "word": "徐璐陪诊哭了",
-      "onboard_time": 1729999160,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 472051,
@@ -321,6 +353,14 @@
       "onboard_time": 1729953801,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425870,
+      "num": 266793,
+      "word": "赵牧辰 阮小咪",
+      "onboard_time": 1730005578,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 421373,
@@ -344,6 +384,14 @@
       "word": "留几手",
       "onboard_time": 1729996638,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389933,
+      "num": 296339,
+      "word": "秦昊披荆斩棘瘦了20斤",
+      "onboard_time": 1730005398,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -371,6 +419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356076,
+      "num": 356076,
+      "word": "国家医保局新增免陪照护服务",
+      "onboard_time": 1730000718,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355378,
+      "num": 253887,
+      "word": "好团圆 生理性分手",
+      "onboard_time": 1730004079,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352626,
       "num": 310735,
       "word": "突然收到前男友爸爸发来的消息",
@@ -393,6 +457,14 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 341906,
+      "num": 228247,
+      "word": "用人民币感受韩国物价",
+      "onboard_time": 1730005818,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 336205,
@@ -587,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251147,
+      "num": 251147,
+      "word": "丁真炖了一锅五位数的鸡汤",
+      "onboard_time": 1730004500,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249185,
       "num": 615603,
       "word": "又一批罕见病药有望进医保",
@@ -643,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 227631,
+      "num": 228297,
+      "word": "国王vs湖人",
+      "onboard_time": 1730000418,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226861,
       "num": 226861,
       "word": "小虎 抽象",
@@ -657,6 +745,22 @@
       "onboard_time": 1729953620,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225816,
+      "num": 225816,
+      "word": "张琳回应被潘展乐打破纪录",
+      "onboard_time": 1730005278,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225724,
+      "num": 225724,
+      "word": "演员王一博脚踏实地行而不辍",
+      "onboard_time": 1730003899,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 225491,
@@ -699,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220285,
-      "num": 220285,
-      "word": "两高中生奸杀教师案最新进展",
-      "onboard_time": 1730004018,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 218771,
+      "num": 218771,
+      "word": "全红婵晒了好多人模仿向佐",
+      "onboard_time": 1730003178,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 216322,
@@ -713,14 +817,6 @@
       "onboard_time": 1730002518,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 215535,
-      "num": 205226,
-      "word": "杨幂沈腾上班上到眼里没光了",
-      "onboard_time": 1730003597,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 214271,
@@ -753,14 +849,6 @@
       "onboard_time": 1730002338,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199365,
-      "num": 217533,
-      "word": "国家医保局新增免陪照护服务",
-      "onboard_time": 1730000718,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199194,
@@ -811,20 +899,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190020,
-      "num": 190020,
-      "word": "全红婵晒了好多人模仿向佐",
-      "onboard_time": 1730003178,
-      "rank": 46,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 189839,
       "num": 189839,
       "word": "姆巴佩为樊振东比第一",
       "onboard_time": 1729988775,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184569,
+      "num": 184569,
+      "word": "原神",
+      "onboard_time": 1730005759,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 183936,
@@ -883,6 +971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167841,
+      "num": 167841,
+      "word": "热烈",
+      "onboard_time": 1730005099,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167238,
       "num": 167238,
       "word": "张杰又被堵在了路上",
@@ -929,14 +1025,6 @@
       "onboard_time": 1729985174,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160386,
-      "num": 153475,
-      "word": "演员王一博脚踏实地行而不辍",
-      "onboard_time": 1730003899,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 160037,
@@ -1027,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146375,
-      "num": 146375,
-      "word": "国王vs湖人",
-      "onboard_time": 1730000418,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143721,
       "num": 143721,
       "word": "威少8中0",
@@ -1051,12 +1131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140395,
-      "num": 140395,
-      "word": "好团圆 生理性分手",
-      "onboard_time": 1730004079,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 140722,
+      "num": 140722,
+      "word": "还得看詹姆斯",
+      "onboard_time": 1730006299,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 140177,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1729994418,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139454,
+      "num": 139454,
+      "word": "光遇",
+      "onboard_time": 1730004736,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139412,
@@ -1155,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125278,
+      "num": 345138,
+      "word": "余华英两次被判死刑两次称要上诉",
+      "onboard_time": 1730006119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123278,
       "num": 123278,
       "word": "特朗普嘲讽碧昂丝为哈里斯站台",
@@ -1188,7 +1284,7 @@
     },
     {
       "raw_hot": 104392,
-      "num": 231114,
+      "num": 289519,
       "word": "一周工作4天打工人会更快乐吗",
       "onboard_time": 1730001797,
       "rank": 19,
@@ -1257,6 +1353,14 @@
       "onboard_time": 1729965974,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59891,
+      "num": 232322,
+      "word": "詹姆斯杀疯了",
+      "onboard_time": 1730005999,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 59632,
@@ -1355,12 +1459,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 38488,
+      "num": 307965,
+      "word": "家长护学岗并不是消除隐患的最优解",
+      "onboard_time": 1730005219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38372,
       "num": 102611,
       "word": "以空袭黎南部致3名媒体人员死亡",
       "onboard_time": 1729966153,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 32217,
+      "num": 293121,
+      "word": "律师称南通捅人嫌犯或将数罪并罚",
+      "onboard_time": 1730005219,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26828,
@@ -1385,6 +1505,14 @@
       "onboard_time": 1729979111,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24557,
+      "num": 286964,
+      "word": "成毅想做个纯粹的演员",
+      "onboard_time": 1730004500,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 23938,

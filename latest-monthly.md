@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 12:41:49
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 13:21:24
 </p>
 </blockquote>
 <p>
@@ -4047,6 +4047,12 @@ TES对战T1（热度：1063834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+两高中生奸杀教师案最新进展（热度：1060226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1100%E4%B8%87%E4%B9%B0%E5%88%B0300%E5%B9%B3%E7%9A%84%E8%80%81%E7%A0%B4%E5%A4%A7%23" target="weibo">
 花100万买到300平的老破大（热度：1060199）
 </a>
@@ -5931,6 +5937,12 @@ WBG止步S14四强（热度：852523）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%92%8C%E7%81%B5%E5%84%BF%E5%8A%A0%E5%BE%AE%E4%BF%A1%23" target="weibo">
+杨幂和灵儿加微信（热度：851675）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%20%E4%BA%94%E4%B8%AA%E5%BE%AE%E4%BF%A1%E8%BF%98%E4%B8%8D%E5%A4%9F%E6%8A%98%E8%85%BE%E5%90%97%23" target="weibo">
 武艺 五个微信还不够折腾吗（热度：850901）
 </a>
@@ -5999,18 +6011,6 @@ UNIQ 王一博（热度：845871）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%BC%80%E6%B3%95%E6%8B%89%E5%88%A9%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 雷军开法拉利引热议（热度：844579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E5%90%8C%E6%A1%86%23" target="weibo">
-Jennie小松菜奈同框（热度：844521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%AE%89%E5%AE%B0%E8%B4%A4%23" target="weibo">
-梁靖崑vs安宰贤（热度：843747）
 </a>
 </li>
 

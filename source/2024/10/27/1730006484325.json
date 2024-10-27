@@ -1,0 +1,410 @@
+{
+  "runTime": 1730006484325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2107501,
+        "num": 2107501,
+        "word": "热辣滚烫0提",
+        "onboard_time": 1730002338,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 904135,
+        "num": 904135,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26753,
+        "num": 685650,
+        "word": "我国最大平价海上风电项目并网发电",
+        "onboard_time": 1729999398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030879,
+        "num": 668539,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633284,
+        "num": 633284,
+        "word": "以军强迫加沙男医生一丝不挂",
+        "onboard_time": 1729993157,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 409700,
+        "num": 409700,
+        "word": "英国一学生宿舍产子锁行李箱致死",
+        "onboard_time": 1729992798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771789,
+        "num": 388941,
+        "word": "徐璐陪诊哭了",
+        "onboard_time": 1729999160,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727328,
+        "num": 381696,
+        "word": "第37届金鸡奖提名名单",
+        "onboard_time": 1729998857,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356076,
+        "num": 356076,
+        "word": "国家医保局新增免陪照护服务",
+        "onboard_time": 1730000718,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125278,
+        "num": 345138,
+        "word": "余华英两次被判死刑两次称要上诉",
+        "onboard_time": 1730006119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851675,
+        "num": 336498,
+        "word": "杨幂和灵儿加微信",
+        "onboard_time": 1730005398,
+        "rank": 10,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 512491,
+        "num": 332854,
+        "word": "再见爱人4最应该离婚的一对",
+        "onboard_time": 1729992137,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491306,
+        "num": 313331,
+        "word": "金鸡 离谱",
+        "onboard_time": 1730005881,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309827,
+        "num": 309827,
+        "word": "特朗普称当选就公布肯尼迪遇刺档案",
+        "onboard_time": 1729998677,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38488,
+        "num": 307965,
+        "word": "家长护学岗并不是消除隐患的最优解",
+        "onboard_time": 1730005219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706836,
+        "num": 306220,
+        "word": "杨幂沈腾上班上到眼里没光了",
+        "onboard_time": 1730003597,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435381,
+        "num": 300433,
+        "word": "赵丽颖金鸡奖最佳女配提名",
+        "onboard_time": 1730001797,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389933,
+        "num": 296339,
+        "word": "秦昊披荆斩棘瘦了20斤",
+        "onboard_time": 1730005398,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32217,
+        "num": 293121,
+        "word": "律师称南通捅人嫌犯或将数罪并罚",
+        "onboard_time": 1730005219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101709,
+        "num": 289519,
+        "word": "一周工作4天打工人会更快乐吗",
+        "onboard_time": 1730001797,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24557,
+        "num": 286964,
+        "word": "成毅想做个纯粹的演员",
+        "onboard_time": 1730004500,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285567,
+        "num": 285567,
+        "word": "超过100架飞机袭击伊朗",
+        "onboard_time": 1729992438,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1234071,
+        "num": 284190,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060226,
+        "num": 277558,
+        "word": "两高中生奸杀教师案最新进展",
+        "onboard_time": 1730004018,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510312,
+        "num": 272646,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425870,
+        "num": 266793,
+        "word": "赵牧辰 阮小咪",
+        "onboard_time": 1730005578,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413085,
+        "num": 261937,
+        "word": "郭敬明又换名了",
+        "onboard_time": 1729990219,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355378,
+        "num": 253887,
+        "word": "好团圆 生理性分手",
+        "onboard_time": 1730004079,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251147,
+        "num": 251147,
+        "word": "丁真炖了一锅五位数的鸡汤",
+        "onboard_time": 1730004500,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59891,
+        "num": 232322,
+        "word": "詹姆斯杀疯了",
+        "onboard_time": 1730005999,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227631,
+        "num": 228297,
+        "word": "国王vs湖人",
+        "onboard_time": 1730000418,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341906,
+        "num": 228247,
+        "word": "用人民币感受韩国物价",
+        "onboard_time": 1730005818,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 228102,
+        "num": 228102,
+        "word": "郑钦文vs肯宁",
+        "onboard_time": 1729997899,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225816,
+        "num": 225816,
+        "word": "张琳回应被潘展乐打破纪录",
+        "onboard_time": 1730005278,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225724,
+        "num": 225724,
+        "word": "演员王一博脚踏实地行而不辍",
+        "onboard_time": 1730003899,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218771,
+        "num": 218771,
+        "word": "全红婵晒了好多人模仿向佐",
+        "onboard_time": 1730003178,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 195982,
+        "num": 195982,
+        "word": "许嵩 我到鸟巢只比唐僧取经少一年",
+        "onboard_time": 1729997959,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192564,
+        "num": 192564,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1729992617,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189957,
+        "num": 189957,
+        "word": "樊振东连发5条皇马动态",
+        "onboard_time": 1730001199,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186467,
+        "num": 186467,
+        "word": "米歇尔让男选民投票前想想女儿",
+        "onboard_time": 1729999998,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184569,
+        "num": 184569,
+        "word": "原神",
+        "onboard_time": 1730005759,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180026,
+        "num": 180026,
+        "word": "周杰伦演唱会开场前歌迷场外生子",
+        "onboard_time": 1729988416,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 177147,
+        "num": 177147,
+        "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
+        "onboard_time": 1729996217,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171454,
+        "num": 171454,
+        "word": "虞书欣丁禹兮3年二搭",
+        "onboard_time": 1730002938,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168075,
+        "num": 168075,
+        "word": "原来辛芷蕾演的才是真乔妍",
+        "onboard_time": 1729999217,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167841,
+        "num": 167841,
+        "word": "热烈",
+        "onboard_time": 1730005099,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160676,
+        "num": 160676,
+        "word": "永夜星河定档",
+        "onboard_time": 1729985955,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140722,
+        "num": 140722,
+        "word": "还得看詹姆斯",
+        "onboard_time": 1730006299,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 139454,
+        "word": "光遇",
+        "onboard_time": 1730004736,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139371,
+        "num": 139371,
+        "word": "大学生假扮高中生给弟弟送情书",
+        "onboard_time": 1729999097,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}
