@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 19:17:10
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 19:35:17
 </p>
 </blockquote>
 <p>
@@ -3327,6 +3327,12 @@ Angelababy带小海绵做爱心餐（热度：1214498）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E5%AE%98%E5%AE%A3Ruler%E7%A6%BB%E9%98%9F%23" target="weibo">
+JDG官宣Ruler离队（热度：1203717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%231%E4%B8%AA%E6%9C%885%E5%A4%A7%E7%BD%91%E7%BA%A2%E5%A1%8C%E6%88%BF%23" target="weibo">
 1个月5大网红塌房（热度：1203125）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说杨子恶劣至极（热度：857119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E8%8A%B13886%E4%B9%B0%E5%8F%B6%E7%8F%82%E8%A1%A3%E6%9C%8D%E5%90%8E%E5%90%90%E6%A7%BD%E7%A8%80%E7%A2%8E%23" target="weibo">
 博主花3886买叶珂衣服后吐槽稀碎（热度：852830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E6%AD%A2%E6%AD%A5S14%E5%9B%9B%E5%BC%BA%23" target="weibo">
-WBG止步S14四强（热度：852523）
 </a>
 </li>
 

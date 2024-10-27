@@ -1,0 +1,410 @@
+{
+  "runTime": 1730028917365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1203717,
+        "num": 1203717,
+        "word": "JDG官宣Ruler离队",
+        "onboard_time": 1730027360,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 623729,
+        "num": 623729,
+        "word": "百万粉丝宠物博主疑似人设崩塌",
+        "onboard_time": 1730024418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6456,
+        "num": 622697,
+        "word": "神十八乘组回地球前在忙什么",
+        "onboard_time": 1730017399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622253,
+        "num": 622253,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1730020878,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 518208,
+        "num": 518208,
+        "word": "钱天一vs张本美和",
+        "onboard_time": 1730027659,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479052,
+        "num": 479052,
+        "word": "可可西里讨食狼越来越多",
+        "onboard_time": 1730019017,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452833,
+        "num": 452833,
+        "word": "心跳慢和心跳快哪个更健康",
+        "onboard_time": 1730023278,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346490,
+        "num": 346490,
+        "word": "程潇白色花朵立体裙",
+        "onboard_time": 1730023938,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334395,
+        "num": 334395,
+        "word": "央视曝网店刷好评套路",
+        "onboard_time": 1730023097,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240453,
+        "num": 333849,
+        "word": "贺峻霖MVP",
+        "onboard_time": 1730026398,
+        "rank": 9,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 2249533,
+        "num": 331718,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1712174,
+        "num": 331105,
+        "word": "特朗普要向台湾收保护费",
+        "onboard_time": 1730022797,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1490607,
+        "num": 329541,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656780,
+        "num": 328162,
+        "word": "单依纯工作室脑子快转冒烟了",
+        "onboard_time": 1730017878,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652110,
+        "num": 326779,
+        "word": "韩国网友抵制HYBE旗下艺人",
+        "onboard_time": 1730027537,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567006,
+        "num": 324592,
+        "word": "美国15岁少年枪杀5名家人",
+        "onboard_time": 1730024718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394120,
+        "num": 323447,
+        "word": "长沙一外卖员抓猫从26楼扔下致死",
+        "onboard_time": 1730018897,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260467,
+        "num": 322042,
+        "word": "黄磊喊话台下何老师别吃啊",
+        "onboard_time": 1730026998,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212480,
+        "num": 320013,
+        "word": "大梦归离",
+        "onboard_time": 1730025018,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62141,
+        "num": 318032,
+        "word": "警方怀疑卡车撞以色列公交站是恐怖袭击",
+        "onboard_time": 1730028737,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 317849,
+        "num": 317849,
+        "word": "张元英金玟庭人生四格",
+        "onboard_time": 1730025319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285896,
+        "num": 285896,
+        "word": "王者代言人全员集结共创之夜",
+        "onboard_time": 1730026818,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221453,
+        "num": 221453,
+        "word": "博主称小西天保安大叔今日辞职",
+        "onboard_time": 1730019379,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214661,
+        "num": 214661,
+        "word": "Crisp对局结束打字为BLG加油",
+        "onboard_time": 1730026879,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196199,
+        "num": 196199,
+        "word": "离婚后发现男方隐匿了上百万房产",
+        "onboard_time": 1730011879,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51154,
+        "num": 194572,
+        "word": "可可西里孤狼变胖狼",
+        "onboard_time": 1730022678,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194000,
+        "num": 194000,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191992,
+        "num": 191992,
+        "word": "王一博一年三部电影获金鸡奖18项提名",
+        "onboard_time": 1730027779,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1497611,
+        "num": 191772,
+        "word": "黄子韬 老婆请说",
+        "onboard_time": 1730023998,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190335,
+        "num": 190335,
+        "word": "赵露思新剧挣扎青筋暴起",
+        "onboard_time": 1730025979,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185094,
+        "num": 185094,
+        "word": "物业回应外卖员抓猫从26楼扔下",
+        "onboard_time": 1730023457,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164845,
+        "num": 164845,
+        "word": "多方回应网传饿了么外卖员虐猫",
+        "onboard_time": 1730021299,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157982,
+        "num": 157982,
+        "word": "虞书欣发的乱码文案",
+        "onboard_time": 1730015718,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146927,
+        "num": 146927,
+        "word": "韩安冉领证发现户口本在前夫家",
+        "onboard_time": 1730008759,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145993,
+        "num": 145993,
+        "word": "Ning 旁观者赤近墨者黑",
+        "onboard_time": 1730028619,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144111,
+        "num": 144111,
+        "word": "用人民币感受韩国物价",
+        "onboard_time": 1730005818,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142946,
+        "num": 142946,
+        "word": "大藤沙月4比3郑怡静",
+        "onboard_time": 1730028737,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142290,
+        "num": 142290,
+        "word": "辛芷蕾在片场不说普通话",
+        "onboard_time": 1730027478,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141951,
+        "num": 141951,
+        "word": "特朗普谈总统任期中犯的最大错误",
+        "onboard_time": 1730020640,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139542,
+        "num": 139542,
+        "word": "郑钦文夺冠后发博",
+        "onboard_time": 1730017578,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296757,
+        "num": 139490,
+        "word": "黄子韬燃点比白磷还低",
+        "onboard_time": 1730023879,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138820,
+        "num": 138820,
+        "word": "南京一头大水牛横渡长江",
+        "onboard_time": 1730021898,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136170,
+        "num": 136170,
+        "word": "华科大祝贺郑钦文再夺冠",
+        "onboard_time": 1730027838,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134253,
+        "num": 134253,
+        "word": "网店2小时被水军坑走11万",
+        "onboard_time": 1730028678,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131876,
+        "num": 131876,
+        "word": "赵丽颖王梓薇对峙戏",
+        "onboard_time": 1730025259,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131864,
+        "num": 131864,
+        "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
+        "onboard_time": 1730021239,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123997,
+        "num": 123997,
+        "word": "一人薅羊毛非法获利上百万",
+        "onboard_time": 1730028678,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119914,
+        "num": 119914,
+        "word": "李沁红衣挽弓压迫感",
+        "onboard_time": 1730025617,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118279,
+        "num": 118279,
+        "word": "郑钦文夺冠获得100万奖金",
+        "onboard_time": 1730023039,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117461,
+        "num": 117461,
+        "word": "赵露思恋人开拍路透",
+        "onboard_time": 1730024298,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}

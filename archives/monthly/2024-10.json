@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730027830498,
+  "endTime": 1730028917365,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 2431959,
-      "num": 248391,
+      "num": 331105,
       "word": "特朗普要向台湾收保护费",
       "onboard_time": 1730022797,
       "rank": 10,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 2253350,
-      "num": 246943,
+      "num": 331718,
       "word": "知情人曝柜姐和妈妈已报案",
       "onboard_time": 1730025438,
       "rank": 19,
@@ -4417,6 +4417,14 @@
       "onboard_time": 1729344740,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1203717,
+      "num": 1203717,
+      "word": "JDG官宣Ruler离队",
+      "onboard_time": 1730027360,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 1203125,
@@ -11723,6 +11731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 652110,
+      "num": 326779,
+      "word": "韩国网友抵制HYBE旗下艺人",
+      "onboard_time": 1730027537,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650840,
       "num": 650840,
       "word": "王楚钦福州见面会",
@@ -12465,6 +12481,14 @@
       "onboard_time": 1729253960,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 623729,
+      "num": 623729,
+      "word": "百万粉丝宠物博主疑似人设崩塌",
+      "onboard_time": 1730024418,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623244,
@@ -13819,14 +13843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 573137,
-      "num": 242291,
-      "word": "百万粉丝宠物博主疑似人设崩塌",
-      "onboard_time": 1730024418,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573058,
       "num": 573058,
       "word": "听泉赏宝回应直播连线争议",
@@ -13985,6 +14001,14 @@
       "onboard_time": 1729152443,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567006,
+      "num": 324592,
+      "word": "美国15岁少年枪杀5名家人",
+      "onboard_time": 1730024718,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566779,
@@ -15419,6 +15443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518208,
+      "num": 518208,
+      "word": "钱天一vs张本美和",
+      "onboard_time": 1730027659,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 517504,
       "num": 439956,
       "word": "伊朗袭击以色列前检查导弹画面首公开",
@@ -16337,14 +16369,6 @@
       "onboard_time": 1728209119,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 488739,
-      "num": 241192,
-      "word": "JDG官宣Ruler离队",
-      "onboard_time": 1730027360,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 488407,
@@ -17609,6 +17633,14 @@
       "onboard_time": 1727953938,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452833,
+      "num": 452833,
+      "word": "心跳慢和心跳快哪个更健康",
+      "onboard_time": 1730023278,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452702,
@@ -19307,14 +19339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406757,
-      "num": 240676,
-      "word": "美国15岁少年枪杀5名家人",
-      "onboard_time": 1730024718,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406693,
       "num": 282716,
       "word": "阎鹤祥 工程师",
@@ -19417,14 +19441,6 @@
       "onboard_time": 1729826058,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 404490,
-      "num": 404490,
-      "word": "心跳慢和心跳快哪个更健康",
-      "onboard_time": 1730023278,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403897,
@@ -20300,7 +20316,7 @@
     },
     {
       "raw_hot": 382348,
-      "num": 239845,
+      "num": 317849,
       "word": "张元英金玟庭人生四格",
       "onboard_time": 1730025319,
       "rank": 24,
@@ -22891,6 +22907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 334395,
+      "num": 334395,
+      "word": "央视曝网店刷好评套路",
+      "onboard_time": 1730023097,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334144,
       "num": 286859,
       "word": "误食两斤全麦面包怎么办",
@@ -23196,7 +23220,7 @@
     },
     {
       "raw_hot": 328701,
-      "num": 328701,
+      "num": 333849,
       "word": "贺峻霖MVP",
       "onboard_time": 1730026398,
       "rank": 5,
@@ -25715,14 +25739,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 293343,
-      "num": 238470,
-      "word": "韩国网友抵制HYBE旗下艺人",
-      "onboard_time": 1730027537,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293291,
       "num": 297781,
       "word": "付航call back",
@@ -26401,6 +26417,14 @@
       "onboard_time": 1729428741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285896,
+      "num": 285896,
+      "word": "王者代言人全员集结共创之夜",
+      "onboard_time": 1730026818,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 285777,
@@ -28364,7 +28388,7 @@
     },
     {
       "raw_hot": 265683,
-      "num": 237337,
+      "num": 322042,
       "word": "黄磊喊话台下何老师别吃啊",
       "onboard_time": 1730026998,
       "rank": 24,
@@ -34507,6 +34531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214661,
+      "num": 214661,
+      "word": "Crisp对局结束打字为BLG加油",
+      "onboard_time": 1730026879,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214654,
       "num": 214654,
       "word": "郑钦文二度破发",
@@ -37697,14 +37729,6 @@
       "onboard_time": 1728215960,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200829,
-      "num": 200829,
-      "word": "王者代言人全员集结共创之夜",
-      "onboard_time": 1730026818,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 200803,
@@ -40899,6 +40923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190335,
+      "num": 199031,
+      "word": "赵露思新剧挣扎青筋暴起",
+      "onboard_time": 1730025979,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190317,
       "num": 262602,
       "word": "MAMA投票",
@@ -43907,14 +43939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177952,
-      "num": 199031,
-      "word": "赵露思新剧挣扎青筋暴起",
-      "onboard_time": 1730025979,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177946,
       "num": 425507,
       "word": "广水卫健局让卫生院退回多收的0.22元",
@@ -45433,14 +45457,6 @@
       "onboard_time": 1728534080,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171270,
-      "num": 171270,
-      "word": "Crisp对局结束打字为BLG加油",
-      "onboard_time": 1730026879,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 171260,
@@ -52227,6 +52243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145993,
+      "num": 145993,
+      "word": "Ning 旁观者赤近墨者黑",
+      "onboard_time": 1730028619,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145987,
       "num": 145987,
       "word": "黄牛非法抢占博物馆门票一月获利30万",
@@ -52553,14 +52577,6 @@
       "onboard_time": 1729266621,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145016,
-      "num": 247845,
-      "word": "央视曝网店刷好评套路",
-      "onboard_time": 1730023097,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144976,
@@ -53163,6 +53179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 142946,
+      "num": 142946,
+      "word": "大藤沙月4比3郑怡静",
+      "onboard_time": 1730028737,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142931,
       "num": 142931,
       "word": "王楚钦回应双甜组合网名",
@@ -53337,6 +53361,14 @@
       "onboard_time": 1728788899,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142290,
+      "num": 142290,
+      "word": "辛芷蕾在片场不说普通话",
+      "onboard_time": 1730027478,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 142269,
@@ -55019,6 +55051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136170,
+      "num": 136170,
+      "word": "华科大祝贺郑钦文再夺冠",
+      "onboard_time": 1730027838,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136156,
       "num": 136156,
       "word": "彩礼没有礼爱情何来爱",
@@ -55528,6 +55568,14 @@
       "word": "未来3天又来一股新冷空气",
       "onboard_time": 1729428441,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134253,
+      "num": 134253,
+      "word": "网店2小时被水军坑走11万",
+      "onboard_time": 1730028678,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -58305,6 +58353,14 @@
       "onboard_time": 1729180400,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123997,
+      "num": 123997,
+      "word": "一人薅羊毛非法获利上百万",
+      "onboard_time": 1730028678,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123951,
@@ -68851,14 +68907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63402,
-      "num": 245068,
-      "word": "钱天一vs张本美和",
-      "onboard_time": 1730027659,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63368,
       "num": 381410,
       "word": "湖北一小学教室翻新疑要家长掏钱",
@@ -69049,6 +69097,14 @@
       "onboard_time": 1728841155,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62141,
+      "num": 318032,
+      "word": "警方怀疑卡车撞以色列公交站是恐怖袭击",
+      "onboard_time": 1730028737,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 62140,
@@ -70945,6 +71001,14 @@
       "onboard_time": 1729057820,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51154,
+      "num": 194572,
+      "word": "可可西里孤狼变胖狼",
+      "onboard_time": 1730022678,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51151,
