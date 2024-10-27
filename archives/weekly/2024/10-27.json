@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730049583743,
+  "endTime": 1730050621595,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -851,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436226,
+      "num": 134268,
+      "word": "Gumayusi喊话Bin",
+      "onboard_time": 1730048594,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 435043,
       "num": 435043,
       "word": "余华英两次被判死刑两次称要上诉",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1729943839,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344887,
-      "num": 134268,
-      "word": "Gumayusi喊话Bin",
-      "onboard_time": 1730048594,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 343546,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1729945579,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 109080,
+      "word": "Chovy还在补兵",
+      "onboard_time": 1730049973,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 223185,
@@ -2996,7 +3004,7 @@
     },
     {
       "raw_hot": 109116,
-      "num": 109116,
+      "num": 112526,
       "word": "朴彩英新专配置",
       "onboard_time": 1730045478,
       "rank": 44,
@@ -3171,19 +3179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71190,
+      "num": 73200,
+      "word": "女子为保护女孩手被恶犬咬伤",
+      "onboard_time": 1730047397,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68358,
       "num": 289783,
       "word": "代炒菜会在菜市场普及吗",
       "onboard_time": 1730012417,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66007,
-      "num": 73200,
-      "word": "女子为保护女孩手被恶犬咬伤",
-      "onboard_time": 1730047397,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3217,6 +3225,14 @@
       "onboard_time": 1730028737,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 60041,
+      "num": 60041,
+      "word": "一个人真正靠谱的4种表现",
+      "onboard_time": 1730049913,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 59632,
@@ -3411,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30807,
+      "num": 157381,
+      "word": "以色列称袭击前未告知伊朗",
+      "onboard_time": 1730049194,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30485,
       "num": 532714,
       "word": "学生菲律宾实习7年后涉开设赌场罪",
@@ -3577,14 +3601,6 @@
       "onboard_time": 1729945579,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16104,
-      "num": 157381,
-      "word": "以色列称袭击前未告知伊朗",
-      "onboard_time": 1730049194,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 16079,

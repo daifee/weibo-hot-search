@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730049583743,
+  "endTime": 1730050621595,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -131,6 +131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 436226,
+      "num": 134268,
+      "word": "Gumayusi喊话Bin",
+      "onboard_time": 1730048594,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 357964,
       "num": 357964,
       "word": "23年前杀害女子真凶被找到时在服刑",
@@ -145,14 +153,6 @@
       "onboard_time": 1730042361,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 344887,
-      "num": 134268,
-      "word": "Gumayusi喊话Bin",
-      "onboard_time": 1730048594,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 338123,
@@ -225,6 +225,14 @@
       "onboard_time": 1730044758,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 109080,
+      "word": "Chovy还在补兵",
+      "onboard_time": 1730049973,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 222952,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 109116,
-      "num": 109116,
+      "num": 112526,
       "word": "朴彩英新专配置",
       "onboard_time": 1730045478,
       "rank": 44,
@@ -523,12 +531,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66007,
+      "raw_hot": 71190,
       "num": 73200,
       "word": "女子为保护女孩手被恶犬咬伤",
       "onboard_time": 1730047397,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60041,
+      "num": 60041,
+      "word": "一个人真正靠谱的4种表现",
+      "onboard_time": 1730049913,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 58142,
@@ -539,19 +555,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30807,
+      "num": 157381,
+      "word": "以色列称袭击前未告知伊朗",
+      "onboard_time": 1730049194,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 24942,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
       "onboard_time": 1730046797,
       "rank": 8,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 16104,
-      "num": 157381,
-      "word": "以色列称袭击前未告知伊朗",
-      "onboard_time": 1730049194,
-      "rank": 25,
       "category": "国外时政"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730049583743,
+  "endTime": 1730050621595,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -18507,6 +18507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436226,
+      "num": 134268,
+      "word": "Gumayusi喊话Bin",
+      "onboard_time": 1730048594,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 435873,
       "num": 435873,
       "word": "谢瑜世界杯10米气手枪夺冠",
@@ -22593,14 +22601,6 @@
       "onboard_time": 1729559717,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 344887,
-      "num": 134268,
-      "word": "Gumayusi喊话Bin",
-      "onboard_time": 1730048594,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 344613,
@@ -33481,6 +33481,14 @@
       "onboard_time": 1728999259,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 109080,
+      "word": "Chovy还在补兵",
+      "onboard_time": 1730049973,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 224577,
@@ -62556,7 +62564,7 @@
     },
     {
       "raw_hot": 109116,
-      "num": 109116,
+      "num": 112526,
       "word": "朴彩英新专配置",
       "onboard_time": 1730045478,
       "rank": 44,
@@ -68643,6 +68651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71190,
+      "num": 73200,
+      "word": "女子为保护女孩手被恶犬咬伤",
+      "onboard_time": 1730047397,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71140,
       "num": 140044,
       "word": "意见要求提高产业工人经济收入",
@@ -69288,14 +69304,6 @@
       "word": "赵金云涉嫌严重职务违法",
       "onboard_time": 1729854378,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66007,
-      "num": 73200,
-      "word": "女子为保护女孩手被恶犬咬伤",
-      "onboard_time": 1730047397,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -70249,6 +70257,14 @@
       "onboard_time": 1729519700,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60041,
+      "num": 60041,
+      "word": "一个人真正靠谱的4种表现",
+      "onboard_time": 1730049913,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 60040,
@@ -77083,6 +77099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30807,
+      "num": 157381,
+      "word": "以色列称袭击前未告知伊朗",
+      "onboard_time": 1730049194,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30725,
       "num": 30725,
       "word": "大冰连线",
@@ -80953,14 +80977,6 @@
       "onboard_time": 1728939551,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16104,
-      "num": 157381,
-      "word": "以色列称袭击前未告知伊朗",
-      "onboard_time": 1730049194,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 16054,
