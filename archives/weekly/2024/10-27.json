@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730035497372,
+  "endTime": 1730036213721,
   "band_list": [
     {
       "raw_hot": 2598049,
@@ -267,6 +267,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 913710,
+      "num": 442976,
+      "word": "鞠婧祎薄荷绿长裙",
+      "onboard_time": 1730031739,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 912927,
       "num": 912927,
       "word": "超过100架飞机袭击伊朗",
@@ -345,14 +353,6 @@
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 726109,
-      "num": 423876,
-      "word": "鞠婧祎薄荷绿长裙",
-      "onboard_time": 1730031739,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 710158,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538458,
+      "num": 538458,
+      "word": "国乒无缘蒙彼利埃赛女单决赛",
+      "onboard_time": 1730036119,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529576,
       "num": 295274,
       "word": "已婚已育已二胎在大学里的一天",
@@ -561,6 +569,14 @@
       "onboard_time": 1729955660,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519076,
+      "num": 519076,
+      "word": "赵丽颖王梓薇 三搭",
+      "onboard_time": 1730035100,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 513997,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436723,
-      "num": 436723,
-      "word": "赵丽颖王梓薇 三搭",
-      "onboard_time": 1730035100,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 435043,
       "num": 435043,
       "word": "余华英两次被判死刑两次称要上诉",
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390152,
+      "num": 390152,
+      "word": "奥巴马妻子称投特朗普是反对女性",
+      "onboard_time": 1730033599,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 382348,
       "num": 317849,
       "word": "张元英金玟庭人生四格",
@@ -769,6 +785,14 @@
       "onboard_time": 1730020399,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370935,
+      "num": 370935,
+      "word": "杨幂开叉绣花拖尾裙",
+      "onboard_time": 1730034079,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 366938,
@@ -899,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312520,
-      "num": 312520,
-      "word": "杨幂开叉绣花拖尾裙",
-      "onboard_time": 1730034079,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 306361,
       "num": 326348,
       "word": "谭松韵口误带偏全场",
@@ -953,14 +969,6 @@
       "onboard_time": 1729997719,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301569,
-      "num": 301569,
-      "word": "奥巴马妻子称投特朗普是反对女性",
-      "onboard_time": 1730033599,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 294372,
@@ -1211,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238039,
+      "num": 435682,
+      "word": "南京南站列车运行秩序逐步恢复",
+      "onboard_time": 1730034319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237758,
       "num": 237758,
       "word": "2岁小孩的词汇量有多恐怖",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1729994298,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234341,
+      "num": 234341,
+      "word": "u17国足vs韩国u17",
+      "onboard_time": 1730033300,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 234074,
@@ -1371,11 +1395,11 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 217801,
-      "num": 217801,
-      "word": "u17国足vs韩国u17",
-      "onboard_time": 1730033300,
-      "rank": 44,
+      "raw_hot": 218417,
+      "num": 415848,
+      "word": "林诗栋vsF勒布伦",
+      "onboard_time": 1730035820,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -1435,6 +1459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204128,
+      "num": 228372,
+      "word": "杨幂时代少年团模仿貂蝉",
+      "onboard_time": 1730035820,
+      "rank": 29,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 202827,
       "num": 202827,
       "word": "丁程鑫18秒挥了5次手",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1729999998,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198799,
+      "num": 198799,
+      "word": "哈里斯称伊朗不能报复以色列",
+      "onboard_time": 1730035339,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 197117,
@@ -1691,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174484,
+      "num": 174484,
+      "word": "张本智和vs杜达",
+      "onboard_time": 1730034860,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174244,
       "num": 174244,
       "word": "刘青松 大家加油",
@@ -1720,6 +1768,14 @@
       "word": "宋亚轩的6号马赢了",
       "onboard_time": 1730007198,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168920,
+      "num": 168920,
+      "word": "演宁静把宁静看哭了",
+      "onboard_time": 1730036180,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1763,6 +1819,14 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 166693,
+      "num": 511757,
+      "word": "轿车掉头与货车碰撞轿车内6人身亡",
+      "onboard_time": 1730035519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166179,
       "num": 113481,
       "word": "网购千万不要没苦硬吃",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1729958540,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165463,
+      "num": 165463,
+      "word": "张本智和4比2杜达",
+      "onboard_time": 1730035639,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 165029,
@@ -1809,14 +1881,6 @@
       "onboard_time": 1730030419,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160747,
-      "num": 160747,
-      "word": "张本智和vs杜达",
-      "onboard_time": 1730034860,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 160037,
@@ -2075,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139081,
+      "num": 139081,
+      "word": "刘宇宁单依纯合唱相思",
+      "onboard_time": 1730036000,
+      "rank": 48,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 138487,
       "num": 138487,
       "word": "钎城国风舞枪好惊艳",
@@ -2171,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131968,
+      "num": 131968,
+      "word": "付航 我非常感谢我的父母",
+      "onboard_time": 1730036180,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131644,
       "num": 131644,
       "word": "凤冠冰箱贴",
@@ -2265,14 +2345,6 @@
       "onboard_time": 1730020038,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124849,
-      "num": 124849,
-      "word": "哈里斯称伊朗不能报复以色列",
-      "onboard_time": 1730035339,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 123600,
@@ -2385,14 +2457,6 @@
       "onboard_time": 1730025438,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114157,
-      "num": 435682,
-      "word": "南京南站列车运行秩序逐步恢复",
-      "onboard_time": 1730034319,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111861,
@@ -2923,12 +2987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14927,
+      "raw_hot": 16079,
       "num": 1161204,
       "word": "1.45万吨桥梁墩体转体有多震撼",
       "onboard_time": 1729946599,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13770,
+      "num": 370519,
+      "word": "时代少年团组队教练Gemini",
+      "onboard_time": 1730035880,
+      "rank": 19,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 13360,
