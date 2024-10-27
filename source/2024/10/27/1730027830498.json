@@ -1,0 +1,410 @@
+{
+  "runTime": 1730027830498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776905,
+        "num": 1124304,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1730020878,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 552189,
+        "num": 552189,
+        "word": "可可西里讨食狼越来越多",
+        "onboard_time": 1730019017,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8718,
+        "num": 438728,
+        "word": "神十八乘组回地球前在忙什么",
+        "onboard_time": 1730017399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404490,
+        "num": 404490,
+        "word": "心跳慢和心跳快哪个更健康",
+        "onboard_time": 1730023278,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363997,
+        "num": 363997,
+        "word": "程潇白色花朵立体裙",
+        "onboard_time": 1730023938,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328701,
+        "num": 328701,
+        "word": "贺峻霖MVP",
+        "onboard_time": 1730026398,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264510,
+        "num": 264510,
+        "word": "博主称小西天保安大叔今日辞职",
+        "onboard_time": 1730019379,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249028,
+        "num": 249028,
+        "word": "大梦归离",
+        "onboard_time": 1730025018,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201419,
+        "num": 248862,
+        "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
+        "onboard_time": 1730021239,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145016,
+        "num": 247845,
+        "word": "央视曝网店刷好评套路",
+        "onboard_time": 1730023097,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2253350,
+        "num": 246943,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2068746,
+        "num": 246143,
+        "word": "特朗普要向台湾收保护费",
+        "onboard_time": 1730022797,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1804693,
+        "num": 245232,
+        "word": "黄子韬 老婆请说",
+        "onboard_time": 1730023998,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245091,
+        "num": 245091,
+        "word": "物业回应外卖员抓猫从26楼扔下",
+        "onboard_time": 1730023457,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63402,
+        "num": 245068,
+        "word": "钱天一vs张本美和",
+        "onboard_time": 1730027659,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1558843,
+        "num": 243666,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695452,
+        "num": 243003,
+        "word": "单依纯工作室脑子快转冒烟了",
+        "onboard_time": 1730017878,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573137,
+        "num": 242291,
+        "word": "百万粉丝宠物博主疑似人设崩塌",
+        "onboard_time": 1730024418,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525424,
+        "num": 242038,
+        "word": "长沙一外卖员抓猫从26楼扔下致死",
+        "onboard_time": 1730018897,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488739,
+        "num": 241192,
+        "word": "JDG官宣Ruler离队",
+        "onboard_time": 1730027360,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 406757,
+        "num": 240676,
+        "word": "美国15岁少年枪杀5名家人",
+        "onboard_time": 1730024718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382348,
+        "num": 239845,
+        "word": "张元英金玟庭人生四格",
+        "onboard_time": 1730025319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293823,
+        "num": 238588,
+        "word": "黄子韬燃点比白磷还低",
+        "onboard_time": 1730023879,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293343,
+        "num": 238470,
+        "word": "韩国网友抵制HYBE旗下艺人",
+        "onboard_time": 1730027537,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265683,
+        "num": 237337,
+        "word": "黄磊喊话台下何老师别吃啊",
+        "onboard_time": 1730026998,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237128,
+        "num": 237128,
+        "word": "离婚后发现男方隐匿了上百万房产",
+        "onboard_time": 1730011879,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213374,
+        "num": 213374,
+        "word": "多方回应网传饿了么外卖员虐猫",
+        "onboard_time": 1730021299,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200829,
+        "num": 200829,
+        "word": "王者代言人全员集结共创之夜",
+        "onboard_time": 1730026818,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199464,
+        "num": 199464,
+        "word": "王一博一年三部电影获金鸡奖18项提名",
+        "onboard_time": 1730027779,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177952,
+        "num": 199031,
+        "word": "赵露思新剧挣扎青筋暴起",
+        "onboard_time": 1730025979,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198993,
+        "num": 198993,
+        "word": "用人民币感受韩国物价",
+        "onboard_time": 1730005818,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190059,
+        "num": 190059,
+        "word": "余宇涵翻跳BoomBoomBass",
+        "onboard_time": 1730026818,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185864,
+        "num": 185864,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181978,
+        "num": 181978,
+        "word": "特朗普谈总统任期中犯的最大错误",
+        "onboard_time": 1730020640,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176365,
+        "num": 176365,
+        "word": "韩安冉领证发现户口本在前夫家",
+        "onboard_time": 1730008759,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171270,
+        "num": 171270,
+        "word": "Crisp对局结束打字为BLG加油",
+        "onboard_time": 1730026879,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165450,
+        "num": 165450,
+        "word": "郑钦文夺冠后发博",
+        "onboard_time": 1730017578,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165116,
+        "num": 165116,
+        "word": "虞书欣发的乱码文案",
+        "onboard_time": 1730015718,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160781,
+        "num": 160781,
+        "word": "南京一头大水牛横渡长江",
+        "onboard_time": 1730021898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142087,
+        "num": 142087,
+        "word": "大梦归离反派颜值",
+        "onboard_time": 1730021959,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140805,
+        "num": 140805,
+        "word": "李沁红衣挽弓压迫感",
+        "onboard_time": 1730025617,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138262,
+        "num": 138262,
+        "word": "赵丽颖王梓薇对峙戏",
+        "onboard_time": 1730025259,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134291,
+        "num": 134291,
+        "word": "赵露思恋人开拍路透",
+        "onboard_time": 1730024298,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131435,
+        "num": 131435,
+        "word": "边伯贤签售会送350张拍立得",
+        "onboard_time": 1730027178,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129056,
+        "num": 129056,
+        "word": "郑钦文夺冠获得100万奖金",
+        "onboard_time": 1730023039,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127397,
+        "num": 127397,
+        "word": "乔妍想要的不是身份而是平等",
+        "onboard_time": 1730027119,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119951,
+        "num": 119951,
+        "word": "傅菁一分一秒舞台",
+        "onboard_time": 1730026278,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113853,
+        "num": 113853,
+        "word": "黄仁俊亮相直播",
+        "onboard_time": 1730025198,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501497,
+        "num": 113635,
+        "word": "工资4000一个月的存钱计划",
+        "onboard_time": 1730009898,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110952,
+        "num": 110952,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}
