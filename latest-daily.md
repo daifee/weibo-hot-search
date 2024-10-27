@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 06:38:47
+本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 07:22:21
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@ Faker飞雷神（热度：845320）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E8%BE%B9%E7%95%8C%E6%84%9F%23" target="weibo">
 周雨彤边界感（热度：767993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8E%95%E7%96%91%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23" target="weibo">
+长沙一公厕疑有人冲洗臭豆腐原材料（热度：612186）
 </a>
 </li>
 
@@ -118,7 +124,7 @@ Gumayusi喊话Bin（热度：436226）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2323%E5%B9%B4%E5%89%8D%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%AD%90%E7%9C%9F%E5%87%B6%E8%A2%AB%E6%89%BE%E5%88%B0%E6%97%B6%E5%9C%A8%E6%9C%8D%E5%88%91%23" target="weibo">
-23年前杀害女子真凶被找到时在服刑（热度：357964）
+23年前杀害女子真凶被找到时在服刑（热度：413417）
 </a>
 </li>
 
@@ -137,6 +143,12 @@ Gumayusi喊话Bin（热度：436226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GEN%E7%99%BD%E8%B5%A2%E4%B8%80%E6%95%B4%E5%B9%B4%23" target="weibo">
 GEN白赢一整年（热度：330568）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%BA%972%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%B0%B4%E5%86%9B%E5%9D%91%E8%B5%B011%E4%B8%87%23" target="weibo">
+网店2小时被水军坑走11万（热度：297967）
 </a>
 </li>
 
@@ -160,19 +172,13 @@ GEN止步S14四强（热度：281208）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%884%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
-大藤沙月4比2张本美和（热度：267814）
+大藤沙月4比2张本美和（热度：276713）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Chovy%20%E9%9A%90%E8%BA%AB%23" target="weibo">
 Chovy 隐身（热度：256178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%85%AC%E5%8E%95%E7%96%91%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23" target="weibo">
-长沙一公厕疑有人冲洗臭豆腐原材料（热度：250537）
 </a>
 </li>
 
@@ -267,8 +273,8 @@ T1拿到赛点（热度：149109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%BA%972%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%B0%B4%E5%86%9B%E5%9D%91%E8%B5%B011%E4%B8%87%23" target="weibo">
-网店2小时被水军坑走11万（热度：141196）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E8%A2%AB%E5%82%AC%E7%94%9F%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+古天乐被催生的反应（热度：139392）
 </a>
 </li>
 
@@ -363,6 +369,12 @@ JDG官宣Ruler离队（热度：120331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E6%9F%9C%E5%A7%90%E4%BA%8B%E4%BB%B6%E5%8E%9F%E9%85%8D%E5%B7%B2%E6%8F%90%E8%B5%B7%E7%A6%BB%E5%A9%9A%23" target="weibo">
+LV柜姐事件原配已提起离婚（热度：107198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E8%92%99%E5%BD%BC%E5%88%A9%E5%9F%83%E8%B5%9B%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B%23" target="weibo">
 国乒蒙彼利埃赛无缘冠军（热度：105152）
 </a>
@@ -411,8 +423,26 @@ JDG官宣Ruler离队（热度：120331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%9B%9E%E5%BA%94%E9%87%91%E9%B9%B0%E8%8A%82%E5%94%AF%E4%B8%80%E6%8F%90%E5%90%8D95%E7%94%9F%23" target="weibo">
+张新成回应金鹰节唯一提名95生（热度：94073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B8%E6%9C%BA%E4%B8%BA%E4%BB%A5%E7%B1%8D%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%23" target="weibo">
+撞以色列公交站司机为以籍阿拉伯人（热度：90695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%20BP%23" target="weibo">
 T1 BP（热度：89970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23F1%23" target="weibo">
+F1（热度：81158）
 </a>
 </li>
 
@@ -430,7 +460,31 @@ BLG近两年对战LCK胜率（热度：76371）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%AC%AC21%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%BA%B7%E5%A6%AE%E5%B7%B2%E7%BB%8F%E7%94%9F%E6%88%90%23" target="weibo">
-今年第21号台风康妮已经生成（热度：64361）
+今年第21号台风康妮已经生成（热度：70945）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E7%A9%BA%E7%A9%BA%E5%84%BF%E9%A6%96%E6%9B%9D%23" target="weibo">
+王者新英雄空空儿首曝（热度：70501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8E%95%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23" target="weibo">
+官方回应公厕有人冲洗臭豆腐原材料（热度：68812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%20%E5%90%8C%E6%97%B6%E6%80%BC%E6%81%B6%E5%A9%86%E5%A9%86%E5%92%8C%E5%A6%88%E5%AE%9D%E7%94%B7%23" target="weibo">
+李纯 同时怼恶婆婆和妈宝男（热度：62667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E8%82%8C%E7%97%9B%E6%82%A3%E8%80%859%E6%88%90%E4%BB%A5%E4%B8%8A%E6%98%AF%E5%A5%B3%E6%80%A7%23" target="weibo">
+纤维肌痛患者9成以上是女性（热度：61854）
 </a>
 </li>
 
@@ -441,8 +495,14 @@ BLG近两年对战LCK胜率（热度：76371）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B8%E6%9C%BA%E4%B8%BA%E4%BB%A5%E7%B1%8D%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%23" target="weibo">
-撞以色列公交站司机为以籍阿拉伯人（热度：59639）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B5%B7%E8%BE%B9%E6%9D%BE%E5%BC%9B%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
+杨紫海边松弛感大片（热度：59457）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E6%A2%93%E8%96%87%20%E4%B8%89%E6%90%AD%23" target="weibo">
+赵丽颖王梓薇 三搭（热度：59335）
 </a>
 </li>
 
@@ -459,20 +519,32 @@ justsu直拍（热度：58250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
+警方通报乘客酒后殴打网约车司机（热度：57633）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E4%BD%A0%E5%B0%B1%E5%AE%A0%E7%9D%80%E5%AD%9F%E5%AD%90%E4%B9%89%E5%90%A7%23" target="weibo">
+郭艾伦你就宠着孟子义吧（热度：54547）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CGEN%23" target="weibo">
+T1战胜GEN（热度：53334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E4%B9%9F%E4%BD%93%E4%BC%9A%E5%88%B0%E7%A7%A6%E6%B5%B7%E7%92%90%E5%91%A8%E4%B8%80%E5%9B%B4%E7%9A%84%E8%8B%A6%E4%BA%86%23" target="weibo">
 张凯丽也体会到秦海璐周一围的苦了（热度：53256）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
-警方通报乘客酒后殴打网约车司机（热度：49443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E8%A2%AB%E5%82%AC%E7%94%9F%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-古天乐被催生的反应（热度：46624）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E7%BB%93%E6%9E%9C%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B%23" target="weibo">
+哈里斯和特朗普民调结果不相上下（热度：53170）
 </a>
 </li>
 
@@ -489,18 +561,6 @@ justsu直拍（热度：58250）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E7%BB%93%E6%9E%9C%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B%23" target="weibo">
-哈里斯和特朗普民调结果不相上下（热度：33611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8E%95%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23" target="weibo">
-官方回应公厕有人冲洗臭豆腐原材料（热度：33054）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%80%E5%A4%A92%E8%B5%B7%E6%B1%BD%E8%BD%A6%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E4%BA%8B%E4%BB%B6%23" target="weibo">
 以色列一天2起汽车冲撞人群事件（热度：32283）
 </a>
@@ -509,12 +569,6 @@ justsu直拍（热度：58250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E5%89%8D%E6%9C%AA%E5%91%8A%E7%9F%A5%E4%BC%8A%E6%9C%97%23" target="weibo">
 以色列称袭击前未告知伊朗（热度：30807）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B5%B7%E8%BE%B9%E6%9D%BE%E5%BC%9B%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
-杨紫海边松弛感大片（热度：30774）
 </a>
 </li>
 
@@ -533,6 +587,12 @@ justsu直拍（热度：58250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8B%9026%E5%B9%B4%E5%90%8E%E7%BB%88%E4%BA%8E%E5%9B%9E%E5%AE%B6%23" target="weibo">
 5岁女孩被拐26年后终于回家（热度：18159）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E4%BB%A5%E5%89%8D%E5%8F%AB%E9%A3%8E%E7%97%B4%E5%92%8C%E9%A3%8E%E5%8F%B0%23" target="weibo">
+台风以前叫风痴和风台（热度：15371）
 </a>
 </li>
 

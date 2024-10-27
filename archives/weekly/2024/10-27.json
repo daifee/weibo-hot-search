@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730068727745,
+  "endTime": 1730071341572,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612186,
+      "num": 287178,
+      "word": "长沙一公厕疑有人冲洗臭豆腐原材料",
+      "onboard_time": 1730061851,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601617,
       "num": 336375,
       "word": "郑钦文夺冠后发博",
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 436226,
-      "num": 134268,
+      "num": 277698,
       "word": "Gumayusi喊话Bin",
       "onboard_time": 1730048594,
       "rank": 30,
@@ -1291,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276713,
+      "num": 276713,
+      "word": "大藤沙月4比2张本美和",
+      "onboard_time": 1730046617,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276432,
       "num": 276432,
       "word": "25岁辅警救落水老人双双溺亡",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1729941560,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267814,
-      "num": 267814,
-      "word": "大藤沙月4比2张本美和",
-      "onboard_time": 1730046617,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 267712,
@@ -1449,14 +1457,6 @@
       "onboard_time": 1730004500,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250537,
-      "num": 116785,
-      "word": "长沙一公厕疑有人冲洗臭豆腐原材料",
-      "onboard_time": 1730061851,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250152,
@@ -2619,6 +2619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139392,
+      "num": 139392,
+      "word": "古天乐被催生的反应",
+      "onboard_time": 1730066292,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139081,
       "num": 139081,
       "word": "刘宇宁单依纯合唱相思",
@@ -3035,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107198,
+      "num": 107198,
+      "word": "LV柜姐事件原配已提起离婚",
+      "onboard_time": 1730024238,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107125,
       "num": 107125,
       "word": "两位90多岁女兵重逢抱在一起",
@@ -3099,14 +3115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98586,
-      "num": 98586,
-      "word": "LV柜姐事件原配已提起离婚",
-      "onboard_time": 1730024238,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97028,
       "num": 97028,
       "word": "阿森纳vs利物浦",
@@ -3139,6 +3147,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94073,
+      "num": 176427,
+      "word": "张新成回应金鹰节唯一提名95生",
+      "onboard_time": 1730068813,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90695,
+      "num": 90695,
+      "word": "撞以色列公交站司机为以籍阿拉伯人",
+      "onboard_time": 1730055192,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 89970,
       "num": 89970,
       "word": "T1 BP",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1729980551,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81158,
+      "num": 81158,
+      "word": "F1",
+      "onboard_time": 1730071097,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 76371,
@@ -3203,6 +3235,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70945,
+      "num": 70945,
+      "word": "今年第21号台风康妮已经生成",
+      "onboard_time": 1730050814,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70501,
+      "num": 70501,
+      "word": "王者新英雄空空儿首曝",
+      "onboard_time": 1730071155,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 68812,
+      "num": 68812,
+      "word": "官方回应公厕有人冲洗臭豆腐原材料",
+      "onboard_time": 1730058970,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68358,
       "num": 289783,
       "word": "代炒菜会在菜市场普及吗",
@@ -3227,14 +3283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64361,
-      "num": 66249,
-      "word": "今年第21号台风康妮已经生成",
-      "onboard_time": 1730050814,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63133,
       "num": 165310,
       "word": "多地集中整治人情保关系保问题",
@@ -3251,20 +3299,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 61854,
+      "num": 61854,
+      "word": "纤维肌痛患者9成以上是女性",
+      "onboard_time": 1730070795,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60041,
       "num": 60041,
       "word": "一个人真正靠谱的4种表现",
       "onboard_time": 1730049913,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59639,
-      "num": 59639,
-      "word": "撞以色列公交站司机为以籍阿拉伯人",
-      "onboard_time": 1730055192,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 59632,
@@ -3275,12 +3323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59457,
+      "num": 59457,
+      "word": "杨紫海边松弛感大片",
+      "onboard_time": 1730066532,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 58250,
       "num": 76633,
       "word": "justsu直拍",
       "onboard_time": 1730052432,
       "rank": 9,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 57633,
+      "num": 57633,
+      "word": "警方通报乘客酒后殴打网约车司机",
+      "onboard_time": 1730057471,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57477,
@@ -3313,6 +3377,22 @@
       "onboard_time": 1729972991,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53334,
+      "num": 53334,
+      "word": "T1战胜GEN",
+      "onboard_time": 1730071097,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 53170,
+      "num": 53170,
+      "word": "哈里斯和特朗普民调结果不相上下",
+      "onboard_time": 1730060650,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 52942,
@@ -3361,22 +3441,6 @@
       "onboard_time": 1730003418,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49443,
-      "num": 49443,
-      "word": "警方通报乘客酒后殴打网约车司机",
-      "onboard_time": 1730057471,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46624,
-      "num": 41148,
-      "word": "古天乐被催生的反应",
-      "onboard_time": 1730066292,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 44604,
@@ -3483,22 +3547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33611,
-      "num": 41422,
-      "word": "哈里斯和特朗普民调结果不相上下",
-      "onboard_time": 1730060650,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 33054,
-      "num": 33054,
-      "word": "官方回应公厕有人冲洗臭豆腐原材料",
-      "onboard_time": 1730058970,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32283,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -3529,14 +3577,6 @@
       "onboard_time": 1730049194,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 30774,
-      "num": 30774,
-      "word": "杨紫海边松弛感大片",
-      "onboard_time": 1730066532,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30579,
@@ -3739,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15371,
+      "num": 290741,
+      "word": "台风以前叫风痴和风台",
+      "onboard_time": 1730070795,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13770,
       "num": 370519,
       "word": "时代少年团组队教练Gemini",
@@ -3804,7 +3852,7 @@
     },
     {
       "raw_hot": 7730,
-      "num": 220670,
+      "num": 444111,
       "word": "这件瓷壶静静美了700多年",
       "onboard_time": 1730037382,
       "rank": 2,
