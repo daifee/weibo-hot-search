@@ -1,20 +1,20 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730042494330,
+  "endTime": 1730043354339,
   "band_list": [
+    {
+      "raw_hot": 2850454,
+      "num": 2850454,
+      "word": "网曝塔斯汀汉堡吃出生肉",
+      "onboard_time": 1730039961,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2598049,
       "num": 2598049,
       "word": "南京南站",
       "onboard_time": 1730030419,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2575616,
-      "num": 2575616,
-      "word": "网曝塔斯汀汉堡吃出生肉",
-      "onboard_time": 1730039961,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251522,
+      "num": 1251522,
+      "word": "专家提醒长期晚睡晚起也算熬夜",
+      "onboard_time": 1730040741,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1203717,
       "num": 1203717,
       "word": "JDG官宣Ruler离队",
@@ -355,14 +363,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 876514,
-      "num": 876514,
-      "word": "专家提醒长期晚睡晚起也算熬夜",
-      "onboard_time": 1730040741,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 861114,
       "num": 861114,
       "word": "英国一学生宿舍产子锁行李箱致死",
@@ -401,6 +401,14 @@
       "onboard_time": 1730036180,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 766059,
+      "num": 419792,
+      "word": "饶雪漫和翁青雅吃饭",
+      "onboard_time": 1730042060,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 760110,
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418617,
+      "num": 418617,
+      "word": "张本智和晋级冠军赛决赛",
+      "onboard_time": 1730039781,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415599,
       "num": 341845,
       "word": "电影今年二十二12月全国上映",
@@ -817,6 +833,14 @@
       "onboard_time": 1730029699,
       "rank": 15,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 408234,
+      "num": 408234,
+      "word": "T1对战GEN",
+      "onboard_time": 1730033479,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 405971,
@@ -849,6 +873,14 @@
       "onboard_time": 1730032761,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383260,
+      "num": 415739,
+      "word": "杜华后悔一个人来看李梦",
+      "onboard_time": 1730042361,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 382348,
@@ -907,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365854,
-      "num": 365854,
-      "word": "T1对战GEN",
-      "onboard_time": 1730033479,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 363997,
       "num": 363997,
       "word": "程潇白色花朵立体裙",
@@ -929,14 +953,6 @@
       "onboard_time": 1730004079,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353908,
-      "num": 353908,
-      "word": "张本智和晋级冠军赛决赛",
-      "onboard_time": 1730039781,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 353158,
@@ -984,6 +1000,14 @@
       "word": "央视曝网店刷好评套路",
       "onboard_time": 1730023097,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329679,
+      "num": 490909,
+      "word": "塔斯汀门店回应汉堡肉是生的",
+      "onboard_time": 1730041881,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1072,14 +1096,6 @@
       "word": "丁禹兮永夜星河换了配音",
       "onboard_time": 1730013978,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 303815,
-      "num": 248822,
-      "word": "饶雪漫和翁青雅吃饭",
-      "onboard_time": 1730042060,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1225,14 +1241,6 @@
       "onboard_time": 1729941560,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268818,
-      "num": 291346,
-      "word": "杜华后悔一个人来看李梦",
-      "onboard_time": 1730042361,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 267712,
@@ -1499,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226760,
+      "num": 226760,
+      "word": "白桃星座",
+      "onboard_time": 1730042660,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226345,
       "num": 226345,
       "word": "樊振东姆巴佩合影",
@@ -1620,7 +1636,7 @@
     },
     {
       "raw_hot": 212850,
-      "num": 248902,
+      "num": 268909,
       "word": "易烊千玺确认出席东京电影节",
       "onboard_time": 1730041762,
       "rank": 29,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1730005759,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206869,
+      "num": 269727,
+      "word": "周深游戏ID是周深藏不露头",
+      "onboard_time": 1730039902,
+      "rank": 47,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 205758,
@@ -1756,7 +1780,7 @@
     },
     {
       "raw_hot": 195782,
-      "num": 195782,
+      "num": 226762,
       "word": "刘耀文比赛结束就搂上宋亚轩",
       "onboard_time": 1730042361,
       "rank": 33,
@@ -1843,6 +1867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189945,
+      "num": 189945,
+      "word": "周深给杨幂提裙子",
+      "onboard_time": 1730042419,
+      "rank": 48,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 189839,
       "num": 189839,
       "word": "姆巴佩为樊振东比第一",
@@ -1859,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185655,
+      "num": 185655,
+      "word": "华晨宇大莲花单场上座率最高歌手",
+      "onboard_time": 1730042181,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185447,
       "num": 185447,
       "word": "陈哲远 疯感美人",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1730001137,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183772,
-      "num": 183772,
-      "word": "华晨宇大莲花单场上座率最高歌手",
-      "onboard_time": 1730042181,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 183501,
@@ -1952,14 +1984,6 @@
       "word": "丁程鑫提醒周深看镜头",
       "onboard_time": 1730031798,
       "rank": 29,
-      "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 178759,
-      "num": 178759,
-      "word": "周深游戏ID是周深藏不露头",
-      "onboard_time": 1730039902,
-      "rank": 47,
       "category": "综艺,游戏"
     },
     {
@@ -2153,6 +2177,14 @@
       "onboard_time": 1730030419,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160411,
+      "num": 160411,
+      "word": "S赛的T1好强",
+      "onboard_time": 1730043262,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 160037,
@@ -2363,14 +2395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144071,
-      "num": 144071,
-      "word": "周深给杨幂提裙子",
-      "onboard_time": 1730042419,
-      "rank": 48,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 143721,
       "num": 143721,
       "word": "威少8中0",
@@ -2523,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134221,
+      "num": 411633,
+      "word": "Bin和Elk现场观战",
+      "onboard_time": 1730042720,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133971,
       "num": 636687,
       "word": "小区投喂流浪猫抓伤邻居需担责吗",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1729972751,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 122414,
-      "num": 490909,
-      "word": "塔斯汀门店回应汉堡肉是生的",
-      "onboard_time": 1730041881,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122215,
@@ -2979,6 +3003,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 61206,
+      "num": 408562,
+      "word": "她叫杨妞花",
+      "onboard_time": 1730043081,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59632,
       "num": 59632,
       "word": "钱天一3比0巴特拉",
@@ -3064,6 +3096,14 @@
       "word": "官方回应山东一餐饮店夜间坍塌",
       "onboard_time": 1730003418,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46411,
+      "num": 184053,
+      "word": "要挤干网络水军的水分",
+      "onboard_time": 1730043199,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3153,6 +3193,14 @@
       "onboard_time": 1730017817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32352,
+      "num": 418701,
+      "word": "T1拿到赛点",
+      "onboard_time": 1730043199,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 32217,
@@ -3407,6 +3455,9 @@
     },
     {
       "word": "#循着总书记关切看西部陆海新通道建设新貌#"
+    },
+    {
+      "word": "#三个维度看习近平喀山之行#"
     }
   ]
 }
