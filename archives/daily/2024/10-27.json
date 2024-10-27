@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1729999949792,
+  "endTime": 1730000668798,
   "band_list": [
     {
       "raw_hot": 2566868,
@@ -27,20 +27,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1735646,
+      "num": 700759,
+      "word": "第37届金鸡奖提名名单",
+      "onboard_time": 1729998857,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1573960,
       "num": 1573960,
       "word": "再见爱人4最应该离婚的一对",
       "onboard_time": 1729992137,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1481299,
-      "num": 601162,
-      "word": "第37届金鸡奖提名名单",
-      "onboard_time": 1729998857,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1200153,
@@ -155,6 +155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 600131,
+      "num": 357008,
+      "word": "原来辛芷蕾演的才是真乔妍",
+      "onboard_time": 1729999217,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 594383,
       "num": 559726,
       "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477801,
+      "num": 302285,
+      "word": "徐璐陪诊哭了",
+      "onboard_time": 1729999160,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472051,
       "num": 472051,
       "word": "许嵩 我到鸟巢只比唐僧取经少一年",
@@ -281,6 +297,14 @@
       "onboard_time": 1729991117,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410080,
+      "num": 387630,
+      "word": "特朗普称当选就公布肯尼迪遇刺档案",
+      "onboard_time": 1729998677,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 396359,
@@ -321,14 +345,6 @@
       "onboard_time": 1729983974,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357008,
-      "num": 357008,
-      "word": "原来辛芷蕾演的才是真乔妍",
-      "onboard_time": 1729999217,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 352626,
@@ -419,20 +435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302285,
-      "num": 302285,
-      "word": "徐璐陪诊哭了",
-      "onboard_time": 1729999160,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293253,
       "num": 226656,
       "word": "杨幂粉色抹胸长裙梦回夏晚晴",
       "onboard_time": 1729949901,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292199,
+      "num": 565612,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1729997899,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 291957,
@@ -449,22 +465,6 @@
       "onboard_time": 1729998137,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 290262,
-      "num": 387630,
-      "word": "特朗普称当选就公布肯尼迪遇刺档案",
-      "onboard_time": 1729998677,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 289203,
-      "num": 565612,
-      "word": "郑钦文vs肯宁",
-      "onboard_time": 1729997899,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 287495,
@@ -539,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249185,
+      "num": 615603,
+      "word": "又一批罕见病药有望进医保",
+      "onboard_time": 1729996398,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246015,
       "num": 246015,
       "word": "饥饿外卖员取餐后秒退单偷4份餐",
       "onboard_time": 1729992916,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245257,
+      "num": 245257,
+      "word": "大学生假扮高中生给弟弟送情书",
+      "onboard_time": 1729999097,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 243319,
@@ -667,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198915,
+      "num": 198915,
+      "word": "周雨彤合作白宇朱亚文",
+      "onboard_time": 1729999998,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196177,
       "num": 196177,
       "word": "应采儿发Jasper全英文演讲",
       "onboard_time": 1729985955,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191713,
+      "num": 191713,
+      "word": "赵丽颖蒲公英写真",
+      "onboard_time": 1729999517,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 189839,
@@ -713,14 +745,6 @@
       "onboard_time": 1729997778,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179642,
-      "num": 179642,
-      "word": "大学生假扮高中生给弟弟送情书",
-      "onboard_time": 1729999097,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 175708,
@@ -787,12 +811,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161303,
-      "num": 161303,
-      "word": "赵丽颖蒲公英写真",
-      "onboard_time": 1729999517,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 159920,
+      "num": 159920,
+      "word": "米歇尔让男选民投票前想想女儿",
+      "onboard_time": 1729999998,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 159721,
@@ -857,14 +881,6 @@
       "onboard_time": 1729955782,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148533,
-      "num": 615603,
-      "word": "又一批罕见病药有望进医保",
-      "onboard_time": 1729996398,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143721,
@@ -969,6 +985,14 @@
       "onboard_time": 1729981272,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126851,
+      "num": 126851,
+      "word": "国王vs湖人",
+      "onboard_time": 1730000418,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 126269,
@@ -1123,12 +1147,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 38390,
-      "num": 233213,
+      "raw_hot": 42748,
+      "num": 328718,
       "word": "以方称袭击伊朗目标非美国指令",
       "onboard_time": 1729997417,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 40236,
+      "num": 792048,
+      "word": "我国最大平价海上风电项目并网发电",
+      "onboard_time": 1729999398,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38372,
@@ -1203,18 +1235,18 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 20266,
+      "num": 176795,
+      "word": "肖战水灵灵地出现了",
+      "onboard_time": 1730000178,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16781,
       "num": 1394643,
       "word": "神十九发射场区全系统合练",
       "onboard_time": 1729945579,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15893,
-      "num": 611189,
-      "word": "我国最大平价海上风电项目并网发电",
-      "onboard_time": 1729999398,
       "rank": 2,
       "category": "社会新闻"
     },

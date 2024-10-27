@@ -1,0 +1,410 @@
+{
+  "runTime": 1730000668798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2071958,
+        "num": 2071958,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1090585,
+        "num": 1090585,
+        "word": "以军强迫加沙男医生一丝不挂",
+        "onboard_time": 1729993157,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40236,
+        "num": 792048,
+        "word": "我国最大平价海上风电项目并网发电",
+        "onboard_time": 1729999398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1735646,
+        "num": 700759,
+        "word": "第37届金鸡奖提名名单",
+        "onboard_time": 1729998857,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 533355,
+        "num": 533355,
+        "word": "英国一学生宿舍产子锁行李箱致死",
+        "onboard_time": 1729992798,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517453,
+        "num": 517453,
+        "word": "超过100架飞机袭击伊朗",
+        "onboard_time": 1729992438,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 913637,
+        "num": 445230,
+        "word": "再见爱人4最应该离婚的一对",
+        "onboard_time": 1729992137,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774971,
+        "num": 442580,
+        "word": "郭敬明又换名了",
+        "onboard_time": 1729990219,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330823,
+        "num": 330823,
+        "word": "美国批准19.88亿美元对台军售",
+        "onboard_time": 1729993758,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42748,
+        "num": 328718,
+        "word": "以方称袭击伊朗目标非美国指令",
+        "onboard_time": 1729997417,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2080312,
+        "num": 325721,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600131,
+        "num": 317989,
+        "word": "原来辛芷蕾演的才是真乔妍",
+        "onboard_time": 1729999217,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532815,
+        "num": 316075,
+        "word": "家里失火后只有蛋挞是好的",
+        "onboard_time": 1729996158,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 509548,
+        "num": 310699,
+        "word": "被醉汉猥亵女子说不能用酒后作案掩盖",
+        "onboard_time": 1729996217,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457660,
+        "num": 307882,
+        "word": "永夜星河定档",
+        "onboard_time": 1729985955,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423856,
+        "num": 303473,
+        "word": "许嵩 我到鸟巢只比唐僧取经少一年",
+        "onboard_time": 1729997959,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410080,
+        "num": 297673,
+        "word": "特朗普称当选就公布肯尼迪遇刺档案",
+        "onboard_time": 1729998677,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374467,
+        "num": 295106,
+        "word": "留几手",
+        "onboard_time": 1729996638,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292199,
+        "num": 292199,
+        "word": "郑钦文vs肯宁",
+        "onboard_time": 1729997899,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249185,
+        "num": 249185,
+        "word": "又一批罕见病药有望进医保",
+        "onboard_time": 1729996398,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595520,
+        "num": 248592,
+        "word": "周杰伦演唱会开场前歌迷场外生子",
+        "onboard_time": 1729988416,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 477801,
+        "num": 247627,
+        "word": "徐璐陪诊哭了",
+        "onboard_time": 1729999160,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471512,
+        "num": 247106,
+        "word": "被醉汉强吻女子2天都不敢睡",
+        "onboard_time": 1729962616,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366826,
+        "num": 246787,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1729992617,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277532,
+        "num": 245885,
+        "word": "许嵩 我不喜欢瘦我喜欢胖",
+        "onboard_time": 1729997719,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245257,
+        "num": 245257,
+        "word": "大学生假扮高中生给弟弟送情书",
+        "onboard_time": 1729999097,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240303,
+        "num": 240303,
+        "word": "金鸡奖海报",
+        "onboard_time": 1729998137,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237454,
+        "num": 237454,
+        "word": "TheShy谈WBG告别S14",
+        "onboard_time": 1729996698,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218598,
+        "num": 218598,
+        "word": "带牙套后牙齿可能发生的变化",
+        "onboard_time": 1729986975,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207288,
+        "num": 207288,
+        "word": "当相亲时吃的是地锅鸡",
+        "onboard_time": 1729990577,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292642,
+        "num": 205982,
+        "word": "LV柜姐事件",
+        "onboard_time": 1729933459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198915,
+        "num": 198915,
+        "word": "周雨彤合作白宇朱亚文",
+        "onboard_time": 1729999998,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191713,
+        "num": 191713,
+        "word": "赵丽颖蒲公英写真",
+        "onboard_time": 1729999517,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179288,
+        "num": 179288,
+        "word": "突然收到前男友爸爸发来的消息",
+        "onboard_time": 1729986015,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177690,
+        "num": 177690,
+        "word": "易梦玲特别主演大梦归离",
+        "onboard_time": 1729991959,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20266,
+        "num": 176795,
+        "word": "肖战水灵灵地出现了",
+        "onboard_time": 1730000178,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176289,
+        "num": 176289,
+        "word": "已婚已育已二胎在大学里的一天",
+        "onboard_time": 1729986015,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167252,
+        "num": 167252,
+        "word": "肚子疼西医给我开了两根冰棍",
+        "onboard_time": 1729997778,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159920,
+        "num": 159920,
+        "word": "米歇尔让男选民投票前想想女儿",
+        "onboard_time": 1729999998,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159912,
+        "num": 159912,
+        "word": "饥饿外卖员取餐后秒退单偷4份餐",
+        "onboard_time": 1729992916,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149658,
+        "num": 149658,
+        "word": "司机踩错油门6秒连撞3车4人",
+        "onboard_time": 1729983734,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144401,
+        "num": 144401,
+        "word": "小猫没夹住发出呱叫声",
+        "onboard_time": 1729994658,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "拜登回应以色列袭击伊朗",
+        "onboard_time": 1729993578,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136375,
+        "num": 136375,
+        "word": "后来才知道当年行为叫做临终关怀",
+        "onboard_time": 1729994298,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127727,
+        "num": 127727,
+        "word": "皇马0比4巴萨",
+        "onboard_time": 1729983974,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126851,
+        "num": 126851,
+        "word": "国王vs湖人",
+        "onboard_time": 1730000418,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126765,
+        "num": 126765,
+        "word": "老人被骗花6万元买洗洁精",
+        "onboard_time": 1729988836,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125573,
+        "num": 125573,
+        "word": "王一博出发巴塞罗那路透",
+        "onboard_time": 1729995558,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125454,
+        "num": 125454,
+        "word": "小区投喂流浪猫抓伤邻居需担责吗",
+        "onboard_time": 1729992737,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123570,
+        "num": 123570,
+        "word": "龚俊回请迪丽热巴剧组下午茶",
+        "onboard_time": 1729986556,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#大金砖合作高光时刻#"
+    }
+  }
+}

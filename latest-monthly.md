@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 11:32:29
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/27 11:44:28
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,12 @@ papi酱问黄圣依杨子是演的还是真的（热度：1817648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC37%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
+第37届金鸡奖提名名单（热度：1735646）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%A5%B3%E5%AD%90%E9%81%AD%E4%BA%BA%E8%BF%B7%E6%99%95%E5%90%8E%E6%8B%90%E8%87%B3%E6%B2%B3%E5%8D%97%23" target="weibo">
 缅甸女子遭人迷晕后拐至河南（热度：1732985）
 </a>
@@ -2147,12 +2153,6 @@ TES战胜T1（热度：1515921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%23" target="weibo">
 东部战区（热度：1484305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC37%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
-第37届金鸡奖提名名单（热度：1481299）
 </a>
 </li>
 
