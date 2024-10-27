@@ -1,0 +1,410 @@
+{
+  "runTime": 1730024500574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1188032,
+        "num": 1190085,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1730020878,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1113102,
+        "num": 1113102,
+        "word": "单依纯工作室脑子快转冒烟了",
+        "onboard_time": 1730017878,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22095,
+        "num": 544018,
+        "word": "神十八乘组回地球前在忙什么",
+        "onboard_time": 1730017399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537070,
+        "num": 537070,
+        "word": "可可西里讨食狼越来越多",
+        "onboard_time": 1730019017,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489886,
+        "num": 489886,
+        "word": "博主称小西天保安大叔今日辞职",
+        "onboard_time": 1730019379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282561,
+        "num": 282561,
+        "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
+        "onboard_time": 1730021239,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257700,
+        "num": 257700,
+        "word": "周雨彤领衔主演太平年",
+        "onboard_time": 1729996036,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255606,
+        "num": 255606,
+        "word": "大梦归离反派颜值",
+        "onboard_time": 1730021959,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215526,
+        "num": 215526,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94650,
+        "num": 211654,
+        "word": "心跳慢和心跳快哪个更健康",
+        "onboard_time": 1730023278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1796536,
+        "num": 211598,
+        "word": "特朗普要向台湾收保护费",
+        "onboard_time": 1730022797,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1586439,
+        "num": 211592,
+        "word": "长沙一外卖员抓猫从26楼扔下致死",
+        "onboard_time": 1730018897,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211516,
+        "num": 211516,
+        "word": "老人花300元买了1斤鲜虾干",
+        "onboard_time": 1730000837,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710158,
+        "num": 211512,
+        "word": "多方回应网传饿了么外卖员虐猫",
+        "onboard_time": 1730021299,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551733,
+        "num": 211017,
+        "word": "特朗普谈总统任期中犯的最大错误",
+        "onboard_time": 1730020640,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 511372,
+        "num": 210924,
+        "word": "离婚后发现男方隐匿了上百万房产",
+        "onboard_time": 1730011879,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407704,
+        "num": 210394,
+        "word": "黄子韬 老婆请说",
+        "onboard_time": 1730023998,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301272,
+        "num": 210225,
+        "word": "郑钦文夺冠后发博",
+        "onboard_time": 1730017578,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272597,
+        "num": 209798,
+        "word": "用人民币感受韩国物价",
+        "onboard_time": 1730005818,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 260955,
+        "num": 209716,
+        "word": "柳智敏李瑞cha了",
+        "onboard_time": 1730020399,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497459,
+        "num": 209186,
+        "word": "工资4000一个月的存钱计划",
+        "onboard_time": 1730009898,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312580,
+        "num": 209156,
+        "word": "韩安冉领证发现户口本在前夫家",
+        "onboard_time": 1730008759,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232826,
+        "num": 208737,
+        "word": "虞书欣发的乱码文案",
+        "onboard_time": 1730015718,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228886,
+        "num": 208510,
+        "word": "LV柜姐事件原配辟谣",
+        "onboard_time": 1730009778,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208295,
+        "num": 208295,
+        "word": "杨幂和灵儿加微信",
+        "onboard_time": 1730005398,
+        "rank": 24,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 171265,
+        "num": 171265,
+        "word": "程潇白色花朵立体裙",
+        "onboard_time": 1730023938,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159884,
+        "num": 159884,
+        "word": "毒液",
+        "onboard_time": 1730006659,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159680,
+        "num": 159680,
+        "word": "宁静谈电影电视剧短剧鄙视链",
+        "onboard_time": 1730022377,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154587,
+        "num": 154587,
+        "word": "赵丽颖 把细节揉进角色里",
+        "onboard_time": 1730022018,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 147259,
+        "word": "侯明昊圈内人缘",
+        "onboard_time": 1730015777,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193818,
+        "num": 147214,
+        "word": "黄子韬燃点比白磷还低",
+        "onboard_time": 1730023879,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190680,
+        "num": 147186,
+        "word": "南京一头大水牛横渡长江",
+        "onboard_time": 1730021898,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147105,
+        "num": 147105,
+        "word": "成都裸眼3D大屏因太逼真硬控观众",
+        "onboard_time": 1730021538,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146477,
+        "num": 146477,
+        "word": "LV柜姐事件原配回应",
+        "onboard_time": 1729997179,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135642,
+        "num": 135642,
+        "word": "央视曝网店刷好评套路",
+        "onboard_time": 1730023097,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134250,
+        "num": 134250,
+        "word": "2岁小孩的词汇量有多恐怖",
+        "onboard_time": 1730017457,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132445,
+        "num": 132445,
+        "word": "杨幂沈腾上班上到眼里没光了",
+        "onboard_time": 1730003597,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130266,
+        "num": 130266,
+        "word": "卡车冲入以色列公交站致数十人受伤",
+        "onboard_time": 1730022678,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120372,
+        "num": 120372,
+        "word": "赵露思恋人开拍路透",
+        "onboard_time": 1730024298,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116033,
+        "num": 116033,
+        "word": "物业回应外卖员抓猫从26楼扔下",
+        "onboard_time": 1730023457,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109274,
+        "num": 109274,
+        "word": "丁禹兮永夜星河换了配音",
+        "onboard_time": 1730013978,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105675,
+        "num": 105675,
+        "word": "郑钦文夺冠获得100万奖金",
+        "onboard_time": 1730023039,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105261,
+        "num": 105261,
+        "word": "赵牧辰 阮小咪",
+        "onboard_time": 1730005578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 105100,
+        "word": "谁懂许嵩这一圈专辑名的杀伤力",
+        "onboard_time": 1730019077,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100592,
+        "num": 100592,
+        "word": "饿了么回应外卖员高楼抛猫致死正在核实",
+        "onboard_time": 1730022981,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100121,
+        "num": 100121,
+        "word": "在浙江农村吃席被震惊了",
+        "onboard_time": 1730016198,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99752,
+        "num": 99752,
+        "word": "以军公布出动战机袭击伊朗视频",
+        "onboard_time": 1730016918,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99315,
+        "num": 99315,
+        "word": "凤冠冰箱贴成国博销冠",
+        "onboard_time": 1730012838,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98586,
+        "num": 98586,
+        "word": "LV柜姐事件原配已提起离婚",
+        "onboard_time": 1730024238,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97446,
+        "num": 97446,
+        "word": "百万粉丝宠物博主疑似人设崩塌",
+        "onboard_time": 1730024418,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对民政工作作出重要指示#"
+    }
+  }
+}
