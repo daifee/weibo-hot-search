@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730038849542,
+  "endTime": 1730039920821,
   "band_list": [
     {
       "raw_hot": 2598049,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2460431,
+      "num": 2460431,
+      "word": "林诗栋0比4F勒布伦",
+      "onboard_time": 1730037682,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2431959,
       "num": 1273921,
       "word": "特朗普要向台湾收保护费",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 2253350,
-      "num": 536577,
+      "num": 693688,
       "word": "知情人曝柜姐和妈妈已报案",
       "onboard_time": 1730025438,
       "rank": 19,
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1507795,
-      "num": 1507795,
-      "word": "林诗栋0比4F勒布伦",
-      "onboard_time": 1730037682,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 1478677,
+      "num": 1384890,
+      "word": "周雨彤边界感",
+      "onboard_time": 1730029699,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1413358,
@@ -145,14 +153,6 @@
       "onboard_time": 1730011879,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1384890,
-      "num": 1384890,
-      "word": "周雨彤边界感",
-      "onboard_time": 1730029699,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1339659,
@@ -248,6 +248,14 @@
       "word": "LV柜姐事件",
       "onboard_time": 1729933459,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048991,
+      "num": 1048991,
+      "word": "23年前杀害女子真凶被找到时在服刑",
+      "onboard_time": 1730038581,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -355,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766076,
+      "num": 766076,
+      "word": "演宁静把宁静看哭了",
+      "onboard_time": 1730036180,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 760110,
       "num": 760110,
       "word": "博主称小西天保安大叔今日辞职",
       "onboard_time": 1730019379,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749172,
-      "num": 749172,
-      "word": "演宁静把宁静看哭了",
-      "onboard_time": 1730036180,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 733515,
@@ -409,6 +417,14 @@
       "onboard_time": 1729996158,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 701796,
+      "num": 701796,
+      "word": "国乒蒙彼利埃赛无缘冠军",
+      "onboard_time": 1730038221,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 669604,
@@ -579,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537923,
+      "num": 537923,
+      "word": "张予曦cos芈月",
+      "onboard_time": 1730037801,
+      "rank": 17,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 537110,
       "num": 537110,
       "word": "轿车掉头与货车碰撞轿车内6人身亡",
@@ -739,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416213,
-      "num": 416213,
-      "word": "张予曦cos芈月",
-      "onboard_time": 1730037801,
-      "rank": 17,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 415599,
       "num": 341845,
       "word": "电影今年二十二12月全国上映",
@@ -841,6 +857,14 @@
       "onboard_time": 1730034079,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 369588,
+      "num": 369588,
+      "word": "赵丽颖百花飞天东京金鹰金鸡五连击",
+      "onboard_time": 1730038880,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 366938,
@@ -971,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315748,
-      "num": 315748,
-      "word": "国乒蒙彼利埃赛无缘冠军",
-      "onboard_time": 1730038221,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314252,
       "num": 314252,
       "word": "余华英老家亲属发声",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1729949901,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293195,
+      "num": 286117,
+      "word": "黄嘉千女儿14岁近照",
+      "onboard_time": 1730039902,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 292199,
@@ -1235,6 +1259,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 252945,
+      "num": 252945,
+      "word": "林诗栋止步冠军赛四强",
+      "onboard_time": 1730038460,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252388,
       "num": 252388,
       "word": "龚俊回请迪丽热巴剧组下午茶",
@@ -1275,11 +1307,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248983,
+      "num": 248983,
+      "word": "全校小朋友最羡慕的小孩出现了",
+      "onboard_time": 1730039421,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246015,
       "num": 246015,
       "word": "饥饿外卖员取餐后秒退单偷4份餐",
       "onboard_time": 1729992916,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245141,
+      "num": 245141,
+      "word": "25岁辅警救落水老人双双溺亡",
+      "onboard_time": 1730039120,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1417,14 @@
       "onboard_time": 1730014997,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229627,
+      "num": 229627,
+      "word": "鞠婧祎王者荣耀共创之夜舞台直拍",
+      "onboard_time": 1730039840,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 228467,
@@ -1475,6 +1531,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 217719,
+      "num": 217719,
+      "word": "沈梦辰不含一根假发片的plog",
+      "onboard_time": 1730039001,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216322,
       "num": 216322,
       "word": "马丽提名金鸡奖最佳女主角",
@@ -1512,14 +1576,6 @@
       "word": "陈梦最想问自己的一个问题",
       "onboard_time": 1730013618,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 207447,
-      "num": 207447,
-      "word": "林诗栋止步冠军赛四强",
-      "onboard_time": 1730038460,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1627,12 +1683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195949,
-      "num": 318479,
-      "word": "23年前杀害女子真凶被找到时在服刑",
-      "onboard_time": 1730038581,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 195999,
+      "num": 195999,
+      "word": "钎城墨染江湖舞台好绝",
+      "onboard_time": 1730039360,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 194600,
@@ -1867,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168808,
+      "num": 168808,
+      "word": "张本智和晋级冠军赛决赛",
+      "onboard_time": 1730039781,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168631,
       "num": 168631,
       "word": "方灿疑似回应hybe",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1729985595,
       "rank": 41,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 158985,
+      "num": 158985,
+      "word": "周深游戏ID是周深藏不露头",
+      "onboard_time": 1730039902,
+      "rank": 47,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 157982,
@@ -2739,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64728,
+      "num": 470556,
+      "word": "林茂盲盒式求婚好浪漫",
+      "onboard_time": 1730039240,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63133,
       "num": 165310,
       "word": "多地集中整治人情保关系保问题",
@@ -2761,6 +2841,14 @@
       "onboard_time": 1729985294,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57477,
+      "num": 1329295,
+      "word": "秋冬旅游热门目的地航线航班增加",
+      "onboard_time": 1730037501,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57322,
@@ -2843,14 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44373,
-      "num": 1329295,
-      "word": "秋冬旅游热门目的地航线航班增加",
-      "onboard_time": 1730037501,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44084,
       "num": 321070,
       "word": "论省钱还得是你姨",
@@ -2873,6 +2953,14 @@
       "onboard_time": 1730009837,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42372,
+      "num": 443930,
+      "word": "中国星东方曜上市9.97万起",
+      "onboard_time": 1730036780,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 40878,
@@ -2939,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30485,
+      "num": 532714,
+      "word": "学生菲律宾实习7年后涉开设赌场罪",
+      "onboard_time": 1730039421,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30456,
       "num": 263616,
       "word": "可免试获取执业证书不靠谱",
@@ -2977,14 +3073,6 @@
       "onboard_time": 1730019618,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27535,
-      "num": 324451,
-      "word": "中国星东方曜上市9.97万起",
-      "onboard_time": 1730036780,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 26828,
@@ -3104,6 +3192,14 @@
       "word": "1.45万吨桥梁墩体转体有多震撼",
       "onboard_time": 1729946599,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15638,
+      "num": 694502,
+      "word": "男子想1天轻松赚200变身电诈工具人",
+      "onboard_time": 1730039421,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

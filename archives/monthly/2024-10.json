@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730038849542,
+  "endTime": 1730039920821,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -755,6 +755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2460431,
+      "num": 2460431,
+      "word": "林诗栋0比4F勒布伦",
+      "onboard_time": 1730037682,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2456248,
       "num": 1997542,
       "word": "东北雨姐售卖的粉条检测结果已出",
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 2253350,
-      "num": 536577,
+      "num": 693688,
       "word": "知情人曝柜姐和妈妈已报案",
       "onboard_time": 1730025438,
       "rank": 19,
@@ -2835,14 +2843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1507795,
-      "num": 1507795,
-      "word": "林诗栋0比4F勒布伦",
-      "onboard_time": 1730037682,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1507576,
       "num": 863309,
       "word": "南通小米SU7事件附近商户停业",
@@ -2953,6 +2953,14 @@
       "onboard_time": 1729049060,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1478677,
+      "num": 1384890,
+      "word": "周雨彤边界感",
+      "onboard_time": 1729683258,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1478285,
@@ -3369,14 +3377,6 @@
       "onboard_time": 1728863899,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1384890,
-      "num": 1384890,
-      "word": "周雨彤边界感",
-      "onboard_time": 1729683258,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 1383107,
@@ -5689,6 +5689,14 @@
       "onboard_time": 1727794402,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1048991,
+      "num": 1048991,
+      "word": "23年前杀害女子真凶被找到时在服刑",
+      "onboard_time": 1730038581,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1048642,
@@ -9427,6 +9435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 766076,
+      "num": 766076,
+      "word": "演宁静把宁静看哭了",
+      "onboard_time": 1730036180,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 765535,
       "num": 608414,
       "word": "许昕谈王楚钦等00后球员输球",
@@ -9769,14 +9785,6 @@
       "onboard_time": 1729829060,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 749172,
-      "num": 749172,
-      "word": "演宁静把宁静看哭了",
-      "onboard_time": 1730036180,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 748799,
@@ -10777,6 +10785,14 @@
       "onboard_time": 1727856139,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 701796,
+      "num": 701796,
+      "word": "国乒蒙彼利埃赛无缘冠军",
+      "onboard_time": 1730038221,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 700815,
@@ -14963,6 +14979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537923,
+      "num": 537923,
+      "word": "张予曦cos芈月",
+      "onboard_time": 1730037801,
+      "rank": 17,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 537858,
       "num": 342763,
       "word": "RIIZE",
@@ -19067,14 +19091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 416213,
-      "num": 416213,
-      "word": "张予曦cos芈月",
-      "onboard_time": 1730037801,
-      "rank": 17,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 416192,
       "num": 493915,
       "word": "奔跑吧官微漏勺行为",
@@ -21217,6 +21233,14 @@
       "onboard_time": 1729949121,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369588,
+      "num": 369588,
+      "word": "赵丽颖百花飞天东京金鹰金鸡五连击",
+      "onboard_time": 1730038880,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 369496,
@@ -24171,14 +24195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 315748,
-      "num": 315748,
-      "word": "国乒蒙彼利埃赛无缘冠军",
-      "onboard_time": 1730038221,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 315474,
       "num": 427313,
       "word": "梁靖崑0比3杜达",
@@ -25953,6 +25969,14 @@
       "onboard_time": 1728283698,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293195,
+      "num": 286117,
+      "word": "黄嘉千女儿14岁近照",
+      "onboard_time": 1730039902,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293103,
@@ -29827,6 +29851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252945,
+      "num": 252945,
+      "word": "林诗栋止步冠军赛四强",
+      "onboard_time": 1730038460,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252908,
       "num": 247368,
       "word": "RIIZE被上海硬控",
@@ -30291,6 +30323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248983,
+      "num": 248983,
+      "word": "全校小朋友最羡慕的小孩出现了",
+      "onboard_time": 1730039421,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248841,
       "num": 248841,
       "word": "半熟男女大结局",
@@ -30681,6 +30721,14 @@
       "onboard_time": 1729594159,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245141,
+      "num": 245141,
+      "word": "25岁辅警救落水老人双双溺亡",
+      "onboard_time": 1730039120,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245091,
@@ -32571,6 +32619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229627,
+      "num": 229627,
+      "word": "鞠婧祎王者荣耀共创之夜舞台直拍",
+      "onboard_time": 1730039840,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229601,
       "num": 252807,
       "word": "李沐宸 恶女小白花",
@@ -34289,6 +34345,14 @@
       "onboard_time": 1728658041,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217719,
+      "num": 217719,
+      "word": "沈梦辰不含一根假发片的plog",
+      "onboard_time": 1730039001,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217710,
@@ -36168,14 +36232,6 @@
       "word": "山东泰山2比2横滨水手",
       "onboard_time": 1729606641,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 207447,
-      "num": 207447,
-      "word": "林诗栋止步冠军赛四强",
-      "onboard_time": 1730038460,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -39363,6 +39419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195999,
+      "num": 195999,
+      "word": "钎城墨染江湖舞台好绝",
+      "onboard_time": 1730039360,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195992,
       "num": 195992,
       "word": "小米手表S4",
@@ -39377,14 +39441,6 @@
       "onboard_time": 1727962578,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195949,
-      "num": 318479,
-      "word": "23年前杀害女子真凶被找到时在服刑",
-      "onboard_time": 1730038581,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195889,
@@ -46395,6 +46451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168808,
+      "num": 168808,
+      "word": "张本智和晋级冠军赛决赛",
+      "onboard_time": 1730039781,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168676,
       "num": 168676,
       "word": "狼队对战WE",
@@ -49057,6 +49121,14 @@
       "onboard_time": 1727870418,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158985,
+      "num": 158985,
+      "word": "周深游戏ID是周深藏不露头",
+      "onboard_time": 1730039902,
+      "rank": 47,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 158944,
@@ -69067,6 +69139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64728,
+      "num": 470556,
+      "word": "林茂盲盒式求婚好浪漫",
+      "onboard_time": 1730039240,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64710,
       "num": 64710,
       "word": "马龙把花送给了小朋友",
@@ -70249,6 +70329,14 @@
       "onboard_time": 1729425620,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57477,
+      "num": 1329295,
+      "word": "秋冬旅游热门目的地航线航班增加",
+      "onboard_time": 1730037501,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57475,
@@ -72923,14 +73011,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 44373,
-      "num": 1329295,
-      "word": "秋冬旅游热门目的地航线航班增加",
-      "onboard_time": 1730037501,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44362,
       "num": 44362,
       "word": "你现在开始穿长袖了吗",
@@ -73329,6 +73409,14 @@
       "onboard_time": 1729174043,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42372,
+      "num": 443930,
+      "word": "中国星东方曜上市9.97万起",
+      "onboard_time": 1730036780,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 42285,
@@ -76715,6 +76803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30485,
+      "num": 532714,
+      "word": "学生菲律宾实习7年后涉开设赌场罪",
+      "onboard_time": 1730039421,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30478,
       "num": 314589,
       "word": "复古相机成年轻人的新理财",
@@ -77561,14 +77657,6 @@
       "onboard_time": 1728600975,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27535,
-      "num": 324451,
-      "word": "中国星东方曜上市9.97万起",
-      "onboard_time": 1730036780,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 27471,
@@ -80560,6 +80648,14 @@
       "word": "候鸟环球迁徙记",
       "onboard_time": 1728565160,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15638,
+      "num": 694502,
+      "word": "男子想1天轻松赚200变身电诈工具人",
+      "onboard_time": 1730039421,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

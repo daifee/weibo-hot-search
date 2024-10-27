@@ -1,0 +1,410 @@
+{
+  "runTime": 1730039920821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2460431,
+        "num": 2460431,
+        "word": "林诗栋0比4F勒布伦",
+        "onboard_time": 1730037682,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1272570,
+        "num": 1272570,
+        "word": "特朗普要向台湾收保护费",
+        "onboard_time": 1730022797,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57477,
+        "num": 1134198,
+        "word": "秋冬旅游热门目的地航线航班增加",
+        "onboard_time": 1730037501,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048991,
+        "num": 1048991,
+        "word": "23年前杀害女子真凶被找到时在服刑",
+        "onboard_time": 1730038581,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039294,
+        "num": 1039294,
+        "word": "林诗栋vsF勒布伦",
+        "onboard_time": 1730035820,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 851535,
+        "num": 851535,
+        "word": "国乒无缘蒙彼利埃赛女单决赛",
+        "onboard_time": 1730036119,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 766076,
+        "num": 766076,
+        "word": "演宁静把宁静看哭了",
+        "onboard_time": 1730036180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730876,
+        "num": 730876,
+        "word": "镜头从严浩翔切到沈腾有多好笑",
+        "onboard_time": 1730032761,
+        "rank": 7,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 701796,
+        "num": 701796,
+        "word": "国乒蒙彼利埃赛无缘冠军",
+        "onboard_time": 1730038221,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15638,
+        "num": 694502,
+        "word": "男子想1天轻松赚200变身电诈工具人",
+        "onboard_time": 1730039421,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070524,
+        "num": 693688,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687243,
+        "num": 687243,
+        "word": "用公厕下水管冲洗臭豆腐",
+        "onboard_time": 1730023578,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655088,
+        "num": 655088,
+        "word": "29岁女生被脱口秀主持人喊大姐",
+        "onboard_time": 1730029160,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537923,
+        "num": 537923,
+        "word": "张予曦cos芈月",
+        "onboard_time": 1730037801,
+        "rank": 13,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 30485,
+        "num": 532714,
+        "word": "学生菲律宾实习7年后涉开设赌场罪",
+        "onboard_time": 1730039421,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532265,
+        "num": 532265,
+        "word": "轿车掉头与货车碰撞轿车内6人身亡",
+        "onboard_time": 1730035519,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528046,
+        "num": 528046,
+        "word": "南京南站",
+        "onboard_time": 1730030419,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494431,
+        "num": 494431,
+        "word": "付航 我非常感谢我的父母",
+        "onboard_time": 1730036180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506896,
+        "num": 476880,
+        "word": "鞠婧祎薄荷绿长裙",
+        "onboard_time": 1730031739,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64728,
+        "num": 470556,
+        "word": "林茂盲盒式求婚好浪漫",
+        "onboard_time": 1730039240,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42372,
+        "num": 443930,
+        "word": "中国星东方曜上市9.97万起",
+        "onboard_time": 1730036780,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1478677,
+        "num": 419592,
+        "word": "周雨彤边界感",
+        "onboard_time": 1730029699,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402280,
+        "num": 402280,
+        "word": "奥巴马妻子称投特朗普是反对女性",
+        "onboard_time": 1730033599,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 369588,
+        "num": 369588,
+        "word": "赵丽颖百花飞天东京金鹰金鸡五连击",
+        "onboard_time": 1730038880,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362296,
+        "num": 362296,
+        "word": "网店2小时被水军坑走11万",
+        "onboard_time": 1730028678,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358958,
+        "num": 358958,
+        "word": "T1对战GEN",
+        "onboard_time": 1730033479,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319847,
+        "num": 319847,
+        "word": "张凯丽也体会到秦海璐周一围的苦了",
+        "onboard_time": 1730036360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311065,
+        "num": 311065,
+        "word": "韩国网友抵制HYBE旗下艺人",
+        "onboard_time": 1730027537,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295917,
+        "num": 295917,
+        "word": "杨幂开叉绣花拖尾裙",
+        "onboard_time": 1730034079,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286613,
+        "num": 286613,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1730020878,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293195,
+        "num": 286117,
+        "word": "黄嘉千女儿14岁近照",
+        "onboard_time": 1730039902,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278834,
+        "num": 278834,
+        "word": "赵丽颖王梓薇 三搭",
+        "onboard_time": 1730035100,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252945,
+        "num": 252945,
+        "word": "林诗栋止步冠军赛四强",
+        "onboard_time": 1730038460,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248983,
+        "num": 248983,
+        "word": "全校小朋友最羡慕的小孩出现了",
+        "onboard_time": 1730039421,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245141,
+        "num": 245141,
+        "word": "25岁辅警救落水老人双双溺亡",
+        "onboard_time": 1730039120,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240694,
+        "num": 240694,
+        "word": "哈里斯称伊朗不能报复以色列",
+        "onboard_time": 1730035339,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229627,
+        "num": 229627,
+        "word": "鞠婧祎王者荣耀共创之夜舞台直拍",
+        "onboard_time": 1730039840,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227887,
+        "num": 227887,
+        "word": "央视曝网店刷好评套路",
+        "onboard_time": 1730023097,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217719,
+        "num": 217719,
+        "word": "沈梦辰不含一根假发片的plog",
+        "onboard_time": 1730039001,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215622,
+        "num": 215622,
+        "word": "可可西里讨食狼越来越多",
+        "onboard_time": 1730019017,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195999,
+        "num": 195999,
+        "word": "钎城墨染江湖舞台好绝",
+        "onboard_time": 1730039360,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182203,
+        "num": 182203,
+        "word": "大梦归离",
+        "onboard_time": 1730025018,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181844,
+        "num": 181844,
+        "word": "心跳慢和心跳快哪个更健康",
+        "onboard_time": 1730023278,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178853,
+        "num": 178853,
+        "word": "百万粉丝宠物博主疑似人设崩塌",
+        "onboard_time": 1730024418,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174643,
+        "num": 174643,
+        "word": "涵艺爆料Ruler离队原因",
+        "onboard_time": 1730038280,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172260,
+        "num": 172260,
+        "word": "钱天一2比4张本美和",
+        "onboard_time": 1730031139,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168808,
+        "num": 168808,
+        "word": "张本智和晋级冠军赛决赛",
+        "onboard_time": 1730039781,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158985,
+        "num": 158985,
+        "word": "周深游戏ID是周深藏不露头",
+        "onboard_time": 1730039902,
+        "rank": 47,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 158095,
+        "num": 158095,
+        "word": "长沙一外卖员抓猫从26楼扔下致死",
+        "onboard_time": 1730018897,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157858,
+        "num": 157858,
+        "word": "美国15岁少年枪杀5名家人",
+        "onboard_time": 1730024718,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切看西部陆海新通道建设新貌#"
+    }
+  }
+}
