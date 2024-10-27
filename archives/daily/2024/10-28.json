@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730054467177,
+  "endTime": 1730056734030,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43458,
+      "num": 43458,
+      "word": "撞以色列公交站司机为以籍阿拉伯人",
+      "onboard_time": 1730055192,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42315,
       "num": 124046,
       "word": "2024年医保谈判竞价开始",
@@ -595,6 +603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 30579,
+      "num": 74430,
+      "word": "部分保暖用品卖断货",
+      "onboard_time": 1730052853,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24942,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -603,12 +619,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24116,
-      "num": 74430,
-      "word": "部分保暖用品卖断货",
-      "onboard_time": 1730052853,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 23067,
+      "num": 23067,
+      "word": "苏新皓超长日常vlog",
+      "onboard_time": 1730056392,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 15314,
@@ -624,6 +640,14 @@
       "word": "郭刚堂之子被拐案将二审宣判",
       "onboard_time": 1730052432,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11425,
+      "num": 65324,
+      "word": "双十一网络防骗秘籍",
+      "onboard_time": 1730055791,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
