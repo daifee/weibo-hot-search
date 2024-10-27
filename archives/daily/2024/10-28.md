@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 04:23:59
+本榜单时间：2024/10/28 00:27:04 ~ 2024/10/28 04:39:10
 </p>
 </blockquote>
 <p>
@@ -447,6 +447,12 @@ justsu直拍（热度：58250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
+警方通报乘客酒后殴打网约车司机（热度：49443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E4%B9%9F%E4%BD%93%E4%BC%9A%E5%88%B0%E7%A7%A6%E6%B5%B7%E7%92%90%E5%91%A8%E4%B8%80%E5%9B%B4%E7%9A%84%E8%8B%A6%E4%BA%86%23" target="weibo">
 张凯丽也体会到秦海璐周一围的苦了（热度：43956）
 </a>
@@ -455,12 +461,6 @@ justsu直拍（热度：58250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E5%BC%80%E5%A7%8B%23" target="weibo">
 2024年医保谈判竞价开始（热度：42315）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
-警方通报乘客酒后殴打网约车司机（热度：38892）
 </a>
 </li>
 
@@ -507,6 +507,12 @@ justsu直拍（热度：58250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E7%BB%93%E6%9E%9C%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B%23" target="weibo">
+哈里斯和特朗普民调结果不相上下（热度：13641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%88%9A%E5%A0%82%E4%B9%8B%E5%AD%90%E8%A2%AB%E6%8B%90%E6%A1%88%E5%B0%86%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
 郭刚堂之子被拐案将二审宣判（热度：12248）
 </a>
@@ -519,14 +525,14 @@ justsu直拍（热度：58250）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%88%E5%A3%81%E5%88%9B%E4%B8%9A33%E5%B9%B4%E5%A5%B9%E5%9C%A8%E5%85%B5%E5%9B%A2%E5%AE%9E%E7%8E%B0%E4%BA%BA%E7%94%9F%E8%9C%95%E5%8F%98%23" target="weibo">
-戈壁创业33年她在兵团实现人生蜕变（热度：10050）
+<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8B%9026%E5%B9%B4%E5%90%8E%E7%BB%88%E4%BA%8E%E5%9B%9E%E5%AE%B6%23" target="weibo">
+5岁女孩被拐26年后终于回家（热度：11406）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8B%9026%E5%B9%B4%E5%90%8E%E7%BB%88%E4%BA%8E%E5%9B%9E%E5%AE%B6%23" target="weibo">
-5岁女孩被拐26年后终于回家（热度：9662）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%88%E5%A3%81%E5%88%9B%E4%B8%9A33%E5%B9%B4%E5%A5%B9%E5%9C%A8%E5%85%B5%E5%9B%A2%E5%AE%9E%E7%8E%B0%E4%BA%BA%E7%94%9F%E8%9C%95%E5%8F%98%23" target="weibo">
+戈壁创业33年她在兵团实现人生蜕变（热度：10050）
 </a>
 </li>
 
