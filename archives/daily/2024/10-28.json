@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730112183083,
+  "endTime": 1730114409586,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1309445,
+      "num": 1309445,
+      "word": "王浩同志任浙江省委书记",
+      "onboard_time": 1730112858,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1238595,
       "num": 1238595,
       "word": "官方通报多名教师私聊群发不当言论",
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1127706,
+      "num": 1033408,
+      "word": "孙乐言 我现在不是一个普通人了",
+      "onboard_time": 1730110459,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1126484,
       "num": 1126484,
       "word": "三亚全市中小学停课",
       "onboard_time": 1730094497,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1033408,
-      "num": 1033408,
-      "word": "孙乐言 我现在不是一个普通人了",
-      "onboard_time": 1730110459,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1012389,
@@ -323,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 839719,
+      "num": 278738,
+      "word": "怀孕3月女子吃冰箱里榴莲千层流产",
+      "onboard_time": 1730111599,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831045,
       "num": 541295,
       "word": "赵丽颖改高定了",
@@ -353,6 +369,14 @@
       "onboard_time": 1730029699,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736170,
+      "num": 736170,
+      "word": "黄晓明红毯状态",
+      "onboard_time": 1730110160,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 711462,
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636027,
+      "num": 396009,
+      "word": "被虐致死男童生父希望从重处理女友",
+      "onboard_time": 1730109678,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634597,
       "num": 436649,
       "word": "赵丽颖闪钻长裙",
@@ -409,14 +441,6 @@
       "onboard_time": 1730107280,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 613219,
-      "num": 613219,
-      "word": "黄晓明红毯状态",
-      "onboard_time": 1730110160,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 609907,
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547122,
+      "num": 547122,
+      "word": "孙颖莎王楚钦仍为WTT赛事冠军榜第一",
+      "onboard_time": 1730111540,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539965,
       "num": 488708,
       "word": "饶雪漫和翁青雅吃饭",
@@ -571,20 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 491410,
-      "num": 396009,
-      "word": "被虐致死男童生父希望从重处理女友",
-      "onboard_time": 1730109678,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 488376,
       "num": 488376,
       "word": "黄嘉千女儿14岁近照",
       "onboard_time": 1730039902,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487673,
+      "num": 538102,
+      "word": "美国从未停止针对中国的间谍活动",
+      "onboard_time": 1730108781,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 484601,
@@ -609,6 +641,14 @@
       "onboard_time": 1730107458,
       "rank": 24,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 470515,
+      "num": 351507,
+      "word": "王楚钦新身份正在公示",
+      "onboard_time": 1730112199,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 460801,
@@ -995,27 +1035,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278738,
-      "num": 278738,
-      "word": "怀孕3月女子吃冰箱里榴莲千层流产",
-      "onboard_time": 1730111599,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276713,
       "num": 276713,
       "word": "大藤沙月4比2张本美和",
       "onboard_time": 1730046617,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276474,
-      "num": 245673,
-      "word": "孙颖莎王楚钦仍为WTT赛事冠军榜第一",
-      "onboard_time": 1730111540,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1025,6 +1049,14 @@
       "onboard_time": 1730088198,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 266403,
+      "num": 266403,
+      "word": "龙丹妮又要推新男团了",
+      "onboard_time": 1730112380,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265541,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1730097139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249933,
+      "num": 249933,
+      "word": "教师对女生发表不当言论6人被停职",
+      "onboard_time": 1730105959,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247365,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1730072237,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217351,
+      "num": 221062,
+      "word": "赵丽颖辛芷蕾红毯拍立得",
+      "onboard_time": 1730113519,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 215821,
@@ -1651,12 +1699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151989,
+      "num": 151989,
+      "word": "戚薇秋冬叠穿范本",
+      "onboard_time": 1730113099,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 151978,
       "num": 151978,
       "word": "罗仪涵说上不了的岸就先飘着吧",
       "onboard_time": 1730106919,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150937,
+      "num": 150937,
+      "word": "王者荣耀",
+      "onboard_time": 1730112678,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 150348,
@@ -1779,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138643,
+      "num": 138643,
+      "word": "春花焰和司藤同一个造型指导",
+      "onboard_time": 1730112498,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137184,
       "num": 137184,
       "word": "红斑狼疮女性患者是男性的9倍",
@@ -1865,14 +1937,6 @@
       "onboard_time": 1730073917,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129699,
-      "num": 538102,
-      "word": "美国从未停止针对中国的间谍活动",
-      "onboard_time": 1730108781,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128134,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1730071155,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107531,
+      "num": 107531,
+      "word": "丁禹兮在永夜星河拿了反派剧本",
+      "onboard_time": 1730113579,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107503,
@@ -2435,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43420,
+      "num": 407848,
+      "word": "一文读懂哪些医疗费用能报销",
+      "onboard_time": 1730113160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42835,
       "num": 504639,
       "word": "扒一扒美国两党都在回避的军费问题",
@@ -2459,6 +2539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39073,
+      "num": 216637,
+      "word": "金桃之夜梗太密了",
+      "onboard_time": 1730110339,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38719,
       "num": 401294,
       "word": "小巷人家微博追剧团",
@@ -2481,6 +2569,14 @@
       "onboard_time": 1730084358,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37098,
+      "num": 379310,
+      "word": "谁该为公共场所吵闹的孩子买单",
+      "onboard_time": 1730113459,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36033,
@@ -2529,14 +2625,6 @@
       "onboard_time": 1730046797,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 31264,
-      "num": 216637,
-      "word": "金桃之夜梗太密了",
-      "onboard_time": 1730110339,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 31251,
@@ -2601,6 +2689,14 @@
       "onboard_time": 1730078177,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26277,
+      "num": 152391,
+      "word": "AI技术都是对人能力边界的延伸",
+      "onboard_time": 1730113879,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 24083,

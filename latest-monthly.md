@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 18:43:03
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 19:20:09
 </p>
 </blockquote>
 <p>
@@ -2979,6 +2979,12 @@ VOGUE晚宴（热度：1311474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E5%90%8C%E5%BF%97%E4%BB%BB%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
+王浩同志任浙江省委书记（热度：1309445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E7%89%9B%E8%82%89%E9%9D%A2%E6%B2%A1%E8%9B%8B%E9%81%AD%E5%95%86%E5%AE%B6%E7%B4%A2%E8%B5%94%23" target="weibo">
 大学生吐槽牛肉面没蛋遭商家索赔（热度：1307017）
 </a>
@@ -3951,6 +3957,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%20%E6%88%91%E7%8E%B0%E5%9C%A8%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%BA%BA%E4%BA%86%23" target="weibo">
+孙乐言 我现在不是一个普通人了（热度：1127706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E6%80%92%E6%80%BC%E5%8F%B6%E7%8F%82%23" target="weibo">
 辛巴怒怼叶珂（热度：1127384）
 </a>
@@ -4613,12 +4625,6 @@ A股大幅高开后回落（热度：1035558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%85%A8%E8%BA%AB%E6%B6%82%E9%BB%91%23" target="weibo">
 林允全身涂黑（热度：1033570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%20%E6%88%91%E7%8E%B0%E5%9C%A8%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%BA%BA%E4%BA%86%23" target="weibo">
-孙乐言 我现在不是一个普通人了（热度：1033408）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E4%BA%BA%E5%91%98%E7%A7%B0%E5%AD%98%E6%AC%BE%E6%B6%88%E5%A4%B1%E4%B8%8E%E5%82%A8%E6%88%B7%E6%B3%84%E9%9C%B2%E8%B4%A6%E5%AF%86%E6%9C%89%E5%85%B3%23" target="weibo">
 银行人员称存款消失与储户泄露账密有关（热度：877759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%A8%A1%E4%BB%BF%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%23" target="weibo">
-东北雨哥回应模仿东北雨姐（热度：875253）
 </a>
 </li>
 
