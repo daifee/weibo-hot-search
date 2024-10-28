@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730129973191,
+  "endTime": 1730132917938,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -10227,6 +10227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753375,
+      "num": 376327,
+      "word": "HYBE点评SEVENTEEN成员恋爱",
+      "onboard_time": 1730128881,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 753054,
       "num": 473981,
       "word": "张艺兴替保安道歉",
@@ -11721,14 +11729,6 @@
       "onboard_time": 1728089357,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 678645,
-      "num": 376327,
-      "word": "HYBE点评SEVENTEEN成员恋爱",
-      "onboard_time": 1730128881,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 678466,
@@ -15075,6 +15075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557333,
+      "num": 557333,
+      "word": "赵丽颖辛芷蕾G社生图",
+      "onboard_time": 1730129060,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557276,
       "num": 557276,
       "word": "金鹰节开幕式",
@@ -17673,6 +17681,14 @@
       "onboard_time": 1728841993,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 478768,
+      "num": 478768,
+      "word": "蒋欣演技",
+      "onboard_time": 1730127979,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 478621,
@@ -24931,14 +24947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322187,
-      "num": 322187,
-      "word": "蒋欣演技",
-      "onboard_time": 1730127979,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322161,
       "num": 397212,
       "word": "还原余华英11年拐卖17名儿童",
@@ -28659,6 +28667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278603,
+      "num": 278603,
+      "word": "炒股两周赚百万硕士回应",
+      "onboard_time": 1730129180,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278540,
       "num": 288846,
       "word": "理记举报江秋莲诈骗濒死五保户财产",
@@ -30193,14 +30209,6 @@
       "onboard_time": 1729861519,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263156,
-      "num": 263156,
-      "word": "赵丽颖辛芷蕾G社生图",
-      "onboard_time": 1730129060,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 262977,
@@ -39451,6 +39459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201383,
+      "num": 201383,
+      "word": "四姑娘山景区回应失温游客已无大碍",
+      "onboard_time": 1730130138,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201360,
       "num": 201360,
       "word": "张艺兴银框眼镜总裁感",
@@ -41585,14 +41601,6 @@
       "onboard_time": 1730041341,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194639,
-      "num": 194639,
-      "word": "炒股两周赚百万硕士回应",
-      "onboard_time": 1730129180,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194630,
@@ -53603,6 +53611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150625,
+      "num": 310268,
+      "word": "严厉打击以寻宝为噱头非法鉴定",
+      "onboard_time": 1730129900,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150605,
       "num": 150605,
       "word": "妈妈朋友的儿子大结局",
@@ -56195,6 +56211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141288,
+      "num": 380048,
+      "word": "四姑娘山多名向导接力送失温游客下山",
+      "onboard_time": 1730119878,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141270,
       "num": 141270,
       "word": "北交所牛市",
@@ -58019,6 +58043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134975,
+      "num": 134975,
+      "word": "美方企图诱骗中方人员投靠中情局",
+      "onboard_time": 1730131518,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134948,
       "num": 134948,
       "word": "郑钦文决赛对手世界第155",
@@ -58865,6 +58897,14 @@
       "onboard_time": 1728145757,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 132239,
+      "word": "大梦归离不知道在燃什么",
+      "onboard_time": 1730131817,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 132209,
@@ -62195,6 +62235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 119128,
+      "num": 119128,
+      "word": "我是不是不够好",
+      "onboard_time": 1730131938,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119110,
       "num": 119110,
       "word": "金饰品价格每克冲破800元",
@@ -63185,14 +63233,6 @@
       "onboard_time": 1729295055,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 115321,
-      "num": 160182,
-      "word": "严厉打击以寻宝为噱头非法鉴定",
-      "onboard_time": 1730129900,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115318,
@@ -69267,14 +69307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82555,
-      "num": 380048,
-      "word": "四姑娘山多名向导接力送失温游客下山",
-      "onboard_time": 1730119878,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82530,
       "num": 329456,
       "word": "张晚意任敏新剧cp感",
@@ -69945,6 +69977,14 @@
       "onboard_time": 1727706801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78214,
+      "num": 78214,
+      "word": "贾樟柯新电影上映22天",
+      "onboard_time": 1730130379,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 78094,
