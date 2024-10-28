@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730150485429,
+  "endTime": 1730151385455,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -6251,6 +6251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29363,
+      "num": 44362,
+      "word": "中方反对侵犯别国主权安全",
+      "onboard_time": 1730149571,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28864,
       "num": 216604,
       "word": "博主AI助手不是本人胜似本人",
@@ -6304,6 +6312,14 @@
       "word": "南极科考的难度有多大",
       "onboard_time": 1730092219,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27159,
+      "num": 27159,
+      "word": "法学专家谈原配上门大闹LV柜姐",
+      "onboard_time": 1730149931,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -6523,14 +6539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17318,
-      "num": 17318,
-      "word": "法学专家谈原配上门大闹LV柜姐",
-      "onboard_time": 1730149931,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16781,
       "num": 1394643,
       "word": "神十九发射场区全系统合练",
@@ -6571,6 +6579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14155,
+      "num": 27879,
+      "word": "专家曾称石破政权或短命",
+      "onboard_time": 1730148911,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 13770,
       "num": 370519,
       "word": "时代少年团组队教练Gemini",
@@ -6579,27 +6595,11 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 13748,
-      "num": 27879,
-      "word": "专家曾称石破政权或短命",
-      "onboard_time": 1730148911,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 13678,
       "num": 28900,
       "word": "元首外交战略引领新典范",
       "onboard_time": 1730144651,
       "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13615,
-      "num": 32359,
-      "word": "中方反对侵犯别国主权安全",
-      "onboard_time": 1730149571,
-      "rank": 19,
       "category": "国内时政"
     },
     {
