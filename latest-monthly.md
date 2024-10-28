@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 18:25:10
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 18:43:03
 </p>
 </blockquote>
 <p>
@@ -993,6 +993,12 @@ LV柜姐事件原配回应（热度：2148572）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%20%E5%A5%87%E8%91%A9%23" target="weibo">
+孙乐言 奇葩（热度：2106166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E5%B7%B2%E4%B8%8B%E8%BE%BE%E5%B0%B1%E4%B8%9A%E8%A1%A5%E5%8A%A9667%E4%BA%BF%E5%85%83%23" target="weibo">
 中央财政已下达就业补助667亿元（热度：2104271）
 </a>
@@ -1185,6 +1191,12 @@ ZH9138航班已安全落地（热度：1980352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%9B%B4%E6%92%AD%E5%9B%A0%E5%A4%AA%E5%A4%9A%E4%BA%BA%E5%88%B7%E7%A4%BC%E7%89%A9%E5%85%B3%E6%92%AD%23" target="weibo">
+杨妞花直播因太多人刷礼物关播（热度：1977005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%8F%82%E8%AF%B4%E4%BC%8D%E4%BD%B0%E7%9A%84%E6%AD%8C%E7%8C%A5%E7%90%90%23" target="weibo">
 叶珂说伍佰的歌猥琐（热度：1973011）
 </a>
@@ -1337,12 +1349,6 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%23" target="weibo">
 江歌妈妈（热度：1874398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%20%E5%A5%87%E8%91%A9%23" target="weibo">
-孙乐言 奇葩（热度：1871246）
 </a>
 </li>
 
@@ -2171,6 +2177,12 @@ BLG晋级S14四强（热度：1624127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%80%20%E5%86%85%E6%B6%B5%23" target="weibo">
 付航脱口秀 内涵（热度：1526774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A0%E6%AC%BE%E7%99%BE%E4%B8%87%E7%9A%84%E5%A4%A7%E4%BC%AF%E8%A2%AB%E5%B8%A6%E5%88%B0%E5%A8%81%E6%B5%B7%E4%B9%B0%E6%B5%B7%E6%99%AF%E6%88%BF%23" target="weibo">
+欠款百万的大伯被带到威海买海景房（热度：1525577）
 </a>
 </li>
 
@@ -3657,12 +3669,6 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%9B%B4%E6%92%AD%E5%9B%A0%E5%A4%AA%E5%A4%9A%E4%BA%BA%E5%88%B7%E7%A4%BC%E7%89%A9%E5%85%B3%E6%92%AD%23" target="weibo">
-杨妞花直播因太多人刷礼物关播（热度：1171372）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E6%B2%A1%E5%B0%91%E7%9C%8B%E7%A5%9E%E5%8E%A8%E5%B0%8F%E7%A6%8F%E8%B4%B5%E5%90%A7%23" target="weibo">
 黄磊没少看神厨小福贵吧（热度：1170833）
 </a>
@@ -4607,6 +4613,12 @@ A股大幅高开后回落（热度：1035558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%85%A8%E8%BA%AB%E6%B6%82%E9%BB%91%23" target="weibo">
 林允全身涂黑（热度：1033570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%20%E6%88%91%E7%8E%B0%E5%9C%A8%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%BA%BA%E4%BA%86%23" target="weibo">
+孙乐言 我现在不是一个普通人了（热度：1033408）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E6%A8%A1%E4%BB%BF%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%23" target="weibo">
 东北雨哥回应模仿东北雨姐（热度：875253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E9%9F%A9%E5%86%8D%E6%AC%A1%E4%BE%B5%E7%8A%AF%E4%B8%BB%E6%9D%83%E6%9C%9D%E6%96%B9%E5%B0%86%E9%87%87%E5%8F%96%E6%94%BB%E5%8A%BF%23" target="weibo">
-如韩再次侵犯主权朝方将采取攻势（热度：874980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%8B%8D%E6%91%84%E5%9F%BA%E5%9C%B0%E4%BA%BA%E5%8E%BB%E6%88%BF%E7%A9%BA%23" target="weibo">
-东北雨姐拍摄基地人去房空（热度：874322）
 </a>
 </li>
 
