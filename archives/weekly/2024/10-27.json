@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730097964358,
+  "endTime": 1730100113464,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1591266,
+      "num": 296810,
+      "word": "警方称生父女友虐童画面太残忍",
+      "onboard_time": 1730098098,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1575939,
       "num": 1384934,
       "word": "邵兵儿子",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1343485,
-      "num": 414130,
+      "num": 580554,
       "word": "翁青雅 孙乐言",
       "onboard_time": 1730095818,
       "rank": 8,
@@ -336,6 +344,14 @@
       "word": "大量网友收到兵器装备集团上新短信",
       "onboard_time": 1730085078,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126484,
+      "num": 1126484,
+      "word": "三亚全市中小学停课",
+      "onboard_time": 1730094497,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 987420,
-      "num": 257271,
+      "num": 276107,
       "word": "王楚钦拟聘北京一校队运动员岗",
       "onboard_time": 1730092878,
       "rank": 33,
@@ -683,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 692283,
+      "num": 288510,
+      "word": "赵丽颖东京电影节生图",
+      "onboard_time": 1730098218,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 677859,
       "num": 445976,
       "word": "Faker回应Bin",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 598012,
-      "num": 233287,
+      "num": 253344,
       "word": "易烊千玺在拍影版边水往事",
       "onboard_time": 1730095158,
       "rank": 23,
@@ -891,6 +915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 549068,
+      "num": 271597,
+      "word": "花少6豆瓣评分跌至3.9",
+      "onboard_time": 1730095639,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540584,
       "num": 474887,
       "word": "张淼怡大梦归离妆造",
@@ -961,14 +993,6 @@
       "onboard_time": 1730043441,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 514243,
-      "num": 230798,
-      "word": "花少6豆瓣评分跌至3.9",
-      "onboard_time": 1730095639,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 513997,
@@ -1091,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484601,
+      "num": 302389,
+      "word": "日默瓦 樊振东",
+      "onboard_time": 1730097019,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 483671,
       "num": 563470,
       "word": "Faker第七次晋级决赛",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1730090840,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 432148,
-      "num": 432148,
-      "word": "三亚全市中小学停课",
-      "onboard_time": 1730094497,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421373,
@@ -1475,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343551,
+      "num": 285567,
+      "word": "当地回应村支书系爱马仕皮带坐豪车",
+      "onboard_time": 1730096599,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343546,
       "num": 343546,
       "word": "BLG晋级S14决赛",
@@ -1683,12 +1715,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302389,
-      "num": 302389,
-      "word": "日默瓦 樊振东",
-      "onboard_time": 1730097019,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 301166,
+      "num": 301166,
+      "word": "海南三亚暴雨红色预警",
+      "onboard_time": 1730097079,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298760,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1729954821,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277029,
+      "num": 277029,
+      "word": "南京博物院免费门票被黄牛炒至两百元",
+      "onboard_time": 1730098339,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276713,
@@ -2011,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252216,
+      "num": 252216,
+      "word": "杜海涛 不要在愤怒时做决定",
+      "onboard_time": 1730097139,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251147,
       "num": 251147,
       "word": "丁真炖了一锅五位数的鸡汤",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1729939998,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248674,
-      "num": 248674,
-      "word": "当地回应村支书系爱马仕皮带坐豪车",
-      "onboard_time": 1730096599,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246015,
@@ -2083,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243551,
+      "num": 243551,
+      "word": "高校回应已婚女老师出轨学生",
+      "onboard_time": 1730099839,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242460,
       "num": 242460,
       "word": "沈梦辰不含一根假发片的plog",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1729958899,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241118,
+      "num": 241118,
+      "word": "东京电影节开幕红毯",
+      "onboard_time": 1730097619,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 238039,
@@ -2283,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225222,
+      "num": 225222,
+      "word": "心动的信号7第九期好抓马",
+      "onboard_time": 1730098039,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224606,
       "num": 176996,
       "word": "Chovy还在补兵",
@@ -2395,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213823,
+      "num": 411265,
+      "word": "乳腺癌到底会不会遗传",
+      "onboard_time": 1730095338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212850,
       "num": 268909,
       "word": "易烊千玺确认出席东京电影节",
@@ -2403,12 +2475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211567,
-      "num": 162739,
-      "word": "杜海涛 不要在愤怒时做决定",
-      "onboard_time": 1730097139,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 212379,
+      "num": 212379,
+      "word": "田嘉瑞工作室审美",
+      "onboard_time": 1730097979,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 210287,
@@ -2457,6 +2529,14 @@
       "onboard_time": 1730031859,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205395,
+      "num": 205395,
+      "word": "邵兵一家颜值",
+      "onboard_time": 1730097799,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 204128,
@@ -2635,6 +2715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192812,
+      "num": 267263,
+      "word": "神十九发射在即",
+      "onboard_time": 1730096899,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192412,
       "num": 290741,
       "word": "台风以前叫风痴和风台",
@@ -2697,6 +2785,14 @@
       "onboard_time": 1729988775,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187145,
+      "num": 187145,
+      "word": "田曦薇双马尾棕色look",
+      "onboard_time": 1730099059,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187087,
@@ -2785,14 +2881,6 @@
       "onboard_time": 1729997778,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182597,
-      "num": 267263,
-      "word": "神十九发射在即",
-      "onboard_time": 1730096899,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 182143,
@@ -2897,6 +2985,14 @@
       "onboard_time": 1730008099,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176573,
+      "num": 176573,
+      "word": "以钉钉子精神抓好改革任务落实",
+      "onboard_time": 1730099418,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176444,
@@ -3019,12 +3115,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166826,
+      "num": 166826,
+      "word": "樊振东黑西装",
+      "onboard_time": 1730098759,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166790,
       "num": 232625,
       "word": "神十八乘组开展返回前各项准备",
       "onboard_time": 1730011099,
       "rank": 18,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 166367,
+      "num": 166367,
+      "word": "麦琳和李行亮最窒息的片段",
+      "onboard_time": 1730099418,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 166179,
@@ -3251,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152871,
+      "num": 150907,
+      "word": "麦琳 被妖魔化",
+      "onboard_time": 1730098759,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152361,
       "num": 152361,
       "word": "广东男篮签约莫兰德",
@@ -3283,20 +3403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "赵今麦金属感眼妆",
+      "onboard_time": 1730099598,
+      "rank": 47,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 149811,
       "num": 149811,
       "word": "湖人三连胜",
       "onboard_time": 1730007138,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149783,
-      "num": 411265,
-      "word": "乳腺癌到底会不会遗传",
-      "onboard_time": 1730095338,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149733,
@@ -3337,6 +3457,14 @@
       "onboard_time": 1730071696,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147682,
+      "num": 147682,
+      "word": "肖战新片射雕英雄传看点推介",
+      "onboard_time": 1730100079,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 147145,
@@ -3595,14 +3723,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 134406,
-      "num": 169587,
-      "word": "海南三亚暴雨红色预警",
-      "onboard_time": 1730097079,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134221,
       "num": 411633,
       "word": "Bin和Elk现场观战",
@@ -3859,14 +3979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122141,
-      "num": 122141,
-      "word": "邵兵一家颜值",
-      "onboard_time": 1730097799,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121552,
       "num": 345510,
       "word": "汪苏泷唱了他的爱",
@@ -3987,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114452,
+      "num": 145548,
+      "word": "魅族撞档小米发布会",
+      "onboard_time": 1730097799,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114379,
       "num": 114379,
       "word": "成都蓉城队史首进亚冠",
@@ -4073,14 +4193,6 @@
       "onboard_time": 1730045478,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108812,
-      "num": 108812,
-      "word": "魅族撞档小米发布会",
-      "onboard_time": 1730097799,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 108567,
@@ -4289,14 +4401,6 @@
       "onboard_time": 1730050814,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78402,
-      "num": 175288,
-      "word": "东京电影节开幕红毯",
-      "onboard_time": 1730097619,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 76371,
@@ -4513,6 +4617,14 @@
       "onboard_time": 1729970112,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 51927,
+      "num": 291697,
+      "word": "流浪宠物的治理问题无可回避",
+      "onboard_time": 1730098699,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51614,
@@ -4819,12 +4931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26810,
+      "num": 631537,
+      "word": "真实版核舟记真的太硬核了",
+      "onboard_time": 1730084960,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26296,
       "num": 26296,
       "word": "短道速滑世界巡回赛",
       "onboard_time": 1729971792,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25285,
+      "num": 299210,
+      "word": "如何应对滥用AI语音恶搞乱象",
+      "onboard_time": 1730099418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25029,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 14:46:04
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 15:21:53
 </p>
 </blockquote>
 <p>
@@ -1953,6 +1953,12 @@ BLG晋级S14四强（热度：1624127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E7%94%9F%E7%88%B6%E5%A5%B3%E5%8F%8B%E8%99%90%E7%AB%A5%E7%94%BB%E9%9D%A2%E5%A4%AA%E6%AE%8B%E5%BF%8D%23" target="weibo">
+警方称生父女友虐童画面太残忍（热度：1591266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BA%8A%E5%A4%B4%E6%9F%9C%E6%94%BE%E7%BD%82%E7%B2%9F%E5%AD%99%E5%AD%90%E6%8A%A5%E8%AD%A6%23" target="weibo">
 爷爷床头柜放罂粟孙子报警（热度：1590400）
 </a>
@@ -3893,6 +3899,12 @@ JDG官宣Ruler离队（热度：1203717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89%E6%8D%A2%E5%AF%BC%E6%BC%94%23" target="weibo">
 唐朝诡事录之长安换导演（热度：1126795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%85%A8%E5%B8%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%81%9C%E8%AF%BE%23" target="weibo">
+三亚全市中小学停课（热度：1126484）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ whiplash 吒味十足（热度：872043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%20%E4%BC%8D%E4%BD%B0%E5%92%8C%E7%8C%A5%E7%90%90%E6%9C%80%E4%B8%8D%E6%B2%BE%E8%BE%B9%23" target="weibo">
 耳帝 伍佰和猥琐最不沾边（热度：871932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E5%8E%9F%E5%89%AF%E5%B1%80%E9%95%BF%E4%BA%8E%E6%B6%9B%E6%B6%89%E9%BB%91%23" target="weibo">
-哈尔滨市公安局原副局长于涛涉黑（热度：871930）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E6%94%B6%E5%85%A510%E4%B8%87%E5%85%83%E4%BB%A5%E5%86%85%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%94%A8%E7%BC%B4%E7%BA%B3%E4%B8%AA%E7%A8%8E%23" target="weibo">
-年收入10万元以内基本不用缴纳个税（热度：871194）
 </a>
 </li>
 
