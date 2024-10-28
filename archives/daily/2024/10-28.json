@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730120427066,
+  "endTime": 1730122275066,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -96,6 +96,14 @@
       "word": "举报女老师出轨学生丈夫发声",
       "onboard_time": 1730116999,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1724853,
+      "num": 1724853,
+      "word": "警方强烈建议关闭FaceTime",
+      "onboard_time": 1730117779,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1033266,
+      "num": 1160137,
+      "word": "向佐再回应扇巴掌行为",
+      "onboard_time": 1730115919,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012389,
       "num": 495724,
       "word": "一男一女在上海中环上停车调换座位",
@@ -259,20 +275,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1000858,
-      "num": 1160137,
-      "word": "向佐再回应扇巴掌行为",
-      "onboard_time": 1730115919,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 987420,
       "num": 298285,
       "word": "王楚钦拟聘北京一校队运动员岗",
       "onboard_time": 1730092878,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 980734,
+      "num": 424746,
+      "word": "聊缩力",
+      "onboard_time": 1730119039,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 972704,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 846854,
-      "num": 325895,
+      "num": 386430,
       "word": "怀孕3月女子吃冰箱里榴莲千层流产",
       "onboard_time": 1730111599,
       "rank": 27,
@@ -371,12 +387,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 830982,
+      "num": 422539,
+      "word": "烧伤妈妈受伤皮肤快长好了",
+      "onboard_time": 1730120359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824657,
       "num": 824657,
       "word": "雷军回应小米15涨价幅度",
       "onboard_time": 1730083338,
       "rank": 10,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 812605,
+      "num": 422190,
+      "word": "4岁男孩入住酒店后确诊川崎病",
+      "onboard_time": 1730121021,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795248,
@@ -401,6 +433,14 @@
       "onboard_time": 1730110160,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 724774,
+      "num": 724774,
+      "word": "芒果综艺 厉害",
+      "onboard_time": 1730119158,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 711462,
@@ -428,7 +468,7 @@
     },
     {
       "raw_hot": 675895,
-      "num": 334470,
+      "num": 418912,
       "word": "麦琳喊杨子宝贝",
       "onboard_time": 1730117600,
       "rank": 17,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 487079,
-      "num": 330801,
+      "num": 347628,
       "word": "张淼怡假睫毛",
       "onboard_time": 1730116219,
       "rank": 19,
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 475249,
-      "num": 283500,
+      "num": 418719,
       "word": "西汉姆联 啊我",
       "onboard_time": 1730120058,
       "rank": 31,
@@ -793,14 +833,6 @@
       "onboard_time": 1730090840,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 415929,
-      "num": 329908,
-      "word": "聊缩力",
-      "onboard_time": 1730119039,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 414702,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374788,
+      "num": 347502,
+      "word": "出轨女老师曾获学生最喜欢老师称号",
+      "onboard_time": 1730119939,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369431,
       "num": 369431,
       "word": "网店2小时被水军坑走11万",
@@ -947,20 +987,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 351407,
-      "num": 323580,
-      "word": "芒果综艺 厉害",
-      "onboard_time": 1730119158,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349952,
       "num": 304131,
       "word": "特朗普搓澡舞美国走红",
       "onboard_time": 1730091080,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 346780,
+      "num": 346780,
+      "word": "侯明昊翻牌一个字回复所有",
+      "onboard_time": 1730120325,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 344455,
@@ -987,11 +1027,11 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 337511,
-      "num": 337511,
-      "word": "警方强烈建议关闭FaceTime",
-      "onboard_time": 1730117779,
-      "rank": 8,
+      "raw_hot": 331414,
+      "num": 331414,
+      "word": "一系列生育支持措施来了",
+      "onboard_time": 1730119518,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1089,14 @@
       "onboard_time": 1730078177,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310259,
+      "num": 310259,
+      "word": "留几手分析晚晚",
+      "onboard_time": 1730120780,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 308999,
@@ -1148,7 +1196,7 @@
     },
     {
       "raw_hot": 284404,
-      "num": 284404,
+      "num": 309935,
       "word": "小巷人家",
       "onboard_time": 1730085978,
       "rank": 48,
@@ -1187,20 +1235,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280064,
+      "num": 280064,
+      "word": "中级会计",
+      "onboard_time": 1730121258,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 276713,
       "num": 276713,
       "word": "大藤沙月4比2张本美和",
       "onboard_time": 1730046617,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268310,
-      "num": 268310,
-      "word": "一系列生育支持措施来了",
-      "onboard_time": 1730119518,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267707,
@@ -1428,7 +1476,7 @@
     },
     {
       "raw_hot": 220026,
-      "num": 220026,
+      "num": 425930,
       "word": "杀猪盘入侵欧美",
       "onboard_time": 1730117178,
       "rank": 41,
@@ -1497,14 +1545,6 @@
       "onboard_time": 1730083818,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209056,
-      "num": 209056,
-      "word": "出轨女老师曾获学生最喜欢老师称号",
-      "onboard_time": 1730119939,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208088,
@@ -1675,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188100,
+      "num": 297320,
+      "word": "负面情绪是怎么影响身心健康的",
+      "onboard_time": 1730118019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187898,
       "num": 187898,
       "word": "沈梦辰晒合照为杜海涛庆生",
@@ -1803,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172915,
-      "num": 172915,
-      "word": "侯明昊翻牌一个字回复所有",
-      "onboard_time": 1730120325,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169724,
       "num": 169724,
       "word": "海上钢琴师内地重映",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1730042361,
       "rank": 19,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 162635,
-      "num": 162635,
-      "word": "烧伤妈妈受伤皮肤快长好了",
-      "onboard_time": 1730120359,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159640,
@@ -2563,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78997,
-      "num": 297320,
-      "word": "负面情绪是怎么影响身心健康的",
-      "onboard_time": 1730118019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78064,
       "num": 182648,
       "word": "赵丽颖王梓薇 三搭",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1730052432,
       "rank": 9,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 56348,
+      "num": 424131,
+      "word": "十个勤天在天猫双11上市了",
+      "onboard_time": 1730117600,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 56342,
@@ -2867,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32359,
-      "num": 336016,
-      "word": "十个勤天在天猫双11上市了",
-      "onboard_time": 1730117600,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32283,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -2884,7 +2908,7 @@
     },
     {
       "raw_hot": 31643,
-      "num": 221905,
+      "num": 245080,
       "word": "周鸿祎为何说国产新能源不讲武德",
       "onboard_time": 1730118558,
       "rank": 38,
@@ -2923,6 +2947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29801,
+      "num": 310866,
+      "word": "男子举报妻子与街道干部有婚外情",
+      "onboard_time": 1730120902,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29721,
       "num": 259592,
       "word": "眼红巴黎德国考虑申奥",
@@ -2937,6 +2969,22 @@
       "onboard_time": 1730110279,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27976,
+      "num": 420868,
+      "word": "十个勤天推荐的家乡特产全是吃的",
+      "onboard_time": 1730120420,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27795,
+      "num": 1123733,
+      "word": "神十九准备就绪",
+      "onboard_time": 1730107400,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27570,
@@ -2971,20 +3019,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25597,
+      "num": 1268867,
+      "word": "深秋稻浪飘香丰收忙",
+      "onboard_time": 1730107519,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25387,
+      "num": 386555,
+      "word": "十个勤天什么时候补货",
+      "onboard_time": 1730120600,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24083,
       "num": 320160,
       "word": "一起听听陕北的壮阔之声",
       "onboard_time": 1730091080,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23250,
-      "num": 1268867,
-      "word": "深秋稻浪飘香丰收忙",
-      "onboard_time": 1730107519,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23067,
@@ -3025,14 +3081,6 @@
       "onboard_time": 1730103258,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14348,
-      "num": 1123733,
-      "word": "神十九准备就绪",
-      "onboard_time": 1730107400,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13554,

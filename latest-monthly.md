@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 21:00:27
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 21:31:15
 </p>
 </blockquote>
 <p>
@@ -1625,6 +1625,12 @@ papi酱问黄圣依杨子是演的还是真的（热度：1817648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B0%83%E6%88%8F%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E4%B8%8A%E5%89%8D%E5%88%B6%E6%AD%A2%E8%A2%AB%E6%89%93%23" target="weibo">
 男子调戏女生男友上前制止被打（热度：1727700）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%ADFaceTime%23" target="weibo">
+警方强烈建议关闭FaceTime（热度：1724853）
 </a>
 </li>
 
@@ -4635,6 +4641,12 @@ A股大幅高开后回落（热度：1035558）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%86%8D%E5%9B%9E%E5%BA%94%E6%89%87%E5%B7%B4%E6%8E%8C%E8%A1%8C%E4%B8%BA%23" target="weibo">
+向佐再回应扇巴掌行为（热度：1033266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%9D%90%E5%9C%B0%E4%B8%8A%E8%81%8A%E5%A4%A9%23" target="weibo">
 王嘉尔何猷君奚梦瑶坐地上聊天（热度：1032511）
 </a>
@@ -4899,12 +4911,6 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%86%8D%E5%9B%9E%E5%BA%94%E6%89%87%E5%B7%B4%E6%8E%8C%E8%A1%8C%E4%B8%BA%23" target="weibo">
-向佐再回应扇巴掌行为（热度：1000858）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A5%E6%AD%A5%E9%AB%98%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%23" target="weibo">
 步步高被申请破产（热度：1000719）
 </a>
@@ -5063,6 +5069,12 @@ Hybe承认BTS音源注水（热度：982139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9D%80%E7%81%AB%23" target="weibo">
 SEVENTEEN演唱会着火（热度：981986）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E7%BC%A9%E5%8A%9B%23" target="weibo">
+聊缩力（热度：980734）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B3%E6%AF%942%E6%9C%AC%E9%9B%85%E6%98%8E%23" target="weibo">
 林诗栋3比2本雅明（热度：880996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E7%A7%80%E6%81%A9%E7%88%B1vlog%23" target="weibo">
-黄子韬徐艺洋秀恩爱vlog（热度：880426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%93%A6%E5%B0%94%E5%B0%8F18%E5%B2%81%E9%81%97%E5%AD%80%E7%BD%95%E8%A7%81%E6%9B%9D%E5%85%89%23" target="weibo">
-辛瓦尔小18岁遗孀罕见曝光（热度：879914）
 </a>
 </li>
 
