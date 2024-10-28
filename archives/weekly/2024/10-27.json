@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730079987926,
+  "endTime": 1730081315270,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -113,6 +113,14 @@
       "onboard_time": 1730009898,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1846305,
+      "num": 1846305,
+      "word": "郭敬明删除大梦归离相关博文",
+      "onboard_time": 1730079798,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 1831417,
@@ -979,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 400091,
+      "num": 400091,
+      "word": "有种安全感叫中国军人来了",
+      "onboard_time": 1730078838,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397959,
       "num": 397959,
       "word": "国乒两名独苗均无缘决赛",
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395094,
+      "num": 395094,
+      "word": "卡车撞以色列公交站司机已被打死",
+      "onboard_time": 1730080218,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 395065,
       "num": 395065,
       "word": "留几手",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1730032761,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389336,
+      "num": 241845,
+      "word": "26楼扔猫外卖员已被平台永久拉黑",
+      "onboard_time": 1730074340,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382348,
@@ -1195,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315817,
-      "num": 241845,
-      "word": "26楼扔猫外卖员已被平台永久拉黑",
-      "onboard_time": 1730074340,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314252,
       "num": 314252,
       "word": "余华英老家亲属发声",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1730005278,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311353,
+      "num": 240973,
+      "word": "被老祖宗的顶级审美震撼到",
+      "onboard_time": 1730074999,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310425,
@@ -1579,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248199,
-      "num": 240973,
-      "word": "被老祖宗的顶级审美震撼到",
-      "onboard_time": 1730074999,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246015,
       "num": 246015,
       "word": "饥饿外卖员取餐后秒退单偷4份餐",
@@ -1675,6 +1699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234947,
+      "num": 241661,
+      "word": "麦琳问杨子的情商是天生的吗",
+      "onboard_time": 1730078717,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234341,
       "num": 234341,
       "word": "u17国足vs韩国u17",
@@ -1699,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230607,
+      "num": 230607,
+      "word": "朝鲜强调已对韩国军方发出最后警告",
+      "onboard_time": 1730072717,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 229927,
       "num": 229927,
       "word": "喻言贴脸开大李莎旻子总卖关子",
@@ -1721,14 +1761,6 @@
       "onboard_time": 1729954704,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 227960,
-      "num": 227960,
-      "word": "郭敬明删除大梦归离相关博文",
-      "onboard_time": 1730079798,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 227631,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1730003178,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 216941,
+      "num": 216941,
+      "word": "邵子恒好帅",
+      "onboard_time": 1730080338,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 216322,
@@ -2088,14 +2128,6 @@
       "word": "台风以前叫风痴和风台",
       "onboard_time": 1730070795,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192130,
-      "num": 192130,
-      "word": "有种安全感叫中国军人来了",
-      "onboard_time": 1730078838,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2411,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165112,
+      "num": 165112,
+      "word": "为什么许多商场一楼没有厕所",
+      "onboard_time": 1730080877,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "辛芷蕾工作室的海报没有辛芷蕾",
@@ -2707,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143159,
+      "num": 143159,
+      "word": "TheShy说Chovy可惜",
+      "onboard_time": 1730080877,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143073,
       "num": 143073,
       "word": "西汉姆联vs曼联",
@@ -2769,14 +2817,6 @@
       "onboard_time": 1730042301,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139838,
-      "num": 139838,
-      "word": "朝鲜强调已对韩国军方发出最后警告",
-      "onboard_time": 1730072717,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 139454,
@@ -2907,6 +2947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133220,
+      "num": 212598,
+      "word": "尤长靖从9到1走了6年",
+      "onboard_time": 1730081117,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132328,
       "num": 132328,
       "word": "审判大梦归离",
@@ -2987,14 +3035,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 128668,
-      "num": 241661,
-      "word": "麦琳问杨子的情商是天生的吗",
-      "onboard_time": 1730078717,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128226,
       "num": 128226,
       "word": "梅姨到底是谁",
@@ -3009,6 +3049,14 @@
       "onboard_time": 1730072958,
       "rank": 26,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 127530,
+      "num": 127530,
+      "word": "A股",
+      "onboard_time": 1730080518,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 127397,
@@ -3145,6 +3193,14 @@
       "onboard_time": 1730035460,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118035,
+      "num": 166906,
+      "word": "日本执政联盟失去众议院过半席位",
+      "onboard_time": 1730080579,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 117364,
@@ -4027,8 +4083,16 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 13720,
+      "num": 353362,
+      "word": "央视揭秘神奇能量舱只是桑拿舱",
+      "onboard_time": 1730081237,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13554,
-      "num": 508518,
+      "num": 659087,
       "word": "这件瓷壶静静美了700多年",
       "onboard_time": 1730037382,
       "rank": 2,
