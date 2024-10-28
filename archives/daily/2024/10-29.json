@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730132917938,
+  "endTime": 1730133965457,
   "band_list": [
     {
       "raw_hot": 858447,
@@ -33,6 +33,14 @@
       "onboard_time": 1730107759,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574701,
+      "num": 574701,
+      "word": "严厉打击以寻宝为噱头非法鉴定",
+      "onboard_time": 1730129900,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557333,
@@ -91,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395933,
+      "num": 278603,
+      "word": "炒股两周赚百万硕士回应",
+      "onboard_time": 1730129180,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355761,
       "num": 355761,
       "word": "孙乐言 我现在不是一个普通人了",
@@ -120,14 +136,6 @@
       "word": "你想过为什么买家晒图一模一样吗",
       "onboard_time": 1730123840,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278603,
-      "num": 278603,
-      "word": "炒股两周赚百万硕士回应",
-      "onboard_time": 1730129180,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -195,11 +203,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 150625,
-      "num": 310268,
-      "word": "严厉打击以寻宝为噱头非法鉴定",
-      "onboard_time": 1730129900,
-      "rank": 9,
+      "raw_hot": 144263,
+      "num": 197295,
+      "word": "我是不是不够好",
+      "onboard_time": 1730131938,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -257,14 +265,6 @@
       "onboard_time": 1730119158,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119128,
-      "num": 119128,
-      "word": "我是不是不够好",
-      "onboard_time": 1730131938,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118415,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90561,
+      "num": 90561,
+      "word": "殡仪馆副馆长为敛财改收费标准",
+      "onboard_time": 1730129300,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87742,
       "num": 87742,
       "word": "王浩同志任浙江省委书记",
@@ -393,6 +401,14 @@
       "onboard_time": 1730118319,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54535,
+      "num": 104431,
+      "word": "有博主为盗掘古墓葬等违法活动提供信息",
+      "onboard_time": 1730133617,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6751,
