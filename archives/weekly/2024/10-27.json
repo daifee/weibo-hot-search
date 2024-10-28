@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730115418208,
+  "endTime": 1730119449916,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -256,6 +256,14 @@
       "word": "用公厕下水管冲洗臭豆腐",
       "onboard_time": 1730023578,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1538215,
+      "num": 292888,
+      "word": "举报女老师出轨学生丈夫发声",
+      "onboard_time": 1730116999,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -619,6 +627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 896314,
+      "num": 1143410,
+      "word": "曼联解雇滕哈格",
+      "onboard_time": 1730118319,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 885618,
+      "num": 285348,
+      "word": "向佐再回应扇巴掌行为",
+      "onboard_time": 1730115919,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882529,
       "num": 882529,
       "word": "黄磊 饭不是我做的放心吃",
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 846854,
-      "num": 278738,
+      "num": 281509,
       "word": "怀孕3月女子吃冰箱里榴莲千层流产",
       "onboard_time": 1730111599,
       "rank": 27,
@@ -841,6 +865,14 @@
       "onboard_time": 1730078477,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 673770,
+      "num": 673770,
+      "word": "杨妞花和养父直播10万多人观看",
+      "onboard_time": 1730115139,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669604,
@@ -1051,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 559184,
+      "num": 559184,
+      "word": "彭高 我的心意你还不明白吗翁青雅",
+      "onboard_time": 1730116278,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554615,
       "num": 891255,
       "word": "水军狂发正面评价让真实评价沉帖",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1730036180,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534600,
+      "num": 283322,
+      "word": "麦琳喊杨子宝贝",
+      "onboard_time": 1730117600,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 529576,
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487079,
+      "num": 282343,
+      "word": "张淼怡假睫毛",
+      "onboard_time": 1730116219,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484601,
       "num": 302389,
       "word": "日默瓦 樊振东",
@@ -1403,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 447138,
+      "num": 447138,
+      "word": "伊朗发布以色列和伊朗防空系统对比",
+      "onboard_time": 1730115679,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 445543,
       "num": 843237,
       "word": "杜华后悔一个人来看李梦",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1730102119,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408954,
+      "num": 279522,
+      "word": "周震南百度百科在改了",
+      "onboard_time": 1730114539,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 408248,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1729988236,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379471,
+      "num": 279148,
+      "word": "刘国梁谈勒布伦兄弟",
+      "onboard_time": 1730116097,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 377308,
@@ -1736,6 +1816,14 @@
       "word": "余华英丈夫越狱后多次拐卖儿童",
       "onboard_time": 1729943839,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344455,
+      "num": 276800,
+      "word": "6名老师建群对女生照片开黄腔被停职",
+      "onboard_time": 1730115859,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1979,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298544,
+      "num": 298544,
+      "word": "警方强烈建议关闭FaceTime",
+      "onboard_time": 1730117779,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "雪中飞 成毅",
@@ -2091,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284661,
+      "num": 284661,
+      "word": "白鹿王星越四搭",
+      "onboard_time": 1730116339,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284236,
       "num": 360672,
       "word": "周深给杨幂提裙子",
@@ -2201,14 +2305,6 @@
       "onboard_time": 1730035339,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 266852,
-      "num": 266852,
-      "word": "周震南百度百科在改了",
-      "onboard_time": 1730114539,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 266822,
@@ -2731,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220026,
+      "num": 220026,
+      "word": "杀猪盘入侵欧美",
+      "onboard_time": 1730117178,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219860,
       "num": 219860,
       "word": "炉石传说掉线",
@@ -2827,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211599,
+      "num": 278165,
+      "word": "小巷人家",
+      "onboard_time": 1730085978,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210287,
       "num": 210287,
       "word": "16岁女生第3次夺女子标枪世界冠军",
@@ -2899,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204318,
+      "num": 204318,
+      "word": "芒果综艺 厉害",
+      "onboard_time": 1730119158,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204128,
       "num": 228372,
       "word": "杨幂时代少年团模仿貂蝉",
@@ -2961,6 +3081,14 @@
       "onboard_time": 1730103258,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199750,
+      "num": 199750,
+      "word": "郑秀妍晒给郑秀晶庆生照",
+      "onboard_time": 1730117359,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 199464,
@@ -3113,6 +3241,14 @@
       "onboard_time": 1730040801,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193493,
+      "num": 193493,
+      "word": "聊缩力",
+      "onboard_time": 1730119039,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 192812,
@@ -3739,6 +3875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157835,
+      "num": 280895,
+      "word": "母亲回应女儿被蹲守多日的前任杀害",
+      "onboard_time": 1730117119,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157795,
       "num": 233982,
       "word": "王一博出发巴塞罗那路透",
@@ -4313,14 +4457,6 @@
       "onboard_time": 1730022678,
       "rank": 37,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 130176,
-      "num": 130176,
-      "word": "小巷人家",
-      "onboard_time": 1730085978,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 130155,
@@ -4979,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78997,
+      "num": 297320,
+      "word": "负面情绪是怎么影响身心健康的",
+      "onboard_time": 1730118019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76371,
       "num": 76371,
       "word": "BLG近两年对战LCK胜率",
@@ -5139,6 +5283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60458,
+      "num": 233105,
+      "word": "大梦归离秋千30秒文学",
+      "onboard_time": 1730118860,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60041,
       "num": 60041,
       "word": "一个人真正靠谱的4种表现",
@@ -5281,6 +5433,14 @@
       "onboard_time": 1730003418,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48524,
+      "num": 284366,
+      "word": "这些护肤品不要囤",
+      "onboard_time": 1730116818,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 44604,
@@ -5467,6 +5627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34817,
+      "num": 282741,
+      "word": "为亡弟追凶26年姐姐卖鸭凑开庭路费",
+      "onboard_time": 1730117719,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34403,
       "num": 393702,
       "word": "果味电子烟借雾化器外衣重生",
@@ -5497,6 +5665,14 @@
       "onboard_time": 1730017399,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31643,
+      "num": 221905,
+      "word": "周鸿祎为何说国产新能源不讲武德",
+      "onboard_time": 1730118558,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 31251,
@@ -5595,12 +5771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27570,
+      "num": 220135,
+      "word": "退休继续工作受伤能否享受工伤待遇",
+      "onboard_time": 1730117418,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27421,
       "num": 304697,
       "word": "南极科考的难度有多大",
       "onboard_time": 1730092219,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27104,
+      "num": 291124,
+      "word": "十个勤天在天猫双11上市了",
+      "onboard_time": 1730117600,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 27003,

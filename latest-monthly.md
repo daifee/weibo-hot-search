@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 19:36:58
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 20:44:09
 </p>
 </blockquote>
 <p>
@@ -2141,6 +2141,12 @@ BLG晋级S14四强（热度：1624127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0%23" target="weibo">
 覃海洋破亚洲纪录夺冠（热度：1544125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%A5%B3%E8%80%81%E5%B8%88%E5%87%BA%E8%BD%A8%E5%AD%A6%E7%94%9F%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23" target="weibo">
+举报女老师出轨学生丈夫发声（热度：1538215）
 </a>
 </li>
 
@@ -5835,6 +5841,12 @@ LNG战胜BLG（热度：897693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E6%BB%95%E5%93%88%E6%A0%BC%23" target="weibo">
+曼联解雇滕哈格（热度：896314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%23" target="weibo">
 大梦归离（热度：896172）
 </a>
@@ -5931,6 +5943,12 @@ LNG战胜BLG（热度：897693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%86%8D%E5%9B%9E%E5%BA%94%E6%89%87%E5%B7%B4%E6%8E%8C%E8%A1%8C%E4%B8%BA%23" target="weibo">
+向佐再回应扇巴掌行为（热度：885618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E7%9C%9F%E6%98%AF%E9%A3%8E%E6%83%85%E4%B8%87%E7%A7%8D%23" target="weibo">
 朱珠真是风情万种（热度：884958）
 </a>
@@ -5993,24 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%93%A6%E5%B0%94%E5%B0%8F18%E5%B2%81%E9%81%97%E5%AD%80%E7%BD%95%E8%A7%81%E6%9B%9D%E5%85%89%23" target="weibo">
 辛瓦尔小18岁遗孀罕见曝光（热度：879914）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%953%E6%AF%942%E5%88%98%E5%AE%B6%E8%89%AF%23" target="weibo">
-许昕3比2刘家良（热度：879384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%92%8C%E7%81%B5%E5%84%BF%E5%8A%A0%E5%BE%AE%E4%BF%A1%23" target="weibo">
-杨幂和灵儿加微信（热度：878996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E4%BA%BA%E5%91%98%E7%A7%B0%E5%AD%98%E6%AC%BE%E6%B6%88%E5%A4%B1%E4%B8%8E%E5%82%A8%E6%88%B7%E6%B3%84%E9%9C%B2%E8%B4%A6%E5%AF%86%E6%9C%89%E5%85%B3%23" target="weibo">
-银行人员称存款消失与储户泄露账密有关（热度：877759）
 </a>
 </li>
 
