@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730129106952,
+  "endTime": 1730129973191,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1156339,
+      "num": 405539,
+      "word": "12345回应男孩入住酒店后确诊川崎病",
+      "onboard_time": 1730123900,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1151764,
       "num": 456553,
       "word": "向佐回应打脸李小龙模仿者",
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 822419,
+      "num": 378865,
+      "word": "洪知秀 HYBE",
+      "onboard_time": 1730128580,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 795248,
       "num": 242397,
       "word": "程潇 陈都灵",
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678645,
+      "num": 376327,
+      "word": "HYBE点评SEVENTEEN成员恋爱",
+      "onboard_time": 1730128881,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 677859,
       "num": 445976,
       "word": "Faker回应Bin",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1730005818,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 647268,
+      "num": 647268,
+      "word": "金球奖",
+      "onboard_time": 1730128102,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 637785,
@@ -1371,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504162,
+      "num": 504162,
+      "word": "赵丽颖首映生图",
+      "onboard_time": 1730127742,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 499050,
       "num": 371955,
       "word": "戚薇 不要再说是我的狗",
@@ -1507,14 +1547,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 479426,
-      "num": 405539,
-      "word": "12345回应男孩入住酒店后确诊川崎病",
-      "onboard_time": 1730123900,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 475249,
       "num": 418719,
       "word": "西汉姆联 啊我",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1729997959,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 465704,
-      "num": 465704,
-      "word": "赵丽颖首映生图",
-      "onboard_time": 1730127742,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 460856,
@@ -1753,14 +1777,6 @@
       "onboard_time": 1729996638,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394286,
-      "num": 394286,
-      "word": "金球奖",
-      "onboard_time": 1730128102,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 391040,
@@ -2075,12 +2091,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323948,
-      "num": 323948,
-      "word": "洪知秀 HYBE",
-      "onboard_time": 1730128580,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 322187,
+      "num": 322187,
+      "word": "蒋欣演技",
+      "onboard_time": 1730127979,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 321988,
@@ -2113,14 +2129,6 @@
       "onboard_time": 1730023879,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315280,
-      "num": 306817,
-      "word": "蒋欣演技",
-      "onboard_time": 1730127979,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 314252,
@@ -2523,6 +2531,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 263156,
+      "num": 263156,
+      "word": "赵丽颖辛芷蕾G社生图",
+      "onboard_time": 1730129060,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262797,
       "num": 262797,
       "word": "车牌8个字万无一失圆满成功",
@@ -2724,7 +2740,7 @@
     },
     {
       "raw_hot": 242789,
-      "num": 195770,
+      "num": 227902,
       "word": "Doinb爆料Ruler被解约",
       "onboard_time": 1730127920,
       "rank": 30,
@@ -3275,14 +3291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200465,
-      "num": 195669,
-      "word": "HYBE点评SEVENTEEN成员恋爱",
-      "onboard_time": 1730128881,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199983,
       "num": 199983,
       "word": "慕容璟和不被爱的才是小三",
@@ -3433,6 +3441,14 @@
       "onboard_time": 1730041341,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194639,
+      "num": 194639,
+      "word": "炒股两周赚百万硕士回应",
+      "onboard_time": 1730129180,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194600,
@@ -3771,6 +3787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178191,
+      "num": 413315,
+      "word": "杨妞花给养父带了苗族衣服",
+      "onboard_time": 1730118498,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177925,
       "num": 177925,
       "word": "长沙一商家疑用公厕水管接水泡臭豆腐",
@@ -3863,6 +3887,14 @@
       "num": 172907,
       "word": "中超",
       "onboard_time": 1730025079,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172219,
+      "num": 172219,
+      "word": "曝罗德里将获得金球奖",
+      "onboard_time": 1730129359,
       "rank": 35,
       "category": "体育"
     },
@@ -4723,6 +4755,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 130950,
+      "num": 130950,
+      "word": "烧伤妈妈今日将在ICU度过生日",
+      "onboard_time": 1730129838,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130266,
       "num": 130266,
       "word": "卡车冲入以色列公交站致数十人受伤",
@@ -4769,14 +4809,6 @@
       "onboard_time": 1730008519,
       "rank": 45,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 128229,
-      "num": 128229,
-      "word": "赵丽颖辛芷蕾G社生图",
-      "onboard_time": 1730129060,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 128226,
@@ -5051,6 +5083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115321,
+      "num": 160182,
+      "word": "严厉打击以寻宝为噱头非法鉴定",
+      "onboard_time": 1730129900,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114379,
       "num": 114379,
       "word": "成都蓉城队史首进亚冠",
@@ -5089,14 +5129,6 @@
       "onboard_time": 1730077938,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112003,
-      "num": 413315,
-      "word": "杨妞花给养父带了苗族衣服",
-      "onboard_time": 1730118498,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111861,
@@ -5372,7 +5404,7 @@
     },
     {
       "raw_hot": 82555,
-      "num": 230930,
+      "num": 380048,
       "word": "四姑娘山多名向导接力送失温游客下山",
       "onboard_time": 1730119878,
       "rank": 24,
@@ -5883,6 +5915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 37942,
+      "num": 317176,
+      "word": "闫妮蒋欣新剧邻居处成姐妹",
+      "onboard_time": 1730128702,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37164,
       "num": 156870,
       "word": "以军在加沙医院内四处开火",
@@ -5976,6 +6016,14 @@
       "word": "律师称南通捅人嫌犯或将数罪并罚",
       "onboard_time": 1730005219,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32090,
+      "num": 377022,
+      "word": "殡仪馆副馆长为敛财改收费标准",
+      "onboard_time": 1730129300,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -6289,14 +6337,6 @@
       "onboard_time": 1730060591,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17300,
-      "num": 317176,
-      "word": "闫妮蒋欣新剧邻居处成姐妹",
-      "onboard_time": 1730128702,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 16781,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 23:25:06
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 23:39:33
 </p>
 </blockquote>
 <p>
@@ -3777,6 +3777,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312345%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%B7%9D%E5%B4%8E%E7%97%85%23" target="weibo">
+12345回应男孩入住酒店后确诊川崎病（热度：1156339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E5%92%8C%E6%AD%A6%E8%AD%A6%E4%B8%A5%E9%98%B2%E6%AD%BB%E5%AE%88%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%23" target="weibo">
 中国军队和武警严防死守中缅边境（热度：1155839）
 </a>
@@ -6005,12 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E6%98%86%E8%99%AB%E8%A2%AB2%E5%AD%A9%E5%AD%90%E5%81%B7%E8%B5%B0%23" target="weibo">
 博物馆昆虫被2孩子偷走（热度：884225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B7%AF%E8%BE%B9%E4%BD%AF%E8%A3%85%E6%92%B8%E7%8C%AB%E7%AA%81%E7%84%B6%E5%B0%86%E5%85%B6%E6%91%94%E6%AD%BB%23" target="weibo">
-男子路边佯装撸猫突然将其摔死（热度：883619）
 </a>
 </li>
 
