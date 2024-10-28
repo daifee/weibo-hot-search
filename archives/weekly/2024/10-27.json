@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730084892357,
+  "endTime": 1730086441859,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1575939,
-      "num": 858796,
+      "num": 1384934,
       "word": "邵兵儿子",
       "onboard_time": 1730083517,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1730029699,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1415704,
+      "num": 1415704,
+      "word": "员工抑郁口头请病假被按旷工开除",
+      "onboard_time": 1730084418,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1413358,
@@ -443,8 +451,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 803183,
-      "num": 803183,
+      "raw_hot": 824657,
+      "num": 824657,
       "word": "雷军回应小米15涨价幅度",
       "onboard_time": 1730083338,
       "rank": 10,
@@ -505,6 +513,14 @@
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 724798,
+      "num": 724798,
+      "word": "花少6 周雨彤",
+      "onboard_time": 1730085499,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 710158,
@@ -635,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609907,
+      "num": 609907,
+      "word": "韩束 赵今麦",
+      "onboard_time": 1730083998,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601617,
       "num": 336375,
       "word": "郑钦文夺冠后发博",
@@ -657,6 +681,14 @@
       "onboard_time": 1729985955,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575706,
+      "num": 575706,
+      "word": "韩安冉送宋浩然22岁生日惊喜",
+      "onboard_time": 1730085438,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 567892,
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 510224,
+      "num": 510224,
+      "word": "大量网友收到兵器装备集团上新短信",
+      "onboard_time": 1730085078,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507158,
       "num": 264633,
       "word": "沈腾提词器的字比别人大",
@@ -825,6 +865,14 @@
       "onboard_time": 1730075058,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 504295,
+      "num": 504295,
+      "word": "闫桉身材",
+      "onboard_time": 1730084238,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 499050,
@@ -1076,7 +1124,7 @@
     },
     {
       "raw_hot": 389336,
-      "num": 241845,
+      "num": 245750,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
       "onboard_time": 1730074340,
       "rank": 23,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1730023938,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 362944,
-      "num": 362944,
-      "word": "闫桉身材",
-      "onboard_time": 1730084238,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 357017,
@@ -1393,14 +1433,6 @@
       "onboard_time": 1729997719,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 300521,
-      "num": 300521,
-      "word": "韩束 赵今麦",
-      "onboard_time": 1730083998,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 295683,
@@ -2019,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210287,
+      "num": 210287,
+      "word": "16岁女生第3次夺女子标枪世界冠军",
+      "onboard_time": 1730083818,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208584,
       "num": 208584,
       "word": "小猫没夹住发出呱叫声",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1730017519,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201719,
+      "num": 201719,
+      "word": "恋与深空",
+      "onboard_time": 1729968793,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 201269,
@@ -2371,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181335,
+      "num": 181335,
+      "word": "工作室回应赵丽颖提名最佳女配",
+      "onboard_time": 1730085138,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181128,
       "num": 206314,
       "word": "赵露思恋人开拍路透",
@@ -2387,11 +2443,19 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 179377,
-      "num": 179377,
-      "word": "16岁女生第3次夺女子标枪世界冠军",
-      "onboard_time": 1730083818,
-      "rank": 34,
+      "raw_hot": 180139,
+      "num": 180139,
+      "word": "十四年前的麦琳",
+      "onboard_time": 1730086339,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179632,
+      "num": 179632,
+      "word": "快船vs勇士",
+      "onboard_time": 1730083638,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -2467,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172596,
+      "num": 172596,
+      "word": "白百何新剧 35岁女性职场困境",
+      "onboard_time": 1730084538,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171342,
       "num": 171342,
       "word": "乔妍的心事 女人的饭局与荒野",
@@ -2483,27 +2555,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169718,
-      "num": 169718,
-      "word": "快船vs勇士",
-      "onboard_time": 1730083638,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169299,
-      "num": 370011,
+      "num": 605514,
       "word": "景区禁止游客自带食物却翻倍自卖",
       "onboard_time": 1730083218,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169169,
-      "num": 169169,
-      "word": "员工抑郁口头请病假被按旷工开除",
-      "onboard_time": 1730084418,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2611,6 +2667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160839,
+      "num": 160839,
+      "word": "张萌说哭徐艺真",
+      "onboard_time": 1730086220,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "粉笔模考",
@@ -2689,6 +2753,14 @@
       "onboard_time": 1729995558,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "国际宇航科学院院士陈世年逝世",
+      "onboard_time": 1730085737,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156383,
@@ -2859,6 +2931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145271,
+      "num": 145271,
+      "word": "崔永熙第7位NBA正式登场中国球员",
+      "onboard_time": 1730084298,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144565,
       "num": 144565,
       "word": "薛之谦周深合作舞台",
@@ -2913,6 +2993,14 @@
       "onboard_time": 1730033118,
       "rank": 41,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 141176,
+      "num": 141176,
+      "word": "刘浩存文淇嘉人封面",
+      "onboard_time": 1730084898,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 141062,
@@ -3051,12 +3139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135419,
-      "num": 135419,
-      "word": "白百何新剧 35岁女性职场困境",
-      "onboard_time": 1730084538,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 134976,
+      "num": 134976,
+      "word": "库里受伤",
+      "onboard_time": 1730086339,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 134800,
@@ -3091,12 +3179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133216,
+      "num": 133216,
+      "word": "曾为导弹事业长期隐姓埋名的他走了",
+      "onboard_time": 1730086279,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132328,
       "num": 132328,
       "word": "审判大梦归离",
       "onboard_time": 1729946000,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131740,
+      "num": 131740,
+      "word": "小米15系列12GB内存起跳",
+      "onboard_time": 1730085858,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 131644,
@@ -3403,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112757,
+      "num": 1387530,
+      "word": "中式美学与秋景的适配度",
+      "onboard_time": 1730085377,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112152,
       "num": 112152,
       "word": "林孝埈蒙特利尔站一银一铜",
@@ -3473,14 +3585,6 @@
       "onboard_time": 1730018838,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108109,
-      "num": 108109,
-      "word": "崔永熙第7位NBA正式登场中国球员",
-      "onboard_time": 1730084298,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 107964,
@@ -3908,7 +4012,7 @@
     },
     {
       "raw_hot": 42835,
-      "num": 308497,
+      "num": 504639,
       "word": "扒一扒美国两党都在回避的军费问题",
       "onboard_time": 1730084838,
       "rank": 14,
@@ -3945,6 +4049,14 @@
       "onboard_time": 1730049434,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40919,
+      "num": 130253,
+      "word": "中国混动打破吉尼斯续航世界纪录",
+      "onboard_time": 1730086279,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 40878,
@@ -4099,14 +4211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26828,
-      "num": 26828,
-      "word": "恋与深空",
-      "onboard_time": 1729968793,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 26296,
       "num": 26296,
       "word": "短道速滑世界巡回赛",
@@ -4145,6 +4249,14 @@
       "onboard_time": 1730031619,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23743,
+      "num": 262412,
+      "word": "贾冰的AI助理还是太全面了",
+      "onboard_time": 1730084358,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 23077,
@@ -4267,14 +4379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12813,
-      "num": 169277,
-      "word": "贾冰的AI助理还是太全面了",
-      "onboard_time": 1730084358,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 12248,
       "num": 45811,
       "word": "郭刚堂之子被拐案将二审宣判",
@@ -4354,6 +4458,9 @@
     },
     {
       "word": "#三个维度看习近平喀山之行#"
+    },
+    {
+      "word": "#与总书记同行传承长征精神#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730086441859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2360311,
+        "num": 2360311,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1415704,
+        "num": 1415704,
+        "word": "员工抑郁口头请病假被按旷工开除",
+        "onboard_time": 1730084418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 1387530,
+        "word": "中式美学与秋景的适配度",
+        "onboard_time": 1730085377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384934,
+        "num": 1384934,
+        "word": "邵兵儿子",
+        "onboard_time": 1730083517,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824657,
+        "num": 824657,
+        "word": "雷军回应小米15涨价幅度",
+        "onboard_time": 1730083338,
+        "rank": 4,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 792363,
+        "num": 792363,
+        "word": "卡车撞以色列公交站司机已被打死",
+        "onboard_time": 1730080218,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 769368,
+        "num": 769368,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724798,
+        "num": 724798,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609907,
+        "num": 609907,
+        "word": "韩束 赵今麦",
+        "onboard_time": 1730083998,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153414,
+        "num": 605514,
+        "word": "景区禁止游客自带食物却翻倍自卖",
+        "onboard_time": 1730083218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604347,
+        "num": 604347,
+        "word": "大梦归离豆瓣除名郭敬明",
+        "onboard_time": 1730081717,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585138,
+        "num": 585138,
+        "word": "中国选手颜值惊艳韩国人",
+        "onboard_time": 1730081717,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575706,
+        "num": 575706,
+        "word": "韩安冉送宋浩然22岁生日惊喜",
+        "onboard_time": 1730085438,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 510224,
+        "num": 510224,
+        "word": "大量网友收到兵器装备集团上新短信",
+        "onboard_time": 1730085078,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29598,
+        "num": 504639,
+        "word": "扒一扒美国两党都在回避的军费问题",
+        "onboard_time": 1730084838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504295,
+        "num": 504295,
+        "word": "闫桉身材",
+        "onboard_time": 1730084238,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382241,
+        "num": 382241,
+        "word": "Faker回应Bin",
+        "onboard_time": 1730078477,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302576,
+        "num": 302576,
+        "word": "朝鲜强调已对韩国军方发出最后警告",
+        "onboard_time": 1730072717,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292083,
+        "num": 292083,
+        "word": "国乒法国冠军赛0冠收场",
+        "onboard_time": 1730072477,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266606,
+        "num": 266606,
+        "word": "烧伤妈妈情况不好",
+        "onboard_time": 1730040141,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23743,
+        "num": 262412,
+        "word": "贾冰的AI助理还是太全面了",
+        "onboard_time": 1730084358,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387666,
+        "num": 255350,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344172,
+        "num": 252273,
+        "word": "沈腾提词器的字比别人大",
+        "onboard_time": 1730081477,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295324,
+        "num": 245750,
+        "word": "26楼扔猫外卖员已被平台永久拉黑",
+        "onboard_time": 1730074340,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283734,
+        "num": 235432,
+        "word": "为什么许多商场一楼没有厕所",
+        "onboard_time": 1730080877,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281026,
+        "num": 232750,
+        "word": "周震南 百度这么写没通知我啊",
+        "onboard_time": 1730072237,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225983,
+        "num": 225983,
+        "word": "尤长靖从9到1走了6年",
+        "onboard_time": 1730081117,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210287,
+        "num": 210287,
+        "word": "16岁女生第3次夺女子标枪世界冠军",
+        "onboard_time": 1730083818,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201719,
+        "num": 201719,
+        "word": "恋与深空",
+        "onboard_time": 1730086038,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189376,
+        "num": 189376,
+        "word": "邵子恒好帅",
+        "onboard_time": 1730080338,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181335,
+        "num": 181335,
+        "word": "工作室回应赵丽颖提名最佳女配",
+        "onboard_time": 1730085138,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180139,
+        "num": 180139,
+        "word": "十四年前的麦琳",
+        "onboard_time": 1730086339,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179632,
+        "num": 179632,
+        "word": "快船vs勇士",
+        "onboard_time": 1730083638,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174126,
+        "num": 174126,
+        "word": "有种安全感叫中国军人来了",
+        "onboard_time": 1730078838,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172596,
+        "num": 172596,
+        "word": "白百何新剧 35岁女性职场困境",
+        "onboard_time": 1730084538,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171439,
+        "num": 171439,
+        "word": "长沙一公厕疑有人冲洗臭豆腐原材料",
+        "onboard_time": 1730061851,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169282,
+        "num": 169282,
+        "word": "被老祖宗的顶级审美震撼到",
+        "onboard_time": 1730074999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160839,
+        "num": 160839,
+        "word": "张萌说哭徐艺真",
+        "onboard_time": 1730086220,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156747,
+        "num": 156747,
+        "word": "国际宇航科学院院士陈世年逝世",
+        "onboard_time": 1730085737,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145271,
+        "num": 145271,
+        "word": "崔永熙第7位NBA正式登场中国球员",
+        "onboard_time": 1730084298,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143912,
+        "num": 143912,
+        "word": "塔斯汀门店回应汉堡肉是生的",
+        "onboard_time": 1730041881,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143715,
+        "num": 143715,
+        "word": "国乒新秀与同龄高手起点不同",
+        "onboard_time": 1730083038,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141176,
+        "num": 141176,
+        "word": "刘浩存文淇嘉人封面",
+        "onboard_time": 1730084898,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141169,
+        "num": 141169,
+        "word": "TheShy说Chovy可惜",
+        "onboard_time": 1730080877,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134976,
+        "num": 134976,
+        "word": "库里受伤",
+        "onboard_time": 1730086339,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133216,
+        "num": 133216,
+        "word": "曾为导弹事业长期隐姓埋名的他走了",
+        "onboard_time": 1730086279,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131740,
+        "num": 131740,
+        "word": "小米15系列12GB内存起跳",
+        "onboard_time": 1730085858,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40919,
+        "num": 130253,
+        "word": "中国混动打破吉尼斯续航世界纪录",
+        "onboard_time": 1730086279,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128843,
+        "num": 128843,
+        "word": "日本执政联盟失去众议院过半席位",
+        "onboard_time": 1730080579,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "飞天茅台价格跌近2000元",
+        "onboard_time": 1730075058,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}
