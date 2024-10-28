@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730094030677,
+  "endTime": 1730097152984,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -161,6 +161,14 @@
       "onboard_time": 1729170383,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 3910840,
+      "num": 3910840,
+      "word": "李小龙模仿者遭向佐扇巴掌",
+      "onboard_time": 1730093239,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3863784,
@@ -2667,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1574809,
+      "num": 532945,
+      "word": "翁青雅哭了",
+      "onboard_time": 1730094618,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1574417,
       "num": 737011,
       "word": "中方警告一场全面战争一触即发",
@@ -4379,6 +4395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1227600,
+      "num": 414130,
+      "word": "翁青雅 孙乐言",
+      "onboard_time": 1730095818,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1226980,
       "num": 1226980,
       "word": "为啥莫名其妙就开了先用后付",
@@ -4907,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1151764,
+      "num": 456553,
+      "word": "向佐回应打脸李小龙模仿者",
+      "onboard_time": 1730094978,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1150650,
       "num": 456690,
       "word": "牛 我同意了吗你就拍",
@@ -5313,14 +5345,6 @@
       "onboard_time": 1729591339,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103293,
-      "num": 434483,
-      "word": "李小龙模仿者遭向佐扇巴掌",
-      "onboard_time": 1730093239,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1103125,
@@ -6299,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012389,
+      "num": 495724,
+      "word": "一男一女在上海中环上停车调换座位",
+      "onboard_time": 1730094018,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1010561,
       "num": 254886,
       "word": "女子拔插头被电伤截肢",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1728215120,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 987420,
+      "num": 257271,
+      "word": "王楚钦拟聘北京一校队运动员岗",
+      "onboard_time": 1730092878,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 987063,
@@ -7913,6 +7953,14 @@
       "onboard_time": 1728473480,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 872251,
+      "num": 401598,
+      "word": "奥斯卡孙乐言亲了",
+      "onboard_time": 1730094497,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 872130,
@@ -9843,6 +9891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757182,
+      "num": 398850,
+      "word": "小红书 审判麦琳",
+      "onboard_time": 1730095578,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756959,
       "num": 756959,
       "word": "鸿蒙版微信",
@@ -10568,14 +10624,6 @@
       "word": "马龙排名",
       "onboard_time": 1728355940,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 723929,
-      "num": 257271,
-      "word": "王楚钦拟聘北京一校队运动员岗",
-      "onboard_time": 1730092878,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -13505,6 +13553,14 @@
       "onboard_time": 1729787238,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598012,
+      "num": 233287,
+      "word": "易烊千玺在拍影版边水往事",
+      "onboard_time": 1730095158,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 596916,
@@ -18987,6 +19043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429429,
+      "num": 230798,
+      "word": "花少6豆瓣评分跌至3.9",
+      "onboard_time": 1730095639,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429393,
       "num": 1094430,
       "word": "三次台岛周边军演示意图对比",
@@ -19585,6 +19649,14 @@
       "onboard_time": 1729083202,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 414702,
+      "num": 414702,
+      "word": "国安部揭露境外间谍惯用伎俩",
+      "onboard_time": 1730091259,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 414688,
@@ -20347,14 +20419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395504,
-      "num": 395504,
-      "word": "国安部揭露境外间谍惯用伎俩",
-      "onboard_time": 1730091259,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 395462,
       "num": 313573,
       "word": "国防部警示台独分子",
@@ -20448,6 +20512,14 @@
       "word": "家属回应乡长下乡被村民刺伤身亡",
       "onboard_time": 1729370291,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393484,
+      "num": 393484,
+      "word": "三亚全市中小学停课",
+      "onboard_time": 1730094497,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -21163,6 +21235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377308,
+      "num": 230348,
+      "word": "泰国机场偶遇刘亦菲",
+      "onboard_time": 1730096238,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377260,
       "num": 312928,
       "word": "我是娱乐圈普普通通小美女",
@@ -21745,6 +21825,14 @@
       "onboard_time": 1728352699,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367979,
+      "num": 367979,
+      "word": "南京一野猪误闯星级酒店被玻璃门硬控",
+      "onboard_time": 1730095939,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367699,
@@ -26873,14 +26961,6 @@
       "onboard_time": 1728045859,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289570,
-      "num": 289570,
-      "word": "一男一女在上海中环上停车调换座位",
-      "onboard_time": 1730094018,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289461,
@@ -32025,6 +32105,14 @@
       "onboard_time": 1729601539,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238741,
+      "num": 238741,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1730096478,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 238728,
@@ -44139,6 +44227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182143,
+      "num": 182143,
+      "word": "世界之外",
+      "onboard_time": 1730096238,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182135,
       "num": 182135,
       "word": "外国小姐姐穿上了汉代甲胄",
@@ -45665,6 +45761,14 @@
       "onboard_time": 1728828024,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175867,
+      "num": 462012,
+      "word": "对随意借调干部说不",
+      "onboard_time": 1730092219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175830,
@@ -48491,6 +48595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164761,
+      "num": 164761,
+      "word": "神十九发射在即",
+      "onboard_time": 1730096899,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164755,
       "num": 258657,
       "word": "周雨彤发文告别韩苏",
@@ -50865,6 +50977,14 @@
       "onboard_time": 1729001180,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156146,
+      "num": 156146,
+      "word": "当地回应村支书系爱马仕皮带坐豪车",
+      "onboard_time": 1730096599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156096,
@@ -59259,6 +59379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126506,
+      "num": 126506,
+      "word": "骑车带朋友遇事故朋友把自己告了",
+      "onboard_time": 1730096058,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126439,
       "num": 255912,
       "word": "妈妈来大城市工作比我挣钱还多",
@@ -60107,6 +60235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122913,
+      "num": 122913,
+      "word": "杜海涛 不要在愤怒时做决定",
+      "onboard_time": 1730097139,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122900,
       "num": 132595,
       "word": "男子战火逆行救助数百只失去主人动物",
@@ -60153,6 +60289,14 @@
       "onboard_time": 1729041501,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122750,
+      "num": 119569,
+      "word": "周觅朴灿烈合作曲",
+      "onboard_time": 1730094317,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 122691,
@@ -60761,6 +60905,14 @@
       "onboard_time": 1728105258,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119616,
+      "num": 119616,
+      "word": "日默瓦 樊振东",
+      "onboard_time": 1730097019,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119579,
@@ -64897,14 +65049,6 @@
       "onboard_time": 1730065091,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 101939,
-      "num": 462012,
-      "word": "对随意借调干部说不",
-      "onboard_time": 1730092219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101922,
@@ -70209,6 +70353,14 @@
       "onboard_time": 1728407053,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66294,
+      "num": 411265,
+      "word": "乳腺癌到底会不会遗传",
+      "onboard_time": 1730095338,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66125,
@@ -77955,6 +78107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31251,
+      "num": 236041,
+      "word": "被林依轮歌迷的文案戳中泪点",
+      "onboard_time": 1730096960,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31233,
       "num": 423258,
       "word": "出租车司机带客诈骗专盯外地游客",
@@ -78385,6 +78545,14 @@
       "onboard_time": 1729840878,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29895,
+      "num": 171513,
+      "word": "汪苏泷上海演唱会",
+      "onboard_time": 1730095818,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 29886,
@@ -79099,6 +79267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27421,
+      "num": 304697,
+      "word": "南极科考的难度有多大",
+      "onboard_time": 1730092219,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27342,
       "num": 37124,
       "word": "刀郎 南京",
@@ -79617,6 +79793,14 @@
       "onboard_time": 1728653120,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25685,
+      "num": 393702,
+      "word": "果味电子烟借雾化器外衣重生",
+      "onboard_time": 1730096117,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25677,
@@ -81497,14 +81681,6 @@
       "onboard_time": 1727944279,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 18724,
-      "num": 304697,
-      "word": "南极科考的难度有多大",
-      "onboard_time": 1730092219,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18680,

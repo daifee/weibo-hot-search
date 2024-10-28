@@ -1,7 +1,15 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730094030677,
+  "endTime": 1730097152984,
   "band_list": [
+    {
+      "raw_hot": 3910840,
+      "num": 3910840,
+      "word": "李小龙模仿者遭向佐扇巴掌",
+      "onboard_time": 1730093239,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3122104,
       "num": 3122104,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1574809,
+      "num": 532945,
+      "word": "翁青雅哭了",
+      "onboard_time": 1730094618,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1573960,
       "num": 1573960,
       "word": "再见爱人4最应该离婚的一对",
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1227600,
+      "num": 414130,
+      "word": "翁青雅 孙乐言",
+      "onboard_time": 1730095818,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1203717,
       "num": 1203717,
       "word": "JDG官宣Ruler离队",
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1151764,
+      "num": 456553,
+      "word": "向佐回应打脸李小龙模仿者",
+      "onboard_time": 1730094978,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1138644,
       "num": 755115,
       "word": "大量网友收到兵器装备集团上新短信",
@@ -329,14 +361,6 @@
       "onboard_time": 1730036119,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1103293,
-      "num": 434483,
-      "word": "李小龙模仿者遭向佐扇巴掌",
-      "onboard_time": 1730093239,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1091100,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012389,
+      "num": 495724,
+      "word": "一男一女在上海中环上停车调换座位",
+      "onboard_time": 1730094018,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003206,
       "num": 1003206,
       "word": "卡车撞以色列公交站司机已被打死",
@@ -393,6 +425,14 @@
       "onboard_time": 1729990219,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 987420,
+      "num": 257271,
+      "word": "王楚钦拟聘北京一校队运动员岗",
+      "onboard_time": 1730092878,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 972704,
@@ -491,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 872251,
+      "num": 401598,
+      "word": "奥斯卡孙乐言亲了",
+      "onboard_time": 1730094497,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861114,
       "num": 861114,
       "word": "英国一学生宿舍产子锁行李箱致死",
@@ -571,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757182,
+      "num": 398850,
+      "word": "小红书 审判麦琳",
+      "onboard_time": 1730095578,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733515,
       "num": 1117362,
       "word": "金鸡 提名",
@@ -585,14 +641,6 @@
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 723929,
-      "num": 257271,
-      "word": "王楚钦拟聘北京一校队运动员岗",
-      "onboard_time": 1730092878,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 710158,
@@ -753,6 +801,14 @@
       "onboard_time": 1730017578,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 598012,
+      "num": 233287,
+      "word": "易烊千玺在拍影版边水往事",
+      "onboard_time": 1730095158,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 594383,
@@ -1131,6 +1187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 429429,
+      "num": 230798,
+      "word": "花少6豆瓣评分跌至3.9",
+      "onboard_time": 1730095639,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421373,
       "num": 421373,
       "word": "波音把宇航员送太空回不来要撂挑子",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1730013679,
       "rank": 14,
       "category": "电影,电竞"
+    },
+    {
+      "raw_hot": 414702,
+      "num": 414702,
+      "word": "国安部揭露境外间谍惯用伎俩",
+      "onboard_time": 1730091259,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 408248,
@@ -1203,20 +1275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395504,
-      "num": 395504,
-      "word": "国安部揭露境外间谍惯用伎俩",
-      "onboard_time": 1730091259,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 395065,
       "num": 395065,
       "word": "留几手",
       "onboard_time": 1729996638,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393484,
+      "num": 393484,
+      "word": "三亚全市中小学停课",
+      "onboard_time": 1730094497,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391040,
@@ -1259,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377308,
+      "num": 230348,
+      "word": "泰国机场偶遇刘亦菲",
+      "onboard_time": 1730096238,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375835,
       "num": 312527,
       "word": "带牙套后牙齿可能发生的变化",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1730034079,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 367979,
+      "num": 367979,
+      "word": "南京一野猪误闯星级酒店被玻璃门硬控",
+      "onboard_time": 1730095939,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366938,
@@ -1667,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289570,
-      "num": 289570,
-      "word": "一男一女在上海中环上停车调换座位",
-      "onboard_time": 1730094018,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288439,
       "num": 288439,
       "word": "谢霆锋陈伟霆首次合体封面",
@@ -2001,6 +2081,14 @@
       "onboard_time": 1729958899,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238741,
+      "num": 238741,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1730096478,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 238039,
@@ -2675,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182143,
+      "num": 182143,
+      "word": "世界之外",
+      "onboard_time": 1730096238,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181711,
       "num": 181711,
       "word": "还得看詹姆斯",
@@ -2777,6 +2873,14 @@
       "onboard_time": 1730084298,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175867,
+      "num": 462012,
+      "word": "对随意借调干部说不",
+      "onboard_time": 1730092219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175708,
@@ -2931,6 +3035,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 164761,
+      "num": 164761,
+      "word": "神十九发射在即",
+      "onboard_time": 1730096899,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164602,
       "num": 604794,
       "word": "日首相石破茂称不会辞职",
@@ -3065,6 +3177,14 @@
       "onboard_time": 1730025438,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156146,
+      "num": 156146,
+      "word": "当地回应村支书系爱马仕皮带坐豪车",
+      "onboard_time": 1730096599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155193,
@@ -3627,6 +3747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126506,
+      "num": 126506,
+      "word": "骑车带朋友遇事故朋友把自己告了",
+      "onboard_time": 1730096058,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "Bin扔衣服",
@@ -3673,6 +3801,22 @@
       "onboard_time": 1730048176,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122913,
+      "num": 122913,
+      "word": "杜海涛 不要在愤怒时做决定",
+      "onboard_time": 1730097139,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122750,
+      "num": 119569,
+      "word": "周觅朴灿烈合作曲",
+      "onboard_time": 1730094317,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 122482,
@@ -3729,6 +3873,14 @@
       "onboard_time": 1729946599,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119616,
+      "num": 119616,
+      "word": "日默瓦 樊振东",
+      "onboard_time": 1730097019,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119453,
@@ -3995,14 +4147,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 101939,
-      "num": 462012,
-      "word": "对随意借调干部说不",
-      "onboard_time": 1730092219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101373,
       "num": 101373,
       "word": "朱雨玲复出首个冠军",
@@ -4176,6 +4320,14 @@
       "word": "代炒菜会在菜市场普及吗",
       "onboard_time": 1730012417,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66294,
+      "num": 411265,
+      "word": "乳腺癌到底会不会遗传",
+      "onboard_time": 1730095338,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4515,6 +4667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31251,
+      "num": 236041,
+      "word": "被林依轮歌迷的文案戳中泪点",
+      "onboard_time": 1730096960,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30807,
       "num": 157381,
       "word": "以色列称袭击前未告知伊朗",
@@ -4555,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29895,
+      "num": 171513,
+      "word": "汪苏泷上海演唱会",
+      "onboard_time": 1730095818,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29721,
       "num": 259592,
       "word": "眼红巴黎德国考虑申奥",
@@ -4587,6 +4755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27421,
+      "num": 304697,
+      "word": "南极科考的难度有多大",
+      "onboard_time": 1730092219,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27003,
       "num": 383938,
       "word": "环卫工捡到15万元婉拒失主酬谢金",
@@ -4601,6 +4777,14 @@
       "onboard_time": 1729971792,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25685,
+      "num": 393702,
+      "word": "果味电子烟借雾化器外衣重生",
+      "onboard_time": 1730096117,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25029,
@@ -4705,14 +4889,6 @@
       "onboard_time": 1729962316,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 18724,
-      "num": 304697,
-      "word": "南极科考的难度有多大",
-      "onboard_time": 1730092219,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18159,
