@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730097152984,
+  "endTime": 1730097964358,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1343485,
+      "num": 414130,
+      "word": "翁青雅 孙乐言",
+      "onboard_time": 1730095818,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1339659,
       "num": 1339659,
       "word": "钱天一vs张本美和",
@@ -281,14 +289,6 @@
       "onboard_time": 1730038581,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1227600,
-      "num": 414130,
-      "word": "翁青雅 孙乐言",
-      "onboard_time": 1730095818,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1203717,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 865438,
+      "num": 398850,
+      "word": "小红书 审判麦琳",
+      "onboard_time": 1730095578,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861114,
       "num": 861114,
       "word": "英国一学生宿舍产子锁行李箱致死",
@@ -617,14 +625,6 @@
       "onboard_time": 1730019379,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757182,
-      "num": 398850,
-      "word": "小红书 审判麦琳",
-      "onboard_time": 1730095578,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 733515,
@@ -963,6 +963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 514243,
+      "num": 230798,
+      "word": "花少6豆瓣评分跌至3.9",
+      "onboard_time": 1730095639,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513997,
       "num": 310803,
       "word": "LV柜姐事件原配辟谣",
@@ -1187,12 +1195,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 429429,
-      "num": 230798,
-      "word": "花少6豆瓣评分跌至3.9",
-      "onboard_time": 1730095639,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 432148,
+      "num": 432148,
+      "word": "三亚全市中小学停课",
+      "onboard_time": 1730094497,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421373,
@@ -1283,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393484,
-      "num": 393484,
-      "word": "三亚全市中小学停课",
-      "onboard_time": 1730094497,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391040,
       "num": 391040,
       "word": "TXT超话空降",
@@ -1377,6 +1377,14 @@
       "onboard_time": 1730095939,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367648,
+      "num": 238741,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1730096478,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 366938,
@@ -1673,6 +1681,14 @@
       "onboard_time": 1729997719,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302389,
+      "num": 302389,
+      "word": "日默瓦 樊振东",
+      "onboard_time": 1730097019,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 298760,
@@ -2027,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248674,
+      "num": 248674,
+      "word": "当地回应村支书系爱马仕皮带坐豪车",
+      "onboard_time": 1730096599,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246015,
       "num": 246015,
       "word": "饥饿外卖员取餐后秒退单偷4份餐",
@@ -2081,14 +2105,6 @@
       "onboard_time": 1729958899,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238741,
-      "num": 238741,
-      "word": "小米SU7Ultra",
-      "onboard_time": 1730096478,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 238039,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1730041762,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211567,
+      "num": 162739,
+      "word": "杜海涛 不要在愤怒时做决定",
+      "onboard_time": 1730097139,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 210287,
@@ -2763,6 +2787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182597,
+      "num": 267263,
+      "word": "神十九发射在即",
+      "onboard_time": 1730096899,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182143,
       "num": 182143,
       "word": "世界之外",
@@ -3035,14 +3067,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 164761,
-      "num": 164761,
-      "word": "神十九发射在即",
-      "onboard_time": 1730096899,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 164602,
       "num": 604794,
       "word": "日首相石破茂称不会辞职",
@@ -3179,14 +3203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156146,
-      "num": 156146,
-      "word": "当地回应村支书系爱马仕皮带坐豪车",
-      "onboard_time": 1730096599,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "Doinb爆料Ale被开",
@@ -3273,6 +3289,14 @@
       "onboard_time": 1730007138,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149783,
+      "num": 411265,
+      "word": "乳腺癌到底会不会遗传",
+      "onboard_time": 1730095338,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149733,
@@ -3571,6 +3595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134406,
+      "num": 169587,
+      "word": "海南三亚暴雨红色预警",
+      "onboard_time": 1730097079,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134221,
       "num": 411633,
       "word": "Bin和Elk现场观战",
@@ -3803,14 +3835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122913,
-      "num": 122913,
-      "word": "杜海涛 不要在愤怒时做决定",
-      "onboard_time": 1730097139,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122750,
       "num": 119569,
       "word": "周觅朴灿烈合作曲",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1730007319,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122141,
+      "num": 122141,
+      "word": "邵兵一家颜值",
+      "onboard_time": 1730097799,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 121552,
@@ -3873,14 +3905,6 @@
       "onboard_time": 1729946599,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119616,
-      "num": 119616,
-      "word": "日默瓦 樊振东",
-      "onboard_time": 1730097019,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 119453,
@@ -4051,6 +4075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108812,
+      "num": 108812,
+      "word": "魅族撞档小米发布会",
+      "onboard_time": 1730097799,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108567,
       "num": 108567,
       "word": "王者新英雄空空儿首曝",
@@ -4128,6 +4160,14 @@
       "word": "给大熊猫测血压分几步",
       "onboard_time": 1730089040,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104114,
+      "num": 104114,
+      "word": "4名杭州女生高中未过半已被清华录取",
+      "onboard_time": 1730097619,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4251,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78402,
+      "num": 175288,
+      "word": "东京电影节开幕红毯",
+      "onboard_time": 1730097619,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76371,
       "num": 76371,
       "word": "BLG近两年对战LCK胜率",
@@ -4320,14 +4368,6 @@
       "word": "代炒菜会在菜市场普及吗",
       "onboard_time": 1730012417,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66294,
-      "num": 411265,
-      "word": "乳腺癌到底会不会遗传",
-      "onboard_time": 1730095338,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4643,6 +4683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34403,
+      "num": 393702,
+      "word": "果味电子烟借雾化器外衣重生",
+      "onboard_time": 1730096117,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32283,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -4777,14 +4825,6 @@
       "onboard_time": 1729971792,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25685,
-      "num": 393702,
-      "word": "果味电子烟借雾化器外衣重生",
-      "onboard_time": 1730096117,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25029,

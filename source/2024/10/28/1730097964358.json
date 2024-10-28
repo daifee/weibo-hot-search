@@ -1,0 +1,410 @@
+{
+  "runTime": 1730097964358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3124977,
+        "num": 3124977,
+        "word": "李小龙模仿者遭向佐扇巴掌",
+        "onboard_time": 1730093239,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573055,
+        "num": 573055,
+        "word": "员工抑郁口头请病假被按旷工开除",
+        "onboard_time": 1730084418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50263,
+        "num": 486507,
+        "word": "中式美学与秋景的适配度",
+        "onboard_time": 1730085377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1462089,
+        "num": 486256,
+        "word": "翁青雅哭了",
+        "onboard_time": 1730094618,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485737,
+        "num": 485737,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432148,
+        "num": 432148,
+        "word": "三亚全市中小学停课",
+        "onboard_time": 1730094497,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972970,
+        "num": 416075,
+        "word": "向佐回应打脸李小龙模仿者",
+        "onboard_time": 1730094978,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392023,
+        "num": 392023,
+        "word": "国安部揭露境外间谍惯用伎俩",
+        "onboard_time": 1730091259,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1343485,
+        "num": 385762,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730095818,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302389,
+        "num": 302389,
+        "word": "日默瓦 樊振东",
+        "onboard_time": 1730097019,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 865438,
+        "num": 295215,
+        "word": "小红书 审判麦琳",
+        "onboard_time": 1730095578,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827388,
+        "num": 285511,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758980,
+        "num": 277789,
+        "word": "奥斯卡孙乐言亲了",
+        "onboard_time": 1730094497,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182597,
+        "num": 267263,
+        "word": "神十九发射在即",
+        "onboard_time": 1730096899,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640112,
+        "num": 254946,
+        "word": "毓言cp官宣",
+        "onboard_time": 1730089221,
+        "rank": 14,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 248674,
+        "num": 248674,
+        "word": "当地回应村支书系爱马仕皮带坐豪车",
+        "onboard_time": 1730096599,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240814,
+        "num": 240814,
+        "word": "江西上犹奖励三孩家庭1.3万元",
+        "onboard_time": 1730087657,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78402,
+        "num": 175288,
+        "word": "东京电影节开幕红毯",
+        "onboard_time": 1730097619,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34403,
+        "num": 172523,
+        "word": "果味电子烟借雾化器外衣重生",
+        "onboard_time": 1730096117,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172488,
+        "num": 172488,
+        "word": "如韩再次侵犯主权朝方将采取攻势",
+        "onboard_time": 1730089459,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 841174,
+        "num": 171843,
+        "word": "王楚钦拟聘北京一校队运动员岗",
+        "onboard_time": 1730092878,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 674425,
+        "num": 171591,
+        "word": "被虐致死男童生父称没想到这么严重",
+        "onboard_time": 1730090060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514243,
+        "num": 170417,
+        "word": "花少6豆瓣评分跌至3.9",
+        "onboard_time": 1730095639,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134406,
+        "num": 169587,
+        "word": "海南三亚暴雨红色预警",
+        "onboard_time": 1730097079,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503500,
+        "num": 168607,
+        "word": "易烊千玺在拍影版边水往事",
+        "onboard_time": 1730095158,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440862,
+        "num": 167529,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439003,
+        "num": 167165,
+        "word": "高雅CP",
+        "onboard_time": 1730091559,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396840,
+        "num": 166012,
+        "word": "杨笠登上经济学人专题报道版面",
+        "onboard_time": 1730090419,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367648,
+        "num": 164998,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1730096478,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 349302,
+        "num": 164174,
+        "word": "泰国机场偶遇刘亦菲",
+        "onboard_time": 1730096238,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232038,
+        "num": 163306,
+        "word": "特朗普搓澡舞美国走红",
+        "onboard_time": 1730091080,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211567,
+        "num": 162739,
+        "word": "杜海涛 不要在愤怒时做决定",
+        "onboard_time": 1730097139,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205406,
+        "num": 161449,
+        "word": "沈腾一本正经的蹭了所有人镜头",
+        "onboard_time": 1730090600,
+        "rank": 32,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 195860,
+        "num": 161023,
+        "word": "双11预售实付321元直接买仅308",
+        "onboard_time": 1730088919,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160398,
+        "num": 160398,
+        "word": "心动的信号7",
+        "onboard_time": 1730092279,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157802,
+        "num": 157802,
+        "word": "对随意借调干部说不",
+        "onboard_time": 1730092219,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152240,
+        "num": 152240,
+        "word": "女子推理社",
+        "onboard_time": 1730092279,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149783,
+        "num": 149783,
+        "word": "乳腺癌到底会不会遗传",
+        "onboard_time": 1730095338,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147791,
+        "num": 147791,
+        "word": "26楼扔猫外卖员已被平台永久拉黑",
+        "onboard_time": 1730074340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144983,
+        "num": 144983,
+        "word": "邵兵儿子",
+        "onboard_time": 1730083517,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130274,
+        "num": 130274,
+        "word": "邪恶银渐层这个称号可不是吹的",
+        "onboard_time": 1730087719,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123128,
+        "num": 123128,
+        "word": "十四年前的麦琳",
+        "onboard_time": 1730086339,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122141,
+        "num": 122141,
+        "word": "邵兵一家颜值",
+        "onboard_time": 1730097799,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119782,
+        "num": 119782,
+        "word": "中国选手颜值惊艳韩国人",
+        "onboard_time": 1730081717,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119708,
+        "num": 119708,
+        "word": "世界之外",
+        "onboard_time": 1730096238,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109919,
+        "num": 109919,
+        "word": "卡车撞以色列公交站司机已被打死",
+        "onboard_time": 1730080218,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108812,
+        "num": 108812,
+        "word": "魅族撞档小米发布会",
+        "onboard_time": 1730097799,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107136,
+        "num": 107136,
+        "word": "周觅朴灿烈合作曲",
+        "onboard_time": 1730094317,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104114,
+        "num": 104114,
+        "word": "4名杭州女生高中未过半已被清华录取",
+        "onboard_time": 1730097619,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101245,
+        "num": 101245,
+        "word": "Zeus谈决赛对战BLG",
+        "onboard_time": 1730088198,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}

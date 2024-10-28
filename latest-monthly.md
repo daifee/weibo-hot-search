@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 14:32:32
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 14:46:04
 </p>
 </blockquote>
 <p>
@@ -2787,6 +2787,12 @@ T1战胜BLG（热度：1444060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%20%E5%AD%99%E4%B9%90%E8%A8%80%23" target="weibo">
+翁青雅 孙乐言（热度：1343485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%20%E4%BD%A0%E4%B8%8D%E7%81%AB%E8%BF%98%E6%80%AA%E6%88%91%E5%8F%88%E4%B8%8D%E6%98%AF%E6%88%91%E4%B8%8D%E7%81%AB%23" target="weibo">
 杜华 你不火还怪我又不是我不火（热度：1341857）
 </a>
@@ -3305,12 +3311,6 @@ A股开盘近5000只个股下跌（热度：1242137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%89%AE%E6%BC%94%E8%80%85%E8%AF%B4%E8%B6%8A%E6%BC%94%E8%B6%8A%E6%83%AD%E6%84%A7%23" target="weibo">
 张桂梅扮演者说越演越惭愧（热度：1228601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%20%E5%AD%99%E4%B9%90%E8%A8%80%23" target="weibo">
-翁青雅 孙乐言（热度：1227600）
 </a>
 </li>
 
