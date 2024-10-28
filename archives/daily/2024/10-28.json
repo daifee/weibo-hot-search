@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730122956021,
+  "endTime": 1730125332751,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -75,11 +75,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1854274,
-      "num": 1854274,
+      "raw_hot": 1880936,
+      "num": 1880936,
       "word": "警方强烈建议关闭FaceTime",
       "onboard_time": 1730117779,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1823687,
+      "num": 475282,
+      "word": "4岁男孩入住酒店后确诊川崎病",
+      "onboard_time": 1730121021,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -147,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1543582,
-      "num": 422190,
-      "word": "4岁男孩入住酒店后确诊川崎病",
-      "onboard_time": 1730121021,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1525577,
       "num": 517601,
       "word": "欠款百万的大伯被带到威海买海景房",
@@ -185,6 +185,14 @@
       "onboard_time": 1730040741,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344973,
+      "num": 449868,
+      "word": "孙乐言疑似穿假货",
+      "onboard_time": 1730123060,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1343485,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1191662,
+      "num": 422539,
+      "word": "烧伤妈妈受伤皮肤快长好了",
+      "onboard_time": 1730120359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1187083,
       "num": 1187083,
       "word": "赵丽颖东京电影节生图",
@@ -233,14 +249,6 @@
       "onboard_time": 1730094978,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1138971,
-      "num": 422539,
-      "word": "烧伤妈妈受伤皮肤快长好了",
-      "onboard_time": 1730120359,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1138644,
@@ -273,6 +281,14 @@
       "onboard_time": 1730115919,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1020880,
+      "num": 1020880,
+      "word": "一系列生育支持措施来了",
+      "onboard_time": 1730119518,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1012389,
@@ -329,6 +345,14 @@
       "onboard_time": 1730087657,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912311,
+      "num": 912311,
+      "word": "特朗普台上演讲马斯克台下带娃",
+      "onboard_time": 1730122822,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 897572,
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536525,
+      "num": 536525,
+      "word": "侯明昊翻牌一个字回复所有",
+      "onboard_time": 1730120325,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517958,
       "num": 517958,
       "word": "Elk看困了",
@@ -705,14 +737,6 @@
       "onboard_time": 1730037682,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 491086,
-      "num": 384433,
-      "word": "侯明昊翻牌一个字回复所有",
-      "onboard_time": 1730120325,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 488376,
@@ -995,14 +1019,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 352927,
-      "num": 352927,
-      "word": "一系列生育支持措施来了",
-      "onboard_time": 1730119518,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349952,
       "num": 304131,
       "word": "特朗普搓澡舞美国走红",
@@ -1155,6 +1171,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 292885,
+      "num": 292885,
+      "word": "中级会计",
+      "onboard_time": 1730121258,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 292878,
       "num": 292878,
       "word": "肿瘤医院回应拒收商业保险病人",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1730046497,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 280064,
-      "num": 280064,
-      "word": "中级会计",
-      "onboard_time": 1730121258,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 276713,
@@ -1411,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227639,
+      "num": 227639,
+      "word": "白鹿纯白千金风",
+      "onboard_time": 1730125281,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227214,
       "num": 319061,
       "word": "日本执政联盟失去众议院过半席位",
@@ -1483,12 +1507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219146,
+      "num": 219146,
+      "word": "肖战庄达菲版射雕亮相推介会",
+      "onboard_time": 1730124860,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "F勒布伦4比1张本智和",
       "onboard_time": 1730072237,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218465,
+      "num": 218465,
+      "word": "林保怡回应获金鸡奖提名",
+      "onboard_time": 1730122880,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 217351,
@@ -1664,6 +1704,14 @@
       "word": "买房除了凑首付还要交这些钱",
       "onboard_time": 1730044700,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194654,
+      "num": 194654,
+      "word": "被丈夫举报出轨学生女教师已报案",
+      "onboard_time": 1730124021,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1851,12 +1899,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175949,
+      "num": 530807,
+      "word": "你想过为什么买家晒图一模一样吗",
+      "onboard_time": 1730123840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175867,
       "num": 462012,
       "word": "对随意借调干部说不",
       "onboard_time": 1730092219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169848,
+      "num": 185012,
+      "word": "韦礼安徐海乔庆怜直播",
+      "onboard_time": 1730124080,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 169724,
@@ -1955,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153296,
+      "num": 153296,
+      "word": "江西万物皆可做盐果子",
+      "onboard_time": 1730125128,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153260,
       "num": 153260,
       "word": "白宇 粤语烫嘴",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1730043199,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149699,
-      "num": 149699,
-      "word": "林保怡回应获金鸡奖提名",
-      "onboard_time": 1730122880,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 149429,
@@ -2160,14 +2224,6 @@
       "word": "俄罗斯老人为中国男生演奏中国国歌",
       "onboard_time": 1730083757,
       "rank": 29,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 134474,
-      "num": 234599,
-      "word": "特朗普台上演讲马斯克台下带娃",
-      "onboard_time": 1730122822,
-      "rank": 34,
       "category": "国外时政"
     },
     {
@@ -2739,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60048,
+      "num": 386555,
+      "word": "十个勤天什么时候补货",
+      "onboard_time": 1730120600,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60041,
       "num": 60041,
       "word": "一个人真正靠谱的4种表现",
@@ -2963,14 +3027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31093,
-      "num": 386555,
-      "word": "十个勤天什么时候补货",
-      "onboard_time": 1730120600,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30807,
       "num": 157381,
       "word": "以色列称袭击前未告知伊朗",
@@ -3009,6 +3065,14 @@
       "onboard_time": 1730093899,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29432,
+      "num": 191688,
+      "word": "何小鹏称明年智驾将决定行业销量",
+      "onboard_time": 1730124200,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 28864,
@@ -3073,6 +3137,14 @@
       "onboard_time": 1730056392,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20805,
+      "num": 942092,
+      "word": "一展难求的链博会都塞进了啥",
+      "onboard_time": 1730123900,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18159,
@@ -3167,6 +3239,9 @@
     },
     {
       "word": "#中共中央政治局10月28日召开会议#"
+    },
+    {
+      "word": "#元首外交战略引领新典范#"
     }
   ]
 }

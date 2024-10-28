@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 21:42:36
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 22:22:12
 </p>
 </blockquote>
 <p>
@@ -1323,6 +1323,12 @@ ZH9138航班已安全落地（热度：1980352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%ADFaceTime%23" target="weibo">
+警方强烈建议关闭FaceTime（热度：1880936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%BC%BA%E8%BF%AB%E5%8A%A0%E6%B2%99%E7%94%B7%E5%8C%BB%E7%94%9F%E4%B8%80%E4%B8%9D%E4%B8%8D%E6%8C%82%23" target="weibo">
 以军强迫加沙男医生一丝不挂（热度：1876486）
 </a>
@@ -1401,12 +1407,6 @@ ZH9138航班已安全落地（热度：1980352）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%ADFaceTime%23" target="weibo">
-警方强烈建议关闭FaceTime（热度：1854274）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E7%94%B7%E5%AD%90100%E7%B1%B3%E8%9B%99%E6%B3%B3%E9%87%91%E7%89%8C%23" target="weibo">
 覃海洋男子100米蛙泳金牌（热度：1849071）
 </a>
@@ -1445,6 +1445,12 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%A4%96%E5%8D%96%E5%91%98%E6%8A%93%E7%8C%AB%E4%BB%8E26%E6%A5%BC%E6%89%94%E4%B8%8B%E8%87%B4%E6%AD%BB%23" target="weibo">
 长沙一外卖员抓猫从26楼扔下致死（热度：1831417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E5%AD%A9%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%B7%9D%E5%B4%8E%E7%97%85%23" target="weibo">
+4岁男孩入住酒店后确诊川崎病（热度：1823687）
 </a>
 </li>
 
@@ -2157,12 +2163,6 @@ BLG晋级S14四强（热度：1624127）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E5%AD%A9%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%B7%9D%E5%B4%8E%E7%97%85%23" target="weibo">
-4岁男孩入住酒店后确诊川崎病（热度：1543582）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E9%80%80%E6%AC%BE%23" target="weibo">
 双十一退款（热度：1536129）
 </a>
@@ -2843,6 +2843,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E8%AF%B4%E9%BB%84%E7%A3%8A%E7%9A%84%E9%A5%AD%E5%A5%BD%E5%90%83%23" target="weibo">
 刘宪华说黄磊的饭好吃（热度：1346249）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%E7%96%91%E4%BC%BC%E7%A9%BF%E5%81%87%E8%B4%A7%23" target="weibo">
+孙乐言疑似穿假货（热度：1344973）
 </a>
 </li>
 
@@ -3585,6 +3591,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A6%88%E5%A6%88%E5%8F%97%E4%BC%A4%E7%9A%AE%E8%82%A4%E5%BF%AB%E9%95%BF%E5%A5%BD%E4%BA%86%23" target="weibo">
+烧伤妈妈受伤皮肤快长好了（热度：1191662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9%20%E8%83%8C%E5%88%BA%23" target="weibo">
 奥利 背刺（热度：1189609）
 </a>
@@ -3905,12 +3917,6 @@ JDG官宣Ruler离队（热度：1203717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E8%83%9C%E5%A1%94%E5%B8%8C%E5%B0%94%23" target="weibo">
 王楚钦3比0胜塔希尔（热度：1139057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A6%88%E5%A6%88%E5%8F%97%E4%BC%A4%E7%9A%AE%E8%82%A4%E5%BF%AB%E9%95%BF%E5%A5%BD%E4%BA%86%23" target="weibo">
-烧伤妈妈受伤皮肤快长好了（热度：1138971）
 </a>
 </li>
 
@@ -4787,6 +4793,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E8%BF%99%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%88%91%E4%B9%9F%E6%B2%A1%E6%9C%89%E5%A4%B1%E8%B4%A5%23" target="weibo">
 马龙说这场比赛我也没有失败（热度：1021200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%B3%BB%E5%88%97%E7%94%9F%E8%82%B2%E6%94%AF%E6%8C%81%E6%8E%AA%E6%96%BD%E6%9D%A5%E4%BA%86%23" target="weibo">
+一系列生育支持措施来了（热度：1020880）
 </a>
 </li>
 
@@ -5697,6 +5709,12 @@ A2O（热度：913492）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B0%E4%B8%8A%E6%BC%94%E8%AE%B2%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%B0%E4%B8%8B%E5%B8%A6%E5%A8%83%23" target="weibo">
+特朗普台上演讲马斯克台下带娃（热度：912311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%AD%A6%23" target="weibo">
 花学（热度：910988）
 </a>
@@ -5993,24 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B7%AF%E8%BE%B9%E4%BD%AF%E8%A3%85%E6%92%B8%E7%8C%AB%E7%AA%81%E7%84%B6%E5%B0%86%E5%85%B6%E6%91%94%E6%AD%BB%23" target="weibo">
 男子路边佯装撸猫突然将其摔死（热度：883619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E6%B2%99%E6%BA%A2%E5%90%97%23" target="weibo">
-这还是沙溢吗（热度：883085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%84%96%E5%AD%90%E7%BA%B9%E8%BA%AB%23" target="weibo">
-黄圣依脖子纹身（热度：882415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%8B%BF%E5%A5%96%23" target="weibo">
-刘琳什么时候拿奖（热度：882348）
 </a>
 </li>
 
@@ -6695,6 +6695,12 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%8010%E6%9C%8828%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
 #中共中央政治局10月28日召开会议#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E6%88%98%E7%95%A5%E5%BC%95%E9%A2%86%E6%96%B0%E5%85%B8%E8%8C%83%23%23" target="weibo">
+#元首外交战略引领新典范#
 </a>
 </li>
 
