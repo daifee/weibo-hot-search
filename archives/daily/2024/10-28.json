@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730122275066,
+  "endTime": 1730122956021,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1854274,
+      "num": 1854274,
+      "word": "警方强烈建议关闭FaceTime",
+      "onboard_time": 1730117779,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1793258,
       "num": 514460,
       "word": "95后硕士炒股一月狂赚112万",
@@ -96,14 +104,6 @@
       "word": "举报女老师出轨学生丈夫发声",
       "onboard_time": 1730116999,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1724853,
-      "num": 1724853,
-      "word": "警方强烈建议关闭FaceTime",
-      "onboard_time": 1730117779,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1730094618,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1543582,
+      "num": 422190,
+      "word": "4岁男孩入住酒店后确诊川崎病",
+      "onboard_time": 1730121021,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1525577,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1138971,
+      "num": 422539,
+      "word": "烧伤妈妈受伤皮肤快长好了",
+      "onboard_time": 1730120359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138644,
       "num": 755115,
       "word": "大量网友收到兵器装备集团上新短信",
@@ -275,20 +291,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 997802,
+      "num": 424746,
+      "word": "聊缩力",
+      "onboard_time": 1730119039,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 987420,
       "num": 298285,
       "word": "王楚钦拟聘北京一校队运动员岗",
       "onboard_time": 1730092878,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 980734,
-      "num": 424746,
-      "word": "聊缩力",
-      "onboard_time": 1730119039,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 972704,
@@ -387,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 830982,
-      "num": 422539,
-      "word": "烧伤妈妈受伤皮肤快长好了",
-      "onboard_time": 1730120359,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824657,
       "num": 824657,
       "word": "雷军回应小米15涨价幅度",
@@ -403,12 +411,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 812605,
-      "num": 422190,
-      "word": "4岁男孩入住酒店后确诊川崎病",
-      "onboard_time": 1730121021,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 824569,
+      "num": 824569,
+      "word": "芒果综艺 厉害",
+      "onboard_time": 1730119158,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 795248,
@@ -433,14 +441,6 @@
       "onboard_time": 1730110160,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 724774,
-      "num": 724774,
-      "word": "芒果综艺 厉害",
-      "onboard_time": 1730119158,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 711462,
@@ -705,6 +705,14 @@
       "onboard_time": 1730037682,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491086,
+      "num": 384433,
+      "word": "侯明昊翻牌一个字回复所有",
+      "onboard_time": 1730120325,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 488376,
@@ -987,20 +995,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 352927,
+      "num": 352927,
+      "word": "一系列生育支持措施来了",
+      "onboard_time": 1730119518,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349952,
       "num": 304131,
       "word": "特朗普搓澡舞美国走红",
       "onboard_time": 1730091080,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 346780,
-      "num": 346780,
-      "word": "侯明昊翻牌一个字回复所有",
-      "onboard_time": 1730120325,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 344455,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1730032761,
       "rank": 8,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 331414,
-      "num": 331414,
-      "word": "一系列生育支持措施来了",
-      "onboard_time": 1730119518,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330568,
@@ -1595,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200615,
+      "num": 200615,
+      "word": "近30位北大程序员集体对战AI",
+      "onboard_time": 1730122340,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199983,
       "num": 199983,
       "word": "慕容璟和不被爱的才是小三",
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149699,
+      "num": 149699,
+      "word": "林保怡回应获金鸡奖提名",
+      "onboard_time": 1730122880,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149429,
       "num": 149429,
       "word": "朝鲜发布韩国无人机事件侦察结果",
@@ -2144,6 +2160,14 @@
       "word": "俄罗斯老人为中国男生演奏中国国歌",
       "onboard_time": 1730083757,
       "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 134474,
+      "num": 234599,
+      "word": "特朗普台上演讲马斯克台下带娃",
+      "onboard_time": 1730122822,
+      "rank": 34,
       "category": "国外时政"
     },
     {
@@ -2787,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49438,
+      "num": 1123733,
+      "word": "神十九准备就绪",
+      "onboard_time": 1730107400,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44104,
       "num": 519844,
       "word": "去年双11的囤货你用完了吗",
@@ -2875,6 +2907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34917,
+      "num": 420868,
+      "word": "十个勤天推荐的家乡特产全是吃的",
+      "onboard_time": 1730120420,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34870,
       "num": 319859,
       "word": "电影熊出没重启未来定档",
@@ -2920,6 +2960,14 @@
       "word": "被林依轮歌迷的文案戳中泪点",
       "onboard_time": 1730096960,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31093,
+      "num": 386555,
+      "word": "十个勤天什么时候补货",
+      "onboard_time": 1730120600,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2971,22 +3019,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 27976,
-      "num": 420868,
-      "word": "十个勤天推荐的家乡特产全是吃的",
-      "onboard_time": 1730120420,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27795,
-      "num": 1123733,
-      "word": "神十九准备就绪",
-      "onboard_time": 1730107400,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27570,
       "num": 220135,
       "word": "退休继续工作受伤能否享受工伤待遇",
@@ -3025,14 +3057,6 @@
       "onboard_time": 1730107519,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25387,
-      "num": 386555,
-      "word": "十个勤天什么时候补货",
-      "onboard_time": 1730120600,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 24083,

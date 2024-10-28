@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 21:31:15
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 21:42:36
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ ZH9138航班已安全落地（热度：1980352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%ADFaceTime%23" target="weibo">
+警方强烈建议关闭FaceTime（热度：1854274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E7%94%B7%E5%AD%90100%E7%B1%B3%E8%9B%99%E6%B3%B3%E9%87%91%E7%89%8C%23" target="weibo">
 覃海洋男子100米蛙泳金牌（热度：1849071）
 </a>
@@ -1625,12 +1631,6 @@ papi酱问黄圣依杨子是演的还是真的（热度：1817648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B0%83%E6%88%8F%E5%A5%B3%E7%94%9F%E7%94%B7%E5%8F%8B%E4%B8%8A%E5%89%8D%E5%88%B6%E6%AD%A2%E8%A2%AB%E6%89%93%23" target="weibo">
 男子调戏女生男友上前制止被打（热度：1727700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%ADFaceTime%23" target="weibo">
-警方强烈建议关闭FaceTime（热度：1724853）
 </a>
 </li>
 
@@ -2153,6 +2153,12 @@ BLG晋级S14四强（热度：1624127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0%23" target="weibo">
 覃海洋破亚洲纪录夺冠（热度：1544125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E5%AD%A9%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%B7%9D%E5%B4%8E%E7%97%85%23" target="weibo">
+4岁男孩入住酒店后确诊川崎病（热度：1543582）
 </a>
 </li>
 
@@ -3903,6 +3909,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A6%88%E5%A6%88%E5%8F%97%E4%BC%A4%E7%9A%AE%E8%82%A4%E5%BF%AB%E9%95%BF%E5%A5%BD%E4%BA%86%23" target="weibo">
+烧伤妈妈受伤皮肤快长好了（热度：1138971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%BD%91%E5%8F%8B%E6%94%B6%E5%88%B0%E5%85%B5%E5%99%A8%E8%A3%85%E5%A4%87%E9%9B%86%E5%9B%A2%E4%B8%8A%E6%96%B0%E7%9F%AD%E4%BF%A1%23" target="weibo">
 大量网友收到兵器装备集团上新短信（热度：1138644）
 </a>
@@ -4947,6 +4959,12 @@ A股遭遇背刺（热度：998421）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E7%BC%A9%E5%8A%9B%23" target="weibo">
+聊缩力（热度：997802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23K%E6%80%BB%E5%A5%B3%E5%8F%8B%E9%A2%9C%E5%80%BC%23" target="weibo">
 K总女友颜值（热度：997545）
 </a>
@@ -5069,12 +5087,6 @@ Hybe承认BTS音源注水（热度：982139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9D%80%E7%81%AB%23" target="weibo">
 SEVENTEEN演唱会着火（热度：981986）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E7%BC%A9%E5%8A%9B%23" target="weibo">
-聊缩力（热度：980734）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%8B%BF%E5%A5%96%23" target="weibo">
 刘琳什么时候拿奖（热度：882348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%BE%E6%8E%A7%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%B9%BF%E4%B8%9C%E8%9F%91%E8%9E%82%E5%B7%B2%E8%BF%9B%E5%8C%96%23" target="weibo">
-疾控部门回应广东蟑螂已进化（热度：882228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B3%E6%AF%942%E6%9C%AC%E9%9B%85%E6%98%8E%23" target="weibo">
-林诗栋3比2本雅明（热度：880996）
 </a>
 </li>
 
