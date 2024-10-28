@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730087163895,
+  "endTime": 1730089683501,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2086855,
+      "num": 2086855,
+      "word": "员工抑郁口头请病假被按旷工开除",
+      "onboard_time": 1730084418,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1995742,
       "num": 1995742,
       "word": "网曝塔斯汀汉堡吃出生肉",
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1804342,
-      "num": 1804342,
-      "word": "员工抑郁口头请病假被按旷工开除",
-      "onboard_time": 1730084418,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 1698412,
+      "num": 1698412,
+      "word": "花少6 周雨彤",
+      "onboard_time": 1730085499,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1575939,
@@ -49,14 +57,6 @@
       "onboard_time": 1730040741,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1286564,
-      "num": 1286564,
-      "word": "花少6 周雨彤",
-      "onboard_time": 1730085499,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1138644,
@@ -83,12 +83,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 918455,
+      "num": 718281,
+      "word": "毓言cp官宣",
+      "onboard_time": 1730089221,
+      "rank": 6,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 897572,
       "num": 695533,
       "word": "大梦归离豆瓣除名郭敬明",
       "onboard_time": 1730081717,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 846259,
+      "num": 846259,
+      "word": "江西上犹奖励三孩家庭1.3万元",
+      "onboard_time": 1730087657,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 845320,
@@ -139,7 +155,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 615573,
+      "raw_hot": 665554,
       "num": 613953,
       "word": "中国选手颜值惊艳韩国人",
       "onboard_time": 1730081717,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 507158,
-      "num": 270639,
+      "num": 279237,
       "word": "沈腾提词器的字比别人大",
       "onboard_time": 1730081477,
       "rank": 20,
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451048,
+      "num": 345320,
+      "word": "邪恶银渐层这个称号可不是吹的",
+      "onboard_time": 1730087719,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 445543,
       "num": 843237,
       "word": "杜华后悔一个人来看李梦",
@@ -340,11 +364,19 @@
     },
     {
       "raw_hot": 389336,
-      "num": 261699,
+      "num": 281958,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
       "onboard_time": 1730074340,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387233,
+      "num": 387233,
+      "word": "库里受伤",
+      "onboard_time": 1730086339,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 369431,
@@ -443,12 +475,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 298760,
+      "num": 239883,
+      "word": "十四年前的麦琳",
+      "onboard_time": 1730086339,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "雪中飞 成毅",
       "onboard_time": 1730083457,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288439,
+      "num": 288439,
+      "word": "谢霆锋陈伟霆首次合体封面",
+      "onboard_time": 1730089160,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 286684,
@@ -491,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269394,
-      "num": 223710,
-      "word": "十四年前的麦琳",
-      "onboard_time": 1730086339,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 267707,
+      "num": 267707,
+      "word": "Zeus谈决赛对战BLG",
+      "onboard_time": 1730088198,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 262417,
@@ -513,6 +561,22 @@
       "onboard_time": 1730046439,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252959,
+      "num": 252959,
+      "word": "林黛玉 冷月葬花魂",
+      "onboard_time": 1730086639,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 244950,
+      "num": 244950,
+      "word": "白百何新剧 35岁女性职场困境",
+      "onboard_time": 1730084538,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 242460,
@@ -571,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223186,
+      "num": 223186,
+      "word": "祁煜新主线",
+      "onboard_time": 1730088198,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222952,
       "num": 340233,
       "word": "赵丽颖百花飞天东京金鹰金鸡五连击",
@@ -603,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210674,
+      "num": 210674,
+      "word": "双11预售实付321元直接买仅308",
+      "onboard_time": 1730088919,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210287,
       "num": 210287,
       "word": "16岁女生第3次夺女子标枪世界冠军",
       "onboard_time": 1730083818,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202129,
+      "num": 202129,
+      "word": "大梦归离不知死活的幽默感",
+      "onboard_time": 1730087298,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 201549,
@@ -627,12 +715,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196034,
-      "num": 196034,
-      "word": "库里受伤",
-      "onboard_time": 1730086339,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 194846,
+      "num": 194846,
+      "word": "玉米地被藏多枚角铁破坏秋收农机",
+      "onboard_time": 1730084178,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194829,
@@ -659,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181647,
-      "num": 181647,
-      "word": "林黛玉 冷月葬花魂",
-      "onboard_time": 1730086639,
-      "rank": 34,
-      "category": "动漫"
+      "raw_hot": 189520,
+      "num": 189520,
+      "word": "法国总统马克龙祝贺F勒布伦夺冠",
+      "onboard_time": 1730088679,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 181335,
@@ -699,12 +787,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172596,
-      "num": 172596,
-      "word": "白百何新剧 35岁女性职场困境",
-      "onboard_time": 1730084538,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 173528,
+      "num": 173528,
+      "word": "这届职场人是怎样花式午睡的",
+      "onboard_time": 1730089340,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169724,
+      "num": 169724,
+      "word": "海上钢琴师内地重映",
+      "onboard_time": 1730088919,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 167922,
@@ -713,6 +809,14 @@
       "onboard_time": 1730085858,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 164602,
+      "num": 604794,
+      "word": "日首相石破茂称不会辞职",
+      "onboard_time": 1730086639,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 163860,
@@ -771,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148620,
+      "num": 380531,
+      "word": "如韩再次侵犯主权朝方将采取攻势",
+      "onboard_time": 1730089459,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 148240,
       "num": 148240,
       "word": "F勒布伦跳上球台庆祝",
@@ -796,7 +908,7 @@
     },
     {
       "raw_hot": 142176,
-      "num": 142176,
+      "num": 240471,
       "word": "春花焰 慕容璟和十年未束发",
       "onboard_time": 1730083939,
       "rank": 43,
@@ -825,14 +937,6 @@
       "onboard_time": 1730084898,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140240,
-      "num": 140240,
-      "word": "玉米地被藏多枚角铁破坏秋收农机",
-      "onboard_time": 1730084178,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139302,
@@ -1036,7 +1140,7 @@
     },
     {
       "raw_hot": 112757,
-      "num": 1453088,
+      "num": 1832262,
       "word": "中式美学与秋景的适配度",
       "onboard_time": 1730085377,
       "rank": 2,
@@ -1115,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104130,
+      "num": 179763,
+      "word": "给大熊猫测血压分几步",
+      "onboard_time": 1730089040,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103578,
       "num": 103578,
       "word": "杨幂开叉绣花拖尾裙",
@@ -1161,6 +1273,14 @@
       "onboard_time": 1730048535,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95330,
+      "num": 345510,
+      "word": "汪苏泷唱了他的爱",
+      "onboard_time": 1730089519,
+      "rank": 19,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 94118,
@@ -1331,20 +1451,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41890,
-      "num": 604794,
-      "word": "日首相石破茂称不会辞职",
-      "onboard_time": 1730086639,
-      "rank": 9,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 40919,
-      "num": 259868,
+      "num": 377952,
       "word": "中国混动打破吉尼斯续航世界纪录",
       "onboard_time": 1730086279,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38862,
+      "num": 446723,
+      "word": "为什么我们越来越讨厌接电话",
+      "onboard_time": 1730080877,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38604,
+      "num": 274856,
+      "word": "贾冰的AI助理还是太全面了",
+      "onboard_time": 1730084358,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 36033,
@@ -1377,14 +1505,6 @@
       "onboard_time": 1730052853,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29722,
-      "num": 274856,
-      "word": "贾冰的AI助理还是太全面了",
-      "onboard_time": 1730084358,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 27003,

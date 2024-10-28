@@ -1,0 +1,410 @@
+{
+  "runTime": 1730089683501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086855,
+        "num": 2086855,
+        "word": "员工抑郁口头请病假被按旷工开除",
+        "onboard_time": 1730084418,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2019154,
+        "num": 2019154,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76821,
+        "num": 1832262,
+        "word": "中式美学与秋景的适配度",
+        "onboard_time": 1730085377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1698412,
+        "num": 1698412,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846259,
+        "num": 846259,
+        "word": "江西上犹奖励三孩家庭1.3万元",
+        "onboard_time": 1730087657,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720645,
+        "num": 720645,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918455,
+        "num": 718281,
+        "word": "毓言cp官宣",
+        "onboard_time": 1730089221,
+        "rank": 6,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 707207,
+        "num": 707207,
+        "word": "邵兵儿子",
+        "onboard_time": 1730083517,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573511,
+        "num": 573511,
+        "word": "卡车撞以色列公交站司机已被打死",
+        "onboard_time": 1730080218,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38862,
+        "num": 446723,
+        "word": "为什么我们越来越讨厌接电话",
+        "onboard_time": 1730080877,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681446,
+        "num": 433627,
+        "word": "大量网友收到兵器装备集团上新短信",
+        "onboard_time": 1730085078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665554,
+        "num": 427875,
+        "word": "中国选手颜值惊艳韩国人",
+        "onboard_time": 1730081717,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398075,
+        "num": 398075,
+        "word": "韩安冉送宋浩然22岁生日惊喜",
+        "onboard_time": 1730085438,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387233,
+        "num": 387233,
+        "word": "库里受伤",
+        "onboard_time": 1730086339,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148620,
+        "num": 380531,
+        "word": "如韩再次侵犯主权朝方将采取攻势",
+        "onboard_time": 1730089459,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 14006,
+        "num": 377952,
+        "word": "中国混动打破吉尼斯续航世界纪录",
+        "onboard_time": 1730086279,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 377410,
+        "num": 377410,
+        "word": "大梦归离豆瓣除名郭敬明",
+        "onboard_time": 1730081717,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365075,
+        "num": 365075,
+        "word": "韩束 赵今麦",
+        "onboard_time": 1730083998,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349427,
+        "num": 349427,
+        "word": "恋与深空",
+        "onboard_time": 1730086038,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95330,
+        "num": 345510,
+        "word": "汪苏泷唱了他的爱",
+        "onboard_time": 1730089519,
+        "rank": 19,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 451048,
+        "num": 345320,
+        "word": "邪恶银渐层这个称号可不是吹的",
+        "onboard_time": 1730087719,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344950,
+        "num": 344950,
+        "word": "Faker回应Bin",
+        "onboard_time": 1730078477,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322883,
+        "num": 322883,
+        "word": "闫桉身材",
+        "onboard_time": 1730084238,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299826,
+        "num": 299826,
+        "word": "国乒法国冠军赛0冠收场",
+        "onboard_time": 1730072477,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288439,
+        "num": 288439,
+        "word": "谢霆锋陈伟霆首次合体封面",
+        "onboard_time": 1730089160,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 281958,
+        "num": 281958,
+        "word": "26楼扔猫外卖员已被平台永久拉黑",
+        "onboard_time": 1730074340,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279237,
+        "num": 279237,
+        "word": "沈腾提词器的字比别人大",
+        "onboard_time": 1730081477,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267707,
+        "num": 267707,
+        "word": "Zeus谈决赛对战BLG",
+        "onboard_time": 1730088198,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252959,
+        "num": 252959,
+        "word": "林黛玉 冷月葬花魂",
+        "onboard_time": 1730086639,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 244950,
+        "num": 244950,
+        "word": "白百何新剧 35岁女性职场困境",
+        "onboard_time": 1730084538,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90220,
+        "num": 240471,
+        "word": "春花焰 慕容璟和十年未束发",
+        "onboard_time": 1730083939,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298760,
+        "num": 239883,
+        "word": "十四年前的麦琳",
+        "onboard_time": 1730086339,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239212,
+        "num": 239212,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223186,
+        "num": 223186,
+        "word": "祁煜新主线",
+        "onboard_time": 1730088198,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 667272,
+        "num": 220754,
+        "word": "雷军回应小米15涨价幅度",
+        "onboard_time": 1730083338,
+        "rank": 34,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 213398,
+        "num": 213398,
+        "word": "为什么许多商场一楼没有厕所",
+        "onboard_time": 1730080877,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210674,
+        "num": 210674,
+        "word": "双11预售实付321元直接买仅308",
+        "onboard_time": 1730088919,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202129,
+        "num": 202129,
+        "word": "大梦归离不知死活的幽默感",
+        "onboard_time": 1730087298,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194846,
+        "num": 194846,
+        "word": "玉米地被藏多枚角铁破坏秋收农机",
+        "onboard_time": 1730084178,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193345,
+        "num": 193345,
+        "word": "朝鲜强调已对韩国军方发出最后警告",
+        "onboard_time": 1730072717,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193312,
+        "num": 193312,
+        "word": "张萌说哭徐艺真",
+        "onboard_time": 1730086220,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189520,
+        "num": 189520,
+        "word": "法国总统马克龙祝贺F勒布伦夺冠",
+        "onboard_time": 1730088679,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184755,
+        "num": 184755,
+        "word": "景区禁止游客自带食物却翻倍自卖",
+        "onboard_time": 1730083218,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104130,
+        "num": 179763,
+        "word": "给大熊猫测血压分几步",
+        "onboard_time": 1730089040,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178114,
+        "num": 178114,
+        "word": "周震南 百度这么写没通知我啊",
+        "onboard_time": 1730072237,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177366,
+        "num": 177366,
+        "word": "16岁女生第3次夺女子标枪世界冠军",
+        "onboard_time": 1730083818,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173528,
+        "num": 173528,
+        "word": "这届职场人是怎样花式午睡的",
+        "onboard_time": 1730089340,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38604,
+        "num": 169960,
+        "word": "贾冰的AI助理还是太全面了",
+        "onboard_time": 1730084358,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169724,
+        "num": 169724,
+        "word": "海上钢琴师内地重映",
+        "onboard_time": 1730088919,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164602,
+        "num": 164602,
+        "word": "日首相石破茂称不会辞职",
+        "onboard_time": 1730086639,
+        "rank": 49,
+        "category": "社会新闻,国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}
