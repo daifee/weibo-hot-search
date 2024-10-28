@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 12:42:24
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 13:22:53
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ k总（热度：2611084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%93%E8%A8%80cp%E5%AE%98%E5%AE%A3%23" target="weibo">
+毓言cp官宣（热度：2556969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%88%A0%E9%99%A4%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%E7%9B%B8%E5%85%B3%E5%8D%9A%E6%96%87%23" target="weibo">
 郭敬明删除大梦归离相关博文（热度：2556085）
 </a>
@@ -995,12 +1001,6 @@ LV柜姐事件原配回应（热度：2148572）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%20%E7%A6%BB%E8%B0%B1%23" target="weibo">
 金鸡 离谱（热度：2102474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%93%E8%A8%80cp%E5%AE%98%E5%AE%A3%23" target="weibo">
-毓言cp官宣（热度：2098837）
 </a>
 </li>
 
@@ -2175,6 +2175,12 @@ TES战胜T1（热度：1515921）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%99%90%E8%87%B4%E6%AD%BB%E7%94%B7%E7%AB%A5%E7%94%9F%E7%88%B6%E7%A7%B0%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B9%88%E4%B8%A5%E9%87%8D%23" target="weibo">
+被虐致死男童生父称没想到这么严重（热度：1514204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%B2%A1%E5%8F%91%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8A%23" target="weibo">
 你好星期六没发下期预告（热度：1512094）
 </a>
@@ -2651,6 +2657,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%9424%E5%85%83%E5%9D%90%E5%95%86%E5%8A%A1%E5%BA%A7%E9%80%8155%E5%85%83%E9%A5%AD%E9%A3%9F%23" target="weibo">
 12306回应24元坐商务座送55元饭食（热度：1362299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%9B%85CP%23" target="weibo">
+高雅CP（热度：1362150）
 </a>
 </li>
 
@@ -5883,6 +5895,12 @@ LNG战胜BLG（热度：897693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E9%9F%A9%E5%86%8D%E6%AC%A1%E4%BE%B5%E7%8A%AF%E4%B8%BB%E6%9D%83%E6%9C%9D%E6%96%B9%E5%B0%86%E9%87%87%E5%8F%96%E6%94%BB%E5%8A%BF%23" target="weibo">
+如韩再次侵犯主权朝方将采取攻势（热度：874980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%8B%8D%E6%91%84%E5%9F%BA%E5%9C%B0%E4%BA%BA%E5%8E%BB%E6%88%BF%E7%A9%BA%23" target="weibo">
 东北雨姐拍摄基地人去房空（热度：874322）
 </a>
@@ -5993,24 +6011,6 @@ whiplash 吒味十足（热度：872043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%86%8D%E5%BA%A6%E5%91%BC%E5%96%8A%E8%B6%85%E5%A5%B3%E5%BF%AB%E5%A5%B3%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
 何炅再度呼喊超女快女的名字（热度：867764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E6%B2%B3%E9%81%93%E7%8E%B0%E6%B5%AE%E5%B0%B8%23" target="weibo">
-成都一河道现浮尸（热度：866306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B%23" target="weibo">
-国乒女团亚锦赛亚军（热度：865401）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%B0%84%E5%B9%B2%E7%BB%86%E8%83%9E%E9%AA%97%E5%B1%80%23" target="weibo">
-央视曝光免费注射干细胞骗局（热度：865299）
 </a>
 </li>
 

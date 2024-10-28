@@ -1,0 +1,410 @@
+{
+  "runTime": 1730092973800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556969,
+        "num": 2556969,
+        "word": "毓言cp官宣",
+        "onboard_time": 1730089221,
+        "rank": 0,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 1249051,
+        "num": 1249051,
+        "word": "员工抑郁口头请病假被按旷工开除",
+        "onboard_time": 1730084418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62201,
+        "num": 985214,
+        "word": "中式美学与秋景的适配度",
+        "onboard_time": 1730085377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1399608,
+        "num": 931170,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874980,
+        "num": 874980,
+        "word": "如韩再次侵犯主权朝方将采取攻势",
+        "onboard_time": 1730089459,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 645832,
+        "num": 645832,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395367,
+        "num": 641272,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1362150,
+        "num": 624238,
+        "word": "高雅CP",
+        "onboard_time": 1730091559,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603880,
+        "num": 603880,
+        "word": "江西上犹奖励三孩家庭1.3万元",
+        "onboard_time": 1730087657,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101939,
+        "num": 451668,
+        "word": "对随意借调干部说不",
+        "onboard_time": 1730092219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813577,
+        "num": 450336,
+        "word": "杨笠登上经济学人专题报道版面",
+        "onboard_time": 1730090419,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447035,
+        "num": 447035,
+        "word": "邵兵儿子",
+        "onboard_time": 1730083517,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395504,
+        "num": 395504,
+        "word": "国安部揭露境外间谍惯用伎俩",
+        "onboard_time": 1730091259,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364426,
+        "num": 364426,
+        "word": "心动的信号7",
+        "onboard_time": 1730092279,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355146,
+        "num": 355146,
+        "word": "韩安冉送宋浩然22岁生日惊喜",
+        "onboard_time": 1730085438,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 331276,
+        "num": 331276,
+        "word": "卡车撞以色列公交站司机已被打死",
+        "onboard_time": 1730080218,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 327611,
+        "num": 327611,
+        "word": "林黛玉 冷月葬花魂",
+        "onboard_time": 1730086639,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24083,
+        "num": 320160,
+        "word": "一起听听陕北的壮阔之声",
+        "onboard_time": 1730091080,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 315979,
+        "num": 315979,
+        "word": "中国选手颜值惊艳韩国人",
+        "onboard_time": 1730081717,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252495,
+        "num": 315757,
+        "word": "大梦归离豆瓣除名郭敬明",
+        "onboard_time": 1730081717,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1514204,
+        "num": 313294,
+        "word": "被虐致死男童生父称没想到这么严重",
+        "onboard_time": 1730090060,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359622,
+        "num": 311541,
+        "word": "双11预售实付321元直接买仅308",
+        "onboard_time": 1730088919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98349,
+        "num": 309888,
+        "word": "汪苏泷跳了APT",
+        "onboard_time": 1730088140,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 342542,
+        "num": 308631,
+        "word": "邪恶银渐层这个称号可不是吹的",
+        "onboard_time": 1730087719,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335592,
+        "num": 307287,
+        "word": "哪些信号暗示男性健康问题",
+        "onboard_time": 1730090840,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15860,
+        "num": 304697,
+        "word": "南极科考的难度有多大",
+        "onboard_time": 1730092219,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304131,
+        "num": 304131,
+        "word": "特朗普搓澡舞美国走红",
+        "onboard_time": 1730091080,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294967,
+        "num": 294967,
+        "word": "沈腾一本正经的蹭了所有人镜头",
+        "onboard_time": 1730090600,
+        "rank": 27,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 257806,
+        "num": 257806,
+        "word": "26楼扔猫外卖员已被平台永久拉黑",
+        "onboard_time": 1730074340,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33189,
+        "num": 231069,
+        "word": "大梦归离官配好嗑",
+        "onboard_time": 1730092940,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229427,
+        "num": 229427,
+        "word": "大量网友收到兵器装备集团上新短信",
+        "onboard_time": 1730085078,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225996,
+        "num": 225996,
+        "word": "沈腾提词器的字比别人大",
+        "onboard_time": 1730081477,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202672,
+        "num": 202672,
+        "word": "十四年前的麦琳",
+        "onboard_time": 1730086339,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192100,
+        "num": 192100,
+        "word": "王楚钦拟聘北京一校队运动员岗",
+        "onboard_time": 1730092878,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183136,
+        "num": 183136,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182613,
+        "num": 182613,
+        "word": "法国总统马克龙祝贺F勒布伦夺冠",
+        "onboard_time": 1730088679,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177761,
+        "num": 177761,
+        "word": "未定事件簿",
+        "onboard_time": 1730092878,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170871,
+        "num": 170871,
+        "word": "为什么许多商场一楼没有厕所",
+        "onboard_time": 1730080877,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160091,
+        "num": 160091,
+        "word": "谢霆锋陈伟霆首次合体封面",
+        "onboard_time": 1730089160,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158649,
+        "num": 158649,
+        "word": "Zeus谈决赛对战BLG",
+        "onboard_time": 1730088198,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153730,
+        "num": 153730,
+        "word": "Faker回应Bin",
+        "onboard_time": 1730078477,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152465,
+        "num": 152465,
+        "word": "恋与深空",
+        "onboard_time": 1730086038,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143323,
+        "num": 143323,
+        "word": "库里受伤",
+        "onboard_time": 1730086339,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143218,
+        "num": 143218,
+        "word": "杨紫时装生日刊特别策划",
+        "onboard_time": 1730090899,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142811,
+        "num": 142811,
+        "word": "春花焰 有情人终成兄妹",
+        "onboard_time": 1730091918,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139853,
+        "num": 139853,
+        "word": "女子推理社",
+        "onboard_time": 1730092279,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135241,
+        "num": 135241,
+        "word": "周震南 百度这么写没通知我啊",
+        "onboard_time": 1730072237,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131822,
+        "num": 131822,
+        "word": "国乒法国冠军赛0冠收场",
+        "onboard_time": 1730072477,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131248,
+        "num": 131248,
+        "word": "闫桉身材",
+        "onboard_time": 1730084238,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125027,
+        "num": 125027,
+        "word": "张萌说哭徐艺真",
+        "onboard_time": 1730086220,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}

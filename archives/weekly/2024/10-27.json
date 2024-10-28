@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730090544885,
+  "endTime": 1730092973800,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -33,6 +33,14 @@
       "onboard_time": 1729996036,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2556969,
+      "num": 2556969,
+      "word": "毓言cp官宣",
+      "onboard_time": 1730089221,
+      "rank": 6,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 2556085,
@@ -107,14 +115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2098837,
-      "num": 2098837,
-      "word": "毓言cp官宣",
-      "onboard_time": 1730089221,
-      "rank": 6,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 2086855,
       "num": 2086855,
       "word": "员工抑郁口头请病假被按旷工开除",
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1514204,
+      "num": 313294,
+      "word": "被虐致死男童生父称没想到这么严重",
+      "onboard_time": 1730090060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1478677,
       "num": 1384890,
       "word": "周雨彤边界感",
@@ -217,6 +225,14 @@
       "onboard_time": 1730040741,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1362150,
+      "num": 624238,
+      "word": "高雅CP",
+      "onboard_time": 1730091559,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1339659,
@@ -451,6 +467,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 874980,
+      "num": 874980,
+      "word": "如韩再次侵犯主权朝方将采取攻势",
+      "onboard_time": 1730089459,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 861114,
       "num": 861114,
       "word": "英国一学生宿舍产子锁行李箱致死",
@@ -489,6 +513,14 @@
       "onboard_time": 1730083338,
       "rank": 10,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 813577,
+      "num": 450336,
+      "word": "杨笠登上经济学人专题报道版面",
+      "onboard_time": 1730090419,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 795248,
@@ -987,14 +1019,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 481646,
-      "num": 481646,
-      "word": "如韩再次侵犯主权朝方将采取攻势",
-      "onboard_time": 1730089459,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 472051,
       "num": 472051,
       "word": "许嵩 我到鸟巢只比唐僧取经少一年",
@@ -1147,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395504,
+      "num": 395504,
+      "word": "国安部揭露境外间谍惯用伎俩",
+      "onboard_time": 1730091259,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 395065,
       "num": 395065,
       "word": "留几手",
@@ -1235,12 +1267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364426,
+      "num": 364426,
+      "word": "心动的信号7",
+      "onboard_time": 1730092279,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363997,
       "num": 363997,
       "word": "程潇白色花朵立体裙",
       "onboard_time": 1730023938,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359622,
+      "num": 311541,
+      "word": "双11预售实付321元直接买仅308",
+      "onboard_time": 1730088919,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357017,
@@ -1291,14 +1339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 347362,
-      "num": 302507,
-      "word": "双11预售实付321元直接买仅308",
-      "onboard_time": 1730088919,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345073,
       "num": 345073,
       "word": "余华英丈夫越狱后多次拐卖儿童",
@@ -1323,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335592,
+      "num": 307287,
+      "word": "哪些信号暗示男性健康问题",
+      "onboard_time": 1730090840,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 334395,
       "num": 334395,
       "word": "央视曝网店刷好评套路",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1730026398,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327611,
+      "num": 327611,
+      "word": "林黛玉 冷月葬花魂",
+      "onboard_time": 1730086639,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 327163,
@@ -1467,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304131,
+      "num": 304131,
+      "word": "特朗普搓澡舞美国走红",
+      "onboard_time": 1730091080,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 303794,
       "num": 241170,
       "word": "睡眠不足时身体有什么变化",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1730083457,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294967,
+      "num": 294967,
+      "word": "沈腾一本正经的蹭了所有人镜头",
+      "onboard_time": 1730090600,
+      "rank": 27,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 294372,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1730046617,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276565,
-      "num": 276565,
-      "word": "林黛玉 冷月葬花魂",
-      "onboard_time": 1730086639,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 276432,
@@ -2435,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192100,
+      "num": 192100,
+      "word": "王楚钦拟聘北京一校队运动员岗",
+      "onboard_time": 1730092878,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191956,
       "num": 191956,
       "word": "16岁女孩决定重启人生",
@@ -2497,14 +2569,6 @@
       "onboard_time": 1730041220,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186153,
-      "num": 186153,
-      "word": "杨笠登上经济学人专题报道版面",
-      "onboard_time": 1730090419,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 185655,
@@ -2659,20 +2723,20 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 177761,
+      "num": 177761,
+      "word": "未定事件簿",
+      "onboard_time": 1730092878,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177501,
       "num": 177501,
       "word": "郑钦文网球生涯第5冠",
       "onboard_time": 1730008099,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177285,
-      "num": 312099,
-      "word": "被虐致死男童生父称没想到这么严重",
-      "onboard_time": 1730090060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176444,
@@ -3139,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143218,
+      "num": 143218,
+      "word": "杨紫时装生日刊特别策划",
+      "onboard_time": 1730090899,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 143073,
       "num": 143073,
       "word": "西汉姆联vs曼联",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1730028737,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142811,
+      "num": 142811,
+      "word": "春花焰 有情人终成兄妹",
+      "onboard_time": 1730091918,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 142176,
@@ -3217,6 +3297,14 @@
       "onboard_time": 1730042301,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139853,
+      "num": 139853,
+      "word": "女子推理社",
+      "onboard_time": 1730092279,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 139454,
@@ -3867,6 +3955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101939,
+      "num": 451668,
+      "word": "对随意借调干部说不",
+      "onboard_time": 1730092219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101373,
       "num": 101373,
       "word": "朱雨玲复出首个冠军",
@@ -3889,6 +3985,14 @@
       "onboard_time": 1729954881,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98349,
+      "num": 309888,
+      "word": "汪苏泷跳了APT",
+      "onboard_time": 1730088140,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 97028,
@@ -4347,6 +4451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33189,
+      "num": 231069,
+      "word": "大梦归离官配好嗑",
+      "onboard_time": 1730092940,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32283,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -4467,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24083,
+      "num": 320160,
+      "word": "一起听听陕北的壮阔之声",
+      "onboard_time": 1730091080,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 23938,
       "num": 23938,
       "word": "美防长称增强兵力部署保护以色列",
@@ -4567,6 +4687,14 @@
       "num": 1161204,
       "word": "1.45万吨桥梁墩体转体有多震撼",
       "onboard_time": 1729946599,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15860,
+      "num": 304697,
+      "word": "南极科考的难度有多大",
+      "onboard_time": 1730092219,
       "rank": 25,
       "category": "社会新闻"
     },
