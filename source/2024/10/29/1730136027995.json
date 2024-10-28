@@ -1,0 +1,410 @@
+{
+  "runTime": 1730136027995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717240,
+        "num": 717240,
+        "word": "严厉打击以寻宝为噱头非法鉴定",
+        "onboard_time": 1730129900,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676557,
+        "num": 676557,
+        "word": "11岁男孩被骗与女主播裸聊",
+        "onboard_time": 1730135235,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2025,
+        "num": 483915,
+        "word": "一展难求的链博会都塞进了啥",
+        "onboard_time": 1730123900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477068,
+        "num": 477068,
+        "word": "我是不是不够好",
+        "onboard_time": 1730131938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390389,
+        "num": 390389,
+        "word": "警方强烈建议关闭FaceTime",
+        "onboard_time": 1730117779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245950,
+        "num": 245950,
+        "word": "金球奖",
+        "onboard_time": 1730128102,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240507,
+        "num": 240507,
+        "word": "赵丽颖辛芷蕾G社生图",
+        "onboard_time": 1730129060,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212702,
+        "num": 212702,
+        "word": "向佐再回应扇巴掌行为",
+        "onboard_time": 1730115919,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208916,
+        "num": 208916,
+        "word": "孙乐言 我现在不是一个普通人了",
+        "onboard_time": 1730110459,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68648,
+        "num": 206294,
+        "word": "央视小编和AI一起为你写了首歌",
+        "onboard_time": 1730134935,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297713,
+        "num": 201593,
+        "word": "孙乐言疑似穿假货",
+        "onboard_time": 1730123060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292214,
+        "num": 199723,
+        "word": "炒股两周赚百万硕士回应",
+        "onboard_time": 1730129180,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286674,
+        "num": 196813,
+        "word": "HYBE点评SEVENTEEN成员恋爱",
+        "onboard_time": 1730128881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275408,
+        "num": 192560,
+        "word": "12345回应男孩入住酒店后确诊川崎病",
+        "onboard_time": 1730123900,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190551,
+        "num": 190551,
+        "word": "烧伤妈妈受伤皮肤快长好了",
+        "onboard_time": 1730120359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173040,
+        "num": 173040,
+        "word": "4岁男孩入住酒店后确诊川崎病",
+        "onboard_time": 1730121021,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172759,
+        "num": 172759,
+        "word": "洪知秀 HYBE",
+        "onboard_time": 1730128580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170081,
+        "num": 170081,
+        "word": "一系列生育支持措施来了",
+        "onboard_time": 1730119518,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 165982,
+        "word": "蒋欣演技",
+        "onboard_time": 1730127979,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124922,
+        "num": 165762,
+        "word": "孙乐言对翁青雅说不好意思吓到你",
+        "onboard_time": 1730125341,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489590,
+        "num": 165718,
+        "word": "孙乐言 奇葩",
+        "onboard_time": 1730107759,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165582,
+        "num": 165582,
+        "word": "有博主为盗掘古墓葬等违法活动提供信息",
+        "onboard_time": 1730133617,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123929,
+        "num": 123929,
+        "word": "你想过为什么买家晒图一模一样吗",
+        "onboard_time": 1730123840,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106774,
+        "num": 106774,
+        "word": "大梦归离不知道在燃什么",
+        "onboard_time": 1730131817,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104974,
+        "num": 104974,
+        "word": "辽宁盘锦13死35伤事故处理情况公布",
+        "onboard_time": 1730104518,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80539,
+        "num": 80539,
+        "word": "彭高 我的心意你还不明白吗翁青雅",
+        "onboard_time": 1730116278,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78625,
+        "num": 78625,
+        "word": "聊缩力",
+        "onboard_time": 1730119039,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76156,
+        "num": 76156,
+        "word": "Doinb爆料Ruler被解约",
+        "onboard_time": 1730127920,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72098,
+        "num": 72098,
+        "word": "肖战庄达菲版射雕亮相推介会",
+        "onboard_time": 1730124860,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71947,
+        "num": 71947,
+        "word": "赵牧辰李定豪正面刚",
+        "onboard_time": 1730134575,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72719,
+        "num": 71323,
+        "word": "妻子脚部手术几天没洗丈夫隔空抹药",
+        "onboard_time": 1730110160,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68157,
+        "num": 68157,
+        "word": "95后硕士炒股一月狂赚112万",
+        "onboard_time": 1730103079,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65410,
+        "num": 65410,
+        "word": "大梦归离",
+        "onboard_time": 1730115438,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64593,
+        "num": 64593,
+        "word": "李小龙模仿者遭向佐扇巴掌",
+        "onboard_time": 1730093239,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63765,
+        "num": 63765,
+        "word": "沈梦辰晒合照为杜海涛庆生",
+        "onboard_time": 1730115259,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63658,
+        "num": 63658,
+        "word": "小巷人家",
+        "onboard_time": 1730119098,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61449,
+        "num": 61449,
+        "word": "张淼怡假睫毛",
+        "onboard_time": 1730116219,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59006,
+        "num": 59006,
+        "word": "杨妞花和养父直播10万多人观看",
+        "onboard_time": 1730115139,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56885,
+        "num": 56885,
+        "word": "殡仪馆副馆长为敛财改收费标准",
+        "onboard_time": 1730129300,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56568,
+        "num": 56568,
+        "word": "HYBE报告书",
+        "onboard_time": 1730128280,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53358,
+        "num": 53358,
+        "word": "芒果综艺 厉害",
+        "onboard_time": 1730119158,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51669,
+        "num": 51669,
+        "word": "杨妞花给养父带了苗族衣服",
+        "onboard_time": 1730118498,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51439,
+        "num": 51439,
+        "word": "麦琳喊杨子宝贝",
+        "onboard_time": 1730117600,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50498,
+        "num": 50498,
+        "word": "烧伤妈妈今日将在ICU度过生日",
+        "onboard_time": 1730129838,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47234,
+        "num": 47234,
+        "word": "曝罗德里将获得金球奖",
+        "onboard_time": 1730129359,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43809,
+        "num": 43809,
+        "word": "白鹿纯白千金风",
+        "onboard_time": 1730125281,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43737,
+        "num": 43737,
+        "word": "西汉姆联 啊我",
+        "onboard_time": 1730120058,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43150,
+        "num": 43150,
+        "word": "美方企图诱骗中方人员投靠中情局",
+        "onboard_time": 1730131518,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42973,
+        "num": 42973,
+        "word": "以色列记者参与炸毁黎巴嫩大楼",
+        "onboard_time": 1730135893,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41673,
+        "num": 41673,
+        "word": "曼联解雇滕哈格",
+        "onboard_time": 1730118319,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以钉钉子精神抓好改革任务落实#"
+    }
+  }
+}
