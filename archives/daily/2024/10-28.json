@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730072138420,
+  "endTime": 1730079987926,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -43,6 +43,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 795248,
+      "num": 242397,
+      "word": "程潇 陈都灵",
+      "onboard_time": 1730077399,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767993,
       "num": 306413,
       "word": "周雨彤边界感",
@@ -57,6 +65,14 @@
       "onboard_time": 1730061851,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677859,
+      "num": 360870,
+      "word": "Faker回应Bin",
+      "onboard_time": 1730078477,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 602403,
@@ -97,6 +113,22 @@
       "onboard_time": 1730043441,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 512621,
+      "num": 512621,
+      "word": "国乒法国冠军赛0冠收场",
+      "onboard_time": 1730072477,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 505642,
+      "num": 505642,
+      "word": "飞天茅台价格跌近2000元",
+      "onboard_time": 1730075058,
+      "rank": 3,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 494290,
@@ -147,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454296,
+      "num": 454296,
+      "word": "韦德雕像豆腐渣工程",
+      "onboard_time": 1730074878,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445543,
+      "num": 843237,
+      "word": "杜华后悔一个人来看李梦",
+      "onboard_time": 1730042361,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 436226,
       "num": 277698,
       "word": "Gumayusi喊话Bin",
@@ -155,20 +203,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 433875,
+      "num": 334679,
+      "word": "LV柜姐事件原配已提起离婚",
+      "onboard_time": 1730024238,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397959,
+      "num": 397959,
+      "word": "国乒两名独苗均无缘决赛",
+      "onboard_time": 1730072477,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369431,
       "num": 369431,
       "word": "网店2小时被水军坑走11万",
       "onboard_time": 1730028678,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356565,
-      "num": 843237,
-      "word": "杜华后悔一个人来看李梦",
-      "onboard_time": 1730042361,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 338123,
@@ -185,6 +241,38 @@
       "onboard_time": 1730047757,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 321392,
+      "num": 241945,
+      "word": "周震南 百度这么写没通知我啊",
+      "onboard_time": 1730072237,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 315817,
+      "num": 241845,
+      "word": "26楼扔猫外卖员已被平台永久拉黑",
+      "onboard_time": 1730074340,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310425,
+      "num": 310425,
+      "word": "崔永熙NBA首秀",
+      "onboard_time": 1730078177,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303794,
+      "num": 241170,
+      "word": "睡眠不足时身体有什么变化",
+      "onboard_time": 1730073557,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 286684,
@@ -219,12 +307,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262417,
+      "num": 262417,
+      "word": "Uzi说chovy没有冠军的命",
+      "onboard_time": 1730071696,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256178,
       "num": 256178,
       "word": "Chovy 隐身",
       "onboard_time": 1730046439,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248199,
+      "num": 240973,
+      "word": "被老祖宗的顶级审美震撼到",
+      "onboard_time": 1730074999,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242460,
+      "num": 242460,
+      "word": "沈梦辰不含一根假发片的plog",
+      "onboard_time": 1730039001,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237133,
@@ -243,8 +355,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227960,
+      "num": 227960,
+      "word": "郭敬明删除大梦归离相关博文",
+      "onboard_time": 1730079798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224606,
-      "num": 114205,
+      "num": 176996,
       "word": "Chovy还在补兵",
       "onboard_time": 1730049973,
       "rank": 31,
@@ -257,6 +377,14 @@
       "onboard_time": 1730038880,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218906,
+      "num": 218906,
+      "word": "F勒布伦4比1张本智和",
+      "onboard_time": 1730072237,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 215821,
@@ -299,11 +427,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182517,
+      "raw_hot": 192412,
       "num": 290741,
       "word": "台风以前叫风痴和风台",
       "onboard_time": 1730070795,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192130,
+      "num": 192130,
+      "word": "有种安全感叫中国军人来了",
+      "onboard_time": 1730078838,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -323,14 +459,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 161971,
-      "num": 161971,
-      "word": "Uzi说chovy没有冠军的命",
-      "onboard_time": 1730071696,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153855,
       "num": 244833,
       "word": "张新成回应金鹰节唯一提名95生",
@@ -345,6 +473,14 @@
       "onboard_time": 1730043199,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149429,
+      "num": 149429,
+      "word": "朝鲜发布韩国无人机事件侦察结果",
+      "onboard_time": 1730072538,
+      "rank": 40,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 149109,
@@ -371,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142924,
+      "num": 397417,
+      "word": "李纯 同时怼恶婆婆和妈宝男",
+      "onboard_time": 1730041341,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141993,
       "num": 141993,
       "word": "古天乐被催生的反应",
@@ -385,6 +529,14 @@
       "onboard_time": 1730039120,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139838,
+      "num": 139838,
+      "word": "朝鲜强调已对韩国军方发出最后警告",
+      "onboard_time": 1730072717,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 136641,
@@ -403,6 +555,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 136232,
+      "num": 136232,
+      "word": "樊振东追星皇马排面拉满",
+      "onboard_time": 1730075959,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134186,
       "num": 177034,
       "word": "演宁静把宁静看哭了",
@@ -417,6 +577,30 @@
       "onboard_time": 1730043081,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130155,
+      "num": 241821,
+      "word": "种地吧",
+      "onboard_time": 1730073917,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128668,
+      "num": 241661,
+      "word": "麦琳问杨子的情商是天生的吗",
+      "onboard_time": 1730078717,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128134,
+      "num": 241587,
+      "word": "杨幂张艺谋热聊",
+      "onboard_time": 1730072958,
+      "rank": 26,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 125694,
@@ -449,14 +633,6 @@
       "onboard_time": 1730055192,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121322,
-      "num": 121322,
-      "word": "LV柜姐事件原配已提起离婚",
-      "onboard_time": 1730024238,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121060,
@@ -496,6 +672,14 @@
       "word": "F1",
       "onboard_time": 1730071097,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112152,
+      "num": 112152,
+      "word": "林孝埈蒙特利尔站一银一铜",
+      "onboard_time": 1730077938,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -539,20 +723,28 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 107304,
+      "num": 241317,
+      "word": "王星越获奖发言好真诚",
+      "onboard_time": 1730075598,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106822,
+      "num": 106822,
+      "word": "锅盔叔叔走红后每天睡三四个小时",
+      "onboard_time": 1730078058,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105152,
       "num": 105152,
       "word": "国乒蒙彼利埃赛无缘冠军",
       "onboard_time": 1730038221,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104366,
-      "num": 104366,
-      "word": "沈梦辰不含一根假发片的plog",
-      "onboard_time": 1730039001,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103578,
@@ -577,6 +769,14 @@
       "onboard_time": 1730041220,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101373,
+      "num": 101373,
+      "word": "朱雨玲复出首个冠军",
+      "onboard_time": 1730073197,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99777,
@@ -673,14 +873,6 @@
       "onboard_time": 1730042120,
       "rank": 45,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 66164,
-      "num": 90509,
-      "word": "李纯 同时怼恶婆婆和妈宝男",
-      "onboard_time": 1730041341,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 63663,
@@ -795,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27003,
+      "num": 383938,
+      "word": "环卫工捡到15万元婉拒失主酬谢金",
+      "onboard_time": 1730078177,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23067,
       "num": 23067,
       "word": "苏新皓超长日常vlog",
@@ -815,6 +1015,14 @@
       "num": 1051933,
       "word": "秋冬旅游热门目的地航线航班增加",
       "onboard_time": 1730037501,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13554,
+      "num": 508518,
+      "word": "这件瓷壶静静美了700多年",
+      "onboard_time": 1730037382,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -848,14 +1056,6 @@
       "word": "沙特社牛小朋友遇中国人大秀中文",
       "onboard_time": 1730063711,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7730,
-      "num": 466610,
-      "word": "这件瓷壶静静美了700多年",
-      "onboard_time": 1730037382,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

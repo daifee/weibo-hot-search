@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730072138420,
+  "endTime": 1730079987926,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -8995,6 +8995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795248,
+      "num": 242397,
+      "word": "程潇 陈都灵",
+      "onboard_time": 1730077399,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 794963,
       "num": 528661,
       "word": "马龙vs梁靖崑",
@@ -11297,6 +11305,14 @@
       "onboard_time": 1728046220,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 677859,
+      "num": 360870,
+      "word": "Faker回应Bin",
+      "onboard_time": 1730078477,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 677034,
@@ -15867,6 +15883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512621,
+      "num": 512621,
+      "word": "国乒法国冠军赛0冠收场",
+      "onboard_time": 1730072477,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 512218,
       "num": 373656,
       "word": "律师称雨姐带货油污净或赔偿过亿",
@@ -16017,6 +16041,14 @@
       "onboard_time": 1729263861,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505642,
+      "num": 505642,
+      "word": "飞天茅台价格跌近2000元",
+      "onboard_time": 1730075058,
+      "rank": 3,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 505611,
@@ -17835,6 +17867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 454296,
+      "num": 454296,
+      "word": "韦德雕像豆腐渣工程",
+      "onboard_time": 1730074878,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454016,
       "num": 455247,
       "word": "猎罪图鉴2过审",
@@ -18153,6 +18193,14 @@
       "onboard_time": 1729738938,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445543,
+      "num": 843237,
+      "word": "杜华后悔一个人来看李梦",
+      "onboard_time": 1730042361,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 445235,
@@ -18624,6 +18672,14 @@
       "word": "研究显示亚洲人更能忍耐工作",
       "onboard_time": 1729751778,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433875,
+      "num": 334679,
+      "word": "LV柜姐事件原配已提起离婚",
+      "onboard_time": 1730024238,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -19987,6 +20043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397959,
+      "num": 397959,
+      "word": "国乒两名独苗均无缘决赛",
+      "onboard_time": 1730072477,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397796,
       "num": 342322,
       "word": "女子颈椎病被医生舌下扎针治好",
@@ -20593,14 +20657,6 @@
       "onboard_time": 1729158320,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 383260,
-      "num": 843237,
-      "word": "杜华后悔一个人来看李梦",
-      "onboard_time": 1730042361,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 383043,
@@ -24019,6 +24075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321392,
+      "num": 241945,
+      "word": "周震南 百度这么写没通知我啊",
+      "onboard_time": 1730072237,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321139,
       "num": 321139,
       "word": "迪丽热巴最佳街拍",
@@ -24320,6 +24384,14 @@
       "word": "奶茶起名怎么越来越奇怪",
       "onboard_time": 1729667899,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315817,
+      "num": 241845,
+      "word": "26楼扔猫外卖员已被平台永久拉黑",
+      "onboard_time": 1730074340,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -24657,6 +24729,14 @@
       "onboard_time": 1729227381,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310425,
+      "num": 310425,
+      "word": "崔永熙NBA首秀",
+      "onboard_time": 1728443240,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 310395,
@@ -25169,6 +25249,14 @@
       "onboard_time": 1729946900,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303794,
+      "num": 241170,
+      "word": "睡眠不足时身体有什么变化",
+      "onboard_time": 1730073557,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 303750,
@@ -29123,6 +29211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262417,
+      "num": 262417,
+      "word": "Uzi说chovy没有冠军的命",
+      "onboard_time": 1730071696,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262376,
       "num": 262376,
       "word": "锦绣安宁 先婚后爱",
@@ -30515,14 +30611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248643,
-      "num": 248643,
-      "word": "崔永熙NBA首秀",
-      "onboard_time": 1728443240,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248595,
       "num": 248595,
       "word": "TTG年总淘汰",
@@ -30560,6 +30648,14 @@
       "word": "男子开车将大量海绵倾倒河中",
       "onboard_time": 1729433605,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248199,
+      "num": 240973,
+      "word": "被老祖宗的顶级审美震撼到",
+      "onboard_time": 1730074999,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -31185,6 +31281,14 @@
       "onboard_time": 1728556698,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 242460,
+      "num": 242460,
+      "word": "沈梦辰不含一根假发片的plog",
+      "onboard_time": 1730039001,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242391,
@@ -33027,6 +33131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227960,
+      "num": 227960,
+      "word": "郭敬明删除大梦归离相关博文",
+      "onboard_time": 1730079798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227900,
       "num": 227900,
       "word": "美国一幼童开枪打死一名婴儿",
@@ -33492,7 +33604,7 @@
     },
     {
       "raw_hot": 224606,
-      "num": 114205,
+      "num": 176996,
       "word": "Chovy还在补兵",
       "onboard_time": 1730049973,
       "rank": 31,
@@ -34299,6 +34411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218906,
+      "num": 218906,
+      "word": "F勒布伦4比1张本智和",
+      "onboard_time": 1730072237,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218797,
       "num": 264979,
       "word": "俄罗斯礼兵在机场列队致敬",
@@ -34529,14 +34649,6 @@
       "onboard_time": 1728658041,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217719,
-      "num": 217719,
-      "word": "沈梦辰不含一根假发片的plog",
-      "onboard_time": 1730039001,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 217710,
@@ -40100,7 +40212,7 @@
     },
     {
       "raw_hot": 194712,
-      "num": 306971,
+      "num": 397417,
       "word": "李纯 同时怼恶婆婆和妈宝男",
       "onboard_time": 1730041341,
       "rank": 22,
@@ -40803,6 +40915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192412,
+      "num": 290741,
+      "word": "台风以前叫风痴和风台",
+      "onboard_time": 1730070795,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192377,
       "num": 314640,
       "word": "宝诗龙活动",
@@ -40849,6 +40969,14 @@
       "onboard_time": 1729161683,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192130,
+      "num": 192130,
+      "word": "有种安全感叫中国军人来了",
+      "onboard_time": 1730078838,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192097,
@@ -43537,14 +43665,6 @@
       "onboard_time": 1728443660,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 182517,
-      "num": 290741,
-      "word": "台风以前叫风痴和风台",
-      "onboard_time": 1730070795,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182470,
@@ -48651,14 +48771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161971,
-      "num": 161971,
-      "word": "Uzi说chovy没有冠军的命",
-      "onboard_time": 1730071696,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161954,
       "num": 327342,
       "word": "前承包商称臭肉学校食堂承包费每年超40万",
@@ -52131,6 +52243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149429,
+      "num": 149429,
+      "word": "朝鲜发布韩国无人机事件侦察结果",
+      "onboard_time": 1730072538,
+      "rank": 40,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 149317,
       "num": 149317,
       "word": "Coldplay抢票",
@@ -54771,6 +54891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139838,
+      "num": 139838,
+      "word": "朝鲜强调已对韩国军方发出最后警告",
+      "onboard_time": 1730072717,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 139834,
       "num": 139834,
       "word": "克内克特35分",
@@ -55825,6 +55953,14 @@
       "onboard_time": 1728440719,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136232,
+      "num": 136232,
+      "word": "樊振东追星皇马排面拉满",
+      "onboard_time": 1730075959,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136176,
@@ -57915,6 +58051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128668,
+      "num": 241661,
+      "word": "麦琳问杨子的情商是天生的吗",
+      "onboard_time": 1730078717,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128657,
       "num": 197713,
       "word": "以军或攻占黎巴嫩三分之一国土",
@@ -58073,6 +58217,14 @@
       "onboard_time": 1729672219,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128134,
+      "num": 241587,
+      "word": "杨幂张艺谋热聊",
+      "onboard_time": 1730072958,
+      "rank": 26,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 128130,
@@ -59729,14 +59881,6 @@
       "onboard_time": 1728262458,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121322,
-      "num": 121322,
-      "word": "LV柜姐事件原配已提起离婚",
-      "onboard_time": 1730024238,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121291,
@@ -61923,6 +62067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112152,
+      "num": 112152,
+      "word": "林孝埈蒙特利尔站一银一铜",
+      "onboard_time": 1730077938,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112151,
       "num": 112151,
       "word": "多名中国女性在德国遭强奸案犯疑中国籍",
@@ -63179,6 +63331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107304,
+      "num": 241317,
+      "word": "王星越获奖发言好真诚",
+      "onboard_time": 1730075598,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107282,
       "num": 443713,
       "word": "孙颖莎王艺迪女双4强",
@@ -63225,6 +63385,14 @@
       "onboard_time": 1727862018,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106822,
+      "num": 106822,
+      "word": "锅盔叔叔走红后每天睡三四个小时",
+      "onboard_time": 1730078058,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106790,
@@ -64233,6 +64401,14 @@
       "onboard_time": 1729342219,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101373,
+      "num": 101373,
+      "word": "朱雨玲复出首个冠军",
+      "onboard_time": 1730073197,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101359,
@@ -78371,6 +78547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27003,
+      "num": 383938,
+      "word": "环卫工捡到15万元婉拒失主酬谢金",
+      "onboard_time": 1730078177,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26986,
       "num": 331740,
       "word": "广州多家房企超前完成10月销售目标",
@@ -81683,6 +81867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13554,
+      "num": 508518,
+      "word": "这件瓷壶静静美了700多年",
+      "onboard_time": 1730037382,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13515,
       "num": 111061,
       "word": "定都阁被明月钩起来了",
@@ -82408,14 +82600,6 @@
       "word": "沙特社牛小朋友遇中国人大秀中文",
       "onboard_time": 1730063711,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7730,
-      "num": 466610,
-      "word": "这件瓷壶静静美了700多年",
-      "onboard_time": 1730037382,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
