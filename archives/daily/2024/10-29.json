@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730141048995,
+  "endTime": 1730143126589,
   "band_list": [
     {
       "raw_hot": 858447,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94151,
+      "num": 94151,
+      "word": "不想把亲人的伤痛变成谋钱工具",
+      "onboard_time": 1730139793,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92995,
       "num": 92995,
       "word": "杨妞花和养父直播10万多人观看",
@@ -491,12 +499,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28111,
-      "num": 89003,
-      "word": "不想把亲人的伤痛变成谋钱工具",
-      "onboard_time": 1730139793,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 28206,
+      "num": 60052,
+      "word": "哈里斯和特朗普民调结果不相上下",
+      "onboard_time": 1730141651,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27068,
@@ -513,6 +521,30 @@
       "onboard_time": 1730140571,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21336,
+      "num": 21336,
+      "word": "系爱马仕村支书曾获5星级书记",
+      "onboard_time": 1730142492,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19617,
+      "num": 19617,
+      "word": "万斯称佩洛西是美工业落后中国罪魁祸首",
+      "onboard_time": 1730142552,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 19145,
+      "num": 19145,
+      "word": "黄冠亨个人首封",
+      "onboard_time": 1730142071,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6751,

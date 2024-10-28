@@ -1,0 +1,410 @@
+{
+  "runTime": 1730143126589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 299595,
+        "num": 299595,
+        "word": "11岁男孩被骗与女主播裸聊",
+        "onboard_time": 1730135235,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139816,
+        "num": 139816,
+        "word": "金球奖",
+        "onboard_time": 1730128102,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5251,
+        "num": 134095,
+        "word": "舌尖上的进博会又上新",
+        "onboard_time": 1730123353,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128762,
+        "num": 128762,
+        "word": "我是不是不够好",
+        "onboard_time": 1730131938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124634,
+        "num": 124634,
+        "word": "警方强烈建议关闭FaceTime",
+        "onboard_time": 1730117779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94151,
+        "num": 94151,
+        "word": "不想把亲人的伤痛变成谋钱工具",
+        "onboard_time": 1730139793,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77345,
+        "num": 77345,
+        "word": "严厉打击以寻宝为噱头非法鉴定",
+        "onboard_time": 1730129900,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61257,
+        "num": 61257,
+        "word": "向佐再回应扇巴掌行为",
+        "onboard_time": 1730115919,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60569,
+        "num": 60569,
+        "word": "孙乐言 我现在不是一个普通人了",
+        "onboard_time": 1730110459,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28206,
+        "num": 60052,
+        "word": "哈里斯和特朗普民调结果不相上下",
+        "onboard_time": 1730141651,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 96999,
+        "num": 59605,
+        "word": "4岁男孩入住酒店后确诊川崎病",
+        "onboard_time": 1730121021,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82566,
+        "num": 59503,
+        "word": "炒股两周赚百万硕士回应",
+        "onboard_time": 1730129180,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62429,
+        "num": 58956,
+        "word": "以色列记者参与炸毁黎巴嫩大楼",
+        "onboard_time": 1730135893,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78576,
+        "num": 58137,
+        "word": "孙乐言疑似穿假货",
+        "onboard_time": 1730123060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64026,
+        "num": 57528,
+        "word": "HYBE点评SEVENTEEN成员恋爱",
+        "onboard_time": 1730128881,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62035,
+        "num": 57395,
+        "word": "烧伤妈妈受伤皮肤快长好了",
+        "onboard_time": 1730120359,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56943,
+        "num": 56943,
+        "word": "有博主为盗掘古墓葬等违法活动提供信息",
+        "onboard_time": 1730133617,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36891,
+        "num": 56665,
+        "word": "孙乐言对翁青雅说不好意思吓到你",
+        "onboard_time": 1730125341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36198,
+        "num": 55822,
+        "word": "爱奇艺选秀 初舞台",
+        "onboard_time": 1730136493,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31576,
+        "num": 54903,
+        "word": "大梦归离",
+        "onboard_time": 1730115438,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118438,
+        "num": 54757,
+        "word": "孙乐言 奇葩",
+        "onboard_time": 1730107759,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54167,
+        "num": 54167,
+        "word": "你想过为什么买家晒图一模一样吗",
+        "onboard_time": 1730123840,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47227,
+        "num": 47227,
+        "word": "一系列生育支持措施来了",
+        "onboard_time": 1730119518,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39993,
+        "num": 39993,
+        "word": "辽宁盘锦13死35伤事故处理情况公布",
+        "onboard_time": 1730104518,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37648,
+        "num": 37648,
+        "word": "12345回应男孩入住酒店后确诊川崎病",
+        "onboard_time": 1730123900,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35530,
+        "num": 35530,
+        "word": "洪知秀 HYBE",
+        "onboard_time": 1730128580,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30446,
+        "num": 30446,
+        "word": "小巷人家",
+        "onboard_time": 1730119098,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29803,
+        "num": 29803,
+        "word": "麦琳喊杨子宝贝",
+        "onboard_time": 1730117600,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29164,
+        "num": 29164,
+        "word": "妻子脚部手术几天没洗丈夫隔空抹药",
+        "onboard_time": 1730110160,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28517,
+        "num": 29106,
+        "word": "蒋欣演技",
+        "onboard_time": 1730127979,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29067,
+        "num": 29067,
+        "word": "一批自媒体因捏造军事谣言被处置",
+        "onboard_time": 1730138712,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28478,
+        "num": 28478,
+        "word": "赵丽颖辛芷蕾G社生图",
+        "onboard_time": 1730129060,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27805,
+        "num": 27805,
+        "word": "杨妞花和养父直播10万多人观看",
+        "onboard_time": 1730115139,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26970,
+        "num": 26970,
+        "word": "侯明昊翻牌一个字回复所有",
+        "onboard_time": 1730120325,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25847,
+        "num": 25847,
+        "word": "沈梦辰晒合照为杜海涛庆生",
+        "onboard_time": 1730115259,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25597,
+        "num": 25597,
+        "word": "Doinb爆料Ruler被解约",
+        "onboard_time": 1730127920,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25023,
+        "num": 25023,
+        "word": "周震南百度百科在改了",
+        "onboard_time": 1730114539,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24743,
+        "num": 24743,
+        "word": "彭高 我的心意你还不明白吗翁青雅",
+        "onboard_time": 1730116278,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24157,
+        "num": 24157,
+        "word": "央视小编和AI一起为你写了首歌",
+        "onboard_time": 1730134935,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 23485,
+        "word": "聊缩力",
+        "onboard_time": 1730119039,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22489,
+        "num": 22489,
+        "word": "李小龙模仿者遭向佐扇巴掌",
+        "onboard_time": 1730093239,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21336,
+        "num": 21336,
+        "word": "系爱马仕村支书曾获5星级书记",
+        "onboard_time": 1730142492,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21317,
+        "num": 21317,
+        "word": "大梦归离不知道在燃什么",
+        "onboard_time": 1730131817,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20938,
+        "num": 20938,
+        "word": "肖战庄达菲版射雕亮相推介会",
+        "onboard_time": 1730124860,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20136,
+        "num": 20136,
+        "word": "HYBE报告书",
+        "onboard_time": 1730128280,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19617,
+        "num": 19617,
+        "word": "万斯称佩洛西是美工业落后中国罪魁祸首",
+        "onboard_time": 1730142552,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20093,
+        "num": 19491,
+        "word": "芒果综艺 厉害",
+        "onboard_time": 1730119158,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19145,
+        "num": 19145,
+        "word": "黄冠亨个人首封",
+        "onboard_time": 1730142071,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17449,
+        "num": 19051,
+        "word": "曝罗德里将获得金球奖",
+        "onboard_time": 1730129359,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16208,
+        "num": 18934,
+        "word": "曼联解雇滕哈格",
+        "onboard_time": 1730118319,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#元首外交战略引领新典范#"
+    }
+  }
+}
