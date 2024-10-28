@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730081315270,
+  "endTime": 1730084345409,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -11,20 +11,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2412463,
+      "num": 2412463,
+      "word": "郭敬明删除大梦归离相关博文",
+      "onboard_time": 1730079798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1995742,
       "num": 1995742,
       "word": "网曝塔斯汀汉堡吃出生肉",
       "onboard_time": 1730039961,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1846305,
-      "num": 1846305,
-      "word": "郭敬明删除大梦归离相关博文",
-      "onboard_time": 1730079798,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 1369368,
@@ -35,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063713,
+      "num": 858796,
+      "word": "邵兵儿子",
+      "onboard_time": 1730083517,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1003206,
+      "num": 1003206,
+      "word": "卡车撞以色列公交站司机已被打死",
+      "onboard_time": 1730080218,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 952675,
       "num": 952675,
       "word": "T1对战GEN",
       "onboard_time": 1730033479,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 897572,
+      "num": 442804,
+      "word": "大梦归离豆瓣除名郭敬明",
+      "onboard_time": 1730081717,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 845320,
@@ -76,11 +100,19 @@
     },
     {
       "raw_hot": 677859,
-      "num": 360870,
+      "num": 445976,
       "word": "Faker回应Bin",
       "onboard_time": 1730078477,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 615573,
+      "num": 420787,
+      "word": "中国选手颜值惊艳韩国人",
+      "onboard_time": 1730081717,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 602403,
@@ -131,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507158,
+      "num": 195989,
+      "word": "沈腾提词器的字比别人大",
+      "onboard_time": 1730081477,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505642,
       "num": 505642,
       "word": "飞天茅台价格跌近2000元",
@@ -169,6 +209,14 @@
       "onboard_time": 1730046379,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 479663,
+      "num": 363768,
+      "word": "雷军回应小米15涨价幅度",
+      "onboard_time": 1730083338,
+      "rank": 10,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 460801,
@@ -235,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395094,
-      "num": 395094,
-      "word": "卡车撞以色列公交站司机已被打死",
-      "onboard_time": 1730080218,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 389336,
       "num": 241845,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
@@ -256,6 +296,30 @@
       "word": "网店2小时被水军坑走11万",
       "onboard_time": 1730028678,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357017,
+      "num": 357017,
+      "word": "邵子恒好帅",
+      "onboard_time": 1730080338,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 353479,
+      "num": 353479,
+      "word": "朝鲜强调已对韩国军方发出最后警告",
+      "onboard_time": 1730072717,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 338789,
+      "num": 195847,
+      "word": "为什么许多商场一楼没有厕所",
+      "onboard_time": 1730080877,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -297,6 +361,14 @@
       "onboard_time": 1730078177,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306717,
+      "num": 306717,
+      "word": "尤长靖从9到1走了6年",
+      "onboard_time": 1730081117,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 303794,
@@ -387,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230607,
-      "num": 230607,
-      "word": "朝鲜强调已对韩国军方发出最后警告",
-      "onboard_time": 1730072717,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 224606,
       "num": 176996,
       "word": "Chovy还在补兵",
@@ -417,14 +481,6 @@
       "onboard_time": 1730072237,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216941,
-      "num": 216941,
-      "word": "邵子恒好帅",
-      "onboard_time": 1730080338,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 215821,
@@ -459,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196044,
+      "num": 196044,
+      "word": "雪中飞 成毅",
+      "onboard_time": 1730083457,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194829,
       "num": 491056,
       "word": "买房除了凑首付还要交这些钱",
@@ -475,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188758,
+      "num": 196036,
+      "word": "国乒新秀与同龄高手起点不同",
+      "onboard_time": 1730083038,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176371,
       "num": 176371,
       "word": "白桃星座",
@@ -483,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165112,
-      "num": 165112,
-      "word": "为什么许多商场一楼没有厕所",
-      "onboard_time": 1730080877,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 174204,
+      "num": 319061,
+      "word": "日本执政联盟失去众议院过半席位",
+      "onboard_time": 1730080579,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 163860,
@@ -497,6 +569,38 @@
       "onboard_time": 1730042361,
       "rank": 19,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 161457,
+      "num": 161457,
+      "word": "韩束 赵今麦",
+      "onboard_time": 1730083998,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158915,
+      "num": 158915,
+      "word": "快船vs勇士",
+      "onboard_time": 1730083638,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157955,
+      "num": 157955,
+      "word": "TheShy说Chovy可惜",
+      "onboard_time": 1730080877,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 157769,
+      "num": 157769,
+      "word": "景区禁止游客自带食物却翻倍自卖",
+      "onboard_time": 1730083218,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153855,
@@ -539,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143159,
-      "num": 143159,
-      "word": "TheShy说Chovy可惜",
-      "onboard_time": 1730080877,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 146147,
+      "num": 146147,
+      "word": "16岁女生第3次夺女子标枪世界冠军",
+      "onboard_time": 1730083818,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 143073,
@@ -603,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134800,
+      "num": 160480,
+      "word": "俄罗斯老人为中国男生演奏中国国歌",
+      "onboard_time": 1730083757,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134186,
       "num": 177034,
       "word": "演宁静把宁静看哭了",
@@ -611,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133220,
-      "num": 212598,
-      "word": "尤长靖从9到1走了6年",
-      "onboard_time": 1730081117,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 133634,
+      "num": 133634,
+      "word": "闫桉身材",
+      "onboard_time": 1730084238,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 131274,
@@ -643,6 +755,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 127975,
+      "num": 127975,
+      "word": "苏新皓英文采访",
+      "onboard_time": 1730082918,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127530,
       "num": 127530,
       "word": "A股",
@@ -665,6 +785,14 @@
       "onboard_time": 1730048176,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122841,
+      "num": 122841,
+      "word": "春花焰 慕容璟和十年未束发",
+      "onboard_time": 1730083939,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 122598,
@@ -707,20 +835,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118035,
-      "num": 166906,
-      "word": "日本执政联盟失去众议院过半席位",
-      "onboard_time": 1730080579,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 116408,
       "num": 239201,
       "word": "十个勤天种下一个未来巡回演唱会",
       "onboard_time": 1730045599,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114063,
+      "num": 353362,
+      "word": "央视揭秘神奇能量舱只是桑拿舱",
+      "onboard_time": 1730081237,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114023,
@@ -769,6 +897,14 @@
       "onboard_time": 1730071155,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108109,
+      "num": 108109,
+      "word": "崔永熙第7位NBA正式登场中国球员",
+      "onboard_time": 1730084298,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107503,
@@ -1075,16 +1211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13720,
-      "num": 353362,
-      "word": "央视揭秘神奇能量舱只是桑拿舱",
-      "onboard_time": 1730081237,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13554,
-      "num": 659087,
+      "num": 860925,
       "word": "这件瓷壶静静美了700多年",
       "onboard_time": 1730037382,
       "rank": 2,

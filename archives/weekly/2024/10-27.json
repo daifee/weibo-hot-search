@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730081315270,
+  "endTime": 1730084345409,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -49,6 +49,14 @@
       "onboard_time": 1730022797,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2412463,
+      "num": 2412463,
+      "word": "郭敬明删除大梦归离相关博文",
+      "onboard_time": 1730079798,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 2253350,
@@ -113,14 +121,6 @@
       "onboard_time": 1730009898,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1846305,
-      "num": 1846305,
-      "word": "郭敬明删除大梦归离相关博文",
-      "onboard_time": 1730079798,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 1831417,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063713,
+      "num": 858796,
+      "word": "邵兵儿子",
+      "onboard_time": 1730083517,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1060226,
       "num": 277558,
       "word": "两高中生奸杀教师案最新进展",
@@ -313,6 +321,14 @@
       "onboard_time": 1730040141,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003206,
+      "num": 1003206,
+      "word": "卡车撞以色列公交站司机已被打死",
+      "onboard_time": 1730080218,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 992590,
@@ -369,6 +385,14 @@
       "onboard_time": 1729992438,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 897572,
+      "num": 442804,
+      "word": "大梦归离豆瓣除名郭敬明",
+      "onboard_time": 1730081717,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 882529,
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 677859,
-      "num": 360870,
+      "num": 445976,
       "word": "Faker回应Bin",
       "onboard_time": 1730078477,
       "rank": 10,
@@ -593,6 +617,14 @@
       "onboard_time": 1730019017,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615573,
+      "num": 420787,
+      "word": "中国选手颜值惊艳韩国人",
+      "onboard_time": 1730081717,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 601617,
@@ -771,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507158,
+      "num": 195989,
+      "word": "沈腾提词器的字比别人大",
+      "onboard_time": 1730081477,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505642,
       "num": 505642,
       "word": "飞天茅台价格跌近2000元",
@@ -865,6 +905,14 @@
       "onboard_time": 1730014278,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 479663,
+      "num": 363768,
+      "word": "雷军回应小米15涨价幅度",
+      "onboard_time": 1730083338,
+      "rank": 10,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 472051,
@@ -1011,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395094,
-      "num": 395094,
-      "word": "卡车撞以色列公交站司机已被打死",
-      "onboard_time": 1730080218,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 395065,
       "num": 395065,
       "word": "留几手",
@@ -1107,12 +1147,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357017,
+      "num": 357017,
+      "word": "邵子恒好帅",
+      "onboard_time": 1730080338,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355378,
       "num": 312019,
       "word": "好团圆 生理性分手",
       "onboard_time": 1730004079,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353479,
+      "num": 353479,
+      "word": "朝鲜强调已对韩国军方发出最后警告",
+      "onboard_time": 1730072717,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 353158,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 338789,
+      "num": 195847,
+      "word": "为什么许多商场一楼没有厕所",
+      "onboard_time": 1730080877,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336205,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1730078177,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306717,
+      "num": 306717,
+      "word": "尤长靖从9到1走了6年",
+      "onboard_time": 1730081117,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 306361,
@@ -1731,14 +1803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230607,
-      "num": 230607,
-      "word": "朝鲜强调已对韩国军方发出最后警告",
-      "onboard_time": 1730072717,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 229927,
       "num": 229927,
       "word": "喻言贴脸开大李莎旻子总卖关子",
@@ -1881,14 +1945,6 @@
       "onboard_time": 1730003178,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 216941,
-      "num": 216941,
-      "word": "邵子恒好帅",
-      "onboard_time": 1730080338,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 216322,
@@ -2067,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196044,
+      "num": 196044,
+      "word": "雪中飞 成毅",
+      "onboard_time": 1730083457,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195999,
       "num": 195999,
       "word": "钎城墨染江湖舞台好绝",
@@ -2184,6 +2248,14 @@
       "word": "姆巴佩为樊振东比第一",
       "onboard_time": 1729988775,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188758,
+      "num": 196036,
+      "word": "国乒新秀与同龄高手起点不同",
+      "onboard_time": 1730083038,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -2355,6 +2427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174204,
+      "num": 319061,
+      "word": "日本执政联盟失去众议院过半席位",
+      "onboard_time": 1730080579,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 172907,
       "num": 172907,
       "word": "中超",
@@ -2443,14 +2523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165112,
-      "num": 165112,
-      "word": "为什么许多商场一楼没有厕所",
-      "onboard_time": 1730080877,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "辛芷蕾工作室的海报没有辛芷蕾",
@@ -2489,6 +2561,14 @@
       "onboard_time": 1730030419,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161457,
+      "num": 161457,
+      "word": "韩束 赵今麦",
+      "onboard_time": 1730083998,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 160037,
@@ -2539,12 +2619,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 158915,
+      "num": 158915,
+      "word": "快船vs勇士",
+      "onboard_time": 1730083638,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157982,
       "num": 157982,
       "word": "谁懂许嵩这一圈专辑名的杀伤力",
       "onboard_time": 1730019077,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157955,
+      "num": 157955,
+      "word": "TheShy说Chovy可惜",
+      "onboard_time": 1730080877,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 157839,
@@ -2561,6 +2657,14 @@
       "onboard_time": 1729995558,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157769,
+      "num": 157769,
+      "word": "景区禁止游客自带食物却翻倍自卖",
+      "onboard_time": 1730083218,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156383,
@@ -2723,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146147,
+      "num": 146147,
+      "word": "16岁女生第3次夺女子标枪世界冠军",
+      "onboard_time": 1730083818,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145741,
       "num": 145741,
       "word": "在浙江农村吃席被震惊了",
@@ -2745,14 +2857,6 @@
       "onboard_time": 1729988177,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143159,
-      "num": 143159,
-      "word": "TheShy说Chovy可惜",
-      "onboard_time": 1730080877,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 143073,
@@ -2923,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134800,
+      "num": 160480,
+      "word": "俄罗斯老人为中国男生演奏中国国歌",
+      "onboard_time": 1730083757,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134221,
       "num": 411633,
       "word": "Bin和Elk现场观战",
@@ -2939,20 +3051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133634,
+      "num": 133634,
+      "word": "闫桉身材",
+      "onboard_time": 1730084238,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133448,
       "num": 133448,
       "word": "乔妍的心事票房",
       "onboard_time": 1729935558,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133220,
-      "num": 212598,
-      "word": "尤长靖从9到1走了6年",
-      "onboard_time": 1730081117,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 132328,
@@ -3051,6 +3163,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 127975,
+      "num": 127975,
+      "word": "苏新皓英文采访",
+      "onboard_time": 1730082918,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127530,
       "num": 127530,
       "word": "A股",
@@ -3121,6 +3241,14 @@
       "onboard_time": 1730048176,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122841,
+      "num": 122841,
+      "word": "春花焰 慕容璟和十年未束发",
+      "onboard_time": 1730083939,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 122482,
@@ -3195,14 +3323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118035,
-      "num": 166906,
-      "word": "日本执政联盟失去众议院过半席位",
-      "onboard_time": 1730080579,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "张艺谋现身王者共创之夜",
@@ -3241,6 +3361,14 @@
       "onboard_time": 1730025438,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114063,
+      "num": 353362,
+      "word": "央视揭秘神奇能量舱只是桑拿舱",
+      "onboard_time": 1730081237,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114023,
@@ -3321,6 +3449,14 @@
       "onboard_time": 1730018838,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108109,
+      "num": 108109,
+      "word": "崔永熙第7位NBA正式登场中国球员",
+      "onboard_time": 1730084298,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107964,
@@ -4083,16 +4219,8 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 13720,
-      "num": 353362,
-      "word": "央视揭秘神奇能量舱只是桑拿舱",
-      "onboard_time": 1730081237,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13554,
-      "num": 659087,
+      "num": 860925,
       "word": "这件瓷壶静静美了700多年",
       "onboard_time": 1730037382,
       "rank": 2,
