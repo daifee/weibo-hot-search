@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730104186624,
+  "endTime": 1730105018475,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -48,6 +48,14 @@
       "word": "网曝塔斯汀汉堡吃出生肉",
       "onboard_time": 1730039961,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1793258,
+      "num": 498394,
+      "word": "95后硕士炒股一月狂赚112万",
+      "onboard_time": 1730103079,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1730091559,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1413557,
+      "num": 252131,
+      "word": "尸检证实男童被生父女友虐待致死",
+      "onboard_time": 1730102839,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1369368,
@@ -185,14 +201,6 @@
       "onboard_time": 1730090419,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 972047,
-      "num": 498394,
-      "word": "95后硕士炒股一月狂赚112万",
-      "onboard_time": 1730103079,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 952675,
@@ -563,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 411415,
+      "num": 252452,
+      "word": "20岁女生在印度公派留学的一天",
+      "onboard_time": 1730102119,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 401524,
       "num": 401524,
       "word": "恋与深空",
@@ -617,14 +633,6 @@
       "onboard_time": 1730096238,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372977,
-      "num": 252452,
-      "word": "20岁女生在印度公派留学的一天",
-      "onboard_time": 1730102119,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 369431,
@@ -696,14 +704,6 @@
       "word": "当地回应村支书系爱马仕皮带坐豪车",
       "onboard_time": 1730096599,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342775,
-      "num": 252131,
-      "word": "尸检证实男童被生父女友虐待致死",
-      "onboard_time": 1730102839,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -865,6 +865,14 @@
       "onboard_time": 1730046497,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 277914,
+      "num": 277914,
+      "word": "辽宁盘锦13死35伤事故处理情况公布",
+      "onboard_time": 1730104518,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276713,
@@ -1035,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220213,
+      "num": 220213,
+      "word": "再见爱人 三巨头会面",
+      "onboard_time": 1730103979,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "F勒布伦4比1张本智和",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1730103258,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199091,
+      "num": 247396,
+      "word": "六不像现身云南怒江峡谷",
+      "onboard_time": 1730103258,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196637,
@@ -1251,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178403,
+      "num": 178403,
+      "word": "董子健刘昊然合体亮相东京电影节",
+      "onboard_time": 1730101637,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177761,
       "num": 177761,
       "word": "未定事件簿",
@@ -1288,14 +1320,6 @@
       "word": "对随意借调干部说不",
       "onboard_time": 1730092219,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170160,
-      "num": 247396,
-      "word": "六不像现身云南怒江峡谷",
-      "onboard_time": 1730103258,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1363,20 +1387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153262,
-      "num": 153262,
-      "word": "再见爱人 三巨头会面",
-      "onboard_time": 1730103979,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152871,
       "num": 150907,
       "word": "麦琳 被妖魔化",
       "onboard_time": 1730098759,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151136,
+      "num": 224890,
+      "word": "神十九发射任务各系统准备就绪",
+      "onboard_time": 1730104158,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150348,
@@ -1419,20 +1443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146068,
-      "num": 146068,
-      "word": "董子健刘昊然合体亮相东京电影节",
-      "onboard_time": 1730101637,
+      "raw_hot": 147170,
+      "num": 147170,
+      "word": "十个勤天后陡门直播",
+      "onboard_time": 1730103619,
       "rank": 46,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 144608,
-      "num": 144608,
-      "word": "神十九发射任务各系统准备就绪",
-      "onboard_time": 1730104158,
-      "rank": 47,
-      "category": "国内时政"
+      "category": "综艺"
     },
     {
       "raw_hot": 143218,
@@ -2091,8 +2107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45313,
-      "num": 196739,
+      "raw_hot": 48328,
+      "num": 221396,
       "word": "小米SU7Ultra刹车盘就值一辆车",
       "onboard_time": 1730103558,
       "rank": 35,
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 35119,
-      "num": 195167,
+      "num": 206741,
       "word": "周鸿祎喜提小鹏X9",
       "onboard_time": 1730103200,
       "rank": 36,
@@ -2219,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28021,
+      "num": 155652,
+      "word": "去年双11的囤货你用完了吗",
+      "onboard_time": 1730104699,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27421,
       "num": 304697,
       "word": "南极科考的难度有多大",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1730056392,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20007,
+      "num": 224634,
+      "word": "有人疑在长城上拍诈骗广告",
+      "onboard_time": 1730104638,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18159,
@@ -2283,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13316,
+      "num": 232975,
+      "word": "南极科考队员们最难忘的事",
+      "onboard_time": 1730102779,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12248,
       "num": 45811,
       "word": "郭刚堂之子被拐案将二审宣判",
@@ -2304,14 +2344,6 @@
       "word": "双十一网络防骗秘籍",
       "onboard_time": 1730055791,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10029,
-      "num": 232975,
-      "word": "南极科考队员们最难忘的事",
-      "onboard_time": 1730102779,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
