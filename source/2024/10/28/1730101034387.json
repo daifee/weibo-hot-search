@@ -1,0 +1,410 @@
+{
+  "runTime": 1730101034387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2189496,
+        "num": 2189496,
+        "word": "李小龙模仿者遭向佐扇巴掌",
+        "onboard_time": 1730093239,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1034828,
+        "num": 1034828,
+        "word": "三亚全市中小学停课",
+        "onboard_time": 1730094497,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60383,
+        "num": 664680,
+        "word": "真实版核舟记真的太硬核了",
+        "onboard_time": 1730084960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154276,
+        "num": 572144,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730095818,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403440,
+        "num": 403440,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360640,
+        "num": 360640,
+        "word": "南京博物院免费门票被黄牛炒至两百元",
+        "onboard_time": 1730098339,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694625,
+        "num": 348222,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326087,
+        "num": 326087,
+        "word": "海南三亚暴雨红色预警",
+        "onboard_time": 1730097079,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803672,
+        "num": 325338,
+        "word": "翁青雅哭了",
+        "onboard_time": 1730094618,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35919,
+        "num": 323671,
+        "word": "如何应对滥用AI语音恶搞乱象",
+        "onboard_time": 1730099418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320368,
+        "num": 320091,
+        "word": "警方称生父女友虐童画面太残忍",
+        "onboard_time": 1730098098,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294014,
+        "num": 318409,
+        "word": "高校回应已婚女老师出轨学生",
+        "onboard_time": 1730099839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643423,
+        "num": 316989,
+        "word": "小红书 审判麦琳",
+        "onboard_time": 1730095578,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640612,
+        "num": 315519,
+        "word": "向佐回应打脸李小龙模仿者",
+        "onboard_time": 1730094978,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630999,
+        "num": 312882,
+        "word": "赵丽颖东京电影节生图",
+        "onboard_time": 1730098218,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 581040,
+        "num": 310532,
+        "word": "奥斯卡孙乐言亲了",
+        "onboard_time": 1730094497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309291,
+        "num": 309291,
+        "word": "当地回应村支书系爱马仕皮带坐豪车",
+        "onboard_time": 1730096599,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280850,
+        "num": 280850,
+        "word": "国安部揭露境外间谍惯用伎俩",
+        "onboard_time": 1730091259,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256664,
+        "num": 256664,
+        "word": "特朗普搓澡舞美国走红",
+        "onboard_time": 1730091080,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201271,
+        "num": 201271,
+        "word": "员工抑郁请病假被辞公司被判赔3.3万",
+        "onboard_time": 1730084418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533872,
+        "num": 200694,
+        "word": "王楚钦拟聘北京一校队运动员岗",
+        "onboard_time": 1730092878,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422253,
+        "num": 200183,
+        "word": "花少6豆瓣评分跌至3.9",
+        "onboard_time": 1730095639,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405051,
+        "num": 199930,
+        "word": "被虐致死男童生父称没想到这么严重",
+        "onboard_time": 1730090060,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393620,
+        "num": 199026,
+        "word": "赵丽颖辛芷蕾合体走红毯",
+        "onboard_time": 1730100499,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359090,
+        "num": 198702,
+        "word": "肖战新片射雕英雄传看点推介",
+        "onboard_time": 1730100079,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350093,
+        "num": 198345,
+        "word": "高雅CP",
+        "onboard_time": 1730091559,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248213,
+        "num": 197482,
+        "word": "毓言cp官宣",
+        "onboard_time": 1730089221,
+        "rank": 26,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 247137,
+        "num": 197043,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238535,
+        "num": 196094,
+        "word": "杜海涛 不要在愤怒时做决定",
+        "onboard_time": 1730097139,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212019,
+        "num": 195905,
+        "word": "乳腺癌到底会不会遗传",
+        "onboard_time": 1730095338,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215351,
+        "num": 195024,
+        "word": "心动的信号7第九期好抓马",
+        "onboard_time": 1730098039,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194915,
+        "num": 194915,
+        "word": "辛芷蕾薄纱高定裙",
+        "onboard_time": 1730100258,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190890,
+        "num": 190890,
+        "word": "杨笠登上经济学人专题报道版面",
+        "onboard_time": 1730090419,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175034,
+        "num": 175034,
+        "word": "美国一男网红在韩国亵渎慰安妇雕像",
+        "onboard_time": 1730100799,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166347,
+        "num": 166347,
+        "word": "以钉钉子精神抓好改革任务落实",
+        "onboard_time": 1730099418,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188660,
+        "num": 165794,
+        "word": "邵兵一家颜值",
+        "onboard_time": 1730097799,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380104,
+        "num": 165669,
+        "word": "日默瓦 樊振东",
+        "onboard_time": 1730097019,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164396,
+        "num": 164396,
+        "word": "双11预售实付321元直接买仅308",
+        "onboard_time": 1730088919,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186791,
+        "num": 164128,
+        "word": "泰国机场偶遇刘亦菲",
+        "onboard_time": 1730096238,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186282,
+        "num": 163729,
+        "word": "东京电影节开幕红毯",
+        "onboard_time": 1730097619,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178824,
+        "num": 163383,
+        "word": "易烊千玺在拍影版边水往事",
+        "onboard_time": 1730095158,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162540,
+        "num": 162540,
+        "word": "樊振东黑西装",
+        "onboard_time": 1730098759,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152276,
+        "num": 152276,
+        "word": "沈腾一本正经的蹭了所有人镜头",
+        "onboard_time": 1730090600,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 146361,
+        "num": 146361,
+        "word": "神十九发射在即",
+        "onboard_time": 1730096899,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137184,
+        "num": 137184,
+        "word": "红斑狼疮女性患者是男性的9倍",
+        "onboard_time": 1730100139,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136934,
+        "num": 136934,
+        "word": "赵今麦金属感眼妆",
+        "onboard_time": 1730099598,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 132193,
+        "num": 132193,
+        "word": "麦琳和李行亮最窒息的片段",
+        "onboard_time": 1730099418,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128571,
+        "num": 128571,
+        "word": "田嘉瑞工作室审美",
+        "onboard_time": 1730097979,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124606,
+        "num": 124606,
+        "word": "魅族撞档小米发布会",
+        "onboard_time": 1730097799,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124083,
+        "num": 124083,
+        "word": "电影小小的我11月2日全球首映",
+        "onboard_time": 1730100980,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}
