@@ -1,0 +1,410 @@
+{
+  "runTime": 1730084892357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556085,
+        "num": 2556085,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 947008,
+        "num": 947008,
+        "word": "卡车撞以色列公交站司机已被打死",
+        "onboard_time": 1730080218,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 10191,
+        "num": 844905,
+        "word": "这件瓷壶静静美了700多年",
+        "onboard_time": 1730037382,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1575939,
+        "num": 829251,
+        "word": "邵兵儿子",
+        "onboard_time": 1730083517,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803183,
+        "num": 803183,
+        "word": "雷军回应小米15涨价幅度",
+        "onboard_time": 1730083338,
+        "rank": 4,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 754765,
+        "num": 754765,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769410,
+        "num": 695533,
+        "word": "大梦归离豆瓣除名郭敬明",
+        "onboard_time": 1730081717,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613953,
+        "num": 613953,
+        "word": "中国选手颜值惊艳韩国人",
+        "onboard_time": 1730081717,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391125,
+        "num": 391125,
+        "word": "Faker回应Bin",
+        "onboard_time": 1730078477,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169299,
+        "num": 370011,
+        "word": "景区禁止游客自带食物却翻倍自卖",
+        "onboard_time": 1730083218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362944,
+        "num": 362944,
+        "word": "闫桉身材",
+        "onboard_time": 1730084238,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347644,
+        "num": 347644,
+        "word": "烧伤妈妈情况不好",
+        "onboard_time": 1730040141,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337413,
+        "num": 337413,
+        "word": "国乒法国冠军赛0冠收场",
+        "onboard_time": 1730072477,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315913,
+        "num": 315913,
+        "word": "邵子恒好帅",
+        "onboard_time": 1730080338,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42835,
+        "num": 308497,
+        "word": "扒一扒美国两党都在回避的军费问题",
+        "onboard_time": 1730084838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307537,
+        "num": 307537,
+        "word": "朝鲜强调已对韩国军方发出最后警告",
+        "onboard_time": 1730072717,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300521,
+        "num": 300521,
+        "word": "韩束 赵今麦",
+        "onboard_time": 1730083998,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295683,
+        "num": 295683,
+        "word": "雪中飞 成毅",
+        "onboard_time": 1730083457,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282736,
+        "num": 282736,
+        "word": "尤长靖从9到1走了6年",
+        "onboard_time": 1730081117,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281957,
+        "num": 281957,
+        "word": "有种安全感叫中国军人来了",
+        "onboard_time": 1730078838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494766,
+        "num": 264633,
+        "word": "沈腾提词器的字比别人大",
+        "onboard_time": 1730081477,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419652,
+        "num": 251304,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354080,
+        "num": 246006,
+        "word": "为什么许多商场一楼没有厕所",
+        "onboard_time": 1730080877,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227214,
+        "num": 227214,
+        "word": "日本执政联盟失去众议院过半席位",
+        "onboard_time": 1730080579,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 313975,
+        "num": 220236,
+        "word": "26楼扔猫外卖员已被平台永久拉黑",
+        "onboard_time": 1730074340,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240148,
+        "num": 217621,
+        "word": "周震南 百度这么写没通知我啊",
+        "onboard_time": 1730072237,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199300,
+        "num": 199300,
+        "word": "长沙一公厕疑有人冲洗臭豆腐原材料",
+        "onboard_time": 1730061851,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195284,
+        "num": 195284,
+        "word": "知情人曝柜姐和妈妈已报案",
+        "onboard_time": 1730025438,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194243,
+        "num": 194243,
+        "word": "国乒新秀与同龄高手起点不同",
+        "onboard_time": 1730083038,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192058,
+        "num": 192058,
+        "word": "飞天茅台价格跌近2000元",
+        "onboard_time": 1730075058,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 182615,
+        "num": 182615,
+        "word": "被老祖宗的顶级审美震撼到",
+        "onboard_time": 1730074999,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179377,
+        "num": 179377,
+        "word": "16岁女生第3次夺女子标枪世界冠军",
+        "onboard_time": 1730083818,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169718,
+        "num": 169718,
+        "word": "快船vs勇士",
+        "onboard_time": 1730083638,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12813,
+        "num": 169277,
+        "word": "贾冰的AI助理还是太全面了",
+        "onboard_time": 1730084358,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169169,
+        "num": 169169,
+        "word": "员工抑郁口头请病假被按旷工开除",
+        "onboard_time": 1730084418,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 156341,
+        "word": "麦琳问杨子的情商是天生的吗",
+        "onboard_time": 1730078717,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147655,
+        "num": 147655,
+        "word": "TheShy说Chovy可惜",
+        "onboard_time": 1730080877,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142176,
+        "num": 142176,
+        "word": "春花焰 慕容璟和十年未束发",
+        "onboard_time": 1730083939,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135419,
+        "num": 135419,
+        "word": "白百何新剧 35岁女性职场困境",
+        "onboard_time": 1730084538,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126844,
+        "num": 126844,
+        "word": "杜华后悔一个人来看李梦",
+        "onboard_time": 1730042361,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126097,
+        "num": 126097,
+        "word": "崔永熙NBA首秀",
+        "onboard_time": 1730078177,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125723,
+        "num": 125723,
+        "word": "塔斯汀门店回应汉堡肉是生的",
+        "onboard_time": 1730041881,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123796,
+        "num": 123796,
+        "word": "韦德雕像豆腐渣工程",
+        "onboard_time": 1730074878,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122308,
+        "num": 122308,
+        "word": "周雨彤边界感",
+        "onboard_time": 1730029699,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122125,
+        "num": 122125,
+        "word": "23年前杀害女子真凶被找到时在服刑",
+        "onboard_time": 1730038581,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119429,
+        "num": 119429,
+        "word": "国乒两名独苗均无缘决赛",
+        "onboard_time": 1730072477,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119130,
+        "num": 119130,
+        "word": "俄罗斯老人为中国男生演奏中国国歌",
+        "onboard_time": 1730083757,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 118615,
+        "word": "睡眠不足时身体有什么变化",
+        "onboard_time": 1730073557,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117738,
+        "num": 117738,
+        "word": "王鹤棣新歌MV上线",
+        "onboard_time": 1730084779,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117543,
+        "num": 117543,
+        "word": "Gumayusi喊话Bin",
+        "onboard_time": 1730048594,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个维度看习近平喀山之行#"
+    }
+  }
+}

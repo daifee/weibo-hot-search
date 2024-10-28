@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730084345409,
+  "endTime": 1730084892357,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2556085,
+      "num": 2556085,
+      "word": "郭敬明删除大梦归离相关博文",
+      "onboard_time": 1730079798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2460431,
       "num": 2460431,
       "word": "林诗栋0比4F勒布伦",
@@ -49,14 +57,6 @@
       "onboard_time": 1730022797,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2412463,
-      "num": 2412463,
-      "word": "郭敬明删除大梦归离相关博文",
-      "onboard_time": 1730079798,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 2253350,
@@ -137,6 +137,14 @@
       "onboard_time": 1729998857,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1575939,
+      "num": 858796,
+      "word": "邵兵儿子",
+      "onboard_time": 1730083517,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1573960,
@@ -283,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1063713,
-      "num": 858796,
-      "word": "邵兵儿子",
-      "onboard_time": 1730083517,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1060226,
       "num": 277558,
       "word": "两高中生奸杀教师案最新进展",
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 897572,
-      "num": 442804,
+      "num": 695533,
       "word": "大梦归离豆瓣除名郭敬明",
       "onboard_time": 1730081717,
       "rank": 6,
@@ -441,6 +441,14 @@
       "onboard_time": 1730043680,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 803183,
+      "num": 803183,
+      "word": "雷军回应小米15涨价幅度",
+      "onboard_time": 1730083338,
+      "rank": 10,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 795248,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 615573,
-      "num": 420787,
+      "num": 613953,
       "word": "中国选手颜值惊艳韩国人",
       "onboard_time": 1730081717,
       "rank": 7,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 507158,
-      "num": 195989,
+      "num": 264633,
       "word": "沈腾提词器的字比别人大",
       "onboard_time": 1730081477,
       "rank": 20,
@@ -905,14 +913,6 @@
       "onboard_time": 1730014278,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 479663,
-      "num": 363768,
-      "word": "雷军回应小米15涨价幅度",
-      "onboard_time": 1730083338,
-      "rank": 10,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 472051,
@@ -1147,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 362944,
+      "num": 362944,
+      "word": "闫桉身材",
+      "onboard_time": 1730084238,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357017,
       "num": 357017,
       "word": "邵子恒好帅",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1730004079,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354080,
+      "num": 246006,
+      "word": "为什么许多商场一楼没有厕所",
+      "onboard_time": 1730080877,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353479,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 338789,
-      "num": 195847,
-      "word": "为什么许多商场一楼没有厕所",
-      "onboard_time": 1730080877,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336205,
@@ -1385,6 +1393,22 @@
       "onboard_time": 1729997719,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300521,
+      "num": 300521,
+      "word": "韩束 赵今麦",
+      "onboard_time": 1730083998,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 295683,
+      "num": 295683,
+      "word": "雪中飞 成毅",
+      "onboard_time": 1730083457,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 294372,
@@ -1835,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227214,
+      "num": 319061,
+      "word": "日本执政联盟失去众议院过半席位",
+      "onboard_time": 1730080579,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 226861,
       "num": 226861,
       "word": "小虎 抽象",
@@ -2123,14 +2155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196044,
-      "num": 196044,
-      "word": "雪中飞 成毅",
-      "onboard_time": 1730083457,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195999,
       "num": 195999,
       "word": "钎城墨染江湖舞台好绝",
@@ -2176,6 +2200,14 @@
       "word": "樊振东连发5条皇马动态",
       "onboard_time": 1730001199,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194243,
+      "num": 196036,
+      "word": "国乒新秀与同龄高手起点不同",
+      "onboard_time": 1730083038,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -2248,14 +2280,6 @@
       "word": "姆巴佩为樊振东比第一",
       "onboard_time": 1729988775,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 188758,
-      "num": 196036,
-      "word": "国乒新秀与同龄高手起点不同",
-      "onboard_time": 1730083038,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -2363,6 +2387,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 179377,
+      "num": 179377,
+      "word": "16岁女生第3次夺女子标枪世界冠军",
+      "onboard_time": 1730083818,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178419,
       "num": 178419,
       "word": "郑晓龙说藏海传正在后期制作",
@@ -2427,14 +2459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 174204,
-      "num": 319061,
-      "word": "日本执政联盟失去众议院过半席位",
-      "onboard_time": 1730080579,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 172907,
       "num": 172907,
       "word": "中超",
@@ -2457,6 +2481,30 @@
       "onboard_time": 1730007198,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169718,
+      "num": 169718,
+      "word": "快船vs勇士",
+      "onboard_time": 1730083638,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169299,
+      "num": 370011,
+      "word": "景区禁止游客自带食物却翻倍自卖",
+      "onboard_time": 1730083218,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169169,
+      "num": 169169,
+      "word": "员工抑郁口头请病假被按旷工开除",
+      "onboard_time": 1730084418,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168631,
@@ -2563,14 +2611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161457,
-      "num": 161457,
-      "word": "韩束 赵今麦",
-      "onboard_time": 1730083998,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "粉笔模考",
@@ -2619,14 +2659,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 158915,
-      "num": 158915,
-      "word": "快船vs勇士",
-      "onboard_time": 1730083638,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157982,
       "num": 157982,
       "word": "谁懂许嵩这一圈专辑名的杀伤力",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1729995558,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157769,
-      "num": 157769,
-      "word": "景区禁止游客自带食物却翻倍自卖",
-      "onboard_time": 1730083218,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156383,
@@ -2827,14 +2851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146147,
-      "num": 146147,
-      "word": "16岁女生第3次夺女子标枪世界冠军",
-      "onboard_time": 1730083818,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145741,
       "num": 145741,
       "word": "在浙江农村吃席被震惊了",
@@ -2873,6 +2889,14 @@
       "onboard_time": 1730028737,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142176,
+      "num": 142176,
+      "word": "春花焰 慕容璟和十年未束发",
+      "onboard_time": 1730083939,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141993,
@@ -3027,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135419,
+      "num": 135419,
+      "word": "白百何新剧 35岁女性职场困境",
+      "onboard_time": 1730084538,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134800,
       "num": 160480,
       "word": "俄罗斯老人为中国男生演奏中国国歌",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1729992737,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133634,
-      "num": 133634,
-      "word": "闫桉身材",
-      "onboard_time": 1730084238,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 133448,
@@ -3243,14 +3267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122841,
-      "num": 122841,
-      "word": "春花焰 慕容璟和十年未束发",
-      "onboard_time": 1730083939,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122482,
       "num": 122482,
       "word": "撞以色列公交站司机为以籍阿拉伯人",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1730035460,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117738,
+      "num": 117738,
+      "word": "王鹤棣新歌MV上线",
+      "onboard_time": 1730084779,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 117364,
@@ -3883,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42835,
+      "num": 308497,
+      "word": "扒一扒美国两党都在回避的军费问题",
+      "onboard_time": 1730084838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42748,
       "num": 328718,
       "word": "以方称袭击伊朗目标非美国指令",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1729972450,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12813,
+      "num": 169277,
+      "word": "贾冰的AI助理还是太全面了",
+      "onboard_time": 1730084358,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 12248,

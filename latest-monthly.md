@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 10:59:05
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 11:08:12
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ k总（热度：2611084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%88%A0%E9%99%A4%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%E7%9B%B8%E5%85%B3%E5%8D%9A%E6%96%87%23" target="weibo">
+郭敬明删除大梦归离相关博文（热度：2556085）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E6%AD%A2%E6%AD%A5S14%E5%85%AB%E5%BC%BA%23" target="weibo">
 TES止步S14八强（热度：2522793）
 </a>
@@ -629,12 +635,6 @@ VOGUE走秀（热度：2466480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%8B%86%E8%BF%81%23" target="weibo">
 成都拆迁（热度：2417310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%88%A0%E9%99%A4%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%E7%9B%B8%E5%85%B3%E5%8D%9A%E6%96%87%23" target="weibo">
-郭敬明删除大梦归离相关博文（热度：2412463）
 </a>
 </li>
 
@@ -1985,6 +1985,12 @@ BLG晋级S14四强（热度：1624127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%94%E6%96%AF%E6%B1%80%20%E8%B1%86%E8%A7%92%E6%B1%89%E5%A0%A1%23" target="weibo">
 塔斯汀 豆角汉堡（热度：1576566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B5%E5%85%B5%E5%84%BF%E5%AD%90%23" target="weibo">
+邵兵儿子（热度：1575939）
 </a>
 </li>
 
@@ -4163,12 +4169,6 @@ K总停播（热度：1089422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%23" target="weibo">
 TES对战T1（热度：1063834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B5%E5%85%B5%E5%84%BF%E5%AD%90%23" target="weibo">
-邵兵儿子（热度：1063713）
 </a>
 </li>
 
