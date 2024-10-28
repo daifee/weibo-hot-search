@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730108346505,
+  "endTime": 1730111110851,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -57,6 +57,14 @@
       "onboard_time": 1730104518,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1871246,
+      "num": 388294,
+      "word": "孙乐言 奇葩",
+      "onboard_time": 1730107759,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1793258,
@@ -155,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1238595,
+      "num": 1238595,
+      "word": "官方通报多名教师私聊群发不当言论",
+      "onboard_time": 1730105959,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1187083,
       "num": 1187083,
       "word": "赵丽颖东京电影节生图",
       "onboard_time": 1730098218,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1171372,
+      "num": 1171372,
+      "word": "杨妞花直播因太多人刷礼物关播",
+      "onboard_time": 1730110160,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1151764,
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 711462,
+      "num": 337690,
+      "word": "妻子脚部手术几天没洗丈夫隔空抹药",
+      "onboard_time": 1730110160,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704314,
       "num": 287178,
       "word": "长沙一公厕疑有人冲洗臭豆腐原材料",
@@ -355,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 631707,
-      "num": 368148,
-      "word": "孙乐言 奇葩",
-      "onboard_time": 1730107759,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 619167,
+      "num": 619167,
+      "word": "中方严正抗议CIA公然发布投靠指南",
+      "onboard_time": 1730107280,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 609907,
@@ -401,6 +433,14 @@
       "onboard_time": 1730100499,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 581260,
+      "num": 351263,
+      "word": "欠款百万的大伯被带到威海买海景房",
+      "onboard_time": 1730108900,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580521,
@@ -475,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506422,
+      "num": 506422,
+      "word": "孙乐言 我现在不是一个普通人了",
+      "onboard_time": 1730110459,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505642,
       "num": 505642,
       "word": "飞天茅台价格跌近2000元",
@@ -531,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 479538,
+      "num": 449109,
+      "word": "10个月婴儿吃蛋白休克抢救半小时",
+      "onboard_time": 1730107458,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 460801,
       "num": 460801,
       "word": "BLG决赛对战T1",
@@ -561,14 +617,6 @@
       "onboard_time": 1730074878,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449109,
-      "num": 449109,
-      "word": "10个月婴儿吃蛋白休克抢救半小时",
-      "onboard_time": 1730107458,
-      "rank": 24,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 445543,
@@ -667,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378889,
-      "num": 378889,
-      "word": "中方严正抗议CIA公然发布投靠指南",
-      "onboard_time": 1730107280,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 385679,
+      "num": 298945,
+      "word": "被虐致死男童生父希望从重处理女友",
+      "onboard_time": 1730109678,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377308,
@@ -681,6 +729,14 @@
       "onboard_time": 1730096238,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374250,
+      "num": 374250,
+      "word": "黄晓明红毯状态",
+      "onboard_time": 1730110160,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 369431,
@@ -763,6 +819,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 335615,
+      "num": 388447,
+      "word": "加快完善生育支持政策体系措施出台",
+      "onboard_time": 1730110279,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330568,
       "num": 256444,
       "word": "GEN白赢一整年",
@@ -800,14 +864,6 @@
       "word": "男子月入一两千愿寻伴侣共患难",
       "onboard_time": 1730086759,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312428,
-      "num": 537574,
-      "word": "官方通报多名教师私聊群发不当言论",
-      "onboard_time": 1730105959,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -947,6 +1003,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265541,
+      "num": 265541,
+      "word": "偷偷藏不住婚卡怎么看都有面",
+      "onboard_time": 1730110097,
+      "rank": 28,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 262797,
+      "num": 262797,
+      "word": "车牌8个字万无一失圆满成功",
+      "onboard_time": 1730107699,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262417,
       "num": 262417,
       "word": "Uzi说chovy没有冠军的命",
@@ -1043,12 +1115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235881,
+      "num": 517127,
+      "word": "外卖小哥被3名保安抡起板凳砸",
+      "onboard_time": 1730106560,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234947,
       "num": 241661,
       "word": "麦琳问杨子的情商是天生的吗",
       "onboard_time": 1730078717,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233654,
+      "num": 233654,
+      "word": "肿瘤医院回应拒收商业保险病人",
+      "onboard_time": 1730108418,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229069,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1730072237,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216600,
+      "num": 216600,
+      "word": "一批违法违规涉军自媒体账号被处置",
+      "onboard_time": 1730109917,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215821,
@@ -1323,14 +1419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187438,
-      "num": 187438,
-      "word": "车牌8个字万无一失圆满成功",
-      "onboard_time": 1730107699,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187145,
       "num": 187145,
       "word": "田曦薇双马尾棕色look",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1730086639,
       "rank": 9,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 164537,
+      "num": 164537,
+      "word": "财会人为何总在考证路上",
+      "onboard_time": 1730110399,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163860,
@@ -1729,6 +1825,14 @@
       "onboard_time": 1730073917,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129699,
+      "num": 236101,
+      "word": "美国从未停止针对中国的间谍活动",
+      "onboard_time": 1730108781,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128134,
@@ -2147,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71841,
-      "num": 517127,
-      "word": "外卖小哥被3名保安抡起板凳砸",
-      "onboard_time": 1730106560,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71190,
       "num": 73200,
       "word": "女子为保护女孩手被恶犬咬伤",
@@ -2251,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56342,
+      "num": 358951,
+      "word": "T1 我们终于成功复仇",
+      "onboard_time": 1730110578,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53256,
       "num": 117450,
       "word": "张凯丽也体会到秦海璐周一围的苦了",
@@ -2305,6 +2409,14 @@
       "onboard_time": 1730086279,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38691,
+      "num": 387938,
+      "word": "多款婚恋交友APP均不用实名认证",
+      "onboard_time": 1730110698,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38604,
@@ -2363,6 +2475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 31264,
+      "num": 216637,
+      "word": "金桃之夜梗太密了",
+      "onboard_time": 1730110339,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31251,
       "num": 236041,
       "word": "被林依轮歌迷的文案戳中泪点",
@@ -2387,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29921,
+      "num": 406375,
+      "word": "网友造谣频繁有青少年失踪被处罚",
+      "onboard_time": 1730109980,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29895,
       "num": 171513,
       "word": "汪苏泷上海演唱会",
@@ -2401,6 +2529,14 @@
       "onboard_time": 1730093899,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28864,
+      "num": 216604,
+      "word": "博主AI助手不是本人胜似本人",
+      "onboard_time": 1730110279,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 27421,
@@ -2427,6 +2563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23250,
+      "num": 1268867,
+      "word": "深秋稻浪飘香丰收忙",
+      "onboard_time": 1730107519,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23067,
       "num": 23067,
       "word": "苏新皓超长日常vlog",
@@ -2435,20 +2579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22972,
-      "num": 1268867,
-      "word": "深秋稻浪飘香丰收忙",
-      "onboard_time": 1730107519,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18159,
       "num": 30292,
       "word": "5岁女孩被拐26年后终于回家",
       "onboard_time": 1730060591,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16017,
+      "num": 144206,
+      "word": "一招解决骑行膝盖疼痛",
+      "onboard_time": 1730110219,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 15314,

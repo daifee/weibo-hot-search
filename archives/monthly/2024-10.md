@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 17:39:06
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 18:25:10
 </p>
 </blockquote>
 <p>
@@ -1337,6 +1337,12 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%23" target="weibo">
 江歌妈妈（热度：1874398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%20%E5%A5%87%E8%91%A9%23" target="weibo">
+孙乐言 奇葩（热度：1871246）
 </a>
 </li>
 
@@ -3303,6 +3309,12 @@ A股开盘近5000只个股下跌（热度：1242137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E7%A7%81%E8%81%8A%E7%BE%A4%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23" target="weibo">
+官方通报多名教师私聊群发不当言论（热度：1238595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%AE%9D%E5%A6%88%E5%8F%88%E6%80%80%E4%B8%8A%E4%B8%89%E8%83%9E%E8%83%8E%E7%A7%B0%E6%9C%89%E5%8E%8B%E5%8A%9B%23" target="weibo">
 双胞胎宝妈又怀上三胞胎称有压力（热度：1235493）
 </a>
@@ -3641,6 +3653,12 @@ JDG官宣Ruler离队（热度：1203717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%B2%E9%99%85%E5%AF%BC%E5%BC%B9%23" target="weibo">
 洲际导弹（热度：1172298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%9B%B4%E6%92%AD%E5%9B%A0%E5%A4%AA%E5%A4%9A%E4%BA%BA%E5%88%B7%E7%A4%BC%E7%89%A9%E5%85%B3%E6%92%AD%23" target="weibo">
+杨妞花直播因太多人刷礼物关播（热度：1171372）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%8B%8D%E6%91%84%E5%9F%BA%E5%9C%B0%E4%BA%BA%E5%8E%BB%E6%88%BF%E7%A9%BA%23" target="weibo">
 东北雨姐拍摄基地人去房空（热度：874322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8D%95%23" target="weibo">
-亚锦赛女单（热度：874290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E4%BD%93%E6%A3%80%E5%B8%82%E6%B0%91%E8%A2%AB%E6%8B%A6%E4%BD%8F%23" target="weibo">
-医院回应公职人员体检市民被拦住（热度：873909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%BE%92%E5%BC%9F%E7%8E%B0%E7%8A%B6%23" target="weibo">
-东北雨姐徒弟现状（热度：872957）
 </a>
 </li>
 
