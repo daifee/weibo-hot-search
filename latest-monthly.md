@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 13:22:53
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/28 13:40:30
 </p>
 </blockquote>
 <p>
@@ -2187,6 +2187,12 @@ TES战胜T1（热度：1515921）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%9B%85CP%23" target="weibo">
+高雅CP（热度：1512003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E9%87%91%E9%B9%B0%E5%A5%B3%E7%A5%9E%23" target="weibo">
 没有金鹰女神（热度：1510671）
 </a>
@@ -2657,12 +2663,6 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%9424%E5%85%83%E5%9D%90%E5%95%86%E5%8A%A1%E5%BA%A7%E9%80%8155%E5%85%83%E9%A5%AD%E9%A3%9F%23" target="weibo">
 12306回应24元坐商务座送55元饭食（热度：1362299）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%9B%85CP%23" target="weibo">
-高雅CP（热度：1362150）
 </a>
 </li>
 
@@ -3999,6 +3999,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%A8%A1%E4%BB%BF%E8%80%85%E9%81%AD%E5%90%91%E4%BD%90%E6%89%87%E5%B7%B4%E6%8E%8C%23" target="weibo">
+李小龙模仿者遭向佐扇巴掌（热度：1103293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B32%E6%AF%941%E5%8D%B0%E5%B0%BC%23" target="weibo">
 国足2比1印尼（热度：1103125）
 </a>
@@ -4991,6 +4997,12 @@ SEVENTEEN演唱会着火（热度：981986）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%89%8D%E5%89%AF%E5%B8%82%E9%95%BF%E9%AA%97%E5%8F%96%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%23" target="weibo">
 北京前副市长骗取经济学博士学位（热度：973361）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%E7%99%BB%E4%B8%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E4%B8%93%E9%A2%98%E6%8A%A5%E9%81%93%E7%89%88%E9%9D%A2%23" target="weibo">
+杨笠登上经济学人专题报道版面（热度：972704）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ whiplash 吒味十足（热度：872043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%BD%91%E6%B0%91%E8%B4%A8%E7%96%91%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E5%90%B4%E6%85%B7%E4%BB%81%23" target="weibo">
 国台办回应网民质疑台湾艺人吴慷仁（热度：868089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%20%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%AB%E9%86%92%23" target="weibo">
-高速堵车 无人机叫醒（热度：867926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%86%8D%E5%BA%A6%E5%91%BC%E5%96%8A%E8%B6%85%E5%A5%B3%E5%BF%AB%E5%A5%B3%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
-何炅再度呼喊超女快女的名字（热度：867764）
 </a>
 </li>
 
