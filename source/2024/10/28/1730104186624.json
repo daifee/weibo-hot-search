@@ -1,0 +1,410 @@
+{
+  "runTime": 1730104186624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1678827,
+        "num": 1678827,
+        "word": "李小龙模仿者遭向佐扇巴掌",
+        "onboard_time": 1730093239,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664265,
+        "num": 664265,
+        "word": "三亚全市中小学停课",
+        "onboard_time": 1730094497,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79901,
+        "num": 498751,
+        "word": "真实版核舟记真的太硬核了",
+        "onboard_time": 1730084960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972047,
+        "num": 498394,
+        "word": "95后硕士炒股一月狂赚112万",
+        "onboard_time": 1730103079,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962501,
+        "num": 491449,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730095818,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455075,
+        "num": 455075,
+        "word": "南京博物院免费门票被黄牛炒至两百元",
+        "onboard_time": 1730098339,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634597,
+        "num": 436649,
+        "word": "赵丽颖闪钻长裙",
+        "onboard_time": 1730102060,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264314,
+        "num": 264314,
+        "word": "国安部揭露境外间谍惯用伎俩",
+        "onboard_time": 1730091259,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256056,
+        "num": 256056,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200752,
+        "num": 255643,
+        "word": "海南三亚暴雨红色预警",
+        "onboard_time": 1730097079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1713822,
+        "num": 255568,
+        "word": "高校回应已婚女老师出轨学生",
+        "onboard_time": 1730099839,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310131,
+        "num": 254924,
+        "word": "美国一男网红在韩国亵渎慰安妇雕像",
+        "onboard_time": 1730100799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623672,
+        "num": 254496,
+        "word": "警方称生父女友虐童画面太残忍",
+        "onboard_time": 1730098098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585447,
+        "num": 254038,
+        "word": "赵丽颖辛芷蕾合体走红毯",
+        "onboard_time": 1730100499,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 556420,
+        "num": 253919,
+        "word": "奥斯卡孙乐言亲了",
+        "onboard_time": 1730094497,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482726,
+        "num": 253431,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398163,
+        "num": 252914,
+        "word": "肖战新片射雕英雄传看点推介",
+        "onboard_time": 1730100079,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372977,
+        "num": 252452,
+        "word": "20岁女生在印度公派留学的一天",
+        "onboard_time": 1730102119,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342775,
+        "num": 252131,
+        "word": "尸检证实男童被生父女友虐待致死",
+        "onboard_time": 1730102839,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15062,
+        "num": 251915,
+        "word": "哈利波特系列前两部密钥延期",
+        "onboard_time": 1730103258,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 867178,
+        "num": 251335,
+        "word": "高校女老师被丈夫举报出轨学生",
+        "onboard_time": 1730101279,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167126,
+        "num": 251033,
+        "word": "以钉钉子精神抓好改革任务落实",
+        "onboard_time": 1730099418,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392187,
+        "num": 250452,
+        "word": "小红书 审判麦琳",
+        "onboard_time": 1730095578,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390287,
+        "num": 249999,
+        "word": "翁青雅哭了",
+        "onboard_time": 1730094618,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383188,
+        "num": 249561,
+        "word": "王楚钦拟聘北京一校队运动员岗",
+        "onboard_time": 1730092878,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324496,
+        "num": 249114,
+        "word": "向佐回应打脸李小龙模仿者",
+        "onboard_time": 1730094978,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308999,
+        "num": 248643,
+        "word": "吃太油腻引发癌变全过程演示",
+        "onboard_time": 1730102538,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302212,
+        "num": 248582,
+        "word": "被虐致死男童生父称没想到这么严重",
+        "onboard_time": 1730090060,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339984,
+        "num": 247794,
+        "word": "高雅CP",
+        "onboard_time": 1730091559,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170160,
+        "num": 247396,
+        "word": "六不像现身云南怒江峡谷",
+        "onboard_time": 1730103258,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247365,
+        "num": 247365,
+        "word": "樊振东黑西装",
+        "onboard_time": 1730098759,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10029,
+        "num": 232975,
+        "word": "南极科考队员们最难忘的事",
+        "onboard_time": 1730102779,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226851,
+        "num": 226851,
+        "word": "花少6豆瓣评分跌至3.9",
+        "onboard_time": 1730095639,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206926,
+        "num": 206926,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199983,
+        "num": 199983,
+        "word": "慕容璟和不被爱的才是小三",
+        "onboard_time": 1730103258,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45313,
+        "num": 196739,
+        "word": "小米SU7Ultra刹车盘就值一辆车",
+        "onboard_time": 1730103558,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35119,
+        "num": 195167,
+        "word": "周鸿祎喜提小鹏X9",
+        "onboard_time": 1730103200,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194632,
+        "num": 194632,
+        "word": "为什么不搞个再见朋友",
+        "onboard_time": 1730102658,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193659,
+        "num": 193659,
+        "word": "特朗普搓澡舞美国走红",
+        "onboard_time": 1730091080,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188627,
+        "num": 188627,
+        "word": "张钧甯黑色抹胸长裙",
+        "onboard_time": 1730103619,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186289,
+        "num": 186289,
+        "word": "心动的信号7第九期好抓马",
+        "onboard_time": 1730098039,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160178,
+        "num": 160178,
+        "word": "杨笠登上经济学人专题报道版面",
+        "onboard_time": 1730090419,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169701,
+        "num": 158327,
+        "word": "毓言cp官宣",
+        "onboard_time": 1730089221,
+        "rank": 42,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 153262,
+        "word": "再见爱人 三巨头会面",
+        "onboard_time": 1730103979,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148385,
+        "num": 148385,
+        "word": "当地回应村支书系爱马仕皮带坐豪车",
+        "onboard_time": 1730096599,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147812,
+        "num": 147812,
+        "word": "双11预售实付321元直接买仅308",
+        "onboard_time": 1730088919,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146068,
+        "num": 146068,
+        "word": "董子健刘昊然合体亮相东京电影节",
+        "onboard_time": 1730101637,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144608,
+        "num": 144608,
+        "word": "神十九发射任务各系统准备就绪",
+        "onboard_time": 1730104158,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139024,
+        "num": 139024,
+        "word": "杜海涛 不要在愤怒时做决定",
+        "onboard_time": 1730097139,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137424,
+        "num": 137424,
+        "word": "日默瓦 樊振东",
+        "onboard_time": 1730097019,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}
