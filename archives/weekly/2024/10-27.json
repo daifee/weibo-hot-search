@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730089683501,
+  "endTime": 1730090544885,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2098837,
+      "num": 2098837,
+      "word": "毓言cp官宣",
+      "onboard_time": 1730089221,
+      "rank": 6,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 2086855,
       "num": 2086855,
       "word": "员工抑郁口头请病假被按旷工开除",
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1782730,
+      "num": 1698412,
+      "word": "花少6 周雨彤",
+      "onboard_time": 1730085499,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1735646,
       "num": 1228460,
       "word": "第37届金鸡奖提名名单",
       "onboard_time": 1729998857,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1698412,
-      "num": 1698412,
-      "word": "花少6 周雨彤",
-      "onboard_time": 1730085499,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1575939,
@@ -395,12 +403,12 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 918455,
-      "num": 718281,
-      "word": "毓言cp官宣",
-      "onboard_time": 1730089221,
-      "rank": 6,
-      "category": "剧集,艺人"
+      "raw_hot": 919159,
+      "num": 919159,
+      "word": "江西上犹奖励三孩家庭1.3万元",
+      "onboard_time": 1730087657,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 913710,
@@ -465,14 +473,6 @@
       "onboard_time": 1730031139,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 846259,
-      "num": 846259,
-      "word": "江西上犹奖励三孩家庭1.3万元",
-      "onboard_time": 1730087657,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 845320,
@@ -867,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509136,
+      "num": 345320,
+      "word": "邪恶银渐层这个称号可不是吹的",
+      "onboard_time": 1730087719,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 507158,
       "num": 279237,
       "word": "沈腾提词器的字比别人大",
@@ -979,6 +987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 481646,
+      "num": 481646,
+      "word": "如韩再次侵犯主权朝方将采取攻势",
+      "onboard_time": 1730089459,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 472051,
       "num": 472051,
       "word": "许嵩 我到鸟巢只比唐僧取经少一年",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1730023278,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451048,
-      "num": 345320,
-      "word": "邪恶银渐层这个称号可不是吹的",
-      "onboard_time": 1730087719,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 445543,
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 389336,
-      "num": 281958,
+      "num": 285115,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
       "onboard_time": 1730074340,
       "rank": 23,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1729986015,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 347362,
+      "num": 302507,
+      "word": "双11预售实付321元直接买仅308",
+      "onboard_time": 1730088919,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345073,
@@ -1627,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276565,
+      "num": 276565,
+      "word": "林黛玉 冷月葬花魂",
+      "onboard_time": 1730086639,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 276432,
       "num": 276432,
       "word": "25岁辅警救落水老人双双溺亡",
@@ -1723,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259228,
+      "num": 259228,
+      "word": "小米SU7Ultra外观曝光",
+      "onboard_time": 1730090001,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 258337,
       "num": 389668,
       "word": "拜登回应以色列袭击伊朗",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1729989856,
       "rank": 26,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 252959,
-      "num": 252959,
-      "word": "林黛玉 冷月葬花魂",
-      "onboard_time": 1730086639,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 252945,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1730023457,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245001,
+      "num": 245001,
+      "word": "法国总统马克龙祝贺F勒布伦夺冠",
+      "onboard_time": 1730088679,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 244950,
@@ -1969,6 +2001,14 @@
       "onboard_time": 1730039840,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229069,
+      "num": 229069,
+      "word": "这届职场人是怎样花式午睡的",
+      "onboard_time": 1730089340,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 228467,
@@ -2163,14 +2203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210674,
-      "num": 210674,
-      "word": "双11预售实付321元直接买仅308",
-      "onboard_time": 1730088919,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210287,
       "num": 210287,
       "word": "16岁女生第3次夺女子标枪世界冠军",
@@ -2227,6 +2259,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 202999,
+      "num": 202999,
+      "word": "大梦归离不知死活的幽默感",
+      "onboard_time": 1730087298,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202827,
       "num": 202827,
       "word": "丁程鑫18秒挥了5次手",
@@ -2241,14 +2281,6 @@
       "onboard_time": 1730002338,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202129,
-      "num": 202129,
-      "word": "大梦归离不知死活的幽默感",
-      "onboard_time": 1730087298,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 201869,
@@ -2459,14 +2491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189520,
-      "num": 189520,
-      "word": "法国总统马克龙祝贺F勒布伦夺冠",
-      "onboard_time": 1730088679,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187087,
       "num": 187087,
       "word": "莲花楼舞台剧",
@@ -2475,12 +2499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186153,
+      "num": 186153,
+      "word": "杨笠登上经济学人专题报道版面",
+      "onboard_time": 1730090419,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185655,
       "num": 185655,
       "word": "华晨宇大莲花单场上座率最高歌手",
       "onboard_time": 1730042181,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185481,
+      "num": 170226,
+      "word": "麦当劳bob",
+      "onboard_time": 1730088859,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 185447,
@@ -2571,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181080,
+      "num": 181080,
+      "word": "GAPDAY音乐节抢票",
+      "onboard_time": 1730090301,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180690,
       "num": 209540,
       "word": "丁程鑫提醒周深看镜头",
@@ -2619,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177285,
+      "num": 312099,
+      "word": "被虐致死男童生父称没想到这么严重",
+      "onboard_time": 1730090060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176444,
       "num": 176444,
       "word": "崔永熙第7位NBA正式登场中国球员",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1729957700,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173528,
-      "num": 173528,
-      "word": "这届职场人是怎样花式午睡的",
-      "onboard_time": 1730089340,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 172907,
@@ -3041,14 +3089,6 @@
       "onboard_time": 1730043199,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148620,
-      "num": 380531,
-      "word": "如韩再次侵犯主权朝方将采取攻势",
-      "onboard_time": 1730089459,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 148240,
@@ -3539,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121552,
+      "num": 345510,
+      "word": "汪苏泷唱了他的爱",
+      "onboard_time": 1730089519,
+      "rank": 19,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 119951,
       "num": 119951,
       "word": "傅菁一分一秒舞台",
@@ -3660,7 +3708,7 @@
     },
     {
       "raw_hot": 112757,
-      "num": 1832262,
+      "num": 1945495,
       "word": "中式美学与秋景的适配度",
       "onboard_time": 1730085377,
       "rank": 2,
@@ -3851,14 +3899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95330,
-      "num": 345510,
-      "word": "汪苏泷唱了他的爱",
-      "onboard_time": 1730089519,
-      "rank": 19,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 95177,
       "num": 95177,
       "word": "迪丽热巴包场乔妍的心事",
@@ -3881,6 +3921,14 @@
       "onboard_time": 1730047696,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92636,
+      "num": 474559,
+      "word": "为什么我们越来越讨厌接电话",
+      "onboard_time": 1730080877,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89970,
@@ -4243,14 +4291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38862,
-      "num": 446723,
-      "word": "为什么我们越来越讨厌接电话",
-      "onboard_time": 1730080877,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38604,
       "num": 274856,
       "word": "贾冰的AI助理还是太全面了",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1730017817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34870,
+      "num": 319859,
+      "word": "电影熊出没重启未来定档",
+      "onboard_time": 1730090360,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 32283,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730090544885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2098837,
+        "num": 2098837,
+        "word": "毓言cp官宣",
+        "onboard_time": 1730089221,
+        "rank": 0,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 1977483,
+        "num": 1977483,
+        "word": "员工抑郁口头请病假被按旷工开除",
+        "onboard_time": 1730084418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77702,
+        "num": 1945495,
+        "word": "中式美学与秋景的适配度",
+        "onboard_time": 1730085377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1943437,
+        "num": 1943437,
+        "word": "郭敬明删除大梦归离相关博文",
+        "onboard_time": 1730079798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919159,
+        "num": 919159,
+        "word": "江西上犹奖励三孩家庭1.3万元",
+        "onboard_time": 1730087657,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701467,
+        "num": 701467,
+        "word": "网曝塔斯汀汉堡吃出生肉",
+        "onboard_time": 1730039961,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782730,
+        "num": 693988,
+        "word": "花少6 周雨彤",
+        "onboard_time": 1730085499,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634148,
+        "num": 634148,
+        "word": "邵兵儿子",
+        "onboard_time": 1730083517,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481646,
+        "num": 481646,
+        "word": "如韩再次侵犯主权朝方将采取攻势",
+        "onboard_time": 1730089459,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92636,
+        "num": 474559,
+        "word": "为什么我们越来越讨厌接电话",
+        "onboard_time": 1730080877,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539750,
+        "num": 473591,
+        "word": "大量网友收到兵器装备集团上新短信",
+        "onboard_time": 1730085078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471742,
+        "num": 471742,
+        "word": "卡车撞以色列公交站司机已被打死",
+        "onboard_time": 1730080218,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 445643,
+        "num": 445643,
+        "word": "中国选手颜值惊艳韩国人",
+        "onboard_time": 1730081717,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397555,
+        "num": 397555,
+        "word": "韩安冉送宋浩然22岁生日惊喜",
+        "onboard_time": 1730085438,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 335644,
+        "num": 335644,
+        "word": "大梦归离豆瓣除名郭敬明",
+        "onboard_time": 1730081717,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12513,
+        "num": 329655,
+        "word": "中国混动打破吉尼斯续航世界纪录",
+        "onboard_time": 1730086279,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 327978,
+        "num": 327978,
+        "word": "库里受伤",
+        "onboard_time": 1730086339,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121552,
+        "num": 325401,
+        "word": "汪苏泷唱了他的爱",
+        "onboard_time": 1730089519,
+        "rank": 17,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 34870,
+        "num": 319859,
+        "word": "电影熊出没重启未来定档",
+        "onboard_time": 1730090360,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177285,
+        "num": 312099,
+        "word": "被虐致死男童生父称没想到这么严重",
+        "onboard_time": 1730090060,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509136,
+        "num": 308132,
+        "word": "邪恶银渐层这个称号可不是吹的",
+        "onboard_time": 1730087719,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347362,
+        "num": 302507,
+        "word": "双11预售实付321元直接买仅308",
+        "onboard_time": 1730088919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299858,
+        "num": 299858,
+        "word": "Faker回应Bin",
+        "onboard_time": 1730078477,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292213,
+        "num": 292213,
+        "word": "韩束 赵今麦",
+        "onboard_time": 1730083998,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285861,
+        "num": 285861,
+        "word": "恋与深空",
+        "onboard_time": 1730086038,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285115,
+        "num": 285115,
+        "word": "26楼扔猫外卖员已被平台永久拉黑",
+        "onboard_time": 1730074340,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276565,
+        "num": 276565,
+        "word": "林黛玉 冷月葬花魂",
+        "onboard_time": 1730086639,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259595,
+        "num": 259595,
+        "word": "谢霆锋陈伟霆首次合体封面",
+        "onboard_time": 1730089160,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259228,
+        "num": 259228,
+        "word": "小米SU7Ultra外观曝光",
+        "onboard_time": 1730090001,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258865,
+        "num": 258865,
+        "word": "闫桉身材",
+        "onboard_time": 1730084238,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254004,
+        "num": 254004,
+        "word": "沈腾提词器的字比别人大",
+        "onboard_time": 1730081477,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245185,
+        "num": 245185,
+        "word": "Zeus谈决赛对战BLG",
+        "onboard_time": 1730088198,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245001,
+        "num": 245001,
+        "word": "法国总统马克龙祝贺F勒布伦夺冠",
+        "onboard_time": 1730088679,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242874,
+        "num": 242874,
+        "word": "国乒法国冠军赛0冠收场",
+        "onboard_time": 1730072477,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229069,
+        "num": 229069,
+        "word": "这届职场人是怎样花式午睡的",
+        "onboard_time": 1730089340,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215308,
+        "num": 215308,
+        "word": "十四年前的麦琳",
+        "onboard_time": 1730086339,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212186,
+        "num": 212186,
+        "word": "专家提醒长期晚睡晚起也算熬夜",
+        "onboard_time": 1730040741,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211946,
+        "num": 211946,
+        "word": "为什么许多商场一楼没有厕所",
+        "onboard_time": 1730080877,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206979,
+        "num": 206979,
+        "word": "祁煜新主线",
+        "onboard_time": 1730088198,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204432,
+        "num": 204432,
+        "word": "白百何新剧 35岁女性职场困境",
+        "onboard_time": 1730084538,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202999,
+        "num": 202999,
+        "word": "大梦归离不知死活的幽默感",
+        "onboard_time": 1730087298,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193302,
+        "num": 193302,
+        "word": "玉米地被藏多枚角铁破坏秋收农机",
+        "onboard_time": 1730084178,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186153,
+        "num": 186153,
+        "word": "杨笠登上经济学人专题报道版面",
+        "onboard_time": 1730090419,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492138,
+        "num": 185747,
+        "word": "雷军回应小米15涨价幅度",
+        "onboard_time": 1730083338,
+        "rank": 43,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 181080,
+        "num": 181080,
+        "word": "GAPDAY音乐节抢票",
+        "onboard_time": 1730090301,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178321,
+        "num": 178321,
+        "word": "周震南 百度这么写没通知我啊",
+        "onboard_time": 1730072237,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178305,
+        "num": 178305,
+        "word": "张萌说哭徐艺真",
+        "onboard_time": 1730086220,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176360,
+        "num": 176360,
+        "word": "朝鲜强调已对韩国军方发出最后警告",
+        "onboard_time": 1730072717,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185481,
+        "num": 170226,
+        "word": "麦当劳bob",
+        "onboard_time": 1730088859,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 163207,
+        "word": "16岁女生第3次夺女子标枪世界冠军",
+        "onboard_time": 1730083818,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记同行传承长征精神#"
+    }
+  }
+}
