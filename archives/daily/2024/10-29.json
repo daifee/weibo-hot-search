@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730147074450,
+  "endTime": 1730147895532,
   "band_list": [
     {
       "raw_hot": 858447,
@@ -507,20 +507,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27757,
+      "num": 27757,
+      "word": "黑龙江一医院拒收商业保险病人",
+      "onboard_time": 1730143751,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27068,
       "num": 27068,
       "word": "电影焚城预售",
       "onboard_time": 1730139252,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26957,
-      "num": 26956,
-      "word": "黑龙江一医院拒收商业保险病人",
-      "onboard_time": 1730143751,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26676,
@@ -571,16 +571,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 12808,
-      "num": 26999,
+      "raw_hot": 13678,
+      "num": 28900,
       "word": "元首外交战略引领新典范",
       "onboard_time": 1730144651,
       "rank": 25,
       "category": "国内时政"
     },
     {
-      "raw_hot": 12587,
-      "num": 23573,
+      "raw_hot": 13469,
+      "num": 40917,
       "word": "构筑中国精神中国价值中国力量",
       "onboard_time": 1730145072,
       "rank": 34,

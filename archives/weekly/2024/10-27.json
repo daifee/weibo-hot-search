@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730147074450,
+  "endTime": 1730147895532,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -6275,6 +6275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27757,
+      "num": 27757,
+      "word": "黑龙江一医院拒收商业保险病人",
+      "onboard_time": 1730143751,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27751,
       "num": 255797,
       "word": "不打扰才是对动物最大的尊重与保护",
@@ -6312,14 +6320,6 @@
       "word": "环卫工捡到15万元婉拒失主酬谢金",
       "onboard_time": 1730078177,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26957,
-      "num": 26956,
-      "word": "黑龙江一医院拒收商业保险病人",
-      "onboard_time": 1730143751,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -6571,12 +6571,28 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 13678,
+      "num": 28900,
+      "word": "元首外交战略引领新典范",
+      "onboard_time": 1730144651,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13554,
       "num": 860925,
       "word": "这件瓷壶静静美了700多年",
       "onboard_time": 1730037382,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13469,
+      "num": 40917,
+      "word": "构筑中国精神中国价值中国力量",
+      "onboard_time": 1730145072,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13360,
@@ -6593,22 +6609,6 @@
       "onboard_time": 1730102779,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12808,
-      "num": 26999,
-      "word": "元首外交战略引领新典范",
-      "onboard_time": 1730144651,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12587,
-      "num": 23573,
-      "word": "构筑中国精神中国价值中国力量",
-      "onboard_time": 1730145072,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12248,
