@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730086441859,
+  "endTime": 1730087163895,
   "band_list": [
     {
       "raw_hot": 3122104,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1804342,
+      "num": 1804342,
+      "word": "员工抑郁口头请病假被按旷工开除",
+      "onboard_time": 1730084418,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1735646,
       "num": 1228460,
       "word": "第37届金鸡奖提名名单",
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1415704,
-      "num": 1415704,
-      "word": "员工抑郁口头请病假被按旷工开除",
-      "onboard_time": 1730084418,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1413358,
       "num": 1413358,
       "word": "郑钦文首夺东京站冠军",
@@ -217,6 +217,14 @@
       "onboard_time": 1730008759,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1286564,
+      "num": 1286564,
+      "word": "花少6 周雨彤",
+      "onboard_time": 1730085499,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1256607,
@@ -264,6 +272,14 @@
       "word": "被醉汉强吻女子2天都不敢睡",
       "onboard_time": 1729962616,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138644,
+      "num": 755115,
+      "word": "大量网友收到兵器装备集团上新短信",
+      "onboard_time": 1730085078,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 724798,
-      "num": 724798,
-      "word": "花少6 周雨彤",
-      "onboard_time": 1730085499,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 710158,
       "num": 245276,
       "word": "多方回应网传饿了么外卖员虐猫",
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602802,
+      "num": 602802,
+      "word": "韩安冉送宋浩然22岁生日惊喜",
+      "onboard_time": 1730085438,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 601617,
       "num": 336375,
       "word": "郑钦文夺冠后发博",
@@ -681,14 +697,6 @@
       "onboard_time": 1729985955,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 575706,
-      "num": 575706,
-      "word": "韩安冉送宋浩然22岁生日惊喜",
-      "onboard_time": 1730085438,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 567892,
@@ -843,16 +851,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 510224,
-      "num": 510224,
-      "word": "大量网友收到兵器装备集团上新短信",
-      "onboard_time": 1730085078,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507158,
-      "num": 264633,
+      "num": 270639,
       "word": "沈腾提词器的字比别人大",
       "onboard_time": 1730081477,
       "rank": 20,
@@ -1083,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 401524,
+      "num": 401524,
+      "word": "恋与深空",
+      "onboard_time": 1729968793,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 400091,
       "num": 400091,
       "word": "有种安全感叫中国军人来了",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 389336,
-      "num": 245750,
+      "num": 261699,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
       "onboard_time": 1730074340,
       "rank": 23,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 354080,
-      "num": 246006,
+      "num": 256697,
       "word": "为什么许多商场一楼没有厕所",
       "onboard_time": 1730080877,
       "rank": 37,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1730072237,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319095,
+      "num": 319095,
+      "word": "男子月入一两千愿寻伴侣共患难",
+      "onboard_time": 1730086759,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317291,
@@ -1523,6 +1539,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 283265,
+      "num": 605514,
+      "word": "景区禁止游客自带食物却翻倍自卖",
+      "onboard_time": 1730083218,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282561,
       "num": 307289,
       "word": "柴犬金宝未剪辑视频泄露被质疑虐狗",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1729941560,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269394,
+      "num": 223710,
+      "word": "十四年前的麦琳",
+      "onboard_time": 1730086339,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 267712,
@@ -1915,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226551,
+      "num": 226551,
+      "word": "张萌说哭徐艺真",
+      "onboard_time": 1730086220,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226345,
       "num": 226345,
       "word": "樊振东姆巴佩合影",
@@ -2131,14 +2171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201719,
-      "num": 201719,
-      "word": "恋与深空",
-      "onboard_time": 1729968793,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201269,
       "num": 201269,
       "word": "涵艺爆料Ruler离队原因",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1729985955,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196034,
+      "num": 196034,
+      "word": "库里受伤",
+      "onboard_time": 1730086339,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 195999,
@@ -2419,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181647,
+      "num": 181647,
+      "word": "林黛玉 冷月葬花魂",
+      "onboard_time": 1730086639,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 181335,
       "num": 181335,
       "word": "工作室回应赵丽颖提名最佳女配",
@@ -2441,14 +2489,6 @@
       "onboard_time": 1730031798,
       "rank": 29,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 180139,
-      "num": 180139,
-      "word": "十四年前的麦琳",
-      "onboard_time": 1730086339,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 179632,
@@ -2488,6 +2528,14 @@
       "word": "郑钦文网球生涯第5冠",
       "onboard_time": 1730008099,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176444,
+      "num": 176444,
+      "word": "崔永熙第7位NBA正式登场中国球员",
+      "onboard_time": 1730084298,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2555,20 +2603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169299,
-      "num": 605514,
-      "word": "景区禁止游客自带食物却翻倍自卖",
-      "onboard_time": 1730083218,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168631,
       "num": 168631,
       "word": "方灿疑似回应hybe",
       "onboard_time": 1730016257,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167922,
+      "num": 167922,
+      "word": "小米15系列12GB内存起跳",
+      "onboard_time": 1730085858,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 167841,
@@ -2665,14 +2713,6 @@
       "onboard_time": 1730030419,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160839,
-      "num": 160839,
-      "word": "张萌说哭徐艺真",
-      "onboard_time": 1730086220,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 160037,
@@ -2931,14 +2971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145271,
-      "num": 145271,
-      "word": "崔永熙第7位NBA正式登场中国球员",
-      "onboard_time": 1730084298,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144565,
       "num": 144565,
       "word": "薛之谦周深合作舞台",
@@ -3019,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140240,
+      "num": 140240,
+      "word": "玉米地被藏多枚角铁破坏秋收农机",
+      "onboard_time": 1730084178,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140177,
       "num": 140177,
       "word": "华晨宇演唱会满场走",
@@ -3049,6 +3089,14 @@
       "onboard_time": 1729960938,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139302,
+      "num": 139302,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1730087059,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 139081,
@@ -3139,14 +3187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134976,
-      "num": 134976,
-      "word": "库里受伤",
-      "onboard_time": 1730086339,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134800,
       "num": 160480,
       "word": "俄罗斯老人为中国男生演奏中国国歌",
@@ -3195,14 +3235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131740,
-      "num": 131740,
-      "word": "小米15系列12GB内存起跳",
-      "onboard_time": 1730085858,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 131644,
       "num": 131644,
       "word": "凤冠冰箱贴",
@@ -3233,6 +3265,14 @@
       "onboard_time": 1730022678,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 130176,
+      "num": 130176,
+      "word": "小巷人家",
+      "onboard_time": 1730085978,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130155,
@@ -3321,6 +3361,14 @@
       "onboard_time": 1729981272,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126705,
+      "num": 126705,
+      "word": "张艺兴敦煌话剧排练vlog",
+      "onboard_time": 1730087118,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 126269,
@@ -3508,7 +3556,7 @@
     },
     {
       "raw_hot": 112757,
-      "num": 1387530,
+      "num": 1453088,
       "word": "中式美学与秋景的适配度",
       "onboard_time": 1730085377,
       "rank": 2,
@@ -4051,8 +4099,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41890,
+      "num": 604794,
+      "word": "日首相石破茂称不会辞职",
+      "onboard_time": 1730086639,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 40919,
-      "num": 130253,
+      "num": 259868,
       "word": "中国混动打破吉尼斯续航世界纪录",
       "onboard_time": 1730086279,
       "rank": 47,
@@ -4179,6 +4235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29722,
+      "num": 274856,
+      "word": "贾冰的AI助理还是太全面了",
+      "onboard_time": 1730084358,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28684,
       "num": 309142,
       "word": "马自达EZ6致敬漂移的青春",
@@ -4249,14 +4313,6 @@
       "onboard_time": 1730031619,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23743,
-      "num": 262412,
-      "word": "贾冰的AI助理还是太全面了",
-      "onboard_time": 1730084358,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 23077,
