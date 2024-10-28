@@ -1,6 +1,6 @@
 {
   "startTime": 1730046424764,
-  "endTime": 1730107531664,
+  "endTime": 1730108346505,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1801105,
-      "num": 1801105,
+      "raw_hot": 1891423,
+      "num": 1891423,
       "word": "辽宁盘锦13死35伤事故处理情况公布",
       "onboard_time": 1730104518,
       "rank": 8,
@@ -153,6 +153,14 @@
       "onboard_time": 1730100799,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1187083,
+      "num": 1187083,
+      "word": "赵丽颖东京电影节生图",
+      "onboard_time": 1730098218,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 1151764,
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692283,
-      "num": 312882,
-      "word": "赵丽颖东京电影节生图",
-      "onboard_time": 1730098218,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 677859,
       "num": 445976,
       "word": "Faker回应Bin",
@@ -353,6 +353,14 @@
       "onboard_time": 1730102060,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 631707,
+      "num": 368148,
+      "word": "孙乐言 奇葩",
+      "onboard_time": 1730107759,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 609907,
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378889,
+      "num": 378889,
+      "word": "中方严正抗议CIA公然发布投靠指南",
+      "onboard_time": 1730107280,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 377308,
       "num": 230348,
       "word": "泰国机场偶遇刘亦菲",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312428,
+      "num": 537574,
+      "word": "官方通报多名教师私聊群发不当言论",
+      "onboard_time": 1730105959,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311353,
       "num": 240973,
       "word": "被老祖宗的顶级审美震撼到",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 308999,
-      "num": 279535,
+      "num": 300148,
       "word": "吃太油腻引发癌变全过程演示",
       "onboard_time": 1730102538,
       "rank": 26,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220192,
+      "num": 224634,
+      "word": "有人疑在长城上拍诈骗广告",
+      "onboard_time": 1730104638,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "F勒布伦4比1张本智和",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1730039781,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215181,
+      "num": 215181,
+      "word": "李川凡死人了",
+      "onboard_time": 1730107458,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 213823,
@@ -1137,6 +1177,14 @@
       "onboard_time": 1730083818,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208088,
+      "num": 208088,
+      "word": "A股成交1.86万亿元近300股涨停",
+      "onboard_time": 1730105299,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205395,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1730043262,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196155,
+      "num": 196155,
+      "word": "THEBOYZ新歌MV",
+      "onboard_time": 1730107458,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 194915,
@@ -1267,12 +1323,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187438,
+      "num": 187438,
+      "word": "车牌8个字万无一失圆满成功",
+      "onboard_time": 1730107699,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187145,
       "num": 187145,
       "word": "田曦薇双马尾棕色look",
       "onboard_time": 1730099059,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186598,
+      "num": 186598,
+      "word": "燃少训练营 重启",
+      "onboard_time": 1730107820,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 185481,
@@ -1371,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170719,
-      "num": 170719,
-      "word": "中方严正抗议CIA公然发布投靠指南",
-      "onboard_time": 1730107280,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 169724,
       "num": 169724,
       "word": "海上钢琴师内地重映",
@@ -1419,27 +1483,11 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 163298,
-      "num": 537574,
-      "word": "官方通报多名教师私聊群发不当言论",
-      "onboard_time": 1730105959,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160305,
-      "num": 160305,
-      "word": "李川凡死人了",
-      "onboard_time": 1730107458,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 158927,
-      "num": 224634,
-      "word": "有人疑在长城上拍诈骗广告",
-      "onboard_time": 1730104638,
-      "rank": 14,
+      "raw_hot": 159640,
+      "num": 159640,
+      "word": "少年团播时因收不到礼物被罚站猝死",
+      "onboard_time": 1730108059,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1465,14 +1513,6 @@
       "onboard_time": 1730068813,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153086,
-      "num": 153086,
-      "word": "THEBOYZ新歌MV",
-      "onboard_time": 1730107458,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 152871,
@@ -1827,14 +1867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118968,
-      "num": 159112,
-      "word": "A股成交1.86万亿元近300股涨停",
-      "onboard_time": 1730105299,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117738,
       "num": 117738,
       "word": "王鹤棣新歌MV上线",
@@ -2027,7 +2059,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95650,
+      "raw_hot": 96059,
       "num": 354738,
       "word": "小米SU7Ultra刹车盘就值一辆车",
       "onboard_time": 1730103558,
@@ -2115,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71841,
+      "num": 517127,
+      "word": "外卖小哥被3名保安抡起板凳砸",
+      "onboard_time": 1730106560,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71190,
       "num": 73200,
       "word": "女子为保护女孩手被恶犬咬伤",
@@ -2131,20 +2171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67540,
+      "num": 526989,
+      "word": "十个勤天在天猫直播",
+      "onboard_time": 1730106019,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66189,
       "num": 66189,
       "word": "郭艾伦你就宠着孟子义吧",
       "onboard_time": 1730042120,
       "rank": 45,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 64685,
-      "num": 526989,
-      "word": "十个勤天在天猫直播",
-      "onboard_time": 1730106019,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 63663,
@@ -2195,14 +2235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58355,
-      "num": 517127,
-      "word": "外卖小哥被3名保安抡起板凳砸",
-      "onboard_time": 1730106560,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58250,
       "num": 76633,
       "word": "justsu直拍",
@@ -2240,6 +2272,14 @@
       "word": "三亚路面积水网友称出门坐车如坐船",
       "onboard_time": 1730106139,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44104,
+      "num": 519844,
+      "word": "去年双11的囤货你用完了吗",
+      "onboard_time": 1730104699,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2305,14 +2345,6 @@
       "onboard_time": 1730090360,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34422,
-      "num": 519844,
-      "word": "去年双11的囤货你用完了吗",
-      "onboard_time": 1730104699,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34403,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1730056392,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22972,
+      "num": 1268867,
+      "word": "深秋稻浪飘香丰收忙",
+      "onboard_time": 1730107519,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18159,
