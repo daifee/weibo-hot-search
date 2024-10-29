@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730173446448,
+  "endTime": 1730176053295,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -32,6 +32,14 @@
       "word": "19岁中专生拿了个世界冠军当生日礼物",
       "onboard_time": 1730160318,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2704113,
+      "num": 2704113,
+      "word": "生育补贴",
+      "onboard_time": 1730172679,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1342388,
+      "num": 679568,
+      "word": "摩托司机等红绿灯被撞身亡",
+      "onboard_time": 1730168896,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1339659,
       "num": 1339659,
       "word": "钱天一vs张本美和",
@@ -457,14 +473,6 @@
       "onboard_time": 1730169318,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1265504,
-      "num": 679568,
-      "word": "摩托司机等红绿灯被撞身亡",
-      "onboard_time": 1730168896,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1256607,
@@ -1316,7 +1324,7 @@
     },
     {
       "raw_hot": 600340,
-      "num": 393281,
+      "num": 441718,
       "word": "30天不玩手机的日子竟然这么爽",
       "onboard_time": 1730169258,
       "rank": 24,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1730095158,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 596204,
+      "num": 551516,
+      "word": "小狗店门口排泄被店员持杆抽打",
+      "onboard_time": 1730172319,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594383,
@@ -1379,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569108,
+      "num": 569108,
+      "word": "赵露思敦煌神女飞天舞",
+      "onboard_time": 1730173280,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567892,
       "num": 567892,
       "word": "外交部回应美国19.88亿美元对台军售",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1730001797,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 564568,
+      "num": 564568,
+      "word": "光遇",
+      "onboard_time": 1730004736,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 563808,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1730102658,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549917,
+      "num": 549917,
+      "word": "麦琳 闲鱼",
+      "onboard_time": 1730175561,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 549068,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1729986015,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524029,
+      "num": 550488,
+      "word": "白磷型人格",
+      "onboard_time": 1730172018,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 523720,
@@ -1891,11 +1939,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 441107,
-      "num": 370066,
-      "word": "小狗店门口排泄被店员持杆抽打",
-      "onboard_time": 1730172319,
-      "rank": 45,
+      "raw_hot": 438362,
+      "num": 438362,
+      "word": "宗馥莉成中国女首富",
+      "onboard_time": 1730174060,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1905,6 +1953,14 @@
       "onboard_time": 1730048594,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 436204,
+      "num": 557831,
+      "word": "心动的信号",
+      "onboard_time": 1730002338,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 435043,
@@ -2011,6 +2067,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 407579,
+      "num": 556879,
+      "word": "尤长靖 干嘛抢我话筒",
+      "onboard_time": 1730172319,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 407365,
       "num": 407365,
       "word": "恋与深空黎深新PV",
@@ -2056,6 +2120,14 @@
       "word": "有种安全感叫中国军人来了",
       "onboard_time": 1730078838,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399674,
+      "num": 564350,
+      "word": "王浩泽本硕毕业于东南大学",
+      "onboard_time": 1730171179,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2219,16 +2291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367688,
-      "num": 367688,
-      "word": "生育补贴",
-      "onboard_time": 1730172679,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367648,
-      "num": 238741,
+      "num": 248500,
       "word": "小米SU7Ultra",
       "onboard_time": 1730096478,
       "rank": 17,
@@ -2257,14 +2321,6 @@
       "onboard_time": 1730023938,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 362578,
-      "num": 362578,
-      "word": "王浩泽本硕毕业于东南大学",
-      "onboard_time": 1730171179,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359622,
@@ -2331,6 +2387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 345637,
+      "num": 345637,
+      "word": "冷门但巨巨巨好看的小说",
+      "onboard_time": 1730173880,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 345073,
       "num": 345073,
       "word": "余华英丈夫越狱后多次拐卖儿童",
@@ -2387,20 +2451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331925,
+      "num": 331925,
+      "word": "光遇复刻",
+      "onboard_time": 1730175799,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330568,
       "num": 256444,
       "word": "GEN白赢一整年",
       "onboard_time": 1730047757,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 330417,
-      "num": 375836,
-      "word": "赵露思敦煌神女飞天舞",
-      "onboard_time": 1730173280,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 328701,
@@ -2451,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322448,
-      "num": 322448,
-      "word": "白磷型人格",
-      "onboard_time": 1730172018,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321988,
       "num": 321988,
       "word": "WTT蒙彼利埃冠军赛",
@@ -2473,6 +2529,14 @@
       "onboard_time": 1730072237,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320969,
+      "num": 320969,
+      "word": "犹太教授建议犹太人学中文",
+      "onboard_time": 1730174901,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319095,
@@ -2609,14 +2673,6 @@
       "onboard_time": 1730073557,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 303693,
-      "num": 398629,
-      "word": "尤长靖 干嘛抢我话筒",
-      "onboard_time": 1730172319,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 303613,
@@ -2899,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267815,
+      "num": 267815,
+      "word": "法兰克福冠军赛国乒名单",
+      "onboard_time": 1730172919,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267712,
       "num": 224082,
       "word": "杨幂直播为戚薇庆生",
@@ -3163,14 +3227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247969,
-      "num": 285964,
-      "word": "心动的信号",
-      "onboard_time": 1730002338,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247365,
       "num": 247365,
       "word": "樊振东黑西装",
@@ -3225,6 +3281,14 @@
       "onboard_time": 1730084538,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244441,
+      "num": 448260,
+      "word": "心动的信号剪辑",
+      "onboard_time": 1730175021,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 243306,
@@ -3363,6 +3427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233940,
+      "num": 233940,
+      "word": "杨紫时装十一月生日封面",
+      "onboard_time": 1730174661,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231493,
       "num": 322389,
       "word": "辛芷蕾在片场不说普通话",
@@ -3385,6 +3457,14 @@
       "onboard_time": 1730039840,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229462,
+      "num": 229462,
+      "word": "男子做兼职主播月入3毛",
+      "onboard_time": 1730175920,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229069,
@@ -3620,7 +3700,7 @@
     },
     {
       "raw_hot": 216682,
-      "num": 216682,
+      "num": 552061,
       "word": "刺杀小说家2将于年底杀青",
       "onboard_time": 1730173280,
       "rank": 43,
@@ -5235,14 +5315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139454,
-      "num": 139454,
-      "word": "光遇",
-      "onboard_time": 1730004736,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139412,
       "num": 139412,
       "word": "白百何新剧这段比短剧还爽",
@@ -5480,6 +5552,14 @@
       "word": "大梦归离不知道在燃什么",
       "onboard_time": 1730131817,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132196,
+      "num": 554679,
+      "word": "好团圆新娘被新郎通知结婚",
+      "onboard_time": 1730174359,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -6107,6 +6187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98512,
+      "num": 563231,
+      "word": "90后女航天员是个学霸",
+      "onboard_time": 1730174600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98349,
       "num": 309888,
       "word": "汪苏泷跳了APT",
@@ -6344,6 +6432,14 @@
       "word": "全球约70%人工宝石产自广西梧州",
       "onboard_time": 1729965974,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71580,
+      "num": 553154,
+      "word": "江苏第一位农民副县长三蟒被抓",
+      "onboard_time": 1730175501,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -7060,7 +7156,7 @@
     },
     {
       "raw_hot": 28757,
-      "num": 217466,
+      "num": 556117,
       "word": "享界S9先享一步",
       "onboard_time": 1730172979,
       "rank": 42,
@@ -7307,6 +7403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17650,
+      "num": 966639,
+      "word": "文化中国行看夜景下的文化景观",
+      "onboard_time": 1730175080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16792,
       "num": 45854,
       "word": "李晓鹏受贿案一审开庭",
@@ -7526,6 +7630,9 @@
     },
     {
       "word": "#以钉钉子精神抓好改革任务落实#"
+    },
+    {
+      "word": "#锚定建成文化强国战略目标#"
     }
   ]
 }
