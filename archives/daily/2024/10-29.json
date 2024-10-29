@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730208626667,
+  "endTime": 1730209315615,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -160,6 +160,14 @@
       "word": "三亚落入下水道男孩遗体已找到",
       "onboard_time": 1730193258,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1535487,
+      "num": 1535487,
+      "word": "成都现灰色不明飞行物",
+      "onboard_time": 1730206520,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 832845,
-      "num": 832845,
-      "word": "成都现灰色不明飞行物",
-      "onboard_time": 1730206520,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 818775,
       "num": 430607,
       "word": "高雅cp见家长",
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550257,
+      "num": 550257,
+      "word": "这个世界乱糟糟而你干干净净",
+      "onboard_time": 1730207719,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547955,
       "num": 547955,
       "word": "你想过为什么买家晒图一模一样吗",
@@ -963,14 +971,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 389891,
-      "num": 389891,
-      "word": "这个世界乱糟糟而你干干净净",
-      "onboard_time": 1730207719,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 389239,
       "num": 389239,
       "word": "王琪tomo亲了",
@@ -1025,6 +1025,14 @@
       "onboard_time": 1730200221,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373683,
+      "num": 373683,
+      "word": "杨紫直播",
+      "onboard_time": 1730207841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 370160,
@@ -1155,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 298598,
+      "num": 241799,
+      "word": "九块九害死了3万块",
+      "onboard_time": 1730209039,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293877,
       "num": 293877,
       "word": "小米SU7 Ultra",
@@ -1219,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274980,
+      "num": 274980,
+      "word": "卢伟冰口误",
+      "onboard_time": 1730208320,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 271275,
       "num": 271275,
       "word": "A50",
@@ -1275,12 +1299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261491,
-      "num": 261491,
-      "word": "杨紫直播",
-      "onboard_time": 1730207841,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 261799,
+      "num": 240021,
+      "word": "拉踩友商",
+      "onboard_time": 1730208500,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 261117,
@@ -1611,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217241,
-      "num": 217241,
-      "word": "拉踩友商",
-      "onboard_time": 1730208500,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 217004,
       "num": 217004,
       "word": "江西古城墙上有块500年前的小猫砖",
@@ -1740,7 +1756,7 @@
     },
     {
       "raw_hot": 200878,
-      "num": 200878,
+      "num": 245087,
       "word": "丞磊妆造",
       "onboard_time": 1730206161,
       "rank": 34,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1730170038,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189614,
+      "num": 189614,
+      "word": "iPhone录音是刚需还是鸡肋",
+      "onboard_time": 1730207000,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 186364,
@@ -2059,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171869,
+      "num": 167946,
+      "word": "小米手表S4",
+      "onboard_time": 1730209100,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171478,
       "num": 171478,
       "word": "李大钊少年时期珍贵照片",
@@ -2073,6 +2105,22 @@
       "onboard_time": 1730167759,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 170987,
+      "num": 165039,
+      "word": "时隔13年京东重新接入支付宝",
+      "onboard_time": 1730208861,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 170423,
+      "num": 218256,
+      "word": "陈都灵回应扎女梗",
+      "onboard_time": 1730208439,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 170011,
@@ -2241,14 +2289,6 @@
       "onboard_time": 1730121258,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154145,
-      "num": 154145,
-      "word": "卢伟冰口误",
-      "onboard_time": 1730208320,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 153276,
@@ -2523,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131475,
+      "num": 131475,
+      "word": "赵小童收水稻plog",
+      "onboard_time": 1730209280,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129337,
       "num": 129337,
       "word": "芒果综艺 厉害",
@@ -2537,14 +2585,6 @@
       "onboard_time": 1730194819,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127680,
-      "num": 127680,
-      "word": "陈都灵回应扎女梗",
-      "onboard_time": 1730208439,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 127234,
@@ -3019,6 +3059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32499,
+      "num": 728150,
+      "word": "郭刚堂透露唐立霞想逃脱法律严惩",
+      "onboard_time": 1730207240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32255,
       "num": 433471,
       "word": "警惕老年人健康课程骗局",
@@ -3143,14 +3191,6 @@
       "num": 512134,
       "word": "电影失孤原型案明日二审宣判",
       "onboard_time": 1730192840,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20330,
-      "num": 728150,
-      "word": "郭刚堂透露唐立霞想逃脱法律严惩",
-      "onboard_time": 1730207240,
       "rank": 9,
       "category": "社会新闻"
     },
