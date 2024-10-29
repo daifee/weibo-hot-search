@@ -1,0 +1,410 @@
+{
+  "runTime": 1730223558992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 641941,
+        "num": 641941,
+        "word": "周雨彤说会找机会和大家聊聊",
+        "onboard_time": 1730212881,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408143,
+        "num": 408143,
+        "word": "南京南站亲历乘客称听到明显异响",
+        "onboard_time": 1730215641,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3306,
+        "num": 297655,
+        "word": "从神五到神十九",
+        "onboard_time": 1730205799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295629,
+        "num": 295629,
+        "word": "蛇瓜",
+        "onboard_time": 1730213720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258043,
+        "num": 258043,
+        "word": "王浩泽全系第一保研东大",
+        "onboard_time": 1730217978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190451,
+        "num": 190451,
+        "word": "小米SU7 Ultra定价81.49万",
+        "onboard_time": 1730212282,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170963,
+        "num": 170963,
+        "word": "直播神十九发射",
+        "onboard_time": 1730223073,
+        "rank": 6,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 169874,
+        "num": 169874,
+        "word": "巴勒斯坦代表问你们知道这种感觉吗",
+        "onboard_time": 1730213421,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156193,
+        "num": 156193,
+        "word": "神十九于10月30日4时27分发射",
+        "onboard_time": 1730216180,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155330,
+        "num": 155330,
+        "word": "宇宙曹县不是个梗",
+        "onboard_time": 1730220556,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306278,
+        "num": 154322,
+        "word": "放狠话家里人死了先臭着领导道歉",
+        "onboard_time": 1730206219,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268281,
+        "num": 152650,
+        "word": "杨紫直播身材状态",
+        "onboard_time": 1730214740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260241,
+        "num": 151450,
+        "word": "被撞身亡机械师仅有20多岁",
+        "onboard_time": 1730199801,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97823,
+        "num": 150697,
+        "word": "秦皇岛环保局建议市民减少外出",
+        "onboard_time": 1730223014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173652,
+        "num": 148676,
+        "word": "豪咪cp官宣",
+        "onboard_time": 1730199140,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147943,
+        "num": 147943,
+        "word": "90后农村娃拿到太空船票",
+        "onboard_time": 1730211622,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140898,
+        "num": 140898,
+        "word": "女子手术后纱布留体内3年持续腹痛",
+        "onboard_time": 1730215699,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120141,
+        "num": 120141,
+        "word": "心动的信号 高雅cp官宣",
+        "onboard_time": 1730200341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98040,
+        "num": 115650,
+        "word": "这个世界乱糟糟而你干干净净",
+        "onboard_time": 1730207719,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85927,
+        "num": 113909,
+        "word": "心动的信号7成了五对",
+        "onboard_time": 1730201240,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112601,
+        "num": 112601,
+        "word": "孙乐言哭了",
+        "onboard_time": 1730199861,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112423,
+        "num": 112423,
+        "word": "小米15",
+        "onboard_time": 1730202680,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111499,
+        "num": 111499,
+        "word": "乘客讲述年轻机械师被撞身亡详情",
+        "onboard_time": 1730212220,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104611,
+        "num": 104611,
+        "word": "小米发布会",
+        "onboard_time": 1730198779,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93651,
+        "num": 93651,
+        "word": "小米洗衣机",
+        "onboard_time": 1730210601,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83270,
+        "num": 83270,
+        "word": "赵牧辰哭了",
+        "onboard_time": 1730201600,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80538,
+        "num": 80538,
+        "word": "中国货运航天飞机正式公开",
+        "onboard_time": 1730219897,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77505,
+        "num": 77505,
+        "word": "金泰亨慰问闵熙珍",
+        "onboard_time": 1730209881,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76804,
+        "num": 76804,
+        "word": "成都一男子在网吧内持刀行凶",
+        "onboard_time": 1730200221,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64975,
+        "num": 64975,
+        "word": "神十九出征仪式",
+        "onboard_time": 1730223433,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65206,
+        "num": 64955,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1730187679,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64761,
+        "num": 64761,
+        "word": "爸爸去哪儿的含金量还在上升",
+        "onboard_time": 1730191880,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57005,
+        "num": 57005,
+        "word": "九块九害死了3万块",
+        "onboard_time": 1730209039,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56549,
+        "num": 56549,
+        "word": "刘亦菲梦女",
+        "onboard_time": 1730202441,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53796,
+        "num": 53796,
+        "word": "小米15价格",
+        "onboard_time": 1730204302,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53619,
+        "num": 53619,
+        "word": "点赞夫胜宽的爱豆",
+        "onboard_time": 1730211502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53214,
+        "num": 53214,
+        "word": "小米全面支持苹果设备",
+        "onboard_time": 1730201781,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50613,
+        "num": 50613,
+        "word": "心动的信号",
+        "onboard_time": 1730200521,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48645,
+        "num": 48645,
+        "word": "雨迭cp官宣",
+        "onboard_time": 1730201421,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47477,
+        "num": 47477,
+        "word": "小米SU7 Ultra",
+        "onboard_time": 1730209819,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47076,
+        "num": 47076,
+        "word": "小巷人家",
+        "onboard_time": 1730200099,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45418,
+        "num": 45418,
+        "word": "赵露思虞书欣新剧同天开播",
+        "onboard_time": 1730213541,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43512,
+        "num": 43512,
+        "word": "郭艾伦哭了",
+        "onboard_time": 1730212161,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42337,
+        "num": 42337,
+        "word": "如鸢",
+        "onboard_time": 1730214622,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41244,
+        "num": 41244,
+        "word": "小米手环9Pro",
+        "onboard_time": 1730213960,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40306,
+        "num": 40306,
+        "word": "毓言cp拥吻",
+        "onboard_time": 1730211142,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38569,
+        "num": 38569,
+        "word": "南京市区一天发生两起野猪目击事件",
+        "onboard_time": 1730203581,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36035,
+        "num": 36035,
+        "word": "杨紫工作室 图呢",
+        "onboard_time": 1730212341,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34640,
+        "num": 35588,
+        "word": "郭艾伦半场14分",
+        "onboard_time": 1730223014,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34029,
+        "num": 35563,
+        "word": "侯明昊眼睛怎么了",
+        "onboard_time": 1730202980,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心聚力推动改革行稳致远#"
+    }
+  }
+}
