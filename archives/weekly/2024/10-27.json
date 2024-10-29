@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730197508894,
+  "endTime": 1730198561346,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -2211,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450281,
+      "num": 450281,
+      "word": "李定豪阮小咪he",
+      "onboard_time": 1730194340,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449073,
       "num": 436266,
       "word": "龙丹妮又要推新男团了",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1730091080,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 348443,
-      "num": 348443,
-      "word": "李定豪阮小咪he",
-      "onboard_time": 1730194340,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 345073,
@@ -3651,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249422,
+      "num": 249422,
+      "word": "A50",
+      "onboard_time": 1730197159,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249185,
       "num": 615603,
       "word": "又一批罕见病药有望进医保",
@@ -4211,6 +4219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219598,
+      "num": 219598,
+      "word": "KB呆又呆 人设上长了一个人",
+      "onboard_time": 1730197640,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "F勒布伦4比1张本智和",
@@ -4241,6 +4257,14 @@
       "onboard_time": 1730113519,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217004,
+      "num": 217004,
+      "word": "江西古城墙上有块500年前的小猫砖",
+      "onboard_time": 1730197220,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 216322,
@@ -5172,7 +5196,7 @@
     },
     {
       "raw_hot": 177625,
-      "num": 177625,
+      "num": 261380,
       "word": "王浩泽重新定义普普通通",
       "onboard_time": 1730191579,
       "rank": 39,
@@ -5275,14 +5299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 173808,
-      "num": 173808,
-      "word": "A50",
-      "onboard_time": 1730197159,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173726,
       "num": 173726,
       "word": "有博主为盗掘古墓葬等违法活动提供信息",
@@ -5304,6 +5320,14 @@
       "word": "中超",
       "onboard_time": 1730025079,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172608,
+      "num": 172608,
+      "word": "国乒总教练李隼回应近期比赛成绩起伏",
+      "onboard_time": 1730195000,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -5379,12 +5403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "翁青雅体面人",
+      "onboard_time": 1730196618,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168631,
       "num": 168631,
       "word": "方灿疑似回应hybe",
       "onboard_time": 1730016257,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168174,
+      "num": 168174,
+      "word": "刘昊然金鹤奖最佳男主角",
+      "onboard_time": 1730197520,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 168125,
@@ -5539,14 +5579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163892,
-      "num": 163892,
-      "word": "江西古城墙上有块500年前的小猫砖",
-      "onboard_time": 1730197220,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 163792,
       "num": 163792,
       "word": "孙杨这次慢了",
@@ -5593,14 +5625,6 @@
       "onboard_time": 1730181501,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160126,
-      "num": 160126,
-      "word": "翁青雅体面人",
-      "onboard_time": 1730196618,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 160037,
@@ -5897,14 +5921,6 @@
       "onboard_time": 1730106919,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151729,
-      "num": 151729,
-      "word": "国乒总教练李隼回应近期比赛成绩起伏",
-      "onboard_time": 1730195000,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 151492,
@@ -6523,6 +6539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131351,
+      "num": 131351,
+      "word": "杨妞花说网上寻亲孩子九成匿名",
+      "onboard_time": 1730198299,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131274,
       "num": 408562,
       "word": "她叫杨妞花",
@@ -6579,6 +6603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129081,
+      "num": 129081,
+      "word": "野猪为何成为南京常客",
+      "onboard_time": 1730194819,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129056,
       "num": 129056,
       "word": "郑钦文夺冠获得100万奖金",
@@ -6617,6 +6649,14 @@
       "onboard_time": 1730082918,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127414,
+      "num": 127414,
+      "word": "秦皇岛空气",
+      "onboard_time": 1730198178,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127397,
@@ -6681,6 +6721,14 @@
       "onboard_time": 1730020038,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125142,
+      "num": 125142,
+      "word": "孙志刚受贿超8亿元被判死缓",
+      "onboard_time": 1730198058,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124606,
@@ -7835,6 +7883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39850,
+      "num": 402175,
+      "word": "海南琼海强降水致一对母子遇难",
+      "onboard_time": 1730198419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39549,
       "num": 217581,
       "word": "警惕双11的四类骗局",
@@ -8243,6 +8299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27295,
+      "num": 313480,
+      "word": "闵熙珍回归ADOR失败",
+      "onboard_time": 1730197398,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27068,
       "num": 27068,
       "word": "电影焚城预售",
@@ -8443,6 +8507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20849,
+      "num": 131844,
+      "word": "周成建批流量网红不该做主播",
+      "onboard_time": 1730196500,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20739,
       "num": 20739,
       "word": "大梦归离 慢动作",
@@ -8497,14 +8569,6 @@
       "onboard_time": 1730151612,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16783,
-      "num": 313480,
-      "word": "闵熙珍回归ADOR失败",
-      "onboard_time": 1730197398,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 16781,
@@ -8616,14 +8680,6 @@
       "word": "南极科考队员们最难忘的事",
       "onboard_time": 1730102779,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13181,
-      "num": 125661,
-      "word": "周成建批流量网红不该做主播",
-      "onboard_time": 1730196500,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
