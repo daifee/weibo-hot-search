@@ -1,0 +1,410 @@
+{
+  "runTime": 1730166259623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2831645,
+        "num": 2831645,
+        "word": "19岁中专生拿了个世界冠军当生日礼物",
+        "onboard_time": 1730160318,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1956114,
+        "num": 1956114,
+        "word": "我国首位90后女航天员",
+        "onboard_time": 1730162960,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7213,
+        "num": 1819131,
+        "word": "舌尖上的进博会又上新",
+        "onboard_time": 1730123353,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1687894,
+        "num": 1687894,
+        "word": "封神第二部定档",
+        "onboard_time": 1730164878,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1403980,
+        "num": 1403980,
+        "word": "星巴克放弃价格战",
+        "onboard_time": 1730161339,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 815478,
+        "num": 815478,
+        "word": "孙乐言",
+        "onboard_time": 1730160018,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811107,
+        "num": 811107,
+        "word": "卫健委回应奖励三孩家庭1.3万",
+        "onboard_time": 1730160679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788544,
+        "num": 788544,
+        "word": "iPhone能通话录音了",
+        "onboard_time": 1730161759,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 711017,
+        "num": 711017,
+        "word": "神十九瞄准明天4时27分发射",
+        "onboard_time": 1730163139,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260731,
+        "num": 616141,
+        "word": "中国人要登月了",
+        "onboard_time": 1730164638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583621,
+        "num": 583621,
+        "word": "虞书欣带爷爷去成都找林大厨",
+        "onboard_time": 1730157916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520005,
+        "num": 520005,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730161339,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485657,
+        "num": 485657,
+        "word": "夫胜宽发长文回应HYBE报告书",
+        "onboard_time": 1730161879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477723,
+        "num": 477723,
+        "word": "烧伤妈妈受伤皮肤快长好了",
+        "onboard_time": 1730120359,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448782,
+        "num": 448782,
+        "word": "你想过为什么买家晒图一模一样吗",
+        "onboard_time": 1730123840,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426253,
+        "num": 426253,
+        "word": "4岁男孩入住酒店后确诊川崎病",
+        "onboard_time": 1730121021,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416453,
+        "num": 416453,
+        "word": "神十九乘组蔡旭哲宋令东王浩泽",
+        "onboard_time": 1730163079,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394580,
+        "num": 394580,
+        "word": "神十八乘组11月4日回家",
+        "onboard_time": 1730163979,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356570,
+        "num": 356570,
+        "word": "神十九乘组有两名90后",
+        "onboard_time": 1730164638,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221684,
+        "num": 344657,
+        "word": "蒋欣演技",
+        "onboard_time": 1730127979,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550416,
+        "num": 341029,
+        "word": "11岁男孩被骗与女主播裸聊",
+        "onboard_time": 1730135235,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336628,
+        "num": 336628,
+        "word": "网曝湖北一办事处公职人员出轨女下属",
+        "onboard_time": 1730159421,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315282,
+        "num": 315282,
+        "word": "神十九指令长蔡旭哲",
+        "onboard_time": 1730164458,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263726,
+        "num": 263726,
+        "word": "神十九乘组明年4月下旬或5月上旬返回",
+        "onboard_time": 1730164519,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256852,
+        "num": 256852,
+        "word": "每个面包切开都有小惊喜",
+        "onboard_time": 1730159477,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252242,
+        "num": 252242,
+        "word": "孙乐言疑似穿假货",
+        "onboard_time": 1730123060,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251539,
+        "num": 251539,
+        "word": "江西多地出台三孩奖励政策",
+        "onboard_time": 1730163678,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247236,
+        "num": 247236,
+        "word": "19岁中专生靠一项技能拿下世界第一",
+        "onboard_time": 1730162480,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197843,
+        "num": 238692,
+        "word": "封神",
+        "onboard_time": 1730165719,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173550,
+        "num": 238278,
+        "word": "肖战庄达菲版射雕亮相推介会",
+        "onboard_time": 1730124860,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238050,
+        "num": 238050,
+        "word": "HYBE点评SEVENTEEN成员恋爱",
+        "onboard_time": 1730128881,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237556,
+        "num": 237556,
+        "word": "12345回应男孩入住酒店后确诊川崎病",
+        "onboard_time": 1730123900,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232730,
+        "num": 232730,
+        "word": "炒股两周赚百万硕士回应",
+        "onboard_time": 1730129180,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218530,
+        "num": 218530,
+        "word": "女生称参加音乐节被身后男子猥亵",
+        "onboard_time": 1730163500,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217547,
+        "num": 217547,
+        "word": "男子药店服用止疼药后心源性猝死",
+        "onboard_time": 1730163738,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203007,
+        "num": 203007,
+        "word": "宝妈见到刚出生的娃像极了网友奔现",
+        "onboard_time": 1730159421,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198821,
+        "num": 198821,
+        "word": "孙颖莎超27个月蝉联世界第一",
+        "onboard_time": 1730164399,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185241,
+        "num": 185241,
+        "word": "严厉打击以寻宝为噱头非法鉴定",
+        "onboard_time": 1730129900,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176042,
+        "num": 176042,
+        "word": "校方回应6名老师对女生照片开黄腔",
+        "onboard_time": 1730165719,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172760,
+        "num": 172760,
+        "word": "警方强烈建议关闭FaceTime",
+        "onboard_time": 1730117779,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171478,
+        "num": 171478,
+        "word": "李大钊少年时期珍贵照片",
+        "onboard_time": 1730160859,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170088,
+        "num": 170088,
+        "word": "F勒布伦男单世界第五",
+        "onboard_time": 1730165838,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "罗德里夺得金球奖",
+        "onboard_time": 1730157015,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135432,
+        "num": 135432,
+        "word": "南京野猪是见过世面的",
+        "onboard_time": 1730153051,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133620,
+        "num": 133620,
+        "word": "李大钊诞辰135年",
+        "onboard_time": 1730162360,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132290,
+        "num": 132290,
+        "word": "马龙陈梦出战老瓦杯",
+        "onboard_time": 1730156896,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125738,
+        "num": 125738,
+        "word": "一系列生育支持措施来了",
+        "onboard_time": 1730119518,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119759,
+        "num": 119759,
+        "word": "向佐再回应扇巴掌行为",
+        "onboard_time": 1730115919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114931,
+        "num": 114931,
+        "word": "张紫宁OST唱到了海外",
+        "onboard_time": 1730164039,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114701,
+        "num": 114701,
+        "word": "赵丽颖辛芷蕾G社生图",
+        "onboard_time": 1730129060,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#以钉钉子精神抓好改革任务落实#"
+    }
+  }
+}
