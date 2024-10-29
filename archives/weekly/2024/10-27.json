@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730212862526,
+  "endTime": 1730215509127,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -65,6 +65,14 @@
       "onboard_time": 1730160318,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2793210,
+      "num": 2793210,
+      "word": "周雨彤说会找机会和大家聊聊",
+      "onboard_time": 1730212881,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2598049,
@@ -971,12 +979,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 994501,
+      "num": 994501,
+      "word": "小米SU7 Ultra定价81.49万",
+      "onboard_time": 1730212282,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 992590,
       "num": 990746,
       "word": "郭敬明又换名了",
       "onboard_time": 1729990219,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 989674,
+      "num": 573613,
+      "word": "小米洗衣机",
+      "onboard_time": 1730210601,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 987420,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1730201240,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 849400,
+      "num": 498958,
+      "word": "杨紫直播身材状态",
+      "onboard_time": 1730214740,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 846854,
@@ -1675,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627982,
+      "num": 627982,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625238,
       "num": 580149,
       "word": "机械师被火车碰撞身亡",
@@ -1849,14 +1889,6 @@
       "onboard_time": 1730124021,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573613,
-      "num": 573613,
-      "word": "小米洗衣机",
-      "onboard_time": 1730210601,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 572379,
@@ -2387,14 +2419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 457701,
-      "num": 572266,
-      "word": "小米SU7 Ultra定价81.49万",
-      "onboard_time": 1730212282,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 455075,
       "num": 542948,
       "word": "南京博物院免费门票被黄牛炒至两百元",
@@ -2827,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375719,
+      "num": 500571,
+      "word": "乘客讲述年轻机械师被撞身亡详情",
+      "onboard_time": 1730212220,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375666,
       "num": 375666,
       "word": "中级会计",
@@ -2865,14 +2897,6 @@
       "onboard_time": 1730020399,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 370952,
-      "num": 370952,
-      "word": "90后农村娃拿到太空船票",
-      "onboard_time": 1730211622,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370935,
@@ -2947,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358016,
+      "num": 358016,
+      "word": "郭艾伦哭了",
+      "onboard_time": 1730212161,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357936,
       "num": 357936,
       "word": "孙志刚受贿超8亿元被判死缓",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1730080338,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355479,
+      "num": 355479,
+      "word": "巴勒斯坦代表问你们知道这种感觉吗",
+      "onboard_time": 1730213421,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 355378,
@@ -3049,6 +3089,14 @@
       "onboard_time": 1730174901,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339454,
+      "num": 487984,
+      "word": "蛇瓜",
+      "onboard_time": 1730213720,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 336628,
@@ -3249,6 +3297,14 @@
       "onboard_time": 1730102538,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 308708,
+      "num": 308708,
+      "word": "杨紫工作室 图呢",
+      "onboard_time": 1730212341,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 307730,
@@ -3659,14 +3715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 271165,
-      "num": 271165,
-      "word": "郭艾伦哭了",
-      "onboard_time": 1730212161,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267815,
       "num": 267815,
       "word": "法兰克福冠军赛国乒名单",
@@ -3939,14 +3987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251841,
-      "num": 251841,
-      "word": "杨紫工作室 图呢",
-      "onboard_time": 1730212341,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251539,
       "num": 251539,
       "word": "江西多地出台三孩奖励政策",
@@ -4099,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244358,
+      "num": 639478,
+      "word": "小米15或成iPhone杀手",
+      "onboard_time": 1730209460,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 243306,
       "num": 522428,
       "word": "神十九发射任务各系统准备就绪",
@@ -4176,14 +4224,6 @@
       "word": "A股又一只10倍股诞生",
       "onboard_time": 1730176821,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239596,
-      "num": 239596,
-      "word": "乘客讲述年轻机械师被撞身亡详情",
-      "onboard_time": 1730212220,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4467,6 +4507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225539,
+      "num": 225539,
+      "word": "如鸢",
+      "onboard_time": 1730214622,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225491,
       "num": 225491,
       "word": "肖战直播",
@@ -4569,6 +4617,14 @@
       "onboard_time": 1729936158,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220283,
+      "num": 220283,
+      "word": "小米手环9Pro",
+      "onboard_time": 1730213960,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 220213,
@@ -4739,6 +4795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210913,
+      "num": 210913,
+      "word": "赵露思虞书欣新剧同天开播",
+      "onboard_time": 1730213541,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210287,
       "num": 210287,
       "word": "16岁女生第3次夺女子标枪世界冠军",
@@ -4881,6 +4945,14 @@
       "onboard_time": 1730204961,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203231,
+      "num": 203231,
+      "word": "梁伟铿任翔宇vs朱一珺胡珂源",
+      "onboard_time": 1730214500,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 203007,
@@ -5179,14 +5251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195413,
-      "num": 639478,
-      "word": "小米15或成iPhone杀手",
-      "onboard_time": 1730209460,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 194915,
       "num": 194915,
       "word": "辛芷蕾薄纱高定裙",
@@ -5209,6 +5273,14 @@
       "onboard_time": 1730044700,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194760,
+      "num": 194760,
+      "word": "2024年全国羽毛球团体锦标赛",
+      "onboard_time": 1730215161,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 194712,
@@ -6177,6 +6249,14 @@
       "onboard_time": 1730037260,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164061,
+      "num": 164061,
+      "word": "丞磊 乘学",
+      "onboard_time": 1730214021,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 164014,
@@ -7923,6 +8003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89624,
+      "num": 496189,
+      "word": "初代网红咖啡店漫咖啡突然撤店",
+      "onboard_time": 1730214381,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88395,
       "num": 88395,
       "word": "92岁志愿军英雄回部队让人泪目",
@@ -8832,6 +8920,14 @@
       "word": "神十八乘组回地球前在忙什么",
       "onboard_time": 1730017399,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31855,
+      "num": 485393,
+      "word": "家里死人先臭着领导如此狂言尽显无知",
+      "onboard_time": 1730214860,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730212862526,
+  "endTime": 1730215509127,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -521,6 +521,14 @@
       "onboard_time": 1728433099,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2793210,
+      "num": 2793210,
+      "word": "周雨彤说会找机会和大家聊聊",
+      "onboard_time": 1730212881,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2792750,
@@ -7019,6 +7027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994501,
+      "num": 994501,
+      "word": "小米SU7 Ultra定价81.49万",
+      "onboard_time": 1730212282,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 992982,
       "num": 992982,
       "word": "爱情公寓还是太超前了",
@@ -7081,6 +7097,14 @@
       "onboard_time": 1729416979,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 989674,
+      "num": 573613,
+      "word": "小米洗衣机",
+      "onboard_time": 1730210601,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 988385,
@@ -8985,6 +9009,14 @@
       "onboard_time": 1729577299,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849400,
+      "num": 498958,
+      "word": "杨紫直播身材状态",
+      "onboard_time": 1730214740,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 848222,
@@ -13659,6 +13691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 627982,
+      "num": 627982,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627953,
       "num": 627953,
       "word": "张瑞告别国乒",
@@ -15257,14 +15297,6 @@
       "onboard_time": 1728400880,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573613,
-      "num": 573613,
-      "word": "小米洗衣机",
-      "onboard_time": 1730210601,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 573303,
@@ -19219,14 +19251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457701,
-      "num": 572266,
-      "word": "小米SU7 Ultra定价81.49万",
-      "onboard_time": 1730212282,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 457561,
       "num": 424907,
       "word": "东北雨姐删除了道歉视频",
@@ -22835,6 +22859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375719,
+      "num": 500571,
+      "word": "乘客讲述年轻机械师被撞身亡详情",
+      "onboard_time": 1730212220,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375666,
       "num": 375666,
       "word": "中级会计",
@@ -23153,14 +23185,6 @@
       "onboard_time": 1728486381,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370952,
-      "num": 370952,
-      "word": "90后农村娃拿到太空船票",
-      "onboard_time": 1730211622,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370935,
@@ -23961,6 +23985,14 @@
       "onboard_time": 1728214220,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355479,
+      "num": 355479,
+      "word": "巴勒斯坦代表问你们知道这种感觉吗",
+      "onboard_time": 1730213421,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 355378,
@@ -24881,6 +24913,14 @@
       "onboard_time": 1728276858,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339454,
+      "num": 487984,
+      "word": "蛇瓜",
+      "onboard_time": 1730213720,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 339344,
@@ -26865,6 +26905,14 @@
       "onboard_time": 1729814179,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308708,
+      "num": 308708,
+      "word": "杨紫工作室 图呢",
+      "onboard_time": 1730212341,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 308706,
@@ -32563,14 +32611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251841,
-      "num": 251841,
-      "word": "杨紫工作室 图呢",
-      "onboard_time": 1730212341,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251836,
       "num": 251836,
       "word": "她这么痛还稳稳地抱起孩子",
@@ -33491,6 +33531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244358,
+      "num": 639478,
+      "word": "小米15或成iPhone杀手",
+      "onboard_time": 1730209460,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244304,
       "num": 245198,
       "word": "北京下调个人住房贷款首付款比例",
@@ -34056,14 +34104,6 @@
       "word": "国庆假期第2天你在哪里过的",
       "onboard_time": 1727838199,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239596,
-      "num": 239596,
-      "word": "乘客讲述年轻机械师被撞身亡详情",
-      "onboard_time": 1730212220,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -36065,6 +36105,14 @@
       "onboard_time": 1728299423,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225539,
+      "num": 225539,
+      "word": "如鸢",
+      "onboard_time": 1728041719,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 225539,
@@ -38715,6 +38763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210913,
+      "num": 210913,
+      "word": "赵露思虞书欣新剧同天开播",
+      "onboard_time": 1730213541,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210878,
       "num": 210878,
       "word": "A股大涨",
@@ -40585,6 +40641,14 @@
       "onboard_time": 1728446840,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203231,
+      "num": 203231,
+      "word": "梁伟铿任翔宇vs朱一珺胡珂源",
+      "onboard_time": 1730214500,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 203170,
@@ -43027,14 +43091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195413,
-      "num": 639478,
-      "word": "小米15或成iPhone杀手",
-      "onboard_time": 1730209460,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 195403,
       "num": 302087,
       "word": "春花焰今日开播",
@@ -43257,6 +43313,14 @@
       "onboard_time": 1728211039,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194760,
+      "num": 194760,
+      "word": "2024年全国羽毛球团体锦标赛",
+      "onboard_time": 1730215161,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 194747,
@@ -51811,6 +51875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164061,
+      "num": 164061,
+      "word": "丞磊 乘学",
+      "onboard_time": 1730214021,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164014,
       "num": 351371,
       "word": "784万买房开放日看完后想退",
@@ -56329,14 +56401,6 @@
       "onboard_time": 1728267918,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148461,
-      "num": 148461,
-      "word": "如鸢",
-      "onboard_time": 1728041719,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 148311,
@@ -70651,6 +70715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89624,
+      "num": 496189,
+      "word": "初代网红咖啡店漫咖啡突然撤店",
+      "onboard_time": 1730214381,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89619,
       "num": 106136,
       "word": "王曼昱做好被小球员冲击准备",
@@ -81929,6 +82001,14 @@
       "onboard_time": 1727879901,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31855,
+      "num": 485393,
+      "word": "家里死人先臭着领导如此狂言尽显无知",
+      "onboard_time": 1730214860,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31822,
