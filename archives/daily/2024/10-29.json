@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730184332886,
+  "endTime": 1730186555463,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1510042,
+      "num": 576744,
+      "word": "韩火火发文",
+      "onboard_time": 1730184259,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1403980,
       "num": 1403980,
       "word": "星巴克放弃价格战",
@@ -139,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1229351,
+      "num": 1229351,
+      "word": "研究发现地球漏水了",
+      "onboard_time": 1730184801,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1202963,
       "num": 679005,
       "word": "首尔SM楼下摆满吊唁花圈",
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099591,
+      "num": 522432,
+      "word": "领导放狠话家里人死了先臭着",
+      "onboard_time": 1730184019,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075759,
       "num": 1075759,
       "word": "灏琪cp官宣",
@@ -195,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 948924,
-      "num": 948924,
+      "raw_hot": 972543,
+      "num": 972543,
       "word": "南京野猪",
       "onboard_time": 1730181501,
       "rank": 4,
@@ -651,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386966,
+      "num": 332681,
+      "word": "吉赛尔邦辰怀三胎",
+      "onboard_time": 1730184559,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385673,
       "num": 385673,
       "word": "白敬亭 和狗撞名还撞衫",
@@ -707,20 +739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335863,
+      "num": 335863,
+      "word": "画皮 平番",
+      "onboard_time": 1730184378,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331925,
       "num": 331925,
       "word": "光遇复刻",
       "onboard_time": 1730175799,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 329616,
-      "num": 329616,
-      "word": "韩火火发文",
-      "onboard_time": 1730184259,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 320804,
@@ -779,6 +811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 289118,
+      "num": 289118,
+      "word": "高雅 热烈又克制",
+      "onboard_time": 1730185459,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
@@ -787,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269708,
-      "num": 269708,
-      "word": "领导放狠话家里人死了先臭着",
-      "onboard_time": 1730184019,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 268076,
+      "num": 256077,
+      "word": "刘雨璠告别心动的信号7",
+      "onboard_time": 1730186480,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 267815,
@@ -891,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254441,
+      "num": 254441,
+      "word": "乔妍的心事 81分钟才出片名",
+      "onboard_time": 1730183298,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251539,
       "num": 251539,
       "word": "江西多地出台三孩奖励政策",
@@ -971,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226368,
+      "num": 581766,
+      "word": "男子网聊7天花11万闪婚后被拉黑",
+      "onboard_time": 1730177601,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223083,
       "num": 223083,
       "word": "F勒布伦男单世界第五",
@@ -1011,20 +1067,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213893,
-      "num": 581766,
-      "word": "男子网聊7天花11万闪婚后被拉黑",
-      "onboard_time": 1730177601,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212158,
-      "num": 250450,
-      "word": "乔妍的心事 81分钟才出片名",
-      "onboard_time": 1730183298,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 209319,
+      "num": 238823,
+      "word": "姚安娜别夸了 借多少钱直说",
+      "onboard_time": 1730186119,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 208847,
@@ -1187,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176640,
+      "num": 176640,
+      "word": "价值300元遥控器维修费1776元",
+      "onboard_time": 1730184619,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176047,
       "num": 176047,
       "word": "终于理解古时候有钱人家办赏菊茶会了",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1730135893,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 173969,
+      "num": 173969,
+      "word": "华为Mate70系列11月上市",
+      "onboard_time": 1730186180,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 173910,
@@ -1299,6 +1363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153276,
+      "num": 153276,
+      "word": "BLG鄂了赣饭真湘",
+      "onboard_time": 1730184801,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151492,
       "num": 2103859,
       "word": "公安部网安局提醒此类谷子不能吃",
@@ -1313,6 +1385,22 @@
       "onboard_time": 1730166739,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148326,
+      "num": 148326,
+      "word": "以军公布打死辛瓦尔的行动画面",
+      "onboard_time": 1730186300,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 147228,
+      "num": 147228,
+      "word": "吹牛老爹再被曝性侵10岁男童",
+      "onboard_time": 1730185099,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146296,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1730119878,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140903,
+      "num": 140903,
+      "word": "大小脸最怕的运动",
+      "onboard_time": 1730182878,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 139840,
@@ -1747,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59595,
+      "num": 333069,
+      "word": "784万买房开放日看完后想退",
+      "onboard_time": 1730186539,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51439,
       "num": 51439,
       "word": "麦琳喊杨子宝贝",
@@ -1793,6 +1897,14 @@
       "onboard_time": 1730136374,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38012,
+      "num": 504581,
+      "word": "质疑村支书系爱马仕并非舆论太敏感",
+      "onboard_time": 1730185039,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36306,
@@ -1865,6 +1977,14 @@
       "onboard_time": 1730140571,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24335,
+      "num": 634406,
+      "word": "平债组织称投资2到3年至少赚1.5亿",
+      "onboard_time": 1730185398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24020,
