@@ -1,7 +1,15 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730198561346,
+  "endTime": 1730200776533,
   "band_list": [
+    {
+      "raw_hot": 4331227,
+      "num": 385934,
+      "word": "豪咪cp官宣",
+      "onboard_time": 1730199140,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4139554,
       "num": 4139554,
@@ -24,6 +32,14 @@
       "word": "19岁中专生拿了个世界冠军当生日礼物",
       "onboard_time": 1730160318,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2523587,
+      "num": 384806,
+      "word": "专家称生孩子越少养孩子就越贵",
+      "onboard_time": 1730198959,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1187335,
+      "num": 1187335,
+      "word": "孙乐言哭了",
+      "onboard_time": 1730199861,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1161553,
       "num": 1161553,
       "word": "辰咪",
@@ -243,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1022266,
+      "num": 1022266,
+      "word": "小米发布会",
+      "onboard_time": 1730198779,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1009842,
       "num": 426253,
       "word": "4岁男孩入住酒店后确诊川崎病",
@@ -280,6 +312,14 @@
       "word": "孙乐言",
       "onboard_time": 1730160018,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 902202,
+      "num": 672338,
+      "word": "心动的信号",
+      "onboard_time": 1730169919,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -321,6 +361,14 @@
       "onboard_time": 1730170879,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 818775,
+      "num": 430607,
+      "word": "高雅cp见家长",
+      "onboard_time": 1730194879,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 811107,
@@ -427,14 +475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 703607,
-      "num": 430607,
-      "word": "高雅cp见家长",
-      "onboard_time": 1730194879,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 690995,
       "num": 220032,
       "word": "孙乐言 奇葩",
@@ -475,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 652581,
+      "num": 440981,
+      "word": "翁青雅彭高官宣",
+      "onboard_time": 1730200341,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649976,
       "num": 649976,
       "word": "神十九乘组蔡旭哲宋令东王浩泽",
@@ -488,6 +536,14 @@
       "word": "机械师被火车碰撞身亡",
       "onboard_time": 1730181859,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617548,
+      "num": 369189,
+      "word": "被撞身亡机械师仅有20多岁",
+      "onboard_time": 1730199801,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -683,14 +739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 462003,
-      "num": 672338,
-      "word": "心动的信号",
-      "onboard_time": 1730169919,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 450281,
       "num": 450281,
       "word": "李定豪阮小咪he",
@@ -859,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357936,
+      "num": 357936,
+      "word": "孙志刚受贿超8亿元被判死缓",
+      "onboard_time": 1730198058,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355761,
       "num": 355761,
       "word": "孙乐言 我现在不是一个普通人了",
@@ -905,6 +961,14 @@
       "onboard_time": 1730164458,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 311360,
+      "num": 311360,
+      "word": "翔霖",
+      "onboard_time": 1730199199,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 309027,
@@ -995,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280138,
+      "num": 280138,
+      "word": "秦皇岛空气",
+      "onboard_time": 1730198178,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
@@ -1003,12 +1075,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271275,
+      "num": 271275,
+      "word": "A50",
+      "onboard_time": 1730197159,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 270420,
+      "num": 270420,
+      "word": "小米15系列价格",
+      "onboard_time": 1730198720,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 267815,
       "num": 267815,
       "word": "法兰克福冠军赛国乒名单",
       "onboard_time": 1730172919,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264818,
+      "num": 264818,
+      "word": "无期迷途",
+      "onboard_time": 1730199199,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 264499,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1730179100,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257446,
+      "num": 257446,
+      "word": "10万亿",
+      "onboard_time": 1730200221,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 256907,
@@ -1137,14 +1241,6 @@
       "onboard_time": 1730171058,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249422,
-      "num": 249422,
-      "word": "A50",
-      "onboard_time": 1730197159,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 247236,
@@ -1467,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198537,
+      "num": 198537,
+      "word": "高雅cp公主抱",
+      "onboard_time": 1730200521,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198288,
       "num": 198288,
       "word": "汪苏泷重庆抢票",
@@ -1497,6 +1601,22 @@
       "onboard_time": 1730153051,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194233,
+      "num": 194233,
+      "word": "小巷人家",
+      "onboard_time": 1730119098,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193146,
+      "num": 193146,
+      "word": "时代少年团vlog",
+      "onboard_time": 1730199979,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191762,
@@ -1619,6 +1739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "成都一男子在网吧内持刀行凶",
+      "onboard_time": 1730200221,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173910,
       "num": 173910,
       "word": "刘浩存首本五大女刊封面",
@@ -1713,6 +1841,14 @@
       "onboard_time": 1730194092,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166732,
+      "num": 166732,
+      "word": "党的二十届三中全会精神",
+      "onboard_time": 1730198720,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165175,
@@ -2068,7 +2204,7 @@
     },
     {
       "raw_hot": 131351,
-      "num": 131351,
+      "num": 380579,
       "word": "杨妞花说网上寻亲孩子九成匿名",
       "onboard_time": 1730198299,
       "rank": 45,
@@ -2091,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127414,
-      "num": 127414,
-      "word": "秦皇岛空气",
-      "onboard_time": 1730198178,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127234,
       "num": 127234,
       "word": "杨妞花给养父带了苗族衣服",
@@ -2113,14 +2241,6 @@
       "onboard_time": 1730164039,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125142,
-      "num": 125142,
-      "word": "孙志刚受贿超8亿元被判死缓",
-      "onboard_time": 1730198058,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123182,
@@ -2185,14 +2305,6 @@
       "onboard_time": 1730149571,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 110850,
-      "num": 110850,
-      "word": "小巷人家",
-      "onboard_time": 1730119098,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 109909,
@@ -2403,6 +2515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 64750,
+      "num": 365141,
+      "word": "李光洁带王安宇哄蒋欣",
+      "onboard_time": 1730200160,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63175,
       "num": 393953,
       "word": "中国公开征集载人月球车名称",
@@ -2436,7 +2556,7 @@
     },
     {
       "raw_hot": 45349,
-      "num": 1094232,
+      "num": 1198468,
       "word": "1.4万亿斤标记粮食产量新高度",
       "onboard_time": 1730192719,
       "rank": 2,
@@ -2456,6 +2576,14 @@
       "word": "当地回应领导群内发表争议性言论",
       "onboard_time": 1730188999,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40913,
+      "num": 390732,
+      "word": "生育支持政策组合拳为何持续发力",
+      "onboard_time": 1730200461,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2584,6 +2712,14 @@
       "word": "姐姐为亡弟追凶26年案将开庭",
       "onboard_time": 1730193319,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26193,
+      "num": 363030,
+      "word": "为什么现在的餐厅越来越没特色了",
+      "onboard_time": 1730200221,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
