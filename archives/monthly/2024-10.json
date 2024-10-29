@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730227461704,
+  "endTime": 1730229550745,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -81211,6 +81211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34578,
+      "num": 89056,
+      "word": "王浩泽说导师这句话影响自己终生",
+      "onboard_time": 1730226491,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34572,
       "num": 393728,
       "word": "阿勒泰导演新电影丹心恋人官宣",
@@ -82707,14 +82715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30301,
-      "num": 89056,
-      "word": "王浩泽说导师这句话影响自己终生",
-      "onboard_time": 1730226491,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30289,
       "num": 39897,
       "word": "全国各地开启人从众模式",
@@ -82865,6 +82865,14 @@
       "onboard_time": 1729743679,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29875,
+      "num": 33547,
+      "word": "以军公布打死辛瓦尔画面",
+      "onboard_time": 1730227872,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 29862,
@@ -83321,6 +83329,14 @@
       "onboard_time": 1728000797,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28091,
+      "num": 28091,
+      "word": "听泉鉴宝APP售卖听泉表情包摆件",
+      "onboard_time": 1730227753,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 28064,
@@ -84611,6 +84627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23939,
+      "num": 36766,
+      "word": "王浩泽从托举飞天到自己飞天",
+      "onboard_time": 1730227332,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23938,
       "num": 23938,
       "word": "美防长称增强兵力部署保护以色列",
@@ -85427,14 +85451,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 21393,
-      "num": 24403,
-      "word": "王浩泽从托举飞天到自己飞天",
-      "onboard_time": 1730227332,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21385,
       "num": 105329,
       "word": "汪苏泷合肥蹦蹦跳",
@@ -86089,6 +86105,14 @@
       "onboard_time": 1730142071,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19059,
+      "num": 19059,
+      "word": "Project7选秀",
+      "onboard_time": 1730229491,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 19056,

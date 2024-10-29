@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/30 00:28:47 ~ 2024/10/30 02:44:21
+本榜单时间：2024/10/30 00:28:47 ~ 2024/10/30 03:19:10
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ HYBE报告评价babymonster（热度：74278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E6%B3%BD%E8%AF%B4%E5%AF%BC%E5%B8%88%E8%BF%99%E5%8F%A5%E8%AF%9D%E5%BD%B1%E5%93%8D%E8%87%AA%E5%B7%B1%E7%BB%88%E7%94%9F%23" target="weibo">
+王浩泽说导师这句话影响自己终生（热度：34578）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E7%A5%9E%E5%8D%81%E4%B9%9D%E8%88%AA%E5%A4%A9%E5%91%98%23" target="weibo">
 一人一句祝福神十九航天员（热度：32579）
 </a>
@@ -369,14 +375,20 @@ HYBE报告评价babymonster（热度：74278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E6%B3%BD%E8%AF%B4%E5%AF%BC%E5%B8%88%E8%BF%99%E5%8F%A5%E8%AF%9D%E5%BD%B1%E5%93%8D%E8%87%AA%E5%B7%B1%E7%BB%88%E7%94%9F%23" target="weibo">
-王浩泽说导师这句话影响自己终生（热度：30301）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E6%B3%BD%E8%AF%B4%E8%BA%AB%E4%BB%BD%E5%9C%A8%E5%8F%98%E4%BD%86%E5%88%9D%E5%BF%83%E5%92%8C%E4%BD%BF%E5%91%BD%E4%B8%8D%E5%8F%98%23" target="weibo">
+王浩泽说身份在变但初心和使命不变（热度：29926）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E6%B3%BD%E8%AF%B4%E8%BA%AB%E4%BB%BD%E5%9C%A8%E5%8F%98%E4%BD%86%E5%88%9D%E5%BF%83%E5%92%8C%E4%BD%BF%E5%91%BD%E4%B8%8D%E5%8F%98%23" target="weibo">
-王浩泽说身份在变但初心和使命不变（热度：29926）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%85%AC%E5%B8%83%E6%89%93%E6%AD%BB%E8%BE%9B%E7%93%A6%E5%B0%94%E7%94%BB%E9%9D%A2%23" target="weibo">
+以军公布打死辛瓦尔画面（热度：29875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9DAPP%E5%94%AE%E5%8D%96%E5%90%AC%E6%B3%89%E8%A1%A8%E6%83%85%E5%8C%85%E6%91%86%E4%BB%B6%23" target="weibo">
+听泉鉴宝APP售卖听泉表情包摆件（热度：28091）
 </a>
 </li>
 
@@ -388,7 +400,13 @@ HYBE报告评价babymonster（热度：74278）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E6%B3%BD%E4%BB%8E%E6%89%98%E4%B8%BE%E9%A3%9E%E5%A4%A9%E5%88%B0%E8%87%AA%E5%B7%B1%E9%A3%9E%E5%A4%A9%23" target="weibo">
-王浩泽从托举飞天到自己飞天（热度：21393）
+王浩泽从托举飞天到自己飞天（热度：23939）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Project7%E9%80%89%E7%A7%80%23" target="weibo">
+Project7选秀（热度：19059）
 </a>
 </li>
 
