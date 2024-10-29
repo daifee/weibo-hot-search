@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 11:29:53
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 11:44:06
 </p>
 </blockquote>
 <p>
@@ -2861,6 +2861,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%20%E7%82%B9%E5%A4%A9%E7%81%AF%23" target="weibo">
 何猷君 点天灯（热度：1349437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7Ultra%E7%BA%BD%E5%8C%97%E6%9C%80%E5%BF%AB%E5%9B%9B%E9%97%A8%E8%BD%A6%23" target="weibo">
+小米SU7Ultra纽北最快四门车（热度：1347084）
 </a>
 </li>
 
@@ -5913,6 +5919,12 @@ A2O（热度：913492）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%90%8D90%E5%90%8E%E8%88%AA%E5%A4%A9%E5%91%98%E8%A6%81%E9%A3%9E%E5%A4%A9%E4%BA%86%23" target="weibo">
+2名90后航天员要飞天了（热度：898032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CBLG%23" target="weibo">
 LNG战胜BLG（热度：897693）
 </a>
@@ -5999,18 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%BE%9B%E7%93%A6%E5%B0%94%E7%9A%84%E5%B0%B8%E4%BD%93%E5%8F%AF%E8%83%BD%E8%BF%9B%E8%A1%8CDNA%E6%A3%80%E6%B5%8B%23" target="weibo">
 疑似辛瓦尔的尸体可能进行DNA检测（热度：895496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E6%98%8E%E7%A1%AE%E9%9F%A9%E5%9B%BD%E4%B8%BA%E6%95%8C%E5%AF%B9%E5%9B%BD%E5%AE%B6%23" target="weibo">
-朝鲜明确韩国为敌对国家（热度：894958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2024年诺贝尔化学奖揭晓（热度：894359）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730172593678,
+  "endTime": 1730173446448,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -3801,6 +3801,14 @@
       "onboard_time": 1729208058,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1347084,
+      "num": 1347084,
+      "word": "小米SU7Ultra纽北最快四门车",
+      "onboard_time": 1730172500,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 1346935,
@@ -7867,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898032,
+      "num": 898032,
+      "word": "2名90后航天员要飞天了",
+      "onboard_time": 1730169499,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897693,
       "num": 897693,
       "word": "LNG战胜BLG",
@@ -8336,14 +8352,6 @@
       "word": "擅自离岗16年国企员工有机会返岗",
       "onboard_time": 1729495578,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 868141,
-      "num": 868141,
-      "word": "2名90后航天员要飞天了",
-      "onboard_time": 1730169499,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -8825,6 +8833,14 @@
       "onboard_time": 1729560499,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 838919,
+      "num": 779402,
+      "word": "虞书欣赵露思新剧同时开播",
+      "onboard_time": 1730170879,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 838514,
@@ -9865,14 +9881,6 @@
       "onboard_time": 1728130041,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 779402,
-      "num": 779402,
-      "word": "虞书欣赵露思新剧同时开播",
-      "onboard_time": 1730170879,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 778337,
@@ -12420,7 +12428,7 @@
     },
     {
       "raw_hot": 658816,
-      "num": 360164,
+      "num": 379854,
       "word": "绝对不能在乡镇开女装店",
       "onboard_time": 1730169440,
       "rank": 30,
@@ -14019,6 +14027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 600340,
+      "num": 393281,
+      "word": "30天不玩手机的日子竟然这么爽",
+      "onboard_time": 1730169258,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599687,
       "num": 599687,
       "word": "业内提醒散户有问题的公司不要碰",
@@ -14201,14 +14217,6 @@
       "onboard_time": 1728438380,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 592361,
-      "num": 393281,
-      "word": "30天不玩手机的日子竟然这么爽",
-      "onboard_time": 1730169258,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 591567,
@@ -19347,6 +19355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 441107,
+      "num": 370066,
+      "word": "小狗店门口排泄被店员持杆抽打",
+      "onboard_time": 1730172319,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441015,
       "num": 494260,
       "word": "黄圣依杨子参加再见爱人",
@@ -20691,6 +20707,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 407365,
+      "num": 407365,
+      "word": "恋与深空黎深新PV",
+      "onboard_time": 1730172080,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407183,
       "num": 452072,
       "word": "SM台历",
@@ -20889,6 +20913,14 @@
       "onboard_time": 1729638915,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402366,
+      "num": 402366,
+      "word": "雷军再回应雷军AI配音",
+      "onboard_time": 1730169618,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 402024,
@@ -22643,6 +22675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367688,
+      "num": 367688,
+      "word": "生育补贴",
+      "onboard_time": 1730172679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367648,
       "num": 238741,
       "word": "小米SU7Ultra",
@@ -23081,14 +23121,6 @@
       "onboard_time": 1727752699,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 359109,
-      "num": 359109,
-      "word": "雷军再回应雷军AI配音",
-      "onboard_time": 1730169618,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 358852,
@@ -24707,6 +24739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330417,
+      "num": 375836,
+      "word": "赵露思敦煌神女飞天舞",
+      "onboard_time": 1730173280,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330340,
       "num": 423377,
       "word": "以总理称伊朗犯下大错将付出代价",
@@ -25219,14 +25259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322813,
-      "num": 296983,
-      "word": "小米SU7Ultra纽北最快四门车",
-      "onboard_time": 1730172500,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 322601,
       "num": 230747,
       "word": "伊朗向以色列发动大规模导弹袭击",
@@ -25240,6 +25272,14 @@
       "word": "时代少年团 台州",
       "onboard_time": 1728483803,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322448,
+      "num": 322448,
+      "word": "白磷型人格",
+      "onboard_time": 1730172018,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -26561,6 +26601,14 @@
       "onboard_time": 1729214720,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303693,
+      "num": 398629,
+      "word": "尤长靖 干嘛抢我话筒",
+      "onboard_time": 1730172319,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 303634,
@@ -29427,14 +29475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 273951,
-      "num": 273951,
-      "word": "恋与深空黎深新PV",
-      "onboard_time": 1730172080,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 273833,
       "num": 273833,
       "word": "杭州千岛湖景区发布重要通告",
@@ -30579,14 +30619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263114,
-      "num": 263114,
-      "word": "白磷型人格",
-      "onboard_time": 1730172018,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262977,
       "num": 228688,
       "word": "身体真正需要的高效休息",
@@ -31305,6 +31337,14 @@
       "onboard_time": 1729172123,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256213,
+      "num": 326551,
+      "word": "辛芷蕾张颂文日掛中天海报",
+      "onboard_time": 1730172138,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 256195,
@@ -35539,14 +35579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222387,
-      "num": 222387,
-      "word": "辛芷蕾张颂文日掛中天海报",
-      "onboard_time": 1730172138,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222278,
       "num": 238692,
       "word": "封神",
@@ -36545,6 +36577,14 @@
       "onboard_time": 1729222218,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216682,
+      "num": 216682,
+      "word": "刺杀小说家2将于年底杀青",
+      "onboard_time": 1730173280,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 216640,
@@ -38091,6 +38131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208689,
+      "num": 208689,
+      "word": "李隼希望广大球迷多些包容",
+      "onboard_time": 1730173400,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208599,
       "num": 208599,
       "word": "CPI",
@@ -38817,14 +38865,6 @@
       "onboard_time": 1729321640,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205603,
-      "num": 205603,
-      "word": "尤长靖 干嘛抢我话筒",
-      "onboard_time": 1730172319,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 205584,
@@ -39875,6 +39915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201772,
+      "num": 201772,
+      "word": "皇马 金球奖",
+      "onboard_time": 1730171659,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "郭晶晶43岁生日",
@@ -40347,14 +40395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200398,
-      "num": 200398,
-      "word": "小狗店门口排泄被店员持杆抽打",
-      "onboard_time": 1730172319,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200390,
       "num": 323947,
       "word": "大熊猫彻夜待树上思考熊生",
@@ -40507,14 +40547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199966,
-      "num": 199966,
-      "word": "皇马 金球奖",
-      "onboard_time": 1730171659,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199915,
       "num": 249223,
       "word": "ILLIT经纪人辞职",
@@ -40649,6 +40681,14 @@
       "onboard_time": 1729262361,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "近期国乒主力身体心理恢复不充分",
+      "onboard_time": 1730173039,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 199381,
@@ -48840,6 +48880,14 @@
       "word": "车车车车高速车车车车",
       "onboard_time": 1728191178,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169372,
+      "num": 630559,
+      "word": "一对上海父子同居养老的十二年",
+      "onboard_time": 1730171298,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -63859,6 +63907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 115492,
+      "num": 250714,
+      "word": "确凿证据证明伏特台风实为国际勒索软件组织",
+      "onboard_time": 1730172500,
+      "rank": 35,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 115488,
       "num": 115488,
       "word": "危险的关系",
@@ -64641,14 +64697,6 @@
       "onboard_time": 1727922918,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112194,
-      "num": 630559,
-      "word": "一对上海父子同居养老的十二年",
-      "onboard_time": 1730171298,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112152,
@@ -71363,14 +71411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73066,
-      "num": 250714,
-      "word": "确凿证据证明伏特台风实为国际勒索软件组织",
-      "onboard_time": 1730172500,
-      "rank": 35,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 73062,
       "num": 541994,
       "word": "为什么有的人总爱泼冷水",
@@ -71593,6 +71633,14 @@
       "onboard_time": 1730134575,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71905,
+      "num": 362245,
+      "word": "男童被虐待致死生父也难辞其咎",
+      "onboard_time": 1730171479,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71722,
@@ -76763,14 +76811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43573,
-      "num": 362245,
-      "word": "男童被虐待致死生父也难辞其咎",
-      "onboard_time": 1730171479,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43493,
       "num": 383794,
       "word": "刘浩存灵感妆",
@@ -81137,6 +81177,14 @@
       "onboard_time": 1728562101,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28757,
+      "num": 217466,
+      "word": "享界S9先享一步",
+      "onboard_time": 1730172979,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 28684,

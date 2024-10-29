@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730172593678,
+  "endTime": 1730173446448,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -395,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1347084,
+      "num": 1347084,
+      "word": "小米SU7Ultra纽北最快四门车",
+      "onboard_time": 1730172500,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1344973,
       "num": 449868,
       "word": "孙乐言疑似穿假货",
@@ -779,6 +787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 898032,
+      "num": 898032,
+      "word": "2名90后航天员要飞天了",
+      "onboard_time": 1730169499,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897572,
       "num": 695533,
       "word": "大梦归离豆瓣除名郭敬明",
@@ -833,14 +849,6 @@
       "onboard_time": 1730094497,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 868141,
-      "num": 868141,
-      "word": "2名90后航天员要飞天了",
-      "onboard_time": 1730169499,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867178,
@@ -907,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 838919,
+      "num": 779402,
+      "word": "虞书欣赵露思新剧同时开播",
+      "onboard_time": 1730170879,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 831045,
       "num": 541295,
       "word": "赵丽颖改高定了",
@@ -961,14 +977,6 @@
       "onboard_time": 1730161759,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 779402,
-      "num": 779402,
-      "word": "虞书欣赵露思新剧同时开播",
-      "onboard_time": 1730170879,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 771789,
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 658816,
-      "num": 360164,
+      "num": 379854,
       "word": "绝对不能在乡镇开女装店",
       "onboard_time": 1730169440,
       "rank": 30,
@@ -1307,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600340,
+      "num": 393281,
+      "word": "30天不玩手机的日子竟然这么爽",
+      "onboard_time": 1730169258,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 598012,
       "num": 253344,
       "word": "易烊千玺在拍影版边水往事",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1729996217,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592361,
-      "num": 393281,
-      "word": "30天不玩手机的日子竟然这么爽",
-      "onboard_time": 1730169258,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 586182,
@@ -1883,6 +1891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441107,
+      "num": 370066,
+      "word": "小狗店门口排泄被店员持杆抽打",
+      "onboard_time": 1730172319,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436226,
       "num": 277698,
       "word": "Gumayusi喊话Bin",
@@ -1995,6 +2011,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 407365,
+      "num": 407365,
+      "word": "恋与深空黎深新PV",
+      "onboard_time": 1730172080,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405971,
       "num": 323615,
       "word": "金鸡奖最佳女主提名3个00后",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1730124860,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 402366,
+      "num": 402366,
+      "word": "雷军再回应雷军AI配音",
+      "onboard_time": 1730169618,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 401524,
@@ -2187,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367688,
+      "num": 367688,
+      "word": "生育补贴",
+      "onboard_time": 1730172679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367648,
       "num": 238741,
       "word": "小米SU7Ultra",
@@ -2233,14 +2273,6 @@
       "onboard_time": 1730088919,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359109,
-      "num": 359109,
-      "word": "雷军再回应雷军AI配音",
-      "onboard_time": 1730169618,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 357017,
@@ -2363,6 +2395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330417,
+      "num": 375836,
+      "word": "赵露思敦煌神女飞天舞",
+      "onboard_time": 1730173280,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328701,
       "num": 333849,
       "word": "贺峻霖MVP",
@@ -2411,12 +2451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322813,
-      "num": 296983,
-      "word": "小米SU7Ultra纽北最快四门车",
-      "onboard_time": 1730172500,
-      "rank": 30,
-      "category": "汽车"
+      "raw_hot": 322448,
+      "num": 322448,
+      "word": "白磷型人格",
+      "onboard_time": 1730172018,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 321988,
@@ -2569,6 +2609,14 @@
       "onboard_time": 1730073557,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303693,
+      "num": 398629,
+      "word": "尤长靖 干嘛抢我话筒",
+      "onboard_time": 1730172319,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 303613,
@@ -2827,14 +2875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273951,
-      "num": 273951,
-      "word": "恋与深空黎深新PV",
-      "onboard_time": 1730172080,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 272660,
       "num": 225557,
       "word": "虞书欣丁禹兮3年二搭",
@@ -2923,14 +2963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 263114,
-      "num": 263114,
-      "word": "白磷型人格",
-      "onboard_time": 1730172018,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262877,
       "num": 262877,
       "word": "马龙陈梦出战老瓦杯",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1730037682,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256213,
+      "num": 326551,
+      "word": "辛芷蕾张颂文日掛中天海报",
+      "onboard_time": 1730172138,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 256178,
@@ -3475,14 +3515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222387,
-      "num": 222387,
-      "word": "辛芷蕾张颂文日掛中天海报",
-      "onboard_time": 1730172138,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222282,
       "num": 222282,
       "word": "成毅把难过的事想了遍还是没忍住",
@@ -3587,6 +3619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216682,
+      "num": 216682,
+      "word": "刺杀小说家2将于年底杀青",
+      "onboard_time": 1730173280,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216322,
       "num": 216322,
       "word": "马丽提名金鸡奖最佳女主角",
@@ -3683,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208689,
+      "num": 208689,
+      "word": "李隼希望广大球迷多些包容",
+      "onboard_time": 1730173400,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208584,
       "num": 208584,
       "word": "小猫没夹住发出呱叫声",
@@ -3739,14 +3787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205603,
-      "num": 205603,
-      "word": "尤长靖 干嘛抢我话筒",
-      "onboard_time": 1730172319,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205395,
       "num": 205395,
       "word": "邵兵一家颜值",
@@ -3795,6 +3835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201772,
+      "num": 201772,
+      "word": "皇马 金球奖",
+      "onboard_time": 1730171659,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201383,
       "num": 201383,
       "word": "四姑娘山景区回应失温游客已无大碍",
@@ -3835,14 +3883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200398,
-      "num": 200398,
-      "word": "小狗店门口排泄被店员持杆抽打",
-      "onboard_time": 1730172319,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200208,
       "num": 200208,
       "word": "封神第二部看点推介",
@@ -3859,14 +3899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199966,
-      "num": 199966,
-      "word": "皇马 金球奖",
-      "onboard_time": 1730171659,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199750,
       "num": 199750,
       "word": "郑秀妍晒给郑秀晶庆生照",
@@ -3881,6 +3913,14 @@
       "onboard_time": 1730027779,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "近期国乒主力身体心理恢复不充分",
+      "onboard_time": 1730173039,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 199194,
@@ -4553,6 +4593,14 @@
       "onboard_time": 1730088919,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169372,
+      "num": 630559,
+      "word": "一对上海父子同居养老的十二年",
+      "onboard_time": 1730171298,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168631,
@@ -5811,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115492,
+      "num": 250714,
+      "word": "确凿证据证明伏特台风实为国际勒索软件组织",
+      "onboard_time": 1730172500,
+      "rank": 35,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 114379,
       "num": 114379,
       "word": "成都蓉城队史首进亚冠",
@@ -5840,14 +5896,6 @@
       "word": "中式美学与秋景的适配度",
       "onboard_time": 1730085377,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112194,
-      "num": 630559,
-      "word": "一对上海父子同居养老的十二年",
-      "onboard_time": 1730171298,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -6251,14 +6299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73066,
-      "num": 250714,
-      "word": "确凿证据证明伏特台风实为国际勒索软件组织",
-      "onboard_time": 1730172500,
-      "rank": 35,
-      "category": "社会新闻,国外时政"
-    },
-    {
       "raw_hot": 73022,
       "num": 218010,
       "word": "医保目录6年累计新增744种药品",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1730134575,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71905,
+      "num": 362245,
+      "word": "男童被虐待致死生父也难辞其咎",
+      "onboard_time": 1730171479,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71595,
@@ -6651,14 +6699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43573,
-      "num": 362245,
-      "word": "男童被虐待致死生父也难辞其咎",
-      "onboard_time": 1730171479,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42835,
       "num": 504639,
       "word": "扒一扒美国两党都在回避的军费问题",
@@ -7017,6 +7057,14 @@
       "onboard_time": 1730110279,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28757,
+      "num": 217466,
+      "word": "享界S9先享一步",
+      "onboard_time": 1730172979,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 28684,
