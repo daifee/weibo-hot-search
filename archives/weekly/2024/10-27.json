@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730211705096,
+  "endTime": 1730212862526,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2321757,
+      "num": 2321757,
+      "word": "小米SU7 Ultra",
+      "onboard_time": 1730191160,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 2253350,
       "num": 693688,
       "word": "知情人曝柜姐和妈妈已报案",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1983861,
+      "num": 648204,
+      "word": "放狠话家里人死了先臭着领导道歉",
+      "onboard_time": 1730206219,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1977005,
       "num": 1977005,
       "word": "杨妞花直播因太多人刷礼物关播",
@@ -249,14 +265,6 @@
       "onboard_time": 1730162960,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1941684,
-      "num": 648204,
-      "word": "放狠话家里人死了先臭着领导道歉",
-      "onboard_time": 1730206219,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1891423,
@@ -595,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1325850,
-      "num": 1325850,
-      "word": "小米SU7 Ultra",
-      "onboard_time": 1730191160,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 1324529,
       "num": 307657,
       "word": "韩安冉领证发现户口本在前夫家",
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064751,
+      "num": 1064751,
+      "word": "这个世界乱糟糟而你干干净净",
+      "onboard_time": 1730207719,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1060226,
       "num": 277558,
       "word": "两高中生奸杀教师案最新进展",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 1052915,
-      "num": 399077,
+      "num": 572158,
       "word": "九块九害死了3万块",
       "onboard_time": 1730209039,
       "rank": 30,
@@ -1171,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 869208,
-      "num": 869208,
-      "word": "这个世界乱糟糟而你干干净净",
-      "onboard_time": 1730207719,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 867178,
       "num": 510192,
       "word": "高校女老师被丈夫举报出轨学生",
@@ -1252,7 +1252,7 @@
     },
     {
       "raw_hot": 844663,
-      "num": 404070,
+      "num": 475250,
       "word": "刘亦菲梦女",
       "onboard_time": 1730202441,
       "rank": 20,
@@ -1851,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573613,
+      "num": 573613,
+      "word": "小米洗衣机",
+      "onboard_time": 1730210601,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 572379,
       "num": 572379,
       "word": "生育支持政策一图划重点",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1730001797,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 565217,
+      "num": 565217,
+      "word": "金泰亨慰问闵熙珍",
+      "onboard_time": 1730209881,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 564568,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1729955660,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 521953,
-      "num": 391715,
-      "word": "金泰亨慰问闵熙珍",
-      "onboard_time": 1730209881,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 520005,
@@ -2379,6 +2387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 457701,
+      "num": 572266,
+      "word": "小米SU7 Ultra定价81.49万",
+      "onboard_time": 1730212282,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 455075,
       "num": 542948,
       "word": "南京博物院免费门票被黄牛炒至两百元",
@@ -2651,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396908,
+      "num": 396908,
+      "word": "郭艾伦CBA生涯第500场",
+      "onboard_time": 1730210000,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396359,
       "num": 396359,
       "word": "想到余华英丈夫给孙子糖就害怕",
@@ -2691,14 +2715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389518,
-      "num": 389518,
-      "word": "郭艾伦CBA生涯第500场",
-      "onboard_time": 1730210000,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 389336,
       "num": 285115,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
@@ -2713,6 +2729,14 @@
       "onboard_time": 1730177241,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389118,
+      "num": 389118,
+      "word": "拉踩友商",
+      "onboard_time": 1730208500,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 387233,
@@ -2841,6 +2865,14 @@
       "onboard_time": 1730020399,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370952,
+      "num": 370952,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370935,
@@ -3315,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302485,
+      "num": 302485,
+      "word": "点赞夫胜宽的爱豆",
+      "onboard_time": 1730211502,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300425,
       "num": 300425,
       "word": "chalice说BLG一定得输",
@@ -3555,14 +3595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280678,
-      "num": 280678,
-      "word": "拉踩友商",
-      "onboard_time": 1730208500,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1730197159,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 271165,
+      "num": 271165,
+      "word": "郭艾伦哭了",
+      "onboard_time": 1730212161,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 267815,
@@ -3705,14 +3745,6 @@
       "onboard_time": 1730199199,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264139,
-      "num": 264139,
-      "word": "小米洗衣机",
-      "onboard_time": 1730210601,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 263726,
@@ -3905,6 +3937,14 @@
       "onboard_time": 1730097139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251841,
+      "num": 251841,
+      "word": "杨紫工作室 图呢",
+      "onboard_time": 1730212341,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 251539,
@@ -4139,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239596,
+      "num": 239596,
+      "word": "乘客讲述年轻机械师被撞身亡详情",
+      "onboard_time": 1730212220,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238039,
       "num": 435682,
       "word": "南京南站列车运行秩序逐步恢复",
@@ -4209,14 +4257,6 @@
       "onboard_time": 1730033300,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234104,
-      "num": 234104,
-      "word": "点赞夫胜宽的爱豆",
-      "onboard_time": 1730211502,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 234074,
@@ -4305,6 +4345,14 @@
       "onboard_time": 1730089340,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228500,
+      "num": 228500,
+      "word": "小米空调",
+      "onboard_time": 1730210780,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 228467,
@@ -4731,6 +4779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208464,
+      "num": 208464,
+      "word": "狼队巅峰对决战胜RW",
+      "onboard_time": 1730211861,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208088,
       "num": 208088,
       "word": "A股成交1.86万亿元近300股涨停",
@@ -5123,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195413,
+      "num": 639478,
+      "word": "小米15或成iPhone杀手",
+      "onboard_time": 1730209460,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194915,
       "num": 194915,
       "word": "辛芷蕾薄纱高定裙",
@@ -5345,6 +5409,14 @@
       "onboard_time": 1729988775,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188973,
+      "num": 188973,
+      "word": "刘昊然董子健 脚的动作不会骗人",
+      "onboard_time": 1730212400,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 188627,
@@ -5587,20 +5659,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 180177,
-      "num": 180177,
-      "word": "90后农村娃拿到太空船票",
-      "onboard_time": 1730211622,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180117,
       "num": 180117,
       "word": "关晓彤王安宇跳晚安大小姐",
       "onboard_time": 1730194578,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179916,
+      "num": 179916,
+      "word": "一加13",
+      "onboard_time": 1730212520,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 179632,
@@ -5979,6 +6051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167097,
+      "num": 167097,
+      "word": "时代少年团团综时代顶呱呱",
+      "onboard_time": 1730212762,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166955,
       "num": 166955,
       "word": "英雄联盟S14",
@@ -6161,14 +6241,6 @@
       "onboard_time": 1730181501,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160727,
-      "num": 160727,
-      "word": "小米空调",
-      "onboard_time": 1730210780,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 160037,
@@ -7651,14 +7723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107125,
-      "num": 639478,
-      "word": "小米15或成iPhone杀手",
-      "onboard_time": 1730209460,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 106891,
       "num": 106891,
       "word": "左航拍摄花絮",
@@ -8691,6 +8755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34675,
+      "num": 674348,
+      "word": "郭刚堂说24年不敢逢年过节",
+      "onboard_time": 1730211142,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34403,
       "num": 393702,
       "word": "果味电子烟借雾化器外衣重生",
@@ -8881,14 +8953,6 @@
       "onboard_time": 1730110279,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28810,
-      "num": 674348,
-      "word": "郭刚堂说24年不敢逢年过节",
-      "onboard_time": 1730211142,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28684,
