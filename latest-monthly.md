@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 17:24:40
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 17:38:36
 </p>
 </blockquote>
 <p>
@@ -5115,6 +5115,12 @@ A股彻底爆了现在进场还来得及吗（热度：1030303）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%83%E5%B0%84%E5%87%BB%E5%A5%BD%E5%B8%85%23" target="weibo">
+刘亦菲练射击好帅（热度：1000538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E6%80%BB%E8%A6%81%E9%92%B1%E8%A2%AB%E5%A6%88%E5%A6%88%E9%80%81%E6%B4%BE%E5%87%BA%E6%89%80%23" target="weibo">
 儿子恋爱后总要钱被妈妈送派出所（热度：1000034）
 </a>
@@ -6005,12 +6011,6 @@ A2O（热度：913492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 石破茂当选日本首相（热度：899499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A1%E5%88%A4%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%23" target="weibo">
-审判大梦归离（热度：899230）
 </a>
 </li>
 

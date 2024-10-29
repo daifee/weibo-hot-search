@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730193880201,
+  "endTime": 1730194716783,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1000538,
+      "num": 474968,
+      "word": "刘亦菲练射击好帅",
+      "onboard_time": 1730192660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 972543,
       "num": 972543,
       "word": "南京野猪",
@@ -305,6 +313,14 @@
       "onboard_time": 1730170879,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 823814,
+      "num": 430711,
+      "word": "三亚落入下水道男孩遗体已找到",
+      "onboard_time": 1730193258,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811107,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 604325,
-      "num": 569932,
+      "num": 578957,
       "word": "孙乐言 翁青雅",
       "onboard_time": 1730191160,
       "rank": 31,
@@ -512,14 +528,6 @@
       "word": "虞书欣带爷爷去成都找林大厨",
       "onboard_time": 1730157916,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 581092,
-      "num": 461364,
-      "word": "刘亦菲练射击好帅",
-      "onboard_time": 1730192660,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -843,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337237,
-      "num": 337237,
-      "word": "三亚落入下水道男孩遗体已找到",
-      "onboard_time": 1730193258,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336628,
       "num": 336628,
       "word": "网曝湖北一办事处公职人员出轨女下属",
@@ -939,6 +939,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 287347,
+      "num": 287347,
+      "word": "第五人格",
+      "onboard_time": 1730193140,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285118,
       "num": 577163,
       "word": "价值300元遥控器维修费1776元",
@@ -969,14 +977,6 @@
       "onboard_time": 1730165719,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274048,
-      "num": 274048,
-      "word": "第五人格",
-      "onboard_time": 1730193140,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 267815,
@@ -1115,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249925,
+      "num": 278387,
+      "word": "李定豪阮小咪he",
+      "onboard_time": 1730194340,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247236,
       "num": 247236,
       "word": "19岁中专生靠一项技能拿下世界第一",
@@ -1155,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242037,
+      "num": 276322,
+      "word": "张钧甯金鹤奖最佳女主角",
+      "onboard_time": 1730193738,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241683,
       "num": 241683,
       "word": "2025LCK新赛制",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1730174661,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231189,
+      "num": 231189,
+      "word": "小米15配色",
+      "onboard_time": 1730194399,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 230714,
@@ -1571,12 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166992,
-      "num": 166992,
-      "word": "张钧甯金鹤奖最佳女主角",
-      "onboard_time": 1730193738,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 168125,
+      "num": 168125,
+      "word": "陈都灵生图",
+      "onboard_time": 1730194092,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165175,
@@ -1659,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155648,
+      "num": 155648,
+      "word": "金鹤奖获奖名单",
+      "onboard_time": 1730194578,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155394,
       "num": 155394,
       "word": "宋亚轩问白敬亭来新疆什么目的",
@@ -1731,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146893,
+      "num": 146893,
+      "word": "田嘉瑞 苦瓜弟弟赛道",
+      "onboard_time": 1730193738,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146296,
       "num": 281096,
       "word": "小米SU7Ultra",
@@ -1744,6 +1784,14 @@
       "word": "赵露思男装vs女装",
       "onboard_time": 1730179701,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144349,
+      "num": 144349,
+      "word": "关晓彤范丞丞跳晚安大小姐",
+      "onboard_time": 1730194578,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1801,14 +1849,6 @@
       "onboard_time": 1730154554,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139814,
-      "num": 139814,
-      "word": "田嘉瑞 苦瓜弟弟赛道",
-      "onboard_time": 1730193738,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 139366,
@@ -1963,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112457,
+      "num": 483594,
+      "word": "湖南一业主在小区地下车库摆酒席",
+      "onboard_time": 1730192840,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111865,
       "num": 111865,
       "word": "大梦归离",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1730116219,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103960,
+      "num": 476095,
+      "word": "拼多多保持了双11素颜的样子",
+      "onboard_time": 1730191339,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 102935,
@@ -2059,14 +2115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 92466,
-      "num": 483594,
-      "word": "湖南一业主在小区地下车库摆酒席",
-      "onboard_time": 1730192840,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90561,
       "num": 90561,
       "word": "殡仪馆副馆长为敛财改收费标准",
@@ -2113,14 +2161,6 @@
       "onboard_time": 1730154015,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 87156,
-      "num": 476095,
-      "word": "拼多多保持了双11素颜的样子",
-      "onboard_time": 1730191339,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 84159,
@@ -2227,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 46841,
+      "num": 446440,
+      "word": "陈哲远微博直播状态",
+      "onboard_time": 1730194520,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45857,
       "num": 60456,
       "word": "爱奇艺选秀 初舞台",
@@ -2236,7 +2284,7 @@
     },
     {
       "raw_hot": 45349,
-      "num": 1021488,
+      "num": 1094232,
       "word": "1.4万亿斤标记粮食产量新高度",
       "onboard_time": 1730192719,
       "rank": 2,
@@ -2313,6 +2361,14 @@
       "onboard_time": 1730138712,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32036,
+      "num": 504118,
+      "word": "海南万宁持续强降雨有村庄被淹",
+      "onboard_time": 1730194699,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31822,
@@ -2403,6 +2459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20332,
+      "num": 512134,
+      "word": "电影失孤原型案明日二审宣判",
+      "onboard_time": 1730192840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19145,
       "num": 19145,
       "word": "黄冠亨个人首封",
@@ -2424,14 +2488,6 @@
       "word": "李晓鹏受贿案一审开庭",
       "onboard_time": 1730151612,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16566,
-      "num": 486236,
-      "word": "电影失孤原型案明日二审宣判",
-      "onboard_time": 1730192840,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
