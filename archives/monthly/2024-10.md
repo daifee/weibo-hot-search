@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 16:42:51
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 17:24:40
 </p>
 </blockquote>
 <p>
@@ -1229,6 +1229,12 @@ ZH9138航班已安全落地（热度：1980352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A6%9E%E8%8A%B1%E7%9B%B4%E6%92%AD%E5%9B%A0%E5%A4%AA%E5%A4%9A%E4%BA%BA%E5%88%B7%E7%A4%BC%E7%89%A9%E5%85%B3%E6%92%AD%23" target="weibo">
 杨妞花直播因太多人刷礼物关播（热度：1977005）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
+爸爸去哪儿的含金量还在上升（热度：1976082）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ A2O（热度：913492）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E7%94%B7%E8%80%81%E5%B8%88%E7%94%A8%E7%90%83%E6%8B%8D%E6%8D%85%E7%94%B7%E7%94%9F%E5%B1%81%E8%82%A1%23" target="weibo">
-教育局回应男老师用球拍捅男生屁股（热度：898863）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6719,6 +6719,12 @@ A2O（热度：913492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%9E%84%E7%AD%91%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%E4%B8%AD%E5%9B%BD%E4%BB%B7%E5%80%BC%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F%23%23" target="weibo">
 #构筑中国精神中国价值中国力量#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%8D%E6%96%AD%E5%8F%91%E5%B1%95%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%96%87%E5%8C%96%23%23" target="weibo">
+#不断发展新时代中国特色社会主义文化#
 </a>
 </li>
 

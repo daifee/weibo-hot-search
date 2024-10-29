@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730191371275,
+  "endTime": 1730193880201,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -49,6 +49,14 @@
       "onboard_time": 1730184259,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1976082,
+      "num": 1976082,
+      "word": "爸爸去哪儿的含金量还在上升",
+      "onboard_time": 1730191880,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1956114,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1094024,
-      "num": 346279,
+      "num": 460406,
       "word": "苹果ID圆形头像",
       "onboard_time": 1730189600,
       "rank": 30,
@@ -331,6 +339,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 774396,
+      "num": 774396,
+      "word": "赵牧辰阮小咪be",
+      "onboard_time": 1730190501,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 774256,
+      "num": 774256,
+      "word": "胖东来单店盈利已超所有商超上市公司",
+      "onboard_time": 1730190438,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 766810,
       "num": 336870,
       "word": "12345回应男孩入住酒店后确诊川崎病",
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604325,
+      "num": 569932,
+      "word": "孙乐言 翁青雅",
+      "onboard_time": 1730191160,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600340,
       "num": 441718,
       "word": "30天不玩手机的日子竟然这么爽",
@@ -483,12 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 568237,
-      "num": 568237,
-      "word": "赵牧辰阮小咪be",
-      "onboard_time": 1730190501,
-      "rank": 28,
-      "category": "综艺,艺人"
+      "raw_hot": 581092,
+      "num": 461364,
+      "word": "刘亦菲练射击好帅",
+      "onboard_time": 1730192660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 572379,
+      "num": 572379,
+      "word": "生育支持政策一图划重点",
+      "onboard_time": 1730189361,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564568,
@@ -587,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485016,
+      "num": 485016,
+      "word": "十个勤天收水稻",
+      "onboard_time": 1730191941,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478768,
       "num": 478768,
       "word": "蒋欣演技",
@@ -648,6 +696,14 @@
       "word": "一系列生育支持措施来了",
       "onboard_time": 1730119518,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417382,
+      "num": 417382,
+      "word": "女子一听要坐牢赶紧转18万养老钱",
+      "onboard_time": 1730189060,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -787,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337237,
+      "num": 337237,
+      "word": "三亚落入下水道男孩遗体已找到",
+      "onboard_time": 1730193258,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336628,
       "num": 336628,
       "word": "网曝湖北一办事处公职人员出轨女下属",
@@ -819,14 +883,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 311298,
-      "num": 311298,
-      "word": "胖东来单店盈利已超所有商超上市公司",
-      "onboard_time": 1730190438,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 309027,
       "num": 309027,
       "word": "不想把亲人的伤痛变成谋钱工具",
@@ -851,20 +907,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300595,
-      "num": 497343,
-      "word": "生育支持政策一图划重点",
-      "onboard_time": 1730189361,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300425,
       "num": 300425,
       "word": "chalice说BLG一定得输",
       "onboard_time": 1730168061,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 293877,
+      "num": 293877,
+      "word": "小米SU7 Ultra",
+      "onboard_time": 1730191160,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 291858,
@@ -891,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284166,
+      "num": 284166,
+      "word": "英雄联盟",
+      "onboard_time": 1730193140,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282784,
       "num": 282784,
       "word": "高哥 聊十分钟就可以看清一个人",
@@ -905,6 +969,14 @@
       "onboard_time": 1730165719,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274048,
+      "num": 274048,
+      "word": "第五人格",
+      "onboard_time": 1730193140,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 267815,
@@ -1041,14 +1113,6 @@
       "onboard_time": 1730171058,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248974,
-      "num": 325726,
-      "word": "女子一听要坐牢赶紧转18万养老钱",
-      "onboard_time": 1730189060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247236,
@@ -1203,14 +1267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 211232,
-      "num": 211232,
-      "word": "孙乐言 翁青雅",
-      "onboard_time": 1730191160,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "沈梦辰晒合照为杜海涛庆生",
@@ -1323,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195986,
+      "num": 195986,
+      "word": "宋亚轩想拍电影",
+      "onboard_time": 1730193679,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195555,
       "num": 195555,
       "word": "虞书欣凌妙妙上班",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1730189600,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190689,
+      "num": 190689,
+      "word": "孔雪儿cha了whiplash",
+      "onboard_time": 1730193440,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 190523,
@@ -1401,6 +1473,14 @@
       "onboard_time": 1730190618,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177625,
+      "num": 177625,
+      "word": "王浩泽重新定义普普通通",
+      "onboard_time": 1730191579,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176664,
@@ -1491,12 +1571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166992,
+      "num": 166992,
+      "word": "张钧甯金鹤奖最佳女主角",
+      "onboard_time": 1730193738,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165175,
       "num": 165175,
       "word": "伊能静 至少秦老师还不错",
       "onboard_time": 1730187618,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164778,
+      "num": 164778,
+      "word": "陈哲远直播打英雄联盟",
+      "onboard_time": 1730192540,
+      "rank": 41,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 164773,
@@ -1547,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158311,
+      "num": 158311,
+      "word": "报告称老人是提升生育意愿关键因素",
+      "onboard_time": 1730191640,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "爸爸用树叶给女儿做皇冠和裙子",
@@ -1569,14 +1673,6 @@
       "onboard_time": 1730121258,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154208,
-      "num": 154208,
-      "word": "小米SU7 Ultra",
-      "onboard_time": 1730191160,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 153276,
@@ -1603,12 +1699,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "没人告诉我朱厌长这样啊",
+      "onboard_time": 1730191941,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148911,
       "num": 148911,
       "word": "长生界打斗细节",
       "onboard_time": 1730186721,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148659,
+      "num": 148659,
+      "word": "闫妮新剧口碑",
+      "onboard_time": 1730192299,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 147228,
@@ -1667,12 +1779,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140789,
+      "num": 471277,
+      "word": "于文文身份信息被倒卖",
+      "onboard_time": 1730193018,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140325,
+      "num": 140325,
+      "word": "大梦归离官配",
+      "onboard_time": 1730193859,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139840,
       "num": 139840,
       "word": "向佐说掌掴李小龙模仿者是在玩梗",
       "onboard_time": 1730154554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139814,
+      "num": 139814,
+      "word": "田嘉瑞 苦瓜弟弟赛道",
+      "onboard_time": 1730193738,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 139366,
@@ -1923,6 +2059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92466,
+      "num": 483594,
+      "word": "湖南一业主在小区地下车库摆酒席",
+      "onboard_time": 1730192840,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90561,
       "num": 90561,
       "word": "殡仪馆副馆长为敛财改收费标准",
@@ -1969,6 +2113,14 @@
       "onboard_time": 1730154015,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87156,
+      "num": 476095,
+      "word": "拼多多保持了双11素颜的样子",
+      "onboard_time": 1730191339,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 84159,
@@ -2083,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45349,
+      "num": 1021488,
+      "word": "1.4万亿斤标记粮食产量新高度",
+      "onboard_time": 1730192719,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43737,
       "num": 43737,
       "word": "西汉姆联 啊我",
@@ -2155,14 +2315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33342,
-      "num": 149268,
-      "word": "拼多多保持了双11素颜的样子",
-      "onboard_time": 1730191339,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 31822,
       "num": 31822,
       "word": "红旗车队将送神十九航天员出征",
@@ -2193,6 +2345,14 @@
       "onboard_time": 1730139252,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26559,
+      "num": 469936,
+      "word": "姐姐为亡弟追凶26年案将开庭",
+      "onboard_time": 1730193319,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26192,
@@ -2264,6 +2424,14 @@
       "word": "李晓鹏受贿案一审开庭",
       "onboard_time": 1730151612,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16566,
+      "num": 486236,
+      "word": "电影失孤原型案明日二审宣判",
+      "onboard_time": 1730192840,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2343,6 +2511,9 @@
     },
     {
       "word": "#构筑中国精神中国价值中国力量#"
+    },
+    {
+      "word": "#不断发展新时代中国特色社会主义文化#"
     }
   ]
 }
