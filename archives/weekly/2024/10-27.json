@@ -1,10 +1,10 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730201762703,
+  "endTime": 1730205810935,
   "band_list": [
     {
       "raw_hot": 4331227,
-      "num": 420509,
+      "num": 775535,
       "word": "豪咪cp官宣",
       "onboard_time": 1730199140,
       "rank": 10,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1781120,
-      "num": 564755,
+      "num": 608723,
       "word": "周雨彤 韩火火",
       "onboard_time": 1730187679,
       "rank": 11,
@@ -361,6 +361,14 @@
       "onboard_time": 1730164878,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1677945,
+      "num": 1677945,
+      "word": "小米15",
+      "onboard_time": 1730202680,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1619085,
@@ -465,6 +473,14 @@
       "onboard_time": 1730007679,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1405812,
+      "num": 1405812,
+      "word": "赵牧辰哭了",
+      "onboard_time": 1730201600,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1403980,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 1195205,
-      "num": 419179,
+      "num": 741784,
       "word": "被撞身亡机械师仅有20多岁",
       "onboard_time": 1730199801,
       "rank": 17,
@@ -793,6 +809,22 @@
       "onboard_time": 1730029160,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1083634,
+      "num": 1083634,
+      "word": "小米15价格",
+      "onboard_time": 1730204302,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1075947,
+      "num": 797146,
+      "word": "10万亿",
+      "onboard_time": 1730200221,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 1075759,
@@ -1011,6 +1043,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 912295,
+      "num": 912295,
+      "word": "侯明昊眼睛怎么了",
+      "onboard_time": 1730202980,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 903313,
+      "num": 903313,
+      "word": "小米全面支持苹果设备",
+      "onboard_time": 1730201781,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 898032,
       "num": 898032,
       "word": "2名90后航天员要飞天了",
@@ -1123,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 851429,
+      "num": 851429,
+      "word": "心动的信号7成了五对",
+      "onboard_time": 1730201240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 846854,
       "num": 386430,
       "word": "怀孕3月女子吃冰箱里榴莲千层流产",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1730043680,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 844663,
+      "num": 379825,
+      "word": "刘亦菲梦女",
+      "onboard_time": 1730202441,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 838919,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1730160679,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 797146,
-      "num": 797146,
-      "word": "10万亿",
-      "onboard_time": 1730200221,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 795248,
@@ -1803,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 555341,
+      "num": 555341,
+      "word": "雨迭cp官宣",
+      "onboard_time": 1730201421,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554615,
       "num": 891255,
       "word": "水军狂发正面评价让真实评价沉帖",
@@ -2307,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436505,
+      "num": 436505,
+      "word": "小米15系列价格",
+      "onboard_time": 1730198720,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 436226,
       "num": 277698,
       "word": "Gumayusi喊话Bin",
@@ -2321,14 +2393,6 @@
       "onboard_time": 1730006119,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434607,
-      "num": 408681,
-      "word": "雨迭cp官宣",
-      "onboard_time": 1730201421,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 433875,
@@ -2627,28 +2691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378667,
-      "num": 378667,
-      "word": "赵牧辰哭了",
-      "onboard_time": 1730201600,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377308,
       "num": 230348,
       "word": "泰国机场偶遇刘亦菲",
       "onboard_time": 1730096238,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376975,
-      "num": 317052,
-      "word": "心动的信号7成了五对",
-      "onboard_time": 1730201240,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 375835,
@@ -2689,6 +2737,14 @@
       "onboard_time": 1729983974,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373951,
+      "num": 373951,
+      "word": "成都一男子在网吧内持刀行凶",
+      "onboard_time": 1730200221,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372982,
@@ -3387,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282066,
-      "num": 282066,
-      "word": "成都一男子在网吧内持刀行凶",
-      "onboard_time": 1730200221,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281208,
       "num": 281208,
       "word": "GEN止步S14四强",
@@ -3465,14 +3513,6 @@
       "onboard_time": 1730197159,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 270420,
-      "num": 270420,
-      "word": "小米15系列价格",
-      "onboard_time": 1730198720,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 267815,
@@ -3811,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247271,
+      "num": 818427,
+      "word": "南京市区一天发生两起野猪目击事件",
+      "onboard_time": 1730203581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247236,
       "num": 247236,
       "word": "19岁中专生靠一项技能拿下世界第一",
@@ -4067,6 +4115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232645,
+      "num": 413472,
+      "word": "陈哲远 刚刚是我弟弟",
+      "onboard_time": 1730201421,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231493,
       "num": 322389,
       "word": "辛芷蕾在片场不说普通话",
@@ -4177,6 +4233,14 @@
       "onboard_time": 1730042660,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226649,
+      "num": 226649,
+      "word": "赵牧辰通宵给阮小咪做告白礼物",
+      "onboard_time": 1730205081,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 226551,
@@ -4387,6 +4451,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 217823,
+      "num": 217823,
+      "word": "小米15颜色",
+      "onboard_time": 1730205319,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 217547,
       "num": 217547,
       "word": "男子药店服用止疼药后心源性猝死",
@@ -4553,6 +4625,14 @@
       "onboard_time": 1730039902,
       "rank": 47,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 206822,
+      "num": 206822,
+      "word": "小米15外观",
+      "onboard_time": 1730204120,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 206628,
@@ -4787,6 +4867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198612,
+      "num": 198612,
+      "word": "雷军透露小米15涨价原因",
+      "onboard_time": 1730204659,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198288,
       "num": 198288,
       "word": "汪苏泷重庆抢票",
@@ -4961,6 +5049,14 @@
       "onboard_time": 1730096899,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192444,
+      "num": 192444,
+      "word": "小米15超声波指纹",
+      "onboard_time": 1730204780,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 192412,
@@ -5201,6 +5297,14 @@
       "onboard_time": 1730011279,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 182672,
+      "num": 182672,
+      "word": "逆水寒",
+      "onboard_time": 1730204302,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 182645,
@@ -5547,6 +5651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170890,
+      "num": 170890,
+      "word": "赵让 谢谢大家认可张星特是我儿子",
+      "onboard_time": 1730202680,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170011,
       "num": 170011,
       "word": "罗慎远又和罗宜宁上一个户口",
@@ -5601,6 +5713,14 @@
       "onboard_time": 1730016257,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168277,
+      "num": 168277,
+      "word": "小米15钻石",
+      "onboard_time": 1730205501,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 168174,
@@ -5793,6 +5913,14 @@
       "onboard_time": 1730180000,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162047,
+      "num": 422014,
+      "word": "生育支持政策组合拳为何持续发力",
+      "onboard_time": 1730200461,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161834,
@@ -6267,6 +6395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146291,
+      "num": 180494,
+      "word": "官方回应秦皇岛空气刺鼻",
+      "onboard_time": 1730205560,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145741,
       "num": 145741,
       "word": "在浙江农村吃席被震惊了",
@@ -6353,6 +6489,14 @@
       "onboard_time": 1730180539,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142302,
+      "num": 142302,
+      "word": "狼队对战RW",
+      "onboard_time": 1730204961,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 142176,
@@ -6593,6 +6737,14 @@
       "onboard_time": 1730032520,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135575,
+      "num": 135575,
+      "word": "超级小爱",
+      "onboard_time": 1730202201,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 134975,
@@ -7307,6 +7459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103164,
+      "num": 193203,
+      "word": "规划局负责人躲避群众问题跳窗逃离",
+      "onboard_time": 1730203761,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102098,
       "num": 287868,
       "word": "人造宝石或进一步降价",
@@ -7785,14 +7945,6 @@
       "onboard_time": 1730049913,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59859,
-      "num": 422014,
-      "word": "生育支持政策组合拳为何持续发力",
-      "onboard_time": 1730200461,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59632,
@@ -8763,14 +8915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16784,
-      "num": 413472,
-      "word": "陈哲远 刚刚是我弟弟",
-      "onboard_time": 1730201421,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16781,
       "num": 1394643,
       "word": "神十九发射场区全系统合练",
@@ -8825,6 +8969,14 @@
       "onboard_time": 1730148911,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 14000,
+      "num": 1496747,
+      "word": "我国钻取到全球中低纬度冰川最长冰芯",
+      "onboard_time": 1730205501,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13770,
@@ -8999,6 +9151,9 @@
     },
     {
       "word": "#不断发展新时代中国特色社会主义文化#"
+    },
+    {
+      "word": "#凝心聚力推动改革行稳致远#"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730201762703,
+  "endTime": 1730205810935,
   "band_list": [
     {
       "raw_hot": 4331227,
-      "num": 420509,
+      "num": 775535,
       "word": "豪咪cp官宣",
       "onboard_time": 1730199140,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1781120,
-      "num": 564755,
+      "num": 608723,
       "word": "周雨彤 韩火火",
       "onboard_time": 1730187679,
       "rank": 11,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1677945,
+      "num": 1677945,
+      "word": "小米15",
+      "onboard_time": 1730202680,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1619085,
       "num": 563249,
       "word": "领导放狠话家里人死了先臭着",
@@ -153,6 +161,14 @@
       "onboard_time": 1730175561,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1405812,
+      "num": 1405812,
+      "word": "赵牧辰哭了",
+      "onboard_time": 1730201600,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1403980,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 1195205,
-      "num": 419179,
+      "num": 741784,
       "word": "被撞身亡机械师仅有20多岁",
       "onboard_time": 1730199801,
       "rank": 17,
@@ -273,6 +289,22 @@
       "onboard_time": 1730189600,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1083634,
+      "num": 1083634,
+      "word": "小米15价格",
+      "onboard_time": 1730204302,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1075947,
+      "num": 797146,
+      "word": "10万亿",
+      "onboard_time": 1730200221,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 1075759,
@@ -339,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 912295,
+      "num": 912295,
+      "word": "侯明昊眼睛怎么了",
+      "onboard_time": 1730202980,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 903313,
+      "num": 903313,
+      "word": "小米全面支持苹果设备",
+      "onboard_time": 1730201781,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 898032,
       "num": 898032,
       "word": "2名90后航天员要飞天了",
@@ -379,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851429,
+      "num": 851429,
+      "word": "心动的信号7成了五对",
+      "onboard_time": 1730201240,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 844663,
+      "num": 379825,
+      "word": "刘亦菲梦女",
+      "onboard_time": 1730202441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838919,
       "num": 779402,
       "word": "虞书欣赵露思新剧同时开播",
@@ -401,14 +465,6 @@
       "onboard_time": 1730160679,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 797146,
-      "num": 797146,
-      "word": "10万亿",
-      "onboard_time": 1730200221,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 793101,
@@ -643,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 555341,
+      "num": 555341,
+      "word": "雨迭cp官宣",
+      "onboard_time": 1730201421,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547955,
       "num": 547955,
       "word": "你想过为什么买家晒图一模一样吗",
@@ -771,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434607,
-      "num": 408681,
-      "word": "雨迭cp官宣",
-      "onboard_time": 1730201421,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 436505,
+      "num": 436505,
+      "word": "小米15系列价格",
+      "onboard_time": 1730198720,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 420814,
@@ -899,28 +963,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 378667,
-      "num": 378667,
-      "word": "赵牧辰哭了",
-      "onboard_time": 1730201600,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 376975,
-      "num": 317052,
-      "word": "心动的信号7成了五对",
-      "onboard_time": 1730201240,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375818,
       "num": 375818,
       "word": "刘雨璠告别心动的信号7",
       "onboard_time": 1730186480,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373951,
+      "num": 373951,
+      "word": "成都一男子在网吧内持刀行凶",
+      "onboard_time": 1730200221,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370160,
@@ -1099,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282066,
-      "num": 282066,
-      "word": "成都一男子在网吧内持刀行凶",
-      "onboard_time": 1730200221,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1730197159,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 270420,
-      "num": 270420,
-      "word": "小米15系列价格",
-      "onboard_time": 1730198720,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 267815,
@@ -1275,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247271,
+      "num": 818427,
+      "word": "南京市区一天发生两起野猪目击事件",
+      "onboard_time": 1730203581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247236,
       "num": 247236,
       "word": "19岁中专生靠一项技能拿下世界第一",
@@ -1363,6 +1411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232645,
+      "num": 413472,
+      "word": "陈哲远 刚刚是我弟弟",
+      "onboard_time": 1730201421,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231189,
       "num": 231189,
       "word": "小米15配色",
@@ -1408,6 +1464,14 @@
       "word": "高雅cp公主抱",
       "onboard_time": 1730200521,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226649,
+      "num": 226649,
+      "word": "赵牧辰通宵给阮小咪做告白礼物",
+      "onboard_time": 1730205081,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1467,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217823,
+      "num": 217823,
+      "word": "小米15颜色",
+      "onboard_time": 1730205319,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 217547,
       "num": 217547,
       "word": "男子药店服用止疼药后心源性猝死",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1730173400,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206822,
+      "num": 206822,
+      "word": "小米15外观",
+      "onboard_time": 1730204120,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 206448,
@@ -1619,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198612,
+      "num": 198612,
+      "word": "雷军透露小米15涨价原因",
+      "onboard_time": 1730204659,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198288,
       "num": 198288,
       "word": "汪苏泷重庆抢票",
@@ -1667,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192444,
+      "num": 192444,
+      "word": "小米15超声波指纹",
+      "onboard_time": 1730204780,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191762,
       "num": 191762,
       "word": "赵露思新剧天崩开局",
@@ -1713,6 +1809,14 @@
       "onboard_time": 1730177001,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182672,
+      "num": 182672,
+      "word": "逆水寒",
+      "onboard_time": 1730204302,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 180485,
@@ -1859,6 +1963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170890,
+      "num": 170890,
+      "word": "赵让 谢谢大家认可张星特是我儿子",
+      "onboard_time": 1730202680,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170011,
       "num": 170011,
       "word": "罗慎远又和罗宜宁上一个户口",
@@ -1889,6 +2001,14 @@
       "onboard_time": 1730196618,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168277,
+      "num": 168277,
+      "word": "小米15钻石",
+      "onboard_time": 1730205501,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 168174,
@@ -1953,6 +2073,14 @@
       "onboard_time": 1730180000,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162047,
+      "num": 422014,
+      "word": "生育支持政策组合拳为何持续发力",
+      "onboard_time": 1730200461,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161821,
@@ -2099,6 +2227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146291,
+      "num": 180494,
+      "word": "官方回应秦皇岛空气刺鼻",
+      "onboard_time": 1730205560,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144852,
       "num": 144852,
       "word": "赵露思男装vs女装",
@@ -2129,6 +2265,14 @@
       "onboard_time": 1730180539,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142302,
+      "num": 142302,
+      "word": "狼队对战RW",
+      "onboard_time": 1730204961,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 141384,
@@ -2201,6 +2345,14 @@
       "onboard_time": 1730155514,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135575,
+      "num": 135575,
+      "word": "超级小爱",
+      "onboard_time": 1730202201,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 134975,
@@ -2385,6 +2537,14 @@
       "onboard_time": 1730191339,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103164,
+      "num": 193203,
+      "word": "规划局负责人躲避群众问题跳窗逃离",
+      "onboard_time": 1730203761,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102935,
@@ -2576,14 +2736,6 @@
       "word": "中国公开征集载人月球车名称",
       "onboard_time": 1730170158,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59859,
-      "num": 422014,
-      "word": "生育支持政策组合拳为何持续发力",
-      "onboard_time": 1730200461,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2867,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16784,
-      "num": 413472,
-      "word": "陈哲远 刚刚是我弟弟",
-      "onboard_time": 1730201421,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15101,
       "num": 46495,
       "word": "新时代中国特色社会主义文化",
@@ -2889,6 +3033,14 @@
       "onboard_time": 1730148911,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 14000,
+      "num": 1496747,
+      "word": "我国钻取到全球中低纬度冰川最长冰芯",
+      "onboard_time": 1730205501,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13678,
@@ -2954,6 +3106,9 @@
     },
     {
       "word": "#不断发展新时代中国特色社会主义文化#"
+    },
+    {
+      "word": "#凝心聚力推动改革行稳致远#"
     }
   ]
 }
