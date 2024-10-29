@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730223558992,
+  "endTime": 1730226642395,
   "band_list": [
     {
       "raw_hot": 1680659,
@@ -73,6 +73,14 @@
       "onboard_time": 1730199140,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526646,
+      "num": 526646,
+      "word": "直播神十九发射",
+      "onboard_time": 1730223073,
+      "rank": 6,
+      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 431343,
@@ -195,20 +203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205777,
+      "num": 205777,
+      "word": "秦皇岛环保局建议市民减少外出",
+      "onboard_time": 1730223014,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193716,
       "num": 193716,
       "word": "赵牧辰哭了",
       "onboard_time": 1730201600,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170963,
-      "num": 170963,
-      "word": "直播神十九发射",
-      "onboard_time": 1730223073,
-      "rank": 6,
-      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 153723,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119370,
+      "num": 119370,
+      "word": "神十九出征仪式",
+      "onboard_time": 1730223433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118609,
       "num": 118609,
       "word": "小米全面支持苹果设备",
@@ -321,14 +337,6 @@
       "onboard_time": 1730214622,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97823,
-      "num": 150697,
-      "word": "秦皇岛环保局建议市民减少外出",
-      "onboard_time": 1730223014,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95274,
@@ -427,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64975,
-      "num": 64975,
-      "word": "神十九出征仪式",
-      "onboard_time": 1730223433,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59696,
       "num": 59696,
       "word": "小巷人家",
@@ -459,6 +459,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32579,
+      "num": 32579,
+      "word": "一人一句祝福神十九航天员",
+      "onboard_time": 1730219357,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32019,
+      "num": 32019,
+      "word": "小米澎湃OS2",
+      "onboard_time": 1730225652,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 25739,
+      "num": 42416,
+      "word": "王浩泽说导师这句话影响自己终生",
+      "onboard_time": 1730226491,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25251,
+      "num": 74497,
+      "word": "王浩泽说身份在变但初心和使命不变",
+      "onboard_time": 1730223014,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24603,
+      "num": 30255,
+      "word": "幻想朋友MV",
+      "onboard_time": 1730226491,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 7566,
       "num": 672622,
       "word": "从神五到神十九",
@@ -470,6 +510,9 @@
   "hotgov_list": [
     {
       "word": "#凝心聚力推动改革行稳致远#"
+    },
+    {
+      "word": "#我们的改革是有方向有原则的#"
     }
   ]
 }
