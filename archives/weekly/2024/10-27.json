@@ -1,10 +1,10 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730200776533,
+  "endTime": 1730201762703,
   "band_list": [
     {
       "raw_hot": 4331227,
-      "num": 385934,
+      "num": 420509,
       "word": "豪咪cp官宣",
       "onboard_time": 1730199140,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1730093239,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3875647,
+      "num": 3875647,
+      "word": "翁青雅彭高官宣",
+      "onboard_time": 1730200341,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 3122104,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 2523587,
-      "num": 384806,
+      "num": 420106,
       "word": "专家称生孩子越少养孩子就越贵",
       "onboard_time": 1730198959,
       "rank": 11,
@@ -555,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1315593,
+      "num": 1315593,
+      "word": "孙乐言哭了",
+      "onboard_time": 1730199861,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1310131,
       "num": 529674,
       "word": "美国一男网红在韩国亵渎慰安妇雕像",
@@ -627,6 +643,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1195205,
+      "num": 419179,
+      "word": "被撞身亡机械师仅有20多岁",
+      "onboard_time": 1730199801,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1191662,
       "num": 477723,
       "word": "烧伤妈妈受伤皮肤快长好了",
@@ -643,20 +667,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1187335,
-      "num": 1187335,
-      "word": "孙乐言哭了",
-      "onboard_time": 1730199861,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1187083,
       "num": 1187083,
       "word": "赵丽颖东京电影节生图",
       "onboard_time": 1730098218,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1178709,
+      "num": 1178709,
+      "word": "小米发布会",
+      "onboard_time": 1730198779,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 1177339,
@@ -827,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1022266,
-      "num": 1022266,
-      "word": "小米发布会",
-      "onboard_time": 1730198779,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1020880,
       "num": 1020880,
       "word": "一系列生育支持措施来了",
@@ -905,6 +921,14 @@
       "onboard_time": 1730181501,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968652,
+      "num": 704566,
+      "word": "心动的信号",
+      "onboard_time": 1730002338,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 952675,
@@ -987,14 +1011,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 902202,
-      "num": 672338,
-      "word": "心动的信号",
-      "onboard_time": 1730002338,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 898032,
       "num": 898032,
       "word": "2名90后航天员要飞天了",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1729935739,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 881912,
+      "num": 774396,
+      "word": "赵牧辰阮小咪be",
+      "onboard_time": 1730190501,
+      "rank": 28,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 878996,
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797146,
+      "num": 797146,
+      "word": "10万亿",
+      "onboard_time": 1730200221,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 795248,
       "num": 242397,
       "word": "程潇 陈都灵",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1730161759,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 774396,
-      "num": 774396,
-      "word": "赵牧辰阮小咪be",
-      "onboard_time": 1730190501,
-      "rank": 28,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 774256,
@@ -1475,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 652581,
-      "num": 440981,
-      "word": "翁青雅彭高官宣",
-      "onboard_time": 1730200341,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 652110,
       "num": 425300,
       "word": "韩国网友抵制HYBE旗下艺人",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1730107280,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 617548,
-      "num": 369189,
-      "word": "被撞身亡机械师仅有20多岁",
-      "onboard_time": 1730199801,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 616753,
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434607,
+      "num": 408681,
+      "word": "雨迭cp官宣",
+      "onboard_time": 1730201421,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433875,
       "num": 334679,
       "word": "LV柜姐事件原配已提起离婚",
@@ -2611,12 +2627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378667,
+      "num": 378667,
+      "word": "赵牧辰哭了",
+      "onboard_time": 1730201600,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377308,
       "num": 230348,
       "word": "泰国机场偶遇刘亦菲",
       "onboard_time": 1730096238,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376975,
+      "num": 317052,
+      "word": "心动的信号7成了五对",
+      "onboard_time": 1730201240,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 375835,
@@ -3027,6 +3059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307730,
+      "num": 307730,
+      "word": "秦皇岛空气",
+      "onboard_time": 1730198178,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306717,
       "num": 306717,
       "word": "尤长靖从9到1走了6年",
@@ -3347,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282066,
+      "num": 282066,
+      "word": "成都一男子在网吧内持刀行凶",
+      "onboard_time": 1730200221,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281208,
       "num": 281208,
       "word": "GEN止步S14四强",
@@ -3361,14 +3409,6 @@
       "onboard_time": 1729954821,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280138,
-      "num": 280138,
-      "word": "秦皇岛空气",
-      "onboard_time": 1730198178,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279953,
@@ -3585,14 +3625,6 @@
       "onboard_time": 1730179100,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257446,
-      "num": 257446,
-      "word": "10万亿",
-      "onboard_time": 1730200221,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 257117,
@@ -4123,6 +4155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 226929,
+      "num": 226929,
+      "word": "高雅cp公主抱",
+      "onboard_time": 1730200521,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226861,
       "num": 226861,
       "word": "小虎 抽象",
@@ -4249,6 +4289,14 @@
       "onboard_time": 1730165719,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221405,
+      "num": 380579,
+      "word": "杨妞花说网上寻亲孩子九成匿名",
+      "onboard_time": 1730198299,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221306,
@@ -4587,6 +4635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201948,
+      "num": 201948,
+      "word": "金凡出关",
+      "onboard_time": 1730200940,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 201869,
       "num": 201869,
       "word": "虞书欣新剧重生之当恶毒女配了",
@@ -4729,14 +4785,6 @@
       "onboard_time": 1730164399,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198537,
-      "num": 198537,
-      "word": "高雅cp公主抱",
-      "onboard_time": 1730200521,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 198288,
@@ -5251,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179538,
+      "num": 179538,
+      "word": "程潇哭戏",
+      "onboard_time": 1730200821,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179504,
       "num": 471277,
       "word": "于文文身份信息被倒卖",
@@ -5297,6 +5353,14 @@
       "onboard_time": 1730037440,
       "rank": 43,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 177778,
+      "num": 177778,
+      "word": "党的二十届三中全会精神",
+      "onboard_time": 1730198720,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177761,
@@ -5403,14 +5467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 174242,
-      "num": 174242,
-      "word": "成都一男子在网吧内持刀行凶",
-      "onboard_time": 1730200221,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173910,
       "num": 173910,
       "word": "刘浩存首本五大女刊封面",
@@ -5489,6 +5545,14 @@
       "onboard_time": 1730167759,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 170011,
+      "num": 170011,
+      "word": "罗慎远又和罗宜宁上一个户口",
+      "onboard_time": 1730201060,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 169848,
@@ -5593,14 +5657,6 @@
       "onboard_time": 1730011099,
       "rank": 18,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 166732,
-      "num": 166732,
-      "word": "党的二十届三中全会精神",
-      "onboard_time": 1730198720,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166367,
@@ -6667,14 +6723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131351,
-      "num": 380579,
-      "word": "杨妞花说网上寻亲孩子九成匿名",
-      "onboard_time": 1730198299,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131274,
       "num": 408562,
       "word": "她叫杨妞花",
@@ -7739,6 +7787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59859,
+      "num": 422014,
+      "word": "生育支持政策组合拳为何持续发力",
+      "onboard_time": 1730200461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59632,
       "num": 59632,
       "word": "钱天一3比0巴特拉",
@@ -7800,6 +7856,14 @@
       "word": "近距离投喂拍照可能激怒野生动物",
       "onboard_time": 1729983793,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53700,
+      "num": 411835,
+      "word": "国产游乐园开始集体转型了",
+      "onboard_time": 1730201480,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -7908,7 +7972,7 @@
     },
     {
       "raw_hot": 45349,
-      "num": 1198468,
+      "num": 1318988,
       "word": "1.4万亿斤标记粮食产量新高度",
       "onboard_time": 1730192719,
       "rank": 2,
@@ -7993,14 +8057,6 @@
       "onboard_time": 1730086279,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40913,
-      "num": 390732,
-      "word": "生育支持政策组合拳为何持续发力",
-      "onboard_time": 1730200461,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40878,
@@ -8120,6 +8176,14 @@
       "word": "平债组织称投资2到3年至少赚1.5亿",
       "onboard_time": 1730185398,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36684,
+      "num": 410922,
+      "word": "为什么现在的餐厅越来越没特色了",
+      "onboard_time": 1730200221,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8475,14 +8539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26193,
-      "num": 363030,
-      "word": "为什么现在的餐厅越来越没特色了",
-      "onboard_time": 1730200221,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26192,
       "num": 2171387,
       "word": "文化中国行看夜景下的文化景观",
@@ -8705,6 +8761,14 @@
       "onboard_time": 1730151612,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16784,
+      "num": 413472,
+      "word": "陈哲远 刚刚是我弟弟",
+      "onboard_time": 1730201421,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 16781,
