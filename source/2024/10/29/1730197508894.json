@@ -1,0 +1,410 @@
+{
+  "runTime": 1730197508894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762820,
+        "num": 1762820,
+        "word": "爸爸去哪儿的含金量还在上升",
+        "onboard_time": 1730191880,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1356764,
+        "num": 1356764,
+        "word": "生育补贴",
+        "onboard_time": 1730172679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42495,
+        "num": 963453,
+        "word": "1.4万亿斤标记粮食产量新高度",
+        "onboard_time": 1730192719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633834,
+        "num": 633834,
+        "word": "南京野猪",
+        "onboard_time": 1730181501,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586786,
+        "num": 586786,
+        "word": "郑晓龙谈赵丽颖获奖",
+        "onboard_time": 1730195000,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 562156,
+        "num": 562156,
+        "word": "34岁的我终于考上了公务员",
+        "onboard_time": 1730182220,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548891,
+        "num": 548891,
+        "word": "铁路南京站通报机械师被撞身亡",
+        "onboard_time": 1730178679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437652,
+        "num": 437652,
+        "word": "胖东来单店盈利已超所有商超上市公司",
+        "onboard_time": 1730190438,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 434062,
+        "num": 434062,
+        "word": "赵牧辰阮小咪be",
+        "onboard_time": 1730190501,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 32255,
+        "num": 433471,
+        "word": "警惕老年人健康课程骗局",
+        "onboard_time": 1730196260,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1605773,
+        "num": 433150,
+        "word": "三亚落入下水道男孩遗体已找到",
+        "onboard_time": 1730193258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450489,
+        "num": 432368,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1730187679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192433,
+        "num": 432128,
+        "word": "领导放狠话家里人死了先臭着",
+        "onboard_time": 1730184019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892256,
+        "num": 431300,
+        "word": "韩火火发文",
+        "onboard_time": 1730184259,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703607,
+        "num": 430607,
+        "word": "高雅cp见家长",
+        "onboard_time": 1730194879,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661140,
+        "num": 430355,
+        "word": "刘亦菲练射击好帅",
+        "onboard_time": 1730192660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429825,
+        "num": 429825,
+        "word": "十个勤天收水稻",
+        "onboard_time": 1730191941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351912,
+        "num": 351912,
+        "word": "孙乐言 翁青雅",
+        "onboard_time": 1730191160,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348443,
+        "num": 348443,
+        "word": "李定豪阮小咪he",
+        "onboard_time": 1730194340,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16783,
+        "num": 313480,
+        "word": "闵熙珍回归ADOR失败",
+        "onboard_time": 1730197398,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300030,
+        "num": 300030,
+        "word": "女子一听要坐牢赶紧转18万养老钱",
+        "onboard_time": 1730189060,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246038,
+        "num": 246038,
+        "word": "陈哲远微博直播状态",
+        "onboard_time": 1730194520,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233708,
+        "num": 233708,
+        "word": "赵丽颖东京citywalk",
+        "onboard_time": 1730195898,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227023,
+        "num": 227023,
+        "word": "生育支持政策一图划重点",
+        "onboard_time": 1730189361,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226400,
+        "num": 226400,
+        "word": "姚安娜别夸了 借多少钱直说",
+        "onboard_time": 1730186119,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220051,
+        "num": 220051,
+        "word": "沈星回 垂耳兔",
+        "onboard_time": 1730195898,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213140,
+        "num": 213140,
+        "word": "知名主持人顾国宁突发疾病逝世",
+        "onboard_time": 1730183059,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207663,
+        "num": 207663,
+        "word": "周雨彤搭档易烊千玺",
+        "onboard_time": 1730179520,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206448,
+        "num": 206448,
+        "word": "湖南一业主在小区地下车库摆酒席",
+        "onboard_time": 1730192840,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202146,
+        "num": 202146,
+        "word": "小米SU7 Ultra",
+        "onboard_time": 1730191160,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198393,
+        "num": 198393,
+        "word": "英雄联盟",
+        "onboard_time": 1730193140,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180117,
+        "num": 180117,
+        "word": "关晓彤王安宇跳晚安大小姐",
+        "onboard_time": 1730194578,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179504,
+        "num": 179504,
+        "word": "于文文身份信息被倒卖",
+        "onboard_time": 1730193018,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173808,
+        "num": 173808,
+        "word": "A50",
+        "onboard_time": 1730197159,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165342,
+        "num": 165342,
+        "word": "听泉鉴宝APP下架多个商品",
+        "onboard_time": 1730181019,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "江西古城墙上有块500年前的小猫砖",
+        "onboard_time": 1730197220,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160126,
+        "num": 160126,
+        "word": "翁青雅体面人",
+        "onboard_time": 1730196618,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156990,
+        "num": 156990,
+        "word": "陈都灵生图",
+        "onboard_time": 1730194092,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156160,
+        "num": 156160,
+        "word": "2024KPL年度总决赛",
+        "onboard_time": 1730196618,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154410,
+        "num": 154410,
+        "word": "王楚钦樊振东马龙陈梦被赋0",
+        "onboard_time": 1730179639,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152749,
+        "num": 152749,
+        "word": "三亚11岁失联男孩遗体被找到",
+        "onboard_time": 1730195898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 151729,
+        "word": "国乒总教练李隼回应近期比赛成绩起伏",
+        "onboard_time": 1730195000,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148158,
+        "num": 148158,
+        "word": "张钧甯金鹤奖最佳女主角",
+        "onboard_time": 1730193738,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141164,
+        "num": 141164,
+        "word": "李斯丹妮四开门大衣",
+        "onboard_time": 1730196680,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126074,
+        "num": 126074,
+        "word": "金鹤奖获奖名单",
+        "onboard_time": 1730194578,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13181,
+        "num": 125661,
+        "word": "周成建批流量网红不该做主播",
+        "onboard_time": 1730196500,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125420,
+        "num": 125420,
+        "word": "赵露思新剧天崩开局",
+        "onboard_time": 1730189600,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124542,
+        "num": 124542,
+        "word": "孔雪儿cha了whiplash",
+        "onboard_time": 1730193440,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122442,
+        "num": 122442,
+        "word": "阮小咪 我写给谁呢",
+        "onboard_time": 1730179759,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119911,
+        "num": 119911,
+        "word": "全华班 T1",
+        "onboard_time": 1730195421,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断发展新时代中国特色社会主义文化#"
+    }
+  }
+}
