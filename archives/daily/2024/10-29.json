@@ -1,7 +1,15 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730176919166,
+  "endTime": 1730179353502,
   "band_list": [
+    {
+      "raw_hot": 4139554,
+      "num": 4139554,
+      "word": "张一鸣3500亿身家成中国首富",
+      "onboard_time": 1730177421,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2985991,
       "num": 2985991,
@@ -17,6 +25,14 @@
       "onboard_time": 1730160318,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2331062,
+      "num": 2331062,
+      "word": "高雅抱了",
+      "onboard_time": 1730176341,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2094044,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1720106,
-      "num": 677779,
+      "num": 704106,
       "word": "南京南站",
       "onboard_time": 1730172439,
       "rank": 42,
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 1521970,
-      "num": 676271,
+      "num": 714957,
       "word": "麦琳 闲鱼",
       "onboard_time": 1730175561,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1407968,
-      "num": 1407968,
-      "word": "高雅抱了",
-      "onboard_time": 1730176341,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1403980,
@@ -81,6 +89,14 @@
       "onboard_time": 1730161339,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1391987,
+      "num": 1391987,
+      "word": "铁路南京站情况说明",
+      "onboard_time": 1730177601,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1364251,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1342388,
-      "num": 679568,
+      "num": 689347,
       "word": "摩托司机等红绿灯被撞身亡",
       "onboard_time": 1730168896,
       "rank": 10,
@@ -121,6 +137,30 @@
       "onboard_time": 1730169378,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1161553,
+      "num": 1161553,
+      "word": "辰咪",
+      "onboard_time": 1730177720,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1101899,
+      "num": 1101899,
+      "word": "男子做兼职主播月入3毛",
+      "onboard_time": 1730175920,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075759,
+      "num": 1075759,
+      "word": "灏琪cp官宣",
+      "onboard_time": 1730176521,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1009842,
@@ -419,22 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 454025,
-      "num": 678163,
-      "word": "男子做兼职主播月入3毛",
-      "onboard_time": 1730175920,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449563,
-      "num": 449563,
-      "word": "灏琪cp官宣",
-      "onboard_time": 1730176521,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448009,
       "num": 405815,
       "word": "珠帘玉幕定档",
@@ -523,6 +547,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 389239,
+      "num": 389239,
+      "word": "王琪tomo亲了",
+      "onboard_time": 1730177241,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379996,
       "num": 379996,
       "word": "神十九乘组有两名90后",
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337637,
+      "num": 337637,
+      "word": "白敬亭 和狗撞名还撞衫",
+      "onboard_time": 1730178201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336628,
       "num": 336628,
       "word": "网曝湖北一办事处公职人员出轨女下属",
@@ -577,6 +617,14 @@
       "onboard_time": 1730115919,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318928,
+      "num": 318928,
+      "word": "铁路南京站通报机械师被撞身亡",
+      "onboard_time": 1730178679,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315282,
@@ -689,6 +737,14 @@
       "onboard_time": 1730172138,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254911,
+      "num": 254911,
+      "word": "豪咪",
+      "onboard_time": 1730179100,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 254593,
@@ -835,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208289,
+      "num": 598397,
+      "word": "虞书欣新剧重生之邪恶小兰花",
+      "onboard_time": 1730178801,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205090,
       "num": 205090,
       "word": "95后硕士炒股一月狂赚112万",
@@ -923,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186691,
+      "num": 186691,
+      "word": "电动车爆燃烧伤88%骑手还在ICU",
+      "onboard_time": 1730179100,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185531,
       "num": 255261,
       "word": "在赵丽颖身上看到了年龄的魅力",
@@ -931,12 +1003,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184498,
+      "num": 184498,
+      "word": "易烊千玺演小小的我到医院观察学习",
+      "onboard_time": 1730177001,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184114,
+      "num": 184114,
+      "word": "鹿晗佛山音乐节9万张票秒售罄",
+      "onboard_time": 1730179340,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180485,
       "num": 228721,
       "word": "赵丽颖首映生图",
       "onboard_time": 1730127742,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176735,
+      "num": 679417,
+      "word": "A股又一只10倍股诞生",
+      "onboard_time": 1730176821,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176047,
@@ -1019,12 +1115,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142841,
-      "num": 248500,
+      "raw_hot": 146296,
+      "num": 281096,
       "word": "小米SU7Ultra",
       "onboard_time": 1730173640,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 143742,
+      "num": 183396,
+      "word": "拎得清识大局的父母有多重要",
+      "onboard_time": 1730177781,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 141384,
@@ -1185,6 +1289,14 @@
       "onboard_time": 1730172500,
       "rank": 35,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 114759,
+      "num": 581766,
+      "word": "男子网聊7天花11万闪婚后被拉黑",
+      "onboard_time": 1730177601,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112499,
@@ -1419,12 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54734,
-      "num": 679417,
-      "word": "A股又一只10倍股诞生",
-      "onboard_time": 1730176821,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 56016,
+      "num": 691422,
+      "word": "小米创造纽北四门车记录",
+      "onboard_time": 1730177301,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 51439,
@@ -1433,6 +1545,14 @@
       "onboard_time": 1730117600,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49774,
+      "num": 582453,
+      "word": "微博视界大会第二波阵容",
+      "onboard_time": 1730178679,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 45857,
@@ -1507,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26192,
+      "num": 2171387,
+      "word": "文化中国行看夜景下的文化景观",
+      "onboard_time": 1730175080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25249,
       "num": 25249,
       "word": "四川德阳发生3.0级地震",
@@ -1523,11 +1651,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21986,
-      "num": 1301375,
-      "word": "文化中国行看夜景下的文化景观",
-      "onboard_time": 1730175080,
-      "rank": 2,
+      "raw_hot": 24020,
+      "num": 722510,
+      "word": "年迈父亲骑行千里奔赴心中执念",
+      "onboard_time": 1730177902,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

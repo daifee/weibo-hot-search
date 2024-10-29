@@ -1,7 +1,15 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730176919166,
+  "endTime": 1730179353502,
   "band_list": [
+    {
+      "raw_hot": 4139554,
+      "num": 4139554,
+      "word": "张一鸣3500亿身家成中国首富",
+      "onboard_time": 1730177421,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3910840,
       "num": 3910840,
@@ -89,6 +97,14 @@
       "onboard_time": 1730022797,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2331062,
+      "num": 2331062,
+      "word": "高雅抱了",
+      "onboard_time": 1730176341,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2253350,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 1521970,
-      "num": 676271,
+      "num": 714957,
       "word": "麦琳 闲鱼",
       "onboard_time": 1730175561,
       "rank": 23,
@@ -379,20 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1407968,
-      "num": 1407968,
-      "word": "高雅抱了",
-      "onboard_time": 1730176341,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1403980,
       "num": 1403980,
       "word": "星巴克放弃价格战",
       "onboard_time": 1730161339,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1391987,
+      "num": 1391987,
+      "word": "铁路南京站情况说明",
+      "onboard_time": 1730177601,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1389333,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 1342388,
-      "num": 679568,
+      "num": 689347,
       "word": "摩托司机等红绿灯被撞身亡",
       "onboard_time": 1730168896,
       "rank": 10,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1161553,
+      "num": 1161553,
+      "word": "辰咪",
+      "onboard_time": 1730177720,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1156339,
       "num": 405539,
       "word": "12345回应男孩入住酒店后确诊川崎病",
@@ -635,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1101899,
+      "num": 1101899,
+      "word": "男子做兼职主播月入3毛",
+      "onboard_time": 1730175920,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091100,
       "num": 1091100,
       "word": "29岁女生被脱口秀主持人喊大姐",
       "onboard_time": 1730029160,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075759,
+      "num": 1075759,
+      "word": "灏琪cp官宣",
+      "onboard_time": 1730176521,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1060226,
@@ -1931,28 +1971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454025,
-      "num": 678163,
-      "word": "男子做兼职主播月入3毛",
-      "onboard_time": 1730175920,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 452833,
       "num": 452833,
       "word": "心跳慢和心跳快哪个更健康",
       "onboard_time": 1730023278,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449563,
-      "num": 449563,
-      "word": "灏琪cp官宣",
-      "onboard_time": 1730176521,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 449073,
@@ -2219,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389239,
+      "num": 389239,
+      "word": "王琪tomo亲了",
+      "onboard_time": 1730177241,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387233,
       "num": 387233,
       "word": "库里受伤",
@@ -2324,7 +2356,7 @@
     },
     {
       "raw_hot": 367648,
-      "num": 248500,
+      "num": 281096,
       "word": "小米SU7Ultra",
       "onboard_time": 1730096478,
       "rank": 17,
@@ -2459,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337637,
+      "num": 337637,
+      "word": "白敬亭 和狗撞名还撞衫",
+      "onboard_time": 1730178201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336628,
       "num": 336628,
       "word": "网曝湖北一办事处公职人员出轨女下属",
@@ -2568,6 +2608,14 @@
       "word": "男子月入一两千愿寻伴侣共患难",
       "onboard_time": 1730086759,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318928,
+      "num": 318928,
+      "word": "铁路南京站通报机械师被撞身亡",
+      "onboard_time": 1730178679,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3161,6 +3209,14 @@
       "onboard_time": 1729989856,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 254911,
+      "num": 254911,
+      "word": "豪咪",
+      "onboard_time": 1730179100,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 254515,
@@ -3843,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208289,
+      "num": 598397,
+      "word": "虞书欣新剧重生之邪恶小兰花",
+      "onboard_time": 1730178801,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208088,
       "num": 208088,
       "word": "A股成交1.86万亿元近300股涨停",
@@ -4347,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186691,
+      "num": 186691,
+      "word": "电动车爆燃烧伤88%骑手还在ICU",
+      "onboard_time": 1730179100,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186598,
       "num": 186598,
       "word": "燃少训练营 重启",
@@ -4385,6 +4457,22 @@
       "onboard_time": 1730017339,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184498,
+      "num": 184498,
+      "word": "易烊千玺演小小的我到医院观察学习",
+      "onboard_time": 1730177001,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184114,
+      "num": 184114,
+      "word": "鹿晗佛山音乐节9万张票秒售罄",
+      "onboard_time": 1730179340,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 183936,
@@ -4553,6 +4641,14 @@
       "onboard_time": 1730008099,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176735,
+      "num": 679417,
+      "word": "A股又一只10倍股诞生",
+      "onboard_time": 1730176821,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176573,
@@ -5217,6 +5313,14 @@
       "onboard_time": 1730037260,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143742,
+      "num": 183396,
+      "word": "拎得清识大局的父母有多重要",
+      "onboard_time": 1730177781,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 143721,
@@ -5971,6 +6075,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 114759,
+      "num": 581766,
+      "word": "男子网聊7天花11万闪婚后被拉黑",
+      "onboard_time": 1730177601,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114379,
       "num": 114379,
       "word": "成都蓉城队史首进亚冠",
@@ -6691,12 +6803,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 54734,
-      "num": 679417,
-      "word": "A股又一只10倍股诞生",
-      "onboard_time": 1730176821,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 56016,
+      "num": 691422,
+      "word": "小米创造纽北四门车记录",
+      "onboard_time": 1730177301,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 54179,
@@ -6785,6 +6897,14 @@
       "onboard_time": 1730003418,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49774,
+      "num": 582453,
+      "word": "微博视界大会第二波阵容",
+      "onboard_time": 1730178679,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49438,
@@ -7275,6 +7395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 26192,
+      "num": 2171387,
+      "word": "文化中国行看夜景下的文化景观",
+      "onboard_time": 1730175080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25597,
       "num": 1268867,
       "word": "深秋稻浪飘香丰收忙",
@@ -7323,6 +7451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 24020,
+      "num": 722510,
+      "word": "年迈父亲骑行千里奔赴心中执念",
+      "onboard_time": 1730177902,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23938,
       "num": 23938,
       "word": "美防长称增强兵力部署保护以色列",
@@ -7368,14 +7504,6 @@
       "word": "开发商将架空层改为车位售卖",
       "onboard_time": 1730017817,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21986,
-      "num": 1301375,
-      "word": "文化中国行看夜景下的文化景观",
-      "onboard_time": 1730175080,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
