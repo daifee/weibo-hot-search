@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730206804743,
+  "endTime": 1730208626667,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -243,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1232109,
+      "num": 1232109,
+      "word": "小米15价格",
+      "onboard_time": 1730204302,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1202963,
       "num": 679005,
       "word": "首尔SM楼下摆满吊唁花圈",
@@ -273,14 +281,6 @@
       "onboard_time": 1730177720,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1121576,
-      "num": 1121576,
-      "word": "小米15价格",
-      "onboard_time": 1730204302,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 1118005,
@@ -459,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 832845,
+      "num": 832845,
+      "word": "成都现灰色不明飞行物",
+      "onboard_time": 1730206520,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818775,
       "num": 430607,
       "word": "高雅cp见家长",
       "onboard_time": 1730194879,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 818225,
+      "num": 818225,
+      "word": "小米15pro",
+      "onboard_time": 1730207120,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 811107,
@@ -603,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 653127,
+      "num": 818427,
+      "word": "南京市区一天发生两起野猪目击事件",
+      "onboard_time": 1730203581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649976,
       "num": 649976,
       "word": "神十九乘组蔡旭哲宋令东王浩泽",
@@ -720,14 +744,6 @@
       "word": "你想过为什么买家晒图一模一样吗",
       "onboard_time": 1730123840,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545906,
-      "num": 818427,
-      "word": "南京市区一天发生两起野猪目击事件",
-      "onboard_time": 1730203581,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -947,6 +963,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 389891,
+      "num": 389891,
+      "word": "这个世界乱糟糟而你干干净净",
+      "onboard_time": 1730207719,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389239,
       "num": 389239,
       "word": "王琪tomo亲了",
@@ -961,6 +985,14 @@
       "onboard_time": 1730184559,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386467,
+      "num": 386467,
+      "word": "放狠话家里人死了先臭着领导道歉",
+      "onboard_time": 1730206219,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385673,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1730156896,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261491,
+      "num": 261491,
+      "word": "杨紫直播",
+      "onboard_time": 1730207841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 261117,
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217241,
+      "num": 217241,
+      "word": "拉踩友商",
+      "onboard_time": 1730208500,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217004,
       "num": 217004,
       "word": "江西古城墙上有块500年前的小猫砖",
@@ -1723,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199155,
-      "num": 199155,
-      "word": "放狠话家里人死了先臭着领导道歉",
-      "onboard_time": 1730206219,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198821,
       "num": 198821,
       "word": "孙颖莎超27个月蝉联世界第一",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1730179940,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196896,
+      "num": 660762,
+      "word": "野猪闯入高铁线路并非首次发生",
+      "onboard_time": 1730206340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195986,
@@ -1843,20 +1891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186364,
+      "num": 186364,
+      "word": "官方回应秦皇岛空气刺鼻",
+      "onboard_time": 1730205560,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185531,
       "num": 255261,
       "word": "在赵丽颖身上看到了年龄的魅力",
       "onboard_time": 1730167639,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185497,
-      "num": 185497,
-      "word": "官方回应秦皇岛空气刺鼻",
-      "onboard_time": 1730205560,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184498,
@@ -2083,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165122,
-      "num": 165122,
-      "word": "成都现灰色不明飞行物",
-      "onboard_time": 1730206520,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164778,
       "num": 164778,
       "word": "陈哲远直播打英雄联盟",
@@ -2203,6 +2243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154145,
+      "num": 154145,
+      "word": "卢伟冰口误",
+      "onboard_time": 1730208320,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153276,
       "num": 153276,
       "word": "BLG鄂了赣饭真湘",
@@ -2273,6 +2321,14 @@
       "onboard_time": 1730193738,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146601,
+      "num": 146601,
+      "word": "鹭卓VTTT舞蹈练习室版",
+      "onboard_time": 1730207059,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 146296,
@@ -2483,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127680,
+      "num": 127680,
+      "word": "陈都灵回应扎女梗",
+      "onboard_time": 1730208439,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127234,
       "num": 127234,
       "word": "杨妞花给养父带了苗族衣服",
@@ -2497,14 +2561,6 @@
       "onboard_time": 1730164039,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126262,
-      "num": 660762,
-      "word": "野猪闯入高铁线路并非首次发生",
-      "onboard_time": 1730206340,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123182,
@@ -2731,6 +2787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75392,
+      "num": 559521,
+      "word": "医院回应重复收费等被罚481万",
+      "onboard_time": 1730206700,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74719,
       "num": 74719,
       "word": "曼联解雇滕哈格",
@@ -2804,10 +2868,18 @@
     },
     {
       "raw_hot": 57073,
-      "num": 1208458,
+      "num": 1236134,
       "word": "从神五到神十九",
       "onboard_time": 1730205799,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55100,
+      "num": 388498,
+      "word": "贵阳一景区内村民拦路收费",
+      "onboard_time": 1730207179,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2833,6 +2905,14 @@
       "onboard_time": 1730178679,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48562,
+      "num": 389024,
+      "word": "刘亦菲去微博视界大会",
+      "onboard_time": 1730207719,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 45857,
@@ -2880,14 +2960,6 @@
       "word": "警惕双11的四类骗局",
       "onboard_time": 1730181319,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39148,
-      "num": 559521,
-      "word": "医院回应重复收费等被罚481万",
-      "onboard_time": 1730206700,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3075,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20330,
+      "num": 728150,
+      "word": "郭刚堂透露唐立霞想逃脱法律严惩",
+      "onboard_time": 1730207240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19145,
       "num": 19145,
       "word": "黄冠亨个人首封",
@@ -3189,6 +3269,9 @@
     },
     {
       "word": "#凝心聚力推动改革行稳致远#"
+    },
+    {
+      "word": "#我们的改革是有方向有原则的#"
     }
   ]
 }
