@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730180398524,
+  "endTime": 1730183504530,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -64,6 +64,14 @@
       "word": "南京南站",
       "onboard_time": 1730172439,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1693837,
+      "num": 1693837,
+      "word": "铁路南京站通报机械师被撞身亡",
+      "onboard_time": 1730178679,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -163,11 +171,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056965,
+      "num": 1056965,
+      "word": "周雨彤搭档易烊千玺",
+      "onboard_time": 1730179520,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1009842,
       "num": 426253,
       "word": "4岁男孩入住酒店后确诊川崎病",
       "onboard_time": 1730121021,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919202,
+      "num": 919202,
+      "word": "南京野猪",
+      "onboard_time": 1730181501,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793004,
+      "num": 793004,
+      "word": "王楚钦樊振东马龙陈梦被赋0",
+      "onboard_time": 1730179639,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 788544,
       "num": 788544,
       "word": "iPhone能通话录音了",
@@ -257,22 +289,6 @@
       "onboard_time": 1730168839,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 731171,
-      "num": 731171,
-      "word": "周雨彤搭档易烊千玺",
-      "onboard_time": 1730179520,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 723776,
-      "num": 723776,
-      "word": "铁路南京站通报机械师被撞身亡",
-      "onboard_time": 1730178679,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 717240,
@@ -363,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588577,
+      "num": 806307,
+      "word": "事业单位退休人员犯罪被停发养老金",
+      "onboard_time": 1730178621,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583621,
       "num": 583621,
       "word": "虞书欣带爷爷去成都找林大厨",
       "onboard_time": 1730157916,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580149,
+      "num": 580149,
+      "word": "机械师被火车碰撞身亡",
+      "onboard_time": 1730181859,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564568,
@@ -403,11 +435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545506,
+      "num": 545506,
+      "word": "阮小咪 我写给谁呢",
+      "onboard_time": 1730179759,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530944,
       "num": 296868,
       "word": "洪知秀 HYBE",
       "onboard_time": 1730128580,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 527731,
+      "num": 527731,
+      "word": "知名主持人顾国宁突发疾病逝世",
+      "onboard_time": 1730183059,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -417,6 +465,14 @@
       "onboard_time": 1730172018,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 522531,
+      "num": 522531,
+      "word": "听泉鉴宝APP下架多个商品",
+      "onboard_time": 1730181019,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520005,
@@ -459,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491669,
+      "num": 491669,
+      "word": "34岁的我终于考上了公务员",
+      "onboard_time": 1730182220,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478768,
       "num": 478768,
       "word": "蒋欣演技",
@@ -473,6 +537,14 @@
       "onboard_time": 1730131938,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474072,
+      "num": 474072,
+      "word": "钟睒睒3615亿重回中国首富",
+      "onboard_time": 1730181501,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 462003,
@@ -531,14 +603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 408186,
-      "num": 408186,
-      "word": "王楚钦樊振东马龙陈梦被赋0",
-      "onboard_time": 1730179639,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407579,
       "num": 671488,
       "word": "尤长靖 干嘛抢我话筒",
@@ -569,14 +633,6 @@
       "onboard_time": 1730163979,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 394030,
-      "num": 394030,
-      "word": "阮小咪 我写给谁呢",
-      "onboard_time": 1730179759,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 391099,
@@ -715,14 +771,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 290923,
-      "num": 806307,
-      "word": "事业单位退休人员犯罪被停发养老金",
-      "onboard_time": 1730178621,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
@@ -769,6 +817,14 @@
       "onboard_time": 1730176762,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256907,
+      "num": 256907,
+      "word": "闻太师回朝发现家被偷了",
+      "onboard_time": 1730181501,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 256852,
@@ -859,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239866,
+      "num": 679417,
+      "word": "A股又一只10倍股诞生",
+      "onboard_time": 1730176821,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233940,
       "num": 233940,
       "word": "杨紫时装十一月生日封面",
@@ -947,11 +1011,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205552,
+      "num": 463895,
+      "word": "时代少年团cha这一刻钟",
+      "onboard_time": 1730183118,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205090,
       "num": 205090,
       "word": "95后硕士炒股一月狂赚112万",
       "onboard_time": 1730103079,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204035,
+      "num": 581766,
+      "word": "男子网聊7天花11万闪婚后被拉黑",
+      "onboard_time": 1730177601,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1043,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187069,
-      "num": 679417,
-      "word": "A股又一只10倍股诞生",
-      "onboard_time": 1730176821,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185531,
       "num": 255261,
       "word": "在赵丽颖身上看到了年龄的魅力",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1730135893,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 174079,
+      "num": 174079,
+      "word": "乔妍的心事 81分钟才出片名",
+      "onboard_time": 1730183298,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 173726,
@@ -1131,12 +1211,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164773,
+      "num": 164773,
+      "word": "刘浩存嘉人vlog",
+      "onboard_time": 1730183359,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163792,
+      "num": 163792,
+      "word": "孙杨这次慢了",
+      "onboard_time": 1730182579,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162786,
       "num": 162786,
       "word": "我的青春和火影忍者杀回来了",
       "onboard_time": 1730180000,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161821,
+      "num": 161821,
+      "word": "扬州泼天的富贵你接住了",
+      "onboard_time": 1730181501,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 156740,
@@ -1163,12 +1267,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150299,
+      "num": 150299,
+      "word": "刘浩存首本五大女刊封面",
+      "onboard_time": 1730183419,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146296,
       "num": 281096,
       "word": "小米SU7Ultra",
       "onboard_time": 1730173640,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 144921,
+      "num": 2103859,
+      "word": "公安部网安局提醒此类谷子不能吃",
+      "onboard_time": 1730180359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144852,
@@ -1185,6 +1305,14 @@
       "onboard_time": 1730177781,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142560,
+      "num": 142560,
+      "word": "田曦薇李一桐车窗比耶",
+      "onboard_time": 1730180539,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 141384,
@@ -1347,19 +1475,19 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 114759,
-      "num": 581766,
-      "word": "男子网聊7天花11万闪婚后被拉黑",
-      "onboard_time": 1730177601,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112499,
       "num": 112499,
       "word": "烧伤妈妈今日将在ICU度过生日",
       "onboard_time": 1730129838,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112357,
+      "num": 524083,
+      "word": "跑腿小哥接单送18万现金到稻田",
+      "onboard_time": 1730182041,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39549,
+      "num": 217581,
+      "word": "警惕双11的四类骗局",
+      "onboard_time": 1730181319,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38468,
       "num": 38468,
       "word": "赵丽颖乔妍的心事东京电影节首映",
@@ -1801,14 +1937,6 @@
       "onboard_time": 1730123900,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6007,
-      "num": 2103859,
-      "word": "公安部网安局提醒此类谷子不能吃",
-      "onboard_time": 1730180359,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1820,6 +1948,9 @@
     },
     {
       "word": "#锚定建成文化强国战略目标#"
+    },
+    {
+      "word": "#构筑中国精神中国价值中国力量#"
     }
   ]
 }
