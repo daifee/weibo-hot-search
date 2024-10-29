@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730187466210,
+  "endTime": 1730190537155,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -43,12 +43,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2031718,
+      "num": 576744,
+      "word": "韩火火发文",
+      "onboard_time": 1730184259,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1956114,
       "num": 1956114,
       "word": "我国首位90后女航天员",
       "onboard_time": 1730162960,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1781120,
+      "num": 564755,
+      "word": "周雨彤 韩火火",
+      "onboard_time": 1730187679,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1744186,
@@ -83,19 +99,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1619085,
+      "num": 563249,
+      "word": "领导放狠话家里人死了先臭着",
+      "onboard_time": 1730184019,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1521970,
       "num": 788959,
       "word": "麦琳 闲鱼",
       "onboard_time": 1730175561,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1510042,
-      "num": 576744,
-      "word": "韩火火发文",
-      "onboard_time": 1730184259,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1099591,
-      "num": 522432,
-      "word": "领导放狠话家里人死了先臭着",
-      "onboard_time": 1730184019,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1075759,
       "num": 1075759,
       "word": "灏琪cp官宣",
@@ -225,6 +233,14 @@
       "onboard_time": 1730181501,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939798,
+      "num": 939798,
+      "word": "姚安娜别夸了 借多少钱直说",
+      "onboard_time": 1730186119,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 917903,
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 750303,
+      "num": 750303,
+      "word": "为什么年轻人的生育意愿变低了",
+      "onboard_time": 1730187140,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744673,
       "num": 761285,
       "word": "我国首位女性航天飞行工程师王浩泽",
@@ -409,14 +433,6 @@
       "onboard_time": 1730181859,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606368,
-      "num": 379957,
-      "word": "姚安娜别夸了 借多少钱直说",
-      "onboard_time": 1730186119,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 600340,
@@ -635,6 +651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 408443,
+      "num": 408443,
+      "word": "画皮 平番",
+      "onboard_time": 1730184378,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407579,
       "num": 671488,
       "word": "尤长靖 干嘛抢我话筒",
@@ -651,12 +675,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 406752,
-      "num": 378587,
-      "word": "画皮 平番",
-      "onboard_time": 1730184378,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 404035,
+      "num": 234723,
+      "word": "苹果ID圆形头像",
+      "onboard_time": 1730189600,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 402366,
@@ -835,6 +859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 282784,
+      "num": 282784,
+      "word": "高哥 聊十分钟就可以看清一个人",
+      "onboard_time": 1730188700,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
@@ -843,12 +875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268991,
+      "num": 268991,
+      "word": "胖东来单店盈利已超所有商超上市公司",
+      "onboard_time": 1730190438,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 267815,
       "num": 267815,
       "word": "法兰克福冠军赛国乒名单",
       "onboard_time": 1730172919,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265305,
+      "num": 265305,
+      "word": "生育支持政策一图划重点",
+      "onboard_time": 1730189361,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264499,
@@ -1003,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241683,
+      "num": 241683,
+      "word": "2025LCK新赛制",
+      "onboard_time": 1730187740,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239866,
       "num": 679417,
       "word": "A股又一只10倍股诞生",
@@ -1011,12 +1067,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236582,
+      "num": 236582,
+      "word": "赵牧辰阮小咪be",
+      "onboard_time": 1730190501,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 235587,
+      "num": 235587,
+      "word": "留几手照片",
+      "onboard_time": 1730188341,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233940,
       "num": 233940,
       "word": "杨紫时装十一月生日封面",
       "onboard_time": 1730174661,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230714,
+      "num": 230714,
+      "word": "迪丽热巴慕胥辞海报造型",
+      "onboard_time": 1730188759,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 230169,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1730177601,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223584,
+      "num": 223584,
+      "word": "芈迭 情商",
+      "onboard_time": 1730189479,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 223083,
@@ -1115,12 +1203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203360,
+      "num": 203360,
+      "word": "官方通报机械师被火车碰撞身亡",
+      "onboard_time": 1730189779,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203007,
       "num": 203007,
       "word": "宝妈见到刚出生的娃像极了网友奔现",
       "onboard_time": 1730159421,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202137,
+      "num": 202137,
+      "word": "李一桐 我想死她们了",
+      "onboard_time": 1730188039,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 201772,
@@ -1203,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191762,
+      "num": 191762,
+      "word": "赵露思新剧天崩开局",
+      "onboard_time": 1730189600,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190523,
       "num": 190523,
       "word": "A股",
@@ -1252,11 +1364,19 @@
     },
     {
       "raw_hot": 180272,
-      "num": 180272,
+      "num": 577163,
       "word": "价值300元遥控器维修费1776元",
       "onboard_time": 1730184619,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179282,
+      "num": 179282,
+      "word": "蔡旭哲担任神舟十九乘务长",
+      "onboard_time": 1730190259,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176047,
@@ -1292,7 +1412,7 @@
     },
     {
       "raw_hot": 173080,
-      "num": 173080,
+      "num": 190643,
       "word": "以军公布打死辛瓦尔的行动画面",
       "onboard_time": 1730186300,
       "rank": 44,
@@ -1339,12 +1459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168482,
-      "num": 168482,
-      "word": "为什么年轻人的生育意愿变低了",
-      "onboard_time": 1730187140,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 165175,
+      "num": 165175,
+      "word": "伊能静 至少秦老师还不错",
+      "onboard_time": 1730187618,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 164773,
@@ -1353,6 +1473,14 @@
       "onboard_time": 1730183359,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164014,
+      "num": 351371,
+      "word": "784万买房开放日看完后想退",
+      "onboard_time": 1730186539,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163792,
@@ -1465,6 +1593,14 @@
       "onboard_time": 1730177781,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143341,
+      "num": 325726,
+      "word": "女子一听要坐牢赶紧转18万养老钱",
+      "onboard_time": 1730189060,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142560,
@@ -1883,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61741,
-      "num": 351371,
-      "word": "784万买房开放日看完后想退",
-      "onboard_time": 1730186539,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51439,
       "num": 51439,
       "word": "麦琳喊杨子宝贝",
@@ -1921,6 +2049,14 @@
       "onboard_time": 1730120058,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42770,
+      "num": 451435,
+      "word": "当地回应领导群内发表争议性言论",
+      "onboard_time": 1730188999,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39549,
@@ -2043,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22917,
+      "num": 257337,
+      "word": "小米15亮银版回归",
+      "onboard_time": 1730187618,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 21679,
       "num": 21679,
       "word": "神十八航天员准备回家啦",
@@ -2057,6 +2201,14 @@
       "onboard_time": 1730142071,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18700,
+      "num": 335827,
+      "word": "微博视界大会 美女团建",
+      "onboard_time": 1730189420,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 16792,
