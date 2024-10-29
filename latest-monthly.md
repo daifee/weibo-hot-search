@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 14:31:44
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/29 14:45:32
 </p>
 </blockquote>
 <p>
@@ -4167,6 +4167,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A1%BE%E5%9B%BD%E5%AE%81%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E9%80%9D%E4%B8%96%23" target="weibo">
+知名主持人顾国宁突发疾病逝世（热度：1118005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%84%91%E5%AD%90%E5%BF%AB%E8%BD%AC%E5%86%92%E7%83%9F%E4%BA%86%23" target="weibo">
 单依纯工作室脑子快转冒烟了（热度：1117399）
 </a>
@@ -5523,6 +5529,12 @@ T1对战GEN（热度：952675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%87%8E%E7%8C%AA%23" target="weibo">
+南京野猪（热度：948924）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%8A%B1%E8%B4%B9%E8%BF%9160%E4%B8%87%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E5%AE%BF%E8%88%8D%E5%86%85%E4%B8%A2%E5%A4%B1%23" target="weibo">
 男孩花费近60万人工耳蜗宿舍内丢失（热度：948227）
 </a>
@@ -5741,12 +5753,6 @@ T1对战GEN（热度：952675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone16%E5%AE%98%E6%96%B9%E7%BD%95%E8%A7%81%E9%99%8D%E4%BB%B71600%E5%85%83%23" target="weibo">
 iPhone16官方罕见降价1600元（热度：919296）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%87%8E%E7%8C%AA%23" target="weibo">
-南京野猪（热度：919202）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LNG战胜BLG（热度：897693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%E8%B1%86%E7%93%A3%E9%99%A4%E5%90%8D%E9%83%AD%E6%95%AC%E6%98%8E%23" target="weibo">
 大梦归离豆瓣除名郭敬明（热度：897572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%8A%8A%E5%AD%A9%E5%AD%90%E6%94%BE23%E6%A5%BC%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E4%B8%8A%23" target="weibo">
-夫妻吵架把孩子放23楼空调外机上（热度：897284）
 </a>
 </li>
 

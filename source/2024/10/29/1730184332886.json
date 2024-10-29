@@ -1,0 +1,410 @@
+{
+  "runTime": 1730184332886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1850072,
+        "num": 1850072,
+        "word": "生育补贴",
+        "onboard_time": 1730172679,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450750,
+        "num": 1450750,
+        "word": "铁路南京站通报机械师被撞身亡",
+        "onboard_time": 1730178679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151492,
+        "num": 1177374,
+        "word": "公安部网安局提醒此类谷子不能吃",
+        "onboard_time": 1730180359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118005,
+        "num": 1118005,
+        "word": "知名主持人顾国宁突发疾病逝世",
+        "onboard_time": 1730183059,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948924,
+        "num": 948924,
+        "word": "南京野猪",
+        "onboard_time": 1730181501,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937858,
+        "num": 937858,
+        "word": "周雨彤搭档易烊千玺",
+        "onboard_time": 1730179520,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 793101,
+        "num": 793101,
+        "word": "34岁的我终于考上了公务员",
+        "onboard_time": 1730182220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764497,
+        "num": 764497,
+        "word": "听泉鉴宝APP下架多个商品",
+        "onboard_time": 1730181019,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378022,
+        "num": 761285,
+        "word": "我国首位女性航天飞行工程师王浩泽",
+        "onboard_time": 1730168839,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 760083,
+        "num": 760083,
+        "word": "王楚钦樊振东马龙陈梦被赋0",
+        "onboard_time": 1730179639,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2414139,
+        "num": 752169,
+        "word": "张一鸣3500亿身家成中国首富",
+        "onboard_time": 1730177421,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739527,
+        "num": 739527,
+        "word": "高雅抱了",
+        "onboard_time": 1730176341,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521801,
+        "num": 521801,
+        "word": "阮小咪 我写给谁呢",
+        "onboard_time": 1730179759,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513990,
+        "num": 513990,
+        "word": "事业单位退休人员犯罪被停发养老金",
+        "onboard_time": 1730178621,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498395,
+        "num": 498395,
+        "word": "麦琳 闲鱼",
+        "onboard_time": 1730175561,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396947,
+        "num": 396947,
+        "word": "豪咪",
+        "onboard_time": 1730179100,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371961,
+        "num": 371961,
+        "word": "2名90后航天员要飞天了",
+        "onboard_time": 1730169499,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329616,
+        "num": 329616,
+        "word": "韩火火发文",
+        "onboard_time": 1730184259,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299436,
+        "num": 299436,
+        "word": "钟睒睒3615亿重回中国首富",
+        "onboard_time": 1730181501,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296662,
+        "num": 296662,
+        "word": "我国首位90后女航天员",
+        "onboard_time": 1730162960,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321775,
+        "num": 295662,
+        "word": "男子做兼职主播月入3毛",
+        "onboard_time": 1730175920,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294037,
+        "num": 294037,
+        "word": "辰咪",
+        "onboard_time": 1730177720,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269708,
+        "num": 269708,
+        "word": "领导放狠话家里人死了先臭着",
+        "onboard_time": 1730184019,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 263318,
+        "word": "时代少年团cha这一刻钟",
+        "onboard_time": 1730183118,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258282,
+        "num": 258282,
+        "word": "电动车爆燃烧伤88%骑手还在ICU",
+        "onboard_time": 1730179100,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139036,
+        "num": 255877,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1730173640,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212158,
+        "num": 250450,
+        "word": "乔妍的心事 81分钟才出片名",
+        "onboard_time": 1730183298,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246997,
+        "num": 246997,
+        "word": "灏琪cp官宣",
+        "onboard_time": 1730176521,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625238,
+        "num": 243351,
+        "word": "机械师被火车碰撞身亡",
+        "onboard_time": 1730181859,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237501,
+        "num": 237501,
+        "word": "A股又一只10倍股诞生",
+        "onboard_time": 1730176821,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235744,
+        "num": 235744,
+        "word": "摩托司机等红绿灯被撞身亡",
+        "onboard_time": 1730168896,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213893,
+        "num": 213893,
+        "word": "男子网聊7天花11万闪婚后被拉黑",
+        "onboard_time": 1730177601,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213373,
+        "num": 213373,
+        "word": "白敬亭 和狗撞名还撞衫",
+        "onboard_time": 1730178201,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211365,
+        "num": 211365,
+        "word": "首尔SM楼下摆满吊唁花圈",
+        "onboard_time": 1730169378,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199350,
+        "num": 199350,
+        "word": "跑腿小哥接单送18万现金到稻田",
+        "onboard_time": 1730182041,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199217,
+        "num": 199217,
+        "word": "小狗店门口排泄被店员持杆抽打",
+        "onboard_time": 1730172319,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197738,
+        "num": 197738,
+        "word": "30天不玩手机的日子竟然这么爽",
+        "onboard_time": 1730169258,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190523,
+        "num": 190523,
+        "word": "A股",
+        "onboard_time": 1730183660,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190174,
+        "num": 190174,
+        "word": "鹿晗佛山音乐节9万张票秒售罄",
+        "onboard_time": 1730179340,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173910,
+        "num": 173910,
+        "word": "刘浩存首本五大女刊封面",
+        "onboard_time": 1730183419,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173817,
+        "num": 173817,
+        "word": "预祝美国两名航天员安全归来",
+        "onboard_time": 1730168239,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167370,
+        "num": 167370,
+        "word": "南京南站",
+        "onboard_time": 1730172439,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166821,
+        "num": 166821,
+        "word": "闻太师回朝发现家被偷了",
+        "onboard_time": 1730181501,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147772,
+        "num": 147772,
+        "word": "孙杨这次慢了",
+        "onboard_time": 1730182579,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147623,
+        "num": 147623,
+        "word": "虞书欣新剧重生之邪恶小兰花",
+        "onboard_time": 1730178801,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 135094,
+        "word": "神二十神二十一任务2025实施",
+        "onboard_time": 1730168839,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134449,
+        "num": 134449,
+        "word": "19岁中专生拿了个世界冠军当生日礼物",
+        "onboard_time": 1730160318,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131524,
+        "num": 131524,
+        "word": "铁路南京站情况说明",
+        "onboard_time": 1730177601,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130003,
+        "num": 130003,
+        "word": "犹太教授建议犹太人学中文",
+        "onboard_time": 1730174901,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125852,
+        "num": 125852,
+        "word": "田曦薇李一桐车窗比耶",
+        "onboard_time": 1730180539,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#构筑中国精神中国价值中国力量#"
+    }
+  }
+}
