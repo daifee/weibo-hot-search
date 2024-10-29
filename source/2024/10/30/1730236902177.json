@@ -1,0 +1,410 @@
+{
+  "runTime": 1730236902177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376282,
+        "num": 376282,
+        "word": "直播神十九发射",
+        "onboard_time": 1730223073,
+        "rank": 0,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 181487,
+        "num": 181487,
+        "word": "神舟十九号发射圆满成功",
+        "onboard_time": 1730235790,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2321,
+        "num": 162173,
+        "word": "从神五到神十九",
+        "onboard_time": 1730205799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152025,
+        "num": 152025,
+        "word": "秦皇岛环保局建议市民减少外出",
+        "onboard_time": 1730223014,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145005,
+        "num": 145005,
+        "word": "神十九点火发射",
+        "onboard_time": 1730235790,
+        "rank": 4,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 113260,
+        "num": 113260,
+        "word": "周雨彤说会找机会和大家聊聊",
+        "onboard_time": 1730212881,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85189,
+        "num": 85189,
+        "word": "90后农村娃拿到太空船票",
+        "onboard_time": 1730211622,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66264,
+        "num": 66264,
+        "word": "神十九出征仪式",
+        "onboard_time": 1730223433,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63166,
+        "num": 63166,
+        "word": "王浩泽全系第一保研东大",
+        "onboard_time": 1730217978,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20970,
+        "num": 62838,
+        "word": "王浩泽成绩优异还是田径冠军",
+        "onboard_time": 1730234291,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62681,
+        "num": 62681,
+        "word": "放狠话家里人死了先臭着领导道歉",
+        "onboard_time": 1730206219,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59941,
+        "num": 59941,
+        "word": "神十九于10月30日4时27分发射",
+        "onboard_time": 1730216180,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56526,
+        "num": 56526,
+        "word": "南京南站亲历乘客称听到明显异响",
+        "onboard_time": 1730215641,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50062,
+        "num": 50062,
+        "word": "大红屏",
+        "onboard_time": 1730235851,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47357,
+        "num": 47357,
+        "word": "巴勒斯坦代表问你们知道这种感觉吗",
+        "onboard_time": 1730213421,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46907,
+        "num": 46907,
+        "word": "被撞身亡机械师仅有20多岁",
+        "onboard_time": 1730199801,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44175,
+        "num": 44175,
+        "word": "一人一句祝福神十九航天员",
+        "onboard_time": 1730219357,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41434,
+        "num": 41434,
+        "word": "杨紫直播身材状态",
+        "onboard_time": 1730214740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39505,
+        "num": 39505,
+        "word": "宇宙曹县不是个梗",
+        "onboard_time": 1730220556,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28690,
+        "num": 35301,
+        "word": "蛇瓜",
+        "onboard_time": 1730213720,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56676,
+        "num": 35160,
+        "word": "九块九害死了3万块",
+        "onboard_time": 1730209039,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34974,
+        "num": 34974,
+        "word": "神十九航天员的出征仪式好可爱",
+        "onboard_time": 1730230991,
+        "rank": 21,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 34505,
+        "num": 34505,
+        "word": "爸爸去哪儿的含金量还在上升",
+        "onboard_time": 1730191880,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32798,
+        "num": 32798,
+        "word": "强烈反对美国对中国包括香港特区投资限制",
+        "onboard_time": 1730234591,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32770,
+        "num": 32770,
+        "word": "小米SU7 Ultra定价81.49万",
+        "onboard_time": 1730212282,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32428,
+        "num": 32428,
+        "word": "小米15",
+        "onboard_time": 1730202680,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31315,
+        "num": 31315,
+        "word": "王浩泽说身份在变但初心和使命不变",
+        "onboard_time": 1730223014,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21935,
+        "num": 31185,
+        "word": "心动的信号",
+        "onboard_time": 1730200521,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21775,
+        "num": 31074,
+        "word": "侯明昊眼睛怎么了",
+        "onboard_time": 1730202980,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19764,
+        "num": 31062,
+        "word": "听泉鉴宝APP售卖听泉表情包摆件",
+        "onboard_time": 1730227753,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31061,
+        "num": 31061,
+        "word": "乘客讲述年轻机械师被撞身亡详情",
+        "onboard_time": 1730212220,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30121,
+        "num": 30121,
+        "word": "王浩泽说导师这句话影响自己终生",
+        "onboard_time": 1730226491,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28252,
+        "num": 28252,
+        "word": "女子手术后纱布留体内3年持续腹痛",
+        "onboard_time": 1730215699,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28228,
+        "num": 28228,
+        "word": "金宇硕姜娜言承认恋情后出席发布会",
+        "onboard_time": 1730231412,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27732,
+        "num": 27732,
+        "word": "90后真的上天了",
+        "onboard_time": 1730235911,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25178,
+        "num": 25178,
+        "word": "中国货运航天飞机正式公开",
+        "onboard_time": 1730219897,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24284,
+        "num": 24284,
+        "word": "以军公布打死辛瓦尔画面",
+        "onboard_time": 1730227872,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 23051,
+        "word": "王浩泽从托举飞天到自己飞天",
+        "onboard_time": 1730227332,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23034,
+        "num": 23034,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1730187679,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22930,
+        "num": 22930,
+        "word": "小米洗衣机",
+        "onboard_time": 1730210601,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22411,
+        "num": 22411,
+        "word": "中方表态美方发布的对华投资限制规则",
+        "onboard_time": 1730235311,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22010,
+        "num": 22010,
+        "word": "南京市区一天发生两起野猪目击事件",
+        "onboard_time": 1730203581,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21481,
+        "num": 21481,
+        "word": "90后航天员指国旗送飞吻",
+        "onboard_time": 1730233271,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21471,
+        "num": 21471,
+        "word": "成都一男子在网吧内持刀行凶",
+        "onboard_time": 1730200221,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21448,
+        "num": 21448,
+        "word": "豪咪cp官宣",
+        "onboard_time": 1730199140,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21109,
+        "num": 21109,
+        "word": "王浩泽谈妈妈对自己的影响",
+        "onboard_time": 1730232371,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20304,
+        "num": 20304,
+        "word": "神十九准备就绪",
+        "onboard_time": 1730107400,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20126,
+        "num": 20126,
+        "word": "小米发布会",
+        "onboard_time": 1730198779,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18571,
+        "num": 20051,
+        "word": "这个世界乱糟糟而你干干净净",
+        "onboard_time": 1730207719,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15038,
+        "num": 20022,
+        "word": "心动的信号 高雅cp官宣",
+        "onboard_time": 1730200341,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心聚力推动改革行稳致远#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730234302397,
+  "endTime": 1730236902177,
   "band_list": [
     {
       "raw_hot": 1680659,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181487,
+      "num": 181487,
+      "word": "神舟十九号发射圆满成功",
+      "onboard_time": 1730235790,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153723,
       "num": 153723,
       "word": "刘亦菲梦女",
@@ -249,6 +257,14 @@
       "onboard_time": 1730209881,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145005,
+      "num": 145005,
+      "word": "神十九点火发射",
+      "onboard_time": 1730235790,
+      "rank": 4,
+      "category": "国内时政,国外时政"
     },
     {
       "raw_hot": 143432,
@@ -443,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50062,
+      "num": 50062,
+      "word": "大红屏",
+      "onboard_time": 1730235851,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44175,
+      "num": 44175,
+      "word": "一人一句祝福神十九航天员",
+      "onboard_time": 1730219357,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41873,
       "num": 53261,
       "word": "雷军透露小米15涨价原因",
@@ -457,6 +489,14 @@
       "onboard_time": 1730227872,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 34974,
+      "num": 34974,
+      "word": "神十九航天员的出征仪式好可爱",
+      "onboard_time": 1730230991,
+      "rank": 30,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 34640,
@@ -475,20 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32579,
-      "num": 32579,
-      "word": "一人一句祝福神十九航天员",
-      "onboard_time": 1730219357,
-      "rank": 37,
+      "raw_hot": 32798,
+      "num": 32798,
+      "word": "强烈反对美国对中国包括香港特区投资限制",
+      "onboard_time": 1730234591,
+      "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32418,
-      "num": 32418,
-      "word": "神十九航天员的出征仪式好可爱",
-      "onboard_time": 1730230991,
-      "rank": 30,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 32019,
@@ -499,7 +531,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 29926,
+      "raw_hot": 31315,
       "num": 74497,
       "word": "王浩泽说身份在变但初心和使命不变",
       "onboard_time": 1730223014,
@@ -507,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28228,
+      "num": 28228,
+      "word": "金宇硕姜娜言承认恋情后出席发布会",
+      "onboard_time": 1730231412,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28091,
-      "num": 28985,
+      "num": 31062,
       "word": "听泉鉴宝APP售卖听泉表情包摆件",
       "onboard_time": 1730227753,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 27732,
+      "num": 27732,
+      "word": "90后真的上天了",
+      "onboard_time": 1730235911,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 27407,
@@ -523,20 +571,52 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24708,
-      "num": 24708,
-      "word": "金宇硕姜娜言承认恋情后出席发布会",
-      "onboard_time": 1730231412,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24603,
       "num": 30255,
       "word": "幻想朋友MV",
       "onboard_time": 1730226491,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22411,
+      "num": 22411,
+      "word": "中方表态美方发布的对华投资限制规则",
+      "onboard_time": 1730235311,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21481,
+      "num": 21481,
+      "word": "90后航天员指国旗送飞吻",
+      "onboard_time": 1730233271,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21109,
+      "num": 31395,
+      "word": "王浩泽谈妈妈对自己的影响",
+      "onboard_time": 1730232371,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20970,
+      "num": 62838,
+      "word": "王浩泽成绩优异还是田径冠军",
+      "onboard_time": 1730234291,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20304,
+      "num": 20304,
+      "word": "神十九准备就绪",
+      "onboard_time": 1730107400,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19832,
@@ -555,36 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18510,
-      "num": 18510,
-      "word": "90后航天员指国旗送飞吻",
-      "onboard_time": 1730233271,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18472,
-      "num": 31395,
-      "word": "王浩泽谈妈妈对自己的影响",
-      "onboard_time": 1730232371,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17456,
       "num": 43033,
       "word": "神十九3名航天员2名是河北人",
       "onboard_time": 1730232850,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17291,
-      "num": 17291,
-      "word": "神十九准备就绪",
-      "onboard_time": 1730107400,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7566,
