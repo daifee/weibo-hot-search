@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730190537155,
+  "endTime": 1730191371275,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -201,6 +201,14 @@
       "onboard_time": 1730175920,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1094024,
+      "num": 346279,
+      "word": "苹果ID圆形头像",
+      "onboard_time": 1730189600,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1075759,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568237,
+      "num": 568237,
+      "word": "赵牧辰阮小咪be",
+      "onboard_time": 1730190501,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 564568,
       "num": 564568,
       "word": "光遇",
@@ -675,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 404035,
-      "num": 234723,
-      "word": "苹果ID圆形头像",
-      "onboard_time": 1730189600,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 402366,
       "num": 402366,
       "word": "雷军再回应雷军AI配音",
@@ -811,6 +819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311298,
+      "num": 311298,
+      "word": "胖东来单店盈利已超所有商超上市公司",
+      "onboard_time": 1730190438,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 309027,
       "num": 309027,
       "word": "不想把亲人的伤痛变成谋钱工具",
@@ -833,6 +849,14 @@
       "onboard_time": 1730185459,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300595,
+      "num": 497343,
+      "word": "生育支持政策一图划重点",
+      "onboard_time": 1730189361,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300425,
@@ -859,6 +883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 285118,
+      "num": 577163,
+      "word": "价值300元遥控器维修费1776元",
+      "onboard_time": 1730184619,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282784,
       "num": 282784,
       "word": "高哥 聊十分钟就可以看清一个人",
@@ -875,28 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268991,
-      "num": 268991,
-      "word": "胖东来单店盈利已超所有商超上市公司",
-      "onboard_time": 1730190438,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 267815,
       "num": 267815,
       "word": "法兰克福冠军赛国乒名单",
       "onboard_time": 1730172919,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265305,
-      "num": 265305,
-      "word": "生育支持政策一图划重点",
-      "onboard_time": 1730189361,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264499,
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248974,
+      "num": 325726,
+      "word": "女子一听要坐牢赶紧转18万养老钱",
+      "onboard_time": 1730189060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247236,
       "num": 247236,
       "word": "19岁中专生靠一项技能拿下世界第一",
@@ -1035,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245938,
+      "num": 245938,
+      "word": "蔡旭哲担任神舟十九乘务长",
+      "onboard_time": 1730190259,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 245733,
       "num": 368413,
       "word": "罗德里夺得金球奖",
       "onboard_time": 1730157015,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245573,
+      "num": 245573,
+      "word": "留几手照片",
+      "onboard_time": 1730188341,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 244441,
@@ -1065,22 +1105,6 @@
       "onboard_time": 1730176821,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236582,
-      "num": 236582,
-      "word": "赵牧辰阮小咪be",
-      "onboard_time": 1730190501,
-      "rank": 28,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 235587,
-      "num": 235587,
-      "word": "留几手照片",
-      "onboard_time": 1730188341,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 233940,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1730169198,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227648,
+      "num": 227648,
+      "word": "官方通报机械师被火车碰撞身亡",
+      "onboard_time": 1730189779,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226368,
@@ -1171,6 +1203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211232,
+      "num": 211232,
+      "word": "孙乐言 翁青雅",
+      "onboard_time": 1730191160,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "沈梦辰晒合照为杜海涛庆生",
@@ -1200,14 +1240,6 @@
       "word": "95后硕士炒股一月狂赚112万",
       "onboard_time": 1730103079,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203360,
-      "num": 203360,
-      "word": "官方通报机械师被火车碰撞身亡",
-      "onboard_time": 1730189779,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1363,20 +1395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180272,
-      "num": 577163,
-      "word": "价值300元遥控器维修费1776元",
-      "onboard_time": 1730184619,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 180258,
+      "num": 180258,
+      "word": "曝vivo原拼多多团队因涉及贪腐被砍",
+      "onboard_time": 1730190618,
+      "rank": 39,
+      "category": "数码"
     },
     {
-      "raw_hot": 179282,
-      "num": 179282,
-      "word": "蔡旭哲担任神舟十九乘务长",
-      "onboard_time": 1730190259,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 176664,
+      "num": 176664,
+      "word": "张予曦发了心动的信号7大合照",
+      "onboard_time": 1730190618,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 176047,
@@ -1507,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159171,
+      "num": 159171,
+      "word": "陈都灵新剧好一个主心蛊",
+      "onboard_time": 1730191220,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "爸爸用树叶给女儿做皇冠和裙子",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1730121258,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154208,
+      "num": 154208,
+      "word": "小米SU7 Ultra",
+      "onboard_time": 1730191160,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 153276,
@@ -1593,14 +1641,6 @@
       "onboard_time": 1730177781,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143341,
-      "num": 325726,
-      "word": "女子一听要坐牢赶紧转18万养老钱",
-      "onboard_time": 1730189060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142560,
@@ -2115,6 +2155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33342,
+      "num": 149268,
+      "word": "拼多多保持了双11素颜的样子",
+      "onboard_time": 1730191339,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31822,
       "num": 31822,
       "word": "红旗车队将送神十九航天员出征",
@@ -2180,7 +2228,7 @@
     },
     {
       "raw_hot": 22917,
-      "num": 257337,
+      "num": 270498,
       "word": "小米15亮银版回归",
       "onboard_time": 1730187618,
       "rank": 25,
