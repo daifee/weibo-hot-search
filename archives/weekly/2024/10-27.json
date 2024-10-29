@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730176053295,
+  "endTime": 1730176919166,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -19,6 +19,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2985991,
+      "num": 2985991,
+      "word": "生育补贴",
+      "onboard_time": 1730172679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2850454,
       "num": 2850454,
       "word": "网曝塔斯汀汉堡吃出生肉",
@@ -32,14 +40,6 @@
       "word": "19岁中专生拿了个世界冠军当生日礼物",
       "onboard_time": 1730160318,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2704113,
-      "num": 2704113,
-      "word": "生育补贴",
-      "onboard_time": 1730172679,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1521970,
+      "num": 676271,
+      "word": "麦琳 闲鱼",
+      "onboard_time": 1730175561,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1514204,
       "num": 313294,
       "word": "被虐致死男童生父称没想到这么严重",
@@ -369,6 +377,14 @@
       "onboard_time": 1730007679,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1407968,
+      "num": 1407968,
+      "word": "高雅抱了",
+      "onboard_time": 1730176341,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1403980,
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680731,
+      "num": 680731,
+      "word": "王浩泽本硕毕业于东南大学",
+      "onboard_time": 1730171179,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677859,
       "num": 445976,
       "word": "Faker回应Bin",
@@ -1355,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588702,
+      "num": 672844,
+      "word": "赵露思敦煌神女飞天舞",
+      "onboard_time": 1730173280,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 586182,
       "num": 589632,
       "word": "永夜星河定档",
@@ -1393,14 +1425,6 @@
       "onboard_time": 1730124021,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569108,
-      "num": 569108,
-      "word": "赵露思敦煌神女飞天舞",
-      "onboard_time": 1730173280,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 567892,
@@ -1505,14 +1529,6 @@
       "onboard_time": 1730102658,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549917,
-      "num": 549917,
-      "word": "麦琳 闲鱼",
-      "onboard_time": 1730175561,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 549068,
@@ -1875,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 462003,
+      "num": 672338,
+      "word": "心动的信号",
+      "onboard_time": 1730002338,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460856,
       "num": 375336,
       "word": "赵露思生图live",
@@ -1907,12 +1931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454025,
+      "num": 678163,
+      "word": "男子做兼职主播月入3毛",
+      "onboard_time": 1730175920,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452833,
       "num": 452833,
       "word": "心跳慢和心跳快哪个更健康",
       "onboard_time": 1730023278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449563,
+      "num": 449563,
+      "word": "灏琪cp官宣",
+      "onboard_time": 1730176521,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 449073,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1730048594,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 436204,
-      "num": 557831,
-      "word": "心动的信号",
-      "onboard_time": 1730002338,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 435043,
@@ -2068,7 +2100,7 @@
     },
     {
       "raw_hot": 407579,
-      "num": 556879,
+      "num": 671488,
       "word": "尤长靖 干嘛抢我话筒",
       "onboard_time": 1730172319,
       "rank": 41,
@@ -2123,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399674,
-      "num": 564350,
-      "word": "王浩泽本硕毕业于东南大学",
-      "onboard_time": 1730171179,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398163,
       "num": 252914,
       "word": "肖战新片射雕英雄传看点推介",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1730163979,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 391099,
+      "num": 391099,
+      "word": "冷门但巨巨巨好看的小说",
+      "onboard_time": 1730173880,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 391040,
@@ -2387,14 +2419,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 345637,
-      "num": 345637,
-      "word": "冷门但巨巨巨好看的小说",
-      "onboard_time": 1730173880,
-      "rank": 34,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 345073,
       "num": 345073,
       "word": "余华英丈夫越狱后多次拐卖儿童",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 342292,
+      "num": 342292,
+      "word": "犹太教授建议犹太人学中文",
+      "onboard_time": 1730174901,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336628,
@@ -2529,14 +2561,6 @@
       "onboard_time": 1730072237,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320969,
-      "num": 320969,
-      "word": "犹太教授建议犹太人学中文",
-      "onboard_time": 1730174901,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319095,
@@ -3067,6 +3091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 259165,
+      "num": 259165,
+      "word": "HYBE就报告书道歉",
+      "onboard_time": 1730176762,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258337,
       "num": 389668,
       "word": "拜登回应以色列袭击伊朗",
@@ -3443,6 +3475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230169,
+      "num": 552061,
+      "word": "刺杀小说家2将于年底杀青",
+      "onboard_time": 1730173280,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229927,
       "num": 229927,
       "word": "喻言贴脸开大李莎旻子总卖关子",
@@ -3457,14 +3497,6 @@
       "onboard_time": 1730039840,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229462,
-      "num": 229462,
-      "word": "男子做兼职主播月入3毛",
-      "onboard_time": 1730175920,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229069,
@@ -3696,14 +3728,6 @@
       "word": "赵丽颖辛芷蕾红毯拍立得",
       "onboard_time": 1730113519,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 216682,
-      "num": 552061,
-      "word": "刺杀小说家2将于年底杀青",
-      "onboard_time": 1730173280,
-      "rank": 43,
       "category": "电影"
     },
     {
@@ -5539,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132337,
+      "num": 554679,
+      "word": "好团圆新娘被新郎通知结婚",
+      "onboard_time": 1730174359,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132328,
       "num": 132328,
       "word": "审判大梦归离",
@@ -5552,14 +5584,6 @@
       "word": "大梦归离不知道在燃什么",
       "onboard_time": 1730131817,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 554679,
-      "word": "好团圆新娘被新郎通知结婚",
-      "onboard_time": 1730174359,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -6299,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88270,
+      "num": 669767,
+      "word": "江苏第一位农民副县长三蟒被抓",
+      "onboard_time": 1730175501,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87496,
       "num": 87496,
       "word": "遭货车拦腰碾压男孩已入学幼儿园",
@@ -6432,14 +6464,6 @@
       "word": "全球约70%人工宝石产自广西梧州",
       "onboard_time": 1729965974,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71580,
-      "num": 553154,
-      "word": "江苏第一位农民副县长三蟒被抓",
-      "onboard_time": 1730175501,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6665,6 +6689,14 @@
       "onboard_time": 1730110578,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54734,
+      "num": 679417,
+      "word": "A股又一只10倍股诞生",
+      "onboard_time": 1730176821,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54179,
@@ -6931,6 +6963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36306,
+      "num": 556117,
+      "word": "享界S9先享一步",
+      "onboard_time": 1730172979,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36033,
       "num": 36033,
       "word": "摩托车特技表演失控冲向人群",
@@ -7155,14 +7195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28757,
-      "num": 556117,
-      "word": "享界S9先享一步",
-      "onboard_time": 1730172979,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 28684,
       "num": 309142,
       "word": "马自达EZ6致敬漂移的青春",
@@ -7177,6 +7209,14 @@
       "onboard_time": 1730004500,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28513,
+      "num": 674509,
+      "word": "消费者希望双11怎么简单怎么来",
+      "onboard_time": 1730176461,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27751,
@@ -7331,6 +7371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21986,
+      "num": 1301375,
+      "word": "文化中国行看夜景下的文化景观",
+      "onboard_time": 1730175080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21959,
       "num": 298356,
       "word": "网络水军炮制买家秀成了一门生意",
@@ -7400,14 +7448,6 @@
       "word": "5岁女孩被拐26年后终于回家",
       "onboard_time": 1730060591,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17650,
-      "num": 966639,
-      "word": "文化中国行看夜景下的文化景观",
-      "onboard_time": 1730175080,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

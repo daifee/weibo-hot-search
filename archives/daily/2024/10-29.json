@@ -1,21 +1,21 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730176053295,
+  "endTime": 1730176919166,
   "band_list": [
+    {
+      "raw_hot": 2985991,
+      "num": 2985991,
+      "word": "生育补贴",
+      "onboard_time": 1730172679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2831645,
       "num": 2831645,
       "word": "19岁中专生拿了个世界冠军当生日礼物",
       "onboard_time": 1730160318,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2704113,
-      "num": 2704113,
-      "word": "生育补贴",
-      "onboard_time": 1730172679,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1720106,
+      "num": 677779,
+      "word": "南京南站",
+      "onboard_time": 1730172439,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1687894,
       "num": 1687894,
       "word": "封神第二部定档",
@@ -51,12 +59,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1687411,
-      "num": 561698,
-      "word": "南京南站",
-      "onboard_time": 1730172439,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 1521970,
+      "num": 676271,
+      "word": "麦琳 闲鱼",
+      "onboard_time": 1730175561,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1407968,
+      "num": 1407968,
+      "word": "高雅抱了",
+      "onboard_time": 1730176341,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1403980,
@@ -235,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680731,
+      "num": 680731,
+      "word": "王浩泽本硕毕业于东南大学",
+      "onboard_time": 1730171179,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658816,
       "num": 379854,
       "word": "绝对不能在乡镇开女装店",
@@ -267,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588702,
+      "num": 672844,
+      "word": "赵露思敦煌神女飞天舞",
+      "onboard_time": 1730173280,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583621,
       "num": 583621,
       "word": "虞书欣带爷爷去成都找林大厨",
       "onboard_time": 1730157916,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 569108,
-      "num": 569108,
-      "word": "赵露思敦煌神女飞天舞",
-      "onboard_time": 1730173280,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 564568,
@@ -305,14 +329,6 @@
       "onboard_time": 1730129060,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 549917,
-      "num": 549917,
-      "word": "麦琳 闲鱼",
-      "onboard_time": 1730175561,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 547955,
@@ -395,6 +411,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462003,
+      "num": 672338,
+      "word": "心动的信号",
+      "onboard_time": 1730169919,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 454025,
+      "num": 678163,
+      "word": "男子做兼职主播月入3毛",
+      "onboard_time": 1730175920,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449563,
+      "num": 449563,
+      "word": "灏琪cp官宣",
+      "onboard_time": 1730176521,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448009,
       "num": 405815,
       "word": "珠帘玉幕定档",
@@ -409,14 +449,6 @@
       "onboard_time": 1730174060,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436204,
-      "num": 557831,
-      "word": "心动的信号",
-      "onboard_time": 1730169919,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 420814,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 407579,
-      "num": 556879,
+      "num": 671488,
       "word": "尤长靖 干嘛抢我话筒",
       "onboard_time": 1730172319,
       "rank": 41,
@@ -475,20 +507,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 399674,
-      "num": 564350,
-      "word": "王浩泽本硕毕业于东南大学",
-      "onboard_time": 1730171179,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394580,
       "num": 394580,
       "word": "神十八乘组11月4日回家",
       "onboard_time": 1730163979,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 391099,
+      "num": 391099,
+      "word": "冷门但巨巨巨好看的小说",
+      "onboard_time": 1730173880,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 379996,
@@ -515,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345637,
-      "num": 345637,
-      "word": "冷门但巨巨巨好看的小说",
-      "onboard_time": 1730173880,
-      "rank": 34,
-      "category": "读书作家"
+      "raw_hot": 342292,
+      "num": 342292,
+      "word": "犹太教授建议犹太人学中文",
+      "onboard_time": 1730174901,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336628,
@@ -537,14 +569,6 @@
       "onboard_time": 1730175799,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 320969,
-      "num": 320969,
-      "word": "犹太教授建议犹太人学中文",
-      "onboard_time": 1730174901,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320804,
@@ -643,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259165,
+      "num": 259165,
+      "word": "HYBE就报告书道歉",
+      "onboard_time": 1730176762,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256852,
       "num": 256852,
       "word": "每个面包切开都有小惊喜",
@@ -731,12 +763,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229462,
-      "num": 229462,
-      "word": "男子做兼职主播月入3毛",
-      "onboard_time": 1730175920,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 230169,
+      "num": 552061,
+      "word": "刺杀小说家2将于年底杀青",
+      "onboard_time": 1730173280,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 229119,
@@ -769,14 +801,6 @@
       "onboard_time": 1730163738,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216682,
-      "num": 552061,
-      "word": "刺杀小说家2将于年底杀青",
-      "onboard_time": 1730173280,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 215330,
@@ -1091,19 +1115,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132337,
+      "num": 554679,
+      "word": "好团圆新娘被新郎通知结婚",
+      "onboard_time": 1730174359,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132239,
       "num": 132239,
       "word": "大梦归离不知道在燃什么",
       "onboard_time": 1730131817,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 554679,
-      "word": "好团圆新娘被新郎通知结婚",
-      "onboard_time": 1730174359,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1283,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88270,
+      "num": 669767,
+      "word": "江苏第一位农民副县长三蟒被抓",
+      "onboard_time": 1730175501,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87927,
       "num": 128204,
       "word": "侯明昊翻牌一个字回复所有",
@@ -1355,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71580,
-      "num": 553154,
-      "word": "江苏第一位农民副县长三蟒被抓",
-      "onboard_time": 1730175501,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70629,
       "num": 70629,
       "word": "卖房中介说杭州的记者怎么这么厉害",
@@ -1392,6 +1416,14 @@
       "word": "中国公开征集载人月球车名称",
       "onboard_time": 1730170158,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54734,
+      "num": 679417,
+      "word": "A股又一只10倍股诞生",
+      "onboard_time": 1730176821,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1427,6 +1459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36306,
+      "num": 556117,
+      "word": "享界S9先享一步",
+      "onboard_time": 1730172979,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33755,
       "num": 51078,
       "word": "一批自媒体因捏造军事谣言被处置",
@@ -1451,12 +1491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28757,
-      "num": 556117,
-      "word": "享界S9先享一步",
-      "onboard_time": 1730172979,
-      "rank": 42,
-      "category": "汽车"
+      "raw_hot": 28513,
+      "num": 674509,
+      "word": "消费者希望双11怎么简单怎么来",
+      "onboard_time": 1730176461,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27068,
@@ -1483,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21986,
+      "num": 1301375,
+      "word": "文化中国行看夜景下的文化景观",
+      "onboard_time": 1730175080,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21679,
       "num": 21679,
       "word": "神十八航天员准备回家啦",
@@ -1497,14 +1545,6 @@
       "onboard_time": 1730142071,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17650,
-      "num": 966639,
-      "word": "文化中国行看夜景下的文化景观",
-      "onboard_time": 1730175080,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16792,
