@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730205810935,
+  "endTime": 1730206804743,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -137,6 +137,14 @@
       "onboard_time": 1730025438,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2239474,
+      "num": 2239474,
+      "word": "心动的信号 高雅cp官宣",
+      "onboard_time": 1730200341,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2235776,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121576,
+      "num": 1121576,
+      "word": "小米15价格",
+      "onboard_time": 1730204302,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1118005,
       "num": 1118005,
       "word": "知名主持人顾国宁突发疾病逝世",
@@ -809,14 +825,6 @@
       "onboard_time": 1730029160,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1083634,
-      "num": 1083634,
-      "word": "小米15价格",
-      "onboard_time": 1730204302,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 1075947,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 844663,
-      "num": 379825,
+      "num": 404070,
       "word": "刘亦菲梦女",
       "onboard_time": 1730202441,
       "rank": 20,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1730111540,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 545906,
+      "num": 818427,
+      "word": "南京市区一天发生两起野猪目击事件",
+      "onboard_time": 1730203581,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545506,
@@ -2803,6 +2819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 360316,
+      "num": 360316,
+      "word": "小米15钻石",
+      "onboard_time": 1730205501,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 360204,
       "num": 598397,
       "word": "虞书欣新剧重生之邪恶小兰花",
@@ -3555,6 +3579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 267194,
+      "num": 267194,
+      "word": "小米15颜色",
+      "onboard_time": 1730205319,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 266822,
       "num": 266822,
       "word": "杨紫海边碎片随拍",
@@ -3849,14 +3881,6 @@
       "onboard_time": 1730098759,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247271,
-      "num": 818427,
-      "word": "南京市区一天发生两起野猪目击事件",
-      "onboard_time": 1730203581,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247236,
@@ -4236,7 +4260,7 @@
     },
     {
       "raw_hot": 226649,
-      "num": 226649,
+      "num": 244440,
       "word": "赵牧辰通宵给阮小咪做告白礼物",
       "onboard_time": 1730205081,
       "rank": 26,
@@ -4273,6 +4297,14 @@
       "onboard_time": 1729953620,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226203,
+      "num": 226203,
+      "word": "大梦归离和黑神话悟空同一取景地",
+      "onboard_time": 1730205980,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 225724,
@@ -4449,14 +4481,6 @@
       "onboard_time": 1730003178,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 217823,
-      "num": 217823,
-      "word": "小米15颜色",
-      "onboard_time": 1730205319,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 217547,
@@ -4771,6 +4795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200878,
+      "num": 200878,
+      "word": "丞磊妆造",
+      "onboard_time": 1730206161,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200615,
       "num": 200615,
       "word": "近30位北大程序员集体对战AI",
@@ -4833,6 +4865,14 @@
       "onboard_time": 1729994718,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199155,
+      "num": 199155,
+      "word": "放狠话家里人死了先臭着领导道歉",
+      "onboard_time": 1730206219,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199091,
@@ -5017,6 +5057,14 @@
       "onboard_time": 1730083038,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194077,
+      "num": 184376,
+      "word": "陈哲远五连跪也不影响吃播",
+      "onboard_time": 1730206280,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193759,
@@ -5235,6 +5283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185497,
+      "num": 185497,
+      "word": "官方回应秦皇岛空气刺鼻",
+      "onboard_time": 1730205560,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185481,
       "num": 170226,
       "word": "麦当劳bob",
@@ -5336,6 +5392,14 @@
       "word": "单依纯回复粉丝评论",
       "onboard_time": 1730030779,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181622,
+      "num": 181622,
+      "word": "赵让 谢谢大家认可张星特是我儿子",
+      "onboard_time": 1730202680,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -5651,14 +5715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170890,
-      "num": 170890,
-      "word": "赵让 谢谢大家认可张星特是我儿子",
-      "onboard_time": 1730202680,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170011,
       "num": 170011,
       "word": "罗慎远又和罗宜宁上一个户口",
@@ -5713,14 +5769,6 @@
       "onboard_time": 1730016257,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168277,
-      "num": 168277,
-      "word": "小米15钻石",
-      "onboard_time": 1730205501,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 168174,
@@ -5817,6 +5865,14 @@
       "onboard_time": 1730187618,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165122,
+      "num": 165122,
+      "word": "成都现灰色不明飞行物",
+      "onboard_time": 1730206520,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165029,
@@ -6395,14 +6451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146291,
-      "num": 180494,
-      "word": "官方回应秦皇岛空气刺鼻",
-      "onboard_time": 1730205560,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145741,
       "num": 145741,
       "word": "在浙江农村吃席被震惊了",
@@ -6747,6 +6795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135470,
+      "num": 193203,
+      "word": "规划局负责人躲避群众问题跳窗逃离",
+      "onboard_time": 1730203761,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134975,
       "num": 134975,
       "word": "美方企图诱骗中方人员投靠中情局",
@@ -7027,6 +7083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126262,
+      "num": 660762,
+      "word": "野猪闯入高铁线路并非首次发生",
+      "onboard_time": 1730206340,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125694,
       "num": 125694,
       "word": "dl天秤",
@@ -7121,6 +7185,14 @@
       "onboard_time": 1730089519,
       "rank": 19,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 121278,
+      "num": 404735,
+      "word": "陈赫说搞砸一切是邓海洋的强项",
+      "onboard_time": 1730205920,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 120625,
@@ -7457,14 +7529,6 @@
       "onboard_time": 1730191339,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103164,
-      "num": 193203,
-      "word": "规划局负责人躲避群众问题跳窗逃离",
-      "onboard_time": 1730203761,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102098,
@@ -7987,6 +8051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57073,
+      "num": 1208458,
+      "word": "从神五到神十九",
+      "onboard_time": 1730205799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56348,
       "num": 424131,
       "word": "十个勤天在天猫双11上市了",
@@ -8240,6 +8312,14 @@
       "word": "女子与丈夫吵架徒手攀爬外墙被困",
       "onboard_time": 1730008818,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39148,
+      "num": 559521,
+      "word": "医院回应重复收费等被罚481万",
+      "onboard_time": 1730206700,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
