@@ -1,0 +1,410 @@
+{
+  "runTime": 1730211705096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2213965,
+        "num": 2213965,
+        "word": "成都现灰色不明飞行物",
+        "onboard_time": 1730206520,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325850,
+        "num": 1325850,
+        "word": "小米SU7 Ultra",
+        "onboard_time": 1730209819,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64674,
+        "num": 1029890,
+        "word": "从神五到神十九",
+        "onboard_time": 1730205799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023700,
+        "num": 1023700,
+        "word": "小米发布会",
+        "onboard_time": 1730198779,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 869208,
+        "num": 869208,
+        "word": "这个世界乱糟糟而你干干净净",
+        "onboard_time": 1730207719,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836633,
+        "num": 836633,
+        "word": "心动的信号 高雅cp官宣",
+        "onboard_time": 1730200341,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714414,
+        "num": 714414,
+        "word": "小米15",
+        "onboard_time": 1730202680,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 689028,
+        "num": 689028,
+        "word": "生育补贴",
+        "onboard_time": 1730172679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417495,
+        "num": 682125,
+        "word": "爸爸去哪儿的含金量还在上升",
+        "onboard_time": 1730191880,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28810,
+        "num": 674348,
+        "word": "郭刚堂说24年不敢逢年过节",
+        "onboard_time": 1730211142,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18676,
+        "num": 661739,
+        "word": "全国网络普法行安徽站",
+        "onboard_time": 1730209761,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1941684,
+        "num": 648204,
+        "word": "放狠话家里人死了先臭着领导道歉",
+        "onboard_time": 1730206219,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107125,
+        "num": 639478,
+        "word": "小米15或成iPhone杀手",
+        "onboard_time": 1730209460,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 820356,
+        "num": 631309,
+        "word": "被撞身亡机械师仅有20多岁",
+        "onboard_time": 1730199801,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16490,
+        "num": 622348,
+        "word": "郭刚堂希望被告人交代更多拐卖细节",
+        "onboard_time": 1730211200,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776114,
+        "num": 603296,
+        "word": "豪咪cp官宣",
+        "onboard_time": 1730199140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603023,
+        "num": 603023,
+        "word": "周雨彤 韩火火",
+        "onboard_time": 1730187679,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522787,
+        "num": 522787,
+        "word": "小米15价格",
+        "onboard_time": 1730204302,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401958,
+        "num": 401958,
+        "word": "南京市区一天发生两起野猪目击事件",
+        "onboard_time": 1730203581,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369349,
+        "num": 399954,
+        "word": "心动的信号7成了五对",
+        "onboard_time": 1730201240,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1052915,
+        "num": 399077,
+        "word": "九块九害死了3万块",
+        "onboard_time": 1730209039,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 713429,
+        "num": 396666,
+        "word": "刘亦菲梦女",
+        "onboard_time": 1730202441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687559,
+        "num": 394530,
+        "word": "赵牧辰哭了",
+        "onboard_time": 1730201600,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521953,
+        "num": 391715,
+        "word": "金泰亨慰问闵熙珍",
+        "onboard_time": 1730209881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380541,
+        "num": 391009,
+        "word": "杨紫直播",
+        "onboard_time": 1730207841,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389518,
+        "num": 389518,
+        "word": "郭艾伦CBA生涯第500场",
+        "onboard_time": 1730210000,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324546,
+        "num": 324546,
+        "word": "毓言cp拥吻",
+        "onboard_time": 1730211142,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324292,
+        "num": 324292,
+        "word": "孙乐言哭了",
+        "onboard_time": 1730199861,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235556,
+        "num": 293665,
+        "word": "侯明昊眼睛怎么了",
+        "onboard_time": 1730202980,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219263,
+        "num": 285788,
+        "word": "孙志刚受贿超8亿元被判死缓",
+        "onboard_time": 1730198058,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280678,
+        "num": 280678,
+        "word": "拉踩友商",
+        "onboard_time": 1730208500,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264139,
+        "num": 264139,
+        "word": "小米洗衣机",
+        "onboard_time": 1730210601,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234104,
+        "num": 234104,
+        "word": "点赞夫胜宽的爱豆",
+        "onboard_time": 1730211502,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233757,
+        "num": 233757,
+        "word": "雨迭cp官宣",
+        "onboard_time": 1730201421,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222358,
+        "num": 222358,
+        "word": "小米全面支持苹果设备",
+        "onboard_time": 1730201781,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208625,
+        "num": 208625,
+        "word": "小米15系列价格",
+        "onboard_time": 1730198720,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208588,
+        "num": 208588,
+        "word": "丞磊妆造",
+        "onboard_time": 1730206161,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205471,
+        "num": 205471,
+        "word": "成都一男子在网吧内持刀行凶",
+        "onboard_time": 1730200221,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203624,
+        "num": 203624,
+        "word": "狼队对战RW",
+        "onboard_time": 1730204961,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198410,
+        "num": 198410,
+        "word": "好团圆小姑子吃醋剪碎嫂子婚服",
+        "onboard_time": 1730211200,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196521,
+        "num": 196521,
+        "word": "卢伟冰口误",
+        "onboard_time": 1730208320,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193874,
+        "num": 193874,
+        "word": "iPhone录音是刚需还是鸡肋",
+        "onboard_time": 1730207000,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191314,
+        "num": 191314,
+        "word": "中方决定对芬兰单方面免签",
+        "onboard_time": 1730210360,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180177,
+        "num": 180177,
+        "word": "90后农村娃拿到太空船票",
+        "onboard_time": 1730211622,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169727,
+        "num": 169727,
+        "word": "官方回应秦皇岛空气刺鼻",
+        "onboard_time": 1730205560,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166740,
+        "num": 166740,
+        "word": "领导放狠话家里人死了先臭着",
+        "onboard_time": 1730184019,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165785,
+        "num": 165785,
+        "word": "翔霖",
+        "onboard_time": 1730199199,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164878,
+        "num": 164878,
+        "word": "HYBE报告评价babymonster",
+        "onboard_time": 1730211562,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160727,
+        "num": 160727,
+        "word": "小米空调",
+        "onboard_time": 1730210780,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154746,
+        "num": 154746,
+        "word": "恋与深空",
+        "onboard_time": 1730211502,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}

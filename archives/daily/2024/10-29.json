@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730209315615,
+  "endTime": 1730211705096,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2213965,
+      "num": 2213965,
+      "word": "成都现灰色不明飞行物",
+      "onboard_time": 1730206520,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2094044,
       "num": 2094044,
       "word": "预祝美国两名航天员安全归来",
@@ -97,6 +105,14 @@
       "onboard_time": 1730162960,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1941684,
+      "num": 648204,
+      "word": "放狠话家里人死了先臭着领导道歉",
+      "onboard_time": 1730206219,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1781120,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1535487,
-      "num": 1535487,
-      "word": "成都现灰色不明飞行物",
-      "onboard_time": 1730206520,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1521970,
       "num": 788959,
       "word": "麦琳 闲鱼",
@@ -233,6 +241,14 @@
       "onboard_time": 1730168896,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325850,
+      "num": 1325850,
+      "word": "小米SU7 Ultra",
+      "onboard_time": 1730191160,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 1315593,
@@ -339,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1052915,
+      "num": 399077,
+      "word": "九块九害死了3万块",
+      "onboard_time": 1730209039,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1009842,
       "num": 426253,
       "word": "4岁男孩入住酒店后确诊川崎病",
@@ -425,6 +449,14 @@
       "onboard_time": 1730129180,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869208,
+      "num": 869208,
+      "word": "这个世界乱糟糟而你干干净净",
+      "onboard_time": 1730207719,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 862525,
@@ -739,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 550257,
-      "num": 550257,
-      "word": "这个世界乱糟糟而你干干净净",
-      "onboard_time": 1730207719,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547955,
       "num": 547955,
       "word": "你想过为什么买家晒图一模一样吗",
@@ -776,6 +800,14 @@
       "word": "白磷型人格",
       "onboard_time": 1730172018,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 521953,
+      "num": 391715,
+      "word": "金泰亨慰问闵熙珍",
+      "onboard_time": 1730209881,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -971,6 +1003,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 389518,
+      "num": 389518,
+      "word": "郭艾伦CBA生涯第500场",
+      "onboard_time": 1730210000,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389239,
       "num": 389239,
       "word": "王琪tomo亲了",
@@ -987,20 +1027,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386467,
-      "num": 386467,
-      "word": "放狠话家里人死了先臭着领导道歉",
-      "onboard_time": 1730206219,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385673,
       "num": 385673,
       "word": "白敬亭 和狗撞名还撞衫",
       "onboard_time": 1730178201,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380541,
+      "num": 391009,
+      "word": "杨紫直播",
+      "onboard_time": 1730207841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 379996,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1730200221,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373683,
-      "num": 373683,
-      "word": "杨紫直播",
-      "onboard_time": 1730207841,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 370160,
@@ -1099,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324546,
+      "num": 324546,
+      "word": "毓言cp拥吻",
+      "onboard_time": 1730211142,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320804,
       "num": 369717,
       "word": "向佐再回应扇巴掌行为",
@@ -1163,22 +1203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 298598,
-      "num": 241799,
-      "word": "九块九害死了3万块",
-      "onboard_time": 1730209039,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 293877,
-      "num": 293877,
-      "word": "小米SU7 Ultra",
-      "onboard_time": 1730191160,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 291858,
       "num": 291858,
       "word": "430万购买法拍房内部装修遭毁坏",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1730188700,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280678,
+      "num": 280678,
+      "word": "拉踩友商",
+      "onboard_time": 1730208500,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 279953,
@@ -1283,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264139,
+      "num": 264139,
+      "word": "小米洗衣机",
+      "onboard_time": 1730210601,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 263726,
       "num": 650102,
       "word": "神十九乘组明年4月下旬或5月上旬返回",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1730156896,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261799,
-      "num": 240021,
-      "word": "拉踩友商",
-      "onboard_time": 1730208500,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 261117,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1730176821,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234104,
+      "num": 234104,
+      "word": "点赞夫胜宽的爱豆",
+      "onboard_time": 1730211502,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 233940,
@@ -1675,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208588,
+      "num": 245087,
+      "word": "丞磊妆造",
+      "onboard_time": 1730206161,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206822,
       "num": 206822,
       "word": "小米15外观",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1730103079,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203624,
+      "num": 203624,
+      "word": "狼队对战RW",
+      "onboard_time": 1730204961,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 203007,
@@ -1755,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200878,
-      "num": 245087,
-      "word": "丞磊妆造",
-      "onboard_time": 1730206161,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200208,
       "num": 200208,
       "word": "封神第二部看点推介",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1730204659,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198410,
+      "num": 198410,
+      "word": "好团圆小姑子吃醋剪碎嫂子婚服",
+      "onboard_time": 1730211200,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 198288,
@@ -1859,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "iPhone录音是刚需还是鸡肋",
+      "onboard_time": 1730207000,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193146,
       "num": 193146,
       "word": "时代少年团vlog",
@@ -1883,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191314,
+      "num": 191314,
+      "word": "中方决定对芬兰单方面免签",
+      "onboard_time": 1730210360,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190689,
       "num": 190689,
       "word": "孔雪儿cha了whiplash",
@@ -1905,14 +1977,6 @@
       "onboard_time": 1730170038,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189614,
-      "num": 189614,
-      "word": "iPhone录音是刚需还是鸡肋",
-      "onboard_time": 1730207000,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 186364,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1730190618,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180177,
+      "num": 180177,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180117,
@@ -2179,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164878,
+      "num": 164878,
+      "word": "HYBE报告评价babymonster",
+      "onboard_time": 1730211562,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164778,
       "num": 164778,
       "word": "陈哲远直播打英雄联盟",
@@ -2235,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160727,
+      "num": 160727,
+      "word": "小米空调",
+      "onboard_time": 1730210780,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159171,
       "num": 159171,
       "word": "陈都灵新剧好一个主心蛊",
@@ -2281,6 +2369,14 @@
       "onboard_time": 1730187259,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154746,
+      "num": 154746,
+      "word": "恋与深空",
+      "onboard_time": 1730211502,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 154410,
@@ -2409,14 +2505,6 @@
       "onboard_time": 1730180539,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142302,
-      "num": 142302,
-      "word": "狼队对战RW",
-      "onboard_time": 1730204961,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 141384,
@@ -2683,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107125,
+      "num": 639478,
+      "word": "小米15或成iPhone杀手",
+      "onboard_time": 1730209460,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104479,
       "num": 104479,
       "word": "白鹿纯白千金风",
@@ -2899,19 +2995,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64674,
+      "num": 1236134,
+      "word": "从神五到神十九",
+      "onboard_time": 1730205799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63175,
       "num": 393953,
       "word": "中国公开征集载人月球车名称",
       "onboard_time": 1730170158,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57073,
-      "num": 1236134,
-      "word": "从神五到神十九",
-      "onboard_time": 1730205799,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3099,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28810,
+      "num": 674348,
+      "word": "郭刚堂说24年不敢逢年过节",
+      "onboard_time": 1730211142,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28513,
       "num": 674509,
       "word": "消费者希望双11怎么简单怎么来",
@@ -3211,11 +3315,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18676,
+      "num": 661739,
+      "word": "全国网络普法行安徽站",
+      "onboard_time": 1730209761,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16792,
       "num": 45854,
       "word": "李晓鹏受贿案一审开庭",
       "onboard_time": 1730151612,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16490,
+      "num": 622348,
+      "word": "郭刚堂希望被告人交代更多拐卖细节",
+      "onboard_time": 1730211200,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

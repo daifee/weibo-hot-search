@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730209315615,
+  "endTime": 1730211705096,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2213965,
+      "num": 2213965,
+      "word": "成都现灰色不明飞行物",
+      "onboard_time": 1730206520,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2210049,
       "num": 2210049,
       "word": "林诗栋vs阿拉米扬",
@@ -1712,6 +1720,14 @@
       "word": "臭肉学校董事长无视最后提问插兜离席",
       "onboard_time": 1729302019,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1941684,
+      "num": 648204,
+      "word": "放狠话家里人死了先臭着领导道歉",
+      "onboard_time": 1730206219,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3027,14 +3043,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1535487,
-      "num": 1535487,
-      "word": "成都现灰色不明飞行物",
-      "onboard_time": 1730206520,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1535031,
       "num": 317482,
       "word": "秦霄贤感谢粉丝陪伴",
@@ -4097,6 +4105,14 @@
       "onboard_time": 1728956598,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325850,
+      "num": 1325850,
+      "word": "小米SU7 Ultra",
+      "onboard_time": 1730191160,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 1324966,
@@ -6273,6 +6289,14 @@
       "onboard_time": 1728643279,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1052915,
+      "num": 399077,
+      "word": "九块九害死了3万块",
+      "onboard_time": 1730209039,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1052356,
@@ -8633,6 +8657,14 @@
       "onboard_time": 1729504159,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869208,
+      "num": 869208,
+      "word": "这个世界乱糟糟而你干干净净",
+      "onboard_time": 1730207719,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 869062,
@@ -15955,14 +15987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 550257,
-      "num": 550257,
-      "word": "这个世界乱糟糟而你干干净净",
-      "onboard_time": 1730207719,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 550223,
       "num": 550223,
       "word": "宣言支持巴勒斯坦成为联合国正式会员国",
@@ -16881,6 +16905,14 @@
       "onboard_time": 1728024022,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521953,
+      "num": 391715,
+      "word": "金泰亨慰问闵熙珍",
+      "onboard_time": 1730209881,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 521487,
@@ -22027,6 +22059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 389518,
+      "num": 389518,
+      "word": "郭艾伦CBA生涯第500场",
+      "onboard_time": 1730210000,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389336,
       "num": 285115,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
@@ -22145,14 +22185,6 @@
       "onboard_time": 1730184559,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386467,
-      "num": 386467,
-      "word": "放狠话家里人死了先臭着领导道歉",
-      "onboard_time": 1730206219,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386453,
@@ -22465,6 +22497,14 @@
       "onboard_time": 1729502900,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 380541,
+      "num": 391009,
+      "word": "杨紫直播",
+      "onboard_time": 1730207841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 380523,
@@ -22921,14 +22961,6 @@
       "onboard_time": 1728179658,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373683,
-      "num": 373683,
-      "word": "杨紫直播",
-      "onboard_time": 1730207841,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 373660,
@@ -25795,6 +25827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 324546,
+      "num": 324546,
+      "word": "毓言cp拥吻",
+      "onboard_time": 1730211142,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324298,
       "num": 324298,
       "word": "太平年官宣",
@@ -27659,14 +27699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298598,
-      "num": 241799,
-      "word": "九块九害死了3万块",
-      "onboard_time": 1730209039,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 298571,
       "num": 328191,
       "word": "余华英死刑宣判现场",
@@ -28121,14 +28153,6 @@
       "onboard_time": 1730015777,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293877,
-      "num": 293877,
-      "word": "小米SU7 Ultra",
-      "onboard_time": 1730191160,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 293864,
@@ -29489,6 +29513,14 @@
       "onboard_time": 1729595239,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280678,
+      "num": 280678,
+      "word": "拉踩友商",
+      "onboard_time": 1730208500,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 280594,
@@ -31171,6 +31203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264139,
+      "num": 264139,
+      "word": "小米洗衣机",
+      "onboard_time": 1730210601,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 264055,
       "num": 264055,
       "word": "孙颖莎王楚钦再度领衔世界第一",
@@ -31425,14 +31465,6 @@
       "onboard_time": 1728915382,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 261799,
-      "num": 240021,
-      "word": "拉踩友商",
-      "onboard_time": 1730208500,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 261785,
@@ -34625,6 +34657,14 @@
       "onboard_time": 1730033300,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234104,
+      "num": 234104,
+      "word": "点赞夫胜宽的爱豆",
+      "onboard_time": 1730211502,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 234074,
@@ -39043,6 +39083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208588,
+      "num": 245087,
+      "word": "丞磊妆造",
+      "onboard_time": 1730206161,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208584,
       "num": 208584,
       "word": "小猫没夹住发出呱叫声",
@@ -40403,6 +40451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 203624,
+      "num": 203624,
+      "word": "狼队对战RW",
+      "onboard_time": 1730204961,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203569,
       "num": 203569,
       "word": "00后大学生中华血脉开始觉醒",
@@ -41203,14 +41259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200878,
-      "num": 245087,
-      "word": "丞磊妆造",
-      "onboard_time": 1730206161,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200803,
       "num": 200803,
       "word": "ON说Bin抽象",
@@ -41921,6 +41969,14 @@
       "onboard_time": 1728818722,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198410,
+      "num": 198410,
+      "word": "好团圆小姑子吃醋剪碎嫂子婚服",
+      "onboard_time": 1730211200,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 198389,
@@ -43411,6 +43467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "iPhone录音是刚需还是鸡肋",
+      "onboard_time": 1730207000,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193800,
       "num": 193800,
       "word": "林高远林诗栋3比1高承睿黄彦诚",
@@ -44307,6 +44371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191314,
+      "num": 191314,
+      "word": "中方决定对芬兰单方面免签",
+      "onboard_time": 1730210360,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191309,
       "num": 191309,
       "word": "JDG狼人杀这把高端局",
@@ -44897,14 +44969,6 @@
       "onboard_time": 1728721640,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189614,
-      "num": 189614,
-      "word": "iPhone录音是刚需还是鸡肋",
-      "onboard_time": 1730207000,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 189599,
@@ -47481,6 +47545,14 @@
       "onboard_time": 1728379039,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180177,
+      "num": 180177,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180163,
@@ -51427,6 +51499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164878,
+      "num": 164878,
+      "word": "HYBE报告评价babymonster",
+      "onboard_time": 1730211562,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164874,
       "num": 164874,
       "word": "以称出动F35等百余架飞机袭击伊朗",
@@ -52569,6 +52649,14 @@
       "onboard_time": 1728217399,
       "rank": 42,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 160727,
+      "num": 160727,
+      "word": "小米空调",
+      "onboard_time": 1730210780,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 160723,
@@ -58001,14 +58089,6 @@
       "onboard_time": 1729762998,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142302,
-      "num": 142302,
-      "word": "狼队对战RW",
-      "onboard_time": 1730204961,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 142301,
@@ -67499,6 +67579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107125,
+      "num": 639478,
+      "word": "小米15或成iPhone杀手",
+      "onboard_time": 1730209460,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107004,
       "num": 229168,
       "word": "刘诗雯说很珍惜上场的每一场比赛",
@@ -74171,6 +74259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64674,
+      "num": 1236134,
+      "word": "从神五到神十九",
+      "onboard_time": 1730205799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64602,
       "num": 185386,
       "word": "把翻包当传统的态度只会让人反感",
@@ -75552,14 +75648,6 @@
       "word": "江苏气温跌到个位数",
       "onboard_time": 1727863699,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57073,
-      "num": 1236134,
-      "word": "从神五到神十九",
-      "onboard_time": 1730205799,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -82827,6 +82915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28810,
+      "num": 674348,
+      "word": "郭刚堂说24年不敢逢年过节",
+      "onboard_time": 1730211142,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28805,
       "num": 29466,
       "word": "这一刻国旗和红领巾都更鲜艳了",
@@ -85811,6 +85907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18676,
+      "num": 661739,
+      "word": "全国网络普法行安徽站",
+      "onboard_time": 1730209761,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18634,
       "num": 21126,
       "word": "多地阿斯利康药代曾频繁改基因报告",
@@ -86263,6 +86367,14 @@
       "num": 381175,
       "word": "相关部门证实颜料师皮划艇视频为水库",
       "onboard_time": 1728729319,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16490,
+      "num": 622348,
+      "word": "郭刚堂希望被告人交代更多拐卖细节",
+      "onboard_time": 1730211200,
       "rank": 14,
       "category": "社会新闻"
     },
