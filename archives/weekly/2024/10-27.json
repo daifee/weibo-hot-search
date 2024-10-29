@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730166259623,
+  "endTime": 1730167314161,
   "band_list": [
     {
       "raw_hot": 3910840,
@@ -1107,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649976,
+      "num": 649976,
+      "word": "神十九乘组蔡旭哲宋令东王浩泽",
+      "onboard_time": 1730163079,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648279,
       "num": 368644,
       "word": "用人民币感受韩国物价",
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498449,
+      "num": 616141,
+      "word": "中国人要登月了",
+      "onboard_time": 1730164638,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496464,
       "num": 496464,
       "word": "爷爷床头柜放罂粟孙子报警",
@@ -1595,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491672,
+      "num": 491672,
+      "word": "夫胜宽发长文回应HYBE报告书",
+      "onboard_time": 1730161879,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490983,
       "num": 554623,
       "word": "黄磊喊话台下何老师别吃啊",
@@ -1625,14 +1649,6 @@
       "onboard_time": 1730116219,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 485657,
-      "num": 485657,
-      "word": "夫胜宽发长文回应HYBE报告书",
-      "onboard_time": 1730161879,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 484601,
@@ -1819,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416453,
-      "num": 416453,
-      "word": "神十九乘组蔡旭哲宋令东王浩泽",
-      "onboard_time": 1730163079,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415599,
       "num": 341845,
       "word": "电影今年二十二12月全国上映",
@@ -1979,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379996,
+      "num": 379996,
+      "word": "神十九乘组有两名90后",
+      "onboard_time": 1730164638,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 379471,
       "num": 283655,
       "word": "刘国梁谈勒布伦兄弟",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1730080338,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356570,
-      "num": 356570,
-      "word": "神十九乘组有两名90后",
-      "onboard_time": 1730164638,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 355378,
@@ -2619,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279953,
+      "num": 279953,
+      "word": "校方回应6名老师对女生照片开黄腔",
+      "onboard_time": 1730165719,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276713,
       "num": 276713,
       "word": "大藤沙月4比2张本美和",
@@ -2716,7 +2732,7 @@
     },
     {
       "raw_hot": 263726,
-      "num": 263726,
+      "num": 650102,
       "word": "神十九乘组明年4月下旬或5月上旬返回",
       "onboard_time": 1730164519,
       "rank": 23,
@@ -2747,12 +2763,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 260731,
-      "num": 616141,
-      "word": "中国人要登月了",
-      "onboard_time": 1730164638,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 260934,
+      "num": 313905,
+      "word": "珠帘玉幕定档",
+      "onboard_time": 1730166438,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 260327,
@@ -2825,6 +2841,14 @@
       "onboard_time": 1729989856,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 254515,
+      "num": 254515,
+      "word": "女生称参加音乐节被身后男子猥亵",
+      "onboard_time": 1730163500,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252945,
@@ -3235,12 +3259,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 223083,
+      "num": 223083,
+      "word": "F勒布伦男单世界第五",
+      "onboard_time": 1730165838,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222282,
       "num": 222282,
       "word": "成毅把难过的事想了遍还是没忍住",
       "onboard_time": 1729955121,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222278,
+      "num": 238692,
+      "word": "封神",
+      "onboard_time": 1730165719,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 221306,
@@ -3313,14 +3353,6 @@
       "onboard_time": 1730003178,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 218530,
-      "num": 218530,
-      "word": "女生称参加音乐节被身后男子猥亵",
-      "onboard_time": 1730163500,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217547,
@@ -3625,14 +3657,6 @@
       "onboard_time": 1730164399,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197843,
-      "num": 238692,
-      "word": "封神",
-      "onboard_time": 1730165719,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 197117,
@@ -4115,14 +4139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176042,
-      "num": 176042,
-      "word": "校方回应6名老师对女生照片开黄腔",
-      "onboard_time": 1730165719,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175867,
       "num": 462012,
       "word": "对随意借调干部说不",
@@ -4217,14 +4233,6 @@
       "onboard_time": 1730007198,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170088,
-      "num": 170088,
-      "word": "F勒布伦男单世界第五",
-      "onboard_time": 1730165838,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 169848,
@@ -4635,6 +4643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150699,
+      "num": 150699,
+      "word": "什么是川崎病",
+      "onboard_time": 1730166739,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150352,
       "num": 150352,
       "word": "中国首批太空旅游船票上架即售罄",
@@ -4729,6 +4745,14 @@
       "onboard_time": 1730016198,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144740,
+      "num": 144740,
+      "word": "美国多地大选投票箱起火",
+      "onboard_time": 1730167219,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 144565,
@@ -4939,6 +4963,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 137333,
+      "num": 137333,
+      "word": "锚定2030年前实现中国人登月目标",
+      "onboard_time": 1730166558,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137184,
       "num": 137184,
       "word": "红斑狼疮女性患者是男性的9倍",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1730123720,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134604,
+      "num": 134604,
+      "word": "iOS18.2将引入图像生成功能",
+      "onboard_time": 1730167098,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 134221,
@@ -5225,6 +5265,14 @@
       "onboard_time": 1729981272,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126727,
+      "num": 134358,
+      "word": "张紫宁OST唱到了海外",
+      "onboard_time": 1730164039,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 126705,
@@ -5457,14 +5505,6 @@
       "onboard_time": 1730093958,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114931,
-      "num": 114931,
-      "word": "张紫宁OST唱到了海外",
-      "onboard_time": 1730164039,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 114379,
@@ -7043,6 +7083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9278,
+      "num": 1819131,
+      "word": "舌尖上的进博会又上新",
+      "onboard_time": 1730123353,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7788,
       "num": 43750,
       "word": "沙特社牛小朋友遇中国人大秀中文",
@@ -7056,14 +7104,6 @@
       "word": "4名高中生勇救七旬落水婆婆",
       "onboard_time": 1729976531,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7213,
-      "num": 1819131,
-      "word": "舌尖上的进博会又上新",
-      "onboard_time": 1730123353,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
