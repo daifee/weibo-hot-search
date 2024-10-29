@@ -1,0 +1,410 @@
+{
+  "runTime": 1730187466210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599106,
+        "num": 1599106,
+        "word": "生育补贴",
+        "onboard_time": 1730172679,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401934,
+        "num": 1401934,
+        "word": "研究发现地球漏水了",
+        "onboard_time": 1730184801,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 1158560,
+        "word": "公安部网安局提醒此类谷子不能吃",
+        "onboard_time": 1730180359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918547,
+        "num": 918547,
+        "word": "铁路南京站通报机械师被撞身亡",
+        "onboard_time": 1730178679,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845953,
+        "num": 845953,
+        "word": "知名主持人顾国宁突发疾病逝世",
+        "onboard_time": 1730183059,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832795,
+        "num": 832795,
+        "word": "南京野猪",
+        "onboard_time": 1730181501,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704399,
+        "num": 704399,
+        "word": "34岁的我终于考上了公务员",
+        "onboard_time": 1730182220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601204,
+        "num": 601204,
+        "word": "周雨彤搭档易烊千玺",
+        "onboard_time": 1730179520,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36056,
+        "num": 475779,
+        "word": "两市成交额连续20个交易日破万亿",
+        "onboard_time": 1730186899,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456219,
+        "num": 456219,
+        "word": "高雅抱了",
+        "onboard_time": 1730176341,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1960292,
+        "num": 435152,
+        "word": "张一鸣3500亿身家成中国首富",
+        "onboard_time": 1730177421,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267135,
+        "num": 401316,
+        "word": "我国首位90后女航天员",
+        "onboard_time": 1730162960,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1416603,
+        "num": 396486,
+        "word": "韩火火发文",
+        "onboard_time": 1730184259,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388649,
+        "num": 388649,
+        "word": "听泉鉴宝APP下架多个商品",
+        "onboard_time": 1730181019,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073487,
+        "num": 383992,
+        "word": "领导放狠话家里人死了先臭着",
+        "onboard_time": 1730184019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606368,
+        "num": 379957,
+        "word": "姚安娜别夸了 借多少钱直说",
+        "onboard_time": 1730186119,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406752,
+        "num": 378587,
+        "word": "画皮 平番",
+        "onboard_time": 1730184378,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375818,
+        "num": 375818,
+        "word": "刘雨璠告别心动的信号7",
+        "onboard_time": 1730186480,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324897,
+        "num": 359907,
+        "word": "我国首位女性航天飞行工程师王浩泽",
+        "onboard_time": 1730168839,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61741,
+        "num": 351371,
+        "word": "784万买房开放日看完后想退",
+        "onboard_time": 1730186539,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416196,
+        "num": 350287,
+        "word": "王楚钦樊振东马龙陈梦被赋0",
+        "onboard_time": 1730179639,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346880,
+        "num": 346880,
+        "word": "阮小咪 我写给谁呢",
+        "onboard_time": 1730179759,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331168,
+        "num": 331168,
+        "word": "吉赛尔邦辰怀三胎",
+        "onboard_time": 1730184559,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302797,
+        "num": 302797,
+        "word": "高雅 热烈又克制",
+        "onboard_time": 1730185459,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277528,
+        "num": 277528,
+        "word": "2名90后航天员要飞天了",
+        "onboard_time": 1730169499,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274522,
+        "num": 274522,
+        "word": "麦琳 闲鱼",
+        "onboard_time": 1730175561,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261117,
+        "num": 261117,
+        "word": "华为Mate70系列11月上市",
+        "onboard_time": 1730186180,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227351,
+        "num": 227351,
+        "word": "电动车爆燃烧伤88%骑手还在ICU",
+        "onboard_time": 1730179100,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226732,
+        "num": 226732,
+        "word": "男子做兼职主播月入3毛",
+        "onboard_time": 1730175920,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214124,
+        "num": 223539,
+        "word": "乔妍的心事 81分钟才出片名",
+        "onboard_time": 1730183298,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36891,
+        "num": 223419,
+        "word": "平债组织称投资2到3年至少赚1.5亿",
+        "onboard_time": 1730185398,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "事业单位退休人员犯罪被停发养老金",
+        "onboard_time": 1730178621,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217306,
+        "num": 217306,
+        "word": "男子网聊7天花11万闪婚后被拉黑",
+        "onboard_time": 1730177601,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 205302,
+        "word": "A股又一只10倍股诞生",
+        "onboard_time": 1730176821,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108283,
+        "num": 201991,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1730173640,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180409,
+        "num": 180409,
+        "word": "李川 大冰文学继承者",
+        "onboard_time": 1730186839,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180272,
+        "num": 180272,
+        "word": "价值300元遥控器维修费1776元",
+        "onboard_time": 1730184619,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173080,
+        "num": 173080,
+        "word": "以军公布打死辛瓦尔的行动画面",
+        "onboard_time": 1730186300,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169689,
+        "num": 169689,
+        "word": "大小脸最怕的运动",
+        "onboard_time": 1730182878,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168482,
+        "num": 168482,
+        "word": "为什么年轻人的生育意愿变低了",
+        "onboard_time": 1730187140,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167792,
+        "num": 167792,
+        "word": "30天不玩手机的日子竟然这么爽",
+        "onboard_time": 1730169258,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167782,
+        "num": 167782,
+        "word": "豪咪",
+        "onboard_time": 1730179100,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155394,
+        "num": 155394,
+        "word": "宋亚轩问白敬亭来新疆什么目的",
+        "onboard_time": 1730187259,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152374,
+        "num": 152374,
+        "word": "跑腿小哥接单送18万现金到稻田",
+        "onboard_time": 1730182041,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "摩托司机等红绿灯被撞身亡",
+        "onboard_time": 1730168896,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148911,
+        "num": 148911,
+        "word": "长生界打斗细节",
+        "onboard_time": 1730186721,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147554,
+        "num": 147554,
+        "word": "小狗店门口排泄被店员持杆抽打",
+        "onboard_time": 1730172319,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139366,
+        "num": 139366,
+        "word": "哈尔滨出租车司机集体学英语",
+        "onboard_time": 1730187439,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138851,
+        "num": 138851,
+        "word": "辰咪",
+        "onboard_time": 1730177720,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138652,
+        "num": 138652,
+        "word": "南京南站",
+        "onboard_time": 1730172439,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构筑中国精神中国价值中国力量#"
+    }
+  }
+}

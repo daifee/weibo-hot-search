@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730186555463,
+  "endTime": 1730187466210,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -107,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1401934,
+      "num": 1401934,
+      "word": "研究发现地球漏水了",
+      "onboard_time": 1730184801,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1391987,
       "num": 1391987,
       "word": "铁路南京站情况说明",
@@ -145,14 +153,6 @@
       "onboard_time": 1730169318,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1229351,
-      "num": 1229351,
-      "word": "研究发现地球漏水了",
-      "onboard_time": 1730184801,
-      "rank": 1,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1202963,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606368,
+      "num": 379957,
+      "word": "姚安娜别夸了 借多少钱直说",
+      "onboard_time": 1730186119,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600340,
       "num": 441718,
       "word": "30天不玩手机的日子竟然这么爽",
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 406752,
+      "num": 378587,
+      "word": "画皮 平番",
+      "onboard_time": 1730184378,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402366,
       "num": 402366,
       "word": "雷军再回应雷军AI配音",
@@ -699,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375818,
+      "num": 375818,
+      "word": "刘雨璠告别心动的信号7",
+      "onboard_time": 1730186480,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370160,
       "num": 370160,
       "word": "肖战庄达菲版射雕亮相推介会",
@@ -737,14 +761,6 @@
       "onboard_time": 1730159421,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335863,
-      "num": 335863,
-      "word": "画皮 平番",
-      "onboard_time": 1730184378,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 331925,
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302797,
+      "num": 302797,
+      "word": "高雅 热烈又克制",
+      "onboard_time": 1730185459,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300425,
       "num": 300425,
       "word": "chalice说BLG一定得输",
@@ -811,28 +835,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 289118,
-      "num": 289118,
-      "word": "高雅 热烈又克制",
-      "onboard_time": 1730185459,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279953,
       "num": 279953,
       "word": "校方回应6名老师对女生照片开黄腔",
       "onboard_time": 1730165719,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268076,
-      "num": 256077,
-      "word": "刘雨璠告别心动的信号7",
-      "onboard_time": 1730186480,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 267815,
@@ -865,6 +873,14 @@
       "onboard_time": 1730156896,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261117,
+      "num": 261117,
+      "word": "华为Mate70系列11月上市",
+      "onboard_time": 1730186180,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 259165,
@@ -1067,14 +1083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 209319,
-      "num": 238823,
-      "word": "姚安娜别夸了 借多少钱直说",
-      "onboard_time": 1730186119,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "沈梦辰晒合照为杜海涛庆生",
@@ -1235,8 +1243,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176640,
-      "num": 176640,
+      "raw_hot": 180409,
+      "num": 180409,
+      "word": "李川 大冰文学继承者",
+      "onboard_time": 1730186839,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180272,
+      "num": 180272,
       "word": "价值300元遥控器维修费1776元",
       "onboard_time": 1730184619,
       "rank": 35,
@@ -1259,14 +1275,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 173969,
-      "num": 173969,
-      "word": "华为Mate70系列11月上市",
-      "onboard_time": 1730186180,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173910,
       "num": 173910,
       "word": "刘浩存首本五大女刊封面",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1730133617,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173080,
+      "num": 173080,
+      "word": "以军公布打死辛瓦尔的行动画面",
+      "onboard_time": 1730186300,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 171996,
@@ -1307,11 +1323,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169689,
+      "num": 169689,
+      "word": "大小脸最怕的运动",
+      "onboard_time": 1730182878,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 169372,
       "num": 630559,
       "word": "一对上海父子同居养老的十二年",
       "onboard_time": 1730171298,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168482,
+      "num": 168482,
+      "word": "为什么年轻人的生育意愿变低了",
+      "onboard_time": 1730187140,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155394,
+      "num": 155394,
+      "word": "宋亚轩问白敬亭来新疆什么目的",
+      "onboard_time": 1730187259,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154410,
       "num": 154410,
       "word": "中级会计",
@@ -1387,12 +1427,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148326,
-      "num": 148326,
-      "word": "以军公布打死辛瓦尔的行动画面",
-      "onboard_time": 1730186300,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 148911,
+      "num": 148911,
+      "word": "长生界打斗细节",
+      "onboard_time": 1730186721,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 147228,
@@ -1451,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140903,
-      "num": 140903,
-      "word": "大小脸最怕的运动",
-      "onboard_time": 1730182878,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 139840,
       "num": 139840,
       "word": "向佐说掌掴李小龙模仿者是在玩梗",
       "onboard_time": 1730154554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139366,
+      "num": 139366,
+      "word": "哈尔滨出租车司机集体学英语",
+      "onboard_time": 1730187439,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137945,
@@ -1843,8 +1883,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59595,
-      "num": 333069,
+      "raw_hot": 61741,
+      "num": 351371,
       "word": "784万买房开放日看完后想退",
       "onboard_time": 1730186539,
       "rank": 19,
@@ -1907,12 +1947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36891,
+      "num": 634406,
+      "word": "平债组织称投资2到3年至少赚1.5亿",
+      "onboard_time": 1730185398,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36306,
       "num": 556117,
       "word": "享界S9先享一步",
       "onboard_time": 1730172979,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 36056,
+      "num": 475779,
+      "word": "两市成交额连续20个交易日破万亿",
+      "onboard_time": 1730186899,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33755,
@@ -1977,14 +2033,6 @@
       "onboard_time": 1730140571,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24335,
-      "num": 634406,
-      "word": "平债组织称投资2到3年至少赚1.5亿",
-      "onboard_time": 1730185398,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24020,
