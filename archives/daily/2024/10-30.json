@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730237760714,
+  "endTime": 1730240493796,
   "band_list": [
     {
       "raw_hot": 1680659,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407953,
+      "num": 410428,
+      "word": "秦皇岛环保局建议市民减少外出",
+      "onboard_time": 1730223014,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364311,
       "num": 364311,
       "word": "心动的信号 高雅cp官宣",
@@ -112,6 +120,14 @@
       "word": "神十九于10月30日4时27分发射",
       "onboard_time": 1730216180,
       "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 331122,
+      "num": 331122,
+      "word": "神舟十九号发射圆满成功",
+      "onboard_time": 1730235790,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -179,28 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214856,
-      "num": 214856,
-      "word": "秦皇岛环保局建议市民减少外出",
-      "onboard_time": 1730223014,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211889,
       "num": 211889,
       "word": "九块九害死了3万块",
       "onboard_time": 1730209039,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211262,
-      "num": 211262,
-      "word": "神舟十九号发射圆满成功",
-      "onboard_time": 1730235790,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 209666,
@@ -307,6 +307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127538,
+      "num": 127538,
+      "word": "神十九出征仪式",
+      "onboard_time": 1730223433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120237,
       "num": 120237,
       "word": "点赞夫胜宽的爱豆",
@@ -321,14 +329,6 @@
       "onboard_time": 1730201421,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119370,
-      "num": 119370,
-      "word": "神十九出征仪式",
-      "onboard_time": 1730223433,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118609,
@@ -353,6 +353,14 @@
       "onboard_time": 1730214622,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111346,
+      "num": 111346,
+      "word": "6名中国航天员太空会师",
+      "onboard_time": 1730237651,
+      "rank": 13,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 95274,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61852,
+      "num": 61852,
+      "word": "金宇硕姜娜言承认恋情后出席发布会",
+      "onboard_time": 1730231412,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59696,
       "num": 59696,
       "word": "小巷人家",
@@ -467,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52794,
+      "num": 52794,
+      "word": "强烈反对美国对中国包括香港特区投资限制",
+      "onboard_time": 1730234591,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50062,
       "num": 50062,
       "word": "大红屏",
@@ -475,11 +499,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49480,
-      "num": 49480,
-      "word": "6名中国航天员太空会师",
-      "onboard_time": 1730237651,
-      "rank": 13,
+      "raw_hot": 44879,
+      "num": 57291,
+      "word": "中方表态美方发布的对华投资限制规则",
+      "onboard_time": 1730235311,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44398,
+      "num": 44398,
+      "word": "90后真的上天了",
+      "onboard_time": 1730235911,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 44354,
+      "num": 44354,
+      "word": "神十九航天员的出征仪式好可爱",
+      "onboard_time": 1730230991,
+      "rank": 30,
       "category": "国内时政,社会新闻"
     },
     {
@@ -499,20 +539,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 35891,
-      "num": 35891,
-      "word": "神十九航天员的出征仪式好可爱",
-      "onboard_time": 1730230991,
-      "rank": 30,
-      "category": "国内时政,社会新闻"
+      "raw_hot": 37053,
+      "num": 89056,
+      "word": "王浩泽说导师这句话影响自己终生",
+      "onboard_time": 1730226491,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 34964,
-      "num": 34964,
-      "word": "强烈反对美国对中国包括香港特区投资限制",
-      "onboard_time": 1730234591,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 36881,
+      "num": 61726,
+      "word": "听泉鉴宝APP售卖听泉表情包摆件",
+      "onboard_time": 1730227753,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 36787,
+      "num": 74497,
+      "word": "王浩泽说身份在变但初心和使命不变",
+      "onboard_time": 1730223014,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34640,
@@ -523,52 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34578,
-      "num": 89056,
-      "word": "王浩泽说导师这句话影响自己终生",
-      "onboard_time": 1730226491,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32019,
       "num": 32019,
       "word": "小米澎湃OS2",
       "onboard_time": 1730225652,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 31315,
-      "num": 74497,
-      "word": "王浩泽说身份在变但初心和使命不变",
-      "onboard_time": 1730223014,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29079,
-      "num": 29079,
-      "word": "金宇硕姜娜言承认恋情后出席发布会",
-      "onboard_time": 1730231412,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28091,
-      "num": 31062,
-      "word": "听泉鉴宝APP售卖听泉表情包摆件",
-      "onboard_time": 1730227753,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 27732,
-      "num": 27732,
-      "word": "90后真的上天了",
-      "onboard_time": 1730235911,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 27407,
@@ -587,12 +595,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22411,
-      "num": 57291,
-      "word": "中方表态美方发布的对华投资限制规则",
-      "onboard_time": 1730235311,
-      "rank": 40,
-      "category": "国内时政"
+      "raw_hot": 22592,
+      "num": 53240,
+      "word": "伊朗称将果断严肃回应以色列袭击",
+      "onboard_time": 1730239391,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 21481,
@@ -600,6 +608,14 @@
       "word": "90后航天员指国旗送飞吻",
       "onboard_time": 1730233271,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21445,
+      "num": 27245,
+      "word": "神十九航天员晚上8点起床了",
+      "onboard_time": 1730239093,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -649,6 +665,14 @@
       "onboard_time": 1730232850,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17223,
+      "num": 61563,
+      "word": "第21号台风康妮来了",
+      "onboard_time": 1730239692,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7566,
