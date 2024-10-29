@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730226642395,
+  "endTime": 1730227461704,
   "band_list": [
     {
       "raw_hot": 1680659,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214856,
+      "num": 214856,
+      "word": "秦皇岛环保局建议市民减少外出",
+      "onboard_time": 1730223014,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211889,
       "num": 211889,
       "word": "九块九害死了3万块",
@@ -201,14 +209,6 @@
       "onboard_time": 1730201240,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205777,
-      "num": 205777,
-      "word": "秦皇岛环保局建议市民减少外出",
-      "onboard_time": 1730223014,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193716,
@@ -475,15 +475,15 @@
       "category": "数码"
     },
     {
-      "raw_hot": 25739,
-      "num": 42416,
+      "raw_hot": 30301,
+      "num": 89056,
       "word": "王浩泽说导师这句话影响自己终生",
       "onboard_time": 1730226491,
       "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25251,
+      "raw_hot": 29926,
       "num": 74497,
       "word": "王浩泽说身份在变但初心和使命不变",
       "onboard_time": 1730223014,
@@ -497,6 +497,14 @@
       "onboard_time": 1730226491,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21393,
+      "num": 24403,
+      "word": "王浩泽从托举飞天到自己飞天",
+      "onboard_time": 1730227332,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7566,
