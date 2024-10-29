@@ -1,0 +1,410 @@
+{
+  "runTime": 1730180398524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4002549,
+        "num": 4002549,
+        "word": "张一鸣3500亿身家成中国首富",
+        "onboard_time": 1730177421,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2462756,
+        "num": 2462756,
+        "word": "生育补贴",
+        "onboard_time": 1730172679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6007,
+        "num": 2103859,
+        "word": "公安部网安局提醒此类谷子不能吃",
+        "onboard_time": 1730180359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1860662,
+        "num": 1860662,
+        "word": "高雅抱了",
+        "onboard_time": 1730176341,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1195433,
+        "num": 1195433,
+        "word": "铁路南京站情况说明",
+        "onboard_time": 1730177601,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053249,
+        "num": 1053249,
+        "word": "辰咪",
+        "onboard_time": 1730177720,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 994531,
+        "num": 994531,
+        "word": "男子做兼职主播月入3毛",
+        "onboard_time": 1730175920,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852665,
+        "num": 852665,
+        "word": "灏琪cp官宣",
+        "onboard_time": 1730176521,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26175,
+        "num": 837506,
+        "word": "文化中国行看夜景下的文化景观",
+        "onboard_time": 1730175080,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290923,
+        "num": 806307,
+        "word": "事业单位退休人员犯罪被停发养老金",
+        "onboard_time": 1730178621,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221149,
+        "num": 788959,
+        "word": "麦琳 闲鱼",
+        "onboard_time": 1730175561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80617,
+        "num": 738961,
+        "word": "小米创造纽北四门车记录",
+        "onboard_time": 1730177301,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 731171,
+        "num": 731171,
+        "word": "周雨彤搭档易烊千玺",
+        "onboard_time": 1730179520,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 723776,
+        "num": 723776,
+        "word": "铁路南京站通报机械师被撞身亡",
+        "onboard_time": 1730178679,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686077,
+        "num": 705195,
+        "word": "2名90后航天员要飞天了",
+        "onboard_time": 1730169499,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699889,
+        "num": 699889,
+        "word": "南京南站",
+        "onboard_time": 1730172439,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687694,
+        "num": 687694,
+        "word": "豪咪",
+        "onboard_time": 1730179100,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605692,
+        "num": 605692,
+        "word": "摩托司机等红绿灯被撞身亡",
+        "onboard_time": 1730168896,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593960,
+        "num": 593960,
+        "word": "我国首位女性航天飞行工程师王浩泽",
+        "onboard_time": 1730168839,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534932,
+        "num": 534932,
+        "word": "我国首位90后女航天员",
+        "onboard_time": 1730162960,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360204,
+        "num": 525132,
+        "word": "虞书欣新剧重生之邪恶小兰花",
+        "onboard_time": 1730178801,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516782,
+        "num": 516782,
+        "word": "预祝美国两名航天员安全归来",
+        "onboard_time": 1730168239,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478089,
+        "num": 478089,
+        "word": "首尔SM楼下摆满吊唁花圈",
+        "onboard_time": 1730169378,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408186,
+        "num": 408186,
+        "word": "王楚钦樊振东马龙陈梦被赋0",
+        "onboard_time": 1730179639,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394030,
+        "num": 394030,
+        "word": "阮小咪 我写给谁呢",
+        "onboard_time": 1730179759,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385673,
+        "num": 385673,
+        "word": "白敬亭 和狗撞名还撞衫",
+        "onboard_time": 1730178201,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370868,
+        "num": 370868,
+        "word": "19岁中专生拿了个世界冠军当生日礼物",
+        "onboard_time": 1730160318,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301874,
+        "num": 301874,
+        "word": "小狗店门口排泄被店员持杆抽打",
+        "onboard_time": 1730172319,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290942,
+        "num": 290942,
+        "word": "王琪tomo亲了",
+        "onboard_time": 1730177241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274613,
+        "num": 274613,
+        "word": "赵露思敦煌神女飞天舞",
+        "onboard_time": 1730173280,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285925,
+        "num": 273385,
+        "word": "30天不玩手机的日子竟然这么爽",
+        "onboard_time": 1730169258,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134467,
+        "num": 268380,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1730173640,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 255557,
+        "num": 255557,
+        "word": "鹿晗佛山音乐节9万张票秒售罄",
+        "onboard_time": 1730179340,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248851,
+        "num": 248851,
+        "word": "犹太教授建议犹太人学中文",
+        "onboard_time": 1730174901,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230295,
+        "num": 230295,
+        "word": "电动车爆燃烧伤88%骑手还在ICU",
+        "onboard_time": 1730179100,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212237,
+        "num": 212237,
+        "word": "封神第二部定档",
+        "onboard_time": 1730164878,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206558,
+        "num": 206558,
+        "word": "卫健委回应奖励三孩家庭1.3万",
+        "onboard_time": 1730160679,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198288,
+        "num": 198288,
+        "word": "汪苏泷重庆抢票",
+        "onboard_time": 1730179940,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195676,
+        "num": 195676,
+        "word": "HYBE就报告书道歉",
+        "onboard_time": 1730176762,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195226,
+        "num": 195226,
+        "word": "iPhone能通话录音了",
+        "onboard_time": 1730161759,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187069,
+        "num": 187069,
+        "word": "A股又一只10倍股诞生",
+        "onboard_time": 1730176821,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179793,
+        "num": 179793,
+        "word": "心动的信号",
+        "onboard_time": 1730169919,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171556,
+        "num": 171556,
+        "word": "王浩泽本硕毕业于东南大学",
+        "onboard_time": 1730171179,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162786,
+        "num": 162786,
+        "word": "我的青春和火影忍者杀回来了",
+        "onboard_time": 1730180000,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162740,
+        "num": 162740,
+        "word": "神二十神二十一任务2025实施",
+        "onboard_time": 1730168839,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150892,
+        "num": 150892,
+        "word": "11岁男孩被骗与女主播裸聊",
+        "onboard_time": 1730135235,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144852,
+        "num": 144852,
+        "word": "赵露思男装vs女装",
+        "onboard_time": 1730179701,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144026,
+        "num": 144026,
+        "word": "中国人要登月了",
+        "onboard_time": 1730164638,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136517,
+        "num": 136517,
+        "word": "神十九乘组蔡旭哲宋令东王浩泽",
+        "onboard_time": 1730163079,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12152,
+        "num": 135202,
+        "word": "长途骑行前应做好这些准备",
+        "onboard_time": 1730179639,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定建成文化强国战略目标#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730132917938,
-  "endTime": 1730179353502,
+  "endTime": 1730180398524,
   "band_list": [
     {
       "raw_hot": 4139554,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1521970,
-      "num": 714957,
+      "num": 788959,
       "word": "麦琳 闲鱼",
       "onboard_time": 1730175561,
       "rank": 23,
@@ -259,6 +259,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 731171,
+      "num": 731171,
+      "word": "周雨彤搭档易烊千玺",
+      "onboard_time": 1730179520,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 723776,
+      "num": 723776,
+      "word": "铁路南京站通报机械师被撞身亡",
+      "onboard_time": 1730178679,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717240,
       "num": 717240,
       "word": "严厉打击以寻宝为噱头非法鉴定",
@@ -280,6 +296,14 @@
       "word": "孙乐言 奇葩",
       "onboard_time": 1730107759,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 687694,
+      "num": 687694,
+      "word": "豪咪",
+      "onboard_time": 1730179100,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -507,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 408186,
+      "num": 408186,
+      "word": "王楚钦樊振东马龙陈梦被赋0",
+      "onboard_time": 1730179639,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407579,
       "num": 671488,
       "word": "尤长靖 干嘛抢我话筒",
@@ -539,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394030,
+      "num": 394030,
+      "word": "阮小咪 我写给谁呢",
+      "onboard_time": 1730179759,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391099,
       "num": 391099,
       "word": "冷门但巨巨巨好看的小说",
@@ -552,6 +592,14 @@
       "word": "王琪tomo亲了",
       "onboard_time": 1730177241,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 385673,
+      "num": 385673,
+      "word": "白敬亭 和狗撞名还撞衫",
+      "onboard_time": 1730178201,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -571,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 360204,
+      "num": 598397,
+      "word": "虞书欣新剧重生之邪恶小兰花",
+      "onboard_time": 1730178801,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355761,
       "num": 355761,
       "word": "孙乐言 我现在不是一个普通人了",
@@ -585,14 +641,6 @@
       "onboard_time": 1730174901,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337637,
-      "num": 337637,
-      "word": "白敬亭 和狗撞名还撞衫",
-      "onboard_time": 1730178201,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 336628,
@@ -617,14 +665,6 @@
       "onboard_time": 1730115919,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318928,
-      "num": 318928,
-      "word": "铁路南京站通报机械师被撞身亡",
-      "onboard_time": 1730178679,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315282,
@@ -673,6 +713,14 @@
       "onboard_time": 1730167219,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 290923,
+      "num": 806307,
+      "word": "事业单位退休人员犯罪被停发养老金",
+      "onboard_time": 1730178621,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279953,
@@ -739,12 +787,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254911,
-      "num": 254911,
-      "word": "豪咪",
-      "onboard_time": 1730179100,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 255557,
+      "num": 255557,
+      "word": "鹿晗佛山音乐节9万张票秒售罄",
+      "onboard_time": 1730179340,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 254593,
@@ -819,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230295,
+      "num": 230295,
+      "word": "电动车爆燃烧伤88%骑手还在ICU",
+      "onboard_time": 1730179100,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230169,
       "num": 552061,
       "word": "刺杀小说家2将于年底杀青",
@@ -891,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208289,
-      "num": 598397,
-      "word": "虞书欣新剧重生之邪恶小兰花",
-      "onboard_time": 1730178801,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205090,
       "num": 205090,
       "word": "95后硕士炒股一月狂赚112万",
@@ -963,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198288,
+      "num": 198288,
+      "word": "汪苏泷重庆抢票",
+      "onboard_time": 1730179940,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195555,
       "num": 195555,
       "word": "虞书欣凌妙妙上班",
@@ -987,11 +1043,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186691,
-      "num": 186691,
-      "word": "电动车爆燃烧伤88%骑手还在ICU",
-      "onboard_time": 1730179100,
-      "rank": 39,
+      "raw_hot": 187069,
+      "num": 679417,
+      "word": "A股又一只10倍股诞生",
+      "onboard_time": 1730176821,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1011,28 +1067,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184114,
-      "num": 184114,
-      "word": "鹿晗佛山音乐节9万张票秒售罄",
-      "onboard_time": 1730179340,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 180485,
       "num": 228721,
       "word": "赵丽颖首映生图",
       "onboard_time": 1730127742,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176735,
-      "num": 679417,
-      "word": "A股又一只10倍股诞生",
-      "onboard_time": 1730176821,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176047,
@@ -1091,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162786,
+      "num": 162786,
+      "word": "我的青春和火影忍者杀回来了",
+      "onboard_time": 1730180000,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "爸爸用树叶给女儿做皇冠和裙子",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1730173640,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 144852,
+      "num": 144852,
+      "word": "赵露思男装vs女装",
+      "onboard_time": 1730179701,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143742,
@@ -1459,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80617,
+      "num": 738961,
+      "word": "小米创造纽北四门车记录",
+      "onboard_time": 1730177301,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78214,
       "num": 78214,
       "word": "贾樟柯新电影上映22天",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1730170158,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56016,
-      "num": 691422,
-      "word": "小米创造纽北四门车记录",
-      "onboard_time": 1730177301,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 51439,
@@ -1723,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12152,
+      "num": 135202,
+      "word": "长途骑行前应做好这些准备",
+      "onboard_time": 1730179639,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 9278,
       "num": 1819131,
       "word": "舌尖上的进博会又上新",
@@ -1735,6 +1799,14 @@
       "num": 508309,
       "word": "一展难求的链博会都塞进了啥",
       "onboard_time": 1730123900,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6007,
+      "num": 2103859,
+      "word": "公安部网安局提醒此类谷子不能吃",
+      "onboard_time": 1730180359,
       "rank": 2,
       "category": "社会新闻"
     }
