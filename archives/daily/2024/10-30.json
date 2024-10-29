@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730244120153,
+  "endTime": 1730244964921,
   "band_list": [
     {
       "raw_hot": 1680659,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1268123,
+      "num": 1268123,
+      "word": "陈都灵直播工作人员大吼",
+      "onboard_time": 1730243595,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 908848,
       "num": 908848,
       "word": "南京南站亲历乘客称听到明显异响",
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796394,
+      "num": 315017,
+      "word": "放狠话家里人死了先臭着领导道歉",
+      "onboard_time": 1730206219,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666048,
       "num": 666048,
       "word": "蛇瓜",
       "onboard_time": 1730213720,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 645560,
-      "num": 310736,
-      "word": "放狠话家里人死了先臭着领导道歉",
-      "onboard_time": 1730206219,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 602761,
@@ -91,6 +99,14 @@
       "category": "国内时政,国外时政"
     },
     {
+      "raw_hot": 440301,
+      "num": 302751,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431343,
       "num": 431343,
       "word": "女子手术后纱布留体内3年持续腹痛",
@@ -115,12 +131,12 @@
       "category": "国内时政,社会新闻"
     },
     {
-      "raw_hot": 364888,
-      "num": 302751,
-      "word": "90后农村娃拿到太空船票",
-      "onboard_time": 1730211622,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 390662,
+      "num": 385356,
+      "word": "恋综史上无法超越的告白",
+      "onboard_time": 1730243957,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 364311,
@@ -147,12 +163,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322776,
-      "num": 322776,
-      "word": "陈都灵直播工作人员大吼",
-      "onboard_time": 1730243595,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 329116,
+      "num": 329116,
+      "word": "神十九出征仪式",
+      "onboard_time": 1730223433,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319442,
@@ -187,6 +203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 242344,
+      "num": 122931,
+      "word": "全家就我遗传了爸爸的丑貌",
+      "onboard_time": 1730243957,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234453,
       "num": 234453,
       "word": "小米发布会",
@@ -211,16 +235,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223630,
-      "num": 223630,
-      "word": "神十九出征仪式",
-      "onboard_time": 1730223433,
-      "rank": 29,
+      "raw_hot": 221842,
+      "num": 176187,
+      "word": "年轻人正在走出惯性与传统",
+      "onboard_time": 1730241073,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214956,
-      "num": 214956,
+      "raw_hot": 220471,
+      "num": 220471,
       "word": "宇宙曹县不是个梗",
       "onboard_time": 1730220556,
       "rank": 15,
@@ -243,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210017,
+      "num": 210017,
+      "word": "两男子抢劫辽宁饭店被老板和店员暴打",
+      "onboard_time": 1730242875,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207562,
       "num": 234314,
       "word": "心动的信号7成了五对",
@@ -259,20 +291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176187,
-      "num": 176187,
-      "word": "年轻人正在走出惯性与传统",
-      "onboard_time": 1730241073,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 167339,
+      "num": 177592,
+      "word": "宋茜收到了曾黎的傩面具",
+      "onboard_time": 1730241854,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 164884,
-      "num": 104740,
-      "word": "全家就我遗传了爸爸的丑貌",
-      "onboard_time": 1730243957,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 160967,
+      "num": 122586,
+      "word": "陈都灵工作室解释直播吼人",
+      "onboard_time": 1730244917,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 153723,
@@ -299,6 +331,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 149320,
+      "num": 159143,
+      "word": "王一博巴塞罗那机场路透",
+      "onboard_time": 1730244016,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149200,
+      "num": 269443,
+      "word": "杨妞花5天涨粉90万现专注宝贝回家",
+      "onboard_time": 1730238792,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147564,
       "num": 147564,
       "word": "金泰亨慰问闵熙珍",
@@ -323,22 +371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 141665,
-      "num": 177592,
-      "word": "宋茜收到了曾黎的傩面具",
-      "onboard_time": 1730241854,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141303,
-      "num": 141303,
-      "word": "两男子抢劫辽宁饭店被老板和店员暴打",
-      "onboard_time": 1730242875,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138261,
       "num": 138261,
       "word": "成都一男子在网吧内持刀行凶",
@@ -347,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136967,
-      "num": 136967,
-      "word": "王一博巴塞罗那机场路透",
-      "onboard_time": 1730244016,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 135188,
+      "num": 135188,
+      "word": "王玉雯新剧7集换15套造型",
+      "onboard_time": 1730243957,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 130714,
@@ -379,12 +411,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 120584,
+      "raw_hot": 127223,
       "num": 176669,
       "word": "听泉鉴宝APP售卖听泉表情包摆件",
       "onboard_time": 1730227753,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123636,
+      "num": 123636,
+      "word": "鹿晗红发自拍",
+      "onboard_time": 1730244558,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 120237,
@@ -427,6 +467,46 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112654,
+      "num": 112654,
+      "word": "一觉醒来3个中国人上天了",
+      "onboard_time": 1730244617,
+      "rank": 34,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 111530,
+      "num": 114000,
+      "word": "侯明昊眼睛怎么了",
+      "onboard_time": 1730202980,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110735,
+      "num": 110735,
+      "word": "郑钦文萨巴伦卡年终总决赛同组",
+      "onboard_time": 1730244377,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107836,
+      "num": 107836,
+      "word": "T1获得决赛选边权",
+      "onboard_time": 1730244377,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106068,
+      "num": 106068,
+      "word": "陈哲远直播吃到晕碳",
+      "onboard_time": 1730244497,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103873,
       "num": 103873,
       "word": "神十九航天员的出征仪式好可爱",
@@ -443,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97546,
+      "num": 97546,
+      "word": "以军公布打死辛瓦尔画面",
+      "onboard_time": 1730227872,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 95274,
       "num": 95274,
       "word": "杨紫工作室 图呢",
@@ -451,12 +539,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89217,
-      "num": 89217,
+      "raw_hot": 95100,
+      "num": 95100,
+      "word": "宝宝你的舌头忘记收回去了",
+      "onboard_time": 1730244497,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93078,
+      "num": 93078,
       "word": "神十九航天员晚上8点起床了",
       "onboard_time": 1730239093,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93014,
+      "num": 93014,
+      "word": "王浩泽说导师这句话影响自己终生",
+      "onboard_time": 1730226491,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89692,
+      "num": 104945,
+      "word": "张大大强烈支持赵露思新剧",
+      "onboard_time": 1730243896,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 89183,
@@ -467,36 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87978,
-      "num": 89056,
-      "word": "王浩泽说导师这句话影响自己终生",
-      "onboard_time": 1730226491,
-      "rank": 29,
+      "raw_hot": 88119,
+      "num": 88119,
+      "word": "王浩泽说身份在变但初心和使命不变",
+      "onboard_time": 1730223014,
+      "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85787,
-      "num": 114000,
-      "word": "侯明昊眼睛怎么了",
-      "onboard_time": 1730202980,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83624,
-      "num": 91329,
-      "word": "恋综史上无法超越的告白",
-      "onboard_time": 1730243957,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 82819,
-      "num": 82819,
-      "word": "以军公布打死辛瓦尔画面",
-      "onboard_time": 1730227872,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 82473,
@@ -563,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76075,
-      "num": 104945,
-      "word": "张大大强烈支持赵露思新剧",
-      "onboard_time": 1730243896,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75050,
       "num": 75050,
       "word": "小米15系列价格",
@@ -595,36 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73423,
-      "num": 73423,
-      "word": "王玉雯新剧7集换15套造型",
-      "onboard_time": 1730243957,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 73096,
-      "num": 74497,
-      "word": "王浩泽说身份在变但初心和使命不变",
-      "onboard_time": 1730223014,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70982,
       "num": 70982,
       "word": "金宇硕姜娜言承认恋情后出席发布会",
       "onboard_time": 1730231412,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66639,
-      "num": 269443,
-      "word": "杨妞花5天涨粉90万现专注宝贝回家",
-      "onboard_time": 1730238792,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64308,
@@ -659,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42001,
+      "num": 143341,
+      "word": "中芬树立了国与国之间平等交往的典范",
+      "onboard_time": 1730244136,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41873,
       "num": 53261,
       "word": "雷军透露小米15涨价原因",
       "onboard_time": 1730204659,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38029,
+      "num": 144679,
+      "word": "干部疑为躲避群众提问从厕所跳窗",
+      "onboard_time": 1730244197,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34640,
@@ -763,8 +835,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8192,
-      "num": 672622,
+      "raw_hot": 10621,
+      "num": 852320,
       "word": "从神五到神十九",
       "onboard_time": 1730205799,
       "rank": 2,
