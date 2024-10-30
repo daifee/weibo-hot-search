@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730265775759,
+  "endTime": 1730266823693,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -128,6 +128,14 @@
       "word": "专家称生孩子越少养孩子就越贵",
       "onboard_time": 1730198959,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2474718,
+      "num": 2474718,
+      "word": "博主公然宣称南京大屠杀是日本内政",
+      "onboard_time": 1730263161,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1703680,
-      "num": 1703680,
-      "word": "博主公然宣称南京大屠杀是日本内政",
-      "onboard_time": 1730263161,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1693837,
       "num": 1693837,
       "word": "铁路南京站通报机械师被撞身亡",
@@ -464,6 +464,14 @@
       "word": "三亚落入下水道男孩遗体已找到",
       "onboard_time": 1730193258,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1595327,
+      "num": 455344,
+      "word": "生父回应3岁儿子被女友虐待致死",
+      "onboard_time": 1730259438,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -617,14 +625,6 @@
       "onboard_time": 1730167937,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1353621,
-      "num": 455344,
-      "word": "生父回应3岁儿子被女友虐待致死",
-      "onboard_time": 1730259438,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1347084,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1130272,
+      "num": 1130272,
+      "word": "恋综梦女",
+      "onboard_time": 1730262439,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127706,
       "num": 1033408,
       "word": "孙乐言 我现在不是一个普通人了",
@@ -961,14 +969,6 @@
       "onboard_time": 1730029160,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090924,
-      "num": 1090924,
-      "word": "恋综梦女",
-      "onboard_time": 1730262439,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1080279,
@@ -2715,6 +2715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 464829,
+      "num": 424308,
+      "word": "高三走读生晚上十点回家吃什么",
+      "onboard_time": 1730263581,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 460856,
       "num": 375336,
       "word": "赵露思生图live",
@@ -2873,14 +2881,6 @@
       "onboard_time": 1730255418,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424308,
-      "num": 424308,
-      "word": "高三走读生晚上十点回家吃什么",
-      "onboard_time": 1730263581,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 421373,
@@ -3347,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357725,
+      "num": 397675,
+      "word": "赵牧辰 摇摆",
+      "onboard_time": 1730260699,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357017,
       "num": 357017,
       "word": "邵子恒好帅",
@@ -3393,14 +3401,6 @@
       "onboard_time": 1729986015,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 350235,
-      "num": 397675,
-      "word": "赵牧辰 摇摆",
-      "onboard_time": 1730260699,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 349952,
@@ -3947,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292157,
+      "num": 454786,
+      "word": "哈里斯连续三天演讲被抗议",
+      "onboard_time": 1730260579,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 291957,
       "num": 291957,
       "word": "业主卧室改厕所被判改回去",
@@ -4123,6 +4131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277460,
+      "num": 277460,
+      "word": "75岁大爷忍痛20年确诊重度抑郁症",
+      "onboard_time": 1730266400,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276713,
       "num": 276713,
       "word": "大藤沙月4比2张本美和",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1730197159,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 268696,
-      "num": 454786,
-      "word": "哈里斯连续三天演讲被抗议",
-      "onboard_time": 1730260579,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 267815,
@@ -4321,6 +4329,14 @@
       "onboard_time": 1730006478,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260086,
+      "num": 340859,
+      "word": "神十八神十九航天员天宫会师",
+      "onboard_time": 1730265919,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259228,
@@ -4851,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236065,
+      "num": 236065,
+      "word": "蔡维泽",
+      "onboard_time": 1730266518,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235881,
       "num": 517127,
       "word": "外卖小哥被3名保安抡起板凳砸",
@@ -5043,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226884,
+      "num": 454991,
+      "word": "端午看似无母实则有母",
+      "onboard_time": 1730265559,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226861,
       "num": 226861,
       "word": "小虎 抽象",
@@ -5195,19 +5227,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221716,
+      "num": 221716,
+      "word": "高雅cp好甜",
+      "onboard_time": 1730265079,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221606,
       "num": 253905,
       "word": "高雅cp",
       "onboard_time": 1730245337,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221507,
-      "num": 221507,
-      "word": "高雅cp好甜",
-      "onboard_time": 1730265079,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -5409,6 +5441,14 @@
       "onboard_time": 1730095338,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213085,
+      "num": 411510,
+      "word": "70后80后90后齐聚中国空间站",
+      "onboard_time": 1730265679,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212850,
@@ -5931,6 +5971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195476,
+      "num": 499375,
+      "word": "戚薇给李承铉的生日礼物是四大名著",
+      "onboard_time": 1730262559,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194915,
       "num": 194915,
       "word": "辛芷蕾薄纱高定裙",
@@ -6121,6 +6169,14 @@
       "onboard_time": 1730080518,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190415,
+      "num": 190415,
+      "word": "春花焰 死了都要爱",
+      "onboard_time": 1730265798,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 190408,
@@ -6385,6 +6441,14 @@
       "onboard_time": 1730096238,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182123,
+      "num": 182123,
+      "word": "汪苏泷苏州",
+      "onboard_time": 1730266099,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 181711,
@@ -7355,14 +7419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153948,
-      "num": 411510,
-      "word": "70后80后90后齐聚中国空间站",
-      "onboard_time": 1730265679,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153855,
       "num": 244833,
       "word": "张新成回应金鹰节唯一提名95生",
@@ -8043,6 +8099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135665,
+      "num": 275589,
+      "word": "文潇是赵远舟亲手养大的玫瑰",
+      "onboard_time": 1730266760,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135578,
       "num": 135578,
       "word": "杨洋雨霖铃骑马路透",
@@ -8265,14 +8329,6 @@
       "onboard_time": 1729954582,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129287,
-      "num": 454991,
-      "word": "端午看似无母实则有母",
-      "onboard_time": 1730265559,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 129081,
@@ -8945,14 +9001,6 @@
       "onboard_time": 1730048535,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96115,
-      "num": 499375,
-      "word": "戚薇给李承铉的生日礼物是四大名著",
-      "onboard_time": 1730262559,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 96059,
@@ -10116,7 +10164,7 @@
     },
     {
       "raw_hot": 32381,
-      "num": 200971,
+      "num": 317802,
       "word": "你找到生活的解药了吗",
       "onboard_time": 1730265259,
       "rank": 39,
@@ -10315,6 +10363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28626,
+      "num": 455485,
+      "word": "失孤原型案将迎最终章",
+      "onboard_time": 1730265738,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28515,
       "num": 286964,
       "word": "成毅想做个纯粹的演员",
@@ -10347,14 +10403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27504,
-      "num": 455485,
-      "word": "失孤原型案将迎最终章",
-      "onboard_time": 1730265738,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27421,
       "num": 304697,
       "word": "南极科考的难度有多大",
@@ -10377,6 +10425,14 @@
       "onboard_time": 1730139252,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27025,
+      "num": 183853,
+      "word": "赵露思与紫色的适配度",
+      "onboard_time": 1730266459,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 27003,
@@ -10449,6 +10505,22 @@
       "onboard_time": 1729979111,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25012,
+      "num": 333349,
+      "word": "郭刚堂称可谅解呼富吉只要他全交代",
+      "onboard_time": 1730266518,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24614,
+      "num": 312686,
+      "word": "何超莲陪窦骁医院就诊",
+      "onboard_time": 1730266400,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 24603,
