@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730288143422,
+  "endTime": 1730292193131,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -9,6 +9,14 @@
       "onboard_time": 1730260579,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3537736,
+      "num": 3537736,
+      "word": "青岛通报网传代孕事件",
+      "onboard_time": 1730289559,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2982838,
@@ -65,6 +73,14 @@
       "onboard_time": 1730269817,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1944998,
+      "num": 391291,
+      "word": "彭高翁青雅 线下be",
+      "onboard_time": 1730288719,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1847868,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943028,
+      "num": 943028,
+      "word": "刘烨在花少一个人去玩",
+      "onboard_time": 1730290818,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922666,
       "num": 922666,
       "word": "三只羊辟谣小杨哥复播",
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713383,
+      "num": 390221,
+      "word": "烧伤妈妈30%皮肤基本长好",
+      "onboard_time": 1730288538,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712341,
       "num": 591825,
       "word": "赵露思刘宇宁发布会同框生图",
@@ -579,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551975,
+      "num": 551975,
+      "word": "中级会计成绩",
+      "onboard_time": 1730289798,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 537750,
       "num": 537750,
       "word": "美国一恋综男嘉宾是变态连环杀手",
@@ -608,6 +648,14 @@
       "word": "恋综史上无法超越的告白",
       "onboard_time": 1730243957,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 489299,
+      "num": 388447,
+      "word": "彭高 翁青雅",
+      "onboard_time": 1730291360,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -691,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418568,
+      "num": 418568,
+      "word": "春花焰大结局",
+      "onboard_time": 1730289138,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418489,
       "num": 418489,
       "word": "6名中国航天员太空会师",
@@ -715,12 +771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392256,
+      "num": 389488,
+      "word": "烧伤妈妈丈夫回应质疑",
+      "onboard_time": 1730286258,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390173,
       "num": 364818,
       "word": "原来心脏是螺旋形的",
       "onboard_time": 1730268439,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388647,
+      "num": 388647,
+      "word": "青岛代孕事件5人被罚",
+      "onboard_time": 1730289559,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382717,
@@ -819,6 +891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328549,
+      "num": 328549,
+      "word": "第一次知道双戒指的含义",
+      "onboard_time": 1730288958,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 326302,
+      "num": 326302,
+      "word": "赵露思造型",
+      "onboard_time": 1730290879,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324450,
       "num": 324450,
       "word": "邓超也发了红发自拍",
@@ -859,14 +947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 314786,
-      "num": 314786,
-      "word": "烧伤妈妈丈夫回应质疑",
-      "onboard_time": 1730286258,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312112,
       "num": 312112,
       "word": "马斯克想让14个母子住在一起",
@@ -895,6 +975,14 @@
       "num": 303826,
       "word": "王浩泽全系第一保研东大",
       "onboard_time": 1730217978,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302483,
+      "num": 242307,
+      "word": "广州一饭店被拍到老鼠在后厨啃包子",
+      "onboard_time": 1730290039,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -987,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261700,
+      "num": 261700,
+      "word": "娜扎丞磊血泪吻镜头",
+      "onboard_time": 1730291117,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259019,
       "num": 259019,
       "word": "姚明任期内中国男篮没有打过奥运会",
@@ -1048,6 +1144,14 @@
       "word": "上海台风",
       "onboard_time": 1730278158,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242492,
+      "num": 391501,
+      "word": "青岛代孕事件两公司法人被立案",
+      "onboard_time": 1730290399,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217530,
+      "num": 217530,
+      "word": "男子组织多名十三四岁少女有偿陪侍",
+      "onboard_time": 1730287878,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216326,
       "num": 216326,
       "word": "BABYMONSTER新歌上线",
@@ -1307,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201760,
+      "num": 258863,
+      "word": "小巷人家",
+      "onboard_time": 1730200099,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201403,
       "num": 215658,
       "word": "张艺兴演唱会获得2024缪斯设计奖",
@@ -1345,6 +1465,14 @@
       "onboard_time": 1730272337,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197477,
+      "num": 253408,
+      "word": "亚冬会奖牌设计公布",
+      "onboard_time": 1730291839,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 195476,
@@ -1555,12 +1683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177293,
+      "num": 387682,
+      "word": "赵露思回应天崩开局",
+      "onboard_time": 1730291179,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175921,
       "num": 175921,
       "word": "李晋晔脑综滑铁卢",
       "onboard_time": 1730272217,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175735,
+      "num": 244596,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730291598,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 175385,
@@ -1699,6 +1843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164746,
+      "num": 164746,
+      "word": "荣耀Magic7",
+      "onboard_time": 1730288238,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164427,
       "num": 164427,
       "word": "于东来回应山姆进河南",
@@ -1803,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153228,
+      "num": 153228,
+      "word": "今年第一批滑雪人已经开板了",
+      "onboard_time": 1730290458,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 152996,
       "num": 152996,
       "word": "细思极恐粗思也恐",
@@ -1899,12 +2059,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 146194,
-      "num": 146194,
-      "word": "男子组织多名十三四岁少女有偿陪侍",
-      "onboard_time": 1730287878,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 146435,
+      "num": 146435,
+      "word": "林诗栋逆转晋级16强",
+      "onboard_time": 1730288658,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 145312,
@@ -1987,11 +2147,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131355,
+      "num": 131355,
+      "word": "Whiplash初一位",
+      "onboard_time": 1730290698,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 131203,
+      "num": 131203,
+      "word": "穿越时空感受敦煌的召唤",
+      "onboard_time": 1730291117,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130714,
       "num": 143396,
       "word": "赵露思虞书欣新剧同天开播",
       "onboard_time": 1730213541,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130398,
+      "num": 130398,
+      "word": "刘宇宁听到男粉喊老公好棒的反应",
+      "onboard_time": 1730291960,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2131,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102039,
+      "num": 388129,
+      "word": "宋轶生日直播",
+      "onboard_time": 1730291179,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101438,
       "num": 101438,
       "word": "一人一句祝福神十九航天员",
@@ -2203,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83400,
+      "num": 389059,
+      "word": "中国BOY为天猫双11打价",
+      "onboard_time": 1730289618,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82451,
       "num": 372134,
       "word": "探访江苏知名农民副县长三蟒的豪宅",
@@ -2241,6 +2441,14 @@
       "onboard_time": 1730200521,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80775,
+      "num": 130769,
+      "word": "周三可能更容易冲动消费",
+      "onboard_time": 1730289978,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80538,
@@ -2385,14 +2593,6 @@
       "onboard_time": 1730280079,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59696,
-      "num": 59696,
-      "word": "小巷人家",
-      "onboard_time": 1730200099,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 58316,
@@ -2579,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35368,
+      "num": 387335,
+      "word": "媒体评领导称家里死人了先臭着",
+      "onboard_time": 1730290638,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34729,
       "num": 354176,
       "word": "iQOO13珠峰屏",
@@ -2643,7 +2851,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29637,
+      "raw_hot": 29745,
       "num": 1219572,
       "word": "斑斓秋色染神州",
       "onboard_time": 1730285598,
@@ -2771,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21112,
+      "num": 133039,
+      "word": "赵明发布会名场面",
+      "onboard_time": 1730290217,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21109,
       "num": 31395,
       "word": "王浩泽谈妈妈对自己的影响",
@@ -2827,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17593,
+      "num": 250274,
+      "word": "游戏主播都在用iQOO13",
+      "onboard_time": 1730289856,
+      "rank": 28,
+      "category": "电竞,数码"
+    },
+    {
       "raw_hot": 17456,
       "num": 43033,
       "word": "神十九3名航天员2名是河北人",
@@ -2849,6 +3073,14 @@
       "onboard_time": 1730279358,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12349,
+      "num": 154755,
+      "word": "新版世俱杯上的中国名片",
+      "onboard_time": 1730289618,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 12117,

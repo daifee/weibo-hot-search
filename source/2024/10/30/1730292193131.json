@@ -1,0 +1,410 @@
+{
+  "runTime": 1730292193131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3537736,
+        "num": 3537736,
+        "word": "青岛通报网传代孕事件",
+        "onboard_time": 1730289559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967292,
+        "num": 967292,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29745,
+        "num": 946826,
+        "word": "斑斓秋色染神州",
+        "onboard_time": 1730285598,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943028,
+        "num": 943028,
+        "word": "刘烨在花少一个人去玩",
+        "onboard_time": 1730290818,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559159,
+        "num": 559159,
+        "word": "荣梓杉工作室声明",
+        "onboard_time": 1730286438,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551975,
+        "num": 551975,
+        "word": "中级会计成绩",
+        "onboard_time": 1730289798,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 535561,
+        "num": 535561,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 418568,
+        "num": 418568,
+        "word": "春花焰大结局",
+        "onboard_time": 1730289138,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391900,
+        "num": 391900,
+        "word": "三只羊辟谣小杨哥复播",
+        "onboard_time": 1730285419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242492,
+        "num": 391501,
+        "word": "青岛代孕事件两公司法人被立案",
+        "onboard_time": 1730290399,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1944998,
+        "num": 391291,
+        "word": "彭高翁青雅 线下be",
+        "onboard_time": 1730288719,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738298,
+        "num": 390694,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713383,
+        "num": 390221,
+        "word": "烧伤妈妈30%皮肤基本长好",
+        "onboard_time": 1730288538,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392256,
+        "num": 389488,
+        "word": "烧伤妈妈丈夫回应质疑",
+        "onboard_time": 1730286258,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83400,
+        "num": 389059,
+        "word": "中国BOY为天猫双11打价",
+        "onboard_time": 1730289618,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 388647,
+        "num": 388647,
+        "word": "青岛代孕事件5人被罚",
+        "onboard_time": 1730289559,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489299,
+        "num": 388447,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730291360,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102039,
+        "num": 388129,
+        "word": "宋轶生日直播",
+        "onboard_time": 1730291179,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177293,
+        "num": 387682,
+        "word": "赵露思回应天崩开局",
+        "onboard_time": 1730291179,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35368,
+        "num": 387335,
+        "word": "媒体评领导称家里死人了先臭着",
+        "onboard_time": 1730290638,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387221,
+        "num": 387221,
+        "word": "恶作剧捉弄同事酿悲剧赔了10万",
+        "onboard_time": 1730280920,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355609,
+        "num": 355609,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 21,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 328549,
+        "num": 328549,
+        "word": "第一次知道双戒指的含义",
+        "onboard_time": 1730288958,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326302,
+        "num": 326302,
+        "word": "赵露思造型",
+        "onboard_time": 1730290879,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261768,
+        "num": 261768,
+        "word": "周雨彤 金晨是我的专业捧哏",
+        "onboard_time": 1730283859,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261700,
+        "num": 261700,
+        "word": "娜扎丞磊血泪吻镜头",
+        "onboard_time": 1730291117,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 258863,
+        "word": "小巷人家",
+        "onboard_time": 1730290518,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197477,
+        "num": 253408,
+        "word": "亚冬会奖牌设计公布",
+        "onboard_time": 1730291839,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17593,
+        "num": 250274,
+        "word": "游戏主播都在用iQOO13",
+        "onboard_time": 1730289856,
+        "rank": 28,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 175735,
+        "num": 244596,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730291598,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302483,
+        "num": 242307,
+        "word": "广州一饭店被拍到老鼠在后厨啃包子",
+        "onboard_time": 1730290039,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239293,
+        "num": 239293,
+        "word": "呼和浩特地震",
+        "onboard_time": 1730287699,
+        "rank": 31,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 232600,
+        "num": 232600,
+        "word": "上海将迎1981年来11月最大降雨",
+        "onboard_time": 1730279479,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217530,
+        "num": 217530,
+        "word": "男子组织多名十三四岁少女有偿陪侍",
+        "onboard_time": 1730287878,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186507,
+        "num": 186507,
+        "word": "超强台风康妮",
+        "onboard_time": 1730278580,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179744,
+        "num": 179744,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177523,
+        "num": 177523,
+        "word": "很多被拐孩子和亲生父母已无感情",
+        "onboard_time": 1730276958,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165031,
+        "num": 165031,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164746,
+        "num": 164746,
+        "word": "荣耀Magic7",
+        "onboard_time": 1730288238,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12349,
+        "num": 154755,
+        "word": "新版世俱杯上的中国名片",
+        "onboard_time": 1730289618,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153228,
+        "num": 153228,
+        "word": "今年第一批滑雪人已经开板了",
+        "onboard_time": 1730290458,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149031,
+        "num": 149031,
+        "word": "心动的信号节目组",
+        "onboard_time": 1730272398,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146435,
+        "num": 146435,
+        "word": "林诗栋逆转晋级16强",
+        "onboard_time": 1730288658,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136313,
+        "num": 136313,
+        "word": "中级会计成绩还没出",
+        "onboard_time": 1730282538,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21112,
+        "num": 133039,
+        "word": "赵明发布会名场面",
+        "onboard_time": 1730290217,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131355,
+        "num": 131355,
+        "word": "Whiplash初一位",
+        "onboard_time": 1730290698,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131203,
+        "num": 131203,
+        "word": "穿越时空感受敦煌的召唤",
+        "onboard_time": 1730291117,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131166,
+        "num": 131166,
+        "word": "曝姚明辞职",
+        "onboard_time": 1730277918,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80775,
+        "num": 130769,
+        "word": "周三可能更容易冲动消费",
+        "onboard_time": 1730289978,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130398,
+        "num": 130398,
+        "word": "刘宇宁听到男粉喊老公好棒的反应",
+        "onboard_time": 1730291960,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#在这些研讨班上总书记都强调了什么#"
+    }
+  }
+}
