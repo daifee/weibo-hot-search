@@ -1,10 +1,10 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730330574317,
+  "endTime": 1730331442010,
   "band_list": [
     {
-      "raw_hot": 1195961,
-      "num": 1195961,
+      "raw_hot": 1285905,
+      "num": 1285905,
       "word": "被捕韩国间谍曾在多家中国芯片厂工作",
       "onboard_time": 1730307015,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 757205,
-      "num": 774547,
+      "raw_hot": 817557,
+      "num": 817557,
       "word": "侯明昊被陈好贴脸开大",
       "onboard_time": 1730298802,
       "rank": 3,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381884,
+      "num": 192104,
+      "word": "90%三只羊MCN签约达人粉丝低于10万",
+      "onboard_time": 1730308215,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 380562,
+      "num": 194381,
+      "word": "跳窗逃跑副局长将被依法依规处置",
+      "onboard_time": 1730304798,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366830,
       "num": 366830,
       "word": "和平精英",
@@ -83,12 +99,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 339003,
-      "num": 194381,
-      "word": "跳窗逃跑副局长将被依法依规处置",
-      "onboard_time": 1730304798,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 337953,
+      "num": 337953,
+      "word": "五角大楼就俄举行核军演表态",
+      "onboard_time": 1730313371,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 324920,
@@ -97,14 +113,6 @@
       "onboard_time": 1730290818,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324288,
-      "num": 192104,
-      "word": "90%三只羊MCN签约达人粉丝低于10万",
-      "onboard_time": 1730308215,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 312714,
@@ -123,12 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280956,
-      "num": 280956,
-      "word": "五角大楼就俄举行核军演表态",
-      "onboard_time": 1730313371,
-      "rank": 19,
-      "category": "国外时政"
+      "raw_hot": 274919,
+      "num": 171630,
+      "word": "12岁女孩体重400斤无法行走",
+      "onboard_time": 1730292259,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263003,
@@ -147,12 +155,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 245978,
-      "num": 171630,
-      "word": "12岁女孩体重400斤无法行走",
-      "onboard_time": 1730292259,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 236817,
+      "num": 195805,
+      "word": "美大选结果可能要花上几天才能揭晓",
+      "onboard_time": 1730316011,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234632,
@@ -195,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195805,
-      "num": 195805,
-      "word": "美大选结果可能要花上几天才能揭晓",
-      "onboard_time": 1730316011,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 206458,
+      "num": 206458,
+      "word": "张艺兴说孙红雷是自己的素材库",
+      "onboard_time": 1730327893,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 190196,
@@ -219,6 +227,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 181461,
+      "num": 181461,
+      "word": "台风康妮所致强风雨具有一定极端性",
+      "onboard_time": 1730328494,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179917,
       "num": 179917,
       "word": "正午阳光 群像剧",
@@ -227,8 +243,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167631,
-      "num": 167631,
+      "raw_hot": 168433,
+      "num": 168433,
       "word": "辽宁一小区突发大火致1人死亡",
       "onboard_time": 1730324051,
       "rank": 49,
@@ -241,6 +257,14 @@
       "onboard_time": 1730292259,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 151575,
+      "num": 194878,
+      "word": "撒贝宁的状态令人羡慕了",
+      "onboard_time": 1730325012,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 146894,
@@ -267,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132371,
-      "num": 194878,
-      "word": "撒贝宁的状态令人羡慕了",
-      "onboard_time": 1730325012,
+      "raw_hot": 129670,
+      "num": 129670,
+      "word": "张百乔伴郎团好多熟人",
+      "onboard_time": 1730328016,
       "rank": 18,
-      "category": "艺人"
+      "category": "网红"
     },
     {
       "raw_hot": 129436,
@@ -339,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117300,
+      "num": 117300,
+      "word": "多人跨省闪婚女方均在半年内离开",
+      "onboard_time": 1730320090,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116267,
       "num": 116267,
       "word": "阿斯利康中国总裁王磊配合调查",
@@ -353,6 +385,14 @@
       "onboard_time": 1730301322,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112333,
+      "num": 112333,
+      "word": "女子1次备好15天饭菜自制预制餐",
+      "onboard_time": 1730304199,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109427,
@@ -371,36 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107731,
-      "num": 107731,
-      "word": "张艺兴说孙红雷是自己的素材库",
-      "onboard_time": 1730327893,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104826,
       "num": 104826,
       "word": "直面不想生不敢生不能生",
       "onboard_time": 1730284159,
       "rank": 40,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 102548,
-      "num": 86349,
-      "word": "女子1次备好15天饭菜自制预制餐",
-      "onboard_time": 1730304199,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95889,
-      "num": 95889,
-      "word": "张百乔伴郎团好多熟人",
-      "onboard_time": 1730328016,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 95578,
@@ -419,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94127,
+      "num": 94127,
+      "word": "爷爷用钢丝球帮孙女洗车",
+      "onboard_time": 1730330837,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93188,
       "num": 93188,
       "word": "林一欢乐谷直播",
@@ -433,22 +457,6 @@
       "onboard_time": 1730298261,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89636,
-      "num": 88544,
-      "word": "台风康妮所致强风雨具有一定极端性",
-      "onboard_time": 1730328494,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88752,
-      "num": 88752,
-      "word": "多人跨省闪婚女方均在半年内离开",
-      "onboard_time": 1730320090,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87639,
@@ -491,11 +499,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79235,
-      "num": 79235,
+      "raw_hot": 82014,
+      "num": 82014,
       "word": "超强台风康妮",
       "onboard_time": 1730278580,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78783,
+      "num": 117409,
+      "word": "任敏婚服造型 白月光",
+      "onboard_time": 1730330236,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75061,
+      "num": 75061,
+      "word": "广西警方破获特大贩毒案",
+      "onboard_time": 1730310913,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -507,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64887,
-      "num": 68887,
-      "word": "广西警方破获特大贩毒案",
-      "onboard_time": 1730310913,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 71521,
+      "num": 93547,
+      "word": "第一次知道双戒指的含义",
+      "onboard_time": 1730288958,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 63577,
@@ -523,32 +547,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63099,
-      "num": 87114,
-      "word": "第一次知道双戒指的含义",
-      "onboard_time": 1730288958,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 60635,
-      "num": 68987,
+      "raw_hot": 60808,
+      "num": 74247,
       "word": "丈夫更新烧伤妈妈最新状态",
       "onboard_time": 1730320392,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56698,
-      "num": 68969,
+      "raw_hot": 59139,
+      "num": 73780,
       "word": "三只羊辟谣小杨哥复播",
       "onboard_time": 1730285419,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49588,
-      "num": 68758,
+      "raw_hot": 58667,
+      "num": 73590,
       "word": "曼联vs莱斯特城",
       "onboard_time": 1730330116,
       "rank": 42,
@@ -563,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40633,
-      "num": 68373,
-      "word": "任敏婚服造型 白月光",
-      "onboard_time": 1730330236,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 45704,
+      "num": 172710,
+      "word": "英国核潜艇船坞发生火灾",
+      "onboard_time": 1730328975,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30692,
@@ -577,14 +593,6 @@
       "onboard_time": 1730320871,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28940,
-      "num": 95479,
-      "word": "英国核潜艇船坞发生火灾",
-      "onboard_time": 1730328975,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 28280,
@@ -609,6 +617,14 @@
       "onboard_time": 1730311931,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18158,
+      "num": 117318,
+      "word": "为什么说历史选择了额济纳",
+      "onboard_time": 1730331376,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17856,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 11586,
-      "num": 553451,
+      "num": 626862,
       "word": "中国人上太空有人接的感觉太好了",
       "onboard_time": 1730294779,
       "rank": 2,

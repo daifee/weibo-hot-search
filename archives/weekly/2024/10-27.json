@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730330574317,
+  "endTime": 1730331442010,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285905,
+      "num": 1285905,
+      "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+      "onboard_time": 1730307015,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1284530,
       "num": 1284530,
       "word": "听泉赏宝病了准备先沉淀",
@@ -921,14 +929,6 @@
       "onboard_time": 1729988416,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1195961,
-      "num": 1195961,
-      "word": "被捕韩国间谍曾在多家中国芯片厂工作",
-      "onboard_time": 1730307015,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1195205,
@@ -1851,6 +1851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 817557,
+      "num": 817557,
+      "word": "侯明昊被陈好贴脸开大",
+      "onboard_time": 1730298802,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 811107,
       "num": 811107,
       "word": "卫健委回应奖励三孩家庭1.3万",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1730019379,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757205,
-      "num": 774547,
-      "word": "侯明昊被陈好贴脸开大",
-      "onboard_time": 1730298802,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 756290,
@@ -3683,12 +3683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381884,
+      "num": 192104,
+      "word": "90%三只羊MCN签约达人粉丝低于10万",
+      "onboard_time": 1730308215,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 380878,
       "num": 380878,
       "word": "喻言卡位",
       "onboard_time": 1729988236,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380562,
+      "num": 194381,
+      "word": "跳窗逃跑副局长将被依法依规处置",
+      "onboard_time": 1730304798,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380541,
@@ -4043,12 +4059,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 339003,
-      "num": 194381,
-      "word": "跳窗逃跑副局长将被依法依规处置",
-      "onboard_time": 1730304798,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 337953,
+      "num": 337953,
+      "word": "五角大楼就俄举行核军演表态",
+      "onboard_time": 1730313371,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 336628,
@@ -4193,14 +4209,6 @@
       "onboard_time": 1729995737,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324288,
-      "num": 192104,
-      "word": "90%三只羊MCN签约达人粉丝低于10万",
-      "onboard_time": 1730308215,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 322118,
@@ -4793,14 +4801,6 @@
       "onboard_time": 1729954821,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280956,
-      "num": 280956,
-      "word": "五角大楼就俄举行核军演表态",
-      "onboard_time": 1730313371,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 280429,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1730263460,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236817,
+      "num": 195805,
+      "word": "美大选结果可能要花上几天才能揭晓",
+      "onboard_time": 1730316011,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 236138,
@@ -6411,6 +6419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206458,
+      "num": 206458,
+      "word": "张艺兴说孙红雷是自己的素材库",
+      "onboard_time": 1730327893,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206448,
       "num": 483594,
       "word": "湖南一业主在小区地下车库摆酒席",
@@ -6825,14 +6841,6 @@
       "onboard_time": 1730193679,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195805,
-      "num": 195805,
-      "word": "美大选结果可能要花上几天才能揭晓",
-      "onboard_time": 1730316011,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195782,
@@ -7483,6 +7491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181461,
+      "num": 181461,
+      "word": "台风康妮所致强风雨具有一定极端性",
+      "onboard_time": 1730328494,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181335,
       "num": 181335,
       "word": "工作室回应赵丽颖提名最佳女配",
@@ -8035,6 +8051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168433,
+      "num": 168433,
+      "word": "辽宁一小区突发大火致1人死亡",
+      "onboard_time": 1730324051,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 168174,
       "num": 168174,
       "word": "刘昊然金鹤奖最佳男主角",
@@ -8081,14 +8105,6 @@
       "onboard_time": 1730257758,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167631,
-      "num": 167631,
-      "word": "辽宁一小区突发大火致1人死亡",
-      "onboard_time": 1730324051,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 167339,
@@ -8793,6 +8809,14 @@
       "onboard_time": 1730106919,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151575,
+      "num": 194878,
+      "word": "撒贝宁的状态令人羡慕了",
+      "onboard_time": 1730325012,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 151492,
@@ -9563,14 +9587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132371,
-      "num": 194878,
-      "word": "撒贝宁的状态令人羡慕了",
-      "onboard_time": 1730325012,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132337,
       "num": 554679,
       "word": "好团圆新娘被新郎通知结婚",
@@ -9697,6 +9713,14 @@
       "onboard_time": 1729957160,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129670,
+      "num": 129670,
+      "word": "张百乔伴郎团好多熟人",
+      "onboard_time": 1730328016,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 129587,
@@ -10043,6 +10067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117300,
+      "num": 117300,
+      "word": "多人跨省闪婚女方均在半年内离开",
+      "onboard_time": 1730320090,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116408,
       "num": 239201,
       "word": "十个勤天种下一个未来巡回演唱会",
@@ -10112,6 +10144,14 @@
       "word": "中式美学与秋景的适配度",
       "onboard_time": 1730085377,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112333,
+      "num": 112333,
+      "word": "女子1次备好15天饭菜自制预制餐",
+      "onboard_time": 1730304199,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -10251,14 +10291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107731,
-      "num": 107731,
-      "word": "张艺兴说孙红雷是自己的素材库",
-      "onboard_time": 1730327893,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 107531,
       "num": 107531,
       "word": "丁禹兮在永夜星河拿了反派剧本",
@@ -10368,14 +10400,6 @@
       "word": "人贩子不是人是恶魔",
       "onboard_time": 1730254580,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102548,
-      "num": 86349,
-      "word": "女子1次备好15天饭菜自制预制餐",
-      "onboard_time": 1730304199,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -10499,14 +10523,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 95889,
-      "num": 95889,
-      "word": "张百乔伴郎团好多熟人",
-      "onboard_time": 1730328016,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 95578,
       "num": 178533,
       "word": "重温金庸书中的侠骨柔情",
@@ -10537,6 +10553,14 @@
       "onboard_time": 1730244497,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94127,
+      "num": 94127,
+      "word": "爷爷用钢丝球帮孙女洗车",
+      "onboard_time": 1730330837,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94118,
@@ -10603,27 +10627,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89636,
-      "num": 88544,
-      "word": "台风康妮所致强风雨具有一定极端性",
-      "onboard_time": 1730328494,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89624,
       "num": 496189,
       "word": "初代网红咖啡店漫咖啡突然撤店",
       "onboard_time": 1730214381,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88752,
-      "num": 88752,
-      "word": "多人跨省闪婚女方均在半年内离开",
-      "onboard_time": 1730320090,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -10787,6 +10795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78783,
+      "num": 117409,
+      "word": "任敏婚服造型 白月光",
+      "onboard_time": 1730330236,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78214,
       "num": 78214,
       "word": "贾樟柯新电影上映22天",
@@ -10841,6 +10857,14 @@
       "onboard_time": 1730000178,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75061,
+      "num": 75061,
+      "word": "广西警方破获特大贩毒案",
+      "onboard_time": 1730310913,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74566,
@@ -11011,14 +11035,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 64887,
-      "num": 68887,
-      "word": "广西警方破获特大贩毒案",
-      "onboard_time": 1730310913,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64750,
       "num": 365141,
       "word": "李光洁带王安宇哄蒋欣",
@@ -11147,19 +11163,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60808,
+      "num": 74247,
+      "word": "丈夫更新烧伤妈妈最新状态",
+      "onboard_time": 1730320392,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60708,
       "num": 977311,
       "word": "中国人上太空有人接的感觉太好了",
       "onboard_time": 1730294779,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60635,
-      "num": 68987,
-      "word": "丈夫更新烧伤妈妈最新状态",
-      "onboard_time": 1730320392,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -11201,6 +11217,14 @@
       "onboard_time": 1730066532,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58667,
+      "num": 73590,
+      "word": "曼联vs莱斯特城",
+      "onboard_time": 1730330116,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 58316,
@@ -11411,14 +11435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49588,
-      "num": 68758,
-      "word": "曼联vs莱斯特城",
-      "onboard_time": 1730330116,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49438,
       "num": 1123733,
       "word": "神十九准备就绪",
@@ -11481,6 +11497,14 @@
       "onboard_time": 1730136493,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45704,
+      "num": 172710,
+      "word": "英国核潜艇船坞发生火灾",
+      "onboard_time": 1730328975,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 45397,
@@ -11617,14 +11641,6 @@
       "onboard_time": 1730031079,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40633,
-      "num": 68373,
-      "word": "任敏婚服造型 白月光",
-      "onboard_time": 1730330236,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 40252,
@@ -12227,14 +12243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28940,
-      "num": 95479,
-      "word": "英国核潜艇船坞发生火灾",
-      "onboard_time": 1730328975,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 28864,
       "num": 216604,
       "word": "博主AI助手不是本人胜似本人",
@@ -12769,6 +12777,14 @@
       "onboard_time": 1730060591,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18158,
+      "num": 117318,
+      "word": "为什么说历史选择了额济纳",
+      "onboard_time": 1730331376,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18050,
