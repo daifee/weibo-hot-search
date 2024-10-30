@@ -1,0 +1,410 @@
+{
+  "runTime": 1730280264469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751707,
+        "num": 1751707,
+        "word": "曝姚明辞职",
+        "onboard_time": 1730277918,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1369553,
+        "num": 1369553,
+        "word": "荣梓杉偷偷给受伤非洲男孩塞钱",
+        "onboard_time": 1730275458,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16343,
+        "num": 1046913,
+        "word": "120秒看神十九发射全程",
+        "onboard_time": 1730254758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986241,
+        "num": 986241,
+        "word": "姚明",
+        "onboard_time": 1730277379,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 756290,
+        "num": 756290,
+        "word": "赵丽颖再次出席东京电影节映后",
+        "onboard_time": 1730277799,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 744574,
+        "num": 744574,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 652119,
+        "num": 652119,
+        "word": "很多被拐孩子和亲生父母已无感情",
+        "onboard_time": 1730276958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551281,
+        "num": 551281,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486242,
+        "num": 486242,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12910,
+        "num": 485305,
+        "word": "起底找茬式测评的生意经",
+        "onboard_time": 1730279358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1700900,
+        "num": 484445,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1137151,
+        "num": 483662,
+        "word": "张百乔小雪婚礼",
+        "onboard_time": 1730277019,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 850442,
+        "num": 482338,
+        "word": "75岁大爷忍痛20年确诊重度抑郁症",
+        "onboard_time": 1730266400,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8649,
+        "num": 480880,
+        "word": "汽车博主韩路谈为何跨到旅游圈",
+        "onboard_time": 1730278819,
+        "rank": 13,
+        "category": "汽车,旅游"
+      },
+      {
+        "raw_hot": 111716,
+        "num": 479902,
+        "word": "年销超2000万的店铺倒在双十一",
+        "onboard_time": 1730274678,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428552,
+        "num": 479462,
+        "word": "心动的信号节目组",
+        "onboard_time": 1730272398,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405532,
+        "num": 478048,
+        "word": "侯佩岑录再见爱人cha了APT",
+        "onboard_time": 1730279059,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64231,
+        "num": 476383,
+        "word": "为什么路边的东西不要随便捡",
+        "onboard_time": 1730280079,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504800,
+        "num": 475615,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17228,
+        "num": 474453,
+        "word": "今年的双11究竟哪些东西便宜",
+        "onboard_time": 1730279539,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473886,
+        "num": 473886,
+        "word": "超强台风康妮",
+        "onboard_time": 1730278580,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423916,
+        "num": 423916,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 21,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 387336,
+        "num": 387336,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34149,
+        "num": 373105,
+        "word": "波司登极地极寒系列上新",
+        "onboard_time": 1730279300,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 372510,
+        "num": 372510,
+        "word": "户口上错女儿与母亲年龄只差9岁",
+        "onboard_time": 1730269817,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349060,
+        "num": 349060,
+        "word": "花79块钱报了一个香港纯玩一日游",
+        "onboard_time": 1730277679,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 321725,
+        "num": 321725,
+        "word": "吸血鬼日记男主退圈",
+        "onboard_time": 1730278518,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253292,
+        "num": 253292,
+        "word": "赵牧辰 摇摆",
+        "onboard_time": 1730260699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245866,
+        "num": 245866,
+        "word": "上海台风",
+        "onboard_time": 1730278158,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229093,
+        "num": 229093,
+        "word": "白鹿一天7套高定",
+        "onboard_time": 1730267118,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210927,
+        "num": 210927,
+        "word": "上海将迎1981年来11月最大降雨",
+        "onboard_time": 1730279479,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202922,
+        "num": 202922,
+        "word": "小西天保安大叔称对不起大家",
+        "onboard_time": 1730278460,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196459,
+        "num": 196459,
+        "word": "动物园斑马应激狂奔撞墙死亡",
+        "onboard_time": 1730271078,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194262,
+        "num": 194262,
+        "word": "权志龙新歌回归预告",
+        "onboard_time": 1730276778,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189790,
+        "num": 189790,
+        "word": "神十八神十九航天员天宫会师",
+        "onboard_time": 1730265919,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33822,
+        "num": 185418,
+        "word": "何小鹏深夜帮媒体推车",
+        "onboard_time": 1730276899,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184011,
+        "num": 184011,
+        "word": "珠帘玉幕微博追剧团",
+        "onboard_time": 1730279840,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183879,
+        "num": 183879,
+        "word": "陈楚生新歌MV是用AI做的",
+        "onboard_time": 1730279898,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182709,
+        "num": 182709,
+        "word": "女子二胎咨询休产次日竟遭辞退",
+        "onboard_time": 1730272217,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178036,
+        "num": 178036,
+        "word": "恋综梦女",
+        "onboard_time": 1730262439,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177362,
+        "num": 177362,
+        "word": "成都19岁男生持械伤人致1人身亡",
+        "onboard_time": 1730269879,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173059,
+        "num": 173059,
+        "word": "恋与深空 审美",
+        "onboard_time": 1730267659,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170177,
+        "num": 170177,
+        "word": "阿淼淼账号已被禁言",
+        "onboard_time": 1730278398,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22004,
+        "num": 168274,
+        "word": "机器人太奶去澳门整活儿",
+        "onboard_time": 1730276179,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167154,
+        "num": 167154,
+        "word": "赵牧辰 追妻火葬场",
+        "onboard_time": 1730260820,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164035,
+        "num": 164035,
+        "word": "雷军称不要迷信BBA",
+        "onboard_time": 1730274079,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151372,
+        "num": 151372,
+        "word": "70后80后90后齐聚中国空间站",
+        "onboard_time": 1730265679,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144518,
+        "num": 144518,
+        "word": "向女童泼开水男生未满14不予行政处罚",
+        "onboard_time": 1730280139,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 140874,
+        "word": "郭刚堂之子被拐案二审维持原判",
+        "onboard_time": 1730270119,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "高三走读生晚上十点回家吃什么",
+        "onboard_time": 1730263581,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#在这些研讨班上总书记都强调了什么#"
+    }
+  }
+}
