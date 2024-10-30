@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/30 18:24:53
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/30 18:42:29
 </p>
 </blockquote>
 <p>
@@ -4671,6 +4671,12 @@ K总停播（热度：1089422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%8E%BF%E9%95%BF%E8%A2%AB%E6%8A%93%E5%BD%93%E6%99%9A%E8%80%81%E7%99%BE%E5%A7%93%E6%94%BE%E9%9E%AD%E5%BA%86%E7%A5%9D%23" target="weibo">
+副县长被抓当晚老百姓放鞭庆祝（热度：1080198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E7%97%9B%E5%87%8F%E8%82%A5%23" target="weibo">
 刺痛减肥（热度：1078807）
 </a>
@@ -6005,12 +6011,6 @@ T1对战GEN（热度：952675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%BA%E8%A1%8C%E5%BF%85%E6%9C%89%E6%88%91%E5%B8%88%E7%84%89%E5%85%B6%E5%AE%9E%E7%BC%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%97%23" target="weibo">
 三人行必有我师焉其实缺了一个字（热度：936519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B7%A5%E4%BD%9C%E7%94%B5%E8%84%91%E8%97%8F64G%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
-男子工作电脑藏64G色情视频被开除（热度：936197）
 </a>
 </li>
 

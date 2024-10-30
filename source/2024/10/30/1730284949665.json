@@ -1,0 +1,410 @@
+{
+  "runTime": 1730284949665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003413,
+        "num": 2003413,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 718544,
+        "num": 718544,
+        "word": "上海将迎1981年来11月最大降雨",
+        "onboard_time": 1730279479,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7538,
+        "num": 699418,
+        "word": "120秒看神十九发射全程",
+        "onboard_time": 1730254758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080198,
+        "num": 691000,
+        "word": "副县长被抓当晚老百姓放鞭庆祝",
+        "onboard_time": 1730282419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682224,
+        "num": 682224,
+        "word": "超强台风康妮",
+        "onboard_time": 1730278580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490937,
+        "num": 490937,
+        "word": "曝姚明辞职",
+        "onboard_time": 1730277918,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483978,
+        "num": 483978,
+        "word": "很多被拐孩子和亲生父母已无感情",
+        "onboard_time": 1730276958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333432,
+        "num": 483264,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251012,
+        "num": 482443,
+        "word": "心动的信号节目组",
+        "onboard_time": 1730272398,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198569,
+        "num": 481674,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1582573,
+        "num": 481268,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1378770,
+        "num": 480148,
+        "word": "恶作剧捉弄同事酿悲剧赔了10万",
+        "onboard_time": 1730280920,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707271,
+        "num": 479761,
+        "word": "赵露思刘宇宁发布会同框生图",
+        "onboard_time": 1730282359,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242725,
+        "num": 478798,
+        "word": "赵丽颖再次出席东京电影节映后",
+        "onboard_time": 1730277799,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18202,
+        "num": 477949,
+        "word": "官方回应轿车与火车相撞多人受伤",
+        "onboard_time": 1730284159,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36805,
+        "num": 476698,
+        "word": "打游戏就用iQOO13",
+        "onboard_time": 1730280920,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26814,
+        "num": 475731,
+        "word": "雷神省油更Ultra",
+        "onboard_time": 1730282959,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38619,
+        "num": 474977,
+        "word": "如何评价iQOO13性能",
+        "onboard_time": 1730280380,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35162,
+        "num": 473968,
+        "word": "解清帅父子到山东声援郭刚堂",
+        "onboard_time": 1730280319,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 473665,
+        "word": "被性能之光闪到了",
+        "onboard_time": 1730280920,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44825,
+        "num": 472490,
+        "word": "波司登极地系列可以穿到零下50度",
+        "onboard_time": 1730280380,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1071711,
+        "num": 471743,
+        "word": "荣梓杉前经纪团队成员回应",
+        "onboard_time": 1730282119,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624364,
+        "num": 471268,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 22,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 493532,
+        "num": 470048,
+        "word": "75岁大爷忍痛20年确诊重度抑郁症",
+        "onboard_time": 1730266400,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469743,
+        "num": 469743,
+        "word": "张百乔小雪婚礼",
+        "onboard_time": 1730277019,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 434250,
+        "num": 434250,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286077,
+        "num": 432512,
+        "word": "周雨彤 金晨是我的专业捧哏",
+        "onboard_time": 1730283859,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174146,
+        "num": 398239,
+        "word": "毓言cp芭莎大片",
+        "onboard_time": 1730282717,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172462,
+        "num": 359679,
+        "word": "辛芷蕾说赵丽颖让人有保护欲",
+        "onboard_time": 1730282179,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28538,
+        "num": 337453,
+        "word": "张大仙的直播搭子iQOO13",
+        "onboard_time": 1730284219,
+        "rank": 29,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 313120,
+        "num": 313120,
+        "word": "花79块钱报了一个香港纯玩一日游",
+        "onboard_time": 1730277679,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21641,
+        "num": 293681,
+        "word": "iQOO13珠峰屏",
+        "onboard_time": 1730282780,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148219,
+        "num": 290380,
+        "word": "张艺兴回应演唱会获奖",
+        "onboard_time": 1730283498,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289533,
+        "num": 289533,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259019,
+        "num": 259019,
+        "word": "姚明任期内中国男篮没有打过奥运会",
+        "onboard_time": 1730281639,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238895,
+        "num": 238895,
+        "word": "小西天保安大叔哽咽谈辞职原因",
+        "onboard_time": 1730280020,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 232758,
+        "num": 232758,
+        "word": "孙阳给张百乔当伴郎",
+        "onboard_time": 1730283799,
+        "rank": 36,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 39940,
+        "num": 224747,
+        "word": "iQOO13价格",
+        "onboard_time": 1730284518,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221425,
+        "num": 221425,
+        "word": "吸血鬼日记男主退圈",
+        "onboard_time": 1730278518,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158298,
+        "num": 199043,
+        "word": "肖战黑粉被判公开道歉",
+        "onboard_time": 1730284817,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182323,
+        "num": 182323,
+        "word": "动物园斑马应激狂奔撞墙死亡",
+        "onboard_time": 1730271078,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20017,
+        "num": 180077,
+        "word": "多名消费者吐槽电子门锁夹手",
+        "onboard_time": 1730282717,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177846,
+        "num": 177846,
+        "word": "过度礼貌会让沟通变得低效",
+        "onboard_time": 1730282419,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171288,
+        "num": 171288,
+        "word": "户口上错女儿与母亲年龄只差9岁",
+        "onboard_time": 1730269817,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146777,
+        "num": 164056,
+        "word": "白鹿一天7套高定",
+        "onboard_time": 1730267118,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146098,
+        "num": 163198,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1730283137,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162977,
+        "num": 162977,
+        "word": "米莱狄全新秒杀皮肤",
+        "onboard_time": 1730282899,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157872,
+        "num": 157872,
+        "word": "广东6岁女童被同学泼开水烫伤进展",
+        "onboard_time": 1730281579,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 152854,
+        "word": "当代人有自己的进补方式",
+        "onboard_time": 1730280979,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150155,
+        "num": 150155,
+        "word": "中级会计成绩还没出",
+        "onboard_time": 1730282538,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在破立统一中实现改革蹄疾步稳#"
+    }
+  }
+}

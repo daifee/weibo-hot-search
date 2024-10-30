@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730283893948,
+  "endTime": 1730284949665,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 1462295,
-      "num": 475215,
+      "num": 480148,
       "word": "恶作剧捉弄同事酿悲剧赔了10万",
       "onboard_time": 1730280920,
       "rank": 21,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1730253078,
       "rank": 38,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 1080198,
+      "num": 691000,
+      "word": "副县长被抓当晚老百姓放鞭庆祝",
+      "onboard_time": 1730282419,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075947,
@@ -1588,7 +1596,7 @@
     },
     {
       "raw_hot": 854121,
-      "num": 469891,
+      "num": 471268,
       "word": "专家称孕育会使女性变得更聪明",
       "onboard_time": 1730278518,
       "rank": 21,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1729949360,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 718544,
+      "num": 718544,
+      "word": "上海将迎1981年来11月最大降雨",
+      "onboard_time": 1730279479,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717240,
@@ -2168,14 +2184,6 @@
       "word": "机械师被火车碰撞身亡",
       "onboard_time": 1730181859,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 624623,
-      "num": 624623,
-      "word": "上海将迎1981年来11月最大降雨",
-      "onboard_time": 1730279479,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2737,14 +2745,6 @@
       "onboard_time": 1729966693,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497140,
-      "num": 497140,
-      "word": "副县长被抓当晚老百姓放鞭庆祝",
-      "onboard_time": 1730282419,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496464,
@@ -4347,6 +4347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286077,
+      "num": 432512,
+      "word": "周雨彤 金晨是我的专业捧哏",
+      "onboard_time": 1730283859,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285896,
       "num": 285896,
       "word": "王者代言人全员集结共创之夜",
@@ -4665,6 +4673,14 @@
       "onboard_time": 1730176762,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259019,
+      "num": 259019,
+      "word": "姚明任期内中国男篮没有打过奥运会",
+      "onboard_time": 1730281639,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 258337,
@@ -5131,6 +5147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238895,
+      "num": 238895,
+      "word": "小西天保安大叔哽咽谈辞职原因",
+      "onboard_time": 1730280020,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 238039,
       "num": 435682,
       "word": "南京南站列车运行秩序逐步恢复",
@@ -5259,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232758,
+      "num": 232758,
+      "word": "孙阳给张百乔当伴郎",
+      "onboard_time": 1730283799,
+      "rank": 36,
+      "category": "网红,体育"
+    },
+    {
       "raw_hot": 232645,
       "num": 413472,
       "word": "陈哲远 刚刚是我弟弟",
@@ -5329,14 +5361,6 @@
       "onboard_time": 1730089340,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228530,
-      "num": 228530,
-      "word": "姚明任期内中国男篮没有打过奥运会",
-      "onboard_time": 1730281639,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 228500,
@@ -6235,6 +6259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198569,
+      "num": 481674,
+      "word": "直面不想生不敢生不能生",
+      "onboard_time": 1730284159,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 198410,
       "num": 198410,
       "word": "好团圆小姑子吃醋剪碎嫂子婚服",
@@ -6748,7 +6780,7 @@
     },
     {
       "raw_hot": 185053,
-      "num": 383405,
+      "num": 398239,
       "word": "毓言cp芭莎大片",
       "onboard_time": 1730282717,
       "rank": 28,
@@ -6939,14 +6971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181065,
-      "num": 181065,
-      "word": "小西天保安大叔哽咽谈辞职原因",
-      "onboard_time": 1730280020,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 180690,
       "num": 209540,
       "word": "丁程鑫提醒周深看镜头",
@@ -7065,6 +7089,14 @@
       "onboard_time": 1730015598,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177846,
+      "num": 177846,
+      "word": "过度礼貌会让沟通变得低效",
+      "onboard_time": 1730282419,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 177844,
@@ -7723,14 +7755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163601,
-      "num": 163601,
-      "word": "过度礼貌会让沟通变得低效",
-      "onboard_time": 1730282419,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163497,
       "num": 163497,
       "word": "花少 山东姐弟",
@@ -7865,6 +7889,14 @@
       "onboard_time": 1730244377,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158298,
+      "num": 199043,
+      "word": "肖战黑粉被判公开道歉",
+      "onboard_time": 1730284817,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 157982,
@@ -8113,14 +8145,6 @@
       "onboard_time": 1729943538,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152136,
-      "num": 152136,
-      "word": "周雨彤 金晨是我的专业捧哏",
-      "onboard_time": 1730283859,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 151989,
@@ -10595,6 +10619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39940,
+      "num": 224747,
+      "word": "iQOO13价格",
+      "onboard_time": 1730284518,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39850,
       "num": 402175,
       "word": "海南琼海强降水致一对母子遇难",
@@ -10649,6 +10681,14 @@
       "onboard_time": 1730110698,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38619,
+      "num": 486518,
+      "word": "如何评价iQOO13性能",
+      "onboard_time": 1730280380,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 38604,
@@ -10739,6 +10779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36805,
+      "num": 489296,
+      "word": "打游戏就用iQOO13",
+      "onboard_time": 1730280920,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36684,
       "num": 410922,
       "word": "为什么现在的餐厅越来越没特色了",
@@ -10809,14 +10857,6 @@
       "onboard_time": 1730263101,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35259,
-      "num": 486518,
-      "word": "如何评价iQOO13性能",
-      "onboard_time": 1730280380,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 35119,
@@ -10905,14 +10945,6 @@
       "onboard_time": 1730279300,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 34015,
-      "num": 489296,
-      "word": "打游戏就用iQOO13",
-      "onboard_time": 1730280920,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 33755,
@@ -11139,6 +11171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29312,
+      "num": 171758,
+      "word": "当代人有自己的进补方式",
+      "onboard_time": 1730280979,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28864,
       "num": 216604,
       "word": "博主AI助手不是本人胜似本人",
@@ -11161,6 +11201,14 @@
       "onboard_time": 1730265738,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28538,
+      "num": 337453,
+      "word": "张大仙的直播搭子iQOO13",
+      "onboard_time": 1730284219,
+      "rank": 29,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 28515,
@@ -11531,6 +11579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20017,
+      "num": 479008,
+      "word": "多名消费者吐槽电子门锁夹手",
+      "onboard_time": 1730282717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19832,
       "num": 19832,
       "word": "Project7选秀",
@@ -11555,14 +11611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18714,
-      "num": 171758,
-      "word": "当代人有自己的进补方式",
-      "onboard_time": 1730280979,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18700,
       "num": 335827,
       "word": "微博视界大会 美女团建",
@@ -11576,6 +11624,14 @@
       "word": "全国网络普法行安徽站",
       "onboard_time": 1730209761,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18202,
+      "num": 477949,
+      "word": "官方回应轿车与火车相撞多人受伤",
+      "onboard_time": 1730284159,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11697,14 +11753,6 @@
       "onboard_time": 1730144651,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13588,
-      "num": 479008,
-      "word": "多名消费者吐槽电子门锁夹手",
-      "onboard_time": 1730282717,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13554,
