@@ -1,0 +1,410 @@
+{
+  "runTime": 1730295683771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406158,
+        "num": 1406158,
+        "word": "青岛通报网传代孕事件",
+        "onboard_time": 1730289559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953286,
+        "num": 953286,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15667,
+        "num": 850368,
+        "word": "70后80后90后齐聚中国空间站",
+        "onboard_time": 1730265679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835966,
+        "num": 835966,
+        "word": "刘烨在花少一个人去玩",
+        "onboard_time": 1730290818,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808775,
+        "num": 808775,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1730293820,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434460,
+        "num": 434460,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 354520,
+        "num": 354520,
+        "word": "荣梓杉偷偷给受伤非洲男孩塞钱",
+        "onboard_time": 1730275458,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346426,
+        "num": 346426,
+        "word": "青岛代孕事件5人被罚",
+        "onboard_time": 1730289559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328103,
+        "num": 328103,
+        "word": "中级会计成绩",
+        "onboard_time": 1730289798,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252517,
+        "num": 327159,
+        "word": "人贩子道歉竟然说添麻烦了",
+        "onboard_time": 1730294360,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37773,
+        "num": 326354,
+        "word": "荣耀Magic7电子叶黄素",
+        "onboard_time": 1730293700,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1923101,
+        "num": 324688,
+        "word": "12岁女孩体重400斤无法行走",
+        "onboard_time": 1730292259,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1737305,
+        "num": 323745,
+        "word": "彭高翁青雅 线下be",
+        "onboard_time": 1730288719,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28406,
+        "num": 322186,
+        "word": "抢学生外卖扔垃圾桶应追究法律责任",
+        "onboard_time": 1730294239,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957873,
+        "num": 320190,
+        "word": "烧伤妈妈30%皮肤基本长好",
+        "onboard_time": 1730288538,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784975,
+        "num": 318754,
+        "word": "迪丽热巴珍珠高定",
+        "onboard_time": 1730293879,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 765401,
+        "num": 317297,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57939,
+        "num": 316119,
+        "word": "张远直播演唱会开箱",
+        "onboard_time": 1730295320,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102036,
+        "num": 315012,
+        "word": "赵露思刘宇宁一个唱一个演",
+        "onboard_time": 1730294960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 895070,
+        "num": 313618,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730291360,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1183646,
+        "num": 312025,
+        "word": "男子将父亲尸体藏冰箱四年冒领社保",
+        "onboard_time": 1730294421,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743622,
+        "num": 310053,
+        "word": "赵丽颖发型",
+        "onboard_time": 1730292199,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 604215,
+        "num": 309740,
+        "word": "鲨鱼裤成为年轻人的新秋裤",
+        "onboard_time": 1730292259,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 527137,
+        "num": 307720,
+        "word": "赵露思说要送粉丝宝格丽",
+        "onboard_time": 1730292558,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60708,
+        "num": 306909,
+        "word": "中国人上太空有人接的感觉太好了",
+        "onboard_time": 1730294779,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27196,
+        "num": 304962,
+        "word": "装修陪跑师真能避坑还是智商税",
+        "onboard_time": 1730293760,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431553,
+        "num": 303597,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 26,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 302977,
+        "num": 302977,
+        "word": "第一次知道双戒指的含义",
+        "onboard_time": 1730288958,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262850,
+        "num": 262850,
+        "word": "春花焰全员be",
+        "onboard_time": 1730294720,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250356,
+        "num": 250356,
+        "word": "春花焰大结局",
+        "onboard_time": 1730289138,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240758,
+        "num": 240758,
+        "word": "荣耀Magic7价格",
+        "onboard_time": 1730295259,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218405,
+        "num": 218405,
+        "word": "荣耀Magic7",
+        "onboard_time": 1730288238,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211189,
+        "num": 211189,
+        "word": "男子组织多名十三四岁少女有偿陪侍",
+        "onboard_time": 1730287878,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203564,
+        "num": 203564,
+        "word": "广州一饭店被拍到老鼠在后厨啃包子",
+        "onboard_time": 1730290039,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203119,
+        "num": 203119,
+        "word": "小巷人家",
+        "onboard_time": 1730290518,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194121,
+        "num": 201473,
+        "word": "田嘉瑞这样怎么都会成功的",
+        "onboard_time": 1730294539,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201007,
+        "num": 201007,
+        "word": "娜扎丞磊血泪吻镜头",
+        "onboard_time": 1730291117,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197722,
+        "num": 197722,
+        "word": "副局长跳窗逃离只会失去群众信任",
+        "onboard_time": 1730292499,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196965,
+        "num": 196965,
+        "word": "上海将迎1981年来11月最大降雨",
+        "onboard_time": 1730279479,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195459,
+        "num": 195459,
+        "word": "沈腾黄景瑜姜妍合照",
+        "onboard_time": 1730293340,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195071,
+        "num": 195071,
+        "word": "杜华说男团再不进步要疯了",
+        "onboard_time": 1730293219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187230,
+        "num": 187230,
+        "word": "三只羊辟谣小杨哥复播",
+        "onboard_time": 1730285419,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174441,
+        "num": 174441,
+        "word": "超强台风康妮",
+        "onboard_time": 1730278580,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163534,
+        "num": 163534,
+        "word": "内蒙古呼和浩特4.1级地震",
+        "onboard_time": 1730292199,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155267,
+        "num": 155267,
+        "word": "周雨彤 金晨是我的专业捧哏",
+        "onboard_time": 1730283859,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148605,
+        "num": 148605,
+        "word": "彭小苒暗河传顶级刺客",
+        "onboard_time": 1730293160,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146831,
+        "num": 146831,
+        "word": "青岛代孕事件两公司法人被立案",
+        "onboard_time": 1730290399,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135671,
+        "num": 135671,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132045,
+        "num": 132045,
+        "word": "林诗栋逆转晋级16强",
+        "onboard_time": 1730288658,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117301,
+        "num": 117301,
+        "word": "张杰演唱会前抓娃娃",
+        "onboard_time": 1730295621,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}
