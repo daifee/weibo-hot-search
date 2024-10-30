@@ -1,7 +1,23 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730244964921,
+  "endTime": 1730252592682,
   "band_list": [
+    {
+      "raw_hot": 2982838,
+      "num": 467728,
+      "word": "短效避孕药祛痘是很常规的用法",
+      "onboard_time": 1730249060,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1797315,
+      "num": 467119,
+      "word": "美国大选",
+      "onboard_time": 1730249960,
+      "rank": 11,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1680659,
       "num": 1680659,
@@ -27,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1131095,
+      "num": 1180975,
+      "word": "陈都灵工作室解释直播吼人",
+      "onboard_time": 1730244917,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 908848,
       "num": 908848,
       "word": "南京南站亲历乘客称听到明显异响",
@@ -35,8 +59,48 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890701,
+      "num": 890701,
+      "word": "光与夜之恋",
+      "onboard_time": 1730246539,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 871046,
+      "num": 871046,
+      "word": "一觉醒来3个中国人上天了",
+      "onboard_time": 1730244617,
+      "rank": 34,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 870190,
+      "num": 465077,
+      "word": "韩女团成员拍摄中乳牙掉了",
+      "onboard_time": 1730246959,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 869233,
+      "num": 464526,
+      "word": "韩安冉官宣领证",
+      "onboard_time": 1730248760,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 819645,
+      "num": 353521,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807633,
-      "num": 315428,
+      "num": 377478,
       "word": "杨紫直播身材状态",
       "onboard_time": 1730214740,
       "rank": 10,
@@ -44,7 +108,7 @@
     },
     {
       "raw_hot": 796394,
-      "num": 315017,
+      "num": 462729,
       "word": "放狠话家里人死了先臭着领导道歉",
       "onboard_time": 1730206219,
       "rank": 12,
@@ -57,6 +121,14 @@
       "onboard_time": 1730213720,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 631019,
+      "num": 631019,
+      "word": "坐第一排看中国火箭发射有多震撼",
+      "onboard_time": 1730246179,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 602761,
@@ -83,6 +155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 543264,
+      "num": 543264,
+      "word": "秦皇岛刺鼻气味",
+      "onboard_time": 1730249600,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536336,
       "num": 308158,
       "word": "豪咪cp官宣",
@@ -99,12 +179,28 @@
       "category": "国内时政,国外时政"
     },
     {
-      "raw_hot": 440301,
-      "num": 302751,
-      "word": "90后农村娃拿到太空船票",
-      "onboard_time": 1730211622,
+      "raw_hot": 503348,
+      "num": 503348,
+      "word": "恋综史上无法超越的告白",
+      "onboard_time": 1730243957,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 484476,
+      "num": 463615,
+      "word": "马子佳 天亮了",
+      "onboard_time": 1730247020,
       "rank": 15,
-      "category": "社会新闻"
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450432,
+      "num": 450432,
+      "word": "全家就我遗传了爸爸的丑貌",
+      "onboard_time": 1730243957,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 431343,
@@ -129,14 +225,6 @@
       "onboard_time": 1730237651,
       "rank": 13,
       "category": "国内时政,社会新闻"
-    },
-    {
-      "raw_hot": 390662,
-      "num": 385356,
-      "word": "恋综史上无法超越的告白",
-      "onboard_time": 1730243957,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 364311,
@@ -203,12 +291,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 242344,
-      "num": 122931,
-      "word": "全家就我遗传了爸爸的丑貌",
-      "onboard_time": 1730243957,
+      "raw_hot": 249624,
+      "num": 249624,
+      "word": "难民孩子住在墓地里",
+      "onboard_time": 1730250320,
       "rank": 30,
-      "category": "幽默"
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 241810,
+      "num": 241810,
+      "word": "神十九发射升空瞬间",
+      "onboard_time": 1730243416,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 238999,
+      "num": 238999,
+      "word": "王浩泽说导师这句话影响自己终生",
+      "onboard_time": 1730226491,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234453,
@@ -235,12 +339,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232880,
+      "num": 232880,
+      "word": "鹿晗红发自拍",
+      "onboard_time": 1730244558,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230857,
+      "num": 255888,
+      "word": "高雅cp官宣",
+      "onboard_time": 1730248880,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224008,
+      "num": 224008,
+      "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
+      "onboard_time": 1730251518,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221842,
       "num": 176187,
       "word": "年轻人正在走出惯性与传统",
       "onboard_time": 1730241073,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221606,
+      "num": 253905,
+      "word": "高雅cp",
+      "onboard_time": 1730245337,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 220471,
@@ -275,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "一部短片致敬中国女航天人",
+      "onboard_time": 1730248460,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207562,
       "num": 234314,
       "word": "心动的信号7成了五对",
@@ -291,6 +435,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183411,
+      "num": 183411,
+      "word": "C罗罚丢点球",
+      "onboard_time": 1730251938,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182718,
+      "num": 251333,
+      "word": "陈哲远直播吃到晕碳",
+      "onboard_time": 1730244497,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182708,
+      "num": 182708,
+      "word": "干部疑为躲避群众提问从厕所跳窗",
+      "onboard_time": 1730244197,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168401,
+      "num": 168401,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167339,
       "num": 177592,
       "word": "宋茜收到了曾黎的傩面具",
@@ -299,12 +475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160967,
-      "num": 122586,
-      "word": "陈都灵工作室解释直播吼人",
-      "onboard_time": 1730244917,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "T1获得决赛选边权",
+      "onboard_time": 1730244377,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 153723,
@@ -313,6 +489,22 @@
       "onboard_time": 1730202441,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152996,
+      "num": 152996,
+      "word": "细思极恐粗思也恐",
+      "onboard_time": 1730249779,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 152842,
+      "num": 250070,
+      "word": "大梦归离剧情",
+      "onboard_time": 1730248760,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 152313,
@@ -331,6 +523,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150672,
+      "num": 150672,
+      "word": "郑钦文年终赛夺冠支持率第一",
+      "onboard_time": 1730250619,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149447,
+      "num": 149447,
+      "word": "豪咪cp",
+      "onboard_time": 1730252299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149320,
       "num": 159143,
       "word": "王一博巴塞罗那机场路透",
@@ -344,6 +552,14 @@
       "word": "杨妞花5天涨粉90万现专注宝贝回家",
       "onboard_time": 1730238792,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147614,
+      "num": 147614,
+      "word": "家里死人先臭着领导如此狂言尽显无知",
+      "onboard_time": 1730214860,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -377,6 +593,14 @@
       "onboard_time": 1730200221,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136505,
+      "num": 136505,
+      "word": "大梦归离直播",
+      "onboard_time": 1730252177,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 135188,
@@ -419,14 +643,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 123636,
-      "num": 123636,
-      "word": "鹿晗红发自拍",
-      "onboard_time": 1730244558,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120237,
       "num": 120237,
       "word": "点赞夫胜宽的爱豆",
@@ -467,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112654,
-      "num": 112654,
-      "word": "一觉醒来3个中国人上天了",
-      "onboard_time": 1730244617,
-      "rank": 34,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 111530,
       "num": 114000,
       "word": "侯明昊眼睛怎么了",
@@ -489,22 +697,6 @@
       "onboard_time": 1730244377,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107836,
-      "num": 107836,
-      "word": "T1获得决赛选边权",
-      "onboard_time": 1730244377,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 106068,
-      "num": 106068,
-      "word": "陈哲远直播吃到晕碳",
-      "onboard_time": 1730244497,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 103873,
@@ -555,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93014,
-      "num": 93014,
-      "word": "王浩泽说导师这句话影响自己终生",
-      "onboard_time": 1730226491,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89692,
       "num": 104945,
       "word": "张大大强烈支持赵露思新剧",
@@ -585,14 +769,6 @@
       "onboard_time": 1730223014,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82473,
-      "num": 82473,
-      "word": "神十九发射升空瞬间",
-      "onboard_time": 1730243416,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81923,
@@ -691,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61777,
+      "num": 468755,
+      "word": "电影失孤原型被拐案二审今日宣判",
+      "onboard_time": 1730251579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59696,
       "num": 59696,
       "word": "小巷人家",
@@ -729,14 +913,6 @@
       "onboard_time": 1730204659,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 38029,
-      "num": 144679,
-      "word": "干部疑为躲避群众提问从厕所跳窗",
-      "onboard_time": 1730244197,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34640,
@@ -811,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20150,
+      "num": 876719,
+      "word": "从神五到神十九",
+      "onboard_time": 1730205799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19832,
       "num": 19832,
       "word": "Project7选秀",
@@ -833,14 +1017,6 @@
       "onboard_time": 1730232850,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10621,
-      "num": 852320,
-      "word": "从神五到神十九",
-      "onboard_time": 1730205799,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

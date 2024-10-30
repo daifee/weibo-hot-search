@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730244964921,
+  "endTime": 1730252592682,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -392,6 +392,14 @@
       "word": "生育补贴",
       "onboard_time": 1730172679,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2982838,
+      "num": 467728,
+      "word": "短效避孕药祛痘是很常规的用法",
+      "onboard_time": 1730249060,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2089,6 +2097,14 @@
       "onboard_time": 1728706519,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1797315,
+      "num": 488199,
+      "word": "美国大选",
+      "onboard_time": 1727841138,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1793258,
@@ -5611,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131095,
+      "num": 1180975,
+      "word": "陈都灵工作室解释直播吼人",
+      "onboard_time": 1730244917,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1131023,
       "num": 300629,
       "word": "一家三口被撞身亡肇事者疑泄愤",
@@ -8403,6 +8427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890701,
+      "num": 890701,
+      "word": "光与夜之恋",
+      "onboard_time": 1728188239,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 889567,
       "num": 889567,
       "word": "中印就边境问题达成解决方案",
@@ -8699,12 +8731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 871046,
+      "num": 871046,
+      "word": "一觉醒来3个中国人上天了",
+      "onboard_time": 1730244617,
+      "rank": 34,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 870809,
       "num": 1139329,
       "word": "张凯丽把颁奖手卡给了赵丽颖",
       "onboard_time": 1729561999,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 870190,
+      "num": 465077,
+      "word": "韩女团成员拍摄中乳牙掉了",
+      "onboard_time": 1730246959,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 869925,
@@ -8721,6 +8769,14 @@
       "onboard_time": 1729504159,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869233,
+      "num": 464526,
+      "word": "韩安冉官宣领证",
+      "onboard_time": 1730248760,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 869062,
@@ -9560,6 +9616,14 @@
       "word": "初三男生跳高1.91米打破学校纪录",
       "onboard_time": 1728950898,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819645,
+      "num": 627982,
+      "word": "90后农村娃拿到太空船票",
+      "onboard_time": 1730211622,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -13627,6 +13691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631019,
+      "num": 631019,
+      "word": "坐第一排看中国火箭发射有多震撼",
+      "onboard_time": 1730246179,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 630997,
       "num": 630997,
       "word": "考上师范学校却被人冒名顶替了",
@@ -13721,14 +13793,6 @@
       "onboard_time": 1728734121,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 627982,
-      "num": 627982,
-      "word": "90后农村娃拿到太空船票",
-      "onboard_time": 1730211622,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 627953,
@@ -16323,6 +16387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543264,
+      "num": 543264,
+      "word": "秦皇岛刺鼻气味",
+      "onboard_time": 1730249600,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543152,
       "num": 322373,
       "word": "林诗栋黄牌",
@@ -17099,14 +17171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518322,
-      "num": 488199,
-      "word": "美国大选",
-      "onboard_time": 1727841138,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 518295,
       "num": 882863,
       "word": "进上海迪士尼乐园不能带扑克牌",
@@ -17584,6 +17648,14 @@
       "word": "漫才兄弟冠军",
       "onboard_time": 1729683318,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 503348,
+      "num": 503348,
+      "word": "恋综史上无法超越的告白",
+      "onboard_time": 1730243957,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -18289,6 +18361,14 @@
       "onboard_time": 1729657459,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484476,
+      "num": 463615,
+      "word": "马子佳 天亮了",
+      "onboard_time": 1730247020,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 484004,
@@ -19657,6 +19737,14 @@
       "onboard_time": 1728178758,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450432,
+      "num": 450432,
+      "word": "全家就我遗传了爸爸的丑貌",
+      "onboard_time": 1730243957,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 450377,
@@ -22153,14 +22241,6 @@
       "onboard_time": 1729946061,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 390662,
-      "num": 385356,
-      "word": "恋综史上无法超越的告白",
-      "onboard_time": 1730243957,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 390223,
@@ -27561,14 +27641,6 @@
       "onboard_time": 1729263321,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302117,
-      "num": 258444,
-      "word": "光与夜之恋",
-      "onboard_time": 1728188239,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 302085,
@@ -33043,6 +33115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249624,
+      "num": 249624,
+      "word": "难民孩子住在墓地里",
+      "onboard_time": 1730250320,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 249578,
       "num": 249578,
       "word": "A股回调",
@@ -33883,14 +33963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 242344,
-      "num": 122931,
-      "word": "全家就我遗传了爸爸的丑貌",
-      "onboard_time": 1730243957,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242206,
       "num": 242206,
       "word": "以军士兵承认用加沙平民当人肉盾牌",
@@ -33929,6 +34001,14 @@
       "onboard_time": 1728095599,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241810,
+      "num": 241810,
+      "word": "神十九发射升空瞬间",
+      "onboard_time": 1730243416,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 241806,
@@ -34273,6 +34353,14 @@
       "onboard_time": 1729245560,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238999,
+      "num": 238999,
+      "word": "王浩泽说导师这句话影响自己终生",
+      "onboard_time": 1730226491,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238910,
@@ -35019,6 +35107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232880,
+      "num": 232880,
+      "word": "鹿晗红发自拍",
+      "onboard_time": 1730244558,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232780,
       "num": 232780,
       "word": "王楚钦这一分好精彩",
@@ -35321,6 +35417,14 @@
       "onboard_time": 1729513098,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230857,
+      "num": 255888,
+      "word": "高雅cp官宣",
+      "onboard_time": 1730248880,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 230851,
@@ -36457,6 +36561,14 @@
       "onboard_time": 1729557439,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224008,
+      "num": 224008,
+      "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
+      "onboard_time": 1730251518,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223984,
@@ -39513,6 +39625,14 @@
       "onboard_time": 1728898700,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "一部短片致敬中国女航天人",
+      "onboard_time": 1730248460,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207557,
@@ -46923,6 +47043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183411,
+      "num": 183411,
+      "word": "C罗罚丢点球",
+      "onboard_time": 1730251938,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183397,
       "num": 183397,
       "word": "石凯献唱浴火之路主题曲",
@@ -47073,6 +47201,22 @@
       "onboard_time": 1729918998,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182718,
+      "num": 251333,
+      "word": "陈哲远直播吃到晕碳",
+      "onboard_time": 1730244497,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182708,
+      "num": 182708,
+      "word": "干部疑为躲避群众提问从厕所跳窗",
+      "onboard_time": 1730244197,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182679,
@@ -50691,6 +50835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168401,
+      "num": 168401,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168339,
       "num": 469303,
       "word": "余华英没有敢再盯着杨妞花看",
@@ -52891,14 +53043,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 160967,
-      "num": 122586,
-      "word": "陈都灵工作室解释直播吼人",
-      "onboard_time": 1730244917,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "加沙约86%人口处于极度饥饿状态",
@@ -53585,6 +53729,14 @@
       "onboard_time": 1730191640,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "T1获得决赛选边权",
+      "onboard_time": 1730244377,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 158305,
@@ -55195,6 +55347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152996,
+      "num": 152996,
+      "word": "细思极恐粗思也恐",
+      "onboard_time": 1730249779,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 152994,
       "num": 152994,
       "word": "芒果男艺人回应长得人山人海",
@@ -55297,6 +55457,14 @@
       "onboard_time": 1728195258,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152842,
+      "num": 250070,
+      "word": "大梦归离剧情",
+      "onboard_time": 1730248760,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 152756,
@@ -55947,6 +56115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150672,
+      "num": 150672,
+      "word": "郑钦文年终赛夺冠支持率第一",
+      "onboard_time": 1730250619,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150653,
       "num": 150653,
       "word": "千万粉财经博主连发强引导性炒股内容",
@@ -56272,6 +56448,14 @@
       "word": "周深说谭盾写的歌好难唱",
       "onboard_time": 1729394839,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149447,
+      "num": 149447,
+      "word": "豪咪cp",
+      "onboard_time": 1730252299,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -56761,6 +56945,14 @@
       "onboard_time": 1728916942,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147614,
+      "num": 485393,
+      "word": "家里死人先臭着领导如此狂言尽显无知",
+      "onboard_time": 1730214860,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147605,
@@ -60129,6 +60321,14 @@
       "onboard_time": 1729897574,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136505,
+      "num": 136505,
+      "word": "大梦归离直播",
+      "onboard_time": 1730252177,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 136485,
@@ -63819,14 +64019,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 123636,
-      "num": 123636,
-      "word": "鹿晗红发自拍",
-      "onboard_time": 1730244558,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123600,
       "num": 123600,
       "word": "黄仁俊亮相直播",
@@ -66451,14 +66643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112654,
-      "num": 112654,
-      "word": "一觉醒来3个中国人上天了",
-      "onboard_time": 1730244617,
-      "rank": 34,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 112621,
       "num": 112621,
       "word": "张雨霏穿最粉的衣服练最狠的训练",
@@ -67675,14 +67859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107836,
-      "num": 107836,
-      "word": "T1获得决赛选边权",
-      "onboard_time": 1730244377,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 107811,
       "num": 107811,
       "word": "中国轮船40小时带80人安全撤离黎巴嫩",
@@ -68169,14 +68345,6 @@
       "onboard_time": 1729763479,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106068,
-      "num": 106068,
-      "word": "陈哲远直播吃到晕碳",
-      "onboard_time": 1730244497,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 105945,
@@ -70491,14 +70659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93014,
-      "num": 93014,
-      "word": "王浩泽说导师这句话影响自己终生",
-      "onboard_time": 1730226491,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92945,
       "num": 110245,
       "word": "警惕国产水果披上洋外衣",
@@ -72121,14 +72281,6 @@
       "onboard_time": 1729767918,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82473,
-      "num": 82473,
-      "word": "神十九发射升空瞬间",
-      "onboard_time": 1730243416,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82411,
@@ -75251,6 +75403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61777,
+      "num": 468755,
+      "word": "电影失孤原型被拐案二审今日宣判",
+      "onboard_time": 1730251579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61693,
       "num": 467158,
       "word": "成毅有牛了",
@@ -76057,14 +76217,6 @@
       "onboard_time": 1729056801,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 57154,
-      "num": 485393,
-      "word": "家里死人先臭着领导如此狂言尽显无知",
-      "onboard_time": 1730214860,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57148,
@@ -80321,14 +80473,6 @@
       "onboard_time": 1728724639,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38029,
-      "num": 144679,
-      "word": "干部疑为躲避群众提问从厕所跳窗",
-      "onboard_time": 1730244197,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38028,
