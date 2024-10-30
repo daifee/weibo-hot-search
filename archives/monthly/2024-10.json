@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730259825386,
+  "endTime": 1730262447046,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -121,6 +121,14 @@
       "onboard_time": 1728574160,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4567672,
+      "num": 434838,
+      "word": "荣梓杉 背刺",
+      "onboard_time": 1730260579,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4347022,
@@ -6427,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1050181,
+      "num": 790224,
+      "word": "电视纸箱子竟然这么值钱",
+      "onboard_time": 1730259259,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1049302,
       "num": 811802,
       "word": "余华英老家亲属发声",
@@ -8275,6 +8291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 901968,
+      "num": 901968,
+      "word": "文春曝桥本环奈职场霸凌",
+      "onboard_time": 1730259679,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 901038,
       "num": 1144166,
       "word": "中国海警现身阿拉斯加附近打乱美国布局",
@@ -10120,6 +10144,14 @@
       "word": "花少 荣梓杉",
       "onboard_time": 1729589058,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 793786,
+      "num": 426429,
+      "word": "赵牧辰 追妻火葬场",
+      "onboard_time": 1730260820,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -15995,6 +16027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557917,
+      "num": 557917,
+      "word": "俄演练发射三枚洲际弹道导弹",
+      "onboard_time": 1730256138,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 557342,
       "num": 326961,
       "word": "沙溢肌肉",
@@ -16641,6 +16681,14 @@
       "onboard_time": 1728710001,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 537750,
+      "num": 537750,
+      "word": "美国一恋综男嘉宾是变态连环杀手",
+      "onboard_time": 1730260339,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537614,
@@ -23747,6 +23795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364468,
+      "num": 421336,
+      "word": "陕西省税务局局长信息已从官网撤下",
+      "onboard_time": 1730261662,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364427,
       "num": 364427,
       "word": "美国男子捡到一箱选票",
@@ -24049,6 +24105,14 @@
       "onboard_time": 1728298585,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 358313,
+      "num": 382788,
+      "word": "生父回应3岁儿子被女友虐待致死",
+      "onboard_time": 1730259438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357936,
@@ -26259,6 +26323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322276,
+      "num": 397675,
+      "word": "赵牧辰 摇摆",
+      "onboard_time": 1730260699,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322161,
       "num": 397212,
       "word": "还原余华英11年拐卖17名儿童",
@@ -26817,6 +26889,14 @@
       "onboard_time": 1728518179,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312112,
+      "num": 312112,
+      "word": "马斯克想让14个母子住在一起",
+      "onboard_time": 1730260519,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 312020,
@@ -28331,6 +28411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 295733,
+      "num": 295733,
+      "word": "齐司礼 画师",
+      "onboard_time": 1730258599,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "雪中飞 成毅",
@@ -29299,14 +29387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285826,
-      "num": 285826,
-      "word": "齐司礼 画师",
-      "onboard_time": 1730258599,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285777,
       "num": 204680,
       "word": "张纪中妻子顺产转剖腹产",
@@ -29793,14 +29873,6 @@
       "onboard_time": 1729194910,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281890,
-      "num": 545995,
-      "word": "俄演练发射三枚洲际弹道导弹",
-      "onboard_time": 1730256138,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 281865,
@@ -30329,6 +30401,14 @@
       "onboard_time": 1729758439,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 275777,
+      "num": 275777,
+      "word": "GEN教练分享T1运营细节",
+      "onboard_time": 1730261899,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 275699,
@@ -32715,14 +32795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254025,
-      "num": 254025,
-      "word": "电视纸箱子竟然这么值钱",
-      "onboard_time": 1730259259,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254024,
       "num": 254024,
       "word": "付航底色不是悲凉是passion",
@@ -32897,6 +32969,14 @@
       "onboard_time": 1729371852,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252317,
+      "num": 389329,
+      "word": "邱泽回归虐恋男主赛道",
+      "onboard_time": 1730260280,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 252216,
@@ -33377,6 +33457,14 @@
       "onboard_time": 1729305499,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248414,
+      "num": 248414,
+      "word": "中国大鹅嘴真严啊",
+      "onboard_time": 1730259500,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248299,
@@ -33883,6 +33971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 244328,
+      "num": 244328,
+      "word": "哈里斯连续三天演讲被抗议",
+      "onboard_time": 1730260579,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 244304,
       "num": 245198,
       "word": "北京下调个人住房贷款首付款比例",
@@ -34169,6 +34265,14 @@
       "onboard_time": 1730193738,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241993,
+      "num": 424877,
+      "word": "蒋欣 夸的不错奖励一盘蛇瓜",
+      "onboard_time": 1730258959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 241961,
@@ -36137,6 +36241,14 @@
       "onboard_time": 1728729080,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227964,
+      "num": 227964,
+      "word": "时代少年团演唱会重庆",
+      "onboard_time": 1730262200,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 227900,
@@ -39851,14 +39963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207402,
-      "num": 312359,
-      "word": "蒋欣 夸的不错奖励一盘蛇瓜",
-      "onboard_time": 1730258959,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207397,
       "num": 550365,
       "word": "广东一高校1477名新生拟放弃入学",
@@ -41097,6 +41201,14 @@
       "onboard_time": 1730214500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203202,
+      "num": 203202,
+      "word": "女子20岁起因家族遗传满头白发",
+      "onboard_time": 1730258358,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203170,
@@ -42521,14 +42633,6 @@
       "onboard_time": 1729951282,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198544,
-      "num": 198544,
-      "word": "女子20岁起因家族遗传满头白发",
-      "onboard_time": 1730258358,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198428,
@@ -46011,6 +46115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188089,
+      "num": 188089,
+      "word": "小狗为了不弄脏座位把自己缩成一团",
+      "onboard_time": 1730261899,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188081,
       "num": 188081,
       "word": "胖东来爆改版超市开业全是人",
@@ -47161,6 +47273,14 @@
       "onboard_time": 1729066700,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183975,
+      "num": 183975,
+      "word": "王楚钦训练课精彩球",
+      "onboard_time": 1730259980,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 183936,
@@ -48467,14 +48587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178744,
-      "num": 178744,
-      "word": "文春曝桥本环奈职场霸凌",
-      "onboard_time": 1730259679,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178743,
       "num": 442580,
       "word": "一起打卡秋天里的中国",
@@ -49505,6 +49617,14 @@
       "onboard_time": 1729131980,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174712,
+      "num": 174712,
+      "word": "重庆一公厕洗手池内现弃婴",
+      "onboard_time": 1730262320,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174646,
@@ -50561,14 +50681,6 @@
       "onboard_time": 1728950719,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 170310,
-      "num": 170310,
-      "word": "中国大鹅嘴真严啊",
-      "onboard_time": 1730259500,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170272,
@@ -67179,6 +67291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111837,
+      "num": 416253,
+      "word": "澳门CoCo姐不在澳门在广州",
+      "onboard_time": 1730260879,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111799,
       "num": 193790,
       "word": "浴火之路 打拐题材",
@@ -72579,6 +72699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82723,
+      "num": 429633,
+      "word": "为什么中西医都建议秋天吃点酸",
+      "onboard_time": 1730261299,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82651,
       "num": 82651,
       "word": "印度首都河面漂浮大量有毒泡沫",
@@ -72993,14 +73121,6 @@
       "onboard_time": 1729410199,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80131,
-      "num": 382788,
-      "word": "生父回应3岁儿子被女友虐待致死",
-      "onboard_time": 1730259438,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80121,
@@ -73761,6 +73881,14 @@
       "onboard_time": 1729778840,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74566,
+      "num": 494193,
+      "word": "明晚8点京东11.11全品类五折",
+      "onboard_time": 1730257159,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 74483,
@@ -75681,14 +75809,6 @@
       "onboard_time": 1729524920,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62373,
-      "num": 494193,
-      "word": "明晚8点京东11.11全品类五折",
-      "onboard_time": 1730257159,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 62321,
@@ -78393,6 +78513,14 @@
       "onboard_time": 1729012513,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 48514,
+      "num": 422866,
+      "word": "南京一野猪闯进火车站旁酒店",
+      "onboard_time": 1730261539,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48486,
@@ -83787,6 +83915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29475,
+      "num": 408271,
+      "word": "宠物出行必备单品",
+      "onboard_time": 1730261119,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 29440,
       "num": 34289,
       "word": "一定要让父母知道的5种养老骗局",
@@ -85073,6 +85209,14 @@
       "onboard_time": 1728858313,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25278,
+      "num": 431362,
+      "word": "郭刚堂为寻子骑废10辆摩托车",
+      "onboard_time": 1730262020,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25274,

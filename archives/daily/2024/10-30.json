@@ -1,7 +1,15 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730259825386,
+  "endTime": 1730262447046,
   "band_list": [
+    {
+      "raw_hot": 4567672,
+      "num": 434838,
+      "word": "荣梓杉 背刺",
+      "onboard_time": 1730260579,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2982838,
       "num": 557917,
@@ -91,6 +99,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1050181,
+      "num": 790224,
+      "word": "电视纸箱子竟然这么值钱",
+      "onboard_time": 1730259259,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987070,
       "num": 987070,
       "word": "女生5年前丢的包被找回竟完好如初",
@@ -113,6 +129,14 @@
       "onboard_time": 1730215641,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901968,
+      "num": 901968,
+      "word": "文春曝桥本环奈职场霸凌",
+      "onboard_time": 1730259679,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 883944,
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793786,
+      "num": 426429,
+      "word": "赵牧辰 追妻火葬场",
+      "onboard_time": 1730260820,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666048,
       "num": 666048,
       "word": "蛇瓜",
@@ -233,6 +265,22 @@
       "onboard_time": 1730213421,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 557917,
+      "num": 557917,
+      "word": "俄演练发射三枚洲际弹道导弹",
+      "onboard_time": 1730256138,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 537750,
+      "num": 537750,
+      "word": "美国一恋综男嘉宾是变态连环杀手",
+      "onboard_time": 1730260339,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536336,
@@ -307,6 +355,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 364468,
+      "num": 421336,
+      "word": "陕西省税务局局长信息已从官网撤下",
+      "onboard_time": 1730261662,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364427,
       "num": 364427,
       "word": "美国男子捡到一箱选票",
@@ -321,6 +377,14 @@
       "onboard_time": 1730200341,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358313,
+      "num": 382788,
+      "word": "生父回应3岁儿子被女友虐待致死",
+      "onboard_time": 1730259438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339693,
@@ -363,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322276,
+      "num": 397675,
+      "word": "赵牧辰 摇摆",
+      "onboard_time": 1730260699,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322118,
       "num": 528361,
       "word": "台风康妮已加强为超强台风",
@@ -377,6 +449,14 @@
       "onboard_time": 1730210601,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 312112,
+      "num": 312112,
+      "word": "马斯克想让14个母子住在一起",
+      "onboard_time": 1730260519,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 303826,
@@ -403,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295733,
+      "num": 295733,
+      "word": "齐司礼 画师",
+      "onboard_time": 1730258599,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295109,
       "num": 295109,
       "word": "这个世界乱糟糟而你干干净净",
@@ -419,20 +507,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 285826,
-      "num": 285826,
-      "word": "齐司礼 画师",
-      "onboard_time": 1730258599,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 281890,
-      "num": 545995,
-      "word": "俄演练发射三枚洲际弹道导弹",
-      "onboard_time": 1730256138,
-      "rank": 31,
-      "category": "国外时政"
+      "raw_hot": 275777,
+      "num": 275777,
+      "word": "GEN教练分享T1运营细节",
+      "onboard_time": 1730261899,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 264822,
@@ -451,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254025,
-      "num": 254025,
-      "word": "电视纸箱子竟然这么值钱",
-      "onboard_time": 1730259259,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 252317,
+      "num": 389329,
+      "word": "邱泽回归虐恋男主赛道",
+      "onboard_time": 1730260280,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 249624,
@@ -473,6 +553,30 @@
       "onboard_time": 1730257398,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248414,
+      "num": 248414,
+      "word": "中国大鹅嘴真严啊",
+      "onboard_time": 1730259500,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244328,
+      "num": 244328,
+      "word": "哈里斯连续三天演讲被抗议",
+      "onboard_time": 1730260579,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 241993,
+      "num": 424877,
+      "word": "蒋欣 夸的不错奖励一盘蛇瓜",
+      "onboard_time": 1730258959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 241961,
@@ -547,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227964,
+      "num": 227964,
+      "word": "时代少年团演唱会重庆",
+      "onboard_time": 1730262200,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221842,
       "num": 176187,
       "word": "年轻人正在走出惯性与传统",
@@ -611,20 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207402,
-      "num": 312359,
-      "word": "蒋欣 夸的不错奖励一盘蛇瓜",
-      "onboard_time": 1730258959,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204485,
       "num": 204485,
       "word": "近八成美国选民忧虑大选后有暴力事件",
       "onboard_time": 1730255058,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 203202,
+      "num": 203202,
+      "word": "女子20岁起因家族遗传满头白发",
+      "onboard_time": 1730258358,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200421,
@@ -635,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198544,
-      "num": 198544,
-      "word": "女子20岁起因家族遗传满头白发",
-      "onboard_time": 1730258358,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193716,
       "num": 193716,
       "word": "赵牧辰哭了",
@@ -651,12 +755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188089,
+      "num": 188089,
+      "word": "小狗为了不弄脏座位把自己缩成一团",
+      "onboard_time": 1730261899,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "综艺搭子有真友谊吗",
       "onboard_time": 1730259138,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183975,
+      "num": 183975,
+      "word": "王楚钦训练课精彩球",
+      "onboard_time": 1730259980,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 183411,
@@ -683,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178744,
-      "num": 178744,
-      "word": "文春曝桥本环奈职场霸凌",
-      "onboard_time": 1730259679,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 174712,
+      "num": 174712,
+      "word": "重庆一公厕洗手池内现弃婴",
+      "onboard_time": 1730262320,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173304,
@@ -713,14 +833,6 @@
       "onboard_time": 1730256618,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170310,
-      "num": 170310,
-      "word": "中国大鹅嘴真严啊",
-      "onboard_time": 1730259500,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168508,
@@ -1019,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111837,
+      "num": 416253,
+      "word": "澳门CoCo姐不在澳门在广州",
+      "onboard_time": 1730260879,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111530,
       "num": 114000,
       "word": "侯明昊眼睛怎么了",
@@ -1123,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82723,
+      "num": 429633,
+      "word": "为什么中西医都建议秋天吃点酸",
+      "onboard_time": 1730261299,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81923,
       "num": 81923,
       "word": "锦绣安宁",
@@ -1144,14 +1272,6 @@
       "word": "中国货运航天飞机正式公开",
       "onboard_time": 1730219897,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80131,
-      "num": 382788,
-      "word": "生父回应3岁儿子被女友虐待致死",
-      "onboard_time": 1730259438,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74566,
+      "num": 494193,
+      "word": "明晚8点京东11.11全品类五折",
+      "onboard_time": 1730257159,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74278,
       "num": 74278,
       "word": "HYBE报告评价babymonster",
@@ -1235,14 +1363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62373,
-      "num": 494193,
-      "word": "明晚8点京东11.11全品类五折",
-      "onboard_time": 1730257159,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 59696,
       "num": 59696,
       "word": "小巷人家",
@@ -1264,6 +1384,14 @@
       "word": "大红屏",
       "onboard_time": 1730235851,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48514,
+      "num": 422866,
+      "word": "南京一野猪闯进火车站旁酒店",
+      "onboard_time": 1730261539,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1329,6 +1457,22 @@
       "onboard_time": 1730227332,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29475,
+      "num": 408271,
+      "word": "宠物出行必备单品",
+      "onboard_time": 1730261119,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25278,
+      "num": 431362,
+      "word": "郭刚堂为寻子骑废10辆摩托车",
+      "onboard_time": 1730262020,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24603,
