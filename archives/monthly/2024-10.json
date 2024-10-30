@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730293188521,
+  "endTime": 1730295002323,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -2000,6 +2000,14 @@
       "word": "江歌妈妈",
       "onboard_time": 1728458899,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1870436,
+      "num": 305869,
+      "word": "12岁女孩体重400斤无法行走",
+      "onboard_time": 1730292259,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -4235,6 +4243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1336672,
+      "num": 1336672,
+      "word": "刘烨在花少一个人去玩",
+      "onboard_time": 1730290818,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1331357,
       "num": 427593,
       "word": "女子头戴鲨鱼夹摔倒后成植物人",
@@ -5249,14 +5265,6 @@
       "onboard_time": 1730120359,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1191593,
-      "num": 1191593,
-      "word": "刘烨在花少一个人去玩",
-      "onboard_time": 1730290818,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1189609,
@@ -7219,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1001503,
+      "num": 390221,
+      "word": "烧伤妈妈30%皮肤基本长好",
+      "onboard_time": 1730288538,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1001460,
       "num": 1160233,
       "word": "李沁发文祝贺赵丽颖",
@@ -7697,6 +7713,14 @@
       "onboard_time": 1728997400,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 965368,
+      "num": 965368,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1730293820,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 964810,
@@ -8913,14 +8937,6 @@
       "onboard_time": 1730005398,
       "rank": 10,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 877922,
-      "num": 305478,
-      "word": "12岁女孩体重400斤无法行走",
-      "onboard_time": 1730292259,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877759,
@@ -12155,14 +12171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 713383,
-      "num": 390221,
-      "word": "烧伤妈妈30%皮肤基本长好",
-      "onboard_time": 1730288538,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 712625,
       "num": 509672,
       "word": "新西兰一艘5700吨军舰沉没",
@@ -12771,6 +12779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 684149,
+      "num": 298582,
+      "word": "赵丽颖发型",
+      "onboard_time": 1730292199,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 683931,
       "num": 954917,
       "word": "于正 欢娱影视多了一名花旦",
@@ -13361,6 +13377,14 @@
       "onboard_time": 1728363261,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 659461,
+      "num": 260441,
+      "word": "迪丽热巴珍珠高定",
+      "onboard_time": 1730293879,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 659304,
@@ -16787,6 +16811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545491,
+      "num": 289506,
+      "word": "鲨鱼裤成为年轻人的新秋裤",
+      "onboard_time": 1730292259,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 545081,
       "num": 281253,
       "word": "马龙呼吁网友别过分吹捧",
@@ -17001,6 +17033,14 @@
       "onboard_time": 1729429641,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 539411,
+      "num": 253492,
+      "word": "赵露思说要送粉丝宝格丽",
+      "onboard_time": 1730292558,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 539135,
@@ -20609,14 +20649,6 @@
       "onboard_time": 1729471939,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 440178,
-      "num": 298582,
-      "word": "赵丽颖发型",
-      "onboard_time": 1730292199,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 440098,
@@ -27075,12 +27107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318555,
-      "num": 213011,
-      "word": "赵露思说要送粉丝宝格丽",
-      "onboard_time": 1730292558,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 318588,
+      "num": 318588,
+      "word": "男子将父亲尸体藏冰箱四年冒领社保",
+      "onboard_time": 1730294421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318344,
@@ -29641,14 +29673,6 @@
       "onboard_time": 1728045859,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289506,
-      "num": 289506,
-      "word": "鲨鱼裤成为年轻人的新秋裤",
-      "onboard_time": 1730292259,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 289461,
@@ -35811,6 +35835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234854,
+      "num": 234854,
+      "word": "荣耀Magic7",
+      "onboard_time": 1730288238,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "单依纯巴黎看秀状态",
@@ -36160,6 +36192,14 @@
       "word": "李斯丹妮快女13年后首个常驻音综",
       "onboard_time": 1728026659,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231968,
+      "num": 250687,
+      "word": "沈腾黄景瑜姜妍合照",
+      "onboard_time": 1730293340,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -36961,6 +37001,14 @@
       "onboard_time": 1728476301,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227527,
+      "num": 248380,
+      "word": "杜华说男团再不进步要疯了",
+      "onboard_time": 1730293219,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 227323,
@@ -38260,7 +38308,7 @@
     },
     {
       "raw_hot": 219440,
-      "num": 217530,
+      "num": 218024,
       "word": "男子组织多名十三四岁少女有偿陪侍",
       "onboard_time": 1730287878,
       "rank": 44,
@@ -40089,6 +40137,14 @@
       "onboard_time": 1728375799,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210093,
+      "num": 210093,
+      "word": "副局长跳窗逃离只会失去群众信任",
+      "onboard_time": 1730292499,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210086,
@@ -44355,6 +44411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195583,
+      "num": 195583,
+      "word": "人贩子道歉竟然说添麻烦了",
+      "onboard_time": 1730294360,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195578,
       "num": 195578,
       "word": "土耳其航空航天公司遭恐袭致3死5伤",
@@ -45073,14 +45137,6 @@
       "onboard_time": 1729416499,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193664,
-      "num": 193664,
-      "word": "荣耀Magic7",
-      "onboard_time": 1730288238,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 193625,
@@ -51147,6 +51203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172302,
+      "num": 172302,
+      "word": "田嘉瑞这样怎么都会成功的",
+      "onboard_time": 1730294539,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172274,
       "num": 172274,
       "word": "跨时空展炫彩敦煌",
@@ -53617,6 +53681,14 @@
       "onboard_time": 1729402278,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163873,
+      "num": 163873,
+      "word": "春花焰全员be",
+      "onboard_time": 1730294720,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 163868,
@@ -57929,6 +58001,14 @@
       "onboard_time": 1727875879,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149494,
+      "num": 149494,
+      "word": "彭小苒暗河传顶级刺客",
+      "onboard_time": 1730293160,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 149452,
@@ -63651,14 +63731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130438,
-      "num": 130438,
-      "word": "副局长跳窗逃离只会失去群众信任",
-      "onboard_time": 1730292499,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130410,
       "num": 130410,
       "word": "郑钦文谈纳达尔退役",
@@ -65329,14 +65401,6 @@
       "onboard_time": 1728056958,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124802,
-      "num": 124802,
-      "word": "彭小苒暗河传顶级刺客",
-      "onboard_time": 1730293160,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 124749,
@@ -72243,6 +72307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93243,
+      "num": 268720,
+      "word": "AG对战eStar",
+      "onboard_time": 1730286619,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93215,
       "num": 93215,
       "word": "央视新闻夜读",
@@ -77611,6 +77683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58922,
+      "num": 266268,
+      "word": "赵露思刘宇宁一个唱一个演",
+      "onboard_time": 1730294960,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58911,
       "num": 385914,
       "word": "李现OPPO发布会抓拍奶狗",
@@ -80913,6 +80993,14 @@
       "onboard_time": 1728714379,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 43399,
+      "num": 311370,
+      "word": "荣耀Magic7电子叶黄素",
+      "onboard_time": 1730293700,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 43397,
@@ -85075,6 +85163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30310,
+      "num": 294762,
+      "word": "涉黑副局长商业版图涉30余家公司",
+      "onboard_time": 1730292978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30289,
       "num": 39897,
       "word": "全国各地开启人从众模式",
@@ -86179,6 +86275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26914,
+      "num": 283212,
+      "word": "抢学生外卖扔垃圾桶应追究法律责任",
+      "onboard_time": 1730294239,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26910,
       "num": 331238,
       "word": "人贩子切莫心存侥幸",
@@ -86787,6 +86891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24988,
+      "num": 244886,
+      "word": "花海大司命超神",
+      "onboard_time": 1730294239,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 24986,
       "num": 395847,
       "word": "利亚姆佩恩生前居住房间",
@@ -87377,6 +87489,14 @@
       "onboard_time": 1729746441,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22907,
+      "num": 274882,
+      "word": "装修陪跑师真能避坑还是智商税",
+      "onboard_time": 1730293760,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22854,
@@ -88696,14 +88816,6 @@
       "word": "多地阿斯利康药代曾频繁改基因报告",
       "onboard_time": 1728592691,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18578,
-      "num": 294762,
-      "word": "涉黑副局长商业版图涉30余家公司",
-      "onboard_time": 1730292978,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -90041,6 +90153,14 @@
       "onboard_time": 1729027811,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12684,
+      "num": 977311,
+      "word": "中国人上太空有人接的感觉太好了",
+      "onboard_time": 1730294779,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12597,
