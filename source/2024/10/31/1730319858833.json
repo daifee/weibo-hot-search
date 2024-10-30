@@ -1,0 +1,410 @@
+{
+  "runTime": 1730319858833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 145130,
+        "num": 145130,
+        "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+        "onboard_time": 1730307015,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88394,
+        "num": 88394,
+        "word": "侯明昊被陈好贴脸开大",
+        "onboard_time": 1730298802,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2998,
+        "num": 65314,
+        "word": "中国人上太空有人接的感觉太好了",
+        "onboard_time": 1730294779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59912,
+        "num": 59912,
+        "word": "美大选结果可能要花上几天才能揭晓",
+        "onboard_time": 1730316011,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58055,
+        "num": 58055,
+        "word": "人贩子道歉竟然说添麻烦了",
+        "onboard_time": 1730294360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54548,
+        "num": 54548,
+        "word": "五角大楼就俄举行核军演表态",
+        "onboard_time": 1730313371,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 43034,
+        "num": 43034,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42100,
+        "num": 42100,
+        "word": "受台风康妮影响部分铁路停运",
+        "onboard_time": 1730305636,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36344,
+        "num": 36344,
+        "word": "刘烨在花少一个人去玩",
+        "onboard_time": 1730290818,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27960,
+        "num": 35723,
+        "word": "广西警方破获特大贩毒案",
+        "onboard_time": 1730310913,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55995,
+        "num": 35523,
+        "word": "90%三只羊MCN签约达人粉丝低于10万",
+        "onboard_time": 1730308215,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52839,
+        "num": 34781,
+        "word": "跳窗逃跑副局长将被依法依规处置",
+        "onboard_time": 1730304798,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50803,
+        "num": 33380,
+        "word": "彭高翁青雅 线下be",
+        "onboard_time": 1730288719,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49139,
+        "num": 32876,
+        "word": "权志龙",
+        "onboard_time": 1730303420,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45429,
+        "num": 31791,
+        "word": "男子面试被要求打斗地主输掉1.5万元",
+        "onboard_time": 1730304618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31722,
+        "num": 31722,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 15,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 30783,
+        "num": 30783,
+        "word": "老鼠啃包子茶餐厅涉事员工已停职",
+        "onboard_time": 1730303239,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37222,
+        "num": 30600,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730291360,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30328,
+        "num": 30328,
+        "word": "烧伤妈妈30%皮肤基本长好",
+        "onboard_time": 1730288538,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26712,
+        "num": 26712,
+        "word": "权志龙直播",
+        "onboard_time": 1730301681,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13427,
+        "num": 26575,
+        "word": "想见队友的心透过屏幕都感受到了",
+        "onboard_time": 1730319490,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42012,
+        "num": 26229,
+        "word": "12岁女孩体重400斤无法行走",
+        "onboard_time": 1730292259,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38458,
+        "num": 26132,
+        "word": "男子将父亲尸体藏冰箱四年冒领社保",
+        "onboard_time": 1730294421,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29164,
+        "num": 25859,
+        "word": "保温杯底部的贴纸不能撕",
+        "onboard_time": 1730299521,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25724,
+        "num": 25724,
+        "word": "鲨鱼裤成为年轻人的新秋裤",
+        "onboard_time": 1730292259,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 24794,
+        "num": 24794,
+        "word": "迪丽热巴珍珠高定",
+        "onboard_time": 1730293879,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24274,
+        "num": 24274,
+        "word": "和平精英",
+        "onboard_time": 1730307075,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21508,
+        "num": 23833,
+        "word": "正午阳光 群像剧",
+        "onboard_time": 1730299102,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20598,
+        "num": 23627,
+        "word": "第一次知道双戒指的含义",
+        "onboard_time": 1730288958,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19713,
+        "num": 23582,
+        "word": "小巷人家",
+        "onboard_time": 1730290518,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23544,
+        "num": 23544,
+        "word": "中印就边境有关问题达成解决方案",
+        "onboard_time": 1730299521,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22986,
+        "num": 22986,
+        "word": "青岛通报网传代孕事件",
+        "onboard_time": 1730289559,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21234,
+        "num": 21234,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 21116,
+        "num": 21116,
+        "word": "男子组织多名十三四岁少女有偿陪侍",
+        "onboard_time": 1730287878,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20972,
+        "num": 20972,
+        "word": "武汉监管部门下架山姆卤菜拼盘",
+        "onboard_time": 1730297060,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20858,
+        "num": 20858,
+        "word": "三只羊辟谣小杨哥复播",
+        "onboard_time": 1730285419,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20237,
+        "num": 20237,
+        "word": "阿斯利康中国总裁王磊配合调查",
+        "onboard_time": 1730301501,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19905,
+        "num": 19905,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19642,
+        "num": 19642,
+        "word": "古人体测要举起200多斤的石头",
+        "onboard_time": 1730308873,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11998,
+        "num": 19327,
+        "word": "村民称三蟒又做官又做生意",
+        "onboard_time": 1730319671,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 19104,
+        "word": "女子1次备好15天饭菜自制预制餐",
+        "onboard_time": 1730304199,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16445,
+        "num": 19096,
+        "word": "中国人的仪式感带到了太空",
+        "onboard_time": 1730315832,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19091,
+        "num": 19091,
+        "word": "重温金庸书中的侠骨柔情",
+        "onboard_time": 1730304318,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18088,
+        "num": 18088,
+        "word": "赵丽颖发型",
+        "onboard_time": 1730292199,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16688,
+        "num": 16688,
+        "word": "春花焰全员be",
+        "onboard_time": 1730294720,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16411,
+        "num": 16411,
+        "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
+        "onboard_time": 1730297901,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14821,
+        "num": 14821,
+        "word": "为中国航天加油",
+        "onboard_time": 1730315232,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14642,
+        "num": 14642,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1730310132,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14636,
+        "num": 14636,
+        "word": "哇唧唧哇声明",
+        "onboard_time": 1730301441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14444,
+        "num": 14444,
+        "word": "声生不息港乐季2",
+        "onboard_time": 1730296041,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在这些研讨班上总书记都强调了什么#"
+    }
+  }
+}
