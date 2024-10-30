@@ -1,0 +1,410 @@
+{
+  "runTime": 1730263303384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 980288,
+        "num": 1156846,
+        "word": "文春曝桥本环奈职场霸凌",
+        "onboard_time": 1730259679,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830166,
+        "num": 830166,
+        "word": "神十九与空间站完成对接",
+        "onboard_time": 1730258057,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73900,
+        "num": 729831,
+        "word": "公安部网安局提醒不可轻信买家秀",
+        "onboard_time": 1730254518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007360,
+        "num": 729578,
+        "word": "电视纸箱子竟然这么值钱",
+        "onboard_time": 1730259259,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976653,
+        "num": 729519,
+        "word": "赵牧辰 追妻火葬场",
+        "onboard_time": 1730260820,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723486,
+        "num": 723486,
+        "word": "陕西省税务局局长信息已从官网撤下",
+        "onboard_time": 1730261662,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842873,
+        "num": 680946,
+        "word": "陈都灵工作室解释直播吼人",
+        "onboard_time": 1730244917,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570184,
+        "num": 570184,
+        "word": "坐第一排看中国火箭发射有多震撼",
+        "onboard_time": 1730246179,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537417,
+        "num": 537417,
+        "word": "欧盟决定对中国电车征税",
+        "onboard_time": 1730254997,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22374,
+        "num": 534453,
+        "word": "1分钟回顾失孤原型被拐案",
+        "onboard_time": 1730262621,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4831302,
+        "num": 532128,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1370534,
+        "num": 527733,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35388,
+        "num": 524582,
+        "word": "媒体谈野猪冲撞高铁事件",
+        "onboard_time": 1730263101,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36065,
+        "num": 517283,
+        "word": "郭刚堂为寻子骑废10辆摩托车",
+        "onboard_time": 1730262020,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079194,
+        "num": 515299,
+        "word": "澳门CoCo姐下架虫草内裤",
+        "onboard_time": 1730255418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798937,
+        "num": 511442,
+        "word": "荣梓杉球鞋",
+        "onboard_time": 1730262982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757774,
+        "num": 506287,
+        "word": "复旦教授提倡有条件年轻人啃几年老",
+        "onboard_time": 1730252479,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89776,
+        "num": 501165,
+        "word": "永夜星河打工牛马一夜成首富千金",
+        "onboard_time": 1730256318,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96115,
+        "num": 499375,
+        "word": "戚薇给李承铉的生日礼物是四大名著",
+        "onboard_time": 1730262559,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64415,
+        "num": 494267,
+        "word": "南京一野猪闯进火车站旁酒店",
+        "onboard_time": 1730261539,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637970,
+        "num": 489746,
+        "word": "陈都灵直播工作人员大吼",
+        "onboard_time": 1730243595,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486969,
+        "num": 486969,
+        "word": "恋综梦女",
+        "onboard_time": 1730262439,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470225,
+        "num": 470225,
+        "word": "俄演练发射三枚洲际弹道导弹",
+        "onboard_time": 1730256138,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 450446,
+        "num": 450446,
+        "word": "生父回应3岁儿子被女友虐待致死",
+        "onboard_time": 1730259438,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445219,
+        "num": 445219,
+        "word": "90后农村娃拿到太空船票",
+        "onboard_time": 1730211622,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21166,
+        "num": 431350,
+        "word": "宠物出行必备单品",
+        "onboard_time": 1730261119,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419239,
+        "num": 419239,
+        "word": "韩女团成员拍摄中乳牙掉了",
+        "onboard_time": 1730246959,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418171,
+        "num": 418171,
+        "word": "光与夜之恋",
+        "onboard_time": 1730246539,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 387262,
+        "num": 387262,
+        "word": "三生三世枕上书卖号",
+        "onboard_time": 1730263220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310058,
+        "num": 383061,
+        "word": "赵牧辰 摇摆",
+        "onboard_time": 1730260699,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379830,
+        "num": 379830,
+        "word": "男子为林黛玉发240分钟澄清视频",
+        "onboard_time": 1730253078,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 349545,
+        "num": 349545,
+        "word": "重庆一公厕洗手池内现弃婴",
+        "onboard_time": 1730262320,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315950,
+        "num": 315950,
+        "word": "GEN教练分享T1运营细节",
+        "onboard_time": 1730261899,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 314760,
+        "num": 314760,
+        "word": "周雨彤说会找机会和大家聊聊",
+        "onboard_time": 1730212881,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306247,
+        "num": 306247,
+        "word": "时代少年团演唱会重庆",
+        "onboard_time": 1730262200,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104547,
+        "num": 284561,
+        "word": "为什么中西医都建议秋天吃点酸",
+        "onboard_time": 1730261299,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274321,
+        "num": 274321,
+        "word": "马斯克想让14个母子住在一起",
+        "onboard_time": 1730260519,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268783,
+        "num": 268783,
+        "word": "齐司礼 画师",
+        "onboard_time": 1730258599,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267501,
+        "num": 267501,
+        "word": "哈里斯连续三天演讲被抗议",
+        "onboard_time": 1730260579,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 257438,
+        "num": 257438,
+        "word": "光与夜之恋 埃及风",
+        "onboard_time": 1730258178,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249041,
+        "num": 249041,
+        "word": "小狗为了不弄脏座位把自己缩成一团",
+        "onboard_time": 1730261899,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240522,
+        "num": 240522,
+        "word": "邱泽回归虐恋男主赛道",
+        "onboard_time": 1730260280,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238747,
+        "num": 238747,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228305,
+        "num": 228305,
+        "word": "邓超也发了红发自拍",
+        "onboard_time": 1730258898,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217827,
+        "num": 217827,
+        "word": "伊能静 男人就是一头驴",
+        "onboard_time": 1730257879,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216326,
+        "num": 216326,
+        "word": "BABYMONSTER新歌上线",
+        "onboard_time": 1730263220,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214569,
+        "num": 214569,
+        "word": "美国男子捡到一箱选票",
+        "onboard_time": 1730256618,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207701,
+        "num": 207701,
+        "word": "韩安冉官宣领证",
+        "onboard_time": 1730248760,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205929,
+        "num": 205929,
+        "word": "女子20岁起因家族遗传满头白发",
+        "onboard_time": 1730258358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205032,
+        "num": 205032,
+        "word": "封神一身组服穿三部",
+        "onboard_time": 1730257518,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#凝心聚力推动改革行稳致远#"
+    }
+  }
+}
