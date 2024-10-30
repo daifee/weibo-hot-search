@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730295683771,
+  "endTime": 1730298088747,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1712625,
+      "num": 1712625,
+      "word": "人贩子道歉竟然说添麻烦了",
+      "onboard_time": 1730294360,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1680659,
       "num": 1680659,
       "word": "周雨彤说会找机会和大家聊聊",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269511,
+      "num": 1269511,
+      "word": "男子将父亲尸体藏冰箱四年冒领社保",
+      "onboard_time": 1730294421,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1268123,
       "num": 1268123,
       "word": "陈都灵直播工作人员大吼",
@@ -201,14 +217,6 @@
       "onboard_time": 1730256078,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1183646,
-      "num": 318588,
-      "word": "男子将父亲尸体藏冰箱四年冒领社保",
-      "onboard_time": 1730294421,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1167775,
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 444670,
-      "num": 850368,
+      "num": 988679,
       "word": "70后80后90后齐聚中国空间站",
       "onboard_time": 1730265679,
       "rank": 24,
@@ -929,6 +937,14 @@
       "onboard_time": 1730216180,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 336001,
+      "num": 336001,
+      "word": "春花焰全员be",
+      "onboard_time": 1730294720,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 335966,
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280489,
+      "num": 280489,
+      "word": "武汉监管部门下架山姆卤菜拼盘",
+      "onboard_time": 1730297060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280429,
       "num": 280429,
       "word": "客服回应阿淼淼账号清空",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1730248880,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262850,
-      "num": 262850,
-      "word": "春花焰全员be",
-      "onboard_time": 1730294720,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 259019,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1730274079,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 252517,
-      "num": 327159,
-      "word": "人贩子道歉竟然说添麻烦了",
-      "onboard_time": 1730294360,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252317,
@@ -1408,6 +1416,14 @@
       "word": "高雅cp",
       "onboard_time": 1730245337,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221599,
+      "num": 221599,
+      "word": "声生不息港乐季2",
+      "onboard_time": 1730296041,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1665,6 +1681,22 @@
       "onboard_time": 1730267058,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188714,
+      "num": 188714,
+      "word": "杨妞花回应被品牌方联系带货",
+      "onboard_time": 1730294480,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188469,
+      "num": 188469,
+      "word": "一诺狄仁杰神反应",
+      "onboard_time": 1730297181,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 187446,
@@ -2291,6 +2323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133293,
+      "num": 133293,
+      "word": "张杰演唱会前抓娃娃",
+      "onboard_time": 1730295621,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132113,
+      "num": 132113,
+      "word": "Ruler考虑回归LCK",
+      "onboard_time": 1730297481,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131355,
       "num": 131355,
       "word": "Whiplash初一位",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1730203581,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117301,
-      "num": 117301,
-      "word": "张杰演唱会前抓娃娃",
-      "onboard_time": 1730295621,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 115829,
@@ -2536,6 +2576,14 @@
       "word": "神十九航天员晚上8点起床了",
       "onboard_time": 1730239093,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92986,
+      "num": 288414,
+      "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
+      "onboard_time": 1730297901,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2787,6 +2835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52172,
+      "num": 326354,
+      "word": "荣耀Magic7电子叶黄素",
+      "onboard_time": 1730293700,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51949,
       "num": 295474,
       "word": "iQOO13价格",
@@ -2843,14 +2899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43399,
-      "num": 326354,
-      "word": "荣耀Magic7电子叶黄素",
-      "onboard_time": 1730293700,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 43003,
       "num": 490326,
       "word": "雷神省油更Ultra",
@@ -2880,6 +2928,14 @@
       "word": "雷军透露小米15涨价原因",
       "onboard_time": 1730204659,
       "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 41154,
+      "num": 317806,
+      "word": "荣耀赵明在晚8点下单2000杯咖啡",
+      "onboard_time": 1730296461,
+      "rank": 10,
       "category": "数码"
     },
     {
@@ -3027,6 +3083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32087,
+      "num": 278356,
+      "word": "赵明欢迎网友挑战荣耀Magic7",
+      "onboard_time": 1730296941,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32019,
       "num": 32019,
       "word": "小米澎湃OS2",
@@ -3155,6 +3219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24464,
+      "num": 257294,
+      "word": "荣耀Magic7用AI揪出女装大佬",
+      "onboard_time": 1730297001,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23706,
       "num": 157860,
       "word": "张大仙对iQOO路转粉",
@@ -3201,6 +3273,14 @@
       "onboard_time": 1730268259,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21616,
+      "num": 197914,
+      "word": "荣耀Magic7最强人像手机",
+      "onboard_time": 1730296461,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 21481,
@@ -3329,6 +3409,14 @@
       "onboard_time": 1730278819,
       "rank": 13,
       "category": "汽车,旅游"
+    },
+    {
+      "raw_hot": 7552,
+      "num": 330514,
+      "word": "青岛2名涉代孕医师被终身禁止从业",
+      "onboard_time": 1730297901,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7297,
