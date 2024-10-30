@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/30 13:40:23
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/30 14:40:10
 </p>
 </blockquote>
 <p>
@@ -665,6 +665,12 @@ VOGUE走秀（热度：2466480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B0%86%E6%AD%A3%E5%BC%8F%E9%81%93%E6%AD%89%23" target="weibo">
 拜登将正式道歉（热度：2464241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2375%E5%B2%81%E5%A4%A7%E7%88%B7%E5%BF%8D%E7%97%9B20%E5%B9%B4%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
+75岁大爷忍痛20年确诊重度抑郁症（热度：2460655）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ T1对战GEN（热度：952675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%A7%90%E7%A7%B0%E5%92%8C%E4%B9%98%E5%8A%A1%E9%95%BF%E5%9C%A8%E5%A4%A7%E5%B7%B4%E4%B8%8A%E4%BA%92%E6%AE%B4%23" target="weibo">
 东航空姐称和乘务长在大巴上互殴（热度：927504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E6%B0%B8%E4%B9%85%E5%88%87%E6%96%AD%E6%9C%9D%E9%9F%A9%E9%81%93%E8%B7%AF%E8%BF%9E%E6%8E%A5%23" target="weibo">
-韩国回应朝鲜永久切断朝韩道路连接（热度：926892）
 </a>
 </li>
 
