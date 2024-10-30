@@ -1,0 +1,410 @@
+{
+  "runTime": 1730253630560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1118223,
+        "num": 1178915,
+        "word": "陈都灵工作室解释直播吼人",
+        "onboard_time": 1730244917,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1069987,
+        "num": 1069987,
+        "word": "光与夜之恋",
+        "onboard_time": 1730246539,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 962963,
+        "word": "从神五到神十九",
+        "onboard_time": 1730205799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860924,
+        "num": 860924,
+        "word": "秦皇岛刺鼻气味",
+        "onboard_time": 1730249600,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766411,
+        "num": 766411,
+        "word": "周雨彤说会找机会和大家聊聊",
+        "onboard_time": 1730212881,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716624,
+        "num": 716624,
+        "word": "一觉醒来3个中国人上天了",
+        "onboard_time": 1730244617,
+        "rank": 5,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 641696,
+        "num": 641696,
+        "word": "坐第一排看中国火箭发射有多震撼",
+        "onboard_time": 1730246179,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422433,
+        "num": 422433,
+        "word": "恋综史上无法超越的告白",
+        "onboard_time": 1730243957,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406661,
+        "num": 406661,
+        "word": "秦皇岛环保局建议市民减少外出",
+        "onboard_time": 1730223014,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273130,
+        "num": 273130,
+        "word": "小米SU7 Ultra定价81.49万",
+        "onboard_time": 1730212282,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2872400,
+        "num": 272497,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1847868,
+        "num": 271726,
+        "word": "美国大选",
+        "onboard_time": 1730249960,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1056229,
+        "num": 270981,
+        "word": "陈都灵直播工作人员大吼",
+        "onboard_time": 1730243595,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 883944,
+        "num": 269716,
+        "word": "韩女团成员拍摄中乳牙掉了",
+        "onboard_time": 1730246959,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793103,
+        "num": 269082,
+        "word": "韩安冉官宣领证",
+        "onboard_time": 1730248760,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405628,
+        "num": 268231,
+        "word": "放狠话家里人死了先臭着领导道歉",
+        "onboard_time": 1730206219,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381251,
+        "num": 267329,
+        "word": "全家就我遗传了爸爸的丑貌",
+        "onboard_time": 1730243957,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378269,
+        "num": 266234,
+        "word": "马子佳 天亮了",
+        "onboard_time": 1730247020,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369649,
+        "num": 265512,
+        "word": "杨紫直播身材状态",
+        "onboard_time": 1730214740,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264822,
+        "num": 264822,
+        "word": "高雅cp官宣",
+        "onboard_time": 1730248880,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91530,
+        "num": 255318,
+        "word": "电影失孤原型被拐案二审今日宣判",
+        "onboard_time": 1730251579,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631793,
+        "num": 254193,
+        "word": "90后农村娃拿到太空船票",
+        "onboard_time": 1730211622,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497992,
+        "num": 254027,
+        "word": "复旦教授提倡有条件年轻人啃几年老",
+        "onboard_time": 1730252479,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252690,
+        "num": 252690,
+        "word": "神舟十九号发射圆满成功",
+        "onboard_time": 1730235790,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243029,
+        "num": 243029,
+        "word": "巴勒斯坦代表问你们知道这种感觉吗",
+        "onboard_time": 1730213421,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236138,
+        "num": 236138,
+        "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
+        "onboard_time": 1730251518,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203340,
+        "num": 234935,
+        "word": "豪咪cp",
+        "onboard_time": 1730252299,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188806,
+        "num": 233384,
+        "word": "蛇瓜",
+        "onboard_time": 1730213720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171729,
+        "num": 229815,
+        "word": "陈哲远直播吃到晕碳",
+        "onboard_time": 1730244497,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78338,
+        "num": 227020,
+        "word": "秦皇岛空气有辣椒面味当地正在调查",
+        "onboard_time": 1730253499,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226832,
+        "num": 226832,
+        "word": "难民孩子住在墓地里",
+        "onboard_time": 1730250320,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222153,
+        "num": 222153,
+        "word": "女生5年前丢的包被找回竟完好如初",
+        "onboard_time": 1730252718,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203478,
+        "num": 203478,
+        "word": "王浩泽说导师这句话影响自己终生",
+        "onboard_time": 1730226491,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147955,
+        "num": 202389,
+        "word": "高雅cp",
+        "onboard_time": 1730245337,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202335,
+        "num": 202335,
+        "word": "鹿晗红发自拍",
+        "onboard_time": 1730244558,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200421,
+        "num": 200421,
+        "word": "齐司礼头发",
+        "onboard_time": 1730252836,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195468,
+        "num": 195468,
+        "word": "南京南站亲历乘客称听到明显异响",
+        "onboard_time": 1730215641,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190164,
+        "num": 190164,
+        "word": "一部短片致敬中国女航天人",
+        "onboard_time": 1730248460,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184105,
+        "num": 184105,
+        "word": "男子为林黛玉发240分钟澄清视频",
+        "onboard_time": 1730253078,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 151843,
+        "num": 183946,
+        "word": "大梦归离剧情",
+        "onboard_time": 1730248760,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183934,
+        "num": 183934,
+        "word": "神十九发射升空瞬间",
+        "onboard_time": 1730243416,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178429,
+        "num": 178429,
+        "word": "6名中国航天员太空会师",
+        "onboard_time": 1730237651,
+        "rank": 41,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 168458,
+        "num": 168458,
+        "word": "C罗罚丢点球",
+        "onboard_time": 1730251938,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158586,
+        "num": 158586,
+        "word": "神十九出征仪式",
+        "onboard_time": 1730223433,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154952,
+        "num": 154952,
+        "word": "直播神十九发射",
+        "onboard_time": 1730223073,
+        "rank": 44,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 152889,
+        "num": 152889,
+        "word": "光与夜之恋猎权欲影",
+        "onboard_time": 1730253200,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152885,
+        "num": 152885,
+        "word": "神十九于10月30日4时27分发射",
+        "onboard_time": 1730216180,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152359,
+        "num": 152359,
+        "word": "细思极恐粗思也恐",
+        "onboard_time": 1730249779,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135928,
+        "num": 135928,
+        "word": "T1获得决赛选边权",
+        "onboard_time": 1730244377,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134490,
+        "num": 134490,
+        "word": "年轻人正在走出惯性与传统",
+        "onboard_time": 1730241073,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}

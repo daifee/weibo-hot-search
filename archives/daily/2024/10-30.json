@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730252592682,
+  "endTime": 1730253630560,
   "band_list": [
     {
       "raw_hot": 2982838,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1797315,
+      "raw_hot": 1847868,
       "num": 467119,
       "word": "美国大选",
       "onboard_time": 1730249960,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1069987,
+      "num": 1069987,
+      "word": "光与夜之恋",
+      "onboard_time": 1730246539,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 908848,
       "num": 908848,
       "word": "南京南站亲历乘客称听到明显异响",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 890701,
-      "num": 890701,
-      "word": "光与夜之恋",
-      "onboard_time": 1730246539,
-      "rank": 1,
-      "category": "游戏"
+      "raw_hot": 883944,
+      "num": 465077,
+      "word": "韩女团成员拍摄中乳牙掉了",
+      "onboard_time": 1730246959,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 871046,
@@ -75,20 +83,20 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 870190,
-      "num": 465077,
-      "word": "韩女团成员拍摄中乳牙掉了",
-      "onboard_time": 1730246959,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 869233,
       "num": 464526,
       "word": "韩安冉官宣领证",
       "onboard_time": 1730248760,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 860924,
+      "num": 860924,
+      "word": "秦皇岛刺鼻气味",
+      "onboard_time": 1730249600,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819645,
@@ -123,8 +131,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 631019,
-      "num": 631019,
+      "raw_hot": 641696,
+      "num": 641696,
       "word": "坐第一排看中国火箭发射有多震撼",
       "onboard_time": 1730246179,
       "rank": 5,
@@ -155,14 +163,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 543264,
-      "num": 543264,
-      "word": "秦皇岛刺鼻气味",
-      "onboard_time": 1730249600,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536336,
       "num": 308158,
       "word": "豪咪cp官宣",
@@ -185,6 +185,14 @@
       "onboard_time": 1730243957,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497992,
+      "num": 254027,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484476,
@@ -291,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 264822,
+      "num": 264822,
+      "word": "高雅cp官宣",
+      "onboard_time": 1730248880,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249624,
       "num": 249624,
       "word": "难民孩子住在墓地里",
@@ -312,6 +328,14 @@
       "word": "王浩泽说导师这句话影响自己终生",
       "onboard_time": 1730226491,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236138,
+      "num": 236138,
+      "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
+      "onboard_time": 1730251518,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -347,19 +371,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230857,
-      "num": 255888,
-      "word": "高雅cp官宣",
-      "onboard_time": 1730248880,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224008,
-      "num": 224008,
-      "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
-      "onboard_time": 1730251518,
-      "rank": 34,
+      "raw_hot": 222153,
+      "num": 222153,
+      "word": "女生5年前丢的包被找回竟完好如初",
+      "onboard_time": 1730252718,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -427,12 +443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203340,
+      "num": 234935,
+      "word": "豪咪cp",
+      "onboard_time": 1730252299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200421,
+      "num": 200421,
+      "word": "齐司礼头发",
+      "onboard_time": 1730252836,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193716,
       "num": 193716,
       "word": "赵牧辰哭了",
       "onboard_time": 1730201600,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184105,
+      "num": 184105,
+      "word": "男子为林黛玉发240分钟澄清视频",
+      "onboard_time": 1730253078,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 183411,
@@ -456,14 +496,6 @@
       "word": "干部疑为躲避群众提问从厕所跳窗",
       "onboard_time": 1730244197,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168401,
-      "num": 168401,
-      "word": "复旦教授提倡有条件年轻人啃几年老",
-      "onboard_time": 1730252479,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -499,6 +531,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 152889,
+      "num": 152889,
+      "word": "光与夜之恋猎权欲影",
+      "onboard_time": 1730253200,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152842,
       "num": 250070,
       "word": "大梦归离剧情",
@@ -529,14 +569,6 @@
       "onboard_time": 1730250619,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149447,
-      "num": 149447,
-      "word": "豪咪cp",
-      "onboard_time": 1730252299,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 149320,
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91530,
+      "num": 468755,
+      "word": "电影失孤原型被拐案二审今日宣判",
+      "onboard_time": 1730251579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89692,
       "num": 104945,
       "word": "张大大强烈支持赵露思新剧",
@@ -811,6 +851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78338,
+      "num": 227020,
+      "word": "秦皇岛空气有辣椒面味当地正在调查",
+      "onboard_time": 1730253499,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76768,
       "num": 76768,
       "word": "郑钦文在利雅得开练",
@@ -865,14 +913,6 @@
       "onboard_time": 1730235311,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 61777,
-      "num": 468755,
-      "word": "电影失孤原型被拐案二审今日宣判",
-      "onboard_time": 1730251579,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59696,
@@ -955,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22115,
+      "num": 962963,
+      "word": "从神五到神十九",
+      "onboard_time": 1730205799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21481,
       "num": 21481,
       "word": "90后航天员指国旗送飞吻",
@@ -984,14 +1032,6 @@
       "word": "神十九准备就绪",
       "onboard_time": 1730107400,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20150,
-      "num": 876719,
-      "word": "从神五到神十九",
-      "onboard_time": 1730205799,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

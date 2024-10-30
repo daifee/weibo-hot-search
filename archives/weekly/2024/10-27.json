@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730252592682,
+  "endTime": 1730253630560,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1847868,
+      "num": 467119,
+      "word": "美国大选",
+      "onboard_time": 1730249960,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1831417,
       "num": 1831417,
       "word": "长沙一外卖员抓猫从26楼扔下致死",
@@ -329,14 +337,6 @@
       "onboard_time": 1730121021,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1797315,
-      "num": 467119,
-      "word": "美国大选",
-      "onboard_time": 1730249960,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1793258,
@@ -923,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1069987,
+      "num": 1069987,
+      "word": "光与夜之恋",
+      "onboard_time": 1730246539,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1064751,
       "num": 1064751,
       "word": "这个世界乱糟糟而你干干净净",
@@ -1211,12 +1219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 890701,
-      "num": 890701,
-      "word": "光与夜之恋",
-      "onboard_time": 1730246539,
-      "rank": 1,
-      "category": "游戏"
+      "raw_hot": 883944,
+      "num": 465077,
+      "word": "韩女团成员拍摄中乳牙掉了",
+      "onboard_time": 1730246959,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 882529,
@@ -1275,14 +1283,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 870190,
-      "num": 465077,
-      "word": "韩女团成员拍摄中乳牙掉了",
-      "onboard_time": 1730246959,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 869233,
       "num": 464526,
       "word": "韩安冉官宣领证",
@@ -1320,6 +1320,14 @@
       "word": "英国一学生宿舍产子锁行李箱致死",
       "onboard_time": 1729992798,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860924,
+      "num": 860924,
+      "word": "秦皇岛刺鼻气味",
+      "onboard_time": 1730249600,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1779,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 641696,
+      "num": 641696,
+      "word": "坐第一排看中国火箭发射有多震撼",
+      "onboard_time": 1730246179,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 637785,
       "num": 387630,
       "word": "特朗普称当选就公布肯尼迪遇刺档案",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1730102060,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 631019,
-      "num": 631019,
-      "word": "坐第一排看中国火箭发射有多震撼",
-      "onboard_time": 1730246179,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 629088,
@@ -2163,14 +2171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543264,
-      "num": 543264,
-      "word": "秦皇岛刺鼻气味",
-      "onboard_time": 1730249600,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540584,
       "num": 474887,
       "word": "张淼怡大梦归离妆造",
@@ -2353,6 +2353,14 @@
       "onboard_time": 1729966693,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497992,
+      "num": 254027,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496464,
@@ -3963,6 +3971,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 264822,
+      "num": 264822,
+      "word": "高雅cp官宣",
+      "onboard_time": 1730248880,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264818,
       "num": 264818,
       "word": "无期迷途",
@@ -4475,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236138,
+      "num": 236138,
+      "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
+      "onboard_time": 1730251518,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235881,
       "num": 517127,
       "word": "外卖小哥被3名保安抡起板凳砸",
@@ -4561,14 +4585,6 @@
       "onboard_time": 1730194399,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 230857,
-      "num": 255888,
-      "word": "高雅cp官宣",
-      "onboard_time": 1730248880,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 230714,
@@ -4763,14 +4779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224008,
-      "num": 224008,
-      "word": "校方回应餐饮公司抢学生外卖扔垃圾桶",
-      "onboard_time": 1730251518,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223584,
       "num": 223584,
       "word": "芈迭 情商",
@@ -4817,6 +4825,14 @@
       "onboard_time": 1730165719,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222153,
+      "num": 222153,
+      "word": "女生5年前丢的包被找回竟完好如初",
+      "onboard_time": 1730252718,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221842,
@@ -5219,6 +5235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203340,
+      "num": 234935,
+      "word": "豪咪cp",
+      "onboard_time": 1730252299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203231,
       "num": 203231,
       "word": "梁伟铿任翔宇vs朱一珺胡珂源",
@@ -5321,6 +5345,14 @@
       "onboard_time": 1730122340,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200421,
+      "num": 200421,
+      "word": "齐司礼头发",
+      "onboard_time": 1730252836,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 200208,
@@ -5867,6 +5899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184105,
+      "num": 184105,
+      "word": "男子为林黛玉发240分钟澄清视频",
+      "onboard_time": 1730253078,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 183936,
       "num": 183936,
       "word": "杭州万圣节",
@@ -6377,14 +6417,6 @@
       "onboard_time": 1730016257,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168401,
-      "num": 168401,
-      "word": "复旦教授提倡有条件年轻人啃几年老",
-      "onboard_time": 1730252479,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168174,
@@ -6899,6 +6931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 152889,
+      "num": 152889,
+      "word": "光与夜之恋猎权欲影",
+      "onboard_time": 1730253200,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152871,
       "num": 150907,
       "word": "麦琳 被妖魔化",
@@ -7033,14 +7073,6 @@
       "onboard_time": 1730191941,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149447,
-      "num": 149447,
-      "word": "豪咪cp",
-      "onboard_time": 1730252299,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 149429,
@@ -8443,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91530,
+      "num": 468755,
+      "word": "电影失孤原型被拐案二审今日宣判",
+      "onboard_time": 1730251579,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90561,
       "num": 377022,
       "word": "殡仪馆副馆长为敛财改收费标准",
@@ -8585,6 +8625,14 @@
       "onboard_time": 1730234591,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78338,
+      "num": 227020,
+      "word": "秦皇岛空气有辣椒面味当地正在调查",
+      "onboard_time": 1730253499,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78214,
@@ -8856,14 +8904,6 @@
       "word": "警方通报乘客酒后殴打网约车司机",
       "onboard_time": 1730057471,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61777,
-      "num": 468755,
-      "word": "电影失孤原型被拐案二审今日宣判",
-      "onboard_time": 1730251579,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
