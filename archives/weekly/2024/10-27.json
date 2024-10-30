@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730324159351,
+  "endTime": 1730326888457,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -9483,6 +9483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133454,
+      "num": 59845,
+      "word": "辽宁一小区突发大火致1人死亡",
+      "onboard_time": 1730324051,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 133448,
       "num": 133448,
       "word": "乔妍的心事票房",
@@ -10483,6 +10491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93437,
+      "num": 93437,
+      "word": "五角大楼就俄举行核军演表态",
+      "onboard_time": 1730313371,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 93243,
       "num": 268720,
       "word": "AG对战eStar",
@@ -10505,14 +10521,6 @@
       "onboard_time": 1730080877,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90951,
-      "num": 90951,
-      "word": "五角大楼就俄举行核军演表态",
-      "onboard_time": 1730313371,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 90561,
@@ -10617,6 +10625,14 @@
       "onboard_time": 1730115019,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83672,
+      "num": 57626,
+      "word": "老鼠啃包子茶餐厅涉事员工已停职",
+      "onboard_time": 1730303239,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82451,
@@ -11067,12 +11083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60762,
-      "num": 38504,
-      "word": "老鼠啃包子茶餐厅涉事员工已停职",
-      "onboard_time": 1730303239,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 61518,
+      "num": 61518,
+      "word": "美大选结果可能要花上几天才能揭晓",
+      "onboard_time": 1730316011,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 60708,
@@ -11105,14 +11121,6 @@
       "onboard_time": 1730049913,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59912,
-      "num": 59912,
-      "word": "美大选结果可能要花上几天才能揭晓",
-      "onboard_time": 1730316011,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 59632,
@@ -11201,6 +11209,14 @@
       "onboard_time": 1730110578,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55482,
+      "num": 55482,
+      "word": "撒贝宁的状态令人羡慕了",
+      "onboard_time": 1730325012,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 55100,
@@ -11683,6 +11699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37262,
+      "num": 37262,
+      "word": "超强台风康妮预计将于明天登陆",
+      "onboard_time": 1730325312,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37164,
       "num": 156870,
       "word": "以军在加沙医院内四处开火",
@@ -12067,6 +12091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30093,
+      "num": 30093,
+      "word": "多人跨省闪婚女方均在半年内离开",
+      "onboard_time": 1730320090,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30084,
+      "num": 30084,
+      "word": "丈夫更新烧伤妈妈最新状态",
+      "onboard_time": 1730320392,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30066,
       "num": 40262,
       "word": "王浩泽从托举飞天到自己飞天",
@@ -12185,6 +12225,14 @@
       "onboard_time": 1730294239,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28280,
+      "num": 28280,
+      "word": "眼看果蝇就要上太空小鼠也不远了",
+      "onboard_time": 1730323150,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27896,
@@ -12355,14 +12403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 24747,
-      "num": 23219,
-      "word": "丈夫更新烧伤妈妈最新状态",
-      "onboard_time": 1730320392,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24670,
       "num": 555822,
       "word": "郭刚堂回应买卖同罪",
@@ -12449,6 +12489,14 @@
       "onboard_time": 1730187618,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 22451,
+      "num": 25542,
+      "word": "00后入殓师带清华教授干殡葬的一天",
+      "onboard_time": 1730320871,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22374,
@@ -12617,14 +12665,6 @@
       "onboard_time": 1730229491,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19766,
-      "num": 19766,
-      "word": "多人跨省闪婚女方均在半年内离开",
-      "onboard_time": 1730320090,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19145,
@@ -12811,14 +12851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14870,
-      "num": 14870,
-      "word": "辽宁一小区突发大火致1人死亡",
-      "onboard_time": 1730324051,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 14853,
       "num": 128743,
       "word": "韩路谈博主跨域出圈",
@@ -12833,6 +12865,14 @@
       "onboard_time": 1730315232,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14283,
+      "num": 61086,
+      "word": "郭刚堂用24年找到儿子余生终圆满",
+      "onboard_time": 1730324651,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14155,
@@ -12864,14 +12904,6 @@
       "word": "元首外交战略引领新典范",
       "onboard_time": 1730144651,
       "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13660,
-      "num": 25022,
-      "word": "眼看果蝇就要上太空小鼠也不远了",
-      "onboard_time": 1730323150,
-      "rank": 33,
       "category": "国内时政"
     },
     {
