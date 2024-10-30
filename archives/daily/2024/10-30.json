@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730287146760,
+  "endTime": 1730288143422,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1618684,
+      "num": 1618684,
+      "word": "荣梓杉工作室声明",
+      "onboard_time": 1730286438,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1595327,
       "num": 455344,
       "word": "生父回应3岁儿子被女友虐待致死",
@@ -161,6 +169,14 @@
       "onboard_time": 1730256078,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1167775,
+      "num": 1167775,
+      "word": "直面不想生不敢生不能生",
+      "onboard_time": 1730284159,
+      "rank": 9,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1147563,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922666,
+      "num": 922666,
+      "word": "三只羊辟谣小杨哥复播",
+      "onboard_time": 1730285419,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908848,
       "num": 908848,
       "word": "南京南站亲历乘客称听到明显异响",
@@ -385,6 +409,14 @@
       "onboard_time": 1730278580,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821788,
+      "num": 821788,
+      "word": "呼和浩特地震",
+      "onboard_time": 1730287699,
+      "rank": 5,
+      "category": "自然"
     },
     {
       "raw_hot": 819645,
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345170,
+      "num": 311757,
+      "word": "赵露思谈端午落泪",
+      "onboard_time": 1730285478,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339693,
       "num": 339693,
       "word": "神十九于10月30日4时27分发射",
@@ -817,6 +857,14 @@
       "onboard_time": 1730261899,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 314786,
+      "num": 314786,
+      "word": "烧伤妈妈丈夫回应质疑",
+      "onboard_time": 1730286258,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312112,
@@ -891,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294284,
+      "num": 294284,
+      "word": "林诗栋vs纳纳塞卡兰",
+      "onboard_time": 1730286799,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293480,
+      "num": 432512,
+      "word": "周雨彤 金晨是我的专业捧哏",
+      "onboard_time": 1730283859,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292157,
       "num": 454786,
       "word": "哈里斯连续三天演讲被抗议",
@@ -905,14 +969,6 @@
       "onboard_time": 1730202680,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 286077,
-      "num": 432512,
-      "word": "周雨彤 金晨是我的专业捧哏",
-      "onboard_time": 1730283859,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 280429,
@@ -1219,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205487,
+      "num": 308156,
+      "word": "珠帘玉幕直播",
+      "onboard_time": 1730284937,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204485,
       "num": 204485,
       "word": "近八成美国选民忧虑大选后有暴力事件",
@@ -1267,12 +1331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198569,
-      "num": 481674,
-      "word": "直面不想生不敢生不能生",
-      "onboard_time": 1730284159,
-      "rank": 9,
-      "category": "社会议题"
+      "raw_hot": 198587,
+      "num": 198587,
+      "word": "美国中餐馆暴揍劫匪的员工被控犯罪",
+      "onboard_time": 1730284638,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198340,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1730262559,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194996,
+      "num": 194996,
+      "word": "KPL",
+      "onboard_time": 1730287159,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 194268,
@@ -1419,12 +1491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182240,
+      "num": 245962,
+      "word": "网剧冬至",
+      "onboard_time": 1730285778,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182123,
       "num": 182123,
       "word": "汪苏泷苏州",
       "onboard_time": 1730266099,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178861,
+      "num": 242192,
+      "word": "电视剧暗河传杀青",
+      "onboard_time": 1730287638,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 178605,
@@ -1473,6 +1561,14 @@
       "onboard_time": 1730272217,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175385,
+      "num": 204382,
+      "word": "寄明月",
+      "onboard_time": 1730287338,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 175214,
@@ -1667,6 +1763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157806,
+      "num": 157806,
+      "word": "王者荣耀百相守梦战令",
+      "onboard_time": 1730285718,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156331,
+      "num": 156331,
+      "word": "荣耀发布会",
+      "onboard_time": 1730286319,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 155358,
       "num": 343589,
       "word": "焚城 口碑",
@@ -1787,6 +1899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "男子组织多名十三四岁少女有偿陪侍",
+      "onboard_time": 1730287878,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145312,
       "num": 145312,
       "word": "杜小华说郭刚堂非常有格局",
@@ -1905,6 +2025,14 @@
       "onboard_time": 1730227753,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124575,
+      "num": 124575,
+      "word": "庆怜 原来努力真的会开花结果",
+      "onboard_time": 1730288118,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 120237,
@@ -2072,6 +2200,14 @@
       "word": "公安部网安局提醒不可轻信买家秀",
       "onboard_time": 1730254518,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82451,
+      "num": 372134,
+      "word": "探访江苏知名农民副县长三蟒的豪宅",
+      "onboard_time": 1730284219,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51949,
+      "num": 295474,
+      "word": "iQOO13价格",
+      "onboard_time": 1730284518,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50672,
       "num": 555641,
       "word": "秦皇岛回应空气中出现刺鼻气味",
@@ -2291,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47301,
+      "num": 319973,
+      "word": "视力受损无法开车解约要扣2万押金",
+      "onboard_time": 1730286438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46117,
       "num": 476667,
       "word": "波司登极地系列可以穿到零下50度",
@@ -2305,6 +2457,14 @@
       "onboard_time": 1730265259,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43003,
+      "num": 490326,
+      "word": "雷神省油更Ultra",
+      "onboard_time": 1730282959,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 42001,
@@ -2331,12 +2491,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 39940,
-      "num": 224747,
-      "word": "iQOO13价格",
-      "onboard_time": 1730284518,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 39360,
+      "num": 303957,
+      "word": "买单发生拉扯致隔墙倒塌被砸伤",
+      "onboard_time": 1730286558,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39008,
@@ -2451,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32804,
-      "num": 490326,
-      "word": "雷神省油更Ultra",
-      "onboard_time": 1730282959,
-      "rank": 14,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 32381,
       "num": 317802,
       "word": "你找到生活的解药了吗",
@@ -2489,6 +2641,14 @@
       "onboard_time": 1730227332,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29637,
+      "num": 1219572,
+      "word": "斑斓秋色染神州",
+      "onboard_time": 1730285598,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29475,
@@ -2553,6 +2713,14 @@
       "onboard_time": 1730226491,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23706,
+      "num": 157860,
+      "word": "张大仙对iQOO路转粉",
+      "onboard_time": 1730285539,
+      "rank": 37,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 22374,

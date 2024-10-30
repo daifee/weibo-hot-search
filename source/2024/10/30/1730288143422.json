@@ -1,0 +1,410 @@
+{
+  "runTime": 1730288143422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618684,
+        "num": 1618684,
+        "word": "荣梓杉工作室声明",
+        "onboard_time": 1730286438,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1291357,
+        "num": 1291357,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29637,
+        "num": 1219572,
+        "word": "斑斓秋色染神州",
+        "onboard_time": 1730285598,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167775,
+        "num": 1167775,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 922666,
+        "num": 922666,
+        "word": "三只羊辟谣小杨哥复播",
+        "onboard_time": 1730285419,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821788,
+        "num": 821788,
+        "word": "呼和浩特地震",
+        "onboard_time": 1730287699,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 462636,
+        "num": 462636,
+        "word": "上海将迎1981年来11月最大降雨",
+        "onboard_time": 1730279479,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380746,
+        "num": 380746,
+        "word": "很多被拐孩子和亲生父母已无感情",
+        "onboard_time": 1730276958,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375604,
+        "num": 375604,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82451,
+        "num": 372134,
+        "word": "探访江苏知名农民副县长三蟒的豪宅",
+        "onboard_time": 1730284219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354305,
+        "num": 359268,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772951,
+        "num": 346717,
+        "word": "恶作剧捉弄同事酿悲剧赔了10万",
+        "onboard_time": 1730280920,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551218,
+        "num": 335991,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 12,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 404260,
+        "num": 335002,
+        "word": "赵露思刘宇宁发布会同框生图",
+        "onboard_time": 1730282359,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47301,
+        "num": 319973,
+        "word": "视力受损无法开车解约要扣2万押金",
+        "onboard_time": 1730286438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314786,
+        "num": 314786,
+        "word": "烧伤妈妈丈夫回应质疑",
+        "onboard_time": 1730286258,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345170,
+        "num": 311757,
+        "word": "赵露思谈端午落泪",
+        "onboard_time": 1730285478,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259650,
+        "num": 310203,
+        "word": "心动的信号节目组",
+        "onboard_time": 1730272398,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205487,
+        "num": 308156,
+        "word": "珠帘玉幕直播",
+        "onboard_time": 1730284937,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39360,
+        "num": 303957,
+        "word": "买单发生拉扯致隔墙倒塌被砸伤",
+        "onboard_time": 1730286558,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302330,
+        "num": 302330,
+        "word": "张百乔小雪婚礼",
+        "onboard_time": 1730277019,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302059,
+        "num": 302059,
+        "word": "超强台风康妮",
+        "onboard_time": 1730278580,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51949,
+        "num": 295474,
+        "word": "iQOO13价格",
+        "onboard_time": 1730284518,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294284,
+        "num": 294284,
+        "word": "林诗栋vs纳纳塞卡兰",
+        "onboard_time": 1730286799,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293480,
+        "num": 293480,
+        "word": "周雨彤 金晨是我的专业捧哏",
+        "onboard_time": 1730283859,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255454,
+        "num": 255454,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182240,
+        "num": 245962,
+        "word": "网剧冬至",
+        "onboard_time": 1730285778,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178861,
+        "num": 242192,
+        "word": "电视剧暗河传杀青",
+        "onboard_time": 1730287638,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18447,
+        "num": 218410,
+        "word": "张大仙的直播搭子iQOO13",
+        "onboard_time": 1730284219,
+        "rank": 28,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 175385,
+        "num": 204382,
+        "word": "寄明月",
+        "onboard_time": 1730287338,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203101,
+        "num": 203101,
+        "word": "曝姚明辞职",
+        "onboard_time": 1730277918,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198587,
+        "num": 198587,
+        "word": "美国中餐馆暴揍劫匪的员工被控犯罪",
+        "onboard_time": 1730284638,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194996,
+        "num": 194996,
+        "word": "KPL",
+        "onboard_time": 1730287159,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173674,
+        "num": 173674,
+        "word": "过度礼貌会让沟通变得低效",
+        "onboard_time": 1730282419,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164344,
+        "num": 164344,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160056,
+        "num": 160056,
+        "word": "侯佩岑录再见爱人cha了APT",
+        "onboard_time": 1730279059,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158046,
+        "num": 158046,
+        "word": "姚明任期内中国男篮没有打过奥运会",
+        "onboard_time": 1730281639,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23706,
+        "num": 157860,
+        "word": "张大仙对iQOO路转粉",
+        "onboard_time": 1730285539,
+        "rank": 37,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 43003,
+        "num": 157830,
+        "word": "雷神省油更Ultra",
+        "onboard_time": 1730282959,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157806,
+        "num": 157806,
+        "word": "王者荣耀百相守梦战令",
+        "onboard_time": 1730285718,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156490,
+        "num": 156490,
+        "word": "小西天保安大叔哽咽谈辞职原因",
+        "onboard_time": 1730280020,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156331,
+        "num": 156331,
+        "word": "荣耀发布会",
+        "onboard_time": 1730286319,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149500,
+        "num": 149500,
+        "word": "肖战黑粉被判公开道歉",
+        "onboard_time": 1730284817,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148398,
+        "num": 148398,
+        "word": "吸血鬼日记男主退圈",
+        "onboard_time": 1730278518,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146194,
+        "num": 146194,
+        "word": "男子组织多名十三四岁少女有偿陪侍",
+        "onboard_time": 1730287878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130061,
+        "num": 130061,
+        "word": "动物园斑马应激狂奔撞墙死亡",
+        "onboard_time": 1730271078,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127854,
+        "num": 127854,
+        "word": "赵丽颖再次出席东京电影节映后",
+        "onboard_time": 1730277799,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126305,
+        "num": 126305,
+        "word": "75岁大爷忍痛20年确诊重度抑郁症",
+        "onboard_time": 1730266400,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126218,
+        "num": 126218,
+        "word": "孙阳给张百乔当伴郎",
+        "onboard_time": 1730283799,
+        "rank": 48,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 124575,
+        "num": 124575,
+        "word": "庆怜 原来努力真的会开花结果",
+        "onboard_time": 1730288118,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在这些研讨班上总书记都强调了什么#"
+    }
+  }
+}
