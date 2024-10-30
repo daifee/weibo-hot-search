@@ -1,0 +1,410 @@
+{
+  "runTime": 1730283893948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2249338,
+        "num": 2249338,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 822259,
+        "num": 822259,
+        "word": "超强台风康妮",
+        "onboard_time": 1730278580,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8670,
+        "num": 758913,
+        "word": "120秒看神十九发射全程",
+        "onboard_time": 1730254758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703772,
+        "num": 703772,
+        "word": "曝姚明辞职",
+        "onboard_time": 1730277918,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624623,
+        "num": 624623,
+        "word": "上海将迎1981年来11月最大降雨",
+        "onboard_time": 1730279479,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712341,
+        "num": 591825,
+        "word": "赵露思刘宇宁发布会同框生图",
+        "onboard_time": 1730282359,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544745,
+        "num": 544745,
+        "word": "很多被拐孩子和亲生父母已无感情",
+        "onboard_time": 1730276958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347447,
+        "num": 538856,
+        "word": "赵丽颖再次出席东京电影节映后",
+        "onboard_time": 1730277799,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336812,
+        "num": 525064,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74171,
+        "num": 520080,
+        "word": "黑龙江一景区将启动流放宁古塔项目",
+        "onboard_time": 1730282299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1735589,
+        "num": 499759,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497140,
+        "num": 497140,
+        "word": "副县长被抓当晚老百姓放鞭庆祝",
+        "onboard_time": 1730282419,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261378,
+        "num": 495655,
+        "word": "心动的信号节目组",
+        "onboard_time": 1730272398,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202042,
+        "num": 494512,
+        "word": "张艺兴回应演唱会获奖",
+        "onboard_time": 1730283498,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32804,
+        "num": 490326,
+        "word": "雷神省油更Ultra",
+        "onboard_time": 1730282959,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34015,
+        "num": 489296,
+        "word": "打游戏就用iQOO13",
+        "onboard_time": 1730280920,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35259,
+        "num": 486518,
+        "word": "如何评价iQOO13性能",
+        "onboard_time": 1730280380,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30468,
+        "num": 484024,
+        "word": "被性能之光闪到了",
+        "onboard_time": 1730280920,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36945,
+        "num": 481663,
+        "word": "解清帅父子到山东声援郭刚堂",
+        "onboard_time": 1730280319,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13588,
+        "num": 479008,
+        "word": "多名消费者吐槽电子门锁夹手",
+        "onboard_time": 1730282717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46117,
+        "num": 476667,
+        "word": "波司登极地系列可以穿到零下50度",
+        "onboard_time": 1730280380,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1462295,
+        "num": 475215,
+        "word": "恶作剧捉弄同事酿悲剧赔了10万",
+        "onboard_time": 1730280920,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432178,
+        "num": 474290,
+        "word": "荣梓杉前经纪团队成员回应",
+        "onboard_time": 1730282119,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854121,
+        "num": 469891,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 23,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 194268,
+        "num": 467827,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1730283137,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652772,
+        "num": 466798,
+        "word": "张百乔小雪婚礼",
+        "onboard_time": 1730277019,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465184,
+        "num": 465184,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515945,
+        "num": 424295,
+        "word": "75岁大爷忍痛20年确诊重度抑郁症",
+        "onboard_time": 1730266400,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185053,
+        "num": 383405,
+        "word": "毓言cp芭莎大片",
+        "onboard_time": 1730282717,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178088,
+        "num": 382784,
+        "word": "辛芷蕾说赵丽颖让人有保护欲",
+        "onboard_time": 1730282179,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382717,
+        "num": 382717,
+        "word": "花79块钱报了一个香港纯玩一日游",
+        "onboard_time": 1730277679,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34729,
+        "num": 354176,
+        "word": "iQOO13珠峰屏",
+        "onboard_time": 1730282780,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 347106,
+        "num": 347106,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228530,
+        "num": 228530,
+        "word": "姚明任期内中国男篮没有打过奥运会",
+        "onboard_time": 1730281639,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215650,
+        "num": 215650,
+        "word": "吸血鬼日记男主退圈",
+        "onboard_time": 1730278518,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190752,
+        "num": 190752,
+        "word": "米莱狄全新秒杀皮肤",
+        "onboard_time": 1730282899,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185112,
+        "num": 185112,
+        "word": "广东6岁女童被同学泼开水烫伤进展",
+        "onboard_time": 1730281579,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181065,
+        "num": 181065,
+        "word": "小西天保安大叔哽咽谈辞职原因",
+        "onboard_time": 1730280020,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175373,
+        "num": 175373,
+        "word": "上海台风",
+        "onboard_time": 1730278158,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170783,
+        "num": 172427,
+        "word": "白鹿一天7套高定",
+        "onboard_time": 1730267118,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171826,
+        "num": 171826,
+        "word": "户口上错女儿与母亲年龄只差9岁",
+        "onboard_time": 1730269817,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18714,
+        "num": 171758,
+        "word": "当代人有自己的进补方式",
+        "onboard_time": 1730280979,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171700,
+        "num": 171700,
+        "word": "健康中国发文科普女性生育的好处",
+        "onboard_time": 1730281819,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170770,
+        "num": 170770,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160539,
+        "num": 168116,
+        "word": "蒋勤勤陈建斌大儿子谈同辈焦虑",
+        "onboard_time": 1730280440,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167649,
+        "num": 167649,
+        "word": "动物园斑马应激狂奔撞墙死亡",
+        "onboard_time": 1730271078,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166738,
+        "num": 166738,
+        "word": "苏新皓橙发",
+        "onboard_time": 1730280380,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165140,
+        "num": 165140,
+        "word": "中级会计成绩还没出",
+        "onboard_time": 1730282538,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163601,
+        "num": 163601,
+        "word": "过度礼貌会让沟通变得低效",
+        "onboard_time": 1730282419,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152136,
+        "num": 152136,
+        "word": "周雨彤 金晨是我的专业捧哏",
+        "onboard_time": 1730283859,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在破立统一中实现改革蹄疾步稳#"
+    }
+  }
+}
