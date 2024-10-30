@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730258962478,
+  "endTime": 1730259825386,
   "band_list": [
     {
       "raw_hot": 2982838,
@@ -33,6 +33,14 @@
       "onboard_time": 1730212881,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1322778,
+      "num": 1322778,
+      "word": "神十九与空间站完成对接",
+      "onboard_time": 1730258057,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1300084,
@@ -88,6 +96,14 @@
       "word": "女生5年前丢的包被找回竟完好如初",
       "onboard_time": 1730252718,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957914,
+      "num": 543228,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 816403,
-      "num": 816403,
-      "word": "神十九与空间站完成对接",
-      "onboard_time": 1730258057,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 807633,
       "num": 377478,
       "word": "杨紫直播身材状态",
@@ -168,14 +176,6 @@
       "word": "放狠话家里人死了先臭着领导道歉",
       "onboard_time": 1730206219,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795308,
-      "num": 543228,
-      "word": "复旦教授提倡有条件年轻人啃几年老",
-      "onboard_time": 1730252479,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -355,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324450,
+      "num": 324450,
+      "word": "邓超也发了红发自拍",
+      "onboard_time": 1730258898,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322118,
+      "num": 528361,
+      "word": "台风康妮已加强为超强台风",
+      "onboard_time": 1730255717,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319442,
       "num": 319442,
       "word": "小米洗衣机",
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299746,
+      "num": 299746,
+      "word": "光与夜之恋 埃及风",
+      "onboard_time": 1730258178,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295109,
       "num": 295109,
       "word": "这个世界乱糟糟而你干干净净",
@@ -395,8 +419,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 285826,
+      "num": 285826,
+      "word": "齐司礼 画师",
+      "onboard_time": 1730258599,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281890,
-      "num": 410087,
+      "num": 545995,
       "word": "俄演练发射三枚洲际弹道导弹",
       "onboard_time": 1730256138,
       "rank": 31,
@@ -419,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254025,
+      "num": 254025,
+      "word": "电视纸箱子竟然这么值钱",
+      "onboard_time": 1730259259,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249624,
       "num": 249624,
       "word": "难民孩子住在墓地里",
@@ -428,23 +468,15 @@
     },
     {
       "raw_hot": 248710,
-      "num": 248710,
+      "num": 300260,
       "word": "汤唯三提青龙奖最佳女主角",
       "onboard_time": 1730257398,
       "rank": 32,
       "category": "电影"
     },
     {
-      "raw_hot": 248436,
-      "num": 234493,
-      "word": "光与夜之恋 埃及风",
-      "onboard_time": 1730258178,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241961,
-      "num": 241961,
+      "num": 305897,
       "word": "封神一身组服穿三部",
       "onboard_time": 1730257518,
       "rank": 28,
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231445,
+      "num": 231445,
+      "word": "伊能静 男人就是一头驴",
+      "onboard_time": 1730257879,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221842,
       "num": 176187,
       "word": "年轻人正在走出惯性与传统",
@@ -531,36 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220104,
-      "num": 528361,
-      "word": "台风康妮已加强为超强台风",
-      "onboard_time": 1730255717,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214378,
-      "num": 214378,
-      "word": "伊能静 男人就是一头驴",
-      "onboard_time": 1730257879,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211889,
       "num": 211889,
       "word": "九块九害死了3万块",
       "onboard_time": 1730209039,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211165,
-      "num": 211165,
-      "word": "齐司礼 画师",
-      "onboard_time": 1730258599,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 210666,
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207402,
+      "num": 312359,
+      "word": "蒋欣 夸的不错奖励一盘蛇瓜",
+      "onboard_time": 1730258959,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204485,
       "num": 204485,
       "word": "近八成美国选民忧虑大选后有暴力事件",
@@ -611,11 +635,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198544,
+      "num": 198544,
+      "word": "女子20岁起因家族遗传满头白发",
+      "onboard_time": 1730258358,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193716,
       "num": 193716,
       "word": "赵牧辰哭了",
       "onboard_time": 1730201600,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184493,
+      "num": 184493,
+      "word": "综艺搭子有真友谊吗",
+      "onboard_time": 1730259138,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -643,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175438,
-      "num": 175438,
-      "word": "女子20岁起因家族遗传满头白发",
-      "onboard_time": 1730258358,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 178744,
+      "num": 178744,
+      "word": "文春曝桥本环奈职场霸凌",
+      "onboard_time": 1730259679,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 173304,
@@ -673,6 +713,22 @@
       "onboard_time": 1730256618,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170310,
+      "num": 170310,
+      "word": "中国大鹅嘴真严啊",
+      "onboard_time": 1730259500,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "广州地铁11号线田心村站确定取消",
+      "onboard_time": 1730259259,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168042,
@@ -777,14 +833,6 @@
       "onboard_time": 1730212161,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151422,
-      "num": 151422,
-      "word": "邓超也发了红发自拍",
-      "onboard_time": 1730258898,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 151138,
@@ -1067,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85091,
+      "num": 908067,
+      "word": "公安部网安局提醒不可轻信买家秀",
+      "onboard_time": 1730254518,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81923,
       "num": 81923,
       "word": "锦绣安宁",
@@ -1088,6 +1144,14 @@
       "word": "中国货运航天飞机正式公开",
       "onboard_time": 1730219897,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80131,
+      "num": 382788,
+      "word": "生父回应3岁儿子被女友虐待致死",
+      "onboard_time": 1730259438,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1147,19 +1211,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73051,
-      "num": 908067,
-      "word": "公安部网安局提醒不可轻信买家秀",
-      "onboard_time": 1730254518,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70982,
       "num": 70982,
       "word": "金宇硕姜娜言承认恋情后出席发布会",
       "onboard_time": 1730231412,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68982,
+      "num": 396880,
+      "word": "hybe希望闵熙珍续约取得进展",
+      "onboard_time": 1730259351,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1169,6 +1233,14 @@
       "onboard_time": 1730235311,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62373,
+      "num": 494193,
+      "word": "明晚8点京东11.11全品类五折",
+      "onboard_time": 1730257159,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 59696,
@@ -1195,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48704,
-      "num": 445966,
-      "word": "明晚8点京东11.11全品类五折",
-      "onboard_time": 1730257159,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48397,
       "num": 253152,
       "word": "美大选工作人员丢失一箱选票被捡走",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1730244136,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41909,
+      "num": 508859,
+      "word": "只靠吃药能治好抑郁症吗",
+      "onboard_time": 1730259199,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41873,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730259825386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1322778,
+        "num": 1322778,
+        "word": "神十九与空间站完成对接",
+        "onboard_time": 1730258057,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1063052,
+        "num": 1063052,
+        "word": "荣梓杉 双眼皮",
+        "onboard_time": 1730256078,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85091,
+        "num": 890413,
+        "word": "公安部网安局提醒不可轻信买家秀",
+        "onboard_time": 1730254518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837171,
+        "num": 837171,
+        "word": "欧盟决定对中国电车征税",
+        "onboard_time": 1730254997,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810028,
+        "num": 810028,
+        "word": "男子为林黛玉发240分钟澄清视频",
+        "onboard_time": 1730253078,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 569929,
+        "num": 569929,
+        "word": "美国大选结果何时出炉",
+        "onboard_time": 1730249960,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 568762,
+        "num": 568762,
+        "word": "陈都灵工作室解释直播吼人",
+        "onboard_time": 1730244917,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562233,
+        "num": 562233,
+        "word": "坐第一排看中国火箭发射有多震撼",
+        "onboard_time": 1730246179,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548424,
+        "num": 548424,
+        "word": "周雨彤说会找机会和大家聊聊",
+        "onboard_time": 1730212881,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218121,
+        "num": 545995,
+        "word": "俄演练发射三枚洲际弹道导弹",
+        "onboard_time": 1730256138,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1914702,
+        "num": 534941,
+        "word": "澳门CoCo姐下架虫草内裤",
+        "onboard_time": 1730255418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1495146,
+        "num": 526705,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957914,
+        "num": 521244,
+        "word": "复旦教授提倡有条件年轻人啃几年老",
+        "onboard_time": 1730252479,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41909,
+        "num": 508859,
+        "word": "只靠吃药能治好抑郁症吗",
+        "onboard_time": 1730259199,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662792,
+        "num": 496698,
+        "word": "陈都灵直播工作人员大吼",
+        "onboard_time": 1730243595,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62373,
+        "num": 494193,
+        "word": "明晚8点京东11.11全品类五折",
+        "onboard_time": 1730257159,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 487701,
+        "num": 487701,
+        "word": "韩女团成员拍摄中乳牙掉了",
+        "onboard_time": 1730246959,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430080,
+        "num": 430080,
+        "word": "光与夜之恋",
+        "onboard_time": 1730246539,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68982,
+        "num": 396880,
+        "word": "hybe希望闵熙珍续约取得进展",
+        "onboard_time": 1730259351,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80131,
+        "num": 382788,
+        "word": "生父回应3岁儿子被女友虐待致死",
+        "onboard_time": 1730259438,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467573,
+        "num": 379235,
+        "word": "90后农村娃拿到太空船票",
+        "onboard_time": 1730211622,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373888,
+        "num": 373888,
+        "word": "韩安冉官宣领证",
+        "onboard_time": 1730248760,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364133,
+        "num": 364133,
+        "word": "神十九过境北京璀璨画面",
+        "onboard_time": 1730254158,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357745,
+        "num": 357745,
+        "word": "美国男子捡到一箱选票",
+        "onboard_time": 1730256618,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324450,
+        "num": 324450,
+        "word": "邓超也发了红发自拍",
+        "onboard_time": 1730258898,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322118,
+        "num": 322118,
+        "word": "台风康妮已加强为超强台风",
+        "onboard_time": 1730255717,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230493,
+        "num": 319806,
+        "word": "恋综史上无法超越的告白",
+        "onboard_time": 1730243957,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207402,
+        "num": 312359,
+        "word": "蒋欣 夸的不错奖励一盘蛇瓜",
+        "onboard_time": 1730258959,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200840,
+        "num": 305897,
+        "word": "封神一身组服穿三部",
+        "onboard_time": 1730257518,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191900,
+        "num": 300260,
+        "word": "汤唯三提青龙奖最佳女主角",
+        "onboard_time": 1730257398,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299746,
+        "num": 299746,
+        "word": "光与夜之恋 埃及风",
+        "onboard_time": 1730258178,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285826,
+        "num": 285826,
+        "word": "齐司礼 画师",
+        "onboard_time": 1730258599,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261626,
+        "num": 261626,
+        "word": "男子商场内摸女孩屁股还威胁打人",
+        "onboard_time": 1730255478,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254025,
+        "num": 254025,
+        "word": "电视纸箱子竟然这么值钱",
+        "onboard_time": 1730259259,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231445,
+        "num": 231445,
+        "word": "伊能静 男人就是一头驴",
+        "onboard_time": 1730257879,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231176,
+        "num": 231176,
+        "word": "秦皇岛刺鼻气味",
+        "onboard_time": 1730249600,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198875,
+        "num": 198875,
+        "word": "全家就我遗传了爸爸的丑貌",
+        "onboard_time": 1730243957,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198544,
+        "num": 198544,
+        "word": "女子20岁起因家族遗传满头白发",
+        "onboard_time": 1730258358,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190896,
+        "num": 190896,
+        "word": "杨紫直播身材状态",
+        "onboard_time": 1730214740,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187972,
+        "num": 187972,
+        "word": "近八成美国选民忧虑大选后有暴力事件",
+        "onboard_time": 1730255058,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187405,
+        "num": 187405,
+        "word": "直播神十九发射",
+        "onboard_time": 1730223073,
+        "rank": 40,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 186658,
+        "num": 186658,
+        "word": "神舟十九号发射圆满成功",
+        "onboard_time": 1730235790,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184493,
+        "num": 184493,
+        "word": "综艺搭子有真友谊吗",
+        "onboard_time": 1730259138,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178744,
+        "num": 178744,
+        "word": "文春曝桥本环奈职场霸凌",
+        "onboard_time": 1730259679,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 170310,
+        "word": "中国大鹅嘴真严啊",
+        "onboard_time": 1730259500,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168508,
+        "num": 168508,
+        "word": "广州地铁11号线田心村站确定取消",
+        "onboard_time": 1730259259,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152326,
+        "num": 152326,
+        "word": "豪咪cp",
+        "onboard_time": 1730252299,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149172,
+        "num": 149172,
+        "word": "高雅cp官宣",
+        "onboard_time": 1730248880,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141197,
+        "num": 141197,
+        "word": "中方对欧盟裁决结果不认同不接受",
+        "onboard_time": 1730258538,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136462,
+        "num": 136462,
+        "word": "多视角看神十九发射震撼瞬间",
+        "onboard_time": 1730254098,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}

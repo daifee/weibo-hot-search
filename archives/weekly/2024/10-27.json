@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730258962478,
+  "endTime": 1730259825386,
   "band_list": [
     {
       "raw_hot": 4331227,
@@ -651,6 +651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1322778,
+      "num": 1322778,
+      "word": "神十九与空间站完成对接",
+      "onboard_time": 1730258057,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1315593,
       "num": 1315593,
       "word": "孙乐言哭了",
@@ -1123,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957914,
+      "num": 543228,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952675,
       "num": 952675,
       "word": "T1对战GEN",
@@ -1483,27 +1499,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 816403,
-      "num": 816403,
-      "word": "神十九与空间站完成对接",
-      "onboard_time": 1730258057,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 811107,
       "num": 811107,
       "word": "卫健委回应奖励三孩家庭1.3万",
       "onboard_time": 1730160679,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795308,
-      "num": 543228,
-      "word": "复旦教授提倡有条件年轻人啃几年老",
-      "onboard_time": 1730252479,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3451,12 +3451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324450,
+      "num": 324450,
+      "word": "邓超也发了红发自拍",
+      "onboard_time": 1730258898,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324298,
       "num": 324298,
       "word": "太平年官宣",
       "onboard_time": 1729995737,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322118,
+      "num": 528361,
+      "word": "台风康妮已加强为超强台风",
+      "onboard_time": 1730255717,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321988,
@@ -3699,6 +3715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 299746,
+      "num": 299746,
+      "word": "光与夜之恋 埃及风",
+      "onboard_time": 1730258178,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298760,
       "num": 239883,
       "word": "十四年前的麦琳",
@@ -3843,6 +3867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285826,
+      "num": 285826,
+      "word": "齐司礼 画师",
+      "onboard_time": 1730258599,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285118,
       "num": 577163,
       "word": "价值300元遥控器维修费1776元",
@@ -3916,7 +3948,7 @@
     },
     {
       "raw_hot": 281890,
-      "num": 410087,
+      "num": 545995,
       "word": "俄演练发射三枚洲际弹道导弹",
       "onboard_time": 1730256138,
       "rank": 31,
@@ -4267,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254025,
+      "num": 254025,
+      "word": "电视纸箱子竟然这么值钱",
+      "onboard_time": 1730259259,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252945,
       "num": 252945,
       "word": "林诗栋止步冠军赛四强",
@@ -4364,19 +4404,11 @@
     },
     {
       "raw_hot": 248710,
-      "num": 248710,
+      "num": 300260,
       "word": "汤唯三提青龙奖最佳女主角",
       "onboard_time": 1730257398,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248436,
-      "num": 234493,
-      "word": "光与夜之恋 埃及风",
-      "onboard_time": 1730258178,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 247365,
@@ -4524,7 +4556,7 @@
     },
     {
       "raw_hot": 241961,
-      "num": 241961,
+      "num": 305897,
       "word": "封神一身组服穿三部",
       "onboard_time": 1730257518,
       "rank": 28,
@@ -4713,6 +4745,14 @@
       "onboard_time": 1730027478,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231445,
+      "num": 231445,
+      "word": "伊能静 男人就是一头驴",
+      "onboard_time": 1730257879,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 231189,
@@ -5035,14 +5075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220104,
-      "num": 528361,
-      "word": "台风康妮已加强为超强台风",
-      "onboard_time": 1730255717,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220051,
       "num": 220051,
       "word": "沈星回 垂耳兔",
@@ -5163,14 +5195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 214378,
-      "num": 214378,
-      "word": "伊能静 男人就是一头驴",
-      "onboard_time": 1730257879,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214271,
       "num": 214271,
       "word": "有的网红账号看似真实实为水军工具",
@@ -5201,14 +5225,6 @@
       "onboard_time": 1730097979,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211165,
-      "num": 211165,
-      "word": "齐司礼 画师",
-      "onboard_time": 1730258599,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 210913,
@@ -5305,6 +5321,14 @@
       "onboard_time": 1730248460,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 207402,
+      "num": 312359,
+      "word": "蒋欣 夸的不错奖励一盘蛇瓜",
+      "onboard_time": 1730258959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 207308,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1730204659,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198544,
+      "num": 198544,
+      "word": "女子20岁起因家族遗传满头白发",
+      "onboard_time": 1730258358,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198410,
@@ -6051,6 +6083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184493,
+      "num": 184493,
+      "word": "综艺搭子有真友谊吗",
+      "onboard_time": 1730259138,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183936,
       "num": 183936,
       "word": "杭州万圣节",
@@ -6251,6 +6291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178744,
+      "num": 178744,
+      "word": "文春曝桥本环奈职场霸凌",
+      "onboard_time": 1730259679,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178419,
       "num": 178419,
       "word": "郑晓龙说藏海传正在后期制作",
@@ -6377,14 +6425,6 @@
       "onboard_time": 1730135893,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 175438,
-      "num": 175438,
-      "word": "女子20岁起因家族遗传满头白发",
-      "onboard_time": 1730258358,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175211,
@@ -6539,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170310,
+      "num": 170310,
+      "word": "中国大鹅嘴真严啊",
+      "onboard_time": 1730259500,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170011,
       "num": 170011,
       "word": "罗慎远又和罗宜宁上一个户口",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1730016257,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "广州地铁11号线田心村站确定取消",
+      "onboard_time": 1730259259,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168174,
@@ -7233,14 +7289,6 @@
       "onboard_time": 1730000779,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151422,
-      "num": 151422,
-      "word": "邓超也发了红发自拍",
-      "onboard_time": 1730258898,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 150937,
@@ -8811,6 +8859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 85091,
+      "num": 908067,
+      "word": "公安部网安局提醒不可轻信买家秀",
+      "onboard_time": 1730254518,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84159,
       "num": 84159,
       "word": "老瓦杯",
@@ -8864,6 +8920,14 @@
       "word": "今年第21号台风康妮已经生成",
       "onboard_time": 1730050814,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80131,
+      "num": 382788,
+      "word": "生父回应3岁儿子被女友虐待致死",
+      "onboard_time": 1730259438,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8929,14 +8993,6 @@
       "onboard_time": 1730000178,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73051,
-      "num": 908067,
-      "word": "公安部网安局提醒不可轻信买家秀",
-      "onboard_time": 1730254518,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73022,
@@ -9017,6 +9073,14 @@
       "onboard_time": 1730144111,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68982,
+      "num": 396880,
+      "word": "hybe希望闵熙珍续约取得进展",
+      "onboard_time": 1730259351,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 68648,
@@ -9145,6 +9209,14 @@
       "onboard_time": 1730113160,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62373,
+      "num": 494193,
+      "word": "明晚8点京东11.11全品类五折",
+      "onboard_time": 1730257159,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 62141,
@@ -9379,14 +9451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48704,
-      "num": 445966,
-      "word": "明晚8点京东11.11全品类五折",
-      "onboard_time": 1730257159,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48562,
       "num": 389024,
       "word": "刘亦菲去微博视界大会",
@@ -9497,6 +9561,14 @@
       "onboard_time": 1730244136,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41909,
+      "num": 508859,
+      "word": "只靠吃药能治好抑郁症吗",
+      "onboard_time": 1730259199,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40919,
