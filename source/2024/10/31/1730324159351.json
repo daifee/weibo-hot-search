@@ -1,0 +1,410 @@
+{
+  "runTime": 1730324159351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 192627,
+        "num": 192627,
+        "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+        "onboard_time": 1730307015,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91909,
+        "num": 91909,
+        "word": "侯明昊被陈好贴脸开大",
+        "onboard_time": 1730298802,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1930,
+        "num": 71685,
+        "word": "中国人上太空有人接的感觉太好了",
+        "onboard_time": 1730294779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55383,
+        "num": 55383,
+        "word": "五角大楼就俄举行核军演表态",
+        "onboard_time": 1730313371,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50250,
+        "num": 50250,
+        "word": "人贩子道歉竟然说添麻烦了",
+        "onboard_time": 1730294360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44119,
+        "num": 44119,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40706,
+        "num": 40706,
+        "word": "美大选结果可能要花上几天才能揭晓",
+        "onboard_time": 1730316011,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38599,
+        "num": 38599,
+        "word": "受台风康妮影响部分铁路停运",
+        "onboard_time": 1730305636,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32910,
+        "num": 38591,
+        "word": "正午阳光 群像剧",
+        "onboard_time": 1730299102,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28013,
+        "num": 38556,
+        "word": "刘烨在花少一个人去玩",
+        "onboard_time": 1730290818,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96796,
+        "num": 38530,
+        "word": "男子面试被要求打斗地主输掉1.5万元",
+        "onboard_time": 1730304618,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60762,
+        "num": 38504,
+        "word": "老鼠啃包子茶餐厅涉事员工已停职",
+        "onboard_time": 1730303239,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55744,
+        "num": 38490,
+        "word": "跳窗逃跑副局长将被依法依规处置",
+        "onboard_time": 1730304798,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53887,
+        "num": 38456,
+        "word": "90%三只羊MCN签约达人粉丝低于10万",
+        "onboard_time": 1730308215,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43772,
+        "num": 38443,
+        "word": "彭高翁青雅 线下be",
+        "onboard_time": 1730288719,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38862,
+        "num": 38407,
+        "word": "烧伤妈妈30%皮肤基本长好",
+        "onboard_time": 1730288538,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38400,
+        "num": 38400,
+        "word": "权志龙",
+        "onboard_time": 1730303420,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33172,
+        "num": 36567,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 17,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 13349,
+        "num": 35665,
+        "word": "在破立统一中实现改革蹄疾步稳",
+        "onboard_time": 1730322011,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35469,
+        "num": 35469,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730291360,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46115,
+        "num": 35354,
+        "word": "12岁女孩体重400斤无法行走",
+        "onboard_time": 1730292259,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39725,
+        "num": 35048,
+        "word": "男子将父亲尸体藏冰箱四年冒领社保",
+        "onboard_time": 1730294421,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33587,
+        "num": 33587,
+        "word": "保温杯底部的贴纸不能撕",
+        "onboard_time": 1730299521,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25292,
+        "num": 25292,
+        "word": "广西警方破获特大贩毒案",
+        "onboard_time": 1730310913,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13660,
+        "num": 25022,
+        "word": "眼看果蝇就要上太空小鼠也不远了",
+        "onboard_time": 1730323150,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28469,
+        "num": 24997,
+        "word": "鲨鱼裤成为年轻人的新秋裤",
+        "onboard_time": 1730292259,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 24821,
+        "num": 24821,
+        "word": "男子组织多名十三四岁少女有偿陪侍",
+        "onboard_time": 1730287878,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23248,
+        "num": 23248,
+        "word": "小巷人家",
+        "onboard_time": 1730290518,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23248,
+        "num": 23248,
+        "word": "第一次知道双戒指的含义",
+        "onboard_time": 1730288958,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18696,
+        "num": 23219,
+        "word": "春花焰全员be",
+        "onboard_time": 1730294720,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24747,
+        "num": 23219,
+        "word": "丈夫更新烧伤妈妈最新状态",
+        "onboard_time": 1730320392,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23211,
+        "num": 23211,
+        "word": "武汉监管部门下架山姆卤菜拼盘",
+        "onboard_time": 1730297060,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22584,
+        "num": 22584,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22526,
+        "num": 22526,
+        "word": "中印就边境有关问题达成解决方案",
+        "onboard_time": 1730299521,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22519,
+        "num": 22519,
+        "word": "青岛通报网传代孕事件",
+        "onboard_time": 1730289559,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22427,
+        "num": 22427,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 20968,
+        "num": 20968,
+        "word": "阿斯利康中国总裁王磊配合调查",
+        "onboard_time": 1730301501,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20868,
+        "num": 20868,
+        "word": "三只羊辟谣小杨哥复播",
+        "onboard_time": 1730285419,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20824,
+        "num": 20824,
+        "word": "女子1次备好15天饭菜自制预制餐",
+        "onboard_time": 1730304199,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20210,
+        "num": 20210,
+        "word": "重温金庸书中的侠骨柔情",
+        "onboard_time": 1730304318,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20072,
+        "num": 20072,
+        "word": "古人体测要举起200多斤的石头",
+        "onboard_time": 1730308873,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19766,
+        "num": 19766,
+        "word": "多人跨省闪婚女方均在半年内离开",
+        "onboard_time": 1730320090,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18299,
+        "num": 18299,
+        "word": "赵丽颖发型",
+        "onboard_time": 1730292199,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18166,
+        "num": 18166,
+        "word": "和平精英",
+        "onboard_time": 1730307075,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17973,
+        "num": 17973,
+        "word": "迪丽热巴珍珠高定",
+        "onboard_time": 1730293879,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 17440,
+        "num": 17440,
+        "word": "权志龙直播",
+        "onboard_time": 1730301681,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16570,
+        "num": 16570,
+        "word": "想见队友的心透过屏幕都感受到了",
+        "onboard_time": 1730319490,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16231,
+        "num": 16231,
+        "word": "易烊千玺单依纯合唱亚冬会会歌",
+        "onboard_time": 1730298143,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 15593,
+        "num": 15593,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1730310132,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14870,
+        "num": 14870,
+        "word": "辽宁一小区突发大火致1人死亡",
+        "onboard_time": 1730324051,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}
