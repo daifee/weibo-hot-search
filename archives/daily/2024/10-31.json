@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730326888457,
+  "endTime": 1730327979128,
   "band_list": [
     {
       "raw_hot": 818261,
@@ -211,6 +211,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 158938,
+      "num": 82636,
+      "word": "90%三只羊MCN签约达人粉丝低于10万",
+      "onboard_time": 1730308215,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 146894,
       "num": 146894,
       "word": "男子组织多名十三四岁少女有偿陪侍",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 133454,
-      "num": 59845,
+      "num": 79803,
       "word": "辽宁一小区突发大火致1人死亡",
       "onboard_time": 1730324051,
       "rank": 49,
@@ -251,6 +259,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127421,
+      "num": 127421,
+      "word": "五角大楼就俄举行核军演表态",
+      "onboard_time": 1730313371,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 127142,
+      "num": 81586,
+      "word": "老鼠啃包子茶餐厅涉事员工已停职",
+      "onboard_time": 1730303239,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124767,
       "num": 260240,
       "word": "3D还原南京野猪侵线事故",
@@ -265,14 +289,6 @@
       "onboard_time": 1730292558,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121119,
-      "num": 76449,
-      "word": "90%三只羊MCN签约达人粉丝低于10万",
-      "onboard_time": 1730308215,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 119671,
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110657,
+      "num": 110657,
+      "word": "撒贝宁的状态令人羡慕了",
+      "onboard_time": 1730325012,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109427,
       "num": 109427,
       "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
@@ -353,14 +377,6 @@
       "onboard_time": 1730300842,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93437,
-      "num": 93437,
-      "word": "五角大楼就俄举行核军演表态",
-      "onboard_time": 1730313371,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 93188,
@@ -411,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83672,
-      "num": 57626,
-      "word": "老鼠啃包子茶餐厅涉事员工已停职",
-      "onboard_time": 1730303239,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 83692,
+      "num": 83692,
+      "word": "美大选结果可能要花上几天才能揭晓",
+      "onboard_time": 1730316011,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 83576,
@@ -459,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61518,
-      "num": 61518,
-      "word": "美大选结果可能要花上几天才能揭晓",
-      "onboard_time": 1730316011,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 56363,
       "num": 56363,
       "word": "女子1次备好15天饭菜自制预制餐",
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55482,
-      "num": 55482,
-      "word": "撒贝宁的状态令人羡慕了",
-      "onboard_time": 1730325012,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 54819,
+      "num": 68789,
+      "word": "超强台风康妮预计将于明天登陆",
+      "onboard_time": 1730325312,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51793,
@@ -499,28 +507,44 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37262,
-      "num": 37262,
-      "word": "超强台风康妮预计将于明天登陆",
-      "onboard_time": 1730325312,
-      "rank": 28,
+      "raw_hot": 38374,
+      "num": 61086,
+      "word": "郭刚堂用24年找到儿子余生终圆满",
+      "onboard_time": 1730324651,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30093,
-      "num": 30093,
+      "raw_hot": 36209,
+      "num": 36209,
+      "word": "丈夫更新烧伤妈妈最新状态",
+      "onboard_time": 1730320392,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35743,
+      "num": 35743,
       "word": "多人跨省闪婚女方均在半年内离开",
       "onboard_time": 1730320090,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30084,
-      "num": 30084,
-      "word": "丈夫更新烧伤妈妈最新状态",
-      "onboard_time": 1730320392,
-      "rank": 47,
+      "raw_hot": 30692,
+      "num": 30692,
+      "word": "00后入殓师带清华教授干殡葬的一天",
+      "onboard_time": 1730320871,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28930,
+      "num": 28930,
+      "word": "张艺兴说孙红雷是自己的素材库",
+      "onboard_time": 1730327893,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 28280,
@@ -545,14 +569,6 @@
       "onboard_time": 1730311931,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22451,
-      "num": 25542,
-      "word": "00后入殓师带清华教授干殡葬的一天",
-      "onboard_time": 1730320871,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17856,
@@ -619,11 +635,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14283,
-      "num": 61086,
-      "word": "郭刚堂用24年找到儿子余生终圆满",
-      "onboard_time": 1730324651,
-      "rank": 9,
+      "raw_hot": 14613,
+      "num": 46963,
+      "word": "90后航天员说半年的期待思念值了",
+      "onboard_time": 1730327353,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -664,6 +680,14 @@
       "word": "13岁到91岁他将一生献给祖国",
       "onboard_time": 1730312592,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12194,
+      "num": 78298,
+      "word": "寻亲家长听闻判决后高喊呼富吉死刑",
+      "onboard_time": 1730327294,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
