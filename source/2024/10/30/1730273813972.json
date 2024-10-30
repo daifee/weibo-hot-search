@@ -1,0 +1,410 @@
+{
+  "runTime": 1730273813972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388858,
+        "num": 1388858,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1031829,
+        "num": 1031829,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 748302,
+        "word": "120秒看神十九发射全程",
+        "onboard_time": 1730254758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487770,
+        "num": 487770,
+        "word": "恋与深空 审美",
+        "onboard_time": 1730267659,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415640,
+        "num": 415640,
+        "word": "白鹿一天7套高定",
+        "onboard_time": 1730267118,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377191,
+        "num": 377191,
+        "word": "神十八神十九航天员天宫会师",
+        "onboard_time": 1730265919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373213,
+        "num": 373213,
+        "word": "赵牧辰 摇摆",
+        "onboard_time": 1730260699,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360244,
+        "num": 360244,
+        "word": "失孤原型案人贩子上诉被驳回",
+        "onboard_time": 1730270359,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338203,
+        "num": 338203,
+        "word": "永夜星河男女主是故事里男二女二",
+        "onboard_time": 1730268080,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35584,
+        "num": 338000,
+        "word": "数百亩土地成垃圾场",
+        "onboard_time": 1730272039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1904989,
+        "num": 337695,
+        "word": "户口上错女儿与母亲年龄只差9岁",
+        "onboard_time": 1730269817,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1853719,
+        "num": 337413,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1144070,
+        "num": 337016,
+        "word": "动物园斑马应激狂奔撞墙死亡",
+        "onboard_time": 1730271078,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046803,
+        "num": 336691,
+        "word": "75岁大爷忍痛20年确诊重度抑郁症",
+        "onboard_time": 1730266400,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834440,
+        "num": 336572,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604171,
+        "num": 336173,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360104,
+        "num": 335828,
+        "word": "拜登骂特朗普的支持者是垃圾",
+        "onboard_time": 1730270899,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287924,
+        "num": 335674,
+        "word": "恋综梦女",
+        "onboard_time": 1730262439,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12117,
+        "num": 335399,
+        "word": "猫女钱老板分手",
+        "onboard_time": 1730273478,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117651,
+        "num": 335016,
+        "word": "女子二胎咨询休产次日竟遭辞退",
+        "onboard_time": 1730272217,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334808,
+        "num": 334808,
+        "word": "郭刚堂之子被拐案二审维持原判",
+        "onboard_time": 1730270119,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299630,
+        "num": 299630,
+        "word": "70后80后90后齐聚中国空间站",
+        "onboard_time": 1730265679,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291731,
+        "num": 291731,
+        "word": "成都19岁男生持械伤人致1人身亡",
+        "onboard_time": 1730269879,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290845,
+        "num": 290845,
+        "word": "原来心脏是螺旋形的",
+        "onboard_time": 1730268439,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277142,
+        "num": 277142,
+        "word": "电视纸箱子竟然这么值钱",
+        "onboard_time": 1730259259,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274541,
+        "num": 274541,
+        "word": "心动的信号节目组",
+        "onboard_time": 1730272398,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242125,
+        "num": 242125,
+        "word": "蔡维泽",
+        "onboard_time": 1730266518,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242065,
+        "num": 242065,
+        "word": "赵牧辰 追妻火葬场",
+        "onboard_time": 1730260820,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214782,
+        "num": 214782,
+        "word": "宋茜 梦中情姐",
+        "onboard_time": 1730271500,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197135,
+        "num": 197135,
+        "word": "陕西省税务局局长信息已从官网撤下",
+        "onboard_time": 1730261662,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67922,
+        "num": 191311,
+        "word": "坐上郭刚堂寻子车的家长都找到了孩子",
+        "onboard_time": 1730271858,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198340,
+        "num": 190994,
+        "word": "心动的信号7 时尚芭莎",
+        "onboard_time": 1730272337,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190343,
+        "num": 190343,
+        "word": "陈都灵工作室解释直播吼人",
+        "onboard_time": 1730244917,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189881,
+        "num": 189881,
+        "word": "高三走读生晚上十点回家吃什么",
+        "onboard_time": 1730263581,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175835,
+        "num": 175835,
+        "word": "荣梓杉球鞋",
+        "onboard_time": 1730262982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160595,
+        "num": 160595,
+        "word": "文春曝桥本环奈职场霸凌",
+        "onboard_time": 1730259679,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 160341,
+        "word": "坐第一排看中国火箭发射有多震撼",
+        "onboard_time": 1730246179,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152365,
+        "num": 152365,
+        "word": "李晋晔脑综滑铁卢",
+        "onboard_time": 1730272217,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132714,
+        "num": 132714,
+        "word": "马斯克谈全球出生率下降",
+        "onboard_time": 1730273118,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132102,
+        "num": 132102,
+        "word": "刘青松回应WBG被淘汰",
+        "onboard_time": 1730273358,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130699,
+        "num": 130699,
+        "word": "何超莲陪窦骁医院就诊",
+        "onboard_time": 1730266400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130330,
+        "num": 130330,
+        "word": "中国航天全家福名场面再上演",
+        "onboard_time": 1730268978,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126811,
+        "num": 126811,
+        "word": "NET Dream",
+        "onboard_time": 1730268259,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124621,
+        "num": 124621,
+        "word": "中国空间站拎包入住",
+        "onboard_time": 1730269638,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123179,
+        "num": 123179,
+        "word": "小狗为了不弄脏座位把自己缩成一团",
+        "onboard_time": 1730261899,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118270,
+        "num": 118270,
+        "word": "杜小华说郭刚堂非常有格局",
+        "onboard_time": 1730270299,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115938,
+        "num": 115938,
+        "word": "马斯克想让14个母子住在一起",
+        "onboard_time": 1730260519,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112783,
+        "num": 112783,
+        "word": "神十九与空间站完成对接",
+        "onboard_time": 1730258057,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111495,
+        "num": 111495,
+        "word": "GEN教练分享T1运营细节",
+        "onboard_time": 1730261899,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71942,
+        "num": 110260,
+        "word": "怪物猎人荒野",
+        "onboard_time": 1730272279,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力打开改革发展新天地#"
+    }
+  }
+}
