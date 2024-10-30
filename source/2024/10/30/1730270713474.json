@@ -1,0 +1,410 @@
+{
+  "runTime": 1730270713474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460833,
+        "num": 1460833,
+        "word": "博主公然宣称南京大屠杀是日本内政",
+        "onboard_time": 1730263161,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815768,
+        "num": 815768,
+        "word": "白鹿一天7套高定",
+        "onboard_time": 1730267118,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 52798,
+        "num": 665188,
+        "word": "公安部网安局提醒不可轻信买家秀",
+        "onboard_time": 1730254518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652878,
+        "num": 652878,
+        "word": "恋与深空 审美",
+        "onboard_time": 1730267659,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 491890,
+        "num": 491890,
+        "word": "陕西省税务局局长信息已从官网撤下",
+        "onboard_time": 1730261662,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462944,
+        "num": 462944,
+        "word": "神十八神十九航天员天宫会师",
+        "onboard_time": 1730265919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460958,
+        "num": 460958,
+        "word": "恋综梦女",
+        "onboard_time": 1730262439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442491,
+        "num": 442491,
+        "word": "70后80后90后齐聚中国空间站",
+        "onboard_time": 1730265679,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373548,
+        "num": 373548,
+        "word": "永夜星河男女主是故事里男二女二",
+        "onboard_time": 1730268080,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223899,
+        "num": 373514,
+        "word": "郭刚堂之子被拐案二审维持原判",
+        "onboard_time": 1730270119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2262965,
+        "num": 373470,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2262782,
+        "num": 373436,
+        "word": "75岁大爷忍痛20年确诊重度抑郁症",
+        "onboard_time": 1730266400,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671881,
+        "num": 373390,
+        "word": "儿子被女友虐待致死生父望从重处理",
+        "onboard_time": 1730264000,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607489,
+        "num": 373355,
+        "word": "短效避孕药祛痘是很常规的用法",
+        "onboard_time": 1730249060,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558325,
+        "num": 373311,
+        "word": "生父回应3岁儿子被女友虐待致死",
+        "onboard_time": 1730259438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68729,
+        "num": 373280,
+        "word": "赵露思与紫色的适配度",
+        "onboard_time": 1730266459,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545887,
+        "num": 373265,
+        "word": "蔡维泽",
+        "onboard_time": 1730266518,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72500,
+        "num": 373193,
+        "word": "陶喆 胡辣汤真的让人感觉超赞",
+        "onboard_time": 1730270418,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373186,
+        "num": 373186,
+        "word": "电视纸箱子竟然这么值钱",
+        "onboard_time": 1730259259,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20428,
+        "num": 365298,
+        "word": "波司登助力极地考察事业27年",
+        "onboard_time": 1730268259,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390173,
+        "num": 364818,
+        "word": "原来心脏是螺旋形的",
+        "onboard_time": 1730268439,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361413,
+        "num": 361413,
+        "word": "坐第一排看中国火箭发射有多震撼",
+        "onboard_time": 1730246179,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342809,
+        "num": 342809,
+        "word": "陈都灵工作室解释直播吼人",
+        "onboard_time": 1730244917,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309302,
+        "num": 309302,
+        "word": "户口上错女儿与母亲年龄只差9岁",
+        "onboard_time": 1730269817,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306744,
+        "num": 306744,
+        "word": "赵牧辰 摇摆",
+        "onboard_time": 1730260699,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254116,
+        "num": 254116,
+        "word": "高三走读生晚上十点回家吃什么",
+        "onboard_time": 1730263581,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24729,
+        "num": 247417,
+        "word": "被确诊为爱海型人格",
+        "onboard_time": 1730267359,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245958,
+        "num": 245958,
+        "word": "荣梓杉球鞋",
+        "onboard_time": 1730262982,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239298,
+        "num": 239298,
+        "word": "成都19岁男生持械伤人致1人身亡",
+        "onboard_time": 1730269879,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233712,
+        "num": 233712,
+        "word": "文春曝桥本环奈职场霸凌",
+        "onboard_time": 1730259679,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219014,
+        "num": 219014,
+        "word": "失孤原型案人贩子上诉被驳回",
+        "onboard_time": 1730270359,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201856,
+        "num": 201856,
+        "word": "何超莲陪窦骁医院就诊",
+        "onboard_time": 1730266400,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200772,
+        "num": 200772,
+        "word": "赵牧辰 追妻火葬场",
+        "onboard_time": 1730260820,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186362,
+        "num": 186362,
+        "word": "中国航天全家福名场面再上演",
+        "onboard_time": 1730268978,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185065,
+        "num": 185065,
+        "word": "澳门CoCo姐下架虫草内裤",
+        "onboard_time": 1730255418,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182903,
+        "num": 182903,
+        "word": "花儿与少年",
+        "onboard_time": 1730267058,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174012,
+        "num": 174012,
+        "word": "NET Dream",
+        "onboard_time": 1730268259,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170502,
+        "num": 170502,
+        "word": "花少 分房",
+        "onboard_time": 1730270600,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167047,
+        "num": 167047,
+        "word": "田嘉瑞好会哄人",
+        "onboard_time": 1730270239,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162550,
+        "num": 162550,
+        "word": "春花焰 死了都要爱",
+        "onboard_time": 1730269817,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162231,
+        "num": 162231,
+        "word": "高雅cp好甜",
+        "onboard_time": 1730265079,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158083,
+        "num": 158083,
+        "word": "小狗为了不弄脏座位把自己缩成一团",
+        "onboard_time": 1730261899,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155358,
+        "num": 155358,
+        "word": "焚城 口碑",
+        "onboard_time": 1730269098,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148105,
+        "num": 148105,
+        "word": "戚薇给李承铉的生日礼物是四大名著",
+        "onboard_time": 1730262559,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147479,
+        "num": 147479,
+        "word": "复旦教授提倡有条件年轻人啃几年老",
+        "onboard_time": 1730252479,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145485,
+        "num": 145485,
+        "word": "2岁男孩小区玩滑板被撞身亡",
+        "onboard_time": 1730270657,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145312,
+        "num": 145312,
+        "word": "杜小华说郭刚堂非常有格局",
+        "onboard_time": 1730270299,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141876,
+        "num": 141876,
+        "word": "马斯克想让14个母子住在一起",
+        "onboard_time": 1730260519,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96893,
+        "num": 141828,
+        "word": "光与夜之恋",
+        "onboard_time": 1730246539,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145223,
+        "num": 141537,
+        "word": "陈都灵直播工作人员大吼",
+        "onboard_time": 1730243595,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}

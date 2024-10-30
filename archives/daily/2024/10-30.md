@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/30 00:28:47 ~ 2024/10/30 14:40:10
+本榜单时间：2024/10/30 00:28:47 ~ 2024/10/30 14:45:13
 </p>
 </blockquote>
 <p>
@@ -219,20 +219,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E7%94%9F%E7%88%B6%E6%9C%9B%E4%BB%8E%E9%87%8D%E5%A4%84%E7%90%86%23" target="weibo">
+儿子被女友虐待致死生父望从重处理（热度：671881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E7%93%9C%23" target="weibo">
 蛇瓜（热度：666048）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%BB%93%E6%9E%9C%E4%BD%95%E6%97%B6%E5%87%BA%E7%82%89%23" target="weibo">
-美国大选结果何时出炉（热度：645115）
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%AE%A1%E7%BE%8E%23" target="weibo">
+恋与深空 审美（热度：652878）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%AE%A1%E7%BE%8E%23" target="weibo">
-恋与深空 审美（热度：642524）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%BB%93%E6%9E%9C%E4%BD%95%E6%97%B6%E5%87%BA%E7%82%89%23" target="weibo">
+美国大选结果何时出炉（热度：645115）
 </a>
 </li>
 
@@ -263,12 +269,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BB%A3%E8%A1%A8%E9%97%AE%E4%BD%A0%E4%BB%AC%E7%9F%A5%E9%81%93%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89%E5%90%97%23" target="weibo">
 巴勒斯坦代表问你们知道这种感觉吗（热度：581702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E7%94%9F%E7%88%B6%E6%9C%9B%E4%BB%8E%E9%87%8D%E5%A4%84%E7%90%86%23" target="weibo">
-儿子被女友虐待致死生父望从重处理（热度：575449）
 </a>
 </li>
 
@@ -370,7 +370,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BF%83%E8%84%8F%E6%98%AF%E8%9E%BA%E6%97%8B%E5%BD%A2%E7%9A%84%23" target="weibo">
-原来心脏是螺旋形的（热度：373939）
+原来心脏是螺旋形的（热度：390173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%98%AF%E6%95%85%E4%BA%8B%E9%87%8C%E7%94%B7%E4%BA%8C%E5%A5%B3%E4%BA%8C%23" target="weibo">
+永夜星河男女主是故事里男二女二（热度：373548）
 </a>
 </li>
 
@@ -389,12 +395,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%89%A7%E8%BE%B0%20%E6%91%87%E6%91%86%23" target="weibo">
 赵牧辰 摇摆（热度：357725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%98%AF%E6%95%85%E4%BA%8B%E9%87%8C%E7%94%B7%E4%BA%8C%E5%A5%B3%E4%BA%8C%23" target="weibo">
-永夜星河男女主是故事里男二女二（热度：346177）
 </a>
 </li>
 
@@ -449,6 +449,12 @@ GEN教练分享T1运营细节（热度：315950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%83%B3%E8%AE%A914%E4%B8%AA%E6%AF%8D%E5%AD%90%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7%23" target="weibo">
 马斯克想让14个母子住在一起（热度：312112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E4%B8%8A%E9%94%99%E5%A5%B3%E5%84%BF%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%B9%B4%E9%BE%84%E5%8F%AA%E5%B7%AE9%E5%B2%81%23" target="weibo">
+户口上错女儿与母亲年龄只差9岁（热度：309302）
 </a>
 </li>
 
@@ -561,6 +567,12 @@ GEN教练分享T1运营细节（热度：315950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD19%E5%B2%81%E7%94%B7%E7%94%9F%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA%E8%87%B41%E4%BA%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
+成都19岁男生持械伤人致1人身亡（热度：239298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E6%B3%BD%E8%AF%B4%E5%AF%BC%E5%B8%88%E8%BF%99%E5%8F%A5%E8%AF%9D%E5%BD%B1%E5%93%8D%E8%87%AA%E5%B7%B1%E7%BB%88%E7%94%9F%23" target="weibo">
 王浩泽说导师这句话影响自己终生（热度：238999）
 </a>
@@ -615,6 +627,12 @@ GEN教练分享T1运营细节（热度：315950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%88%9A%E5%A0%82%E4%B9%8B%E5%AD%90%E8%A2%AB%E6%8B%90%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
+郭刚堂之子被拐案二审维持原判（热度：223899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AD%A3%E5%9C%A8%E8%B5%B0%E5%87%BA%E6%83%AF%E6%80%A7%E4%B8%8E%E4%BC%A0%E7%BB%9F%23" target="weibo">
 年轻人正在走出惯性与传统（热度：221842）
 </a>
@@ -639,6 +657,12 @@ GEN教练分享T1运营细节（热度：315950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%AD%A4%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%BA%BA%E8%B4%A9%E5%AD%90%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
+失孤原型案人贩子上诉被驳回（热度：219014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E9%99%AA%E7%AA%A6%E9%AA%81%E5%8C%BB%E9%99%A2%E5%B0%B1%E8%AF%8A%23" target="weibo">
 何超莲陪窦骁医院就诊（热度：218028）
 </a>
@@ -647,12 +671,6 @@ GEN教练分享T1运营细节（热度：315950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BABYMONSTER%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%23" target="weibo">
 BABYMONSTER新歌上线（热度：216326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E4%B8%8A%E9%94%99%E5%A5%B3%E5%84%BF%E4%B8%8E%E6%AF%8D%E4%BA%B2%E5%B9%B4%E9%BE%84%E5%8F%AA%E5%B7%AE9%E5%B2%81%23" target="weibo">
-户口上错女儿与母亲年龄只差9岁（热度：213657）
 </a>
 </li>
 
@@ -723,12 +741,6 @@ BABYMONSTER新歌上线（热度：216326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD19%E5%B2%81%E7%94%B7%E7%94%9F%E6%8C%81%E6%A2%B0%E4%BC%A4%E4%BA%BA%E8%87%B41%E4%BA%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
-成都19岁男生持械伤人致1人身亡（热度：191905）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%B1%E7%84%B0%20%E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1%23" target="weibo">
 春花焰 死了都要爱（热度：190415）
 </a>
@@ -783,12 +795,6 @@ C罗罚丢点球（热度：183411）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%88%9A%E5%A0%82%E4%B9%8B%E5%AD%90%E8%A2%AB%E6%8B%90%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
-郭刚堂之子被拐案二审维持原判（热度：179821）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%E9%85%8D%E5%AF%B9%E7%8E%87%23" target="weibo">
 心动的信号配对率（热度：177730）
 </a>
@@ -819,6 +825,12 @@ NET Dream（热度：175214）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%20%E5%88%86%E6%88%BF%23" target="weibo">
+花少 分房（热度：170502）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%8111%E5%8F%B7%E7%BA%BF%E7%94%B0%E5%BF%83%E6%9D%91%E7%AB%99%E7%A1%AE%E5%AE%9A%E5%8F%96%E6%B6%88%23" target="weibo">
 广州地铁11号线田心村站确定取消（热度：168508）
 </a>
@@ -839,6 +851,12 @@ NET Dream（热度：175214）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E6%94%B6%E5%88%B0%E4%BA%86%E6%9B%BE%E9%BB%8E%E7%9A%84%E5%82%A9%E9%9D%A2%E5%85%B7%23" target="weibo">
 宋茜收到了曾黎的傩面具（热度：167339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E5%A5%BD%E4%BC%9A%E5%93%84%E4%BA%BA%23" target="weibo">
+田嘉瑞好会哄人（热度：167047）
 </a>
 </li>
 
@@ -869,6 +887,12 @@ NET Dream（热度：175214）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E8%8E%B7%E5%BE%97%E5%86%B3%E8%B5%9B%E9%80%89%E8%BE%B9%E6%9D%83%23" target="weibo">
 T1获得决赛选边权（热度：158307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%84%9A%E5%9F%8E%20%E5%8F%A3%E7%A2%91%23" target="weibo">
+焚城 口碑（热度：155358）
 </a>
 </li>
 
@@ -951,14 +975,20 @@ T1获得决赛选边权（热度：158307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E5%A5%BD%E4%BC%9A%E5%93%84%E4%BA%BA%23" target="weibo">
-田嘉瑞好会哄人（热度：146657）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%AC%A7%E7%9B%9F%E8%A3%81%E5%86%B3%E7%BB%93%E6%9E%9C%E4%B8%8D%E8%AE%A4%E5%90%8C%E4%B8%8D%E6%8E%A5%E5%8F%97%23" target="weibo">
+中方对欧盟裁决结果不认同不接受（热度：146599）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%AC%A7%E7%9B%9F%E8%A3%81%E5%86%B3%E7%BB%93%E6%9E%9C%E4%B8%8D%E8%AE%A4%E5%90%8C%E4%B8%8D%E6%8E%A5%E5%8F%97%23" target="weibo">
-中方对欧盟裁决结果不认同不接受（热度：146599）
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E5%B0%8F%E5%8C%BA%E7%8E%A9%E6%BB%91%E6%9D%BF%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23" target="weibo">
+2岁男孩小区玩滑板被撞身亡（热度：145485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E8%AF%B4%E9%83%AD%E5%88%9A%E5%A0%82%E9%9D%9E%E5%B8%B8%E6%9C%89%E6%A0%BC%E5%B1%80%23" target="weibo">
+杜小华说郭刚堂非常有格局（热度：145312）
 </a>
 </li>
 
@@ -987,12 +1017,6 @@ T1获得决赛选边权（热度：158307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%AD%A4%E5%8E%9F%E5%9E%8B%E6%A1%88%E4%BA%BA%E8%B4%A9%E5%AD%90%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
-失孤原型案人贩子上诉被驳回（热度：140339）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BD%91%E5%90%A7%E5%86%85%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%23" target="weibo">
 成都一男子在网吧内持刀行凶（热度：138261）
 </a>
@@ -1011,12 +1035,6 @@ T1获得决赛选边权（热度：158307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E8%AF%B4%E9%83%AD%E5%88%9A%E5%A0%82%E9%9D%9E%E5%B8%B8%E6%9C%89%E6%A0%BC%E5%B1%80%23" target="weibo">
-杜小华说郭刚堂非常有格局（热度：135350）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%96%B0%E5%89%A77%E9%9B%86%E6%8D%A215%E5%A5%97%E9%80%A0%E5%9E%8B%23" target="weibo">
 王玉雯新剧7集换15套造型（热度：135188）
 </a>
@@ -1025,12 +1043,6 @@ T1获得决赛选边权（热度：158307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E5%89%A7%E5%90%8C%E5%A4%A9%E5%BC%80%E6%92%AD%23" target="weibo">
 赵露思虞书欣新剧同天开播（热度：130714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%84%9A%E5%9F%8E%20%E5%8F%A3%E7%A2%91%23" target="weibo">
-焚城 口碑（热度：130237）
 </a>
 </li>
 
@@ -1247,6 +1259,12 @@ HYBE报告评价babymonster（热度：74278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6CBA%E7%94%9F%E6%B6%AF%E7%AC%AC500%E5%9C%BA%23" target="weibo">
 郭艾伦CBA生涯第500场（热度：73930）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%20%E8%83%A1%E8%BE%A3%E6%B1%A4%E7%9C%9F%E7%9A%84%E8%AE%A9%E4%BA%BA%E6%84%9F%E8%A7%89%E8%B6%85%E8%B5%9E%23" target="weibo">
+陶喆 胡辣汤真的让人感觉超赞（热度：72500）
 </a>
 </li>
 
