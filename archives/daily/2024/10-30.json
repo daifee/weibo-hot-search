@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730256903296,
+  "endTime": 1730257466456,
   "band_list": [
     {
       "raw_hot": 2982838,
@@ -8,6 +8,14 @@
       "word": "短效避孕药祛痘是很常规的用法",
       "onboard_time": 1730249060,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2025840,
+      "num": 568839,
+      "word": "澳门CoCo姐下架虫草内裤",
+      "onboard_time": 1730255418,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1131044,
-      "num": 568839,
-      "word": "澳门CoCo姐下架虫草内裤",
-      "onboard_time": 1730255418,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 1080279,
+      "num": 1172844,
+      "word": "男子为林黛玉发240分钟澄清视频",
+      "onboard_time": 1730253078,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1069987,
@@ -67,12 +75,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1049279,
-      "num": 1167884,
-      "word": "男子为林黛玉发240分钟澄清视频",
-      "onboard_time": 1730253078,
-      "rank": 38,
-      "category": "读书作家"
+      "raw_hot": 987070,
+      "num": 987070,
+      "word": "女生5年前丢的包被找回竟完好如初",
+      "onboard_time": 1730252718,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 908848,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839014,
+      "num": 538558,
+      "word": "荣梓杉 双眼皮",
+      "onboard_time": 1730256078,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 819645,
       "num": 353521,
       "word": "90后农村娃拿到太空船票",
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777709,
+      "num": 543228,
+      "word": "复旦教授提倡有条件年轻人啃几年老",
+      "onboard_time": 1730252479,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666048,
       "num": 666048,
       "word": "蛇瓜",
@@ -155,12 +179,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 630759,
-      "num": 543228,
-      "word": "复旦教授提倡有条件年轻人啃几年老",
-      "onboard_time": 1730252479,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 627992,
+      "num": 627992,
+      "word": "欧盟决定对中国电车征税",
+      "onboard_time": 1730254997,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 626665,
@@ -169,14 +193,6 @@
       "onboard_time": 1730254158,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 611919,
-      "num": 611919,
-      "word": "女生5年前丢的包被找回竟完好如初",
-      "onboard_time": 1730252718,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 602761,
@@ -203,28 +219,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 538558,
-      "num": 538558,
-      "word": "荣梓杉 双眼皮",
-      "onboard_time": 1730256078,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536336,
       "num": 308158,
       "word": "豪咪cp官宣",
       "onboard_time": 1730199140,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535882,
-      "num": 535882,
-      "word": "欧盟决定对中国电车征税",
-      "onboard_time": 1730254997,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 526646,
@@ -323,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326887,
+      "num": 326887,
+      "word": "16岁少女因抢劫获刑泪洒法庭",
+      "onboard_time": 1730255418,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319442,
       "num": 319442,
       "word": "小米洗衣机",
       "onboard_time": 1730210601,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 309563,
-      "num": 309563,
-      "word": "16岁少女因抢劫获刑泪洒法庭",
-      "onboard_time": 1730255418,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303826,
@@ -371,12 +371,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 281890,
+      "num": 281890,
+      "word": "俄演练发射三枚洲际弹道导弹",
+      "onboard_time": 1730256138,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 264822,
       "num": 264822,
       "word": "高雅cp官宣",
       "onboard_time": 1730248880,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256916,
+      "num": 256916,
+      "word": "美国男子捡到一箱选票",
+      "onboard_time": 1730256618,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 254390,
@@ -387,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252116,
-      "num": 252116,
-      "word": "俄演练发射三枚洲际弹道导弹",
-      "onboard_time": 1730256138,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 249624,
       "num": 249624,
       "word": "难民孩子住在墓地里",
       "onboard_time": 1730250320,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 248710,
+      "num": 248710,
+      "word": "汤唯三提青龙奖最佳女主角",
+      "onboard_time": 1730257398,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 241810,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173304,
+      "num": 173304,
+      "word": "90后航天员一套表情包连招",
+      "onboard_time": 1730256858,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171452,
       "num": 171452,
       "word": "齐司礼日冕时分",
@@ -595,20 +619,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167986,
-      "num": 167986,
-      "word": "美国男子捡到一箱选票",
-      "onboard_time": 1730256618,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 167339,
       "num": 177592,
       "word": "宋茜收到了曾黎的傩面具",
       "onboard_time": 1730241854,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165990,
+      "num": 468755,
+      "word": "电影失孤原型被拐案二审今日宣判",
+      "onboard_time": 1730251579,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164120,
@@ -731,8 +755,8 @@
       "category": "国内时政,国外时政"
     },
     {
-      "raw_hot": 143688,
-      "num": 143688,
+      "raw_hot": 144309,
+      "num": 144309,
       "word": "中方回应欧盟对华电动汽车反补贴调查终裁",
       "onboard_time": 1730254038,
       "rank": 47,
@@ -747,10 +771,10 @@
       "category": "数码"
     },
     {
-      "raw_hot": 138551,
-      "num": 138551,
-      "word": "90后航天员一套表情包连招",
-      "onboard_time": 1730256858,
+      "raw_hot": 141565,
+      "num": 141565,
+      "word": "谁看了不说一声中国航天太牛了",
+      "onboard_time": 1730257339,
       "rank": 49,
       "category": "国内时政"
     },
@@ -923,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91530,
-      "num": 468755,
-      "word": "电影失孤原型被拐案二审今日宣判",
-      "onboard_time": 1730251579,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89692,
       "num": 104945,
       "word": "张大大强烈支持赵露思新剧",
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 69299,
-      "num": 746649,
+      "num": 856243,
       "word": "公安部网安局提醒不可轻信买家秀",
       "onboard_time": 1730254518,
       "rank": 2,
@@ -1080,6 +1096,14 @@
       "word": "大红屏",
       "onboard_time": 1730235851,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48397,
+      "num": 253152,
+      "word": "美大选工作人员丢失一箱选票被捡走",
+      "onboard_time": 1730256739,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1131,12 +1155,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26325,
-      "num": 253152,
-      "word": "美大选工作人员丢失一箱选票被捡走",
-      "onboard_time": 1730256739,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 24616,
+      "num": 162973,
+      "word": "明晚8点京东11.11全品类五折",
+      "onboard_time": 1730257159,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 24603,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1730232850,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7297,
+      "num": 305624,
+      "word": "吴彦祖50岁拍杂志状态",
+      "onboard_time": 1730257280,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
