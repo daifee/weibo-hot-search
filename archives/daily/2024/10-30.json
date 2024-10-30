@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730270713474,
+  "endTime": 1730272864287,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1980796,
+      "num": 359806,
+      "word": "户口上错女儿与母亲年龄只差9岁",
+      "onboard_time": 1730269817,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1847868,
       "num": 554986,
       "word": "美国大选",
@@ -65,6 +73,14 @@
       "onboard_time": 1730259438,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1366076,
+      "num": 1366076,
+      "word": "花少 分房",
+      "onboard_time": 1730270600,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 1322778,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801706,
+      "num": 350157,
+      "word": "2岁男孩小区玩滑板被撞身亡",
+      "onboard_time": 1730270657,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798937,
       "num": 511442,
       "word": "荣梓杉球鞋",
@@ -443,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 441655,
+      "num": 441655,
+      "word": "动物园斑马应激狂奔撞墙死亡",
+      "onboard_time": 1730271078,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431343,
       "num": 431343,
       "word": "女子手术后纱布留体内3年持续腹痛",
@@ -475,6 +507,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 414869,
+      "num": 414869,
+      "word": "失孤原型案人贩子上诉被驳回",
+      "onboard_time": 1730270359,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390173,
       "num": 364818,
       "word": "原来心脏是螺旋形的",
@@ -489,6 +529,14 @@
       "onboard_time": 1730268080,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365529,
+      "num": 373514,
+      "word": "郭刚堂之子被拐案二审维持原判",
+      "onboard_time": 1730270119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364427,
@@ -587,14 +635,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 309302,
-      "num": 309302,
-      "word": "户口上错女儿与母亲年龄只差9岁",
-      "onboard_time": 1730269817,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306247,
       "num": 306247,
       "word": "时代少年团演唱会重庆",
@@ -659,12 +699,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 291789,
+      "num": 291789,
+      "word": "拜登骂特朗普的支持者是垃圾",
+      "onboard_time": 1730270899,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 291274,
       "num": 291274,
       "word": "小米15",
       "onboard_time": 1730202680,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 284764,
+      "num": 284764,
+      "word": "成都19岁男生持械伤人致1人身亡",
+      "onboard_time": 1730269879,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264822,
@@ -739,14 +795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 239298,
-      "num": 239298,
-      "word": "成都19岁男生持械伤人致1人身亡",
-      "onboard_time": 1730269879,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238999,
       "num": 238999,
       "word": "王浩泽说导师这句话影响自己终生",
@@ -795,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233127,
+      "num": 233127,
+      "word": "宋茜 梦中情姐",
+      "onboard_time": 1730271500,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232880,
       "num": 232880,
       "word": "鹿晗红发自拍",
@@ -817,14 +873,6 @@
       "onboard_time": 1730265559,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223899,
-      "num": 373514,
-      "word": "郭刚堂之子被拐案二审维持原判",
-      "onboard_time": 1730270119,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221842,
@@ -856,14 +904,6 @@
       "word": "宇宙曹县不是个梗",
       "onboard_time": 1730220556,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219014,
-      "num": 219014,
-      "word": "失孤原型案人贩子上诉被驳回",
-      "onboard_time": 1730270359,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185549,
+      "num": 185549,
+      "word": "心动的信号节目组",
+      "onboard_time": 1730272398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "综艺搭子有真友谊吗",
@@ -1051,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "李晋晔脑综滑铁卢",
+      "onboard_time": 1730272217,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175214,
       "num": 175214,
       "word": "NET Dream",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1730256618,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170502,
-      "num": 170502,
-      "word": "花少 分房",
-      "onboard_time": 1730270600,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 168508,
@@ -1140,7 +1188,7 @@
     },
     {
       "raw_hot": 164120,
-      "num": 164120,
+      "num": 238041,
       "word": "多视角看神十九发射震撼瞬间",
       "onboard_time": 1730254098,
       "rank": 41,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1730244377,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157684,
+      "num": 157684,
+      "word": "心动的信号7 时尚芭莎",
+      "onboard_time": 1730272337,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 155358,
@@ -1291,14 +1347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145485,
-      "num": 145485,
-      "word": "2岁男孩小区玩滑板被撞身亡",
-      "onboard_time": 1730270657,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145312,
       "num": 145312,
       "word": "杜小华说郭刚堂非常有格局",
@@ -1387,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129421,
+      "num": 129421,
+      "word": "中国空间站拎包入住",
+      "onboard_time": 1730269638,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127891,
       "num": 127891,
       "word": "小米手环9Pro",
@@ -1467,12 +1523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108181,
+      "num": 113798,
+      "word": "怪物猎人荒野",
+      "onboard_time": 1730272279,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104547,
       "num": 429633,
       "word": "为什么中西医都建议秋天吃点酸",
       "onboard_time": 1730261299,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103901,
+      "num": 172368,
+      "word": "能不能让王子奇王玉雯挨着坐",
+      "onboard_time": 1730271439,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 103873,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1730200521,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81034,
+      "num": 295643,
+      "word": "女子二胎咨询休产次日竟遭辞退",
+      "onboard_time": 1730272217,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80538,
@@ -1747,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43426,
+      "num": 348825,
+      "word": "坐上郭刚堂寻子车的家长都找到了孩子",
+      "onboard_time": 1730271858,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42001,
       "num": 143341,
       "word": "中芬树立了国与国之间平等交往的典范",
@@ -1808,6 +1896,14 @@
       "word": "第21号台风康妮来了",
       "onboard_time": 1730239692,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33009,
+      "num": 363686,
+      "word": "数百亩土地成垃圾场",
+      "onboard_time": 1730272039,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1887,6 +1983,14 @@
       "num": 962963,
       "word": "从神五到神十九",
       "onboard_time": 1730205799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21789,
+      "num": 668005,
+      "word": "120秒看神十九发射全程",
+      "onboard_time": 1730254758,
       "rank": 2,
       "category": "社会新闻"
     },
