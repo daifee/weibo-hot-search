@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730313043923,
+  "endTime": 1730313858589,
   "band_list": [
     {
       "raw_hot": 818261,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64887,
+      "num": 64887,
+      "word": "广西警方破获特大贩毒案",
+      "onboard_time": 1730310913,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63577,
       "num": 63577,
       "word": "冰雪燃盛世 激情迎亚冬",
@@ -432,14 +440,6 @@
       "word": "女子1次备好15天饭菜自制预制餐",
       "onboard_time": 1730304199,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53065,
-      "num": 53065,
-      "word": "广西警方破获特大贩毒案",
-      "onboard_time": 1730310913,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1730304976,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 13894,
+      "num": 48246,
+      "word": "五角大楼就俄举行核军演表态",
+      "onboard_time": 1730313371,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 13562,

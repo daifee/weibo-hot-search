@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/27 00:25:49 ~ 2024/10/31 02:30:43
+本榜单时间：2024/10/27 00:25:49 ~ 2024/10/31 02:44:18
 </p>
 </blockquote>
 <p>
@@ -8205,6 +8205,12 @@ T1半决赛先下一城（热度：65837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E8%B4%A9%E6%AF%92%E6%A1%88%23" target="weibo">
+广西警方破获特大贩毒案（热度：64887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%89%E6%B4%81%E5%B8%A6%E7%8E%8B%E5%AE%89%E5%AE%87%E5%93%84%E8%92%8B%E6%AC%A3%23" target="weibo">
 李光洁带王安宇哄蒋欣（热度：64750）
 </a>
@@ -8417,12 +8423,6 @@ T1 我们终于成功复仇（热度：56342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%89%93%E8%87%B4%E9%87%8D%E4%BC%A4%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
 12岁男孩被同学打致重伤父亲发声（热度：53592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E8%B4%A9%E6%AF%92%E6%A1%88%23" target="weibo">
-广西警方破获特大贩毒案（热度：53065）
 </a>
 </li>
 
@@ -9575,6 +9575,12 @@ Project7选秀（热度：19832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%92%BB%E5%8F%96%E5%88%B0%E5%85%A8%E7%90%83%E4%B8%AD%E4%BD%8E%E7%BA%AC%E5%BA%A6%E5%86%B0%E5%B7%9D%E6%9C%80%E9%95%BF%E5%86%B0%E8%8A%AF%23" target="weibo">
 我国钻取到全球中低纬度冰川最长冰芯（热度：14000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B0%B1%E4%BF%84%E4%B8%BE%E8%A1%8C%E6%A0%B8%E5%86%9B%E6%BC%94%E8%A1%A8%E6%80%81%23" target="weibo">
+五角大楼就俄举行核军演表态（热度：13894）
 </a>
 </li>
 
