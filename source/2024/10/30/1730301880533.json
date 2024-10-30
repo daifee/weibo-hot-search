@@ -1,0 +1,410 @@
+{
+  "runTime": 1730301880533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911452,
+        "num": 1145832,
+        "word": "人贩子道歉竟然说添麻烦了",
+        "onboard_time": 1730294360,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600150,
+        "num": 600150,
+        "word": "武汉监管部门下架山姆卤菜拼盘",
+        "onboard_time": 1730297060,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20006,
+        "num": 576682,
+        "word": "70后80后90后齐聚中国空间站",
+        "onboard_time": 1730265679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558430,
+        "num": 558430,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 506187,
+        "num": 506187,
+        "word": "刘烨在花少一个人去玩",
+        "onboard_time": 1730290818,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498642,
+        "num": 498642,
+        "word": "易烊千玺单依纯合唱亚冬会会歌",
+        "onboard_time": 1730298143,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 461201,
+        "num": 461201,
+        "word": "3D还原南京野猪侵线事故",
+        "onboard_time": 1730296941,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429179,
+        "num": 429179,
+        "word": "青岛通报网传代孕事件",
+        "onboard_time": 1730289559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346188,
+        "num": 428460,
+        "word": "正午阳光 群像剧",
+        "onboard_time": 1730299102,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109585,
+        "num": 426984,
+        "word": "阿斯利康中国总裁王磊配合调查",
+        "onboard_time": 1730301501,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971223,
+        "num": 424319,
+        "word": "彭高翁青雅 线下be",
+        "onboard_time": 1730288719,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601017,
+        "num": 422384,
+        "word": "权志龙出场破收视纪录",
+        "onboard_time": 1730298321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464868,
+        "num": 421188,
+        "word": "迪丽热巴珍珠高定",
+        "onboard_time": 1730293879,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 419892,
+        "num": 419892,
+        "word": "烧伤妈妈30%皮肤基本长好",
+        "onboard_time": 1730288538,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415806,
+        "num": 415806,
+        "word": "荣梓杉 背刺",
+        "onboard_time": 1730260579,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326935,
+        "num": 326935,
+        "word": "权志龙直播",
+        "onboard_time": 1730301681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297008,
+        "num": 297008,
+        "word": "侯明昊被陈好贴脸开大",
+        "onboard_time": 1730298802,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161067,
+        "num": 275904,
+        "word": "林一欢乐谷直播",
+        "onboard_time": 1730301620,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450311,
+        "num": 275696,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730291360,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30288,
+        "num": 275087,
+        "word": "湖北一村庄饱受放炮炸石之痛",
+        "onboard_time": 1730300901,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275062,
+        "num": 275062,
+        "word": "直面不想生不敢生不能生",
+        "onboard_time": 1730284159,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 551743,
+        "num": 271820,
+        "word": "12岁女孩体重400斤无法行走",
+        "onboard_time": 1730292259,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502885,
+        "num": 265709,
+        "word": "男子将父亲尸体藏冰箱四年冒领社保",
+        "onboard_time": 1730294421,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306276,
+        "num": 264881,
+        "word": "专家称孕育会使女性变得更聪明",
+        "onboard_time": 1730278518,
+        "rank": 23,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 282832,
+        "num": 259858,
+        "word": "保温杯底部的贴纸不能撕",
+        "onboard_time": 1730299521,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 255466,
+        "num": 255466,
+        "word": "赵丽颖发型",
+        "onboard_time": 1730292199,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222779,
+        "num": 254604,
+        "word": "春花焰全员be",
+        "onboard_time": 1730294720,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212734,
+        "num": 253387,
+        "word": "岳云鹏说参加薛之谦演唱会永远不收费",
+        "onboard_time": 1730300842,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201762,
+        "num": 252760,
+        "word": "哇唧唧哇声明",
+        "onboard_time": 1730301441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47133,
+        "num": 251070,
+        "word": "荣耀Magic7用AI揪出女装大佬",
+        "onboard_time": 1730297001,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112044,
+        "num": 250049,
+        "word": "荣耀赵明在晚8点下单2000杯咖啡",
+        "onboard_time": 1730296461,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248943,
+        "num": 248943,
+        "word": "鲨鱼裤成为年轻人的新秋裤",
+        "onboard_time": 1730292259,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 238287,
+        "num": 238287,
+        "word": "中印就边境有关问题达成解决方案",
+        "onboard_time": 1730299521,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206538,
+        "num": 206538,
+        "word": "男子组织多名十三四岁少女有偿陪侍",
+        "onboard_time": 1730287878,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197735,
+        "num": 197735,
+        "word": "唐朝诡事录之长安剧组声明",
+        "onboard_time": 1730300062,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191629,
+        "num": 191629,
+        "word": "银河左岸合肥音乐节延期",
+        "onboard_time": 1730301322,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187614,
+        "num": 187614,
+        "word": "赵露思说要送粉丝宝格丽",
+        "onboard_time": 1730292558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169391,
+        "num": 169391,
+        "word": "小巷人家",
+        "onboard_time": 1730290518,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160656,
+        "num": 160656,
+        "word": "声生不息港乐季2",
+        "onboard_time": 1730296041,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154528,
+        "num": 154528,
+        "word": "娜扎丞磊血泪吻镜头",
+        "onboard_time": 1730291117,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152158,
+        "num": 152158,
+        "word": "两柯三星",
+        "onboard_time": 1730301260,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155051,
+        "num": 152087,
+        "word": "赵露思造型",
+        "onboard_time": 1730290879,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151756,
+        "num": 151756,
+        "word": "广州一饭店被拍到老鼠在后厨啃包子",
+        "onboard_time": 1730290039,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148649,
+        "num": 148649,
+        "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
+        "onboard_time": 1730297901,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144683,
+        "num": 144683,
+        "word": "郑钦文总决赛出场费超200万",
+        "onboard_time": 1730298261,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28511,
+        "num": 135727,
+        "word": "赵明欢迎网友挑战荣耀Magic7",
+        "onboard_time": 1730296941,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57891,
+        "num": 135430,
+        "word": "神十九对接中国空间站完整画面",
+        "onboard_time": 1730300723,
+        "rank": 46,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 135404,
+        "num": 135404,
+        "word": "小米15首批用户已收到新机",
+        "onboard_time": 1730300901,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134104,
+        "num": 134104,
+        "word": "小巷人家 小演员演技",
+        "onboard_time": 1730300481,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133432,
+        "num": 133432,
+        "word": "杨妞花回应被品牌方联系带货",
+        "onboard_time": 1730294480,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在这些研讨班上总书记都强调了什么#"
+    }
+  }
+}

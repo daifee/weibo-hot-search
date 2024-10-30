@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730299240389,
+  "endTime": 1730301880533,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1944998,
-      "num": 417114,
+      "num": 424319,
       "word": "彭高翁青雅 线下be",
       "onboard_time": 1730288719,
       "rank": 10,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1001503,
-      "num": 416866,
+      "num": 419892,
       "word": "烧伤妈妈30%皮肤基本长好",
       "onboard_time": 1730288538,
       "rank": 12,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 784975,
-      "num": 416654,
+      "num": 421188,
       "word": "迪丽热巴珍珠高定",
       "onboard_time": 1730293879,
       "rank": 22,
@@ -635,6 +635,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 601017,
+      "num": 422384,
+      "word": "权志龙出场破收视纪录",
+      "onboard_time": 1730298321,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 600150,
+      "num": 600150,
+      "word": "武汉监管部门下架山姆卤菜拼盘",
+      "onboard_time": 1730297060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599551,
       "num": 313283,
       "word": "被撞身亡机械师仅有20多岁",
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536213,
-      "num": 536213,
-      "word": "武汉监管部门下架山姆卤菜拼盘",
-      "onboard_time": 1730297060,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 526646,
       "num": 526646,
       "word": "直播神十九发射",
@@ -729,6 +737,14 @@
       "onboard_time": 1730243957,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498642,
+      "num": 498642,
+      "word": "易烊千玺单依纯合唱亚冬会会歌",
+      "onboard_time": 1730298143,
+      "rank": 32,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 484476,
@@ -755,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 461201,
+      "num": 461201,
+      "word": "3D还原南京野猪侵线事故",
+      "onboard_time": 1730296941,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460959,
       "num": 460959,
       "word": "拜登骂特朗普的支持者是垃圾",
@@ -777,14 +801,6 @@
       "onboard_time": 1730243957,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 450068,
-      "num": 416488,
-      "word": "权志龙出场破收视纪录",
-      "onboard_time": 1730298321,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 444670,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346188,
+      "num": 428460,
+      "word": "正午阳光 群像剧",
+      "onboard_time": 1730299102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345170,
       "num": 311757,
       "word": "赵露思谈端午落泪",
@@ -979,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331277,
-      "num": 331277,
-      "word": "易烊千玺单依纯合唱亚冬会会歌",
-      "onboard_time": 1730298143,
-      "rank": 32,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 331122,
       "num": 331122,
       "word": "神舟十九号发射圆满成功",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1730223433,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326935,
+      "num": 326935,
+      "word": "权志龙直播",
+      "onboard_time": 1730301681,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 324450,
@@ -1107,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297008,
+      "num": 297008,
+      "word": "侯明昊被陈好贴脸开大",
+      "onboard_time": 1730298802,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295733,
       "num": 295733,
       "word": "齐司礼 画师",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1730291117,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282832,
+      "num": 259858,
+      "word": "保温杯底部的贴纸不能撕",
+      "onboard_time": 1730299521,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 280429,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1730280020,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 238287,
+      "num": 238287,
+      "word": "中印就边境有关问题达成解决方案",
+      "onboard_time": 1730299521,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237459,
@@ -1483,6 +1531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 212734,
+      "num": 253387,
+      "word": "岳云鹏说参加薛之谦演唱会永远不收费",
+      "onboard_time": 1730300842,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211889,
       "num": 211889,
       "word": "九块九害死了3万块",
@@ -1587,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201762,
+      "num": 252760,
+      "word": "哇唧唧哇声明",
+      "onboard_time": 1730301441,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201403,
       "num": 215658,
       "word": "张艺兴演唱会获得2024缪斯设计奖",
@@ -1625,6 +1689,14 @@
       "onboard_time": 1730272337,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197735,
+      "num": 197735,
+      "word": "唐朝诡事录之长安剧组声明",
+      "onboard_time": 1730300062,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 197477,
@@ -1681,6 +1753,14 @@
       "onboard_time": 1730201600,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191629,
+      "num": 191629,
+      "word": "银河左岸合肥音乐节延期",
+      "onboard_time": 1730301322,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 190752,
@@ -1864,14 +1944,6 @@
       "word": "心动的信号配对率",
       "onboard_time": 1730263581,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177683,
-      "num": 247348,
-      "word": "侯明昊被陈好贴脸开大",
-      "onboard_time": 1730298802,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2091,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161067,
+      "num": 275904,
+      "word": "林一欢乐谷直播",
+      "onboard_time": 1730301620,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160539,
       "num": 168116,
       "word": "蒋勤勤陈建斌大儿子谈同辈焦虑",
@@ -2121,14 +2201,6 @@
       "onboard_time": 1730285718,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157695,
-      "num": 157695,
-      "word": "正午阳光 群像剧",
-      "onboard_time": 1730299102,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 156331,
@@ -2203,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152158,
+      "num": 152158,
+      "word": "两柯三星",
+      "onboard_time": 1730301260,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151138,
       "num": 151138,
       "word": "小米SU7 Ultra",
@@ -2248,6 +2328,14 @@
       "word": "杨妞花5天涨粉90万现专注宝贝回家",
       "onboard_time": 1730238792,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148649,
+      "num": 416970,
+      "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
+      "onboard_time": 1730297901,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2307,14 +2395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 144192,
-      "num": 416970,
-      "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
-      "onboard_time": 1730297901,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143432,
       "num": 143432,
       "word": "小米15价格",
@@ -2363,11 +2443,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135404,
+      "num": 135404,
+      "word": "小米15首批用户已收到新机",
+      "onboard_time": 1730300901,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135188,
       "num": 135188,
       "word": "王玉雯新剧7集换15套造型",
       "onboard_time": 1730243957,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134104,
+      "num": 134104,
+      "word": "小巷人家 小演员演技",
+      "onboard_time": 1730300481,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2499,6 +2595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112044,
+      "num": 417167,
+      "word": "荣耀赵明在晚8点下单2000杯咖啡",
+      "onboard_time": 1730296461,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111837,
       "num": 416253,
       "word": "澳门CoCo姐不在澳门在广州",
@@ -2531,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109585,
+      "num": 426984,
+      "word": "阿斯利康中国总裁王磊配合调查",
+      "onboard_time": 1730301501,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108181,
       "num": 113798,
       "word": "怪物猎人荒野",
@@ -2552,14 +2664,6 @@
       "word": "为什么中西医都建议秋天吃点酸",
       "onboard_time": 1730261299,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104236,
-      "num": 417288,
-      "word": "3D还原南京野猪侵线事故",
-      "onboard_time": 1730296941,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2657,14 +2761,6 @@
       "onboard_time": 1730211142,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88530,
-      "num": 417167,
-      "word": "荣耀赵明在晚8点下单2000杯咖啡",
-      "onboard_time": 1730296461,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 88119,
@@ -2899,6 +2995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57891,
+      "num": 135430,
+      "word": "神十九对接中国空间站完整画面",
+      "onboard_time": 1730300723,
+      "rank": 46,
+      "category": "国内时政,国外时政"
+    },
+    {
       "raw_hot": 53744,
       "num": 352146,
       "word": "荣耀Magic7电子叶黄素",
@@ -2945,6 +3049,14 @@
       "onboard_time": 1730286438,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47133,
+      "num": 416736,
+      "word": "荣耀Magic7用AI揪出女装大佬",
+      "onboard_time": 1730297001,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 46117,
@@ -3131,14 +3243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32964,
-      "num": 416736,
-      "word": "荣耀Magic7用AI揪出女装大佬",
-      "onboard_time": 1730297001,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 32381,
       "num": 317802,
       "word": "你找到生活的解药了吗",
@@ -3175,6 +3279,14 @@
       "num": 294762,
       "word": "涉黑副局长商业版图涉30余家公司",
       "onboard_time": 1730292978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30288,
+      "num": 275087,
+      "word": "湖北一村庄饱受放炮炸石之痛",
+      "onboard_time": 1730300901,
       "rank": 19,
       "category": "社会新闻"
     },
