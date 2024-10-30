@@ -1,6 +1,6 @@
 {
   "startTime": 1727713697354,
-  "endTime": 1730302772010,
+  "endTime": 1730305732174,
   "band_list": [
     {
       "raw_hot": 17915004,
@@ -10059,6 +10059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 818261,
+      "num": 911199,
+      "word": "权志龙直播",
+      "onboard_time": 1730301681,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 818225,
       "num": 818225,
       "word": "小米15pro",
@@ -11211,6 +11219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757205,
+      "num": 407944,
+      "word": "侯明昊被陈好贴脸开大",
+      "onboard_time": 1730298802,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756959,
       "num": 756959,
       "word": "鸿蒙版微信",
@@ -11689,14 +11705,6 @@
       "onboard_time": 1728894920,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738488,
-      "num": 738488,
-      "word": "权志龙直播",
-      "onboard_time": 1730301681,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 738434,
@@ -12801,6 +12809,14 @@
       "onboard_time": 1727749879,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 685528,
+      "num": 259224,
+      "word": "权志龙",
+      "onboard_time": 1730303420,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 685253,
@@ -20123,6 +20139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454420,
+      "num": 263215,
+      "word": "哇唧唧哇声明",
+      "onboard_time": 1730301441,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454398,
       "num": 400654,
       "word": "TES后台",
@@ -22097,14 +22121,6 @@
       "onboard_time": 1729192213,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 407944,
-      "num": 407944,
-      "word": "侯明昊被陈好贴脸开大",
-      "onboard_time": 1730298802,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 407579,
@@ -32480,14 +32496,6 @@
       "word": "Hanni国会合影自拍",
       "onboard_time": 1729051999,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 263215,
-      "num": 263215,
-      "word": "哇唧唧哇声明",
-      "onboard_time": 1730301441,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -48184,6 +48192,14 @@
       "word": "3岁男童被生父女友虐待后死亡后续",
       "onboard_time": 1729494977,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184302,
+      "num": 184302,
+      "word": "男子面试被要求打斗地主输掉1.5万元",
+      "onboard_time": 1730304618,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -65899,6 +65915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123525,
+      "num": 123525,
+      "word": "跳窗逃跑副局长将被依法依规处置",
+      "onboard_time": 1730304798,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123489,
       "num": 383558,
       "word": "以军称精确打击伊朗军事目标",
@@ -67019,6 +67043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 118580,
+      "num": 118580,
+      "word": "姚明辞职并非空穴来风",
+      "onboard_time": 1730300122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118568,
       "num": 118568,
       "word": "2岁女童甜甜离家时爷爷奶奶都在忙",
@@ -67609,6 +67641,14 @@
       "onboard_time": 1728291682,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116267,
+      "num": 426984,
+      "word": "阿斯利康中国总裁王磊配合调查",
+      "onboard_time": 1730301501,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116248,
@@ -69297,14 +69337,6 @@
       "onboard_time": 1729924758,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109585,
-      "num": 426984,
-      "word": "阿斯利康中国总裁王磊配合调查",
-      "onboard_time": 1730301501,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109559,
@@ -72115,14 +72147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95926,
-      "num": 95926,
-      "word": "姚明辞职并非空穴来风",
-      "onboard_time": 1730300122,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95882,
       "num": 95882,
       "word": "林高远王艺迪混双进8强",
@@ -73457,6 +73481,14 @@
       "onboard_time": 1728969020,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87392,
+      "num": 87392,
+      "word": "哈尔滨亚冬会奖牌有这些彩蛋",
+      "onboard_time": 1730304677,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 87283,
@@ -79611,6 +79643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50575,
+      "num": 168955,
+      "word": "受台风康妮影响部分铁路停运",
+      "onboard_time": 1730305636,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50499,
       "num": 489338,
       "word": "美联储会暂停降息吗",
@@ -79793,6 +79833,14 @@
       "onboard_time": 1729057940,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50045,
+      "num": 178533,
+      "word": "重温金庸书中的侠骨柔情",
+      "onboard_time": 1730304318,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50043,
@@ -89873,6 +89921,14 @@
       "onboard_time": 1729047678,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14853,
+      "num": 128743,
+      "word": "韩路谈博主跨域出圈",
+      "onboard_time": 1730304976,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 14797,
