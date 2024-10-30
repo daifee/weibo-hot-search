@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/30 12:41:43
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/30 13:22:55
 </p>
 </blockquote>
 <p>
@@ -1833,6 +1833,12 @@ BLG晋级S14决赛（热度：1713355）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%85%AC%E7%84%B6%E5%AE%A3%E7%A7%B0%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%98%AF%E6%97%A5%E6%9C%AC%E5%86%85%E6%94%BF%23" target="weibo">
+博主公然宣称南京大屠杀是日本内政（热度：1703680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%97%E5%A1%94%E9%A1%B6%E7%AB%AF%E5%8F%91%E7%8E%B0%E4%B8%80%E6%9D%A1%E7%8B%97%23" target="weibo">
 金字塔顶端发现一条狗（热度：1703087）
 </a>
@@ -2999,6 +3005,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E8%80%81%E5%85%AC%E5%AE%8B%E6%B5%A9%E7%84%B6%E8%BF%87%E5%BA%A6%E5%8A%B3%E7%B4%AF%E5%85%A5%E9%99%A2%23" target="weibo">
 韩安冉老公宋浩然过度劳累入院（热度：1355842）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%943%E5%B2%81%E5%84%BF%E5%AD%90%E8%A2%AB%E5%A5%B3%E5%8F%8B%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%23" target="weibo">
+生父回应3岁儿子被女友虐待致死（热度：1353621）
 </a>
 </li>
 
@@ -4227,6 +4239,12 @@ JDG官宣Ruler离队（热度：1203717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E7%9C%81%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%B1%80%E9%95%BF%E4%BF%A1%E6%81%AF%E5%B7%B2%E4%BB%8E%E5%AE%98%E7%BD%91%E6%92%A4%E4%B8%8B%23" target="weibo">
+陕西省税务局局长信息已从官网撤下（热度：1135957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E5%AB%8C%E9%BB%84%E5%9C%A3%E4%BE%9D%E8%B5%9A%E4%B8%8D%E5%88%B0%E9%92%B1%23" target="weibo">
 杨子嫌黄圣依赚不到钱（热度：1135516）
 </a>
@@ -4517,6 +4535,12 @@ Ning开团王多多（热度：1101161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%84%B1%E5%8F%A3%E7%A7%80%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%96%8A%E5%A4%A7%E5%A7%90%23" target="weibo">
 29岁女生被脱口秀主持人喊大姐（热度：1091100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%E6%A2%A6%E5%A5%B3%23" target="weibo">
+恋综梦女（热度：1090924）
 </a>
 </li>
 
@@ -5421,6 +5445,12 @@ K总女友颜值（热度：997545）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8E%95%E6%B4%97%E6%89%8B%E6%B1%A0%E5%86%85%E7%8E%B0%E5%BC%83%E5%A9%B4%23" target="weibo">
+重庆一公厕洗手池内现弃婴（热度：989497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E6%93%85%E9%97%AF%E5%93%80%E7%89%A2%E5%B1%B1%E5%8D%9A%E4%B8%BB%E8%83%8C%E5%90%8E%E5%85%AC%E5%8F%B8%23" target="weibo">
 揭秘擅闯哀牢山博主背后公司（热度：988385）
 </a>
@@ -5981,36 +6011,6 @@ T1对战GEN（热度：952675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E6%B0%B8%E4%B9%85%E5%88%87%E6%96%AD%E6%9C%9D%E9%9F%A9%E9%81%93%E8%B7%AF%E8%BF%9E%E6%8E%A5%23" target="weibo">
 韩国回应朝鲜永久切断朝韩道路连接（热度：926892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E6%B4%B2%E5%AE%89%E4%BF%9D%E7%8B%99%E5%87%BB%E6%89%8B%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%91%B8%E9%B1%BC%23" target="weibo">
-澳洲安保狙击手被发现在摸鱼（热度：926185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E7%9B%B4%E6%92%AD%E9%97%B4%20%E6%9D%A8%E5%B9%82%23" target="weibo">
-刘冲直播间 杨幂（热度：925626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%8B%B1%E7%A7%B0%E7%89%9B%E5%9B%A0%E7%94%9F%E4%BA%86%E5%B0%8F%E7%89%9B%E4%B8%94%E7%94%9F%E7%97%85%E6%89%8D%E7%98%A6%23" target="weibo">
-小英称牛因生了小牛且生病才瘦（热度：925119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AF%E8%A1%80%E9%B8%BF%E8%92%99%23" target="weibo">
-纯血鸿蒙（热度：925027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%9C%E5%A4%B4%E4%BB%8E%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%88%87%E5%88%B0%E6%B2%88%E8%85%BE%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23" target="weibo">
-镜头从严浩翔切到沈腾有多好笑（热度：924550）
 </a>
 </li>
 

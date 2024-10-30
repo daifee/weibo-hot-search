@@ -1,6 +1,6 @@
 {
   "startTime": 1730219327673,
-  "endTime": 1730263303384,
+  "endTime": 1730265775759,
   "band_list": [
     {
       "raw_hot": 4831302,
@@ -35,12 +35,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1703680,
+      "num": 1703680,
+      "word": "博主公然宣称南京大屠杀是日本内政",
+      "onboard_time": 1730263161,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1680659,
       "num": 1680659,
       "word": "周雨彤说会找机会和大家聊聊",
       "onboard_time": 1730212881,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1353621,
+      "num": 455344,
+      "word": "生父回应3岁儿子被女友虐待致死",
+      "onboard_time": 1730259438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1322778,
@@ -75,11 +91,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1135957,
+      "num": 1135957,
+      "word": "陕西省税务局局长信息已从官网撤下",
+      "onboard_time": 1730261662,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131095,
       "num": 1180975,
       "word": "陈都灵工作室解释直播吼人",
       "onboard_time": 1730244917,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1090924,
+      "num": 1090924,
+      "word": "恋综梦女",
+      "onboard_time": 1730262439,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -107,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 989497,
+      "num": 454877,
+      "word": "重庆一公厕洗手池内现弃婴",
+      "onboard_time": 1730262320,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987070,
       "num": 987070,
       "word": "女生5年前丢的包被找回竟完好如初",
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 976653,
-      "num": 729519,
+      "num": 859583,
       "word": "赵牧辰 追妻火葬场",
       "onboard_time": 1730260820,
       "rank": 16,
@@ -216,14 +256,6 @@
       "word": "放狠话家里人死了先臭着领导道歉",
       "onboard_time": 1730206219,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723486,
-      "num": 723486,
-      "word": "陕西省税务局局长信息已从官网撤下",
-      "onboard_time": 1730261662,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -323,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486969,
-      "num": 486969,
-      "word": "恋综梦女",
-      "onboard_time": 1730262439,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484476,
       "num": 463615,
       "word": "马子佳 天亮了",
@@ -339,12 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 450446,
-      "num": 450446,
-      "word": "生父回应3岁儿子被女友虐待致死",
-      "onboard_time": 1730259438,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 454679,
+      "num": 454679,
+      "word": "三生三世枕上书卖号",
+      "onboard_time": 1730263220,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 450432,
@@ -379,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424308,
+      "num": 424308,
+      "word": "高三走读生晚上十点回家吃什么",
+      "onboard_time": 1730263581,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418489,
       "num": 418489,
       "word": "6名中国航天员太空会师",
       "onboard_time": 1730237651,
       "rank": 13,
       "category": "国内时政,社会新闻"
-    },
-    {
-      "raw_hot": 387262,
-      "num": 387262,
-      "word": "三生三世枕上书卖号",
-      "onboard_time": 1730263220,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 364427,
@@ -411,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349545,
-      "num": 349545,
-      "word": "重庆一公厕洗手池内现弃婴",
-      "onboard_time": 1730262320,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 350235,
+      "num": 397675,
+      "word": "赵牧辰 摇摆",
+      "onboard_time": 1730260699,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 339693,
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322276,
-      "num": 397675,
-      "word": "赵牧辰 摇摆",
-      "onboard_time": 1730260699,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322118,
       "num": 528361,
       "word": "台风康妮已加强为超强台风",
@@ -505,6 +521,14 @@
       "onboard_time": 1730262200,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305298,
+      "num": 305298,
+      "word": "小狗为了不弄脏座位把自己缩成一团",
+      "onboard_time": 1730261899,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 303826,
@@ -555,8 +579,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 267501,
-      "num": 267501,
+      "raw_hot": 268696,
+      "num": 454786,
       "word": "哈里斯连续三天演讲被抗议",
       "onboard_time": 1730260579,
       "rank": 39,
@@ -595,14 +619,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 249041,
-      "num": 249041,
-      "word": "小狗为了不弄脏座位把自己缩成一团",
-      "onboard_time": 1730261899,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248710,
       "num": 300260,
       "word": "汤唯三提青龙奖最佳女主角",
@@ -616,6 +632,14 @@
       "word": "中国大鹅嘴真严啊",
       "onboard_time": 1730259500,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243698,
+      "num": 243698,
+      "word": "儿子被女友虐待致死生父望从重处理",
+      "onboard_time": 1730264000,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -651,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238747,
-      "num": 238747,
-      "word": "博主公然宣称南京大屠杀是日本内政",
-      "onboard_time": 1730263161,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 236846,
+      "num": 294461,
+      "word": "白鹿杂志",
+      "onboard_time": 1730263460,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236138,
@@ -720,6 +744,14 @@
       "word": "高雅cp",
       "onboard_time": 1730245337,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221507,
+      "num": 221507,
+      "word": "高雅cp好甜",
+      "onboard_time": 1730265079,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187446,
+      "num": 187446,
+      "word": "张杰成都抢票",
+      "onboard_time": 1730265439,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "综艺搭子有真友谊吗",
@@ -849,6 +889,14 @@
       "onboard_time": 1730244197,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177730,
+      "num": 177730,
+      "word": "心动的信号配对率",
+      "onboard_time": 1730263581,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 173304,
@@ -944,6 +992,14 @@
       "word": "谁看了不说一声中国航天太牛了",
       "onboard_time": 1730257339,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 153948,
+      "num": 411510,
+      "word": "70后80后90后齐聚中国空间站",
+      "onboard_time": 1730265679,
+      "rank": 24,
       "category": "国内时政"
     },
     {
@@ -1113,6 +1169,14 @@
       "onboard_time": 1730187679,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129287,
+      "num": 454991,
+      "word": "端午看似无母实则有母",
+      "onboard_time": 1730265559,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 127891,
@@ -1292,7 +1356,7 @@
     },
     {
       "raw_hot": 85091,
-      "num": 908067,
+      "num": 1102462,
       "word": "公安部网安局提醒不可轻信买家秀",
       "onboard_time": 1730254518,
       "rank": 2,
@@ -1305,6 +1369,14 @@
       "onboard_time": 1730218937,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81748,
+      "num": 455165,
+      "word": "失业保险金为何困扰众多失业者",
+      "onboard_time": 1730265259,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81110,
@@ -1451,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45397,
+      "num": 200192,
+      "word": "张艺兴话剧练完演唱会练",
+      "onboard_time": 1730265259,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42001,
       "num": 143341,
       "word": "中芬树立了国与国之间平等交往的典范",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1730204659,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 39008,
+      "num": 200399,
+      "word": "微博视界大会第三波阵容",
+      "onboard_time": 1730264360,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 36065,
@@ -1507,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32381,
+      "num": 200971,
+      "word": "你找到生活的解药了吗",
+      "onboard_time": 1730265259,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32019,
       "num": 32019,
       "word": "小米澎湃OS2",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1730261119,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27504,
+      "num": 455485,
+      "word": "失孤原型案将迎最终章",
+      "onboard_time": 1730265738,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24603,
