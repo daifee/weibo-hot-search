@@ -1,7 +1,15 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730327979128,
+  "endTime": 1730330574317,
   "band_list": [
+    {
+      "raw_hot": 1195961,
+      "num": 1195961,
+      "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+      "onboard_time": 1730307015,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 818261,
       "num": 911199,
@@ -33,14 +41,6 @@
       "onboard_time": 1730288719,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 622524,
-      "num": 622524,
-      "word": "被捕韩国间谍曾在多家中国芯片厂工作",
-      "onboard_time": 1730307015,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 555316,
@@ -83,12 +83,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 339003,
+      "num": 194381,
+      "word": "跳窗逃跑副局长将被依法依规处置",
+      "onboard_time": 1730304798,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324920,
       "num": 261837,
       "word": "刘烨在花少一个人去玩",
       "onboard_time": 1730290818,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324288,
+      "num": 192104,
+      "word": "90%三只羊MCN签约达人粉丝低于10万",
+      "onboard_time": 1730308215,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 312714,
@@ -107,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300181,
-      "num": 163192,
-      "word": "跳窗逃跑副局长将被依法依规处置",
-      "onboard_time": 1730304798,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 280956,
+      "num": 280956,
+      "word": "五角大楼就俄举行核军演表态",
+      "onboard_time": 1730313371,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 263003,
@@ -131,6 +147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 245978,
+      "num": 171630,
+      "word": "12岁女孩体重400斤无法行走",
+      "onboard_time": 1730292259,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234632,
       "num": 234632,
       "word": "烧伤妈妈30%皮肤基本长好",
@@ -144,14 +168,6 @@
       "word": "青岛通报网传代孕事件",
       "onboard_time": 1730289559,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220953,
-      "num": 171630,
-      "word": "12岁女孩体重400斤无法行走",
-      "onboard_time": 1730292259,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -171,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192669,
-      "num": 208155,
+      "raw_hot": 208591,
+      "num": 208591,
       "word": "受台风康妮影响部分铁路停运",
       "onboard_time": 1730305636,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195805,
+      "num": 195805,
+      "word": "美大选结果可能要花上几天才能揭晓",
+      "onboard_time": 1730316011,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 190196,
@@ -203,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167631,
+      "num": 167631,
+      "word": "辽宁一小区突发大火致1人死亡",
+      "onboard_time": 1730324051,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "鲨鱼裤成为年轻人的新秋裤",
@@ -211,19 +243,19 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 158938,
-      "num": 82636,
-      "word": "90%三只羊MCN签约达人粉丝低于10万",
-      "onboard_time": 1730308215,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 146894,
       "num": 146894,
       "word": "男子组织多名十三四岁少女有偿陪侍",
       "onboard_time": 1730287878,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145118,
+      "num": 68869,
+      "word": "超强台风康妮预计将于明天登陆",
+      "onboard_time": 1730325312,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133454,
-      "num": 79803,
-      "word": "辽宁一小区突发大火致1人死亡",
-      "onboard_time": 1730324051,
-      "rank": 49,
-      "category": "社会负面"
+      "raw_hot": 132371,
+      "num": 194878,
+      "word": "撒贝宁的状态令人羡慕了",
+      "onboard_time": 1730325012,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 129436,
@@ -257,14 +289,6 @@
       "onboard_time": 1730292199,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127421,
-      "num": 127421,
-      "word": "五角大楼就俄举行核军演表态",
-      "onboard_time": 1730313371,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 127142,
@@ -331,14 +355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110657,
-      "num": 110657,
-      "word": "撒贝宁的状态令人羡慕了",
-      "onboard_time": 1730325012,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109427,
       "num": 109427,
       "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
@@ -355,12 +371,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107731,
+      "num": 107731,
+      "word": "张艺兴说孙红雷是自己的素材库",
+      "onboard_time": 1730327893,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104826,
       "num": 104826,
       "word": "直面不想生不敢生不能生",
       "onboard_time": 1730284159,
       "rank": 40,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 102548,
+      "num": 86349,
+      "word": "女子1次备好15天饭菜自制预制餐",
+      "onboard_time": 1730304199,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95889,
+      "num": 95889,
+      "word": "张百乔伴郎团好多熟人",
+      "onboard_time": 1730328016,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 95578,
@@ -395,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89636,
+      "num": 88544,
+      "word": "台风康妮所致强风雨具有一定极端性",
+      "onboard_time": 1730328494,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88752,
+      "num": 88752,
+      "word": "多人跨省闪婚女方均在半年内离开",
+      "onboard_time": 1730320090,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87639,
       "num": 87639,
       "word": "小巷人家 小演员演技",
@@ -427,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83692,
-      "num": 83692,
-      "word": "美大选结果可能要花上几天才能揭晓",
-      "onboard_time": 1730316011,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 83576,
       "num": 83576,
       "word": "赵露思造型",
@@ -460,7 +508,7 @@
     },
     {
       "raw_hot": 64887,
-      "num": 64887,
+      "num": 68887,
       "word": "广西警方破获特大贩毒案",
       "onboard_time": 1730310913,
       "rank": 19,
@@ -475,60 +523,52 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56363,
-      "num": 56363,
-      "word": "女子1次备好15天饭菜自制预制餐",
-      "onboard_time": 1730304199,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54819,
-      "num": 68789,
-      "word": "超强台风康妮预计将于明天登陆",
-      "onboard_time": 1730325312,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51793,
-      "num": 51793,
-      "word": "三只羊辟谣小杨哥复播",
-      "onboard_time": 1730285419,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48346,
-      "num": 48346,
+      "raw_hot": 63099,
+      "num": 87114,
       "word": "第一次知道双戒指的含义",
       "onboard_time": 1730288958,
       "rank": 35,
       "category": "电影"
     },
     {
-      "raw_hot": 38374,
-      "num": 61086,
-      "word": "郭刚堂用24年找到儿子余生终圆满",
-      "onboard_time": 1730324651,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36209,
-      "num": 36209,
+      "raw_hot": 60635,
+      "num": 68987,
       "word": "丈夫更新烧伤妈妈最新状态",
       "onboard_time": 1730320392,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35743,
-      "num": 35743,
-      "word": "多人跨省闪婚女方均在半年内离开",
-      "onboard_time": 1730320090,
-      "rank": 42,
+      "raw_hot": 56698,
+      "num": 68969,
+      "word": "三只羊辟谣小杨哥复播",
+      "onboard_time": 1730285419,
+      "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49588,
+      "num": 68758,
+      "word": "曼联vs莱斯特城",
+      "onboard_time": 1730330116,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47550,
+      "num": 68667,
+      "word": "郭刚堂用24年找到儿子余生终圆满",
+      "onboard_time": 1730324651,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40633,
+      "num": 68373,
+      "word": "任敏婚服造型 白月光",
+      "onboard_time": 1730330236,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 30692,
@@ -539,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28930,
-      "num": 28930,
-      "word": "张艺兴说孙红雷是自己的素材库",
-      "onboard_time": 1730327893,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 28940,
+      "num": 95479,
+      "word": "英国核潜艇船坞发生火灾",
+      "onboard_time": 1730328975,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 28280,
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 11586,
-      "num": 281637,
+      "num": 553451,
       "word": "中国人上太空有人接的感觉太好了",
       "onboard_time": 1730294779,
       "rank": 2,
