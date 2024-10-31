@@ -1,0 +1,402 @@
+{
+  "runTime": 1730340136953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908580,
+        "num": 1145372,
+        "word": "开封王婆获全国媒婆大赛一等奖",
+        "onboard_time": 1730335040,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686374,
+        "num": 686374,
+        "word": "加沙医护救人结果抬了妈妈的遗体",
+        "onboard_time": 1730336178,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17433,
+        "num": 563117,
+        "word": "中国人上太空有人接的感觉太好了",
+        "onboard_time": 1730294779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546059,
+        "num": 546059,
+        "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+        "onboard_time": 1730307015,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543880,
+        "num": 543880,
+        "word": "阮小咪回应选李定豪",
+        "onboard_time": 1730338820,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451137,
+        "num": 451137,
+        "word": "26岁渐冻症女生逐渐学会面对死亡",
+        "onboard_time": 1730336901,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440269,
+        "num": 440269,
+        "word": "人贩子道歉竟然说添麻烦了",
+        "onboard_time": 1730294360,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400260,
+        "num": 400260,
+        "word": "GEN输T1疑似有外在因素",
+        "onboard_time": 1730335100,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343079,
+        "num": 390509,
+        "word": "侯明昊被陈好贴脸开大",
+        "onboard_time": 1730298802,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195923,
+        "num": 390201,
+        "word": "花3万定制头模能解开人脸识别吗",
+        "onboard_time": 1730339658,
+        "rank": 9,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 1245784,
+        "num": 390176,
+        "word": "江歌妈妈直播拒绝回应其它",
+        "onboard_time": 1730335400,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390043,
+        "num": 390043,
+        "word": "雷军预判小米su7ultra价格遭质疑",
+        "onboard_time": 1730336540,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 355293,
+        "num": 355293,
+        "word": "理记 江秋莲",
+        "onboard_time": 1730338219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340582,
+        "num": 340582,
+        "word": "魔道祖师",
+        "onboard_time": 1730334799,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 329886,
+        "num": 329886,
+        "word": "江歌妈妈停播20天后复播",
+        "onboard_time": 1730336659,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306165,
+        "num": 306165,
+        "word": "彭小苒发了和龚俊合照",
+        "onboard_time": 1730337978,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284253,
+        "num": 284253,
+        "word": "学校回应班主任称全家都死了就不用签字",
+        "onboard_time": 1730339777,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201008,
+        "num": 284155,
+        "word": "陈小春声生不息路透",
+        "onboard_time": 1730335578,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168910,
+        "num": 283784,
+        "word": "大梦归离三代白泽神女",
+        "onboard_time": 1730336299,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688628,
+        "num": 283209,
+        "word": "刘晓庆十年前发的微博",
+        "onboard_time": 1730338758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479413,
+        "num": 282958,
+        "word": "爷爷用钢丝球帮孙女洗车",
+        "onboard_time": 1730330837,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440727,
+        "num": 282721,
+        "word": "吉林男子在同一小区找了5个媳妇",
+        "onboard_time": 1730335759,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280429,
+        "num": 282274,
+        "word": "马龙用英语发表获奖感言",
+        "onboard_time": 1730333898,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298191,
+        "num": 281974,
+        "word": "男子面试被要求打斗地主输掉1.5万元",
+        "onboard_time": 1730304618,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281652,
+        "num": 281652,
+        "word": "钱学森30多年前设想中国VR技术",
+        "onboard_time": 1730336178,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274617,
+        "num": 274617,
+        "word": "台风康妮所致强风雨具有一定极端性",
+        "onboard_time": 1730328494,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265297,
+        "num": 265297,
+        "word": "为什么用惯了苹果的人不换安卓",
+        "onboard_time": 1730278938,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 257136,
+        "num": 257136,
+        "word": "房贷利率重新定价不必再等1年",
+        "onboard_time": 1730339777,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 166390,
+        "num": 245277,
+        "word": "小巷人家范丞丞出场镜头",
+        "onboard_time": 1730339900,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243126,
+        "num": 243126,
+        "word": "彭高翁青雅 线下be",
+        "onboard_time": 1730288719,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238650,
+        "num": 238650,
+        "word": "男子将父亲尸体藏冰箱四年冒领社保",
+        "onboard_time": 1730294421,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223611,
+        "num": 223611,
+        "word": "钟薛高成老赖",
+        "onboard_time": 1730333658,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221811,
+        "num": 221811,
+        "word": "小西天保安大爷称因雨天买药被辞退",
+        "onboard_time": 1730339239,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137919,
+        "num": 214534,
+        "word": "权志龙出歌melon崩了",
+        "onboard_time": 1730333898,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214244,
+        "num": 214244,
+        "word": "医生解答自制预制菜到底可不可行",
+        "onboard_time": 1730339180,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210733,
+        "num": 210733,
+        "word": "12岁女孩体重400斤无法行走",
+        "onboard_time": 1730292259,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198263,
+        "num": 198263,
+        "word": "女子1次备好15天饭菜自制预制餐",
+        "onboard_time": 1730304199,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187992,
+        "num": 187992,
+        "word": "天秤年底运势最强分析",
+        "onboard_time": 1730338698,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171766,
+        "num": 171766,
+        "word": "保温杯底部的贴纸不能撕",
+        "onboard_time": 1730299521,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167184,
+        "num": 167184,
+        "word": "航天员导弹这些词都出自钱学森",
+        "onboard_time": 1730339900,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164684,
+        "num": 164684,
+        "word": "10月最后一天",
+        "onboard_time": 1730339958,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160067,
+        "num": 160067,
+        "word": "六大行明起实施存量房贷利率新机制",
+        "onboard_time": 1730338578,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159685,
+        "num": 159685,
+        "word": "迪丽热巴花车拍摄路透",
+        "onboard_time": 1730337618,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23453,
+        "num": 159068,
+        "word": "宋令东13岁看神五发射时种下飞天梦",
+        "onboard_time": 1730339118,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158719,
+        "num": 158719,
+        "word": "四川省考",
+        "onboard_time": 1730339838,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156292,
+        "num": 156292,
+        "word": "班主任放狠话全家都死了就不用签字",
+        "onboard_time": 1730340017,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152812,
+        "num": 152812,
+        "word": "多人跨省闪婚女方均在半年内离开",
+        "onboard_time": 1730320090,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146248,
+        "num": 146248,
+        "word": "鲨鱼裤成为年轻人的新秋裤",
+        "onboard_time": 1730292259,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 138380,
+        "num": 138380,
+        "word": "丁宁祝贺马龙",
+        "onboard_time": 1730337260,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的改革是有方向有原则的#"
+    }
+  }
+}

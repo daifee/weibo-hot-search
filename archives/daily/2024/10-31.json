@@ -1,10 +1,10 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730339061230,
+  "endTime": 1730340136953,
   "band_list": [
     {
       "raw_hot": 1350978,
-      "num": 345205,
+      "num": 390176,
       "word": "江歌妈妈直播拒绝回应其它",
       "onboard_time": 1730335400,
       "rank": 10,
@@ -43,6 +43,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688628,
+      "num": 283209,
+      "word": "刘晓庆十年前发的微博",
+      "onboard_time": 1730338758,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 686374,
+      "num": 686374,
+      "word": "加沙医护救人结果抬了妈妈的遗体",
+      "onboard_time": 1730336178,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 685528,
       "num": 259224,
       "word": "权志龙",
@@ -67,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543880,
+      "num": 543880,
+      "word": "阮小咪回应选李定豪",
+      "onboard_time": 1730338820,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539586,
-      "num": 222851,
+      "num": 282958,
       "word": "爷爷用钢丝球帮孙女洗车",
       "onboard_time": 1730330837,
       "rank": 33,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 528103,
-      "num": 221485,
+      "num": 281974,
       "word": "男子面试被要求打斗地主输掉1.5万元",
       "onboard_time": 1730304618,
       "rank": 18,
@@ -97,6 +121,30 @@
       "onboard_time": 1730301441,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451137,
+      "num": 451137,
+      "word": "26岁渐冻症女生逐渐学会面对死亡",
+      "onboard_time": 1730336901,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440727,
+      "num": 282721,
+      "word": "吉林男子在同一小区找了5个媳妇",
+      "onboard_time": 1730335759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390043,
+      "num": 390043,
+      "word": "雷军预判小米su7ultra价格遭质疑",
+      "onboard_time": 1730336540,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 381884,
@@ -139,11 +187,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 349352,
-      "num": 221881,
-      "word": "吉林男子在同一小区找了5个媳妇",
-      "onboard_time": 1730335759,
-      "rank": 21,
+      "raw_hot": 355293,
+      "num": 355293,
+      "word": "理记 江秋莲",
+      "onboard_time": 1730338219,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -187,28 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317532,
-      "num": 317532,
-      "word": "加沙医护救人结果抬了妈妈的遗体",
-      "onboard_time": 1730336178,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 312714,
-      "num": 220569,
+      "num": 238650,
       "word": "男子将父亲尸体藏冰箱四年冒领社保",
       "onboard_time": 1730294421,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308104,
-      "num": 308104,
-      "word": "雷军预判小米su7ultra价格遭质疑",
-      "onboard_time": 1730336540,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 307586,
@@ -219,11 +251,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306165,
+      "num": 345870,
+      "word": "彭小苒发了和龚俊合照",
+      "onboard_time": 1730337978,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293920,
       "num": 293920,
       "word": "钟薛高成老赖",
       "onboard_time": 1730333658,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284253,
+      "num": 284253,
+      "word": "学校回应班主任称全家都死了就不用签字",
+      "onboard_time": 1730339777,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281652,
+      "num": 281652,
+      "word": "钱学森30多年前设想中国VR技术",
+      "onboard_time": 1730336178,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -251,12 +307,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 241044,
-      "num": 345870,
-      "word": "彭小苒发了和龚俊合照",
-      "onboard_time": 1730337978,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 257136,
+      "num": 257136,
+      "word": "房贷利率重新定价不必再等1年",
+      "onboard_time": 1730339777,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 236817,
@@ -283,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226452,
-      "num": 226452,
-      "word": "理记 江秋莲",
-      "onboard_time": 1730338219,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223164,
-      "num": 223164,
+      "num": 284155,
       "word": "陈小春声生不息路透",
       "onboard_time": 1730335578,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221811,
+      "num": 221811,
+      "word": "小西天保安大爷称因雨天买药被辞退",
+      "onboard_time": 1730339239,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220376,
@@ -313,6 +369,14 @@
       "onboard_time": 1730299521,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 214244,
+      "num": 214244,
+      "word": "医生解答自制预制菜到底可不可行",
+      "onboard_time": 1730339180,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212493,
@@ -347,12 +411,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193968,
-      "num": 193968,
+      "raw_hot": 198263,
+      "num": 198263,
       "word": "女子1次备好15天饭菜自制预制餐",
       "onboard_time": 1730304199,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195923,
+      "num": 390201,
+      "word": "花3万定制头模能解开人脸识别吗",
+      "onboard_time": 1730339658,
+      "rank": 9,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 190196,
@@ -363,28 +435,20 @@
       "category": "母婴育儿,健康医疗"
     },
     {
+      "raw_hot": 187992,
+      "num": 187992,
+      "word": "天秤年底运势最强分析",
+      "onboard_time": 1730338698,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187260,
       "num": 260831,
       "word": "易烊千玺单依纯合唱亚冬会会歌",
       "onboard_time": 1730298143,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 186605,
-      "num": 186605,
-      "word": "阮小咪回应选李定豪",
-      "onboard_time": 1730338820,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186017,
-      "num": 186017,
-      "word": "26岁渐冻症女生逐渐学会面对死亡",
-      "onboard_time": 1730336901,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182798,
@@ -404,19 +468,11 @@
     },
     {
       "raw_hot": 177470,
-      "num": 199083,
+      "num": 283784,
       "word": "大梦归离三代白泽神女",
       "onboard_time": 1730336299,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175374,
-      "num": 175374,
-      "word": "刘晓庆十年前发的微博",
-      "onboard_time": 1730338758,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 168433,
@@ -427,11 +483,27 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 165942,
-      "num": 165942,
-      "word": "钱学森30多年前设想中国VR技术",
-      "onboard_time": 1730336178,
-      "rank": 36,
+      "raw_hot": 167184,
+      "num": 167184,
+      "word": "航天员导弹这些词都出自钱学森",
+      "onboard_time": 1730339900,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 166390,
+      "num": 245277,
+      "word": "小巷人家范丞丞出场镜头",
+      "onboard_time": 1730339900,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164684,
+      "num": 164684,
+      "word": "10月最后一天",
+      "onboard_time": 1730339958,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -441,6 +513,22 @@
       "onboard_time": 1730292259,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 158719,
+      "num": 158719,
+      "word": "四川省考",
+      "onboard_time": 1730339838,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 156292,
+      "num": 156292,
+      "word": "班主任放狠话全家都死了就不用签字",
+      "onboard_time": 1730340017,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154620,
@@ -491,12 +579,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140151,
-      "num": 140151,
-      "word": "天秤年底运势最强分析",
-      "onboard_time": 1730338698,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 137919,
+      "num": 214534,
+      "word": "权志龙出歌melon崩了",
+      "onboard_time": 1730333898,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 133579,
@@ -505,14 +593,6 @@
       "onboard_time": 1730338039,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132801,
-      "num": 132801,
-      "word": "权志龙出歌melon崩了",
-      "onboard_time": 1730333898,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 130422,
@@ -848,6 +928,14 @@
       "word": "中国人上太空有人接的感觉太好了",
       "onboard_time": 1730294779,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23453,
+      "num": 159068,
+      "word": "宋令东13岁看神五发射时种下飞天梦",
+      "onboard_time": 1730339118,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
