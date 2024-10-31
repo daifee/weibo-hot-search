@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730381342396,
+  "endTime": 1730382039314,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1413903,
+      "num": 482828,
+      "word": "韩媒拍的虞书欣",
+      "onboard_time": 1730380039,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1413358,
       "num": 1413358,
       "word": "郑钦文首夺东京站冠军",
@@ -905,14 +913,6 @@
       "onboard_time": 1730258057,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1316236,
-      "num": 482828,
-      "word": "韩媒拍的虞书欣",
-      "onboard_time": 1730380039,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1315593,
@@ -1416,6 +1416,14 @@
       "word": "烧伤妈妈情况不好",
       "onboard_time": 1730040141,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033832,
+      "num": 326760,
+      "word": "车辆坠河23天后疑发现准新娘遗体",
+      "onboard_time": 1730379740,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1995,14 +2003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 836527,
-      "num": 326760,
-      "word": "车辆坠河23天后疑发现准新娘遗体",
-      "onboard_time": 1730379740,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 834440,
       "num": 554458,
       "word": "2岁男孩小区玩滑板被撞身亡",
@@ -2033,6 +2033,14 @@
       "onboard_time": 1730119158,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822724,
+      "num": 322203,
+      "word": "被举报虐狗的网红训狗师停播",
+      "onboard_time": 1730379858,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 822419,
@@ -2313,14 +2321,6 @@
       "onboard_time": 1730005881,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 732163,
-      "num": 322203,
-      "word": "被举报虐狗的网红训狗师停播",
-      "onboard_time": 1730379858,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 728974,
@@ -2659,6 +2659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 626039,
+      "num": 626039,
+      "word": "上海回应明天是否会台风停课",
+      "onboard_time": 1730379198,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625238,
       "num": 580149,
       "word": "机械师被火车碰撞身亡",
@@ -2697,6 +2705,14 @@
       "onboard_time": 1730107280,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 618699,
+      "num": 301772,
+      "word": "女子怀孕后被代孕机构拉黑",
+      "onboard_time": 1730380458,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616753,
@@ -3603,14 +3619,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 480674,
-      "num": 480674,
-      "word": "上海回应明天是否会台风停课",
-      "onboard_time": 1730379198,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479538,
       "num": 449109,
       "word": "10个月婴儿吃蛋白休克抢救半小时",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1729997959,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 470562,
+      "num": 301554,
+      "word": "迪丽热巴高定裤装look",
+      "onboard_time": 1730381058,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469199,
@@ -3889,6 +3905,14 @@
       "onboard_time": 1730005398,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432869,
+      "num": 298578,
+      "word": "闵塔鲨 敷衍",
+      "onboard_time": 1730380701,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 432278,
@@ -4737,6 +4761,14 @@
       "onboard_time": 1729954162,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 342396,
+      "num": 294272,
+      "word": "男子找5个对象同住一小区隐瞒4年",
+      "onboard_time": 1730380218,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342292,
@@ -5883,6 +5915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261297,
+      "num": 198684,
+      "word": "鹿晗直播",
+      "onboard_time": 1730380999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261117,
       "num": 261117,
       "word": "华为Mate70系列11月上市",
@@ -5905,14 +5945,6 @@
       "onboard_time": 1730006478,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259704,
-      "num": 259704,
-      "word": "男子找5个对象同住一小区隐瞒4年",
-      "onboard_time": 1730380218,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259228,
@@ -6137,14 +6169,6 @@
       "onboard_time": 1730004500,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251131,
-      "num": 251131,
-      "word": "迪丽热巴高定裤装look",
-      "onboard_time": 1730381058,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250489,
@@ -6560,14 +6584,6 @@
       "word": "内蒙古呼和浩特4.1级地震",
       "onboard_time": 1730292199,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237189,
-      "num": 237189,
-      "word": "女子怀孕后被代孕机构拉黑",
-      "onboard_time": 1730380458,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7491,14 +7507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208468,
-      "num": 208468,
-      "word": "闵塔鲨 敷衍",
-      "onboard_time": 1730380701,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208464,
       "num": 208464,
       "word": "狼队巅峰对决战胜RW",
@@ -7755,6 +7763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202053,
+      "num": 202053,
+      "word": "小巷人家 好看",
+      "onboard_time": 1730380878,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202042,
       "num": 494512,
       "word": "张艺兴回应演唱会获奖",
@@ -7955,12 +7971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198673,
-      "num": 198673,
-      "word": "鹿晗直播",
-      "onboard_time": 1730380999,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 198751,
+      "num": 198751,
+      "word": "王宇黄树焘被确认见义勇为",
+      "onboard_time": 1730381599,
+      "rank": 31,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 198612,
@@ -8057,6 +8073,14 @@
       "onboard_time": 1730012538,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197110,
+      "num": 197110,
+      "word": "李洙赫晒与权志龙自拍",
+      "onboard_time": 1730381780,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 197036,
@@ -8307,6 +8331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 193786,
+      "num": 193786,
+      "word": "娄艺潇晒张百乔小雪婚礼合照",
+      "onboard_time": 1730381659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193759,
       "num": 193759,
       "word": "HYBE报告书",
@@ -8348,7 +8380,7 @@
     },
     {
       "raw_hot": 192443,
-      "num": 192443,
+      "num": 199864,
       "word": "闫妮不愧是大满贯视后",
       "onboard_time": 1730378419,
       "rank": 42,
@@ -8913,14 +8945,6 @@
       "onboard_time": 1730031798,
       "rank": 29,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 180487,
-      "num": 180487,
-      "word": "小巷人家 好看",
-      "onboard_time": 1730380878,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 180409,
@@ -10243,6 +10267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155662,
+      "num": 155662,
+      "word": "终于懂了什么叫做字如其人",
+      "onboard_time": 1730379740,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155648,
       "num": 155648,
       "word": "金鹤奖获奖名单",
@@ -11051,6 +11083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139633,
+      "num": 139633,
+      "word": "侯明昊一字诀",
+      "onboard_time": 1730381899,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139412,
       "num": 139412,
       "word": "白百何新剧这段比短剧还爽",
@@ -11201,14 +11241,6 @@
       "onboard_time": 1730302160,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136435,
-      "num": 136435,
-      "word": "终于懂了什么叫做字如其人",
-      "onboard_time": 1730379740,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 136310,
@@ -12947,6 +12979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71559,
+      "num": 307241,
+      "word": "刘德华看白宇想起年轻时的自己",
+      "onboard_time": 1730381058,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71190,
       "num": 73200,
       "word": "女子为保护女孩手被恶犬咬伤",
@@ -13915,14 +13955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38405,
-      "num": 307241,
-      "word": "刘德华看白宇想起年轻时的自己",
-      "onboard_time": 1730381058,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38372,
       "num": 102611,
       "word": "以空袭黎南部致3名媒体人员死亡",
@@ -14071,6 +14103,14 @@
       "num": 323671,
       "word": "如何应对滥用AI语音恶搞乱象",
       "onboard_time": 1730099418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35831,
+      "num": 328796,
+      "word": "教师管理学生心切也不能失去尊重",
+      "onboard_time": 1730380279,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -14395,6 +14435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31761,
+      "num": 312367,
+      "word": "双11今晚在天猫五折抢爆款",
+      "onboard_time": 1730377879,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31643,
       "num": 245080,
       "word": "周鸿祎为何说国产新能源不讲武德",
@@ -14441,14 +14489,6 @@
       "onboard_time": 1730049194,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 30801,
-      "num": 312367,
-      "word": "双11今晚在天猫五折抢爆款",
-      "onboard_time": 1730377879,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 30692,
@@ -14899,14 +14939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24575,
-      "num": 328796,
-      "word": "教师管理学生心切也不能失去尊重",
-      "onboard_time": 1730380279,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24224,
       "num": 245041,
       "word": "消费者刚充11万家政平台被曝欠薪",
@@ -14953,6 +14985,14 @@
       "onboard_time": 1730285539,
       "rank": 37,
       "category": "电竞,数码"
+    },
+    {
+      "raw_hot": 23469,
+      "num": 303772,
+      "word": "当地回应村民称父亲坟墓被煤企挖坏",
+      "onboard_time": 1730379978,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23453,
@@ -15312,14 +15352,6 @@
       "word": "文化中国行文博日历",
       "onboard_time": 1730310132,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16590,
-      "num": 303772,
-      "word": "当地回应村民称父亲坟墓被煤企挖坏",
-      "onboard_time": 1730379978,
-      "rank": 19,
       "category": "社会新闻"
     },
     {

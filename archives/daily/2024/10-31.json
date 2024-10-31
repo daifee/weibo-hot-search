@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730381342396,
+  "endTime": 1730382039314,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1413903,
+      "num": 482828,
+      "word": "韩媒拍的虞书欣",
+      "onboard_time": 1730380039,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1380975,
       "num": 492526,
       "word": "朱桢称已照顾乔任梁父母多年",
@@ -105,14 +113,6 @@
       "onboard_time": 1730339777,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1316236,
-      "num": 482828,
-      "word": "韩媒拍的虞书欣",
-      "onboard_time": 1730380039,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1285905,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1033832,
+      "num": 326760,
+      "word": "车辆坠河23天后疑发现准新娘遗体",
+      "onboard_time": 1730379740,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021993,
       "num": 373779,
       "word": "男子家暴挥刀砍妻儿子挺身而出",
@@ -243,12 +251,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 836527,
-      "num": 326760,
-      "word": "车辆坠河23天后疑发现准新娘遗体",
-      "onboard_time": 1730379740,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 822724,
+      "num": 322203,
+      "word": "被举报虐狗的网红训狗师停播",
+      "onboard_time": 1730379858,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 821455,
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 732163,
-      "num": 322203,
-      "word": "被举报虐狗的网红训狗师停播",
-      "onboard_time": 1730379858,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 723461,
       "num": 398054,
       "word": "吉林男子在同一小区找了5个媳妇",
@@ -369,6 +369,22 @@
       "onboard_time": 1730288719,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626039,
+      "num": 626039,
+      "word": "上海回应明天是否会台风停课",
+      "onboard_time": 1730379198,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618699,
+      "num": 301772,
+      "word": "女子怀孕后被代孕机构拉黑",
+      "onboard_time": 1730380458,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616480,
@@ -563,14 +579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 480674,
-      "num": 480674,
-      "word": "上海回应明天是否会台风停课",
-      "onboard_time": 1730379198,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 476296,
       "num": 476296,
       "word": "GEN输T1疑似有外在因素",
@@ -585,6 +593,14 @@
       "onboard_time": 1730349142,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470562,
+      "num": 301554,
+      "word": "迪丽热巴高定裤装look",
+      "onboard_time": 1730381058,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469199,
@@ -625,6 +641,14 @@
       "onboard_time": 1730352080,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 432869,
+      "num": 298578,
+      "word": "闵塔鲨 敷衍",
+      "onboard_time": 1730380701,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 421018,
@@ -793,6 +817,14 @@
       "onboard_time": 1730334799,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 342396,
+      "num": 294272,
+      "word": "男子找5个对象同住一小区隐瞒4年",
+      "onboard_time": 1730380218,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342154,
@@ -1043,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261297,
+      "num": 198684,
+      "word": "鹿晗直播",
+      "onboard_time": 1730380999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261096,
       "num": 205193,
       "word": "周也在机场卸妆",
       "onboard_time": 1730373798,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259704,
-      "num": 259704,
-      "word": "男子找5个对象同住一小区隐瞒4年",
-      "onboard_time": 1730380218,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258875,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1730340678,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251131,
-      "num": 251131,
-      "word": "迪丽热巴高定裤装look",
-      "onboard_time": 1730381058,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250489,
@@ -1168,14 +1192,6 @@
       "word": "家属回应打工女孩晕倒摔进油锅",
       "onboard_time": 1730379139,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237189,
-      "num": 237189,
-      "word": "女子怀孕后被代孕机构拉黑",
-      "onboard_time": 1730380458,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1347,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208468,
-      "num": 208468,
-      "word": "闵塔鲨 敷衍",
-      "onboard_time": 1730380701,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207990,
       "num": 207990,
       "word": "狗狗就差直接开口说自己吐了",
@@ -1427,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202053,
+      "num": 202053,
+      "word": "小巷人家 好看",
+      "onboard_time": 1730380878,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199872,
       "num": 199872,
       "word": "赵露思红色亮片长裙",
@@ -1443,12 +1459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198673,
-      "num": 198673,
-      "word": "鹿晗直播",
-      "onboard_time": 1730380999,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 198751,
+      "num": 198751,
+      "word": "王宇黄树焘被确认见义勇为",
+      "onboard_time": 1730381599,
+      "rank": 31,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 198577,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1730358500,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197110,
+      "num": 197110,
+      "word": "李洙赫晒与权志龙自拍",
+      "onboard_time": 1730381780,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 197036,
@@ -1531,8 +1555,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193786,
+      "num": 193786,
+      "word": "娄艺潇晒张百乔小雪婚礼合照",
+      "onboard_time": 1730381659,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192443,
-      "num": 192443,
+      "num": 199864,
       "word": "闫妮不愧是大满贯视后",
       "onboard_time": 1730378419,
       "rank": 42,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1730347879,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180487,
-      "num": 180487,
-      "word": "小巷人家 好看",
-      "onboard_time": 1730380878,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 179917,
@@ -1923,6 +1947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155662,
+      "num": 155662,
+      "word": "终于懂了什么叫做字如其人",
+      "onboard_time": 1730379740,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154620,
       "num": 154620,
       "word": "丁宁祝贺马龙",
@@ -2099,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139633,
+      "num": 139633,
+      "word": "侯明昊一字诀",
+      "onboard_time": 1730381899,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137919,
       "num": 297739,
       "word": "权志龙出歌melon崩了",
@@ -2121,14 +2161,6 @@
       "onboard_time": 1730366839,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136435,
-      "num": 136435,
-      "word": "终于懂了什么叫做字如其人",
-      "onboard_time": 1730379740,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 134131,
@@ -2579,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71559,
+      "num": 307241,
+      "word": "刘德华看白宇想起年轻时的自己",
+      "onboard_time": 1730381058,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71521,
       "num": 93547,
       "word": "第一次知道双戒指的含义",
@@ -2803,14 +2843,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 38405,
-      "num": 307241,
-      "word": "刘德华看白宇想起年轻时的自己",
-      "onboard_time": 1730381058,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37645,
       "num": 439052,
       "word": "直击超强台风康妮路径",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1730342899,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 35831,
+      "num": 328796,
+      "word": "教师管理学生心切也不能失去尊重",
+      "onboard_time": 1730380279,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35779,
@@ -2947,6 +2987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31761,
+      "num": 312367,
+      "word": "双11今晚在天猫五折抢爆款",
+      "onboard_time": 1730377879,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31526,
       "num": 323145,
       "word": "赵明发文回顾荣耀独立四周年",
@@ -2960,14 +3008,6 @@
       "word": "天猫今晚8点下单记得要用券",
       "onboard_time": 1730368416,
       "rank": 17,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 30801,
-      "num": 312367,
-      "word": "双11今晚在天猫五折抢爆款",
-      "onboard_time": 1730377879,
-      "rank": 35,
       "category": "互联网"
     },
     {
@@ -3075,19 +3115,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 24575,
-      "num": 328796,
-      "word": "教师管理学生心切也不能失去尊重",
-      "onboard_time": 1730380279,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23855,
       "num": 626862,
       "word": "中国人上太空有人接的感觉太好了",
       "onboard_time": 1730294779,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23469,
+      "num": 303772,
+      "word": "当地回应村民称父亲坟墓被煤企挖坏",
+      "onboard_time": 1730379978,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3168,14 +3208,6 @@
       "word": "文化中国行文博日历",
       "onboard_time": 1730310132,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16590,
-      "num": 303772,
-      "word": "当地回应村民称父亲坟墓被煤企挖坏",
-      "onboard_time": 1730379978,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
