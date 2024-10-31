@@ -1,7 +1,15 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730331442010,
+  "endTime": 1730339061230,
   "band_list": [
+    {
+      "raw_hot": 1350978,
+      "num": 345205,
+      "word": "江歌妈妈直播拒绝回应其它",
+      "onboard_time": 1730335400,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1285905,
       "num": 1285905,
@@ -9,6 +17,14 @@
       "onboard_time": 1730307015,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1235232,
+      "num": 1235232,
+      "word": "开封王婆获全国媒婆大赛一等奖",
+      "onboard_time": 1730335040,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 818261,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 657127,
-      "num": 257822,
+      "num": 305545,
       "word": "彭高翁青雅 线下be",
       "onboard_time": 1730288719,
       "rank": 11,
@@ -51,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539586,
+      "num": 222851,
+      "word": "爷爷用钢丝球帮孙女洗车",
+      "onboard_time": 1730330837,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528103,
-      "num": 206969,
+      "num": 221485,
       "word": "男子面试被要求打斗地主输掉1.5万元",
       "onboard_time": 1730304618,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476296,
+      "num": 476296,
+      "word": "GEN输T1疑似有外在因素",
+      "onboard_time": 1730335100,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 454420,
@@ -68,7 +100,7 @@
     },
     {
       "raw_hot": 381884,
-      "num": 192104,
+      "num": 195273,
       "word": "90%三只羊MCN签约达人粉丝低于10万",
       "onboard_time": 1730308215,
       "rank": 33,
@@ -80,6 +112,14 @@
       "word": "跳窗逃跑副局长将被依法依规处置",
       "onboard_time": 1730304798,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376866,
+      "num": 376866,
+      "word": "台风康妮所致强风雨具有一定极端性",
+      "onboard_time": 1730328494,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -99,6 +139,38 @@
       "category": "数码"
     },
     {
+      "raw_hot": 349352,
+      "num": 221881,
+      "word": "吉林男子在同一小区找了5个媳妇",
+      "onboard_time": 1730335759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347759,
+      "num": 347759,
+      "word": "魔道祖师",
+      "onboard_time": 1730334799,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 345015,
+      "num": 345015,
+      "word": "江歌妈妈停播20天后复播",
+      "onboard_time": 1730336659,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342154,
+      "num": 342154,
+      "word": "马龙用英语发表获奖感言",
+      "onboard_time": 1730333898,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337953,
       "num": 337953,
       "word": "五角大楼就俄举行核军演表态",
@@ -115,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317532,
+      "num": 317532,
+      "word": "加沙医护救人结果抬了妈妈的遗体",
+      "onboard_time": 1730336178,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 312714,
-      "num": 175615,
+      "num": 220569,
       "word": "男子将父亲尸体藏冰箱四年冒领社保",
       "onboard_time": 1730294421,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308104,
+      "num": 308104,
+      "word": "雷军预判小米su7ultra价格遭质疑",
+      "onboard_time": 1730336540,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 307586,
@@ -131,8 +219,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293920,
+      "num": 293920,
+      "word": "钟薛高成老赖",
+      "onboard_time": 1730333658,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274919,
-      "num": 171630,
+      "num": 218192,
       "word": "12岁女孩体重400斤无法行走",
       "onboard_time": 1730292259,
       "rank": 22,
@@ -153,6 +249,14 @@
       "onboard_time": 1730293879,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 241044,
+      "num": 345870,
+      "word": "彭小苒发了和龚俊合照",
+      "onboard_time": 1730337978,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 236817,
@@ -179,8 +283,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226452,
+      "num": 226452,
+      "word": "理记 江秋莲",
+      "onboard_time": 1730338219,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223164,
+      "num": 223164,
+      "word": "陈小春声生不息路透",
+      "onboard_time": 1730335578,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220376,
+      "num": 220376,
+      "word": "多人跨省闪婚女方均在半年内离开",
+      "onboard_time": 1730320090,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219270,
-      "num": 163005,
+      "num": 185231,
       "word": "保温杯底部的贴纸不能撕",
       "onboard_time": 1730299521,
       "rank": 24,
@@ -192,6 +320,14 @@
       "word": "荣梓杉 背刺",
       "onboard_time": 1730260579,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208693,
+      "num": 208693,
+      "word": "迪丽热巴花车拍摄路透",
+      "onboard_time": 1730337618,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -211,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193968,
+      "num": 193968,
+      "word": "女子1次备好15天饭菜自制预制餐",
+      "onboard_time": 1730304199,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "专家称孕育会使女性变得更聪明",
@@ -227,12 +371,28 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 181461,
-      "num": 181461,
-      "word": "台风康妮所致强风雨具有一定极端性",
-      "onboard_time": 1730328494,
-      "rank": 24,
+      "raw_hot": 186605,
+      "num": 186605,
+      "word": "阮小咪回应选李定豪",
+      "onboard_time": 1730338820,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186017,
+      "num": 186017,
+      "word": "26岁渐冻症女生逐渐学会面对死亡",
+      "onboard_time": 1730336901,
+      "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182798,
+      "num": 182798,
+      "word": "六大行明起实施存量房贷利率新机制",
+      "onboard_time": 1730338578,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 179917,
@@ -243,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177470,
+      "num": 199083,
+      "word": "大梦归离三代白泽神女",
+      "onboard_time": 1730336299,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175374,
+      "num": 175374,
+      "word": "刘晓庆十年前发的微博",
+      "onboard_time": 1730338758,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "辽宁一小区突发大火致1人死亡",
@@ -251,12 +427,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 165942,
+      "num": 165942,
+      "word": "钱学森30多年前设想中国VR技术",
+      "onboard_time": 1730336178,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "鲨鱼裤成为年轻人的新秋裤",
       "onboard_time": 1730292259,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 154620,
+      "num": 154620,
+      "word": "丁宁祝贺马龙",
+      "onboard_time": 1730337260,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151575,
@@ -291,6 +483,46 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142543,
+      "num": 155070,
+      "word": "权志龙POWER公开",
+      "onboard_time": 1730331858,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 140151,
+      "num": 140151,
+      "word": "天秤年底运势最强分析",
+      "onboard_time": 1730338698,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133579,
+      "num": 133579,
+      "word": "洪知秀WVS发文",
+      "onboard_time": 1730338039,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132801,
+      "num": 132801,
+      "word": "权志龙出歌melon崩了",
+      "onboard_time": 1730333898,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 130422,
+      "num": 130422,
+      "word": "赵露思金鸡独立",
+      "onboard_time": 1730335459,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129670,
       "num": 129670,
       "word": "张百乔伴郎团好多熟人",
@@ -321,6 +553,14 @@
       "onboard_time": 1730303239,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126444,
+      "num": 126444,
+      "word": "T1教练想决赛零封BLG",
+      "onboard_time": 1730335158,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124767,
@@ -363,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117300,
-      "num": 117300,
-      "word": "多人跨省闪婚女方均在半年内离开",
-      "onboard_time": 1730320090,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116267,
       "num": 116267,
       "word": "阿斯利康中国总裁王磊配合调查",
@@ -385,14 +617,6 @@
       "onboard_time": 1730301322,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112333,
-      "num": 112333,
-      "word": "女子1次备好15天饭菜自制预制餐",
-      "onboard_time": 1730304199,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109427,
@@ -433,14 +657,6 @@
       "onboard_time": 1730300842,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94127,
-      "num": 94127,
-      "word": "爷爷用钢丝球帮孙女洗车",
-      "onboard_time": 1730330837,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93188,
@@ -587,6 +803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 44662,
+      "num": 131109,
+      "word": "130秒回顾神十九航天员乘组出征",
+      "onboard_time": 1730334799,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30692,
       "num": 30692,
       "word": "00后入殓师带清华教授干殡葬的一天",
@@ -617,6 +841,14 @@
       "onboard_time": 1730311931,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23855,
+      "num": 626862,
+      "word": "中国人上太空有人接的感觉太好了",
+      "onboard_time": 1730294779,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18158,
@@ -657,6 +889,14 @@
       "onboard_time": 1730315832,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15961,
+      "num": 345242,
+      "word": "中华文化学习笔记",
+      "onboard_time": 1730338639,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15131,
@@ -752,14 +992,6 @@
       "word": "村民称三蟒又做官又做生意",
       "onboard_time": 1730319671,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11586,
-      "num": 626862,
-      "word": "中国人上太空有人接的感觉太好了",
-      "onboard_time": 1730294779,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
