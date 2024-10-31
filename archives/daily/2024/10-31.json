@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730364058708,
+  "endTime": 1730366623550,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1736115,
-      "num": 402664,
+      "num": 483780,
       "word": "江歌妈网店多款产品销量为0",
       "onboard_time": 1730359819,
       "rank": 38,
@@ -59,8 +59,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1429022,
+      "num": 1429022,
+      "word": "权志龙回归先行曲上线",
+      "onboard_time": 1730365700,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1380975,
-      "num": 451465,
+      "num": 492526,
       "word": "朱桢称已照顾乔任梁父母多年",
       "onboard_time": 1730355141,
       "rank": 18,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 954121,
-      "num": 435787,
+      "num": 494949,
       "word": "金晨被北斗七行骗出国",
       "onboard_time": 1730351960,
       "rank": 30,
@@ -403,6 +411,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 496119,
+      "num": 496119,
+      "word": "中国2艘航母同框现场",
+      "onboard_time": 1730362760,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 495555,
       "num": 405542,
       "word": "12岁400斤女孩父亲决定卖房救女",
@@ -411,11 +427,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494328,
+      "num": 337122,
+      "word": "女装退货率高的原因找到了",
+      "onboard_time": 1730363178,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492829,
       "num": 492829,
       "word": "辽宁舰山东舰编队首次双航母编队演练",
       "onboard_time": 1730359338,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 483530,
+      "num": 483530,
+      "word": "双航母编队演练纯享视频来了",
+      "onboard_time": 1730363779,
+      "rank": 22,
       "category": "国内时政"
     },
     {
@@ -483,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409839,
+      "num": 409839,
+      "word": "陈好 侯明昊怎么能抹得开脸",
+      "onboard_time": 1730364620,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405826,
       "num": 412346,
       "word": "刘翔峰被判17年",
@@ -499,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395458,
+      "num": 325012,
+      "word": "摇粒绒凭什么统一全国人审美",
+      "onboard_time": 1730364558,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390043,
       "num": 390043,
       "word": "雷军预判小米su7ultra价格遭质疑",
@@ -513,6 +561,14 @@
       "onboard_time": 1730336659,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387564,
+      "num": 387564,
+      "word": "葛夕说麦琳好好离吧",
+      "onboard_time": 1730364197,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 384529,
@@ -585,6 +641,14 @@
       "onboard_time": 1730352981,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352515,
+      "num": 352515,
+      "word": "听泉鉴宝预测S14决赛比分",
+      "onboard_time": 1730365339,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 347759,
@@ -763,20 +827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272566,
-      "num": 209903,
-      "word": "女装退货率高的原因找到了",
-      "onboard_time": 1730363178,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267050,
       "num": 267050,
       "word": "跑腿小哥接到奇怪订单果断报警",
       "onboard_time": 1730343978,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265578,
+      "num": 265578,
+      "word": "一加13",
+      "onboard_time": 1730355378,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 264768,
@@ -931,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221062,
+      "num": 221062,
+      "word": "外交部回应朝向韩方发射洲际弹道导弹",
+      "onboard_time": 1730363300,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220376,
       "num": 220376,
       "word": "多人跨省闪婚女方均在半年内离开",
@@ -955,12 +1027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215310,
+      "num": 215310,
+      "word": "广州女子耳鸣厉害取出一只活蟑螂",
+      "onboard_time": 1730365579,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214244,
       "num": 214244,
       "word": "医生解答自制预制菜到底可不可行",
       "onboard_time": 1730339180,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213189,
+      "num": 490360,
+      "word": "50秒感受2艘中国航母同框演练",
+      "onboard_time": 1730366119,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212493,
@@ -1131,6 +1219,14 @@
       "category": "母婴育儿,健康医疗"
     },
     {
+      "raw_hot": 189911,
+      "num": 189911,
+      "word": "官方回应女生称拒绝搭讪被殴",
+      "onboard_time": 1730362940,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189837,
       "num": 349433,
       "word": "河南一男子投资千万建厂遭遇办证难",
@@ -1161,22 +1257,6 @@
       "onboard_time": 1730298143,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 186627,
-      "num": 222839,
-      "word": "双航母编队演练纯享视频来了",
-      "onboard_time": 1730363779,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 183487,
-      "num": 183487,
-      "word": "官方回应女生称拒绝搭讪被殴",
-      "onboard_time": 1730362940,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182798,
@@ -1275,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173997,
+      "num": 173997,
+      "word": "卫健局回应网传哺乳期妈妈代孕",
+      "onboard_time": 1730364318,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173562,
       "num": 173562,
       "word": "10月最后一天",
@@ -1289,14 +1377,6 @@
       "onboard_time": 1730343377,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172515,
-      "num": 217591,
-      "word": "外交部回应朝向韩方发射洲际弹道导弹",
-      "onboard_time": 1730363300,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 171110,
@@ -1331,20 +1411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163760,
+      "num": 163760,
+      "word": "周慧敏56岁状态",
+      "onboard_time": 1730365939,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "鲨鱼裤成为年轻人的新秋裤",
       "onboard_time": 1730292259,
       "rank": 25,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 160160,
-      "num": 160160,
-      "word": "中国2艘航母同框现场",
-      "onboard_time": 1730362760,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159799,
@@ -1371,12 +1451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156224,
+      "num": 156224,
+      "word": "一加发布会",
+      "onboard_time": 1730363837,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154620,
       "num": 154620,
       "word": "丁宁祝贺马龙",
       "onboard_time": 1730337260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154531,
+      "num": 154531,
+      "word": "一键分享冻态",
+      "onboard_time": 1730366418,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 152753,
@@ -1403,20 +1499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148735,
+      "num": 148735,
+      "word": "李嘉格说张馨予负责漂亮就好",
+      "onboard_time": 1730366418,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148150,
+      "num": 148150,
+      "word": "POWER",
+      "onboard_time": 1730366539,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146894,
       "num": 146894,
       "word": "男子组织多名十三四岁少女有偿陪侍",
       "onboard_time": 1730287878,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145502,
-      "num": 145502,
-      "word": "一加发布会",
-      "onboard_time": 1730363837,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 145118,
@@ -1441,6 +1545,14 @@
       "onboard_time": 1730296041,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143331,
+      "num": 143331,
+      "word": "深圳官方回应市民建议禁行电单车",
+      "onboard_time": 1730365219,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142700,
@@ -1523,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134127,
+      "num": 134127,
+      "word": "一加13手套触控",
+      "onboard_time": 1730365159,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133579,
       "num": 133579,
       "word": "洪知秀WVS发文",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1730335158,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126444,
+      "num": 126444,
+      "word": "麦琳哭了",
+      "onboard_time": 1730364498,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 126291,
@@ -2075,12 +2203,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 33958,
+      "num": 192675,
+      "word": "淘宝百亿补贴两台空调只要11块多",
+      "onboard_time": 1730365579,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 33415,
+      "num": 486836,
+      "word": "双11抄作业就抄天猫热卖王",
+      "onboard_time": 1730362639,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 32600,
       "num": 185812,
       "word": "寒潮预警保暖养生单品成热销主力军",
       "onboard_time": 1730358679,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32076,
+      "num": 1279818,
+      "word": "90秒回顾神舟飞天征途",
+      "onboard_time": 1730362519,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31953,
@@ -2163,14 +2315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27503,
-      "num": 221675,
-      "word": "双11抄作业就抄天猫热卖王",
-      "onboard_time": 1730362639,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 26374,
       "num": 28161,
       "word": "张振手艺",
@@ -2217,14 +2361,6 @@
       "onboard_time": 1730356339,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18903,
-      "num": 787388,
-      "word": "90秒回顾神舟飞天征途",
-      "onboard_time": 1730362519,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18158,

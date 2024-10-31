@@ -1,0 +1,410 @@
+{
+  "runTime": 1730366623550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714468,
+        "num": 1714468,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1429022,
+        "num": 1429022,
+        "word": "权志龙回归先行曲上线",
+        "onboard_time": 1730365700,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32076,
+        "num": 1279818,
+        "word": "90秒回顾神舟飞天征途",
+        "onboard_time": 1730362519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158443,
+        "num": 1158443,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546431,
+        "num": 546431,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 496119,
+        "num": 496119,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675842,
+        "num": 494949,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493719,
+        "num": 493719,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604044,
+        "num": 492526,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213189,
+        "num": 490360,
+        "word": "50秒感受2艘中国航母同框演练",
+        "onboard_time": 1730366119,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472730,
+        "num": 488490,
+        "word": "贝微微 你的大学也这样吗",
+        "onboard_time": 1730348660,
+        "rank": 10,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 33415,
+        "num": 486836,
+        "word": "双11抄作业就抄天猫热卖王",
+        "onboard_time": 1730362639,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 994221,
+        "num": 483780,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483530,
+        "num": 483530,
+        "word": "双航母编队演练纯享视频来了",
+        "onboard_time": 1730363779,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435567,
+        "num": 435567,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409839,
+        "num": 409839,
+        "word": "陈好 侯明昊怎么能抹得开脸",
+        "onboard_time": 1730364620,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387564,
+        "num": 387564,
+        "word": "葛夕说麦琳好好离吧",
+        "onboard_time": 1730364197,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377206,
+        "num": 377206,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352515,
+        "num": 352515,
+        "word": "听泉鉴宝预测S14决赛比分",
+        "onboard_time": 1730365339,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 352117,
+        "num": 352117,
+        "word": "花少6陪看vs花少5陪看",
+        "onboard_time": 1730352860,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494328,
+        "num": 337122,
+        "word": "女装退货率高的原因找到了",
+        "onboard_time": 1730363178,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395458,
+        "num": 325012,
+        "word": "摇粒绒凭什么统一全国人审美",
+        "onboard_time": 1730364558,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265578,
+        "num": 265578,
+        "word": "一加13",
+        "onboard_time": 1730355378,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255174,
+        "num": 255174,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221062,
+        "num": 221062,
+        "word": "外交部回应朝向韩方发射洲际弹道导弹",
+        "onboard_time": 1730363300,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220753,
+        "num": 220753,
+        "word": "翁青雅 礼物",
+        "onboard_time": 1730346440,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219345,
+        "num": 219345,
+        "word": "麦琳 我配拥有一杯咖啡吗",
+        "onboard_time": 1730353460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215310,
+        "num": 215310,
+        "word": "广州女子耳鸣厉害取出一只活蟑螂",
+        "onboard_time": 1730365579,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197845,
+        "num": 197845,
+        "word": "刘晓庆 你喜欢我说明我有魅力",
+        "onboard_time": 1730350401,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33958,
+        "num": 192675,
+        "word": "淘宝百亿补贴两台空调只要11块多",
+        "onboard_time": 1730365579,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191760,
+        "num": 191760,
+        "word": "赵露思哭了",
+        "onboard_time": 1730346679,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189911,
+        "num": 189911,
+        "word": "官方回应女生称拒绝搭讪被殴",
+        "onboard_time": 1730362940,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189747,
+        "num": 189747,
+        "word": "恩佐 分居",
+        "onboard_time": 1730354542,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173997,
+        "num": 173997,
+        "word": "卫健局回应网传哺乳期妈妈代孕",
+        "onboard_time": 1730364318,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173330,
+        "num": 173330,
+        "word": "心动的信号",
+        "onboard_time": 1730361199,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163760,
+        "num": 163760,
+        "word": "周慧敏56岁状态",
+        "onboard_time": 1730365939,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156224,
+        "num": 156224,
+        "word": "一加发布会",
+        "onboard_time": 1730363837,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155610,
+        "num": 155610,
+        "word": "黄圣依没有个人财产",
+        "onboard_time": 1730356941,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154531,
+        "num": 154531,
+        "word": "一键分享冻态",
+        "onboard_time": 1730366418,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153209,
+        "num": 153209,
+        "word": "狗狗就差直接开口说自己吐了",
+        "onboard_time": 1730360719,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148735,
+        "num": 148735,
+        "word": "李嘉格说张馨予负责漂亮就好",
+        "onboard_time": 1730366418,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148150,
+        "num": 148150,
+        "word": "POWER",
+        "onboard_time": 1730366539,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143331,
+        "num": 143331,
+        "word": "深圳官方回应市民建议禁行电单车",
+        "onboard_time": 1730365219,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29245,
+        "num": 142308,
+        "word": "天猫双11万省节",
+        "onboard_time": 1730361980,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141910,
+        "num": 141910,
+        "word": "12岁400斤女孩父亲决定卖房救女",
+        "onboard_time": 1730349621,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137212,
+        "num": 137212,
+        "word": "李耕耘直播",
+        "onboard_time": 1730362519,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134127,
+        "num": 134127,
+        "word": "一加13手套触控",
+        "onboard_time": 1730365159,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129902,
+        "num": 129902,
+        "word": "台风康妮登陆台湾台东",
+        "onboard_time": 1730358979,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129165,
+        "num": 129165,
+        "word": "台风康妮影响福建",
+        "onboard_time": 1730358439,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126444,
+        "num": 126444,
+        "word": "麦琳哭了",
+        "onboard_time": 1730364498,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调三个不#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/01 00:28:17 ~ 2024/10/31 16:40:58
+本榜单时间：2024/10/01 00:28:17 ~ 2024/10/31 17:23:43
 </p>
 </blockquote>
 <p>
@@ -2777,6 +2777,12 @@ T1战胜BLG（热度：1444060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E4%B8%89%E5%85%AC%E5%AD%90%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%90%8C%E9%80%9B%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
 旺旺三公子何猷君奚梦瑶同逛迪士尼（热度：1429651）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%9B%9E%E5%BD%92%E5%85%88%E8%A1%8C%E6%9B%B2%E4%B8%8A%E7%BA%BF%23" target="weibo">
+权志龙回归先行曲上线（热度：1429022）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ A股后续将迎第二波上涨行情（热度：964810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%E4%BC%8D%E4%BD%B0%E8%A2%AB%E8%AF%B4%E7%8C%A5%E7%90%90%23" target="weibo">
 张雪峰回应伍佰被说猥琐（热度：957384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%8C%E5%A0%A1%E6%A1%B6%E8%A2%AB%E6%8C%87%E7%8E%A9%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F%23" target="weibo">
-肯德基双堡桶被指玩文字游戏（热度：956580）
 </a>
 </li>
 
