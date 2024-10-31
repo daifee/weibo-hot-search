@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730374563259,
+  "endTime": 1730378553720,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -953,6 +953,14 @@
       "onboard_time": 1730169318,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1283444,
+      "num": 1283444,
+      "word": "陈好演技最差的一次",
+      "onboard_time": 1730374878,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1269511,
@@ -2499,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 657161,
+      "num": 197798,
+      "word": "刘亦菲度假十八宫格",
+      "onboard_time": 1730376857,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655747,
       "num": 396009,
       "word": "被虐致死男童生父希望从重处理女友",
@@ -3155,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536938,
+      "num": 536938,
+      "word": "烧伤妈妈最新恢复照片",
+      "onboard_time": 1730374100,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536743,
       "num": 368676,
       "word": "花少6陪看vs花少5陪看",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1730026998,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 489259,
+      "num": 489259,
+      "word": "覃海洋100蛙冠军",
+      "onboard_time": 1730374700,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 487673,
@@ -3939,6 +3971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 411062,
+      "num": 411062,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1730374399,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410842,
       "num": 559837,
       "word": "神二十神二十一任务2025实施",
@@ -4361,6 +4401,14 @@
       "onboard_time": 1730268080,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373528,
+      "num": 310864,
+      "word": "吴秀波成老赖",
+      "onboard_time": 1730373559,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 373213,
@@ -4977,14 +5025,6 @@
       "onboard_time": 1730357360,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310864,
-      "num": 310864,
-      "word": "吴秀波成老赖",
-      "onboard_time": 1730373559,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 310425,
@@ -5795,6 +5835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 261096,
+      "num": 193934,
+      "word": "周也在机场卸妆",
+      "onboard_time": 1730373798,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260327,
       "num": 260327,
       "word": "朴成训柳智敏cha了Whiplash",
@@ -5828,7 +5876,7 @@
     },
     {
       "raw_hot": 258875,
-      "num": 168060,
+      "num": 193257,
       "word": "孩子们为啥不买我的烤红薯",
       "onboard_time": 1730373619,
       "rank": 32,
@@ -6851,14 +6899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224170,
-      "num": 224170,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1730374399,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223584,
       "num": 223584,
       "word": "芈迭 情商",
@@ -7635,6 +7675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201788,
+      "num": 183400,
+      "word": "邓为素颜吃飞机餐",
+      "onboard_time": 1730377758,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201772,
       "num": 201772,
       "word": "皇马 金球奖",
@@ -7825,6 +7873,14 @@
       "onboard_time": 1730369239,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198523,
+      "num": 175788,
+      "word": "范丞丞新剧刚长大天就塌了",
+      "onboard_time": 1730377036,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 198485,
@@ -8336,14 +8392,6 @@
       "word": "河南一男子投资千万建厂遭遇办证难",
       "onboard_time": 1730357540,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189539,
-      "num": 166359,
-      "word": "烧伤妈妈最新恢复照片",
-      "onboard_time": 1730374100,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -9115,14 +9163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174251,
-      "num": 174251,
-      "word": "周也在机场卸妆",
-      "onboard_time": 1730373798,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174244,
       "num": 174244,
       "word": "刘青松 大家加油",
@@ -9225,6 +9265,14 @@
       "onboard_time": 1730195000,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172536,
+      "num": 172536,
+      "word": "赵露思红色亮片长裙",
+      "onboard_time": 1730374458,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172219,
@@ -9395,6 +9443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168737,
+      "num": 168737,
+      "word": "恩佐女友回应",
+      "onboard_time": 1730377158,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168631,
       "num": 168631,
       "word": "方灿疑似回应hybe",
@@ -9553,6 +9609,14 @@
       "onboard_time": 1730099418,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166313,
+      "num": 166313,
+      "word": "潘宏爱玩狗60秒广告报价9万",
+      "onboard_time": 1730376558,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166179,
@@ -10395,6 +10459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149589,
+      "num": 149589,
+      "word": "迪丽热巴的专属心动时刻",
+      "onboard_time": 1730375898,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149494,
       "num": 149494,
       "word": "彭小苒暗河传顶级刺客",
@@ -10867,14 +10939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139327,
-      "num": 139327,
-      "word": "赵露思红色亮片长裙",
-      "onboard_time": 1730374458,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139302,
       "num": 139302,
       "word": "时空中的绘旅人",
@@ -10996,7 +11060,7 @@
     },
     {
       "raw_hot": 136551,
-      "num": 136551,
+      "num": 147490,
       "word": "四川康定一车辆坠河6人失联后续",
       "onboard_time": 1730373919,
       "rank": 47,
@@ -11427,6 +11491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127672,
+      "num": 127672,
+      "word": "闫妮不愧是大满贯视后",
+      "onboard_time": 1730378419,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127397,
       "num": 127397,
       "word": "乔妍想要的不是身份而是平等",
@@ -11603,6 +11675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122889,
+      "num": 122889,
+      "word": "虞书欣凌妙妙反差感写真",
+      "onboard_time": 1730377696,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122792,
       "num": 122792,
       "word": "王俊凯白色牛仔清爽感",
@@ -11633,6 +11713,14 @@
       "onboard_time": 1730007319,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122021,
+      "num": 122021,
+      "word": "狗狗 大小姐我来接你了",
+      "onboard_time": 1730376798,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 121950,
@@ -11809,6 +11897,22 @@
       "onboard_time": 1730172500,
       "rank": 35,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 114888,
+      "num": 114888,
+      "word": "珠帘玉幕三有女主",
+      "onboard_time": 1730378057,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114642,
+      "num": 114642,
+      "word": "朝鲜试射洲际弹道导弹",
+      "onboard_time": 1730374579,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 114379,
@@ -12075,6 +12179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104277,
+      "num": 104277,
+      "word": "华为前三季度营收5859亿",
+      "onboard_time": 1730378537,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104130,
       "num": 179763,
       "word": "给大熊猫测血压分几步",
@@ -12193,6 +12305,14 @@
       "onboard_time": 1730022981,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100204,
+      "num": 196771,
+      "word": "这就是秋天里的大美中国",
+      "onboard_time": 1730378297,
+      "rank": 12,
+      "category": "旅游"
     },
     {
       "raw_hot": 99284,
@@ -13323,6 +13443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48362,
+      "num": 194157,
+      "word": "古茗魏婴无人机庆生",
+      "onboard_time": 1730377278,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47550,
       "num": 68667,
       "word": "郭刚堂用24年找到儿子余生终圆满",
@@ -13424,6 +13552,14 @@
       "word": "那些决定买房的年轻人",
       "onboard_time": 1730001617,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44179,
+      "num": 147323,
+      "word": "大型剧本杀会是下一个文旅新风口吗",
+      "onboard_time": 1730376439,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -14019,6 +14155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32333,
+      "num": 195947,
+      "word": "225户业主全款买铺被告知从未出售",
+      "onboard_time": 1730377036,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32283,
       "num": 623790,
       "word": "以色列一天2起汽车冲撞人群事件",
@@ -14161,6 +14305,14 @@
       "onboard_time": 1730049194,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30801,
+      "num": 147783,
+      "word": "双11今晚在天猫五折抢爆款",
+      "onboard_time": 1730377879,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 30692,
@@ -14376,6 +14528,14 @@
       "word": "抢学生外卖扔垃圾桶应追究法律责任",
       "onboard_time": 1730294239,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28361,
+      "num": 581580,
+      "word": "11月起这些新规影响你我生活",
+      "onboard_time": 1730362279,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -14849,6 +15009,14 @@
       "onboard_time": 1730192840,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20274,
+      "num": 168896,
+      "word": "iPhone16立减1600抢到就是赚到",
+      "onboard_time": 1730376198,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 20017,
@@ -15369,6 +15537,14 @@
       "onboard_time": 1730016018,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 6449,
+      "num": 196584,
+      "word": "终于知道金毛的嘴有多大了",
+      "onboard_time": 1730376020,
+      "rank": 13,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

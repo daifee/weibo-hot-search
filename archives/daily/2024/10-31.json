@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730374563259,
+  "endTime": 1730378553720,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -113,6 +113,14 @@
       "onboard_time": 1730307015,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1283444,
+      "num": 1283444,
+      "word": "陈好演技最差的一次",
+      "onboard_time": 1730374878,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1235232,
@@ -315,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 657161,
+      "num": 197798,
+      "word": "刘亦菲度假十八宫格",
+      "onboard_time": 1730376857,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657127,
       "num": 305545,
       "word": "彭高翁青雅 线下be",
@@ -419,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 536938,
+      "num": 536938,
+      "word": "烧伤妈妈最新恢复照片",
+      "onboard_time": 1730374100,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536743,
       "num": 368676,
       "word": "花少6陪看vs花少5陪看",
@@ -481,6 +505,14 @@
       "onboard_time": 1730359338,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 489259,
+      "num": 489259,
+      "word": "覃海洋100蛙冠军",
+      "onboard_time": 1730374700,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 486585,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411062,
+      "num": 411062,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1730374399,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405826,
       "num": 412346,
       "word": "刘翔峰被判17年",
@@ -649,6 +689,14 @@
       "onboard_time": 1730328494,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373528,
+      "num": 310864,
+      "word": "吴秀波成老赖",
+      "onboard_time": 1730373559,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 370062,
@@ -785,14 +833,6 @@
       "onboard_time": 1730357360,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310864,
-      "num": 310864,
-      "word": "吴秀波成老赖",
-      "onboard_time": 1730373559,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 307586,
@@ -947,8 +987,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261096,
+      "num": 193934,
+      "word": "周也在机场卸妆",
+      "onboard_time": 1730373798,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258875,
-      "num": 168060,
+      "num": 193257,
       "word": "孩子们为啥不买我的烤红薯",
       "onboard_time": 1730373619,
       "rank": 32,
@@ -1089,14 +1137,6 @@
       "onboard_time": 1730358860,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224170,
-      "num": 224170,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1730374399,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 223164,
@@ -1283,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201788,
+      "num": 183400,
+      "word": "邓为素颜吃飞机餐",
+      "onboard_time": 1730377758,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199734,
       "num": 216500,
       "word": "南波万的聚会3定档",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1730369239,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198523,
+      "num": 175788,
+      "word": "范丞丞新剧刚长大天就塌了",
+      "onboard_time": 1730377036,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 198485,
@@ -1392,14 +1448,6 @@
       "word": "河南一男子投资千万建厂遭遇办证难",
       "onboard_time": 1730357540,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189539,
-      "num": 166359,
-      "word": "烧伤妈妈最新恢复照片",
-      "onboard_time": 1730374100,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1563,14 +1611,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 174251,
-      "num": 174251,
-      "word": "周也在机场卸妆",
-      "onboard_time": 1730373798,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174097,
       "num": 174097,
       "word": "我进所有名牌店看价格",
@@ -1619,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172536,
+      "num": 172536,
+      "word": "赵露思红色亮片长裙",
+      "onboard_time": 1730374458,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171110,
       "num": 405689,
       "word": "被老师打破头骨女孩可以上学了",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1730352920,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168737,
+      "num": 168737,
+      "word": "恩佐女友回应",
+      "onboard_time": 1730377158,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 168433,
@@ -1656,6 +1712,14 @@
       "word": "班主任放狠话全家都死了就不用签字",
       "onboard_time": 1730340017,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166313,
+      "num": 166313,
+      "word": "潘宏爱玩狗60秒广告报价9万",
+      "onboard_time": 1730376558,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1787,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149589,
+      "num": 149589,
+      "word": "迪丽热巴的专属心动时刻",
+      "onboard_time": 1730375898,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147367,
       "num": 147367,
       "word": "陈都灵演完女神演女妖",
@@ -1899,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139327,
-      "num": 139327,
-      "word": "赵露思红色亮片长裙",
-      "onboard_time": 1730374458,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 137919,
       "num": 297739,
       "word": "权志龙出歌melon崩了",
@@ -1932,7 +1996,7 @@
     },
     {
       "raw_hot": 136551,
-      "num": 136551,
+      "num": 147490,
       "word": "四川康定一车辆坠河6人失联后续",
       "onboard_time": 1730373919,
       "rank": 47,
@@ -2003,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127672,
+      "num": 127672,
+      "word": "闫妮不愧是大满贯视后",
+      "onboard_time": 1730378419,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127142,
       "num": 81586,
       "word": "老鼠啃包子茶餐厅涉事员工已停职",
@@ -2067,12 +2139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122889,
+      "num": 122889,
+      "word": "虞书欣凌妙妙反差感写真",
+      "onboard_time": 1730377696,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122792,
       "num": 122792,
       "word": "王俊凯白色牛仔清爽感",
       "onboard_time": 1730371158,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122021,
+      "num": 122021,
+      "word": "狗狗 大小姐我来接你了",
+      "onboard_time": 1730376798,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 121950,
@@ -2131,6 +2219,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114888,
+      "num": 114888,
+      "word": "珠帘玉幕三有女主",
+      "onboard_time": 1730378057,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114642,
+      "num": 114642,
+      "word": "朝鲜试射洲际弹道导弹",
+      "onboard_time": 1730374579,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 109427,
       "num": 109427,
       "word": "陶陶居被曝老鼠在后厨疯狂吃包子",
@@ -2179,6 +2283,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 104277,
+      "num": 104277,
+      "word": "华为前三季度营收5859亿",
+      "onboard_time": 1730378537,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103279,
       "num": 226085,
       "word": "赵丽颖东京电影节活动人气",
@@ -2201,6 +2313,14 @@
       "onboard_time": 1730360179,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100204,
+      "num": 196771,
+      "word": "这就是秋天里的大美中国",
+      "onboard_time": 1730378297,
+      "rank": 12,
+      "category": "旅游"
     },
     {
       "raw_hot": 95578,
@@ -2483,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48362,
+      "num": 194157,
+      "word": "古茗魏婴无人机庆生",
+      "onboard_time": 1730377278,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47550,
       "num": 68667,
       "word": "郭刚堂用24年找到儿子余生终圆满",
@@ -2520,6 +2648,14 @@
       "word": "130秒回顾神十九航天员乘组出征",
       "onboard_time": 1730334799,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44179,
+      "num": 147323,
+      "word": "大型剧本杀会是下一个文旅新风口吗",
+      "onboard_time": 1730376439,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32333,
+      "num": 195947,
+      "word": "225户业主全款买铺被告知从未出售",
+      "onboard_time": 1730377036,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32231,
       "num": 188716,
       "word": "姚明遗憾国家队表现未达到预期",
@@ -2683,6 +2827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 30801,
+      "num": 147783,
+      "word": "双11今晚在天猫五折抢爆款",
+      "onboard_time": 1730377879,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30692,
       "num": 30692,
       "word": "00后入殓师带清华教授干殡葬的一天",
@@ -2721,6 +2873,14 @@
       "onboard_time": 1730361980,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28361,
+      "num": 581580,
+      "word": "11月起这些新规影响你我生活",
+      "onboard_time": 1730362279,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28280,
@@ -2809,6 +2969,14 @@
       "onboard_time": 1730356339,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20274,
+      "num": 168896,
+      "word": "iPhone16立减1600抢到就是赚到",
+      "onboard_time": 1730376198,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 18158,
@@ -2985,6 +3153,14 @@
       "onboard_time": 1730355199,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6449,
+      "num": 196584,
+      "word": "终于知道金毛的嘴有多大了",
+      "onboard_time": 1730376020,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 4664,

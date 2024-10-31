@@ -1,0 +1,410 @@
+{
+  "runTime": 1730378553720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1283444,
+        "num": 1283444,
+        "word": "陈好演技最差的一次",
+        "onboard_time": 1730374878,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634761,
+        "num": 634761,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28361,
+        "num": 581580,
+        "word": "11月起这些新规影响你我生活",
+        "onboard_time": 1730362279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536938,
+        "num": 536938,
+        "word": "烧伤妈妈最新恢复照片",
+        "onboard_time": 1730374100,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489259,
+        "num": 489259,
+        "word": "覃海洋100蛙冠军",
+        "onboard_time": 1730374700,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411062,
+        "num": 411062,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1730374399,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344984,
+        "num": 344984,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303654,
+        "num": 303654,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298783,
+        "num": 298783,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197937,
+        "num": 197937,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657161,
+        "num": 197798,
+        "word": "刘亦菲度假十八宫格",
+        "onboard_time": 1730376857,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373528,
+        "num": 197443,
+        "word": "吴秀波成老赖",
+        "onboard_time": 1730373559,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100204,
+        "num": 196771,
+        "word": "这就是秋天里的大美中国",
+        "onboard_time": 1730378297,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 6449,
+        "num": 196584,
+        "word": "终于知道金毛的嘴有多大了",
+        "onboard_time": 1730376020,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32333,
+        "num": 195947,
+        "word": "225户业主全款买铺被告知从未出售",
+        "onboard_time": 1730377036,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695711,
+        "num": 195393,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348221,
+        "num": 195077,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299908,
+        "num": 194822,
+        "word": "难听",
+        "onboard_time": 1730367257,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48362,
+        "num": 194157,
+        "word": "古茗魏婴无人机庆生",
+        "onboard_time": 1730377278,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261096,
+        "num": 193934,
+        "word": "周也在机场卸妆",
+        "onboard_time": 1730373798,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248496,
+        "num": 193257,
+        "word": "孩子们为啥不买我的烤红薯",
+        "onboard_time": 1730373619,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193110,
+        "num": 193110,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 217748,
+        "num": 192513,
+        "word": "12岁女生一天3杯速溶咖啡导致贫血",
+        "onboard_time": 1730371100,
+        "rank": 22,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 201788,
+        "num": 183400,
+        "word": "邓为素颜吃飞机餐",
+        "onboard_time": 1730377758,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200828,
+        "num": 178257,
+        "word": "两种性格的人容易得抑郁症",
+        "onboard_time": 1730366718,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198523,
+        "num": 175788,
+        "word": "范丞丞新剧刚长大天就塌了",
+        "onboard_time": 1730377036,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172536,
+        "num": 172536,
+        "word": "赵露思红色亮片长裙",
+        "onboard_time": 1730374458,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157989,
+        "num": 169222,
+        "word": "权志龙回归先行曲上线",
+        "onboard_time": 1730365700,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20274,
+        "num": 168896,
+        "word": "iPhone16立减1600抢到就是赚到",
+        "onboard_time": 1730376198,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 168772,
+        "word": "陈好 侯明昊怎么能抹得开脸",
+        "onboard_time": 1730364620,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168737,
+        "num": 168737,
+        "word": "恩佐女友回应",
+        "onboard_time": 1730377158,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166313,
+        "num": 166313,
+        "word": "潘宏爱玩狗60秒广告报价9万",
+        "onboard_time": 1730376558,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153323,
+        "num": 153323,
+        "word": "王楚钦王曼昱领衔出战法兰克福冠军赛",
+        "onboard_time": 1730373977,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152474,
+        "num": 152474,
+        "word": "女装退货率高的原因找到了",
+        "onboard_time": 1730363178,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149589,
+        "num": 149589,
+        "word": "迪丽热巴的专属心动时刻",
+        "onboard_time": 1730375898,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30801,
+        "num": 147783,
+        "word": "双11今晚在天猫五折抢爆款",
+        "onboard_time": 1730377879,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91471,
+        "num": 147490,
+        "word": "四川康定一车辆坠河6人失联后续",
+        "onboard_time": 1730373919,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44179,
+        "num": 147323,
+        "word": "大型剧本杀会是下一个文旅新风口吗",
+        "onboard_time": 1730376439,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147225,
+        "num": 147225,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140686,
+        "num": 140686,
+        "word": "警方回应博主称在野外发现一具白骨",
+        "onboard_time": 1730367737,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138318,
+        "num": 138318,
+        "word": "50秒感受2艘中国航母同框演练",
+        "onboard_time": 1730366119,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134594,
+        "num": 134594,
+        "word": "为什么王俊凯吃的蛋糕都是蓝色的",
+        "onboard_time": 1730368938,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127672,
+        "num": 127672,
+        "word": "闫妮不愧是大满贯视后",
+        "onboard_time": 1730378419,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122889,
+        "num": 122889,
+        "word": "虞书欣凌妙妙反差感写真",
+        "onboard_time": 1730377696,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122021,
+        "num": 122021,
+        "word": "狗狗 大小姐我来接你了",
+        "onboard_time": 1730376798,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114976,
+        "num": 114976,
+        "word": "马伊琍 演唱会",
+        "onboard_time": 1730367679,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114888,
+        "num": 114888,
+        "word": "珠帘玉幕三有女主",
+        "onboard_time": 1730378057,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114642,
+        "num": 114642,
+        "word": "朝鲜试射洲际弹道导弹",
+        "onboard_time": 1730374579,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105812,
+        "num": 105812,
+        "word": "摇粒绒凭什么统一全国人审美",
+        "onboard_time": 1730364558,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104277,
+        "num": 104277,
+        "word": "华为前三季度营收5859亿",
+        "onboard_time": 1730378537,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈锚定建成文化强国战略目标#"
+    }
+  }
+}
