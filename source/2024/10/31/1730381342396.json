@@ -1,0 +1,410 @@
+{
+  "runTime": 1730381342396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990462,
+        "num": 1158473,
+        "word": "陈好演技最差的一次",
+        "onboard_time": 1730374878,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485091,
+        "num": 485091,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21153,
+        "num": 482858,
+        "word": "11月起这些新规影响你我生活",
+        "onboard_time": 1730362279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316236,
+        "num": 482828,
+        "word": "韩媒拍的虞书欣",
+        "onboard_time": 1730380039,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480674,
+        "num": 480674,
+        "word": "上海回应明天是否会台风停课",
+        "onboard_time": 1730379198,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383161,
+        "num": 383161,
+        "word": "烧伤妈妈最新恢复照片",
+        "onboard_time": 1730374100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935565,
+        "num": 377520,
+        "word": "乔任梁父母称网上遗体照是二次伤害",
+        "onboard_time": 1730379019,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362985,
+        "num": 362985,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331377,
+        "num": 331377,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24575,
+        "num": 328796,
+        "word": "教师管理学生心切也不能失去尊重",
+        "onboard_time": 1730380279,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836527,
+        "num": 326760,
+        "word": "车辆坠河23天后疑发现准新娘遗体",
+        "onboard_time": 1730379740,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805407,
+        "num": 324476,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732163,
+        "num": 322203,
+        "word": "被举报虐狗的网红训狗师停播",
+        "onboard_time": 1730379858,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19175,
+        "num": 320225,
+        "word": "今晚还是在天猫凑了个大单",
+        "onboard_time": 1730379618,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18112,
+        "num": 316925,
+        "word": "医疗机构诱导参保人员无指征住院",
+        "onboard_time": 1730380399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45695,
+        "num": 314894,
+        "word": "古茗魏婴无人机庆生",
+        "onboard_time": 1730377278,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313177,
+        "num": 313177,
+        "word": "覃海洋100蛙冠军",
+        "onboard_time": 1730374700,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27154,
+        "num": 312367,
+        "word": "双11今晚在天猫五折抢爆款",
+        "onboard_time": 1730377879,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38405,
+        "num": 307241,
+        "word": "刘德华看白宇想起年轻时的自己",
+        "onboard_time": 1730381058,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16590,
+        "num": 303772,
+        "word": "当地回应村民称父亲坟墓被煤企挖坏",
+        "onboard_time": 1730379978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492152,
+        "num": 300075,
+        "word": "刘亦菲度假十八宫格",
+        "onboard_time": 1730376857,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298316,
+        "num": 298316,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1730374399,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415265,
+        "num": 298054,
+        "word": "邓为素颜吃飞机餐",
+        "onboard_time": 1730377758,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276415,
+        "num": 276415,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267537,
+        "num": 267537,
+        "word": "范丞丞新剧刚长大天就塌了",
+        "onboard_time": 1730377036,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260383,
+        "num": 260383,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 259704,
+        "num": 259704,
+        "word": "男子找5个对象同住一小区隐瞒4年",
+        "onboard_time": 1730380218,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251131,
+        "num": 251131,
+        "word": "迪丽热巴高定裤装look",
+        "onboard_time": 1730381058,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240026,
+        "num": 240026,
+        "word": "难听",
+        "onboard_time": 1730367257,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239586,
+        "num": 239586,
+        "word": "家属回应打工女孩晕倒摔进油锅",
+        "onboard_time": 1730379139,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19299,
+        "num": 238286,
+        "word": "如何看待硬装结束雷军进场",
+        "onboard_time": 1730379318,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237189,
+        "num": 237189,
+        "word": "女子怀孕后被代孕机构拉黑",
+        "onboard_time": 1730380458,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211742,
+        "num": 211742,
+        "word": "迪丽热巴的专属心动时刻",
+        "onboard_time": 1730375898,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208468,
+        "num": 208468,
+        "word": "闵塔鲨 敷衍",
+        "onboard_time": 1730380701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198673,
+        "num": 198673,
+        "word": "鹿晗直播",
+        "onboard_time": 1730380999,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195860,
+        "num": 195860,
+        "word": "12岁女生一天3杯速溶咖啡导致贫血",
+        "onboard_time": 1730371100,
+        "rank": 35,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 194639,
+        "num": 194639,
+        "word": "马嘉祺写在秋天的信",
+        "onboard_time": 1730380519,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193520,
+        "num": 193520,
+        "word": "两种性格的人容易得抑郁症",
+        "onboard_time": 1730366718,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192443,
+        "num": 192443,
+        "word": "闫妮不愧是大满贯视后",
+        "onboard_time": 1730378419,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191963,
+        "num": 191963,
+        "word": "吴秀波成老赖",
+        "onboard_time": 1730373559,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183857,
+        "num": 183857,
+        "word": "赵露思红色亮片长裙",
+        "onboard_time": 1730374458,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 180487,
+        "word": "小巷人家 好看",
+        "onboard_time": 1730380878,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163107,
+        "num": 163107,
+        "word": "女装退货率高的原因找到了",
+        "onboard_time": 1730363178,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160603,
+        "num": 160603,
+        "word": "孩子们为啥不买我的烤红薯",
+        "onboard_time": 1730373619,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156451,
+        "num": 156451,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153843,
+        "num": 153843,
+        "word": "恩佐女友回应",
+        "onboard_time": 1730377158,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152336,
+        "num": 152336,
+        "word": "潘宏爱玩狗60秒广告报价9万",
+        "onboard_time": 1730376558,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138318,
+        "num": 138318,
+        "word": "权志龙回归先行曲上线",
+        "onboard_time": 1730365700,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136435,
+        "num": 136435,
+        "word": "终于懂了什么叫做字如其人",
+        "onboard_time": 1730379740,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127419,
+        "num": 127419,
+        "word": "王楚钦王曼昱领衔出战法兰克福冠军赛",
+        "onboard_time": 1730373977,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈锚定建成文化强国战略目标#"
+    }
+  }
+}
