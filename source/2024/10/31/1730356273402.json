@@ -1,0 +1,410 @@
+{
+  "runTime": 1730356273402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5320364,
+        "num": 5320364,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1483486,
+        "num": 1483486,
+        "word": "贝微微 你的大学也这样吗",
+        "onboard_time": 1730348660,
+        "rank": 1,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 36307,
+        "num": 1356287,
+        "word": "太空中的中国式浪漫",
+        "onboard_time": 1730344458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1355225,
+        "num": 1355225,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443746,
+        "num": 443746,
+        "word": "朝鲜宣布试射洲际弹道导弹",
+        "onboard_time": 1730345119,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 423171,
+        "num": 423171,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954121,
+        "num": 380406,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543270,
+        "num": 367628,
+        "word": "麦琳 我配拥有一杯咖啡吗",
+        "onboard_time": 1730353460,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320525,
+        "num": 320525,
+        "word": "刘翔峰被判17年",
+        "onboard_time": 1730349321,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46149,
+        "num": 319471,
+        "word": "姐姐为亡弟追凶26年从未想过放弃",
+        "onboard_time": 1730354660,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616480,
+        "num": 318310,
+        "word": "保定多名男子围殴4名女高中生",
+        "onboard_time": 1730349381,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523267,
+        "num": 316690,
+        "word": "花少6陪看vs花少5陪看",
+        "onboard_time": 1730352860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458760,
+        "num": 316489,
+        "word": "恩佐 分居",
+        "onboard_time": 1730354542,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360226,
+        "num": 314648,
+        "word": "敖犬领证",
+        "onboard_time": 1730352981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351815,
+        "num": 312685,
+        "word": "朱桢将报警",
+        "onboard_time": 1730350282,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31191,
+        "num": 312198,
+        "word": "华为见非凡品牌计划",
+        "onboard_time": 1730353100,
+        "rank": 15,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 207215,
+        "num": 310740,
+        "word": "蒲熠星 戒断中",
+        "onboard_time": 1730354898,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26402,
+        "num": 308957,
+        "word": "京东月黑风高空调11.11元",
+        "onboard_time": 1730353820,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327170,
+        "num": 307472,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105665,
+        "num": 306051,
+        "word": "中国高层住宅未来会贫民窟化吗",
+        "onboard_time": 1730354780,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343572,
+        "num": 305346,
+        "word": "保定被殴女高中生发声",
+        "onboard_time": 1730348120,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 304002,
+        "word": "鞠婧祎和羽绒服的适配度",
+        "onboard_time": 1730351001,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 639095,
+        "num": 302605,
+        "word": "赵露思哭了",
+        "onboard_time": 1730346679,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388870,
+        "num": 301530,
+        "word": "男子用滚筒洗衣机3年才发现用错",
+        "onboard_time": 1730348780,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384529,
+        "num": 300067,
+        "word": "宝宝呛奶窒息爷爷急晕",
+        "onboard_time": 1730351719,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 299098,
+        "num": 299098,
+        "word": "杨子黄圣依结婚17年再试婚",
+        "onboard_time": 1730354119,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280369,
+        "num": 280369,
+        "word": "12岁400斤女孩父亲决定卖房救女",
+        "onboard_time": 1730349621,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278664,
+        "num": 278664,
+        "word": "刘晓庆 你喜欢我说明我有魅力",
+        "onboard_time": 1730350401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276031,
+        "num": 276031,
+        "word": "留几手下跪",
+        "onboard_time": 1730352080,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272874,
+        "num": 272874,
+        "word": "南昌一19岁男生捅死22岁女生",
+        "onboard_time": 1730355859,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242978,
+        "num": 242978,
+        "word": "孙颖莎回家也在训练",
+        "onboard_time": 1730355618,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235637,
+        "num": 235637,
+        "word": "心动的信号节目组希望大家理智追综",
+        "onboard_time": 1730351719,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233892,
+        "num": 233892,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232159,
+        "num": 232159,
+        "word": "韩日称朝鲜导弹破历史纪录",
+        "onboard_time": 1730355680,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231875,
+        "num": 231875,
+        "word": "吴奇隆带儿子买冰淇淋",
+        "onboard_time": 1730355440,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227329,
+        "num": 227329,
+        "word": "杨紫连续两年说准MLB冠军",
+        "onboard_time": 1730356039,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 219708,
+        "num": 219708,
+        "word": "26岁渐冻症女生逐渐学会面对死亡",
+        "onboard_time": 1730336901,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214085,
+        "num": 214085,
+        "word": "翁青雅 礼物",
+        "onboard_time": 1730346440,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9957,
+        "num": 206850,
+        "word": "没人能在盘发这块打败刘亦菲",
+        "onboard_time": 1730355199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 204419,
+        "word": "院人全年无休计划又接上了",
+        "onboard_time": 1730355859,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203363,
+        "num": 203363,
+        "word": "马龙说的passion是什么意思",
+        "onboard_time": 1730349142,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188186,
+        "num": 188186,
+        "word": "学校回应班主任称全家都死了就不用签字",
+        "onboard_time": 1730339777,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187744,
+        "num": 187744,
+        "word": "王栎鑫苏醒俞灏明 微坦铁坦重坦",
+        "onboard_time": 1730354780,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183627,
+        "num": 183627,
+        "word": "东北盒饭出现在美国早市2小时售罄",
+        "onboard_time": 1730354598,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182842,
+        "num": 182842,
+        "word": "房贷利率重新定价不必再等1年",
+        "onboard_time": 1730339777,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 178875,
+        "num": 178875,
+        "word": "成都回应女子代孕怀上后遭机构拉黑",
+        "onboard_time": 1730349081,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175777,
+        "num": 175777,
+        "word": "你猜张艺兴为什么嘴角向下",
+        "onboard_time": 1730353342,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175410,
+        "num": 175410,
+        "word": "花少 人设",
+        "onboard_time": 1730350760,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173413,
+        "num": 173413,
+        "word": "南昌工学院回应发生持刀伤人事件",
+        "onboard_time": 1730355980,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171110,
+        "num": 171110,
+        "word": "被老师打破头骨女孩可以上学了",
+        "onboard_time": 1730351601,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国人探索太空的脚步迈得更稳更远#"
+    }
+  }
+}
