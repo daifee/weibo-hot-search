@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730393062644,
+  "endTime": 1730395275747,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1730074878,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453519,
+      "num": 517007,
+      "word": "主人去世狗狗在主人墓前守护2年",
+      "onboard_time": 1730392157,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452833,
@@ -12324,7 +12332,7 @@
     },
     {
       "raw_hot": 115863,
-      "num": 119931,
+      "num": 125759,
       "word": "拉萨地震",
       "onboard_time": 1730391797,
       "rank": 34,
@@ -12912,14 +12920,6 @@
       "word": "为什么我们越来越讨厌接电话",
       "onboard_time": 1730080877,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92127,
-      "num": 92127,
-      "word": "主人去世狗狗在主人墓前守护2年",
-      "onboard_time": 1730392157,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -13811,6 +13811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55494,
+      "num": 55494,
+      "word": "POWER歌词",
+      "onboard_time": 1730393896,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 55100,
       "num": 388498,
       "word": "贵阳一景区内村民拦路收费",
@@ -14401,6 +14409,14 @@
       "onboard_time": 1730128702,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37870,
+      "num": 49381,
+      "word": "权志龙POWER空降成绩",
+      "onboard_time": 1730386640,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 37645,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730393062644,
+  "endTime": 1730395275747,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -64,6 +64,14 @@
       "word": "女子怀孕后被代孕机构拉黑",
       "onboard_time": 1730380458,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453519,
+      "num": 517007,
+      "word": "主人去世狗狗在主人墓前守护2年",
+      "onboard_time": 1730392157,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 115863,
-      "num": 119931,
+      "num": 125759,
       "word": "拉萨地震",
       "onboard_time": 1730391797,
       "rank": 34,
@@ -345,14 +353,6 @@
       "onboard_time": 1730387120,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92127,
-      "num": 92127,
-      "word": "主人去世狗狗在主人墓前守护2年",
-      "onboard_time": 1730392157,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89885,
@@ -425,6 +425,30 @@
       "onboard_time": 1730388918,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55494,
+      "num": 55494,
+      "word": "POWER歌词",
+      "onboard_time": 1730393896,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 38222,
+      "num": 49469,
+      "word": "邓为素颜吃飞机餐",
+      "onboard_time": 1730377758,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37870,
+      "num": 49381,
+      "word": "权志龙POWER空降成绩",
+      "onboard_time": 1730386640,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

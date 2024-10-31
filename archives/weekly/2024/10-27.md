@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/10/27 00:25:49 ~ 2024/11/01 00:44:22
+本榜单时间：2024/10/27 00:25:49 ~ 2024/11/01 01:21:15
 </p>
 </blockquote>
 <p>
@@ -2921,6 +2921,12 @@ BLG决赛对战T1（热度：460801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E5%BE%B7%E9%9B%95%E5%83%8F%E8%B1%86%E8%85%90%E6%B8%A3%E5%B7%A5%E7%A8%8B%23" target="weibo">
 韦德雕像豆腐渣工程（热度：454296）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%8B%97%E7%8B%97%E5%9C%A8%E4%B8%BB%E4%BA%BA%E5%A2%93%E5%89%8D%E5%AE%88%E6%8A%A42%E5%B9%B4%23" target="weibo">
+主人去世狗狗在主人墓前守护2年（热度：453519）
 </a>
 </li>
 
@@ -9699,12 +9705,6 @@ AG对战eStar（热度：93243）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%8B%97%E7%8B%97%E5%9C%A8%E4%B8%BB%E4%BA%BA%E5%A2%93%E5%89%8D%E5%AE%88%E6%8A%A42%E5%B9%B4%23" target="weibo">
-主人去世狗狗在主人墓前守护2年（热度：92127）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%89%AF%E9%A6%86%E9%95%BF%E4%B8%BA%E6%95%9B%E8%B4%A2%E6%94%B9%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86%23" target="weibo">
 殡仪馆副馆长为敛财改收费标准（热度：90561）
 </a>
@@ -10371,6 +10371,12 @@ T1 我们终于成功复仇（热度：56342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23POWER%E6%AD%8C%E8%AF%8D%23" target="weibo">
+POWER歌词（热度：55494）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E4%B8%80%E6%99%AF%E5%8C%BA%E5%86%85%E6%9D%91%E6%B0%91%E6%8B%A6%E8%B7%AF%E6%94%B6%E8%B4%B9%23" target="weibo">
 贵阳一景区内村民拦路收费（热度：55100）
 </a>
@@ -10811,6 +10817,12 @@ iQOO13价格（热度：51949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E8%92%8B%E6%AC%A3%E6%96%B0%E5%89%A7%E9%82%BB%E5%B1%85%E5%A4%84%E6%88%90%E5%A7%90%E5%A6%B9%23" target="weibo">
 闫妮蒋欣新剧邻居处成姐妹（热度：37942）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99POWER%E7%A9%BA%E9%99%8D%E6%88%90%E7%BB%A9%23" target="weibo">
+权志龙POWER空降成绩（热度：37870）
 </a>
 </li>
 
