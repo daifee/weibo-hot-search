@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730396408851,
+  "endTime": 1730399424678,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60180,
+      "num": 81910,
+      "word": "上海或将迎1981年来11月最大降雨",
+      "onboard_time": 1730394974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58355,
       "num": 492186,
       "word": "我国自主研制最大直径盾构机下线",
@@ -475,12 +483,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21427,
-      "num": 81910,
-      "word": "上海或将迎1981年来11月最大降雨",
-      "onboard_time": 1730394974,
-      "rank": 9,
+      "raw_hot": 24286,
+      "num": 24979,
+      "word": "50秒感受2艘中国航母同框演练",
+      "onboard_time": 1730366119,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24155,
+      "num": 24979,
+      "word": "李海玉抱父遗照在弟弟坟前痛哭",
+      "onboard_time": 1730398152,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23605,
+      "num": 24978,
+      "word": "道奇战胜扬基夺MLB总冠军",
+      "onboard_time": 1730398632,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20146,
+      "num": 39217,
+      "word": "我国首位女性航天飞行工程师王浩泽",
+      "onboard_time": 1730397373,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16291,
+      "num": 58172,
+      "word": "神十九发射任务全过程回顾",
+      "onboard_time": 1730397072,
+      "rank": 19,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
