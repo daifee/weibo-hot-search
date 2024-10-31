@@ -1,0 +1,410 @@
+{
+  "runTime": 1730374563259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093028,
+        "num": 1174884,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 814598,
+        "num": 814598,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15451,
+        "num": 618105,
+        "word": "全国网络普法行安徽站",
+        "onboard_time": 1730374158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474870,
+        "num": 474870,
+        "word": "马伊琍 演唱会",
+        "onboard_time": 1730367679,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 431647,
+        "num": 431647,
+        "word": "姚明离任",
+        "onboard_time": 1730369178,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343758,
+        "num": 343758,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439605,
+        "num": 342486,
+        "word": "陈好 侯明昊怎么能抹得开脸",
+        "onboard_time": 1730364620,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426888,
+        "num": 340632,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338674,
+        "num": 338674,
+        "word": "潘展乐400自铜牌",
+        "onboard_time": 1730372658,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60494,
+        "num": 337938,
+        "word": "为什么越想戒碳水越戒不掉",
+        "onboard_time": 1730372717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337348,
+        "num": 337348,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579656,
+        "num": 334384,
+        "word": "难听",
+        "onboard_time": 1730367257,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 516189,
+        "num": 328026,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3492,
+        "num": 323597,
+        "word": "天猫双11今晚现货加码更好买",
+        "onboard_time": 1730372418,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30565,
+        "num": 312945,
+        "word": "扔学生外卖道歉赔偿不是终点",
+        "onboard_time": 1730372838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310864,
+        "num": 310864,
+        "word": "吴秀波成老赖",
+        "onboard_time": 1730373559,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300420,
+        "num": 300420,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24295,
+        "num": 281044,
+        "word": "京东电脑五折抢",
+        "onboard_time": 1730372838,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269853,
+        "num": 269853,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35779,
+        "num": 267479,
+        "word": "人在45岁左右会有一次加速衰老",
+        "onboard_time": 1730373018,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568865,
+        "num": 267447,
+        "word": "12岁女生一天3杯速溶咖啡导致贫血",
+        "onboard_time": 1730371100,
+        "rank": 20,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 267398,
+        "num": 267398,
+        "word": "两种性格的人容易得抑郁症",
+        "onboard_time": 1730366718,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241636,
+        "num": 241636,
+        "word": "覃海洋冲击加冕王冠",
+        "onboard_time": 1730373439,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224170,
+        "num": 224170,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1730374399,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 221072,
+        "word": "警方回应博主称在野外发现一具白骨",
+        "onboard_time": 1730367737,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218599,
+        "num": 218599,
+        "word": "权志龙回归先行曲上线",
+        "onboard_time": 1730365700,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212881,
+        "num": 212881,
+        "word": "女装退货率高的原因找到了",
+        "onboard_time": 1730363178,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205304,
+        "num": 205304,
+        "word": "王楚钦王曼昱领衔出战法兰克福冠军赛",
+        "onboard_time": 1730373977,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197344,
+        "num": 197344,
+        "word": "为什么王俊凯吃的蛋糕都是蓝色的",
+        "onboard_time": 1730368938,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174251,
+        "num": 174251,
+        "word": "周也在机场卸妆",
+        "onboard_time": 1730373798,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39323,
+        "num": 172198,
+        "word": "刘亦菲骨相",
+        "onboard_time": 1730372838,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36255,
+        "num": 170357,
+        "word": "汽车车身强度有多重要",
+        "onboard_time": 1730370559,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258875,
+        "num": 168060,
+        "word": "孩子们为啥不买我的烤红薯",
+        "onboard_time": 1730373619,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189539,
+        "num": 166359,
+        "word": "烧伤妈妈最新恢复照片",
+        "onboard_time": 1730374100,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165710,
+        "num": 165710,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165516,
+        "num": 165516,
+        "word": "摇粒绒凭什么统一全国人审美",
+        "onboard_time": 1730364558,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162775,
+        "num": 162775,
+        "word": "听泉鉴宝预测S14决赛比分",
+        "onboard_time": 1730365339,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159022,
+        "num": 159022,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 156743,
+        "num": 156743,
+        "word": "韩素希承认因家庭原因而改年龄",
+        "onboard_time": 1730373378,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153680,
+        "num": 153680,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146440,
+        "num": 146440,
+        "word": "抑郁症并非普通的心情不好",
+        "onboard_time": 1730367438,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4474,
+        "num": 145670,
+        "word": "90秒回顾神舟飞天征途",
+        "onboard_time": 1730362519,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145554,
+        "num": 145554,
+        "word": "双航母编队演练纯享视频来了",
+        "onboard_time": 1730363779,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145507,
+        "num": 145507,
+        "word": "上海地铁",
+        "onboard_time": 1730372059,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "杨紫9岁到32岁荧幕的变化",
+        "onboard_time": 1730373198,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139327,
+        "num": 139327,
+        "word": "赵露思红色亮片长裙",
+        "onboard_time": 1730374458,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 137684,
+        "word": "权志龙新歌Melon曲线第一",
+        "onboard_time": 1730369059,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136551,
+        "num": 136551,
+        "word": "四川康定一车辆坠河6人失联后续",
+        "onboard_time": 1730373919,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136541,
+        "num": 136541,
+        "word": "50秒感受2艘中国航母同框演练",
+        "onboard_time": 1730366119,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135526,
+        "num": 135526,
+        "word": "广西崇左一女游客潜水溺亡",
+        "onboard_time": 1730371519,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调三个不#"
+    }
+  }
+}
