@@ -1,0 +1,410 @@
+{
+  "runTime": 1730373528496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1239069,
+        "num": 1239069,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 757373,
+        "num": 757373,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7111,
+        "num": 672466,
+        "word": "90秒回顾神舟飞天征途",
+        "onboard_time": 1730362519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658147,
+        "num": 658147,
+        "word": "姚明离任",
+        "onboard_time": 1730369178,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545226,
+        "num": 545226,
+        "word": "马伊琍 演唱会",
+        "onboard_time": 1730367679,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382451,
+        "num": 382451,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511308,
+        "num": 381038,
+        "word": "陈好 侯明昊怎么能抹得开脸",
+        "onboard_time": 1730364620,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454766,
+        "num": 380044,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372691,
+        "num": 372691,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37172,
+        "num": 302021,
+        "word": "为什么越想戒碳水越戒不掉",
+        "onboard_time": 1730372717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663933,
+        "num": 301656,
+        "word": "难听",
+        "onboard_time": 1730367257,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468080,
+        "num": 301389,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298920,
+        "num": 298920,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15634,
+        "num": 285119,
+        "word": "天猫双11今晚现货加码更好买",
+        "onboard_time": 1730372418,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25115,
+        "num": 282727,
+        "word": "扔学生外卖道歉赔偿不是终点",
+        "onboard_time": 1730372838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280996,
+        "num": 280996,
+        "word": "权志龙回归先行曲上线",
+        "onboard_time": 1730365700,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245915,
+        "num": 261164,
+        "word": "潘展乐400自铜牌",
+        "onboard_time": 1730372658,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246367,
+        "num": 246367,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231452,
+        "num": 231452,
+        "word": "警方回应博主称在野外发现一具白骨",
+        "onboard_time": 1730367737,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28618,
+        "num": 230032,
+        "word": "人在45岁左右会有一次加速衰老",
+        "onboard_time": 1730373018,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821455,
+        "num": 229578,
+        "word": "12岁女生一天3杯速溶咖啡导致贫血",
+        "onboard_time": 1730371100,
+        "rank": 20,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 320278,
+        "num": 229342,
+        "word": "两种性格的人容易得抑郁症",
+        "onboard_time": 1730366718,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228869,
+        "num": 228869,
+        "word": "女装退货率高的原因找到了",
+        "onboard_time": 1730363178,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221624,
+        "num": 221624,
+        "word": "为什么王俊凯吃的蛋糕都是蓝色的",
+        "onboard_time": 1730368938,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209307,
+        "num": 209307,
+        "word": "听泉鉴宝预测S14决赛比分",
+        "onboard_time": 1730365339,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37098,
+        "num": 200490,
+        "word": "姚明说希望大家继续支持中国篮球",
+        "onboard_time": 1730370318,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197141,
+        "num": 197141,
+        "word": "摇粒绒凭什么统一全国人审美",
+        "onboard_time": 1730364558,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177998,
+        "num": 195848,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160211,
+        "num": 193342,
+        "word": "权志龙新歌Melon曲线第一",
+        "onboard_time": 1730369059,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31901,
+        "num": 190449,
+        "word": "京东电脑五折抢",
+        "onboard_time": 1730372838,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32231,
+        "num": 188716,
+        "word": "姚明遗憾国家队表现未达到预期",
+        "onboard_time": 1730371820,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187332,
+        "num": 187332,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 30698,
+        "num": 183713,
+        "word": "汽车车身强度有多重要",
+        "onboard_time": 1730370559,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183574,
+        "num": 183574,
+        "word": "双航母编队演练纯享视频来了",
+        "onboard_time": 1730363779,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179895,
+        "num": 179895,
+        "word": "抑郁症并非普通的心情不好",
+        "onboard_time": 1730367438,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179876,
+        "num": 179876,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177158,
+        "num": 177158,
+        "word": "上海地铁",
+        "onboard_time": 1730372059,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16196,
+        "num": 173140,
+        "word": "刘亦菲骨相",
+        "onboard_time": 1730372838,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172920,
+        "num": 172920,
+        "word": "严浩翔自制健身餐vlog",
+        "onboard_time": 1730372717,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154456,
+        "num": 154456,
+        "word": "覃海洋冲击加冕王冠",
+        "onboard_time": 1730373439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154030,
+        "num": 154030,
+        "word": "小区一大妈在女子窗口下浇粪水种菜",
+        "onboard_time": 1730368399,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153694,
+        "num": 153694,
+        "word": "广西崇左一女游客潜水溺亡",
+        "onboard_time": 1730371519,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147408,
+        "num": 147408,
+        "word": "花少6陪看vs花少5陪看",
+        "onboard_time": 1730352860,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147367,
+        "num": 147367,
+        "word": "陈都灵演完女神演女妖",
+        "onboard_time": 1730371699,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147084,
+        "num": 147084,
+        "word": "50秒感受2艘中国航母同框演练",
+        "onboard_time": 1730366119,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140224,
+        "num": 140224,
+        "word": "永夜星河这个是真露骨",
+        "onboard_time": 1730369959,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139810,
+        "num": 139810,
+        "word": "女篮高开低走加剧外界对姚明的质疑",
+        "onboard_time": 1730373258,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138551,
+        "num": 138551,
+        "word": "为什么年轻人更愿意青睐主理人品牌",
+        "onboard_time": 1730370018,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137991,
+        "num": 137991,
+        "word": "杨紫9岁到32岁荧幕的变化",
+        "onboard_time": 1730373198,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131742,
+        "num": 131742,
+        "word": "韩素希承认因家庭原因而改年龄",
+        "onboard_time": 1730373378,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调三个不#"
+    }
+  }
+}
