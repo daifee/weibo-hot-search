@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730392123770,
+  "endTime": 1730393062644,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -1403,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1055335,
+      "num": 1055335,
+      "word": "国考缴费",
+      "onboard_time": 1730391856,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1055135,
       "num": 243413,
       "word": "LV柜姐事件",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1730345239,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755685,
-      "num": 755685,
-      "word": "国考缴费",
-      "onboard_time": 1730391856,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 753375,
@@ -11396,7 +11396,7 @@
     },
     {
       "raw_hot": 138021,
-      "num": 220698,
+      "num": 229839,
       "word": "双航母编队原声4K纯享",
       "onboard_time": 1730389698,
       "rank": 19,
@@ -12811,6 +12811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97896,
+      "num": 97896,
+      "word": "阮小咪说与赵牧辰产生了隔阂",
+      "onboard_time": 1730392157,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97546,
       "num": 97546,
       "word": "以军公布打死辛瓦尔画面",
@@ -12904,6 +12912,14 @@
       "word": "为什么我们越来越讨厌接电话",
       "onboard_time": 1730080877,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92127,
+      "num": 92127,
+      "word": "主人去世狗狗在主人墓前守护2年",
+      "onboard_time": 1730392157,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -13409,6 +13425,14 @@
       "onboard_time": 1730346919,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66584,
+      "num": 66584,
+      "word": "何洁李斯丹妮 请勿随意模仿",
+      "onboard_time": 1730389279,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 65837,
