@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730395275747,
+  "endTime": 1730396408851,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -435,6 +435,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40118,
+      "num": 40118,
+      "word": "敖犬的老婆还是薛之谦演过的那个",
+      "onboard_time": 1730383041,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38949,
+      "num": 38949,
+      "word": "上海多所高校通知今明两天线上教学",
+      "onboard_time": 1730395693,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 38222,
       "num": 49469,
       "word": "邓为素颜吃飞机餐",
@@ -449,6 +465,22 @@
       "onboard_time": 1730386640,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33374,
+      "num": 33374,
+      "word": "王鹤棣湖边迪斯科",
+      "onboard_time": 1730396174,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21427,
+      "num": 81910,
+      "word": "上海或将迎1981年来11月最大降雨",
+      "onboard_time": 1730394974,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
