@@ -1,0 +1,411 @@
+{
+  "startTime": 1730392123770,
+  "endTime": 1730392123770,
+  "band_list": [
+    {
+      "raw_hot": 2943052,
+      "num": 2943052,
+      "word": "国考",
+      "onboard_time": 1730391676,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1051616,
+      "num": 252751,
+      "word": "乔任梁父亲支持朱桢报警",
+      "onboard_time": 1730388320,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 755685,
+      "num": 755685,
+      "word": "国考缴费",
+      "onboard_time": 1730391856,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 624742,
+      "num": 250600,
+      "word": "乔任梁父母称网上遗体照是二次伤害",
+      "onboard_time": 1730379019,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 530574,
+      "num": 246181,
+      "word": "王大发回应荣梓杉方",
+      "onboard_time": 1730390057,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 511986,
+      "num": 244373,
+      "word": "疑似花少后期发声",
+      "onboard_time": 1730387059,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 508069,
+      "num": 240649,
+      "word": "失联少年疑在缅甸背货1趟赚10万",
+      "onboard_time": 1730384421,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462645,
+      "num": 235839,
+      "word": "女子怀孕后被代孕机构拉黑",
+      "onboard_time": 1730380458,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419716,
+      "num": 234695,
+      "word": "被举报虐狗的网红训狗师停播",
+      "onboard_time": 1730379858,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 383654,
+      "num": 383654,
+      "word": "陈好演技最差的一次",
+      "onboard_time": 1730374878,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336080,
+      "num": 230952,
+      "word": "车辆坠河23天后疑发现准新娘遗体",
+      "onboard_time": 1730379740,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331265,
+      "num": 331265,
+      "word": "特朗普坐垃圾车回应拜登垃圾言论",
+      "onboard_time": 1730388079,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 319875,
+      "num": 319875,
+      "word": "上海回应明天是否会台风停课",
+      "onboard_time": 1730379198,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314058,
+      "num": 314058,
+      "word": "十日终焉完结",
+      "onboard_time": 1730387359,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 286974,
+      "num": 286974,
+      "word": "范丞丞王安宇 选角",
+      "onboard_time": 1730383341,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258221,
+      "num": 258221,
+      "word": "麦琳",
+      "onboard_time": 1730382080,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228550,
+      "num": 228550,
+      "word": "程潇是真来看大梦归离的啊",
+      "onboard_time": 1730387180,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218813,
+      "num": 218813,
+      "word": "台风",
+      "onboard_time": 1730384600,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217064,
+      "num": 217064,
+      "word": "闵塔鲨 敷衍",
+      "onboard_time": 1730380701,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209882,
+      "num": 209882,
+      "word": "石宇奇退赛",
+      "onboard_time": 1730387299,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197965,
+      "num": 197965,
+      "word": "乔任梁父母发声",
+      "onboard_time": 1730350221,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190066,
+      "num": 190066,
+      "word": "男子找5个对象同住一小区隐瞒4年",
+      "onboard_time": 1730380218,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178672,
+      "num": 255050,
+      "word": "国防部说台独武装那点儿事不难掌握",
+      "onboard_time": 1730383640,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 175941,
+      "num": 175941,
+      "word": "黄圣依葛夕怼麦琳",
+      "onboard_time": 1730385920,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175264,
+      "num": 175264,
+      "word": "00后爱上买平价彩妆",
+      "onboard_time": 1730389339,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 167710,
+      "num": 167710,
+      "word": "太原警方回应博主在深山发现遗体",
+      "onboard_time": 1730388560,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160896,
+      "num": 160896,
+      "word": "吉利集团声明",
+      "onboard_time": 1730390238,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154228,
+      "num": 154228,
+      "word": "刘亦菲度假十八宫格",
+      "onboard_time": 1730376857,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138021,
+      "num": 220698,
+      "word": "双航母编队原声4K纯享",
+      "onboard_time": 1730389698,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 128694,
+      "num": 128694,
+      "word": "山西一地女性35岁前结婚奖励1500元",
+      "onboard_time": 1730383819,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125513,
+      "num": 125513,
+      "word": "台风康妮",
+      "onboard_time": 1730345239,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119821,
+      "num": 119821,
+      "word": "男子故意碰撞多名女生胸部被行拘",
+      "onboard_time": 1730384179,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118016,
+      "num": 118016,
+      "word": "JackeyLove回应TES止步八强",
+      "onboard_time": 1730385381,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 116118,
+      "num": 163805,
+      "word": "麦琳 句句都提爱句句都伤害",
+      "onboard_time": 1730385559,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115863,
+      "num": 119931,
+      "word": "拉萨地震",
+      "onboard_time": 1730391797,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113092,
+      "num": 113092,
+      "word": "迪丽热巴高定裤装look",
+      "onboard_time": 1730381058,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113088,
+      "num": 161590,
+      "word": "中国2艘航母同框现场",
+      "onboard_time": 1730362760,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 109641,
+      "num": 109641,
+      "word": "12岁女生一天3杯速溶咖啡导致贫血",
+      "onboard_time": 1730371100,
+      "rank": 38,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 105967,
+      "num": 105967,
+      "word": "大梦归离两个大男人互扇巴掌",
+      "onboard_time": 1730388560,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97874,
+      "num": 97874,
+      "word": "覃海洋100蛙冠军",
+      "onboard_time": 1730374700,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95708,
+      "num": 95708,
+      "word": "烧伤妈妈最新恢复照片",
+      "onboard_time": 1730374100,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89885,
+      "num": 89885,
+      "word": "两种性格的人容易得抑郁症",
+      "onboard_time": 1730366718,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87613,
+      "num": 87613,
+      "word": "男子砍妻事件双方和解",
+      "onboard_time": 1730382499,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85712,
+      "num": 85712,
+      "word": "赵今麦报名小巷人家小饭桌",
+      "onboard_time": 1730386580,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80288,
+      "num": 80288,
+      "word": "校方回应小学生被老师打成面瘫",
+      "onboard_time": 1730388379,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74588,
+      "num": 74588,
+      "word": "谢娜回应和杨天真是朋友",
+      "onboard_time": 1730382259,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72510,
+      "num": 72510,
+      "word": "珠帘玉幕节奏好快",
+      "onboard_time": 1730385740,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62510,
+      "num": 85842,
+      "word": "监狱长花1458万搞形象工程",
+      "onboard_time": 1730387419,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58355,
+      "num": 492186,
+      "word": "我国自主研制最大直径盾构机下线",
+      "onboard_time": 1730388918,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#更好凝心聚力推动改革行稳致远#"
+    }
+  ]
+}
