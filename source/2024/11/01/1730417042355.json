@@ -1,0 +1,410 @@
+{
+  "runTime": 1730417042355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398528,
+        "num": 779198,
+        "word": "台风",
+        "onboard_time": 1730384600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353997,
+        "num": 353997,
+        "word": "主人去世狗狗在主人墓前守护2年",
+        "onboard_time": 1730392157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4937,
+        "num": 257641,
+        "word": "11月这批新规将施行",
+        "onboard_time": 1730388740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209936,
+        "num": 209936,
+        "word": "麦琳 句句都提爱句句都伤害",
+        "onboard_time": 1730385559,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200969,
+        "num": 200969,
+        "word": "美方抽台湾的血养肥自己的军工",
+        "onboard_time": 1730405052,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191504,
+        "num": 191504,
+        "word": "上海或将迎1981年来11月最大降雨",
+        "onboard_time": 1730394974,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162961,
+        "num": 162961,
+        "word": "陈好演技最差的一次",
+        "onboard_time": 1730374878,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129827,
+        "num": 129827,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118920,
+        "num": 118920,
+        "word": "上海站多趟列车因康妮停运",
+        "onboard_time": 1730410212,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96348,
+        "num": 118701,
+        "word": "国考",
+        "onboard_time": 1730391676,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 722421,
+        "num": 117647,
+        "word": "乔任梁父亲支持朱桢报警",
+        "onboard_time": 1730388320,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610022,
+        "num": 116641,
+        "word": "女子怀孕后被代孕机构拉黑",
+        "onboard_time": 1730380458,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521089,
+        "num": 115816,
+        "word": "车辆坠河23天后疑发现准新娘遗体",
+        "onboard_time": 1730379740,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500191,
+        "num": 115614,
+        "word": "失联少年疑在缅甸背货1趟赚10万",
+        "onboard_time": 1730384421,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408679,
+        "num": 114816,
+        "word": "上海回应明天是否会台风停课",
+        "onboard_time": 1730379198,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382237,
+        "num": 114102,
+        "word": "被举报虐狗的网红训狗师停播",
+        "onboard_time": 1730379858,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190988,
+        "num": 113483,
+        "word": "疑似花少后期发声",
+        "onboard_time": 1730387059,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156092,
+        "num": 112578,
+        "word": "乔任梁父母称网上遗体照是二次伤害",
+        "onboard_time": 1730379019,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28899,
+        "num": 111184,
+        "word": "台风康妮已致台湾27人伤",
+        "onboard_time": 1730415314,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146000,
+        "num": 110715,
+        "word": "太原警方回应博主在深山发现遗体",
+        "onboard_time": 1730388560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273451,
+        "num": 110024,
+        "word": "女子一听要坐牢赶紧转18万养老钱",
+        "onboard_time": 1730403851,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180618,
+        "num": 109023,
+        "word": "男子找5个对象同住一小区隐瞒4年",
+        "onboard_time": 1730380218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134164,
+        "num": 108130,
+        "word": "班主任诅咒学生全家凸显教师心理健康问题",
+        "onboard_time": 1730411771,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130718,
+        "num": 107425,
+        "word": "敖犬的老婆还是薛之谦演过的那个",
+        "onboard_time": 1730383041,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107278,
+        "num": 107278,
+        "word": "南京一男子0元购偷出一个超市",
+        "onboard_time": 1730399531,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87688,
+        "num": 107158,
+        "word": "黄圣依葛夕怼麦琳",
+        "onboard_time": 1730385920,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71188,
+        "num": 106913,
+        "word": "麦琳",
+        "onboard_time": 1730382080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70212,
+        "num": 106874,
+        "word": "范丞丞王安宇 选角",
+        "onboard_time": 1730383341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62060,
+        "num": 106629,
+        "word": "阮小咪说与赵牧辰产生了隔阂",
+        "onboard_time": 1730392157,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13412,
+        "num": 106547,
+        "word": "这个调查公报告诉你时间去哪儿了",
+        "onboard_time": 1730416996,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106365,
+        "num": 106365,
+        "word": "王大发回应荣梓杉方",
+        "onboard_time": 1730390057,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104765,
+        "num": 104765,
+        "word": "男子故意碰撞多名女生胸部被行拘",
+        "onboard_time": 1730384179,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81684,
+        "num": 81684,
+        "word": "吉利集团声明",
+        "onboard_time": 1730390238,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14395,
+        "num": 78512,
+        "word": "退换家电需有原包装的规矩是否需要改改了",
+        "onboard_time": 1730416935,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77411,
+        "num": 77411,
+        "word": "超强台风康妮7级风圈已触及福建",
+        "onboard_time": 1730414054,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70202,
+        "num": 70202,
+        "word": "JackeyLove回应TES止步八强",
+        "onboard_time": 1730385381,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68515,
+        "num": 68515,
+        "word": "华为前三季度利润628.7亿",
+        "onboard_time": 1730416515,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67479,
+        "num": 67479,
+        "word": "家暴男接受采访称是误会",
+        "onboard_time": 1730402412,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64890,
+        "num": 64890,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63066,
+        "num": 63066,
+        "word": "男子砍妻事件双方和解",
+        "onboard_time": 1730382499,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62139,
+        "num": 62139,
+        "word": "双航母编队原声4K纯享",
+        "onboard_time": 1730389698,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57487,
+        "num": 57487,
+        "word": "十日终焉完结",
+        "onboard_time": 1730387359,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 56629,
+        "num": 56629,
+        "word": "国考缴费",
+        "onboard_time": 1730391856,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53515,
+        "num": 53515,
+        "word": "国防部说台独武装那点儿事不难掌握",
+        "onboard_time": 1730383640,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49474,
+        "num": 49474,
+        "word": "多名男子围殴女高中生目击者发声",
+        "onboard_time": 1730407211,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46494,
+        "num": 46494,
+        "word": "存量房贷重定价周期只能调整一次",
+        "onboard_time": 1730415314,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 44265,
+        "num": 44265,
+        "word": "女孩模仿冰箱贴仕女妆造萌翻路人",
+        "onboard_time": 1730401030,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43098,
+        "num": 43098,
+        "word": "闵塔鲨 敷衍",
+        "onboard_time": 1730380701,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41535,
+        "num": 41535,
+        "word": "上海地铁",
+        "onboard_time": 1730372059,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33747,
+        "num": 40454,
+        "word": "周深无畏钎城刺痛合拍奇迹时刻",
+        "onboard_time": 1730416876,
+        "rank": 49,
+        "category": "艺人,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#探索太空永无止境#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730414383630,
+  "endTime": 1730417042355,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610022,
+      "num": 235839,
+      "word": "女子怀孕后被代孕机构拉黑",
+      "onboard_time": 1730380458,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530574,
       "num": 246181,
       "word": "王大发回应荣梓杉方",
       "onboard_time": 1730390057,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521089,
+      "num": 230952,
+      "word": "车辆坠河23天后疑发现准新娘遗体",
+      "onboard_time": 1730379740,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511986,
@@ -56,14 +72,6 @@
       "word": "失联少年疑在缅甸背货1趟赚10万",
       "onboard_time": 1730384421,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462645,
-      "num": 235839,
-      "word": "女子怀孕后被代孕机构拉黑",
-      "onboard_time": 1730380458,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 408679,
+      "num": 476775,
+      "word": "上海回应明天是否会台风停课",
+      "onboard_time": 1730379198,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398528,
+      "num": 779198,
+      "word": "台风",
+      "onboard_time": 1730384600,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383654,
       "num": 383654,
       "word": "陈好演技最差的一次",
@@ -91,28 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356485,
-      "num": 230952,
-      "word": "车辆坠河23天后疑发现准新娘遗体",
-      "onboard_time": 1730379740,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331265,
       "num": 331265,
       "word": "特朗普坐垃圾车回应拜登垃圾言论",
       "onboard_time": 1730388079,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 319875,
-      "num": 476775,
-      "word": "上海回应明天是否会台风停课",
-      "onboard_time": 1730379198,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314058,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273451,
+      "num": 175922,
+      "word": "女子一听要坐牢赶紧转18万养老钱",
+      "onboard_time": 1730403851,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258221,
       "num": 258221,
       "word": "麦琳",
@@ -147,20 +163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224621,
-      "num": 366341,
-      "word": "台风",
-      "onboard_time": 1730384600,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217064,
       "num": 217064,
       "word": "闵塔鲨 敷衍",
       "onboard_time": 1730380701,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209936,
+      "num": 209936,
+      "word": "麦琳 句句都提爱句句都伤害",
+      "onboard_time": 1730385559,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 209882,
@@ -171,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200969,
+      "num": 200969,
+      "word": "美方抽台湾的血养肥自己的军工",
+      "onboard_time": 1730405052,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197965,
       "num": 197965,
       "word": "乔任梁父母发声",
       "onboard_time": 1730350221,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191504,
+      "num": 191504,
+      "word": "上海或将迎1981年来11月最大降雨",
+      "onboard_time": 1730394974,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190066,
@@ -201,14 +233,6 @@
       "onboard_time": 1730385920,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175922,
-      "num": 175922,
-      "word": "女子一听要坐牢赶紧转18万养老钱",
-      "onboard_time": 1730403851,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175264,
@@ -251,19 +275,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134164,
+      "num": 108130,
+      "word": "班主任诅咒学生全家凸显教师心理健康问题",
+      "onboard_time": 1730411771,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130718,
+      "num": 107425,
+      "word": "敖犬的老婆还是薛之谦演过的那个",
+      "onboard_time": 1730383041,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129827,
+      "num": 129827,
+      "word": "台风康妮",
+      "onboard_time": 1730345239,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128694,
       "num": 128694,
       "word": "山西一地女性35岁前结婚奖励1500元",
       "onboard_time": 1730383819,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125513,
-      "num": 125513,
-      "word": "台风康妮",
-      "onboard_time": 1730345239,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -275,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118920,
+      "num": 118920,
+      "word": "上海站多趟列车因康妮停运",
+      "onboard_time": 1730410212,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118016,
       "num": 118016,
       "word": "JackeyLove回应TES止步八强",
       "onboard_time": 1730385381,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116118,
-      "num": 163805,
-      "word": "麦琳 句句都提爱句句都伤害",
-      "onboard_time": 1730385559,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 115863,
@@ -323,6 +363,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 107278,
+      "num": 107278,
+      "word": "南京一男子0元购偷出一个超市",
+      "onboard_time": 1730399531,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105967,
       "num": 105967,
       "word": "大梦归离两个大男人互扇巴掌",
@@ -331,16 +379,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99718,
-      "num": 99718,
-      "word": "上海站多趟列车因康妮停运",
-      "onboard_time": 1730410212,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97896,
-      "num": 97896,
+      "num": 106629,
       "word": "阮小咪说与赵牧辰产生了隔阂",
       "onboard_time": 1730392157,
       "rank": 36,
@@ -379,27 +419,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88622,
-      "num": 88622,
-      "word": "美方抽台湾的血养肥自己的军工",
-      "onboard_time": 1730405052,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 87613,
       "num": 87613,
       "word": "男子砍妻事件双方和解",
       "onboard_time": 1730382499,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86766,
-      "num": 86766,
-      "word": "上海或将迎1981年来11月最大降雨",
-      "onboard_time": 1730394974,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77411,
+      "num": 77411,
+      "word": "超强台风康妮7级风圈已触及福建",
+      "onboard_time": 1730414054,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74588,
       "num": 74588,
       "word": "谢娜回应和杨天真是朋友",
@@ -435,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68515,
+      "num": 68515,
+      "word": "华为前三季度利润628.7亿",
+      "onboard_time": 1730416515,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67488,
       "num": 67488,
       "word": "女孩模仿冰箱贴仕女妆造萌翻路人",
@@ -443,27 +483,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67479,
+      "num": 67479,
+      "word": "家暴男接受采访称是误会",
+      "onboard_time": 1730402412,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66584,
       "num": 66584,
       "word": "何洁李斯丹妮 请勿随意模仿",
       "onboard_time": 1730389279,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 66270,
-      "num": 66270,
-      "word": "班主任诅咒学生全家凸显教师心理健康问题",
-      "onboard_time": 1730411771,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64111,
-      "num": 64111,
-      "word": "敖犬的老婆还是薛之谦演过的那个",
-      "onboard_time": 1730383041,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -491,19 +523,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48657,
-      "num": 48657,
-      "word": "南京一男子0元购偷出一个超市",
-      "onboard_time": 1730399531,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43832,
-      "num": 43832,
+      "raw_hot": 49474,
+      "num": 49474,
       "word": "多名男子围殴女高中生目击者发声",
       "onboard_time": 1730407211,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46494,
+      "num": 46494,
+      "word": "存量房贷重定价周期只能调整一次",
+      "onboard_time": 1730415314,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 41535,
+      "num": 41535,
+      "word": "上海地铁",
+      "onboard_time": 1730372059,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -531,20 +571,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 36714,
-      "num": 36714,
-      "word": "家暴男接受采访称是误会",
-      "onboard_time": 1730402412,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36133,
       "num": 54944,
       "word": "联合国机构审查日本天皇继承制",
       "onboard_time": 1730399472,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 33747,
+      "num": 40454,
+      "word": "周深无畏钎城刺痛合拍奇迹时刻",
+      "onboard_time": 1730416876,
+      "rank": 49,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 33374,
@@ -571,11 +611,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27873,
-      "num": 27873,
-      "word": "超强台风康妮7级风圈已触及福建",
-      "onboard_time": 1730414054,
-      "rank": 46,
+      "raw_hot": 28899,
+      "num": 111184,
+      "word": "台风康妮已致台湾27人伤",
+      "onboard_time": 1730415314,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14395,
+      "num": 78512,
+      "word": "退换家电需有原包装的规矩是否需要改改了",
+      "onboard_time": 1730416935,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14102,
       "num": 57130,
       "word": "多地上线医保定点药店比价小程序",
@@ -680,6 +728,14 @@
       "word": "民警帮村民圆梦寻回父母生前照片",
       "onboard_time": 1730403192,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13412,
+      "num": 106547,
+      "word": "这个调查公报告诉你时间去哪儿了",
+      "onboard_time": 1730416996,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -708,7 +764,7 @@
     },
     {
       "raw_hot": 10826,
-      "num": 196059,
+      "num": 257641,
       "word": "11月这批新规将施行",
       "onboard_time": 1730388740,
       "rank": 2,
