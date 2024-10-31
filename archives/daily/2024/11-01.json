@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730399424678,
+  "endTime": 1730400252354,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73619,
+      "num": 81910,
+      "word": "上海或将迎1981年来11月最大降雨",
+      "onboard_time": 1730394974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72510,
       "num": 72510,
       "word": "珠帘玉幕节奏好快",
@@ -416,14 +424,6 @@
       "word": "监狱长花1458万搞形象工程",
       "onboard_time": 1730387419,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60180,
-      "num": 81910,
-      "word": "上海或将迎1981年来11月最大降雨",
-      "onboard_time": 1730394974,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -483,20 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30027,
+      "num": 30027,
+      "word": "南京一男子0元购偷出一个超市",
+      "onboard_time": 1730399531,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25372,
+      "num": 25372,
+      "word": "李海玉抱父遗照在弟弟坟前痛哭",
+      "onboard_time": 1730398152,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24286,
       "num": 24979,
       "word": "50秒感受2艘中国航母同框演练",
       "onboard_time": 1730366119,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24155,
-      "num": 24979,
-      "word": "李海玉抱父遗照在弟弟坟前痛哭",
-      "onboard_time": 1730398152,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23605,
@@ -507,7 +515,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20146,
+      "raw_hot": 22630,
+      "num": 23495,
+      "word": "适合11月第1天的文案",
+      "onboard_time": 1730390540,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 21295,
       "num": 39217,
       "word": "我国首位女性航天飞行工程师王浩泽",
       "onboard_time": 1730397373,
@@ -521,6 +537,14 @@
       "onboard_time": 1730397072,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13956,
+      "num": 54944,
+      "word": "联合国机构审查日本天皇继承制",
+      "onboard_time": 1730399472,
+      "rank": 9,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
