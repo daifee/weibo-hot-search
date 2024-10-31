@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730367467375,
+  "endTime": 1730370240207,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198453,
+      "num": 424308,
+      "word": "难听",
+      "onboard_time": 1730367257,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1112277,
       "num": 430412,
       "word": "网曝高校一男生持刀捅刺女生",
@@ -145,6 +153,14 @@
       "onboard_time": 1730346679,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1055797,
+      "num": 1055797,
+      "word": "姚明离任",
+      "onboard_time": 1730369178,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1021993,
@@ -187,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 920387,
+      "num": 920387,
+      "word": "陈好 侯明昊怎么能抹得开脸",
+      "onboard_time": 1730364620,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 894686,
       "num": 894686,
       "word": "房贷利率重新定价不必再等1年",
       "onboard_time": 1730339777,
       "rank": 28,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 822637,
-      "num": 460431,
-      "word": "陈好 侯明昊怎么能抹得开脸",
-      "onboard_time": 1730364620,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 818261,
@@ -297,6 +313,14 @@
       "onboard_time": 1730349381,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616472,
+      "num": 455061,
+      "word": "马伊琍 演唱会",
+      "onboard_time": 1730367679,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 611090,
@@ -523,6 +547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 421018,
+      "num": 448648,
+      "word": "两种性格的人容易得抑郁症",
+      "onboard_time": 1730366718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412449,
       "num": 405332,
       "word": "女性被叫大姐是冒犯吗",
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 395458,
-      "num": 325012,
+      "num": 380478,
       "word": "摇粒绒凭什么统一全国人审美",
       "onboard_time": 1730364558,
       "rank": 21,
@@ -971,6 +1003,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235888,
+      "num": 235888,
+      "word": "为什么王俊凯吃的蛋糕都是蓝色的",
+      "onboard_time": 1730368938,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234632,
       "num": 234632,
       "word": "烧伤妈妈30%皮肤基本长好",
@@ -1155,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203615,
+      "num": 203615,
+      "word": "权志龙新歌Melon曲线第一",
+      "onboard_time": 1730369059,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203206,
       "num": 203206,
       "word": "马龙回应能不能打下去",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1730348960,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198577,
+      "num": 198577,
+      "word": "易烊千玺皮衣叠穿look",
+      "onboard_time": 1730369239,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198485,
@@ -1203,6 +1259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 196855,
+      "num": 439452,
+      "word": "郭振明为新一任篮协主席",
+      "onboard_time": 1730369480,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195923,
       "num": 390201,
       "word": "花3万定制头模能解开人脸识别吗",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1730346799,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191052,
+      "num": 191052,
+      "word": "小区一大妈在女子窗口下浇粪水种菜",
+      "onboard_time": 1730368399,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190196,
@@ -1323,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179075,
+      "num": 179075,
+      "word": "警方回应博主称在野外发现一具白骨",
+      "onboard_time": 1730367737,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178958,
       "num": 178958,
       "word": "陶昕然 演员要为不能发声的人发声",
@@ -1363,20 +1443,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177068,
+      "num": 177068,
+      "word": "一加13价格",
+      "onboard_time": 1730369059,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 175777,
       "num": 175777,
       "word": "你猜张艺兴为什么嘴角向下",
       "onboard_time": 1730353342,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 174172,
-      "num": 174172,
-      "word": "难听",
-      "onboard_time": 1730367257,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 174097,
@@ -1443,6 +1523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164511,
+      "num": 164511,
+      "word": "赵丽颖登上了长城",
+      "onboard_time": 1730368760,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164065,
+      "num": 164065,
+      "word": "蒲熠星来看柯洁了",
+      "onboard_time": 1730370018,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "鲨鱼裤成为年轻人的新秋裤",
@@ -1465,6 +1561,14 @@
       "onboard_time": 1730339838,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157781,
+      "num": 436927,
+      "word": "姚明不再担任篮协主席",
+      "onboard_time": 1730369358,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 157167,
@@ -1643,12 +1747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137265,
+      "num": 237994,
+      "word": "2024年个人征信恢复无新规发布",
+      "onboard_time": 1730368938,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136860,
       "num": 136860,
       "word": "马龙说这个奖项属于中国乒乓球队",
       "onboard_time": 1730366839,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135839,
+      "num": 135839,
+      "word": "永夜星河这个是真露骨",
+      "onboard_time": 1730369959,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 134131,
@@ -1987,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79707,
-      "num": 448648,
-      "word": "两种性格的人容易得抑郁症",
-      "onboard_time": 1730366718,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78783,
       "num": 117409,
       "word": "任敏婚服造型 白月光",
@@ -2315,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29697,
+      "num": 443471,
+      "word": "退换家电需要原包装的规矩该改改了",
+      "onboard_time": 1730370018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29626,
       "num": 412013,
       "word": "中证A500指数基金规模破千亿",
@@ -2337,6 +2457,14 @@
       "onboard_time": 1730323150,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28107,
+      "num": 435875,
+      "word": "警方称海口被遗弃男婴已送医",
+      "onboard_time": 1730369540,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27896,
@@ -2371,6 +2499,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24721,
+      "num": 435043,
+      "word": "甄别抑郁症注意2个核心症状",
+      "onboard_time": 1730370079,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24525,
+      "num": 429546,
+      "word": "天猫今晚8点下单记得要用券",
+      "onboard_time": 1730368416,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 23855,
       "num": 626862,
       "word": "中国人上太空有人接的感觉太好了",
@@ -2385,6 +2529,22 @@
       "onboard_time": 1730339118,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23350,
+      "num": 424570,
+      "word": "拉萨一外卖员逆行碰撞路人被围殴",
+      "onboard_time": 1730369599,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21570,
+      "num": 194082,
+      "word": "双11国补商品也能凑单满减了",
+      "onboard_time": 1730368579,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 20950,
@@ -2417,6 +2577,14 @@
       "onboard_time": 1730331376,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18152,
+      "num": 427004,
+      "word": "1分钟回顾姚明7年篮协主席生涯",
+      "onboard_time": 1730370198,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 17856,
@@ -2497,6 +2665,14 @@
       "onboard_time": 1730327353,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13894,
+      "num": 441150,
+      "word": "那些风很大的抗衰单品实测",
+      "onboard_time": 1730368818,
+      "rank": 10,
+      "category": "美妆"
     },
     {
       "raw_hot": 13562,
