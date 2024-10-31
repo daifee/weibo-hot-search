@@ -1,0 +1,410 @@
+{
+  "runTime": 1730388280527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 695865,
+        "num": 1111338,
+        "word": "范丞丞王安宇 选角",
+        "onboard_time": 1730383341,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489204,
+        "num": 489204,
+        "word": "上海回应明天是否会台风停课",
+        "onboard_time": 1730379198,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7066,
+        "num": 473684,
+        "word": "11月起这些新规影响你我生活",
+        "onboard_time": 1730362279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468973,
+        "num": 468973,
+        "word": "石宇奇退赛",
+        "onboard_time": 1730387299,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977237,
+        "num": 462523,
+        "word": "乔任梁父母称网上遗体照是二次伤害",
+        "onboard_time": 1730379019,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437545,
+        "num": 437545,
+        "word": "国防部说台独武装那点儿事不难掌握",
+        "onboard_time": 1730383640,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612669,
+        "num": 409004,
+        "word": "疑似花少后期发声",
+        "onboard_time": 1730387059,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561178,
+        "num": 395667,
+        "word": "陈好演技最差的一次",
+        "onboard_time": 1730374878,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496767,
+        "num": 388193,
+        "word": "麦琳",
+        "onboard_time": 1730382080,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376547,
+        "num": 376547,
+        "word": "台风",
+        "onboard_time": 1730384600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729063,
+        "num": 376125,
+        "word": "女子怀孕后被代孕机构拉黑",
+        "onboard_time": 1730380458,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607802,
+        "num": 370501,
+        "word": "车辆坠河23天后疑发现准新娘遗体",
+        "onboard_time": 1730379740,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552637,
+        "num": 367629,
+        "word": "被举报虐狗的网红训狗师停播",
+        "onboard_time": 1730379858,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42618,
+        "num": 365274,
+        "word": "16岁男孩被骗去缅甸失联逾两月",
+        "onboard_time": 1730386699,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70178,
+        "num": 358571,
+        "word": "特朗普坐垃圾车回应拜登垃圾言论",
+        "onboard_time": 1730388079,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 357952,
+        "num": 357952,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322893,
+        "num": 322893,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42743,
+        "num": 319123,
+        "word": "杨和苏直播",
+        "onboard_time": 1730387240,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35882,
+        "num": 318111,
+        "word": "你丢掉的那一只耳机来找你了",
+        "onboard_time": 1730383941,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317838,
+        "num": 317838,
+        "word": "谢娜回应和杨天真是朋友",
+        "onboard_time": 1730382259,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309907,
+        "num": 309907,
+        "word": "烧伤妈妈最新恢复照片",
+        "onboard_time": 1730374100,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277165,
+        "num": 277165,
+        "word": "闵塔鲨 敷衍",
+        "onboard_time": 1730380701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269550,
+        "num": 269550,
+        "word": "山西一地女性35岁前结婚奖励1500元",
+        "onboard_time": 1730383819,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268572,
+        "num": 268572,
+        "word": "JackeyLove回应TES止步八强",
+        "onboard_time": 1730385381,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265968,
+        "num": 265968,
+        "word": "失联少年疑在缅甸背货1趟赚10万",
+        "onboard_time": 1730384421,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262955,
+        "num": 262955,
+        "word": "男子找5个对象同住一小区隐瞒4年",
+        "onboard_time": 1730380218,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252070,
+        "num": 252070,
+        "word": "迪丽热巴高定裤装look",
+        "onboard_time": 1730381058,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242807,
+        "num": 242807,
+        "word": "12岁女生一天3杯速溶咖啡导致贫血",
+        "onboard_time": 1730371100,
+        "rank": 27,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 203074,
+        "num": 203074,
+        "word": "永夜星河",
+        "onboard_time": 1730387120,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192929,
+        "num": 203069,
+        "word": "赵今麦报名小巷人家小饭桌",
+        "onboard_time": 1730386580,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70653,
+        "num": 203052,
+        "word": "男子挥刀砍妻当地警方通报",
+        "onboard_time": 1730386340,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192871,
+        "num": 203036,
+        "word": "程潇是真来看大梦归离的啊",
+        "onboard_time": 1730387180,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62580,
+        "num": 203020,
+        "word": "深秋香格里拉层林尽染美如画",
+        "onboard_time": 1730386699,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 213971,
+        "num": 203002,
+        "word": "刘亦菲度假十八宫格",
+        "onboard_time": 1730376857,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202988,
+        "num": 202988,
+        "word": "十日终焉完结",
+        "onboard_time": 1730387359,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193006,
+        "num": 193006,
+        "word": "敖犬的老婆还是薛之谦演过的那个",
+        "onboard_time": 1730383041,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183250,
+        "num": 183250,
+        "word": "林诗栋蒯曼vs袁励岑石洵瑶",
+        "onboard_time": 1730383400,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182873,
+        "num": 182873,
+        "word": "黄圣依葛夕怼麦琳",
+        "onboard_time": 1730385920,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179795,
+        "num": 179795,
+        "word": "覃海洋100蛙冠军",
+        "onboard_time": 1730374700,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179403,
+        "num": 179403,
+        "word": "麦琳 句句都提爱句句都伤害",
+        "onboard_time": 1730385559,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178438,
+        "num": 178438,
+        "word": "好团圆小姑子摔下楼假体移位",
+        "onboard_time": 1730387719,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173912,
+        "num": 173912,
+        "word": "男子故意碰撞多名女生胸部被行拘",
+        "onboard_time": 1730384179,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160386,
+        "num": 160386,
+        "word": "男子砍妻事件双方和解",
+        "onboard_time": 1730382499,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158474,
+        "num": 158474,
+        "word": "蒋欣和闫妮",
+        "onboard_time": 1730384060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156190,
+        "num": 156190,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154427,
+        "num": 154427,
+        "word": "林诗栋蒯曼3比2袁励岑石洵瑶",
+        "onboard_time": 1730387840,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141699,
+        "num": 141699,
+        "word": "两种性格的人容易得抑郁症",
+        "onboard_time": 1730366718,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136737,
+        "num": 136737,
+        "word": "宁波宣布停课不停工",
+        "onboard_time": 1730385019,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131563,
+        "num": 131563,
+        "word": "终于懂了什么叫做字如其人",
+        "onboard_time": 1730379740,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127953,
+        "num": 127953,
+        "word": "关晓彤范丞丞王安宇 三折叠cp",
+        "onboard_time": 1730388258,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调三个不#"
+    }
+  }
+}
