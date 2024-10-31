@@ -1,14 +1,22 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730346289946,
+  "endTime": 1730348872714,
   "band_list": [
     {
       "raw_hot": 2670490,
-      "num": 390534,
+      "num": 434128,
       "word": "江歌妈妈连续20天掉粉",
       "onboard_time": 1730343679,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1821047,
+      "num": 1821047,
+      "word": "朝鲜宣布试射洲际弹道导弹",
+      "onboard_time": 1730345119,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1350978,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1347434,
-      "num": 394417,
+      "num": 420396,
       "word": "学校回应班主任称全家都死了就不用签字",
       "onboard_time": 1730339777,
       "rank": 17,
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 1112277,
-      "num": 389730,
+      "num": 430412,
       "word": "网曝高校一男生持刀捅刺女生",
       "onboard_time": 1730342718,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1104263,
+      "num": 1104263,
+      "word": "赵露思哭了",
+      "onboard_time": 1730346679,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 984527,
@@ -68,19 +84,11 @@
     },
     {
       "raw_hot": 921021,
-      "num": 385196,
+      "num": 415024,
       "word": "女孩收200万分手费因敲诈勒索被判刑",
       "onboard_time": 1730340978,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 916691,
-      "num": 1146670,
-      "word": "朝鲜宣布试射洲际弹道导弹",
-      "onboard_time": 1730345119,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 894686,
@@ -108,15 +116,31 @@
     },
     {
       "raw_hot": 817140,
-      "num": 379417,
+      "num": 399121,
       "word": "刘晓庆十年前发的微博",
       "onboard_time": 1730338758,
       "rank": 35,
       "category": "艺人"
     },
     {
+      "raw_hot": 786224,
+      "num": 786224,
+      "word": "翁青雅 礼物",
+      "onboard_time": 1730346440,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 755727,
+      "num": 755727,
+      "word": "台风康妮",
+      "onboard_time": 1730345239,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723461,
-      "num": 378297,
+      "num": 398054,
       "word": "吉林男子在同一小区找了5个媳妇",
       "onboard_time": 1730335759,
       "rank": 21,
@@ -161,6 +185,22 @@
       "onboard_time": 1730338219,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596615,
+      "num": 596615,
+      "word": "马斯克因百万美元抽奖被要求出席听证会",
+      "onboard_time": 1730342238,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 567202,
+      "num": 567202,
+      "word": "乔妍的心事豆瓣开分6.1",
+      "onboard_time": 1730345901,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 555316,
@@ -227,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391142,
+      "num": 391142,
+      "word": "女性被叫大姐是冒犯吗",
+      "onboard_time": 1730344278,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390043,
       "num": 390043,
       "word": "雷军预判小米su7ultra价格遭质疑",
@@ -259,27 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377643,
-      "num": 377643,
-      "word": "马斯克因百万美元抽奖被要求出席听证会",
-      "onboard_time": 1730342238,
-      "rank": 20,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 376866,
       "num": 376866,
       "word": "台风康妮所致强风雨具有一定极端性",
       "onboard_time": 1730328494,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369878,
-      "num": 391734,
-      "word": "台风康妮",
-      "onboard_time": 1730345239,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -297,14 +329,6 @@
       "onboard_time": 1730278938,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 352330,
-      "num": 386196,
-      "word": "乔妍的心事豆瓣开分6.1",
-      "onboard_time": 1730345901,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 347759,
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314825,
-      "num": 314825,
-      "word": "女性被叫大姐是冒犯吗",
-      "onboard_time": 1730344278,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313744,
       "num": 313744,
       "word": "航天员导弹这些词都出自钱学森",
@@ -411,11 +427,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288359,
+      "num": 288359,
+      "word": "王楚钦童年照",
+      "onboard_time": 1730347341,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286850,
+      "num": 406032,
+      "word": "哈里斯与拜登垃圾言论划清界限",
+      "onboard_time": 1730346740,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 274919,
       "num": 218192,
       "word": "12岁女孩体重400斤无法行走",
       "onboard_time": 1730292259,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269662,
+      "num": 269662,
+      "word": "警方通报南昌工学院持刀伤人事件",
+      "onboard_time": 1730346379,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -449,6 +489,22 @@
       "onboard_time": 1730340678,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251981,
+      "num": 393771,
+      "word": "再见爱人",
+      "onboard_time": 1730348599,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249665,
+      "num": 403247,
+      "word": "杨迪参与谢娜新综艺录制",
+      "onboard_time": 1730347219,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 246633,
@@ -579,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208395,
+      "num": 208395,
+      "word": "B站通报网传员工操纵抽奖",
+      "onboard_time": 1730347820,
+      "rank": 39,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 206458,
       "num": 206458,
       "word": "张艺兴说孙红雷是自己的素材库",
@@ -619,6 +683,30 @@
       "category": "社会新闻,数码"
     },
     {
+      "raw_hot": 194697,
+      "num": 194697,
+      "word": "花儿与少年",
+      "onboard_time": 1730348059,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193892,
+      "num": 193892,
+      "word": "权志龙一度考虑不再发专辑",
+      "onboard_time": 1730346799,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190628,
+      "num": 190628,
+      "word": "保定被殴女高中生发声",
+      "onboard_time": 1730348120,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "专家称孕育会使女性变得更聪明",
@@ -649,6 +737,14 @@
       "onboard_time": 1730338578,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 181581,
+      "num": 181581,
+      "word": "虞书欣11月有录音行程",
+      "onboard_time": 1730347879,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 179917,
@@ -683,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174097,
+      "num": 174097,
+      "word": "我进所有名牌店看价格",
+      "onboard_time": 1730346558,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173562,
       "num": 173562,
       "word": "10月最后一天",
@@ -697,6 +801,22 @@
       "onboard_time": 1730343377,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171425,
+      "num": 171425,
+      "word": "河北一女生晚上就餐时疑遭醉汉殴打",
+      "onboard_time": 1730348420,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169552,
+      "num": 416030,
+      "word": "贝微微 你的大学也这样吗",
+      "onboard_time": 1730348660,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 168433,
@@ -723,12 +843,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 161778,
+      "num": 161778,
+      "word": "男子用滚筒洗衣机3年才发现用错",
+      "onboard_time": 1730348780,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158756,
       "num": 158756,
       "word": "四川省考",
       "onboard_time": 1730339838,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155808,
+      "num": 412769,
+      "word": "小伙称吃了华莱士厕所熬了一晚",
+      "onboard_time": 1730347518,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154620,
@@ -955,6 +1091,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 103279,
+      "num": 226085,
+      "word": "赵丽颖东京电影节活动人气",
+      "onboard_time": 1730347459,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95578,
       "num": 178533,
       "word": "重温金庸书中的侠骨柔情",
@@ -1083,6 +1227,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67487,
+      "num": 409238,
+      "word": "主播号称老人拍视频4个月赚8.5万",
+      "onboard_time": 1730346919,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65713,
+      "num": 431495,
+      "word": "京东11.11红包人人有份",
+      "onboard_time": 1730344639,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 63577,
       "num": 63577,
       "word": "冰雪燃盛世 激情迎亚冬",
@@ -1115,8 +1275,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50094,
-      "num": 799875,
+      "raw_hot": 55067,
+      "num": 910879,
       "word": "太空中的中国式浪漫",
       "onboard_time": 1730344458,
       "rank": 2,
@@ -1128,6 +1288,14 @@
       "word": "郭刚堂用24年找到儿子余生终圆满",
       "onboard_time": 1730324651,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46451,
+      "num": 425140,
+      "word": "英雄丈夫逝去后带来的伤痛",
+      "onboard_time": 1730347518,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37645,
+      "num": 439052,
+      "word": "直击超强台风康妮路径",
+      "onboard_time": 1730347459,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36159,
       "num": 295449,
       "word": "以黎停火协议草案曝光",
@@ -1156,7 +1332,7 @@
     },
     {
       "raw_hot": 31526,
-      "num": 322076,
+      "num": 323145,
       "word": "赵明发文回顾荣耀独立四周年",
       "onboard_time": 1730344639,
       "rank": 28,
@@ -1169,14 +1345,6 @@
       "onboard_time": 1730320871,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30201,
-      "num": 380182,
-      "word": "京东11.11红包人人有份",
-      "onboard_time": 1730344639,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 30029,
