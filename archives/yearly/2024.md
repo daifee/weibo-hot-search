@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/10/31 12:42:34
+本榜单时间：2024/01/01 00:21:05 ~ 2024/10/31 13:23:13
 </p>
 </blockquote>
 <p>
@@ -1389,6 +1389,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
+乔任梁父母发声（热度：8879419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%8F%96%E5%85%B3%E4%BA%86%E5%BC%A0%E7%BB%A7%E7%A7%91%23" target="weibo">
 景甜取关了张继科（热度：8860578）
 </a>
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E8%87%B4132%E4%BA%BA%E9%81%87%E9%9A%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95%E5%8F%91%E5%B8%83%23" target="weibo">
 东航致132人遇难事故调查进展发布（热度：7741702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D%23" target="weibo">
-马丽雷佳音肖战 躲C位（热度：7712771）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730352193431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8879419,
+        "num": 8879419,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808059,
+        "num": 808059,
+        "word": "朝鲜宣布试射洲际弹道导弹",
+        "onboard_time": 1730345119,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42414,
+        "num": 757553,
+        "word": "太空中的中国式浪漫",
+        "onboard_time": 1730344458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1640683,
+        "num": 755509,
+        "word": "贝微微 你的大学也这样吗",
+        "onboard_time": 1730348660,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 752980,
+        "num": 752980,
+        "word": "男子用滚筒洗衣机3年才发现用错",
+        "onboard_time": 1730348780,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437593,
+        "num": 437593,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355745,
+        "num": 425853,
+        "word": "朱桢将报警",
+        "onboard_time": 1730350282,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405826,
+        "num": 405826,
+        "word": "刘翔峰被判17年",
+        "onboard_time": 1730349321,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259291,
+        "num": 405808,
+        "word": "房贷利率重新定价不必再等1年",
+        "onboard_time": 1730339777,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 88653,
+        "num": 405689,
+        "word": "被老师打破头骨女孩可以上学了",
+        "onboard_time": 1730351601,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784318,
+        "num": 405628,
+        "word": "赵露思哭了",
+        "onboard_time": 1730346679,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525021,
+        "num": 405595,
+        "word": "翁青雅 礼物",
+        "onboard_time": 1730346440,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495555,
+        "num": 405542,
+        "word": "12岁400斤女孩父亲决定卖房救女",
+        "onboard_time": 1730349621,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456679,
+        "num": 405457,
+        "word": "刘晓庆 你喜欢我说明我有魅力",
+        "onboard_time": 1730350401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71048,
+        "num": 405389,
+        "word": "十万彩礼做女友造谣事件后续",
+        "onboard_time": 1730350581,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412449,
+        "num": 405332,
+        "word": "女性被叫大姐是冒犯吗",
+        "onboard_time": 1730344278,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406495,
+        "num": 405264,
+        "word": "马龙说的passion是什么意思",
+        "onboard_time": 1730349142,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217306,
+        "num": 405151,
+        "word": "心动的信号节目组希望大家理智追综",
+        "onboard_time": 1730351719,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297054,
+        "num": 405093,
+        "word": "曾黎面部折叠度",
+        "onboard_time": 1730350942,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1004686,
+        "num": 405057,
+        "word": "江歌妈妈连续20天掉粉",
+        "onboard_time": 1730343679,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404997,
+        "num": 404997,
+        "word": "保定多名男子围殴4名女高中生",
+        "onboard_time": 1730349381,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401245,
+        "num": 401245,
+        "word": "学校回应班主任称全家都死了就不用签字",
+        "onboard_time": 1730339777,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370062,
+        "num": 370062,
+        "word": "保定被殴女高中生发声",
+        "onboard_time": 1730348120,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278380,
+        "num": 278380,
+        "word": "26岁渐冻症女生逐渐学会面对死亡",
+        "onboard_time": 1730336901,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275612,
+        "num": 275612,
+        "word": "花少 人设",
+        "onboard_time": 1730350760,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266627,
+        "num": 266627,
+        "word": "杨子真的很想嫁给自己",
+        "onboard_time": 1730351421,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263707,
+        "num": 263707,
+        "word": "刘晓庆十年前发的微博",
+        "onboard_time": 1730338758,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260034,
+        "num": 260034,
+        "word": "吉林男子在同一小区找了5个媳妇",
+        "onboard_time": 1730335759,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253125,
+        "num": 253125,
+        "word": "乔妍的心事豆瓣开分6.1",
+        "onboard_time": 1730345901,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20950,
+        "num": 241512,
+        "word": "郭晶晶一屏一故事",
+        "onboard_time": 1730351001,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257030,
+        "num": 241281,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233778,
+        "num": 233778,
+        "word": "王楚钦童年照",
+        "onboard_time": 1730347341,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227484,
+        "num": 227484,
+        "word": "哈里斯与拜登垃圾言论划清界限",
+        "onboard_time": 1730346740,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220783,
+        "num": 220783,
+        "word": "女孩收200万分手费因敲诈勒索被判刑",
+        "onboard_time": 1730340978,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39221,
+        "num": 214546,
+        "word": "鞠婧祎和羽绒服的适配度",
+        "onboard_time": 1730351001,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 211352,
+        "num": 211352,
+        "word": "乐华团综好像恋综",
+        "onboard_time": 1730350882,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211217,
+        "num": 211217,
+        "word": "完美主义是抑郁症的根源之一",
+        "onboard_time": 1730343377,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207399,
+        "num": 207399,
+        "word": "成都回应女子代孕怀上后遭机构拉黑",
+        "onboard_time": 1730349081,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203747,
+        "num": 203747,
+        "word": "再见爱人",
+        "onboard_time": 1730348599,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194881,
+        "num": 194881,
+        "word": "宝宝呛奶窒息爷爷急晕",
+        "onboard_time": 1730351719,
+        "rank": 39,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 190448,
+        "num": 190448,
+        "word": "B站通报网传员工操纵抽奖",
+        "onboard_time": 1730347820,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 177262,
+        "num": 177262,
+        "word": "郭晶晶的3张人生照片",
+        "onboard_time": 1730341758,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169409,
+        "num": 169409,
+        "word": "上海提醒市民适量囤水囤粮",
+        "onboard_time": 1730342118,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163914,
+        "num": 163914,
+        "word": "留几手下跪",
+        "onboard_time": 1730352080,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159799,
+        "num": 159799,
+        "word": "赵小棠从狗贩子手里救出病狗",
+        "onboard_time": 1730350461,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159637,
+        "num": 159637,
+        "word": "跑腿小哥接到奇怪订单果断报警",
+        "onboard_time": 1730343978,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154530,
+        "num": 154530,
+        "word": "阮小咪回应选李定豪",
+        "onboard_time": 1730338820,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152753,
+        "num": 152753,
+        "word": "如鸢",
+        "onboard_time": 1730351900,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152504,
+        "num": 152504,
+        "word": "我进所有名牌店看价格",
+        "onboard_time": 1730346558,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150631,
+        "num": 150631,
+        "word": "一线城市谁还在生二孩",
+        "onboard_time": 1730352141,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国人探索太空的脚步迈得更稳更远#"
+    }
+  }
+}
