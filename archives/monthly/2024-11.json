@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730413267648,
+  "endTime": 1730414383630,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 319875,
-      "num": 319875,
+      "num": 476775,
       "word": "上海回应明天是否会台风停课",
       "onboard_time": 1730379198,
       "rank": 5,
@@ -147,7 +147,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218813,
+      "raw_hot": 224621,
       "num": 366341,
       "word": "台风",
       "onboard_time": 1730384600,
@@ -201,6 +201,14 @@
       "onboard_time": 1730385920,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175922,
+      "num": 175922,
+      "word": "女子一听要坐牢赶紧转18万养老钱",
+      "onboard_time": 1730403851,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175264,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118479,
-      "num": 125404,
-      "word": "女子一听要坐牢赶紧转18万养老钱",
-      "onboard_time": 1730403851,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118016,
       "num": 118016,
       "word": "JackeyLove回应TES止步八强",
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99718,
+      "num": 99718,
+      "word": "上海站多趟列车因康妮停运",
+      "onboard_time": 1730410212,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97896,
       "num": 97896,
       "word": "阮小咪说与赵牧辰产生了隔阂",
@@ -371,11 +379,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88622,
+      "num": 88622,
+      "word": "美方抽台湾的血养肥自己的军工",
+      "onboard_time": 1730405052,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 87613,
       "num": 87613,
       "word": "男子砍妻事件双方和解",
       "onboard_time": 1730382499,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86766,
+      "num": 86766,
+      "word": "上海或将迎1981年来11月最大降雨",
+      "onboard_time": 1730394974,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -395,28 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76318,
-      "num": 76318,
-      "word": "美方抽台湾的血养肥自己的军工",
-      "onboard_time": 1730405052,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 74588,
       "num": 74588,
       "word": "谢娜回应和杨天真是朋友",
       "onboard_time": 1730382259,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73619,
-      "num": 81910,
-      "word": "上海或将迎1981年来11月最大降雨",
-      "onboard_time": 1730394974,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72510,
@@ -443,12 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65895,
-      "num": 65895,
-      "word": "上海站多趟列车因康妮停运",
-      "onboard_time": 1730410212,
-      "rank": 8,
+      "raw_hot": 66270,
+      "num": 66270,
+      "word": "班主任诅咒学生全家凸显教师心理健康问题",
+      "onboard_time": 1730411771,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64111,
+      "num": 64111,
+      "word": "敖犬的老婆还是薛之谦演过的那个",
+      "onboard_time": 1730383041,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 62510,
@@ -475,11 +491,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 44507,
-      "num": 44507,
-      "word": "班主任诅咒学生全家凸显教师心理健康问题",
-      "onboard_time": 1730411771,
-      "rank": 22,
+      "raw_hot": 48657,
+      "num": 48657,
+      "word": "南京一男子0元购偷出一个超市",
+      "onboard_time": 1730399531,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1730407211,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40118,
-      "num": 40118,
-      "word": "敖犬的老婆还是薛之谦演过的那个",
-      "onboard_time": 1730383041,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 38949,
@@ -523,20 +531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36714,
+      "num": 36714,
+      "word": "家暴男接受采访称是误会",
+      "onboard_time": 1730402412,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36133,
       "num": 54944,
       "word": "联合国机构审查日本天皇继承制",
       "onboard_time": 1730399472,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 33759,
-      "num": 33759,
-      "word": "南京一男子0元购偷出一个超市",
-      "onboard_time": 1730399531,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33374,
@@ -547,11 +555,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26536,
+      "raw_hot": 32850,
       "num": 42519,
       "word": "台风来袭福建出现绝美火烧云",
       "onboard_time": 1730409611,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31069,
+      "num": 31069,
+      "word": "适合11月第1天的文案",
+      "onboard_time": 1730390540,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 27873,
+      "num": 27873,
+      "word": "超强台风康妮7级风圈已触及福建",
+      "onboard_time": 1730414054,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -561,22 +585,6 @@
       "onboard_time": 1730398152,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24830,
-      "num": 24830,
-      "word": "家暴男接受采访称是误会",
-      "onboard_time": 1730402412,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24481,
-      "num": 24481,
-      "word": "适合11月第1天的文案",
-      "onboard_time": 1730390540,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 24286,
@@ -659,8 +667,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13883,
-      "num": 29627,
+      "raw_hot": 14102,
+      "num": 57130,
       "word": "多地上线医保定点药店比价小程序",
       "onboard_time": 1730412733,
       "rank": 36,
@@ -691,8 +699,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12593,
+      "num": 68296,
+      "word": "记者现场直击消防人员转移受困群众",
+      "onboard_time": 1730414113,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10826,
-      "num": 128958,
+      "num": 196059,
       "word": "11月这批新规将施行",
       "onboard_time": 1730388740,
       "rank": 2,
