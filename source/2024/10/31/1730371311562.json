@@ -1,0 +1,410 @@
+{
+  "runTime": 1730371311562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1440144,
+        "num": 1440144,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1164948,
+        "num": 1164948,
+        "word": "姚明离任",
+        "onboard_time": 1730369178,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12836,
+        "num": 981946,
+        "word": "90秒回顾神舟飞天征途",
+        "onboard_time": 1730362519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865607,
+        "num": 865607,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809375,
+        "num": 809375,
+        "word": "马伊琍 演唱会",
+        "onboard_time": 1730367679,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 415628,
+        "num": 415628,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748607,
+        "num": 414651,
+        "word": "陈好 侯明昊怎么能抹得开脸",
+        "onboard_time": 1730364620,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408018,
+        "num": 408018,
+        "word": "听泉鉴宝预测S14决赛比分",
+        "onboard_time": 1730365339,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 474559,
+        "num": 403734,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60357,
+        "num": 397277,
+        "word": "退换家电需要原包装的规矩该改改了",
+        "onboard_time": 1730370018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943819,
+        "num": 390311,
+        "word": "难听",
+        "onboard_time": 1730367257,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443981,
+        "num": 382976,
+        "word": "权志龙回归先行曲上线",
+        "onboard_time": 1730365700,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2797,
+        "num": 377153,
+        "word": "那些风很大的抗衰单品实测",
+        "onboard_time": 1730368818,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 37225,
+        "num": 372684,
+        "word": "警方称海口被遗弃男婴已送医",
+        "onboard_time": 1730369540,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52301,
+        "num": 364148,
+        "word": "甄别抑郁症注意2个核心症状",
+        "onboard_time": 1730370079,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363586,
+        "num": 363586,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30834,
+        "num": 362002,
+        "word": "天猫今晚8点下单记得要用券",
+        "onboard_time": 1730368416,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52961,
+        "num": 360657,
+        "word": "姚明说希望大家继续支持中国篮球",
+        "onboard_time": 1730370318,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59482,
+        "num": 359825,
+        "word": "1分钟回顾姚明7年篮协主席生涯",
+        "onboard_time": 1730370198,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34171,
+        "num": 357596,
+        "word": "拉萨一外卖员逆行碰撞路人被围殴",
+        "onboard_time": 1730369599,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405973,
+        "num": 355522,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213812,
+        "num": 353078,
+        "word": "郭振明为新一任篮协主席",
+        "onboard_time": 1730369480,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557176,
+        "num": 352582,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351206,
+        "num": 351206,
+        "word": "两种性格的人容易得抑郁症",
+        "onboard_time": 1730366718,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290976,
+        "num": 290976,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 289026,
+        "num": 289026,
+        "word": "摇粒绒凭什么统一全国人审美",
+        "onboard_time": 1730364558,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273436,
+        "num": 273436,
+        "word": "女装退货率高的原因找到了",
+        "onboard_time": 1730363178,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270858,
+        "num": 270858,
+        "word": "为什么王俊凯吃的蛋糕都是蓝色的",
+        "onboard_time": 1730368938,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239164,
+        "num": 239164,
+        "word": "50秒感受2艘中国航母同框演练",
+        "onboard_time": 1730366119,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216065,
+        "num": 231253,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230949,
+        "num": 230949,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218683,
+        "num": 218683,
+        "word": "双航母编队演练纯享视频来了",
+        "onboard_time": 1730363779,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30202,
+        "num": 211739,
+        "word": "汽车车身强度有多重要",
+        "onboard_time": 1730370559,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207607,
+        "num": 207607,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204624,
+        "num": 204624,
+        "word": "权志龙新歌Melon曲线第一",
+        "onboard_time": 1730369059,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196647,
+        "num": 196647,
+        "word": "蒲熠星来看柯洁了",
+        "onboard_time": 1730370018,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195655,
+        "num": 195655,
+        "word": "葛夕说麦琳好好离吧",
+        "onboard_time": 1730364197,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25819,
+        "num": 194934,
+        "word": "双11国补商品也能凑单满减了",
+        "onboard_time": 1730368579,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71674,
+        "num": 194565,
+        "word": "姚明不再担任篮协主席",
+        "onboard_time": 1730369358,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194551,
+        "num": 194551,
+        "word": "警方回应博主称在野外发现一具白骨",
+        "onboard_time": 1730367737,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177944,
+        "num": 177944,
+        "word": "小区一大妈在女子窗口下浇粪水种菜",
+        "onboard_time": 1730368399,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175263,
+        "num": 175263,
+        "word": "为什么年轻人更愿意青睐主理人品牌",
+        "onboard_time": 1730370018,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174918,
+        "num": 174918,
+        "word": "国产科幻动画在外网火了",
+        "onboard_time": 1730370378,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173300,
+        "num": 173300,
+        "word": "2024年个人征信恢复无新规发布",
+        "onboard_time": 1730368938,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167958,
+        "num": 167958,
+        "word": "永夜星河这个是真露骨",
+        "onboard_time": 1730369959,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156948,
+        "num": 156948,
+        "word": "花少6陪看vs花少5陪看",
+        "onboard_time": 1730352860,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147756,
+        "num": 147756,
+        "word": "赵露思哭了",
+        "onboard_time": 1730346679,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137183,
+        "num": 137183,
+        "word": "12岁女生一天3杯速溶咖啡导致贫血",
+        "onboard_time": 1730371100,
+        "rank": 47,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 122792,
+        "num": 122792,
+        "word": "王俊凯白色牛仔清爽感",
+        "onboard_time": 1730371158,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118776,
+        "num": 118776,
+        "word": "POWER",
+        "onboard_time": 1730366539,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈锚定建成文化强国战略目标#"
+    }
+  }
+}
