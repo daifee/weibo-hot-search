@@ -1,0 +1,410 @@
+{
+  "runTime": 1730363184446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2340018,
+        "num": 2340018,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1474521,
+        "num": 1474521,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17405,
+        "num": 747947,
+        "word": "90秒回顾神舟飞天征途",
+        "onboard_time": 1730362519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704963,
+        "num": 704963,
+        "word": "贝微微 你的大学也这样吗",
+        "onboard_time": 1730348660,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 492829,
+        "num": 492829,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404037,
+        "num": 404037,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887386,
+        "num": 400423,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719597,
+        "num": 398053,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486867,
+        "num": 393633,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177823,
+        "num": 389583,
+        "word": "多架歼15战机从辽宁舰起飞",
+        "onboard_time": 1730362100,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1736115,
+        "num": 387190,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096001,
+        "num": 384258,
+        "word": "12岁女孩遭强奸未立案民警被控告渎职",
+        "onboard_time": 1730356700,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416376,
+        "num": 380411,
+        "word": "翁青雅 礼物",
+        "onboard_time": 1730346440,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378669,
+        "num": 378669,
+        "word": "麦琳 我配拥有一杯咖啡吗",
+        "onboard_time": 1730353460,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52956,
+        "num": 371986,
+        "word": "60岁成租房年龄分界线",
+        "onboard_time": 1730361740,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370533,
+        "num": 370533,
+        "word": "黄圣依没有个人财产",
+        "onboard_time": 1730356941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248708,
+        "num": 248708,
+        "word": "13319个加沙孩子没了",
+        "onboard_time": 1730356880,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199297,
+        "num": 235343,
+        "word": "李耕耘直播",
+        "onboard_time": 1730362519,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227165,
+        "num": 227165,
+        "word": "保定被殴女高中生发声",
+        "onboard_time": 1730348120,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209486,
+        "num": 209486,
+        "word": "恩佐 分居",
+        "onboard_time": 1730354542,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021993,
+        "num": 208698,
+        "word": "男子家暴挥刀砍妻儿子挺身而出",
+        "onboard_time": 1730357659,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827649,
+        "num": 206752,
+        "word": "南昌一19岁男生捅死22岁女生",
+        "onboard_time": 1730355859,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390168,
+        "num": 205461,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349926,
+        "num": 204235,
+        "word": "花少6陪看vs花少5陪看",
+        "onboard_time": 1730352860,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278039,
+        "num": 202044,
+        "word": "心动的信号",
+        "onboard_time": 1730361199,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201871,
+        "num": 201871,
+        "word": "狗狗就差直接开口说自己吐了",
+        "onboard_time": 1730360719,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201454,
+        "num": 201454,
+        "word": "杨紫连续两年说准MLB冠军",
+        "onboard_time": 1730356039,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 29494,
+        "num": 195284,
+        "word": "天猫双11万省节",
+        "onboard_time": 1730361980,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192964,
+        "num": 192964,
+        "word": "韩日称朝鲜导弹破历史纪录",
+        "onboard_time": 1730355680,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189837,
+        "num": 189837,
+        "word": "河南一男子投资千万建厂遭遇办证难",
+        "onboard_time": 1730357540,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184776,
+        "num": 184776,
+        "word": "12岁400斤女孩父亲决定卖房救女",
+        "onboard_time": 1730349621,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180144,
+        "num": 180144,
+        "word": "赵露思哭了",
+        "onboard_time": 1730346679,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176901,
+        "num": 176901,
+        "word": "刘晓庆王晓玉没离婚",
+        "onboard_time": 1730358860,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170270,
+        "num": 170270,
+        "word": "奥沙利文成为香港居民",
+        "onboard_time": 1730357360,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279656,
+        "num": 170269,
+        "word": "男子用滚筒洗衣机3年才发现用错",
+        "onboard_time": 1730348780,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169792,
+        "num": 169792,
+        "word": "宝宝呛奶窒息爷爷急晕",
+        "onboard_time": 1730351719,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 39044,
+        "num": 162557,
+        "word": "双十一羽绒服怎么选",
+        "onboard_time": 1730361980,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 24345,
+        "num": 161256,
+        "word": "双11抄作业就抄天猫热卖王",
+        "onboard_time": 1730362639,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160680,
+        "num": 160680,
+        "word": "刘晓庆 你喜欢我说明我有魅力",
+        "onboard_time": 1730350401,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148557,
+        "num": 148557,
+        "word": "幼儿园被曝为迎接检查强制买校服",
+        "onboard_time": 1730358500,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24583,
+        "num": 147420,
+        "word": "寒潮预警保暖养生单品成热销主力军",
+        "onboard_time": 1730358679,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146717,
+        "num": 146717,
+        "word": "男子持刀砍妻儿子大喊爸我求你了",
+        "onboard_time": 1730363000,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144889,
+        "num": 144889,
+        "word": "辛芷蕾说赵丽颖比自己更拼命",
+        "onboard_time": 1730361019,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142627,
+        "num": 142627,
+        "word": "郑晓龙让大家多看点别的剧",
+        "onboard_time": 1730361019,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140682,
+        "num": 140682,
+        "word": "台风康妮登陆台湾台东",
+        "onboard_time": 1730358979,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134103,
+        "num": 134103,
+        "word": "官方回应女生称拒绝搭讪被殴",
+        "onboard_time": 1730362940,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132840,
+        "num": 132840,
+        "word": "小巷人家 更快点",
+        "onboard_time": 1730362940,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131842,
+        "num": 131842,
+        "word": "中国2艘航母同框现场",
+        "onboard_time": 1730362760,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126291,
+        "num": 126291,
+        "word": "永夜星河女主背了恶毒女配的锅",
+        "onboard_time": 1730361379,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123423,
+        "num": 123423,
+        "word": "何浩楠赵一博直播",
+        "onboard_time": 1730361560,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈锚定建成文化强国战略目标#"
+    }
+  }
+}
