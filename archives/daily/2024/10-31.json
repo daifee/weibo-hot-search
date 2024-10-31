@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730348872714,
+  "endTime": 1730349754909,
   "band_list": [
     {
       "raw_hot": 2670490,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 642534,
+      "num": 416030,
+      "word": "贝微微 你的大学也这样吗",
+      "onboard_time": 1730348660,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611090,
       "num": 611090,
       "word": "钱学森30多年前设想中国VR技术",
@@ -265,6 +273,14 @@
       "onboard_time": 1730339900,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403884,
+      "num": 403884,
+      "word": "再见爱人",
+      "onboard_time": 1730348599,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 391142,
@@ -419,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302818,
+      "num": 406032,
+      "word": "哈里斯与拜登垃圾言论划清界限",
+      "onboard_time": 1730346740,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 293920,
       "num": 293920,
       "word": "钟薛高成老赖",
@@ -435,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286850,
-      "num": 406032,
-      "word": "哈里斯与拜登垃圾言论划清界限",
-      "onboard_time": 1730346740,
-      "rank": 21,
-      "category": "国外时政"
+      "raw_hot": 284203,
+      "num": 269662,
+      "word": "警方通报南昌工学院持刀伤人事件",
+      "onboard_time": 1730346379,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274919,
@@ -451,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269662,
-      "num": 269662,
-      "word": "警方通报南昌工学院持刀伤人事件",
-      "onboard_time": 1730346379,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 269656,
+      "num": 269656,
+      "word": "马龙说的passion是什么意思",
+      "onboard_time": 1730349142,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 267050,
@@ -491,12 +515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 251981,
-      "num": 393771,
-      "word": "再见爱人",
-      "onboard_time": 1730348599,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 250703,
+      "num": 250703,
+      "word": "保定被殴女高中生发声",
+      "onboard_time": 1730348120,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249996,
+      "num": 249996,
+      "word": "河北一女生晚上就餐时疑遭醉汉殴打",
+      "onboard_time": 1730348420,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249665,
@@ -505,6 +537,14 @@
       "onboard_time": 1730347219,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247348,
+      "num": 247348,
+      "word": "B站通报网传员工操纵抽奖",
+      "onboard_time": 1730347820,
+      "rank": 39,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 246633,
@@ -531,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243456,
+      "num": 243456,
+      "word": "男子用滚筒洗衣机3年才发现用错",
+      "onboard_time": 1730348780,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236817,
       "num": 195805,
       "word": "美大选结果可能要花上几天才能揭晓",
@@ -544,6 +592,14 @@
       "word": "烧伤妈妈30%皮肤基本长好",
       "onboard_time": 1730288538,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234430,
+      "num": 234430,
+      "word": "保定多名男子围殴4名女高中生",
+      "onboard_time": 1730349381,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -635,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208395,
-      "num": 208395,
-      "word": "B站通报网传员工操纵抽奖",
-      "onboard_time": 1730347820,
-      "rank": 39,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 206458,
       "num": 206458,
       "word": "张艺兴说孙红雷是自己的素材库",
@@ -657,6 +705,14 @@
       "onboard_time": 1730344340,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199734,
+      "num": 216500,
+      "word": "南波万的聚会3定档",
+      "onboard_time": 1730348960,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 198263,
@@ -699,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190628,
-      "num": 190628,
-      "word": "保定被殴女高中生发声",
-      "onboard_time": 1730348120,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "专家称孕育会使女性变得更聪明",
@@ -731,6 +779,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 184722,
+      "num": 412346,
+      "word": "刘翔峰被判17年",
+      "onboard_time": 1730349321,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184020,
+      "num": 184020,
+      "word": "成都回应女子代孕怀上后遭机构拉黑",
+      "onboard_time": 1730349081,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182798,
       "num": 182798,
       "word": "六大行明起实施存量房贷利率新机制",
@@ -745,6 +809,14 @@
       "onboard_time": 1730347879,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180362,
+      "num": 180362,
+      "word": "12岁400斤女孩父亲决定卖房救女",
+      "onboard_time": 1730349621,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179917,
@@ -803,22 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171425,
-      "num": 171425,
-      "word": "河北一女生晚上就餐时疑遭醉汉殴打",
-      "onboard_time": 1730348420,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169552,
-      "num": 416030,
-      "word": "贝微微 你的大学也这样吗",
-      "onboard_time": 1730348660,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "辽宁一小区突发大火致1人死亡",
@@ -843,14 +899,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 161778,
-      "num": 161778,
-      "word": "男子用滚筒洗衣机3年才发现用错",
-      "onboard_time": 1730348780,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158756,
       "num": 158756,
       "word": "四川省考",
@@ -859,7 +907,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 155808,
+      "raw_hot": 157167,
       "num": 412769,
       "word": "小伙称吃了华莱士厕所熬了一晚",
       "onboard_time": 1730347518,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1730292558,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121950,
+      "num": 348240,
+      "word": "辛芷蕾说女演员间很容易惺惺相惜",
+      "onboard_time": 1730349321,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 119671,
@@ -1227,20 +1283,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68078,
+      "num": 431495,
+      "word": "京东11.11红包人人有份",
+      "onboard_time": 1730344639,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67487,
       "num": 409238,
       "word": "主播号称老人拍视频4个月赚8.5万",
       "onboard_time": 1730346919,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65713,
-      "num": 431495,
-      "word": "京东11.11红包人人有份",
-      "onboard_time": 1730344639,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 63577,
@@ -1267,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58929,
+      "num": 910879,
+      "word": "太空中的中国式浪漫",
+      "onboard_time": 1730344458,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58667,
       "num": 73590,
       "word": "曼联vs莱斯特城",
@@ -1275,12 +1339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55067,
-      "num": 910879,
-      "word": "太空中的中国式浪漫",
-      "onboard_time": 1730344458,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 51245,
+      "num": 250004,
+      "word": "哺乳期妈妈为24万代孕只收到5000",
+      "onboard_time": 1730348960,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47550,
@@ -1352,6 +1416,14 @@
       "word": "男子吃霸王餐还自称拘留所的",
       "onboard_time": 1730344158,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29626,
+      "num": 412013,
+      "word": "中证A500指数基金规模破千亿",
+      "onboard_time": 1730349562,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
