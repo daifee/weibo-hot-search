@@ -1,0 +1,410 @@
+{
+  "runTime": 1730346289946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 916691,
+        "num": 1146670,
+        "word": "朝鲜宣布试射洲际弹道导弹",
+        "onboard_time": 1730345119,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 910288,
+        "num": 910288,
+        "word": "郭晶晶的3张人生照片",
+        "onboard_time": 1730341758,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50094,
+        "num": 799875,
+        "word": "太空中的中国式浪漫",
+        "onboard_time": 1730344458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 744702,
+        "num": 744702,
+        "word": "26岁渐冻症女生逐渐学会面对死亡",
+        "onboard_time": 1730336901,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622044,
+        "num": 622044,
+        "word": "房贷利率重新定价不必再等1年",
+        "onboard_time": 1730339777,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 444346,
+        "num": 444346,
+        "word": "钱学森30多年前设想中国VR技术",
+        "onboard_time": 1730336178,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400787,
+        "num": 400787,
+        "word": "峰哥",
+        "onboard_time": 1730342538,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398091,
+        "num": 398091,
+        "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+        "onboard_time": 1730307015,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391889,
+        "num": 391889,
+        "word": "加沙医护救人结果抬了妈妈的遗体",
+        "onboard_time": 1730336178,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 369878,
+        "num": 391734,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2670490,
+        "num": 390534,
+        "word": "江歌妈妈连续20天掉粉",
+        "onboard_time": 1730343679,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101316,
+        "num": 389730,
+        "word": "网曝高校一男生持刀捅刺女生",
+        "onboard_time": 1730342718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351136,
+        "num": 388328,
+        "word": "阮小咪回应选李定豪",
+        "onboard_time": 1730338820,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71871,
+        "num": 386986,
+        "word": "小伙网上找师傅开锁被收费1600",
+        "onboard_time": 1730345057,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352330,
+        "num": 386196,
+        "word": "乔妍的心事豆瓣开分6.1",
+        "onboard_time": 1730345901,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 823014,
+        "num": 385196,
+        "word": "女孩收200万分手费因敲诈勒索被判刑",
+        "onboard_time": 1730340978,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754207,
+        "num": 384083,
+        "word": "学校回应班主任称全家都死了就不用签字",
+        "onboard_time": 1730339777,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465097,
+        "num": 383426,
+        "word": "江歌妈妈直播拒绝回应其它",
+        "onboard_time": 1730335400,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279889,
+        "num": 381878,
+        "word": "小巷人家范丞丞出场镜头",
+        "onboard_time": 1730339900,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243826,
+        "num": 381278,
+        "word": "声生不息",
+        "onboard_time": 1730343978,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28934,
+        "num": 380182,
+        "word": "京东11.11红包人人有份",
+        "onboard_time": 1730344639,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 624559,
+        "num": 379417,
+        "word": "刘晓庆十年前发的微博",
+        "onboard_time": 1730338758,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566518,
+        "num": 378297,
+        "word": "吉林男子在同一小区找了5个媳妇",
+        "onboard_time": 1730335759,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377643,
+        "num": 377643,
+        "word": "马斯克因百万美元抽奖被要求出席听证会",
+        "onboard_time": 1730342238,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 328410,
+        "num": 328410,
+        "word": "十一月行程图",
+        "onboard_time": 1730343859,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21433,
+        "num": 322076,
+        "word": "赵明发文回顾荣耀独立四周年",
+        "onboard_time": 1730344639,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 321647,
+        "num": 321647,
+        "word": "完美主义是抑郁症的根源之一",
+        "onboard_time": 1730343377,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188960,
+        "num": 315994,
+        "word": "日本MAMA特别舞台没有章昊",
+        "onboard_time": 1730340678,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177249,
+        "num": 314929,
+        "word": "小鬼评论区听取喳声一片",
+        "onboard_time": 1730345479,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141406,
+        "num": 314861,
+        "word": "彭小苒发了和龚俊合照",
+        "onboard_time": 1730337978,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314825,
+        "num": 314825,
+        "word": "女性被叫大姐是冒犯吗",
+        "onboard_time": 1730344278,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285256,
+        "num": 285256,
+        "word": "上海提醒市民适量囤水囤粮",
+        "onboard_time": 1730342118,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267050,
+        "num": 267050,
+        "word": "跑腿小哥接到奇怪订单果断报警",
+        "onboard_time": 1730343978,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227902,
+        "num": 227902,
+        "word": "爷爷用钢丝球帮孙女洗车",
+        "onboard_time": 1730330837,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225005,
+        "num": 225005,
+        "word": "中国航天已进入航班化状态",
+        "onboard_time": 1730343617,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218275,
+        "num": 218275,
+        "word": "这个十月因鲜艳中国红而深挚滚烫",
+        "onboard_time": 1730343318,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203591,
+        "num": 203591,
+        "word": "理记 江秋莲",
+        "onboard_time": 1730338219,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202926,
+        "num": 202926,
+        "word": "马龙回应能不能打下去",
+        "onboard_time": 1730344340,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192245,
+        "num": 192245,
+        "word": "航天员导弹这些词都出自钱学森",
+        "onboard_time": 1730339900,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134131,
+        "num": 168479,
+        "word": "虞书欣丁禹兮新剧对抗路情侣",
+        "onboard_time": 1730346199,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160516,
+        "num": 160516,
+        "word": "日方称朝鲜发射疑似弹道导弹物体",
+        "onboard_time": 1730341099,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157242,
+        "num": 157242,
+        "word": "男子面试被要求打斗地主输掉1.5万元",
+        "onboard_time": 1730304618,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151764,
+        "num": 151764,
+        "word": "医生解答自制预制菜到底可不可行",
+        "onboard_time": 1730339180,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150509,
+        "num": 150509,
+        "word": "Ruler说支持T1夺冠",
+        "onboard_time": 1730342538,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150280,
+        "num": 150280,
+        "word": "开封王婆获全国媒婆大赛一等奖",
+        "onboard_time": 1730335040,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142435,
+        "num": 142435,
+        "word": "A股",
+        "onboard_time": 1730346139,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139367,
+        "num": 139367,
+        "word": "武大靖比赛服的强度比防弹衣还高4成",
+        "onboard_time": 1730343377,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139137,
+        "num": 139137,
+        "word": "少女前线宣布停服",
+        "onboard_time": 1730341998,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138903,
+        "num": 138903,
+        "word": "江歌妈妈停播20天后复播",
+        "onboard_time": 1730336659,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130013,
+        "num": 130013,
+        "word": "不吃早饭这种疾病风险大大增加",
+        "onboard_time": 1730344038,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国人探索太空的脚步迈得更稳更远#"
+    }
+  }
+}
