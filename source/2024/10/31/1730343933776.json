@@ -1,0 +1,402 @@
+{
+  "runTime": 1730343933776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977164,
+        "num": 1156346,
+        "word": "郭晶晶的3张人生照片",
+        "onboard_time": 1730341758,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 929290,
+        "num": 929290,
+        "word": "26岁渐冻症女生逐渐学会面对死亡",
+        "onboard_time": 1730336901,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20586,
+        "num": 829931,
+        "word": "亚冬会火炬满满的中国式浪漫",
+        "onboard_time": 1730295921,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 789751,
+        "num": 789751,
+        "word": "房贷利率重新定价不必再等1年",
+        "onboard_time": 1730339777,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 501270,
+        "num": 501270,
+        "word": "钱学森30多年前设想中国VR技术",
+        "onboard_time": 1730336178,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448959,
+        "num": 448959,
+        "word": "阮小咪回应选李定豪",
+        "onboard_time": 1730338820,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417206,
+        "num": 417206,
+        "word": "小巷人家范丞丞出场镜头",
+        "onboard_time": 1730339900,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414221,
+        "num": 414221,
+        "word": "加沙医护救人结果抬了妈妈的遗体",
+        "onboard_time": 1730336178,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359776,
+        "num": 359776,
+        "word": "被捕韩国间谍曾在多家中国芯片厂工作",
+        "onboard_time": 1730307015,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105633,
+        "num": 359686,
+        "word": "完美主义是抑郁症的根源之一",
+        "onboard_time": 1730343377,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307674,
+        "num": 359326,
+        "word": "学校回应班主任称全家都死了就不用签字",
+        "onboard_time": 1730339777,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719746,
+        "num": 358895,
+        "word": "女孩收200万分手费因敲诈勒索被判刑",
+        "onboard_time": 1730340978,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590499,
+        "num": 358519,
+        "word": "江歌妈妈直播拒绝回应其它",
+        "onboard_time": 1730335400,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396214,
+        "num": 358384,
+        "word": "网曝高校一男生持刀捅刺女生",
+        "onboard_time": 1730342718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454024,
+        "num": 357825,
+        "word": "理记 江秋莲",
+        "onboard_time": 1730338219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337458,
+        "num": 357673,
+        "word": "峰哥",
+        "onboard_time": 1730342538,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270745,
+        "num": 357335,
+        "word": "彭小苒发了和龚俊合照",
+        "onboard_time": 1730337978,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252886,
+        "num": 356782,
+        "word": "日本MAMA特别舞台没有章昊",
+        "onboard_time": 1730340678,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76286,
+        "num": 356684,
+        "word": "迈克尔杰克逊金手掌国内首拍",
+        "onboard_time": 1730343259,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356371,
+        "num": 356371,
+        "word": "开封王婆获全国媒婆大赛一等奖",
+        "onboard_time": 1730335040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712614,
+        "num": 354958,
+        "word": "刘晓庆十年前发的微博",
+        "onboard_time": 1730338758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353424,
+        "num": 353424,
+        "word": "吉林男子在同一小区找了5个媳妇",
+        "onboard_time": 1730335759,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333581,
+        "num": 333581,
+        "word": "上海提醒市民适量囤水囤粮",
+        "onboard_time": 1730342118,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333061,
+        "num": 333061,
+        "word": "马斯克因百万美元抽奖被要求出席听证会",
+        "onboard_time": 1730342238,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162815,
+        "num": 318933,
+        "word": "这个十月因鲜艳中国红而深挚滚烫",
+        "onboard_time": 1730343318,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313744,
+        "num": 313744,
+        "word": "航天员导弹这些词都出自钱学森",
+        "onboard_time": 1730339900,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295267,
+        "num": 295267,
+        "word": "爷爷用钢丝球帮孙女洗车",
+        "onboard_time": 1730330837,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243122,
+        "num": 243122,
+        "word": "少女前线宣布停服",
+        "onboard_time": 1730341998,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174592,
+        "num": 241723,
+        "word": "侯明昊被陈好贴脸开大",
+        "onboard_time": 1730298802,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36159,
+        "num": 241679,
+        "word": "以黎停火协议草案曝光",
+        "onboard_time": 1730342899,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 241640,
+        "num": 241640,
+        "word": "江歌妈妈连续20天掉粉",
+        "onboard_time": 1730343679,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237655,
+        "num": 237655,
+        "word": "江歌妈妈停播20天后复播",
+        "onboard_time": 1730336659,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209970,
+        "num": 209970,
+        "word": "任天堂音乐APP上线",
+        "onboard_time": 1730343018,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "小西天保安大爷称因雨天买药被辞退",
+        "onboard_time": 1730339239,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178671,
+        "num": 178671,
+        "word": "Ruler说支持T1夺冠",
+        "onboard_time": 1730342538,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178137,
+        "num": 178137,
+        "word": "人贩子道歉竟然说添麻烦了",
+        "onboard_time": 1730294360,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176461,
+        "num": 176461,
+        "word": "男子面试被要求打斗地主输掉1.5万元",
+        "onboard_time": 1730304618,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173013,
+        "num": 173013,
+        "word": "武大靖比赛服的强度比防弹衣还高4成",
+        "onboard_time": 1730343377,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172130,
+        "num": 172130,
+        "word": "医生解答自制预制菜到底可不可行",
+        "onboard_time": 1730339180,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133174,
+        "num": 162946,
+        "word": "权志龙出歌melon崩了",
+        "onboard_time": 1730333898,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158756,
+        "num": 158756,
+        "word": "四川省考",
+        "onboard_time": 1730339838,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157589,
+        "num": 157589,
+        "word": "GEN输T1疑似有外在因素",
+        "onboard_time": 1730335100,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153606,
+        "num": 153606,
+        "word": "中国航天已进入航班化状态",
+        "onboard_time": 1730343617,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "10月最后一天",
+        "onboard_time": 1730339958,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150350,
+        "num": 150350,
+        "word": "十一月行程图",
+        "onboard_time": 1730343859,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150180,
+        "num": 150180,
+        "word": "雷军预判小米su7ultra价格遭质疑",
+        "onboard_time": 1730336540,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146752,
+        "num": 146752,
+        "word": "天秤年底运势最强分析",
+        "onboard_time": 1730338698,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144933,
+        "num": 144933,
+        "word": "班主任放狠话全家都死了就不用签字",
+        "onboard_time": 1730340017,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128398,
+        "num": 140562,
+        "word": "大梦归离三代白泽神女",
+        "onboard_time": 1730336299,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈锚定建成文化强国战略目标#"
+    }
+  }
+}
