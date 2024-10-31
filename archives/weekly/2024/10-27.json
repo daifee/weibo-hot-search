@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730352193431,
+  "endTime": 1730353211383,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922519,
+      "num": 350276,
+      "word": "金晨被北斗七行骗出国",
+      "onboard_time": 1730351960,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 921021,
       "num": 415024,
       "word": "女孩收200万分手费因敲诈勒索被判刑",
@@ -1864,6 +1872,14 @@
       "word": "刘亦菲梦女",
       "onboard_time": 1730202441,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 840370,
+      "num": 350833,
+      "word": "曝杨天真签了谢娜张杰",
+      "onboard_time": 1730352200,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -3107,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509827,
+      "num": 404997,
+      "word": "保定多名男子围殴4名女高中生",
+      "onboard_time": 1730349381,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509136,
       "num": 345320,
       "word": "邪恶银渐层这个称号可不是吹的",
@@ -3363,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474481,
+      "num": 405264,
+      "word": "马龙说的passion是什么意思",
+      "onboard_time": 1730349142,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474072,
       "num": 474072,
       "word": "钟睒睒3615亿重回中国首富",
@@ -3563,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434385,
+      "num": 300467,
+      "word": "留几手下跪",
+      "onboard_time": 1730352080,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 433875,
       "num": 334679,
       "word": "LV柜姐事件原配已提起离婚",
@@ -3739,14 +3779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 406495,
-      "num": 405264,
-      "word": "马龙说的passion是什么意思",
-      "onboard_time": 1730349142,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 405971,
       "num": 323615,
       "word": "金鸡奖最佳女主提名3个00后",
@@ -3769,14 +3801,6 @@
       "onboard_time": 1730279059,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404997,
-      "num": 404997,
-      "word": "保定多名男子围殴4名女高中生",
-      "onboard_time": 1730349381,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403952,
@@ -4137,6 +4161,22 @@
       "onboard_time": 1730348120,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370030,
+      "num": 405151,
+      "word": "心动的信号节目组希望大家理智追综",
+      "onboard_time": 1730351719,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369436,
+      "num": 282238,
+      "word": "宝宝呛奶窒息爷爷急晕",
+      "onboard_time": 1730351719,
+      "rank": 39,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 367979,
@@ -5235,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278635,
+      "num": 278635,
+      "word": "杨子真的很想嫁给自己",
+      "onboard_time": 1730351421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276713,
       "num": 276713,
       "word": "大藤沙月4比2张本美和",
@@ -5371,14 +5419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266627,
-      "num": 266627,
-      "word": "杨子真的很想嫁给自己",
-      "onboard_time": 1730351421,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265541,
       "num": 265541,
       "word": "偷偷藏不住婚卡怎么看都有面",
@@ -5497,14 +5537,6 @@
       "onboard_time": 1729951341,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257030,
-      "num": 241281,
-      "word": "金晨被北斗七行骗出国",
-      "onboard_time": 1730351960,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 256907,
@@ -6691,14 +6723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 217306,
-      "num": 405151,
-      "word": "心动的信号节目组希望大家理智追综",
-      "onboard_time": 1730351719,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217004,
       "num": 217004,
       "word": "江西古城墙上有块500年前的小猫砖",
@@ -6963,12 +6987,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207685,
+      "num": 207685,
+      "word": "花少6陪看vs花少5陪看",
+      "onboard_time": 1730352860,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207399,
       "num": 207399,
       "word": "成都回应女子代孕怀上后遭机构拉黑",
       "onboard_time": 1730349081,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207318,
+      "num": 207318,
+      "word": "密室大逃脱ip对撞季",
+      "onboard_time": 1730352740,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 207308,
@@ -7521,14 +7561,6 @@
       "onboard_time": 1730100258,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194881,
-      "num": 194881,
-      "word": "宝宝呛奶窒息爷爷急晕",
-      "onboard_time": 1730351719,
-      "rank": 39,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 194846,
@@ -8683,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170119,
+      "num": 170119,
+      "word": "白鹿11月进组唐宫奇案",
+      "onboard_time": 1730352920,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170011,
       "num": 170011,
       "word": "罗慎远又和罗宜宁上一个户口",
@@ -9041,14 +9081,6 @@
       "onboard_time": 1730269759,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163914,
-      "num": 163914,
-      "word": "留几手下跪",
-      "onboard_time": 1730352080,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 163792,
@@ -10065,6 +10097,14 @@
       "onboard_time": 1730154554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139805,
+      "num": 349452,
+      "word": "黑白诀 听女性血肉疯长的声音",
+      "onboard_time": 1730352799,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 139412,
@@ -11113,6 +11153,14 @@
       "onboard_time": 1730113579,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107436,
+      "num": 320122,
+      "word": "敖犬领证",
+      "onboard_time": 1730352981,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 107304,
@@ -12580,7 +12628,7 @@
     },
     {
       "raw_hot": 39221,
-      "num": 214546,
+      "num": 349874,
       "word": "鞠婧祎和羽绒服的适配度",
       "onboard_time": 1730351001,
       "rank": 34,
@@ -12921,6 +12969,14 @@
       "onboard_time": 1730239692,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33182,
+      "num": 140469,
+      "word": "华为见非凡品牌计划",
+      "onboard_time": 1730353100,
+      "rank": 47,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 32499,
