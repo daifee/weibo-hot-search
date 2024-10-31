@@ -1,0 +1,410 @@
+{
+  "runTime": 1730360205980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2019615,
+        "num": 2019615,
+        "word": "乔任梁父母发声",
+        "onboard_time": 1730350221,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1228461,
+        "num": 1228461,
+        "word": "贝微微 你的大学也这样吗",
+        "onboard_time": 1730348660,
+        "rank": 1,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 8308,
+        "num": 497046,
+        "word": "亚冬会火炬满满的中国式浪漫",
+        "onboard_time": 1730295921,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453191,
+        "num": 453191,
+        "word": "韩日称朝鲜导弹破历史纪录",
+        "onboard_time": 1730355680,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 321226,
+        "num": 321226,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166448,
+        "num": 319089,
+        "word": "朱桢称已照顾乔任梁父母多年",
+        "onboard_time": 1730355141,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648025,
+        "num": 312648,
+        "word": "曝杨天真签了谢娜张杰",
+        "onboard_time": 1730352200,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607730,
+        "num": 309901,
+        "word": "金晨被北斗七行骗出国",
+        "onboard_time": 1730351960,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64092,
+        "num": 305234,
+        "word": "台风康妮登陆台湾台东",
+        "onboard_time": 1730358979,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246398,
+        "num": 300031,
+        "word": "辽宁舰山东舰编队首次双航母编队演练",
+        "onboard_time": 1730359338,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1660692,
+        "num": 298989,
+        "word": "12岁女孩遭强奸未立案民警被控告渎职",
+        "onboard_time": 1730356700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007416,
+        "num": 292924,
+        "word": "南昌一19岁男生捅死22岁女生",
+        "onboard_time": 1730355859,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944318,
+        "num": 289223,
+        "word": "男子家暴挥刀砍妻儿子挺身而出",
+        "onboard_time": 1730357659,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428135,
+        "num": 285421,
+        "word": "麦琳 我配拥有一杯咖啡吗",
+        "onboard_time": 1730353460,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57060,
+        "num": 279680,
+        "word": "幼儿园被曝为迎接检查强制买校服",
+        "onboard_time": 1730358500,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422583,
+        "num": 275176,
+        "word": "黄圣依没有个人财产",
+        "onboard_time": 1730356941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386697,
+        "num": 272161,
+        "word": "花少6陪看vs花少5陪看",
+        "onboard_time": 1730352860,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353646,
+        "num": 265194,
+        "word": "恩佐 分居",
+        "onboard_time": 1730354542,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263671,
+        "num": 263671,
+        "word": "朝鲜宣布试射洲际弹道导弹",
+        "onboard_time": 1730345119,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27838,
+        "num": 262173,
+        "word": "莫借正义名让逝者家属雪上加霜",
+        "onboard_time": 1730359819,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543208,
+        "num": 259918,
+        "word": "女子婚后翻丈夫包发现抗艾滋药物",
+        "onboard_time": 1730355980,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371172,
+        "num": 257765,
+        "word": "杨紫连续两年说准MLB冠军",
+        "onboard_time": 1730356039,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 332918,
+        "num": 254660,
+        "word": "男子用滚筒洗衣机3年才发现用错",
+        "onboard_time": 1730348780,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253064,
+        "num": 253064,
+        "word": "奥沙利文成为香港居民",
+        "onboard_time": 1730357360,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239282,
+        "num": 239282,
+        "word": "翁青雅 礼物",
+        "onboard_time": 1730346440,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233292,
+        "num": 233292,
+        "word": "谷歌被俄罗斯罚款35位数",
+        "onboard_time": 1730359580,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231593,
+        "num": 231593,
+        "word": "赵露思哭了",
+        "onboard_time": 1730346679,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224966,
+        "num": 224966,
+        "word": "刘晓庆王晓玉没离婚",
+        "onboard_time": 1730358860,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25506,
+        "num": 206012,
+        "word": "天猫双11国补凑单低至55折",
+        "onboard_time": 1730358259,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199651,
+        "num": 199651,
+        "word": "宝宝呛奶窒息爷爷急晕",
+        "onboard_time": 1730351719,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 192177,
+        "num": 192177,
+        "word": "刘翔峰被判17年",
+        "onboard_time": 1730349321,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32600,
+        "num": 185812,
+        "word": "寒潮预警保暖养生单品成热销主力军",
+        "onboard_time": 1730358679,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182799,
+        "num": 182799,
+        "word": "刘晓庆 你喜欢我说明我有魅力",
+        "onboard_time": 1730350401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171104,
+        "num": 171104,
+        "word": "孙颖莎回家也在训练",
+        "onboard_time": 1730355618,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166010,
+        "num": 166010,
+        "word": "东北盒饭出现在美国早市2小时售罄",
+        "onboard_time": 1730354598,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164067,
+        "num": 164067,
+        "word": "保定被殴女高中生发声",
+        "onboard_time": 1730348120,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160486,
+        "num": 160486,
+        "word": "南昌工学院回应发生持刀伤人事件",
+        "onboard_time": 1730355980,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146057,
+        "num": 146057,
+        "word": "12岁400斤女孩父亲决定卖房救女",
+        "onboard_time": 1730349621,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136425,
+        "num": 136425,
+        "word": "江歌妈网店多款产品销量为0",
+        "onboard_time": 1730359819,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136222,
+        "num": 136222,
+        "word": "小巷人家收视率创新高",
+        "onboard_time": 1730357659,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132422,
+        "num": 132422,
+        "word": "13319个加沙孩子没了",
+        "onboard_time": 1730356880,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129578,
+        "num": 129578,
+        "word": "敖犬领证",
+        "onboard_time": 1730352981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121139,
+        "num": 121139,
+        "word": "杨子黄圣依结婚17年再试婚",
+        "onboard_time": 1730354119,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118376,
+        "num": 118376,
+        "word": "台风康妮影响福建",
+        "onboard_time": 1730358439,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115877,
+        "num": 115877,
+        "word": "阿雅好温柔",
+        "onboard_time": 1730359519,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109679,
+        "num": 109679,
+        "word": "河南一男子投资千万建厂遭遇办证难",
+        "onboard_time": 1730357540,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108074,
+        "num": 108074,
+        "word": "心动的信号节目组希望大家理智追综",
+        "onboard_time": 1730351719,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106764,
+        "num": 106764,
+        "word": "樊振东发现皇马杂志里的霉霉",
+        "onboard_time": 1730359999,
+        "rank": 47,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 101986,
+        "num": 101986,
+        "word": "麦琳想让李行亮拍照",
+        "onboard_time": 1730359519,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101011,
+        "num": 101011,
+        "word": "高位股遭批量炸板潮",
+        "onboard_time": 1730360179,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国人探索太空的脚步迈得更稳更远#"
+    }
+  }
+}
