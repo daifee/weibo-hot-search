@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730366623550,
+  "endTime": 1730367467375,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -193,6 +193,14 @@
       "onboard_time": 1730339777,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 822637,
+      "num": 460431,
+      "word": "陈好 侯明昊怎么能抹得开脸",
+      "onboard_time": 1730364620,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 818261,
@@ -443,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486585,
+      "num": 427651,
+      "word": "听泉鉴宝预测S14决赛比分",
+      "onboard_time": 1730365339,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 483530,
       "num": 483530,
       "word": "双航母编队演练纯享视频来了",
@@ -513,14 +529,6 @@
       "onboard_time": 1730344278,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409839,
-      "num": 409839,
-      "word": "陈好 侯明昊怎么能抹得开脸",
-      "onboard_time": 1730364620,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 405826,
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352515,
-      "num": 352515,
-      "word": "听泉鉴宝预测S14决赛比分",
-      "onboard_time": 1730365339,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 347759,
       "num": 347759,
       "word": "魔道祖师",
@@ -704,6 +704,14 @@
       "word": "完美主义是抑郁症的根源之一",
       "onboard_time": 1730343377,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316739,
+      "num": 316739,
+      "word": "广州女子耳鸣厉害取出一只活蟑螂",
+      "onboard_time": 1730365579,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -771,12 +779,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 295956,
+      "num": 295956,
+      "word": "POWER",
+      "onboard_time": 1730366539,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293920,
       "num": 293920,
       "word": "钟薛高成老赖",
       "onboard_time": 1730333658,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290003,
+      "num": 490360,
+      "word": "50秒感受2艘中国航母同框演练",
+      "onboard_time": 1730366119,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288359,
@@ -827,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267318,
+      "num": 267318,
+      "word": "一加13",
+      "onboard_time": 1730355378,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 267050,
       "num": 267050,
       "word": "跑腿小哥接到奇怪订单果断报警",
       "onboard_time": 1730343978,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265578,
-      "num": 265578,
-      "word": "一加13",
-      "onboard_time": 1730355378,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 264768,
@@ -1027,28 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215310,
-      "num": 215310,
-      "word": "广州女子耳鸣厉害取出一只活蟑螂",
-      "onboard_time": 1730365579,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214244,
       "num": 214244,
       "word": "医生解答自制预制菜到底可不可行",
       "onboard_time": 1730339180,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213189,
-      "num": 490360,
-      "word": "50秒感受2艘中国航母同框演练",
-      "onboard_time": 1730366119,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 212493,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1730327893,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204983,
+      "num": 204983,
+      "word": "权志龙新歌MV公开",
+      "onboard_time": 1730367019,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 203206,
@@ -1283,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182256,
+      "num": 182256,
+      "word": "周慧敏56岁状态",
+      "onboard_time": 1730365939,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181581,
       "num": 181581,
       "word": "虞书欣11月有录音行程",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1730353342,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174172,
+      "num": 174172,
+      "word": "难听",
+      "onboard_time": 1730367257,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 174097,
@@ -1411,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163760,
-      "num": 163760,
-      "word": "周慧敏56岁状态",
-      "onboard_time": 1730365939,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "鲨鱼裤成为年轻人的新秋裤",
@@ -1475,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153419,
+      "num": 153419,
+      "word": "李嘉格说张馨予负责漂亮就好",
+      "onboard_time": 1730366418,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152753,
       "num": 152753,
       "word": "如鸢",
@@ -1491,28 +1523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151544,
+      "num": 151544,
+      "word": "深圳官方回应市民建议禁行电单车",
+      "onboard_time": 1730365219,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150631,
       "num": 150631,
       "word": "一线城市谁还在生二孩",
       "onboard_time": 1730352141,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148735,
-      "num": 148735,
-      "word": "李嘉格说张馨予负责漂亮就好",
-      "onboard_time": 1730366418,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 148150,
-      "num": 148150,
-      "word": "POWER",
-      "onboard_time": 1730366539,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 146894,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1730296041,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143331,
-      "num": 143331,
-      "word": "深圳官方回应市民建议禁行电单车",
-      "onboard_time": 1730365219,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142700,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1730358439,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136860,
+      "num": 136860,
+      "word": "马龙说这个奖项属于中国乒乓球队",
+      "onboard_time": 1730366839,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 134131,
@@ -1963,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79707,
+      "num": 448648,
+      "word": "两种性格的人容易得抑郁症",
+      "onboard_time": 1730366718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78783,
       "num": 117409,
       "word": "任敏婚服造型 白月光",
@@ -2067,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60207,
+      "num": 197882,
+      "word": "林诗栋蒯曼vs吴晙诚金谞润",
+      "onboard_time": 1730366780,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59139,
       "num": 73780,
       "word": "三只羊辟谣小杨哥复播",
@@ -2096,6 +2136,14 @@
       "word": "官方回应哺乳期妈妈做代孕被赖账",
       "onboard_time": 1730354119,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54978,
+      "num": 416817,
+      "word": "抑郁症并非普通的心情不好",
+      "onboard_time": 1730367438,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2179,6 +2227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 35490,
+      "num": 486836,
+      "word": "双11抄作业就抄天猫热卖王",
+      "onboard_time": 1730362639,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34496,
       "num": 215609,
       "word": "BLG拍摄笑话两则",
@@ -2204,18 +2260,10 @@
     },
     {
       "raw_hot": 33958,
-      "num": 192675,
+      "num": 198295,
       "word": "淘宝百亿补贴两台空调只要11块多",
       "onboard_time": 1730365579,
       "rank": 29,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 33415,
-      "num": 486836,
-      "word": "双11抄作业就抄天猫热卖王",
-      "onboard_time": 1730362639,
-      "rank": 37,
       "category": "互联网"
     },
     {
