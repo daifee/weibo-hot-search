@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730406158502,
+  "endTime": 1730407081979,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71484,
+      "num": 71484,
+      "word": "女子一听要坐牢赶紧转18万养老钱",
+      "onboard_time": 1730403851,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67488,
       "num": 67488,
       "word": "女孩模仿冰箱贴仕女妆造萌翻路人",
@@ -449,14 +457,6 @@
       "onboard_time": 1730393896,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 41219,
-      "num": 41219,
-      "word": "女子一听要坐牢赶紧转18万养老钱",
-      "onboard_time": 1730403851,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40118,
@@ -609,6 +609,14 @@
       "onboard_time": 1730405412,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12684,
+      "num": 32521,
+      "word": "美方抽台湾的血养肥自己的军工",
+      "onboard_time": 1730405052,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 10826,
