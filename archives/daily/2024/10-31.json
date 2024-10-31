@@ -1,6 +1,6 @@
 {
   "startTime": 1730305732174,
-  "endTime": 1730340136953,
+  "endTime": 1730343375952,
   "band_list": [
     {
       "raw_hot": 1350978,
@@ -8,6 +8,14 @@
       "word": "江歌妈妈直播拒绝回应其它",
       "onboard_time": 1730335400,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1347434,
+      "num": 394417,
+      "word": "学校回应班主任称全家都死了就不用签字",
+      "onboard_time": 1730339777,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -27,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952547,
+      "num": 1152407,
+      "word": "26岁渐冻症女生逐渐学会面对死亡",
+      "onboard_time": 1730336901,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 894686,
+      "num": 894686,
+      "word": "房贷利率重新定价不必再等1年",
+      "onboard_time": 1730339777,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 818261,
       "num": 911199,
       "word": "权志龙直播",
@@ -43,12 +67,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688628,
-      "num": 283209,
+      "raw_hot": 817140,
+      "num": 356832,
       "word": "刘晓庆十年前发的微博",
       "onboard_time": 1730338758,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715300,
+      "num": 715300,
+      "word": "郭晶晶的3张人生照片",
+      "onboard_time": 1730341758,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 686374,
@@ -75,6 +107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611090,
+      "num": 611090,
+      "word": "钱学森30多年前设想中国VR技术",
+      "onboard_time": 1730336178,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608932,
+      "num": 361913,
+      "word": "理记 江秋莲",
+      "onboard_time": 1730338219,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555316,
       "num": 555316,
       "word": "人贩子道歉竟然说添麻烦了",
@@ -92,7 +140,7 @@
     },
     {
       "raw_hot": 539586,
-      "num": 282958,
+      "num": 293661,
       "word": "爷爷用钢丝球帮孙女洗车",
       "onboard_time": 1730330837,
       "rank": 33,
@@ -123,19 +171,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451137,
-      "num": 451137,
-      "word": "26岁渐冻症女生逐渐学会面对死亡",
-      "onboard_time": 1730336901,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440727,
-      "num": 282721,
+      "num": 353847,
       "word": "吉林男子在同一小区找了5个媳妇",
       "onboard_time": 1730335759,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436213,
+      "num": 436213,
+      "word": "小巷人家范丞丞出场镜头",
+      "onboard_time": 1730339900,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421962,
+      "num": 378355,
+      "word": "女孩收200万分手费因敲诈勒索被判刑",
+      "onboard_time": 1730340978,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -145,6 +201,14 @@
       "onboard_time": 1730336540,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 390005,
+      "num": 354880,
+      "word": "江歌妈妈停播20天后复播",
+      "onboard_time": 1730336659,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381884,
@@ -187,28 +251,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 355293,
-      "num": 355293,
-      "word": "理记 江秋莲",
-      "onboard_time": 1730338219,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347759,
       "num": 347759,
       "word": "魔道祖师",
       "onboard_time": 1730334799,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 345015,
-      "num": 345015,
-      "word": "江歌妈妈停播20天后复播",
-      "onboard_time": 1730336659,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342154,
@@ -243,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308343,
+      "num": 308343,
+      "word": "航天员导弹这些词都出自钱学森",
+      "onboard_time": 1730339900,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 307586,
       "num": 202889,
       "word": "彭高 翁青雅",
@@ -252,11 +308,19 @@
     },
     {
       "raw_hot": 306165,
-      "num": 345870,
+      "num": 368821,
       "word": "彭小苒发了和龚俊合照",
       "onboard_time": 1730337978,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302128,
+      "num": 360511,
+      "word": "马斯克因百万美元抽奖被要求出席听证会",
+      "onboard_time": 1730342238,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 293920,
@@ -267,19 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284253,
-      "num": 284253,
-      "word": "学校回应班主任称全家都死了就不用签字",
-      "onboard_time": 1730339777,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281652,
-      "num": 281652,
-      "word": "钱学森30多年前设想中国VR技术",
-      "onboard_time": 1730336178,
-      "rank": 36,
+      "raw_hot": 279020,
+      "num": 358726,
+      "word": "上海提醒市民适量囤水囤粮",
+      "onboard_time": 1730342118,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -307,12 +363,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 257136,
-      "num": 257136,
-      "word": "房贷利率重新定价不必再等1年",
-      "onboard_time": 1730339777,
-      "rank": 28,
-      "category": "社会新闻,财经"
+      "raw_hot": 245535,
+      "num": 245535,
+      "word": "少女前线宣布停服",
+      "onboard_time": 1730341998,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 236817,
@@ -331,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228350,
+      "num": 367578,
+      "word": "峰哥",
+      "onboard_time": 1730342538,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 226951,
       "num": 226951,
       "word": "青岛通报网传代孕事件",
@@ -345,6 +409,14 @@
       "onboard_time": 1730335578,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222984,
+      "num": 222984,
+      "word": "网曝高校一男生持刀捅刺女生",
+      "onboard_time": 1730342718,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221811,
@@ -385,6 +457,22 @@
       "onboard_time": 1730260579,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "任天堂音乐APP上线",
+      "onboard_time": 1730343018,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209432,
+      "num": 364771,
+      "word": "日本MAMA特别舞台没有章昊",
+      "onboard_time": 1730340678,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 208693,
@@ -468,11 +556,27 @@
     },
     {
       "raw_hot": 177470,
-      "num": 283784,
+      "num": 303282,
       "word": "大梦归离三代白泽神女",
       "onboard_time": 1730336299,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175610,
+      "num": 175610,
+      "word": "Ruler说支持T1夺冠",
+      "onboard_time": 1730342538,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 173562,
+      "num": 173562,
+      "word": "10月最后一天",
+      "onboard_time": 1730339958,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168433,
@@ -483,27 +587,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 167184,
-      "num": 167184,
-      "word": "航天员导弹这些词都出自钱学森",
-      "onboard_time": 1730339900,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 166390,
-      "num": 245277,
-      "word": "小巷人家范丞丞出场镜头",
-      "onboard_time": 1730339900,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 164684,
-      "num": 164684,
-      "word": "10月最后一天",
-      "onboard_time": 1730339958,
-      "rank": 41,
+      "raw_hot": 166399,
+      "num": 166399,
+      "word": "班主任放狠话全家都死了就不用签字",
+      "onboard_time": 1730340017,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -523,20 +611,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156292,
-      "num": 156292,
-      "word": "班主任放狠话全家都死了就不用签字",
-      "onboard_time": 1730340017,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154620,
       "num": 154620,
       "word": "丁宁祝贺马龙",
       "onboard_time": 1730337260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154563,
+      "num": 154563,
+      "word": "这个十月因鲜艳中国红而深挚滚烫",
+      "onboard_time": 1730343318,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151575,
@@ -571,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142700,
+      "num": 142700,
+      "word": "重返未来2.3版本",
+      "onboard_time": 1730343018,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142543,
       "num": 155070,
       "word": "权志龙POWER公开",
@@ -580,7 +676,7 @@
     },
     {
       "raw_hot": 137919,
-      "num": 214534,
+      "num": 297739,
       "word": "权志龙出歌melon崩了",
       "onboard_time": 1730333898,
       "rank": 45,
@@ -891,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35125,
+      "num": 295449,
+      "word": "以黎停火协议草案曝光",
+      "onboard_time": 1730342899,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30692,
       "num": 30692,
       "word": "00后入殓师带清华教授干殡葬的一天",
@@ -913,6 +1017,14 @@
       "onboard_time": 1730306896,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26781,
+      "num": 364244,
+      "word": "迈克尔杰克逊金手掌国内首拍",
+      "onboard_time": 1730343259,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 26374,
@@ -977,6 +1089,14 @@
       "onboard_time": 1730315832,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16130,
+      "num": 779494,
+      "word": "亚冬会火炬满满的中国式浪漫",
+      "onboard_time": 1730295921,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 15961,
@@ -1097,6 +1217,9 @@
     },
     {
       "word": "#我们的改革是有方向有原则的#"
+    },
+    {
+      "word": "#总书记谈锚定建成文化强国战略目标#"
     }
   ]
 }
