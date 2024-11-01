@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730475548131,
+  "endTime": 1730478437174,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -497,6 +497,14 @@
       "onboard_time": 1730018897,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1830817,
+      "num": 1830817,
+      "word": "美国请求中国出借月壤",
+      "onboard_time": 1730474240,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1823687,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1730202441,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843532,
+      "num": 843532,
+      "word": "29岁网红谎称18岁立悲惨人设圈粉",
+      "onboard_time": 1730474480,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838919,
@@ -4433,14 +4449,6 @@
       "onboard_time": 1730296941,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461620,
-      "num": 461620,
-      "word": "美国请求中国出借月壤",
-      "onboard_time": 1730474240,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 460990,
@@ -6787,6 +6795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271828,
+      "num": 382348,
+      "word": "中国对韩国等9国试行免签",
+      "onboard_time": 1730474179,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271386,
       "num": 271386,
       "word": "男孩被同学打致重伤智力不到5岁",
@@ -7929,6 +7945,14 @@
       "onboard_time": 1730195898,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233334,
+      "num": 233334,
+      "word": "张泉灵说李行亮和麦麦是想过下去的",
+      "onboard_time": 1730473939,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233127,
@@ -10779,6 +10803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177493,
+      "num": 177493,
+      "word": "宁艺卓毛毛领",
+      "onboard_time": 1730478198,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177491,
       "num": 177491,
       "word": "TFING练习室版舞台",
@@ -11001,6 +11033,14 @@
       "onboard_time": 1730034860,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174309,
+      "num": 174309,
+      "word": "雷军说小米15破除了3999元心魔",
+      "onboard_time": 1730475258,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 174244,
@@ -11235,14 +11275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170251,
-      "num": 382348,
-      "word": "中国对韩国等9国试行免签",
-      "onboard_time": 1730474179,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170177,
       "num": 170177,
       "word": "阿淼淼账号已被禁言",
@@ -11443,20 +11475,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167813,
+      "num": 167813,
+      "word": "武大博士一人拿下24万元奖学金",
+      "onboard_time": 1730477179,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167682,
       "num": 167682,
       "word": "萧逸缚野囚心",
       "onboard_time": 1730257758,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167561,
-      "num": 186305,
-      "word": "29岁网红谎称18岁立悲惨人设圈粉",
-      "onboard_time": 1730474480,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167493,
@@ -11889,6 +11921,14 @@
       "onboard_time": 1730280440,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160311,
+      "num": 289375,
+      "word": "村民带女子去未开发水域潜水溺亡",
+      "onboard_time": 1730476038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160183,
@@ -14707,14 +14747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111208,
-      "num": 111208,
-      "word": "雷军说小米15破除了3999元心魔",
-      "onboard_time": 1730475258,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 111037,
       "num": 111037,
       "word": "芒果新生班有自己的彭高",
@@ -14825,6 +14857,14 @@
       "onboard_time": 1730113579,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107478,
+      "num": 107478,
+      "word": "张泉灵说葛夕有当大女主的机会",
+      "onboard_time": 1730476518,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 107418,
@@ -15027,6 +15067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101734,
+      "num": 101734,
+      "word": "杨超越见面会",
+      "onboard_time": 1730478018,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101438,
       "num": 101438,
       "word": "一人一句祝福神十九航天员",
@@ -15081,6 +15129,14 @@
       "onboard_time": 1730425097,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99564,
+      "num": 99564,
+      "word": "永夜星河好看",
+      "onboard_time": 1730477899,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 99284,
@@ -16123,6 +16179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59866,
+      "num": 287821,
+      "word": "迪丽热巴的AI妆造",
+      "onboard_time": 1730475138,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59632,
       "num": 59632,
       "word": "钱天一3比0巴特拉",
@@ -16916,7 +16980,7 @@
     },
     {
       "raw_hot": 39362,
-      "num": 1109869,
+      "num": 1203309,
       "word": "你家乡的秋天是什么颜色",
       "onboard_time": 1730464879,
       "rank": 2,
@@ -17065,14 +17129,6 @@
       "onboard_time": 1730386640,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37743,
-      "num": 188832,
-      "word": "张泉灵说李行亮和麦麦是想过下去的",
-      "onboard_time": 1730473939,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37645,
@@ -17945,14 +18001,6 @@
       "onboard_time": 1730294239,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28323,
-      "num": 130299,
-      "word": "迪丽热巴的AI妆造",
-      "onboard_time": 1730475138,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 28280,
