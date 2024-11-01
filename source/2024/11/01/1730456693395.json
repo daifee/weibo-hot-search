@@ -1,0 +1,410 @@
+{
+  "runTime": 1730456693395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172754,
+        "num": 1187640,
+        "word": "宋仲基和张紫妍案加害人合影",
+        "onboard_time": 1730452038,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832119,
+        "num": 832119,
+        "word": "沈阳一禁毒大队队长被控走私毒品",
+        "onboard_time": 1730452038,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37588,
+        "num": 775042,
+        "word": "超级工程和大国重器同框了",
+        "onboard_time": 1730452938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123643,
+        "num": 772855,
+        "word": "陈梦回应奥运单打名额舆论",
+        "onboard_time": 1730453058,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 770100,
+        "num": 770100,
+        "word": "网购仅退款19元商家起诉赔800",
+        "onboard_time": 1730437519,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623974,
+        "num": 623974,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588940,
+        "num": 588940,
+        "word": "程莉莎让郭晓东道歉",
+        "onboard_time": 1730450718,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520269,
+        "num": 520269,
+        "word": "曾黎心疼赵露思水下戏",
+        "onboard_time": 1730452999,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34817,
+        "num": 506280,
+        "word": "为亡弟追凶26年案被告当庭翻供",
+        "onboard_time": 1730456478,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46207,
+        "num": 483794,
+        "word": "高价收小马宝莉卡牌女孩被骗万余元",
+        "onboard_time": 1730455638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804670,
+        "num": 464978,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717010,
+        "num": 434349,
+        "word": "黑寡妇召集复联支持哈里斯",
+        "onboard_time": 1730453959,
+        "rank": 11,
+        "category": "国外时政,电影"
+      },
+      {
+        "raw_hot": 424368,
+        "num": 424368,
+        "word": "高亚麟深夜发文",
+        "onboard_time": 1730444417,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23976,
+        "num": 408747,
+        "word": "部门回应海南万宁两人被水冲走",
+        "onboard_time": 1730455939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463619,
+        "num": 408169,
+        "word": "詹姆斯表态将投票支持哈里斯",
+        "onboard_time": 1730450658,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 405893,
+        "num": 405893,
+        "word": "永夜星河开播十分钟就全剧终",
+        "onboard_time": 1730435060,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396733,
+        "num": 396733,
+        "word": "乔任梁父母再次回应其死因",
+        "onboard_time": 1730432479,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313520,
+        "num": 313520,
+        "word": "结婚奖励1500元初衷远比这笔钱有分量",
+        "onboard_time": 1730445678,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30208,
+        "num": 308886,
+        "word": "老人谈忘年恋赠与女友20万",
+        "onboard_time": 1730456238,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32770,
+        "num": 299877,
+        "word": "霉霉曾说吹牛老爹对她很好",
+        "onboard_time": 1730455638,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476509,
+        "num": 294260,
+        "word": "丝芭传媒起诉鞠婧祎",
+        "onboard_time": 1730428878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368128,
+        "num": 279259,
+        "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+        "onboard_time": 1730432359,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275407,
+        "num": 275407,
+        "word": "永夜星河开播",
+        "onboard_time": 1730433498,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269594,
+        "num": 269594,
+        "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
+        "onboard_time": 1730444180,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259952,
+        "num": 259952,
+        "word": "官方通报120司机与产科医生涉嫌贩婴",
+        "onboard_time": 1730450599,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254132,
+        "num": 254132,
+        "word": "赵牧辰发声明",
+        "onboard_time": 1730448319,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229560,
+        "num": 229560,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1730452879,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41044,
+        "num": 224948,
+        "word": "EDGM对战WB",
+        "onboard_time": 1730455700,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224240,
+        "num": 224240,
+        "word": "民警建议关闭苹果手机这项功能",
+        "onboard_time": 1730439499,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221148,
+        "num": 221148,
+        "word": "容祖儿 心淡",
+        "onboard_time": 1730455338,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211739,
+        "num": 211739,
+        "word": "男子刑期写错被提前释放",
+        "onboard_time": 1730455039,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206716,
+        "num": 206716,
+        "word": "永夜星河直播",
+        "onboard_time": 1730453239,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198491,
+        "num": 198491,
+        "word": "王一博对接否认出演克什米尔公主号",
+        "onboard_time": 1730453119,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186596,
+        "num": 186596,
+        "word": "警方及乔爸早已公布乔任梁非他杀",
+        "onboard_time": 1730455998,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181128,
+        "num": 181128,
+        "word": "赵露思胡旋舞镜头背后",
+        "onboard_time": 1730456238,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169499,
+        "num": 169499,
+        "word": "小哥接到奇怪订单送18万到稻田",
+        "onboard_time": 1730445259,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31496,
+        "num": 160180,
+        "word": "京东月黑风高85英寸大电视11.11元",
+        "onboard_time": 1730456359,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159369,
+        "num": 159369,
+        "word": "苏新皓为权志龙新歌打call",
+        "onboard_time": 1730456418,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155847,
+        "num": 155847,
+        "word": "何卓佳1比3大藤沙月",
+        "onboard_time": 1730456180,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153390,
+        "num": 153390,
+        "word": "苦难被网红当成致富剧本",
+        "onboard_time": 1730455399,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146212,
+        "num": 146212,
+        "word": "蒯曼3比1金娜英",
+        "onboard_time": 1730454858,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144944,
+        "num": 144944,
+        "word": "河南4人涉嫌贩婴被采取刑事强制措施",
+        "onboard_time": 1730449938,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142792,
+        "num": 142792,
+        "word": "天蝎座到底有多难搞",
+        "onboard_time": 1730447839,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140931,
+        "num": 140931,
+        "word": "这个杀手不太冷上映",
+        "onboard_time": 1730453180,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135447,
+        "num": 135447,
+        "word": "男子出轨第三者被判返还原配300万",
+        "onboard_time": 1730446158,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131961,
+        "num": 131961,
+        "word": "声生不息港乐季2上班路透",
+        "onboard_time": 1730456117,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131627,
+        "num": 131627,
+        "word": "网红主播让亲妈扮养母卖惨圈粉",
+        "onboard_time": 1730451918,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20983,
+        "num": 127951,
+        "word": "采销直播5折家电又来了",
+        "onboard_time": 1730452099,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125377,
+        "num": 125377,
+        "word": "吉克隽逸海清 一条裙子两种风格",
+        "onboard_time": 1730456658,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122119,
+        "num": 122119,
+        "word": "黄圣依又选不离婚",
+        "onboard_time": 1730438239,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿联酋总统穆罕默德就中阿建交40周年互致贺电#"
+    }
+  }
+}
