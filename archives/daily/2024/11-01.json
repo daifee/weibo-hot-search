@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730465823820,
+  "endTime": 1730467708355,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -168,6 +168,14 @@
       "word": "高亚麟深夜发文",
       "onboard_time": 1730444417,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1061132,
+      "num": 1169781,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1730465418,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 635938,
+      "num": 413739,
+      "word": "纽约地铁偶遇李维嘉",
+      "onboard_time": 1730463499,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624742,
       "num": 250600,
       "word": "乔任梁父母称网上遗体照是二次伤害",
@@ -435,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598030,
+      "num": 392370,
+      "word": "赵露思直播",
+      "onboard_time": 1730465238,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595878,
       "num": 230952,
       "word": "车辆坠河23天后疑发现准新娘遗体",
       "onboard_time": 1730379740,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584274,
+      "num": 338813,
+      "word": "美邦老板直言找贾乃亮带货效果一般",
+      "onboard_time": 1730464279,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 577862,
@@ -489,6 +521,14 @@
       "onboard_time": 1730390057,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526791,
+      "num": 336522,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 520269,
@@ -707,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 380020,
-      "num": 380020,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1730465418,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376835,
       "num": 376835,
       "word": "权志龙用APT当BGM",
@@ -793,22 +825,6 @@
       "onboard_time": 1730387359,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 307846,
-      "num": 307846,
-      "word": "美邦老板直言找贾乃亮带货效果一般",
-      "onboard_time": 1730464279,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 303077,
-      "num": 303077,
-      "word": "纽约地铁偶遇李维嘉",
-      "onboard_time": 1730463499,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 295065,
@@ -961,14 +977,6 @@
       "onboard_time": 1730382080,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257122,
-      "num": 257122,
-      "word": "赵露思直播",
-      "onboard_time": 1730465238,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 256979,
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200290,
+      "num": 208226,
+      "word": "小巷人家",
+      "onboard_time": 1730422759,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199561,
       "num": 199561,
       "word": "警方及乔爸早已公布乔任梁非他杀",
@@ -1275,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195966,
-      "num": 208226,
-      "word": "小巷人家",
-      "onboard_time": 1730422759,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195495,
       "num": 183875,
       "word": "周洁琼新剧亲爸变后爸",
@@ -1291,12 +1299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194949,
-      "num": 249460,
-      "word": "永夜星河",
-      "onboard_time": 1730387120,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 194971,
+      "num": 330623,
+      "word": "南宁一公交车发生交通事故",
+      "onboard_time": 1730463799,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193449,
@@ -1331,6 +1339,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190158,
+      "num": 275067,
+      "word": "非农数据",
+      "onboard_time": 1730466499,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 189942,
+      "num": 189942,
+      "word": "闵塔鲨用心",
+      "onboard_time": 1730467280,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189873,
       "num": 145086,
       "word": "敖犬的老婆还是薛之谦演过的那个",
@@ -1355,6 +1379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 185081,
+      "num": 185081,
+      "word": "迪丽热巴出场动态碎片",
+      "onboard_time": 1730467641,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183772,
       "num": 224389,
       "word": "美民调称哈里斯以1%优势领先特朗普",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1730460378,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181444,
+      "num": 348520,
+      "word": "暗夜条件下如何迎接航天员",
+      "onboard_time": 1730466018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181411,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1730428278,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173467,
+      "num": 173467,
+      "word": "神十八乘组将于11月4日回家",
+      "onboard_time": 1730466319,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170934,
@@ -1603,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159832,
+      "num": 159832,
+      "word": "雷军再回应小米15涨价",
+      "onboard_time": 1730467099,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159740,
       "num": 159740,
       "word": "程潇打戏",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1730453058,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158510,
+      "num": 158510,
+      "word": "休宁凯生病",
+      "onboard_time": 1730466440,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 158502,
@@ -1657,14 +1721,6 @@
       "onboard_time": 1730439439,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156619,
-      "num": 156619,
-      "word": "南宁一公交车发生交通事故",
-      "onboard_time": 1730463799,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156499,
@@ -1873,6 +1929,14 @@
       "onboard_time": 1730464279,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139538,
+      "num": 139538,
+      "word": "诛仙世界",
+      "onboard_time": 1730466138,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 139190,
@@ -2507,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55859,
+      "num": 163521,
+      "word": "爸妈吵吵闹闹庄图南缝缝补补",
+      "onboard_time": 1730466319,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55494,
       "num": 55494,
       "word": "POWER歌词",
@@ -2569,6 +2641,14 @@
       "onboard_time": 1730430018,
       "rank": 14,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 50763,
+      "num": 339880,
+      "word": "中国航天员乘组完成在轨交接",
+      "onboard_time": 1730465599,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50458,
@@ -2635,6 +2715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 44427,
+      "num": 329229,
+      "word": "当国民阿姨遇上超市采销",
+      "onboard_time": 1730463019,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43554,
       "num": 309700,
       "word": "必须知道的女性健康知识",
@@ -2676,7 +2764,7 @@
     },
     {
       "raw_hot": 39362,
-      "num": 702793,
+      "num": 964946,
       "word": "你家乡的秋天是什么颜色",
       "onboard_time": 1730464879,
       "rank": 2,
@@ -2819,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30353,
-      "num": 329229,
-      "word": "当国民阿姨遇上超市采销",
-      "onboard_time": 1730463019,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28584,
       "num": 1249252,
       "word": "神十九发射任务全回顾",
@@ -2897,6 +2977,14 @@
       "onboard_time": 1730366119,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24229,
+      "num": 161491,
+      "word": "戚薇能破浪也能聚浪",
+      "onboard_time": 1730466919,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 23976,
@@ -2977,14 +3065,6 @@
       "onboard_time": 1730402050,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 20018,
-      "num": 339880,
-      "word": "中国航天员乘组完成在轨交接",
-      "onboard_time": 1730465599,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19294,
