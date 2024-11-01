@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730471974627,
+  "endTime": 1730474631979,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -33,6 +33,14 @@
       "onboard_time": 1730391676,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2685600,
+      "num": 2685600,
+      "word": "韩国免签",
+      "onboard_time": 1730473039,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2178945,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1139102,
+      "num": 1139102,
+      "word": "中方扩大免签国家范围",
+      "onboard_time": 1730471060,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1125988,
       "num": 1180158,
       "word": "程莉莎让郭晓东道歉",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876770,
+      "num": 876770,
+      "word": "免签",
+      "onboard_time": 1730471720,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 870848,
       "num": 870848,
       "word": "沈阳一禁毒大队队长被控走私毒品",
@@ -289,6 +313,14 @@
       "onboard_time": 1730468718,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 760600,
+      "num": 561334,
+      "word": "26岁女子确诊渐冻症前后判若两人",
+      "onboard_time": 1730468481,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752078,
@@ -531,22 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566469,
-      "num": 566469,
-      "word": "中方扩大免签国家范围",
-      "onboard_time": 1730471060,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 561334,
-      "num": 561334,
-      "word": "26岁女子确诊渐冻症前后判若两人",
-      "onboard_time": 1730468481,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559662,
       "num": 410003,
       "word": "永夜星河",
@@ -723,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 432569,
+      "num": 380481,
+      "word": "张泉灵 再见爱人4受害者",
+      "onboard_time": 1730473098,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430494,
       "num": 355781,
       "word": "人体作息最佳时间表",
@@ -811,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382621,
+      "num": 382621,
+      "word": "王楚钦王艺迪训练",
+      "onboard_time": 1730470880,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381814,
       "num": 228245,
       "word": "收到学生不友好的添加申请",
       "onboard_time": 1730441780,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380335,
+      "num": 380335,
+      "word": "王曼昱说大满贯目标不会动摇",
+      "onboard_time": 1730471060,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 376835,
@@ -832,14 +872,6 @@
       "word": "WTT法兰克福冠军赛抽签仪式",
       "onboard_time": 1730471361,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 366864,
-      "num": 366864,
-      "word": "王楚钦王艺迪训练",
-      "onboard_time": 1730470880,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326156,
+      "num": 250268,
+      "word": "睡觉时越睡越美的姿势找到了",
+      "onboard_time": 1730472680,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 323951,
       "num": 323951,
       "word": "S15决赛落地成都",
@@ -929,6 +969,14 @@
       "onboard_time": 1730387359,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 296906,
+      "num": 296906,
+      "word": "王楚钦首轮对阵户上隼辅",
+      "onboard_time": 1730473039,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 295065,
@@ -1171,20 +1219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246010,
-      "num": 246010,
-      "word": "王曼昱说大满贯目标不会动摇",
-      "onboard_time": 1730471060,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245708,
       "num": 245708,
       "word": "永夜星河有自己的奥特曼",
       "onboard_time": 1730438718,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245107,
+      "num": 245107,
+      "word": "小米洗衣机",
+      "onboard_time": 1730472440,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 240993,
@@ -1371,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201834,
+      "num": 201834,
+      "word": "易烊千玺东京机场路透",
+      "onboard_time": 1730474480,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201119,
       "num": 249987,
       "word": "TXT新歌造型被审判",
@@ -1425,14 +1481,6 @@
       "onboard_time": 1730350221,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197588,
-      "num": 197588,
-      "word": "免签",
-      "onboard_time": 1730471720,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 197453,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1730429479,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188529,
+      "num": 188529,
+      "word": "WTT法兰克福冠军赛男女单签表",
+      "onboard_time": 1730473699,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 186011,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1730424798,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178936,
+      "num": 178936,
+      "word": "尔滨导游一走神小金土豆就付款了",
+      "onboard_time": 1730473699,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178672,
@@ -1851,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158956,
+      "num": 333756,
+      "word": "山姆回应冷藏菜品实为冷冻预制",
+      "onboard_time": 1730468179,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158510,
       "num": 158510,
       "word": "休宁凯生病",
@@ -1896,6 +1968,14 @@
       "word": "岳云鹏回应中原小岳岳模仿",
       "onboard_time": 1730422818,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155610,
+      "num": 155610,
+      "word": "拍一张秋天的落叶",
+      "onboard_time": 1730472680,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2027,6 +2107,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145380,
+      "num": 145380,
+      "word": "美国请求中国出借月壤",
+      "onboard_time": 1730474240,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 144788,
+      "num": 144788,
+      "word": "王耀庆披哥人缘",
+      "onboard_time": 1730471840,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144351,
       "num": 144351,
       "word": "巴黎奥运励志后续",
@@ -2147,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137792,
+      "num": 137792,
+      "word": "29岁网红谎称18岁立悲惨人设圈粉",
+      "onboard_time": 1730474480,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135063,
       "num": 135063,
       "word": "钟辰乐直播",
@@ -2187,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133786,
+      "num": 133786,
+      "word": "S14决赛发布会",
+      "onboard_time": 1730473579,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133281,
       "num": 133281,
       "word": "范丞丞 演学霸",
@@ -2201,6 +2313,14 @@
       "onboard_time": 1730458999,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132401,
+      "num": 132401,
+      "word": "迎接神十八航天员回家",
+      "onboard_time": 1730473459,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131961,
@@ -2249,14 +2369,6 @@
       "onboard_time": 1730383819,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128238,
-      "num": 128238,
-      "word": "王耀庆披哥人缘",
-      "onboard_time": 1730471840,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 126793,
@@ -2337,6 +2449,14 @@
       "onboard_time": 1730425635,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119798,
+      "num": 119798,
+      "word": "林诗栋蒯曼马斯喀特站夺冠",
+      "onboard_time": 1730472380,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 119296,
@@ -2649,6 +2769,14 @@
       "onboard_time": 1730388379,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79025,
+      "num": 382348,
+      "word": "中国对韩国等9国试行免签",
+      "onboard_time": 1730474179,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77411,
@@ -2980,7 +3108,7 @@
     },
     {
       "raw_hot": 39362,
-      "num": 964946,
+      "num": 1109869,
       "word": "你家乡的秋天是什么颜色",
       "onboard_time": 1730464879,
       "rank": 2,
@@ -3251,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22727,
+      "num": 188832,
+      "word": "张泉灵说李行亮和麦麦是想过下去的",
+      "onboard_time": 1730473939,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22013,
       "num": 29706,
       "word": "王浩泽曾经以年级第一的成绩保研",
@@ -3291,6 +3427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 19932,
+      "num": 366933,
+      "word": "智界R7登上科技春晚",
+      "onboard_time": 1730469801,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19294,
       "num": 19294,
       "word": "留几手曾是微博第一鉴美师",
@@ -3321,14 +3465,6 @@
       "onboard_time": 1730432359,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 16898,
-      "num": 366933,
-      "word": "智界R7登上科技春晚",
-      "onboard_time": 1730469801,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 16291,
@@ -3424,14 +3560,6 @@
       "word": "记者现场直击消防人员转移受困群众",
       "onboard_time": 1730414113,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11534,
-      "num": 333756,
-      "word": "山姆回应冷藏菜品实为冷冻预制",
-      "onboard_time": 1730468179,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
