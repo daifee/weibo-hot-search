@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730468403383,
+  "endTime": 1730470856301,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -72,6 +72,14 @@
       "word": "包贝尔否认乔任梁传言",
       "onboard_time": 1730428457,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1636023,
+      "num": 1636023,
+      "word": "向佐回应郭碧婷是嫁给向太",
+      "onboard_time": 1730468059,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 980354,
-      "num": 413739,
+      "num": 573988,
       "word": "纽约地铁偶遇李维嘉",
       "onboard_time": 1730463499,
       "rank": 30,
@@ -265,6 +273,14 @@
       "onboard_time": 1730433498,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 763369,
+      "num": 763369,
+      "word": "林高远腿部拉伤退赛",
+      "onboard_time": 1730468718,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 752078,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509293,
+      "num": 509293,
+      "word": "多个网红走红后暂时停播",
+      "onboard_time": 1730469140,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 502613,
       "num": 897935,
       "word": "台风",
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415772,
+      "num": 274439,
+      "word": "26岁女子确诊渐冻症前后判若两人",
+      "onboard_time": 1730468481,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413357,
       "num": 417332,
       "word": "小小的我",
@@ -715,6 +747,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406258,
+      "num": 406258,
+      "word": "WTT",
+      "onboard_time": 1730458099,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 402219,
+      "num": 279737,
+      "word": "迪丽热巴流光蓝定制礼服",
+      "onboard_time": 1730469619,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401532,
       "num": 401532,
       "word": "丫丫没脖子了",
@@ -729,6 +777,14 @@
       "onboard_time": 1730459838,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395754,
+      "num": 298849,
+      "word": "闵塔鲨用心",
+      "onboard_time": 1730467280,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 383654,
@@ -779,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352883,
+      "num": 352883,
+      "word": "南宁一公交车发生交通事故",
+      "onboard_time": 1730463799,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344271,
       "num": 344271,
       "word": "天蝎座到底有多难搞",
@@ -801,14 +865,6 @@
       "onboard_time": 1730434579,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 335582,
-      "num": 335582,
-      "word": "向佐回应郭碧婷是嫁给向太",
-      "onboard_time": 1730468059,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 331265,
@@ -835,14 +891,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 298849,
-      "num": 298849,
-      "word": "闵塔鲨用心",
-      "onboard_time": 1730467280,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295065,
       "num": 146543,
       "word": "班主任诅咒学生全家凸显教师心理健康问题",
@@ -857,6 +905,14 @@
       "onboard_time": 1730431938,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292472,
+      "num": 292472,
+      "word": "WTT法兰克福冠军赛2024",
+      "onboard_time": 1730469860,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 286974,
@@ -905,14 +961,6 @@
       "onboard_time": 1730439499,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278003,
-      "num": 330623,
-      "word": "南宁一公交车发生交通事故",
-      "onboard_time": 1730463799,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -1123,7 +1171,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230736,
+      "raw_hot": 231869,
       "num": 239125,
       "word": "珠帘玉幕",
       "onboard_time": 1730423119,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1730455338,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220807,
+      "num": 220807,
+      "word": "雷军回应小米洗衣机火爆",
+      "onboard_time": 1730469380,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 218500,
@@ -1233,6 +1289,14 @@
       "onboard_time": 1730456418,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207051,
+      "num": 318279,
+      "word": "闫妮要给宁静拌蛇瓜",
+      "onboard_time": 1730467760,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 205305,
@@ -1363,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190789,
+      "num": 190789,
+      "word": "S15决赛落地成都",
+      "onboard_time": 1730470820,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190158,
       "num": 275067,
       "word": "非农数据",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1730383640,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177491,
+      "num": 177491,
+      "word": "TFING练习室版舞台",
+      "onboard_time": 1730470521,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 177398,
@@ -1627,6 +1707,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164885,
+      "num": 164885,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1730469801,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163738,
+      "num": 163738,
+      "word": "向佐直播榜一是药水哥",
+      "onboard_time": 1730469918,
+      "rank": 42,
+      "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 162614,
+      "num": 162614,
+      "word": "丁禹兮演技",
+      "onboard_time": 1730470339,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162294,
       "num": 162294,
       "word": "硬装没结束家电全买了",
@@ -1705,6 +1809,14 @@
       "onboard_time": 1730452099,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158439,
+      "num": 202197,
+      "word": "俄方回应谷歌被罚35位数",
+      "onboard_time": 1730469499,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 157777,
@@ -1792,6 +1904,14 @@
       "word": "珠帘玉幕立意",
       "onboard_time": 1730464398,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152451,
+      "num": 152451,
+      "word": "骄阳似我官微",
+      "onboard_time": 1730469499,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1960,6 +2080,14 @@
       "word": "狗狗把自己的花生放到奶奶的花生堆",
       "onboard_time": 1730418377,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139089,
+      "num": 253339,
+      "word": "航天员移交钥匙后给自己叫好",
+      "onboard_time": 1730470820,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2185,14 +2313,6 @@
       "onboard_time": 1730385381,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117159,
-      "num": 318279,
-      "word": "闫妮要给宁静拌蛇瓜",
-      "onboard_time": 1730467760,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 117106,
@@ -2899,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31133,
+      "num": 276354,
+      "word": "允许外国自然人对上市公司战略投资",
+      "onboard_time": 1730470459,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31069,
       "num": 31069,
       "word": "适合11月第1天的文案",
@@ -3004,7 +3132,7 @@
     },
     {
       "raw_hot": 24229,
-      "num": 267557,
+      "num": 268305,
       "word": "戚薇能破浪也能聚浪",
       "onboard_time": 1730466919,
       "rank": 35,
@@ -3091,6 +3219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 20162,
+      "num": 275545,
+      "word": "67人用软件抢南京博物院门票被抓",
+      "onboard_time": 1730469860,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19294,
       "num": 19294,
       "word": "留几手曾是微博第一鉴美师",
@@ -3137,6 +3273,14 @@
       "onboard_time": 1730407690,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15634,
+      "num": 254871,
+      "word": "智界R7登上科技春晚",
+      "onboard_time": 1730469801,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 15603,
