@@ -1,7 +1,15 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730432897757,
+  "endTime": 1730435220463,
   "band_list": [
+    {
+      "raw_hot": 3260701,
+      "num": 3260701,
+      "word": "鞠婧祎已申请笔迹鉴定",
+      "onboard_time": 1730434279,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3222329,
       "num": 2772683,
@@ -19,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2178945,
+      "num": 437888,
+      "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+      "onboard_time": 1730432359,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1966535,
       "num": 568059,
       "word": "美国大选",
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1788528,
-      "num": 425609,
+      "num": 638223,
       "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
       "onboard_time": 1730426718,
       "rank": 36,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1770130,
-      "num": 432748,
+      "num": 555488,
       "word": "包贝尔否认乔任梁传言",
       "onboard_time": 1730428457,
       "rank": 12,
@@ -51,8 +67,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1268000,
-      "num": 1268000,
+      "raw_hot": 1464046,
+      "num": 1464046,
       "word": "阿富汗塔利班禁止女性在公共场合说话",
       "onboard_time": 1730430739,
       "rank": 1,
@@ -75,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 988620,
+      "num": 655075,
+      "word": "乔任梁父母再次回应其死因",
+      "onboard_time": 1730432479,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 933665,
       "num": 933665,
       "word": "今起纸质火车票成为历史",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 837886,
-      "num": 417013,
+      "num": 578946,
       "word": "郑思维女儿出生",
       "onboard_time": 1730430079,
       "rank": 34,
@@ -107,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786022,
+      "num": 786022,
+      "word": "永夜星河开播",
+      "onboard_time": 1730433498,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752078,
       "num": 338056,
       "word": "不敢认安孝燮了",
       "onboard_time": 1730419878,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742475,
+      "num": 607725,
+      "word": "武艺说黄圣依带孩子走是净身出户",
+      "onboard_time": 1730431999,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 738965,
@@ -137,6 +177,14 @@
       "onboard_time": 1730418198,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 689967,
+      "num": 689967,
+      "word": "美国大选时间",
+      "onboard_time": 1730430258,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 656823,
@@ -164,7 +212,7 @@
     },
     {
       "raw_hot": 613320,
-      "num": 416833,
+      "num": 518501,
       "word": "34岁女生在英国留学的阶级跨越",
       "onboard_time": 1730430140,
       "rank": 38,
@@ -185,14 +233,6 @@
       "onboard_time": 1730379740,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585860,
-      "num": 585860,
-      "word": "美国大选时间",
-      "onboard_time": 1730430258,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 577862,
@@ -227,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487404,
-      "num": 416288,
-      "word": "武艺说黄圣依带孩子走是净身出户",
-      "onboard_time": 1730431999,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 474432,
+      "num": 474432,
+      "word": "徐海乔阿娇演夫妻",
+      "onboard_time": 1730432598,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 462797,
@@ -259,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415709,
-      "num": 415709,
-      "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
-      "onboard_time": 1730432359,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413357,
       "num": 417332,
       "word": "小小的我",
@@ -288,6 +320,14 @@
       "word": "丫丫没脖子了",
       "onboard_time": 1730429238,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394408,
+      "num": 436708,
+      "word": "知名电竞公司涉赌遭跨省执法",
+      "onboard_time": 1730430978,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -323,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343855,
+      "num": 462341,
+      "word": "赵丽颖11月进组新剧",
+      "onboard_time": 1730432779,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331265,
       "num": 331265,
       "word": "特朗普坐垃圾车回应拜登垃圾言论",
@@ -332,7 +380,7 @@
     },
     {
       "raw_hot": 330810,
-      "num": 330810,
+      "num": 584254,
       "word": "台湾地震",
       "onboard_time": 1730417055,
       "rank": 30,
@@ -379,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278408,
+      "num": 278408,
+      "word": "印度一小盘股一天暴涨6692535%",
+      "onboard_time": 1730433139,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 273451,
       "num": 175922,
       "word": "女子一听要坐牢赶紧转18万养老钱",
       "onboard_time": 1730403851,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267229,
+      "num": 267229,
+      "word": "BABYMONSTER主打曲",
+      "onboard_time": 1730434579,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 265833,
@@ -409,6 +473,14 @@
       "onboard_time": 1730427498,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256804,
+      "num": 256804,
+      "word": "管泽元预测BLG将夺冠",
+      "onboard_time": 1730433440,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 253415,
@@ -449,6 +521,14 @@
       "onboard_time": 1730423478,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234253,
+      "num": 234253,
+      "word": "永夜星河开播十分钟就全剧终",
+      "onboard_time": 1730435060,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 230534,
@@ -499,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208878,
+      "num": 416360,
+      "word": "男子0元购偷出一个超市",
+      "onboard_time": 1730432419,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201119,
       "num": 249987,
       "word": "TXT新歌造型被审判",
@@ -515,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198112,
+      "num": 198112,
+      "word": "新乡通报男子投资千万建厂遇办证难",
+      "onboard_time": 1730433619,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197965,
       "num": 197965,
       "word": "乔任梁父母发声",
       "onboard_time": 1730350221,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196168,
-      "num": 196168,
-      "word": "赵丽颖11月进组新剧",
-      "onboard_time": 1730432779,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 193449,
@@ -571,6 +659,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 184404,
+      "num": 184404,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730423119,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183971,
+      "num": 249460,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183772,
       "num": 224389,
       "word": "美民调称哈里斯以1%优势领先特朗普",
@@ -585,6 +689,14 @@
       "onboard_time": 1730431938,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181411,
+      "num": 181411,
+      "word": "赵露思刘宇宁珠帘玉幕播前热度",
+      "onboard_time": 1730434221,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 178981,
@@ -651,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161075,
+      "num": 161075,
+      "word": "真的受够女厕所排队了",
+      "onboard_time": 1730434459,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160896,
       "num": 160896,
       "word": "吉利集团声明",
@@ -664,14 +784,6 @@
       "word": "小巷人家",
       "onboard_time": 1730422759,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 160408,
-      "num": 160408,
-      "word": "徐海乔阿娇演夫妻",
-      "onboard_time": 1730432598,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -699,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148877,
-      "num": 249460,
-      "word": "永夜星河",
-      "onboard_time": 1730387120,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148193,
       "num": 148193,
       "word": "台风康妮",
@@ -723,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146691,
+      "num": 146691,
+      "word": "朝鲜试射洲际弹道导弹准确落入目标",
+      "onboard_time": 1730431579,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 144351,
       "num": 144351,
       "word": "巴黎奥运励志后续",
@@ -731,20 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142859,
-      "num": 436708,
-      "word": "知名电竞公司涉赌遭跨省执法",
-      "onboard_time": 1730430978,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "狗狗把自己的花生放到奶奶的花生堆",
       "onboard_time": 1730418377,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136316,
+      "num": 136316,
+      "word": "当教室来了一只耶耶",
+      "onboard_time": 1730434821,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 134927,
@@ -761,14 +873,6 @@
       "onboard_time": 1730399531,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133989,
-      "num": 155795,
-      "word": "珠帘玉幕",
-      "onboard_time": 1730423119,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 130729,
@@ -817,6 +921,14 @@
       "onboard_time": 1730428699,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123265,
+      "num": 147217,
+      "word": "POWER和APT双破表",
+      "onboard_time": 1730433379,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 120307,
@@ -1019,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81292,
-      "num": 416360,
-      "word": "男子0元购偷出一个超市",
-      "onboard_time": 1730432419,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80288,
       "num": 80288,
       "word": "校方回应小学生被老师打成面瘫",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1730389279,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64819,
+      "num": 1088722,
+      "word": "双航母同框这一刻祖国强大具象化了",
+      "onboard_time": 1730433800,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63503,
@@ -1227,6 +1339,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 33703,
+      "num": 477510,
+      "word": "左叶 吓到大家了不好意思",
+      "onboard_time": 1730434940,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33374,
       "num": 33374,
       "word": "王鹤棣湖边迪斯科",
@@ -1273,6 +1393,14 @@
       "onboard_time": 1730432721,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28148,
+      "num": 182108,
+      "word": "极氪双11购车权益",
+      "onboard_time": 1730434579,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 25372,
@@ -1379,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15603,
+      "num": 380553,
+      "word": "李纯说向中是榴莲型人格",
+      "onboard_time": 1730434099,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14102,
       "num": 57130,
       "word": "多地上线医保定点药店比价小程序",
@@ -1449,6 +1585,9 @@
     },
     {
       "word": "#探索太空永无止境#"
+    },
+    {
+      "word": "#总书记阐明四对关系#"
     }
   ]
 }
