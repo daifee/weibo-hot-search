@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730485822121,
+  "endTime": 1730486609221,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -2947,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79630,
+      "num": 79630,
+      "word": "猛蛇过江回应被指是凶手",
+      "onboard_time": 1730484433,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78645,
       "num": 66478,
       "word": "蒯曼vs钱天一",
@@ -3043,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64994,
+      "num": 64994,
+      "word": "北斗七行包场秦海璐新电影",
+      "onboard_time": 1730482815,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63503,
       "num": 63503,
       "word": "易烊千玺谈电影角色的蜕变",
@@ -3097,6 +3113,14 @@
       "onboard_time": 1730453779,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56476,
+      "num": 56476,
+      "word": "永夜星河 勾引我",
+      "onboard_time": 1730484792,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 55859,
@@ -3195,14 +3219,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 49834,
-      "num": 49834,
-      "word": "北斗七行包场秦海璐新电影",
-      "onboard_time": 1730482815,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 49474,
       "num": 49474,
       "word": "多名男子围殴女高中生目击者发声",
@@ -3217,14 +3233,6 @@
       "onboard_time": 1730429119,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47814,
-      "num": 47814,
-      "word": "永夜星河 勾引我",
-      "onboard_time": 1730484792,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 46685,
@@ -3272,14 +3280,6 @@
       "word": "当国民阿姨遇上超市采销",
       "onboard_time": 1730463019,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44125,
-      "num": 55819,
-      "word": "猛蛇过江回应被指是凶手",
-      "onboard_time": 1730484433,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3531,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25786,
+      "num": 25786,
+      "word": "TF四代2025台历",
+      "onboard_time": 1730486353,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25372,
       "num": 25372,
       "word": "李海玉抱父遗照在弟弟坟前痛哭",
@@ -3675,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18980,
+      "num": 79642,
+      "word": "猛蛇过江称爬了八年崛围山",
+      "onboard_time": 1730485632,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18368,
       "num": 387840,
       "word": "新能源冲击下传统豪华汽车还能打吗",
@@ -3785,14 +3801,6 @@
       "onboard_time": 1730409371,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12679,
-      "num": 58555,
-      "word": "猛蛇过江称爬了八年崛围山",
-      "onboard_time": 1730485632,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12593,

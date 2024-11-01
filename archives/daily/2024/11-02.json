@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730485822121,
+  "endTime": 1730486609221,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79630,
+      "num": 79630,
+      "word": "猛蛇过江回应被指是凶手",
+      "onboard_time": 1730484433,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78645,
       "num": 66478,
       "word": "蒯曼vs钱天一",
@@ -465,6 +473,14 @@
       "onboard_time": 1730480116,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64994,
+      "num": 64994,
+      "word": "北斗七行包场秦海璐新电影",
+      "onboard_time": 1730482815,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 61483,
@@ -483,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56476,
+      "num": 56476,
+      "word": "永夜星河 勾引我",
+      "onboard_time": 1730484792,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53675,
       "num": 53675,
       "word": "俄方回应谷歌被罚35位数",
@@ -499,30 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49834,
-      "num": 49834,
-      "word": "北斗七行包场秦海璐新电影",
-      "onboard_time": 1730482815,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 47814,
-      "num": 47814,
-      "word": "永夜星河 勾引我",
-      "onboard_time": 1730484792,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 44125,
-      "num": 55819,
-      "word": "猛蛇过江回应被指是凶手",
-      "onboard_time": 1730484433,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30889,
       "num": 32254,
       "word": "华晨宇2024火星演唱会",
@@ -531,8 +531,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12679,
-      "num": 58555,
+      "raw_hot": 25786,
+      "num": 25786,
+      "word": "TF四代2025台历",
+      "onboard_time": 1730486353,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18980,
+      "num": 79642,
       "word": "猛蛇过江称爬了八年崛围山",
       "onboard_time": 1730485632,
       "rank": 19,
