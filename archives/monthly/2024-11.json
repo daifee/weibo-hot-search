@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730500740040,
+  "endTime": 1730503301651,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616907,
+      "num": 616907,
+      "word": "大专生还没毕业就拿到了高薪和编制",
+      "onboard_time": 1730500813,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613320,
       "num": 518501,
       "word": "34岁女生在英国留学的阶级跨越",
@@ -657,6 +665,14 @@
       "onboard_time": 1730387059,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 509929,
+      "num": 509929,
+      "word": "山姆多款冷冻预制菜品解冻后销售",
+      "onboard_time": 1730475320,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502613,
@@ -931,6 +947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 360045,
+      "num": 360045,
+      "word": "数十名登山者擅闯别墅泳池洗鞋",
+      "onboard_time": 1730483173,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358777,
       "num": 336682,
       "word": "乔任梁父母再回应非本人质疑",
@@ -945,6 +969,14 @@
       "onboard_time": 1730463799,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350778,
+      "num": 350778,
+      "word": "潘宏爱玩狗涉嫌虐狗吗",
+      "onboard_time": 1730481254,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 344271,
@@ -1011,14 +1043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 325404,
-      "num": 325404,
-      "word": "潘宏爱玩狗涉嫌虐狗吗",
-      "onboard_time": 1730481254,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 323951,
       "num": 323951,
       "word": "S15决赛落地成都",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1730437639,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285422,
-      "num": 285422,
-      "word": "山姆多款冷冻预制菜品解冻后销售",
-      "onboard_time": 1730475320,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284131,
@@ -1219,14 +1235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 256053,
-      "num": 256053,
-      "word": "数十名登山者擅闯别墅泳池洗鞋",
-      "onboard_time": 1730483173,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253415,
       "num": 253415,
       "word": "上海或将迎1981年来11月最大降雨",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1730453239,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251238,
+      "num": 111052,
+      "word": "印度教牧师自称会飞当众展示时摔亡",
+      "onboard_time": 1730479277,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 250518,
@@ -1323,12 +1339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240360,
-      "num": 99975,
-      "word": "印度教牧师自称会飞当众展示时摔亡",
-      "onboard_time": 1730479277,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 239150,
+      "num": 199561,
+      "word": "警方及乔爸早已公布乔任梁非他杀",
+      "onboard_time": 1730455998,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 236760,
@@ -1539,14 +1555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 199561,
-      "num": 199561,
-      "word": "警方及乔爸早已公布乔任梁非他杀",
-      "onboard_time": 1730455998,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198112,
       "num": 198112,
       "word": "新乡通报男子投资千万建厂遇办证难",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1730438179,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197154,
+      "num": 110314,
+      "word": "女生因发量少自卑剃成光头做自己",
+      "onboard_time": 1730489230,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195495,
@@ -2523,6 +2539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124660,
+      "num": 124660,
+      "word": "烧伤妈妈看到孩子视频落泪",
+      "onboard_time": 1730499191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123804,
       "num": 123804,
       "word": "男子故意碰撞多名女生胸部被行拘",
@@ -2731,6 +2755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109848,
+      "num": 109848,
+      "word": "外籍友人跳河救人获见义勇为奖励",
+      "onboard_time": 1730500813,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "神十八3人下周一回地球",
@@ -2875,6 +2907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89690,
+      "num": 111969,
+      "word": "永夜星河 勾引我",
+      "onboard_time": 1730484792,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89683,
       "num": 89683,
       "word": "迪丽热巴反差姐感",
@@ -2915,14 +2955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86263,
-      "num": 39339,
-      "word": "女生因发量少自卑剃成光头做自己",
-      "onboard_time": 1730489230,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86055,
       "num": 86055,
       "word": "十一月你好",
@@ -2937,6 +2969,14 @@
       "onboard_time": 1730386580,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84960,
+      "num": 84960,
+      "word": "悉尼偶遇宋雨琦minnie",
+      "onboard_time": 1730499312,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 82043,
@@ -2964,7 +3004,7 @@
     },
     {
       "raw_hot": 78645,
-      "num": 66478,
+      "num": 70258,
       "word": "蒯曼vs钱天一",
       "onboard_time": 1730482216,
       "rank": 30,
@@ -2995,20 +3035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73456,
-      "num": 65953,
-      "word": "永夜星河 勾引我",
-      "onboard_time": 1730484792,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 72560,
-      "num": 72560,
-      "word": "烧伤妈妈看到孩子视频落泪",
-      "onboard_time": 1730499191,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 72564,
+      "num": 111548,
+      "word": "北斗七行包场秦海璐新电影",
+      "onboard_time": 1730482815,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 72510,
@@ -3017,6 +3049,14 @@
       "onboard_time": 1730385740,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70677,
+      "num": 70677,
+      "word": "Bin决赛要零封T1",
+      "onboard_time": 1730502854,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 70535,
@@ -3075,12 +3115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64994,
-      "num": 64994,
-      "word": "北斗七行包场秦海璐新电影",
-      "onboard_time": 1730482815,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 65609,
+      "num": 65609,
+      "word": "吕梁民政局称明年初结婚或大增",
+      "onboard_time": 1730487432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64344,
+      "num": 64344,
+      "word": "蒯曼3比0大藤沙月",
+      "onboard_time": 1730502734,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 63503,
@@ -3097,6 +3145,14 @@
       "onboard_time": 1730387419,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61899,
+      "num": 71561,
+      "word": "何广智 我的名声这么差吗",
+      "onboard_time": 1730502795,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 61483,
@@ -3131,20 +3187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57426,
-      "num": 63688,
-      "word": "吕梁民政局称明年初结婚或大增",
-      "onboard_time": 1730487432,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56944,
       "num": 283048,
       "word": "救护车司机被举报勾结医生贩卖婴儿",
       "onboard_time": 1730453779,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56780,
+      "num": 56780,
+      "word": "英雄联盟S14",
+      "onboard_time": 1730502674,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 55859,
@@ -3185,14 +3241,6 @@
       "onboard_time": 1730442799,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 52274,
-      "num": 52274,
-      "word": "悉尼偶遇宋雨琦minnie",
-      "onboard_time": 1730499312,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 51592,
@@ -3291,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45980,
+      "num": 45980,
+      "word": "河南景区暖心设计让女厕所不再排队",
+      "onboard_time": 1730502915,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45147,
       "num": 370634,
       "word": "极地考察员穿的是波司登",
@@ -3303,6 +3359,14 @@
       "num": 461784,
       "word": "美股7巨头集体暴跌",
       "onboard_time": 1730437939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44652,
+      "num": 173469,
+      "word": "姐姐追凶26年开庭前抱父亲遗像痛哭",
+      "onboard_time": 1730502134,
       "rank": 9,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730500740040,
+  "endTime": 1730503301651,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616907,
+      "num": 616907,
+      "word": "大专生还没毕业就拿到了高薪和编制",
+      "onboard_time": 1730500813,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595234,
       "num": 289004,
       "word": "特朗普称我们几乎炸了整个中东但是一场空",
@@ -49,6 +57,14 @@
       "onboard_time": 1730469140,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 509929,
+      "num": 509929,
+      "word": "山姆多款冷冻预制菜品解冻后销售",
+      "onboard_time": 1730475320,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493302,
@@ -75,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360045,
+      "num": 360045,
+      "word": "数十名登山者擅闯别墅泳池洗鞋",
+      "onboard_time": 1730483173,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350778,
+      "num": 350778,
+      "word": "潘宏爱玩狗涉嫌虐狗吗",
+      "onboard_time": 1730481254,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 344215,
       "num": 344215,
       "word": "小米洗衣机",
@@ -91,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325404,
-      "num": 325404,
-      "word": "潘宏爱玩狗涉嫌虐狗吗",
-      "onboard_time": 1730481254,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 291615,
       "num": 291615,
       "word": "永夜星河",
@@ -113,14 +137,6 @@
       "onboard_time": 1730471060,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 285422,
-      "num": 285422,
-      "word": "山姆多款冷冻预制菜品解冻后销售",
-      "onboard_time": 1730475320,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284579,
@@ -163,16 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256053,
-      "num": 256053,
-      "word": "数十名登山者擅闯别墅泳池洗鞋",
-      "onboard_time": 1730483173,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240360,
-      "num": 99975,
+      "raw_hot": 251238,
+      "num": 111052,
       "word": "印度教牧师自称会飞当众展示时摔亡",
       "onboard_time": 1730479277,
       "rank": 48,
@@ -185,6 +193,14 @@
       "onboard_time": 1730468481,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239150,
+      "num": 173171,
+      "word": "警方及乔爸早已公布乔任梁非他杀",
+      "onboard_time": 1730455998,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 220027,
@@ -209,6 +225,14 @@
       "onboard_time": 1730464279,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 197154,
+      "num": 110314,
+      "word": "女生因发量少自卑剃成光头做自己",
+      "onboard_time": 1730489230,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189783,
@@ -307,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124660,
+      "num": 124660,
+      "word": "烧伤妈妈看到孩子视频落泪",
+      "onboard_time": 1730499191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120699,
       "num": 120699,
       "word": "闵塔鲨用心",
@@ -361,6 +393,14 @@
       "onboard_time": 1730468179,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109848,
+      "num": 109848,
+      "word": "外籍友人跳河救人获见义勇为奖励",
+      "onboard_time": 1730500813,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 107698,
@@ -459,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86263,
-      "num": 39339,
-      "word": "女生因发量少自卑剃成光头做自己",
-      "onboard_time": 1730489230,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 89690,
+      "num": 111969,
+      "word": "永夜星河 勾引我",
+      "onboard_time": 1730484792,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84960,
+      "num": 84960,
+      "word": "悉尼偶遇宋雨琦minnie",
+      "onboard_time": 1730499312,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 79630,
@@ -476,27 +524,27 @@
     },
     {
       "raw_hot": 78645,
-      "num": 66478,
+      "num": 70258,
       "word": "蒯曼vs钱天一",
       "onboard_time": 1730482216,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 73456,
-      "num": 65953,
-      "word": "永夜星河 勾引我",
-      "onboard_time": 1730484792,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 72564,
+      "num": 111548,
+      "word": "北斗七行包场秦海璐新电影",
+      "onboard_time": 1730482815,
+      "rank": 28,
+      "category": "电影"
     },
     {
-      "raw_hot": 72560,
-      "num": 72560,
-      "word": "烧伤妈妈看到孩子视频落泪",
-      "onboard_time": 1730499191,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 70677,
+      "num": 70677,
+      "word": "Bin决赛要零封T1",
+      "onboard_time": 1730502854,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 70535,
@@ -507,12 +555,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64994,
-      "num": 64994,
-      "word": "北斗七行包场秦海璐新电影",
-      "onboard_time": 1730482815,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 65609,
+      "num": 65609,
+      "word": "吕梁民政局称明年初结婚或大增",
+      "onboard_time": 1730487432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64344,
+      "num": 64344,
+      "word": "蒯曼3比0大藤沙月",
+      "onboard_time": 1730502734,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61899,
+      "num": 71561,
+      "word": "何广智 我的名声这么差吗",
+      "onboard_time": 1730502795,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 61483,
@@ -531,12 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57426,
-      "num": 63688,
-      "word": "吕梁民政局称明年初结婚或大增",
-      "onboard_time": 1730487432,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 56780,
+      "num": 56780,
+      "word": "英雄联盟S14",
+      "onboard_time": 1730502674,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 53675,
@@ -545,14 +609,6 @@
       "onboard_time": 1730469499,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 52274,
-      "num": 52274,
-      "word": "悉尼偶遇宋雨琦minnie",
-      "onboard_time": 1730499312,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 51482,
@@ -568,6 +624,22 @@
       "word": "男子出狱近9个月重新被羁押",
       "onboard_time": 1730490971,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45980,
+      "num": 45980,
+      "word": "河南景区暖心设计让女厕所不再排队",
+      "onboard_time": 1730502915,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44652,
+      "num": 173469,
+      "word": "姐姐追凶26年开庭前抱父亲遗像痛哭",
+      "onboard_time": 1730502134,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
