@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730459954792,
+  "endTime": 1730460940102,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925703,
+      "num": 1148112,
+      "word": "会跳yes ok的来了",
+      "onboard_time": 1730459359,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 889694,
       "num": 889694,
       "word": "两女子当租赁伴娘遭新娘拒付尾款",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 697913,
-      "num": 341068,
+      "num": 630451,
       "word": "王健林1.6亿英镑卖掉英国游艇制造商",
       "onboard_time": 1730456778,
       "rank": 24,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555587,
+      "num": 555587,
+      "word": "苦难被网红当成致富剧本",
+      "onboard_time": 1730455399,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536562,
       "num": 536562,
       "word": "麦琳回应近期舆论",
@@ -473,14 +489,6 @@
       "onboard_time": 1730387059,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 504641,
-      "num": 504641,
-      "word": "苦难被网红当成致富剧本",
-      "onboard_time": 1730455399,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502613,
@@ -555,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 439484,
+      "num": 439484,
+      "word": "芬兰总统vlog晒中国高铁",
+      "onboard_time": 1730458879,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430494,
       "num": 355781,
       "word": "人体作息最佳时间表",
@@ -627,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365696,
-      "num": 257949,
-      "word": "会跳yes ok的来了",
-      "onboard_time": 1730459359,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 361091,
       "num": 296726,
       "word": "丝芭传媒",
@@ -659,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353372,
-      "num": 353372,
-      "word": "芬兰总统vlog晒中国高铁",
-      "onboard_time": 1730458879,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 344271,
       "num": 344271,
       "word": "天蝎座到底有多难搞",
@@ -681,6 +681,14 @@
       "onboard_time": 1730432779,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341306,
+      "num": 305696,
+      "word": "男女厕位比1比2是社会进步",
+      "onboard_time": 1730458036,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336584,
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273630,
+      "num": 273630,
+      "word": "珠帘玉幕观后感",
+      "onboard_time": 1730459838,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273451,
       "num": 175922,
       "word": "女子一听要坐牢赶紧转18万养老钱",
@@ -801,6 +817,14 @@
       "onboard_time": 1730437400,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272917,
+      "num": 272917,
+      "word": "睡眠经济盯上年轻人的被窝",
+      "onboard_time": 1730457739,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267950,
@@ -833,14 +857,6 @@
       "onboard_time": 1730385559,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260266,
-      "num": 260266,
-      "word": "睡眠经济盯上年轻人的被窝",
-      "onboard_time": 1730457739,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258221,
@@ -889,14 +905,6 @@
       "onboard_time": 1730453239,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251166,
-      "num": 251166,
-      "word": "男女厕位比1比2是社会进步",
-      "onboard_time": 1730458036,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250518,
@@ -953,6 +961,14 @@
       "onboard_time": 1730438718,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240993,
+      "num": 299877,
+      "word": "霉霉曾说吹牛老爹对她很好",
+      "onboard_time": 1730455638,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 236760,
@@ -1219,14 +1235,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 183918,
-      "num": 299877,
-      "word": "霉霉曾说吹牛老爹对她很好",
-      "onboard_time": 1730455638,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183772,
       "num": 224389,
       "word": "美民调称哈里斯以1%优势领先特朗普",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1730431938,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 182155,
+      "num": 182155,
+      "word": "樊振东ins更新",
+      "onboard_time": 1730460378,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 181411,
@@ -1491,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156009,
+      "num": 156009,
+      "word": "落马女副省长丈夫被查",
+      "onboard_time": 1730460138,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155263,
       "num": 155263,
       "word": "判决书写错刑期时间承办人记大过",
@@ -1723,12 +1747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132724,
-      "num": 132724,
-      "word": "珠帘玉幕观后感",
-      "onboard_time": 1730459838,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 133269,
+      "num": 133269,
+      "word": "中国男篮18人集训名单",
+      "onboard_time": 1730458999,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131961,
@@ -1777,6 +1801,14 @@
       "onboard_time": 1730383819,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128186,
+      "num": 128186,
+      "word": "特朗普称我们几乎炸了整个中东但是一场空",
+      "onboard_time": 1730460318,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 126793,
@@ -1881,14 +1913,6 @@
       "onboard_time": 1730410212,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118552,
-      "num": 118552,
-      "word": "中国男篮18人集训名单",
-      "onboard_time": 1730458999,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 118023,
@@ -2307,6 +2331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51592,
+      "num": 272931,
+      "word": "华晨宇陪张大大过了两场生日",
+      "onboard_time": 1730460679,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51074,
       "num": 355484,
       "word": "直击姐姐为弟追凶26年案庭审",
@@ -2379,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44518,
+      "num": 342167,
+      "word": "京东月黑风高85英寸大电视11.11元",
+      "onboard_time": 1730456359,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43554,
       "num": 309700,
       "word": "必须知道的女性健康知识",
@@ -2408,6 +2448,14 @@
       "word": "今天你吃到糖了吗",
       "onboard_time": 1730452818,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40337,
+      "num": 268178,
+      "word": "研究发现焦虑和高度近视强相关",
+      "onboard_time": 1730459298,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2451,14 +2499,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 35893,
-      "num": 342167,
-      "word": "京东月黑风高85英寸大电视11.11元",
-      "onboard_time": 1730456359,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 35365,
       "num": 342071,
       "word": "老人谈忘年恋赠与女友20万",
@@ -2473,14 +2513,6 @@
       "onboard_time": 1730439139,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 34046,
-      "num": 254415,
-      "word": "研究发现焦虑和高度近视强相关",
-      "onboard_time": 1730459298,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33747,
@@ -2651,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23559,
+      "num": 257655,
+      "word": "请确保救命按钮随时在线",
+      "onboard_time": 1730458938,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23424,
       "num": 262354,
       "word": "美大选前夕多家美商户加固门面防骚乱",
@@ -2809,14 +2849,6 @@
       "onboard_time": 1730405412,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13065,
-      "num": 257655,
-      "word": "请确保救命按钮随时在线",
-      "onboard_time": 1730458938,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12762,
