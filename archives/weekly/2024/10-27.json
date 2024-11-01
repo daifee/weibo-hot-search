@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730445705032,
+  "endTime": 1730446617995,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1103296,
+      "num": 368325,
+      "word": "高亚麟深夜发文",
+      "onboard_time": 1730444417,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1101899,
       "num": 1101899,
       "word": "男子做兼职主播月入3毛",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1730176521,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1070633,
-      "num": 311832,
-      "word": "高亚麟深夜发文",
-      "onboard_time": 1730444417,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1069987,
@@ -3403,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554898,
+      "num": 554898,
+      "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
+      "onboard_time": 1730444180,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554615,
       "num": 891255,
       "word": "水军狂发正面评价让真实评价沉帖",
@@ -3683,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513866,
+      "num": 356997,
+      "word": "葛夕坚定选择离婚",
+      "onboard_time": 1730442140,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512621,
       "num": 512621,
       "word": "国乒法国冠军赛0冠收场",
@@ -3777,14 +3793,6 @@
       "onboard_time": 1730298143,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 496911,
-      "num": 309390,
-      "word": "葛夕坚定选择离婚",
-      "onboard_time": 1730442140,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 496464,
@@ -4745,6 +4753,14 @@
       "onboard_time": 1730289559,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388106,
+      "num": 351232,
+      "word": "杨子说银行账户没多少余额",
+      "onboard_time": 1730443398,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 387564,
@@ -6507,14 +6523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264479,
-      "num": 264479,
-      "word": "杨子说银行账户没多少余额",
-      "onboard_time": 1730443398,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263726,
       "num": 650102,
       "word": "神十九乘组明年4月下旬或5月上旬返回",
@@ -7371,14 +7379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235642,
-      "num": 318746,
-      "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
-      "onboard_time": 1730444180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235531,
       "num": 235531,
       "word": "后来才知道当年行为叫做临终关怀",
@@ -7409,6 +7409,14 @@
       "onboard_time": 1730033300,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234175,
+      "num": 234175,
+      "word": "古偶男主",
+      "onboard_time": 1730441539,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 234074,
@@ -8115,14 +8123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213594,
-      "num": 213594,
-      "word": "古偶男主",
-      "onboard_time": 1730441539,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212850,
       "num": 268909,
       "word": "易烊千玺确认出席东京电影节",
@@ -8313,6 +8313,14 @@
       "onboard_time": 1730360719,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207870,
+      "num": 373566,
+      "word": "小哥接到奇怪订单送18万到稻田",
+      "onboard_time": 1730445259,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207844,
@@ -11403,6 +11411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155263,
+      "num": 155263,
+      "word": "判决书写错刑期时间承办人记大过",
+      "onboard_time": 1730444479,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155193,
       "num": 155193,
       "word": "Doinb爆料Ale被开",
@@ -11635,6 +11651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151666,
+      "num": 151666,
+      "word": "留几手 葛夕",
+      "onboard_time": 1730444898,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151575,
       "num": 194878,
       "word": "撒贝宁的状态令人羡慕了",
@@ -11803,6 +11827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 148883,
+      "num": 148883,
+      "word": "结婚奖励1500元初衷远比这笔钱有分量",
+      "onboard_time": 1730445678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148659,
       "num": 148659,
       "word": "闫妮新剧口碑",
@@ -11873,6 +11905,14 @@
       "onboard_time": 1730193738,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146738,
+      "num": 146738,
+      "word": "Bang考虑复出",
+      "onboard_time": 1730443100,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 146691,
@@ -11953,14 +11993,6 @@
       "onboard_time": 1730179701,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144746,
-      "num": 144746,
-      "word": "Bang考虑复出",
-      "onboard_time": 1730443100,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 144565,
@@ -12097,6 +12129,14 @@
       "onboard_time": 1730300901,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142212,
+      "num": 142212,
+      "word": "神舟飞船已进入航班化状态",
+      "onboard_time": 1730445619,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142176,
@@ -12275,6 +12315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139190,
+      "num": 139190,
+      "word": "babymonster空降",
+      "onboard_time": 1730445439,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "狗狗把自己的花生放到奶奶的花生堆",
@@ -12289,14 +12337,6 @@
       "onboard_time": 1730036000,
       "rank": 48,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 139003,
-      "num": 139003,
-      "word": "小哥接到奇怪订单送18万到稻田",
-      "onboard_time": 1730445259,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138487,
@@ -12867,14 +12907,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 128527,
-      "num": 128527,
-      "word": "判决书写错刑期时间承办人记大过",
-      "onboard_time": 1730444479,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128226,
       "num": 128226,
       "word": "梅姨到底是谁",
@@ -13065,14 +13097,6 @@
       "onboard_time": 1730100980,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 123881,
-      "num": 123881,
-      "word": "babymonster空降",
-      "onboard_time": 1730445439,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 123600,
@@ -13395,6 +13419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116006,
+      "num": 235151,
+      "word": "中国第41次南极考察队破浪出征",
+      "onboard_time": 1730443520,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115877,
       "num": 115877,
       "word": "阿雅好温柔",
@@ -13435,6 +13467,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 115461,
+      "num": 115461,
+      "word": "吕梁民政回应女性35岁前结婚奖1500元",
+      "onboard_time": 1730446399,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114888,
       "num": 114888,
       "word": "珠帘玉幕三有女主",
@@ -13449,6 +13489,14 @@
       "onboard_time": 1730374579,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 114388,
+      "num": 114388,
+      "word": "太空衣橱还是太全面了",
+      "onboard_time": 1730444959,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114379,
@@ -13475,14 +13523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113179,
-      "num": 113179,
-      "word": "留几手 葛夕",
-      "onboard_time": 1730444898,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112757,
       "num": 1945495,
       "word": "中式美学与秋景的适配度",
@@ -13505,14 +13545,6 @@
       "onboard_time": 1730077938,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112097,
-      "num": 112097,
-      "word": "神舟飞船已进入航班化状态",
-      "onboard_time": 1730445619,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112044,
@@ -13571,14 +13603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111095,
-      "num": 111095,
-      "word": "太空衣橱还是太全面了",
-      "onboard_time": 1730444959,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111037,
       "num": 111037,
       "word": "芒果新生班有自己的彭高",
@@ -13633,14 +13657,6 @@
       "onboard_time": 1730045478,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108835,
-      "num": 108835,
-      "word": "结婚奖励1500元初衷远比这笔钱有分量",
-      "onboard_time": 1730445678,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108567,
@@ -14064,14 +14080,6 @@
       "word": "为什么我们越来越讨厌接电话",
       "onboard_time": 1730080877,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91308,
-      "num": 235151,
-      "word": "中国第41次南极考察队破浪出征",
-      "onboard_time": 1730443520,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -15099,6 +15107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54234,
+      "num": 343779,
+      "word": "京东60元补贴",
+      "onboard_time": 1730442799,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54179,
       "num": 168485,
       "word": "近距离投喂拍照可能激怒野生动物",
@@ -15331,6 +15347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48060,
+      "num": 355475,
+      "word": "从厕所窗户逃跑的副局长是干部之耻",
+      "onboard_time": 1730445739,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47550,
       "num": 68667,
       "word": "郭刚堂用24年找到儿子余生终圆满",
@@ -15417,14 +15441,6 @@
       "onboard_time": 1730192719,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45348,
-      "num": 257150,
-      "word": "京东60元补贴",
-      "onboard_time": 1730442799,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 44836,
@@ -15833,6 +15849,14 @@
       "onboard_time": 1730172979,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 36264,
+      "num": 345902,
+      "word": "男子出轨第三者被判返还原配300万",
+      "onboard_time": 1730446158,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36255,
@@ -17467,6 +17491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14160,
+      "num": 346577,
+      "word": "丝芭与沈梦瑶苏杉杉多人有纠纷",
+      "onboard_time": 1730446098,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14155,
       "num": 27879,
       "word": "专家曾称石破政权或短命",
@@ -17801,6 +17833,14 @@
       "onboard_time": 1730257280,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6927,
+      "num": 114687,
+      "word": "iQOO13到手真香",
+      "onboard_time": 1730446579,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 6780,
