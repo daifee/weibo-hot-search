@@ -1,0 +1,410 @@
+{
+  "runTime": 1730453009684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1125988,
+        "num": 1180158,
+        "word": "程莉莎让郭晓东道歉",
+        "onboard_time": 1730450718,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1029459,
+        "num": 1029459,
+        "word": "网购仅退款19元商家起诉赔800",
+        "onboard_time": 1730437519,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7842,
+        "num": 815641,
+        "word": "超级工程和大国重器同框了",
+        "onboard_time": 1730452938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811632,
+        "num": 811632,
+        "word": "和颂传媒辟谣签约鞠婧祎",
+        "onboard_time": 1730452217,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570080,
+        "num": 570080,
+        "word": "官方通报120司机与产科医生涉嫌贩婴",
+        "onboard_time": 1730450599,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414003,
+        "num": 414003,
+        "word": "结婚奖励1500元初衷远比这笔钱有分量",
+        "onboard_time": 1730445678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491595,
+        "num": 411502,
+        "word": "永夜星河开播十分钟就全剧终",
+        "onboard_time": 1730435060,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390697,
+        "num": 390697,
+        "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
+        "onboard_time": 1730444180,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714416,
+        "num": 389640,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51479,
+        "num": 386975,
+        "word": "网红主播让亲妈扮养母卖惨圈粉",
+        "onboard_time": 1730451918,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884842,
+        "num": 385543,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839407,
+        "num": 380988,
+        "word": "宋仲基和张紫妍案加害人合影",
+        "onboard_time": 1730452038,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718259,
+        "num": 378984,
+        "word": "高亚麟深夜发文",
+        "onboard_time": 1730444417,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86872,
+        "num": 376803,
+        "word": "沈阳一禁毒大队队长被控走私毒品",
+        "onboard_time": 1730452038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26609,
+        "num": 374926,
+        "word": "今天你吃到糖了吗",
+        "onboard_time": 1730452818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32606,
+        "num": 370634,
+        "word": "极地考察员穿的是波司登",
+        "onboard_time": 1730450297,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625433,
+        "num": 368635,
+        "word": "小哥接到奇怪订单送18万到稻田",
+        "onboard_time": 1730445259,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480022,
+        "num": 366280,
+        "word": "赵牧辰发声明",
+        "onboard_time": 1730448319,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158502,
+        "num": 363179,
+        "word": "桥本环奈方回应霸凌",
+        "onboard_time": 1730452099,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14993,
+        "num": 361597,
+        "word": "疾病自测成保健品贩子引流工具",
+        "onboard_time": 1730452280,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488633,
+        "num": 359055,
+        "word": "男子出轨第三者被判返还原配300万",
+        "onboard_time": 1730446158,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357499,
+        "num": 357499,
+        "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+        "onboard_time": 1730432359,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331042,
+        "num": 331042,
+        "word": "天蝎座到底有多难搞",
+        "onboard_time": 1730447839,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313828,
+        "num": 313828,
+        "word": "永夜星河开播",
+        "onboard_time": 1730433498,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312635,
+        "num": 312635,
+        "word": "乔任梁父母再次回应其死因",
+        "onboard_time": 1730432479,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301969,
+        "num": 301969,
+        "word": "民警建议关闭苹果手机这项功能",
+        "onboard_time": 1730439499,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274903,
+        "num": 274903,
+        "word": "詹姆斯表态将投票支持哈里斯",
+        "onboard_time": 1730450658,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 267950,
+        "num": 267950,
+        "word": "河南4人涉嫌贩婴被采取刑事强制措施",
+        "onboard_time": 1730449938,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31754,
+        "num": 267670,
+        "word": "采销直播5折家电又来了",
+        "onboard_time": 1730452099,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23424,
+        "num": 262354,
+        "word": "美大选前夕多家美商户加固门面防骚乱",
+        "onboard_time": 1730451318,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417468,
+        "num": 259290,
+        "word": "从厕所窗户逃跑的副局长是干部之耻",
+        "onboard_time": 1730445739,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11229,
+        "num": 256668,
+        "word": "双航母同框这一刻祖国强大具象化了",
+        "onboard_time": 1730433800,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256071,
+        "num": 256071,
+        "word": "杨子说银行账户没多少余额",
+        "onboard_time": 1730443398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249473,
+        "num": 249473,
+        "word": "阿富汗塔利班禁止女性在公共场合说话",
+        "onboard_time": 1730430739,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195756,
+        "num": 195756,
+        "word": "赵露思新剧好美",
+        "onboard_time": 1730439499,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160732,
+        "num": 160732,
+        "word": "葛夕坚定选择离婚",
+        "onboard_time": 1730442140,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159740,
+        "num": 159740,
+        "word": "程潇打戏",
+        "onboard_time": 1730451738,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159387,
+        "num": 159387,
+        "word": "台风康妮逼近温岭金沙滩掀起巨浪",
+        "onboard_time": 1730435361,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151495,
+        "num": 151495,
+        "word": "全国第1张火车票电子发票开出",
+        "onboard_time": 1730437939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141998,
+        "num": 141998,
+        "word": "樱桃琥珀 西桃婚礼不拍摄",
+        "onboard_time": 1730452457,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 141537,
+        "word": "G2帮T1打训练赛",
+        "onboard_time": 1730448619,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139793,
+        "num": 139793,
+        "word": "年终国产手机集体涨价",
+        "onboard_time": 1730451798,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136261,
+        "num": 136261,
+        "word": "黄圣依又选不离婚",
+        "onboard_time": 1730438239,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134989,
+        "num": 134989,
+        "word": "十日终焉大结局全员上桌",
+        "onboard_time": 1730449339,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130311,
+        "num": 130311,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1730452879,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125477,
+        "num": 125477,
+        "word": "刘宇宁原声台词",
+        "onboard_time": 1730452519,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82838,
+        "num": 122501,
+        "word": "郑思维黄雅琼退出中国大师赛",
+        "onboard_time": 1730447658,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121738,
+        "num": 121738,
+        "word": "全红婵正是看永夜星河的年纪",
+        "onboard_time": 1730441479,
+        "rank": 47,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 16398,
+        "num": 118127,
+        "word": "雪龙号科考队出征南极",
+        "onboard_time": 1730448379,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117631,
+        "num": 117631,
+        "word": "太好了是虞书欣王一栩有救了",
+        "onboard_time": 1730440999,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿联酋总统穆罕默德就中阿建交40周年互致贺电#"
+    }
+  }
+}
