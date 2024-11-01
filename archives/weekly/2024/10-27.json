@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730435220463,
+  "endTime": 1730436110352,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3766184,
+      "num": 3766184,
+      "word": "鞠婧祎已申请笔迹鉴定",
+      "onboard_time": 1730434279,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3537736,
       "num": 3537736,
       "word": "青岛通报网传代孕事件",
       "onboard_time": 1730289559,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3260701,
-      "num": 3260701,
-      "word": "鞠婧祎已申请笔迹鉴定",
-      "onboard_time": 1730434279,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 3222329,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1354056,
+      "num": 655075,
+      "word": "乔任梁父母再次回应其死因",
+      "onboard_time": 1730432479,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1350978,
       "num": 390176,
       "word": "江歌妈妈直播拒绝回应其它",
@@ -1635,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 988620,
-      "num": 655075,
-      "word": "乔任梁父母再次回应其死因",
-      "onboard_time": 1730432479,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 987420,
       "num": 298285,
       "word": "王楚钦拟聘北京一校队运动员岗",
@@ -2331,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 792053,
+      "num": 595833,
+      "word": "永夜星河开播十分钟就全剧终",
+      "onboard_time": 1730435060,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 788544,
       "num": 788544,
       "word": "iPhone能通话录音了",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1730092279,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 659096,
+      "num": 659096,
+      "word": "知名电竞公司涉赌遭跨省执法",
+      "onboard_time": 1730430978,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658816,
@@ -4539,14 +4555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 394408,
-      "num": 436708,
-      "word": "知名电竞公司涉赌遭跨省执法",
-      "onboard_time": 1730430978,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392256,
       "num": 389488,
       "word": "烧伤妈妈丈夫回应质疑",
@@ -5169,6 +5177,14 @@
       "onboard_time": 1730159421,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336584,
+      "num": 336584,
+      "word": "BABYMONSTER主打曲",
+      "onboard_time": 1730434579,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 336205,
@@ -6251,14 +6267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 267229,
-      "num": 267229,
-      "word": "BABYMONSTER主打曲",
-      "onboard_time": 1730434579,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 267194,
       "num": 267194,
       "word": "小米15颜色",
@@ -7043,6 +7051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239488,
+      "num": 239488,
+      "word": "真的受够女厕所排队了",
+      "onboard_time": 1730434459,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238999,
       "num": 238999,
       "word": "王浩泽说导师这句话影响自己终生",
@@ -7185,14 +7201,6 @@
       "onboard_time": 1730033300,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234253,
-      "num": 234253,
-      "word": "永夜星河开播十分钟就全剧终",
-      "onboard_time": 1730435060,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 234074,
@@ -7939,6 +7947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211180,
+      "num": 416360,
+      "word": "男子0元购偷出一个超市",
+      "onboard_time": 1730432419,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211064,
       "num": 211064,
       "word": "东北盒饭出现在美国早市2小时售罄",
@@ -8000,14 +8016,6 @@
       "word": "太原警方回应博主在深山发现遗体",
       "onboard_time": 1730388560,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208878,
-      "num": 416360,
-      "word": "男子0元购偷出一个超市",
-      "onboard_time": 1730432419,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8251,6 +8259,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 203865,
+      "num": 383183,
+      "word": "台风康妮逼近温岭金沙滩掀起巨浪",
+      "onboard_time": 1730435361,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203624,
       "num": 203624,
       "word": "狼队对战RW",
@@ -8297,6 +8313,14 @@
       "onboard_time": 1730278460,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 202870,
+      "num": 202870,
+      "word": "珠帘玉幕今日开播",
+      "onboard_time": 1730435361,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202827,
@@ -8921,6 +8945,14 @@
       "onboard_time": 1730207000,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193832,
+      "num": 193832,
+      "word": "当教室来了一只耶耶",
+      "onboard_time": 1730434821,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 193786,
@@ -10755,14 +10787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161075,
-      "num": 161075,
-      "word": "真的受够女厕所排队了",
-      "onboard_time": 1730434459,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161067,
       "num": 340644,
       "word": "林一欢乐谷直播",
@@ -10777,6 +10801,14 @@
       "onboard_time": 1730390238,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160626,
+      "num": 160626,
+      "word": "庄家人 吸血鬼",
+      "onboard_time": 1730435299,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 160539,
@@ -10849,6 +10881,14 @@
       "onboard_time": 1729954403,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159307,
+      "num": 159307,
+      "word": "偶遇马嘉祺青岛拍摄",
+      "onboard_time": 1730435539,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 159171,
@@ -11241,6 +11281,14 @@
       "onboard_time": 1730195898,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152431,
+      "num": 152431,
+      "word": "人体作息最佳时间表",
+      "onboard_time": 1730435721,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152361,
@@ -12051,14 +12099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136316,
-      "num": 136316,
-      "word": "当教室来了一只耶耶",
-      "onboard_time": 1730434821,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136310,
       "num": 136310,
       "word": "这球我奶来了都随便进原来是真的",
@@ -12257,6 +12297,14 @@
       "onboard_time": 1730295621,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133281,
+      "num": 133281,
+      "word": "范丞丞 演学霸",
+      "onboard_time": 1730435842,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133216,
@@ -12627,6 +12675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124754,
+      "num": 124754,
+      "word": "曾舜晞芭莎封面",
+      "onboard_time": 1730436080,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 124606,
       "num": 145548,
       "word": "魅族撞档小米发布会",
@@ -12889,6 +12945,14 @@
       "onboard_time": 1730035460,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118023,
+      "num": 434571,
+      "word": "王耀庆新歌MV好多人啊",
+      "onboard_time": 1730435361,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 117829,
@@ -13875,6 +13939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75675,
+      "num": 1088722,
+      "word": "双航母同框这一刻祖国强大具象化了",
+      "onboard_time": 1730433800,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75392,
       "num": 559521,
       "word": "医院回应重复收费等被罚481万",
@@ -14192,14 +14264,6 @@
       "word": "台州中小学停课一天",
       "onboard_time": 1730382439,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64819,
-      "num": 1088722,
-      "word": "双航母同框这一刻祖国强大具象化了",
-      "onboard_time": 1730433800,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -14841,6 +14905,14 @@
       "onboard_time": 1730297001,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46685,
+      "num": 388775,
+      "word": "电影胜券在握预售开启",
+      "onboard_time": 1730435480,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 46451,
@@ -16052,7 +16124,7 @@
     },
     {
       "raw_hot": 28148,
-      "num": 182108,
+      "num": 422092,
       "word": "极氪双11购车权益",
       "onboard_time": 1730434579,
       "rank": 39,
@@ -16712,6 +16784,14 @@
       "word": "台风康妮将影响苏州",
       "onboard_time": 1730411712,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17482,
+      "num": 519629,
+      "word": "追凶姐姐为取证与嫌犯网聊3年",
+      "onboard_time": 1730435900,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
