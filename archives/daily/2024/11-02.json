@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730492647098,
+  "endTime": 1730493456985,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -539,19 +539,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41544,
+      "num": 41544,
+      "word": "男子出狱近9个月重新被羁押",
+      "onboard_time": 1730490971,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37872,
       "num": 37872,
       "word": "姐姐追凶结束后想让弟弟跟爸爸合葬",
       "onboard_time": 1730486832,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34778,
-      "num": 34778,
-      "word": "男子出狱近9个月重新被羁押",
-      "onboard_time": 1730490971,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -603,19 +603,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14884,
+      "num": 14884,
+      "word": "以公正文明执法护航高质量发展",
+      "onboard_time": 1730492651,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14667,
+      "num": 46377,
+      "word": "法院回应判决书写错4年刑期变3年",
+      "onboard_time": 1730492231,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12039,
       "num": 21930,
       "word": "李海玉不知父亲也在追凶还弄瞎了眼",
       "onboard_time": 1730488572,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11242,
-      "num": 46377,
-      "word": "法院回应判决书写错4年刑期变3年",
-      "onboard_time": 1730492231,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
