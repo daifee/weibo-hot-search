@@ -1,0 +1,410 @@
+{
+  "runTime": 1730439579802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3008203,
+        "num": 3008203,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2464331,
+        "num": 2464331,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47134,
+        "num": 1766611,
+        "word": "双航母同框这一刻祖国强大具象化了",
+        "onboard_time": 1730433800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267176,
+        "num": 1267176,
+        "word": "永夜星河开播十分钟就全剧终",
+        "onboard_time": 1730435060,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 721729,
+        "num": 721729,
+        "word": "阿富汗塔利班禁止女性在公共场合说话",
+        "onboard_time": 1730430739,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 457403,
+        "num": 457403,
+        "word": "两女子当租赁伴娘遭新娘拒付尾款",
+        "onboard_time": 1730430380,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680443,
+        "num": 455813,
+        "word": "丝芭传媒起诉鞠婧祎",
+        "onboard_time": 1730428878,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667880,
+        "num": 435754,
+        "word": "永夜星河珠帘玉幕对打",
+        "onboard_time": 1730437580,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395420,
+        "num": 395420,
+        "word": "知名电竞公司涉赌遭跨省执法",
+        "onboard_time": 1730430978,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44786,
+        "num": 388800,
+        "word": "美股7巨头集体暴跌",
+        "onboard_time": 1730437939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987449,
+        "num": 387822,
+        "word": "乔任梁父母再次回应其死因",
+        "onboard_time": 1730432479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673597,
+        "num": 387763,
+        "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
+        "onboard_time": 1730426718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386711,
+        "num": 386711,
+        "word": "今起纸质火车票成为历史",
+        "onboard_time": 1730426598,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637386,
+        "num": 373664,
+        "word": "黄圣依又选不离婚",
+        "onboard_time": 1730438239,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331511,
+        "num": 331511,
+        "word": "全国第1张火车票电子发票开出",
+        "onboard_time": 1730437939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962376,
+        "num": 326481,
+        "word": "包贝尔否认乔任梁传言",
+        "onboard_time": 1730428457,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343156,
+        "num": 312780,
+        "word": "永夜星河开播",
+        "onboard_time": 1730433498,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334035,
+        "num": 300551,
+        "word": "腾讯视频11月大剧片单上新",
+        "onboard_time": 1730436620,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455606,
+        "num": 275530,
+        "word": "武艺说黄圣依带孩子走是净身出户",
+        "onboard_time": 1730431999,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271877,
+        "num": 271877,
+        "word": "郑思维女儿出生",
+        "onboard_time": 1730430079,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907831,
+        "num": 269914,
+        "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+        "onboard_time": 1730432359,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430494,
+        "num": 269763,
+        "word": "人体作息最佳时间表",
+        "onboard_time": 1730435721,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267136,
+        "num": 267136,
+        "word": "大梦归离开分4.9",
+        "onboard_time": 1730438659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245708,
+        "num": 245708,
+        "word": "永夜星河有自己的奥特曼",
+        "onboard_time": 1730438718,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241098,
+        "num": 241098,
+        "word": "农行回应女员工遭恐吓不幸轻生",
+        "onboard_time": 1730436800,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82043,
+        "num": 236717,
+        "word": "优酷云包场",
+        "onboard_time": 1730437519,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234400,
+        "num": 234400,
+        "word": "真的受够女厕所排队了",
+        "onboard_time": 1730434459,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235021,
+        "num": 226592,
+        "word": "珠帘玉幕热度",
+        "onboard_time": 1730437639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213632,
+        "num": 213632,
+        "word": "徐海乔阿娇演夫妻",
+        "onboard_time": 1730432598,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207485,
+        "num": 207485,
+        "word": "网购仅退款19元商家起诉赔800",
+        "onboard_time": 1730437519,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9881,
+        "num": 190241,
+        "word": "极氪双11购车权益",
+        "onboard_time": 1730434579,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188911,
+        "num": 188911,
+        "word": "台风康妮逼近温岭金沙滩掀起巨浪",
+        "onboard_time": 1730435361,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177265,
+        "num": 177265,
+        "word": "赵露思刘宇宁cp玄学",
+        "onboard_time": 1730438179,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171406,
+        "num": 171406,
+        "word": "大学生毕业做保洁第一个月收入8千",
+        "onboard_time": 1730427018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168374,
+        "num": 168374,
+        "word": "珠帘玉幕今日开播",
+        "onboard_time": 1730435361,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167493,
+        "num": 167493,
+        "word": "绝区零",
+        "onboard_time": 1730438419,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167206,
+        "num": 167206,
+        "word": "当教室来了一只耶耶",
+        "onboard_time": 1730434821,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165783,
+        "num": 165783,
+        "word": "BABYMONSTER主打曲",
+        "onboard_time": 1730434579,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34570,
+        "num": 160426,
+        "word": "美邦创始人回应开淘宝直播想当网红",
+        "onboard_time": 1730439139,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156828,
+        "num": 158740,
+        "word": "Aiden有妹妹了",
+        "onboard_time": 1730439439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157595,
+        "num": 157595,
+        "word": "谢娜模仿陈乔恩臭脸综合症",
+        "onboard_time": 1730439139,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157467,
+        "num": 157467,
+        "word": "丫丫没脖子了",
+        "onboard_time": 1730429238,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152191,
+        "num": 152191,
+        "word": "赵露思水下实拍",
+        "onboard_time": 1730437999,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136488,
+        "num": 136488,
+        "word": "管泽元预测BLG将夺冠",
+        "onboard_time": 1730433440,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130157,
+        "num": 130157,
+        "word": "民警建议关闭苹果手机这项功能",
+        "onboard_time": 1730439499,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130153,
+        "num": 130153,
+        "word": "追凶姐姐为取证与嫌犯网聊3年",
+        "onboard_time": 1730435900,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129386,
+        "num": 129386,
+        "word": "江歌妈妈60秒以上广告报价7万",
+        "onboard_time": 1730417477,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "重庆农行24岁女员工遭恐吓后轻生",
+        "onboard_time": 1730436499,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123318,
+        "num": 123318,
+        "word": "小小的我",
+        "onboard_time": 1730428158,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120067,
+        "num": 120067,
+        "word": "34岁女生在英国留学的阶级跨越",
+        "onboard_time": 1730430140,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记阐明四对关系#"
+    }
+  }
+}

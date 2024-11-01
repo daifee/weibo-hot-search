@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730438539445,
+  "endTime": 1730439579802,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -17,6 +17,14 @@
       "onboard_time": 1730428878,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3008203,
+      "num": 3008203,
+      "word": "女子15万工资未收到9年后才发现",
+      "onboard_time": 1730437280,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2943052,
@@ -68,19 +76,11 @@
     },
     {
       "raw_hot": 1525843,
-      "num": 1090199,
+      "num": 1267176,
       "word": "永夜星河开播十分钟就全剧终",
       "onboard_time": 1730435060,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1513133,
-      "num": 1513133,
-      "word": "女子15万工资未收到9年后才发现",
-      "onboard_time": 1730437280,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1464046,
@@ -203,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 667880,
+      "num": 435754,
+      "word": "永夜星河珠帘玉幕对打",
+      "onboard_time": 1730437580,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 659096,
       "num": 659096,
       "word": "知名电竞公司涉赌遭跨省执法",
@@ -225,6 +233,14 @@
       "onboard_time": 1730427018,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637386,
+      "num": 373664,
+      "word": "黄圣依又选不离婚",
+      "onboard_time": 1730438239,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 624742,
@@ -323,12 +339,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 428448,
-      "num": 428448,
-      "word": "永夜星河珠帘玉幕对打",
-      "onboard_time": 1730437580,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 430494,
+      "num": 355781,
+      "word": "人体作息最佳时间表",
+      "onboard_time": 1730435721,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 417753,
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355781,
-      "num": 355781,
-      "word": "人体作息最佳时间表",
-      "onboard_time": 1730435721,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 343855,
       "num": 462341,
       "word": "赵丽颖11月进组新剧",
@@ -417,6 +425,14 @@
       "onboard_time": 1730434579,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331511,
+      "num": 331511,
+      "word": "全国第1张火车票电子发票开出",
+      "onboard_time": 1730437939,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331265,
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267136,
+      "num": 267136,
+      "word": "大梦归离开分4.9",
+      "onboard_time": 1730438659,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265833,
       "num": 265833,
       "word": "麦琳 句句都提爱句句都伤害",
@@ -571,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249555,
-      "num": 249555,
-      "word": "全国第1张火车票电子发票开出",
-      "onboard_time": 1730437939,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249444,
       "num": 249444,
       "word": "女聊手撩拨用户聊天记录曝光",
@@ -601,6 +617,14 @@
       "onboard_time": 1730417117,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245708,
+      "num": 245708,
+      "word": "永夜星河有自己的奥特曼",
+      "onboard_time": 1730438718,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 236760,
@@ -672,6 +696,14 @@
       "word": "太原警方回应博主在深山发现遗体",
       "onboard_time": 1730388560,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207485,
+      "num": 447284,
+      "word": "网购仅退款19元商家起诉赔800",
+      "onboard_time": 1730437519,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -811,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179194,
-      "num": 179194,
-      "word": "黄圣依又选不离婚",
-      "onboard_time": 1730438239,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178981,
       "num": 178981,
       "word": "刘宇和工作人员 网友关系",
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167493,
+      "num": 167493,
+      "word": "绝区零",
+      "onboard_time": 1730438419,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167236,
       "num": 167236,
       "word": "2024年成都混合团体世界杯",
@@ -931,6 +963,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157595,
+      "num": 157595,
+      "word": "谢娜模仿陈乔恩臭脸综合症",
+      "onboard_time": 1730439139,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156828,
+      "num": 158740,
+      "word": "Aiden有妹妹了",
+      "onboard_time": 1730439439,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156499,
       "num": 156499,
       "word": "岳云鹏回应中原小岳岳模仿",
@@ -945,6 +993,14 @@
       "onboard_time": 1730376857,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152191,
+      "num": 152191,
+      "word": "赵露思水下实拍",
+      "onboard_time": 1730437999,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 148193,
@@ -979,27 +1035,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142195,
-      "num": 142195,
-      "word": "绝区零",
-      "onboard_time": 1730438419,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "狗狗把自己的花生放到奶奶的花生堆",
       "onboard_time": 1730418377,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139146,
-      "num": 447284,
-      "word": "网购仅退款19元商家起诉赔800",
-      "onboard_time": 1730437519,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130157,
+      "num": 130157,
+      "word": "民警建议关闭苹果手机这项功能",
+      "onboard_time": 1730439499,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129616,
       "num": 129616,
       "word": "石宇奇留院观察中",
@@ -1064,6 +1112,14 @@
       "word": "反诈民警提醒网上交友一定要慎重",
       "onboard_time": 1730428338,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125735,
+      "num": 186628,
+      "word": "重庆农行24岁女员工遭恐吓后轻生",
+      "onboard_time": 1730436499,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1140,7 +1196,7 @@
     },
     {
       "raw_hot": 116940,
-      "num": 1162406,
+      "num": 1766611,
       "word": "双航母同框这一刻祖国强大具象化了",
       "onboard_time": 1730433800,
       "rank": 2,
@@ -1225,14 +1281,6 @@
       "onboard_time": 1730425097,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98402,
-      "num": 186628,
-      "word": "重庆农行24岁女员工遭恐吓后轻生",
-      "onboard_time": 1730436499,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97896,
@@ -1328,6 +1376,14 @@
       "word": "赵今麦报名小巷人家小饭桌",
       "onboard_time": 1730386580,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82043,
+      "num": 236717,
+      "word": "优酷云包场",
+      "onboard_time": 1730437519,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1491,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44786,
+      "num": 461784,
+      "word": "美股7巨头集体暴跌",
+      "onboard_time": 1730437939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41535,
       "num": 41535,
       "word": "上海地铁",
@@ -1531,6 +1595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34570,
+      "num": 160426,
+      "word": "美邦创始人回应开淘宝直播想当网红",
+      "onboard_time": 1730439139,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33747,
       "num": 40454,
       "word": "周深无畏钎城刺痛合拍奇迹时刻",
@@ -1553,14 +1625,6 @@
       "onboard_time": 1730396174,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33165,
-      "num": 461784,
-      "word": "美股7巨头集体暴跌",
-      "onboard_time": 1730437939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32850,
