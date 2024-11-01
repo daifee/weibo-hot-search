@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730443573856,
+  "endTime": 1730445705032,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -1019,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1316195,
+      "num": 1316195,
+      "word": "虞书欣让鞠婧祎加油",
+      "onboard_time": 1730444538,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1315593,
       "num": 1315593,
       "word": "孙乐言哭了",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1730176521,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1070633,
+      "num": 311832,
+      "word": "高亚麟深夜发文",
+      "onboard_time": 1730444417,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1069987,
@@ -3763,6 +3779,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 496911,
+      "num": 309390,
+      "word": "葛夕坚定选择离婚",
+      "onboard_time": 1730442140,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496464,
       "num": 496464,
       "word": "爷爷床头柜放罂粟孙子报警",
@@ -5555,14 +5579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 313359,
-      "num": 290180,
-      "word": "葛夕坚定选择离婚",
-      "onboard_time": 1730442140,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312601,
       "num": 312601,
       "word": "张琳回应被潘展乐打破纪录",
@@ -6491,6 +6507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264479,
+      "num": 264479,
+      "word": "杨子说银行账户没多少余额",
+      "onboard_time": 1730443398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263726,
       "num": 650102,
       "word": "神十九乘组明年4月下旬或5月上旬返回",
@@ -6857,6 +6881,14 @@
       "onboard_time": 1730105959,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249886,
+      "num": 249886,
+      "word": "李行亮给麦琳买青团vlog",
+      "onboard_time": 1730442739,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 249665,
@@ -7336,6 +7368,14 @@
       "word": "外卖小哥被3名保安抡起板凳砸",
       "onboard_time": 1730106560,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235642,
+      "num": 318746,
+      "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
+      "onboard_time": 1730444180,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10123,6 +10163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176501,
+      "num": 391161,
+      "word": "网传河南一120司机参与贩卖女婴",
+      "onboard_time": 1730441659,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176444,
       "num": 176444,
       "word": "崔永熙第7位NBA正式登场中国球员",
@@ -10187,12 +10235,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 175637,
-      "num": 175637,
-      "word": "李行亮给麦琳买青团vlog",
-      "onboard_time": 1730442739,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 175465,
+      "num": 175465,
+      "word": "辛芷蕾胡先煦包场秦海璐新片",
+      "onboard_time": 1730445019,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 175385,
@@ -10313,14 +10361,6 @@
       "onboard_time": 1730339958,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173391,
-      "num": 173391,
-      "word": "杨子说银行账户没多少余额",
-      "onboard_time": 1730443398,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 173304,
@@ -11915,6 +11955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144746,
+      "num": 144746,
+      "word": "Bang考虑复出",
+      "onboard_time": 1730443100,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144565,
       "num": 144565,
       "word": "薛之谦周深合作舞台",
@@ -11969,6 +12017,14 @@
       "onboard_time": 1729988177,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143654,
+      "num": 143654,
+      "word": "王者苍英雄品质升级上线体验服",
+      "onboard_time": 1730445198,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 143218,
@@ -12235,12 +12291,12 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 138843,
-      "num": 138843,
-      "word": "Bang考虑复出",
-      "onboard_time": 1730443100,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 139003,
+      "num": 139003,
+      "word": "小哥接到奇怪订单送18万到稻田",
+      "onboard_time": 1730445259,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138487,
@@ -12619,14 +12675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132327,
-      "num": 391161,
-      "word": "网传河南一120司机参与贩卖女婴",
-      "onboard_time": 1730441659,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132239,
       "num": 132239,
       "word": "大梦归离不知道在燃什么",
@@ -12819,6 +12867,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 128527,
+      "num": 128527,
+      "word": "判决书写错刑期时间承办人记大过",
+      "onboard_time": 1730444479,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128226,
       "num": 128226,
       "word": "梅姨到底是谁",
@@ -13009,6 +13065,14 @@
       "onboard_time": 1730100980,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123881,
+      "num": 123881,
+      "word": "babymonster空降",
+      "onboard_time": 1730445439,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 123600,
@@ -13411,6 +13475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113179,
+      "num": 113179,
+      "word": "留几手 葛夕",
+      "onboard_time": 1730444898,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112757,
       "num": 1945495,
       "word": "中式美学与秋景的适配度",
@@ -13433,6 +13505,14 @@
       "onboard_time": 1730077938,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112097,
+      "num": 112097,
+      "word": "神舟飞船已进入航班化状态",
+      "onboard_time": 1730445619,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112044,
@@ -13491,6 +13571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111095,
+      "num": 111095,
+      "word": "太空衣橱还是太全面了",
+      "onboard_time": 1730444959,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111037,
       "num": 111037,
       "word": "芒果新生班有自己的彭高",
@@ -13545,6 +13633,14 @@
       "onboard_time": 1730045478,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108835,
+      "num": 108835,
+      "word": "结婚奖励1500元初衷远比这笔钱有分量",
+      "onboard_time": 1730445678,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108567,
@@ -15323,6 +15419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45348,
+      "num": 257150,
+      "word": "京东60元补贴",
+      "onboard_time": 1730442799,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44836,
       "num": 275087,
       "word": "湖北一村庄饱受放炮炸石之痛",
@@ -16529,14 +16633,6 @@
       "onboard_time": 1730019618,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27721,
-      "num": 257150,
-      "word": "京东60元补贴",
-      "onboard_time": 1730442799,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 27570,
