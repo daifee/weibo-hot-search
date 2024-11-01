@@ -1,9 +1,9 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730430190032,
+  "endTime": 1730430725203,
   "band_list": [
     {
-      "raw_hot": 2974369,
+      "raw_hot": 3222329,
       "num": 353692,
       "word": "丝芭传媒起诉鞠婧祎",
       "onboard_time": 1730428878,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 822168,
-      "num": 822168,
+      "raw_hot": 919930,
+      "num": 919930,
       "word": "今起纸质火车票成为历史",
       "onboard_time": 1730426598,
       "rank": 9,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 705881,
-      "num": 240584,
+      "num": 242957,
       "word": "女子怀孕后被代孕机构拉黑",
       "onboard_time": 1730380458,
       "rank": 15,
@@ -115,12 +115,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 641026,
-      "num": 641026,
+      "raw_hot": 656823,
+      "num": 656823,
       "word": "哈里斯做好特朗普提前宣布胜选准备",
       "onboard_time": 1730426598,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 653864,
+      "num": 653864,
+      "word": "大学生毕业做保洁第一个月收入8千",
+      "onboard_time": 1730427018,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624742,
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568712,
-      "num": 568712,
-      "word": "大学生毕业做保洁第一个月收入8千",
-      "onboard_time": 1730427018,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530574,
       "num": 246181,
       "word": "王大发回应荣梓杉方",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 511986,
-      "num": 244373,
+      "num": 249906,
       "word": "疑似花少后期发声",
       "onboard_time": 1730387059,
       "rank": 13,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458962,
+      "num": 299384,
+      "word": "郑思维女儿出生",
+      "onboard_time": 1730430079,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450353,
       "num": 234695,
       "word": "被举报虐狗的网红训狗师停播",
@@ -211,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385128,
+      "num": 297456,
+      "word": "丫丫没脖子了",
+      "onboard_time": 1730429238,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383654,
       "num": 383654,
       "word": "陈好演技最差的一次",
       "onboard_time": 1730374878,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361091,
+      "num": 296726,
+      "word": "丝芭传媒",
+      "onboard_time": 1730429058,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 360188,
@@ -227,12 +251,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 336682,
+      "raw_hot": 358777,
       "num": 336682,
       "word": "乔任梁父母再回应非本人质疑",
       "onboard_time": 1730428878,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352561,
+      "num": 359924,
+      "word": "小小的我",
+      "onboard_time": 1730428158,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 331265,
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330159,
-      "num": 359924,
-      "word": "小小的我",
-      "onboard_time": 1730428158,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 314058,
       "num": 314058,
       "word": "十日终焉完结",
@@ -273,14 +297,6 @@
       "onboard_time": 1730411771,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293286,
-      "num": 293286,
-      "word": "丝芭传媒",
-      "onboard_time": 1730429058,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 286974,
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263535,
-      "num": 263535,
-      "word": "丫丫没脖子了",
-      "onboard_time": 1730429238,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258221,
       "num": 258221,
       "word": "麦琳",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249444,
+      "num": 249444,
+      "word": "女聊手撩拨用户聊天记录曝光",
+      "onboard_time": 1730427258,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248589,
       "num": 248589,
       "word": "美方抽台湾的血养肥自己的军工",
@@ -361,6 +377,14 @@
       "onboard_time": 1730417117,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240985,
+      "num": 240985,
+      "word": "34岁女生在英国留学的阶级跨越",
+      "onboard_time": 1730430140,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 236760,
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212083,
-      "num": 212083,
-      "word": "女聊手撩拨用户聊天记录曝光",
-      "onboard_time": 1730427258,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209882,
       "num": 209882,
       "word": "石宇奇退赛",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 201119,
-      "num": 231703,
+      "num": 249987,
       "word": "TXT新歌造型被审判",
       "onboard_time": 1730428878,
       "rank": 25,
@@ -443,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196557,
+      "num": 196557,
+      "word": "美国大选时间",
+      "onboard_time": 1730430258,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 193449,
+      "num": 193449,
+      "word": "中国代表主动出击先来说一说美国",
+      "onboard_time": 1730426537,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191179,
       "num": 229839,
       "word": "双航母编队原声4K纯享",
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187175,
-      "num": 187175,
-      "word": "中国代表主动出击先来说一说美国",
-      "onboard_time": 1730426537,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 186011,
       "num": 186011,
       "word": "自助烤土豆为什么突然火了",
@@ -475,20 +499,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 184907,
+      "num": 184907,
+      "word": "任正非称英语是华为工作语言",
+      "onboard_time": 1730429538,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 183772,
       "num": 224389,
       "word": "美民调称哈里斯以1%优势领先特朗普",
       "onboard_time": 1730426417,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 180438,
-      "num": 180438,
-      "word": "郑思维女儿出生",
-      "onboard_time": 1730430079,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 178981,
@@ -539,20 +563,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168703,
+      "num": 168703,
+      "word": "香格里拉古城满大街都是猫皮制品",
+      "onboard_time": 1730429058,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168583,
       "num": 168583,
       "word": "台风康妮今天或在浙江沿海登陆",
       "onboard_time": 1730419999,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164535,
-      "num": 164535,
-      "word": "34岁女生在英国留学的阶级跨越",
-      "onboard_time": 1730430140,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 160896,
@@ -571,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159662,
-      "num": 159662,
-      "word": "香格里拉古城满大街都是猫皮制品",
-      "onboard_time": 1730429058,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 156499,
       "num": 156499,
       "word": "岳云鹏回应中原小岳岳模仿",
@@ -593,6 +609,22 @@
       "onboard_time": 1730376857,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153911,
+      "num": 249585,
+      "word": "麦琳 自相矛盾",
+      "onboard_time": 1730429479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148877,
+      "num": 249460,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 148193,
@@ -611,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145740,
-      "num": 223348,
-      "word": "永夜星河",
-      "onboard_time": 1730387120,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144351,
       "num": 144351,
       "word": "巴黎奥运励志后续",
@@ -633,14 +657,6 @@
       "onboard_time": 1730418377,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135561,
-      "num": 221653,
-      "word": "麦琳 自相矛盾",
-      "onboard_time": 1730429479,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 134927,
@@ -667,12 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132654,
-      "num": 132654,
-      "word": "任正非称英语是华为工作语言",
-      "onboard_time": 1730429538,
-      "rank": 42,
-      "category": "数码"
+      "raw_hot": 133502,
+      "num": 133502,
+      "word": "两女子当租赁伴娘遭新娘拒付尾款",
+      "onboard_time": 1730430380,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129616,
@@ -771,12 +787,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112169,
+      "num": 112169,
+      "word": "为弟追凶26载姐姐这些年受苦无数",
+      "onboard_time": 1730430619,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111305,
       "num": 111305,
       "word": "十一月对我好一点",
       "onboard_time": 1730417416,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109839,
+      "num": 109839,
+      "word": "神十八3人下周一回地球",
+      "onboard_time": 1730430437,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109641,
@@ -995,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 51074,
+      "num": 355484,
+      "word": "直击姐姐为弟追凶26年案庭审",
+      "onboard_time": 1730428938,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50458,
       "num": 63384,
       "word": "存量房贷重定价周期只能调整一次",
@@ -1011,11 +1051,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49129,
-      "num": 355484,
-      "word": "直击姐姐为弟追凶26年案庭审",
-      "onboard_time": 1730428938,
-      "rank": 9,
+      "raw_hot": 48536,
+      "num": 347167,
+      "word": "为亡弟追凶姐姐寻弟时被拐卖两次",
+      "onboard_time": 1730429119,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1024,14 +1064,6 @@
       "word": "上海地铁",
       "onboard_time": 1730372059,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40403,
-      "num": 347167,
-      "word": "为亡弟追凶姐姐寻弟时被拐卖两次",
-      "onboard_time": 1730429119,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31984,
+      "num": 298165,
+      "word": "俄方回应谷歌被罚款35位数",
+      "onboard_time": 1730430258,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31069,
       "num": 31069,
       "word": "适合11月第1天的文案",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1730398152,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24538,
+      "num": 343756,
+      "word": "儿童流感防护手册",
+      "onboard_time": 1730430018,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 24286,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 20435,
-      "num": 685126,
+      "num": 736778,
       "word": "11月这批新规将施行",
       "onboard_time": 1730388740,
       "rank": 2,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1730411712,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17342,
-      "num": 343756,
-      "word": "儿童流感防护手册",
-      "onboard_time": 1730430018,
-      "rank": 14,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 16291,
