@@ -1,0 +1,410 @@
+{
+  "runTime": 1730443573856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1579878,
+        "num": 1579878,
+        "word": "民警建议关闭苹果手机这项功能",
+        "onboard_time": 1730439499,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1285919,
+        "num": 1285919,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23159,
+        "num": 1207194,
+        "word": "双航母同框这一刻祖国强大具象化了",
+        "onboard_time": 1730433800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182446,
+        "num": 1182446,
+        "word": "网购仅退款19元商家起诉赔800",
+        "onboard_time": 1730437519,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747995,
+        "num": 747995,
+        "word": "永夜星河开播十分钟就全剧终",
+        "onboard_time": 1730435060,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518852,
+        "num": 518852,
+        "word": "全国第1张火车票电子发票开出",
+        "onboard_time": 1730437939,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540901,
+        "num": 517946,
+        "word": "丝芭传媒起诉鞠婧祎",
+        "onboard_time": 1730428878,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506859,
+        "num": 506859,
+        "word": "阿富汗塔利班禁止女性在公共场合说话",
+        "onboard_time": 1730430739,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 492955,
+        "num": 492955,
+        "word": "全红婵正是看永夜星河的年纪",
+        "onboard_time": 1730441479,
+        "rank": 8,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 480443,
+        "num": 480443,
+        "word": "你会每月核对工资是否到账吗",
+        "onboard_time": 1730440040,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1793335,
+        "num": 480312,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479199,
+        "num": 479199,
+        "word": "麦琳回应近期舆论",
+        "onboard_time": 1730440820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454726,
+        "num": 454726,
+        "word": "包贝尔否认乔任梁传言",
+        "onboard_time": 1730428457,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446291,
+        "num": 446291,
+        "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
+        "onboard_time": 1730426718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151386,
+        "num": 383367,
+        "word": "台风康妮逼近温岭金沙滩掀起巨浪",
+        "onboard_time": 1730435361,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366709,
+        "num": 366709,
+        "word": "今起纸质火车票成为历史",
+        "onboard_time": 1730426598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84894,
+        "num": 359732,
+        "word": "虞书欣期待去看全红婵比赛",
+        "onboard_time": 1730441957,
+        "rank": 16,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 23335,
+        "num": 348129,
+        "word": "萌主子说抓拍YES抓着拍NO",
+        "onboard_time": 1730440939,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418936,
+        "num": 343886,
+        "word": "乔任梁父母再次回应其死因",
+        "onboard_time": 1730432479,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66603,
+        "num": 333567,
+        "word": "戴萌被判赔偿丝芭60万违约金",
+        "onboard_time": 1730443100,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649259,
+        "num": 319611,
+        "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+        "onboard_time": 1730432359,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315165,
+        "num": 315165,
+        "word": "黄圣依又选不离婚",
+        "onboard_time": 1730438239,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294513,
+        "num": 294513,
+        "word": "永夜星河珠帘玉幕对打",
+        "onboard_time": 1730437580,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313359,
+        "num": 290180,
+        "word": "葛夕坚定选择离婚",
+        "onboard_time": 1730442140,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278253,
+        "num": 278253,
+        "word": "赵露思新剧好美",
+        "onboard_time": 1730439499,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132327,
+        "num": 278115,
+        "word": "网传河南一120司机参与贩卖女婴",
+        "onboard_time": 1730441659,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278089,
+        "num": 278089,
+        "word": "永夜星河开播",
+        "onboard_time": 1730433498,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27721,
+        "num": 257150,
+        "word": "京东60元补贴",
+        "onboard_time": 1730442799,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251083,
+        "num": 251083,
+        "word": "太好了是虞书欣王一栩有救了",
+        "onboard_time": 1730440999,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91308,
+        "num": 235151,
+        "word": "中国第41次南极考察队破浪出征",
+        "onboard_time": 1730443520,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228245,
+        "num": 228245,
+        "word": "收到学生不友好的添加申请",
+        "onboard_time": 1730441780,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222524,
+        "num": 222524,
+        "word": "人体作息最佳时间表",
+        "onboard_time": 1730435721,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217161,
+        "num": 217161,
+        "word": "周雨彤花少镜头",
+        "onboard_time": 1730442919,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185354,
+        "num": 185354,
+        "word": "大梦归离开分4.9",
+        "onboard_time": 1730438659,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175637,
+        "num": 175637,
+        "word": "李行亮给麦琳买青团vlog",
+        "onboard_time": 1730442739,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173391,
+        "num": 173391,
+        "word": "杨子说银行账户没多少余额",
+        "onboard_time": 1730443398,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172908,
+        "num": 172908,
+        "word": "古偶男主",
+        "onboard_time": 1730441539,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162836,
+        "num": 162836,
+        "word": "两女子当租赁伴娘遭新娘拒付尾款",
+        "onboard_time": 1730430380,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160737,
+        "num": 160737,
+        "word": "越来越多年轻人选择电动车通勤",
+        "onboard_time": 1730442618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153395,
+        "num": 153395,
+        "word": "何洁唱人质情绪失控",
+        "onboard_time": 1730442858,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146925,
+        "num": 146925,
+        "word": "武艺说黄圣依带孩子走是净身出户",
+        "onboard_time": 1730431999,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146751,
+        "num": 146751,
+        "word": "真的受够女厕所排队了",
+        "onboard_time": 1730434459,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138843,
+        "num": 138843,
+        "word": "Bang考虑复出",
+        "onboard_time": 1730443100,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128553,
+        "num": 128553,
+        "word": "赵露思水下实拍",
+        "onboard_time": 1730437999,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126268,
+        "num": 126268,
+        "word": "00后本科生回应毕业之后做保洁",
+        "onboard_time": 1730441899,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122602,
+        "num": 122602,
+        "word": "院方回应120司机参与贩卖女婴",
+        "onboard_time": 1730441719,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120950,
+        "num": 120950,
+        "word": "郑思维女儿出生",
+        "onboard_time": 1730430079,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116976,
+        "num": 116976,
+        "word": "珠帘玉幕热度",
+        "onboard_time": 1730437639,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105980,
+        "num": 105980,
+        "word": "知名电竞公司涉赌遭跨省执法",
+        "onboard_time": 1730430978,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103971,
+        "num": 103971,
+        "word": "梁伟铿伤情已稳定",
+        "onboard_time": 1730440699,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记阐明四对关系#"
+    }
+  }
+}
