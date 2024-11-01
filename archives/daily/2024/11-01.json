@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730425787380,
+  "endTime": 1730427118246,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -11,11 +11,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1450089,
+      "raw_hot": 1966535,
       "num": 474577,
       "word": "美国大选",
       "onboard_time": 1730423538,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1593277,
+      "num": 1593277,
+      "word": "哈里斯以1%微弱优势领先特朗普",
+      "onboard_time": 1730425877,
+      "rank": 0,
       "category": "国外时政"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 811959,
-      "num": 191585,
+      "num": 225558,
       "word": "江歌妈妈60秒以上广告报价7万",
       "onboard_time": 1730417477,
       "rank": 25,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 752078,
-      "num": 191562,
+      "num": 225306,
       "word": "不敢认安孝燮了",
       "onboard_time": 1730419878,
       "rank": 11,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 738965,
-      "num": 191240,
+      "num": 205223,
       "word": "入职第一天就被挂公司大群里了",
       "onboard_time": 1730422398,
       "rank": 20,
@@ -131,7 +139,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455379,
+      "raw_hot": 462797,
       "num": 517007,
       "word": "主人去世狗狗在主人墓前守护2年",
       "onboard_time": 1730392157,
@@ -195,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284131,
+      "num": 284131,
+      "word": "鱿鱼游戏2预告",
+      "onboard_time": 1730420598,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273451,
       "num": 175922,
       "word": "女子一听要坐牢赶紧转18万养老钱",
       "onboard_time": 1730403851,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268762,
-      "num": 268762,
-      "word": "鱿鱼游戏2预告",
-      "onboard_time": 1730420598,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 265833,
@@ -225,6 +233,14 @@
       "onboard_time": 1730382080,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255574,
+      "num": 255574,
+      "word": "加沙医院院长亲手埋葬被杀的儿子",
+      "onboard_time": 1730423898,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 253415,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236760,
+      "num": 202170,
+      "word": "终于知道老板为什么喜欢坐在后排了",
+      "onboard_time": 1730423478,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230534,
       "num": 190066,
       "word": "男子找5个对象同住一小区隐瞒4年",
@@ -259,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230200,
-      "num": 191213,
-      "word": "终于知道老板为什么喜欢坐在后排了",
-      "onboard_time": 1730423478,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228550,
       "num": 228550,
       "word": "程潇是真来看大梦归离的啊",
       "onboard_time": 1730387180,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225675,
+      "num": 225675,
+      "word": "今起纸质火车票成为历史",
+      "onboard_time": 1730426598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217064,
@@ -347,6 +371,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183772,
+      "num": 224389,
+      "word": "美民调称哈里斯以1%优势领先特朗普",
+      "onboard_time": 1730426417,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 178981,
+      "num": 178981,
+      "word": "刘宇和工作人员 网友关系",
+      "onboard_time": 1730424798,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178672,
       "num": 255050,
       "word": "国防部说台独武装那点儿事不难掌握",
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 175941,
-      "num": 191313,
+      "num": 211956,
       "word": "黄圣依葛夕怼麦琳",
       "onboard_time": 1730385920,
       "rank": 25,
@@ -371,12 +411,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 175169,
-      "num": 175169,
-      "word": "加沙医院院长亲手埋葬被杀的儿子",
-      "onboard_time": 1730423898,
-      "rank": 25,
-      "category": "国外时政"
+      "raw_hot": 170084,
+      "num": 170084,
+      "word": "明日方舟",
+      "onboard_time": 1730426058,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 160896,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 160694,
-      "num": 191255,
+      "num": 208226,
       "word": "小巷人家",
       "onboard_time": 1730422759,
       "rank": 19,
@@ -459,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132558,
-      "num": 132558,
-      "word": "刘宇和工作人员 网友关系",
-      "onboard_time": 1730424798,
+      "raw_hot": 133989,
+      "num": 155795,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730423119,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129616,
+      "num": 129616,
+      "word": "石宇奇留院观察中",
+      "onboard_time": 1730426237,
       "rank": 34,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 128694,
@@ -472,6 +520,22 @@
       "word": "山西一地女性35岁前结婚奖励1500元",
       "onboard_time": 1730383819,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126075,
+      "num": 126075,
+      "word": "哈里斯做好特朗普提前宣布胜选准备",
+      "onboard_time": 1730426598,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 123843,
+      "num": 123843,
+      "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
+      "onboard_time": 1730426718,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -539,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111388,
+      "num": 111388,
+      "word": "中国代表主动出击先来说一说美国",
+      "onboard_time": 1730426537,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111305,
       "num": 111305,
       "word": "十一月对我好一点",
@@ -560,6 +632,14 @@
       "word": "大梦归离两个大男人互扇巴掌",
       "onboard_time": 1730388560,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103564,
+      "num": 103564,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -587,20 +667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96358,
+      "num": 96358,
+      "word": "大学生毕业做保洁第一个月收入8千",
+      "onboard_time": 1730427018,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95708,
       "num": 95708,
       "word": "烧伤妈妈最新恢复照片",
       "onboard_time": 1730374100,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95495,
-      "num": 95495,
-      "word": "永夜星河",
-      "onboard_time": 1730387120,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 89885,
@@ -672,14 +752,6 @@
       "word": "赵今麦报名小巷人家小饭桌",
       "onboard_time": 1730386580,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83061,
-      "num": 83061,
-      "word": "珠帘玉幕",
-      "onboard_time": 1730423119,
-      "rank": 49,
       "category": "剧集"
     },
     {

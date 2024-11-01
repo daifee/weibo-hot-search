@@ -1,0 +1,410 @@
+{
+  "runTime": 1730427118246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1593277,
+        "num": 1593277,
+        "word": "哈里斯以1%微弱优势领先特朗普",
+        "onboard_time": 1730425877,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 462797,
+        "num": 462797,
+        "word": "主人去世狗狗在主人墓前守护2年",
+        "onboard_time": 1730392157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15920,
+        "num": 461222,
+        "word": "11月这批新规将施行",
+        "onboard_time": 1730388740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1966535,
+        "num": 460913,
+        "word": "美国大选",
+        "onboard_time": 1730423538,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 460458,
+        "num": 460458,
+        "word": "黄金",
+        "onboard_time": 1730418198,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392264,
+        "num": 392264,
+        "word": "亮身份吃霸王餐的玩笑开不得",
+        "onboard_time": 1730419517,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284131,
+        "num": 284131,
+        "word": "鱿鱼游戏2预告",
+        "onboard_time": 1730420598,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255574,
+        "num": 255574,
+        "word": "加沙医院院长亲手埋葬被杀的儿子",
+        "onboard_time": 1730423898,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224169,
+        "num": 229703,
+        "word": "麦琳 句句都提爱句句都伤害",
+        "onboard_time": 1730385559,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225675,
+        "num": 225675,
+        "word": "今起纸质火车票成为历史",
+        "onboard_time": 1730426598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736715,
+        "num": 225558,
+        "word": "江歌妈妈60秒以上广告报价7万",
+        "onboard_time": 1730417477,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661960,
+        "num": 225306,
+        "word": "不敢认安孝燮了",
+        "onboard_time": 1730419878,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640772,
+        "num": 225017,
+        "word": "乔任梁父亲支持朱桢报警",
+        "onboard_time": 1730388320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350685,
+        "num": 224584,
+        "word": "女子怀孕后被代孕机构拉黑",
+        "onboard_time": 1730380458,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183772,
+        "num": 224389,
+        "word": "美民调称哈里斯以1%优势领先特朗普",
+        "onboard_time": 1730426417,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 335562,
+        "num": 224189,
+        "word": "被举报虐狗的网红训狗师停播",
+        "onboard_time": 1730379858,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 223991,
+        "num": 223991,
+        "word": "失联少年疑在缅甸背货1趟赚10万",
+        "onboard_time": 1730384421,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212642,
+        "num": 212642,
+        "word": "疑似花少后期发声",
+        "onboard_time": 1730387059,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166104,
+        "num": 211956,
+        "word": "黄圣依葛夕怼麦琳",
+        "onboard_time": 1730385920,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134631,
+        "num": 208226,
+        "word": "小巷人家",
+        "onboard_time": 1730422759,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645776,
+        "num": 205223,
+        "word": "入职第一天就被挂公司大群里了",
+        "onboard_time": 1730422398,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236760,
+        "num": 202170,
+        "word": "终于知道老板为什么喜欢坐在后排了",
+        "onboard_time": 1730423478,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200733,
+        "num": 200733,
+        "word": "上海暴雨",
+        "onboard_time": 1730417117,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194576,
+        "num": 194576,
+        "word": "美方抽台湾的血养肥自己的军工",
+        "onboard_time": 1730405052,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180652,
+        "num": 180652,
+        "word": "自助烤土豆为什么突然火了",
+        "onboard_time": 1730423478,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180053,
+        "num": 180053,
+        "word": "车辆坠河23天后疑发现准新娘遗体",
+        "onboard_time": 1730379740,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178981,
+        "num": 178981,
+        "word": "刘宇和工作人员 网友关系",
+        "onboard_time": 1730424798,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170084,
+        "num": 170084,
+        "word": "明日方舟",
+        "onboard_time": 1730426058,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133989,
+        "num": 155795,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730423119,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104363,
+        "num": 155509,
+        "word": "范丞丞王安宇 选角",
+        "onboard_time": 1730383341,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155471,
+        "num": 155471,
+        "word": "岳云鹏回应中原小岳岳模仿",
+        "onboard_time": 1730422818,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151787,
+        "num": 151787,
+        "word": "双航母编队原声4K纯享",
+        "onboard_time": 1730389698,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148177,
+        "num": 148177,
+        "word": "男子找5个对象同住一小区隐瞒4年",
+        "onboard_time": 1730380218,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130803,
+        "num": 130803,
+        "word": "陈好演技最差的一次",
+        "onboard_time": 1730374878,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129616,
+        "num": 129616,
+        "word": "石宇奇留院观察中",
+        "onboard_time": 1730426237,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126075,
+        "num": 126075,
+        "word": "哈里斯做好特朗普提前宣布胜选准备",
+        "onboard_time": 1730426598,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123843,
+        "num": 123843,
+        "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
+        "onboard_time": 1730426718,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121249,
+        "num": 121249,
+        "word": "狗狗把自己的花生放到奶奶的花生堆",
+        "onboard_time": 1730418377,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116522,
+        "num": 116522,
+        "word": "台风康妮",
+        "onboard_time": 1730345239,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113598,
+        "num": 113598,
+        "word": "Faker说BLG气势很强",
+        "onboard_time": 1730425635,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111388,
+        "num": 111388,
+        "word": "中国代表主动出击先来说一说美国",
+        "onboard_time": 1730426537,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109346,
+        "num": 109346,
+        "word": "南京一男子0元购偷出一个超市",
+        "onboard_time": 1730399531,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107905,
+        "num": 107905,
+        "word": "2只豹猫幼崽被失孤家猫悉心带大",
+        "onboard_time": 1730418317,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107464,
+        "num": 107464,
+        "word": "太原警方回应博主在深山发现遗体",
+        "onboard_time": 1730388560,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105334,
+        "num": 105334,
+        "word": "北京大雾",
+        "onboard_time": 1730422158,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103564,
+        "num": 103564,
+        "word": "永夜星河",
+        "onboard_time": 1730387120,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98593,
+        "num": 98593,
+        "word": "敖犬的老婆还是薛之谦演过的那个",
+        "onboard_time": 1730383041,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96358,
+        "num": 96358,
+        "word": "大学生毕业做保洁第一个月收入8千",
+        "onboard_time": 1730427018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93081,
+        "num": 93081,
+        "word": "台风",
+        "onboard_time": 1730384600,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90343,
+        "num": 90343,
+        "word": "张泉灵能感受到麦琳李行亮想在一起",
+        "onboard_time": 1730425097,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好凝心聚力推动改革行稳致远#"
+    }
+  }
+}
