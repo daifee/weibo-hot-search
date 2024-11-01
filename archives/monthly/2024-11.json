@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730460940102,
+  "endTime": 1730464873042,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -48,6 +48,14 @@
       "word": "美国大选",
       "onboard_time": 1730423538,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1853975,
+      "num": 1853975,
+      "word": "特朗普称我们几乎炸了整个中东但是一场空",
+      "onboard_time": 1730460318,
+      "rank": 45,
       "category": "国外时政"
     },
     {
@@ -307,6 +315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 688852,
+      "num": 688852,
+      "word": "潘展乐男子100自夺金",
+      "onboard_time": 1730462359,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 671553,
       "num": 671553,
       "word": "白鹿泰国见面会绿毯",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484154,
+      "num": 484154,
+      "word": "为什么降温后年轻人都在乱穿搭",
+      "onboard_time": 1730461458,
+      "rank": 4,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 480443,
       "num": 512931,
       "word": "你会每月核对工资是否到账吗",
@@ -539,6 +563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 466131,
+      "num": 466131,
+      "word": "白鹿小水同框",
+      "onboard_time": 1730462118,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 462797,
       "num": 517007,
       "word": "主人去世狗狗在主人墓前守护2年",
@@ -561,6 +593,22 @@
       "onboard_time": 1730379858,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 450320,
+      "num": 381203,
+      "word": "男女厕位比1比2是社会进步",
+      "onboard_time": 1730458036,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443947,
+      "num": 443947,
+      "word": "赵丽颖陶昕然 女演员之间的惺惺相惜",
+      "onboard_time": 1730462178,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 439484,
@@ -627,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396148,
+      "num": 396148,
+      "word": "珠帘玉幕观后感",
+      "onboard_time": 1730459838,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383654,
       "num": 383654,
       "word": "陈好演技最差的一次",
@@ -641,6 +697,14 @@
       "onboard_time": 1730441780,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376835,
+      "num": 376835,
+      "word": "权志龙用APT当BGM",
+      "onboard_time": 1730461819,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 361091,
@@ -667,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349991,
+      "num": 349991,
+      "word": "日本游泳选手夺冠后多游了一圈",
+      "onboard_time": 1730462718,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344271,
       "num": 344271,
       "word": "天蝎座到底有多难搞",
@@ -681,14 +753,6 @@
       "onboard_time": 1730432779,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341306,
-      "num": 305696,
-      "word": "男女厕位比1比2是社会进步",
-      "onboard_time": 1730458036,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336584,
@@ -795,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273630,
-      "num": 273630,
-      "word": "珠帘玉幕观后感",
-      "onboard_time": 1730459838,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273451,
       "num": 175922,
       "word": "女子一听要坐牢赶紧转18万养老钱",
@@ -825,6 +881,22 @@
       "onboard_time": 1730457739,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271981,
+      "num": 271981,
+      "word": "落马女副省长丈夫被查",
+      "onboard_time": 1730460138,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269450,
+      "num": 269450,
+      "word": "覃海洋50米蛙金牌",
+      "onboard_time": 1730462359,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 267950,
@@ -859,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258310,
+      "num": 258310,
+      "word": "美邦老板直言找贾乃亮带货效果一般",
+      "onboard_time": 1730464279,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 258221,
       "num": 258221,
       "word": "麦琳",
@@ -889,6 +969,14 @@
       "onboard_time": 1730394974,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252867,
+      "num": 198100,
+      "word": "纽约地铁偶遇李维嘉",
+      "onboard_time": 1730463499,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 252723,
@@ -1275,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180632,
+      "num": 180632,
+      "word": "赵丽颖连包10场支持陶昕然新片",
+      "onboard_time": 1730464099,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178981,
       "num": 178981,
       "word": "刘宇和工作人员 网友关系",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1730383640,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177398,
+      "num": 177398,
+      "word": "欧尔班祝特朗普下周好运",
+      "onboard_time": 1730458459,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 176501,
@@ -1315,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175499,
+      "num": 322051,
+      "word": "权志龙晒BIGBANG新合照",
+      "onboard_time": 1730463019,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175465,
       "num": 175465,
       "word": "辛芷蕾胡先煦包场秦海璐新片",
@@ -1339,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170934,
+      "num": 170934,
+      "word": "WTA年终总决赛合影郑钦文C位",
+      "onboard_time": 1730463499,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170084,
       "num": 170084,
       "word": "明日方舟",
@@ -1353,6 +1473,22 @@
       "onboard_time": 1730456180,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169422,
+      "num": 169422,
+      "word": "林俊杰重庆演唱会",
+      "onboard_time": 1730464279,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169288,
+      "num": 169288,
+      "word": "耳帝说何洁应该有更好的音乐事业",
+      "onboard_time": 1730464219,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 168703,
@@ -1507,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156009,
-      "num": 156009,
-      "word": "落马女副省长丈夫被查",
-      "onboard_time": 1730460138,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155263,
       "num": 155263,
       "word": "判决书写错刑期时间承办人记大过",
@@ -1539,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154028,
+      "num": 151620,
+      "word": "永夜星河里的陈都灵",
+      "onboard_time": 1730463978,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153964,
       "num": 153964,
       "word": "留几手 葛夕",
@@ -1553,6 +1689,14 @@
       "onboard_time": 1730442858,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152847,
+      "num": 152847,
+      "word": "珠帘玉幕立意",
+      "onboard_time": 1730464398,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 152191,
@@ -1683,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141142,
+      "num": 141142,
+      "word": "小镇妇女加工婚纱月入过万",
+      "onboard_time": 1730462599,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139190,
       "num": 139190,
       "word": "babymonster空降",
@@ -1803,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128186,
-      "num": 128186,
-      "word": "特朗普称我们几乎炸了整个中东但是一场空",
-      "onboard_time": 1730460318,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 126793,
       "num": 126793,
       "word": "反诈民警提醒网上交友一定要慎重",
@@ -1929,6 +2073,14 @@
       "onboard_time": 1730385381,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117106,
+      "num": 117106,
+      "word": "唐钱婷100蛙三连冠",
+      "onboard_time": 1730463258,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117023,
@@ -2163,6 +2315,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 85731,
+      "num": 381821,
+      "word": "陈母问勇答曰祥榕勇冠三军",
+      "onboard_time": 1730464279,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85712,
       "num": 85712,
       "word": "赵今麦报名小巷人家小饭桌",
@@ -2225,6 +2385,14 @@
       "onboard_time": 1730455638,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68614,
+      "num": 314725,
+      "word": "大梦归离朱厌的命比唐僧肉还抢手",
+      "onboard_time": 1730464519,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 68532,
@@ -2337,6 +2505,14 @@
       "onboard_time": 1730460679,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51496,
+      "num": 142155,
+      "word": "打工人频繁跳槽不再是职场大污点",
+      "onboard_time": 1730462839,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51074,
@@ -2579,12 +2755,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30863,
+      "num": 117903,
+      "word": "有一种改革奋进叫川渝",
+      "onboard_time": 1730452700,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30443,
       "num": 148140,
       "word": "退换家电需有原包装的规矩是否需要改改了",
       "onboard_time": 1730416935,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29251,
+      "num": 309011,
+      "word": "中国游泳队一晚斩获三金",
+      "onboard_time": 1730464759,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 28584,
@@ -2616,6 +2808,14 @@
       "word": "雪龙号科考队出征南极",
       "onboard_time": 1730448379,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26425,
+      "num": 329229,
+      "word": "当国民阿姨遇上超市采销",
+      "onboard_time": 1730463019,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2873,6 +3073,14 @@
       "onboard_time": 1730417777,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7610,
+      "num": 727462,
+      "word": "南极考察将首次开展越冬考察任务",
+      "onboard_time": 1730464639,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2887,6 +3095,9 @@
     },
     {
       "word": "#习近平同阿联酋总统穆罕默德就中阿建交40周年互致贺电#"
+    },
+    {
+      "word": "#习近平会见斯洛伐克总理#"
     }
   ]
 }
