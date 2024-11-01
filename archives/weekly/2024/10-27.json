@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730479382682,
+  "endTime": 1730481614837,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -5459,6 +5459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364457,
+      "num": 364457,
+      "word": "武大博士一人拿下24万元奖学金",
+      "onboard_time": 1730477179,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364427,
       "num": 364427,
       "word": "美国男子捡到一箱选票",
@@ -7769,6 +7777,14 @@
       "onboard_time": 1730214622,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240360,
+      "num": 94138,
+      "word": "印度教牧师自称会飞当众展示时摔亡",
+      "onboard_time": 1730479277,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 239866,
@@ -10083,6 +10099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189783,
+      "num": 189783,
+      "word": "俄对谷歌罚款超全球GDP总额",
+      "onboard_time": 1730476098,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 189545,
       "num": 249585,
       "word": "麦琳 自相矛盾",
@@ -11483,14 +11507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167813,
-      "num": 291350,
-      "word": "武大博士一人拿下24万元奖学金",
-      "onboard_time": 1730477179,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167682,
       "num": 167682,
       "word": "萧逸缚野囚心",
@@ -11891,6 +11907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161090,
+      "num": 161090,
+      "word": "赵露思端午仿妆",
+      "onboard_time": 1730478857,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161067,
       "num": 340644,
       "word": "林一欢乐谷直播",
@@ -12049,14 +12073,6 @@
       "onboard_time": 1730339838,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 158741,
-      "num": 158741,
-      "word": "赵露思端午仿妆",
-      "onboard_time": 1730478857,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 158727,
@@ -15507,14 +15523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80662,
-      "num": 80662,
-      "word": "印度教牧师自称会飞当众展示时摔亡",
-      "onboard_time": 1730479277,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 80617,
       "num": 738961,
       "word": "小米创造纽北四门车记录",
@@ -15675,6 +15683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74379,
+      "num": 74379,
+      "word": "潘宏爱玩狗涉嫌虐狗吗",
+      "onboard_time": 1730481254,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 74171,
       "num": 520080,
       "word": "黑龙江一景区将启动流放宁古塔项目",
@@ -15825,6 +15841,14 @@
       "onboard_time": 1730144111,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70535,
+      "num": 70535,
+      "word": "庄图南 不共情妈妈",
+      "onboard_time": 1730480116,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 68982,
@@ -16129,6 +16153,14 @@
       "onboard_time": 1730057471,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61483,
+      "num": 61483,
+      "word": "焚城",
+      "onboard_time": 1730481016,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 60808,
@@ -16497,6 +16529,14 @@
       "onboard_time": 1730462839,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51364,
+      "num": 51364,
+      "word": "赵露思回应端午品如上身",
+      "onboard_time": 1730480896,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 51245,
@@ -16985,6 +17025,14 @@
       "onboard_time": 1730198419,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39747,
+      "num": 196853,
+      "word": "俄罗斯对谷歌罚款已达35位数美元",
+      "onboard_time": 1730480535,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39549,
