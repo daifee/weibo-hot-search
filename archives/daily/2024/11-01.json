@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730474631979,
+  "endTime": 1730475548131,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3077714,
+      "num": 3077714,
+      "word": "韩国免签",
+      "onboard_time": 1730473039,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3008203,
       "num": 3008203,
       "word": "女子15万工资未收到9年后才发现",
@@ -33,14 +41,6 @@
       "onboard_time": 1730391676,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2685600,
-      "num": 2685600,
-      "word": "韩国免签",
-      "onboard_time": 1730473039,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2178945,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540859,
+      "num": 540859,
+      "word": "张泉灵 再见爱人4受害者",
+      "onboard_time": 1730473098,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536562,
       "num": 536562,
       "word": "麦琳回应近期舆论",
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461620,
+      "num": 461620,
+      "word": "美国请求中国出借月壤",
+      "onboard_time": 1730474240,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 460990,
       "num": 460990,
       "word": "腾讯视频11月大剧片单上新",
@@ -737,14 +753,6 @@
       "onboard_time": 1730458879,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 432569,
-      "num": 380481,
-      "word": "张泉灵 再见爱人4受害者",
-      "onboard_time": 1730473098,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 430494,
@@ -800,6 +808,14 @@
       "word": "WTT",
       "onboard_time": 1730458099,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 403864,
+      "num": 403864,
+      "word": "王楚钦首轮对阵户上隼辅",
+      "onboard_time": 1730473039,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 326156,
-      "num": 250268,
+      "num": 254942,
       "word": "睡觉时越睡越美的姿势找到了",
       "onboard_time": 1730472680,
       "rank": 21,
@@ -963,20 +979,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 314810,
+      "num": 314810,
+      "word": "小米洗衣机",
+      "onboard_time": 1730472440,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314058,
       "num": 314058,
       "word": "十日终焉完结",
       "onboard_time": 1730387359,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 296906,
-      "num": 296906,
-      "word": "王楚钦首轮对阵户上隼辅",
-      "onboard_time": 1730473039,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 295065,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1730438718,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245107,
-      "num": 245107,
-      "word": "小米洗衣机",
-      "onboard_time": 1730472440,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 240993,
@@ -1523,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191767,
+      "num": 191767,
+      "word": "尔滨导游一走神小金土豆就付款了",
+      "onboard_time": 1730473699,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191179,
       "num": 229839,
       "word": "双航母编队原声4K纯享",
@@ -1651,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178936,
-      "num": 178936,
-      "word": "尔滨导游一走神小金土豆就付款了",
-      "onboard_time": 1730473699,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178672,
       "num": 255050,
       "word": "国防部说台独武装那点儿事不难掌握",
@@ -1755,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170251,
+      "num": 382348,
+      "word": "中国对韩国等9国试行免签",
+      "onboard_time": 1730474179,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170084,
       "num": 170084,
       "word": "明日方舟",
@@ -1800,6 +1816,14 @@
       "word": "台风康妮今天或在浙江沿海登陆",
       "onboard_time": 1730419999,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167561,
+      "num": 186305,
+      "word": "29岁网红谎称18岁立悲惨人设圈粉",
+      "onboard_time": 1730474480,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1971,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155899,
+      "num": 155899,
+      "word": "侯明昊 我要状告大荒",
+      "onboard_time": 1730474839,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155610,
       "num": 155610,
       "word": "拍一张秋天的落叶",
@@ -2107,14 +2139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145380,
-      "num": 145380,
-      "word": "美国请求中国出借月壤",
-      "onboard_time": 1730474240,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 144788,
       "num": 144788,
       "word": "王耀庆披哥人缘",
@@ -2243,12 +2267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137792,
-      "num": 137792,
-      "word": "29岁网红谎称18岁立悲惨人设圈粉",
-      "onboard_time": 1730474480,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 137668,
+      "num": 137668,
+      "word": "朱志鑫全副武装",
+      "onboard_time": 1730474839,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135063,
@@ -2443,6 +2467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122721,
+      "num": 122721,
+      "word": "胖女孩 偶像剧女主",
+      "onboard_time": 1730474417,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121876,
+      "num": 121876,
+      "word": "雷军说定价听他的是因为他是老板",
+      "onboard_time": 1730474360,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120307,
       "num": 120307,
       "word": "Faker说BLG气势很强",
@@ -2585,6 +2625,22 @@
       "onboard_time": 1730417416,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111208,
+      "num": 111208,
+      "word": "雷军说小米15破除了3999元心魔",
+      "onboard_time": 1730475258,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 110835,
+      "num": 110835,
+      "word": "山姆多款冷冻预制菜品解冻后销售",
+      "onboard_time": 1730475320,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109839,
@@ -2769,14 +2825,6 @@
       "onboard_time": 1730388379,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79025,
-      "num": 382348,
-      "word": "中国对韩国等9国试行免签",
-      "onboard_time": 1730474179,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77411,
@@ -3139,6 +3187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37743,
+      "num": 188832,
+      "word": "张泉灵说李行亮和麦麦是想过下去的",
+      "onboard_time": 1730473939,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37588,
       "num": 815641,
       "word": "超级工程和大国重器同框了",
@@ -3267,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28323,
+      "num": 130299,
+      "word": "迪丽热巴的AI妆造",
+      "onboard_time": 1730475138,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28261,
       "num": 342653,
       "word": "姐姐为亡弟追凶母亲已精神失常",
@@ -3375,14 +3439,6 @@
       "num": 262354,
       "word": "美大选前夕多家美商户加固门面防骚乱",
       "onboard_time": 1730451318,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22727,
-      "num": 188832,
-      "word": "张泉灵说李行亮和麦麦是想过下去的",
-      "onboard_time": 1730473939,
       "rank": 29,
       "category": "社会新闻"
     },

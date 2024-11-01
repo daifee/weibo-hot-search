@@ -1,0 +1,410 @@
+{
+  "runTime": 1730475548131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3077714,
+        "num": 3077714,
+        "word": "韩国免签",
+        "onboard_time": 1730473039,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 970779,
+        "num": 970779,
+        "word": "向佐回应郭碧婷是嫁给向太",
+        "onboard_time": 1730468059,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15785,
+        "num": 850626,
+        "word": "你家乡的秋天是什么颜色",
+        "onboard_time": 1730464879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793105,
+        "num": 793105,
+        "word": "多个网红走红后暂时停播",
+        "onboard_time": 1730469140,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 717263,
+        "num": 717263,
+        "word": "中方扩大免签国家范围",
+        "onboard_time": 1730471060,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 540859,
+        "num": 540859,
+        "word": "张泉灵 再见爱人4受害者",
+        "onboard_time": 1730473098,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486302,
+        "num": 486302,
+        "word": "免签",
+        "onboard_time": 1730471720,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461620,
+        "num": 461620,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403864,
+        "num": 403864,
+        "word": "王楚钦首轮对阵户上隼辅",
+        "onboard_time": 1730473039,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378768,
+        "num": 378768,
+        "word": "会跳yes ok的来了",
+        "onboard_time": 1730459359,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628536,
+        "num": 376764,
+        "word": "特朗普称我们几乎炸了整个中东但是一场空",
+        "onboard_time": 1730460318,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401574,
+        "num": 371745,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344501,
+        "num": 344501,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337802,
+        "num": 337802,
+        "word": "纽约地铁偶遇李维嘉",
+        "onboard_time": 1730463499,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318243,
+        "num": 318243,
+        "word": "王曼昱说大满贯目标不会动摇",
+        "onboard_time": 1730471060,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314810,
+        "num": 314810,
+        "word": "小米洗衣机",
+        "onboard_time": 1730472440,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 293595,
+        "num": 293595,
+        "word": "美邦老板直言找贾乃亮带货效果一般",
+        "onboard_time": 1730464279,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 290035,
+        "num": 290035,
+        "word": "王楚钦王艺迪训练",
+        "onboard_time": 1730470880,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259287,
+        "num": 259287,
+        "word": "S15决赛落地成都",
+        "onboard_time": 1730470820,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258229,
+        "num": 258229,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1730465418,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539668,
+        "num": 255602,
+        "word": "26岁女子确诊渐冻症前后判若两人",
+        "onboard_time": 1730468481,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302152,
+        "num": 254942,
+        "word": "睡觉时越睡越美的姿势找到了",
+        "onboard_time": 1730472680,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252573,
+        "num": 252573,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194280,
+        "num": 194280,
+        "word": "宋仲基和张紫妍案加害人合影",
+        "onboard_time": 1730452038,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191767,
+        "num": 191767,
+        "word": "尔滨导游一走神小金土豆就付款了",
+        "onboard_time": 1730473699,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170251,
+        "num": 187785,
+        "word": "中国对韩国等9国试行免签",
+        "onboard_time": 1730474179,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187509,
+        "num": 187509,
+        "word": "闵塔鲨用心",
+        "onboard_time": 1730467280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167561,
+        "num": 186305,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186044,
+        "num": 186044,
+        "word": "易烊千玺东京机场路透",
+        "onboard_time": 1730474480,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37743,
+        "num": 185558,
+        "word": "张泉灵说李行亮和麦麦是想过下去的",
+        "onboard_time": 1730473939,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185425,
+        "num": 185425,
+        "word": "男女厕位比1比2是社会进步",
+        "onboard_time": 1730458036,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176486,
+        "num": 176486,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730470219,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170526,
+        "num": 170526,
+        "word": "白鹿泰国见面会绿毯",
+        "onboard_time": 1730457499,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158934,
+        "num": 158934,
+        "word": "山姆回应冷藏菜品实为冷冻预制",
+        "onboard_time": 1730468179,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155899,
+        "num": 155899,
+        "word": "侯明昊 我要状告大荒",
+        "onboard_time": 1730474839,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152854,
+        "num": 152854,
+        "word": "丁禹兮演技",
+        "onboard_time": 1730470339,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149568,
+        "num": 149568,
+        "word": "WTT法兰克福冠军赛2024",
+        "onboard_time": 1730469860,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149147,
+        "num": 149147,
+        "word": "WTT法兰克福冠军赛男女单签表",
+        "onboard_time": 1730473699,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147746,
+        "num": 147746,
+        "word": "拍一张秋天的落叶",
+        "onboard_time": 1730472680,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137668,
+        "num": 137668,
+        "word": "朱志鑫全副武装",
+        "onboard_time": 1730474839,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137667,
+        "num": 137667,
+        "word": "王耀庆披哥人缘",
+        "onboard_time": 1730471840,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 130299,
+        "word": "迪丽热巴的AI妆造",
+        "onboard_time": 1730475138,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127032,
+        "num": 127032,
+        "word": "WTT法兰克福冠军赛抽签仪式",
+        "onboard_time": 1730471361,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125260,
+        "num": 125260,
+        "word": "S14决赛发布会",
+        "onboard_time": 1730473579,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122721,
+        "num": 122721,
+        "word": "胖女孩 偶像剧女主",
+        "onboard_time": 1730474417,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121876,
+        "num": 121876,
+        "word": "雷军说定价听他的是因为他是老板",
+        "onboard_time": 1730474360,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120661,
+        "num": 120661,
+        "word": "雷军回应小米洗衣机火爆",
+        "onboard_time": 1730469380,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115032,
+        "num": 115032,
+        "word": "权志龙用APT当BGM",
+        "onboard_time": 1730461819,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111208,
+        "num": 111208,
+        "word": "雷军说小米15破除了3999元心魔",
+        "onboard_time": 1730475258,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110835,
+        "num": 110835,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}
