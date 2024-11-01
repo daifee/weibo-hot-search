@@ -1,0 +1,410 @@
+{
+  "runTime": 1730504146888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053074,
+        "num": 1053074,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 707320,
+        "num": 707320,
+        "word": "大专生还没毕业就拿到了高薪和编制",
+        "onboard_time": 1730500813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2854,
+        "num": 501422,
+        "word": "南极考察将首次开展越冬考察任务",
+        "onboard_time": 1730464639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474296,
+        "num": 474296,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410546,
+        "num": 410546,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1730481254,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389837,
+        "num": 389837,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381822,
+        "num": 381822,
+        "word": "数十名登山者擅闯别墅泳池洗鞋",
+        "onboard_time": 1730483173,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189248,
+        "num": 189248,
+        "word": "张泉灵说李行亮和麦麦是想过下去的",
+        "onboard_time": 1730473939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185567,
+        "num": 185567,
+        "word": "美邦老板直言找贾乃亮带货效果一般",
+        "onboard_time": 1730464279,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 32424,
+        "num": 174393,
+        "word": "姐姐为弟追凶26年案检方建议死刑",
+        "onboard_time": 1730495891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489739,
+        "num": 172851,
+        "word": "特朗普称我们几乎炸了整个中东但是一场空",
+        "onboard_time": 1730460318,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 343576,
+        "num": 171270,
+        "word": "警方及乔爸早已公布乔任梁非他杀",
+        "onboard_time": 1730455998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169262,
+        "num": 169262,
+        "word": "武大博士一人拿下24万元奖学金",
+        "onboard_time": 1730477179,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160900,
+        "num": 160900,
+        "word": "多个网红走红后暂时停播",
+        "onboard_time": 1730469140,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 140707,
+        "num": 140707,
+        "word": "何广智 我的名声这么差吗",
+        "onboard_time": 1730502795,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131080,
+        "num": 131080,
+        "word": "张泉灵 再见爱人4受害者",
+        "onboard_time": 1730473098,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123911,
+        "num": 123911,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "烧伤妈妈看到孩子视频落泪",
+        "onboard_time": 1730499191,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104787,
+        "num": 121661,
+        "word": "永夜星河 勾引我",
+        "onboard_time": 1730484792,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86322,
+        "num": 120701,
+        "word": "北斗七行包场秦海璐新电影",
+        "onboard_time": 1730482815,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 462150,
+        "num": 120427,
+        "word": "韩国免签",
+        "onboard_time": 1730473039,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296085,
+        "num": 119509,
+        "word": "向佐回应郭碧婷是嫁给向太",
+        "onboard_time": 1730468059,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267808,
+        "num": 119042,
+        "word": "女生因发量少自卑剃成光头做自己",
+        "onboard_time": 1730489230,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242116,
+        "num": 118427,
+        "word": "印度教牧师自称会飞当众展示时摔亡",
+        "onboard_time": 1730479277,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128325,
+        "num": 117418,
+        "word": "26岁女子确诊渐冻症前后判若两人",
+        "onboard_time": 1730468481,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117136,
+        "num": 117136,
+        "word": "姐姐追凶26年开庭前抱父亲遗像痛哭",
+        "onboard_time": 1730502134,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110552,
+        "num": 110552,
+        "word": "雷军说小米15破除了3999元心魔",
+        "onboard_time": 1730475258,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 95303,
+        "word": "尔滨导游一走神小金土豆就付款了",
+        "onboard_time": 1730473699,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85953,
+        "num": 94174,
+        "word": "短剧三大男主录芒果综艺",
+        "onboard_time": 1730503395,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76255,
+        "num": 93965,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93764,
+        "num": 93764,
+        "word": "村民带女子去未开发水域潜水溺亡",
+        "onboard_time": 1730476038,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88048,
+        "num": 88048,
+        "word": "Bin决赛要零封T1",
+        "onboard_time": 1730502854,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86159,
+        "num": 86159,
+        "word": "悉尼偶遇宋雨琦minnie",
+        "onboard_time": 1730499312,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82362,
+        "num": 82362,
+        "word": "睡觉时越睡越美的姿势找到了",
+        "onboard_time": 1730472680,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78491,
+        "num": 78491,
+        "word": "吕梁民政局称明年初结婚或大增",
+        "onboard_time": 1730487432,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72540,
+        "num": 72540,
+        "word": "蒯曼3比0大藤沙月",
+        "onboard_time": 1730502734,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67285,
+        "num": 67285,
+        "word": "宋仲基和张紫妍案加害人合影",
+        "onboard_time": 1730452038,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66717,
+        "num": 66717,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66015,
+        "num": 66015,
+        "word": "小米洗衣机",
+        "onboard_time": 1730472440,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63033,
+        "num": 63033,
+        "word": "中方扩大免签国家范围",
+        "onboard_time": 1730471060,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60977,
+        "num": 60977,
+        "word": "河南景区暖心设计让女厕所不再排队",
+        "onboard_time": 1730502915,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56448,
+        "num": 56448,
+        "word": "王曼昱说大满贯目标不会动摇",
+        "onboard_time": 1730471060,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55716,
+        "num": 55716,
+        "word": "会跳yes ok的来了",
+        "onboard_time": 1730459359,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52718,
+        "num": 52718,
+        "word": "纽约地铁偶遇李维嘉",
+        "onboard_time": 1730463499,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52623,
+        "num": 52623,
+        "word": "蒯曼vs钱天一",
+        "onboard_time": 1730482216,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50164,
+        "num": 50164,
+        "word": "S15决赛落地成都",
+        "onboard_time": 1730470820,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47617,
+        "num": 47617,
+        "word": "再见爱人",
+        "onboard_time": 1730504117,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47216,
+        "num": 47216,
+        "word": "潘展乐回应100自夺金",
+        "onboard_time": 1730502554,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45618,
+        "num": 45618,
+        "word": "猛蛇过江回应被指是凶手",
+        "onboard_time": 1730484433,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44294,
+        "num": 44294,
+        "word": "庄图南 不共情妈妈",
+        "onboard_time": 1730480116,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}
