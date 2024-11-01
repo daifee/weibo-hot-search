@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730449674141,
+  "endTime": 1730450475299,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -3083,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605325,
+      "num": 605325,
+      "word": "赵牧辰发声明",
+      "onboard_time": 1730448319,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604325,
       "num": 578957,
       "word": "孙乐言 翁青雅",
@@ -3193,14 +3201,6 @@
       "onboard_time": 1730382080,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589036,
-      "num": 589036,
-      "word": "赵牧辰发声明",
-      "onboard_time": 1730448319,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 588702,
@@ -3401,6 +3401,14 @@
       "onboard_time": 1730116278,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559161,
+      "num": 301292,
+      "word": "台风康妮登陆浙江无望",
+      "onboard_time": 1730446879,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557917,
@@ -4387,6 +4395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 428534,
+      "num": 428534,
+      "word": "结婚奖励1500元初衷远比这笔钱有分量",
+      "onboard_time": 1730445678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428418,
       "num": 428418,
       "word": "16岁少女因抢劫获刑泪洒法庭",
@@ -5051,6 +5067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366564,
+      "num": 355475,
+      "word": "从厕所窗户逃跑的副局长是干部之耻",
+      "onboard_time": 1730445739,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365529,
       "num": 373514,
       "word": "郭刚堂之子被拐案二审维持原判",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1730115859,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344271,
+      "num": 344271,
+      "word": "天蝎座到底有多难搞",
+      "onboard_time": 1730447839,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 343855,
@@ -5851,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301292,
-      "num": 301292,
-      "word": "台风康妮登陆浙江无望",
-      "onboard_time": 1730446879,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300425,
       "num": 300425,
       "word": "chalice说BLG一定得输",
@@ -6227,14 +6251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282856,
-      "num": 282856,
-      "word": "结婚奖励1500元初衷远比这笔钱有分量",
-      "onboard_time": 1730445678,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282784,
       "num": 282784,
       "word": "高哥 聊十分钟就可以看清一个人",
@@ -6339,14 +6355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 274470,
-      "num": 355475,
-      "word": "从厕所窗户逃跑的副局长是干部之耻",
-      "onboard_time": 1730445739,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274211,
       "num": 274211,
       "word": "真的受够女厕所排队了",
@@ -6409,14 +6417,6 @@
       "onboard_time": 1730383819,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269001,
-      "num": 269001,
-      "word": "天蝎座到底有多难搞",
-      "onboard_time": 1730447839,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 268572,
@@ -9283,6 +9283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193407,
+      "num": 218713,
+      "word": "十日终焉大结局全员上桌",
+      "onboard_time": 1730449339,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193146,
       "num": 193146,
       "word": "时代少年团vlog",
@@ -10499,20 +10507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172168,
-      "num": 172168,
-      "word": "十日终焉大结局全员上桌",
-      "onboard_time": 1730449339,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 171869,
       "num": 167946,
       "word": "小米手表S4",
       "onboard_time": 1730209100,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 171792,
+      "num": 370434,
+      "word": "河南4人涉嫌贩婴被采取刑事强制措施",
+      "onboard_time": 1730449938,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171700,
@@ -11547,12 +11555,28 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 154263,
+      "num": 154263,
+      "word": "S14快问快答",
+      "onboard_time": 1730450297,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154147,
       "num": 154147,
       "word": "春花焰和司藤同一个造型指导",
       "onboard_time": 1730112498,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153964,
+      "num": 153964,
+      "word": "留几手 葛夕",
+      "onboard_time": 1730444898,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 153855,
@@ -11723,14 +11747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151666,
-      "num": 151666,
-      "word": "留几手 葛夕",
-      "onboard_time": 1730444898,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151575,
       "num": 194878,
       "word": "撒贝宁的状态令人羡慕了",
@@ -11761,6 +11777,14 @@
       "onboard_time": 1730000779,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151193,
+      "num": 151193,
+      "word": "神舟飞船已进入航班化状态",
+      "onboard_time": 1730445619,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150937,
@@ -11913,14 +11937,6 @@
       "onboard_time": 1730071696,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147656,
-      "num": 147656,
-      "word": "神舟飞船已进入航班化状态",
-      "onboard_time": 1730445619,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147614,
@@ -13377,6 +13393,14 @@
       "onboard_time": 1730014220,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119296,
+      "num": 119296,
+      "word": "手把手教你开火车票电子发票",
+      "onboard_time": 1730450419,
+      "rank": 46,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 119181,
@@ -15579,6 +15603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43554,
+      "num": 309700,
+      "word": "必须知道的女性健康知识",
+      "onboard_time": 1730448018,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43003,
       "num": 490326,
       "word": "雷神省油更Ultra",
@@ -15955,14 +15987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36075,
-      "num": 273810,
-      "word": "必须知道的女性健康知识",
-      "onboard_time": 1730448018,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 36065,
       "num": 517283,
       "word": "郭刚堂为寻子骑废10辆摩托车",
@@ -16195,6 +16219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 33889,
+      "num": 107834,
+      "word": "极地考察员穿的是波司登",
+      "onboard_time": 1730450297,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33755,
       "num": 51078,
       "word": "一批自媒体因捏造军事谣言被处置",
@@ -16233,6 +16265,14 @@
       "onboard_time": 1730396174,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33065,
+      "num": 255505,
+      "word": "iQOO13到手真香",
+      "onboard_time": 1730446579,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 32850,
@@ -16619,14 +16659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29140,
-      "num": 255505,
-      "word": "iQOO13到手真香",
-      "onboard_time": 1730446579,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 28949,
       "num": 581580,
       "word": "11月起这些新规影响你我生活",
@@ -16713,6 +16745,14 @@
       "onboard_time": 1730434579,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 27913,
+      "num": 161986,
+      "word": "雪龙号科考队出征南极",
+      "onboard_time": 1730448379,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27896,
@@ -16929,14 +16969,6 @@
       "onboard_time": 1730440939,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24848,
-      "num": 161986,
-      "word": "雪龙号科考队出征南极",
-      "onboard_time": 1730448379,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24670,

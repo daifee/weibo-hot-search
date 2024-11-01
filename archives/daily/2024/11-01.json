@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730449674141,
+  "endTime": 1730450475299,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605325,
+      "num": 605325,
+      "word": "赵牧辰发声明",
+      "onboard_time": 1730448319,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599502,
       "num": 599502,
       "word": "亮身份吃霸王餐的玩笑开不得",
@@ -339,19 +347,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589036,
-      "num": 589036,
-      "word": "赵牧辰发声明",
-      "onboard_time": 1730448319,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 577862,
       "num": 240649,
       "word": "失联少年疑在缅甸背货1趟赚10万",
       "onboard_time": 1730384421,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559161,
+      "num": 301292,
+      "word": "台风康妮登陆浙江无望",
+      "onboard_time": 1730446879,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -451,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 428534,
+      "num": 428534,
+      "word": "结婚奖励1500元初衷远比这笔钱有分量",
+      "onboard_time": 1730445678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417753,
       "num": 417753,
       "word": "鞠婧祎已起诉丝芭传媒",
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366564,
+      "num": 355475,
+      "word": "从厕所窗户逃跑的副局长是干部之耻",
+      "onboard_time": 1730445739,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361091,
       "num": 296726,
       "word": "丝芭传媒",
@@ -521,6 +545,14 @@
       "onboard_time": 1730428878,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344271,
+      "num": 344271,
+      "word": "天蝎座到底有多难搞",
+      "onboard_time": 1730447839,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 343855,
@@ -563,14 +595,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 301292,
-      "num": 301292,
-      "word": "台风康妮登陆浙江无望",
-      "onboard_time": 1730446879,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295065,
       "num": 146543,
       "word": "班主任诅咒学生全家凸显教师心理健康问题",
@@ -611,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282856,
-      "num": 282856,
-      "word": "结婚奖励1500元初衷远比这笔钱有分量",
-      "onboard_time": 1730445678,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278408,
       "num": 278408,
       "word": "印度一小盘股一天暴涨6692535%",
@@ -633,14 +649,6 @@
       "onboard_time": 1730439499,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274470,
-      "num": 355475,
-      "word": "从厕所窗户逃跑的副局长是干部之耻",
-      "onboard_time": 1730445739,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -665,14 +673,6 @@
       "onboard_time": 1730437400,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269001,
-      "num": 269001,
-      "word": "天蝎座到底有多难搞",
-      "onboard_time": 1730447839,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 267136,
@@ -971,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193407,
+      "num": 218713,
+      "word": "十日终焉大结局全员上桌",
+      "onboard_time": 1730449339,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 192953,
       "num": 519629,
       "word": "追凶姐姐为取证与嫌犯网聊3年",
@@ -1099,12 +1107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172168,
-      "num": 172168,
-      "word": "十日终焉大结局全员上桌",
-      "onboard_time": 1730449339,
-      "rank": 29,
-      "category": "动漫"
+      "raw_hot": 171792,
+      "num": 370434,
+      "word": "河南4人涉嫌贩婴被采取刑事强制措施",
+      "onboard_time": 1730449938,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170084,
@@ -1227,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154263,
+      "num": 154263,
+      "word": "S14快问快答",
+      "onboard_time": 1730450297,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154228,
       "num": 154228,
       "word": "刘亦菲度假十八宫格",
       "onboard_time": 1730376857,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153964,
+      "num": 153964,
+      "word": "留几手 葛夕",
+      "onboard_time": 1730444898,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 153395,
@@ -1251,12 +1275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151666,
-      "num": 151666,
-      "word": "留几手 葛夕",
-      "onboard_time": 1730444898,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 151193,
+      "num": 151193,
+      "word": "神舟飞船已进入航班化状态",
+      "onboard_time": 1730445619,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148193,
@@ -1265,14 +1289,6 @@
       "onboard_time": 1730345239,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147656,
-      "num": 147656,
-      "word": "神舟飞船已进入航班化状态",
-      "onboard_time": 1730445619,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147277,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1730425635,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119296,
+      "num": 119296,
+      "word": "手把手教你开火车票电子发票",
+      "onboard_time": 1730450419,
+      "rank": 46,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 119181,
@@ -1931,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43554,
+      "num": 309700,
+      "word": "必须知道的女性健康知识",
+      "onboard_time": 1730448018,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41535,
       "num": 41535,
       "word": "上海地铁",
@@ -1971,20 +2003,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36075,
-      "num": 273810,
-      "word": "必须知道的女性健康知识",
-      "onboard_time": 1730448018,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 34570,
       "num": 160426,
       "word": "美邦创始人回应开淘宝直播想当网红",
       "onboard_time": 1730439139,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 33889,
+      "num": 107834,
+      "word": "极地考察员穿的是波司登",
+      "onboard_time": 1730450297,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33747,
@@ -2009,6 +2041,14 @@
       "onboard_time": 1730396174,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33065,
+      "num": 255505,
+      "word": "iQOO13到手真香",
+      "onboard_time": 1730446579,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 32850,
@@ -2043,14 +2083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29140,
-      "num": 255505,
-      "word": "iQOO13到手真香",
-      "onboard_time": 1730446579,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 28584,
       "num": 1249252,
       "word": "神十九发射任务全回顾",
@@ -2067,6 +2099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27913,
+      "num": 161986,
+      "word": "雪龙号科考队出征南极",
+      "onboard_time": 1730448379,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25372,
       "num": 25372,
       "word": "李海玉抱父遗照在弟弟坟前痛哭",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1730440939,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24848,
-      "num": 161986,
-      "word": "雪龙号科考队出征南极",
-      "onboard_time": 1730448379,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24286,
