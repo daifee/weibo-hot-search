@@ -1,0 +1,410 @@
+{
+  "runTime": 1730449674141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486323,
+        "num": 1486323,
+        "word": "小哥接到奇怪订单送18万到稻田",
+        "onboard_time": 1730445259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817110,
+        "num": 817110,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10277,
+        "num": 741861,
+        "word": "双航母同框这一刻祖国强大具象化了",
+        "onboard_time": 1730433800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679997,
+        "num": 679997,
+        "word": "网购仅退款19元商家起诉赔800",
+        "onboard_time": 1730437519,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661802,
+        "num": 661802,
+        "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
+        "onboard_time": 1730444180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589036,
+        "num": 589036,
+        "word": "赵牧辰发声明",
+        "onboard_time": 1730448319,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555684,
+        "num": 555684,
+        "word": "永夜星河开播十分钟就全剧终",
+        "onboard_time": 1730435060,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368628,
+        "num": 368628,
+        "word": "阿富汗塔利班禁止女性在公共场合说话",
+        "onboard_time": 1730430739,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 301292,
+        "num": 301292,
+        "word": "台风康妮登陆浙江无望",
+        "onboard_time": 1730446879,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282856,
+        "num": 282856,
+        "word": "结婚奖励1500元初衷远比这笔钱有分量",
+        "onboard_time": 1730445678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977819,
+        "num": 281809,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914989,
+        "num": 280444,
+        "word": "高亚麟深夜发文",
+        "onboard_time": 1730444417,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610219,
+        "num": 277146,
+        "word": "杨子说银行账户没多少余额",
+        "onboard_time": 1730443398,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287701,
+        "num": 276823,
+        "word": "全红婵正是看永夜星河的年纪",
+        "onboard_time": 1730441479,
+        "rank": 13,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 36075,
+        "num": 273810,
+        "word": "必须知道的女性健康知识",
+        "onboard_time": 1730448018,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363347,
+        "num": 272421,
+        "word": "乔任梁父母再次回应其死因",
+        "onboard_time": 1730432479,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350733,
+        "num": 269317,
+        "word": "葛夕坚定选择离婚",
+        "onboard_time": 1730442140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269001,
+        "num": 269001,
+        "word": "天蝎座到底有多难搞",
+        "onboard_time": 1730447839,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260728,
+        "num": 260728,
+        "word": "永夜星河开播",
+        "onboard_time": 1730433498,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29140,
+        "num": 255505,
+        "word": "iQOO13到手真香",
+        "onboard_time": 1730446579,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 871929,
+        "num": 235801,
+        "word": "民警建议关闭苹果手机这项功能",
+        "onboard_time": 1730439499,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658336,
+        "num": 226028,
+        "word": "丝芭传媒起诉鞠婧祎",
+        "onboard_time": 1730428878,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418275,
+        "num": 209350,
+        "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+        "onboard_time": 1730432359,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208141,
+        "num": 208141,
+        "word": "G2帮T1打训练赛",
+        "onboard_time": 1730448619,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205305,
+        "num": 205305,
+        "word": "唐晓天珠帘玉幕点天灯",
+        "onboard_time": 1730448920,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205168,
+        "num": 205168,
+        "word": "男子出轨第三者被判返还原配300万",
+        "onboard_time": 1730446158,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203241,
+        "num": 203241,
+        "word": "台风康妮逼近温岭金沙滩掀起巨浪",
+        "onboard_time": 1730435361,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186507,
+        "num": 186507,
+        "word": "全国第1张火车票电子发票开出",
+        "onboard_time": 1730437939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172589,
+        "num": 172589,
+        "word": "麦琳回应近期舆论",
+        "onboard_time": 1730440820,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172168,
+        "num": 172168,
+        "word": "十日终焉大结局全员上桌",
+        "onboard_time": 1730449339,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 274470,
+        "num": 170034,
+        "word": "从厕所窗户逃跑的副局长是干部之耻",
+        "onboard_time": 1730445739,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167210,
+        "num": 167210,
+        "word": "今起纸质火车票成为历史",
+        "onboard_time": 1730426598,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164040,
+        "num": 164040,
+        "word": "包贝尔否认乔任梁传言",
+        "onboard_time": 1730428457,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24848,
+        "num": 161986,
+        "word": "雪龙号科考队出征南极",
+        "onboard_time": 1730448379,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159293,
+        "num": 161674,
+        "word": "赵露思新剧好美",
+        "onboard_time": 1730439499,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161670,
+        "num": 161670,
+        "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
+        "onboard_time": 1730426718,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159560,
+        "num": 159560,
+        "word": "周雨彤花少镜头",
+        "onboard_time": 1730442919,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161598,
+        "num": 157845,
+        "word": "太好了是虞书欣王一栩有救了",
+        "onboard_time": 1730440999,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147656,
+        "num": 147656,
+        "word": "神舟飞船已进入航班化状态",
+        "onboard_time": 1730445619,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147117,
+        "num": 147117,
+        "word": "留几手 葛夕",
+        "onboard_time": 1730444898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143453,
+        "num": 143453,
+        "word": "真的受够女厕所排队了",
+        "onboard_time": 1730434459,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134986,
+        "num": 134986,
+        "word": "日本自卫队员在靖国神社猥亵女子",
+        "onboard_time": 1730447599,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132952,
+        "num": 132952,
+        "word": "李行亮给麦琳买青团vlog",
+        "onboard_time": 1730442739,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131564,
+        "num": 131564,
+        "word": "黄圣依又选不离婚",
+        "onboard_time": 1730438239,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128963,
+        "num": 128963,
+        "word": "判决书写错刑期时间承办人记大过",
+        "onboard_time": 1730444479,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117023,
+        "num": 117023,
+        "word": "郑思维黄雅琼退出中国大师赛",
+        "onboard_time": 1730447658,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115214,
+        "num": 115214,
+        "word": "网传河南一120司机参与贩卖女婴",
+        "onboard_time": 1730441659,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107418,
+        "num": 107418,
+        "word": "郑思维给女儿取名七月",
+        "onboard_time": 1730447360,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104755,
+        "num": 104755,
+        "word": "越来越多年轻人选择电动车通勤",
+        "onboard_time": 1730442618,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97435,
+        "num": 97435,
+        "word": "辛芷蕾胡先煦包场秦海璐新片",
+        "onboard_time": 1730445019,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记阐明四对关系#"
+    }
+  }
+}
