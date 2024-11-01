@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730417858790,
+  "endTime": 1730425787380,
   "band_list": [
     {
       "raw_hot": 2943052,
@@ -9,6 +9,14 @@
       "onboard_time": 1730391676,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1450089,
+      "num": 474577,
+      "word": "美国大选",
+      "onboard_time": 1730423538,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1055335,
@@ -27,6 +35,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811959,
+      "num": 191585,
+      "word": "江歌妈妈60秒以上广告报价7万",
+      "onboard_time": 1730417477,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752078,
+      "num": 191562,
+      "word": "不敢认安孝燮了",
+      "onboard_time": 1730419878,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 738965,
+      "num": 191240,
+      "word": "入职第一天就被挂公司大群里了",
+      "onboard_time": 1730422398,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 705881,
       "num": 235839,
       "word": "女子怀孕后被代孕机构拉黑",
@@ -35,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696176,
+      "num": 1111388,
+      "word": "黄金",
+      "onboard_time": 1730418198,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 624742,
       "num": 250600,
       "word": "乔任梁父母称网上遗体照是二次伤害",
       "onboard_time": 1730379019,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599502,
+      "num": 599502,
+      "word": "亮身份吃霸王餐的玩笑开不得",
+      "onboard_time": 1730419517,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595878,
@@ -83,7 +131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 453519,
+      "raw_hot": 455379,
       "num": 517007,
       "word": "主人去世狗狗在主人墓前守护2年",
       "onboard_time": 1730392157,
@@ -155,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268762,
+      "num": 268762,
+      "word": "鱿鱼游戏2预告",
+      "onboard_time": 1730420598,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265833,
+      "num": 265833,
+      "word": "麦琳 句句都提爱句句都伤害",
+      "onboard_time": 1730385559,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258221,
       "num": 258221,
       "word": "麦琳",
@@ -179,12 +243,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 247596,
-      "num": 247596,
-      "word": "麦琳 句句都提爱句句都伤害",
-      "onboard_time": 1730385559,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 246753,
+      "num": 246753,
+      "word": "上海暴雨",
+      "onboard_time": 1730417117,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230534,
@@ -193,6 +257,14 @@
       "onboard_time": 1730380218,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230200,
+      "num": 191213,
+      "word": "终于知道老板为什么喜欢坐在后排了",
+      "onboard_time": 1730423478,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 228550,
@@ -251,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191179,
+      "num": 229839,
+      "word": "双航母编队原声4K纯享",
+      "onboard_time": 1730389698,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189873,
       "num": 145086,
       "word": "敖犬的老婆还是薛之谦演过的那个",
       "onboard_time": 1730383041,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186011,
+      "num": 186011,
+      "word": "自助烤土豆为什么突然火了",
+      "onboard_time": 1730423478,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 178672,
@@ -268,7 +356,7 @@
     },
     {
       "raw_hot": 175941,
-      "num": 175941,
+      "num": 191313,
       "word": "黄圣依葛夕怼麦琳",
       "onboard_time": 1730385920,
       "rank": 25,
@@ -283,11 +371,35 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 175169,
+      "num": 175169,
+      "word": "加沙医院院长亲手埋葬被杀的儿子",
+      "onboard_time": 1730423898,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160896,
       "num": 160896,
       "word": "吉利集团声明",
       "onboard_time": 1730390238,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160694,
+      "num": 191255,
+      "word": "小巷人家",
+      "onboard_time": 1730422759,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156499,
+      "num": 156499,
+      "word": "岳云鹏回应中原小岳岳模仿",
+      "onboard_time": 1730422818,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -307,20 +419,52 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144488,
-      "num": 144488,
-      "word": "江歌妈妈60秒以上广告报价7万",
-      "onboard_time": 1730417477,
-      "rank": 25,
+      "raw_hot": 147277,
+      "num": 147277,
+      "word": "北京大雾",
+      "onboard_time": 1730422158,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138021,
-      "num": 229839,
-      "word": "双航母编队原声4K纯享",
-      "onboard_time": 1730389698,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 144351,
+      "num": 144351,
+      "word": "巴黎奥运励志后续",
+      "onboard_time": 1730424678,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139154,
+      "num": 139154,
+      "word": "狗狗把自己的花生放到奶奶的花生堆",
+      "onboard_time": 1730418377,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134927,
+      "num": 134927,
+      "word": "恩佐",
+      "onboard_time": 1730419817,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "南京一男子0元购偷出一个超市",
+      "onboard_time": 1730399531,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132558,
+      "num": 132558,
+      "word": "刘宇和工作人员 网友关系",
+      "onboard_time": 1730424798,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 128694,
@@ -339,11 +483,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121665,
-      "num": 121665,
-      "word": "南京一男子0元购偷出一个超市",
-      "onboard_time": 1730399531,
-      "rank": 34,
+      "raw_hot": 120307,
+      "num": 120307,
+      "word": "Faker说BLG气势很强",
+      "onboard_time": 1730425635,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119181,
+      "num": 119181,
+      "word": "2只豹猫幼崽被失孤家猫悉心带大",
+      "onboard_time": 1730418317,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -411,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100216,
-      "num": 100216,
-      "word": "上海暴雨",
-      "onboard_time": 1730417117,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 100046,
+      "num": 104010,
+      "word": "张泉灵能感受到麦琳李行亮想在一起",
+      "onboard_time": 1730425097,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 97896,
@@ -459,12 +611,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89760,
+      "num": 89760,
+      "word": "美股",
+      "onboard_time": 1730421558,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89683,
       "num": 89683,
       "word": "迪丽热巴反差姐感",
       "onboard_time": 1730417117,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89114,
+      "num": 89114,
+      "word": "好团圆小姑子摔下楼假体移位",
+      "onboard_time": 1730387719,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88898,
+      "num": 88898,
+      "word": "台风康妮今天或在浙江沿海登陆",
+      "onboard_time": 1730419999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88103,
+      "num": 88103,
+      "word": "向南不再是软柿子了",
+      "onboard_time": 1730424917,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 87613,
@@ -488,6 +672,14 @@
       "word": "赵今麦报名小巷人家小饭桌",
       "onboard_time": 1730386580,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83061,
+      "num": 83061,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730423119,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -739,6 +931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20435,
+      "num": 479082,
+      "word": "11月这批新规将施行",
+      "onboard_time": 1730388740,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20412,
       "num": 20412,
       "word": "警方回应少年缅甸失联两个月",
@@ -824,14 +1024,6 @@
       "word": "记者现场直击消防人员转移受困群众",
       "onboard_time": 1730414113,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10826,
-      "num": 268385,
-      "word": "11月这批新规将施行",
-      "onboard_time": 1730388740,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

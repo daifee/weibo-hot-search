@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730417858790,
+  "endTime": 1730425787380,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -2179,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811959,
+      "num": 191585,
+      "word": "江歌妈妈60秒以上广告报价7万",
+      "onboard_time": 1730417477,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811107,
       "num": 811107,
       "word": "卫健委回应奖励三孩家庭1.3万",
@@ -2339,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752078,
+      "num": 191562,
+      "word": "不敢认安孝燮了",
+      "onboard_time": 1730419878,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 750303,
       "num": 750303,
       "word": "为什么年轻人的生育意愿变低了",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1730379198,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738965,
+      "num": 191240,
+      "word": "入职第一天就被挂公司大群里了",
+      "onboard_time": 1730422398,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 736170,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1730038221,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696176,
+      "num": 1111388,
+      "word": "黄金",
+      "onboard_time": 1730418198,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 687694,
@@ -2872,6 +2904,14 @@
       "word": "武汉监管部门下架山姆卤菜拼盘",
       "onboard_time": 1730297060,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599502,
+      "num": 599502,
+      "word": "亮身份吃霸王餐的玩笑开不得",
+      "onboard_time": 1730419517,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -3859,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455379,
+      "num": 517007,
+      "word": "主人去世狗狗在主人墓前守护2年",
+      "onboard_time": 1730392157,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455075,
       "num": 542948,
       "word": "南京博物院免费门票被黄牛炒至两百元",
@@ -3889,14 +3937,6 @@
       "onboard_time": 1730074878,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 453519,
-      "num": 517007,
-      "word": "主人去世狗狗在主人墓前守护2年",
-      "onboard_time": 1730392157,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452833,
@@ -5907,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268762,
+      "num": 268762,
+      "word": "鱿鱼游戏2预告",
+      "onboard_time": 1730420598,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268572,
       "num": 268572,
       "word": "JackeyLove回应TES止步八强",
@@ -6001,6 +6049,14 @@
       "onboard_time": 1729937419,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265833,
+      "num": 265833,
+      "word": "麦琳 句句都提爱句句都伤害",
+      "onboard_time": 1730385559,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 265541,
@@ -6435,14 +6491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247596,
-      "num": 247596,
-      "word": "麦琳 句句都提爱句句都伤害",
-      "onboard_time": 1730385559,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247365,
       "num": 247365,
       "word": "樊振东黑西装",
@@ -6464,6 +6512,14 @@
       "word": "19岁中专生靠一项技能拿下世界第一",
       "onboard_time": 1730162480,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246753,
+      "num": 246753,
+      "word": "上海暴雨",
+      "onboard_time": 1730417117,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -6969,6 +7025,14 @@
       "onboard_time": 1730188759,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230200,
+      "num": 191213,
+      "word": "终于知道老板为什么喜欢坐在后排了",
+      "onboard_time": 1730423478,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 230169,
@@ -8691,6 +8755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191179,
+      "num": 229839,
+      "word": "双航母编队原声4K纯享",
+      "onboard_time": 1730389698,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191052,
       "num": 191052,
       "word": "小区一大妈在女子窗口下浇粪水种菜",
@@ -8897,6 +8969,14 @@
       "onboard_time": 1730205560,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186011,
+      "num": 186011,
+      "word": "自助烤土豆为什么突然火了",
+      "onboard_time": 1730423478,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 185655,
@@ -9569,6 +9649,14 @@
       "onboard_time": 1730009898,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175169,
+      "num": 175169,
+      "word": "加沙医院院长亲手埋葬被杀的儿子",
+      "onboard_time": 1730423898,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 174918,
@@ -10515,6 +10603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156499,
+      "num": 156499,
+      "word": "岳云鹏回应中原小岳岳模仿",
+      "onboard_time": 1730422818,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156383,
       "num": 312379,
       "word": "青海两户6人中毒死亡背后",
@@ -11003,6 +11099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147277,
+      "num": 147277,
+      "word": "北京大雾",
+      "onboard_time": 1730422158,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147228,
       "num": 147228,
       "word": "吹牛老爹再被曝性侵10岁男童",
@@ -11123,12 +11227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144488,
-      "num": 144488,
-      "word": "江歌妈妈60秒以上广告报价7万",
-      "onboard_time": 1730417477,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 144351,
+      "num": 144351,
+      "word": "巴黎奥运励志后续",
+      "onboard_time": 1730424678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 144349,
@@ -11411,6 +11515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139154,
+      "num": 139154,
+      "word": "狗狗把自己的花生放到奶奶的花生堆",
+      "onboard_time": 1730418377,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139081,
       "num": 139081,
       "word": "刘宇宁单依纯合唱相思",
@@ -11441,14 +11553,6 @@
       "onboard_time": 1730025259,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138021,
-      "num": 229839,
-      "word": "双航母编队原声4K纯享",
-      "onboard_time": 1730389698,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137977,
@@ -11635,6 +11739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134927,
+      "num": 134927,
+      "word": "恩佐",
+      "onboard_time": 1730419817,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134800,
       "num": 160480,
       "word": "俄罗斯老人为中国男生演奏中国国歌",
@@ -11689,6 +11801,14 @@
       "onboard_time": 1730300481,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "南京一男子0元购偷出一个超市",
+      "onboard_time": 1730399531,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133971,
@@ -11753,6 +11873,14 @@
       "onboard_time": 1730109799,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132558,
+      "num": 132558,
+      "word": "刘宇和工作人员 网友关系",
+      "onboard_time": 1730424798,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 132337,
@@ -12211,14 +12339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121665,
-      "num": 121665,
-      "word": "南京一男子0元购偷出一个超市",
-      "onboard_time": 1730399531,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121552,
       "num": 345510,
       "word": "汪苏泷唱了他的爱",
@@ -12241,6 +12361,14 @@
       "onboard_time": 1730092940,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120307,
+      "num": 120307,
+      "word": "Faker说BLG气势很强",
+      "onboard_time": 1730425635,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 119951,
@@ -12289,6 +12417,14 @@
       "onboard_time": 1730014220,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119181,
+      "num": 119181,
+      "word": "2只豹猫幼崽被失孤家猫悉心带大",
+      "onboard_time": 1730418317,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118920,
@@ -12843,12 +12979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100216,
-      "num": 100216,
-      "word": "上海暴雨",
-      "onboard_time": 1730417117,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 100046,
+      "num": 104010,
+      "word": "张泉灵能感受到麦琳李行亮想在一起",
+      "onboard_time": 1730425097,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 99284,
@@ -13011,6 +13147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89760,
+      "num": 89760,
+      "word": "美股",
+      "onboard_time": 1730421558,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89692,
       "num": 104945,
       "word": "张大大强烈支持赵露思新剧",
@@ -13032,6 +13176,14 @@
       "word": "初代网红咖啡店漫咖啡突然撤店",
       "onboard_time": 1730214381,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88898,
+      "num": 88898,
+      "word": "台风康妮今天或在浙江沿海登陆",
+      "onboard_time": 1730419999,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13057,6 +13209,14 @@
       "onboard_time": 1730223014,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88103,
+      "num": 88103,
+      "word": "向南不再是软柿子了",
+      "onboard_time": 1730424917,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 87496,
@@ -15883,6 +16043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20435,
+      "num": 479082,
+      "word": "11月这批新规将施行",
+      "onboard_time": 1730388740,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20412,
       "num": 20412,
       "word": "警方回应少年缅甸失联两个月",
@@ -16449,14 +16617,6 @@
       "onboard_time": 1730376020,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10826,
-      "num": 268385,
-      "word": "11月这批新规将施行",
-      "onboard_time": 1730388740,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10748,
