@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730481614837,
+  "endTime": 1730482695882,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 240360,
-      "num": 94138,
+      "num": 99975,
       "word": "印度教牧师自称会飞当众展示时摔亡",
       "onboard_time": 1730479277,
       "rank": 48,
@@ -209,6 +209,14 @@
       "onboard_time": 1730478198,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171889,
+      "num": 146723,
+      "word": "潘宏爱玩狗涉嫌虐狗吗",
+      "onboard_time": 1730481254,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 161474,
@@ -315,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117832,
+      "num": 196853,
+      "word": "俄罗斯对谷歌罚款已达35位数美元",
+      "onboard_time": 1730480535,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 111848,
       "num": 111848,
       "word": "杨超越见面会",
@@ -419,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74379,
-      "num": 74379,
-      "word": "潘宏爱玩狗涉嫌虐狗吗",
-      "onboard_time": 1730481254,
-      "rank": 32,
-      "category": "网红"
+      "raw_hot": 78645,
+      "num": 66478,
+      "word": "蒯曼vs钱天一",
+      "onboard_time": 1730482216,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 70535,
@@ -451,28 +467,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 51364,
-      "num": 51364,
-      "word": "赵露思回应端午品如上身",
-      "onboard_time": 1730480896,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 47681,
-      "num": 47681,
+      "raw_hot": 53675,
+      "num": 53675,
       "word": "俄方回应谷歌被罚35位数",
       "onboard_time": 1730469499,
       "rank": 48,
       "category": "国外时政"
     },
     {
-      "raw_hot": 39747,
-      "num": 196853,
-      "word": "俄罗斯对谷歌罚款已达35位数美元",
-      "onboard_time": 1730480535,
+      "raw_hot": 51732,
+      "num": 149752,
+      "word": "山西一地规定女性35岁前结婚奖1500元",
+      "onboard_time": 1730481674,
       "rank": 9,
-      "category": "国外时政"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51482,
+      "num": 51482,
+      "word": "赵露思回应端午品如上身",
+      "onboard_time": 1730480896,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 8425,
