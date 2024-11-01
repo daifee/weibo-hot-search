@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730453009684,
+  "endTime": 1730453852184,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1475653,
+      "num": 657718,
+      "word": "宋仲基和张紫妍案加害人合影",
+      "onboard_time": 1730452038,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1464046,
       "num": 1464046,
       "word": "阿富汗塔利班禁止女性在公共场合说话",
@@ -177,14 +185,6 @@
       "onboard_time": 1730430380,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839407,
-      "num": 380988,
-      "word": "宋仲基和张紫妍案加害人合影",
-      "onboard_time": 1730452038,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 837886,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316501,
+      "num": 282536,
+      "word": "曾黎心疼赵露思水下戏",
+      "onboard_time": 1730452999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314058,
       "num": 314058,
       "word": "十日终焉完结",
@@ -649,6 +657,14 @@
       "onboard_time": 1730431938,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290703,
+      "num": 282329,
+      "word": "詹姆斯表态将投票支持哈里斯",
+      "onboard_time": 1730450658,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 286974,
@@ -675,6 +691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283284,
+      "num": 283284,
+      "word": "陈梦回应奥运单打名额舆论",
+      "onboard_time": 1730453058,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282059,
+      "num": 282059,
+      "word": "王一博对接否认出演克什米尔公主号",
+      "onboard_time": 1730453119,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278408,
       "num": 278408,
       "word": "印度一小盘股一天暴涨6692535%",
@@ -689,14 +721,6 @@
       "onboard_time": 1730439499,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274903,
-      "num": 274903,
-      "word": "詹姆斯表态将投票支持哈里斯",
-      "onboard_time": 1730450658,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 274211,
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252697,
+      "num": 252697,
+      "word": "永夜星河直播",
+      "onboard_time": 1730453239,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250518,
       "num": 250518,
       "word": "农行回应女员工遭恐吓不幸轻生",
@@ -849,6 +881,14 @@
       "onboard_time": 1730423478,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235384,
+      "num": 235384,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1730452879,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 234175,
@@ -1251,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159215,
+      "num": 159215,
+      "word": "全国第一张火车票电子发票来自苏州",
+      "onboard_time": 1730453058,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158502,
       "num": 363179,
       "word": "桥本环奈方回应霸凌",
@@ -1387,20 +1435,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143627,
+      "num": 143627,
+      "word": "年终国产手机集体涨价",
+      "onboard_time": 1730451798,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 142675,
+      "num": 142675,
+      "word": "永夜星河 轻喜剧",
+      "onboard_time": 1730453539,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142024,
+      "num": 142024,
+      "word": "这个杀手不太冷上映",
+      "onboard_time": 1730453180,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "樱桃琥珀 西桃婚礼不拍摄",
       "onboard_time": 1730452457,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139793,
-      "num": 139793,
-      "word": "年终国产手机集体涨价",
-      "onboard_time": 1730451798,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 139190,
@@ -1475,20 +1539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130311,
-      "num": 130311,
-      "word": "黑莲花攻略手册",
-      "onboard_time": 1730452879,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129616,
       "num": 129616,
       "word": "石宇奇留院观察中",
       "onboard_time": 1730426237,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129516,
+      "num": 129516,
+      "word": "2024IVL秋季赛",
+      "onboard_time": 1730453658,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 128694,
@@ -1715,6 +1779,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 108733,
+      "num": 376803,
+      "word": "沈阳一禁毒大队队长被控走私毒品",
+      "onboard_time": 1730452038,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107418,
       "num": 107418,
       "word": "郑思维给女儿取名七月",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1730437400,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100549,
+      "num": 129616,
+      "word": "白酒股直线拉升",
+      "onboard_time": 1730453838,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 100046,
@@ -1827,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86872,
-      "num": 376803,
-      "word": "沈阳一禁毒大队队长被控走私毒品",
-      "onboard_time": 1730452038,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86055,
       "num": 86055,
       "word": "十一月你好",
@@ -1857,6 +1929,14 @@
       "onboard_time": 1730437519,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80972,
+      "num": 386975,
+      "word": "网红主播让亲妈扮养母卖惨圈粉",
+      "onboard_time": 1730451918,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80288,
@@ -1963,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56944,
+      "num": 283048,
+      "word": "救护车司机被举报勾结医生贩卖婴儿",
+      "onboard_time": 1730453779,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55494,
       "num": 55494,
       "word": "POWER歌词",
@@ -1993,14 +2081,6 @@
       "onboard_time": 1730442799,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 51479,
-      "num": 386975,
-      "word": "网红主播让亲妈扮养母卖惨圈粉",
-      "onboard_time": 1730451918,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51074,
@@ -2051,6 +2131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45147,
+      "num": 370634,
+      "word": "极地考察员穿的是波司登",
+      "onboard_time": 1730450297,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44786,
       "num": 461784,
       "word": "美股7巨头集体暴跌",
@@ -2072,6 +2160,14 @@
       "word": "上海地铁",
       "onboard_time": 1730372059,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40947,
+      "num": 374926,
+      "word": "今天你吃到糖了吗",
+      "onboard_time": 1730452818,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2113,14 +2209,6 @@
       "onboard_time": 1730439139,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 33889,
-      "num": 370634,
-      "word": "极地考察员穿的是波司登",
-      "onboard_time": 1730450297,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33747,
@@ -2171,8 +2259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31754,
-      "num": 267670,
+      "raw_hot": 31909,
+      "num": 282231,
       "word": "采销直播5折家电又来了",
       "onboard_time": 1730452099,
       "rank": 28,
@@ -2192,6 +2280,14 @@
       "word": "退换家电需有原包装的规矩是否需要改改了",
       "onboard_time": 1730416935,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30188,
+      "num": 815641,
+      "word": "超级工程和大国重器同框了",
+      "onboard_time": 1730452938,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2216,14 +2312,6 @@
       "word": "雪龙号科考队出征南极",
       "onboard_time": 1730448379,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26609,
-      "num": 374926,
-      "word": "今天你吃到糖了吗",
-      "onboard_time": 1730452818,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2441,14 +2529,6 @@
       "onboard_time": 1730417777,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7842,
-      "num": 815641,
-      "word": "超级工程和大国重器同框了",
-      "onboard_time": 1730452938,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
