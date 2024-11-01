@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730430725203,
+  "endTime": 1730432897757,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 3222329,
-      "num": 353692,
+      "num": 2772683,
       "word": "丝芭传媒起诉鞠婧祎",
       "onboard_time": 1730428878,
       "rank": 10,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1788528,
-      "num": 350198,
+      "num": 425609,
       "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
       "onboard_time": 1730426718,
       "rank": 36,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1770130,
-      "num": 348577,
+      "num": 432748,
       "word": "包贝尔否认乔任梁传言",
       "onboard_time": 1730428457,
       "rank": 12,
@@ -1027,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1268000,
+      "num": 1268000,
+      "word": "阿富汗塔利班禁止女性在公共场合说话",
+      "onboard_time": 1730430739,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1256607,
       "num": 1256607,
       "word": "老人花300元买了1斤鲜虾干",
@@ -1460,7 +1468,7 @@
     },
     {
       "raw_hot": 1051616,
-      "num": 400542,
+      "num": 415805,
       "word": "乔任梁父亲支持朱桢报警",
       "onboard_time": 1730388320,
       "rank": 6,
@@ -1747,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 933665,
+      "num": 933665,
+      "word": "今起纸质火车票成为历史",
+      "onboard_time": 1730426598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929430,
       "num": 582432,
       "word": "蔡徐坤ins",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1730364620,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 919930,
-      "num": 919930,
-      "word": "今起纸质火车票成为历史",
-      "onboard_time": 1730426598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 919159,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1730339777,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 889694,
+      "num": 889694,
+      "word": "两女子当租赁伴娘遭新娘拒付尾款",
+      "onboard_time": 1730430380,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883944,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1730383341,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 837886,
+      "num": 417013,
+      "word": "郑思维女儿出生",
+      "onboard_time": 1730430079,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 834440,
@@ -2875,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613320,
+      "num": 416833,
+      "word": "34岁女生在英国留学的阶级跨越",
+      "onboard_time": 1730430140,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611090,
       "num": 611090,
       "word": "钱学森30多年前设想中国VR技术",
@@ -3041,6 +3073,14 @@
       "onboard_time": 1729985955,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585860,
+      "num": 585860,
+      "word": "美国大选时间",
+      "onboard_time": 1730430258,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 585447,
@@ -3739,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487404,
+      "num": 416288,
+      "word": "武艺说黄圣依带孩子走是净身出户",
+      "onboard_time": 1730431999,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487079,
       "num": 347628,
       "word": "张淼怡假睫毛",
@@ -3953,14 +4001,6 @@
       "onboard_time": 1730047037,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 458962,
-      "num": 299384,
-      "word": "郑思维女儿出生",
-      "onboard_time": 1730430079,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 456679,
@@ -4195,6 +4235,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 417753,
+      "num": 417753,
+      "word": "鞠婧祎已起诉丝芭传媒",
+      "onboard_time": 1730431699,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417382,
       "num": 417382,
       "word": "女子一听要坐牢赶紧转18万养老钱",
@@ -4209,6 +4257,14 @@
       "onboard_time": 1730168178,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415709,
+      "num": 415709,
+      "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+      "onboard_time": 1730432359,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415599,
@@ -4241,6 +4297,14 @@
       "onboard_time": 1730091259,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 413357,
+      "num": 417332,
+      "word": "小小的我",
+      "onboard_time": 1730428158,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 412449,
@@ -4361,6 +4425,14 @@
       "onboard_time": 1730169618,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 401532,
+      "num": 401532,
+      "word": "丫丫没脖子了",
+      "onboard_time": 1730429238,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401524,
@@ -4545,14 +4617,6 @@
       "onboard_time": 1730178201,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385128,
-      "num": 297456,
-      "word": "丫丫没脖子了",
-      "onboard_time": 1730429238,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384529,
@@ -4937,14 +5001,6 @@
       "onboard_time": 1729986015,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 352561,
-      "num": 359924,
-      "word": "小小的我",
-      "onboard_time": 1730428158,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 351139,
@@ -5705,6 +5761,14 @@
       "onboard_time": 1730333658,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293616,
+      "num": 293616,
+      "word": "虞书欣永夜星河云包场1万座",
+      "onboard_time": 1730431938,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 293480,
@@ -6875,14 +6939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 240985,
-      "num": 240985,
-      "word": "34岁女生在英国留学的阶级跨越",
-      "onboard_time": 1730430140,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240758,
       "num": 240758,
       "word": "荣耀Magic7价格",
@@ -7609,6 +7665,14 @@
       "onboard_time": 1730003178,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 218500,
+      "num": 218500,
+      "word": "任正非称英语是华为工作语言",
+      "onboard_time": 1730429538,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 218275,
@@ -8539,20 +8603,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196557,
-      "num": 196557,
-      "word": "美国大选时间",
-      "onboard_time": 1730430258,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 196177,
       "num": 196177,
       "word": "应采儿发Jasper全英文演讲",
       "onboard_time": 1729985955,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196168,
+      "num": 196168,
+      "word": "赵丽颖11月进组新剧",
+      "onboard_time": 1730432779,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196155,
@@ -9019,6 +9083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189545,
+      "num": 249585,
+      "word": "麦琳 自相矛盾",
+      "onboard_time": 1730429479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188973,
       "num": 188973,
       "word": "刘昊然董子健 脚的动作不会骗人",
@@ -9195,14 +9267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184907,
-      "num": 184907,
-      "word": "任正非称英语是华为工作语言",
-      "onboard_time": 1730429538,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 184498,
       "num": 184498,
       "word": "易烊千玺演小小的我到医院观察学习",
@@ -9377,6 +9441,14 @@
       "onboard_time": 1730285778,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182173,
+      "num": 182173,
+      "word": "西行纪完结篇正式开播",
+      "onboard_time": 1730431938,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 182143,
@@ -10611,6 +10683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160408,
+      "num": 160408,
+      "word": "徐海乔阿娇演夫妻",
+      "onboard_time": 1730432598,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160183,
+      "num": 160183,
+      "word": "霍启刚晒和马龙合照",
+      "onboard_time": 1730431219,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "粉笔模考",
@@ -10945,14 +11033,6 @@
       "onboard_time": 1730112498,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153911,
-      "num": 249585,
-      "word": "麦琳 自相矛盾",
-      "onboard_time": 1730429479,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 153855,
@@ -11499,6 +11579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142859,
+      "num": 436708,
+      "word": "知名电竞公司涉赌遭跨省执法",
+      "onboard_time": 1730430978,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142811,
       "num": 142811,
       "word": "春花焰 有情人终成兄妹",
@@ -12043,14 +12131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133502,
-      "num": 133502,
-      "word": "两女子当租赁伴娘遭新娘拒付尾款",
-      "onboard_time": 1730430380,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133448,
       "num": 133448,
       "word": "乔妍的心事票房",
@@ -12184,6 +12264,14 @@
       "word": "烧伤妈妈今日将在ICU度过生日",
       "onboard_time": 1730129838,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130729,
+      "num": 130729,
+      "word": "李海玉为亡弟追凶26年案开庭",
+      "onboard_time": 1730432179,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13483,6 +13571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 87036,
+      "num": 180515,
+      "word": "实地探访上海实时雨量最大点",
+      "onboard_time": 1730430799,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86055,
       "num": 86055,
       "word": "十一月你好",
@@ -13544,6 +13640,14 @@
       "word": "河南一动物园回应斑马应激撞墙死亡",
       "onboard_time": 1730275337,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81292,
+      "num": 416360,
+      "word": "男子0元购偷出一个超市",
+      "onboard_time": 1730432419,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -14363,6 +14467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54567,
+      "num": 417609,
+      "word": "做了一周轻体力活我开始怀念上班",
+      "onboard_time": 1730432058,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54179,
       "num": 168485,
       "word": "近距离投喂拍照可能激怒野生动物",
@@ -14497,6 +14609,14 @@
       "onboard_time": 1730106139,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50853,
+      "num": 417416,
+      "word": "儿童流感防护手册",
+      "onboard_time": 1730430018,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 50672,
@@ -15763,6 +15883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28584,
+      "num": 1249252,
+      "word": "神十九发射任务全回顾",
+      "onboard_time": 1730432721,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28538,
       "num": 337453,
       "word": "张大仙的直播搭子iQOO13",
@@ -16025,14 +16153,6 @@
       "onboard_time": 1730226491,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24538,
-      "num": 343756,
-      "word": "儿童流感防护手册",
-      "onboard_time": 1730430018,
-      "rank": 14,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 24224,
@@ -16475,6 +16595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17316,
+      "num": 252889,
+      "word": "美国大选追踪",
+      "onboard_time": 1730432359,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 17228,
       "num": 474453,
       "word": "今年的双11究竟哪些东西便宜",
@@ -16673,6 +16801,14 @@
       "onboard_time": 1730368818,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13834,
+      "num": 416711,
+      "word": "PLEDIS更换代表",
+      "onboard_time": 1730432538,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 13770,

@@ -1,10 +1,10 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730430725203,
+  "endTime": 1730432897757,
   "band_list": [
     {
       "raw_hot": 3222329,
-      "num": 353692,
+      "num": 2772683,
       "word": "丝芭传媒起诉鞠婧祎",
       "onboard_time": 1730428878,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1788528,
-      "num": 350198,
+      "num": 425609,
       "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
       "onboard_time": 1730426718,
       "rank": 36,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1770130,
-      "num": 348577,
+      "num": 432748,
       "word": "包贝尔否认乔任梁传言",
       "onboard_time": 1730428457,
       "rank": 12,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1268000,
+      "num": 1268000,
+      "word": "阿富汗塔利班禁止女性在公共场合说话",
+      "onboard_time": 1730430739,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1055335,
       "num": 1055335,
       "word": "国考缴费",
@@ -60,19 +68,35 @@
     },
     {
       "raw_hot": 1051616,
-      "num": 339880,
+      "num": 415805,
       "word": "乔任梁父亲支持朱桢报警",
       "onboard_time": 1730388320,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 919930,
-      "num": 919930,
+      "raw_hot": 933665,
+      "num": 933665,
       "word": "今起纸质火车票成为历史",
       "onboard_time": 1730426598,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889694,
+      "num": 889694,
+      "word": "两女子当租赁伴娘遭新娘拒付尾款",
+      "onboard_time": 1730430380,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 837886,
+      "num": 417013,
+      "word": "郑思维女儿出生",
+      "onboard_time": 1730430079,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 811959,
@@ -139,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613320,
+      "num": 416833,
+      "word": "34岁女生在英国留学的阶级跨越",
+      "onboard_time": 1730430140,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599502,
       "num": 599502,
       "word": "亮身份吃霸王餐的玩笑开不得",
@@ -153,6 +185,14 @@
       "onboard_time": 1730379740,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585860,
+      "num": 585860,
+      "word": "美国大选时间",
+      "onboard_time": 1730430258,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 577862,
@@ -187,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487404,
+      "num": 416288,
+      "word": "武艺说黄圣依带孩子走是净身出户",
+      "onboard_time": 1730431999,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462797,
       "num": 517007,
       "word": "主人去世狗狗在主人墓前守护2年",
       "onboard_time": 1730392157,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458962,
-      "num": 299384,
-      "word": "郑思维女儿出生",
-      "onboard_time": 1730430079,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 450353,
@@ -211,6 +251,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 417753,
+      "num": 417753,
+      "word": "鞠婧祎已起诉丝芭传媒",
+      "onboard_time": 1730431699,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415709,
+      "num": 415709,
+      "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+      "onboard_time": 1730432359,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413357,
+      "num": 417332,
+      "word": "小小的我",
+      "onboard_time": 1730428158,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 408679,
       "num": 476775,
       "word": "上海回应明天是否会台风停课",
@@ -219,8 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385128,
-      "num": 297456,
+      "raw_hot": 401532,
+      "num": 401532,
       "word": "丫丫没脖子了",
       "onboard_time": 1730429238,
       "rank": 21,
@@ -259,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352561,
-      "num": 359924,
-      "word": "小小的我",
-      "onboard_time": 1730428158,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 331265,
       "num": 331265,
       "word": "特朗普坐垃圾车回应拜登垃圾言论",
@@ -297,6 +353,14 @@
       "onboard_time": 1730411771,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293616,
+      "num": 293616,
+      "word": "虞书欣永夜星河云包场1万座",
+      "onboard_time": 1730431938,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 286974,
@@ -379,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240985,
-      "num": 240985,
-      "word": "34岁女生在英国留学的阶级跨越",
-      "onboard_time": 1730430140,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236760,
       "num": 202170,
       "word": "终于知道老板为什么喜欢坐在后排了",
@@ -409,6 +465,14 @@
       "onboard_time": 1730387180,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218500,
+      "num": 218500,
+      "word": "任正非称英语是华为工作语言",
+      "onboard_time": 1730429538,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 217064,
@@ -459,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196557,
-      "num": 196557,
-      "word": "美国大选时间",
-      "onboard_time": 1730430258,
-      "rank": 34,
-      "category": "国外时政"
+      "raw_hot": 196168,
+      "num": 196168,
+      "word": "赵丽颖11月进组新剧",
+      "onboard_time": 1730432779,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 193449,
@@ -491,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189545,
+      "num": 249585,
+      "word": "麦琳 自相矛盾",
+      "onboard_time": 1730429479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186011,
       "num": 186011,
       "word": "自助烤土豆为什么突然火了",
@@ -499,20 +571,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 184907,
-      "num": 184907,
-      "word": "任正非称英语是华为工作语言",
-      "onboard_time": 1730429538,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183772,
       "num": 224389,
       "word": "美民调称哈里斯以1%优势领先特朗普",
       "onboard_time": 1730426417,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 182173,
+      "num": 182173,
+      "word": "西行纪完结篇正式开播",
+      "onboard_time": 1730431938,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 178981,
@@ -595,6 +667,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160408,
+      "num": 160408,
+      "word": "徐海乔阿娇演夫妻",
+      "onboard_time": 1730432598,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160183,
+      "num": 160183,
+      "word": "霍启刚晒和马龙合照",
+      "onboard_time": 1730431219,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156499,
       "num": 156499,
       "word": "岳云鹏回应中原小岳岳模仿",
@@ -609,14 +697,6 @@
       "onboard_time": 1730376857,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153911,
-      "num": 249585,
-      "word": "麦琳 自相矛盾",
-      "onboard_time": 1730429479,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 148877,
@@ -651,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142859,
+      "num": 436708,
+      "word": "知名电竞公司涉赌遭跨省执法",
+      "onboard_time": 1730430978,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "狗狗把自己的花生放到奶奶的花生堆",
@@ -683,11 +771,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133502,
-      "num": 133502,
-      "word": "两女子当租赁伴娘遭新娘拒付尾款",
-      "onboard_time": 1730430380,
-      "rank": 44,
+      "raw_hot": 130729,
+      "num": 130729,
+      "word": "李海玉为亡弟追凶26年案开庭",
+      "onboard_time": 1730432179,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -907,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87036,
+      "num": 180515,
+      "word": "实地探访上海实时雨量最大点",
+      "onboard_time": 1730430799,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86055,
       "num": 86055,
       "word": "十一月你好",
@@ -921,6 +1017,14 @@
       "onboard_time": 1730386580,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81292,
+      "num": 416360,
+      "word": "男子0元购偷出一个超市",
+      "onboard_time": 1730432419,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80288,
@@ -1027,12 +1131,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54567,
+      "num": 417609,
+      "word": "做了一周轻体力活我开始怀念上班",
+      "onboard_time": 1730432058,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51074,
       "num": 355484,
       "word": "直击姐姐为弟追凶26年案庭审",
       "onboard_time": 1730428938,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50853,
+      "num": 417416,
+      "word": "儿童流感防护手册",
+      "onboard_time": 1730430018,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 50458,
@@ -1147,20 +1267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28584,
+      "num": 1249252,
+      "word": "神十九发射任务全回顾",
+      "onboard_time": 1730432721,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25372,
       "num": 25372,
       "word": "李海玉抱父遗照在弟弟坟前痛哭",
       "onboard_time": 1730398152,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24538,
-      "num": 343756,
-      "word": "儿童流感防护手册",
-      "onboard_time": 1730430018,
-      "rank": 14,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 24286,
@@ -1235,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17316,
+      "num": 252889,
+      "word": "美国大选追踪",
+      "onboard_time": 1730432359,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 16291,
       "num": 58172,
       "word": "神十九发射任务全过程回顾",
@@ -1257,6 +1385,14 @@
       "onboard_time": 1730412733,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13834,
+      "num": 416711,
+      "word": "PLEDIS更换代表",
+      "onboard_time": 1730432538,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 13488,
