@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730456693395,
+  "endTime": 1730457721371,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -139,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1147306,
+      "num": 772855,
+      "word": "陈梦回应奥运单打名额舆论",
+      "onboard_time": 1730453058,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1125988,
       "num": 1180158,
       "word": "程莉莎让郭晓东道歉",
       "onboard_time": 1730450718,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1123643,
-      "num": 772855,
-      "word": "陈梦回应奥运单打名额舆论",
-      "onboard_time": 1730453058,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 1103296,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870848,
+      "num": 870848,
+      "word": "沈阳一禁毒大队队长被控走私毒品",
+      "onboard_time": 1730452038,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837886,
       "num": 578946,
       "word": "郑思维女儿出生",
       "onboard_time": 1730430079,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 832119,
-      "num": 832119,
-      "word": "沈阳一禁毒大队队长被控走私毒品",
-      "onboard_time": 1730452038,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811959,
@@ -499,8 +499,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 463619,
-      "num": 408169,
+      "raw_hot": 469798,
+      "num": 469798,
       "word": "詹姆斯表态将投票支持哈里斯",
       "onboard_time": 1730450658,
       "rank": 26,
@@ -625,6 +625,14 @@
       "onboard_time": 1730428878,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354823,
+      "num": 341068,
+      "word": "王健林1.6亿英镑卖掉英国游艇制造商",
+      "onboard_time": 1730456778,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 344271,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252723,
+      "num": 252723,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1730452879,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252697,
       "num": 252697,
       "word": "永夜星河直播",
@@ -897,14 +913,6 @@
       "onboard_time": 1730423478,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 235384,
-      "num": 235384,
-      "word": "黑莲花攻略手册",
-      "onboard_time": 1730452879,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 234175,
@@ -1011,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207617,
+      "num": 207617,
+      "word": "苏新皓为权志龙新歌打call",
+      "onboard_time": 1730456418,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205305,
       "num": 205305,
       "word": "唐晓天珠帘玉幕点天灯",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1730417055,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199561,
+      "num": 199561,
+      "word": "警方及乔爸早已公布乔任梁非他杀",
+      "onboard_time": 1730455998,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198112,
@@ -1131,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186596,
-      "num": 186596,
-      "word": "警方及乔爸早已公布乔任梁非他杀",
-      "onboard_time": 1730455998,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186011,
       "num": 186011,
       "word": "自助烤土豆为什么突然火了",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1730426417,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 183468,
+      "num": 183468,
+      "word": "白鹿泰国见面会绿毯",
+      "onboard_time": 1730457499,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182173,
@@ -1251,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170056,
+      "num": 170056,
+      "word": "何卓佳1比3大藤沙月",
+      "onboard_time": 1730456180,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168703,
       "num": 168703,
       "word": "香格里拉古城满大街都是猫皮制品",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1730437820,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162294,
+      "num": 162294,
+      "word": "硬装没结束家电全买了",
+      "onboard_time": 1730457019,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 160896,
@@ -1331,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159369,
-      "num": 159369,
-      "word": "苏新皓为权志龙新歌打call",
-      "onboard_time": 1730456418,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 159307,
       "num": 159307,
       "word": "偶遇马嘉祺青岛拍摄",
@@ -1363,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157777,
+      "num": 157777,
+      "word": "陈梦说自己无惧攻击和议论",
+      "onboard_time": 1730457377,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157595,
       "num": 157595,
       "word": "谢娜模仿陈乔恩臭脸综合症",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1730422818,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155847,
-      "num": 155847,
-      "word": "何卓佳1比3大藤沙月",
-      "onboard_time": 1730456180,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 155263,
@@ -1547,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141695,
+      "num": 386975,
+      "word": "网红主播让亲妈扮养母卖惨圈粉",
+      "onboard_time": 1730451918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139190,
       "num": 139190,
       "word": "babymonster空降",
@@ -1619,12 +1659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131627,
-      "num": 386975,
-      "word": "网红主播让亲妈扮养母卖惨圈粉",
-      "onboard_time": 1730451918,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 131408,
+      "num": 131408,
+      "word": "吉克隽逸海清 一条裙子两种风格",
+      "onboard_time": 1730456658,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130729,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1730452519,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125377,
-      "num": 125377,
-      "word": "吉克隽逸海清 一条裙子两种风格",
-      "onboard_time": 1730456658,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124754,
@@ -1923,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98089,
+      "num": 342585,
+      "word": "斯洛伐克公民15天免签入境",
+      "onboard_time": 1730457499,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97896,
       "num": 126300,
       "word": "阮小咪说与赵牧辰产生了隔阂",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1730385740,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68921,
+      "num": 483794,
+      "word": "高价收小马宝莉卡牌女孩被骗万余元",
+      "onboard_time": 1730455638,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68532,
@@ -2219,11 +2267,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 46207,
-      "num": 483794,
-      "word": "高价收小马宝莉卡牌女孩被骗万余元",
-      "onboard_time": 1730455638,
-      "rank": 9,
+      "raw_hot": 46640,
+      "num": 506280,
+      "word": "为亡弟追凶26年案被告当庭翻供",
+      "onboard_time": 1730456478,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2315,11 +2363,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 34817,
-      "num": 506280,
-      "word": "为亡弟追凶26年案被告当庭翻供",
-      "onboard_time": 1730456478,
-      "rank": 8,
+      "raw_hot": 35365,
+      "num": 342071,
+      "word": "老人谈忘年恋赠与女友20万",
+      "onboard_time": 1730456238,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2396,7 +2444,7 @@
     },
     {
       "raw_hot": 31496,
-      "num": 160180,
+      "num": 342167,
       "word": "京东月黑风高85英寸大电视11.11元",
       "onboard_time": 1730456359,
       "rank": 36,
@@ -2419,19 +2467,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30208,
-      "num": 308886,
-      "word": "老人谈忘年恋赠与女友20万",
-      "onboard_time": 1730456238,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28584,
       "num": 1249252,
       "word": "神十九发射任务全回顾",
       "onboard_time": 1730432721,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28261,
+      "num": 342653,
+      "word": "姐姐为亡弟追凶母亲已精神失常",
+      "onboard_time": 1730456838,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2467,6 +2515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24661,
+      "num": 341797,
+      "word": "为弟追凶案受害人曾借米给凶手吃",
+      "onboard_time": 1730457200,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24286,
       "num": 24979,
       "word": "50秒感受2艘中国航母同框演练",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1730455939,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23658,
+      "num": 342367,
+      "word": "盘点与丝芭涉诉纠纷艺人",
+      "onboard_time": 1730457200,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 23605,
