@@ -1,0 +1,410 @@
+{
+  "runTime": 1730468403383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155795,
+        "num": 1184927,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1730465418,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421331,
+        "num": 421331,
+        "word": "潘展乐男子100自夺金",
+        "onboard_time": 1730462359,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28421,
+        "num": 385226,
+        "word": "你家乡的秋天是什么颜色",
+        "onboard_time": 1730464879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1567342,
+        "num": 384778,
+        "word": "特朗普称我们几乎炸了整个中东但是一场空",
+        "onboard_time": 1730460318,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 980354,
+        "num": 376955,
+        "word": "纽约地铁偶遇李维嘉",
+        "onboard_time": 1730463499,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364664,
+        "num": 364664,
+        "word": "为什么降温后年轻人都在乱穿搭",
+        "onboard_time": 1730461458,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 857404,
+        "num": 360228,
+        "word": "会跳yes ok的来了",
+        "onboard_time": 1730459359,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623313,
+        "num": 357150,
+        "word": "赵露思直播",
+        "onboard_time": 1730465238,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341228,
+        "num": 341228,
+        "word": "王健林1.6亿英镑卖掉英国游艇制造商",
+        "onboard_time": 1730456778,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167301,
+        "num": 341206,
+        "word": "神十八乘组将于11月4日回家",
+        "onboard_time": 1730466319,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 615832,
+        "num": 340232,
+        "word": "女子15万工资未收到9年后才发现",
+        "onboard_time": 1730437280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568598,
+        "num": 339140,
+        "word": "美邦老板直言找贾乃亮带货效果一般",
+        "onboard_time": 1730464279,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 559662,
+        "num": 338626,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 338182,
+        "word": "中国电动车企绝不能内讧",
+        "onboard_time": 1730468059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10054,
+        "num": 337607,
+        "word": "媒体评山姆超市卤菜阴阳标签",
+        "onboard_time": 1730468000,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522833,
+        "num": 336513,
+        "word": "日本游泳选手夺冠后多游了一圈",
+        "onboard_time": 1730462718,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399746,
+        "num": 336276,
+        "word": "男女厕位比1比2是社会进步",
+        "onboard_time": 1730458036,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335582,
+        "num": 335582,
+        "word": "向佐回应郭碧婷是嫁给向太",
+        "onboard_time": 1730468059,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11534,
+        "num": 333756,
+        "word": "山姆回应冷藏菜品实为冷冻预制",
+        "onboard_time": 1730468179,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117159,
+        "num": 318279,
+        "word": "闫妮要给宁静拌蛇瓜",
+        "onboard_time": 1730467760,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426157,
+        "num": 312376,
+        "word": "宋仲基和张紫妍案加害人合影",
+        "onboard_time": 1730452038,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398021,
+        "num": 304095,
+        "word": "鞠婧祎已申请笔迹鉴定",
+        "onboard_time": 1730434279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298849,
+        "num": 298849,
+        "word": "闵塔鲨用心",
+        "onboard_time": 1730467280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278301,
+        "num": 278301,
+        "word": "白鹿泰国见面会绿毯",
+        "onboard_time": 1730457499,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278003,
+        "num": 278003,
+        "word": "南宁一公交车发生交通事故",
+        "onboard_time": 1730463799,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268852,
+        "num": 268852,
+        "word": "白鹿小水同框",
+        "onboard_time": 1730462118,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20290,
+        "num": 267557,
+        "word": "戚薇能破浪也能聚浪",
+        "onboard_time": 1730466919,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266903,
+        "num": 266903,
+        "word": "陈梦回应奥运单打名额舆论",
+        "onboard_time": 1730453058,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255309,
+        "num": 255309,
+        "word": "丝芭传媒起诉鞠婧祎",
+        "onboard_time": 1730428878,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251565,
+        "num": 251565,
+        "word": "赵丽颖陶昕然 女演员之间的惺惺相惜",
+        "onboard_time": 1730462178,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226559,
+        "num": 226559,
+        "word": "权志龙用APT当BGM",
+        "onboard_time": 1730461819,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199710,
+        "num": 199710,
+        "word": "雷军再回应小米15涨价",
+        "onboard_time": 1730467099,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197714,
+        "num": 197714,
+        "word": "姐姐刚肠癌去世弟弟也查出肠癌晚期",
+        "onboard_time": 1730432359,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193050,
+        "num": 193050,
+        "word": "小巷人家",
+        "onboard_time": 1730465418,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190524,
+        "num": 190524,
+        "word": "永夜星河开播十分钟就全剧终",
+        "onboard_time": 1730435060,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38667,
+        "num": 181429,
+        "word": "当国民阿姨遇上超市采销",
+        "onboard_time": 1730463019,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175136,
+        "num": 175136,
+        "word": "珠帘玉幕观后感",
+        "onboard_time": 1730459838,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171194,
+        "num": 171194,
+        "word": "暗夜条件下如何迎接航天员",
+        "onboard_time": 1730466018,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "迪丽热巴出场动态碎片",
+        "onboard_time": 1730467641,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144335,
+        "num": 144335,
+        "word": "WTA年终总决赛合影郑钦文C位",
+        "onboard_time": 1730463499,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143478,
+        "num": 143478,
+        "word": "乔任梁父母再次回应其死因",
+        "onboard_time": 1730432479,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139242,
+        "num": 139242,
+        "word": "周洁琼新剧亲爸变后爸",
+        "onboard_time": 1730465000,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136805,
+        "num": 136805,
+        "word": "覃海洋50米蛙金牌",
+        "onboard_time": 1730462359,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135136,
+        "num": 135136,
+        "word": "高亚麟深夜发文",
+        "onboard_time": 1730444417,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125630,
+        "num": 125630,
+        "word": "程莉莎让郭晓东道歉",
+        "onboard_time": 1730450718,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125306,
+        "num": 125306,
+        "word": "永夜星河里的陈都灵",
+        "onboard_time": 1730463978,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123248,
+        "num": 123248,
+        "word": "林俊杰重庆演唱会",
+        "onboard_time": 1730464279,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122403,
+        "num": 122403,
+        "word": "赵丽颖连包10场支持陶昕然新片",
+        "onboard_time": 1730464099,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120022,
+        "num": 120022,
+        "word": "非农数据",
+        "onboard_time": 1730466499,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109163,
+        "num": 109163,
+        "word": "陈母问勇答曰祥榕勇冠三军",
+        "onboard_time": 1730464279,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}

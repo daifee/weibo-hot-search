@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730467708355,
+  "endTime": 1730468403383,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1155795,
+      "num": 1184927,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1730465418,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147306,
       "num": 772855,
       "word": "陈梦回应奥运单打名额舆论",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1061132,
-      "num": 1169781,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1730465418,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1055335,
       "num": 1055335,
       "word": "国考缴费",
@@ -192,6 +192,14 @@
       "word": "乔任梁父亲支持朱桢报警",
       "onboard_time": 1730388320,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 980354,
+      "num": 413739,
+      "word": "纽约地铁偶遇李维嘉",
+      "onboard_time": 1730463499,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -395,19 +403,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 635938,
-      "num": 413739,
-      "word": "纽约地铁偶遇李维嘉",
-      "onboard_time": 1730463499,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 624742,
       "num": 250600,
       "word": "乔任梁父母称网上遗体照是二次伤害",
       "onboard_time": 1730379019,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 623313,
+      "num": 392370,
+      "word": "赵露思直播",
+      "onboard_time": 1730465238,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598030,
-      "num": 392370,
-      "word": "赵露思直播",
-      "onboard_time": 1730465238,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595878,
       "num": 230952,
       "word": "车辆坠河23天后疑发现准新娘遗体",
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 584274,
-      "num": 338813,
+      "num": 339140,
       "word": "美邦老板直言找贾乃亮带货效果一般",
       "onboard_time": 1730464279,
       "rank": 25,
@@ -489,6 +489,14 @@
       "onboard_time": 1730450599,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559662,
+      "num": 338626,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 559161,
@@ -521,14 +529,6 @@
       "onboard_time": 1730390057,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526791,
-      "num": 336522,
-      "word": "永夜星河",
-      "onboard_time": 1730387120,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 520269,
@@ -803,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335582,
+      "num": 335582,
+      "word": "向佐回应郭碧婷是嫁给向太",
+      "onboard_time": 1730468059,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331265,
       "num": 331265,
       "word": "特朗普坐垃圾车回应拜登垃圾言论",
@@ -825,6 +833,14 @@
       "onboard_time": 1730387359,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 298849,
+      "num": 298849,
+      "word": "闵塔鲨用心",
+      "onboard_time": 1730467280,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 295065,
@@ -889,6 +905,14 @@
       "onboard_time": 1730439499,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278003,
+      "num": 330623,
+      "word": "南宁一公交车发生交通事故",
+      "onboard_time": 1730463799,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -1259,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199710,
+      "num": 199710,
+      "word": "雷军再回应小米15涨价",
+      "onboard_time": 1730467099,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199561,
       "num": 199561,
       "word": "警方及乔爸早已公布乔任梁非他杀",
@@ -1299,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194971,
-      "num": 330623,
-      "word": "南宁一公交车发生交通事故",
-      "onboard_time": 1730463799,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193449,
       "num": 193449,
       "word": "中国代表主动出击先来说一说美国",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1730466499,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 189942,
-      "num": 189942,
-      "word": "闵塔鲨用心",
-      "onboard_time": 1730467280,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 189873,
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 173467,
-      "num": 173467,
+      "num": 341206,
       "word": "神十八乘组将于11月4日回家",
       "onboard_time": 1730466319,
       "rank": 32,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1730431219,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159832,
-      "num": 159832,
-      "word": "雷军再回应小米15涨价",
-      "onboard_time": 1730467099,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 159740,
@@ -2177,6 +2185,14 @@
       "onboard_time": 1730385381,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117159,
+      "num": 318279,
+      "word": "闫妮要给宁静拌蛇瓜",
+      "onboard_time": 1730467760,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 117106,
@@ -2907,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29299,
+      "num": 338182,
+      "word": "中国电动车企绝不能内讧",
+      "onboard_time": 1730468059,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28584,
       "num": 1249252,
       "word": "神十九发射任务全回顾",
@@ -2980,7 +3004,7 @@
     },
     {
       "raw_hot": 24229,
-      "num": 161491,
+      "num": 267557,
       "word": "戚薇能破浪也能聚浪",
       "onboard_time": 1730466919,
       "rank": 35,
@@ -3195,12 +3219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11534,
+      "num": 333756,
+      "word": "山姆回应冷藏菜品实为冷冻预制",
+      "onboard_time": 1730468179,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10132,
       "num": 144526,
       "word": "刘宇下班直播",
       "onboard_time": 1730417777,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10054,
+      "num": 337607,
+      "word": "媒体评山姆超市卤菜阴阳标签",
+      "onboard_time": 1730468000,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7610,
