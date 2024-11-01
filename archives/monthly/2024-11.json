@@ -1,7 +1,15 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730427118246,
+  "endTime": 1730430190032,
   "band_list": [
+    {
+      "raw_hot": 2974369,
+      "num": 353692,
+      "word": "丝芭传媒起诉鞠婧祎",
+      "onboard_time": 1730428878,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2943052,
       "num": 2943052,
@@ -12,11 +20,27 @@
     },
     {
       "raw_hot": 1966535,
-      "num": 474577,
+      "num": 568059,
       "word": "美国大选",
       "onboard_time": 1730423538,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1788528,
+      "num": 350198,
+      "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
+      "onboard_time": 1730426718,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1770130,
+      "num": 348577,
+      "word": "包贝尔否认乔任梁传言",
+      "onboard_time": 1730428457,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1593277,
@@ -36,15 +60,23 @@
     },
     {
       "raw_hot": 1051616,
-      "num": 252751,
+      "num": 339880,
       "word": "乔任梁父亲支持朱桢报警",
       "onboard_time": 1730388320,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 822168,
+      "num": 822168,
+      "word": "今起纸质火车票成为历史",
+      "onboard_time": 1730426598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811959,
-      "num": 225558,
+      "num": 342889,
       "word": "江歌妈妈60秒以上广告报价7万",
       "onboard_time": 1730417477,
       "rank": 25,
@@ -52,7 +84,7 @@
     },
     {
       "raw_hot": 752078,
-      "num": 225306,
+      "num": 338056,
       "word": "不敢认安孝燮了",
       "onboard_time": 1730419878,
       "rank": 11,
@@ -68,7 +100,7 @@
     },
     {
       "raw_hot": 705881,
-      "num": 235839,
+      "num": 240584,
       "word": "女子怀孕后被代孕机构拉黑",
       "onboard_time": 1730380458,
       "rank": 15,
@@ -81,6 +113,14 @@
       "onboard_time": 1730418198,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 641026,
+      "num": 641026,
+      "word": "哈里斯做好特朗普提前宣布胜选准备",
+      "onboard_time": 1730426598,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 624742,
@@ -112,6 +152,14 @@
       "word": "失联少年疑在缅甸背货1趟赚10万",
       "onboard_time": 1730384421,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568712,
+      "num": 568712,
+      "word": "大学生毕业做保洁第一个月收入8千",
+      "onboard_time": 1730427018,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -171,12 +219,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360188,
+      "num": 360188,
+      "word": "加沙医院院长亲手埋葬被杀的儿子",
+      "onboard_time": 1730423898,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 336682,
+      "num": 336682,
+      "word": "乔任梁父母再回应非本人质疑",
+      "onboard_time": 1730428878,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331265,
       "num": 331265,
       "word": "特朗普坐垃圾车回应拜登垃圾言论",
       "onboard_time": 1730388079,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 330810,
+      "num": 330810,
+      "word": "台湾地震",
+      "onboard_time": 1730417055,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330159,
+      "num": 359924,
+      "word": "小小的我",
+      "onboard_time": 1730428158,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 314058,
@@ -193,6 +273,14 @@
       "onboard_time": 1730411771,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293286,
+      "num": 293286,
+      "word": "丝芭传媒",
+      "onboard_time": 1730429058,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 286974,
@@ -227,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263535,
+      "num": 263535,
+      "word": "丫丫没脖子了",
+      "onboard_time": 1730429238,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258221,
       "num": 258221,
       "word": "麦琳",
@@ -235,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255574,
-      "num": 255574,
-      "word": "加沙医院院长亲手埋葬被杀的儿子",
-      "onboard_time": 1730423898,
-      "rank": 25,
-      "category": "国外时政"
+      "raw_hot": 256979,
+      "num": 356378,
+      "word": "侯佩岑 以爱之名行控制之实",
+      "onboard_time": 1730427498,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 253415,
@@ -291,20 +387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225675,
-      "num": 225675,
-      "word": "今起纸质火车票成为历史",
-      "onboard_time": 1730426598,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217064,
       "num": 217064,
       "word": "闵塔鲨 敷衍",
       "onboard_time": 1730380701,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212083,
+      "num": 212083,
+      "word": "女聊手撩拨用户聊天记录曝光",
+      "onboard_time": 1730427258,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209882,
@@ -323,19 +419,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201119,
+      "num": 231703,
+      "word": "TXT新歌造型被审判",
+      "onboard_time": 1730428878,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "上海台风",
       "onboard_time": 1730417055,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200937,
-      "num": 124305,
-      "word": "台湾地震",
-      "onboard_time": 1730417055,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -363,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187175,
+      "num": 187175,
+      "word": "中国代表主动出击先来说一说美国",
+      "onboard_time": 1730426537,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186011,
       "num": 186011,
       "word": "自助烤土豆为什么突然火了",
@@ -377,6 +481,14 @@
       "onboard_time": 1730426417,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 180438,
+      "num": 180438,
+      "word": "郑思维女儿出生",
+      "onboard_time": 1730430079,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 178981,
@@ -411,12 +523,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 173605,
+      "num": 173605,
+      "word": "姚明辞职是一场改革失败后的离场",
+      "onboard_time": 1730428278,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170084,
       "num": 170084,
       "word": "明日方舟",
       "onboard_time": 1730426058,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168583,
+      "num": 168583,
+      "word": "台风康妮今天或在浙江沿海登陆",
+      "onboard_time": 1730419999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164535,
+      "num": 164535,
+      "word": "34岁女生在英国留学的阶级跨越",
+      "onboard_time": 1730430140,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 160896,
@@ -433,6 +569,14 @@
       "onboard_time": 1730422759,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159662,
+      "num": 159662,
+      "word": "香格里拉古城满大街都是猫皮制品",
+      "onboard_time": 1730429058,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 156499,
@@ -467,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145740,
+      "num": 223348,
+      "word": "永夜星河",
+      "onboard_time": 1730387120,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144351,
       "num": 144351,
       "word": "巴黎奥运励志后续",
@@ -481,6 +633,14 @@
       "onboard_time": 1730418377,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135561,
+      "num": 221653,
+      "word": "麦琳 自相矛盾",
+      "onboard_time": 1730429479,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 134927,
@@ -507,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132654,
+      "num": 132654,
+      "word": "任正非称英语是华为工作语言",
+      "onboard_time": 1730429538,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129616,
       "num": 129616,
       "word": "石宇奇留院观察中",
@@ -523,19 +691,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126075,
-      "num": 126075,
-      "word": "哈里斯做好特朗普提前宣布胜选准备",
-      "onboard_time": 1730426598,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 123843,
-      "num": 123843,
-      "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
-      "onboard_time": 1730426718,
-      "rank": 36,
+      "raw_hot": 126793,
+      "num": 126793,
+      "word": "反诈民警提醒网上交友一定要慎重",
+      "onboard_time": 1730428338,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -545,6 +705,14 @@
       "onboard_time": 1730384179,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123464,
+      "num": 160229,
+      "word": "赵露思珠帘玉幕潜水花絮",
+      "onboard_time": 1730428699,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 120307,
@@ -603,14 +771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111388,
-      "num": 111388,
-      "word": "中国代表主动出击先来说一说美国",
-      "onboard_time": 1730426537,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 111305,
       "num": 111305,
       "word": "十一月对我好一点",
@@ -632,14 +792,6 @@
       "word": "大梦归离两个大男人互扇巴掌",
       "onboard_time": 1730388560,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 103564,
-      "num": 103564,
-      "word": "永夜星河",
-      "onboard_time": 1730387120,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -665,14 +817,6 @@
       "onboard_time": 1730374700,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96358,
-      "num": 96358,
-      "word": "大学生毕业做保洁第一个月收入8千",
-      "onboard_time": 1730427018,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95708,
@@ -713,14 +857,6 @@
       "onboard_time": 1730387719,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88898,
-      "num": 88898,
-      "word": "台风康妮今天或在浙江沿海登陆",
-      "onboard_time": 1730419999,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88103,
@@ -875,11 +1011,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49129,
+      "num": 355484,
+      "word": "直击姐姐为弟追凶26年案庭审",
+      "onboard_time": 1730428938,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41535,
       "num": 41535,
       "word": "上海地铁",
       "onboard_time": 1730372059,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40403,
+      "num": 347167,
+      "word": "为亡弟追凶姐姐寻弟时被拐卖两次",
+      "onboard_time": 1730429119,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1004,7 +1156,7 @@
     },
     {
       "raw_hot": 20435,
-      "num": 479082,
+      "num": 685126,
       "word": "11月这批新规将施行",
       "onboard_time": 1730388740,
       "rank": 2,
@@ -1033,6 +1185,14 @@
       "onboard_time": 1730411712,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17342,
+      "num": 343756,
+      "word": "儿童流感防护手册",
+      "onboard_time": 1730430018,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 16291,
