@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730499651603,
+  "endTime": 1730500740040,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -115,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 285422,
+      "num": 285422,
+      "word": "山姆多款冷冻预制菜品解冻后销售",
+      "onboard_time": 1730475320,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284579,
       "num": 197407,
       "word": "睡觉时越睡越美的姿势找到了",
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256053,
+      "num": 256053,
+      "word": "数十名登山者擅闯别墅泳池洗鞋",
+      "onboard_time": 1730483173,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240360,
       "num": 99975,
       "word": "印度教牧师自称会飞当众展示时摔亡",
@@ -193,22 +209,6 @@
       "onboard_time": 1730464279,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 202542,
-      "num": 202542,
-      "word": "数十名登山者擅闯别墅泳池洗鞋",
-      "onboard_time": 1730483173,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198547,
-      "num": 198547,
-      "word": "山姆多款冷冻预制菜品解冻后销售",
-      "onboard_time": 1730475320,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189783,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86263,
+      "num": 39339,
+      "word": "女生因发量少自卑剃成光头做自己",
+      "onboard_time": 1730489230,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79630,
       "num": 79630,
       "word": "猛蛇过江回应被指是凶手",
@@ -483,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72560,
+      "num": 72560,
+      "word": "烧伤妈妈看到孩子视频落泪",
+      "onboard_time": 1730499191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70535,
       "num": 70535,
       "word": "庄图南 不共情妈妈",
       "onboard_time": 1730480116,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66219,
-      "num": 32667,
-      "word": "女生因发量少自卑剃成光头做自己",
-      "onboard_time": 1730489230,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64994,
@@ -539,6 +547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 52274,
+      "num": 52274,
+      "word": "悉尼偶遇宋雨琦minnie",
+      "onboard_time": 1730499312,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51482,
       "num": 51482,
       "word": "赵露思回应端午品如上身",
@@ -547,20 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43936,
-      "num": 43936,
+      "raw_hot": 50122,
+      "num": 50122,
       "word": "男子出狱近9个月重新被羁押",
       "onboard_time": 1730490971,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43186,
-      "num": 43186,
-      "word": "悉尼偶遇宋雨琦minnie",
-      "onboard_time": 1730499312,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 38729,
+      "num": 46377,
+      "word": "法院回应判决书写错4年刑期变3年",
+      "onboard_time": 1730492231,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37872,
@@ -568,14 +584,6 @@
       "word": "姐姐追凶结束后想让弟弟跟爸爸合葬",
       "onboard_time": 1730486832,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34321,
-      "num": 46377,
-      "word": "法院回应判决书写错4年刑期变3年",
-      "onboard_time": 1730492231,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -643,20 +651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15664,
-      "num": 69597,
-      "word": "烧伤妈妈看到孩子视频落泪",
-      "onboard_time": 1730499191,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15370,
       "num": 17411,
       "word": "以公正文明执法护航高质量发展",
       "onboard_time": 1730492651,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15281,
+      "num": 41663,
+      "word": "今日北京继续大雾黄色预警",
+      "onboard_time": 1730499912,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14441,
