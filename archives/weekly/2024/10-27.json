@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730561062619,
+  "endTime": 1730561859435,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2991958,
+      "num": 2991958,
+      "word": "薛之谦晒与赵露思聊天记录",
+      "onboard_time": 1730560582,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2985991,
       "num": 2985991,
       "word": "生育补贴",
@@ -153,14 +161,6 @@
       "onboard_time": 1730160318,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2830694,
-      "num": 2830694,
-      "word": "薛之谦晒与赵露思聊天记录",
-      "onboard_time": 1730560582,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 2798059,
@@ -337,6 +337,14 @@
       "onboard_time": 1730206520,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2195672,
+      "num": 618886,
+      "word": "肖战发文为赵露思新剧打call",
+      "onboard_time": 1730561360,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2178945,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1861305,
-      "num": 505311,
+      "num": 531657,
       "word": "摇人",
       "onboard_time": 1730558300,
       "rank": 10,
@@ -3675,6 +3683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606875,
+      "num": 531252,
+      "word": "乔任梁母亲发声",
+      "onboard_time": 1730559922,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605665,
       "num": 605665,
       "word": "WTT法兰克福冠军赛2024",
@@ -4363,6 +4379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 530614,
+      "num": 530614,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1730560165,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530574,
       "num": 246181,
       "word": "王大发回应荣梓杉方",
@@ -4884,7 +4908,7 @@
     },
     {
       "raw_hot": 476420,
-      "num": 263838,
+      "num": 278624,
       "word": "Rita好美",
       "onboard_time": 1730560344,
       "rank": 30,
@@ -4929,14 +4953,6 @@
       "onboard_time": 1730181501,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 473121,
-      "num": 473121,
-      "word": "乔任梁母亲发声",
-      "onboard_time": 1730559922,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 472712,
@@ -5787,6 +5803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389444,
+      "num": 389444,
+      "word": "没有伤害任何人",
+      "onboard_time": 1730559680,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389336,
       "num": 285115,
       "word": "26楼扔猫外卖员已被平台永久拉黑",
@@ -5857,6 +5881,14 @@
       "onboard_time": 1730178201,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385444,
+      "num": 494201,
+      "word": "Knight单杀Faker",
+      "onboard_time": 1730560285,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 384529,
@@ -6369,14 +6401,6 @@
       "onboard_time": 1730091080,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 349149,
-      "num": 494201,
-      "word": "Knight单杀Faker",
-      "onboard_time": 1730560285,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 347759,
@@ -7355,6 +7379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291956,
+      "num": 473189,
+      "word": "重庆工商大学通报学生称被恶意阻拦毕业",
+      "onboard_time": 1730559801,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291858,
       "num": 291858,
       "word": "430万购买法拍房内部装修遭毁坏",
@@ -7652,7 +7684,7 @@
     },
     {
       "raw_hot": 278698,
-      "num": 278698,
+      "num": 289421,
       "word": "李明德20天瘦了12斤",
       "onboard_time": 1730560404,
       "rank": 25,
@@ -7721,14 +7753,6 @@
       "onboard_time": 1730434459,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273561,
-      "num": 485304,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1730560165,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 273421,
@@ -8683,6 +8707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243506,
+      "num": 284892,
+      "word": "张艺兴 破防是我今晚的命题",
+      "onboard_time": 1730560344,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243306,
       "num": 522428,
       "word": "神十九发射任务各系统准备就绪",
@@ -9611,6 +9643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219355,
+      "num": 281572,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "F勒布伦4比1张本智和",
@@ -9721,14 +9761,6 @@
       "onboard_time": 1730274317,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 216151,
-      "num": 216151,
-      "word": "没有伤害任何人",
-      "onboard_time": 1730559680,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 216003,
@@ -10099,14 +10131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207437,
-      "num": 207437,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207399,
       "num": 207399,
       "word": "成都回应女子代孕怀上后遭机构拉黑",
@@ -10169,6 +10193,14 @@
       "onboard_time": 1730111599,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206534,
+      "num": 531903,
+      "word": "美国女子带两娃跳下60米高瀑布",
+      "onboard_time": 1730561003,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206458,
@@ -10387,6 +10419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202200,
+      "num": 202200,
+      "word": "永夜星河宣传",
+      "onboard_time": 1730561300,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202137,
       "num": 202137,
       "word": "李一桐 我想死她们了",
@@ -10396,7 +10436,7 @@
     },
     {
       "raw_hot": 202062,
-      "num": 516565,
+      "num": 714199,
       "word": "BLG总决赛先下一城",
       "onboard_time": 1730560103,
       "rank": 9,
@@ -10841,14 +10881,6 @@
       "onboard_time": 1730043262,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196622,
-      "num": 196622,
-      "word": "张艺兴 破防是我今晚的命题",
-      "onboard_time": 1730560344,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 196177,
@@ -12371,6 +12403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176436,
+      "num": 176436,
+      "word": "BLG 一血",
+      "onboard_time": 1730561662,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176407,
       "num": 359732,
       "word": "虞书欣期待去看全红婵比赛",
@@ -12592,14 +12632,6 @@
       "word": "10月最后一天",
       "onboard_time": 1730339958,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173519,
-      "num": 473189,
-      "word": "重庆工商大学通报学生称被恶意阻拦毕业",
-      "onboard_time": 1730559801,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -12937,6 +12969,14 @@
       "onboard_time": 1730464219,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169161,
+      "num": 169161,
+      "word": "无锡1岁男童走失遗体在河道被发现",
+      "onboard_time": 1730561481,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168786,
@@ -13457,6 +13497,14 @@
       "onboard_time": 1730200461,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161844,
+      "num": 161844,
+      "word": "我家那小子",
+      "onboard_time": 1730561662,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 161834,
@@ -15171,6 +15219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139198,
+      "num": 139198,
+      "word": "杨丞琳演唱会",
+      "onboard_time": 1730561541,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139190,
       "num": 139190,
       "word": "babymonster空降",
@@ -15361,14 +15417,6 @@
       "onboard_time": 1730545578,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136455,
-      "num": 264642,
-      "word": "美国女子带两娃跳下60米高瀑布",
-      "onboard_time": 1730561003,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136436,
@@ -17795,6 +17843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86528,
+      "num": 474540,
+      "word": "长期穿鲨鱼裤易增加真菌感染风险",
+      "onboard_time": 1730559987,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86322,
       "num": 120701,
       "word": "北斗七行包场秦海璐新电影",
@@ -18344,14 +18400,6 @@
       "word": "央视小编和AI一起为你写了首歌",
       "onboard_time": 1730134935,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68583,
-      "num": 474540,
-      "word": "长期穿鲨鱼裤易增加真菌感染风险",
-      "onboard_time": 1730559987,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -21873,6 +21921,14 @@
       "onboard_time": 1730149691,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15094,
+      "num": 358702,
+      "word": "Gumayusi又送一血",
+      "onboard_time": 1730561781,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 15062,
