@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730540146429,
+  "endTime": 1730542908833,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -291,6 +291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1008031,
+      "num": 1161284,
+      "word": "私人影院肢体接触明码标价",
+      "onboard_time": 1730540598,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980354,
       "num": 573988,
       "word": "纽约地铁偶遇李维嘉",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 909479,
+      "num": 321252,
+      "word": "乔任梁离世8年不得安息该适可而止了",
+      "onboard_time": 1730539459,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889694,
       "num": 889694,
       "word": "两女子当租赁伴娘遭新娘拒付尾款",
@@ -369,6 +385,14 @@
       "onboard_time": 1730500813,
       "rank": 23,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 880401,
+      "num": 261837,
+      "word": "赵露思晒泳照",
+      "onboard_time": 1730541318,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 876770,
@@ -441,6 +465,14 @@
       "onboard_time": 1730452217,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788815,
+      "num": 280732,
+      "word": "一学生实名举报重庆某高校",
+      "onboard_time": 1730536398,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 786022,
@@ -1075,14 +1107,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 444029,
-      "num": 321252,
-      "word": "乔任梁离世8年不得安息该适可而止了",
-      "onboard_time": 1730539459,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443947,
       "num": 443947,
       "word": "赵丽颖陶昕然 女演员之间的惺惺相惜",
@@ -1307,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370748,
+      "num": 336449,
+      "word": "边牧走丢后自己去派出所报警",
+      "onboard_time": 1730537658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369302,
       "num": 369302,
       "word": "WTT法兰克福冠军赛抽签仪式",
@@ -1419,14 +1451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336449,
-      "num": 336449,
-      "word": "边牧走丢后自己去派出所报警",
-      "onboard_time": 1730537658,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335701,
       "num": 335701,
       "word": "村民带女子去未开发水域潜水溺亡",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1730511257,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303990,
+      "num": 303990,
+      "word": "如果BLG夺冠",
+      "onboard_time": 1730540478,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 303771,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1730453119,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281089,
+      "num": 281089,
+      "word": "哈尔滨冰雪大世界扩至100万平米",
+      "onboard_time": 1730538977,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280826,
@@ -1747,12 +1787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259378,
-      "num": 280732,
-      "word": "一学生实名举报重庆某高校",
-      "onboard_time": 1730536398,
-      "rank": 12,
+      "raw_hot": 260825,
+      "num": 264224,
+      "word": "婚姻里一定要有私房钱",
+      "onboard_time": 1730538619,
+      "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260373,
+      "num": 189398,
+      "word": "付航忘加何老师微信好友",
+      "onboard_time": 1730539819,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 258221,
@@ -2235,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197900,
+      "num": 261301,
+      "word": "张大大晒与赵露思华晨宇合照",
+      "onboard_time": 1730542518,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197453,
       "num": 197453,
       "word": "赵露思刘宇宁cp玄学",
@@ -2291,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191895,
+      "num": 261739,
+      "word": "燕子京 死嘴你快哄啊",
+      "onboard_time": 1730541738,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191767,
       "num": 191767,
       "word": "尔滨导游一走神小金土豆就付款了",
@@ -2336,14 +2400,6 @@
       "word": "麦琳 自相矛盾",
       "onboard_time": 1730429479,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189398,
-      "num": 189398,
-      "word": "付航忘加何老师微信好友",
-      "onboard_time": 1730539819,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2561,14 +2617,6 @@
       "onboard_time": 1730529857,
       "rank": 34,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 175648,
-      "num": 175648,
-      "word": "哈尔滨冰雪大世界扩至100万平米",
-      "onboard_time": 1730538977,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175517,
@@ -2883,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159303,
+      "num": 258985,
+      "word": "上海海港夺得中超冠军",
+      "onboard_time": 1730540058,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159215,
       "num": 215483,
       "word": "全国第一张火车票电子发票来自苏州",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1730439439,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156685,
+      "num": 163008,
+      "word": "蒲熠星画了名学第100季的logo",
+      "onboard_time": 1730542218,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 156509,
@@ -3315,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140536,
+      "num": 140536,
+      "word": "金智秀新歌制作团队",
+      "onboard_time": 1730540778,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140480,
       "num": 381821,
       "word": "陈母问勇答曰祥榕勇冠三军",
@@ -3377,14 +3449,6 @@
       "onboard_time": 1730474839,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135785,
-      "num": 264224,
-      "word": "婚姻里一定要有私房钱",
-      "onboard_time": 1730538619,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135361,
@@ -3601,6 +3665,14 @@
       "onboard_time": 1730516056,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127595,
+      "num": 127595,
+      "word": "永夜星河 卡剧情",
+      "onboard_time": 1730525598,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 127584,
@@ -3851,14 +3923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116261,
-      "num": 116261,
-      "word": "永夜星河 卡剧情",
-      "onboard_time": 1730525598,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116006,
       "num": 235151,
       "word": "中国第41次南极考察队破浪出征",
@@ -3913,6 +3977,14 @@
       "onboard_time": 1730444959,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "S14决赛宣传片",
+      "onboard_time": 1730542097,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 113463,
@@ -4033,6 +4105,14 @@
       "onboard_time": 1730533036,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107770,
+      "num": 107770,
+      "word": "男子为结婚花10万为女友前夫做法事",
+      "onboard_time": 1730542278,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107478,
@@ -4315,6 +4395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88816,
+      "num": 262483,
+      "word": "波音把厕所皂液器80倍价格卖美军",
+      "onboard_time": 1730541678,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 88246,
       "num": 88246,
       "word": "网红博主拍视频挑战吃猪饲料",
@@ -4443,6 +4531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79052,
+      "num": 95763,
+      "word": "中超大结局",
+      "onboard_time": 1730542578,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78645,
       "num": 70258,
       "word": "蒯曼vs钱天一",
@@ -4491,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73288,
+      "num": 95680,
+      "word": "WTT法兰克福冠军赛首轮对阵",
+      "onboard_time": 1730542758,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72540,
       "num": 72540,
       "word": "蒯曼3比0大藤沙月",
@@ -4505,6 +4609,14 @@
       "onboard_time": 1730385740,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71988,
+      "num": 244297,
+      "word": "大冰回应帮麦子阿姨向南走",
+      "onboard_time": 1730542518,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 70535,
@@ -4763,14 +4875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49347,
-      "num": 258985,
-      "word": "上海海港夺得中超冠军",
-      "onboard_time": 1730540058,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48536,
       "num": 347167,
       "word": "为亡弟追凶姐姐寻弟时被拐卖两次",
@@ -4979,7 +5083,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37935,
+      "raw_hot": 38148,
       "num": 696720,
       "word": "公安部网安局揭开帮信罪真面目",
       "onboard_time": 1730539159,
@@ -5375,6 +5479,14 @@
       "num": 262354,
       "word": "美大选前夕多家美商户加固门面防骚乱",
       "onboard_time": 1730451318,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23121,
+      "num": 160103,
+      "word": "南京玄武湖惊现野猪横渡",
+      "onboard_time": 1730541798,
       "rank": 29,
       "category": "社会新闻"
     },
