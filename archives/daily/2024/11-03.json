@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730572864165,
+  "endTime": 1730575169731,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -75,6 +75,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1285632,
+      "num": 1285632,
+      "word": "Faker LPL无法逾越的大山",
+      "onboard_time": 1730572702,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1282167,
+      "num": 1282167,
+      "word": "Faker FMVP",
+      "onboard_time": 1730573836,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1087761,
       "num": 1087761,
       "word": "BLG赛点",
@@ -107,14 +123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 834113,
-      "num": 834113,
-      "word": "Faker LPL无法逾越的大山",
-      "onboard_time": 1730572702,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 758688,
       "num": 4134615,
       "word": "医生提醒别把鲨鱼裤当秋裤穿",
@@ -132,17 +140,41 @@
     },
     {
       "raw_hot": 664493,
-      "num": 835580,
+      "num": 1285739,
       "word": "永夜星河",
       "onboard_time": 1730545098,
       "rank": 4,
       "category": "剧集"
     },
     {
+      "raw_hot": 627145,
+      "num": 627145,
+      "word": "BLG教练",
+      "onboard_time": 1730563522,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 616290,
       "num": 372190,
       "word": "Faker状态",
       "onboard_time": 1730566580,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 613687,
+      "num": 613687,
+      "word": "Bin哥厉害",
+      "onboard_time": 1730569757,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 596295,
+      "num": 596295,
+      "word": "BLG 自ban蝎子",
+      "onboard_time": 1730571014,
       "rank": 35,
       "category": "电竞"
     },
@@ -171,19 +203,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552890,
+      "num": 552890,
+      "word": "Uzi捧杯图P好了",
+      "onboard_time": 1730574496,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 537332,
       "num": 537332,
       "word": "Faker世界赛500杀",
       "onboard_time": 1730569161,
       "rank": 22,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 536929,
-      "num": 536929,
-      "word": "BLG教练",
-      "onboard_time": 1730563522,
-      "rank": 26,
       "category": "电竞"
     },
     {
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 482842,
-      "num": 271728,
+      "num": 367897,
       "word": "小伙称按摩后禁不住怂恿花一万五",
       "onboard_time": 1730563403,
       "rank": 15,
@@ -219,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431186,
+      "num": 431186,
+      "word": "Zeus就这样穿着V5出来了",
+      "onboard_time": 1730574376,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 414501,
       "num": 542730,
       "word": "郑钦文vs萨巴伦卡",
@@ -227,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400518,
+      "num": 319741,
+      "word": "Bin直视镜头",
+      "onboard_time": 1730573477,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390838,
       "num": 390838,
       "word": "乔任梁",
       "onboard_time": 1730567118,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381797,
+      "num": 381797,
+      "word": "谁说Faker老了这Faker太棒了",
+      "onboard_time": 1730573596,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 378284,
@@ -252,7 +308,7 @@
     },
     {
       "raw_hot": 365816,
-      "num": 1226901,
+      "num": 1350542,
       "word": "郑钦文总决赛首秀落败",
       "onboard_time": 1730565920,
       "rank": 15,
@@ -275,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318536,
-      "num": 318536,
-      "word": "BLG 自ban蝎子",
-      "onboard_time": 1730571014,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 317679,
       "num": 238385,
       "word": "金靖生子",
       "onboard_time": 1730533758,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308893,
+      "num": 308893,
+      "word": "Keria泪洒赛场",
+      "onboard_time": 1730573417,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 304215,
@@ -315,20 +371,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280492,
+      "num": 280492,
+      "word": "TES",
+      "onboard_time": 1730563882,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 269109,
       "num": 269109,
       "word": "被拐34年男子认亲一年后与家人决裂",
       "onboard_time": 1730546359,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265168,
-      "num": 265168,
-      "word": "TES",
-      "onboard_time": 1730563882,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 257922,
@@ -404,11 +460,19 @@
     },
     {
       "raw_hot": 204391,
-      "num": 335651,
+      "num": 345097,
       "word": "虞书欣很会选剧本",
       "onboard_time": 1730547258,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202221,
+      "num": 202221,
+      "word": "七年了还是这个加里奥",
+      "onboard_time": 1730573357,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 198548,
@@ -427,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195918,
+      "num": 195918,
+      "word": "Knight单杀Faker",
+      "onboard_time": 1730560285,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195705,
       "num": 195705,
       "word": "李明德20天瘦了12斤",
@@ -440,6 +512,14 @@
       "word": "BLG的BP",
       "onboard_time": 1730563701,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185427,
+      "num": 185427,
+      "word": "LPL",
+      "onboard_time": 1730573178,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -473,6 +553,14 @@
       "onboard_time": 1730548938,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161226,
+      "num": 161226,
+      "word": "ZOFGK",
+      "onboard_time": 1730574315,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 160411,
@@ -532,7 +620,7 @@
     },
     {
       "raw_hot": 133692,
-      "num": 399492,
+      "num": 563488,
       "word": "私人影院低价吸引顾客到店嫖娼",
       "onboard_time": 1730566223,
       "rank": 9,
@@ -544,6 +632,14 @@
       "word": "xun 起床",
       "onboard_time": 1730566580,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131364,
+      "num": 131364,
+      "word": "BLG辅助",
+      "onboard_time": 1730573657,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -563,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123380,
+      "num": 123380,
+      "word": "Uzi说今晚偷奖杯",
+      "onboard_time": 1730545578,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123029,
       "num": 123029,
       "word": "樊振东努力照顾两边的解说",
@@ -579,11 +683,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118955,
-      "num": 118955,
-      "word": "Knight单杀Faker",
-      "onboard_time": 1730560285,
-      "rank": 49,
+      "raw_hot": 119087,
+      "num": 119087,
+      "word": "ON OFF",
+      "onboard_time": 1730574915,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -609,14 +713,6 @@
       "onboard_time": 1730546598,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110955,
-      "num": 110955,
-      "word": "Bin哥厉害",
-      "onboard_time": 1730569757,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 104183,
@@ -668,7 +764,7 @@
     },
     {
       "raw_hot": 82395,
-      "num": 82395,
+      "num": 105161,
       "word": "李佳航为BLG加油",
       "onboard_time": 1730562441,
       "rank": 49,
@@ -692,7 +788,7 @@
     },
     {
       "raw_hot": 64884,
-      "num": 101418,
+      "num": 330524,
       "word": "张雨绮男友回应",
       "onboard_time": 1730572034,
       "rank": 48,
@@ -763,8 +859,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16805,
+      "num": 1282878,
+      "word": "必须把顶层设计和摸着石头过河结合起来",
+      "onboard_time": 1730573776,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15931,
-      "num": 149444,
+      "num": 281270,
       "word": "ChinaTravel热潮背后是满满的机遇",
       "onboard_time": 1730572162,
       "rank": 34,
