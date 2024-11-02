@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730522497068,
+  "endTime": 1730524870719,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1084258,
+      "num": 268466,
+      "word": "美国大选",
+      "onboard_time": 1730522477,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1047505,
       "num": 325530,
       "word": "李宁卫衣",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 971711,
-      "num": 870353,
+      "num": 1150895,
       "word": "花学新课件 田嘉瑞请客烧烤",
       "onboard_time": 1730514857,
       "rank": 14,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 959666,
-      "num": 195598,
+      "num": 235379,
       "word": "湖南一女子被拘禁5年遭强奸产女",
       "onboard_time": 1730518637,
       "rank": 30,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492699,
+      "num": 353896,
+      "word": "肖战庄达菲版射雕创新之处",
+      "onboard_time": 1730522177,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491897,
       "num": 491897,
       "word": "药水哥分享3年爆改历程",
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408013,
+      "num": 408013,
+      "word": "钟南山谈怎么培养孙子的好奇心",
+      "onboard_time": 1730518877,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389485,
       "num": 389485,
       "word": "张泉灵说李行亮和麦麦是想过下去的",
@@ -257,14 +281,6 @@
       "onboard_time": 1730511498,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 383342,
-      "num": 383342,
-      "word": "钟南山谈怎么培养孙子的好奇心",
-      "onboard_time": 1730518877,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381822,
@@ -321,6 +337,14 @@
       "onboard_time": 1730511257,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296575,
+      "num": 296575,
+      "word": "芬兰总统三连感谢中国免签",
+      "onboard_time": 1730523798,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 294615,
@@ -443,12 +467,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237581,
+      "num": 237581,
+      "word": "老人接个电话被骗86万后狂扇耳光",
+      "onboard_time": 1730522238,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231506,
+      "num": 231506,
+      "word": "易烊千玺东京电影节路透",
+      "onboard_time": 1730522177,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220027,
       "num": 220027,
       "word": "女子15万工资未收到9年后才发现",
       "onboard_time": 1730437280,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218964,
+      "num": 218964,
+      "word": "北京套内40平的精致小家",
+      "onboard_time": 1730522358,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 217797,
+      "num": 217797,
+      "word": "邓超晒大饼",
+      "onboard_time": 1730523439,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 214351,
@@ -489,6 +545,14 @@
       "onboard_time": 1730503395,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200913,
+      "num": 200913,
+      "word": "事业单位联考",
+      "onboard_time": 1730523198,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 199271,
@@ -539,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175517,
+      "num": 201199,
+      "word": "张泉灵说麦琳把她搞乱了",
+      "onboard_time": 1730523077,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172816,
       "num": 172816,
       "word": "留几手杨子麦琳",
@@ -561,6 +633,14 @@
       "onboard_time": 1730518877,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163551,
+      "num": 201049,
+      "word": "黄景瑜孙千hi6录制",
+      "onboard_time": 1730524217,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 162850,
@@ -587,12 +667,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158938,
-      "num": 158938,
-      "word": "易烊千玺东京电影节路透",
-      "onboard_time": 1730522177,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 160038,
+      "num": 160038,
+      "word": "2025澳门男子及女子世界杯",
+      "onboard_time": 1730524818,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156509,
+      "num": 156509,
+      "word": "特朗普竞选集会遇刺是特勤局的失败",
+      "onboard_time": 1730523018,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154971,
@@ -659,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141963,
-      "num": 164789,
-      "word": "肖战庄达菲版射雕创新之处",
-      "onboard_time": 1730522177,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 144854,
+      "num": 144854,
+      "word": "喜人复刻二喜舞台",
+      "onboard_time": 1730523617,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 140707,
@@ -673,6 +761,14 @@
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140258,
+      "num": 140258,
+      "word": "弟弟出事后我再也没得到父母的爱",
+      "onboard_time": 1730524698,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138993,
@@ -723,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134598,
+      "num": 196002,
+      "word": "小水否认与Jes恋情",
+      "onboard_time": 1730520918,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
       "onboard_time": 1730507177,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130289,
+      "num": 130289,
+      "word": "永夜星河首日百指",
+      "onboard_time": 1730523377,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 129776,
@@ -739,12 +851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129254,
-      "num": 129254,
-      "word": "美国大选",
-      "onboard_time": 1730522477,
-      "rank": 35,
-      "category": "国外时政"
+      "raw_hot": 128980,
+      "num": 128980,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730511378,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 127923,
@@ -891,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110973,
+      "num": 292583,
+      "word": "美特勤局公布特朗普遇刺调查摘要",
+      "onboard_time": 1730521999,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 110683,
       "num": 110683,
       "word": "近20个省份明确痛经假权益",
@@ -899,10 +1019,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108050,
-      "num": 108050,
-      "word": "永夜星河追剧日历",
-      "onboard_time": 1730511378,
+      "raw_hot": 109614,
+      "num": 106161,
+      "word": "陆嘉学 就怕反派搞纯爱",
+      "onboard_time": 1730524518,
       "rank": 48,
       "category": "剧集"
     },
@@ -961,14 +1081,6 @@
       "onboard_time": 1730505738,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105205,
-      "num": 105205,
-      "word": "北京套内40平的精致小家",
-      "onboard_time": 1730522358,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 104787,
@@ -1203,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67823,
-      "num": 292583,
-      "word": "美特勤局公布特朗普遇刺调查摘要",
-      "onboard_time": 1730521999,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 61483,
       "num": 61483,
       "word": "焚城",
@@ -1235,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56983,
+      "num": 232050,
+      "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
+      "onboard_time": 1730523678,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56780,
       "num": 56780,
       "word": "英雄联盟S14",
@@ -1251,12 +1363,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 52748,
+      "num": 238058,
+      "word": "于正为李梦新电影宣传",
+      "onboard_time": 1730524638,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51482,
       "num": 51482,
       "word": "赵露思回应端午品如上身",
       "onboard_time": 1730480896,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50586,
+      "num": 258296,
+      "word": "女子在广西白龙洞潜水溺亡亲属发声",
+      "onboard_time": 1730524099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50122,
@@ -1289,6 +1417,14 @@
       "onboard_time": 1730522177,
       "rank": 14,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 42527,
+      "num": 236913,
+      "word": "为了一个冰箱贴打卡一座城",
+      "onboard_time": 1730523798,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41864,
@@ -1339,6 +1475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30609,
+      "num": 269052,
+      "word": "河南文旅寻找麦子奶奶",
+      "onboard_time": 1730524338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29164,
       "num": 29164,
       "word": "檀健次vlog里的粉丝含量",
@@ -1385,14 +1529,6 @@
       "onboard_time": 1730496013,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19697,
-      "num": 196002,
-      "word": "小水否认与Jes恋情",
-      "onboard_time": 1730520918,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 19392,
@@ -1456,14 +1592,6 @@
       "word": "再去军博能看到问勇路路牌了",
       "onboard_time": 1730499011,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11623,
-      "num": 150969,
-      "word": "老人接个电话被骗86万后狂扇耳光",
-      "onboard_time": 1730522238,
-      "rank": 29,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730524870719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 943097,
+        "num": 1150895,
+        "word": "花学新课件 田嘉瑞请客烧烤",
+        "onboard_time": 1730514857,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615022,
+        "num": 615022,
+        "word": "校方回应年薪50万送住房招老师",
+        "onboard_time": 1730517438,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38685,
+        "num": 566632,
+        "word": "神十八航天员要出差回来了",
+        "onboard_time": 1730520138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563860,
+        "num": 563860,
+        "word": "黄圣依有个人账户但是没有存款",
+        "onboard_time": 1730518457,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408013,
+        "num": 408013,
+        "word": "钟南山谈怎么培养孙子的好奇心",
+        "onboard_time": 1730518877,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457497,
+        "num": 369872,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 492699,
+        "num": 353896,
+        "word": "肖战庄达菲版射雕创新之处",
+        "onboard_time": 1730522177,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296575,
+        "num": 296575,
+        "word": "芬兰总统三连感谢中国免签",
+        "onboard_time": 1730523798,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 271738,
+        "num": 271738,
+        "word": "青雾风鸣官宣白鹿",
+        "onboard_time": 1730513358,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30609,
+        "num": 269052,
+        "word": "河南文旅寻找麦子奶奶",
+        "onboard_time": 1730524338,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084258,
+        "num": 268466,
+        "word": "美国大选",
+        "onboard_time": 1730522477,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 967237,
+        "num": 268267,
+        "word": "杨子 财产",
+        "onboard_time": 1730514617,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267820,
+        "num": 267820,
+        "word": "中学最高年薪50万送住房招老师",
+        "onboard_time": 1730520138,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820538,
+        "num": 261875,
+        "word": "李宁卫衣",
+        "onboard_time": 1730517317,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 50586,
+        "num": 258296,
+        "word": "女子在广西白龙洞潜水溺亡亲属发声",
+        "onboard_time": 1730524099,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541614,
+        "num": 255190,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410975,
+        "num": 245221,
+        "word": "谁可以告诉黄圣依这件事情",
+        "onboard_time": 1730504715,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52748,
+        "num": 238058,
+        "word": "于正为李梦新电影宣传",
+        "onboard_time": 1730524638,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237581,
+        "num": 237581,
+        "word": "老人接个电话被骗86万后狂扇耳光",
+        "onboard_time": 1730522238,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42527,
+        "num": 236913,
+        "word": "为了一个冰箱贴打卡一座城",
+        "onboard_time": 1730523798,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949693,
+        "num": 235379,
+        "word": "湖南一女子被拘禁5年遭强奸产女",
+        "onboard_time": 1730518637,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242836,
+        "num": 233743,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1730507898,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56983,
+        "num": 232050,
+        "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
+        "onboard_time": 1730523678,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231506,
+        "num": 231506,
+        "word": "易烊千玺东京电影节路透",
+        "onboard_time": 1730522177,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230061,
+        "num": 230061,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 218964,
+        "num": 218964,
+        "word": "北京套内40平的精致小家",
+        "onboard_time": 1730522358,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217797,
+        "num": 217797,
+        "word": "邓超晒大饼",
+        "onboard_time": 1730523439,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202059,
+        "num": 202059,
+        "word": "婴儿嗜睡父母怀疑被喂安眠药",
+        "onboard_time": 1730506216,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175517,
+        "num": 201199,
+        "word": "张泉灵说麦琳把她搞乱了",
+        "onboard_time": 1730523077,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163551,
+        "num": 201049,
+        "word": "黄景瑜孙千hi6录制",
+        "onboard_time": 1730524217,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200913,
+        "num": 200913,
+        "word": "事业单位联考",
+        "onboard_time": 1730523198,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 160038,
+        "word": "2025澳门男子及女子世界杯",
+        "onboard_time": 1730524818,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157973,
+        "num": 157973,
+        "word": "侯明昊演技",
+        "onboard_time": 1730518098,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156509,
+        "num": 156509,
+        "word": "特朗普竞选集会遇刺是特勤局的失败",
+        "onboard_time": 1730523018,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144854,
+        "num": 144854,
+        "word": "喜人复刻二喜舞台",
+        "onboard_time": 1730523617,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140258,
+        "num": 140258,
+        "word": "弟弟出事后我再也没得到父母的爱",
+        "onboard_time": 1730524698,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134598,
+        "num": 134598,
+        "word": "小水否认与Jes恋情",
+        "onboard_time": 1730520918,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132485,
+        "num": 132485,
+        "word": "河南女性职工每月可享2天痛经假",
+        "onboard_time": 1730509878,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131924,
+        "num": 131924,
+        "word": "你好星期六全员变装",
+        "onboard_time": 1730516837,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130289,
+        "num": 130289,
+        "word": "永夜星河首日百指",
+        "onboard_time": 1730523377,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130110,
+        "num": 130110,
+        "word": "网红吴迪发文说再见",
+        "onboard_time": 1730520377,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128980,
+        "num": 128980,
+        "word": "永夜星河追剧日历",
+        "onboard_time": 1730511378,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126326,
+        "num": 126326,
+        "word": "樊振东解说足球",
+        "onboard_time": 1730519959,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122425,
+        "num": 122425,
+        "word": "高雅cp售后",
+        "onboard_time": 1730507238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112360,
+        "num": 112360,
+        "word": "刘晓庆曾给刘涛演丫鬟",
+        "onboard_time": 1730507238,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112048,
+        "num": 112048,
+        "word": "胡夏 隐藏款",
+        "onboard_time": 1730515878,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110973,
+        "num": 110973,
+        "word": "美特勤局公布特朗普遇刺调查摘要",
+        "onboard_time": 1730521999,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106210,
+        "num": 106210,
+        "word": "不敢想她这一辈子会有多精彩",
+        "onboard_time": 1730510957,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109614,
+        "num": 106161,
+        "word": "陆嘉学 就怕反派搞纯爱",
+        "onboard_time": 1730524518,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96961,
+        "num": 106089,
+        "word": "湖人硬上布朗尼",
+        "onboard_time": 1730519299,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见澳门特区候任行政长官#"
+    }
+  }
+}
