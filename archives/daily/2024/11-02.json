@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730511650852,
+  "endTime": 1730512663781,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -75,12 +75,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 546135,
-      "num": 546135,
+      "raw_hot": 579180,
+      "num": 579180,
       "word": "外籍友人跳河救人获见义勇为奖励",
       "onboard_time": 1730500813,
       "rank": 23,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 541733,
+      "num": 492992,
+      "word": "特朗普称能很快修复拜登造成的破坏",
+      "onboard_time": 1730505558,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 533237,
@@ -105,14 +113,6 @@
       "onboard_time": 1730475320,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508066,
-      "num": 492992,
-      "word": "特朗普称能很快修复拜登造成的破坏",
-      "onboard_time": 1730505558,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 501875,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 424773,
-      "num": 161690,
+      "num": 219668,
       "word": "婴儿嗜睡父母怀疑被喂安眠药",
       "onboard_time": 1730506216,
       "rank": 20,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273421,
+      "num": 384827,
+      "word": "联合国报告员坚持以色列犯下种族灭绝罪",
+      "onboard_time": 1730510178,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 271828,
       "num": 271828,
       "word": "中国对韩国等9国试行免签",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 242387,
-      "num": 195273,
+      "num": 208539,
       "word": "26岁女子确诊渐冻症前后判若两人",
       "onboard_time": 1730468481,
       "rank": 21,
@@ -297,6 +305,14 @@
       "onboard_time": 1730508497,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238404,
+      "num": 212469,
+      "word": "不敢想她这一辈子会有多精彩",
+      "onboard_time": 1730510957,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 220027,
@@ -323,20 +339,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 205413,
-      "num": 205413,
-      "word": "短剧三大男主录芒果综艺",
-      "onboard_time": 1730503395,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 197328,
-      "num": 160587,
+      "raw_hot": 205655,
+      "num": 205655,
       "word": "杀父骗保男子系家中独子很受宠",
       "onboard_time": 1730509878,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205413,
+      "num": 226789,
+      "word": "短剧三大男主录芒果综艺",
+      "onboard_time": 1730503395,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 189783,
@@ -363,12 +379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174319,
+      "num": 229168,
+      "word": "祝绪丹演技",
+      "onboard_time": 1730511257,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171539,
       "num": 171539,
       "word": "虞书欣永夜星河用的是同期声",
       "onboard_time": 1730506457,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162850,
+      "num": 162850,
+      "word": "尔滨导游一走神小金土豆就付款了",
+      "onboard_time": 1730473699,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161474,
@@ -387,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160074,
-      "num": 160074,
-      "word": "尔滨导游一走神小金土豆就付款了",
-      "onboard_time": 1730473699,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154971,
       "num": 154971,
       "word": "珠帘玉幕",
@@ -411,20 +435,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145911,
+      "num": 145911,
+      "word": "郑钦文去看C罗比赛了",
+      "onboard_time": 1730512038,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140707,
       "num": 140707,
       "word": "何广智 我的名声这么差吗",
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140239,
-      "num": 140239,
-      "word": "不敢想她这一辈子会有多精彩",
-      "onboard_time": 1730510957,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 138993,
@@ -459,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132386,
+      "num": 347969,
+      "word": "加沙的水可能变成武器",
+      "onboard_time": 1730511498,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
@@ -483,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126214,
-      "num": 384827,
-      "word": "联合国报告员坚持以色列犯下种族灭绝罪",
-      "onboard_time": 1730510178,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 125946,
+      "num": 125946,
+      "word": "珠帘玉幕 好哭",
+      "onboard_time": 1730512220,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 125507,
@@ -528,6 +560,14 @@
       "word": "侯明昊 我要状告大荒",
       "onboard_time": 1730474839,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119183,
+      "num": 119183,
+      "word": "赵晴新剧圆脸甜妹",
+      "onboard_time": 1730512338,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -643,14 +683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100215,
-      "num": 100215,
-      "word": "祝绪丹演技",
-      "onboard_time": 1730511257,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99564,
       "num": 99564,
       "word": "永夜星河好看",
@@ -665,6 +697,14 @@
       "onboard_time": 1730470339,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96035,
+      "num": 96035,
+      "word": "王楚钦王曼昱领衔法兰克福冠军赛",
+      "onboard_time": 1730509459,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95139,
@@ -691,16 +731,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90321,
-      "num": 90321,
-      "word": "加沙的水可能变成武器",
-      "onboard_time": 1730511498,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 90631,
+      "num": 90631,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730511378,
+      "rank": 48,
+      "category": "剧集"
     },
     {
-      "raw_hot": 90208,
-      "num": 90208,
+      "raw_hot": 90438,
+      "num": 90438,
       "word": "吕梁民政局称明年初结婚或大增",
       "onboard_time": 1730487432,
       "rank": 9,
@@ -715,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87518,
-      "num": 87518,
-      "word": "王楚钦王曼昱领衔法兰克福冠军赛",
-      "onboard_time": 1730509459,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 87742,
+      "num": 87742,
+      "word": "麦麦 东亚家庭的影子",
+      "onboard_time": 1730512157,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 86322,
@@ -744,14 +784,6 @@
       "word": "珠帘玉幕猫眼热度TOP1",
       "onboard_time": 1730505375,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83285,
-      "num": 83285,
-      "word": "永夜星河追剧日历",
-      "onboard_time": 1730511378,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -945,6 +977,14 @@
       "onboard_time": 1730487493,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18233,
+      "num": 222103,
+      "word": "南昌一119消防站设在违法建筑内",
+      "onboard_time": 1730511917,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17973,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730512663781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560661,
+        "num": 1560661,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869486,
+        "num": 869486,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4875,
+        "num": 644977,
+        "word": "南极考察将首次开展越冬考察任务",
+        "onboard_time": 1730464639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579180,
+        "num": 579180,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 424564,
+        "num": 424564,
+        "word": "河南女性职工每月可享2天痛经假",
+        "onboard_time": 1730509878,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541733,
+        "num": 422745,
+        "word": "特朗普称能很快修复拜登造成的破坏",
+        "onboard_time": 1730505558,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 478276,
+        "num": 418489,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1730507898,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392741,
+        "num": 392741,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1730481254,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366879,
+        "num": 366879,
+        "word": "大专生还没毕业就拿到了高薪和编制",
+        "onboard_time": 1730500813,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132386,
+        "num": 347969,
+        "word": "加沙的水可能变成武器",
+        "onboard_time": 1730511498,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1072800,
+        "num": 342688,
+        "word": "谁可以告诉黄圣依这件事情",
+        "onboard_time": 1730504715,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511964,
+        "num": 340673,
+        "word": "刘晓庆曾给刘涛演丫鬟",
+        "onboard_time": 1730507238,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330403,
+        "num": 330403,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307947,
+        "num": 307947,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273421,
+        "num": 273421,
+        "word": "联合国报告员坚持以色列犯下种族灭绝罪",
+        "onboard_time": 1730510178,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233760,
+        "num": 233760,
+        "word": "高雅cp售后",
+        "onboard_time": 1730507238,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231192,
+        "num": 231192,
+        "word": "杨洋新造型梦回于途",
+        "onboard_time": 1730508497,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174319,
+        "num": 229168,
+        "word": "祝绪丹演技",
+        "onboard_time": 1730511257,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165222,
+        "num": 226789,
+        "word": "短剧三大男主录芒果综艺",
+        "onboard_time": 1730503395,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18233,
+        "num": 222103,
+        "word": "南昌一119消防站设在违法建筑内",
+        "onboard_time": 1730511917,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371372,
+        "num": 219668,
+        "word": "婴儿嗜睡父母怀疑被喂安眠药",
+        "onboard_time": 1730506216,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184045,
+        "num": 215950,
+        "word": "武大博士一人拿下24万元奖学金",
+        "onboard_time": 1730477179,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238404,
+        "num": 212469,
+        "word": "不敢想她这一辈子会有多精彩",
+        "onboard_time": 1730510957,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235695,
+        "num": 209313,
+        "word": "向佐回应郭碧婷是嫁给向太",
+        "onboard_time": 1730468059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208539,
+        "num": 208539,
+        "word": "26岁女子确诊渐冻症前后判若两人",
+        "onboard_time": 1730468481,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206651,
+        "num": 206651,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205655,
+        "num": 205655,
+        "word": "杀父骗保男子系家中独子很受宠",
+        "onboard_time": 1730509878,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162850,
+        "num": 162850,
+        "word": "尔滨导游一走神小金土豆就付款了",
+        "onboard_time": 1730473699,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161682,
+        "num": 161682,
+        "word": "虞书欣永夜星河用的是同期声",
+        "onboard_time": 1730506457,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154643,
+        "num": 154643,
+        "word": "睡觉时越睡越美的姿势找到了",
+        "onboard_time": 1730472680,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145911,
+        "num": 145911,
+        "word": "郑钦文去看C罗比赛了",
+        "onboard_time": 1730512038,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143747,
+        "num": 143747,
+        "word": "多个网红走红后暂时停播",
+        "onboard_time": 1730469140,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 131408,
+        "num": 131408,
+        "word": "一下子懂了航天员要回地球的快乐",
+        "onboard_time": 1730506997,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128723,
+        "num": 128723,
+        "word": "张泉灵说李行亮和麦麦是想过下去的",
+        "onboard_time": 1730473939,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125946,
+        "num": 125946,
+        "word": "珠帘玉幕 好哭",
+        "onboard_time": 1730512220,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125586,
+        "num": 125586,
+        "word": "hybe说朴成训变丑了",
+        "onboard_time": 1730507717,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124187,
+        "num": 124187,
+        "word": "男子接FaceTime电话被骗15万",
+        "onboard_time": 1730507177,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122101,
+        "num": 122101,
+        "word": "hybe新报告大点兵",
+        "onboard_time": 1730508497,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120879,
+        "num": 120879,
+        "word": "中方扩大免签国家范围",
+        "onboard_time": 1730471060,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120648,
+        "num": 120648,
+        "word": "数十名登山者擅闯别墅泳池洗鞋",
+        "onboard_time": 1730483173,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119183,
+        "num": 119183,
+        "word": "赵晴新剧圆脸甜妹",
+        "onboard_time": 1730512338,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117645,
+        "num": 117645,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105962,
+        "num": 105962,
+        "word": "Bin决赛要零封T1",
+        "onboard_time": 1730502854,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102123,
+        "num": 102123,
+        "word": "村民带女子去未开发水域潜水溺亡",
+        "onboard_time": 1730476038,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96035,
+        "num": 96035,
+        "word": "王楚钦王曼昱领衔法兰克福冠军赛",
+        "onboard_time": 1730509459,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 95915,
+        "word": "张泉灵 再见爱人4受害者",
+        "onboard_time": 1730473098,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90631,
+        "num": 90631,
+        "word": "永夜星河追剧日历",
+        "onboard_time": 1730511378,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90438,
+        "num": 90438,
+        "word": "吕梁民政局称明年初结婚或大增",
+        "onboard_time": 1730487432,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89730,
+        "num": 89730,
+        "word": "雷军说小米15破除了3999元心魔",
+        "onboard_time": 1730475258,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87742,
+        "num": 87742,
+        "word": "麦麦 东亚家庭的影子",
+        "onboard_time": 1730512157,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}
