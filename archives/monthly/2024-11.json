@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730564819780,
+  "endTime": 1730565838973,
   "band_list": [
     {
       "raw_hot": 7849827,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2748537,
+      "num": 440470,
+      "word": "赵露思给韩安冉发的语音",
+      "onboard_time": 1730564539,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2495206,
       "num": 2495206,
       "word": "死亡三秒流行校园严重可窒息致死",
@@ -97,14 +105,6 @@
       "onboard_time": 1730432359,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2159549,
-      "num": 360887,
-      "word": "赵露思给韩安冉发的语音",
-      "onboard_time": 1730564539,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1966535,
@@ -1107,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537987,
+      "num": 537987,
+      "word": "正午阳光 切不动了",
+      "onboard_time": 1730563223,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536562,
       "num": 536562,
       "word": "麦琳回应近期舆论",
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 530614,
-      "num": 530614,
+      "num": 542730,
       "word": "郑钦文vs萨巴伦卡",
       "onboard_time": 1730560165,
       "rank": 12,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1730461458,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 517682,
+      "num": 517682,
+      "word": "没有伤害任何人",
+      "onboard_time": 1730559680,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 513866,
@@ -1267,19 +1283,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488198,
-      "num": 488198,
-      "word": "正午阳光 切不动了",
-      "onboard_time": 1730563223,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 486785,
       "num": 320240,
       "word": "网红云南阿奎妻子首次直播被封禁",
       "onboard_time": 1730534237,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482842,
+      "num": 271728,
+      "word": "小伙称按摩后禁不住怂恿花一万五",
+      "onboard_time": 1730563403,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1401,14 +1417,6 @@
       "onboard_time": 1730523678,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440274,
-      "num": 440274,
-      "word": "没有伤害任何人",
-      "onboard_time": 1730559680,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 439484,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1730538977,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390866,
+      "num": 390866,
+      "word": "成功95花的背后",
+      "onboard_time": 1730564420,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 389485,
@@ -1899,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304215,
+      "num": 304215,
+      "word": "永夜星河宣传",
+      "onboard_time": 1730561300,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303990,
       "num": 303990,
       "word": "如果BLG夺冠",
@@ -2163,14 +2187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 271728,
-      "num": 271728,
-      "word": "小伙称按摩后禁不住怂恿花一万五",
-      "onboard_time": 1730563403,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269790,
       "num": 269790,
       "word": "陈都灵扮相",
@@ -2320,14 +2336,6 @@
       "word": "永夜星河直播",
       "onboard_time": 1730453239,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 252557,
-      "num": 252557,
-      "word": "永夜星河宣传",
-      "onboard_time": 1730561300,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2505,6 +2513,14 @@
       "onboard_time": 1730387180,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227586,
+      "num": 507621,
+      "word": "医生提醒别把鲨鱼裤当秋裤穿",
+      "onboard_time": 1730564181,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 225743,
@@ -2771,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204737,
+      "num": 204737,
+      "word": "穆祉丞发博让私生离私生活远一点",
+      "onboard_time": 1730565018,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203865,
       "num": 383367,
       "word": "台风康妮逼近温岭金沙滩掀起巨浪",
@@ -2905,14 +2929,6 @@
       "onboard_time": 1730438179,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197365,
-      "num": 252517,
-      "word": "医生提醒别把鲨鱼裤当秋裤穿",
-      "onboard_time": 1730564181,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 196930,
@@ -3403,14 +3419,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 173946,
-      "num": 173946,
-      "word": "成功95花的背后",
-      "onboard_time": 1730564420,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173605,
       "num": 173605,
       "word": "姚明辞职是一场改革失败后的离场",
@@ -3768,6 +3776,14 @@
       "word": "山姆回应冷藏菜品实为冷冻预制",
       "onboard_time": 1730468179,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158620,
+      "num": 474540,
+      "word": "长期穿鲨鱼裤易增加真菌感染风险",
+      "onboard_time": 1730559987,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4369,14 +4385,6 @@
       "onboard_time": 1730545578,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135461,
-      "num": 474540,
-      "word": "长期穿鲨鱼裤易增加真菌感染风险",
-      "onboard_time": 1730559987,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135361,
@@ -5051,6 +5059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109886,
+      "num": 109886,
+      "word": "加里奥",
+      "onboard_time": 1730564839,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "神十八3人下周一回地球",
@@ -5307,6 +5323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97791,
+      "num": 97791,
+      "word": "你好星期六下期是大梦归离",
+      "onboard_time": 1730565679,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97150,
       "num": 97150,
       "word": "S14",
@@ -5337,6 +5361,14 @@
       "onboard_time": 1730374100,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95499,
+      "num": 95499,
+      "word": "全红蝉变魔术",
+      "onboard_time": 1730565737,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95261,
@@ -5819,6 +5851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51836,
+      "num": 454800,
+      "word": "On机器人",
+      "onboard_time": 1730564301,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51592,
       "num": 272931,
       "word": "华晨宇陪张大大过了两场生日",
@@ -6171,14 +6211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36570,
-      "num": 338348,
-      "word": "On机器人",
-      "onboard_time": 1730564301,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 36133,
       "num": 54944,
       "word": "联合国机构审查日本天皇继承制",
@@ -6529,6 +6561,14 @@
       "onboard_time": 1730536398,
       "rank": 29,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 24230,
+      "num": 353085,
+      "word": "BLG C过送过没懦过",
+      "onboard_time": 1730565498,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 24229,

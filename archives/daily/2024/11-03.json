@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730564819780,
+  "endTime": 1730565838973,
   "band_list": [
     {
       "raw_hot": 3797061,
@@ -11,19 +11,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2748537,
+      "num": 440470,
+      "word": "赵露思给韩安冉发的语音",
+      "onboard_time": 1730564539,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2172668,
       "num": 2172668,
       "word": "薛之谦晒与赵露思聊天记录",
       "onboard_time": 1730560582,
       "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 2159549,
-      "num": 360887,
-      "word": "赵露思给韩安冉发的语音",
-      "onboard_time": 1730564539,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 940131,
-      "num": 349972,
+      "num": 413971,
       "word": "摇人",
       "onboard_time": 1730558300,
       "rank": 11,
@@ -59,6 +59,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537987,
+      "num": 537987,
+      "word": "正午阳光 切不动了",
+      "onboard_time": 1730563223,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 517682,
+      "num": 517682,
+      "word": "没有伤害任何人",
+      "onboard_time": 1730559680,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492086,
       "num": 492086,
       "word": "覃海洋回应近日争议",
@@ -67,36 +83,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 488198,
-      "num": 488198,
-      "word": "正午阳光 切不动了",
-      "onboard_time": 1730563223,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 440274,
-      "num": 440274,
-      "word": "没有伤害任何人",
-      "onboard_time": 1730559680,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 482842,
+      "num": 271728,
+      "word": "小伙称按摩后禁不住怂恿花一万五",
+      "onboard_time": 1730563403,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439700,
-      "num": 344355,
+      "num": 350662,
       "word": "乔任梁母亲发声",
       "onboard_time": 1730559922,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 399930,
-      "num": 399930,
+      "raw_hot": 414501,
+      "num": 542730,
       "word": "郑钦文vs萨巴伦卡",
       "onboard_time": 1730560165,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390866,
+      "num": 390866,
+      "word": "成功95花的背后",
+      "onboard_time": 1730564420,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 362779,
@@ -123,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271728,
-      "num": 271728,
-      "word": "小伙称按摩后禁不住怂恿花一万五",
-      "onboard_time": 1730563403,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 304215,
+      "num": 304215,
+      "word": "永夜星河宣传",
+      "onboard_time": 1730561300,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 269109,
@@ -147,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252557,
-      "num": 252557,
-      "word": "永夜星河宣传",
-      "onboard_time": 1730561300,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233906,
       "num": 233906,
       "word": "拾荒老人去看病竟掏出一代身份证",
       "onboard_time": 1730547318,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227586,
+      "num": 507621,
+      "word": "医生提醒别把鲨鱼裤当秋裤穿",
+      "onboard_time": 1730564181,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 219648,
@@ -187,20 +203,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204737,
+      "num": 204737,
+      "word": "穆祉丞发博让私生离私生活远一点",
+      "onboard_time": 1730565018,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204391,
+      "num": 204391,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198548,
       "num": 244333,
       "word": "T1扳回一局",
       "onboard_time": 1730563163,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197365,
-      "num": 252517,
-      "word": "医生提醒别把鲨鱼裤当秋裤穿",
-      "onboard_time": 1730564181,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 196930,
@@ -227,28 +251,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 186151,
-      "num": 186151,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180454,
       "num": 180454,
       "word": "重庆工商大学通报学生称被恶意阻拦毕业",
       "onboard_time": 1730559801,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173946,
-      "num": 173946,
-      "word": "成功95花的背后",
-      "onboard_time": 1730564420,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 169038,
@@ -281,6 +289,14 @@
       "onboard_time": 1730560344,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158620,
+      "num": 158620,
+      "word": "长期穿鲨鱼裤易增加真菌感染风险",
+      "onboard_time": 1730559987,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155143,
@@ -321,14 +337,6 @@
       "onboard_time": 1730563882,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135461,
-      "num": 135461,
-      "word": "长期穿鲨鱼裤易增加真菌感染风险",
-      "onboard_time": 1730559987,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130093,
@@ -379,6 +387,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109886,
+      "num": 109886,
+      "word": "加里奥",
+      "onboard_time": 1730564839,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97791,
+      "num": 97791,
+      "word": "你好星期六下期是大梦归离",
+      "onboard_time": 1730565679,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95499,
+      "num": 95499,
+      "word": "全红蝉变魔术",
+      "onboard_time": 1730565737,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87567,
+      "num": 87567,
+      "word": "小巷人家",
+      "onboard_time": 1730548459,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -387,8 +427,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36570,
-      "num": 338348,
+      "raw_hot": 51836,
+      "num": 454800,
       "word": "On机器人",
       "onboard_time": 1730564301,
       "rank": 13,
@@ -401,6 +441,14 @@
       "onboard_time": 1730553561,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24230,
+      "num": 353085,
+      "word": "BLG C过送过没懦过",
+      "onboard_time": 1730565498,
+      "rank": 14,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
