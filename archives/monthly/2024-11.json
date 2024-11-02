@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730536013772,
+  "endTime": 1730536816910,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -131,20 +131,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1586762,
+      "num": 284694,
+      "word": "张雨绮男友自曝年入九位数",
+      "onboard_time": 1730533577,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1579878,
       "num": 1579878,
       "word": "民警建议关闭苹果手机这项功能",
       "onboard_time": 1730439499,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1573670,
-      "num": 222869,
-      "word": "张雨绮男友自曝年入九位数",
-      "onboard_time": 1730533577,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1525843,
@@ -465,6 +465,14 @@
       "onboard_time": 1730419878,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 751903,
+      "num": 751903,
+      "word": "三只羊已全额缴纳罚款",
+      "onboard_time": 1730534717,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 742475,
@@ -939,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487972,
-      "num": 487972,
-      "word": "三只羊已全额缴纳罚款",
-      "onboard_time": 1730534717,
-      "rank": 3,
-      "category": "社会新闻,网红"
+      "raw_hot": 486785,
+      "num": 282953,
+      "word": "网红云南阿奎妻子首次直播被封禁",
+      "onboard_time": 1730534237,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480443,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1730458879,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 437523,
-      "num": 222812,
-      "word": "网红云南阿奎妻子首次直播被封禁",
-      "onboard_time": 1730534237,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430494,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 345412,
-      "num": 302583,
+      "num": 320301,
       "word": "小小的我全球首映口碑",
       "onboard_time": 1730531598,
       "rank": 23,
@@ -1451,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290330,
+      "num": 290330,
+      "word": "范丞丞卢昱晓贴额头对视",
+      "onboard_time": 1730532858,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286974,
       "num": 286974,
       "word": "范丞丞王安宇 选角",
@@ -1579,12 +1587,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269790,
+      "num": 269790,
+      "word": "陈都灵扮相",
+      "onboard_time": 1730531417,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269450,
       "num": 269450,
       "word": "覃海洋50米蛙金牌",
       "onboard_time": 1730462359,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269096,
+      "num": 213005,
+      "word": "同学被打男生要报警被老师呵斥",
+      "onboard_time": 1730535018,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267950,
@@ -1747,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242627,
-      "num": 222651,
-      "word": "陈都灵扮相",
-      "onboard_time": 1730531417,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240993,
       "num": 299877,
       "word": "霉霉曾说吹牛老爹对她很好",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1730441539,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234132,
-      "num": 213005,
-      "word": "同学被打男生要报警被老师呵斥",
-      "onboard_time": 1730535018,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232955,
@@ -1844,19 +1852,11 @@
     },
     {
       "raw_hot": 222901,
-      "num": 222901,
+      "num": 277307,
       "word": "税二 简单",
       "onboard_time": 1730532317,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 222649,
-      "num": 222649,
-      "word": "范丞丞卢昱晓贴额头对视",
-      "onboard_time": 1730532858,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 221148,
@@ -2035,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203669,
+      "num": 169762,
+      "word": "杨子说过黄圣依膀大腰圆",
+      "onboard_time": 1730535737,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "郑钦文高情商回应合照C位",
@@ -2136,6 +2144,14 @@
       "word": "周洁琼新剧亲爸变后爸",
       "onboard_time": 1730465000,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194839,
+      "num": 194839,
+      "word": "虞书欣凌妙妙黑化前vs黑化后",
+      "onboard_time": 1730535559,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -2467,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173579,
+      "num": 164262,
+      "word": "再见爱人第二季嘉宾张婉婷力挺麦琳",
+      "onboard_time": 1730535619,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173467,
       "num": 341206,
       "word": "神十八乘组将于11月4日回家",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1730469801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164306,
+      "num": 164306,
+      "word": "张雨绮男友",
+      "onboard_time": 1730536578,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 163807,
@@ -2779,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156679,
-      "num": 156679,
-      "word": "虞书欣凌妙妙黑化前vs黑化后",
-      "onboard_time": 1730535559,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156509,
       "num": 156509,
       "word": "特朗普竞选集会遇刺是特勤局的失败",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1730444898,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153935,
+      "num": 153935,
+      "word": "珠帘玉幕 镜头对准施暴者",
+      "onboard_time": 1730536459,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 153395,
@@ -3203,14 +3235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137797,
-      "num": 137797,
-      "word": "杨子说过黄圣依膀大腰圆",
-      "onboard_time": 1730535737,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137668,
       "num": 137668,
       "word": "朱志鑫全副武装",
@@ -3283,6 +3307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133414,
+      "num": 133414,
+      "word": "酷云",
+      "onboard_time": 1730536578,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133281,
       "num": 133281,
       "word": "范丞丞 演学霸",
@@ -3305,14 +3337,6 @@
       "onboard_time": 1730473459,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 122309,
-      "word": "再见爱人第二季嘉宾张婉婷力挺麦琳",
-      "onboard_time": 1730535619,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 131961,
@@ -3353,6 +3377,14 @@
       "onboard_time": 1730432179,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130611,
+      "num": 130611,
+      "word": "预测S14决赛比分",
+      "onboard_time": 1730536217,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 130289,
@@ -3603,6 +3635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117952,
+      "num": 117952,
+      "word": "丁禹兮发彩蛋糖了",
+      "onboard_time": 1730536217,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117832,
       "num": 196853,
       "word": "俄罗斯对谷歌罚款已达35位数美元",
@@ -3843,6 +3883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107162,
+      "num": 107162,
+      "word": "成都蓉城vs上海申花",
+      "onboard_time": 1730536337,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107054,
       "num": 107054,
       "word": "原来视频也会电子氧化",
@@ -3929,6 +3977,14 @@
       "onboard_time": 1730437400,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103102,
+      "num": 103102,
+      "word": "警方回应同学被打男生要报警被老师呵斥",
+      "onboard_time": 1730536099,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103089,
@@ -4321,6 +4377,14 @@
       "onboard_time": 1730416515,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67748,
+      "num": 289341,
+      "word": "妇女可以依法查询配偶财产状况",
+      "onboard_time": 1730535260,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67488,
@@ -4891,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31246,
+      "num": 275524,
+      "word": "不要对老年人看短剧有偏见",
+      "onboard_time": 1730535260,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31069,
       "num": 31069,
       "word": "适合11月第1天的文案",
@@ -4987,19 +5059,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27281,
-      "num": 222746,
-      "word": "妇女可以依法查询配偶财产状况",
-      "onboard_time": 1730535260,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26769,
       "num": 79642,
       "word": "猛蛇过江称爬了八年崛围山",
       "onboard_time": 1730485632,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26614,
+      "num": 984116,
+      "word": "中国空间站的钥匙就是接力棒",
+      "onboard_time": 1730536038,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5043,6 +5115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24668,
+      "num": 280732,
+      "word": "一学生实名举报重庆某高校",
+      "onboard_time": 1730536398,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24661,
       "num": 341797,
       "word": "为弟追凶案受害人曾借米给凶手吃",
@@ -5073,6 +5153,14 @@
       "onboard_time": 1730366119,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24260,
+      "num": 157558,
+      "word": "美防长下令增加在中东军事部署",
+      "onboard_time": 1730536398,
+      "rank": 29,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 24229,
@@ -5136,14 +5224,6 @@
       "word": "K7034十年前也曾发生脱轨事故",
       "onboard_time": 1730525598,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22160,
-      "num": 222722,
-      "word": "不要对老年人看短剧有偏见",
-      "onboard_time": 1730535260,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
