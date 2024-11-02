@@ -1,0 +1,410 @@
+{
+  "runTime": 1730547320434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1712415,
+        "num": 1712415,
+        "word": "应届生称不喜欢部队生活退伍被惩戒",
+        "onboard_time": 1730543719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938499,
+        "num": 938499,
+        "word": "私人影院肢体接触明码标价",
+        "onboard_time": 1730540598,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24564,
+        "num": 801704,
+        "word": "中国空间站的钥匙就是接力棒",
+        "onboard_time": 1730536038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758391,
+        "num": 758391,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560551,
+        "num": 560551,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332028,
+        "num": 332028,
+        "word": "哈尔滨冰雪大世界扩至100万平米",
+        "onboard_time": 1730538977,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373402,
+        "num": 329288,
+        "word": "丁禹兮跳yesok",
+        "onboard_time": 1730544799,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315919,
+        "num": 315919,
+        "word": "张峻豪官宣费加罗盛典",
+        "onboard_time": 1730543118,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300353,
+        "num": 300353,
+        "word": "三只羊已全额缴纳罚款",
+        "onboard_time": 1730534717,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 95151,
+        "num": 299265,
+        "word": "记者暗访陪伴式私人影院",
+        "onboard_time": 1730546418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863559,
+        "num": 298777,
+        "word": "K7034列车脱轨线路近10年3次脱轨",
+        "onboard_time": 1730545458,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816291,
+        "num": 295881,
+        "word": "赵露思晒泳照",
+        "onboard_time": 1730541318,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567361,
+        "num": 295691,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294268,
+        "num": 294268,
+        "word": "永夜星河 亲情刀",
+        "onboard_time": 1730545098,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228502,
+        "num": 228502,
+        "word": "一学生实名举报重庆某高校",
+        "onboard_time": 1730536398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221423,
+        "num": 221423,
+        "word": "婚姻里一定要有私房钱",
+        "onboard_time": 1730538619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522024,
+        "num": 220265,
+        "word": "赵露思奚梦瑶是怎么认识的",
+        "onboard_time": 1730545758,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208926,
+        "num": 208926,
+        "word": "南京玄武湖惊现野猪横渡",
+        "onboard_time": 1730541798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206980,
+        "num": 206980,
+        "word": "蒲熠星画了名学第100季的logo",
+        "onboard_time": 1730542218,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23756,
+        "num": 206284,
+        "word": "全智贤谈演员的恐惧",
+        "onboard_time": 1730546180,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1219968,
+        "num": 204967,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572459,
+        "num": 203345,
+        "word": "张雨绮男友自曝年入九位数",
+        "onboard_time": 1730533577,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310681,
+        "num": 202551,
+        "word": "买刮刮乐中百万2小伙已恢复工作",
+        "onboard_time": 1730538438,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235397,
+        "num": 201378,
+        "word": "男子为结婚花10万为女友前夫做法事",
+        "onboard_time": 1730542278,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235026,
+        "num": 199883,
+        "word": "13岁女孩遭性侵还被引诱卖淫",
+        "onboard_time": 1730526616,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198584,
+        "num": 198584,
+        "word": "婚后发现丈夫婚前确诊艾滋病能撤婚吗",
+        "onboard_time": 1730538018,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198477,
+        "num": 198477,
+        "word": "如果BLG夺冠",
+        "onboard_time": 1730540478,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195495,
+        "num": 195495,
+        "word": "丁禹兮古装",
+        "onboard_time": 1730546898,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192109,
+        "num": 192109,
+        "word": "萧敬腾林有慧捐出全部婚礼礼金",
+        "onboard_time": 1730546778,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191504,
+        "num": 191504,
+        "word": "导游误把乙二醇当锅底游客吃中毒",
+        "onboard_time": 1730546598,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190555,
+        "num": 190555,
+        "word": "周雨彤英文翻译演我本人",
+        "onboard_time": 1730546778,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189932,
+        "num": 189932,
+        "word": "税务师法律",
+        "onboard_time": 1730546659,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177570,
+        "num": 177570,
+        "word": "美国大选",
+        "onboard_time": 1730522477,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172588,
+        "num": 172588,
+        "word": "医生提醒死亡游戏严重者会危及生命",
+        "onboard_time": 1730545398,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157344,
+        "num": 157344,
+        "word": "肥而不溺的萨摩耶",
+        "onboard_time": 1730544078,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "李行亮说麦琳的笑容是奖励",
+        "onboard_time": 1730545578,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153375,
+        "num": 153375,
+        "word": "燕子京 死嘴你快哄啊",
+        "onboard_time": 1730541738,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149032,
+        "num": 149032,
+        "word": "杭州通报男子理发消费2万多元",
+        "onboard_time": 1730545938,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141085,
+        "num": 141085,
+        "word": "代号鸢",
+        "onboard_time": 1730544078,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 139068,
+        "word": "大冰回应帮麦子阿姨向南走",
+        "onboard_time": 1730542518,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134978,
+        "num": 134978,
+        "word": "令狐茂",
+        "onboard_time": 1730546479,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134705,
+        "num": 134705,
+        "word": "上海住房公积金新政实施",
+        "onboard_time": 1730536877,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132925,
+        "num": 132925,
+        "word": "杨子承认不够尊重黄圣依",
+        "onboard_time": 1730536877,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131058,
+        "num": 131058,
+        "word": "虞书欣很会选剧本",
+        "onboard_time": 1730547258,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "特朗普或再次提前宣布胜选",
+        "onboard_time": 1730545277,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123821,
+        "num": 123821,
+        "word": "Uzi说今晚偷奖杯",
+        "onboard_time": 1730545578,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114992,
+        "num": 114992,
+        "word": "赵丽颖电影三连击均实现盈利",
+        "onboard_time": 1730545519,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114603,
+        "num": 114603,
+        "word": "BABYMONSTER首批中输",
+        "onboard_time": 1730543658,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109389,
+        "num": 109389,
+        "word": "睡觉时最伤脊椎的睡姿",
+        "onboard_time": 1730546839,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104720,
+        "num": 104720,
+        "word": "三只羊嘴哥复播",
+        "onboard_time": 1730539277,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对岑浩辉获中央政府任命表示祝贺#"
+    }
+  }
+}

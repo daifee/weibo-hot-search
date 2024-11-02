@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730546269985,
+  "endTime": 1730547320434,
   "band_list": [
     {
       "raw_hot": 2993448,
@@ -43,19 +43,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1712415,
+      "num": 1712415,
+      "word": "应届生称不喜欢部队生活退伍被惩戒",
+      "onboard_time": 1730543719,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1688745,
       "num": 1688745,
       "word": "私人影院肢体接触明码标价",
       "onboard_time": 1730540598,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1683432,
-      "num": 1683432,
-      "word": "应届生称不喜欢部队生活退伍被惩戒",
-      "onboard_time": 1730543719,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 986995,
-      "num": 289417,
+      "num": 295881,
       "word": "赵露思晒泳照",
       "onboard_time": 1730541318,
       "rank": 12,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 863559,
+      "num": 298777,
+      "word": "K7034列车脱轨线路近10年3次脱轨",
+      "onboard_time": 1730545458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843532,
       "num": 843532,
       "word": "29岁网红谎称18岁立悲惨人设圈粉",
@@ -200,6 +208,14 @@
       "word": "一学生实名举报重庆某高校",
       "onboard_time": 1730536398,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758391,
+      "num": 758391,
+      "word": "被拐34年男子认亲一年后与家人决裂",
+      "onboard_time": 1730546359,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373402,
+      "num": 345312,
+      "word": "丁禹兮跳yesok",
+      "onboard_time": 1730544799,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370748,
       "num": 336449,
       "word": "边牧走丢后自己去派出所报警",
@@ -585,14 +609,6 @@
       "onboard_time": 1730531598,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345312,
-      "num": 345312,
-      "word": "丁禹兮跳yesok",
-      "onboard_time": 1730544799,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 344215,
@@ -691,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 294268,
+      "num": 294268,
+      "word": "永夜星河 亲情刀",
+      "onboard_time": 1730545098,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291815,
       "num": 236562,
       "word": "宋茜侯明昊素颜",
@@ -759,14 +783,6 @@
       "num": 277362,
       "word": "会跳yes ok的来了",
       "onboard_time": 1730459359,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 273488,
-      "num": 273488,
-      "word": "永夜星河 亲情刀",
-      "onboard_time": 1730545098,
       "rank": 13,
       "category": "剧集"
     },
@@ -979,6 +995,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 208926,
+      "num": 208926,
+      "word": "南京玄武湖惊现野猪横渡",
+      "onboard_time": 1730541798,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205655,
       "num": 205655,
       "word": "杀父骗保男子系家中独子很受宠",
@@ -1035,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195495,
+      "num": 195495,
+      "word": "丁禹兮古装",
+      "onboard_time": 1730546898,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "虞书欣凌妙妙黑化前vs黑化后",
@@ -1049,6 +1081,38 @@
       "onboard_time": 1730528176,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192109,
+      "num": 192109,
+      "word": "萧敬腾林有慧捐出全部婚礼礼金",
+      "onboard_time": 1730546778,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191504,
+      "num": 191504,
+      "word": "导游误把乙二醇当锅底游客吃中毒",
+      "onboard_time": 1730546598,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190555,
+      "num": 190555,
+      "word": "周雨彤英文翻译演我本人",
+      "onboard_time": 1730546778,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189932,
+      "num": 189932,
+      "word": "税务师法律",
+      "onboard_time": 1730546659,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 189783,
@@ -1153,14 +1217,6 @@
       "onboard_time": 1730523077,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173612,
-      "num": 173612,
-      "word": "南京玄武湖惊现野猪横渡",
-      "onboard_time": 1730541798,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173579,
@@ -1307,8 +1363,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 157335,
-      "num": 157335,
+      "raw_hot": 157344,
+      "num": 157344,
       "word": "肥而不溺的萨摩耶",
       "onboard_time": 1730544078,
       "rank": 35,
@@ -1377,6 +1433,14 @@
       "onboard_time": 1730515997,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149032,
+      "num": 149032,
+      "word": "杭州通报男子理发消费2万多元",
+      "onboard_time": 1730545938,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146374,
@@ -1475,6 +1539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139068,
+      "num": 244297,
+      "word": "大冰回应帮麦子阿姨向南走",
+      "onboard_time": 1730542518,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "免签",
@@ -1539,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134978,
+      "num": 134978,
+      "word": "令狐茂",
+      "onboard_time": 1730546479,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133414,
       "num": 133414,
       "word": "酷云",
@@ -1568,6 +1648,14 @@
       "word": "珠帘玉幕纯恨vs纯爱",
       "onboard_time": 1730529618,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131058,
+      "num": 131058,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1683,6 +1771,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124193,
+      "num": 132821,
+      "word": "特朗普或再次提前宣布胜选",
+      "onboard_time": 1730545277,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 123821,
+      "num": 186222,
+      "word": "Uzi说今晚偷奖杯",
+      "onboard_time": 1730545578,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120699,
       "num": 120699,
       "word": "闵塔鲨用心",
@@ -1771,14 +1875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114708,
-      "num": 244297,
-      "word": "大冰回应帮麦子阿姨向南走",
-      "onboard_time": 1730542518,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114601,
       "num": 114601,
       "word": "明起强冷空气将驱散雾霾",
@@ -1843,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110976,
-      "num": 110976,
-      "word": "杭州通报男子理发消费2万多元",
-      "onboard_time": 1730545938,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110973,
       "num": 292583,
       "word": "美特勤局公布特朗普遇刺调查摘要",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1730524518,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109389,
+      "num": 109389,
+      "word": "睡觉时最伤脊椎的睡姿",
+      "onboard_time": 1730546839,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108737,
@@ -2075,6 +2171,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 95151,
+      "num": 299265,
+      "word": "记者暗访陪伴式私人影院",
+      "onboard_time": 1730546418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95139,
       "num": 95139,
       "word": "男女厕位比1比2是社会进步",
@@ -2104,14 +2208,6 @@
       "word": "K7034列车部分旅客可全额退票",
       "onboard_time": 1730521038,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92636,
-      "num": 289508,
-      "word": "K7034列车脱轨线路近10年3次脱轨",
-      "onboard_time": 1730545458,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2275,14 +2371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65678,
-      "num": 186222,
-      "word": "Uzi说今晚偷奖杯",
-      "onboard_time": 1730545578,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 63506,
       "num": 259553,
       "word": "女子在广西白龙洞潜水溺亡亲属发声",
@@ -2377,14 +2465,6 @@
       "onboard_time": 1730522177,
       "rank": 14,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 44508,
-      "num": 132821,
-      "word": "特朗普或再次提前宣布胜选",
-      "onboard_time": 1730545277,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 42832,
@@ -2603,6 +2683,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 23756,
+      "num": 224114,
+      "word": "全智贤谈演员的恐惧",
+      "onboard_time": 1730546180,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22823,
       "num": 25023,
       "word": "清澈的爱只为中国",
@@ -2721,14 +2809,6 @@
       "onboard_time": 1730515997,
       "rank": 19,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 10523,
-      "num": 224114,
-      "word": "全智贤谈演员的恐惧",
-      "onboard_time": 1730546180,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 10416,
