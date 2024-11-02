@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730587116650,
+  "endTime": 1730589808889,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -595,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158803,
+      "num": 563488,
+      "word": "私人影院低价吸引顾客到店嫖娼",
+      "onboard_time": 1730566223,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "长期穿鲨鱼裤易增加真菌感染风险",
@@ -649,14 +657,6 @@
       "onboard_time": 1730565498,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133692,
-      "num": 563488,
-      "word": "私人影院低价吸引顾客到店嫖娼",
-      "onboard_time": 1730566223,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133513,
@@ -747,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97910,
+      "num": 159292,
+      "word": "交警怒斥家长占道接孩子",
+      "onboard_time": 1730575872,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97791,
       "num": 97791,
       "word": "你好星期六下期是大梦归离",
@@ -811,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68349,
+      "num": 80827,
+      "word": "珠帘玉幕宣传",
+      "onboard_time": 1730555720,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60235,
+      "num": 94396,
+      "word": "美国男子持仿真枪与警方冲突被击毙",
+      "onboard_time": 1730588114,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 56244,
       "num": 56244,
       "word": "永夜星河 亲情刀",
@@ -835,12 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45250,
-      "num": 159292,
-      "word": "交警怒斥家长占道接孩子",
-      "onboard_time": 1730575872,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 51527,
+      "num": 51527,
+      "word": "睡得晚和睡得少哪个伤害大",
+      "onboard_time": 1730579111,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 45081,
@@ -851,12 +875,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31074,
-      "num": 31074,
-      "word": "睡得晚和睡得少哪个伤害大",
-      "onboard_time": 1730579111,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 44787,
+      "num": 44787,
+      "word": "神十八航天员完成全部既定任务",
+      "onboard_time": 1730586552,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41653,
+      "num": 41653,
+      "word": "结婚的意义找到了",
+      "onboard_time": 1730586673,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 30034,
@@ -889,14 +921,6 @@
       "onboard_time": 1730579720,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22546,
-      "num": 39993,
-      "word": "珠帘玉幕宣传",
-      "onboard_time": 1730555720,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 21849,
@@ -1009,6 +1033,22 @@
       "onboard_time": 1730577793,
       "rank": 20,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 11376,
+      "num": 98084,
+      "word": "邮寄黄金新型诈骗从一张月饼券开始",
+      "onboard_time": 1730589615,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9617,
+      "num": 98049,
+      "word": "Bin 永远尊重faker",
+      "onboard_time": 1730589675,
+      "rank": 19,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
