@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730504146888,
+  "endTime": 1730511650852,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -11,12 +11,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1833924,
+      "num": 1833924,
+      "word": "K7034列车发生脱轨事故",
+      "onboard_time": 1730504295,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1830817,
       "num": 1830817,
       "word": "美国请求中国出借月壤",
       "onboard_time": 1730474240,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1314771,
+      "num": 384183,
+      "word": "谁可以告诉黄圣依这件事情",
+      "onboard_time": 1730504715,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 955472,
+      "num": 955472,
+      "word": "雷军辟谣偷喝过员工酸奶",
+      "onboard_time": 1730504657,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 843532,
@@ -51,6 +75,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 546135,
+      "num": 546135,
+      "word": "外籍友人跳河救人获见义勇为奖励",
+      "onboard_time": 1730500813,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 533237,
+      "num": 383312,
+      "word": "刘晓庆曾给刘涛演丫鬟",
+      "onboard_time": 1730507238,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520018,
       "num": 520018,
       "word": "多个网红走红后暂时停播",
@@ -67,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508066,
+      "num": 492992,
+      "word": "特朗普称能很快修复拜登造成的破坏",
+      "onboard_time": 1730505558,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 501875,
+      "num": 501875,
+      "word": "鞠婧祎 丝芭",
+      "onboard_time": 1730507898,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493302,
       "num": 493302,
       "word": "张泉灵 再见爱人4受害者",
@@ -75,12 +131,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410546,
-      "num": 410546,
+      "raw_hot": 444531,
+      "num": 444531,
       "word": "潘宏爱玩狗涉嫌虐狗吗",
       "onboard_time": 1730481254,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 428564,
+      "num": 428564,
+      "word": "河南女性职工每月可享2天痛经假",
+      "onboard_time": 1730509878,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424773,
+      "num": 161690,
+      "word": "婴儿嗜睡父母怀疑被喂安眠药",
+      "onboard_time": 1730506216,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389485,
@@ -187,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262705,
+      "num": 262705,
+      "word": "高雅cp售后",
+      "onboard_time": 1730507238,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258876,
       "num": 258876,
       "word": "纽约地铁偶遇李维嘉",
@@ -203,12 +283,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 239315,
+      "raw_hot": 242387,
       "num": 195273,
       "word": "26岁女子确诊渐冻症前后判若两人",
       "onboard_time": 1730468481,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239856,
+      "num": 239856,
+      "word": "杨洋新造型梦回于途",
+      "onboard_time": 1730508497,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 220027,
@@ -235,6 +323,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 205413,
+      "num": 205413,
+      "word": "短剧三大男主录芒果综艺",
+      "onboard_time": 1730503395,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197328,
+      "num": 160587,
+      "word": "杀父骗保男子系家中独子很受宠",
+      "onboard_time": 1730509878,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189783,
       "num": 189783,
       "word": "俄对谷歌罚款超全球GDP总额",
@@ -259,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171539,
+      "num": 171539,
+      "word": "虞书欣永夜星河用的是同期声",
+      "onboard_time": 1730506457,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161474,
       "num": 161474,
       "word": "迪丽热巴直播",
@@ -275,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160074,
+      "num": 160074,
+      "word": "尔滨导游一走神小金土豆就付款了",
+      "onboard_time": 1730473699,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154971,
       "num": 154971,
       "word": "珠帘玉幕",
@@ -283,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149167,
-      "num": 149167,
-      "word": "尔滨导游一走神小金土豆就付款了",
-      "onboard_time": 1730473699,
+      "raw_hot": 150465,
+      "num": 150465,
+      "word": "一下子懂了航天员要回地球的快乐",
+      "onboard_time": 1730506997,
       "rank": 28,
-      "category": "社会新闻"
+      "category": "国内时政"
     },
     {
       "raw_hot": 140707,
@@ -297,6 +417,14 @@
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140239,
+      "num": 140239,
+      "word": "不敢想她这一辈子会有多精彩",
+      "onboard_time": 1730510957,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 138993,
@@ -331,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131859,
+      "num": 131859,
+      "word": "男子接FaceTime电话被骗15万",
+      "onboard_time": 1730507177,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127584,
+      "num": 127584,
+      "word": "hybe说朴成训变丑了",
+      "onboard_time": 1730507717,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127492,
       "num": 127492,
       "word": "白鹿泰国见面会绿毯",
@@ -339,20 +483,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126214,
+      "num": 384827,
+      "word": "联合国报告员坚持以色列犯下种族灭绝罪",
+      "onboard_time": 1730510178,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 125507,
+      "num": 125507,
+      "word": "hybe新报告大点兵",
+      "onboard_time": 1730508497,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124660,
       "num": 124660,
       "word": "烧伤妈妈看到孩子视频落泪",
       "onboard_time": 1730499191,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123911,
-      "num": 123911,
-      "word": "外籍友人跳河救人获见义勇为奖励",
-      "onboard_time": 1730500813,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 120699,
@@ -443,6 +595,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106892,
+      "num": 106892,
+      "word": "Bin决赛要零封T1",
+      "onboard_time": 1730502854,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105958,
+      "num": 105958,
+      "word": "神十八航天员要下班了",
+      "onboard_time": 1730505738,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104787,
       "num": 121661,
       "word": "永夜星河 勾引我",
@@ -473,6 +641,14 @@
       "onboard_time": 1730476760,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100215,
+      "num": 100215,
+      "word": "祝绪丹演技",
+      "onboard_time": 1730511257,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 99564,
@@ -515,6 +691,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90321,
+      "num": 90321,
+      "word": "加沙的水可能变成武器",
+      "onboard_time": 1730511498,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 90208,
+      "num": 90208,
+      "word": "吕梁民政局称明年初结婚或大增",
+      "onboard_time": 1730487432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90039,
       "num": 149752,
       "word": "山西一地规定女性35岁前结婚奖1500元",
@@ -523,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88048,
-      "num": 88048,
-      "word": "Bin决赛要零封T1",
-      "onboard_time": 1730502854,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "王楚钦王曼昱领衔法兰克福冠军赛",
+      "onboard_time": 1730509459,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 86322,
@@ -547,12 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85953,
-      "num": 94174,
-      "word": "短剧三大男主录芒果综艺",
-      "onboard_time": 1730503395,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 84038,
+      "num": 84038,
+      "word": "珠帘玉幕猫眼热度TOP1",
+      "onboard_time": 1730505375,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83285,
+      "num": 83285,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730511378,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79630,
@@ -571,12 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78491,
-      "num": 78491,
-      "word": "吕梁民政局称明年初结婚或大增",
-      "onboard_time": 1730487432,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 78227,
+      "num": 78227,
+      "word": "林俊杰嘉宾是王源",
+      "onboard_time": 1730506997,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 72540,
