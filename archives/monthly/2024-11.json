@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730575169731,
+  "endTime": 1730576120695,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592231,
+      "num": 592231,
+      "word": "Uzi捧杯图P好了",
+      "onboard_time": 1730574496,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 587108,
       "num": 834808,
       "word": "正午阳光 切不动了",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1730536877,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552890,
-      "num": 552890,
-      "word": "Uzi捧杯图P好了",
-      "onboard_time": 1730574496,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 552641,
@@ -1708,7 +1708,7 @@
     },
     {
       "raw_hot": 400518,
-      "num": 319741,
+      "num": 385943,
       "word": "Bin直视镜头",
       "onboard_time": 1730573477,
       "rank": 30,
@@ -2627,6 +2627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 247173,
+      "num": 683096,
+      "word": "米勒",
+      "onboard_time": 1730575214,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246753,
       "num": 246753,
       "word": "上海暴雨",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1730387180,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228289,
+      "num": 198378,
+      "word": "BLG赛后采访",
+      "onboard_time": 1730575394,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 225074,
@@ -3947,6 +3963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161073,
+      "num": 161073,
+      "word": "ON OFF",
+      "onboard_time": 1730574915,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160896,
       "num": 160896,
       "word": "吉利集团声明",
@@ -4329,6 +4353,14 @@
       "onboard_time": 1730345239,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147594,
+      "num": 147594,
+      "word": "米勒发博",
+      "onboard_time": 1730575574,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 147277,
@@ -5097,14 +5129,6 @@
       "onboard_time": 1730418317,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119087,
-      "num": 119087,
-      "word": "ON OFF",
-      "onboard_time": 1730574915,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 118920,
@@ -7180,7 +7204,7 @@
     },
     {
       "raw_hot": 15931,
-      "num": 281270,
+      "num": 631698,
       "word": "ChinaTravel热潮背后是满满的机遇",
       "onboard_time": 1730572162,
       "rank": 34,
@@ -7313,6 +7337,14 @@
       "onboard_time": 1730409371,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12721,
+      "num": 159292,
+      "word": "交警怒斥家长占道接孩子",
+      "onboard_time": 1730575872,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12593,
