@@ -1,0 +1,410 @@
+{
+  "runTime": 1730540146429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2547223,
+        "num": 2547223,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867688,
+        "num": 867688,
+        "word": "三只羊已全额缴纳罚款",
+        "onboard_time": 1730534717,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 37935,
+        "num": 592888,
+        "word": "公安部网安局揭开帮信罪真面目",
+        "onboard_time": 1730539159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572276,
+        "num": 572276,
+        "word": "婚后发现丈夫婚前确诊艾滋病能撤婚吗",
+        "onboard_time": 1730538018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551824,
+        "num": 551824,
+        "word": "杨子承认不够尊重黄圣依",
+        "onboard_time": 1730536877,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539709,
+        "num": 539709,
+        "word": "妇女可以依法查询配偶财产状况",
+        "onboard_time": 1730535260,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489318,
+        "num": 489318,
+        "word": "上海住房公积金新政实施",
+        "onboard_time": 1730536877,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410279,
+        "num": 410279,
+        "word": "珠帘玉幕 镜头对准施暴者",
+        "onboard_time": 1730536459,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336449,
+        "num": 336449,
+        "word": "边牧走丢后自己去派出所报警",
+        "onboard_time": 1730537658,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291435,
+        "num": 321780,
+        "word": "三只羊嘴哥复播",
+        "onboard_time": 1730539277,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1326550,
+        "num": 321252,
+        "word": "张雨绮男友自曝年入九位数",
+        "onboard_time": 1730533577,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444029,
+        "num": 321252,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320656,
+        "num": 320656,
+        "word": "警方回应同学被打男生要报警被老师呵斥",
+        "onboard_time": 1730536099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280034,
+        "num": 280034,
+        "word": "网红云南阿奎妻子首次直播被封禁",
+        "onboard_time": 1730534237,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135785,
+        "num": 264224,
+        "word": "婚姻里一定要有私房钱",
+        "onboard_time": 1730538619,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259378,
+        "num": 259378,
+        "word": "一学生实名举报重庆某高校",
+        "onboard_time": 1730536398,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242879,
+        "num": 259366,
+        "word": "范丞丞卢昱晓贴额头对视",
+        "onboard_time": 1730532858,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227589,
+        "num": 259210,
+        "word": "虞书欣 扛剧",
+        "onboard_time": 1730525837,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49347,
+        "num": 258985,
+        "word": "上海海港夺得中超冠军",
+        "onboard_time": 1730540058,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21383,
+        "num": 258974,
+        "word": "律师谈姐姐为亡弟追凶自行取证",
+        "onboard_time": 1730539699,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620966,
+        "num": 258797,
+        "word": "买刮刮乐中百万2小伙已恢复工作",
+        "onboard_time": 1730538438,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395631,
+        "num": 258660,
+        "word": "13岁女孩遭性侵还被引诱卖淫",
+        "onboard_time": 1730526616,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265664,
+        "num": 258570,
+        "word": "同学被打男生要报警被老师呵斥",
+        "onboard_time": 1730535018,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258460,
+        "num": 258460,
+        "word": "美国大选",
+        "onboard_time": 1730522477,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223542,
+        "num": 223542,
+        "word": "张九南婚礼",
+        "onboard_time": 1730527217,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212885,
+        "num": 212885,
+        "word": "肖战版射雕首次改编襄阳保卫战",
+        "onboard_time": 1730538379,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209497,
+        "num": 209497,
+        "word": "小小的我全球首映口碑",
+        "onboard_time": 1730531598,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189398,
+        "num": 189398,
+        "word": "付航忘加何老师微信好友",
+        "onboard_time": 1730539819,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186425,
+        "num": 186425,
+        "word": "曾舜晞碎钻耳钉",
+        "onboard_time": 1730539339,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8007,
+        "num": 185151,
+        "word": "上海海港5比0天津津门虎",
+        "onboard_time": 1730540058,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184823,
+        "num": 184823,
+        "word": "by2一字马11年前后对比",
+        "onboard_time": 1730537178,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181413,
+        "num": 181413,
+        "word": "湖南一女子被拘禁5年遭强奸产女",
+        "onboard_time": 1730518637,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175648,
+        "num": 175648,
+        "word": "哈尔滨冰雪大世界扩至100万平米",
+        "onboard_time": 1730538977,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157980,
+        "num": 157980,
+        "word": "唐九洲 黄子弘凡不在都没人哭",
+        "onboard_time": 1730534837,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151287,
+        "num": 151287,
+        "word": "各地文旅花式欢迎麦子奶奶",
+        "onboard_time": 1730539039,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144815,
+        "num": 144815,
+        "word": "陈都灵扮相",
+        "onboard_time": 1730531417,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136677,
+        "num": 136677,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131707,
+        "num": 131707,
+        "word": "三只羊部分主播隐MCN标识复播",
+        "onboard_time": 1730530098,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119096,
+        "num": 119096,
+        "word": "Hybe不希望Jennie获得成功",
+        "onboard_time": 1730525177,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110511,
+        "num": 110511,
+        "word": "毒液",
+        "onboard_time": 1730537719,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109307,
+        "num": 109307,
+        "word": "永夜星河 卡剧情",
+        "onboard_time": 1730525598,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108129,
+        "num": 108129,
+        "word": "杨子说过黄圣依膀大腰圆",
+        "onboard_time": 1730535737,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107578,
+        "num": 107578,
+        "word": "林诗栋3比2宇田幸矢",
+        "onboard_time": 1730537477,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107119,
+        "num": 107119,
+        "word": "张晚意付航i人相处演我",
+        "onboard_time": 1730538018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106727,
+        "num": 106727,
+        "word": "中超",
+        "onboard_time": 1730535138,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105925,
+        "num": 105925,
+        "word": "赛力斯回应昆明问界M9事故",
+        "onboard_time": 1730529437,
+        "rank": 45,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 104029,
+        "num": 104029,
+        "word": "珠帘玉幕首日云合",
+        "onboard_time": 1730537898,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103576,
+        "num": 103576,
+        "word": "芬兰总统三连感谢中国免签",
+        "onboard_time": 1730523798,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102537,
+        "num": 102537,
+        "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
+        "onboard_time": 1730523678,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100566,
+        "num": 100566,
+        "word": "再见爱人第二季嘉宾张婉婷力挺麦琳",
+        "onboard_time": 1730535619,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对岑浩辉获中央政府任命表示祝贺#"
+    }
+  }
+}
