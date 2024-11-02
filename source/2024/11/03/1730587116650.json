@@ -1,0 +1,410 @@
+{
+  "runTime": 1730587116650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 784276,
+        "num": 784276,
+        "word": "T1夺冠",
+        "onboard_time": 1730572162,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252440,
+        "num": 252440,
+        "word": "BLG对战T1",
+        "onboard_time": 1730555238,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10970,
+        "num": 209630,
+        "word": "C919和ARJ21首次双机编队飞行",
+        "onboard_time": 1730553561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178912,
+        "num": 178912,
+        "word": "薛之谦晒与赵露思聊天记录",
+        "onboard_time": 1730560582,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158289,
+        "num": 158289,
+        "word": "正午阳光 切不动了",
+        "onboard_time": 1730563223,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150966,
+        "num": 150966,
+        "word": "美国女子带两娃跳下60米高瀑布",
+        "onboard_time": 1730561003,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141218,
+        "num": 141218,
+        "word": "郑钦文总决赛首秀落败",
+        "onboard_time": 1730565920,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139277,
+        "num": 139277,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128195,
+        "num": 128195,
+        "word": "没有伤害任何人",
+        "onboard_time": 1730559680,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12875,
+        "num": 113981,
+        "word": "北京发布大风蓝色预警",
+        "onboard_time": 1730586014,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429056,
+        "num": 111716,
+        "word": "赵露思给韩安冉发的语音",
+        "onboard_time": 1730564539,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105929,
+        "num": 105929,
+        "word": "Faker LPL无法逾越的大山",
+        "onboard_time": 1730572702,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98676,
+        "num": 98676,
+        "word": "On失误",
+        "onboard_time": 1730571135,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82764,
+        "num": 82764,
+        "word": "Faker FMVP",
+        "onboard_time": 1730573836,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81893,
+        "num": 81893,
+        "word": "绝境李相赫",
+        "onboard_time": 1730569042,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81122,
+        "num": 81122,
+        "word": "BLG赛后采访",
+        "onboard_time": 1730575394,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79611,
+        "num": 79611,
+        "word": "私人影院低价吸引顾客到店嫖娼",
+        "onboard_time": 1730566223,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67019,
+        "num": 67019,
+        "word": "Faker五冠王",
+        "onboard_time": 1730572162,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62424,
+        "num": 62424,
+        "word": "成功95花的背后",
+        "onboard_time": 1730564420,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56664,
+        "num": 60732,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148329,
+        "num": 60651,
+        "word": "覃海洋成绩被取消",
+        "onboard_time": 1730549179,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110246,
+        "num": 60273,
+        "word": "小伙称按摩后禁不住怂恿花一万五",
+        "onboard_time": 1730563403,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59569,
+        "num": 59569,
+        "word": "管泽元 求闭嘴",
+        "onboard_time": 1730568077,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57567,
+        "num": 57567,
+        "word": "覃海洋回应近日争议",
+        "onboard_time": 1730556260,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54318,
+        "num": 54318,
+        "word": "2小伙买刮刮乐中百万室友发声",
+        "onboard_time": 1730553320,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51740,
+        "num": 51740,
+        "word": "女子超市做切眼袋手术致左眼失明",
+        "onboard_time": 1730548938,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50144,
+        "num": 50144,
+        "word": "谁说Faker老了这Faker太棒了",
+        "onboard_time": 1730573596,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48896,
+        "num": 48896,
+        "word": "Uzi捧杯图P好了",
+        "onboard_time": 1730574496,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47347,
+        "num": 47347,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29732,
+        "num": 46309,
+        "word": "张雨绮男友回应",
+        "onboard_time": 1730572034,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46024,
+        "num": 46024,
+        "word": "BLG教练",
+        "onboard_time": 1730563522,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43494,
+        "num": 43494,
+        "word": "米勒发博",
+        "onboard_time": 1730575574,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36081,
+        "num": 36081,
+        "word": "交警怒斥家长占道接孩子",
+        "onboard_time": 1730575872,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34251,
+        "num": 34251,
+        "word": "TES",
+        "onboard_time": 1730563882,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32985,
+        "num": 32985,
+        "word": "全华班",
+        "onboard_time": 1730562019,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32618,
+        "num": 32618,
+        "word": "乔任梁",
+        "onboard_time": 1730567118,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32500,
+        "num": 32500,
+        "word": "Keria泪洒赛场",
+        "onboard_time": 1730573417,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31308,
+        "num": 31308,
+        "word": "英雄联盟",
+        "onboard_time": 1730571854,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31074,
+        "num": 31074,
+        "word": "睡得晚和睡得少哪个伤害大",
+        "onboard_time": 1730579111,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30359,
+        "num": 30359,
+        "word": "加里奥",
+        "onboard_time": 1730564839,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29597,
+        "num": 29597,
+        "word": "摇人",
+        "onboard_time": 1730558300,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29040,
+        "num": 29040,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28700,
+        "num": 28700,
+        "word": "BLG和T1决胜局",
+        "onboard_time": 1730568981,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28478,
+        "num": 28478,
+        "word": "Bin哥厉害",
+        "onboard_time": 1730569757,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28067,
+        "num": 28067,
+        "word": "Zeus就这样穿着V5出来了",
+        "onboard_time": 1730574376,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27265,
+        "num": 27265,
+        "word": "Faker太猛了",
+        "onboard_time": 1730568736,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27144,
+        "num": 27144,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730557341,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26266,
+        "num": 26266,
+        "word": "T1维持对LPL不败金身",
+        "onboard_time": 1730576592,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25917,
+        "num": 25917,
+        "word": "LPL",
+        "onboard_time": 1730573178,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19729,
+        "num": 25620,
+        "word": "虞书欣很会选剧本",
+        "onboard_time": 1730547258,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这篇文章透露了改革的几个重要信号#"
+    }
+  }
+}

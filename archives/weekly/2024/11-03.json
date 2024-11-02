@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730586075377,
+  "endTime": 1730587116650,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -851,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31074,
+      "num": 31074,
+      "word": "睡得晚和睡得少哪个伤害大",
+      "onboard_time": 1730579111,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30034,
       "num": 4357457,
       "word": "C919和ARJ21首次双机编队飞行",
@@ -859,12 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28073,
-      "num": 29607,
-      "word": "睡得晚和睡得少哪个伤害大",
-      "onboard_time": 1730579111,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 27144,
+      "num": 41808,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730557341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 25760,
@@ -873,14 +881,6 @@
       "onboard_time": 1730572222,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24539,
-      "num": 41808,
-      "word": "珠帘玉幕",
-      "onboard_time": 1730557341,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 22694,
@@ -987,8 +987,8 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 12753,
-      "num": 40338,
+      "raw_hot": 12875,
+      "num": 113981,
       "word": "北京发布大风蓝色预警",
       "onboard_time": 1730586014,
       "rank": 29,
