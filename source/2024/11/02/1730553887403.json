@@ -1,0 +1,410 @@
+{
+  "runTime": 1730553887403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2798059,
+        "num": 2798059,
+        "word": "覃海洋成绩被取消",
+        "onboard_time": 1730549179,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 862724,
+        "num": 862724,
+        "word": "覃海洋犯规",
+        "onboard_time": 1730548759,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33094,
+        "num": 857146,
+        "word": "C919和ARJ21首次双机编队飞行",
+        "onboard_time": 1730553561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852055,
+        "num": 852055,
+        "word": "小巷人家会成为下一部电子榨菜吗",
+        "onboard_time": 1730549839,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 743917,
+        "num": 743917,
+        "word": "周雨彤支持赵露思新剧",
+        "onboard_time": 1730553080,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 692786,
+        "num": 692786,
+        "word": "蒯曼女单冠军",
+        "onboard_time": 1730552419,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626009,
+        "num": 626009,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538782,
+        "num": 538782,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468705,
+        "num": 468705,
+        "word": "中印边境士兵开始协同巡逻",
+        "onboard_time": 1730551399,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314241,
+        "num": 446326,
+        "word": "警方续报19岁男子持械行凶原因",
+        "onboard_time": 1730552360,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546899,
+        "num": 445007,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511760,
+        "num": 444893,
+        "word": "魅女 怨女",
+        "onboard_time": 1730549539,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442659,
+        "num": 442659,
+        "word": "应届生称不喜欢部队生活退伍被惩戒",
+        "onboard_time": 1730543719,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396346,
+        "num": 396346,
+        "word": "EXO经纪人发文",
+        "onboard_time": 1730553261,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25749,
+        "num": 370448,
+        "word": "付航说passion是拍甚",
+        "onboard_time": 1730552419,
+        "rank": 14,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 354296,
+        "num": 354296,
+        "word": "东京偶遇周雨彤",
+        "onboard_time": 1730548818,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321779,
+        "num": 321779,
+        "word": "赵露思晒泳照",
+        "onboard_time": 1730541318,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320534,
+        "num": 320534,
+        "word": "买刮刮乐中百万2小伙已恢复工作",
+        "onboard_time": 1730538438,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252796,
+        "num": 252796,
+        "word": "小巷人家",
+        "onboard_time": 1730548459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245708,
+        "num": 245708,
+        "word": "医生提醒死亡游戏严重者会危及生命",
+        "onboard_time": 1730545398,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941415,
+        "num": 244446,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476721,
+        "num": 242740,
+        "word": "私人影院肢体接触明码标价",
+        "onboard_time": 1730540598,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458515,
+        "num": 241097,
+        "word": "女子超市做切眼袋手术致左眼失明",
+        "onboard_time": 1730548938,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374117,
+        "num": 239359,
+        "word": "拾荒老人去看病竟掏出一代身份证",
+        "onboard_time": 1730547318,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301428,
+        "num": 237362,
+        "word": "导游误把乙二醇当锅底游客吃中毒",
+        "onboard_time": 1730546598,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284762,
+        "num": 234725,
+        "word": "睡觉时最伤脊椎的睡姿",
+        "onboard_time": 1730546839,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233582,
+        "num": 233582,
+        "word": "张雨绮男友自曝年入九位数",
+        "onboard_time": 1730533577,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230135,
+        "num": 230135,
+        "word": "永夜星河第七集",
+        "onboard_time": 1730550258,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190085,
+        "num": 190085,
+        "word": "张艺兴厦门演唱会",
+        "onboard_time": 1730552780,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14576,
+        "num": 182704,
+        "word": "十几批核查组派而不动何谈营商",
+        "onboard_time": 1730553500,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182654,
+        "num": 182654,
+        "word": "虞书欣很会选剧本",
+        "onboard_time": 1730547258,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175399,
+        "num": 175399,
+        "word": "特朗普或再次提前宣布胜选",
+        "onboard_time": 1730545277,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176915,
+        "num": 175365,
+        "word": "慕声扯发带",
+        "onboard_time": 1730553500,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172343,
+        "num": 172343,
+        "word": "逆水寒",
+        "onboard_time": 1730553261,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170920,
+        "num": 170920,
+        "word": "女生买鞋被店家索要试鞋费",
+        "onboard_time": 1730551041,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42541,
+        "num": 168187,
+        "word": "公安部网安局揭开帮信罪真面目",
+        "onboard_time": 1730539159,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167244,
+        "num": 167244,
+        "word": "林诗栋vs温瑞博",
+        "onboard_time": 1730552960,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166774,
+        "num": 166774,
+        "word": "男子为结婚花10万为女友前夫做法事",
+        "onboard_time": 1730542278,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165292,
+        "num": 165292,
+        "word": "原来凌妙妙还在酒店上过班呢",
+        "onboard_time": 1730550138,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60056,
+        "num": 157580,
+        "word": "2小伙买刮刮乐中百万室友发声",
+        "onboard_time": 1730553320,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157254,
+        "num": 157254,
+        "word": "林俊杰王源合唱翅膀",
+        "onboard_time": 1730553739,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144525,
+        "num": 144525,
+        "word": "蒯曼4比2钱天一",
+        "onboard_time": 1730552660,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142193,
+        "num": 142193,
+        "word": "国乒包揽马斯喀特站五冠",
+        "onboard_time": 1730550859,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141268,
+        "num": 141268,
+        "word": "Faker说第五冠送给粉丝",
+        "onboard_time": 1730547559,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 128621,
+        "word": "拾荒老人去看病医院操作暖心了",
+        "onboard_time": 1730549779,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 126239,
+        "word": "陈可儿身高",
+        "onboard_time": 1730553200,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122452,
+        "num": 122452,
+        "word": "张远演唱会",
+        "onboard_time": 1730550258,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123239,
+        "num": 122254,
+        "word": "令人心动的offer 清北大战留子",
+        "onboard_time": 1730550619,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121316,
+        "num": 121316,
+        "word": "婚后发现丈夫婚前确诊艾滋病能撤婚吗",
+        "onboard_time": 1730538018,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119385,
+        "num": 119385,
+        "word": "西湖偶遇薛凯琪了",
+        "onboard_time": 1730553680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这篇文章透露了改革的几个重要信号#"
+    }
+  }
+}
