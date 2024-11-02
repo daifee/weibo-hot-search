@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730542908833,
+  "endTime": 1730543951419,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -656,6 +656,14 @@
       "word": "铁路南京站通报机械师被撞身亡",
       "onboard_time": 1730178679,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1688745,
+      "num": 1688745,
+      "word": "私人影院肢体接触明码标价",
+      "onboard_time": 1730540598,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1763,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1008031,
-      "num": 1161284,
-      "word": "私人影院肢体接触明码标价",
-      "onboard_time": 1730540598,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1003206,
       "num": 1003206,
       "word": "卡车撞以色列公交站司机已被打死",
@@ -2027,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929108,
+      "num": 261837,
+      "word": "赵露思晒泳照",
+      "onboard_time": 1730541318,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 925703,
       "num": 1148112,
       "word": "会跳yes ok的来了",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1730254997,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 880401,
-      "num": 261837,
-      "word": "赵露思晒泳照",
-      "onboard_time": 1730541318,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 878996,
@@ -5275,6 +5275,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 408019,
+      "num": 408019,
+      "word": "婚姻里一定要有私房钱",
+      "onboard_time": 1730538619,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408013,
       "num": 408013,
       "word": "钟南山谈怎么培养孙子的好奇心",
@@ -5472,6 +5480,14 @@
       "word": "烧伤妈妈丈夫回应质疑",
       "onboard_time": 1730286258,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391316,
+      "num": 391316,
+      "word": "哈尔滨冰雪大世界扩至100万平米",
+      "onboard_time": 1730538977,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6675,6 +6691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304751,
+      "num": 304751,
+      "word": "燕子京 死嘴你快哄啊",
+      "onboard_time": 1730541738,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304579,
       "num": 304579,
       "word": "90后真的要上天了",
@@ -6825,6 +6849,14 @@
       "onboard_time": 1730086339,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298758,
+      "num": 298758,
+      "word": "张大大晒与赵露思华晨宇合照",
+      "onboard_time": 1730542518,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 298376,
@@ -7233,14 +7265,6 @@
       "onboard_time": 1730046497,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 281089,
-      "num": 281089,
-      "word": "哈尔滨冰雪大世界扩至100万平米",
-      "onboard_time": 1730538977,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281027,
@@ -7691,16 +7715,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260825,
-      "num": 264224,
-      "word": "婚姻里一定要有私房钱",
-      "onboard_time": 1730538619,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260373,
-      "num": 189398,
+      "num": 190368,
       "word": "付航忘加何老师微信好友",
       "onboard_time": 1730539819,
       "rank": 27,
@@ -7889,6 +7905,14 @@
       "onboard_time": 1730274079,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 253551,
+      "num": 230314,
+      "word": "男子为结婚花10万为女友前夫做法事",
+      "onboard_time": 1730542278,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253415,
@@ -9875,6 +9899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202939,
+      "num": 202939,
+      "word": "张峻豪官宣费加罗盛典",
+      "onboard_time": 1730543118,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202922,
       "num": 202922,
       "word": "小西天保安大叔称对不起大家",
@@ -10249,14 +10281,6 @@
       "onboard_time": 1730433619,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197900,
-      "num": 261301,
-      "word": "张大大晒与赵露思华晨宇合照",
-      "onboard_time": 1730542518,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 197842,
@@ -10689,14 +10713,6 @@
       "onboard_time": 1730007079,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191895,
-      "num": 261739,
-      "word": "燕子京 死嘴你快哄啊",
-      "onboard_time": 1730541738,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 191767,
@@ -11291,6 +11307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182202,
+      "num": 188647,
+      "word": "蒲熠星画了名学第100季的logo",
+      "onboard_time": 1730542218,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182173,
       "num": 182173,
       "word": "西行纪完结篇正式开播",
@@ -11729,6 +11753,14 @@
       "onboard_time": 1730369059,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177055,
+      "num": 184970,
+      "word": "BABYMONSTER首批中输",
+      "onboard_time": 1730543658,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 176664,
@@ -13161,14 +13193,6 @@
       "onboard_time": 1730170460,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156685,
-      "num": 163008,
-      "word": "蒲熠星画了名学第100季的logo",
-      "onboard_time": 1730542218,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 156509,
@@ -14707,6 +14731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135028,
+      "num": 135028,
+      "word": "永夜星河 卡剧情",
+      "onboard_time": 1730525598,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134986,
       "num": 134986,
       "word": "日本自卫队员在靖国神社猥亵女子",
@@ -15035,6 +15067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130874,
+      "num": 262483,
+      "word": "波音把厕所皂液器80倍价格卖美军",
+      "onboard_time": 1730541678,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 130729,
       "num": 130729,
       "word": "李海玉为亡弟追凶26年案开庭",
@@ -15233,14 +15273,6 @@
       "onboard_time": 1730516056,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127595,
-      "num": 127595,
-      "word": "永夜星河 卡剧情",
-      "onboard_time": 1730525598,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 127584,
@@ -16235,14 +16267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107770,
-      "num": 107770,
-      "word": "男子为结婚花10万为女友前夫做法事",
-      "onboard_time": 1730542278,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107531,
       "num": 107531,
       "word": "丁禹兮在永夜星河拿了反派剧本",
@@ -16339,6 +16363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106509,
+      "num": 194514,
+      "word": "应届生称不喜欢部队生活退伍被惩戒",
+      "onboard_time": 1730543719,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106420,
       "num": 106420,
       "word": "小小的我东京电影节首映",
@@ -16369,6 +16401,14 @@
       "onboard_time": 1730001797,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104995,
+      "num": 244297,
+      "word": "大冰回应帮麦子阿姨向南走",
+      "onboard_time": 1730542518,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 104788,
@@ -16707,6 +16747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96834,
+      "num": 96834,
+      "word": "黄圣依 我不想再做婚姻里的懒人",
+      "onboard_time": 1730543839,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96059,
       "num": 354738,
       "word": "小米SU7Ultra刹车盘就值一辆车",
@@ -16875,14 +16923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88816,
-      "num": 262483,
-      "word": "波音把厕所皂液器80倍价格卖美军",
-      "onboard_time": 1730541678,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 88395,
       "num": 88395,
       "word": "92岁志愿军英雄回部队让人泪目",
@@ -17003,6 +17043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84418,
+      "num": 96804,
+      "word": "2025乒乓球世界杯时间确定",
+      "onboard_time": 1730543478,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84355,
       "num": 173463,
       "word": "中斯关系一定会驶入快车道",
@@ -17041,6 +17089,14 @@
       "onboard_time": 1730284219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82193,
+      "num": 95568,
+      "word": "双城之战动画第二季",
+      "onboard_time": 1730543778,
+      "rank": 49,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 82043,
@@ -17369,14 +17425,6 @@
       "onboard_time": 1730060650,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 71988,
-      "num": 244297,
-      "word": "大冰回应帮麦子阿姨向南走",
-      "onboard_time": 1730542518,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 71947,
@@ -19713,6 +19761,14 @@
       "onboard_time": 1730095818,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29879,
+      "num": 190086,
+      "word": "RW对战LGDNBW",
+      "onboard_time": 1730543178,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 29801,
