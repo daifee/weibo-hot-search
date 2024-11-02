@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730515884609,
+  "endTime": 1730516493891,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1314771,
-      "num": 398791,
+      "num": 472949,
       "word": "谁可以告诉黄圣依这件事情",
       "onboard_time": 1730504715,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 882350,
+      "num": 882350,
+      "word": "外籍友人跳河救人获见义勇为奖励",
+      "onboard_time": 1730500813,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 843532,
       "num": 843532,
       "word": "29岁网红谎称18岁立悲惨人设圈粉",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781044,
-      "num": 781044,
-      "word": "外籍友人跳河救人获见义勇为奖励",
-      "onboard_time": 1730500813,
-      "rank": 23,
-      "category": "社会正能量"
+      "raw_hot": 806529,
+      "num": 806529,
+      "word": "杨子 财产",
+      "onboard_time": 1730514617,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 707320,
@@ -83,7 +91,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 616970,
+      "raw_hot": 663580,
+      "num": 663580,
+      "word": "花学新课件 田嘉瑞请客烧烤",
+      "onboard_time": 1730514857,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 625477,
       "num": 616970,
       "word": "不敢想她这一辈子会有多精彩",
       "onboard_time": 1730510957,
@@ -99,14 +115,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 590248,
-      "num": 590248,
-      "word": "杨子 财产",
-      "onboard_time": 1730514617,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 552641,
       "num": 552641,
       "word": "特朗普和哈里斯决战摇摆州",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 541733,
-      "num": 495646,
+      "num": 525288,
       "word": "特朗普称能很快修复拜登造成的破坏",
       "onboard_time": 1730505558,
       "rank": 5,
@@ -243,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296446,
-      "num": 296446,
-      "word": "花学新课件 田嘉瑞请客烧烤",
-      "onboard_time": 1730514857,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 312621,
+      "num": 312621,
+      "word": "祝绪丹演技",
+      "onboard_time": 1730511257,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 291615,
@@ -273,14 +281,6 @@
       "onboard_time": 1730472680,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 279366,
-      "num": 279366,
-      "word": "祝绪丹演技",
-      "onboard_time": 1730511257,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 277362,
@@ -387,6 +387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "药水哥分享3年爆改历程",
+      "onboard_time": 1730515039,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 205655,
       "num": 205655,
       "word": "杀父骗保男子系家中独子很受宠",
@@ -409,14 +417,6 @@
       "onboard_time": 1730514557,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198791,
-      "num": 198791,
-      "word": "药水哥分享3年爆改历程",
-      "onboard_time": 1730515039,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 189783,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149597,
+      "num": 149597,
+      "word": "留几手杨子麦琳",
+      "onboard_time": 1730515338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145911,
       "num": 145911,
       "word": "郑钦文去看C罗比赛了",
@@ -499,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145548,
+      "num": 145548,
+      "word": "云合",
+      "onboard_time": 1730514857,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140707,
       "num": 140707,
       "word": "何广智 我的名声这么差吗",
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139132,
+      "num": 139132,
+      "word": "胡夏 隐藏款",
+      "onboard_time": 1730515878,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 138993,
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135047,
+      "num": 135047,
+      "word": "湖人打成表演赛",
+      "onboard_time": 1730515997,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
@@ -547,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127919,
-      "num": 127919,
+      "raw_hot": 129776,
+      "num": 129776,
       "word": "付航不喜欢香蕉的原因找到了",
       "onboard_time": 1730512938,
       "rank": 32,
@@ -569,14 +601,6 @@
       "onboard_time": 1730457499,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126814,
-      "num": 126814,
-      "word": "云合",
-      "onboard_time": 1730514857,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 125946,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123948,
+      "num": 526295,
+      "word": "德国总统就德军二战暴行向希腊道歉",
+      "onboard_time": 1730515157,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 120699,
       "num": 120699,
       "word": "闵塔鲨用心",
@@ -633,14 +665,6 @@
       "onboard_time": 1730474839,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119346,
-      "num": 119346,
-      "word": "留几手杨子麦琳",
-      "onboard_time": 1730515338,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 119173,
@@ -689,6 +713,22 @@
       "onboard_time": 1730468179,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110683,
+      "num": 110683,
+      "word": "近20个省份明确痛经假权益",
+      "onboard_time": 1730515997,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110020,
+      "num": 110020,
+      "word": "郑钦文回应巡回赛没朋友",
+      "onboard_time": 1730516056,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 107698,
@@ -891,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79008,
-      "num": 312286,
-      "word": "德国总统就德军二战暴行向希腊道歉",
-      "onboard_time": 1730515157,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 78645,
       "num": 70258,
       "word": "蒯曼vs钱天一",
@@ -1003,7 +1035,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38813,
+      "raw_hot": 39608,
       "num": 402448,
       "word": "一文回顾鞠婧祎丝芭合约风波",
       "onboard_time": 1730513416,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1730499011,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10572,
+      "num": 211539,
+      "word": "李光洁说蒋欣是我的嘴替",
+      "onboard_time": 1730515997,
+      "rank": 19,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 10416,

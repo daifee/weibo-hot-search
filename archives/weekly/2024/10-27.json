@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730515884609,
+  "endTime": 1730516493891,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -1092,7 +1092,7 @@
     },
     {
       "raw_hot": 1314771,
-      "num": 398791,
+      "num": 472949,
       "word": "谁可以告诉黄圣依这件事情",
       "onboard_time": 1730504715,
       "rank": 10,
@@ -2115,6 +2115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 882350,
+      "num": 882350,
+      "word": "外籍友人跳河救人获见义勇为奖励",
+      "onboard_time": 1730500813,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 881912,
       "num": 774396,
       "word": "赵牧辰阮小咪be",
@@ -2491,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 806529,
+      "num": 806529,
+      "word": "杨子 财产",
+      "onboard_time": 1730514617,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 798937,
       "num": 511442,
       "word": "荣梓杉球鞋",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1730293879,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 781044,
-      "num": 781044,
-      "word": "外籍友人跳河救人获见义勇为奖励",
-      "onboard_time": 1730500813,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 774256,
@@ -3043,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663580,
+      "num": 663580,
+      "word": "花学新课件 田嘉瑞请客烧烤",
+      "onboard_time": 1730514857,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661802,
       "num": 661802,
       "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
@@ -3211,6 +3227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 625477,
+      "num": 616970,
+      "word": "不敢想她这一辈子会有多精彩",
+      "onboard_time": 1730510957,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 625238,
       "num": 580149,
       "word": "机械师被火车碰撞身亡",
@@ -3265,14 +3289,6 @@
       "onboard_time": 1730437939,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616970,
-      "num": 616970,
-      "word": "不敢想她这一辈子会有多精彩",
-      "onboard_time": 1730510957,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 616753,
@@ -3449,14 +3465,6 @@
       "onboard_time": 1729996217,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590248,
-      "num": 590248,
-      "word": "杨子 财产",
-      "onboard_time": 1730514617,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 590110,
@@ -3836,7 +3844,7 @@
     },
     {
       "raw_hot": 541733,
-      "num": 495646,
+      "num": 525288,
       "word": "特朗普称能很快修复拜登造成的破坏",
       "onboard_time": 1730505558,
       "rank": 5,
@@ -6211,6 +6219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 312621,
+      "num": 312621,
+      "word": "祝绪丹演技",
+      "onboard_time": 1730511257,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312601,
       "num": 312601,
       "word": "张琳回应被潘展乐打破纪录",
@@ -6489,14 +6505,6 @@
       "onboard_time": 1730350942,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 296446,
-      "num": 296446,
-      "word": "花学新课件 田嘉瑞请客烧烤",
-      "onboard_time": 1730514857,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 295956,
@@ -6873,14 +6881,6 @@
       "onboard_time": 1730165719,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279366,
-      "num": 279366,
-      "word": "祝绪丹演技",
-      "onboard_time": 1730511257,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 278635,
@@ -9171,6 +9171,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "药水哥分享3年爆改历程",
+      "onboard_time": 1730515039,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 206822,
       "num": 206822,
       "word": "小米15外观",
@@ -9633,14 +9641,6 @@
       "onboard_time": 1730164399,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198791,
-      "num": 198791,
-      "word": "药水哥分享3年爆改历程",
-      "onboard_time": 1730515039,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 198751,
@@ -12963,6 +12963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149597,
+      "num": 149597,
+      "word": "留几手杨子麦琳",
+      "onboard_time": 1730515338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149494,
       "num": 149494,
       "word": "彭小苒暗河传顶级刺客",
@@ -13161,6 +13169,14 @@
       "onboard_time": 1730016198,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145548,
+      "num": 145548,
+      "word": "云合",
+      "onboard_time": 1730514857,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 145312,
@@ -13619,6 +13635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139132,
+      "num": 139132,
+      "word": "胡夏 隐藏款",
+      "onboard_time": 1730515878,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139089,
       "num": 253339,
       "word": "航天员移交钥匙后给自己叫好",
@@ -13857,6 +13881,14 @@
       "onboard_time": 1730471300,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135047,
+      "num": 135047,
+      "word": "湖人打成表演赛",
+      "onboard_time": 1730515997,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 134986,
@@ -14219,6 +14251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129776,
+      "num": 129776,
+      "word": "付航不喜欢香蕉的原因找到了",
+      "onboard_time": 1730512938,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129670,
       "num": 129670,
       "word": "张百乔伴郎团好多熟人",
@@ -14315,14 +14355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127919,
-      "num": 127919,
-      "word": "付航不喜欢香蕉的原因找到了",
-      "onboard_time": 1730512938,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127584,
       "num": 127584,
       "word": "hybe说朴成训变丑了",
@@ -14361,14 +14393,6 @@
       "onboard_time": 1730303239,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126814,
-      "num": 126814,
-      "word": "云合",
-      "onboard_time": 1730514857,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 126793,
@@ -14537,6 +14561,14 @@
       "onboard_time": 1730100980,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123948,
+      "num": 526295,
+      "word": "德国总统就德军二战暴行向希腊道歉",
+      "onboard_time": 1730515157,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 123600,
@@ -14769,14 +14801,6 @@
       "onboard_time": 1730014220,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119346,
-      "num": 119346,
-      "word": "留几手杨子麦琳",
-      "onboard_time": 1730515338,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 119296,
@@ -15160,6 +15184,22 @@
       "word": "郑钦文萨巴伦卡年终总决赛同组",
       "onboard_time": 1730244377,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110683,
+      "num": 110683,
+      "word": "近20个省份明确痛经假权益",
+      "onboard_time": 1730515997,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110020,
+      "num": 110020,
+      "word": "郑钦文回应巡回赛没朋友",
+      "onboard_time": 1730516056,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -16025,14 +16065,6 @@
       "onboard_time": 1730484433,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79008,
-      "num": 312286,
-      "word": "德国总统就德军二战暴行向希腊道歉",
-      "onboard_time": 1730515157,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 78783,
@@ -17531,6 +17563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39608,
+      "num": 402448,
+      "word": "一文回顾鞠婧祎丝芭合约风波",
+      "onboard_time": 1730513416,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39549,
       "num": 217581,
       "word": "警惕双11的四类骗局",
@@ -17601,14 +17641,6 @@
       "onboard_time": 1730395693,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38813,
-      "num": 402448,
-      "word": "一文回顾鞠婧祎丝芭合约风波",
-      "onboard_time": 1730513416,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 38729,
@@ -19961,6 +19993,14 @@
       "onboard_time": 1729974791,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10572,
+      "num": 211539,
+      "word": "李光洁说蒋欣是我的嘴替",
+      "onboard_time": 1730515997,
+      "rank": 19,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 10416,

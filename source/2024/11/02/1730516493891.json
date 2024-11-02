@@ -1,0 +1,410 @@
+{
+  "runTime": 1730516493891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280806,
+        "num": 1280806,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882350,
+        "num": 882350,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 6170,
+        "num": 829910,
+        "word": "南极考察将首次开展越冬考察任务",
+        "onboard_time": 1730464639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806529,
+        "num": 806529,
+        "word": "杨子 财产",
+        "onboard_time": 1730514617,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663580,
+        "num": 663580,
+        "word": "花学新课件 田嘉瑞请客烧烤",
+        "onboard_time": 1730514857,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616413,
+        "num": 616413,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 627442,
+        "num": 611614,
+        "word": "青雾风鸣官宣白鹿",
+        "onboard_time": 1730513358,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532782,
+        "num": 532782,
+        "word": "特朗普和哈里斯决战摇摆州",
+        "onboard_time": 1730513416,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123948,
+        "num": 526295,
+        "word": "德国总统就德军二战暴行向希腊道歉",
+        "onboard_time": 1730515157,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 525288,
+        "num": 525288,
+        "word": "特朗普称能很快修复拜登造成的破坏",
+        "onboard_time": 1730505558,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 718361,
+        "num": 472949,
+        "word": "谁可以告诉黄圣依这件事情",
+        "onboard_time": 1730504715,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625477,
+        "num": 468128,
+        "word": "不敢想她这一辈子会有多精彩",
+        "onboard_time": 1730510957,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351298,
+        "num": 351298,
+        "word": "加沙的水可能变成武器",
+        "onboard_time": 1730511498,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39608,
+        "num": 331704,
+        "word": "一文回顾鞠婧祎丝芭合约风波",
+        "onboard_time": 1730513416,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312621,
+        "num": 312621,
+        "word": "祝绪丹演技",
+        "onboard_time": 1730511257,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312406,
+        "num": 312406,
+        "word": "河南女性职工每月可享2天痛经假",
+        "onboard_time": 1730509878,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259290,
+        "num": 259290,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240054,
+        "num": 240054,
+        "word": "大专生还没毕业就拿到了高薪和编制",
+        "onboard_time": 1730500813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220409,
+        "num": 220409,
+        "word": "刘晓庆曾给刘涛演丫鬟",
+        "onboard_time": 1730507238,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10572,
+        "num": 211539,
+        "word": "李光洁说蒋欣是我的嘴替",
+        "onboard_time": 1730515997,
+        "rank": 19,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 334006,
+        "num": 209887,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1730507898,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242822,
+        "num": 208932,
+        "word": "婴儿嗜睡父母怀疑被喂安眠药",
+        "onboard_time": 1730506216,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206843,
+        "num": 206843,
+        "word": "药水哥分享3年爆改历程",
+        "onboard_time": 1730515039,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204798,
+        "num": 204798,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169825,
+        "num": 169825,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154913,
+        "num": 154913,
+        "word": "杀父骗保男子系家中独子很受宠",
+        "onboard_time": 1730509878,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149597,
+        "num": 149597,
+        "word": "留几手杨子麦琳",
+        "onboard_time": 1730515338,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145548,
+        "num": 145548,
+        "word": "云合",
+        "onboard_time": 1730514857,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145061,
+        "num": 145061,
+        "word": "hybe称边伯贤参考田柾国",
+        "onboard_time": 1730514557,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1730481254,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139132,
+        "num": 139132,
+        "word": "胡夏 隐藏款",
+        "onboard_time": 1730515878,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "湖人打成表演赛",
+        "onboard_time": 1730515997,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129776,
+        "num": 129776,
+        "word": "付航不喜欢香蕉的原因找到了",
+        "onboard_time": 1730512938,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128135,
+        "num": 128135,
+        "word": "郑钦文去看C罗比赛了",
+        "onboard_time": 1730512038,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 126026,
+        "word": "杨洋新造型梦回于途",
+        "onboard_time": 1730508497,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122597,
+        "num": 122597,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122548,
+        "num": 122548,
+        "word": "高雅cp售后",
+        "onboard_time": 1730507238,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116531,
+        "num": 116531,
+        "word": "向佐回应郭碧婷是嫁给向太",
+        "onboard_time": 1730468059,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116111,
+        "num": 116111,
+        "word": "睡觉时越睡越美的姿势找到了",
+        "onboard_time": 1730472680,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114359,
+        "num": 114359,
+        "word": "赵晴新剧圆脸甜妹",
+        "onboard_time": 1730512338,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111554,
+        "num": 111554,
+        "word": "26岁女子确诊渐冻症前后判若两人",
+        "onboard_time": 1730468481,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110683,
+        "num": 110683,
+        "word": "近20个省份明确痛经假权益",
+        "onboard_time": 1730515997,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110020,
+        "num": 110020,
+        "word": "郑钦文回应巡回赛没朋友",
+        "onboard_time": 1730516056,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109866,
+        "num": 109866,
+        "word": "尔滨导游一走神小金土豆就付款了",
+        "onboard_time": 1730473699,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109205,
+        "num": 109205,
+        "word": "为点流量吃猪食无底限的吃相好难看",
+        "onboard_time": 1730513297,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104260,
+        "num": 104260,
+        "word": "hybe说朴成训变丑了",
+        "onboard_time": 1730507717,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103076,
+        "num": 103076,
+        "word": "虞书欣永夜星河用的是同期声",
+        "onboard_time": 1730506457,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76120,
+        "num": 99854,
+        "word": "中斯关系一定会驶入快车道",
+        "onboard_time": 1730514676,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97930,
+        "num": 97930,
+        "word": "珠帘玉幕 好哭",
+        "onboard_time": 1730512220,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88375,
+        "num": 94075,
+        "word": "hybe新报告大点兵",
+        "onboard_time": 1730508497,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}
