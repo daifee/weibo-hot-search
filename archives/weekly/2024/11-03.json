@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730576120695,
+  "endTime": 1730578991880,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -137,6 +137,14 @@
       "onboard_time": 1730549179,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 672798,
+      "num": 672798,
+      "word": "BLG赛后采访",
+      "onboard_time": 1730575394,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 664493,
@@ -423,14 +431,6 @@
       "num": 231730,
       "word": "S14总决赛",
       "onboard_time": 1730555901,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 228289,
-      "num": 198378,
-      "word": "BLG赛后采访",
-      "onboard_time": 1730575394,
       "rank": 31,
       "category": "电竞"
     },
@@ -803,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69360,
+      "num": 69360,
+      "word": "T1维持对LPL不败金身",
+      "onboard_time": 1730576592,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -825,6 +833,14 @@
       "onboard_time": 1730545098,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45250,
+      "num": 159292,
+      "word": "交警怒斥家长占道接孩子",
+      "onboard_time": 1730575872,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45081,
@@ -899,11 +915,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12721,
-      "num": 159292,
-      "word": "交警怒斥家长占道接孩子",
-      "onboard_time": 1730575872,
-      "rank": 35,
+      "raw_hot": 11938,
+      "num": 225668,
+      "word": "今日北京中南部地区能见度不足500米",
+      "onboard_time": 1730577372,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
