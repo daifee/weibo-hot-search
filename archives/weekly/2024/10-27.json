@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730525927196,
+  "endTime": 1730529025943,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1966535,
-      "num": 568059,
+      "num": 1164042,
       "word": "美国大选",
       "onboard_time": 1730249960,
       "rank": 11,
@@ -2299,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855719,
+      "num": 240515,
+      "word": "张九南婚礼",
+      "onboard_time": 1730527217,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854121,
       "num": 471268,
       "word": "专家称孕育会使女性变得更聪明",
@@ -2392,6 +2400,14 @@
       "word": "2岁男孩小区玩滑板被撞身亡",
       "onboard_time": 1730270657,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833698,
+      "num": 233899,
+      "word": "13岁女孩遭性侵还被引诱卖淫",
+      "onboard_time": 1730526616,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2673,6 +2689,14 @@
       "onboard_time": 1730019379,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759203,
+      "num": 500343,
+      "word": "虞书欣 扛剧",
+      "onboard_time": 1730525837,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 756290,
@@ -3281,6 +3305,14 @@
       "onboard_time": 1730254158,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 626304,
+      "num": 626304,
+      "word": "死亡三秒流行校园严重可窒息致死",
+      "onboard_time": 1730528237,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625477,
@@ -4803,6 +4835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440724,
+      "num": 440724,
+      "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
+      "onboard_time": 1730523678,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439484,
       "num": 439484,
       "word": "芬兰总统vlog晒中国高铁",
@@ -4817,6 +4857,14 @@
       "onboard_time": 1730174060,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438312,
+      "num": 438312,
+      "word": "芒果将拍再见朋友",
+      "onboard_time": 1730525777,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 436505,
@@ -5209,6 +5257,14 @@
       "onboard_time": 1730078838,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398799,
+      "num": 310608,
+      "word": "Hybe不希望Jennie获得成功",
+      "onboard_time": 1730525177,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 398163,
@@ -6371,14 +6427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310608,
-      "num": 310608,
-      "word": "Hybe不希望Jennie获得成功",
-      "onboard_time": 1730525177,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310425,
       "num": 310425,
       "word": "崔永熙NBA首秀",
@@ -7177,6 +7225,14 @@
       "onboard_time": 1730462359,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269105,
+      "num": 233384,
+      "word": "宋茜侯明昊素颜",
+      "onboard_time": 1730527037,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 268572,
@@ -8321,6 +8377,14 @@
       "onboard_time": 1730271500,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232955,
+      "num": 232955,
+      "word": "这届美国大选有多少戏",
+      "onboard_time": 1730526497,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 232880,
@@ -9491,14 +9555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203468,
-      "num": 233978,
-      "word": "芒果将拍再见朋友",
-      "onboard_time": 1730525777,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203231,
       "num": 203231,
       "word": "梁伟铿任翔宇vs朱一珺胡珂源",
@@ -9529,6 +9585,14 @@
       "onboard_time": 1730087298,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202977,
+      "num": 202977,
+      "word": "郑钦文高情商回应合照C位",
+      "onboard_time": 1730526198,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 202922,
@@ -10235,6 +10299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "杨超越回忆创造101感觉很痛苦",
+      "onboard_time": 1730528176,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193449,
       "num": 193449,
       "word": "中国代表主动出击先来说一说美国",
@@ -10731,6 +10803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184266,
+      "num": 184266,
+      "word": "锦绣安宁大结局全员HE",
+      "onboard_time": 1730527339,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184011,
       "num": 184011,
       "word": "珠帘玉幕微博追剧团",
@@ -11033,6 +11113,14 @@
       "onboard_time": 1730464099,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180465,
+      "num": 180465,
+      "word": "大梦归离倍速这是正常了",
+      "onboard_time": 1730528357,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 180409,
@@ -12291,6 +12379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163539,
+      "num": 163539,
+      "word": "麦琳 双11晚会带货",
+      "onboard_time": 1730528657,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163497,
       "num": 163497,
       "word": "花少 山东姐弟",
@@ -13307,14 +13403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148044,
-      "num": 232050,
-      "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
-      "onboard_time": 1730523678,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147614,
       "num": 485393,
       "word": "家里死人先臭着领导如此狂言尽显无知",
@@ -13553,6 +13641,14 @@
       "onboard_time": 1730177781,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143722,
+      "num": 143722,
+      "word": "陈奕迅现场吃林俊杰周杰伦的醋",
+      "onboard_time": 1730528417,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 143721,
@@ -15251,6 +15347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116261,
+      "num": 116261,
+      "word": "永夜星河 卡剧情",
+      "onboard_time": 1730525598,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116073,
       "num": 116073,
       "word": "一手烂牌打不出王炸人生",
@@ -15323,6 +15427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115280,
+      "num": 236913,
+      "word": "为了一个冰箱贴打卡一座城",
+      "onboard_time": 1730523798,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114888,
       "num": 114888,
       "word": "珠帘玉幕三有女主",
@@ -15363,14 +15475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114255,
-      "num": 114255,
-      "word": "永夜星河 卡剧情",
-      "onboard_time": 1730525598,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114063,
       "num": 353362,
       "word": "央视揭秘神奇能量舱只是桑拿舱",
@@ -15385,6 +15489,14 @@
       "onboard_time": 1730071097,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113463,
+      "num": 113463,
+      "word": "唐宫奇案男女主官宣日期",
+      "onboard_time": 1730525417,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 113376,
@@ -15497,14 +15609,6 @@
       "onboard_time": 1730017699,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111005,
-      "num": 111005,
-      "word": "虞书欣 扛剧",
-      "onboard_time": 1730525837,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 110994,
@@ -15795,12 +15899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104075,
+      "num": 104075,
+      "word": "加沙水危机",
+      "onboard_time": 1730527877,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 103960,
       "num": 476095,
       "word": "拼多多保持了双11素颜的样子",
       "onboard_time": 1730191339,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103896,
+      "num": 244465,
+      "word": "为弟追凶案父亲至死未获母亲原谅",
+      "onboard_time": 1730527998,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103873,
@@ -15833,6 +15953,14 @@
       "onboard_time": 1730347459,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103089,
+      "num": 103089,
+      "word": "李宇春周笔畅声生不息同框",
+      "onboard_time": 1730526078,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 102559,
@@ -16520,14 +16648,6 @@
       "word": "超强台风康妮7级风圈已触及福建",
       "onboard_time": 1730414054,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76937,
-      "num": 236913,
-      "word": "为了一个冰箱贴打卡一座城",
-      "onboard_time": 1730523798,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -17483,6 +17603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51281,
+      "num": 234720,
+      "word": "白敬亭新疆之旅第二期幕后花絮",
+      "onboard_time": 1730525899,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51245,
       "num": 250004,
       "word": "哺乳期妈妈为24万代孕只收到5000",
@@ -17848,6 +17976,14 @@
       "word": "扒一扒美国两党都在回避的军费问题",
       "onboard_time": 1730084838,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42832,
+      "num": 234168,
+      "word": "姐姐为弟追凶26年索赔1000余万",
+      "onboard_time": 1730527698,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -18427,14 +18563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34960,
-      "num": 210207,
-      "word": "白敬亭新疆之旅第二期幕后花絮",
-      "onboard_time": 1730525899,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34917,
       "num": 420868,
       "word": "十个勤天推荐的家乡特产全是吃的",
@@ -18545,6 +18673,14 @@
       "onboard_time": 1730279300,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34003,
+      "num": 186283,
+      "word": "养生馆成本68元套盒2000卖老人",
+      "onboard_time": 1730527578,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33958,
@@ -19411,6 +19547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24538,
+      "num": 235457,
+      "word": "双11大量广告短信伪装成验证码",
+      "onboard_time": 1730528957,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24298,
       "num": 220640,
       "word": "律师谈丝芭传媒与鞠婧祎纠纷",
@@ -19809,6 +19953,14 @@
       "onboard_time": 1730229491,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19635,
+      "num": 113541,
+      "word": "正式确诊为偷感恋爱人",
+      "onboard_time": 1730526738,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 19392,
