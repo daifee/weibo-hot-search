@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730567915835,
+  "endTime": 1730568954054,
   "band_list": [
     {
       "raw_hot": 7849827,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1087761,
+      "num": 1087761,
+      "word": "BLG赛点",
+      "onboard_time": 1730565983,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1062583,
       "num": 1062583,
       "word": "Faker切屏",
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 758688,
+      "num": 758688,
+      "word": "医生提醒别把鲨鱼裤当秋裤穿",
+      "onboard_time": 1730564181,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 752078,
       "num": 338056,
       "word": "不敢认安孝燮了",
@@ -689,14 +705,6 @@
       "onboard_time": 1730422398,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 717310,
-      "num": 717310,
-      "word": "医生提醒别把鲨鱼裤当秋裤穿",
-      "onboard_time": 1730564181,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 717010,
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559100,
+      "num": 559100,
+      "word": "成功95花的背后",
+      "onboard_time": 1730564420,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555587,
       "num": 555587,
       "word": "苦难被网红当成致富剧本",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1730513416,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 552182,
-      "num": 530776,
-      "word": "成功95花的背后",
-      "onboard_time": 1730564420,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 547504,
@@ -1249,14 +1257,6 @@
       "onboard_time": 1730507898,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495840,
-      "num": 495840,
-      "word": "BLG赛点",
-      "onboard_time": 1730565983,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 492955,
@@ -1723,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365816,
+      "num": 365816,
+      "word": "郑钦文总决赛首秀落败",
+      "onboard_time": 1730565920,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365129,
       "num": 365129,
       "word": "张峻豪官宣费加罗盛典",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1730511257,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306529,
+      "num": 306529,
+      "word": "乔任梁",
+      "onboard_time": 1730567118,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 305965,
@@ -2331,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259786,
+      "num": 291822,
+      "word": "Faker出门忘买装备",
+      "onboard_time": 1730567296,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258221,
       "num": 258221,
       "word": "麦琳",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1730405052,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 248101,
-      "num": 288161,
-      "word": "郑钦文总决赛首秀落败",
-      "onboard_time": 1730565920,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 246753,
@@ -2593,6 +2609,14 @@
       "onboard_time": 1730532317,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 221877,
+      "num": 221877,
+      "word": "Faker状态",
+      "onboard_time": 1730566580,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 221148,
@@ -4347,14 +4371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140256,
-      "num": 140256,
-      "word": "Faker状态",
-      "onboard_time": 1730566580,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139674,
       "num": 139674,
       "word": "余依婷200混夺冠",
@@ -4523,6 +4539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133692,
+      "num": 399492,
+      "word": "私人影院低价吸引顾客到店嫖娼",
+      "onboard_time": 1730566223,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133513,
       "num": 133513,
       "word": "xun 起床",
@@ -4561,6 +4585,14 @@
       "onboard_time": 1730537477,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133006,
+      "num": 133006,
+      "word": "Faker太猛了",
+      "onboard_time": 1730568736,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 132401,
@@ -4624,6 +4656,14 @@
       "word": "预测S14决赛比分",
       "onboard_time": 1730536217,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 130387,
+      "num": 130387,
+      "word": "管泽元 求闭嘴",
+      "onboard_time": 1730568077,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -5051,14 +5091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113338,
-      "num": 291822,
-      "word": "Faker出门忘买装备",
-      "onboard_time": 1730567296,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 113092,
       "num": 113092,
       "word": "迪丽热巴高定裤装look",
@@ -5265,6 +5297,14 @@
       "onboard_time": 1730525899,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104183,
+      "num": 144643,
+      "word": "三把27分钟",
+      "onboard_time": 1730565983,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 104127,
@@ -5515,14 +5555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88259,
-      "num": 144643,
-      "word": "三把27分钟",
-      "onboard_time": 1730565983,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88246,
       "num": 88246,
       "word": "网红博主拍视频挑战吃猪饲料",
@@ -5627,14 +5659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83635,
-      "num": 399492,
-      "word": "私人影院低价吸引顾客到店嫖娼",
-      "onboard_time": 1730566223,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82395,
       "num": 82395,
       "word": "李佳航为BLG加油",
@@ -5737,6 +5761,14 @@
       "onboard_time": 1730382259,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74118,
+      "num": 74118,
+      "word": "KPL",
+      "onboard_time": 1730568918,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 73962,
@@ -5955,6 +5987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51858,
+      "num": 262481,
+      "word": "BLG稳住",
+      "onboard_time": 1730568435,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51592,
       "num": 272931,
       "word": "华晨宇陪张大大过了两场生日",
@@ -6089,6 +6129,14 @@
       "onboard_time": 1730450297,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45081,
+      "num": 183581,
+      "word": "Faker单杀",
+      "onboard_time": 1730568136,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 44786,
@@ -6745,6 +6793,14 @@
       "onboard_time": 1730400732,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21849,
+      "num": 369715,
+      "word": "山东兰陵铁矿事故仍有4人被困",
+      "onboard_time": 1730568376,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21383,
