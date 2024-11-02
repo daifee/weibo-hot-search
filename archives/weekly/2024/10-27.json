@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730532923982,
+  "endTime": 1730536013772,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -97,6 +97,14 @@
       "onboard_time": 1730437280,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2993448,
+      "num": 2993448,
+      "word": "金靖生子",
+      "onboard_time": 1730533758,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2985991,
@@ -760,6 +768,14 @@
       "word": "再见爱人4最应该离婚的一对",
       "onboard_time": 1729992137,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1573670,
+      "num": 222869,
+      "word": "张雨绮男友自曝年入九位数",
+      "onboard_time": 1730533577,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -3700,7 +3716,7 @@
     },
     {
       "raw_hot": 570875,
-      "num": 398813,
+      "num": 402522,
       "word": "再见朋友 提名",
       "onboard_time": 1730529857,
       "rank": 7,
@@ -4451,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487972,
+      "num": 487972,
+      "word": "三只羊已全额缴纳罚款",
+      "onboard_time": 1730534717,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 487673,
       "num": 538102,
       "word": "美国从未停止针对中国的间谍活动",
@@ -4880,6 +4904,14 @@
       "word": "宗馥莉成中国女首富",
       "onboard_time": 1730174060,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437523,
+      "num": 222812,
+      "word": "网红云南阿奎妻子首次直播被封禁",
+      "onboard_time": 1730534237,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -5969,6 +6001,14 @@
       "onboard_time": 1730299102,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 345412,
+      "num": 302583,
+      "word": "小小的我全球首映口碑",
+      "onboard_time": 1730531598,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 345170,
@@ -8091,6 +8131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242627,
+      "num": 222651,
+      "word": "陈都灵扮相",
+      "onboard_time": 1730531417,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242492,
       "num": 391501,
       "word": "青岛代孕事件两公司法人被立案",
@@ -8377,6 +8425,14 @@
       "onboard_time": 1730441539,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234132,
+      "num": 213005,
+      "word": "同学被打男生要报警被老师呵斥",
+      "onboard_time": 1730535018,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234074,
@@ -8699,14 +8755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226060,
-      "num": 226060,
-      "word": "小小的我全球首映口碑",
-      "onboard_time": 1730531598,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225724,
       "num": 225724,
       "word": "演员王一博脚踏实地行而不辍",
@@ -8785,6 +8833,22 @@
       "onboard_time": 1730165838,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222901,
+      "num": 222901,
+      "word": "税二 简单",
+      "onboard_time": 1730532317,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 222649,
+      "num": 222649,
+      "word": "范丞丞卢昱晓贴额头对视",
+      "onboard_time": 1730532858,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 222282,
@@ -8881,6 +8945,14 @@
       "onboard_time": 1730469380,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 220534,
+      "num": 220534,
+      "word": "唐九洲 黄子弘凡不在都没人哭",
+      "onboard_time": 1730534837,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 220471,
@@ -9105,6 +9177,14 @@
       "onboard_time": 1730026879,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 214417,
+      "num": 286908,
+      "word": "三只羊部分主播隐MCN标识复播",
+      "onboard_time": 1730530098,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214271,
@@ -10027,14 +10107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197512,
-      "num": 286908,
-      "word": "三只羊部分主播隐MCN标识复播",
-      "onboard_time": 1730530098,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197477,
       "num": 253408,
       "word": "亚冬会奖牌设计公布",
@@ -10385,14 +10457,6 @@
       "onboard_time": 1730199979,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193070,
-      "num": 193070,
-      "word": "陈都灵扮相",
-      "onboard_time": 1730531417,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 192953,
@@ -12539,6 +12603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161808,
+      "num": 161808,
+      "word": "王勃还有个隐藏身份是医学生",
+      "onboard_time": 1730532916,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161565,
       "num": 161565,
       "word": "郑钦文总决赛出场费超200万",
@@ -12873,6 +12945,14 @@
       "onboard_time": 1730170460,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156679,
+      "num": 156679,
+      "word": "虞书欣凌妙妙黑化前vs黑化后",
+      "onboard_time": 1730535559,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 156509,
@@ -13587,6 +13667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146374,
+      "num": 146374,
+      "word": "云合",
+      "onboard_time": 1730514857,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "蒯曼3比1金娜英",
@@ -13625,14 +13713,6 @@
       "onboard_time": 1730529738,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145548,
-      "num": 145548,
-      "word": "云合",
-      "onboard_time": 1730514857,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 145312,
@@ -13769,6 +13849,14 @@
       "onboard_time": 1730090899,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143137,
+      "num": 142203,
+      "word": "林虞 黑莲花",
+      "onboard_time": 1730533817,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 143073,
@@ -14163,6 +14251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138088,
+      "num": 166930,
+      "word": "为什么现在的大学生越来越晚熟",
+      "onboard_time": 1730529738,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137977,
       "num": 137977,
       "word": "丁程鑫social好忙",
@@ -14185,6 +14281,14 @@
       "onboard_time": 1730333898,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137797,
+      "num": 137797,
+      "word": "杨子说过黄圣依膀大腰圆",
+      "onboard_time": 1730535737,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 137722,
@@ -14539,14 +14643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132939,
-      "num": 166930,
-      "word": "为什么现在的大学生越来越晚熟",
-      "onboard_time": 1730529738,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132837,
       "num": 199049,
       "word": "你会在网上公布自己情感问题吗",
@@ -14585,6 +14681,14 @@
       "onboard_time": 1730131817,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132196,
+      "num": 122309,
+      "word": "再见爱人第二季嘉宾张婉婷力挺麦琳",
+      "onboard_time": 1730535619,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 132113,
@@ -14921,14 +15025,6 @@
       "onboard_time": 1730303239,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127131,
-      "num": 127131,
-      "word": "税二 简单",
-      "onboard_time": 1730532317,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 126793,
@@ -15819,6 +15915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108737,
+      "num": 108737,
+      "word": "小小的我导演说很尊敬易烊千玺",
+      "onboard_time": 1730533036,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108567,
       "num": 108567,
       "word": "王者新英雄空空儿首曝",
@@ -16241,14 +16345,6 @@
       "onboard_time": 1730302581,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98975,
-      "num": 98975,
-      "word": "范丞丞卢昱晓贴额头对视",
-      "onboard_time": 1730532858,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 98819,
@@ -16825,6 +16921,14 @@
       "onboard_time": 1730343259,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75804,
+      "num": 222891,
+      "word": "广州的秋天有粉粉的异木棉",
+      "onboard_time": 1730535498,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75392,
@@ -19523,6 +19627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27281,
+      "num": 222746,
+      "word": "妇女可以依法查询配偶财产状况",
+      "onboard_time": 1730535260,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27196,
       "num": 304962,
       "word": "装修陪跑师真能避坑还是智商税",
@@ -19912,6 +20024,14 @@
       "word": "K7034十年前也曾发生脱轨事故",
       "onboard_time": 1730525598,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22160,
+      "num": 222722,
+      "word": "不要对老年人看短剧有偏见",
+      "onboard_time": 1730535260,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -20913,6 +21033,14 @@
       "onboard_time": 1730016018,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 5788,
+      "num": 777791,
+      "word": "第41次南极考察划重点",
+      "onboard_time": 1730535918,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -20993,6 +21121,9 @@
     },
     {
       "word": "#习近平会见澳门特区候任行政长官#"
+    },
+    {
+      "word": "#习近平对岑浩辉获中央政府任命表示祝贺#"
     }
   ]
 }
