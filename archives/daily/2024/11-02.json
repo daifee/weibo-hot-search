@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730512663781,
+  "endTime": 1730515884609,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1314771,
-      "num": 384183,
+      "num": 398791,
       "word": "谁可以告诉黄圣依这件事情",
       "onboard_time": 1730504715,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781044,
+      "num": 781044,
+      "word": "外籍友人跳河救人获见义勇为奖励",
+      "onboard_time": 1730500813,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 707320,
       "num": 707320,
       "word": "大专生还没毕业就拿到了高薪和编制",
@@ -67,6 +75,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663695,
+      "num": 663695,
+      "word": "青雾风鸣官宣白鹿",
+      "onboard_time": 1730513358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 616970,
+      "num": 616970,
+      "word": "不敢想她这一辈子会有多精彩",
+      "onboard_time": 1730510957,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 595234,
       "num": 289004,
       "word": "特朗普称我们几乎炸了整个中东但是一场空",
@@ -75,16 +99,24 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 579180,
-      "num": 579180,
-      "word": "外籍友人跳河救人获见义勇为奖励",
-      "onboard_time": 1730500813,
-      "rank": 23,
-      "category": "社会正能量"
+      "raw_hot": 590248,
+      "num": 590248,
+      "word": "杨子 财产",
+      "onboard_time": 1730514617,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 552641,
+      "num": 552641,
+      "word": "特朗普和哈里斯决战摇摆州",
+      "onboard_time": 1730513416,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 541733,
-      "num": 492992,
+      "num": 495646,
       "word": "特朗普称能很快修复拜登造成的破坏",
       "onboard_time": 1730505558,
       "rank": 5,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 424773,
-      "num": 219668,
+      "num": 239134,
       "word": "婴儿嗜睡父母怀疑被喂安眠药",
       "onboard_time": 1730506216,
       "rank": 20,
@@ -161,6 +193,14 @@
       "onboard_time": 1730473939,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384292,
+      "num": 384292,
+      "word": "加沙的水可能变成武器",
+      "onboard_time": 1730511498,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 381822,
@@ -203,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296446,
+      "num": 296446,
+      "word": "花学新课件 田嘉瑞请客烧烤",
+      "onboard_time": 1730514857,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291615,
       "num": 291615,
       "word": "永夜星河",
@@ -225,6 +273,14 @@
       "onboard_time": 1730472680,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 279366,
+      "num": 279366,
+      "word": "祝绪丹演技",
+      "onboard_time": 1730511257,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 277362,
@@ -307,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238404,
-      "num": 212469,
-      "word": "不敢想她这一辈子会有多精彩",
-      "onboard_time": 1730510957,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220027,
       "num": 220027,
       "word": "女子15万工资未收到9年后才发现",
@@ -355,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199271,
+      "num": 199271,
+      "word": "hybe称边伯贤参考田柾国",
+      "onboard_time": 1730514557,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198791,
+      "num": 198791,
+      "word": "药水哥分享3年爆改历程",
+      "onboard_time": 1730515039,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 189783,
       "num": 189783,
       "word": "俄对谷歌罚款超全球GDP总额",
@@ -377,14 +441,6 @@
       "onboard_time": 1730478198,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174319,
-      "num": 229168,
-      "word": "祝绪丹演技",
-      "onboard_time": 1730511257,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 171539,
@@ -483,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132386,
-      "num": 347969,
-      "word": "加沙的水可能变成武器",
-      "onboard_time": 1730511498,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
       "onboard_time": 1730507177,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127919,
+      "num": 127919,
+      "word": "付航不喜欢香蕉的原因找到了",
+      "onboard_time": 1730512938,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 127584,
@@ -513,6 +569,14 @@
       "onboard_time": 1730457499,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126814,
+      "num": 126814,
+      "word": "云合",
+      "onboard_time": 1730514857,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 125946,
@@ -539,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124293,
+      "num": 124293,
+      "word": "赵晴新剧圆脸甜妹",
+      "onboard_time": 1730512338,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120699,
       "num": 120699,
       "word": "闵塔鲨用心",
@@ -563,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119183,
-      "num": 119183,
-      "word": "赵晴新剧圆脸甜妹",
-      "onboard_time": 1730512338,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 119346,
+      "num": 119346,
+      "word": "留几手杨子麦琳",
+      "onboard_time": 1730515338,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 119173,
@@ -592,6 +664,14 @@
       "word": "姐姐追凶26年开庭前抱父亲遗像痛哭",
       "onboard_time": 1730502134,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112247,
+      "num": 112247,
+      "word": "为点流量吃猪食无底限的吃相好难看",
+      "onboard_time": 1730513297,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -779,6 +859,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84601,
+      "num": 84601,
+      "word": "痛经假可以更好保护女性权益吗",
+      "onboard_time": 1730512938,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84355,
+      "num": 173463,
+      "word": "中斯关系一定会驶入快车道",
+      "onboard_time": 1730514676,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84038,
       "num": 84038,
       "word": "珠帘玉幕猫眼热度TOP1",
@@ -793,6 +889,14 @@
       "onboard_time": 1730484433,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79008,
+      "num": 312286,
+      "word": "德国总统就德军二战暴行向希腊道歉",
+      "onboard_time": 1730515157,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 78645,
@@ -897,6 +1001,14 @@
       "onboard_time": 1730502554,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38813,
+      "num": 402448,
+      "word": "一文回顾鞠婧祎丝芭合约风波",
+      "onboard_time": 1730513416,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 38729,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730515884609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1318898,
+        "num": 1318898,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781044,
+        "num": 781044,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 6090,
+        "num": 722805,
+        "word": "南极考察将首次开展越冬考察任务",
+        "onboard_time": 1730464639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688273,
+        "num": 688273,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 663695,
+        "num": 663695,
+        "word": "青雾风鸣官宣白鹿",
+        "onboard_time": 1730513358,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616970,
+        "num": 616970,
+        "word": "不敢想她这一辈子会有多精彩",
+        "onboard_time": 1730510957,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 590248,
+        "num": 590248,
+        "word": "杨子 财产",
+        "onboard_time": 1730514617,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552641,
+        "num": 552641,
+        "word": "特朗普和哈里斯决战摇摆州",
+        "onboard_time": 1730513416,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 495646,
+        "num": 495646,
+        "word": "特朗普称能很快修复拜登造成的破坏",
+        "onboard_time": 1730505558,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38813,
+        "num": 402448,
+        "word": "一文回顾鞠婧祎丝芭合约风波",
+        "onboard_time": 1730513416,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798837,
+        "num": 398791,
+        "word": "谁可以告诉黄圣依这件事情",
+        "onboard_time": 1730504715,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384292,
+        "num": 384292,
+        "word": "加沙的水可能变成武器",
+        "onboard_time": 1730511498,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338859,
+        "num": 338859,
+        "word": "河南女性职工每月可享2天痛经假",
+        "onboard_time": 1730509878,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79008,
+        "num": 312286,
+        "word": "德国总统就德军二战暴行向希腊道歉",
+        "onboard_time": 1730515157,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 296446,
+        "num": 296446,
+        "word": "花学新课件 田嘉瑞请客烧烤",
+        "onboard_time": 1730514857,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280453,
+        "num": 280453,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357311,
+        "num": 280292,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1730507898,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279366,
+        "num": 279366,
+        "word": "祝绪丹演技",
+        "onboard_time": 1730511257,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272064,
+        "num": 272064,
+        "word": "刘晓庆曾给刘涛演丫鬟",
+        "onboard_time": 1730507238,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257884,
+        "num": 257884,
+        "word": "大专生还没毕业就拿到了高薪和编制",
+        "onboard_time": 1730500813,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239134,
+        "num": 239134,
+        "word": "婴儿嗜睡父母怀疑被喂安眠药",
+        "onboard_time": 1730506216,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211430,
+        "num": 211430,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199271,
+        "num": 199271,
+        "word": "hybe称边伯贤参考田柾国",
+        "onboard_time": 1730514557,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198791,
+        "num": 198791,
+        "word": "药水哥分享3年爆改历程",
+        "onboard_time": 1730515039,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175780,
+        "num": 175780,
+        "word": "潘宏爱玩狗涉嫌虐狗吗",
+        "onboard_time": 1730481254,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84355,
+        "num": 173463,
+        "word": "中斯关系一定会驶入快车道",
+        "onboard_time": 1730514676,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171621,
+        "num": 171621,
+        "word": "杀父骗保男子系家中独子很受宠",
+        "onboard_time": 1730509878,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146392,
+        "num": 146392,
+        "word": "杨洋新造型梦回于途",
+        "onboard_time": 1730508497,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141554,
+        "num": 141554,
+        "word": "向佐回应郭碧婷是嫁给向太",
+        "onboard_time": 1730468059,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131922,
+        "num": 131922,
+        "word": "高雅cp售后",
+        "onboard_time": 1730507238,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129009,
+        "num": 129009,
+        "word": "26岁女子确诊渐冻症前后判若两人",
+        "onboard_time": 1730468481,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127919,
+        "num": 127919,
+        "word": "付航不喜欢香蕉的原因找到了",
+        "onboard_time": 1730512938,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126844,
+        "num": 126844,
+        "word": "郑钦文去看C罗比赛了",
+        "onboard_time": 1730512038,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 126814,
+        "word": "云合",
+        "onboard_time": 1730514857,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124293,
+        "num": 124293,
+        "word": "赵晴新剧圆脸甜妹",
+        "onboard_time": 1730512338,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119346,
+        "num": 119346,
+        "word": "留几手杨子麦琳",
+        "onboard_time": 1730515338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115063,
+        "num": 115063,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114884,
+        "num": 114884,
+        "word": "尔滨导游一走神小金土豆就付款了",
+        "onboard_time": 1730473699,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114404,
+        "num": 114404,
+        "word": "睡觉时越睡越美的姿势找到了",
+        "onboard_time": 1730472680,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112247,
+        "num": 112247,
+        "word": "为点流量吃猪食无底限的吃相好难看",
+        "onboard_time": 1730513297,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105958,
+        "num": 105958,
+        "word": "hybe说朴成训变丑了",
+        "onboard_time": 1730507717,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105336,
+        "num": 105336,
+        "word": "珠帘玉幕 好哭",
+        "onboard_time": 1730512220,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95889,
+        "num": 95889,
+        "word": "虞书欣永夜星河用的是同期声",
+        "onboard_time": 1730506457,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94879,
+        "num": 94879,
+        "word": "短剧三大男主录芒果综艺",
+        "onboard_time": 1730503395,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90281,
+        "num": 90281,
+        "word": "武大博士一人拿下24万元奖学金",
+        "onboard_time": 1730477179,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87094,
+        "num": 87094,
+        "word": "hybe新报告大点兵",
+        "onboard_time": 1730508497,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84601,
+        "num": 84601,
+        "word": "痛经假可以更好保护女性权益吗",
+        "onboard_time": 1730512938,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82330,
+        "num": 82330,
+        "word": "永夜星河追剧日历",
+        "onboard_time": 1730511378,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80004,
+        "num": 80004,
+        "word": "Bin决赛要零封T1",
+        "onboard_time": 1730502854,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}
