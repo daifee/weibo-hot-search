@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730561859435,
+  "endTime": 1730564819780,
   "band_list": [
     {
       "raw_hot": 7849827,
@@ -97,6 +97,14 @@
       "onboard_time": 1730432359,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2159549,
+      "num": 360887,
+      "word": "赵露思给韩安冉发的语音",
+      "onboard_time": 1730564539,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1966535,
@@ -345,6 +353,14 @@
       "onboard_time": 1730444417,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062583,
+      "num": 1062583,
+      "word": "Faker切屏",
+      "onboard_time": 1730562441,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1055335,
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488198,
+      "num": 488198,
+      "word": "正午阳光 切不动了",
+      "onboard_time": 1730563223,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486785,
       "num": 320240,
       "word": "网红云南阿奎妻子首次直播被封禁",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1730523678,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440274,
+      "num": 440274,
+      "word": "没有伤害任何人",
+      "onboard_time": 1730559680,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 439484,
@@ -1547,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389444,
-      "num": 389444,
-      "word": "没有伤害任何人",
-      "onboard_time": 1730559680,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388886,
       "num": 296666,
       "word": "胡夏 隐藏款",
@@ -1672,6 +1696,14 @@
       "word": "武大博士一人拿下24万元奖学金",
       "onboard_time": 1730477179,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362779,
+      "num": 531903,
+      "word": "美国女子带两娃跳下60米高瀑布",
+      "onboard_time": 1730561003,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2131,6 +2163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 271728,
+      "num": 271728,
+      "word": "小伙称按摩后禁不住怂恿花一万五",
+      "onboard_time": 1730563403,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269790,
       "num": 269790,
       "word": "陈都灵扮相",
@@ -2280,6 +2320,14 @@
       "word": "永夜星河直播",
       "onboard_time": 1730453239,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 252557,
+      "num": 252557,
+      "word": "永夜星河宣传",
+      "onboard_time": 1730561300,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2507,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219648,
+      "num": 219648,
+      "word": "我家那小子",
+      "onboard_time": 1730561662,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219355,
       "num": 281572,
       "word": "虞书欣很会选剧本",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1730380701,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215426,
+      "num": 215426,
+      "word": "BLG教练",
+      "onboard_time": 1730563522,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 214417,
@@ -2675,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206534,
-      "num": 531903,
-      "word": "美国女子带两娃跳下60米高瀑布",
-      "onboard_time": 1730561003,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206200,
       "num": 206200,
       "word": "萧敬腾林有慧捐出全部婚礼礼金",
@@ -2745,14 +2801,6 @@
       "onboard_time": 1730526198,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202200,
-      "num": 202200,
-      "word": "永夜星河宣传",
-      "onboard_time": 1730561300,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 202062,
@@ -2827,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198548,
+      "num": 244333,
+      "word": "T1扳回一局",
+      "onboard_time": 1730563163,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198112,
       "num": 198112,
       "word": "新乡通报男子投资千万建厂遇办证难",
@@ -2849,6 +2905,22 @@
       "onboard_time": 1730438179,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197365,
+      "num": 252517,
+      "word": "医生提醒别把鲨鱼裤当秋裤穿",
+      "onboard_time": 1730564181,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 196930,
+      "num": 196930,
+      "word": "无锡1岁男童走失遗体在河道被发现",
+      "onboard_time": 1730561481,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195495,
@@ -2905,6 +2977,14 @@
       "onboard_time": 1730435900,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192300,
+      "num": 192300,
+      "word": "BLG的BP",
+      "onboard_time": 1730563701,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 191767,
@@ -3323,6 +3403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 173946,
+      "num": 173946,
+      "word": "成功95花的背后",
+      "onboard_time": 1730564420,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173605,
       "num": 173605,
       "word": "姚明辞职是一场改革失败后的离场",
@@ -3441,14 +3529,6 @@
       "onboard_time": 1730464219,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169161,
-      "num": 169161,
-      "word": "无锡1岁男童走失遗体在河道被发现",
-      "onboard_time": 1730561481,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168786,
@@ -3577,14 +3657,6 @@
       "onboard_time": 1730457019,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 161844,
-      "num": 161844,
-      "word": "我家那小子",
-      "onboard_time": 1730561662,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 161808,
@@ -3875,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152227,
+      "num": 152227,
+      "word": "宁艺卓直拍",
+      "onboard_time": 1730564181,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152191,
       "num": 152191,
       "word": "赵露思水下实拍",
@@ -4123,6 +4203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142513,
+      "num": 142513,
+      "word": "TES",
+      "onboard_time": 1730563882,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142312,
       "num": 142312,
       "word": "寻亲走红的郁豹豹已与家人决裂",
@@ -4281,6 +4369,14 @@
       "onboard_time": 1730545578,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135461,
+      "num": 474540,
+      "word": "长期穿鲨鱼裤易增加真菌感染风险",
+      "onboard_time": 1730559987,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135361,
@@ -4819,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115018,
+      "num": 115018,
+      "word": "林肯公园ban了吗",
+      "onboard_time": 1730564000,
+      "rank": 47,
+      "category": "电竞,作品衍生"
+    },
+    {
       "raw_hot": 114937,
       "num": 114937,
       "word": "代号鸢新密探",
@@ -5339,14 +5443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86528,
-      "num": 474540,
-      "word": "长期穿鲨鱼裤易增加真菌感染风险",
-      "onboard_time": 1730559987,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86322,
       "num": 120701,
       "word": "北斗七行包场秦海璐新电影",
@@ -5577,6 +5673,14 @@
       "onboard_time": 1730401030,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66921,
+      "num": 222093,
+      "word": "T1运营",
+      "onboard_time": 1730563643,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 66603,
@@ -6067,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36570,
+      "num": 338348,
+      "word": "On机器人",
+      "onboard_time": 1730564301,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 36133,
       "num": 54944,
       "word": "联合国机构审查日本天皇继承制",
@@ -6124,7 +6236,7 @@
     },
     {
       "raw_hot": 33094,
-      "num": 857146,
+      "num": 1155955,
       "word": "C919和ARJ21首次双机编队飞行",
       "onboard_time": 1730553561,
       "rank": 2,
