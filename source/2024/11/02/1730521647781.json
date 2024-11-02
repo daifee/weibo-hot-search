@@ -1,0 +1,410 @@
+{
+  "runTime": 1730521647781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858395,
+        "num": 1137343,
+        "word": "校方回应年薪50万送住房招老师",
+        "onboard_time": 1730517438,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781428,
+        "num": 781428,
+        "word": "花学新课件 田嘉瑞请客烧烤",
+        "onboard_time": 1730514857,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36622,
+        "num": 651994,
+        "word": "神十八航天员要出差回来了",
+        "onboard_time": 1730520138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634627,
+        "num": 634627,
+        "word": "黄圣依有个人账户但是没有存款",
+        "onboard_time": 1730518457,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522793,
+        "num": 522793,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294615,
+        "num": 294615,
+        "word": "税务师考试",
+        "onboard_time": 1730519478,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 388886,
+        "num": 292458,
+        "word": "胡夏 隐藏款",
+        "onboard_time": 1730515878,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280377,
+        "num": 280377,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 200642,
+        "num": 200642,
+        "word": "河南女性职工每月可享2天痛经假",
+        "onboard_time": 1730509878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153006,
+        "num": 200215,
+        "word": "钟南山谈怎么培养孙子的好奇心",
+        "onboard_time": 1730518877,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047505,
+        "num": 199810,
+        "word": "李宁卫衣",
+        "onboard_time": 1730517317,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1007604,
+        "num": 199671,
+        "word": "杨子 财产",
+        "onboard_time": 1730514617,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745772,
+        "num": 199212,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564562,
+        "num": 198644,
+        "word": "谁可以告诉黄圣依这件事情",
+        "onboard_time": 1730504715,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413930,
+        "num": 198217,
+        "word": "特朗普和哈里斯决战摇摆州",
+        "onboard_time": 1730513416,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 301735,
+        "num": 197439,
+        "word": "青雾风鸣官宣白鹿",
+        "onboard_time": 1730513358,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284827,
+        "num": 197252,
+        "word": "你好星期六全员变装",
+        "onboard_time": 1730516837,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45788,
+        "num": 196520,
+        "word": "赵晴新剧圆脸甜妹",
+        "onboard_time": 1730512338,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235548,
+        "num": 196394,
+        "word": "药水哥分享3年爆改历程",
+        "onboard_time": 1730515039,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19697,
+        "num": 196002,
+        "word": "小水否认与Jes恋情",
+        "onboard_time": 1730520918,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959666,
+        "num": 195598,
+        "word": "湖南一女子被拘禁5年遭强奸产女",
+        "onboard_time": 1730518637,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261430,
+        "num": 195122,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1730507898,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216371,
+        "num": 194602,
+        "word": "婴儿嗜睡父母怀疑被喂安眠药",
+        "onboard_time": 1730506216,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211653,
+        "num": 193961,
+        "word": "湖人硬上布朗尼",
+        "onboard_time": 1730519299,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193769,
+        "num": 193769,
+        "word": "中学最高年薪50万送住房招老师",
+        "onboard_time": 1730520138,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181877,
+        "num": 181877,
+        "word": "樊振东解说足球",
+        "onboard_time": 1730519959,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177108,
+        "num": 177108,
+        "word": "侯明昊演技",
+        "onboard_time": 1730518098,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169889,
+        "num": 169889,
+        "word": "民办学院学生入优才计划系填错学校",
+        "onboard_time": 1730518877,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153169,
+        "num": 153169,
+        "word": "网红吴迪发文说再见",
+        "onboard_time": 1730520377,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152052,
+        "num": 152052,
+        "word": "HYBE让田柾国NEWJEANS撞回归",
+        "onboard_time": 1730519537,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148982,
+        "num": 148982,
+        "word": "刘晓庆曾给刘涛演丫鬟",
+        "onboard_time": 1730507238,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147023,
+        "num": 147023,
+        "word": "大专生还没毕业就拿到了高薪和编制",
+        "onboard_time": 1730500813,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145972,
+        "num": 145972,
+        "word": "脱轨事故亲历者称振动后听到一声巨响",
+        "onboard_time": 1730517198,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144798,
+        "num": 144798,
+        "word": "留几手杨子麦琳",
+        "onboard_time": 1730515338,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144778,
+        "num": 144778,
+        "word": "不敢想她这一辈子会有多精彩",
+        "onboard_time": 1730510957,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141868,
+        "num": 141868,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131112,
+        "num": 131112,
+        "word": "高雅cp售后",
+        "onboard_time": 1730507238,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124343,
+        "num": 124343,
+        "word": "祝绪丹演技",
+        "onboard_time": 1730511257,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122017,
+        "num": 122017,
+        "word": "加沙的水可能变成武器",
+        "onboard_time": 1730511498,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119173,
+        "num": 119173,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119060,
+        "num": 119060,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115972,
+        "num": 115972,
+        "word": "税一好难",
+        "onboard_time": 1730520018,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110171,
+        "num": 110171,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105540,
+        "num": 105540,
+        "word": "郑钦文回应巡回赛没朋友",
+        "onboard_time": 1730516056,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102031,
+        "num": 102031,
+        "word": "hybe说朴成训变丑了",
+        "onboard_time": 1730507717,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100556,
+        "num": 100556,
+        "word": "永夜星河追剧日历",
+        "onboard_time": 1730511378,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86695,
+        "num": 99599,
+        "word": "小小的我东京电影节首映",
+        "onboard_time": 1730518098,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98947,
+        "num": 98947,
+        "word": "原来视频也会电子氧化",
+        "onboard_time": 1730519838,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97150,
+        "num": 97150,
+        "word": "S14",
+        "onboard_time": 1730519537,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93051,
+        "num": 93051,
+        "word": "K7034列车部分旅客可全额退票",
+        "onboard_time": 1730521038,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见澳门特区候任行政长官#"
+    }
+  }
+}

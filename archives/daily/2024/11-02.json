@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730518873426,
+  "endTime": 1730521647781,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -43,12 +43,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047505,
+      "num": 325530,
+      "word": "李宁卫衣",
+      "onboard_time": 1730517317,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 971711,
-      "num": 663580,
+      "num": 781428,
       "word": "花学新课件 田嘉瑞请客烧烤",
       "onboard_time": 1730514857,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 959666,
+      "num": 195598,
+      "word": "湖南一女子被拘禁5年遭强奸产女",
+      "onboard_time": 1730518637,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 955472,
@@ -65,6 +81,14 @@
       "onboard_time": 1730500813,
       "rank": 23,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 858395,
+      "num": 1137343,
+      "word": "校方回应年薪50万送住房招老师",
+      "onboard_time": 1730517438,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843532,
@@ -99,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 653346,
-      "num": 325530,
-      "word": "李宁卫衣",
-      "onboard_time": 1730517317,
-      "rank": 19,
-      "category": "时尚"
+      "raw_hot": 634627,
+      "num": 634627,
+      "word": "黄圣依有个人账户但是没有存款",
+      "onboard_time": 1730518457,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 625477,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388886,
+      "num": 292458,
+      "word": "胡夏 隐藏款",
+      "onboard_time": 1730515878,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384292,
       "num": 384292,
       "word": "加沙的水可能变成武器",
@@ -275,20 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326771,
-      "num": 326771,
-      "word": "校方回应年薪50万送住房招老师",
-      "onboard_time": 1730517438,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312621,
       "num": 312621,
       "word": "祝绪丹演技",
       "onboard_time": 1730511257,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294615,
+      "num": 294615,
+      "word": "税务师考试",
+      "onboard_time": 1730519478,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 291615,
@@ -313,14 +345,6 @@
       "onboard_time": 1730472680,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 278965,
-      "num": 278965,
-      "word": "胡夏 隐藏款",
-      "onboard_time": 1730515878,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 277362,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211653,
+      "num": 193961,
+      "word": "湖人硬上布朗尼",
+      "onboard_time": 1730519299,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211538,
       "num": 211538,
       "word": "美邦老板直言找贾乃亮带货效果一般",
@@ -451,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193769,
+      "num": 193769,
+      "word": "中学最高年薪50万送住房招老师",
+      "onboard_time": 1730520138,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189783,
       "num": 189783,
       "word": "俄对谷歌罚款超全球GDP总额",
@@ -467,12 +507,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181877,
+      "num": 181877,
+      "word": "樊振东解说足球",
+      "onboard_time": 1730519959,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177493,
       "num": 177493,
       "word": "宁艺卓毛毛领",
       "onboard_time": 1730478198,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177108,
+      "num": 177108,
+      "word": "侯明昊演技",
+      "onboard_time": 1730518098,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 172816,
@@ -491,11 +547,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167602,
-      "num": 131546,
-      "word": "湖南一女子被拘禁5年遭强奸产女",
-      "onboard_time": 1730518637,
-      "rank": 30,
+      "raw_hot": 169889,
+      "num": 169889,
+      "word": "民办学院学生入优才计划系填错学校",
+      "onboard_time": 1730518877,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -505,14 +561,6 @@
       "onboard_time": 1730473699,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162154,
-      "num": 162154,
-      "word": "黄圣依有个人账户但是没有存款",
-      "onboard_time": 1730518457,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 161474,
@@ -539,6 +587,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153169,
+      "num": 153169,
+      "word": "网红吴迪发文说再见",
+      "onboard_time": 1730520377,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 153006,
+      "num": 200215,
+      "word": "钟南山谈怎么培养孙子的好奇心",
+      "onboard_time": 1730518877,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152052,
+      "num": 152052,
+      "word": "HYBE让田柾国NEWJEANS撞回归",
+      "onboard_time": 1730519537,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150465,
       "num": 150465,
       "word": "一下子懂了航天员要回地球的快乐",
@@ -553,6 +625,14 @@
       "onboard_time": 1730515997,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145972,
+      "num": 145972,
+      "word": "脱轨事故亲历者称振动后听到一声巨响",
+      "onboard_time": 1730517198,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145911,
@@ -635,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131625,
-      "num": 131625,
-      "word": "侯明昊演技",
-      "onboard_time": 1730518098,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129776,
       "num": 129776,
       "word": "付航不喜欢香蕉的原因找到了",
@@ -700,19 +772,11 @@
     },
     {
       "raw_hot": 124293,
-      "num": 124293,
+      "num": 196520,
       "word": "赵晴新剧圆脸甜妹",
       "onboard_time": 1730512338,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121173,
-      "num": 121173,
-      "word": "脱轨事故亲历者称振动后听到一声巨响",
-      "onboard_time": 1730517198,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120699,
@@ -761,6 +825,14 @@
       "onboard_time": 1730502134,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115972,
+      "num": 115972,
+      "word": "税一好难",
+      "onboard_time": 1730520018,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 114601,
@@ -883,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100556,
+      "num": 100556,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730511378,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100142,
       "num": 105342,
       "word": "全国手工穿戴甲70%以上来自江苏",
@@ -899,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "原来视频也会电子氧化",
+      "onboard_time": 1730519838,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98340,
       "num": 94810,
       "word": "丁禹兮演技",
       "onboard_time": 1730470339,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97150,
+      "num": 97150,
+      "word": "S14",
+      "onboard_time": 1730519537,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 96035,
@@ -939,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90631,
-      "num": 90631,
-      "word": "永夜星河追剧日历",
-      "onboard_time": 1730511378,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 93051,
+      "num": 93051,
+      "word": "K7034列车部分旅客可全额退票",
+      "onboard_time": 1730521038,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90438,
@@ -1163,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36622,
+      "num": 651994,
+      "word": "神十八航天员要出差回来了",
+      "onboard_time": 1730520138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32424,
       "num": 174393,
       "word": "姐姐为弟追凶26年案检方建议死刑",
@@ -1225,6 +1329,14 @@
       "onboard_time": 1730496013,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19697,
+      "num": 196002,
+      "word": "小水否认与Jes恋情",
+      "onboard_time": 1730520918,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19392,
@@ -1326,6 +1438,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见斯洛伐克总理#"
+    },
+    {
+      "word": "#习近平会见澳门特区候任行政长官#"
     }
   ]
 }

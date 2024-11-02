@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730518873426,
+  "endTime": 1730521647781,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -1675,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1047505,
+      "num": 325530,
+      "word": "李宁卫衣",
+      "onboard_time": 1730517317,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1045593,
       "num": 580521,
       "word": "烧伤妈妈情况不好",
@@ -1868,7 +1876,7 @@
     },
     {
       "raw_hot": 971711,
-      "num": 663580,
+      "num": 781428,
       "word": "花学新课件 田嘉瑞请客烧烤",
       "onboard_time": 1730514857,
       "rank": 14,
@@ -1881,6 +1889,14 @@
       "onboard_time": 1730002338,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 959666,
+      "num": 195598,
+      "word": "湖南一女子被拘禁5年遭强奸产女",
+      "onboard_time": 1730518637,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 957914,
@@ -2272,6 +2288,14 @@
       "word": "秦皇岛刺鼻气味",
       "onboard_time": 1730249600,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858395,
+      "num": 1137343,
+      "word": "校方回应年薪50万送住房招老师",
+      "onboard_time": 1730517438,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3115,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653346,
-      "num": 325530,
-      "word": "李宁卫衣",
-      "onboard_time": 1730517317,
-      "rank": 19,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 653127,
       "num": 818427,
       "word": "南京市区一天发生两起野猪目击事件",
@@ -3208,6 +3224,14 @@
       "word": "黄圣依又选不离婚",
       "onboard_time": 1730438239,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634627,
+      "num": 634627,
+      "word": "黄圣依有个人账户但是没有存款",
+      "onboard_time": 1730518457,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -5291,6 +5315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 388886,
+      "num": 292458,
+      "word": "胡夏 隐藏款",
+      "onboard_time": 1730515878,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388647,
       "num": 388647,
       "word": "青岛代孕事件5人被罚",
@@ -6091,14 +6123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326771,
-      "num": 326771,
-      "word": "校方回应年薪50万送住房招老师",
-      "onboard_time": 1730517438,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326156,
       "num": 254942,
       "word": "睡觉时越睡越美的姿势找到了",
@@ -6587,6 +6611,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 294615,
+      "num": 294615,
+      "word": "税务师考试",
+      "onboard_time": 1730519478,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 294372,
       "num": 245257,
       "word": "大学生假扮高中生给弟弟送情书",
@@ -6913,14 +6945,6 @@
       "onboard_time": 1730165719,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278965,
-      "num": 278965,
-      "word": "胡夏 隐藏款",
-      "onboard_time": 1730515878,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 278635,
@@ -8963,6 +8987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211653,
+      "num": 193961,
+      "word": "湖人硬上布朗尼",
+      "onboard_time": 1730519299,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211352,
       "num": 211352,
       "word": "乐华团综好像恋综",
@@ -10083,6 +10115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193769,
+      "num": 193769,
+      "word": "中学最高年薪50万送住房招老师",
+      "onboard_time": 1730520138,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193759,
       "num": 193759,
       "word": "HYBE报告书",
@@ -10787,6 +10827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181877,
+      "num": 181877,
+      "word": "樊振东解说足球",
+      "onboard_time": 1730519959,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181711,
       "num": 181711,
       "word": "还得看詹姆斯",
@@ -11153,6 +11201,14 @@
       "onboard_time": 1730372059,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177108,
+      "num": 177108,
+      "word": "侯明昊演技",
+      "onboard_time": 1730518098,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 177068,
@@ -11619,6 +11675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169889,
+      "num": 169889,
+      "word": "民办学院学生入优才计划系填错学校",
+      "onboard_time": 1730518877,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169848,
       "num": 185012,
       "word": "韦礼安徐海乔庆怜直播",
@@ -11785,14 +11849,6 @@
       "onboard_time": 1730257758,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167602,
-      "num": 131546,
-      "word": "湖南一女子被拘禁5年遭强奸产女",
-      "onboard_time": 1730518637,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167493,
@@ -12153,14 +12209,6 @@
       "onboard_time": 1730256318,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162154,
-      "num": 162154,
-      "word": "黄圣依有个人账户但是没有存款",
-      "onboard_time": 1730518457,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 162047,
@@ -12779,11 +12827,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 153169,
+      "num": 153169,
+      "word": "网红吴迪发文说再见",
+      "onboard_time": 1730520377,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 153141,
       "num": 153141,
       "word": "成都裸眼3D大屏因太逼真硬控观众",
       "onboard_time": 1730021538,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153006,
+      "num": 200215,
+      "word": "钟南山谈怎么培养孙子的好奇心",
+      "onboard_time": 1730518877,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -12873,6 +12937,14 @@
       "onboard_time": 1730301260,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152052,
+      "num": 152052,
+      "word": "HYBE让田柾国NEWJEANS撞回归",
+      "onboard_time": 1730519537,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 151989,
@@ -13209,6 +13281,14 @@
       "onboard_time": 1730454858,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145972,
+      "num": 145972,
+      "word": "脱轨事故亲历者称振动后听到一声巨响",
+      "onboard_time": 1730517198,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145911,
@@ -14187,14 +14267,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 131625,
-      "num": 131625,
-      "word": "侯明昊演技",
-      "onboard_time": 1730518098,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131475,
       "num": 131475,
       "word": "赵小童收水稻plog",
@@ -14620,7 +14692,7 @@
     },
     {
       "raw_hot": 124293,
-      "num": 124293,
+      "num": 196520,
       "word": "赵晴新剧圆脸甜妹",
       "onboard_time": 1730512338,
       "rank": 40,
@@ -14793,14 +14865,6 @@
       "onboard_time": 1730205920,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121173,
-      "num": 121173,
-      "word": "脱轨事故亲历者称振动后听到一声巨响",
-      "onboard_time": 1730517198,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120625,
@@ -15033,6 +15097,14 @@
       "onboard_time": 1730443520,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115972,
+      "num": 115972,
+      "word": "税一好难",
+      "onboard_time": 1730520018,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 115877,
@@ -15635,6 +15707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100556,
+      "num": 100556,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730511378,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100549,
       "num": 129616,
       "word": "白酒股直线拉升",
@@ -15673,6 +15753,14 @@
       "onboard_time": 1730302581,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "原来视频也会电子氧化",
+      "onboard_time": 1730519838,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 98819,
@@ -15729,6 +15817,14 @@
       "onboard_time": 1730227872,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 97150,
+      "num": 97150,
+      "word": "S14",
+      "onboard_time": 1730519537,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 97028,
@@ -15819,20 +15915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93051,
+      "num": 93051,
+      "word": "K7034列车部分旅客可全额退票",
+      "onboard_time": 1730521038,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92636,
       "num": 474559,
       "word": "为什么我们越来越讨厌接电话",
       "onboard_time": 1730080877,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90631,
-      "num": 90631,
-      "word": "永夜星河追剧日历",
-      "onboard_time": 1730511378,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 90561,
@@ -17923,6 +18019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36622,
+      "num": 651994,
+      "word": "神十八航天员要出差回来了",
+      "onboard_time": 1730520138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36306,
       "num": 556117,
       "word": "享界S9先享一步",
@@ -19443,6 +19547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19697,
+      "num": 196002,
+      "word": "小水否认与Jes恋情",
+      "onboard_time": 1730520918,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19392,
       "num": 19392,
       "word": "张真源镜花水月vlog",
@@ -20270,6 +20382,9 @@
     },
     {
       "word": "#习近平会见斯洛伐克总理#"
+    },
+    {
+      "word": "#习近平会见澳门特区候任行政长官#"
     }
   ]
 }
