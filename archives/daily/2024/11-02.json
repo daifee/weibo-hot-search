@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730532043362,
+  "endTime": 1730532923982,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 875086,
-      "num": 282960,
+      "num": 286182,
       "word": "张九南婚礼",
       "onboard_time": 1730527217,
       "rank": 10,
@@ -217,6 +217,14 @@
       "onboard_time": 1730460318,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 570875,
+      "num": 398813,
+      "word": "再见朋友 提名",
+      "onboard_time": 1730529857,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 552641,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369149,
-      "num": 369149,
-      "word": "再见朋友 提名",
-      "onboard_time": 1730529857,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "武大博士一人拿下24万元奖学金",
@@ -499,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 280826,
+      "num": 283950,
+      "word": "赛力斯回应昆明问界M9事故",
+      "onboard_time": 1730529437,
+      "rank": 36,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 277362,
       "num": 277362,
       "word": "会跳yes ok的来了",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 272475,
-      "num": 233165,
+      "num": 233561,
       "word": "麦琳 双11晚会带货",
       "onboard_time": 1730528657,
       "rank": 32,
@@ -611,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226060,
+      "num": 226060,
+      "word": "小小的我全球首映口碑",
+      "onboard_time": 1730531598,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220027,
       "num": 220027,
       "word": "女子15万工资未收到9年后才发现",
@@ -667,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201232,
-      "num": 190976,
-      "word": "小小的我全球首映口碑",
-      "onboard_time": 1730531598,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200913,
       "num": 200913,
       "word": "事业单位联考",
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 199427,
-      "num": 199427,
+      "num": 231663,
       "word": "Faker谈和Knight交手",
       "onboard_time": 1730530158,
       "rank": 18,
@@ -699,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197512,
+      "num": 286908,
+      "word": "三只羊部分主播隐MCN标识复播",
+      "onboard_time": 1730530098,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194722,
       "num": 194722,
       "word": "杨超越回忆创造101感觉很痛苦",
       "onboard_time": 1730528176,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193070,
+      "num": 193070,
+      "word": "陈都灵扮相",
+      "onboard_time": 1730531417,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 189783,
@@ -747,22 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181524,
-      "num": 181524,
-      "word": "三只羊部分主播隐MCN标识复播",
-      "onboard_time": 1730530098,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180738,
-      "num": 283950,
-      "word": "赛力斯回应昆明问界M9事故",
-      "onboard_time": 1730529437,
-      "rank": 36,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 180465,
       "num": 180465,
       "word": "大梦归离倍速这是正常了",
@@ -785,6 +793,14 @@
       "onboard_time": 1730518098,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175825,
+      "num": 175825,
+      "word": "成毅 茶百道",
+      "onboard_time": 1730529857,
+      "rank": 34,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 175517,
@@ -835,6 +851,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165293,
+      "num": 165293,
+      "word": "东京电影节",
+      "onboard_time": 1730531957,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 163807,
+      "num": 163807,
+      "word": "第五人格",
+      "onboard_time": 1730531598,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163551,
       "num": 201049,
       "word": "黄景瑜孙千hi6录制",
@@ -849,14 +881,6 @@
       "onboard_time": 1730473699,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162223,
-      "num": 162223,
-      "word": "第五人格",
-      "onboard_time": 1730531598,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 161474,
@@ -931,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146445,
-      "num": 146445,
-      "word": "成毅 茶百道",
-      "onboard_time": 1730529857,
-      "rank": 34,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 145972,
       "num": 145972,
       "word": "脱轨事故亲历者称振动后听到一声巨响",
@@ -979,12 +995,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143964,
-      "num": 143964,
-      "word": "陈都灵扮相",
-      "onboard_time": 1730531417,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 142312,
+      "num": 142312,
+      "word": "寻亲走红的郁豹豹已与家人决裂",
+      "onboard_time": 1730531057,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141376,
@@ -1051,12 +1067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132939,
+      "num": 166930,
+      "word": "为什么现在的大学生越来越晚熟",
+      "onboard_time": 1730529738,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
       "onboard_time": 1730507177,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131569,
+      "num": 131569,
+      "word": "珠帘玉幕纯恨vs纯爱",
+      "onboard_time": 1730529618,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130289,
@@ -1083,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128611,
+      "num": 128611,
+      "word": "小水 现在没有人追我",
+      "onboard_time": 1730532017,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127923,
       "num": 127923,
       "word": "郑钦文回应巡回赛没朋友",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1730457499,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127131,
+      "num": 127131,
+      "word": "税二 简单",
+      "onboard_time": 1730532317,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 125946,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1730512338,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124147,
-      "num": 124147,
-      "word": "寻亲走红的郁豹豹已与家人决裂",
-      "onboard_time": 1730531057,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120699,
@@ -1267,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111123,
+      "num": 111123,
+      "word": "名侦探学院",
+      "onboard_time": 1730531358,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110973,
       "num": 292583,
       "word": "美特勤局公布特朗普遇刺调查摘要",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1730476518,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107278,
-      "num": 107278,
-      "word": "珠帘玉幕纯恨vs纯爱",
-      "onboard_time": 1730529618,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 107182,
@@ -1379,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104127,
+      "num": 104127,
+      "word": "白鹿11月行程",
+      "onboard_time": 1730532738,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104075,
       "num": 235725,
       "word": "加沙水危机",
@@ -1411,14 +1459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100586,
-      "num": 100586,
-      "word": "名侦探学院",
-      "onboard_time": 1730531358,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100142,
       "num": 105342,
       "word": "全国手工穿戴甲70%以上来自江苏",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1730529558,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98975,
+      "num": 98975,
+      "word": "范丞丞卢昱晓贴额头对视",
+      "onboard_time": 1730532858,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98340,
@@ -1505,30 +1553,6 @@
       "onboard_time": 1730521038,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92237,
-      "num": 166930,
-      "word": "为什么现在的大学生越来越晚熟",
-      "onboard_time": 1730529738,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90827,
-      "num": 90827,
-      "word": "小水 现在没有人追我",
-      "onboard_time": 1730532017,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 90761,
-      "num": 90761,
-      "word": "东京电影节",
-      "onboard_time": 1730531957,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 90438,
@@ -1819,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31927,
+      "num": 229986,
+      "word": "黄圣依杨子谁的商业价值更高",
+      "onboard_time": 1730531118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31888,
       "num": 222859,
       "word": "任嘉伦佳偶天成片场随拍",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1730485453,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29291,
+      "num": 267724,
+      "word": "野猪肇事近期发生多起",
+      "onboard_time": 1730531837,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29164,
@@ -1859,19 +1899,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26457,
+      "num": 163983,
+      "word": "加沙地带陷入严重水危机",
+      "onboard_time": 1730531716,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 25786,
       "num": 25786,
       "word": "TF四代2025台历",
       "onboard_time": 1730486353,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24748,
-      "num": 199172,
-      "word": "黄圣依杨子谁的商业价值更高",
-      "onboard_time": 1730531118,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1905,14 +1945,6 @@
       "onboard_time": 1730525598,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19828,
-      "num": 162253,
-      "word": "加沙地带陷入严重水危机",
-      "onboard_time": 1730531716,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 19635,
@@ -1968,14 +2000,6 @@
       "word": "今日北京继续大雾黄色预警",
       "onboard_time": 1730499912,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14811,
-      "num": 250597,
-      "word": "野猪肇事近期发生多起",
-      "onboard_time": 1730531837,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
