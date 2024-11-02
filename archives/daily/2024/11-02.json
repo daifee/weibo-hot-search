@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730554577775,
+  "endTime": 1730557154821,
   "band_list": [
     {
       "raw_hot": 2993448,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2451608,
+      "num": 2451608,
+      "word": "BLG对战T1",
+      "onboard_time": 1730555238,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1844176,
       "num": 1844176,
       "word": "覃海洋犯规",
@@ -59,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1813703,
+      "num": 1813703,
+      "word": "赵露思回复周雨彤",
+      "onboard_time": 1730554881,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1712415,
       "num": 1712415,
       "word": "应届生称不喜欢部队生活退伍被惩戒",
@@ -73,6 +89,14 @@
       "onboard_time": 1730540598,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1633077,
+      "num": 648965,
+      "word": "鹿晗支持赵露思新剧",
+      "onboard_time": 1730556321,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1586762,
@@ -129,6 +153,14 @@
       "onboard_time": 1730541318,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 973192,
+      "num": 973192,
+      "word": "2小伙买刮刮乐中百万室友发声",
+      "onboard_time": 1730553320,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 971711,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707967,
+      "num": 633327,
+      "word": "永夜星河",
+      "onboard_time": 1730467099,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707320,
       "num": 707320,
       "word": "大专生还没毕业就拿到了高薪和编制",
@@ -347,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 622762,
+      "num": 622762,
+      "word": "珠帘玉幕宣传",
+      "onboard_time": 1730555720,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 620966,
       "num": 431205,
       "word": "买刮刮乐中百万2小伙已恢复工作",
@@ -361,14 +409,6 @@
       "onboard_time": 1730460318,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 589672,
-      "num": 589672,
-      "word": "永夜星河",
-      "onboard_time": 1730467099,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 572276,
@@ -457,6 +497,14 @@
       "onboard_time": 1730469140,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 513298,
+      "num": 513298,
+      "word": "樊振东努力照顾两边的解说",
+      "onboard_time": 1730555839,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 511760,
@@ -907,6 +955,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 279548,
+      "num": 257274,
+      "word": "李小龙挚友评向佐扇巴掌事件",
+      "onboard_time": 1730554099,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277362,
       "num": 277362,
       "word": "会跳yes ok的来了",
@@ -939,12 +995,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269954,
+      "num": 269954,
+      "word": "覃海洋回应近日争议",
+      "onboard_time": 1730556260,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269790,
       "num": 269790,
       "word": "陈都灵扮相",
       "onboard_time": 1730531417,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269781,
+      "num": 257059,
+      "word": "孩子整理父亲遗物发现30多万现金",
+      "onboard_time": 1730554521,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269464,
@@ -963,11 +1035,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266738,
+      "num": 255567,
+      "word": "林俊杰王源合唱翅膀",
+      "onboard_time": 1730553739,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263272,
       "num": 263272,
       "word": "王楚钦首轮对阵户上隼辅",
       "onboard_time": 1730473039,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263093,
+      "num": 263093,
+      "word": "林诗栋男单冠军",
+      "onboard_time": 1730554881,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1011,20 +1099,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 244649,
-      "num": 244649,
-      "word": "林俊杰王源合唱翅膀",
-      "onboard_time": 1730553739,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 242387,
       "num": 208539,
       "word": "26岁女子确诊渐冻症前后判若两人",
       "onboard_time": 1730468481,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241286,
+      "num": 208847,
+      "word": "范丞丞演技",
+      "onboard_time": 1730555541,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 239856,
@@ -1243,6 +1331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190927,
+      "num": 190927,
+      "word": "陈数 梦中情师",
+      "onboard_time": 1730554099,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190586,
+      "num": 190586,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190555,
       "num": 190555,
       "word": "周雨彤英文翻译演我本人",
@@ -1331,14 +1435,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 182654,
-      "num": 182654,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181877,
       "num": 181877,
       "word": "樊振东解说足球",
@@ -1352,6 +1448,14 @@
       "word": "大梦归离倍速这是正常了",
       "onboard_time": 1730528357,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180453,
+      "num": 154600,
+      "word": "虞书欣工作室",
+      "onboard_time": 1730555660,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1433,14 +1537,6 @@
       "onboard_time": 1730523077,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174420,
-      "num": 174420,
-      "word": "陈数 梦中情师",
-      "onboard_time": 1730554099,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 173579,
@@ -1683,6 +1779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150214,
+      "num": 150214,
+      "word": "白宇 侠之大者",
+      "onboard_time": 1730556620,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149800,
       "num": 149800,
       "word": "湖人打成表演赛",
@@ -1763,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144125,
-      "num": 144125,
-      "word": "李小龙挚友评向佐扇巴掌事件",
-      "onboard_time": 1730554099,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143137,
       "num": 142203,
       "word": "林虞 黑莲花",
@@ -1825,6 +1921,14 @@
       "onboard_time": 1730550559,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139077,
+      "num": 139077,
+      "word": "周洁琼女儿国国王造型",
+      "onboard_time": 1730557041,
+      "rank": 46,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 139068,
@@ -1945,6 +2049,14 @@
       "onboard_time": 1730529618,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131482,
+      "num": 627372,
+      "word": "一男子入住酒店发现摄像头",
+      "onboard_time": 1730554220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130874,
@@ -2091,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119668,
+      "num": 119668,
+      "word": "S14总决赛",
+      "onboard_time": 1730555901,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119393,
       "num": 119393,
       "word": "毒液",
@@ -2121,6 +2241,14 @@
       "onboard_time": 1730480535,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 117690,
+      "num": 117690,
+      "word": "慕声 邪恶银渐层",
+      "onboard_time": 1730555601,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117136,
@@ -2371,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102416,
-      "num": 540691,
-      "word": "2小伙买刮刮乐中百万室友发声",
-      "onboard_time": 1730553320,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101875,
       "num": 101875,
       "word": "拍一张秋天的落叶",
@@ -2425,14 +2545,6 @@
       "onboard_time": 1730529558,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98658,
-      "num": 98658,
-      "word": "孩子整理父亲遗物发现30多万现金",
-      "onboard_time": 1730554521,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98340,
@@ -2651,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74141,
+      "num": 247288,
+      "word": "吃完炒饭后出现多器官功能衰竭",
+      "onboard_time": 1730556981,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73288,
       "num": 95680,
       "word": "WTT法兰克福冠军赛首轮对阵",
@@ -2745,6 +2865,22 @@
       "onboard_time": 1730490971,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49844,
+      "num": 247556,
+      "word": "Bin再比三比零手势",
+      "onboard_time": 1730557100,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 47944,
+      "num": 264114,
+      "word": "邵子恒初C实力",
+      "onboard_time": 1730556861,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 47617,
@@ -2987,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24603,
+      "num": 1113688,
+      "word": "第七届进博会即将开幕",
+      "onboard_time": 1730554040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24538,
       "num": 235457,
       "word": "双11大量广告短信伪装成验证码",
@@ -3080,14 +3224,6 @@
       "word": "24小时跟着赏金猎人打野猪",
       "onboard_time": 1730525177,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16481,
-      "num": 900260,
-      "word": "第七届进博会即将开幕",
-      "onboard_time": 1730554040,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

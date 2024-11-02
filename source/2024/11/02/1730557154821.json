@@ -1,0 +1,410 @@
+{
+  "runTime": 1730557154821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2451608,
+        "num": 2451608,
+        "word": "BLG对战T1",
+        "onboard_time": 1730555238,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1813703,
+        "num": 1813703,
+        "word": "赵露思回复周雨彤",
+        "onboard_time": 1730554881,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24603,
+        "num": 1113688,
+        "word": "第七届进博会即将开幕",
+        "onboard_time": 1730554040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2395441,
+        "num": 1065647,
+        "word": "覃海洋成绩被取消",
+        "onboard_time": 1730549179,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 973192,
+        "num": 973192,
+        "word": "2小伙买刮刮乐中百万室友发声",
+        "onboard_time": 1730553320,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650308,
+        "num": 650308,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633077,
+        "num": 648965,
+        "word": "鹿晗支持赵露思新剧",
+        "onboard_time": 1730556321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1000013,
+        "num": 641065,
+        "word": "小巷人家会成为下一部电子榨菜吗",
+        "onboard_time": 1730549839,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707967,
+        "num": 633327,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131482,
+        "num": 627372,
+        "word": "一男子入住酒店发现摄像头",
+        "onboard_time": 1730554220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622762,
+        "num": 622762,
+        "word": "珠帘玉幕宣传",
+        "onboard_time": 1730555720,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513298,
+        "num": 513298,
+        "word": "樊振东努力照顾两边的解说",
+        "onboard_time": 1730555839,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492464,
+        "num": 492464,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442087,
+        "num": 442087,
+        "word": "EXO经纪人发文",
+        "onboard_time": 1730553261,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385484,
+        "num": 385484,
+        "word": "蒯曼女单冠军",
+        "onboard_time": 1730552419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382042,
+        "num": 382042,
+        "word": "应届生称不喜欢部队生活退伍被惩戒",
+        "onboard_time": 1730543719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313198,
+        "num": 313198,
+        "word": "魅女 怨女",
+        "onboard_time": 1730549539,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269954,
+        "num": 269954,
+        "word": "覃海洋回应近日争议",
+        "onboard_time": 1730556260,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47944,
+        "num": 264114,
+        "word": "邵子恒初C实力",
+        "onboard_time": 1730556861,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263093,
+        "num": 263093,
+        "word": "林诗栋男单冠军",
+        "onboard_time": 1730554881,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 750128,
+        "num": 262551,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353519,
+        "num": 261816,
+        "word": "私人影院肢体接触明码标价",
+        "onboard_time": 1730540598,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334934,
+        "num": 260761,
+        "word": "拾荒老人去看病竟掏出一代身份证",
+        "onboard_time": 1730547318,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301015,
+        "num": 258616,
+        "word": "女子超市做切眼袋手术致左眼失明",
+        "onboard_time": 1730548938,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279548,
+        "num": 257274,
+        "word": "李小龙挚友评向佐扇巴掌事件",
+        "onboard_time": 1730554099,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269781,
+        "num": 257059,
+        "word": "孩子整理父亲遗物发现30多万现金",
+        "onboard_time": 1730554521,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266738,
+        "num": 255567,
+        "word": "林俊杰王源合唱翅膀",
+        "onboard_time": 1730553739,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254930,
+        "num": 254930,
+        "word": "导游误把乙二醇当锅底游客吃中毒",
+        "onboard_time": 1730546598,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49844,
+        "num": 247556,
+        "word": "Bin再比三比零手势",
+        "onboard_time": 1730557100,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74141,
+        "num": 247288,
+        "word": "吃完炒饭后出现多器官功能衰竭",
+        "onboard_time": 1730556981,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247198,
+        "num": 247198,
+        "word": "睡觉时最伤脊椎的睡姿",
+        "onboard_time": 1730546839,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224511,
+        "num": 224511,
+        "word": "警方续报19岁男子持械行凶原因",
+        "onboard_time": 1730552360,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241286,
+        "num": 208847,
+        "word": "范丞丞演技",
+        "onboard_time": 1730555541,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190927,
+        "num": 190927,
+        "word": "陈数 梦中情师",
+        "onboard_time": 1730554099,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190586,
+        "num": 190586,
+        "word": "虞书欣很会选剧本",
+        "onboard_time": 1730547258,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190568,
+        "num": 190568,
+        "word": "张雨绮男友自曝年入九位数",
+        "onboard_time": 1730533577,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178305,
+        "num": 178305,
+        "word": "东京偶遇周雨彤",
+        "onboard_time": 1730548818,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169331,
+        "num": 169331,
+        "word": "女生买鞋被店家索要试鞋费",
+        "onboard_time": 1730551041,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168316,
+        "num": 168316,
+        "word": "慕声扯发带",
+        "onboard_time": 1730553500,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156468,
+        "num": 156468,
+        "word": "覃海洋犯规",
+        "onboard_time": 1730548759,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180453,
+        "num": 154600,
+        "word": "虞书欣工作室",
+        "onboard_time": 1730555660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151766,
+        "num": 151766,
+        "word": "男子为结婚花10万为女友前夫做法事",
+        "onboard_time": 1730542278,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150214,
+        "num": 150214,
+        "word": "白宇 侠之大者",
+        "onboard_time": 1730556620,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145856,
+        "num": 145856,
+        "word": "特朗普或再次提前宣布胜选",
+        "onboard_time": 1730545277,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 145775,
+        "word": "买刮刮乐中百万2小伙已恢复工作",
+        "onboard_time": 1730538438,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145131,
+        "num": 145131,
+        "word": "小巷人家",
+        "onboard_time": 1730548459,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139077,
+        "num": 139077,
+        "word": "周洁琼女儿国国王造型",
+        "onboard_time": 1730557041,
+        "rank": 46,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 129202,
+        "num": 129202,
+        "word": "西湖偶遇薛凯琪了",
+        "onboard_time": 1730553680,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119668,
+        "num": 119668,
+        "word": "S14总决赛",
+        "onboard_time": 1730555901,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117690,
+        "num": 117690,
+        "word": "慕声 邪恶银渐层",
+        "onboard_time": 1730555601,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这篇文章透露了改革的几个重要信号#"
+    }
+  }
+}

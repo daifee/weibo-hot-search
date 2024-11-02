@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730554577775,
+  "endTime": 1730557154821,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -249,6 +249,14 @@
       "onboard_time": 1730037682,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2451608,
+      "num": 2451608,
+      "word": "BLG对战T1",
+      "onboard_time": 1730555238,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2431959,
@@ -563,6 +571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1813703,
+      "num": 1813703,
+      "word": "赵露思回复周雨彤",
+      "onboard_time": 1730554881,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1793258,
       "num": 514460,
       "word": "95后硕士炒股一月狂赚112万",
@@ -721,6 +737,14 @@
       "onboard_time": 1730468059,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1633077,
+      "num": 648965,
+      "word": "鹿晗支持赵露思新剧",
+      "onboard_time": 1730556321,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1619085,
@@ -1931,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 973192,
+      "num": 973192,
+      "word": "2小伙买刮刮乐中百万室友发声",
+      "onboard_time": 1730553320,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972704,
       "num": 450336,
       "word": "杨笠登上经济学人专题报道版面",
@@ -3003,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707967,
+      "num": 633327,
+      "word": "永夜星河",
+      "onboard_time": 1729949780,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707414,
       "num": 349991,
       "word": "日本游泳选手夺冠后多游了一圈",
@@ -3491,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622762,
+      "num": 622762,
+      "word": "珠帘玉幕宣传",
+      "onboard_time": 1730555720,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622092,
       "num": 381094,
       "word": "王楚钦新身份正在公示",
@@ -3713,14 +3761,6 @@
       "onboard_time": 1730382080,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589672,
-      "num": 589672,
-      "word": "永夜星河",
-      "onboard_time": 1729949780,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 588702,
@@ -4377,6 +4417,14 @@
       "onboard_time": 1730442140,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513298,
+      "num": 513298,
+      "word": "樊振东努力照顾两边的解说",
+      "onboard_time": 1730555839,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 512621,
@@ -7499,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279548,
+      "num": 257274,
+      "word": "李小龙挚友评向佐扇巴掌事件",
+      "onboard_time": 1730554099,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278635,
       "num": 278635,
       "word": "杨子真的很想嫁给自己",
@@ -7651,12 +7707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269954,
+      "num": 269954,
+      "word": "覃海洋回应近日争议",
+      "onboard_time": 1730556260,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269790,
       "num": 269790,
       "word": "陈都灵扮相",
       "onboard_time": 1730531417,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269781,
+      "num": 257059,
+      "word": "孩子整理父亲遗物发现30多万现金",
+      "onboard_time": 1730554521,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269550,
@@ -7803,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266738,
+      "num": 255567,
+      "word": "林俊杰王源合唱翅膀",
+      "onboard_time": 1730553739,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266185,
       "num": 266185,
       "word": "太好了是虞书欣王一栩有救了",
@@ -7857,6 +7937,14 @@
       "onboard_time": 1730164519,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263093,
+      "num": 263093,
+      "word": "林诗栋男单冠军",
+      "onboard_time": 1730554881,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 262877,
@@ -8467,14 +8555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244649,
-      "num": 244649,
-      "word": "林俊杰王源合唱翅膀",
-      "onboard_time": 1730553739,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244441,
       "num": 448260,
       "word": "心动的信号剪辑",
@@ -8593,6 +8673,14 @@
       "onboard_time": 1730373439,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241286,
+      "num": 208847,
+      "word": "范丞丞演技",
+      "onboard_time": 1730555541,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 241172,
@@ -11027,6 +11115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190927,
+      "num": 190927,
+      "word": "陈数 梦中情师",
+      "onboard_time": 1730554099,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190752,
       "num": 190752,
       "word": "米莱狄全新秒杀皮肤",
@@ -11049,6 +11145,14 @@
       "onboard_time": 1730021898,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190586,
+      "num": 190586,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 190555,
@@ -11563,14 +11667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182654,
-      "num": 182654,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182645,
       "num": 182645,
       "word": "肚子疼西医给我开了两根冰棍",
@@ -11752,6 +11848,14 @@
       "word": "大梦归离倍速这是正常了",
       "onboard_time": 1730528357,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180453,
+      "num": 154600,
+      "word": "虞书欣工作室",
+      "onboard_time": 1730555660,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -12265,14 +12369,6 @@
       "onboard_time": 1730034860,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174420,
-      "num": 174420,
-      "word": "陈数 梦中情师",
-      "onboard_time": 1730554099,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 174244,
@@ -14091,6 +14187,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 150214,
+      "num": 150214,
+      "word": "白宇 侠之大者",
+      "onboard_time": 1730556620,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150142,
       "num": 150142,
       "word": "珠帘玉幕 亲情线",
@@ -14473,14 +14577,6 @@
       "onboard_time": 1730254038,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144125,
-      "num": 144125,
-      "word": "李小龙挚友评向佐扇巴掌事件",
-      "onboard_time": 1730554099,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 143742,
@@ -14905,6 +15001,14 @@
       "onboard_time": 1730036000,
       "rank": 48,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 139077,
+      "num": 139077,
+      "word": "周洁琼女儿国国王造型",
+      "onboard_time": 1730557041,
+      "rank": 46,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 139068,
@@ -15449,6 +15553,14 @@
       "onboard_time": 1730529618,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131482,
+      "num": 627372,
+      "word": "一男子入住酒店发现摄像头",
+      "onboard_time": 1730554220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131475,
@@ -16155,6 +16267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119668,
+      "num": 119668,
+      "word": "S14总决赛",
+      "onboard_time": 1730555901,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119632,
       "num": 119632,
       "word": "殷世航看华晨宇演唱会",
@@ -16265,6 +16385,14 @@
       "onboard_time": 1730084779,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117690,
+      "num": 117690,
+      "word": "慕声 邪恶银渐层",
+      "onboard_time": 1730555601,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117364,
@@ -16995,14 +17123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102416,
-      "num": 540691,
-      "word": "2小伙买刮刮乐中百万室友发声",
-      "onboard_time": 1730553320,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102098,
       "num": 287868,
       "word": "人造宝石或进一步降价",
@@ -17153,14 +17273,6 @@
       "onboard_time": 1729954881,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98658,
-      "num": 98658,
-      "word": "孩子整理父亲遗物发现30多万现金",
-      "onboard_time": 1730554521,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98512,
@@ -17840,6 +17952,14 @@
       "word": "黑龙江一景区将启动流放宁古塔项目",
       "onboard_time": 1730282299,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74141,
+      "num": 247288,
+      "word": "吃完炒饭后出现多器官功能衰竭",
+      "onboard_time": 1730556981,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -18827,6 +18947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49844,
+      "num": 247556,
+      "word": "Bin再比三比零手势",
+      "onboard_time": 1730557100,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49774,
       "num": 582453,
       "word": "微博视界大会第二波阵容",
@@ -18873,6 +19001,14 @@
       "onboard_time": 1730256739,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47944,
+      "num": 264114,
+      "word": "邵子恒初C实力",
+      "onboard_time": 1730556861,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 47550,
@@ -20771,6 +20907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24603,
+      "num": 1113688,
+      "word": "第七届进博会即将开幕",
+      "onboard_time": 1730554040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24538,
       "num": 235457,
       "word": "双11大量广告短信伪装成验证码",
@@ -21416,14 +21560,6 @@
       "word": "郭刚堂希望被告人交代更多拐卖细节",
       "onboard_time": 1730211200,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16481,
-      "num": 900260,
-      "word": "第七届进博会即将开幕",
-      "onboard_time": 1730554040,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
