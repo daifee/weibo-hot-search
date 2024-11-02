@@ -1,6 +1,6 @@
 {
   "startTime": 1729959949693,
-  "endTime": 1730558251447,
+  "endTime": 1730561062619,
   "band_list": [
     {
       "raw_hot": 8879419,
@@ -9,6 +9,14 @@
       "onboard_time": 1730350221,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7849827,
+      "num": 7849827,
+      "word": "BLG对战T1",
+      "onboard_time": 1730555238,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 4831302,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2830694,
+      "num": 2830694,
+      "word": "薛之谦晒与赵露思聊天记录",
+      "onboard_time": 1730560582,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2798059,
       "num": 2798059,
       "word": "覃海洋成绩被取消",
@@ -249,14 +265,6 @@
       "onboard_time": 1730037682,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2451608,
-      "num": 2451608,
-      "word": "BLG对战T1",
-      "onboard_time": 1730555238,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 2431959,
@@ -521,6 +529,14 @@
       "onboard_time": 1730009898,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1861305,
+      "num": 505311,
+      "word": "摇人",
+      "onboard_time": 1730558300,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1856332,
@@ -1891,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 991451,
+      "num": 991451,
+      "word": "Elk神箭",
+      "onboard_time": 1730559922,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 989674,
       "num": 573613,
       "word": "小米洗衣机",
@@ -2651,6 +2675,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 820828,
+      "num": 813901,
+      "word": "永夜星河",
+      "onboard_time": 1729949780,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 819645,
       "num": 627982,
       "word": "90后农村娃拿到太空船票",
@@ -2697,14 +2729,6 @@
       "onboard_time": 1730338758,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 813901,
-      "num": 813901,
-      "word": "永夜星河",
-      "onboard_time": 1729949780,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 811959,
@@ -4155,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547185,
+      "num": 547185,
+      "word": "S14开幕式",
+      "onboard_time": 1730557880,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 547122,
       "num": 547122,
       "word": "孙颖莎王楚钦仍为WTT赛事冠军榜第一",
@@ -4851,11 +4883,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476781,
-      "num": 476781,
-      "word": "S14开幕式",
-      "onboard_time": 1730557880,
-      "rank": 14,
+      "raw_hot": 476420,
+      "num": 263838,
+      "word": "Rita好美",
+      "onboard_time": 1730560344,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -4897,6 +4929,14 @@
       "onboard_time": 1730181501,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 473121,
+      "num": 473121,
+      "word": "乔任梁母亲发声",
+      "onboard_time": 1730559922,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 472712,
@@ -5025,6 +5065,14 @@
       "onboard_time": 1730350401,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455909,
+      "num": 455909,
+      "word": "高雅cp",
+      "onboard_time": 1730245337,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 455075,
@@ -6323,6 +6371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 349149,
+      "num": 494201,
+      "word": "Knight单杀Faker",
+      "onboard_time": 1730560285,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347759,
       "num": 347759,
       "word": "魔道祖师",
@@ -7595,6 +7651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278698,
+      "num": 278698,
+      "word": "李明德20天瘦了12斤",
+      "onboard_time": 1730560404,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278635,
       "num": 278635,
       "word": "杨子真的很想嫁给自己",
@@ -7657,6 +7721,14 @@
       "onboard_time": 1730434459,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273561,
+      "num": 485304,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1730560165,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 273421,
@@ -9259,6 +9331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225743,
+      "num": 225743,
+      "word": "S14总决赛",
+      "onboard_time": 1730555901,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225724,
       "num": 225724,
       "word": "演员王一博脚踏实地行而不辍",
@@ -9392,14 +9472,6 @@
       "word": "高雅cp好甜",
       "onboard_time": 1730265079,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221606,
-      "num": 253905,
-      "word": "高雅cp",
-      "onboard_time": 1730245337,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -9649,6 +9721,14 @@
       "onboard_time": 1730274317,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 216151,
+      "num": 216151,
+      "word": "没有伤害任何人",
+      "onboard_time": 1730559680,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 216003,
@@ -9987,6 +10067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207719,
+      "num": 247556,
+      "word": "Bin再比三比零手势",
+      "onboard_time": 1730557100,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207692,
       "num": 207692,
       "word": "一部短片致敬中国女航天人",
@@ -10001,6 +10089,22 @@
       "onboard_time": 1730456418,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207482,
+      "num": 207482,
+      "word": "拒服兵役不仅可耻更违法",
+      "onboard_time": 1730558420,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207437,
+      "num": 207437,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 207399,
@@ -10289,6 +10393,14 @@
       "onboard_time": 1730188039,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202062,
+      "num": 516565,
+      "word": "BLG总决赛先下一城",
+      "onboard_time": 1730560103,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 202053,
@@ -10729,6 +10841,14 @@
       "onboard_time": 1730043262,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196622,
+      "num": 196622,
+      "word": "张艺兴 破防是我今晚的命题",
+      "onboard_time": 1730560344,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 196177,
@@ -11195,14 +11315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190586,
-      "num": 190586,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190555,
       "num": 190555,
       "word": "周雨彤英文翻译演我本人",
@@ -11425,6 +11537,14 @@
       "onboard_time": 1730111540,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186920,
+      "num": 186920,
+      "word": "付航说刘宇宁必成影帝",
+      "onboard_time": 1730559080,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186598,
@@ -12475,6 +12595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173519,
+      "num": 473189,
+      "word": "重庆工商大学通报学生称被恶意阻拦毕业",
+      "onboard_time": 1730559801,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173467,
       "num": 341206,
       "word": "神十八乘组将于11月4日回家",
@@ -12808,6 +12936,14 @@
       "word": "耳帝说何洁应该有更好的音乐事业",
       "onboard_time": 1730464219,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168786,
+      "num": 168786,
+      "word": "留几手 爱无能",
+      "onboard_time": 1730558659,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -14291,6 +14427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149667,
+      "num": 149667,
+      "word": "交警 第一次感觉红灯这么长",
+      "onboard_time": 1730557461,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149494,
       "num": 149494,
       "word": "彭小苒暗河传顶级刺客",
@@ -15219,6 +15363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136455,
+      "num": 264642,
+      "word": "美国女子带两娃跳下60米高瀑布",
+      "onboard_time": 1730561003,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136436,
       "num": 136436,
       "word": "陈少熙 游学小记",
@@ -15681,14 +15833,6 @@
       "onboard_time": 1730432179,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130690,
-      "num": 247556,
-      "word": "Bin再比三比零手势",
-      "onboard_time": 1730557100,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 130611,
@@ -16313,14 +16457,6 @@
       "onboard_time": 1730472380,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119668,
-      "num": 119668,
-      "word": "S14总决赛",
-      "onboard_time": 1730555901,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 119632,
@@ -18211,6 +18347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68583,
+      "num": 474540,
+      "word": "长期穿鲨鱼裤易增加真菌感染风险",
+      "onboard_time": 1730559987,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68532,
       "num": 111184,
       "word": "台风康妮已致台湾27人伤",
@@ -19324,7 +19468,7 @@
     },
     {
       "raw_hot": 42541,
-      "num": 1114697,
+      "num": 1277550,
       "word": "公安部网安局揭开帮信罪真面目",
       "onboard_time": 1730539159,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730561062619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7849827,
+        "num": 7849827,
+        "word": "BLG对战T1",
+        "onboard_time": 1730555238,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2830694,
+        "num": 2830694,
+        "word": "薛之谦晒与赵露思聊天记录",
+        "onboard_time": 1730560582,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29123,
+        "num": 1277550,
+        "word": "公安部网安局揭开帮信罪真面目",
+        "onboard_time": 1730539159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991451,
+        "num": 991451,
+        "word": "Elk神箭",
+        "onboard_time": 1730559922,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 696724,
+        "num": 696724,
+        "word": "覃海洋回应近日争议",
+        "onboard_time": 1730556260,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547185,
+        "num": 547185,
+        "word": "S14开幕式",
+        "onboard_time": 1730557880,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1358262,
+        "num": 542695,
+        "word": "赵露思回复周雨彤",
+        "onboard_time": 1730554881,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 820828,
+        "num": 532970,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578184,
+        "num": 520883,
+        "word": "小巷人家会成为下一部电子榨菜吗",
+        "onboard_time": 1730549839,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202062,
+        "num": 516565,
+        "word": "BLG总决赛先下一城",
+        "onboard_time": 1730560103,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1861305,
+        "num": 505311,
+        "word": "摇人",
+        "onboard_time": 1730558300,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349149,
+        "num": 494201,
+        "word": "Knight单杀Faker",
+        "onboard_time": 1730560285,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273561,
+        "num": 485304,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1730560165,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481408,
+        "num": 481408,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68583,
+        "num": 474540,
+        "word": "长期穿鲨鱼裤易增加真菌感染风险",
+        "onboard_time": 1730559987,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173519,
+        "num": 473189,
+        "word": "重庆工商大学通报学生称被恶意阻拦毕业",
+        "onboard_time": 1730559801,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495802,
+        "num": 473167,
+        "word": "珠帘玉幕宣传",
+        "onboard_time": 1730555720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473121,
+        "num": 473121,
+        "word": "乔任梁母亲发声",
+        "onboard_time": 1730559922,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455909,
+        "num": 455909,
+        "word": "高雅cp",
+        "onboard_time": 1730558180,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429880,
+        "num": 429880,
+        "word": "2小伙买刮刮乐中百万室友发声",
+        "onboard_time": 1730553320,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618058,
+        "num": 429146,
+        "word": "覃海洋成绩被取消",
+        "onboard_time": 1730549179,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512936,
+        "num": 426661,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421506,
+        "num": 421506,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384646,
+        "num": 384646,
+        "word": "樊振东努力照顾两边的解说",
+        "onboard_time": 1730555839,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345068,
+        "num": 345068,
+        "word": "拾荒老人去看病竟掏出一代身份证",
+        "onboard_time": 1730547318,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278698,
+        "num": 278698,
+        "word": "李明德20天瘦了12斤",
+        "onboard_time": 1730560404,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270271,
+        "num": 270271,
+        "word": "睡觉时最伤脊椎的睡姿",
+        "onboard_time": 1730546839,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248993,
+        "num": 268294,
+        "word": "EXO经纪人发文",
+        "onboard_time": 1730553261,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216314,
+        "num": 267885,
+        "word": "虞书欣工作室",
+        "onboard_time": 1730555660,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136455,
+        "num": 264642,
+        "word": "美国女子带两娃跳下60米高瀑布",
+        "onboard_time": 1730561003,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476420,
+        "num": 263838,
+        "word": "Rita好美",
+        "onboard_time": 1730560344,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 262178,
+        "num": 262178,
+        "word": "女子超市做切眼袋手术致左眼失明",
+        "onboard_time": 1730548938,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251931,
+        "num": 251931,
+        "word": "应届生称不喜欢部队生活退伍被惩戒",
+        "onboard_time": 1730543719,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225743,
+        "num": 225743,
+        "word": "S14总决赛",
+        "onboard_time": 1730555901,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216151,
+        "num": 216151,
+        "word": "没有伤害任何人",
+        "onboard_time": 1730559680,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208560,
+        "num": 208560,
+        "word": "导游误把乙二醇当锅底游客吃中毒",
+        "onboard_time": 1730546598,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207877,
+        "num": 207877,
+        "word": "孩子整理父亲遗物发现30多万现金",
+        "onboard_time": 1730554521,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207719,
+        "num": 207719,
+        "word": "Bin再比三比零手势",
+        "onboard_time": 1730557100,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207482,
+        "num": 207482,
+        "word": "拒服兵役不仅可耻更违法",
+        "onboard_time": 1730558420,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207437,
+        "num": 207437,
+        "word": "虞书欣很会选剧本",
+        "onboard_time": 1730547258,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196622,
+        "num": 196622,
+        "word": "张艺兴 破防是我今晚的命题",
+        "onboard_time": 1730560344,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186920,
+        "num": 186920,
+        "word": "付航说刘宇宁必成影帝",
+        "onboard_time": 1730559080,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168786,
+        "num": 168786,
+        "word": "留几手 爱无能",
+        "onboard_time": 1730558659,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167988,
+        "num": 167988,
+        "word": "永夜星河 亲情刀",
+        "onboard_time": 1730545098,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166950,
+        "num": 166950,
+        "word": "一男子入住酒店发现摄像头",
+        "onboard_time": 1730554220,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158464,
+        "num": 158464,
+        "word": "魅女 怨女",
+        "onboard_time": 1730549539,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 154842,
+        "word": "如果周雨彤去现在就出发",
+        "onboard_time": 1730557520,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151002,
+        "num": 151002,
+        "word": "私人影院肢体接触明码标价",
+        "onboard_time": 1730540598,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149667,
+        "num": 149667,
+        "word": "交警 第一次感觉红灯这么长",
+        "onboard_time": 1730557461,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148360,
+        "num": 148360,
+        "word": "范丞丞演技",
+        "onboard_time": 1730555541,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这篇文章透露了改革的几个重要信号#"
+    }
+  }
+}
