@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730543951419,
+  "endTime": 1730546269985,
   "band_list": [
     {
       "raw_hot": 2993448,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1683432,
+      "num": 1683432,
+      "word": "应届生称不喜欢部队生活退伍被惩戒",
+      "onboard_time": 1730543719,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1586762,
       "num": 650586,
       "word": "张雨绮男友自曝年入九位数",
@@ -91,6 +99,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 986995,
+      "num": 289417,
+      "word": "赵露思晒泳照",
+      "onboard_time": 1730541318,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 971711,
       "num": 1150895,
       "word": "花学新课件 田嘉瑞请客烧烤",
@@ -121,14 +137,6 @@
       "onboard_time": 1730504657,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 929108,
-      "num": 261837,
-      "word": "赵露思晒泳照",
-      "onboard_time": 1730541318,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 910242,
@@ -259,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 631679,
+      "num": 272612,
+      "word": "赵露思奚梦瑶是怎么认识的",
+      "onboard_time": 1730545758,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 625477,
       "num": 616970,
       "word": "不敢想她这一辈子会有多精彩",
@@ -281,6 +297,14 @@
       "onboard_time": 1730460318,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 589672,
+      "num": 589672,
+      "word": "永夜星河",
+      "onboard_time": 1730467099,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 572276,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365129,
+      "num": 365129,
+      "word": "张峻豪官宣费加罗盛典",
+      "onboard_time": 1730543118,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "武大博士一人拿下24万元奖学金",
@@ -553,6 +585,14 @@
       "onboard_time": 1730531598,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 345312,
+      "num": 345312,
+      "word": "丁禹兮跳yesok",
+      "onboard_time": 1730544799,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 344215,
@@ -635,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294809,
+      "num": 294809,
+      "word": "代号鸢",
+      "onboard_time": 1730544078,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294615,
       "num": 294615,
       "word": "税务师考试",
@@ -651,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291615,
-      "num": 291615,
-      "word": "永夜星河",
-      "onboard_time": 1730467099,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291435,
       "num": 321780,
       "word": "三只羊嘴哥复播",
@@ -673,6 +713,14 @@
       "onboard_time": 1730532858,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288722,
+      "num": 230314,
+      "word": "男子为结婚花10万为女友前夫做法事",
+      "onboard_time": 1730542278,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287136,
@@ -711,6 +759,14 @@
       "num": 277362,
       "word": "会跳yes ok的来了",
       "onboard_time": 1730459359,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273488,
+      "num": 273488,
+      "word": "永夜星河 亲情刀",
+      "onboard_time": 1730545098,
       "rank": 13,
       "category": "剧集"
     },
@@ -795,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253551,
-      "num": 230314,
-      "word": "男子为结婚花10万为女友前夫做法事",
-      "onboard_time": 1730542278,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251238,
       "num": 118427,
       "word": "印度教牧师自称会飞当众展示时摔亡",
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238801,
+      "num": 238801,
+      "word": "医生提醒死亡游戏严重者会危及生命",
+      "onboard_time": 1730545398,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
@@ -849,6 +905,14 @@
       "onboard_time": 1730523439,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225072,
+      "num": 225072,
+      "word": "蒲熠星画了名学第100季的logo",
+      "onboard_time": 1730542218,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 222901,
@@ -947,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202939,
-      "num": 202939,
-      "word": "张峻豪官宣费加罗盛典",
-      "onboard_time": 1730543118,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200913,
       "num": 200913,
       "word": "事业单位联考",
@@ -1027,20 +1083,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184501,
+      "num": 184501,
+      "word": "李行亮说麦琳的笑容是奖励",
+      "onboard_time": 1730545578,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184266,
       "num": 184266,
       "word": "锦绣安宁大结局全员HE",
       "onboard_time": 1730527339,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182202,
-      "num": 188647,
-      "word": "蒲熠星画了名学第100季的logo",
-      "onboard_time": 1730542218,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 181877,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1730523077,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173612,
+      "num": 173612,
+      "word": "南京玄武湖惊现野猪横渡",
+      "onboard_time": 1730541798,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173579,
@@ -1211,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160189,
+      "num": 160189,
+      "word": "赵丽颖电影三连击均实现盈利",
+      "onboard_time": 1730545519,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160038,
       "num": 160038,
       "word": "2025澳门男子及女子世界杯",
@@ -1225,6 +1297,22 @@
       "onboard_time": 1730540058,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158611,
+      "num": 158611,
+      "word": "谁说这火影老了这火影太棒了",
+      "onboard_time": 1730545639,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 157335,
+      "num": 157335,
+      "word": "肥而不溺的萨摩耶",
+      "onboard_time": 1730544078,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 156509,
@@ -1675,6 +1763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114937,
+      "num": 114937,
+      "word": "代号鸢新密探",
+      "onboard_time": 1730544078,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 114708,
+      "num": 244297,
+      "word": "大冰回应帮麦子阿姨向南走",
+      "onboard_time": 1730542518,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114601,
       "num": 114601,
       "word": "明起强冷空气将驱散雾霾",
@@ -1737,6 +1841,14 @@
       "onboard_time": 1730531358,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110976,
+      "num": 110976,
+      "word": "杭州通报男子理发消费2万多元",
+      "onboard_time": 1730545938,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110973,
@@ -1819,14 +1931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106509,
-      "num": 194514,
-      "word": "应届生称不喜欢部队生活退伍被惩戒",
-      "onboard_time": 1730543719,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106420,
       "num": 106420,
       "word": "小小的我东京电影节首映",
@@ -1841,14 +1945,6 @@
       "onboard_time": 1730505738,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104995,
-      "num": 244297,
-      "word": "大冰回应帮麦子阿姨向南走",
-      "onboard_time": 1730542518,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 104787,
@@ -2008,6 +2104,14 @@
       "word": "K7034列车部分旅客可全额退票",
       "onboard_time": 1730521038,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92636,
+      "num": 289508,
+      "word": "K7034列车脱轨线路近10年3次脱轨",
+      "onboard_time": 1730545458,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2171,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65678,
+      "num": 186222,
+      "word": "Uzi说今晚偷奖杯",
+      "onboard_time": 1730545578,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63506,
       "num": 259553,
       "word": "女子在广西白龙洞潜水溺亡亲属发声",
@@ -2267,6 +2379,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 44508,
+      "num": 132821,
+      "word": "特朗普或再次提前宣布胜选",
+      "onboard_time": 1730545277,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42832,
       "num": 234168,
       "word": "姐姐为弟追凶26年索赔1000余万",
@@ -2288,6 +2408,14 @@
       "word": "神十八航天员要出差回来了",
       "onboard_time": 1730520138,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40265,
+      "num": 111391,
+      "word": "河南校园500米内不准卖高盐高糖食品",
+      "onboard_time": 1730544678,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2475,14 +2603,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 23121,
-      "num": 160103,
-      "word": "南京玄武湖惊现野猪横渡",
-      "onboard_time": 1730541798,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22823,
       "num": 25023,
       "word": "清澈的爱只为中国",
@@ -2601,6 +2721,14 @@
       "onboard_time": 1730515997,
       "rank": 19,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 10523,
+      "num": 224114,
+      "word": "全智贤谈演员的恐惧",
+      "onboard_time": 1730546180,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 10416,

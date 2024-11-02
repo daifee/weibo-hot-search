@@ -1,0 +1,410 @@
+{
+  "runTime": 1730546269985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1683432,
+        "num": 1683432,
+        "word": "应届生称不喜欢部队生活退伍被惩戒",
+        "onboard_time": 1730543719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236190,
+        "num": 1236190,
+        "word": "私人影院肢体接触明码标价",
+        "onboard_time": 1730540598,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14234,
+        "num": 633155,
+        "word": "中国空间站的钥匙就是接力棒",
+        "onboard_time": 1730536038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589672,
+        "num": 589672,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386020,
+        "num": 386020,
+        "word": "哈尔滨冰雪大世界扩至100万平米",
+        "onboard_time": 1730538977,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365129,
+        "num": 365129,
+        "word": "张峻豪官宣费加罗盛典",
+        "onboard_time": 1730543118,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358580,
+        "num": 358580,
+        "word": "三只羊已全额缴纳罚款",
+        "onboard_time": 1730534717,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 345312,
+        "num": 345312,
+        "word": "丁禹兮跳yesok",
+        "onboard_time": 1730544799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294809,
+        "num": 294809,
+        "word": "代号鸢",
+        "onboard_time": 1730544078,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92636,
+        "num": 289508,
+        "word": "K7034列车脱轨线路近10年3次脱轨",
+        "onboard_time": 1730545458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986995,
+        "num": 289417,
+        "word": "赵露思晒泳照",
+        "onboard_time": 1730541318,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639686,
+        "num": 288876,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288112,
+        "num": 288112,
+        "word": "婚姻里一定要有私房钱",
+        "onboard_time": 1730538619,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273488,
+        "num": 273488,
+        "word": "永夜星河 亲情刀",
+        "onboard_time": 1730545098,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272639,
+        "num": 272639,
+        "word": "一学生实名举报重庆某高校",
+        "onboard_time": 1730536398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631679,
+        "num": 272612,
+        "word": "赵露思奚梦瑶是怎么认识的",
+        "onboard_time": 1730545758,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270999,
+        "num": 270999,
+        "word": "如果BLG夺冠",
+        "onboard_time": 1730540478,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238801,
+        "num": 238801,
+        "word": "医生提醒死亡游戏严重者会危及生命",
+        "onboard_time": 1730545398,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225072,
+        "num": 225072,
+        "word": "蒲熠星画了名学第100季的logo",
+        "onboard_time": 1730542218,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10523,
+        "num": 224114,
+        "word": "全智贤谈演员的恐惧",
+        "onboard_time": 1730546180,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1362559,
+        "num": 221080,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681606,
+        "num": 219127,
+        "word": "张雨绮男友自曝年入九位数",
+        "onboard_time": 1730533577,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343368,
+        "num": 218253,
+        "word": "买刮刮乐中百万2小伙已恢复工作",
+        "onboard_time": 1730538438,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288722,
+        "num": 215771,
+        "word": "男子为结婚花10万为女友前夫做法事",
+        "onboard_time": 1730542278,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247921,
+        "num": 213240,
+        "word": "13岁女孩遭性侵还被引诱卖淫",
+        "onboard_time": 1730526616,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211953,
+        "num": 211953,
+        "word": "燕子京 死嘴你快哄啊",
+        "onboard_time": 1730541738,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206647,
+        "num": 206647,
+        "word": "美国大选",
+        "onboard_time": 1730522477,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190227,
+        "num": 190227,
+        "word": "婚后发现丈夫婚前确诊艾滋病能撤婚吗",
+        "onboard_time": 1730538018,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65678,
+        "num": 186222,
+        "word": "Uzi说今晚偷奖杯",
+        "onboard_time": 1730545578,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184501,
+        "num": 184501,
+        "word": "李行亮说麦琳的笑容是奖励",
+        "onboard_time": 1730545578,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173612,
+        "num": 173612,
+        "word": "南京玄武湖惊现野猪横渡",
+        "onboard_time": 1730541798,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166958,
+        "num": 166958,
+        "word": "上海住房公积金新政实施",
+        "onboard_time": 1730536877,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 162208,
+        "word": "杨子承认不够尊重黄圣依",
+        "onboard_time": 1730536877,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160189,
+        "num": 160189,
+        "word": "赵丽颖电影三连击均实现盈利",
+        "onboard_time": 1730545519,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158611,
+        "num": 158611,
+        "word": "谁说这火影老了这火影太棒了",
+        "onboard_time": 1730545639,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157335,
+        "num": 157335,
+        "word": "肥而不溺的萨摩耶",
+        "onboard_time": 1730544078,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135839,
+        "num": 135839,
+        "word": "付航忘加何老师微信好友",
+        "onboard_time": 1730539819,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44508,
+        "num": 132821,
+        "word": "特朗普或再次提前宣布胜选",
+        "onboard_time": 1730545277,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132544,
+        "num": 132544,
+        "word": "BABYMONSTER首批中输",
+        "onboard_time": 1730543658,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132323,
+        "num": 132323,
+        "word": "三只羊嘴哥复播",
+        "onboard_time": 1730539277,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 127595,
+        "num": 127595,
+        "word": "妇女可以依法查询配偶财产状况",
+        "onboard_time": 1730535260,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120904,
+        "num": 120904,
+        "word": "永夜星河 卡剧情",
+        "onboard_time": 1730525598,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114968,
+        "num": 114968,
+        "word": "肖战版射雕首次改编襄阳保卫战",
+        "onboard_time": 1730538379,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116917,
+        "num": 114960,
+        "word": "虞书欣 扛剧",
+        "onboard_time": 1730525837,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114937,
+        "num": 114937,
+        "word": "代号鸢新密探",
+        "onboard_time": 1730544078,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114708,
+        "num": 114708,
+        "word": "大冰回应帮麦子阿姨向南走",
+        "onboard_time": 1730542518,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40265,
+        "num": 111391,
+        "word": "河南校园500米内不准卖高盐高糖食品",
+        "onboard_time": 1730544678,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110976,
+        "num": 110976,
+        "word": "杭州通报男子理发消费2万多元",
+        "onboard_time": 1730545938,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107418,
+        "num": 107418,
+        "word": "边牧走丢后自己去派出所报警",
+        "onboard_time": 1730537658,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105674,
+        "num": 105674,
+        "word": "波音把厕所皂液器80倍价格卖美军",
+        "onboard_time": 1730541678,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对岑浩辉获中央政府任命表示祝贺#"
+    }
+  }
+}
