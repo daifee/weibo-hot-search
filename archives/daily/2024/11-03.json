@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730583308570,
+  "endTime": 1730586075377,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -875,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24539,
+      "num": 41808,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730557341,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22694,
       "num": 72154,
       "word": "野猪致害省份达26个",
@@ -888,14 +896,6 @@
       "word": "珠帘玉幕宣传",
       "onboard_time": 1730555720,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22462,
-      "num": 41808,
-      "word": "珠帘玉幕",
-      "onboard_time": 1730557341,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -921,6 +921,22 @@
       "onboard_time": 1730570835,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18525,
+      "num": 42291,
+      "word": "广西南宁一房屋倒塌已致3人遇难",
+      "onboard_time": 1730584271,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18155,
+      "num": 31213,
+      "word": "空中分队5架直升机迎接神十八回家",
+      "onboard_time": 1730582951,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17521,
@@ -971,12 +987,12 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 12184,
-      "num": 25389,
-      "word": "空中分队5架直升机迎接神十八回家",
-      "onboard_time": 1730582951,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 12753,
+      "num": 40338,
+      "word": "北京发布大风蓝色预警",
+      "onboard_time": 1730586014,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11938,
