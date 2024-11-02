@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730568954054,
+  "endTime": 1730572060118,
   "band_list": [
     {
       "raw_hot": 4171230,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1861647,
+      "num": 1861647,
+      "word": "BLG和T1决胜局",
+      "onboard_time": 1730568981,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1087761,
       "num": 1087761,
       "word": "BLG赛点",
@@ -40,6 +48,14 @@
       "word": "Faker切屏",
       "onboard_time": 1730562441,
       "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1048221,
+      "num": 1048221,
+      "word": "Faker太猛了",
+      "onboard_time": 1730568736,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -139,6 +155,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 372190,
+      "num": 372190,
+      "word": "Faker状态",
+      "onboard_time": 1730566580,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 371601,
+      "num": 371601,
+      "word": "管泽元 求闭嘴",
+      "onboard_time": 1730568077,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 365816,
       "num": 365816,
       "word": "郑钦文总决赛首秀落败",
@@ -155,6 +187,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361285,
+      "num": 361285,
+      "word": "On失误",
+      "onboard_time": 1730571135,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 357194,
+      "num": 357194,
+      "word": "绝境李相赫",
+      "onboard_time": 1730569042,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 335498,
+      "num": 335498,
+      "word": "乔任梁",
+      "onboard_time": 1730567118,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
@@ -163,19 +219,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323614,
+      "num": 323614,
+      "word": "为BLG做法",
+      "onboard_time": 1730566163,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317679,
       "num": 238385,
       "word": "金靖生子",
       "onboard_time": 1730533758,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 306529,
-      "num": 306529,
-      "word": "乔任梁",
-      "onboard_time": 1730567118,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -195,20 +251,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 276995,
+      "num": 276995,
+      "word": "Faker世界赛500杀",
+      "onboard_time": 1730569161,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 269109,
       "num": 269109,
       "word": "被拐34年男子认亲一年后与家人决裂",
       "onboard_time": 1730546359,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267743,
-      "num": 267743,
-      "word": "为BLG做法",
-      "onboard_time": 1730566163,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 265168,
@@ -241,14 +297,6 @@
       "onboard_time": 1730547318,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221877,
-      "num": 221877,
-      "word": "Faker状态",
-      "onboard_time": 1730566580,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 219648,
@@ -284,7 +332,7 @@
     },
     {
       "raw_hot": 204391,
-      "num": 204391,
+      "num": 335651,
       "word": "虞书欣很会选剧本",
       "onboard_time": 1730547258,
       "rank": 31,
@@ -363,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159417,
+      "num": 159417,
+      "word": "英雄联盟",
+      "onboard_time": 1730571854,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "长期穿鲨鱼裤易增加真菌感染风险",
@@ -396,7 +452,7 @@
     },
     {
       "raw_hot": 145756,
-      "num": 145756,
+      "num": 159527,
       "word": "虞书欣工作室",
       "onboard_time": 1730555660,
       "rank": 41,
@@ -427,22 +483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133006,
-      "num": 133006,
-      "word": "Faker太猛了",
-      "onboard_time": 1730568736,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 130387,
-      "num": 130387,
-      "word": "管泽元 求闭嘴",
-      "onboard_time": 1730568077,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130093,
       "num": 130093,
       "word": "应届生称不喜欢部队生活退伍被惩戒",
@@ -467,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120011,
+      "num": 120011,
+      "word": "战歌起",
+      "onboard_time": 1730570115,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115018,
       "num": 115018,
       "word": "林肯公园ban了吗",
       "onboard_time": 1730564000,
       "rank": 47,
       "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 113407,
+      "num": 113407,
+      "word": "S14总决赛",
+      "onboard_time": 1730555901,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 113165,
@@ -496,6 +552,14 @@
       "word": "加里奥",
       "onboard_time": 1730564839,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105338,
+      "num": 262481,
+      "word": "BLG稳住",
+      "onboard_time": 1730568435,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -523,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93886,
+      "num": 93886,
+      "word": "BLG 自ban蝎子",
+      "onboard_time": 1730571014,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88980,
       "num": 114830,
       "word": "山东兰陵铁矿事故已致3人死亡",
@@ -537,6 +609,14 @@
       "onboard_time": 1730548459,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83599,
+      "num": 83599,
+      "word": "成都持械伤人事件不存在克扣工资问题",
+      "onboard_time": 1730569578,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82395,
@@ -563,12 +643,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51858,
-      "num": 262481,
-      "word": "BLG稳住",
-      "onboard_time": 1730568435,
-      "rank": 14,
-      "category": "电竞"
+      "raw_hot": 56244,
+      "num": 56244,
+      "word": "永夜星河 亲情刀",
+      "onboard_time": 1730545098,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51654,
+      "num": 51654,
+      "word": "张雨绮男友回应",
+      "onboard_time": 1730572034,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 45081,
@@ -601,6 +689,14 @@
       "onboard_time": 1730567776,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18812,
+      "num": 371707,
+      "word": "那些让人一眼惊艳的博物馆文案",
+      "onboard_time": 1730570835,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
