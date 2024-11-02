@@ -1,0 +1,410 @@
+{
+  "runTime": 1730532043362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2495206,
+        "num": 2495206,
+        "word": "死亡三秒流行校园严重可窒息致死",
+        "onboard_time": 1730528237,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655983,
+        "num": 655983,
+        "word": "芒果将拍再见朋友",
+        "onboard_time": 1730525777,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11208,
+        "num": 643019,
+        "word": "神十八航天员要出差回来了",
+        "onboard_time": 1730520138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636965,
+        "num": 636965,
+        "word": "虞书欣 扛剧",
+        "onboard_time": 1730525837,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460706,
+        "num": 460706,
+        "word": "美国大选",
+        "onboard_time": 1730522477,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 454467,
+        "num": 454467,
+        "word": "为弟追凶案父亲至死未获母亲原谅",
+        "onboard_time": 1730527998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370158,
+        "num": 370158,
+        "word": "芬兰总统三连感谢中国免签",
+        "onboard_time": 1730523798,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 369149,
+        "num": 369149,
+        "word": "再见朋友 提名",
+        "onboard_time": 1730529857,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305148,
+        "num": 305148,
+        "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
+        "onboard_time": 1730523678,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180738,
+        "num": 283950,
+        "word": "赛力斯回应昆明问界M9事故",
+        "onboard_time": 1730529437,
+        "rank": 9,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 728345,
+        "num": 282960,
+        "word": "张九南婚礼",
+        "onboard_time": 1730527217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281777,
+        "num": 281777,
+        "word": "黄圣依有个人账户但是没有存款",
+        "onboard_time": 1730518457,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275241,
+        "num": 275241,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274290,
+        "num": 274290,
+        "word": "Hybe不希望Jennie获得成功",
+        "onboard_time": 1730525177,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14811,
+        "num": 250597,
+        "word": "野猪肇事近期发生多起",
+        "onboard_time": 1730531837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236562,
+        "num": 236562,
+        "word": "宋茜侯明昊素颜",
+        "onboard_time": 1730527037,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233165,
+        "num": 233165,
+        "word": "麦琳 双11晚会带货",
+        "onboard_time": 1730528657,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220776,
+        "num": 220776,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199427,
+        "num": 199427,
+        "word": "Faker谈和Knight交手",
+        "onboard_time": 1730530158,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24748,
+        "num": 199172,
+        "word": "黄圣依杨子谁的商业价值更高",
+        "onboard_time": 1730531118,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696708,
+        "num": 196296,
+        "word": "13岁女孩遭性侵还被引诱卖淫",
+        "onboard_time": 1730526616,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472992,
+        "num": 194859,
+        "word": "湖南一女子被拘禁5年遭强奸产女",
+        "onboard_time": 1730518637,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325427,
+        "num": 193979,
+        "word": "杨子 财产",
+        "onboard_time": 1730514617,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201232,
+        "num": 190976,
+        "word": "小小的我全球首映口碑",
+        "onboard_time": 1730531598,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190711,
+        "num": 190711,
+        "word": "校方回应年薪50万送住房招老师",
+        "onboard_time": 1730517438,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 187148,
+        "word": "郑钦文高情商回应合照C位",
+        "onboard_time": 1730526198,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186885,
+        "num": 186885,
+        "word": "花学新课件 田嘉瑞请客烧烤",
+        "onboard_time": 1730514857,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181524,
+        "num": 181524,
+        "word": "三只羊部分主播隐MCN标识复播",
+        "onboard_time": 1730530098,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172850,
+        "num": 172850,
+        "word": "别让死亡三秒毒游戏害了孩子",
+        "onboard_time": 1730531057,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19828,
+        "num": 162253,
+        "word": "加沙地带陷入严重水危机",
+        "onboard_time": 1730531716,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162223,
+        "num": 162223,
+        "word": "第五人格",
+        "onboard_time": 1730531598,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159853,
+        "num": 159853,
+        "word": "这届美国大选有多少戏",
+        "onboard_time": 1730526497,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158877,
+        "num": 158877,
+        "word": "陈奕迅现场吃林俊杰周杰伦的醋",
+        "onboard_time": 1730528417,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148643,
+        "num": 148643,
+        "word": "杨超越回忆创造101感觉很痛苦",
+        "onboard_time": 1730528176,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146445,
+        "num": 146445,
+        "word": "成毅 茶百道",
+        "onboard_time": 1730529857,
+        "rank": 34,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 145689,
+        "num": 145689,
+        "word": "国家反诈中心教你识别电信诈骗",
+        "onboard_time": 1730529738,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143964,
+        "num": 143964,
+        "word": "陈都灵扮相",
+        "onboard_time": 1730531417,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 129891,
+        "word": "李宁卫衣",
+        "onboard_time": 1730517317,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 136907,
+        "num": 129317,
+        "word": "大梦归离倍速这是正常了",
+        "onboard_time": 1730528357,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126904,
+        "num": 126904,
+        "word": "肖战庄达菲版射雕创新之处",
+        "onboard_time": 1730522177,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124147,
+        "num": 124147,
+        "word": "寻亲走红的郁豹豹已与家人决裂",
+        "onboard_time": 1730531057,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "名侦探学院",
+        "onboard_time": 1730531358,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99697,
+        "num": 99697,
+        "word": "珠帘玉幕纯恨vs纯爱",
+        "onboard_time": 1730529618,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96305,
+        "num": 96305,
+        "word": "钟南山谈怎么培养孙子的好奇心",
+        "onboard_time": 1730518877,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93394,
+        "num": 93394,
+        "word": "为了一个冰箱贴打卡一座城",
+        "onboard_time": 1730523798,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92237,
+        "num": 92237,
+        "word": "为什么现在的大学生越来越晚熟",
+        "onboard_time": 1730529738,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90827,
+        "num": 90827,
+        "word": "小水 现在没有人追我",
+        "onboard_time": 1730532017,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90761,
+        "num": 90761,
+        "word": "东京电影节",
+        "onboard_time": 1730531957,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89648,
+        "num": 89648,
+        "word": "锦绣安宁大结局全员HE",
+        "onboard_time": 1730527339,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66818,
+        "num": 89432,
+        "word": "樊振东解说足球",
+        "onboard_time": 1730519959,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见澳门特区候任行政长官#"
+    }
+  }
+}

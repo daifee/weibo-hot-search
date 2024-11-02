@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730529839945,
+  "endTime": 1730532043362,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2057082,
-      "num": 2057082,
+      "raw_hot": 2495206,
+      "num": 2495206,
       "word": "死亡三秒流行校园严重可窒息致死",
       "onboard_time": 1730528237,
       "rank": 1,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 875086,
-      "num": 240515,
+      "num": 282960,
       "word": "张九南婚礼",
       "onboard_time": 1730527217,
       "rank": 10,
@@ -177,6 +177,14 @@
       "onboard_time": 1730513358,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655983,
+      "num": 655983,
+      "word": "芒果将拍再见朋友",
+      "onboard_time": 1730525777,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 649476,
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498059,
-      "num": 498059,
-      "word": "芒果将拍再见朋友",
-      "onboard_time": 1730525777,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 493302,
       "num": 493302,
       "word": "张泉灵 再见爱人4受害者",
@@ -297,6 +297,14 @@
       "onboard_time": 1730515039,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 454467,
+      "num": 454467,
+      "word": "为弟追凶案父亲至死未获母亲原谅",
+      "onboard_time": 1730527998,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444531,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369149,
+      "num": 369149,
+      "word": "再见朋友 提名",
+      "onboard_time": 1730529857,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "武大博士一人拿下24万元奖学金",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 291815,
-      "num": 233384,
+      "num": 236562,
       "word": "宋茜侯明昊素颜",
       "onboard_time": 1730527037,
       "rank": 22,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 272475,
-      "num": 212722,
+      "num": 233165,
       "word": "麦琳 双11晚会带货",
       "onboard_time": 1730528657,
       "rank": 32,
@@ -611,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212411,
-      "num": 244465,
-      "word": "为弟追凶案父亲至死未获母亲原谅",
-      "onboard_time": 1730527998,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211653,
       "num": 193961,
       "word": "湖人硬上布朗尼",
@@ -659,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201232,
+      "num": 190976,
+      "word": "小小的我全球首映口碑",
+      "onboard_time": 1730531598,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200913,
       "num": 200913,
       "word": "事业单位联考",
       "onboard_time": 1730523198,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199427,
+      "num": 199427,
+      "word": "Faker谈和Knight交手",
+      "onboard_time": 1730530158,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 199271,
@@ -723,6 +747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181524,
+      "num": 181524,
+      "word": "三只羊部分主播隐MCN标识复播",
+      "onboard_time": 1730530098,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180738,
+      "num": 283950,
+      "word": "赛力斯回应昆明问界M9事故",
+      "onboard_time": 1730529437,
+      "rank": 36,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 180465,
       "num": 180465,
       "word": "大梦归离倍速这是正常了",
@@ -753,6 +793,14 @@
       "onboard_time": 1730523077,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172850,
+      "num": 172850,
+      "word": "别让死亡三秒毒游戏害了孩子",
+      "onboard_time": 1730531057,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172816,
@@ -801,6 +849,14 @@
       "onboard_time": 1730473699,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162223,
+      "num": 162223,
+      "word": "第五人格",
+      "onboard_time": 1730531598,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 161474,
@@ -875,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146445,
+      "num": 146445,
+      "word": "成毅 茶百道",
+      "onboard_time": 1730529857,
+      "rank": 34,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 145972,
       "num": 145972,
       "word": "脱轨事故亲历者称振动后听到一声巨响",
@@ -891,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145689,
+      "num": 145689,
+      "word": "国家反诈中心教你识别电信诈骗",
+      "onboard_time": 1730529738,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145548,
       "num": 145548,
       "word": "云合",
@@ -905,6 +977,14 @@
       "onboard_time": 1730523617,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143964,
+      "num": 143964,
+      "word": "陈都灵扮相",
+      "onboard_time": 1730531417,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141376,
@@ -976,14 +1056,6 @@
       "word": "男子接FaceTime电话被骗15万",
       "onboard_time": 1730507177,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130722,
-      "num": 130722,
-      "word": "国家反诈中心教你识别电信诈骗",
-      "onboard_time": 1730529738,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1067,12 +1139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123669,
-      "num": 123669,
-      "word": "赛力斯回应昆明问界M9事故",
-      "onboard_time": 1730529437,
-      "rank": 36,
-      "category": "社会新闻,汽车"
+      "raw_hot": 124147,
+      "num": 124147,
+      "word": "寻亲走红的郁豹豹已与家人决裂",
+      "onboard_time": 1730531057,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120699,
@@ -1339,6 +1411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100586,
+      "num": 100586,
+      "word": "名侦探学院",
+      "onboard_time": 1730531358,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100142,
       "num": 105342,
       "word": "全国手工穿戴甲70%以上来自江苏",
@@ -1425,6 +1505,30 @@
       "onboard_time": 1730521038,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92237,
+      "num": 166930,
+      "word": "为什么现在的大学生越来越晚熟",
+      "onboard_time": 1730529738,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90827,
+      "num": 90827,
+      "word": "小水 现在没有人追我",
+      "onboard_time": 1730532017,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90761,
+      "num": 90761,
+      "word": "东京电影节",
+      "onboard_time": 1730531957,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 90438,
@@ -1691,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37880,
-      "num": 166930,
-      "word": "为什么现在的大学生越来越晚熟",
-      "onboard_time": 1730529738,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37872,
       "num": 37872,
       "word": "姐姐追凶结束后想让弟弟跟爸爸合葬",
@@ -1771,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24748,
+      "num": 199172,
+      "word": "黄圣依杨子谁的商业价值更高",
+      "onboard_time": 1730531118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24538,
       "num": 235457,
       "word": "双11大量广告短信伪装成验证码",
@@ -1801,6 +1905,14 @@
       "onboard_time": 1730525598,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19828,
+      "num": 162253,
+      "word": "加沙地带陷入严重水危机",
+      "onboard_time": 1730531716,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 19635,
@@ -1856,6 +1968,14 @@
       "word": "今日北京继续大雾黄色预警",
       "onboard_time": 1730499912,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14811,
+      "num": 250597,
+      "word": "野猪肇事近期发生多起",
+      "onboard_time": 1730531837,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
