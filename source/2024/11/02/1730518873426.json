@@ -1,0 +1,410 @@
+{
+  "runTime": 1730518873426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202526,
+        "num": 1202526,
+        "word": "杨子 财产",
+        "onboard_time": 1730514617,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555593,
+        "num": 555593,
+        "word": "外籍友人跳河救人获见义勇为奖励",
+        "onboard_time": 1730500813,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 5470,
+        "num": 537702,
+        "word": "南极考察将首次开展越冬考察任务",
+        "onboard_time": 1730464639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971711,
+        "num": 537194,
+        "word": "花学新课件 田嘉瑞请客烧烤",
+        "onboard_time": 1730514857,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536528,
+        "num": 536528,
+        "word": "雷军辟谣偷喝过员工酸奶",
+        "onboard_time": 1730504657,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 518726,
+        "num": 518726,
+        "word": "特朗普和哈里斯决战摇摆州",
+        "onboard_time": 1730513416,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 491897,
+        "num": 491897,
+        "word": "药水哥分享3年爆改历程",
+        "onboard_time": 1730515039,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 454978,
+        "num": 454978,
+        "word": "青雾风鸣官宣白鹿",
+        "onboard_time": 1730513358,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326771,
+        "num": 326771,
+        "word": "校方回应年薪50万送住房招老师",
+        "onboard_time": 1730517438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135213,
+        "num": 326408,
+        "word": "K7034列车脱轨事故亲历者发声",
+        "onboard_time": 1730517438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082676,
+        "num": 326082,
+        "word": "K7034列车发生脱轨事故",
+        "onboard_time": 1730504295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653346,
+        "num": 325530,
+        "word": "李宁卫衣",
+        "onboard_time": 1730517317,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 613124,
+        "num": 324812,
+        "word": "谁可以告诉黄圣依这件事情",
+        "onboard_time": 1730504715,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341998,
+        "num": 324088,
+        "word": "你好星期六全员变装",
+        "onboard_time": 1730516837,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324072,
+        "num": 324072,
+        "word": "不敢想她这一辈子会有多精彩",
+        "onboard_time": 1730510957,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278965,
+        "num": 278965,
+        "word": "胡夏 隐藏款",
+        "onboard_time": 1730515878,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278796,
+        "num": 278796,
+        "word": "河南女性职工每月可享2天痛经假",
+        "onboard_time": 1730509878,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229251,
+        "num": 229251,
+        "word": "祝绪丹演技",
+        "onboard_time": 1730511257,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227193,
+        "num": 227193,
+        "word": "加沙的水可能变成武器",
+        "onboard_time": 1730511498,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24298,
+        "num": 220640,
+        "word": "律师谈丝芭传媒与鞠婧祎纠纷",
+        "onboard_time": 1730518037,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242527,
+        "num": 219900,
+        "word": "婴儿嗜睡父母怀疑被喂安眠药",
+        "onboard_time": 1730506216,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214485,
+        "num": 214485,
+        "word": "大专生还没毕业就拿到了高薪和编制",
+        "onboard_time": 1730500813,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205818,
+        "num": 205818,
+        "word": "山姆多款冷冻预制菜品解冻后销售",
+        "onboard_time": 1730475320,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176538,
+        "num": 176538,
+        "word": "29岁网红谎称18岁立悲惨人设圈粉",
+        "onboard_time": 1730474480,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311608,
+        "num": 174723,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1730507898,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172816,
+        "num": 172816,
+        "word": "留几手杨子麦琳",
+        "onboard_time": 1730515338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171190,
+        "num": 171190,
+        "word": "美国请求中国出借月壤",
+        "onboard_time": 1730474240,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166402,
+        "num": 166402,
+        "word": "刘晓庆曾给刘涛演丫鬟",
+        "onboard_time": 1730507238,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162154,
+        "num": 162154,
+        "word": "黄圣依有个人账户但是没有存款",
+        "onboard_time": 1730518457,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131625,
+        "num": 131625,
+        "word": "侯明昊演技",
+        "onboard_time": 1730518098,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167602,
+        "num": 131546,
+        "word": "湖南一女子被拘禁5年遭强奸产女",
+        "onboard_time": 1730518637,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121173,
+        "num": 121173,
+        "word": "脱轨事故亲历者称振动后听到一声巨响",
+        "onboard_time": 1730517198,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120135,
+        "num": 120135,
+        "word": "郑钦文回应巡回赛没朋友",
+        "onboard_time": 1730516056,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119414,
+        "num": 119414,
+        "word": "hybe称边伯贤参考田柾国",
+        "onboard_time": 1730514557,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "湖人打成表演赛",
+        "onboard_time": 1730515997,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117631,
+        "num": 117631,
+        "word": "德国总统就德军二战暴行向希腊道歉",
+        "onboard_time": 1730515157,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115808,
+        "num": 115808,
+        "word": "永夜星河",
+        "onboard_time": 1730467099,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114601,
+        "num": 114601,
+        "word": "明起强冷空气将驱散雾霾",
+        "onboard_time": 1730516958,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112089,
+        "num": 112089,
+        "word": "杀父骗保男子系家中独子很受宠",
+        "onboard_time": 1730509878,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109161,
+        "num": 109161,
+        "word": "云合",
+        "onboard_time": 1730514857,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106420,
+        "num": 106420,
+        "word": "小小的我东京电影节首映",
+        "onboard_time": 1730518098,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105507,
+        "num": 105507,
+        "word": "hybe说朴成训变丑了",
+        "onboard_time": 1730507717,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72253,
+        "num": 105342,
+        "word": "全国手工穿戴甲70%以上来自江苏",
+        "onboard_time": 1730517138,
+        "rank": 42,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 105233,
+        "num": 105233,
+        "word": "高雅cp售后",
+        "onboard_time": 1730507238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99007,
+        "num": 99007,
+        "word": "睡觉时越睡越美的姿势找到了",
+        "onboard_time": 1730472680,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89400,
+        "num": 89400,
+        "word": "26岁女子确诊渐冻症前后判若两人",
+        "onboard_time": 1730468481,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88876,
+        "num": 88876,
+        "word": "为点流量吃猪食无底限的吃相好难看",
+        "onboard_time": 1730513297,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83034,
+        "num": 83034,
+        "word": "虞书欣永夜星河用的是同期声",
+        "onboard_time": 1730506457,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82534,
+        "num": 82534,
+        "word": "杨洋新造型梦回于途",
+        "onboard_time": 1730508497,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81944,
+        "num": 81944,
+        "word": "郑钦文去看C罗比赛了",
+        "onboard_time": 1730512038,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斯洛伐克总理#"
+    }
+  }
+}

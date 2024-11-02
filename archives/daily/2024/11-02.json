@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730518011630,
+  "endTime": 1730518873426,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -35,11 +35,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1128021,
-      "num": 1180483,
+      "raw_hot": 1202526,
+      "num": 1202526,
       "word": "杨子 财产",
       "onboard_time": 1730514617,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 971711,
+      "num": 663580,
+      "word": "花学新课件 田嘉瑞请客烧烤",
+      "onboard_time": 1730514857,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1730504657,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 914339,
-      "num": 663580,
-      "word": "花学新课件 田嘉瑞请客烧烤",
-      "onboard_time": 1730514857,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 882350,
@@ -97,6 +97,14 @@
       "onboard_time": 1730513358,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 653346,
+      "num": 325530,
+      "word": "李宁卫衣",
+      "onboard_time": 1730517317,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 625477,
@@ -171,8 +179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 452462,
-      "num": 278923,
+      "raw_hot": 491897,
+      "num": 491897,
       "word": "药水哥分享3年爆改历程",
       "onboard_time": 1730515039,
       "rank": 23,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341998,
+      "num": 324433,
+      "word": "你好星期六全员变装",
+      "onboard_time": 1730516837,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335701,
       "num": 335701,
       "word": "村民带女子去未开发水域潜水溺亡",
@@ -259,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324433,
-      "num": 324433,
-      "word": "你好星期六全员变装",
-      "onboard_time": 1730516837,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 326771,
+      "num": 326771,
+      "word": "校方回应年薪50万送住房招老师",
+      "onboard_time": 1730517438,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312621,
@@ -297,6 +313,14 @@
       "onboard_time": 1730472680,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278965,
+      "num": 278965,
+      "word": "胡夏 隐藏款",
+      "onboard_time": 1730515878,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 277362,
@@ -403,14 +427,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 211293,
-      "num": 211293,
-      "word": "胡夏 隐藏款",
-      "onboard_time": 1730515878,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205655,
       "num": 205655,
       "word": "杀父骗保男子系家中独子很受宠",
@@ -425,14 +441,6 @@
       "onboard_time": 1730503395,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205413,
-      "num": 205413,
-      "word": "李宁卫衣",
-      "onboard_time": 1730517317,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 199271,
@@ -467,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172816,
+      "num": 172816,
+      "word": "留几手杨子麦琳",
+      "onboard_time": 1730515338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171539,
       "num": 171539,
       "word": "虞书欣永夜星河用的是同期声",
@@ -475,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169823,
-      "num": 169823,
-      "word": "留几手杨子麦琳",
-      "onboard_time": 1730515338,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 167602,
+      "num": 131546,
+      "word": "湖南一女子被拘禁5年遭强奸产女",
+      "onboard_time": 1730518637,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162850,
@@ -489,6 +505,14 @@
       "onboard_time": 1730473699,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162154,
+      "num": 162154,
+      "word": "黄圣依有个人账户但是没有存款",
+      "onboard_time": 1730518457,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 161474,
@@ -505,14 +529,6 @@
       "onboard_time": 1730478857,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160457,
-      "num": 160457,
-      "word": "校方回应年薪50万送住房招老师",
-      "onboard_time": 1730517438,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154971,
@@ -603,12 +619,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 135213,
+      "num": 326408,
+      "word": "K7034列车脱轨事故亲历者发声",
+      "onboard_time": 1730517438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
       "onboard_time": 1730507177,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131625,
+      "num": 131625,
+      "word": "侯明昊演技",
+      "onboard_time": 1730518098,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 129776,
@@ -675,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121173,
+      "num": 121173,
+      "word": "脱轨事故亲历者称振动后听到一声巨响",
+      "onboard_time": 1730517198,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120699,
       "num": 120699,
       "word": "闵塔鲨用心",
@@ -720,6 +760,14 @@
       "word": "姐姐追凶26年开庭前抱父亲遗像痛哭",
       "onboard_time": 1730502134,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114601,
+      "num": 114601,
+      "word": "明起强冷空气将驱散雾霾",
+      "onboard_time": 1730516958,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -787,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106420,
+      "num": 106420,
+      "word": "小小的我东京电影节首映",
+      "onboard_time": 1730518098,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105958,
       "num": 105958,
       "word": "神十八航天员要下班了",
@@ -827,16 +883,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100262,
-      "num": 100262,
-      "word": "脱轨事故亲历者称振动后听到一声巨响",
-      "onboard_time": 1730517198,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100142,
-      "num": 100142,
+      "num": 105342,
       "word": "全国手工穿戴甲70%以上来自江苏",
       "onboard_time": 1730517138,
       "rank": 40,
@@ -857,14 +905,6 @@
       "onboard_time": 1730470339,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96751,
-      "num": 96751,
-      "word": "明起强冷空气将驱散雾霾",
-      "onboard_time": 1730516958,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96035,
@@ -897,14 +937,6 @@
       "onboard_time": 1730473699,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92865,
-      "num": 280757,
-      "word": "K7034列车脱轨事故亲历者发声",
-      "onboard_time": 1730517438,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90631,
@@ -1176,6 +1208,14 @@
       "word": "TF四代2025台历",
       "onboard_time": 1730486353,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24298,
+      "num": 220640,
+      "word": "律师谈丝芭传媒与鞠婧祎纠纷",
+      "onboard_time": 1730518037,
+      "rank": 19,
       "category": "艺人"
     },
     {
