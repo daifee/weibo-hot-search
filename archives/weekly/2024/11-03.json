@@ -1,10 +1,10 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730565838973,
+  "endTime": 1730567915835,
   "band_list": [
     {
-      "raw_hot": 3797061,
-      "num": 3797061,
+      "raw_hot": 4171230,
+      "num": 4171230,
       "word": "BLG对战T1",
       "onboard_time": 1730555238,
       "rank": 0,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 727836,
-      "num": 241663,
+      "num": 266189,
       "word": "覃海洋成绩被取消",
       "onboard_time": 1730549179,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 717310,
+      "num": 717310,
+      "word": "医生提醒别把鲨鱼裤当秋裤穿",
+      "onboard_time": 1730564181,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 664493,
@@ -59,12 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 537987,
-      "num": 537987,
+      "raw_hot": 587108,
+      "num": 587108,
       "word": "正午阳光 切不动了",
       "onboard_time": 1730563223,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552182,
+      "num": 530776,
+      "word": "成功95花的背后",
+      "onboard_time": 1730564420,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 517682,
@@ -73,6 +89,14 @@
       "onboard_time": 1730559680,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495840,
+      "num": 495840,
+      "word": "BLG赛点",
+      "onboard_time": 1730565983,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 492086,
@@ -107,12 +131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 390866,
-      "num": 390866,
-      "word": "成功95花的背后",
-      "onboard_time": 1730564420,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 381746,
+      "num": 381746,
+      "word": "BLG教练",
+      "onboard_time": 1730563522,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 362779,
@@ -147,12 +171,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289569,
+      "num": 454800,
+      "word": "On机器人",
+      "onboard_time": 1730564301,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 269109,
       "num": 269109,
       "word": "被拐34年男子认亲一年后与家人决裂",
       "onboard_time": 1730546359,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267743,
+      "num": 267743,
+      "word": "为BLG做法",
+      "onboard_time": 1730566163,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 265168,
+      "num": 265168,
+      "word": "TES",
+      "onboard_time": 1730563882,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 257922,
@@ -163,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248101,
+      "num": 288161,
+      "word": "郑钦文总决赛首秀落败",
+      "onboard_time": 1730565920,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233906,
       "num": 233906,
       "word": "拾荒老人去看病竟掏出一代身份证",
       "onboard_time": 1730547318,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227586,
-      "num": 507621,
-      "word": "医生提醒别把鲨鱼裤当秋裤穿",
-      "onboard_time": 1730564181,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 219648,
@@ -187,11 +235,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215426,
-      "num": 215426,
-      "word": "BLG教练",
-      "onboard_time": 1730563522,
-      "rank": 26,
+      "raw_hot": 213351,
+      "num": 213351,
+      "word": "全华班",
+      "onboard_time": 1730562019,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -331,11 +379,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142513,
-      "num": 142513,
-      "word": "TES",
-      "onboard_time": 1730563882,
-      "rank": 42,
+      "raw_hot": 145304,
+      "num": 353085,
+      "word": "BLG C过送过没懦过",
+      "onboard_time": 1730565498,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 140256,
+      "num": 140256,
+      "word": "Faker状态",
+      "onboard_time": 1730566580,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 133513,
+      "num": 133513,
+      "word": "xun 起床",
+      "onboard_time": 1730566580,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -369,6 +433,14 @@
       "onboard_time": 1730564000,
       "rank": 47,
       "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 113338,
+      "num": 291822,
+      "word": "Faker出门忘买装备",
+      "onboard_time": 1730567296,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 113165,
@@ -411,6 +483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88980,
+      "num": 114830,
+      "word": "山东兰陵铁矿事故已致3人死亡",
+      "onboard_time": 1730565858,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88259,
+      "num": 144643,
+      "word": "三把27分钟",
+      "onboard_time": 1730565983,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87567,
       "num": 87567,
       "word": "小巷人家",
@@ -419,19 +507,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83635,
+      "num": 399492,
+      "word": "私人影院低价吸引顾客到店嫖娼",
+      "onboard_time": 1730566223,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82395,
+      "num": 82395,
+      "word": "李佳航为BLG加油",
+      "onboard_time": 1730562441,
+      "rank": 49,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
       "onboard_time": 1730563643,
       "rank": 24,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 51836,
-      "num": 454800,
-      "word": "On机器人",
-      "onboard_time": 1730564301,
-      "rank": 13,
       "category": "电竞"
     },
     {
@@ -443,11 +539,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24230,
-      "num": 353085,
-      "word": "BLG C过送过没懦过",
-      "onboard_time": 1730565498,
-      "rank": 14,
+      "raw_hot": 19812,
+      "num": 267041,
+      "word": "军训宙斯",
+      "onboard_time": 1730567776,
+      "rank": 19,
       "category": "电竞"
     }
   ],

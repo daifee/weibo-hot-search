@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730565838973,
+  "endTime": 1730567915835,
   "band_list": [
     {
       "raw_hot": 7849827,
@@ -691,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 717310,
+      "num": 717310,
+      "word": "医生提醒别把鲨鱼裤当秋裤穿",
+      "onboard_time": 1730564181,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 717010,
       "num": 434349,
       "word": "黑寡妇召集复联支持哈里斯",
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587108,
+      "num": 587108,
+      "word": "正午阳光 切不动了",
+      "onboard_time": 1730563223,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584274,
       "num": 437237,
       "word": "美邦老板直言找贾乃亮带货效果一般",
@@ -1067,6 +1083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 552182,
+      "num": 530776,
+      "word": "成功95花的背后",
+      "onboard_time": 1730564420,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547504,
       "num": 547504,
       "word": "弟弟出事后我再也没得到父母的爱",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1730473098,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 537987,
-      "num": 537987,
-      "word": "正午阳光 切不动了",
-      "onboard_time": 1730563223,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 536562,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1730507898,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495840,
+      "num": 495840,
+      "word": "BLG赛点",
+      "onboard_time": 1730565983,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 492955,
@@ -1579,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390866,
-      "num": 390866,
-      "word": "成功95花的背后",
-      "onboard_time": 1730564420,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389485,
       "num": 389485,
       "word": "张泉灵说李行亮和麦麦是想过下去的",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1730441780,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 381746,
+      "num": 381746,
+      "word": "BLG教练",
+      "onboard_time": 1730563522,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 380335,
@@ -2035,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289569,
+      "num": 454800,
+      "word": "On机器人",
+      "onboard_time": 1730564301,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288722,
       "num": 230314,
       "word": "男子为结婚花10万为女友前夫做法事",
@@ -2227,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267743,
+      "num": 267743,
+      "word": "为BLG做法",
+      "onboard_time": 1730566163,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 267136,
       "num": 267136,
       "word": "大梦归离开分4.9",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1730385559,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265168,
+      "num": 265168,
+      "word": "TES",
+      "onboard_time": 1730563882,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 263093,
@@ -2395,6 +2443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 248101,
+      "num": 288161,
+      "word": "郑钦文总决赛首秀落败",
+      "onboard_time": 1730565920,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246753,
       "num": 246753,
       "word": "上海暴雨",
@@ -2515,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227586,
-      "num": 507621,
-      "word": "医生提醒别把鲨鱼裤当秋裤穿",
-      "onboard_time": 1730564181,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 225743,
       "num": 225743,
       "word": "S14总决赛",
@@ -2627,20 +2675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215426,
-      "num": 215426,
-      "word": "BLG教练",
-      "onboard_time": 1730563522,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 214417,
       "num": 286908,
       "word": "三只羊部分主播隐MCN标识复播",
       "onboard_time": 1730530098,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213351,
+      "num": 213351,
+      "word": "全华班",
+      "onboard_time": 1730562019,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 212885,
@@ -4131,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145304,
+      "num": 353085,
+      "word": "BLG C过送过没懦过",
+      "onboard_time": 1730565498,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144990,
       "num": 144990,
       "word": "英雄联盟",
@@ -4219,14 +4275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142513,
-      "num": 142513,
-      "word": "TES",
-      "onboard_time": 1730563882,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 142312,
       "num": 142312,
       "word": "寻亲走红的郁豹豹已与家人决裂",
@@ -4297,6 +4345,14 @@
       "onboard_time": 1730464279,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140256,
+      "num": 140256,
+      "word": "Faker状态",
+      "onboard_time": 1730566580,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 139674,
@@ -4464,6 +4520,14 @@
       "word": "S14决赛发布会",
       "onboard_time": 1730473579,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 133513,
+      "num": 133513,
+      "word": "xun 起床",
+      "onboard_time": 1730566580,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -4987,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113338,
+      "num": 291822,
+      "word": "Faker出门忘买装备",
+      "onboard_time": 1730567296,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113092,
       "num": 113092,
       "word": "迪丽热巴高定裤装look",
@@ -5435,6 +5507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88980,
+      "num": 114830,
+      "word": "山东兰陵铁矿事故已致3人死亡",
+      "onboard_time": 1730565858,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88259,
+      "num": 144643,
+      "word": "三把27分钟",
+      "onboard_time": 1730565983,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88246,
       "num": 88246,
       "word": "网红博主拍视频挑战吃猪饲料",
@@ -5537,6 +5625,22 @@
       "onboard_time": 1730505375,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83635,
+      "num": 399492,
+      "word": "私人影院低价吸引顾客到店嫖娼",
+      "onboard_time": 1730566223,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82395,
+      "num": 82395,
+      "word": "李佳航为BLG加油",
+      "onboard_time": 1730562441,
+      "rank": 49,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 82193,
@@ -5849,14 +5953,6 @@
       "onboard_time": 1730442799,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 51836,
-      "num": 454800,
-      "word": "On机器人",
-      "onboard_time": 1730564301,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 51592,
@@ -6563,14 +6659,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 24230,
-      "num": 353085,
-      "word": "BLG C过送过没懦过",
-      "onboard_time": 1730565498,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 24229,
       "num": 268305,
       "word": "戚薇能破浪也能聚浪",
@@ -6713,6 +6801,14 @@
       "onboard_time": 1730469801,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 19812,
+      "num": 267041,
+      "word": "军训宙斯",
+      "onboard_time": 1730567776,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 19635,
