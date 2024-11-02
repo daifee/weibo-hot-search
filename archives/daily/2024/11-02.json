@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730551191270,
+  "endTime": 1730552135410,
   "band_list": [
     {
       "raw_hot": 2993448,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2264958,
+      "num": 2264958,
+      "word": "覃海洋成绩被取消",
+      "onboard_time": 1730549179,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1844176,
       "num": 1844176,
       "word": "覃海洋犯规",
@@ -49,14 +57,6 @@
       "onboard_time": 1730474240,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1723407,
-      "num": 1723407,
-      "word": "覃海洋成绩被取消",
-      "onboard_time": 1730549179,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1712415,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 909479,
-      "num": 350535,
+      "num": 414325,
       "word": "乔任梁离世8年不得安息该适可而止了",
       "onboard_time": 1730539459,
       "rank": 11,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503381,
+      "num": 503381,
+      "word": "魅女 怨女",
+      "onboard_time": 1730549539,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501875,
       "num": 501875,
       "word": "鞠婧祎 丝芭",
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492564,
+      "num": 492564,
+      "word": "东京偶遇周雨彤",
+      "onboard_time": 1730548818,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 491897,
       "num": 491897,
       "word": "药水哥分享3年爆改历程",
@@ -473,14 +489,6 @@
       "onboard_time": 1730534237,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466242,
-      "num": 466242,
-      "word": "东京偶遇周雨彤",
-      "onboard_time": 1730548818,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 454467,
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374815,
-      "num": 345893,
-      "word": "魅女 怨女",
-      "onboard_time": 1730549539,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373402,
       "num": 345312,
       "word": "丁禹兮跳yesok",
@@ -683,7 +683,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319997,
+      "raw_hot": 326097,
       "num": 215355,
       "word": "睡觉时最伤脊椎的睡姿",
       "onboard_time": 1730546839,
@@ -705,6 +705,14 @@
       "onboard_time": 1730545398,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305965,
+      "num": 305965,
+      "word": "永夜星河第七集",
+      "onboard_time": 1730550258,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 304751,
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273984,
+      "num": 214668,
+      "word": "拾荒老人去看病竟掏出一代身份证",
+      "onboard_time": 1730547318,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273421,
       "num": 384827,
       "word": "联合国报告员坚持以色列犯下种族灭绝罪",
@@ -905,14 +921,6 @@
       "onboard_time": 1730507238,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262520,
-      "num": 214668,
-      "word": "拾荒老人去看病竟掏出一代身份证",
-      "onboard_time": 1730547318,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260373,
@@ -985,14 +993,6 @@
       "onboard_time": 1730523439,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 226625,
-      "num": 226625,
-      "word": "永夜星河第七集",
-      "onboard_time": 1730550258,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 225072,
@@ -1075,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210827,
+      "num": 169486,
+      "word": "国乒包揽马斯喀特站五冠",
+      "onboard_time": 1730550859,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208926,
       "num": 208926,
       "word": "南京玄武湖惊现野猪横渡",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1730514557,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196330,
+      "num": 447613,
+      "word": "中印边境士兵开始协同巡逻",
+      "onboard_time": 1730551399,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195495,
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 184092,
-      "num": 184092,
+      "num": 417142,
       "word": "特朗普或再次提前宣布胜选",
       "onboard_time": 1730545277,
       "rank": 37,
@@ -1339,12 +1355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171902,
+      "num": 169565,
+      "word": "令人心动的offer 清北大战留子",
+      "onboard_time": 1730550619,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171539,
       "num": 171539,
       "word": "虞书欣永夜星河用的是同期声",
       "onboard_time": 1730506457,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169896,
+      "num": 192059,
+      "word": "拾荒老人去看病医院操作暖心了",
+      "onboard_time": 1730549779,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169889,
@@ -1355,12 +1387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169565,
-      "num": 169565,
-      "word": "令人心动的offer 清北大战留子",
-      "onboard_time": 1730550619,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 166579,
+      "num": 303145,
+      "word": "小巷人家会成为下一部电子榨菜吗",
+      "onboard_time": 1730549839,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 166436,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1730531957,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164353,
+      "num": 169681,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164306,
@@ -1491,6 +1531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 155334,
+      "num": 155334,
+      "word": "原来凌妙妙还在酒店上过班呢",
+      "onboard_time": 1730550138,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155088,
       "num": 155088,
       "word": "张晚意付航i人相处演我",
@@ -1523,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151521,
-      "num": 151521,
-      "word": "原来凌妙妙还在酒店上过班呢",
-      "onboard_time": 1730550138,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "各地文旅花式欢迎麦子奶奶",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1730506997,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 150130,
-      "num": 150130,
-      "word": "国乒包揽马斯喀特站五冠",
-      "onboard_time": 1730550859,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 149800,
@@ -1601,14 +1633,6 @@
       "onboard_time": 1730529738,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145560,
-      "num": 145560,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 144990,
@@ -1827,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130104,
+      "num": 130104,
+      "word": "珠帘玉幕就这个逆袭爽文味",
+      "onboard_time": 1730551999,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129776,
       "num": 129776,
       "word": "付航不喜欢香蕉的原因找到了",
@@ -2008,6 +2040,14 @@
       "word": "明起强冷空气将驱散雾霾",
       "onboard_time": 1730516958,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114303,
+      "num": 319760,
+      "word": "野猪再秀泳技这次是在玄武湖",
+      "onboard_time": 1730550978,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2355,14 +2395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86808,
-      "num": 192059,
-      "word": "拾荒老人去看病医院操作暖心了",
-      "onboard_time": 1730549779,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86322,
       "num": 120701,
       "word": "北斗七行包场秦海璐新电影",
@@ -2419,14 +2451,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 81635,
-      "num": 319760,
-      "word": "野猪再秀泳技这次是在玄武湖",
-      "onboard_time": 1730550978,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79630,
       "num": 79630,
       "word": "猛蛇过江回应被指是凶手",
@@ -2467,14 +2491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77060,
-      "num": 303145,
-      "word": "小巷人家会成为下一部电子榨菜吗",
-      "onboard_time": 1730549839,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76131,
       "num": 220940,
       "word": "好团圆婆婆霸占儿媳买的婚房",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1730480116,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63515,
+      "num": 220768,
+      "word": "女生买鞋被店家索要试鞋费",
+      "onboard_time": 1730551041,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63506,
@@ -2611,14 +2635,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 43444,
-      "num": 220768,
-      "word": "女生买鞋被店家索要试鞋费",
-      "onboard_time": 1730551041,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42832,
       "num": 234168,
       "word": "姐姐为弟追凶26年索赔1000余万",
@@ -2639,6 +2655,14 @@
       "num": 844256,
       "word": "神十八航天员要出差回来了",
       "onboard_time": 1730520138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41541,
+      "num": 1114697,
+      "word": "公安部网安局揭开帮信罪真面目",
+      "onboard_time": 1730539159,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2672,14 +2696,6 @@
       "word": "河南文旅寻找麦子奶奶",
       "onboard_time": 1730524338,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38148,
-      "num": 1114697,
-      "word": "公安部网安局揭开帮信罪真面目",
-      "onboard_time": 1730539159,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2745,6 +2761,14 @@
       "onboard_time": 1730485453,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30783,
+      "num": 198649,
+      "word": "家务也有劳动价值不应被忽略",
+      "onboard_time": 1730550619,
+      "rank": 29,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 29879,
@@ -2865,14 +2889,6 @@
       "onboard_time": 1730531118,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21604,
-      "num": 198649,
-      "word": "家务也有劳动价值不应被忽略",
-      "onboard_time": 1730550619,
-      "rank": 29,
-      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 21383,

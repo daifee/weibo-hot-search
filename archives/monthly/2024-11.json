@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730551191270,
+  "endTime": 1730552135410,
   "band_list": [
     {
       "raw_hot": 3766184,
@@ -57,6 +57,14 @@
       "onboard_time": 1730528237,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2264958,
+      "num": 2264958,
+      "word": "覃海洋成绩被取消",
+      "onboard_time": 1730549179,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2178945,
@@ -121,14 +129,6 @@
       "onboard_time": 1730428457,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1723407,
-      "num": 1723407,
-      "word": "覃海洋成绩被取消",
-      "onboard_time": 1730549179,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1712415,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 909479,
-      "num": 350535,
+      "num": 414325,
       "word": "乔任梁离世8年不得安息该适可而止了",
       "onboard_time": 1730539459,
       "rank": 11,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503381,
+      "num": 503381,
+      "word": "魅女 怨女",
+      "onboard_time": 1730549539,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502613,
       "num": 897935,
       "word": "台风",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1730522177,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492564,
+      "num": 492564,
+      "word": "东京偶遇周雨彤",
+      "onboard_time": 1730548818,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 491897,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1730450658,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 466242,
-      "num": 466242,
-      "word": "东京偶遇周雨彤",
-      "onboard_time": 1730548818,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 466131,
@@ -1411,14 +1419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 374815,
-      "num": 345893,
-      "word": "魅女 怨女",
-      "onboard_time": 1730549539,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373402,
       "num": 345312,
       "word": "丁禹兮跳yesok",
@@ -1587,20 +1587,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326097,
+      "num": 215355,
+      "word": "睡觉时最伤脊椎的睡姿",
+      "onboard_time": 1730546839,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 323951,
       "num": 323951,
       "word": "S15决赛落地成都",
       "onboard_time": 1730470820,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 319997,
-      "num": 215355,
-      "word": "睡觉时最伤脊椎的睡姿",
-      "onboard_time": 1730546839,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 314058,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1730545398,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305965,
+      "num": 305965,
+      "word": "永夜星河第七集",
+      "onboard_time": 1730550258,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 304751,
@@ -1811,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273984,
+      "num": 214668,
+      "word": "拾荒老人去看病竟掏出一代身份证",
+      "onboard_time": 1730547318,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273451,
       "num": 175922,
       "word": "女子一听要坐牢赶紧转18万养老钱",
@@ -1937,14 +1953,6 @@
       "onboard_time": 1730507238,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262520,
-      "num": 214668,
-      "word": "拾荒老人去看病竟掏出一代身份证",
-      "onboard_time": 1730547318,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260373,
@@ -2155,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226625,
-      "num": 226625,
-      "word": "永夜星河第七集",
-      "onboard_time": 1730550258,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225072,
       "num": 225072,
       "word": "蒲熠星画了名学第100季的logo",
@@ -2281,6 +2281,14 @@
       "onboard_time": 1730432419,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210827,
+      "num": 169486,
+      "word": "国乒包揽马斯喀特站五冠",
+      "onboard_time": 1730550859,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 209882,
@@ -2483,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196330,
+      "num": 447613,
+      "word": "中印边境士兵开始协同巡逻",
+      "onboard_time": 1730551399,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195495,
       "num": 183875,
       "word": "周洁琼新剧亲爸变后爸",
@@ -2676,7 +2692,7 @@
     },
     {
       "raw_hot": 184092,
-      "num": 184092,
+      "num": 417142,
       "word": "特朗普或再次提前宣布胜选",
       "onboard_time": 1730545277,
       "rank": 37,
@@ -2931,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171902,
+      "num": 169565,
+      "word": "令人心动的offer 清北大战留子",
+      "onboard_time": 1730550619,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171539,
       "num": 171539,
       "word": "虞书欣永夜星河用的是同期声",
@@ -2963,20 +2987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169896,
+      "num": 192059,
+      "word": "拾荒老人去看病医院操作暖心了",
+      "onboard_time": 1730549779,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169889,
       "num": 296240,
       "word": "民办学院学生入优才计划系填错学校",
       "onboard_time": 1730518877,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169565,
-      "num": 169565,
-      "word": "令人心动的offer 清北大战留子",
-      "onboard_time": 1730550619,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 169422,
@@ -3027,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166579,
+      "num": 303145,
+      "word": "小巷人家会成为下一部电子榨菜吗",
+      "onboard_time": 1730549839,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166436,
       "num": 166436,
       "word": "陈奕迅现场吃林俊杰周杰伦的醋",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1730469801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164353,
+      "num": 169681,
+      "word": "虞书欣很会选剧本",
+      "onboard_time": 1730547258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164306,
@@ -3307,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155334,
+      "num": 155334,
+      "word": "原来凌妙妙还在酒店上过班呢",
+      "onboard_time": 1730550138,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155263,
       "num": 155263,
       "word": "判决书写错刑期时间承办人记大过",
@@ -3403,14 +3451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151521,
-      "num": 151521,
-      "word": "原来凌妙妙还在酒店上过班呢",
-      "onboard_time": 1730550138,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "各地文旅花式欢迎麦子奶奶",
@@ -3433,14 +3473,6 @@
       "onboard_time": 1730506997,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 150130,
-      "num": 150130,
-      "word": "国乒包揽马斯喀特站五冠",
-      "onboard_time": 1730550859,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 149800,
@@ -3537,14 +3569,6 @@
       "onboard_time": 1730529738,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145560,
-      "num": 145560,
-      "word": "虞书欣很会选剧本",
-      "onboard_time": 1730547258,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 144990,
@@ -3963,6 +3987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130104,
+      "num": 130104,
+      "word": "珠帘玉幕就这个逆袭爽文味",
+      "onboard_time": 1730551999,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129776,
       "num": 129776,
       "word": "付航不喜欢香蕉的原因找到了",
@@ -4328,6 +4360,14 @@
       "word": "太空衣橱还是太全面了",
       "onboard_time": 1730444959,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114303,
+      "num": 319760,
+      "word": "野猪再秀泳技这次是在玄武湖",
+      "onboard_time": 1730550978,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -4787,14 +4827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86808,
-      "num": 192059,
-      "word": "拾荒老人去看病医院操作暖心了",
-      "onboard_time": 1730549779,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86322,
       "num": 120701,
       "word": "北斗七行包场秦海璐新电影",
@@ -4875,14 +4907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81635,
-      "num": 319760,
-      "word": "野猪再秀泳技这次是在玄武湖",
-      "onboard_time": 1730550978,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80288,
       "num": 80288,
       "word": "校方回应小学生被老师打成面瘫",
@@ -4937,14 +4961,6 @@
       "onboard_time": 1730414054,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77060,
-      "num": 303145,
-      "word": "小巷人家会成为下一部电子榨菜吗",
-      "onboard_time": 1730549839,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 76131,
@@ -5057,6 +5073,14 @@
       "onboard_time": 1730389279,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63515,
+      "num": 220768,
+      "word": "女生买鞋被店家索要试鞋费",
+      "onboard_time": 1730551041,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63506,
@@ -5347,14 +5371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 43444,
-      "num": 220768,
-      "word": "女生买鞋被店家索要试鞋费",
-      "onboard_time": 1730551041,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42832,
       "num": 234168,
       "word": "姐姐为弟追凶26年索赔1000余万",
@@ -5392,6 +5408,14 @@
       "word": "允许外国自然人对上市公司战略投资",
       "onboard_time": 1730470459,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41541,
+      "num": 1114697,
+      "word": "公安部网安局揭开帮信罪真面目",
+      "onboard_time": 1730539159,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5481,14 +5505,6 @@
       "onboard_time": 1730377758,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38148,
-      "num": 1114697,
-      "word": "公安部网安局揭开帮信罪真面目",
-      "onboard_time": 1730539159,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37872,
@@ -5665,6 +5681,14 @@
       "onboard_time": 1730452700,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30783,
+      "num": 198649,
+      "word": "家务也有劳动价值不应被忽略",
+      "onboard_time": 1730550619,
+      "rank": 29,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 30443,
@@ -5929,14 +5953,6 @@
       "onboard_time": 1730400732,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21604,
-      "num": 198649,
-      "word": "家务也有劳动价值不应被忽略",
-      "onboard_time": 1730550619,
-      "rank": 29,
-      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 21383,

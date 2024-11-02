@@ -1,0 +1,410 @@
+{
+  "runTime": 1730552135410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2264958,
+        "num": 2264958,
+        "word": "覃海洋成绩被取消",
+        "onboard_time": 1730549179,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1696521,
+        "num": 1696521,
+        "word": "覃海洋犯规",
+        "onboard_time": 1730548759,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41541,
+        "num": 1108837,
+        "word": "公安部网安局揭开帮信罪真面目",
+        "onboard_time": 1730539159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794438,
+        "num": 794438,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592485,
+        "num": 592485,
+        "word": "应届生称不喜欢部队生活退伍被惩戒",
+        "onboard_time": 1730543719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532256,
+        "num": 532256,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503381,
+        "num": 503381,
+        "word": "魅女 怨女",
+        "onboard_time": 1730549539,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492564,
+        "num": 492564,
+        "word": "东京偶遇周雨彤",
+        "onboard_time": 1730548818,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196330,
+        "num": 447613,
+        "word": "中印边境士兵开始协同巡逻",
+        "onboard_time": 1730551399,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158490,
+        "num": 417142,
+        "word": "特朗普或再次提前宣布胜选",
+        "onboard_time": 1730545277,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 529948,
+        "num": 414325,
+        "word": "乔任梁离世8年不得安息该适可而止了",
+        "onboard_time": 1730539459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406492,
+        "num": 406492,
+        "word": "买刮刮乐中百万2小伙已恢复工作",
+        "onboard_time": 1730538438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342431,
+        "num": 342431,
+        "word": "赵露思晒泳照",
+        "onboard_time": 1730541318,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305965,
+        "num": 305965,
+        "word": "永夜星河第七集",
+        "onboard_time": 1730550258,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274425,
+        "num": 274425,
+        "word": "医生提醒死亡游戏严重者会危及生命",
+        "onboard_time": 1730545398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195270,
+        "num": 195270,
+        "word": "小巷人家",
+        "onboard_time": 1730548459,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172268,
+        "num": 172268,
+        "word": "永夜星河 亲情刀",
+        "onboard_time": 1730545098,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278075,
+        "num": 172246,
+        "word": "张大大晒与赵露思华晨宇合照",
+        "onboard_time": 1730542518,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169896,
+        "num": 169896,
+        "word": "拾荒老人去看病医院操作暖心了",
+        "onboard_time": 1730549779,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63515,
+        "num": 169885,
+        "word": "女生买鞋被店家索要试鞋费",
+        "onboard_time": 1730551041,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891517,
+        "num": 169853,
+        "word": "金靖生子",
+        "onboard_time": 1730533758,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629256,
+        "num": 169821,
+        "word": "导游误把乙二醇当锅底游客吃中毒",
+        "onboard_time": 1730546598,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542690,
+        "num": 169748,
+        "word": "私人影院肢体接触明码标价",
+        "onboard_time": 1730540598,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326097,
+        "num": 169737,
+        "word": "睡觉时最伤脊椎的睡姿",
+        "onboard_time": 1730546839,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164353,
+        "num": 169681,
+        "word": "虞书欣很会选剧本",
+        "onboard_time": 1730547258,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291046,
+        "num": 169657,
+        "word": "张雨绮男友自曝年入九位数",
+        "onboard_time": 1730533577,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273984,
+        "num": 169606,
+        "word": "拾荒老人去看病竟掏出一代身份证",
+        "onboard_time": 1730547318,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242470,
+        "num": 169571,
+        "word": "女子超市做切眼袋手术致左眼失明",
+        "onboard_time": 1730548938,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171902,
+        "num": 169549,
+        "word": "令人心动的offer 清北大战留子",
+        "onboard_time": 1730550619,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30783,
+        "num": 169513,
+        "word": "家务也有劳动价值不应被忽略",
+        "onboard_time": 1730550619,
+        "rank": 29,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 210827,
+        "num": 169486,
+        "word": "国乒包揽马斯喀特站五冠",
+        "onboard_time": 1730550859,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169452,
+        "num": 169452,
+        "word": "丁禹兮跳yesok",
+        "onboard_time": 1730544799,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166579,
+        "num": 166579,
+        "word": "小巷人家会成为下一部电子榨菜吗",
+        "onboard_time": 1730549839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156374,
+        "num": 156374,
+        "word": "K7034列车脱轨线路近10年3次脱轨",
+        "onboard_time": 1730545458,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155334,
+        "num": 155334,
+        "word": "原来凌妙妙还在酒店上过班呢",
+        "onboard_time": 1730550138,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155029,
+        "num": 155029,
+        "word": "Faker说第五冠送给粉丝",
+        "onboard_time": 1730547559,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151605,
+        "num": 151605,
+        "word": "萧敬腾林有慧捐出全部婚礼礼金",
+        "onboard_time": 1730546778,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144564,
+        "num": 144564,
+        "word": "男子为结婚花10万为女友前夫做法事",
+        "onboard_time": 1730542278,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144131,
+        "num": 144131,
+        "word": "周雨彤英文翻译演我本人",
+        "onboard_time": 1730546778,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137029,
+        "num": 137029,
+        "word": "哈尔滨冰雪大世界扩至100万平米",
+        "onboard_time": 1730538977,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136497,
+        "num": 136497,
+        "word": "记者暗访陪伴式私人影院",
+        "onboard_time": 1730546418,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130104,
+        "num": 130104,
+        "word": "珠帘玉幕就这个逆袭爽文味",
+        "onboard_time": 1730551999,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129450,
+        "num": 129450,
+        "word": "张远演唱会",
+        "onboard_time": 1730550258,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "三只羊已全额缴纳罚款",
+        "onboard_time": 1730534717,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 116511,
+        "num": 116511,
+        "word": "婚后发现丈夫婚前确诊艾滋病能撤婚吗",
+        "onboard_time": 1730538018,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116184,
+        "num": 116184,
+        "word": "Uzi说今晚偷奖杯",
+        "onboard_time": 1730545578,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114303,
+        "num": 114303,
+        "word": "野猪再秀泳技这次是在玄武湖",
+        "onboard_time": 1730550978,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111075,
+        "num": 111075,
+        "word": "张峻豪官宣费加罗盛典",
+        "onboard_time": 1730543118,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110691,
+        "num": 110691,
+        "word": "税务师法律",
+        "onboard_time": 1730546659,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110534,
+        "num": 110534,
+        "word": "李行亮说麦琳的笑容是奖励",
+        "onboard_time": 1730545578,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对岑浩辉获中央政府任命表示祝贺#"
+    }
+  }
+}
