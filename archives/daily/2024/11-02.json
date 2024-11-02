@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730524870719,
+  "endTime": 1730525927196,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1084258,
-      "num": 268466,
+      "num": 429955,
       "word": "美国大选",
       "onboard_time": 1730522477,
       "rank": 35,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1047505,
-      "num": 325530,
+      "num": 425851,
       "word": "李宁卫衣",
       "onboard_time": 1730517317,
       "rank": 19,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 959666,
-      "num": 235379,
+      "num": 249477,
       "word": "湖南一女子被拘禁5年遭强奸产女",
       "onboard_time": 1730518637,
       "rank": 30,
@@ -115,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684376,
+      "num": 684376,
+      "word": "LV 王楚钦",
+      "onboard_time": 1730525356,
+      "rank": 1,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 680003,
       "num": 519689,
       "word": "向佐回应郭碧婷是嫁给向太",
       "onboard_time": 1730468059,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676499,
+      "num": 676499,
+      "word": "老人接个电话被骗86万后狂扇耳光",
+      "onboard_time": 1730522238,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663695,
@@ -137,6 +153,14 @@
       "onboard_time": 1730518457,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 638187,
+      "num": 638187,
+      "word": "芬兰总统三连感谢中国免签",
+      "onboard_time": 1730523798,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 625477,
@@ -161,6 +185,14 @@
       "onboard_time": 1730513416,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 547504,
+      "num": 547504,
+      "word": "弟弟出事后我再也没得到父母的爱",
+      "onboard_time": 1730524698,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541733,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 492699,
-      "num": 353896,
+      "num": 420395,
       "word": "肖战庄达菲版射雕创新之处",
       "onboard_time": 1730522177,
       "rank": 24,
@@ -339,12 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296575,
-      "num": 296575,
-      "word": "芬兰总统三连感谢中国免签",
-      "onboard_time": 1730523798,
-      "rank": 7,
-      "category": "国外时政"
+      "raw_hot": 310608,
+      "num": 310608,
+      "word": "Hybe不希望Jennie获得成功",
+      "onboard_time": 1730525177,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303771,
+      "num": 241512,
+      "word": "北京套内40平的精致小家",
+      "onboard_time": 1730522358,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 294615,
@@ -467,19 +507,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237581,
-      "num": 237581,
-      "word": "老人接个电话被骗86万后狂扇耳光",
-      "onboard_time": 1730522238,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231506,
       "num": 231506,
       "word": "易烊千玺东京电影节路透",
       "onboard_time": 1730522177,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 229276,
+      "num": 229276,
+      "word": "邓超晒大饼",
+      "onboard_time": 1730523439,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -489,22 +529,6 @@
       "onboard_time": 1730437280,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218964,
-      "num": 218964,
-      "word": "北京套内40平的精致小家",
-      "onboard_time": 1730522358,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 217797,
-      "num": 217797,
-      "word": "邓超晒大饼",
-      "onboard_time": 1730523439,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 214351,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203468,
+      "num": 233978,
+      "word": "芒果将拍再见朋友",
+      "onboard_time": 1730525777,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200913,
       "num": 200913,
       "word": "事业单位联考",
@@ -579,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184950,
+      "num": 246357,
+      "word": "于正为李梦新电影宣传",
+      "onboard_time": 1730524638,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181877,
       "num": 181877,
       "word": "樊振东解说足球",
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 175517,
-      "num": 201199,
+      "num": 213174,
       "word": "张泉灵说麦琳把她搞乱了",
       "onboard_time": 1730523077,
       "rank": 28,
@@ -723,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148044,
+      "num": 232050,
+      "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
+      "onboard_time": 1730523678,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145972,
       "num": 145972,
       "word": "脱轨事故亲历者称振动后听到一声巨响",
@@ -755,20 +803,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141376,
+      "num": 196002,
+      "word": "小水否认与Jes恋情",
+      "onboard_time": 1730520918,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140707,
       "num": 140707,
       "word": "何广智 我的名声这么差吗",
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140258,
-      "num": 140258,
-      "word": "弟弟出事后我再也没得到父母的爱",
-      "onboard_time": 1730524698,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138993,
@@ -817,14 +865,6 @@
       "onboard_time": 1730517438,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134598,
-      "num": 196002,
-      "word": "小水否认与Jes恋情",
-      "onboard_time": 1730520918,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 131859,
@@ -979,6 +1019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114255,
+      "num": 114255,
+      "word": "永夜星河 卡剧情",
+      "onboard_time": 1730525598,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113376,
+      "num": 113376,
+      "word": "宋亚轩舞蹈版无法原谅",
+      "onboard_time": 1730525777,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112247,
       "num": 112247,
       "word": "为点流量吃猪食无底限的吃相好难看",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1730468179,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111005,
+      "num": 111005,
+      "word": "虞书欣 扛剧",
+      "onboard_time": 1730525837,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 110973,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1730470880,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104423,
+      "num": 104423,
+      "word": "南波万的聚会3开播",
+      "onboard_time": 1730525899,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 101875,
@@ -1299,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76937,
+      "num": 236913,
+      "word": "为了一个冰箱贴打卡一座城",
+      "onboard_time": 1730523798,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72540,
       "num": 72540,
       "word": "蒯曼3比0大藤沙月",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1730480116,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63506,
+      "num": 259553,
+      "word": "女子在广西白龙洞潜水溺亡亲属发声",
+      "onboard_time": 1730524099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61483,
@@ -1339,14 +1427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 56983,
-      "num": 232050,
-      "word": "鞠婧祎与丝芭分家后姓名商标该归谁",
-      "onboard_time": 1730523678,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56780,
       "num": 56780,
       "word": "英雄联盟S14",
@@ -1363,28 +1443,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 52748,
-      "num": 238058,
-      "word": "于正为李梦新电影宣传",
-      "onboard_time": 1730524638,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 51482,
       "num": 51482,
       "word": "赵露思回应端午品如上身",
       "onboard_time": 1730480896,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50586,
-      "num": 258296,
-      "word": "女子在广西白龙洞潜水溺亡亲属发声",
-      "onboard_time": 1730524099,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50122,
@@ -1419,16 +1483,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 42527,
-      "num": 236913,
-      "word": "为了一个冰箱贴打卡一座城",
-      "onboard_time": 1730523798,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41864,
-      "num": 665702,
+      "num": 678990,
       "word": "神十八航天员要出差回来了",
       "onboard_time": 1730520138,
       "rank": 2,
@@ -1451,12 +1507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38519,
+      "num": 434357,
+      "word": "河南文旅寻找麦子奶奶",
+      "onboard_time": 1730524338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37872,
       "num": 37872,
       "word": "姐姐追凶结束后想让弟弟跟爸爸合葬",
       "onboard_time": 1730486832,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34960,
+      "num": 210207,
+      "word": "白敬亭新疆之旅第二期幕后花絮",
+      "onboard_time": 1730525899,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 32424,
@@ -1473,14 +1545,6 @@
       "onboard_time": 1730485453,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30609,
-      "num": 269052,
-      "word": "河南文旅寻找麦子奶奶",
-      "onboard_time": 1730524338,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29164,
@@ -1531,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22371,
+      "num": 436343,
+      "word": "K7034十年前也曾发生脱轨事故",
+      "onboard_time": 1730525598,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19392,
       "num": 19392,
       "word": "张真源镜花水月vlog",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1730465418,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17924,
+      "num": 209213,
+      "word": "24小时跟着赏金猎人打野猪",
+      "onboard_time": 1730525177,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15370,
