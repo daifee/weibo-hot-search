@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730516493891,
+  "endTime": 1730518011630,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1128021,
+      "num": 1180483,
+      "word": "杨子 财产",
+      "onboard_time": 1730514617,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955472,
       "num": 955472,
       "word": "雷军辟谣偷喝过员工酸奶",
       "onboard_time": 1730504657,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 914339,
+      "num": 663580,
+      "word": "花学新课件 田嘉瑞请客烧烤",
+      "onboard_time": 1730514857,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 882350,
@@ -57,14 +73,6 @@
       "onboard_time": 1730474480,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806529,
-      "num": 806529,
-      "word": "杨子 财产",
-      "onboard_time": 1730514617,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 707320,
@@ -89,14 +97,6 @@
       "onboard_time": 1730513358,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 663580,
-      "num": 663580,
-      "word": "花学新课件 田嘉瑞请客烧烤",
-      "onboard_time": 1730514857,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 625477,
@@ -169,6 +169,14 @@
       "onboard_time": 1730473098,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452462,
+      "num": 278923,
+      "word": "药水哥分享3年爆改历程",
+      "onboard_time": 1730515039,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 444531,
@@ -249,6 +257,14 @@
       "onboard_time": 1730476038,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324433,
+      "num": 324433,
+      "word": "你好星期六全员变装",
+      "onboard_time": 1730516837,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 312621,
@@ -387,12 +403,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 206843,
-      "num": 206843,
-      "word": "药水哥分享3年爆改历程",
-      "onboard_time": 1730515039,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 211293,
+      "num": 211293,
+      "word": "胡夏 隐藏款",
+      "onboard_time": 1730515878,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 205655,
@@ -409,6 +425,14 @@
       "onboard_time": 1730503395,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205413,
+      "num": 205413,
+      "word": "李宁卫衣",
+      "onboard_time": 1730517317,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 199271,
@@ -451,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169823,
+      "num": 169823,
+      "word": "留几手杨子麦琳",
+      "onboard_time": 1730515338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162850,
       "num": 162850,
       "word": "尔滨导游一走神小金土豆就付款了",
@@ -475,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160457,
+      "num": 160457,
+      "word": "校方回应年薪50万送住房招老师",
+      "onboard_time": 1730517438,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154971,
       "num": 154971,
       "word": "珠帘玉幕",
@@ -491,12 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 149597,
-      "num": 149597,
-      "word": "留几手杨子麦琳",
-      "onboard_time": 1730515338,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "湖人打成表演赛",
+      "onboard_time": 1730515997,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 145911,
@@ -521,14 +561,6 @@
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139132,
-      "num": 139132,
-      "word": "胡夏 隐藏款",
-      "onboard_time": 1730515878,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 138993,
@@ -563,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135047,
-      "num": 135047,
-      "word": "湖人打成表演赛",
-      "onboard_time": 1730515997,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 135361,
+      "num": 526295,
+      "word": "德国总统就德军二战暴行向希腊道歉",
+      "onboard_time": 1730515157,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 131859,
@@ -585,6 +617,14 @@
       "onboard_time": 1730512938,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127923,
+      "num": 127923,
+      "word": "郑钦文回应巡回赛没朋友",
+      "onboard_time": 1730516056,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 127584,
@@ -633,14 +673,6 @@
       "onboard_time": 1730512338,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123948,
-      "num": 526295,
-      "word": "德国总统就德军二战暴行向希腊道歉",
-      "onboard_time": 1730515157,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 120699,
@@ -723,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110020,
-      "num": 110020,
-      "word": "郑钦文回应巡回赛没朋友",
-      "onboard_time": 1730516056,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107698,
       "num": 107698,
       "word": "S14决赛发布会",
@@ -803,6 +827,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100262,
+      "num": 100262,
+      "word": "脱轨事故亲历者称振动后听到一声巨响",
+      "onboard_time": 1730517198,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100142,
+      "num": 100142,
+      "word": "全国手工穿戴甲70%以上来自江苏",
+      "onboard_time": 1730517138,
+      "rank": 40,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 99564,
       "num": 99564,
       "word": "永夜星河好看",
@@ -817,6 +857,14 @@
       "onboard_time": 1730470339,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96751,
+      "num": 96751,
+      "word": "明起强冷空气将驱散雾霾",
+      "onboard_time": 1730516958,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96035,
@@ -851,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92865,
+      "num": 280757,
+      "word": "K7034列车脱轨事故亲历者发声",
+      "onboard_time": 1730517438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90631,
       "num": 90631,
       "word": "永夜星河追剧日历",
@@ -872,6 +928,14 @@
       "word": "山西一地规定女性35岁前结婚奖1500元",
       "onboard_time": 1730481674,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88246,
+      "num": 88246,
+      "word": "网红博主拍视频挑战吃猪饲料",
+      "onboard_time": 1730517557,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -929,6 +993,14 @@
       "onboard_time": 1730484433,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79138,
+      "num": 79138,
+      "word": "大梦归离",
+      "onboard_time": 1730516898,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 78645,
