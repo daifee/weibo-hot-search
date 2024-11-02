@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730557154821,
+  "endTime": 1730558251447,
   "band_list": [
     {
       "raw_hot": 2993448,
@@ -43,6 +43,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1907584,
+      "num": 1907584,
+      "word": "赵露思回复周雨彤",
+      "onboard_time": 1730554881,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1844176,
       "num": 1844176,
       "word": "覃海洋犯规",
@@ -67,14 +75,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1813703,
-      "num": 1813703,
-      "word": "赵露思回复周雨彤",
-      "onboard_time": 1730554881,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1712415,
       "num": 1712415,
       "word": "应届生称不喜欢部队生活退伍被惩戒",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1633077,
-      "num": 648965,
+      "num": 846872,
       "word": "鹿晗支持赵露思新剧",
       "onboard_time": 1730556321,
       "rank": 6,
@@ -137,6 +137,14 @@
       "onboard_time": 1730517317,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1045831,
+      "num": 1045831,
+      "word": "S14开幕式播不播",
+      "onboard_time": 1730557221,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1018072,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851526,
+      "num": 851526,
+      "word": "覃海洋回应近日争议",
+      "onboard_time": 1730556260,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 843532,
       "num": 843532,
       "word": "29岁网红谎称18岁立悲惨人设圈粉",
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813901,
+      "num": 813901,
+      "word": "永夜星河",
+      "onboard_time": 1730467099,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 788815,
       "num": 280732,
       "word": "一学生实名举报重庆某高校",
       "onboard_time": 1730536398,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707967,
-      "num": 633327,
-      "word": "永夜星河",
-      "onboard_time": 1730467099,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 707320,
@@ -371,6 +387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 635618,
+      "num": 635618,
+      "word": "珠帘玉幕宣传",
+      "onboard_time": 1730555720,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 631679,
       "num": 300726,
       "word": "赵露思奚梦瑶是怎么认识的",
@@ -385,14 +409,6 @@
       "onboard_time": 1730510957,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 622762,
-      "num": 622762,
-      "word": "珠帘玉幕宣传",
-      "onboard_time": 1730555720,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 620966,
@@ -491,20 +507,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 523235,
+      "num": 523235,
+      "word": "樊振东努力照顾两边的解说",
+      "onboard_time": 1730555839,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520018,
       "num": 520018,
       "word": "多个网红走红后暂时停播",
       "onboard_time": 1730469140,
       "rank": 4,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 513298,
-      "num": 513298,
-      "word": "樊振东努力照顾两边的解说",
-      "onboard_time": 1730555839,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 511760,
@@ -579,8 +595,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476781,
+      "num": 476781,
+      "word": "S14开幕式",
+      "onboard_time": 1730557880,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 472712,
-      "num": 291438,
+      "num": 294464,
       "word": "女子超市做切眼袋手术致左眼失明",
       "onboard_time": 1730548938,
       "rank": 26,
@@ -707,8 +731,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374117,
-      "num": 285053,
+      "raw_hot": 379230,
+      "num": 379230,
       "word": "拾荒老人去看病竟掏出一代身份证",
       "onboard_time": 1730547318,
       "rank": 24,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330626,
+      "num": 627372,
+      "word": "一男子入住酒店发现摄像头",
+      "onboard_time": 1730554220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326097,
       "num": 281819,
       "word": "睡觉时最伤脊椎的睡姿",
@@ -856,6 +888,14 @@
       "word": "同学被打男生要报警被老师呵斥",
       "onboard_time": 1730535018,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301332,
+      "num": 301332,
+      "word": "孩子整理父亲遗物发现30多万现金",
+      "onboard_time": 1730554521,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -995,28 +1035,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 269954,
-      "num": 269954,
-      "word": "覃海洋回应近日争议",
-      "onboard_time": 1730556260,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269790,
       "num": 269790,
       "word": "陈都灵扮相",
       "onboard_time": 1730531417,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269781,
-      "num": 257059,
-      "word": "孩子整理父亲遗物发现30多万现金",
-      "onboard_time": 1730554521,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269464,
@@ -1099,6 +1123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 248979,
+      "num": 288496,
+      "word": "虞书欣工作室",
+      "onboard_time": 1730555660,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242387,
       "num": 208539,
       "word": "26岁女子确诊渐冻症前后判若两人",
@@ -1123,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237284,
+      "num": 237284,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730470219,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
       "onboard_time": 1730526497,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 231581,
+      "num": 231581,
+      "word": "周洁琼女儿国国王造型",
+      "onboard_time": 1730557041,
+      "rank": 46,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 231506,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1730437280,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217220,
+      "num": 217220,
+      "word": "如果周雨彤去现在就出发",
+      "onboard_time": 1730557520,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 214417,
@@ -1451,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180453,
-      "num": 154600,
-      "word": "虞书欣工作室",
-      "onboard_time": 1730555660,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180207,
       "num": 532977,
       "word": "林诗栋vs温瑞博",
@@ -1699,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "孙燕姿南京商演",
+      "onboard_time": 1730557880,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159303,
       "num": 258985,
       "word": "上海海港夺得中超冠军",
@@ -1731,6 +1787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 156163,
+      "num": 156163,
+      "word": "慕声 邪恶银渐层",
+      "onboard_time": 1730555601,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155088,
       "num": 155088,
       "word": "张晚意付航i人相处演我",
@@ -1739,12 +1803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154971,
-      "num": 154971,
-      "word": "珠帘玉幕",
-      "onboard_time": 1730470219,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "高雅cp",
+      "onboard_time": 1730558180,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 153169,
@@ -1923,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139077,
-      "num": 139077,
-      "word": "周洁琼女儿国国王造型",
-      "onboard_time": 1730557041,
-      "rank": 46,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 139068,
       "num": 244297,
       "word": "大冰回应帮麦子阿姨向南走",
@@ -2051,20 +2107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131482,
-      "num": 627372,
-      "word": "一男子入住酒店发现摄像头",
-      "onboard_time": 1730554220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130874,
       "num": 262483,
       "word": "波音把厕所皂液器80倍价格卖美军",
       "onboard_time": 1730541678,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 130690,
+      "num": 247556,
+      "word": "Bin再比三比零手势",
+      "onboard_time": 1730557100,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 130611,
@@ -2243,14 +2299,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 117690,
-      "num": 117690,
-      "word": "慕声 邪恶银渐层",
-      "onboard_time": 1730555601,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117136,
       "num": 173469,
       "word": "姐姐追凶26年开庭前抱父亲遗像痛哭",
@@ -2379,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109470,
+      "num": 264114,
+      "word": "邵子恒初C实力",
+      "onboard_time": 1730556861,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108737,
       "num": 108737,
       "word": "小小的我导演说很尊敬易烊千玺",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1730519838,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106998,
+      "num": 410697,
+      "word": "苏州106岁阿婆的长寿秘诀是不内耗",
+      "onboard_time": 1730557281,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106892,
@@ -2529,6 +2593,14 @@
       "onboard_time": 1730517138,
       "rank": 40,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 100104,
+      "num": 333206,
+      "word": "吃完炒饭后出现多器官功能衰竭",
+      "onboard_time": 1730556981,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99564,
@@ -2763,14 +2835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74141,
-      "num": 247288,
-      "word": "吃完炒饭后出现多器官功能衰竭",
-      "onboard_time": 1730556981,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73288,
       "num": 95680,
       "word": "WTT法兰克福冠军赛首轮对阵",
@@ -2867,22 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49844,
-      "num": 247556,
-      "word": "Bin再比三比零手势",
-      "onboard_time": 1730557100,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 47944,
-      "num": 264114,
-      "word": "邵子恒初C实力",
-      "onboard_time": 1730556861,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47617,
       "num": 47617,
       "word": "再见爱人",
@@ -2939,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40983,
+      "num": 396636,
+      "word": "曾舜晞直播",
+      "onboard_time": 1730557941,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40265,
       "num": 111391,
       "word": "河南校园500米内不准卖高盐高糖食品",
@@ -2968,6 +3024,14 @@
       "word": "河南文旅寻找麦子奶奶",
       "onboard_time": 1730524338,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38008,
+      "num": 380842,
+      "word": "游客山顶拍照时踩空摔落倒挂峭壁",
+      "onboard_time": 1730557641,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3193,6 +3257,14 @@
       "onboard_time": 1730539699,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20480,
+      "num": 390519,
+      "word": "父母不认可的婚姻你还会继续嘛",
+      "onboard_time": 1730557701,
+      "rank": 17,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 19635,
