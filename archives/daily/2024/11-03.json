@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730589808889,
+  "endTime": 1730590643136,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -387,8 +387,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269109,
-      "num": 269109,
+      "raw_hot": 269396,
+      "num": 269396,
       "word": "被拐34年男子认亲一年后与家人决裂",
       "onboard_time": 1730546359,
       "rank": 16,
@@ -539,11 +539,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185032,
+      "num": 185032,
+      "word": "2小伙买刮刮乐中百万室友发声",
+      "onboard_time": 1730553320,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180454,
       "num": 180454,
       "word": "重庆工商大学通报学生称被恶意阻拦毕业",
       "onboard_time": 1730559801,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180215,
+      "num": 563488,
+      "word": "私人影院低价吸引顾客到店嫖娼",
+      "onboard_time": 1730566223,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -595,27 +611,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158803,
-      "num": 563488,
-      "word": "私人影院低价吸引顾客到店嫖娼",
-      "onboard_time": 1730566223,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "长期穿鲨鱼裤易增加真菌感染风险",
       "onboard_time": 1730559987,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155143,
-      "num": 155143,
-      "word": "2小伙买刮刮乐中百万室友发声",
-      "onboard_time": 1730553320,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123708,
+      "num": 159292,
+      "word": "交警怒斥家长占道接孩子",
+      "onboard_time": 1730575872,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123380,
       "num": 123380,
       "word": "Uzi说今晚偷奖杯",
@@ -747,12 +755,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97910,
-      "num": 159292,
-      "word": "交警怒斥家长占道接孩子",
-      "onboard_time": 1730575872,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 103842,
+      "num": 103842,
+      "word": "美国男子持仿真枪与警方冲突被击毙",
+      "onboard_time": 1730588114,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 97791,
@@ -769,6 +777,14 @@
       "onboard_time": 1730565737,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93433,
+      "num": 93433,
+      "word": "珠帘玉幕宣传",
+      "onboard_time": 1730555720,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 88980,
@@ -811,20 +827,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71599,
+      "num": 71599,
+      "word": "睡得晚和睡得少哪个伤害大",
+      "onboard_time": 1730579111,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69360,
       "num": 69360,
       "word": "T1维持对LPL不败金身",
       "onboard_time": 1730576592,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68349,
-      "num": 80827,
-      "word": "珠帘玉幕宣传",
-      "onboard_time": 1730555720,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 66921,
@@ -843,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60235,
-      "num": 94396,
-      "word": "美国男子持仿真枪与警方冲突被击毙",
-      "onboard_time": 1730588114,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 56244,
       "num": 56244,
       "word": "永夜星河 亲情刀",
@@ -859,12 +867,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51527,
-      "num": 51527,
-      "word": "睡得晚和睡得少哪个伤害大",
-      "onboard_time": 1730579111,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 48442,
+      "num": 48442,
+      "word": "神十八航天员完成全部既定任务",
+      "onboard_time": 1730586552,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45116,
+      "num": 48442,
+      "word": "珠帘玉幕",
+      "onboard_time": 1730557341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 45081,
@@ -873,14 +889,6 @@
       "onboard_time": 1730568136,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44787,
-      "num": 44787,
-      "word": "神十八航天员完成全部既定任务",
-      "onboard_time": 1730586552,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41653,
@@ -899,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27144,
-      "num": 41808,
-      "word": "珠帘玉幕",
-      "onboard_time": 1730557341,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 29017,
+      "num": 129733,
+      "word": "Bin 永远尊重faker",
+      "onboard_time": 1730589675,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 25760,
@@ -1003,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14210,
+      "num": 190907,
+      "word": "邮寄黄金新型诈骗从一张月饼券开始",
+      "onboard_time": 1730589615,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13957,
       "num": 68502,
       "word": "空中分队最佳状态迎接航天员回家",
@@ -1033,22 +1049,6 @@
       "onboard_time": 1730577793,
       "rank": 20,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 11376,
-      "num": 98084,
-      "word": "邮寄黄金新型诈骗从一张月饼券开始",
-      "onboard_time": 1730589615,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9617,
-      "num": 98049,
-      "word": "Bin 永远尊重faker",
-      "onboard_time": 1730589675,
-      "rank": 19,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

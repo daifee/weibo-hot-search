@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730589808889,
+  "endTime": 1730590643136,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -3523,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180215,
+      "num": 563488,
+      "word": "私人影院低价吸引顾客到店嫖娼",
+      "onboard_time": 1730566223,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180207,
       "num": 532977,
       "word": "林诗栋vs温瑞博",
@@ -4064,14 +4072,6 @@
       "word": "山姆回应冷藏菜品实为冷冻预制",
       "onboard_time": 1730468179,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158803,
-      "num": 563488,
-      "word": "私人影院低价吸引顾客到店嫖娼",
-      "onboard_time": 1730566223,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5043,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123708,
+      "num": 159292,
+      "word": "交警怒斥家长占道接孩子",
+      "onboard_time": 1730575872,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123464,
       "num": 160229,
       "word": "赵露思珠帘玉幕潜水花絮",
@@ -5539,6 +5547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 103842,
+      "num": 103842,
+      "word": "美国男子持仿真枪与警方冲突被击毙",
+      "onboard_time": 1730588114,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 103409,
       "num": 314725,
       "word": "大梦归离朱厌的命比唐僧肉还抢手",
@@ -5633,14 +5649,6 @@
       "onboard_time": 1730457499,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97910,
-      "num": 159292,
-      "word": "交警怒斥家长占道接孩子",
-      "onboard_time": 1730575872,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97896,
@@ -6035,6 +6043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71599,
+      "num": 71599,
+      "word": "睡得晚和睡得少哪个伤害大",
+      "onboard_time": 1730579111,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70535,
       "num": 70535,
       "word": "庄图南 不共情妈妈",
@@ -6163,14 +6179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60235,
-      "num": 94396,
-      "word": "美国男子持仿真枪与警方冲突被击毙",
-      "onboard_time": 1730588114,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 59866,
       "num": 287821,
       "word": "迪丽热巴的AI妆造",
@@ -6249,14 +6257,6 @@
       "onboard_time": 1730460679,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51527,
-      "num": 51527,
-      "word": "睡得晚和睡得少哪个伤害大",
-      "onboard_time": 1730579111,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 51496,
@@ -6339,6 +6339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48442,
+      "num": 48442,
+      "word": "神十八航天员完成全部既定任务",
+      "onboard_time": 1730586552,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47617,
       "num": 47617,
       "word": "再见爱人",
@@ -6393,14 +6401,6 @@
       "onboard_time": 1730568136,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44787,
-      "num": 44787,
-      "word": "神十八航天员完成全部既定任务",
-      "onboard_time": 1730586552,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44786,
@@ -6833,6 +6833,14 @@
       "onboard_time": 1730487552,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29017,
+      "num": 129733,
+      "word": "Bin 永远尊重faker",
+      "onboard_time": 1730589675,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 28584,
@@ -7355,6 +7363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14210,
+      "num": 190907,
+      "word": "邮寄黄金新型诈骗从一张月饼券开始",
+      "onboard_time": 1730589615,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14160,
       "num": 346577,
       "word": "丝芭与沈梦瑶苏杉杉多人有纠纷",
@@ -7467,14 +7483,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 11376,
-      "num": 98084,
-      "word": "邮寄黄金新型诈骗从一张月饼券开始",
-      "onboard_time": 1730589615,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10572,
       "num": 211539,
       "word": "李光洁说蒋欣是我的嘴替",
@@ -7505,14 +7513,6 @@
       "onboard_time": 1730468000,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9617,
-      "num": 98049,
-      "word": "Bin 永远尊重faker",
-      "onboard_time": 1730589675,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 8425,
