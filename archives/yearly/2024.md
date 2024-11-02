@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/03 02:27:40
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/03 02:41:04
 </p>
 </blockquote>
 <p>
@@ -963,6 +963,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23" target="weibo">
+T1夺冠（热度：10436342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%81%87%E9%9A%BE%23" target="weibo">
 伊朗总统遇难（热度：10432398）
 </a>
@@ -1805,12 +1811,6 @@ BLG对战T1（热度：7849827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%20%E8%88%92%E5%A5%95%E6%A9%99%23" target="weibo">
 金靖 舒奕橙（热度：7756641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E9%AD%94%E6%9C%AF%20%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%23" target="weibo">
-刘谦魔术 鸡皮疙瘩（热度：7755238）
 </a>
 </li>
 

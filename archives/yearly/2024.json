@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1730572060118,
+  "endTime": 1730572864165,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10436342,
+      "num": 10436342,
+      "word": "T1夺冠",
+      "onboard_time": 1720383431,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 10432398,
       "num": 11103995,
       "word": "伊朗总统遇难",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714021104,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7755238,
-      "num": 5863786,
-      "word": "刘谦魔术 鸡皮疙瘩",
-      "onboard_time": 1707485318,
-      "rank": 7,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
