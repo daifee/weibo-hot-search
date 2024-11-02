@@ -1,6 +1,6 @@
 {
   "startTime": 1730478437174,
-  "endTime": 1730521647781,
+  "endTime": 1730522497068,
   "band_list": [
     {
       "raw_hot": 2545275,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 971711,
-      "num": 781428,
+      "num": 870353,
       "word": "花学新课件 田嘉瑞请客烧烤",
       "onboard_time": 1730514857,
       "rank": 14,
@@ -75,20 +75,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 910242,
+      "num": 1145638,
+      "word": "校方回应年薪50万送住房招老师",
+      "onboard_time": 1730517438,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882350,
       "num": 882350,
       "word": "外籍友人跳河救人获见义勇为奖励",
       "onboard_time": 1730500813,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 858395,
-      "num": 1137343,
-      "word": "校方回应年薪50万送住房招老师",
-      "onboard_time": 1730517438,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 843532,
@@ -123,8 +123,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 634627,
-      "num": 634627,
+      "raw_hot": 649476,
+      "num": 649476,
       "word": "黄圣依有个人账户但是没有存款",
       "onboard_time": 1730518457,
       "rank": 28,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 388886,
-      "num": 292458,
+      "num": 296666,
       "word": "胡夏 隐藏款",
       "onboard_time": 1730515878,
       "rank": 30,
@@ -257,6 +257,14 @@
       "onboard_time": 1730511498,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 383342,
+      "num": 383342,
+      "word": "钟南山谈怎么培养孙子的好奇心",
+      "onboard_time": 1730518877,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381822,
@@ -337,6 +345,14 @@
       "onboard_time": 1730471060,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 286363,
+      "num": 286363,
+      "word": "中学最高年薪50万送住房招老师",
+      "onboard_time": 1730520138,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284579,
@@ -483,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193769,
-      "num": 193769,
-      "word": "中学最高年薪50万送住房招老师",
-      "onboard_time": 1730520138,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189783,
       "num": 189783,
       "word": "俄对谷歌罚款超全球GDP总额",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 169889,
-      "num": 169889,
+      "num": 296240,
       "word": "民办学院学生入优才计划系填错学校",
       "onboard_time": 1730518877,
       "rank": 27,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158938,
+      "num": 158938,
+      "word": "易烊千玺东京电影节路透",
+      "onboard_time": 1730522177,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154971,
       "num": 154971,
       "word": "珠帘玉幕",
@@ -593,14 +609,6 @@
       "onboard_time": 1730520377,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 153006,
-      "num": 200215,
-      "word": "钟南山谈怎么培养孙子的好奇心",
-      "onboard_time": 1730518877,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152052,
@@ -648,6 +656,14 @@
       "word": "云合",
       "onboard_time": 1730514857,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141963,
+      "num": 164789,
+      "word": "肖战庄达菲版射雕创新之处",
+      "onboard_time": 1730522177,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -721,6 +737,14 @@
       "onboard_time": 1730512938,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129254,
+      "num": 129254,
+      "word": "美国大选",
+      "onboard_time": 1730522477,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 127923,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108050,
+      "num": 108050,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730511378,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107698,
       "num": 107698,
       "word": "S14决赛发布会",
@@ -899,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107054,
+      "num": 107054,
+      "word": "原来视频也会电子氧化",
+      "onboard_time": 1730519838,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106892,
       "num": 106892,
       "word": "Bin决赛要零封T1",
@@ -921,6 +961,14 @@
       "onboard_time": 1730505738,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105205,
+      "num": 105205,
+      "word": "北京套内40平的精致小家",
+      "onboard_time": 1730522358,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 104787,
@@ -955,14 +1003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100556,
-      "num": 100556,
-      "word": "永夜星河追剧日历",
-      "onboard_time": 1730511378,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100142,
       "num": 105342,
       "word": "全国手工穿戴甲70%以上来自江苏",
@@ -977,14 +1017,6 @@
       "onboard_time": 1730477899,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98947,
-      "num": 98947,
-      "word": "原来视频也会电子氧化",
-      "onboard_time": 1730519838,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 98340,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1730509459,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95261,
+      "num": 95261,
+      "word": "晋江崩了",
+      "onboard_time": 1730521878,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 95139,
@@ -1163,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67823,
+      "num": 292583,
+      "word": "美特勤局公布特朗普遇刺调查摘要",
+      "onboard_time": 1730521999,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 61483,
       "num": 61483,
       "word": "焚城",
@@ -1235,6 +1283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46870,
+      "num": 284489,
+      "word": "黄圣依称自己最想要工作独立",
+      "onboard_time": 1730522177,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 41864,
+      "num": 665702,
+      "word": "神十八航天员要出差回来了",
+      "onboard_time": 1730520138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39608,
       "num": 402448,
       "word": "一文回顾鞠婧祎丝芭合约风波",
@@ -1256,14 +1320,6 @@
       "word": "姐姐追凶结束后想让弟弟跟爸爸合葬",
       "onboard_time": 1730486832,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36622,
-      "num": 651994,
-      "word": "神十八航天员要出差回来了",
-      "onboard_time": 1730520138,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1400,6 +1456,14 @@
       "word": "再去军博能看到问勇路路牌了",
       "onboard_time": 1730499011,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11623,
+      "num": 150969,
+      "word": "老人接个电话被骗86万后狂扇耳光",
+      "onboard_time": 1730522238,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
