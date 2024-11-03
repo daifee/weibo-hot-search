@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730643621663,
+  "endTime": 1730644705098,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1579669,
+      "num": 1579669,
+      "word": "黄磊回应好为人师爱说教",
+      "onboard_time": 1730639779,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1562280,
       "num": 631527,
       "word": "丁禹兮 毛毛姐",
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1469766,
+      "num": 1469766,
+      "word": "王楚钦肩伤成典型医疗案例",
+      "onboard_time": 1730641761,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1464046,
       "num": 1464046,
       "word": "阿富汗塔利班禁止女性在公共场合说话",
@@ -441,14 +457,6 @@
       "onboard_time": 1730637978,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1381069,
-      "num": 1381069,
-      "word": "黄磊回应好为人师爱说教",
-      "onboard_time": 1730639779,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1365668,
@@ -675,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 998854,
-      "num": 998854,
-      "word": "王楚钦肩伤成典型医疗案例",
-      "onboard_time": 1730641761,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 991451,
       "num": 991451,
       "word": "Elk神箭",
@@ -889,6 +889,14 @@
       "onboard_time": 1730556260,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 847225,
+      "num": 847225,
+      "word": "黄圣依入学中欧国际商学院EMBA",
+      "onboard_time": 1730642179,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 843532,
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676361,
+      "num": 676361,
+      "word": "王心凌发文回应",
+      "onboard_time": 1730639478,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672798,
       "num": 672798,
       "word": "BLG赛后采访",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1730513358,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 662062,
-      "num": 662062,
-      "word": "王心凌发文回应",
-      "onboard_time": 1730639478,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 661802,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1730555720,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 631960,
-      "num": 513998,
-      "word": "黄圣依入学中欧国际商学院EMBA",
-      "onboard_time": 1730642179,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 631679,
@@ -1507,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 591719,
+      "num": 591719,
+      "word": "华为Mate70",
+      "onboard_time": 1730642241,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 590542,
       "num": 590542,
       "word": "永夜星河 两个毒唯凑一对",
@@ -1667,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554134,
+      "num": 395511,
+      "word": "卢昱晓 小巷人家",
+      "onboard_time": 1730642661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 552641,
       "num": 552641,
       "word": "特朗普和哈里斯决战摇摆州",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1730555839,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 522309,
-      "num": 522309,
-      "word": "华为Mate70",
-      "onboard_time": 1730642241,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 520269,
@@ -2323,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406203,
+      "num": 536410,
+      "word": "美国大选已花费14700000000美元",
+      "onboard_time": 1730639000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406060,
       "num": 406060,
       "word": "何炅口才",
@@ -2409,14 +2425,6 @@
       "onboard_time": 1730467280,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394482,
-      "num": 536410,
-      "word": "美国大选已花费14700000000美元",
-      "onboard_time": 1730639000,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392115,
@@ -2747,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338522,
+      "num": 420710,
+      "word": "11个退货快递放门口被偷",
+      "onboard_time": 1730640741,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336584,
       "num": 336584,
       "word": "BABYMONSTER主打曲",
@@ -2761,14 +2777,6 @@
       "onboard_time": 1730476038,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334680,
-      "num": 334680,
-      "word": "卢昱晓 小巷人家",
-      "onboard_time": 1730642661,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 331265,
@@ -2961,6 +2969,14 @@
       "onboard_time": 1730411771,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294658,
+      "num": 249058,
+      "word": "林俊杰演唱会收官",
+      "onboard_time": 1730643201,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 294615,
@@ -3552,14 +3568,6 @@
       "word": "张艺兴 破防是我今晚的命题",
       "onboard_time": 1730560344,
       "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 243399,
-      "num": 243399,
-      "word": "林俊杰演唱会收官",
-      "onboard_time": 1730643201,
-      "rank": 27,
       "category": "演出"
     },
     {
@@ -4371,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197768,
+      "num": 261231,
+      "word": "闫妮 人怎么能有种成黄玲这样",
+      "onboard_time": 1730643680,
+      "rank": 19,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 197473,
       "num": 220582,
       "word": "看到孩子之间按胸口务必警惕",
@@ -4625,6 +4641,14 @@
       "onboard_time": 1730473699,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187662,
+      "num": 187662,
+      "word": "羊绒衫为啥这么贵",
+      "onboard_time": 1730644579,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 186920,
@@ -5443,8 +5467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161754,
-      "num": 161754,
+      "raw_hot": 161805,
+      "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
       "onboard_time": 1730642600,
       "rank": 40,
@@ -5665,6 +5689,14 @@
       "onboard_time": 1730457377,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157752,
+      "num": 157752,
+      "word": "金灿荣称美国是伪装成国家的公司",
+      "onboard_time": 1730639719,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 157595,
@@ -5968,14 +6000,6 @@
       "word": "台风康妮",
       "onboard_time": 1730345239,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147900,
-      "num": 420710,
-      "word": "11个退货快递放门口被偷",
-      "onboard_time": 1730640741,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -6299,6 +6323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139719,
+      "num": 139719,
+      "word": "旅韩大熊猫园欣有高血压",
+      "onboard_time": 1730642901,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139674,
       "num": 139674,
       "word": "余依婷200混夺冠",
@@ -6411,6 +6443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137602,
+      "num": 137602,
+      "word": "CBA",
+      "onboard_time": 1730644521,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136465,
       "num": 186222,
       "word": "Uzi说今晚偷奖杯",
@@ -6515,14 +6555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134230,
-      "num": 134230,
-      "word": "金灿荣称美国是伪装成国家的公司",
-      "onboard_time": 1730639719,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134001,
       "num": 134001,
       "word": "马龙乘风破浪",
@@ -6561,6 +6593,14 @@
       "onboard_time": 1730536578,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133305,
+      "num": 522060,
+      "word": "一小时登顶黄山奖1万引热议",
+      "onboard_time": 1730642661,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133281,
@@ -6761,6 +6801,14 @@
       "onboard_time": 1730516056,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127847,
+      "num": 1092326,
+      "word": "欢迎神十八回家",
+      "onboard_time": 1730639419,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127584,
@@ -7083,14 +7131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118011,
-      "num": 118011,
-      "word": "旅韩大熊猫园欣有高血压",
-      "onboard_time": 1730642901,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117952,
       "num": 117952,
       "word": "丁禹兮发彩蛋糖了",
@@ -7185,14 +7225,6 @@
       "onboard_time": 1730391797,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115822,
-      "num": 985760,
-      "word": "欢迎神十八回家",
-      "onboard_time": 1730639419,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115461,
@@ -8115,14 +8147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72842,
-      "num": 522060,
-      "word": "一小时登顶黄山奖1万引热议",
-      "onboard_time": 1730642661,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72540,
       "num": 72540,
       "word": "蒯曼3比0大藤沙月",
@@ -8336,6 +8360,14 @@
       "word": "救护车司机被举报勾结医生贩卖婴儿",
       "onboard_time": 1730453779,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56918,
+      "num": 511459,
+      "word": "杀害同村六旬老妇的男子已被抓",
+      "onboard_time": 1730642600,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8993,14 +9025,6 @@
       "onboard_time": 1730552419,
       "rank": 14,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 31653,
-      "num": 511459,
-      "word": "杀害同村六旬老妇的男子已被抓",
-      "onboard_time": 1730642600,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31246,

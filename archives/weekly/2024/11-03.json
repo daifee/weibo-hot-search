@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730643621663,
+  "endTime": 1730644705098,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -155,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1579669,
+      "num": 1579669,
+      "word": "黄磊回应好为人师爱说教",
+      "onboard_time": 1730639779,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1562280,
       "num": 631527,
       "word": "丁禹兮 毛毛姐",
@@ -169,6 +177,14 @@
       "onboard_time": 1730593217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1469766,
+      "num": 1469766,
+      "word": "王楚钦肩伤成典型医疗案例",
+      "onboard_time": 1730641761,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1448422,
@@ -201,14 +217,6 @@
       "onboard_time": 1730637978,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1381069,
-      "num": 1381069,
-      "word": "黄磊回应好为人师爱说教",
-      "onboard_time": 1730639779,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1285632,
@@ -307,14 +315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 998854,
-      "num": 998854,
-      "word": "王楚钦肩伤成典型医疗案例",
-      "onboard_time": 1730641761,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 983075,
       "num": 983075,
       "word": "张本智和淘汰",
@@ -353,6 +353,14 @@
       "onboard_time": 1730612658,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 847225,
+      "num": 847225,
+      "word": "黄圣依入学中欧国际商学院EMBA",
+      "onboard_time": 1730642179,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 788636,
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 676361,
+      "num": 676361,
+      "word": "王心凌发文回应",
+      "onboard_time": 1730639478,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672798,
       "num": 672798,
       "word": "BLG赛后采访",
@@ -473,14 +489,6 @@
       "onboard_time": 1730545098,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 662062,
-      "num": 662062,
-      "word": "王心凌发文回应",
-      "onboard_time": 1730639478,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 654460,
@@ -513,14 +521,6 @@
       "onboard_time": 1730637438,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631960,
-      "num": 513998,
-      "word": "黄圣依入学中欧国际商学院EMBA",
-      "onboard_time": 1730642179,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 627145,
@@ -577,6 +577,14 @@
       "onboard_time": 1730574496,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 591719,
+      "num": 591719,
+      "word": "华为Mate70",
+      "onboard_time": 1730642241,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 590542,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554134,
+      "num": 395511,
+      "word": "卢昱晓 小巷人家",
+      "onboard_time": 1730642661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541268,
       "num": 637030,
       "word": "永夜星河第七集 梦回苍兰诀",
@@ -689,14 +705,6 @@
       "onboard_time": 1730619857,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522309,
-      "num": 522309,
-      "word": "华为Mate70",
-      "onboard_time": 1730642241,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 518923,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406203,
+      "num": 536410,
+      "word": "美国大选已花费14700000000美元",
+      "onboard_time": 1730639000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406060,
       "num": 406060,
       "word": "何炅口才",
@@ -945,14 +961,6 @@
       "onboard_time": 1730573477,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 394482,
-      "num": 536410,
-      "word": "美国大选已花费14700000000美元",
-      "onboard_time": 1730639000,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392115,
@@ -1059,19 +1067,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338522,
+      "num": 420710,
+      "word": "11个退货快递放门口被偷",
+      "onboard_time": 1730640741,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
       "onboard_time": 1730549839,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 334680,
-      "num": 334680,
-      "word": "卢昱晓 小巷人家",
-      "onboard_time": 1730642661,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1137,6 +1145,14 @@
       "onboard_time": 1730561300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294658,
+      "num": 249058,
+      "word": "林俊杰演唱会收官",
+      "onboard_time": 1730643201,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 290045,
@@ -1312,14 +1328,6 @@
       "word": "心动7四对cp都去了张远演唱会",
       "onboard_time": 1730592018,
       "rank": 8,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 243399,
-      "num": 243399,
-      "word": "林俊杰演唱会收官",
-      "onboard_time": 1730643201,
-      "rank": 27,
       "category": "演出"
     },
     {
@@ -1707,6 +1715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197768,
+      "num": 261231,
+      "word": "闫妮 人怎么能有种成黄玲这样",
+      "onboard_time": 1730643680,
+      "rank": 19,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 197473,
       "num": 220582,
       "word": "看到孩子之间按胸口务必警惕",
@@ -1817,6 +1833,14 @@
       "onboard_time": 1730607500,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187662,
+      "num": 187662,
+      "word": "羊绒衫为啥这么贵",
+      "onboard_time": 1730644579,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 186093,
@@ -2091,8 +2115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161754,
-      "num": 161754,
+      "raw_hot": 161805,
+      "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
       "onboard_time": 1730642600,
       "rank": 40,
@@ -2187,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157752,
+      "num": 157752,
+      "word": "金灿荣称美国是伪装成国家的公司",
+      "onboard_time": 1730639719,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 155388,
       "num": 155388,
       "word": "永夜星河热度",
@@ -2265,14 +2297,6 @@
       "onboard_time": 1730608939,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147900,
-      "num": 420710,
-      "word": "11个退货快递放门口被偷",
-      "onboard_time": 1730640741,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147594,
@@ -2403,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139719,
+      "num": 139719,
+      "word": "旅韩大熊猫园欣有高血压",
+      "onboard_time": 1730642901,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139612,
       "num": 139612,
       "word": "iG夺冠六周年",
@@ -2433,6 +2465,14 @@
       "onboard_time": 1730631199,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137602,
+      "num": 137602,
+      "word": "CBA",
+      "onboard_time": 1730644521,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 136036,
@@ -2467,14 +2507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134230,
-      "num": 134230,
-      "word": "金灿荣称美国是伪装成国家的公司",
-      "onboard_time": 1730639719,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134001,
       "num": 134001,
       "word": "马龙乘风破浪",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1730566580,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133305,
+      "num": 522060,
+      "word": "一小时登顶黄山奖1万引热议",
+      "onboard_time": 1730642661,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131654,
@@ -2545,6 +2585,14 @@
       "onboard_time": 1730626338,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127847,
+      "num": 1092326,
+      "word": "欢迎神十八回家",
+      "onboard_time": 1730639419,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127522,
@@ -2683,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118011,
-      "num": 118011,
-      "word": "旅韩大熊猫园欣有高血压",
-      "onboard_time": 1730642901,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116891,
       "num": 116891,
       "word": "广州大学情况说明",
@@ -2713,14 +2753,6 @@
       "onboard_time": 1730625378,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 115822,
-      "num": 985760,
-      "word": "欢迎神十八回家",
-      "onboard_time": 1730639419,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115018,
@@ -2963,14 +2995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72842,
-      "num": 522060,
-      "word": "一小时登顶黄山奖1万引热议",
-      "onboard_time": 1730642661,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69965,
       "num": 119102,
       "word": "大连英博2比1上海嘉定汇龙",
@@ -3049,6 +3073,14 @@
       "onboard_time": 1730627179,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56918,
+      "num": 511459,
+      "word": "杀害同村六旬老妇的男子已被抓",
+      "onboard_time": 1730642600,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56244,
@@ -3192,14 +3224,6 @@
       "word": "C919和ARJ21首次双机编队飞行",
       "onboard_time": 1730553561,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31653,
-      "num": 511459,
-      "word": "杀害同村六旬老妇的男子已被抓",
-      "onboard_time": 1730642600,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
