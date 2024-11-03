@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730630458465,
+  "endTime": 1730632701360,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -417,6 +417,14 @@
       "onboard_time": 1730623819,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1384220,
+      "num": 302641,
+      "word": "烧伤妈妈说不想再住原来的房子",
+      "onboard_time": 1730629040,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1365668,
@@ -899,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 772287,
-      "num": 302641,
-      "word": "烧伤妈妈说不想再住原来的房子",
-      "onboard_time": 1730629040,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 767373,
       "num": 388263,
       "word": "女子新家被他人当宾馆开party",
@@ -937,6 +937,14 @@
       "onboard_time": 1730564181,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 755805,
+      "num": 376746,
+      "word": "金晨朋友送的外卖",
+      "onboard_time": 1730623579,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 752078,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1730380458,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704835,
-      "num": 376746,
-      "word": "金晨朋友送的外卖",
-      "onboard_time": 1730623579,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 697913,
@@ -1699,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510112,
+      "num": 376910,
+      "word": "虞书欣推荐的婧妹出演永夜星河",
+      "onboard_time": 1730628798,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509929,
       "num": 509929,
       "word": "山姆多款冷冻预制菜品解冻后销售",
@@ -2043,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421051,
+      "num": 218738,
+      "word": "王心凌方称已按要求唱满四首歌",
+      "onboard_time": 1730630958,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 419943,
       "num": 341292,
       "word": "云合",
@@ -2203,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393675,
+      "num": 214518,
+      "word": "T1夺冠后的LPL解说台",
+      "onboard_time": 1730630658,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 391316,
       "num": 391316,
       "word": "哈尔滨冰雪大世界扩至100万平米",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1730567118,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390394,
+      "num": 390394,
+      "word": "美国大选前夕更多富人计划离开美国",
+      "onboard_time": 1730626157,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389485,
@@ -2603,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316176,
+      "num": 212210,
+      "word": "永夜星河 月光变奏曲",
+      "onboard_time": 1730631138,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315747,
       "num": 315747,
       "word": "央视采访进哀牢山取材的颜料师张俊杰",
@@ -2641,6 +2681,14 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 306237,
+      "num": 212000,
+      "word": "死亡游戏再现校园",
+      "onboard_time": 1730630538,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305965,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1730545098,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294175,
+      "num": 211485,
+      "word": "男子幼儿园按住男孩教唆女孩踢打",
+      "onboard_time": 1730630899,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293616,
@@ -2825,6 +2881,14 @@
       "onboard_time": 1730520138,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284645,
+      "num": 284645,
+      "word": "孙颖莎 欧扎克",
+      "onboard_time": 1730629040,
+      "rank": 45,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 284450,
@@ -3107,14 +3171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258103,
-      "num": 258103,
-      "word": "虞书欣推荐的婧妹出演永夜星河",
-      "onboard_time": 1730628798,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256979,
       "num": 356378,
       "word": "侯佩岑 以爱之名行控制之实",
@@ -3299,14 +3355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240533,
-      "num": 386393,
-      "word": "美国大选前夕更多富人计划离开美国",
-      "onboard_time": 1730626157,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240365,
       "num": 240365,
       "word": "珠帘玉幕",
@@ -3377,14 +3425,6 @@
       "onboard_time": 1730441539,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234139,
-      "num": 234139,
-      "word": "孙颖莎 欧扎克",
-      "onboard_time": 1730629040,
-      "rank": 45,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 232955,
@@ -3481,6 +3521,14 @@
       "onboard_time": 1730532317,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 222707,
+      "num": 222707,
+      "word": "神十八顺利撤离空间站组合体",
+      "onboard_time": 1730628137,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221148,
@@ -3673,6 +3721,14 @@
       "onboard_time": 1730388560,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209513,
+      "num": 209513,
+      "word": "永夜星河更新",
+      "onboard_time": 1730632639,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 209451,
@@ -3955,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200091,
+      "num": 217887,
+      "word": "刘宇宁直播",
+      "onboard_time": 1730631618,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199710,
       "num": 199710,
       "word": "雷军再回应小米15涨价",
@@ -4147,14 +4211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191937,
-      "num": 191937,
-      "word": "神十八顺利撤离空间站组合体",
-      "onboard_time": 1730628137,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 191767,
       "num": 191767,
       "word": "尔滨导游一走神小金土豆就付款了",
@@ -4289,6 +4345,14 @@
       "onboard_time": 1730475258,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186143,
+      "num": 186143,
+      "word": "女友被抓转1万8打点等1年也没出狱",
+      "onboard_time": 1730630359,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186093,
@@ -4715,6 +4779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172280,
+      "num": 172280,
+      "word": "三个月把臭水沟打造成瀑布",
+      "onboard_time": 1730629879,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171902,
       "num": 169565,
       "word": "令人心动的offer 清北大战留子",
@@ -5044,7 +5116,7 @@
     },
     {
       "raw_hot": 161292,
-      "num": 161292,
+      "num": 220582,
       "word": "看到孩子之间按胸口务必警惕",
       "onboard_time": 1730626220,
       "rank": 46,
@@ -5057,6 +5129,14 @@
       "onboard_time": 1730574315,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161166,
+      "num": 161166,
+      "word": "丁禹兮高马尾",
+      "onboard_time": 1730626157,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 161090,
@@ -5651,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144279,
-      "num": 144279,
-      "word": "丁禹兮高马尾",
-      "onboard_time": 1730626157,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143654,
       "num": 143654,
       "word": "王者苍英雄品质升级上线体验服",
@@ -5803,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140373,
+      "num": 111010,
+      "word": "虞书欣的发布会look",
+      "onboard_time": 1730631018,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140102,
       "num": 140102,
       "word": "央视点赞刘德华在台唱中国人",
@@ -5905,6 +5985,14 @@
       "onboard_time": 1730529738,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137874,
+      "num": 137874,
+      "word": "原来星座有13个",
+      "onboard_time": 1730631199,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 137668,
@@ -6121,6 +6209,14 @@
       "onboard_time": 1730573657,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131235,
+      "num": 131235,
+      "word": "大梦归离",
+      "onboard_time": 1730516898,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 130874,
@@ -6707,22 +6803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113703,
-      "num": 113703,
-      "word": "女友被抓转1万8打点等1年也没出狱",
-      "onboard_time": 1730630359,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113535,
-      "num": 113535,
-      "word": "三个月把臭水沟打造成瀑布",
-      "onboard_time": 1730629879,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113463,
       "num": 113463,
       "word": "唐宫奇案男女主官宣日期",
@@ -6795,6 +6875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111162,
+      "num": 111162,
+      "word": "姚景元情侣vlog",
+      "onboard_time": 1730632458,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111123,
       "num": 111123,
       "word": "名侦探学院",
@@ -6849,6 +6937,14 @@
       "onboard_time": 1730556861,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109081,
+      "num": 292924,
+      "word": "山东一银行无障碍通道被吐槽有障碍",
+      "onboard_time": 1730628498,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109078,
@@ -7475,14 +7571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79138,
-      "num": 79138,
-      "word": "大梦归离",
-      "onboard_time": 1730516898,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79052,
       "num": 95763,
       "word": "中超大结局",
@@ -7729,14 +7817,6 @@
       "onboard_time": 1730464759,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60096,
-      "num": 292924,
-      "word": "山东一银行无障碍通道被吐槽有障碍",
-      "onboard_time": 1730628498,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60022,
@@ -8513,6 +8593,14 @@
       "onboard_time": 1730434579,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 27950,
+      "num": 216950,
+      "word": "比便宜京东采销没输过",
+      "onboard_time": 1730631199,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 27913,
