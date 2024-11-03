@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730615485508,
+  "endTime": 1730616267842,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1901120,
-      "num": 389402,
+      "num": 411410,
       "word": "奚梦瑶3岁女儿腿长",
       "onboard_time": 1730610378,
       "rank": 10,
@@ -643,6 +643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 954607,
+      "num": 954607,
+      "word": "毛奇严重违纪违法被双开",
+      "onboard_time": 1730610858,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936191,
       "num": 284255,
       "word": "导游误把乙二醇当锅底游客吃中毒",
@@ -697,14 +705,6 @@
       "onboard_time": 1730553080,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 884461,
-      "num": 884461,
-      "word": "毛奇严重违纪违法被双开",
-      "onboard_time": 1730610858,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882350,
@@ -795,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823654,
+      "num": 408337,
+      "word": "特朗普被马斯克通知或遭暗杀",
+      "onboard_time": 1730613918,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 820828,
       "num": 1285739,
       "word": "永夜星河",
       "onboard_time": 1730387120,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 816259,
-      "num": 348794,
-      "word": "特朗普被马斯克通知或遭暗杀",
-      "onboard_time": 1730613918,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 811959,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 667280,
-      "num": 389283,
+      "num": 398708,
       "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
       "onboard_time": 1730610199,
       "rank": 16,
@@ -1523,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 520724,
+      "num": 520724,
+      "word": "周深把自己反锁在了卫生间",
+      "onboard_time": 1730612658,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520269,
       "num": 520269,
       "word": "曾黎心疼赵露思水下戏",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1730458879,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 436868,
+      "num": 436868,
+      "word": "欣诚则凌",
+      "onboard_time": 1730614639,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 432523,
@@ -2179,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365182,
+      "num": 365182,
+      "word": "广州大学食堂被曝售卖过期食品",
+      "onboard_time": 1730612540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365129,
       "num": 365129,
       "word": "张峻豪官宣费加罗盛典",
@@ -2259,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348988,
-      "num": 348988,
-      "word": "周深把自己反锁在了卫生间",
-      "onboard_time": 1730612658,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345412,
       "num": 320301,
       "word": "小小的我全球首映口碑",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1730476038,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333318,
-      "num": 333318,
-      "word": "欣诚则凌",
-      "onboard_time": 1730614639,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 331265,
@@ -2931,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252372,
+      "num": 252372,
+      "word": "小伙想花30元理发结果花了2万多",
+      "onboard_time": 1730613559,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251238,
       "num": 118427,
       "word": "印度教牧师自称会飞当众展示时摔亡",
@@ -3067,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240128,
+      "num": 240128,
+      "word": "数学竞赛违规学生百科介绍被多平台删除",
+      "onboard_time": 1730614818,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239856,
       "num": 239856,
       "word": "杨洋新造型梦回于途",
@@ -3163,14 +3187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228901,
-      "num": 228901,
-      "word": "小伙想花30元理发结果花了2万多",
-      "onboard_time": 1730613559,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228550,
       "num": 228550,
       "word": "程潇是真来看大梦归离的啊",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1730542218,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225062,
-      "num": 348919,
-      "word": "广州大学食堂被曝售卖过期食品",
-      "onboard_time": 1730612540,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222901,
@@ -3769,6 +3777,14 @@
       "onboard_time": 1730601021,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 194522,
+      "num": 431287,
+      "word": "今年前三季度全国结婚登记474.7万对",
+      "onboard_time": 1730615899,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193734,
@@ -4523,6 +4539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165251,
+      "num": 165251,
+      "word": "孙丞潇和李晨说话紧张到结巴",
+      "onboard_time": 1730615119,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164885,
       "num": 164885,
       "word": "广东男篮vs山西男篮",
@@ -4649,6 +4673,14 @@
       "onboard_time": 1730574915,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160944,
+      "num": 160944,
+      "word": "微软宣布将终止对Win10支持",
+      "onboard_time": 1730614037,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 160896,
@@ -4939,14 +4971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152519,
-      "num": 152519,
-      "word": "数学竞赛违规学生百科介绍被多平台删除",
-      "onboard_time": 1730614818,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152451,
       "num": 152451,
       "word": "骄阳似我官微",
@@ -5153,6 +5177,14 @@
       "onboard_time": 1730529738,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145647,
+      "num": 145647,
+      "word": "涟水中专学生决赛未获奖",
+      "onboard_time": 1730615658,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 145474,
@@ -5379,14 +5411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139466,
-      "num": 139466,
-      "word": "微软宣布将终止对Win10支持",
-      "onboard_time": 1730614037,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 139198,
       "num": 139198,
       "word": "杨丞琳演唱会",
@@ -5425,6 +5449,14 @@
       "onboard_time": 1730542518,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139032,
+      "num": 139032,
+      "word": "姿态谈BLG输T1",
+      "onboard_time": 1730616079,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 138171,
@@ -5569,14 +5601,6 @@
       "onboard_time": 1730566580,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133440,
-      "num": 133440,
-      "word": "孙丞潇和李晨说话紧张到结巴",
-      "onboard_time": 1730615119,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 133414,
@@ -5835,6 +5859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125107,
+      "num": 125107,
+      "word": "用三折叠打开死侍与金刚狼",
+      "onboard_time": 1730614999,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 124870,
+      "num": 124870,
+      "word": "柳拂衣人设",
+      "onboard_time": 1730616017,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124754,
       "num": 124754,
       "word": "曾舜晞芭莎封面",
@@ -5857,14 +5897,6 @@
       "onboard_time": 1730608700,
       "rank": 44,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 124544,
-      "num": 124544,
-      "word": "用三折叠打开死侍与金刚狼",
-      "onboard_time": 1730614999,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 124293,
@@ -6185,6 +6217,14 @@
       "onboard_time": 1730362760,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112554,
+      "num": 112554,
+      "word": "看到有人玩这种游戏一定要制止",
+      "onboard_time": 1730616198,
+      "rank": 47,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 112247,
@@ -6515,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98445,
+      "num": 112505,
+      "word": "郑钦文总决赛出线形势分析",
+      "onboard_time": 1730615899,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98351,
       "num": 98351,
       "word": "焚城",
@@ -6753,6 +6801,14 @@
       "onboard_time": 1730417477,
       "rank": 38,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 85913,
+      "num": 302361,
+      "word": "赵远舟看文潇的眼神",
+      "onboard_time": 1730615599,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 85712,
@@ -7052,7 +7108,7 @@
     },
     {
       "raw_hot": 63443,
-      "num": 699074,
+      "num": 738563,
       "word": "ChinaTravel的含金量还在上升",
       "onboard_time": 1730610498,
       "rank": 2,
@@ -7739,6 +7795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30081,
+      "num": 301816,
+      "word": "内娱养成系最后的希望",
+      "onboard_time": 1730615478,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29879,
       "num": 190086,
       "word": "RW对战LGDNBW",
@@ -7904,6 +7968,14 @@
       "word": "双11大量广告短信伪装成验证码",
       "onboard_time": 1730528957,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24448,
+      "num": 382837,
+      "word": "黎巴嫩多个村庄被以军夷为平地",
+      "onboard_time": 1730615837,
+      "rank": 13,
       "category": "社会新闻"
     },
     {

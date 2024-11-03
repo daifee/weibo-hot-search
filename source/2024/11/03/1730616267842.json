@@ -1,0 +1,410 @@
+{
+  "runTime": 1730616267842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309993,
+        "num": 1309993,
+        "word": "张凌赫坐车看虞书欣永夜星河",
+        "onboard_time": 1730613079,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 954607,
+        "num": 954607,
+        "word": "毛奇严重违纪违法被双开",
+        "onboard_time": 1730610858,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62920,
+        "num": 738563,
+        "word": "ChinaTravel的含金量还在上升",
+        "onboard_time": 1730610498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584841,
+        "num": 584841,
+        "word": "王某某预赛时违规对学生提供帮助",
+        "onboard_time": 1730600600,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520724,
+        "num": 520724,
+        "word": "周深把自己反锁在了卫生间",
+        "onboard_time": 1730612658,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691238,
+        "num": 491383,
+        "word": "阿里巴巴全球数学竞赛获奖名单公布",
+        "onboard_time": 1730600600,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456979,
+        "num": 456979,
+        "word": "Uzi怒喷On",
+        "onboard_time": 1730604378,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 436868,
+        "num": 436868,
+        "word": "欣诚则凌",
+        "onboard_time": 1730614639,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435649,
+        "num": 435649,
+        "word": "前三季度结婚登记同比减少94.3万对",
+        "onboard_time": 1730599278,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194522,
+        "num": 431287,
+        "word": "今年前三季度全国结婚登记474.7万对",
+        "onboard_time": 1730615899,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292909,
+        "num": 411410,
+        "word": "奚梦瑶3岁女儿腿长",
+        "onboard_time": 1730610378,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823654,
+        "num": 408337,
+        "word": "特朗普被马斯克通知或遭暗杀",
+        "onboard_time": 1730613918,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 530051,
+        "num": 398708,
+        "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
+        "onboard_time": 1730610199,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24448,
+        "num": 382837,
+        "word": "黎巴嫩多个村庄被以军夷为平地",
+        "onboard_time": 1730615837,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374769,
+        "num": 374769,
+        "word": "学校回应王某某初赛违规",
+        "onboard_time": 1730601259,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 365182,
+        "num": 365182,
+        "word": "广州大学食堂被曝售卖过期食品",
+        "onboard_time": 1730612540,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310602,
+        "num": 310602,
+        "word": "赵露思叫鹿晗哥",
+        "onboard_time": 1730610139,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85913,
+        "num": 302361,
+        "word": "赵远舟看文潇的眼神",
+        "onboard_time": 1730615599,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360787,
+        "num": 302278,
+        "word": "陈乔恩为乔任梁传言发声",
+        "onboard_time": 1730593217,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30081,
+        "num": 301816,
+        "word": "内娱养成系最后的希望",
+        "onboard_time": 1730615478,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301567,
+        "num": 301567,
+        "word": "97岁妻子化妆烫发看望98岁丈夫",
+        "onboard_time": 1730605220,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269394,
+        "num": 269394,
+        "word": "赵露思给韩安冉发的语音",
+        "onboard_time": 1730564539,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252372,
+        "num": 252372,
+        "word": "小伙想花30元理发结果花了2万多",
+        "onboard_time": 1730613559,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240128,
+        "num": 240128,
+        "word": "数学竞赛违规学生百科介绍被多平台删除",
+        "onboard_time": 1730614818,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236328,
+        "num": 236328,
+        "word": "偶遇黄圣依看房",
+        "onboard_time": 1730614037,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221290,
+        "num": 221290,
+        "word": "迪丽热巴掏出睫毛夹笑飞了",
+        "onboard_time": 1730604320,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202095,
+        "num": 202095,
+        "word": "杨紫补偿粉丝机酒损失",
+        "onboard_time": 1730606181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189381,
+        "num": 189381,
+        "word": "阿里全球数学赛获奖者2人来自中学",
+        "onboard_time": 1730612838,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180698,
+        "num": 180698,
+        "word": "刘宇宁演技",
+        "onboard_time": 1730614280,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176081,
+        "num": 176081,
+        "word": "永夜星河 两个毒唯凑一对",
+        "onboard_time": 1730604080,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172063,
+        "num": 172063,
+        "word": "T1夺冠",
+        "onboard_time": 1730572162,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170238,
+        "num": 170238,
+        "word": "以爱为营",
+        "onboard_time": 1730607500,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169259,
+        "num": 169259,
+        "word": "瑞士卷",
+        "onboard_time": 1730597358,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165251,
+        "num": 165251,
+        "word": "孙丞潇和李晨说话紧张到结巴",
+        "onboard_time": 1730615119,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161946,
+        "num": 161946,
+        "word": "Uzi说洛没用",
+        "onboard_time": 1730612898,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160944,
+        "num": 160944,
+        "word": "微软宣布将终止对Win10支持",
+        "onboard_time": 1730614037,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155786,
+        "num": 155786,
+        "word": "凌妙妙 抹水乳",
+        "onboard_time": 1730613618,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148553,
+        "num": 148553,
+        "word": "婴儿出生不满3天被装塑料袋遗弃",
+        "onboard_time": 1730607680,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145647,
+        "num": 145647,
+        "word": "涟水中专学生决赛未获奖",
+        "onboard_time": 1730615658,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139032,
+        "num": 139032,
+        "word": "姿态谈BLG输T1",
+        "onboard_time": 1730616079,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135019,
+        "num": 135019,
+        "word": "电影长安的荔枝官宣海报",
+        "onboard_time": 1730612119,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128749,
+        "num": 128749,
+        "word": "郑钦文忘记比分擦手准备再战",
+        "onboard_time": 1730604320,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127440,
+        "num": 127440,
+        "word": "婉宁公主的仇被沈言报了",
+        "onboard_time": 1730611518,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126988,
+        "num": 126988,
+        "word": "夺冠瞬间的Faker",
+        "onboard_time": 1730610619,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125107,
+        "num": 125107,
+        "word": "用三折叠打开死侍与金刚狼",
+        "onboard_time": 1730614999,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124870,
+        "num": 124870,
+        "word": "柳拂衣人设",
+        "onboard_time": 1730616017,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117970,
+        "num": 117970,
+        "word": "BLG原班人马再战一年可能性多大",
+        "onboard_time": 1730604378,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 112554,
+        "word": "看到有人玩这种游戏一定要制止",
+        "onboard_time": 1730616198,
+        "rank": 47,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 112521,
+        "num": 112521,
+        "word": "烧伤妈妈哭着说我要回家",
+        "onboard_time": 1730603840,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98445,
+        "num": 112505,
+        "word": "郑钦文总决赛出线形势分析",
+        "onboard_time": 1730615899,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报连发4篇重磅评论#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730615485508,
+  "endTime": 1730616267842,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1901120,
-      "num": 389402,
+      "num": 411410,
       "word": "奚梦瑶3岁女儿腿长",
       "onboard_time": 1730610378,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 954607,
+      "num": 954607,
+      "word": "毛奇严重违纪违法被双开",
+      "onboard_time": 1730610858,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940131,
       "num": 413971,
       "word": "摇人",
@@ -219,16 +227,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 884461,
-      "num": 884461,
-      "word": "毛奇严重违纪违法被双开",
-      "onboard_time": 1730610858,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 816259,
-      "num": 348794,
+      "raw_hot": 823654,
+      "num": 408337,
       "word": "特朗普被马斯克通知或遭暗杀",
       "onboard_time": 1730613918,
       "rank": 11,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 667280,
-      "num": 389283,
+      "num": 398708,
       "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
       "onboard_time": 1730610199,
       "rank": 16,
@@ -427,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 520724,
+      "num": 520724,
+      "word": "周深把自己反锁在了卫生间",
+      "onboard_time": 1730612658,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517682,
       "num": 587295,
       "word": "没有伤害任何人",
@@ -489,6 +497,14 @@
       "onboard_time": 1730559922,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436868,
+      "num": 436868,
+      "word": "欣诚则凌",
+      "onboard_time": 1730614639,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 432523,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365182,
+      "num": 365182,
+      "word": "广州大学食堂被曝售卖过期食品",
+      "onboard_time": 1730612540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362779,
       "num": 362779,
       "word": "美国女子带两娃跳下60米高瀑布",
@@ -619,27 +643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348988,
-      "num": 348988,
-      "word": "周深把自己反锁在了卫生间",
-      "onboard_time": 1730612658,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
       "onboard_time": 1730549839,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 333318,
-      "num": 333318,
-      "word": "欣诚则凌",
-      "onboard_time": 1730614639,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -763,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252372,
+      "num": 252372,
+      "word": "小伙想花30元理发结果花了2万多",
+      "onboard_time": 1730613559,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250832,
       "num": 250832,
       "word": "偶遇黄圣依看房",
@@ -793,6 +809,14 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240128,
+      "num": 240128,
+      "word": "数学竞赛违规学生百科介绍被多平台删除",
+      "onboard_time": 1730614818,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239372,
@@ -835,28 +859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228901,
-      "num": 228901,
-      "word": "小伙想花30元理发结果花了2万多",
-      "onboard_time": 1730613559,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225074,
       "num": 225074,
       "word": "BLG on",
       "onboard_time": 1730572820,
       "rank": 31,
       "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 225062,
-      "num": 348919,
-      "word": "广州大学食堂被曝售卖过期食品",
-      "onboard_time": 1730612540,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220435,
@@ -1075,6 +1083,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 194522,
+      "num": 431287,
+      "word": "今年前三季度全国结婚登记474.7万对",
+      "onboard_time": 1730615899,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193734,
       "num": 563488,
       "word": "私人影院低价吸引顾客到店嫖娼",
@@ -1219,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165251,
+      "num": 165251,
+      "word": "孙丞潇和李晨说话紧张到结巴",
+      "onboard_time": 1730615119,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164626,
       "num": 164626,
       "word": "交警怒斥家长占道接孩子",
@@ -1283,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160944,
+      "num": 160944,
+      "word": "微软宣布将终止对Win10支持",
+      "onboard_time": 1730614037,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160411,
       "num": 160411,
       "word": "Rita好美",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1730604141,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152519,
-      "num": 152519,
-      "word": "数学竞赛违规学生百科介绍被多平台删除",
-      "onboard_time": 1730614818,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152471,
@@ -1379,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145647,
+      "num": 145647,
+      "word": "涟水中专学生决赛未获奖",
+      "onboard_time": 1730615658,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145474,
       "num": 145474,
       "word": "Bin 永远尊重faker",
@@ -1435,12 +1467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139466,
-      "num": 139466,
-      "word": "微软宣布将终止对Win10支持",
-      "onboard_time": 1730614037,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 139032,
+      "num": 139032,
+      "word": "姿态谈BLG输T1",
+      "onboard_time": 1730616079,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 136036,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1730566580,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133440,
-      "num": 133440,
-      "word": "孙丞潇和李晨说话紧张到结巴",
-      "onboard_time": 1730615119,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 131364,
@@ -1523,20 +1547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125107,
+      "num": 125107,
+      "word": "用三折叠打开死侍与金刚狼",
+      "onboard_time": 1730614999,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 124870,
+      "num": 124870,
+      "word": "柳拂衣人设",
+      "onboard_time": 1730616017,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124629,
       "num": 124629,
       "word": "数学竞赛组委会对赛制和管理致歉",
       "onboard_time": 1730608700,
       "rank": 44,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 124544,
-      "num": 124544,
-      "word": "用三折叠打开死侍与金刚狼",
-      "onboard_time": 1730614999,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 123380,
@@ -1603,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112554,
+      "num": 112554,
+      "word": "看到有人玩这种游戏一定要制止",
+      "onboard_time": 1730616198,
+      "rank": 47,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 107434,
       "num": 107434,
       "word": "警方通报私人影院违法活动",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1730594779,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98445,
+      "num": 112505,
+      "word": "郑钦文总决赛出线形势分析",
+      "onboard_time": 1730615899,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98351,
@@ -1715,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85913,
+      "num": 302361,
+      "word": "赵远舟看文潇的眼神",
+      "onboard_time": 1730615599,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83599,
       "num": 83599,
       "word": "成都持械伤人事件不存在克扣工资问题",
@@ -1772,7 +1828,7 @@
     },
     {
       "raw_hot": 63443,
-      "num": 699074,
+      "num": 738563,
       "word": "ChinaTravel的含金量还在上升",
       "onboard_time": 1730610498,
       "rank": 2,
@@ -1851,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30081,
+      "num": 301816,
+      "word": "内娱养成系最后的希望",
+      "onboard_time": 1730615478,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25760,
       "num": 3917669,
       "word": "这篇文章透露了改革的几个重要信号",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1730608579,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24448,
+      "num": 382837,
+      "word": "黎巴嫩多个村庄被以军夷为平地",
+      "onboard_time": 1730615837,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22694,
