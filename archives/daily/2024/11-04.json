@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730668853447,
+  "endTime": 1730669753629,
   "band_list": [
     {
       "raw_hot": 932837,
@@ -451,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56036,
+      "num": 72865,
+      "word": "美国警告伊朗不要再袭击以色列",
+      "onboard_time": 1730658611,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 56034,
       "num": 87468,
       "word": "神十八载人飞行任务圆满成功",
       "onboard_time": 1730656873,
       "rank": 9,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 54072,
-      "num": 72865,
-      "word": "美国警告伊朗不要再袭击以色列",
-      "onboard_time": 1730658611,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 51049,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 46161,
-      "num": 36433,
+      "num": 38280,
       "word": "美国B52战略轰炸机抵达中东",
       "onboard_time": 1730663112,
       "rank": 24,
@@ -571,19 +571,19 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 28025,
+      "num": 28025,
+      "word": "广东女子吃羊胎盘引发严重脊柱炎",
+      "onboard_time": 1730666471,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26456,
       "num": 77833,
       "word": "这波夜骑大学生开封出招接住了",
       "onboard_time": 1730653575,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23669,
-      "num": 23669,
-      "word": "广东女子吃羊胎盘引发严重脊柱炎",
-      "onboard_time": 1730666471,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -593,6 +593,14 @@
       "onboard_time": 1730658552,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20164,
+      "num": 35450,
+      "word": "以军称在加沙打死哈马斯一高级官员",
+      "onboard_time": 1730667131,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 20019,
@@ -627,6 +635,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 16603,
+      "num": 16603,
+      "word": "叶光富第一个出舱",
+      "onboard_time": 1730669291,
+      "rank": 45,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 15282,
       "num": 32629,
       "word": "神十八近半年太空之旅结束",
@@ -643,20 +659,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14253,
+      "num": 23559,
+      "word": "军字号特供酒年份高低全靠色素调",
+      "onboard_time": 1730665151,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13916,
       "num": 37894,
       "word": "那个天上的四川男人回家了",
       "onboard_time": 1730658372,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12943,
-      "num": 35450,
-      "word": "以军称在加沙打死哈马斯一高级官员",
-      "onboard_time": 1730667131,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 12720,
@@ -667,16 +683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11593,
-      "num": 21547,
-      "word": "军字号特供酒年份高低全靠色素调",
-      "onboard_time": 1730665151,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10187,
-      "num": 19209,
+      "num": 28252,
       "word": "多地出现邮寄黄金类诈骗案",
       "onboard_time": 1730665270,
       "rank": 35,
