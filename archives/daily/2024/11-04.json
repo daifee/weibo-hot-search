@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730669753629,
+  "endTime": 1730672512734,
   "band_list": [
     {
       "raw_hot": 932837,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 343923,
-      "num": 343923,
+      "num": 391775,
       "word": "神舟十八号返回舱成功着陆",
       "onboard_time": 1730654892,
       "rank": 9,
@@ -307,6 +307,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107737,
+      "num": 107737,
+      "word": "美国警告伊朗不要再袭击以色列",
+      "onboard_time": 1730658611,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 107165,
+      "num": 100652,
+      "word": "张凌赫发文虞书欣永夜星河",
+      "onboard_time": 1730661311,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106052,
       "num": 106052,
       "word": "三国重臣张昭墓在南京考古发掘完毕",
@@ -427,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70202,
-      "num": 70202,
-      "word": "张凌赫发文虞书欣永夜星河",
-      "onboard_time": 1730661311,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67731,
       "num": 67731,
       "word": "神舟十八号",
@@ -451,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56036,
-      "num": 72865,
-      "word": "美国警告伊朗不要再袭击以色列",
-      "onboard_time": 1730658611,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 56034,
       "num": 87468,
       "word": "神十八载人飞行任务圆满成功",
       "onboard_time": 1730656873,
       "rank": 9,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 51871,
+      "num": 42132,
+      "word": "广东女子吃羊胎盘引发严重脊柱炎",
+      "onboard_time": 1730666471,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51049,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 46161,
-      "num": 38280,
+      "num": 42973,
       "word": "美国B52战略轰炸机抵达中东",
       "onboard_time": 1730663112,
       "rank": 24,
@@ -505,6 +513,14 @@
       "onboard_time": 1730631077,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42415,
+      "num": 42415,
+      "word": "黄磊回应资源背景争议",
+      "onboard_time": 1730660111,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 42254,
@@ -539,14 +555,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 34289,
-      "num": 34289,
-      "word": "黄磊回应资源背景争议",
-      "onboard_time": 1730660111,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33708,
       "num": 33708,
       "word": "返回舱舱门打开",
@@ -571,14 +579,6 @@
       "category": "国内时政,社会新闻"
     },
     {
-      "raw_hot": 28025,
-      "num": 28025,
-      "word": "广东女子吃羊胎盘引发严重脊柱炎",
-      "onboard_time": 1730666471,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26456,
       "num": 77833,
       "word": "这波夜骑大学生开封出招接住了",
@@ -595,7 +595,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20164,
+      "raw_hot": 22192,
+      "num": 60471,
+      "word": "鞋店索要顾客试鞋费有违经营之道",
+      "onboard_time": 1730669772,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20538,
       "num": 35450,
       "word": "以军称在加沙打死哈马斯一高级官员",
       "onboard_time": 1730667131,
@@ -619,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19259,
+      "num": 20023,
+      "word": "叶光富第一个出舱",
+      "onboard_time": 1730669291,
+      "rank": 45,
+      "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 18926,
+      "num": 28252,
+      "word": "多地出现邮寄黄金类诈骗案",
+      "onboard_time": 1730665270,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18696,
       "num": 43314,
       "word": "男子为让网友点关注谎称孩子丢了",
@@ -633,14 +657,6 @@
       "onboard_time": 1730665511,
       "rank": 34,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 16603,
-      "num": 16603,
-      "word": "叶光富第一个出舱",
-      "onboard_time": 1730669291,
-      "rank": 45,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 15282,
@@ -683,16 +699,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10187,
-      "num": 28252,
-      "word": "多地出现邮寄黄金类诈骗案",
-      "onboard_time": 1730665270,
-      "rank": 35,
+      "raw_hot": 12565,
+      "num": 33067,
+      "word": "海南多地暴雨红色预警",
+      "onboard_time": 1730670370,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7161,
-      "num": 99060,
+      "raw_hot": 8576,
+      "num": 138351,
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
       "rank": 2,
