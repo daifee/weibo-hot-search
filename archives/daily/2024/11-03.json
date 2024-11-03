@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730629474329,
+  "endTime": 1730630458465,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -259,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950381,
+      "num": 568290,
+      "word": "毛奇与他人发生不正当性关系",
+      "onboard_time": 1730623759,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940131,
       "num": 413971,
       "word": "摇人",
       "onboard_time": 1730558300,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 936141,
-      "num": 568290,
-      "word": "毛奇与他人发生不正当性关系",
-      "onboard_time": 1730623759,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 891722,
@@ -289,6 +289,14 @@
       "onboard_time": 1730597358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 772287,
+      "num": 302641,
+      "word": "烧伤妈妈说不想再住原来的房子",
+      "onboard_time": 1730629040,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767373,
@@ -331,8 +339,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 704835,
+      "num": 376746,
+      "word": "金晨朋友送的外卖",
+      "onboard_time": 1730623579,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695039,
-      "num": 294262,
+      "num": 300874,
       "word": "死亡游戏再现校园严重可窒息",
       "onboard_time": 1730623158,
       "rank": 21,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568550,
+      "num": 427727,
+      "word": "永夜星河发布会",
+      "onboard_time": 1730626878,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559100,
       "num": 4270078,
       "word": "成功95花的背后",
@@ -555,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 487933,
-      "num": 427727,
-      "word": "永夜星河发布会",
-      "onboard_time": 1730626878,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 482842,
       "num": 367897,
       "word": "小伙称按摩后禁不住怂恿花一万五",
@@ -577,14 +593,6 @@
       "onboard_time": 1730615899,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464400,
-      "num": 376746,
-      "word": "金晨朋友送的外卖",
-      "onboard_time": 1730623579,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 462432,
@@ -609,6 +617,14 @@
       "onboard_time": 1730604378,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 455424,
+      "num": 297094,
+      "word": "村民发现烈士墓碑被绑电线杆上",
+      "onboard_time": 1730623518,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453124,
@@ -657,14 +673,6 @@
       "onboard_time": 1730574376,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 428748,
-      "num": 290311,
-      "word": "村民发现烈士墓碑被绑电线杆上",
-      "onboard_time": 1730623518,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427687,
@@ -745,6 +753,14 @@
       "onboard_time": 1730601199,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384244,
+      "num": 384244,
+      "word": "隐形战机苏57降落太原",
+      "onboard_time": 1730624538,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 381797,
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308953,
+      "num": 308953,
+      "word": "代号鸢",
+      "onboard_time": 1730629278,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308893,
       "num": 308893,
       "word": "Keria泪洒赛场",
@@ -865,14 +889,6 @@
       "onboard_time": 1730561300,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297736,
-      "num": 297736,
-      "word": "隐形战机苏57降落太原",
-      "onboard_time": 1730624538,
-      "rank": 35,
-      "category": "军事"
     },
     {
       "raw_hot": 290045,
@@ -963,6 +979,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266975,
+      "num": 241743,
+      "word": "爆火的超薄羽绒服真的抗冻吗",
+      "onboard_time": 1730627239,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 258103,
+      "num": 258103,
+      "word": "虞书欣推荐的婧妹出演永夜星河",
+      "onboard_time": 1730628798,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257922,
       "num": 257922,
       "word": "乔任梁离世8年不得安息该适可而止了",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241743,
-      "num": 241743,
-      "word": "爆火的超薄羽绒服真的抗冻吗",
-      "onboard_time": 1730627239,
-      "rank": 22,
-      "category": "时尚"
     },
     {
       "raw_hot": 240533,
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234139,
+      "num": 234139,
+      "word": "孙颖莎 欧扎克",
+      "onboard_time": 1730629040,
+      "rank": 45,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 233906,
       "num": 233906,
       "word": "拾荒老人去看病竟掏出一代身份证",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1730594419,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229105,
-      "num": 218439,
-      "word": "虞书欣推荐的婧妹出演永夜星河",
-      "onboard_time": 1730628798,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 225074,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1730622257,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206995,
+      "num": 174704,
+      "word": "烧伤妈妈丈夫剃头和妻子变情侣头",
+      "onboard_time": 1730629519,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206749,
@@ -1427,14 +1459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186857,
-      "num": 186857,
-      "word": "烧伤妈妈说不想再住原来的房子",
-      "onboard_time": 1730629040,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186093,
       "num": 186093,
       "word": "速冻模式开启局地降温12摄氏度",
@@ -1475,6 +1499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180729,
+      "num": 187311,
+      "word": "林俊杰嘉宾是陶喆",
+      "onboard_time": 1730629159,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180454,
       "num": 180454,
       "word": "重庆工商大学通报学生称被恶意阻拦毕业",
@@ -1489,22 +1521,6 @@
       "onboard_time": 1730619078,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177873,
-      "num": 177873,
-      "word": "代号鸢",
-      "onboard_time": 1730629278,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 177707,
-      "num": 187311,
-      "word": "林俊杰嘉宾是陶喆",
-      "onboard_time": 1730629159,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 176891,
@@ -1635,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162808,
+      "num": 162808,
+      "word": "Gumayusi给Faker戴王冠",
+      "onboard_time": 1730629758,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162497,
       "num": 162497,
       "word": "西班牙强降雨已致205人死亡",
@@ -1644,7 +1668,7 @@
     },
     {
       "raw_hot": 161990,
-      "num": 161990,
+      "num": 178289,
       "word": "金晨教科书级别的一字马",
       "onboard_time": 1730628078,
       "rank": 34,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1730611578,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161292,
+      "num": 161292,
+      "word": "看到孩子之间按胸口务必警惕",
+      "onboard_time": 1730626220,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161226,
@@ -1697,14 +1729,6 @@
       "onboard_time": 1730560344,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159137,
-      "num": 159137,
-      "word": "看到孩子之间按胸口务必警惕",
-      "onboard_time": 1730626220,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158684,
@@ -2107,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119556,
-      "num": 119556,
-      "word": "孙颖莎 欧扎克",
-      "onboard_time": 1730629040,
-      "rank": 45,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 116891,
       "num": 116891,
       "word": "广州大学情况说明",
@@ -2153,6 +2169,22 @@
       "onboard_time": 1730619078,
       "rank": 42,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 113703,
+      "num": 113703,
+      "word": "女友被抓转1万8打点等1年也没出狱",
+      "onboard_time": 1730630359,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113535,
+      "num": 113535,
+      "word": "三个月把臭水沟打造成瀑布",
+      "onboard_time": 1730629879,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 113165,
@@ -2419,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60096,
+      "num": 292924,
+      "word": "山东一银行无障碍通道被吐槽有障碍",
+      "onboard_time": 1730628498,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60022,
       "num": 289985,
       "word": "李昊直播",
@@ -2456,14 +2496,6 @@
       "word": "多地出现邮寄黄金诈骗案",
       "onboard_time": 1730617398,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50712,
-      "num": 292924,
-      "word": "山东一银行无障碍通道被吐槽有障碍",
-      "onboard_time": 1730628498,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2699,6 +2731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16105,
+      "num": 307748,
+      "word": "官方称海南陵水登革热病毒不会人传人",
+      "onboard_time": 1730628798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15931,
       "num": 631698,
       "word": "ChinaTravel热潮背后是满满的机遇",
@@ -2729,14 +2769,6 @@
       "onboard_time": 1730579600,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14449,
-      "num": 297540,
-      "word": "官方称海南陵水登革热病毒不会人传人",
-      "onboard_time": 1730628798,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14210,
