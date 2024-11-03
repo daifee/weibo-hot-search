@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730633754551,
+  "endTime": 1730637556616,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1562280,
+      "num": 284310,
+      "word": "丁禹兮 毛毛姐",
+      "onboard_time": 1730635939,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1525843,
       "num": 1267176,
       "word": "永夜星河开播十分钟就全剧终",
@@ -553,6 +561,14 @@
       "onboard_time": 1730601259,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1079237,
+      "num": 326991,
+      "word": "演技整容",
+      "onboard_time": 1730634679,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1062583,
@@ -905,6 +921,14 @@
       "onboard_time": 1730433498,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 769361,
+      "num": 281966,
+      "word": "95四小花",
+      "onboard_time": 1730633179,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 767373,
@@ -1547,6 +1571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 552620,
+      "num": 284793,
+      "word": "秋瓷炫亲公公脸颊",
+      "onboard_time": 1730633420,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547504,
       "num": 547504,
       "word": "弟弟出事后我再也没得到父母的爱",
@@ -1859,6 +1891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 468138,
+      "num": 324465,
+      "word": "死亡游戏再现校园",
+      "onboard_time": 1730630538,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466131,
       "num": 466131,
       "word": "白鹿小水同框",
@@ -2083,6 +2123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419667,
+      "num": 264715,
+      "word": "于文文回应用小号",
+      "onboard_time": 1730635939,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417886,
+      "num": 282856,
+      "word": "男子幼儿园按住男孩教唆女孩踢打",
+      "onboard_time": 1730630899,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417753,
       "num": 417753,
       "word": "鞠婧祎已起诉丝芭传媒",
@@ -2204,7 +2260,7 @@
     },
     {
       "raw_hot": 401018,
-      "num": 291905,
+      "num": 313256,
       "word": "王一栩笑了",
       "onboard_time": 1730632817,
       "rank": 8,
@@ -2563,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338846,
+      "num": 259180,
+      "word": "永夜星河第七集 梦回苍兰诀",
+      "onboard_time": 1730636718,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336584,
       "num": 336584,
       "word": "BABYMONSTER主打曲",
@@ -2699,14 +2763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 306237,
-      "num": 226153,
-      "word": "死亡游戏再现校园",
-      "onboard_time": 1730630538,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305965,
       "num": 305965,
       "word": "永夜星河第七集",
@@ -2793,14 +2849,6 @@
       "onboard_time": 1730545098,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294175,
-      "num": 282856,
-      "word": "男子幼儿园按住男孩教唆女孩踢打",
-      "onboard_time": 1730630899,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293616,
@@ -2899,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285128,
+      "num": 285128,
+      "word": "苏州一小区给业主分红户均分到4位数",
+      "onboard_time": 1730634979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284450,
       "num": 284450,
       "word": "王楚钦王曼昱冠军赛合影",
@@ -2921,14 +2977,6 @@
       "onboard_time": 1730453119,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 281966,
-      "num": 281966,
-      "word": "95四小花",
-      "onboard_time": 1730633179,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 280826,
@@ -3201,6 +3249,14 @@
       "onboard_time": 1730433440,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255218,
+      "num": 255218,
+      "word": "惠英红 中式吸血鬼",
+      "onboard_time": 1730635098,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 254678,
@@ -3569,6 +3625,14 @@
       "onboard_time": 1730469380,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "大梦归离好虐",
+      "onboard_time": 1730634920,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 220534,
@@ -4011,6 +4075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201815,
+      "num": 201815,
+      "word": "很多人的臀肌其实已经失忆",
+      "onboard_time": 1730635878,
+      "rank": 26,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 201119,
       "num": 249987,
       "word": "TXT新歌造型被审判",
@@ -4049,6 +4121,14 @@
       "onboard_time": 1730631618,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200060,
+      "num": 200060,
+      "word": "贵州一个村种了近20种辣椒",
+      "onboard_time": 1730635878,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199710,
@@ -4467,6 +4547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 183090,
+      "num": 183090,
+      "word": "郭艾伦领取冠军戒指",
+      "onboard_time": 1730633838,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182173,
       "num": 182173,
       "word": "西行纪完结篇正式开播",
@@ -4611,6 +4699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178432,
+      "num": 178432,
+      "word": "死亡游戏流行校园真的会致死",
+      "onboard_time": 1730636538,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 177493,
       "num": 177493,
       "word": "宁艺卓毛毛领",
@@ -4689,6 +4785,14 @@
       "onboard_time": 1730441957,
       "rank": 32,
       "category": "剧集,体育"
+    },
+    {
+      "raw_hot": 176201,
+      "num": 176201,
+      "word": "于正白鹿合照",
+      "onboard_time": 1730634319,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 176061,
@@ -5451,6 +5555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153843,
+      "num": 153843,
+      "word": "张凌赫送婚礼祝福",
+      "onboard_time": 1730635578,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153395,
       "num": 153395,
       "word": "何洁唱人质情绪失控",
@@ -5995,6 +6107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138405,
+      "num": 138405,
+      "word": "你的谎言也动听",
+      "onboard_time": 1730636778,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138238,
       "num": 337377,
       "word": "潘宏爱玩狗称自己做得没错",
@@ -6411,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126032,
+      "num": 126032,
+      "word": "神舟十八号与空间站组合体成功分离",
+      "onboard_time": 1730636419,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125946,
       "num": 125946,
       "word": "珠帘玉幕 好哭",
@@ -6577,6 +6705,14 @@
       "onboard_time": 1730474360,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121744,
+      "num": 121744,
+      "word": "山取回忆哀牢山见闻",
+      "onboard_time": 1730633778,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121230,
@@ -6961,6 +7097,22 @@
       "onboard_time": 1730556861,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109433,
+      "num": 109433,
+      "word": "蒲熠星音乐节",
+      "onboard_time": 1730637320,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109320,
+      "num": 109320,
+      "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+      "onboard_time": 1730637438,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109081,
@@ -7723,6 +7875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69091,
+      "num": 196056,
+      "word": "eStar零封EDGM",
+      "onboard_time": 1730636598,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68921,
       "num": 483794,
       "word": "高价收小马宝莉卡牌女孩被骗万余元",
@@ -7859,6 +8019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58710,
+      "num": 275113,
+      "word": "欣小萌超级变变变出天猫红包",
+      "onboard_time": 1730635218,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58355,
       "num": 492186,
       "word": "我国自主研制最大直径盾构机下线",
@@ -7937,14 +8105,6 @@
       "onboard_time": 1730442799,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 54115,
-      "num": 284793,
-      "word": "秋瓷炫亲公公脸颊",
-      "onboard_time": 1730633420,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 53367,
@@ -8691,6 +8851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25506,
+      "num": 328604,
+      "word": "太空水稻迎来大丰收",
+      "onboard_time": 1730620937,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25372,
       "num": 25372,
       "word": "李海玉抱父遗照在弟弟坟前痛哭",
@@ -8961,6 +9129,14 @@
       "onboard_time": 1730402050,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 20078,
+      "num": 98348,
+      "word": "第一视角带你沉浸式体验北马",
+      "onboard_time": 1730637257,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 19932,
