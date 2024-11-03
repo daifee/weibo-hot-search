@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730607960466,
+  "endTime": 1730608815860,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -1243,12 +1243,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 590542,
+      "num": 590542,
+      "word": "永夜星河 两个毒唯凑一对",
+      "onboard_time": 1730604080,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587108,
       "num": 834808,
       "word": "正午阳光 切不动了",
       "onboard_time": 1730563223,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585860,
+      "num": 585860,
+      "word": "烧伤妈妈哭着说我要回家",
+      "onboard_time": 1730603840,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584392,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1730464279,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 580231,
-      "num": 580231,
-      "word": "烧伤妈妈哭着说我要回家",
-      "onboard_time": 1730603840,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 578209,
@@ -1321,14 +1329,6 @@
       "onboard_time": 1730553261,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 566611,
-      "num": 566611,
-      "word": "永夜星河 两个毒唯凑一对",
-      "onboard_time": 1730604080,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 559161,
@@ -2099,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365567,
+      "num": 365567,
+      "word": "以爱为营",
+      "onboard_time": 1730607500,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365129,
       "num": 365129,
       "word": "张峻豪官宣费加罗盛典",
@@ -2239,6 +2247,14 @@
       "num": 335701,
       "word": "村民带女子去未开发水域潜水溺亡",
       "onboard_time": 1730476038,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331798,
+      "num": 470214,
+      "word": "97岁妻子化妆烫发看望98岁丈夫",
+      "onboard_time": 1730605220,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2539,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283393,
-      "num": 470214,
-      "word": "97岁妻子化妆烫发看望98岁丈夫",
-      "onboard_time": 1730605220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282059,
       "num": 282059,
       "word": "王一博对接否认出演克什米尔公主号",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1730382080,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258169,
+      "num": 258169,
+      "word": "婴儿出生不满3天被装塑料袋遗弃",
+      "onboard_time": 1730607680,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256979,
@@ -3211,6 +3227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212636,
+      "num": 338640,
+      "word": "马雪阳当爸",
+      "onboard_time": 1730604020,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211739,
       "num": 211739,
       "word": "男子刑期写错被提前释放",
@@ -3259,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209451,
+      "num": 209451,
+      "word": "Bin回应不敌T1",
+      "onboard_time": 1730604320,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209051,
       "num": 209051,
       "word": "俄方回应谷歌被罚35位数",
@@ -3280,14 +3312,6 @@
       "word": "G2帮T1打训练赛",
       "onboard_time": 1730448619,
       "rank": 23,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 207923,
-      "num": 207923,
-      "word": "Bin回应不敌T1",
-      "onboard_time": 1730604320,
-      "rank": 37,
       "category": "电竞"
     },
     {
@@ -3331,6 +3355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206453,
+      "num": 338596,
+      "word": "张艺兴演唱会玩梗",
+      "onboard_time": 1730608100,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206200,
       "num": 206200,
       "word": "萧敬腾林有慧捐出全部婚礼礼金",
@@ -3368,14 +3400,6 @@
       "word": "穆祉丞发博让私生离私生活远一点",
       "onboard_time": 1730565018,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204530,
-      "num": 338640,
-      "word": "马雪阳当爸",
-      "onboard_time": 1730604020,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -3595,14 +3619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194693,
-      "num": 204573,
-      "word": "以爱为营",
-      "onboard_time": 1730607500,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194563,
       "num": 194563,
       "word": "真的建议大家多做腹式呼吸",
@@ -3739,20 +3755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188867,
+      "num": 188867,
+      "word": "严浩翔 切勿掉入诈骗陷阱",
+      "onboard_time": 1730607500,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188529,
       "num": 188529,
       "word": "WTT法兰克福冠军赛男女单签表",
       "onboard_time": 1730473699,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188346,
-      "num": 188346,
-      "word": "严浩翔 切勿掉入诈骗陷阱",
-      "onboard_time": 1730607500,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 186920,
@@ -4299,6 +4315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165840,
+      "num": 165840,
+      "word": "刘德华演出唱中国人遭台政客挑刺",
+      "onboard_time": 1730606181,
+      "rank": 38,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 165649,
       "num": 165649,
       "word": "谢可寅新剧斩男又斩女",
@@ -4409,14 +4433,6 @@
       "onboard_time": 1730532916,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161391,
-      "num": 161391,
-      "word": "刘德华演出唱中国人遭台政客挑刺",
-      "onboard_time": 1730606181,
-      "rank": 38,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 161226,
@@ -4763,8 +4779,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151453,
-      "num": 151453,
+      "raw_hot": 152048,
+      "num": 152048,
       "word": "男子入住机场酒店捡空姐丝袜",
       "onboard_time": 1730604561,
       "rank": 43,
@@ -5211,6 +5227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135549,
+      "num": 552552,
+      "word": "涟水中专教师王某某被诫勉谈话",
+      "onboard_time": 1730606541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135361,
       "num": 526295,
       "word": "德国总统就德军二战暴行向希腊道歉",
@@ -5337,22 +5361,6 @@
       "onboard_time": 1730537477,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133026,
-      "num": 552552,
-      "word": "涟水中专教师王某某被诫勉谈话",
-      "onboard_time": 1730606541,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132536,
-      "num": 132536,
-      "word": "婴儿出生不满3天被装塑料袋遗弃",
-      "onboard_time": 1730607680,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132401,
@@ -5585,6 +5593,22 @@
       "onboard_time": 1730499191,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124629,
+      "num": 124629,
+      "word": "数学竞赛组委会对赛制和管理致歉",
+      "onboard_time": 1730608700,
+      "rank": 44,
+      "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 124346,
+      "num": 124346,
+      "word": "迪丽热巴蓝色流光定制裙",
+      "onboard_time": 1730608520,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 124293,
@@ -6723,6 +6747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63809,
+      "num": 463156,
+      "word": "烧伤妈妈手指微动情况好转",
+      "onboard_time": 1730608280,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63506,
       "num": 259553,
       "word": "女子在广西白龙洞潜水溺亡亲属发声",
@@ -7723,6 +7755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20543,
+      "num": 109557,
+      "word": "张信哲的新藏品",
+      "onboard_time": 1730608579,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20480,
       "num": 390519,
       "word": "父母不认可的婚姻你还会继续嘛",
@@ -7761,6 +7801,14 @@
       "onboard_time": 1730567776,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19746,
+      "num": 321496,
+      "word": "玛格特罗比生子",
+      "onboard_time": 1730607561,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19635,
@@ -7945,14 +7993,6 @@
       "onboard_time": 1730452280,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14644,
-      "num": 321496,
-      "word": "玛格特罗比生子",
-      "onboard_time": 1730607561,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 14576,

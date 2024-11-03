@@ -1,0 +1,410 @@
+{
+  "runTime": 1730608815860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6581151,
+        "num": 6581151,
+        "word": "姜某数学竞赛系老师提供帮助",
+        "onboard_time": 1730600600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939185,
+        "num": 939185,
+        "word": "Uzi怒喷On",
+        "onboard_time": 1730604378,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10244,
+        "num": 738100,
+        "word": "C919和ARJ21首次双机编队飞行",
+        "onboard_time": 1730553561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723249,
+        "num": 723249,
+        "word": "迪丽热巴掏出睫毛夹笑飞了",
+        "onboard_time": 1730604320,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590542,
+        "num": 590542,
+        "word": "永夜星河 两个毒唯凑一对",
+        "onboard_time": 1730604080,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 672388,
+        "num": 588289,
+        "word": "阿里巴巴全球数学竞赛获奖名单公布",
+        "onboard_time": 1730600600,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585860,
+        "num": 585860,
+        "word": "烧伤妈妈哭着说我要回家",
+        "onboard_time": 1730603840,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527122,
+        "num": 527122,
+        "word": "T1夺冠",
+        "onboard_time": 1730572162,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 470258,
+        "num": 470258,
+        "word": "王某某为姜某竞赛提供帮助被处分",
+        "onboard_time": 1730601740,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63809,
+        "num": 463156,
+        "word": "烧伤妈妈手指微动情况好转",
+        "onboard_time": 1730608280,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895224,
+        "num": 460428,
+        "word": "陈乔恩为乔任梁传言发声",
+        "onboard_time": 1730593217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456851,
+        "num": 456851,
+        "word": "赵露思给韩安冉发的语音",
+        "onboard_time": 1730564539,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404449,
+        "num": 404449,
+        "word": "学校回应姜某及其老师初赛违规",
+        "onboard_time": 1730601259,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 365567,
+        "num": 365567,
+        "word": "以爱为营",
+        "onboard_time": 1730607500,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352746,
+        "num": 352746,
+        "word": "前三季度结婚登记同比减少94.3万对",
+        "onboard_time": 1730599278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343517,
+        "num": 343517,
+        "word": "杨紫补偿粉丝机酒损失",
+        "onboard_time": 1730606181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389268,
+        "num": 342344,
+        "word": "赵露思摇来了好多人",
+        "onboard_time": 1730599579,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206453,
+        "num": 338596,
+        "word": "张艺兴演唱会玩梗",
+        "onboard_time": 1730608100,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336324,
+        "num": 336324,
+        "word": "时代少年团出道五周年演唱会",
+        "onboard_time": 1730605160,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331798,
+        "num": 331798,
+        "word": "97岁妻子化妆烫发看望98岁丈夫",
+        "onboard_time": 1730605220,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303126,
+        "num": 303126,
+        "word": "Doinb准备办退役仪式",
+        "onboard_time": 1730604378,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290188,
+        "num": 290188,
+        "word": "瑞士卷",
+        "onboard_time": 1730597358,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258169,
+        "num": 258169,
+        "word": "婴儿出生不满3天被装塑料袋遗弃",
+        "onboard_time": 1730607680,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237726,
+        "num": 237726,
+        "word": "On失误",
+        "onboard_time": 1730571135,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217212,
+        "num": 217212,
+        "word": "郑钦文忘记比分擦手准备再战",
+        "onboard_time": 1730604320,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212636,
+        "num": 212636,
+        "word": "马雪阳当爸",
+        "onboard_time": 1730604020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209451,
+        "num": 209451,
+        "word": "Bin回应不敌T1",
+        "onboard_time": 1730604320,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207471,
+        "num": 207471,
+        "word": "BLG对战T1",
+        "onboard_time": 1730555238,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188867,
+        "num": 188867,
+        "word": "严浩翔 切勿掉入诈骗陷阱",
+        "onboard_time": 1730607500,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150541,
+        "num": 186475,
+        "word": "强冷空气今天到货",
+        "onboard_time": 1730593097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19746,
+        "num": 185389,
+        "word": "玛格特罗比生子",
+        "onboard_time": 1730607561,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206304,
+        "num": 185298,
+        "word": "女子新家被他人当宾馆开party",
+        "onboard_time": 1730595440,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185141,
+        "num": 185141,
+        "word": "BLG原班人马再战一年可能性多大",
+        "onboard_time": 1730604378,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171175,
+        "num": 171175,
+        "word": "王楚钦王曼昱冠军赛合影",
+        "onboard_time": 1730600779,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169111,
+        "num": 169111,
+        "word": "没认出这是小巷人家的姑姑",
+        "onboard_time": 1730604141,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167598,
+        "num": 167598,
+        "word": "永夜星河双榜TOP1",
+        "onboard_time": 1730605519,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165840,
+        "num": 165840,
+        "word": "刘德华演出唱中国人遭台政客挑刺",
+        "onboard_time": 1730606181,
+        "rank": 36,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 159485,
+        "num": 159485,
+        "word": "西北岁月定档",
+        "onboard_time": 1730604080,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 152048,
+        "word": "男子入住机场酒店捡空姐丝袜",
+        "onboard_time": 1730604561,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143137,
+        "num": 143137,
+        "word": "财务与会计",
+        "onboard_time": 1730605698,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135549,
+        "num": 135549,
+        "word": "涟水中专教师王某某被诫勉谈话",
+        "onboard_time": 1730606541,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134418,
+        "num": 134418,
+        "word": "BLG赛后发博",
+        "onboard_time": 1730592557,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133229,
+        "num": 133229,
+        "word": "女子领了一个赠品被骗4万元",
+        "onboard_time": 1730592677,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126911,
+        "num": 126911,
+        "word": "黄圣依是同学中第一个买房的人",
+        "onboard_time": 1730604141,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124629,
+        "num": 124629,
+        "word": "数学竞赛组委会对赛制和管理致歉",
+        "onboard_time": 1730608700,
+        "rank": 44,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 124346,
+        "num": 124346,
+        "word": "迪丽热巴蓝色流光定制裙",
+        "onboard_time": 1730608520,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122806,
+        "num": 122806,
+        "word": "Bin说就差一点点",
+        "onboard_time": 1730597179,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96739,
+        "num": 120740,
+        "word": "睡得晚和睡得少哪个伤害大",
+        "onboard_time": 1730579111,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120649,
+        "num": 120649,
+        "word": "Faker FMVP",
+        "onboard_time": 1730573836,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20543,
+        "num": 109557,
+        "word": "张信哲的新藏品",
+        "onboard_time": 1730608579,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#这篇文章透露了改革的几个重要信号#"
+    }
+  }
+}
