@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730611250523,
+  "endTime": 1730612280687,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2575812,
+      "num": 2575812,
+      "word": "王某某预赛时违规对学生提供帮助",
+      "onboard_time": 1730600600,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2522854,
       "num": 2522854,
       "word": "Faker太猛了",
@@ -89,6 +97,14 @@
       "onboard_time": 1730560582,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1901120,
+      "num": 389402,
+      "word": "奚梦瑶3岁女儿腿长",
+      "onboard_time": 1730610378,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1894102,
@@ -145,14 +161,6 @@
       "onboard_time": 1730573836,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1278493,
-      "num": 387437,
-      "word": "奚梦瑶3岁女儿腿长",
-      "onboard_time": 1730610378,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1087761,
@@ -257,6 +265,14 @@
       "onboard_time": 1730575394,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 667280,
+      "num": 389283,
+      "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
+      "onboard_time": 1730610199,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 664493,
@@ -387,14 +403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 521749,
-      "num": 341079,
-      "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
-      "onboard_time": 1730610199,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517682,
       "num": 587295,
       "word": "没有伤害任何人",
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407783,
+      "num": 470214,
+      "word": "97岁妻子化妆烫发看望98岁丈夫",
+      "onboard_time": 1730605220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400518,
       "num": 385943,
       "word": "Bin直视镜头",
@@ -579,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331798,
-      "num": 470214,
-      "word": "97岁妻子化妆烫发看望98岁丈夫",
-      "onboard_time": 1730605220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "涟水中专发布情况通报",
@@ -617,6 +625,22 @@
       "onboard_time": 1730561300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303042,
+      "num": 389697,
+      "word": "毛奇严重违纪违法被双开",
+      "onboard_time": 1730610858,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296426,
+      "num": 296426,
+      "word": "学校回应王某某初赛违规",
+      "onboard_time": 1730601259,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 290045,
@@ -723,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243296,
+      "num": 339415,
+      "word": "白鹿郑书意",
+      "onboard_time": 1730610799,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239372,
       "num": 239372,
       "word": "blgon",
@@ -827,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207488,
+      "num": 207488,
+      "word": "婉宁公主的仇被沈言报了",
+      "onboard_time": 1730611518,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206749,
       "num": 206749,
       "word": "税务师",
@@ -920,6 +960,14 @@
       "word": "没认出这是小巷人家的姑姑",
       "onboard_time": 1730604141,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196991,
+      "num": 196991,
+      "word": "电影长安的荔枝官宣海报",
+      "onboard_time": 1730612119,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1019,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181092,
+      "num": 167587,
+      "word": "夺冠瞬间的Faker",
+      "onboard_time": 1730610619,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180454,
       "num": 180454,
       "word": "重庆工商大学通报学生称被恶意阻拦毕业",
@@ -1107,12 +1163,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 162146,
-      "num": 339415,
-      "word": "白鹿郑书意",
-      "onboard_time": 1730610799,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 161851,
+      "num": 552552,
+      "word": "涟水中专教师王某某被诫勉谈话",
+      "onboard_time": 1730606541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161361,
+      "num": 161361,
+      "word": "权志龙居家生活照",
+      "onboard_time": 1730611578,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 161226,
@@ -1163,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157819,
-      "num": 157819,
-      "word": "夺冠瞬间的Faker",
-      "onboard_time": 1730610619,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 152471,
       "num": 152471,
       "word": "睡觉时最伤脊椎的睡姿",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1730604080,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148792,
+      "num": 148792,
+      "word": "邓乐言",
+      "onboard_time": 1730608939,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 147594,
@@ -1235,14 +1299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144929,
-      "num": 144929,
-      "word": "邓乐言",
-      "onboard_time": 1730608939,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 142466,
       "num": 142466,
       "word": "西班牙洪灾致中国公民2遇难2失联",
@@ -1267,20 +1323,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 139840,
+      "num": 304782,
+      "word": "微博视界大会",
+      "onboard_time": 1730611279,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139612,
       "num": 139612,
       "word": "iG夺冠六周年",
       "onboard_time": 1730610439,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137680,
-      "num": 552552,
-      "word": "涟水中专教师王某某被诫勉谈话",
-      "onboard_time": 1730606541,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136036,
@@ -1419,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107106,
+      "num": 107106,
+      "word": "蒋勤勤东京国际电影节路透",
+      "onboard_time": 1730612119,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104183,
       "num": 144643,
       "word": "三把27分钟",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1730594779,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98351,
+      "num": 98351,
+      "word": "焚城",
+      "onboard_time": 1730612238,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 98157,
@@ -1531,14 +1603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76004,
-      "num": 387584,
-      "word": "毛奇严重违纪违法被双开",
-      "onboard_time": 1730610858,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74118,
       "num": 74118,
       "word": "KPL",
@@ -1579,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55785,
+      "num": 622059,
+      "word": "ChinaTravel的含金量还在上升",
+      "onboard_time": 1730610498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48442,
       "num": 48442,
       "word": "神十八航天员完成全部既定任务",
@@ -1611,20 +1683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42372,
+      "num": 333312,
+      "word": "伊能静谈儿子恩利仿妆",
+      "onboard_time": 1730611099,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41653,
       "num": 41653,
       "word": "结婚的意义找到了",
       "onboard_time": 1730586673,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35268,
-      "num": 622059,
-      "word": "ChinaTravel的含金量还在上升",
-      "onboard_time": 1730610498,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32856,
@@ -1753,14 +1825,6 @@
       "onboard_time": 1730579600,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14355,
-      "num": 333312,
-      "word": "伊能静谈儿子恩利仿妆",
-      "onboard_time": 1730611099,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 14210,
