@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730659315358,
+  "endTime": 1730661498823,
   "band_list": [
     {
       "raw_hot": 932837,
@@ -99,8 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343527,
-      "num": 343527,
+      "raw_hot": 343923,
+      "num": 343923,
       "word": "神舟十八号返回舱成功着陆",
       "onboard_time": 1730654892,
       "rank": 9,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44953,
+      "num": 72865,
+      "word": "美国警告伊朗不要再袭击以色列",
+      "onboard_time": 1730658611,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42776,
       "num": 50651,
       "word": "大梦归离",
@@ -523,12 +531,44 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 29283,
+      "num": 29283,
+      "word": "中国首位累计飞行超1年的航天员",
+      "onboard_time": 1730660292,
+      "rank": 23,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 28140,
+      "num": 28140,
+      "word": "叶光富说中国航天的纪录将很快刷新",
+      "onboard_time": 1730660292,
+      "rank": 29,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 27180,
+      "num": 27180,
+      "word": "张凌赫发文虞书欣永夜星河",
+      "onboard_time": 1730661311,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26456,
       "num": 77833,
       "word": "这波夜骑大学生开封出招接住了",
       "onboard_time": 1730653575,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24583,
+      "num": 24583,
+      "word": "黄磊回应资源背景争议",
+      "onboard_time": 1730660111,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 23157,
@@ -547,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14189,
-      "num": 72865,
-      "word": "美国警告伊朗不要再袭击以色列",
-      "onboard_time": 1730658611,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 15282,
+      "num": 32629,
+      "word": "神十八近半年太空之旅结束",
+      "onboard_time": 1730659213,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13658,
@@ -571,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12012,
-      "num": 32629,
-      "word": "神十八近半年太空之旅结束",
-      "onboard_time": 1730659213,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 6592,
+      "num": 99060,
+      "word": "文化中国行看打开ChinaTravel的N种方式",
+      "onboard_time": 1730639180,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

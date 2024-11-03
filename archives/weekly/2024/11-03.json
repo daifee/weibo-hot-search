@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730659315358,
+  "endTime": 1730661498823,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -1115,8 +1115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343527,
-      "num": 343527,
+      "raw_hot": 343923,
+      "num": 343923,
       "word": "神舟十八号返回舱成功着陆",
       "onboard_time": 1730654892,
       "rank": 9,
@@ -3339,6 +3339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44953,
+      "num": 72865,
+      "word": "美国警告伊朗不要再袭击以色列",
+      "onboard_time": 1730658611,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42854,
       "num": 148543,
       "word": "煤气爆燃烧伤妈妈手指可以动了",
@@ -3467,12 +3475,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29283,
+      "num": 29283,
+      "word": "中国首位累计飞行超1年的航天员",
+      "onboard_time": 1730660292,
+      "rank": 23,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 28140,
+      "num": 28140,
+      "word": "叶光富说中国航天的纪录将很快刷新",
+      "onboard_time": 1730660292,
+      "rank": 29,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 27950,
       "num": 285112,
       "word": "比便宜京东采销没输过",
       "onboard_time": 1730631199,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27180,
+      "num": 27180,
+      "word": "张凌赫发文虞书欣永夜星河",
+      "onboard_time": 1730661311,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 26456,
@@ -3513,6 +3545,14 @@
       "onboard_time": 1730608579,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24583,
+      "num": 24583,
+      "word": "黄磊回应资源背景争议",
+      "onboard_time": 1730660111,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 24448,
@@ -3683,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15282,
+      "num": 32629,
+      "word": "神十八近半年太空之旅结束",
+      "onboard_time": 1730659213,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15159,
       "num": 38995,
       "word": "小伙剪掉留五年的长发捐给患癌儿童",
@@ -3705,14 +3753,6 @@
       "onboard_time": 1730589615,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14189,
-      "num": 72865,
-      "word": "美国警告伊朗不要再袭击以色列",
-      "onboard_time": 1730658611,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 13957,
@@ -3747,14 +3787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12012,
-      "num": 32629,
-      "word": "神十八近半年太空之旅结束",
-      "onboard_time": 1730659213,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11938,
       "num": 225668,
       "word": "今日北京中南部地区能见度不足500米",
@@ -3769,6 +3801,14 @@
       "onboard_time": 1730577793,
       "rank": 20,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 6592,
+      "num": 99060,
+      "word": "文化中国行看打开ChinaTravel的N种方式",
+      "onboard_time": 1730639180,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
