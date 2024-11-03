@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730648153961,
+  "endTime": 1730651154035,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846567,
+      "num": 846567,
+      "word": "孙滢皓坐了导师的位置",
+      "onboard_time": 1730648239,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 788636,
       "num": 788636,
       "word": "瑞士卷",
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552446,
+      "num": 639973,
+      "word": "孙颖莎 欧扎克",
+      "onboard_time": 1730629040,
+      "rank": 45,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 541268,
       "num": 637030,
       "word": "永夜星河第七集 梦回苍兰诀",
@@ -987,14 +1003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 392115,
-      "num": 639973,
-      "word": "孙颖莎 欧扎克",
-      "onboard_time": 1730629040,
-      "rank": 45,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 390838,
       "num": 390838,
       "word": "乔任梁",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1730643201,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293033,
+      "num": 273992,
+      "word": "李行亮买青团细节",
+      "onboard_time": 1730648119,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 290045,
@@ -1787,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197368,
+      "num": 231058,
+      "word": "西班牙国王被扔泥巴",
+      "onboard_time": 1730649739,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197028,
       "num": 238174,
       "word": "没认出这是小巷人家的姑姑",
@@ -2011,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174781,
+      "num": 174781,
+      "word": "陈都灵 潇因",
+      "onboard_time": 1730648599,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174650,
       "num": 244114,
       "word": "直击东风着陆场",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1730616739,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164818,
+      "num": 164818,
+      "word": "小巷人家 晓庆衫",
+      "onboard_time": 1730647940,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 164626,
@@ -2851,22 +2891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112604,
-      "num": 112604,
-      "word": "小巷人家 晓庆衫",
-      "onboard_time": 1730647940,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 109142,
-      "num": 109142,
-      "word": "李行亮买青团细节",
-      "onboard_time": 1730648119,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109081,
       "num": 292924,
       "word": "山东一银行无障碍通道被吐槽有障碍",
@@ -2979,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97817,
+      "num": 195641,
+      "word": "郑州大学生返程高铁站睡成一片",
+      "onboard_time": 1730648059,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97791,
       "num": 97791,
       "word": "你好星期六下期是大梦归离",
@@ -3008,6 +3040,14 @@
       "word": "山东兰陵铁矿事故已致3人死亡",
       "onboard_time": 1730565858,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88574,
+      "num": 276864,
+      "word": "被裁后跟公司死磕到底的人",
+      "onboard_time": 1730647879,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3129,14 +3169,6 @@
       "onboard_time": 1730636298,
       "rank": 19,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 64900,
-      "num": 195641,
-      "word": "郑州大学生返程高铁站睡成一片",
-      "onboard_time": 1730648059,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64884,
@@ -3307,14 +3339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33536,
-      "num": 276864,
-      "word": "被裁后跟公司死磕到底的人",
-      "onboard_time": 1730647879,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32856,
       "num": 4357457,
       "word": "C919和ARJ21首次双机编队飞行",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1730631199,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27196,
+      "num": 278865,
+      "word": "迎接叶光富李聪李广苏回家",
+      "onboard_time": 1730650398,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25760,
@@ -3417,6 +3449,14 @@
       "onboard_time": 1730568376,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21809,
+      "num": 71087,
+      "word": "美国向中东增派的B52可搭载核武",
+      "onboard_time": 1730650817,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 20078,
