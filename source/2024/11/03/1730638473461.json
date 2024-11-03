@@ -1,0 +1,410 @@
+{
+  "runTime": 1730638473461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 919659,
+        "num": 1147145,
+        "word": "花少4个人吃9人餐事情始末",
+        "onboard_time": 1730625079,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643066,
+        "num": 643066,
+        "word": "苏州一小区给业主分红户均分到4位数",
+        "onboard_time": 1730634979,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37150,
+        "num": 642829,
+        "word": "太空水稻迎来大丰收",
+        "onboard_time": 1730620937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078919,
+        "num": 641577,
+        "word": "演技整容",
+        "onboard_time": 1730634679,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321831,
+        "num": 639973,
+        "word": "孙颖莎 欧扎克",
+        "onboard_time": 1730629040,
+        "rank": 4,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 407859,
+        "num": 637804,
+        "word": "死亡游戏再现校园",
+        "onboard_time": 1730630538,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503899,
+        "num": 637030,
+        "word": "永夜星河第七集 梦回苍兰诀",
+        "onboard_time": 1730636718,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376489,
+        "num": 636151,
+        "word": "王心凌方称已按要求唱满四首歌",
+        "onboard_time": 1730630958,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352191,
+        "num": 634925,
+        "word": "美国大选前夕更多富人计划离开美国",
+        "onboard_time": 1730626157,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174725,
+        "num": 633443,
+        "word": "死亡游戏流行校园真的会致死",
+        "onboard_time": 1730636538,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1428738,
+        "num": 631527,
+        "word": "丁禹兮 毛毛姐",
+        "onboard_time": 1730635939,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684441,
+        "num": 629615,
+        "word": "烧伤妈妈说不想再住原来的房子",
+        "onboard_time": 1730629040,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629518,
+        "num": 629518,
+        "word": "95四小花",
+        "onboard_time": 1730633179,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589908,
+        "num": 589908,
+        "word": "秋瓷炫亲公公脸颊",
+        "onboard_time": 1730633420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69500,
+        "num": 578601,
+        "word": "欣小萌超级变变变出天猫红包",
+        "onboard_time": 1730635218,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 572652,
+        "num": 572652,
+        "word": "赵露思回应和刘梓晨长得像",
+        "onboard_time": 1730620999,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447805,
+        "num": 447805,
+        "word": "毛奇与他人发生不正当性关系",
+        "onboard_time": 1730623759,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422655,
+        "num": 422655,
+        "word": "吴露可逃",
+        "onboard_time": 1730623819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340423,
+        "num": 340423,
+        "word": "于文文回应用小号",
+        "onboard_time": 1730635939,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65916,
+        "num": 330128,
+        "word": "任敏发长文告别锦绣安宁",
+        "onboard_time": 1730636298,
+        "rank": 19,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 260242,
+        "num": 323989,
+        "word": "哈尔滨保安说在东北丢不了孩子",
+        "onboard_time": 1730624478,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429367,
+        "num": 323843,
+        "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+        "onboard_time": 1730637438,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323465,
+        "num": 323465,
+        "word": "男子幼儿园按住男孩教唆女孩踢打",
+        "onboard_time": 1730630899,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275144,
+        "num": 275144,
+        "word": "王一栩笑了",
+        "onboard_time": 1730632817,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268774,
+        "num": 268774,
+        "word": "T1夺冠后的LPL解说台",
+        "onboard_time": 1730630658,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266899,
+        "num": 266899,
+        "word": "大梦归离好虐",
+        "onboard_time": 1730634920,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222090,
+        "num": 222090,
+        "word": "奚梦瑶3岁女儿腿长",
+        "onboard_time": 1730610378,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218604,
+        "num": 218604,
+        "word": "惠英红 中式吸血鬼",
+        "onboard_time": 1730635098,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208863,
+        "num": 208863,
+        "word": "上海迪士尼疑老太带孙插队被怒吼",
+        "onboard_time": 1730637978,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200942,
+        "num": 200942,
+        "word": "郑在玹寸头",
+        "onboard_time": 1730637919,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200928,
+        "num": 200928,
+        "word": "死亡游戏再现校园严重可窒息",
+        "onboard_time": 1730623158,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194433,
+        "num": 194433,
+        "word": "很多人的臀肌其实已经失忆",
+        "onboard_time": 1730635878,
+        "rank": 31,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 188636,
+        "num": 188636,
+        "word": "孙颖莎24岁健康涨球",
+        "onboard_time": 1730618119,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186612,
+        "num": 186612,
+        "word": "王一栩救星",
+        "onboard_time": 1730637738,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182434,
+        "num": 182434,
+        "word": "G2夺冠",
+        "onboard_time": 1730638039,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174907,
+        "num": 174907,
+        "word": "贵州一个村种了近20种辣椒",
+        "onboard_time": 1730635878,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169827,
+        "num": 169827,
+        "word": "三个月把臭水沟打造成瀑布",
+        "onboard_time": 1730629879,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157463,
+        "num": 157463,
+        "word": "于正白鹿合照",
+        "onboard_time": 1730634319,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131538,
+        "num": 154963,
+        "word": "神舟十八号与空间站组合体成功分离",
+        "onboard_time": 1730636419,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154794,
+        "num": 154794,
+        "word": "隐形战机苏57降落太原",
+        "onboard_time": 1730624538,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 149367,
+        "num": 149367,
+        "word": "永夜星河热度",
+        "onboard_time": 1730633778,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145416,
+        "num": 145416,
+        "word": "张凌赫送婚礼祝福",
+        "onboard_time": 1730635578,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142534,
+        "num": 142534,
+        "word": "蒲熠星音乐节",
+        "onboard_time": 1730637320,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139447,
+        "num": 139447,
+        "word": "郭艾伦领取冠军戒指",
+        "onboard_time": 1730633838,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132504,
+        "num": 132504,
+        "word": "BLG全球战力榜第一",
+        "onboard_time": 1730624658,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127947,
+        "num": 127947,
+        "word": "女友被抓转1万8打点等1年也没出狱",
+        "onboard_time": 1730630359,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127550,
+        "num": 127550,
+        "word": "舆论不能捧杀完就棒杀",
+        "onboard_time": 1730638219,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118643,
+        "num": 118643,
+        "word": "越来越多的美国富人计划离开美国",
+        "onboard_time": 1730638399,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115754,
+        "num": 115754,
+        "word": "神十八顺利撤离空间站组合体",
+        "onboard_time": 1730628137,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13755,
+        "num": 115742,
+        "word": "第一视角带你沉浸式体验北马",
+        "onboard_time": 1730637257,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是增强国际经贸活力的重要动力#"
+    }
+  }
+}
