@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730612280687,
+  "endTime": 1730615485508,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1448422,
+      "num": 1448422,
+      "word": "张凌赫坐车看虞书欣永夜星河",
+      "onboard_time": 1730613079,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1285632,
       "num": 1285632,
       "word": "Faker LPL无法逾越的大山",
@@ -209,6 +217,22 @@
       "onboard_time": 1730558300,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 884461,
+      "num": 884461,
+      "word": "毛奇严重违纪违法被双开",
+      "onboard_time": 1730610858,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 816259,
+      "num": 348794,
+      "word": "特朗普被马斯克通知或遭暗杀",
+      "onboard_time": 1730613918,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 788636,
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403439,
+      "num": 403439,
+      "word": "学校回应王某某初赛违规",
+      "onboard_time": 1730601259,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 400518,
       "num": 385943,
       "word": "Bin直视镜头",
@@ -587,11 +619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348988,
+      "num": 348988,
+      "word": "周深把自己反锁在了卫生间",
+      "onboard_time": 1730612658,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
       "onboard_time": 1730549839,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333318,
+      "num": 333318,
+      "word": "欣诚则凌",
+      "onboard_time": 1730614639,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -625,22 +673,6 @@
       "onboard_time": 1730561300,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303042,
-      "num": 389697,
-      "word": "毛奇严重违纪违法被双开",
-      "onboard_time": 1730610858,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296426,
-      "num": 296426,
-      "word": "学校回应王某某初赛违规",
-      "onboard_time": 1730601259,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 290045,
@@ -731,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250832,
+      "num": 250832,
+      "word": "偶遇黄圣依看房",
+      "onboard_time": 1730614037,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247173,
       "num": 683096,
       "word": "米勒",
@@ -795,12 +835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228901,
+      "num": 228901,
+      "word": "小伙想花30元理发结果花了2万多",
+      "onboard_time": 1730613559,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225074,
       "num": 225074,
       "word": "BLG on",
       "onboard_time": 1730572820,
       "rank": 31,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 225062,
+      "num": 348919,
+      "word": "广州大学食堂被曝售卖过期食品",
+      "onboard_time": 1730612540,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220435,
@@ -881,6 +937,22 @@
       "onboard_time": 1730608100,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205518,
+      "num": 205518,
+      "word": "刘宇宁演技",
+      "onboard_time": 1730614280,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205383,
+      "num": 205383,
+      "word": "阿里全球数学赛获奖者2人来自中学",
+      "onboard_time": 1730612838,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204805,
@@ -1083,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176891,
+      "num": 176891,
+      "word": "凌妙妙 抹水乳",
+      "onboard_time": 1730613618,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176450,
       "num": 280661,
       "word": "孔雪儿在看凌妙妙闯关",
@@ -1120,6 +1200,14 @@
       "word": "Bin说就差一点点",
       "onboard_time": 1730597179,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 166636,
+      "num": 166636,
+      "word": "Uzi说洛没用",
+      "onboard_time": 1730612898,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1225,6 +1313,14 @@
       "onboard_time": 1730604141,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152519,
+      "num": 152519,
+      "word": "数学竞赛违规学生百科介绍被多平台删除",
+      "onboard_time": 1730614818,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152471,
@@ -1339,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139466,
+      "num": 139466,
+      "word": "微软宣布将终止对Win10支持",
+      "onboard_time": 1730614037,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136036,
       "num": 136036,
       "word": "全球数学竞赛获奖者超4成来自北大",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1730566580,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133440,
+      "num": 133440,
+      "word": "孙丞潇和李晨说话紧张到结巴",
+      "onboard_time": 1730615119,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 131364,
@@ -1403,12 +1515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126805,
+      "num": 126805,
+      "word": "白敬亭王安宇像极了减肥时的我",
+      "onboard_time": 1730614218,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124629,
       "num": 124629,
       "word": "数学竞赛组委会对赛制和管理致歉",
       "onboard_time": 1730608700,
       "rank": 44,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 124544,
+      "num": 124544,
+      "word": "用三折叠打开死侍与金刚狼",
+      "onboard_time": 1730614999,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 123380,
@@ -1471,6 +1599,14 @@
       "num": 113165,
       "word": "导游误把乙二醇当锅底游客吃中毒",
       "onboard_time": 1730546598,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107434,
+      "num": 107434,
+      "word": "警方通报私人影院违法活动",
+      "onboard_time": 1730615359,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -1635,20 +1771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63443,
+      "num": 699074,
+      "word": "ChinaTravel的含金量还在上升",
+      "onboard_time": 1730610498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56244,
       "num": 56244,
       "word": "永夜星河 亲情刀",
       "onboard_time": 1730545098,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55785,
-      "num": 622059,
-      "word": "ChinaTravel的含金量还在上升",
-      "onboard_time": 1730610498,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48442,
@@ -1697,6 +1833,14 @@
       "onboard_time": 1730586673,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39300,
+      "num": 337471,
+      "word": "毛奇大搞权权交易权钱交易",
+      "onboard_time": 1730614037,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32856,
@@ -1873,6 +2017,9 @@
     },
     {
       "word": "#让人民群众在城市有获得感有幸福感#"
+    },
+    {
+      "word": "#人民日报连发4篇重磅评论#"
     }
   ]
 }
