@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730638473461,
+  "endTime": 1730640289807,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1111389,
+      "num": 555473,
+      "word": "刘宇宁也想转发赵露思微博",
+      "onboard_time": 1730638639,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1087761,
       "num": 1087761,
       "word": "BLG赛点",
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 937120,
+      "num": 530884,
+      "word": "上海迪士尼疑老太带孙插队被怒吼",
+      "onboard_time": 1730637978,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 891722,
       "num": 1142675,
       "word": "周深把自己反锁在了卫生间",
@@ -371,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 700428,
+      "num": 633443,
+      "word": "死亡游戏流行校园真的会致死",
+      "onboard_time": 1730636538,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 695039,
       "num": 300874,
       "word": "死亡游戏再现校园严重可窒息",
@@ -432,6 +456,14 @@
       "word": "苏州一小区给业主分红户均分到4位数",
       "onboard_time": 1730634979,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635786,
+      "num": 323843,
+      "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+      "onboard_time": 1730637438,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -579,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541268,
+      "num": 637030,
+      "word": "永夜星河第七集 梦回苍兰诀",
+      "onboard_time": 1730636718,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537332,
       "num": 537332,
       "word": "Faker世界赛500杀",
@@ -617,14 +657,6 @@
       "onboard_time": 1730613559,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503899,
-      "num": 637030,
-      "word": "永夜星河第七集 梦回苍兰诀",
-      "onboard_time": 1730636718,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 503363,
@@ -753,14 +785,6 @@
       "onboard_time": 1730574376,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 429367,
-      "num": 323843,
-      "word": "外籍男子在香港持刀抢劫警长被捅5刀",
-      "onboard_time": 1730637438,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427687,
@@ -979,12 +1003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317433,
+      "num": 282562,
+      "word": "王心凌发文回应",
+      "onboard_time": 1730639478,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317228,
       "num": 317228,
       "word": "5辆车同步掉头的新型通道你会开吗",
       "onboard_time": 1730623039,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317166,
+      "num": 317166,
+      "word": "舆论不能捧杀完就棒杀",
+      "onboard_time": 1730638219,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 316176,
@@ -1163,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249346,
+      "num": 249346,
+      "word": "很多人的臀肌其实已经失忆",
+      "onboard_time": 1730635878,
+      "rank": 26,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 247663,
       "num": 247663,
       "word": "女友被抓转1万8打点等1年也没出狱",
@@ -1257,6 +1305,22 @@
       "onboard_time": 1730594419,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230753,
+      "num": 230753,
+      "word": "王一栩救星",
+      "onboard_time": 1730637738,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229938,
+      "num": 229938,
+      "word": "郑在玹寸头",
+      "onboard_time": 1730637919,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 225074,
@@ -1363,14 +1427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208863,
-      "num": 208863,
-      "word": "上海迪士尼疑老太带孙插队被怒吼",
-      "onboard_time": 1730637978,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207488,
       "num": 207488,
       "word": "婉宁公主的仇被沈言报了",
@@ -1467,6 +1523,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 202733,
+      "num": 202733,
+      "word": "eStar破BO7最快记录",
+      "onboard_time": 1730640260,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202475,
       "num": 202475,
       "word": "关谷悠悠豆角睡衣",
@@ -1489,22 +1553,6 @@
       "onboard_time": 1730573357,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201815,
-      "num": 201815,
-      "word": "很多人的臀肌其实已经失忆",
-      "onboard_time": 1730635878,
-      "rank": 26,
-      "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 200942,
-      "num": 200942,
-      "word": "郑在玹寸头",
-      "onboard_time": 1730637919,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 200349,
@@ -1643,6 +1691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191385,
+      "num": 191385,
+      "word": "越来越多的美国富人计划离开美国",
+      "onboard_time": 1730638399,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 189212,
       "num": 189212,
       "word": "刘德华演出唱中国人遭台政客挑刺",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1730607500,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186612,
-      "num": 186612,
-      "word": "王一栩救星",
-      "onboard_time": 1730637738,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 186093,
@@ -1745,14 +1793,6 @@
       "onboard_time": 1730619078,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178432,
-      "num": 633443,
-      "word": "死亡游戏流行校园真的会致死",
-      "onboard_time": 1730636538,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176891,
@@ -1979,6 +2019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158878,
+      "num": 158878,
+      "word": "锦绣安宁结局藏在片头里",
+      "onboard_time": 1730638459,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158684,
       "num": 158684,
       "word": "金晨 喜剧人",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1730635578,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153536,
+      "num": 153536,
+      "word": "永夜星河热度",
+      "onboard_time": 1730633778,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152741,
@@ -2051,20 +2107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150780,
+      "num": 536410,
+      "word": "美国大选已花费14700000000美元",
+      "onboard_time": 1730639000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150276,
+      "num": 150276,
+      "word": "第一个从郑州夜骑开封的女生发声",
+      "onboard_time": 1730639960,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149396,
       "num": 149396,
       "word": "勇士vs火箭",
       "onboard_time": 1730604080,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149367,
-      "num": 149367,
-      "word": "永夜星河热度",
-      "onboard_time": 1730633778,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 149245,
@@ -2089,6 +2153,14 @@
       "onboard_time": 1730575574,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147099,
+      "num": 147099,
+      "word": "权志龙Power舞蹈版",
+      "onboard_time": 1730639000,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 145901,
@@ -2136,6 +2208,14 @@
       "word": "永夜星河直播",
       "onboard_time": 1730628678,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143144,
+      "num": 143144,
+      "word": "永夜星河第八集 好嗑",
+      "onboard_time": 1730640260,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2235,6 +2315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135034,
+      "num": 135034,
+      "word": "大梦归离 亲情刀",
+      "onboard_time": 1730639839,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134749,
       "num": 463156,
       "word": "烧伤妈妈手指微动情况好转",
@@ -2313,14 +2401,6 @@
       "onboard_time": 1730626338,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127550,
-      "num": 127550,
-      "word": "舆论不能捧杀完就棒杀",
-      "onboard_time": 1730638219,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 127522,
@@ -2459,12 +2539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118643,
-      "num": 118643,
-      "word": "越来越多的美国富人计划离开美国",
-      "onboard_time": 1730638399,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "虞书欣扛剧能力",
+      "onboard_time": 1730640139,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 116891,
@@ -2601,6 +2681,14 @@
       "onboard_time": 1730594779,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99935,
+      "num": 559733,
+      "word": "欢迎神十八回家",
+      "onboard_time": 1730639419,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98445,
@@ -2939,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30208,
+      "num": 286381,
+      "word": "黄磊回应好为人师爱说教",
+      "onboard_time": 1730639779,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30081,
       "num": 301816,
       "word": "内娱养成系最后的希望",
@@ -2961,6 +3057,14 @@
       "onboard_time": 1730572222,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25369,
+      "num": 522209,
+      "word": "拘禁女子5年的男子曾乱行医治死人",
+      "onboard_time": 1730639238,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25348,
@@ -3202,6 +3306,9 @@
     },
     {
       "word": "#开放合作是增强国际经贸活力的重要动力#"
+    },
+    {
+      "word": "#中国市场这么大欢迎大家都来看看#"
     }
   ]
 }
