@@ -1,7 +1,15 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730599817201,
+  "endTime": 1730602732912,
   "band_list": [
+    {
+      "raw_hot": 15388345,
+      "num": 15388345,
+      "word": "姜萍数学竞赛系老师提供帮助",
+      "onboard_time": 1730600600,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 10436342,
       "num": 10436342,
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1894102,
+      "num": 420868,
+      "word": "阿里巴巴全球数学竞赛获奖名单公布",
+      "onboard_time": 1730600600,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1861305,
       "num": 531657,
       "word": "摇人",
@@ -217,6 +233,14 @@
       "onboard_time": 1730428457,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1752411,
+      "num": 418459,
+      "word": "学校回应姜萍及其老师初赛违规",
+      "onboard_time": 1730601259,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1712415,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 1479779,
-      "num": 401482,
+      "num": 412537,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
@@ -321,6 +345,14 @@
       "onboard_time": 1730430739,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1439203,
+      "num": 1439203,
+      "word": "王某某为姜萍竞赛提供帮助被处分",
+      "onboard_time": 1730601740,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1365668,
@@ -729,6 +761,14 @@
       "onboard_time": 1730536398,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788636,
+      "num": 788636,
+      "word": "瑞士卷",
+      "onboard_time": 1730597358,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 786022,
@@ -1147,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592708,
+      "num": 592708,
+      "word": "赵露思摇来了好多人",
+      "onboard_time": 1730599579,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 592231,
       "num": 592231,
       "word": "Uzi捧杯图P好了",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1730553261,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564865,
-      "num": 564865,
-      "word": "赵露思摇来了好多人",
-      "onboard_time": 1730599579,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 559161,
@@ -1651,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438506,
+      "num": 438506,
+      "word": "前三季度结婚登记同比减少94.3万对",
+      "onboard_time": 1730599278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431186,
       "num": 431186,
       "word": "Zeus就这样穿着V5出来了",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1730518877,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407518,
-      "num": 407518,
-      "word": "瑞士卷",
-      "onboard_time": 1730597358,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 406258,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1730470820,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 323948,
+      "num": 323948,
+      "word": "涟水中专发布情况通报",
+      "onboard_time": 1730600898,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 323566,
@@ -2627,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253380,
+      "num": 253380,
+      "word": "王楚钦王曼昱冠军赛合影",
+      "onboard_time": 1730600779,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252796,
       "num": 252796,
       "word": "小巷人家",
@@ -2681,6 +2737,14 @@
       "onboard_time": 1730442739,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249565,
+      "num": 427099,
+      "word": "姜萍初赛成绩违反规则",
+      "onboard_time": 1730601199,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249444,
@@ -2913,6 +2977,14 @@
       "onboard_time": 1730534837,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220435,
+      "num": 220435,
+      "word": "林孝埈受伤",
+      "onboard_time": 1730600177,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 219648,
@@ -3467,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189173,
+      "num": 172125,
+      "word": "阿里巴巴就姜萍事件道歉",
+      "onboard_time": 1730602700,
+      "rank": 30,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 188529,
       "num": 188529,
       "word": "WTT法兰克福冠军赛男女单签表",
@@ -3651,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179941,
+      "num": 179941,
+      "word": "真的建议大家多做腹式呼吸",
+      "onboard_time": 1730601021,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 179888,
       "num": 220768,
       "word": "女生买鞋被店家索要试鞋费",
@@ -3729,6 +3817,14 @@
       "onboard_time": 1730441659,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176450,
+      "num": 280661,
+      "word": "孔雪儿在看凌妙妙闯关",
+      "onboard_time": 1730599458,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 176436,
@@ -4081,6 +4177,14 @@
       "onboard_time": 1730471120,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162497,
+      "num": 162497,
+      "word": "西班牙强降雨已致205人死亡",
+      "onboard_time": 1730599219,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 162294,
@@ -5451,14 +5555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114907,
-      "num": 114907,
-      "word": "孔雪儿在看凌妙妙闯关",
-      "onboard_time": 1730599458,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114601,
       "num": 114601,
       "word": "明起强冷空气将驱散雾霾",
@@ -5987,14 +6083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88776,
-      "num": 405992,
-      "word": "前三季度结婚登记同比减少94.3万对",
-      "onboard_time": 1730599278,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88246,
       "num": 88246,
       "word": "网红博主拍视频挑战吃猪饲料",
@@ -6161,6 +6249,14 @@
       "onboard_time": 1730542578,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78718,
+      "num": 111694,
+      "word": "王源林俊杰合唱流星也为你落下来了",
+      "onboard_time": 1730600898,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 78645,
