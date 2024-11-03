@@ -1,10 +1,10 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730602732912,
+  "endTime": 1730603290506,
   "band_list": [
     {
-      "raw_hot": 15388345,
-      "num": 15388345,
+      "raw_hot": 15722412,
+      "num": 15722412,
       "word": "姜萍数学竞赛系老师提供帮助",
       "onboard_time": 1730600600,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2190955,
+      "num": 2190955,
+      "word": "王某某为姜萍竞赛提供帮助被处分",
+      "onboard_time": 1730601740,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2172668,
       "num": 4202129,
       "word": "薛之谦晒与赵露思聊天记录",
@@ -76,15 +84,15 @@
     },
     {
       "raw_hot": 1894102,
-      "num": 420868,
+      "num": 425220,
       "word": "阿里巴巴全球数学竞赛获奖名单公布",
       "onboard_time": 1730600600,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1752411,
-      "num": 418459,
+      "raw_hot": 1823607,
+      "num": 1823607,
       "word": "学校回应姜萍及其老师初赛违规",
       "onboard_time": 1730601259,
       "rank": 11,
@@ -100,19 +108,11 @@
     },
     {
       "raw_hot": 1479779,
-      "num": 412537,
+      "num": 416205,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1439203,
-      "num": 1439203,
-      "word": "王某某为姜萍竞赛提供帮助被处分",
-      "onboard_time": 1730601740,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1285632,
@@ -251,20 +251,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 599687,
+      "num": 599687,
+      "word": "赵露思摇来了好多人",
+      "onboard_time": 1730599579,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596295,
       "num": 596295,
       "word": "BLG 自ban蝎子",
       "onboard_time": 1730571014,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 592708,
-      "num": 592708,
-      "word": "赵露思摇来了好多人",
-      "onboard_time": 1730599579,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 592231,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486928,
+      "num": 486928,
+      "word": "前三季度结婚登记同比减少94.3万对",
+      "onboard_time": 1730599278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482842,
       "num": 367897,
       "word": "小伙称按摩后禁不住怂恿花一万五",
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438506,
-      "num": 438506,
-      "word": "前三季度结婚登记同比减少94.3万对",
-      "onboard_time": 1730599278,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431186,
       "num": 431186,
       "word": "Zeus就这样穿着V5出来了",
@@ -401,6 +401,14 @@
       "onboard_time": 1730567118,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384830,
+      "num": 427099,
+      "word": "姜萍初赛成绩违反规则",
+      "onboard_time": 1730601199,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381797,
@@ -523,28 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257922,
-      "num": 257922,
-      "word": "乔任梁离世8年不得安息该适可而止了",
-      "onboard_time": 1730539459,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 253380,
-      "num": 253380,
+      "raw_hot": 260933,
+      "num": 260933,
       "word": "王楚钦王曼昱冠军赛合影",
       "onboard_time": 1730600779,
       "rank": 21,
       "category": "体育"
     },
     {
-      "raw_hot": 249565,
-      "num": 427099,
-      "word": "姜萍初赛成绩违反规则",
-      "onboard_time": 1730601199,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 257922,
+      "num": 257922,
+      "word": "乔任梁离世8年不得安息该适可而止了",
+      "onboard_time": 1730539459,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 247173,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204258,
+      "num": 189488,
+      "word": "阿里巴巴就姜萍事件道歉",
+      "onboard_time": 1730602700,
+      "rank": 30,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 202279,
       "num": 202279,
       "word": "提醒在西班牙中国公民防范灾害",
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194563,
+      "num": 194563,
+      "word": "真的建议大家多做腹式呼吸",
+      "onboard_time": 1730601021,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 193734,
       "num": 563488,
       "word": "私人影院低价吸引顾客到店嫖娼",
@@ -729,14 +745,6 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189173,
-      "num": 172125,
-      "word": "阿里巴巴就姜萍事件道歉",
-      "onboard_time": 1730602700,
-      "rank": 30,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 186093,
@@ -761,14 +769,6 @@
       "onboard_time": 1730559801,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179941,
-      "num": 179941,
-      "word": "真的建议大家多做腹式呼吸",
-      "onboard_time": 1730601021,
-      "rank": 26,
-      "category": "运动健身"
     },
     {
       "raw_hot": 176450,
@@ -1059,8 +1059,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98157,
+      "num": 240298,
+      "word": "Bin 把昨天忘掉",
+      "onboard_time": 1730598137,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98033,
-      "num": 186677,
+      "num": 191666,
       "word": "珠帘玉幕",
       "onboard_time": 1730557341,
       "rank": 28,
@@ -1123,7 +1131,7 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 78718,
+      "raw_hot": 82093,
       "num": 111694,
       "word": "王源林俊杰合唱流星也为你落下来了",
       "onboard_time": 1730600898,
@@ -1179,12 +1187,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48215,
-      "num": 240298,
-      "word": "Bin 把昨天忘掉",
-      "onboard_time": 1730598137,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 45980,
+      "num": 190126,
+      "word": "当地回应村民违建二千平房屋",
+      "onboard_time": 1730600959,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45081,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1730568136,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42854,
+      "num": 148543,
+      "word": "煤气爆燃烧伤妈妈手指可以动了",
+      "onboard_time": 1730603180,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41653,
