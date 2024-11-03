@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730665357435,
+  "endTime": 1730666154518,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -9659,20 +9659,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23121,
+      "num": 23121,
+      "word": "美国B52战略轰炸机抵达中东",
+      "onboard_time": 1730663112,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22823,
       "num": 25023,
       "word": "清澈的爱只为中国",
       "onboard_time": 1730496013,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22713,
-      "num": 22713,
-      "word": "美国B52战略轰炸机抵达中东",
-      "onboard_time": 1730663112,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22694,
@@ -10051,6 +10051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14683,
+      "num": 35097,
+      "word": "轰6K将在第15届中国航展进行静态展示",
+      "onboard_time": 1730664430,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14576,
       "num": 203579,
       "word": "十几批核查组派而不动何谈营商",
@@ -10121,6 +10129,14 @@
       "onboard_time": 1730432538,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13678,
+      "num": 18447,
+      "word": "直击第十五届中国航展",
+      "onboard_time": 1730665511,
+      "rank": 34,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 13488,
@@ -10201,14 +10217,6 @@
       "onboard_time": 1730577793,
       "rank": 20,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 10821,
-      "num": 20745,
-      "word": "轰6K将在第15届中国航展进行静态展示",
-      "onboard_time": 1730664430,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10572,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730665357435,
+  "endTime": 1730666154518,
   "band_list": [
     {
       "raw_hot": 932837,
@@ -579,8 +579,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22713,
-      "num": 22713,
+      "raw_hot": 23121,
+      "num": 23121,
       "word": "美国B52战略轰炸机抵达中东",
       "onboard_time": 1730663112,
       "rank": 24,
@@ -619,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14683,
+      "num": 35097,
+      "word": "轰6K将在第15届中国航展进行静态展示",
+      "onboard_time": 1730664430,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13916,
       "num": 37894,
       "word": "那个天上的四川男人回家了",
@@ -627,20 +635,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13678,
+      "num": 18447,
+      "word": "直击第十五届中国航展",
+      "onboard_time": 1730665511,
+      "rank": 34,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 12720,
       "num": 26062,
       "word": "共赴进博之约",
       "onboard_time": 1730656452,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10821,
-      "num": 20745,
-      "word": "轰6K将在第15届中国航展进行静态展示",
-      "onboard_time": 1730664430,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10215,
