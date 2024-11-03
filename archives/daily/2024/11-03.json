@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730616267842,
+  "endTime": 1730618436739,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -195,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1055760,
+      "num": 1055760,
+      "word": "特朗普被马斯克通知或遭暗杀",
+      "onboard_time": 1730613918,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1053516,
       "num": 968748,
       "word": "Uzi怒喷On",
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 823654,
-      "num": 408337,
-      "word": "特朗普被马斯克通知或遭暗杀",
-      "onboard_time": 1730613918,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 788636,
       "num": 788636,
       "word": "瑞士卷",
@@ -257,6 +257,14 @@
       "onboard_time": 1730564181,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 755362,
+      "num": 755362,
+      "word": "周深把自己反锁在了卫生间",
+      "onboard_time": 1730612658,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 734419,
@@ -289,6 +297,14 @@
       "onboard_time": 1730575394,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 672128,
+      "num": 385111,
+      "word": "刘美含摇了陌生人做搭子看极光",
+      "onboard_time": 1730617039,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 667280,
@@ -427,20 +443,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 520724,
-      "num": 520724,
-      "word": "周深把自己反锁在了卫生间",
-      "onboard_time": 1730612658,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 517682,
       "num": 587295,
       "word": "没有伤害任何人",
       "onboard_time": 1730559680,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 513037,
+      "num": 513037,
+      "word": "小伙想花30元理发结果花了2万多",
+      "onboard_time": 1730613559,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503363,
@@ -539,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408225,
+      "num": 431287,
+      "word": "今年前三季度全国结婚登记474.7万对",
+      "onboard_time": 1730615899,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407783,
       "num": 470214,
       "word": "97岁妻子化妆烫发看望98岁丈夫",
@@ -585,6 +609,14 @@
       "onboard_time": 1730573596,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 381187,
+      "num": 381187,
+      "word": "何炅口才",
+      "onboard_time": 1730616617,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 378284,
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289922,
+      "num": 289922,
+      "word": "刘梓晨安利赵露思新剧",
+      "onboard_time": 1730617878,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289569,
       "num": 454800,
       "word": "On机器人",
@@ -771,12 +811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252372,
-      "num": 252372,
-      "word": "小伙想花30元理发结果花了2万多",
-      "onboard_time": 1730613559,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 254678,
+      "num": 254678,
+      "word": "姿态谈BLG输T1",
+      "onboard_time": 1730616079,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 250832,
@@ -947,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206197,
+      "num": 206197,
+      "word": "警方回应卖40万手表后银行卡被冻结",
+      "onboard_time": 1730616739,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205518,
       "num": 205518,
       "word": "刘宇宁演技",
@@ -1019,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198826,
+      "num": 168490,
+      "word": "央视采访进哀牢山取材的颜料师张俊杰",
+      "onboard_time": 1730616739,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198548,
       "num": 244333,
       "word": "T1扳回一局",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1730601021,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 194522,
-      "num": 431287,
-      "word": "今年前三季度全国结婚登记474.7万对",
-      "onboard_time": 1730615899,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193734,
@@ -1243,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165137,
+      "num": 169098,
+      "word": "丁程鑫姚景元hi6路透",
+      "onboard_time": 1730616739,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164626,
       "num": 164626,
       "word": "交警怒斥家长占道接孩子",
@@ -1371,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152002,
+      "num": 152002,
+      "word": "卢昱晓年代风妆造",
+      "onboard_time": 1730616378,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149396,
       "num": 149396,
       "word": "勇士vs火箭",
@@ -1451,6 +1515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140941,
+      "num": 140941,
+      "word": "看到有人玩这种游戏一定要制止",
+      "onboard_time": 1730616198,
+      "rank": 47,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 139840,
       "num": 304782,
       "word": "微博视界大会",
@@ -1464,14 +1536,6 @@
       "word": "iG夺冠六周年",
       "onboard_time": 1730610439,
       "rank": 40,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 139032,
-      "num": 139032,
-      "word": "姿态谈BLG输T1",
-      "onboard_time": 1730616079,
-      "rank": 39,
       "category": "电竞"
     },
     {
@@ -1529,6 +1593,14 @@
       "onboard_time": 1730559080,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127395,
+      "num": 127395,
+      "word": "中国研制时钟6000万年误差小于1秒",
+      "onboard_time": 1730617398,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127232,
@@ -1611,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119686,
+      "num": 119686,
+      "word": "孙颖莎24岁健康涨球",
+      "onboard_time": 1730618119,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116832,
       "num": 262481,
       "word": "BLG稳住",
@@ -1635,12 +1715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112554,
-      "num": 112554,
-      "word": "看到有人玩这种游戏一定要制止",
-      "onboard_time": 1730616198,
+      "raw_hot": 109078,
+      "num": 109078,
+      "word": "焚城 白宇演技",
+      "onboard_time": 1730618358,
       "rank": 47,
-      "category": "教育,情感"
+      "category": "电影"
     },
     {
       "raw_hot": 107434,
@@ -1811,6 +1891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66975,
+      "num": 384702,
+      "word": "到亲戚家做客被狗咬伤获赔40余万",
+      "onboard_time": 1730617878,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -1828,7 +1916,7 @@
     },
     {
       "raw_hot": 63443,
-      "num": 738563,
+      "num": 977851,
       "word": "ChinaTravel的含金量还在上升",
       "onboard_time": 1730610498,
       "rank": 2,
@@ -1904,6 +1992,14 @@
       "word": "C919和ARJ21首次双机编队飞行",
       "onboard_time": 1730553561,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32710,
+      "num": 388219,
+      "word": "多地出现邮寄黄金诈骗案",
+      "onboard_time": 1730617398,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2001,6 +2097,14 @@
       "onboard_time": 1730582951,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18039,
+      "num": 383179,
+      "word": "北京马拉松氛围太燃了",
+      "onboard_time": 1730617220,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 17521,

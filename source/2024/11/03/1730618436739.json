@@ -1,0 +1,410 @@
+{
+  "runTime": 1730618436739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072767,
+        "num": 1171642,
+        "word": "张凌赫坐车看虞书欣永夜星河",
+        "onboard_time": 1730613079,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1055760,
+        "num": 1055760,
+        "word": "特朗普被马斯克通知或遭暗杀",
+        "onboard_time": 1730613918,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60174,
+        "num": 977851,
+        "word": "ChinaTravel的含金量还在上升",
+        "onboard_time": 1730610498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909932,
+        "num": 909932,
+        "word": "毛奇严重违纪违法被双开",
+        "onboard_time": 1730610858,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755362,
+        "num": 755362,
+        "word": "周深把自己反锁在了卫生间",
+        "onboard_time": 1730612658,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513037,
+        "num": 513037,
+        "word": "小伙想花30元理发结果花了2万多",
+        "onboard_time": 1730613559,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408225,
+        "num": 408225,
+        "word": "今年前三季度全国结婚登记474.7万对",
+        "onboard_time": 1730615899,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402624,
+        "num": 402624,
+        "word": "Uzi怒喷On",
+        "onboard_time": 1730604378,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 388884,
+        "num": 388884,
+        "word": "前三季度结婚登记同比减少94.3万对",
+        "onboard_time": 1730599278,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32710,
+        "num": 388219,
+        "word": "多地出现邮寄黄金诈骗案",
+        "onboard_time": 1730617398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288139,
+        "num": 387790,
+        "word": "奚梦瑶3岁女儿腿长",
+        "onboard_time": 1730610378,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732211,
+        "num": 386149,
+        "word": "阿里巴巴全球数学竞赛获奖名单公布",
+        "onboard_time": 1730600600,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672128,
+        "num": 385111,
+        "word": "刘美含摇了陌生人做搭子看极光",
+        "onboard_time": 1730617039,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66975,
+        "num": 384702,
+        "word": "到亲戚家做客被狗咬伤获赔40余万",
+        "onboard_time": 1730617878,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18039,
+        "num": 383179,
+        "word": "北京马拉松氛围太燃了",
+        "onboard_time": 1730617220,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484104,
+        "num": 382186,
+        "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
+        "onboard_time": 1730610199,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424866,
+        "num": 381596,
+        "word": "王某某预赛时违规对学生提供帮助",
+        "onboard_time": 1730600600,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381187,
+        "num": 381187,
+        "word": "何炅口才",
+        "onboard_time": 1730616617,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333464,
+        "num": 333464,
+        "word": "欣诚则凌",
+        "onboard_time": 1730614639,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324992,
+        "num": 324992,
+        "word": "广州大学食堂被曝售卖过期食品",
+        "onboard_time": 1730612540,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315070,
+        "num": 315070,
+        "word": "学校回应王某某初赛违规",
+        "onboard_time": 1730601259,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311690,
+        "num": 311690,
+        "word": "陈乔恩为乔任梁传言发声",
+        "onboard_time": 1730593217,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289922,
+        "num": 289922,
+        "word": "刘梓晨安利赵露思新剧",
+        "onboard_time": 1730617878,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254678,
+        "num": 254678,
+        "word": "姿态谈BLG输T1",
+        "onboard_time": 1730616079,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234653,
+        "num": 234653,
+        "word": "数学竞赛违规学生百科介绍被多平台删除",
+        "onboard_time": 1730614818,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229709,
+        "num": 229709,
+        "word": "97岁妻子化妆烫发看望98岁丈夫",
+        "onboard_time": 1730605220,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206197,
+        "num": 206197,
+        "word": "警方回应卖40万手表后银行卡被冻结",
+        "onboard_time": 1730616739,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172724,
+        "num": 172724,
+        "word": "刘宇宁演技",
+        "onboard_time": 1730614280,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171636,
+        "num": 171636,
+        "word": "杨紫补偿粉丝机酒损失",
+        "onboard_time": 1730606181,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165137,
+        "num": 169098,
+        "word": "丁程鑫姚景元hi6路透",
+        "onboard_time": 1730616739,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269068,
+        "num": 168943,
+        "word": "赵露思叫鹿晗哥",
+        "onboard_time": 1730610139,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198826,
+        "num": 168490,
+        "word": "央视采访进哀牢山取材的颜料师张俊杰",
+        "onboard_time": 1730616739,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167354,
+        "num": 167354,
+        "word": "瑞士卷",
+        "onboard_time": 1730597358,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153362,
+        "num": 153362,
+        "word": "阿里全球数学赛获奖者2人来自中学",
+        "onboard_time": 1730612838,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152002,
+        "num": 152002,
+        "word": "卢昱晓年代风妆造",
+        "onboard_time": 1730616378,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149708,
+        "num": 149708,
+        "word": "迪丽热巴掏出睫毛夹笑飞了",
+        "onboard_time": 1730604320,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140941,
+        "num": 140941,
+        "word": "看到有人玩这种游戏一定要制止",
+        "onboard_time": 1730616198,
+        "rank": 36,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 140436,
+        "num": 140436,
+        "word": "微软宣布将终止对Win10支持",
+        "onboard_time": 1730614037,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139202,
+        "num": 139202,
+        "word": "婴儿出生不满3天被装塑料袋遗弃",
+        "onboard_time": 1730607680,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128529,
+        "num": 128529,
+        "word": "偶遇黄圣依看房",
+        "onboard_time": 1730614037,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127395,
+        "num": 127395,
+        "word": "中国研制时钟6000万年误差小于1秒",
+        "onboard_time": 1730617398,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126570,
+        "num": 126570,
+        "word": "涟水中专学生决赛未获奖",
+        "onboard_time": 1730615658,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122375,
+        "num": 122375,
+        "word": "T1夺冠",
+        "onboard_time": 1730572162,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120902,
+        "num": 120902,
+        "word": "永夜星河 两个毒唯凑一对",
+        "onboard_time": 1730604080,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119686,
+        "num": 119686,
+        "word": "孙颖莎24岁健康涨球",
+        "onboard_time": 1730618119,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117911,
+        "num": 117911,
+        "word": "以爱为营",
+        "onboard_time": 1730607500,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109694,
+        "num": 109694,
+        "word": "凌妙妙 抹水乳",
+        "onboard_time": 1730613618,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109078,
+        "num": 109078,
+        "word": "焚城 白宇演技",
+        "onboard_time": 1730618358,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108294,
+        "num": 108294,
+        "word": "Uzi说洛没用",
+        "onboard_time": 1730612898,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106757,
+        "num": 106757,
+        "word": "郑钦文忘记比分擦手准备再战",
+        "onboard_time": 1730604320,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让人民群众在城市有获得感有幸福感#"
+    }
+  }
+}
