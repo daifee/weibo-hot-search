@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730661498823,
+  "endTime": 1730662542763,
   "band_list": [
     {
       "raw_hot": 932837,
@@ -451,6 +451,22 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 55048,
+      "num": 39064,
+      "word": "张凌赫发文虞书欣永夜星河",
+      "onboard_time": 1730661311,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54072,
+      "num": 72865,
+      "word": "美国警告伊朗不要再袭击以色列",
+      "onboard_time": 1730658611,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 51049,
       "num": 51049,
       "word": "视频回顾80后乘组太空之旅",
@@ -473,14 +489,6 @@
       "onboard_time": 1730652796,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44953,
-      "num": 72865,
-      "word": "美国警告伊朗不要再袭击以色列",
-      "onboard_time": 1730658611,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 42776,
@@ -523,6 +531,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 34047,
+      "num": 34047,
+      "word": "黄磊回应资源背景争议",
+      "onboard_time": 1730660111,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33708,
       "num": 33708,
       "word": "返回舱舱门打开",
@@ -547,28 +563,12 @@
       "category": "国内时政,社会新闻"
     },
     {
-      "raw_hot": 27180,
-      "num": 27180,
-      "word": "张凌赫发文虞书欣永夜星河",
-      "onboard_time": 1730661311,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26456,
       "num": 77833,
       "word": "这波夜骑大学生开封出招接住了",
       "onboard_time": 1730653575,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24583,
-      "num": 24583,
-      "word": "黄磊回应资源背景争议",
-      "onboard_time": 1730660111,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 23157,
@@ -595,7 +595,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13658,
+      "raw_hot": 13916,
       "num": 37894,
       "word": "那个天上的四川男人回家了",
       "onboard_time": 1730658372,
@@ -611,7 +611,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6592,
+      "raw_hot": 11495,
+      "num": 43314,
+      "word": "男子为让网友点关注谎称孩子丢了",
+      "onboard_time": 1730662212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6651,
       "num": 99060,
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
