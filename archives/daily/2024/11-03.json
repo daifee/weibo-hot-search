@@ -1,11 +1,19 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730603290506,
+  "endTime": 1730604779437,
   "band_list": [
     {
       "raw_hot": 15722412,
       "num": 15722412,
       "word": "姜萍数学竞赛系老师提供帮助",
+      "onboard_time": 1730600600,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10583208,
+      "num": 10583208,
+      "word": "姜某数学竞赛系老师提供帮助",
       "onboard_time": 1730600600,
       "rank": 0,
       "category": "社会新闻"
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1894102,
-      "num": 425220,
+      "num": 832714,
       "word": "阿里巴巴全球数学竞赛获奖名单公布",
       "onboard_time": 1730600600,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1699835,
+      "num": 1699835,
+      "word": "王某某为姜某竞赛提供帮助被处分",
+      "onboard_time": 1730601740,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1674389,
       "num": 1674389,
       "word": "绝境李相赫",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1479779,
-      "num": 416205,
+      "num": 495282,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
@@ -137,6 +153,14 @@
       "onboard_time": 1730565983,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1085930,
+      "num": 517369,
+      "word": "学校回应姜某及其老师初赛违规",
+      "onboard_time": 1730601259,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 1062583,
@@ -211,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 666067,
+      "num": 666067,
+      "word": "迪丽热巴掏出睫毛夹笑飞了",
+      "onboard_time": 1730604320,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664493,
       "num": 1285739,
       "word": "永夜星河",
@@ -251,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 609849,
+      "num": 482752,
+      "word": "Uzi怒喷On",
+      "onboard_time": 1730604378,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 599687,
       "num": 599687,
       "word": "赵露思摇来了好多人",
@@ -281,6 +321,14 @@
       "onboard_time": 1730563223,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 584392,
+      "num": 584392,
+      "word": "前三季度结婚登记同比减少94.3万对",
+      "onboard_time": 1730599278,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 578209,
@@ -331,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 486928,
-      "num": 486928,
-      "word": "前三季度结婚登记同比减少94.3万对",
-      "onboard_time": 1730599278,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482842,
       "num": 367897,
       "word": "小伙称按摩后禁不住怂恿花一万五",
@@ -353,6 +393,14 @@
       "onboard_time": 1730593097,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458173,
+      "num": 458173,
+      "word": "Doinb准备办退役仪式",
+      "onboard_time": 1730604378,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 453124,
@@ -507,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284450,
+      "num": 284450,
+      "word": "王楚钦王曼昱冠军赛合影",
+      "onboard_time": 1730600779,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280492,
       "num": 280492,
       "word": "TES",
@@ -531,11 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260933,
-      "num": 260933,
-      "word": "王楚钦王曼昱冠军赛合影",
-      "onboard_time": 1730600779,
-      "rank": 21,
+      "raw_hot": 263041,
+      "num": 263041,
+      "word": "郑钦文忘记比分擦手准备再战",
+      "onboard_time": 1730604320,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -545,6 +601,22 @@
       "onboard_time": 1730539459,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254813,
+      "num": 254813,
+      "word": "粉笔模考",
+      "onboard_time": 1730604141,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 247811,
+      "num": 247811,
+      "word": "姜某初赛成绩违反规则",
+      "onboard_time": 1730601199,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247173,
@@ -603,6 +675,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 221858,
+      "num": 341268,
+      "word": "永夜星河 两个毒唯凑一对",
+      "onboard_time": 1730604080,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220435,
       "num": 220435,
       "word": "林孝埈受伤",
@@ -627,11 +707,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216295,
+      "num": 340423,
+      "word": "西北岁月定档",
+      "onboard_time": 1730604080,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213351,
       "num": 213351,
       "word": "全华班",
       "onboard_time": 1730562019,
       "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 206271,
+      "num": 188155,
+      "word": "BLG原班人马再战一年可能性多大",
+      "onboard_time": 1730604378,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -697,6 +793,14 @@
       "onboard_time": 1730563163,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197984,
+      "num": 339204,
+      "word": "珠帘玉幕优酷2024最快破万剧集",
+      "onboard_time": 1730604262,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 196930,
@@ -875,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154589,
+      "num": 154589,
+      "word": "Bin回应不敌T1",
+      "onboard_time": 1730604320,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152471,
       "num": 152471,
       "word": "睡觉时最伤脊椎的睡姿",
@@ -891,12 +1003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149396,
+      "num": 149396,
+      "word": "勇士vs火箭",
+      "onboard_time": 1730604080,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "米勒发博",
       "onboard_time": 1730575574,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146570,
+      "num": 524117,
+      "word": "烧伤妈妈哭着说我要回家",
+      "onboard_time": 1730603840,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145756,
@@ -939,6 +1067,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141074,
+      "num": 188255,
+      "word": "没认出这是小巷人家的姑姑",
+      "onboard_time": 1730604141,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135217,
+      "num": 135217,
+      "word": "黄圣依是同学中第一个买房的人",
+      "onboard_time": 1730604141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134001,
       "num": 134001,
       "word": "马龙乘风破浪",
@@ -977,6 +1121,14 @@
       "onboard_time": 1730559080,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127728,
+      "num": 127728,
+      "word": "男子入住机场酒店捡空姐丝袜",
+      "onboard_time": 1730604561,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123380,
@@ -1225,6 +1377,14 @@
       "onboard_time": 1730553561,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31381,
+      "num": 338640,
+      "word": "马雪阳当爸",
+      "onboard_time": 1730604020,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25760,
