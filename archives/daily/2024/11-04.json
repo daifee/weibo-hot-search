@@ -1,7 +1,15 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730651154035,
+  "endTime": 1730652068224,
   "band_list": [
+    {
+      "raw_hot": 932837,
+      "num": 932837,
+      "word": "孙滢皓坐了导师的位置",
+      "onboard_time": 1730648239,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 928891,
       "num": 277730,
@@ -17,14 +25,6 @@
       "onboard_time": 1730641761,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 846567,
-      "num": 846567,
-      "word": "孙滢皓坐了导师的位置",
-      "onboard_time": 1730648239,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 693401,
@@ -59,6 +59,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 441386,
+      "num": 231058,
+      "word": "西班牙国王被扔泥巴",
+      "onboard_time": 1730649739,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 410828,
       "num": 276800,
       "word": "赵露思回应和刘梓晨长得像",
@@ -73,6 +81,14 @@
       "onboard_time": 1730618119,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352280,
+      "num": 352280,
+      "word": "李行亮买青团细节",
+      "onboard_time": 1730648119,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 351328,
@@ -97,14 +113,6 @@
       "onboard_time": 1730642179,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293033,
-      "num": 273992,
-      "word": "李行亮买青团细节",
-      "onboard_time": 1730648119,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 283444,
@@ -153,14 +161,6 @@
       "onboard_time": 1730637438,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197368,
-      "num": 231058,
-      "word": "西班牙国王被扔泥巴",
-      "onboard_time": 1730649739,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 196274,
@@ -267,8 +267,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107309,
-      "num": 107309,
+      "raw_hot": 110151,
+      "num": 110151,
       "word": "白桃星座",
       "onboard_time": 1730646561,
       "rank": 35,
@@ -289,6 +289,14 @@
       "onboard_time": 1730636538,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 103670,
+      "num": 103670,
+      "word": "被裁后跟公司死磕到底的人",
+      "onboard_time": 1730647879,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100109,
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97351,
+      "num": 97351,
+      "word": "十万彩礼做女友造谣者仍未道歉赔偿",
+      "onboard_time": 1730648898,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94759,
       "num": 94759,
       "word": "直击东风着陆场",
       "onboard_time": 1730645660,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 88574,
-      "num": 88574,
-      "word": "被裁后跟公司死磕到底的人",
-      "onboard_time": 1730647879,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87006,
@@ -387,7 +395,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27196,
+      "raw_hot": 61965,
+      "num": 61965,
+      "word": "撒贝宁是有点舞蹈天赋在身上的",
+      "onboard_time": 1730651657,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35299,
       "num": 278865,
       "word": "迎接叶光富李聪李广苏回家",
       "onboard_time": 1730650398,
@@ -395,8 +411,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21809,
-      "num": 71087,
+      "raw_hot": 22095,
+      "num": 219365,
       "word": "美国向中东增派的B52可搭载核武",
       "onboard_time": 1730650817,
       "rank": 48,
