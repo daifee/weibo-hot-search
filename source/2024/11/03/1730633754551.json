@@ -1,0 +1,410 @@
+{
+  "runTime": 1730633754551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227060,
+        "num": 1227060,
+        "word": "花少4个人吃9人餐事情始末",
+        "onboard_time": 1730625079,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442130,
+        "num": 442130,
+        "word": "美国大选前夕更多富人计划离开美国",
+        "onboard_time": 1730626157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32141,
+        "num": 413441,
+        "word": "迎接神十八空中分队最后一次演练",
+        "onboard_time": 1730621720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644002,
+        "num": 410798,
+        "word": "王心凌方称已按要求唱满四首歌",
+        "onboard_time": 1730630958,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 392115,
+        "num": 392115,
+        "word": "孙颖莎 欧扎克",
+        "onboard_time": 1730629040,
+        "rank": 4,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 323889,
+        "num": 323889,
+        "word": "哈尔滨保安说在东北丢不了孩子",
+        "onboard_time": 1730624478,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518923,
+        "num": 321890,
+        "word": "虞书欣推荐的婧妹出演永夜星河",
+        "onboard_time": 1730628798,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292397,
+        "num": 292397,
+        "word": "BLG全球战力榜第一",
+        "onboard_time": 1730624658,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 401018,
+        "num": 291905,
+        "word": "王一栩笑了",
+        "onboard_time": 1730632817,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63318,
+        "num": 291417,
+        "word": "迎接神十八回家",
+        "onboard_time": 1730627539,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1203944,
+        "num": 290562,
+        "word": "烧伤妈妈说不想再住原来的房子",
+        "onboard_time": 1730629040,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764947,
+        "num": 290341,
+        "word": "吴露可逃",
+        "onboard_time": 1730623819,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629444,
+        "num": 289306,
+        "word": "毛奇与他人发生不正当性关系",
+        "onboard_time": 1730623759,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625489,
+        "num": 288876,
+        "word": "赵露思回应和刘梓晨长得像",
+        "onboard_time": 1730620999,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580185,
+        "num": 287665,
+        "word": "金晨朋友送的外卖",
+        "onboard_time": 1730623579,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426158,
+        "num": 287259,
+        "word": "T1夺冠后的LPL解说台",
+        "onboard_time": 1730630658,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 336647,
+        "num": 286804,
+        "word": "王心凌音乐节只唱4首观众齐喊退票",
+        "onboard_time": 1730622257,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332502,
+        "num": 285996,
+        "word": "死亡游戏再现校园严重可窒息",
+        "onboard_time": 1730623158,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24941,
+        "num": 285112,
+        "word": "比便宜京东采销没输过",
+        "onboard_time": 1730631199,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54115,
+        "num": 284793,
+        "word": "秋瓷炫亲公公脸颊",
+        "onboard_time": 1730633420,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279262,
+        "num": 283577,
+        "word": "隐形战机苏57降落太原",
+        "onboard_time": 1730624538,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 301725,
+        "num": 283336,
+        "word": "奚梦瑶3岁女儿腿长",
+        "onboard_time": 1730610378,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282856,
+        "num": 282856,
+        "word": "男子幼儿园按住男孩教唆女孩踢打",
+        "onboard_time": 1730630899,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282274,
+        "num": 282274,
+        "word": "永夜星河发布会",
+        "onboard_time": 1730626878,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281966,
+        "num": 281966,
+        "word": "95四小花",
+        "onboard_time": 1730633179,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280062,
+        "num": 280062,
+        "word": "村民发现烈士墓碑被绑电线杆上",
+        "onboard_time": 1730623518,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259557,
+        "num": 259557,
+        "word": "永夜星河 月光变奏曲",
+        "onboard_time": 1730631138,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247663,
+        "num": 247663,
+        "word": "女友被抓转1万8打点等1年也没出狱",
+        "onboard_time": 1730630359,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203783,
+        "num": 226862,
+        "word": "永夜星河更新",
+        "onboard_time": 1730632639,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25348,
+        "num": 226286,
+        "word": "陈幸同vs梅谢芙",
+        "onboard_time": 1730633420,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226153,
+        "num": 226153,
+        "word": "死亡游戏再现校园",
+        "onboard_time": 1730630538,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217754,
+        "num": 217754,
+        "word": "神十八顺利撤离空间站组合体",
+        "onboard_time": 1730628137,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215585,
+        "num": 215585,
+        "word": "孙颖莎24岁健康涨球",
+        "onboard_time": 1730618119,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209773,
+        "num": 209773,
+        "word": "三个月把臭水沟打造成瀑布",
+        "onboard_time": 1730629879,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197473,
+        "num": 197473,
+        "word": "看到孩子之间按胸口务必警惕",
+        "onboard_time": 1730626220,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171336,
+        "num": 171336,
+        "word": "刘美含摇了陌生人做搭子看极光",
+        "onboard_time": 1730617039,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "花少6九人餐叫了所有人",
+        "onboard_time": 1730627418,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165903,
+        "num": 165903,
+        "word": "刘宇宁直播",
+        "onboard_time": 1730631618,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162261,
+        "num": 162261,
+        "word": "惊讶的宋茜 红温的小田",
+        "onboard_time": 1730632698,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155974,
+        "num": 155974,
+        "word": "代号鸢",
+        "onboard_time": 1730629278,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153301,
+        "num": 153301,
+        "word": "周深把自己反锁在了卫生间",
+        "onboard_time": 1730612658,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149245,
+        "num": 149245,
+        "word": "姚景元情侣vlog",
+        "onboard_time": 1730632458,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148129,
+        "num": 148129,
+        "word": "爆火的超薄羽绒服真的抗冻吗",
+        "onboard_time": 1730627239,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119990,
+        "num": 119990,
+        "word": "林俊杰嘉宾是陶喆",
+        "onboard_time": 1730629159,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118508,
+        "num": 118508,
+        "word": "大梦归离",
+        "onboard_time": 1730631077,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117270,
+        "num": 117270,
+        "word": "烧伤妈妈丈夫剃头和妻子变情侣头",
+        "onboard_time": 1730629519,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107819,
+        "num": 107819,
+        "word": "关谷悠悠豆角睡衣",
+        "onboard_time": 1730626099,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102294,
+        "num": 102294,
+        "word": "原来星座有13个",
+        "onboard_time": 1730631199,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99398,
+        "num": 99398,
+        "word": "男孩一洗澡就癫痫发作",
+        "onboard_time": 1730622378,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94699,
+        "num": 94699,
+        "word": "乔任梁母亲说没做的事被硬逼着承认",
+        "onboard_time": 1730626878,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这两件事要两手并用#"
+    }
+  }
+}

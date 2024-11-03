@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730632701360,
+  "endTime": 1730633754551,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -395,6 +395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 644002,
+      "num": 410798,
+      "word": "王心凌方称已按要求唱满四首歌",
+      "onboard_time": 1730630958,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 627145,
       "num": 627145,
       "word": "BLG教练",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518923,
+      "num": 376910,
+      "word": "虞书欣推荐的婧妹出演永夜星河",
+      "onboard_time": 1730628798,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517682,
       "num": 587295,
       "word": "没有伤害任何人",
@@ -561,14 +577,6 @@
       "onboard_time": 1730613559,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510112,
-      "num": 376910,
-      "word": "虞书欣推荐的婧妹出演永夜星河",
-      "onboard_time": 1730628798,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 503363,
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442130,
+      "num": 442130,
+      "word": "美国大选前夕更多富人计划离开美国",
+      "onboard_time": 1730626157,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439700,
       "num": 350662,
       "word": "乔任梁母亲发声",
@@ -691,12 +707,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 421051,
-      "num": 218738,
-      "word": "王心凌方称已按要求唱满四首歌",
-      "onboard_time": 1730630958,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 426158,
+      "num": 287259,
+      "word": "T1夺冠后的LPL解说台",
+      "onboard_time": 1730630658,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 419943,
@@ -747,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 401018,
+      "num": 291905,
+      "word": "王一栩笑了",
+      "onboard_time": 1730632817,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400518,
       "num": 385943,
       "word": "Bin直视镜头",
@@ -755,12 +779,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 393675,
-      "num": 214518,
-      "word": "T1夺冠后的LPL解说台",
-      "onboard_time": 1730630658,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 392115,
+      "num": 392115,
+      "word": "孙颖莎 欧扎克",
+      "onboard_time": 1730629040,
+      "rank": 45,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 390838,
@@ -769,14 +793,6 @@
       "onboard_time": 1730567118,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390394,
-      "num": 390394,
-      "word": "美国大选前夕更多富人计划离开美国",
-      "onboard_time": 1730626157,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384830,
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 316176,
-      "num": 212210,
+      "num": 259557,
       "word": "永夜星河 月光变奏曲",
       "onboard_time": 1730631138,
       "rank": 25,
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 306237,
-      "num": 212000,
+      "num": 226153,
       "word": "死亡游戏再现校园",
       "onboard_time": 1730630538,
       "rank": 26,
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 294175,
-      "num": 211485,
+      "num": 282856,
       "word": "男子幼儿园按住男孩教唆女孩踢打",
       "onboard_time": 1730630899,
       "rank": 27,
@@ -971,20 +987,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 284645,
-      "num": 284645,
-      "word": "孙颖莎 欧扎克",
-      "onboard_time": 1730629040,
-      "rank": 45,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 284450,
       "num": 284450,
       "word": "王楚钦王曼昱冠军赛合影",
       "onboard_time": 1730600779,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281966,
+      "num": 281966,
+      "word": "95四小花",
+      "onboard_time": 1730633179,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 280492,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1730614037,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247663,
+      "num": 247663,
+      "word": "女友被抓转1万8打点等1年也没出狱",
+      "onboard_time": 1730630359,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247173,
@@ -1243,8 +1267,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209773,
+      "num": 209773,
+      "word": "三个月把臭水沟打造成瀑布",
+      "onboard_time": 1730629879,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209513,
-      "num": 209513,
+      "num": 226862,
       "word": "永夜星河更新",
       "onboard_time": 1730632639,
       "rank": 30,
@@ -1419,6 +1451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197473,
+      "num": 220582,
+      "word": "看到孩子之间按胸口务必警惕",
+      "onboard_time": 1730626220,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197028,
       "num": 238174,
       "word": "没认出这是小巷人家的姑姑",
@@ -1515,14 +1555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186143,
-      "num": 186143,
-      "word": "女友被抓转1万8打点等1年也没出狱",
-      "onboard_time": 1730630359,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186093,
       "num": 186093,
       "word": "速冻模式开启局地降温12摄氏度",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1730627838,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172280,
-      "num": 172280,
-      "word": "三个月把臭水沟打造成瀑布",
-      "onboard_time": 1730629879,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 169583,
@@ -1739,6 +1763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 162261,
+      "num": 162261,
+      "word": "惊讶的宋茜 红温的小田",
+      "onboard_time": 1730632698,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161990,
       "num": 178289,
       "word": "金晨教科书级别的一字马",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1730611578,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161292,
-      "num": 220582,
-      "word": "看到孩子之间按胸口务必警惕",
-      "onboard_time": 1730626220,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161226,
@@ -1881,6 +1905,14 @@
       "onboard_time": 1730604080,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149245,
+      "num": 149245,
+      "word": "姚景元情侣vlog",
+      "onboard_time": 1730632458,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 148792,
@@ -2196,7 +2228,7 @@
     },
     {
       "raw_hot": 122539,
-      "num": 122539,
+      "num": 291417,
       "word": "迎接神十八回家",
       "onboard_time": 1730627539,
       "rank": 44,
@@ -2281,14 +2313,6 @@
       "onboard_time": 1730618597,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 111162,
-      "num": 111162,
-      "word": "姚景元情侣vlog",
-      "onboard_time": 1730632458,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 109081,
@@ -2579,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54115,
+      "num": 284793,
+      "word": "秋瓷炫亲公公脸颊",
+      "onboard_time": 1730633420,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53367,
       "num": 388219,
       "word": "多地出现邮寄黄金诈骗案",
@@ -2684,7 +2716,7 @@
     },
     {
       "raw_hot": 27950,
-      "num": 216950,
+      "num": 285112,
       "word": "比便宜京东采销没输过",
       "onboard_time": 1730631199,
       "rank": 18,
@@ -2697,6 +2729,14 @@
       "onboard_time": 1730572222,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25348,
+      "num": 226286,
+      "word": "陈幸同vs梅谢芙",
+      "onboard_time": 1730633420,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 25340,
