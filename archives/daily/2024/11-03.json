@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730605494512,
+  "endTime": 1730607960466,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1479779,
-      "num": 495282,
+      "num": 532957,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1053516,
-      "num": 482752,
+      "num": 968748,
       "word": "Uzi怒喷On",
       "onboard_time": 1730604378,
       "rank": 12,
@@ -331,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580231,
+      "num": 580231,
+      "word": "烧伤妈妈哭着说我要回家",
+      "onboard_time": 1730603840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
       "onboard_time": 1730566163,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 566611,
+      "num": 566611,
+      "word": "永夜星河 两个毒唯凑一对",
+      "onboard_time": 1730604080,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 559100,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 427687,
-      "num": 427687,
+      "num": 554906,
       "word": "时代少年团出道五周年演唱会",
       "onboard_time": 1730605160,
       "rank": 14,
@@ -475,14 +491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 380013,
-      "num": 380013,
-      "word": "永夜星河 两个毒唯凑一对",
-      "onboard_time": 1730604080,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 378284,
       "num": 378284,
       "word": "加里奥",
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352455,
+      "num": 352455,
+      "word": "杨紫补偿粉丝机酒损失",
+      "onboard_time": 1730606181,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350351,
       "num": 350351,
       "word": "姜某初赛成绩违反规则",
@@ -529,14 +545,6 @@
       "onboard_time": 1730549839,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326551,
-      "num": 524117,
-      "word": "烧伤妈妈哭着说我要回家",
-      "onboard_time": 1730603840,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323948,
@@ -601,6 +609,14 @@
       "onboard_time": 1730600779,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283393,
+      "num": 470214,
+      "word": "97岁妻子化妆烫发看望98岁丈夫",
+      "onboard_time": 1730605220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280492,
@@ -755,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207923,
+      "num": 207923,
+      "word": "Bin回应不敌T1",
+      "onboard_time": 1730604320,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206749,
       "num": 206749,
       "word": "税务师",
@@ -776,6 +800,14 @@
       "word": "穆祉丞发博让私生离私生活远一点",
       "onboard_time": 1730565018,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204530,
+      "num": 338640,
+      "word": "马雪阳当爸",
+      "onboard_time": 1730604020,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -827,6 +859,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198344,
+      "num": 198344,
+      "word": "财务与会计",
+      "onboard_time": 1730605698,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 197028,
+      "num": 238174,
+      "word": "没认出这是小巷人家的姑姑",
+      "onboard_time": 1730604141,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196930,
       "num": 196930,
       "word": "无锡1岁男童走失遗体在河道被发现",
@@ -849,6 +897,14 @@
       "onboard_time": 1730560404,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194693,
+      "num": 204573,
+      "word": "以爱为营",
+      "onboard_time": 1730607500,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 194563,
@@ -875,12 +931,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187717,
-      "num": 238174,
-      "word": "没认出这是小巷人家的姑姑",
-      "onboard_time": 1730604141,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 188346,
+      "num": 188346,
+      "word": "严浩翔 切勿掉入诈骗陷阱",
+      "onboard_time": 1730607500,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 186093,
@@ -891,19 +947,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185900,
+      "num": 199052,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1730606780,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185427,
       "num": 185427,
       "word": "LPL",
       "onboard_time": 1730573178,
       "rank": 39,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 180516,
-      "num": 180516,
-      "word": "Bin回应不敌T1",
-      "onboard_time": 1730604320,
-      "rank": 37,
       "category": "电竞"
     },
     {
@@ -920,6 +976,14 @@
       "word": "孔雪儿在看凌妙妙闯关",
       "onboard_time": 1730599458,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174426,
+      "num": 174426,
+      "word": "永夜星河双榜TOP1",
+      "onboard_time": 1730605519,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -987,6 +1051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 161391,
+      "num": 161391,
+      "word": "刘德华演出唱中国人遭台政客挑刺",
+      "onboard_time": 1730606181,
+      "rank": 38,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 161226,
       "num": 161226,
       "word": "ZOFGK",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1730560344,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158684,
+      "num": 158684,
+      "word": "金晨 喜剧人",
+      "onboard_time": 1730607020,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 158620,
@@ -1043,8 +1123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150770,
-      "num": 150770,
+      "raw_hot": 151453,
+      "num": 151453,
       "word": "男子入住机场酒店捡空姐丝袜",
       "onboard_time": 1730604561,
       "rank": 43,
@@ -1131,6 +1211,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133026,
+      "num": 552552,
+      "word": "涟水中专教师王某某被诫勉谈话",
+      "onboard_time": 1730606541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132536,
+      "num": 132536,
+      "word": "婴儿出生不满3天被装塑料袋遗弃",
+      "onboard_time": 1730607680,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "BLG辅助",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1730559080,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127232,
+      "num": 322045,
+      "word": "祖峰哭起来有林黛玉那味了",
+      "onboard_time": 1730605519,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 123380,
@@ -1339,14 +1443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67099,
-      "num": 470214,
-      "word": "97岁妻子化妆烫发看望98岁丈夫",
-      "onboard_time": 1730605220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -1417,14 +1513,6 @@
       "onboard_time": 1730553561,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31381,
-      "num": 338640,
-      "word": "马雪阳当爸",
-      "onboard_time": 1730604020,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 25760,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1730579600,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14644,
+      "num": 321496,
+      "word": "玛格特罗比生子",
+      "onboard_time": 1730607561,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14210,

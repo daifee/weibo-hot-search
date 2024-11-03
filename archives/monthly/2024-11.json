@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730605494512,
+  "endTime": 1730607960466,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1479779,
-      "num": 495282,
+      "num": 532957,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1053516,
-      "num": 482752,
+      "num": 968748,
       "word": "Uzi怒喷On",
       "onboard_time": 1730604378,
       "rank": 12,
@@ -1267,6 +1267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 580231,
+      "num": 580231,
+      "word": "烧伤妈妈哭着说我要回家",
+      "onboard_time": 1730603840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1730553261,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566611,
+      "num": 566611,
+      "word": "永夜星河 两个毒唯凑一对",
+      "onboard_time": 1730604080,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 559161,
@@ -1780,7 +1796,7 @@
     },
     {
       "raw_hot": 427687,
-      "num": 427687,
+      "num": 554906,
       "word": "时代少年团出道五周年演唱会",
       "onboard_time": 1730605160,
       "rank": 14,
@@ -2019,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380013,
-      "num": 380013,
-      "word": "永夜星河 两个毒唯凑一对",
-      "onboard_time": 1730604080,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379230,
       "num": 379230,
       "word": "拾荒老人去看病竟掏出一代身份证",
@@ -2155,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352455,
+      "num": 352455,
+      "word": "杨紫补偿粉丝机酒损失",
+      "onboard_time": 1730606181,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350351,
       "num": 350351,
       "word": "姜某初赛成绩违反规则",
@@ -2247,14 +2263,6 @@
       "num": 627372,
       "word": "一男子入住酒店发现摄像头",
       "onboard_time": 1730554220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326551,
-      "num": 524117,
-      "word": "烧伤妈妈哭着说我要回家",
-      "onboard_time": 1730603840,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2529,6 +2537,14 @@
       "onboard_time": 1730420598,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283393,
+      "num": 470214,
+      "word": "97岁妻子化妆烫发看望98岁丈夫",
+      "onboard_time": 1730605220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282059,
@@ -3267,6 +3283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207923,
+      "num": 207923,
+      "word": "Bin回应不敌T1",
+      "onboard_time": 1730604320,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207719,
       "num": 247556,
       "word": "Bin再比三比零手势",
@@ -3344,6 +3368,14 @@
       "word": "穆祉丞发博让私生离私生活远一点",
       "onboard_time": 1730565018,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204530,
+      "num": 338640,
+      "word": "马雪阳当爸",
+      "onboard_time": 1730604020,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -3483,6 +3515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198344,
+      "num": 198344,
+      "word": "财务与会计",
+      "onboard_time": 1730605698,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198112,
       "num": 198112,
       "word": "新乡通报男子投资千万建厂遇办证难",
@@ -3504,6 +3544,14 @@
       "word": "赵露思刘宇宁cp玄学",
       "onboard_time": 1730438179,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197028,
+      "num": 238174,
+      "word": "没认出这是小巷人家的姑姑",
+      "onboard_time": 1730604141,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -3545,6 +3593,14 @@
       "onboard_time": 1730528176,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194693,
+      "num": 204573,
+      "word": "以爱为营",
+      "onboard_time": 1730607500,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 194563,
@@ -3691,12 +3747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187717,
-      "num": 238174,
-      "word": "没认出这是小巷人家的姑姑",
-      "onboard_time": 1730604141,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 188346,
+      "num": 188346,
+      "word": "严浩翔 切勿掉入诈骗陷阱",
+      "onboard_time": 1730607500,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 186920,
@@ -3737,6 +3793,14 @@
       "onboard_time": 1730423478,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 185900,
+      "num": 199052,
+      "word": "时代少年团 特权码",
+      "onboard_time": 1730606780,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 185427,
@@ -3857,14 +3921,6 @@
       "onboard_time": 1730464099,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180516,
-      "num": 180516,
-      "word": "Bin回应不敌T1",
-      "onboard_time": 1730604320,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 180465,
@@ -4049,6 +4105,14 @@
       "onboard_time": 1730389339,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 174426,
+      "num": 174426,
+      "word": "永夜星河双榜TOP1",
+      "onboard_time": 1730605519,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 173605,
@@ -4347,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161391,
+      "num": 161391,
+      "word": "刘德华演出唱中国人遭台政客挑刺",
+      "onboard_time": 1730606181,
+      "rank": 38,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 161226,
       "num": 161226,
       "word": "ZOFGK",
@@ -4465,6 +4537,14 @@
       "onboard_time": 1730468179,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158684,
+      "num": 158684,
+      "word": "金晨 喜剧人",
+      "onboard_time": 1730607020,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 158620,
@@ -4683,6 +4763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151453,
+      "num": 151453,
+      "word": "男子入住机场酒店捡空姐丝袜",
+      "onboard_time": 1730604561,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "各地文旅花式欢迎麦子奶奶",
@@ -4697,14 +4785,6 @@
       "onboard_time": 1730445619,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 150770,
-      "num": 150770,
-      "word": "男子入住机场酒店捡空姐丝袜",
-      "onboard_time": 1730604561,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150465,
@@ -5259,6 +5339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133026,
+      "num": 552552,
+      "word": "涟水中专教师王某某被诫勉谈话",
+      "onboard_time": 1730606541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132536,
+      "num": 132536,
+      "word": "婴儿出生不满3天被装塑料袋遗弃",
+      "onboard_time": 1730607680,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132401,
       "num": 132401,
       "word": "迎接神十八航天员回家",
@@ -5409,6 +5505,14 @@
       "onboard_time": 1730507717,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127232,
+      "num": 322045,
+      "word": "祖峰哭起来有林黛玉那味了",
+      "onboard_time": 1730605519,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 126793,
@@ -6587,14 +6691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67099,
-      "num": 470214,
-      "word": "97岁妻子化妆烫发看望98岁丈夫",
-      "onboard_time": 1730605220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -7267,14 +7363,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 31381,
-      "num": 338640,
-      "word": "马雪阳当爸",
-      "onboard_time": 1730604020,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31246,
       "num": 275524,
       "word": "不要对老年人看短剧有偏见",
@@ -7857,6 +7945,14 @@
       "onboard_time": 1730452280,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14644,
+      "num": 321496,
+      "word": "玛格特罗比生子",
+      "onboard_time": 1730607561,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14576,
