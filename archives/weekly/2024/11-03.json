@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730644705098,
+  "endTime": 1730647302313,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -251,6 +251,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1191313,
+      "num": 415690,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1164772,
+      "num": 1164772,
+      "word": "11个退货快递放门口被偷",
+      "onboard_time": 1730640741,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1150851,
       "num": 385111,
       "word": "刘美含摇了陌生人做搭子看极光",
@@ -475,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 669089,
+      "num": 549415,
+      "word": "卢昱晓 小巷人家",
+      "onboard_time": 1730642661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667280,
       "num": 398708,
       "word": "乔任梁母亲说儿子遗照被P得一塌糊涂",
@@ -673,14 +697,6 @@
       "onboard_time": 1730564420,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 554134,
-      "num": 395511,
-      "word": "卢昱晓 小巷人家",
-      "onboard_time": 1730642661,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 541268,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357793,
+      "num": 357793,
+      "word": "林一为虞书欣永夜星河打call",
+      "onboard_time": 1730645839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352455,
       "num": 352455,
       "word": "杨紫补偿粉丝机酒损失",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1730640741,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338522,
-      "num": 420710,
-      "word": "11个退货快递放门口被偷",
-      "onboard_time": 1730640741,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334731,
@@ -1307,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249665,
+      "num": 415748,
+      "word": "三国重臣张昭墓在南京考古发掘完毕",
+      "onboard_time": 1730645961,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247663,
       "num": 247663,
       "word": "女友被抓转1万8打点等1年也没出狱",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1730575214,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 244863,
+      "num": 253562,
+      "word": "神舟飞船5次落在我们家草场",
+      "onboard_time": 1730642600,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244218,
@@ -1443,12 +1475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222872,
+      "num": 522060,
+      "word": "一小时登顶黄山奖1万引热议",
+      "onboard_time": 1730642661,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222707,
       "num": 222707,
       "word": "神十八顺利撤离空间站组合体",
       "onboard_time": 1730628137,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221223,
+      "num": 221223,
+      "word": "月光变奏曲",
+      "onboard_time": 1730644700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 220435,
@@ -1491,6 +1539,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 214544,
+      "num": 214544,
+      "word": "美邦老板称和贾乃亮合作效果差",
+      "onboard_time": 1730642661,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213351,
       "num": 213351,
       "word": "全华班",
@@ -1505,6 +1561,14 @@
       "onboard_time": 1730604020,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210422,
+      "num": 261231,
+      "word": "闫妮 人怎么能有种成黄玲这样",
+      "onboard_time": 1730643680,
+      "rank": 19,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 209773,
@@ -1683,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199762,
-      "num": 199762,
-      "word": "美邦老板称和贾乃亮合作效果差",
-      "onboard_time": 1730642661,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199594,
       "num": 241394,
       "word": "珠帘玉幕宣传",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1730605698,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197768,
-      "num": 261231,
-      "word": "闫妮 人怎么能有种成黄玲这样",
-      "onboard_time": 1730643680,
-      "rank": 19,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 197473,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190115,
+      "num": 190115,
+      "word": "猪肉炖粉条你尝不到了",
+      "onboard_time": 1730645120,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189212,
@@ -1945,6 +2001,14 @@
       "onboard_time": 1730634319,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174650,
+      "num": 174650,
+      "word": "直击东风着陆场",
+      "onboard_time": 1730645660,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174426,
@@ -2115,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161805,
-      "num": 253562,
-      "word": "神舟飞船5次落在我们家草场",
-      "onboard_time": 1730642600,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161361,
       "num": 161361,
       "word": "权志龙居家生活照",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1730574915,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160949,
+      "num": 160949,
+      "word": "乔妍的心事",
+      "onboard_time": 1730645900,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 160944,
@@ -2523,12 +2587,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133305,
-      "num": 522060,
-      "word": "一小时登顶黄山奖1万引热议",
-      "onboard_time": 1730642661,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 133226,
+      "num": 133226,
+      "word": "白桃星座",
+      "onboard_time": 1730646561,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 131654,
@@ -2588,7 +2652,7 @@
     },
     {
       "raw_hot": 127847,
-      "num": 1092326,
+      "num": 1173535,
       "word": "欢迎神十八回家",
       "onboard_time": 1730639419,
       "rank": 2,
