@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730626575071,
+  "endTime": 1730629474329,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 936141,
+      "num": 568290,
+      "word": "毛奇与他人发生不正当性关系",
+      "onboard_time": 1730623759,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 891722,
       "num": 1142675,
       "word": "周深把自己反锁在了卫生间",
@@ -321,6 +329,14 @@
       "onboard_time": 1730622257,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 695039,
+      "num": 294262,
+      "word": "死亡游戏再现校园严重可窒息",
+      "onboard_time": 1730623158,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 677254,
@@ -483,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 568290,
-      "num": 568290,
-      "word": "毛奇与他人发生不正当性关系",
-      "onboard_time": 1730623759,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559100,
       "num": 4270078,
       "word": "成功95花的背后",
@@ -547,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487933,
+      "num": 427727,
+      "word": "永夜星河发布会",
+      "onboard_time": 1730626878,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482842,
       "num": 367897,
       "word": "小伙称按摩后禁不住怂恿花一万五",
@@ -569,6 +585,14 @@
       "onboard_time": 1730623579,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462432,
+      "num": 462432,
+      "word": "哈尔滨保安说在东北丢不了孩子",
+      "onboard_time": 1730624478,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460333,
@@ -633,6 +657,14 @@
       "onboard_time": 1730574376,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 428748,
+      "num": 290311,
+      "word": "村民发现烈士墓碑被绑电线杆上",
+      "onboard_time": 1730623518,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427687,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297736,
+      "num": 297736,
+      "word": "隐形战机苏57降落太原",
+      "onboard_time": 1730624538,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 290045,
       "num": 290045,
       "word": "郑钦文忘记比分擦手准备再战",
@@ -889,14 +929,6 @@
       "onboard_time": 1730604080,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276725,
-      "num": 276725,
-      "word": "死亡游戏再现校园严重可窒息",
-      "onboard_time": 1730623158,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 273810,
@@ -979,11 +1011,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242293,
-      "num": 242293,
-      "word": "村民发现烈士墓碑被绑电线杆上",
-      "onboard_time": 1730623518,
-      "rank": 29,
+      "raw_hot": 241743,
+      "num": 241743,
+      "word": "爆火的超薄羽绒服真的抗冻吗",
+      "onboard_time": 1730627239,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 240533,
+      "num": 386393,
+      "word": "美国大选前夕更多富人计划离开美国",
+      "onboard_time": 1730626157,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1051,12 +1091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228374,
-      "num": 228374,
-      "word": "哈尔滨保安说在东北丢不了孩子",
-      "onboard_time": 1730624478,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 229105,
+      "num": 218439,
+      "word": "虞书欣推荐的婧妹出演永夜星河",
+      "onboard_time": 1730628798,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 225074,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1730572820,
       "rank": 31,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 224103,
+      "num": 224103,
+      "word": "花少6九人餐叫了所有人",
+      "onboard_time": 1730627418,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 220435,
@@ -1323,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195544,
-      "num": 195544,
-      "word": "隐形战机苏57降落太原",
-      "onboard_time": 1730624538,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 194563,
       "num": 194563,
       "word": "真的建议大家多做腹式呼吸",
@@ -1363,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191937,
+      "num": 191937,
+      "word": "神十八顺利撤离空间站组合体",
+      "onboard_time": 1730628137,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189212,
       "num": 189212,
       "word": "刘德华演出唱中国人遭台政客挑刺",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1730607500,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186857,
+      "num": 186857,
+      "word": "烧伤妈妈说不想再住原来的房子",
+      "onboard_time": 1730629040,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186093,
@@ -1435,6 +1491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177873,
+      "num": 177873,
+      "word": "代号鸢",
+      "onboard_time": 1730629278,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 177707,
+      "num": 187311,
+      "word": "林俊杰嘉宾是陶喆",
+      "onboard_time": 1730629159,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176891,
       "num": 176891,
       "word": "凌妙妙 抹水乳",
@@ -1457,6 +1529,22 @@
       "onboard_time": 1730605519,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173486,
+      "num": 186914,
+      "word": "陈楚生直播",
+      "onboard_time": 1730627838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169583,
+      "num": 169583,
+      "word": "章昊跳whiplash",
+      "onboard_time": 1730628798,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169038,
@@ -1555,6 +1643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 161990,
+      "num": 161990,
+      "word": "金晨教科书级别的一字马",
+      "onboard_time": 1730628078,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161851,
       "num": 552552,
       "word": "涟水中专教师王某某被诫勉谈话",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1730560344,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159137,
+      "num": 159137,
+      "word": "看到孩子之间按胸口务必警惕",
+      "onboard_time": 1730626220,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158684,
@@ -1691,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145901,
+      "num": 145901,
+      "word": "万年县委原书记毛奇非法收受巨额财物",
+      "onboard_time": 1730627478,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145756,
       "num": 231762,
       "word": "虞书欣工作室",
@@ -1721,6 +1833,22 @@
       "onboard_time": 1730565498,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144279,
+      "num": 144279,
+      "word": "丁禹兮高马尾",
+      "onboard_time": 1730626157,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143612,
+      "num": 116512,
+      "word": "永夜星河直播",
+      "onboard_time": 1730628678,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 142466,
@@ -1777,14 +1905,6 @@
       "onboard_time": 1730621298,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136943,
-      "num": 136943,
-      "word": "丁禹兮高马尾",
-      "onboard_time": 1730626157,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 136036,
@@ -1923,6 +2043,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124033,
+      "num": 124033,
+      "word": "靳东吴磊合作",
+      "onboard_time": 1730628438,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123726,
+      "num": 116760,
+      "word": "乔任梁母亲说没做的事被硬逼着承认",
+      "onboard_time": 1730626878,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123380,
       "num": 123380,
       "word": "Uzi说今晚偷奖杯",
@@ -1939,12 +2075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122084,
-      "num": 122084,
-      "word": "看到孩子之间按胸口务必警惕",
-      "onboard_time": 1730626220,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 122539,
+      "num": 122539,
+      "word": "迎接神十八回家",
+      "onboard_time": 1730627539,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121230,
@@ -1971,12 +2107,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "孙颖莎 欧扎克",
+      "onboard_time": 1730629040,
+      "rank": 45,
+      "category": "体育,美食"
+    },
+    {
+      "raw_hot": 116891,
+      "num": 116891,
+      "word": "广州大学情况说明",
+      "onboard_time": 1730626937,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116832,
       "num": 262481,
       "word": "BLG稳住",
       "onboard_time": 1730568435,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116258,
+      "num": 388748,
+      "word": "这届美国大选到底有多乱",
+      "onboard_time": 1730625378,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 115018,
@@ -1993,14 +2153,6 @@
       "onboard_time": 1730619078,
       "rank": 42,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 113202,
-      "num": 388748,
-      "word": "这届美国大选到底有多乱",
-      "onboard_time": 1730625378,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 113165,
@@ -2267,12 +2419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56953,
-      "num": 386393,
-      "word": "美国大选前夕更多富人计划离开美国",
-      "onboard_time": 1730626157,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 60022,
+      "num": 289985,
+      "word": "李昊直播",
+      "onboard_time": 1730627179,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 56244,
@@ -2304,6 +2456,14 @@
       "word": "多地出现邮寄黄金诈骗案",
       "onboard_time": 1730617398,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50712,
+      "num": 292924,
+      "word": "山东一银行无障碍通道被吐槽有障碍",
+      "onboard_time": 1730628498,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2569,6 +2729,14 @@
       "onboard_time": 1730579600,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14449,
+      "num": 297540,
+      "word": "官方称海南陵水登革热病毒不会人传人",
+      "onboard_time": 1730628798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14210,
