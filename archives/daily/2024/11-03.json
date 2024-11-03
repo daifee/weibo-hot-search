@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730604779437,
+  "endTime": 1730605494512,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -171,6 +171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1053516,
+      "num": 482752,
+      "word": "Uzi怒喷On",
+      "onboard_time": 1730604378,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1026874,
       "num": 1026874,
       "word": "管泽元 求闭嘴",
@@ -211,6 +219,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 734419,
+      "num": 734419,
+      "word": "迪丽热巴掏出睫毛夹笑飞了",
+      "onboard_time": 1730604320,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 727836,
       "num": 266189,
       "word": "覃海洋成绩被取消",
@@ -233,14 +249,6 @@
       "onboard_time": 1730575394,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 666067,
-      "num": 666067,
-      "word": "迪丽热巴掏出睫毛夹笑飞了",
-      "onboard_time": 1730604320,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 664493,
@@ -280,14 +288,6 @@
       "word": "Bin哥厉害",
       "onboard_time": 1730569757,
       "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 609849,
-      "num": 482752,
-      "word": "Uzi怒喷On",
-      "onboard_time": 1730604378,
-      "rank": 12,
       "category": "电竞"
     },
     {
@@ -427,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 427687,
+      "num": 427687,
+      "word": "时代少年团出道五周年演唱会",
+      "onboard_time": 1730605160,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 414501,
       "num": 542730,
       "word": "郑钦文vs萨巴伦卡",
@@ -467,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380013,
+      "num": 380013,
+      "word": "永夜星河 两个毒唯凑一对",
+      "onboard_time": 1730604080,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378284,
       "num": 378284,
       "word": "加里奥",
@@ -499,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350351,
+      "num": 350351,
+      "word": "姜某初赛成绩违反规则",
+      "onboard_time": 1730601199,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
       "onboard_time": 1730549839,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326551,
+      "num": 524117,
+      "word": "烧伤妈妈哭着说我要回家",
+      "onboard_time": 1730603840,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323948,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290045,
+      "num": 290045,
+      "word": "郑钦文忘记比分擦手准备再战",
+      "onboard_time": 1730604320,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289569,
       "num": 454800,
       "word": "On机器人",
@@ -571,6 +611,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278417,
+      "num": 278417,
+      "word": "粉笔模考",
+      "onboard_time": 1730604141,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 277787,
+      "num": 340423,
+      "word": "西北岁月定档",
+      "onboard_time": 1730604080,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269396,
       "num": 269396,
       "word": "被拐34年男子认亲一年后与家人决裂",
@@ -587,36 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263041,
-      "num": 263041,
-      "word": "郑钦文忘记比分擦手准备再战",
-      "onboard_time": 1730604320,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257922,
       "num": 257922,
       "word": "乔任梁离世8年不得安息该适可而止了",
       "onboard_time": 1730539459,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254813,
-      "num": 254813,
-      "word": "粉笔模考",
-      "onboard_time": 1730604141,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 247811,
-      "num": 247811,
-      "word": "姜某初赛成绩违反规则",
-      "onboard_time": 1730601199,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247173,
@@ -641,6 +673,14 @@
       "onboard_time": 1730572702,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 234976,
+      "num": 339204,
+      "word": "珠帘玉幕优酷2024最快破万剧集",
+      "onboard_time": 1730604262,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 233906,
@@ -675,14 +715,6 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 221858,
-      "num": 341268,
-      "word": "永夜星河 两个毒唯凑一对",
-      "onboard_time": 1730604080,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220435,
       "num": 220435,
       "word": "林孝埈受伤",
@@ -707,12 +739,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216295,
-      "num": 340423,
-      "word": "西北岁月定档",
-      "onboard_time": 1730604080,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 215586,
+      "num": 215586,
+      "word": "BLG原班人马再战一年可能性多大",
+      "onboard_time": 1730604378,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 213351,
@@ -723,12 +755,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206271,
-      "num": 188155,
-      "word": "BLG原班人马再战一年可能性多大",
-      "onboard_time": 1730604378,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 206749,
+      "num": 206749,
+      "word": "税务师",
+      "onboard_time": 1730605160,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 204805,
@@ -795,14 +827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197984,
-      "num": 339204,
-      "word": "珠帘玉幕优酷2024最快破万剧集",
-      "onboard_time": 1730604262,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196930,
       "num": 196930,
       "word": "无锡1岁男童走失遗体在河道被发现",
@@ -851,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187717,
+      "num": 238174,
+      "word": "没认出这是小巷人家的姑姑",
+      "onboard_time": 1730604141,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186093,
       "num": 186093,
       "word": "速冻模式开启局地降温12摄氏度",
@@ -864,6 +896,14 @@
       "word": "LPL",
       "onboard_time": 1730573178,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 180516,
+      "num": 180516,
+      "word": "Bin回应不敌T1",
+      "onboard_time": 1730604320,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -979,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154589,
-      "num": 154589,
-      "word": "Bin回应不敌T1",
-      "onboard_time": 1730604320,
-      "rank": 37,
-      "category": "电竞"
+      "raw_hot": 158545,
+      "num": 227002,
+      "word": "黄圣依是同学中第一个买房的人",
+      "onboard_time": 1730604141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 152471,
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150770,
+      "num": 150770,
+      "word": "男子入住机场酒店捡空姐丝袜",
+      "onboard_time": 1730604561,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149396,
       "num": 149396,
       "word": "勇士vs火箭",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1730575574,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146570,
-      "num": 524117,
-      "word": "烧伤妈妈哭着说我要回家",
-      "onboard_time": 1730603840,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145756,
@@ -1067,20 +1107,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141074,
-      "num": 188255,
-      "word": "没认出这是小巷人家的姑姑",
-      "onboard_time": 1730604141,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135217,
-      "num": 135217,
-      "word": "黄圣依是同学中第一个买房的人",
-      "onboard_time": 1730604141,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 136036,
+      "num": 136036,
+      "word": "全球数学竞赛获奖者超4成来自北大",
+      "onboard_time": 1730604861,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 134001,
@@ -1123,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127728,
-      "num": 127728,
-      "word": "男子入住机场酒店捡空姐丝袜",
-      "onboard_time": 1730604561,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123380,
       "num": 123380,
       "word": "Uzi说今晚偷奖杯",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1730555839,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121230,
+      "num": 121230,
+      "word": "北方人要准备过冬了",
+      "onboard_time": 1730604800,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 120011,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1730576592,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67099,
+      "num": 470214,
+      "word": "97岁妻子化妆烫发看望98岁丈夫",
+      "onboard_time": 1730605220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66921,
