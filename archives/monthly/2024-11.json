@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730623120203,
+  "endTime": 1730625792798,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1421654,
+      "num": 312724,
+      "word": "吴露可逃",
+      "onboard_time": 1730623819,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1365668,
       "num": 1365668,
       "word": "网购仅退款19元商家起诉赔800",
@@ -417,6 +425,14 @@
       "onboard_time": 1730432479,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1319195,
+      "num": 1319195,
+      "word": "花少4个人吃9人餐事情始末",
+      "onboard_time": 1730625079,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1316195,
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636589,
+      "num": 322482,
+      "word": "王心凌音乐节只唱4首观众齐喊退票",
+      "onboard_time": 1730622257,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 635618,
       "num": 635618,
       "word": "珠帘玉幕宣传",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1730430140,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611911,
+      "num": 300222,
+      "word": "男孩一洗澡就癫痫发作",
+      "onboard_time": 1730622378,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610219,
@@ -1435,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555675,
+      "num": 555675,
+      "word": "BLG全球战力榜第一",
+      "onboard_time": 1730624658,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 555587,
       "num": 555587,
       "word": "苦难被网红当成致富剧本",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1730390057,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526700,
+      "num": 526700,
+      "word": "学生举报老师学术霸凌不属实",
+      "onboard_time": 1730619857,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523235,
@@ -1761,6 +1809,14 @@
       "onboard_time": 1730462118,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464400,
+      "num": 317593,
+      "word": "金晨朋友送的外卖",
+      "onboard_time": 1730623579,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 462797,
@@ -2403,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340739,
-      "num": 315902,
-      "word": "王心凌音乐节只唱4首观众齐喊退票",
-      "onboard_time": 1730622257,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 336584,
       "num": 336584,
       "word": "BABYMONSTER主打曲",
@@ -2465,6 +2513,14 @@
       "onboard_time": 1730546839,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324736,
+      "num": 324736,
+      "word": "毛奇与他人发生不正当性关系",
+      "onboard_time": 1730623759,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323951,
@@ -2801,6 +2857,14 @@
       "onboard_time": 1730604080,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275304,
+      "num": 275304,
+      "word": "5辆车同步掉头的新型通道你会开吗",
+      "onboard_time": 1730623039,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -3227,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234217,
+      "num": 234217,
+      "word": "鞠婧祎黑色鹅绒服",
+      "onboard_time": 1730621838,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234175,
       "num": 234175,
       "word": "古偶男主",
@@ -3315,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223311,
+      "num": 204779,
+      "word": "村民发现烈士墓碑被绑电线杆上",
+      "onboard_time": 1730623518,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222901,
       "num": 277307,
       "word": "税二 简单",
@@ -3393,14 +3473,6 @@
       "onboard_time": 1730458099,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 217654,
-      "num": 217654,
-      "word": "鞠婧祎黑色鹅绒服",
-      "onboard_time": 1730621838,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 217220,
@@ -3587,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207120,
+      "num": 207120,
+      "word": "永夜星河云合超小巷人家",
+      "onboard_time": 1730622257,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207051,
       "num": 318279,
       "word": "闫妮要给宁静拌蛇瓜",
@@ -3667,20 +3747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204740,
+      "num": 204740,
+      "word": "哈尔滨保安说在东北丢不了孩子",
+      "onboard_time": 1730624478,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204737,
       "num": 204737,
       "word": "穆祉丞发博让私生离私生活远一点",
       "onboard_time": 1730565018,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204296,
-      "num": 204296,
-      "word": "永夜星河云合超小巷人家",
-      "onboard_time": 1730622257,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 204258,
@@ -3883,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195909,
+      "num": 195909,
+      "word": "哈里斯特朗普在同一个地方拉票",
+      "onboard_time": 1730624720,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 195495,
       "num": 183875,
       "word": "周洁琼新剧亲爸变后爸",
@@ -3921,6 +4009,14 @@
       "onboard_time": 1730601021,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 194067,
+      "num": 194067,
+      "word": "被遗弃男婴生命体征平稳",
+      "onboard_time": 1730620159,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193734,
@@ -5091,14 +5187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154067,
-      "num": 319975,
-      "word": "学生举报老师学术霸凌不属实",
-      "onboard_time": 1730619857,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154028,
       "num": 151620,
       "word": "永夜星河里的陈都灵",
@@ -5193,14 +5281,6 @@
       "onboard_time": 1730616378,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151512,
-      "num": 151512,
-      "word": "男孩一洗澡就癫痫发作",
-      "onboard_time": 1730622378,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151287,
@@ -5419,6 +5499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144159,
+      "num": 144159,
+      "word": "隐形战机苏57降落太原",
+      "onboard_time": 1730624538,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 143654,
       "num": 143654,
       "word": "王者苍英雄品质升级上线体验服",
@@ -5635,6 +5723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138238,
+      "num": 337377,
+      "word": "潘宏爱玩狗称自己做得没错",
+      "onboard_time": 1730621298,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138171,
       "num": 138171,
       "word": "梁伟铿伤情已稳定",
@@ -5817,6 +5913,14 @@
       "onboard_time": 1730473459,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132011,
+      "num": 132011,
+      "word": "央视点赞刘德华在台唱中国人",
+      "onboard_time": 1730621957,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 131961,
@@ -6003,6 +6107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126100,
+      "num": 126100,
+      "word": "税务师实务",
+      "onboard_time": 1730625678,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125946,
       "num": 125946,
       "word": "珠帘玉幕 好哭",
@@ -6081,6 +6193,14 @@
       "onboard_time": 1730608700,
       "rank": 44,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 124578,
+      "num": 124578,
+      "word": "Bin再发博回应不敌T1",
+      "onboard_time": 1730625017,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 124293,
@@ -6185,14 +6305,6 @@
       "onboard_time": 1730593397,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119428,
-      "num": 119428,
-      "word": "央视点赞刘德华在台唱中国人",
-      "onboard_time": 1730621957,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 119393,
@@ -6987,14 +7099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87955,
-      "num": 87955,
-      "word": "5辆车同步掉头的新型通道你会开吗",
-      "onboard_time": 1730623039,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87742,
       "num": 87742,
       "word": "麦麦 东亚家庭的影子",
@@ -7275,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69965,
+      "num": 119102,
+      "word": "大连英博2比1上海嘉定汇龙",
+      "onboard_time": 1730625498,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69360,
       "num": 69360,
       "word": "T1维持对LPL不败金身",
@@ -7387,6 +7499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61358,
+      "num": 319238,
+      "word": "这届美国大选到底有多乱",
+      "onboard_time": 1730625378,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 60977,
       "num": 60977,
       "word": "河南景区暖心设计让女厕所不再排队",
@@ -7464,6 +7584,14 @@
       "word": "做了一周轻体力活我开始怀念上班",
       "onboard_time": 1730432058,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54310,
+      "num": 277530,
+      "word": "滁州一野猪在居民区狂奔撞倒两人",
+      "onboard_time": 1730623338,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -7545,14 +7673,6 @@
       "onboard_time": 1730415314,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 50218,
-      "num": 337377,
-      "word": "潘宏爱玩狗称自己做得没错",
-      "onboard_time": 1730621298,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50122,
@@ -7649,6 +7769,14 @@
       "onboard_time": 1730568136,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44821,
+      "num": 300919,
+      "word": "单身女性的互助式养老生活",
+      "onboard_time": 1730625017,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44786,
@@ -7788,7 +7916,7 @@
     },
     {
       "raw_hot": 40459,
-      "num": 485596,
+      "num": 539132,
       "word": "迎接神十八空中分队最后一次演练",
       "onboard_time": 1730621720,
       "rank": 2,
@@ -8555,6 +8683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18201,
+      "num": 133248,
+      "word": "今天超45万人跑马拉松",
+      "onboard_time": 1730624418,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 18155,
       "num": 31213,
       "word": "空中分队5架直升机迎接神十八回家",
@@ -8745,6 +8881,14 @@
       "onboard_time": 1730582172,
       "rank": 19,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 13879,
+      "num": 315967,
+      "word": "复方阿胶浆药品追溯码重复波及多省",
+      "onboard_time": 1730625559,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13834,
