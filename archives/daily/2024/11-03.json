@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730622332966,
+  "endTime": 1730623120203,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -251,8 +251,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 871619,
-      "num": 1139459,
+      "raw_hot": 891722,
+      "num": 1142675,
       "word": "周深把自己反锁在了卫生间",
       "onboard_time": 1730612658,
       "rank": 8,
@@ -579,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 419943,
+      "num": 341292,
+      "word": "云合",
+      "onboard_time": 1730622077,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414501,
       "num": 542730,
       "word": "郑钦文vs萨巴伦卡",
@@ -601,6 +609,14 @@
       "onboard_time": 1730616617,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404598,
+      "num": 342297,
+      "word": "杨天真cos虞书欣",
+      "onboard_time": 1730620218,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 403439,
@@ -641,14 +657,6 @@
       "onboard_time": 1730573596,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 381632,
-      "num": 342297,
-      "word": "杨天真cos虞书欣",
-      "onboard_time": 1730620218,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 378284,
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340739,
+      "num": 315902,
+      "word": "王心凌音乐节只唱4首观众齐喊退票",
+      "onboard_time": 1730622257,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
@@ -729,6 +745,14 @@
       "onboard_time": 1730533758,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315747,
+      "num": 315747,
+      "word": "央视采访进哀牢山取材的颜料师张俊杰",
+      "onboard_time": 1730616739,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308893,
@@ -803,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273810,
+      "num": 364243,
+      "word": "中国研制时钟6000万年误差小于1秒",
+      "onboard_time": 1730617398,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273618,
       "num": 273618,
       "word": "婴儿出生不满3天被装塑料袋遗弃",
@@ -824,14 +856,6 @@
       "word": "2小伙买刮刮乐中百万室友发声",
       "onboard_time": 1730553320,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267167,
-      "num": 267167,
-      "word": "央视采访进哀牢山取材的颜料师张俊杰",
-      "onboard_time": 1730616739,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -971,6 +995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217654,
+      "num": 217654,
+      "word": "鞠婧祎黑色鹅绒服",
+      "onboard_time": 1730621838,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215586,
       "num": 215586,
       "word": "BLG原班人马再战一年可能性多大",
@@ -1083,20 +1115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204296,
+      "num": 204296,
+      "word": "永夜星河云合超小巷人家",
+      "onboard_time": 1730622257,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204258,
       "num": 189488,
       "word": "阿里巴巴就姜萍事件道歉",
       "onboard_time": 1730602700,
       "rank": 30,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 204045,
-      "num": 364243,
-      "word": "中国研制时钟6000万年误差小于1秒",
-      "onboard_time": 1730617398,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202279,
@@ -1115,12 +1147,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200769,
-      "num": 200769,
-      "word": "鞠婧祎黑色鹅绒服",
-      "onboard_time": 1730621838,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 200349,
+      "num": 200349,
+      "word": "成都两家私人影院已停业关闭",
+      "onboard_time": 1730621898,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199594,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1730561481,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196644,
-      "num": 196644,
-      "word": "王心凌音乐节只唱4首观众齐喊退票",
-      "onboard_time": 1730622257,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 195918,
@@ -1259,14 +1283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182084,
-      "num": 182084,
-      "word": "云合",
-      "onboard_time": 1730622077,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181300,
       "num": 181300,
       "word": "北方人要为过冬做准备了",
@@ -1288,6 +1304,14 @@
       "word": "重庆工商大学通报学生称被恶意阻拦毕业",
       "onboard_time": 1730559801,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179797,
+      "num": 367898,
+      "word": "原来猫猫也会抑郁",
+      "onboard_time": 1730619078,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1353,14 +1377,6 @@
       "onboard_time": 1730553261,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 165360,
-      "num": 165360,
-      "word": "永夜星河云合超小巷人家",
-      "onboard_time": 1730622257,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 165251,
@@ -1492,10 +1508,18 @@
     },
     {
       "raw_hot": 154067,
-      "num": 154067,
+      "num": 319975,
       "word": "学生举报老师学术霸凌不属实",
       "onboard_time": 1730619857,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152741,
+      "num": 378298,
+      "word": "员工曝高校食堂使用过期食材被开除",
+      "onboard_time": 1730619198,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1529,6 +1553,14 @@
       "onboard_time": 1730616378,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151512,
+      "num": 151512,
+      "word": "男孩一洗澡就癫痫发作",
+      "onboard_time": 1730622378,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149396,
@@ -1707,14 +1739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125238,
-      "num": 378298,
-      "word": "员工曝高校食堂使用过期食材被开除",
-      "onboard_time": 1730619198,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125107,
       "num": 125107,
       "word": "用三折叠打开死侍与金刚狼",
@@ -1843,19 +1867,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109035,
+      "num": 109035,
+      "word": "永夜星河首播云合",
+      "onboard_time": 1730622859,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108971,
       "num": 108971,
       "word": "私人影院经营者张某某被抓",
       "onboard_time": 1730617099,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108611,
-      "num": 108611,
-      "word": "成都两家私人影院已停业关闭",
-      "onboard_time": 1730621898,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1891,20 +1915,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 103222,
+      "num": 103222,
+      "word": "中甲",
+      "onboard_time": 1730623039,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103019,
       "num": 166633,
       "word": "虞书欣泰国首次个人见面会",
       "onboard_time": 1730594779,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99235,
-      "num": 367898,
-      "word": "原来猫猫也会抑郁",
-      "onboard_time": 1730619078,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98445,
@@ -1968,6 +1992,14 @@
       "word": "山东兰陵铁矿事故已致3人死亡",
       "onboard_time": 1730565858,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87955,
+      "num": 87955,
+      "word": "5辆车同步掉头的新型通道你会开吗",
+      "onboard_time": 1730623039,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2091,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50218,
+      "num": 337377,
+      "word": "潘宏爱玩狗称自己做得没错",
+      "onboard_time": 1730621298,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48442,
       "num": 48442,
       "word": "神十八航天员完成全部既定任务",
@@ -2139,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40459,
+      "num": 485596,
+      "word": "迎接神十八空中分队最后一次演练",
+      "onboard_time": 1730621720,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39300,
       "num": 337471,
       "word": "毛奇大搞权权交易权钱交易",
@@ -2147,11 +2195,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38263,
-      "num": 337377,
-      "word": "潘宏爱玩狗称自己做得没错",
-      "onboard_time": 1730621298,
-      "rank": 18,
+      "raw_hot": 36816,
+      "num": 347224,
+      "word": "西双版纳文旅向麦子奶奶发出邀请",
+      "onboard_time": 1730621358,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2163,28 +2211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32324,
-      "num": 449049,
-      "word": "迎接神十八空中分队最后一次演练",
-      "onboard_time": 1730621720,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30081,
       "num": 301816,
       "word": "内娱养成系最后的希望",
       "onboard_time": 1730615478,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30059,
-      "num": 347224,
-      "word": "西双版纳文旅向麦子奶奶发出邀请",
-      "onboard_time": 1730621358,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25760,
