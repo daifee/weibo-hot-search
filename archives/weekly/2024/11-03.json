@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730618436739,
+  "endTime": 1730619376837,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -171,6 +171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1150851,
+      "num": 385111,
+      "word": "刘美含摇了陌生人做搭子看极光",
+      "onboard_time": 1730617039,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1087761,
       "num": 1087761,
       "word": "BLG赛点",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1055760,
-      "num": 1055760,
+      "num": 1158090,
       "word": "特朗普被马斯克通知或遭暗杀",
       "onboard_time": 1730613918,
       "rank": 11,
@@ -297,14 +305,6 @@
       "onboard_time": 1730575394,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 672128,
-      "num": 385111,
-      "word": "刘美含摇了陌生人做搭子看极光",
-      "onboard_time": 1730617039,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 667280,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472387,
+      "num": 472387,
+      "word": "今年前三季度全国结婚登记474.7万对",
+      "onboard_time": 1730615899,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460333,
       "num": 482747,
       "word": "强冷空气今天到货",
@@ -555,20 +563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 408225,
-      "num": 431287,
-      "word": "今年前三季度全国结婚登记474.7万对",
-      "onboard_time": 1730615899,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407783,
       "num": 470214,
       "word": "97岁妻子化妆烫发看望98岁丈夫",
       "onboard_time": 1730605220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406060,
+      "num": 406060,
+      "word": "何炅口才",
+      "onboard_time": 1730616617,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 403439,
@@ -611,12 +619,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 381187,
-      "num": 381187,
-      "word": "何炅口才",
-      "onboard_time": 1730616617,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 379352,
+      "num": 379352,
+      "word": "刘梓晨安利赵露思新剧",
+      "onboard_time": 1730617878,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 378284,
@@ -723,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289922,
-      "num": 289922,
-      "word": "刘梓晨安利赵露思新剧",
-      "onboard_time": 1730617878,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289569,
       "num": 454800,
       "word": "On机器人",
@@ -801,6 +801,14 @@
       "onboard_time": 1730553320,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263101,
+      "num": 263101,
+      "word": "孙颖莎24岁健康涨球",
+      "onboard_time": 1730618119,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 257922,
@@ -907,6 +915,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 224531,
+      "num": 215673,
+      "word": "央视采访进哀牢山取材的颜料师张俊杰",
+      "onboard_time": 1730616739,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220435,
       "num": 220435,
       "word": "林孝埈受伤",
@@ -937,6 +953,14 @@
       "onboard_time": 1730604378,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215541,
+      "num": 215541,
+      "word": "看到有人玩这种游戏一定要制止",
+      "onboard_time": 1730616198,
+      "rank": 47,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 213351,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 205518,
-      "num": 205518,
+      "num": 219258,
       "word": "刘宇宁演技",
       "onboard_time": 1730614280,
       "rank": 25,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1730555720,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198826,
-      "num": 168490,
-      "word": "央视采访进哀牢山取材的颜料师张俊杰",
-      "onboard_time": 1730616739,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198548,
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 165137,
-      "num": 169098,
+      "num": 218222,
       "word": "丁程鑫姚景元hi6路透",
       "onboard_time": 1730616739,
       "rank": 29,
@@ -1491,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142676,
+      "num": 142676,
+      "word": "中国研制时钟6000万年误差小于1秒",
+      "onboard_time": 1730617398,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142466,
       "num": 142466,
       "word": "西班牙洪灾致中国公民2遇难2失联",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1730608520,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140941,
-      "num": 140941,
-      "word": "看到有人玩这种游戏一定要制止",
-      "onboard_time": 1730616198,
-      "rank": 47,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 139840,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1730559080,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127395,
-      "num": 127395,
-      "word": "中国研制时钟6000万年误差小于1秒",
-      "onboard_time": 1730617398,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127232,
@@ -1683,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119686,
-      "num": 119686,
-      "word": "孙颖莎24岁健康涨球",
-      "onboard_time": 1730618119,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116832,
       "num": 262481,
       "word": "BLG稳住",
@@ -1707,6 +1707,14 @@
       "category": "电竞,作品衍生"
     },
     {
+      "raw_hot": 114826,
+      "num": 114826,
+      "word": "微博视界大会观众喜爱荣耀剧综人物",
+      "onboard_time": 1730619078,
+      "rank": 42,
+      "category": "综艺,剧集"
+    },
+    {
       "raw_hot": 113165,
       "num": 113165,
       "word": "导游误把乙二醇当锅底游客吃中毒",
@@ -1715,12 +1723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112938,
+      "num": 112938,
+      "word": "陶昕然新片造型",
+      "onboard_time": 1730618597,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109078,
       "num": 109078,
       "word": "焚城 白宇演技",
       "onboard_time": 1730618358,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108971,
+      "num": 108971,
+      "word": "私人影院经营者张某某被抓",
+      "onboard_time": 1730617099,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107434,
@@ -1875,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78660,
+      "num": 384702,
+      "word": "到亲戚家做客被狗咬伤获赔40余万",
+      "onboard_time": 1730617878,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74118,
       "num": 74118,
       "word": "KPL",
@@ -1889,14 +1921,6 @@
       "onboard_time": 1730576592,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66975,
-      "num": 384702,
-      "word": "到亲戚家做客被狗咬伤获赔40余万",
-      "onboard_time": 1730617878,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66921,
@@ -1929,6 +1953,14 @@
       "onboard_time": 1730545098,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53367,
+      "num": 388219,
+      "word": "多地出现邮寄黄金诈骗案",
+      "onboard_time": 1730617398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48442,
@@ -1995,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32710,
-      "num": 388219,
-      "word": "多地出现邮寄黄金诈骗案",
-      "onboard_time": 1730617398,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30081,
       "num": 301816,
       "word": "内娱养成系最后的希望",
@@ -2033,6 +2057,22 @@
       "onboard_time": 1730615837,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24361,
+      "num": 378298,
+      "word": "员工曝高校食堂使用过期食材被开除",
+      "onboard_time": 1730619198,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24100,
+      "num": 383179,
+      "word": "北京马拉松氛围太燃了",
+      "onboard_time": 1730617220,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 22694,
@@ -2099,14 +2139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18039,
-      "num": 383179,
-      "word": "北京马拉松氛围太燃了",
-      "onboard_time": 1730617220,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17521,
       "num": 127151,
       "word": "辽宁饭店老板娘报平安",
@@ -2129,6 +2161,14 @@
       "onboard_time": 1730572162,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15616,
+      "num": 298526,
+      "word": "荷兰弟赞达亚波士顿遛狗",
+      "onboard_time": 1730618899,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 15159,
