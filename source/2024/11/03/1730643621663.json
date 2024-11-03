@@ -1,0 +1,410 @@
+{
+  "runTime": 1730643621663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1381069,
+        "num": 1381069,
+        "word": "黄磊回应好为人师爱说教",
+        "onboard_time": 1730639779,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998854,
+        "num": 998854,
+        "word": "王楚钦肩伤成典型医疗案例",
+        "onboard_time": 1730641761,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115822,
+        "num": 985760,
+        "word": "欢迎神十八回家",
+        "onboard_time": 1730639419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 983075,
+        "num": 983075,
+        "word": "张本智和淘汰",
+        "onboard_time": 1730640559,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 883058,
+        "num": 883058,
+        "word": "演技整容",
+        "onboard_time": 1730634679,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698855,
+        "num": 698855,
+        "word": "第一个从郑州夜骑开封的女生发声",
+        "onboard_time": 1730639960,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688790,
+        "num": 688790,
+        "word": "刘宇宁也想转发赵露思微博",
+        "onboard_time": 1730638639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662062,
+        "num": 662062,
+        "word": "王心凌发文回应",
+        "onboard_time": 1730639478,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522309,
+        "num": 522309,
+        "word": "华为Mate70",
+        "onboard_time": 1730642241,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72842,
+        "num": 522060,
+        "word": "一小时登顶黄山奖1万引热议",
+        "onboard_time": 1730642661,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1239097,
+        "num": 519425,
+        "word": "舆论不能捧杀完就棒杀",
+        "onboard_time": 1730638219,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 952957,
+        "num": 516775,
+        "word": "上海迪士尼疑老太带孙插队被怒吼",
+        "onboard_time": 1730637978,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658660,
+        "num": 516505,
+        "word": "花少4个人吃9人餐事情始末",
+        "onboard_time": 1730625079,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631960,
+        "num": 513998,
+        "word": "黄圣依入学中欧国际商学院EMBA",
+        "onboard_time": 1730642179,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31653,
+        "num": 511459,
+        "word": "杀害同村六旬老妇的男子已被抓",
+        "onboard_time": 1730642600,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529604,
+        "num": 510465,
+        "word": "丁禹兮 毛毛姐",
+        "onboard_time": 1730635939,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509236,
+        "num": 509236,
+        "word": "永夜星河第七集 梦回苍兰诀",
+        "onboard_time": 1730636718,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459020,
+        "num": 459020,
+        "word": "烧伤妈妈说不想再住原来的房子",
+        "onboard_time": 1730629040,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436216,
+        "num": 436216,
+        "word": "死亡游戏流行校园真的会致死",
+        "onboard_time": 1730636538,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 394482,
+        "num": 394482,
+        "word": "美国大选已花费14700000000美元",
+        "onboard_time": 1730639000,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446884,
+        "num": 370390,
+        "word": "赵露思回应和刘梓晨长得像",
+        "onboard_time": 1730620999,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427806,
+        "num": 358827,
+        "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+        "onboard_time": 1730637438,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344508,
+        "num": 344508,
+        "word": "张本智和止步男单32强",
+        "onboard_time": 1730640741,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334680,
+        "num": 334680,
+        "word": "卢昱晓 小巷人家",
+        "onboard_time": 1730642661,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329308,
+        "num": 329308,
+        "word": "秋瓷炫亲公公脸颊",
+        "onboard_time": 1730633420,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277505,
+        "num": 277505,
+        "word": "95四小花",
+        "onboard_time": 1730633179,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273538,
+        "num": 273538,
+        "word": "虞书欣和丁禹兮跳yesok",
+        "onboard_time": 1730641220,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243399,
+        "num": 243399,
+        "word": "林俊杰演唱会收官",
+        "onboard_time": 1730643201,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240749,
+        "num": 240749,
+        "word": "死亡游戏再现校园严重可窒息",
+        "onboard_time": 1730623158,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239674,
+        "num": 239674,
+        "word": "很多人的臀肌其实已经失忆",
+        "onboard_time": 1730635878,
+        "rank": 29,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 229944,
+        "num": 229944,
+        "word": "吴露可逃",
+        "onboard_time": 1730623819,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202706,
+        "num": 202706,
+        "word": "苏州一小区给业主分红户均分到4位数",
+        "onboard_time": 1730634979,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199762,
+        "num": 199762,
+        "word": "美邦老板称和贾乃亮合作效果差",
+        "onboard_time": 1730642661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195533,
+        "num": 195533,
+        "word": "珠帘玉幕热度破10100",
+        "onboard_time": 1730642780,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178387,
+        "num": 178387,
+        "word": "男子幼儿园按住男孩教唆女孩踢打",
+        "onboard_time": 1730630899,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177335,
+        "num": 177335,
+        "word": "大梦归离好虐",
+        "onboard_time": 1730634920,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173904,
+        "num": 173904,
+        "word": "永夜星河双榜登顶",
+        "onboard_time": 1730642179,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172513,
+        "num": 172513,
+        "word": "孙颖莎 欧扎克",
+        "onboard_time": 1730629040,
+        "rank": 37,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 166745,
+        "num": 166745,
+        "word": "美国大选前夕更多富人计划离开美国",
+        "onboard_time": 1730626157,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166179,
+        "num": 166179,
+        "word": "王一栩救星",
+        "onboard_time": 1730637738,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161754,
+        "num": 161754,
+        "word": "神舟飞船5次落在我们家草场",
+        "onboard_time": 1730642600,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25472,
+        "num": 152812,
+        "word": "大梦归离第一把大刀来了",
+        "onboard_time": 1730643021,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147900,
+        "num": 147900,
+        "word": "11个退货快递放门口被偷",
+        "onboard_time": 1730640741,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145582,
+        "num": 145582,
+        "word": "郑在玹寸头",
+        "onboard_time": 1730637919,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134230,
+        "num": 134230,
+        "word": "金灿荣称美国是伪装成国家的公司",
+        "onboard_time": 1730639719,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123470,
+        "num": 123470,
+        "word": "孙颖莎24岁健康涨球",
+        "onboard_time": 1730618119,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123231,
+        "num": 123231,
+        "word": "贵州一个村种了近20种辣椒",
+        "onboard_time": 1730635878,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 119355,
+        "word": "T1夺冠后的LPL解说台",
+        "onboard_time": 1730630658,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118339,
+        "num": 118339,
+        "word": "神十八顺利撤离空间站组合体",
+        "onboard_time": 1730628137,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118011,
+        "num": 118011,
+        "word": "旅韩大熊猫园欣有高血压",
+        "onboard_time": 1730642901,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这两件事要两手并用#"
+    }
+  }
+}
