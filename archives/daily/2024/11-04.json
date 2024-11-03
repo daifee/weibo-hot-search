@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730666154518,
+  "endTime": 1730668853447,
   "band_list": [
     {
       "raw_hot": 932837,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46161,
+      "num": 36433,
+      "word": "美国B52战略轰炸机抵达中东",
+      "onboard_time": 1730663112,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42776,
       "num": 50651,
       "word": "大梦归离",
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23669,
+      "num": 23669,
+      "word": "广东女子吃羊胎盘引发严重脊柱炎",
+      "onboard_time": 1730666471,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23157,
       "num": 23157,
       "word": "黄磊回应被指好为人师",
       "onboard_time": 1730658552,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23121,
-      "num": 23121,
-      "word": "美国B52战略轰炸机抵达中东",
-      "onboard_time": 1730663112,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 20019,
@@ -611,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16767,
+      "num": 18447,
+      "word": "直击第十五届中国航展",
+      "onboard_time": 1730665511,
+      "rank": 34,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 15282,
       "num": 32629,
       "word": "神十八近半年太空之旅结束",
@@ -619,7 +635,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14683,
+      "raw_hot": 15099,
       "num": 35097,
       "word": "轰6K将在第15届中国航展进行静态展示",
       "onboard_time": 1730664430,
@@ -635,12 +651,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13678,
-      "num": 18447,
-      "word": "直击第十五届中国航展",
-      "onboard_time": 1730665511,
-      "rank": 34,
-      "category": "国内时政,军事"
+      "raw_hot": 12943,
+      "num": 35450,
+      "word": "以军称在加沙打死哈马斯一高级官员",
+      "onboard_time": 1730667131,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 12720,
@@ -651,8 +667,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10215,
-      "num": 20755,
+      "raw_hot": 11593,
+      "num": 21547,
       "word": "军字号特供酒年份高低全靠色素调",
       "onboard_time": 1730665151,
       "rank": 28,

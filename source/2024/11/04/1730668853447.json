@@ -1,0 +1,410 @@
+{
+  "runTime": 1730668853447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 118256,
+        "num": 130032,
+        "word": "神舟十八号返回舱成功着陆",
+        "onboard_time": 1730654892,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 70683,
+        "num": 70683,
+        "word": "黄磊回应好为人师爱说教",
+        "onboard_time": 1730639779,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6668,
+        "num": 57033,
+        "word": "文化中国行看打开ChinaTravel的N种方式",
+        "onboard_time": 1730639180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56850,
+        "num": 56850,
+        "word": "李行亮买青团细节",
+        "onboard_time": 1730648119,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52558,
+        "num": 52558,
+        "word": "美国警告伊朗不要再袭击以色列",
+        "onboard_time": 1730658611,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42582,
+        "num": 42582,
+        "word": "死亡游戏流行校园真的会致死",
+        "onboard_time": 1730636538,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 53311,
+        "num": 41299,
+        "word": "张凌赫发文虞书欣永夜星河",
+        "onboard_time": 1730661311,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44356,
+        "num": 40924,
+        "word": "王心凌发文回应",
+        "onboard_time": 1730639478,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38078,
+        "num": 38078,
+        "word": "十万彩礼做女友造谣者仍未道歉赔偿",
+        "onboard_time": 1730648898,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37128,
+        "num": 37128,
+        "word": "王楚钦奥运肩伤内幕曝光",
+        "onboard_time": 1730654473,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62217,
+        "num": 37014,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46161,
+        "num": 36433,
+        "word": "美国B52战略轰炸机抵达中东",
+        "onboard_time": 1730663112,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39370,
+        "num": 36241,
+        "word": "永夜星河",
+        "onboard_time": 1730655553,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39226,
+        "num": 35781,
+        "word": "孙滢皓坐了导师的位置",
+        "onboard_time": 1730648239,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12943,
+        "num": 35450,
+        "word": "以军称在加沙打死哈马斯一高级官员",
+        "onboard_time": 1730667131,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38026,
+        "num": 35049,
+        "word": "赵露思回应和刘梓晨长得像",
+        "onboard_time": 1730620999,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35014,
+        "num": 35014,
+        "word": "神十八载人飞行任务圆满成功",
+        "onboard_time": 1730656873,
+        "rank": 16,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 30491,
+        "num": 30491,
+        "word": "黄磊回应资源背景争议",
+        "onboard_time": 1730660111,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29728,
+        "num": 29728,
+        "word": "神舟十八号",
+        "onboard_time": 1730657953,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 29475,
+        "num": 29475,
+        "word": "第一个从郑州夜骑开封的女生发声",
+        "onboard_time": 1730639960,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30542,
+        "num": 28033,
+        "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+        "onboard_time": 1730637438,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26209,
+        "num": 26209,
+        "word": "11个退货快递放门口被偷",
+        "onboard_time": 1730640741,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24896,
+        "num": 24896,
+        "word": "王楚钦肩伤成典型医疗案例",
+        "onboard_time": 1730641761,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23898,
+        "num": 23898,
+        "word": "金灿荣称美国是伪装成国家的公司",
+        "onboard_time": 1730639719,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23743,
+        "num": 23743,
+        "word": "上海迪士尼疑老太带孙插队被怒吼",
+        "onboard_time": 1730637978,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23669,
+        "num": 23669,
+        "word": "广东女子吃羊胎盘引发严重脊柱炎",
+        "onboard_time": 1730666471,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23597,
+        "num": 23597,
+        "word": "视频回顾80后乘组太空之旅",
+        "onboard_time": 1730653095,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21648,
+        "num": 21648,
+        "word": "卢昱晓 小巷人家",
+        "onboard_time": 1730642661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21610,
+        "num": 21610,
+        "word": "欢迎神十八回家",
+        "onboard_time": 1730639419,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11593,
+        "num": 21547,
+        "word": "军字号特供酒年份高低全靠色素调",
+        "onboard_time": 1730665151,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21530,
+        "num": 21530,
+        "word": "烧伤妈妈说不想再住原来的房子",
+        "onboard_time": 1730629040,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21448,
+        "num": 21448,
+        "word": "中国首位累计飞行超1年的航天员",
+        "onboard_time": 1730660292,
+        "rank": 31,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 20610,
+        "num": 20610,
+        "word": "美邦老板称和贾乃亮合作效果差",
+        "onboard_time": 1730642661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19749,
+        "num": 19749,
+        "word": "神十八航天员状态良好",
+        "onboard_time": 1730656933,
+        "rank": 33,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 19703,
+        "num": 19703,
+        "word": "黄圣依入学中欧国际商学院EMBA",
+        "onboard_time": 1730642179,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19557,
+        "num": 19557,
+        "word": "被裁后跟公司死磕到底的人",
+        "onboard_time": 1730647879,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19404,
+        "num": 19404,
+        "word": "花少4个人吃9人餐事情始末",
+        "onboard_time": 1730625079,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 19077,
+        "word": "华为Mate70",
+        "onboard_time": 1730642241,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18653,
+        "num": 18653,
+        "word": "永夜星河第七集 梦回苍兰诀",
+        "onboard_time": 1730636718,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18457,
+        "num": 18457,
+        "word": "叶光富说中国航天的纪录将很快刷新",
+        "onboard_time": 1730660292,
+        "rank": 39,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 16767,
+        "num": 16767,
+        "word": "直击第十五届中国航展",
+        "onboard_time": 1730665511,
+        "rank": 40,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 16598,
+        "num": 16598,
+        "word": "很多人的臀肌其实已经失忆",
+        "onboard_time": 1730635878,
+        "rank": 41,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 16472,
+        "num": 16472,
+        "word": "张本智和淘汰",
+        "onboard_time": 1730640559,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16247,
+        "num": 16247,
+        "word": "中国市场这么大欢迎大家都来看看",
+        "onboard_time": 1730654175,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15967,
+        "num": 15967,
+        "word": "大梦归离好虐",
+        "onboard_time": 1730634920,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15099,
+        "num": 15099,
+        "word": "轰6K将在第15届中国航展进行静态展示",
+        "onboard_time": 1730664430,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14972,
+        "num": 14972,
+        "word": "孙颖莎 欧扎克",
+        "onboard_time": 1730629040,
+        "rank": 46,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 14673,
+        "num": 14673,
+        "word": "男子为让网友点关注谎称孩子丢了",
+        "onboard_time": 1730662212,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14585,
+        "num": 14585,
+        "word": "美国大选已花费14700000000美元",
+        "onboard_time": 1730639000,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14225,
+        "num": 14463,
+        "word": "林俊杰演唱会收官",
+        "onboard_time": 1730643201,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这两件事要两手并用#"
+    }
+  }
+}
