@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730647302313,
+  "endTime": 1730648153961,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -155,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1662964,
+      "num": 415690,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1579669,
       "num": 1579669,
       "word": "黄磊回应好为人师爱说教",
@@ -249,14 +257,6 @@
       "onboard_time": 1730638219,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1191313,
-      "num": 415690,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1164772,
@@ -883,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 426727,
+      "num": 357793,
+      "word": "林一为虞书欣永夜星河打call",
+      "onboard_time": 1730645839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426158,
       "num": 287259,
       "word": "T1夺冠后的LPL解说台",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1730561003,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357793,
-      "num": 357793,
-      "word": "林一为虞书欣永夜星河打call",
-      "onboard_time": 1730645839,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 352455,
@@ -1371,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241763,
+      "num": 241763,
+      "word": "白桃星座",
+      "onboard_time": 1730646561,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240128,
       "num": 240128,
       "word": "数学竞赛违规学生百科介绍被多平台删除",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1730572702,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 238262,
+      "num": 238262,
+      "word": "月光变奏曲",
+      "onboard_time": 1730644700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 236453,
@@ -1489,14 +1505,6 @@
       "onboard_time": 1730628137,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 221223,
-      "num": 221223,
-      "word": "月光变奏曲",
-      "onboard_time": 1730644700,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 220435,
@@ -2004,7 +2012,7 @@
     },
     {
       "raw_hot": 174650,
-      "num": 174650,
+      "num": 244114,
       "word": "直击东风着陆场",
       "onboard_time": 1730645660,
       "rank": 35,
@@ -2587,14 +2595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133226,
-      "num": 133226,
-      "word": "白桃星座",
-      "onboard_time": 1730646561,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131654,
       "num": 131654,
       "word": "樊振东表达对体育的热爱",
@@ -2849,6 +2849,22 @@
       "onboard_time": 1730618597,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112604,
+      "num": 112604,
+      "word": "小巷人家 晓庆衫",
+      "onboard_time": 1730647940,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109142,
+      "num": 109142,
+      "word": "李行亮买青团细节",
+      "onboard_time": 1730648119,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109081,
@@ -3115,6 +3131,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 64900,
+      "num": 195641,
+      "word": "郑州大学生返程高铁站睡成一片",
+      "onboard_time": 1730648059,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64884,
       "num": 330524,
       "word": "张雨绮男友回应",
@@ -3280,6 +3304,14 @@
       "word": "离婚综艺为啥这么火",
       "onboard_time": 1730626278,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33536,
+      "num": 276864,
+      "word": "被裁后跟公司死磕到底的人",
+      "onboard_time": 1730647879,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

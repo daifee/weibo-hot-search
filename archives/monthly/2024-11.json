@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730647302313,
+  "endTime": 1730648153961,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -2227,6 +2227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 426727,
+      "num": 357793,
+      "word": "林一为虞书欣永夜星河打call",
+      "onboard_time": 1730645839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426158,
       "num": 287259,
       "word": "T1夺冠后的LPL解说台",
@@ -2673,14 +2681,6 @@
       "onboard_time": 1730428878,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357793,
-      "num": 357793,
-      "word": "林一为虞书欣永夜星河打call",
-      "onboard_time": 1730645839,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 354960,
@@ -3603,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241763,
+      "num": 241763,
+      "word": "白桃星座",
+      "onboard_time": 1730646561,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241286,
       "num": 208847,
       "word": "范丞丞演技",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1730572702,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 238262,
+      "num": 238262,
+      "word": "月光变奏曲",
+      "onboard_time": 1730644700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 236760,
@@ -3825,14 +3841,6 @@
       "onboard_time": 1730628137,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 221223,
-      "num": 221223,
-      "word": "月光变奏曲",
-      "onboard_time": 1730644700,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 221148,
@@ -5116,7 +5124,7 @@
     },
     {
       "raw_hot": 174650,
-      "num": 174650,
+      "num": 244114,
       "word": "直击东风着陆场",
       "onboard_time": 1730645660,
       "rank": 35,
@@ -6667,14 +6675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133226,
-      "num": 133226,
-      "word": "白桃星座",
-      "onboard_time": 1730646561,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133215,
       "num": 133215,
       "word": "林诗栋3比2宇田幸矢",
@@ -7395,6 +7395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112604,
+      "num": 112604,
+      "word": "小巷人家 晓庆衫",
+      "onboard_time": 1730647940,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112247,
       "num": 112247,
       "word": "为点流量吃猪食无底限的吃相好难看",
@@ -7480,6 +7488,14 @@
       "word": "邵子恒初C实力",
       "onboard_time": 1730556861,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109142,
+      "num": 109142,
+      "word": "李行亮买青团细节",
+      "onboard_time": 1730648119,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -8331,6 +8347,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 64900,
+      "num": 195641,
+      "word": "郑州大学生返程高铁站睡成一片",
+      "onboard_time": 1730648059,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64884,
       "num": 330524,
       "word": "张雨绮男友回应",
@@ -9001,6 +9025,14 @@
       "onboard_time": 1730434940,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33536,
+      "num": 276864,
+      "word": "被裁后跟公司死磕到底的人",
+      "onboard_time": 1730647879,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33374,
