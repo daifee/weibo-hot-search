@@ -1,0 +1,410 @@
+{
+  "runTime": 1730676977358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 638769,
+        "num": 904720,
+        "word": "神舟十八号返回舱成功着陆",
+        "onboard_time": 1730654892,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 358759,
+        "num": 358759,
+        "word": "美国警告伊朗不要再袭击以色列",
+        "onboard_time": 1730658611,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 16509,
+        "num": 287277,
+        "word": "文化中国行看打开ChinaTravel的N种方式",
+        "onboard_time": 1730639180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285971,
+        "num": 285971,
+        "word": "王楚钦奥运肩伤内幕曝光",
+        "onboard_time": 1730654473,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276391,
+        "num": 276391,
+        "word": "死亡游戏流行校园真的会致死",
+        "onboard_time": 1730636538,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251035,
+        "num": 251035,
+        "word": "第一个从郑州夜骑开封的女生发声",
+        "onboard_time": 1730639960,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211627,
+        "num": 211627,
+        "word": "满满的祝福送给莎莎",
+        "onboard_time": 1730675596,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209504,
+        "num": 209504,
+        "word": "王楚钦肩伤成典型医疗案例",
+        "onboard_time": 1730641761,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153471,
+        "num": 153471,
+        "word": "华为Mate70",
+        "onboard_time": 1730642241,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110602,
+        "num": 153441,
+        "word": "闫妮 人怎么能有种成黄玲这样",
+        "onboard_time": 1730643680,
+        "rank": 9,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 813390,
+        "num": 153294,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 610476,
+        "num": 153107,
+        "word": "黄磊回应好为人师爱说教",
+        "onboard_time": 1730639779,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482543,
+        "num": 152926,
+        "word": "李行亮买青团细节",
+        "onboard_time": 1730648119,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453712,
+        "num": 152855,
+        "word": "美邦老板称和贾乃亮合作效果差",
+        "onboard_time": 1730642661,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436560,
+        "num": 152662,
+        "word": "上海迪士尼疑老太带孙插队被怒吼",
+        "onboard_time": 1730637978,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373050,
+        "num": 152471,
+        "word": "张凌赫发文虞书欣永夜星河",
+        "onboard_time": 1730661311,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299187,
+        "num": 152307,
+        "word": "王心凌发文回应",
+        "onboard_time": 1730639478,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253302,
+        "num": 152130,
+        "word": "孙滢皓坐了导师的位置",
+        "onboard_time": 1730648239,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208047,
+        "num": 152015,
+        "word": "黄圣依入学中欧国际商学院EMBA",
+        "onboard_time": 1730642179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191677,
+        "num": 151893,
+        "word": "赵露思回应和刘梓晨长得像",
+        "onboard_time": 1730620999,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156872,
+        "num": 151733,
+        "word": "黄磊回应资源背景争议",
+        "onboard_time": 1730660111,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154915,
+        "num": 151626,
+        "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+        "onboard_time": 1730637438,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151521,
+        "num": 151521,
+        "word": "孙颖莎24岁健康涨球",
+        "onboard_time": 1730618119,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 132231,
+        "word": "广东女子吃羊胎盘引发严重脊柱炎",
+        "onboard_time": 1730666471,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95983,
+        "num": 107068,
+        "word": "永夜星河",
+        "onboard_time": 1730655553,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102835,
+        "num": 102835,
+        "word": "永夜星河男主出场 奥特曼来了",
+        "onboard_time": 1730674874,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61617,
+        "num": 102691,
+        "word": "卢昱晓 小巷人家",
+        "onboard_time": 1730642661,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52026,
+        "num": 102269,
+        "word": "大梦归离好虐",
+        "onboard_time": 1730634920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44183,
+        "num": 101925,
+        "word": "永夜星河第七集 梦回苍兰诀",
+        "onboard_time": 1730636718,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39185,
+        "num": 101253,
+        "word": "林俊杰演唱会收官",
+        "onboard_time": 1730643201,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15737,
+        "num": 100890,
+        "word": "叶光富提前半年给妈妈备好生日花花",
+        "onboard_time": 1730674635,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110822,
+        "num": 100722,
+        "word": "孙颖莎 欧扎克",
+        "onboard_time": 1730629040,
+        "rank": 31,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 100358,
+        "num": 100358,
+        "word": "11个退货快递放门口被偷",
+        "onboard_time": 1730640741,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100175,
+        "num": 100175,
+        "word": "很多人的臀肌其实已经失忆",
+        "onboard_time": 1730635878,
+        "rank": 33,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 94468,
+        "num": 94468,
+        "word": "美国B52战略轰炸机抵达中东",
+        "onboard_time": 1730663112,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84669,
+        "num": 84669,
+        "word": "十万彩礼做女友造谣者仍未道歉赔偿",
+        "onboard_time": 1730648898,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84201,
+        "num": 84201,
+        "word": "曼联1比1切尔西",
+        "onboard_time": 1730676676,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82766,
+        "num": 82766,
+        "word": "被裁后跟公司死磕到底的人",
+        "onboard_time": 1730647879,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74654,
+        "num": 74654,
+        "word": "海关查获库班大步甲8头",
+        "onboard_time": 1730674334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74633,
+        "num": 74633,
+        "word": "烧伤妈妈说不想再住原来的房子",
+        "onboard_time": 1730629040,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71902,
+        "num": 71902,
+        "word": "美国大选已花费14700000000美元",
+        "onboard_time": 1730639000,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61717,
+        "num": 61717,
+        "word": "张本智和淘汰",
+        "onboard_time": 1730640559,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59838,
+        "num": 59838,
+        "word": "花少4个人吃9人餐事情始末",
+        "onboard_time": 1730625079,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59263,
+        "num": 59263,
+        "word": "神十八航天员全部顺利出舱",
+        "onboard_time": 1730676136,
+        "rank": 43,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 58037,
+        "num": 58037,
+        "word": "45元1桶假冒机油卖给消费者数百元",
+        "onboard_time": 1730672592,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54799,
+        "num": 54799,
+        "word": "金灿荣称美国是伪装成国家的公司",
+        "onboard_time": 1730639719,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53211,
+        "num": 53211,
+        "word": "叶光富说中国航天的纪录将很快刷新",
+        "onboard_time": 1730660292,
+        "rank": 46,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 50333,
+        "num": 53200,
+        "word": "中国首位累计飞行超1年的航天员",
+        "onboard_time": 1730660292,
+        "rank": 47,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 46004,
+        "num": 53191,
+        "word": "回地球夜宵吃点啥",
+        "onboard_time": 1730674573,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32323,
+        "num": 53164,
+        "word": "神十八载人飞行任务圆满成功",
+        "onboard_time": 1730656873,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这两件事要两手并用#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730676202932,
+  "endTime": 1730676977358,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 648125,
-      "num": 812102,
+      "num": 904720,
       "word": "神舟十八号返回舱成功着陆",
       "onboard_time": 1730654892,
       "rank": 9,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482543,
+      "num": 352280,
+      "word": "李行亮买青团细节",
+      "onboard_time": 1730648119,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472387,
       "num": 472387,
       "word": "今年前三季度全国结婚登记474.7万对",
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453712,
+      "num": 214544,
+      "word": "美邦老板称和贾乃亮合作效果差",
+      "onboard_time": 1730642661,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453124,
       "num": 453124,
       "word": "汪苏泷演唱会蟑螂退退退",
@@ -857,14 +873,6 @@
       "onboard_time": 1730617878,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 445980,
-      "num": 352280,
-      "word": "李行亮买青团细节",
-      "onboard_time": 1730648119,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 442130,
@@ -1067,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 373050,
+      "num": 153679,
+      "word": "张凌赫发文虞书欣永夜星河",
+      "onboard_time": 1730661311,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372306,
       "num": 372306,
       "word": "英雄联盟",
@@ -1099,12 +1115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352662,
-      "num": 214544,
-      "word": "美邦老板称和贾乃亮合作效果差",
-      "onboard_time": 1730642661,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 358759,
+      "num": 358759,
+      "word": "美国警告伊朗不要再袭击以色列",
+      "onboard_time": 1730658611,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 352455,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1730601199,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345274,
-      "num": 153679,
-      "word": "张凌赫发文虞书欣永夜星河",
-      "onboard_time": 1730661311,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 344508,
@@ -1265,14 +1273,6 @@
       "onboard_time": 1730563882,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279143,
-      "num": 279143,
-      "word": "美国警告伊朗不要再袭击以色列",
-      "onboard_time": 1730658611,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 278417,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1730604020,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211627,
+      "num": 211627,
+      "word": "满满的祝福送给莎莎",
+      "onboard_time": 1730675596,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 210422,
@@ -2363,6 +2371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 156872,
+      "num": 151733,
+      "word": "黄磊回应资源背景争议",
+      "onboard_time": 1730660111,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155388,
       "num": 155388,
       "word": "永夜星河热度",
@@ -2667,6 +2683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132231,
+      "num": 132231,
+      "word": "广东女子吃羊胎盘引发严重脊柱炎",
+      "onboard_time": 1730666471,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131654,
       "num": 131654,
       "word": "樊振东表达对体育的热爱",
@@ -2875,22 +2899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117508,
-      "num": 107952,
-      "word": "广东女子吃羊胎盘引发严重脊柱炎",
-      "onboard_time": 1730666471,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117012,
-      "num": 117012,
-      "word": "黄磊回应资源背景争议",
-      "onboard_time": 1730660111,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116891,
       "num": 116891,
       "word": "广州大学情况说明",
@@ -3035,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102835,
+      "num": 102835,
+      "word": "永夜星河男主出场 奥特曼来了",
+      "onboard_time": 1730674874,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98445,
       "num": 112505,
       "word": "郑钦文总决赛出线形势分析",
@@ -3091,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94468,
+      "num": 94468,
+      "word": "美国B52战略轰炸机抵达中东",
+      "onboard_time": 1730663112,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 89011,
       "num": 186325,
       "word": "黄圣依大学时期就会理财",
@@ -3131,20 +3155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84201,
+      "num": 84201,
+      "word": "曼联1比1切尔西",
+      "onboard_time": 1730676676,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83599,
       "num": 83599,
       "word": "成都持械伤人事件不存在克扣工资问题",
       "onboard_time": 1730569578,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83540,
-      "num": 83540,
-      "word": "美国B52战略轰炸机抵达中东",
-      "onboard_time": 1730663112,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 82395,
@@ -3163,19 +3187,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81675,
-      "num": 81675,
-      "word": "满满的祝福送给莎莎",
-      "onboard_time": 1730675596,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78660,
       "num": 384702,
       "word": "到亲戚家做客被狗咬伤获赔40余万",
       "onboard_time": 1730617878,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74654,
+      "num": 74654,
+      "word": "海关查获库班大步甲8头",
+      "onboard_time": 1730674334,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -3193,14 +3217,6 @@
       "onboard_time": 1730654175,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70614,
-      "num": 95393,
-      "word": "永夜星河男主出场 奥特曼来了",
-      "onboard_time": 1730674874,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 69965,
@@ -3307,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59263,
+      "num": 59263,
+      "word": "神十八航天员全部顺利出舱",
+      "onboard_time": 1730676136,
+      "rank": 49,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 56918,
       "num": 511459,
       "word": "杀害同村六旬老妇的男子已被抓",
@@ -3321,14 +3345,6 @@
       "onboard_time": 1730545098,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56241,
-      "num": 56241,
-      "word": "海关查获库班大步甲8头",
-      "onboard_time": 1730674334,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56034,
@@ -3387,6 +3403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 50333,
+      "num": 56177,
+      "word": "中国首位累计飞行超1年的航天员",
+      "onboard_time": 1730660292,
+      "rank": 23,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 49928,
       "num": 77741,
       "word": "神十八乘组4日凌晨返回",
@@ -3401,14 +3425,6 @@
       "onboard_time": 1730586552,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47238,
-      "num": 56177,
-      "word": "中国首位累计飞行超1年的航天员",
-      "onboard_time": 1730660292,
-      "rank": 23,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 46313,
@@ -3536,14 +3552,6 @@
       "word": "神十八航天员状态良好",
       "onboard_time": 1730656933,
       "rank": 8,
-      "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 34735,
-      "num": 56132,
-      "word": "神十八航天员全部顺利出舱",
-      "onboard_time": 1730676136,
-      "rank": 49,
       "category": "国内时政,军事"
     },
     {
@@ -3812,7 +3820,7 @@
     },
     {
       "raw_hot": 17002,
-      "num": 285793,
+      "num": 287277,
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
       "rank": 2,
@@ -3849,6 +3857,14 @@
       "onboard_time": 1730572162,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15737,
+      "num": 108551,
+      "word": "叶光富提前半年给妈妈备好生日花花",
+      "onboard_time": 1730674635,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 15616,
@@ -3953,14 +3969,6 @@
       "onboard_time": 1730577793,
       "rank": 20,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 8686,
-      "num": 108551,
-      "word": "叶光富提前半年给妈妈备好生日花花",
-      "onboard_time": 1730674635,
-      "rank": 9,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
