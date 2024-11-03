@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730598508970,
+  "endTime": 1730599817201,
   "band_list": [
     {
       "raw_hot": 10436342,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1479779,
-      "num": 243681,
+      "num": 401482,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 767373,
-      "num": 242921,
+      "num": 388263,
       "word": "女子新家被他人当宾馆开party",
       "onboard_time": 1730595440,
       "rank": 12,
@@ -883,6 +883,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 677254,
+      "num": 677254,
+      "word": "女子离婚后奶奶拿走宝宝的金吊坠",
+      "onboard_time": 1730596758,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 676499,
       "num": 676499,
       "word": "老人接个电话被骗86万后狂扇耳光",
@@ -955,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654460,
+      "num": 654460,
+      "word": "BLG赛后发博",
+      "onboard_time": 1730592557,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 653864,
       "num": 653864,
       "word": "大学生毕业做保洁第一个月收入8千",
@@ -995,28 +1011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 632524,
-      "num": 632524,
-      "word": "女子离婚后奶奶拿走宝宝的金吊坠",
-      "onboard_time": 1730596758,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 631679,
       "num": 300726,
       "word": "赵露思奚梦瑶是怎么认识的",
       "onboard_time": 1730545758,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 631558,
-      "num": 631558,
-      "word": "BLG赛后发博",
-      "onboard_time": 1730592557,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 627145,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1730553261,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564865,
+      "num": 564865,
+      "word": "赵露思摇来了好多人",
+      "onboard_time": 1730599579,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 559161,
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 460333,
-      "num": 460333,
+      "num": 482747,
       "word": "强冷空气今天到货",
       "onboard_time": 1730593097,
       "rank": 5,
@@ -1585,6 +1593,14 @@
       "onboard_time": 1730527998,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453124,
+      "num": 453124,
+      "word": "汪苏泷演唱会蟑螂退退退",
+      "onboard_time": 1730595918,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 450353,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1730518877,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407518,
+      "num": 407518,
+      "word": "瑞士卷",
+      "onboard_time": 1730597358,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 406258,
@@ -2795,6 +2819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231650,
+      "num": 231650,
+      "word": "郑钦文回应再次不敌萨巴伦卡",
+      "onboard_time": 1730594419,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231581,
       "num": 231581,
       "word": "周洁琼女儿国国王造型",
@@ -2897,6 +2929,14 @@
       "onboard_time": 1730547258,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218952,
+      "num": 218952,
+      "word": "喝酒脸红的人易得两种癌",
+      "onboard_time": 1730597958,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218500,
@@ -3267,14 +3307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196199,
-      "num": 196199,
-      "word": "郑钦文回应再次不敌萨巴伦卡",
-      "onboard_time": 1730594419,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195495,
       "num": 183875,
       "word": "周洁琼新剧亲爸变后爸",
@@ -3305,14 +3337,6 @@
       "onboard_time": 1730528176,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194089,
-      "num": 240981,
-      "word": "汪苏泷演唱会蟑螂退退退",
-      "onboard_time": 1730595918,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 193734,
@@ -3635,14 +3659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179406,
-      "num": 179406,
-      "word": "喝酒脸红的人易得两种癌",
-      "onboard_time": 1730597958,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 178981,
       "num": 178981,
       "word": "刘宇和工作人员 网友关系",
@@ -3939,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167527,
+      "num": 243916,
+      "word": "小孩被异物卡喉路过民警20秒成功施救",
+      "onboard_time": 1730597659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167493,
       "num": 167493,
       "word": "绝区零",
@@ -4121,14 +4145,6 @@
       "onboard_time": 1730435299,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160387,
-      "num": 160387,
-      "word": "瑞士卷",
-      "onboard_time": 1730597358,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 160189,
@@ -4563,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145474,
+      "num": 145474,
+      "word": "Bin 永远尊重faker",
+      "onboard_time": 1730589675,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145304,
       "num": 353085,
       "word": "BLG C过送过没懦过",
@@ -4699,20 +4723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141660,
+      "num": 141660,
+      "word": "Faker说对自己表现没有特别满意",
+      "onboard_time": 1730592377,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141376,
       "num": 196002,
       "word": "小水否认与Jes恋情",
       "onboard_time": 1730520918,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140933,
-      "num": 140933,
-      "word": "Bin 永远尊重faker",
-      "onboard_time": 1730589675,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 140707,
@@ -4891,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134001,
+      "num": 134001,
+      "word": "马龙乘风破浪",
+      "onboard_time": 1730597838,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133993,
       "num": 133993,
       "word": "南京一男子0元购偷出一个超市",
@@ -4904,14 +4936,6 @@
       "word": "S14决赛发布会",
       "onboard_time": 1730473579,
       "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 133607,
-      "num": 133607,
-      "word": "Faker说对自己表现没有特别满意",
-      "onboard_time": 1730592377,
-      "rank": 44,
       "category": "电竞"
     },
     {
@@ -5427,6 +5451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114907,
+      "num": 114907,
+      "word": "孔雪儿在看凌妙妙闯关",
+      "onboard_time": 1730599458,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114601,
       "num": 114601,
       "word": "明起强冷空气将驱散雾霾",
@@ -5449,14 +5481,6 @@
       "onboard_time": 1730550978,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114091,
-      "num": 127028,
-      "word": "马龙乘风破浪",
-      "onboard_time": 1730597838,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 113796,
@@ -5739,6 +5763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103019,
+      "num": 166633,
+      "word": "虞书欣泰国首次个人见面会",
+      "onboard_time": 1730594779,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101606,
       "num": 101606,
       "word": "潘展乐200自铜牌",
@@ -5955,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88776,
+      "num": 405992,
+      "word": "前三季度结婚登记同比减少94.3万对",
+      "onboard_time": 1730599278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88246,
       "num": 88246,
       "word": "网红博主拍视频挑战吃猪饲料",
@@ -6099,14 +6139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80078,
-      "num": 118608,
-      "word": "虞书欣泰国首次个人见面会",
-      "onboard_time": 1730594779,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79630,
       "num": 79630,
       "word": "猛蛇过江回应被指是凶手",
@@ -6167,14 +6199,6 @@
       "num": 222891,
       "word": "广州的秋天有粉粉的异木棉",
       "onboard_time": 1730535498,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74710,
-      "num": 243916,
-      "word": "小孩被异物卡喉路过民警20秒成功施救",
-      "onboard_time": 1730597659,
       "rank": 9,
       "category": "社会新闻"
     },

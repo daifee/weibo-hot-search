@@ -1,0 +1,410 @@
+{
+  "runTime": 1730599817201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647801,
+        "num": 1647801,
+        "word": "T1夺冠",
+        "onboard_time": 1730572162,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 677254,
+        "num": 677254,
+        "word": "女子离婚后奶奶拿走宝宝的金吊坠",
+        "onboard_time": 1730596758,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30174,
+        "num": 663523,
+        "word": "C919和ARJ21首次双机编队飞行",
+        "onboard_time": 1730553561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654460,
+        "num": 654460,
+        "word": "BLG赛后发博",
+        "onboard_time": 1730592557,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 564865,
+        "num": 564865,
+        "word": "赵露思摇来了好多人",
+        "onboard_time": 1730599579,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394077,
+        "num": 482747,
+        "word": "强冷空气今天到货",
+        "onboard_time": 1730593097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453124,
+        "num": 453124,
+        "word": "汪苏泷演唱会蟑螂退退退",
+        "onboard_time": 1730595918,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 420904,
+        "num": 420904,
+        "word": "BLG对战T1",
+        "onboard_time": 1730555238,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 407518,
+        "num": 407518,
+        "word": "瑞士卷",
+        "onboard_time": 1730597358,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88776,
+        "num": 405992,
+        "word": "前三季度结婚登记同比减少94.3万对",
+        "onboard_time": 1730599278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1382612,
+        "num": 401482,
+        "word": "陈乔恩为乔任梁传言发声",
+        "onboard_time": 1730593217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980461,
+        "num": 391652,
+        "word": "赵露思给韩安冉发的语音",
+        "onboard_time": 1730564539,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634553,
+        "num": 388263,
+        "word": "女子新家被他人当宾馆开party",
+        "onboard_time": 1730595440,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386219,
+        "num": 386219,
+        "word": "女子领了一个赠品被骗4万元",
+        "onboard_time": 1730592677,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273937,
+        "num": 273937,
+        "word": "On失误",
+        "onboard_time": 1730571135,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244127,
+        "num": 244127,
+        "word": "乔任梁",
+        "onboard_time": 1730567118,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231650,
+        "num": 231650,
+        "word": "郑钦文回应再次不敌萨巴伦卡",
+        "onboard_time": 1730594419,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220519,
+        "num": 220519,
+        "word": "正午阳光 切不动了",
+        "onboard_time": 1730563223,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 220413,
+        "word": "心动7四对cp都去了张远演唱会",
+        "onboard_time": 1730592018,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168450,
+        "num": 219834,
+        "word": "珠帘玉幕宣传",
+        "onboard_time": 1730555720,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247917,
+        "num": 219532,
+        "word": "小伙称按摩后禁不住怂恿花一万五",
+        "onboard_time": 1730563403,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233735,
+        "num": 219103,
+        "word": "覃海洋成绩被取消",
+        "onboard_time": 1730549179,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218952,
+        "num": 218952,
+        "word": "喝酒脸红的人易得两种癌",
+        "onboard_time": 1730597958,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187830,
+        "num": 187830,
+        "word": "2小伙买刮刮乐中百万室友发声",
+        "onboard_time": 1730553320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186254,
+        "num": 186254,
+        "word": "Faker FMVP",
+        "onboard_time": 1730573836,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174234,
+        "num": 174234,
+        "word": "被拐34年男子认亲一年后与家人决裂",
+        "onboard_time": 1730546359,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167527,
+        "num": 167527,
+        "word": "小孩被异物卡喉路过民警20秒成功施救",
+        "onboard_time": 1730597659,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163856,
+        "num": 166699,
+        "word": "成功95花的背后",
+        "onboard_time": 1730564420,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103019,
+        "num": 166633,
+        "word": "虞书欣泰国首次个人见面会",
+        "onboard_time": 1730594779,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98033,
+        "num": 166617,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730557341,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166602,
+        "num": 166602,
+        "word": "私人影院低价吸引顾客到店嫖娼",
+        "onboard_time": 1730566223,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164820,
+        "num": 164820,
+        "word": "Faker LPL无法逾越的大山",
+        "onboard_time": 1730572702,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164143,
+        "num": 164143,
+        "word": "覃海洋回应近日争议",
+        "onboard_time": 1730556260,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157556,
+        "num": 157556,
+        "word": "Bin说就差一点点",
+        "onboard_time": 1730597179,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149664,
+        "num": 149664,
+        "word": "速冻模式开启局地降温12摄氏度",
+        "onboard_time": 1730593938,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145474,
+        "num": 145474,
+        "word": "Bin 永远尊重faker",
+        "onboard_time": 1730589675,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144246,
+        "num": 144246,
+        "word": "永夜星河",
+        "onboard_time": 1730545098,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141660,
+        "num": 141660,
+        "word": "Faker说对自己表现没有特别满意",
+        "onboard_time": 1730592377,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138428,
+        "num": 138428,
+        "word": "睡得晚和睡得少哪个伤害大",
+        "onboard_time": 1730579111,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135437,
+        "num": 135437,
+        "word": "美国女子带两娃跳下60米高瀑布",
+        "onboard_time": 1730561003,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134001,
+        "num": 134001,
+        "word": "马龙乘风破浪",
+        "onboard_time": 1730597838,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129431,
+        "num": 129431,
+        "word": "提醒在西班牙中国公民防范灾害",
+        "onboard_time": 1730592498,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125207,
+        "num": 125207,
+        "word": "Uzi捧杯图P好了",
+        "onboard_time": 1730574496,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95683,
+        "num": 123703,
+        "word": "没有伤害任何人",
+        "onboard_time": 1730559680,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122254,
+        "num": 122254,
+        "word": "Faker五冠王",
+        "onboard_time": 1730572162,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121855,
+        "num": 121855,
+        "word": "交警怒斥家长占道接孩子",
+        "onboard_time": 1730575872,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114907,
+        "num": 114907,
+        "word": "孔雪儿在看凌妙妙闯关",
+        "onboard_time": 1730599458,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112323,
+        "num": 112323,
+        "word": "绝境李相赫",
+        "onboard_time": 1730569042,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106019,
+        "num": 106019,
+        "word": "西班牙洪灾致中国公民2遇难2失联",
+        "onboard_time": 1730592377,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100374,
+        "num": 106008,
+        "word": "女子超市做切眼袋手术致左眼失明",
+        "onboard_time": 1730548938,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这篇文章透露了改革的几个重要信号#"
+    }
+  }
+}
