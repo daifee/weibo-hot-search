@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730724221094,
+  "endTime": 1730725206451,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -27,16 +27,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2590788,
-      "num": 607946,
+      "raw_hot": 2614296,
+      "num": 827338,
       "word": "尸检显示辛瓦尔死前三天没吃任何东西",
       "onboard_time": 1730719339,
       "rank": 9,
       "category": "国外时政"
     },
     {
-      "raw_hot": 2238568,
-      "num": 589428,
+      "raw_hot": 2317454,
+      "num": 771914,
       "word": "8个瑞士卷宝妈吃几个不自私",
       "onboard_time": 1730721620,
       "rank": 4,
@@ -236,11 +236,19 @@
     },
     {
       "raw_hot": 883705,
-      "num": 393255,
+      "num": 425100,
       "word": "王耀庆补上了四万五的花洒",
       "onboard_time": 1730718619,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 882692,
+      "num": 882692,
+      "word": "孙颖莎24岁生日发文",
+      "onboard_time": 1730724619,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 877124,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649079,
+      "num": 424629,
+      "word": "孙颖莎回复孙铭阳",
+      "onboard_time": 1730723420,
+      "rank": 16,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 648125,
       "num": 904720,
       "word": "神舟十八号返回舱成功着陆",
@@ -595,14 +611,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 505672,
-      "num": 327471,
-      "word": "孙颖莎回复孙铭阳",
-      "onboard_time": 1730723420,
-      "rank": 16,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 490059,
       "num": 343392,
       "word": "美邦老板称和贾乃亮合作效果差",
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434232,
+      "num": 434232,
+      "word": "珠帘玉幕全员恭喜端午升职",
+      "onboard_time": 1730722940,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431556,
       "num": 431556,
       "word": "猎罪图鉴2",
@@ -739,8 +755,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413294,
-      "num": 413294,
+      "raw_hot": 420283,
+      "num": 420283,
       "word": "永夜星河",
       "onboard_time": 1730655553,
       "rank": 7,
@@ -785,6 +801,14 @@
       "onboard_time": 1730689277,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363321,
+      "num": 287646,
+      "word": "人民币火速大涨",
+      "onboard_time": 1730723420,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 358759,
@@ -963,14 +987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 275348,
-      "num": 275348,
-      "word": "人民币火速大涨",
-      "onboard_time": 1730723420,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 274267,
       "num": 274267,
       "word": "狼队对战AG",
@@ -1107,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229034,
+      "num": 229034,
+      "word": "永夜星河 豹豹猫猫我出生了",
+      "onboard_time": 1730723479,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227640,
       "num": 227640,
       "word": "花少4个人吃9人餐事情始末",
@@ -1115,12 +1139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225203,
+      "num": 225203,
+      "word": "厨房爆炸丈夫为救妻子去世",
+      "onboard_time": 1730722820,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "猎罪图鉴官微打假",
       "onboard_time": 1730713519,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218856,
+      "num": 218856,
+      "word": "沈阳发生交通事故13人送医救治",
+      "onboard_time": 1730720420,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218756,
@@ -1201,30 +1241,6 @@
       "onboard_time": 1730675596,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211410,
-      "num": 211410,
-      "word": "沈阳发生交通事故13人送医救治",
-      "onboard_time": 1730720420,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209246,
-      "num": 209246,
-      "word": "珠帘玉幕全员恭喜端午升职",
-      "onboard_time": 1730722940,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208182,
-      "num": 208182,
-      "word": "厨房爆炸丈夫为救妻子去世",
-      "onboard_time": 1730722820,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206440,
@@ -1323,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196482,
-      "num": 196482,
-      "word": "永夜星河 豹豹猫猫我出生了",
-      "onboard_time": 1730723479,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196274,
       "num": 196274,
       "word": "刘宇宁也想转发赵露思微博",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1730715019,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191670,
+      "num": 191670,
+      "word": "公积金利率高过商贷后还要存在吗",
+      "onboard_time": 1730723780,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191531,
@@ -1491,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175843,
+      "num": 228490,
+      "word": "高雅cp",
+      "onboard_time": 1730724680,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174781,
       "num": 174781,
       "word": "陈都灵 潇因",
@@ -1580,7 +1604,7 @@
     },
     {
       "raw_hot": 168504,
-      "num": 168504,
+      "num": 425379,
       "word": "哈马斯领导人辛瓦尔尸检结果公布",
       "onboard_time": 1730721920,
       "rank": 32,
@@ -1643,6 +1667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165100,
+      "num": 165100,
+      "word": "赛力斯",
+      "onboard_time": 1730723901,
+      "rank": 42,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "小巷人家 晓庆衫",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1730686878,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163217,
+      "num": 163217,
+      "word": "孙颖莎新的一岁继续大莎四方",
+      "onboard_time": 1730724980,
+      "rank": 37,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 162846,
@@ -1835,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147120,
-      "num": 147120,
-      "word": "公积金利率高过商贷后还要存在吗",
-      "onboard_time": 1730723780,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143005,
       "num": 143005,
       "word": "妙妙知道慕声要强 妙妙也曾满身血印",
@@ -1875,12 +1907,28 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 139565,
-      "num": 139565,
+      "raw_hot": 141145,
+      "num": 141145,
       "word": "王源叫谢可寅shaking",
       "onboard_time": 1730721140,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140159,
+      "num": 301088,
+      "word": "郑钦文vs莱巴金娜",
+      "onboard_time": 1730722280,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139892,
+      "num": 139892,
+      "word": "李一桐粉色高定",
+      "onboard_time": 1730720298,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139249,
@@ -1923,14 +1971,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 136067,
-      "num": 136067,
-      "word": "李一桐粉色高定",
-      "onboard_time": 1730720298,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 134540,
       "num": 189780,
       "word": "宋亚轩沈腾 姜还是老的辣具象化",
@@ -1952,6 +1992,22 @@
       "word": "烧伤妻子手能动后写字询问丈夫情况",
       "onboard_time": 1730712919,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131995,
+      "num": 131995,
+      "word": "孟子义黑红渐变长裙",
+      "onboard_time": 1730724858,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131427,
+      "num": 412220,
+      "word": "良品铺子为何开始不良品了",
+      "onboard_time": 1730722459,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2091,12 +2147,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118216,
-      "num": 118216,
-      "word": "赛力斯",
-      "onboard_time": 1730723901,
-      "rank": 42,
-      "category": "汽车,财经"
+      "raw_hot": 118948,
+      "num": 118948,
+      "word": "黄子弘凡黑色薄纱连帽造型",
+      "onboard_time": 1730724020,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 118029,
@@ -2105,14 +2161,6 @@
       "onboard_time": 1730684719,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 117136,
-      "num": 117136,
-      "word": "黄子弘凡黑色薄纱连帽造型",
-      "onboard_time": 1730724020,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117090,
@@ -2371,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69040,
-      "num": 412220,
-      "word": "良品铺子为何开始不良品了",
-      "onboard_time": 1730722459,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67854,
       "num": 405009,
       "word": "大数据杀熟为何屡禁不止",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1730651657,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61456,
+      "num": 225228,
+      "word": "美多州在计票中心屋顶安排狙击手",
+      "onboard_time": 1730725039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59263,
@@ -2587,6 +2635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37516,
+      "num": 849862,
+      "word": "一片回顾神十八返回全过程",
+      "onboard_time": 1730723360,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37484,
       "num": 226713,
       "word": "双11法院拍卖豪宅低至0.6折",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1730717058,
       "rank": 13,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32393,
-      "num": 676342,
-      "word": "一片回顾神十八返回全过程",
-      "onboard_time": 1730723360,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32249,
@@ -2971,20 +3019,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 10628,
+      "num": 227668,
+      "word": "看看你城市里的明星动物",
+      "onboard_time": 1730723840,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 8427,
       "num": 232498,
       "word": "市监局回应已对良品铺子立案调查",
       "onboard_time": 1730709559,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6370,
-      "num": 122824,
-      "word": "看看你城市里的明星动物",
-      "onboard_time": 1730723840,
-      "rank": 41,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
