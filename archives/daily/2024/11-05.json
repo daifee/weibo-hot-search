@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730752616242,
+  "endTime": 1730755221175,
   "band_list": [
     {
       "raw_hot": 1209270,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69394,
+      "num": 119453,
+      "word": "特朗普与哈里斯继续决战摇摆州",
+      "onboard_time": 1730746572,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 62991,
       "num": 62991,
       "word": "当地回应班主任在家长群催缴医保",
@@ -441,14 +449,6 @@
       "onboard_time": 1730737578,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54938,
-      "num": 54938,
-      "word": "特朗普与哈里斯继续决战摇摆州",
-      "onboard_time": 1730746572,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 49806,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28679,
+      "num": 36530,
+      "word": "在美华商称零元购泛滥下纽约成噩梦",
+      "onboard_time": 1730752271,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23278,
       "num": 23278,
       "word": "广西大学回应副院长被指强奸女学生",
@@ -531,12 +539,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16154,
+      "num": 17048,
+      "word": "虞书欣角色宇宙",
+      "onboard_time": 1730753651,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14713,
       "num": 33663,
       "word": "追求幸福生活是各国人民共同愿望",
       "onboard_time": 1730748731,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14693,
+      "num": 17040,
+      "word": "三个不会变展示中国开放决心",
+      "onboard_time": 1730751911,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14478,
+      "num": 45990,
+      "word": "00后退役小伙跳水救起7旬老太",
+      "onboard_time": 1730745133,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 14293,
@@ -555,27 +587,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13505,
-      "num": 17078,
-      "word": "00后退役小伙跳水救起7旬老太",
-      "onboard_time": 1730745133,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 13050,
       "num": 20328,
       "word": "热爱生活的人会闪闪发光",
       "onboard_time": 1730748613,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12898,
-      "num": 36530,
-      "word": "在美华商称零元购泛滥下纽约成噩梦",
-      "onboard_time": 1730752271,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
