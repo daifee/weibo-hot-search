@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730689662198,
+  "endTime": 1730691182393,
   "band_list": [
     {
       "raw_hot": 3184896,
@@ -11,8 +11,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3052623,
+      "num": 3052623,
+      "word": "周雨彤发文",
+      "onboard_time": 1730690540,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1971047,
-      "num": 360353,
+      "num": 428247,
       "word": "男孩电梯内将小女孩捂嘴控制抱走",
       "onboard_time": 1730685018,
       "rank": 31,
@@ -20,11 +28,19 @@
     },
     {
       "raw_hot": 1769284,
-      "num": 359623,
+      "num": 417259,
       "word": "瑞士卷怎么分",
       "onboard_time": 1730684598,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1404983,
+      "num": 426187,
+      "word": "张新成李兰迪新西兰同游照",
+      "onboard_time": 1730689698,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1277393,
@@ -35,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1108345,
-      "num": 358785,
+      "raw_hot": 1108915,
+      "num": 1108915,
       "word": "引导失误致冠军变亚军痛失21万奖金",
       "onboard_time": 1730685078,
       "rank": 30,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 928891,
-      "num": 371932,
+      "num": 387662,
       "word": "美国大选",
       "onboard_time": 1730645479,
       "rank": 10,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 819594,
-      "num": 358046,
+      "num": 411342,
       "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
       "onboard_time": 1730684838,
       "rank": 22,
@@ -171,12 +187,28 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 522707,
+      "num": 467215,
+      "word": "永夜星河求加更",
+      "onboard_time": 1730689038,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510824,
       "num": 348338,
       "word": "死亡游戏流行校园真的会致死",
       "onboard_time": 1730636538,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 491392,
+      "num": 491392,
+      "word": "孙颖莎24岁13个世界冠军",
+      "onboard_time": 1730689818,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 490059,
@@ -217,6 +249,14 @@
       "onboard_time": 1730677097,
       "rank": 4,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 451412,
+      "num": 356158,
+      "word": "缺乏性教育的孩子会吃哪些苦",
+      "onboard_time": 1730686878,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 441386,
@@ -267,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392786,
-      "num": 326656,
-      "word": "缺乏性教育的孩子会吃哪些苦",
-      "onboard_time": 1730686878,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 373050,
       "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
@@ -291,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 358207,
+      "num": 358207,
+      "word": "神十八返回舱划过夜空好震撼",
+      "onboard_time": 1730687358,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 353318,
       "num": 311307,
       "word": "Uzi谈不复出原因",
@@ -304,6 +344,14 @@
       "word": "林一为虞书欣永夜星河打call",
       "onboard_time": 1730645839,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342830,
+      "num": 342830,
+      "word": "摇人",
+      "onboard_time": 1730689277,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -347,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313305,
-      "num": 313305,
-      "word": "神十八返回舱划过夜空好震撼",
-      "onboard_time": 1730687358,
-      "rank": 20,
-      "category": "国内时政"
+      "raw_hot": 302544,
+      "num": 302544,
+      "word": "为什么数学水平最难造假",
+      "onboard_time": 1730687239,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296581,
@@ -395,20 +443,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 263559,
+      "num": 254196,
+      "word": "瘦肚子最快的运动其实是跳跃",
+      "onboard_time": 1730686579,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 260864,
       "num": 260864,
       "word": "你养的猫在养你养的狗",
       "onboard_time": 1730678958,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260499,
-      "num": 260499,
-      "word": "为什么数学水平最难造假",
-      "onboard_time": 1730687239,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255176,
@@ -419,16 +467,16 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 254081,
-      "num": 254081,
-      "word": "瘦肚子最快的运动其实是跳跃",
-      "onboard_time": 1730686579,
-      "rank": 33,
-      "category": "运动健身"
+      "raw_hot": 254489,
+      "num": 254489,
+      "word": "陈奕迅 双城之战",
+      "onboard_time": 1730689698,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 240043,
-      "num": 240043,
+      "num": 435341,
       "word": "所谓军中茅台一瓶成本仅3元",
       "onboard_time": 1730685980,
       "rank": 30,
@@ -467,19 +515,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224085,
-      "num": 224085,
-      "word": "永夜星河求加更",
-      "onboard_time": 1730689038,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218756,
       "num": 316651,
       "word": "珠帘玉幕",
       "onboard_time": 1730688019,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217545,
+      "num": 217545,
+      "word": "永夜星河",
+      "onboard_time": 1730655553,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -547,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188446,
-      "num": 188446,
-      "word": "永夜星河",
-      "onboard_time": 1730655553,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 184046,
+      "num": 184046,
+      "word": "王楚钦法兰克福首秀",
+      "onboard_time": 1730689399,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 180653,
@@ -585,6 +633,14 @@
       "onboard_time": 1730685440,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172711,
+      "num": 172711,
+      "word": "Keria 明年中国见",
+      "onboard_time": 1730690659,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 169878,
@@ -627,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163244,
+      "num": 163244,
+      "word": "女子带娃骑车逆行被撞身亡自负主责",
+      "onboard_time": 1730686878,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161713,
       "num": 382876,
       "word": "航天员解说回地球太有画面感",
@@ -635,20 +699,20 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 158473,
-      "num": 158473,
-      "word": "女子带娃骑车逆行被撞身亡自负主责",
-      "onboard_time": 1730686878,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156872,
       "num": 151733,
       "word": "黄磊回应资源背景争议",
       "onboard_time": 1730660111,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155998,
+      "num": 361041,
+      "word": "央视起底不防毒的防毒面具",
+      "onboard_time": 1730688379,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148489,
@@ -667,12 +731,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147529,
-      "num": 147529,
-      "word": "王楚钦法兰克福首秀",
-      "onboard_time": 1730689399,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 144838,
+      "num": 144838,
+      "word": "央视曝光所谓军字号特供酒产业链",
+      "onboard_time": 1730689998,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141969,
@@ -699,11 +763,27 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 137486,
+      "num": 136335,
+      "word": "永夜星河书粉",
+      "onboard_time": 1730691141,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136746,
       "num": 136746,
       "word": "95四小花",
       "onboard_time": 1730633179,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136656,
+      "num": 136656,
+      "word": "郑在玹今日入伍",
+      "onboard_time": 1730689879,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -745,14 +825,6 @@
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127393,
-      "num": 127393,
-      "word": "摇人",
-      "onboard_time": 1730689277,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 125565,
@@ -883,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102252,
+      "num": 356161,
+      "word": "乔任梁母亲回应手臂伤口",
+      "onboard_time": 1730690178,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99672,
       "num": 711416,
       "word": "欢迎神十八回家",
@@ -945,6 +1025,14 @@
       "onboard_time": 1730676676,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79482,
+      "num": 409461,
+      "word": "外逃原副市长涉案逾31亿知情人发声",
+      "onboard_time": 1730689998,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75292,
@@ -1059,14 +1147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 45774,
-      "num": 361041,
-      "word": "央视起底不防毒的防毒面具",
-      "onboard_time": 1730688379,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42776,
       "num": 50651,
       "word": "大梦归离",
@@ -1132,7 +1212,7 @@
     },
     {
       "raw_hot": 26707,
-      "num": 163676,
+      "num": 390960,
       "word": "何小鹏周鸿祎智驾征服北京最堵路口",
       "onboard_time": 1730689339,
       "rank": 38,
@@ -1172,7 +1252,7 @@
     },
     {
       "raw_hot": 20411,
-      "num": 662604,
+      "num": 970802,
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
       "rank": 2,
