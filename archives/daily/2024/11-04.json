@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730720143102,
+  "endTime": 1730724221094,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -24,6 +24,22 @@
       "word": "女孩遭14人性侵3人为公职人员",
       "onboard_time": 1730683339,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2590788,
+      "num": 607946,
+      "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+      "onboard_time": 1730719339,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2238568,
+      "num": 589428,
+      "word": "8个瑞士卷宝妈吃几个不自私",
+      "onboard_time": 1730721620,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -105,6 +121,14 @@
       "onboard_time": 1730689698,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1296692,
+      "num": 1296692,
+      "word": "良品铺子被立案调查",
+      "onboard_time": 1730717779,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1289783,
@@ -211,6 +235,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 883705,
+      "num": 393255,
+      "word": "王耀庆补上了四万五的花洒",
+      "onboard_time": 1730718619,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 877124,
       "num": 942857,
       "word": "王楚钦肩伤成典型医疗案例",
@@ -312,6 +344,14 @@
       "word": "刘宇宁说自己被骂到有点畏手畏脚",
       "onboard_time": 1730678479,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 731033,
+      "num": 731033,
+      "word": "虞书欣身后是109个婧妹",
+      "onboard_time": 1730720781,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -555,20 +595,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 505672,
+      "num": 327471,
+      "word": "孙颖莎回复孙铭阳",
+      "onboard_time": 1730723420,
+      "rank": 16,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 490059,
       "num": 343392,
       "word": "美邦老板称和贾乃亮合作效果差",
       "onboard_time": 1730642661,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486607,
-      "num": 486607,
-      "word": "良品铺子被立案调查",
-      "onboard_time": 1730717779,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483146,
@@ -675,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429650,
+      "num": 429650,
+      "word": "刘德华一首中国人把台独唱破防了",
+      "onboard_time": 1730718800,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 425310,
       "num": 425310,
       "word": "第一个从郑州夜骑开封的女生发声",
@@ -691,8 +739,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411296,
-      "num": 411296,
+      "raw_hot": 413294,
+      "num": 413294,
       "word": "永夜星河",
       "onboard_time": 1730655553,
       "rank": 7,
@@ -769,22 +817,6 @@
       "onboard_time": 1730645839,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349927,
-      "num": 349927,
-      "word": "王耀庆补上了四万五的花洒",
-      "onboard_time": 1730718619,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 349836,
-      "num": 467857,
-      "word": "尸检显示辛瓦尔死前三天没吃任何东西",
-      "onboard_time": 1730719339,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 344462,
@@ -931,6 +963,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 275348,
+      "num": 275348,
+      "word": "人民币火速大涨",
+      "onboard_time": 1730723420,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 274267,
+      "num": 274267,
+      "word": "狼队对战AG",
+      "onboard_time": 1730717298,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 272151,
       "num": 272151,
       "word": "华为Mate70",
@@ -1001,14 +1049,6 @@
       "onboard_time": 1730689998,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244382,
-      "num": 244382,
-      "word": "刘德华一首中国人把台独唱破防了",
-      "onboard_time": 1730718800,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 240043,
@@ -1163,6 +1203,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211410,
+      "num": 211410,
+      "word": "沈阳发生交通事故13人送医救治",
+      "onboard_time": 1730720420,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209246,
+      "num": 209246,
+      "word": "珠帘玉幕全员恭喜端午升职",
+      "onboard_time": 1730722940,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208182,
+      "num": 208182,
+      "word": "厨房爆炸丈夫为救妻子去世",
+      "onboard_time": 1730722820,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206440,
       "num": 206440,
       "word": "樊振东庆祝动作版权意识好强",
@@ -1256,6 +1320,14 @@
       "word": "蒋欣演技太好了",
       "onboard_time": 1730701879,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196482,
+      "num": 196482,
+      "word": "永夜星河 豹豹猫猫我出生了",
+      "onboard_time": 1730723479,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1467,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171028,
+      "num": 171028,
+      "word": "AG剧透",
+      "onboard_time": 1730723420,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170999,
       "num": 170999,
       "word": "网红曝良品铺子藕粉掺木薯粉",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1730711540,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168504,
+      "num": 168504,
+      "word": "哈马斯领导人辛瓦尔尸检结果公布",
+      "onboard_time": 1730721920,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 167731,
@@ -1747,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147120,
+      "num": 147120,
+      "word": "公积金利率高过商贷后还要存在吗",
+      "onboard_time": 1730723780,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143005,
       "num": 143005,
       "word": "妙妙知道慕声要强 妙妙也曾满身血印",
@@ -1777,6 +1873,14 @@
       "onboard_time": 1730635878,
       "rank": 28,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 139565,
+      "num": 139565,
+      "word": "王源叫谢可寅shaking",
+      "onboard_time": 1730721140,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 139249,
@@ -1817,6 +1921,14 @@
       "onboard_time": 1730719640,
       "rank": 36,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 136067,
+      "num": 136067,
+      "word": "李一桐粉色高定",
+      "onboard_time": 1730720298,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134540,
@@ -1872,6 +1984,14 @@
       "word": "良品铺子发布声明",
       "onboard_time": 1730714357,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128666,
+      "num": 128666,
+      "word": "厨房爆炸丈夫折返救妻离世",
+      "onboard_time": 1730722280,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1971,12 +2091,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118216,
+      "num": 118216,
+      "word": "赛力斯",
+      "onboard_time": 1730723901,
+      "rank": 42,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 118029,
       "num": 118029,
       "word": "民调显示哈里斯和特朗普支持率持平",
       "onboard_time": 1730684719,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 117136,
+      "num": 117136,
+      "word": "黄子弘凡黑色薄纱连帽造型",
+      "onboard_time": 1730724020,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117090,
@@ -2065,6 +2201,14 @@
       "onboard_time": 1730674874,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101510,
+      "num": 101510,
+      "word": "第二架苏57现身珠海",
+      "onboard_time": 1730721020,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 99672,
@@ -2224,6 +2368,14 @@
       "word": "律师称捂嘴男孩监护人需承担民责",
       "onboard_time": 1730714238,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69040,
+      "num": 412220,
+      "word": "良品铺子为何开始不良品了",
+      "onboard_time": 1730722459,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2505,6 +2657,14 @@
       "onboard_time": 1730717058,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32393,
+      "num": 676342,
+      "word": "一片回顾神十八返回全过程",
+      "onboard_time": 1730723360,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32249,
@@ -2817,6 +2977,14 @@
       "onboard_time": 1730709559,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6370,
+      "num": 122824,
+      "word": "看看你城市里的明星动物",
+      "onboard_time": 1730723840,
+      "rank": 41,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
@@ -2837,6 +3005,9 @@
     },
     {
       "word": "#习近平给老杨树宣讲汇全体同志回信#"
+    },
+    {
+      "word": "#三个不会变展示中国开放决心#"
     }
   ]
 }

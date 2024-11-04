@@ -1,0 +1,410 @@
+{
+  "runTime": 1730724221094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296692,
+        "num": 1296692,
+        "word": "良品铺子被立案调查",
+        "onboard_time": 1730717779,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731033,
+        "num": 731033,
+        "word": "虞书欣身后是109个婧妹",
+        "onboard_time": 1730720781,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32393,
+        "num": 676342,
+        "word": "一片回顾神十八返回全过程",
+        "onboard_time": 1730723360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2590788,
+        "num": 607946,
+        "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+        "onboard_time": 1730719339,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2238568,
+        "num": 589428,
+        "word": "8个瑞士卷宝妈吃几个不自私",
+        "onboard_time": 1730721620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176806,
+        "num": 511563,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448631,
+        "num": 448631,
+        "word": "救妻丈夫去世妻子目前不知情",
+        "onboard_time": 1730715319,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429650,
+        "num": 429650,
+        "word": "刘德华一首中国人把台独唱破防了",
+        "onboard_time": 1730718800,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 413294,
+        "num": 413294,
+        "word": "永夜星河",
+        "onboard_time": 1730715199,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69040,
+        "num": 412220,
+        "word": "良品铺子为何开始不良品了",
+        "onboard_time": 1730722459,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883705,
+        "num": 393255,
+        "word": "王耀庆补上了四万五的花洒",
+        "onboard_time": 1730718619,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638458,
+        "num": 384167,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1073832,
+        "num": 376208,
+        "word": "孙颖莎 SuperSha蛋糕",
+        "onboard_time": 1730718679,
+        "rank": 12,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 602666,
+        "num": 359537,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568035,
+        "num": 347011,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517769,
+        "num": 340750,
+        "word": "对乔任梁之死纠缠不放是热血还是凉薄",
+        "onboard_time": 1730712799,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505672,
+        "num": 327471,
+        "word": "孙颖莎回复孙铭阳",
+        "onboard_time": 1730723420,
+        "rank": 16,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 322759,
+        "num": 322759,
+        "word": "虞书欣大格局",
+        "onboard_time": 1730710638,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316987,
+        "num": 316987,
+        "word": "宋亚轩将缺席现在就出发2后续录制",
+        "onboard_time": 1730718259,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295626,
+        "num": 295626,
+        "word": "永夜星河 她拍的",
+        "onboard_time": 1730709919,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549638,
+        "num": 290058,
+        "word": "英国男子捡到人头以为是恶作剧",
+        "onboard_time": 1730718439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275348,
+        "num": 275348,
+        "word": "人民币火速大涨",
+        "onboard_time": 1730723420,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 274267,
+        "num": 274267,
+        "word": "狼队对战AG",
+        "onboard_time": 1730717298,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233834,
+        "num": 233834,
+        "word": "孙颖莎生日",
+        "onboard_time": 1730693182,
+        "rank": 23,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 211410,
+        "num": 211410,
+        "word": "沈阳发生交通事故13人送医救治",
+        "onboard_time": 1730720420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209246,
+        "num": 209246,
+        "word": "珠帘玉幕全员恭喜端午升职",
+        "onboard_time": 1730722940,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208182,
+        "num": 208182,
+        "word": "厨房爆炸丈夫为救妻子去世",
+        "onboard_time": 1730722820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205226,
+        "num": 205226,
+        "word": "孙铭阳为孙颖莎庆生",
+        "onboard_time": 1730717660,
+        "rank": 27,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 196482,
+        "num": 196482,
+        "word": "永夜星河 豹豹猫猫我出生了",
+        "onboard_time": 1730723479,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175222,
+        "num": 175222,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1730714659,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189997,
+        "num": 175183,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171028,
+        "num": 171028,
+        "word": "AG剧透",
+        "onboard_time": 1730723420,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168504,
+        "num": 168504,
+        "word": "哈马斯领导人辛瓦尔尸检结果公布",
+        "onboard_time": 1730721920,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152942,
+        "num": 152942,
+        "word": "景甜做完手术正在康复训练",
+        "onboard_time": 1730695641,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147120,
+        "num": 147120,
+        "word": "公积金利率高过商贷后还要存在吗",
+        "onboard_time": 1730723780,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142103,
+        "num": 142103,
+        "word": "今年美国大选将成史上最贵一次",
+        "onboard_time": 1730700920,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139565,
+        "num": 139565,
+        "word": "王源叫谢可寅shaking",
+        "onboard_time": 1730721140,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136067,
+        "num": 136067,
+        "word": "李一桐粉色高定",
+        "onboard_time": 1730720298,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135768,
+        "num": 135768,
+        "word": "6岁女孩被警车撞飞家长质疑超速",
+        "onboard_time": 1730707218,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 130629,
+        "word": "良品铺子称产品有多重检测把控",
+        "onboard_time": 1730709680,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128666,
+        "num": 128666,
+        "word": "厨房爆炸丈夫折返救妻离世",
+        "onboard_time": 1730722280,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6370,
+        "num": 122824,
+        "word": "看看你城市里的明星动物",
+        "onboard_time": 1730723840,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118216,
+        "num": 118216,
+        "word": "赛力斯",
+        "onboard_time": 1730723901,
+        "rank": 42,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 117136,
+        "num": 117136,
+        "word": "黄子弘凡黑色薄纱连帽造型",
+        "onboard_time": 1730724020,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109455,
+        "num": 109455,
+        "word": "公积金和商贷利差倒挂",
+        "onboard_time": 1730717420,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108731,
+        "num": 108731,
+        "word": "敖子逸 你怎么不叫我孟子义",
+        "onboard_time": 1730717900,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108694,
+        "num": 108694,
+        "word": "良品铺子被曝酸辣粉里没有粉",
+        "onboard_time": 1730705540,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101510,
+        "num": 101510,
+        "word": "第二架苏57现身珠海",
+        "onboard_time": 1730721020,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100892,
+        "num": 100892,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99119,
+        "num": 99119,
+        "word": "疯狂好六夜阵容官宣",
+        "onboard_time": 1730717179,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个不会变展示中国开放决心#"
+    }
+  }
+}
