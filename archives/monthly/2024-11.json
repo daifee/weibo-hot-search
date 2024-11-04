@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730704911246,
+  "endTime": 1730705820378,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -1107,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 796969,
+      "num": 796969,
+      "word": "警方通报电梯内小女孩被捂嘴抱走",
+      "onboard_time": 1730702839,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 788815,
       "num": 280732,
       "word": "一学生实名举报重庆某高校",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1730693061,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 774623,
+      "num": 774623,
+      "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
+      "onboard_time": 1730700139,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769361,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1730683520,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 758757,
-      "num": 758757,
-      "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
-      "onboard_time": 1730700139,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758688,
@@ -1419,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675280,
+      "num": 675280,
+      "word": "今年美国大选将成史上最贵一次",
+      "onboard_time": 1730700920,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 672798,
       "num": 672798,
       "word": "BLG赛后采访",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1730465238,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622479,
+      "num": 622479,
+      "word": "于正回应虞书欣永夜星河大爆",
+      "onboard_time": 1730703439,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 620966,
@@ -2331,14 +2355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 474258,
-      "num": 474258,
-      "word": "于正回应虞书欣永夜星河大爆",
-      "onboard_time": 1730703439,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 472712,
       "num": 294464,
       "word": "女子超市做切眼袋手术致左眼失明",
@@ -2424,14 +2440,6 @@
       "word": "强冷空气今天到货",
       "onboard_time": 1730593097,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458816,
-      "num": 458816,
-      "word": "警方通报电梯内小女孩被捂嘴抱走",
-      "onboard_time": 1730702839,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2697,14 +2705,6 @@
       "onboard_time": 1730428158,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 411037,
-      "num": 420728,
-      "word": "今年美国大选将成史上最贵一次",
-      "onboard_time": 1730700920,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 410279,
@@ -3643,6 +3643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281185,
+      "num": 281185,
+      "word": "赵露思说韩安冉很鼓励她",
+      "onboard_time": 1730703919,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280826,
       "num": 283950,
       "word": "赛力斯回应昆明问界M9事故",
@@ -3656,6 +3664,14 @@
       "word": "TES",
       "onboard_time": 1730563882,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 279871,
+      "num": 279871,
+      "word": "涵艺爆料LPL工资帽",
+      "onboard_time": 1730704337,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -3921,14 +3937,6 @@
       "onboard_time": 1730507238,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261123,
-      "num": 261123,
-      "word": "赵露思说韩安冉很鼓励她",
-      "onboard_time": 1730703919,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 260864,
@@ -4339,14 +4347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233202,
-      "num": 233202,
-      "word": "涵艺爆料LPL工资帽",
-      "onboard_time": 1730704337,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
@@ -4441,6 +4441,14 @@
       "onboard_time": 1730387180,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227985,
+      "num": 227985,
+      "word": "收入减半的中产开始反向换房自救",
+      "onboard_time": 1730704640,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225074,
@@ -4651,11 +4659,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212708,
+      "num": 212708,
+      "word": "男孩电梯内捂嘴猥亵7岁女孩被行拘",
+      "onboard_time": 1730705658,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212636,
       "num": 338640,
       "word": "马雪阳当爸",
       "onboard_time": 1730604020,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212289,
+      "num": 212289,
+      "word": "向佐海报都是向左发的",
+      "onboard_time": 1730704039,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -4915,20 +4939,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204765,
-      "num": 204765,
-      "word": "向佐海报都是向左发的",
-      "onboard_time": 1730704039,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204737,
       "num": 204737,
       "word": "穆祉丞发博让私生离私生活远一点",
       "onboard_time": 1730565018,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204533,
+      "num": 204533,
+      "word": "涵艺透露LPL外援顶薪1050万",
+      "onboard_time": 1730704398,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 204258,
@@ -5337,6 +5361,14 @@
       "onboard_time": 1730695522,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191510,
+      "num": 191510,
+      "word": "费加罗盛典明星阵容",
+      "onboard_time": 1730705120,
+      "rank": 38,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 191179,
@@ -6411,14 +6443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162058,
-      "num": 162058,
-      "word": "涵艺透露LPL外援顶薪1050万",
-      "onboard_time": 1730704398,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161990,
       "num": 178289,
       "word": "金晨教科书级别的一字马",
@@ -6641,6 +6665,14 @@
       "onboard_time": 1730638459,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 383966,
+      "word": "警方回应女孩横穿马路被警车撞飞",
+      "onboard_time": 1730705359,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158684,
@@ -7251,6 +7283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143005,
+      "num": 143005,
+      "word": "妙妙知道慕声要强 妙妙也曾满身血印",
+      "onboard_time": 1730704999,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142998,
       "num": 142998,
       "word": "MRC对战Gr",
@@ -7369,14 +7409,6 @@
       "onboard_time": 1730608520,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141069,
-      "num": 141069,
-      "word": "收入减半的中产开始反向换房自救",
-      "onboard_time": 1730704640,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140707,
@@ -9211,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86701,
+      "num": 384099,
+      "word": "陈哲远红发深V造型",
+      "onboard_time": 1730705120,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 86338,
       "num": 117599,
       "word": "WTA年终总决赛",
@@ -9265,6 +9305,14 @@
       "onboard_time": 1730512938,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84444,
+      "num": 400502,
+      "word": "良品铺子被曝酸辣粉里没有粉",
+      "onboard_time": 1730705540,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84418,
@@ -10091,6 +10139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42638,
+      "num": 332872,
+      "word": "职场扮蠢能去班味吗",
+      "onboard_time": 1730703919,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42541,
       "num": 1277550,
       "word": "公安部网安局揭开帮信罪真面目",
@@ -10248,6 +10304,14 @@
       "word": "法院回应判决书写错4年刑期变3年",
       "onboard_time": 1730492231,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38547,
+      "num": 434097,
+      "word": "64岁脱口秀演员说幽默不退休",
+      "onboard_time": 1730704218,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -10560,14 +10624,6 @@
       "word": "退换家电需有原包装的规矩是否需要改改了",
       "onboard_time": 1730416935,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30417,
-      "num": 434097,
-      "word": "64岁脱口秀演员说幽默不退休",
-      "onboard_time": 1730704218,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -10968,14 +11024,6 @@
       "word": "K7034十年前也曾发生脱轨事故",
       "onboard_time": 1730525598,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22099,
-      "num": 332872,
-      "word": "职场扮蠢能去班味吗",
-      "onboard_time": 1730703919,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -11561,6 +11609,14 @@
       "onboard_time": 1730577372,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11532,
+      "num": 226253,
+      "word": "黄晓明电影圈的满贯橡皮人",
+      "onboard_time": 1730705720,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 11385,

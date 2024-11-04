@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730704911246,
+  "endTime": 1730705820378,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 796969,
+      "num": 796969,
+      "word": "警方通报电梯内小女孩被捂嘴抱走",
+      "onboard_time": 1730702839,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779317,
       "num": 779317,
       "word": "马斯克每天抽1名选民送100万美元",
@@ -171,20 +179,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 774623,
+      "num": 774623,
+      "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
+      "onboard_time": 1730700139,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760222,
       "num": 760222,
       "word": "余承东称史上最强大的Mate11月见",
       "onboard_time": 1730683520,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 758757,
-      "num": 758757,
-      "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
-      "onboard_time": 1730700139,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 754579,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675280,
+      "num": 675280,
+      "word": "今年美国大选将成史上最贵一次",
+      "onboard_time": 1730700920,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 663151,
       "num": 663151,
       "word": "Mate70",
@@ -273,6 +289,14 @@
       "onboard_time": 1730679379,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 622479,
+      "num": 622479,
+      "word": "于正回应虞书欣永夜星河大爆",
+      "onboard_time": 1730703439,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 589629,
@@ -387,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 474258,
-      "num": 474258,
-      "word": "于正回应虞书欣永夜星河大爆",
-      "onboard_time": 1730703439,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 468214,
       "num": 468214,
       "word": "歼35要来了吗",
@@ -409,14 +425,6 @@
       "onboard_time": 1730679797,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458816,
-      "num": 458816,
-      "word": "警方通报电梯内小女孩被捂嘴抱走",
-      "onboard_time": 1730702839,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452684,
@@ -465,14 +473,6 @@
       "onboard_time": 1730699000,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411037,
-      "num": 420728,
-      "word": "今年美国大选将成史上最贵一次",
-      "onboard_time": 1730700920,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 410828,
@@ -651,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281185,
+      "num": 281185,
+      "word": "赵露思说韩安冉很鼓励她",
+      "onboard_time": 1730703919,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279871,
+      "num": 279871,
+      "word": "涵艺爆料LPL工资帽",
+      "onboard_time": 1730704337,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278033,
       "num": 278033,
       "word": "神十八返程俩航天员小憩一个抖脚",
@@ -680,14 +696,6 @@
       "word": "珠帘玉幕第10集 偷偷藏不住",
       "onboard_time": 1730703739,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 261123,
-      "num": 261123,
-      "word": "赵露思说韩安冉很鼓励她",
-      "onboard_time": 1730703919,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -779,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233202,
-      "num": 233202,
-      "word": "涵艺爆料LPL工资帽",
-      "onboard_time": 1730704337,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -801,6 +801,14 @@
       "onboard_time": 1730691141,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227985,
+      "num": 227985,
+      "word": "收入减半的中产开始反向换房自救",
+      "onboard_time": 1730704640,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227640,
@@ -851,6 +859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212708,
+      "num": 212708,
+      "word": "男孩电梯内捂嘴猥亵7岁女孩被行拘",
+      "onboard_time": 1730705658,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212289,
+      "num": 212289,
+      "word": "向佐海报都是向左发的",
+      "onboard_time": 1730704039,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211627,
       "num": 211627,
       "word": "满满的祝福送给莎莎",
@@ -883,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204765,
-      "num": 204765,
-      "word": "向佐海报都是向左发的",
-      "onboard_time": 1730704039,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 204533,
+      "num": 204533,
+      "word": "涵艺透露LPL外援顶薪1050万",
+      "onboard_time": 1730704398,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 201202,
@@ -953,6 +977,14 @@
       "onboard_time": 1730695522,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191510,
+      "num": 191510,
+      "word": "费加罗盛典明星阵容",
+      "onboard_time": 1730705120,
+      "rank": 38,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 190580,
@@ -1131,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162058,
-      "num": 162058,
-      "word": "涵艺透露LPL外援顶薪1050万",
-      "onboard_time": 1730704398,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161713,
       "num": 382876,
       "word": "航天员解说回地球太有画面感",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1730692162,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 383966,
+      "word": "警方回应女孩横穿马路被警车撞飞",
+      "onboard_time": 1730705359,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157122,
@@ -1243,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143005,
+      "num": 143005,
+      "word": "妙妙知道慕声要强 妙妙也曾满身血印",
+      "onboard_time": 1730704999,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142662,
       "num": 142662,
       "word": "苏新皓是因为passion开始唱跳的",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1730635878,
       "rank": 28,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 141069,
-      "num": 141069,
-      "word": "收入减半的中产开始反向换房自救",
-      "onboard_time": 1730704640,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139249,
@@ -1563,12 +1595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86701,
+      "num": 384099,
+      "word": "陈哲远红发深V造型",
+      "onboard_time": 1730705120,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 86521,
       "num": 102269,
       "word": "大梦归离好虐",
       "onboard_time": 1730634920,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84444,
+      "num": 400502,
+      "word": "良品铺子被曝酸辣粉里没有粉",
+      "onboard_time": 1730705540,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84201,
@@ -1747,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42638,
+      "num": 332872,
+      "word": "职场扮蠢能去班味吗",
+      "onboard_time": 1730703919,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42254,
       "num": 50651,
       "word": "奚梦瑶3岁女儿腿长",
@@ -1761,6 +1817,14 @@
       "onboard_time": 1730646320,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38547,
+      "num": 434097,
+      "word": "64岁脱口秀演员说幽默不退休",
+      "onboard_time": 1730704218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37083,
@@ -1809,14 +1873,6 @@
       "onboard_time": 1730656094,
       "rank": 41,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 30417,
-      "num": 434097,
-      "word": "64岁脱口秀演员说幽默不退休",
-      "onboard_time": 1730704218,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30007,
@@ -1881,14 +1937,6 @@
       "onboard_time": 1730669291,
       "rank": 45,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 22099,
-      "num": 332872,
-      "word": "职场扮蠢能去班味吗",
-      "onboard_time": 1730703919,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21264,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1730701099,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11532,
+      "num": 226253,
+      "word": "黄晓明电影圈的满贯橡皮人",
+      "onboard_time": 1730705720,
+      "rank": 29,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
