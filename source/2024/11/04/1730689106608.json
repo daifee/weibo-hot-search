@@ -1,0 +1,410 @@
+{
+  "runTime": 1730689106608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277393,
+        "num": 1277393,
+        "word": "丁禹兮上桌",
+        "onboard_time": 1730683758,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663151,
+        "num": 663151,
+        "word": "Mate70",
+        "onboard_time": 1730683637,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12521,
+        "num": 642593,
+        "word": "文化中国行看打开ChinaTravel的N种方式",
+        "onboard_time": 1730639180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623524,
+        "num": 623524,
+        "word": "航天员回地球前先点好了餐",
+        "onboard_time": 1730684417,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 578512,
+        "num": 578512,
+        "word": "赵露思说汪苏泷唱不得超好听",
+        "onboard_time": 1730688019,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453823,
+        "num": 453823,
+        "word": "余承东称史上最强大的Mate11月见",
+        "onboard_time": 1730683520,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 467411,
+        "num": 449352,
+        "word": "黄磊回应好为人师爱说教",
+        "onboard_time": 1730639779,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378416,
+        "num": 378416,
+        "word": "一觉醒来神十八3人回地球了",
+        "onboard_time": 1730677097,
+        "rank": 7,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 360882,
+        "num": 360882,
+        "word": "世界乒联祝孙颖莎健康快乐",
+        "onboard_time": 1730680099,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29486,
+        "num": 358094,
+        "word": "央视起底不防毒的防毒面具",
+        "onboard_time": 1730688379,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1971047,
+        "num": 356586,
+        "word": "男孩电梯内将小女孩捂嘴控制抱走",
+        "onboard_time": 1730685018,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1769284,
+        "num": 353124,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1108345,
+        "num": 351635,
+        "word": "引导失误致冠军变亚军痛失21万奖金",
+        "onboard_time": 1730685078,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 819594,
+        "num": 345653,
+        "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
+        "onboard_time": 1730684838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139249,
+        "num": 344136,
+        "word": "美总统大选最后冲刺",
+        "onboard_time": 1730687719,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 304686,
+        "num": 340957,
+        "word": "神舟十八号航天员平安抵京",
+        "onboard_time": 1730684719,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626365,
+        "num": 338875,
+        "word": "特朗普承认有败选可能",
+        "onboard_time": 1730683699,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398339,
+        "num": 333848,
+        "word": "刘宇宁说自己被骂到有点畏手畏脚",
+        "onboard_time": 1730678479,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333188,
+        "num": 333188,
+        "word": "幸运咖 王俊凯",
+        "onboard_time": 1730685678,
+        "rank": 18,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 218756,
+        "num": 316651,
+        "word": "珠帘玉幕",
+        "onboard_time": 1730688019,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312797,
+        "num": 312797,
+        "word": "神十八返回舱划过夜空好震撼",
+        "onboard_time": 1730687358,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428525,
+        "num": 308524,
+        "word": "一栗小莎子安利赵露思新剧",
+        "onboard_time": 1730682020,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392786,
+        "num": 304614,
+        "word": "缺乏性教育的孩子会吃哪些苦",
+        "onboard_time": 1730686878,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 353318,
+        "num": 301396,
+        "word": "Uzi谈不复出原因",
+        "onboard_time": 1730685798,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 327320,
+        "num": 295363,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 290182,
+        "num": 290182,
+        "word": "华为Mate70提前拆封罚款50万起",
+        "onboard_time": 1730686819,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253060,
+        "num": 253060,
+        "word": "神舟十八号返回舱成功着陆",
+        "onboard_time": 1730654892,
+        "rank": 26,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 210684,
+        "num": 242565,
+        "word": "麻辣女兵售后",
+        "onboard_time": 1730681659,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195516,
+        "num": 240707,
+        "word": "祝绪丹 永夜",
+        "onboard_time": 1730679797,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148489,
+        "num": 240370,
+        "word": "张凌赫发文宣传虞书欣永夜星河",
+        "onboard_time": 1730661311,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240043,
+        "num": 240043,
+        "word": "所谓军中茅台一瓶成本仅3元",
+        "onboard_time": 1730685980,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228520,
+        "num": 228520,
+        "word": "为什么数学水平最难造假",
+        "onboard_time": 1730687239,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216672,
+        "num": 216672,
+        "word": "美国大选亿万富豪都支持谁",
+        "onboard_time": 1730684838,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201111,
+        "num": 201111,
+        "word": "瘦肚子最快的运动其实是跳跃",
+        "onboard_time": 1730686579,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 197974,
+        "num": 197974,
+        "word": "朝鲜女足连夺世界杯冠军",
+        "onboard_time": 1730685918,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134540,
+        "num": 189780,
+        "word": "宋亚轩沈腾 姜还是老的辣具象化",
+        "onboard_time": 1730687538,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185969,
+        "num": 185969,
+        "word": "瑞士卷怎么分席卷全网老公",
+        "onboard_time": 1730687837,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173975,
+        "num": 173975,
+        "word": "永夜星河求加更",
+        "onboard_time": 1730689038,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158473,
+        "num": 158473,
+        "word": "女子带娃骑车逆行被撞身亡自负主责",
+        "onboard_time": 1730686878,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151081,
+        "num": 151081,
+        "word": "死亡游戏流行校园真的会致死",
+        "onboard_time": 1730636538,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148795,
+        "num": 148795,
+        "word": "无法一觉睡到天亮可能是肝血不足",
+        "onboard_time": 1730679559,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147577,
+        "num": 147577,
+        "word": "Bin与BLG合同即将到期",
+        "onboard_time": 1730686459,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 136464,
+        "word": "陆克华涉嫌严重违纪违法被查",
+        "onboard_time": 1730684118,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136051,
+        "num": 136051,
+        "word": "中国首位累计飞行超1年的航天员",
+        "onboard_time": 1730660292,
+        "rank": 43,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 128779,
+        "num": 128779,
+        "word": "比山路十八弯更难的是山路49道拐",
+        "onboard_time": 1730688978,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128065,
+        "num": 128065,
+        "word": "刘德华唱的中国人词曲作者均来自台湾",
+        "onboard_time": 1730681240,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127728,
+        "num": 127728,
+        "word": "周柯宇直播",
+        "onboard_time": 1730688619,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125427,
+        "num": 125427,
+        "word": "华为Mate70定档11月",
+        "onboard_time": 1730685440,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124559,
+        "num": 124559,
+        "word": "第一个从郑州夜骑开封的女生发声",
+        "onboard_time": 1730639960,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119118,
+        "num": 119118,
+        "word": "奥委会发文回顾孙颖莎精彩瞬间",
+        "onboard_time": 1730684238,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这两件事要两手并用#"
+    }
+  }
+}

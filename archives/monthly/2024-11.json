@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730685859356,
+  "endTime": 1730689106608,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1971047,
+      "num": 356586,
+      "word": "男孩电梯内将小女孩捂嘴控制抱走",
+      "onboard_time": 1730685018,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1966535,
       "num": 1164042,
       "word": "美国大选",
@@ -297,6 +305,14 @@
       "onboard_time": 1730428457,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1769284,
+      "num": 353124,
+      "word": "瑞士卷怎么分",
+      "onboard_time": 1730684598,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 1712415,
@@ -515,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1277393,
+      "num": 1277393,
+      "word": "丁禹兮上桌",
+      "onboard_time": 1730683758,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1253808,
       "num": 688790,
       "word": "刘宇宁也想转发赵露思微博",
@@ -593,6 +617,14 @@
       "onboard_time": 1730450718,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1108345,
+      "num": 351635,
+      "word": "引导失误致冠军变亚军痛失21万奖金",
+      "onboard_time": 1730685078,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1103296,
@@ -883,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 872089,
-      "num": 1139534,
-      "word": "丁禹兮上桌",
-      "onboard_time": 1730683758,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 870848,
       "num": 870848,
       "word": "沈阳一禁毒大队队长被控走私毒品",
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 830683,
-      "num": 336805,
+      "num": 338875,
       "word": "特朗普承认有败选可能",
       "onboard_time": 1730683699,
       "rank": 18,
@@ -977,6 +1001,14 @@
       "onboard_time": 1730387120,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 819594,
+      "num": 345653,
+      "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
+      "onboard_time": 1730684838,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811959,
@@ -1307,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663151,
+      "num": 663151,
+      "word": "Mate70",
+      "onboard_time": 1730683637,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 661802,
       "num": 661802,
       "word": "悬崖上绝望时看到3元1瓶的自助矿泉水",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1730379019,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623524,
+      "num": 623524,
+      "word": "航天员回地球前先点好了餐",
+      "onboard_time": 1730684417,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 623313,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1730464279,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 578512,
+      "num": 578512,
+      "word": "赵露思说汪苏泷唱不得超好听",
+      "onboard_time": 1730688019,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 578209,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1730507898,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499210,
-      "num": 499210,
-      "word": "Mate70",
-      "onboard_time": 1730683637,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 492955,
@@ -2579,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392786,
+      "num": 304614,
+      "word": "缺乏性教育的孩子会吃哪些苦",
+      "onboard_time": 1730686878,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 391316,
       "num": 391316,
       "word": "哈尔滨冰雪大世界扩至100万平米",
@@ -2787,28 +2843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363242,
-      "num": 363242,
-      "word": "航天员回地球前先点好了餐",
-      "onboard_time": 1730684417,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 362779,
       "num": 531903,
       "word": "美国女子带两娃跳下60米高瀑布",
       "onboard_time": 1730561003,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362608,
-      "num": 315453,
-      "word": "瑞士卷怎么分",
-      "onboard_time": 1730684598,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 361091,
@@ -2843,20 +2883,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 356253,
-      "num": 209561,
-      "word": "引导失误致冠军变亚军痛失21万奖金",
-      "onboard_time": 1730685078,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 354960,
       "num": 354960,
       "word": "警方回应同学被打男生要报警被老师呵斥",
       "onboard_time": 1730536099,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353318,
+      "num": 301396,
+      "word": "Uzi谈不复出原因",
+      "onboard_time": 1730685798,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 352883,
@@ -2955,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333188,
+      "num": 333188,
+      "word": "幸运咖 王俊凯",
+      "onboard_time": 1730685678,
+      "rank": 44,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 333077,
       "num": 297655,
       "word": "麻辣女兵售后",
@@ -2984,14 +3032,6 @@
       "word": "一男子入住酒店发现摄像头",
       "onboard_time": 1730554220,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329974,
-      "num": 254182,
-      "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
-      "onboard_time": 1730684838,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3067,6 +3107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 312797,
+      "num": 312797,
+      "word": "神十八返回舱划过夜空好震撼",
+      "onboard_time": 1730687358,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 312621,
       "num": 312621,
       "word": "祝绪丹演技",
@@ -3107,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304686,
+      "num": 340957,
+      "word": "神舟十八号航天员平安抵京",
+      "onboard_time": 1730684719,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 304215,
       "num": 304215,
       "word": "永夜星河宣传",
@@ -3137,14 +3193,6 @@
       "onboard_time": 1730535018,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301783,
-      "num": 301783,
-      "word": "神舟十八号航天员平安抵京",
-      "onboard_time": 1730684719,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 301332,
@@ -3241,6 +3289,14 @@
       "onboard_time": 1730532858,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290182,
+      "num": 290182,
+      "word": "华为Mate70提前拆封罚款50万起",
+      "onboard_time": 1730686819,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 290045,
@@ -3844,7 +3900,7 @@
     },
     {
       "raw_hot": 240365,
-      "num": 240365,
+      "num": 316651,
       "word": "珠帘玉幕",
       "onboard_time": 1730423119,
       "rank": 49,
@@ -3856,6 +3912,14 @@
       "word": "数学竞赛违规学生百科介绍被多平台删除",
       "onboard_time": 1730614818,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240043,
+      "num": 240043,
+      "word": "所谓军中茅台一瓶成本仅3元",
+      "onboard_time": 1730685980,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4027,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228520,
+      "num": 228520,
+      "word": "为什么数学水平最难造假",
+      "onboard_time": 1730687239,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225074,
       "num": 225074,
       "word": "BLG on",
@@ -4169,6 +4241,14 @@
       "onboard_time": 1730380701,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216672,
+      "num": 216672,
+      "word": "美国大选亿万富豪都支持谁",
+      "onboard_time": 1730684838,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 215586,
@@ -4371,14 +4451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207475,
-      "num": 207475,
-      "word": "男孩电梯内将小女孩捂嘴控制抱走",
-      "onboard_time": 1730685018,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207120,
       "num": 207120,
       "word": "永夜星河云合超小巷人家",
@@ -4473,14 +4545,6 @@
       "onboard_time": 1730448920,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205117,
-      "num": 205117,
-      "word": "美国大选亿万富豪都支持谁",
-      "onboard_time": 1730684838,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 204737,
@@ -4587,6 +4651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201111,
+      "num": 201111,
+      "word": "瘦肚子最快的运动其实是跳跃",
+      "onboard_time": 1730686579,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "上海台风",
@@ -4681,6 +4753,14 @@
       "onboard_time": 1730433619,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197974,
+      "num": 197974,
+      "word": "朝鲜女足连夺世界杯冠军",
+      "onboard_time": 1730685918,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 197965,
@@ -5009,6 +5089,14 @@
       "onboard_time": 1730423478,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "瑞士卷怎么分席卷全网老公",
+      "onboard_time": 1730687837,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185900,
@@ -5416,6 +5504,14 @@
       "word": "永夜星河双榜TOP1",
       "onboard_time": 1730605519,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173975,
+      "num": 173975,
+      "word": "永夜星河求加更",
+      "onboard_time": 1730689038,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -6067,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158473,
+      "num": 158473,
+      "word": "女子带娃骑车逆行被撞身亡自负主责",
+      "onboard_time": 1730686878,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157777,
       "num": 157777,
       "word": "陈梦说自己无惧攻击和议论",
@@ -6387,6 +6491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148489,
+      "num": 240370,
+      "word": "张凌赫发文宣传虞书欣永夜星河",
+      "onboard_time": 1730661311,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148193,
       "num": 148193,
       "word": "台风康妮",
@@ -6400,6 +6512,14 @@
       "word": "米勒发博",
       "onboard_time": 1730575574,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 147577,
+      "num": 147577,
+      "word": "Bin与BLG合同即将到期",
+      "onboard_time": 1730686459,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -6747,6 +6867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139249,
+      "num": 344136,
+      "word": "美总统大选最后冲刺",
+      "onboard_time": 1730687719,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 139198,
       "num": 139198,
       "word": "杨丞琳演唱会",
@@ -6851,6 +6979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136051,
+      "num": 136051,
+      "word": "中国首位累计飞行超1年的航天员",
+      "onboard_time": 1730660292,
+      "rank": 23,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 136036,
       "num": 136036,
       "word": "全球数学竞赛获奖者超4成来自北大",
@@ -6945,6 +7081,14 @@
       "onboard_time": 1730625678,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134540,
+      "num": 189780,
+      "word": "宋亚轩沈腾 姜还是老的辣具象化",
+      "onboard_time": 1730687538,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 134001,
@@ -7163,6 +7307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128779,
+      "num": 128779,
+      "word": "比山路十八弯更难的是山路49道拐",
+      "onboard_time": 1730688978,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128694,
       "num": 128694,
       "word": "山西一地女性35岁前结婚奖励1500元",
@@ -7201,6 +7353,14 @@
       "onboard_time": 1730639419,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127728,
+      "num": 127728,
+      "word": "周柯宇直播",
+      "onboard_time": 1730688619,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 127584,
@@ -7393,14 +7553,6 @@
       "onboard_time": 1730626878,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123604,
-      "num": 123604,
-      "word": "中国首位累计飞行超1年的航天员",
-      "onboard_time": 1730660292,
-      "rank": 23,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 123464,
@@ -7745,14 +7897,6 @@
       "onboard_time": 1730525417,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113398,
-      "num": 113398,
-      "word": "幸运咖 王俊凯",
-      "onboard_time": 1730685678,
-      "rank": 44,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 113376,
@@ -8185,14 +8329,6 @@
       "onboard_time": 1730529558,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98853,
-      "num": 98853,
-      "word": "Uzi谈不复出原因",
-      "onboard_time": 1730685798,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 98445,
@@ -9729,6 +9865,14 @@
       "onboard_time": 1730543178,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29486,
+      "num": 358094,
+      "word": "央视起底不防毒的防毒面具",
+      "onboard_time": 1730688379,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29299,
