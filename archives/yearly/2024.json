@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1730691919963,
+  "endTime": 1730694423624,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -2035,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8517226,
+      "num": 8517226,
+      "word": "周雨彤发文",
+      "onboard_time": 1730690540,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8491491,
       "num": 8491491,
       "word": "李小双怒斥中国体操教练组",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705130853,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7797604,
-      "num": 8254922,
-      "word": "新加坡免签",
-      "onboard_time": 1706166154,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

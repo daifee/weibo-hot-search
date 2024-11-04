@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/04 11:45:19
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/04 12:27:03
 </p>
 </blockquote>
 <p>
@@ -1539,6 +1539,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%8F%91%E6%96%87%23" target="weibo">
+周雨彤发文（热度：8517226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%8F%8C%E6%80%92%E6%96%A5%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E6%95%99%E7%BB%83%E7%BB%84%23" target="weibo">
 李小双怒斥中国体操教练组（热度：8491491）
 </a>
@@ -1805,12 +1811,6 @@ BLG对战T1（热度：7849827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E5%85%AC%E4%B8%BB%E7%99%BD%E6%A2%A6%E5%A6%8D%23" target="weibo">
 白鹿 公主白梦妍（热度：7808511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%23" target="weibo">
-新加坡免签（热度：7797604）
 </a>
 </li>
 
