@@ -1,0 +1,410 @@
+{
+  "runTime": 1730701978137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3500928,
+        "num": 3500928,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619126,
+        "num": 619126,
+        "word": "马斯克每天抽1名选民送100万美元",
+        "onboard_time": 1730693061,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23713,
+        "num": 541788,
+        "word": "东方风来进博之约",
+        "onboard_time": 1730692702,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714201,
+        "num": 529485,
+        "word": "刘宇宁 救场",
+        "onboard_time": 1730697979,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499597,
+        "num": 499597,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392000,
+        "num": 392000,
+        "word": "歼35要来了吗",
+        "onboard_time": 1730695403,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387224,
+        "num": 387224,
+        "word": "农村啃老现象抬头",
+        "onboard_time": 1730694862,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381238,
+        "num": 381238,
+        "word": "周雨彤 我没有那么糟糕",
+        "onboard_time": 1730691681,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340946,
+        "num": 340946,
+        "word": "毓言 香港",
+        "onboard_time": 1730699000,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59103,
+        "num": 340144,
+        "word": "公立医院为啥难开进口原研药",
+        "onboard_time": 1730700139,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339753,
+        "num": 339954,
+        "word": "景甜做完手术正在康复训练",
+        "onboard_time": 1730695641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003762,
+        "num": 338903,
+        "word": "张继科球馆开业",
+        "onboard_time": 1730700139,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 961958,
+        "num": 337716,
+        "word": "电梯内被捂嘴女孩妈妈发声",
+        "onboard_time": 1730691620,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45488,
+        "num": 336797,
+        "word": "一图看懂2024年美国大选",
+        "onboard_time": 1730701640,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52895,
+        "num": 336059,
+        "word": "山河说脱口秀觉醒了她的女性意识",
+        "onboard_time": 1730700860,
+        "rank": 14,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 722134,
+        "num": 335451,
+        "word": "权志凤",
+        "onboard_time": 1730699180,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648517,
+        "num": 334224,
+        "word": "电梯被捂嘴女孩事后大哭做噩梦",
+        "onboard_time": 1730694682,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637879,
+        "num": 333501,
+        "word": "丁禹兮 指甲建构",
+        "onboard_time": 1730693182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467761,
+        "num": 332662,
+        "word": "乔任梁母亲回应手臂伤口",
+        "onboard_time": 1730690178,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12052,
+        "num": 331594,
+        "word": "规划绿地疑似改建停车场",
+        "onboard_time": 1730701099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549258,
+        "num": 330859,
+        "word": "3个字赔了2000元",
+        "onboard_time": 1730697321,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410200,
+        "num": 330433,
+        "word": "张若昀唐艺昕带女儿玩跷跷板",
+        "onboard_time": 1730697080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329685,
+        "num": 329685,
+        "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
+        "onboard_time": 1730684838,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101288,
+        "num": 326263,
+        "word": "蒋欣演技太好了",
+        "onboard_time": 1730701879,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325733,
+        "num": 325733,
+        "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
+        "onboard_time": 1730700139,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318242,
+        "num": 318242,
+        "word": "赵丽颖黄晓明新剧开机",
+        "onboard_time": 1730695581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255193,
+        "num": 255193,
+        "word": "偶遇彭高",
+        "onboard_time": 1730699779,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244997,
+        "num": 244997,
+        "word": "孙颖莎生日",
+        "onboard_time": 1730693182,
+        "rank": 27,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 174167,
+        "num": 240143,
+        "word": "陈星旭说迪丽热巴很轻",
+        "onboard_time": 1730694202,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34753,
+        "num": 236878,
+        "word": "神十八乘组踏着星光回家",
+        "onboard_time": 1730701759,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105234,
+        "num": 235993,
+        "word": "哈利波特弹幕",
+        "onboard_time": 1730700379,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235793,
+        "num": 235793,
+        "word": "张新成李兰迪新西兰同游照",
+        "onboard_time": 1730689698,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200812,
+        "num": 200812,
+        "word": "瑞士卷怎么分席卷全网老公",
+        "onboard_time": 1730687837,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199600,
+        "num": 199600,
+        "word": "副市长31亿涉案资产背后的官场江湖",
+        "onboard_time": 1730697201,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194211,
+        "num": 194211,
+        "word": "引导失误致冠军变亚军痛失21万奖金",
+        "onboard_time": 1730685078,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194144,
+        "num": 194144,
+        "word": "孙颖莎24岁13个世界冠军",
+        "onboard_time": 1730689818,
+        "rank": 35,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 181840,
+        "num": 181840,
+        "word": "造谣者以为福州警方不会去北方抓人",
+        "onboard_time": 1730699661,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174064,
+        "num": 174064,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172282,
+        "num": 172282,
+        "word": "永夜星河求加更",
+        "onboard_time": 1730689038,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165627,
+        "num": 165627,
+        "word": "樊振东庆祝动作版权意识好强",
+        "onboard_time": 1730697859,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162039,
+        "num": 162039,
+        "word": "虞书欣三部剧限免了",
+        "onboard_time": 1730692880,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 161522,
+        "word": "美国国民警卫队紧急待命防内乱",
+        "onboard_time": 1730698638,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157122,
+        "num": 157122,
+        "word": "高雅CP 我们生活里见",
+        "onboard_time": 1730700321,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147575,
+        "num": 147575,
+        "word": "鹿晗十周年第一站剧透",
+        "onboard_time": 1730700620,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142724,
+        "num": 142724,
+        "word": "今年美国大选将成史上最贵一次",
+        "onboard_time": 1730700920,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142588,
+        "num": 142588,
+        "word": "微短剧付费陷阱套住中老年人",
+        "onboard_time": 1730696541,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136544,
+        "num": 136544,
+        "word": "为什么数学水平最难造假",
+        "onboard_time": 1730687239,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136205,
+        "num": 136205,
+        "word": "丁禹兮上桌",
+        "onboard_time": 1730683758,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132338,
+        "num": 132338,
+        "word": "余承东称史上最强大的Mate11月见",
+        "onboard_time": 1730683520,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127697,
+        "num": 127697,
+        "word": "关晓彤王安宇什么时候出场",
+        "onboard_time": 1730701579,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是增强国际经贸活力的重要动力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730698811895,
+  "endTime": 1730701978137,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1769284,
-      "num": 446015,
+      "num": 499597,
       "word": "瑞士卷怎么分",
       "onboard_time": 1730684598,
       "rank": 44,
@@ -769,6 +769,14 @@
       "onboard_time": 1730549839,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1003762,
+      "num": 338903,
+      "word": "张继科球馆开业",
+      "onboard_time": 1730700139,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 991451,
@@ -1227,12 +1235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 722134,
+      "num": 335451,
+      "word": "权志凤",
+      "onboard_time": 1730699180,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717010,
       "num": 434349,
       "word": "黑寡妇召集复联支持哈里斯",
       "onboard_time": 1730453959,
       "rank": 11,
       "category": "国外时政,电影"
+    },
+    {
+      "raw_hot": 714201,
+      "num": 529485,
+      "word": "刘宇宁 救场",
+      "onboard_time": 1730697979,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 707414,
@@ -1947,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 549258,
+      "num": 427119,
+      "word": "3个字赔了2000元",
+      "onboard_time": 1730697321,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547504,
       "num": 547504,
       "word": "弟弟出事后我再也没得到父母的爱",
@@ -2497,14 +2529,6 @@
       "onboard_time": 1730458879,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 438294,
-      "num": 438294,
-      "word": "刘宇宁 救场",
-      "onboard_time": 1730697979,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 436868,
@@ -3147,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340946,
+      "num": 340946,
+      "word": "毓言 香港",
+      "onboard_time": 1730699000,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339938,
       "num": 339938,
       "word": "关晓彤王安宇跳了APT",
@@ -3241,6 +3273,14 @@
       "onboard_time": 1730546839,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 325733,
+      "num": 325733,
+      "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
+      "onboard_time": 1730700139,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323951,
@@ -3529,14 +3569,6 @@
       "onboard_time": 1730383341,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286604,
-      "num": 427119,
-      "word": "3个字赔了2000元",
-      "onboard_time": 1730697321,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286431,
@@ -3905,6 +3937,14 @@
       "onboard_time": 1730635098,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 255193,
+      "num": 255193,
+      "word": "偶遇彭高",
+      "onboard_time": 1730699779,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 255176,
@@ -4963,6 +5003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199600,
+      "num": 199600,
+      "word": "副市长31亿涉案资产背后的官场江湖",
+      "onboard_time": 1730697201,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199427,
       "num": 231663,
       "word": "Faker谈和Knight交手",
@@ -5001,14 +5049,6 @@
       "onboard_time": 1730563163,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198397,
-      "num": 198397,
-      "word": "副市长31亿涉案资产背后的官场江湖",
-      "onboard_time": 1730697201,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198344,
@@ -5505,6 +5545,14 @@
       "onboard_time": 1730519959,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181840,
+      "num": 181840,
+      "word": "造谣者以为福州警方不会去北方抓人",
+      "onboard_time": 1730699661,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181444,
@@ -6291,6 +6339,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 161522,
+      "num": 398939,
+      "word": "美国国民警卫队紧急待命防内乱",
+      "onboard_time": 1730698638,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 161361,
       "num": 161361,
       "word": "权志龙居家生活照",
@@ -6553,6 +6609,14 @@
       "onboard_time": 1730544078,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "高雅CP 我们生活里见",
+      "onboard_time": 1730700321,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 156872,
@@ -6899,6 +6963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147575,
+      "num": 147575,
+      "word": "鹿晗十周年第一站剧透",
+      "onboard_time": 1730700620,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147277,
       "num": 147277,
       "word": "北京大雾",
@@ -7067,6 +7139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142724,
+      "num": 142724,
+      "word": "今年美国大选将成史上最贵一次",
+      "onboard_time": 1730700920,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 142675,
       "num": 142675,
       "word": "永夜星河 轻喜剧",
@@ -7089,6 +7169,14 @@
       "onboard_time": 1730458099,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142588,
+      "num": 450932,
+      "word": "微短剧付费陷阱套住中老年人",
+      "onboard_time": 1730696541,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142534,
@@ -7753,6 +7841,14 @@
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127697,
+      "num": 127697,
+      "word": "关晓彤王安宇什么时候出场",
+      "onboard_time": 1730701579,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127584,
@@ -8571,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105234,
+      "num": 235993,
+      "word": "哈利波特弹幕",
+      "onboard_time": 1730700379,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104787,
       "num": 121661,
       "word": "永夜星河 勾引我",
@@ -8681,6 +8785,14 @@
       "onboard_time": 1730553261,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101288,
+      "num": 326263,
+      "word": "蒋欣演技太好了",
+      "onboard_time": 1730701879,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 100893,
@@ -9467,6 +9579,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 59103,
+      "num": 340144,
+      "word": "公立医院为啥难开进口原研药",
+      "onboard_time": 1730700139,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58355,
       "num": 492186,
       "word": "我国自主研制最大直径盾构机下线",
@@ -9585,6 +9705,14 @@
       "onboard_time": 1730692942,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52895,
+      "num": 336059,
+      "word": "山河说脱口秀觉醒了她的女性意识",
+      "onboard_time": 1730700860,
+      "rank": 14,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 51592,
@@ -9779,6 +9907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45488,
+      "num": 336797,
+      "word": "一图看懂2024年美国大选",
+      "onboard_time": 1730701640,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45147,
       "num": 370634,
       "word": "极地考察员穿的是波司登",
@@ -9865,14 +10001,6 @@
       "onboard_time": 1730611099,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42270,
-      "num": 450932,
-      "word": "微短剧付费陷阱套住中老年人",
-      "onboard_time": 1730696541,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42263,
@@ -10027,14 +10155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38309,
-      "num": 398939,
-      "word": "美国国民警卫队紧急待命防内乱",
-      "onboard_time": 1730698638,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 38222,
       "num": 49469,
       "word": "邓为素颜吃飞机餐",
@@ -10161,6 +10281,14 @@
       "onboard_time": 1730656933,
       "rank": 8,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 34753,
+      "num": 236878,
+      "word": "神十八乘组踏着星光回家",
+      "onboard_time": 1730701759,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34570,
@@ -10627,6 +10755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23713,
+      "num": 663211,
+      "word": "东方风来进博之约",
+      "onboard_time": 1730692702,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23658,
       "num": 342367,
       "word": "盘点与丝芭涉诉纠纷艺人",
@@ -10928,14 +11064,6 @@
       "word": "新能源冲击下传统豪华汽车还能打吗",
       "onboard_time": 1730441179,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18354,
-      "num": 663211,
-      "word": "东方风来进博之约",
-      "onboard_time": 1730692702,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11271,6 +11399,14 @@
       "num": 68296,
       "word": "记者现场直击消防人员转移受困群众",
       "onboard_time": 1730414113,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12052,
+      "num": 331594,
+      "word": "规划绿地疑似改建停车场",
+      "onboard_time": 1730701099,
       "rank": 19,
       "category": "社会新闻"
     },
