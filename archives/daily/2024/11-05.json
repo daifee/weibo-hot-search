@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730759777282,
+  "endTime": 1730762562561,
   "band_list": [
     {
       "raw_hot": 1209270,
@@ -67,6 +67,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576579,
+      "num": 800655,
+      "word": "妈妈充值3万玩游戏竟甩锅女儿",
+      "onboard_time": 1730761576,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559814,
+      "num": 451725,
+      "word": "杨子的财产黄圣依能分多少",
+      "onboard_time": 1730730920,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556825,
       "num": 388318,
       "word": "永夜星河 删吻戏",
@@ -88,6 +104,22 @@
       "word": "女生考公失败三年剃光头重新开始",
       "onboard_time": 1730727982,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467199,
+      "num": 314529,
+      "word": "特朗普与哈里斯继续决战摇摆州",
+      "onboard_time": 1730746572,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 448857,
+      "num": 205526,
+      "word": "缅甸小姐未夺冠当场翻脸",
+      "onboard_time": 1730709919,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -123,7 +155,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 334027,
+      "raw_hot": 337307,
       "num": 317574,
       "word": "周雨彤真诚的对不起",
       "onboard_time": 1730735778,
@@ -163,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268455,
+      "num": 268455,
+      "word": "当地回应班主任在家长群催缴医保",
+      "onboard_time": 1730741294,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "李煜东正式加入TF四代",
@@ -171,27 +211,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223691,
-      "num": 161071,
-      "word": "缅甸小姐未夺冠当场翻脸",
-      "onboard_time": 1730709919,
-      "rank": 33,
+      "raw_hot": 229067,
+      "num": 229067,
+      "word": "美了1千多年的银杏是唐太宗种的",
+      "onboard_time": 1730739376,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216402,
-      "num": 451725,
-      "word": "杨子的财产黄圣依能分多少",
-      "onboard_time": 1730730920,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194019,
-      "num": 194019,
-      "word": "当地回应班主任在家长群催缴医保",
-      "onboard_time": 1730741294,
-      "rank": 17,
+      "raw_hot": 215967,
+      "num": 215967,
+      "word": "广西大学被指强奸女学生教授报案",
+      "onboard_time": 1730738896,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -275,22 +307,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 129407,
-      "num": 143512,
-      "word": "美了1千多年的银杏是唐太宗种的",
-      "onboard_time": 1730739376,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128702,
-      "num": 128702,
-      "word": "特朗普与哈里斯继续决战摇摆州",
-      "onboard_time": 1730746572,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 128206,
       "num": 128206,
       "word": "虞书欣身后是109个婧妹",
@@ -339,12 +355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120919,
+      "num": 120919,
+      "word": "一句赵叔直接从外国干回东北地头",
+      "onboard_time": 1730757012,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120578,
       "num": 120578,
       "word": "人民币火速大涨",
       "onboard_time": 1730723420,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117909,
+      "num": 191660,
+      "word": "陶昕然 现实中谁天天开着豪车上班",
+      "onboard_time": 1730759354,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 116669,
@@ -371,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107855,
+      "num": 107855,
+      "word": "共享单车企业回应大学生夜骑开封",
+      "onboard_time": 1730759714,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106575,
       "num": 106575,
       "word": "网曝高中女生约十几人勒索初中男生",
@@ -379,36 +419,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106007,
+      "num": 106007,
+      "word": "马龙孙颖莎互送to签",
+      "onboard_time": 1730762296,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105034,
+      "num": 184550,
+      "word": "小巷人家 苏州",
+      "onboard_time": 1730760315,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104117,
+      "num": 104117,
+      "word": "张继科开业球馆不对外营业",
+      "onboard_time": 1730713760,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "良品铺子事件已转至区市监局处理",
       "onboard_time": 1730743213,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100605,
-      "num": 104744,
-      "word": "广西大学被指强奸女学生教授报案",
-      "onboard_time": 1730738896,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99584,
-      "num": 99584,
-      "word": "一句赵叔直接从外国干回东北地头",
-      "onboard_time": 1730757012,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97563,
-      "num": 97563,
-      "word": "张继科开业球馆不对外营业",
-      "onboard_time": 1730713760,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 95086,
@@ -427,12 +467,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 77211,
+      "num": 107845,
+      "word": "邪恶菠萝蜜和邪恶栀子花合体了",
+      "onboard_time": 1730726001,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77147,
       "num": 348859,
       "word": "快餐店成为年轻人举办婚礼的新选择",
       "onboard_time": 1730736499,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63027,
+      "num": 106893,
+      "word": "李光洁 我还以为是人父",
+      "onboard_time": 1730761154,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 62331,
@@ -451,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58679,
+      "num": 106323,
+      "word": "孟子义短发红毯",
+      "onboard_time": 1730748970,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 55613,
       "num": 287275,
       "word": "死亡游戏为何能在孩子间流行",
@@ -459,12 +523,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49806,
-      "num": 49806,
+      "raw_hot": 53537,
+      "num": 53537,
+      "word": "永夜星河珠帘玉幕昨日云合",
+      "onboard_time": 1730762116,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50276,
+      "num": 50276,
       "word": "业主群闹事专用情头",
       "onboard_time": 1730740394,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48055,
+      "num": 96615,
+      "word": "中方在WTO起诉欧盟电动汽车反补贴终裁措施",
+      "onboard_time": 1730758272,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45099,
+      "num": 91108,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 44160,
@@ -489,14 +577,6 @@
       "onboard_time": 1730730262,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38705,
-      "num": 53470,
-      "word": "孟子义短发红毯",
-      "onboard_time": 1730748970,
-      "rank": 7,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37754,
@@ -539,20 +619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21671,
-      "num": 96615,
-      "word": "中方在WTO起诉欧盟电动汽车反补贴终裁措施",
-      "onboard_time": 1730758272,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21185,
       "num": 37794,
       "word": "10年前获10万奖学金如今她回赠110万",
       "onboard_time": 1730744892,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 19786,
+      "num": 200745,
+      "word": "网友直击神十八凯旋瞬间激动鼓掌",
+      "onboard_time": 1730762356,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18383,
@@ -619,20 +699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12182,
-      "num": 53277,
-      "word": "共享单车企业回应大学生夜骑开封",
-      "onboard_time": 1730759714,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11668,
       "num": 35530,
       "word": "善良遇上善良这一刻具象化了",
       "onboard_time": 1730759474,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 7246,
+      "num": 402399,
+      "word": "第七届进博会小词典来了",
+      "onboard_time": 1730723059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3322,
