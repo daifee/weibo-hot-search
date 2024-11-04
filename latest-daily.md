@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/05 00:27:58 ~ 2024/11/05 03:19:56
+本榜单时间：2024/11/05 00:27:58 ~ 2024/11/05 03:35:25
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ AG晋级年总胜者组决赛（热度：39774）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%93%88%E9%87%8C%E6%96%AF%E7%BB%A7%E7%BB%AD%E5%86%B3%E6%88%98%E6%91%87%E6%91%86%E5%B7%9E%23" target="weibo">
+特朗普与哈里斯继续决战摇摆州（热度：33286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E8%92%8B%E6%AC%A3%E5%A5%BD%E4%BC%9A%E6%BC%94%23" target="weibo">
 闫妮蒋欣好会演（热度：21998）
 </a>
@@ -387,8 +393,14 @@ AG晋级年总胜者组决赛（热度：39774）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%93%88%E9%87%8C%E6%96%AF%E7%BB%A7%E7%BB%AD%E5%86%B3%E6%88%98%E6%91%87%E6%91%86%E5%B7%9E%23" target="weibo">
-特朗普与哈里斯继续决战摇摆州（热度：18611）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%B1%82%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%E6%98%AF%E5%90%84%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%B1%E5%90%8C%E6%84%BF%E6%9C%9B%23" target="weibo">
+追求幸福生活是各国人民共同愿望（热度：14713）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E4%BA%BA%E4%BC%9A%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%23" target="weibo">
+热爱生活的人会闪闪发光（热度：13050）
 </a>
 </li>
 
