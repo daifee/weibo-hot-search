@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730730135961,
+  "endTime": 1730731269300,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1749177,
+      "num": 1749177,
+      "word": "美国大选5任总统大乱斗",
+      "onboard_time": 1730726481,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1699835,
       "num": 1699835,
       "word": "王某某为姜某竞赛提供帮助被处分",
@@ -248,14 +256,6 @@
       "word": "美国大选",
       "onboard_time": 1730645479,
       "rank": 10,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 1652739,
-      "num": 1652739,
-      "word": "美国大选5任总统大乱斗",
-      "onboard_time": 1730726481,
-      "rank": 28,
       "category": "国外时政"
     },
     {
@@ -307,7 +307,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1499784,
+      "raw_hot": 1547344,
       "num": 1499784,
       "word": "女生考公失败三年剃光头重新开始",
       "onboard_time": 1730727982,
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771495,
+      "num": 771495,
+      "word": "王楚钦火力全开了",
+      "onboard_time": 1730727982,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 769361,
       "num": 629518,
       "word": "95四小花",
@@ -881,14 +889,6 @@
       "onboard_time": 1730623158,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 690488,
-      "num": 690488,
-      "word": "王楚钦火力全开了",
-      "onboard_time": 1730727982,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 686407,
@@ -1227,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 575030,
+      "num": 575030,
+      "word": "曾黎好薄的背",
+      "onboard_time": 1730727081,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 574101,
       "num": 574101,
       "word": "以爱为营",
@@ -1379,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512050,
+      "num": 512050,
+      "word": "没认出张若昀后面的魏晨",
+      "onboard_time": 1730727620,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503363,
       "num": 503363,
       "word": "女子领了一个赠品被骗4万元",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1730705359,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475616,
-      "num": 475616,
-      "word": "曾黎好薄的背",
-      "onboard_time": 1730727081,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 472387,
@@ -1691,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414379,
+      "num": 414379,
+      "word": "AG晋级年总胜者组决赛",
+      "onboard_time": 1730730262,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 413751,
       "num": 413751,
       "word": "王楚钦3比0户上隼辅",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1730601259,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 401177,
+      "num": 670380,
+      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
+      "onboard_time": 1730728281,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401018,
@@ -1843,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359819,
+      "num": 421650,
+      "word": "郑钦文 收视率打法",
+      "onboard_time": 1730729722,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358759,
       "num": 358759,
       "word": "美国警告伊朗不要再袭击以色列",
@@ -1865,14 +1897,6 @@
       "onboard_time": 1730685798,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 352726,
-      "num": 476148,
-      "word": "没认出张若昀后面的魏晨",
-      "onboard_time": 1730727620,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 352455,
@@ -2123,6 +2147,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286864,
+      "num": 424233,
+      "word": "湖南卫视芒果TV2025大剧片单",
+      "onboard_time": 1730728222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285399,
+      "num": 285399,
+      "word": "关晓彤黑抹胸裙",
+      "onboard_time": 1730727441,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 284450,
       "num": 284450,
       "word": "王楚钦王曼昱冠军赛合影",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1730641220,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273379,
+      "num": 273379,
+      "word": "王楚钦回应法兰克福赛首胜",
+      "onboard_time": 1730731102,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 269396,
@@ -2355,19 +2403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249043,
-      "num": 249043,
-      "word": "关晓彤黑抹胸裙",
-      "onboard_time": 1730727441,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 248133,
       "num": 409461,
       "word": "外逃原副市长涉案逾31亿知情人发声",
       "onboard_time": 1730689998,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247969,
+      "num": 479660,
+      "word": "多方回应女子去前夫家看小孩被杀害",
+      "onboard_time": 1730729064,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2441,14 +2489,6 @@
       "onboard_time": 1730685980,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239602,
-      "num": 239602,
-      "word": "湖南卫视芒果TV2025大剧片单",
-      "onboard_time": 1730728222,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 239372,
@@ -2811,14 +2851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211613,
-      "num": 421650,
-      "word": "郑钦文 收视率打法",
-      "onboard_time": 1730729722,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210422,
       "num": 261231,
       "word": "闫妮 人怎么能有种成黄玲这样",
@@ -2857,6 +2889,14 @@
       "onboard_time": 1730721920,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 208280,
+      "num": 208280,
+      "word": "卡尔伯格晋级男单16强",
+      "onboard_time": 1730731222,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 208131,
@@ -2920,6 +2960,14 @@
       "word": "警方回应卖40万手表后银行卡被冻结",
       "onboard_time": 1730616739,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205705,
+      "num": 414498,
+      "word": "河南信阳突发一起刑案",
+      "onboard_time": 1730731222,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3041,6 +3089,14 @@
       "onboard_time": 1730696841,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201201,
+      "num": 201201,
+      "word": "青雾风鸣班底",
+      "onboard_time": 1730731222,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 200520,
@@ -3185,6 +3241,14 @@
       "onboard_time": 1730561481,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196525,
+      "num": 202481,
+      "word": "王楚钦vs卡尔伯格",
+      "onboard_time": 1730730501,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 195918,
@@ -3787,14 +3851,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 165682,
-      "num": 476497,
-      "word": "多方回应女子去前夫家看小孩被杀害",
-      "onboard_time": 1730729064,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165579,
       "num": 225330,
       "word": "敖子逸 你怎么不叫我孟子义",
@@ -4371,12 +4427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145040,
-      "num": 670380,
-      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
-      "onboard_time": 1730728281,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 144304,
+      "num": 414620,
+      "word": "杨子的财产黄圣依能分多少",
+      "onboard_time": 1730730920,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 143612,
@@ -5611,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51763,
+      "num": 523840,
+      "word": "私人影院哪能公开打色情擦边球",
+      "onboard_time": 1730729303,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51537,
       "num": 320733,
       "word": "郑州大学生夜骑开封安全也别落下",
@@ -5891,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34788,
+      "num": 538621,
+      "word": "老人想退2.7万又被忽悠交了2.3万",
+      "onboard_time": 1730731162,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34775,
       "num": 442982,
       "word": "同一盒药为何能多次卖给参保人",
@@ -5947,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31777,
+      "num": 208031,
+      "word": "2名华商在菲遭抢劫佣人为劫匪开门",
+      "onboard_time": 1730730622,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30566,
       "num": 376660,
       "word": "老人买的代写回忆录可能是AI写的",
@@ -5969,6 +6049,14 @@
       "onboard_time": 1730692702,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 29563,
+      "num": 469065,
+      "word": "沙威玛传奇为什么火了",
+      "onboard_time": 1730730262,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29066,
@@ -6001,14 +6089,6 @@
       "onboard_time": 1730631199,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 27929,
-      "num": 523840,
-      "word": "私人影院哪能公开打色情擦边球",
-      "onboard_time": 1730729303,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27086,
@@ -6169,6 +6249,14 @@
       "onboard_time": 1730717058,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 20613,
+      "num": 500159,
+      "word": "谁懂闫妮哭戏含金量",
+      "onboard_time": 1730730563,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 20411,

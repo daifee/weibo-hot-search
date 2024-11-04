@@ -1,0 +1,410 @@
+{
+  "runTime": 1730731269300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749177,
+        "num": 1749177,
+        "word": "美国大选5任总统大乱斗",
+        "onboard_time": 1730726481,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1490771,
+        "num": 1490771,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1730726362,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31326,
+        "num": 1484041,
+        "word": "一片回顾神十八返回全过程",
+        "onboard_time": 1730723360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481023,
+        "num": 1481023,
+        "word": "范丞丞 出戏",
+        "onboard_time": 1730725461,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1133137,
+        "num": 1133137,
+        "word": "永夜星河 删吻戏",
+        "onboard_time": 1730726720,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1547344,
+        "num": 975100,
+        "word": "女生考公失败三年剃光头重新开始",
+        "onboard_time": 1730727982,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784360,
+        "num": 784360,
+        "word": "孙颖莎24岁生日发文",
+        "onboard_time": 1730724619,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771495,
+        "num": 771495,
+        "word": "王楚钦火力全开了",
+        "onboard_time": 1730727982,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645400,
+        "num": 645400,
+        "word": "人民币火速大涨",
+        "onboard_time": 1730723420,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 593827,
+        "num": 593827,
+        "word": "良品铺子被立案调查",
+        "onboard_time": 1730717779,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1435822,
+        "num": 588889,
+        "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+        "onboard_time": 1730719339,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 949077,
+        "num": 582500,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737229,
+        "num": 579125,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575030,
+        "num": 575030,
+        "word": "曾黎好薄的背",
+        "onboard_time": 1730727081,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34788,
+        "num": 538621,
+        "word": "老人想退2.7万又被忽悠交了2.3万",
+        "onboard_time": 1730731162,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512050,
+        "num": 512050,
+        "word": "没认出张若昀后面的魏晨",
+        "onboard_time": 1730727620,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420771,
+        "num": 505846,
+        "word": "永夜星河",
+        "onboard_time": 1730715199,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20613,
+        "num": 500159,
+        "word": "谁懂闫妮哭戏含金量",
+        "onboard_time": 1730730563,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247969,
+        "num": 479660,
+        "word": "多方回应女子去前夫家看小孩被杀害",
+        "onboard_time": 1730729064,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29563,
+        "num": 469065,
+        "word": "沙威玛传奇为什么火了",
+        "onboard_time": 1730730262,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532891,
+        "num": 457364,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453812,
+        "num": 453812,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438444,
+        "num": 438444,
+        "word": "狼队对战AG",
+        "onboard_time": 1730717298,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 427805,
+        "num": 427805,
+        "word": "英国男子捡到人头以为是恶作剧",
+        "onboard_time": 1730718439,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286864,
+        "num": 424233,
+        "word": "湖南卫视芒果TV2025大剧片单",
+        "onboard_time": 1730728222,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264793,
+        "num": 420878,
+        "word": "假如宋莹有八个瑞士卷",
+        "onboard_time": 1730726900,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420665,
+        "num": 420665,
+        "word": "瑞士卷",
+        "onboard_time": 1730730146,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51763,
+        "num": 415839,
+        "word": "私人影院哪能公开打色情擦边球",
+        "onboard_time": 1730729303,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144304,
+        "num": 414620,
+        "word": "杨子的财产黄圣依能分多少",
+        "onboard_time": 1730730920,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205705,
+        "num": 414498,
+        "word": "河南信阳突发一起刑案",
+        "onboard_time": 1730731222,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414379,
+        "num": 414379,
+        "word": "AG晋级年总胜者组决赛",
+        "onboard_time": 1730730262,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 401177,
+        "num": 401177,
+        "word": "别掉进8个瑞士卷怎么分的话题陷阱",
+        "onboard_time": 1730728281,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261970,
+        "num": 378170,
+        "word": "珠帘玉幕全员恭喜端午升职",
+        "onboard_time": 1730722940,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359819,
+        "num": 359819,
+        "word": "郑钦文 收视率打法",
+        "onboard_time": 1730729722,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285399,
+        "num": 285399,
+        "word": "关晓彤黑抹胸裙",
+        "onboard_time": 1730727441,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299702,
+        "num": 283517,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273379,
+        "num": 273379,
+        "word": "王楚钦回应法兰克福赛首胜",
+        "onboard_time": 1730731102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271759,
+        "num": 271759,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1730722280,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242414,
+        "num": 242414,
+        "word": "虞书欣身后是109个婧妹",
+        "onboard_time": 1730720781,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241302,
+        "num": 241302,
+        "word": "孙颖莎回复孙铭阳",
+        "onboard_time": 1730723420,
+        "rank": 39,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 236994,
+        "num": 236994,
+        "word": "王楚钦3比0户上隼辅",
+        "onboard_time": 1730728705,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232590,
+        "num": 232590,
+        "word": "王耀庆补上了四万五的花洒",
+        "onboard_time": 1730718619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208280,
+        "num": 208280,
+        "word": "卡尔伯格晋级男单16强",
+        "onboard_time": 1730731222,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31777,
+        "num": 208031,
+        "word": "2名华商在菲遭抢劫佣人为劫匪开门",
+        "onboard_time": 1730730622,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207849,
+        "num": 207849,
+        "word": "3岁男童果冻卡喉窒息ICU住5天",
+        "onboard_time": 1730727923,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204202,
+        "num": 204202,
+        "word": "何可欣结婚",
+        "onboard_time": 1730727081,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196525,
+        "num": 202481,
+        "word": "王楚钦vs卡尔伯格",
+        "onboard_time": 1730730501,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201858,
+        "num": 201858,
+        "word": "广西大学通报",
+        "onboard_time": 1730727321,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201201,
+        "num": 201201,
+        "word": "青雾风鸣班底",
+        "onboard_time": 1730731222,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201015,
+        "num": 201015,
+        "word": "对虞书欣感情很复杂 想生她",
+        "onboard_time": 1730725702,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#六届进博会习近平主席作出这些重要论述#"
+    }
+  }
+}
