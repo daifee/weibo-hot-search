@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730727761193,
+  "endTime": 1730730135961,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -43,8 +43,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2032038,
+      "num": 2032038,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1730726362,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2026574,
-      "num": 471242,
+      "num": 595582,
       "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
       "onboard_time": 1730713939,
       "rank": 10,
@@ -75,6 +83,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1692054,
+      "num": 1692054,
+      "word": "范丞丞 出戏",
+      "onboard_time": 1730725461,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1652739,
+      "num": 1652739,
+      "word": "美国大选5任总统大乱斗",
+      "onboard_time": 1730726481,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1652571,
       "num": 1652571,
       "word": "厨房爆炸丈夫烧伤92%仍起身救妻",
@@ -99,19 +123,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1571420,
-      "num": 1571420,
-      "word": "范丞丞 出戏",
-      "onboard_time": 1730725461,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1564758,
       "num": 443021,
       "word": "电梯被捂嘴女孩事后大哭做噩梦",
       "onboard_time": 1730694682,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499784,
+      "num": 1499784,
+      "word": "女生考公失败三年剃光头重新开始",
+      "onboard_time": 1730727982,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -129,6 +153,14 @@
       "onboard_time": 1730689698,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1378407,
+      "num": 1378407,
+      "word": "永夜星河 删吻戏",
+      "onboard_time": 1730726720,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1296692,
@@ -195,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1008177,
-      "num": 1008177,
-      "word": "永夜星河 删吻戏",
-      "onboard_time": 1730726720,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1003762,
       "num": 444768,
       "word": "张继科球馆开业",
@@ -257,14 +281,6 @@
       "onboard_time": 1730645479,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 927008,
-      "num": 927008,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1730726362,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 911889,
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690488,
+      "num": 690488,
+      "word": "王楚钦火力全开了",
+      "onboard_time": 1730727982,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686407,
       "num": 686407,
       "word": "孙颖莎24岁13个世界冠军",
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 649079,
-      "num": 424629,
+      "num": 428518,
       "word": "孙颖莎回复孙铭阳",
       "onboard_time": 1730723420,
       "rank": 16,
@@ -683,12 +707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 477614,
+      "num": 477614,
+      "word": "狼队对战AG",
+      "onboard_time": 1730717298,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 475880,
       "num": 475880,
       "word": "警方回应女孩横穿马路被警车撞飞",
       "onboard_time": 1730705359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475616,
+      "num": 475616,
+      "word": "曾黎好薄的背",
+      "onboard_time": 1730727081,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 468214,
@@ -795,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413751,
+      "num": 413751,
+      "word": "王楚钦3比0户上隼辅",
+      "onboard_time": 1730728705,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410828,
       "num": 276800,
       "word": "赵露思回应和刘梓晨长得像",
@@ -857,6 +905,14 @@
       "onboard_time": 1730685798,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 352726,
+      "num": 476148,
+      "word": "没认出张若昀后面的魏晨",
+      "onboard_time": 1730727620,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 351328,
@@ -929,14 +985,6 @@
       "onboard_time": 1730681659,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332730,
-      "num": 450761,
-      "word": "美国大选5任总统大乱斗",
-      "onboard_time": 1730726481,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 330711,
@@ -1043,20 +1091,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 274267,
-      "num": 274267,
-      "word": "狼队对战AG",
-      "onboard_time": 1730717298,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 272151,
       "num": 272151,
       "word": "华为Mate70",
       "onboard_time": 1730642241,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 268160,
+      "num": 426504,
+      "word": "假如宋莹有八个瑞士卷",
+      "onboard_time": 1730726900,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 263559,
@@ -1123,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249043,
+      "num": 249043,
+      "word": "关晓彤黑抹胸裙",
+      "onboard_time": 1730727441,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 248133,
       "num": 409461,
       "word": "外逃原副市长涉案逾31亿知情人发声",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1730685980,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239602,
+      "num": 239602,
+      "word": "湖南卫视芒果TV2025大剧片单",
+      "onboard_time": 1730728222,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 238348,
@@ -1227,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220915,
+      "num": 220915,
+      "word": "丁禹兮永夜星河小剧场",
+      "onboard_time": 1730729424,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218856,
       "num": 218856,
       "word": "沈阳发生交通事故13人送医救治",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1730688019,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218402,
+      "num": 218402,
+      "word": "广西大学通报",
+      "onboard_time": 1730727321,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 216672,
@@ -1307,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212595,
+      "num": 212595,
+      "word": "陈清晨为孙颖莎庆生",
+      "onboard_time": 1730727501,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212289,
       "num": 212289,
       "word": "向佐海报都是向左发的",
@@ -1323,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211613,
+      "num": 421650,
+      "word": "郑钦文 收视率打法",
+      "onboard_time": 1730729722,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208916,
       "num": 425379,
       "word": "哈马斯领导人辛瓦尔尸检结果公布",
@@ -1331,20 +1427,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 208131,
+      "num": 208131,
+      "word": "3岁男童果冻卡喉窒息ICU住5天",
+      "onboard_time": 1730727923,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206440,
       "num": 206440,
       "word": "樊振东庆祝动作版权意识好强",
       "onboard_time": 1730697859,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205910,
-      "num": 205910,
-      "word": "关晓彤黑抹胸裙",
-      "onboard_time": 1730727441,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205723,
@@ -1363,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204731,
+      "num": 204731,
+      "word": "AG剧透",
+      "onboard_time": 1730723420,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "涵艺透露LPL外援顶薪1050万",
@@ -1377,14 +1481,6 @@
       "onboard_time": 1730708899,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202240,
-      "num": 202240,
-      "word": "曾黎好薄的背",
-      "onboard_time": 1730727081,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201202,
@@ -1417,6 +1513,14 @@
       "onboard_time": 1730694742,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198518,
+      "num": 428917,
+      "word": "王楚钦进16强",
+      "onboard_time": 1730728943,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 197990,
@@ -1547,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190278,
-      "num": 190278,
-      "word": "假如宋莹有八个瑞士卷",
-      "onboard_time": 1730726900,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188477,
       "num": 264327,
       "word": "良品铺子称产品有多重检测把控",
@@ -1587,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180389,
+      "num": 180389,
+      "word": "周洁琼小巷人家戏内外反差",
+      "onboard_time": 1730725640,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180384,
       "num": 180384,
       "word": "陶昕然夹缝之间路演",
@@ -1595,12 +1699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179500,
-      "num": 179500,
-      "word": "周洁琼小巷人家戏内外反差",
-      "onboard_time": 1730725640,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 179855,
+      "num": 179855,
+      "word": "易烊千玺翻领外套",
+      "onboard_time": 1730730023,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179370,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1730629040,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178398,
+      "num": 178398,
+      "word": "WTT法兰克福冠军赛2024",
+      "onboard_time": 1730728763,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 178397,
@@ -1723,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171028,
-      "num": 171028,
-      "word": "AG剧透",
-      "onboard_time": 1730723420,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170999,
       "num": 170999,
       "word": "网红曝良品铺子藕粉掺木薯粉",
@@ -1803,6 +1907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165682,
+      "num": 476497,
+      "word": "多方回应女子去前夫家看小孩被杀害",
+      "onboard_time": 1730729064,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165579,
       "num": 225330,
       "word": "敖子逸 你怎么不叫我孟子义",
@@ -1849,14 +1961,6 @@
       "onboard_time": 1730644700,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163718,
-      "num": 163718,
-      "word": "广西大学通报",
-      "onboard_time": 1730727321,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 163422,
@@ -2011,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153383,
-      "num": 153383,
-      "word": "没认出张若昀后面的魏晨",
-      "onboard_time": 1730727620,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "tyt出道当天姚景元爸妈离婚",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1730700620,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145040,
+      "num": 670380,
+      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
+      "onboard_time": 1730728281,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143005,
@@ -2515,14 +2619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89933,
-      "num": 190558,
-      "word": "陈清晨为孙颖莎庆生",
-      "onboard_time": 1730727501,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87006,
       "num": 87006,
       "word": "丁禹兮 毛毛姐",
@@ -2836,7 +2932,7 @@
     },
     {
       "raw_hot": 37516,
-      "num": 1015639,
+      "num": 1668477,
       "word": "一片回顾神十八返回全过程",
       "onboard_time": 1730723360,
       "rank": 2,
@@ -2984,6 +3080,14 @@
       "word": "鞋店索要顾客试鞋费有违经营之道",
       "onboard_time": 1730669772,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27929,
+      "num": 523840,
+      "word": "私人影院哪能公开打色情擦边球",
+      "onboard_time": 1730729303,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3256,6 +3360,14 @@
       "word": "市监局回应已对良品铺子立案调查",
       "onboard_time": 1730709559,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8230,
+      "num": 415630,
+      "word": "3分钟解锁进博",
+      "onboard_time": 1730729124,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],

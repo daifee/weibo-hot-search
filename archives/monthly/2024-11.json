@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730727761193,
+  "endTime": 1730730135961,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -227,8 +227,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2032038,
+      "num": 2032038,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1730726362,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2026574,
-      "num": 471242,
+      "num": 595582,
       "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
       "onboard_time": 1730713939,
       "rank": 10,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1692054,
+      "num": 1692054,
+      "word": "范丞丞 出戏",
+      "onboard_time": 1730725461,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1688745,
       "num": 1688745,
       "word": "私人影院肢体接触明码标价",
@@ -393,6 +409,14 @@
       "onboard_time": 1730569042,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1652739,
+      "num": 1652739,
+      "word": "美国大选5任总统大乱斗",
+      "onboard_time": 1730726481,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1652571,
@@ -467,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1571420,
-      "num": 1571420,
-      "word": "范丞丞 出戏",
-      "onboard_time": 1730725461,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1564758,
       "num": 443021,
       "word": "电梯被捂嘴女孩事后大哭做噩梦",
@@ -497,6 +513,14 @@
       "onboard_time": 1730435060,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1499784,
+      "num": 1499784,
+      "word": "女生考公失败三年剃光头重新开始",
+      "onboard_time": 1730727982,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1486323,
@@ -585,6 +609,14 @@
       "onboard_time": 1730637978,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1378407,
+      "num": 1378407,
+      "word": "永夜星河 删吻戏",
+      "onboard_time": 1730726720,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1365668,
@@ -883,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1008177,
-      "num": 1008177,
-      "word": "永夜星河 删吻戏",
-      "onboard_time": 1730726720,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1003762,
       "num": 444768,
       "word": "张继科球馆开业",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1730648239,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 927008,
-      "num": 927008,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1730726362,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 925703,
@@ -1563,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690488,
+      "num": 690488,
+      "word": "王楚钦火力全开了",
+      "onboard_time": 1730727982,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689967,
       "num": 689967,
       "word": "美国大选时间",
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 649079,
-      "num": 424629,
+      "num": 428518,
       "word": "孙颖莎回复孙铭阳",
       "onboard_time": 1730723420,
       "rank": 16,
@@ -2611,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477614,
+      "num": 477614,
+      "word": "狼队对战AG",
+      "onboard_time": 1730717298,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 476420,
       "num": 278624,
       "word": "Rita好美",
@@ -2625,6 +2657,14 @@
       "onboard_time": 1730705359,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475616,
+      "num": 475616,
+      "word": "曾黎好薄的背",
+      "onboard_time": 1730727081,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 474432,
@@ -3009,6 +3049,14 @@
       "onboard_time": 1730445739,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413751,
+      "num": 413751,
+      "word": "王楚钦3比0户上隼辅",
+      "onboard_time": 1730728705,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 413357,
@@ -3451,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352726,
+      "num": 476148,
+      "word": "没认出张若昀后面的魏晨",
+      "onboard_time": 1730727620,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352455,
       "num": 352455,
       "word": "杨紫补偿粉丝机酒损失",
@@ -3593,14 +3649,6 @@
       "onboard_time": 1730681659,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332730,
-      "num": 450761,
-      "word": "美国大选5任总统大乱斗",
-      "onboard_time": 1730726481,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 331265,
@@ -4091,14 +4139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274267,
-      "num": 274267,
-      "word": "狼队对战AG",
-      "onboard_time": 1730717298,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 274211,
       "num": 274211,
       "word": "真的受够女厕所排队了",
@@ -4209,6 +4249,14 @@
       "onboard_time": 1730462359,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268160,
+      "num": 426504,
+      "word": "假如宋莹有八个瑞士卷",
+      "onboard_time": 1730726900,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 267950,
@@ -4491,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249043,
+      "num": 249043,
+      "word": "关晓彤黑抹胸裙",
+      "onboard_time": 1730727441,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 248979,
       "num": 288496,
       "word": "虞书欣工作室",
@@ -4640,6 +4696,14 @@
       "word": "杨洋新造型梦回于途",
       "onboard_time": 1730508497,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239602,
+      "num": 239602,
+      "word": "湖南卫视芒果TV2025大剧片单",
+      "onboard_time": 1730728222,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -4907,6 +4971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220915,
+      "num": 220915,
+      "word": "丁禹兮永夜星河小剧场",
+      "onboard_time": 1730729424,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220807,
       "num": 220807,
       "word": "雷军回应小米洗衣机火爆",
@@ -4977,6 +5049,14 @@
       "onboard_time": 1730458099,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 218402,
+      "num": 218402,
+      "word": "广西大学通报",
+      "onboard_time": 1730727321,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 217220,
@@ -5115,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212595,
+      "num": 212595,
+      "word": "陈清晨为孙颖莎庆生",
+      "onboard_time": 1730727501,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212289,
       "num": 212289,
       "word": "向佐海报都是向左发的",
@@ -5144,6 +5232,14 @@
       "word": "满满的祝福送给莎莎",
       "onboard_time": 1730675596,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211613,
+      "num": 421650,
+      "word": "郑钦文 收视率打法",
+      "onboard_time": 1730729722,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -5243,6 +5339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208131,
+      "num": 208131,
+      "word": "3岁男童果冻卡喉窒息ICU住5天",
+      "onboard_time": 1730727923,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207719,
       "num": 247556,
       "word": "Bin再比三比零手势",
@@ -5339,14 +5443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205910,
-      "num": 205910,
-      "word": "关晓彤黑抹胸裙",
-      "onboard_time": 1730727441,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 205655,
       "num": 205655,
       "word": "杀父骗保男子系家中独子很受宠",
@@ -5401,6 +5497,14 @@
       "onboard_time": 1730565018,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204731,
+      "num": 204731,
+      "word": "AG剧透",
+      "onboard_time": 1730723420,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 204533,
@@ -5481,14 +5585,6 @@
       "onboard_time": 1730592498,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 202240,
-      "num": 202240,
-      "word": "曾黎好薄的背",
-      "onboard_time": 1730727081,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202221,
@@ -5633,6 +5729,14 @@
       "onboard_time": 1730563163,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198518,
+      "num": 428917,
+      "word": "王楚钦进16强",
+      "onboard_time": 1730728943,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 198344,
@@ -5945,14 +6049,6 @@
       "onboard_time": 1730546778,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190278,
-      "num": 190278,
-      "word": "假如宋莹有八个瑞士卷",
-      "onboard_time": 1730726900,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 190158,
@@ -6299,6 +6395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180389,
+      "num": 180389,
+      "word": "周洁琼小巷人家戏内外反差",
+      "onboard_time": 1730725640,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180384,
       "num": 180384,
       "word": "陶昕然夹缝之间路演",
@@ -6323,20 +6427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179855,
+      "num": 179855,
+      "word": "易烊千玺翻领外套",
+      "onboard_time": 1730730023,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 179797,
       "num": 367898,
       "word": "原来猫猫也会抑郁",
       "onboard_time": 1730619078,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179500,
-      "num": 179500,
-      "word": "周洁琼小巷人家戏内外反差",
-      "onboard_time": 1730725640,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 179370,
@@ -6707,14 +6811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171028,
-      "num": 171028,
-      "word": "AG剧透",
-      "onboard_time": 1730723420,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170999,
       "num": 170999,
       "word": "网红曝良品铺子藕粉掺木薯粉",
@@ -6931,6 +7027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165682,
+      "num": 476497,
+      "word": "多方回应女子去前夫家看小孩被杀害",
+      "onboard_time": 1730729064,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165649,
       "num": 165649,
       "word": "谢可寅新剧斩男又斩女",
@@ -7065,14 +7169,6 @@
       "onboard_time": 1730469918,
       "rank": 42,
       "category": "艺人,网红"
-    },
-    {
-      "raw_hot": 163718,
-      "num": 163718,
-      "word": "广西大学通报",
-      "onboard_time": 1730727321,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 163551,
@@ -7659,14 +7755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153383,
-      "num": 153383,
-      "word": "没认出张若昀后面的魏晨",
-      "onboard_time": 1730727620,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153169,
       "num": 153169,
       "word": "网红吴迪发文说再见",
@@ -8001,6 +8089,14 @@
       "onboard_time": 1730565498,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145040,
+      "num": 670380,
+      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
+      "onboard_time": 1730728281,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144854,
@@ -10067,14 +10163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89933,
-      "num": 190558,
-      "word": "陈清晨为孙颖莎庆生",
-      "onboard_time": 1730727501,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89885,
       "num": 89885,
       "word": "两种性格的人容易得抑郁症",
@@ -11356,7 +11444,7 @@
     },
     {
       "raw_hot": 37516,
-      "num": 1015639,
+      "num": 1668477,
       "word": "一片回顾神十八返回全过程",
       "onboard_time": 1730723360,
       "rank": 2,
@@ -11793,6 +11881,14 @@
       "onboard_time": 1730631199,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27929,
+      "num": 523840,
+      "word": "私人影院哪能公开打色情擦边球",
+      "onboard_time": 1730729303,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27913,
@@ -12824,6 +12920,14 @@
       "word": "南极考察将首次开展越冬考察任务",
       "onboard_time": 1730464639,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8230,
+      "num": 415630,
+      "word": "3分钟解锁进博",
+      "onboard_time": 1730729124,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
