@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730712360818,
+  "endTime": 1730713165987,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -1051,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850896,
+      "num": 850896,
+      "word": "永夜星河 她拍的",
+      "onboard_time": 1730709919,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 847225,
       "num": 847225,
       "word": "黄圣依入学中欧国际商学院EMBA",
@@ -1123,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 817192,
-      "num": 817192,
-      "word": "永夜星河 她拍的",
-      "onboard_time": 1730709919,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 811959,
       "num": 342889,
       "word": "江歌妈妈60秒以上广告报价7万",
@@ -1183,6 +1183,14 @@
       "num": 786022,
       "word": "永夜星河开播",
       "onboard_time": 1730433498,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 779428,
+      "num": 754278,
+      "word": "虞书欣大格局",
+      "onboard_time": 1730710638,
       "rank": 6,
       "category": "剧集"
     },
@@ -1827,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598970,
-      "num": 598970,
-      "word": "虞书欣大格局",
-      "onboard_time": 1730710638,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 596295,
       "num": 596295,
       "word": "BLG 自ban蝎子",
@@ -2081,6 +2081,14 @@
       "onboard_time": 1730695581,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 550392,
+      "num": 550392,
+      "word": "广州往返中山仅需15分钟",
+      "onboard_time": 1730710701,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549258,
@@ -3155,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364835,
+      "num": 364835,
+      "word": "王楚钦户上隼辅交手战绩",
+      "onboard_time": 1730711779,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "武大博士一人拿下24万元奖学金",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1730640741,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344462,
+      "num": 344462,
+      "word": "如何看待赵露思虞书欣摇人",
+      "onboard_time": 1730712859,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 344271,
@@ -4227,14 +4251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248622,
-      "num": 478475,
-      "word": "广州往返中山仅需15分钟",
-      "onboard_time": 1730710701,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248589,
       "num": 248589,
       "word": "美方抽台湾的血养肥自己的军工",
@@ -4313,14 +4329,6 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243089,
-      "num": 243089,
-      "word": "王楚钦户上隼辅交手战绩",
-      "onboard_time": 1730711779,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 241763,
@@ -4745,6 +4753,14 @@
       "onboard_time": 1730530098,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213557,
+      "num": 213557,
+      "word": "第一次吃柿子的大熊猫满脸陶醉",
+      "onboard_time": 1730711419,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 213351,
@@ -5395,6 +5411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195113,
+      "num": 195113,
+      "word": "TXT回归MV",
+      "onboard_time": 1730712019,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "虞书欣凌妙妙黑化前vs黑化后",
@@ -5420,7 +5444,7 @@
     },
     {
       "raw_hot": 194393,
-      "num": 194393,
+      "num": 194439,
       "word": "陈哲远拖尾红纱",
       "onboard_time": 1730711899,
       "rank": 27,
@@ -5497,6 +5521,14 @@
       "onboard_time": 1730705120,
       "rank": 38,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 191480,
+      "num": 194979,
+      "word": "宁艺卓范思哲大片",
+      "onboard_time": 1730712381,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191179,
@@ -6147,14 +6179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174119,
-      "num": 188646,
-      "word": "TXT回归MV",
-      "onboard_time": 1730712019,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 173998,
       "num": 258266,
       "word": "代高政 脱的衣服我要一件件穿回来",
@@ -6345,6 +6369,14 @@
       "onboard_time": 1730464219,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168886,
+      "num": 168886,
+      "word": "烧伤妈妈怕孩子不爱她了",
+      "onboard_time": 1730711540,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168786,
@@ -6569,14 +6601,6 @@
       "onboard_time": 1730524217,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163508,
-      "num": 163508,
-      "word": "第一次吃柿子的大熊猫满脸陶醉",
-      "onboard_time": 1730711419,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 163422,
@@ -6939,6 +6963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 157656,
+      "num": 172767,
+      "word": "鞠婧祎超模气场",
+      "onboard_time": 1730710819,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157595,
       "num": 157595,
       "word": "谢娜模仿陈乔恩臭脸综合症",
@@ -7017,14 +7049,6 @@
       "onboard_time": 1730474839,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155770,
-      "num": 172767,
-      "word": "鞠婧祎超模气场",
-      "onboard_time": 1730710819,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155610,
@@ -7225,14 +7249,6 @@
       "onboard_time": 1730556620,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150045,
-      "num": 150045,
-      "word": "烧伤妈妈怕孩子不爱她了",
-      "onboard_time": 1730711540,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149864,
@@ -8032,6 +8048,14 @@
       "word": "广东女子吃羊胎盘引发严重脊柱炎",
       "onboard_time": 1730666471,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132178,
+      "num": 374591,
+      "word": "烧伤妻子手能动后写字询问丈夫情况",
+      "onboard_time": 1730712919,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -9827,6 +9851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67854,
+      "num": 405009,
+      "word": "大数据杀熟为何屡禁不止",
+      "onboard_time": 1730710999,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67749,
       "num": 119694,
       "word": "不能把悲剧当成流量富矿",
@@ -10451,6 +10483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41578,
+      "num": 424659,
+      "word": "捡秋是在捡什么",
+      "onboard_time": 1730709798,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 41535,
       "num": 41535,
       "word": "上海地铁",
@@ -10659,14 +10699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36913,
-      "num": 424659,
-      "word": "捡秋是在捡什么",
-      "onboard_time": 1730709798,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 36816,
       "num": 347224,
       "word": "西双版纳文旅向麦子奶奶发出邀请",
@@ -10737,6 +10769,14 @@
       "onboard_time": 1730701759,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34710,
+      "num": 366413,
+      "word": "对乔任梁之死纠缠不放是热血还是凉薄",
+      "onboard_time": 1730712799,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 34570,
@@ -10819,6 +10859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32249,
+      "num": 333372,
+      "word": "微短剧会成为电影的掘墓人吗",
+      "onboard_time": 1730711119,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31984,
       "num": 298165,
       "word": "俄方回应谷歌被罚款35位数",
@@ -10857,14 +10905,6 @@
       "onboard_time": 1730552419,
       "rank": 14,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 31711,
-      "num": 405009,
-      "word": "大数据杀熟为何屡禁不止",
-      "onboard_time": 1730710999,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31246,
@@ -11033,6 +11073,14 @@
       "onboard_time": 1730496371,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27086,
+      "num": 194100,
+      "word": "特朗普宣称民主党正窃取选票",
+      "onboard_time": 1730712739,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 26769,
@@ -11339,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21386,
+      "num": 302860,
+      "word": "主播深夜出动在墓地求刷礼物",
+      "onboard_time": 1730712979,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21383,
       "num": 258974,
       "word": "律师谈姐姐为亡弟追凶自行取证",
@@ -11561,14 +11617,6 @@
       "onboard_time": 1730582951,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18035,
-      "num": 333372,
-      "word": "微短剧会成为电影的掘墓人吗",
-      "onboard_time": 1730711119,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17924,
