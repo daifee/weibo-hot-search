@@ -1,0 +1,410 @@
+{
+  "runTime": 1730763404698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647629,
+        "num": 913620,
+        "word": "郑钦文 别喊了",
+        "onboard_time": 1730733561,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415415,
+        "num": 415415,
+        "word": "范丞丞 出戏",
+        "onboard_time": 1730725461,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9995,
+        "num": 310198,
+        "word": "第七届进博会小词典来了",
+        "onboard_time": 1730723059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297082,
+        "num": 297082,
+        "word": "美了1千多年的银杏是唐太宗种的",
+        "onboard_time": 1730739376,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295683,
+        "num": 295683,
+        "word": "当地回应班主任在家长群催缴医保",
+        "onboard_time": 1730741294,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497112,
+        "num": 295530,
+        "word": "美国大选5任总统大乱斗",
+        "onboard_time": 1730726481,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 616272,
+        "num": 295461,
+        "word": "特朗普与哈里斯继续决战摇摆州",
+        "onboard_time": 1730746572,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 295304,
+        "num": 295304,
+        "word": "广西大学被指强奸女学生教授报案",
+        "onboard_time": 1730738896,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195126,
+        "num": 286330,
+        "word": "小巷人家 苏州",
+        "onboard_time": 1730760315,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23445,
+        "num": 276922,
+        "word": "网友直击神十八凯旋瞬间激动鼓掌",
+        "onboard_time": 1730762356,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779473,
+        "num": 266328,
+        "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+        "onboard_time": 1730719339,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 600593,
+        "num": 261525,
+        "word": "杨子的财产黄圣依能分多少",
+        "onboard_time": 1730730920,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389301,
+        "num": 248357,
+        "word": "周雨彤真诚的对不起",
+        "onboard_time": 1730735778,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350561,
+        "num": 237858,
+        "word": "肖战旅游路透",
+        "onboard_time": 1730733201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316428,
+        "num": 228554,
+        "word": "河南信阳突发一起刑案",
+        "onboard_time": 1730731222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219332,
+        "num": 219332,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217262,
+        "num": 217262,
+        "word": "特朗普抱怨奥巴马给他留下烂摊子",
+        "onboard_time": 1730735300,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193595,
+        "num": 193595,
+        "word": "陶昕然 现实中谁天天开着豪车上班",
+        "onboard_time": 1730759354,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153245,
+        "num": 153245,
+        "word": "永夜星河 删吻戏",
+        "onboard_time": 1730726720,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115738,
+        "num": 152734,
+        "word": "还我庄图南",
+        "onboard_time": 1730731282,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 752944,
+        "num": 152307,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426574,
+        "num": 151051,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169357,
+        "num": 150614,
+        "word": "英国男子捡到人头以为是恶作剧",
+        "onboard_time": 1730718439,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150034,
+        "num": 150034,
+        "word": "影视飓风Tim离婚",
+        "onboard_time": 1730763257,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140864,
+        "num": 140864,
+        "word": "多方回应女子去前夫家看小孩被杀害",
+        "onboard_time": 1730729064,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135791,
+        "num": 135791,
+        "word": "猫因为我辞职在家压力太大吐了",
+        "onboard_time": 1730732421,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135532,
+        "num": 135532,
+        "word": "马龙孙颖莎互送to签",
+        "onboard_time": 1730762296,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134116,
+        "num": 134116,
+        "word": "共享单车企业回应大学生夜骑开封",
+        "onboard_time": 1730759714,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131774,
+        "num": 131774,
+        "word": "年轻人开始整顿天价婚礼",
+        "onboard_time": 1730732960,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90363,
+        "num": 113262,
+        "word": "永夜星河珠帘玉幕昨日云合",
+        "onboard_time": 1730762116,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110931,
+        "num": 110931,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108398,
+        "num": 108398,
+        "word": "赵丽颖和表妹好开心",
+        "onboard_time": 1730735119,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106880,
+        "num": 106880,
+        "word": "一句赵叔直接从外国干回东北地头",
+        "onboard_time": 1730757012,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101943,
+        "num": 101943,
+        "word": "良品铺子被立案调查",
+        "onboard_time": 1730717779,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85462,
+        "num": 101656,
+        "word": "李光洁 我还以为是人父",
+        "onboard_time": 1730761154,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101450,
+        "num": 101450,
+        "word": "人民币火速大涨",
+        "onboard_time": 1730723420,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97826,
+        "num": 97826,
+        "word": "Tim 小鱼",
+        "onboard_time": 1730763318,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96850,
+        "num": 96850,
+        "word": "女生考公失败三年剃光头重新开始",
+        "onboard_time": 1730727982,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94288,
+        "num": 94288,
+        "word": "郑钦文战胜莱巴金娜",
+        "onboard_time": 1730733261,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89030,
+        "num": 89030,
+        "word": "网曝高中女生约十几人勒索初中男生",
+        "onboard_time": 1730737037,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88011,
+        "num": 88011,
+        "word": "郑钦文为没控制好情绪致歉",
+        "onboard_time": 1730763257,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77058,
+        "num": 77058,
+        "word": "邪恶菠萝蜜和邪恶栀子花合体了",
+        "onboard_time": 1730726001,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922621,
+        "num": 76779,
+        "word": "妈妈充值3万玩游戏竟甩锅女儿",
+        "onboard_time": 1730761576,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73633,
+        "num": 73633,
+        "word": "传单印广西大学副院长强奸女学生",
+        "onboard_time": 1730736738,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73401,
+        "num": 73401,
+        "word": "黄明昊 凌妙妙加油鸭",
+        "onboard_time": 1730733381,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72752,
+        "num": 72752,
+        "word": "王楚钦这颗球值得收藏",
+        "onboard_time": 1730733322,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67449,
+        "num": 67449,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66803,
+        "num": 66803,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66014,
+        "num": 66014,
+        "word": "孙颖莎24岁生日发文",
+        "onboard_time": 1730724619,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65245,
+        "num": 65245,
+        "word": "良品铺子事件已转至区市监局处理",
+        "onboard_time": 1730743213,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个不会变展示中国开放决心#"
+    }
+  }
+}
