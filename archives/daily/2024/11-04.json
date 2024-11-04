@@ -1,7 +1,15 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730676977358,
+  "endTime": 1730684693043,
   "band_list": [
+    {
+      "raw_hot": 3184896,
+      "num": 379357,
+      "word": "女孩遭14人性侵3人为公职人员",
+      "onboard_time": 1730683339,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 932837,
       "num": 932837,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 928891,
-      "num": 277730,
+      "num": 371932,
       "word": "美国大选",
       "onboard_time": 1730645479,
       "rank": 10,
@@ -27,8 +35,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 693401,
-      "num": 693401,
+      "raw_hot": 754579,
+      "num": 367078,
+      "word": "刘宇宁说自己被骂到有点畏手畏脚",
+      "onboard_time": 1730678479,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 716360,
+      "num": 1114617,
       "word": "黄磊回应好为人师爱说教",
       "onboard_time": 1730639779,
       "rank": 3,
@@ -51,12 +67,44 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 637649,
+      "num": 362947,
+      "word": "特朗普哈里斯展开总统竞选最后一搏",
+      "onboard_time": 1730679379,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 595709,
+      "num": 595709,
+      "word": "余承东称史上最强大的Mate11月见",
+      "onboard_time": 1730683520,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 552446,
       "num": 552446,
       "word": "孙颖莎 欧扎克",
       "onboard_time": 1730629040,
       "rank": 5,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 510824,
+      "num": 348338,
+      "word": "死亡游戏流行校园真的会致死",
+      "onboard_time": 1730636538,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 490059,
+      "num": 343392,
+      "word": "美邦老板称和贾乃亮合作效果差",
+      "onboard_time": 1730642661,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 482543,
@@ -75,12 +123,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 453712,
-      "num": 152855,
-      "word": "美邦老板称和贾乃亮合作效果差",
-      "onboard_time": 1730642661,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 476952,
+      "num": 476952,
+      "word": "一栗小莎子安利赵露思新剧",
+      "onboard_time": 1730682020,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 467514,
+      "num": 412800,
+      "word": "祝绪丹 永夜",
+      "onboard_time": 1730679797,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452684,
+      "num": 452684,
+      "word": "一觉醒来神十八3人回地球了",
+      "onboard_time": 1730677097,
+      "rank": 4,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 441386,
@@ -92,10 +156,18 @@
     },
     {
       "raw_hot": 436560,
-      "num": 152662,
+      "num": 181412,
       "word": "上海迪士尼疑老太带孙插队被怒吼",
       "onboard_time": 1730637978,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425310,
+      "num": 425310,
+      "word": "第一个从郑州夜骑开封的女生发声",
+      "onboard_time": 1730639960,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -115,8 +187,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393528,
+      "num": 393528,
+      "word": "世界乒联祝孙颖莎健康快乐",
+      "onboard_time": 1730680099,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 386142,
+      "num": 386142,
+      "word": "丁禹兮上桌",
+      "onboard_time": 1730683758,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373050,
-      "num": 153679,
+      "num": 231328,
       "word": "张凌赫发文虞书欣永夜星河",
       "onboard_time": 1730661311,
       "rank": 32,
@@ -139,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336805,
+      "num": 336805,
+      "word": "特朗普承认有败选可能",
+      "onboard_time": 1730683699,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 336050,
       "num": 275804,
       "word": "卢昱晓 小巷人家",
@@ -153,6 +249,14 @@
       "onboard_time": 1730642179,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297655,
+      "num": 297655,
+      "word": "麻辣女兵售后",
+      "onboard_time": 1730681659,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 296581,
@@ -171,20 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279664,
-      "num": 279664,
-      "word": "第一个从郑州夜骑开封的女生发声",
-      "onboard_time": 1730639960,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277523,
-      "num": 277523,
-      "word": "死亡游戏流行校园真的会致死",
-      "onboard_time": 1730636538,
-      "rank": 37,
-      "category": "社会新闻,教育"
+      "raw_hot": 278033,
+      "num": 278033,
+      "word": "神十八返程俩航天员小憩一个抖脚",
+      "onboard_time": 1730680397,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272151,
@@ -195,6 +291,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 267350,
+      "num": 267350,
+      "word": "Mate70",
+      "onboard_time": 1730683637,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 260864,
+      "num": 260864,
+      "word": "你养的猫在养你养的狗",
+      "onboard_time": 1730678958,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 255176,
+      "num": 255176,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1730677218,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 235275,
       "num": 235275,
       "word": "永夜星河第七集 梦回苍兰诀",
@@ -203,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232259,
+      "num": 232259,
+      "word": "无法一觉睡到天亮可能是肝血不足",
+      "onboard_time": 1730679559,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227640,
       "num": 227640,
       "word": "花少4个人吃9人餐事情始末",
       "onboard_time": 1730625079,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214616,
+      "num": 214616,
+      "word": "朱开想去BLG做教练",
+      "onboard_time": 1730683279,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 211627,
@@ -227,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197607,
+      "num": 210585,
+      "word": "刘德华唱的中国人词曲作者均来自台湾",
+      "onboard_time": 1730681240,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196274,
       "num": 196274,
       "word": "刘宇宁也想转发赵露思微博",
       "onboard_time": 1730638639,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188687,
+      "num": 188687,
+      "word": "陆克华涉嫌严重违纪违法被查",
+      "onboard_time": 1730684118,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178620,
@@ -259,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169733,
+      "num": 169733,
+      "word": "航天员回地球前先点好了餐",
+      "onboard_time": 1730684417,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 168195,
+      "num": 168195,
+      "word": "永夜星河",
+      "onboard_time": 1730655553,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "小巷人家 晓庆衫",
@@ -275,20 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163422,
+      "num": 163422,
+      "word": "北京地铁10号线",
+      "onboard_time": 1730680040,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158767,
+      "num": 158767,
+      "word": "奥委会发文回顾孙颖莎精彩瞬间",
+      "onboard_time": 1730684238,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156872,
       "num": 151733,
       "word": "黄磊回应资源背景争议",
       "onboard_time": 1730660111,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143191,
-      "num": 132985,
-      "word": "永夜星河",
-      "onboard_time": 1730655553,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 141969,
@@ -331,12 +507,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125130,
+      "num": 125130,
+      "word": "叶光富说中国航天的纪录将很快刷新",
+      "onboard_time": 1730660292,
+      "rank": 29,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 123604,
+      "num": 123604,
+      "word": "中国首位累计飞行超1年的航天员",
+      "onboard_time": 1730660292,
+      "rank": 23,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 123187,
+      "num": 123187,
+      "word": "被裁后跟公司死磕到底的人",
+      "onboard_time": 1730647879,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120074,
       "num": 120074,
       "word": "吴露可逃",
       "onboard_time": 1730623819,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118463,
+      "num": 118463,
+      "word": "瑞士卷怎么分",
+      "onboard_time": 1730684598,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 116582,
@@ -355,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "裴珠泫个人solo预告",
+      "onboard_time": 1730677518,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110602,
       "num": 153441,
       "word": "闫妮 人怎么能有种成黄玲这样",
@@ -371,19 +587,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106469,
+      "num": 106469,
+      "word": "新机型新涂装为空军庆生",
+      "onboard_time": 1730684417,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106052,
       "num": 106052,
       "word": "三国重臣张昭墓在南京考古发掘完毕",
       "onboard_time": 1730645961,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103670,
-      "num": 103670,
-      "word": "被裁后跟公司死磕到底的人",
-      "onboard_time": 1730647879,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -523,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59855,
+      "num": 382876,
+      "word": "航天员解说回地球太有画面感",
+      "onboard_time": 1730683938,
+      "rank": 9,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 59263,
       "num": 59263,
       "word": "神十八航天员全部顺利出舱",
@@ -539,14 +763,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 54816,
-      "num": 56193,
-      "word": "叶光富说中国航天的纪录将很快刷新",
-      "onboard_time": 1730660292,
-      "rank": 29,
-      "category": "国内时政,社会新闻"
-    },
-    {
       "raw_hot": 51049,
       "num": 51049,
       "word": "视频回顾80后乘组太空之旅",
@@ -561,14 +777,6 @@
       "onboard_time": 1730650817,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 50333,
-      "num": 56177,
-      "word": "中国首位累计飞行超1年的航天员",
-      "onboard_time": 1730660292,
-      "rank": 23,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 49928,
@@ -651,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24095,
+      "num": 356603,
+      "word": "周一精神状态belike",
+      "onboard_time": 1730682258,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23157,
       "num": 23157,
       "word": "黄磊回应被指好为人师",
@@ -673,6 +889,14 @@
       "onboard_time": 1730667131,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 20411,
+      "num": 534312,
+      "word": "文化中国行看打开ChinaTravel的N种方式",
+      "onboard_time": 1730639180,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20019,
@@ -712,14 +936,6 @@
       "word": "男子为让网友点关注谎称孩子丢了",
       "onboard_time": 1730662212,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17002,
-      "num": 287277,
-      "word": "文化中国行看打开ChinaTravel的N种方式",
-      "onboard_time": 1730639180,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

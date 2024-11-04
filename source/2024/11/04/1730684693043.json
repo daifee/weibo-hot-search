@@ -1,0 +1,410 @@
+{
+  "runTime": 1730684693043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 716360,
+        "num": 1114617,
+        "word": "黄磊回应好为人师爱说教",
+        "onboard_time": 1730639779,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595709,
+        "num": 595709,
+        "word": "余承东称史上最强大的Mate11月见",
+        "onboard_time": 1730683520,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20411,
+        "num": 534312,
+        "word": "文化中国行看打开ChinaTravel的N种方式",
+        "onboard_time": 1730639180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476952,
+        "num": 476952,
+        "word": "一栗小莎子安利赵露思新剧",
+        "onboard_time": 1730682020,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452684,
+        "num": 452684,
+        "word": "一觉醒来神十八3人回地球了",
+        "onboard_time": 1730677097,
+        "rank": 4,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 425310,
+        "num": 425310,
+        "word": "第一个从郑州夜骑开封的女生发声",
+        "onboard_time": 1730639960,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467514,
+        "num": 412800,
+        "word": "祝绪丹 永夜",
+        "onboard_time": 1730679797,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393528,
+        "num": 393528,
+        "word": "世界乒联祝孙颖莎健康快乐",
+        "onboard_time": 1730680099,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386142,
+        "num": 386142,
+        "word": "丁禹兮上桌",
+        "onboard_time": 1730683758,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59855,
+        "num": 382876,
+        "word": "航天员解说回地球太有画面感",
+        "onboard_time": 1730683938,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 3184896,
+        "num": 379357,
+        "word": "女孩遭14人性侵3人为公职人员",
+        "onboard_time": 1730683339,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781074,
+        "num": 371932,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 754579,
+        "num": 367078,
+        "word": "刘宇宁说自己被骂到有点畏手畏脚",
+        "onboard_time": 1730678479,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364507,
+        "num": 364507,
+        "word": "神舟十八号返回舱成功着陆",
+        "onboard_time": 1730654892,
+        "rank": 13,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 637649,
+        "num": 362947,
+        "word": "特朗普哈里斯展开总统竞选最后一搏",
+        "onboard_time": 1730679379,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24095,
+        "num": 356603,
+        "word": "周一精神状态belike",
+        "onboard_time": 1730682258,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510824,
+        "num": 348338,
+        "word": "死亡游戏流行校园真的会致死",
+        "onboard_time": 1730636538,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 490059,
+        "num": 343392,
+        "word": "美邦老板称和贾乃亮合作效果差",
+        "onboard_time": 1730642661,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336805,
+        "num": 336805,
+        "word": "特朗普承认有败选可能",
+        "onboard_time": 1730683699,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297655,
+        "num": 297655,
+        "word": "麻辣女兵售后",
+        "onboard_time": 1730681659,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278033,
+        "num": 278033,
+        "word": "神十八返程俩航天员小憩一个抖脚",
+        "onboard_time": 1730680397,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267350,
+        "num": 267350,
+        "word": "Mate70",
+        "onboard_time": 1730683637,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260864,
+        "num": 260864,
+        "word": "你养的猫在养你养的狗",
+        "onboard_time": 1730678958,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255176,
+        "num": 255176,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1730677218,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 232259,
+        "num": 232259,
+        "word": "无法一觉睡到天亮可能是肝血不足",
+        "onboard_time": 1730679559,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231328,
+        "num": 231328,
+        "word": "张凌赫发文虞书欣永夜星河",
+        "onboard_time": 1730661311,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214616,
+        "num": 214616,
+        "word": "朱开想去BLG做教练",
+        "onboard_time": 1730683279,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208854,
+        "num": 211399,
+        "word": "李行亮买青团细节",
+        "onboard_time": 1730648119,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197607,
+        "num": 210585,
+        "word": "刘德华唱的中国人词曲作者均来自台湾",
+        "onboard_time": 1730681240,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188420,
+        "num": 210441,
+        "word": "黄圣依入学中欧国际商学院EMBA",
+        "onboard_time": 1730642179,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210396,
+        "num": 210396,
+        "word": "华为Mate70",
+        "onboard_time": 1730642241,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198232,
+        "num": 198232,
+        "word": "王楚钦肩伤成典型医疗案例",
+        "onboard_time": 1730641761,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188687,
+        "num": 188687,
+        "word": "陆克华涉嫌严重违纪违法被查",
+        "onboard_time": 1730684118,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181412,
+        "num": 181412,
+        "word": "上海迪士尼疑老太带孙插队被怒吼",
+        "onboard_time": 1730637978,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169733,
+        "num": 169733,
+        "word": "航天员回地球前先点好了餐",
+        "onboard_time": 1730684417,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168195,
+        "num": 168195,
+        "word": "永夜星河",
+        "onboard_time": 1730655553,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163422,
+        "num": 163422,
+        "word": "北京地铁10号线",
+        "onboard_time": 1730680040,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158767,
+        "num": 158767,
+        "word": "奥委会发文回顾孙颖莎精彩瞬间",
+        "onboard_time": 1730684238,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "美国警告伊朗不要再袭击以色列",
+        "onboard_time": 1730658611,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135795,
+        "num": 135795,
+        "word": "孙滢皓坐了导师的位置",
+        "onboard_time": 1730648239,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125130,
+        "num": 125130,
+        "word": "叶光富说中国航天的纪录将很快刷新",
+        "onboard_time": 1730660292,
+        "rank": 40,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 123604,
+        "num": 123604,
+        "word": "中国首位累计飞行超1年的航天员",
+        "onboard_time": 1730660292,
+        "rank": 41,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 123187,
+        "num": 123187,
+        "word": "被裁后跟公司死磕到底的人",
+        "onboard_time": 1730647879,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122542,
+        "num": 122542,
+        "word": "王楚钦奥运肩伤内幕曝光",
+        "onboard_time": 1730654473,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118463,
+        "num": 118463,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113850,
+        "num": 113850,
+        "word": "王心凌发文回应",
+        "onboard_time": 1730639478,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111965,
+        "num": 111965,
+        "word": "裴珠泫个人solo预告",
+        "onboard_time": 1730677518,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111000,
+        "num": 111000,
+        "word": "11个退货快递放门口被偷",
+        "onboard_time": 1730640741,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109858,
+        "num": 109858,
+        "word": "外籍男子在香港持刀抢劫警长被捅5刀",
+        "onboard_time": 1730637438,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106469,
+        "num": 106469,
+        "word": "新机型新涂装为空军庆生",
+        "onboard_time": 1730684417,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国市场这么大欢迎大家都来看看#"
+    }
+  }
+}
