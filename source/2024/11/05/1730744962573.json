@@ -1,0 +1,410 @@
+{
+  "runTime": 1730744962573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 198614,
+        "num": 198614,
+        "word": "周雨彤真诚的对不起",
+        "onboard_time": 1730735778,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160453,
+        "num": 160453,
+        "word": "郑钦文 别喊了",
+        "onboard_time": 1730733561,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114660,
+        "num": 114660,
+        "word": "美了1千多年的银杏是唐太宗种的",
+        "onboard_time": 1730739376,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144909,
+        "num": 113641,
+        "word": "范丞丞 出戏",
+        "onboard_time": 1730725461,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90617,
+        "num": 90617,
+        "word": "良品铺子被立案调查",
+        "onboard_time": 1730717779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155562,
+        "num": 90129,
+        "word": "美国大选5任总统大乱斗",
+        "onboard_time": 1730726481,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118654,
+        "num": 84727,
+        "word": "永夜星河 删吻戏",
+        "onboard_time": 1730726720,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72749,
+        "num": 72749,
+        "word": "传单印广西大学副院长强奸女学生",
+        "onboard_time": 1730736738,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94996,
+        "num": 71916,
+        "word": "永夜星河",
+        "onboard_time": 1730715199,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70040,
+        "num": 70040,
+        "word": "广西大学被指强奸女学生教授报案",
+        "onboard_time": 1730738896,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289404,
+        "num": 69328,
+        "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+        "onboard_time": 1730719339,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91928,
+        "num": 69002,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78895,
+        "num": 67441,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27463,
+        "num": 66396,
+        "word": "良品铺子事件已转至区市监局处理",
+        "onboard_time": 1730743213,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77312,
+        "num": 65918,
+        "word": "黄明昊 凌妙妙加油鸭",
+        "onboard_time": 1730733381,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65359,
+        "num": 65359,
+        "word": "河南信阳突发一起刑案",
+        "onboard_time": 1730731222,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64303,
+        "num": 64303,
+        "word": "对虞书欣感情很复杂 想生她",
+        "onboard_time": 1730725702,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62991,
+        "num": 62991,
+        "word": "当地回应班主任在家长群催缴医保",
+        "onboard_time": 1730741294,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49800,
+        "num": 49800,
+        "word": "肖战旅游路透",
+        "onboard_time": 1730733201,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46827,
+        "num": 46827,
+        "word": "还我庄图南",
+        "onboard_time": 1730731282,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70836,
+        "num": 46590,
+        "word": "英国男子捡到人头以为是恶作剧",
+        "onboard_time": 1730718439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45780,
+        "num": 45780,
+        "word": "女生考公失败三年剃光头重新开始",
+        "onboard_time": 1730727982,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43986,
+        "num": 43986,
+        "word": "杨子的财产黄圣依能分多少",
+        "onboard_time": 1730730920,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43507,
+        "num": 43507,
+        "word": "李煜东正式加入TF四代",
+        "onboard_time": 1730731522,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42474,
+        "num": 42474,
+        "word": "多方回应女子去前夫家看小孩被杀害",
+        "onboard_time": 1730729064,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42381,
+        "num": 42381,
+        "word": "慕声 谁让你碰她的",
+        "onboard_time": 1730731582,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41362,
+        "num": 41362,
+        "word": "Faker 第五冠献给粉丝",
+        "onboard_time": 1730734459,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39734,
+        "num": 39734,
+        "word": "人民币火速大涨",
+        "onboard_time": 1730723420,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39329,
+        "num": 39329,
+        "word": "特朗普抱怨奥巴马给他留下烂摊子",
+        "onboard_time": 1730735300,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21185,
+        "num": 37794,
+        "word": "10年前获10万奖学金如今她回赠110万",
+        "onboard_time": 1730744892,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 37754,
+        "num": 37754,
+        "word": "广东11月将有4次冷空气",
+        "onboard_time": 1730741353,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37068,
+        "num": 37068,
+        "word": "猫因为我辞职在家压力太大吐了",
+        "onboard_time": 1730732421,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36443,
+        "num": 36443,
+        "word": "孙颖莎24岁生日发文",
+        "onboard_time": 1730724619,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35954,
+        "num": 35954,
+        "word": "虞书欣身后是109个婧妹",
+        "onboard_time": 1730720781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35350,
+        "num": 35350,
+        "word": "王楚钦这颗球值得收藏",
+        "onboard_time": 1730733322,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35339,
+        "num": 35339,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34685,
+        "num": 34685,
+        "word": "郑钦文战胜莱巴金娜",
+        "onboard_time": 1730733261,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33694,
+        "num": 33694,
+        "word": "年轻人开始整顿天价婚礼",
+        "onboard_time": 1730732960,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32601,
+        "num": 32601,
+        "word": "网曝高中女生约十几人勒索初中男生",
+        "onboard_time": 1730737037,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31031,
+        "num": 31031,
+        "word": "没认出张若昀后面的魏晨",
+        "onboard_time": 1730727620,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30909,
+        "num": 30909,
+        "word": "业主群闹事专用情头",
+        "onboard_time": 1730740394,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29928,
+        "num": 29928,
+        "word": "谁允许你们欺瞒本尊贵的系统大人",
+        "onboard_time": 1730737936,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29694,
+        "num": 29694,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26671,
+        "num": 26671,
+        "word": "林俊杰JJ20巡演圆满谢幕",
+        "onboard_time": 1730737217,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26614,
+        "num": 26614,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1730726362,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26508,
+        "num": 26508,
+        "word": "陈都灵对接称画皮女主是陈都灵",
+        "onboard_time": 1730732960,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25710,
+        "num": 26312,
+        "word": "班主任被指在家长群强推医保",
+        "onboard_time": 1730734101,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26242,
+        "num": 26242,
+        "word": "死亡游戏为何能在孩子间流行",
+        "onboard_time": 1730737578,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25800,
+        "num": 25800,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1730722280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25249,
+        "num": 25249,
+        "word": "珠帘玉幕全员恭喜端午升职",
+        "onboard_time": 1730722940,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个不会变展示中国开放决心#"
+    }
+  }
+}
