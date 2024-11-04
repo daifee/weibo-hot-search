@@ -1,0 +1,410 @@
+{
+  "runTime": 1730715924909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2476179,
+        "num": 2476179,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289783,
+        "num": 1289783,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17592,
+        "num": 927729,
+        "word": "2024年进博会亮点抢先看",
+        "onboard_time": 1730706500,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759214,
+        "num": 759214,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608587,
+        "num": 608587,
+        "word": "永夜星河 她拍的",
+        "onboard_time": 1730709919,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650763,
+        "num": 571293,
+        "word": "物业称男孩捂嘴抱走女孩又被警方带走",
+        "onboard_time": 1730710161,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435685,
+        "num": 435685,
+        "word": "王楚钦户上隼辅交手战绩",
+        "onboard_time": 1730711779,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420487,
+        "num": 420487,
+        "word": "厨房爆炸丈夫烧伤92%仍起身救妻",
+        "onboard_time": 1730706439,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386155,
+        "num": 386155,
+        "word": "永夜星河",
+        "onboard_time": 1730715199,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323819,
+        "num": 323819,
+        "word": "广州往返中山仅需15分钟",
+        "onboard_time": 1730710701,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1397717,
+        "num": 323427,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978785,
+        "num": 321885,
+        "word": "虞书欣大格局",
+        "onboard_time": 1730710638,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236326,
+        "num": 319369,
+        "word": "救妻丈夫去世妻子目前不知情",
+        "onboard_time": 1730715319,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70974,
+        "num": 318459,
+        "word": "律师称捂嘴男孩监护人需承担民责",
+        "onboard_time": 1730714238,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39193,
+        "num": 315464,
+        "word": "大学生为什么偏爱夜晚旅游",
+        "onboard_time": 1730714960,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523150,
+        "num": 314538,
+        "word": "景甜做完手术正在康复训练",
+        "onboard_time": 1730695641,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589929,
+        "num": 313302,
+        "word": "檀健次帮虞书欣宣传新剧",
+        "onboard_time": 1730714420,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312096,
+        "num": 312096,
+        "word": "6岁女孩被警车撞飞家长质疑超速",
+        "onboard_time": 1730707218,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41884,
+        "num": 300233,
+        "word": "赵叔回应大米被副局长带火",
+        "onboard_time": 1730714719,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292124,
+        "num": 292124,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1730714659,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264254,
+        "num": 264254,
+        "word": "今年美国大选将成史上最贵一次",
+        "onboard_time": 1730700920,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 257817,
+        "num": 257817,
+        "word": "权志凤",
+        "onboard_time": 1730699180,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239269,
+        "num": 239269,
+        "word": "瑞士卷怎么分席卷全网老公",
+        "onboard_time": 1730687837,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234084,
+        "num": 234084,
+        "word": "孙颖莎生日",
+        "onboard_time": 1730693182,
+        "rank": 23,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 233057,
+        "num": 233057,
+        "word": "乔任梁母亲回应手臂伤口",
+        "onboard_time": 1730690178,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221218,
+        "num": 221218,
+        "word": "猎罪图鉴官微打假",
+        "onboard_time": 1730713519,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215980,
+        "num": 215980,
+        "word": "电梯被捂嘴女孩母亲要求追究对方刑责",
+        "onboard_time": 1730714541,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166266,
+        "num": 207067,
+        "word": "苏57抵达珠海",
+        "onboard_time": 1730712679,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200497,
+        "num": 200497,
+        "word": "赵露思说韩安冉很鼓励她",
+        "onboard_time": 1730703919,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172431,
+        "num": 172431,
+        "word": "赵丽颖蛐蛐小猫",
+        "onboard_time": 1730715019,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363089,
+        "num": 172023,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311814,
+        "num": 171238,
+        "word": "曾打假东北雨姐网红再曝良品铺子",
+        "onboard_time": 1730708778,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284676,
+        "num": 170741,
+        "word": "良品铺子被曝酸辣粉里没有粉",
+        "onboard_time": 1730705540,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212710,
+        "num": 170093,
+        "word": "陈立农 我没有失约",
+        "onboard_time": 1730714839,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175047,
+        "num": 169014,
+        "word": "对乔任梁之死纠缠不放是热血还是凉薄",
+        "onboard_time": 1730712799,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187289,
+        "num": 168573,
+        "word": "清华大学连续8年举办粉笔板书比赛",
+        "onboard_time": 1730714119,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168139,
+        "num": 168139,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165369,
+        "num": 165369,
+        "word": "张峻豪束腰裤装造型",
+        "onboard_time": 1730715499,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158879,
+        "num": 158879,
+        "word": "第一次吃柿子的大熊猫满脸陶醉",
+        "onboard_time": 1730711419,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153254,
+        "num": 153254,
+        "word": "永夜星河原著  慕声强制爱",
+        "onboard_time": 1730715620,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 151335,
+        "word": "3个字赔了2000元",
+        "onboard_time": 1730697321,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145584,
+        "num": 145584,
+        "word": "小巷人家 在上学和上进中选择了上香",
+        "onboard_time": 1730715440,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145029,
+        "num": 145029,
+        "word": "良品铺子称产品有多重检测把控",
+        "onboard_time": 1730709680,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141707,
+        "num": 141707,
+        "word": "丁禹兮 指甲建构",
+        "onboard_time": 1730693182,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135817,
+        "num": 135817,
+        "word": "马斯克每天抽1名选民送100万美元",
+        "onboard_time": 1730693061,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135470,
+        "num": 135470,
+        "word": "烧伤妈妈怕孩子不爱她了",
+        "onboard_time": 1730711540,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128066,
+        "num": 128066,
+        "word": "费加罗红毯",
+        "onboard_time": 1730706259,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 121604,
+        "num": 121604,
+        "word": "鞠婧祎超模气场",
+        "onboard_time": 1730710819,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121514,
+        "num": 121514,
+        "word": "宁艺卓范思哲大片",
+        "onboard_time": 1730712381,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118065,
+        "num": 118065,
+        "word": "良品铺子发布声明",
+        "onboard_time": 1730714357,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追求幸福生活是各国人民共同愿望#"
+    }
+  }
+}
