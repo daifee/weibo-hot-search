@@ -1,0 +1,410 @@
+{
+  "runTime": 1730716969990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989959,
+        "num": 1989959,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217542,
+        "num": 1217542,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15924,
+        "num": 890687,
+        "word": "2024年进博会亮点抢先看",
+        "onboard_time": 1730706500,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802983,
+        "num": 802983,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571151,
+        "num": 571151,
+        "word": "永夜星河 她拍的",
+        "onboard_time": 1730709919,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370235,
+        "num": 370235,
+        "word": "救妻丈夫去世妻子目前不知情",
+        "onboard_time": 1730715319,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399684,
+        "num": 368020,
+        "word": "永夜星河",
+        "onboard_time": 1730715199,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376298,
+        "num": 366650,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1730714659,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362462,
+        "num": 362462,
+        "word": "厨房爆炸丈夫烧伤92%仍起身救妻",
+        "onboard_time": 1730706439,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336992,
+        "num": 336992,
+        "word": "6岁女孩被警车撞飞家长质疑超速",
+        "onboard_time": 1730707218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2026574,
+        "num": 335993,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839420,
+        "num": 333724,
+        "word": "虞书欣大格局",
+        "onboard_time": 1730710638,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443100,
+        "num": 329444,
+        "word": "景甜做完手术正在康复训练",
+        "onboard_time": 1730695641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17357,
+        "num": 328126,
+        "word": "良品铺子回应配料表造假传闻",
+        "onboard_time": 1730716700,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326899,
+        "num": 326899,
+        "word": "王楚钦户上隼辅交手战绩",
+        "onboard_time": 1730711779,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285024,
+        "num": 285024,
+        "word": "孙颖莎生日",
+        "onboard_time": 1730693182,
+        "rank": 15,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 515089,
+        "num": 284279,
+        "word": "檀健次帮虞书欣宣传新剧",
+        "onboard_time": 1730714420,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282970,
+        "num": 282970,
+        "word": "对乔任梁之死纠缠不放是热血还是凉薄",
+        "onboard_time": 1730712799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238915,
+        "num": 238915,
+        "word": "今年美国大选将成史上最贵一次",
+        "onboard_time": 1730700920,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11072,
+        "num": 213681,
+        "word": "珠帘玉幕主创谈女主独特特质",
+        "onboard_time": 1730716280,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213078,
+        "num": 213078,
+        "word": "清华大学连续8年举办粉笔板书比赛",
+        "onboard_time": 1730714119,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205528,
+        "num": 205528,
+        "word": "陈立农 我没有失约",
+        "onboard_time": 1730714839,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205291,
+        "num": 205291,
+        "word": "瑞士卷怎么分席卷全网老公",
+        "onboard_time": 1730687837,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200553,
+        "num": 200553,
+        "word": "乔任梁母亲回应手臂伤口",
+        "onboard_time": 1730690178,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193761,
+        "num": 193761,
+        "word": "赵丽颖蛐蛐小猫",
+        "onboard_time": 1730715019,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174152,
+        "num": 174152,
+        "word": "良品铺子称产品有多重检测把控",
+        "onboard_time": 1730709680,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171373,
+        "num": 171373,
+        "word": "猎罪图鉴官微打假",
+        "onboard_time": 1730713519,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169663,
+        "num": 169663,
+        "word": "权志凤",
+        "onboard_time": 1730699180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167731,
+        "num": 167731,
+        "word": "小巷人家 在上学和上进中选择了上香",
+        "onboard_time": 1730715440,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93098,
+        "num": 167710,
+        "word": "相约进博",
+        "onboard_time": 1730716941,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823620,
+        "num": 167427,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288151,
+        "num": 167275,
+        "word": "曾打假东北雨姐网红再曝良品铺子",
+        "onboard_time": 1730708778,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251942,
+        "num": 167069,
+        "word": "良品铺子被曝酸辣粉里没有粉",
+        "onboard_time": 1730705540,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167032,
+        "num": 167032,
+        "word": "赵露思说韩安冉很鼓励她",
+        "onboard_time": 1730703919,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80014,
+        "num": 161979,
+        "word": "大学生为什么偏爱夜晚旅游",
+        "onboard_time": 1730714960,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118908,
+        "num": 161338,
+        "word": "烧伤妈妈怕孩子不爱她了",
+        "onboard_time": 1730711540,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161011,
+        "num": 161011,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159512,
+        "num": 159512,
+        "word": "永夜星河原著  慕声强制爱",
+        "onboard_time": 1730715620,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153606,
+        "num": 153606,
+        "word": "广州往返中山仅需15分钟",
+        "onboard_time": 1730710701,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150715,
+        "num": 150715,
+        "word": "马斯克每天抽1名选民送100万美元",
+        "onboard_time": 1730693061,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140682,
+        "num": 140682,
+        "word": "张峻豪束腰裤装造型",
+        "onboard_time": 1730715499,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138919,
+        "num": 138919,
+        "word": "苏57抵达珠海",
+        "onboard_time": 1730712679,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133774,
+        "num": 133774,
+        "word": "费加罗红毯",
+        "onboard_time": 1730706259,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 130026,
+        "num": 130026,
+        "word": "kpop年末狂欢解冻计划",
+        "onboard_time": 1730715800,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128760,
+        "num": 128760,
+        "word": "良品铺子发布声明",
+        "onboard_time": 1730714357,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126853,
+        "num": 126853,
+        "word": "第一次吃柿子的大熊猫满脸陶醉",
+        "onboard_time": 1730711419,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121259,
+        "num": 121259,
+        "word": "教育局回应学生玩死亡游戏晕倒",
+        "onboard_time": 1730716100,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 106853,
+        "num": 106853,
+        "word": "周雨彤 我没有那么糟糕",
+        "onboard_time": 1730691681,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105405,
+        "num": 105405,
+        "word": "宁艺卓范思哲大片",
+        "onboard_time": 1730712381,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100093,
+        "num": 100093,
+        "word": "刘宇宁 救场",
+        "onboard_time": 1730697979,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给老杨树宣讲汇全体同志回信#"
+    }
+  }
+}
