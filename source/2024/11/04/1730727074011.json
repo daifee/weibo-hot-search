@@ -1,0 +1,410 @@
+{
+  "runTime": 1730727074011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178959,
+        "num": 1188633,
+        "word": "范丞丞 出戏",
+        "onboard_time": 1730725461,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1018410,
+        "num": 1018410,
+        "word": "孙颖莎24岁生日发文",
+        "onboard_time": 1730724619,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32683,
+        "num": 974928,
+        "word": "一片回顾神十八返回全过程",
+        "onboard_time": 1730723360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960782,
+        "num": 960782,
+        "word": "人民币火速大涨",
+        "onboard_time": 1730723420,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 942701,
+        "num": 942701,
+        "word": "良品铺子被立案调查",
+        "onboard_time": 1730717779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891748,
+        "num": 891748,
+        "word": "珠帘玉幕全员恭喜端午升职",
+        "onboard_time": 1730722940,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497092,
+        "num": 497092,
+        "word": "救妻丈夫去世妻子目前不知情",
+        "onboard_time": 1730715319,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486482,
+        "num": 486482,
+        "word": "虞书欣身后是109个婧妹",
+        "onboard_time": 1730720781,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425968,
+        "num": 485966,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1730726362,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453169,
+        "num": 485393,
+        "word": "永夜星河",
+        "onboard_time": 1730715199,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2607959,
+        "num": 484767,
+        "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+        "onboard_time": 1730719339,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88482,
+        "num": 484040,
+        "word": "厨房爆炸丈夫折返救妻离世",
+        "onboard_time": 1730722280,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106166,
+        "num": 483458,
+        "word": "缅甸小姐未夺冠当场翻脸",
+        "onboard_time": 1730709919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30652,
+        "num": 482218,
+        "word": "刘德华高唱中国人绿营凭啥破防",
+        "onboard_time": 1730726842,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172498,
+        "num": 481511,
+        "word": "公积金利率高过商贷后还要存在吗",
+        "onboard_time": 1730723780,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630717,
+        "num": 480750,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569334,
+        "num": 480594,
+        "word": "张继科开业球馆不对外营业",
+        "onboard_time": 1730713760,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521801,
+        "num": 479723,
+        "word": "王耀庆补上了四万五的花洒",
+        "onboard_time": 1730718619,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47277,
+        "num": 478993,
+        "word": "张泽禹进入速冻模式",
+        "onboard_time": 1730726242,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28019,
+        "num": 478258,
+        "word": "女子涉嫌伙同他人伪造虚假材料骗贷13亿",
+        "onboard_time": 1730725940,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494702,
+        "num": 477155,
+        "word": "对乔任梁之死纠缠不放是热血还是凉薄",
+        "onboard_time": 1730712799,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477025,
+        "num": 477025,
+        "word": "英国男子捡到人头以为是恶作剧",
+        "onboard_time": 1730718439,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471242,
+        "num": 471242,
+        "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
+        "onboard_time": 1730713939,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427968,
+        "num": 427968,
+        "word": "永夜星河 删吻戏",
+        "onboard_time": 1730726720,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401162,
+        "num": 401162,
+        "word": "孙颖莎回复孙铭阳",
+        "onboard_time": 1730723420,
+        "rank": 24,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 335896,
+        "num": 390593,
+        "word": "对虞书欣感情很复杂 想生她",
+        "onboard_time": 1730725702,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316459,
+        "num": 383390,
+        "word": "刘德华一首中国人把台独唱破防了",
+        "onboard_time": 1730718800,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17081,
+        "num": 369101,
+        "word": "看看你城市里的明星动物",
+        "onboard_time": 1730723840,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130209,
+        "num": 360602,
+        "word": "美国大选5任总统大乱斗",
+        "onboard_time": 1730726481,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264698,
+        "num": 346961,
+        "word": "永夜星河 她拍的",
+        "onboard_time": 1730709919,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342426,
+        "num": 342426,
+        "word": "厨房爆炸丈夫为救妻子去世",
+        "onboard_time": 1730722820,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280899,
+        "num": 280899,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1730722280,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225677,
+        "num": 225677,
+        "word": "涵艺说Elk和On薪资很低",
+        "onboard_time": 1730726001,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208916,
+        "num": 208916,
+        "word": "哈马斯领导人辛瓦尔尸检结果公布",
+        "onboard_time": 1730721920,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197990,
+        "num": 197990,
+        "word": "一诺 清兵",
+        "onboard_time": 1730725279,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194097,
+        "num": 194097,
+        "word": "良品铺子已下架多款被打假产品",
+        "onboard_time": 1730710701,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193725,
+        "num": 193725,
+        "word": "孙颖莎今天还在练球",
+        "onboard_time": 1730725940,
+        "rank": 36,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 192888,
+        "num": 192888,
+        "word": "迪丽热巴的保暖look",
+        "onboard_time": 1730726120,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192433,
+        "num": 192433,
+        "word": "陈哲远夏之光张峻豪生图",
+        "onboard_time": 1730725940,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1625906,
+        "num": 189904,
+        "word": "8个瑞士卷宝妈吃几个不自私",
+        "onboard_time": 1730721620,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181245,
+        "num": 181245,
+        "word": "宋亚轩将缺席现在就出发2后续录制",
+        "onboard_time": 1730718259,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179500,
+        "num": 179500,
+        "word": "周洁琼小巷人家戏内外反差",
+        "onboard_time": 1730725640,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172661,
+        "num": 172661,
+        "word": "孟子义黑红渐变长裙",
+        "onboard_time": 1730724858,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169614,
+        "num": 169614,
+        "word": "高雅cp",
+        "onboard_time": 1730724680,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169010,
+        "num": 169010,
+        "word": "假如宋莹有八个瑞士卷",
+        "onboard_time": 1730726900,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162082,
+        "num": 162082,
+        "word": "邪恶菠萝蜜和邪恶栀子花合体了",
+        "onboard_time": 1730726001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156094,
+        "num": 156094,
+        "word": "孙颖莎希望继续增加冠军数字",
+        "onboard_time": 1730725581,
+        "rank": 46,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 156048,
+        "num": 156048,
+        "word": "孙颖莎回应祝福与支持",
+        "onboard_time": 1730725640,
+        "rank": 47,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 46685,
+        "num": 155587,
+        "word": "美多州在计票中心屋顶安排狙击手",
+        "onboard_time": 1730725039,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155468,
+        "num": 155468,
+        "word": "孙颖莎说愿我们都能成为更好的自己",
+        "onboard_time": 1730726602,
+        "rank": 49,
+        "category": "体育,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个不会变展示中国开放决心#"
+    }
+  }
+}
