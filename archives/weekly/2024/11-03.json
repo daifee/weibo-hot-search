@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730733917064,
+  "endTime": 1730734780700,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -268,10 +268,18 @@
     },
     {
       "raw_hot": 1643130,
-      "num": 551310,
+      "num": 621285,
       "word": "河南信阳突发一起刑案",
       "onboard_time": 1730731222,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1640161,
+      "num": 1640161,
+      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
+      "onboard_time": 1730728281,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -329,14 +337,6 @@
       "onboard_time": 1730593217,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1470618,
-      "num": 1470618,
-      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
-      "onboard_time": 1730728281,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1469766,
@@ -555,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1033084,
+      "num": 1033084,
+      "word": "郑钦文战胜莱巴金娜",
+      "onboard_time": 1730733261,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1026874,
       "num": 1026874,
       "word": "管泽元 求闭嘴",
@@ -659,6 +667,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 896262,
+      "num": 896262,
+      "word": "郑钦文 别喊了",
+      "onboard_time": 1730733561,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 891748,
       "num": 891748,
       "word": "珠帘玉幕全员恭喜端午升职",
@@ -705,14 +721,6 @@
       "onboard_time": 1730642179,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 841938,
-      "num": 841938,
-      "word": "郑钦文战胜莱巴金娜",
-      "onboard_time": 1730733261,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 830683,
@@ -1059,6 +1067,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 644714,
+      "num": 644714,
+      "word": "还我庄图南",
+      "onboard_time": 1730731282,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644002,
       "num": 636151,
       "word": "王心凌方称已按要求唱满四首歌",
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582434,
+      "num": 582434,
+      "word": "肖战旅游路透",
+      "onboard_time": 1730733201,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
@@ -1280,14 +1304,6 @@
       "word": "永夜星河发布会",
       "onboard_time": 1730626878,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 566309,
-      "num": 566309,
-      "word": "还我庄图南",
-      "onboard_time": 1730731282,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -1491,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479295,
+      "num": 501121,
+      "word": "慕声 谁让你碰她的",
+      "onboard_time": 1730731582,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477614,
       "num": 477614,
       "word": "狼队对战AG",
@@ -1595,6 +1619,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 448352,
+      "num": 635972,
+      "word": "特朗普不满遭奥巴马妻子攻击",
+      "onboard_time": 1730732720,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 446144,
       "num": 405464,
       "word": "刘梓晨安利赵露思新剧",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1730649739,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 440881,
-      "num": 501121,
-      "word": "慕声 谁让你碰她的",
-      "onboard_time": 1730731582,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 440525,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1730574376,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 429676,
+      "num": 429676,
+      "word": "黄明昊 凌妙妙加油鸭",
+      "onboard_time": 1730733381,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 429650,
@@ -1963,14 +1995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351247,
-      "num": 351247,
-      "word": "特朗普不满遭奥巴马妻子攻击",
-      "onboard_time": 1730732720,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 350351,
       "num": 350351,
       "word": "姜某初赛成绩违反规则",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1730695763,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309614,
+      "num": 309614,
+      "word": "王楚钦这颗球值得收藏",
+      "onboard_time": 1730733322,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 308953,
@@ -2515,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246703,
-      "num": 246703,
-      "word": "王楚钦这颗球值得收藏",
-      "onboard_time": 1730733322,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244863,
       "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1730592018,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 244098,
-      "num": 244098,
-      "word": "郑钦文 别喊了",
-      "onboard_time": 1730733561,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 243296,
@@ -3115,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204323,
+      "num": 204323,
+      "word": "孙颖莎再提最爱的小白球",
+      "onboard_time": 1730734101,
+      "rank": 40,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 204258,
       "num": 189488,
       "word": "阿里巴巴就姜萍事件道歉",
@@ -3227,14 +3251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199316,
-      "num": 199316,
-      "word": "黄明昊 凌妙妙加油鸭",
-      "onboard_time": 1730733381,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199078,
       "num": 199078,
       "word": "100克瑞士卷等于3碗米饭不建议多吃",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1730728943,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198481,
-      "num": 485897,
-      "word": "肖战旅游路透",
-      "onboard_time": 1730733201,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 198344,
@@ -3385,6 +3393,14 @@
       "onboard_time": 1730712019,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194680,
+      "num": 414620,
+      "word": "杨子的财产黄圣依能分多少",
+      "onboard_time": 1730730920,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194563,
@@ -3835,12 +3851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171225,
+      "num": 557387,
+      "word": "特朗普后悔离开白宫",
+      "onboard_time": 1730732061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170999,
       "num": 170999,
       "word": "网红曝良品铺子藕粉掺木薯粉",
       "onboard_time": 1730706080,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170591,
+      "num": 170591,
+      "word": "郑钦文WTA年终总决赛首胜",
+      "onboard_time": 1730734519,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 170209,
@@ -4539,14 +4571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144350,
-      "num": 414620,
-      "word": "杨子的财产黄圣依能分多少",
-      "onboard_time": 1730730920,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143612,
       "num": 116512,
       "word": "永夜星河直播",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1730719640,
       "rank": 36,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 136430,
+      "num": 136430,
+      "word": "长生王昭君救世主",
+      "onboard_time": 1730731401,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 136036,
@@ -5451,12 +5483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88707,
+      "num": 483108,
+      "word": "年轻人开始整顿天价婚礼",
+      "onboard_time": 1730732960,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87567,
       "num": 87567,
       "word": "小巷人家",
       "onboard_time": 1730548459,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87218,
+      "num": 420142,
+      "word": "班主任被指在家长群强推医保",
+      "onboard_time": 1730734101,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86701,
@@ -5489,14 +5537,6 @@
       "onboard_time": 1730676676,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83847,
-      "num": 557387,
-      "word": "特朗普后悔离开白宫",
-      "onboard_time": 1730732061,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83599,
@@ -5536,14 +5576,6 @@
       "word": "到亲戚家做客被狗咬伤获赔40余万",
       "onboard_time": 1730617878,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75620,
-      "num": 483108,
-      "word": "年轻人开始整顿天价婚礼",
-      "onboard_time": 1730732960,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5953,6 +5985,14 @@
       "onboard_time": 1730621720,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40376,
+      "num": 300063,
+      "word": "Faker 第五冠献给粉丝",
+      "onboard_time": 1730734459,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 39300,

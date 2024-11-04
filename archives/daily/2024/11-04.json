@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730733917064,
+  "endTime": 1730734780700,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -108,10 +108,18 @@
     },
     {
       "raw_hot": 1643130,
-      "num": 551310,
+      "num": 621285,
       "word": "河南信阳突发一起刑案",
       "onboard_time": 1730731222,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1640161,
+      "num": 1640161,
+      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
+      "onboard_time": 1730728281,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -144,14 +152,6 @@
       "word": "女生考公失败三年剃光头重新开始",
       "onboard_time": 1730727982,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1470618,
-      "num": 1470618,
-      "word": "别掉进8个瑞士卷怎么分的话题陷阱",
-      "onboard_time": 1730728281,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 1033084,
+      "num": 1033084,
+      "word": "郑钦文战胜莱巴金娜",
+      "onboard_time": 1730733261,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1018410,
       "num": 1018410,
       "word": "孙颖莎24岁生日发文",
@@ -307,6 +315,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 896262,
+      "num": 896262,
+      "word": "郑钦文 别喊了",
+      "onboard_time": 1730733561,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 891748,
       "num": 891748,
       "word": "珠帘玉幕全员恭喜端午升职",
@@ -345,14 +361,6 @@
       "onboard_time": 1730709919,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 841938,
-      "num": 841938,
-      "word": "郑钦文战胜莱巴金娜",
-      "onboard_time": 1730733261,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 830683,
@@ -579,6 +587,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 644714,
+      "num": 644714,
+      "word": "还我庄图南",
+      "onboard_time": 1730731282,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637649,
       "num": 362947,
       "word": "特朗普哈里斯展开总统竞选最后一搏",
@@ -619,6 +635,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 582434,
+      "num": 582434,
+      "word": "肖战旅游路透",
+      "onboard_time": 1730733201,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575030,
       "num": 575030,
       "word": "曾黎好薄的背",
@@ -633,14 +657,6 @@
       "onboard_time": 1730694862,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566309,
-      "num": 566309,
-      "word": "还我庄图南",
-      "onboard_time": 1730731282,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 564141,
@@ -779,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 479295,
+      "num": 501121,
+      "word": "慕声 谁让你碰她的",
+      "onboard_time": 1730731582,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477614,
       "num": 477614,
       "word": "狼队对战AG",
@@ -835,6 +859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 448352,
+      "num": 635972,
+      "word": "特朗普不满遭奥巴马妻子攻击",
+      "onboard_time": 1730732720,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 445817,
       "num": 445817,
       "word": "于正回应永夜星河爆款剧趋势",
@@ -849,14 +881,6 @@
       "onboard_time": 1730649739,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 440881,
-      "num": 501121,
-      "word": "慕声 谁让你碰她的",
-      "onboard_time": 1730731582,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 440525,
@@ -888,6 +912,14 @@
       "word": "猎罪图鉴2",
       "onboard_time": 1730714659,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 429676,
+      "num": 429676,
+      "word": "黄明昊 凌妙妙加油鸭",
+      "onboard_time": 1730733381,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1011,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351247,
-      "num": 351247,
-      "word": "特朗普不满遭奥巴马妻子攻击",
-      "onboard_time": 1730732720,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 348228,
       "num": 348228,
       "word": "一诺黄牌",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1730695763,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309614,
+      "num": 309614,
+      "word": "王楚钦这颗球值得收藏",
+      "onboard_time": 1730733322,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 297245,
@@ -1321,22 +1353,6 @@
       "onboard_time": 1730723780,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246703,
-      "num": 246703,
-      "word": "王楚钦这颗球值得收藏",
-      "onboard_time": 1730733322,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 244098,
-      "num": 244098,
-      "word": "郑钦文 别喊了",
-      "onboard_time": 1730733561,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 240043,
@@ -1611,6 +1627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204323,
+      "num": 204323,
+      "word": "孙颖莎再提最爱的小白球",
+      "onboard_time": 1730734101,
+      "rank": 40,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 202938,
       "num": 233686,
       "word": "猎罪图鉴2暂定11月底播出",
@@ -1651,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199316,
-      "num": 199316,
-      "word": "黄明昊 凌妙妙加油鸭",
-      "onboard_time": 1730733381,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199078,
       "num": 199078,
       "word": "100克瑞士卷等于3碗米饭不建议多吃",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1730728943,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198481,
-      "num": 485897,
-      "word": "肖战旅游路透",
-      "onboard_time": 1730733201,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 197990,
@@ -1737,6 +1745,14 @@
       "onboard_time": 1730712019,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194680,
+      "num": 414620,
+      "word": "杨子的财产黄圣依能分多少",
+      "onboard_time": 1730730920,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194393,
@@ -2003,12 +2019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171225,
+      "num": 557387,
+      "word": "特朗普后悔离开白宫",
+      "onboard_time": 1730732061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170999,
       "num": 170999,
       "word": "网红曝良品铺子藕粉掺木薯粉",
       "onboard_time": 1730706080,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170591,
+      "num": 170591,
+      "word": "郑钦文WTA年终总决赛首胜",
+      "onboard_time": 1730734519,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 170209,
@@ -2347,14 +2379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144350,
-      "num": 414620,
-      "word": "杨子的财产黄圣依能分多少",
-      "onboard_time": 1730730920,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143005,
       "num": 143005,
       "word": "妙妙知道慕声要强 妙妙也曾满身血印",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1730719640,
       "rank": 36,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 136430,
+      "num": 136430,
+      "word": "长生王昭君救世主",
+      "onboard_time": 1730731401,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 134540,
@@ -2795,6 +2827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88707,
+      "num": 483108,
+      "word": "年轻人开始整顿天价婚礼",
+      "onboard_time": 1730732960,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87218,
+      "num": 420142,
+      "word": "班主任被指在家长群强推医保",
+      "onboard_time": 1730734101,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87006,
       "num": 87006,
       "word": "丁禹兮 毛毛姐",
@@ -2827,27 +2875,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83847,
-      "num": 557387,
-      "word": "特朗普后悔离开白宫",
-      "onboard_time": 1730732061,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80014,
       "num": 315464,
       "word": "大学生为什么偏爱夜晚旅游",
       "onboard_time": 1730714960,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75620,
-      "num": 483108,
-      "word": "年轻人开始整顿天价婚礼",
-      "onboard_time": 1730732960,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3112,6 +3144,14 @@
       "word": "赛后休息室BLG全员神情落寞",
       "onboard_time": 1730646320,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 40376,
+      "num": 300063,
+      "word": "Faker 第五冠献给粉丝",
+      "onboard_time": 1730734459,
+      "rank": 29,
       "category": "电竞"
     },
     {
