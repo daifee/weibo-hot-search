@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730689106608,
+  "endTime": 1730689662198,
   "band_list": [
     {
       "raw_hot": 3184896,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1971047,
-      "num": 356586,
+      "num": 360353,
       "word": "男孩电梯内将小女孩捂嘴控制抱走",
       "onboard_time": 1730685018,
       "rank": 31,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1769284,
-      "num": 353124,
+      "num": 359623,
       "word": "瑞士卷怎么分",
       "onboard_time": 1730684598,
       "rank": 44,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1108345,
-      "num": 351635,
+      "num": 358785,
       "word": "引导失误致冠军变亚军痛失21万奖金",
       "onboard_time": 1730685078,
       "rank": 30,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 830683,
-      "num": 338875,
+      "num": 357635,
       "word": "特朗普承认有败选可能",
       "onboard_time": 1730683699,
       "rank": 18,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 819594,
-      "num": 345653,
+      "num": 358046,
       "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
       "onboard_time": 1730684838,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798154,
+      "num": 578512,
+      "word": "赵露思说汪苏泷唱不得超好听",
+      "onboard_time": 1730688019,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 760222,
@@ -123,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 652942,
+      "num": 652942,
+      "word": "航天员回地球前先点好了餐",
+      "onboard_time": 1730684417,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 648125,
       "num": 904720,
       "word": "神舟十八号返回舱成功着陆",
@@ -137,22 +153,6 @@
       "onboard_time": 1730679379,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 623524,
-      "num": 623524,
-      "word": "航天员回地球前先点好了餐",
-      "onboard_time": 1730684417,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 578512,
-      "num": 578512,
-      "word": "赵露思说汪苏泷唱不得超好听",
-      "onboard_time": 1730688019,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 558580,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 392786,
-      "num": 304614,
+      "num": 326656,
       "word": "缺乏性教育的孩子会吃哪些苦",
       "onboard_time": 1730686878,
       "rank": 22,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 353318,
-      "num": 301396,
+      "num": 311307,
       "word": "Uzi谈不复出原因",
       "onboard_time": 1730685798,
       "rank": 48,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328188,
+      "num": 340957,
+      "word": "神舟十八号航天员平安抵京",
+      "onboard_time": 1730684719,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 321495,
       "num": 274798,
       "word": "黄圣依入学中欧国际商学院EMBA",
@@ -339,19 +347,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312797,
-      "num": 312797,
+      "raw_hot": 313305,
+      "num": 313305,
       "word": "神十八返回舱划过夜空好震撼",
       "onboard_time": 1730687358,
       "rank": 20,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 304686,
-      "num": 340957,
-      "word": "神舟十八号航天员平安抵京",
-      "onboard_time": 1730684719,
-      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -403,12 +403,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260499,
+      "num": 260499,
+      "word": "为什么数学水平最难造假",
+      "onboard_time": 1730687239,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255176,
       "num": 255176,
       "word": "黑莲花攻略手册",
       "onboard_time": 1730677218,
       "rank": 23,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 254081,
+      "num": 254081,
+      "word": "瘦肚子最快的运动其实是跳跃",
+      "onboard_time": 1730686579,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 240043,
@@ -443,20 +459,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228520,
-      "num": 228520,
-      "word": "为什么数学水平最难造假",
-      "onboard_time": 1730687239,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227640,
       "num": 227640,
       "word": "花少4个人吃9人餐事情始末",
       "onboard_time": 1730625079,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224085,
+      "num": 224085,
+      "word": "永夜星河求加更",
+      "onboard_time": 1730689038,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 218756,
@@ -491,20 +507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209713,
+      "num": 209713,
+      "word": "瑞士卷怎么分席卷全网老公",
+      "onboard_time": 1730687837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205723,
       "num": 205723,
       "word": "外籍男子在香港持刀抢劫警长被捅5刀",
       "onboard_time": 1730637438,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201111,
-      "num": 201111,
-      "word": "瘦肚子最快的运动其实是跳跃",
-      "onboard_time": 1730686579,
-      "rank": 33,
-      "category": "运动健身"
     },
     {
       "raw_hot": 197974,
@@ -531,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185969,
-      "num": 185969,
-      "word": "瑞士卷怎么分席卷全网老公",
-      "onboard_time": 1730687837,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 188446,
+      "num": 188446,
+      "word": "永夜星河",
+      "onboard_time": 1730655553,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 180653,
@@ -563,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173975,
-      "num": 173975,
-      "word": "永夜星河求加更",
-      "onboard_time": 1730689038,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173310,
       "num": 173310,
       "word": "华为Mate70定档11月",
@@ -585,14 +593,6 @@
       "onboard_time": 1730639000,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168195,
-      "num": 168195,
-      "word": "永夜星河",
-      "onboard_time": 1730655553,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 167588,
@@ -667,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147529,
+      "num": 147529,
+      "word": "王楚钦法兰克福首秀",
+      "onboard_time": 1730689399,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141969,
       "num": 141969,
       "word": "很多人的臀肌其实已经失忆",
@@ -683,20 +691,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 138300,
+      "num": 138300,
+      "word": "中国首位累计飞行超1年的航天员",
+      "onboard_time": 1730660292,
+      "rank": 23,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 136746,
       "num": 136746,
       "word": "95四小花",
       "onboard_time": 1730633179,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136051,
-      "num": 136051,
-      "word": "中国首位累计飞行超1年的航天员",
-      "onboard_time": 1730660292,
-      "rank": 23,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 134540,
@@ -732,11 +740,19 @@
     },
     {
       "raw_hot": 127728,
-      "num": 127728,
+      "num": 331942,
       "word": "周柯宇直播",
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127393,
+      "num": 127393,
+      "word": "摇人",
+      "onboard_time": 1730689277,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 125565,
@@ -785,6 +801,14 @@
       "onboard_time": 1730684719,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 117090,
+      "num": 117090,
+      "word": "永夜星河这和求婚有什么区别",
+      "onboard_time": 1730687417,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 116582,
@@ -1035,6 +1059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 45774,
+      "num": 361041,
+      "word": "央视起底不防毒的防毒面具",
+      "onboard_time": 1730688379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42776,
       "num": 50651,
       "word": "大梦归离",
@@ -1091,20 +1123,20 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 29486,
-      "num": 358094,
-      "word": "央视起底不防毒的防毒面具",
-      "onboard_time": 1730688379,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28684,
       "num": 60471,
       "word": "鞋店索要顾客试鞋费有违经营之道",
       "onboard_time": 1730669772,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26707,
+      "num": 163676,
+      "word": "何小鹏周鸿祎智驾征服北京最堵路口",
+      "onboard_time": 1730689339,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 26456,
