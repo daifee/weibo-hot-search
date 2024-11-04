@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730748925935,
+  "endTime": 1730751796196,
   "band_list": [
     {
       "raw_hot": 1209270,
@@ -475,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38705,
+      "num": 38705,
+      "word": "孟子义短发红毯",
+      "onboard_time": 1730748970,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 37754,
       "num": 120997,
       "word": "广东11月将有4次冷空气",
@@ -483,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33286,
+      "raw_hot": 35664,
       "num": 46936,
       "word": "特朗普与哈里斯继续决战摇摆州",
       "onboard_time": 1730746572,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23278,
+      "num": 23278,
+      "word": "广西大学回应副院长被指强奸女学生",
+      "onboard_time": 1730749991,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21998,
@@ -507,11 +523,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 18299,
+      "num": 35602,
+      "word": "神十八航天员回家第一餐都点了鸡蛋羹",
+      "onboard_time": 1730749152,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14713,
       "num": 33663,
       "word": "追求幸福生活是各国人民共同愿望",
       "onboard_time": 1730748731,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14293,
+      "num": 18985,
+      "word": "神十八返回舱如流星般划过天际",
+      "onboard_time": 1730749632,
+      "rank": 48,
       "category": "国内时政"
     },
     {
