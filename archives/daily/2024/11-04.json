@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730727074011,
+  "endTime": 1730727761193,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1571420,
+      "num": 1571420,
+      "word": "范丞丞 出戏",
+      "onboard_time": 1730725461,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1564758,
       "num": 443021,
       "word": "电梯被捂嘴女孩事后大哭做噩梦",
@@ -147,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1178959,
-      "num": 1188633,
-      "word": "范丞丞 出戏",
-      "onboard_time": 1730725461,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1174772,
       "num": 946191,
       "word": "良品铺子被曝酸辣粉里没有粉",
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1103833,
+      "num": 1103833,
+      "word": "人民币火速大涨",
+      "onboard_time": 1730723420,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1099881,
       "num": 853857,
       "word": "孙颖莎 SuperSha蛋糕",
@@ -185,6 +193,14 @@
       "onboard_time": 1730724619,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1008177,
+      "num": 1008177,
+      "word": "永夜星河 删吻戏",
+      "onboard_time": 1730726720,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1003762,
@@ -209,14 +225,6 @@
       "onboard_time": 1730693182,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 960782,
-      "num": 960782,
-      "word": "人民币火速大涨",
-      "onboard_time": 1730723420,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 959672,
@@ -249,6 +257,14 @@
       "onboard_time": 1730645479,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 927008,
+      "num": 927008,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1730726362,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 911889,
@@ -691,7 +707,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 453169,
+      "raw_hot": 454670,
       "num": 485393,
       "word": "永夜星河",
       "onboard_time": 1730655553,
@@ -761,22 +777,6 @@
       "onboard_time": 1730718800,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 427968,
-      "num": 427968,
-      "word": "永夜星河 删吻戏",
-      "onboard_time": 1730726720,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 425968,
-      "num": 485966,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1730726362,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 425310,
@@ -867,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348757,
+      "num": 348757,
+      "word": "郑钦文vs莱巴金娜",
+      "onboard_time": 1730722280,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344462,
       "num": 344462,
       "word": "如何看待赵露思虞书欣摇人",
@@ -921,6 +929,14 @@
       "onboard_time": 1730681659,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332730,
+      "num": 450761,
+      "word": "美国大选5任总统大乱斗",
+      "onboard_time": 1730726481,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 330711,
@@ -1011,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280899,
-      "num": 301088,
-      "word": "郑钦文vs莱巴金娜",
-      "onboard_time": 1730722280,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279871,
       "num": 279871,
       "word": "涵艺爆料LPL工资帽",
@@ -1075,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260452,
+      "num": 316340,
+      "word": "何可欣结婚",
+      "onboard_time": 1730727081,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255193,
       "num": 255193,
       "word": "偶遇彭高",
@@ -1112,6 +1128,14 @@
       "word": "外逃原副市长涉案逾31亿知情人发声",
       "onboard_time": 1730689998,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247166,
+      "num": 481511,
+      "word": "公积金利率高过商贷后还要存在吗",
+      "onboard_time": 1730723780,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1275,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212700,
+      "num": 306565,
+      "word": "大梦归离 断更",
+      "onboard_time": 1730727321,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212289,
       "num": 212289,
       "word": "向佐海报都是向左发的",
@@ -1307,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205910,
+      "num": 205910,
+      "word": "关晓彤黑抹胸裙",
+      "onboard_time": 1730727441,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205723,
       "num": 205723,
       "word": "外籍男子在香港持刀抢劫警长被捅5刀",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1730708899,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202240,
+      "num": 202240,
+      "word": "曾黎好薄的背",
+      "onboard_time": 1730727081,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201202,
@@ -1459,14 +1507,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 191670,
-      "num": 481511,
-      "word": "公积金利率高过商贷后还要存在吗",
-      "onboard_time": 1730723780,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191531,
       "num": 445246,
       "word": "永夜星河摇人 向佐穿书",
@@ -1491,12 +1531,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191366,
+      "num": 228490,
+      "word": "高雅cp",
+      "onboard_time": 1730724680,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "心动的信号",
       "onboard_time": 1730695462,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190278,
+      "num": 190278,
+      "word": "假如宋莹有八个瑞士卷",
+      "onboard_time": 1730726900,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 188477,
@@ -1603,14 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175843,
-      "num": 228490,
-      "word": "高雅cp",
-      "onboard_time": 1730724680,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174781,
       "num": 174781,
       "word": "陈都灵 潇因",
@@ -1632,6 +1680,14 @@
       "word": "代高政 脱的衣服我要一件件穿回来",
       "onboard_time": 1730703258,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173358,
+      "num": 173358,
+      "word": "邪恶菠萝蜜和邪恶栀子花合体了",
+      "onboard_time": 1730726001,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1697,14 +1753,6 @@
       "onboard_time": 1730639000,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169010,
-      "num": 169010,
-      "word": "假如宋莹有八个瑞士卷",
-      "onboard_time": 1730726900,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 168886,
@@ -1803,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163718,
+      "num": 163718,
+      "word": "广西大学通报",
+      "onboard_time": 1730727321,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163422,
       "num": 163422,
       "word": "北京地铁10号线",
@@ -1841,14 +1897,6 @@
       "onboard_time": 1730709618,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 162082,
-      "num": 162082,
-      "word": "邪恶菠萝蜜和邪恶栀子花合体了",
-      "onboard_time": 1730726001,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 161713,
@@ -1963,12 +2011,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153383,
+      "num": 153383,
+      "word": "没认出张若昀后面的魏晨",
+      "onboard_time": 1730727620,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "tyt出道当天姚景元爸妈离婚",
       "onboard_time": 1730691380,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151282,
+      "num": 151282,
+      "word": "云包场",
+      "onboard_time": 1730727561,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 149864,
@@ -2136,14 +2200,6 @@
       "word": "金灿荣称美国是伪装成国家的公司",
       "onboard_time": 1730639719,
       "rank": 31,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 130209,
-      "num": 360602,
-      "word": "美国大选5任总统大乱斗",
-      "onboard_time": 1730726481,
-      "rank": 28,
       "category": "国外时政"
     },
     {
@@ -2459,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89933,
+      "num": 190558,
+      "word": "陈清晨为孙颖莎庆生",
+      "onboard_time": 1730727501,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87006,
       "num": 87006,
       "word": "丁禹兮 毛毛姐",
@@ -2772,7 +2836,7 @@
     },
     {
       "raw_hot": 37516,
-      "num": 974928,
+      "num": 1015639,
       "word": "一片回顾神十八返回全过程",
       "onboard_time": 1730723360,
       "rank": 2,
@@ -2792,6 +2856,14 @@
       "word": "代工厂自制假司美每盒成本不到20元",
       "onboard_time": 1730693123,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35551,
+      "num": 478258,
+      "word": "女子涉嫌伙同他人伪造虚假材料骗贷13亿",
+      "onboard_time": 1730725940,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2817,6 +2889,14 @@
       "onboard_time": 1730656933,
       "rank": 8,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 34840,
+      "num": 482218,
+      "word": "刘德华高唱中国人绿营凭啥破防",
+      "onboard_time": 1730726842,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34775,
@@ -2851,19 +2931,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 33232,
+      "num": 423957,
+      "word": "顶级名校生可以卷到什么程度",
+      "onboard_time": 1730727321,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32249,
       "num": 333372,
       "word": "微短剧会成为电影的掘墓人吗",
       "onboard_time": 1730711119,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30652,
-      "num": 482218,
-      "word": "刘德华高唱中国人绿营凭啥破防",
-      "onboard_time": 1730726842,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2904,14 +2984,6 @@
       "word": "鞋店索要顾客试鞋费有违经营之道",
       "onboard_time": 1730669772,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28019,
-      "num": 478258,
-      "word": "女子涉嫌伙同他人伪造虚假材料骗贷13亿",
-      "onboard_time": 1730725940,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3208,6 +3280,9 @@
     },
     {
       "word": "#三个不会变展示中国开放决心#"
+    },
+    {
+      "word": "#六届进博会习近平主席作出这些重要论述#"
     }
   ]
 }
