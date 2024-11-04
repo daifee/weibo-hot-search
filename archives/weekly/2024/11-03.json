@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730697787801,
+  "endTime": 1730698811895,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1791157,
+      "num": 459474,
+      "word": "景甜做完手术正在康复训练",
+      "onboard_time": 1730695641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1769284,
       "num": 446015,
       "word": "瑞士卷怎么分",
@@ -177,14 +185,6 @@
       "onboard_time": 1730601740,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1676778,
-      "num": 459474,
-      "word": "景甜做完手术正在康复训练",
-      "onboard_time": 1730695641,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1674389,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808091,
+      "num": 443021,
+      "word": "电梯被捂嘴女孩事后大哭做噩梦",
+      "onboard_time": 1730694682,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798154,
       "num": 578512,
       "word": "赵露思说汪苏泷唱不得超好听",
@@ -505,6 +513,14 @@
       "onboard_time": 1730597358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 779317,
+      "num": 779317,
+      "word": "马斯克每天抽1名选民送100万美元",
+      "onboard_time": 1730693061,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 769361,
@@ -739,14 +755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 617502,
-      "num": 617502,
-      "word": "马斯克每天抽1名选民送100万美元",
-      "onboard_time": 1730693061,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 616290,
       "num": 372190,
       "word": "Faker状态",
@@ -859,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578662,
-      "num": 443021,
-      "word": "电梯被捂嘴女孩事后大哭做噩梦",
-      "onboard_time": 1730694682,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
@@ -891,12 +891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572082,
+      "num": 572082,
+      "word": "农村啃老现象抬头",
+      "onboard_time": 1730694862,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568550,
       "num": 427727,
       "word": "永夜星河发布会",
       "onboard_time": 1730626878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 564141,
+      "num": 414698,
+      "word": "张若昀唐艺昕带女儿玩跷跷板",
+      "onboard_time": 1730697080,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 559100,
@@ -929,14 +945,6 @@
       "onboard_time": 1730695581,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544149,
-      "num": 544149,
-      "word": "农村啃老现象抬头",
-      "onboard_time": 1730694862,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541268,
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468214,
+      "num": 468214,
+      "word": "歼35要来了吗",
+      "onboard_time": 1730695403,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 468138,
       "num": 637804,
       "word": "死亡游戏再现校园",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1730679797,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 465528,
-      "num": 465528,
-      "word": "歼35要来了吗",
-      "onboard_time": 1730695403,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 462432,
@@ -1171,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438294,
+      "num": 438294,
+      "word": "刘宇宁 救场",
+      "onboard_time": 1730697979,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436868,
       "num": 436868,
       "word": "欣诚则凌",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1730630899,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414698,
-      "num": 414698,
-      "word": "张若昀唐艺昕带女儿玩跷跷板",
-      "onboard_time": 1730697080,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 414501,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1730567296,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286604,
+      "num": 427119,
+      "word": "3个字赔了2000元",
+      "onboard_time": 1730697321,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284450,
@@ -2203,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206440,
+      "num": 206440,
+      "word": "樊振东庆祝动作版权意识好强",
+      "onboard_time": 1730697859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206197,
       "num": 206197,
       "word": "警方回应卖40万手表后银行卡被冻结",
@@ -2355,6 +2379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198397,
+      "num": 198397,
+      "word": "副市长31亿涉案资产背后的官场江湖",
+      "onboard_time": 1730697201,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198344,
       "num": 198344,
       "word": "财务与会计",
@@ -2467,20 +2499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193447,
-      "num": 193447,
-      "word": "3个字赔了2000元",
-      "onboard_time": 1730697321,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192300,
       "num": 192300,
       "word": "BLG的BP",
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191531,
+      "num": 445246,
+      "word": "永夜星河摇人 向佐穿书",
+      "onboard_time": 1730695522,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 190580,
@@ -2523,12 +2555,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 186969,
-      "num": 186969,
-      "word": "副市长31亿涉案资产背后的官场江湖",
-      "onboard_time": 1730697201,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 186388,
+      "num": 186388,
+      "word": "郭艾伦回应让辽篮赠票给球迷",
+      "onboard_time": 1730698579,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 186093,
@@ -2883,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162810,
-      "num": 445246,
-      "word": "永夜星河摇人 向佐穿书",
-      "onboard_time": 1730695522,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162808,
       "num": 162808,
       "word": "Gumayusi给Faker戴王冠",
@@ -3083,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154925,
+      "num": 154925,
+      "word": "指甲建构",
+      "onboard_time": 1730698521,
+      "rank": 45,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 153843,
       "num": 153843,
       "word": "张凌赫送婚礼祝福",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1730640260,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142662,
+      "num": 142662,
+      "word": "苏新皓是因为passion开始唱跳的",
+      "onboard_time": 1730698760,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 142534,
@@ -3667,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120691,
+      "num": 463022,
+      "word": "境内外人员勾结企图偷运金属镓出境",
+      "onboard_time": 1730696602,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120080,
       "num": 120080,
       "word": "返回地球路上神十八航天员在干啥",
@@ -3915,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97477,
+      "num": 377331,
+      "word": "珠帘玉幕设定",
+      "onboard_time": 1730698220,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95508,
       "num": 330039,
       "word": "寻亲成功家庭发生纠纷多因财产",
@@ -4155,14 +4211,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 57443,
-      "num": 463022,
-      "word": "境内外人员勾结企图偷运金属镓出境",
-      "onboard_time": 1730696602,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56918,
       "num": 511459,
       "word": "杀害同村六旬老妇的男子已被抓",
@@ -4361,6 +4409,14 @@
       "onboard_time": 1730640439,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38309,
+      "num": 398939,
+      "word": "美国国民警卫队紧急待命防内乱",
+      "onboard_time": 1730698638,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 37196,
@@ -4587,6 +4643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 21032,
+      "num": 439942,
+      "word": "男子应聘货车司机被套路买车",
+      "onboard_time": 1730697441,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20411,
       "num": 970802,
       "word": "文化中国行看打开ChinaTravel的N种方式",
@@ -4625,14 +4689,6 @@
       "onboard_time": 1730607561,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19733,
-      "num": 439942,
-      "word": "男子应聘货车司机被套路买车",
-      "onboard_time": 1730697441,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19431,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730697787801,
+  "endTime": 1730698811895,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -299,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1791157,
+      "num": 459474,
+      "word": "景甜做完手术正在康复训练",
+      "onboard_time": 1730695641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1788528,
       "num": 638223,
       "word": "确认杀弟疑凶姐姐气到咬破舌又咽血",
@@ -345,14 +353,6 @@
       "onboard_time": 1730540598,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1676778,
-      "num": 459474,
-      "word": "景甜做完手术正在康复训练",
-      "onboard_time": 1730695641,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1674389,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808091,
+      "num": 443021,
+      "word": "电梯被捂嘴女孩事后大哭做噩梦",
+      "onboard_time": 1730694682,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798154,
       "num": 578512,
       "word": "赵露思说汪苏泷唱不得超好听",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1730433498,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 779317,
+      "num": 779317,
+      "word": "马斯克每天抽1名选民送100万美元",
+      "onboard_time": 1730693061,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 769361,
@@ -1603,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617502,
-      "num": 617502,
-      "word": "马斯克每天抽1名选民送100万美元",
-      "onboard_time": 1730693061,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 616290,
       "num": 372190,
       "word": "Faker状态",
@@ -1787,14 +1795,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 578662,
-      "num": 443021,
-      "word": "电梯被捂嘴女孩事后大哭做噩梦",
-      "onboard_time": 1730694682,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
@@ -1835,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572082,
+      "num": 572082,
+      "word": "农村啃老现象抬头",
+      "onboard_time": 1730694862,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570875,
       "num": 402522,
       "word": "再见朋友 提名",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1730626878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 564141,
+      "num": 414698,
+      "word": "张若昀唐艺昕带女儿玩跷跷板",
+      "onboard_time": 1730697080,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 559161,
@@ -1952,14 +1968,6 @@
       "word": "妇女可以依法查询配偶财产状况",
       "onboard_time": 1730535260,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544149,
-      "num": 544149,
-      "word": "农村啃老现象抬头",
-      "onboard_time": 1730694862,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2299,6 +2307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 468214,
+      "num": 468214,
+      "word": "歼35要来了吗",
+      "onboard_time": 1730695403,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 468138,
       "num": 637804,
       "word": "死亡游戏再现校园",
@@ -2321,14 +2337,6 @@
       "onboard_time": 1730462118,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 465528,
-      "num": 465528,
-      "word": "歼35要来了吗",
-      "onboard_time": 1730695403,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 462797,
@@ -2491,6 +2499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438294,
+      "num": 438294,
+      "word": "刘宇宁 救场",
+      "onboard_time": 1730697979,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436868,
       "num": 436868,
       "word": "欣诚则凌",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1730445739,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414698,
-      "num": 414698,
-      "word": "张若昀唐艺昕带女儿玩跷跷板",
-      "onboard_time": 1730697080,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 413357,
@@ -3521,6 +3529,14 @@
       "onboard_time": 1730383341,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286604,
+      "num": 427119,
+      "word": "3个字赔了2000元",
+      "onboard_time": 1730697321,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286431,
@@ -4715,6 +4731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206440,
+      "num": 206440,
+      "word": "樊振东庆祝动作版权意识好强",
+      "onboard_time": 1730697859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206200,
       "num": 206200,
       "word": "萧敬腾林有慧捐出全部婚礼礼金",
@@ -4979,6 +5003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198397,
+      "num": 198397,
+      "word": "副市长31亿涉案资产背后的官场江湖",
+      "onboard_time": 1730697201,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198344,
       "num": 198344,
       "word": "财务与会计",
@@ -5139,14 +5171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193447,
-      "num": 193447,
-      "word": "3个字赔了2000元",
-      "onboard_time": 1730697321,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193407,
       "num": 218713,
       "word": "十日终焉大结局全员上桌",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1730473699,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191531,
+      "num": 445246,
+      "word": "永夜星河摇人 向佐穿书",
+      "onboard_time": 1730695522,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 191179,
@@ -5307,14 +5339,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 186969,
-      "num": 186969,
-      "word": "副市长31亿涉案资产背后的官场江湖",
-      "onboard_time": 1730697201,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186920,
       "num": 186920,
       "word": "付航说刘宇宁必成影帝",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1730539339,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186388,
+      "num": 186388,
+      "word": "郭艾伦回应让辽篮赠票给球迷",
+      "onboard_time": 1730698579,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 186346,
@@ -6195,14 +6227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162810,
-      "num": 445246,
-      "word": "永夜星河摇人 向佐穿书",
-      "onboard_time": 1730695522,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162808,
       "num": 162808,
       "word": "Gumayusi给Faker戴王冠",
@@ -6609,6 +6633,14 @@
       "onboard_time": 1730538018,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154925,
+      "num": 154925,
+      "word": "指甲建构",
+      "onboard_time": 1730698521,
+      "rank": 45,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 154263,
@@ -7041,6 +7073,14 @@
       "onboard_time": 1730453539,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142662,
+      "num": 142662,
+      "word": "苏新皓是因为passion开始唱跳的",
+      "onboard_time": 1730698760,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 142588,
@@ -7979,6 +8019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120691,
+      "num": 463022,
+      "word": "境内外人员勾结企图偷运金属镓出境",
+      "onboard_time": 1730696602,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120307,
       "num": 120307,
       "word": "Faker说BLG气势很强",
@@ -8755,6 +8803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97477,
+      "num": 377331,
+      "word": "珠帘玉幕设定",
+      "onboard_time": 1730698220,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97150,
       "num": 97150,
       "word": "S14",
@@ -9419,14 +9475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57443,
-      "num": 463022,
-      "word": "境内外人员勾结企图偷运金属镓出境",
-      "onboard_time": 1730696602,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56944,
       "num": 283048,
       "word": "救护车司机被举报勾结医生贩卖婴儿",
@@ -9977,6 +10025,14 @@
       "onboard_time": 1730524338,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38309,
+      "num": 398939,
+      "word": "美国国民警卫队紧急待命防内乱",
+      "onboard_time": 1730698638,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38222,
@@ -10699,6 +10755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 21032,
+      "num": 439942,
+      "word": "男子应聘货车司机被套路买车",
+      "onboard_time": 1730697441,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20966,
       "num": 20966,
       "word": "几件美制武器无法改变两岸军力态势",
@@ -10777,14 +10841,6 @@
       "onboard_time": 1730607561,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19733,
-      "num": 439942,
-      "word": "男子应聘货车司机被套路买车",
-      "onboard_time": 1730697441,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19635,
