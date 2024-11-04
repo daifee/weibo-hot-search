@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730737678862,
+  "endTime": 1730738613602,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -2555,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246692,
+      "num": 246692,
+      "word": "周雨彤真诚的对不起",
+      "onboard_time": 1730735778,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244863,
       "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1730547318,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233435,
-      "num": 233435,
-      "word": "周雨彤真诚的对不起",
-      "onboard_time": 1730735778,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 232259,
@@ -4459,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151302,
+      "num": 300063,
+      "word": "Faker 第五冠献给粉丝",
+      "onboard_time": 1730734459,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151282,
       "num": 151282,
       "word": "云包场",
@@ -4656,14 +4664,6 @@
       "word": "Faker说对自己表现没有特别满意",
       "onboard_time": 1730592377,
       "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 141513,
-      "num": 300063,
-      "word": "Faker 第五冠献给粉丝",
-      "onboard_time": 1730734459,
-      "rank": 29,
       "category": "电竞"
     },
     {
@@ -5363,6 +5363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106575,
+      "num": 106575,
+      "word": "网曝高中女生约十几人勒索初中男生",
+      "onboard_time": 1730737037,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106469,
       "num": 106469,
       "word": "新机型新涂装为空军庆生",
@@ -5425,14 +5433,6 @@
       "onboard_time": 1730674874,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102494,
-      "num": 102494,
-      "word": "网曝高中女生约十几人勒索初中男生",
-      "onboard_time": 1730737037,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101510,
@@ -5532,7 +5532,7 @@
     },
     {
       "raw_hot": 92676,
-      "num": 171685,
+      "num": 293160,
       "word": "传单印广西大学副院长强奸女学生",
       "onboard_time": 1730736738,
       "rank": 29,
@@ -5761,6 +5761,14 @@
       "onboard_time": 1730610498,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62331,
+      "num": 62331,
+      "word": "谁允许你们欺瞒本尊贵的系统大人",
+      "onboard_time": 1730737936,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 62328,
