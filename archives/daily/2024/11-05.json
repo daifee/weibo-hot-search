@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730738613602,
+  "endTime": 1730740799676,
   "band_list": [
     {
       "raw_hot": 1209270,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334027,
+      "num": 246692,
+      "word": "周雨彤真诚的对不起",
+      "onboard_time": 1730735778,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333456,
       "num": 333456,
       "word": "特朗普抱怨奥巴马给他留下烂摊子",
@@ -153,14 +161,6 @@
       "onboard_time": 1730715199,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246692,
-      "num": 246692,
-      "word": "周雨彤真诚的对不起",
-      "onboard_time": 1730735778,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 233059,
@@ -249,6 +249,14 @@
       "onboard_time": 1730734459,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139206,
+      "num": 293160,
+      "word": "传单印广西大学副院长强奸女学生",
+      "onboard_time": 1730736738,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130596,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98831,
+      "num": 104744,
+      "word": "广西大学被指强奸女学生教授报案",
+      "onboard_time": 1730738896,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97563,
       "num": 97563,
       "word": "张继科开业球馆不对外营业",
@@ -360,14 +376,6 @@
       "word": "良品铺子已下架多款被打假产品",
       "onboard_time": 1730710701,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92676,
-      "num": 293160,
-      "word": "传单印广西大学副院长强奸女学生",
-      "onboard_time": 1730736738,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -403,12 +411,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34054,
+      "raw_hot": 55613,
       "num": 287275,
       "word": "死亡游戏为何能在孩子间流行",
       "onboard_time": 1730737578,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54182,
+      "num": 143512,
+      "word": "美了1千多年的银杏是唐太宗种的",
+      "onboard_time": 1730739376,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41229,
+      "num": 47630,
+      "word": "业主群闹事专用情头",
+      "onboard_time": 1730740394,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 39774,
+      "num": 47594,
+      "word": "AG晋级年总胜者组决赛",
+      "onboard_time": 1730730262,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 3322,
