@@ -1,0 +1,410 @@
+{
+  "runTime": 1730695289145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7891446,
+        "num": 7891446,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799141,
+        "num": 799141,
+        "word": "引导失误致冠军变亚军痛失21万奖金",
+        "onboard_time": 1730685078,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18354,
+        "num": 663211,
+        "word": "东方风来进博之约",
+        "onboard_time": 1730692702,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548134,
+        "num": 548134,
+        "word": "孙颖莎24岁13个世界冠军",
+        "onboard_time": 1730689818,
+        "rank": 3,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 368264,
+        "num": 368264,
+        "word": "马斯克每天抽1名选民送100万美元",
+        "onboard_time": 1730693061,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 657521,
+        "num": 363911,
+        "word": "周雨彤 我没有那么糟糕",
+        "onboard_time": 1730691681,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535033,
+        "num": 363908,
+        "word": "陈星旭说迪丽热巴很轻",
+        "onboard_time": 1730694202,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522264,
+        "num": 360792,
+        "word": "虞书欣三部剧限免了",
+        "onboard_time": 1730692880,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356071,
+        "num": 356071,
+        "word": "余承东称史上最强大的Mate11月见",
+        "onboard_time": 1730683520,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214832,
+        "num": 355222,
+        "word": "神十八3人回家带了近70斤太空特产",
+        "onboard_time": 1730692281,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1587389,
+        "num": 353904,
+        "word": "乔任梁母亲回应手臂伤口",
+        "onboard_time": 1730690178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1427684,
+        "num": 350794,
+        "word": "电梯内被捂嘴女孩妈妈发声",
+        "onboard_time": 1730691620,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994827,
+        "num": 348745,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 978291,
+        "num": 347402,
+        "word": "丁禹兮 指甲建构",
+        "onboard_time": 1730693182,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 736782,
+        "num": 344478,
+        "word": "张新成李兰迪新西兰同游照",
+        "onboard_time": 1730689698,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52272,
+        "num": 343589,
+        "word": "张雨霏好大大方方一女孩",
+        "onboard_time": 1730692942,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589629,
+        "num": 340315,
+        "word": "孙颖莎生日",
+        "onboard_time": 1730693182,
+        "rank": 16,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 339938,
+        "num": 339938,
+        "word": "关晓彤王安宇跳了APT",
+        "onboard_time": 1730694142,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358176,
+        "num": 338624,
+        "word": "丁禹兮上桌",
+        "onboard_time": 1730683758,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454959,
+        "num": 332203,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 448287,
+        "num": 329087,
+        "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
+        "onboard_time": 1730684838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393379,
+        "num": 324748,
+        "word": "瑞士卷怎么分席卷全网老公",
+        "onboard_time": 1730687837,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323759,
+        "num": 323759,
+        "word": "为什么数学水平最难造假",
+        "onboard_time": 1730687239,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303454,
+        "num": 303454,
+        "word": "永夜星河求加更",
+        "onboard_time": 1730689038,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285695,
+        "num": 285695,
+        "word": "摇人",
+        "onboard_time": 1730689277,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255602,
+        "num": 255602,
+        "word": "航天员回地球前先点好了餐",
+        "onboard_time": 1730684417,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250391,
+        "num": 250391,
+        "word": "林孝埈中文接受isu采访",
+        "onboard_time": 1730693602,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235650,
+        "num": 235650,
+        "word": "缺乏性教育的孩子会吃哪些苦",
+        "onboard_time": 1730686878,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 215454,
+        "num": 234630,
+        "word": "赵露思说汪苏泷唱不得超好听",
+        "onboard_time": 1730688019,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185638,
+        "num": 234387,
+        "word": "永夜星河书粉",
+        "onboard_time": 1730691141,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234365,
+        "num": 234365,
+        "word": "外逃原副市长涉案逾31亿知情人发声",
+        "onboard_time": 1730689998,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223540,
+        "num": 223540,
+        "word": "华为Mate70提前拆封罚款50万起",
+        "onboard_time": 1730686819,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201069,
+        "num": 201069,
+        "word": "电梯被捂嘴女孩事后大哭做噩梦",
+        "onboard_time": 1730694682,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200794,
+        "num": 200794,
+        "word": "农村啃老现象抬头",
+        "onboard_time": 1730694862,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163394,
+        "num": 198318,
+        "word": "看大梦归离与全世界为敌",
+        "onboard_time": 1730694502,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197917,
+        "num": 197917,
+        "word": "美国大选亿万富豪都支持谁",
+        "onboard_time": 1730684838,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196062,
+        "num": 196062,
+        "word": "100克瑞士卷等于3碗米饭不建议多吃",
+        "onboard_time": 1730694742,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195315,
+        "num": 195315,
+        "word": "一觉醒来神十八3人回地球了",
+        "onboard_time": 1730677097,
+        "rank": 37,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 193373,
+        "num": 193373,
+        "word": "Mate70",
+        "onboard_time": 1730683637,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186734,
+        "num": 186734,
+        "word": "神舟十八号返回舱成功着陆",
+        "onboard_time": 1730654892,
+        "rank": 39,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 181085,
+        "num": 181085,
+        "word": "刘宇宁说自己被骂到有点畏手畏脚",
+        "onboard_time": 1730678479,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178397,
+        "num": 178397,
+        "word": "央视曝光所谓军字号特供酒产业链",
+        "onboard_time": 1730689998,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177390,
+        "num": 177390,
+        "word": "造城者",
+        "onboard_time": 1730694742,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170866,
+        "num": 170866,
+        "word": "永夜星河",
+        "onboard_time": 1730655553,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37083,
+        "num": 169113,
+        "word": "代工厂自制假司美每盒成本不到20元",
+        "onboard_time": 1730693123,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167637,
+        "num": 167637,
+        "word": "幸运咖 王俊凯",
+        "onboard_time": 1730685678,
+        "rank": 45,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 150557,
+        "num": 150557,
+        "word": "李硕珉黑皮腹肌",
+        "onboard_time": 1730692162,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150089,
+        "num": 150089,
+        "word": "神舟十八号航天员平安抵京",
+        "onboard_time": 1730684719,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149488,
+        "num": 149488,
+        "word": "Uzi谈不复出原因",
+        "onboard_time": 1730685798,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95508,
+        "num": 146640,
+        "word": "寻亲成功家庭发生纠纷多因财产",
+        "onboard_time": 1730693061,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会见证开放与创新的双向奔赴#"
+    }
+  }
+}

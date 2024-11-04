@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730694423624,
+  "endTime": 1730695289145,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -35,15 +35,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1404983,
-      "num": 426187,
-      "word": "张新成李兰迪新西兰同游照",
-      "onboard_time": 1730689698,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1338069,
+      "raw_hot": 1587389,
       "num": 356161,
       "word": "乔任梁母亲回应手臂伤口",
       "onboard_time": 1730690178,
@@ -51,12 +43,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1282466,
-      "num": 328899,
+      "raw_hot": 1427684,
+      "num": 350794,
       "word": "电梯内被捂嘴女孩妈妈发声",
       "onboard_time": 1730691620,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1404983,
+      "num": 426187,
+      "word": "张新成李兰迪新西兰同游照",
+      "onboard_time": 1730689698,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1277393,
@@ -73,6 +73,14 @@
       "onboard_time": 1730685078,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 978291,
+      "num": 347402,
+      "word": "丁禹兮 指甲建构",
+      "onboard_time": 1730693182,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 932837,
@@ -97,14 +105,6 @@
       "onboard_time": 1730641761,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 848854,
-      "num": 324666,
-      "word": "丁禹兮 指甲建构",
-      "onboard_time": 1730693182,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 830683,
@@ -211,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 589629,
+      "num": 552385,
+      "word": "孙颖莎生日",
+      "onboard_time": 1730693182,
+      "rank": 4,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 558580,
       "num": 476952,
       "word": "一栗小莎子安利赵露思新剧",
@@ -227,12 +235,12 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 552385,
-      "num": 552385,
-      "word": "孙颖莎生日",
-      "onboard_time": 1730693182,
-      "rank": 4,
-      "category": "体育,作品衍生"
+      "raw_hot": 535033,
+      "num": 363908,
+      "word": "陈星旭说迪丽热巴很轻",
+      "onboard_time": 1730694202,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 522707,
@@ -243,20 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 522264,
+      "num": 501972,
+      "word": "虞书欣三部剧限免了",
+      "onboard_time": 1730692880,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510824,
       "num": 348338,
       "word": "死亡游戏流行校园真的会致死",
       "onboard_time": 1730636538,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 501972,
-      "num": 501972,
-      "word": "虞书欣三部剧限免了",
-      "onboard_time": 1730692880,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 490059,
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393379,
+      "num": 324748,
+      "word": "瑞士卷怎么分席卷全网老公",
+      "onboard_time": 1730687837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373050,
       "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
@@ -369,6 +385,14 @@
       "onboard_time": 1730689277,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368264,
+      "num": 368264,
+      "word": "马斯克每天抽1名选民送100万美元",
+      "onboard_time": 1730693061,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 358759,
@@ -400,6 +424,14 @@
       "word": "林一为虞书欣永夜星河打call",
       "onboard_time": 1730645839,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339938,
+      "num": 339938,
+      "word": "关晓彤王安宇跳了APT",
+      "onboard_time": 1730694142,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -435,12 +467,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322535,
-      "num": 322535,
-      "word": "陈星旭说迪丽热巴很轻",
-      "onboard_time": 1730694202,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 323759,
+      "num": 323759,
+      "word": "为什么数学水平最难造假",
+      "onboard_time": 1730687239,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321495,
@@ -449,22 +481,6 @@
       "onboard_time": 1730642179,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312559,
-      "num": 312559,
-      "word": "瑞士卷怎么分席卷全网老公",
-      "onboard_time": 1730687837,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307614,
-      "num": 307614,
-      "word": "为什么数学水平最难造假",
-      "onboard_time": 1730687239,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296581,
@@ -539,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250391,
+      "num": 250391,
+      "word": "林孝埈中文接受isu采访",
+      "onboard_time": 1730693602,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248133,
       "num": 409461,
       "word": "外逃原副市长涉案逾31亿知情人发声",
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 238348,
-      "num": 238348,
+      "num": 355222,
       "word": "神十八3人回家带了近70斤太空特产",
       "onboard_time": 1730692281,
       "rank": 32,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 231225,
-      "num": 231225,
+      "num": 234387,
       "word": "永夜星河书粉",
       "onboard_time": 1730691141,
       "rank": 48,
@@ -643,19 +667,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211097,
-      "num": 211097,
-      "word": "林孝埈中文接受isu采访",
-      "onboard_time": 1730693602,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205723,
       "num": 205723,
       "word": "外籍男子在香港持刀抢劫警长被捅5刀",
       "onboard_time": 1730637438,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201069,
+      "num": 201069,
+      "word": "电梯被捂嘴女孩事后大哭做噩梦",
+      "onboard_time": 1730694682,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200794,
+      "num": 200794,
+      "word": "农村啃老现象抬头",
+      "onboard_time": 1730694862,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -683,12 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189531,
-      "num": 325847,
-      "word": "关晓彤王安宇跳了APT",
-      "onboard_time": 1730694142,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "100克瑞士卷等于3碗米饭不建议多吃",
+      "onboard_time": 1730694742,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184046,
@@ -713,6 +745,22 @@
       "onboard_time": 1730629040,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178397,
+      "num": 299218,
+      "word": "央视曝光所谓军字号特供酒产业链",
+      "onboard_time": 1730689998,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "造城者",
+      "onboard_time": 1730694742,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 174781,
@@ -779,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163394,
+      "num": 198318,
+      "word": "看大梦归离与全世界为敌",
+      "onboard_time": 1730694502,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "女子带娃骑车逆行被撞身亡自负主责",
@@ -809,22 +865,6 @@
       "onboard_time": 1730692162,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 158511,
-      "num": 327608,
-      "word": "马斯克每天抽1名选民送100万美元",
-      "onboard_time": 1730693061,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 158057,
-      "num": 299218,
-      "word": "央视曝光所谓军字号特供酒产业链",
-      "onboard_time": 1730689998,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156872,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95508,
+      "num": 330039,
+      "word": "寻亲成功家庭发生纠纷多因财产",
+      "onboard_time": 1730693061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94759,
       "num": 94759,
       "word": "直击东风着陆场",
@@ -1227,12 +1275,12 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 51902,
-      "num": 330039,
-      "word": "寻亲成功家庭发生纠纷多因财产",
-      "onboard_time": 1730693061,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 52272,
+      "num": 343589,
+      "word": "张雨霏好大大方方一女孩",
+      "onboard_time": 1730692942,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 51049,
@@ -1257,14 +1305,6 @@
       "onboard_time": 1730652796,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 48159,
-      "num": 325598,
-      "word": "张雨霏好大大方方一女孩",
-      "onboard_time": 1730692942,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 47748,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1730646320,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37083,
+      "num": 326962,
+      "word": "代工厂自制假司美每盒成本不到20元",
+      "onboard_time": 1730693123,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35299,
@@ -1360,14 +1408,6 @@
       "word": "这波夜骑大学生开封出招接住了",
       "onboard_time": 1730653575,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26342,
-      "num": 326962,
-      "word": "代工厂自制假司美每盒成本不到20元",
-      "onboard_time": 1730693123,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1443,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18354,
+      "num": 663211,
+      "word": "东方风来进博之约",
+      "onboard_time": 1730692702,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16767,
       "num": 18447,
       "word": "直击第十五届中国航展",
       "onboard_time": 1730665511,
       "rank": 34,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 16486,
-      "num": 635860,
-      "word": "东方风来进博之约",
-      "onboard_time": 1730692702,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15737,

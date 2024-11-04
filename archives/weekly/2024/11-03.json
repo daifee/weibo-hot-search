@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730694423624,
+  "endTime": 1730695289145,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1587389,
+      "num": 356161,
+      "word": "乔任梁母亲回应手臂伤口",
+      "onboard_time": 1730690178,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1579669,
       "num": 1579669,
       "word": "黄磊回应好为人师爱说教",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1427684,
+      "num": 350794,
+      "word": "电梯内被捂嘴女孩妈妈发声",
+      "onboard_time": 1730691620,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421654,
       "num": 422655,
       "word": "吴露可逃",
@@ -267,28 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1338069,
-      "num": 356161,
-      "word": "乔任梁母亲回应手臂伤口",
-      "onboard_time": 1730690178,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1285632,
       "num": 1285632,
       "word": "Faker LPL无法逾越的大山",
       "onboard_time": 1730572702,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1282466,
-      "num": 328899,
-      "word": "电梯内被捂嘴女孩妈妈发声",
-      "onboard_time": 1730691620,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1282167,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 978291,
+      "num": 347402,
+      "word": "丁禹兮 指甲建构",
+      "onboard_time": 1730693182,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 954607,
       "num": 954607,
       "word": "毛奇严重违纪违法被双开",
@@ -449,14 +457,6 @@
       "onboard_time": 1730612658,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 848854,
-      "num": 324666,
-      "word": "丁禹兮 指甲建构",
-      "onboard_time": 1730693182,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 847225,
@@ -803,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589629,
+      "num": 552385,
+      "word": "孙颖莎生日",
+      "onboard_time": 1730693182,
+      "rank": 4,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 587108,
       "num": 834808,
       "word": "正午阳光 切不动了",
@@ -891,14 +899,6 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 552385,
-      "num": 552385,
-      "word": "孙颖莎生日",
-      "onboard_time": 1730693182,
-      "rank": 4,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 541268,
       "num": 637030,
       "word": "永夜星河第七集 梦回苍兰诀",
@@ -915,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 535033,
+      "num": 363908,
+      "word": "陈星旭说迪丽热巴很轻",
+      "onboard_time": 1730694202,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526700,
       "num": 526700,
       "word": "学生举报老师学术霸凌不属实",
@@ -928,6 +936,14 @@
       "word": "永夜星河求加更",
       "onboard_time": 1730689038,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 522264,
+      "num": 501972,
+      "word": "虞书欣三部剧限免了",
+      "onboard_time": 1730692880,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -961,14 +977,6 @@
       "onboard_time": 1730592677,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501972,
-      "num": 501972,
-      "word": "虞书欣三部剧限免了",
-      "onboard_time": 1730692880,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 492086,
@@ -1259,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 393379,
+      "num": 324748,
+      "word": "瑞士卷怎么分席卷全网老公",
+      "onboard_time": 1730687837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390838,
       "num": 390838,
       "word": "乔任梁",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1730571854,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 368264,
+      "num": 368264,
+      "word": "马斯克每天抽1名选民送100万美元",
+      "onboard_time": 1730693061,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 365816,
@@ -1387,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339938,
+      "num": 339938,
+      "word": "关晓彤王安宇跳了APT",
+      "onboard_time": 1730694142,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
@@ -1427,12 +1459,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 322535,
-      "num": 322535,
-      "word": "陈星旭说迪丽热巴很轻",
-      "onboard_time": 1730694202,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 323759,
+      "num": 323759,
+      "word": "为什么数学水平最难造假",
+      "onboard_time": 1730687239,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317679,
@@ -1467,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312559,
-      "num": 312559,
-      "word": "瑞士卷怎么分席卷全网老公",
-      "onboard_time": 1730687837,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308953,
       "num": 308953,
       "word": "代号鸢",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 307614,
-      "num": 307614,
-      "word": "为什么数学水平最难造假",
-      "onboard_time": 1730687239,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304215,
@@ -1723,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250391,
+      "num": 250391,
+      "word": "林孝埈中文接受isu采访",
+      "onboard_time": 1730693602,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249665,
       "num": 415748,
       "word": "三国重臣张昭墓在南京考古发掘完毕",
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 238348,
-      "num": 238348,
+      "num": 355222,
       "word": "神十八3人回家带了近70斤太空特产",
       "onboard_time": 1730692281,
       "rank": 32,
@@ -1900,7 +1924,7 @@
     },
     {
       "raw_hot": 231225,
-      "num": 231225,
+      "num": 234387,
       "word": "永夜星河书粉",
       "onboard_time": 1730691141,
       "rank": 48,
@@ -2040,14 +2064,6 @@
       "word": "满满的祝福送给莎莎",
       "onboard_time": 1730675596,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 211097,
-      "num": 211097,
-      "word": "林孝埈中文接受isu采访",
-      "onboard_time": 1730693602,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -2211,6 +2227,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201069,
+      "num": 201069,
+      "word": "电梯被捂嘴女孩事后大哭做噩梦",
+      "onboard_time": 1730694682,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200794,
+      "num": 200794,
+      "word": "农村啃老现象抬头",
+      "onboard_time": 1730694862,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200349,
       "num": 200349,
       "word": "成都两家私人影院已停业关闭",
@@ -2307,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "100克瑞士卷等于3碗米饭不建议多吃",
+      "onboard_time": 1730694742,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195918,
       "num": 195918,
       "word": "Knight单杀Faker",
@@ -2376,14 +2416,6 @@
       "word": "猪肉炖粉条你尝不到了",
       "onboard_time": 1730645120,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189531,
-      "num": 325847,
-      "word": "关晓彤王安宇跳了APT",
-      "onboard_time": 1730694142,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -2505,6 +2537,22 @@
       "onboard_time": 1730619078,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178397,
+      "num": 299218,
+      "word": "央视曝光所谓军字号特供酒产业链",
+      "onboard_time": 1730689998,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "造城者",
+      "onboard_time": 1730694742,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 176891,
@@ -2707,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163394,
+      "num": 198318,
+      "word": "看大梦归离与全世界为敌",
+      "onboard_time": 1730694502,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "女子带娃骑车逆行被撞身亡自负主责",
@@ -2881,22 +2937,6 @@
       "onboard_time": 1730604141,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158511,
-      "num": 327608,
-      "word": "马斯克每天抽1名选民送100万美元",
-      "onboard_time": 1730693061,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 158057,
-      "num": 299218,
-      "word": "央视曝光所谓军字号特供酒产业链",
-      "onboard_time": 1730689998,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157752,
@@ -3763,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95508,
+      "num": 330039,
+      "word": "寻亲成功家庭发生纠纷多因财产",
+      "onboard_time": 1730693061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95499,
       "num": 95499,
       "word": "全红蝉变魔术",
@@ -4051,12 +4099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51902,
-      "num": 330039,
-      "word": "寻亲成功家庭发生纠纷多因财产",
-      "onboard_time": 1730693061,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 52272,
+      "num": 343589,
+      "word": "张雨霏好大大方方一女孩",
+      "onboard_time": 1730692942,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 51049,
@@ -4089,14 +4137,6 @@
       "onboard_time": 1730586552,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 48159,
-      "num": 325598,
-      "word": "张雨霏好大大方方一女孩",
-      "onboard_time": 1730692942,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 47748,
@@ -4203,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37083,
+      "num": 326962,
+      "word": "代工厂自制假司美每盒成本不到20元",
+      "onboard_time": 1730693123,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36816,
       "num": 347224,
       "word": "西双版纳文旅向麦子奶奶发出邀请",
@@ -4296,14 +4344,6 @@
       "word": "这波夜骑大学生开封出招接住了",
       "onboard_time": 1730653575,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26342,
-      "num": 326962,
-      "word": "代工厂自制假司美每盒成本不到20元",
-      "onboard_time": 1730693123,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4507,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18354,
+      "num": 663211,
+      "word": "东方风来进博之约",
+      "onboard_time": 1730692702,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18343,
       "num": 385132,
       "word": "复方阿胶浆药品追溯码重复波及多省",
@@ -4545,14 +4593,6 @@
       "onboard_time": 1730665511,
       "rank": 34,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 16486,
-      "num": 635860,
-      "word": "东方风来进博之约",
-      "onboard_time": 1730692702,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16105,
