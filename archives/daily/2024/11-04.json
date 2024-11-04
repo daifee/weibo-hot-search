@@ -1,6 +1,6 @@
 {
   "startTime": 1730651154035,
-  "endTime": 1730695289145,
+  "endTime": 1730697787801,
   "band_list": [
     {
       "raw_hot": 8517226,
@@ -28,15 +28,23 @@
     },
     {
       "raw_hot": 1769284,
-      "num": 417259,
+      "num": 446015,
       "word": "瑞士卷怎么分",
       "onboard_time": 1730684598,
       "rank": 44,
       "category": "情感"
     },
     {
+      "raw_hot": 1676778,
+      "num": 459474,
+      "word": "景甜做完手术正在康复训练",
+      "onboard_time": 1730695641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1587389,
-      "num": 356161,
+      "num": 456562,
       "word": "乔任梁母亲回应手臂伤口",
       "onboard_time": 1730690178,
       "rank": 19,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1427684,
-      "num": 350794,
+      "num": 458810,
       "word": "电梯内被捂嘴女孩妈妈发声",
       "onboard_time": 1730691620,
       "rank": 46,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1404983,
-      "num": 426187,
+      "num": 436684,
       "word": "张新成李兰迪新西兰同游照",
       "onboard_time": 1730689698,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 978291,
-      "num": 347402,
+      "num": 453076,
       "word": "丁禹兮 指甲建构",
       "onboard_time": 1730693182,
       "rank": 18,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 819594,
-      "num": 411342,
+      "num": 437090,
       "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
       "onboard_time": 1730684838,
       "rank": 22,
@@ -211,12 +219,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 617502,
+      "num": 617502,
+      "word": "马斯克每天抽1名选民送100万美元",
+      "onboard_time": 1730693061,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 589629,
       "num": 552385,
       "word": "孙颖莎生日",
       "onboard_time": 1730693182,
       "rank": 4,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 578662,
+      "num": 443021,
+      "word": "电梯被捂嘴女孩事后大哭做噩梦",
+      "onboard_time": 1730694682,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558580,
@@ -233,6 +257,22 @@
       "onboard_time": 1730629040,
       "rank": 5,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 551122,
+      "num": 551122,
+      "word": "赵丽颖黄晓明新剧开机",
+      "onboard_time": 1730695581,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 544149,
+      "num": 544149,
+      "word": "农村啃老现象抬头",
+      "onboard_time": 1730694862,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535033,
@@ -299,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465528,
+      "num": 465528,
+      "word": "歼35要来了吗",
+      "onboard_time": 1730695403,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 452684,
       "num": 452684,
       "word": "一觉醒来神十八3人回地球了",
@@ -337,6 +385,14 @@
       "onboard_time": 1730639960,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414698,
+      "num": 414698,
+      "word": "张若昀唐艺昕带女儿玩跷跷板",
+      "onboard_time": 1730697080,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 410828,
@@ -385,14 +441,6 @@
       "onboard_time": 1730689277,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 368264,
-      "num": 368264,
-      "word": "马斯克每天抽1名选民送100万美元",
-      "onboard_time": 1730693061,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 358759,
@@ -459,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330711,
+      "num": 330711,
+      "word": "向佐让赵露思教他跳操",
+      "onboard_time": 1730695581,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328188,
       "num": 340957,
       "word": "神舟十八号航天员平安抵京",
@@ -481,6 +537,14 @@
       "onboard_time": 1730642179,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312193,
+      "num": 312193,
+      "word": "奚梦瑶宣传",
+      "onboard_time": 1730695763,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 296581,
@@ -675,20 +739,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201069,
-      "num": 201069,
-      "word": "电梯被捂嘴女孩事后大哭做噩梦",
-      "onboard_time": 1730694682,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 204853,
+      "num": 204853,
+      "word": "高雅MV",
+      "onboard_time": 1730697261,
+      "rank": 36,
+      "category": "综艺"
     },
     {
-      "raw_hot": 200794,
-      "num": 200794,
-      "word": "农村啃老现象抬头",
-      "onboard_time": 1730694862,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 201202,
+      "num": 201202,
+      "word": "王楚钦赛前训练水灵灵一个爆冲",
+      "onboard_time": 1730696841,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199078,
+      "num": 199078,
+      "word": "100克瑞士卷等于3碗米饭不建议多吃",
+      "onboard_time": 1730694742,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197974,
@@ -715,12 +787,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196062,
-      "num": 196062,
-      "word": "100克瑞士卷等于3碗米饭不建议多吃",
-      "onboard_time": 1730694742,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 193447,
+      "num": 193447,
+      "word": "3个字赔了2000元",
+      "onboard_time": 1730697321,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190580,
+      "num": 190580,
+      "word": "心动的信号",
+      "onboard_time": 1730695462,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186969,
+      "num": 186969,
+      "word": "副市长31亿涉案资产背后的官场江湖",
+      "onboard_time": 1730697201,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184046,
@@ -737,6 +825,14 @@
       "onboard_time": 1730684238,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179370,
+      "num": 179370,
+      "word": "男孩电梯内捂嘴控制小女孩知情人发声",
+      "onboard_time": 1730695581,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178620,
@@ -803,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165943,
+      "num": 165943,
+      "word": "鞠婧祎梅耶马斯克同框",
+      "onboard_time": 1730696422,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "小巷人家 晓庆衫",
@@ -841,6 +945,14 @@
       "onboard_time": 1730686878,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162810,
+      "num": 445246,
+      "word": "永夜星河摇人 向佐穿书",
+      "onboard_time": 1730695522,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 161713,
@@ -1259,6 +1371,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 57443,
+      "num": 463022,
+      "word": "境内外人员勾结企图偷运金属镓出境",
+      "onboard_time": 1730696602,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56522,
       "num": 333793,
       "word": "刘亦菲明天出席微博视界大会",
@@ -1275,7 +1395,7 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 52272,
+      "raw_hot": 53041,
       "num": 343589,
       "word": "张雨霏好大大方方一女孩",
       "onboard_time": 1730692942,
@@ -1307,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49607,
+      "num": 206029,
+      "word": "微博视界大会第八波阵容",
+      "onboard_time": 1730696541,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47748,
       "num": 390960,
       "word": "何小鹏周鸿祎智驾征服北京最堵路口",
@@ -1329,6 +1457,14 @@
       "onboard_time": 1730631077,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42270,
+      "num": 450932,
+      "word": "微短剧付费陷阱套住中老年人",
+      "onboard_time": 1730696541,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42254,
@@ -1448,6 +1584,14 @@
       "word": "监控记录下的这一幕让人揪心",
       "onboard_time": 1730654115,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19733,
+      "num": 439942,
+      "word": "男子应聘货车司机被套路买车",
+      "onboard_time": 1730697441,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
