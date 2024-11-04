@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730684693043,
+  "endTime": 1730685859356,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -387,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872089,
+      "num": 1139534,
+      "word": "丁禹兮上桌",
+      "onboard_time": 1730683758,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 847225,
       "num": 847225,
       "word": "黄圣依入学中欧国际商学院EMBA",
       "onboard_time": 1730642179,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 830683,
+      "num": 336805,
+      "word": "特朗普承认有败选可能",
+      "onboard_time": 1730683699,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 788636,
@@ -417,6 +433,14 @@
       "onboard_time": 1730595440,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760222,
+      "num": 760222,
+      "word": "余承东称史上最强大的Mate11月见",
+      "onboard_time": 1730683520,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 758688,
@@ -635,14 +659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 595709,
-      "num": 595709,
-      "word": "余承东称史上最强大的Mate11月见",
-      "onboard_time": 1730683520,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 592231,
       "num": 592231,
       "word": "Uzi捧杯图P好了",
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558580,
+      "num": 476952,
+      "word": "一栗小莎子安利赵露思新剧",
+      "onboard_time": 1730682020,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 552446,
       "num": 639973,
       "word": "孙颖莎 欧扎克",
@@ -811,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499210,
+      "num": 499210,
+      "word": "Mate70",
+      "onboard_time": 1730683637,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 492086,
       "num": 643340,
       "word": "覃海洋回应近日争议",
@@ -841,14 +873,6 @@
       "onboard_time": 1730648119,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476952,
-      "num": 476952,
-      "word": "一栗小莎子安利赵露思新剧",
-      "onboard_time": 1730682020,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 472387,
@@ -1067,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403653,
+      "num": 403653,
+      "word": "世界乒联祝孙颖莎健康快乐",
+      "onboard_time": 1730680099,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403439,
       "num": 403439,
       "word": "学校回应王某某初赛违规",
@@ -1091,28 +1123,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 393528,
-      "num": 393528,
-      "word": "世界乒联祝孙颖莎健康快乐",
-      "onboard_time": 1730680099,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390838,
       "num": 390838,
       "word": "乔任梁",
       "onboard_time": 1730567118,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386142,
-      "num": 386142,
-      "word": "丁禹兮上桌",
-      "onboard_time": 1730683758,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 384830,
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 373050,
-      "num": 231328,
+      "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
       "onboard_time": 1730661311,
       "rank": 32,
@@ -1179,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363242,
+      "num": 363242,
+      "word": "航天员回地球前先点好了餐",
+      "onboard_time": 1730684417,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 362779,
       "num": 362779,
       "word": "美国女子带两娃跳下60米高瀑布",
@@ -1187,12 +1211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362608,
+      "num": 315453,
+      "word": "瑞士卷怎么分",
+      "onboard_time": 1730684598,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358759,
       "num": 358759,
       "word": "美国警告伊朗不要再袭击以色列",
       "onboard_time": 1730658611,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 356253,
+      "num": 209561,
+      "word": "引导失误致冠军变亚军痛失21万奖金",
+      "onboard_time": 1730685078,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 352455,
@@ -1219,20 +1259,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 336805,
-      "num": 336805,
-      "word": "特朗普承认有败选可能",
-      "onboard_time": 1730683699,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "小巷人家会成为下一部电子榨菜吗",
       "onboard_time": 1730549839,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333077,
+      "num": 297655,
+      "word": "麻辣女兵售后",
+      "onboard_time": 1730681659,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329974,
+      "num": 254182,
+      "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
+      "onboard_time": 1730684838,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323948,
@@ -1299,12 +1347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297655,
-      "num": 297655,
-      "word": "麻辣女兵售后",
-      "onboard_time": 1730681659,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 301783,
+      "num": 301783,
+      "word": "神舟十八号航天员平安抵京",
+      "onboard_time": 1730684719,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 296581,
@@ -1417,14 +1465,6 @@
       "onboard_time": 1730546359,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267350,
-      "num": 267350,
-      "word": "Mate70",
-      "onboard_time": 1730683637,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 267229,
@@ -1619,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234189,
+      "num": 234189,
+      "word": "陆克华涉嫌严重违纪违法被查",
+      "onboard_time": 1730684118,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233906,
       "num": 233906,
       "word": "拾荒老人去看病竟掏出一代身份证",
@@ -1811,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207475,
+      "num": 207475,
+      "word": "男孩电梯内将小女孩捂嘴控制抱走",
+      "onboard_time": 1730685018,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207120,
       "num": 207120,
       "word": "永夜星河云合超小巷人家",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1730612838,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "美国大选亿万富豪都支持谁",
+      "onboard_time": 1730684838,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 204805,
@@ -1980,7 +2044,7 @@
     },
     {
       "raw_hot": 197607,
-      "num": 210585,
+      "num": 246755,
       "word": "刘德华唱的中国人词曲作者均来自台湾",
       "onboard_time": 1730681240,
       "rank": 28,
@@ -2107,14 +2171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188687,
-      "num": 188687,
-      "word": "陆克华涉嫌严重违纪违法被查",
-      "onboard_time": 1730684118,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "羊绒衫为啥这么贵",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1730629159,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180653,
+      "num": 180653,
+      "word": "奥委会发文回顾孙颖莎精彩瞬间",
+      "onboard_time": 1730684238,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 180454,
@@ -2267,12 +2331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169733,
-      "num": 169733,
-      "word": "航天员回地球前先点好了餐",
-      "onboard_time": 1730684417,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 173310,
+      "num": 173310,
+      "word": "华为Mate70定档11月",
+      "onboard_time": 1730685440,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 169583,
@@ -2289,6 +2353,14 @@
       "onboard_time": 1730558180,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167588,
+      "num": 167588,
+      "word": "叶光富累计在轨飞行时长超1年",
+      "onboard_time": 1730684719,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167527,
@@ -2435,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161713,
+      "num": 382876,
+      "word": "航天员解说回地球太有画面感",
+      "onboard_time": 1730683938,
+      "rank": 9,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 161361,
       "num": 161361,
       "word": "权志龙居家生活照",
@@ -2505,14 +2585,6 @@
       "onboard_time": 1730638459,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158767,
-      "num": 158767,
-      "word": "奥委会发文回顾孙颖莎精彩瞬间",
-      "onboard_time": 1730684238,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 158684,
@@ -3083,6 +3155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120080,
+      "num": 120080,
+      "word": "返回地球路上神十八航天员在干啥",
+      "onboard_time": 1730684960,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120011,
       "num": 120011,
       "word": "战歌起",
@@ -3099,12 +3179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118463,
-      "num": 118463,
-      "word": "瑞士卷怎么分",
-      "onboard_time": 1730684598,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 118029,
+      "num": 118029,
+      "word": "民调显示哈里斯和特朗普支持率持平",
+      "onboard_time": 1730684719,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116891,
@@ -3145,6 +3225,14 @@
       "onboard_time": 1730619078,
       "rank": 42,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 113398,
+      "num": 113398,
+      "word": "幸运咖 王俊凯",
+      "onboard_time": 1730685678,
+      "rank": 44,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 113165,
@@ -3243,6 +3331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 103319,
+      "num": 103319,
+      "word": "特朗普称将在选举日发表讲话",
+      "onboard_time": 1730685678,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 103222,
       "num": 103222,
       "word": "中甲",
@@ -3265,6 +3361,14 @@
       "onboard_time": 1730674874,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98853,
+      "num": 98853,
+      "word": "Uzi谈不复出原因",
+      "onboard_time": 1730685798,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 98445,
@@ -3539,14 +3643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59855,
-      "num": 382876,
-      "word": "航天员解说回地球太有画面感",
-      "onboard_time": 1730683938,
-      "rank": 9,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 59263,
       "num": 59263,
       "word": "神十八航天员全部顺利出舱",
@@ -3755,6 +3851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35008,
+      "num": 356603,
+      "word": "周一精神状态belike",
+      "onboard_time": 1730682258,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 35000,
       "num": 87819,
       "word": "神十八航天员状态良好",
@@ -3867,14 +3971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24095,
-      "num": 356603,
-      "word": "周一精神状态belike",
-      "onboard_time": 1730682258,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23157,
       "num": 23157,
       "word": "黄磊回应被指好为人师",
@@ -3924,7 +4020,7 @@
     },
     {
       "raw_hot": 20411,
-      "num": 534312,
+      "num": 662604,
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
       "rank": 2,
