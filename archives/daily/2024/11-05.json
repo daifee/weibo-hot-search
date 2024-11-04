@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730758830579,
+  "endTime": 1730759777282,
   "band_list": [
     {
       "raw_hot": 1209270,
@@ -171,6 +171,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223691,
+      "num": 161071,
+      "word": "缅甸小姐未夺冠当场翻脸",
+      "onboard_time": 1730709919,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216402,
+      "num": 451725,
+      "word": "杨子的财产黄圣依能分多少",
+      "onboard_time": 1730730920,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194019,
+      "num": 194019,
+      "word": "当地回应班主任在家长群催缴医保",
+      "onboard_time": 1730741294,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192828,
       "num": 192828,
       "word": "英国男子捡到人头以为是恶作剧",
@@ -227,22 +251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167627,
-      "num": 365870,
-      "word": "杨子的财产黄圣依能分多少",
-      "onboard_time": 1730730920,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161071,
-      "num": 161071,
-      "word": "缅甸小姐未夺冠当场翻脸",
-      "onboard_time": 1730709919,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151302,
       "num": 151302,
       "word": "Faker 第五冠献给粉丝",
@@ -256,14 +264,6 @@
       "word": "传单印广西大学副院长强奸女学生",
       "onboard_time": 1730736738,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132963,
-      "num": 132963,
-      "word": "当地回应班主任在家长群催缴医保",
-      "onboard_time": 1730741294,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -281,6 +281,14 @@
       "onboard_time": 1730739376,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128702,
+      "num": 128702,
+      "word": "特朗普与哈里斯继续决战摇摆州",
+      "onboard_time": 1730746572,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 128206,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99584,
+      "num": 99584,
+      "word": "一句赵叔直接从外国干回东北地头",
+      "onboard_time": 1730757012,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97563,
       "num": 97563,
       "word": "张继科开业球馆不对外营业",
@@ -411,27 +427,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88665,
-      "num": 119453,
-      "word": "特朗普与哈里斯继续决战摇摆州",
-      "onboard_time": 1730746572,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 77147,
       "num": 348859,
       "word": "快餐店成为年轻人举办婚礼的新选择",
       "onboard_time": 1730736499,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74679,
-      "num": 74679,
-      "word": "一句赵叔直接从外国干回东北地头",
-      "onboard_time": 1730757012,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 38705,
-      "num": 40825,
+      "num": 53470,
       "word": "孟子义短发红毯",
       "onboard_time": 1730748970,
       "rank": 7,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25403,
+      "num": 26854,
+      "word": "虞书欣角色宇宙",
+      "onboard_time": 1730753651,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23278,
       "num": 23278,
       "word": "广西大学回应副院长被指强奸女学生",
@@ -531,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21632,
-      "num": 24102,
-      "word": "虞书欣角色宇宙",
-      "onboard_time": 1730753651,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 21671,
+      "num": 96615,
+      "word": "中方在WTO起诉欧盟电动汽车反补贴终裁措施",
+      "onboard_time": 1730758272,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21185,
@@ -587,20 +595,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14747,
-      "num": 96615,
-      "word": "中方在WTO起诉欧盟电动汽车反补贴终裁措施",
-      "onboard_time": 1730758272,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14293,
       "num": 18985,
       "word": "神十八返回舱如流星般划过天际",
       "onboard_time": 1730749632,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14005,
+      "num": 45646,
+      "word": "盘点中国航展国之重器亮相瞬间",
+      "onboard_time": 1730759593,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13050,
@@ -611,8 +619,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12182,
+      "num": 53277,
+      "word": "共享单车企业回应大学生夜骑开封",
+      "onboard_time": 1730759714,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11668,
+      "num": 35530,
+      "word": "善良遇上善良这一刻具象化了",
+      "onboard_time": 1730759474,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 3322,
-      "num": 181852,
+      "num": 195194,
       "word": "一片回顾神十八返回全过程",
       "onboard_time": 1730723360,
       "rank": 25,
