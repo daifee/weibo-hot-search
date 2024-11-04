@@ -1,0 +1,410 @@
+{
+  "runTime": 1730704911246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1698349,
+        "num": 1698349,
+        "word": "周雨彤发文",
+        "onboard_time": 1730690540,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758757,
+        "num": 758757,
+        "word": "烧伤妈妈丈夫回应妻子脸上是否落疤",
+        "onboard_time": 1730700139,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25535,
+        "num": 752313,
+        "word": "东方风来进博之约",
+        "onboard_time": 1730692702,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751158,
+        "num": 751158,
+        "word": "电梯内被捂嘴女孩妈妈发声",
+        "onboard_time": 1730691620,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483305,
+        "num": 483305,
+        "word": "瑞士卷怎么分",
+        "onboard_time": 1730684598,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478966,
+        "num": 478966,
+        "word": "刘宇宁 救场",
+        "onboard_time": 1730697979,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474258,
+        "num": 474258,
+        "word": "于正回应虞书欣永夜星河大爆",
+        "onboard_time": 1730703439,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463616,
+        "num": 463616,
+        "word": "马斯克每天抽1名选民送100万美元",
+        "onboard_time": 1730693061,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 458816,
+        "num": 458816,
+        "word": "警方通报电梯内小女孩被捂嘴抱走",
+        "onboard_time": 1730702839,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408380,
+        "num": 458807,
+        "word": "瑞士卷怎么分席卷全网老公",
+        "onboard_time": 1730687837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180463,
+        "num": 451226,
+        "word": "景甜做完手术正在康复训练",
+        "onboard_time": 1730695641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801547,
+        "num": 448496,
+        "word": "权志凤",
+        "onboard_time": 1730699180,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751520,
+        "num": 444768,
+        "word": "张继科球馆开业",
+        "onboard_time": 1730700139,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552724,
+        "num": 435594,
+        "word": "丁禹兮 指甲建构",
+        "onboard_time": 1730693182,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30417,
+        "num": 434097,
+        "word": "64岁脱口秀演员说幽默不退休",
+        "onboard_time": 1730704218,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514064,
+        "num": 429575,
+        "word": "乔任梁母亲回应手臂伤口",
+        "onboard_time": 1730690178,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426171,
+        "num": 426171,
+        "word": "周雨彤 我没有那么糟糕",
+        "onboard_time": 1730691681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411037,
+        "num": 411037,
+        "word": "今年美国大选将成史上最贵一次",
+        "onboard_time": 1730700920,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 342883,
+        "num": 342883,
+        "word": "毓言 香港",
+        "onboard_time": 1730699000,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22099,
+        "num": 332872,
+        "word": "职场扮蠢能去班味吗",
+        "onboard_time": 1730703919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361361,
+        "num": 330844,
+        "word": "3个字赔了2000元",
+        "onboard_time": 1730697321,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323971,
+        "num": 323971,
+        "word": "张若昀唐艺昕带女儿玩跷跷板",
+        "onboard_time": 1730697080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295329,
+        "num": 295329,
+        "word": "歼35要来了吗",
+        "onboard_time": 1730695403,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262802,
+        "num": 262802,
+        "word": "珠帘玉幕第10集 偷偷藏不住",
+        "onboard_time": 1730703739,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262034,
+        "num": 262034,
+        "word": "农村啃老现象抬头",
+        "onboard_time": 1730694862,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261123,
+        "num": 261123,
+        "word": "赵露思说韩安冉很鼓励她",
+        "onboard_time": 1730703919,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250079,
+        "num": 250079,
+        "word": "赵丽颖黄晓明新剧开机",
+        "onboard_time": 1730695581,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236477,
+        "num": 236477,
+        "word": "王鹤棣美式上下前后左右刺",
+        "onboard_time": 1730702240,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1564758,
+        "num": 236182,
+        "word": "电梯被捂嘴女孩事后大哭做噩梦",
+        "onboard_time": 1730694682,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235475,
+        "num": 235475,
+        "word": "孙颖莎生日",
+        "onboard_time": 1730693182,
+        "rank": 29,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 233202,
+        "num": 233202,
+        "word": "涵艺爆料LPL工资帽",
+        "onboard_time": 1730704337,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221563,
+        "num": 221563,
+        "word": "偶遇彭高",
+        "onboard_time": 1730699779,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204765,
+        "num": 204765,
+        "word": "向佐海报都是向左发的",
+        "onboard_time": 1730704039,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196962,
+        "num": 196962,
+        "word": "蒋欣演技太好了",
+        "onboard_time": 1730701879,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180384,
+        "num": 180384,
+        "word": "陶昕然夹缝之间路演",
+        "onboard_time": 1730703859,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173998,
+        "num": 173998,
+        "word": "代高政 脱的衣服我要一件件穿回来",
+        "onboard_time": 1730703258,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170209,
+        "num": 170209,
+        "word": "一图看懂2024年美国大选",
+        "onboard_time": 1730701640,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168061,
+        "num": 168061,
+        "word": "永夜星河求加更",
+        "onboard_time": 1730689038,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28987,
+        "num": 165626,
+        "word": "樊振东说体育是相通的",
+        "onboard_time": 1730703078,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165058,
+        "num": 165058,
+        "word": "孙颖莎24岁13个世界冠军",
+        "onboard_time": 1730689818,
+        "rank": 39,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 164686,
+        "num": 164686,
+        "word": "警方回应男孩电梯内将小女孩捂嘴抱走",
+        "onboard_time": 1730684838,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97678,
+        "num": 164566,
+        "word": "NCT送郑在玹入伍",
+        "onboard_time": 1730703439,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164447,
+        "num": 164447,
+        "word": "造谣者以为福州警方不会去北方抓人",
+        "onboard_time": 1730699661,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162058,
+        "num": 162058,
+        "word": "涵艺透露LPL外援顶薪1050万",
+        "onboard_time": 1730704398,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144212,
+        "num": 144212,
+        "word": "高雅CP 我们生活里见",
+        "onboard_time": 1730700321,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143278,
+        "num": 143278,
+        "word": "神十八3人回家带了近70斤太空特产",
+        "onboard_time": 1730692281,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141069,
+        "num": 141069,
+        "word": "收入减半的中产开始反向换房自救",
+        "onboard_time": 1730704640,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110009,
+        "num": 139968,
+        "word": "引导失误致冠军变亚军痛失21万奖金",
+        "onboard_time": 1730685078,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106547,
+        "num": 139101,
+        "word": "余承东称史上最强大的Mate11月见",
+        "onboard_time": 1730683520,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博会见证开放与创新的双向奔赴#"
+    }
+  }
+}
