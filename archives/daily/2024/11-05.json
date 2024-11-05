@@ -1,7 +1,15 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730775064102,
+  "endTime": 1730775613178,
   "band_list": [
+    {
+      "raw_hot": 2370295,
+      "num": 2370295,
+      "word": "考研报名禁用海马体照片",
+      "onboard_time": 1730774358,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 1749291,
       "num": 1749291,
@@ -25,14 +33,6 @@
       "onboard_time": 1730769679,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1459379,
-      "num": 1459379,
-      "word": "考研报名禁用海马体照片",
-      "onboard_time": 1730774358,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1405650,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445038,
+      "num": 445038,
+      "word": "歼35A官方照片",
+      "onboard_time": 1730774298,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 436216,
       "num": 436216,
       "word": "成都一火锅店回收底油再给顾客食用",
@@ -305,6 +313,22 @@
       "onboard_time": 1730735300,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 379405,
+      "num": 359749,
+      "word": "G2再次邀请Uzi加入",
+      "onboard_time": 1730774719,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 372459,
+      "num": 372459,
+      "word": "手指吻",
+      "onboard_time": 1730774178,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 367388,
@@ -363,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298868,
-      "num": 298868,
-      "word": "歼35A官方照片",
-      "onboard_time": 1730774298,
-      "rank": 22,
-      "category": "军事"
-    },
-    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "当地回应班主任在家长群催缴医保",
@@ -403,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272570,
+      "num": 272570,
+      "word": "湖南夫妻理发店因听劝爆火",
+      "onboard_time": 1730774481,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269760,
+      "num": 269760,
+      "word": "假性亲密关系",
+      "onboard_time": 1730771720,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255588,
       "num": 255588,
       "word": "薛之谦朱桢喝趴了",
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247429,
-      "num": 247429,
-      "word": "手指吻",
-      "onboard_time": 1730774178,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 250281,
+      "num": 250281,
+      "word": "红19地空导弹首次展出",
+      "onboard_time": 1730774358,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 233059,
@@ -435,20 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231687,
-      "num": 231687,
-      "word": "红19地空导弹首次展出",
-      "onboard_time": 1730774358,
-      "rank": 28,
-      "category": "军事"
+      "raw_hot": 214109,
+      "num": 214109,
+      "word": "小猫 那咋了",
+      "onboard_time": 1730770520,
+      "rank": 45,
+      "category": "幽默"
     },
     {
-      "raw_hot": 229127,
-      "num": 229127,
-      "word": "G2再次邀请Uzi加入",
-      "onboard_time": 1730774719,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 210377,
+      "num": 210377,
+      "word": "花少坦桑尼亚站",
+      "onboard_time": 1730772680,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 207447,
@@ -475,30 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206001,
-      "num": 186956,
-      "word": "小猫 那咋了",
-      "onboard_time": 1730770520,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 204633,
-      "num": 204633,
-      "word": "花少坦桑尼亚站",
-      "onboard_time": 1730772680,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203205,
-      "num": 203205,
-      "word": "假性亲密关系",
-      "onboard_time": 1730771720,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195126,
       "num": 286330,
       "word": "小巷人家 苏州",
@@ -515,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185052,
-      "num": 185052,
-      "word": "湖南夫妻理发店因听劝爆火",
-      "onboard_time": 1730774481,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183895,
       "num": 183895,
       "word": "孙颖莎24岁生日发文",
       "onboard_time": 1730724619,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181383,
+      "num": 181383,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 181054,
@@ -563,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178793,
-      "num": 178793,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 175508,
       "num": 175508,
       "word": "小巷人家庄桦林自私吗",
       "onboard_time": 1730768479,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174619,
+      "num": 174619,
+      "word": "中国空军回应新装备何时亮相",
+      "onboard_time": 1730774540,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 174200,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172169,
+      "num": 172169,
+      "word": "中国更牛的空军装备一定符合预期",
+      "onboard_time": 1730774358,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 171087,
       "num": 171087,
       "word": "对虞书欣感情很复杂 想生她",
@@ -609,22 +625,6 @@
       "onboard_time": 1730768060,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165986,
-      "num": 165986,
-      "word": "中国更牛的空军装备一定符合预期",
-      "onboard_time": 1730774358,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 159447,
-      "num": 159447,
-      "word": "中国空军回应新装备何时亮相",
-      "onboard_time": 1730774540,
-      "rank": 41,
-      "category": "军事"
     },
     {
       "raw_hot": 157879,
@@ -665,6 +665,14 @@
       "onboard_time": 1730767879,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139557,
+      "num": 139557,
+      "word": "林诗栋喊孙颖莎留蛋糕",
+      "onboard_time": 1730775440,
+      "rank": 45,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 139206,
@@ -745,6 +753,14 @@
       "onboard_time": 1730767100,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122478,
+      "num": 122478,
+      "word": "西北岁月开播",
+      "onboard_time": 1730775440,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122022,
@@ -875,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82407,
+      "num": 535011,
+      "word": "中国航展",
+      "onboard_time": 1730774778,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 77147,
       "num": 348859,
       "word": "快餐店成为年轻人举办婚礼的新选择",
@@ -923,6 +947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 58393,
+      "num": 492228,
+      "word": "美国大选即将开始记者探访摇摆州",
+      "onboard_time": 1730773999,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 55613,
       "num": 287275,
       "word": "死亡游戏为何能在孩子间流行",
@@ -937,14 +969,6 @@
       "onboard_time": 1730740394,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48614,
-      "num": 535011,
-      "word": "中国航展",
-      "onboard_time": 1730774778,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 48055,
@@ -963,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43773,
-      "num": 466082,
-      "word": "美国大选即将开始记者探访摇摆州",
-      "onboard_time": 1730773999,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 43535,
       "num": 73778,
       "word": "死亡游戏让人快速达到窒息缺氧状态",
@@ -985,6 +1001,14 @@
       "onboard_time": 1730730262,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38841,
+      "num": 492515,
+      "word": "大学生夜骑可别忘了安全第一",
+      "onboard_time": 1730775500,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37754,

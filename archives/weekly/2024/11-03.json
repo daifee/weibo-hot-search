@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730775064102,
+  "endTime": 1730775613178,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -113,6 +113,14 @@
       "onboard_time": 1730568736,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2370295,
+      "num": 2370295,
+      "word": "考研报名禁用海马体照片",
+      "onboard_time": 1730774358,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2317454,
@@ -369,14 +377,6 @@
       "onboard_time": 1730641761,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1459379,
-      "num": 1459379,
-      "word": "考研报名禁用海马体照片",
-      "onboard_time": 1730774358,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1448422,
@@ -1811,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445038,
+      "num": 445038,
+      "word": "歼35A官方照片",
+      "onboard_time": 1730774298,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 442130,
       "num": 634925,
       "word": "美国大选前夕更多富人计划离开美国",
@@ -2107,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 379405,
+      "num": 359749,
+      "word": "G2再次邀请Uzi加入",
+      "onboard_time": 1730774719,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 378284,
       "num": 378284,
       "word": "加里奥",
@@ -2120,6 +2136,14 @@
       "word": "张凌赫发文虞书欣永夜星河",
       "onboard_time": 1730661311,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 372459,
+      "num": 372459,
+      "word": "手指吻",
+      "onboard_time": 1730774178,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -2411,14 +2435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298868,
-      "num": 298868,
-      "word": "歼35A官方照片",
-      "onboard_time": 1730774298,
-      "rank": 22,
-      "category": "军事"
-    },
-    {
       "raw_hot": 296581,
       "num": 296581,
       "word": "王楚钦奥运肩伤内幕曝光",
@@ -2595,6 +2611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272570,
+      "num": 272570,
+      "word": "湖南夫妻理发店因听劝爆火",
+      "onboard_time": 1730774481,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269760,
+      "num": 269760,
+      "word": "假性亲密关系",
+      "onboard_time": 1730771720,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269396,
       "num": 269396,
       "word": "被拐34年男子认亲一年后与家人决裂",
@@ -2763,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250281,
+      "num": 250281,
+      "word": "红19地空导弹首次展出",
+      "onboard_time": 1730774358,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 249665,
       "num": 415748,
       "word": "三国重臣张昭墓在南京考古发掘完毕",
@@ -2785,14 +2825,6 @@
       "onboard_time": 1730630359,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247429,
-      "num": 247429,
-      "word": "手指吻",
-      "onboard_time": 1730774178,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 247173,
@@ -2955,14 +2987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 231687,
-      "num": 231687,
-      "word": "红19地空导弹首次展出",
-      "onboard_time": 1730774358,
-      "rank": 28,
-      "category": "军事"
-    },
-    {
       "raw_hot": 231650,
       "num": 231650,
       "word": "郑钦文回应再次不敌萨巴伦卡",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1730637919,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229127,
-      "num": 229127,
-      "word": "G2再次邀请Uzi加入",
-      "onboard_time": 1730774719,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 229034,
@@ -3155,6 +3171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214109,
+      "num": 214109,
+      "word": "小猫 那咋了",
+      "onboard_time": 1730770520,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213557,
       "num": 213557,
       "word": "第一次吃柿子的大熊猫满脸陶醉",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1730643680,
       "rank": 19,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 210377,
+      "num": 210377,
+      "word": "花少坦桑尼亚站",
+      "onboard_time": 1730772680,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 209773,
@@ -3371,14 +3403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206001,
-      "num": 186956,
-      "word": "小猫 那咋了",
-      "onboard_time": 1730770520,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205518,
       "num": 219258,
       "word": "刘宇宁演技",
@@ -3427,14 +3451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204633,
-      "num": 204633,
-      "word": "花少坦桑尼亚站",
-      "onboard_time": 1730772680,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "涵艺透露LPL外援顶薪1050万",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1730602700,
       "rank": 30,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 203205,
-      "num": 203205,
-      "word": "假性亲密关系",
-      "onboard_time": 1730771720,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 202938,
@@ -3915,14 +3923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185052,
-      "num": 185052,
-      "word": "湖南夫妻理发店因听劝爆火",
-      "onboard_time": 1730774481,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184046,
       "num": 184046,
       "word": "王楚钦法兰克福首秀",
@@ -4147,6 +4147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174619,
+      "num": 174619,
+      "word": "中国空军回应新装备何时亮相",
+      "onboard_time": 1730774540,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 174426,
       "num": 174426,
       "word": "永夜星河双榜TOP1",
@@ -4225,6 +4233,14 @@
       "onboard_time": 1730710219,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172169,
+      "num": 172169,
+      "word": "中国更牛的空军装备一定符合预期",
+      "onboard_time": 1730774358,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 171225,
@@ -4361,14 +4377,6 @@
       "onboard_time": 1730731343,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165986,
-      "num": 165986,
-      "word": "中国更牛的空军装备一定符合预期",
-      "onboard_time": 1730774358,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 165943,
@@ -4649,14 +4657,6 @@
       "onboard_time": 1730715620,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159447,
-      "num": 159447,
-      "word": "中国空军回应新装备何时亮相",
-      "onboard_time": 1730774540,
-      "rank": 41,
-      "category": "军事"
     },
     {
       "raw_hot": 158878,
@@ -5139,6 +5139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139557,
+      "num": 139557,
+      "word": "林诗栋喊孙颖莎留蛋糕",
+      "onboard_time": 1730775440,
+      "rank": 45,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 139249,
       "num": 344136,
       "word": "美总统大选最后冲刺",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1730627539,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122478,
+      "num": 122478,
+      "word": "西北岁月开播",
+      "onboard_time": 1730775440,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122022,
@@ -6083,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82407,
+      "num": 535011,
+      "word": "中国航展",
+      "onboard_time": 1730774778,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 82395,
       "num": 105161,
       "word": "李佳航为BLG加油",
@@ -6323,6 +6347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 58393,
+      "num": 492228,
+      "word": "美国大选即将开始记者探访摇摆州",
+      "onboard_time": 1730773999,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 56918,
       "num": 511459,
       "word": "杀害同村六旬老妇的男子已被抓",
@@ -6467,14 +6499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48614,
-      "num": 535011,
-      "word": "中国航展",
-      "onboard_time": 1730774778,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 48442,
       "num": 48442,
       "word": "神十八航天员完成全部既定任务",
@@ -6537,14 +6561,6 @@
       "onboard_time": 1730741053,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43773,
-      "num": 466082,
-      "word": "美国大选即将开始记者探访摇摆州",
-      "onboard_time": 1730773999,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 43535,
@@ -6632,6 +6648,14 @@
       "word": "目前国内电竞俱乐部大部分亏损",
       "onboard_time": 1730640439,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38841,
+      "num": 492515,
+      "word": "大学生夜骑可别忘了安全第一",
+      "onboard_time": 1730775500,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
