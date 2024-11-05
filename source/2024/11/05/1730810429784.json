@@ -1,0 +1,410 @@
+{
+  "runTime": 1730810429784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1737866,
+        "num": 1737866,
+        "word": "虞书欣赵露思 互拍",
+        "onboard_time": 1730809342,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 789810,
+        "num": 789810,
+        "word": "6岁女孩冷冻卵巢组织免化疗损害",
+        "onboard_time": 1730804541,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4574,
+        "num": 789297,
+        "word": "在建世界最高桥新进展来了",
+        "onboard_time": 1730795121,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789283,
+        "num": 789283,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671696,
+        "num": 788426,
+        "word": "女儿被录到土木专业父母感觉天塌了",
+        "onboard_time": 1730806401,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1506621,
+        "num": 784611,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 971923,
+        "num": 778283,
+        "word": "虞书欣去当站姐了",
+        "onboard_time": 1730806702,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 858191,
+        "num": 773554,
+        "word": "陈雪凝回应抄袭汪苏泷",
+        "onboard_time": 1730805020,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 771714,
+        "num": 771714,
+        "word": "刘谦抗癌成功称已完全康复",
+        "onboard_time": 1730803582,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56838,
+        "num": 758316,
+        "word": "海马体照片被拒呼唤人们面对真实自我",
+        "onboard_time": 1730809342,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007083,
+        "num": 757532,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 755281,
+        "num": 755281,
+        "word": "哈里斯特朗普竞选主张大pk",
+        "onboard_time": 1730806160,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 684865,
+        "num": 684865,
+        "word": "微博视界大会",
+        "onboard_time": 1730802441,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545514,
+        "num": 545514,
+        "word": "美国迎来史上最势均力敌总统选举",
+        "onboard_time": 1730803282,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 582516,
+        "num": 526449,
+        "word": "王鹤棣 向佐为什么穿那么性感",
+        "onboard_time": 1730808681,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424385,
+        "num": 424385,
+        "word": "莫雷加德说王楚钦是世界上最好的球员",
+        "onboard_time": 1730805561,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374453,
+        "num": 374453,
+        "word": "付费自习室里多少人在表演性学习",
+        "onboard_time": 1730800762,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324872,
+        "num": 324872,
+        "word": "永夜星河",
+        "onboard_time": 1730803641,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283777,
+        "num": 283777,
+        "word": "女子哭诉残障母亲在养老院遭多次猥亵",
+        "onboard_time": 1730807302,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35164,
+        "num": 270826,
+        "word": "16岁少年疑被骗至缅北后续",
+        "onboard_time": 1730809642,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665033,
+        "num": 267190,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27795,
+        "num": 264717,
+        "word": "微博视界大会手机生图超绝",
+        "onboard_time": 1730809461,
+        "rank": 21,
+        "category": "剧集,数码"
+      },
+      {
+        "raw_hot": 262578,
+        "num": 262578,
+        "word": "人事造假冒领工资近两千万",
+        "onboard_time": 1730800522,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256169,
+        "num": 256169,
+        "word": "女子擦水乳超长美甲把鼻孔戳出血",
+        "onboard_time": 1730809702,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231153,
+        "num": 231153,
+        "word": "肖战黑粉未道歉被公告",
+        "onboard_time": 1730805439,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224506,
+        "num": 224506,
+        "word": "美国东海岸投票站开放",
+        "onboard_time": 1730806642,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217825,
+        "num": 217825,
+        "word": "清华大学发了凌妙妙转场",
+        "onboard_time": 1730798122,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215179,
+        "num": 215179,
+        "word": "海马体全国开通考研照绿通服务",
+        "onboard_time": 1730803041,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171964,
+        "num": 215143,
+        "word": "警方将排查网传女子路边被强暴事件",
+        "onboard_time": 1730796262,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166429,
+        "num": 214514,
+        "word": "张艺兴工作室私信17岁高中生",
+        "onboard_time": 1730798662,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165783,
+        "num": 214220,
+        "word": "深圳多名学生骑电单车发生意外",
+        "onboard_time": 1730807242,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165381,
+        "num": 213812,
+        "word": "产妇须尽快剖腹产家属要求卡点生娃",
+        "onboard_time": 1730792781,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148744,
+        "num": 213581,
+        "word": "海马体回应考研报名被禁用",
+        "onboard_time": 1730784259,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148562,
+        "num": 213250,
+        "word": "警方回应柳州女子疑喝醉在路边被强暴",
+        "onboard_time": 1730791400,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133473,
+        "num": 212837,
+        "word": "永夜星河预告有吻戏",
+        "onboard_time": 1730806642,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130670,
+        "num": 212659,
+        "word": "金珉奎IG更新",
+        "onboard_time": 1730806942,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129095,
+        "num": 212095,
+        "word": "Knight删除BLG相关微博",
+        "onboard_time": 1730794940,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124351,
+        "num": 211733,
+        "word": "Knight取消回城嘲讽Faker",
+        "onboard_time": 1730796621,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122351,
+        "num": 211574,
+        "word": "永夜星河时长",
+        "onboard_time": 1730805622,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122100,
+        "num": 211231,
+        "word": "德约科维奇退出年终总决赛",
+        "onboard_time": 1730808082,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117290,
+        "num": 210926,
+        "word": "永远不要小瞧女人变美的决心",
+        "onboard_time": 1730809702,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114345,
+        "num": 210667,
+        "word": "市委书记落马政绩工程将被拆除",
+        "onboard_time": 1730810121,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 210254,
+        "word": "金星伴月",
+        "onboard_time": 1730806040,
+        "rank": 42,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 112540,
+        "num": 209941,
+        "word": "美国面包店因总统选举大捞一笔",
+        "onboard_time": 1730792120,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104982,
+        "num": 209565,
+        "word": "这就是未来的样子",
+        "onboard_time": 1730810182,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438542,
+        "num": 209192,
+        "word": "向佐郭碧婷 再见爱人",
+        "onboard_time": 1730801362,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104022,
+        "num": 208773,
+        "word": "Knight取关BLG",
+        "onboard_time": 1730800221,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94964,
+        "num": 208495,
+        "word": "货车司机撞上劳斯莱斯被判全责",
+        "onboard_time": 1730810242,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91571,
+        "num": 208139,
+        "word": "开封大学生骑行反击郑州听劝式接招",
+        "onboard_time": 1730795720,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82191,
+        "num": 207859,
+        "word": "叠纸心意",
+        "onboard_time": 1730804899,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖北考察调研#"
+    }
+  }
+}
