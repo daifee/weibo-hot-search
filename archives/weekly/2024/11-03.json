@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730846353079,
+  "endTime": 1730848940628,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -145,6 +145,14 @@
       "onboard_time": 1730568736,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2407381,
+      "num": 1031217,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2317454,
@@ -315,20 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1688536,
-      "num": 1031217,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 10,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1674389,
       "num": 1674389,
       "word": "绝境李相赫",
       "onboard_time": 1730569042,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1668416,
+      "num": 1668416,
+      "word": "河南女子被害前打电话喊妈妈救命",
+      "onboard_time": 1730822840,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1652571,
@@ -369,6 +377,14 @@
       "onboard_time": 1730611279,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1609863,
+      "num": 560770,
+      "word": "哈里斯敲门拉选票最后一搏",
+      "onboard_time": 1730841491,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1590041,
@@ -537,6 +553,14 @@
       "onboard_time": 1730811441,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1352145,
+      "num": 545514,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1342703,
@@ -953,14 +977,6 @@
       "onboard_time": 1730770099,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 952106,
-      "num": 952106,
-      "word": "河南女子被害前打电话喊妈妈救命",
-      "onboard_time": 1730822840,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 950381,
@@ -1603,14 +1619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 643370,
-      "num": 545514,
-      "word": "美国迎来史上最势均力敌总统选举",
-      "onboard_time": 1730803282,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 643066,
       "num": 643066,
       "word": "苏州一小区给业主分红户均分到4位数",
@@ -1971,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 560770,
-      "num": 560770,
-      "word": "哈里斯敲门拉选票最后一搏",
-      "onboard_time": 1730841491,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 559100,
       "num": 4270078,
       "word": "成功95花的背后",
@@ -2177,6 +2177,14 @@
       "onboard_time": 1730727620,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510384,
+      "num": 510384,
+      "word": "混血女儿英语倒数爸爸不淡定了",
+      "onboard_time": 1730825956,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507191,
@@ -2379,6 +2387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 456807,
+      "num": 456807,
+      "word": "撞上劳斯莱斯的货车只有100万保险",
+      "onboard_time": 1730821401,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455424,
       "num": 297094,
       "word": "村民发现烈士墓碑被绑电线杆上",
@@ -2521,6 +2537,14 @@
       "onboard_time": 1730718800,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 429233,
+      "num": 429233,
+      "word": "所谓饭圈大粉不到一年骗350多万元",
+      "onboard_time": 1730841433,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427687,
@@ -2689,6 +2713,14 @@
       "onboard_time": 1730573477,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 392139,
+      "num": 392139,
+      "word": "字节跳动103人违法违规被辞退",
+      "onboard_time": 1730823979,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 390838,
@@ -2937,14 +2969,6 @@
       "onboard_time": 1730731642,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 347810,
-      "num": 347810,
-      "word": "撞上劳斯莱斯的货车只有100万保险",
-      "onboard_time": 1730821401,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344508,
@@ -3281,6 +3305,14 @@
       "onboard_time": 1730812703,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303919,
+      "num": 303919,
+      "word": "张泉灵没预料到麦琳引发关注",
+      "onboard_time": 1730823918,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299831,
@@ -3635,14 +3667,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 263119,
-      "num": 157825,
-      "word": "张泉灵没预料到麦琳引发关注",
-      "onboard_time": 1730823918,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262802,
       "num": 262802,
       "word": "珠帘玉幕第10集 偷偷藏不住",
@@ -3883,14 +3907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 243891,
-      "num": 243891,
-      "word": "混血女儿英语倒数爸爸不淡定了",
-      "onboard_time": 1730825956,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243296,
       "num": 339415,
       "word": "白鹿郑书意",
@@ -4121,14 +4137,6 @@
       "onboard_time": 1730803041,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 226890,
-      "num": 226890,
-      "word": "所谓饭圈大粉不到一年骗350多万元",
-      "onboard_time": 1730841433,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226574,
@@ -5667,14 +5675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173616,
-      "num": 122264,
-      "word": "字节跳动103人违法违规被辞退",
-      "onboard_time": 1730823979,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 173486,
       "num": 186914,
       "word": "陈楚生直播",
@@ -5824,6 +5824,14 @@
       "word": "烧伤妈妈怕孩子不爱她了",
       "onboard_time": 1730711540,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168604,
+      "num": 168604,
+      "word": "分个瑞士卷也要全网讨论吗",
+      "onboard_time": 1730844433,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6673,6 +6681,14 @@
       "onboard_time": 1730793981,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "我国县级博物馆卧虎藏龙",
+      "onboard_time": 1730844312,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143612,
@@ -7699,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110154,
+      "num": 110154,
+      "word": "故宫银杏叶已满目金黄",
+      "onboard_time": 1730846715,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109324,
       "num": 279958,
       "word": "魏哲鸣 我的新郎",
@@ -7883,6 +7907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100201,
+      "num": 100201,
+      "word": "行贿者一次性送150瓶五粮液",
+      "onboard_time": 1730830632,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98445,
       "num": 112505,
       "word": "郑钦文总决赛出线形势分析",
@@ -7977,14 +8009,6 @@
       "onboard_time": 1730773817,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94625,
-      "num": 132330,
-      "word": "分个瑞士卷也要全网讨论吗",
-      "onboard_time": 1730844433,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94468,
@@ -8091,6 +8115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83756,
+      "num": 83756,
+      "word": "媒体评瑞士卷事件",
+      "onboard_time": 1730837412,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83599,
       "num": 83599,
       "word": "成都持械伤人事件不存在克扣工资问题",
@@ -8121,14 +8153,6 @@
       "onboard_time": 1730600898,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80162,
-      "num": 80162,
-      "word": "媒体评瑞士卷事件",
-      "onboard_time": 1730837412,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80014,
@@ -8171,20 +8195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76943,
+      "num": 76943,
+      "word": "葡萄牙体育4比1曼城",
+      "onboard_time": 1730848818,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75920,
       "num": 664303,
       "word": "新中型隐身多用途战斗机歼35A",
       "onboard_time": 1730771358,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 74752,
-      "num": 96736,
-      "word": "行贿者一次性送150瓶五粮液",
-      "onboard_time": 1730830632,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74654,
@@ -8235,6 +8259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69362,
+      "num": 69362,
+      "word": "美邦老板称辛巴为直播判官",
+      "onboard_time": 1730845453,
+      "rank": 47,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 69360,
       "num": 69360,
       "word": "T1维持对LPL不败金身",
@@ -8283,6 +8315,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 67272,
+      "num": 63714,
+      "word": "藏海传年度期待作品",
+      "onboard_time": 1730848217,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -8305,6 +8345,14 @@
       "onboard_time": 1730572034,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63494,
+      "num": 63494,
+      "word": "皇马vsAC米兰",
+      "onboard_time": 1730848517,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 63443,
@@ -8337,6 +8385,14 @@
       "onboard_time": 1730672592,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62229,
+      "num": 62229,
+      "word": "中国电影报道易烊千玺小小的我",
+      "onboard_time": 1730848879,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 61965,
@@ -8425,6 +8481,14 @@
       "onboard_time": 1730656873,
       "rank": 9,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 56005,
+      "num": 403295,
+      "word": "海马体称若因照片不能报考可退款",
+      "onboard_time": 1730847858,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55969,
@@ -8585,14 +8649,6 @@
       "onboard_time": 1730689339,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47347,
-      "num": 117483,
-      "word": "我国县级博物馆卧虎藏龙",
-      "onboard_time": 1730844312,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47277,
@@ -9059,6 +9115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30812,
+      "num": 281708,
+      "word": "美国两州率先结束大选投票",
+      "onboard_time": 1730848698,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30633,
       "num": 35580,
       "word": "厨房爆炸丈夫救妻去世儿子发声",
@@ -9193,14 +9257,6 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26512,
-      "num": 35571,
-      "word": "美邦老板称辛巴为直播判官",
-      "onboard_time": 1730845453,
-      "rank": 47,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 26456,
