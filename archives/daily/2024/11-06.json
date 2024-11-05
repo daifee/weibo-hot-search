@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730839036544,
+  "endTime": 1730841633352,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44811,
+      "num": 44811,
+      "word": "媒体评瑞士卷事件",
+      "onboard_time": 1730837412,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41030,
       "num": 53456,
       "word": "刘宇宁好有质感的声音",
@@ -491,11 +499,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30562,
-      "num": 30562,
-      "word": "媒体评瑞士卷事件",
-      "onboard_time": 1730837412,
-      "rank": 20,
+      "raw_hot": 30633,
+      "num": 30697,
+      "word": "厨房爆炸丈夫救妻去世儿子发声",
+      "onboard_time": 1730838861,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -555,12 +563,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13511,
-      "num": 30697,
-      "word": "厨房爆炸丈夫救妻去世儿子发声",
-      "onboard_time": 1730838861,
-      "rank": 19,
+      "raw_hot": 16636,
+      "num": 25057,
+      "word": "给你吃瑞士卷不能代表婚姻的胜利",
+      "onboard_time": 1730839990,
+      "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16269,
+      "num": 16732,
+      "word": "檀健次说猎罪图鉴2的沈翊更多变",
+      "onboard_time": 1730836092,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14695,
+      "num": 31711,
+      "word": "哈里斯敲门拉选票最后一搏",
+      "onboard_time": 1730841491,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 12821,
@@ -569,6 +593,14 @@
       "onboard_time": 1730838800,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12802,
+      "num": 16734,
+      "word": "所谓饭圈大粉不到一年骗350多万元",
+      "onboard_time": 1730841433,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12666,
