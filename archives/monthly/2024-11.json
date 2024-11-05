@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730780808647,
+  "endTime": 1730781646371,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1314280,
+      "num": 1314280,
+      "word": "乌克兰称已同朝鲜军队发生交战",
+      "onboard_time": 1730779821,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1296692,
       "num": 1296692,
       "word": "良品铺子被立案调查",
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 1115665,
-      "num": 643947,
+      "num": 719291,
       "word": "周雨彤 睡袋",
       "onboard_time": 1730776819,
       "rank": 26,
@@ -1347,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 862100,
-      "num": 862100,
-      "word": "乌克兰称已同朝鲜军队发生交战",
-      "onboard_time": 1730779821,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 854620,
       "num": 854620,
       "word": "被拐34年男子认亲一年后与家人决裂",
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 838430,
+      "num": 838430,
+      "word": "永夜星河开分7.5",
+      "onboard_time": 1730779135,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837886,
       "num": 578946,
       "word": "郑思维女儿出生",
@@ -1431,6 +1439,14 @@
       "num": 827872,
       "word": "6岁女孩被警车撞飞家长质疑超速",
       "onboard_time": 1730707218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824271,
+      "num": 824271,
+      "word": "人民空军官宣",
+      "onboard_time": 1730777841,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1617,14 +1633,6 @@
       "onboard_time": 1730419878,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 750120,
-      "num": 750120,
-      "word": "永夜星河开分7.5",
-      "onboard_time": 1730779135,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 742475,
@@ -2161,6 +2169,14 @@
       "onboard_time": 1730437939,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616342,
+      "num": 616342,
+      "word": "海马体 天真蓝",
+      "onboard_time": 1730779281,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 616290,
@@ -2859,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 493456,
-      "num": 493456,
-      "word": "人民空军官宣",
-      "onboard_time": 1730777841,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492955,
       "num": 492955,
       "word": "全红婵正是看永夜星河的年纪",
@@ -2921,6 +2929,14 @@
       "onboard_time": 1730446158,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487896,
+      "num": 724179,
+      "word": "心动的信号7",
+      "onboard_time": 1730779940,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 486785,
@@ -3595,14 +3611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393710,
-      "num": 393710,
-      "word": "海马体 天真蓝",
-      "onboard_time": 1730779281,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 391316,
       "num": 391316,
       "word": "哈尔滨冰雪大世界扩至100万平米",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1730567118,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390089,
-      "num": 390089,
-      "word": "心动的信号7",
-      "onboard_time": 1730779940,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 389485,
@@ -3771,6 +3771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373838,
+      "num": 373838,
+      "word": "爱侧睡的可以今晚试试这个姿势",
+      "onboard_time": 1730776699,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 373402,
       "num": 345312,
       "word": "丁禹兮跳yesok",
@@ -3899,20 +3907,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357476,
+      "num": 720206,
+      "word": "歼35可能作为航母舰载机",
+      "onboard_time": 1730780721,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 354960,
       "num": 354960,
       "word": "警方回应同学被打男生要报警被老师呵斥",
       "onboard_time": 1730536099,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354558,
-      "num": 354558,
-      "word": "爱侧睡的可以今晚试试这个姿势",
-      "onboard_time": 1730776699,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 353318,
@@ -4275,6 +4283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 313914,
+      "num": 313914,
+      "word": "女子网购猕猴桃放20天皮皱了也没熟",
+      "onboard_time": 1730777239,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312621,
       "num": 312621,
       "word": "祝绪丹演技",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 306732,
+      "num": 284372,
+      "word": "Tim能不能上再见爱人",
+      "onboard_time": 1730780060,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 305965,
@@ -4385,6 +4409,14 @@
       "onboard_time": 1730654473,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295709,
+      "num": 399047,
+      "word": "慕瑶 不愧是原著大女主",
+      "onboard_time": 1730781143,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 295683,
@@ -4584,14 +4616,6 @@
       "word": "收入减半的中产开始反向换房自救",
       "onboard_time": 1730704640,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283026,
-      "num": 283026,
-      "word": "女子网购猕猴桃放20天皮皱了也没熟",
-      "onboard_time": 1730777239,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5235,14 +5259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242178,
-      "num": 242178,
-      "word": "Tim能不能上再见爱人",
-      "onboard_time": 1730780060,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 241763,
       "num": 241763,
       "word": "白桃星座",
@@ -5499,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226574,
+      "num": 226574,
+      "word": "老人强闯流浪动物救助基地杀狗伤人",
+      "onboard_time": 1730777841,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225677,
       "num": 225677,
       "word": "涵艺说Elk和On薪资很低",
@@ -5601,14 +5625,6 @@
       "onboard_time": 1730600177,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220411,
-      "num": 220411,
-      "word": "老人强闯流浪动物救助基地杀狗伤人",
-      "onboard_time": 1730777841,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219648,
@@ -5809,6 +5825,14 @@
       "onboard_time": 1730604020,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212616,
+      "num": 503005,
+      "word": "宋佳 女伯爵",
+      "onboard_time": 1730779582,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 212595,
@@ -6128,6 +6152,14 @@
       "word": "唐晓天珠帘玉幕点天灯",
       "onboard_time": 1730448920,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205001,
+      "num": 287138,
+      "word": "月光变奏曲加广告了",
+      "onboard_time": 1730778440,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -6635,14 +6667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 193167,
-      "num": 193167,
-      "word": "月光变奏曲加广告了",
-      "onboard_time": 1730778440,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192953,
       "num": 519629,
       "word": "追凶姐姐为取证与嫌犯网聊3年",
@@ -6819,14 +6843,6 @@
       "category": "国内时政,艺人"
     },
     {
-      "raw_hot": 189172,
-      "num": 503005,
-      "word": "宋佳 女伯爵",
-      "onboard_time": 1730779582,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188867,
       "num": 188867,
       "word": "严浩翔 切勿掉入诈骗陷阱",
@@ -6945,6 +6961,14 @@
       "onboard_time": 1730545578,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184370,
+      "num": 184370,
+      "word": "恋与戏梦",
+      "onboard_time": 1730781262,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 184266,
@@ -7169,14 +7193,6 @@
       "onboard_time": 1730763257,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179522,
-      "num": 179522,
-      "word": "歼35可能作为航母舰载机",
-      "onboard_time": 1730780721,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 179370,
@@ -7443,6 +7459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "A股半日放量2984亿",
+      "onboard_time": 1730781202,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173998,
       "num": 258266,
       "word": "代高政 脱的衣服我要一件件穿回来",
@@ -7569,6 +7593,14 @@
       "onboard_time": 1730550619,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171890,
+      "num": 171890,
+      "word": "第五人格",
+      "onboard_time": 1730531598,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 171539,
@@ -7945,14 +7977,6 @@
       "onboard_time": 1730579111,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 163807,
-      "num": 163807,
-      "word": "第五人格",
-      "onboard_time": 1730531598,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 163738,
@@ -10475,6 +10499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114571,
+      "num": 503459,
+      "word": "Tim与小鱼无商业关联",
+      "onboard_time": 1730778623,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114388,
       "num": 114388,
       "word": "太空衣橱还是太全面了",
@@ -10971,14 +11003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98775,
-      "num": 503459,
-      "word": "Tim与小鱼无商业关联",
-      "onboard_time": 1730778623,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 98445,
       "num": 112505,
       "word": "郑钦文总决赛出线形势分析",
@@ -11345,6 +11369,14 @@
       "onboard_time": 1730514676,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84291,
+      "num": 659779,
+      "word": "野猪肇事频发什么原因",
+      "onboard_time": 1730779401,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84201,
@@ -12283,14 +12315,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 42879,
-      "num": 659779,
-      "word": "野猪肇事频发什么原因",
-      "onboard_time": 1730779401,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42854,
       "num": 148543,
       "word": "煤气爆燃烧伤妈妈手指可以动了",
@@ -12660,7 +12684,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 940641,
+      "num": 1130074,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -13043,6 +13067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28212,
+      "num": 343392,
+      "word": "危机关头你相信智驾吗",
+      "onboard_time": 1730777900,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28148,
       "num": 443571,
       "word": "极氪双11购车权益",
@@ -13081,14 +13113,6 @@
       "onboard_time": 1730712739,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 26821,
-      "num": 343392,
-      "word": "危机关头你相信智驾吗",
-      "onboard_time": 1730777900,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 26769,
