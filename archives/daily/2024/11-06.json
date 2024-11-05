@@ -1,0 +1,411 @@
+{
+  "startTime": 1730824123481,
+  "endTime": 1730824123481,
+  "band_list": [
+    {
+      "raw_hot": 5628913,
+      "num": 5628913,
+      "word": "瑞士卷当事人称非常后悔并抱歉",
+      "onboard_time": 1730814262,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1546550,
+      "num": 385802,
+      "word": "美国大选",
+      "onboard_time": 1730795600,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 862252,
+      "num": 288895,
+      "word": "马天宇建议取消8个装瑞士卷",
+      "onboard_time": 1730814503,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 850917,
+      "num": 177453,
+      "word": "2024美国大选选举日投票正式开始",
+      "onboard_time": 1730783841,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 627586,
+      "num": 627586,
+      "word": "永夜星河 我就说一天播一集会出事吧",
+      "onboard_time": 1730816125,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 621423,
+      "num": 382067,
+      "word": "哈尔滨文旅回应网红夫妇有传染病",
+      "onboard_time": 1730817144,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600849,
+      "num": 600849,
+      "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+      "onboard_time": 1730819604,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395990,
+      "num": 395990,
+      "word": "警方通报网传柳州女子喝醉被强暴",
+      "onboard_time": 1730818704,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375733,
+      "num": 156330,
+      "word": "虞书欣赵露思 互拍",
+      "onboard_time": 1730809342,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339659,
+      "num": 339659,
+      "word": "范丞丞回应小巷人家演技争议",
+      "onboard_time": 1730818825,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308161,
+      "num": 175563,
+      "word": "21岁女生下腹疼痛确诊胃癌晚期",
+      "onboard_time": 1730796381,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290135,
+      "num": 290135,
+      "word": "永夜星河",
+      "onboard_time": 1730803641,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288757,
+      "num": 288757,
+      "word": "河南女子被害前打电话喊妈妈救命",
+      "onboard_time": 1730822840,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267985,
+      "num": 267985,
+      "word": "撞上劳斯莱斯的货车只有100万保险",
+      "onboard_time": 1730821401,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264073,
+      "num": 264073,
+      "word": "怪奇物语",
+      "onboard_time": 1730812703,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236799,
+      "num": 236799,
+      "word": "王鹤棣田曦薇牵手走秀",
+      "onboard_time": 1730811441,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236730,
+      "num": 236730,
+      "word": "美国东海岸投票站开放",
+      "onboard_time": 1730806642,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 224018,
+      "num": 224018,
+      "word": "丈夫把100万元捐款转给烧伤妈妈",
+      "onboard_time": 1730809702,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221232,
+      "num": 221232,
+      "word": "陈雪凝回应抄袭汪苏泷",
+      "onboard_time": 1730805020,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205513,
+      "num": 289007,
+      "word": "社区将再去瑞士卷当事人家中调查",
+      "onboard_time": 1730820982,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192380,
+      "num": 180176,
+      "word": "王鹤棣赵露思台下合影",
+      "onboard_time": 1730822960,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183955,
+      "num": 173989,
+      "word": "虞书欣 大家不光生我还要宠我",
+      "onboard_time": 1730796322,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181442,
+      "num": 181442,
+      "word": "瑞士卷风波当事人否认摆拍",
+      "onboard_time": 1730822359,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173435,
+      "num": 173435,
+      "word": "权志龙说不要再少人了",
+      "onboard_time": 1730814862,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161866,
+      "num": 161866,
+      "word": "11岁男孩发烧心脏停跳52小时",
+      "onboard_time": 1730813304,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156350,
+      "num": 156350,
+      "word": "哈里斯特朗普竞选主张大pk",
+      "onboard_time": 1730806160,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 155500,
+      "word": "杨紫进组家业剧本围读",
+      "onboard_time": 1730813843,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147756,
+      "num": 147756,
+      "word": "刘谦抗癌成功称已完全康复",
+      "onboard_time": 1730803582,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146166,
+      "num": 146166,
+      "word": "向佐郭碧婷 再见爱人",
+      "onboard_time": 1730801362,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "种地吧",
+      "onboard_time": 1730813963,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133295,
+      "num": 133295,
+      "word": "怪奇物语第五季",
+      "onboard_time": 1730822061,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133024,
+      "num": 133024,
+      "word": "丁禹兮 人前vs妖后",
+      "onboard_time": 1730816304,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124526,
+      "num": 124526,
+      "word": "近半价卖掉400万房子反悔需赔40万",
+      "onboard_time": 1730810662,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123916,
+      "num": 123916,
+      "word": "警方将排查网传女子路边被强暴事件",
+      "onboard_time": 1730796262,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119077,
+      "num": 119077,
+      "word": "网红博主被指有传染病已去医院检查",
+      "onboard_time": 1730819543,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115016,
+      "num": 115016,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 113909,
+      "num": 113909,
+      "word": "当消除编制带来的溢价",
+      "onboard_time": 1730819543,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108867,
+      "num": 108867,
+      "word": "一个人成熟的6种迹象",
+      "onboard_time": 1730821519,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105322,
+      "num": 105322,
+      "word": "导演称不想把珠帘玉幕拍成偶像剧",
+      "onboard_time": 1730817323,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103397,
+      "num": 103397,
+      "word": "母女起争执女儿怒砸太古里一专卖店",
+      "onboard_time": 1730812884,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99503,
+      "num": 99503,
+      "word": "张泉灵没预料到麦琳引发关注",
+      "onboard_time": 1730823918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96340,
+      "num": 96340,
+      "word": "羽绒服涨价与猪肉价格有关",
+      "onboard_time": 1730820201,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95871,
+      "num": 95871,
+      "word": "永夜星河 姐夫脑袋上挂了个库洛米",
+      "onboard_time": 1730817263,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95570,
+      "num": 95570,
+      "word": "成都太古里回应Tiffany专柜被砸",
+      "onboard_time": 1730816663,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93089,
+      "num": 93089,
+      "word": "女子哭诉残障母亲在养老院遭多次猥亵",
+      "onboard_time": 1730807302,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91960,
+      "num": 91960,
+      "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+      "onboard_time": 1730811681,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89348,
+      "num": 89348,
+      "word": "雷军称将推出小米驾校",
+      "onboard_time": 1730813423,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 62401,
+      "num": 88830,
+      "word": "钱天一vs考夫蔓",
+      "onboard_time": 1730823380,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61772,
+      "num": 88810,
+      "word": "字节跳动103人违法违规被辞退",
+      "onboard_time": 1730823979,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 4112,
+      "num": 613295,
+      "word": "四叶草再迎进博时间",
+      "onboard_time": 1730811082,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平视察空降兵军#"
+    }
+  ]
+}
