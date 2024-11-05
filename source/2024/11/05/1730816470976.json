@@ -1,0 +1,410 @@
+{
+  "runTime": 1730816470976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3738994,
+        "num": 3738994,
+        "word": "瑞士卷当事人称非常后悔并抱歉",
+        "onboard_time": 1730814262,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 2040858,
+        "num": 2040858,
+        "word": "马天宇建议取消8个装瑞士卷",
+        "onboard_time": 1730814503,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37397,
+        "num": 1418226,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128481,
+        "num": 1128481,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035798,
+        "num": 1035798,
+        "word": "王鹤棣田曦薇牵手走秀",
+        "onboard_time": 1730811441,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1242145,
+        "num": 1019417,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 857633,
+        "num": 857633,
+        "word": "虞书欣第一个男主角也来打call了",
+        "onboard_time": 1730814383,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792741,
+        "num": 792741,
+        "word": "近半价卖掉400万房子反悔需赔40万",
+        "onboard_time": 1730810662,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688618,
+        "num": 688618,
+        "word": "11岁男孩发烧心脏停跳52小时",
+        "onboard_time": 1730813304,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579623,
+        "num": 579623,
+        "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+        "onboard_time": 1730811681,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601035,
+        "num": 569950,
+        "word": "微博视界大会",
+        "onboard_time": 1730802441,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549315,
+        "num": 549315,
+        "word": "美国东海岸投票站开放",
+        "onboard_time": 1730806642,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 734796,
+        "num": 532462,
+        "word": "虞书欣赵露思 互拍",
+        "onboard_time": 1730809342,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506502,
+        "num": 506502,
+        "word": "刘谦抗癌成功称已完全康复",
+        "onboard_time": 1730803582,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19591,
+        "num": 482328,
+        "word": "被喊话全国巡剪的晓华有啥魔力",
+        "onboard_time": 1730815644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479215,
+        "num": 479215,
+        "word": "王鹤棣 向佐为什么穿那么性感",
+        "onboard_time": 1730808681,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431673,
+        "num": 431673,
+        "word": "雷军称将推出小米驾校",
+        "onboard_time": 1730813423,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 418074,
+        "num": 418074,
+        "word": "市委书记落马政绩工程将被拆除",
+        "onboard_time": 1730810121,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58566,
+        "num": 409475,
+        "word": "河南固始被害妻子曾多次遭家暴",
+        "onboard_time": 1730815943,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27949,
+        "num": 402257,
+        "word": "群演发言",
+        "onboard_time": 1730815404,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1255736,
+        "num": 396573,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 676894,
+        "num": 387649,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448068,
+        "num": 374196,
+        "word": "陈雪凝回应抄袭汪苏泷",
+        "onboard_time": 1730805020,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373613,
+        "num": 373613,
+        "word": "权志龙说不要再少人了",
+        "onboard_time": 1730814862,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333844,
+        "num": 333844,
+        "word": "张婧仪 幻视回国后的朱韵",
+        "onboard_time": 1730813483,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318308,
+        "num": 318308,
+        "word": "哈里斯特朗普竞选主张大pk",
+        "onboard_time": 1730806160,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289698,
+        "num": 289698,
+        "word": "怪奇物语",
+        "onboard_time": 1730812703,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289298,
+        "num": 289298,
+        "word": "永夜星河 我就说一天播一集会出事吧",
+        "onboard_time": 1730816125,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109324,
+        "num": 279958,
+        "word": "魏哲鸣 我的新郎",
+        "onboard_time": 1730813783,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44767,
+        "num": 278372,
+        "word": "林诗栋vs法尔克",
+        "onboard_time": 1730815943,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277838,
+        "num": 277838,
+        "word": "母女起争执女儿怒砸太古里一专卖店",
+        "onboard_time": 1730812884,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276235,
+        "num": 276235,
+        "word": "张艺兴工作室私信17岁高中生",
+        "onboard_time": 1730798662,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267024,
+        "num": 267024,
+        "word": "教体局通报班主任家长群催缴医保",
+        "onboard_time": 1730814443,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263580,
+        "num": 263580,
+        "word": "女儿被录到土木专业父母感觉天塌了",
+        "onboard_time": 1730806401,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257530,
+        "num": 257530,
+        "word": "忽然明白少年夫妻老来伴的含义",
+        "onboard_time": 1730810421,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237924,
+        "num": 237924,
+        "word": "永夜星河",
+        "onboard_time": 1730803641,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237185,
+        "num": 237185,
+        "word": "浙江媳妇Rose的妈妈从非洲来看她了",
+        "onboard_time": 1730812402,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214570,
+        "num": 214570,
+        "word": "6岁女孩冷冻卵巢组织免化疗损害",
+        "onboard_time": 1730804541,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208303,
+        "num": 208303,
+        "word": "丁禹兮 人前vs妖后",
+        "onboard_time": 1730816304,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200147,
+        "num": 200147,
+        "word": "女子哭诉残障母亲在养老院遭多次猥亵",
+        "onboard_time": 1730807302,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198739,
+        "num": 198739,
+        "word": "何卓佳11比1",
+        "onboard_time": 1730815824,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195486,
+        "num": 195486,
+        "word": "种地吧",
+        "onboard_time": 1730813963,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194668,
+        "num": 194668,
+        "word": "杨紫进组家业剧本围读",
+        "onboard_time": 1730813843,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191092,
+        "num": 191092,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1730815943,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190988,
+        "num": 190988,
+        "word": "永夜星河官方又开始闹笑话了",
+        "onboard_time": 1730816304,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190259,
+        "num": 190259,
+        "word": "海马体全国开通考研照绿通服务",
+        "onboard_time": 1730803041,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189508,
+        "num": 189508,
+        "word": "害怕接电话其实是种社交焦虑",
+        "onboard_time": 1730811742,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184153,
+        "num": 184153,
+        "word": "国企董事长15个月收497瓶名酒",
+        "onboard_time": 1730813903,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184099,
+        "num": 184099,
+        "word": "吴磊演技",
+        "onboard_time": 1730815893,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179520,
+        "num": 179520,
+        "word": "劳斯莱斯车主回应货车司机被判全责",
+        "onboard_time": 1730813903,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察空降兵军#"
+    }
+  }
+}

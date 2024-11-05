@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730813927754,
+  "endTime": 1730816470976,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -73,6 +73,14 @@
       "onboard_time": 1730709919,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3738994,
+      "num": 3738994,
+      "word": "瑞士卷当事人称非常后悔并抱歉",
+      "onboard_time": 1730814262,
+      "rank": 0,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 3475710,
@@ -185,6 +193,14 @@
       "onboard_time": 1730625079,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2040858,
+      "num": 2040858,
+      "word": "马天宇建议取消8个装瑞士卷",
+      "onboard_time": 1730814503,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2032038,
@@ -1059,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 857633,
+      "num": 857633,
+      "word": "虞书欣第一个男主角也来打call了",
+      "onboard_time": 1730814383,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 850896,
       "num": 850896,
       "word": "永夜星河 她拍的",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1730623158,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 688618,
+      "num": 688618,
+      "word": "11岁男孩发烧心脏停跳52小时",
+      "onboard_time": 1730813304,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686407,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1730733201,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579623,
+      "num": 579623,
+      "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+      "onboard_time": 1730811681,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 578209,
@@ -2395,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431673,
+      "num": 431673,
+      "word": "雷军称将推出小米驾校",
+      "onboard_time": 1730813423,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 431556,
       "num": 431556,
       "word": "猎罪图鉴2",
@@ -2667,6 +2715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 373613,
+      "num": 373613,
+      "word": "权志龙说不要再少人了",
+      "onboard_time": 1730814862,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373050,
       "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
@@ -2931,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333844,
+      "num": 333844,
+      "word": "张婧仪 幻视回国后的朱韵",
+      "onboard_time": 1730813483,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333277,
       "num": 333277,
       "word": "乌克兰朝鲜",
@@ -3123,14 +3187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 308707,
-      "num": 308707,
-      "word": "甘肃天水事业单位招考被质疑设萝卜岗",
-      "onboard_time": 1730811681,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306732,
       "num": 323003,
       "word": "Tim能不能上再见爱人",
@@ -3227,12 +3283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289698,
+      "num": 289698,
+      "word": "怪奇物语",
+      "onboard_time": 1730812703,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289569,
       "num": 454800,
       "word": "On机器人",
       "onboard_time": 1730564301,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289298,
+      "num": 289298,
+      "word": "永夜星河 我就说一天播一集会出事吧",
+      "onboard_time": 1730816125,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 289017,
@@ -3329,6 +3401,14 @@
       "onboard_time": 1730680397,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 277838,
+      "num": 277838,
+      "word": "母女起争执女儿怒砸太古里一专卖店",
+      "onboard_time": 1730812884,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277787,
@@ -3440,6 +3520,14 @@
       "word": "2小伙买刮刮乐中百万室友发声",
       "onboard_time": 1730553320,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267024,
+      "num": 267024,
+      "word": "教体局通报班主任家长群催缴医保",
+      "onboard_time": 1730814443,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3787,14 +3875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237550,
-      "num": 237550,
-      "word": "怪奇物语",
-      "onboard_time": 1730812703,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236477,
       "num": 238425,
       "word": "王鹤棣美式上下前后左右刺",
@@ -3849,14 +3929,6 @@
       "onboard_time": 1730684118,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234079,
-      "num": 234079,
-      "word": "雷军称将推出小米驾校",
-      "onboard_time": 1730813423,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 233906,
@@ -3969,14 +4041,6 @@
       "onboard_time": 1730777841,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225950,
-      "num": 225950,
-      "word": "张婧仪 幻视回国后的朱韵",
-      "onboard_time": 1730813483,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 225677,
@@ -4251,14 +4315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209592,
-      "num": 209592,
-      "word": "11岁男孩发烧心脏停跳52小时",
-      "onboard_time": 1730813304,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209513,
       "num": 226862,
       "word": "永夜星河更新",
@@ -4281,6 +4337,14 @@
       "onboard_time": 1730721920,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 208303,
+      "num": 208303,
+      "word": "丁禹兮 人前vs妖后",
+      "onboard_time": 1730816304,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 208280,
@@ -4328,14 +4392,6 @@
       "word": "烧伤妈妈丈夫剃头和妻子变情侣头",
       "onboard_time": 1730629519,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206907,
-      "num": 206907,
-      "word": "母女起争执女儿怒砸太古里一专卖店",
-      "onboard_time": 1730812884,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -4643,6 +4699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198739,
+      "num": 198739,
+      "word": "何卓佳11比1",
+      "onboard_time": 1730815824,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198548,
       "num": 244333,
       "word": "T1扳回一局",
@@ -4779,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195486,
+      "num": 195486,
+      "word": "种地吧",
+      "onboard_time": 1730813963,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195126,
       "num": 286330,
       "word": "小巷人家 苏州",
@@ -4793,6 +4865,14 @@
       "onboard_time": 1730712019,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194668,
+      "num": 194668,
+      "word": "杨紫进组家业剧本围读",
+      "onboard_time": 1730813843,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 194563,
@@ -4939,6 +5019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191092,
+      "num": 191092,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1730815943,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190988,
+      "num": 190988,
+      "word": "永夜星河官方又开始闹笑话了",
+      "onboard_time": 1730816304,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "心动的信号",
@@ -4961,6 +5057,14 @@
       "onboard_time": 1730787019,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189508,
+      "num": 566273,
+      "word": "害怕接电话其实是种社交焦虑",
+      "onboard_time": 1730811742,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189212,
@@ -5089,6 +5193,22 @@
       "onboard_time": 1730781262,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184153,
+      "num": 184153,
+      "word": "国企董事长15个月收497瓶名酒",
+      "onboard_time": 1730813903,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184099,
+      "num": 184099,
+      "word": "吴磊演技",
+      "onboard_time": 1730815893,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 184046,
@@ -5241,6 +5361,14 @@
       "onboard_time": 1730763257,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179520,
+      "num": 179520,
+      "word": "劳斯莱斯车主回应货车司机被判全责",
+      "onboard_time": 1730813903,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179370,
@@ -6899,14 +7027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127591,
-      "num": 127591,
-      "word": "杨紫进组家业剧本围读",
-      "onboard_time": 1730813843,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127522,
       "num": 127522,
       "word": "郑业成演出了李白的少年气",
@@ -6976,14 +7096,6 @@
       "word": "十万彩礼做女友造谣者仍未道歉赔偿",
       "onboard_time": 1730648898,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125377,
-      "num": 125377,
-      "word": "国企董事长15个月收497瓶名酒",
-      "onboard_time": 1730813903,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -7081,14 +7193,6 @@
       "onboard_time": 1730628438,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124006,
-      "num": 124006,
-      "word": "劳斯莱斯车主回应货车司机被判全责",
-      "onboard_time": 1730813903,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123732,
@@ -7393,6 +7497,14 @@
       "onboard_time": 1730804960,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109324,
+      "num": 279958,
+      "word": "魏哲鸣 我的新郎",
+      "onboard_time": 1730813783,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 109081,
@@ -7707,14 +7819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85019,
-      "num": 566273,
-      "word": "害怕接电话其实是种社交焦虑",
-      "onboard_time": 1730811742,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84959,
       "num": 256513,
       "word": "瑞士卷事件博主否认摆拍制造对立",
@@ -7995,6 +8099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 58566,
+      "num": 409475,
+      "word": "河南固始被害妻子曾多次遭家暴",
+      "onboard_time": 1730815943,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56918,
       "num": 511459,
       "word": "杀害同村六旬老妇的男子已被抓",
@@ -8251,6 +8363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44767,
+      "num": 278372,
+      "word": "林诗栋vs法尔克",
+      "onboard_time": 1730815943,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44160,
       "num": 44160,
       "word": "重温月光变奏曲",
@@ -8371,14 +8491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38456,
-      "num": 212577,
-      "word": "魏哲鸣 我的新郎",
-      "onboard_time": 1730813783,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37986,
       "num": 1155796,
       "word": "代表法修正草案首次提请审议",
@@ -8408,6 +8520,14 @@
       "word": "双11法院拍卖豪宅低至0.6折",
       "onboard_time": 1730707819,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37397,
+      "num": 1418226,
+      "word": "四叶草再迎进博时间",
+      "onboard_time": 1730811082,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -8563,14 +8683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33075,
-      "num": 1198716,
-      "word": "四叶草再迎进博时间",
-      "onboard_time": 1730811082,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32856,
       "num": 4357457,
       "word": "C919和ARJ21首次双机编队飞行",
@@ -8689,6 +8801,14 @@
       "onboard_time": 1730631199,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27949,
+      "num": 402257,
+      "word": "群演发言",
+      "onboard_time": 1730815404,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 27333,
@@ -9009,6 +9129,14 @@
       "onboard_time": 1730607561,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19591,
+      "num": 482328,
+      "word": "被喊话全国巡剪的晓华有啥魔力",
+      "onboard_time": 1730815644,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19431,
