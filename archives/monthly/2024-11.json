@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730775613178,
+  "endTime": 1730777172809,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2861984,
+      "num": 2861984,
+      "word": "考研报名禁用海马体照片",
+      "onboard_time": 1730774358,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2798059,
       "num": 2798059,
       "word": "覃海洋成绩被取消",
@@ -185,14 +193,6 @@
       "onboard_time": 1730528237,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2370295,
-      "num": 2370295,
-      "word": "考研报名禁用海马体照片",
-      "onboard_time": 1730774358,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2317454,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 874892,
-      "num": 370103,
+      "num": 386927,
       "word": "能考上二本已经很厉害了",
       "onboard_time": 1730763378,
       "rank": 20,
@@ -1939,6 +1939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 651628,
+      "num": 651628,
+      "word": "手指吻",
+      "onboard_time": 1730774178,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 650763,
       "num": 571293,
       "word": "物业称男孩捂嘴抱走女孩又被警方带走",
@@ -2491,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554372,
+      "num": 554372,
+      "word": "歼35A官方照片",
+      "onboard_time": 1730774298,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 552641,
       "num": 552641,
       "word": "特朗普和哈里斯决战摇摆州",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1730507238,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531406,
+      "num": 531406,
+      "word": "林诗栋喊孙颖莎留蛋糕",
+      "onboard_time": 1730775440,
+      "rank": 45,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 530925,
@@ -2849,6 +2873,14 @@
       "onboard_time": 1730534237,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486174,
+      "num": 385466,
+      "word": "G2再次邀请Uzi加入",
+      "onboard_time": 1730774719,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 483146,
@@ -3105,14 +3137,6 @@
       "onboard_time": 1730703439,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 445038,
-      "num": 445038,
-      "word": "歼35A官方照片",
-      "onboard_time": 1730774298,
-      "rank": 22,
-      "category": "军事"
     },
     {
       "raw_hot": 444531,
@@ -3651,14 +3675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379405,
-      "num": 359749,
-      "word": "G2再次邀请Uzi加入",
-      "onboard_time": 1730774719,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 379230,
       "num": 379230,
       "word": "拾荒老人去看病竟掏出一代身份证",
@@ -3699,14 +3715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 372459,
-      "num": 372459,
-      "word": "手指吻",
-      "onboard_time": 1730774178,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372306,
       "num": 372306,
       "word": "英雄联盟",
@@ -3729,6 +3737,14 @@
       "onboard_time": 1730471361,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366432,
+      "num": 366432,
+      "word": "国内机票价格跳水",
+      "onboard_time": 1730776039,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365816,
@@ -4059,12 +4075,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326106,
+      "num": 326106,
+      "word": "湖南夫妻理发店因听劝爆火",
+      "onboard_time": 1730774481,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326097,
       "num": 281819,
       "word": "睡觉时最伤脊椎的睡姿",
       "onboard_time": 1730546839,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324532,
+      "num": 324532,
+      "word": "周雨彤 睡袋",
+      "onboard_time": 1730776819,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 323951,
@@ -4097,6 +4129,14 @@
       "onboard_time": 1730545398,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319649,
+      "num": 319649,
+      "word": "假性亲密关系",
+      "onboard_time": 1730771720,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 318429,
@@ -4539,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277131,
+      "num": 277131,
+      "word": "海马体",
+      "onboard_time": 1730776039,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 274211,
       "num": 274211,
       "word": "真的受够女厕所排队了",
@@ -4611,14 +4659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272570,
-      "num": 272570,
-      "word": "湖南夫妻理发店因听劝爆火",
-      "onboard_time": 1730774481,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272475,
       "num": 233561,
       "word": "麦琳 双11晚会带货",
@@ -4649,14 +4689,6 @@
       "onboard_time": 1730531417,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269760,
-      "num": 269760,
-      "word": "假性亲密关系",
-      "onboard_time": 1730771720,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 269464,
@@ -4961,6 +4993,14 @@
       "onboard_time": 1730774358,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 250150,
+      "num": 250150,
+      "word": "恋与制作人 好望水",
+      "onboard_time": 1730776699,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 250102,
@@ -5329,6 +5369,14 @@
       "onboard_time": 1730723479,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228831,
+      "num": 228831,
+      "word": "剑网3新衣服",
+      "onboard_time": 1730776760,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 228550,
@@ -6211,6 +6259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199091,
+      "num": 199091,
+      "word": "湖人爆冷",
+      "onboard_time": 1730776459,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199078,
       "num": 199078,
       "word": "100克瑞士卷等于3碗米饭不建议多吃",
@@ -6337,6 +6393,14 @@
       "onboard_time": 1730730501,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196087,
+      "num": 196087,
+      "word": "爱侧睡的可以今晚试试这个姿势",
+      "onboard_time": 1730776699,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195909,
@@ -6561,6 +6625,14 @@
       "onboard_time": 1730546778,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190480,
+      "num": 492228,
+      "word": "美国大选即将开始记者探访摇摆州",
+      "onboard_time": 1730773999,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 190158,
@@ -8123,6 +8195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157956,
+      "num": 157956,
+      "word": "以闪亮之名文案",
+      "onboard_time": 1730776159,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157879,
       "num": 157879,
       "word": "空警500A将亮相中国航展",
@@ -8563,6 +8643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148535,
+      "num": 148535,
+      "word": "于正回应唐宫奇案官博掉粉",
+      "onboard_time": 1730776099,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148489,
       "num": 240370,
       "word": "张凌赫发文宣传虞书欣永夜星河",
@@ -9001,14 +9089,6 @@
       "onboard_time": 1730610439,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139557,
-      "num": 139557,
-      "word": "林诗栋喊孙颖莎留蛋糕",
-      "onboard_time": 1730775440,
-      "rank": 45,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 139538,
@@ -11267,6 +11347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74306,
+      "num": 553803,
+      "word": "动力电池采购价6万维修却要12万",
+      "onboard_time": 1730775739,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74118,
       "num": 74118,
       "word": "KPL",
@@ -11585,14 +11673,6 @@
       "onboard_time": 1730748970,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 58393,
-      "num": 492228,
-      "word": "美国大选即将开始记者探访摇摆州",
-      "onboard_time": 1730773999,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 58355,
@@ -11955,6 +12035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46492,
+      "num": 536440,
+      "word": "大学生夜骑可别忘了安全第一",
+      "onboard_time": 1730775500,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46313,
       "num": 56165,
       "word": "回地球夜宵吃点啥",
@@ -12235,14 +12323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38841,
-      "num": 492515,
-      "word": "大学生夜骑可别忘了安全第一",
-      "onboard_time": 1730775500,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38729,
       "num": 46377,
       "word": "法院回应判决书写错4年刑期变3年",
@@ -12273,6 +12353,14 @@
       "onboard_time": 1730377758,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38120,
+      "num": 534646,
+      "word": "摇摆州对美国大选为何如此重要",
+      "onboard_time": 1730777119,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38008,
@@ -12400,6 +12488,14 @@
       "word": "女子涉嫌伙同他人伪造虚假材料骗贷13亿",
       "onboard_time": 1730725940,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35466,
+      "num": 622479,
+      "word": "100秒看懂进博会亮点",
+      "onboard_time": 1730777060,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -13267,6 +13363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20288,
+      "num": 542217,
+      "word": "我国新一代人造太阳有新进展",
+      "onboard_time": 1730776640,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20078,
       "num": 115742,
       "word": "第一视角带你沉浸式体验北马",
@@ -13441,6 +13545,14 @@
       "onboard_time": 1730582951,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18054,
+      "num": 190532,
+      "word": "张朝阳受邀回清华物理系讲物理",
+      "onboard_time": 1730775620,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17924,
@@ -14033,6 +14145,9 @@
     },
     {
       "word": "#六届进博会习近平主席作出这些重要论述#"
+    },
+    {
+      "word": "#中国的高水平对外开放将惠及全球#"
     }
   ]
 }

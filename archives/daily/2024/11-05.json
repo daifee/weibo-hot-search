@@ -1,10 +1,10 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730775613178,
+  "endTime": 1730777172809,
   "band_list": [
     {
-      "raw_hot": 2370295,
-      "num": 2370295,
+      "raw_hot": 2861984,
+      "num": 2861984,
       "word": "考研报名禁用海马体照片",
       "onboard_time": 1730774358,
       "rank": 0,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 874892,
-      "num": 370103,
+      "num": 386927,
       "word": "能考上二本已经很厉害了",
       "onboard_time": 1730763378,
       "rank": 20,
@@ -152,6 +152,14 @@
       "word": "范丞丞 出戏",
       "onboard_time": 1730725461,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 651628,
+      "num": 651628,
+      "word": "手指吻",
+      "onboard_time": 1730774178,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 554372,
+      "num": 554372,
+      "word": "歼35A官方照片",
+      "onboard_time": 1730774298,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 552278,
       "num": 348256,
       "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
@@ -235,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531406,
+      "num": 531406,
+      "word": "林诗栋喊孙颖莎留蛋糕",
+      "onboard_time": 1730775440,
+      "rank": 45,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 507191,
       "num": 507191,
       "word": "失笑定档",
       "onboard_time": 1730773219,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 486174,
+      "num": 385466,
+      "word": "G2再次邀请Uzi加入",
+      "onboard_time": 1730774719,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 475658,
@@ -257,14 +289,6 @@
       "onboard_time": 1730709919,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445038,
-      "num": 445038,
-      "word": "歼35A官方照片",
-      "onboard_time": 1730774298,
-      "rank": 22,
-      "category": "军事"
     },
     {
       "raw_hot": 436216,
@@ -315,27 +339,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 379405,
-      "num": 359749,
-      "word": "G2再次邀请Uzi加入",
-      "onboard_time": 1730774719,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 372459,
-      "num": 372459,
-      "word": "手指吻",
-      "onboard_time": 1730774178,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367388,
       "num": 367388,
       "word": "良品铺子被立案调查",
       "onboard_time": 1730717779,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366432,
+      "num": 366432,
+      "word": "国内机票价格跳水",
+      "onboard_time": 1730776039,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -361,6 +377,30 @@
       "onboard_time": 1730762116,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326106,
+      "num": 326106,
+      "word": "湖南夫妻理发店因听劝爆火",
+      "onboard_time": 1730774481,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324532,
+      "num": 324532,
+      "word": "周雨彤 睡袋",
+      "onboard_time": 1730776819,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319649,
+      "num": 319649,
+      "word": "假性亲密关系",
+      "onboard_time": 1730771720,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 318429,
@@ -419,20 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272570,
-      "num": 272570,
-      "word": "湖南夫妻理发店因听劝爆火",
-      "onboard_time": 1730774481,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269760,
-      "num": 269760,
-      "word": "假性亲密关系",
-      "onboard_time": 1730771720,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 277131,
+      "num": 277131,
+      "word": "海马体",
+      "onboard_time": 1730776039,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 255588,
@@ -459,12 +491,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 250150,
+      "num": 250150,
+      "word": "恋与制作人 好望水",
+      "onboard_time": 1730776699,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "李煜东正式加入TF四代",
       "onboard_time": 1730731522,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228831,
+      "num": 228831,
+      "word": "剑网3新衣服",
+      "onboard_time": 1730776760,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 214109,
@@ -507,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199091,
+      "num": 199091,
+      "word": "湖人爆冷",
+      "onboard_time": 1730776459,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196087,
+      "num": 196087,
+      "word": "爱侧睡的可以今晚试试这个姿势",
+      "onboard_time": 1730776699,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195126,
       "num": 286330,
       "word": "小巷人家 苏州",
@@ -521,6 +585,14 @@
       "onboard_time": 1730718439,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190480,
+      "num": 492228,
+      "word": "美国大选即将开始记者探访摇摆州",
+      "onboard_time": 1730773999,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 183895,
@@ -627,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157956,
+      "num": 157956,
+      "word": "以闪亮之名文案",
+      "onboard_time": 1730776159,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157879,
       "num": 157879,
       "word": "空警500A将亮相中国航展",
@@ -641,6 +721,14 @@
       "onboard_time": 1730734459,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148535,
+      "num": 148535,
+      "word": "于正回应唐宫奇案官博掉粉",
+      "onboard_time": 1730776099,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 146642,
@@ -665,14 +753,6 @@
       "onboard_time": 1730767879,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139557,
-      "num": 139557,
-      "word": "林诗栋喊孙颖莎留蛋糕",
-      "onboard_time": 1730775440,
-      "rank": 45,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 139206,
@@ -915,6 +995,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 74306,
+      "num": 553803,
+      "word": "动力电池采购价6万维修却要12万",
+      "onboard_time": 1730775739,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68419,
       "num": 408675,
       "word": "大风天出门小心高空坠物",
@@ -947,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 58393,
-      "num": 492228,
-      "word": "美国大选即将开始记者探访摇摆州",
-      "onboard_time": 1730773999,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 55613,
       "num": 287275,
       "word": "死亡游戏为何能在孩子间流行",
@@ -977,6 +1057,14 @@
       "onboard_time": 1730758272,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46492,
+      "num": 536440,
+      "word": "大学生夜骑可别忘了安全第一",
+      "onboard_time": 1730775500,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44160,
@@ -1003,12 +1091,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38841,
-      "num": 492515,
-      "word": "大学生夜骑可别忘了安全第一",
-      "onboard_time": 1730775500,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 38120,
+      "num": 534646,
+      "word": "摇摆州对美国大选为何如此重要",
+      "onboard_time": 1730777119,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 37754,
@@ -1016,6 +1104,14 @@
       "word": "广东11月将有4次冷空气",
       "onboard_time": 1730741353,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35466,
+      "num": 622479,
+      "word": "100秒看懂进博会亮点",
+      "onboard_time": 1730777060,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 20288,
+      "num": 542217,
+      "word": "我国新一代人造太阳有新进展",
+      "onboard_time": 1730776640,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18383,
       "num": 35602,
       "word": "神十八航天员回家第一餐都点了鸡蛋羹",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1730745133,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 18054,
+      "num": 190532,
+      "word": "张朝阳受邀回清华物理系讲物理",
+      "onboard_time": 1730775620,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17786,
@@ -1169,6 +1281,9 @@
     },
     {
       "word": "#六届进博会习近平主席作出这些重要论述#"
+    },
+    {
+      "word": "#中国的高水平对外开放将惠及全球#"
     }
   ]
 }

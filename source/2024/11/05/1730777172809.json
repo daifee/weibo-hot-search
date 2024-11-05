@@ -1,0 +1,410 @@
+{
+  "runTime": 1730777172809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2861984,
+        "num": 2861984,
+        "word": "考研报名禁用海马体照片",
+        "onboard_time": 1730774358,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 651628,
+        "num": 651628,
+        "word": "手指吻",
+        "onboard_time": 1730774178,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35466,
+        "num": 622479,
+        "word": "100秒看懂进博会亮点",
+        "onboard_time": 1730777060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087609,
+        "num": 621225,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611440,
+        "num": 611440,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 860678,
+        "num": 610509,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 654254,
+        "num": 604501,
+        "word": "小鱼回应离婚",
+        "onboard_time": 1730767340,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 589642,
+        "num": 589642,
+        "word": "工作人员迟到致下火车旅客无法出站",
+        "onboard_time": 1730767340,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554372,
+        "num": 554372,
+        "word": "歼35A官方照片",
+        "onboard_time": 1730774298,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 74306,
+        "num": 553803,
+        "word": "动力电池采购价6万维修却要12万",
+        "onboard_time": 1730775739,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629052,
+        "num": 548563,
+        "word": "店铺钉死窗户应对美国大选",
+        "onboard_time": 1730770099,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1131462,
+        "num": 546581,
+        "word": "花少 骨瓷",
+        "onboard_time": 1730769679,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20288,
+        "num": 542217,
+        "word": "我国新一代人造太阳有新进展",
+        "onboard_time": 1730776640,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46492,
+        "num": 536440,
+        "word": "大学生夜骑可别忘了安全第一",
+        "onboard_time": 1730775500,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38120,
+        "num": 534646,
+        "word": "摇摆州对美国大选为何如此重要",
+        "onboard_time": 1730777119,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 531406,
+        "num": 531406,
+        "word": "林诗栋喊孙颖莎留蛋糕",
+        "onboard_time": 1730775440,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 499117,
+        "num": 499117,
+        "word": "接虞书欣丁禹兮三搭",
+        "onboard_time": 1730769079,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419303,
+        "num": 419303,
+        "word": "正午阳光 流量",
+        "onboard_time": 1730769439,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391861,
+        "num": 391861,
+        "word": "失笑定档",
+        "onboard_time": 1730773219,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389978,
+        "num": 389978,
+        "word": "窦骁中国杯帆船赛夺冠",
+        "onboard_time": 1730772439,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 687248,
+        "num": 386927,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 486174,
+        "num": 385466,
+        "word": "G2再次邀请Uzi加入",
+        "onboard_time": 1730774719,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370766,
+        "num": 370766,
+        "word": "瑞士卷怎么分别成为第二个秦朗丢作业",
+        "onboard_time": 1730764220,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366432,
+        "num": 366432,
+        "word": "国内机票价格跳水",
+        "onboard_time": 1730776039,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335561,
+        "num": 335561,
+        "word": "南京南站通报儿童掉入股道",
+        "onboard_time": 1730767400,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326106,
+        "num": 326106,
+        "word": "湖南夫妻理发店因听劝爆火",
+        "onboard_time": 1730774481,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324532,
+        "num": 324532,
+        "word": "周雨彤 睡袋",
+        "onboard_time": 1730776819,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319649,
+        "num": 319649,
+        "word": "假性亲密关系",
+        "onboard_time": 1730771720,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292228,
+        "num": 292228,
+        "word": "影视飓风Tim离婚",
+        "onboard_time": 1730763257,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177384,
+        "num": 284323,
+        "word": "永夜星河珠帘玉幕昨日云合",
+        "onboard_time": 1730762116,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277131,
+        "num": 277131,
+        "word": "海马体",
+        "onboard_time": 1730776039,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250150,
+        "num": 250150,
+        "word": "恋与制作人 好望水",
+        "onboard_time": 1730776699,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236503,
+        "num": 236503,
+        "word": "美学者称中国人基本上都是现实主义者",
+        "onboard_time": 1730770999,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228831,
+        "num": 228831,
+        "word": "剑网3新衣服",
+        "onboard_time": 1730776760,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223174,
+        "num": 223174,
+        "word": "红19地空导弹首次展出",
+        "onboard_time": 1730774358,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 222533,
+        "num": 222533,
+        "word": "美国大选5任总统大乱斗",
+        "onboard_time": 1730726481,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215492,
+        "num": 215492,
+        "word": "特朗普抱怨奥巴马给他留下烂摊子",
+        "onboard_time": 1730735300,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199091,
+        "num": 199091,
+        "word": "湖人爆冷",
+        "onboard_time": 1730776459,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196087,
+        "num": 196087,
+        "word": "爱侧睡的可以今晚试试这个姿势",
+        "onboard_time": 1730776699,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18054,
+        "num": 190532,
+        "word": "张朝阳受邀回清华物理系讲物理",
+        "onboard_time": 1730775620,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190480,
+        "num": 190480,
+        "word": "美国大选即将开始记者探访摇摆州",
+        "onboard_time": 1730773999,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170100,
+        "num": 170100,
+        "word": "美了1千多年的银杏是唐太宗种的",
+        "onboard_time": 1730739376,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169389,
+        "num": 169389,
+        "word": "郑钦文 别喊了",
+        "onboard_time": 1730733561,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166009,
+        "num": 166009,
+        "word": "停狗处",
+        "onboard_time": 1730770999,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "花少坦桑尼亚站",
+        "onboard_time": 1730772680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159119,
+        "num": 159119,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157956,
+        "num": 157956,
+        "word": "以闪亮之名文案",
+        "onboard_time": 1730776159,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151947,
+        "num": 151947,
+        "word": "猫因为我辞职在家压力太大吐了",
+        "onboard_time": 1730732421,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148535,
+        "num": 148535,
+        "word": "于正回应唐宫奇案官博掉粉",
+        "onboard_time": 1730776099,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109392,
+        "num": 148258,
+        "word": "肖战旅游路透",
+        "onboard_time": 1730733201,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的高水平对外开放将惠及全球#"
+    }
+  }
+}
