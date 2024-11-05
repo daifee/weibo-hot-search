@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730771848377,
+  "endTime": 1730775064102,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1459379,
+      "num": 1459379,
+      "word": "考研报名禁用海马体照片",
+      "onboard_time": 1730774358,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1448422,
       "num": 1448422,
       "word": "张凌赫坐车看虞书欣永夜星河",
@@ -393,6 +401,14 @@
       "onboard_time": 1730623819,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1405650,
+      "num": 955741,
+      "word": "瑞士卷 消费降级",
+      "onboard_time": 1730771658,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 1404983,
@@ -697,6 +713,14 @@
       "onboard_time": 1730610858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953020,
+      "num": 953020,
+      "word": "店铺钉死窗户应对美国大选",
+      "onboard_time": 1730770099,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 950381,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1730691681,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 683410,
-      "num": 683410,
-      "word": "店铺钉死窗户应对美国大选",
-      "onboard_time": 1730770099,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 682048,
@@ -1427,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570151,
+      "num": 570151,
+      "word": "窦骁中国杯帆船赛夺冠",
+      "onboard_time": 1730772439,
+      "rank": 7,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 568652,
       "num": 682303,
       "word": "接虞书欣丁禹兮三搭",
@@ -1464,6 +1488,14 @@
       "word": "一栗小莎子安利赵露思新剧",
       "onboard_time": 1730682020,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 557096,
+      "num": 557096,
+      "word": "正午阳光 流量",
+      "onboard_time": 1730769439,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1587,10 +1619,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 505205,
-      "num": 505205,
-      "word": "正午阳光 流量",
-      "onboard_time": 1730769439,
+      "raw_hot": 507191,
+      "num": 507191,
+      "word": "失笑定档",
+      "onboard_time": 1730773219,
       "rank": 13,
       "category": "剧集"
     },
@@ -2035,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386821,
+      "num": 386821,
+      "word": "美学者称中国人基本上都是现实主义者",
+      "onboard_time": 1730770999,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384830,
       "num": 427099,
       "word": "姜萍初赛成绩违反规则",
@@ -2369,6 +2409,14 @@
       "onboard_time": 1730561300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298868,
+      "num": 298868,
+      "word": "歼35A官方照片",
+      "onboard_time": 1730774298,
+      "rank": 22,
+      "category": "军事"
     },
     {
       "raw_hot": 296581,
@@ -2739,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247429,
+      "num": 247429,
+      "word": "手指吻",
+      "onboard_time": 1730774178,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247173,
       "num": 683096,
       "word": "米勒",
@@ -2752,14 +2808,6 @@
       "word": "公积金利率高过商贷后还要存在吗",
       "onboard_time": 1730723780,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245626,
-      "num": 187717,
-      "word": "美学者称中国人基本上都是现实主义者",
-      "onboard_time": 1730770999,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2907,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231687,
+      "num": 231687,
+      "word": "红19地空导弹首次展出",
+      "onboard_time": 1730774358,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 231650,
       "num": 231650,
       "word": "郑钦文回应再次不敌萨巴伦卡",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1730637919,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229127,
+      "num": 229127,
+      "word": "G2再次邀请Uzi加入",
+      "onboard_time": 1730774719,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 229034,
@@ -3235,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207447,
+      "num": 207447,
+      "word": "停狗处",
+      "onboard_time": 1730770999,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207120,
       "num": 207120,
       "word": "永夜星河云合超小巷人家",
@@ -3355,6 +3427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204633,
+      "num": 204633,
+      "word": "花少坦桑尼亚站",
+      "onboard_time": 1730772680,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "涵艺透露LPL外援顶薪1050万",
@@ -3385,6 +3465,14 @@
       "onboard_time": 1730602700,
       "rank": 30,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 203205,
+      "num": 203205,
+      "word": "假性亲密关系",
+      "onboard_time": 1730771720,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 202938,
@@ -3827,6 +3915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185052,
+      "num": 185052,
+      "word": "湖南夫妻理发店因听劝爆火",
+      "onboard_time": 1730774481,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184046,
       "num": 184046,
       "word": "王楚钦法兰克福首秀",
@@ -4179,14 +4275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169359,
-      "num": 169359,
-      "word": "停狗处",
-      "onboard_time": 1730770999,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168886,
       "num": 168886,
       "word": "烧伤妈妈怕孩子不爱她了",
@@ -4273,6 +4361,14 @@
       "onboard_time": 1730731343,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165986,
+      "num": 165986,
+      "word": "中国更牛的空军装备一定符合预期",
+      "onboard_time": 1730774358,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 165943,
@@ -4553,6 +4649,14 @@
       "onboard_time": 1730715620,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159447,
+      "num": 159447,
+      "word": "中国空军回应新装备何时亮相",
+      "onboard_time": 1730774540,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 158878,
@@ -5099,14 +5203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137356,
-      "num": 137356,
-      "word": "瑞士卷 消费降级",
-      "onboard_time": 1730771658,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136656,
       "num": 136656,
       "word": "郑在玹今日入伍",
@@ -5177,14 +5273,6 @@
       "onboard_time": 1730687538,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134206,
-      "num": 134206,
-      "word": "假性亲密关系",
-      "onboard_time": 1730771720,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 134116,
@@ -5635,6 +5723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 116238,
+      "num": 147025,
+      "word": "湖人vs活塞",
+      "onboard_time": 1730773338,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115018,
       "num": 115018,
       "word": "林肯公园ban了吗",
@@ -5889,6 +5985,14 @@
       "onboard_time": 1730565737,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94810,
+      "num": 146078,
+      "word": "NCT127四巡",
+      "onboard_time": 1730773817,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 94468,
@@ -6363,6 +6467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48614,
+      "num": 535011,
+      "word": "中国航展",
+      "onboard_time": 1730774778,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 48442,
       "num": 48442,
       "word": "神十八航天员完成全部既定任务",
@@ -6425,6 +6537,14 @@
       "onboard_time": 1730741053,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43773,
+      "num": 466082,
+      "word": "美国大选即将开始记者探访摇摆州",
+      "onboard_time": 1730773999,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 43535,
