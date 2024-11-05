@@ -1,0 +1,410 @@
+{
+  "runTime": 1730785139380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300822,
+        "num": 1300822,
+        "word": "考研报名禁用海马体照片",
+        "onboard_time": 1730774358,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1278578,
+        "num": 1278578,
+        "word": "海马体 天真蓝",
+        "onboard_time": 1730779281,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14030,
+        "num": 1189520,
+        "word": "100秒看懂进博会亮点",
+        "onboard_time": 1730777060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157554,
+        "num": 1157554,
+        "word": "乌克兰称已同朝鲜军队发生交战",
+        "onboard_time": 1730779821,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 570931,
+        "num": 570931,
+        "word": "永夜星河开分7.5",
+        "onboard_time": 1730779135,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 560885,
+        "num": 560885,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 853977,
+        "num": 553487,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 523248,
+        "num": 523248,
+        "word": "歼35可能作为航母舰载机",
+        "onboard_time": 1730780721,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 494149,
+        "num": 494149,
+        "word": "慕瑶 不愧是原著大女主",
+        "onboard_time": 1730781143,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54711,
+        "num": 493989,
+        "word": "三分钟解读美国大选乱象",
+        "onboard_time": 1730784439,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 776695,
+        "num": 493797,
+        "word": "周雨彤 睡袋",
+        "onboard_time": 1730776819,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569841,
+        "num": 493366,
+        "word": "高雅CP 线下",
+        "onboard_time": 1730782642,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161710,
+        "num": 493245,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 493038,
+        "num": 493038,
+        "word": "国内机票价格跳水",
+        "onboard_time": 1730776039,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152863,
+        "num": 492177,
+        "word": "海马体回应考研报名被禁用",
+        "onboard_time": 1730784259,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491955,
+        "num": 491955,
+        "word": "店铺钉死窗户应对美国大选",
+        "onboard_time": 1730770099,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 360052,
+        "num": 360052,
+        "word": "小巷人家豆瓣开分8.2",
+        "onboard_time": 1730782281,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345785,
+        "num": 345785,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 45076,
+        "num": 344367,
+        "word": "小伙自驾去英国1个月后自行车被偷",
+        "onboard_time": 1730783900,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187525,
+        "num": 342090,
+        "word": "赵一博抽不到ssr卡破防了",
+        "onboard_time": 1730784861,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479533,
+        "num": 339074,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400292,
+        "num": 334734,
+        "word": "小鱼回应离婚",
+        "onboard_time": 1730767340,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333277,
+        "num": 333277,
+        "word": "乌克兰朝鲜",
+        "onboard_time": 1730783241,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332938,
+        "num": 332938,
+        "word": "人民空军官宣",
+        "onboard_time": 1730777841,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324034,
+        "num": 324034,
+        "word": "贵阳奥体中心被禁言了",
+        "onboard_time": 1730783540,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212957,
+        "num": 323003,
+        "word": "Tim能不能上再见爱人",
+        "onboard_time": 1730780060,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 322836,
+        "num": 322836,
+        "word": "王楚然 金发天使",
+        "onboard_time": 1730778199,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279124,
+        "num": 279124,
+        "word": "实际上请痛经假的人并不多",
+        "onboard_time": 1730782820,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205338,
+        "num": 272900,
+        "word": "手指吻",
+        "onboard_time": 1730774178,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195520,
+        "num": 272033,
+        "word": "桃花坞开放中定档",
+        "onboard_time": 1730783900,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271902,
+        "num": 271902,
+        "word": "52岁智障男子被包装成蓝领背上车贷",
+        "onboard_time": 1730781861,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269607,
+        "num": 269607,
+        "word": "爱侧睡的可以今晚试试这个姿势",
+        "onboard_time": 1730776699,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268566,
+        "num": 268566,
+        "word": "周也吊带黑裙",
+        "onboard_time": 1730781021,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181199,
+        "num": 263709,
+        "word": "大梦归离一场大战创飞全员",
+        "onboard_time": 1730784319,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263604,
+        "num": 263604,
+        "word": "媒体评郑钦文说别喊了",
+        "onboard_time": 1730782820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263479,
+        "num": 263479,
+        "word": "瑞士卷怎么分别成为第二个秦朗丢作业",
+        "onboard_time": 1730764220,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245845,
+        "num": 245845,
+        "word": "中国空军进入双隐身战机时代",
+        "onboard_time": 1730777841,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 245679,
+        "num": 245679,
+        "word": "接虞书欣丁禹兮三搭",
+        "onboard_time": 1730769079,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213215,
+        "num": 213215,
+        "word": "工作人员迟到致下火车旅客无法出站",
+        "onboard_time": 1730767340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 203883,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202882,
+        "num": 202882,
+        "word": "女子网购猕猴桃放20天皮皱了也没熟",
+        "onboard_time": 1730777239,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17643,
+        "num": 200823,
+        "word": "起底广州宝卓系金融爆雷",
+        "onboard_time": 1730783119,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200249,
+        "num": 200249,
+        "word": "林诗栋喊孙颖莎留蛋糕",
+        "onboard_time": 1730775440,
+        "rank": 42,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 196149,
+        "num": 196149,
+        "word": "红纸嫁衣",
+        "onboard_time": 1730784620,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183823,
+        "num": 183823,
+        "word": "正午阳光 流量",
+        "onboard_time": 1730769439,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176367,
+        "num": 176367,
+        "word": "湖南夫妻理发店因听劝爆火",
+        "onboard_time": 1730774481,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172685,
+        "num": 172685,
+        "word": "歼35A官方照片",
+        "onboard_time": 1730774298,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21905,
+        "num": 162244,
+        "word": "高额康复费成烧伤患者家庭巨大挑战",
+        "onboard_time": 1730783119,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160439,
+        "num": 160439,
+        "word": "Doinb和LWX红温互怼",
+        "onboard_time": 1730779222,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142818,
+        "num": 155789,
+        "word": "心动的信号7",
+        "onboard_time": 1730779940,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的高水平对外开放将惠及全球#"
+    }
+  }
+}

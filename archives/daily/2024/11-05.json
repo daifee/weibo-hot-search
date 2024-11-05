@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730784111979,
+  "endTime": 1730785139380,
   "band_list": [
     {
       "raw_hot": 2861984,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360052,
+      "num": 500343,
+      "word": "小巷人家豆瓣开分8.2",
+      "onboard_time": 1730782281,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350561,
       "num": 362903,
       "word": "肖战旅游路透",
@@ -507,6 +515,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 333277,
+      "num": 333277,
+      "word": "乌克兰朝鲜",
+      "onboard_time": 1730783241,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 324034,
+      "num": 324034,
+      "word": "贵阳奥体中心被禁言了",
+      "onboard_time": 1730783540,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319649,
       "num": 319649,
       "word": "假性亲密关系",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 306732,
-      "num": 316494,
+      "num": 323003,
       "word": "Tim能不能上再见爱人",
       "onboard_time": 1730780060,
       "rank": 38,
@@ -561,14 +585,6 @@
       "onboard_time": 1730782820,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297419,
-      "num": 297419,
-      "word": "贵阳奥体中心被禁言了",
-      "onboard_time": 1730783540,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297388,
@@ -627,20 +643,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271902,
+      "num": 271902,
+      "word": "52岁智障男子被包装成蓝领背上车贷",
+      "onboard_time": 1730781861,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268566,
+      "num": 488438,
+      "word": "周也吊带黑裙",
+      "onboard_time": 1730781021,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265004,
       "num": 265004,
       "word": "湖人爆冷",
       "onboard_time": 1730776459,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258847,
-      "num": 500343,
-      "word": "小巷人家豆瓣开分8.2",
-      "onboard_time": 1730782281,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 255588,
@@ -697,14 +721,6 @@
       "onboard_time": 1730645479,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218219,
-      "num": 488438,
-      "word": "周也吊带黑裙",
-      "onboard_time": 1730781021,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 214109,
@@ -772,19 +788,19 @@
     },
     {
       "raw_hot": 201818,
-      "num": 201818,
+      "num": 272033,
       "word": "桃花坞开放中定档",
       "onboard_time": 1730783900,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 195758,
-      "num": 195758,
-      "word": "乌克兰朝鲜",
-      "onboard_time": 1730783241,
+      "raw_hot": 196149,
+      "num": 196149,
+      "word": "红纸嫁衣",
+      "onboard_time": 1730784620,
       "rank": 43,
-      "category": "国外时政"
+      "category": "游戏"
     },
     {
       "raw_hot": 195126,
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187525,
+      "num": 342090,
+      "word": "赵一博抽不到ssr卡破防了",
+      "onboard_time": 1730784861,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184370,
       "num": 184370,
       "word": "恋与戏梦",
@@ -825,6 +849,14 @@
       "onboard_time": 1730724619,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181199,
+      "num": 263709,
+      "word": "大梦归离一场大战创飞全员",
+      "onboard_time": 1730784319,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 181054,
@@ -865,14 +897,6 @@
       "onboard_time": 1730763257,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178604,
-      "num": 178604,
-      "word": "52岁智障男子被包装成蓝领背上车贷",
-      "onboard_time": 1730781861,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175508,
@@ -955,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161710,
+      "num": 527360,
+      "word": "2024美国大选选举日投票正式开始",
+      "onboard_time": 1730783841,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 158898,
       "num": 158898,
       "word": "林诗栋蒯曼混双世界第二",
@@ -985,6 +1017,14 @@
       "onboard_time": 1730777660,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152863,
+      "num": 492177,
+      "word": "海马体回应考研报名被禁用",
+      "onboard_time": 1730784259,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151302,
@@ -1275,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82827,
-      "num": 527360,
-      "word": "2024美国大选选举日投票正式开始",
-      "onboard_time": 1730783841,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 77147,
       "num": 348859,
       "word": "快餐店成为年轻人举办婚礼的新选择",
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54711,
+      "num": 493989,
+      "word": "三分钟解读美国大选乱象",
+      "onboard_time": 1730784439,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 50276,
       "num": 50276,
       "word": "业主群闹事专用情头",
@@ -1360,6 +1400,14 @@
       "word": "大学生夜骑可别忘了安全第一",
       "onboard_time": 1730775500,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45076,
+      "num": 477429,
+      "word": "小伙自驾去英国1个月后自行车被偷",
+      "onboard_time": 1730783900,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1404,7 +1452,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 1182244,
+      "num": 1189520,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -1475,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21905,
+      "num": 517130,
+      "word": "高额康复费成烧伤患者家庭巨大挑战",
+      "onboard_time": 1730783119,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21185,
       "num": 37794,
       "word": "10年前获10万奖学金如今她回赠110万",
@@ -1488,14 +1544,6 @@
       "word": "我国新一代人造太阳有新进展",
       "onboard_time": 1730776640,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18560,
-      "num": 517130,
-      "word": "高额康复费成烧伤患者家庭巨大挑战",
-      "onboard_time": 1730783119,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1521,6 +1569,14 @@
       "onboard_time": 1730751911,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17643,
+      "num": 473713,
+      "word": "起底广州宝卓系金融爆雷",
+      "onboard_time": 1730783119,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17503,
@@ -1560,22 +1616,6 @@
       "word": "盘点中国航展国之重器亮相瞬间",
       "onboard_time": 1730759593,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13235,
-      "num": 473713,
-      "word": "起底广州宝卓系金融爆雷",
-      "onboard_time": 1730783119,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13203,
-      "num": 477429,
-      "word": "小伙自驾去英国1个月后自行车被偷",
-      "onboard_time": 1730783900,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
