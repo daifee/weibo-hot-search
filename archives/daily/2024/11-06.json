@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730841633352,
+  "endTime": 1730842620177,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139603,
+      "num": 115016,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134005,
       "num": 134005,
       "word": "怪奇物语第五季",
@@ -313,14 +321,6 @@
       "onboard_time": 1730819543,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115016,
-      "num": 115016,
-      "word": "美国迎来史上最势均力敌总统选举",
-      "onboard_time": 1730803282,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 113909,
@@ -459,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44811,
-      "num": 44811,
+      "raw_hot": 47876,
+      "num": 47876,
       "word": "媒体评瑞士卷事件",
       "onboard_time": 1730837412,
       "rank": 20,
@@ -489,6 +489,14 @@
       "onboard_time": 1730810421,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36697,
+      "num": 46353,
+      "word": "哈里斯敲门拉选票最后一搏",
+      "onboard_time": 1730841491,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 34167,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22260,
+      "num": 25057,
+      "word": "给你吃瑞士卷不能代表婚姻的胜利",
+      "onboard_time": 1730839990,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21018,
       "num": 28047,
       "word": "我的抽象视界",
@@ -563,28 +579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16636,
-      "num": 25057,
-      "word": "给你吃瑞士卷不能代表婚姻的胜利",
-      "onboard_time": 1730839990,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16269,
-      "num": 16732,
+      "raw_hot": 17649,
+      "num": 17984,
       "word": "檀健次说猎罪图鉴2的沈翊更多变",
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 14695,
-      "num": 31711,
-      "word": "哈里斯敲门拉选票最后一搏",
-      "onboard_time": 1730841491,
-      "rank": 19,
-      "category": "国外时政"
+      "raw_hot": 14608,
+      "num": 17974,
+      "word": "所谓饭圈大粉不到一年骗350多万元",
+      "onboard_time": 1730841433,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12821,
@@ -593,14 +601,6 @@
       "onboard_time": 1730838800,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12802,
-      "num": 16734,
-      "word": "所谓饭圈大粉不到一年骗350多万元",
-      "onboard_time": 1730841433,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12666,
