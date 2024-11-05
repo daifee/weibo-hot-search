@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730803331602,
+  "endTime": 1730805530632,
   "band_list": [
     {
       "raw_hot": 7678975,
@@ -41,6 +41,22 @@
       "onboard_time": 1730767340,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1617489,
+      "num": 531846,
+      "word": "虞书欣赵露思 干票大的引爆视界大会",
+      "onboard_time": 1730803701,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1617007,
+      "num": 1617007,
+      "word": "微博视界大会",
+      "onboard_time": 1730802441,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1513878,
@@ -227,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 953224,
-      "num": 483622,
-      "word": "微博视界大会",
-      "onboard_time": 1730802441,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 953020,
       "num": 953020,
       "word": "店铺钉死窗户应对美国大选",
       "onboard_time": 1730770099,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 948359,
+      "num": 418793,
+      "word": "刘谦抗癌成功称已完全康复",
+      "onboard_time": 1730803582,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 940137,
@@ -305,6 +321,14 @@
       "onboard_time": 1730779135,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 837538,
+      "num": 837538,
+      "word": "瑞士卷事件博主删除视频",
+      "onboard_time": 1730802742,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 824271,
@@ -451,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 614487,
+      "num": 614487,
+      "word": "永夜星河",
+      "onboard_time": 1730715199,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 612484,
       "num": 720206,
       "word": "歼35可能作为航母舰载机",
@@ -481,6 +513,14 @@
       "onboard_time": 1730733381,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593975,
+      "num": 593975,
+      "word": "人事造假冒领工资近两千万",
+      "onboard_time": 1730800522,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570151,
@@ -528,6 +568,14 @@
       "word": "厨房爆炸丈夫离世妻子急需70万治疗费",
       "onboard_time": 1730713939,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541127,
+      "num": 541127,
+      "word": "付费自习室里多少人在表演性学习",
+      "onboard_time": 1730800762,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1730774719,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 476639,
+      "num": 357781,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 475658,
@@ -923,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299068,
-      "num": 407475,
-      "word": "付费自习室里多少人在表演性学习",
-      "onboard_time": 1730800762,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297388,
       "num": 297388,
       "word": "闪耀暖暖",
@@ -971,22 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281051,
-      "num": 389522,
-      "word": "人事造假冒领工资近两千万",
-      "onboard_time": 1730800522,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280100,
-      "num": 280100,
-      "word": "永夜星河",
-      "onboard_time": 1730715199,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276679,
       "num": 276679,
       "word": "恋与制作人 好望水",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1730781021,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265896,
+      "num": 265896,
+      "word": "肖战黑粉未道歉被公告",
+      "onboard_time": 1730805439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 265233,
@@ -1075,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253566,
+      "num": 253566,
+      "word": "闵塔鲨给赵露思做的高定造型",
+      "onboard_time": 1730805141,
+      "rank": 30,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 251869,
       "num": 251869,
       "word": "第七届进博会静候八方宾朋",
@@ -1113,6 +1161,22 @@
       "onboard_time": 1730787500,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240548,
+      "num": 433425,
+      "word": "美军基地附近日本居民不敢随便喝水",
+      "onboard_time": 1730801480,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 239626,
+      "num": 261417,
+      "word": "陈雪凝回应抄袭汪苏泷",
+      "onboard_time": 1730805020,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 234838,
@@ -1155,11 +1219,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227217,
+      "num": 227217,
+      "word": "海马体全国开通考研照绿通服务",
+      "onboard_time": 1730803041,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 226574,
       "num": 226574,
       "word": "老人强闯流浪动物救助基地杀狗伤人",
       "onboard_time": 1730777841,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223867,
+      "num": 365397,
+      "word": "6岁女孩冷冻卵巢组织免化疗损害",
+      "onboard_time": 1730804541,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1443,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 184442,
+      "num": 259319,
+      "word": "孙千的腿好长",
+      "onboard_time": 1730805141,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184370,
       "num": 184370,
       "word": "恋与戏梦",
@@ -1555,12 +1643,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168793,
+      "num": 168793,
+      "word": "叠纸心意",
+      "onboard_time": 1730804899,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "付航拿猴子走红毯",
       "onboard_time": 1730798842,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164065,
+      "num": 164065,
+      "word": "恋与制作人",
+      "onboard_time": 1730805260,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 163657,
@@ -1723,6 +1827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 139785,
+      "num": 139785,
+      "word": "杀流浪狗伤人老人已被警方控制",
+      "onboard_time": 1730802201,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139206,
       "num": 293160,
       "word": "传单印广西大学副院长强奸女学生",
@@ -1755,28 +1867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132811,
-      "num": 132811,
-      "word": "海马体全国开通考研照绿通服务",
-      "onboard_time": 1730803041,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 131457,
       "num": 131457,
       "word": "SM新女团明年第一季度将出道",
       "onboard_time": 1730793679,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130612,
-      "num": 433425,
-      "word": "美军基地附近日本居民不敢随便喝水",
-      "onboard_time": 1730801480,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 130596,
@@ -1923,20 +2019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115320,
-      "num": 115320,
-      "word": "杀流浪狗伤人老人已被警方控制",
-      "onboard_time": 1730802201,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114571,
       "num": 503459,
       "word": "Tim与小鱼无商业关联",
       "onboard_time": 1730778623,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 112866,
+      "num": 112866,
+      "word": "米饭仙人",
+      "onboard_time": 1730802742,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 112726,
@@ -1947,6 +2043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112494,
+      "num": 112494,
+      "word": "教育局回应高中女生让初中生下跪事件",
+      "onboard_time": 1730803582,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110931,
       "num": 110931,
       "word": "张继科开业球馆不对外营业",
@@ -1955,12 +2059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107357,
-      "num": 107357,
-      "word": "美国迎来史上最势均力敌总统选举",
-      "onboard_time": 1730803282,
+      "raw_hot": 110858,
+      "num": 110858,
+      "word": "WTT中国大满贯女单决赛刷新收视纪录",
+      "onboard_time": 1730804960,
       "rank": 48,
-      "category": "国外时政"
+      "category": "体育"
     },
     {
       "raw_hot": 107062,
@@ -2027,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84959,
+      "num": 256513,
+      "word": "瑞士卷事件博主否认摆拍制造对立",
+      "onboard_time": 1730805501,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84809,
       "num": 190993,
       "word": "天真蓝回应考研报名",
@@ -2083,20 +2195,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60017,
-      "num": 151397,
-      "word": "瑞士卷事件博主删除视频",
-      "onboard_time": 1730802742,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 58679,
       "num": 106323,
       "word": "孟子义短发红毯",
       "onboard_time": 1730748970,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 55969,
+      "num": 382840,
+      "word": "新疆用户在拼多多实现双11自由",
+      "onboard_time": 1730796322,
+      "rank": 19,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 55613,
@@ -2211,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34922,
+      "num": 254932,
+      "word": "檀健次带了作品三折叠",
+      "onboard_time": 1730800341,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32199,
       "num": 1606911,
       "word": "在建世界最高桥新进展来了",
@@ -2233,14 +2353,6 @@
       "onboard_time": 1730752271,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28451,
-      "num": 366783,
-      "word": "新疆用户在拼多多实现双11自由",
-      "onboard_time": 1730796322,
-      "rank": 19,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 28212,
@@ -2312,6 +2424,14 @@
       "word": "广西大学回应副院长被指强奸女学生",
       "onboard_time": 1730749991,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23076,
+      "num": 398693,
+      "word": "锅盔叔叔不收红包称受之有愧",
+      "onboard_time": 1730804720,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2480,6 +2600,14 @@
       "word": "热爱生活的人会闪闪发光",
       "onboard_time": 1730748613,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12245,
+      "num": 254654,
+      "word": "泽连斯基向盟友喊话来帮忙",
+      "onboard_time": 1730805381,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
