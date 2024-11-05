@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730770845662,
+  "endTime": 1730771848377,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -219,20 +219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1749291,
+      "num": 1749291,
+      "word": "工作人员迟到致下火车旅客无法出站",
+      "onboard_time": 1730767340,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1749177,
       "num": 1749177,
       "word": "美国大选5任总统大乱斗",
       "onboard_time": 1730726481,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1703627,
-      "num": 1703627,
-      "word": "工作人员迟到致下火车旅客无法出站",
-      "onboard_time": 1730767340,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1699835,
@@ -345,6 +345,14 @@
       "onboard_time": 1730764339,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1487459,
+      "num": 656936,
+      "word": "花少 骨瓷",
+      "onboard_time": 1730769679,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1479779,
@@ -579,12 +587,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1048030,
-      "num": 432578,
-      "word": "花少 骨瓷",
-      "onboard_time": 1730769679,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 1034579,
+      "num": 1034579,
+      "word": "歼35A将公开亮相",
+      "onboard_time": 1730770520,
+      "rank": 21,
+      "category": "军事"
     },
     {
       "raw_hot": 1033084,
@@ -601,6 +609,14 @@
       "onboard_time": 1730568077,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1024931,
+      "num": 1024931,
+      "word": "南京南站通报儿童掉入股道",
+      "onboard_time": 1730767400,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1022165,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 993071,
-      "num": 432557,
+      "num": 651412,
       "word": "猫因为我辞职在家压力太大吐了",
       "onboard_time": 1730732421,
       "rank": 31,
@@ -835,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789489,
-      "num": 789489,
-      "word": "南京南站通报儿童掉入股道",
-      "onboard_time": 1730767400,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 788636,
       "num": 788636,
       "word": "瑞士卷",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 771966,
-      "num": 430701,
+      "num": 643978,
       "word": "影视飓风Tim离婚",
       "onboard_time": 1730763257,
       "rank": 23,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1730691681,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683410,
+      "num": 683410,
+      "word": "店铺钉死窗户应对美国大选",
+      "onboard_time": 1730770099,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 682048,
@@ -1411,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568652,
+      "num": 682303,
+      "word": "接虞书欣丁禹兮三搭",
+      "onboard_time": 1730769079,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568550,
       "num": 427727,
       "word": "永夜星河发布会",
@@ -1563,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505205,
+      "num": 505205,
+      "word": "正午阳光 流量",
+      "onboard_time": 1730769439,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503363,
       "num": 503363,
       "word": "女子领了一个赠品被骗4万元",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1730642661,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485438,
-      "num": 485438,
-      "word": "接虞书欣丁禹兮三搭",
-      "onboard_time": 1730769079,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 483146,
@@ -1795,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436216,
+      "num": 436216,
+      "word": "成都一火锅店回收底油再给顾客食用",
+      "onboard_time": 1730767340,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435685,
       "num": 435685,
       "word": "王楚钦户上隼辅交手战绩",
@@ -1859,14 +1891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 425716,
-      "num": 425716,
-      "word": "正午阳光 流量",
-      "onboard_time": 1730769439,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 420744,
       "num": 420744,
       "word": "毓言 香港",
@@ -1928,14 +1952,6 @@
       "word": "97岁妻子化妆烫发看望98岁丈夫",
       "onboard_time": 1730605220,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407606,
-      "num": 407606,
-      "word": "成都一火锅店回收底油再给顾客食用",
-      "onboard_time": 1730767340,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2035,6 +2051,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 383980,
+      "num": 383980,
+      "word": "特朗普抱怨奥巴马给他留下烂摊子",
+      "onboard_time": 1730735300,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 381797,
       "num": 381797,
       "word": "谁说Faker老了这Faker太棒了",
@@ -2065,14 +2089,6 @@
       "onboard_time": 1730571854,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 368494,
-      "num": 368494,
-      "word": "特朗普抱怨奥巴马给他留下烂摊子",
-      "onboard_time": 1730735300,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 365816,
@@ -2355,14 +2371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300565,
-      "num": 369590,
-      "word": "歼35A将公开亮相",
-      "onboard_time": 1730770520,
-      "rank": 21,
-      "category": "军事"
-    },
-    {
       "raw_hot": 296581,
       "num": 296581,
       "word": "王楚钦奥运肩伤内幕曝光",
@@ -2547,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269318,
-      "num": 269318,
-      "word": "店铺钉死窗户应对美国大选",
-      "onboard_time": 1730770099,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 268160,
       "num": 426504,
       "word": "假如宋莹有八个瑞士卷",
@@ -2691,6 +2691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251869,
+      "num": 251869,
+      "word": "第七届进博会静候八方宾朋",
+      "onboard_time": 1730770878,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250832,
       "num": 250832,
       "word": "偶遇黄圣依看房",
@@ -2744,6 +2752,14 @@
       "word": "公积金利率高过商贷后还要存在吗",
       "onboard_time": 1730723780,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245626,
+      "num": 187717,
+      "word": "美学者称中国人基本上都是现实主义者",
+      "onboard_time": 1730770999,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3281,6 +3297,14 @@
       "onboard_time": 1730732960,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206001,
+      "num": 186956,
+      "word": "小猫 那咋了",
+      "onboard_time": 1730770520,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 205518,
@@ -3883,6 +3907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180174,
+      "num": 180174,
+      "word": "警方通报一男子因家庭纠纷杀妻",
+      "onboard_time": 1730768361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179855,
       "num": 179855,
       "word": "易烊千玺翻领外套",
@@ -3896,6 +3928,14 @@
       "word": "原来猫猫也会抑郁",
       "onboard_time": 1730619078,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179683,
+      "num": 179683,
+      "word": "常德火车站回应出站门被锁旅客被困",
+      "onboard_time": 1730771658,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3979,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175508,
+      "num": 175508,
+      "word": "小巷人家庄桦林自私吗",
+      "onboard_time": 1730768479,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174781,
       "num": 174781,
       "word": "陈都灵 潇因",
@@ -4017,14 +4065,6 @@
       "onboard_time": 1730703258,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173995,
-      "num": 173995,
-      "word": "小巷人家庄桦林自私吗",
-      "onboard_time": 1730768479,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 173904,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1730628798,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169359,
+      "num": 169359,
+      "word": "停狗处",
+      "onboard_time": 1730770999,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 168886,
@@ -4537,6 +4585,14 @@
       "onboard_time": 1730604141,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157879,
+      "num": 157879,
+      "word": "空警500A将亮相中国航展",
+      "onboard_time": 1730769260,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157752,
@@ -5043,6 +5099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137356,
+      "num": 137356,
+      "word": "瑞士卷 消费降级",
+      "onboard_time": 1730771658,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136656,
       "num": 136656,
       "word": "郑在玹今日入伍",
@@ -5113,6 +5177,14 @@
       "onboard_time": 1730687538,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134206,
+      "num": 134206,
+      "word": "假性亲密关系",
+      "onboard_time": 1730771720,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 134116,
@@ -5379,6 +5451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124177,
+      "num": 124177,
+      "word": "裴珠泫ins更新",
+      "onboard_time": 1730767100,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124033,
       "num": 124033,
       "word": "靳东吴磊合作",
@@ -5451,14 +5531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121353,
-      "num": 121353,
-      "word": "裴珠泫ins更新",
-      "onboard_time": 1730767100,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121259,
       "num": 121259,
       "word": "教育局回应学生玩死亡游戏晕倒",
@@ -5489,14 +5561,6 @@
       "onboard_time": 1730757012,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120724,
-      "num": 120724,
-      "word": "小猫 那咋了",
-      "onboard_time": 1730770520,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 120080,
@@ -5953,6 +6017,14 @@
       "onboard_time": 1730736499,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75920,
+      "num": 664303,
+      "word": "新中型隐身多用途战斗机歼35A",
+      "onboard_time": 1730771358,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 74654,
@@ -7323,20 +7395,20 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 11172,
+      "num": 1061719,
+      "word": "第七届进博会小词典来了",
+      "onboard_time": 1730723059,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11072,
       "num": 213681,
       "word": "珠帘玉幕主创谈女主独特特质",
       "onboard_time": 1730716280,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10998,
-      "num": 1039839,
-      "word": "第七届进博会小词典来了",
-      "onboard_time": 1730723059,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9963,

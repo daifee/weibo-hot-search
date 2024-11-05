@@ -1,0 +1,410 @@
+{
+  "runTime": 1730771848377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749291,
+        "num": 1749291,
+        "word": "工作人员迟到致下火车旅客无法出站",
+        "onboard_time": 1730767340,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134342,
+        "num": 1134342,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11172,
+        "num": 1061719,
+        "word": "第七届进博会小词典来了",
+        "onboard_time": 1730723059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034579,
+        "num": 1034579,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1024931,
+        "num": 1024931,
+        "word": "南京南站通报儿童掉入股道",
+        "onboard_time": 1730767400,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021470,
+        "num": 1021470,
+        "word": "小鱼回应离婚",
+        "onboard_time": 1730767340,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 714280,
+        "num": 714280,
+        "word": "瑞士卷怎么分别成为第二个秦朗丢作业",
+        "onboard_time": 1730764220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683410,
+        "num": 683410,
+        "word": "店铺钉死窗户应对美国大选",
+        "onboard_time": 1730770099,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 568652,
+        "num": 682303,
+        "word": "接虞书欣丁禹兮三搭",
+        "onboard_time": 1730769079,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75920,
+        "num": 664303,
+        "word": "新中型隐身多用途战斗机歼35A",
+        "onboard_time": 1730771358,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1487459,
+        "num": 656936,
+        "word": "花少 骨瓷",
+        "onboard_time": 1730769679,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735754,
+        "num": 651412,
+        "word": "猫因为我辞职在家压力太大吐了",
+        "onboard_time": 1730732421,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 643978,
+        "num": 643978,
+        "word": "影视飓风Tim离婚",
+        "onboard_time": 1730763257,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 590332,
+        "num": 590332,
+        "word": "美国大选5任总统大乱斗",
+        "onboard_time": 1730726481,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 505205,
+        "num": 505205,
+        "word": "正午阳光 流量",
+        "onboard_time": 1730769439,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436216,
+        "num": 436216,
+        "word": "成都一火锅店回收底油再给顾客食用",
+        "onboard_time": 1730767340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417969,
+        "num": 417969,
+        "word": "郑钦文 别喊了",
+        "onboard_time": 1730733561,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383980,
+        "num": 383980,
+        "word": "特朗普抱怨奥巴马给他留下烂摊子",
+        "onboard_time": 1730735300,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280973,
+        "num": 364283,
+        "word": "永夜星河珠帘玉幕昨日云合",
+        "onboard_time": 1730762116,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252019,
+        "num": 362903,
+        "word": "肖战旅游路透",
+        "onboard_time": 1730733201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713619,
+        "num": 362495,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361758,
+        "num": 361758,
+        "word": "美了1千多年的银杏是唐太宗种的",
+        "onboard_time": 1730739376,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345854,
+        "num": 345854,
+        "word": "范丞丞 出戏",
+        "onboard_time": 1730725461,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333311,
+        "num": 333311,
+        "word": "杨子的财产黄圣依能分多少",
+        "onboard_time": 1730730920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253834,
+        "num": 253834,
+        "word": "尸检显示辛瓦尔死前三天没吃任何东西",
+        "onboard_time": 1730719339,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 251869,
+        "num": 251869,
+        "word": "第七届进博会静候八方宾朋",
+        "onboard_time": 1730770878,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250542,
+        "num": 250542,
+        "word": "多地规定痛经可休假",
+        "onboard_time": 1730764398,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218668,
+        "num": 218668,
+        "word": "陶昕然 现实中谁天天开着豪车上班",
+        "onboard_time": 1730759354,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212564,
+        "num": 212564,
+        "word": "周雨彤真诚的对不起",
+        "onboard_time": 1730735778,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188491,
+        "num": 188491,
+        "word": "丁禹兮演技",
+        "onboard_time": 1730768958,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245626,
+        "num": 187717,
+        "word": "美学者称中国人基本上都是现实主义者",
+        "onboard_time": 1730770999,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228359,
+        "num": 187028,
+        "word": "薛之谦朱桢喝趴了",
+        "onboard_time": 1730769859,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206001,
+        "num": 186956,
+        "word": "小猫 那咋了",
+        "onboard_time": 1730770520,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186251,
+        "num": 186251,
+        "word": "女生考公失败三年剃光头重新开始",
+        "onboard_time": 1730727982,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180174,
+        "num": 180174,
+        "word": "警方通报一男子因家庭纠纷杀妻",
+        "onboard_time": 1730768361,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179683,
+        "num": 179683,
+        "word": "常德火车站回应出站门被锁旅客被困",
+        "onboard_time": 1730771658,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176202,
+        "num": 176202,
+        "word": "年轻人开始整顿天价婚礼",
+        "onboard_time": 1730732960,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175508,
+        "num": 175508,
+        "word": "小巷人家庄桦林自私吗",
+        "onboard_time": 1730768479,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173273,
+        "num": 173273,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169359,
+        "num": 169359,
+        "word": "停狗处",
+        "onboard_time": 1730770999,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159802,
+        "num": 159802,
+        "word": "郑钦文为没控制好情绪致歉",
+        "onboard_time": 1730763257,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157879,
+        "num": 157879,
+        "word": "空警500A将亮相中国航展",
+        "onboard_time": 1730769260,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143071,
+        "num": 143071,
+        "word": "永夜星河 删吻戏",
+        "onboard_time": 1730726720,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142874,
+        "num": 142874,
+        "word": "郑钦文世界排名升至第六",
+        "onboard_time": 1730768060,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141693,
+        "num": 141693,
+        "word": "TXT in了",
+        "onboard_time": 1730768299,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138313,
+        "num": 138313,
+        "word": "流浪地球3进度条动了",
+        "onboard_time": 1730766920,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137356,
+        "num": 137356,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134206,
+        "num": 134206,
+        "word": "假性亲密关系",
+        "onboard_time": 1730771720,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131921,
+        "num": 131921,
+        "word": "山东省考公告",
+        "onboard_time": 1730767879,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124177,
+        "num": 124177,
+        "word": "裴珠泫ins更新",
+        "onboard_time": 1730767100,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#六届进博会习近平主席作出这些重要论述#"
+    }
+  }
+}
