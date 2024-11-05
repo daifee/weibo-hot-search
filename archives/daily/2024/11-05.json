@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730805530632,
+  "endTime": 1730806549567,
   "band_list": [
     {
       "raw_hot": 7678975,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1517860,
+      "num": 612325,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1513878,
       "num": 1513878,
       "word": "公司宣布将暂停王承渲一切工作",
@@ -81,14 +89,6 @@
       "onboard_time": 1730769679,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1478195,
-      "num": 612325,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1414566,
@@ -227,6 +227,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1021842,
+      "num": 502321,
+      "word": "刘谦抗癌成功称已完全康复",
+      "onboard_time": 1730803582,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1007438,
+      "num": 837538,
+      "word": "瑞士卷事件博主删除视频",
+      "onboard_time": 1730802742,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 993071,
       "num": 651412,
       "word": "猫因为我辞职在家压力太大吐了",
@@ -249,14 +265,6 @@
       "onboard_time": 1730770099,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 948359,
-      "num": 418793,
-      "word": "刘谦抗癌成功称已完全康复",
-      "onboard_time": 1730803582,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 940137,
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 837538,
-      "num": 837538,
-      "word": "瑞士卷事件博主删除视频",
-      "onboard_time": 1730802742,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 824271,
       "num": 824271,
       "word": "人民空军官宣",
@@ -353,6 +353,14 @@
       "onboard_time": 1730719339,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 779160,
+      "num": 463860,
+      "word": "陈雪凝回应抄袭汪苏泷",
+      "onboard_time": 1730805020,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 771966,
@@ -417,6 +425,14 @@
       "onboard_time": 1730774178,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643370,
+      "num": 446443,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 641171,
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490358,
+      "num": 445534,
+      "word": "闵塔鲨给赵露思做的高定造型",
+      "onboard_time": 1730805141,
+      "rank": 30,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 487896,
       "num": 724179,
       "word": "心动的信号7",
@@ -651,12 +675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 476639,
-      "num": 357781,
-      "word": "美国迎来史上最势均力敌总统选举",
-      "onboard_time": 1730803282,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 478703,
+      "num": 478703,
+      "word": "6岁女孩冷冻卵巢组织免化疗损害",
+      "onboard_time": 1730804541,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475658,
@@ -673,6 +697,14 @@
       "onboard_time": 1730709919,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443382,
+      "num": 443382,
+      "word": "莫雷加德说王楚钦是世界上最好的球员",
+      "onboard_time": 1730805561,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 436216,
@@ -753,6 +785,14 @@
       "onboard_time": 1730776699,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 370004,
+      "num": 370004,
+      "word": "任嘉伦全部作品四个字的含金量",
+      "onboard_time": 1730805561,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 368958,
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295126,
+      "num": 295126,
+      "word": "肖战黑粉未道歉被公告",
+      "onboard_time": 1730805439,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289017,
       "num": 289017,
       "word": "多地规定痛经可休假",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1730781021,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265896,
-      "num": 265896,
-      "word": "肖战黑粉未道歉被公告",
-      "onboard_time": 1730805439,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 265233,
@@ -1115,14 +1155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 253566,
-      "num": 253566,
-      "word": "闵塔鲨给赵露思做的高定造型",
-      "onboard_time": 1730805141,
-      "rank": 30,
-      "category": "剧集,时尚"
-    },
-    {
       "raw_hot": 251869,
       "num": 251869,
       "word": "第七届进博会静候八方宾朋",
@@ -1155,6 +1187,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 249561,
+      "num": 249561,
+      "word": "永夜星河时长",
+      "onboard_time": 1730805622,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241688,
       "num": 241688,
       "word": "杜兰特绝杀",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1730801480,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 239626,
-      "num": 261417,
-      "word": "陈雪凝回应抄袭汪苏泷",
-      "onboard_time": 1730805020,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 234838,
@@ -1211,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227920,
+      "num": 452309,
+      "word": "女子怕疼还打耳洞耳朵长出个乒乓球",
+      "onboard_time": 1730805742,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227830,
       "num": 270312,
       "word": "慕声彩蛋是丁禹兮特意回横店拍的",
@@ -1235,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223867,
-      "num": 365397,
-      "word": "6岁女孩冷冻卵巢组织免化疗损害",
-      "onboard_time": 1730804541,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 214504,
+      "num": 214504,
+      "word": "叠纸心意",
+      "onboard_time": 1730804899,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 214109,
@@ -1379,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192099,
+      "num": 192099,
+      "word": "登陆少年开场",
+      "onboard_time": 1730805921,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191612,
       "num": 191612,
       "word": "官方回应考研报名禁止使用海马体照片",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1730792120,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187323,
+      "num": 187323,
+      "word": "金星伴月",
+      "onboard_time": 1730806040,
+      "rank": 35,
+      "category": "自然"
     },
     {
       "raw_hot": 186233,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1730768060,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168793,
-      "num": 168793,
-      "word": "叠纸心意",
-      "onboard_time": 1730804899,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 165955,
@@ -1891,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127546,
+      "num": 127546,
+      "word": "女儿被录到土木专业父母感觉天塌了",
+      "onboard_time": 1730806401,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126052,
       "num": 174130,
       "word": "檀健次听到喊他电子布洛芬的反应",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1730726362,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125161,
+      "num": 125161,
+      "word": "侯明昊走红毯还要刀我",
+      "onboard_time": 1730806462,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 124660,
@@ -2025,6 +2089,14 @@
       "onboard_time": 1730778623,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114197,
+      "num": 114197,
+      "word": "哈里斯特朗普竞选主张大pk",
+      "onboard_time": 1730806160,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 112866,
@@ -2331,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33334,
+      "num": 398693,
+      "word": "锅盔叔叔不收红包称受之有愧",
+      "onboard_time": 1730804720,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32199,
       "num": 1606911,
       "word": "在建世界最高桥新进展来了",
@@ -2424,14 +2504,6 @@
       "word": "广西大学回应副院长被指强奸女学生",
       "onboard_time": 1730749991,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23076,
-      "num": 398693,
-      "word": "锅盔叔叔不收红包称受之有愧",
-      "onboard_time": 1730804720,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2545,6 +2617,14 @@
       "onboard_time": 1730790620,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 16118,
+      "num": 219010,
+      "word": "王子奇谢可寅 哈岚小分队",
+      "onboard_time": 1730805141,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 16081,

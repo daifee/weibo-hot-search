@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730805530632,
+  "endTime": 1730806549567,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -779,12 +779,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1021842,
+      "num": 502321,
+      "word": "刘谦抗癌成功称已完全康复",
+      "onboard_time": 1730803582,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1018410,
       "num": 1018410,
       "word": "孙颖莎24岁生日发文",
       "onboard_time": 1730724619,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1007438,
+      "num": 837538,
+      "word": "瑞士卷事件博主删除视频",
+      "onboard_time": 1730802742,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1003762,
@@ -873,14 +889,6 @@
       "onboard_time": 1730623759,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948359,
-      "num": 418793,
-      "word": "刘谦抗癌成功称已完全康复",
-      "onboard_time": 1730803582,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 940137,
@@ -1019,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 837538,
-      "num": 837538,
-      "word": "瑞士卷事件博主删除视频",
-      "onboard_time": 1730802742,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 830683,
       "num": 357635,
       "word": "特朗普承认有败选可能",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1730693061,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 779160,
+      "num": 463860,
+      "word": "陈雪凝回应抄袭汪苏泷",
+      "onboard_time": 1730805020,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 774623,
@@ -1449,6 +1457,14 @@
       "onboard_time": 1730630958,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 643370,
+      "num": 446443,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 643066,
@@ -2019,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490358,
+      "num": 445534,
+      "word": "闵塔鲨给赵露思做的高定造型",
+      "onboard_time": 1730805141,
+      "rank": 30,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 490059,
       "num": 343392,
       "word": "美邦老板称和贾乃亮合作效果差",
@@ -2083,20 +2107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478703,
+      "num": 478703,
+      "word": "6岁女孩冷冻卵巢组织免化疗损害",
+      "onboard_time": 1730804541,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477614,
       "num": 477614,
       "word": "狼队对战AG",
       "onboard_time": 1730717298,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 476639,
-      "num": 357781,
-      "word": "美国迎来史上最势均力敌总统选举",
-      "onboard_time": 1730803282,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 475880,
@@ -2209,6 +2233,14 @@
       "onboard_time": 1730703439,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443382,
+      "num": 443382,
+      "word": "莫雷加德说王楚钦是世界上最好的球员",
+      "onboard_time": 1730805561,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 442130,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1730571854,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 370004,
+      "num": 370004,
+      "word": "任嘉伦全部作品四个字的含金量",
+      "onboard_time": 1730805561,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 368958,
@@ -3035,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295126,
+      "num": 295126,
+      "word": "肖战黑粉未道歉被公告",
+      "onboard_time": 1730805439,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294658,
       "num": 249058,
       "word": "林俊杰演唱会收官",
@@ -3275,14 +3323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265896,
-      "num": 265896,
-      "word": "肖战黑粉未道歉被公告",
-      "onboard_time": 1730805439,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265233,
       "num": 287200,
       "word": "美国大选选举日首个投票点结果出炉",
@@ -3419,14 +3459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 253566,
-      "num": 253566,
-      "word": "闵塔鲨给赵露思做的高定造型",
-      "onboard_time": 1730805141,
-      "rank": 30,
-      "category": "剧集,时尚"
-    },
-    {
       "raw_hot": 251869,
       "num": 251869,
       "word": "第七届进博会静候八方宾朋",
@@ -3481,6 +3513,14 @@
       "onboard_time": 1730645961,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249561,
+      "num": 249561,
+      "word": "永夜星河时长",
+      "onboard_time": 1730805622,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 248133,
@@ -3577,14 +3617,6 @@
       "onboard_time": 1730685980,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239626,
-      "num": 261417,
-      "word": "陈雪凝回应抄袭汪苏泷",
-      "onboard_time": 1730805020,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 239372,
@@ -3747,6 +3779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227920,
+      "num": 452309,
+      "word": "女子怕疼还打耳洞耳朵长出个乒乓球",
+      "onboard_time": 1730805742,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227830,
       "num": 270312,
       "word": "慕声彩蛋是丁禹兮特意回横店拍的",
@@ -3793,14 +3833,6 @@
       "onboard_time": 1730627418,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223867,
-      "num": 365397,
-      "word": "6岁女孩冷冻卵巢组织免化疗损害",
-      "onboard_time": 1730804541,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222872,
@@ -3921,6 +3953,14 @@
       "onboard_time": 1730683279,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 214504,
+      "num": 214504,
+      "word": "叠纸心意",
+      "onboard_time": 1730804899,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 214109,
@@ -4643,6 +4683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192099,
+      "num": 192099,
+      "word": "登陆少年开场",
+      "onboard_time": 1730805921,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191612,
       "num": 191612,
       "word": "官方回应考研报名禁止使用海马体照片",
@@ -4769,6 +4817,14 @@
       "onboard_time": 1730792120,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187323,
+      "num": 187323,
+      "word": "金星伴月",
+      "onboard_time": 1730806040,
+      "rank": 35,
+      "category": "自然"
     },
     {
       "raw_hot": 186388,
@@ -5289,14 +5345,6 @@
       "onboard_time": 1730711540,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168793,
-      "num": 168793,
-      "word": "叠纸心意",
-      "onboard_time": 1730804899,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 167731,
@@ -6571,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127546,
+      "num": 127546,
+      "word": "女儿被录到土木专业父母感觉天塌了",
+      "onboard_time": 1730806401,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127522,
       "num": 127522,
       "word": "郑业成演出了李白的少年气",
@@ -6641,6 +6697,14 @@
       "onboard_time": 1730648898,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125161,
+      "num": 125161,
+      "word": "侯明昊走红毯还要刀我",
+      "onboard_time": 1730806462,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125130,
@@ -6937,6 +7001,14 @@
       "onboard_time": 1730778623,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114197,
+      "num": 114197,
+      "word": "哈里斯特朗普竞选主张大pk",
+      "onboard_time": 1730806160,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 113165,
@@ -8099,6 +8171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 33334,
+      "num": 398693,
+      "word": "锅盔叔叔不收红包称受之有愧",
+      "onboard_time": 1730804720,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33232,
       "num": 423957,
       "word": "顶级名校生可以卷到什么程度",
@@ -8385,14 +8465,6 @@
       "onboard_time": 1730658552,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23076,
-      "num": 398693,
-      "word": "锅盔叔叔不收红包称受之有愧",
-      "onboard_time": 1730804720,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23012,
@@ -8769,6 +8841,14 @@
       "onboard_time": 1730665511,
       "rank": 34,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 16118,
+      "num": 219010,
+      "word": "王子奇谢可寅 哈岚小分队",
+      "onboard_time": 1730805141,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 16105,
