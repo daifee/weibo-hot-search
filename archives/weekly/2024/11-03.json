@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730816470976,
+  "endTime": 1730817582475,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -43,6 +43,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 4407998,
+      "num": 4407998,
+      "word": "瑞士卷当事人称非常后悔并抱歉",
+      "onboard_time": 1730814262,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 4361928,
       "num": 4361928,
       "word": "BLG对战T1",
@@ -73,14 +81,6 @@
       "onboard_time": 1730709919,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3738994,
-      "num": 3738994,
-      "word": "瑞士卷当事人称非常后悔并抱歉",
-      "onboard_time": 1730814262,
-      "rank": 0,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 3475710,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1414566,
-      "num": 393041,
+      "num": 457693,
       "word": "21岁女生下腹疼痛确诊胃癌晚期",
       "onboard_time": 1730796381,
       "rank": 20,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 845550,
+      "num": 845550,
+      "word": "11岁男孩发烧心脏停跳52小时",
+      "onboard_time": 1730813304,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838430,
       "num": 838430,
       "word": "永夜星河开分7.5",
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761168,
+      "num": 761168,
+      "word": "永夜星河 我就说一天播一集会出事吧",
+      "onboard_time": 1730816125,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 760222,
       "num": 760222,
       "word": "余承东称史上最强大的Mate11月见",
@@ -1385,14 +1401,6 @@
       "onboard_time": 1730623158,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 688618,
-      "num": 688618,
-      "word": "11岁男孩发烧心脏停跳52小时",
-      "onboard_time": 1730813304,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686407,
@@ -1643,6 +1651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 627681,
+      "num": 588348,
+      "word": "美国东海岸投票站开放",
+      "onboard_time": 1730806642,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 627145,
       "num": 627145,
       "word": "BLG教练",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1730782642,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 617422,
-      "num": 552496,
-      "word": "美国东海岸投票站开放",
-      "onboard_time": 1730806642,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 616821,
@@ -2243,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477623,
+      "num": 477623,
+      "word": "雷军称将推出小米驾校",
+      "onboard_time": 1730813423,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 477614,
       "num": 477614,
       "word": "狼队对战AG",
@@ -2433,14 +2449,6 @@
       "onboard_time": 1730610139,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431673,
-      "num": 431673,
-      "word": "雷军称将推出小米驾校",
-      "onboard_time": 1730813423,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 431556,
@@ -3075,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322798,
+      "num": 322798,
+      "word": "母女起争执女儿怒砸太古里一专卖店",
+      "onboard_time": 1730812884,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320723,
       "num": 320723,
       "word": "女子哭诉残障母亲在养老院遭多次猥亵",
@@ -3203,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304199,
+      "num": 304199,
+      "word": "怪奇物语",
+      "onboard_time": 1730812703,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299831,
       "num": 299831,
       "word": "媒体评郑钦文说别喊了",
@@ -3283,28 +3307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289698,
-      "num": 289698,
-      "word": "怪奇物语",
-      "onboard_time": 1730812703,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289569,
       "num": 454800,
       "word": "On机器人",
       "onboard_time": 1730564301,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 289298,
-      "num": 289298,
-      "word": "永夜星河 我就说一天播一集会出事吧",
-      "onboard_time": 1730816125,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 289017,
@@ -3371,6 +3379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281257,
+      "num": 281257,
+      "word": "哈尔滨文旅回应网红夫妇有传染病",
+      "onboard_time": 1730817144,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280800,
+      "num": 280800,
+      "word": "教体局通报班主任家长群催缴医保",
+      "onboard_time": 1730814443,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280492,
       "num": 280492,
       "word": "TES",
@@ -3401,14 +3425,6 @@
       "onboard_time": 1730680397,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 277838,
-      "num": 277838,
-      "word": "母女起争执女儿怒砸太古里一专卖店",
-      "onboard_time": 1730812884,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277787,
@@ -3520,14 +3536,6 @@
       "word": "2小伙买刮刮乐中百万室友发声",
       "onboard_time": 1730553320,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267024,
-      "num": 267024,
-      "word": "教体局通报班主任家长群催缴医保",
-      "onboard_time": 1730814443,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3761,6 +3769,14 @@
       "onboard_time": 1730689998,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247883,
+      "num": 247883,
+      "word": "丁禹兮 人前vs妖后",
+      "onboard_time": 1730816304,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 247663,
@@ -4083,6 +4099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221855,
+      "num": 221855,
+      "word": "吴磊演技",
+      "onboard_time": 1730815893,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "猎罪图鉴官微打假",
@@ -4337,14 +4361,6 @@
       "onboard_time": 1730721920,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 208303,
-      "num": 208303,
-      "word": "丁禹兮 人前vs妖后",
-      "onboard_time": 1730816304,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 208280,
@@ -5196,19 +5212,11 @@
     },
     {
       "raw_hot": 184153,
-      "num": 184153,
+      "num": 553735,
       "word": "国企董事长15个月收497瓶名酒",
       "onboard_time": 1730813903,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184099,
-      "num": 184099,
-      "word": "吴磊演技",
-      "onboard_time": 1730815893,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 184046,
@@ -6571,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142891,
+      "num": 187055,
+      "word": "王楚钦7325分继续霸榜世界第一",
+      "onboard_time": 1730817444,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142662,
       "num": 142662,
       "word": "苏新皓是因为passion开始唱跳的",
@@ -7195,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123770,
+      "num": 278372,
+      "word": "林诗栋vs法尔克",
+      "onboard_time": 1730815943,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123732,
       "num": 123732,
       "word": "唐香玉真美",
@@ -7771,6 +7795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89190,
+      "num": 572630,
+      "word": "11岁男孩暴发性心肌炎37天跑赢死神",
+      "onboard_time": 1730817384,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89011,
       "num": 186325,
       "word": "黄圣依大学时期就会理财",
@@ -7859,6 +7891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83404,
+      "num": 566344,
+      "word": "成都太古里回应Tiffany专柜被砸",
+      "onboard_time": 1730816663,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82395,
       "num": 105161,
       "word": "李佳航为BLG加油",
@@ -7880,6 +7920,14 @@
       "word": "大学生为什么偏爱夜晚旅游",
       "onboard_time": 1730714960,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79291,
+      "num": 478028,
+      "word": "河南固始被害妻子曾多次遭家暴",
+      "onboard_time": 1730815943,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -8097,14 +8145,6 @@
       "onboard_time": 1730748970,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 58566,
-      "num": 409475,
-      "word": "河南固始被害妻子曾多次遭家暴",
-      "onboard_time": 1730815943,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56918,
@@ -8339,6 +8379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46019,
+      "num": 459152,
+      "word": "李嘉琦在家电采销直播间疯狂下单",
+      "onboard_time": 1730816784,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 45980,
       "num": 190126,
       "word": "当地回应村民违建二千平房屋",
@@ -8361,14 +8409,6 @@
       "onboard_time": 1730783900,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44767,
-      "num": 278372,
-      "word": "林诗栋vs法尔克",
-      "onboard_time": 1730815943,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 44160,
@@ -8651,6 +8691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33851,
+      "num": 479055,
+      "word": "刘琳宋佳影响力演员",
+      "onboard_time": 1730816603,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33708,
       "num": 33708,
       "word": "返回舱舱门打开",
@@ -8712,6 +8760,22 @@
       "word": "2名华商在菲遭抢劫佣人为劫匪开门",
       "onboard_time": 1730730622,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30940,
+      "num": 334234,
+      "word": "瑞士卷博主称当时与丈夫闹矛盾",
+      "onboard_time": 1730816543,
+      "rank": 28,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 30881,
+      "num": 482328,
+      "word": "被喊话全国巡剪的晓华有啥魔力",
+      "onboard_time": 1730815644,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -9131,14 +9195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19591,
-      "num": 482328,
-      "word": "被喊话全国巡剪的晓华有啥魔力",
-      "onboard_time": 1730815644,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19431,
       "num": 19431,
       "word": "两千多年前的岭南什么样",
@@ -9513,6 +9569,14 @@
       "onboard_time": 1730748613,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12937,
+      "num": 477627,
+      "word": "导演称不想把珠帘玉幕拍成偶像剧",
+      "onboard_time": 1730817323,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 12875,
