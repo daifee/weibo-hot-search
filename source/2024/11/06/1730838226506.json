@@ -1,0 +1,410 @@
+{
+  "runTime": 1730838226506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 188329,
+        "num": 188329,
+        "word": "河南女子被害前打电话喊妈妈救命",
+        "onboard_time": 1730822840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88033,
+        "num": 88033,
+        "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+        "onboard_time": 1730819604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207,
+        "num": 72449,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61627,
+        "num": 61627,
+        "word": "混血女儿英语倒数爸爸不淡定了",
+        "onboard_time": 1730825956,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59119,
+        "num": 59119,
+        "word": "撞上劳斯莱斯的货车只有100万保险",
+        "onboard_time": 1730821401,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335464,
+        "num": 58649,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52539,
+        "num": 52539,
+        "word": "永夜星河 我就说一天播一集会出事吧",
+        "onboard_time": 1730816125,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50101,
+        "num": 50101,
+        "word": "行贿者一次性送150瓶五粮液",
+        "onboard_time": 1730830632,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37473,
+        "num": 37473,
+        "word": "警方通报网传柳州女子喝醉被强暴",
+        "onboard_time": 1730818704,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34814,
+        "num": 34814,
+        "word": "陈雪凝回应抄袭汪苏泷",
+        "onboard_time": 1730805020,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75082,
+        "num": 34457,
+        "word": "美国东海岸投票站开放",
+        "onboard_time": 1730806642,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66855,
+        "num": 34174,
+        "word": "字节跳动103人违法违规被辞退",
+        "onboard_time": 1730823979,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60536,
+        "num": 33449,
+        "word": "美国迎来史上最势均力敌总统选举",
+        "onboard_time": 1730803282,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48858,
+        "num": 33062,
+        "word": "张泉灵没预料到麦琳引发关注",
+        "onboard_time": 1730823918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43995,
+        "num": 32145,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31927,
+        "num": 31927,
+        "word": "哈里斯特朗普竞选主张大pk",
+        "onboard_time": 1730806160,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30367,
+        "num": 30367,
+        "word": "范丞丞回应小巷人家演技争议",
+        "onboard_time": 1730818825,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27057,
+        "num": 30016,
+        "word": "永夜星河",
+        "onboard_time": 1730803641,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23905,
+        "num": 29859,
+        "word": "虞书欣第一个男主角也来打call了",
+        "onboard_time": 1730814383,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23067,
+        "num": 29310,
+        "word": "王鹤棣赵露思台下合影",
+        "onboard_time": 1730822960,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13708,
+        "num": 28863,
+        "word": "媒体评瑞士卷事件",
+        "onboard_time": 1730837412,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130521,
+        "num": 28402,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 43458,
+        "num": 28048,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28006,
+        "num": 28006,
+        "word": "向佐郭碧婷 再见爱人",
+        "onboard_time": 1730801362,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27603,
+        "num": 27603,
+        "word": "忽然明白少年夫妻老来伴的含义",
+        "onboard_time": 1730810421,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37536,
+        "num": 27356,
+        "word": "虞书欣赵露思 干票大的引爆视界大会",
+        "onboard_time": 1730803701,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26760,
+        "num": 26760,
+        "word": "柳州女子喝醉被强暴为不实信息",
+        "onboard_time": 1730821221,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21274,
+        "num": 26590,
+        "word": "刘谦抗癌成功称已完全康复",
+        "onboard_time": 1730803582,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18834,
+        "num": 26456,
+        "word": "丁禹兮 人前vs妖后",
+        "onboard_time": 1730816304,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12361,
+        "num": 26453,
+        "word": "要加强新质战斗力建设",
+        "onboard_time": 1730838131,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26451,
+        "num": 26451,
+        "word": "近半价卖掉400万房子反悔需赔40万",
+        "onboard_time": 1730810662,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26117,
+        "num": 26117,
+        "word": "11岁男孩发烧心脏停跳52小时",
+        "onboard_time": 1730813304,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18032,
+        "num": 25728,
+        "word": "权志龙说不要再少人了",
+        "onboard_time": 1730814862,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25693,
+        "num": 25693,
+        "word": "一个人成熟的6种迹象",
+        "onboard_time": 1730821519,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24029,
+        "num": 24029,
+        "word": "原来盖被子也是讲顺序的",
+        "onboard_time": 1730828294,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22998,
+        "num": 22998,
+        "word": "大学生的开封PassionRide",
+        "onboard_time": 1730834532,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22086,
+        "num": 22086,
+        "word": "母女起争执女儿怒砸太古里一专卖店",
+        "onboard_time": 1730812884,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21156,
+        "num": 21156,
+        "word": "成都太古里回应Tiffany专柜被砸",
+        "onboard_time": 1730816663,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21067,
+        "num": 21067,
+        "word": "锅盔叔叔称妻子病倒时家里只有10万",
+        "onboard_time": 1730833872,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18410,
+        "num": 18410,
+        "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+        "onboard_time": 1730811681,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18170,
+        "num": 18170,
+        "word": "王鹤棣田曦薇牵手走秀",
+        "onboard_time": 1730811441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17980,
+        "num": 17980,
+        "word": "货车撞上粤港两地牌劳斯莱斯",
+        "onboard_time": 1730829015,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17524,
+        "num": 17524,
+        "word": "当消除编制带来的溢价",
+        "onboard_time": 1730819543,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17448,
+        "num": 17448,
+        "word": "河南固始被害妻子曾多次遭家暴",
+        "onboard_time": 1730815943,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17213,
+        "num": 17213,
+        "word": "种地吧",
+        "onboard_time": 1730813963,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17087,
+        "num": 17087,
+        "word": "清华大学发了凌妙妙转场",
+        "onboard_time": 1730798122,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16869,
+        "num": 16869,
+        "word": "女子哭诉残障母亲在养老院遭多次猥亵",
+        "onboard_time": 1730807302,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16729,
+        "num": 16729,
+        "word": "怪奇物语",
+        "onboard_time": 1730812703,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14760,
+        "num": 16728,
+        "word": "钱天一vs考夫蔓",
+        "onboard_time": 1730823380,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12322,
+        "num": 16723,
+        "word": "雷军称将推出小米驾校",
+        "onboard_time": 1730813423,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察空降兵军#"
+    }
+  }
+}
