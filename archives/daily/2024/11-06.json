@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730842620177,
+  "endTime": 1730845285101,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361436,
+      "num": 129274,
+      "word": "美国迎来史上最势均力敌总统选举",
+      "onboard_time": 1730803282,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 347810,
       "num": 347810,
       "word": "撞上劳斯莱斯的货车只有100万保险",
@@ -97,6 +105,14 @@
       "onboard_time": 1730818825,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335995,
+      "num": 335995,
+      "word": "哈里斯敲门拉选票最后一搏",
+      "onboard_time": 1730841491,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 308161,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 162374,
-      "num": 94120,
+      "num": 119975,
       "word": "字节跳动103人违法违规被辞退",
       "onboard_time": 1730823979,
       "rank": 49,
@@ -235,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157432,
+      "num": 158661,
+      "word": "混血女儿英语倒数爸爸不淡定了",
+      "onboard_time": 1730825956,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156350,
       "num": 156350,
       "word": "哈里斯特朗普竞选主张大pk",
       "onboard_time": 1730806160,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154857,
+      "num": 154857,
+      "word": "所谓饭圈大粉不到一年骗350多万元",
+      "onboard_time": 1730841433,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147799,
@@ -267,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139603,
-      "num": 115016,
-      "word": "美国迎来史上最势均力敌总统选举",
-      "onboard_time": 1730803282,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134005,
       "num": 134005,
       "word": "怪奇物语第五季",
@@ -289,14 +313,6 @@
       "onboard_time": 1730816304,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132649,
-      "num": 158661,
-      "word": "混血女儿英语倒数爸爸不淡定了",
-      "onboard_time": 1730825956,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124526,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67465,
+      "num": 67465,
+      "word": "媒体评瑞士卷事件",
+      "onboard_time": 1730837412,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62401,
       "num": 88830,
       "word": "钱天一vs考夫蔓",
@@ -459,11 +483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47876,
-      "num": 47876,
-      "word": "媒体评瑞士卷事件",
-      "onboard_time": 1730837412,
-      "rank": 20,
+      "raw_hot": 46532,
+      "num": 46532,
+      "word": "忽然明白少年夫妻老来伴的含义",
+      "onboard_time": 1730810421,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -475,28 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40572,
+      "num": 40572,
+      "word": "给你吃瑞士卷不能代表婚姻的胜利",
+      "onboard_time": 1730839990,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37536,
       "num": 30567,
       "word": "虞书欣赵露思 干票大的引爆视界大会",
       "onboard_time": 1730803701,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37154,
-      "num": 33674,
-      "word": "忽然明白少年夫妻老来伴的含义",
-      "onboard_time": 1730810421,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36697,
-      "num": 46353,
-      "word": "哈里斯敲门拉选票最后一搏",
-      "onboard_time": 1730841491,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 34167,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24392,
+      "num": 29679,
+      "word": "檀健次说猎罪图鉴2的沈翊更多变",
+      "onboard_time": 1730836092,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22998,
       "num": 22998,
       "word": "大学生的开封PassionRide",
@@ -563,11 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22260,
-      "num": 25057,
-      "word": "给你吃瑞士卷不能代表婚姻的胜利",
-      "onboard_time": 1730839990,
-      "rank": 31,
+      "raw_hot": 22425,
+      "num": 29652,
+      "word": "我国县级博物馆卧虎藏龙",
+      "onboard_time": 1730844312,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -579,19 +603,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17649,
-      "num": 17984,
-      "word": "檀健次说猎罪图鉴2的沈翊更多变",
-      "onboard_time": 1730836092,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14608,
-      "num": 17974,
-      "word": "所谓饭圈大粉不到一年骗350多万元",
-      "onboard_time": 1730841433,
-      "rank": 43,
+      "raw_hot": 19502,
+      "num": 132330,
+      "word": "分个瑞士卷也要全网讨论吗",
+      "onboard_time": 1730844433,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
