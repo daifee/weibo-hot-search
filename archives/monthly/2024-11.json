@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730781646371,
+  "endTime": 1730784111979,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -689,6 +689,14 @@
       "onboard_time": 1730432479,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1330559,
+      "num": 1330559,
+      "word": "海马体 天真蓝",
+      "onboard_time": 1730779281,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 1316195,
@@ -2171,12 +2179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616342,
-      "num": 616342,
-      "word": "海马体 天真蓝",
-      "onboard_time": 1730779281,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 617565,
+      "num": 617565,
+      "word": "高雅CP 线下",
+      "onboard_time": 1730782642,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 616290,
@@ -2209,6 +2217,14 @@
       "onboard_time": 1730430140,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612484,
+      "num": 720206,
+      "word": "歼35可能作为航母舰载机",
+      "onboard_time": 1730780721,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 611911,
@@ -2785,6 +2801,14 @@
       "onboard_time": 1730559680,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516451,
+      "num": 516451,
+      "word": "慕瑶 不愧是原著大女主",
+      "onboard_time": 1730781143,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 514677,
@@ -3907,14 +3931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357476,
-      "num": 720206,
-      "word": "歼35可能作为航母舰载机",
-      "onboard_time": 1730780721,
-      "rank": 47,
-      "category": "军事"
-    },
-    {
       "raw_hot": 354960,
       "num": 354960,
       "word": "警方回应同学被打男生要报警被老师呵斥",
@@ -4324,7 +4340,7 @@
     },
     {
       "raw_hot": 306732,
-      "num": 284372,
+      "num": 316494,
       "word": "Tim能不能上再见爱人",
       "onboard_time": 1730780060,
       "rank": 38,
@@ -4387,12 +4403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299831,
+      "num": 299831,
+      "word": "媒体评郑钦文说别喊了",
+      "onboard_time": 1730782820,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298758,
       "num": 298758,
       "word": "张大大晒与赵露思华晨宇合照",
       "onboard_time": 1730542518,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297419,
+      "num": 297419,
+      "word": "贵阳奥体中心被禁言了",
+      "onboard_time": 1730783540,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297388,
@@ -4409,14 +4441,6 @@
       "onboard_time": 1730654473,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295709,
-      "num": 399047,
-      "word": "慕瑶 不愧是原著大女主",
-      "onboard_time": 1730781143,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 295683,
@@ -4641,6 +4665,14 @@
       "onboard_time": 1730563882,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 280066,
+      "num": 341808,
+      "word": "实际上请痛经假的人并不多",
+      "onboard_time": 1730782820,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279871,
@@ -4977,6 +5009,14 @@
       "onboard_time": 1730539819,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258847,
+      "num": 500343,
+      "word": "小巷人家豆瓣开分8.2",
+      "onboard_time": 1730782281,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 258221,
@@ -5683,6 +5723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218219,
+      "num": 488438,
+      "word": "周也吊带黑裙",
+      "onboard_time": 1730781021,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217220,
       "num": 217220,
       "word": "如果周雨彤去现在就出发",
@@ -6171,6 +6219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204825,
+      "num": 204825,
+      "word": "广州草莓音乐节阵容",
+      "onboard_time": 1730783300,
+      "rank": 40,
+      "category": "演出,音乐"
+    },
+    {
       "raw_hot": 204737,
       "num": 204737,
       "word": "穆祉丞发博让私生离私生活远一点",
@@ -6297,6 +6353,14 @@
       "onboard_time": 1730474480,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201818,
+      "num": 201818,
+      "word": "桃花坞开放中定档",
+      "onboard_time": 1730783900,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 201202,
@@ -6544,6 +6608,14 @@
       "word": "哈里斯特朗普在同一个地方拉票",
       "onboard_time": 1730624720,
       "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "乌克兰朝鲜",
+      "onboard_time": 1730783241,
+      "rank": 43,
       "category": "国外时政"
     },
     {
@@ -7217,6 +7289,14 @@
       "onboard_time": 1730383640,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178604,
+      "num": 178604,
+      "word": "52岁智障男子被包装成蓝领背上车贷",
+      "onboard_time": 1730781861,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178549,
@@ -11403,6 +11483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82827,
+      "num": 527360,
+      "word": "2024美国大选选举日投票正式开始",
+      "onboard_time": 1730783841,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 82395,
       "num": 105161,
       "word": "李佳航为BLG加油",
@@ -12684,7 +12772,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 1130074,
+      "num": 1182244,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -13707,6 +13795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18560,
+      "num": 517130,
+      "word": "高额康复费成烧伤患者家庭巨大挑战",
+      "onboard_time": 1730783119,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18525,
       "num": 42291,
       "word": "广西南宁一房屋倒塌已致3人遇难",
@@ -14131,11 +14227,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13235,
+      "num": 473713,
+      "word": "起底广州宝卓系金融爆雷",
+      "onboard_time": 1730783119,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13215,
       "num": 21176,
       "word": "再去军博能看到问勇路路牌了",
       "onboard_time": 1730499011,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13203,
+      "num": 477429,
+      "word": "小伙自驾去英国1个月后自行车被偷",
+      "onboard_time": 1730783900,
+      "rank": 18,
       "category": "社会新闻"
     },
     {

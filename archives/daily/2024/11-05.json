@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730781646371,
+  "endTime": 1730784111979,
   "band_list": [
     {
       "raw_hot": 2861984,
@@ -41,6 +41,14 @@
       "onboard_time": 1730771658,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1330559,
+      "num": 1330559,
+      "word": "海马体 天真蓝",
+      "onboard_time": 1730779281,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 1314280,
@@ -219,12 +227,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 616342,
-      "num": 616342,
-      "word": "海马体 天真蓝",
-      "onboard_time": 1730779281,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 617565,
+      "num": 617565,
+      "word": "高雅CP 线下",
+      "onboard_time": 1730782642,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 616272,
@@ -233,6 +241,14 @@
       "onboard_time": 1730746572,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 612484,
+      "num": 720206,
+      "word": "歼35可能作为航母舰载机",
+      "onboard_time": 1730780721,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 600593,
@@ -313,6 +329,14 @@
       "onboard_time": 1730775440,
       "rank": 45,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 516451,
+      "num": 516451,
+      "word": "慕瑶 不愧是原著大女主",
+      "onboard_time": 1730781143,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 514677,
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357476,
-      "num": 720206,
-      "word": "歼35可能作为航母舰载机",
-      "onboard_time": 1730780721,
-      "rank": 47,
-      "category": "军事"
-    },
-    {
       "raw_hot": 350561,
       "num": 362903,
       "word": "肖战旅游路透",
@@ -532,11 +548,27 @@
     },
     {
       "raw_hot": 306732,
-      "num": 284372,
+      "num": 316494,
       "word": "Tim能不能上再见爱人",
       "onboard_time": 1730780060,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 299831,
+      "num": 299831,
+      "word": "媒体评郑钦文说别喊了",
+      "onboard_time": 1730782820,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297419,
+      "num": 297419,
+      "word": "贵阳奥体中心被禁言了",
+      "onboard_time": 1730783540,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297388,
@@ -545,14 +577,6 @@
       "onboard_time": 1730779160,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295709,
-      "num": 399047,
-      "word": "慕瑶 不愧是原著大女主",
-      "onboard_time": 1730781143,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 295683,
@@ -587,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280066,
+      "num": 341808,
+      "word": "实际上请痛经假的人并不多",
+      "onboard_time": 1730782820,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276679,
       "num": 276679,
       "word": "恋与制作人 好望水",
@@ -601,6 +633,14 @@
       "onboard_time": 1730776459,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258847,
+      "num": 500343,
+      "word": "小巷人家豆瓣开分8.2",
+      "onboard_time": 1730782281,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 255588,
@@ -659,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 218219,
+      "num": 488438,
+      "word": "周也吊带黑裙",
+      "onboard_time": 1730781021,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214109,
       "num": 214109,
       "word": "小猫 那咋了",
@@ -713,6 +761,30 @@
       "onboard_time": 1730778440,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204825,
+      "num": 204825,
+      "word": "广州草莓音乐节阵容",
+      "onboard_time": 1730783300,
+      "rank": 40,
+      "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 201818,
+      "num": 201818,
+      "word": "桃花坞开放中定档",
+      "onboard_time": 1730783900,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "乌克兰朝鲜",
+      "onboard_time": 1730783241,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195126,
@@ -793,6 +865,14 @@
       "onboard_time": 1730763257,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178604,
+      "num": 178604,
+      "word": "52岁智障男子被包装成蓝领背上车贷",
+      "onboard_time": 1730781861,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175508,
@@ -1195,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82827,
+      "num": 527360,
+      "word": "2024美国大选选举日投票正式开始",
+      "onboard_time": 1730783841,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 77147,
       "num": 348859,
       "word": "快餐店成为年轻人举办婚礼的新选择",
@@ -1316,7 +1404,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 1130074,
+      "num": 1182244,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -1403,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18560,
+      "num": 517130,
+      "word": "高额康复费成烧伤患者家庭巨大挑战",
+      "onboard_time": 1730783119,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18383,
       "num": 35602,
       "word": "神十八航天员回家第一餐都点了鸡蛋羹",
@@ -1464,6 +1560,22 @@
       "word": "盘点中国航展国之重器亮相瞬间",
       "onboard_time": 1730759593,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13235,
+      "num": 473713,
+      "word": "起底广州宝卓系金融爆雷",
+      "onboard_time": 1730783119,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13203,
+      "num": 477429,
+      "word": "小伙自驾去英国1个月后自行车被偷",
+      "onboard_time": 1730783900,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
