@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730798586594,
+  "endTime": 1730799445665,
   "band_list": [
     {
       "raw_hot": 7678975,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1414566,
-      "num": 256007,
+      "num": 361502,
       "word": "21岁女生下腹疼痛确诊胃癌晚期",
       "onboard_time": 1730796381,
       "rank": 20,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208700,
+      "num": 612325,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1172692,
       "num": 1172692,
       "word": "郑钦文 别喊了",
       "onboard_time": 1730733561,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1166965,
-      "num": 564281,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1136310,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815524,
+      "num": 795946,
+      "word": "童瑶深V开到胃",
+      "onboard_time": 1730796681,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 779473,
       "num": 369039,
       "word": "尸检显示辛瓦尔死前三天没吃任何东西",
@@ -379,20 +387,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 622554,
-      "num": 622554,
-      "word": "童瑶深V开到胃",
-      "onboard_time": 1730796681,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 617565,
       "num": 617565,
       "word": "高雅CP 线下",
       "onboard_time": 1730782642,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 616821,
+      "num": 616821,
+      "word": "警方将排查网传女子路边被强暴事件",
+      "onboard_time": 1730796262,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616272,
@@ -409,6 +417,14 @@
       "onboard_time": 1730780721,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 611883,
+      "num": 611883,
+      "word": "刘亦菲 钢铁玫瑰",
+      "onboard_time": 1730798783,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 600593,
@@ -497,14 +513,6 @@
       "onboard_time": 1730794040,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 522279,
-      "num": 522279,
-      "word": "警方将排查网传女子路边被强暴事件",
-      "onboard_time": 1730796262,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 516451,
@@ -659,12 +667,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 373409,
+      "num": 373409,
+      "word": "清华大学发了凌妙妙转场",
+      "onboard_time": 1730798122,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367388,
       "num": 367388,
       "word": "良品铺子被立案调查",
       "onboard_time": 1730717779,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361964,
+      "num": 361964,
+      "word": "王承渲回应被暂停工作",
+      "onboard_time": 1730797880,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 360052,
@@ -891,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283062,
+      "num": 283062,
+      "word": "张艺兴工作室私信17岁高中生",
+      "onboard_time": 1730798662,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280100,
       "num": 280100,
       "word": "永夜星河",
@@ -921,6 +953,14 @@
       "onboard_time": 1730781861,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269807,
+      "num": 269807,
+      "word": "代号鸢",
+      "onboard_time": 1730798901,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 268566,
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251454,
+      "num": 251454,
+      "word": "秦海璐胡先煦复刻花少名场面",
+      "onboard_time": 1730798301,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251209,
       "num": 282239,
       "word": "35岁单身女生的年度相亲报告",
@@ -1019,12 +1067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234838,
+      "num": 234838,
+      "word": "代号鸢还没开灯",
+      "onboard_time": 1730798301,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "李煜东正式加入TF四代",
       "onboard_time": 1730731522,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232027,
+      "num": 598624,
+      "word": "哈里斯特朗普竞选主张大PK",
+      "onboard_time": 1730795060,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 228831,
@@ -1049,14 +1113,6 @@
       "onboard_time": 1730777841,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225393,
-      "num": 250347,
-      "word": "王承渲回应被暂停工作",
-      "onboard_time": 1730797880,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 214109,
@@ -1195,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190440,
-      "num": 598624,
-      "word": "哈里斯特朗普竞选主张大PK",
-      "onboard_time": 1730795060,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 189714,
       "num": 287634,
       "word": "95花谁能第一个飞升",
@@ -1235,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186233,
+      "num": 186233,
+      "word": "女子产后出院被老公套袋抬回家",
+      "onboard_time": 1730797221,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186176,
       "num": 273662,
       "word": "曾舜晞带了一艘船",
@@ -1257,14 +1313,6 @@
       "onboard_time": 1730724619,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182259,
-      "num": 182259,
-      "word": "女子产后出院被老公套袋抬回家",
-      "onboard_time": 1730797221,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181199,
@@ -1419,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165955,
+      "num": 165955,
+      "word": "付航拿猴子走红毯",
+      "onboard_time": 1730798842,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163657,
       "num": 287583,
       "word": "小时光小美好换乘恋爱了",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1730777660,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155354,
-      "num": 163788,
-      "word": "清华大学发了凌妙妙转场",
-      "onboard_time": 1730798122,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 153395,
@@ -1587,14 +1635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137867,
-      "num": 137867,
-      "word": "代号鸢还没开灯",
-      "onboard_time": 1730798301,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135532,
       "num": 135532,
       "word": "马龙孙颖莎互送to签",
@@ -1643,14 +1683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125754,
-      "num": 125754,
-      "word": "秦海璐胡先煦复刻花少名场面",
-      "onboard_time": 1730798301,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "王楚钦vs户上隼辅",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1730767100,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123732,
+      "num": 123732,
+      "word": "唐香玉真美",
+      "onboard_time": 1730799320,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 122478,
@@ -1787,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100102,
+      "num": 612721,
+      "word": "郑州大学生夜骑开封是机遇也是大考",
+      "onboard_time": 1730798481,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97826,
       "num": 97826,
       "word": "Tim 小鱼",
@@ -1811,14 +1859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94102,
-      "num": 251339,
-      "word": "郑州大学生夜骑开封是机遇也是大考",
-      "onboard_time": 1730798481,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89862,
       "num": 89862,
       "word": "关晓彤黑抹胸裙",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1730761154,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84809,
+      "num": 190993,
+      "word": "天真蓝回应考研报名",
+      "onboard_time": 1730798301,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 84291,
@@ -1915,6 +1963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47025,
+      "num": 533344,
+      "word": "打假良品铺子博主搜集样品堆满仓库",
+      "onboard_time": 1730798062,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46920,
       "num": 267083,
       "word": "郑钦文回应比赛中让观众别喊了",
@@ -1963,14 +2019,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 41891,
-      "num": 190993,
-      "word": "天真蓝回应考研报名",
-      "onboard_time": 1730798301,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 40082,
       "num": 534646,
       "word": "摇摆州对美国大选为何如此重要",
@@ -1992,14 +2040,6 @@
       "word": "广东11月将有4次冷空气",
       "onboard_time": 1730741353,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35673,
-      "num": 494068,
-      "word": "打假良品铺子博主搜集样品堆满仓库",
-      "onboard_time": 1730798062,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2033,6 +2073,14 @@
       "onboard_time": 1730752271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28451,
+      "num": 366783,
+      "word": "新疆用户在拼多多实现双11自由",
+      "onboard_time": 1730796322,
+      "rank": 19,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 28212,
@@ -2097,14 +2145,6 @@
       "onboard_time": 1730775620,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22505,
-      "num": 257384,
-      "word": "新疆用户在拼多多实现双11自由",
-      "onboard_time": 1730796322,
-      "rank": 19,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 21998,
@@ -2303,6 +2343,9 @@
     },
     {
       "word": "#这是中国的进博之约#"
+    },
+    {
+      "word": "#进博之约#"
     }
   ]
 }
