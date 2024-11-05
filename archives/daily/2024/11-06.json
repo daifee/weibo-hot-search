@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730824962535,
+  "endTime": 1730827251301,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -17,6 +17,14 @@
       "onboard_time": 1730795600,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 952106,
+      "num": 952106,
+      "word": "河南女子被害前打电话喊妈妈救命",
+      "onboard_time": 1730822840,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862252,
@@ -56,14 +64,6 @@
       "word": "哈尔滨文旅回应网红夫妇有传染病",
       "onboard_time": 1730817144,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510750,
-      "num": 510750,
-      "word": "河南女子被害前打电话喊妈妈救命",
-      "onboard_time": 1730822840,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -123,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263119,
+      "num": 154758,
+      "word": "张泉灵没预料到麦琳引发关注",
+      "onboard_time": 1730823918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245702,
+      "num": 245702,
+      "word": "王鹤棣赵露思台下合影",
+      "onboard_time": 1730822960,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236799,
       "num": 236799,
       "word": "王鹤棣田曦薇牵手走秀",
@@ -155,20 +171,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208544,
+      "num": 168646,
+      "word": "虞书欣第一个男主角也来打call了",
+      "onboard_time": 1730814383,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205513,
       "num": 289007,
       "word": "社区将再去瑞士卷当事人家中调查",
       "onboard_time": 1730820982,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196698,
-      "num": 180176,
-      "word": "王鹤棣赵露思台下合影",
-      "onboard_time": 1730822960,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 183955,
@@ -217,14 +233,6 @@
       "onboard_time": 1730806160,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 152067,
-      "num": 152067,
-      "word": "张泉灵没预料到麦琳引发关注",
-      "onboard_time": 1730823918,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147799,
@@ -307,8 +315,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113245,
+      "num": 152037,
+      "word": "柳州女子喝醉被强暴为不实信息",
+      "onboard_time": 1730821221,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112105,
+      "num": 88810,
+      "word": "字节跳动103人违法违规被辞退",
+      "onboard_time": 1730823979,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108867,
-      "num": 108867,
+      "num": 156754,
       "word": "一个人成熟的6种迹象",
       "onboard_time": 1730821519,
       "rank": 38,
@@ -379,6 +403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 85567,
+      "num": 85567,
+      "word": "混血女儿英语倒数爸爸不淡定了",
+      "onboard_time": 1730825956,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83772,
       "num": 83772,
       "word": "清华大学发了凌妙妙转场",
@@ -393,22 +425,6 @@
       "onboard_time": 1730824398,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 69571,
-      "num": 88810,
-      "word": "字节跳动103人违法违规被辞退",
-      "onboard_time": 1730823979,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 64206,
-      "num": 152037,
-      "word": "柳州女子喝醉被强暴为不实信息",
-      "onboard_time": 1730821221,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62401,
