@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730777172809,
+  "endTime": 1730778054176,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -843,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1115665,
+      "num": 454609,
+      "word": "周雨彤 睡袋",
+      "onboard_time": 1730776819,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1108915,
       "num": 1108915,
       "word": "引导失误致冠军变亚军痛失21万奖金",
@@ -1611,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 731090,
+      "num": 731090,
+      "word": "国内机票价格跳水",
+      "onboard_time": 1730776039,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731033,
       "num": 731033,
       "word": "虞书欣身后是109个婧妹",
@@ -1779,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677482,
+      "num": 677482,
+      "word": "手指吻",
+      "onboard_time": 1730774178,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677254,
       "num": 677254,
       "word": "女子离婚后奶奶拿走宝宝的金吊坠",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1730684417,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 651628,
-      "num": 651628,
-      "word": "手指吻",
-      "onboard_time": 1730774178,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 650763,
@@ -2876,7 +2892,7 @@
     },
     {
       "raw_hot": 486174,
-      "num": 385466,
+      "num": 436333,
       "word": "G2再次邀请Uzi加入",
       "onboard_time": 1730774719,
       "rank": 29,
@@ -3555,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389857,
+      "num": 389857,
+      "word": "海马体",
+      "onboard_time": 1730776039,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 389485,
       "num": 389485,
       "word": "张泉灵说李行亮和麦麦是想过下去的",
@@ -3737,14 +3761,6 @@
       "onboard_time": 1730471361,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366432,
-      "num": 366432,
-      "word": "国内机票价格跳水",
-      "onboard_time": 1730776039,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365816,
@@ -4003,6 +4019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335560,
+      "num": 335560,
+      "word": "湖南夫妻理发店因听劝爆火",
+      "onboard_time": 1730774481,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335406,
+      "num": 492228,
+      "word": "美国大选即将开始记者探访摇摆州",
+      "onboard_time": 1730773999,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 333188,
       "num": 333188,
       "word": "幸运咖 王俊凯",
@@ -4075,28 +4107,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 326106,
-      "num": 326106,
-      "word": "湖南夫妻理发店因听劝爆火",
-      "onboard_time": 1730774481,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326097,
       "num": 281819,
       "word": "睡觉时最伤脊椎的睡姿",
       "onboard_time": 1730546839,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 324532,
-      "num": 324532,
-      "word": "周雨彤 睡袋",
-      "onboard_time": 1730776819,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 323951,
@@ -4355,6 +4371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291710,
+      "num": 291710,
+      "word": "爱侧睡的可以今晚试试这个姿势",
+      "onboard_time": 1730776699,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291435,
       "num": 321780,
       "word": "三只羊嘴哥复播",
@@ -4523,6 +4547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279760,
+      "num": 456093,
+      "word": "人民空军官宣",
+      "onboard_time": 1730777841,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279548,
       "num": 257274,
       "word": "李小龙挚友评向佐扇巴掌事件",
@@ -4579,12 +4611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277131,
-      "num": 277131,
-      "word": "海马体",
-      "onboard_time": 1730776039,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 276679,
+      "num": 276679,
+      "word": "恋与制作人 好望水",
+      "onboard_time": 1730776699,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 274211,
@@ -4785,6 +4817,14 @@
       "onboard_time": 1730385559,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265004,
+      "num": 265004,
+      "word": "湖人爆冷",
+      "onboard_time": 1730776459,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 263559,
@@ -4993,14 +5033,6 @@
       "onboard_time": 1730774358,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 250150,
-      "num": 250150,
-      "word": "恋与制作人 好望水",
-      "onboard_time": 1730776699,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 250102,
@@ -6259,14 +6291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199091,
-      "num": 199091,
-      "word": "湖人爆冷",
-      "onboard_time": 1730776459,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199078,
       "num": 199078,
       "word": "100克瑞士卷等于3碗米饭不建议多吃",
@@ -6395,12 +6419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196087,
-      "num": 196087,
-      "word": "爱侧睡的可以今晚试试这个姿势",
-      "onboard_time": 1730776699,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 196091,
+      "num": 196091,
+      "word": "中国空军进入双隐身战机时代",
+      "onboard_time": 1730777841,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 195909,
@@ -6571,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191612,
+      "num": 191612,
+      "word": "官方回应考研报名禁止使用海马体照片",
+      "onboard_time": 1730777841,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191531,
       "num": 445246,
       "word": "永夜星河摇人 向佐穿书",
@@ -6625,14 +6657,6 @@
       "onboard_time": 1730546778,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190480,
-      "num": 492228,
-      "word": "美国大选即将开始记者探访摇摆州",
-      "onboard_time": 1730773999,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 190158,
@@ -6731,12 +6755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187771,
+      "num": 187771,
+      "word": "女子网购猕猴桃放20天皮皱了也没熟",
+      "onboard_time": 1730777239,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "羊绒衫为啥这么贵",
       "onboard_time": 1730644579,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 187200,
+      "num": 187200,
+      "word": "老人强闯流浪动物救助基地杀狗伤人",
+      "onboard_time": 1730777841,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186920,
@@ -8331,6 +8371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155881,
+      "num": 155881,
+      "word": "陈梦世界排名重返第三",
+      "onboard_time": 1730777660,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155610,
       "num": 155610,
       "word": "拍一张秋天的落叶",
@@ -8707,6 +8755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146840,
+      "num": 553803,
+      "word": "动力电池采购价6万维修却要12万",
+      "onboard_time": 1730775739,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146738,
       "num": 146738,
       "word": "Bang考虑复出",
@@ -9041,6 +9097,14 @@
       "onboard_time": 1730631018,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140329,
+      "num": 535011,
+      "word": "中国航展",
+      "onboard_time": 1730774778,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 140102,
@@ -11195,14 +11259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82407,
-      "num": 535011,
-      "word": "中国航展",
-      "onboard_time": 1730774778,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 82395,
       "num": 105161,
       "word": "李佳航为BLG加油",
@@ -11345,14 +11401,6 @@
       "onboard_time": 1730382259,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74306,
-      "num": 553803,
-      "word": "动力电池采购价6万维修却要12万",
-      "onboard_time": 1730775739,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74118,
@@ -12283,6 +12331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40082,
+      "num": 534646,
+      "word": "摇摆州对美国大选为何如此重要",
+      "onboard_time": 1730777119,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 39608,
       "num": 402448,
       "word": "一文回顾鞠婧祎丝芭合约风波",
@@ -12353,14 +12409,6 @@
       "onboard_time": 1730377758,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38120,
-      "num": 534646,
-      "word": "摇摆州对美国大选为何如此重要",
-      "onboard_time": 1730777119,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38008,
@@ -12492,7 +12540,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 622479,
+      "num": 687494,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -12947,6 +12995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25872,
+      "num": 183451,
+      "word": "危机关头你相信智驾吗",
+      "onboard_time": 1730777900,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25838,
       "num": 331125,
       "word": "网友喊话再见爱人分瑞士卷",
@@ -13185,6 +13241,14 @@
       "onboard_time": 1730658552,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23012,
+      "num": 190532,
+      "word": "张朝阳受邀回清华物理系讲物理",
+      "onboard_time": 1730775620,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22823,
@@ -13545,14 +13609,6 @@
       "onboard_time": 1730582951,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18054,
-      "num": 190532,
-      "word": "张朝阳受邀回清华物理系讲物理",
-      "onboard_time": 1730775620,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17924,
