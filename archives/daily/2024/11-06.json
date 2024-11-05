@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730824123481,
+  "endTime": 1730824962535,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -11,8 +11,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1546550,
-      "num": 385802,
+      "raw_hot": 1588854,
+      "num": 453912,
       "word": "美国大选",
       "onboard_time": 1730795600,
       "rank": 5,
@@ -35,6 +35,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 713052,
+      "num": 1174072,
+      "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+      "onboard_time": 1730819604,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627586,
       "num": 627586,
       "word": "永夜星河 我就说一天播一集会出事吧",
@@ -51,11 +59,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600849,
-      "num": 600849,
-      "word": "劳斯莱斯出车祸司机淡定拍照发圈",
-      "onboard_time": 1730819604,
-      "rank": 3,
+      "raw_hot": 510750,
+      "num": 510750,
+      "word": "河南女子被害前打电话喊妈妈救命",
+      "onboard_time": 1730822840,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1730809342,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347810,
+      "num": 347810,
+      "word": "撞上劳斯莱斯的货车只有100万保险",
+      "onboard_time": 1730821401,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339659,
@@ -97,22 +113,6 @@
       "onboard_time": 1730803641,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288757,
-      "num": 288757,
-      "word": "河南女子被害前打电话喊妈妈救命",
-      "onboard_time": 1730822840,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267985,
-      "num": 267985,
-      "word": "撞上劳斯莱斯的货车只有100万保险",
-      "onboard_time": 1730821401,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264073,
@@ -163,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192380,
+      "raw_hot": 196698,
       "num": 180176,
       "word": "王鹤棣赵露思台下合影",
       "onboard_time": 1730822960,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164678,
+      "num": 155500,
+      "word": "杨紫进组家业剧本围读",
+      "onboard_time": 1730813843,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161866,
       "num": 161866,
       "word": "11岁男孩发烧心脏停跳52小时",
@@ -211,12 +219,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 155500,
-      "num": 155500,
-      "word": "杨紫进组家业剧本围读",
-      "onboard_time": 1730813843,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 152067,
+      "num": 152067,
+      "word": "张泉灵没预料到麦琳引发关注",
+      "onboard_time": 1730823918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147799,
+      "num": 147799,
+      "word": "种地吧",
+      "onboard_time": 1730813963,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 147756,
@@ -235,16 +251,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138317,
-      "num": 138317,
-      "word": "种地吧",
-      "onboard_time": 1730813963,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 133295,
-      "num": 133295,
+      "raw_hot": 134005,
+      "num": 134005,
       "word": "怪奇物语第五季",
       "onboard_time": 1730822061,
       "rank": 31,
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99503,
-      "num": 99503,
-      "word": "张泉灵没预料到麦琳引发关注",
-      "onboard_time": 1730823918,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96340,
       "num": 96340,
       "word": "羽绒服涨价与猪肉价格有关",
@@ -379,20 +379,44 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83772,
+      "num": 83772,
+      "word": "清华大学发了凌妙妙转场",
+      "onboard_time": 1730798122,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82231,
+      "num": 82231,
+      "word": "张艺兴唱身骑白马",
+      "onboard_time": 1730824398,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 69571,
+      "num": 88810,
+      "word": "字节跳动103人违法违规被辞退",
+      "onboard_time": 1730823979,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 64206,
+      "num": 152037,
+      "word": "柳州女子喝醉被强暴为不实信息",
+      "onboard_time": 1730821221,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62401,
       "num": 88830,
       "word": "钱天一vs考夫蔓",
       "onboard_time": 1730823380,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61772,
-      "num": 88810,
-      "word": "字节跳动103人违法违规被辞退",
-      "onboard_time": 1730823979,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 4112,
