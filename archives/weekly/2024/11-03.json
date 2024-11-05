@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730788241460,
+  "endTime": 1730789030830,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6913461,
-      "num": 8163461,
+      "raw_hot": 7678975,
+      "num": 8928975,
       "word": "2024美国大选选举日投票正式开始",
       "onboard_time": 1730783841,
       "rank": 12,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513878,
+      "num": 1513878,
+      "word": "公司宣布将暂停王承渲一切工作",
+      "onboard_time": 1730785521,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1511517,
       "num": 1511517,
       "word": "世界关注美国大选今日投票",
@@ -409,14 +417,6 @@
       "onboard_time": 1730623819,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1405831,
-      "num": 1405831,
-      "word": "公司宣布将暂停王承渲一切工作",
-      "onboard_time": 1730785521,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1405650,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799523,
+      "num": 799523,
+      "word": "微博视界大会红毯",
+      "onboard_time": 1730788101,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 798154,
       "num": 578512,
       "word": "赵露思说汪苏泷唱不得超好听",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1730575394,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 669394,
+      "num": 669394,
+      "word": "海马体回应考研报名被禁用",
+      "onboard_time": 1730784259,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669371,
@@ -1569,14 +1585,6 @@
       "onboard_time": 1730697080,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560479,
-      "num": 560479,
-      "word": "海马体回应考研报名被禁用",
-      "onboard_time": 1730784259,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559100,
@@ -2363,6 +2371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 352719,
+      "num": 362179,
+      "word": "实际上请痛经假的人并不多",
+      "onboard_time": 1730782820,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352455,
       "num": 352455,
       "word": "杨紫补偿粉丝机酒损失",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1730717541,
       "rank": 23,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 325232,
+      "num": 493989,
+      "word": "三分钟解读美国大选乱象",
+      "onboard_time": 1730784439,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 323948,
@@ -2795,14 +2819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 280066,
-      "num": 362179,
-      "word": "实际上请痛经假的人并不多",
-      "onboard_time": 1730782820,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279871,
       "num": 279871,
       "word": "涵艺爆料LPL工资帽",
@@ -2835,12 +2851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277108,
+      "num": 277108,
+      "word": "虞书欣服从性测试",
+      "onboard_time": 1730788521,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276679,
       "num": 276679,
       "word": "恋与制作人 好望水",
       "onboard_time": 1730776699,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276018,
+      "num": 298146,
+      "word": "黄旭熙将回归",
+      "onboard_time": 1730787500,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 273810,
@@ -2977,14 +3009,6 @@
       "onboard_time": 1730727081,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259150,
-      "num": 493989,
-      "word": "三分钟解读美国大选乱象",
-      "onboard_time": 1730784439,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 257922,
@@ -3275,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232701,
-      "num": 298146,
-      "word": "黄旭熙将回归",
-      "onboard_time": 1730787500,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1730594419,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231277,
+      "num": 287200,
+      "word": "美国大选选举日首个投票点结果出炉",
+      "onboard_time": 1730786360,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 231225,
@@ -3361,6 +3385,14 @@
       "onboard_time": 1730726001,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225395,
+      "num": 225395,
+      "word": "35岁单身女生的年度相亲报告",
+      "onboard_time": 1730787563,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225074,
@@ -3499,14 +3531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 214211,
-      "num": 288562,
-      "word": "微博视界大会红毯",
-      "onboard_time": 1730788101,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214109,
       "num": 214109,
       "word": "小猫 那咋了",
@@ -3561,6 +3585,14 @@
       "onboard_time": 1730727321,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212661,
+      "num": 367667,
+      "word": "官方回应海马体照片会影响身份核验",
+      "onboard_time": 1730785760,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 212636,
@@ -4475,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178898,
-      "num": 178898,
-      "word": "35岁单身女生的年度相亲报告",
-      "onboard_time": 1730787563,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178448,
       "num": 178448,
       "word": "歼35A向81192报到",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1730708239,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164164,
+      "num": 164164,
+      "word": "阿条姐在杭州喜提人生的第一辆车",
+      "onboard_time": 1730788821,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 164114,
@@ -5563,6 +5595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142495,
+      "num": 142495,
+      "word": "赵露思 少年感",
+      "onboard_time": 1730788641,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142466,
       "num": 142466,
       "word": "西班牙洪灾致中国公民2遇难2失联",
@@ -6043,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124660,
+      "num": 447895,
+      "word": "媒体评考研报名禁用海马体照片",
+      "onboard_time": 1730788460,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124629,
       "num": 124629,
       "word": "数学竞赛组委会对赛制和管理致歉",
@@ -6089,14 +6137,6 @@
       "onboard_time": 1730545578,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123267,
-      "num": 287200,
-      "word": "美国大选选举日首个投票点结果出炉",
-      "onboard_time": 1730786360,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 123187,
@@ -6467,14 +6507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98164,
-      "num": 367667,
-      "word": "官方回应海马体照片会影响身份核验",
-      "onboard_time": 1730785760,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 98157,
       "num": 240298,
       "word": "Bin 把昨天忘掉",
@@ -6649,6 +6681,14 @@
       "onboard_time": 1730569578,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83306,
+      "num": 322557,
+      "word": "永夜星河只播一集不够看",
+      "onboard_time": 1730788821,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 82395,

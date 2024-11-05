@@ -1,10 +1,10 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730788241460,
+  "endTime": 1730789030830,
   "band_list": [
     {
-      "raw_hot": 6913461,
-      "num": 8163461,
+      "raw_hot": 7678975,
+      "num": 8928975,
       "word": "2024美国大选选举日投票正式开始",
       "onboard_time": 1730783841,
       "rank": 12,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513878,
+      "num": 1513878,
+      "word": "公司宣布将暂停王承渲一切工作",
+      "onboard_time": 1730785521,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1511517,
       "num": 1511517,
       "word": "世界关注美国大选今日投票",
@@ -41,14 +49,6 @@
       "onboard_time": 1730769679,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1405831,
-      "num": 1405831,
-      "word": "公司宣布将暂停王承渲一切工作",
-      "onboard_time": 1730785521,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1405650,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799523,
+      "num": 799523,
+      "word": "微博视界大会红毯",
+      "onboard_time": 1730788101,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 779473,
       "num": 369039,
       "word": "尸检显示辛瓦尔死前三天没吃任何东西",
@@ -233,6 +241,14 @@
       "onboard_time": 1730774178,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 669394,
+      "num": 669394,
+      "word": "海马体回应考研报名被禁用",
+      "onboard_time": 1730784259,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637150,
@@ -305,14 +321,6 @@
       "onboard_time": 1730769079,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 560479,
-      "num": 560479,
-      "word": "海马体回应考研报名被禁用",
-      "onboard_time": 1730784259,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557096,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352719,
+      "num": 362179,
+      "word": "实际上请痛经假的人并不多",
+      "onboard_time": 1730782820,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350561,
       "num": 362903,
       "word": "肖战旅游路透",
@@ -561,6 +577,14 @@
       "onboard_time": 1730783540,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325232,
+      "num": 493989,
+      "word": "三分钟解读美国大选乱象",
+      "onboard_time": 1730784439,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 319649,
@@ -667,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280066,
-      "num": 362179,
-      "word": "实际上请痛经假的人并不多",
-      "onboard_time": 1730782820,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 277108,
+      "num": 277108,
+      "word": "虞书欣服从性测试",
+      "onboard_time": 1730788521,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 276679,
@@ -681,6 +705,14 @@
       "onboard_time": 1730776699,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276018,
+      "num": 298146,
+      "word": "黄旭熙将回归",
+      "onboard_time": 1730787500,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 271902,
@@ -705,14 +737,6 @@
       "onboard_time": 1730776459,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259150,
-      "num": 493989,
-      "word": "三分钟解读美国大选乱象",
-      "onboard_time": 1730784439,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 255588,
@@ -771,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232701,
-      "num": 298146,
-      "word": "黄旭熙将回归",
-      "onboard_time": 1730787500,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 231277,
+      "num": 287200,
+      "word": "美国大选选举日首个投票点结果出炉",
+      "onboard_time": 1730786360,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 228831,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225395,
+      "num": 225395,
+      "word": "35岁单身女生的年度相亲报告",
+      "onboard_time": 1730787563,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224754,
       "num": 224754,
       "word": "美国大选",
@@ -803,20 +835,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 214211,
-      "num": 288562,
-      "word": "微博视界大会红毯",
-      "onboard_time": 1730788101,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214109,
       "num": 214109,
       "word": "小猫 那咋了",
       "onboard_time": 1730770520,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212661,
+      "num": 367667,
+      "word": "官方回应海马体照片会影响身份核验",
+      "onboard_time": 1730785760,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 212616,
@@ -995,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178898,
-      "num": 178898,
-      "word": "35岁单身女生的年度相亲报告",
-      "onboard_time": 1730787563,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178448,
       "num": 178448,
       "word": "歼35A向81192报到",
@@ -1099,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164164,
+      "num": 164164,
+      "word": "阿条姐在杭州喜提人生的第一辆车",
+      "onboard_time": 1730788821,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163657,
       "num": 287583,
       "word": "小时光小美好换乘恋爱了",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1730768299,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142495,
+      "num": 142495,
+      "word": "赵露思 少年感",
+      "onboard_time": 1730788641,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 141750,
@@ -1259,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124660,
+      "num": 447895,
+      "word": "媒体评考研报名禁用海马体照片",
+      "onboard_time": 1730788460,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124295,
       "num": 124295,
       "word": "一诺黄牌",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1730767100,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123267,
-      "num": 287200,
-      "word": "美国大选选举日首个投票点结果出炉",
-      "onboard_time": 1730786360,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 122478,
@@ -1387,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98164,
-      "num": 367667,
-      "word": "官方回应海马体照片会影响身份核验",
-      "onboard_time": 1730785760,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 97826,
       "num": 97826,
       "word": "Tim 小鱼",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1730779401,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83306,
+      "num": 322557,
+      "word": "永夜星河只播一集不够看",
+      "onboard_time": 1730788821,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 77147,
