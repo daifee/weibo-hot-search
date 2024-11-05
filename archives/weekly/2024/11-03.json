@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730763404698,
+  "endTime": 1730770845662,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -227,6 +227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1703627,
+      "num": 1703627,
+      "word": "工作人员迟到致下火车旅客无法出站",
+      "onboard_time": 1730767340,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1699835,
       "num": 1699835,
       "word": "王某某为姜某竞赛提供帮助被处分",
@@ -329,6 +337,14 @@
       "onboard_time": 1730727982,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1511517,
+      "num": 1511517,
+      "word": "世界关注美国大选今日投票",
+      "onboard_time": 1730764339,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1479779,
@@ -563,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1048030,
+      "num": 432578,
+      "word": "花少 骨瓷",
+      "onboard_time": 1730769679,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1033084,
       "num": 1033084,
       "word": "郑钦文战胜莱巴金娜",
@@ -579,6 +603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1022165,
+      "num": 1022165,
+      "word": "小鱼回应离婚",
+      "onboard_time": 1730767340,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1018410,
       "num": 1018410,
       "word": "孙颖莎24岁生日发文",
@@ -593,6 +625,14 @@
       "onboard_time": 1730700139,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 993071,
+      "num": 432557,
+      "word": "猫因为我辞职在家压力太大吐了",
+      "onboard_time": 1730732421,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 983075,
@@ -659,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 938887,
+      "num": 938887,
+      "word": "瑞士卷怎么分别成为第二个秦朗丢作业",
+      "onboard_time": 1730764220,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932837,
       "num": 932837,
       "word": "孙滢皓坐了导师的位置",
@@ -705,6 +753,14 @@
       "onboard_time": 1730718619,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 874892,
+      "num": 370103,
+      "word": "能考上二本已经很厉害了",
+      "onboard_time": 1730763378,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 865595,
@@ -779,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789489,
+      "num": 789489,
+      "word": "南京南站通报儿童掉入股道",
+      "onboard_time": 1730767400,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 788636,
       "num": 788636,
       "word": "瑞士卷",
@@ -801,6 +865,14 @@
       "onboard_time": 1730700139,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771966,
+      "num": 430701,
+      "word": "影视飓风Tim离婚",
+      "onboard_time": 1730763257,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 771495,
@@ -857,14 +929,6 @@
       "onboard_time": 1730678479,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 752944,
-      "num": 152307,
-      "word": "能考上二本已经很厉害了",
-      "onboard_time": 1730763378,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 734419,
@@ -1523,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485438,
+      "num": 485438,
+      "word": "接虞书欣丁禹兮三搭",
+      "onboard_time": 1730769079,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483146,
       "num": 274329,
       "word": "曾打假东北雨姐网红再曝良品铺子",
@@ -1787,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 425716,
+      "num": 425716,
+      "word": "正午阳光 流量",
+      "onboard_time": 1730769439,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420744,
       "num": 420744,
       "word": "毓言 香港",
@@ -1851,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407606,
+      "num": 407606,
+      "word": "成都一火锅店回收底油再给顾客食用",
+      "onboard_time": 1730767340,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406203,
       "num": 536410,
       "word": "美国大选已花费14700000000美元",
@@ -1865,6 +1953,14 @@
       "onboard_time": 1730616617,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404744,
+      "num": 404744,
+      "word": "美了1千多年的银杏是唐太宗种的",
+      "onboard_time": 1730739376,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404598,
@@ -1969,6 +2065,14 @@
       "onboard_time": 1730571854,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 368494,
+      "num": 368494,
+      "word": "特朗普抱怨奥巴马给他留下烂摊子",
+      "onboard_time": 1730735300,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 365816,
@@ -2083,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341116,
+      "num": 370379,
+      "word": "永夜星河珠帘玉幕昨日云合",
+      "onboard_time": 1730762116,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339938,
       "num": 339938,
       "word": "关晓彤王安宇跳了APT",
@@ -2105,14 +2217,6 @@
       "onboard_time": 1730549839,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333456,
-      "num": 333456,
-      "word": "特朗普抱怨奥巴马给他留下烂摊子",
-      "onboard_time": 1730735300,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 333188,
@@ -2168,6 +2272,14 @@
       "word": "为什么数学水平最难造假",
       "onboard_time": 1730687239,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318429,
+      "num": 295304,
+      "word": "广西大学被指强奸女学生教授报案",
+      "onboard_time": 1730738896,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2243,20 +2355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297245,
-      "num": 297245,
-      "word": "猫因为我辞职在家压力太大吐了",
-      "onboard_time": 1730732421,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 297082,
-      "num": 297082,
-      "word": "美了1千多年的银杏是唐太宗种的",
-      "onboard_time": 1730739376,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 300565,
+      "num": 369590,
+      "word": "歼35A将公开亮相",
+      "onboard_time": 1730770520,
+      "rank": 21,
+      "category": "军事"
     },
     {
       "raw_hot": 296581,
@@ -2272,14 +2376,6 @@
       "word": "当地回应班主任在家长群催缴医保",
       "onboard_time": 1730741294,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295304,
-      "num": 295304,
-      "word": "广西大学被指强奸女学生教授报案",
-      "onboard_time": 1730738896,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2313,6 +2409,22 @@
       "onboard_time": 1730564301,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289017,
+      "num": 289017,
+      "word": "多地规定痛经可休假",
+      "onboard_time": 1730764398,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289016,
+      "num": 289016,
+      "word": "陶昕然 现实中谁天天开着豪车上班",
+      "onboard_time": 1730759354,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 287287,
@@ -2435,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269318,
+      "num": 269318,
+      "word": "店铺钉死窗户应对美国大选",
+      "onboard_time": 1730770099,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 268160,
       "num": 426504,
       "word": "假如宋莹有八个瑞士卷",
@@ -2521,6 +2641,14 @@
       "onboard_time": 1730635878,
       "rank": 26,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 255588,
+      "num": 255588,
+      "word": "薛之谦朱桢喝趴了",
+      "onboard_time": 1730769859,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 255218,
@@ -3107,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206812,
+      "num": 206812,
+      "word": "丁禹兮演技",
+      "onboard_time": 1730768958,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206749,
       "num": 206749,
       "word": "税务师",
@@ -3136,6 +3272,14 @@
       "word": "警方回应卖40万手表后银行卡被冻结",
       "onboard_time": 1730616739,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206128,
+      "num": 483108,
+      "word": "年轻人开始整顿天价婚礼",
+      "onboard_time": 1730732960,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3523,14 +3667,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 193595,
-      "num": 193595,
-      "word": "陶昕然 现实中谁天天开着豪车上班",
-      "onboard_time": 1730759354,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192888,
       "num": 192888,
       "word": "迪丽热巴的保暖look",
@@ -3763,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179622,
+      "num": 179622,
+      "word": "郑钦文为没控制好情绪致歉",
+      "onboard_time": 1730763257,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179370,
       "num": 231514,
       "word": "男孩电梯内捂嘴控制小女孩知情人发声",
@@ -3875,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173995,
+      "num": 173995,
+      "word": "小巷人家庄桦林自私吗",
+      "onboard_time": 1730768479,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173904,
       "num": 173904,
       "word": "永夜星河双榜登顶",
@@ -3969,6 +4121,14 @@
       "onboard_time": 1730701640,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169946,
+      "num": 169946,
+      "word": "郑钦文世界排名升至第六",
+      "onboard_time": 1730768060,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 169583,
@@ -4547,14 +4707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150034,
-      "num": 150034,
-      "word": "影视飓风Tim离婚",
-      "onboard_time": 1730763257,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 149864,
       "num": 149864,
       "word": "关晓彤王安宇什么时候出场",
@@ -4633,6 +4785,14 @@
       "onboard_time": 1730639000,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146642,
+      "num": 146642,
+      "word": "河南固始36岁男子杀妻",
+      "onboard_time": 1730769198,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145901,
@@ -4723,12 +4883,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142512,
+      "num": 142512,
+      "word": "TXT in了",
+      "onboard_time": 1730768299,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142466,
       "num": 142466,
       "word": "西班牙洪灾致中国公民2遇难2失联",
       "onboard_time": 1730592377,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141750,
+      "num": 141750,
+      "word": "山东省考公告",
+      "onboard_time": 1730767879,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 141660,
@@ -4817,6 +4993,14 @@
       "onboard_time": 1730736738,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139073,
+      "num": 139073,
+      "word": "流浪地球3进度条动了",
+      "onboard_time": 1730766920,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 138405,
@@ -4968,14 +5152,6 @@
       "word": "烧伤妻子手能动后写字询问丈夫情况",
       "onboard_time": 1730712919,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131774,
-      "num": 483108,
-      "word": "年轻人开始整顿天价婚礼",
-      "onboard_time": 1730732960,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5275,6 +5451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121353,
+      "num": 121353,
+      "word": "裴珠泫ins更新",
+      "onboard_time": 1730767100,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121259,
       "num": 121259,
       "word": "教育局回应学生玩死亡游戏晕倒",
@@ -5305,6 +5489,14 @@
       "onboard_time": 1730757012,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120724,
+      "num": 120724,
+      "word": "小猫 那咋了",
+      "onboard_time": 1730770520,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 120080,
@@ -5651,14 +5843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90363,
-      "num": 113262,
-      "word": "永夜星河珠帘玉幕昨日云合",
-      "onboard_time": 1730762116,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89011,
       "num": 186325,
       "word": "黄圣依大学时期就会理财",
@@ -5673,14 +5857,6 @@
       "onboard_time": 1730565858,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88011,
-      "num": 88011,
-      "word": "郑钦文为没控制好情绪致歉",
-      "onboard_time": 1730763257,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 87567,
@@ -5841,6 +6017,14 @@
       "onboard_time": 1730636598,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68419,
+      "num": 408675,
+      "word": "大风天出门小心高空坠物",
+      "onboard_time": 1730766621,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67854,
@@ -7147,12 +7331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 9995,
-      "num": 402399,
+      "raw_hot": 10998,
+      "num": 1039839,
       "word": "第七届进博会小词典来了",
       "onboard_time": 1730723059,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9963,
+      "num": 415105,
+      "word": "空军歼35A将在中国航展亮相",
+      "onboard_time": 1730770818,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 8427,
