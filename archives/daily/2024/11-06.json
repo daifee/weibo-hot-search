@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730828309357,
+  "endTime": 1730831362922,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162374,
+      "num": 88810,
+      "word": "字节跳动103人违法违规被辞退",
+      "onboard_time": 1730823979,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161866,
       "num": 161866,
       "word": "11岁男孩发烧心脏停跳52小时",
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132649,
+      "num": 158661,
+      "word": "混血女儿英语倒数爸爸不淡定了",
+      "onboard_time": 1730825956,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124526,
       "num": 124526,
       "word": "近半价卖掉400万房子反悔需赔40万",
@@ -321,14 +337,6 @@
       "onboard_time": 1730821221,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112105,
-      "num": 88810,
-      "word": "字节跳动103人违法违规被辞退",
-      "onboard_time": 1730823979,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 108867,
@@ -403,14 +411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 85567,
-      "num": 158661,
-      "word": "混血女儿英语倒数爸爸不淡定了",
-      "onboard_time": 1730825956,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83772,
       "num": 83772,
       "word": "清华大学发了凌妙妙转场",
@@ -427,12 +427,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77641,
+      "num": 77641,
+      "word": "货车撞上粤港两地牌劳斯莱斯",
+      "onboard_time": 1730829015,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62401,
       "num": 88830,
       "word": "钱天一vs考夫蔓",
       "onboard_time": 1730823380,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55886,
+      "num": 53419,
+      "word": "原来盖被子也是讲顺序的",
+      "onboard_time": 1730828294,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41030,
@@ -443,20 +459,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38602,
-      "num": 53419,
-      "word": "原来盖被子也是讲顺序的",
-      "onboard_time": 1730828294,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34167,
       "num": 53337,
       "word": "王一博联合国气候变化大会宣传视频",
       "onboard_time": 1730827695,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25539,
+      "num": 28398,
+      "word": "夜袭开封",
+      "onboard_time": 1730831053,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24041,
+      "num": 28255,
+      "word": "忽然明白少年夫妻老来伴的含义",
+      "onboard_time": 1730810421,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22039,
+      "num": 76294,
+      "word": "行贿者一次性送150瓶五粮液",
+      "onboard_time": 1730830632,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21018,
+      "num": 28047,
+      "word": "我的抽象视界",
+      "onboard_time": 1730829913,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 4112,
