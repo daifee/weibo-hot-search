@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730799445665,
+  "endTime": 1730802288332,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1268514,
+      "num": 1268514,
+      "word": "刘亦菲 钢铁玫瑰",
+      "onboard_time": 1730798783,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1253808,
       "num": 688790,
       "word": "刘宇宁也想转发赵露思微博",
@@ -899,6 +907,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 905321,
+      "num": 539968,
+      "word": "清华大学发了凌妙妙转场",
+      "onboard_time": 1730798122,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 891748,
       "num": 891748,
       "word": "珠帘玉幕全员恭喜端午升职",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1730784259,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721472,
+      "num": 392790,
+      "word": "张艺兴工作室私信17岁高中生",
+      "onboard_time": 1730798662,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 707307,
@@ -1523,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611883,
-      "num": 611883,
-      "word": "刘亦菲 钢铁玫瑰",
-      "onboard_time": 1730798783,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 600593,
       "num": 451725,
       "word": "杨子的财产黄圣依能分多少",
@@ -1736,6 +1752,14 @@
       "word": "一栗小莎子安利赵露思新剧",
       "onboard_time": 1730682020,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 557217,
+      "num": 385949,
+      "word": "向佐郭碧婷 再见爱人",
+      "onboard_time": 1730801362,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -2467,14 +2491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 373409,
-      "num": 373409,
-      "word": "清华大学发了凌妙妙转场",
-      "onboard_time": 1730798122,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373050,
       "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
@@ -2563,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353944,
+      "num": 353944,
+      "word": "代号鸢",
+      "onboard_time": 1730629278,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353318,
       "num": 311307,
       "word": "Uzi谈不复出原因",
@@ -2585,6 +2609,14 @@
       "onboard_time": 1730606181,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351650,
+      "num": 351650,
+      "word": "郭晓东向程莉莎道歉",
+      "onboard_time": 1730800762,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 350351,
@@ -2875,14 +2907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 308953,
-      "num": 308953,
-      "word": "代号鸢",
-      "onboard_time": 1730629278,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 308893,
       "num": 308893,
       "word": "Keria泪洒赛场",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1730782820,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299217,
+      "num": 123129,
+      "word": "鱼香肉丝",
+      "onboard_time": 1730801782,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 297388,
@@ -3025,14 +3057,6 @@
       "onboard_time": 1730600779,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283062,
-      "num": 283062,
-      "word": "张艺兴工作室私信17岁高中生",
-      "onboard_time": 1730798662,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 283053,
@@ -4379,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196782,
+      "num": 196782,
+      "word": "Knight取关BLG",
+      "onboard_time": 1730800221,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196525,
       "num": 202481,
       "word": "王楚钦vs卡尔伯格",
@@ -4513,6 +4545,14 @@
       "onboard_time": 1730777841,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191591,
+      "num": 191591,
+      "word": "代号鸢开灯",
+      "onboard_time": 1730800462,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 191531,
@@ -4707,6 +4747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181535,
+      "num": 181535,
+      "word": "湖南民宿发生一氧化碳中毒2死1伤",
+      "onboard_time": 1730799441,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181300,
       "num": 181300,
       "word": "北方人要为过冬做准备了",
@@ -4856,6 +4904,14 @@
       "word": "央视曝光所谓军字号特供酒产业链",
       "onboard_time": 1730689998,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177899,
+      "num": 612721,
+      "word": "郑州大学生夜骑开封是机遇也是大考",
+      "onboard_time": 1730798481,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5033,6 +5089,14 @@
       "onboard_time": 1730724858,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172189,
+      "num": 172189,
+      "word": "如鸢",
+      "onboard_time": 1730800641,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172170,
@@ -5547,6 +5611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158308,
+      "num": 407475,
+      "word": "付费自习室里多少人在表演性学习",
+      "onboard_time": 1730800762,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157956,
       "num": 157956,
       "word": "以闪亮之名文案",
@@ -5859,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146148,
+      "num": 220275,
+      "word": "朱志鑫初次红毯",
+      "onboard_time": 1730800762,
+      "rank": 27,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 145901,
       "num": 145901,
       "word": "万年县委原书记毛奇非法收受巨额财物",
@@ -5993,6 +6073,14 @@
       "onboard_time": 1730592377,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141522,
+      "num": 141522,
+      "word": "令狐茂美疯了",
+      "onboard_time": 1730801061,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 141192,
@@ -6411,6 +6499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126052,
+      "num": 174130,
+      "word": "檀健次听到喊他电子布洛芬的反应",
+      "onboard_time": 1730802021,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125904,
       "num": 125904,
       "word": "林俊杰JJ20巡演圆满谢幕",
@@ -6691,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115320,
+      "num": 115320,
+      "word": "杀流浪狗伤人老人已被警方控制",
+      "onboard_time": 1730802201,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115018,
       "num": 115018,
       "word": "林肯公园ban了吗",
@@ -6713,6 +6817,14 @@
       "onboard_time": 1730778623,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114544,
+      "num": 389522,
+      "word": "人事造假冒领工资近两千万",
+      "onboard_time": 1730800522,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113165,
@@ -6873,14 +6985,6 @@
       "onboard_time": 1730721020,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 100102,
-      "num": 612721,
-      "word": "郑州大学生夜骑开封是机遇也是大考",
-      "onboard_time": 1730798481,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98445,
@@ -7963,6 +8067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 27333,
+      "num": 363325,
+      "word": "男子上门升级宽带实则安装诈骗设备",
+      "onboard_time": 1730801001,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27086,
       "num": 194100,
       "word": "特朗普宣称民主党正窃取选票",
@@ -8673,6 +8785,14 @@
       "onboard_time": 1730705720,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11439,
+      "num": 207548,
+      "word": "黄轩 手部艺人上线",
+      "onboard_time": 1730801600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 11385,
