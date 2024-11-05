@@ -1,0 +1,410 @@
+{
+  "runTime": 1730798586594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2358725,
+        "num": 2358725,
+        "word": "网信办将核实调查瑞士卷事件",
+        "onboard_time": 1730793141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2116197,
+        "num": 2116197,
+        "word": "虞书欣 大家不光生我还要宠我",
+        "onboard_time": 1730796322,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32199,
+        "num": 1606911,
+        "word": "在建世界最高桥新进展来了",
+        "onboard_time": 1730795121,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272300,
+        "num": 1272300,
+        "word": "赵露思好瘦",
+        "onboard_time": 1730794761,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1129000,
+        "num": 1129000,
+        "word": "烧伤妈妈得知父亲不知道其现状哭了",
+        "onboard_time": 1730792841,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394019,
+        "num": 935473,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 679853,
+        "num": 679853,
+        "word": "公司宣布将暂停王承渲一切工作",
+        "onboard_time": 1730785521,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635402,
+        "num": 635402,
+        "word": "Knight删除BLG相关微博",
+        "onboard_time": 1730794940,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 622554,
+        "num": 622554,
+        "word": "童瑶深V开到胃",
+        "onboard_time": 1730796681,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570363,
+        "num": 570363,
+        "word": "海马体回应考研报名被禁用",
+        "onboard_time": 1730784259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166965,
+        "num": 564281,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 607091,
+        "num": 554951,
+        "word": "美国面包店因总统选举大捞一笔",
+        "onboard_time": 1730792120,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 573360,
+        "num": 552808,
+        "word": "微博视界大会红毯",
+        "onboard_time": 1730788101,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522279,
+        "num": 522279,
+        "word": "警方将排查网传女子路边被强暴事件",
+        "onboard_time": 1730796262,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35673,
+        "num": 494068,
+        "word": "打假良品铺子博主搜集样品堆满仓库",
+        "onboard_time": 1730798062,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487470,
+        "num": 487470,
+        "word": "棣欣引力",
+        "onboard_time": 1730792660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392728,
+        "num": 392728,
+        "word": "虞书欣服从性测试",
+        "onboard_time": 1730788521,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310277,
+        "num": 310277,
+        "word": "Knight取消回城嘲讽Faker",
+        "onboard_time": 1730796621,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257696,
+        "num": 257696,
+        "word": "开封大学生骑行反击郑州听劝式接招",
+        "onboard_time": 1730795720,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22505,
+        "num": 257384,
+        "word": "新疆用户在拼多多实现双11自由",
+        "onboard_time": 1730796322,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1414566,
+        "num": 256007,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769564,
+        "num": 254746,
+        "word": "产妇须尽快剖腹产家属要求卡点生娃",
+        "onboard_time": 1730792781,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267117,
+        "num": 252908,
+        "word": "警方回应柳州女子疑喝醉在路边被强暴",
+        "onboard_time": 1730791400,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94102,
+        "num": 251339,
+        "word": "郑州大学生夜骑开封是机遇也是大考",
+        "onboard_time": 1730798481,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225393,
+        "num": 250347,
+        "word": "王承渲回应被暂停工作",
+        "onboard_time": 1730797880,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249946,
+        "num": 249946,
+        "word": "官方回应海马体照片会影响身份核验",
+        "onboard_time": 1730785760,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 221844,
+        "num": 221844,
+        "word": "谁说古偶不需要演技",
+        "onboard_time": 1730792479,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197190,
+        "num": 197190,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156313,
+        "num": 193499,
+        "word": "永夜星河开分7.5",
+        "onboard_time": 1730779135,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41891,
+        "num": 190993,
+        "word": "天真蓝回应考研报名",
+        "onboard_time": 1730798301,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190440,
+        "num": 190440,
+        "word": "哈里斯特朗普竞选主张大PK",
+        "onboard_time": 1730795060,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 182259,
+        "num": 182259,
+        "word": "女子产后出院被老公套袋抬回家",
+        "onboard_time": 1730797221,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173740,
+        "num": 173740,
+        "word": "内地游客香港换钱被骂穷",
+        "onboard_time": 1730789059,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168800,
+        "num": 168800,
+        "word": "歼35可能作为航母舰载机",
+        "onboard_time": 1730780721,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 155354,
+        "num": 163788,
+        "word": "清华大学发了凌妙妙转场",
+        "onboard_time": 1730798122,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160220,
+        "num": 160220,
+        "word": "为什么马斯克全力押注特朗普",
+        "onboard_time": 1730792240,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 390589,
+        "num": 160013,
+        "word": "关晓彤鎏金高定",
+        "onboard_time": 1730794040,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156844,
+        "num": 156844,
+        "word": "美国大选选举日首个投票点结果出炉",
+        "onboard_time": 1730786360,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153478,
+        "num": 153478,
+        "word": "华为Mate70",
+        "onboard_time": 1730791101,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147232,
+        "num": 147232,
+        "word": "花一两万考无人机操控员月薪仅4000元",
+        "onboard_time": 1730790680,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137867,
+        "num": 137867,
+        "word": "代号鸢还没开灯",
+        "onboard_time": 1730798301,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125754,
+        "num": 125754,
+        "word": "秦海璐胡先煦复刻花少名场面",
+        "onboard_time": 1730798301,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123012,
+        "num": 123012,
+        "word": "考研报名禁用海马体照片",
+        "onboard_time": 1730774358,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119203,
+        "num": 119203,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 117147,
+        "word": "郑州一高校老师称需要统计上报夜骑人数",
+        "onboard_time": 1730789840,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115650,
+        "num": 115650,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115548,
+        "num": 115548,
+        "word": "海马体 天真蓝",
+        "onboard_time": 1730779281,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112001,
+        "num": 112001,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 107288,
+        "num": 107288,
+        "word": "烧伤妈妈担心脸吓到宝宝",
+        "onboard_time": 1730794400,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106974,
+        "num": 106974,
+        "word": "35岁单身女生的年度相亲报告",
+        "onboard_time": 1730787563,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的高水平对外开放将惠及全球#"
+    }
+  }
+}

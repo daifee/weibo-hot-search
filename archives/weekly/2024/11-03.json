@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730796086256,
+  "endTime": 1730798586594,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2116197,
+      "num": 2116197,
+      "word": "虞书欣 大家不光生我还要宠我",
+      "onboard_time": 1730796322,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2051875,
       "num": 2051875,
       "word": "花少4个人吃9人餐事情始末",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 1662964,
-      "num": 524889,
+      "num": 564281,
       "word": "美国大选",
       "onboard_time": 1730645479,
       "rank": 10,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1414566,
+      "num": 256007,
+      "word": "21岁女生下腹疼痛确诊胃癌晚期",
+      "onboard_time": 1730796381,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1405650,
       "num": 955741,
       "word": "瑞士卷 消费降级",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 1342703,
-      "num": 968055,
+      "num": 1129000,
       "word": "烧伤妈妈得知父亲不知道其现状哭了",
       "onboard_time": 1730792841,
       "rank": 3,
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1272300,
+      "num": 1272300,
+      "word": "赵露思好瘦",
+      "onboard_time": 1730794761,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1253808,
       "num": 688790,
       "word": "刘宇宁也想转发赵露思微博",
@@ -592,14 +616,6 @@
       "word": "微博视界大会红毯",
       "onboard_time": 1730788101,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1118279,
-      "num": 966358,
-      "word": "赵露思好瘦",
-      "onboard_time": 1730794761,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635402,
+      "num": 635402,
+      "word": "Knight删除BLG相关微博",
+      "onboard_time": 1730794940,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 635033,
       "num": 357637,
       "word": "宋亚轩将缺席现在就出发2后续录制",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1730563522,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 622554,
+      "num": 622554,
+      "word": "童瑶深V开到胃",
+      "onboard_time": 1730796681,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 622479,
@@ -1795,6 +1827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 522279,
+      "num": 522279,
+      "word": "警方将排查网传女子路边被强暴事件",
+      "onboard_time": 1730796262,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522264,
       "num": 501972,
       "word": "虞书欣三部剧限免了",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1730592677,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 497699,
-      "num": 497699,
-      "word": "Knight删除BLG相关微博",
-      "onboard_time": 1730794940,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 497337,
@@ -2811,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310277,
+      "num": 310277,
+      "word": "Knight取消回城嘲讽Faker",
+      "onboard_time": 1730796621,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308953,
       "num": 308953,
       "word": "代号鸢",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1730539459,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257696,
+      "num": 555727,
+      "word": "开封大学生骑行反击郑州听劝式接招",
+      "onboard_time": 1730795720,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256552,
@@ -3553,6 +3601,14 @@
       "onboard_time": 1730726001,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225393,
+      "num": 250347,
+      "word": "王承渲回应被暂停工作",
+      "onboard_time": 1730797880,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 225074,
@@ -4451,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190440,
+      "num": 598624,
+      "word": "哈里斯特朗普竞选主张大PK",
+      "onboard_time": 1730795060,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 190115,
       "num": 190115,
       "word": "猪肉炖粉条你尝不到了",
@@ -4593,6 +4657,14 @@
       "onboard_time": 1730638039,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182259,
+      "num": 182259,
+      "word": "女子产后出院被老公套袋抬回家",
+      "onboard_time": 1730797221,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181300,
@@ -5523,6 +5595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155354,
+      "num": 163788,
+      "word": "清华大学发了凌妙妙转场",
+      "onboard_time": 1730798122,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154925,
       "num": 154925,
       "word": "指甲建构",
@@ -6003,6 +6083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137867,
+      "num": 137867,
+      "word": "代号鸢还没开灯",
+      "onboard_time": 1730798301,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137602,
       "num": 137602,
       "word": "CBA",
@@ -6297,6 +6385,14 @@
       "onboard_time": 1730737217,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125754,
+      "num": 125754,
+      "word": "秦海璐胡先煦复刻花少名场面",
+      "onboard_time": 1730798301,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 125565,
@@ -6595,14 +6691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113051,
-      "num": 555727,
-      "word": "开封大学生骑行反击郑州听劝式接招",
-      "onboard_time": 1730795720,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112938,
       "num": 112938,
       "word": "陶昕然新片造型",
@@ -6849,6 +6937,14 @@
       "onboard_time": 1730663112,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 94102,
+      "num": 251339,
+      "word": "郑州大学生夜骑开封是机遇也是大考",
+      "onboard_time": 1730798481,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93098,
@@ -7137,14 +7233,6 @@
       "onboard_time": 1730651657,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61782,
-      "num": 598624,
-      "word": "哈里斯特朗普竞选主张大PK",
-      "onboard_time": 1730795060,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 61456,
@@ -7459,6 +7547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41891,
+      "num": 190993,
+      "word": "天真蓝回应考研报名",
+      "onboard_time": 1730798301,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 41884,
       "num": 300233,
       "word": "赵叔回应大米被副局长带火",
@@ -7603,6 +7699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35673,
+      "num": 494068,
+      "word": "打假良品铺子博主搜集样品堆满仓库",
+      "onboard_time": 1730798062,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35551,
       "num": 478258,
       "word": "女子涉嫌伙同他人伪造虚假材料骗贷13亿",
@@ -7712,6 +7816,14 @@
       "word": "微短剧会成为电影的掘墓人吗",
       "onboard_time": 1730711119,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32199,
+      "num": 1606911,
+      "word": "在建世界最高桥新进展来了",
+      "onboard_time": 1730795121,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -7977,6 +8089,14 @@
       "onboard_time": 1730624418,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 22505,
+      "num": 257384,
+      "word": "新疆用户在拼多多实现双11自由",
+      "onboard_time": 1730796322,
+      "rank": 19,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 22456,
@@ -8305,14 +8425,6 @@
       "onboard_time": 1730723840,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16971,
-      "num": 970654,
-      "word": "在建世界最高桥新进展来了",
-      "onboard_time": 1730795121,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16805,

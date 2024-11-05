@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730796086256,
+  "endTime": 1730798586594,
   "band_list": [
     {
       "raw_hot": 7678975,
@@ -25,6 +25,14 @@
       "onboard_time": 1730793141,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2116197,
+      "num": 2116197,
+      "word": "虞书欣 大家不光生我还要宠我",
+      "onboard_time": 1730796322,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1749291,
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1414566,
+      "num": 256007,
+      "word": "21岁女生下腹疼痛确诊胃癌晚期",
+      "onboard_time": 1730796381,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1405650,
       "num": 955741,
       "word": "瑞士卷 消费降级",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1342703,
-      "num": 968055,
+      "num": 1129000,
       "word": "烧伤妈妈得知父亲不知道其现状哭了",
       "onboard_time": 1730792841,
       "rank": 3,
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272300,
+      "num": 1272300,
+      "word": "赵露思好瘦",
+      "onboard_time": 1730794761,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1209270,
       "num": 349928,
       "word": "别掉进8个瑞士卷怎么分的话题陷阱",
@@ -115,19 +139,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1166965,
+      "num": 564281,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1136310,
       "num": 1136310,
       "word": "微博视界大会红毯",
       "onboard_time": 1730788101,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1118279,
-      "num": 966358,
-      "word": "赵露思好瘦",
-      "onboard_time": 1730794761,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -339,12 +363,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 635402,
+      "num": 635402,
+      "word": "Knight删除BLG相关微博",
+      "onboard_time": 1730794940,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 629682,
       "num": 629682,
       "word": "官方回应海马体照片会影响身份核验",
       "onboard_time": 1730785760,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 622554,
+      "num": 622554,
+      "word": "童瑶深V开到胃",
+      "onboard_time": 1730796681,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 617565,
@@ -411,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 565702,
-      "num": 524889,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 557096,
       "num": 557096,
       "word": "正午阳光 流量",
@@ -467,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 522279,
+      "num": 522279,
+      "word": "警方将排查网传女子路边被强暴事件",
+      "onboard_time": 1730796262,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516451,
       "num": 516451,
       "word": "慕瑶 不愧是原著大女主",
@@ -489,14 +529,6 @@
       "onboard_time": 1730773219,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497699,
-      "num": 497699,
-      "word": "Knight删除BLG相关微博",
-      "onboard_time": 1730794940,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 497337,
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310277,
+      "num": 310277,
+      "word": "Knight取消回城嘲讽Faker",
+      "onboard_time": 1730796621,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308263,
       "num": 308263,
       "word": "还我庄图南",
@@ -907,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257696,
+      "num": 555727,
+      "word": "开封大学生骑行反击郑州听劝式接招",
+      "onboard_time": 1730795720,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257648,
       "num": 257648,
       "word": "华为Mate70",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1730777841,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225393,
+      "num": 250347,
+      "word": "王承渲回应被暂停工作",
+      "onboard_time": 1730797880,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 214109,
@@ -1139,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190440,
+      "num": 598624,
+      "word": "哈里斯特朗普竞选主张大PK",
+      "onboard_time": 1730795060,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 189714,
       "num": 287634,
       "word": "95花谁能第一个飞升",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1730724619,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182259,
+      "num": 182259,
+      "word": "女子产后出院被老公套袋抬回家",
+      "onboard_time": 1730797221,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181199,
@@ -1403,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155354,
+      "num": 163788,
+      "word": "清华大学发了凌妙妙转场",
+      "onboard_time": 1730798122,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153395,
       "num": 153395,
       "word": "风华鉴 重生剧",
@@ -1507,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137867,
+      "num": 137867,
+      "word": "代号鸢还没开灯",
+      "onboard_time": 1730798301,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135532,
       "num": 135532,
       "word": "马龙孙颖莎互送to签",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1730737217,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125754,
+      "num": 125754,
+      "word": "秦海璐胡先煦复刻花少名场面",
+      "onboard_time": 1730798301,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 125233,
@@ -1659,14 +1755,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 113051,
-      "num": 555727,
-      "word": "开封大学生骑行反击郑州听劝式接招",
-      "onboard_time": 1730795720,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112726,
       "num": 112726,
       "word": "曾黎好薄的背",
@@ -1723,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94102,
+      "num": 251339,
+      "word": "郑州大学生夜骑开封是机遇也是大考",
+      "onboard_time": 1730798481,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89862,
       "num": 89862,
       "word": "关晓彤黑抹胸裙",
@@ -1777,14 +1873,6 @@
       "onboard_time": 1730737936,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61782,
-      "num": 598624,
-      "word": "哈里斯特朗普竞选主张大PK",
-      "onboard_time": 1730795060,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 60756,
@@ -1875,6 +1963,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 41891,
+      "num": 190993,
+      "word": "天真蓝回应考研报名",
+      "onboard_time": 1730798301,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 40082,
       "num": 534646,
       "word": "摇摆州对美国大选为何如此重要",
@@ -1899,10 +1995,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35673,
+      "num": 494068,
+      "word": "打假良品铺子博主搜集样品堆满仓库",
+      "onboard_time": 1730798062,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35466,
       "num": 1258083,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32199,
+      "num": 1606911,
+      "word": "在建世界最高桥新进展来了",
+      "onboard_time": 1730795121,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1985,6 +2097,14 @@
       "onboard_time": 1730775620,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22505,
+      "num": 257384,
+      "word": "新疆用户在拼多多实现双11自由",
+      "onboard_time": 1730796322,
+      "rank": 19,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 21998,
@@ -2081,14 +2201,6 @@
       "onboard_time": 1730790620,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16971,
-      "num": 970654,
-      "word": "在建世界最高桥新进展来了",
-      "onboard_time": 1730795121,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16081,
