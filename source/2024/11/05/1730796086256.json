@@ -1,0 +1,410 @@
+{
+  "runTime": 1730796086256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2618094,
+        "num": 2618094,
+        "word": "网信办将核实调查瑞士卷事件",
+        "onboard_time": 1730793141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972607,
+        "num": 972607,
+        "word": "产妇须尽快剖腹产家属要求卡点生娃",
+        "onboard_time": 1730792781,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16971,
+        "num": 970654,
+        "word": "在建世界最高桥新进展来了",
+        "onboard_time": 1730795121,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342703,
+        "num": 968055,
+        "word": "烧伤妈妈得知父亲不知道其现状哭了",
+        "onboard_time": 1730792841,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118279,
+        "num": 966358,
+        "word": "赵露思好瘦",
+        "onboard_time": 1730794761,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1974970,
+        "num": 962028,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 961003,
+        "num": 961003,
+        "word": "公司宣布将暂停王承渲一切工作",
+        "onboard_time": 1730785521,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890331,
+        "num": 890331,
+        "word": "虞书欣送凌妙妙周边",
+        "onboard_time": 1730795543,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556380,
+        "num": 556380,
+        "word": "官方回应海马体照片会影响身份核验",
+        "onboard_time": 1730785760,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 113051,
+        "num": 555727,
+        "word": "开封大学生骑行反击郑州听劝式接招",
+        "onboard_time": 1730795720,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968495,
+        "num": 555518,
+        "word": "棣欣引力",
+        "onboard_time": 1730792660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768317,
+        "num": 555407,
+        "word": "微博视界大会红毯",
+        "onboard_time": 1730788101,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555168,
+        "num": 555168,
+        "word": "海马体回应考研报名被禁用",
+        "onboard_time": 1730784259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61782,
+        "num": 550892,
+        "word": "哈里斯特朗普竞选主张大PK",
+        "onboard_time": 1730795060,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 707307,
+        "num": 546837,
+        "word": "美国面包店因总统选举大捞一笔",
+        "onboard_time": 1730792120,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 683437,
+        "num": 535274,
+        "word": "虞书欣服从性测试",
+        "onboard_time": 1730788521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565702,
+        "num": 524889,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 522656,
+        "num": 522656,
+        "word": "关晓彤鎏金高定",
+        "onboard_time": 1730794040,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 497699,
+        "num": 497699,
+        "word": "Knight删除BLG相关微博",
+        "onboard_time": 1730794940,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 445843,
+        "num": 445843,
+        "word": "内地游客香港换钱被骂穷",
+        "onboard_time": 1730789059,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454067,
+        "num": 435567,
+        "word": "警方回应柳州女子疑喝醉在路边被强暴",
+        "onboard_time": 1730791400,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414629,
+        "num": 414629,
+        "word": "向佐女装",
+        "onboard_time": 1730789299,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290341,
+        "num": 290341,
+        "word": "郑州一高校老师称需要统计上报夜骑人数",
+        "onboard_time": 1730789840,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275316,
+        "num": 275316,
+        "word": "花一两万考无人机操控员月薪仅4000元",
+        "onboard_time": 1730790680,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256046,
+        "num": 274749,
+        "word": "谁说古偶不需要演技",
+        "onboard_time": 1730792479,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186176,
+        "num": 273662,
+        "word": "曾舜晞带了一艘船",
+        "onboard_time": 1730795720,
+        "rank": 25,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 180334,
+        "num": 270733,
+        "word": "赵露思晚秋look",
+        "onboard_time": 1730795361,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164563,
+        "num": 270312,
+        "word": "慕声彩蛋是丁禹兮特意回横店拍的",
+        "onboard_time": 1730790020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14076,
+        "num": 268458,
+        "word": "A股成交2.3万亿超5000只个股上涨",
+        "onboard_time": 1730795841,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46920,
+        "num": 267083,
+        "word": "郑钦文回应比赛中让观众别喊了",
+        "onboard_time": 1730795421,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265755,
+        "num": 265755,
+        "word": "歼35可能作为航母舰载机",
+        "onboard_time": 1730780721,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 245201,
+        "num": 245201,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223847,
+        "num": 223847,
+        "word": "华为Mate70",
+        "onboard_time": 1730791101,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199770,
+        "num": 199770,
+        "word": "为什么马斯克全力押注特朗普",
+        "onboard_time": 1730792240,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187757,
+        "num": 187757,
+        "word": "三分钟解读美国大选乱象",
+        "onboard_time": 1730784439,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173282,
+        "num": 173282,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164115,
+        "num": 164115,
+        "word": "美国大选选举日首个投票点结果出炉",
+        "onboard_time": 1730786360,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161659,
+        "num": 161659,
+        "word": "永夜星河开分7.5",
+        "onboard_time": 1730779135,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158685,
+        "num": 158685,
+        "word": "林允颖儿 红黑配",
+        "onboard_time": 1730795901,
+        "rank": 38,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 155093,
+        "num": 155093,
+        "word": "考研报名禁用海马体照片",
+        "onboard_time": 1730774358,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153772,
+        "num": 153772,
+        "word": "海马体 天真蓝",
+        "onboard_time": 1730779281,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182494,
+        "num": 153768,
+        "word": "陈都灵并蒂双生花",
+        "onboard_time": 1730792120,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153762,
+        "num": 153762,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127110,
+        "num": 151517,
+        "word": "今日A股大爆发",
+        "onboard_time": 1730786419,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149738,
+        "num": 149738,
+        "word": "烧伤妈妈担心脸吓到宝宝",
+        "onboard_time": 1730794400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148585,
+        "num": 148585,
+        "word": "35岁单身女生的年度相亲报告",
+        "onboard_time": 1730787563,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143009,
+        "num": 143009,
+        "word": "周雨彤 睡袋",
+        "onboard_time": 1730776819,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136238,
+        "num": 136238,
+        "word": "中国空军进入双隐身战机时代",
+        "onboard_time": 1730777841,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135065,
+        "num": 135065,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131457,
+        "num": 131457,
+        "word": "SM新女团明年第一季度将出道",
+        "onboard_time": 1730793679,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国的进博之约#"
+    }
+  }
+}
