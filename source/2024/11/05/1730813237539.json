@@ -1,0 +1,410 @@
+{
+  "runTime": 1730813237539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2107413,
+        "num": 2107413,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262370,
+        "num": 1262370,
+        "word": "王鹤棣田曦薇牵手走秀",
+        "onboard_time": 1730811441,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29002,
+        "num": 1198716,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174592,
+        "num": 1174592,
+        "word": "虞书欣赵露思 互拍",
+        "onboard_time": 1730809342,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803573,
+        "num": 803573,
+        "word": "近半价卖掉400万房子反悔需赔40万",
+        "onboard_time": 1730810662,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415857,
+        "num": 773186,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1021720,
+        "num": 759924,
+        "word": "王鹤棣 向佐为什么穿那么性感",
+        "onboard_time": 1730808681,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 655149,
+        "num": 655149,
+        "word": "陈雪凝回应抄袭汪苏泷",
+        "onboard_time": 1730805020,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 566125,
+        "num": 566125,
+        "word": "市委书记落马政绩工程将被拆除",
+        "onboard_time": 1730810121,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82634,
+        "num": 564934,
+        "word": "如何看待各地清退编外人员",
+        "onboard_time": 1730812342,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200688,
+        "num": 550097,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 723937,
+        "num": 545619,
+        "word": "哈里斯特朗普竞选主张大pk",
+        "onboard_time": 1730806160,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 617422,
+        "num": 537699,
+        "word": "美国东海岸投票站开放",
+        "onboard_time": 1730806642,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59971,
+        "num": 531720,
+        "word": "害怕接电话其实是种社交焦虑",
+        "onboard_time": 1730811742,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609526,
+        "num": 521217,
+        "word": "刘谦抗癌成功称已完全康复",
+        "onboard_time": 1730803582,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42508,
+        "num": 511829,
+        "word": "微博视界大会手机生图超绝",
+        "onboard_time": 1730809461,
+        "rank": 15,
+        "category": "剧集,数码"
+      },
+      {
+        "raw_hot": 506343,
+        "num": 506343,
+        "word": "女儿被录到土木专业父母感觉天塌了",
+        "onboard_time": 1730806401,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571297,
+        "num": 449660,
+        "word": "虞书欣在拍谁呢",
+        "onboard_time": 1730806702,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373638,
+        "num": 373638,
+        "word": "6岁女孩冷冻卵巢组织免化疗损害",
+        "onboard_time": 1730804541,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436935,
+        "num": 364617,
+        "word": "微博视界大会",
+        "onboard_time": 1730802441,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682781,
+        "num": 354615,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320397,
+        "num": 320397,
+        "word": "白鹿赵露思聊什么呢",
+        "onboard_time": 1730808801,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277073,
+        "num": 277073,
+        "word": "女子哭诉残障母亲在养老院遭多次猥亵",
+        "onboard_time": 1730807302,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270210,
+        "num": 270210,
+        "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+        "onboard_time": 1730811681,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253508,
+        "num": 253508,
+        "word": "十个勤天 禾下乘凉梦",
+        "onboard_time": 1730810782,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250910,
+        "num": 250910,
+        "word": "永夜星河",
+        "onboard_time": 1730803641,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232302,
+        "num": 232302,
+        "word": "莫雷加德说王楚钦是世界上最好的球员",
+        "onboard_time": 1730805561,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222338,
+        "num": 222338,
+        "word": "忽然明白少年夫妻老来伴的含义",
+        "onboard_time": 1730810421,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212216,
+        "num": 212216,
+        "word": "浙江媳妇Rose的妈妈从非洲来看她了",
+        "onboard_time": 1730812402,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111630,
+        "num": 198549,
+        "word": "KSG战胜WB",
+        "onboard_time": 1730812402,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196515,
+        "num": 196515,
+        "word": "美国迎来史上最势均力敌总统选举",
+        "onboard_time": 1730803282,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 187240,
+        "word": "张艺兴工作室私信17岁高中生",
+        "onboard_time": 1730798662,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155215,
+        "num": 155215,
+        "word": "付费自习室里多少人在表演性学习",
+        "onboard_time": 1730800762,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 147629,
+        "word": "KSG晋级年总胜者组决赛",
+        "onboard_time": 1730813003,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142668,
+        "num": 142668,
+        "word": "清华大学发了凌妙妙转场",
+        "onboard_time": 1730798122,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142492,
+        "num": 142492,
+        "word": "怪奇物语",
+        "onboard_time": 1730812703,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140880,
+        "num": 140880,
+        "word": "妙妙训狗",
+        "onboard_time": 1730811263,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136021,
+        "num": 136021,
+        "word": "歼35A你好",
+        "onboard_time": 1730811142,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135658,
+        "num": 135658,
+        "word": "母女起争执女儿怒砸太古里一专卖店",
+        "onboard_time": 1730812884,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135341,
+        "num": 135341,
+        "word": "深圳多名学生骑电单车发生意外",
+        "onboard_time": 1730807242,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130786,
+        "num": 130786,
+        "word": "产妇须尽快剖腹产家属要求卡点生娃",
+        "onboard_time": 1730792781,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129804,
+        "num": 129804,
+        "word": "货车司机撞上劳斯莱斯被判全责",
+        "onboard_time": 1730810242,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "海马体全国开通考研照绿通服务",
+        "onboard_time": 1730803041,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126799,
+        "num": 126799,
+        "word": "肖战黑粉未道歉被公告",
+        "onboard_time": 1730805439,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125296,
+        "num": 125296,
+        "word": "警方回应柳州女子疑喝醉在路边被强暴",
+        "onboard_time": 1730791400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124158,
+        "num": 124158,
+        "word": "海马体照片被拒呼唤人们面对真实自我",
+        "onboard_time": 1730809342,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122599,
+        "num": 122599,
+        "word": "人事造假冒领工资近两千万",
+        "onboard_time": 1730800522,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121499,
+        "num": 121499,
+        "word": "德约科维奇退出年终总决赛",
+        "onboard_time": 1730808082,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51835,
+        "num": 120514,
+        "word": "叠纸心意",
+        "onboard_time": 1730804899,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119660,
+        "num": 119660,
+        "word": "警方将排查网传女子路边被强暴事件",
+        "onboard_time": 1730796262,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察空降兵军#"
+    }
+  }
+}

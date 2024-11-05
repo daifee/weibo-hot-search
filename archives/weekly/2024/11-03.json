@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730811402683,
+  "endTime": 1730813237539,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2107413,
+      "num": 2107413,
+      "word": "丈夫把100万元捐款转给烧伤妈妈",
+      "onboard_time": 1730809702,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2051875,
       "num": 2051875,
       "word": "花少4个人吃9人餐事情始末",
@@ -241,14 +249,6 @@
       "onboard_time": 1730695641,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1789095,
-      "num": 1789095,
-      "word": "丈夫把100万元捐款转给烧伤妈妈",
-      "onboard_time": 1730809702,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1769284,
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1262370,
+      "num": 1262370,
+      "word": "王鹤棣田曦薇牵手走秀",
+      "onboard_time": 1730811441,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1253808,
       "num": 688790,
       "word": "刘宇宁也想转发赵露思微博",
@@ -801,6 +809,14 @@
       "onboard_time": 1730803582,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021720,
+      "num": 759924,
+      "word": "王鹤棣 向佐为什么穿那么性感",
+      "onboard_time": 1730808681,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1018410,
@@ -1099,20 +1115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 816651,
-      "num": 526449,
-      "word": "王鹤棣 向佐为什么穿那么性感",
-      "onboard_time": 1730808681,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 815524,
       "num": 795946,
       "word": "童瑶深V开到胃",
       "onboard_time": 1730796681,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 803573,
+      "num": 803573,
+      "word": "近半价卖掉400万房子反悔需赔40万",
+      "onboard_time": 1730810662,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798154,
@@ -1611,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617422,
+      "num": 537699,
+      "word": "美国东海岸投票站开放",
+      "onboard_time": 1730806642,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 616821,
       "num": 616821,
       "word": "警方将排查网传女子路边被强暴事件",
@@ -1827,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571297,
+      "num": 449660,
+      "word": "虞书欣在拍谁呢",
+      "onboard_time": 1730806702,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570151,
       "num": 570151,
       "word": "窦骁中国杯帆船赛夺冠",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1730626878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566125,
+      "num": 566125,
+      "word": "市委书记落马政绩工程将被拆除",
+      "onboard_time": 1730810121,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 564141,
@@ -2185,14 +2225,6 @@
       "onboard_time": 1730615899,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468508,
-      "num": 468508,
-      "word": "美国东海岸投票站开放",
-      "onboard_time": 1730806642,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 468214,
@@ -2987,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320397,
+      "num": 320397,
+      "word": "白鹿赵露思聊什么呢",
+      "onboard_time": 1730808801,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319649,
       "num": 319649,
       "word": "假性亲密关系",
@@ -3211,14 +3251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 287224,
-      "num": 287224,
-      "word": "市委书记落马政绩工程将被拆除",
-      "onboard_time": 1730810121,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 286864,
       "num": 424233,
       "word": "湖南卫视芒果TV2025大剧片单",
@@ -3344,6 +3376,14 @@
       "word": "52岁智障男子被包装成蓝领背上车贷",
       "onboard_time": 1730781861,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270210,
+      "num": 270210,
+      "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+      "onboard_time": 1730811681,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3537,6 +3577,14 @@
       "onboard_time": 1730689698,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253508,
+      "num": 329003,
+      "word": "十个勤天 禾下乘凉梦",
+      "onboard_time": 1730810782,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 251869,
@@ -3931,6 +3979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 222338,
+      "num": 222338,
+      "word": "忽然明白少年夫妻老来伴的含义",
+      "onboard_time": 1730810421,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "猎罪图鉴官微打假",
@@ -4131,6 +4187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212216,
+      "num": 212216,
+      "word": "浙江媳妇Rose的妈妈从非洲来看她了",
+      "onboard_time": 1730812402,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211627,
       "num": 211627,
       "word": "满满的祝福送给莎莎",
@@ -4232,14 +4296,6 @@
       "word": "烧伤妈妈丈夫剃头和妻子变情侣头",
       "onboard_time": 1730629519,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206896,
-      "num": 206896,
-      "word": "近半价卖掉400万房子反悔需赔40万",
-      "onboard_time": 1730810662,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -5443,14 +5499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168099,
-      "num": 168099,
-      "word": "忽然明白少年夫妻老来伴的含义",
-      "onboard_time": 1730810421,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167731,
       "num": 167731,
       "word": "小巷人家 在上学和上进中选择了上香",
@@ -6171,6 +6219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147629,
+      "num": 147629,
+      "word": "KSG晋级年总胜者组决赛",
+      "onboard_time": 1730813003,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "米勒发博",
@@ -6339,6 +6395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142492,
+      "num": 142492,
+      "word": "怪奇物语",
+      "onboard_time": 1730812703,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142466,
       "num": 142466,
       "word": "西班牙洪灾致中国公民2遇难2失联",
@@ -6377,6 +6441,14 @@
       "onboard_time": 1730721140,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140880,
+      "num": 140880,
+      "word": "妙妙训狗",
+      "onboard_time": 1730811263,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 140373,
@@ -6459,14 +6531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138488,
-      "num": 138488,
-      "word": "妙妙训狗",
-      "onboard_time": 1730811263,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138405,
       "num": 138405,
       "word": "你的谎言也动听",
@@ -6539,12 +6603,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 135543,
-      "num": 135543,
+      "raw_hot": 136021,
+      "num": 136021,
       "word": "歼35A你好",
       "onboard_time": 1730811142,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135658,
+      "num": 135658,
+      "word": "母女起争执女儿怒砸太古里一专卖店",
+      "onboard_time": 1730812884,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135532,
@@ -6705,6 +6777,14 @@
       "onboard_time": 1730715800,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129804,
+      "num": 208495,
+      "word": "货车司机撞上劳斯莱斯被判全责",
+      "onboard_time": 1730810242,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128779,
@@ -6913,6 +6993,14 @@
       "onboard_time": 1730767100,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124158,
+      "num": 758316,
+      "word": "海马体照片被拒呼唤人们面对真实自我",
+      "onboard_time": 1730809342,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124033,
@@ -7211,6 +7299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111630,
+      "num": 198549,
+      "word": "KSG战胜WB",
+      "onboard_time": 1730812402,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110858,
       "num": 110858,
       "word": "WTT中国大满贯女单决赛刷新收视纪录",
@@ -7435,14 +7531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95935,
-      "num": 758316,
-      "word": "海马体照片被拒呼唤人们面对真实自我",
-      "onboard_time": 1730809342,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95508,
       "num": 330039,
       "word": "寻亲成功家庭发生纠纷多因财产",
@@ -7457,14 +7545,6 @@
       "onboard_time": 1730565737,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94964,
-      "num": 208495,
-      "word": "货车司机撞上劳斯莱斯被判全责",
-      "onboard_time": 1730810242,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94810,
@@ -7505,14 +7585,6 @@
       "onboard_time": 1730565858,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88487,
-      "num": 329003,
-      "word": "十个勤天 禾下乘凉梦",
-      "onboard_time": 1730810782,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 86701,
@@ -7584,6 +7656,14 @@
       "word": "成都持械伤人事件不存在克扣工资问题",
       "onboard_time": 1730569578,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82634,
+      "num": 564934,
+      "word": "如何看待各地清退编外人员",
+      "onboard_time": 1730812342,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7801,6 +7881,14 @@
       "onboard_time": 1730627179,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59971,
+      "num": 531720,
+      "word": "害怕接电话其实是种社交焦虑",
+      "onboard_time": 1730811742,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59263,
@@ -8105,6 +8193,14 @@
       "onboard_time": 1730703919,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42508,
+      "num": 511829,
+      "word": "微博视界大会手机生图超绝",
+      "onboard_time": 1730809461,
+      "rank": 21,
+      "category": "剧集,数码"
     },
     {
       "raw_hot": 42402,
@@ -8459,6 +8555,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 29002,
+      "num": 1198716,
+      "word": "四叶草再迎进博时间",
+      "onboard_time": 1730811082,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28987,
       "num": 165626,
       "word": "樊振东说体育是相通的",
@@ -8497,14 +8601,6 @@
       "onboard_time": 1730631199,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 27795,
-      "num": 358397,
-      "word": "微博视界大会手机生图超绝",
-      "onboard_time": 1730809461,
-      "rank": 21,
-      "category": "剧集,数码"
     },
     {
       "raw_hot": 27333,
@@ -9200,14 +9296,6 @@
       "word": "热爱生活的人会闪闪发光",
       "onboard_time": 1730748613,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12944,
-      "num": 771784,
-      "word": "四叶草再迎进博时间",
-      "onboard_time": 1730811082,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
