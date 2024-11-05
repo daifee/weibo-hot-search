@@ -1,0 +1,410 @@
+{
+  "runTime": 1730820228431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10078252,
+        "num": 10078252,
+        "word": "瑞士卷当事人称非常后悔并抱歉",
+        "onboard_time": 1730814262,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1052361,
+        "num": 1052361,
+        "word": "永夜星河 我就说一天播一集会出事吧",
+        "onboard_time": 1730816125,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 768746,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745657,
+        "num": 745657,
+        "word": "哈尔滨文旅回应网红夫妇有传染病",
+        "onboard_time": 1730817144,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544201,
+        "num": 544201,
+        "word": "王鹤棣田曦薇牵手走秀",
+        "onboard_time": 1730811441,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1300022,
+        "num": 544065,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 93465,
+        "num": 543710,
+        "word": "网红博主被指有传染病已去医院检查",
+        "onboard_time": 1730819543,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235749,
+        "num": 543303,
+        "word": "警方通报网传柳州女子喝醉被强暴",
+        "onboard_time": 1730818704,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61341,
+        "num": 543049,
+        "word": "封堵大学生夜骑不如疏导",
+        "onboard_time": 1730819003,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94005,
+        "num": 542881,
+        "word": "羽绒服涨价与猪肉价格有关",
+        "onboard_time": 1730820201,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562625,
+        "num": 542637,
+        "word": "马天宇建议取消8个装瑞士卷",
+        "onboard_time": 1730814503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542364,
+        "num": 542364,
+        "word": "11岁男孩发烧心脏停跳52小时",
+        "onboard_time": 1730813304,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534524,
+        "num": 534524,
+        "word": "美国东海岸投票站开放",
+        "onboard_time": 1730806642,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 493408,
+        "num": 493408,
+        "word": "范丞丞回应小巷人家演技争议",
+        "onboard_time": 1730818825,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13817,
+        "num": 462911,
+        "word": "亚太事务所被重罚停业一年背后",
+        "onboard_time": 1730819243,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459532,
+        "num": 459532,
+        "word": "虞书欣赵露思 互拍",
+        "onboard_time": 1730809342,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88471,
+        "num": 406715,
+        "word": "李嘉琦在家电采销直播间疯狂下单",
+        "onboard_time": 1730816784,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 394458,
+        "num": 394458,
+        "word": "永夜星河",
+        "onboard_time": 1730803641,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393912,
+        "num": 393912,
+        "word": "虞书欣第一个男主角也来打call了",
+        "onboard_time": 1730814383,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42962,
+        "num": 389920,
+        "word": "女子隆鼻失败讨说法被当场抬走",
+        "onboard_time": 1730819185,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110751,
+        "num": 374544,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 541520,
+        "num": 362599,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423377,
+        "num": 348152,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340376,
+        "num": 340376,
+        "word": "陈雪凝回应抄袭汪苏泷",
+        "onboard_time": 1730805020,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327034,
+        "num": 327034,
+        "word": "微博视界大会",
+        "onboard_time": 1730802441,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294711,
+        "num": 294711,
+        "word": "权志龙说不要再少人了",
+        "onboard_time": 1730814862,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291665,
+        "num": 291665,
+        "word": "向佐郭碧婷 再见爱人",
+        "onboard_time": 1730801362,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256211,
+        "num": 256211,
+        "word": "刘谦抗癌成功称已完全康复",
+        "onboard_time": 1730803582,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251851,
+        "num": 251851,
+        "word": "怪奇物语",
+        "onboard_time": 1730812703,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248716,
+        "num": 248716,
+        "word": "雷军称将推出小米驾校",
+        "onboard_time": 1730813423,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 244803,
+        "num": 244803,
+        "word": "近半价卖掉400万房子反悔需赔40万",
+        "onboard_time": 1730810662,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235386,
+        "num": 235386,
+        "word": "哈里斯特朗普竞选主张大pk",
+        "onboard_time": 1730806160,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226586,
+        "num": 226586,
+        "word": "母女起争执女儿怒砸太古里一专卖店",
+        "onboard_time": 1730812884,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219324,
+        "num": 219324,
+        "word": "教体局通报班主任家长群催缴医保",
+        "onboard_time": 1730814443,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215223,
+        "num": 215223,
+        "word": "吴磊演技",
+        "onboard_time": 1730815893,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215195,
+        "num": 215195,
+        "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+        "onboard_time": 1730811681,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193382,
+        "num": 193382,
+        "word": "美国迎来史上最势均力敌总统选举",
+        "onboard_time": 1730803282,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188610,
+        "num": 188610,
+        "word": "丁禹兮 人前vs妖后",
+        "onboard_time": 1730816304,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175289,
+        "num": 175289,
+        "word": "成都太古里回应Tiffany专柜被砸",
+        "onboard_time": 1730816663,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174559,
+        "num": 174559,
+        "word": "张艺兴工作室私信17岁高中生",
+        "onboard_time": 1730798662,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168440,
+        "num": 168440,
+        "word": "忽然明白少年夫妻老来伴的含义",
+        "onboard_time": 1730810421,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163594,
+        "num": 163594,
+        "word": "女子哭诉残障母亲在养老院遭多次猥亵",
+        "onboard_time": 1730807302,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163347,
+        "num": 163347,
+        "word": "国企董事长15个月收497瓶名酒",
+        "onboard_time": 1730813903,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160514,
+        "num": 160514,
+        "word": "清华大学发了凌妙妙转场",
+        "onboard_time": 1730798122,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 156667,
+        "word": "警方将排查网传女子路边被强暴事件",
+        "onboard_time": 1730796262,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155712,
+        "num": 155712,
+        "word": "11岁男孩暴发性心肌炎37天跑赢死神",
+        "onboard_time": 1730817384,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138910,
+        "num": 138910,
+        "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+        "onboard_time": 1730819604,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122102,
+        "num": 136263,
+        "word": "王楚钦7325分继续霸榜世界第一",
+        "onboard_time": 1730817444,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114790,
+        "num": 136189,
+        "word": "何卓佳把对手打哭了",
+        "onboard_time": 1730820022,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136155,
+        "num": 136155,
+        "word": "张婧仪 幻视回国后的朱韵",
+        "onboard_time": 1730813483,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察空降兵军#"
+    }
+  }
+}

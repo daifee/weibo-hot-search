@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/05 22:39:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/05 23:23:48
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8D%B7%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94%E5%B9%B6%E6%8A%B1%E6%AD%89%23" target="weibo">
+瑞士卷当事人称非常后悔并抱歉（热度：10078252）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E4%BD%A0%E4%BB%AC%E6%94%BE%E8%BF%87%E6%88%91%E4%BB%AC%23" target="weibo">
 王楚钦 你们放过我们（热度：10041235）
 </a>
@@ -1805,12 +1811,6 @@ BLG对战T1（热度：7849827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9E%97%E5%8F%97%E4%BC%A4%23" target="weibo">
 马林受伤（热度：7817643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E5%85%AC%E4%B8%BB%E7%99%BD%E6%A2%A6%E5%A6%8D%23" target="weibo">
-白鹿 公主白梦妍（热度：7808511）
 </a>
 </li>
 
