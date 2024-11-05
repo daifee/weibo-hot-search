@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730791230741,
+  "endTime": 1730792145509,
   "band_list": [
     {
       "raw_hot": 7678975,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937934,
+      "num": 330473,
+      "word": "虞书欣服从性测试",
+      "onboard_time": 1730788521,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 922621,
       "num": 800655,
       "word": "妈妈充值3万玩游戏竟甩锅女儿",
@@ -201,14 +209,6 @@
       "onboard_time": 1730777841,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 788546,
-      "num": 330473,
-      "word": "虞书欣服从性测试",
-      "onboard_time": 1730788521,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 779473,
@@ -243,12 +243,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 678134,
-      "num": 678134,
+      "raw_hot": 722792,
+      "num": 722792,
       "word": "海马体回应考研报名被禁用",
       "onboard_time": 1730784259,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704560,
+      "num": 330328,
+      "word": "向佐女装",
+      "onboard_time": 1730789299,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 677482,
@@ -265,14 +273,6 @@
       "onboard_time": 1730732720,
       "rank": 2,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 631641,
-      "num": 330328,
-      "word": "向佐女装",
-      "onboard_time": 1730789299,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 617565,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505409,
+      "num": 322951,
+      "word": "内地游客香港换钱被骂穷",
+      "onboard_time": 1730789059,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410219,
+      "num": 493989,
+      "word": "三分钟解读美国大选乱象",
+      "onboard_time": 1730784439,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 404744,
       "num": 404744,
       "word": "美了1千多年的银杏是唐太宗种的",
@@ -465,14 +481,6 @@
       "onboard_time": 1730733261,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 393843,
-      "num": 493989,
-      "word": "三分钟解读美国大选乱象",
-      "onboard_time": 1730784439,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 389301,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 381612,
-      "num": 257705,
+      "num": 275421,
       "word": "阿条姐在杭州喜提人生的第一辆车",
       "onboard_time": 1730788821,
       "rank": 41,
@@ -523,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366620,
+      "num": 366620,
+      "word": "郑州一高校老师称需要统计上报夜骑人数",
+      "onboard_time": 1730789840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360052,
       "num": 500343,
       "word": "小巷人家豆瓣开分8.2",
       "onboard_time": 1730782281,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358931,
-      "num": 322951,
-      "word": "内地游客香港换钱被骂穷",
-      "onboard_time": 1730789059,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352719,
@@ -561,6 +569,14 @@
       "onboard_time": 1730733322,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344566,
+      "num": 269171,
+      "word": "警方回应柳州女子疑喝醉在路边被强暴",
+      "onboard_time": 1730791400,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342057,
@@ -699,19 +715,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296507,
+      "num": 296507,
+      "word": "电影今年二十二定档",
+      "onboard_time": 1730790981,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "当地回应班主任在家长群催缴医保",
       "onboard_time": 1730741294,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289779,
-      "num": 330603,
-      "word": "郑州一高校老师称需要统计上报夜骑人数",
-      "onboard_time": 1730789840,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -771,12 +787,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265233,
+      "num": 287200,
+      "word": "美国大选选举日首个投票点结果出炉",
+      "onboard_time": 1730786360,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 265004,
       "num": 265004,
       "word": "湖人爆冷",
       "onboard_time": 1730776459,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260824,
+      "num": 323908,
+      "word": "花一两万考无人机操控员月薪仅4000元",
+      "onboard_time": 1730790680,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257648,
+      "num": 257648,
+      "word": "华为Mate70",
+      "onboard_time": 1730791101,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 255588,
@@ -803,14 +843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252734,
-      "num": 287200,
-      "word": "美国大选选举日首个投票点结果出炉",
-      "onboard_time": 1730786360,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 251869,
       "num": 251869,
       "word": "第七届进博会静候八方宾朋",
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 251209,
-      "num": 251209,
+      "num": 282239,
       "word": "35岁单身女生的年度相亲报告",
       "onboard_time": 1730787563,
       "rank": 46,
@@ -857,6 +889,14 @@
       "onboard_time": 1730776760,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227830,
+      "num": 257658,
+      "word": "慕声彩蛋是丁禹兮特意回横店拍的",
+      "onboard_time": 1730790020,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 226574,
@@ -955,14 +995,6 @@
       "category": "演出,音乐"
     },
     {
-      "raw_hot": 204577,
-      "num": 240918,
-      "word": "电影今年二十二定档",
-      "onboard_time": 1730790981,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201818,
       "num": 272033,
       "word": "桃花坞开放中定档",
@@ -1003,6 +1035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189714,
+      "num": 287634,
+      "word": "95花谁能第一个飞升",
+      "onboard_time": 1730787019,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187556,
+      "num": 322557,
+      "word": "永夜星河只播一集不够看",
+      "onboard_time": 1730788821,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187525,
       "num": 342090,
       "word": "赵一博抽不到ssr卡破防了",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1730727620,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180655,
-      "num": 210903,
-      "word": "慕声彩蛋是丁禹兮特意回横店拍的",
-      "onboard_time": 1730790020,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 180174,
@@ -1179,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165713,
-      "num": 322557,
-      "word": "永夜星河只播一集不够看",
-      "onboard_time": 1730788821,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163657,
       "num": 287583,
       "word": "小时光小美好换乘恋爱了",
@@ -1195,19 +1227,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160173,
-      "num": 287634,
-      "word": "95花谁能第一个飞升",
-      "onboard_time": 1730787019,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160144,
-      "num": 160144,
-      "word": "花一两万考无人机操控员月薪仅4000元",
-      "onboard_time": 1730790680,
-      "rank": 42,
+      "raw_hot": 162282,
+      "num": 162282,
+      "word": "北京香山下起银杏雨",
+      "onboard_time": 1730789960,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157270,
+      "num": 157270,
+      "word": "陈都灵并蒂双生花",
+      "onboard_time": 1730792120,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155881,
       "num": 155881,
       "word": "陈梦世界排名重返第三",
@@ -1259,27 +1291,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148480,
-      "num": 148480,
-      "word": "华为Mate70",
-      "onboard_time": 1730791101,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 146840,
       "num": 553803,
       "word": "动力电池采购价6万维修却要12万",
       "onboard_time": 1730775739,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146683,
-      "num": 146683,
-      "word": "北京香山下起银杏雨",
-      "onboard_time": 1730789960,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1507,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106031,
+      "num": 308799,
+      "word": "美国面包店因总统选举大捞一笔",
+      "onboard_time": 1730792120,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "良品铺子事件已转至区市监局处理",
@@ -1707,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29760,
+      "num": 323145,
+      "word": "美国多数选民担忧暴力及舞弊",
+      "onboard_time": 1730790382,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 28679,
       "num": 36530,
       "word": "在美华商称零元购泛滥下纽约成噩梦",
@@ -1771,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22486,
-      "num": 323145,
-      "word": "美国多数选民担忧暴力及舞弊",
-      "onboard_time": 1730790382,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 21998,
       "num": 22905,
       "word": "闫妮蒋欣好会演",
@@ -1795,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21351,
+      "num": 1112450,
+      "word": "我国新一代人造太阳有新进展",
+      "onboard_time": 1730776640,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21185,
       "num": 37794,
       "word": "10年前获10万奖学金如今她回赠110万",
@@ -1803,11 +1835,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 20288,
-      "num": 542217,
-      "word": "我国新一代人造太阳有新进展",
-      "onboard_time": 1730776640,
-      "rank": 12,
+      "raw_hot": 18895,
+      "num": 257653,
+      "word": "媒体评男子谎称是余华英儿子被拘",
+      "onboard_time": 1730791640,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1849,6 +1881,22 @@
       "onboard_time": 1730779461,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17200,
+      "num": 163230,
+      "word": "用vivoX200拍故宫里的猫",
+      "onboard_time": 1730790620,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 16081,
+      "num": 285179,
+      "word": "庄超英属于讨好型人格",
+      "onboard_time": 1730791581,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 15098,
@@ -1913,14 +1961,6 @@
       "onboard_time": 1730770818,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 7639,
-      "num": 148900,
-      "word": "用vivoX200拍故宫里的猫",
-      "onboard_time": 1730790620,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 3322,
