@@ -1,7 +1,15 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730785139380,
+  "endTime": 1730788241460,
   "band_list": [
+    {
+      "raw_hot": 6913461,
+      "num": 8163461,
+      "word": "2024美国大选选举日投票正式开始",
+      "onboard_time": 1730783841,
+      "rank": 12,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 2861984,
       "num": 2861984,
@@ -33,6 +41,14 @@
       "onboard_time": 1730769679,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1405831,
+      "num": 1405831,
+      "word": "公司宣布将暂停王承渲一切工作",
+      "onboard_time": 1730785521,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1405650,
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560479,
+      "num": 560479,
+      "word": "海马体回应考研报名被禁用",
+      "onboard_time": 1730784259,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557096,
       "num": 557096,
       "word": "正午阳光 流量",
@@ -352,6 +376,14 @@
       "word": "失笑定档",
       "onboard_time": 1730773219,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 497337,
+      "num": 497337,
+      "word": "赵露思王鹤棣内娱同桌",
+      "onboard_time": 1730785701,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -523,8 +555,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 324034,
-      "num": 324034,
+      "raw_hot": 331389,
+      "num": 331389,
       "word": "贵阳奥体中心被禁言了",
       "onboard_time": 1730783540,
       "rank": 34,
@@ -561,6 +593,14 @@
       "onboard_time": 1730777239,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313824,
+      "num": 313824,
+      "word": "林更新的狗四个月了",
+      "onboard_time": 1730785159,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 308263,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 280066,
-      "num": 341808,
+      "num": 362179,
       "word": "实际上请痛经假的人并不多",
       "onboard_time": 1730782820,
       "rank": 24,
@@ -667,12 +707,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259150,
+      "num": 493989,
+      "word": "三分钟解读美国大选乱象",
+      "onboard_time": 1730784439,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 255588,
       "num": 255588,
       "word": "薛之谦朱桢喝趴了",
       "onboard_time": 1730769859,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254963,
+      "num": 254963,
+      "word": "今日A股大爆发",
+      "onboard_time": 1730786419,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 254622,
+      "num": 254622,
+      "word": "红纸嫁衣",
+      "onboard_time": 1730784620,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 251869,
@@ -691,12 +755,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 241688,
+      "num": 241688,
+      "word": "杜兰特绝杀",
+      "onboard_time": 1730787500,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "李煜东正式加入TF四代",
       "onboard_time": 1730731522,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232701,
+      "num": 298146,
+      "word": "黄旭熙将回归",
+      "onboard_time": 1730787500,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 228831,
@@ -721,6 +801,14 @@
       "onboard_time": 1730645479,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 214211,
+      "num": 288562,
+      "word": "微博视界大会红毯",
+      "onboard_time": 1730788101,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 214109,
@@ -771,12 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205437,
+      "num": 319781,
+      "word": "林珍娜近照",
+      "onboard_time": 1730787019,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205001,
       "num": 287138,
       "word": "月光变奏曲加广告了",
       "onboard_time": 1730778440,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "成毅 茶百道",
+      "onboard_time": 1730787861,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 204825,
@@ -793,14 +897,6 @@
       "onboard_time": 1730783900,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196149,
-      "num": 196149,
-      "word": "红纸嫁衣",
-      "onboard_time": 1730784620,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 195126,
@@ -899,6 +995,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178898,
+      "num": 178898,
+      "word": "35岁单身女生的年度相亲报告",
+      "onboard_time": 1730787563,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178448,
+      "num": 178448,
+      "word": "歼35A向81192报到",
+      "onboard_time": 1730787019,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 177143,
+      "num": 177143,
+      "word": "珠帘玉幕 剧情逻辑",
+      "onboard_time": 1730785820,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175508,
       "num": 175508,
       "word": "小巷人家庄桦林自私吗",
@@ -979,12 +1099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161710,
-      "num": 527360,
-      "word": "2024美国大选选举日投票正式开始",
-      "onboard_time": 1730783841,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 163657,
+      "num": 287583,
+      "word": "小时光小美好换乘恋爱了",
+      "onboard_time": 1730787380,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 158898,
@@ -1017,14 +1137,6 @@
       "onboard_time": 1730777660,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152863,
-      "num": 492177,
-      "word": "海马体回应考研报名被禁用",
-      "onboard_time": 1730784259,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151302,
@@ -1163,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123267,
+      "num": 287200,
+      "word": "美国大选选举日首个投票点结果出炉",
+      "onboard_time": 1730786360,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 122478,
       "num": 122478,
       "word": "西北岁月开播",
@@ -1267,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98164,
+      "num": 367667,
+      "word": "官方回应海马体照片会影响身份核验",
+      "onboard_time": 1730785760,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 97826,
       "num": 97826,
       "word": "Tim 小鱼",
@@ -1297,6 +1425,14 @@
       "onboard_time": 1730727441,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86380,
+      "num": 287634,
+      "word": "95花谁能第一个飞升",
+      "onboard_time": 1730787019,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85462,
@@ -1371,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54711,
-      "num": 493989,
-      "word": "三分钟解读美国大选乱象",
-      "onboard_time": 1730784439,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 50276,
       "num": 50276,
       "word": "业主群闹事专用情头",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1730775500,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46476,
+      "num": 358164,
+      "word": "一条视频看懂美国大选钱都花在哪儿了",
+      "onboard_time": 1730786660,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 45076,
@@ -1489,6 +1625,14 @@
       "onboard_time": 1730779401,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23834,
+      "num": 322838,
+      "word": "年轻人集体涌入骨科门诊养生",
+      "onboard_time": 1730786660,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 23445,

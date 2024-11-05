@@ -1,0 +1,410 @@
+{
+  "runTime": 1730788241460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6913461,
+        "num": 8163461,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1405831,
+        "num": 1405831,
+        "word": "公司宣布将暂停王承渲一切工作",
+        "onboard_time": 1730785521,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9940,
+        "num": 838231,
+        "word": "100秒看懂进博会亮点",
+        "onboard_time": 1730777060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672770,
+        "num": 672770,
+        "word": "海马体 天真蓝",
+        "onboard_time": 1730779281,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 580064,
+        "num": 580064,
+        "word": "考研报名禁用海马体照片",
+        "onboard_time": 1730774358,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 560479,
+        "num": 560479,
+        "word": "海马体回应考研报名被禁用",
+        "onboard_time": 1730784259,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538581,
+        "num": 538581,
+        "word": "乌克兰称已同朝鲜军队发生交战",
+        "onboard_time": 1730779821,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 497337,
+        "num": 497337,
+        "word": "赵露思王鹤棣内娱同桌",
+        "onboard_time": 1730785701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369598,
+        "num": 369598,
+        "word": "歼35可能作为航母舰载机",
+        "onboard_time": 1730780721,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 98164,
+        "num": 367667,
+        "word": "官方回应海马体照片会影响身份核验",
+        "onboard_time": 1730785760,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 505113,
+        "num": 367532,
+        "word": "周雨彤 睡袋",
+        "onboard_time": 1730776819,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449313,
+        "num": 363993,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214086,
+        "num": 362179,
+        "word": "实际上请痛经假的人并不多",
+        "onboard_time": 1730782820,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405654,
+        "num": 361215,
+        "word": "店铺钉死窗户应对美国大选",
+        "onboard_time": 1730770099,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46476,
+        "num": 358164,
+        "word": "一条视频看懂美国大选钱都花在哪儿了",
+        "onboard_time": 1730786660,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 357957,
+        "num": 357957,
+        "word": "高雅CP 线下",
+        "onboard_time": 1730782642,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341999,
+        "num": 341999,
+        "word": "永夜星河开分7.5",
+        "onboard_time": 1730779135,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331389,
+        "num": 331389,
+        "word": "贵阳奥体中心被禁言了",
+        "onboard_time": 1730783540,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235830,
+        "num": 329124,
+        "word": "慕瑶 不愧是原著大女主",
+        "onboard_time": 1730781143,
+        "rank": 18,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 23834,
+        "num": 322838,
+        "word": "年轻人集体涌入骨科门诊养生",
+        "onboard_time": 1730786660,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 205437,
+        "num": 319781,
+        "word": "林珍娜近照",
+        "onboard_time": 1730787019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412865,
+        "num": 315653,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313824,
+        "num": 313824,
+        "word": "林更新的狗四个月了",
+        "onboard_time": 1730785159,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232701,
+        "num": 298146,
+        "word": "黄旭熙将回归",
+        "onboard_time": 1730787500,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214211,
+        "num": 288562,
+        "word": "微博视界大会红毯",
+        "onboard_time": 1730788101,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287800,
+        "num": 287800,
+        "word": "国内机票价格跳水",
+        "onboard_time": 1730776039,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86380,
+        "num": 287634,
+        "word": "95花谁能第一个飞升",
+        "onboard_time": 1730787019,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163657,
+        "num": 287583,
+        "word": "小时光小美好换乘恋爱了",
+        "onboard_time": 1730787380,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123267,
+        "num": 287200,
+        "word": "美国大选选举日首个投票点结果出炉",
+        "onboard_time": 1730786360,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190676,
+        "num": 287078,
+        "word": "中国空军进入双隐身战机时代",
+        "onboard_time": 1730777841,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 286982,
+        "num": 286982,
+        "word": "乌克兰朝鲜",
+        "onboard_time": 1730783241,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 270577,
+        "num": 270577,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259150,
+        "num": 259150,
+        "word": "三分钟解读美国大选乱象",
+        "onboard_time": 1730784439,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254963,
+        "num": 254963,
+        "word": "今日A股大爆发",
+        "onboard_time": 1730786419,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254622,
+        "num": 254622,
+        "word": "红纸嫁衣",
+        "onboard_time": 1730784620,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249091,
+        "num": 249091,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 241688,
+        "num": 241688,
+        "word": "杜兰特绝杀",
+        "onboard_time": 1730787500,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230845,
+        "num": 230845,
+        "word": "王楚然 金发天使",
+        "onboard_time": 1730778199,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204924,
+        "num": 204924,
+        "word": "成毅 茶百道",
+        "onboard_time": 1730787861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204618,
+        "num": 204618,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199397,
+        "num": 199397,
+        "word": "52岁智障男子被包装成蓝领背上车贷",
+        "onboard_time": 1730781861,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194535,
+        "num": 194535,
+        "word": "接虞书欣丁禹兮三搭",
+        "onboard_time": 1730769079,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187852,
+        "num": 187852,
+        "word": "媒体评郑钦文说别喊了",
+        "onboard_time": 1730782820,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182507,
+        "num": 182507,
+        "word": "小鱼回应离婚",
+        "onboard_time": 1730767340,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181696,
+        "num": 181696,
+        "word": "小巷人家豆瓣开分8.2",
+        "onboard_time": 1730782281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179784,
+        "num": 179784,
+        "word": "周也吊带黑裙",
+        "onboard_time": 1730781021,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178898,
+        "num": 178898,
+        "word": "35岁单身女生的年度相亲报告",
+        "onboard_time": 1730787563,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178448,
+        "num": 178448,
+        "word": "歼35A向81192报到",
+        "onboard_time": 1730787019,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 177234,
+        "num": 177234,
+        "word": "爱侧睡的可以今晚试试这个姿势",
+        "onboard_time": 1730776699,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177143,
+        "num": 177143,
+        "word": "珠帘玉幕 剧情逻辑",
+        "onboard_time": 1730785820,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的高水平对外开放将惠及全球#"
+    }
+  }
+}
