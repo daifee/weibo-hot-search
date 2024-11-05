@@ -1,0 +1,410 @@
+{
+  "runTime": 1730849786562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573740,
+        "num": 1573740,
+        "word": "河南女子被害前打电话喊妈妈救命",
+        "onboard_time": 1730822840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553457,
+        "num": 553457,
+        "word": "混血女儿英语倒数爸爸不淡定了",
+        "onboard_time": 1730825956,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3442,
+        "num": 548060,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546997,
+        "num": 546997,
+        "word": "撞上劳斯莱斯的货车只有100万保险",
+        "onboard_time": 1730821401,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509762,
+        "num": 509762,
+        "word": "所谓饭圈大粉不到一年骗350多万元",
+        "onboard_time": 1730841433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2103743,
+        "num": 501208,
+        "word": "哈里斯敲门拉选票最后一搏",
+        "onboard_time": 1730841491,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1509278,
+        "num": 493159,
+        "word": "美国迎来史上最势均力敌总统选举",
+        "onboard_time": 1730803282,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 241985,
+        "num": 468763,
+        "word": "永夜星河 我就说一天播一集会出事吧",
+        "onboard_time": 1730816125,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187293,
+        "num": 448995,
+        "word": "刘谦抗癌成功称已完全康复",
+        "onboard_time": 1730803582,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38500,
+        "num": 435520,
+        "word": "律师谈宝妈吃瑞士卷被疑剧本",
+        "onboard_time": 1730848578,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2553775,
+        "num": 414475,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 410319,
+        "num": 410319,
+        "word": "字节跳动103人违法违规被辞退",
+        "onboard_time": 1730823979,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397086,
+        "num": 397086,
+        "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+        "onboard_time": 1730819604,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296483,
+        "num": 296483,
+        "word": "张泉灵没预料到麦琳引发关注",
+        "onboard_time": 1730823918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295222,
+        "num": 295222,
+        "word": "美国两州率先结束大选投票",
+        "onboard_time": 1730848698,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292129,
+        "num": 292129,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275476,
+        "num": 275476,
+        "word": "美国东海岸投票站开放",
+        "onboard_time": 1730806642,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167265,
+        "num": 274579,
+        "word": "陈雪凝回应抄袭汪苏泷",
+        "onboard_time": 1730805020,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 271834,
+        "word": "王鹤棣 向佐为什么穿那么性感",
+        "onboard_time": 1730808681,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114767,
+        "num": 269525,
+        "word": "中国电影报道易烊千玺小小的我",
+        "onboard_time": 1730848879,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 763044,
+        "num": 267717,
+        "word": "2024美国大选选举日投票正式开始",
+        "onboard_time": 1730783841,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 266206,
+        "num": 266206,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255311,
+        "num": 255311,
+        "word": "范丞丞回应小巷人家演技争议",
+        "onboard_time": 1730818825,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223105,
+        "num": 223105,
+        "word": "瑞士卷",
+        "onboard_time": 1730849177,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220931,
+        "num": 220931,
+        "word": "警方通报网传柳州女子喝醉被强暴",
+        "onboard_time": 1730818704,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197303,
+        "num": 197303,
+        "word": "海马体称若因照片不能报考可退款",
+        "onboard_time": 1730847858,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194547,
+        "num": 194547,
+        "word": "忽然明白少年夫妻老来伴的含义",
+        "onboard_time": 1730810421,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176812,
+        "num": 176812,
+        "word": "我国县级博物馆卧虎藏龙",
+        "onboard_time": 1730844312,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113030,
+        "num": 169209,
+        "word": "权志龙说不要再少人了",
+        "onboard_time": 1730814862,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94488,
+        "num": 168538,
+        "word": "杨紫进组家业剧本围读",
+        "onboard_time": 1730813843,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347403,
+        "num": 168451,
+        "word": "加拿大偶遇姚笛",
+        "onboard_time": 1730849118,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 168289,
+        "word": "近半价卖掉400万房子反悔需赔40万",
+        "onboard_time": 1730810662,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158765,
+        "num": 158765,
+        "word": "分个瑞士卷也要全网讨论吗",
+        "onboard_time": 1730844433,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154111,
+        "num": 154111,
+        "word": "11岁男孩发烧心脏停跳52小时",
+        "onboard_time": 1730813304,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91390,
+        "num": 142923,
+        "word": "杨紫家业围读剧本",
+        "onboard_time": 1730849599,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134346,
+        "num": 134346,
+        "word": "母女起争执女儿怒砸太古里一专卖店",
+        "onboard_time": 1730812884,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124053,
+        "num": 124053,
+        "word": "甘肃天水事业单位招考被质疑设萝卜岗",
+        "onboard_time": 1730811681,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118860,
+        "num": 118860,
+        "word": "行贿者一次性送150瓶五粮液",
+        "onboard_time": 1730830632,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114784,
+        "num": 114784,
+        "word": "欧冠",
+        "onboard_time": 1730848937,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109333,
+        "num": 109333,
+        "word": "葡萄牙体育4比1曼城",
+        "onboard_time": 1730848818,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108619,
+        "num": 108619,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1730849118,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105140,
+        "num": 105140,
+        "word": "故宫银杏叶已满目金黄",
+        "onboard_time": 1730846715,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102440,
+        "num": 102440,
+        "word": "皇马1比3AC米兰",
+        "onboard_time": 1730849058,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102195,
+        "num": 102195,
+        "word": "柳州女子喝醉被强暴为不实信息",
+        "onboard_time": 1730821221,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98371,
+        "num": 98371,
+        "word": "当消除编制带来的溢价",
+        "onboard_time": 1730819543,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92521,
+        "num": 92521,
+        "word": "哈里斯特朗普竞选主张大pk",
+        "onboard_time": 1730806160,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78429,
+        "num": 89291,
+        "word": "王鹤棣田曦薇牵手走秀",
+        "onboard_time": 1730811441,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87991,
+        "num": 87991,
+        "word": "西安二次碾压事故造成一死一重伤",
+        "onboard_time": 1730849660,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83655,
+        "num": 83655,
+        "word": "向佐郭碧婷 再见爱人",
+        "onboard_time": 1730801362,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59688,
+        "num": 83408,
+        "word": "藏海传年度期待作品",
+        "onboard_time": 1730848217,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察空降兵军#"
+    }
+  }
+}
