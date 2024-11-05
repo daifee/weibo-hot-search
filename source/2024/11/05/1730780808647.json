@@ -1,0 +1,410 @@
+{
+  "runTime": 1730780808647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1914649,
+        "num": 1914649,
+        "word": "考研报名禁用海马体照片",
+        "onboard_time": 1730774358,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1288530,
+        "num": 1288530,
+        "word": "国内机票价格跳水",
+        "onboard_time": 1730776039,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26307,
+        "num": 940641,
+        "word": "100秒看懂进博会亮点",
+        "onboard_time": 1730777060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940137,
+        "num": 940137,
+        "word": "海马体",
+        "onboard_time": 1730776039,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 862100,
+        "num": 862100,
+        "word": "乌克兰称已同朝鲜军队发生交战",
+        "onboard_time": 1730779821,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 976601,
+        "num": 820588,
+        "word": "世界关注美国大选今日投票",
+        "onboard_time": 1730764339,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 750120,
+        "num": 750120,
+        "word": "永夜星河开分7.5",
+        "onboard_time": 1730779135,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679789,
+        "num": 679789,
+        "word": "瑞士卷 消费降级",
+        "onboard_time": 1730771658,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490549,
+        "num": 672094,
+        "word": "手指吻",
+        "onboard_time": 1730774178,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42879,
+        "num": 659779,
+        "word": "野猪肇事频发什么原因",
+        "onboard_time": 1730779401,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032088,
+        "num": 643947,
+        "word": "周雨彤 睡袋",
+        "onboard_time": 1730776819,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714912,
+        "num": 618873,
+        "word": "店铺钉死窗户应对美国大选",
+        "onboard_time": 1730770099,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 618263,
+        "num": 618263,
+        "word": "歼35A将公开亮相",
+        "onboard_time": 1730770520,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 514677,
+        "num": 514677,
+        "word": "王楚然 金发天使",
+        "onboard_time": 1730778199,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23945,
+        "num": 507066,
+        "word": "虚构销售原因直播卖货构成消费欺诈",
+        "onboard_time": 1730779401,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505740,
+        "num": 505740,
+        "word": "歼35A官方照片",
+        "onboard_time": 1730774298,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 98775,
+        "num": 503459,
+        "word": "Tim与小鱼无商业关联",
+        "onboard_time": 1730778623,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189172,
+        "num": 503005,
+        "word": "宋佳 女伯爵",
+        "onboard_time": 1730779582,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620208,
+        "num": 498780,
+        "word": "小鱼回应离婚",
+        "onboard_time": 1730767340,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17503,
+        "num": 497666,
+        "word": "自恋和人格障碍之间差几个杨子",
+        "onboard_time": 1730779461,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690980,
+        "num": 495809,
+        "word": "能考上二本已经很厉害了",
+        "onboard_time": 1730763378,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493456,
+        "num": 493456,
+        "word": "人民空军官宣",
+        "onboard_time": 1730777841,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427190,
+        "num": 427190,
+        "word": "工作人员迟到致下火车旅客无法出站",
+        "onboard_time": 1730767340,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422920,
+        "num": 422920,
+        "word": "林诗栋喊孙颖莎留蛋糕",
+        "onboard_time": 1730775440,
+        "rank": 23,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 393710,
+        "num": 393710,
+        "word": "海马体 天真蓝",
+        "onboard_time": 1730779281,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 390089,
+        "num": 390089,
+        "word": "心动的信号7",
+        "onboard_time": 1730779940,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370372,
+        "num": 370372,
+        "word": "接虞书欣丁禹兮三搭",
+        "onboard_time": 1730769079,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354558,
+        "num": 354558,
+        "word": "爱侧睡的可以今晚试试这个姿势",
+        "onboard_time": 1730776699,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325989,
+        "num": 348600,
+        "word": "正午阳光 流量",
+        "onboard_time": 1730769439,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210095,
+        "num": 343812,
+        "word": "失笑定档",
+        "onboard_time": 1730773219,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26821,
+        "num": 343392,
+        "word": "危机关头你相信智驾吗",
+        "onboard_time": 1730777900,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 343376,
+        "num": 343376,
+        "word": "瑞士卷怎么分别成为第二个秦朗丢作业",
+        "onboard_time": 1730764220,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342057,
+        "num": 342057,
+        "word": "中国空军进入双隐身战机时代",
+        "onboard_time": 1730777841,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 339289,
+        "num": 339289,
+        "word": "Doinb和LWX红温互怼",
+        "onboard_time": 1730779222,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330899,
+        "num": 330899,
+        "word": "G2再次邀请Uzi加入",
+        "onboard_time": 1730774719,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297388,
+        "num": 297388,
+        "word": "闪耀暖暖",
+        "onboard_time": 1730779160,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283026,
+        "num": 283026,
+        "word": "女子网购猕猴桃放20天皮皱了也没熟",
+        "onboard_time": 1730777239,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282540,
+        "num": 282540,
+        "word": "湖南夫妻理发店因听劝爆火",
+        "onboard_time": 1730774481,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242178,
+        "num": 242178,
+        "word": "Tim能不能上再见爱人",
+        "onboard_time": 1730780060,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220411,
+        "num": 220411,
+        "word": "老人强闯流浪动物救助基地杀狗伤人",
+        "onboard_time": 1730777841,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220317,
+        "num": 220317,
+        "word": "美国大选即将开始记者探访摇摆州",
+        "onboard_time": 1730773999,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218990,
+        "num": 218990,
+        "word": "特朗普抱怨奥巴马给他留下烂摊子",
+        "onboard_time": 1730735300,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215646,
+        "num": 215646,
+        "word": "影视飓风Tim离婚",
+        "onboard_time": 1730763257,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181048,
+        "num": 205589,
+        "word": "窦骁中国杯帆船赛夺冠",
+        "onboard_time": 1730772439,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 197033,
+        "num": 197033,
+        "word": "美国大选",
+        "onboard_time": 1730645479,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193167,
+        "num": 193167,
+        "word": "月光变奏曲加广告了",
+        "onboard_time": 1730778440,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180120,
+        "num": 180120,
+        "word": "微博视界大会出席嘉宾",
+        "onboard_time": 1730779342,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179522,
+        "num": 179522,
+        "word": "歼35可能作为航母舰载机",
+        "onboard_time": 1730780721,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 169491,
+        "num": 169491,
+        "word": "南京南站通报儿童掉入股道",
+        "onboard_time": 1730767400,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158898,
+        "num": 158898,
+        "word": "林诗栋蒯曼混双世界第二",
+        "onboard_time": 1730779041,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的高水平对外开放将惠及全球#"
+    }
+  }
+}

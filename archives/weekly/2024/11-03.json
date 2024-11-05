@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730778054176,
+  "endTime": 1730780808647,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1288530,
+      "num": 1288530,
+      "word": "国内机票价格跳水",
+      "onboard_time": 1730776039,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285632,
       "num": 1285632,
       "word": "Faker LPL无法逾越的大山",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1115665,
-      "num": 454609,
+      "num": 643947,
       "word": "周雨彤 睡袋",
       "onboard_time": 1730776819,
       "rank": 26,
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 940137,
+      "num": 940137,
+      "word": "海马体",
+      "onboard_time": 1730776039,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 940131,
       "num": 413971,
       "word": "摇人",
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 874892,
-      "num": 386927,
+      "num": 495809,
       "word": "能考上二本已经很厉害了",
       "onboard_time": 1730763378,
       "rank": 20,
@@ -817,6 +833,14 @@
       "onboard_time": 1730699180,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 862100,
+      "num": 862100,
+      "word": "乌克兰称已同朝鲜军队发生交战",
+      "onboard_time": 1730779821,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 850896,
@@ -971,20 +995,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 750120,
+      "num": 750120,
+      "word": "永夜星河开分7.5",
+      "onboard_time": 1730779135,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 734419,
       "num": 734419,
       "word": "迪丽热巴掏出睫毛夹笑飞了",
       "onboard_time": 1730604320,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 731090,
-      "num": 731090,
-      "word": "国内机票价格跳水",
-      "onboard_time": 1730776039,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 731033,
@@ -1643,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514677,
+      "num": 514677,
+      "word": "王楚然 金发天使",
+      "onboard_time": 1730778199,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513037,
       "num": 513037,
       "word": "小伙想花30元理发结果花了2万多",
@@ -1672,6 +1704,14 @@
       "word": "女子领了一个赠品被骗4万元",
       "onboard_time": 1730592677,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493456,
+      "num": 493456,
+      "word": "人民空军官宣",
+      "onboard_time": 1730777841,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 393710,
+      "num": 393710,
+      "word": "海马体 天真蓝",
+      "onboard_time": 1730779281,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 390838,
       "num": 390838,
       "word": "乔任梁",
@@ -2107,12 +2155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389857,
-      "num": 389857,
-      "word": "海马体",
-      "onboard_time": 1730776039,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 390089,
+      "num": 390089,
+      "word": "心动的信号7",
+      "onboard_time": 1730779940,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 389301,
@@ -2235,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354558,
+      "num": 354558,
+      "word": "爱侧睡的可以今晚试试这个姿势",
+      "onboard_time": 1730776699,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353318,
       "num": 311307,
       "word": "Uzi谈不复出原因",
@@ -2299,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342057,
+      "num": 342057,
+      "word": "中国空军进入双隐身战机时代",
+      "onboard_time": 1730777841,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 341116,
       "num": 370379,
       "word": "永夜星河珠帘玉幕昨日云合",
@@ -2313,6 +2377,14 @@
       "onboard_time": 1730694142,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339289,
+      "num": 339289,
+      "word": "Doinb和LWX红温互怼",
+      "onboard_time": 1730779222,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 335896,
@@ -2491,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297388,
+      "num": 297388,
+      "word": "闪耀暖暖",
+      "onboard_time": 1730779160,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296581,
       "num": 296581,
       "word": "王楚钦奥运肩伤内幕曝光",
@@ -2513,14 +2593,6 @@
       "onboard_time": 1730643201,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 291710,
-      "num": 291710,
-      "word": "爱侧睡的可以今晚试试这个姿势",
-      "onboard_time": 1730776699,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 290182,
@@ -2603,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283026,
+      "num": 283026,
+      "word": "女子网购猕猴桃放20天皮皱了也没熟",
+      "onboard_time": 1730777239,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280492,
       "num": 280492,
       "word": "TES",
@@ -2617,14 +2697,6 @@
       "onboard_time": 1730704337,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279760,
-      "num": 456093,
-      "word": "人民空军官宣",
-      "onboard_time": 1730777841,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278417,
@@ -2939,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242178,
+      "num": 242178,
+      "word": "Tim能不能上再见爱人",
+      "onboard_time": 1730780060,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 241763,
       "num": 241763,
       "word": "白桃星座",
@@ -3169,6 +3249,14 @@
       "onboard_time": 1730600177,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220411,
+      "num": 220411,
+      "word": "老人强闯流浪动物救助基地杀狗伤人",
+      "onboard_time": 1730777841,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219648,
@@ -3771,14 +3859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196091,
-      "num": 196091,
-      "word": "中国空军进入双隐身战机时代",
-      "onboard_time": 1730777841,
-      "rank": 34,
-      "category": "军事"
-    },
-    {
       "raw_hot": 195918,
       "num": 195918,
       "word": "Knight单杀Faker",
@@ -3875,6 +3955,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 193167,
+      "num": 193167,
+      "word": "月光变奏曲加广告了",
+      "onboard_time": 1730778440,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192888,
       "num": 192888,
       "word": "迪丽热巴的保暖look",
@@ -3963,6 +4051,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 189172,
+      "num": 503005,
+      "word": "宋佳 女伯爵",
+      "onboard_time": 1730779582,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188867,
       "num": 188867,
       "word": "严浩翔 切勿掉入诈骗陷阱",
@@ -3979,28 +4075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187771,
-      "num": 187771,
-      "word": "女子网购猕猴桃放20天皮皱了也没熟",
-      "onboard_time": 1730777239,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "羊绒衫为啥这么贵",
       "onboard_time": 1730644579,
       "rank": 32,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 187200,
-      "num": 187200,
-      "word": "老人强闯流浪动物救助基地杀狗伤人",
-      "onboard_time": 1730777841,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186388,
@@ -4123,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180120,
+      "num": 180120,
+      "word": "微博视界大会出席嘉宾",
+      "onboard_time": 1730779342,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179855,
       "num": 179855,
       "word": "易烊千玺翻领外套",
@@ -4153,6 +4241,14 @@
       "onboard_time": 1730763257,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179522,
+      "num": 179522,
+      "word": "歼35可能作为航母舰载机",
+      "onboard_time": 1730780721,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 179370,
@@ -4769,6 +4865,14 @@
       "onboard_time": 1730715620,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158898,
+      "num": 158898,
+      "word": "林诗栋蒯曼混双世界第二",
+      "onboard_time": 1730779041,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 158878,
@@ -6067,6 +6171,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 98775,
+      "num": 503459,
+      "word": "Tim与小鱼无商业关联",
+      "onboard_time": 1730778623,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 98445,
       "num": 112505,
       "word": "郑钦文总决赛出线形势分析",
@@ -6707,6 +6819,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 42879,
+      "num": 659779,
+      "word": "野猪肇事频发什么原因",
+      "onboard_time": 1730779401,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42854,
       "num": 148543,
       "word": "煤气爆燃烧伤妈妈手指可以动了",
@@ -6884,7 +7004,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 687494,
+      "num": 940641,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -7075,20 +7195,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 26821,
+      "num": 343392,
+      "word": "危机关头你相信智驾吗",
+      "onboard_time": 1730777900,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26456,
       "num": 77833,
       "word": "这波夜骑大学生开封出招接住了",
       "onboard_time": 1730653575,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25872,
-      "num": 183451,
-      "word": "危机关头你相信智驾吗",
-      "onboard_time": 1730777900,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 25838,
@@ -7169,6 +7289,14 @@
       "onboard_time": 1730617220,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23945,
+      "num": 507066,
+      "word": "虚构销售原因直播卖货构成消费欺诈",
+      "onboard_time": 1730779401,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23445,
@@ -7457,6 +7585,14 @@
       "onboard_time": 1730569816,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17503,
+      "num": 497666,
+      "word": "自恋和人格障碍之间差几个杨子",
+      "onboard_time": 1730779461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 17475,

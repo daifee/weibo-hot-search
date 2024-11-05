@@ -1,6 +1,6 @@
 {
   "startTime": 1730737678862,
-  "endTime": 1730778054176,
+  "endTime": 1730780808647,
   "band_list": [
     {
       "raw_hot": 2861984,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1288530,
+      "num": 1288530,
+      "word": "国内机票价格跳水",
+      "onboard_time": 1730776039,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1209270,
       "num": 349928,
       "word": "别掉进8个瑞士卷怎么分的话题陷阱",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1115665,
-      "num": 454609,
+      "num": 643947,
       "word": "周雨彤 睡袋",
       "onboard_time": 1730776819,
       "rank": 26,
@@ -107,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 940137,
+      "num": 940137,
+      "word": "海马体",
+      "onboard_time": 1730776039,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 938887,
       "num": 938887,
       "word": "瑞士卷怎么分别成为第二个秦朗丢作业",
@@ -124,11 +140,19 @@
     },
     {
       "raw_hot": 874892,
-      "num": 386927,
+      "num": 495809,
       "word": "能考上二本已经很厉害了",
       "onboard_time": 1730763378,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 862100,
+      "num": 862100,
+      "word": "乌克兰称已同朝鲜军队发生交战",
+      "onboard_time": 1730779821,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 779473,
@@ -147,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 750120,
+      "num": 750120,
+      "word": "永夜星河开分7.5",
+      "onboard_time": 1730779135,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742606,
       "num": 638145,
       "word": "美国大选5任总统大乱斗",
@@ -161,14 +193,6 @@
       "onboard_time": 1730725461,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 731090,
-      "num": 731090,
-      "word": "国内机票价格跳水",
-      "onboard_time": 1730776039,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677482,
@@ -275,12 +299,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 514677,
+      "num": 514677,
+      "word": "王楚然 金发天使",
+      "onboard_time": 1730778199,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507191,
       "num": 507191,
       "word": "失笑定档",
       "onboard_time": 1730773219,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493456,
+      "num": 493456,
+      "word": "人民空军官宣",
+      "onboard_time": 1730777841,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486174,
@@ -331,12 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 389857,
-      "num": 389857,
-      "word": "海马体",
-      "onboard_time": 1730776039,
-      "rank": 30,
+      "raw_hot": 393710,
+      "num": 393710,
+      "word": "海马体 天真蓝",
+      "onboard_time": 1730779281,
+      "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 390089,
+      "num": 390089,
+      "word": "心动的信号7",
+      "onboard_time": 1730779940,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 389301,
@@ -371,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354558,
+      "num": 354558,
+      "word": "爱侧睡的可以今晚试试这个姿势",
+      "onboard_time": 1730776699,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 350561,
       "num": 362903,
       "word": "肖战旅游路透",
@@ -387,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342057,
+      "num": 342057,
+      "word": "中国空军进入双隐身战机时代",
+      "onboard_time": 1730777841,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 341116,
       "num": 370379,
       "word": "永夜星河珠帘玉幕昨日云合",
       "onboard_time": 1730762116,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339289,
+      "num": 339289,
+      "word": "Doinb和LWX红温互怼",
+      "onboard_time": 1730779222,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 335560,
@@ -443,20 +515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297388,
+      "num": 297388,
+      "word": "闪耀暖暖",
+      "onboard_time": 1730779160,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "当地回应班主任在家长群催缴医保",
       "onboard_time": 1730741294,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291710,
-      "num": 291710,
-      "word": "爱侧睡的可以今晚试试这个姿势",
-      "onboard_time": 1730776699,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 289017,
@@ -475,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283026,
+      "num": 283026,
+      "word": "女子网购猕猴桃放20天皮皱了也没熟",
+      "onboard_time": 1730777239,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280100,
       "num": 280100,
       "word": "永夜星河",
       "onboard_time": 1730715199,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279760,
-      "num": 456093,
-      "word": "人民空军官宣",
-      "onboard_time": 1730777841,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276679,
@@ -531,6 +603,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 242178,
+      "num": 242178,
+      "word": "Tim能不能上再见爱人",
+      "onboard_time": 1730780060,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "李煜东正式加入TF四代",
@@ -545,6 +625,14 @@
       "onboard_time": 1730776760,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220411,
+      "num": 220411,
+      "word": "老人强闯流浪动物救助基地杀狗伤人",
+      "onboard_time": 1730777841,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214109,
@@ -587,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196091,
-      "num": 196091,
-      "word": "中国空军进入双隐身战机时代",
-      "onboard_time": 1730777841,
-      "rank": 34,
-      "category": "军事"
+      "raw_hot": 197033,
+      "num": 197033,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195126,
@@ -600,6 +688,14 @@
       "word": "小巷人家 苏州",
       "onboard_time": 1730760315,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193167,
+      "num": 193167,
+      "word": "月光变奏曲加广告了",
+      "onboard_time": 1730778440,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -619,20 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187771,
-      "num": 187771,
-      "word": "女子网购猕猴桃放20天皮皱了也没熟",
-      "onboard_time": 1730777239,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187200,
-      "num": 187200,
-      "word": "老人强闯流浪动物救助基地杀狗伤人",
-      "onboard_time": 1730777841,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 189172,
+      "num": 503005,
+      "word": "宋佳 女伯爵",
+      "onboard_time": 1730779582,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 183895,
@@ -641,14 +729,6 @@
       "onboard_time": 1730724619,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181383,
-      "num": 181383,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 181054,
@@ -667,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180120,
+      "num": 180120,
+      "word": "微博视界大会出席嘉宾",
+      "onboard_time": 1730779342,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179683,
       "num": 179683,
       "word": "常德火车站回应出站门被锁旅客被困",
@@ -681,6 +769,14 @@
       "onboard_time": 1730763257,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179522,
+      "num": 179522,
+      "word": "歼35可能作为航母舰载机",
+      "onboard_time": 1730780721,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 175508,
@@ -736,6 +832,14 @@
       "word": "郑钦文世界排名升至第六",
       "onboard_time": 1730768060,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158898,
+      "num": 158898,
+      "word": "林诗栋蒯曼混双世界第二",
+      "onboard_time": 1730779041,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -995,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98775,
+      "num": 503459,
+      "word": "Tim与小鱼无商业关联",
+      "onboard_time": 1730778623,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 97826,
       "num": 97826,
       "word": "Tim 小鱼",
@@ -1131,6 +1243,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 42879,
+      "num": 659779,
+      "word": "野猪肇事频发什么原因",
+      "onboard_time": 1730779401,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40082,
       "num": 534646,
       "word": "摇摆州对美国大选为何如此重要",
@@ -1156,7 +1276,7 @@
     },
     {
       "raw_hot": 35466,
-      "num": 687494,
+      "num": 940641,
       "word": "100秒看懂进博会亮点",
       "onboard_time": 1730777060,
       "rank": 2,
@@ -1171,8 +1291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25872,
-      "num": 183451,
+      "raw_hot": 26821,
+      "num": 343392,
       "word": "危机关头你相信智驾吗",
       "onboard_time": 1730777900,
       "rank": 39,
@@ -1185,6 +1305,14 @@
       "onboard_time": 1730753651,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23945,
+      "num": 507066,
+      "word": "虚构销售原因直播卖货构成消费欺诈",
+      "onboard_time": 1730779401,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23445,
@@ -1257,6 +1385,14 @@
       "onboard_time": 1730751911,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17503,
+      "num": 497666,
+      "word": "自恋和人格障碍之间差几个杨子",
+      "onboard_time": 1730779461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 15098,
