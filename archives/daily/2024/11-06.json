@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730838226506,
+  "endTime": 1730839036544,
   "band_list": [
     {
       "raw_hot": 5628913,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 37536,
-      "num": 27356,
+      "num": 30567,
       "word": "虞书欣赵露思 干票大的引爆视界大会",
       "onboard_time": 1730803701,
       "rank": 25,
@@ -489,6 +489,14 @@
       "onboard_time": 1730827695,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30562,
+      "num": 30562,
+      "word": "媒体评瑞士卷事件",
+      "onboard_time": 1730837412,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29453,
@@ -547,12 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13708,
-      "num": 28863,
-      "word": "媒体评瑞士卷事件",
-      "onboard_time": 1730837412,
-      "rank": 20,
+      "raw_hot": 13511,
+      "num": 30697,
+      "word": "厨房爆炸丈夫救妻去世儿子发声",
+      "onboard_time": 1730838861,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12821,
+      "num": 16787,
+      "word": "人民空军75周年",
+      "onboard_time": 1730838800,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12666,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/06 00:28:43 ~ 2024/11/06 04:23:46
+本榜单时间：2024/11/06 00:28:43 ~ 2024/11/06 04:37:16
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%91%9E%E5%A3%AB%E5%8D%B7%E4%BA%8B%E4%BB%B6%23" target="weibo">
+媒体评瑞士卷事件（热度：30562）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
 微博视界大会（热度：29453）
 </a>
@@ -423,8 +429,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%91%9E%E5%A3%AB%E5%8D%B7%E4%BA%8B%E4%BB%B6%23" target="weibo">
-媒体评瑞士卷事件（热度：13708）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A8%E6%88%BF%E7%88%86%E7%82%B8%E4%B8%88%E5%A4%AB%E6%95%91%E5%A6%BB%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+厨房爆炸丈夫救妻去世儿子发声（热度：13511）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B75%E5%91%A8%E5%B9%B4%23" target="weibo">
+人民空军75周年（热度：12821）
 </a>
 </li>
 
