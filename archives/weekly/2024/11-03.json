@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730861432061,
+  "endTime": 1730861963586,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 858293,
+      "num": 490242,
+      "word": "特朗普赢得佛州全部选举人票",
+      "onboard_time": 1730858122,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 858191,
       "num": 773554,
       "word": "陈雪凝回应抄袭汪苏泷",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1730597358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783701,
+      "num": 484704,
+      "word": "美32个州和华盛顿特区结束大选投票",
+      "onboard_time": 1730859201,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 779317,
@@ -1955,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582236,
-      "num": 360743,
-      "word": "特朗普赢得佛州全部选举人票",
-      "onboard_time": 1730858122,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 579623,
       "num": 579623,
       "word": "甘肃天水事业单位招考被质疑设萝卜岗",
@@ -2283,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506001,
+      "num": 506001,
+      "word": "先交20万元再实习1年就能转正吗",
+      "onboard_time": 1730858962,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504081,
       "num": 504081,
       "word": "美国威斯康星州一地将重新计票",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1730779940,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487484,
+      "num": 503624,
+      "word": "玉溪 圣猴",
+      "onboard_time": 1730856443,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 486174,
@@ -2425,14 +2449,6 @@
       "onboard_time": 1730705359,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473509,
-      "num": 473509,
-      "word": "玉溪 圣猴",
-      "onboard_time": 1730856443,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 472387,
@@ -2651,6 +2667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 427372,
+      "num": 500709,
+      "word": "何炅逐句为吴昕分析主持问题",
+      "onboard_time": 1730857700,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426727,
       "num": 357793,
       "word": "林一为虞书欣永夜星河打call",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1730630658,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 425634,
+      "num": 425634,
+      "word": "只有师范生才知道她有多强",
+      "onboard_time": 1730858661,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 420744,
@@ -2697,14 +2729,6 @@
       "onboard_time": 1730630899,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417715,
-      "num": 417715,
-      "word": "何炅逐句为吴昕分析主持问题",
-      "onboard_time": 1730857700,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 417135,
@@ -2843,14 +2867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390101,
-      "num": 302943,
-      "word": "美32个州和华盛顿特区结束大选投票",
-      "onboard_time": 1730859201,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 389301,
       "num": 317574,
       "word": "周雨彤真诚的对不起",
@@ -2937,14 +2953,6 @@
       "onboard_time": 1730661311,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372782,
-      "num": 274886,
-      "word": "只有师范生才知道她有多强",
-      "onboard_time": 1730858661,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 372306,
@@ -3144,6 +3152,14 @@
       "word": "永夜星河珠帘玉幕昨日云合",
       "onboard_time": 1730762116,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 341023,
+      "num": 428068,
+      "word": "黑粉攻略手册",
+      "onboard_time": 1730859141,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -3372,7 +3388,7 @@
     },
     {
       "raw_hot": 316029,
-      "num": 272332,
+      "num": 287816,
       "word": "发型师晓华否认自己技术好",
       "onboard_time": 1730858540,
       "rank": 23,
@@ -3475,14 +3491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300192,
-      "num": 300192,
-      "word": "先交20万元再实习1年就能转正吗",
-      "onboard_time": 1730858962,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299831,
       "num": 299831,
       "word": "媒体评郑钦文说别喊了",
@@ -3499,20 +3507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297429,
-      "num": 264651,
-      "word": "黑粉攻略手册",
-      "onboard_time": 1730859141,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297388,
       "num": 297388,
       "word": "闪耀暖暖",
       "onboard_time": 1730779160,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297139,
+      "num": 297139,
+      "word": "Uzi回应G2邀请",
+      "onboard_time": 1730861481,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 296581,
@@ -3760,6 +3768,14 @@
       "word": "52岁智障男子被包装成蓝领背上车贷",
       "onboard_time": 1730781861,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270988,
+      "num": 270988,
+      "word": "网红夫妇被传患病多家饭店砸餐具",
+      "onboard_time": 1730860221,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4819,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205384,
+      "num": 205384,
+      "word": "杨紫何惟芳生辰海报",
+      "onboard_time": 1730861181,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205383,
       "num": 205383,
       "word": "阿里全球数学赛获奖者2人来自中学",
@@ -5219,14 +5243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195381,
-      "num": 195381,
-      "word": "网红夫妇被传患病多家饭店砸餐具",
-      "onboard_time": 1730860221,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195126,
       "num": 286330,
       "word": "小巷人家 苏州",
@@ -5595,14 +5611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184026,
-      "num": 184026,
-      "word": "杨紫何惟芳生辰海报",
-      "onboard_time": 1730861181,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183090,
       "num": 183090,
       "word": "郭艾伦领取冠军戒指",
@@ -5881,6 +5889,14 @@
       "onboard_time": 1730816663,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175007,
+      "num": 175007,
+      "word": "鲜橙脆皮五花肉",
+      "onboard_time": 1730860461,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 174781,
@@ -7123,6 +7139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141025,
+      "num": 271607,
+      "word": "永夜星河何首乌对骂板蓝根",
+      "onboard_time": 1730858060,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140373,
       "num": 111010,
       "word": "虞书欣的发布会look",
@@ -7177,14 +7201,6 @@
       "onboard_time": 1730610439,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139605,
-      "num": 139605,
-      "word": "鲜橙脆皮五花肉",
-      "onboard_time": 1730860461,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 139249,
@@ -7249,14 +7265,6 @@
       "onboard_time": 1730644521,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137051,
-      "num": 193233,
-      "word": "永夜星河何首乌对骂板蓝根",
-      "onboard_time": 1730858060,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 136730,
@@ -7963,6 +7971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116564,
+      "num": 116564,
+      "word": "原来更年期这么难受",
+      "onboard_time": 1730860520,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116258,
       "num": 388748,
       "word": "这届美国大选到底有多乱",
@@ -7977,14 +7993,6 @@
       "onboard_time": 1730773338,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115624,
-      "num": 115624,
-      "word": "原来更年期这么难受",
-      "onboard_time": 1730860520,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115018,
@@ -8193,6 +8201,14 @@
       "onboard_time": 1730803162,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106605,
+      "num": 484945,
+      "word": "特朗普暂时领先哈里斯",
+      "onboard_time": 1730861601,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 106575,
@@ -8739,6 +8755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67043,
+      "num": 425749,
+      "word": "美国三摇摆州收到炸弹威胁",
+      "onboard_time": 1730860940,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 66921,
       "num": 222093,
       "word": "T1运营",
@@ -9169,6 +9193,14 @@
       "onboard_time": 1730611099,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42287,
+      "num": 499687,
+      "word": "小学生用栓字造词竟写出栓Q",
+      "onboard_time": 1730861842,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41884,
@@ -9825,14 +9857,6 @@
       "onboard_time": 1730834532,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22943,
-      "num": 289770,
-      "word": "美国三摇摆州收到炸弹威胁",
-      "onboard_time": 1730860940,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22694,
