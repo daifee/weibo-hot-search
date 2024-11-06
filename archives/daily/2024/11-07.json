@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730911400714,
+  "endTime": 1730913588774,
   "band_list": [
     {
       "raw_hot": 1286393,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569008,
+      "num": 569008,
+      "word": "官方回应4名年轻公职人员遇车祸身亡",
+      "onboard_time": 1730908641,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412527,
       "num": 412527,
       "word": "苹果喊话iPhone13和14钉子户",
@@ -131,14 +139,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 259118,
-      "num": 259118,
-      "word": "官方回应4名年轻公职人员遇车祸身亡",
-      "onboard_time": 1730908641,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "李现连续七年为杨紫庆生",
@@ -187,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192964,
+      "num": 192964,
+      "word": "郝蕾回应演员能不能直播带货",
+      "onboard_time": 1730909899,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185990,
       "num": 185990,
       "word": "特朗普夸马斯克是超级天才",
       "onboard_time": 1730895320,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 172665,
-      "num": 176460,
-      "word": "郝蕾回应演员能不能直播带货",
-      "onboard_time": 1730909899,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 170636,
@@ -241,6 +241,22 @@
       "onboard_time": 1730891901,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136601,
+      "num": 412482,
+      "word": "中国外交部对特朗普当选总统表示祝贺",
+      "onboard_time": 1730910139,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135363,
+      "num": 135363,
+      "word": "雇主坐牢失联月嫂抚养女婴3年",
+      "onboard_time": 1730909779,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132696,
@@ -315,14 +331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109606,
-      "num": 109606,
-      "word": "雇主坐牢失联月嫂抚养女婴3年",
-      "onboard_time": 1730909779,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104569,
       "num": 104569,
       "word": "美国大选",
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77414,
+      "num": 77414,
+      "word": "想看宋莹",
+      "onboard_time": 1730912414,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74260,
       "num": 81805,
       "word": "王楚钦vs卡尔伯格",
@@ -403,11 +419,27 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 55570,
-      "num": 412482,
-      "word": "中国外交部对特朗普当选总统表示祝贺",
-      "onboard_time": 1730910139,
-      "rank": 8,
+      "raw_hot": 43064,
+      "num": 52759,
+      "word": "深耕自己专注的人自会发光",
+      "onboard_time": 1730913134,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 42209,
+      "num": 52754,
+      "word": "郑钦文小组第二出线",
+      "onboard_time": 1730913555,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38604,
+      "num": 97285,
+      "word": "初中生被收手机欲跳楼老师一把拉回",
+      "onboard_time": 1730913494,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
