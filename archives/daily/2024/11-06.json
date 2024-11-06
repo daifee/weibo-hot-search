@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730881752731,
+  "endTime": 1730882565900,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -19,8 +19,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 30976920,
-      "num": 32147579,
+      "raw_hot": 33365790,
+      "num": 33954069,
       "word": "特朗普正式宣布获胜",
       "onboard_time": 1730879370,
       "rank": 0,
@@ -99,6 +99,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2741732,
+      "num": 2741732,
+      "word": "外交部回应美国大选结果",
+      "onboard_time": 1730878833,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2520384,
       "num": 490242,
       "word": "特朗普赢得佛州全部选举人票",
@@ -107,16 +115,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2497741,
-      "num": 2497741,
-      "word": "外交部回应美国大选结果",
-      "onboard_time": 1730878833,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 2345722,
-      "num": 638613,
+      "num": 655671,
       "word": "泽连斯基",
       "onboard_time": 1730878233,
       "rank": 34,
@@ -145,6 +145,22 @@
       "onboard_time": 1730865624,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1703735,
+      "num": 1703735,
+      "word": "永夜星河直播",
+      "onboard_time": 1730881706,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1682012,
+      "num": 628971,
+      "word": "哈里斯未承认败选",
+      "onboard_time": 1730882425,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1669614,
@@ -179,12 +195,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1409270,
-      "num": 1409270,
-      "word": "永夜星河直播",
-      "onboard_time": 1730881706,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 1449924,
+      "num": 634758,
+      "word": "陈好 恶意剪辑",
+      "onboard_time": 1730880209,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1354924,
@@ -243,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1062476,
-      "num": 613695,
-      "word": "陈好 恶意剪辑",
-      "onboard_time": 1730880209,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1017959,
       "num": 1017959,
       "word": "黄金",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 944734,
-      "num": 444380,
+      "num": 614618,
       "word": "所有男明星都看过来",
       "onboard_time": 1730875766,
       "rank": 16,
@@ -321,6 +329,14 @@
       "onboard_time": 1730821401,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 797164,
+      "num": 797164,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 787275,
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613463,
+      "num": 364178,
+      "word": "哈里斯取消演讲计划",
+      "onboard_time": 1730882488,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 607783,
       "num": 309839,
       "word": "哈里斯暂时不会发表讲话",
@@ -441,14 +465,6 @@
       "onboard_time": 1730863883,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 586523,
-      "num": 586523,
-      "word": "金价",
-      "onboard_time": 1730879910,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 571701,
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338760,
+      "num": 338760,
+      "word": "外交部称尊重美国人民的选择",
+      "onboard_time": 1730880269,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 331661,
       "num": 286423,
       "word": "目前特朗普177张选举人票哈里斯99张",
@@ -721,14 +745,6 @@
       "onboard_time": 1730868806,
       "rank": 28,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 316650,
-      "num": 316650,
-      "word": "外交部称尊重美国人民的选择",
-      "onboard_time": 1730880269,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 316029,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247031,
+      "num": 682633,
+      "word": "中方对美国政策一以贯之",
+      "onboard_time": 1730881893,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 245702,
       "num": 245702,
       "word": "王鹤棣赵露思台下合影",
@@ -955,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231882,
+      "num": 243760,
+      "word": "东京电影节",
+      "onboard_time": 1730881288,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231818,
       "num": 516844,
       "word": "再见爱人4",
@@ -977,6 +1009,14 @@
       "onboard_time": 1730864182,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 225180,
+      "num": 730761,
+      "word": "广东湛江一垃圾桶旁发现男婴",
+      "onboard_time": 1730881048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224304,
@@ -1083,14 +1123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 207333,
-      "num": 207333,
-      "word": "东京电影节",
-      "onboard_time": 1730881288,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206461,
       "num": 207994,
       "word": "夜市偶遇周子瑜叶舒华",
@@ -1172,7 +1204,7 @@
     },
     {
       "raw_hot": 193468,
-      "num": 193468,
+      "num": 340961,
       "word": "怎么不带张一山",
       "onboard_time": 1730878112,
       "rank": 43,
@@ -1291,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175701,
+      "num": 175701,
+      "word": "张馨予身为演员的底气",
+      "onboard_time": 1730881587,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174616,
       "num": 348574,
       "word": "易烊千玺小小的我剧组采访",
@@ -1395,14 +1435,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 155421,
-      "num": 730761,
-      "word": "广东湛江一垃圾桶旁发现男婴",
-      "onboard_time": 1730881048,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154814,
       "num": 154814,
       "word": "偶遇名侦探的假期录制",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1730867245,
       "rank": 12,
       "category": "军事"
-    },
-    {
-      "raw_hot": 152139,
-      "num": 152139,
-      "word": "张馨予身为演员的底气",
-      "onboard_time": 1730881587,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 150207,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1730858060,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139498,
+      "num": 411589,
+      "word": "姑娘路边高价买雪莲花实为山茶花",
+      "onboard_time": 1730880330,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137115,
@@ -1867,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78948,
+      "num": 176176,
+      "word": "小鹏发布鲲鹏超级电动",
+      "onboard_time": 1730882127,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77641,
       "num": 77641,
       "word": "货车撞上粤港两地牌劳斯莱斯",
@@ -1929,14 +1969,6 @@
       "onboard_time": 1730860940,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 66730,
-      "num": 411589,
-      "word": "姑娘路边高价买雪莲花实为山茶花",
-      "onboard_time": 1730880330,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65521,
@@ -2003,6 +2035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 55676,
+      "num": 241218,
+      "word": "郑钦文今晚获胜即出线",
+      "onboard_time": 1730882246,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54398,
       "num": 347454,
       "word": "2024美国总统大选八大看点",
@@ -2043,20 +2083,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 45938,
+      "num": 207720,
+      "word": "在零下50℃的户外是什么体验",
+      "onboard_time": 1730878413,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45103,
+      "num": 231808,
+      "word": "女理发师因听得懂话爆火",
+      "onboard_time": 1730880629,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42182,
       "num": 411264,
       "word": "安可拉红 出圈",
       "onboard_time": 1730876738,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 42146,
-      "num": 207720,
-      "word": "在零下50℃的户外是什么体验",
-      "onboard_time": 1730878413,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41030,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1730839990,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40523,
+      "num": 364303,
+      "word": "侯明昊闫桉公主抱",
+      "onboard_time": 1730882306,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 38628,
@@ -2121,14 +2177,6 @@
       "onboard_time": 1730827695,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33928,
-      "num": 214414,
-      "word": "女理发师因听得懂话爆火",
-      "onboard_time": 1730880629,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31795,
@@ -2252,7 +2300,7 @@
     },
     {
       "raw_hot": 19208,
-      "num": 1572982,
+      "num": 2117578,
       "word": "文化中国行看荆楚瑰宝",
       "onboard_time": 1730863642,
       "rank": 2,

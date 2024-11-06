@@ -1,0 +1,410 @@
+{
+  "runTime": 1730882565900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 33365790,
+        "num": 33954069,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2741732,
+        "num": 2741732,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1730878833,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4819,
+        "num": 2117578,
+        "word": "文化中国行看荆楚瑰宝",
+        "onboard_time": 1730863642,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703735,
+        "num": 1703735,
+        "word": "永夜星河直播",
+        "onboard_time": 1730881706,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 830797,
+        "num": 830797,
+        "word": "黄金",
+        "onboard_time": 1730876918,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 797164,
+        "num": 797164,
+        "word": "金价",
+        "onboard_time": 1730879910,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 714415,
+        "num": 714415,
+        "word": "特斯拉",
+        "onboard_time": 1730878472,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 696913,
+        "num": 696913,
+        "word": "兮妃回宫",
+        "onboard_time": 1730874625,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 750291,
+        "num": 693069,
+        "word": "性别争议奥运冠军被曝为男性",
+        "onboard_time": 1730865624,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247031,
+        "num": 682633,
+        "word": "中方对美国政策一以贯之",
+        "onboard_time": 1730881893,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5960367,
+        "num": 660920,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2008716,
+        "num": 655671,
+        "word": "泽连斯基",
+        "onboard_time": 1730878233,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1449924,
+        "num": 634758,
+        "word": "陈好 恶意剪辑",
+        "onboard_time": 1730880209,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1682012,
+        "num": 628971,
+        "word": "哈里斯未承认败选",
+        "onboard_time": 1730882425,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 758891,
+        "num": 614618,
+        "word": "所有男明星都看过来",
+        "onboard_time": 1730875766,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1055925,
+        "num": 599528,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 593357,
+        "num": 593357,
+        "word": "丁禹兮收拾收拾准备升咖",
+        "onboard_time": 1730869226,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365641,
+        "num": 365641,
+        "word": "永夜星河 剧粉",
+        "onboard_time": 1730877335,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 895784,
+        "num": 365022,
+        "word": "特朗普的车队离开海湖庄园",
+        "onboard_time": 1730877453,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40523,
+        "num": 364303,
+        "word": "侯明昊闫桉公主抱",
+        "onboard_time": 1730882306,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613463,
+        "num": 364178,
+        "word": "哈里斯取消演讲计划",
+        "onboard_time": 1730882488,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364037,
+        "num": 364037,
+        "word": "李兰迪否认喝酒多",
+        "onboard_time": 1730879132,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98188,
+        "num": 340961,
+        "word": "怎么不带张一山",
+        "onboard_time": 1730878112,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338760,
+        "num": 338760,
+        "word": "外交部称尊重美国人民的选择",
+        "onboard_time": 1730880269,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 676248,
+        "num": 336197,
+        "word": "美国大选美民众疯狂囤枪",
+        "onboard_time": 1730863282,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320821,
+        "num": 320821,
+        "word": "花儿与中年",
+        "onboard_time": 1730871563,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231882,
+        "num": 243760,
+        "word": "东京电影节",
+        "onboard_time": 1730881288,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55676,
+        "num": 241218,
+        "word": "郑钦文今晚获胜即出线",
+        "onboard_time": 1730882246,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239660,
+        "num": 239660,
+        "word": "柳州女子系酒后呕吐朋友搀扶",
+        "onboard_time": 1730869045,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45103,
+        "num": 231808,
+        "word": "女理发师因听得懂话爆火",
+        "onboard_time": 1730880629,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225180,
+        "num": 225180,
+        "word": "广东湛江一垃圾桶旁发现男婴",
+        "onboard_time": 1730881048,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224136,
+        "num": 224136,
+        "word": "肖战意大利被偶遇",
+        "onboard_time": 1730874324,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206891,
+        "num": 206891,
+        "word": "艺洋训狗",
+        "onboard_time": 1730864482,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184554,
+        "num": 184554,
+        "word": "蓝盈莹坐飞机偶遇杨迪",
+        "onboard_time": 1730873425,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54406,
+        "num": 180837,
+        "word": "魏哲鸣摩登大片人夫感的神",
+        "onboard_time": 1730877394,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179905,
+        "num": 179905,
+        "word": "快递弄丢1.3万银币判赔6千",
+        "onboard_time": 1730878532,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45938,
+        "num": 177377,
+        "word": "在零下50℃的户外是什么体验",
+        "onboard_time": 1730878413,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78948,
+        "num": 176176,
+        "word": "小鹏发布鲲鹏超级电动",
+        "onboard_time": 1730882127,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175701,
+        "num": 175701,
+        "word": "张馨予身为演员的底气",
+        "onboard_time": 1730881587,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174810,
+        "num": 174810,
+        "word": "易烊千玺的24岁生日愿望",
+        "onboard_time": 1730879551,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170570,
+        "num": 170570,
+        "word": "丁禹兮感情史 废话付出闭嘴",
+        "onboard_time": 1730878472,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168172,
+        "num": 168172,
+        "word": "慕声怎么洗头",
+        "onboard_time": 1730879430,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151254,
+        "num": 151254,
+        "word": "上海某中学疑似调查学生家庭背景阶层",
+        "onboard_time": 1730865264,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150908,
+        "num": 150908,
+        "word": "当地回应盲人女孩学习按摩被摸胸",
+        "onboard_time": 1730876437,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146526,
+        "num": 146526,
+        "word": "虞书欣让新浪下次还找她",
+        "onboard_time": 1730874144,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139498,
+        "num": 139498,
+        "word": "姑娘路边高价买雪莲花实为山茶花",
+        "onboard_time": 1730880330,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137208,
+        "num": 137208,
+        "word": "运20的压迫感有多强",
+        "onboard_time": 1730880629,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137074,
+        "num": 137074,
+        "word": "境外间谍用终身监禁恐吓涉密人员",
+        "onboard_time": 1730877872,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136777,
+        "num": 136777,
+        "word": "以色列总理宣布解雇国防部长",
+        "onboard_time": 1730871563,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134411,
+        "num": 134411,
+        "word": "子午线",
+        "onboard_time": 1730880689,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设一支强大的现代化空降兵部队#"
+    }
+  }
+}

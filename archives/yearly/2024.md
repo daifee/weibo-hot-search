@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 16:29:12
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 16:42:45
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E8%8E%B7%E8%83%9C%23" target="weibo">
+特朗普正式宣布获胜（热度：33365790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80%23" target="weibo">
 王楚钦爆冷出局（热度：33113456）
 </a>
@@ -53,12 +59,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%B7%E5%8D%95%E9%87%91%E7%89%8C%23" target="weibo">
 樊振东男单金牌（热度：32002243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E8%8E%B7%E8%83%9C%23" target="weibo">
-特朗普正式宣布获胜（热度：30976920）
 </a>
 </li>
 
