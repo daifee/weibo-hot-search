@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730928954824,
+  "endTime": 1730931742271,
   "band_list": [
     {
       "raw_hot": 1286393,
@@ -123,12 +123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306031,
+      "num": 204538,
+      "word": "美国可能面临五大变化",
+      "onboard_time": 1730914094,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 301156,
       "num": 301156,
       "word": "哈里斯支持者黯然离开",
       "onboard_time": 1730893640,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 285800,
+      "num": 285800,
+      "word": "男子举报儿媳与盐城一干部发生婚外情",
+      "onboard_time": 1730918293,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268997,
@@ -153,14 +169,6 @@
       "onboard_time": 1730903003,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228969,
-      "num": 171244,
-      "word": "美国可能面临五大变化",
-      "onboard_time": 1730914094,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 210867,
@@ -283,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131445,
-      "num": 131445,
-      "word": "男子举报儿媳与盐城一干部发生婚外情",
-      "onboard_time": 1730918293,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129376,
       "num": 129376,
       "word": "王楚钦状态",
@@ -321,6 +321,14 @@
       "onboard_time": 1730899461,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 117696,
+      "num": 117696,
+      "word": "王楚钦0比3卡尔伯格",
+      "onboard_time": 1730920391,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 117193,
@@ -427,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74894,
-      "num": 74894,
-      "word": "王楚钦0比3卡尔伯格",
-      "onboard_time": 1730920391,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74260,
       "num": 81805,
       "word": "王楚钦vs卡尔伯格",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 57837,
-      "num": 47690,
+      "num": 49930,
       "word": "60秒看美国总统选举制度",
       "onboard_time": 1730884343,
       "rank": 23,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43323,
+      "num": 71626,
+      "word": "海事局回应辽宁一货船被外籍船只撞翻",
+      "onboard_time": 1730928311,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43064,
       "num": 52759,
       "word": "深耕自己专注的人自会发光",
@@ -475,12 +483,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36386,
-      "num": 33677,
+      "raw_hot": 42253,
+      "num": 40852,
+      "word": "泽连斯基祝贺特朗普",
+      "onboard_time": 1730928851,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 40949,
+      "num": 40949,
       "word": "国乒男队本站比赛仅剩林诗栋",
       "onboard_time": 1730916612,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38962,
+      "num": 38962,
+      "word": "中国空军将同时装备两款隐身战机",
+      "onboard_time": 1730928550,
+      "rank": 34,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 37063,
+      "num": 84363,
+      "word": "7类食材自带有害物质",
+      "onboard_time": 1730920211,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 33658,
@@ -488,6 +520,14 @@
       "word": "超七成美国人不满国家走向",
       "onboard_time": 1730923991,
       "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 33393,
+      "num": 33393,
+      "word": "特朗普称取得了不可思议的政治成就",
+      "onboard_time": 1730920751,
+      "rank": 38,
       "category": "国外时政"
     },
     {
@@ -499,20 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30147,
-      "num": 29731,
-      "word": "特朗普称取得了不可思议的政治成就",
-      "onboard_time": 1730920751,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 30100,
-      "num": 84363,
-      "word": "7类食材自带有害物质",
-      "onboard_time": 1730920211,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
+      "raw_hot": 30937,
+      "num": 47876,
+      "word": "推介大米走红的副局长是英语专八",
+      "onboard_time": 1730914934,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28115,
@@ -529,6 +561,14 @@
       "onboard_time": 1730922192,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25771,
+      "num": 29742,
+      "word": "欧冠联赛",
+      "onboard_time": 1730930661,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 25436,
@@ -555,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22591,
-      "num": 47876,
-      "word": "推介大米走红的副局长是英语专八",
-      "onboard_time": 1730914934,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22182,
       "num": 43174,
       "word": "杨妞花说如果是炒作要炒得天下无拐",
@@ -579,12 +611,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 16161,
-      "num": 19618,
-      "word": "泽连斯基祝贺特朗普",
-      "onboard_time": 1730928851,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 14185,
+      "num": 44158,
+      "word": "超近距离看歼15T机翼折叠",
+      "onboard_time": 1730930661,
+      "rank": 24,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 13417,
@@ -603,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12246,
-      "num": 71626,
-      "word": "海事局回应辽宁一货船被外籍船只撞翻",
-      "onboard_time": 1730928311,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 12556,
+      "num": 43348,
+      "word": "歼35A相比于歼20有自己独特的定位",
+      "onboard_time": 1730931312,
+      "rank": 25,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 10888,
