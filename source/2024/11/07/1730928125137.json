@@ -1,0 +1,410 @@
+{
+  "runTime": 1730928125137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 162057,
+        "num": 162057,
+        "word": "官方回应4名年轻公职人员遇车祸身亡",
+        "onboard_time": 1730908641,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112297,
+        "num": 112297,
+        "word": "男子举报儿媳与盐城一干部发生婚外情",
+        "onboard_time": 1730918293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170,
+        "num": 98780,
+        "word": "数读我国防沙治沙成绩单",
+        "onboard_time": 1730896281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128616,
+        "num": 96550,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91319,
+        "num": 91319,
+        "word": "金价跳水了",
+        "onboard_time": 1730900063,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143295,
+        "num": 87355,
+        "word": "美国可能面临五大变化",
+        "onboard_time": 1730914094,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 80316,
+        "num": 80316,
+        "word": "王皓说王楚钦打得太小心了",
+        "onboard_time": 1730909179,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69287,
+        "num": 80230,
+        "word": "郝蕾回应演员能不能直播带货",
+        "onboard_time": 1730909899,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25833,
+        "num": 79195,
+        "word": "虞书欣向腾讯视频催更",
+        "onboard_time": 1730907442,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13417,
+        "num": 77235,
+        "word": "神十八载人飞行任务全记录",
+        "onboard_time": 1730926511,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99961,
+        "num": 76554,
+        "word": "萝莉岛",
+        "onboard_time": 1730885783,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 86849,
+        "num": 75818,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 74894,
+        "num": 74894,
+        "word": "王楚钦0比3卡尔伯格",
+        "onboard_time": 1730920391,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60745,
+        "num": 60745,
+        "word": "雇主坐牢失联月嫂抚养女婴3年",
+        "onboard_time": 1730909779,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55554,
+        "num": 55554,
+        "word": "美选民起诉马斯克搞抽奖骗局",
+        "onboard_time": 1730900844,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40013,
+        "num": 40013,
+        "word": "结婚未领证生子男子起诉返还彩礼",
+        "onboard_time": 1730901504,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22964,
+        "num": 39827,
+        "word": "向佐回应不会和郭碧婷参加再见爱人",
+        "onboard_time": 1730893820,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22852,
+        "num": 37833,
+        "word": "范丞丞演技",
+        "onboard_time": 1730904981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22575,
+        "num": 36963,
+        "word": "庄图南选角 王安宇",
+        "onboard_time": 1730903003,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21386,
+        "num": 34340,
+        "word": "李现连续七年为杨紫庆生",
+        "onboard_time": 1730903781,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43774,
+        "num": 33970,
+        "word": "哈里斯支持者黯然离开",
+        "onboard_time": 1730893640,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32818,
+        "num": 32818,
+        "word": "初中生被收手机欲跳楼老师一把拉回",
+        "onboard_time": 1730913494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36784,
+        "num": 32388,
+        "word": "特朗普宣称接下来是美国的黄金时代",
+        "onboard_time": 1730895320,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31907,
+        "num": 31907,
+        "word": "王楚钦无缘8强",
+        "onboard_time": 1730900246,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31946,
+        "num": 31322,
+        "word": "超七成美国人不满国家走向",
+        "onboard_time": 1730923991,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29253,
+        "num": 29253,
+        "word": "苹果喊话iPhone13和14钉子户",
+        "onboard_time": 1730889803,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29816,
+        "num": 28999,
+        "word": "特朗普夸马斯克是超级天才",
+        "onboard_time": 1730895320,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28679,
+        "num": 28679,
+        "word": "中国外交部对特朗普当选总统表示祝贺",
+        "onboard_time": 1730910139,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19335,
+        "num": 28651,
+        "word": "虞书欣拍刘亦菲",
+        "onboard_time": 1730897722,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15505,
+        "num": 28630,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1730906661,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28627,
+        "num": 28627,
+        "word": "60秒看美国总统选举制度",
+        "onboard_time": 1730884343,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26891,
+        "num": 26891,
+        "word": "7类食材自带有害物质",
+        "onboard_time": 1730920211,
+        "rank": 31,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 25723,
+        "num": 25723,
+        "word": "特朗普宣布获胜后全场高喊USA",
+        "onboard_time": 1730903602,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24208,
+        "num": 24208,
+        "word": "郑钦文总决赛已狂揽700万奖金",
+        "onboard_time": 1730907320,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24041,
+        "num": 24041,
+        "word": "王楚钦下一个赛场见",
+        "onboard_time": 1730909538,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22965,
+        "num": 22965,
+        "word": "河南一医院发生爆炸一名医生身亡",
+        "onboard_time": 1730896821,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22760,
+        "num": 22760,
+        "word": "美股",
+        "onboard_time": 1730907381,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22151,
+        "num": 22151,
+        "word": "特朗普称取得了不可思议的政治成就",
+        "onboard_time": 1730920751,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21744,
+        "num": 21744,
+        "word": "医生提醒瑞士卷不可吃多",
+        "onboard_time": 1730920211,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21830,
+        "num": 21743,
+        "word": "哈里斯未承认败选",
+        "onboard_time": 1730882425,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21692,
+        "num": 21692,
+        "word": "外交部就美总统选举结果答记者问",
+        "onboard_time": 1730915653,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20994,
+        "num": 20994,
+        "word": "多品牌紧急回应卫生巾被曝偷工减料",
+        "onboard_time": 1730905642,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20739,
+        "num": 20739,
+        "word": "瑞士卷可不兴一次吃6个啊",
+        "onboard_time": 1730899461,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 20187,
+        "num": 20187,
+        "word": "国乒男队本站比赛仅剩林诗栋",
+        "onboard_time": 1730916612,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19808,
+        "num": 19808,
+        "word": "推介大米走红的副局长是英语专八",
+        "onboard_time": 1730914934,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19413,
+        "num": 19413,
+        "word": "杨妞花说如果是炒作要炒得天下无拐",
+        "onboard_time": 1730923452,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19036,
+        "num": 19036,
+        "word": "郑钦文小组第二出线",
+        "onboard_time": 1730913555,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18863,
+        "num": 18863,
+        "word": "王楚钦状态",
+        "onboard_time": 1730899942,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10888,
+        "num": 18860,
+        "word": "小巷人家",
+        "onboard_time": 1730898321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17870,
+        "num": 18857,
+        "word": "11月7日6时20分迎来立冬",
+        "onboard_time": 1730922192,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好社会工作是全党共同责任#"
+    }
+  }
+}
