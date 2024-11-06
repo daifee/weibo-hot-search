@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730900370846,
+  "endTime": 1730902850012,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -41,6 +41,14 @@
       "onboard_time": 1730876133,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 6852928,
+      "num": 8102928,
+      "word": "王楚钦无缘8强",
+      "onboard_time": 1730900246,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 5637961,
@@ -195,6 +203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1753625,
+      "num": 623811,
+      "word": "王楚钦状态",
+      "onboard_time": 1730899942,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1703735,
       "num": 1703735,
       "word": "永夜星河直播",
@@ -241,6 +257,14 @@
       "onboard_time": 1730861601,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1452679,
+      "num": 1452679,
+      "word": "金价跳水了",
+      "onboard_time": 1730900063,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 1449924,
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507430,
-      "num": 623811,
-      "word": "王楚钦状态",
-      "onboard_time": 1730899942,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 507189,
       "num": 475954,
       "word": "陈好花少半夜独行5个小时",
@@ -715,12 +731,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 482840,
+      "num": 482840,
+      "word": "美邦老板怒批小杨哥想复播",
+      "onboard_time": 1730898621,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 471852,
       "num": 471852,
       "word": "丁禹兮在超话发壁纸",
       "onboard_time": 1730873905,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461851,
+      "num": 461851,
+      "word": "永夜星河穿帮",
+      "onboard_time": 1730900786,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 456649,
@@ -737,14 +769,6 @@
       "onboard_time": 1730881893,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 448278,
-      "num": 448278,
-      "word": "美邦老板怒批小杨哥想复播",
-      "onboard_time": 1730898621,
-      "rank": 20,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 446600,
@@ -785,6 +809,14 @@
       "onboard_time": 1730894541,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435121,
+      "num": 435121,
+      "word": "郑钦文状态",
+      "onboard_time": 1730898981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 433269,
@@ -843,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412089,
+      "num": 412089,
+      "word": "结婚未领证生子男子起诉返还彩礼",
+      "onboard_time": 1730901504,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411753,
       "num": 411753,
       "word": "骗子给求职毕业生组织假笔试",
@@ -891,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388987,
+      "num": 388987,
+      "word": "郑钦文挺进半决赛",
+      "onboard_time": 1730901384,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387449,
       "num": 357840,
       "word": "李兰迪评论区",
@@ -916,7 +964,7 @@
     },
     {
       "raw_hot": 381991,
-      "num": 381991,
+      "num": 443724,
       "word": "特朗普宣称接下来是美国的黄金时代",
       "onboard_time": 1730895320,
       "rank": 24,
@@ -929,6 +977,14 @@
       "onboard_time": 1730809342,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370740,
+      "num": 891316,
+      "word": "郑钦文vs保利尼",
+      "onboard_time": 1730894722,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 368558,
@@ -945,14 +1001,6 @@
       "onboard_time": 1730852723,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357070,
-      "num": 891316,
-      "word": "郑钦文vs保利尼",
-      "onboard_time": 1730894722,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 353980,
@@ -979,6 +1027,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 347004,
+      "num": 347004,
+      "word": "王楚钦加油",
+      "onboard_time": 1730900663,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 345797,
+      "num": 345797,
+      "word": "马龙回应想默默淡出赛场",
+      "onboard_time": 1730898681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344031,
+      "num": 458309,
+      "word": "武艺蛋糕还没拿明白已经开始卖了",
+      "onboard_time": 1730900544,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339659,
       "num": 512599,
       "word": "范丞丞回应小巷人家演技争议",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1730886503,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336466,
+      "num": 452027,
+      "word": "庄图南李佳 快进",
+      "onboard_time": 1730902044,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 331661,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1730884283,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316278,
+      "num": 316278,
+      "word": "美选民起诉马斯克搞抽奖骗局",
+      "onboard_time": 1730900844,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 316029,
@@ -1107,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296301,
-      "num": 296301,
-      "word": "马龙回应想默默淡出赛场",
-      "onboard_time": 1730898681,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 296266,
       "num": 296266,
       "word": "个人U盘涉密沦为间谍帮手终获死刑",
@@ -1155,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285080,
-      "num": 1484203,
-      "word": "王楚钦无缘8强",
-      "onboard_time": 1730900246,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278075,
       "num": 347094,
       "word": "马斯克突然来北京是谣言",
@@ -1192,6 +1264,14 @@
       "word": "美国东海岸投票站开放",
       "onboard_time": 1730806642,
       "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 273486,
+      "num": 360823,
+      "word": "特朗普在胜选演讲说马斯克我爱你",
+      "onboard_time": 1730899762,
+      "rank": 28,
       "category": "国外时政"
     },
     {
@@ -1313,6 +1393,14 @@
       "onboard_time": 1730869347,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242121,
+      "num": 242121,
+      "word": "虞书欣丁禹兮祝绪丹cos燃冬",
+      "onboard_time": 1730902162,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 241886,
@@ -1555,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204507,
+      "num": 204507,
+      "word": "郑钦文晋级总决赛四强",
+      "onboard_time": 1730902344,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203903,
       "num": 203903,
       "word": "董宇辉回应烧麦言论",
@@ -1595,12 +1691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200847,
+      "num": 200847,
+      "word": "瑞士卷可不兴一次吃6个啊",
+      "onboard_time": 1730899461,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 199493,
       "num": 199493,
       "word": "刘宇宁复刻黄子韬",
       "onboard_time": 1730876256,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197597,
+      "num": 197597,
+      "word": "利雅得WTA年终总决赛",
+      "onboard_time": 1730901743,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 197303,
@@ -1625,14 +1737,6 @@
       "onboard_time": 1730878112,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192763,
-      "num": 192763,
-      "word": "瑞士卷可不兴一次吃6个啊",
-      "onboard_time": 1730899461,
-      "rank": 48,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 192469,
@@ -1675,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187815,
+      "num": 303017,
+      "word": "郑钦文又创造历史",
+      "onboard_time": 1730901924,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187293,
       "num": 448995,
       "word": "刘谦抗癌成功称已完全康复",
@@ -1705,14 +1817,6 @@
       "onboard_time": 1730848578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186755,
-      "num": 186755,
-      "word": "金价跳水了",
-      "onboard_time": 1730900063,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 186616,
@@ -2001,6 +2105,14 @@
       "onboard_time": 1730884462,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150829,
+      "num": 510221,
+      "word": "郑钦文轰12记Ace",
+      "onboard_time": 1730902102,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 150207,
@@ -2595,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86238,
-      "num": 298923,
-      "word": "郑钦文状态",
-      "onboard_time": 1730898981,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85742,
       "num": 174721,
       "word": "刘德华说我们需要一点运气",
@@ -2707,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70009,
+      "num": 389234,
+      "word": "陈赫说邓海洋终于干了件正经事儿",
+      "onboard_time": 1730902102,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69362,
       "num": 69362,
       "word": "美邦老板称辛巴为直播判官",
@@ -2785,14 +2897,6 @@
       "onboard_time": 1730848517,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62691,
-      "num": 360823,
-      "word": "特朗普在胜选演讲说马斯克我爱你",
-      "onboard_time": 1730899762,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 62401,
@@ -3113,6 +3217,14 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26860,
+      "num": 379358,
+      "word": "从内到外中国制造的中性笔单价不足2元",
+      "onboard_time": 1730900663,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26726,

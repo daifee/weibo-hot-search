@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730900370846,
+  "endTime": 1730902850012,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -97,6 +97,14 @@
       "onboard_time": 1730783841,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 6852928,
+      "num": 8102928,
+      "word": "王楚钦无缘8强",
+      "onboard_time": 1730900246,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 5637961,
@@ -603,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1753625,
+      "num": 623811,
+      "word": "王楚钦状态",
+      "onboard_time": 1730899942,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1749291,
       "num": 1749291,
       "word": "工作人员迟到致下火车旅客无法出站",
@@ -913,6 +929,14 @@
       "onboard_time": 1730430739,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1452679,
+      "num": 1452679,
+      "word": "金价跳水了",
+      "onboard_time": 1730900063,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 1449924,
@@ -3907,14 +3931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507430,
-      "num": 623811,
-      "word": "王楚钦状态",
-      "onboard_time": 1730899942,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 507191,
       "num": 507191,
       "word": "失笑定档",
@@ -4091,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482840,
+      "num": 482840,
+      "word": "美邦老板怒批小杨哥想复播",
+      "onboard_time": 1730898621,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 482543,
       "num": 352280,
       "word": "李行亮买青团细节",
@@ -4243,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461851,
+      "num": 461851,
+      "word": "永夜星河穿帮",
+      "onboard_time": 1730900786,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460990,
       "num": 460990,
       "word": "腾讯视频11月大剧片单上新",
@@ -4345,14 +4377,6 @@
       "onboard_time": 1730881893,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 448278,
-      "num": 448278,
-      "word": "美邦老板怒批小杨哥想复播",
-      "onboard_time": 1730898621,
-      "rank": 20,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 446600,
@@ -4496,6 +4520,14 @@
       "word": "王楚钦户上隼辅交手战绩",
       "onboard_time": 1730711779,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 435121,
+      "num": 435121,
+      "word": "郑钦文状态",
+      "onboard_time": 1730898981,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -4713,6 +4745,14 @@
       "onboard_time": 1730859141,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412089,
+      "num": 412089,
+      "word": "结婚未领证生子男子起诉返还彩礼",
+      "onboard_time": 1730901504,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411753,
@@ -4955,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388987,
+      "num": 388987,
+      "word": "郑钦文挺进半决赛",
+      "onboard_time": 1730901384,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388886,
       "num": 296666,
       "word": "胡夏 隐藏款",
@@ -5052,7 +5100,7 @@
     },
     {
       "raw_hot": 381991,
-      "num": 381991,
+      "num": 443724,
       "word": "特朗普宣称接下来是美国的黄金时代",
       "onboard_time": 1730895320,
       "rank": 24,
@@ -5169,6 +5217,14 @@
       "onboard_time": 1730537658,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370740,
+      "num": 891316,
+      "word": "郑钦文vs保利尼",
+      "onboard_time": 1730894722,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 370004,
@@ -5323,14 +5379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357070,
-      "num": 891316,
-      "word": "郑钦文vs保利尼",
-      "onboard_time": 1730894722,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 354960,
       "num": 354960,
       "word": "警方回应同学被打男生要报警被老师呵斥",
@@ -5427,6 +5475,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 347004,
+      "num": 347004,
+      "word": "王楚钦加油",
+      "onboard_time": 1730900663,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 345797,
+      "num": 345797,
+      "word": "马龙回应想默默淡出赛场",
+      "onboard_time": 1730898681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345412,
       "num": 320301,
       "word": "小小的我全球首映口碑",
@@ -5465,6 +5529,14 @@
       "onboard_time": 1730472440,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 344031,
+      "num": 458309,
+      "word": "武艺蛋糕还没拿明白已经开始卖了",
+      "onboard_time": 1730900544,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 343855,
@@ -5569,6 +5641,14 @@
       "onboard_time": 1730434579,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336466,
+      "num": 452027,
+      "word": "庄图南李佳 快进",
+      "onboard_time": 1730902044,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 335896,
@@ -5835,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316278,
+      "num": 316278,
+      "word": "美选民起诉马斯克搞抽奖骗局",
+      "onboard_time": 1730900844,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 316176,
       "num": 259557,
       "word": "永夜星河 月光变奏曲",
@@ -6091,14 +6179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 296301,
-      "num": 296301,
-      "word": "马龙回应想默默淡出赛场",
-      "onboard_time": 1730898681,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 296266,
       "num": 296266,
       "word": "个人U盘涉密沦为间谍帮手终获死刑",
@@ -6323,14 +6403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 285080,
-      "num": 1484203,
-      "word": "王楚钦无缘8强",
-      "onboard_time": 1730900246,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284450,
       "num": 284450,
       "word": "王楚钦王曼昱冠军赛合影",
@@ -6529,6 +6601,14 @@
       "onboard_time": 1730641220,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273486,
+      "num": 360823,
+      "word": "特朗普在胜选演讲说马斯克我爱你",
+      "onboard_time": 1730899762,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 273451,
@@ -7224,6 +7304,14 @@
       "word": "白鹿郑书意",
       "onboard_time": 1730610799,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242121,
+      "num": 242121,
+      "word": "虞书欣丁禹兮祝绪丹cos燃冬",
+      "onboard_time": 1730902162,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -8483,6 +8571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204507,
+      "num": 204507,
+      "word": "郑钦文晋级总决赛四强",
+      "onboard_time": 1730902344,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204323,
       "num": 204323,
       "word": "孙颖莎再提最爱的小白球",
@@ -8675,6 +8771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200847,
+      "num": 200847,
+      "word": "瑞士卷可不兴一次吃6个啊",
+      "onboard_time": 1730899461,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 200520,
       "num": 200520,
       "word": "费加罗红毯",
@@ -8857,6 +8961,14 @@
       "onboard_time": 1730681240,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197597,
+      "num": 197597,
+      "word": "利雅得WTA年终总决赛",
+      "onboard_time": 1730901743,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 197473,
@@ -9097,14 +9209,6 @@
       "onboard_time": 1730726120,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192763,
-      "num": 192763,
-      "word": "瑞士卷可不兴一次吃6个啊",
-      "onboard_time": 1730899461,
-      "rank": 48,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 192433,
@@ -9379,6 +9483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187815,
+      "num": 303017,
+      "word": "郑钦文又创造历史",
+      "onboard_time": 1730901924,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "羊绒衫为啥这么贵",
@@ -9449,14 +9561,6 @@
       "onboard_time": 1730848578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186755,
-      "num": 186755,
-      "word": "金价跳水了",
-      "onboard_time": 1730900063,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 186616,
@@ -11713,6 +11817,14 @@
       "onboard_time": 1730801061,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150829,
+      "num": 510221,
+      "word": "郑钦文轰12记Ace",
+      "onboard_time": 1730902102,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 150465,
@@ -15067,14 +15179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 86238,
-      "num": 298923,
-      "word": "郑钦文状态",
-      "onboard_time": 1730898981,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86159,
       "num": 86159,
       "word": "悉尼偶遇宋雨琦minnie",
@@ -15491,6 +15595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70009,
+      "num": 389234,
+      "word": "陈赫说邓海洋终于干了件正经事儿",
+      "onboard_time": 1730902102,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69965,
       "num": 119102,
       "word": "大连英博2比1上海嘉定汇龙",
@@ -15729,14 +15841,6 @@
       "onboard_time": 1730610498,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62691,
-      "num": 360823,
-      "word": "特朗普在胜选演讲说马斯克我爱你",
-      "onboard_time": 1730899762,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 62510,
@@ -17521,6 +17625,14 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26860,
+      "num": 379358,
+      "word": "从内到外中国制造的中性笔单价不足2元",
+      "onboard_time": 1730900663,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26769,
