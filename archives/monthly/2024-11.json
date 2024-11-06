@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730902850012,
+  "endTime": 1730903977581,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -99,7 +99,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 6852928,
+      "raw_hot": 6969469,
       "num": 8102928,
       "word": "王楚钦无缘8强",
       "onboard_time": 1730900246,
@@ -473,6 +473,14 @@
       "onboard_time": 1730713939,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1986068,
+      "num": 1986068,
+      "word": "金价跳水了",
+      "onboard_time": 1730900063,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 1971047,
@@ -929,14 +937,6 @@
       "onboard_time": 1730430739,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1452679,
-      "num": 1452679,
-      "word": "金价跳水了",
-      "onboard_time": 1730900063,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 1449924,
@@ -3908,7 +3908,7 @@
     },
     {
       "raw_hot": 511507,
-      "num": 362573,
+      "num": 638416,
       "word": "特朗普胜选演讲",
       "onboard_time": 1730885185,
       "rank": 18,
@@ -3977,6 +3977,14 @@
       "onboard_time": 1730507898,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497832,
+      "num": 497832,
+      "word": "永夜星河穿帮",
+      "onboard_time": 1730900786,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 497337,
@@ -4211,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471548,
+      "num": 645402,
+      "word": "郑钦文挺进半决赛",
+      "onboard_time": 1730901384,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469798,
       "num": 469798,
       "word": "詹姆斯表态将投票支持哈里斯",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1730624478,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461851,
-      "num": 461851,
-      "word": "永夜星河穿帮",
-      "onboard_time": 1730900786,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 460990,
@@ -4524,7 +4532,7 @@
     },
     {
       "raw_hot": 435121,
-      "num": 435121,
+      "num": 659819,
       "word": "郑钦文状态",
       "onboard_time": 1730898981,
       "rank": 29,
@@ -4705,6 +4713,14 @@
       "onboard_time": 1730789840,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415437,
+      "num": 495346,
+      "word": "庄图南李佳 快进",
+      "onboard_time": 1730902044,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 414379,
@@ -4993,14 +5009,6 @@
       "onboard_time": 1730735778,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388987,
-      "num": 388987,
-      "word": "郑钦文挺进半决赛",
-      "onboard_time": 1730901384,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 388886,
@@ -5532,7 +5540,7 @@
     },
     {
       "raw_hot": 344031,
-      "num": 458309,
+      "num": 491181,
       "word": "武艺蛋糕还没拿明白已经开始卖了",
       "onboard_time": 1730900544,
       "rank": 18,
@@ -5641,14 +5649,6 @@
       "onboard_time": 1730434579,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 336466,
-      "num": 452027,
-      "word": "庄图南李佳 快进",
-      "onboard_time": 1730902044,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 335896,
@@ -6107,6 +6107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301659,
+      "num": 494468,
+      "word": "庄图南选角 王安宇",
+      "onboard_time": 1730903003,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301332,
       "num": 301332,
       "word": "孩子整理父亲遗物发现30多万现金",
@@ -6385,6 +6393,14 @@
       "onboard_time": 1730437639,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286419,
+      "num": 485935,
+      "word": "瑞士卷可不兴一次吃6个啊",
+      "onboard_time": 1730899461,
+      "rank": 48,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 286363,
@@ -6921,6 +6937,14 @@
       "onboard_time": 1730539819,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258944,
+      "num": 258944,
+      "word": "网曝中学老师被拖欠工资集体罢课",
+      "onboard_time": 1730903363,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258221,
@@ -8755,6 +8779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201005,
+      "num": 201005,
+      "word": "李现连续七年为杨紫庆生",
+      "onboard_time": 1730903781,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "上海台风",
@@ -8769,14 +8801,6 @@
       "onboard_time": 1730523198,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200847,
-      "num": 200847,
-      "word": "瑞士卷可不兴一次吃6个啊",
-      "onboard_time": 1730899461,
-      "rank": 48,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 200520,
@@ -8929,6 +8953,14 @@
       "onboard_time": 1730433619,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198023,
+      "num": 303017,
+      "word": "郑钦文又创造历史",
+      "onboard_time": 1730901924,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 197990,
@@ -9483,14 +9515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187815,
-      "num": 303017,
-      "word": "郑钦文又创造历史",
-      "onboard_time": 1730901924,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "羊绒衫为啥这么贵",
@@ -9553,6 +9577,14 @@
       "onboard_time": 1730559080,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186918,
+      "num": 186918,
+      "word": "专家说考编多数时候比996更辛苦",
+      "onboard_time": 1730901384,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 186875,
@@ -13588,7 +13620,7 @@
     },
     {
       "raw_hot": 123307,
-      "num": 164986,
+      "num": 488744,
       "word": "多方回应男子举报儿媳与干部婚外情",
       "onboard_time": 1730895261,
       "rank": 48,
@@ -17115,6 +17147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34611,
+      "num": 379358,
+      "word": "从内到外中国制造的中性笔单价不足2元",
+      "onboard_time": 1730900663,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34570,
       "num": 160426,
       "word": "美邦创始人回应开淘宝直播想当网红",
@@ -17531,6 +17571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28411,
+      "num": 516668,
+      "word": "官方回应公职人员车祸身亡正在调查",
+      "onboard_time": 1730903663,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28304,
       "num": 207144,
       "word": "去极寒旅行地穿什么",
@@ -17625,14 +17673,6 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26860,
-      "num": 379358,
-      "word": "从内到外中国制造的中性笔单价不足2元",
-      "onboard_time": 1730900663,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26769,
