@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730885996580,
+  "endTime": 1730888639027,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -841,6 +841,14 @@
       "onboard_time": 1730593217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1479444,
+      "num": 444928,
+      "word": "萝莉岛",
+      "onboard_time": 1730885783,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1475653,
@@ -2347,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720293,
+      "num": 445088,
+      "word": "赵露思馕比脸大",
+      "onboard_time": 1730886383,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 718598,
       "num": 718598,
       "word": "市委书记落马政绩工程将被拆除",
@@ -2641,6 +2657,14 @@
       "onboard_time": 1730430978,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657422,
+      "num": 444236,
+      "word": "哈里斯取消演讲计划",
+      "onboard_time": 1730882488,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 656823,
@@ -2961,14 +2985,6 @@
       "onboard_time": 1730569757,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 613463,
-      "num": 364178,
-      "word": "哈里斯取消演讲计划",
-      "onboard_time": 1730882488,
-      "rank": 20,
-      "category": "国外时政"
     },
     {
       "raw_hot": 613320,
@@ -4219,6 +4235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445310,
+      "num": 445310,
+      "word": "印度正式申办2036年奥运会",
+      "onboard_time": 1730885063,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444531,
       "num": 444531,
       "word": "潘宏爱玩狗涉嫌虐狗吗",
@@ -4233,6 +4257,14 @@
       "onboard_time": 1730462178,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 443932,
+      "num": 443932,
+      "word": "永夜星河男二",
+      "onboard_time": 1730885185,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 443382,
@@ -4433,6 +4465,14 @@
       "onboard_time": 1730506216,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424565,
+      "num": 444088,
+      "word": "陈好花少半夜独行5个小时",
+      "onboard_time": 1730883984,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 420744,
@@ -4705,14 +4745,6 @@
       "onboard_time": 1730525177,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397863,
-      "num": 354834,
-      "word": "萝莉岛",
-      "onboard_time": 1730885783,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 396148,
@@ -5011,14 +5043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 364661,
-      "num": 364661,
-      "word": "陈好花少半夜独行5个小时",
-      "onboard_time": 1730883984,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "武大博士一人拿下24万元奖学金",
@@ -5209,14 +5233,6 @@
       "onboard_time": 1730531598,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345106,
-      "num": 360446,
-      "word": "永夜星河男二",
-      "onboard_time": 1730885185,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 344508,
@@ -5467,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328450,
+      "num": 445274,
+      "word": "李行亮送麦琳锦旗",
+      "onboard_time": 1730886503,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328188,
       "num": 340957,
       "word": "神舟十八号航天员平安抵京",
@@ -5577,6 +5601,14 @@
       "onboard_time": 1730771720,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319051,
+      "num": 464248,
+      "word": "烧伤妈妈术后首次开口说话",
+      "onboard_time": 1730884283,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318429,
@@ -6515,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262005,
+      "num": 262005,
+      "word": "田嘉瑞把宋茜犹豫的都买了",
+      "onboard_time": 1730887163,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260864,
       "num": 260864,
       "word": "你养的猫在养你养的狗",
@@ -6849,6 +6889,14 @@
       "onboard_time": 1730850380,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247078,
+      "num": 247078,
+      "word": "只有虞书欣穿了古装",
+      "onboard_time": 1730886802,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 246753,
@@ -7425,14 +7473,6 @@
       "onboard_time": 1730729424,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220835,
-      "num": 464248,
-      "word": "烧伤妈妈术后首次开口说话",
-      "onboard_time": 1730884283,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220807,
@@ -8891,6 +8931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190140,
+      "num": 445011,
+      "word": "男子为让妻子后悔举报自己酒驾",
+      "onboard_time": 1730886922,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190126,
       "num": 190126,
       "word": "张远演唱会",
@@ -8937,6 +8985,14 @@
       "onboard_time": 1730383041,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189795,
+      "num": 177638,
+      "word": "印度17岁跆拳道运动员遭邻居斩首",
+      "onboard_time": 1730887882,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189783,
@@ -9521,6 +9577,14 @@
       "onboard_time": 1730689998,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178023,
+      "num": 178023,
+      "word": "王阳 帅而不油",
+      "onboard_time": 1730887403,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 177899,
@@ -10393,6 +10457,14 @@
       "onboard_time": 1730620819,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164406,
+      "num": 176531,
+      "word": "虞书欣贴脸开大丁禹兮",
+      "onboard_time": 1730888361,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 164306,
@@ -11475,6 +11547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 147168,
+      "num": 176344,
+      "word": "性别争议奥运冠军医学报告曝光",
+      "onboard_time": 1730886262,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147099,
       "num": 147099,
       "word": "权志龙Power舞蹈版",
@@ -11537,6 +11617,14 @@
       "onboard_time": 1730858298,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146405,
+      "num": 176338,
+      "word": "烤红薯",
+      "onboard_time": 1730885124,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 146212,
@@ -11652,7 +11740,7 @@
     },
     {
       "raw_hot": 144318,
-      "num": 144318,
+      "num": 175905,
       "word": "刘涛祝杨紫生日快乐破茧成蝶",
       "onboard_time": 1730885063,
       "rank": 37,
@@ -11673,14 +11761,6 @@
       "onboard_time": 1730451798,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 143577,
-      "num": 143577,
-      "word": "印度正式申办2036年奥运会",
-      "onboard_time": 1730885063,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 143349,
@@ -11905,6 +11985,14 @@
       "onboard_time": 1730502795,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140691,
+      "num": 176139,
+      "word": "ENHYPEN空降超话",
+      "onboard_time": 1730887942,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 140536,
@@ -13419,6 +13507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114903,
+      "num": 175583,
+      "word": "张拿铁禁制爸爸跟他说中文",
+      "onboard_time": 1730888242,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114826,
       "num": 114826,
       "word": "微博视界大会观众喜爱荣耀剧综人物",
@@ -13929,14 +14025,6 @@
       "onboard_time": 1730505738,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105659,
-      "num": 105659,
-      "word": "烤红薯",
-      "onboard_time": 1730885124,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 105322,
@@ -14547,6 +14635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85742,
+      "num": 174721,
+      "word": "刘德华说我们需要一点运气",
+      "onboard_time": 1730886082,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85712,
       "num": 85712,
       "word": "赵今麦报名小巷人家小饭桌",
@@ -14625,6 +14721,14 @@
       "onboard_time": 1730505375,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84034,
+      "num": 174535,
+      "word": "金价年内已超30次刷新高",
+      "onboard_time": 1730887223,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 83830,
@@ -16788,7 +16892,7 @@
     },
     {
       "raw_hot": 28304,
-      "num": 120779,
+      "num": 177649,
       "word": "去极寒旅行地穿什么",
       "onboard_time": 1730885662,
       "rank": 41,
@@ -17320,6 +17424,14 @@
       "word": "山东兰陵铁矿事故仍有4人被困",
       "onboard_time": 1730568376,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21843,
+      "num": 444406,
+      "word": "城市建设不能搞政绩工程",
+      "onboard_time": 1730887522,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

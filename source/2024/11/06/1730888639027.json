@@ -1,0 +1,410 @@
+{
+  "runTime": 1730888639027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14939635,
+        "num": 14939635,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1323162,
+        "num": 1323162,
+        "word": "金价",
+        "onboard_time": 1730879910,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23358,
+        "num": 742814,
+        "word": "60秒探访进博会中国馆",
+        "onboard_time": 1730885485,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634933,
+        "num": 634933,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1730878833,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 496980,
+        "num": 496980,
+        "word": "永夜星河直播",
+        "onboard_time": 1730881706,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3719394,
+        "num": 491429,
+        "word": "哈里斯未承认败选",
+        "onboard_time": 1730882425,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 445310,
+        "num": 445310,
+        "word": "印度正式申办2036年奥运会",
+        "onboard_time": 1730885063,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328450,
+        "num": 445274,
+        "word": "李行亮送麦琳锦旗",
+        "onboard_time": 1730886503,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720293,
+        "num": 445088,
+        "word": "赵露思馕比脸大",
+        "onboard_time": 1730886383,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190140,
+        "num": 445011,
+        "word": "男子为让妻子后悔举报自己酒驾",
+        "onboard_time": 1730886922,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479444,
+        "num": 444928,
+        "word": "萝莉岛",
+        "onboard_time": 1730885783,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1407090,
+        "num": 444694,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 803265,
+        "num": 444583,
+        "word": "美国大选美民众疯狂囤枪",
+        "onboard_time": 1730863282,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 679753,
+        "num": 444441,
+        "word": "陈好 恶意剪辑",
+        "onboard_time": 1730880209,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21843,
+        "num": 444406,
+        "word": "城市建设不能搞政绩工程",
+        "onboard_time": 1730887522,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657422,
+        "num": 444236,
+        "word": "哈里斯取消演讲计划",
+        "onboard_time": 1730882488,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 424565,
+        "num": 444088,
+        "word": "陈好花少半夜独行5个小时",
+        "onboard_time": 1730883984,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487126,
+        "num": 443963,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 443932,
+        "num": 443932,
+        "word": "永夜星河男二",
+        "onboard_time": 1730885185,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462806,
+        "num": 441998,
+        "word": "泽连斯基",
+        "onboard_time": 1730878233,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 439864,
+        "num": 439864,
+        "word": "丁禹兮收拾收拾准备升咖",
+        "onboard_time": 1730869226,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326060,
+        "num": 326060,
+        "word": "特朗普胜选演讲",
+        "onboard_time": 1730885185,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319051,
+        "num": 319051,
+        "word": "烧伤妈妈术后首次开口说话",
+        "onboard_time": 1730884283,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267931,
+        "num": 267931,
+        "word": "永夜星河",
+        "onboard_time": 1730884883,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276482,
+        "num": 265152,
+        "word": "所有男明星都看过来",
+        "onboard_time": 1730875766,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262005,
+        "num": 262005,
+        "word": "田嘉瑞把宋茜犹豫的都买了",
+        "onboard_time": 1730887163,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247078,
+        "num": 247078,
+        "word": "只有虞书欣穿了古装",
+        "onboard_time": 1730886802,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203300,
+        "num": 203300,
+        "word": "特斯拉",
+        "onboard_time": 1730878472,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178023,
+        "num": 178023,
+        "word": "王阳 帅而不油",
+        "onboard_time": 1730887403,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24910,
+        "num": 177649,
+        "word": "去极寒旅行地穿什么",
+        "onboard_time": 1730885662,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 189795,
+        "num": 177638,
+        "word": "印度17岁跆拳道运动员遭邻居斩首",
+        "onboard_time": 1730887882,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177615,
+        "num": 177615,
+        "word": "中方对美国政策一以贯之",
+        "onboard_time": 1730881893,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176605,
+        "num": 176605,
+        "word": "哀牢山 玉溪",
+        "onboard_time": 1730884283,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164406,
+        "num": 176531,
+        "word": "虞书欣贴脸开大丁禹兮",
+        "onboard_time": 1730888361,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147168,
+        "num": 176344,
+        "word": "性别争议奥运冠军医学报告曝光",
+        "onboard_time": 1730886262,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146405,
+        "num": 176338,
+        "word": "烤红薯",
+        "onboard_time": 1730885124,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140691,
+        "num": 176139,
+        "word": "ENHYPEN空降超话",
+        "onboard_time": 1730887942,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138293,
+        "num": 176077,
+        "word": "肖战意大利被偶遇",
+        "onboard_time": 1730874324,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132058,
+        "num": 175905,
+        "word": "刘涛祝杨紫生日快乐破茧成蝶",
+        "onboard_time": 1730885063,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124265,
+        "num": 175710,
+        "word": "广东湛江一垃圾桶旁发现男婴",
+        "onboard_time": 1730881048,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114903,
+        "num": 175583,
+        "word": "张拿铁禁制爸爸跟他说中文",
+        "onboard_time": 1730888242,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113472,
+        "num": 175535,
+        "word": "李兰迪否认喝酒多",
+        "onboard_time": 1730879132,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112939,
+        "num": 175325,
+        "word": "柳州女子系酒后呕吐朋友搀扶",
+        "onboard_time": 1730869045,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126162,
+        "num": 175234,
+        "word": "腾讯视频给杨紫做的生贺视频",
+        "onboard_time": 1730885723,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95077,
+        "num": 175140,
+        "word": "花儿与中年",
+        "onboard_time": 1730871563,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91998,
+        "num": 175002,
+        "word": "外交部称尊重美国人民的选择",
+        "onboard_time": 1730880269,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 86535,
+        "num": 174858,
+        "word": "黄金",
+        "onboard_time": 1730876918,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 174721,
+        "word": "刘德华说我们需要一点运气",
+        "onboard_time": 1730886082,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84034,
+        "num": 174535,
+        "word": "金价年内已超30次刷新高",
+        "onboard_time": 1730887223,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82841,
+        "num": 174447,
+        "word": "大侦探团综 群像",
+        "onboard_time": 1730873364,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对社会工作作出重要指示#"
+    }
+  }
+}
