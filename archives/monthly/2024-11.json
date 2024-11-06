@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730913588774,
+  "endTime": 1730914716470,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -11851,6 +11851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153221,
+      "num": 153221,
+      "word": "雇主坐牢失联月嫂抚养女婴3年",
+      "onboard_time": 1730909779,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153169,
       "num": 153169,
       "word": "网红吴迪发文说再见",
@@ -12985,14 +12993,6 @@
       "onboard_time": 1730762296,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135363,
-      "num": 135363,
-      "word": "雇主坐牢失联月嫂抚养女婴3年",
-      "onboard_time": 1730909779,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135361,
@@ -16227,6 +16227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56823,
+      "num": 132592,
+      "word": "初中生被收手机欲跳楼老师一把拉回",
+      "onboard_time": 1730913494,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56780,
       "num": 56780,
       "word": "英雄联盟S14",
@@ -16417,6 +16425,14 @@
       "onboard_time": 1730729303,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51737,
+      "num": 51737,
+      "word": "美国可能面临五大变化",
+      "onboard_time": 1730914094,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 51592,
@@ -16617,6 +16633,14 @@
       "onboard_time": 1730504117,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47540,
+      "num": 52754,
+      "word": "郑钦文小组第二出线",
+      "onboard_time": 1730913555,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47277,
@@ -16883,14 +16907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42209,
-      "num": 52754,
-      "word": "郑钦文小组第二出线",
-      "onboard_time": 1730913555,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42182,
       "num": 411264,
       "word": "安可拉红 出圈",
@@ -17121,14 +17137,6 @@
       "onboard_time": 1730870124,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 38604,
-      "num": 97285,
-      "word": "初中生被收手机欲跳楼老师一把拉回",
-      "onboard_time": 1730913494,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38547,
@@ -18272,6 +18280,14 @@
       "word": "大学生的开封PassionRide",
       "onboard_time": 1730834532,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22935,
+      "num": 66069,
+      "word": "女子生命只剩仨月当志愿者10年后康复",
+      "onboard_time": 1730914693,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
