@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730885160354,
+  "endTime": 1730885996580,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1426631,
+      "num": 1426631,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1421654,
       "num": 422655,
       "word": "吴露可逃",
@@ -769,14 +777,6 @@
       "onboard_time": 1730779821,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1314126,
-      "num": 1314126,
-      "word": "金价",
-      "onboard_time": 1730879910,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 1303762,
@@ -2340,7 +2340,7 @@
     },
     {
       "raw_hot": 570941,
-      "num": 299352,
+      "num": 359025,
       "word": "60秒看美国总统选举制度",
       "onboard_time": 1730884343,
       "rank": 22,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1730727620,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511507,
+      "num": 362573,
+      "word": "特朗普胜选演讲",
+      "onboard_time": 1730885185,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 507191,
@@ -3267,6 +3275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 397863,
+      "num": 354834,
+      "word": "萝莉岛",
+      "onboard_time": 1730885783,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 390838,
       "num": 390838,
       "word": "乔任梁",
@@ -3419,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364661,
+      "num": 364661,
+      "word": "陈好花少半夜独行5个小时",
+      "onboard_time": 1730883984,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362779,
       "num": 362779,
       "word": "美国女子带两娃跳下60米高瀑布",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1730731642,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 345106,
+      "num": 360446,
+      "word": "永夜星河男二",
+      "onboard_time": 1730885185,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 344508,
@@ -3761,14 +3793,6 @@
       "onboard_time": 1730868806,
       "rank": 28,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 324986,
-      "num": 324986,
-      "word": "陈好花少半夜独行5个小时",
-      "onboard_time": 1730883984,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 323948,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1730856022,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264703,
+      "num": 264703,
+      "word": "哀牢山 玉溪",
+      "onboard_time": 1730884283,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263559,
@@ -5059,14 +5091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221247,
-      "num": 221247,
-      "word": "哀牢山 玉溪",
-      "onboard_time": 1730884283,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "猎罪图鉴官微打假",
@@ -5081,6 +5105,14 @@
       "onboard_time": 1730729424,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220835,
+      "num": 464248,
+      "word": "烧伤妈妈术后首次开口说话",
+      "onboard_time": 1730884283,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220569,
@@ -5153,14 +5185,6 @@
       "onboard_time": 1730684838,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 216636,
-      "num": 464248,
-      "word": "烧伤妈妈术后首次开口说话",
-      "onboard_time": 1730884283,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215980,
@@ -6827,6 +6851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172424,
+      "num": 215497,
+      "word": "腾讯视频给杨紫做的生贺视频",
+      "onboard_time": 1730885723,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172189,
       "num": 172189,
       "word": "如鸢",
@@ -6881,6 +6913,14 @@
       "onboard_time": 1730807242,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170791,
+      "num": 212391,
+      "word": "小小的我东京电影节观众选择奖",
+      "onboard_time": 1730884944,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 170784,
@@ -7907,6 +7947,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 144318,
+      "num": 144318,
+      "word": "刘涛祝杨紫生日快乐破茧成蝶",
+      "onboard_time": 1730885063,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143577,
+      "num": 143577,
+      "word": "印度正式申办2036年奥运会",
+      "onboard_time": 1730885063,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143349,
       "num": 143349,
       "word": "京城大师赛",
@@ -8171,14 +8227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137506,
-      "num": 137506,
-      "word": "刘涛祝杨紫生日快乐破茧成蝶",
-      "onboard_time": 1730885063,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137115,
       "num": 268654,
       "word": "副局长推介大米英语东北话无缝切换",
@@ -8408,6 +8456,14 @@
       "word": "kpop年末狂欢解冻计划",
       "onboard_time": 1730715800,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 129497,
+      "num": 129497,
+      "word": "周深首支西语歌",
+      "onboard_time": 1730885602,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -8867,14 +8923,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 117926,
-      "num": 117926,
-      "word": "印度正式申办2036年奥运会",
-      "onboard_time": 1730885063,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117756,
       "num": 459152,
       "word": "李嘉琦在家电采销直播间疯狂下单",
@@ -8913,6 +8961,14 @@
       "onboard_time": 1730626937,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116863,
+      "num": 116863,
+      "word": "端午燕子京梦回皓嫣",
+      "onboard_time": 1730885783,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 116832,
@@ -9027,14 +9083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113011,
-      "num": 113011,
-      "word": "小小的我东京电影节观众选择奖",
-      "onboard_time": 1730884944,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112938,
       "num": 112938,
       "word": "陶昕然新片造型",
@@ -9065,6 +9113,14 @@
       "onboard_time": 1730677518,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111787,
+      "num": 315697,
+      "word": "鹅腿阿姨只想静静烤鹅腿",
+      "onboard_time": 1730883804,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111630,
@@ -9187,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108611,
+      "num": 108611,
+      "word": "王鹤棣末世废土风",
+      "onboard_time": 1730885962,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 107878,
       "num": 107878,
       "word": "任天堂新机兼容Switch游戏",
@@ -9265,6 +9329,14 @@
       "onboard_time": 1730810182,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104264,
+      "num": 104264,
+      "word": "徐嘉余晒游泳队团建照",
+      "onboard_time": 1730885602,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104183,
@@ -9627,6 +9699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80680,
+      "num": 358955,
+      "word": "考研禁用海马体防范失真有必要",
+      "onboard_time": 1730883924,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80321,
       "num": 118457,
       "word": "黄雨婷又发旅行明信片了",
@@ -9652,7 +9732,7 @@
     },
     {
       "raw_hot": 78948,
-      "num": 335898,
+      "num": 370469,
       "word": "小鹏发布鲲鹏超级电动",
       "onboard_time": 1730882127,
       "rank": 37,
@@ -9873,14 +9953,6 @@
       "onboard_time": 1730881407,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65112,
-      "num": 315697,
-      "word": "鹅腿阿姨只想静静烤鹅腿",
-      "onboard_time": 1730883804,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65072,
@@ -10315,14 +10387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45777,
-      "num": 358955,
-      "word": "考研禁用海马体防范失真有必要",
-      "onboard_time": 1730883924,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45103,
       "num": 231808,
       "word": "女理发师因听得懂话爆火",
@@ -10401,6 +10465,14 @@
       "onboard_time": 1730876738,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 41907,
+      "num": 206792,
+      "word": "凌妙妙记者发布会",
+      "onboard_time": 1730884645,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 41884,
@@ -10489,6 +10561,14 @@
       "onboard_time": 1730640439,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38644,
+      "num": 205355,
+      "word": "李若彤叫李雯雯金牌侄女",
+      "onboard_time": 1730885302,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 38628,
@@ -10891,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28304,
+      "num": 120779,
+      "word": "去极寒旅行地穿什么",
+      "onboard_time": 1730885662,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28212,
       "num": 343392,
       "word": "危机关头你相信智驾吗",
@@ -10969,6 +11057,14 @@
       "onboard_time": 1730864003,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 26095,
+      "num": 1394115,
+      "word": "60秒探访进博会中国馆",
+      "onboard_time": 1730885485,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25838,
@@ -11905,6 +12001,9 @@
     },
     {
       "word": "#习近平总书记和湖北的故事#"
+    },
+    {
+      "word": "#习近平对社会工作作出重要指示#"
     }
   ]
 }
