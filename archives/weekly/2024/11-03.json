@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730857209506,
+  "endTime": 1730858216956,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8211188,
+      "num": 1031217,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 7678975,
       "num": 8928975,
       "word": "2024美国大选选举日投票正式开始",
       "onboard_time": 1730783841,
       "rank": 12,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 4887373,
-      "num": 1031217,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 10,
       "category": "国外时政"
     },
     {
@@ -2723,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407702,
+      "num": 627792,
+      "word": "女子24小时内接受6个整容手术后死亡",
+      "onboard_time": 1730855662,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406203,
       "num": 536410,
       "word": "美国大选已花费14700000000美元",
@@ -2931,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362382,
+      "num": 553981,
+      "word": "美国有计票点屋顶安排狙击手",
+      "onboard_time": 1730856080,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 361964,
       "num": 361964,
       "word": "王承渲回应被暂停工作",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1730731642,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 344944,
-      "num": 627792,
-      "word": "女子24小时内接受6个整容手术后死亡",
-      "onboard_time": 1730855662,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344508,
@@ -3403,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302157,
+      "num": 302157,
+      "word": "玉溪 圣猴",
+      "onboard_time": 1730856443,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299831,
       "num": 299831,
       "word": "媒体评郑钦文说别喊了",
@@ -3513,6 +3529,14 @@
       "onboard_time": 1730759354,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288685,
+      "num": 288685,
+      "word": "何炅逐句为吴昕分析主持问题",
+      "onboard_time": 1730857700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 287287,
@@ -4019,6 +4043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243481,
+      "num": 553422,
+      "word": "24万买的国企工作有合同没入职时间",
+      "onboard_time": 1730855542,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243296,
       "num": 339415,
       "word": "白鹿郑书意",
@@ -4064,14 +4096,6 @@
       "word": "数学竞赛违规学生百科介绍被多平台删除",
       "onboard_time": 1730614818,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240104,
-      "num": 240104,
-      "word": "24万买的国企工作有合同没入职时间",
-      "onboard_time": 1730855542,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4363,6 +4387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220204,
+      "num": 220204,
+      "word": "3人参与刺杀伊朗核科学家被判死刑",
+      "onboard_time": 1730854403,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "我家那小子",
@@ -4611,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207762,
+      "num": 506754,
+      "word": "美国大选多个投票站遭炸弹威胁",
+      "onboard_time": 1730856141,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 207488,
       "num": 207488,
       "word": "婉宁公主的仇被沈言报了",
@@ -4689,14 +4729,6 @@
       "onboard_time": 1730732960,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205974,
-      "num": 242189,
-      "word": "玉溪 圣猴",
-      "onboard_time": 1730856443,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 205518,
@@ -4817,14 +4849,6 @@
       "onboard_time": 1730602700,
       "rank": 30,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 203956,
-      "num": 203956,
-      "word": "3人参与刺杀伊朗核科学家被判死刑",
-      "onboard_time": 1730854403,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 202938,
@@ -5113,14 +5137,6 @@
       "onboard_time": 1730560404,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195693,
-      "num": 553981,
-      "word": "美国有计票点屋顶安排狙击手",
-      "onboard_time": 1730856080,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195533,
@@ -5891,6 +5907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173096,
+      "num": 171728,
+      "word": "中传考研禁用海马体照片截图存疑",
+      "onboard_time": 1730855002,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 172711,
       "num": 172711,
       "word": "Keria 明年中国见",
@@ -6419,6 +6443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159910,
+      "num": 159910,
+      "word": "刘亦菲佟大为合照 张新成偷偷比耶",
+      "onboard_time": 1730814084,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159512,
       "num": 159512,
       "word": "永夜星河原著  慕声强制爱",
@@ -6681,6 +6713,14 @@
       "onboard_time": 1730801061,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150207,
+      "num": 150207,
+      "word": "降温天怎么保暖才不臃肿",
+      "onboard_time": 1730857700,
+      "rank": 37,
+      "category": "运动健身,时尚"
     },
     {
       "raw_hot": 150132,
@@ -7195,14 +7235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134649,
-      "num": 506754,
-      "word": "美国大选多个投票站遭炸弹威胁",
-      "onboard_time": 1730856141,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134621,
       "num": 134621,
       "word": "税务师实务",
@@ -7259,6 +7291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133384,
+      "num": 133384,
+      "word": "吴京晒照为谢楠庆生",
+      "onboard_time": 1730858001,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132231,
       "num": 132231,
       "word": "广东女子吃羊胎盘引发严重脊柱炎",
@@ -7281,14 +7321,6 @@
       "onboard_time": 1730640920,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131633,
-      "num": 131633,
-      "word": "刘亦菲佟大为合照 张新成偷偷比耶",
-      "onboard_time": 1730814084,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 131538,
@@ -7353,6 +7385,14 @@
       "onboard_time": 1730715800,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129403,
+      "num": 129403,
+      "word": "付航红毯再现passion",
+      "onboard_time": 1730855123,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128779,
@@ -7875,14 +7915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 114345,
-      "num": 114345,
-      "word": "中传考研禁用海马体照片截图存疑",
-      "onboard_time": 1730855002,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 113245,
       "num": 152037,
       "word": "柳州女子喝醉被强暴为不实信息",
@@ -7939,20 +7971,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111072,
+      "num": 111072,
+      "word": "萨巴伦卡年终世界第一",
+      "onboard_time": 1730857821,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110858,
       "num": 110858,
       "word": "WTT中国大满贯女单决赛刷新收视纪录",
       "onboard_time": 1730804960,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110582,
-      "num": 110582,
-      "word": "付航红毯再现passion",
-      "onboard_time": 1730855123,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 110154,
@@ -10353,6 +10385,14 @@
       "onboard_time": 1730729124,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6885,
+      "num": 172918,
+      "word": "特朗普赢得佛州全部选举人票",
+      "onboard_time": 1730858122,
+      "rank": 29,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 09:40:09
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 09:56:56
 </p>
 </blockquote>
 <p>
@@ -1659,6 +1659,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
+美国大选（热度：8211188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E9%91%AB%E5%AE%87%E5%8F%91%E5%A3%B0%23" target="weibo">
 柳鑫宇发声（热度：8192850）
 </a>
@@ -1805,12 +1811,6 @@ BLG对战T1（热度：7849827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23" target="weibo">
 陈梦哭了（热度：7824345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9E%97%E5%8F%97%E4%BC%A4%23" target="weibo">
-马林受伤（热度：7817643）
 </a>
 </li>
 

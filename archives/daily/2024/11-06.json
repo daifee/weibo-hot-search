@@ -1,7 +1,15 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730857209506,
+  "endTime": 1730858216956,
   "band_list": [
+    {
+      "raw_hot": 8211188,
+      "num": 729375,
+      "word": "美国大选",
+      "onboard_time": 1730795600,
+      "rank": 5,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 5628913,
       "num": 5628913,
@@ -9,14 +17,6 @@
       "onboard_time": 1730814262,
       "rank": 0,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 4887373,
-      "num": 729375,
-      "word": "美国大选",
-      "onboard_time": 1730795600,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 4088460,
@@ -187,6 +187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 407702,
+      "num": 627792,
+      "word": "女子24小时内接受6个整容手术后死亡",
+      "onboard_time": 1730855662,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395990,
       "num": 395990,
       "word": "警方通报网传柳州女子喝醉被强暴",
@@ -203,20 +211,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362382,
+      "num": 553981,
+      "word": "美国有计票点屋顶安排狙击手",
+      "onboard_time": 1730856080,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 357190,
       "num": 641537,
       "word": "虞书欣演技",
       "onboard_time": 1730852723,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344944,
-      "num": 627792,
-      "word": "女子24小时内接受6个整容手术后死亡",
-      "onboard_time": 1730855662,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339659,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302157,
+      "num": 302157,
+      "word": "玉溪 圣猴",
+      "onboard_time": 1730856443,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295222,
       "num": 295222,
       "word": "美国两州率先结束大选投票",
@@ -273,6 +289,14 @@
       "onboard_time": 1730803641,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288685,
+      "num": 288685,
+      "word": "何炅逐句为吴昕分析主持问题",
+      "onboard_time": 1730857700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 275476,
@@ -315,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243481,
+      "num": 553422,
+      "word": "24万买的国企工作有合同没入职时间",
+      "onboard_time": 1730855542,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240229,
       "num": 521189,
       "word": "林依晨言承旭新剧预告",
       "onboard_time": 1730850200,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240104,
-      "num": 240104,
-      "word": "24万买的国企工作有合同没入职时间",
-      "onboard_time": 1730855542,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236799,
@@ -355,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220204,
+      "num": 220204,
+      "word": "3人参与刺杀伊朗核科学家被判死刑",
+      "onboard_time": 1730854403,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 208544,
       "num": 168646,
       "word": "虞书欣第一个男主角也来打call了",
@@ -363,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205974,
-      "num": 242189,
-      "word": "玉溪 圣猴",
-      "onboard_time": 1730856443,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 207762,
+      "num": 506754,
+      "word": "美国大选多个投票站遭炸弹威胁",
+      "onboard_time": 1730856141,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 205513,
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203956,
-      "num": 203956,
-      "word": "3人参与刺杀伊朗核科学家被判死刑",
-      "onboard_time": 1730854403,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 197303,
       "num": 403295,
       "word": "海马体称若因照片不能报考可退款",
@@ -395,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195693,
-      "num": 553981,
-      "word": "美国有计票点屋顶安排狙击手",
-      "onboard_time": 1730856080,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 194547,
       "num": 194547,
       "word": "忽然明白少年夫妻老来伴的含义",
       "onboard_time": 1730810421,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192469,
+      "num": 240583,
+      "word": "月光变奏曲",
+      "onboard_time": 1730852602,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 187293,
@@ -467,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173096,
+      "num": 171728,
+      "word": "中传考研禁用海马体照片截图存疑",
+      "onboard_time": 1730855002,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169239,
       "num": 169239,
       "word": "湖南发型师晓华为什么火了",
@@ -499,11 +531,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159563,
-      "num": 240583,
-      "word": "月光变奏曲",
-      "onboard_time": 1730852602,
-      "rank": 29,
+      "raw_hot": 159910,
+      "num": 159910,
+      "word": "刘亦菲佟大为合照 张新成偷偷比耶",
+      "onboard_time": 1730814084,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -513,6 +545,14 @@
       "onboard_time": 1730806160,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 150207,
+      "num": 150207,
+      "word": "降温天怎么保暖才不臃肿",
+      "onboard_time": 1730857700,
+      "rank": 37,
+      "category": "运动健身,时尚"
     },
     {
       "raw_hot": 147799,
@@ -531,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134649,
-      "num": 506754,
-      "word": "美国大选多个投票站遭炸弹威胁",
-      "onboard_time": 1730856141,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 134346,
       "num": 134346,
       "word": "母女起争执女儿怒砸太古里一专卖店",
@@ -553,6 +585,14 @@
       "onboard_time": 1730822061,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133384,
+      "num": 133384,
+      "word": "吴京晒照为谢楠庆生",
+      "onboard_time": 1730858001,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 133024,
@@ -571,11 +611,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131633,
-      "num": 131633,
-      "word": "刘亦菲佟大为合照 张新成偷偷比耶",
-      "onboard_time": 1730814084,
-      "rank": 40,
+      "raw_hot": 129403,
+      "num": 129403,
+      "word": "付航红毯再现passion",
+      "onboard_time": 1730855123,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -627,14 +667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114345,
-      "num": 114345,
-      "word": "中传考研禁用海马体照片截图存疑",
-      "onboard_time": 1730855002,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 113909,
       "num": 113909,
       "word": "当消除编制带来的溢价",
@@ -651,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110582,
-      "num": 110582,
-      "word": "付航红毯再现passion",
-      "onboard_time": 1730855123,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 111072,
+      "num": 111072,
+      "word": "萨巴伦卡年终世界第一",
+      "onboard_time": 1730857821,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 110154,
@@ -977,6 +1009,14 @@
       "onboard_time": 1730838131,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6885,
+      "num": 172918,
+      "word": "特朗普赢得佛州全部选举人票",
+      "onboard_time": 1730858122,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 5900,
