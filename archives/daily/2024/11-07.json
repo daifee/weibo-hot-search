@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730924627016,
+  "endTime": 1730925444217,
   "band_list": [
     {
       "raw_hot": 1286393,
@@ -443,8 +443,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 59691,
-      "num": 59691,
+      "raw_hot": 63249,
+      "num": 63249,
       "word": "王楚钦0比3卡尔伯格",
       "onboard_time": 1730920391,
       "rank": 26,
@@ -483,15 +483,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30100,
-      "num": 84363,
-      "word": "7类食材自带有害物质",
+      "raw_hot": 32199,
+      "num": 48280,
+      "word": "医生提醒瑞士卷不可吃多",
       "onboard_time": 1730920211,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 29731,
+      "raw_hot": 30147,
       "num": 29731,
       "word": "特朗普称取得了不可思议的政治成就",
       "onboard_time": 1730920751,
@@ -499,12 +499,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 28782,
-      "num": 48280,
-      "word": "医生提醒瑞士卷不可吃多",
+      "raw_hot": 30100,
+      "num": 84363,
+      "word": "7类食材自带有害物质",
       "onboard_time": 1730920211,
-      "rank": 19,
-      "category": "社会新闻"
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 28115,
@@ -521,6 +521,14 @@
       "onboard_time": 1730922192,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26992,
+      "num": 25299,
+      "word": "超七成美国人不满国家走向",
+      "onboard_time": 1730923991,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25436,
@@ -555,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21024,
-      "num": 20660,
-      "word": "超七成美国人不满国家走向",
-      "onboard_time": 1730923991,
-      "rank": 40,
-      "category": "国外时政"
+      "raw_hot": 22182,
+      "num": 43174,
+      "word": "杨妞花说如果是炒作要炒得天下无拐",
+      "onboard_time": 1730923452,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19017,
@@ -571,15 +579,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 14378,
-      "num": 38132,
-      "word": "杨妞花说如果是炒作要炒得天下无拐",
-      "onboard_time": 1730923452,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12849,
+      "raw_hot": 12891,
       "num": 35424,
       "word": "辽宁大连海域一渔船翻扣9人失踪",
       "onboard_time": 1730919791,
