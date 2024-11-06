@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730861963586,
+  "endTime": 1730863532744,
   "band_list": [
     {
       "raw_hot": 8211188,
@@ -24,6 +24,14 @@
       "word": "特朗普拿下西弗吉尼亚州",
       "onboard_time": 1730854403,
       "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2505666,
+      "num": 490242,
+      "word": "特朗普赢得佛州全部选举人票",
+      "onboard_time": 1730858122,
+      "rank": 29,
       "category": "国外时政"
     },
     {
@@ -59,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1321284,
+      "num": 1321284,
+      "word": "先交20万元再实习1年就能转正吗",
+      "onboard_time": 1730858962,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1303762,
       "num": 1303762,
       "word": "海马体创始人发声",
       "onboard_time": 1730850079,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1294884,
+      "num": 412850,
+      "word": "美35个州和华盛顿特区结束大选投票",
+      "onboard_time": 1730859201,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 938989,
@@ -81,14 +105,6 @@
       "onboard_time": 1730814503,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 858293,
-      "num": 490242,
-      "word": "特朗普赢得佛州全部选举人票",
-      "onboard_time": 1730858122,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 850917,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689883,
+      "num": 689883,
+      "word": "玉溪 圣猴",
+      "onboard_time": 1730856443,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652210,
       "num": 652210,
       "word": "所谓饭圈大粉不到一年骗350多万元",
@@ -137,6 +161,14 @@
       "onboard_time": 1730855542,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638636,
+      "num": 484945,
+      "word": "特朗普暂时领先哈里斯",
+      "onboard_time": 1730861601,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 627586,
@@ -187,28 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506001,
-      "num": 506001,
-      "word": "先交20万元再实习1年就能转正吗",
-      "onboard_time": 1730858962,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 504081,
       "num": 504081,
       "word": "美国威斯康星州一地将重新计票",
       "onboard_time": 1730852183,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 487484,
-      "num": 503624,
-      "word": "玉溪 圣猴",
-      "onboard_time": 1730856443,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 433269,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413300,
+      "num": 428068,
+      "word": "黑粉攻略手册",
+      "onboard_time": 1730859141,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411753,
       "num": 411753,
       "word": "骗子给求职毕业生组织假笔试",
@@ -275,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373421,
+      "num": 373421,
+      "word": "网红夫妇被传患病多家饭店砸餐具",
+      "onboard_time": 1730860221,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357190,
       "num": 641537,
       "word": "虞书欣演技",
@@ -283,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341023,
-      "num": 428068,
-      "word": "黑粉攻略手册",
-      "onboard_time": 1730859141,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 349691,
+      "num": 349691,
+      "word": "Uzi回应G2邀请",
+      "onboard_time": 1730861481,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 339659,
@@ -339,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297139,
-      "num": 297139,
-      "word": "Uzi回应G2邀请",
-      "onboard_time": 1730861481,
-      "rank": 23,
-      "category": "电竞"
+      "raw_hot": 296553,
+      "num": 296553,
+      "word": "吴京晒照为谢楠庆生",
+      "onboard_time": 1730858001,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 295222,
@@ -379,14 +411,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 270988,
-      "num": 270988,
-      "word": "网红夫妇被传患病多家饭店砸餐具",
-      "onboard_time": 1730860221,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264977,
       "num": 264977,
       "word": "周润发刘嘉玲权志龙合照",
@@ -403,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260433,
-      "num": 260433,
-      "word": "吴京晒照为谢楠庆生",
-      "onboard_time": 1730858001,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 248500,
+      "num": 293859,
+      "word": "任敏说嗑到了赵露思刘宇宁",
+      "onboard_time": 1730862923,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 247109,
@@ -451,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222975,
+      "num": 222975,
+      "word": "A股",
+      "onboard_time": 1730862682,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 221232,
       "num": 274579,
       "word": "陈雪凝回应抄袭汪苏泷",
@@ -465,6 +497,14 @@
       "onboard_time": 1730854403,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 211577,
+      "num": 211577,
+      "word": "鲜橙脆皮五花肉",
+      "onboard_time": 1730860461,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 208544,
@@ -571,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175007,
-      "num": 175007,
-      "word": "鲜橙脆皮五花肉",
-      "onboard_time": 1730860461,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 173435,
       "num": 249365,
       "word": "权志龙说不要再少人了",
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146482,
+      "num": 224130,
+      "word": "怪奇物语日",
+      "onboard_time": 1730858298,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146166,
       "num": 146166,
       "word": "向佐郭碧婷 再见爱人",
@@ -723,12 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126244,
-      "num": 152829,
-      "word": "怪奇物语日",
-      "onboard_time": 1730858298,
-      "rank": 37,
+      "raw_hot": 128505,
+      "num": 128505,
+      "word": "丁禹兮壁纸",
+      "onboard_time": 1730862864,
+      "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124912,
+      "num": 268654,
+      "word": "副局长推介大米英语东北话无缝切换",
+      "onboard_time": 1730859740,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124053,
@@ -744,14 +792,6 @@
       "word": "警方将排查网传女子路边被强暴事件",
       "onboard_time": 1730796262,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119449,
-      "num": 268654,
-      "word": "副局长推介大米英语东北话无缝切换",
-      "onboard_time": 1730859740,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -811,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113023,
+      "num": 113023,
+      "word": "左航贝雷帽",
+      "onboard_time": 1730863044,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111072,
       "num": 111072,
       "word": "萨巴伦卡年终世界第一",
@@ -843,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106605,
-      "num": 484945,
-      "word": "特朗普暂时领先哈里斯",
-      "onboard_time": 1730861601,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 107878,
+      "num": 107878,
+      "word": "任天堂新机兼容Switch游戏",
+      "onboard_time": 1730863462,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 105322,
@@ -931,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86729,
+      "num": 499687,
+      "word": "小学生用栓字造词竟写出栓Q",
+      "onboard_time": 1730861842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83772,
       "num": 83772,
       "word": "清华大学发了凌妙妙转场",
@@ -953,6 +1009,22 @@
       "onboard_time": 1730824398,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82091,
+      "num": 418071,
+      "word": "货车撞上劳斯莱斯定损可能超300万",
+      "onboard_time": 1730862322,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80321,
+      "num": 118457,
+      "word": "黄雨婷又发旅行明信片了",
+      "onboard_time": 1730862322,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 77641,
@@ -1011,11 +1083,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42287,
-      "num": 499687,
-      "word": "小学生用栓字造词竟写出栓Q",
-      "onboard_time": 1730861842,
-      "rank": 9,
+      "raw_hot": 48584,
+      "num": 458054,
+      "word": "美选民担忧选举结果引发暴力事件",
+      "onboard_time": 1730863103,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 43810,
+      "num": 411014,
+      "word": "医保催缴不能与学生受教育权挂钩",
+      "onboard_time": 1730862322,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21071,
+      "num": 289293,
+      "word": "美国大选美民众疯狂囤枪",
+      "onboard_time": 1730863282,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 21018,
       "num": 28047,
       "word": "我的抽象视界",
@@ -1169,6 +1257,9 @@
     },
     {
       "word": "#努力建设一支强大的现代化空降兵部队#"
+    },
+    {
+      "word": "#习近平总书记和湖北的故事#"
     }
   ]
 }
