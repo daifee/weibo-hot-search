@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730888639027,
+  "endTime": 1730889704636,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -177,6 +177,14 @@
       "onboard_time": 1730572162,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3248505,
+      "num": 444928,
+      "word": "萝莉岛",
+      "onboard_time": 1730885783,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 3184896,
@@ -625,14 +633,6 @@
       "onboard_time": 1730593217,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1479444,
-      "num": 444928,
-      "word": "萝莉岛",
-      "onboard_time": 1730885783,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1469766,
@@ -1659,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733822,
+      "num": 445088,
+      "word": "赵露思馕比脸大",
+      "onboard_time": 1730886383,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 731033,
       "num": 731033,
       "word": "虞书欣身后是109个婧妹",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1730798662,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 720293,
-      "num": 445088,
-      "word": "赵露思馕比脸大",
-      "onboard_time": 1730886383,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 718598,
@@ -2595,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 520219,
+      "num": 520219,
+      "word": "印度正式申办2036年奥运会",
+      "onboard_time": 1730885063,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 519602,
       "num": 447515,
       "word": "山西七里峪风景区惊现干尸",
@@ -2665,6 +2673,14 @@
       "onboard_time": 1730773219,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507189,
+      "num": 444088,
+      "word": "陈好花少半夜独行5个小时",
+      "onboard_time": 1730883984,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 504081,
@@ -2947,14 +2963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445310,
-      "num": 445310,
-      "word": "印度正式申办2036年奥运会",
-      "onboard_time": 1730885063,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443932,
       "num": 443932,
       "word": "永夜星河男二",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1730858661,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 424565,
-      "num": 444088,
-      "word": "陈好花少半夜独行5个小时",
-      "onboard_time": 1730883984,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 420744,
@@ -3403,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 375817,
+      "num": 295166,
+      "word": "印度17岁跆拳道运动员遭邻居斩首",
+      "onboard_time": 1730887882,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373838,
       "num": 373838,
       "word": "爱侧睡的可以今晚试试这个姿势",
@@ -3635,6 +3643,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 341219,
+      "num": 445011,
+      "word": "男子为让妻子后悔举报自己酒驾",
+      "onboard_time": 1730886922,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341116,
       "num": 370379,
       "word": "永夜星河珠帘玉幕昨日云合",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1730790680,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337314,
+      "num": 445274,
+      "word": "李行亮送麦琳锦旗",
+      "onboard_time": 1730886503,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 335896,
@@ -3777,14 +3801,6 @@
       "onboard_time": 1730695581,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328450,
-      "num": 445274,
-      "word": "李行亮送麦琳锦旗",
-      "onboard_time": 1730886503,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 328188,
@@ -4107,6 +4123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292361,
+      "num": 292361,
+      "word": "只有虞书欣穿了古装",
+      "onboard_time": 1730886802,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290182,
       "num": 290182,
       "word": "华为Mate70提前拆封罚款50万起",
@@ -4243,6 +4267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 277863,
+      "num": 277863,
+      "word": "田嘉瑞把宋茜犹豫的都买了",
+      "onboard_time": 1730887163,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277787,
       "num": 340423,
       "word": "西北岁月定档",
@@ -4355,6 +4387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269394,
+      "num": 269394,
+      "word": "虞书欣丁禹兮三搭想演明星和站哥",
+      "onboard_time": 1730889322,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268824,
       "num": 268824,
       "word": "忽然明白少年夫妻老来伴的含义",
@@ -4457,14 +4497,6 @@
       "onboard_time": 1730703739,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262005,
-      "num": 262005,
-      "word": "田嘉瑞把宋茜犹豫的都买了",
-      "onboard_time": 1730887163,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 260864,
@@ -4705,14 +4737,6 @@
       "onboard_time": 1730850380,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247078,
-      "num": 247078,
-      "word": "只有虞书欣穿了古装",
-      "onboard_time": 1730886802,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 245702,
@@ -5747,6 +5771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202011,
+      "num": 202011,
+      "word": "性别争议奥运冠军医学报告曝光",
+      "onboard_time": 1730886262,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201818,
       "num": 272033,
       "word": "桃花坞开放中定档",
@@ -6227,14 +6259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190140,
-      "num": 445011,
-      "word": "男子为让妻子后悔举报自己酒驾",
-      "onboard_time": 1730886922,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190115,
       "num": 190115,
       "word": "猪肉炖粉条你尝不到了",
@@ -6249,14 +6273,6 @@
       "onboard_time": 1730879551,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189795,
-      "num": 177638,
-      "word": "印度17岁跆拳道运动员遭邻居斩首",
-      "onboard_time": 1730887882,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189714,
@@ -6297,6 +6313,14 @@
       "onboard_time": 1730709680,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187913,
+      "num": 208948,
+      "word": "王阳 帅而不油",
+      "onboard_time": 1730887403,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187662,
@@ -6649,14 +6673,6 @@
       "onboard_time": 1730689998,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178023,
-      "num": 178023,
-      "word": "王阳 帅而不油",
-      "onboard_time": 1730887403,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 177899,
@@ -7371,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161815,
+      "num": 176338,
+      "word": "烤红薯",
+      "onboard_time": 1730885124,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161713,
       "num": 382876,
       "word": "航天员解说回地球太有画面感",
@@ -7915,14 +7939,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 147168,
-      "num": 176344,
-      "word": "性别争议奥运冠军医学报告曝光",
-      "onboard_time": 1730886262,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147099,
       "num": 147099,
       "word": "权志龙Power舞蹈版",
@@ -7969,14 +7985,6 @@
       "onboard_time": 1730858298,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146405,
-      "num": 176338,
-      "word": "烤红薯",
-      "onboard_time": 1730885124,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 146148,
@@ -8153,6 +8161,14 @@
       "onboard_time": 1730592377,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141368,
+      "num": 161770,
+      "word": "初三学生被老师没收手机欲跳楼威胁",
+      "onboard_time": 1730888784,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141192,
@@ -8545,6 +8561,14 @@
       "onboard_time": 1730715800,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129851,
+      "num": 161760,
+      "word": "离岸人民币跌破7.17关口",
+      "onboard_time": 1730889441,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 129497,
@@ -9089,6 +9113,14 @@
       "onboard_time": 1730773338,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115302,
+      "num": 161587,
+      "word": "珠帘玉幕 一个史铁生和一群余华",
+      "onboard_time": 1730889383,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 115018,
@@ -9779,6 +9811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83575,
+      "num": 161188,
+      "word": "吴姗姗 偏心是一生的潮湿",
+      "onboard_time": 1730889204,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82395,
       "num": 105161,
       "word": "李佳航为BLG加油",
@@ -10201,6 +10241,14 @@
       "onboard_time": 1730545098,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56139,
+      "num": 304137,
+      "word": "官方通报上海一中学疑似调查学生家庭背景阶层",
+      "onboard_time": 1730889262,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 56078,
@@ -11076,7 +11124,7 @@
     },
     {
       "raw_hot": 28304,
-      "num": 177649,
+      "num": 207144,
       "word": "去极寒旅行地穿什么",
       "onboard_time": 1730885662,
       "rank": 41,
@@ -11193,6 +11241,14 @@
       "onboard_time": 1730692702,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25482,
+      "num": 202267,
+      "word": "魏哲鸣常华森可口可乐烧烤局成真",
+      "onboard_time": 1730888902,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 25472,
