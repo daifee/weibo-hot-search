@@ -1,7 +1,23 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1730875423654,
+  "endTime": 1730877663084,
   "band_list": [
+    {
+      "raw_hot": 39295312,
+      "num": 899713,
+      "word": "特朗普赢得2024美国大选",
+      "onboard_time": 1730876377,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 38782629,
+      "num": 40027805,
+      "word": "特朗普将发表讲话",
+      "onboard_time": 1730874744,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 37697626,
       "num": 37697626,
@@ -2339,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7941280,
+      "num": 944955,
+      "word": "特朗普锁定胜局",
+      "onboard_time": 1730876133,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 7932627,
       "num": 7932627,
       "word": "迪丽热巴来了",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1720135996,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7841142,
-      "num": 485116,
-      "word": "叶珂晒聊天记录",
-      "onboard_time": 1726729765,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 7836694,
-      "num": 1239287,
-      "word": "吴谨言 怀孕",
-      "onboard_time": 1726206446,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 7824345,
-      "num": 2189374,
-      "word": "陈梦哭了",
-      "onboard_time": 1722695807,
-      "rank": 5,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

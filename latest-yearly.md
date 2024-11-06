@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 14:43:43
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 15:21:03
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,18 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A2%E5%BE%972024%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
+特朗普赢得2024美国大选（热度：39295312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%23" target="weibo">
+特朗普将发表讲话（热度：38782629）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E6%A2%A6%23" target="weibo">
@@ -1767,6 +1779,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%94%81%E5%AE%9A%E8%83%9C%E5%B1%80%23" target="weibo">
+特朗普锁定胜局（热度：7941280）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23" target="weibo">
 迪丽热巴来了（热度：7932627）
 </a>
@@ -1793,24 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 BLG对战T1（热度：7849827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%8F%82%E6%99%92%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
-叶珂晒聊天记录（热度：7841142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%20%E6%80%80%E5%AD%95%23" target="weibo">
-吴谨言 怀孕（热度：7836694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23" target="weibo">
-陈梦哭了（热度：7824345）
 </a>
 </li>
 
