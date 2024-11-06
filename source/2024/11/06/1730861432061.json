@@ -1,0 +1,410 @@
+{
+  "runTime": 1730861432061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030262,
+        "num": 1164842,
+        "word": "海马体创始人发声",
+        "onboard_time": 1730850079,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 709614,
+        "num": 709614,
+        "word": "老人没苦硬吃是为了填补安全感",
+        "onboard_time": 1730852843,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5564,
+        "num": 685173,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684328,
+        "num": 684328,
+        "word": "撞上劳斯莱斯的货车只有100万保险",
+        "onboard_time": 1730821401,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648695,
+        "num": 648695,
+        "word": "24万买的国企工作有合同没入职时间",
+        "onboard_time": 1730855542,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5222152,
+        "num": 635055,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 576954,
+        "num": 576954,
+        "word": "所谓饭圈大粉不到一年骗350多万元",
+        "onboard_time": 1730841433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531960,
+        "num": 531960,
+        "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+        "onboard_time": 1730819604,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473509,
+        "num": 473509,
+        "word": "玉溪 圣猴",
+        "onboard_time": 1730856443,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417715,
+        "num": 417715,
+        "word": "何炅逐句为吴昕分析主持问题",
+        "onboard_time": 1730857700,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2788424,
+        "num": 377581,
+        "word": "特朗普拿下西弗吉尼亚州",
+        "onboard_time": 1730854403,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 483719,
+        "num": 376997,
+        "word": "加拿大偶遇姚笛",
+        "onboard_time": 1730849118,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582236,
+        "num": 360743,
+        "word": "特朗普赢得佛州全部选举人票",
+        "onboard_time": 1730858122,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 305318,
+        "num": 305318,
+        "word": "杨紫生日高定",
+        "onboard_time": 1730853682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555381,
+        "num": 304615,
+        "word": "美国有计票点屋顶安排狙击手",
+        "onboard_time": 1730856080,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 385199,
+        "num": 303095,
+        "word": "瑞士卷",
+        "onboard_time": 1730849177,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390101,
+        "num": 302943,
+        "word": "美32个州和华盛顿特区结束大选投票",
+        "onboard_time": 1730859201,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300192,
+        "num": 300192,
+        "word": "先交20万元再实习1年就能转正吗",
+        "onboard_time": 1730858962,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291635,
+        "num": 291635,
+        "word": "永夜星河 我就说一天播一集会出事吧",
+        "onboard_time": 1730816125,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22943,
+        "num": 289770,
+        "word": "美国三摇摆州收到炸弹威胁",
+        "onboard_time": 1730860940,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 331661,
+        "num": 286423,
+        "word": "目前特朗普177张选举人票哈里斯99张",
+        "onboard_time": 1730855002,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 433269,
+        "num": 282628,
+        "word": "女子24小时内接受6个整容手术后死亡",
+        "onboard_time": 1730855662,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372782,
+        "num": 274886,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1730858661,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316029,
+        "num": 272332,
+        "word": "发型师晓华否认自己技术好",
+        "onboard_time": 1730858540,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119449,
+        "num": 268654,
+        "word": "副局长推介大米英语东北话无缝切换",
+        "onboard_time": 1730859740,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297429,
+        "num": 264651,
+        "word": "黑粉攻略手册",
+        "onboard_time": 1730859141,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260433,
+        "num": 260433,
+        "word": "吴京晒照为谢楠庆生",
+        "onboard_time": 1730858001,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252315,
+        "num": 252315,
+        "word": "周润发刘嘉玲权志龙合照",
+        "onboard_time": 1730856022,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218241,
+        "num": 218241,
+        "word": "虞书欣演技",
+        "onboard_time": 1730852723,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170696,
+        "num": 210257,
+        "word": "范丞丞回应小巷人家演技争议",
+        "onboard_time": 1730818825,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208785,
+        "num": 208785,
+        "word": "混血女儿英语倒数爸爸不淡定了",
+        "onboard_time": 1730825956,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195381,
+        "num": 195381,
+        "word": "网红夫妇被传患病多家饭店砸餐具",
+        "onboard_time": 1730860221,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137051,
+        "num": 193233,
+        "word": "永夜星河何首乌对骂板蓝根",
+        "onboard_time": 1730858060,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192954,
+        "num": 192954,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1730849118,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184026,
+        "num": 184026,
+        "word": "杨紫何惟芳生辰海报",
+        "onboard_time": 1730861181,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177967,
+        "num": 177967,
+        "word": "骗子给求职毕业生组织假笔试",
+        "onboard_time": 1730851761,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152932,
+        "num": 152932,
+        "word": "11岁男孩发烧心脏停跳52小时",
+        "onboard_time": 1730813304,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126244,
+        "num": 152829,
+        "word": "怪奇物语日",
+        "onboard_time": 1730858298,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151270,
+        "num": 151270,
+        "word": "湖南发型师晓华为什么火了",
+        "onboard_time": 1730851641,
+        "rank": 39,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 139605,
+        "num": 139605,
+        "word": "鲜橙脆皮五花肉",
+        "onboard_time": 1730860461,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135987,
+        "num": 135987,
+        "word": "总喝水却不解渴是怎么回事",
+        "onboard_time": 1730856022,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121640,
+        "num": 121640,
+        "word": "谁说转笔没用这转笔可太棒了",
+        "onboard_time": 1730850380,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115624,
+        "num": 115624,
+        "word": "原来更年期这么难受",
+        "onboard_time": 1730860520,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "3人参与刺杀伊朗核科学家被判死刑",
+        "onboard_time": 1730854403,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 107559,
+        "num": 107559,
+        "word": "萨巴伦卡年终世界第一",
+        "onboard_time": 1730857821,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103528,
+        "num": 103528,
+        "word": "警方通报网传柳州女子喝醉被强暴",
+        "onboard_time": 1730818704,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98368,
+        "num": 98368,
+        "word": "林依晨言承旭新剧预告",
+        "onboard_time": 1730850200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87670,
+        "num": 87670,
+        "word": "刘亦菲佟大为合照 张新成偷偷比耶",
+        "onboard_time": 1730814084,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72549,
+        "num": 86618,
+        "word": "月光变奏曲",
+        "onboard_time": 1730852602,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设一支强大的现代化空降兵部队#"
+    }
+  }
+}

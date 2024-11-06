@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730858216956,
+  "endTime": 1730861432061,
   "band_list": [
     {
       "raw_hot": 8211188,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648695,
+      "num": 648695,
+      "word": "24万买的国企工作有合同没入职时间",
+      "onboard_time": 1730855542,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627586,
       "num": 651013,
       "word": "永夜星河 我就说一天播一集会出事吧",
@@ -137,6 +145,22 @@
       "onboard_time": 1730849118,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582236,
+      "num": 360743,
+      "word": "特朗普赢得佛州全部选举人票",
+      "onboard_time": 1730858122,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 555381,
+      "num": 553981,
+      "word": "美国有计票点屋顶安排狙击手",
+      "onboard_time": 1730856080,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 553457,
@@ -163,12 +187,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 473509,
+      "num": 473509,
+      "word": "玉溪 圣猴",
+      "onboard_time": 1730856443,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 433269,
+      "num": 627792,
+      "word": "女子24小时内接受6个整容手术后死亡",
+      "onboard_time": 1730855662,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425357,
       "num": 425357,
       "word": "瑞士卷",
       "onboard_time": 1730849177,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417715,
+      "num": 417715,
+      "word": "何炅逐句为吴昕分析主持问题",
+      "onboard_time": 1730857700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 411753,
@@ -187,20 +235,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 407702,
-      "num": 627792,
-      "word": "女子24小时内接受6个整容手术后死亡",
-      "onboard_time": 1730855662,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395990,
       "num": 395990,
       "word": "警方通报网传柳州女子喝醉被强暴",
       "onboard_time": 1730818704,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390101,
+      "num": 302943,
+      "word": "美32个州和华盛顿特区结束大选投票",
+      "onboard_time": 1730859201,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 375733,
@@ -211,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362382,
-      "num": 553981,
-      "word": "美国有计票点屋顶安排狙击手",
-      "onboard_time": 1730856080,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 372782,
+      "num": 274886,
+      "word": "只有师范生才知道她有多强",
+      "onboard_time": 1730858661,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 357190,
@@ -233,6 +281,22 @@
       "onboard_time": 1730818825,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331661,
+      "num": 286423,
+      "word": "目前特朗普177张选举人票哈里斯99张",
+      "onboard_time": 1730855002,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 316029,
+      "num": 272332,
+      "word": "发型师晓华否认自己技术好",
+      "onboard_time": 1730858540,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308161,
@@ -259,12 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302157,
-      "num": 302157,
-      "word": "玉溪 圣猴",
-      "onboard_time": 1730856443,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 300192,
+      "num": 300192,
+      "word": "先交20万元再实习1年就能转正吗",
+      "onboard_time": 1730858962,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297429,
+      "num": 264651,
+      "word": "黑粉攻略手册",
+      "onboard_time": 1730859141,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 295222,
@@ -291,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288685,
-      "num": 288685,
-      "word": "何炅逐句为吴昕分析主持问题",
-      "onboard_time": 1730857700,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275476,
       "num": 275476,
       "word": "美国东海岸投票站开放",
@@ -323,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260433,
+      "num": 260433,
+      "word": "吴京晒照为谢楠庆生",
+      "onboard_time": 1730858001,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247109,
       "num": 247109,
       "word": "谁说转笔没用这转笔可太棒了",
@@ -337,14 +409,6 @@
       "onboard_time": 1730822960,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243481,
-      "num": 553422,
-      "word": "24万买的国企工作有合同没入职时间",
-      "onboard_time": 1730855542,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240229,
@@ -419,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195381,
+      "num": 195381,
+      "word": "网红夫妇被传患病多家饭店砸餐具",
+      "onboard_time": 1730860221,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194547,
       "num": 194547,
       "word": "忽然明白少年夫妻老来伴的含义",
@@ -449,6 +521,14 @@
       "onboard_time": 1730848578,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184026,
+      "num": 184026,
+      "word": "杨紫何惟芳生辰海报",
+      "onboard_time": 1730861181,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 183955,
@@ -571,6 +651,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139605,
+      "num": 139605,
+      "word": "鲜橙脆皮五花肉",
+      "onboard_time": 1730860461,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 137051,
+      "num": 193233,
+      "word": "永夜星河何首乌对骂板蓝根",
+      "onboard_time": 1730858060,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135987,
+      "num": 135987,
+      "word": "总喝水却不解渴是怎么回事",
+      "onboard_time": 1730856022,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134346,
       "num": 134346,
       "word": "母女起争执女儿怒砸太古里一专卖店",
@@ -585,14 +689,6 @@
       "onboard_time": 1730822061,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133384,
-      "num": 133384,
-      "word": "吴京晒照为谢楠庆生",
-      "onboard_time": 1730858001,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 133024,
@@ -619,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126244,
+      "num": 152829,
+      "word": "怪奇物语日",
+      "onboard_time": 1730858298,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124053,
       "num": 124053,
       "word": "甘肃天水事业单位招考被质疑设萝卜岗",
@@ -632,6 +736,14 @@
       "word": "警方将排查网传女子路边被强暴事件",
       "onboard_time": 1730796262,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119449,
+      "num": 268654,
+      "word": "副局长推介大米英语东北话无缝切换",
+      "onboard_time": 1730859740,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -649,6 +761,14 @@
       "onboard_time": 1730830632,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115624,
+      "num": 115624,
+      "word": "原来更年期这么难受",
+      "onboard_time": 1730860520,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114784,
@@ -713,14 +833,6 @@
       "onboard_time": 1730821519,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108339,
-      "num": 108339,
-      "word": "总喝水却不解渴是怎么回事",
-      "onboard_time": 1730856022,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105322,
@@ -979,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22943,
+      "num": 289770,
+      "word": "美国三摇摆州收到炸弹威胁",
+      "onboard_time": 1730860940,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 21018,
       "num": 28047,
       "word": "我的抽象视界",
@@ -1011,14 +1131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 6885,
-      "num": 172918,
-      "word": "特朗普赢得佛州全部选举人票",
-      "onboard_time": 1730858122,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 5900,
       "num": 929576,
       "word": "四叶草再迎进博时间",
@@ -1030,6 +1142,9 @@
   "hotgov_list": [
     {
       "word": "#习近平视察空降兵军#"
+    },
+    {
+      "word": "#努力建设一支强大的现代化空降兵部队#"
     }
   ]
 }
