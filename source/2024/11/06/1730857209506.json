@@ -1,0 +1,410 @@
+{
+  "runTime": 1730857209506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354924,
+        "num": 1354924,
+        "word": "老人没苦硬吃是为了填补安全感",
+        "onboard_time": 1730852843,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303762,
+        "num": 1303762,
+        "word": "海马体创始人发声",
+        "onboard_time": 1730850079,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5900,
+        "num": 929576,
+        "word": "四叶草再迎进博时间",
+        "onboard_time": 1730811082,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843478,
+        "num": 843478,
+        "word": "撞上劳斯莱斯的货车只有100万保险",
+        "onboard_time": 1730821401,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733898,
+        "num": 733898,
+        "word": "劳斯莱斯出车祸司机淡定拍照发圈",
+        "onboard_time": 1730819604,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4887373,
+        "num": 729375,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 652210,
+        "num": 652210,
+        "word": "所谓饭圈大粉不到一年骗350多万元",
+        "onboard_time": 1730841433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464377,
+        "num": 651013,
+        "word": "永夜星河 我就说一天播一集会出事吧",
+        "onboard_time": 1730816125,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357190,
+        "num": 641537,
+        "word": "虞书欣演技",
+        "onboard_time": 1730852723,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344944,
+        "num": 627792,
+        "word": "女子24小时内接受6个整容手术后死亡",
+        "onboard_time": 1730855662,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4088460,
+        "num": 618177,
+        "word": "特朗普拿下西弗吉尼亚州",
+        "onboard_time": 1730854403,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 617651,
+        "num": 617651,
+        "word": "加拿大偶遇姚笛",
+        "onboard_time": 1730849118,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938989,
+        "num": 593089,
+        "word": "美16个州和华盛顿特区结束大选投票",
+        "onboard_time": 1730848698,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195693,
+        "num": 553981,
+        "word": "美国有计票点屋顶安排狙击手",
+        "onboard_time": 1730856080,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 524186,
+        "num": 524186,
+        "word": "杨紫生日高定",
+        "onboard_time": 1730853682,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240229,
+        "num": 521189,
+        "word": "林依晨言承旭新剧预告",
+        "onboard_time": 1730850200,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231818,
+        "num": 516844,
+        "word": "再见爱人4",
+        "onboard_time": 1730852662,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217718,
+        "num": 512599,
+        "word": "范丞丞回应小巷人家演技争议",
+        "onboard_time": 1730818825,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34755,
+        "num": 508627,
+        "word": "王艺迪3比0黄怡桦",
+        "onboard_time": 1730856443,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134649,
+        "num": 506754,
+        "word": "美国大选多个投票站遭炸弹威胁",
+        "onboard_time": 1730856141,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 504081,
+        "num": 504081,
+        "word": "美国威斯康星州一地将重新计票",
+        "onboard_time": 1730852183,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 425357,
+        "num": 425357,
+        "word": "瑞士卷",
+        "onboard_time": 1730849177,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411753,
+        "num": 411753,
+        "word": "骗子给求职毕业生组织假笔试",
+        "onboard_time": 1730851761,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319739,
+        "num": 319739,
+        "word": "混血女儿英语倒数爸爸不淡定了",
+        "onboard_time": 1730825956,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304855,
+        "num": 304855,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1730849118,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264977,
+        "num": 264977,
+        "word": "周润发刘嘉玲权志龙合照",
+        "onboard_time": 1730856022,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254511,
+        "num": 254511,
+        "word": "21岁女生下腹疼痛确诊胃癌晚期",
+        "onboard_time": 1730796381,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247109,
+        "num": 247109,
+        "word": "谁说转笔没用这转笔可太棒了",
+        "onboard_time": 1730850380,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205974,
+        "num": 242189,
+        "word": "玉溪 圣猴",
+        "onboard_time": 1730856443,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159563,
+        "num": 240583,
+        "word": "月光变奏曲",
+        "onboard_time": 1730852602,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240104,
+        "num": 240104,
+        "word": "24万买的国企工作有合同没入职时间",
+        "onboard_time": 1730855542,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203956,
+        "num": 203956,
+        "word": "3人参与刺杀伊朗核科学家被判死刑",
+        "onboard_time": 1730854403,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188758,
+        "num": 188758,
+        "word": "字节跳动103人违法违规被辞退",
+        "onboard_time": 1730823979,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182616,
+        "num": 182616,
+        "word": "11岁男孩发烧心脏停跳52小时",
+        "onboard_time": 1730813304,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169239,
+        "num": 169239,
+        "word": "湖南发型师晓华为什么火了",
+        "onboard_time": 1730851641,
+        "rank": 34,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 142551,
+        "num": 142551,
+        "word": "警方通报网传柳州女子喝醉被强暴",
+        "onboard_time": 1730818704,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136497,
+        "num": 136497,
+        "word": "近半价卖掉400万房子反悔需赔40万",
+        "onboard_time": 1730810662,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135206,
+        "num": 135206,
+        "word": "丈夫把100万元捐款转给烧伤妈妈",
+        "onboard_time": 1730809702,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132160,
+        "num": 132160,
+        "word": "王鹤棣 向佐为什么穿那么性感",
+        "onboard_time": 1730808681,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127717,
+        "num": 131641,
+        "word": "权志龙说不要再少人了",
+        "onboard_time": 1730814862,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131633,
+        "num": 131633,
+        "word": "刘亦菲佟大为合照 张新成偷偷比耶",
+        "onboard_time": 1730814084,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186875,
+        "num": 131351,
+        "word": "律师谈宝妈吃瑞士卷被疑剧本",
+        "onboard_time": 1730848578,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129084,
+        "num": 129084,
+        "word": "虞书欣第一个男主角也来打call了",
+        "onboard_time": 1730814383,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124131,
+        "num": 124131,
+        "word": "我国县级博物馆卧虎藏龙",
+        "onboard_time": 1730844312,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123577,
+        "num": 123577,
+        "word": "忽然明白少年夫妻老来伴的含义",
+        "onboard_time": 1730810421,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117978,
+        "num": 117978,
+        "word": "行贿者一次性送150瓶五粮液",
+        "onboard_time": 1730830632,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114345,
+        "num": 114345,
+        "word": "中传考研禁用海马体照片截图存疑",
+        "onboard_time": 1730855002,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 110582,
+        "num": 110582,
+        "word": "付航红毯再现passion",
+        "onboard_time": 1730855123,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108339,
+        "num": 108339,
+        "word": "总喝水却不解渴是怎么回事",
+        "onboard_time": 1730856022,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "鼎益丰涉嫌集资诈骗",
+        "onboard_time": 1730856918,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察空降兵军#"
+    }
+  }
+}
