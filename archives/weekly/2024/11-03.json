@@ -1,10 +1,10 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730877663084,
+  "endTime": 1730878568774,
   "band_list": [
     {
-      "raw_hot": 39295312,
-      "num": 899713,
+      "raw_hot": 48534407,
+      "num": 48534407,
       "word": "特朗普赢得2024美国大选",
       "onboard_time": 1730876377,
       "rank": 5,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1339685,
+      "num": 424768,
+      "word": "特朗普的车队离开海湖庄园",
+      "onboard_time": 1730877453,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1330559,
       "num": 1330559,
       "word": "海马体 天真蓝",
@@ -801,6 +809,14 @@
       "onboard_time": 1730638219,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1216987,
+      "num": 1216987,
+      "word": "兮妃回宫",
+      "onboard_time": 1730874625,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1174772,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1730798122,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 903893,
-      "num": 903893,
-      "word": "兮妃回宫",
-      "onboard_time": 1730874625,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 891748,
@@ -2067,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 597259,
+      "num": 443639,
+      "word": "所有男明星都看过来",
+      "onboard_time": 1730875766,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596295,
       "num": 596295,
       "word": "BLG 自ban蝎子",
@@ -2363,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548867,
+      "num": 548867,
+      "word": "以色列总理宣布解雇国防部长",
+      "onboard_time": 1730871563,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 545737,
       "num": 451747,
       "word": "内娱花果山",
@@ -2387,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537648,
+      "num": 537648,
+      "word": "黄金",
+      "onboard_time": 1730876918,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 537332,
       "num": 537332,
       "word": "Faker世界赛500杀",
@@ -2409,14 +2441,6 @@
       "onboard_time": 1730694202,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532484,
-      "num": 414455,
-      "word": "所有男明星都看过来",
-      "onboard_time": 1730875766,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 531406,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1730785701,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 496803,
-      "num": 496803,
-      "word": "以色列总理宣布解雇国防部长",
-      "onboard_time": 1730871563,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 494096,
@@ -3027,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413313,
+      "num": 413313,
+      "word": "肖战意大利被偶遇",
+      "onboard_time": 1730874324,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413300,
       "num": 428068,
       "word": "黑粉攻略手册",
@@ -3123,14 +3147,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 402078,
-      "num": 402078,
-      "word": "肖战意大利被偶遇",
-      "onboard_time": 1730874324,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401018,
       "num": 313256,
       "word": "王一栩笑了",
@@ -3145,14 +3161,6 @@
       "onboard_time": 1730573477,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 390962,
-      "num": 390962,
-      "word": "特朗普的车队离开海湖庄园",
-      "onboard_time": 1730877453,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 390838,
@@ -3795,14 +3803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 306103,
-      "num": 306103,
-      "word": "黄金",
-      "onboard_time": 1730876918,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 304855,
       "num": 304855,
       "word": "打电话是一个侵入性特别强的动作",
@@ -4299,6 +4299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257696,
+      "num": 257696,
+      "word": "泽连斯基",
+      "onboard_time": 1730878233,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 257537,
+      "num": 257537,
+      "word": "丁禹兮感情史 废话付出闭嘴",
+      "onboard_time": 1730878472,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257088,
       "num": 374695,
       "word": "权志龙偷感",
@@ -4625,6 +4641,14 @@
       "onboard_time": 1730644700,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237796,
+      "num": 417609,
+      "word": "商场也会成为时代的眼泪吗",
+      "onboard_time": 1730875167,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236477,
@@ -4979,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218723,
+      "num": 297622,
+      "word": "永夜星河 剧粉",
+      "onboard_time": 1730877335,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218402,
       "num": 218402,
       "word": "广西大学通报",
@@ -5267,6 +5299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206461,
+      "num": 207994,
+      "word": "夜市偶遇周子瑜叶舒华",
+      "onboard_time": 1730874564,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206453,
       "num": 338596,
       "word": "张艺兴演唱会玩梗",
@@ -5483,6 +5523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201399,
+      "num": 214395,
+      "word": "花路 土路",
+      "onboard_time": 1730876497,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201202,
       "num": 201202,
       "word": "王楚钦赛前训练水灵灵一个爆冲",
@@ -5568,6 +5616,14 @@
       "word": "登陆少年 我在时代峰峻很想你",
       "onboard_time": 1730794581,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199493,
+      "num": 199493,
+      "word": "刘宇宁复刻黄子韬",
+      "onboard_time": 1730876256,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -5736,14 +5792,6 @@
       "word": "种地吧",
       "onboard_time": 1730813963,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195223,
-      "num": 214395,
-      "word": "花路 土路",
-      "onboard_time": 1730876497,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -5931,20 +5979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190969,
+      "num": 190969,
+      "word": "怎么不带张一山",
+      "onboard_time": 1730878112,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "心动的信号",
       "onboard_time": 1730695462,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190362,
-      "num": 190362,
-      "word": "刘宇宁复刻黄子韬",
-      "onboard_time": 1730876256,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 190115,
@@ -5961,6 +6009,14 @@
       "onboard_time": 1730787019,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189622,
+      "num": 189622,
+      "word": "特斯拉",
+      "onboard_time": 1730878472,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 189508,
@@ -6043,6 +6099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187206,
+      "num": 187206,
+      "word": "原神5.2版本直播",
+      "onboard_time": 1730878171,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186875,
       "num": 435520,
       "word": "律师谈宝妈吃瑞士卷被疑剧本",
@@ -6096,14 +6160,6 @@
       "word": "时代少年团 特权码",
       "onboard_time": 1730606780,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185841,
-      "num": 207994,
-      "word": "夜市偶遇周子瑜叶舒华",
-      "onboard_time": 1730874564,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -7187,6 +7243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158250,
+      "num": 438011,
+      "word": "快递弄丢1.3万银币判赔6千",
+      "onboard_time": 1730878532,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157956,
       "num": 157956,
       "word": "以闪亮之名文案",
@@ -7225,14 +7289,6 @@
       "onboard_time": 1730700321,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156990,
-      "num": 156990,
-      "word": "永夜星河 剧粉",
-      "onboard_time": 1730877335,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 156872,
@@ -7515,14 +7571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147595,
-      "num": 417609,
-      "word": "商场也会成为时代的眼泪吗",
-      "onboard_time": 1730875167,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "米勒发博",
@@ -7545,6 +7593,14 @@
       "onboard_time": 1730700620,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147114,
+      "num": 417848,
+      "word": "当地回应盲人女孩学习按摩被摸胸",
+      "onboard_time": 1730876437,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147099,
@@ -7883,6 +7939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138372,
+      "num": 451818,
+      "word": "境外间谍用终身监禁恐吓涉密人员",
+      "onboard_time": 1730877872,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138300,
       "num": 138300,
       "word": "中国首位累计飞行超1年的航天员",
@@ -7993,14 +8057,6 @@
       "onboard_time": 1730639839,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134900,
-      "num": 408184,
-      "word": "当地回应盲人女孩学习按摩被摸胸",
-      "onboard_time": 1730876437,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134749,
@@ -9267,6 +9323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83830,
+      "num": 433629,
+      "word": "广州房贷商贷利率将不低于3%",
+      "onboard_time": 1730877931,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83756,
       "num": 83756,
       "word": "媒体评瑞士卷事件",
@@ -9443,6 +9507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68939,
+      "num": 418394,
+      "word": "歼15T飞抵珠海",
+      "onboard_time": 1730876859,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 68785,
       "num": 362677,
       "word": "徒步发现路边有尸骨初步排除刑案",
@@ -9531,6 +9603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65072,
+      "num": 367694,
+      "word": "湖北一小学因诺如病毒改上网课",
+      "onboard_time": 1730876918,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64884,
       "num": 330524,
       "word": "张雨绮男友回应",
@@ -9603,11 +9683,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60642,
-      "num": 367694,
-      "word": "湖北一小学因诺如病毒改上网课",
-      "onboard_time": 1730876918,
-      "rank": 29,
+      "raw_hot": 60995,
+      "num": 404491,
+      "word": "咖啡已经nextlevel了",
+      "onboard_time": 1730876799,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -9875,14 +9955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47816,
-      "num": 404491,
-      "word": "咖啡已经nextlevel了",
-      "onboard_time": 1730876799,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47748,
       "num": 390960,
       "word": "何小鹏周鸿祎智驾征服北京最堵路口",
@@ -9961,14 +10033,6 @@
       "onboard_time": 1730783900,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44793,
-      "num": 418394,
-      "word": "歼15T飞抵珠海",
-      "onboard_time": 1730876859,
-      "rank": 13,
-      "category": "军事"
     },
     {
       "raw_hot": 44160,
@@ -10299,6 +10363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34502,
+      "num": 381603,
+      "word": "波司登羽绒服模拟了北极熊绒仓结构",
+      "onboard_time": 1730876799,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34167,
       "num": 53337,
       "word": "王一博联合国气候变化大会宣传视频",
@@ -10523,11 +10595,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27358,
+      "num": 420135,
+      "word": "魏哲鸣摩登大片人夫感的神",
+      "onboard_time": 1730877394,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27333,
       "num": 363325,
       "word": "男子上门升级宽带实则安装诈骗设备",
       "onboard_time": 1730801001,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27107,
+      "num": 189761,
+      "word": "水哥南极之行波司登上大分",
+      "onboard_time": 1730877512,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -10577,14 +10665,6 @@
       "onboard_time": 1730718919,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25788,
-      "num": 183829,
-      "word": "魏哲鸣摩登大片人夫感的神",
-      "onboard_time": 1730877394,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 25760,
@@ -10689,14 +10769,6 @@
       "onboard_time": 1730786660,
       "rank": 19,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 23668,
-      "num": 381603,
-      "word": "波司登羽绒服模拟了北极熊绒仓结构",
-      "onboard_time": 1730876799,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 23501,
@@ -10940,7 +11012,7 @@
     },
     {
       "raw_hot": 19208,
-      "num": 977299,
+      "num": 1105905,
       "word": "文化中国行看荆楚瑰宝",
       "onboard_time": 1730863642,
       "rank": 2,
@@ -11185,6 +11257,14 @@
       "onboard_time": 1730618899,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15285,
+      "num": 189659,
+      "word": "在零下50℃的户外是什么体验",
+      "onboard_time": 1730878413,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15282,
@@ -11435,6 +11515,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 9705,
+      "num": 332083,
+      "word": "你了解极地考察队的工作吗",
+      "onboard_time": 1730876799,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9596,
       "num": 389820,
       "word": "美媒预测特朗普暂获198张选举人票",
@@ -11456,22 +11544,6 @@
       "word": "3分钟解锁进博",
       "onboard_time": 1730729124,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6857,
-      "num": 187499,
-      "word": "水哥南极之行波司登上大分",
-      "onboard_time": 1730877512,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6298,
-      "num": 332083,
-      "word": "你了解极地考察队的工作吗",
-      "onboard_time": 1730876799,
-      "rank": 32,
       "category": "社会新闻"
     }
   ],

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730878568774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 48534407,
+        "num": 48534407,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1216987,
+        "num": 1216987,
+        "word": "兮妃回宫",
+        "onboard_time": 1730874625,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7920,
+        "num": 1105905,
+        "word": "文化中国行看荆楚瑰宝",
+        "onboard_time": 1730863642,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996345,
+        "num": 996345,
+        "word": "花儿与中年",
+        "onboard_time": 1730871563,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 805585,
+        "num": 805585,
+        "word": "性别争议奥运冠军被曝为男性",
+        "onboard_time": 1730865624,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548867,
+        "num": 548867,
+        "word": "以色列总理宣布解雇国防部长",
+        "onboard_time": 1730871563,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 812631,
+        "num": 545345,
+        "word": "丁禹兮收拾收拾准备升咖",
+        "onboard_time": 1730869226,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 537648,
+        "num": 537648,
+        "word": "黄金",
+        "onboard_time": 1730876918,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452303,
+        "num": 452303,
+        "word": "柳州女子系酒后呕吐朋友搀扶",
+        "onboard_time": 1730869045,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138372,
+        "num": 451818,
+        "word": "境外间谍用终身监禁恐吓涉密人员",
+        "onboard_time": 1730877872,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29551159,
+        "num": 448340,
+        "word": "特朗普将发表讲话",
+        "onboard_time": 1730874744,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 597259,
+        "num": 443639,
+        "word": "所有男明星都看过来",
+        "onboard_time": 1730875766,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4240483,
+        "num": 439419,
+        "word": "特朗普锁定胜局",
+        "onboard_time": 1730876133,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158250,
+        "num": 438011,
+        "word": "快递弄丢1.3万银币判赔6千",
+        "onboard_time": 1730878532,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83830,
+        "num": 433629,
+        "word": "广州房贷商贷利率将不低于3%",
+        "onboard_time": 1730877931,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1875596,
+        "num": 431439,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 512808,
+        "num": 427683,
+        "word": "艺洋训狗",
+        "onboard_time": 1730864482,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1339685,
+        "num": 424768,
+        "word": "特朗普的车队离开海湖庄园",
+        "onboard_time": 1730877453,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27358,
+        "num": 420135,
+        "word": "魏哲鸣摩登大片人夫感的神",
+        "onboard_time": 1730877394,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147114,
+        "num": 417848,
+        "word": "当地回应盲人女孩学习按摩被摸胸",
+        "onboard_time": 1730876437,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072360,
+        "num": 413621,
+        "word": "美国大选选举日所有投票结束",
+        "onboard_time": 1730873246,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 413313,
+        "num": 413313,
+        "word": "肖战意大利被偶遇",
+        "onboard_time": 1730874324,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621317,
+        "num": 401506,
+        "word": "美媒预测特朗普赢得宾夕法尼亚州",
+        "onboard_time": 1730875766,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60995,
+        "num": 376412,
+        "word": "咖啡已经nextlevel了",
+        "onboard_time": 1730876799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371503,
+        "num": 371503,
+        "word": "上海某中学疑似调查学生家庭背景阶层",
+        "onboard_time": 1730865264,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301545,
+        "num": 301545,
+        "word": "虞书欣让新浪下次还找她",
+        "onboard_time": 1730874144,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218723,
+        "num": 297622,
+        "word": "永夜星河 剧粉",
+        "onboard_time": 1730877335,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34502,
+        "num": 292595,
+        "word": "波司登羽绒服模拟了北极熊绒仓结构",
+        "onboard_time": 1730876799,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 213023,
+        "num": 288413,
+        "word": "大侦探团综 群像",
+        "onboard_time": 1730873364,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65072,
+        "num": 278901,
+        "word": "湖北一小学因诺如病毒改上网课",
+        "onboard_time": 1730876918,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315763,
+        "num": 273504,
+        "word": "川大智胜午后涨停",
+        "onboard_time": 1730871265,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321959,
+        "num": 268509,
+        "word": "蓝盈莹坐飞机偶遇杨迪",
+        "onboard_time": 1730873425,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266026,
+        "num": 266026,
+        "word": "海马体创始人发声",
+        "onboard_time": 1730850079,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 9705,
+        "num": 258515,
+        "word": "你了解极地考察队的工作吗",
+        "onboard_time": 1730876799,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257696,
+        "num": 257696,
+        "word": "泽连斯基",
+        "onboard_time": 1730878233,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 257537,
+        "num": 257537,
+        "word": "丁禹兮感情史 废话付出闭嘴",
+        "onboard_time": 1730878472,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244507,
+        "num": 244507,
+        "word": "马斯克突然来北京是谣言",
+        "onboard_time": 1730870484,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237796,
+        "num": 237796,
+        "word": "商场也会成为时代的眼泪吗",
+        "onboard_time": 1730875167,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206461,
+        "num": 206461,
+        "word": "夜市偶遇周子瑜叶舒华",
+        "onboard_time": 1730874564,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202032,
+        "num": 202032,
+        "word": "伊能静40年前的人生照片",
+        "onboard_time": 1730872946,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201399,
+        "num": 201399,
+        "word": "花路 土路",
+        "onboard_time": 1730876497,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199493,
+        "num": 199493,
+        "word": "刘宇宁复刻黄子韬",
+        "onboard_time": 1730876256,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195914,
+        "num": 195914,
+        "word": "山西七里峪风景区惊现干尸",
+        "onboard_time": 1730866944,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190969,
+        "num": 190969,
+        "word": "怎么不带张一山",
+        "onboard_time": 1730878112,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27107,
+        "num": 189761,
+        "word": "水哥南极之行波司登上大分",
+        "onboard_time": 1730877512,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15285,
+        "num": 189659,
+        "word": "在零下50℃的户外是什么体验",
+        "onboard_time": 1730878413,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68939,
+        "num": 189626,
+        "word": "歼15T飞抵珠海",
+        "onboard_time": 1730876859,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 189622,
+        "num": 189622,
+        "word": "特斯拉",
+        "onboard_time": 1730878472,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187206,
+        "num": 187206,
+        "word": "原神5.2版本直播",
+        "onboard_time": 1730878171,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183540,
+        "num": 183540,
+        "word": "个人U盘涉密沦为间谍帮手终获死刑",
+        "onboard_time": 1730868746,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设一支强大的现代化空降兵部队#"
+    }
+  }
+}
