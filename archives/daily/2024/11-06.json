@@ -1,9 +1,9 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730874653887,
+  "endTime": 1730875423654,
   "band_list": [
     {
-      "raw_hot": 10862910,
+      "raw_hot": 11735355,
       "num": 729375,
       "word": "美国大选",
       "onboard_time": 1730795600,
@@ -32,6 +32,14 @@
       "word": "美国大选选举日所有投票结束",
       "onboard_time": 1730873246,
       "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 4754531,
+      "num": 307332,
+      "word": "特朗普即将发表讲话",
+      "onboard_time": 1730874625,
+      "rank": 18,
       "category": "国外时政"
     },
     {
@@ -155,8 +163,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1012800,
-      "num": 570796,
+      "raw_hot": 1045892,
+      "num": 579910,
       "word": "花儿与中年",
       "onboard_time": 1730871563,
       "rank": 4,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645284,
+      "num": 645284,
+      "word": "特朗普将发表讲话",
+      "onboard_time": 1730874744,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 627586,
       "num": 651013,
       "word": "永夜星河 我就说一天播一集会出事吧",
@@ -305,6 +321,14 @@
       "onboard_time": 1730849118,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607783,
+      "num": 309839,
+      "word": "哈里斯暂时不会发表讲话",
+      "onboard_time": 1730873304,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 593730,
@@ -353,14 +377,6 @@
       "onboard_time": 1730866226,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526420,
-      "num": 307332,
-      "word": "特朗普即将发表讲话",
-      "onboard_time": 1730874625,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 524186,
@@ -483,8 +499,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378695,
-      "num": 378695,
+      "raw_hot": 387449,
+      "num": 357840,
+      "word": "李兰迪评论区",
+      "onboard_time": 1730874625,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 386024,
+      "num": 343442,
+      "word": "虞书欣让新浪下次还找她",
+      "onboard_time": 1730874144,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 383529,
+      "num": 383529,
       "word": "以色列总理宣布解雇国防部长",
       "onboard_time": 1730871563,
       "rank": 8,
@@ -523,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334196,
+      "num": 334196,
+      "word": "川大智胜午后涨停",
+      "onboard_time": 1730871265,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 331661,
       "num": 286423,
       "word": "目前特朗普177张选举人票哈里斯99张",
@@ -547,28 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312328,
-      "num": 309839,
-      "word": "哈里斯暂时不会发表讲话",
-      "onboard_time": 1730873304,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 308161,
       "num": 266206,
       "word": "21岁女生下腹疼痛确诊胃癌晚期",
       "onboard_time": 1730796381,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306859,
-      "num": 306859,
-      "word": "川大智胜午后涨停",
-      "onboard_time": 1730871265,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 304855,
@@ -585,14 +609,6 @@
       "onboard_time": 1730823918,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297172,
-      "num": 297172,
-      "word": "虞书欣让新浪下次还找她",
-      "onboard_time": 1730874144,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 296553,
@@ -633,6 +649,14 @@
       "onboard_time": 1730803641,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286800,
+      "num": 286800,
+      "word": "兮妃回宫",
+      "onboard_time": 1730874625,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 276723,
@@ -755,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233787,
+      "num": 307119,
+      "word": "肖战意大利被偶遇",
+      "onboard_time": 1730874324,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231818,
       "num": 516844,
       "word": "再见爱人4",
@@ -835,6 +867,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 217348,
+      "num": 218129,
+      "word": "蓝盈莹坐飞机偶遇杨迪",
+      "onboard_time": 1730873425,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211577,
       "num": 211577,
       "word": "鲜橙脆皮五花肉",
@@ -859,6 +899,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 205714,
+      "num": 347094,
+      "word": "马斯克突然来北京是谣言",
+      "onboard_time": 1730870484,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205513,
       "num": 289007,
       "word": "社区将再去瑞士卷当事人家中调查",
@@ -873,14 +921,6 @@
       "onboard_time": 1730861181,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204712,
-      "num": 347094,
-      "word": "马斯克突然来北京是谣言",
-      "onboard_time": 1730870484,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203903,
@@ -1083,14 +1123,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 161393,
-      "num": 218129,
-      "word": "蓝盈莹坐飞机偶遇杨迪",
-      "onboard_time": 1730873425,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159910,
       "num": 159910,
       "word": "刘亦菲佟大为合照 张新成偷偷比耶",
@@ -1171,12 +1203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143340,
+      "num": 310116,
+      "word": "来自鲲鹏的压迫感",
+      "onboard_time": 1730873185,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
       "raw_hot": 141025,
       "num": 271607,
       "word": "永夜星河何首乌对骂板蓝根",
       "onboard_time": 1730858060,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140731,
+      "num": 207994,
+      "word": "夜市偶遇周子瑜叶舒华",
+      "onboard_time": 1730874564,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 137115,
@@ -1259,20 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120332,
-      "num": 310116,
-      "word": "来自鲲鹏的压迫感",
-      "onboard_time": 1730873185,
-      "rank": 11,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 119097,
-      "num": 119097,
-      "word": "兮妃回宫",
-      "onboard_time": 1730874625,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 123791,
+      "num": 123791,
+      "word": "光夜 邻国那个年轻君主",
+      "onboard_time": 1730875226,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 119077,
@@ -1299,14 +1339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116605,
-      "num": 116605,
-      "word": "李兰迪评论区",
-      "onboard_time": 1730874625,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116564,
       "num": 116564,
       "word": "原来更年期这么难受",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1730848879,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114244,
+      "num": 336043,
+      "word": "赵露思问什么时候供暖",
+      "onboard_time": 1730874324,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 113909,
@@ -1499,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87697,
-      "num": 308357,
-      "word": "赵露思问什么时候供暖",
-      "onboard_time": 1730874324,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83772,
       "num": 83772,
       "word": "清华大学发了凌妙妙转场",
@@ -1521,14 +1553,6 @@
       "onboard_time": 1730837412,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83042,
-      "num": 307119,
-      "word": "肖战意大利被偶遇",
-      "onboard_time": 1730874324,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 82231,
@@ -1569,14 +1593,6 @@
       "onboard_time": 1730867545,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68161,
-      "num": 207994,
-      "word": "夜市偶遇周子瑜叶舒华",
-      "onboard_time": 1730874564,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 67272,
@@ -1891,12 +1907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10412,
+      "num": 375996,
+      "word": "商场也会成为时代的眼泪吗",
+      "onboard_time": 1730875167,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9596,
       "num": 389820,
       "word": "美媒预测特朗普暂获198张选举人票",
       "onboard_time": 1730864303,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 7392,
+      "num": 352903,
+      "word": "上海网红景点现泊狗位引热议",
+      "onboard_time": 1730875287,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5900,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730874653887,
+  "endTime": 1730875423654,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10862910,
+      "raw_hot": 11735355,
       "num": 1031217,
       "word": "美国大选",
       "onboard_time": 1730645479,
@@ -72,6 +72,14 @@
       "word": "美国大选选举日所有投票结束",
       "onboard_time": 1730873246,
       "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 4754531,
+      "num": 307332,
+      "word": "特朗普即将发表讲话",
+      "onboard_time": 1730874625,
+      "rank": 18,
       "category": "国外时政"
     },
     {
@@ -931,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1045892,
+      "num": 579910,
+      "word": "花儿与中年",
+      "onboard_time": 1730871563,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1034579,
       "num": 1034579,
       "word": "歼35A将公开亮相",
@@ -993,14 +1009,6 @@
       "onboard_time": 1730724619,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1012800,
-      "num": 570796,
-      "word": "花儿与中年",
-      "onboard_time": 1730871563,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1007438,
@@ -1811,6 +1819,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 645284,
+      "num": 645284,
+      "word": "特朗普将发表讲话",
+      "onboard_time": 1730874744,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 644714,
       "num": 644714,
       "word": "还我庄图南",
@@ -1985,6 +2001,14 @@
       "onboard_time": 1730622378,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607783,
+      "num": 309839,
+      "word": "哈里斯暂时不会发表讲话",
+      "onboard_time": 1730873304,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 600593,
@@ -2369,14 +2393,6 @@
       "onboard_time": 1730619857,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526420,
-      "num": 307332,
-      "word": "特朗普即将发表讲话",
-      "onboard_time": 1730874625,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 524186,
@@ -3091,12 +3107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387449,
+      "num": 357840,
+      "word": "李兰迪评论区",
+      "onboard_time": 1730874625,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386821,
       "num": 386821,
       "word": "美学者称中国人基本上都是现实主义者",
       "onboard_time": 1730770999,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386024,
+      "num": 343442,
+      "word": "虞书欣让新浪下次还找她",
+      "onboard_time": 1730874144,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 384830,
@@ -3123,6 +3155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 383529,
+      "num": 383529,
+      "word": "以色列总理宣布解雇国防部长",
+      "onboard_time": 1730871563,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 381797,
       "num": 381797,
       "word": "谁说Faker老了这Faker太棒了",
@@ -3137,14 +3177,6 @@
       "onboard_time": 1730788821,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 378695,
-      "num": 378695,
-      "word": "以色列总理宣布解雇国防部长",
-      "onboard_time": 1730871563,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 378284,
@@ -3451,6 +3483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334196,
+      "num": 334196,
+      "word": "川大智胜午后涨停",
+      "onboard_time": 1730871265,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333844,
       "num": 333844,
       "word": "张婧仪 幻视回国后的朱韵",
@@ -3659,14 +3699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312328,
-      "num": 309839,
-      "word": "哈里斯暂时不会发表讲话",
-      "onboard_time": 1730873304,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "奚梦瑶宣传",
@@ -3689,14 +3721,6 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 306859,
-      "num": 306859,
-      "word": "川大智胜午后涨停",
-      "onboard_time": 1730871265,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 306732,
@@ -3761,14 +3785,6 @@
       "onboard_time": 1730779160,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297172,
-      "num": 297172,
-      "word": "虞书欣让新浪下次还找她",
-      "onboard_time": 1730874144,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 296581,
@@ -3897,6 +3913,14 @@
       "onboard_time": 1730728222,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286800,
+      "num": 286800,
+      "word": "兮妃回宫",
+      "onboard_time": 1730874625,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 285399,
@@ -4587,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233787,
+      "num": 307119,
+      "word": "肖战意大利被偶遇",
+      "onboard_time": 1730874324,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -4881,6 +4913,14 @@
       "onboard_time": 1730727321,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 217348,
+      "num": 218129,
+      "word": "蓝盈莹坐飞机偶遇杨迪",
+      "onboard_time": 1730873425,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 216672,
@@ -5187,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205714,
+      "num": 347094,
+      "word": "马斯克突然来北京是谣言",
+      "onboard_time": 1730870484,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205518,
       "num": 219258,
       "word": "刘宇宁演技",
@@ -5281,14 +5329,6 @@
       "onboard_time": 1730723420,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204712,
-      "num": 347094,
-      "word": "马斯克突然来北京是谣言",
-      "onboard_time": 1730870484,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204533,
@@ -6915,14 +6955,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 161393,
-      "num": 218129,
-      "word": "蓝盈莹坐飞机偶遇杨迪",
-      "onboard_time": 1730873425,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161361,
       "num": 161361,
       "word": "权志龙居家生活照",
@@ -7531,6 +7563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143340,
+      "num": 310116,
+      "word": "来自鲲鹏的压迫感",
+      "onboard_time": 1730873185,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
       "raw_hot": 143144,
       "num": 143144,
       "word": "永夜星河第八集 好嗑",
@@ -7649,6 +7689,14 @@
       "onboard_time": 1730858060,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140731,
+      "num": 207994,
+      "word": "夜市偶遇周子瑜叶舒华",
+      "onboard_time": 1730874564,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 140373,
@@ -8243,6 +8291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123791,
+      "num": 123791,
+      "word": "光夜 邻国那个年轻君主",
+      "onboard_time": 1730875226,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123770,
       "num": 278372,
       "word": "林诗栋vs法尔克",
@@ -8371,14 +8427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120332,
-      "num": 310116,
-      "word": "来自鲲鹏的压迫感",
-      "onboard_time": 1730873185,
-      "rank": 11,
-      "category": "军事"
-    },
-    {
       "raw_hot": 120080,
       "num": 120080,
       "word": "返回地球路上神十八航天员在干啥",
@@ -8409,14 +8457,6 @@
       "onboard_time": 1730593397,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119097,
-      "num": 119097,
-      "word": "兮妃回宫",
-      "onboard_time": 1730874625,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 118948,
@@ -8499,14 +8539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116605,
-      "num": 116605,
-      "word": "李兰迪评论区",
-      "onboard_time": 1730874625,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116564,
       "num": 116564,
       "word": "原来更年期这么难受",
@@ -8577,6 +8609,14 @@
       "onboard_time": 1730778623,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114244,
+      "num": 336043,
+      "word": "赵露思问什么时候供暖",
+      "onboard_time": 1730874324,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 113245,
@@ -9059,14 +9099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87697,
-      "num": 308357,
-      "word": "赵露思问什么时候供暖",
-      "onboard_time": 1730874324,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86701,
       "num": 384099,
       "word": "陈哲远红发深V造型",
@@ -9145,14 +9177,6 @@
       "onboard_time": 1730569578,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83042,
-      "num": 307119,
-      "word": "肖战意大利被偶遇",
-      "onboard_time": 1730874324,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 82395,
@@ -9321,14 +9345,6 @@
       "onboard_time": 1730766621,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68161,
-      "num": 207994,
-      "word": "夜市偶遇周子瑜叶舒华",
-      "onboard_time": 1730874564,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 67854,
@@ -11243,6 +11259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 10412,
+      "num": 375996,
+      "word": "商场也会成为时代的眼泪吗",
+      "onboard_time": 1730875167,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9963,
       "num": 415105,
       "word": "空军歼35A将在中国航展亮相",
@@ -11272,6 +11296,14 @@
       "word": "3分钟解锁进博",
       "onboard_time": 1730729124,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7392,
+      "num": 352903,
+      "word": "上海网红景点现泊狗位引热议",
+      "onboard_time": 1730875287,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],

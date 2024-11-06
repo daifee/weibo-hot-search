@@ -1,0 +1,410 @@
+{
+  "runTime": 1730875423654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1092127,
+        "num": 1174740,
+        "word": "丁禹兮收拾收拾准备升咖",
+        "onboard_time": 1730869226,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 645284,
+        "num": 645284,
+        "word": "特朗普将发表讲话",
+        "onboard_time": 1730874744,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 13362,
+        "num": 587054,
+        "word": "文化中国行看荆楚瑰宝",
+        "onboard_time": 1730863642,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187194,
+        "num": 583416,
+        "word": "性别争议奥运冠军被曝为男性",
+        "onboard_time": 1730865624,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045892,
+        "num": 579910,
+        "word": "花儿与中年",
+        "onboard_time": 1730871563,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574262,
+        "num": 574262,
+        "word": "上海某中学疑似调查学生家庭背景阶层",
+        "onboard_time": 1730865264,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517381,
+        "num": 517381,
+        "word": "柳州女子系酒后呕吐朋友搀扶",
+        "onboard_time": 1730869045,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383529,
+        "num": 383529,
+        "word": "以色列总理宣布解雇国防部长",
+        "onboard_time": 1730871563,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 379747,
+        "num": 379747,
+        "word": "丁禹兮在超话发壁纸",
+        "onboard_time": 1730873905,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10412,
+        "num": 375996,
+        "word": "商场也会成为时代的眼泪吗",
+        "onboard_time": 1730875167,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11735355,
+        "num": 371880,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 732644,
+        "num": 366644,
+        "word": "艺洋训狗",
+        "onboard_time": 1730864482,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4999533,
+        "num": 361416,
+        "word": "美国大选选举日所有投票结束",
+        "onboard_time": 1730873246,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 387449,
+        "num": 357840,
+        "word": "李兰迪评论区",
+        "onboard_time": 1730874625,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7392,
+        "num": 352903,
+        "word": "上海网红景点现泊狗位引热议",
+        "onboard_time": 1730875287,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3529349,
+        "num": 344535,
+        "word": "美国共和党赢得参议院控制权",
+        "onboard_time": 1730870663,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386024,
+        "num": 343442,
+        "word": "虞书欣让新浪下次还找她",
+        "onboard_time": 1730874144,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114244,
+        "num": 336043,
+        "word": "赵露思问什么时候供暖",
+        "onboard_time": 1730874324,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334196,
+        "num": 334196,
+        "word": "川大智胜午后涨停",
+        "onboard_time": 1730871265,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233787,
+        "num": 289348,
+        "word": "肖战意大利被偶遇",
+        "onboard_time": 1730874324,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286800,
+        "num": 286800,
+        "word": "兮妃回宫",
+        "onboard_time": 1730874625,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270108,
+        "num": 270108,
+        "word": "大侦探团综 群像",
+        "onboard_time": 1730873364,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264384,
+        "num": 264384,
+        "word": "蒂芙尼成都太古里店被砸",
+        "onboard_time": 1730864963,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236276,
+        "num": 236276,
+        "word": "赵丽颖新剧超短发",
+        "onboard_time": 1730868266,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227941,
+        "num": 227941,
+        "word": "山西七里峪风景区惊现干尸",
+        "onboard_time": 1730866944,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217348,
+        "num": 217348,
+        "word": "蓝盈莹坐飞机偶遇杨迪",
+        "onboard_time": 1730873425,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213706,
+        "num": 213706,
+        "word": "伊能静40年前的人生照片",
+        "onboard_time": 1730872946,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 878089,
+        "num": 211438,
+        "word": "特朗普赢下摇摆州北卡罗来纳",
+        "onboard_time": 1730867607,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205714,
+        "num": 205714,
+        "word": "马斯克突然来北京是谣言",
+        "onboard_time": 1730870484,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204679,
+        "num": 204679,
+        "word": "个人U盘涉密沦为间谍帮手终获死刑",
+        "onboard_time": 1730868746,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187525,
+        "num": 187525,
+        "word": "山城小栗旬也去找晓华剪头发了",
+        "onboard_time": 1730869347,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179294,
+        "num": 179294,
+        "word": "女子24小时内接受6个整容手术后死亡",
+        "onboard_time": 1730855662,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174901,
+        "num": 174901,
+        "word": "虞书欣loopy塑",
+        "onboard_time": 1730866706,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4754531,
+        "num": 174474,
+        "word": "特朗普即将发表讲话",
+        "onboard_time": 1730874625,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172052,
+        "num": 172052,
+        "word": "内娱花果山",
+        "onboard_time": 1730866226,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171095,
+        "num": 171095,
+        "word": "歼35A的A代表什么",
+        "onboard_time": 1730872223,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 167288,
+        "num": 167288,
+        "word": "肖战米黄色外套",
+        "onboard_time": 1730869826,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163306,
+        "num": 163306,
+        "word": "海马体创始人发声",
+        "onboard_time": 1730850079,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 607783,
+        "num": 160532,
+        "word": "哈里斯暂时不会发表讲话",
+        "onboard_time": 1730873304,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155925,
+        "num": 155925,
+        "word": "花少更新",
+        "onboard_time": 1730869646,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145145,
+        "num": 145145,
+        "word": "阿娇 神女赛道",
+        "onboard_time": 1730863883,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143340,
+        "num": 143340,
+        "word": "来自鲲鹏的压迫感",
+        "onboard_time": 1730873185,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140731,
+        "num": 140731,
+        "word": "夜市偶遇周子瑜叶舒华",
+        "onboard_time": 1730874564,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126504,
+        "num": 126504,
+        "word": "撞上劳斯莱斯的货车只有100万保险",
+        "onboard_time": 1730821401,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90699,
+        "num": 124993,
+        "word": "赵露思真的很爱咖啡",
+        "onboard_time": 1730869586,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123791,
+        "num": 123791,
+        "word": "光夜 邻国那个年轻君主",
+        "onboard_time": 1730875226,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122288,
+        "num": 122288,
+        "word": "国产假睫毛成老外刚需",
+        "onboard_time": 1730868806,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121364,
+        "num": 121364,
+        "word": "网红夫妇被传患病多家饭店砸餐具",
+        "onboard_time": 1730860221,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116511,
+        "num": 116511,
+        "word": "董宇辉回应烧麦言论",
+        "onboard_time": 1730867965,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 115384,
+        "num": 115384,
+        "word": "KPL年总决赛节目单",
+        "onboard_time": 1730871325,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和湖北的故事#"
+    }
+  }
+}
