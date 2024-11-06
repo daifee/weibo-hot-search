@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 15:36:08
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 16:29:12
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%B7%E5%8D%95%E9%87%91%E7%89%8C%23" target="weibo">
 樊振东男单金牌（热度：32002243）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E8%8E%B7%E8%83%9C%23" target="weibo">
+特朗普正式宣布获胜（热度：30976920）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 张志杰去世（热度：7901681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-BLG对战T1（热度：7849827）
 </a>
 </li>
 

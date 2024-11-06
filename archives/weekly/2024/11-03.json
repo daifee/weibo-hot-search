@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730878568774,
+  "endTime": 1730881752731,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -16,6 +16,14 @@
       "word": "特朗普将发表讲话",
       "onboard_time": 1730874744,
       "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 30976920,
+      "num": 32147579,
+      "word": "特朗普正式宣布获胜",
+      "onboard_time": 1730879370,
+      "rank": 0,
       "category": "国外时政"
     },
     {
@@ -232,6 +240,22 @@
       "word": "特朗普赢得佛州全部选举人票",
       "onboard_time": 1730858122,
       "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2497741,
+      "num": 2497741,
+      "word": "外交部回应美国大选结果",
+      "onboard_time": 1730878833,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2345722,
+      "num": 638613,
+      "word": "泽连斯基",
+      "onboard_time": 1730878233,
+      "rank": 34,
       "category": "国外时政"
     },
     {
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1409270,
+      "num": 1409270,
+      "word": "永夜星河直播",
+      "onboard_time": 1730628678,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1405650,
       "num": 955741,
       "word": "瑞士卷 消费降级",
@@ -963,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1062476,
+      "num": 613695,
+      "word": "陈好 恶意剪辑",
+      "onboard_time": 1730880209,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1055760,
       "num": 1158090,
       "word": "特朗普被马斯克通知或遭暗杀",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1730724619,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1017959,
+      "num": 1017959,
+      "word": "黄金",
+      "onboard_time": 1730876918,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 1007438,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1730623759,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944734,
+      "num": 444380,
+      "word": "所有男明星都看过来",
+      "onboard_time": 1730875766,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 940137,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1730869105,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 744158,
+      "num": 744158,
+      "word": "特斯拉",
+      "onboard_time": 1730878472,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 734419,
@@ -2075,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 597259,
-      "num": 443639,
-      "word": "所有男明星都看过来",
-      "onboard_time": 1730875766,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 596295,
       "num": 596295,
       "word": "BLG 自ban蝎子",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1730618119,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586523,
+      "num": 586523,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 585860,
@@ -2409,14 +2473,6 @@
       "onboard_time": 1730800762,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537648,
-      "num": 537648,
-      "word": "黄金",
-      "onboard_time": 1730876918,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 537332,
@@ -2811,6 +2867,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 446600,
+      "num": 379593,
+      "word": "永夜星河 剧粉",
+      "onboard_time": 1730877335,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446144,
       "num": 405464,
       "word": "刘梓晨安利赵露思新剧",
@@ -2865,6 +2929,14 @@
       "onboard_time": 1730729722,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440287,
+      "num": 440287,
+      "word": "李兰迪否认喝酒多",
+      "onboard_time": 1730879132,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 439700,
@@ -3723,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316650,
+      "num": 316650,
+      "word": "外交部称尊重美国人民的选择",
+      "onboard_time": 1730880269,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 316176,
       "num": 259557,
       "word": "永夜星河 月光变奏曲",
@@ -4297,14 +4377,6 @@
       "onboard_time": 1730795720,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257696,
-      "num": 257696,
-      "word": "泽连斯基",
-      "onboard_time": 1730878233,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 257537,
@@ -5003,14 +5075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218723,
-      "num": 297622,
-      "word": "永夜星河 剧粉",
-      "onboard_time": 1730877335,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218402,
       "num": 218402,
       "word": "广西大学通报",
@@ -5065,6 +5129,14 @@
       "onboard_time": 1730804899,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214414,
+      "num": 438011,
+      "word": "快递弄丢1.3万银币判赔6千",
+      "onboard_time": 1730878532,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214109,
@@ -5235,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208186,
+      "num": 208186,
+      "word": "慕声怎么洗头",
+      "onboard_time": 1730879430,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208131,
       "num": 208131,
       "word": "3岁男童果冻卡喉窒息ICU住5天",
@@ -5265,6 +5345,14 @@
       "onboard_time": 1730770999,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207333,
+      "num": 207333,
+      "word": "东京电影节",
+      "onboard_time": 1730881288,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 207120,
@@ -5419,6 +5507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204773,
+      "num": 204773,
+      "word": "子午线",
+      "onboard_time": 1730880689,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204737,
       "num": 204737,
       "word": "穆祉丞发博让私生离私生活远一点",
@@ -5497,6 +5593,14 @@
       "onboard_time": 1730626099,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202460,
+      "num": 192782,
+      "word": "时空中的绘旅人回应被侵权",
+      "onboard_time": 1730881347,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 202279,
@@ -5875,6 +5979,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 193468,
+      "num": 193468,
+      "word": "怎么不带张一山",
+      "onboard_time": 1730878112,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192888,
       "num": 192888,
       "word": "迪丽热巴的保暖look",
@@ -5979,14 +6091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190969,
-      "num": 190969,
-      "word": "怎么不带张一山",
-      "onboard_time": 1730878112,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "心动的信号",
@@ -6003,20 +6107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189925,
+      "num": 189925,
+      "word": "易烊千玺的24岁生日愿望",
+      "onboard_time": 1730879551,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189714,
       "num": 287634,
       "word": "95花谁能第一个飞升",
       "onboard_time": 1730787019,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189622,
-      "num": 189622,
-      "word": "特斯拉",
-      "onboard_time": 1730878472,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 189508,
@@ -6481,6 +6585,14 @@
       "onboard_time": 1730634319,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175705,
+      "num": 417848,
+      "word": "当地回应盲人女孩学习按摩被摸胸",
+      "onboard_time": 1730876437,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175508,
@@ -7243,14 +7355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158250,
-      "num": 438011,
-      "word": "快递弄丢1.3万银币判赔6千",
-      "onboard_time": 1730878532,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157956,
       "num": 157956,
       "word": "以闪亮之名文案",
@@ -7347,6 +7451,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 155421,
+      "num": 730761,
+      "word": "广东湛江一垃圾桶旁发现男婴",
+      "onboard_time": 1730881048,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155388,
       "num": 155388,
       "word": "永夜星河热度",
@@ -7377,6 +7489,14 @@
       "onboard_time": 1730708058,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154294,
+      "num": 451818,
+      "word": "境外间谍用终身监禁恐吓涉密人员",
+      "onboard_time": 1730877872,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153843,
@@ -7424,6 +7544,14 @@
       "word": "宁艺卓直拍",
       "onboard_time": 1730564181,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152139,
+      "num": 152139,
+      "word": "张馨予身为演员的底气",
+      "onboard_time": 1730881587,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -7595,12 +7723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147114,
-      "num": 417848,
-      "word": "当地回应盲人女孩学习按摩被摸胸",
-      "onboard_time": 1730876437,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 147263,
+      "num": 147263,
+      "word": "运20的压迫感有多强",
+      "onboard_time": 1730880629,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 147099,
@@ -7705,14 +7833,6 @@
       "onboard_time": 1730793981,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 143612,
-      "num": 116512,
-      "word": "永夜星河直播",
-      "onboard_time": 1730628678,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 143349,
@@ -7937,14 +8057,6 @@
       "onboard_time": 1730636778,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138372,
-      "num": 451818,
-      "word": "境外间谍用终身监禁恐吓涉密人员",
-      "onboard_time": 1730877872,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138300,
@@ -8931,6 +9043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108877,
+      "num": 404491,
+      "word": "咖啡已经nextlevel了",
+      "onboard_time": 1730876799,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108867,
       "num": 156754,
       "word": "一个人成熟的6种迹象",
@@ -9587,6 +9707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66730,
+      "num": 411589,
+      "word": "姑娘路边高价买雪莲花实为山茶花",
+      "onboard_time": 1730880330,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65916,
       "num": 330128,
       "word": "任敏发长文告别锦绣安宁",
@@ -9601,6 +9729,14 @@
       "onboard_time": 1730866525,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65516,
+      "num": 214672,
+      "word": "周冠宇离开索伯车队",
+      "onboard_time": 1730881407,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 65072,
@@ -9683,14 +9819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60995,
-      "num": 404491,
-      "word": "咖啡已经nextlevel了",
-      "onboard_time": 1730876799,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60022,
       "num": 289985,
       "word": "李昊直播",
@@ -9721,6 +9849,14 @@
       "onboard_time": 1730748970,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 57960,
+      "num": 679794,
+      "word": "魏哲鸣摩登大片人夫感的神",
+      "onboard_time": 1730877394,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56918,
@@ -10091,6 +10227,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 42146,
+      "num": 207720,
+      "word": "在零下50℃的户外是什么体验",
+      "onboard_time": 1730878413,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41884,
       "num": 300233,
       "word": "赵叔回应大米被副局长带火",
@@ -10379,6 +10523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33928,
+      "num": 214414,
+      "word": "女理发师因听得懂话爆火",
+      "onboard_time": 1730880629,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33851,
       "num": 479055,
       "word": "刘琳宋佳影响力演员",
@@ -10593,14 +10745,6 @@
       "onboard_time": 1730815404,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27358,
-      "num": 420135,
-      "word": "魏哲鸣摩登大片人夫感的神",
-      "onboard_time": 1730877394,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27333,
@@ -11012,7 +11156,7 @@
     },
     {
       "raw_hot": 19208,
-      "num": 1105905,
+      "num": 1572982,
       "word": "文化中国行看荆楚瑰宝",
       "onboard_time": 1730863642,
       "rank": 2,
@@ -11257,14 +11401,6 @@
       "onboard_time": 1730618899,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15285,
-      "num": 189659,
-      "word": "在零下50℃的户外是什么体验",
-      "onboard_time": 1730878413,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15282,

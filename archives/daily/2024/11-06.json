@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730878568774,
+  "endTime": 1730881752731,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -16,6 +16,14 @@
       "word": "特朗普将发表讲话",
       "onboard_time": 1730874744,
       "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 30976920,
+      "num": 32147579,
+      "word": "特朗普正式宣布获胜",
+      "onboard_time": 1730879370,
+      "rank": 0,
       "category": "国外时政"
     },
     {
@@ -99,6 +107,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2497741,
+      "num": 2497741,
+      "word": "外交部回应美国大选结果",
+      "onboard_time": 1730878833,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2345722,
+      "num": 638613,
+      "word": "泽连斯基",
+      "onboard_time": 1730878233,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2116621,
       "num": 412850,
       "word": "美35个州和华盛顿特区结束大选投票",
@@ -153,6 +177,14 @@
       "onboard_time": 1730861601,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1409270,
+      "num": 1409270,
+      "word": "永夜星河直播",
+      "onboard_time": 1730881706,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1354924,
@@ -211,12 +243,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1062476,
+      "num": 613695,
+      "word": "陈好 恶意剪辑",
+      "onboard_time": 1730880209,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1017959,
+      "num": 1017959,
+      "word": "黄金",
+      "onboard_time": 1730876918,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 957688,
       "num": 1149265,
       "word": "警方通报徒步发现路边有尸骨",
       "onboard_time": 1730863763,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944734,
+      "num": 444380,
+      "word": "所有男明星都看过来",
+      "onboard_time": 1730875766,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 938989,
@@ -289,6 +345,14 @@
       "onboard_time": 1730869105,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 744158,
+      "num": 744158,
+      "word": "特斯拉",
+      "onboard_time": 1730878472,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 733898,
@@ -371,20 +435,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 597259,
-      "num": 443639,
-      "word": "所有男明星都看过来",
-      "onboard_time": 1730875766,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 593730,
       "num": 593730,
       "word": "阿娇 神女赛道",
       "onboard_time": 1730863883,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 586523,
+      "num": 586523,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 571701,
@@ -435,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537648,
-      "num": 537648,
-      "word": "黄金",
-      "onboard_time": 1730876918,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 524186,
       "num": 524186,
       "word": "杨紫生日高定",
@@ -483,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446600,
+      "num": 379593,
+      "word": "永夜星河 剧粉",
+      "onboard_time": 1730877335,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440937,
       "num": 440937,
       "word": "虞书欣loopy塑",
       "onboard_time": 1730866706,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440287,
+      "num": 440287,
+      "word": "李兰迪否认喝酒多",
+      "onboard_time": 1730879132,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 433269,
@@ -651,6 +723,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 316650,
+      "num": 316650,
+      "word": "外交部称尊重美国人民的选择",
+      "onboard_time": 1730880269,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 316029,
       "num": 287816,
       "word": "发型师晓华否认自己技术好",
@@ -785,14 +865,6 @@
       "onboard_time": 1730812703,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257696,
-      "num": 257696,
-      "word": "泽连斯基",
-      "onboard_time": 1730878233,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 257537,
@@ -963,12 +1035,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 218723,
-      "num": 297622,
-      "word": "永夜星河 剧粉",
-      "onboard_time": 1730877335,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 214414,
+      "num": 438011,
+      "word": "快递弄丢1.3万银币判赔6千",
+      "onboard_time": 1730878532,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211577,
@@ -995,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208186,
+      "num": 208186,
+      "word": "慕声怎么洗头",
+      "onboard_time": 1730879430,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207762,
       "num": 506754,
       "word": "美国大选多个投票站遭炸弹威胁",
       "onboard_time": 1730856141,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 207333,
+      "num": 207333,
+      "word": "东京电影节",
+      "onboard_time": 1730881288,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 206461,
@@ -1027,12 +1115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204773,
+      "num": 204773,
+      "word": "子午线",
+      "onboard_time": 1730880689,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203903,
       "num": 203903,
       "word": "董宇辉回应烧麦言论",
       "onboard_time": 1730867965,
       "rank": 47,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 202460,
+      "num": 192782,
+      "word": "时空中的绘旅人回应被侵权",
+      "onboard_time": 1730881347,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 201399,
@@ -1067,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193468,
+      "num": 193468,
+      "word": "怎么不带张一山",
+      "onboard_time": 1730878112,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192469,
       "num": 240583,
       "word": "月光变奏曲",
@@ -1075,20 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190969,
-      "num": 190969,
-      "word": "怎么不带张一山",
-      "onboard_time": 1730878112,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 189622,
-      "num": 189622,
-      "word": "特斯拉",
-      "onboard_time": 1730878472,
-      "rank": 47,
-      "category": "汽车"
+      "raw_hot": 189925,
+      "num": 189925,
+      "word": "易烊千玺的24岁生日愿望",
+      "onboard_time": 1730879551,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 187293,
@@ -1176,6 +1280,14 @@
       "word": "我国县级博物馆卧虎藏龙",
       "onboard_time": 1730844312,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175705,
+      "num": 417848,
+      "word": "当地回应盲人女孩学习按摩被摸胸",
+      "onboard_time": 1730876437,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1275,20 +1387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158250,
-      "num": 438011,
-      "word": "快递弄丢1.3万银币判赔6千",
-      "onboard_time": 1730878532,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156350,
       "num": 156350,
       "word": "哈里斯特朗普竞选主张大pk",
       "onboard_time": 1730806160,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 155421,
+      "num": 730761,
+      "word": "广东湛江一垃圾桶旁发现男婴",
+      "onboard_time": 1730881048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154814,
@@ -1299,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154294,
+      "num": 451818,
+      "word": "境外间谍用终身监禁恐吓涉密人员",
+      "onboard_time": 1730877872,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152608,
       "num": 348291,
       "word": "歼15T也来了",
       "onboard_time": 1730867245,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 152139,
+      "num": 152139,
+      "word": "张馨予身为演员的底气",
+      "onboard_time": 1730881587,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 150207,
@@ -1331,12 +1459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147114,
-      "num": 417848,
-      "word": "当地回应盲人女孩学习按摩被摸胸",
-      "onboard_time": 1730876437,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 147263,
+      "num": 147263,
+      "word": "运20的压迫感有多强",
+      "onboard_time": 1730880629,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 147084,
@@ -1377,14 +1505,6 @@
       "onboard_time": 1730858060,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138372,
-      "num": 451818,
-      "word": "境外间谍用终身监禁恐吓涉密人员",
-      "onboard_time": 1730877872,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137115,
@@ -1595,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108877,
+      "num": 404491,
+      "word": "咖啡已经nextlevel了",
+      "onboard_time": 1730876799,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108867,
       "num": 156754,
       "word": "一个人成熟的6种迹象",
@@ -1803,12 +1931,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 66730,
+      "num": 411589,
+      "word": "姑娘路边高价买雪莲花实为山茶花",
+      "onboard_time": 1730880330,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65521,
       "num": 254176,
       "word": "子午线 一对小苦瓜",
       "onboard_time": 1730866525,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65516,
+      "num": 214672,
+      "word": "周冠宇离开索伯车队",
+      "onboard_time": 1730881407,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 65072,
@@ -1843,12 +1987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60995,
-      "num": 404491,
-      "word": "咖啡已经nextlevel了",
-      "onboard_time": 1730876799,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 57960,
+      "num": 679794,
+      "word": "魏哲鸣摩登大片人夫感的神",
+      "onboard_time": 1730877394,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56078,
@@ -1905,6 +2049,14 @@
       "onboard_time": 1730876738,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 42146,
+      "num": 207720,
+      "word": "在零下50℃的户外是什么体验",
+      "onboard_time": 1730878413,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41030,
@@ -1971,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33928,
+      "num": 214414,
+      "word": "女理发师因听得懂话爆火",
+      "onboard_time": 1730880629,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31795,
       "num": 343777,
       "word": "波司登首创动态御寒科技体系",
@@ -2009,14 +2169,6 @@
       "onboard_time": 1730833872,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27358,
-      "num": 420135,
-      "word": "魏哲鸣摩登大片人夫感的神",
-      "onboard_time": 1730877394,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27309,
@@ -2100,18 +2252,10 @@
     },
     {
       "raw_hot": 19208,
-      "num": 1105905,
+      "num": 1572982,
       "word": "文化中国行看荆楚瑰宝",
       "onboard_time": 1730863642,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15285,
-      "num": 189659,
-      "word": "在零下50℃的户外是什么体验",
-      "onboard_time": 1730878413,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
