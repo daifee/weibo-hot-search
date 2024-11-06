@@ -1,0 +1,410 @@
+{
+  "runTime": 1730899685621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388925,
+        "num": 1388925,
+        "word": "苹果喊话iPhone13和14钉子户",
+        "onboard_time": 1730889803,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1378053,
+        "num": 1378053,
+        "word": "合肥地震",
+        "onboard_time": 1730897001,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28194,
+        "num": 1151565,
+        "word": "数读我国防沙治沙成绩单",
+        "onboard_time": 1730896281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6534296,
+        "num": 1146697,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1134411,
+        "num": 1134411,
+        "word": "博士情侣瞒领导下班摆摊月入3万",
+        "onboard_time": 1730897660,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2260594,
+        "num": 1103022,
+        "word": "哈里斯支持者黯然离开",
+        "onboard_time": 1730893640,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 921448,
+        "num": 921448,
+        "word": "李现宣传期要给杨紫拍照",
+        "onboard_time": 1730897242,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 989018,
+        "num": 916999,
+        "word": "王楚钦vs卡尔伯格",
+        "onboard_time": 1730898383,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271720,
+        "num": 903520,
+        "word": "麦麦想要的安全感原来是这样",
+        "onboard_time": 1730895080,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357070,
+        "num": 891316,
+        "word": "郑钦文vs保利尼",
+        "onboard_time": 1730894722,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1401244,
+        "num": 865066,
+        "word": "萝莉岛",
+        "onboard_time": 1730885783,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1205515,
+        "num": 860364,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 848921,
+        "num": 848921,
+        "word": "河南一医院发生爆炸一名医生身亡",
+        "onboard_time": 1730896821,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34353,
+        "num": 801195,
+        "word": "35元山寨故宫冰箱贴满街都是",
+        "onboard_time": 1730898201,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779525,
+        "num": 779525,
+        "word": "虞书欣拍刘亦菲",
+        "onboard_time": 1730897722,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 947979,
+        "num": 752851,
+        "word": "特朗普夸马斯克是超级天才",
+        "onboard_time": 1730895320,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 512911,
+        "num": 726123,
+        "word": "杨紫32岁生日发文",
+        "onboard_time": 1730892740,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378786,
+        "num": 699346,
+        "word": "赵露思馕比脸大",
+        "onboard_time": 1730886383,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28431,
+        "num": 685128,
+        "word": "郑钦文先下一盘",
+        "onboard_time": 1730899342,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665089,
+        "num": 665089,
+        "word": "金价",
+        "onboard_time": 1730879910,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 448278,
+        "num": 448278,
+        "word": "美邦老板怒批小杨哥想复播",
+        "onboard_time": 1730898621,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 437911,
+        "num": 437911,
+        "word": "哈里斯未承认败选",
+        "onboard_time": 1730882425,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 430391,
+        "num": 430391,
+        "word": "丁禹兮 我想进步",
+        "onboard_time": 1730891901,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368558,
+        "num": 368558,
+        "word": "新娘结婚请了50个机位摄像",
+        "onboard_time": 1730895741,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352672,
+        "num": 352672,
+        "word": "特朗普称上帝饶了我一命是有原因的",
+        "onboard_time": 1730895501,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 342511,
+        "num": 342511,
+        "word": "虞书欣镜头下的群星",
+        "onboard_time": 1730894541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288118,
+        "num": 288118,
+        "word": "陈好花少半夜独行5个小时",
+        "onboard_time": 1730883984,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257761,
+        "num": 257761,
+        "word": "再见爱人真给庞博想出办法来了",
+        "onboard_time": 1730898561,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251168,
+        "num": 251168,
+        "word": "向佐回应不会和郭碧婷参加再见爱人",
+        "onboard_time": 1730893820,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83672,
+        "num": 250645,
+        "word": "郑钦文状态",
+        "onboard_time": 1730898981,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320818,
+        "num": 250641,
+        "word": "特朗普宣称接下来是美国的黄金时代",
+        "onboard_time": 1730895320,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 261219,
+        "num": 250619,
+        "word": "港媒称霍启刚不点名批杜琪峰",
+        "onboard_time": 1730898502,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 250554,
+        "num": 250554,
+        "word": "小巷人家",
+        "onboard_time": 1730898321,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250156,
+        "num": 250156,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240588,
+        "num": 240588,
+        "word": "房贷利率不得低于2.95%是真的吗",
+        "onboard_time": 1730894361,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240646,
+        "num": 239927,
+        "word": "马斯克刷大火箭祝贺特朗普获胜",
+        "onboard_time": 1730891121,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235500,
+        "num": 235500,
+        "word": "陈好 恶意剪辑",
+        "onboard_time": 1730880209,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218772,
+        "num": 218772,
+        "word": "普京对多国大使直言双边接触降至最低点",
+        "onboard_time": 1730891361,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206979,
+        "num": 206979,
+        "word": "学校回应女学生跳楼事件",
+        "onboard_time": 1730896461,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199835,
+        "num": 199835,
+        "word": "永夜星河",
+        "onboard_time": 1730884883,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198664,
+        "num": 198664,
+        "word": "珠帘玉幕赵露思刘宇宁吻戏",
+        "onboard_time": 1730895801,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188716,
+        "num": 188716,
+        "word": "苹果最新宣传广告被嘲",
+        "onboard_time": 1730898681,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185353,
+        "num": 185353,
+        "word": "马龙回应想默默淡出赛场",
+        "onboard_time": 1730898681,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 183667,
+        "word": "印度17岁跆拳道运动员遭邻居斩首",
+        "onboard_time": 1730887882,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169585,
+        "num": 169585,
+        "word": "永夜星河直播",
+        "onboard_time": 1730881706,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166959,
+        "num": 166959,
+        "word": "特朗普胜选演讲",
+        "onboard_time": 1730885185,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160486,
+        "num": 160486,
+        "word": "永夜星河致敬步步惊心",
+        "onboard_time": 1730892140,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141186,
+        "num": 141186,
+        "word": "美国历史上最贵选举",
+        "onboard_time": 1730893220,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136783,
+        "num": 136783,
+        "word": "瑞士卷可不兴一次吃6个啊",
+        "onboard_time": 1730899461,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 121286,
+        "word": "女学生跳楼家属称留有遗书",
+        "onboard_time": 1730899643,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化湖北篇章#"
+    }
+  }
+}

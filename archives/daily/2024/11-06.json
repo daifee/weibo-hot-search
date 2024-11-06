@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730897898500,
+  "endTime": 1730899685621,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3248505,
-      "num": 537196,
+      "num": 865066,
       "word": "萝莉岛",
       "onboard_time": 1730885783,
       "rank": 21,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2828835,
-      "num": 611785,
+      "num": 1103022,
       "word": "哈里斯支持者黯然离开",
       "onboard_time": 1730893640,
       "rank": 5,
@@ -235,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1378053,
+      "num": 1378053,
+      "word": "合肥地震",
+      "onboard_time": 1730897001,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1354924,
       "num": 1354924,
       "word": "老人没苦硬吃是为了填补安全感",
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1134411,
+      "num": 1134411,
+      "word": "博士情侣瞒领导下班摆摊月入3万",
+      "onboard_time": 1730897660,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131264,
       "num": 1181002,
       "word": "丁禹兮收拾收拾准备升咖",
@@ -299,12 +315,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 989018,
+      "num": 916999,
+      "word": "王楚钦vs卡尔伯格",
+      "onboard_time": 1730898383,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 957688,
       "num": 1149265,
       "word": "警方通报徒步发现路边有尸骨",
       "onboard_time": 1730863763,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947979,
+      "num": 752851,
+      "word": "特朗普夸马斯克是超级天才",
+      "onboard_time": 1730895320,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 944734,
@@ -339,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921448,
+      "num": 921448,
+      "word": "李现宣传期要给杨紫拍照",
+      "onboard_time": 1730897242,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862252,
       "num": 288895,
       "word": "马天宇建议取消8个装瑞士卷",
@@ -353,6 +393,14 @@
       "onboard_time": 1730783841,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 848921,
+      "num": 848921,
+      "word": "河南一医院发生爆炸一名医生身亡",
+      "onboard_time": 1730896821,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843478,
@@ -377,6 +425,14 @@
       "onboard_time": 1730859201,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 779525,
+      "num": 779525,
+      "word": "虞书欣拍刘亦菲",
+      "onboard_time": 1730897722,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 754688,
@@ -412,7 +468,7 @@
     },
     {
       "raw_hot": 733822,
-      "num": 552380,
+      "num": 699346,
       "word": "赵露思馕比脸大",
       "onboard_time": 1730886383,
       "rank": 8,
@@ -441,14 +497,6 @@
       "onboard_time": 1730864963,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658293,
-      "num": 569410,
-      "word": "特朗普夸马斯克是超级天才",
-      "onboard_time": 1730895320,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 657422,
@@ -529,14 +577,6 @@
       "onboard_time": 1730863883,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 575857,
-      "num": 575857,
-      "word": "合肥地震",
-      "onboard_time": 1730897001,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571701,
@@ -691,20 +731,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 448278,
+      "num": 448278,
+      "word": "美邦老板怒批小杨哥想复播",
+      "onboard_time": 1730898621,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 446600,
       "num": 379593,
       "word": "永夜星河 剧粉",
       "onboard_time": 1730877335,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 446083,
-      "num": 394621,
-      "word": "博士情侣瞒领导下班摆摊月入3万",
-      "onboard_time": 1730897660,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443932,
@@ -875,8 +915,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359689,
-      "num": 359689,
+      "raw_hot": 368558,
+      "num": 368558,
       "word": "新娘结婚请了50个机位摄像",
       "onboard_time": 1730895741,
       "rank": 21,
@@ -891,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357070,
+      "num": 891316,
+      "word": "郑钦文vs保利尼",
+      "onboard_time": 1730894722,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353980,
       "num": 353980,
       "word": "川大智胜午后涨停",
       "onboard_time": 1730871265,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 352672,
+      "num": 352672,
+      "word": "特朗普称上帝饶了我一命是有原因的",
+      "onboard_time": 1730895501,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 349691,
@@ -961,14 +1017,6 @@
       "onboard_time": 1730888242,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 320249,
-      "num": 407241,
-      "word": "河南一医院发生爆炸一名医生身亡",
-      "onboard_time": 1730896821,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319051,
@@ -1115,19 +1163,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271720,
+      "num": 903520,
+      "word": "麦麦想要的安全感原来是这样",
+      "onboard_time": 1730895080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271695,
       "num": 370975,
       "word": "张晚意 无字奖杯",
       "onboard_time": 1730865205,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 270178,
-      "num": 270178,
-      "word": "虞书欣拍刘亦菲",
-      "onboard_time": 1730897722,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1137,14 +1185,6 @@
       "onboard_time": 1730862261,
       "rank": 37,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 266342,
-      "num": 266342,
-      "word": "李现宣传期要给杨紫拍照",
-      "onboard_time": 1730897242,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 264977,
@@ -1169,6 +1209,22 @@
       "onboard_time": 1730812703,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261219,
+      "num": 250619,
+      "word": "港媒称霍启刚不点名批杜琪峰",
+      "onboard_time": 1730898502,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 257761,
+      "num": 257761,
+      "word": "再见爱人真给庞博想出办法来了",
+      "onboard_time": 1730898561,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 257537,
@@ -1200,6 +1256,14 @@
       "word": "珠帘玉幕 一个史铁生和一群余华",
       "onboard_time": 1730889383,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250554,
+      "num": 250554,
+      "word": "小巷人家",
+      "onboard_time": 1730898321,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1427,6 +1491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206979,
+      "num": 206979,
+      "word": "学校回应女学生跳楼事件",
+      "onboard_time": 1730896461,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206461,
       "num": 207994,
       "word": "夜市偶遇周子瑜叶舒华",
@@ -1523,28 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194271,
-      "num": 416789,
-      "word": "麦麦想要的安全感原来是这样",
-      "onboard_time": 1730895080,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193468,
       "num": 340961,
       "word": "怎么不带张一山",
       "onboard_time": 1730878112,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192750,
-      "num": 192750,
-      "word": "学校回应女学生跳楼事件",
-      "onboard_time": 1730896461,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192469,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1730879551,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188716,
+      "num": 188716,
+      "word": "苹果最新宣传广告被嘲",
+      "onboard_time": 1730898681,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 187913,
@@ -1617,6 +1681,14 @@
       "onboard_time": 1730869646,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185353,
+      "num": 185353,
+      "word": "马龙回应想默默淡出赛场",
+      "onboard_time": 1730898681,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 184427,
@@ -1835,14 +1907,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161552,
-      "num": 164891,
-      "word": "特朗普称上帝饶了我一命是有原因的",
-      "onboard_time": 1730895501,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 159910,
       "num": 159910,
       "word": "刘亦菲佟大为合照 张新成偷偷比耶",
@@ -1857,14 +1921,6 @@
       "onboard_time": 1730896881,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158034,
-      "num": 431443,
-      "word": "郑钦文vs保利尼",
-      "onboard_time": 1730894722,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 156350,
@@ -2035,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136783,
+      "num": 136783,
+      "word": "瑞士卷可不兴一次吃6个啊",
+      "onboard_time": 1730899461,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 136566,
       "num": 165324,
       "word": "特朗普宣布胜选后哈马斯官员发声",
@@ -2177,6 +2241,14 @@
       "onboard_time": 1730882904,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121286,
+      "num": 121286,
+      "word": "女学生跳楼家属称留有遗书",
+      "onboard_time": 1730899643,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119077,
@@ -2539,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83672,
+      "num": 250645,
+      "word": "郑钦文状态",
+      "onboard_time": 1730898981,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83575,
       "num": 161188,
       "word": "吴姗姗 偏心是一生的潮湿",
@@ -2796,7 +2876,7 @@
     },
     {
       "raw_hot": 42093,
-      "num": 935099,
+      "num": 1151565,
       "word": "数读我国防沙治沙成绩单",
       "onboard_time": 1730896281,
       "rank": 2,
@@ -2891,6 +2971,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 34353,
+      "num": 801195,
+      "word": "35元山寨故宫冰箱贴满街都是",
+      "onboard_time": 1730898201,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34167,
       "num": 53337,
       "word": "王一博联合国气候变化大会宣传视频",
@@ -2945,6 +3033,14 @@
       "onboard_time": 1730833872,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28431,
+      "num": 685128,
+      "word": "郑钦文先下一盘",
+      "onboard_time": 1730899342,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 28304,
@@ -3173,6 +3269,9 @@
     },
     {
       "word": "#做好社会工作是全党共同责任#"
+    },
+    {
+      "word": "#奋力谱写中国式现代化湖北篇章#"
     }
   ]
 }
