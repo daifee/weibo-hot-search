@@ -1,0 +1,410 @@
+{
+  "runTime": 1730896945060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8978665,
+        "num": 8978665,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1244754,
+        "num": 1244754,
+        "word": "苹果喊话iPhone13和14钉子户",
+        "onboard_time": 1730889803,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17372,
+        "num": 935099,
+        "word": "数读我国防沙治沙成绩单",
+        "onboard_time": 1730896281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754688,
+        "num": 754688,
+        "word": "杨紫32岁生日发文",
+        "onboard_time": 1730892740,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593972,
+        "num": 593972,
+        "word": "普京对多国大使直言双边接触降至最低点",
+        "onboard_time": 1730891361,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2828835,
+        "num": 586607,
+        "word": "哈里斯支持者黯然离开",
+        "onboard_time": 1730893640,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 572176,
+        "num": 572176,
+        "word": "金价",
+        "onboard_time": 1730879910,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 692188,
+        "num": 570475,
+        "word": "哈里斯未承认败选",
+        "onboard_time": 1730882425,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 403827,
+        "num": 552380,
+        "word": "赵露思馕比脸大",
+        "onboard_time": 1730886383,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79140,
+        "num": 546290,
+        "word": "一条差评带来的蝴蝶效应",
+        "onboard_time": 1730895501,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1559159,
+        "num": 537196,
+        "word": "萝莉岛",
+        "onboard_time": 1730885783,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 776820,
+        "num": 525415,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 519440,
+        "num": 519440,
+        "word": "丁禹兮 我想进步",
+        "onboard_time": 1730891901,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578699,
+        "num": 492904,
+        "word": "特朗普夸马斯克是超级天才",
+        "onboard_time": 1730895320,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18095,
+        "num": 464583,
+        "word": "为弟弟追凶27年案当事人细述过往",
+        "onboard_time": 1730896581,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276063,
+        "num": 450065,
+        "word": "陈好花少半夜独行5个小时",
+        "onboard_time": 1730883984,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440980,
+        "num": 440980,
+        "word": "马斯克刷大火箭祝贺特朗普获胜",
+        "onboard_time": 1730891121,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 431443,
+        "word": "郑钦文vs保利尼",
+        "onboard_time": 1730894722,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172873,
+        "num": 416789,
+        "word": "麦麦想要的安全感原来是这样",
+        "onboard_time": 1730895080,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158954,
+        "num": 398477,
+        "word": "大梦归离全员二刷催更",
+        "onboard_time": 1730896881,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27918,
+        "num": 366039,
+        "word": "王子奇与粉色的适配度",
+        "onboard_time": 1730893401,
+        "rank": 20,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 359689,
+        "num": 359689,
+        "word": "新娘结婚请了50个机位摄像",
+        "onboard_time": 1730895741,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350193,
+        "num": 350193,
+        "word": "虞书欣镜头下的群星",
+        "onboard_time": 1730894541,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269937,
+        "num": 269937,
+        "word": "房贷利率不得低于2.95%是真的吗",
+        "onboard_time": 1730894361,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261440,
+        "num": 261440,
+        "word": "特朗普宣称接下来是美国的黄金时代",
+        "onboard_time": 1730895320,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252742,
+        "num": 252742,
+        "word": "陈好 恶意剪辑",
+        "onboard_time": 1730880209,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245900,
+        "num": 245900,
+        "word": "张拿铁禁止爸爸跟他说中文",
+        "onboard_time": 1730888242,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255559,
+        "num": 243125,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218287,
+        "num": 239026,
+        "word": "永夜星河",
+        "onboard_time": 1730884883,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209503,
+        "num": 236826,
+        "word": "永夜星河直播",
+        "onboard_time": 1730881706,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236512,
+        "num": 236512,
+        "word": "医院锅炉爆炸事故已成立专案组",
+        "onboard_time": 1730892441,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205196,
+        "num": 205196,
+        "word": "永夜星河致敬步步惊心",
+        "onboard_time": 1730892140,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190675,
+        "num": 190675,
+        "word": "印度17岁跆拳道运动员遭邻居斩首",
+        "onboard_time": 1730887882,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189048,
+        "num": 189048,
+        "word": "向佐回应不会和郭碧婷参加再见爱人",
+        "onboard_time": 1730893820,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188395,
+        "num": 188395,
+        "word": "珠帘玉幕赵露思刘宇宁吻戏",
+        "onboard_time": 1730895801,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183471,
+        "num": 183471,
+        "word": "虞书欣丁禹兮三搭想演明星和站哥",
+        "onboard_time": 1730889322,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171585,
+        "num": 171585,
+        "word": "烧伤妈妈说这辈子的苦一次性吃完了",
+        "onboard_time": 1730892920,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167715,
+        "num": 167715,
+        "word": "月光变奏曲云合",
+        "onboard_time": 1730896101,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167643,
+        "num": 167643,
+        "word": "美国大选美民众疯狂囤枪",
+        "onboard_time": 1730863282,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156542,
+        "num": 166192,
+        "word": "初三学生被老师没收手机欲跳楼威胁",
+        "onboard_time": 1730888784,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165595,
+        "num": 165595,
+        "word": "美国历史上最贵选举",
+        "onboard_time": 1730893220,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151254,
+        "num": 165531,
+        "word": "鸡柳大哥 人机",
+        "onboard_time": 1730895080,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 165501,
+        "word": "学校回应女学生跳楼事件",
+        "onboard_time": 1730896461,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138536,
+        "num": 165397,
+        "word": "男子为让妻子后悔举报自己酒驾",
+        "onboard_time": 1730886922,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136566,
+        "num": 165324,
+        "word": "特朗普宣布胜选后哈马斯官员发声",
+        "onboard_time": 1730890822,
+        "rank": 44,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 129358,
+        "num": 165250,
+        "word": "爱奇艺限制投屏案二审维持原判",
+        "onboard_time": 1730890162,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129351,
+        "num": 165163,
+        "word": "印度正式申办2036年奥运会",
+        "onboard_time": 1730885063,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123833,
+        "num": 165091,
+        "word": "河南一医院发生爆炸一名医生身亡",
+        "onboard_time": 1730896821,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123307,
+        "num": 164986,
+        "word": "多方回应男子举报儿媳与干部婚外情",
+        "onboard_time": 1730895261,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115545,
+        "num": 164891,
+        "word": "特朗普称上帝饶了我一命是有原因的",
+        "onboard_time": 1730895501,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好社会工作是全党共同责任#"
+    }
+  }
+}
