@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/07 00:27:38 ~ 2024/11/07 03:19:03
+本榜单时间：2024/11/07 00:27:38 ~ 2024/11/07 03:35:53
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AA%B3%E4%B8%8E%E7%9B%90%E5%9F%8E%E4%B8%80%E5%B9%B2%E9%83%A8%E5%8F%91%E7%94%9F%E5%A9%9A%E5%A4%96%E6%83%85%23" target="weibo">
+男子举报儿媳与盐城一干部发生婚外情（热度：90481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23" target="weibo">
 外交部回应美国总统选举结果（热度：85730）
 </a>
@@ -329,12 +335,6 @@ Knight隐藏微博动态（热度：99340）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
 王楚钦vs卡尔伯格（热度：74260）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AA%B3%E4%B8%8E%E7%9B%90%E5%9F%8E%E4%B8%80%E5%B9%B2%E9%83%A8%E5%8F%91%E7%94%9F%E5%A9%9A%E5%A4%96%E6%83%85%23" target="weibo">
-男子举报儿媳与盐城一干部发生婚外情（热度：69593）
 </a>
 </li>
 
@@ -364,7 +364,7 @@ Knight隐藏微博动态（热度：99340）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
-王楚钦0比3卡尔伯格（热度：40038）
+王楚钦0比3卡尔伯格（热度：42193）
 </a>
 </li>
 
@@ -387,6 +387,24 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%237%E7%B1%BB%E9%A3%9F%E6%9D%90%E8%87%AA%E5%B8%A6%E6%9C%89%E5%AE%B3%E7%89%A9%E8%B4%A8%23" target="weibo">
+7类食材自带有害物质（热度：24654）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AE%E5%98%B1%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%AD%A6%E6%83%95%E8%AE%A1%E7%A5%A8%E4%BD%9C%E5%BC%8A%23" target="weibo">
+特朗普叮嘱工作人员警惕计票作弊（热度：24111）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E6%94%BF%E6%B2%BB%E6%88%90%E5%B0%B1%23" target="weibo">
+特朗普称取得了不可思议的政治成就（热度：23532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%91%BD%E5%8F%AA%E5%89%A9%E4%BB%A8%E6%9C%88%E5%BD%93%E5%BF%97%E6%84%BF%E8%80%8510%E5%B9%B4%E5%90%8E%E5%BA%B7%E5%A4%8D%23" target="weibo">
 女子生命只剩仨月当志愿者10年后康复（热度：22935）
 </a>
@@ -399,20 +417,14 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AE%E5%98%B1%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%AD%A6%E6%83%95%E8%AE%A1%E7%A5%A8%E4%BD%9C%E5%BC%8A%23" target="weibo">
-特朗普叮嘱工作人员警惕计票作弊（热度：20519）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：19017）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%237%E7%B1%BB%E9%A3%9F%E6%9D%90%E8%87%AA%E5%B8%A6%E6%9C%89%E5%AE%B3%E7%89%A9%E8%B4%A8%23" target="weibo">
-7类食材自带有害物质（热度：17974）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%91%9E%E5%A3%AB%E5%8D%B7%E4%B8%8D%E5%8F%AF%E5%90%83%E5%A4%9A%23" target="weibo">
+医生提醒瑞士卷不可吃多（热度：15955）
 </a>
 </li>
 
