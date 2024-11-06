@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/07 02:29:53
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/07 02:43:12
 </p>
 </blockquote>
 <p>
@@ -5841,6 +5841,12 @@ S14总决赛（热度：231730）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E4%BA%94%E5%A4%A7%E5%8F%98%E5%8C%96%23" target="weibo">
+美国可能面临五大变化（热度：228969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%913%E6%96%B0%E8%A1%A3%E6%9C%8D%23" target="weibo">
 剑网3新衣服（热度：228831）
 </a>
@@ -6005,12 +6011,6 @@ KPL年总决赛节目单（热度：220569）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%8F%97%E4%BC%A4%23" target="weibo">
 林孝埈受伤（热度：220435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%8F%82%E4%B8%8E%E5%88%BA%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
-3人参与刺杀伊朗核科学家被判死刑（热度：220204）
 </a>
 </li>
 

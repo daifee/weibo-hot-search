@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730917793055,
+  "endTime": 1730918592129,
   "band_list": [
     {
       "raw_hot": 1286393,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228969,
+      "num": 171244,
+      "word": "美国可能面临五大变化",
+      "onboard_time": 1730914094,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 210867,
       "num": 210867,
       "word": "范丞丞演技",
@@ -208,14 +216,6 @@
       "word": "特朗普夸马斯克是超级天才",
       "onboard_time": 1730895320,
       "rank": 25,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 171244,
-      "num": 171244,
-      "word": "美国可能面临五大变化",
-      "onboard_time": 1730914094,
-      "rank": 37,
       "category": "国外时政"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 57837,
-      "num": 42304,
+      "num": 47690,
       "word": "60秒看美国总统选举制度",
       "onboard_time": 1730884343,
       "rank": 23,
@@ -459,12 +459,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33677,
+      "raw_hot": 36386,
       "num": 33677,
       "word": "国乒男队本站比赛仅剩林诗栋",
       "onboard_time": 1730916612,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28115,
+      "num": 83012,
+      "word": "北京多区7日0时试供暖",
+      "onboard_time": 1730914813,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25436,
@@ -483,19 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21208,
-      "num": 37217,
+      "raw_hot": 22591,
+      "num": 47876,
       "word": "推介大米走红的副局长是英语专八",
       "onboard_time": 1730914934,
       "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19729,
-      "num": 83012,
-      "word": "北京多区7日0时试供暖",
-      "onboard_time": 1730914813,
-      "rank": 15,
+      "raw_hot": 14887,
+      "num": 32937,
+      "word": "男子举报儿媳与盐城一干部发生婚外情",
+      "onboard_time": 1730918293,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
