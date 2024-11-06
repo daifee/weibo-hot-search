@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1730871532143,
+  "endTime": 1730874653887,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1147,20 +1147,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 10862910,
+      "num": 1496870,
+      "word": "美国大选",
+      "onboard_time": 1724204659,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 10841679,
       "num": 10841679,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10831808,
-      "num": 1496870,
-      "word": "美国大选",
-      "onboard_time": 1724204659,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 10807671,

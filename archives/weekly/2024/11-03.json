@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730871532143,
+  "endTime": 1730874653887,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10831808,
+      "raw_hot": 10862910,
       "num": 1031217,
       "word": "美国大选",
       "onboard_time": 1730645479,
@@ -64,6 +64,22 @@
       "word": "特朗普赢下摇摆州北卡罗来纳",
       "onboard_time": 1730867607,
       "rank": 11,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 5004924,
+      "num": 564102,
+      "word": "美国大选选举日所有投票结束",
+      "onboard_time": 1730873246,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 4612728,
+      "num": 350220,
+      "word": "美国共和党赢得参议院控制权",
+      "onboard_time": 1730870663,
+      "rank": 14,
       "category": "国外时政"
     },
     {
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1131264,
+      "num": 1181002,
+      "word": "丁禹兮收拾收拾准备升咖",
+      "onboard_time": 1730869226,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1115665,
       "num": 719291,
       "word": "周雨彤 睡袋",
@@ -969,6 +993,14 @@
       "onboard_time": 1730724619,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1012800,
+      "num": 570796,
+      "word": "花儿与中年",
+      "onboard_time": 1730871563,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1007438,
@@ -1571,28 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 704307,
-      "num": 350220,
-      "word": "美国共和党赢得参议院控制权",
-      "onboard_time": 1730870663,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 700428,
       "num": 633443,
       "word": "死亡游戏流行校园真的会致死",
       "onboard_time": 1730636538,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 699963,
-      "num": 699963,
-      "word": "丁禹兮收拾收拾准备升咖",
-      "onboard_time": 1730869226,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 698855,
@@ -2203,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560923,
+      "num": 560923,
+      "word": "柳州女子系酒后呕吐朋友搀扶",
+      "onboard_time": 1730869045,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559100,
       "num": 4270078,
       "word": "成功95花的背后",
@@ -2345,6 +2369,14 @@
       "onboard_time": 1730619857,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526420,
+      "num": 307332,
+      "word": "特朗普即将发表讲话",
+      "onboard_time": 1730874625,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 524186,
@@ -2601,6 +2633,14 @@
       "onboard_time": 1730615899,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471852,
+      "num": 471852,
+      "word": "丁禹兮在超话发壁纸",
+      "onboard_time": 1730873905,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 468214,
@@ -3097,6 +3137,14 @@
       "onboard_time": 1730788821,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378695,
+      "num": 378695,
+      "word": "以色列总理宣布解雇国防部长",
+      "onboard_time": 1730871563,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 378284,
@@ -3611,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312328,
+      "num": 309839,
+      "word": "哈里斯暂时不会发表讲话",
+      "onboard_time": 1730873304,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "奚梦瑶宣传",
@@ -3633,6 +3689,14 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 306859,
+      "num": 306859,
+      "word": "川大智胜午后涨停",
+      "onboard_time": 1730871265,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 306732,
@@ -3697,6 +3761,14 @@
       "onboard_time": 1730779160,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297172,
+      "num": 297172,
+      "word": "虞书欣让新浪下次还找她",
+      "onboard_time": 1730874144,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 296581,
@@ -3961,6 +4033,14 @@
       "onboard_time": 1730731102,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272747,
+      "num": 272747,
+      "word": "大侦探团综 群像",
+      "onboard_time": 1730873364,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 271902,
@@ -4659,6 +4739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224271,
+      "num": 241536,
+      "word": "伊能静40年前的人生照片",
+      "onboard_time": 1730872946,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224103,
       "num": 224103,
       "word": "花少6九人餐叫了所有人",
@@ -4857,14 +4945,6 @@
       "onboard_time": 1730711419,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213488,
-      "num": 499195,
-      "word": "柳州女子系酒后呕吐朋友搀扶",
-      "onboard_time": 1730869045,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213351,
@@ -5201,6 +5281,14 @@
       "onboard_time": 1730723420,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204712,
+      "num": 347094,
+      "word": "马斯克突然来北京是谣言",
+      "onboard_time": 1730870484,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204533,
@@ -5907,6 +5995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184427,
+      "num": 217009,
+      "word": "歼35A的A代表什么",
+      "onboard_time": 1730872223,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 184370,
       "num": 184370,
       "word": "恋与戏梦",
@@ -5945,14 +6041,6 @@
       "onboard_time": 1730638039,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181689,
-      "num": 181689,
-      "word": "川大智胜午后涨停",
-      "onboard_time": 1730871265,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 181535,
@@ -6825,6 +6913,14 @@
       "onboard_time": 1730698638,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 161393,
+      "num": 218129,
+      "word": "蓝盈莹坐飞机偶遇杨迪",
+      "onboard_time": 1730873425,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 161361,
@@ -8275,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120332,
+      "num": 310116,
+      "word": "来自鲲鹏的压迫感",
+      "onboard_time": 1730873185,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
       "raw_hot": 120080,
       "num": 120080,
       "word": "返回地球路上神十八航天员在干啥",
@@ -8307,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119097,
+      "num": 119097,
+      "word": "兮妃回宫",
+      "onboard_time": 1730874625,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118948,
       "num": 118948,
       "word": "黄子弘凡黑色薄纱连帽造型",
@@ -8321,6 +8433,14 @@
       "onboard_time": 1730830632,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118774,
+      "num": 491634,
+      "word": "赵露思真的很爱咖啡",
+      "onboard_time": 1730869586,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118029,
@@ -8377,6 +8497,14 @@
       "onboard_time": 1730568435,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116605,
+      "num": 116605,
+      "word": "李兰迪评论区",
+      "onboard_time": 1730874625,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116564,
@@ -8545,6 +8673,14 @@
       "onboard_time": 1730846715,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109622,
+      "num": 116930,
+      "word": "大梦归离直播",
+      "onboard_time": 1730872704,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 109333,
@@ -8923,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87697,
+      "num": 308357,
+      "word": "赵露思问什么时候供暖",
+      "onboard_time": 1730874324,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86701,
       "num": 384099,
       "word": "陈哲远红发深V造型",
@@ -9001,6 +9145,14 @@
       "onboard_time": 1730569578,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83042,
+      "num": 307119,
+      "word": "肖战意大利被偶遇",
+      "onboard_time": 1730874324,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 82395,
@@ -9169,6 +9321,14 @@
       "onboard_time": 1730766621,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68161,
+      "num": 207994,
+      "word": "夜市偶遇周子瑜叶舒华",
+      "onboard_time": 1730874564,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 67854,
@@ -9459,20 +9619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52936,
+      "num": 309064,
+      "word": "福利院回应垃圾桶发现男婴已接收",
+      "onboard_time": 1730873005,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52719,
       "num": 342816,
       "word": "无锡虹桥医院涉骗保被罚5895万",
       "onboard_time": 1730865804,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51913,
-      "num": 491634,
-      "word": "赵露思真的很爱咖啡",
-      "onboard_time": 1730869586,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 51763,
@@ -9632,14 +9792,6 @@
       "word": "当地回应村民违建二千平房屋",
       "onboard_time": 1730600959,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45082,
-      "num": 347094,
-      "word": "马斯克突然来北京是谣言",
-      "onboard_time": 1730870484,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -11041,6 +11193,14 @@
       "onboard_time": 1730577372,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11916,
+      "num": 221589,
+      "word": "群演代表沈凯发言时落泪",
+      "onboard_time": 1730873246,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 11668,

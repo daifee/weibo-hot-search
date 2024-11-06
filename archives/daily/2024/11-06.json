@@ -1,9 +1,9 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730871532143,
+  "endTime": 1730874653887,
   "band_list": [
     {
-      "raw_hot": 10831808,
+      "raw_hot": 10862910,
       "num": 729375,
       "word": "美国大选",
       "onboard_time": 1730795600,
@@ -25,6 +25,22 @@
       "onboard_time": 1730814262,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 5004924,
+      "num": 564102,
+      "word": "美国大选选举日所有投票结束",
+      "onboard_time": 1730873246,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 4612728,
+      "num": 350220,
+      "word": "美国共和党赢得参议院控制权",
+      "onboard_time": 1730870663,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 4088460,
@@ -131,6 +147,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1131264,
+      "num": 1181002,
+      "word": "丁禹兮收拾收拾准备升咖",
+      "onboard_time": 1730869226,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1012800,
+      "num": 570796,
+      "word": "花儿与中年",
+      "onboard_time": 1730871563,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 957688,
       "num": 1149265,
       "word": "警方通报徒步发现路边有尸骨",
@@ -219,22 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 704307,
-      "num": 350220,
-      "word": "美国共和党赢得参议院控制权",
-      "onboard_time": 1730870663,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 699963,
-      "num": 699963,
-      "word": "丁禹兮收拾收拾准备升咖",
-      "onboard_time": 1730869226,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 687651,
       "num": 687651,
       "word": "蒂芙尼成都太古里店被砸",
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560923,
+      "num": 560923,
+      "word": "柳州女子系酒后呕吐朋友搀扶",
+      "onboard_time": 1730869045,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555381,
       "num": 553981,
       "word": "美国有计票点屋顶安排狙击手",
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526420,
+      "num": 307332,
+      "word": "特朗普即将发表讲话",
+      "onboard_time": 1730874625,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 524186,
       "num": 524186,
       "word": "杨紫生日高定",
@@ -353,6 +385,14 @@
       "onboard_time": 1730852183,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 471852,
+      "num": 471852,
+      "word": "丁禹兮在超话发壁纸",
+      "onboard_time": 1730873905,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 456649,
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378695,
+      "num": 378695,
+      "word": "以色列总理宣布解雇国防部长",
+      "onboard_time": 1730871563,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 375733,
       "num": 156330,
       "word": "虞书欣赵露思 互拍",
@@ -499,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312328,
+      "num": 309839,
+      "word": "哈里斯暂时不会发表讲话",
+      "onboard_time": 1730873304,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 308161,
       "num": 266206,
       "word": "21岁女生下腹疼痛确诊胃癌晚期",
       "onboard_time": 1730796381,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306859,
+      "num": 306859,
+      "word": "川大智胜午后涨停",
+      "onboard_time": 1730871265,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 304855,
@@ -521,6 +585,14 @@
       "onboard_time": 1730823918,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297172,
+      "num": 297172,
+      "word": "虞书欣让新浪下次还找她",
+      "onboard_time": 1730874144,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 296553,
@@ -577,6 +649,14 @@
       "onboard_time": 1730806642,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 272747,
+      "num": 272747,
+      "word": "大侦探团综 群像",
+      "onboard_time": 1730873364,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 271695,
@@ -707,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224271,
+      "num": 241536,
+      "word": "伊能静40年前的人生照片",
+      "onboard_time": 1730872946,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222975,
       "num": 222975,
       "word": "A股",
@@ -747,14 +835,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 213488,
-      "num": 499195,
-      "word": "柳州女子系酒后呕吐朋友搀扶",
-      "onboard_time": 1730869045,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211577,
       "num": 211577,
       "word": "鲜橙脆皮五花肉",
@@ -793,6 +873,14 @@
       "onboard_time": 1730861181,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204712,
+      "num": 347094,
+      "word": "马斯克突然来北京是谣言",
+      "onboard_time": 1730870484,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203903,
@@ -859,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184427,
+      "num": 217009,
+      "word": "歼35A的A代表什么",
+      "onboard_time": 1730872223,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 183955,
       "num": 173989,
       "word": "虞书欣 大家不光生我还要宠我",
@@ -873,14 +969,6 @@
       "onboard_time": 1730813304,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181689,
-      "num": 181689,
-      "word": "川大智胜午后涨停",
-      "onboard_time": 1730871265,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 181442,
@@ -993,6 +1081,14 @@
       "onboard_time": 1730866525,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 161393,
+      "num": 218129,
+      "word": "蓝盈莹坐飞机偶遇杨迪",
+      "onboard_time": 1730873425,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 159910,
@@ -1163,6 +1259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120332,
+      "num": 310116,
+      "word": "来自鲲鹏的压迫感",
+      "onboard_time": 1730873185,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 119097,
+      "num": 119097,
+      "word": "兮妃回宫",
+      "onboard_time": 1730874625,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119077,
       "num": 119077,
       "word": "网红博主被指有传染病已去医院检查",
@@ -1177,6 +1289,22 @@
       "onboard_time": 1730830632,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118774,
+      "num": 491634,
+      "word": "赵露思真的很爱咖啡",
+      "onboard_time": 1730869586,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116605,
+      "num": 116605,
+      "word": "李兰迪评论区",
+      "onboard_time": 1730874625,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116564,
@@ -1249,6 +1377,14 @@
       "onboard_time": 1730846715,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109622,
+      "num": 116930,
+      "word": "大梦归离直播",
+      "onboard_time": 1730872704,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 109333,
@@ -1363,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87697,
+      "num": 308357,
+      "word": "赵露思问什么时候供暖",
+      "onboard_time": 1730874324,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83772,
       "num": 83772,
       "word": "清华大学发了凌妙妙转场",
@@ -1377,6 +1521,14 @@
       "onboard_time": 1730837412,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83042,
+      "num": 307119,
+      "word": "肖战意大利被偶遇",
+      "onboard_time": 1730874324,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 82231,
@@ -1417,6 +1569,14 @@
       "onboard_time": 1730867545,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68161,
+      "num": 207994,
+      "word": "夜市偶遇周子瑜叶舒华",
+      "onboard_time": 1730874564,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 67272,
@@ -1491,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52936,
+      "num": 309064,
+      "word": "福利院回应垃圾桶发现男婴已接收",
+      "onboard_time": 1730873005,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52719,
       "num": 342816,
       "word": "无锡虹桥医院涉骗保被罚5895万",
@@ -1499,28 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51913,
-      "num": 491634,
-      "word": "赵露思真的很爱咖啡",
-      "onboard_time": 1730869586,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 48584,
       "num": 458054,
       "word": "美选民担忧选举结果引发暴力事件",
       "onboard_time": 1730863103,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 45082,
-      "num": 347094,
-      "word": "马斯克突然来北京是谣言",
-      "onboard_time": 1730870484,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41030,
@@ -1729,6 +1881,14 @@
       "onboard_time": 1730838131,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11916,
+      "num": 221589,
+      "word": "群演代表沈凯发言时落泪",
+      "onboard_time": 1730873246,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 9596,
