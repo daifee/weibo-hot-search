@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730903977581,
+  "endTime": 1730906643300,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2052648,
+      "num": 2052648,
+      "word": "金价跳水了",
+      "onboard_time": 1730900063,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2051875,
       "num": 2051875,
       "word": "花少4个人吃9人餐事情始末",
@@ -393,14 +401,6 @@
       "onboard_time": 1730713939,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1986068,
-      "num": 1986068,
-      "word": "金价跳水了",
-      "onboard_time": 1730900063,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 1971047,
@@ -929,6 +929,14 @@
       "onboard_time": 1730638639,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1242208,
+      "num": 507572,
+      "word": "结婚未领证生子男子起诉返还彩礼",
+      "onboard_time": 1730901504,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1239097,
@@ -1547,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827366,
+      "num": 684180,
+      "word": "美选民起诉马斯克搞抽奖骗局",
+      "onboard_time": 1730900844,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 824271,
       "num": 824271,
       "word": "人民空军官宣",
@@ -2059,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649714,
+      "num": 649714,
+      "word": "永夜星河穿帮",
+      "onboard_time": 1730900786,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 649079,
       "num": 428518,
       "word": "孙颖莎回复孙铭阳",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1730571014,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 596192,
+      "num": 596192,
+      "word": "范丞丞演技",
+      "onboard_time": 1730904981,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 593975,
@@ -2835,14 +2867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497832,
-      "num": 497832,
-      "word": "永夜星河穿帮",
-      "onboard_time": 1730900786,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1730615899,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472116,
+      "num": 494468,
+      "word": "庄图南选角 王安宇",
+      "onboard_time": 1730903003,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 471852,
@@ -3403,14 +3435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412089,
-      "num": 412089,
-      "word": "结婚未领证生子男子起诉返还彩礼",
-      "onboard_time": 1730901504,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411753,
       "num": 411753,
       "word": "骗子给求职毕业生组织假笔试",
@@ -3699,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367690,
+      "num": 367690,
+      "word": "李现连续七年为杨紫庆生",
+      "onboard_time": 1730903781,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365816,
       "num": 1350542,
       "word": "郑钦文总决赛首秀落败",
@@ -3899,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343181,
+      "num": 343181,
+      "word": "特朗普宣布获胜后全场高喊USA",
+      "onboard_time": 1730903602,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 342426,
       "num": 342426,
       "word": "厨房爆炸丈夫为救妻子去世",
@@ -3953,6 +3993,14 @@
       "onboard_time": 1730880269,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 338125,
+      "num": 338125,
+      "word": "网曝中学老师被拖欠工资集体罢课",
+      "onboard_time": 1730903363,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337866,
@@ -4187,14 +4235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316278,
-      "num": 316278,
-      "word": "美选民起诉马斯克搞抽奖骗局",
-      "onboard_time": 1730900844,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 316176,
       "num": 259557,
       "word": "永夜星河 月光变奏曲",
@@ -4321,14 +4361,6 @@
       "onboard_time": 1730893820,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301659,
-      "num": 494468,
-      "word": "庄图南选角 王安宇",
-      "onboard_time": 1730903003,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 299831,
@@ -4521,6 +4553,14 @@
       "onboard_time": 1730727441,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 284615,
+      "num": 284615,
+      "word": "嘘国王在冬眠忍不住想动了",
+      "onboard_time": 1730906300,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 284450,
@@ -4841,14 +4881,6 @@
       "onboard_time": 1730727081,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258944,
-      "num": 258944,
-      "word": "网曝中学老师被拖欠工资集体罢课",
-      "onboard_time": 1730903363,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257922,
@@ -5547,6 +5579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222125,
+      "num": 222125,
+      "word": "一个人毁了一部剧",
+      "onboard_time": 1730906300,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221855,
       "num": 221855,
       "word": "吴磊演技",
@@ -6099,12 +6139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204351,
+      "num": 204351,
+      "word": "时代少年团演唱会85%门票面向公众",
+      "onboard_time": 1730905642,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204323,
       "num": 204323,
       "word": "孙颖莎再提最爱的小白球",
       "onboard_time": 1730734101,
       "rank": 40,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 204259,
+      "num": 204259,
+      "word": "周深  感谢严艺丹老师",
+      "onboard_time": 1730906242,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 204258,
@@ -6217,14 +6273,6 @@
       "onboard_time": 1730731222,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201005,
-      "num": 201005,
-      "word": "李现连续七年为杨紫庆生",
-      "onboard_time": 1730903781,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 200520,
@@ -6521,6 +6569,14 @@
       "onboard_time": 1730711899,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194107,
+      "num": 194107,
+      "word": "一起打卡大美中国",
+      "onboard_time": 1730905401,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194067,
@@ -7555,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167546,
+      "num": 167546,
+      "word": "樊振东 阿玛尼",
+      "onboard_time": 1730906300,
+      "rank": 42,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 167527,
       "num": 243916,
       "word": "小孩被异物卡喉路过民警20秒成功施救",
@@ -8307,6 +8371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150401,
+      "num": 150401,
+      "word": "Knight隐藏微博动态",
+      "onboard_time": 1730905879,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150207,
       "num": 150207,
       "word": "降温天怎么保暖才不臃肿",
@@ -8673,6 +8745,14 @@
       "onboard_time": 1730592377,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141418,
+      "num": 141418,
+      "word": "郑钦文2比0保利尼",
+      "onboard_time": 1730906002,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 141192,
@@ -9745,6 +9825,14 @@
       "onboard_time": 1730863044,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112987,
+      "num": 345799,
+      "word": "多品牌紧急回应卫生巾被曝偷工减料",
+      "onboard_time": 1730905642,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112938,
@@ -10971,6 +11059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51255,
+      "num": 569940,
+      "word": "保护取款自由杀鸡别用牛刀",
+      "onboard_time": 1730905041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51049,
       "num": 51049,
       "word": "视频回顾80后乘组太空之旅",
@@ -11176,6 +11272,14 @@
       "word": "煤气爆燃烧伤妈妈手指可以动了",
       "onboard_time": 1730603180,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42732,
+      "num": 460180,
+      "word": "辽宁一渔船被撞翻9人失联",
+      "onboard_time": 1730906603,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -11537,6 +11641,14 @@
       "onboard_time": 1730876799,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34381,
+      "num": 173027,
+      "word": "蒋欣说越是难拿捏的角色越喜欢",
+      "onboard_time": 1730904741,
+      "rank": 40,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 34353,

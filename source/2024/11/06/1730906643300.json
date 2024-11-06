@@ -1,0 +1,410 @@
+{
+  "runTime": 1730906643300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3347479,
+        "num": 3347479,
+        "word": "王楚钦无缘8强",
+        "onboard_time": 1730900246,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2052648,
+        "num": 2052648,
+        "word": "金价跳水了",
+        "onboard_time": 1730900063,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7607,
+        "num": 904684,
+        "word": "数读我国防沙治沙成绩单",
+        "onboard_time": 1730896281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2339482,
+        "num": 879680,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 700037,
+        "num": 700037,
+        "word": "苹果喊话iPhone13和14钉子户",
+        "onboard_time": 1730889803,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 827366,
+        "num": 684180,
+        "word": "美选民起诉马斯克搞抽奖骗局",
+        "onboard_time": 1730900844,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 668101,
+        "num": 668101,
+        "word": "虞书欣拍刘亦菲",
+        "onboard_time": 1730897722,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649714,
+        "num": 649714,
+        "word": "永夜星河穿帮",
+        "onboard_time": 1730900786,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596192,
+        "num": 596192,
+        "word": "范丞丞演技",
+        "onboard_time": 1730904981,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51255,
+        "num": 569940,
+        "word": "保护取款自由杀鸡别用牛刀",
+        "onboard_time": 1730905041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307711,
+        "num": 538457,
+        "word": "萝莉岛",
+        "onboard_time": 1730885783,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1242208,
+        "num": 507572,
+        "word": "结婚未领证生子男子起诉返还彩礼",
+        "onboard_time": 1730901504,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988272,
+        "num": 498937,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 472116,
+        "num": 472116,
+        "word": "庄图南选角 王安宇",
+        "onboard_time": 1730903003,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42732,
+        "num": 460180,
+        "word": "辽宁一渔船被撞翻9人失联",
+        "onboard_time": 1730906603,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751887,
+        "num": 457573,
+        "word": "哈里斯支持者黯然离开",
+        "onboard_time": 1730893640,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 453298,
+        "num": 453298,
+        "word": "博士情侣瞒领导下班摆摊月入3万",
+        "onboard_time": 1730897660,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367690,
+        "num": 367690,
+        "word": "李现连续七年为杨紫庆生",
+        "onboard_time": 1730903781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330137,
+        "num": 353156,
+        "word": "庄图南李佳 快进",
+        "onboard_time": 1730902044,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112987,
+        "num": 345799,
+        "word": "多品牌紧急回应卫生巾被曝偷工减料",
+        "onboard_time": 1730905642,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396516,
+        "num": 345179,
+        "word": "王楚钦状态",
+        "onboard_time": 1730899942,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343181,
+        "num": 343181,
+        "word": "特朗普宣布获胜后全场高喊USA",
+        "onboard_time": 1730903602,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338125,
+        "num": 338125,
+        "word": "网曝中学老师被拖欠工资集体罢课",
+        "onboard_time": 1730903363,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329257,
+        "num": 329257,
+        "word": "特朗普夸马斯克是超级天才",
+        "onboard_time": 1730895320,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 284615,
+        "num": 284615,
+        "word": "嘘国王在冬眠忍不住想动了",
+        "onboard_time": 1730906300,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292348,
+        "num": 283257,
+        "word": "哈里斯未承认败选",
+        "onboard_time": 1730882425,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 277447,
+        "num": 277447,
+        "word": "瑞士卷可不兴一次吃6个啊",
+        "onboard_time": 1730899461,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 244658,
+        "num": 244658,
+        "word": "河南一医院发生爆炸一名医生身亡",
+        "onboard_time": 1730896821,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235172,
+        "num": 235172,
+        "word": "王楚钦加油",
+        "onboard_time": 1730900663,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224882,
+        "num": 224882,
+        "word": "武艺蛋糕还没拿明白已经开始卖了",
+        "onboard_time": 1730900544,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232563,
+        "num": 223962,
+        "word": "永夜星河",
+        "onboard_time": 1730884883,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222125,
+        "num": 222125,
+        "word": "一个人毁了一部剧",
+        "onboard_time": 1730906300,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215856,
+        "num": 215856,
+        "word": "特朗普宣称接下来是美国的黄金时代",
+        "onboard_time": 1730895320,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207706,
+        "num": 207706,
+        "word": "郑钦文挺进半决赛",
+        "onboard_time": 1730901384,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204351,
+        "num": 204351,
+        "word": "时代少年团演唱会85%门票面向公众",
+        "onboard_time": 1730905642,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204259,
+        "num": 204259,
+        "word": "周深  感谢严艺丹老师",
+        "onboard_time": 1730906242,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194296,
+        "num": 194296,
+        "word": "陈好花少半夜独行5个小时",
+        "onboard_time": 1730883984,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194107,
+        "num": 194107,
+        "word": "一起打卡大美中国",
+        "onboard_time": 1730905401,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187183,
+        "num": 187183,
+        "word": "金价",
+        "onboard_time": 1730879910,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177900,
+        "num": 177900,
+        "word": "丁禹兮 我想进步",
+        "onboard_time": 1730891901,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34381,
+        "num": 173027,
+        "word": "蒋欣说越是难拿捏的角色越喜欢",
+        "onboard_time": 1730904741,
+        "rank": 40,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 168438,
+        "num": 168438,
+        "word": "虞书欣镜头下的群星",
+        "onboard_time": 1730894541,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167546,
+        "num": 167546,
+        "word": "樊振东 阿玛尼",
+        "onboard_time": 1730906300,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 164476,
+        "num": 164476,
+        "word": "陈好 恶意剪辑",
+        "onboard_time": 1730880209,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248880,
+        "num": 159333,
+        "word": "李现宣传期要给杨紫拍照",
+        "onboard_time": 1730897242,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152046,
+        "num": 152046,
+        "word": "向佐回应不会和郭碧婷参加再见爱人",
+        "onboard_time": 1730893820,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150401,
+        "num": 150401,
+        "word": "Knight隐藏微博动态",
+        "onboard_time": 1730905879,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145017,
+        "num": 145017,
+        "word": "永夜星河直播",
+        "onboard_time": 1730881706,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141953,
+        "num": 141953,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141418,
+        "num": 141418,
+        "word": "郑钦文2比0保利尼",
+        "onboard_time": 1730906002,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好社会工作是全党共同责任#"
+    }
+  }
+}

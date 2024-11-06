@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730903977581,
+  "endTime": 1730906643300,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -187,8 +187,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1986068,
-      "num": 1986068,
+      "raw_hot": 2052648,
+      "num": 2052648,
       "word": "金价跳水了",
       "onboard_time": 1730900063,
       "rank": 47,
@@ -313,6 +313,14 @@
       "onboard_time": 1730850079,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1242208,
+      "num": 507572,
+      "word": "结婚未领证生子男子起诉返还彩礼",
+      "onboard_time": 1730901504,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216987,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827366,
+      "num": 684180,
+      "word": "美选民起诉马斯克搞抽奖骗局",
+      "onboard_time": 1730900844,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 787275,
       "num": 417747,
       "word": "美媒测算特朗普已获超200张选举人票",
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649714,
+      "num": 649714,
+      "word": "永夜星河穿帮",
+      "onboard_time": 1730900786,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 648695,
       "num": 648695,
       "word": "24万买的国企工作有合同没入职时间",
@@ -585,6 +609,14 @@
       "onboard_time": 1730873304,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 596192,
+      "num": 596192,
+      "word": "范丞丞演技",
+      "onboard_time": 1730904981,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 593972,
@@ -731,20 +763,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 497832,
-      "num": 497832,
-      "word": "永夜星河穿帮",
-      "onboard_time": 1730900786,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 482840,
       "num": 482840,
       "word": "美邦老板怒批小杨哥想复播",
       "onboard_time": 1730898621,
       "rank": 20,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 472116,
+      "num": 494468,
+      "word": "庄图南选角 王安宇",
+      "onboard_time": 1730903003,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 471852,
@@ -891,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412089,
-      "num": 412089,
-      "word": "结婚未领证生子男子起诉返还彩礼",
-      "onboard_time": 1730901504,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411753,
       "num": 411753,
       "word": "骗子给求职毕业生组织假笔试",
@@ -1003,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367690,
+      "num": 367690,
+      "word": "李现连续七年为杨紫庆生",
+      "onboard_time": 1730903781,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357190,
       "num": 641537,
       "word": "虞书欣演技",
@@ -1059,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343181,
+      "num": 343181,
+      "word": "特朗普宣布获胜后全场高喊USA",
+      "onboard_time": 1730903602,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 339659,
       "num": 512599,
       "word": "范丞丞回应小巷人家演技争议",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1730880269,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 338125,
+      "num": 338125,
+      "word": "网曝中学老师被拖欠工资集体罢课",
+      "onboard_time": 1730903363,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337314,
@@ -1123,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316278,
-      "num": 316278,
-      "word": "美选民起诉马斯克搞抽奖骗局",
-      "onboard_time": 1730900844,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 316029,
       "num": 287816,
       "word": "发型师晓华否认自己技术好",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1730893820,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301659,
-      "num": 494468,
-      "word": "庄图南选角 王安宇",
-      "onboard_time": 1730903003,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 299186,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1730899461,
       "rank": 48,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 284615,
+      "num": 284615,
+      "word": "嘘国王在冬眠忍不住想动了",
+      "onboard_time": 1730906300,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 278075,
@@ -1345,14 +1385,6 @@
       "onboard_time": 1730898502,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 258944,
-      "num": 258944,
-      "word": "网曝中学老师被拖欠工资集体罢课",
-      "onboard_time": 1730903363,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257537,
@@ -1563,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222125,
+      "num": 222125,
+      "word": "一个人毁了一部剧",
+      "onboard_time": 1730906300,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221232,
       "num": 274579,
       "word": "陈雪凝回应抄袭汪苏泷",
@@ -1675,6 +1715,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204351,
+      "num": 204351,
+      "word": "时代少年团演唱会85%门票面向公众",
+      "onboard_time": 1730905642,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204259,
+      "num": 204259,
+      "word": "周深  感谢严艺丹老师",
+      "onboard_time": 1730906242,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203903,
       "num": 203903,
       "word": "董宇辉回应烧麦言论",
@@ -1715,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201005,
-      "num": 201005,
-      "word": "李现连续七年为杨紫庆生",
-      "onboard_time": 1730903781,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199493,
       "num": 199493,
       "word": "刘宇宁复刻黄子韬",
@@ -1760,6 +1808,14 @@
       "word": "忽然明白少年夫妻老来伴的含义",
       "onboard_time": 1730810421,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194107,
+      "num": 194107,
+      "word": "一起打卡大美中国",
+      "onboard_time": 1730905401,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2019,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167546,
+      "num": 167546,
+      "word": "樊振东 阿玛尼",
+      "onboard_time": 1730906300,
+      "rank": 42,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 165933,
       "num": 165933,
       "word": "小小的我日媒评分",
@@ -2147,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150401,
+      "num": 150401,
+      "word": "Knight隐藏微博动态",
+      "onboard_time": 1730905879,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150207,
       "num": 150207,
       "word": "降温天怎么保暖才不臃肿",
@@ -2233,6 +2305,14 @@
       "onboard_time": 1730873185,
       "rank": 11,
       "category": "军事"
+    },
+    {
+      "raw_hot": 141418,
+      "num": 141418,
+      "word": "郑钦文2比0保利尼",
+      "onboard_time": 1730906002,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 141025,
@@ -2521,6 +2601,14 @@
       "onboard_time": 1730863044,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112987,
+      "num": 345799,
+      "word": "多品牌紧急回应卫生巾被曝偷工减料",
+      "onboard_time": 1730905642,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111787,
@@ -3019,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51255,
+      "num": 569940,
+      "word": "保护取款自由杀鸡别用牛刀",
+      "onboard_time": 1730905041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48584,
       "num": 458054,
       "word": "美选民担忧选举结果引发暴力事件",
@@ -3049,6 +3145,14 @@
       "onboard_time": 1730900003,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42732,
+      "num": 460180,
+      "word": "辽宁一渔船被撞翻9人失联",
+      "onboard_time": 1730906603,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42182,
@@ -3161,6 +3265,14 @@
       "onboard_time": 1730876799,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34381,
+      "num": 173027,
+      "word": "蒋欣说越是难拿捏的角色越喜欢",
+      "onboard_time": 1730904741,
+      "rank": 40,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 34353,
