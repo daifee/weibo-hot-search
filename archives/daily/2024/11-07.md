@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/07 00:27:38 ~ 2024/11/07 06:39:44
+本榜单时间：2024/11/07 00:27:38 ~ 2024/11/07 07:20:59
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E6%B1%82%E5%8F%B0%E6%B9%BE%E4%BE%9B%E5%BA%94%E5%95%86%E6%90%AC%E5%87%BA%E5%8F%B0%E6%B9%BE%23" target="weibo">
+马斯克要求台湾供应商搬出台湾（热度：1345250）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E8%8E%B7%E8%83%9C%23" target="weibo">
@@ -29,6 +35,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
 金价跳水了（热度：1085355）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%944%E5%90%8D%E5%B9%B4%E8%BD%BB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%81%87%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+官方回应4名年轻公职人员遇车祸身亡（热度：1065065）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AA%B3%E4%B8%8E%E7%9B%90%E5%9F%8E%E4%B8%80%E5%B9%B2%E9%83%A8%E5%8F%91%E7%94%9F%E5%A9%9A%E5%A4%96%E6%83%85%23" target="weibo">
+男子举报儿媳与盐城一干部发生婚外情（热度：1045267）
 </a>
 </li>
 
@@ -51,32 +69,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E4%BA%94%E5%A4%A7%E5%8F%98%E5%8C%96%23" target="weibo">
+美国可能面临五大变化（热度：796943）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%23" target="weibo">
+立冬（热度：738898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A2%E5%BE%972024%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
 特朗普赢得2024美国大选（热度：700510）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%944%E5%90%8D%E5%B9%B4%E8%BD%BB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%81%87%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
-官方回应4名年轻公职人员遇车祸身亡（热度：625878）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%89%93%E5%BE%97%E5%A4%AA%E5%B0%8F%E5%BF%83%E4%BA%86%23" target="weibo">
 王皓说王楚钦打得太小心了（热度：580691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E4%BA%94%E5%A4%A7%E5%8F%98%E5%8C%96%23" target="weibo">
-美国可能面临五大变化（热度：454613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AA%B3%E4%B8%8E%E7%9B%90%E5%9F%8E%E4%B8%80%E5%B9%B2%E9%83%A8%E5%8F%91%E7%94%9F%E5%A9%9A%E5%A4%96%E6%83%85%23" target="weibo">
-男子举报儿媳与盐城一干部发生婚外情（热度：425770）
 </a>
 </li>
 
@@ -95,6 +107,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%80%89%E6%B0%91%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%8A%BD%E5%A5%96%E9%AA%97%E5%B1%80%23" target="weibo">
 美选民起诉马斯克搞抽奖骗局（热度：373660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%9B%9E%E5%BA%94%E6%BC%94%E5%91%98%E8%83%BD%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
+郝蕾回应演员能不能直播带货（热度：361792）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%94%B6%E6%89%8B%E6%9C%BA%E6%AC%B2%E8%B7%B3%E6%A5%BC%E8%80%81%E5%B8%88%E4%B8%80%E6%8A%8A%E6%8B%89%E5%9B%9E%23" target="weibo">
+初中生被收手机欲跳楼老师一把拉回（热度：357365）
 </a>
 </li>
 
@@ -123,8 +147,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E9%BA%A6%E6%83%B3%E8%A6%81%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7%23" target="weibo">
+麦麦想要的安全感原来是这样（热度：294481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
+王楚钦0比3卡尔伯格（热度：293341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%8E%B7%E8%83%9C%E5%90%8E%E5%85%A8%E5%9C%BA%E9%AB%98%E5%96%8AUSA%23" target="weibo">
 特朗普宣布获胜后全场高喊USA（热度：268997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%87%E4%B8%BB%E5%9D%90%E7%89%A2%E5%A4%B1%E8%81%94%E6%9C%88%E5%AB%82%E6%8A%9A%E5%85%BB%E5%A5%B3%E5%A9%B43%E5%B9%B4%23" target="weibo">
+雇主坐牢失联月嫂抚养女婴3年（热度：259453）
 </a>
 </li>
 
@@ -137,12 +179,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%9B%BE%E5%8D%97%E9%80%89%E8%A7%92%20%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
 庄图南选角 王安宇（热度：234266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%9B%9E%E5%BA%94%E6%BC%94%E5%91%98%E8%83%BD%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
-郝蕾回应演员能不能直播带货（热度：217914）
 </a>
 </li>
 
@@ -171,8 +207,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%94%B6%E6%89%8B%E6%9C%BA%E6%AC%B2%E8%B7%B3%E6%A5%BC%E8%80%81%E5%B8%88%E4%B8%80%E6%8A%8A%E6%8B%89%E5%9B%9E%23" target="weibo">
-初中生被收手机欲跳楼老师一把拉回（热度：187446）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E6%8E%A5%E4%B8%8B%E6%9D%A5%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%23" target="weibo">
+特朗普宣称接下来是美国的黄金时代（热度：190262）
 </a>
 </li>
 
@@ -189,20 +225,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A60%E6%AF%943%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
-王楚钦0比3卡尔伯格（热度：163700）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23180%E7%A7%92%E5%A4%8D%E7%9B%98%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%9C%E9%80%89%E6%BC%94%E8%AE%B2%23" target="weibo">
 180秒复盘特朗普胜选演讲（热度：156515）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%87%E4%B8%BB%E5%9D%90%E7%89%A2%E5%A4%B1%E8%81%94%E6%9C%88%E5%AB%82%E6%8A%9A%E5%85%BB%E5%A5%B3%E5%A9%B43%E5%B9%B4%23" target="weibo">
-雇主坐牢失联月嫂抚养女婴3年（热度：153771）
 </a>
 </li>
 
@@ -213,14 +237,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2360%E7%A7%92%E7%9C%8B%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%88%B6%E5%BA%A6%23" target="weibo">
+60秒看美国总统选举制度（热度：152812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%23" target="weibo">
 永夜星河（热度：146171）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E6%8E%A5%E4%B8%8B%E6%9D%A5%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%23" target="weibo">
-特朗普宣称接下来是美国的黄金时代（热度：144141）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E6%96%87%E6%A1%88%23" target="weibo">
+立冬文案（热度：141924）
 </a>
 </li>
 
@@ -285,6 +315,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A5%9D%E8%B4%BA%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+泽连斯基祝贺特朗普（热度：110202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
 美国大选（热度：104569）
 </a>
@@ -321,20 +357,32 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%BA%94%E4%B8%8D%E4%BC%9A%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
+向佐回应不会和郭碧婷参加再见爱人（热度：89092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23" target="weibo">
 外交部回应美国总统选举结果（热度：85730）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%9B%9E%E5%BA%94%E4%B8%8D%E4%BC%9A%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
-向佐回应不会和郭碧婷参加再见爱人（热度：85349）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E7%9C%8B%E5%AE%8B%E8%8E%B9%23" target="weibo">
+想看宋莹（热度：77414）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E7%9C%8B%E5%AE%8B%E8%8E%B9%23" target="weibo">
-想看宋莹（热度：77414）
+<a href="https://s.weibo.com/weibo?q=%237%E7%B1%BB%E9%A3%9F%E6%9D%90%E8%87%AA%E5%B8%A6%E6%9C%89%E5%AE%B3%E7%89%A9%E8%B4%A8%23" target="weibo">
+7类食材自带有害物质（热度：76502）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%9C%AC%E7%AB%99%E6%AF%94%E8%B5%9B%E4%BB%85%E5%89%A9%E6%9E%97%E8%AF%97%E6%A0%8B%23" target="weibo">
+国乒男队本站比赛仅剩林诗栋（热度：74377）
 </a>
 </li>
 
@@ -351,26 +399,26 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2360%E7%A7%92%E7%9C%8B%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%88%B6%E5%BA%A6%23" target="weibo">
-60秒看美国总统选举制度（热度：68391）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E6%94%BF%E6%B2%BB%E6%88%90%E5%B0%B1%23" target="weibo">
+特朗普称取得了不可思议的政治成就（热度：67216）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A5%9D%E8%B4%BA%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
-泽连斯基祝贺特朗普（热度：61214）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%9C%E9%80%89%E5%90%8E%E8%B0%88%E6%9A%97%E6%9D%80%23" target="weibo">
+特朗普胜选后谈暗杀（热度：62113）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%9C%AC%E7%AB%99%E6%AF%94%E8%B5%9B%E4%BB%85%E5%89%A9%E6%9E%97%E8%AF%97%E6%A0%8B%23" target="weibo">
-国乒男队本站比赛仅剩林诗栋（热度：56768）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E4%BB%8B%E5%A4%A7%E7%B1%B3%E8%B5%B0%E7%BA%A2%E7%9A%84%E5%89%AF%E5%B1%80%E9%95%BF%E6%98%AF%E8%8B%B1%E8%AF%AD%E4%B8%93%E5%85%AB%23" target="weibo">
+推介大米走红的副局长是英语专八（热度：59978）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%237%E7%B1%BB%E9%A3%9F%E6%9D%90%E8%87%AA%E5%B8%A6%E6%9C%89%E5%AE%B3%E7%89%A9%E8%B4%A8%23" target="weibo">
-7类食材自带有害物质（热度：52723）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%BE%8E%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE%23" target="weibo">
+外交部就美总统选举结果答记者问（热度：50081）
 </a>
 </li>
 
@@ -387,12 +435,6 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E6%94%BF%E6%B2%BB%E6%88%90%E5%B0%B1%23" target="weibo">
-特朗普称取得了不可思议的政治成就（热度：43930）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E8%80%95%E8%87%AA%E5%B7%B1%E4%B8%93%E6%B3%A8%E7%9A%84%E4%BA%BA%E8%87%AA%E4%BC%9A%E5%8F%91%E5%85%89%23" target="weibo">
 深耕自己专注的人自会发光（热度：43064）
 </a>
@@ -401,12 +443,6 @@ Knight隐藏微博动态（热度：99340）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%B0%86%E5%90%8C%E6%97%B6%E8%A3%85%E5%A4%87%E4%B8%A4%E6%AC%BE%E9%9A%90%E8%BA%AB%E6%88%98%E6%9C%BA%23" target="weibo">
 中国空军将同时装备两款隐身战机（热度：38962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E4%BB%8B%E5%A4%A7%E7%B1%B3%E8%B5%B0%E7%BA%A2%E7%9A%84%E5%89%AF%E5%B1%80%E9%95%BF%E6%98%AF%E8%8B%B1%E8%AF%AD%E4%B8%93%E5%85%AB%23" target="weibo">
-推介大米走红的副局长是英语专八（热度：38368）
 </a>
 </li>
 
@@ -441,8 +477,8 @@ Knight隐藏微博动态（热度：99340）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%BE%8E%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE%23" target="weibo">
-外交部就美总统选举结果答记者问（热度：25436）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E7%A7%B0%E6%8E%A5%E5%8F%97%E8%B4%A5%E9%80%89%E7%BB%93%E6%9E%9C%23" target="weibo">
+哈里斯称接受败选结果（热度：24923）
 </a>
 </li>
 
@@ -502,7 +538,7 @@ Knight隐藏微博动态（热度：99340）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E9%98%B2%E6%B2%99%E6%B2%BB%E6%B2%99%E6%88%90%E7%BB%A9%E5%8D%95%23" target="weibo">
-数读我国防沙治沙成绩单（热度：2930）
+数读我国防沙治沙成绩单（热度：3189）
 </a>
 </li>
 
