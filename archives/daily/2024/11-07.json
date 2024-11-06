@@ -1,10 +1,10 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730935259629,
+  "endTime": 1730936119725,
   "band_list": [
     {
-      "raw_hot": 1345250,
-      "num": 360407,
+      "raw_hot": 2251316,
+      "num": 840423,
       "word": "马斯克要求台湾供应商搬出台湾",
       "onboard_time": 1730934377,
       "rank": 10,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1111245,
-      "num": 412439,
+      "num": 661036,
       "word": "萝莉岛",
       "onboard_time": 1730885783,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1098495,
+      "num": 1098495,
+      "word": "官方回应4名年轻公职人员遇车祸身亡",
+      "onboard_time": 1730908641,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085355,
@@ -35,16 +43,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1065065,
-      "num": 1065065,
-      "word": "官方回应4名年轻公职人员遇车祸身亡",
-      "onboard_time": 1730908641,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1045267,
-      "num": 425770,
+      "num": 681785,
       "word": "男子举报儿媳与盐城一干部发生婚外情",
       "onboard_time": 1730918293,
       "rank": 29,
@@ -57,6 +57,14 @@
       "onboard_time": 1730906300,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 994739,
+      "num": 829486,
+      "word": "美国可能面临五大变化",
+      "onboard_time": 1730914094,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 993847,
@@ -75,16 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 796943,
-      "num": 691714,
-      "word": "美国可能面临五大变化",
-      "onboard_time": 1730914094,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 738898,
-      "num": 738898,
+      "raw_hot": 891648,
+      "num": 891648,
       "word": "立冬",
       "onboard_time": 1730934677,
       "rank": 4,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 700510,
-      "num": 412426,
+      "num": 591063,
       "word": "特朗普赢得2024美国大选",
       "onboard_time": 1730876377,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422389,
+      "num": 412415,
+      "word": "结婚未领证生子男子起诉返还彩礼",
+      "onboard_time": 1730901504,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412527,
       "num": 412527,
       "word": "苹果喊话iPhone13和14钉子户",
@@ -115,11 +123,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 412415,
-      "num": 412415,
-      "word": "结婚未领证生子男子起诉返还彩礼",
-      "onboard_time": 1730901504,
-      "rank": 12,
+      "raw_hot": 400278,
+      "num": 791339,
+      "word": "郝蕾回应演员能不能直播带货",
+      "onboard_time": 1730909899,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375078,
+      "num": 357365,
+      "word": "初中生被收手机欲跳楼老师一把拉回",
+      "onboard_time": 1730913494,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -131,20 +147,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 361792,
-      "num": 361792,
-      "word": "郝蕾回应演员能不能直播带货",
-      "onboard_time": 1730909899,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 357365,
-      "num": 357365,
-      "word": "初中生被收手机欲跳楼老师一把拉回",
-      "onboard_time": 1730913494,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 367606,
+      "num": 771779,
+      "word": "麦麦想要的安全感原来是这样",
+      "onboard_time": 1730895080,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 345569,
@@ -179,14 +187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 294481,
-      "num": 361620,
-      "word": "麦麦想要的安全感原来是这样",
-      "onboard_time": 1730895080,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293341,
       "num": 293341,
       "word": "王楚钦0比3卡尔伯格",
@@ -203,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 261237,
+      "num": 742302,
+      "word": "拜登祝贺特朗普",
+      "onboard_time": 1730935339,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 259453,
       "num": 259453,
       "word": "雇主坐牢失联月嫂抚养女婴3年",
@@ -211,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249402,
+      "num": 716246,
+      "word": "哈里斯称接受败选结果",
+      "onboard_time": 1730935159,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "李现连续七年为杨紫庆生",
       "onboard_time": 1730903781,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238705,
+      "num": 238705,
+      "word": "特朗普胜选后谈暗杀",
+      "onboard_time": 1730935097,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234266,
@@ -233,6 +257,14 @@
       "onboard_time": 1730904981,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207989,
+      "num": 207989,
+      "word": "特朗普夸马斯克是超级天才",
+      "onboard_time": 1730895320,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 198514,
@@ -259,20 +291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190262,
-      "num": 159506,
+      "raw_hot": 191889,
+      "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
       "onboard_time": 1730895320,
       "rank": 31,
       "category": "国外时政"
     },
     {
-      "raw_hot": 185990,
-      "num": 185990,
-      "word": "特朗普夸马斯克是超级天才",
-      "onboard_time": 1730895320,
-      "rank": 25,
-      "category": "国外时政"
+      "raw_hot": 179750,
+      "num": 179750,
+      "word": "冬季第一个节气",
+      "onboard_time": 1730935518,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170636,
@@ -281,6 +313,22 @@
       "onboard_time": 1730897660,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163649,
+      "num": 163649,
+      "word": "60秒看美国总统选举制度",
+      "onboard_time": 1730884343,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 160392,
+      "num": 160392,
+      "word": "立冬文案",
+      "onboard_time": 1730934738,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 156515,
@@ -299,28 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152812,
-      "num": 143733,
-      "word": "60秒看美国总统选举制度",
-      "onboard_time": 1730884343,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 146171,
       "num": 146171,
       "word": "永夜星河",
       "onboard_time": 1730884883,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141924,
-      "num": 141924,
-      "word": "立冬文案",
-      "onboard_time": 1730934738,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 140056,
@@ -331,12 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133171,
+      "num": 133171,
+      "word": "你好冬天",
+      "onboard_time": 1730935518,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132696,
       "num": 132696,
       "word": "网曝中学老师被拖欠工资集体罢课",
       "onboard_time": 1730903363,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131375,
+      "num": 131375,
+      "word": "王楚钦说一个也发不转",
+      "onboard_time": 1730935817,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 129376,
@@ -353,6 +401,14 @@
       "onboard_time": 1730896821,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123683,
+      "num": 216747,
+      "word": "永夜星河加更",
+      "onboard_time": 1730935758,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 121170,
@@ -387,6 +443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 116698,
+      "num": 208058,
+      "word": "向佐回应不会和郭碧婷参加再见爱人",
+      "onboard_time": 1730893820,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114065,
       "num": 114065,
       "word": "河南方城4名公职人员在车祸中死亡",
@@ -404,11 +468,19 @@
     },
     {
       "raw_hot": 110202,
-      "num": 97970,
+      "num": 102938,
       "word": "泽连斯基祝贺特朗普",
       "onboard_time": 1730928851,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "被救妻子至今不知丈夫已去世",
+      "onboard_time": 1730935817,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104569,
@@ -443,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98558,
+      "num": 160409,
+      "word": "小巷人家里只有李佳没有家",
+      "onboard_time": 1730935817,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94864,
       "num": 94864,
       "word": "网友环球影城偶遇宋祖儿",
@@ -459,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89092,
-      "num": 153882,
-      "word": "向佐回应不会和郭碧婷参加再见爱人",
-      "onboard_time": 1730893820,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 86825,
+      "num": 86825,
+      "word": "特朗普称取得了不可思议的政治成就",
+      "onboard_time": 1730920751,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 85730,
@@ -473,6 +553,14 @@
       "onboard_time": 1730908400,
       "rank": 9,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 84275,
+      "num": 84275,
+      "word": "国乒男队本站比赛仅剩林诗栋",
+      "onboard_time": 1730916612,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 77414,
@@ -491,14 +579,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 74377,
-      "num": 74377,
-      "word": "国乒男队本站比赛仅剩林诗栋",
-      "onboard_time": 1730916612,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74260,
       "num": 81805,
       "word": "王楚钦vs卡尔伯格",
@@ -512,22 +592,6 @@
       "word": "特朗普胜选演讲",
       "onboard_time": 1730885185,
       "rank": 49,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 67216,
-      "num": 67216,
-      "word": "特朗普称取得了不可思议的政治成就",
-      "onboard_time": 1730920751,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 62113,
-      "num": 62113,
-      "word": "特朗普胜选后谈暗杀",
-      "onboard_time": 1730935097,
-      "rank": 45,
       "category": "国外时政"
     },
     {
@@ -619,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24923,
-      "num": 360908,
-      "word": "哈里斯称接受败选结果",
-      "onboard_time": 1730935159,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 24465,
       "num": 24465,
       "word": "特朗普叮嘱工作人员警惕计票作弊",
@@ -699,7 +755,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3189,
+      "raw_hot": 3569,
       "num": 964604,
       "word": "数读我国防沙治沙成绩单",
       "onboard_time": 1730896281,
