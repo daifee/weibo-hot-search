@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730928125137,
+  "endTime": 1730928954824,
   "band_list": [
     {
       "raw_hot": 1286393,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131445,
+      "num": 131445,
+      "word": "男子举报儿媳与盐城一干部发生婚外情",
+      "onboard_time": 1730918293,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129376,
       "num": 129376,
       "word": "王楚钦状态",
@@ -345,14 +353,6 @@
       "onboard_time": 1730906242,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112297,
-      "num": 112297,
-      "word": "男子举报儿媳与盐城一干部发生婚外情",
-      "onboard_time": 1730918293,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104569,
@@ -483,20 +483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33658,
+      "num": 31322,
+      "word": "超七成美国人不满国家走向",
+      "onboard_time": 1730923991,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 32199,
       "num": 48280,
       "word": "医生提醒瑞士卷不可吃多",
       "onboard_time": 1730920211,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31946,
-      "num": 31322,
-      "word": "超七成美国人不满国家走向",
-      "onboard_time": 1730923991,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 30147,
@@ -579,6 +579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 16161,
+      "num": 19618,
+      "word": "泽连斯基祝贺特朗普",
+      "onboard_time": 1730928851,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 13417,
       "num": 77235,
       "word": "神十八载人飞行任务全记录",
@@ -592,6 +600,14 @@
       "word": "辽宁大连海域一渔船翻扣9人失踪",
       "onboard_time": 1730919791,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12246,
+      "num": 71626,
+      "word": "海事局回应辽宁一货船被外籍船只撞翻",
+      "onboard_time": 1730928311,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
