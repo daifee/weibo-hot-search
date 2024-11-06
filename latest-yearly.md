@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 13:21:27
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 13:38:52
 </p>
 </blockquote>
 <p>
@@ -879,6 +879,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
+美国大选（热度：10831808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%E6%A2%81%E4%BC%9F%E9%93%BF%E9%83%BD%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
 王昶梁伟铿都有女朋友（热度：10807671）
 </a>
@@ -1097,12 +1103,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%9C%E5%BE%B7%E8%B5%9B%E5%90%8E%E9%81%93%E6%AD%89%23" target="weibo">
 苏炜德赛后道歉（热度：9874005）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
-美国大选（热度：9866599）
 </a>
 </li>
 

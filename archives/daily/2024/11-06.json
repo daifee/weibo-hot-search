@@ -1,9 +1,9 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730870487340,
+  "endTime": 1730871532143,
   "band_list": [
     {
-      "raw_hot": 9866599,
+      "raw_hot": 10831808,
       "num": 729375,
       "word": "美国大选",
       "onboard_time": 1730795600,
@@ -219,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704307,
+      "num": 350220,
+      "word": "美国共和党赢得参议院控制权",
+      "onboard_time": 1730870663,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 699963,
+      "num": 699963,
+      "word": "丁禹兮收拾收拾准备升咖",
+      "onboard_time": 1730869226,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 687651,
       "num": 687651,
       "word": "蒂芙尼成都太古里店被砸",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619869,
+      "num": 474064,
+      "word": "内华达州11000张选票签名有问题",
+      "onboard_time": 1730869105,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 617651,
       "num": 617651,
       "word": "加拿大偶遇姚笛",
@@ -273,14 +297,6 @@
       "onboard_time": 1730863883,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 579584,
-      "num": 579584,
-      "word": "丁禹兮收拾收拾准备升咖",
-      "onboard_time": 1730869226,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 571701,
@@ -307,7 +323,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529855,
+      "raw_hot": 545737,
       "num": 451747,
       "word": "内娱花果山",
       "onboard_time": 1730866226,
@@ -467,14 +483,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 330389,
-      "num": 474064,
-      "word": "内华达州11000张选票签名有问题",
-      "onboard_time": 1730869105,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 325442,
       "num": 325442,
       "word": "国产假睫毛成老外刚需",
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276723,
+      "num": 276723,
+      "word": "肖战米黄色外套",
+      "onboard_time": 1730869826,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275476,
       "num": 275476,
       "word": "美国东海岸投票站开放",
@@ -619,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244523,
+      "num": 244523,
+      "word": "山城小栗旬也去找晓华剪头发了",
+      "onboard_time": 1730869347,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241886,
+      "num": 241886,
+      "word": "恋与深空 夏以昼",
+      "onboard_time": 1730869466,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240645,
       "num": 240645,
       "word": "恋与深空",
@@ -657,14 +689,6 @@
       "onboard_time": 1730868205,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 228999,
-      "num": 228999,
-      "word": "山城小栗旬也去找晓华剪头发了",
-      "onboard_time": 1730869347,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225833,
@@ -707,12 +731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220569,
+      "num": 220569,
+      "word": "KPL年总决赛节目单",
+      "onboard_time": 1730871325,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220204,
       "num": 220204,
       "word": "3人参与刺杀伊朗核科学家被判死刑",
       "onboard_time": 1730854403,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 213488,
+      "num": 499195,
+      "word": "柳州女子系酒后呕吐朋友搀扶",
+      "onboard_time": 1730869045,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211577,
@@ -723,14 +763,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208679,
-      "num": 208679,
-      "word": "恋与深空 夏以昼",
-      "onboard_time": 1730869466,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208544,
       "num": 168646,
       "word": "虞书欣第一个男主角也来打call了",
@@ -739,28 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208269,
-      "num": 499195,
-      "word": "柳州女子系酒后呕吐朋友搀扶",
-      "onboard_time": 1730869045,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207762,
       "num": 506754,
       "word": "美国大选多个投票站遭炸弹威胁",
       "onboard_time": 1730856141,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 206795,
-      "num": 206795,
-      "word": "肖战米黄色外套",
-      "onboard_time": 1730869826,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205513,
@@ -779,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203903,
+      "num": 203903,
+      "word": "董宇辉回应烧麦言论",
+      "onboard_time": 1730867965,
+      "rank": 47,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 197303,
       "num": 403295,
       "word": "海马体称若因照片不能报考可退款",
@@ -793,14 +817,6 @@
       "onboard_time": 1730810421,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193957,
-      "num": 193957,
-      "word": "董宇辉回应烧麦言论",
-      "onboard_time": 1730867965,
-      "rank": 47,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 192469,
@@ -835,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186616,
+      "num": 186616,
+      "word": "花少更新",
+      "onboard_time": 1730869646,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183955,
       "num": 173989,
       "word": "虞书欣 大家不光生我还要宠我",
@@ -849,6 +873,14 @@
       "onboard_time": 1730813304,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181689,
+      "num": 181689,
+      "word": "川大智胜午后涨停",
+      "onboard_time": 1730871265,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 181442,
@@ -875,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174616,
+      "num": 348574,
+      "word": "易烊千玺小小的我剧组采访",
+      "onboard_time": 1730870663,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173435,
       "num": 249365,
       "word": "权志龙说不要再少人了",
@@ -891,12 +931,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 172107,
-      "num": 172107,
-      "word": "花少更新",
-      "onboard_time": 1730869646,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 172825,
+      "num": 172825,
+      "word": "剑网3",
+      "onboard_time": 1730871145,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 170708,
@@ -1435,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54398,
+      "num": 347454,
+      "word": "2024美国总统大选八大看点",
+      "onboard_time": 1730870783,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 53893,
       "num": 411014,
       "word": "医保催缴不能与学生受教育权挂钩",
@@ -1451,12 +1499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51913,
+      "num": 491634,
+      "word": "赵露思真的很爱咖啡",
+      "onboard_time": 1730869586,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48584,
       "num": 458054,
       "word": "美选民担忧选举结果引发暴力事件",
       "onboard_time": 1730863103,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 45082,
+      "num": 347094,
+      "word": "马斯克突然来北京是谣言",
+      "onboard_time": 1730870484,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41030,
@@ -1475,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38628,
+      "num": 478031,
+      "word": "A股成交连续26个交易日破万亿",
+      "onboard_time": 1730870124,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38240,
       "num": 345902,
       "word": "用鸿蒙小艺赏宝太开门了",
@@ -1489,14 +1561,6 @@
       "onboard_time": 1730803701,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36986,
-      "num": 491634,
-      "word": "赵露思真的很爱咖啡",
-      "onboard_time": 1730869586,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34755,
@@ -1603,14 +1667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 23483,
-      "num": 478031,
-      "word": "A股成交连续26个交易日破万亿",
-      "onboard_time": 1730870124,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 22998,
       "num": 22998,
       "word": "大学生的开封PassionRide",
@@ -1643,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14627,
+      "num": 314305,
+      "word": "珠帘玉幕藏着赵露思搞钱秘籍",
+      "onboard_time": 1730869897,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 12821,
       "num": 16787,
       "word": "人民空军75周年",
@@ -1665,14 +1729,6 @@
       "onboard_time": 1730838131,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12058,
-      "num": 314305,
-      "word": "珠帘玉幕藏着赵露思搞钱秘籍",
-      "onboard_time": 1730869897,
-      "rank": 29,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 9596,

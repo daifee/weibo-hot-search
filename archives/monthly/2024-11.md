@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/06 13:21:27
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/06 13:38:52
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E7%B3%BB%E8%80%81%E5%B8%88%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9%23" target="weibo">
 姜萍数学竞赛系老师提供帮助（热度：15722412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
+美国大选（热度：10831808）
 </a>
 </li>
 
@@ -35,12 +41,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8D%B7%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94%E5%B9%B6%E6%8A%B1%E6%AD%89%23" target="weibo">
 瑞士卷当事人称非常后悔并抱歉（热度：10078252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
-美国大选（热度：9866599）
 </a>
 </li>
 
@@ -1695,8 +1695,20 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E8%B5%A2%E5%BE%97%E5%8F%82%E8%AE%AE%E9%99%A2%E6%8E%A7%E5%88%B6%E6%9D%83%23" target="weibo">
+美国共和党赢得参议院控制权（热度：704307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E6%B8%B8%E6%88%8F%E6%B5%81%E8%A1%8C%E6%A0%A1%E5%9B%AD%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%87%B4%E6%AD%BB%23" target="weibo">
 死亡游戏流行校园真的会致死（热度：700428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96%23" target="weibo">
+丁禹兮收拾收拾准备升咖（热度：699963）
 </a>
 </li>
 
@@ -2067,6 +2079,12 @@ BLG教练（热度：627145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E11000%E5%BC%A0%E9%80%89%E7%A5%A8%E7%AD%BE%E5%90%8D%E6%9C%89%E9%97%AE%E9%A2%98%23" target="weibo">
+内华达州11000张选票签名有问题（热度：619869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%AC%AC1%E5%BC%A0%E7%81%AB%E8%BD%A6%E7%A5%A8%E7%94%B5%E5%AD%90%E5%8F%91%E7%A5%A8%E5%BC%80%E5%87%BA%23" target="weibo">
 全国第1张火车票电子发票开出（热度：617677）
 </a>
@@ -2277,12 +2295,6 @@ Uzi捧杯图P好了（热度：592231）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96%23" target="weibo">
-丁禹兮收拾收拾准备升咖（热度：579584）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BABLG%E5%81%9A%E6%B3%95%23" target="weibo">
 为BLG做法（热度：578209）
 </a>
@@ -2481,6 +2493,12 @@ S14开幕式（热度：547185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%8A%B1%E6%9E%9C%E5%B1%B1%23" target="weibo">
+内娱花果山（热度：545737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%83%BD%E5%BE%88%E5%BF%AB%E4%BF%AE%E5%A4%8D%E6%8B%9C%E7%99%BB%E9%80%A0%E6%88%90%E7%9A%84%E7%A0%B4%E5%9D%8F%23" target="weibo">
 特朗普称能很快修复拜登造成的破坏（热度：541733）
 </a>
@@ -2555,12 +2573,6 @@ Faker世界赛500杀（热度：537332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E5%8F%91%E5%9B%9E%E5%BA%94%E8%8D%A3%E6%A2%93%E6%9D%89%E6%96%B9%23" target="weibo">
 王大发回应荣梓杉方（热度：530574）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%8A%B1%E6%9E%9C%E5%B1%B1%23" target="weibo">
-内娱花果山（热度：529855）
 </a>
 </li>
 
@@ -3885,12 +3897,6 @@ BABYMONSTER主打曲（热度：336584）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E11000%E5%BC%A0%E9%80%89%E7%A5%A8%E7%AD%BE%E5%90%8D%E6%9C%89%E9%97%AE%E9%A2%98%23" target="weibo">
-内华达州11000张选票签名有问题（热度：330389）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E5%85%AB%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E5%B9%B3%E5%AE%89%E6%8A%B5%E4%BA%AC%23" target="weibo">
 神舟十八号航天员平安抵京（热度：328188）
 </a>
@@ -4397,6 +4403,12 @@ TES（热度：280492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%B2%81%E6%9C%88%E5%AE%9A%E6%A1%A3%23" target="weibo">
 西北岁月定档（热度：277787）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%B1%B3%E9%BB%84%E8%89%B2%E5%A4%96%E5%A5%97%23" target="weibo">
+肖战米黄色外套（热度：276723）
 </a>
 </li>
 
@@ -4911,6 +4923,12 @@ by2一字马11年前后对比（热度：269464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%9F%8E%E5%B0%8F%E6%A0%97%E6%97%AC%E4%B9%9F%E5%8E%BB%E6%89%BE%E6%99%93%E5%8D%8E%E5%89%AA%E5%A4%B4%E5%8F%91%E4%BA%86%23" target="weibo">
+山城小栗旬也去找晓华剪头发了（热度：244523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A87%E5%9B%9B%E5%AF%B9cp%E9%83%BD%E5%8E%BB%E4%BA%86%E5%BC%A0%E8%BF%9C%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 心动7四对cp都去了张远演唱会（热度：244218）
 </a>
@@ -4925,6 +4943,12 @@ by2一字马11年前后对比（热度：269464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%83%91%E4%B9%A6%E6%84%8F%23" target="weibo">
 白鹿郑书意（热度：243296）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
+恋与深空 夏以昼（热度：241886）
 </a>
 </li>
 
@@ -5157,12 +5181,6 @@ S14总决赛（热度：231730）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%9F%8E%E5%B0%8F%E6%A0%97%E6%97%AC%E4%B9%9F%E5%8E%BB%E6%89%BE%E6%99%93%E5%8D%8E%E5%89%AA%E5%A4%B4%E5%8F%91%E4%BA%86%23" target="weibo">
-山城小栗旬也去找晓华剪头发了（热度：228999）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%913%E6%96%B0%E8%A1%A3%E6%9C%8D%23" target="weibo">
 剑网3新衣服（热度：228831）
 </a>
@@ -5301,6 +5319,12 @@ A股（热度：222975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+KPL年总决赛节目单（热度：220569）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%20%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E4%B8%8D%E5%9C%A8%E9%83%BD%E6%B2%A1%E4%BA%BA%E5%93%AD%23" target="weibo">
 唐九洲 黄子弘凡不在都没人哭（热度：220534）
 </a>
@@ -5429,6 +5453,12 @@ BLG原班人马再战一年可能性多大（热度：215586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E6%9F%BF%E5%AD%90%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%BB%A1%E8%84%B8%E9%99%B6%E9%86%89%23" target="weibo">
 第一次吃柿子的大熊猫满脸陶醉（热度：213557）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E5%A5%B3%E5%AD%90%E7%B3%BB%E9%85%92%E5%90%8E%E5%91%95%E5%90%90%E6%9C%8B%E5%8F%8B%E6%90%80%E6%89%B6%23" target="weibo">
+柳州女子系酒后呕吐朋友搀扶（热度：213488）
 </a>
 </li>
 
@@ -5589,20 +5619,8 @@ Bin回应不敌T1（热度：209451）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
-恋与深空 夏以昼（热度：208679）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%E6%99%8B%E7%BA%A7%E7%94%B7%E5%8D%9516%E5%BC%BA%23" target="weibo">
 卡尔伯格晋级男单16强（热度：208280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E5%A5%B3%E5%AD%90%E7%B3%BB%E9%85%92%E5%90%8E%E5%91%95%E5%90%90%E6%9C%8B%E5%8F%8B%E6%90%80%E6%89%B6%23" target="weibo">
-柳州女子系酒后呕吐朋友搀扶（热度：208269）
 </a>
 </li>
 
@@ -5675,12 +5693,6 @@ Bin再比三比零手势（热度：207719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%BC%94%E6%8A%80%23" target="weibo">
 丁禹兮演技（热度：206812）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%B1%B3%E9%BB%84%E8%89%B2%E5%A4%96%E5%A5%97%23" target="weibo">
-肖战米黄色外套（热度：206795）
 </a>
 </li>
 
@@ -5819,6 +5831,12 @@ AG剧透（热度：204731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B0%B1%E5%A7%9C%E8%90%8D%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89%23" target="weibo">
 阿里巴巴就姜萍事件道歉（热度：204258）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E7%83%A7%E9%BA%A6%E8%A8%80%E8%AE%BA%23" target="weibo">
+董宇辉回应烧麦言论（热度：203903）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Faker谈和Knight交手（热度：199427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23hybe%E7%A7%B0%E8%BE%B9%E4%BC%AF%E8%B4%A4%E5%8F%82%E8%80%83%E7%94%B0%E6%9F%BE%E5%9B%BD%23" target="weibo">
 hybe称边伯贤参考田柾国（热度：199271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23100%E5%85%8B%E7%91%9E%E5%A3%AB%E5%8D%B7%E7%AD%89%E4%BA%8E3%E7%A2%97%E7%B1%B3%E9%A5%AD%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%9A%E5%90%83%23" target="weibo">
-100克瑞士卷等于3碗米饭不建议多吃（热度：199078）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%93%E4%BD%B311%E6%AF%941%23" target="weibo">
-何卓佳11比1（热度：198739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80%23" target="weibo">
-T1扳回一局（热度：198548）
 </a>
 </li>
 

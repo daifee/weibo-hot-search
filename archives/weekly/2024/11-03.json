@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730870487340,
+  "endTime": 1730871532143,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -9,6 +9,14 @@
       "onboard_time": 1730600600,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10831808,
+      "num": 1031217,
+      "word": "美国大选",
+      "onboard_time": 1730645479,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 10583208,
@@ -33,14 +41,6 @@
       "onboard_time": 1730814262,
       "rank": 0,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 9866599,
-      "num": 1031217,
-      "word": "美国大选",
-      "onboard_time": 1730645479,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 8517226,
@@ -1571,12 +1571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704307,
+      "num": 350220,
+      "word": "美国共和党赢得参议院控制权",
+      "onboard_time": 1730870663,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 700428,
       "num": 633443,
       "word": "死亡游戏流行校园真的会致死",
       "onboard_time": 1730636538,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 699963,
+      "num": 699963,
+      "word": "丁禹兮收拾收拾准备升咖",
+      "onboard_time": 1730869226,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 698855,
@@ -1883,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 619869,
+      "num": 474064,
+      "word": "内华达州11000张选票签名有问题",
+      "onboard_time": 1730869105,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 617651,
       "num": 617651,
       "word": "加拿大偶遇姚笛",
@@ -2091,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579584,
-      "num": 579584,
-      "word": "丁禹兮收拾收拾准备升咖",
-      "onboard_time": 1730869226,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
@@ -2267,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545737,
+      "num": 451747,
+      "word": "内娱花果山",
+      "onboard_time": 1730866226,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541268,
       "num": 637030,
       "word": "永夜星河第七集 梦回苍兰诀",
@@ -2313,14 +2337,6 @@
       "onboard_time": 1730775440,
       "rank": 45,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 529855,
-      "num": 451747,
-      "word": "内娱花果山",
-      "onboard_time": 1730866226,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 526700,
@@ -3451,14 +3467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330389,
-      "num": 474064,
-      "word": "内华达州11000张选票签名有问题",
-      "onboard_time": 1730869105,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 328188,
       "num": 340957,
       "word": "神舟十八号航天员平安抵京",
@@ -3891,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276723,
+      "num": 276723,
+      "word": "肖战米黄色外套",
+      "onboard_time": 1730869826,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276679,
       "num": 276679,
       "word": "恋与制作人 好望水",
@@ -4315,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244523,
+      "num": 244523,
+      "word": "山城小栗旬也去找晓华剪头发了",
+      "onboard_time": 1730869347,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244218,
       "num": 244218,
       "word": "心动7四对cp都去了张远演唱会",
@@ -4329,6 +4353,14 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241886,
+      "num": 241886,
+      "word": "恋与深空 夏以昼",
+      "onboard_time": 1730869466,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 241763,
@@ -4555,14 +4587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228999,
-      "num": 228999,
-      "word": "山城小栗旬也去找晓华剪头发了",
-      "onboard_time": 1730869347,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228831,
       "num": 228831,
       "word": "剑网3新衣服",
@@ -4707,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220569,
+      "num": 220569,
+      "word": "KPL年总决赛节目单",
+      "onboard_time": 1730871325,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220435,
       "num": 220435,
       "word": "林孝埈受伤",
@@ -4825,6 +4857,14 @@
       "onboard_time": 1730711419,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213488,
+      "num": 499195,
+      "word": "柳州女子系酒后呕吐朋友搀扶",
+      "onboard_time": 1730869045,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213351,
@@ -4963,28 +5003,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 208679,
-      "num": 208679,
-      "word": "恋与深空 夏以昼",
-      "onboard_time": 1730869466,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208280,
       "num": 208280,
       "word": "卡尔伯格晋级男单16强",
       "onboard_time": 1730731222,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208269,
-      "num": 499195,
-      "word": "柳州女子系酒后呕吐朋友搀扶",
-      "onboard_time": 1730869045,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208131,
@@ -5041,14 +5065,6 @@
       "onboard_time": 1730768958,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206795,
-      "num": 206795,
-      "word": "肖战米黄色外套",
-      "onboard_time": 1730869826,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 206749,
@@ -5217,6 +5233,14 @@
       "onboard_time": 1730602700,
       "rank": 30,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 203903,
+      "num": 203903,
+      "word": "董宇辉回应烧麦言论",
+      "onboard_time": 1730867965,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 202938,
@@ -5579,14 +5603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193957,
-      "num": 193957,
-      "word": "董宇辉回应烧麦言论",
-      "onboard_time": 1730867965,
-      "rank": 47,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 193761,
       "num": 193761,
       "word": "赵丽颖蛐蛐小猫",
@@ -5827,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186616,
+      "num": 186616,
+      "word": "花少更新",
+      "onboard_time": 1730869646,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186388,
       "num": 186388,
       "word": "郭艾伦回应让辽篮赠票给球迷",
@@ -5921,6 +5945,14 @@
       "onboard_time": 1730638039,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181689,
+      "num": 181689,
+      "word": "川大智胜午后涨停",
+      "onboard_time": 1730871265,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 181535,
@@ -6227,6 +6259,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 174616,
+      "num": 348574,
+      "word": "易烊千玺小小的我剧组采访",
+      "onboard_time": 1730870663,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174426,
       "num": 174426,
       "word": "永夜星河双榜TOP1",
@@ -6307,6 +6347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 172825,
+      "num": 172825,
+      "word": "剑网3",
+      "onboard_time": 1730871145,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172711,
       "num": 172711,
       "word": "Keria 明年中国见",
@@ -6345,14 +6393,6 @@
       "onboard_time": 1730774358,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 172107,
-      "num": 172107,
-      "word": "花少更新",
-      "onboard_time": 1730869646,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 171890,
@@ -9371,6 +9411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54398,
+      "num": 347454,
+      "word": "2024美国总统大选八大看点",
+      "onboard_time": 1730870783,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 54310,
       "num": 289121,
       "word": "滁州一野猪在居民区狂奔撞倒两人",
@@ -9417,6 +9465,14 @@
       "onboard_time": 1730865804,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51913,
+      "num": 491634,
+      "word": "赵露思真的很爱咖啡",
+      "onboard_time": 1730869586,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51763,
@@ -9579,6 +9635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45082,
+      "num": 347094,
+      "word": "马斯克突然来北京是谣言",
+      "onboard_time": 1730870484,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45081,
       "num": 183581,
       "word": "Faker单杀",
@@ -9723,6 +9787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38628,
+      "num": 478031,
+      "word": "A股成交连续26个交易日破万亿",
+      "onboard_time": 1730870124,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38547,
       "num": 434097,
       "word": "64岁脱口秀演员说幽默不退休",
@@ -9801,14 +9873,6 @@
       "onboard_time": 1730693123,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36986,
-      "num": 491634,
-      "word": "赵露思真的很爱咖啡",
-      "onboard_time": 1730869586,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36816,
@@ -10305,14 +10369,6 @@
       "onboard_time": 1730802801,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23483,
-      "num": 478031,
-      "word": "A股成交连续26个交易日破万亿",
-      "onboard_time": 1730870124,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 23445,
@@ -10843,6 +10899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14627,
+      "num": 314305,
+      "word": "珠帘玉幕藏着赵露思搞钱秘籍",
+      "onboard_time": 1730869897,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 14293,
       "num": 18985,
       "word": "神十八返回舱如流星般划过天际",
@@ -10961,14 +11025,6 @@
       "onboard_time": 1730805381,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12058,
-      "num": 314305,
-      "word": "珠帘玉幕藏着赵露思搞钱秘籍",
-      "onboard_time": 1730869897,
-      "rank": 29,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 12052,
