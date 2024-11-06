@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730896945060,
+  "endTime": 1730897898500,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2828835,
-      "num": 586607,
+      "num": 611785,
       "word": "哈里斯支持者黯然离开",
       "onboard_time": 1730893640,
       "rank": 5,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658293,
+      "num": 569410,
+      "word": "特朗普夸马斯克是超级天才",
+      "onboard_time": 1730895320,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 657422,
       "num": 444236,
       "word": "哈里斯取消演讲计划",
@@ -523,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 578699,
-      "num": 492904,
-      "word": "特朗普夸马斯克是超级天才",
-      "onboard_time": 1730895320,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 575857,
+      "num": 575857,
+      "word": "合肥地震",
+      "onboard_time": 1730897001,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571701,
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446083,
+      "num": 394621,
+      "word": "博士情侣瞒领导下班摆摊月入3万",
+      "onboard_time": 1730897660,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443932,
       "num": 443932,
       "word": "永夜星河男二",
@@ -713,6 +729,14 @@
       "onboard_time": 1730879132,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437034,
+      "num": 391138,
+      "word": "虞书欣镜头下的群星",
+      "onboard_time": 1730894541,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 433269,
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381991,
+      "num": 381991,
+      "word": "特朗普宣称接下来是美国的黄金时代",
+      "onboard_time": 1730895320,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 375733,
       "num": 156330,
       "word": "虞书欣赵露思 互拍",
@@ -865,14 +897,6 @@
       "onboard_time": 1730871265,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 350193,
-      "num": 350193,
-      "word": "虞书欣镜头下的群星",
-      "onboard_time": 1730894541,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 349691,
@@ -939,6 +963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 320249,
+      "num": 407241,
+      "word": "河南一医院发生爆炸一名医生身亡",
+      "onboard_time": 1730896821,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319051,
       "num": 464248,
       "word": "烧伤妈妈术后首次开口说话",
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302191,
+      "num": 383690,
+      "word": "向佐回应不会和郭碧婷参加再见爱人",
+      "onboard_time": 1730893820,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299186,
       "num": 730761,
       "word": "广东湛江一垃圾桶旁发现男婴",
@@ -1024,6 +1064,14 @@
       "word": "丈夫把100万元捐款转给烧伤妈妈",
       "onboard_time": 1730809702,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288124,
+      "num": 269937,
+      "word": "房贷利率不得低于2.95%是真的吗",
+      "onboard_time": 1730894361,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270178,
+      "num": 270178,
+      "word": "虞书欣拍刘亦菲",
+      "onboard_time": 1730897722,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270134,
       "num": 270134,
       "word": "卫生巾长度造假",
@@ -1083,12 +1139,12 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 269937,
-      "num": 269937,
-      "word": "房贷利率不得低于2.95%是真的吗",
-      "onboard_time": 1730894361,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 266342,
+      "num": 266342,
+      "word": "李现宣传期要给杨紫拍照",
+      "onboard_time": 1730897242,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 264977,
@@ -1113,14 +1169,6 @@
       "onboard_time": 1730812703,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261440,
-      "num": 261440,
-      "word": "特朗普宣称接下来是美国的黄金时代",
-      "onboard_time": 1730895320,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 257537,
@@ -1259,6 +1307,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 228138,
+      "num": 318585,
+      "word": "永夜星河致敬步步惊心",
+      "onboard_time": 1730892140,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225833,
       "num": 225833,
       "word": "比特币",
@@ -1395,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205196,
-      "num": 318585,
-      "word": "永夜星河致敬步步惊心",
-      "onboard_time": 1730892140,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204773,
       "num": 204773,
       "word": "子午线",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1730867965,
       "rank": 47,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 203388,
+      "word": "珠帘玉幕赵露思刘宇宁吻戏",
+      "onboard_time": 1730895801,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202460,
@@ -1467,12 +1523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194271,
+      "num": 416789,
+      "word": "麦麦想要的安全感原来是这样",
+      "onboard_time": 1730895080,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193468,
       "num": 340961,
       "word": "怎么不带张一山",
       "onboard_time": 1730878112,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192750,
+      "num": 192750,
+      "word": "学校回应女学生跳楼事件",
+      "onboard_time": 1730896461,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192469,
@@ -1497,22 +1569,6 @@
       "onboard_time": 1730879551,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189048,
-      "num": 189048,
-      "word": "向佐回应不会和郭碧婷参加再见爱人",
-      "onboard_time": 1730893820,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188395,
-      "num": 188395,
-      "word": "珠帘玉幕赵露思刘宇宁吻戏",
-      "onboard_time": 1730895801,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 187913,
@@ -1651,14 +1707,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 172873,
-      "num": 416789,
-      "word": "麦麦想要的安全感原来是这样",
-      "onboard_time": 1730895080,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172825,
       "num": 172825,
       "word": "剑网3",
@@ -1763,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163046,
+      "num": 163046,
+      "word": "2岁之前的糖或带来终生的病",
+      "onboard_time": 1730897481,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162224,
       "num": 285391,
       "word": "赵一博男人装封面",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1730885124,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161552,
+      "num": 164891,
+      "word": "特朗普称上帝饶了我一命是有原因的",
+      "onboard_time": 1730895501,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 159910,
@@ -1795,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158034,
+      "num": 431443,
+      "word": "郑钦文vs保利尼",
+      "onboard_time": 1730894722,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156350,
       "num": 156350,
       "word": "哈里斯特朗普竞选主张大pk",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1730870007,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154376,
+      "num": 165531,
+      "word": "鸡柳大哥 人机",
+      "onboard_time": 1730895080,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 154294,
@@ -1832,14 +1912,6 @@
       "word": "侯明昊 用微软雅黑是想给剧组省钱",
       "onboard_time": 1730884462,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 151254,
-      "num": 165531,
-      "word": "鸡柳大哥 人机",
-      "onboard_time": 1730895080,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1939,14 +2011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140845,
-      "num": 165501,
-      "word": "学校回应女学生跳楼事件",
-      "onboard_time": 1730896461,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140691,
       "num": 176139,
       "word": "ENHYPEN空降超话",
@@ -1992,6 +2056,14 @@
       "word": "母女起争执女儿怒砸太古里一专卖店",
       "onboard_time": 1730812884,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134286,
+      "num": 546290,
+      "word": "一条差评带来的蝴蝶效应",
+      "onboard_time": 1730895501,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2083,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123833,
-      "num": 165091,
-      "word": "河南一医院发生爆炸一名医生身亡",
-      "onboard_time": 1730896821,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123791,
       "num": 123791,
       "word": "光夜 邻国那个年轻君主",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1730860520,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115545,
-      "num": 164891,
-      "word": "特朗普称上帝饶了我一命是有原因的",
-      "onboard_time": 1730895501,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 114903,
@@ -2371,14 +2427,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 99973,
-      "num": 431443,
-      "word": "郑钦文vs保利尼",
-      "onboard_time": 1730894722,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98594,
       "num": 129498,
       "word": "马龙分享奥运经历",
@@ -2433,6 +2481,14 @@
       "onboard_time": 1730813423,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88438,
+      "num": 258213,
+      "word": "林孝埈伤势无大碍",
+      "onboard_time": 1730897541,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 87991,
@@ -2521,14 +2577,6 @@
       "onboard_time": 1730862322,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79140,
-      "num": 546290,
-      "word": "一条差评带来的蝴蝶效应",
-      "onboard_time": 1730895501,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78948,
@@ -2747,6 +2795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 42093,
+      "num": 935099,
+      "word": "数读我国防沙治沙成绩单",
+      "onboard_time": 1730896281,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41907,
       "num": 206792,
       "word": "凌妙妙记者发布会",
@@ -2843,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32021,
+      "num": 385646,
+      "word": "王子奇与粉色的适配度",
+      "onboard_time": 1730893401,
+      "rank": 20,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 31795,
       "num": 343777,
       "word": "波司登首创动态御寒科技体系",
@@ -2889,14 +2953,6 @@
       "onboard_time": 1730885662,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 27918,
-      "num": 366039,
-      "word": "王子奇与粉色的适配度",
-      "onboard_time": 1730893401,
-      "rank": 20,
-      "category": "剧集,时尚"
     },
     {
       "raw_hot": 27309,
@@ -2987,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21806,
+      "num": 464583,
+      "word": "为弟弟追凶27年案当事人细述过往",
+      "onboard_time": 1730896581,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21018,
       "num": 28047,
       "word": "我的抽象视界",
@@ -3008,22 +3072,6 @@
       "word": "起底个人债务重组中介",
       "onboard_time": 1730891121,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18095,
-      "num": 464583,
-      "word": "为弟弟追凶27年案当事人细述过往",
-      "onboard_time": 1730896581,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17372,
-      "num": 935099,
-      "word": "数读我国防沙治沙成绩单",
-      "onboard_time": 1730896281,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3072,6 +3120,14 @@
       "word": "群演代表沈凯发言时落泪",
       "onboard_time": 1730873246,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10893,
+      "num": 335007,
+      "word": "丁禹兮微博关注玉溪文旅",
+      "onboard_time": 1730897781,
+      "rank": 23,
       "category": "艺人"
     },
     {
