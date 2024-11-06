@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730907517508,
+  "endTime": 1730910458846,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1483,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1036048,
+      "num": 624355,
+      "word": "一个人毁了一部剧",
+      "onboard_time": 1730906300,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1034579,
       "num": 1034579,
       "word": "歼35A将公开亮相",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1730623759,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948470,
+      "num": 948470,
+      "word": "虞书欣向腾讯视频催更",
+      "onboard_time": 1730907442,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 947979,
@@ -3033,14 +3049,6 @@
       "onboard_time": 1730379019,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 624355,
-      "num": 624355,
-      "word": "一个人毁了一部剧",
-      "onboard_time": 1730906300,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 623313,
@@ -5083,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385969,
+      "num": 385969,
+      "word": "王皓说王楚钦打得太小心了",
+      "onboard_time": 1730909179,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385444,
       "num": 494201,
       "word": "Knight单杀Faker",
@@ -5875,6 +5891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326035,
+      "num": 421052,
+      "word": "郑钦文总决赛已狂揽700万奖金",
+      "onboard_time": 1730907320,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325442,
       "num": 325442,
       "word": "国产假睫毛成老外刚需",
@@ -6073,6 +6097,14 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 307101,
+      "num": 307101,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1730906661,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 306732,
@@ -8803,14 +8835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201544,
-      "num": 182192,
-      "word": "虞书欣向腾讯视频催更",
-      "onboard_time": 1730907442,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201399,
       "num": 214395,
       "word": "花路 土路",
@@ -8913,6 +8937,14 @@
       "onboard_time": 1730467099,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199605,
+      "num": 199605,
+      "word": "官方回应4名年轻公职人员遇车祸身亡",
+      "onboard_time": 1730908641,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199600,
@@ -9115,12 +9147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196894,
+      "num": 345799,
+      "word": "多品牌紧急回应卫生巾被曝偷工减料",
+      "onboard_time": 1730905642,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196782,
       "num": 208773,
       "word": "Knight取关BLG",
       "onboard_time": 1730800221,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196602,
+      "num": 196602,
+      "word": "王楚钦下一个赛场见",
+      "onboard_time": 1730909538,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 195909,
@@ -9321,14 +9369,6 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192255,
-      "num": 421052,
-      "word": "郑钦文总决赛已狂揽700万奖金",
-      "onboard_time": 1730907320,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 192099,
@@ -9537,14 +9577,6 @@
       "onboard_time": 1730811742,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189347,
-      "num": 189347,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1730906661,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 189212,
@@ -11603,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156515,
+      "num": 556034,
+      "word": "180秒复盘特朗普胜选演讲",
+      "onboard_time": 1730907200,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 156509,
       "num": 156509,
       "word": "特朗普竞选集会遇刺是特勤局的失败",
@@ -11729,6 +11769,14 @@
       "onboard_time": 1730708058,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154465,
+      "num": 154465,
+      "word": "郝蕾回应演员能不能直播带货",
+      "onboard_time": 1730909899,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154376,
@@ -12105,14 +12153,6 @@
       "onboard_time": 1730661311,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148425,
-      "num": 345799,
-      "word": "多品牌紧急回应卫生巾被曝偷工减料",
-      "onboard_time": 1730905642,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148193,
@@ -13875,6 +13915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121170,
+      "num": 121170,
+      "word": "庄图南3.0",
+      "onboard_time": 1730909120,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120919,
       "num": 120919,
       "word": "一句赵叔直接从外国干回东北地头",
@@ -15179,6 +15227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91626,
+      "num": 91626,
+      "word": "雇主坐牢失联月嫂抚养女婴3年",
+      "onboard_time": 1730909779,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91390,
       "num": 142923,
       "word": "杨紫家业围读剧本",
@@ -15361,6 +15417,14 @@
       "onboard_time": 1730886082,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85730,
+      "num": 412466,
+      "word": "外交部回应美国总统选举结果",
+      "onboard_time": 1730908400,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 85712,
@@ -16537,14 +16601,6 @@
       "onboard_time": 1730504117,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47431,
-      "num": 556034,
-      "word": "180秒复盘特朗普胜选演讲",
-      "onboard_time": 1730907200,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 47277,
@@ -17728,6 +17784,14 @@
       "word": "官方回应公职人员车祸身亡正在调查",
       "onboard_time": 1730903663,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28383,
+      "num": 412482,
+      "word": "中国外交部对特朗普当选总统表示祝贺",
+      "onboard_time": 1730910139,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
