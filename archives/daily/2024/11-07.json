@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730910458846,
+  "endTime": 1730911400714,
   "band_list": [
     {
       "raw_hot": 1286393,
@@ -11,20 +11,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1111245,
+      "num": 412439,
+      "word": "萝莉岛",
+      "onboard_time": 1730885783,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1085355,
       "num": 1085355,
       "word": "金价跳水了",
       "onboard_time": 1730900063,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1039727,
-      "num": 412439,
-      "word": "萝莉岛",
-      "onboard_time": 1730885783,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1036048,
@@ -59,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 580691,
+      "num": 580691,
+      "word": "王皓说王楚钦打得太小心了",
+      "onboard_time": 1730909179,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412527,
       "num": 412527,
       "word": "苹果喊话iPhone13和14钉子户",
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385969,
-      "num": 385969,
-      "word": "王皓说王楚钦打得太小心了",
-      "onboard_time": 1730909179,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 373660,
       "num": 412511,
       "word": "美选民起诉马斯克搞抽奖骗局",
       "onboard_time": 1730900844,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 345569,
+      "num": 345569,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1730906661,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 326035,
@@ -107,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307101,
-      "num": 307101,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1730906661,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301156,
       "num": 301156,
       "word": "哈里斯支持者黯然离开",
@@ -129,6 +129,14 @@
       "onboard_time": 1730903602,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 259118,
+      "num": 259118,
+      "word": "官方回应4名年轻公职人员遇车祸身亡",
+      "onboard_time": 1730908641,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242318,
@@ -153,14 +161,6 @@
       "onboard_time": 1730904981,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199605,
-      "num": 199605,
-      "word": "官方回应4名年轻公职人员遇车祸身亡",
-      "onboard_time": 1730908641,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198514,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 172665,
+      "num": 176460,
+      "word": "郝蕾回应演员能不能直播带货",
+      "onboard_time": 1730909899,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170636,
       "num": 170636,
       "word": "博士情侣瞒领导下班摆摊月入3万",
@@ -211,14 +219,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 154465,
-      "num": 154465,
-      "word": "郝蕾回应演员能不能直播带货",
-      "onboard_time": 1730909899,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 146171,
       "num": 146171,
       "word": "永夜星河",
@@ -227,20 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137857,
-      "num": 137857,
-      "word": "丁禹兮 我想进步",
-      "onboard_time": 1730891901,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 137726,
-      "num": 137726,
+      "raw_hot": 144141,
+      "num": 144141,
       "word": "特朗普宣称接下来是美国的黄金时代",
       "onboard_time": 1730895320,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 140056,
+      "num": 140056,
+      "word": "丁禹兮 我想进步",
+      "onboard_time": 1730891901,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 132696,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109606,
+      "num": 109606,
+      "word": "雇主坐牢失联月嫂抚养女婴3年",
+      "onboard_time": 1730909779,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104569,
       "num": 104569,
       "word": "美国大选",
@@ -363,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91626,
-      "num": 91626,
-      "word": "雇主坐牢失联月嫂抚养女婴3年",
-      "onboard_time": 1730909779,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85730,
       "num": 412466,
       "word": "外交部回应美国总统选举结果",
@@ -387,7 +387,23 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28383,
+      "raw_hot": 74260,
+      "num": 81805,
+      "word": "王楚钦vs卡尔伯格",
+      "onboard_time": 1730898383,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68459,
+      "num": 81799,
+      "word": "特朗普胜选演讲",
+      "onboard_time": 1730885185,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 55570,
       "num": 412482,
       "word": "中国外交部对特朗普当选总统表示祝贺",
       "onboard_time": 1730910139,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#奋力谱写中国式现代化湖北篇章#"
+    },
+    {
+      "word": "#做好社会工作是全党共同责任#"
     }
   ]
 }
