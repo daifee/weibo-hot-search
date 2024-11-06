@@ -1,0 +1,410 @@
+{
+  "runTime": 1730867240004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 932910,
+        "num": 1149265,
+        "word": "警方通报徒步发现路边有尸骨",
+        "onboard_time": 1730863763,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664833,
+        "num": 664833,
+        "word": "海马体创始人发声",
+        "onboard_time": 1730850079,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16479,
+        "num": 650352,
+        "word": "文化中国行看荆楚瑰宝",
+        "onboard_time": 1730863642,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644199,
+        "num": 644199,
+        "word": "上海某中学疑似调查学生家庭背景阶层",
+        "onboard_time": 1730865264,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467877,
+        "num": 467877,
+        "word": "阿娇 神女赛道",
+        "onboard_time": 1730863883,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459738,
+        "num": 459738,
+        "word": "玉溪 圣猴",
+        "onboard_time": 1730856443,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394135,
+        "num": 394135,
+        "word": "老人没苦硬吃是为了填补安全感",
+        "onboard_time": 1730852843,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369843,
+        "num": 369843,
+        "word": "美媒测算特朗普已获超200张选举人票",
+        "onboard_time": 1730865745,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 347445,
+        "num": 347445,
+        "word": "24万买的国企工作有合同没入职时间",
+        "onboard_time": 1730855542,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344322,
+        "num": 344322,
+        "word": "蒂芙尼成都太古里店被砸",
+        "onboard_time": 1730864963,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 344248,
+        "word": "全球古典学者走读中国",
+        "onboard_time": 1730863763,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 456649,
+        "num": 343795,
+        "word": "任敏说嗑到了赵露思刘宇宁",
+        "onboard_time": 1730862923,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9535758,
+        "num": 343309,
+        "word": "美国大选",
+        "onboard_time": 1730795600,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46458,
+        "num": 343072,
+        "word": "X200Promini年度超强小直屏",
+        "onboard_time": 1730864182,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52719,
+        "num": 342816,
+        "word": "无锡虹桥医院涉骗保被罚5895万",
+        "onboard_time": 1730865804,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541625,
+        "num": 342439,
+        "word": "艺洋训狗",
+        "onboard_time": 1730864482,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271695,
+        "num": 341879,
+        "word": "张晚意 无字奖杯",
+        "onboard_time": 1730865205,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24190,
+        "num": 341443,
+        "word": "用鸿蒙小艺赏宝太开门了",
+        "onboard_time": 1730864182,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66116,
+        "num": 341031,
+        "word": "暴力威胁成为美国大选主题",
+        "onboard_time": 1730865624,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30956,
+        "num": 340888,
+        "word": "波司登首创动态御寒科技体系",
+        "onboard_time": 1730865865,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2556418,
+        "num": 340553,
+        "word": "美国大选美民众疯狂囤枪",
+        "onboard_time": 1730863282,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 340223,
+        "num": 340223,
+        "word": "内娱花果山",
+        "onboard_time": 1730866226,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1781560,
+        "num": 333574,
+        "word": "特朗普赢得佛州全部选举人票",
+        "onboard_time": 1730858122,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 992214,
+        "num": 327004,
+        "word": "性别争议奥运冠军被曝为男性",
+        "onboard_time": 1730865624,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1503441,
+        "num": 315864,
+        "word": "特朗普暂时领先哈里斯",
+        "onboard_time": 1730861601,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 456997,
+        "num": 311490,
+        "word": "先交20万元再实习1年就能转正吗",
+        "onboard_time": 1730858962,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079545,
+        "num": 304974,
+        "word": "美35个州和华盛顿特区结束大选投票",
+        "onboard_time": 1730859201,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 406592,
+        "num": 290167,
+        "word": "撞上劳斯莱斯的货车只有100万保险",
+        "onboard_time": 1730821401,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287928,
+        "num": 287928,
+        "word": "女子24小时内接受6个整容手术后死亡",
+        "onboard_time": 1730855662,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151220,
+        "num": 285391,
+        "word": "赵一博男人装封面",
+        "onboard_time": 1730866525,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284511,
+        "num": 284511,
+        "word": "网红夫妇被传患病多家饭店砸餐具",
+        "onboard_time": 1730860221,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245490,
+        "num": 273170,
+        "word": "何炅逐句为吴昕分析主持问题",
+        "onboard_time": 1730857700,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264263,
+        "num": 264263,
+        "word": "黑粉攻略手册",
+        "onboard_time": 1730859141,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65521,
+        "num": 254176,
+        "word": "子午线 一对小苦瓜",
+        "onboard_time": 1730866525,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253107,
+        "num": 253107,
+        "word": "权志龙偷感",
+        "onboard_time": 1730864003,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251886,
+        "num": 251886,
+        "word": "杨紫生日高定",
+        "onboard_time": 1730853682,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234546,
+        "num": 234546,
+        "word": "恋与深空",
+        "onboard_time": 1730866045,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232960,
+        "num": 232960,
+        "word": "卫生巾长度造假",
+        "onboard_time": 1730862261,
+        "rank": 37,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 230437,
+        "num": 230437,
+        "word": "Uzi回应G2邀请",
+        "onboard_time": 1730861481,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225833,
+        "num": 225833,
+        "word": "比特币",
+        "onboard_time": 1730864182,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224304,
+        "num": 224304,
+        "word": "绝区零1.3",
+        "onboard_time": 1730866646,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220641,
+        "num": 220641,
+        "word": "加拿大偶遇姚笛",
+        "onboard_time": 1730849118,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177547,
+        "num": 177547,
+        "word": "SuperJunior出道十九周年",
+        "onboard_time": 1730863943,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177130,
+        "num": 177130,
+        "word": "山西七里峪风景区惊现干尸",
+        "onboard_time": 1730866944,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170505,
+        "num": 170505,
+        "word": "鲜橙脆皮五花肉",
+        "onboard_time": 1730860461,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168780,
+        "num": 168780,
+        "word": "虞书欣loopy塑",
+        "onboard_time": 1730866706,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161850,
+        "num": 161850,
+        "word": "发型师晓华否认自己技术好",
+        "onboard_time": 1730858540,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148177,
+        "num": 161756,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1730849118,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101968,
+        "num": 161463,
+        "word": "6成美选民认为谁胜选美国都将继续分裂",
+        "onboard_time": 1730866944,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163076,
+        "num": 161271,
+        "word": "虞书欣演技",
+        "onboard_time": 1730852723,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和湖北的故事#"
+    }
+  }
+}
