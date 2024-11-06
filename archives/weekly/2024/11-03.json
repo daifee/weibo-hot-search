@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730882565900,
+  "endTime": 1730885160354,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -96,6 +96,14 @@
       "word": "特朗普赢下摇摆州北卡罗来纳",
       "onboard_time": 1730867607,
       "rank": 11,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 5446963,
+      "num": 1234479,
+      "word": "哈里斯未承认败选",
+      "onboard_time": 1730882425,
+      "rank": 13,
       "category": "国外时政"
     },
     {
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1682012,
-      "num": 628971,
-      "word": "哈里斯未承认败选",
-      "onboard_time": 1730882425,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1674389,
       "num": 1674389,
       "word": "绝境李相赫",
@@ -769,6 +769,14 @@
       "onboard_time": 1730779821,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1314126,
+      "num": 1314126,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 1303762,
@@ -1473,14 +1481,6 @@
       "onboard_time": 1730688019,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 797164,
-      "num": 797164,
-      "word": "金价",
-      "onboard_time": 1730879910,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 796969,
@@ -2339,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570941,
+      "num": 299352,
+      "word": "60秒看美国总统选举制度",
+      "onboard_time": 1730884343,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 570151,
       "num": 570151,
       "word": "窦骁中国杯帆船赛夺冠",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1730686878,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 448424,
+      "num": 682633,
+      "word": "中方对美国政策一以贯之",
+      "onboard_time": 1730881893,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 446600,
@@ -3747,6 +3763,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 324986,
+      "num": 324986,
+      "word": "陈好花少半夜独行5个小时",
+      "onboard_time": 1730883984,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "涟水中专发布情况通报",
@@ -3945,6 +3969,14 @@
       "onboard_time": 1730801782,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299186,
+      "num": 730761,
+      "word": "广东湛江一垃圾桶旁发现男婴",
+      "onboard_time": 1730881048,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297388,
@@ -4603,14 +4635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247031,
-      "num": 682633,
-      "word": "中方对美国政策一以贯之",
-      "onboard_time": 1730881893,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 245702,
       "num": 245702,
       "word": "王鹤棣赵露思台下合影",
@@ -4955,14 +4979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 225180,
-      "num": 730761,
-      "word": "广东湛江一垃圾桶旁发现男婴",
-      "onboard_time": 1730881048,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225074,
       "num": 225074,
       "word": "BLG on",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1730815893,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221247,
+      "num": 221247,
+      "word": "哀牢山 玉溪",
+      "onboard_time": 1730884283,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221218,
@@ -5129,6 +5153,14 @@
       "onboard_time": 1730684838,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 216636,
+      "num": 464248,
+      "word": "烧伤妈妈术后首次开口说话",
+      "onboard_time": 1730884283,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215980,
@@ -7595,6 +7627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151990,
+      "num": 319072,
+      "word": "侯明昊 用微软雅黑是想给剧组省钱",
+      "onboard_time": 1730884462,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "tyt出道当天姚景元爸妈离婚",
@@ -7713,6 +7753,14 @@
       "onboard_time": 1730661311,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147639,
+      "num": 147639,
+      "word": "去东北玩雪怎么抗寒不踩坑",
+      "onboard_time": 1730885003,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 147629,
@@ -8123,6 +8171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137506,
+      "num": 137506,
+      "word": "刘涛祝杨紫生日快乐破茧成蝶",
+      "onboard_time": 1730885063,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137115,
       "num": 268654,
       "word": "副局长推介大米英语东北话无缝切换",
@@ -8475,6 +8531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125923,
+      "num": 125923,
+      "word": "小小的我",
+      "onboard_time": 1730882845,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125904,
       "num": 125904,
       "word": "林俊杰JJ20巡演圆满谢幕",
@@ -8659,6 +8723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122688,
+      "num": 122688,
+      "word": "索伯官宣周冠宇离队",
+      "onboard_time": 1730882904,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122539,
       "num": 291417,
       "word": "迎接神十八回家",
@@ -8793,6 +8865,14 @@
       "onboard_time": 1730684719,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 117926,
+      "num": 117926,
+      "word": "印度正式申办2036年奥运会",
+      "onboard_time": 1730885063,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117756,
@@ -8947,6 +9027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113011,
+      "num": 113011,
+      "word": "小小的我东京电影节观众选择奖",
+      "onboard_time": 1730884944,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112938,
       "num": 112938,
       "word": "陶昕然新片造型",
@@ -9016,6 +9104,14 @@
       "word": "故宫银杏叶已满目金黄",
       "onboard_time": 1730846715,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109824,
+      "num": 150202,
+      "word": "中国国际进口博览会",
+      "onboard_time": 1730882904,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -9137,6 +9233,14 @@
       "onboard_time": 1730684417,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105659,
+      "num": 105659,
+      "word": "烤红薯",
+      "onboard_time": 1730885124,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105322,
@@ -9548,7 +9652,7 @@
     },
     {
       "raw_hot": 78948,
-      "num": 176176,
+      "num": 335898,
       "word": "小鹏发布鲲鹏超级电动",
       "onboard_time": 1730882127,
       "rank": 37,
@@ -9769,6 +9873,14 @@
       "onboard_time": 1730881407,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65112,
+      "num": 315697,
+      "word": "鹅腿阿姨只想静静烤鹅腿",
+      "onboard_time": 1730883804,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65072,
@@ -10200,6 +10312,14 @@
       "word": "在零下50℃的户外是什么体验",
       "onboard_time": 1730878413,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45777,
+      "num": 358955,
+      "word": "考研禁用海马体防范失真有必要",
+      "onboard_time": 1730883924,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

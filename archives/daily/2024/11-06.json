@@ -1,6 +1,6 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730882565900,
+  "endTime": 1730885160354,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -57,6 +57,14 @@
       "onboard_time": 1730814262,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 5446963,
+      "num": 1234479,
+      "word": "哈里斯未承认败选",
+      "onboard_time": 1730882425,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 5004924,
@@ -155,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1682012,
-      "num": 628971,
-      "word": "哈里斯未承认败选",
-      "onboard_time": 1730882425,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1669614,
       "num": 468392,
       "word": "艺洋训狗",
@@ -225,6 +225,14 @@
       "onboard_time": 1730858962,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1314126,
+      "num": 1314126,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 1303762,
@@ -329,14 +337,6 @@
       "onboard_time": 1730821401,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 797164,
-      "num": 797164,
-      "word": "金价",
-      "onboard_time": 1730879910,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 787275,
@@ -475,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570941,
+      "num": 299352,
+      "word": "60秒看美国总统选举制度",
+      "onboard_time": 1730884343,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 560923,
       "num": 560923,
       "word": "柳州女子系酒后呕吐朋友搀扶",
       "onboard_time": 1730869045,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556706,
+      "num": 556706,
+      "word": "永夜星河",
+      "onboard_time": 1730803641,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 555381,
@@ -553,6 +569,14 @@
       "onboard_time": 1730862923,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448424,
+      "num": 682633,
+      "word": "中方对美国政策一以贯之",
+      "onboard_time": 1730881893,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 446600,
@@ -747,6 +771,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 324986,
+      "num": 324986,
+      "word": "陈好花少半夜独行5个小时",
+      "onboard_time": 1730883984,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316029,
       "num": 287816,
       "word": "发型师晓华否认自己技术好",
@@ -776,6 +808,14 @@
       "word": "张泉灵没预料到麦琳引发关注",
       "onboard_time": 1730823918,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299186,
+      "num": 730761,
+      "word": "广东湛江一垃圾桶旁发现男婴",
+      "onboard_time": 1730881048,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -809,14 +849,6 @@
       "onboard_time": 1730809702,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290135,
-      "num": 290135,
-      "word": "永夜星河",
-      "onboard_time": 1730803641,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 278075,
@@ -915,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247031,
-      "num": 682633,
-      "word": "中方对美国政策一以贯之",
-      "onboard_time": 1730881893,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 245702,
       "num": 245702,
       "word": "王鹤棣赵露思台下合影",
@@ -1011,14 +1035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 225180,
-      "num": 730761,
-      "word": "广东湛江一垃圾桶旁发现男婴",
-      "onboard_time": 1730881048,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224304,
       "num": 224304,
       "word": "绝区零1.3",
@@ -1051,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221247,
+      "num": 221247,
+      "word": "哀牢山 玉溪",
+      "onboard_time": 1730884283,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221232,
       "num": 274579,
       "word": "陈雪凝回应抄袭汪苏泷",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1730854403,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 216636,
+      "num": 464248,
+      "word": "烧伤妈妈术后首次开口说话",
+      "onboard_time": 1730884283,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214414,
@@ -1459,6 +1491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 151990,
+      "num": 319072,
+      "word": "侯明昊 用微软雅黑是想给剧组省钱",
+      "onboard_time": 1730884462,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150207,
       "num": 150207,
       "word": "降温天怎么保暖才不臃肿",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1730813963,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147639,
+      "num": 147639,
+      "word": "去东北玩雪怎么抗寒不踩坑",
+      "onboard_time": 1730885003,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 147263,
@@ -1539,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137506,
+      "num": 137506,
+      "word": "刘涛祝杨紫生日快乐破茧成蝶",
+      "onboard_time": 1730885063,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137115,
       "num": 268654,
       "word": "副局长推介大米英语东北话无缝切换",
@@ -1595,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125923,
+      "num": 125923,
+      "word": "小小的我",
+      "onboard_time": 1730882845,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124220,
       "num": 418071,
       "word": "货车撞上劳斯莱斯定损可能超300万",
@@ -1627,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122688,
+      "num": 122688,
+      "word": "索伯官宣周冠宇离队",
+      "onboard_time": 1730882904,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119077,
       "num": 119077,
       "word": "网红博主被指有传染病已去医院检查",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1730869586,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117926,
+      "num": 117926,
+      "word": "印度正式申办2036年奥运会",
+      "onboard_time": 1730885063,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116564,
@@ -1707,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113011,
+      "num": 113011,
+      "word": "小小的我东京电影节观众选择奖",
+      "onboard_time": 1730884944,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111262,
       "num": 341031,
       "word": "暴力威胁成为美国大选主题",
@@ -1728,6 +1816,14 @@
       "word": "故宫银杏叶已满目金黄",
       "onboard_time": 1730846715,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109824,
+      "num": 150202,
+      "word": "中国国际进口博览会",
+      "onboard_time": 1730882904,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1769,6 +1865,14 @@
       "onboard_time": 1730863462,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105659,
+      "num": 105659,
+      "word": "烤红薯",
+      "onboard_time": 1730885124,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105322,
@@ -1900,7 +2004,7 @@
     },
     {
       "raw_hot": 78948,
-      "num": 176176,
+      "num": 335898,
       "word": "小鹏发布鲲鹏超级电动",
       "onboard_time": 1730882127,
       "rank": 37,
@@ -1985,6 +2089,14 @@
       "onboard_time": 1730881407,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65112,
+      "num": 315697,
+      "word": "鹅腿阿姨只想静静烤鹅腿",
+      "onboard_time": 1730883804,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65072,
@@ -2088,6 +2200,14 @@
       "word": "在零下50℃的户外是什么体验",
       "onboard_time": 1730878413,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45777,
+      "num": 358955,
+      "word": "考研禁用海马体防范失真有必要",
+      "onboard_time": 1730883924,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
