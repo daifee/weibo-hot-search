@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 12:27:20
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/06 12:42:39
 </p>
 </blockquote>
 <p>
@@ -1107,6 +1107,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
+美国大选（热度：9798663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AF%E9%9B%AF%E9%87%91%E7%89%8C%23" target="weibo">
 李雯雯金牌（热度：9791127）
 </a>
@@ -1199,12 +1205,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%8D%E8%B6%85%E6%AF%94%E5%88%86%23" target="weibo">
 樊振东反超比分（热度：9545976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%23" target="weibo">
-美国大选（热度：9535758）
 </a>
 </li>
 

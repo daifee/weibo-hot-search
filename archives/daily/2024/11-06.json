@@ -1,9 +1,9 @@
 {
   "startTime": 1730824123481,
-  "endTime": 1730867240004,
+  "endTime": 1730868159144,
   "band_list": [
     {
-      "raw_hot": 9535758,
+      "raw_hot": 9798663,
       "num": 729375,
       "word": "美国大选",
       "onboard_time": 1730795600,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2556418,
-      "num": 340553,
+      "raw_hot": 2887983,
+      "num": 362597,
       "word": "美国大选美民众疯狂囤枪",
       "onboard_time": 1730863282,
       "rank": 29,
@@ -59,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1669614,
+      "num": 342439,
+      "word": "艺洋训狗",
+      "onboard_time": 1730864482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1668416,
       "num": 1668416,
       "word": "河南女子被害前打电话喊妈妈救命",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1541625,
-      "num": 342439,
-      "word": "艺洋训狗",
-      "onboard_time": 1730864482,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 1561618,
+      "num": 1561618,
+      "word": "性别争议奥运冠军被曝为男性",
+      "onboard_time": 1730865624,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1509278,
@@ -115,12 +123,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 992214,
-      "num": 327004,
-      "word": "性别争议奥运冠军被曝为男性",
-      "onboard_time": 1730865624,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 957688,
+      "num": 1149265,
+      "word": "警方通报徒步发现路边有尸骨",
+      "onboard_time": 1730863763,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938989,
@@ -129,14 +137,6 @@
       "onboard_time": 1730848698,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 932910,
-      "num": 1149265,
-      "word": "警方通报徒步发现路边有尸骨",
-      "onboard_time": 1730863763,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862252,
@@ -161,6 +161,22 @@
       "onboard_time": 1730821401,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815070,
+      "num": 815070,
+      "word": "上海某中学疑似调查学生家庭背景阶层",
+      "onboard_time": 1730865264,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787275,
+      "num": 369843,
+      "word": "美媒测算特朗普已获超200张选举人票",
+      "onboard_time": 1730865745,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 783701,
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644199,
-      "num": 644199,
-      "word": "上海某中学疑似调查学生家庭背景阶层",
-      "onboard_time": 1730865264,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 627586,
       "num": 651013,
       "word": "永夜星河 我就说一天播一集会出事吧",
@@ -233,6 +241,14 @@
       "onboard_time": 1730849118,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593730,
+      "num": 593730,
+      "word": "阿娇 神女赛道",
+      "onboard_time": 1730863883,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 555381,
@@ -267,12 +283,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 467877,
-      "num": 467877,
-      "word": "阿娇 神女赛道",
-      "onboard_time": 1730863883,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 462220,
+      "num": 462220,
+      "word": "蒂芙尼成都太古里店被砸",
+      "onboard_time": 1730864963,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456649,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406558,
+      "num": 344394,
+      "word": "内娱花果山",
+      "onboard_time": 1730866226,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395990,
       "num": 395990,
       "word": "警方通报网传柳州女子喝醉被强暴",
@@ -363,11 +387,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369843,
-      "num": 369843,
-      "word": "美媒测算特朗普已获超200张选举人票",
-      "onboard_time": 1730865745,
-      "rank": 7,
+      "raw_hot": 372052,
+      "num": 338480,
+      "word": "山西七里峪风景区惊现干尸",
+      "onboard_time": 1730866944,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362034,
+      "num": 362034,
+      "word": "特朗普赢下摇摆州北卡罗来纳",
+      "onboard_time": 1730867607,
+      "rank": 11,
       "category": "国外时政"
     },
     {
@@ -385,22 +417,6 @@
       "onboard_time": 1730861481,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 344322,
-      "num": 344322,
-      "word": "蒂芙尼成都太古里店被砸",
-      "onboard_time": 1730864963,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340223,
-      "num": 340223,
-      "word": "内娱花果山",
-      "onboard_time": 1730866226,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 339659,
@@ -483,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278915,
+      "num": 347742,
+      "word": "虞书欣loopy塑",
+      "onboard_time": 1730866706,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275476,
       "num": 275476,
       "word": "美国东海岸投票站开放",
@@ -492,11 +516,19 @@
     },
     {
       "raw_hot": 271695,
-      "num": 341879,
+      "num": 342087,
       "word": "张晚意 无字奖杯",
       "onboard_time": 1730865205,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270134,
+      "num": 270134,
+      "word": "卫生巾长度造假",
+      "onboard_time": 1730862261,
+      "rank": 37,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 264977,
@@ -515,7 +547,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253107,
+      "raw_hot": 257088,
       "num": 374695,
       "word": "权志龙偷感",
       "onboard_time": 1730864003,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240645,
+      "num": 240645,
+      "word": "恋与深空",
+      "onboard_time": 1730866045,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240229,
       "num": 521189,
       "word": "林依晨言承旭新剧预告",
@@ -553,22 +593,6 @@
       "onboard_time": 1730811441,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234546,
-      "num": 234546,
-      "word": "恋与深空",
-      "onboard_time": 1730866045,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 232960,
-      "num": 232960,
-      "word": "卫生巾长度造假",
-      "onboard_time": 1730862261,
-      "rank": 37,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 231818,
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196809,
+      "num": 196809,
+      "word": "丁禹兮壁纸",
+      "onboard_time": 1730862864,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194547,
       "num": 194547,
       "word": "忽然明白少年夫妻老来伴的含义",
@@ -739,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177130,
-      "num": 177130,
-      "word": "山西七里峪风景区惊现干尸",
-      "onboard_time": 1730866944,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176812,
       "num": 176812,
       "word": "我国县级博物馆卧虎藏龙",
@@ -787,14 +811,6 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 168780,
-      "num": 168780,
-      "word": "虞书欣loopy塑",
-      "onboard_time": 1730866706,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168604,
       "num": 168604,
       "word": "分个瑞士卷也要全网讨论吗",
@@ -811,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165933,
+      "num": 165933,
+      "word": "小小的我日媒评分",
+      "onboard_time": 1730867965,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164678,
       "num": 168538,
       "word": "杨紫进组家业剧本围读",
       "onboard_time": 1730813843,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162224,
+      "num": 285391,
+      "word": "赵一博男人装封面",
+      "onboard_time": 1730866525,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159910,
@@ -827,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159485,
+      "num": 159485,
+      "word": "董宇辉回应烧麦言论",
+      "onboard_time": 1730867965,
+      "rank": 47,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 156350,
       "num": 156350,
       "word": "哈里斯特朗普竞选主张大pk",
@@ -835,20 +875,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 151289,
-      "num": 151289,
-      "word": "丁禹兮壁纸",
-      "onboard_time": 1730862864,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 151220,
-      "num": 285391,
-      "word": "赵一博男人装封面",
-      "onboard_time": 1730866525,
-      "rank": 29,
-      "category": "作品衍生,时尚"
+      "raw_hot": 152608,
+      "num": 348291,
+      "word": "歼15T也来了",
+      "onboard_time": 1730867245,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 150207,
@@ -864,6 +896,14 @@
       "word": "种地吧",
       "onboard_time": 1730813963,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147084,
+      "num": 147084,
+      "word": "我恋6 爹系男友",
+      "onboard_time": 1730867726,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1033,6 +1073,14 @@
       "onboard_time": 1730863044,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111262,
+      "num": 341031,
+      "word": "暴力威胁成为美国大选主题",
+      "onboard_time": 1730865624,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111072,
@@ -1211,6 +1259,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 68785,
+      "num": 362677,
+      "word": "徒步发现路边有尸骨初步排除刑案",
+      "onboard_time": 1730867545,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67272,
       "num": 83408,
       "word": "藏海传年度期待作品",
@@ -1225,14 +1281,6 @@
       "onboard_time": 1730860940,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 66116,
-      "num": 341031,
-      "word": "暴力威胁成为美国大选主题",
-      "onboard_time": 1730865624,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65521,
@@ -1267,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56078,
+      "num": 348154,
+      "word": "X200Promini年度超强小直屏",
+      "onboard_time": 1730864182,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53893,
       "num": 411014,
       "word": "医保催缴不能与学生受教育权挂钩",
@@ -1291,14 +1347,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 46458,
-      "num": 343072,
-      "word": "X200Promini年度超强小直屏",
-      "onboard_time": 1730864182,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 41030,
       "num": 53456,
       "word": "刘宇宁好有质感的声音",
@@ -1316,7 +1364,7 @@
     },
     {
       "raw_hot": 38240,
-      "num": 341443,
+      "num": 345902,
       "word": "用鸿蒙小艺赏宝太开门了",
       "onboard_time": 1730864182,
       "rank": 45,
@@ -1356,7 +1404,7 @@
     },
     {
       "raw_hot": 30956,
-      "num": 340888,
+      "num": 343777,
       "word": "波司登首创动态御寒科技体系",
       "onboard_time": 1730865865,
       "rank": 19,
@@ -1435,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22469,
+      "num": 197455,
+      "word": "杨幂黑金鹅绒服穿搭",
+      "onboard_time": 1730867965,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 22236,
       "num": 711587,
       "word": "全球古典学者走读中国",
@@ -1452,7 +1508,7 @@
     },
     {
       "raw_hot": 16479,
-      "num": 650352,
+      "num": 842520,
       "word": "文化中国行看荆楚瑰宝",
       "onboard_time": 1730863642,
       "rank": 2,

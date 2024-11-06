@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730867240004,
+  "endTime": 1730868159144,
   "band_list": [
     {
       "raw_hot": 15722412,
@@ -35,7 +35,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 9535758,
+      "raw_hot": 9798663,
       "num": 1031217,
       "word": "美国大选",
       "onboard_time": 1730645479,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2887983,
+      "num": 362597,
+      "word": "美国大选美民众疯狂囤枪",
+      "onboard_time": 1730863282,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2861984,
       "num": 2861984,
       "word": "考研报名禁用海马体照片",
@@ -153,14 +161,6 @@
       "onboard_time": 1730600600,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2556418,
-      "num": 340553,
-      "word": "美国大选美民众疯狂囤枪",
-      "onboard_time": 1730863282,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2522854,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1669614,
+      "num": 342439,
+      "word": "艺洋训狗",
+      "onboard_time": 1730864482,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1668416,
       "num": 1668416,
       "word": "河南女子被害前打电话喊妈妈救命",
@@ -459,20 +467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1561618,
+      "num": 1561618,
+      "word": "性别争议奥运冠军被曝为男性",
+      "onboard_time": 1730865624,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1547344,
       "num": 1499784,
       "word": "女生考公失败三年剃光头重新开始",
       "onboard_time": 1730727982,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541625,
-      "num": 342439,
-      "word": "艺洋训狗",
-      "onboard_time": 1730864482,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1513878,
@@ -979,14 +987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 992214,
-      "num": 327004,
-      "word": "性别争议奥运冠军被曝为男性",
-      "onboard_time": 1730865624,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 983075,
       "num": 983075,
       "word": "张本智和淘汰",
@@ -1032,6 +1032,14 @@
       "word": "救妻丈夫去世妻子目前不知情",
       "onboard_time": 1730715319,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957688,
+      "num": 1149265,
+      "word": "警方通报徒步发现路边有尸骨",
+      "onboard_time": 1730863763,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1105,14 +1113,6 @@
       "onboard_time": 1730788521,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 932910,
-      "num": 1149265,
-      "word": "警方通报徒步发现路边有尸骨",
-      "onboard_time": 1730863763,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932837,
@@ -1299,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 815070,
+      "num": 815070,
+      "word": "上海某中学疑似调查学生家庭背景阶层",
+      "onboard_time": 1730865264,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798154,
       "num": 578512,
       "word": "赵露思说汪苏泷唱不得超好听",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1730597358,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 787275,
+      "num": 369843,
+      "word": "美媒测算特朗普已获超200张选举人票",
+      "onboard_time": 1730865745,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 783701,
@@ -1747,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 644199,
-      "num": 644199,
-      "word": "上海某中学疑似调查学生家庭背景阶层",
-      "onboard_time": 1730865264,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 644002,
       "num": 636151,
       "word": "王心凌方称已按要求唱满四首歌",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1730800522,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593730,
+      "num": 593730,
+      "word": "阿娇 神女赛道",
+      "onboard_time": 1730863883,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 592231,
@@ -2531,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467877,
-      "num": 467877,
-      "word": "阿娇 神女赛道",
-      "onboard_time": 1730863883,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 467514,
       "num": 412800,
       "word": "祝绪丹 永夜",
@@ -2552,6 +2560,14 @@
       "word": "哈尔滨保安说在东北丢不了孩子",
       "onboard_time": 1730624478,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462220,
+      "num": 462220,
+      "word": "蒂芙尼成都太古里店被砸",
+      "onboard_time": 1730864963,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2883,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406558,
+      "num": 344394,
+      "word": "内娱花果山",
+      "onboard_time": 1730866226,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406203,
       "num": 536410,
       "word": "美国大选已花费14700000000美元",
@@ -3051,20 +3075,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 372052,
+      "num": 338480,
+      "word": "山西七里峪风景区惊现干尸",
+      "onboard_time": 1730866944,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370004,
       "num": 370004,
       "word": "任嘉伦全部作品四个字的含金量",
       "onboard_time": 1730805561,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369843,
-      "num": 369843,
-      "word": "美媒测算特朗普已获超200张选举人票",
-      "onboard_time": 1730865745,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 368958,
@@ -3097,6 +3121,14 @@
       "onboard_time": 1730561003,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362034,
+      "num": 362034,
+      "word": "特朗普赢下摇摆州北卡罗来纳",
+      "onboard_time": 1730867607,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 361964,
@@ -3235,14 +3267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 344322,
-      "num": 344322,
-      "word": "蒂芙尼成都太古里店被砸",
-      "onboard_time": 1730864963,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342426,
       "num": 342426,
       "word": "厨房爆炸丈夫为救妻子去世",
@@ -3265,14 +3289,6 @@
       "onboard_time": 1730762116,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340223,
-      "num": 340223,
-      "word": "内娱花果山",
-      "onboard_time": 1730866226,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 340072,
@@ -3795,6 +3811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278915,
+      "num": 347742,
+      "word": "虞书欣loopy塑",
+      "onboard_time": 1730866706,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278417,
       "num": 278417,
       "word": "粉笔模考",
@@ -3884,11 +3908,19 @@
     },
     {
       "raw_hot": 271695,
-      "num": 341879,
+      "num": 342087,
       "word": "张晚意 无字奖杯",
       "onboard_time": 1730865205,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270134,
+      "num": 270134,
+      "word": "卫生巾长度造假",
+      "onboard_time": 1730862261,
+      "rank": 37,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 269396,
@@ -4027,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257088,
+      "num": 374695,
+      "word": "权志龙偷感",
+      "onboard_time": 1730864003,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256552,
       "num": 256552,
       "word": "很多人的臀肌其实已经失忆",
@@ -4097,14 +4137,6 @@
       "onboard_time": 1730689698,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253107,
-      "num": 374695,
-      "word": "权志龙偷感",
-      "onboard_time": 1730864003,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 251869,
@@ -4267,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240645,
+      "num": 240645,
+      "word": "恋与深空",
+      "onboard_time": 1730866045,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240548,
       "num": 433425,
       "word": "美军基地附近日本居民不敢随便喝水",
@@ -4363,14 +4403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 234546,
-      "num": 234546,
-      "word": "恋与深空",
-      "onboard_time": 1730866045,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 234217,
       "num": 234217,
       "word": "鞠婧祎黑色鹅绒服",
@@ -4393,14 +4425,6 @@
       "onboard_time": 1730547318,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232960,
-      "num": 232960,
-      "word": "卫生巾长度造假",
-      "onboard_time": 1730862261,
-      "rank": 37,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 232259,
@@ -5347,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196809,
+      "num": 196809,
+      "word": "丁禹兮壁纸",
+      "onboard_time": 1730862864,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196782,
       "num": 208773,
       "word": "Knight取关BLG",
@@ -6011,14 +6043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177130,
-      "num": 177130,
-      "word": "山西七里峪风景区惊现干尸",
-      "onboard_time": 1730866944,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176969,
       "num": 223481,
       "word": "疯狂好六夜阵容官宣",
@@ -6323,14 +6347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168780,
-      "num": 168780,
-      "word": "虞书欣loopy塑",
-      "onboard_time": 1730866706,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168604,
       "num": 168604,
       "word": "分个瑞士卷也要全网讨论吗",
@@ -6433,6 +6449,14 @@
       "onboard_time": 1730696422,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165933,
+      "num": 165933,
+      "word": "小小的我日媒评分",
+      "onboard_time": 1730867965,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 165579,
@@ -6611,6 +6635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162224,
+      "num": 285391,
+      "word": "赵一博男人装封面",
+      "onboard_time": 1730866525,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 161990,
       "num": 178289,
       "word": "金晨教科书级别的一字马",
@@ -6745,6 +6777,14 @@
       "onboard_time": 1730715620,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159485,
+      "num": 159485,
+      "word": "董宇辉回应烧麦言论",
+      "onboard_time": 1730867965,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 158898,
@@ -6939,6 +6979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152608,
+      "num": 348291,
+      "word": "歼15T也来了",
+      "onboard_time": 1730867245,
+      "rank": 12,
+      "category": "军事"
+    },
+    {
       "raw_hot": 152471,
       "num": 152471,
       "word": "睡觉时最伤脊椎的睡姿",
@@ -6987,28 +7035,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151289,
-      "num": 151289,
-      "word": "丁禹兮壁纸",
-      "onboard_time": 1730862864,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151282,
       "num": 151282,
       "word": "云包场",
       "onboard_time": 1730727561,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151220,
-      "num": 285391,
-      "word": "赵一博男人装封面",
-      "onboard_time": 1730866525,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150895,
@@ -7137,6 +7169,14 @@
       "onboard_time": 1730639000,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147084,
+      "num": 147084,
+      "word": "我恋6 爹系男友",
+      "onboard_time": 1730867726,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 146840,
@@ -8323,6 +8363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111262,
+      "num": 341031,
+      "word": "暴力威胁成为美国大选主题",
+      "onboard_time": 1730865624,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111072,
       "num": 111072,
       "word": "萨巴伦卡年终世界第一",
@@ -8955,6 +9003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68785,
+      "num": 362677,
+      "word": "徒步发现路边有尸骨初步排除刑案",
+      "onboard_time": 1730867545,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68419,
       "num": 408675,
       "word": "大风天出门小心高空坠物",
@@ -9009,14 +9065,6 @@
       "onboard_time": 1730563643,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66116,
-      "num": 341031,
-      "word": "暴力威胁成为美国大选主题",
-      "onboard_time": 1730865624,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65916,
@@ -9161,6 +9209,14 @@
       "onboard_time": 1730545098,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56078,
+      "num": 348154,
+      "word": "X200Promini年度超强小直屏",
+      "onboard_time": 1730864182,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 56034,
@@ -9395,14 +9451,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 46458,
-      "num": 343072,
-      "word": "X200Promini年度超强小直屏",
-      "onboard_time": 1730864182,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 46313,
       "num": 56165,
       "word": "回地球夜宵吃点啥",
@@ -9572,7 +9620,7 @@
     },
     {
       "raw_hot": 38240,
-      "num": 341443,
+      "num": 345902,
       "word": "用鸿蒙小艺赏宝太开门了",
       "onboard_time": 1730864182,
       "rank": 45,
@@ -9836,7 +9884,7 @@
     },
     {
       "raw_hot": 30956,
-      "num": 340888,
+      "num": 343777,
       "word": "波司登首创动态御寒科技体系",
       "onboard_time": 1730865865,
       "rank": 19,
@@ -10185,6 +10233,14 @@
       "onboard_time": 1730624418,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 22469,
+      "num": 197455,
+      "word": "杨幂黑金鹅绒服穿搭",
+      "onboard_time": 1730867965,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22456,
@@ -10556,7 +10612,7 @@
     },
     {
       "raw_hot": 16479,
-      "num": 650352,
+      "num": 842520,
       "word": "文化中国行看荆楚瑰宝",
       "onboard_time": 1730863642,
       "rank": 2,
