@@ -1,0 +1,410 @@
+{
+  "runTime": 1730993888290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4696270,
+        "num": 4696270,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1508607,
+        "num": 1508607,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12739,
+        "num": 693874,
+        "word": "一起看进博",
+        "onboard_time": 1730983282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2276083,
+        "num": 645555,
+        "word": "彭高翁青雅分手",
+        "onboard_time": 1730977043,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535252,
+        "num": 535252,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 518282,
+        "num": 518282,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1443885,
+        "num": 512050,
+        "word": "赵露思回应网友说她以前比较好看",
+        "onboard_time": 1730990005,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 888426,
+        "num": 505436,
+        "word": "饶雪漫",
+        "onboard_time": 1730990185,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143844,
+        "num": 489684,
+        "word": "王曼昱3比1朱芊曦",
+        "onboard_time": 1730993062,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280870,
+        "num": 485985,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788856,
+        "num": 472531,
+        "word": "彭高ins回关孙乐言",
+        "onboard_time": 1730985443,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674173,
+        "num": 464706,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454921,
+        "num": 454921,
+        "word": "特朗普胜选关键在美国农村",
+        "onboard_time": 1730988865,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113877,
+        "num": 446844,
+        "word": "王曼昱进八强",
+        "onboard_time": 1730993122,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441164,
+        "num": 441164,
+        "word": "肖战 专辑",
+        "onboard_time": 1730992343,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414595,
+        "num": 414595,
+        "word": "永夜星河热度",
+        "onboard_time": 1730990843,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364749,
+        "num": 364749,
+        "word": "彭高恳请大家不要再指责任何人",
+        "onboard_time": 1730988984,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355129,
+        "num": 355129,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224035,
+        "num": 224035,
+        "word": "王曼昱vs朱芊曦",
+        "onboard_time": 1730990484,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85203,
+        "num": 224012,
+        "word": "奥迪新品牌AUDI官宣了",
+        "onboard_time": 1730989224,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 432444,
+        "num": 223789,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308872,
+        "num": 223687,
+        "word": "蒋欣演技 拿奖",
+        "onboard_time": 1730986043,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295975,
+        "num": 223605,
+        "word": "看起来气血不足 没想到精力这么旺盛",
+        "onboard_time": 1730987844,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21925,
+        "num": 223464,
+        "word": "珠帘玉幕的珠宝严格按唐代样式复原",
+        "onboard_time": 1730991863,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223390,
+        "num": 223390,
+        "word": "丁禹兮人生镜头",
+        "onboard_time": 1730980343,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197975,
+        "num": 197975,
+        "word": "徐海鹏被遣返回国",
+        "onboard_time": 1730991443,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207756,
+        "num": 197589,
+        "word": "费启鸣 永夜星河",
+        "onboard_time": 1730980822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79908,
+        "num": 192479,
+        "word": "我妈不情愿照顾爷爷奶奶的那些年",
+        "onboard_time": 1730991924,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57612,
+        "num": 192398,
+        "word": "奥迪新品牌AUDI概念车首秀",
+        "onboard_time": 1730989045,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 192397,
+        "word": "保持饥饿感的重要性",
+        "onboard_time": 1730991686,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192072,
+        "num": 192072,
+        "word": "男子赶在金价下跌前出售6根金条",
+        "onboard_time": 1730986765,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 190660,
+        "num": 190660,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181544,
+        "num": 181544,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179709,
+        "num": 179709,
+        "word": "永夜星河",
+        "onboard_time": 1730975482,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172605,
+        "num": 172605,
+        "word": "韩国第一夫人将避免参加公开活动",
+        "onboard_time": 1730990246,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163398,
+        "num": 163398,
+        "word": "武艺 没弄清杨子来节目的意义",
+        "onboard_time": 1730989404,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "恋综 分手",
+        "onboard_time": 1730978603,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149742,
+        "num": 149742,
+        "word": "王凯 这就是我不发朋友圈的原因",
+        "onboard_time": 1730975904,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149608,
+        "num": 149608,
+        "word": "关晓彤回应庄筱婷和林栋哲偷偷领证",
+        "onboard_time": 1730992103,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147436,
+        "num": 147436,
+        "word": "涵艺说WBG中路准备签Chovy",
+        "onboard_time": 1730992702,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149588,
+        "num": 145966,
+        "word": "小巷人家看哭了",
+        "onboard_time": 1730990126,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139559,
+        "num": 139559,
+        "word": "王楚钦攻关克难需要时间",
+        "onboard_time": 1730991503,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136302,
+        "num": 136302,
+        "word": "钱天一11比1",
+        "onboard_time": 1730987725,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133508,
+        "num": 133508,
+        "word": "凌妙妙人生镜头",
+        "onboard_time": 1730991203,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130846,
+        "num": 130846,
+        "word": "徐明浩STARDUST",
+        "onboard_time": 1730992823,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130437,
+        "num": 130437,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126756,
+        "num": 126756,
+        "word": "小巷人家蛇瓜也有替身文学",
+        "onboard_time": 1730993062,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127747,
+        "num": 126698,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126225,
+        "num": 126225,
+        "word": "钱天一vs伊藤美诚",
+        "onboard_time": 1730985502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20424,
+        "num": 124402,
+        "word": "均价个位数的现磨咖啡上大分",
+        "onboard_time": 1730989890,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#做党和人民信赖的新闻工作者#"
+    }
+  }
+}

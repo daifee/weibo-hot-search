@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730993013531,
+  "endTime": 1730993888290,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -179,20 +179,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1443885,
+      "num": 512050,
+      "word": "赵露思回应网友说她以前比较好看",
+      "onboard_time": 1730990005,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1321339,
       "num": 1321339,
       "word": "蜂花发道歉信",
       "onboard_time": 1730955202,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1295934,
-      "num": 500360,
-      "word": "赵露思回应网友说她以前比较好看",
-      "onboard_time": 1730990005,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 1286393,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 911293,
-      "num": 324401,
+      "num": 505436,
       "word": "饶雪漫",
       "onboard_time": 1730990185,
       "rank": 40,
@@ -748,11 +748,19 @@
     },
     {
       "raw_hot": 442815,
-      "num": 303824,
+      "num": 414595,
       "word": "永夜星河热度",
       "onboard_time": 1730990843,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 441164,
+      "num": 441164,
+      "word": "肖战 专辑",
+      "onboard_time": 1730992343,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 432667,
@@ -1459,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224035,
+      "num": 224035,
+      "word": "王曼昱vs朱芊曦",
+      "onboard_time": 1730990484,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222517,
       "num": 389521,
       "word": "杨子形容黄圣依是整容样板",
@@ -1491,28 +1507,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 212961,
-      "num": 212961,
-      "word": "王曼昱vs朱芊曦",
-      "onboard_time": 1730990484,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212869,
       "num": 212869,
       "word": "钱天一11比1",
       "onboard_time": 1730987725,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212534,
-      "num": 212534,
-      "word": "肖战 专辑",
-      "onboard_time": 1730992343,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 212427,
@@ -1771,6 +1771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192398,
+      "num": 192397,
+      "word": "保持饥饿感的重要性",
+      "onboard_time": 1730991686,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
@@ -1880,6 +1888,14 @@
       "word": "疯狂英语李阳省级代理费约2000万",
       "onboard_time": 1730976743,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172605,
+      "num": 241277,
+      "word": "韩国第一夫人将避免参加公开活动",
+      "onboard_time": 1730990246,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2147,14 +2163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 149218,
-      "num": 149218,
-      "word": "保持饥饿感的重要性",
-      "onboard_time": 1730991686,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148531,
       "num": 148531,
       "word": "刀剑神域",
@@ -2179,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147436,
+      "num": 147436,
+      "word": "涵艺说WBG中路准备签Chovy",
+      "onboard_time": 1730992702,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145808,
       "num": 145808,
       "word": "父亲跳河救失足落水女儿不幸溺亡",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1730991203,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143844,
+      "num": 489684,
+      "word": "王曼昱3比1朱芊曦",
+      "onboard_time": 1730993062,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 142679,
@@ -2347,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130846,
+      "num": 130846,
+      "word": "徐明浩STARDUST",
+      "onboard_time": 1730992823,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130751,
       "num": 130751,
       "word": "中国航展",
@@ -2403,6 +2435,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 126756,
+      "num": 126756,
+      "word": "小巷人家蛇瓜也有替身文学",
+      "onboard_time": 1730993062,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125335,
       "num": 173778,
       "word": "歼15T结合新型隐身舰载机作战更丰富",
@@ -2425,14 +2465,6 @@
       "onboard_time": 1730979561,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122942,
-      "num": 122942,
-      "word": "涵艺说WBG中路准备签Chovy",
-      "onboard_time": 1730992702,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 122559,
@@ -2499,14 +2531,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 118042,
-      "num": 118042,
-      "word": "徐明浩STARDUST",
-      "onboard_time": 1730992823,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117920,
       "num": 117920,
       "word": "永夜星河追剧日历",
@@ -2553,6 +2577,14 @@
       "onboard_time": 1730906122,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113877,
+      "num": 446844,
+      "word": "王曼昱进八强",
+      "onboard_time": 1730993122,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 112872,
@@ -2779,6 +2811,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 85203,
+      "num": 442746,
+      "word": "奥迪新品牌AUDI官宣了",
+      "onboard_time": 1730989224,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84275,
       "num": 84275,
       "word": "国乒男队本站比赛仅剩林诗栋",
@@ -2787,20 +2827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79908,
+      "num": 294523,
+      "word": "我妈不情愿照顾爷爷奶奶的那些年",
+      "onboard_time": 1730991924,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79167,
       "num": 361901,
       "word": "烧伤妈妈丈夫称以后菜都他做",
       "onboard_time": 1730960179,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77792,
-      "num": 442746,
-      "word": "奥迪新品牌AUDI官宣了",
-      "onboard_time": 1730989224,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 77779,
@@ -3051,12 +3091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57218,
-      "num": 294523,
-      "word": "我妈不情愿照顾爷爷奶奶的那些年",
-      "onboard_time": 1730991924,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 57612,
+      "num": 449118,
+      "word": "奥迪新品牌AUDI概念车首秀",
+      "onboard_time": 1730989045,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 56668,
@@ -3065,14 +3105,6 @@
       "onboard_time": 1730970201,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 56320,
-      "num": 449118,
-      "word": "奥迪新品牌AUDI概念车首秀",
-      "onboard_time": 1730989045,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 56061,
@@ -3120,14 +3152,6 @@
       "word": "文化中国行之立冬节气",
       "onboard_time": 1730967500,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50697,
-      "num": 241277,
-      "word": "韩国第一夫人将避免参加公开活动",
-      "onboard_time": 1730990246,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3603,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21925,
+      "num": 334610,
+      "word": "珠帘玉幕的珠宝严格按唐代样式复原",
+      "onboard_time": 1730991863,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20916,
       "num": 127533,
       "word": "当代年轻人立冬好运四件套",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1730983282,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14967,
-      "num": 334610,
-      "word": "珠帘玉幕的珠宝严格按唐代样式复原",
-      "onboard_time": 1730991863,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 13417,
