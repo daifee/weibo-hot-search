@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730976028141,
+  "endTime": 1730978392575,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -9,6 +9,14 @@
       "onboard_time": 1730975242,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9156271,
+      "num": 444548,
+      "word": "彭高翁青雅分手",
+      "onboard_time": 1730977043,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 5648647,
@@ -113,6 +121,14 @@
       "onboard_time": 1730953702,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1461414,
+      "num": 923339,
+      "word": "彭高 翁青雅",
+      "onboard_time": 1730958500,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1447953,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1008108,
+      "num": 1008108,
+      "word": "河北崇礼3.6级地震",
+      "onboard_time": 1730976202,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994739,
       "num": 829486,
       "word": "美国可能面临五大变化",
@@ -305,14 +329,6 @@
       "onboard_time": 1730907442,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 923339,
-      "num": 923339,
-      "word": "彭高 翁青雅",
-      "onboard_time": 1730958500,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 916146,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586355,
+      "num": 586355,
+      "word": "中国买家拍下一块77年前的蛋糕",
+      "onboard_time": 1730975602,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 584644,
       "num": 634636,
       "word": "盯虞兮",
@@ -617,6 +641,14 @@
       "onboard_time": 1730901504,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420075,
+      "num": 420075,
+      "word": "Ning疑似内涵王多多",
+      "onboard_time": 1730976023,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 412527,
@@ -787,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 333733,
+      "num": 478903,
+      "word": "王凯 这就是我不发朋友圈的原因",
+      "onboard_time": 1730975904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329914,
       "num": 329914,
       "word": "蜂花广告被质疑刻意丑化女性",
@@ -809,6 +849,22 @@
       "onboard_time": 1730936480,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320889,
+      "num": 320889,
+      "word": "北京震感",
+      "onboard_time": 1730976803,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316951,
+      "num": 316951,
+      "word": "县城贵妇悄悄买走上亿元皮草",
+      "onboard_time": 1730974761,
+      "rank": 48,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 312647,
@@ -939,6 +995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 282882,
+      "num": 282882,
+      "word": "曝网易游戏多名高管被带走调查",
+      "onboard_time": 1730976683,
+      "rank": 36,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 281650,
       "num": 281650,
       "word": "金饰价格重回7字头",
@@ -956,7 +1020,7 @@
     },
     {
       "raw_hot": 273543,
-      "num": 452871,
+      "num": 473768,
       "word": "永夜星河",
       "onboard_time": 1730884883,
       "rank": 29,
@@ -1115,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224853,
-      "num": 224853,
-      "word": "县城贵妇悄悄买走上亿元皮草",
-      "onboard_time": 1730974761,
-      "rank": 48,
-      "category": "社会新闻,时尚"
-    },
-    {
       "raw_hot": 224687,
       "num": 884873,
       "word": "李佩霞案开庭",
@@ -1155,12 +1211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218005,
+      "num": 472889,
+      "word": "高雅CP",
+      "onboard_time": 1730977822,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214830,
       "num": 438629,
       "word": "王楚钦是奥运后参赛最多的运动员",
       "onboard_time": 1730967260,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214316,
+      "num": 214316,
+      "word": "美媒称马斯克或成特朗普胜选最大赢家",
+      "onboard_time": 1730977103,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 212427,
@@ -1249,14 +1321,6 @@
       "onboard_time": 1730973259,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201967,
-      "num": 201967,
-      "word": "中国买家拍下一块77年前的蛋糕",
-      "onboard_time": 1730975602,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201964,
@@ -1475,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173334,
+      "num": 453147,
+      "word": "疯狂英语李阳省级代理费约2000万",
+      "onboard_time": 1730976743,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171437,
       "num": 171437,
       "word": "英雄联盟双城之战2皮肤",
@@ -1580,7 +1652,7 @@
     },
     {
       "raw_hot": 161756,
-      "num": 161756,
+      "num": 345210,
       "word": "白百何演了20多集终于看爽了",
       "onboard_time": 1730972599,
       "rank": 41,
@@ -1795,12 +1867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131008,
+      "num": 131008,
+      "word": "高端的战机只需一把朴实无华的锁",
+      "onboard_time": 1730977882,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 130751,
       "num": 130751,
       "word": "中国航展",
       "onboard_time": 1730973560,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 129869,
+      "num": 129869,
+      "word": "16人被终身禁入熊猫基地",
+      "onboard_time": 1730978304,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129376,
@@ -1963,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103274,
+      "num": 129943,
+      "word": "宋亚轩晒自己包的饺子",
+      "onboard_time": 1730976743,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103059,
       "num": 356108,
       "word": "张煜东说王楚钦很自律的",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1730906960,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93849,
+      "num": 470789,
+      "word": "卡尔伯格说王楚钦状态可能不是很好",
+      "onboard_time": 1730978002,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 92727,
@@ -2129,14 +2233,6 @@
       "onboard_time": 1730898383,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71559,
-      "num": 299864,
-      "word": "王凯 这就是我不发朋友圈的原因",
-      "onboard_time": 1730975904,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 70038,
@@ -2307,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51110,
+      "num": 459615,
+      "word": "无畏立冬让吃好喝好",
+      "onboard_time": 1730978063,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50495,
       "num": 350979,
       "word": "唐晓天 活盐王",
@@ -2427,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37872,
+      "num": 477959,
+      "word": "现在联系到人工客服怎么这么难",
+      "onboard_time": 1730977943,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37555,
       "num": 600264,
       "word": "最不适应立冬的是皮肤",
@@ -2457,6 +2569,14 @@
       "onboard_time": 1730974702,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35365,
+      "num": 456462,
+      "word": "股票直播间线下投顾公司连环套路",
+      "onboard_time": 1730978363,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 34909,
@@ -2515,11 +2635,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32235,
+      "num": 450135,
+      "word": "小鹏P7+啥都标配",
+      "onboard_time": 1730977582,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32199,
       "num": 48280,
       "word": "医生提醒瑞士卷不可吃多",
       "onboard_time": 1730920211,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30903,
+      "num": 468289,
+      "word": "专家回应游客在湖南太浮山发现文物",
+      "onboard_time": 1730978243,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2537,6 +2673,14 @@
       "onboard_time": 1730959341,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29490,
+      "num": 462813,
+      "word": "徐明浩说想继续更新TEA8",
+      "onboard_time": 1730978183,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 28115,
@@ -2595,6 +2739,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 23668,
+      "num": 326860,
+      "word": "幸运咖咖啡界的蜜雪冰城",
+      "onboard_time": 1730976084,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 23089,
       "num": 155828,
       "word": "提升冬天幸福感的数码好物",
@@ -2625,6 +2777,14 @@
       "onboard_time": 1730946739,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22552,
+      "num": 463583,
+      "word": "再有钱也别买这几样化妆品",
+      "onboard_time": 1730977223,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 22248,
