@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730972216221,
+  "endTime": 1730974993128,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -43,6 +43,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2036796,
+      "num": 568750,
+      "word": "特朗普小儿子巴伦或成美政坛新星",
+      "onboard_time": 1730971699,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2010592,
+      "num": 2010592,
+      "word": "多名运动员为王楚钦发声",
+      "onboard_time": 1730969721,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1737223,
       "num": 1737223,
       "word": "哈里斯称接受败选结果",
@@ -57,14 +73,6 @@
       "onboard_time": 1730966660,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1684894,
-      "num": 1684894,
-      "word": "多名运动员为王楚钦发声",
-      "onboard_time": 1730969721,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1672547,
@@ -363,6 +371,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 774008,
+      "num": 405331,
+      "word": "叶珂帮忙救助了流浪小狗",
+      "onboard_time": 1730971579,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 720245,
+      "num": 398638,
+      "word": "李娜回应郑钦文不与选手交友",
+      "onboard_time": 1730972659,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 700510,
       "num": 606231,
       "word": "特朗普赢得2024美国大选",
@@ -475,6 +499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569007,
+      "num": 569007,
+      "word": "杨幂与国旗同框",
+      "onboard_time": 1730972359,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 559987,
+      "num": 559987,
+      "word": "Boss直聘回应求职者被要求陪睡",
+      "onboard_time": 1730972121,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547175,
       "num": 691989,
       "word": "井柏然与李荣浩母子聚餐",
@@ -571,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 408478,
+      "num": 408478,
+      "word": "迪丽热巴贺思慕青衣路透",
+      "onboard_time": 1730971999,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408320,
       "num": 373535,
       "word": "银行人下班一看天塌了",
@@ -617,6 +665,14 @@
       "onboard_time": 1730956341,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378317,
+      "num": 378317,
+      "word": "8岁娃扔玩具被终身禁入熊猫基地",
+      "onboard_time": 1730971999,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375565,
@@ -689,6 +745,14 @@
       "onboard_time": 1730906661,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342300,
+      "num": 390113,
+      "word": "麦琳被画像丑哭了",
+      "onboard_time": 1730972300,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 336266,
@@ -811,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293347,
-      "num": 293347,
-      "word": "特朗普小儿子巴伦或成美政坛新星",
-      "onboard_time": 1730971699,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 293341,
       "num": 293341,
       "word": "王楚钦0比3卡尔伯格",
@@ -835,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 286940,
-      "num": 330835,
-      "word": "迪丽热巴贺思慕青衣路透",
-      "onboard_time": 1730971999,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 287947,
+      "num": 287947,
+      "word": "网友建议删掉烧伤妈妈被炸伤视频",
+      "onboard_time": 1730968879,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286632,
@@ -873,22 +929,6 @@
       "onboard_time": 1730955502,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274469,
-      "num": 274469,
-      "word": "网友建议删掉烧伤妈妈被炸伤视频",
-      "onboard_time": 1730968879,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273247,
-      "num": 273247,
-      "word": "叶珂帮忙救助了流浪小狗",
-      "onboard_time": 1730971579,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 271030,
@@ -937,6 +977,14 @@
       "onboard_time": 1730909779,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256060,
+      "num": 256060,
+      "word": "饺子",
+      "onboard_time": 1730974341,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 248860,
@@ -1155,6 +1203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202661,
+      "num": 289339,
+      "word": "珠帘玉幕云合首登顶",
+      "onboard_time": 1730973259,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201964,
       "num": 201964,
       "word": "这不是严浩翔的婚礼纪录片是什么",
@@ -1275,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192596,
+      "num": 192596,
+      "word": "蜂花争议广告漫画团队回应",
+      "onboard_time": 1730972419,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
@@ -1307,12 +1371,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 184336,
+      "num": 395343,
+      "word": "Uzi新身份回归老头杯",
+      "onboard_time": 1730974282,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182598,
       "num": 182598,
       "word": "雪地靴一穿冬天的感觉就来了",
       "onboard_time": 1730967680,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 181382,
+      "num": 181382,
+      "word": "KPL供暖了",
+      "onboard_time": 1730974400,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 179750,
@@ -1403,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164296,
-      "num": 352897,
-      "word": "8岁娃扔玩具被终身禁入熊猫基地",
-      "onboard_time": 1730971999,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163649,
       "num": 163649,
       "word": "60秒看美国总统选举制度",
@@ -1475,6 +1547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 156449,
+      "num": 156449,
+      "word": "一条生产线竟炼出全球10年圆珠笔尖",
+      "onboard_time": 1730973618,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154995,
       "num": 154995,
       "word": "脱口秀演员给自己婚礼讲冷场了",
@@ -1507,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150340,
+      "num": 150340,
+      "word": "白百何演了20多集终于看爽了",
+      "onboard_time": 1730972599,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149717,
       "num": 149717,
       "word": "华为固态电池专利公布",
@@ -1529,6 +1617,22 @@
       "onboard_time": 1730963719,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147992,
+      "num": 147992,
+      "word": "时代少年团五周年宣传片",
+      "onboard_time": 1730974944,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147752,
+      "num": 147752,
+      "word": "皓嫣的吻晚了三年零七个月",
+      "onboard_time": 1730972300,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146171,
@@ -1561,6 +1665,14 @@
       "onboard_time": 1730936300,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141233,
+      "num": 141233,
+      "word": "流浪地球3分为上下部",
+      "onboard_time": 1730972659,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 140239,
@@ -1619,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130751,
+      "num": 130751,
+      "word": "中国航展",
+      "onboard_time": 1730973560,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 129376,
       "num": 129376,
       "word": "王楚钦状态",
@@ -1643,12 +1763,28 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 128515,
+      "num": 128515,
+      "word": "县城贵妇悄悄买走上亿元皮草",
+      "onboard_time": 1730974761,
+      "rank": 48,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 128169,
       "num": 623860,
       "word": "论天津人的精神气儿",
       "onboard_time": 1730944039,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127180,
+      "num": 127180,
+      "word": "王冰冰去班味正装穿搭",
+      "onboard_time": 1730973139,
+      "rank": 49,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 122528,
@@ -1939,14 +2075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71552,
-      "num": 313714,
-      "word": "Boss直聘回应求职者被要求陪睡",
-      "onboard_time": 1730972121,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70038,
       "num": 438728,
       "word": "原来不是总监首席也能剪好头发",
@@ -2059,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58697,
+      "num": 406787,
+      "word": "能笑着走出去的理发店出现了",
+      "onboard_time": 1730974461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57848,
       "num": 446723,
       "word": "企业退休人员养老金提至3162元",
@@ -2067,12 +2203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56668,
+      "num": 414638,
+      "word": "幸运咖立冬爆单",
+      "onboard_time": 1730970201,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 55180,
       "num": 196257,
       "word": "央视披露银川特大燃气爆炸事故原因",
       "onboard_time": 1730966240,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51136,
+      "num": 385359,
+      "word": "贾樟柯请求观众抵制盗版风流一代",
+      "onboard_time": 1730973859,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 51128,
@@ -2227,12 +2379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36893,
-      "num": 414638,
-      "word": "幸运咖立冬爆单",
-      "onboard_time": 1730970201,
-      "rank": 20,
-      "category": "美食"
+      "raw_hot": 36233,
+      "num": 397812,
+      "word": "陈幸同说赢球心情肯定比输好",
+      "onboard_time": 1730974702,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 34909,
@@ -2289,6 +2441,14 @@
       "onboard_time": 1730920211,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31207,
+      "num": 209420,
+      "word": "小鹏P7+太火了",
+      "onboard_time": 1730973381,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 30601,
@@ -2353,6 +2513,14 @@
       "onboard_time": 1730959461,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 23857,
+      "num": 288043,
+      "word": "离岸人民币兑美元升穿7.17",
+      "onboard_time": 1730973919,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 23089,
@@ -2443,18 +2611,18 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 17231,
-      "num": 1246286,
-      "word": "中国式现代化的京彩篇章",
-      "onboard_time": 1730952261,
+      "raw_hot": 17810,
+      "num": 1399184,
+      "word": "首届世界古典学大会开幕",
+      "onboard_time": 1730967320,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15223,
-      "num": 1399184,
-      "word": "首届世界古典学大会开幕",
-      "onboard_time": 1730967320,
+      "raw_hot": 17231,
+      "num": 1246286,
+      "word": "中国式现代化的京彩篇章",
+      "onboard_time": 1730952261,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2481,6 +2649,14 @@
       "onboard_time": 1730898321,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9539,
+      "num": 383304,
+      "word": "韩政府加大深伪性犯罪打击力度",
+      "onboard_time": 1730973800,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7831,
@@ -2514,6 +2690,9 @@
     },
     {
       "word": "#习近平向特朗普致贺电#"
+    },
+    {
+      "word": "#习近平向首届世界古典学大会致贺信#"
     }
   ]
 }
