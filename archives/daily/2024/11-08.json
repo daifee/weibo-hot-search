@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731015318543,
+  "endTime": 1731018037292,
   "band_list": [
     {
       "raw_hot": 2438949,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95299,
+      "num": 95299,
+      "word": "女老师操场踢打学生派出所已介入",
+      "onboard_time": 1731013570,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 91119,
       "num": 91119,
       "word": "赛力斯称已报警",
@@ -491,6 +499,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 38530,
+      "num": 44885,
+      "word": "她知道什么叫只剪一点点",
+      "onboard_time": 1731016572,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36445,
       "num": 46943,
       "word": "王俊凯灰西装look",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 32500,
-      "num": 37822,
+      "num": 43828,
       "word": "papi酱 杨子假装在戏弄人间",
       "onboard_time": 1731001874,
       "rank": 36,
@@ -523,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24383,
+      "num": 44885,
+      "word": "日本首相石破茂与特朗普通话",
+      "onboard_time": 1731016391,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 23236,
+      "num": 55308,
+      "word": "原来中式审美都是有出处的",
+      "onboard_time": 1731005173,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23030,
       "num": 26354,
       "word": "赵露思片场哭戏花絮",
@@ -531,15 +563,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20897,
-      "num": 55308,
-      "word": "原来中式审美都是有出处的",
-      "onboard_time": 1731005173,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20062,
+      "raw_hot": 21175,
       "num": 27622,
       "word": "科研人员的凡尔赛让朱广权愣住了",
       "onboard_time": 1731012072,
@@ -561,14 +585,6 @@
       "onboard_time": 1731007872,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 18582,
-      "num": 35779,
-      "word": "女老师操场踢打学生派出所已介入",
-      "onboard_time": 1731013570,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 16731,
