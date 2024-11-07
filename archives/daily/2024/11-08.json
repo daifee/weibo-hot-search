@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731018037292,
+  "endTime": 1731019139629,
   "band_list": [
     {
       "raw_hot": 2438949,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541198,
+      "num": 541198,
+      "word": "民警着急大吼这是23万不是23块",
+      "onboard_time": 1730994020,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530072,
       "num": 530072,
       "word": "徐海鹏被遣返回国",
@@ -89,14 +97,6 @@
       "onboard_time": 1730990246,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 429752,
-      "num": 429752,
-      "word": "民警着急大吼这是23万不是23块",
-      "onboard_time": 1730994020,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421679,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175630,
+      "num": 175630,
+      "word": "女老师操场踢打学生派出所已介入",
+      "onboard_time": 1731013570,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174557,
       "num": 174557,
       "word": "保持饥饿感的重要性",
@@ -291,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113468,
+      "num": 113468,
+      "word": "她知道什么叫只剪一点点",
+      "onboard_time": 1731016572,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111127,
       "num": 111127,
       "word": "恋综 分手",
@@ -361,14 +377,6 @@
       "onboard_time": 1730989404,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95299,
-      "num": 95299,
-      "word": "女老师操场踢打学生派出所已介入",
-      "onboard_time": 1731013570,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 91119,
@@ -499,12 +507,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 38530,
-      "num": 44885,
-      "word": "她知道什么叫只剪一点点",
-      "onboard_time": 1731016572,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 39898,
+      "num": 60122,
+      "word": "papi酱 杨子假装在戏弄人间",
+      "onboard_time": 1731001874,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 36445,
@@ -515,12 +523,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 32500,
-      "num": 43828,
-      "word": "papi酱 杨子假装在戏弄人间",
-      "onboard_time": 1731001874,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 32099,
+      "num": 65264,
+      "word": "日本首相石破茂与特朗普通话",
+      "onboard_time": 1731016391,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 31106,
@@ -531,7 +539,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29702,
+      "raw_hot": 30618,
       "num": 130952,
       "word": "王艺迪vs萨马拉",
       "onboard_time": 1730998817,
@@ -539,19 +547,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24383,
-      "num": 44885,
-      "word": "日本首相石破茂与特朗普通话",
-      "onboard_time": 1731016391,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 23236,
+      "raw_hot": 29858,
       "num": 55308,
       "word": "原来中式审美都是有出处的",
       "onboard_time": 1731005173,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28094,
+      "num": 29792,
+      "word": "科研人员的凡尔赛让朱广权愣住了",
+      "onboard_time": 1731012072,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -563,15 +571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21175,
-      "num": 27622,
-      "word": "科研人员的凡尔赛让朱广权愣住了",
-      "onboard_time": 1731012072,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19758,
+      "raw_hot": 22563,
       "num": 47952,
       "word": "蜂花真假闺蜜画师账号已改名",
       "onboard_time": 1731009670,
@@ -585,6 +585,14 @@
       "onboard_time": 1731007872,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 17975,
+      "num": 79644,
+      "word": "致敬执着坚守的新闻人",
+      "onboard_time": 1731018793,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16731,
