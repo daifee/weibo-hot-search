@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730990264900,
+  "endTime": 1730993013531,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -185,6 +185,14 @@
       "onboard_time": 1730955202,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1295934,
+      "num": 500360,
+      "word": "赵露思回应网友说她以前比较好看",
+      "onboard_time": 1730990005,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1286393,
@@ -392,6 +400,14 @@
       "word": "开始补大理寺少卿游",
       "onboard_time": 1730949740,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 911293,
+      "num": 324401,
+      "word": "饶雪漫",
+      "onboard_time": 1730990185,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -667,6 +683,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487735,
+      "num": 487735,
+      "word": "特朗普胜选关键在美国农村",
+      "onboard_time": 1730988865,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 475935,
+      "num": 349579,
+      "word": "微信运动一个很私密的东西",
+      "onboard_time": 1730988145,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 468840,
       "num": 462185,
       "word": "红气养猴",
@@ -713,6 +745,14 @@
       "onboard_time": 1730970560,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 442815,
+      "num": 303824,
+      "word": "永夜星河热度",
+      "onboard_time": 1730990843,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 432667,
@@ -939,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349579,
-      "num": 349579,
-      "word": "微信运动一个很私密的东西",
-      "onboard_time": 1730988145,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 345569,
       "num": 345569,
       "word": "嘘国王在冬眠",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1730974341,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299790,
-      "num": 299790,
-      "word": "赵露思回应网友说她以前比较好看",
-      "onboard_time": 1730990005,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 297727,
@@ -1331,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239592,
+      "num": 239592,
+      "word": "徐海鹏被遣返回国",
+      "onboard_time": 1730991443,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236089,
       "num": 236089,
       "word": "超90款卫生巾品牌长度不合格",
@@ -1459,12 +1491,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 212961,
+      "num": 212961,
+      "word": "王曼昱vs朱芊曦",
+      "onboard_time": 1730990484,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212869,
       "num": 212869,
       "word": "钱天一11比1",
       "onboard_time": 1730987725,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212534,
+      "num": 212534,
+      "word": "肖战 专辑",
+      "onboard_time": 1730992343,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 212427,
@@ -1651,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197875,
-      "num": 483818,
-      "word": "特朗普胜选关键在美国农村",
-      "onboard_time": 1730988865,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 197823,
       "num": 226112,
       "word": "永夜星河寄明月MV",
@@ -1715,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195417,
+      "num": 195417,
+      "word": "王楚钦攻关克难需要时间",
+      "onboard_time": 1730991503,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193959,
       "num": 193959,
       "word": "2025乙巳蛇年贵金属纪念币",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1730955981,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184308,
+      "num": 184308,
+      "word": "关晓彤回应庄筱婷和林栋哲偷偷领证",
+      "onboard_time": 1730992103,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 183509,
@@ -1931,14 +1987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 163221,
-      "num": 163221,
-      "word": "饶雪漫",
-      "onboard_time": 1730990185,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162856,
       "num": 162856,
       "word": "天津市考",
@@ -2099,6 +2147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149218,
+      "num": 149218,
+      "word": "保持饥饿感的重要性",
+      "onboard_time": 1730991686,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148531,
       "num": 148531,
       "word": "刀剑神域",
@@ -2136,6 +2192,14 @@
       "word": "祝绪丹剧里剧外都正的发邪",
       "onboard_time": 1730937439,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144708,
+      "num": 144708,
+      "word": "凌妙妙人生镜头",
+      "onboard_time": 1730991203,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2363,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122942,
+      "num": 122942,
+      "word": "涵艺说WBG中路准备签Chovy",
+      "onboard_time": 1730992702,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122559,
       "num": 122559,
       "word": "杨子画师回应",
@@ -2425,6 +2497,14 @@
       "onboard_time": 1730899461,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 118042,
+      "num": 118042,
+      "word": "徐明浩STARDUST",
+      "onboard_time": 1730992823,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 117920,
@@ -2715,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77792,
+      "num": 442746,
+      "word": "奥迪新品牌AUDI官宣了",
+      "onboard_time": 1730989224,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77779,
       "num": 268650,
       "word": "为什么立冬才是吃蟹最佳时令",
@@ -2963,12 +3051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57218,
+      "num": 294523,
+      "word": "我妈不情愿照顾爷爷奶奶的那些年",
+      "onboard_time": 1730991924,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56668,
       "num": 414638,
       "word": "幸运咖立冬爆单",
       "onboard_time": 1730970201,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 56320,
+      "num": 449118,
+      "word": "奥迪新品牌AUDI概念车首秀",
+      "onboard_time": 1730989045,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 56061,
@@ -3001,14 +3105,6 @@
       "onboard_time": 1730984003,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51655,
-      "num": 442746,
-      "word": "奥迪新品牌AUDI官宣了",
-      "onboard_time": 1730989224,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 51136,
@@ -3195,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38040,
+      "num": 233302,
+      "word": "郑钦文喜欢霉霉狼姐的音乐",
+      "onboard_time": 1730991804,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 37555,
       "num": 600264,
       "word": "最不适应立冬的是皮肤",
@@ -3217,14 +3321,6 @@
       "onboard_time": 1730956161,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 37080,
-      "num": 449118,
-      "word": "奥迪新品牌AUDI概念车首秀",
-      "onboard_time": 1730989045,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 37049,
@@ -3451,6 +3547,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 23199,
+      "num": 159060,
+      "word": "均价个位数的现磨咖啡上大分",
+      "onboard_time": 1730989890,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 23089,
       "num": 155828,
       "word": "提升冬天幸福感的数码好物",
@@ -3555,14 +3659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17774,
-      "num": 159060,
-      "word": "均价个位数的现磨咖啡上大分",
-      "onboard_time": 1730989890,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 17231,
       "num": 1246286,
       "word": "中国式现代化的京彩篇章",
@@ -3577,6 +3673,14 @@
       "onboard_time": 1730983282,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14967,
+      "num": 334610,
+      "word": "珠帘玉幕的珠宝严格按唐代样式复原",
+      "onboard_time": 1730991863,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 13417,
