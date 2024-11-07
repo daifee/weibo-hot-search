@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730986007385,
+  "endTime": 1730986697926,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6923819,
+      "num": 6923819,
+      "word": "鹿晗删了宣传关晓彤新剧微博",
+      "onboard_time": 1730985382,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 5648647,
       "num": 1198881,
       "word": "特朗普称要立刻封锁边境",
@@ -225,14 +233,6 @@
       "onboard_time": 1730572162,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 3389280,
-      "num": 515614,
-      "word": "鹿晗删了宣传关晓彤新剧微博",
-      "onboard_time": 1730985382,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 3248505,
@@ -635,6 +635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1850903,
+      "num": 451180,
+      "word": "彭高ins回关孙乐言",
+      "onboard_time": 1730985443,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1844176,
       "num": 1844176,
       "word": "覃海洋犯规",
@@ -905,14 +913,6 @@
       "onboard_time": 1730949380,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1613024,
-      "num": 451180,
-      "word": "彭高ins回关孙乐言",
-      "onboard_time": 1730985443,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1593277,
@@ -7595,6 +7595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278354,
+      "num": 253857,
+      "word": "女子11元拍到海景房险些被老公拒收",
+      "onboard_time": 1730985623,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278253,
       "num": 278253,
       "word": "赵露思新剧好美",
@@ -8027,6 +8035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261640,
+      "num": 232384,
+      "word": "黄晓明未删与叶珂官宣微博",
+      "onboard_time": 1730985202,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261219,
       "num": 250619,
       "word": "港媒称霍启刚不点名批杜琪峰",
@@ -8073,6 +8089,14 @@
       "onboard_time": 1730909779,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258336,
+      "num": 172936,
+      "word": "蒋欣演技 拿奖",
+      "onboard_time": 1730986043,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 258221,
@@ -8201,14 +8225,6 @@
       "onboard_time": 1730689698,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253857,
-      "num": 253857,
-      "word": "女子11元拍到海景房险些被老公拒收",
-      "onboard_time": 1730985623,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253415,
@@ -8585,14 +8601,6 @@
       "onboard_time": 1730508497,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239428,
-      "num": 232384,
-      "word": "黄晓明未删与叶珂官宣微博",
-      "onboard_time": 1730985202,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 239372,
@@ -10553,6 +10561,14 @@
       "onboard_time": 1730624720,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 195869,
+      "num": 166511,
+      "word": "鞠婧祎饺子没吃玩头发了",
+      "onboard_time": 1730986283,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195533,
@@ -14027,6 +14043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145808,
+      "num": 145808,
+      "word": "父亲跳河救失足落水女儿不幸溺亡",
+      "onboard_time": 1730985382,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145689,
       "num": 145689,
       "word": "国家反诈中心教你识别电信诈骗",
@@ -14675,14 +14699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137588,
-      "num": 137588,
-      "word": "父亲跳河救失足落水女儿不幸溺亡",
-      "onboard_time": 1730985382,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137115,
       "num": 268654,
       "word": "副局长推介大米英语东北话无缝切换",
@@ -14968,6 +14984,14 @@
       "word": "你好冬天",
       "onboard_time": 1730935518,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132991,
+      "num": 340897,
+      "word": "踹打多名学生的女教师已被停课",
+      "onboard_time": 1730984543,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -15444,7 +15468,7 @@
     },
     {
       "raw_hot": 125335,
-      "num": 125335,
+      "num": 173778,
       "word": "歼15T结合新型隐身舰载机作战更丰富",
       "onboard_time": 1730985983,
       "rank": 46,
@@ -15481,6 +15505,14 @@
       "onboard_time": 1730614999,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124987,
+      "num": 124987,
+      "word": "我军首部战地记者宣传片",
+      "onboard_time": 1730986644,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 124870,
@@ -16563,6 +16595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108972,
+      "num": 158232,
+      "word": "中马关系前景光明未来可期",
+      "onboard_time": 1730986223,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108971,
       "num": 108971,
       "word": "私人影院经营者张某某被抓",
@@ -17609,14 +17649,6 @@
       "onboard_time": 1730889204,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83276,
-      "num": 340897,
-      "word": "踹打多名学生的女教师已被停课",
-      "onboard_time": 1730984543,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82395,
@@ -19347,6 +19379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41465,
+      "num": 380500,
+      "word": "钱天一vs伊藤美诚",
+      "onboard_time": 1730985502,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41174,
       "num": 50649,
       "word": "赛后休息室BLG全员神情落寞",
@@ -20203,20 +20243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31177,
+      "num": 371769,
+      "word": "河北美院数亿巨债风波",
+      "onboard_time": 1730984843,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31069,
       "num": 31069,
       "word": "适合11月第1天的文案",
       "onboard_time": 1730390540,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31042,
-      "num": 371769,
-      "word": "河北美院数亿巨债风波",
-      "onboard_time": 1730984843,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30940,
@@ -20609,14 +20649,6 @@
       "onboard_time": 1730885485,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26069,
-      "num": 380500,
-      "word": "钱天一vs伊藤美诚",
-      "onboard_time": 1730985502,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 25838,
@@ -21075,6 +21107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21898,
+      "num": 560327,
+      "word": "落叶一点点描出冬的模样",
+      "onboard_time": 1730984903,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21849,
       "num": 369715,
       "word": "山东兰陵铁矿事故仍有4人被困",
@@ -21147,14 +21187,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 21157,
-      "num": 552496,
-      "word": "落叶一点点描出冬的模样",
-      "onboard_time": 1730984903,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21032,
       "num": 439942,
       "word": "男子应聘货车司机被套路买车",
@@ -21177,6 +21209,14 @@
       "onboard_time": 1730407271,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20916,
+      "num": 127533,
+      "word": "当代年轻人立冬好运四件套",
+      "onboard_time": 1730983701,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 20717,
@@ -21249,14 +21289,6 @@
       "onboard_time": 1730654115,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19955,
-      "num": 127533,
-      "word": "当代年轻人立冬好运四件套",
-      "onboard_time": 1730983701,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 19932,

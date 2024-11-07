@@ -1,0 +1,410 @@
+{
+  "runTime": 1730986697926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6923819,
+        "num": 6923819,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 642630,
+        "num": 642630,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21898,
+        "num": 560327,
+        "word": "落叶一点点描出冬的模样",
+        "onboard_time": 1730984903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5726747,
+        "num": 538594,
+        "word": "彭高翁青雅分手",
+        "onboard_time": 1730977043,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506616,
+        "num": 506616,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567477,
+        "num": 464354,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2280814,
+        "num": 411186,
+        "word": "鹿晗宣传关晓彤新剧",
+        "onboard_time": 1730983222,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1850903,
+        "num": 408256,
+        "word": "彭高ins回关孙乐言",
+        "onboard_time": 1730985443,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347249,
+        "num": 347249,
+        "word": "军队文职",
+        "onboard_time": 1730983462,
+        "rank": 8,
+        "category": "军事,教育"
+      },
+      {
+        "raw_hot": 237107,
+        "num": 237107,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1149678,
+        "num": 229612,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445090,
+        "num": 227057,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 508800,
+        "num": 219861,
+        "word": "恋综 诈骗",
+        "onboard_time": 1730978603,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418750,
+        "num": 205815,
+        "word": "费启鸣 永夜星河",
+        "onboard_time": 1730980822,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202615,
+        "num": 202615,
+        "word": "李娜回应郑钦文不与选手交友",
+        "onboard_time": 1730972659,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313279,
+        "num": 202321,
+        "word": "丁禹兮人生镜头",
+        "onboard_time": 1730980343,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262411,
+        "num": 201948,
+        "word": "爆料叶珂索要2.7亿分手费博主被起诉",
+        "onboard_time": 1730981421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181654,
+        "num": 181654,
+        "word": "招生简章把港澳列入国家川大将追责",
+        "onboard_time": 1730966660,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179099,
+        "num": 179099,
+        "word": "8岁娃扔玩具被终身禁入熊猫基地",
+        "onboard_time": 1730971999,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152331,
+        "num": 178672,
+        "word": "Ning疑似内涵王多多",
+        "onboard_time": 1730976023,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31177,
+        "num": 177688,
+        "word": "河北美院数亿巨债风波",
+        "onboard_time": 1730984843,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335118,
+        "num": 176618,
+        "word": "35岁女生花70万在英国留学一年",
+        "onboard_time": 1730984362,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278354,
+        "num": 175928,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261640,
+        "num": 174435,
+        "word": "黄晓明未删与叶珂官宣微博",
+        "onboard_time": 1730985202,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118044,
+        "num": 173778,
+        "word": "歼15T结合新型隐身舰载机作战更丰富",
+        "onboard_time": 1730985983,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 258336,
+        "num": 172936,
+        "word": "蒋欣演技 拿奖",
+        "onboard_time": 1730986043,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244190,
+        "num": 171683,
+        "word": "林俊杰FinalLap官宣",
+        "onboard_time": 1730983762,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219315,
+        "num": 170840,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212901,
+        "num": 169040,
+        "word": "彭高 真诚",
+        "onboard_time": 1730979504,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205323,
+        "num": 168391,
+        "word": "陈妍希戴婚戒逛商场",
+        "onboard_time": 1730981182,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41465,
+        "num": 167218,
+        "word": "钱天一vs伊藤美诚",
+        "onboard_time": 1730985502,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195869,
+        "num": 166511,
+        "word": "鞠婧祎饺子没吃玩头发了",
+        "onboard_time": 1730986283,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64033,
+        "num": 165840,
+        "word": "黄玲庄筱婷母女的双向奔赴",
+        "onboard_time": 1730985322,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164885,
+        "num": 164885,
+        "word": "永夜星河",
+        "onboard_time": 1730975482,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108972,
+        "num": 158232,
+        "word": "中马关系前景光明未来可期",
+        "onboard_time": 1730986223,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157282,
+        "num": 157282,
+        "word": "县城贵妇悄悄买走上亿元皮草",
+        "onboard_time": 1730974761,
+        "rank": 35,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 153227,
+        "num": 153227,
+        "word": "王凯 这就是我不发朋友圈的原因",
+        "onboard_time": 1730975904,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145808,
+        "num": 145808,
+        "word": "父亲跳河救失足落水女儿不幸溺亡",
+        "onboard_time": 1730985382,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144786,
+        "num": 144786,
+        "word": "小巷人家",
+        "onboard_time": 1730982682,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139537,
+        "num": 139537,
+        "word": "杨幂与国旗同框",
+        "onboard_time": 1730972359,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132991,
+        "num": 132991,
+        "word": "踹打多名学生的女教师已被停课",
+        "onboard_time": 1730984543,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131037,
+        "num": 131037,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130967,
+        "num": 130967,
+        "word": "时代少年团七个人分八个瑞士卷",
+        "onboard_time": 1730980222,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130452,
+        "num": 130452,
+        "word": "曝网易游戏多名高管被带走调查",
+        "onboard_time": 1730976683,
+        "rank": 43,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 64458,
+        "num": 130228,
+        "word": "嚎哭深渊爆改进步之桥",
+        "onboard_time": 1730985141,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130172,
+        "num": 130172,
+        "word": "再见爱人4制片人感谢张泉灵",
+        "onboard_time": 1730980582,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129306,
+        "num": 129306,
+        "word": "赵露思直播",
+        "onboard_time": 1730986403,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127699,
+        "num": 127699,
+        "word": "林靖恩偷喝5元饮料被罚款",
+        "onboard_time": 1730983103,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124987,
+        "num": 124987,
+        "word": "我军首部战地记者宣传片",
+        "onboard_time": 1730986644,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20916,
+        "num": 124870,
+        "word": "当代年轻人立冬好运四件套",
+        "onboard_time": 1730983701,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记嘱托加强和创新基层社会治理#"
+    }
+  }
+}

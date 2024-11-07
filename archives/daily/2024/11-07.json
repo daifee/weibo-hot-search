@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730986007385,
+  "endTime": 1730986697926,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6923819,
+      "num": 6923819,
+      "word": "鹿晗删了宣传关晓彤新剧微博",
+      "onboard_time": 1730985382,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 5648647,
       "num": 1198881,
       "word": "特朗普称要立刻封锁边境",
@@ -33,14 +41,6 @@
       "onboard_time": 1730954062,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 3389280,
-      "num": 515614,
-      "word": "鹿晗删了宣传关晓彤新剧微博",
-      "onboard_time": 1730985382,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2894658,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1850903,
+      "num": 451180,
+      "word": "彭高ins回关孙乐言",
+      "onboard_time": 1730985443,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1737223,
       "num": 1737223,
       "word": "哈里斯称接受败选结果",
@@ -137,14 +145,6 @@
       "onboard_time": 1730949380,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1613024,
-      "num": 451180,
-      "word": "彭高ins回关孙乐言",
-      "onboard_time": 1730985443,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1466696,
@@ -1131,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278354,
+      "num": 253857,
+      "word": "女子11元拍到海景房险些被老公拒收",
+      "onboard_time": 1730985623,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275879,
       "num": 275879,
       "word": "寄明月MV",
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261640,
+      "num": 232384,
+      "word": "黄晓明未删与叶珂官宣微博",
+      "onboard_time": 1730985202,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260947,
       "num": 421713,
       "word": "尹锡悦与特朗普通电话",
@@ -1203,12 +1219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253857,
-      "num": 253857,
-      "word": "女子11元拍到海景房险些被老公拒收",
-      "onboard_time": 1730985623,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 258336,
+      "num": 172936,
+      "word": "蒋欣演技 拿奖",
+      "onboard_time": 1730986043,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 248860,
@@ -1241,14 +1257,6 @@
       "onboard_time": 1730934738,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239428,
-      "num": 232384,
-      "word": "黄晓明未删与叶珂官宣微博",
-      "onboard_time": 1730985202,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 236089,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1730970080,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195869,
+      "num": 166511,
+      "word": "鞠婧祎饺子没吃玩头发了",
+      "onboard_time": 1730986283,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 193959,
@@ -1971,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145808,
+      "num": 145808,
+      "word": "父亲跳河救失足落水女儿不幸溺亡",
+      "onboard_time": 1730985382,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145631,
       "num": 155938,
       "word": "祝绪丹剧里剧外都正的发邪",
@@ -2067,14 +2091,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137588,
-      "num": 137588,
-      "word": "父亲跳河救失足落水女儿不幸溺亡",
-      "onboard_time": 1730985382,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133869,
       "num": 133869,
       "word": "第五人格",
@@ -2088,6 +2104,14 @@
       "word": "你好冬天",
       "onboard_time": 1730935518,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132991,
+      "num": 340897,
+      "word": "踹打多名学生的女教师已被停课",
+      "onboard_time": 1730984543,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2139,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129306,
+      "num": 129306,
+      "word": "赵露思直播",
+      "onboard_time": 1730986403,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129187,
       "num": 129187,
       "word": "河南一医院发生爆炸一名医生身亡",
@@ -2172,10 +2204,18 @@
     },
     {
       "raw_hot": 125335,
-      "num": 125335,
+      "num": 173778,
       "word": "歼15T结合新型隐身舰载机作战更丰富",
       "onboard_time": 1730985983,
       "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 124987,
+      "num": 124987,
+      "word": "我军首部战地记者宣传片",
+      "onboard_time": 1730986644,
+      "rank": 48,
       "category": "军事"
     },
     {
@@ -2329,6 +2369,14 @@
       "onboard_time": 1730978002,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108972,
+      "num": 158232,
+      "word": "中马关系前景光明未来可期",
+      "onboard_time": 1730986223,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108728,
@@ -2513,14 +2561,6 @@
       "onboard_time": 1730916612,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83276,
-      "num": 340897,
-      "word": "踹打多名学生的女教师已被停课",
-      "onboard_time": 1730984543,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79167,
@@ -2899,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41465,
+      "num": 380500,
+      "word": "钱天一vs伊藤美诚",
+      "onboard_time": 1730985502,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40577,
       "num": 260132,
       "word": "你有多久没听到叫卖声了",
@@ -3091,7 +3139,7 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 31042,
+      "raw_hot": 31177,
       "num": 371769,
       "word": "河北美院数亿巨债风波",
       "onboard_time": 1730984843,
@@ -3153,14 +3201,6 @@
       "onboard_time": 1730982382,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26069,
-      "num": 380500,
-      "word": "钱天一vs伊藤美诚",
-      "onboard_time": 1730985502,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 25771,
@@ -3243,12 +3283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21157,
-      "num": 552496,
+      "raw_hot": 21898,
+      "num": 560327,
       "word": "落叶一点点描出冬的模样",
       "onboard_time": 1730984903,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20916,
+      "num": 127533,
+      "word": "当代年轻人立冬好运四件套",
+      "onboard_time": 1730983701,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 20545,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1730967320,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19955,
-      "num": 127533,
-      "word": "当代年轻人立冬好运四件套",
-      "onboard_time": 1730983701,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 19779,
