@@ -1,0 +1,410 @@
+{
+  "runTime": 1730947891264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1054849,
+        "num": 1568365,
+        "word": "金价跳水了",
+        "onboard_time": 1730900063,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 961922,
+        "num": 961922,
+        "word": "被救妻子至今不知丈夫已去世",
+        "onboard_time": 1730935817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7174,
+        "num": 894243,
+        "word": "数读我国防沙治沙成绩单",
+        "onboard_time": 1730896281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4794045,
+        "num": 893567,
+        "word": "特朗普称要立刻封锁边境",
+        "onboard_time": 1730945179,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1023836,
+        "num": 893310,
+        "word": "马斯克要求台湾供应商搬出台湾",
+        "onboard_time": 1730934377,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 887341,
+        "num": 887341,
+        "word": "哈里斯称接受败选结果",
+        "onboard_time": 1730935159,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 833162,
+        "num": 833162,
+        "word": "蜂花 真假闺蜜",
+        "onboard_time": 1730942658,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 521745,
+        "num": 830994,
+        "word": "凌妙妙剧透大结局没人信",
+        "onboard_time": 1730943380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155776,
+        "num": 829130,
+        "word": "李佩霞案开庭",
+        "onboard_time": 1730946978,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271720,
+        "num": 823928,
+        "word": "陈都灵 扇耳光当然要快",
+        "onboard_time": 1730936899,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1139202,
+        "num": 820143,
+        "word": "生过孩子的姐妹嘴真严啊",
+        "onboard_time": 1730940921,
+        "rank": 10,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 914691,
+        "num": 815690,
+        "word": "特朗普胜选后谈暗杀",
+        "onboard_time": 1730935097,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 814633,
+        "num": 814633,
+        "word": "LadyGaga",
+        "onboard_time": 1730944218,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822217,
+        "num": 804443,
+        "word": "拜登为卸任之后生活做准备",
+        "onboard_time": 1730941939,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 545603,
+        "num": 545603,
+        "word": "发型师晓华3天只睡了1个半小时",
+        "onboard_time": 1730945780,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342393,
+        "num": 539806,
+        "word": "杨蓉好美的女明星 魏晨也是个岛民",
+        "onboard_time": 1730947159,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192081,
+        "num": 533107,
+        "word": "李家的功臣麦琳",
+        "onboard_time": 1730941041,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175156,
+        "num": 528908,
+        "word": "永夜星河加更",
+        "onboard_time": 1730935758,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170794,
+        "num": 522177,
+        "word": "赵露思不想让珠帘玉幕留遗憾",
+        "onboard_time": 1730937799,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24332,
+        "num": 513541,
+        "word": "立冬1分钱抢11万份鸡蛋",
+        "onboard_time": 1730945478,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 846427,
+        "num": 505318,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 500930,
+        "num": 500930,
+        "word": "立冬",
+        "onboard_time": 1730934677,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472452,
+        "num": 472452,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 377511,
+        "num": 377511,
+        "word": "美司法部考虑结束针对特朗普的刑案",
+        "onboard_time": 1730945900,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 373535,
+        "num": 373535,
+        "word": "银行人下班一看天塌了",
+        "onboard_time": 1730941760,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286743,
+        "num": 372911,
+        "word": "白鹿赵露思去年vs今年",
+        "onboard_time": 1730945298,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 372357,
+        "word": "小巷人家里只有李佳没有家",
+        "onboard_time": 1730935817,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130098,
+        "num": 371812,
+        "word": "郝蕾回应演员能不能直播带货",
+        "onboard_time": 1730909899,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160438,
+        "num": 371078,
+        "word": "歼35A意味着以后可能还有B和C",
+        "onboard_time": 1730946680,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29793,
+        "num": 370534,
+        "word": "见非凡访谈中国天眼总工程师",
+        "onboard_time": 1730946919,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370410,
+        "num": 370410,
+        "word": "蜂花",
+        "onboard_time": 1730946619,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 366717,
+        "num": 366717,
+        "word": "特朗普拜登将讨论总统权力交接事宜",
+        "onboard_time": 1730943140,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226486,
+        "num": 343437,
+        "word": "烧伤妈妈丈夫准备直播开橱窗卖货",
+        "onboard_time": 1730939361,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337671,
+        "num": 337671,
+        "word": "中国人吃掉了智利91%的车厘子",
+        "onboard_time": 1730940322,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297727,
+        "num": 297727,
+        "word": "俄方不对美国新当选总统抱有幻想",
+        "onboard_time": 1730944338,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232516,
+        "num": 232516,
+        "word": "马斯克稳居全球首富宝座",
+        "onboard_time": 1730944760,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196148,
+        "num": 196148,
+        "word": "立冬四件套",
+        "onboard_time": 1730943860,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196094,
+        "num": 196094,
+        "word": "官方回应4名年轻公职人员遇车祸身亡",
+        "onboard_time": 1730908641,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190603,
+        "num": 190603,
+        "word": "金饰价格重回7字头",
+        "onboard_time": 1730947460,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22745,
+        "num": 189749,
+        "word": "为什么古人千杯不醉",
+        "onboard_time": 1730946739,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189562,
+        "num": 189562,
+        "word": "特朗普胜选后马斯克身家大涨",
+        "onboard_time": 1730940381,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179309,
+        "num": 179309,
+        "word": "男子不满敬酒顺序太靠后持刀砍人",
+        "onboard_time": 1730936480,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162856,
+        "num": 162856,
+        "word": "天津市考",
+        "onboard_time": 1730947099,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150221,
+        "num": 150221,
+        "word": "王楚钦说一个也发不转",
+        "onboard_time": 1730935817,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138490,
+        "num": 138490,
+        "word": "立冬文案",
+        "onboard_time": 1730934738,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126664,
+        "num": 126664,
+        "word": "王楚钦0比3卡尔伯格",
+        "onboard_time": 1730920391,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115173,
+        "num": 115173,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1730906661,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112602,
+        "num": 112602,
+        "word": "立冬吃羊肉",
+        "onboard_time": 1730947819,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110451,
+        "num": 110451,
+        "word": "杨子不想让父母留遗憾",
+        "onboard_time": 1730947879,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106947,
+        "num": 106947,
+        "word": "冬季第一个节气",
+        "onboard_time": 1730935518,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化湖北篇章#"
+    }
+  }
+}

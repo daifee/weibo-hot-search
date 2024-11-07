@@ -1,10 +1,18 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730944626344,
+  "endTime": 1730947891264,
   "band_list": [
     {
+      "raw_hot": 4794045,
+      "num": 893567,
+      "word": "特朗普称要立刻封锁边境",
+      "onboard_time": 1730945179,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2251316,
-      "num": 840423,
+      "num": 893310,
       "word": "马斯克要求台湾供应商搬出台湾",
       "onboard_time": 1730934377,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1631560,
-      "num": 681815,
+      "num": 820143,
       "word": "生过孩子的姐妹嘴真严啊",
       "onboard_time": 1730940921,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1229668,
-      "num": 735765,
+      "num": 804443,
       "word": "拜登为卸任之后生活做准备",
       "onboard_time": 1730941939,
       "rank": 21,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1085355,
-      "num": 1085355,
+      "num": 1568365,
       "word": "金价跳水了",
       "onboard_time": 1730900063,
       "rank": 0,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 961922,
+      "num": 961922,
+      "word": "被救妻子至今不知丈夫已去世",
+      "onboard_time": 1730935817,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948470,
       "num": 948470,
       "word": "虞书欣向腾讯视频催更",
@@ -123,12 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801579,
-      "num": 801579,
-      "word": "被救妻子至今不知丈夫已去世",
-      "onboard_time": 1730935817,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 833162,
+      "num": 833162,
+      "word": "蜂花 真假闺蜜",
+      "onboard_time": 1730942658,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 814633,
+      "num": 814633,
+      "word": "LadyGaga",
+      "onboard_time": 1730944218,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 700510,
@@ -163,12 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 567688,
-      "num": 567688,
-      "word": "蜂花 真假闺蜜",
-      "onboard_time": 1730942658,
-      "rank": 23,
-      "category": "美妆"
+      "raw_hot": 545603,
+      "num": 545603,
+      "word": "发型师晓华3天只睡了1个半小时",
+      "onboard_time": 1730945780,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521745,
+      "num": 830994,
+      "word": "凌妙妙剧透大结局没人信",
+      "onboard_time": 1730943380,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 515183,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 457973,
-      "num": 748488,
+      "num": 823928,
       "word": "陈都灵 扇耳光当然要快",
       "onboard_time": 1730936899,
       "rank": 8,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 408320,
-      "num": 366576,
+      "num": 373535,
       "word": "银行人下班一看天塌了",
       "onboard_time": 1730941760,
       "rank": 30,
@@ -235,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377511,
+      "num": 377511,
+      "word": "美司法部考虑结束针对特朗普的刑案",
+      "onboard_time": 1730945900,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 375565,
       "num": 563113,
       "word": "赵露思不想让珠帘玉幕留遗憾",
@@ -259,6 +299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 370410,
+      "num": 370410,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 367606,
       "num": 771779,
       "word": "麦麦想要的安全感原来是这样",
@@ -271,6 +319,14 @@
       "num": 345569,
       "word": "嘘国王在冬眠",
       "onboard_time": 1730906661,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342393,
+      "num": 539806,
+      "word": "杨蓉好美的女明星 魏晨也是个岛民",
+      "onboard_time": 1730947159,
       "rank": 15,
       "category": "剧集"
     },
@@ -307,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297727,
+      "num": 297727,
+      "word": "俄方不对美国新当选总统抱有幻想",
+      "onboard_time": 1730944338,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 293341,
       "num": 293341,
       "word": "王楚钦0比3卡尔伯格",
@@ -315,20 +379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289748,
-      "num": 566718,
-      "word": "凌妙妙剧透大结局没人信",
-      "onboard_time": 1730943380,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288292,
       "num": 561940,
       "word": "永夜星河加更",
       "onboard_time": 1730935758,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286743,
+      "num": 372911,
+      "word": "白鹿赵露思去年vs今年",
+      "onboard_time": 1730945298,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 286632,
@@ -387,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236331,
-      "num": 560028,
-      "word": "LadyGaga",
-      "onboard_time": 1730944218,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234266,
       "num": 234266,
       "word": "庄图南选角 王安宇",
@@ -409,6 +465,22 @@
       "onboard_time": 1730941399,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232516,
+      "num": 232516,
+      "word": "马斯克稳居全球首富宝座",
+      "onboard_time": 1730944760,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 226486,
+      "num": 343437,
+      "word": "烧伤妈妈丈夫准备直播开橱窗卖货",
+      "onboard_time": 1730939361,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210867,
@@ -475,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196148,
+      "num": 196148,
+      "word": "立冬四件套",
+      "onboard_time": 1730943860,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
@@ -483,12 +563,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 184925,
-      "num": 184925,
-      "word": "立冬四件套",
-      "onboard_time": 1730943860,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 190603,
+      "num": 190603,
+      "word": "金饰价格重回7字头",
+      "onboard_time": 1730947460,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 179750,
@@ -515,20 +595,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165126,
-      "num": 165126,
-      "word": "烧伤妈妈丈夫准备直播开橱窗卖货",
-      "onboard_time": 1730939361,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163649,
       "num": 163649,
       "word": "60秒看美国总统选举制度",
       "onboard_time": 1730884343,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 162856,
+      "num": 162856,
+      "word": "天津市考",
+      "onboard_time": 1730947099,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 160438,
+      "num": 371078,
+      "word": "歼35A意味着以后可能还有B和C",
+      "onboard_time": 1730946680,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160169,
@@ -545,6 +633,14 @@
       "onboard_time": 1730907200,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 155776,
+      "num": 829130,
+      "word": "李佩霞案开庭",
+      "onboard_time": 1730946978,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154018,
@@ -651,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131855,
-      "num": 131855,
-      "word": "俄方不对美国新当选总统抱有幻想",
-      "onboard_time": 1730944338,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 129376,
       "num": 129376,
       "word": "王楚钦状态",
@@ -745,6 +833,22 @@
       "onboard_time": 1730906242,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112602,
+      "num": 112602,
+      "word": "立冬吃羊肉",
+      "onboard_time": 1730947819,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 110451,
+      "num": 110451,
+      "word": "杨子不想让父母留遗憾",
+      "onboard_time": 1730947879,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110202,
@@ -931,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29793,
+      "num": 370534,
+      "word": "见非凡访谈中国天眼总工程师",
+      "onboard_time": 1730946919,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
@@ -963,11 +1075,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 24332,
+      "num": 513541,
+      "word": "立冬1分钱抢11万份鸡蛋",
+      "onboard_time": 1730945478,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 22935,
       "num": 66069,
       "word": "女子生命只剩仨月当志愿者10年后康复",
       "onboard_time": 1730914693,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22745,
+      "num": 189749,
+      "word": "为什么古人千杯不醉",
+      "onboard_time": 1730946739,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
