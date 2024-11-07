@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730956872972,
+  "endTime": 1730957904831,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -11,8 +11,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 3613561,
-      "num": 816871,
+      "raw_hot": 3730829,
+      "num": 3730829,
       "word": "佩洛西哭了",
       "onboard_time": 1730954062,
       "rank": 8,
@@ -59,20 +59,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1466696,
+      "num": 907070,
+      "word": "景区回应将水龙头设计成生殖器形状",
+      "onboard_time": 1730953702,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1447953,
       "num": 880169,
       "word": "特朗普胜选后谈暗杀",
       "onboard_time": 1730935097,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1399777,
-      "num": 907070,
-      "word": "景区回应将水龙头设计成生殖器形状",
-      "onboard_time": 1730953702,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1286393,
@@ -211,6 +211,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 875666,
+      "num": 487991,
+      "word": "大批网友涌入蜂花账号要求道歉",
+      "onboard_time": 1730955202,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856075,
+      "num": 856075,
+      "word": "蜂花删除争议性动态",
+      "onboard_time": 1730951481,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 829459,
       "num": 829459,
       "word": "贺晓龙 王楚钦需要卧薪尝胆",
@@ -233,14 +249,6 @@
       "onboard_time": 1730947159,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 727887,
-      "num": 727887,
-      "word": "蜂花删除争议性动态",
-      "onboard_time": 1730951481,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 700510,
@@ -331,6 +339,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 496830,
+      "num": 742410,
+      "word": "蜂花发道歉信",
+      "onboard_time": 1730955202,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495751,
+      "num": 495751,
+      "word": "范丞丞回应小巷人家争议",
+      "onboard_time": 1730955742,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 488545,
+      "num": 488545,
+      "word": "杨子 不尊重人",
+      "onboard_time": 1730957239,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457973,
       "num": 823928,
       "word": "陈都灵 扇耳光当然要快",
@@ -339,28 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442160,
-      "num": 442160,
-      "word": "大批网友涌入蜂花账号要求道歉",
-      "onboard_time": 1730955202,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422389,
       "num": 412415,
       "word": "结婚未领证生子男子起诉返还彩礼",
       "onboard_time": 1730901504,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419345,
-      "num": 419345,
-      "word": "范丞丞回应小巷人家争议",
-      "onboard_time": 1730955742,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 412527,
@@ -427,6 +443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 371640,
+      "num": 487965,
+      "word": "王耀庆天生演不了穷人",
+      "onboard_time": 1730956341,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369671,
       "num": 369671,
       "word": "郑钦文被教练反问你是小威吗",
@@ -491,6 +515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 329914,
+      "num": 329914,
+      "word": "蜂花广告被质疑刻意丑化女性",
+      "onboard_time": 1730956101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326035,
       "num": 326035,
       "word": "郑钦文总决赛已狂揽700万奖金",
@@ -507,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320272,
-      "num": 320272,
-      "word": "蜂花广告被质疑刻意丑化女性",
-      "onboard_time": 1730956101,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312647,
       "num": 309075,
       "word": "俄外交部回应美国大选结果",
@@ -528,6 +552,14 @@
       "word": "虞书欣拍刘亦菲",
       "onboard_time": 1730897722,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 301248,
+      "num": 301248,
+      "word": "小巷人家王安宇出场",
+      "onboard_time": 1730957600,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -601,14 +633,6 @@
       "onboard_time": 1730955502,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272113,
-      "num": 742410,
-      "word": "蜂花发道歉信",
-      "onboard_time": 1730955202,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268997,
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219538,
+      "num": 219538,
+      "word": "GOT7将回归",
+      "onboard_time": 1730957660,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211831,
       "num": 547708,
       "word": "G2三顾茅庐请Uzi",
@@ -745,6 +777,14 @@
       "onboard_time": 1730904981,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209853,
+      "num": 209853,
+      "word": "王楚钦比赛疑似发高烧",
+      "onboard_time": 1730957721,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 208937,
@@ -859,8 +899,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 186804,
-      "num": 186804,
+      "raw_hot": 187615,
+      "num": 187615,
       "word": "为什么北方没有人边走路边吃早餐",
       "onboard_time": 1730955981,
       "rank": 47,
@@ -881,6 +921,14 @@
       "onboard_time": 1730948540,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171070,
+      "num": 491375,
+      "word": "邯郸一中学允许女生留长发引热议",
+      "onboard_time": 1730956639,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170636,
@@ -987,14 +1035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 149549,
-      "num": 445381,
-      "word": "邯郸一中学允许女生留长发引热议",
-      "onboard_time": 1730956639,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146171,
       "num": 146171,
       "word": "永夜星河",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1730937439,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145424,
-      "num": 462122,
-      "word": "王耀庆天生演不了穷人",
-      "onboard_time": 1730956341,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 141736,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1730951661,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121978,
+      "num": 311786,
+      "word": "丁禹兮早期长发",
+      "onboard_time": 1730955861,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 121170,
@@ -1251,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98293,
+      "num": 1358910,
+      "word": "公安部网安局提醒切勿随意扫码领礼品",
+      "onboard_time": 1730956220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94864,
       "num": 94864,
       "word": "网友环球影城偶遇宋祖儿",
@@ -1323,6 +1371,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 74423,
+      "num": 372270,
+      "word": "4K影像回顾中国航展高燃瞬间",
+      "onboard_time": 1730957839,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74260,
       "num": 81805,
       "word": "王楚钦vs卡尔伯格",
@@ -1363,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59364,
+      "num": 413810,
+      "word": "唐九洲支持虞书欣新剧",
+      "onboard_time": 1730955681,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50313,
       "num": 594682,
       "word": "还有没有必要买学区房",
@@ -1393,14 +1457,6 @@
       "onboard_time": 1730913555,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45567,
-      "num": 956889,
-      "word": "公安部网安局提醒切勿随意扫码领礼品",
-      "onboard_time": 1730956220,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44368,
@@ -1467,12 +1523,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34026,
+      "num": 488791,
+      "word": "死亡游戏为什么死灰复燃",
+      "onboard_time": 1730957419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33658,
       "num": 31764,
       "word": "超七成美国人不满国家走向",
       "onboard_time": 1730923991,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 33255,
+      "num": 487562,
+      "word": "车主称奥迪新车开几十米就跑偏",
+      "onboard_time": 1730957300,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33102,
@@ -1499,8 +1571,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30601,
+      "num": 651448,
+      "word": "和王俊凯一起凯启幸运",
+      "onboard_time": 1730952321,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29263,
-      "num": 278468,
+      "num": 491693,
       "word": "小鹏P7+价格",
       "onboard_time": 1730956220,
       "rank": 36,
@@ -1529,14 +1609,6 @@
       "onboard_time": 1730953642,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26896,
-      "num": 651448,
-      "word": "和王俊凯一起凯启幸运",
-      "onboard_time": 1730952321,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 25771,
@@ -1619,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15505,
+      "num": 268396,
+      "word": "立冬换个毛绒绒图标",
+      "onboard_time": 1730956161,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13417,
       "num": 77235,
       "word": "神十八载人飞行任务全记录",
@@ -1641,14 +1721,6 @@
       "onboard_time": 1730898321,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8888,
-      "num": 268396,
-      "word": "立冬换个毛绒绒图标",
-      "onboard_time": 1730956161,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 7504,

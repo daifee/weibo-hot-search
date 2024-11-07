@@ -1,0 +1,410 @@
+{
+  "runTime": 1730957904831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3730829,
+        "num": 3730829,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2151046,
+        "num": 2151046,
+        "word": "蜂花",
+        "onboard_time": 1730946619,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98293,
+        "num": 1358910,
+        "word": "公安部网安局提醒切勿随意扫码领礼品",
+        "onboard_time": 1730956220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856075,
+        "num": 856075,
+        "word": "蜂花删除争议性动态",
+        "onboard_time": 1730951481,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 846635,
+        "num": 846635,
+        "word": "权志龙晒茅台酒",
+        "onboard_time": 1730954302,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735422,
+        "num": 735422,
+        "word": "马斯克要求台湾供应商搬出台湾",
+        "onboard_time": 1730934377,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 687442,
+        "num": 687442,
+        "word": "拜登政府被爆计划快速对乌提供剩余援助",
+        "onboard_time": 1730949380,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 610500,
+        "num": 610500,
+        "word": "刘诗诗牵儿子手逛街",
+        "onboard_time": 1730955381,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496830,
+        "num": 496830,
+        "word": "蜂花发道歉信",
+        "onboard_time": 1730955202,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495751,
+        "num": 495751,
+        "word": "范丞丞回应小巷人家争议",
+        "onboard_time": 1730955742,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1770601,
+        "num": 495436,
+        "word": "特朗普称要立刻封锁边境",
+        "onboard_time": 1730945179,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1466696,
+        "num": 493772,
+        "word": "景区回应将水龙头设计成生殖器形状",
+        "onboard_time": 1730953702,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26602,
+        "num": 491693,
+        "word": "小鹏P7+价格",
+        "onboard_time": 1730956220,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171070,
+        "num": 491375,
+        "word": "邯郸一中学允许女生留长发引热议",
+        "onboard_time": 1730956639,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34026,
+        "num": 488791,
+        "word": "死亡游戏为什么死灰复燃",
+        "onboard_time": 1730957419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488545,
+        "num": 488545,
+        "word": "杨子 不尊重人",
+        "onboard_time": 1730957239,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450899,
+        "num": 488537,
+        "word": "杨蓉好美的女明星 魏晨也是个岛民",
+        "onboard_time": 1730947159,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 875666,
+        "num": 487991,
+        "word": "大批网友涌入蜂花账号要求道歉",
+        "onboard_time": 1730955202,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371640,
+        "num": 487965,
+        "word": "王耀庆天生演不了穷人",
+        "onboard_time": 1730956341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33255,
+        "num": 487562,
+        "word": "车主称奥迪新车开几十米就跑偏",
+        "onboard_time": 1730957300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711226,
+        "num": 487366,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 487097,
+        "num": 487097,
+        "word": "贺晓龙 王楚钦需要卧薪尝胆",
+        "onboard_time": 1730950941,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365537,
+        "num": 420872,
+        "word": "开始补大理寺少卿游",
+        "onboard_time": 1730949740,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59364,
+        "num": 413810,
+        "word": "唐九洲支持虞书欣新剧",
+        "onboard_time": 1730955681,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412948,
+        "num": 412948,
+        "word": "发型师晓华3天只睡了1个半小时",
+        "onboard_time": 1730945780,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384561,
+        "num": 384561,
+        "word": "男子偷7斤榴莲给老婆吃被行拘7天",
+        "onboard_time": 1730949321,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143506,
+        "num": 384120,
+        "word": "时代少年团养成系的具象化",
+        "onboard_time": 1730953401,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 383954,
+        "num": 383954,
+        "word": "被救妻子至今不知丈夫已去世",
+        "onboard_time": 1730935817,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342943,
+        "num": 373055,
+        "word": "盯虞兮",
+        "onboard_time": 1730948421,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74423,
+        "num": 372270,
+        "word": "4K影像回顾中国航展高燃瞬间",
+        "onboard_time": 1730957839,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371854,
+        "num": 371854,
+        "word": "特朗普胜选后谈暗杀",
+        "onboard_time": 1730935097,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363714,
+        "num": 363714,
+        "word": "蜂花 真假闺蜜",
+        "onboard_time": 1730942658,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 329914,
+        "num": 329914,
+        "word": "蜂花广告被质疑刻意丑化女性",
+        "onboard_time": 1730956101,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121978,
+        "num": 311786,
+        "word": "丁禹兮早期长发",
+        "onboard_time": 1730955861,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30601,
+        "num": 306245,
+        "word": "和王俊凯一起凯启幸运",
+        "onboard_time": 1730952321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304301,
+        "num": 304301,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 301248,
+        "num": 301248,
+        "word": "小巷人家王安宇出场",
+        "onboard_time": 1730957600,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265659,
+        "num": 265659,
+        "word": "陈都灵 来都来了都不白来",
+        "onboard_time": 1730952381,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244129,
+        "num": 244129,
+        "word": "刘丁硕说王楚钦压力太大了",
+        "onboard_time": 1730955080,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239791,
+        "num": 239791,
+        "word": "金价跳水了",
+        "onboard_time": 1730900063,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15505,
+        "num": 238338,
+        "word": "立冬换个毛绒绒图标",
+        "onboard_time": 1730956161,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237281,
+        "num": 237281,
+        "word": "王楚钦 总会有属于自己的那条路",
+        "onboard_time": 1730952021,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220776,
+        "num": 220776,
+        "word": "寄明月MV",
+        "onboard_time": 1730955502,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219538,
+        "num": 219538,
+        "word": "GOT7将回归",
+        "onboard_time": 1730957660,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218934,
+        "num": 218934,
+        "word": "生过孩子的姐妹嘴真严啊",
+        "onboard_time": 1730940921,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 209853,
+        "num": 209853,
+        "word": "王楚钦比赛疑似发高烧",
+        "onboard_time": 1730957721,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208568,
+        "num": 208568,
+        "word": "银行人下班一看天塌了",
+        "onboard_time": 1730941760,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187615,
+        "num": 187615,
+        "word": "为什么北方没有人边走路边吃早餐",
+        "onboard_time": 1730955981,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184733,
+        "num": 184733,
+        "word": "美司法部考虑结束针对特朗普的刑案",
+        "onboard_time": 1730945900,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184357,
+        "num": 184357,
+        "word": "特朗普拜登将讨论总统权力交接事宜",
+        "onboard_time": 1730943140,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好社会工作是全党共同责任#"
+    }
+  }
+}
