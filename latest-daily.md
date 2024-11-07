@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/08 00:27:59 ~ 2024/11/08 02:29:17
+本榜单时间：2024/11/08 00:27:59 ~ 2024/11/08 02:42:34
 </p>
 </blockquote>
 <p>
@@ -358,7 +358,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%B4%AA%E6%96%87%E6%97%85%E5%89%AF%E5%B1%80%E9%95%BF%E4%B8%BA%E8%A7%86%E9%A2%91%E7%BE%8E%E9%A2%9C%E8%87%B4%E6%AD%89%23" target="weibo">
-于洪文旅副局长为视频美颜致歉（热度：48427）
+于洪文旅副局长为视频美颜致歉（热度：52481）
 </a>
 </li>
 
@@ -389,6 +389,18 @@ papi酱 杨子假装在戏弄人间（热度：32500）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AAvs%E8%90%A8%E9%A9%AC%E6%8B%89%23" target="weibo">
 王艺迪vs萨马拉（热度：29702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%89%87%E5%9C%BA%E5%93%AD%E6%88%8F%E8%8A%B1%E7%B5%AE%23" target="weibo">
+赵露思片场哭戏花絮（热度：23030）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%9C%82%E8%8A%B1%E5%90%88%E4%BD%9C%E6%8F%92%E7%94%BB%E5%B8%88%E6%89%80%E5%9C%A8MCN%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%23" target="weibo">
+与蜂花合作插画师所在MCN公司回应（热度：20866）
 </a>
 </li>
 
