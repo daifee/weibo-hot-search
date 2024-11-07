@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730978392575,
+  "endTime": 1730979339001,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -67,20 +67,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 10251133,
+      "num": 444548,
+      "word": "彭高翁青雅分手",
+      "onboard_time": 1730977043,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10078252,
       "num": 10078252,
       "word": "瑞士卷当事人称非常后悔并抱歉",
       "onboard_time": 1730814262,
       "rank": 0,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 9156271,
-      "num": 444548,
-      "word": "彭高翁青雅分手",
-      "onboard_time": 1730977043,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 8517226,
@@ -2563,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790516,
+      "num": 356929,
+      "word": "恋综 诈骗",
+      "onboard_time": 1730978603,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 789810,
       "num": 789810,
       "word": "6岁女孩冷冻卵巢组织免化疗损害",
@@ -3323,6 +3331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 637844,
+      "num": 637844,
+      "word": "中国买家拍下一块77年前的蛋糕",
+      "onboard_time": 1730975602,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 637649,
       "num": 362947,
       "word": "特朗普哈里斯展开总统竞选最后一搏",
@@ -3795,14 +3811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586355,
-      "num": 586355,
-      "word": "中国买家拍下一块77年前的蛋糕",
-      "onboard_time": 1730975602,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 585860,
       "num": 585860,
       "word": "烧伤妈妈哭着说我要回家",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1730871563,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 547813,
+      "num": 472889,
+      "word": "高雅CP",
+      "onboard_time": 1730977822,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 547504,
@@ -5289,6 +5305,14 @@
       "onboard_time": 1730699000,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420415,
+      "num": 478903,
+      "word": "王凯 这就是我不发朋友圈的原因",
+      "onboard_time": 1730975904,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 420075,
@@ -6491,14 +6515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333733,
-      "num": 478903,
-      "word": "王凯 这就是我不发朋友圈的原因",
-      "onboard_time": 1730975904,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333277,
       "num": 333277,
       "word": "乌克兰朝鲜",
@@ -6801,6 +6817,14 @@
       "onboard_time": 1730888784,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314072,
+      "num": 314072,
+      "word": "特朗普小儿子或成美政坛新星",
+      "onboard_time": 1730976324,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 314058,
@@ -8355,6 +8379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241775,
+      "num": 319092,
+      "word": "心动的信号",
+      "onboard_time": 1730695462,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241763,
       "num": 241763,
       "word": "白桃星座",
@@ -9089,14 +9121,6 @@
       "onboard_time": 1730727321,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 218005,
-      "num": 472889,
-      "word": "高雅CP",
-      "onboard_time": 1730977822,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 217220,
@@ -10729,14 +10753,6 @@
       "onboard_time": 1730554099,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190580,
-      "num": 190580,
-      "word": "心动的信号",
-      "onboard_time": 1730695462,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 190555,
@@ -13515,6 +13531,14 @@
       "category": "运动健身,时尚"
     },
     {
+      "raw_hot": 150190,
+      "num": 150190,
+      "word": "来自胖妞的压迫感",
+      "onboard_time": 1730978723,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 150132,
       "num": 150132,
       "word": "永夜星河第11集好燃",
@@ -14323,6 +14347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139468,
+      "num": 139468,
+      "word": "凌妙妙中了熊猫烧香",
+      "onboard_time": 1730979082,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139249,
       "num": 344136,
       "word": "美总统大选最后冲刺",
@@ -14755,6 +14787,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132939,
+      "num": 132939,
+      "word": "虞书欣头像",
+      "onboard_time": 1730979023,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132936,
+      "num": 132936,
+      "word": "高端的战机只需一把朴实无华的锁",
+      "onboard_time": 1730977882,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132401,
       "num": 132401,
       "word": "迎接神十八航天员回家",
@@ -14857,14 +14905,6 @@
       "onboard_time": 1730516898,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131008,
-      "num": 131008,
-      "word": "高端的战机只需一把朴实无华的锁",
-      "onboard_time": 1730977882,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 130874,
@@ -16195,6 +16235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109884,
+      "num": 470789,
+      "word": "卡尔伯格说王楚钦状态可能不是很好",
+      "onboard_time": 1730978002,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "神十八3人下周一回地球",
@@ -16321,6 +16369,14 @@
       "onboard_time": 1730533036,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108728,
+      "num": 366755,
+      "word": "张煜东呼吁给王楚钦一些空间和包容",
+      "onboard_time": 1730979202,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 108611,
@@ -16779,6 +16835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97974,
+      "num": 477959,
+      "word": "现在联系到人工客服怎么这么难",
+      "onboard_time": 1730977943,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97896,
       "num": 126300,
       "word": "阮小咪说与赵牧辰产生了隔阂",
@@ -16921,14 +16985,6 @@
       "onboard_time": 1730663112,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 93849,
-      "num": 470789,
-      "word": "卡尔伯格说王楚钦状态可能不是很好",
-      "onboard_time": 1730978002,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 93098,
@@ -18067,6 +18123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59313,
+      "num": 459615,
+      "word": "无畏立冬让吃好喝好",
+      "onboard_time": 1730978063,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59263,
       "num": 59263,
       "word": "神十八航天员全部顺利出舱",
@@ -18401,14 +18465,6 @@
       "onboard_time": 1730967500,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51110,
-      "num": 459615,
-      "word": "无畏立冬让吃好喝好",
-      "onboard_time": 1730978063,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 51074,
@@ -18867,6 +18923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42383,
+      "num": 353186,
+      "word": "吴磊哭戏",
+      "onboard_time": 1730978663,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42372,
       "num": 333312,
       "word": "伊能静谈儿子恩利仿妆",
@@ -19187,6 +19251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38109,
+      "num": 326860,
+      "word": "幸运咖咖啡界的蜜雪冰城",
+      "onboard_time": 1730976084,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 38049,
       "num": 239689,
       "word": "郑钦文谈萨巴伦卡今年表现",
@@ -19216,14 +19288,6 @@
       "word": "姐姐追凶结束后想让弟弟跟爸爸合葬",
       "onboard_time": 1730486832,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37872,
-      "num": 477959,
-      "word": "现在联系到人工客服怎么这么难",
-      "onboard_time": 1730977943,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -19281,6 +19345,14 @@
       "onboard_time": 1730811082,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37251,
+      "num": 463583,
+      "word": "再有钱也别买这几样化妆品",
+      "onboard_time": 1730977223,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 37208,
@@ -19497,6 +19569,14 @@
       "onboard_time": 1730439139,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34527,
+      "num": 468289,
+      "word": "专家回应游客在湖南太浮山发现文物",
+      "onboard_time": 1730978243,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34502,
@@ -19801,14 +19881,6 @@
       "onboard_time": 1730816543,
       "rank": 28,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 30903,
-      "num": 468289,
-      "word": "专家回应游客在湖南太浮山发现文物",
-      "onboard_time": 1730978243,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30889,
@@ -20435,14 +20507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23668,
-      "num": 326860,
-      "word": "幸运咖咖啡界的蜜雪冰城",
-      "onboard_time": 1730976084,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 23658,
       "num": 342367,
       "word": "盘点与丝芭涉诉纠纷艺人",
@@ -20577,14 +20641,6 @@
       "onboard_time": 1730624418,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 22552,
-      "num": 463583,
-      "word": "再有钱也别买这几样化妆品",
-      "onboard_time": 1730977223,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 22456,

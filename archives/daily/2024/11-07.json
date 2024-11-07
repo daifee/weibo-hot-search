@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730978392575,
+  "endTime": 1730979339001,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9156271,
+      "raw_hot": 10251133,
       "num": 444548,
       "word": "彭高翁青雅分手",
       "onboard_time": 1730977043,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790516,
+      "num": 356929,
+      "word": "恋综 诈骗",
+      "onboard_time": 1730978603,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787200,
       "num": 887801,
       "word": "杨蓉好美的女明星 魏晨也是个岛民",
@@ -441,6 +449,14 @@
       "onboard_time": 1730955381,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637844,
+      "num": 637844,
+      "word": "中国买家拍下一块77年前的蛋糕",
+      "onboard_time": 1730975602,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 637006,
@@ -515,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586355,
-      "num": 586355,
-      "word": "中国买家拍下一块77年前的蛋糕",
-      "onboard_time": 1730975602,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 584644,
       "num": 634636,
       "word": "盯虞兮",
@@ -545,6 +553,14 @@
       "onboard_time": 1730909179,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 547813,
+      "num": 472889,
+      "word": "高雅CP",
+      "onboard_time": 1730977822,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 547175,
@@ -641,6 +657,14 @@
       "onboard_time": 1730901504,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420415,
+      "num": 478903,
+      "word": "王凯 这就是我不发朋友圈的原因",
+      "onboard_time": 1730975904,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 420075,
@@ -819,14 +843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 333733,
-      "num": 478903,
-      "word": "王凯 这就是我不发朋友圈的原因",
-      "onboard_time": 1730975904,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329914,
       "num": 329914,
       "word": "蜂花广告被质疑刻意丑化女性",
@@ -865,6 +881,14 @@
       "onboard_time": 1730974761,
       "rank": 48,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 314072,
+      "num": 314072,
+      "word": "特朗普小儿子或成美政坛新星",
+      "onboard_time": 1730976324,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 312647,
@@ -1091,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241775,
+      "num": 319092,
+      "word": "心动的信号",
+      "onboard_time": 1730978423,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240554,
       "num": 240554,
       "word": "立冬文案",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1730957660,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218005,
-      "num": 472889,
-      "word": "高雅CP",
-      "onboard_time": 1730977822,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 214830,
@@ -1747,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150190,
+      "num": 150190,
+      "word": "来自胖妞的压迫感",
+      "onboard_time": 1730978723,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 149717,
       "num": 149717,
       "word": "华为固态电池专利公布",
@@ -1827,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139468,
+      "num": 139468,
+      "word": "凌妙妙中了熊猫烧香",
+      "onboard_time": 1730979082,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139191,
       "num": 707375,
       "word": "市监所2名骂人员工被停职",
@@ -1859,20 +1899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132939,
+      "num": 132939,
+      "word": "虞书欣头像",
+      "onboard_time": 1730979023,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132936,
+      "num": 132936,
+      "word": "高端的战机只需一把朴实无华的锁",
+      "onboard_time": 1730977882,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132696,
       "num": 132696,
       "word": "网曝中学老师被拖欠工资集体罢课",
       "onboard_time": 1730903363,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131008,
-      "num": 131008,
-      "word": "高端的战机只需一把朴实无华的锁",
-      "onboard_time": 1730977882,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 130751,
@@ -2035,6 +2083,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 109884,
+      "num": 470789,
+      "word": "卡尔伯格说王楚钦状态可能不是很好",
+      "onboard_time": 1730978002,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108728,
+      "num": 366755,
+      "word": "张煜东呼吁给王楚钦一些空间和包容",
+      "onboard_time": 1730979202,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104569,
       "num": 104569,
       "word": "美国大选",
@@ -2099,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97974,
+      "num": 477959,
+      "word": "现在联系到人工客服怎么这么难",
+      "onboard_time": 1730977943,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97170,
       "num": 217944,
       "word": "麦琳 麦学",
@@ -2113,14 +2185,6 @@
       "onboard_time": 1730906960,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93849,
-      "num": 470789,
-      "word": "卡尔伯格说王楚钦状态可能不是很好",
-      "onboard_time": 1730978002,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 92727,
@@ -2363,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59313,
+      "num": 459615,
+      "word": "无畏立冬让吃好喝好",
+      "onboard_time": 1730978063,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57848,
       "num": 446723,
       "word": "企业退休人员养老金提至3162元",
@@ -2401,14 +2473,6 @@
       "onboard_time": 1730967500,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51110,
-      "num": 459615,
-      "word": "无畏立冬让吃好喝好",
-      "onboard_time": 1730978063,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 50495,
@@ -2483,6 +2547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42383,
+      "num": 353186,
+      "word": "吴磊哭戏",
+      "onboard_time": 1730978663,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41969,
       "num": 592086,
       "word": "何小鹏开AI汽车上火星",
@@ -2523,6 +2595,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 38109,
+      "num": 326860,
+      "word": "幸运咖咖啡界的蜜雪冰城",
+      "onboard_time": 1730976084,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 38049,
       "num": 239689,
       "word": "郑钦文谈萨巴伦卡今年表现",
@@ -2531,20 +2611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37872,
-      "num": 477959,
-      "word": "现在联系到人工客服怎么这么难",
-      "onboard_time": 1730977943,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37555,
       "num": 600264,
       "word": "最不适应立冬的是皮肤",
       "onboard_time": 1730953401,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37251,
+      "num": 463583,
+      "word": "再有钱也别买这几样化妆品",
+      "onboard_time": 1730977223,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 37208,
@@ -2593,6 +2673,14 @@
       "onboard_time": 1730973381,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34527,
+      "num": 468289,
+      "word": "专家回应游客在湖南太浮山发现文物",
+      "onboard_time": 1730978243,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34026,
@@ -2648,14 +2736,6 @@
       "word": "医生提醒瑞士卷不可吃多",
       "onboard_time": 1730920211,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30903,
-      "num": 468289,
-      "word": "专家回应游客在湖南太浮山发现文物",
-      "onboard_time": 1730978243,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2739,14 +2819,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 23668,
-      "num": 326860,
-      "word": "幸运咖咖啡界的蜜雪冰城",
-      "onboard_time": 1730976084,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 23089,
       "num": 155828,
       "word": "提升冬天幸福感的数码好物",
@@ -2777,14 +2849,6 @@
       "onboard_time": 1730946739,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22552,
-      "num": 463583,
-      "word": "再有钱也别买这几样化妆品",
-      "onboard_time": 1730977223,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 22248,
