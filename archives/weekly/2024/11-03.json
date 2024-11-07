@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730947891264,
+  "endTime": 1730948519447,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5648647,
+      "num": 893567,
+      "word": "特朗普称要立刻封锁边境",
+      "onboard_time": 1730945179,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 5637961,
       "num": 494616,
       "word": "特朗普赢下摇摆州北卡罗来纳",
@@ -120,14 +128,6 @@
       "word": "美国大选选举日所有投票结束",
       "onboard_time": 1730873246,
       "rank": 5,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 4794045,
-      "num": 893567,
-      "word": "特朗普称要立刻封锁边境",
-      "onboard_time": 1730945179,
-      "rank": 3,
       "category": "国外时政"
     },
     {
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 1631560,
-      "num": 820143,
+      "num": 881967,
       "word": "生过孩子的姐妹嘴真严啊",
       "onboard_time": 1730940921,
       "rank": 10,
@@ -932,7 +932,7 @@
     },
     {
       "raw_hot": 1280865,
-      "num": 824436,
+      "num": 880169,
       "word": "特朗普胜选后谈暗杀",
       "onboard_time": 1730935097,
       "rank": 45,
@@ -1347,8 +1347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 961922,
-      "num": 961922,
+      "raw_hot": 964710,
+      "num": 964710,
       "word": "被救妻子至今不知丈夫已去世",
       "onboard_time": 1730935817,
       "rank": 40,
@@ -1555,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 889471,
+      "num": 889471,
+      "word": "蜂花 真假闺蜜",
+      "onboard_time": 1730942658,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 883705,
       "num": 479723,
       "word": "王耀庆补上了四万五的花洒",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1730779135,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 833162,
-      "num": 833162,
-      "word": "蜂花 真假闺蜜",
-      "onboard_time": 1730942658,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 830683,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1730859201,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 781175,
+      "num": 781175,
+      "word": "发型师晓华3天只睡了1个半小时",
+      "onboard_time": 1730945780,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779317,
@@ -2051,12 +2059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 683332,
+      "num": 683332,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 682048,
       "num": 682048,
       "word": "瑞士卷怎么分席卷全网老公",
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680920,
+      "num": 680920,
+      "word": "美司法部考虑结束针对特朗普的刑案",
+      "onboard_time": 1730945900,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 677482,
@@ -2803,14 +2827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545603,
-      "num": 545603,
-      "word": "发型师晓华3天只睡了1个半小时",
-      "onboard_time": 1730945780,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 541268,
       "num": 637030,
       "word": "永夜星河第七集 梦回苍兰诀",
@@ -2908,7 +2924,7 @@
     },
     {
       "raw_hot": 521745,
-      "num": 830994,
+      "num": 886112,
       "word": "凌妙妙剧透大结局没人信",
       "onboard_time": 1730943380,
       "rank": 34,
@@ -2993,6 +3009,14 @@
       "onboard_time": 1730885185,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 510010,
+      "num": 887801,
+      "word": "杨蓉好美的女明星 魏晨也是个岛民",
+      "onboard_time": 1730947159,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 509233,
@@ -3875,14 +3899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 377511,
-      "num": 377511,
-      "word": "美司法部考虑结束针对特朗普的刑案",
-      "onboard_time": 1730945900,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 375565,
       "num": 563113,
       "word": "赵露思不想让珠帘玉幕留遗憾",
@@ -3937,14 +3953,6 @@
       "onboard_time": 1730894722,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370410,
-      "num": 370410,
-      "word": "蜂花",
-      "onboard_time": 1730946619,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 370004,
@@ -4201,14 +4209,6 @@
       "onboard_time": 1730722820,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342393,
-      "num": 539806,
-      "word": "杨蓉好美的女明星 魏晨也是个岛民",
-      "onboard_time": 1730947159,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 342057,
@@ -4907,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281650,
+      "num": 281650,
+      "word": "金饰价格重回7字头",
+      "onboard_time": 1730947460,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 280800,
       "num": 280800,
       "word": "教体局通报班主任家长群催缴医保",
@@ -5217,6 +5225,14 @@
       "onboard_time": 1730909779,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258339,
+      "num": 258339,
+      "word": "马斯克稳居全球首富宝座",
+      "onboard_time": 1730944760,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 257922,
@@ -5715,14 +5731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232516,
-      "num": 232516,
-      "word": "马斯克稳居全球首富宝座",
-      "onboard_time": 1730944760,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -6216,6 +6224,14 @@
       "word": "花少坦桑尼亚站",
       "onboard_time": 1730772680,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210094,
+      "num": 677796,
+      "word": "杨子不想让父母留遗憾",
+      "onboard_time": 1730947879,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -6827,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197531,
+      "num": 197531,
+      "word": "立冬四件套",
+      "onboard_time": 1730943860,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197473,
       "num": 220582,
       "word": "看到孩子之间按胸口务必警惕",
@@ -6899,14 +6923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196148,
-      "num": 196148,
-      "word": "立冬四件套",
-      "onboard_time": 1730943860,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195918,
       "num": 195918,
       "word": "Knight单杀Faker",
@@ -6961,6 +6977,14 @@
       "onboard_time": 1730712019,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194840,
+      "num": 283238,
+      "word": "盯虞兮",
+      "onboard_time": 1730948421,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194668,
@@ -7152,14 +7176,6 @@
       "word": "离岸人民币跌破7.17关口",
       "onboard_time": 1730889441,
       "rank": 37,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 190603,
-      "num": 190603,
-      "word": "金饰价格重回7字头",
-      "onboard_time": 1730947460,
-      "rank": 38,
       "category": "财经"
     },
     {
@@ -8668,7 +8684,7 @@
     },
     {
       "raw_hot": 155776,
-      "num": 829130,
+      "num": 884873,
       "word": "李佩霞案开庭",
       "onboard_time": 1730946978,
       "rank": 8,
@@ -10211,6 +10227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119294,
+      "num": 119294,
+      "word": "立冬吃羊肉",
+      "onboard_time": 1730947819,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118948,
       "num": 118948,
       "word": "黄子弘凡黑色薄纱连帽造型",
@@ -10427,20 +10451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112872,
+      "num": 112872,
+      "word": "穿秋裤",
+      "onboard_time": 1730948300,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112866,
       "num": 112866,
       "word": "米饭仙人",
       "onboard_time": 1730802742,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112602,
-      "num": 112602,
-      "word": "立冬吃羊肉",
-      "onboard_time": 1730947819,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 112494,
@@ -10475,6 +10499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111533,
+      "num": 111533,
+      "word": "抚仙湖星空璀璨如梦似幻",
+      "onboard_time": 1730948479,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 111262,
       "num": 341031,
       "word": "暴力威胁成为美国大选主题",
@@ -10497,14 +10529,6 @@
       "onboard_time": 1730804960,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110451,
-      "num": 110451,
-      "word": "杨子不想让父母留遗憾",
-      "onboard_time": 1730947879,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 110202,
@@ -12411,6 +12435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33038,
+      "num": 370534,
+      "word": "见非凡访谈中国天眼总工程师",
+      "onboard_time": 1730946919,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32856,
       "num": 4357457,
       "word": "C919和ARJ21首次双机编队飞行",
@@ -12523,14 +12555,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 29793,
-      "num": 370534,
-      "word": "见非凡访谈中国天眼总工程师",
-      "onboard_time": 1730946919,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29760,
       "num": 323145,
       "word": "美国多数选民担忧暴力及舞弊",
@@ -12603,6 +12627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 28282,
+      "num": 677727,
+      "word": "立冬1分钱抢11万份鸡蛋",
+      "onboard_time": 1730945478,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28212,
       "num": 343392,
       "word": "危机关头你相信智驾吗",
@@ -12633,6 +12665,14 @@
       "onboard_time": 1730815404,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27842,
+      "num": 883785,
+      "word": "A股三大指数全线翻红",
+      "onboard_time": 1730948239,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 27476,
@@ -12793,14 +12833,6 @@
       "onboard_time": 1730615837,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24332,
-      "num": 513541,
-      "word": "立冬1分钱抢11万份鸡蛋",
-      "onboard_time": 1730945478,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 24312,
