@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730968054075,
+  "endTime": 1730968924859,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -19,20 +19,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2661379,
+      "num": 530298,
+      "word": "马斯克接受采访中儿子突然闯进来",
+      "onboard_time": 1730964860,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2534184,
       "num": 2534184,
       "word": "蜂花",
       "onboard_time": 1730946619,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 2485517,
-      "num": 530298,
-      "word": "马斯克接受采访中儿子突然闯进来",
-      "onboard_time": 1730964860,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2251316,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1020700,
+      "num": 1020700,
+      "word": "女童街头遭老人一顿猛踹后被推倒",
+      "onboard_time": 1730966480,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994739,
       "num": 829486,
       "word": "美国可能面临五大变化",
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 893324,
+      "num": 600145,
+      "word": "外交部回应特朗普涉台言论",
+      "onboard_time": 1730966599,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 891648,
       "num": 891648,
       "word": "立冬",
@@ -283,14 +299,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 836621,
-      "num": 600145,
-      "word": "外交部回应特朗普涉台言论",
-      "onboard_time": 1730966599,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 829459,
       "num": 829459,
       "word": "贺晓龙 王楚钦需要卧薪尝胆",
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 762056,
+      "num": 762056,
+      "word": "招生简章把港澳列入国家川大将追责",
+      "onboard_time": 1730966660,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700510,
       "num": 606231,
       "word": "特朗普赢得2024美国大选",
@@ -323,20 +339,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 684476,
+      "num": 684476,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 682104,
       "num": 759016,
       "word": "刘诗诗牵儿子手逛街",
       "onboard_time": 1730955381,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646346,
-      "num": 646346,
-      "word": "金价",
-      "onboard_time": 1730879910,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 637006,
@@ -427,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572292,
-      "num": 572292,
-      "word": "女童街头遭老人一顿猛踹后被推倒",
-      "onboard_time": 1730966480,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547175,
       "num": 691989,
       "word": "井柏然与李荣浩母子聚餐",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 468840,
-      "num": 432210,
+      "num": 447886,
       "word": "红气养猴",
       "onboard_time": 1730965339,
       "rank": 21,
@@ -483,20 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 443713,
-      "num": 443713,
+      "raw_hot": 447067,
+      "num": 447067,
       "word": "永夜星河推出游戏模式",
       "onboard_time": 1730965459,
       "rank": 13,
       "category": "剧集"
     },
     {
-      "raw_hot": 431175,
-      "num": 431175,
-      "word": "招生简章把港澳列入国家川大将追责",
-      "onboard_time": 1730966660,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 446571,
+      "num": 446571,
+      "word": "禹属欣",
+      "onboard_time": 1730965279,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 429194,
@@ -521,6 +529,14 @@
       "onboard_time": 1730889803,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 409713,
+      "num": 409713,
+      "word": "西安一女生称应聘总助被要求陪睡",
+      "onboard_time": 1730968100,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408320,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 311998,
-      "num": 205343,
+      "num": 302082,
       "word": "60岁肺癌女儿为失能父母延迟住院2年",
       "onboard_time": 1730966540,
       "rank": 30,
@@ -843,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264872,
-      "num": 264872,
-      "word": "禹属欣",
-      "onboard_time": 1730965279,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259453,
       "num": 259453,
       "word": "雇主坐牢失联月嫂抚养女婴3年",
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235731,
+      "num": 235731,
+      "word": "轻断食一天吃了十三根玉米",
+      "onboard_time": 1730967020,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235314,
       "num": 235314,
       "word": "光与夜之恋",
@@ -929,6 +945,14 @@
       "onboard_time": 1730963719,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231489,
+      "num": 564588,
+      "word": "马斯克为何抢当特朗普的榜1大哥",
+      "onboard_time": 1730967859,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 229605,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 222517,
-      "num": 222517,
+      "num": 251937,
       "word": "杨子形容黄圣依是整容样板",
       "onboard_time": 1730965821,
       "rank": 28,
@@ -1059,20 +1083,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201506,
+      "num": 445689,
+      "word": "徐明浩直播",
+      "onboard_time": 1730968460,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201480,
       "num": 201480,
       "word": "再见爱人 画师",
       "onboard_time": 1730961202,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200901,
-      "num": 200901,
-      "word": "轻断食一天吃了十三根玉米",
-      "onboard_time": 1730967020,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 200793,
@@ -1179,11 +1203,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182598,
+      "num": 182598,
+      "word": "雪地靴一穿冬天的感觉就来了",
+      "onboard_time": 1730967680,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 179750,
       "num": 179750,
       "word": "冬季第一个节气",
       "onboard_time": 1730935518,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176788,
+      "num": 251923,
+      "word": "杨天真建议上司不要约下属吃饭",
+      "onboard_time": 1730965459,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174353,
+      "num": 174353,
+      "word": "老师在操场踢倒学生扇另一学生头",
+      "onboard_time": 1730966779,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169484,
+      "num": 169484,
+      "word": "黄圣依说没条件展示妻子所有的功能",
+      "onboard_time": 1730968579,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169122,
       "num": 282508,
       "word": "陈奕迅双城2新歌上线",
@@ -1211,20 +1267,20 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 167838,
-      "num": 167838,
-      "word": "杨天真建议上司不要约下属吃饭",
-      "onboard_time": 1730965459,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167640,
       "num": 167640,
       "word": "河南一地交通事故4名公职人员遇难",
       "onboard_time": 1730940381,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "苏57展示超短距起飞能力",
+      "onboard_time": 1730966480,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 167413,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1730967020,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166621,
-      "num": 166621,
-      "word": "雪地靴一穿冬天的感觉就来了",
-      "onboard_time": 1730967680,
-      "rank": 44,
-      "category": "时尚"
     },
     {
       "raw_hot": 165096,
@@ -1299,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159060,
-      "num": 159060,
-      "word": "苏57展示超短距起飞能力",
-      "onboard_time": 1730966480,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 158837,
       "num": 158837,
       "word": "被烧伤妈妈基本达到临床治愈标准",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1730967260,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158244,
-      "num": 158244,
-      "word": "老师在操场踢倒学生扇另一学生头",
-      "onboard_time": 1730966779,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156515,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1730943140,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149557,
+      "num": 149557,
+      "word": "江苏省考",
+      "onboard_time": 1730968280,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 148531,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1730940202,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138802,
+      "num": 138802,
+      "word": "网友建议删掉烧伤妈妈被炸伤视频",
+      "onboard_time": 1730968879,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133869,
@@ -1659,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99275,
+      "num": 434426,
+      "word": "重庆一水果店墙体塌陷致一人身亡",
+      "onboard_time": 1730966599,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98293,
       "num": 1358910,
       "word": "公安部网安局提醒切勿随意扫码领礼品",
@@ -1691,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92140,
-      "num": 434426,
-      "word": "重庆一水果店墙体塌陷致一人身亡",
-      "onboard_time": 1730966599,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92020,
       "num": 364743,
       "word": "赵露思珠帘玉幕发布会vlog",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1730920751,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 86236,
+      "num": 550396,
+      "word": "心疼杨子的画师一分钟",
+      "onboard_time": 1730966720,
+      "rank": 9,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 85730,
@@ -1819,12 +1875,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 65847,
+      "num": 446622,
+      "word": "卡尔伯格说王楚钦仍然是世界第一",
+      "onboard_time": 1730968760,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65067,
       "num": 491693,
       "word": "小鹏P7+价格",
       "onboard_time": 1730956220,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61580,
+      "num": 273016,
+      "word": "冬天这样穿三层就够了",
+      "onboard_time": 1730964318,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 60251,
@@ -1851,12 +1923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59237,
-      "num": 273016,
-      "word": "冬天这样穿三层就够了",
-      "onboard_time": 1730964318,
-      "rank": 27,
-      "category": "时尚"
+      "raw_hot": 57848,
+      "num": 446723,
+      "word": "企业退休人员养老金提至3162元",
+      "onboard_time": 1730968520,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55180,
@@ -1867,12 +1939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52848,
-      "num": 550396,
-      "word": "心疼杨子的画师一分钟",
-      "onboard_time": 1730966720,
-      "rank": 9,
-      "category": "综艺,艺人"
+      "raw_hot": 51128,
+      "num": 772580,
+      "word": "文化中国行之立冬节气",
+      "onboard_time": 1730967500,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50495,
@@ -1913,14 +1985,6 @@
       "onboard_time": 1730913555,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45391,
-      "num": 755310,
-      "word": "文化中国行之立冬节气",
-      "onboard_time": 1730967500,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44368,
@@ -2115,14 +2179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 23700,
-      "num": 564588,
-      "word": "马斯克为何抢当特朗普的榜1大哥",
-      "onboard_time": 1730967859,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 23089,
       "num": 155828,
       "word": "提升冬天幸福感的数码好物",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1730914693,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22837,
+      "num": 435728,
+      "word": "麦琳不认可自己强势",
+      "onboard_time": 1730968700,
+      "rank": 17,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 22745,
@@ -2211,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13931,
+      "num": 251913,
+      "word": "幸运咖准备准备可以升咖了",
+      "onboard_time": 1730967980,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13417,
       "num": 77235,
       "word": "神十八载人飞行任务全记录",
@@ -2233,14 +2305,6 @@
       "onboard_time": 1730898321,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10804,
-      "num": 158947,
-      "word": "幸运咖准备准备可以升咖了",
-      "onboard_time": 1730967980,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 7831,
@@ -2268,6 +2332,9 @@
     },
     {
       "word": "#习近平总书记湖北行#"
+    },
+    {
+      "word": "#农村天地广阔农业大有可为#"
     }
   ]
 }

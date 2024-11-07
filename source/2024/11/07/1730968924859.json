@@ -1,0 +1,410 @@
+{
+  "runTime": 1730968924859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076751,
+        "num": 1172280,
+        "word": "蜂花",
+        "onboard_time": 1730946619,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1020700,
+        "num": 1020700,
+        "word": "女童街头遭老人一顿猛踹后被推倒",
+        "onboard_time": 1730966480,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51128,
+        "num": 772580,
+        "word": "文化中国行之立冬节气",
+        "onboard_time": 1730967500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762056,
+        "num": 762056,
+        "word": "招生简章把港澳列入国家川大将追责",
+        "onboard_time": 1730966660,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684476,
+        "num": 684476,
+        "word": "金价",
+        "onboard_time": 1730963120,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 974026,
+        "num": 684405,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 592916,
+        "num": 592916,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730958500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447886,
+        "num": 447886,
+        "word": "红气养猴",
+        "onboard_time": 1730965339,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231489,
+        "num": 447838,
+        "word": "马斯克为何抢当特朗普的榜1大哥",
+        "onboard_time": 1730967859,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 893324,
+        "num": 447679,
+        "word": "外交部回应特朗普涉台言论",
+        "onboard_time": 1730966599,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2661379,
+        "num": 447353,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 958492,
+        "num": 447261,
+        "word": "特朗普称要立刻封锁边境",
+        "onboard_time": 1730945179,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 447067,
+        "num": 447067,
+        "word": "永夜星河推出游戏模式",
+        "onboard_time": 1730965459,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57848,
+        "num": 446723,
+        "word": "企业退休人员养老金提至3162元",
+        "onboard_time": 1730968520,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65847,
+        "num": 446622,
+        "word": "卡尔伯格说王楚钦仍然是世界第一",
+        "onboard_time": 1730968760,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446571,
+        "num": 446571,
+        "word": "禹属欣",
+        "onboard_time": 1730965279,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201506,
+        "num": 445689,
+        "word": "徐明浩直播",
+        "onboard_time": 1730968460,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22837,
+        "num": 435728,
+        "word": "麦琳不认可自己强势",
+        "onboard_time": 1730968700,
+        "rank": 17,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 20044,
+        "num": 430626,
+        "word": "宣称下播恢复原价后食言是价格欺诈",
+        "onboard_time": 1730967320,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170270,
+        "num": 425771,
+        "word": "李佩霞当庭认罪悔罪",
+        "onboard_time": 1730963419,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586407,
+        "num": 423885,
+        "word": "李佩霞被控受贿165万",
+        "onboard_time": 1730962639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418824,
+        "num": 418824,
+        "word": "王楚钦比赛疑似发高烧",
+        "onboard_time": 1730957721,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409713,
+        "num": 409713,
+        "word": "西安一女生称应聘总助被要求陪睡",
+        "onboard_time": 1730968100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323245,
+        "num": 323245,
+        "word": "李行亮被麦琳嫌弃的专辑翻红",
+        "onboard_time": 1730960601,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313434,
+        "num": 313434,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 303178,
+        "num": 303178,
+        "word": "蜂花发道歉信",
+        "onboard_time": 1730955202,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302082,
+        "num": 302082,
+        "word": "60岁肺癌女儿为失能父母延迟住院2年",
+        "onboard_time": 1730966540,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251948,
+        "num": 251948,
+        "word": "刘宇宁还是不太适应吻戏",
+        "onboard_time": 1730959880,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217574,
+        "num": 251937,
+        "word": "杨子形容黄圣依是整容样板",
+        "onboard_time": 1730965821,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176788,
+        "num": 251923,
+        "word": "杨天真建议上司不要约下属吃饭",
+        "onboard_time": 1730965459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13931,
+        "num": 251913,
+        "word": "幸运咖准备准备可以升咖了",
+        "onboard_time": 1730967980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99275,
+        "num": 251908,
+        "word": "重庆一水果店墙体塌陷致一人身亡",
+        "onboard_time": 1730966599,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286930,
+        "num": 251884,
+        "word": "景区回应将水龙头设计成生殖器形状",
+        "onboard_time": 1730953702,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251882,
+        "num": 251882,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61580,
+        "num": 244127,
+        "word": "冬天这样穿三层就够了",
+        "onboard_time": 1730964318,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 237212,
+        "num": 237212,
+        "word": "王楚钦退场敲了敲球台",
+        "onboard_time": 1730962939,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235731,
+        "num": 235731,
+        "word": "轻断食一天吃了十三根玉米",
+        "onboard_time": 1730967020,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182598,
+        "num": 182598,
+        "word": "雪地靴一穿冬天的感觉就来了",
+        "onboard_time": 1730967680,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 174353,
+        "num": 174353,
+        "word": "老师在操场踢倒学生扇另一学生头",
+        "onboard_time": 1730966779,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171212,
+        "num": 171212,
+        "word": "马斯克要求台湾供应商搬出台湾",
+        "onboard_time": 1730934377,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169484,
+        "num": 169484,
+        "word": "黄圣依说没条件展示妻子所有的功能",
+        "onboard_time": 1730968579,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167454,
+        "num": 167454,
+        "word": "苏57展示超短距起飞能力",
+        "onboard_time": 1730966480,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164617,
+        "num": 164617,
+        "word": "papi酱说繁花片场吵架吵了三天",
+        "onboard_time": 1730959159,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160892,
+        "num": 160892,
+        "word": "权志龙晒茅台酒",
+        "onboard_time": 1730954302,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160601,
+        "num": 160601,
+        "word": "赵今麦樱桃琥珀婚纱路透",
+        "onboard_time": 1730963719,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86236,
+        "num": 155152,
+        "word": "心疼杨子的画师一分钟",
+        "onboard_time": 1730966720,
+        "rank": 45,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 154229,
+        "word": "男子偷7斤榴莲给老婆吃被行拘7天",
+        "onboard_time": 1730949321,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149557,
+        "num": 149557,
+        "word": "江苏省考",
+        "onboard_time": 1730968280,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138802,
+        "num": 138802,
+        "word": "网友建议删掉烧伤妈妈被炸伤视频",
+        "onboard_time": 1730968879,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130336,
+        "num": 135321,
+        "word": "王楚钦是奥运后参赛最多的运动员",
+        "onboard_time": 1730967260,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#农村天地广阔农业大有可为#"
+    }
+  }
+}
