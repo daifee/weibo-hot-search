@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731021678138,
+  "endTime": 1731022632075,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1177039,
+      "num": 1177039,
+      "word": "民警着急大吼这是23万不是23块",
+      "onboard_time": 1730994020,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174772,
       "num": 946191,
       "word": "良品铺子被曝酸辣粉里没有粉",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1730801362,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1091668,
-      "num": 1091668,
-      "word": "民警着急大吼这是23万不是23块",
-      "onboard_time": 1730994020,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1087761,
@@ -2035,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812410,
+      "num": 812410,
+      "word": "她知道什么叫只剪一点点",
+      "onboard_time": 1731016572,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798154,
       "num": 578512,
       "word": "赵露思说汪苏泷唱不得超好听",
@@ -2219,6 +2227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 739371,
+      "num": 739371,
+      "word": "王俊凯发文为王源庆生",
+      "onboard_time": 1731021316,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734419,
       "num": 734419,
       "word": "迪丽热巴掏出睫毛夹笑飞了",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1730639960,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697382,
+      "num": 697382,
+      "word": "美联储降息",
+      "onboard_time": 1731021015,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 695039,
@@ -2537,14 +2561,6 @@
       "onboard_time": 1730684417,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 652831,
-      "num": 652831,
-      "word": "她知道什么叫只剪一点点",
-      "onboard_time": 1731016572,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652210,
@@ -4145,6 +4161,14 @@
       "onboard_time": 1730889322,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421043,
+      "num": 421043,
+      "word": "美联储",
+      "onboard_time": 1731021257,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 420744,
@@ -5915,6 +5939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275547,
+      "num": 275547,
+      "word": "姑娘美签没过一万多团费没退",
+      "onboard_time": 1730998817,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273810,
       "num": 364243,
       "word": "中国研制时钟6000万年误差小于1秒",
@@ -6233,14 +6265,6 @@
       "onboard_time": 1730769859,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255270,
-      "num": 255270,
-      "word": "姑娘美签没过一万多团费没退",
-      "onboard_time": 1730998817,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255218,
@@ -7345,6 +7369,14 @@
       "onboard_time": 1730629879,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209525,
+      "num": 146283,
+      "word": "易烊千玺",
+      "onboard_time": 1731022218,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 209513,
@@ -8579,14 +8611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187378,
-      "num": 101713,
-      "word": "王俊凯发文为王源庆生",
-      "onboard_time": 1731021316,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187328,
       "num": 200833,
       "word": "陈都灵并蒂双生花",
@@ -8937,14 +8961,6 @@
       "onboard_time": 1730695581,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178798,
-      "num": 178798,
-      "word": "美联储",
-      "onboard_time": 1731021257,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 178448,
@@ -10363,6 +10379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151853,
+      "num": 326632,
+      "word": "韩第一夫人所有公开活动将暂停",
+      "onboard_time": 1731021557,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "tyt出道当天姚景元爸妈离婚",
@@ -10425,14 +10449,6 @@
       "onboard_time": 1730978723,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 150154,
-      "num": 150154,
-      "word": "美联储降息",
-      "onboard_time": 1731021015,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 150132,
@@ -11683,6 +11699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "黑龙江水煮冰排和雾凇同框出现",
+      "onboard_time": 1731019514,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "我军首部战地记者宣传片",
@@ -12555,14 +12579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105351,
-      "num": 102401,
-      "word": "韩第一夫人所有公开活动将暂停",
-      "onboard_time": 1731021557,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 105322,
       "num": 477627,
       "word": "导演称不想把珠帘玉幕拍成偶像剧",
@@ -12811,6 +12827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97698,
+      "num": 102113,
+      "word": "papi酱 杨子假装在戏弄人间",
+      "onboard_time": 1731001874,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97678,
       "num": 164566,
       "word": "NCT送郑在玹入伍",
@@ -12891,6 +12915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92380,
+      "num": 92380,
+      "word": "周雨辟谣王楚钦比赛发烧",
+      "onboard_time": 1731021917,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92020,
       "num": 364743,
       "word": "赵露思珠帘玉幕发布会vlog",
@@ -12923,12 +12955,12 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 89364,
-      "num": 89364,
-      "word": "黑龙江水煮冰排和雾凇同框出现",
-      "onboard_time": 1731019514,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 91107,
+      "num": 91107,
+      "word": "Meiko恋情",
+      "onboard_time": 1731022279,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 89275,
@@ -12953,6 +12985,14 @@
       "onboard_time": 1730565858,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88765,
+      "num": 88765,
+      "word": "工作室回应赵露思妆容和造型问题",
+      "onboard_time": 1731022279,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 88586,
@@ -13147,14 +13187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 82895,
-      "num": 102113,
-      "word": "papi酱 杨子假装在戏弄人间",
-      "onboard_time": 1731001874,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82395,
       "num": 105161,
       "word": "李佳航为BLG加油",
@@ -13219,12 +13251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79741,
+      "num": 79741,
+      "word": "劳斯莱斯女车主和货车司机签协议",
+      "onboard_time": 1731022157,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79291,
       "num": 478028,
       "word": "河南固始被害妻子曾多次遭家暴",
       "onboard_time": 1730815943,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79259,
+      "num": 79259,
+      "word": "美联储12月或再降息",
+      "onboard_time": 1731021616,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 79167,
@@ -13563,6 +13611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66018,
+      "num": 66018,
+      "word": "与蜂花合作插画师所在MCN公司回应",
+      "onboard_time": 1731004753,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65916,
       "num": 330128,
       "word": "任敏发长文告别锦绣安宁",
@@ -13723,12 +13779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61174,
+      "num": 61174,
+      "word": "名侦探柯南 意难平",
+      "onboard_time": 1731022218,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 61134,
       "num": 457261,
       "word": "一种让人笑着减肥的运动",
       "onboard_time": 1730989465,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 61062,
+      "num": 114361,
+      "word": "95后女飞行员驾直20参加珠海航展",
+      "onboard_time": 1731016332,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 61007,
@@ -13761,14 +13833,6 @@
       "onboard_time": 1730899342,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60304,
-      "num": 60304,
-      "word": "与蜂花合作插画师所在MCN公司回应",
-      "onboard_time": 1731004753,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60251,
@@ -13835,6 +13899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 58552,
+      "num": 58552,
+      "word": "女飞徐枫灿开着直20到珠海了",
+      "onboard_time": 1730997198,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 57960,
       "num": 679794,
       "word": "魏哲鸣摩登大片人夫感的神",
@@ -13848,6 +13920,14 @@
       "word": "企业退休人员养老金提至3162元",
       "onboard_time": 1730968520,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57794,
+      "num": 57794,
+      "word": "科研人员的凡尔赛让朱广权愣住了",
+      "onboard_time": 1731012072,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -13955,12 +14035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55297,
-      "num": 55297,
-      "word": "美联储12月或再降息",
-      "onboard_time": 1731021616,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 55322,
+      "num": 55322,
+      "word": "终于明白北方人说三层穿衣法保暖了",
+      "onboard_time": 1731022576,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 55241,
@@ -14072,14 +14152,6 @@
       "word": "无锡虹桥医院涉骗保被罚5895万",
       "onboard_time": 1730865804,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52285,
-      "num": 52285,
-      "word": "科研人员的凡尔赛让朱广权愣住了",
-      "onboard_time": 1731012072,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -14553,14 +14625,6 @@
       "onboard_time": 1730828294,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40637,
-      "num": 47476,
-      "word": "女飞徐枫灿开着直20到珠海了",
-      "onboard_time": 1730997198,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 40577,
@@ -15649,14 +15713,6 @@
       "onboard_time": 1730962338,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 23081,
-      "num": 114361,
-      "word": "95后女飞行员驾直20参加珠海航展",
-      "onboard_time": 1731016332,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 23030,

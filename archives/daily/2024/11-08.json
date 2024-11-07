@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731021678138,
+  "endTime": 1731022632075,
   "band_list": [
     {
       "raw_hot": 2438949,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1091668,
-      "num": 1091668,
+      "raw_hot": 1177039,
+      "num": 1177039,
       "word": "民警着急大吼这是23万不是23块",
       "onboard_time": 1730994020,
       "rank": 18,
@@ -43,11 +43,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812410,
+      "num": 812410,
+      "word": "她知道什么叫只剪一点点",
+      "onboard_time": 1731016572,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753271,
       "num": 671946,
       "word": "徐若瑄被曝患癌后回应",
       "onboard_time": 1730994321,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 739371,
+      "num": 739371,
+      "word": "王俊凯发文为王源庆生",
+      "onboard_time": 1731021316,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -59,12 +75,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 652831,
-      "num": 652831,
-      "word": "她知道什么叫只剪一点点",
-      "onboard_time": 1731016572,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 697382,
+      "num": 697382,
+      "word": "美联储降息",
+      "onboard_time": 1731021015,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 597583,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421043,
+      "num": 421043,
+      "word": "美联储",
+      "onboard_time": 1731021257,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 372505,
       "num": 372505,
       "word": "中国买家拍下一块77年前的蛋糕",
@@ -163,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 275547,
+      "num": 275547,
+      "word": "姑娘美签没过一万多团费没退",
+      "onboard_time": 1730998817,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261221,
       "num": 261221,
       "word": "马斯克接受采访中儿子突然闯进来",
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 256457,
-      "num": 211082,
+      "num": 306032,
       "word": "肖战 专辑",
       "onboard_time": 1730992343,
       "rank": 20,
@@ -187,20 +219,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 255270,
-      "num": 255270,
-      "word": "姑娘美签没过一万多团费没退",
-      "onboard_time": 1730998817,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237257,
-      "num": 237257,
+      "num": 329321,
       "word": "特朗普胜选关键在美国农村",
       "onboard_time": 1730988865,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 217135,
+      "num": 327748,
+      "word": "鹿晗宣传关晓彤新剧",
+      "onboard_time": 1730983222,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 210750,
@@ -211,36 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209525,
+      "num": 146283,
+      "word": "易烊千玺",
+      "onboard_time": 1731022218,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193074,
       "num": 193074,
       "word": "女老师操场踢打学生派出所已介入",
       "onboard_time": 1731013570,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 187378,
-      "num": 101713,
-      "word": "王俊凯发文为王源庆生",
-      "onboard_time": 1731021316,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 179495,
-      "num": 179495,
-      "word": "鹿晗宣传关晓彤新剧",
-      "onboard_time": 1730983222,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178798,
-      "num": 178798,
-      "word": "美联储",
-      "onboard_time": 1731021257,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 177732,
@@ -259,6 +275,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174189,
+      "num": 174189,
+      "word": "武艺 没弄清杨子来节目的意义",
+      "onboard_time": 1730989404,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165246,
+      "num": 136135,
+      "word": "女子11元拍到海景房险些被老公拒收",
+      "onboard_time": 1730985623,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153825,
       "num": 153825,
       "word": "彭高恳请大家不要再指责任何人",
@@ -267,20 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152376,
-      "num": 152376,
-      "word": "武艺 没弄清杨子来节目的意义",
-      "onboard_time": 1730989404,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 150154,
-      "num": 150154,
-      "word": "美联储降息",
-      "onboard_time": 1731021015,
-      "rank": 16,
-      "category": "财经"
+      "raw_hot": 151853,
+      "num": 326632,
+      "word": "韩第一夫人所有公开活动将暂停",
+      "onboard_time": 1731021557,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147299,
@@ -289,14 +313,6 @@
       "onboard_time": 1730980343,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142799,
-      "num": 136135,
-      "word": "女子11元拍到海景房险些被老公拒收",
-      "onboard_time": 1730985623,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139674,
@@ -323,12 +339,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "黑龙江水煮冰排和雾凇同框出现",
+      "onboard_time": 1731019514,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124447,
       "num": 124447,
       "word": "林诗栋vs杜达",
       "onboard_time": 1730995280,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120292,
+      "num": 120292,
+      "word": "男子赶在金价下跌前出售6根金条",
+      "onboard_time": 1730986765,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 119436,
@@ -353,22 +385,6 @@
       "onboard_time": 1730978603,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109366,
-      "num": 109366,
-      "word": "男子赶在金价下跌前出售6根金条",
-      "onboard_time": 1730986765,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 105351,
-      "num": 102401,
-      "word": "韩第一夫人所有公开活动将暂停",
-      "onboard_time": 1731021557,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 104434,
@@ -419,12 +435,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97698,
+      "num": 102113,
+      "word": "papi酱 杨子假装在戏弄人间",
+      "onboard_time": 1731001874,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92380,
+      "num": 92380,
+      "word": "周雨辟谣王楚钦比赛发烧",
+      "onboard_time": 1731021917,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91119,
       "num": 91119,
       "word": "赛力斯称已报警",
       "onboard_time": 1730997018,
       "rank": 44,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 91107,
+      "num": 91107,
+      "word": "Meiko恋情",
+      "onboard_time": 1731022279,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 91080,
@@ -443,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89364,
-      "num": 89364,
-      "word": "黑龙江水煮冰排和雾凇同框出现",
-      "onboard_time": 1731019514,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 88765,
+      "num": 88765,
+      "word": "工作室回应赵露思妆容和造型问题",
+      "onboard_time": 1731022279,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 86579,
@@ -467,14 +507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 82895,
-      "num": 102113,
-      "word": "papi酱 杨子假装在戏弄人间",
-      "onboard_time": 1731001874,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81162,
       "num": 96008,
       "word": "王凯 这就是我不发朋友圈的原因",
@@ -483,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79741,
+      "num": 79741,
+      "word": "劳斯莱斯女车主和货车司机签协议",
+      "onboard_time": 1731022157,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79448,
       "num": 95958,
       "word": "特朗普正式宣布获胜",
       "onboard_time": 1730879370,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 79259,
+      "num": 79259,
+      "word": "美联储12月或再降息",
+      "onboard_time": 1731021616,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 72333,
@@ -515,6 +563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 66018,
+      "num": 66018,
+      "word": "与蜂花合作插画师所在MCN公司回应",
+      "onboard_time": 1731004753,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65893,
       "num": 65893,
       "word": "珠帘玉幕",
@@ -539,11 +595,35 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60304,
-      "num": 60304,
-      "word": "与蜂花合作插画师所在MCN公司回应",
-      "onboard_time": 1731004753,
-      "rank": 14,
+      "raw_hot": 61174,
+      "num": 61174,
+      "word": "名侦探柯南 意难平",
+      "onboard_time": 1731022218,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 61062,
+      "num": 114361,
+      "word": "95后女飞行员驾直20参加珠海航展",
+      "onboard_time": 1731016332,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 58552,
+      "num": 58552,
+      "word": "女飞徐枫灿开着直20到珠海了",
+      "onboard_time": 1730997198,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 57794,
+      "num": 57794,
+      "word": "科研人员的凡尔赛让朱广权愣住了",
+      "onboard_time": 1731012072,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -555,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55297,
-      "num": 55297,
-      "word": "美联储12月或再降息",
-      "onboard_time": 1731021616,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 55322,
+      "num": 55322,
+      "word": "终于明白北方人说三层穿衣法保暖了",
+      "onboard_time": 1731022576,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 54925,
@@ -569,14 +649,6 @@
       "onboard_time": 1730998936,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52285,
-      "num": 52285,
-      "word": "科研人员的凡尔赛让朱广权愣住了",
-      "onboard_time": 1731012072,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47957,
@@ -593,14 +665,6 @@
       "onboard_time": 1731018793,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40637,
-      "num": 47476,
-      "word": "女飞徐枫灿开着直20到珠海了",
-      "onboard_time": 1730997198,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 36445,
@@ -633,14 +697,6 @@
       "onboard_time": 1731005173,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23081,
-      "num": 114361,
-      "word": "95后女飞行员驾直20参加珠海航展",
-      "onboard_time": 1731016332,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 23030,
@@ -692,7 +748,7 @@
     },
     {
       "raw_hot": 5643,
-      "num": 688262,
+      "num": 752867,
       "word": "一起看进博",
       "onboard_time": 1730983282,
       "rank": 2,

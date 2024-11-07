@@ -1,0 +1,410 @@
+{
+  "runTime": 1731022632075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177039,
+        "num": 1177039,
+        "word": "民警着急大吼这是23万不是23块",
+        "onboard_time": 1730994020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812410,
+        "num": 812410,
+        "word": "她知道什么叫只剪一点点",
+        "onboard_time": 1731016572,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1882,
+        "num": 752867,
+        "word": "一起看进博",
+        "onboard_time": 1730983282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739371,
+        "num": 739371,
+        "word": "王俊凯发文为王源庆生",
+        "onboard_time": 1731021316,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697382,
+        "num": 697382,
+        "word": "美联储降息",
+        "onboard_time": 1731021015,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 421043,
+        "num": 421043,
+        "word": "美联储",
+        "onboard_time": 1731021257,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229507,
+        "num": 329321,
+        "word": "特朗普胜选关键在美国农村",
+        "onboard_time": 1730988865,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217135,
+        "num": 327748,
+        "word": "鹿晗宣传关晓彤新剧",
+        "onboard_time": 1730983222,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 326632,
+        "word": "韩第一夫人所有公开活动将暂停",
+        "onboard_time": 1731021557,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 326555,
+        "num": 326555,
+        "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
+        "onboard_time": 1730996059,
+        "rank": 9,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 382504,
+        "num": 326444,
+        "word": "徐若瑄被曝患癌后回应",
+        "onboard_time": 1730994321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312579,
+        "num": 312579,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175854,
+        "num": 306032,
+        "word": "肖战 专辑",
+        "onboard_time": 1730992343,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299689,
+        "num": 299689,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275547,
+        "num": 275547,
+        "word": "姑娘美签没过一万多团费没退",
+        "onboard_time": 1730998817,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647614,
+        "num": 271011,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261590,
+        "num": 261590,
+        "word": "华侨大学通报教师班级群发表不当言论",
+        "onboard_time": 1730995219,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 174189,
+        "num": 174189,
+        "word": "武艺 没弄清杨子来节目的意义",
+        "onboard_time": 1730989404,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160592,
+        "num": 160592,
+        "word": "女老师操场踢打学生派出所已介入",
+        "onboard_time": 1731013570,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156107,
+        "num": 156107,
+        "word": "饶雪漫",
+        "onboard_time": 1730990185,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 997663,
+        "num": 148847,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209525,
+        "num": 146283,
+        "word": "易烊千玺",
+        "onboard_time": 1731022218,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182337,
+        "num": 138966,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165246,
+        "num": 131577,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125035,
+        "num": 125035,
+        "word": "黑龙江水煮冰排和雾凇同框出现",
+        "onboard_time": 1731019514,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 120292,
+        "word": "男子赶在金价下跌前出售6根金条",
+        "onboard_time": 1730986765,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 118939,
+        "num": 118939,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105157,
+        "num": 105157,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730999414,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97698,
+        "num": 97698,
+        "word": "papi酱 杨子假装在戏弄人间",
+        "onboard_time": 1731001874,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97688,
+        "num": 97688,
+        "word": "凌妙妙慕子期开虐",
+        "onboard_time": 1730994142,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102901,
+        "num": 97372,
+        "word": "保持饥饿感的重要性",
+        "onboard_time": 1730991686,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102122,
+        "num": 96875,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92380,
+        "num": 92380,
+        "word": "周雨辟谣王楚钦比赛发烧",
+        "onboard_time": 1731021917,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91107,
+        "num": 91107,
+        "word": "Meiko恋情",
+        "onboard_time": 1731022279,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90447,
+        "num": 90447,
+        "word": "徐海鹏被遣返回国",
+        "onboard_time": 1730991443,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89533,
+        "num": 89533,
+        "word": "35岁女生花70万在英国留学一年",
+        "onboard_time": 1730984362,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88765,
+        "num": 88765,
+        "word": "工作室回应赵露思妆容和造型问题",
+        "onboard_time": 1731022279,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81693,
+        "num": 81693,
+        "word": "林诗栋vs杜达",
+        "onboard_time": 1730995280,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79741,
+        "num": 79741,
+        "word": "劳斯莱斯女车主和货车司机签协议",
+        "onboard_time": 1731022157,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79259,
+        "num": 79259,
+        "word": "美联储12月或再降息",
+        "onboard_time": 1731021616,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73100,
+        "num": 73100,
+        "word": "赛力斯称已报警",
+        "onboard_time": 1730997018,
+        "rank": 40,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 71065,
+        "num": 71065,
+        "word": "日本首相石破茂与特朗普通话",
+        "onboard_time": 1731016391,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66322,
+        "num": 66322,
+        "word": "高芙vs克雷吉茨科娃",
+        "onboard_time": 1730994561,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66018,
+        "num": 66018,
+        "word": "与蜂花合作插画师所在MCN公司回应",
+        "onboard_time": 1731004753,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64348,
+        "num": 64348,
+        "word": "张泉灵 我很困扰和无力",
+        "onboard_time": 1730995043,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61174,
+        "num": 61174,
+        "word": "名侦探柯南 意难平",
+        "onboard_time": 1731022218,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 61062,
+        "num": 61062,
+        "word": "95后女飞行员驾直20参加珠海航展",
+        "onboard_time": 1731016332,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 58552,
+        "num": 58552,
+        "word": "女飞徐枫灿开着直20到珠海了",
+        "onboard_time": 1730997198,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 57794,
+        "num": 57794,
+        "word": "科研人员的凡尔赛让朱广权愣住了",
+        "onboard_time": 1731012072,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55322,
+        "num": 55322,
+        "word": "终于明白北方人说三层穿衣法保暖了",
+        "onboard_time": 1731022576,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#做党和人民信赖的新闻工作者#"
+    }
+  }
+}
