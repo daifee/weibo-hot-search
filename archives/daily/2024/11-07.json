@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730983271050,
+  "endTime": 1730984229248,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -33,6 +33,14 @@
       "onboard_time": 1730954062,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2763482,
+      "num": 606450,
+      "word": "鹿晗宣传关晓彤新剧",
+      "onboard_time": 1730983222,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 2661379,
@@ -75,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1985496,
+      "num": 254032,
+      "word": "翁青雅 奥斯卡",
+      "onboard_time": 1730982742,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1737223,
       "num": 1737223,
       "word": "哈里斯称接受败选结果",
@@ -105,14 +121,6 @@
       "onboard_time": 1730940921,
       "rank": 10,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 1619494,
-      "num": 222410,
-      "word": "翁青雅 奥斯卡",
-      "onboard_time": 1730982742,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1613215,
@@ -667,16 +675,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 435437,
-      "num": 222136,
-      "word": "鹿晗宣传关晓彤新剧",
-      "onboard_time": 1730983222,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 432667,
+      "num": 245449,
+      "word": "林俊杰FinalLap官宣",
+      "onboard_time": 1730983762,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 431925,
-      "num": 221932,
+      "num": 224348,
       "word": "彭高 真诚",
       "onboard_time": 1730979504,
       "rank": 18,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 374076,
-      "num": 221867,
+      "num": 224814,
       "word": "爆料叶珂索要2.7亿分手费博主被起诉",
       "onboard_time": 1730981421,
       "rank": 19,
@@ -1163,6 +1171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 244150,
+      "num": 244150,
+      "word": "军队文职",
+      "onboard_time": 1730983462,
+      "rank": 15,
+      "category": "军事,教育"
+    },
+    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "李现连续七年为杨紫庆生",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1730954181,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 228130,
+      "num": 228130,
+      "word": "尹锡悦与特朗普通电话",
+      "onboard_time": 1730980881,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 226486,
@@ -1619,14 +1643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181369,
-      "num": 181369,
-      "word": "尹锡悦与特朗普通电话",
-      "onboard_time": 1730980881,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 179750,
       "num": 179750,
       "word": "冬季第一个节气",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1730976743,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172423,
+      "num": 172423,
+      "word": "比养老院更适合养老的房子出现了",
+      "onboard_time": 1730981662,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 171437,
@@ -1689,14 +1713,6 @@
       "onboard_time": 1730940381,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167514,
-      "num": 167514,
-      "word": "比养老院更适合养老的房子出现了",
-      "onboard_time": 1730981662,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 167413,
@@ -1923,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142679,
+      "num": 142679,
+      "word": "再见爱人4制片人感谢张泉灵",
+      "onboard_time": 1730980582,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141736,
       "num": 597060,
       "word": "结婚双方谁最终在婚姻中受益更多",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1730943199,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139126,
+      "num": 139126,
+      "word": "林靖恩偷喝5元饮料被罚款",
+      "onboard_time": 1730983103,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 139071,
@@ -2155,6 +2187,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 117920,
+      "num": 117920,
+      "word": "永夜星河追剧日历",
+      "onboard_time": 1730984062,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117193,
       "num": 117193,
       "word": "庄图南李佳 快进",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1730882425,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116916,
+      "num": 116916,
+      "word": "黄奕飞到伦敦看女儿",
+      "onboard_time": 1730983161,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 116698,
@@ -2233,6 +2281,14 @@
       "onboard_time": 1730979202,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107076,
+      "num": 107076,
+      "word": "狗爸爸和小狗的互动方式好可爱",
+      "onboard_time": 1730983942,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104569,
@@ -2611,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55092,
+      "num": 227735,
+      "word": "刘宇宁疑似失去所有力气和手段",
+      "onboard_time": 1730983762,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51136,
       "num": 385359,
       "word": "贾樟柯请求观众抵制盗版风流一代",
@@ -2744,6 +2808,14 @@
       "word": "幸运咖准备准备可以升咖了",
       "onboard_time": 1730967980,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39122,
+      "num": 226603,
+      "word": "黄子华回应不结婚不生小孩",
+      "onboard_time": 1730983282,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2907,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31750,
+      "num": 225942,
+      "word": "男子到警局求证发现自己是网上逃犯",
+      "onboard_time": 1730984121,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31547,
       "num": 222174,
       "word": "专家认为不足以判断杨子是npd",
@@ -2937,6 +3017,14 @@
       "onboard_time": 1730978183,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29209,
+      "num": 258951,
+      "word": "医保局五问五答一盒药重复结算60次",
+      "onboard_time": 1730984003,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28115,
@@ -3107,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15308,
+      "num": 612482,
+      "word": "一起看进博",
+      "onboard_time": 1730983282,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13417,
       "num": 77235,
       "word": "神十八载人飞行任务全记录",
@@ -3129,6 +3225,14 @@
       "onboard_time": 1730973800,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8449,
+      "num": 115615,
+      "word": "当代年轻人立冬好运四件套",
+      "onboard_time": 1730983701,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 7831,
@@ -3165,6 +3269,9 @@
     },
     {
       "word": "#习近平向首届世界古典学大会致贺信#"
+    },
+    {
+      "word": "#总书记嘱托加强和创新基层社会治理#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1730984229248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6746492,
+        "num": 6746492,
+        "word": "彭高翁青雅分手",
+        "onboard_time": 1730977043,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723265,
+        "num": 723265,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15308,
+        "num": 612482,
+        "word": "一起看进博",
+        "onboard_time": 1730983282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2763482,
+        "num": 606450,
+        "word": "鹿晗宣传关晓彤新剧",
+        "onboard_time": 1730983222,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518463,
+        "num": 518463,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561536,
+        "num": 419429,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 839600,
+        "num": 369659,
+        "word": "恋综 诈骗",
+        "onboard_time": 1730978603,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576807,
+        "num": 324757,
+        "word": "费启鸣 永夜星河",
+        "onboard_time": 1730980822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260059,
+        "num": 260059,
+        "word": "李娜回应郑钦文不与选手交友",
+        "onboard_time": 1730972659,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29209,
+        "num": 258951,
+        "word": "医保局五问五答一盒药重复结算60次",
+        "onboard_time": 1730984003,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2707521,
+        "num": 256513,
+        "word": "曝黄晓明被叶珂索要2.7亿分手费",
+        "onboard_time": 1730975242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1985496,
+        "num": 254032,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475235,
+        "num": 250661,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 439749,
+        "num": 247600,
+        "word": "丁禹兮人生镜头",
+        "onboard_time": 1730980343,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432667,
+        "num": 245449,
+        "word": "林俊杰FinalLap官宣",
+        "onboard_time": 1730983762,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244150,
+        "num": 244150,
+        "word": "军队文职",
+        "onboard_time": 1730983462,
+        "rank": 15,
+        "category": "军事,教育"
+      },
+      {
+        "raw_hot": 228130,
+        "num": 228130,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 55092,
+        "num": 227735,
+        "word": "刘宇宁疑似失去所有力气和手段",
+        "onboard_time": 1730983762,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39122,
+        "num": 226603,
+        "word": "黄子华回应不结婚不生小孩",
+        "onboard_time": 1730983282,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31750,
+        "num": 225942,
+        "word": "男子到警局求证发现自己是网上逃犯",
+        "onboard_time": 1730984121,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372827,
+        "num": 224814,
+        "word": "爆料叶珂索要2.7亿分手费博主被起诉",
+        "onboard_time": 1730981421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330850,
+        "num": 224348,
+        "word": "彭高 真诚",
+        "onboard_time": 1730979504,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223439,
+        "num": 223439,
+        "word": "8岁娃扔玩具被终身禁入熊猫基地",
+        "onboard_time": 1730971999,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296833,
+        "num": 222460,
+        "word": "王凯 这就是我不发朋友圈的原因",
+        "onboard_time": 1730975904,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290618,
+        "num": 217167,
+        "word": "陈妍希戴婚戒逛商场",
+        "onboard_time": 1730981182,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240488,
+        "num": 214356,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211496,
+        "num": 211496,
+        "word": "杨幂与国旗同框",
+        "onboard_time": 1730972359,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199982,
+        "num": 199982,
+        "word": "招生简章把港澳列入国家川大将追责",
+        "onboard_time": 1730966660,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197651,
+        "num": 197651,
+        "word": "Ning疑似内涵王多多",
+        "onboard_time": 1730976023,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192152,
+        "num": 192152,
+        "word": "永夜星河",
+        "onboard_time": 1730975482,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201370,
+        "num": 192150,
+        "word": "曝网易游戏多名高管被带走调查",
+        "onboard_time": 1730976683,
+        "rank": 30,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 178495,
+        "num": 178495,
+        "word": "县城贵妇悄悄买走上亿元皮草",
+        "onboard_time": 1730974761,
+        "rank": 31,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 174739,
+        "num": 174739,
+        "word": "小巷人家",
+        "onboard_time": 1730982682,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172423,
+        "num": 172423,
+        "word": "比养老院更适合养老的房子出现了",
+        "onboard_time": 1730981662,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157553,
+        "num": 157553,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153420,
+        "num": 153420,
+        "word": "时代少年团七个人分八个瑞士卷",
+        "onboard_time": 1730980222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142679,
+        "num": 142679,
+        "word": "再见爱人4制片人感谢张泉灵",
+        "onboard_time": 1730980582,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139126,
+        "num": 139126,
+        "word": "林靖恩偷喝5元饮料被罚款",
+        "onboard_time": 1730983103,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135431,
+        "num": 135431,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 119814,
+        "word": "高雅CP粉",
+        "onboard_time": 1730979561,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119003,
+        "num": 119003,
+        "word": "美媒称马斯克或成特朗普胜选最大赢家",
+        "onboard_time": 1730977103,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117920,
+        "num": 117920,
+        "word": "永夜星河追剧日历",
+        "onboard_time": 1730984062,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116916,
+        "num": 116916,
+        "word": "黄奕飞到伦敦看女儿",
+        "onboard_time": 1730983161,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115925,
+        "num": 115925,
+        "word": "高雅CP",
+        "onboard_time": 1730977822,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8449,
+        "num": 115615,
+        "word": "当代年轻人立冬好运四件套",
+        "onboard_time": 1730983701,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115579,
+        "num": 115579,
+        "word": "永夜星河15集",
+        "onboard_time": 1730981121,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112381,
+        "num": 112381,
+        "word": "疯狂英语李阳省级代理费约2000万",
+        "onboard_time": 1730976743,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "eStar对战WB",
+        "onboard_time": 1730979742,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108473,
+        "num": 108473,
+        "word": "北京震感",
+        "onboard_time": 1730976803,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107076,
+        "num": 107076,
+        "word": "狗爸爸和小狗的互动方式好可爱",
+        "onboard_time": 1730983942,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记嘱托加强和创新基层社会治理#"
+    }
+  }
+}
