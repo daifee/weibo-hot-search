@@ -1,0 +1,410 @@
+{
+  "runTime": 1730961008991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2534184,
+        "num": 2534184,
+        "word": "蜂花",
+        "onboard_time": 1730946619,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1321339,
+        "num": 1321339,
+        "word": "蜂花发道歉信",
+        "onboard_time": 1730955202,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90552,
+        "num": 1080686,
+        "word": "公安部网安局提醒切勿随意扫码领礼品",
+        "onboard_time": 1730956220,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2414474,
+        "num": 1065414,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1032838,
+        "num": 1032838,
+        "word": "杨子 不尊重人",
+        "onboard_time": 1730957239,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1012306,
+        "num": 1012306,
+        "word": "王楚钦比赛疑似发高烧",
+        "onboard_time": 1730957721,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 923339,
+        "num": 923339,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730958500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617074,
+        "num": 617074,
+        "word": "papi酱说繁花片场吵架吵了三天",
+        "onboard_time": 1730959159,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489178,
+        "num": 489178,
+        "word": "法国小伙捐赠家人所拍日军侵华罪证",
+        "onboard_time": 1730957900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481258,
+        "num": 481258,
+        "word": "马斯克要求台湾供应商搬出台湾",
+        "onboard_time": 1730934377,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1223235,
+        "num": 473900,
+        "word": "特朗普称要立刻封锁边境",
+        "onboard_time": 1730945179,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 903051,
+        "num": 450665,
+        "word": "景区回应将水龙头设计成生殖器形状",
+        "onboard_time": 1730953702,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65067,
+        "num": 435235,
+        "word": "小鹏P7+价格",
+        "onboard_time": 1730956220,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26060,
+        "num": 420599,
+        "word": "李行亮被麦琳嫌弃的专辑翻红",
+        "onboard_time": 1730960601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24308,
+        "num": 397312,
+        "word": "高盛看好美股至少涨到年底",
+        "onboard_time": 1730959461,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393599,
+        "num": 393599,
+        "word": "权志龙晒茅台酒",
+        "onboard_time": 1730954302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367352,
+        "num": 367352,
+        "word": "王耀庆天生演不了穷人",
+        "onboard_time": 1730956341,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 364743,
+        "word": "赵露思珠帘玉幕发布会vlog",
+        "onboard_time": 1730959520,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79167,
+        "num": 361901,
+        "word": "烧伤妈妈丈夫称以后菜都他做",
+        "onboard_time": 1730960179,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24366,
+        "num": 357613,
+        "word": "买适老器械来某东享国补",
+        "onboard_time": 1730959341,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280055,
+        "num": 354022,
+        "word": "赛力斯发布广州问界M7事故鉴定",
+        "onboard_time": 1730959099,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353538,
+        "num": 353538,
+        "word": "拜登政府被爆计划快速对乌提供剩余援助",
+        "onboard_time": 1730949380,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 323701,
+        "num": 323701,
+        "word": "刘诗诗牵儿子手逛街",
+        "onboard_time": 1730955381,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120568,
+        "num": 319488,
+        "word": "赛力斯回应广州问界M7事故鉴定",
+        "onboard_time": 1730959520,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315384,
+        "num": 315384,
+        "word": "范丞丞回应小巷人家争议",
+        "onboard_time": 1730955742,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291579,
+        "num": 291579,
+        "word": "刘宇宁还是不太适应吻戏",
+        "onboard_time": 1730959880,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288491,
+        "num": 288491,
+        "word": "男子偷7斤榴莲给老婆吃被行拘7天",
+        "onboard_time": 1730949321,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267234,
+        "num": 267234,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249557,
+        "num": 249557,
+        "word": "王楚钦出勤率可真不低",
+        "onboard_time": 1730958260,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34760,
+        "num": 239689,
+        "word": "郑钦文谈萨巴伦卡今年表现",
+        "onboard_time": 1730960480,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265189,
+        "num": 239663,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 239452,
+        "num": 239452,
+        "word": "蜂花广告被质疑刻意丑化女性",
+        "onboard_time": 1730956101,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233498,
+        "num": 233498,
+        "word": "邯郸一中学允许女生留长发引热议",
+        "onboard_time": 1730956639,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230102,
+        "num": 230102,
+        "word": "蜂花删除争议性动态",
+        "onboard_time": 1730951481,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 227956,
+        "num": 227956,
+        "word": "留几手原生家庭",
+        "onboard_time": 1730958680,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209055,
+        "num": 209055,
+        "word": "樊振东立冬海报",
+        "onboard_time": 1730959880,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 205905,
+        "num": 205905,
+        "word": "陈平安偏偏你最争气",
+        "onboard_time": 1730960418,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195194,
+        "num": 195194,
+        "word": "小巷人家王安宇出场",
+        "onboard_time": 1730957600,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191953,
+        "num": 191953,
+        "word": "被救妻子至今不知丈夫已去世",
+        "onboard_time": 1730935817,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189186,
+        "num": 189186,
+        "word": "特朗普胜选后谈暗杀",
+        "onboard_time": 1730935097,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184914,
+        "num": 184914,
+        "word": "杨蓉好美的女明星 魏晨也是个岛民",
+        "onboard_time": 1730947159,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184631,
+        "num": 184631,
+        "word": "发型师晓华3天只睡了1个半小时",
+        "onboard_time": 1730945780,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179632,
+        "num": 179632,
+        "word": "GOT7将回归",
+        "onboard_time": 1730957660,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177426,
+        "num": 177426,
+        "word": "为什么北方没有人边走路边吃早餐",
+        "onboard_time": 1730955981,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171804,
+        "num": 171804,
+        "word": "刘丁硕说王楚钦压力太大了",
+        "onboard_time": 1730955080,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170178,
+        "num": 170178,
+        "word": "盯虞兮",
+        "onboard_time": 1730948421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160035,
+        "num": 160035,
+        "word": "蜂花 真假闺蜜",
+        "onboard_time": 1730942658,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 151921,
+        "num": 151921,
+        "word": "金价跳水了",
+        "onboard_time": 1730900063,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150932,
+        "num": 150932,
+        "word": "特朗普拜登将讨论总统权力交接事宜",
+        "onboard_time": 1730943140,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37208,
+        "num": 149060,
+        "word": "立冬换个毛绒绒图标",
+        "onboard_time": 1730956161,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好社会工作是全党共同责任#"
+    }
+  }
+}

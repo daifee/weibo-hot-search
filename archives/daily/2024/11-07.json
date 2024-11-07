@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730957904831,
+  "endTime": 1730961008991,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -19,8 +19,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2327751,
-      "num": 2327751,
+      "raw_hot": 2534184,
+      "num": 2534184,
       "word": "蜂花",
       "onboard_time": 1730946619,
       "rank": 30,
@@ -73,6 +73,14 @@
       "onboard_time": 1730935097,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1321339,
+      "num": 1321339,
+      "word": "蜂花发道歉信",
+      "onboard_time": 1730955202,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1286393,
@@ -147,6 +155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1032838,
+      "num": 1032838,
+      "word": "杨子 不尊重人",
+      "onboard_time": 1730957239,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1012306,
+      "num": 1012306,
+      "word": "王楚钦比赛疑似发高烧",
+      "onboard_time": 1730957721,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 994739,
       "num": 829486,
       "word": "美国可能面临五大变化",
@@ -185,6 +209,14 @@
       "onboard_time": 1730907442,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 923339,
+      "num": 923339,
+      "word": "彭高 翁青雅",
+      "onboard_time": 1730958500,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 914371,
@@ -267,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 617074,
+      "num": 617074,
+      "word": "papi酱说繁花片场吵架吵了三天",
+      "onboard_time": 1730959159,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 613775,
       "num": 753013,
       "word": "虞书欣帮祝绪丹防走光",
@@ -339,14 +379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 496830,
-      "num": 742410,
-      "word": "蜂花发道歉信",
-      "onboard_time": 1730955202,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 495751,
       "num": 495751,
       "word": "范丞丞回应小巷人家争议",
@@ -355,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 488545,
-      "num": 488545,
-      "word": "杨子 不尊重人",
-      "onboard_time": 1730957239,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 489178,
+      "num": 489178,
+      "word": "法国小伙捐赠家人所拍日军侵华罪证",
+      "onboard_time": 1730957900,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457973,
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291579,
+      "num": 291579,
+      "word": "刘宇宁还是不太适应吻戏",
+      "onboard_time": 1730959880,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288292,
       "num": 561940,
       "word": "永夜星河加更",
@@ -625,6 +665,14 @@
       "onboard_time": 1730947460,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 280055,
+      "num": 354022,
+      "word": "赛力斯发布广州问界M7事故鉴定",
+      "onboard_time": 1730959099,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275879,
@@ -665,6 +713,14 @@
       "onboard_time": 1730909779,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249557,
+      "num": 249557,
+      "word": "王楚钦出勤率可真不低",
+      "onboard_time": 1730958260,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 248860,
@@ -723,12 +779,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233498,
+      "num": 491375,
+      "word": "邯郸一中学允许女生留长发引热议",
+      "onboard_time": 1730956639,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229605,
       "num": 229605,
       "word": "车企高管称在车内吃东西是刚需",
       "onboard_time": 1730954181,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 227956,
+      "num": 227956,
+      "word": "留几手原生家庭",
+      "onboard_time": 1730958680,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 226486,
@@ -779,12 +851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209853,
-      "num": 209853,
-      "word": "王楚钦比赛疑似发高烧",
-      "onboard_time": 1730957721,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 209055,
+      "num": 209055,
+      "word": "樊振东立冬海报",
+      "onboard_time": 1730959880,
+      "rank": 35,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 208937,
@@ -809,6 +881,14 @@
       "onboard_time": 1730950341,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205905,
+      "num": 205905,
+      "word": "陈平安偏偏你最争气",
+      "onboard_time": 1730960418,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 204523,
@@ -921,14 +1001,6 @@
       "onboard_time": 1730948540,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171070,
-      "num": 491375,
-      "word": "邯郸一中学允许女生留长发引热议",
-      "onboard_time": 1730956639,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170636,
@@ -1179,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120568,
+      "num": 319488,
+      "word": "赛力斯回应广州问界M7事故鉴定",
+      "onboard_time": 1730959520,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118278,
       "num": 118278,
       "word": "瑞士卷可不兴一次吃6个啊",
@@ -1315,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92020,
+      "num": 364743,
+      "word": "赵露思珠帘玉幕发布会vlog",
+      "onboard_time": 1730959520,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89275,
       "num": 526557,
       "word": "格莱美预测",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1730916612,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79167,
+      "num": 361901,
+      "word": "烧伤妈妈丈夫称以后菜都他做",
+      "onboard_time": 1730960179,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77779,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1730944279,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65067,
+      "num": 491693,
+      "word": "小鹏P7+价格",
+      "onboard_time": 1730956220,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 59978,
@@ -1515,12 +1619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37208,
+      "num": 268396,
+      "word": "立冬换个毛绒绒图标",
+      "onboard_time": 1730956161,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34909,
       "num": 677727,
       "word": "立冬1分钱抢11万份鸡蛋",
       "onboard_time": 1730945478,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34760,
+      "num": 239689,
+      "word": "郑钦文谈萨巴伦卡今年表现",
+      "onboard_time": 1730960480,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 34026,
@@ -1579,14 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29263,
-      "num": 491693,
-      "word": "小鹏P7+价格",
-      "onboard_time": 1730956220,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
@@ -1611,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26060,
+      "num": 420599,
+      "word": "李行亮被麦琳嫌弃的专辑翻红",
+      "onboard_time": 1730960601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25771,
       "num": 29742,
       "word": "欧冠联赛",
@@ -1625,6 +1745,22 @@
       "onboard_time": 1730919372,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 24366,
+      "num": 357613,
+      "word": "买适老器械来某东享国补",
+      "onboard_time": 1730959341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24308,
+      "num": 397312,
+      "word": "高盛看好美股至少涨到年底",
+      "onboard_time": 1730959461,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 22935,
@@ -1689,14 +1825,6 @@
       "onboard_time": 1730952261,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15505,
-      "num": 268396,
-      "word": "立冬换个毛绒绒图标",
-      "onboard_time": 1730956161,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 13417,

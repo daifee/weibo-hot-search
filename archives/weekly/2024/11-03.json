@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730957904831,
+  "endTime": 1730961008991,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2534184,
+      "num": 2534184,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 2522854,
       "num": 2522854,
       "word": "Faker太猛了",
@@ -313,14 +321,6 @@
       "onboard_time": 1730878233,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2327751,
-      "num": 2327751,
-      "word": "蜂花",
-      "onboard_time": 1730946619,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 2317454,
@@ -907,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1321339,
+      "num": 1321339,
+      "word": "蜂花发道歉信",
+      "onboard_time": 1730955202,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1321284,
       "num": 1321284,
       "word": "先交20万元再实习1年就能转正吗",
@@ -1267,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1032838,
+      "num": 1032838,
+      "word": "杨子 不尊重人",
+      "onboard_time": 1730957239,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1026874,
       "num": 1026874,
       "word": "管泽元 求闭嘴",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1730876918,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1012306,
+      "num": 1012306,
+      "word": "王楚钦比赛疑似发高烧",
+      "onboard_time": 1730957721,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 1007438,
@@ -1544,6 +1568,14 @@
       "word": "孙滢皓坐了导师的位置",
       "onboard_time": 1730648239,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 923339,
+      "num": 923339,
+      "word": "彭高 翁青雅",
+      "onboard_time": 1730958500,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2459,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617074,
+      "num": 617074,
+      "word": "papi酱说繁花片场吵架吵了三天",
+      "onboard_time": 1730959159,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 616821,
       "num": 616821,
       "word": "警方将排查网传女子路边被强暴事件",
@@ -3171,14 +3211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 496830,
-      "num": 742410,
-      "word": "蜂花发道歉信",
-      "onboard_time": 1730955202,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 495751,
       "num": 495751,
       "word": "范丞丞回应小巷人家争议",
@@ -3219,12 +3251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488545,
-      "num": 488545,
-      "word": "杨子 不尊重人",
-      "onboard_time": 1730957239,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 489178,
+      "num": 489178,
+      "word": "法国小伙捐赠家人所拍日军侵华罪证",
+      "onboard_time": 1730957900,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487896,
@@ -4979,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291579,
+      "num": 291579,
+      "word": "刘宇宁还是不太适应吻戏",
+      "onboard_time": 1730959880,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290182,
       "num": 290182,
       "word": "华为Mate70提前拆封罚款50万起",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1730563882,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 280055,
+      "num": 354022,
+      "word": "赛力斯发布广州问界M7事故鉴定",
+      "onboard_time": 1730959099,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279871,
@@ -5651,6 +5699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249557,
+      "num": 249557,
+      "word": "王楚钦出勤率可真不低",
+      "onboard_time": 1730958260,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248860,
       "num": 248860,
       "word": "特朗普胜选后马斯克身家大涨",
@@ -5971,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233498,
+      "num": 491375,
+      "word": "邯郸一中学允许女生留长发引热议",
+      "onboard_time": 1730956639,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -6081,6 +6145,14 @@
       "onboard_time": 1730892140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227956,
+      "num": 227956,
+      "word": "留几手原生家庭",
+      "onboard_time": 1730958680,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 227920,
@@ -6507,14 +6579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209853,
-      "num": 209853,
-      "word": "王楚钦比赛疑似发高烧",
-      "onboard_time": 1730957721,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209773,
       "num": 209773,
       "word": "三个月把臭水沟打造成瀑布",
@@ -6537,6 +6601,14 @@
       "onboard_time": 1730604320,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209055,
+      "num": 209055,
+      "word": "樊振东立冬海报",
+      "onboard_time": 1730959880,
+      "rank": 35,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 208937,
@@ -6689,6 +6761,14 @@
       "onboard_time": 1730732960,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205905,
+      "num": 205905,
+      "word": "陈平安偏偏你最争气",
+      "onboard_time": 1730960418,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 205518,
@@ -8264,14 +8344,6 @@
       "word": "特朗普后悔离开白宫",
       "onboard_time": 1730732061,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171070,
-      "num": 491375,
-      "word": "邯郸一中学允许女生留长发引热议",
-      "onboard_time": 1730956639,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -10579,6 +10651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120568,
+      "num": 319488,
+      "word": "赛力斯回应广州问界M7事故鉴定",
+      "onboard_time": 1730959520,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120080,
       "num": 120080,
       "word": "返回地球路上神十八航天员在干啥",
@@ -11331,6 +11411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92020,
+      "num": 364743,
+      "word": "赵露思珠帘玉幕发布会vlog",
+      "onboard_time": 1730959520,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91390,
       "num": 142923,
       "word": "杨紫家业围读剧本",
@@ -11583,6 +11671,14 @@
       "num": 478028,
       "word": "河南固始被害妻子曾多次遭家暴",
       "onboard_time": 1730815943,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79167,
+      "num": 361901,
+      "word": "烧伤妈妈丈夫称以后菜都他做",
+      "onboard_time": 1730960179,
       "rank": 18,
       "category": "社会新闻"
     },
@@ -11857,6 +11953,14 @@
       "onboard_time": 1730876918,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65067,
+      "num": 491693,
+      "word": "小鹏P7+价格",
+      "onboard_time": 1730956220,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 64884,
@@ -12691,6 +12795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37208,
+      "num": 268396,
+      "word": "立冬换个毛绒绒图标",
+      "onboard_time": 1730956161,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37196,
       "num": 522209,
       "word": "拘禁女子5年的男子曾乱行医治死人",
@@ -12809,6 +12921,14 @@
       "onboard_time": 1730718738,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34760,
+      "num": 239689,
+      "word": "郑钦文谈萨巴伦卡今年表现",
+      "onboard_time": 1730960480,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 34755,
@@ -13083,14 +13203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29263,
-      "num": 491693,
-      "word": "小鹏P7+价格",
-      "onboard_time": 1730956220,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 29066,
       "num": 415297,
       "word": "离岸人民币大涨超500基点",
@@ -13259,6 +13371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26060,
+      "num": 420599,
+      "word": "李行亮被麦琳嫌弃的专辑翻红",
+      "onboard_time": 1730960601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25838,
       "num": 331125,
       "word": "网友喊话再见爱人分瑞士卷",
@@ -13347,12 +13467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24366,
+      "num": 357613,
+      "word": "买适老器械来某东享国补",
+      "onboard_time": 1730959341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24312,
       "num": 328597,
       "word": "记者采访广州失火厂房被阻拦",
       "onboard_time": 1730621838,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24308,
+      "num": 397312,
+      "word": "高盛看好美股至少涨到年底",
+      "onboard_time": 1730959461,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 24242,
@@ -13953,14 +14089,6 @@
       "onboard_time": 1730618899,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15505,
-      "num": 268396,
-      "word": "立冬换个毛绒绒图标",
-      "onboard_time": 1730956161,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 15282,
