@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/03 00:26:59 ~ 2024/11/08 01:36:56
+本榜单时间：2024/11/03 00:26:59 ~ 2024/11/08 02:29:17
 </p>
 </blockquote>
 <p>
@@ -7983,6 +7983,12 @@ Bin与BLG合同即将到期（热度：147577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E7%BE%8E%E7%AD%BE%E6%B2%A1%E8%BF%87%E4%B8%80%E4%B8%87%E5%A4%9A%E5%9B%A2%E8%B4%B9%E6%B2%A1%E9%80%80%23" target="weibo">
+姑娘美签没过一万多团费没退（热度：146203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E5%88%9D%E6%AC%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
 朱志鑫初次红毯（热度：146148）
 </a>
@@ -9693,12 +9699,6 @@ Haerin不参加高考（热度：93748）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E7%BE%8E%E7%AD%BE%E6%B2%A1%E8%BF%87%E4%B8%80%E4%B8%87%E5%A4%9A%E5%9B%A2%E8%B4%B9%E6%B2%A1%E9%80%80%23" target="weibo">
-姑娘美签没过一万多团费没退（热度：87804）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E6%94%BF%E6%B2%BB%E6%88%90%E5%B0%B1%23" target="weibo">
 特朗普称取得了不可思议的政治成就（热度：86825）
 </a>
@@ -10599,6 +10599,12 @@ X200Promini年度超强小直屏（热度：56078）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%B4%AA%E6%96%87%E6%97%85%E5%89%AF%E5%B1%80%E9%95%BF%E4%B8%BA%E8%A7%86%E9%A2%91%E7%BE%8E%E9%A2%9C%E8%87%B4%E6%AD%89%23" target="weibo">
+于洪文旅副局长为视频美颜致歉（热度：48427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8WTO%E8%B5%B7%E8%AF%89%E6%AC%A7%E7%9B%9F%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%8D%E8%A1%A5%E8%B4%B4%E7%BB%88%E8%A3%81%E6%8E%AA%E6%96%BD%23" target="weibo">
 中方在WTO起诉欧盟电动汽车反补贴终裁措施（热度：48055）
 </a>
@@ -11225,6 +11231,12 @@ A股成交连续26个交易日破万亿（热度：38628）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C919%E5%92%8CARJ21%E9%A6%96%E6%AC%A1%E5%8F%8C%E6%9C%BA%E7%BC%96%E9%98%9F%E9%A3%9E%E8%A1%8C%23" target="weibo">
 C919和ARJ21首次双机编队飞行（热度：32856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%20%E6%9D%A8%E5%AD%90%E5%81%87%E8%A3%85%E5%9C%A8%E6%88%8F%E5%BC%84%E4%BA%BA%E9%97%B4%23" target="weibo">
+papi酱 杨子假装在戏弄人间（热度：32500）
 </a>
 </li>
 

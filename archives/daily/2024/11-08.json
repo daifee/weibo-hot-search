@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731001016344,
+  "endTime": 1731004157429,
   "band_list": [
     {
       "raw_hot": 2438949,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146203,
+      "num": 146203,
+      "word": "姑娘美签没过一万多团费没退",
+      "onboard_time": 1730998817,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139674,
       "num": 139674,
       "word": "张泉灵 我很困扰和无力",
@@ -379,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87804,
-      "num": 125861,
-      "word": "姑娘美签没过一万多团费没退",
-      "onboard_time": 1730998817,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86579,
       "num": 86579,
       "word": "浙江籍女飞行员亮相航展",
@@ -459,8 +459,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48427,
+      "num": 48427,
+      "word": "于洪文旅副局长为视频美颜致歉",
+      "onboard_time": 1731002173,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40637,
-      "num": 46926,
+      "num": 47476,
       "word": "女飞徐枫灿开着直20到珠海了",
       "onboard_time": 1730997198,
       "rank": 49,
@@ -473,6 +481,14 @@
       "onboard_time": 1731000615,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 32500,
+      "num": 32500,
+      "word": "papi酱 杨子假装在戏弄人间",
+      "onboard_time": 1731001874,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 31106,
