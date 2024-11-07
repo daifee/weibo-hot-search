@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/07 21:38:17
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/07 22:20:40
 </p>
 </blockquote>
 <p>
@@ -1779,6 +1779,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%88%A0%E4%BA%86%E5%AE%A3%E4%BC%A0%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B0%E5%89%A7%E5%BE%AE%E5%8D%9A%23" target="weibo">
+鹿晗删了宣传关晓彤新剧微博（热度：7974172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23" target="weibo">
 中国女排vs美国女排（热度：7962979）
 </a>
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A5%E4%BA%86%23" target="weibo">
 迪丽热巴来了（热度：7932627）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%20%E9%9B%B7%E7%A5%9E%23" target="weibo">
-雷军 雷神（热度：7917148）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730986697926,
+  "endTime": 1730989240806,
   "band_list": [
     {
       "raw_hot": 10504532,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6923819,
-      "num": 6923819,
+      "raw_hot": 7974172,
+      "num": 7974172,
       "word": "鹿晗删了宣传关晓彤新剧微博",
       "onboard_time": 1730985382,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1985496,
-      "num": 405232,
+      "num": 446156,
       "word": "翁青雅 奥斯卡",
       "onboard_time": 1730982742,
       "rank": 11,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1850903,
-      "num": 451180,
+      "num": 608941,
       "word": "彭高ins回关孙乐言",
       "onboard_time": 1730985443,
       "rank": 6,
@@ -145,6 +145,14 @@
       "onboard_time": 1730949380,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1517358,
+      "num": 1517358,
+      "word": "长沙一小区内3人身亡",
+      "onboard_time": 1730987485,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1466696,
@@ -643,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490957,
+      "num": 490957,
+      "word": "蒋欣演技 拿奖",
+      "onboard_time": 1730986043,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468840,
       "num": 462185,
       "word": "红气养猴",
@@ -883,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356810,
+      "num": 356810,
+      "word": "彭高恳请大家不要再指责任何人",
+      "onboard_time": 1730988984,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356618,
       "num": 595509,
       "word": "心疼庄筱婷",
@@ -939,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 331042,
+      "num": 380500,
+      "word": "钱天一vs伊藤美诚",
+      "onboard_time": 1730985502,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329914,
       "num": 329914,
       "word": "蜂花广告被质疑刻意丑化女性",
@@ -953,6 +985,14 @@
       "onboard_time": 1730907320,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323391,
+      "num": 323391,
+      "word": "赵露思直播",
+      "onboard_time": 1730986403,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 320916,
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303481,
+      "num": 303481,
+      "word": "恋综 分手",
+      "onboard_time": 1730978603,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301248,
       "num": 301248,
       "word": "小巷人家王安宇出场",
@@ -1065,6 +1113,22 @@
       "onboard_time": 1730966480,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 296296,
+      "num": 296296,
+      "word": "微信运动一个很私密的东西",
+      "onboard_time": 1730988145,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 295840,
+      "num": 295840,
+      "word": "女子11元拍到海景房险些被老公拒收",
+      "onboard_time": 1730985623,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293775,
@@ -1131,14 +1195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 278354,
-      "num": 253857,
-      "word": "女子11元拍到海景房险些被老公拒收",
-      "onboard_time": 1730985623,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275879,
       "num": 275879,
       "word": "寄明月MV",
@@ -1196,7 +1252,7 @@
     },
     {
       "raw_hot": 261640,
-      "num": 232384,
+      "num": 238298,
       "word": "黄晓明未删与叶珂官宣微博",
       "onboard_time": 1730985202,
       "rank": 26,
@@ -1219,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258336,
-      "num": 172936,
-      "word": "蒋欣演技 拿奖",
-      "onboard_time": 1730986043,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 254488,
+      "num": 254488,
+      "word": "男子赶在金价下跌前出售6根金条",
+      "onboard_time": 1730986765,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 248860,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1730904981,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210439,
+      "num": 210439,
+      "word": "看起来气血不足 没想到精力这么旺盛",
+      "onboard_time": 1730987844,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 209055,
@@ -1691,6 +1755,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 182444,
+      "num": 188588,
+      "word": "钱天一11比1",
+      "onboard_time": 1730987725,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181382,
       "num": 477734,
       "word": "KPL供暖了",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1730965459,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174456,
+      "num": 447709,
+      "word": "钱天一3比0伊藤美诚",
+      "onboard_time": 1730988563,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 173334,
@@ -1793,6 +1873,14 @@
       "onboard_time": 1730971340,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 165855,
+      "num": 227735,
+      "word": "刘宇宁疑似失去所有力气和手段",
+      "onboard_time": 1730983762,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 165096,
@@ -1939,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152552,
+      "num": 152552,
+      "word": "巷子里再也没有人护着你妈了",
+      "onboard_time": 1730987785,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150190,
       "num": 150190,
       "word": "来自胖妞的压迫感",
@@ -2001,6 +2097,14 @@
       "onboard_time": 1730937439,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144615,
+      "num": 243097,
+      "word": "特朗普胜选关键在美国农村",
+      "onboard_time": 1730988865,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 142679,
@@ -2091,6 +2195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134337,
+      "num": 340897,
+      "word": "踹打多名学生的女教师已被停课",
+      "onboard_time": 1730984543,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133869,
       "num": 133869,
       "word": "第五人格",
@@ -2104,14 +2216,6 @@
       "word": "你好冬天",
       "onboard_time": 1730935518,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132991,
-      "num": 340897,
-      "word": "踹打多名学生的女教师已被停课",
-      "onboard_time": 1730984543,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2161,14 +2265,6 @@
       "onboard_time": 1730899942,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129306,
-      "num": 129306,
-      "word": "赵露思直播",
-      "onboard_time": 1730986403,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 129187,
@@ -2241,6 +2337,14 @@
       "onboard_time": 1730951661,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122384,
+      "num": 522187,
+      "word": "钱天一晋级8强",
+      "onboard_time": 1730988504,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 121978,
@@ -2587,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76653,
+      "num": 188594,
+      "word": "钱天一连得10分",
+      "onboard_time": 1730987785,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76502,
       "num": 84363,
       "word": "7类食材自带有害物质",
@@ -2715,6 +2827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62640,
+      "num": 306749,
+      "word": "这届中国航展太passion了",
+      "onboard_time": 1730988984,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 62579,
       "num": 446716,
       "word": "网友喊话王楚钦还年轻下个赛场见",
@@ -2801,14 +2921,6 @@
       "onboard_time": 1730966240,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55092,
-      "num": 227735,
-      "word": "刘宇宁疑似失去所有力气和手段",
-      "onboard_time": 1730983762,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 53993,
@@ -2939,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41465,
-      "num": 380500,
-      "word": "钱天一vs伊藤美诚",
-      "onboard_time": 1730985502,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40577,
       "num": 260132,
       "word": "你有多久没听到叫卖声了",
@@ -3035,12 +3139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36005,
+      "num": 373948,
+      "word": "911恐袭嫌疑人将免于死刑",
+      "onboard_time": 1730988745,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 35365,
       "num": 456462,
       "word": "股票直播间线下投顾公司连环套路",
       "onboard_time": 1730978363,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 35271,
+      "num": 164361,
+      "word": "奥迪新品牌AUDI概念车首秀",
+      "onboard_time": 1730989045,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 34909,
@@ -3171,12 +3291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29000,
+      "num": 637558,
+      "word": "落叶一点点描出冬的模样",
+      "onboard_time": 1730984903,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
       "onboard_time": 1730914813,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27905,
+      "num": 313768,
+      "word": "庄筱婷林栋哲4.0上线",
+      "onboard_time": 1730988504,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 27476,
@@ -3201,6 +3337,14 @@
       "onboard_time": 1730982382,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26198,
+      "num": 312440,
+      "word": "云南一律师犯运输毒品罪获刑10年",
+      "onboard_time": 1730988205,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25771,
@@ -3280,14 +3424,6 @@
       "word": "杨妞花说如果是炒作要炒得天下无拐",
       "onboard_time": 1730923452,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21898,
-      "num": 560327,
-      "word": "落叶一点点描出冬的模样",
-      "onboard_time": 1730984903,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

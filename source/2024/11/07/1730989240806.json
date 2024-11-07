@@ -1,0 +1,410 @@
+{
+  "runTime": 1730989240806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7974172,
+        "num": 7974172,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1517358,
+        "num": 1517358,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29000,
+        "num": 637558,
+        "word": "落叶一点点描出冬的模样",
+        "onboard_time": 1730984903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3545112,
+        "num": 631695,
+        "word": "彭高翁青雅分手",
+        "onboard_time": 1730977043,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624087,
+        "num": 624087,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613921,
+        "num": 613921,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1419859,
+        "num": 608941,
+        "word": "彭高ins回关孙乐言",
+        "onboard_time": 1730985443,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594105,
+        "num": 594105,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122384,
+        "num": 522187,
+        "word": "钱天一晋级8强",
+        "onboard_time": 1730988504,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490957,
+        "num": 490957,
+        "word": "蒋欣演技 拿奖",
+        "onboard_time": 1730986043,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174456,
+        "num": 447709,
+        "word": "钱天一3比0伊藤美诚",
+        "onboard_time": 1730988563,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887966,
+        "num": 446156,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438439,
+        "num": 438439,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398496,
+        "num": 398496,
+        "word": "鹿晗宣传关晓彤新剧",
+        "onboard_time": 1730983222,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36005,
+        "num": 373948,
+        "word": "911恐袭嫌疑人将免于死刑",
+        "onboard_time": 1730988745,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 356810,
+        "num": 356810,
+        "word": "彭高恳请大家不要再指责任何人",
+        "onboard_time": 1730988984,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331042,
+        "num": 331042,
+        "word": "钱天一vs伊藤美诚",
+        "onboard_time": 1730985502,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323391,
+        "num": 323391,
+        "word": "赵露思直播",
+        "onboard_time": 1730986403,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27905,
+        "num": 313768,
+        "word": "庄筱婷林栋哲4.0上线",
+        "onboard_time": 1730988504,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26198,
+        "num": 312440,
+        "word": "云南一律师犯运输毒品罪获刑10年",
+        "onboard_time": 1730988205,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331664,
+        "num": 312398,
+        "word": "35岁女生花70万在英国留学一年",
+        "onboard_time": 1730984362,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311534,
+        "num": 311534,
+        "word": "费启鸣 永夜星河",
+        "onboard_time": 1730980822,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62640,
+        "num": 306749,
+        "word": "这届中国航展太passion了",
+        "onboard_time": 1730988984,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 305386,
+        "num": 305386,
+        "word": "军队文职",
+        "onboard_time": 1730983462,
+        "rank": 23,
+        "category": "军事,教育"
+      },
+      {
+        "raw_hot": 303481,
+        "num": 303481,
+        "word": "恋综 分手",
+        "onboard_time": 1730978603,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296296,
+        "num": 296296,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295840,
+        "num": 295840,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258401,
+        "num": 258401,
+        "word": "丁禹兮人生镜头",
+        "onboard_time": 1730980343,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254488,
+        "num": 254488,
+        "word": "男子赶在金价下跌前出售6根金条",
+        "onboard_time": 1730986765,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 144615,
+        "num": 243097,
+        "word": "特朗普胜选关键在美国农村",
+        "onboard_time": 1730988865,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238298,
+        "num": 238298,
+        "word": "黄晓明未删与叶珂官宣微博",
+        "onboard_time": 1730985202,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248204,
+        "num": 236811,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210439,
+        "num": 210439,
+        "word": "看起来气血不足 没想到精力这么旺盛",
+        "onboard_time": 1730987844,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207529,
+        "num": 207529,
+        "word": "李娜回应郑钦文不与选手交友",
+        "onboard_time": 1730972659,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188632,
+        "num": 188632,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 76653,
+        "num": 188594,
+        "word": "钱天一连得10分",
+        "onboard_time": 1730987785,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182444,
+        "num": 188588,
+        "word": "钱天一11比1",
+        "onboard_time": 1730987725,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188587,
+        "num": 188587,
+        "word": "招生简章把港澳列入国家川大将追责",
+        "onboard_time": 1730966660,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174627,
+        "num": 174627,
+        "word": "陈妍希戴婚戒逛商场",
+        "onboard_time": 1730981182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171461,
+        "num": 171461,
+        "word": "8岁娃扔玩具被终身禁入熊猫基地",
+        "onboard_time": 1730971999,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168777,
+        "num": 168777,
+        "word": "永夜星河",
+        "onboard_time": 1730975482,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165855,
+        "num": 165855,
+        "word": "刘宇宁疑似失去所有力气和手段",
+        "onboard_time": 1730983762,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164897,
+        "num": 164897,
+        "word": "林俊杰FinalLap官宣",
+        "onboard_time": 1730983762,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35271,
+        "num": 164361,
+        "word": "奥迪新品牌AUDI概念车首秀",
+        "onboard_time": 1730989045,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163902,
+        "num": 163902,
+        "word": "王凯 这就是我不发朋友圈的原因",
+        "onboard_time": 1730975904,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155300,
+        "num": 155300,
+        "word": "彭高 真诚",
+        "onboard_time": 1730979504,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152552,
+        "num": 152552,
+        "word": "巷子里再也没有人护着你妈了",
+        "onboard_time": 1730987785,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 137203,
+        "word": "县城贵妇悄悄买走上亿元皮草",
+        "onboard_time": 1730974761,
+        "rank": 47,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 135581,
+        "num": 135581,
+        "word": "父亲跳河救失足落水女儿不幸溺亡",
+        "onboard_time": 1730985382,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134337,
+        "num": 134337,
+        "word": "踹打多名学生的女教师已被停课",
+        "onboard_time": 1730984543,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记嘱托加强和创新基层社会治理#"
+    }
+  }
+}
