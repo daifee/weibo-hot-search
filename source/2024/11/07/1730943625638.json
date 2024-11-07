@@ -1,0 +1,410 @@
+{
+  "runTime": 1730943625638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1737223,
+        "num": 1737223,
+        "word": "哈里斯称接受败选结果",
+        "onboard_time": 1730935159,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1030026,
+        "num": 1030026,
+        "word": "金价跳水了",
+        "onboard_time": 1730900063,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7504,
+        "num": 830954,
+        "word": "数读我国防沙治沙成绩单",
+        "onboard_time": 1730896281,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1620917,
+        "num": 825070,
+        "word": "马斯克要求台湾供应商搬出台湾",
+        "onboard_time": 1730934377,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1280865,
+        "num": 824436,
+        "word": "特朗普胜选后谈暗杀",
+        "onboard_time": 1730935097,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 801579,
+        "num": 801579,
+        "word": "被救妻子至今不知丈夫已去世",
+        "onboard_time": 1730935817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956323,
+        "num": 799202,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 613775,
+        "num": 753013,
+        "word": "虞书欣帮祝绪丹防走光",
+        "onboard_time": 1730939961,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457973,
+        "num": 748488,
+        "word": "陈都灵 扇耳光当然要快",
+        "onboard_time": 1730936899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95296,
+        "num": 707375,
+        "word": "市监所2名骂人员工被停职",
+        "onboard_time": 1730943199,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631560,
+        "num": 681815,
+        "word": "生过孩子的姐妹嘴真严啊",
+        "onboard_time": 1730940921,
+        "rank": 10,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 679735,
+        "num": 679735,
+        "word": "立冬",
+        "onboard_time": 1730934677,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606231,
+        "num": 606231,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 524217,
+        "num": 524217,
+        "word": "官方回应4名年轻公职人员遇车祸身亡",
+        "onboard_time": 1730908641,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515183,
+        "num": 515183,
+        "word": "马斯克身家单日猛增209亿美元",
+        "onboard_time": 1730937140,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 459808,
+        "num": 459808,
+        "word": "特朗普拜登将讨论总统权力交接事宜",
+        "onboard_time": 1730943140,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402416,
+        "num": 456461,
+        "word": "李家的功臣麦琳",
+        "onboard_time": 1730941041,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375565,
+        "num": 450579,
+        "word": "赵露思不想让珠帘玉幕留遗憾",
+        "onboard_time": 1730937799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288292,
+        "num": 438531,
+        "word": "永夜星河加更",
+        "onboard_time": 1730935758,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286632,
+        "num": 432798,
+        "word": "小巷人家里只有李佳没有家",
+        "onboard_time": 1730935817,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431239,
+        "num": 431239,
+        "word": "萝莉岛",
+        "onboard_time": 1730885783,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 427738,
+        "num": 427738,
+        "word": "拜登为卸任之后生活做准备",
+        "onboard_time": 1730941939,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381841,
+        "num": 381841,
+        "word": "中国人吃掉了智利91%的车厘子",
+        "onboard_time": 1730940322,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324504,
+        "num": 324504,
+        "word": "蜂花 真假闺蜜",
+        "onboard_time": 1730942658,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 320916,
+        "num": 320916,
+        "word": "男子不满敬酒顺序太靠后持刀砍人",
+        "onboard_time": 1730936480,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285200,
+        "num": 285200,
+        "word": "拜登祝贺特朗普",
+        "onboard_time": 1730935339,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240554,
+        "num": 240554,
+        "word": "立冬文案",
+        "onboard_time": 1730934738,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229666,
+        "num": 229666,
+        "word": "特朗普胜选后马斯克身家大涨",
+        "onboard_time": 1730940381,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180890,
+        "num": 226509,
+        "word": "郝蕾回应演员能不能直播带货",
+        "onboard_time": 1730909899,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160169,
+        "num": 220108,
+        "word": "禹宙中欣",
+        "onboard_time": 1730938821,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408320,
+        "num": 215727,
+        "word": "银行人下班一看天塌了",
+        "onboard_time": 1730941760,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234039,
+        "num": 212203,
+        "word": "立冬吃什么",
+        "onboard_time": 1730941399,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208937,
+        "num": 208937,
+        "word": "官方通报市监所员工骂消费者狗东西",
+        "onboard_time": 1730939902,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200377,
+        "num": 200377,
+        "word": "王楚钦说一个也发不转",
+        "onboard_time": 1730935817,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158706,
+        "num": 200016,
+        "word": "凌妙妙剧透大结局没人信",
+        "onboard_time": 1730943380,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199719,
+        "num": 199719,
+        "word": "我从不怀疑新中式在冬天的魅力",
+        "onboard_time": 1730943140,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167640,
+        "num": 167640,
+        "word": "河南一地交通事故4名公职人员遇难",
+        "onboard_time": 1730940381,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165126,
+        "num": 165126,
+        "word": "烧伤妈妈丈夫准备直播开橱窗卖货",
+        "onboard_time": 1730939361,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159341,
+        "num": 159341,
+        "word": "王楚钦0比3卡尔伯格",
+        "onboard_time": 1730920391,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145631,
+        "num": 155938,
+        "word": "祝绪丹剧里剧外都正的发邪",
+        "onboard_time": 1730937439,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154018,
+        "num": 154018,
+        "word": "中俄三款隐身战机首次同框",
+        "onboard_time": 1730937980,
+        "rank": 40,
+        "category": "国外时政,国内时政"
+      },
+      {
+        "raw_hot": 148015,
+        "num": 148015,
+        "word": "华为固态电池专利公布",
+        "onboard_time": 1730943140,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141245,
+        "num": 141245,
+        "word": "庄超英也是吃上黄玲的苦了",
+        "onboard_time": 1730936300,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140239,
+        "num": 140239,
+        "word": "朴珍荣退伍",
+        "onboard_time": 1730939541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139071,
+        "num": 139071,
+        "word": "现货黄金跌破2660美元",
+        "onboard_time": 1730940202,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138946,
+        "num": 138946,
+        "word": "美国可能面临五大变化",
+        "onboard_time": 1730914094,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136290,
+        "num": 136290,
+        "word": "苹果喊话iPhone13和14钉子户",
+        "onboard_time": 1730889803,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133869,
+        "num": 133869,
+        "word": "第五人格",
+        "onboard_time": 1730941341,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129124,
+        "num": 129124,
+        "word": "博士情侣瞒领导下班摆摊月入3万",
+        "onboard_time": 1730897660,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "专家详解歼35A命名规则",
+        "onboard_time": 1730942360,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好社会工作是全党共同责任#"
+    }
+  }
+}
