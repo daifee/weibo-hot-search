@@ -1,0 +1,410 @@
+{
+  "runTime": 1731015318543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 156049,
+        "num": 178370,
+        "word": "民警着急大吼这是23万不是23块",
+        "onboard_time": 1730994020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97603,
+        "num": 97603,
+        "word": "徐若瑄被曝患癌后回应",
+        "onboard_time": 1730994321,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1195,
+        "num": 81481,
+        "word": "一起看进博",
+        "onboard_time": 1730983282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68313,
+        "num": 68313,
+        "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
+        "onboard_time": 1730996059,
+        "rank": 3,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 67962,
+        "num": 67962,
+        "word": "广东人迎来自己的胖东来",
+        "onboard_time": 1730997138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56500,
+        "num": 56500,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53319,
+        "num": 53319,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43082,
+        "num": 43082,
+        "word": "特朗普胜选关键在美国农村",
+        "onboard_time": 1730988865,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42779,
+        "num": 42779,
+        "word": "中美相向而行造福两国惠及世界",
+        "onboard_time": 1731010870,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36015,
+        "num": 42653,
+        "word": "肖战 专辑",
+        "onboard_time": 1730992343,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59227,
+        "num": 42609,
+        "word": "华侨大学通报教师班级群发表不当言论",
+        "onboard_time": 1730995219,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 52662,
+        "num": 42580,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42552,
+        "num": 42552,
+        "word": "姑娘美签没过一万多团费没退",
+        "onboard_time": 1730998817,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42133,
+        "num": 42133,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37109,
+        "num": 37109,
+        "word": "与蜂花合作插画师所在MCN公司回应",
+        "onboard_time": 1731004753,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109406,
+        "num": 36408,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18582,
+        "num": 35779,
+        "word": "女老师操场踢打学生派出所已介入",
+        "onboard_time": 1731013570,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 27364,
+        "num": 34463,
+        "word": "鹿晗宣传关晓彤新剧",
+        "onboard_time": 1730983222,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26719,
+        "num": 33161,
+        "word": "饶雪漫",
+        "onboard_time": 1730990185,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26562,
+        "num": 32591,
+        "word": "武艺 没弄清杨子来节目的意义",
+        "onboard_time": 1730989404,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31879,
+        "num": 31879,
+        "word": "徐海鹏被遣返回国",
+        "onboard_time": 1730991443,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29762,
+        "num": 29762,
+        "word": "林诗栋vs杜达",
+        "onboard_time": 1730995280,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137345,
+        "num": 29625,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29161,
+        "num": 29161,
+        "word": "35岁女生花70万在英国留学一年",
+        "onboard_time": 1730984362,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28161,
+        "num": 28161,
+        "word": "赛力斯称已报警",
+        "onboard_time": 1730997018,
+        "rank": 24,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 24144,
+        "num": 28159,
+        "word": "蒋欣演技 拿奖",
+        "onboard_time": 1730986043,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22157,
+        "num": 27990,
+        "word": "张泉灵 我很困扰和无力",
+        "onboard_time": 1730995043,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18778,
+        "num": 27858,
+        "word": "费启鸣 永夜星河",
+        "onboard_time": 1730980822,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17152,
+        "num": 27769,
+        "word": "papi酱 杨子假装在戏弄人间",
+        "onboard_time": 1731001874,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20062,
+        "num": 27622,
+        "word": "科研人员的凡尔赛让朱广权愣住了",
+        "onboard_time": 1731012072,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27556,
+        "num": 27556,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730999414,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26090,
+        "num": 26090,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25757,
+        "num": 25757,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23740,
+        "num": 23740,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22585,
+        "num": 22585,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22346,
+        "num": 22346,
+        "word": "男子赶在金价下跌前出售6根金条",
+        "onboard_time": 1730986765,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 22067,
+        "num": 22067,
+        "word": "高芙vs克雷吉茨科娃",
+        "onboard_time": 1730994561,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21809,
+        "num": 21809,
+        "word": "女飞徐枫灿开着直20到珠海了",
+        "onboard_time": 1730997198,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21649,
+        "num": 21649,
+        "word": "保持饥饿感的重要性",
+        "onboard_time": 1730991686,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20099,
+        "num": 20099,
+        "word": "徐枫灿驾驶直20抵达珠海",
+        "onboard_time": 1730996838,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19861,
+        "num": 19861,
+        "word": "浙江籍女飞行员亮相航展",
+        "onboard_time": 1730997438,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19365,
+        "num": 19365,
+        "word": "原来中式审美都是有出处的",
+        "onboard_time": 1731005173,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17251,
+        "num": 19364,
+        "word": "蜂花真假闺蜜画师账号已改名",
+        "onboard_time": 1731009670,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17077,
+        "num": 19355,
+        "word": "于洪文旅副局长为视频美颜致歉",
+        "onboard_time": 1731002173,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16731,
+        "num": 19351,
+        "word": "走出一条新时期中美正确相处之道",
+        "onboard_time": 1731012251,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16469,
+        "num": 19343,
+        "word": "彭高 真诚",
+        "onboard_time": 1730979504,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15775,
+        "num": 19333,
+        "word": "恋综 分手",
+        "onboard_time": 1730978603,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14839,
+        "num": 19325,
+        "word": "王艺迪vs萨马拉",
+        "onboard_time": 1730998817,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14063,
+        "num": 19319,
+        "word": "小巷人家",
+        "onboard_time": 1730982682,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14013,
+        "num": 19312,
+        "word": "美投票日千名移民焦虑等待入境美国",
+        "onboard_time": 1731007872,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#做党和人民信赖的新闻工作者#"
+    }
+  }
+}
