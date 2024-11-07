@@ -1,0 +1,410 @@
+{
+  "runTime": 1730999961564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076678,
+        "num": 1076678,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484437,
+        "num": 484437,
+        "word": "华侨大学通报教师班级群发表不当言论",
+        "onboard_time": 1730995219,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2086,
+        "num": 437382,
+        "word": "一起看进博",
+        "onboard_time": 1730983282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429752,
+        "num": 429752,
+        "word": "民警着急大吼这是23万不是23块",
+        "onboard_time": 1730994020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421679,
+        "num": 421679,
+        "word": "广东人迎来自己的胖东来",
+        "onboard_time": 1730997138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282715,
+        "num": 282715,
+        "word": "徐若瑄被曝患癌后回应",
+        "onboard_time": 1730994321,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267478,
+        "num": 267478,
+        "word": "饶雪漫",
+        "onboard_time": 1730990185,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226914,
+        "num": 226914,
+        "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
+        "onboard_time": 1730996059,
+        "rank": 7,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 226399,
+        "num": 226399,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174985,
+        "num": 174985,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1008583,
+        "num": 174983,
+        "word": "彭高翁青雅分手",
+        "onboard_time": 1730977043,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615572,
+        "num": 174862,
+        "word": "赵露思回应网友说她以前比较好看",
+        "onboard_time": 1730990005,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171149,
+        "num": 171149,
+        "word": "凌妙妙慕子期开虐",
+        "onboard_time": 1730994142,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131438,
+        "num": 131438,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29702,
+        "num": 130952,
+        "word": "王艺迪vs萨马拉",
+        "onboard_time": 1730998817,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353123,
+        "num": 129728,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310559,
+        "num": 129146,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730999414,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112011,
+        "num": 127686,
+        "word": "永夜星河热度",
+        "onboard_time": 1730990843,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91625,
+        "num": 126676,
+        "word": "肖战 专辑",
+        "onboard_time": 1730992343,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87804,
+        "num": 125861,
+        "word": "姑娘美签没过一万多团费没退",
+        "onboard_time": 1730998817,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335018,
+        "num": 124506,
+        "word": "彭高ins回关孙乐言",
+        "onboard_time": 1730985443,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124114,
+        "num": 124114,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 123720,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104929,
+        "num": 104929,
+        "word": "徐海鹏被遣返回国",
+        "onboard_time": 1730991443,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101935,
+        "num": 101935,
+        "word": "高芙vs克雷吉茨科娃",
+        "onboard_time": 1730994561,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94157,
+        "num": 94157,
+        "word": "特朗普胜选关键在美国农村",
+        "onboard_time": 1730988865,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88548,
+        "num": 88548,
+        "word": "蒋欣演技 拿奖",
+        "onboard_time": 1730986043,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84579,
+        "num": 84579,
+        "word": "赛力斯称已报警",
+        "onboard_time": 1730997018,
+        "rank": 27,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 84441,
+        "num": 84441,
+        "word": "张泉灵 我很困扰和无力",
+        "onboard_time": 1730995043,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81655,
+        "num": 81655,
+        "word": "费启鸣 永夜星河",
+        "onboard_time": 1730980822,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82573,
+        "num": 81290,
+        "word": "35岁女生花70万在英国留学一年",
+        "onboard_time": 1730984362,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80779,
+        "num": 80779,
+        "word": "鹿晗宣传关晓彤新剧",
+        "onboard_time": 1730983222,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79982,
+        "num": 79982,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76403,
+        "num": 76403,
+        "word": "丁禹兮人生镜头",
+        "onboard_time": 1730980343,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75149,
+        "num": 75149,
+        "word": "保持饥饿感的重要性",
+        "onboard_time": 1730991686,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74103,
+        "num": 74103,
+        "word": "尹锡悦与特朗普通电话",
+        "onboard_time": 1730980881,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 71153,
+        "num": 71153,
+        "word": "彭高 真诚",
+        "onboard_time": 1730979504,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69424,
+        "num": 69424,
+        "word": "林诗栋vs杜达",
+        "onboard_time": 1730995280,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67383,
+        "num": 67383,
+        "word": "恋综 分手",
+        "onboard_time": 1730978603,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62176,
+        "num": 62176,
+        "word": "永夜星河",
+        "onboard_time": 1730975482,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60138,
+        "num": 60138,
+        "word": "涵艺说WBG中路准备签Chovy",
+        "onboard_time": 1730992702,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57623,
+        "num": 57623,
+        "word": "男子赶在金价下跌前出售6根金条",
+        "onboard_time": 1730986765,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 54925,
+        "num": 54925,
+        "word": "王多多说LPL要打败一次Faker",
+        "onboard_time": 1730998936,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51407,
+        "num": 51407,
+        "word": "彭高恳请大家不要再指责任何人",
+        "onboard_time": 1730988984,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49232,
+        "num": 49232,
+        "word": "曝哪吒汽车赔偿方案为N加1",
+        "onboard_time": 1730996838,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47002,
+        "num": 47002,
+        "word": "浙江籍女飞行员亮相航展",
+        "onboard_time": 1730997438,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 45897,
+        "num": 45897,
+        "word": "小巷人家蛇瓜也有替身文学",
+        "onboard_time": 1730993062,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45302,
+        "num": 45302,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44532,
+        "num": 44532,
+        "word": "徐枫灿驾驶直20抵达珠海",
+        "onboard_time": 1730996838,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 40637,
+        "num": 44532,
+        "word": "女飞徐枫灿开着直20到珠海了",
+        "onboard_time": 1730997198,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记嘱托加强和创新基层社会治理#"
+    }
+  }
+}

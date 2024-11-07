@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730997837262,
+  "endTime": 1730999961564,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4051,6 +4051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 429752,
+      "num": 429752,
+      "word": "民警着急大吼这是23万不是23块",
+      "onboard_time": 1730994020,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429650,
       "num": 429650,
       "word": "刘德华一首中国人把台独唱破防了",
@@ -4105,6 +4113,14 @@
       "onboard_time": 1730858661,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 421679,
+      "num": 421679,
+      "word": "广东人迎来自己的胖东来",
+      "onboard_time": 1730997138,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421355,
@@ -5371,6 +5387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310559,
+      "num": 129146,
+      "word": "翁青雅 孙乐言",
+      "onboard_time": 1730999414,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310277,
       "num": 310277,
       "word": "Knight取消回城嘲讽Faker",
@@ -6467,14 +6491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241006,
-      "num": 241006,
-      "word": "民警着急大吼这是23万不是23块",
-      "onboard_time": 1730994020,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240645,
       "num": 240645,
       "word": "恋与深空",
@@ -6825,6 +6841,14 @@
       "onboard_time": 1730803041,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 226914,
+      "num": 226914,
+      "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
+      "onboard_time": 1730996059,
+      "rank": 29,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 226574,
@@ -8667,14 +8691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184251,
-      "num": 184251,
-      "word": "广东人迎来自己的胖东来",
-      "onboard_time": 1730997138,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184153,
       "num": 553735,
       "word": "国企董事长15个月收497瓶名酒",
@@ -8769,14 +8785,6 @@
       "onboard_time": 1730610619,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180945,
-      "num": 180945,
-      "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
-      "onboard_time": 1730996059,
-      "rank": 29,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 180729,
@@ -12643,6 +12651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101935,
+      "num": 101935,
+      "word": "高芙vs克雷吉茨科娃",
+      "onboard_time": 1730994561,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101510,
       "num": 101510,
       "word": "第二架苏57现身珠海",
@@ -12859,14 +12875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88782,
-      "num": 96061,
-      "word": "高芙vs克雷吉茨科娃",
-      "onboard_time": 1730994561,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88586,
       "num": 366806,
       "word": "嚎哭深渊爆改进步之桥",
@@ -12888,6 +12896,14 @@
       "word": "西安二次碾压事故造成一死一重伤",
       "onboard_time": 1730849660,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87804,
+      "num": 125861,
+      "word": "姑娘美签没过一万多团费没退",
+      "onboard_time": 1730998817,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -12985,6 +13001,14 @@
       "onboard_time": 1730798301,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 84579,
+      "num": 84579,
+      "word": "赛力斯称已报警",
+      "onboard_time": 1730997018,
+      "rank": 44,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 84291,
@@ -13297,14 +13321,6 @@
       "onboard_time": 1730625498,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69888,
-      "num": 69888,
-      "word": "赛力斯称已报警",
-      "onboard_time": 1730997018,
-      "rank": 44,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 69649,
@@ -13859,6 +13875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54925,
+      "num": 54925,
+      "word": "王多多说LPL要打败一次Faker",
+      "onboard_time": 1730998936,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54505,
       "num": 312440,
       "word": "云南一律师犯运输毒品罪获刑10年",
@@ -14393,6 +14417,14 @@
       "onboard_time": 1730828294,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40637,
+      "num": 44532,
+      "word": "女飞徐枫灿开着直20到珠海了",
+      "onboard_time": 1730997198,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 40577,
@@ -15065,6 +15097,14 @@
       "onboard_time": 1730959341,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29702,
+      "num": 130952,
+      "word": "王艺迪vs萨马拉",
+      "onboard_time": 1730998817,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 29563,
