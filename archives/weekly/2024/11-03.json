@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730953561860,
+  "endTime": 1730954500614,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2310813,
+      "num": 2310813,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 2251316,
       "num": 1227451,
       "word": "马斯克要求台湾供应商搬出台湾",
@@ -337,14 +345,6 @@
       "onboard_time": 1730560582,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2144617,
-      "num": 2144617,
-      "word": "蜂花",
-      "onboard_time": 1730946619,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 2116621,
@@ -633,6 +633,14 @@
       "onboard_time": 1730611279,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1613215,
+      "num": 1613215,
+      "word": "拜登政府被爆计划快速对乌提供剩余援助",
+      "onboard_time": 1730949380,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1590041,
@@ -929,14 +937,6 @@
       "onboard_time": 1730776039,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1286220,
-      "num": 1286220,
-      "word": "拜登政府被爆计划快速对乌提供剩余援助",
-      "onboard_time": 1730949380,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1285632,
@@ -1699,6 +1699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 829459,
+      "num": 829459,
+      "word": "贺晓龙 王楚钦需要卧薪尝胆",
+      "onboard_time": 1730950941,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 827872,
       "num": 827872,
       "word": "6岁女孩被警车撞飞家长质疑超速",
@@ -1795,6 +1803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 787200,
+      "num": 887801,
+      "word": "杨蓉好美的女明星 魏晨也是个岛民",
+      "onboard_time": 1730947159,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783701,
       "num": 484704,
       "word": "美32个州和华盛顿特区结束大选投票",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1730806160,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 772720,
-      "num": 887801,
-      "word": "杨蓉好美的女明星 魏晨也是个岛民",
-      "onboard_time": 1730947159,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 771966,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1730878472,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 743726,
-      "num": 743726,
-      "word": "贺晓龙 王楚钦需要卧薪尝胆",
-      "onboard_time": 1730950941,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 734419,
@@ -2113,6 +2113,14 @@
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681800,
+      "num": 681800,
+      "word": "佩洛西哭了",
+      "onboard_time": 1730954062,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 677482,
@@ -2601,6 +2609,14 @@
       "onboard_time": 1730693182,
       "rank": 4,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 589536,
+      "num": 493987,
+      "word": "男子偷7斤榴莲给老婆吃被行拘7天",
+      "onboard_time": 1730949321,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587108,
@@ -3123,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493987,
-      "num": 493987,
-      "word": "男子偷7斤榴莲给老婆吃被行拘7天",
-      "onboard_time": 1730949321,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492086,
       "num": 643340,
       "word": "覃海洋回应近日争议",
@@ -3248,6 +3256,14 @@
       "word": "警方回应女孩横穿马路被警车撞飞",
       "onboard_time": 1730705359,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475727,
+      "num": 475727,
+      "word": "景区回应将水龙头设计成生殖器形状",
+      "onboard_time": 1730953702,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4108,7 +4124,7 @@
     },
     {
       "raw_hot": 358266,
-      "num": 358266,
+      "num": 429539,
       "word": "王楚钦 总会有属于自己的那条路",
       "onboard_time": 1730952021,
       "rank": 33,
@@ -4144,6 +4160,14 @@
       "word": "虞书欣演技",
       "onboard_time": 1730852723,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 356618,
+      "num": 595509,
+      "word": "心疼庄筱婷",
+      "onboard_time": 1730951060,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -4235,14 +4259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346954,
-      "num": 595509,
-      "word": "心疼庄筱婷",
-      "onboard_time": 1730951060,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 345797,
       "num": 345797,
       "word": "马龙回应想默默淡出赛场",
@@ -4281,6 +4297,14 @@
       "onboard_time": 1730900544,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343808,
+      "num": 588492,
+      "word": "陈都灵 来都来了都不白来",
+      "onboard_time": 1730952381,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 343181,
@@ -4683,12 +4707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312647,
+      "num": 309075,
+      "word": "俄外交部回应美国大选结果",
+      "onboard_time": 1730950460,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "奚梦瑶宣传",
       "onboard_time": 1730695763,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310623,
+      "num": 310623,
+      "word": "权志龙晒茅台酒",
+      "onboard_time": 1730954302,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 310277,
@@ -5251,6 +5291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266046,
+      "num": 266046,
+      "word": "00后在中老年短剧兼职当孙子日薪5千",
+      "onboard_time": 1730953462,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265233,
       "num": 287200,
       "word": "美国大选选举日首个投票点结果出炉",
@@ -5313,14 +5361,6 @@
       "onboard_time": 1730678958,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260632,
-      "num": 260632,
-      "word": "俄外交部回应美国大选结果",
-      "onboard_time": 1730950460,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 260452,
@@ -5787,6 +5827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 235314,
+      "num": 235314,
+      "word": "光与夜之恋",
+      "onboard_time": 1730954482,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234976,
       "num": 339204,
       "word": "珠帘玉幕优酷2024最快破万剧集",
@@ -5915,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229605,
+      "num": 229605,
+      "word": "车企高管称在车内吃东西是刚需",
+      "onboard_time": 1730954181,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229034,
       "num": 229034,
       "word": "永夜星河 豹豹猫猫我出生了",
@@ -5993,6 +6049,14 @@
       "onboard_time": 1730726001,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225080,
+      "num": 225080,
+      "word": "再见爱人",
+      "onboard_time": 1730954423,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 225074,
@@ -7459,14 +7523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187004,
-      "num": 187004,
-      "word": "00后在中老年短剧兼职当孙子日薪5千",
-      "onboard_time": 1730953462,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186918,
       "num": 186918,
       "word": "专家说考编多数时候比996更辛苦",
@@ -8665,14 +8721,6 @@
       "onboard_time": 1730614037,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 160856,
-      "num": 588492,
-      "word": "陈都灵 来都来了都不白来",
-      "onboard_time": 1730952381,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 160438,
@@ -11155,6 +11203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89275,
+      "num": 526557,
+      "word": "格莱美预测",
+      "onboard_time": 1730954062,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89011,
       "num": 186325,
       "word": "黄圣依大学时期就会理财",
@@ -11403,6 +11459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77779,
+      "num": 268650,
+      "word": "为什么立冬才是吃蟹最佳时令",
+      "onboard_time": 1730952021,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 77641,
       "num": 77641,
       "word": "货车撞上粤港两地牌劳斯莱斯",
@@ -11513,6 +11577,14 @@
       "onboard_time": 1730576592,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69211,
+      "num": 1324389,
+      "word": "网警提醒切勿随意扫码领礼品",
+      "onboard_time": 1730953642,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69091,
@@ -11753,14 +11825,6 @@
       "onboard_time": 1730748970,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 58050,
-      "num": 268650,
-      "word": "为什么立冬才是吃蟹最佳时令",
-      "onboard_time": 1730952021,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 57960,
@@ -12251,6 +12315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41969,
+      "num": 592086,
+      "word": "何小鹏开AI汽车上火星",
+      "onboard_time": 1730949861,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41907,
       "num": 206792,
       "word": "凌妙妙记者发布会",
@@ -12283,6 +12355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 41506,
+      "num": 553598,
+      "word": "马龙手术后想明白了非常热爱乒乓球",
+      "onboard_time": 1730953281,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41174,
       "num": 50649,
       "word": "赛后休息室BLG全员神情落寞",
@@ -12297,6 +12377,14 @@
       "onboard_time": 1730828294,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40577,
+      "num": 260132,
+      "word": "你有多久没听到叫卖声了",
+      "onboard_time": 1730952141,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40572,
@@ -12411,6 +12499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37555,
+      "num": 600264,
+      "word": "最不适应立冬的是皮肤",
+      "onboard_time": 1730953401,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37516,
       "num": 1668477,
       "word": "一片回顾神十八返回全过程",
@@ -12433,14 +12529,6 @@
       "onboard_time": 1730811082,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37222,
-      "num": 592086,
-      "word": "何小鹏开AI汽车上火星",
-      "onboard_time": 1730949861,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 37196,
@@ -12472,14 +12560,6 @@
       "word": "西双版纳文旅向麦子奶奶发出邀请",
       "onboard_time": 1730621358,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36710,
-      "num": 260132,
-      "word": "你有多久没听到叫卖声了",
-      "onboard_time": 1730952141,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -12672,6 +12752,14 @@
       "word": "顶级名校生可以卷到什么程度",
       "onboard_time": 1730727321,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33102,
+      "num": 585309,
+      "word": "发条微博一起迎接立冬",
+      "onboard_time": 1730952982,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -12907,20 +12995,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27470,
+      "num": 429915,
+      "word": "刘宇宁哭戏花絮",
+      "onboard_time": 1730953642,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27333,
       "num": 363325,
       "word": "男子上门升级宽带实则安装诈骗设备",
       "onboard_time": 1730801001,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27188,
-      "num": 553598,
-      "word": "马龙手术后想明白了非常热爱乒乓球",
-      "onboard_time": 1730953281,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 27107,
@@ -12945,6 +13033,14 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26896,
+      "num": 546684,
+      "word": "和王俊凯一起凯启幸运",
+      "onboard_time": 1730952321,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 26456,
@@ -13041,14 +13137,6 @@
       "onboard_time": 1730608579,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25111,
-      "num": 546684,
-      "word": "和王俊凯一起凯启幸运",
-      "onboard_time": 1730952321,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 25035,
@@ -13299,14 +13387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21027,
-      "num": 600264,
-      "word": "最不适应立冬的是皮肤",
-      "onboard_time": 1730953401,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21018,
       "num": 28047,
       "word": "我的抽象视界",
@@ -13521,14 +13601,6 @@
       "onboard_time": 1730582951,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18050,
-      "num": 585309,
-      "word": "发条微博一起迎接立冬",
-      "onboard_time": 1730952982,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17786,
