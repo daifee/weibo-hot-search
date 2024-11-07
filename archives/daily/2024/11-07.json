@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730961008991,
+  "endTime": 1730961809494,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1036575,
+      "num": 1036575,
+      "word": "王楚钦比赛疑似发高烧",
+      "onboard_time": 1730957721,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1036048,
       "num": 104538,
       "word": "一个人毁了一部剧",
@@ -161,14 +169,6 @@
       "onboard_time": 1730957239,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1012306,
-      "num": 1012306,
-      "word": "王楚钦比赛疑似发高烧",
-      "onboard_time": 1730957721,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 994739,
@@ -299,12 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 617074,
-      "num": 617074,
+      "raw_hot": 637006,
+      "num": 637006,
       "word": "papi酱说繁花片场吵架吵了三天",
       "onboard_time": 1730959159,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633071,
+      "num": 633071,
+      "word": "法国小伙捐赠家人所拍日军侵华罪证",
+      "onboard_time": 1730957900,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613775,
@@ -387,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 489178,
-      "num": 489178,
-      "word": "法国小伙捐赠家人所拍日军侵华罪证",
-      "onboard_time": 1730957900,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457973,
       "num": 823928,
       "word": "陈都灵 扇耳光当然要快",
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379004,
+      "num": 487965,
+      "word": "王耀庆天生演不了穷人",
+      "onboard_time": 1730956341,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375565,
       "num": 563113,
       "word": "赵露思不想让珠帘玉幕留遗憾",
@@ -475,14 +483,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 371640,
-      "num": 487965,
-      "word": "王耀庆天生演不了穷人",
-      "onboard_time": 1730956341,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369671,
       "num": 369671,
       "word": "郑钦文被教练反问你是小威吗",
@@ -497,6 +497,14 @@
       "onboard_time": 1730895080,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365383,
+      "num": 365383,
+      "word": "刘宇宁还是不太适应吻戏",
+      "onboard_time": 1730959880,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 358266,
@@ -619,20 +627,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 293775,
+      "num": 354022,
+      "word": "赛力斯发布广州问界M7事故鉴定",
+      "onboard_time": 1730959099,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293341,
       "num": 293341,
       "word": "王楚钦0比3卡尔伯格",
       "onboard_time": 1730920391,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 291579,
-      "num": 291579,
-      "word": "刘宇宁还是不太适应吻戏",
-      "onboard_time": 1730959880,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 288292,
@@ -659,6 +667,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 281708,
+      "num": 281708,
+      "word": "杨子说黄圣依一百多公斤",
+      "onboard_time": 1730961259,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281650,
       "num": 281650,
       "word": "金饰价格重回7字头",
@@ -667,20 +683,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 280055,
-      "num": 354022,
-      "word": "赛力斯发布广州问界M7事故鉴定",
-      "onboard_time": 1730959099,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275879,
       "num": 275879,
       "word": "寄明月MV",
       "onboard_time": 1730955502,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270363,
+      "num": 270363,
+      "word": "王楚钦出勤率可真不低",
+      "onboard_time": 1730958260,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 268997,
@@ -715,20 +731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249557,
-      "num": 249557,
-      "word": "王楚钦出勤率可真不低",
-      "onboard_time": 1730958260,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248860,
       "num": 248860,
       "word": "特朗普胜选后马斯克身家大涨",
       "onboard_time": 1730940381,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 245263,
+      "num": 245263,
+      "word": "留几手原生家庭",
+      "onboard_time": 1730958680,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 242318,
@@ -793,14 +809,6 @@
       "onboard_time": 1730954181,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 227956,
-      "num": 227956,
-      "word": "留几手原生家庭",
-      "onboard_time": 1730958680,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 226486,
@@ -899,6 +907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201480,
+      "num": 201480,
+      "word": "再见爱人 画师",
+      "onboard_time": 1730961202,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200793,
       "num": 200793,
       "word": "勇士vs凯尔特人",
@@ -937,6 +953,14 @@
       "onboard_time": 1730900786,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198092,
+      "num": 198092,
+      "word": "第一次见这么直观的局部降雨",
+      "onboard_time": 1730961318,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 197531,
@@ -1483,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73788,
+      "num": 523496,
+      "word": "李行亮被麦琳嫌弃的专辑翻红",
+      "onboard_time": 1730960601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69211,
       "num": 1324389,
       "word": "网警提醒切勿随意扫码领礼品",
@@ -1528,6 +1560,14 @@
       "word": "唐九洲支持虞书欣新剧",
       "onboard_time": 1730955681,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50495,
+      "num": 350979,
+      "word": "唐晓天 活盐王",
+      "onboard_time": 1730959341,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1611,6 +1651,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 38049,
+      "num": 239689,
+      "word": "郑钦文谈萨巴伦卡今年表现",
+      "onboard_time": 1730960480,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37555,
       "num": 600264,
       "word": "最不适应立冬的是皮肤",
@@ -1627,20 +1675,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36694,
+      "num": 635251,
+      "word": "保姆回应自费抚养女婴3年多",
+      "onboard_time": 1730961439,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34909,
       "num": 677727,
       "word": "立冬1分钱抢11万份鸡蛋",
       "onboard_time": 1730945478,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 34760,
-      "num": 239689,
-      "word": "郑钦文谈萨巴伦卡今年表现",
-      "onboard_time": 1730960480,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 34026,
@@ -1721,14 +1769,6 @@
       "onboard_time": 1730953642,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26060,
-      "num": 420599,
-      "word": "李行亮被麦琳嫌弃的专辑翻红",
-      "onboard_time": 1730960601,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 25771,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1730898321,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7831,
+      "num": 636823,
+      "word": "进博会开启人从众模式",
+      "onboard_time": 1730961680,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7504,
