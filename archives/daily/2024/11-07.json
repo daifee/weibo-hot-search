@@ -1,10 +1,10 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730948519447,
+  "endTime": 1730950089199,
   "band_list": [
     {
       "raw_hot": 5648647,
-      "num": 893567,
+      "num": 1198881,
       "word": "特朗普称要立刻封锁边境",
       "onboard_time": 1730945179,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2251316,
-      "num": 893310,
+      "num": 1194991,
       "word": "马斯克要求台湾供应商搬出台湾",
       "onboard_time": 1730934377,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1447953,
+      "num": 880169,
+      "word": "特朗普胜选后谈暗杀",
+      "onboard_time": 1730935097,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1286393,
       "num": 957452,
       "word": "特朗普正式宣布获胜",
@@ -43,12 +51,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1280865,
-      "num": 880169,
-      "word": "特朗普胜选后谈暗杀",
-      "onboard_time": 1730935097,
-      "rank": 45,
-      "category": "国外时政"
+      "raw_hot": 1241482,
+      "num": 1241482,
+      "word": "发型师晓华3天只睡了1个半小时",
+      "onboard_time": 1730945780,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1229668,
@@ -57,6 +65,14 @@
       "onboard_time": 1730941939,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1220404,
+      "num": 1220404,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 1111245,
@@ -147,20 +163,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 828472,
+      "num": 828472,
+      "word": "美司法部考虑结束针对特朗普的刑案",
+      "onboard_time": 1730945900,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 814633,
       "num": 814633,
       "word": "LadyGaga",
       "onboard_time": 1730944218,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 781175,
-      "num": 781175,
-      "word": "发型师晓华3天只睡了1个半小时",
-      "onboard_time": 1730945780,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700510,
@@ -171,20 +187,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 683332,
-      "num": 683332,
-      "word": "蜂花",
-      "onboard_time": 1730946619,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 680920,
-      "num": 680920,
-      "word": "美司法部考虑结束针对特朗普的刑案",
-      "onboard_time": 1730945900,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 693168,
+      "num": 887801,
+      "word": "杨蓉好美的女明星 魏晨也是个岛民",
+      "onboard_time": 1730947159,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 613775,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529016,
+      "num": 691989,
+      "word": "井柏然与李荣浩母子聚餐",
+      "onboard_time": 1730948540,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521745,
       "num": 886112,
       "word": "凌妙妙剧透大结局没人信",
@@ -227,11 +243,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 510010,
-      "num": 887801,
-      "word": "杨蓉好美的女明星 魏晨也是个岛民",
-      "onboard_time": 1730947159,
-      "rank": 15,
+      "raw_hot": 495089,
+      "num": 495089,
+      "word": "盯虞兮",
+      "onboard_time": 1730948421,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -315,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 369671,
+      "num": 369671,
+      "word": "郑钦文被教练反问你是小威吗",
+      "onboard_time": 1730948659,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367606,
       "num": 771779,
       "word": "麦麦想要的安全感原来是这样",
@@ -329,6 +353,22 @@
       "onboard_time": 1730906661,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327360,
+      "num": 677796,
+      "word": "杨子不想让父母留遗憾",
+      "onboard_time": 1730947879,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326201,
+      "num": 326201,
+      "word": "马斯克稳居全球首富宝座",
+      "onboard_time": 1730944760,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 326035,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258339,
-      "num": 258339,
-      "word": "马斯克稳居全球首富宝座",
-      "onboard_time": 1730944760,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 248860,
       "num": 248860,
       "word": "特朗普胜选后马斯克身家大涨",
@@ -491,19 +523,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214549,
+      "num": 884873,
+      "word": "李佩霞案开庭",
+      "onboard_time": 1730946978,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210867,
       "num": 210867,
       "word": "范丞丞演技",
       "onboard_time": 1730904981,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210094,
-      "num": 677796,
-      "word": "杨子不想让父母留遗憾",
-      "onboard_time": 1730947879,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -523,6 +555,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 204523,
+      "num": 204523,
+      "word": "立冬吃羊肉",
+      "onboard_time": 1730947819,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 200793,
+      "num": 200793,
+      "word": "勇士vs凯尔特人",
+      "onboard_time": 1730949802,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200377,
       "num": 200377,
       "word": "王楚钦说一个也发不转",
@@ -537,6 +585,14 @@
       "onboard_time": 1730943140,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 198592,
+      "num": 217975,
+      "word": "开始补大理寺少卿游",
+      "onboard_time": 1730949740,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 198514,
@@ -571,20 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194840,
-      "num": 283238,
-      "word": "盯虞兮",
-      "onboard_time": 1730948421,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
       "onboard_time": 1730895320,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 183814,
+      "num": 183814,
+      "word": "只有大学生才知道她有多厉害",
+      "onboard_time": 1730949920,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 179750,
@@ -595,12 +651,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176557,
+      "num": 176557,
+      "word": "2025乙巳蛇年贵金属纪念币",
+      "onboard_time": 1730949920,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 171437,
+      "num": 171437,
+      "word": "英雄联盟双城之战2皮肤",
+      "onboard_time": 1730948540,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170636,
       "num": 170636,
       "word": "博士情侣瞒领导下班摆摊月入3万",
       "onboard_time": 1730897660,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169122,
+      "num": 282508,
+      "word": "陈奕迅双城2新歌上线",
+      "onboard_time": 1730948720,
+      "rank": 28,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 167640,
@@ -649,14 +729,6 @@
       "onboard_time": 1730907200,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 155776,
-      "num": 884873,
-      "word": "李佩霞案开庭",
-      "onboard_time": 1730946978,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154018,
@@ -803,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119294,
-      "num": 119294,
-      "word": "立冬吃羊肉",
-      "onboard_time": 1730947819,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118278,
       "num": 118278,
       "word": "瑞士卷可不兴一次吃6个啊",
@@ -881,6 +945,14 @@
       "onboard_time": 1730928851,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 109552,
+      "num": 883785,
+      "word": "A股三大指数全线翻红",
+      "onboard_time": 1730948239,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 104569,
@@ -979,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74142,
+      "num": 618558,
+      "word": "拜登政府被爆计划快速对乌提供剩余援助",
+      "onboard_time": 1730949380,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 68459,
       "num": 81799,
       "word": "特朗普胜选演讲",
@@ -1000,6 +1080,14 @@
       "word": "推介大米走红的副局长是英语专八",
       "onboard_time": 1730914934,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51174,
+      "num": 445792,
+      "word": "男子偷7斤榴莲给老婆吃被行拘7天",
+      "onboard_time": 1730949321,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1131,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 34909,
+      "num": 677727,
+      "word": "立冬1分钱抢11万份鸡蛋",
+      "onboard_time": 1730945478,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33658,
       "num": 31764,
       "word": "超七成美国人不满国家走向",
@@ -1067,28 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28282,
-      "num": 677727,
-      "word": "立冬1分钱抢11万份鸡蛋",
-      "onboard_time": 1730945478,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
       "onboard_time": 1730914813,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27842,
-      "num": 883785,
-      "word": "A股三大指数全线翻红",
-      "onboard_time": 1730948239,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 27476,
@@ -1107,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25051,
+      "num": 158154,
+      "word": "何小鹏开AI汽车上火星",
+      "onboard_time": 1730949861,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24465,
       "num": 24465,
       "word": "特朗普叮嘱工作人员警惕计票作弊",
       "onboard_time": 1730919372,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 24203,
+      "num": 594682,
+      "word": "还有没有必要买学区房",
+      "onboard_time": 1730949260,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22935,
@@ -1188,7 +1284,7 @@
     },
     {
       "raw_hot": 7504,
-      "num": 964604,
+      "num": 1200018,
       "word": "数读我国防沙治沙成绩单",
       "onboard_time": 1730896281,
       "rank": 2,
