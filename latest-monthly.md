@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/07 23:38:08
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 00:27:59
 </p>
 </blockquote>
 <p>
@@ -2109,6 +2109,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%8B%A5%E7%91%84%E8%A2%AB%E6%9B%9D%E6%82%A3%E7%99%8C%E5%90%8E%E5%9B%9E%E5%BA%94%23" target="weibo">
+徐若瑄被曝患癌后回应（热度：753271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E8%AE%A4%E5%AE%89%E5%AD%9D%E7%87%AE%E4%BA%86%23" target="weibo">
 不敢认安孝燮了（热度：752078）
 </a>
@@ -3291,6 +3297,12 @@ Faker世界赛500杀（热度：537332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E9%B9%8F%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD%23" target="weibo">
+徐海鹏被遣返回国（热度：530072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E8%80%81%E5%B8%88%E5%AD%A6%E6%9C%AF%E9%9C%B8%E5%87%8C%E4%B8%8D%E5%B1%9E%E5%AE%9E%23" target="weibo">
 学生举报老师学术霸凌不属实（热度：526700）
 </a>
@@ -3797,6 +3809,12 @@ Doinb准备办退役仪式（热度：458173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E8%9F%91%E8%9E%82%E9%80%80%E9%80%80%E9%80%80%23" target="weibo">
 汪苏泷演唱会蟑螂退退退（热度：453124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B0%86%E9%81%BF%E5%85%8D%E5%8F%82%E5%8A%A0%E5%85%AC%E5%BC%80%E6%B4%BB%E5%8A%A8%23" target="weibo">
+韩国第一夫人将避免参加公开活动（热度：452739）
 </a>
 </li>
 
@@ -4685,6 +4703,12 @@ WTT法兰克福冠军赛抽签仪式（热度：369302）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%23" target="weibo">
 丝芭传媒（热度：361091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BE%A8%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E7%8F%AD%E7%BA%A7%E7%BE%A4%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23" target="weibo">
+华侨大学通报教师班级群发表不当言论（热度：360394）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ by2一字马11年前后对比（热度：269464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%90%8A%E5%B8%A6%E9%BB%91%E8%A3%99%23" target="weibo">
 周也吊带黑裙（热度：268566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E5%AE%8B%E8%8E%B9%E6%9C%89%E5%85%AB%E4%B8%AA%E7%91%9E%E5%A3%AB%E5%8D%B7%23" target="weibo">
-假如宋莹有八个瑞士卷（热度：268160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%974%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%B4%A9%E5%A9%B4%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
-河南4人涉嫌贩婴被采取刑事强制措施（热度：267950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%81%E7%A1%95%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
-刘丁硕说王楚钦压力太大了（热度：267832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9B%A0%E5%8F%91%E9%87%8F%E5%B0%91%E8%87%AA%E5%8D%91%E5%89%83%E6%88%90%E5%85%89%E5%A4%B4%E5%81%9A%E8%87%AA%E5%B7%B1%23" target="weibo">
-女生因发量少自卑剃成光头做自己（热度：267808）
 </a>
 </li>
 
