@@ -1,0 +1,410 @@
+{
+  "runTime": 1730971396712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732702,
+        "num": 1732702,
+        "word": "招生简章把港澳列入国家川大将追责",
+        "onboard_time": 1730966660,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033306,
+        "num": 1033306,
+        "word": "大张伟太太是他的英雄吧",
+        "onboard_time": 1730969120,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15223,
+        "num": 1018758,
+        "word": "首届世界古典学大会开幕",
+        "onboard_time": 1730967320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006417,
+        "num": 1006417,
+        "word": "马斯克为何抢当特朗普的榜1大哥",
+        "onboard_time": 1730967859,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 798783,
+        "num": 798783,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721145,
+        "num": 721145,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 613700,
+        "num": 613700,
+        "word": "蜂花",
+        "onboard_time": 1730946619,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 462185,
+        "num": 462185,
+        "word": "红气养猴",
+        "onboard_time": 1730965339,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504149,
+        "num": 460626,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730958500,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62862,
+        "num": 457466,
+        "word": "A股成交连续3个交易日破2万亿",
+        "onboard_time": 1730969902,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46846,
+        "num": 451286,
+        "word": "三款隐身战机齐聚一堂",
+        "onboard_time": 1730970619,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 377534,
+        "num": 447790,
+        "word": "永夜星河推出游戏模式",
+        "onboard_time": 1730965459,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24767,
+        "num": 446716,
+        "word": "网友喊话王楚钦还年轻下个赛场见",
+        "onboard_time": 1730971038,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150275,
+        "num": 440887,
+        "word": "传奇杯S2队长官宣",
+        "onboard_time": 1730970080,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37919,
+        "num": 438728,
+        "word": "原来不是总监首席也能剪好头发",
+        "onboard_time": 1730970260,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289830,
+        "num": 434678,
+        "word": "禹属欣",
+        "onboard_time": 1730965279,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220991,
+        "num": 432312,
+        "word": "李行亮被麦琳嫌弃的专辑翻红",
+        "onboard_time": 1730960601,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30541,
+        "num": 427140,
+        "word": "凑够满减付尾款发现比直接买还贵",
+        "onboard_time": 1730970860,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68791,
+        "num": 421649,
+        "word": "律师称蜂花广告或将被罚款",
+        "onboard_time": 1730971220,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30445,
+        "num": 420013,
+        "word": "去年买的墓地今年突然变非法",
+        "onboard_time": 1730970380,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23484,
+        "num": 414638,
+        "word": "幸运咖立冬爆单",
+        "onboard_time": 1730970201,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1602307,
+        "num": 413232,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1074671,
+        "num": 407546,
+        "word": "西安一女生称应聘总助被要求陪睡",
+        "onboard_time": 1730968100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814240,
+        "num": 405160,
+        "word": "特朗普称要立刻封锁边境",
+        "onboard_time": 1730945179,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 707864,
+        "num": 402058,
+        "word": "李佩霞当庭认罪悔罪",
+        "onboard_time": 1730963419,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697663,
+        "num": 397542,
+        "word": "女童街头遭老人一顿猛踹后被推倒",
+        "onboard_time": 1730966480,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576477,
+        "num": 392839,
+        "word": "外交部回应特朗普涉台言论",
+        "onboard_time": 1730966599,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 391912,
+        "num": 391912,
+        "word": "王楚钦比赛疑似发高烧",
+        "onboard_time": 1730957721,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178108,
+        "num": 389521,
+        "word": "杨子形容黄圣依是整容样板",
+        "onboard_time": 1730965821,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169065,
+        "num": 372707,
+        "word": "杨天真建议上司不要约下属吃饭",
+        "onboard_time": 1730965459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33724,
+        "num": 350748,
+        "word": "幸运咖准备准备可以升咖了",
+        "onboard_time": 1730967980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27164,
+        "num": 339259,
+        "word": "文化中国行之立冬节气",
+        "onboard_time": 1730967500,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336560,
+        "num": 336560,
+        "word": "恋与深空偷跑",
+        "onboard_time": 1730970560,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312571,
+        "num": 312571,
+        "word": "金价",
+        "onboard_time": 1730963120,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296915,
+        "num": 296915,
+        "word": "苏57展示超短距起飞能力",
+        "onboard_time": 1730966480,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 296626,
+        "num": 296626,
+        "word": "60岁肺癌女儿为失能父母延迟住院2年",
+        "onboard_time": 1730966540,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266012,
+        "num": 266012,
+        "word": "李佩霞被控受贿165万",
+        "onboard_time": 1730962639,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255225,
+        "num": 255225,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 247472,
+        "num": 247472,
+        "word": "蜂花发道歉信",
+        "onboard_time": 1730955202,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231243,
+        "num": 231243,
+        "word": "轻断食一天吃了十三根玉米",
+        "onboard_time": 1730967020,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229982,
+        "num": 229982,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226262,
+        "num": 226262,
+        "word": "景区回应将水龙头设计成生殖器形状",
+        "onboard_time": 1730953702,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198300,
+        "num": 198300,
+        "word": "王楚钦是奥运后参赛最多的运动员",
+        "onboard_time": 1730967260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191128,
+        "num": 191128,
+        "word": "老师在操场踢倒学生扇另一学生头",
+        "onboard_time": 1730966779,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162737,
+        "num": 188805,
+        "word": "刘宇宁还是不太适应吻戏",
+        "onboard_time": 1730959880,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188574,
+        "num": 188574,
+        "word": "苏57一来就是招牌动作落叶飘",
+        "onboard_time": 1730969180,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 187282,
+        "num": 187282,
+        "word": "这不是严浩翔的婚礼纪录片是什么",
+        "onboard_time": 1730971160,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167443,
+        "num": 167443,
+        "word": "网友建议删掉烧伤妈妈被炸伤视频",
+        "onboard_time": 1730968879,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167248,
+        "num": 167248,
+        "word": "网络主播的类型到底有多少种",
+        "onboard_time": 1730971340,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 159018,
+        "word": "重庆一水果店墙体塌陷致一人身亡",
+        "onboard_time": 1730966599,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记湖北行#"
+    }
+  }
+}
