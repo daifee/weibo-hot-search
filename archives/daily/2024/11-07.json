@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730964955552,
+  "endTime": 1730968054075,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -25,6 +25,14 @@
       "onboard_time": 1730946619,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 2485517,
+      "num": 530298,
+      "word": "马斯克接受采访中儿子突然闯进来",
+      "onboard_time": 1730964860,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2251316,
@@ -104,6 +112,14 @@
       "word": "发型师晓华3天只睡了1个半小时",
       "onboard_time": 1730945780,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237187,
+      "num": 1237187,
+      "word": "李佩霞当庭认罪悔罪",
+      "onboard_time": 1730963419,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -267,6 +283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 836621,
+      "num": 600145,
+      "word": "外交部回应特朗普涉台言论",
+      "onboard_time": 1730966599,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 829459,
       "num": 829459,
       "word": "贺晓龙 王楚钦需要卧薪尝胆",
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 595334,
+      "num": 527059,
+      "word": "李佩霞被控受贿165万",
+      "onboard_time": 1730962639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593297,
       "num": 593297,
       "word": "特朗普拜登将讨论总统权力交接事宜",
@@ -395,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572292,
+      "num": 572292,
+      "word": "女童街头遭老人一顿猛踹后被推倒",
+      "onboard_time": 1730966480,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547175,
       "num": 691989,
       "word": "井柏然与李荣浩母子聚餐",
@@ -427,12 +467,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468840,
+      "num": 432210,
+      "word": "红气养猴",
+      "onboard_time": 1730965339,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457973,
       "num": 823928,
       "word": "陈都灵 扇耳光当然要快",
       "onboard_time": 1730936899,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443713,
+      "num": 443713,
+      "word": "永夜星河推出游戏模式",
+      "onboard_time": 1730965459,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 431175,
+      "num": 431175,
+      "word": "招生简章把港澳列入国家川大将追责",
+      "onboard_time": 1730966660,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429194,
@@ -473,6 +537,14 @@
       "onboard_time": 1730941041,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400743,
+      "num": 523496,
+      "word": "李行亮被麦琳嫌弃的专辑翻红",
+      "onboard_time": 1730960601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 400278,
@@ -619,6 +691,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 311998,
+      "num": 205343,
+      "word": "60岁肺癌女儿为失能父母延迟住院2年",
+      "onboard_time": 1730966540,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308436,
       "num": 412497,
       "word": "虞书欣拍刘亦菲",
@@ -659,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298716,
-      "num": 527059,
-      "word": "李佩霞被控受贿165万",
-      "onboard_time": 1730962639,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297727,
       "num": 297727,
       "word": "俄方不对美国新当选总统抱有幻想",
@@ -681,14 +753,6 @@
       "onboard_time": 1730959099,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293506,
-      "num": 523496,
-      "word": "李行亮被麦琳嫌弃的专辑翻红",
-      "onboard_time": 1730960601,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 293341,
@@ -779,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264872,
+      "num": 264872,
+      "word": "禹属欣",
+      "onboard_time": 1730965279,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259453,
       "num": 259453,
       "word": "雇主坐牢失联月嫂抚养女婴3年",
@@ -793,14 +865,6 @@
       "onboard_time": 1730940381,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 244080,
-      "num": 213128,
-      "word": "李佩霞当庭认罪悔罪",
-      "onboard_time": 1730963419,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242318,
@@ -907,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222517,
+      "num": 222517,
+      "word": "杨子形容黄圣依是整容样板",
+      "onboard_time": 1730965821,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219538,
       "num": 219538,
       "word": "GOT7将回归",
@@ -993,6 +1065,14 @@
       "onboard_time": 1730961202,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200901,
+      "num": 200901,
+      "word": "轻断食一天吃了十三根玉米",
+      "onboard_time": 1730967020,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 200793,
@@ -1131,12 +1211,44 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 167838,
+      "num": 167838,
+      "word": "杨天真建议上司不要约下属吃饭",
+      "onboard_time": 1730965459,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167640,
       "num": 167640,
       "word": "河南一地交通事故4名公职人员遇难",
       "onboard_time": 1730940381,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167413,
+      "num": 167413,
+      "word": "纯血鸿蒙版微信开启邀请内测",
+      "onboard_time": 1730966960,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 167250,
+      "num": 167250,
+      "word": "端午燕子京官宣",
+      "onboard_time": 1730967020,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166621,
+      "num": 166621,
+      "word": "雪地靴一穿冬天的感觉就来了",
+      "onboard_time": 1730967680,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 165096,
@@ -1185,6 +1297,38 @@
       "onboard_time": 1730938821,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159060,
+      "num": 159060,
+      "word": "苏57展示超短距起飞能力",
+      "onboard_time": 1730966480,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 158837,
+      "num": 158837,
+      "word": "被烧伤妈妈基本达到临床治愈标准",
+      "onboard_time": 1730966000,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158531,
+      "num": 438629,
+      "word": "王楚钦是奥运后参赛最多的运动员",
+      "onboard_time": 1730967260,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158244,
+      "num": 158244,
+      "word": "老师在操场踢倒学生扇另一学生头",
+      "onboard_time": 1730966779,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156515,
@@ -1241,14 +1385,6 @@
       "onboard_time": 1730963719,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 147701,
-      "num": 147701,
-      "word": "马斯克接受采访中儿子突然闯进来",
-      "onboard_time": 1730964860,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 146171,
@@ -1499,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101945,
+      "num": 443316,
+      "word": "朱开爆料Yagao解约",
+      "onboard_time": 1730967199,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100574,
       "num": 100574,
       "word": "美股",
@@ -1545,6 +1689,14 @@
       "onboard_time": 1730906300,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92140,
+      "num": 434426,
+      "word": "重庆一水果店墙体塌陷致一人身亡",
+      "onboard_time": 1730966599,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92020,
@@ -1699,6 +1851,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59237,
+      "num": 273016,
+      "word": "冬天这样穿三层就够了",
+      "onboard_time": 1730964318,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 55180,
+      "num": 196257,
+      "word": "央视披露银川特大燃气爆炸事故原因",
+      "onboard_time": 1730966240,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52848,
+      "num": 550396,
+      "word": "心疼杨子的画师一分钟",
+      "onboard_time": 1730966720,
+      "rank": 9,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 50495,
       "num": 350979,
       "word": "唐晓天 活盐王",
@@ -1737,6 +1913,14 @@
       "onboard_time": 1730913555,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45391,
+      "num": 755310,
+      "word": "文化中国行之立冬节气",
+      "onboard_time": 1730967500,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44368,
@@ -1931,6 +2115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 23700,
+      "num": 564588,
+      "word": "马斯克为何抢当特朗普的榜1大哥",
+      "onboard_time": 1730967859,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 23089,
       "num": 155828,
       "word": "提升冬天幸福感的数码好物",
@@ -1968,6 +2160,14 @@
       "word": "杨妞花说如果是炒作要炒得天下无拐",
       "onboard_time": 1730923452,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20545,
+      "num": 436222,
+      "word": "宣称下播恢复原价后食言是价格欺诈",
+      "onboard_time": 1730967320,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2027,20 +2227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12809,
-      "num": 220986,
-      "word": "冬天这样穿三层就够了",
-      "onboard_time": 1730964318,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 10888,
       "num": 18860,
       "word": "小巷人家",
       "onboard_time": 1730898321,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10804,
+      "num": 158947,
+      "word": "幸运咖准备准备可以升咖了",
+      "onboard_time": 1730967980,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 7831,
@@ -2065,6 +2265,9 @@
     },
     {
       "word": "#做好社会工作是全党共同责任#"
+    },
+    {
+      "word": "#习近平总书记湖北行#"
     }
   ]
 }
