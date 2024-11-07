@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731007035471,
+  "endTime": 1731008143413,
   "band_list": [
     {
       "raw_hot": 2438949,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 32500,
-      "num": 32500,
+      "num": 37822,
       "word": "papi酱 杨子假装在戏弄人间",
       "onboard_time": 1731001874,
       "rank": 36,
@@ -523,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17718,
-      "num": 27249,
+      "raw_hot": 19701,
+      "num": 55308,
       "word": "原来中式审美都是有出处的",
       "onboard_time": 1731005173,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17093,
+      "num": 19088,
+      "word": "美投票日千名移民焦虑等待入境美国",
+      "onboard_time": 1731007872,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 16490,
@@ -539,7 +547,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15185,
+      "raw_hot": 16317,
       "num": 29822,
       "word": "记者第一次进鸡棚差点被臭个跟头",
       "onboard_time": 1731006612,
