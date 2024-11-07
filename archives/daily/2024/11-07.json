@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730961809494,
+  "endTime": 1730964030101,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788936,
+      "num": 788936,
+      "word": "祝绪丹 想亲吗",
+      "onboard_time": 1730963179,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 787200,
       "num": 887801,
       "word": "杨蓉好美的女明星 魏晨也是个岛民",
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583977,
+      "num": 583977,
+      "word": "刘宇宁还是不太适应吻戏",
+      "onboard_time": 1730959880,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580691,
       "num": 580691,
       "word": "王皓说王楚钦打得太小心了",
@@ -401,6 +417,14 @@
       "onboard_time": 1730936899,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429194,
+      "num": 429194,
+      "word": "杨子要不赔画师点钱吧",
+      "onboard_time": 1730957239,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 422389,
@@ -499,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365383,
-      "num": 365383,
-      "word": "刘宇宁还是不太适应吻戏",
-      "onboard_time": 1730959880,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358266,
       "num": 429539,
       "word": "王楚钦 总会有属于自己的那条路",
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305200,
+      "num": 281708,
+      "word": "杨子说黄圣依一百多公斤",
+      "onboard_time": 1730961259,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301248,
       "num": 301248,
       "word": "小巷人家王安宇出场",
@@ -659,20 +683,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285232,
+      "num": 523496,
+      "word": "李行亮被麦琳嫌弃的专辑翻红",
+      "onboard_time": 1730960601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285200,
       "num": 742302,
       "word": "拜登祝贺特朗普",
       "onboard_time": 1730935339,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 281708,
-      "num": 281708,
-      "word": "杨子说黄圣依一百多公斤",
-      "onboard_time": 1730961259,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 281650,
@@ -683,12 +707,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279796,
+      "num": 527059,
+      "word": "李佩霞被控受贿165万",
+      "onboard_time": 1730962639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275879,
       "num": 275879,
       "word": "寄明月MV",
       "onboard_time": 1730955502,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271030,
+      "num": 271030,
+      "word": "留几手原生家庭",
+      "onboard_time": 1730958680,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 270363,
@@ -737,14 +777,6 @@
       "onboard_time": 1730940381,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 245263,
-      "num": 245263,
-      "word": "留几手原生家庭",
-      "onboard_time": 1730958680,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 242318,
@@ -803,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232625,
+      "num": 232625,
+      "word": "王楚钦退场敲了敲球台",
+      "onboard_time": 1730962939,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229605,
       "num": 229605,
       "word": "车企高管称在车内吃东西是刚需",
       "onboard_time": 1730954181,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 227797,
+      "num": 227797,
+      "word": "金价",
+      "onboard_time": 1730879910,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 226486,
@@ -947,6 +995,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 198771,
+      "num": 198771,
+      "word": "赵今麦樱桃琥珀婚纱路透",
+      "onboard_time": 1730963719,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198660,
+      "num": 198660,
+      "word": "李佩霞当庭认罪悔罪",
+      "onboard_time": 1730963419,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198514,
       "num": 198514,
       "word": "永夜星河穿帮",
@@ -1051,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165096,
+      "num": 635251,
+      "word": "保姆回应自费抚养女婴3年多",
+      "onboard_time": 1730961439,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163649,
       "num": 163649,
       "word": "60秒看美国总统选举制度",
@@ -1091,12 +1163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156893,
+      "num": 156893,
+      "word": "丁禹兮谨言慎行最早源头",
+      "onboard_time": 1730963539,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156515,
       "num": 156515,
       "word": "180秒复盘特朗普胜选演讲",
       "onboard_time": 1730907200,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154995,
+      "num": 154995,
+      "word": "脱口秀演员给自己婚礼讲冷场了",
+      "onboard_time": 1730962218,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 154018,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1730943140,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148531,
+      "num": 148531,
+      "word": "刀剑神域",
+      "onboard_time": 1730963719,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 146171,
@@ -1507,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73788,
-      "num": 523496,
-      "word": "李行亮被麦琳嫌弃的专辑翻红",
-      "onboard_time": 1730960601,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69211,
       "num": 1324389,
       "word": "网警提醒切勿随意扫码领礼品",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1730955681,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51170,
+      "num": 201264,
+      "word": "烧伤妈妈已能床边坐立和下地行走",
+      "onboard_time": 1730963780,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50495,
@@ -1643,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39920,
+      "num": 204324,
+      "word": "麦琳 麦学",
+      "onboard_time": 1730963958,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38962,
       "num": 38962,
       "word": "中国空军将同时装备两款隐身战机",
@@ -1673,14 +1777,6 @@
       "onboard_time": 1730956161,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 36694,
-      "num": 635251,
-      "word": "保姆回应自费抚养女婴3年多",
-      "onboard_time": 1730961439,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34909,
@@ -1747,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29739,
+      "num": 357613,
+      "word": "买适老器械来某东享国补",
+      "onboard_time": 1730959341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
@@ -1787,14 +1891,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24366,
-      "num": 357613,
-      "word": "买适老器械来某东享国补",
-      "onboard_time": 1730959341,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24308,
       "num": 397312,
       "word": "高盛看好美股至少涨到年底",
@@ -1827,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22102,
+      "num": 155828,
+      "word": "提升冬天幸福感的数码好物",
+      "onboard_time": 1730962338,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19779,
       "num": 356003,
       "word": "郑钦文说不会观看另一小组的晋级赛",
@@ -1835,20 +1939,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19721,
+      "num": 342662,
+      "word": "揭秘壁挂炉市场乱象",
+      "onboard_time": 1730962338,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19477,
       "num": 52050,
       "word": "超近距离看歼15T机翼折叠",
       "onboard_time": 1730930661,
       "rank": 24,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 19017,
-      "num": 23089,
-      "word": "金价",
-      "onboard_time": 1730879910,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 19003,
