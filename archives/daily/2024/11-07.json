@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730954500614,
+  "endTime": 1730956872972,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -11,8 +11,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2310813,
-      "num": 2310813,
+      "raw_hot": 3613561,
+      "num": 816871,
+      "word": "佩洛西哭了",
+      "onboard_time": 1730954062,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2327751,
+      "num": 2327751,
       "word": "蜂花",
       "onboard_time": 1730946619,
       "rank": 30,
@@ -57,6 +65,14 @@
       "onboard_time": 1730935097,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1399777,
+      "num": 907070,
+      "word": "景区回应将水龙头设计成生殖器形状",
+      "onboard_time": 1730953702,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1286393,
@@ -113,6 +129,14 @@
       "onboard_time": 1730918293,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1045125,
+      "num": 1045125,
+      "word": "权志龙晒茅台酒",
+      "onboard_time": 1730954302,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1036048,
@@ -211,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727887,
+      "num": 727887,
+      "word": "蜂花删除争议性动态",
+      "onboard_time": 1730951481,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 700510,
       "num": 606231,
       "word": "特朗普赢得2024美国大选",
@@ -219,12 +251,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 681800,
-      "num": 681800,
-      "word": "佩洛西哭了",
-      "onboard_time": 1730954062,
-      "rank": 8,
-      "category": "国外时政"
+      "raw_hot": 682104,
+      "num": 759016,
+      "word": "刘诗诗牵儿子手逛街",
+      "onboard_time": 1730955381,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 613775,
@@ -299,14 +331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 475727,
-      "num": 475727,
-      "word": "景区回应将水龙头设计成生殖器形状",
-      "onboard_time": 1730953702,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457973,
       "num": 823928,
       "word": "陈都灵 扇耳光当然要快",
@@ -315,12 +339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442160,
+      "num": 442160,
+      "word": "大批网友涌入蜂花账号要求道歉",
+      "onboard_time": 1730955202,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422389,
       "num": 412415,
       "word": "结婚未领证生子男子起诉返还彩礼",
       "onboard_time": 1730901504,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419345,
+      "num": 419345,
+      "word": "范丞丞回应小巷人家争议",
+      "onboard_time": 1730955742,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 412527,
@@ -361,14 +401,6 @@
       "onboard_time": 1730940322,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380054,
-      "num": 380054,
-      "word": "蜂花删除争议性动态",
-      "onboard_time": 1730951481,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 375565,
@@ -427,19 +459,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354533,
+      "num": 588492,
+      "word": "陈都灵 来都来了都不白来",
+      "onboard_time": 1730952381,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345569,
       "num": 345569,
       "word": "嘘国王在冬眠",
       "onboard_time": 1730906661,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 343808,
-      "num": 588492,
-      "word": "陈都灵 来都来了都不白来",
-      "onboard_time": 1730952381,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -475,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320272,
+      "num": 320272,
+      "word": "蜂花广告被质疑刻意丑化女性",
+      "onboard_time": 1730956101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312647,
       "num": 309075,
       "word": "俄外交部回应美国大选结果",
       "onboard_time": 1730950460,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 310623,
-      "num": 310623,
-      "word": "权志龙晒茅台酒",
-      "onboard_time": 1730954302,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 308436,
@@ -563,12 +595,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 275879,
+      "num": 275879,
+      "word": "寄明月MV",
+      "onboard_time": 1730955502,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272113,
+      "num": 742410,
+      "word": "蜂花发道歉信",
+      "onboard_time": 1730955202,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268997,
       "num": 209548,
       "word": "特朗普宣布获胜后全场高喊USA",
       "onboard_time": 1730903602,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 267832,
+      "num": 267832,
+      "word": "刘丁硕说王楚钦压力太大了",
+      "onboard_time": 1730955080,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 266046,
@@ -609,6 +665,14 @@
       "onboard_time": 1730934738,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236089,
+      "num": 236089,
+      "word": "超90款卫生巾品牌长度不合格",
+      "onboard_time": 1730955562,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235314,
@@ -732,7 +796,7 @@
     },
     {
       "raw_hot": 199830,
-      "num": 199830,
+      "num": 461871,
       "word": "时代少年团养成系的具象化",
       "onboard_time": 1730953401,
       "rank": 48,
@@ -793,6 +857,14 @@
       "onboard_time": 1730895320,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 186804,
+      "num": 186804,
+      "word": "为什么北方没有人边走路边吃早餐",
+      "onboard_time": 1730955981,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 179750,
@@ -915,6 +987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149549,
+      "num": 445381,
+      "word": "邯郸一中学允许女生留长发引热议",
+      "onboard_time": 1730956639,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146171,
       "num": 146171,
       "word": "永夜星河",
@@ -929,6 +1009,14 @@
       "onboard_time": 1730937439,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145424,
+      "num": 462122,
+      "word": "王耀庆天生演不了穷人",
+      "onboard_time": 1730956341,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 141736,
@@ -1139,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103059,
+      "num": 356108,
+      "word": "张煜东说王楚钦很自律的",
+      "onboard_time": 1730955621,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100574,
       "num": 100574,
       "word": "美股",
@@ -1299,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45567,
+      "num": 956889,
+      "word": "公安部网安局提醒切勿随意扫码领礼品",
+      "onboard_time": 1730956220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44368,
       "num": 540917,
       "word": "济南通报女子未接电话被辱骂事件",
@@ -1395,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29263,
+      "num": 278468,
+      "word": "小鹏P7+价格",
+      "onboard_time": 1730956220,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
@@ -1420,7 +1532,7 @@
     },
     {
       "raw_hot": 26896,
-      "num": 546684,
+      "num": 651448,
       "word": "和王俊凯一起凯启幸运",
       "onboard_time": 1730952321,
       "rank": 26,
@@ -1465,6 +1577,14 @@
       "onboard_time": 1730923452,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19779,
+      "num": 356003,
+      "word": "郑钦文说不会观看另一小组的晋级赛",
+      "onboard_time": 1730955080,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 19477,
@@ -1521,6 +1641,14 @@
       "onboard_time": 1730898321,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8888,
+      "num": 268396,
+      "word": "立冬换个毛绒绒图标",
+      "onboard_time": 1730956161,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 7504,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730954500614,
+  "endTime": 1730956872972,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3613561,
+      "num": 816871,
+      "word": "佩洛西哭了",
+      "onboard_time": 1730954062,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 3475710,
       "num": 3475710,
       "word": "Faker五冠王",
@@ -307,20 +315,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2327751,
+      "num": 2327751,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 2317454,
       "num": 771914,
       "word": "8个瑞士卷宝妈吃几个不自私",
       "onboard_time": 1730721620,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2310813,
-      "num": 2310813,
-      "word": "蜂花",
-      "onboard_time": 1730946619,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 2251316,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1399777,
+      "num": 907070,
+      "word": "景区回应将水龙头设计成生殖器形状",
+      "onboard_time": 1730953702,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1384220,
       "num": 629615,
       "word": "烧伤妈妈说不想再住原来的房子",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1730918293,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1045125,
+      "num": 1045125,
+      "word": "权志龙晒茅台酒",
+      "onboard_time": 1730954302,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1036048,
@@ -1971,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727887,
+      "num": 727887,
+      "word": "蜂花删除争议性动态",
+      "onboard_time": 1730951481,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 727836,
       "num": 266189,
       "word": "覃海洋成绩被取消",
@@ -2107,20 +2139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682104,
+      "num": 759016,
+      "word": "刘诗诗牵儿子手逛街",
+      "onboard_time": 1730955381,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 682048,
       "num": 682048,
       "word": "瑞士卷怎么分席卷全网老公",
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681800,
-      "num": 681800,
-      "word": "佩洛西哭了",
-      "onboard_time": 1730954062,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 677482,
@@ -3259,14 +3291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475727,
-      "num": 475727,
-      "word": "景区回应将水龙头设计成生殖器形状",
-      "onboard_time": 1730953702,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472387,
       "num": 472387,
       "word": "今年前三季度全国结婚登记474.7万对",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1730805561,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 442160,
+      "num": 442160,
+      "word": "大批网友涌入蜂花账号要求道歉",
+      "onboard_time": 1730955202,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442130,
@@ -3649,6 +3681,14 @@
       "onboard_time": 1730635939,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419345,
+      "num": 419345,
+      "word": "范丞丞回应小巷人家争议",
+      "onboard_time": 1730955742,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 417886,
@@ -3963,14 +4003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380054,
-      "num": 380054,
-      "word": "蜂花删除争议性动态",
-      "onboard_time": 1730951481,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 378284,
       "num": 378284,
       "word": "加里奥",
@@ -4171,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354533,
+      "num": 588492,
+      "word": "陈都灵 来都来了都不白来",
+      "onboard_time": 1730952381,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353980,
       "num": 353980,
       "word": "川大智胜午后涨停",
@@ -4297,14 +4337,6 @@
       "onboard_time": 1730900544,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343808,
-      "num": 588492,
-      "word": "陈都灵 来都来了都不白来",
-      "onboard_time": 1730952381,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 343181,
@@ -4611,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320272,
+      "num": 320272,
+      "word": "蜂花广告被质疑刻意丑化女性",
+      "onboard_time": 1730956101,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319649,
       "num": 319649,
       "word": "假性亲密关系",
@@ -4721,14 +4761,6 @@
       "onboard_time": 1730695763,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310623,
-      "num": 310623,
-      "word": "权志龙晒茅台酒",
-      "onboard_time": 1730954302,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 310277,
@@ -5147,6 +5179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275879,
+      "num": 275879,
+      "word": "寄明月MV",
+      "onboard_time": 1730955502,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275794,
       "num": 329003,
       "word": "十个勤天 禾下乘凉梦",
@@ -5203,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272113,
+      "num": 742410,
+      "word": "蜂花发道歉信",
+      "onboard_time": 1730955202,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271902,
       "num": 271902,
       "word": "52岁智障男子被包装成蓝领背上车贷",
@@ -5257,6 +5305,14 @@
       "onboard_time": 1730726900,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267832,
+      "num": 267832,
+      "word": "刘丁硕说王楚钦压力太大了",
+      "onboard_time": 1730955080,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 267229,
@@ -5817,6 +5873,14 @@
       "onboard_time": 1730638399,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 236089,
+      "num": 236089,
+      "word": "超90款卫生巾品牌长度不合格",
+      "onboard_time": 1730955562,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235616,
@@ -6916,7 +6980,7 @@
     },
     {
       "raw_hot": 199830,
-      "num": 199830,
+      "num": 461871,
       "word": "时代少年团养成系的具象化",
       "onboard_time": 1730953401,
       "rank": 48,
@@ -7537,6 +7601,14 @@
       "onboard_time": 1730848578,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186804,
+      "num": 186804,
+      "word": "为什么北方没有人边走路边吃早餐",
+      "onboard_time": 1730955981,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 186616,
@@ -9179,6 +9251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149549,
+      "num": 445381,
+      "word": "邯郸一中学允许女生留长发引热议",
+      "onboard_time": 1730956639,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149396,
       "num": 149396,
       "word": "勇士vs火箭",
@@ -9377,6 +9457,14 @@
       "onboard_time": 1730589675,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145424,
+      "num": 462122,
+      "word": "王耀庆天生演不了穷人",
+      "onboard_time": 1730956341,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 145304,
@@ -11011,6 +11099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103059,
+      "num": 356108,
+      "word": "张煜东说王楚钦很自律的",
+      "onboard_time": 1730955621,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103019,
       "num": 166633,
       "word": "虞书欣泰国首次个人见面会",
@@ -12195,6 +12291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45567,
+      "num": 956889,
+      "word": "公安部网安局提醒切勿随意扫码领礼品",
+      "onboard_time": 1730956220,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45103,
       "num": 231808,
       "word": "女理发师因听得懂话爆火",
@@ -12899,6 +13003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29263,
+      "num": 278468,
+      "word": "小鹏P7+价格",
+      "onboard_time": 1730956220,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29066,
       "num": 415297,
       "word": "离岸人民币大涨超500基点",
@@ -13036,7 +13148,7 @@
     },
     {
       "raw_hot": 26896,
-      "num": 546684,
+      "num": 651448,
       "word": "和王俊凯一起凯启幸运",
       "onboard_time": 1730952321,
       "rank": 26,
@@ -13449,6 +13561,14 @@
       "onboard_time": 1730567776,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19779,
+      "num": 356003,
+      "word": "郑钦文说不会观看另一小组的晋级赛",
+      "onboard_time": 1730955080,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 19746,
@@ -14057,6 +14177,14 @@
       "onboard_time": 1730864303,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 8888,
+      "num": 268396,
+      "word": "立冬换个毛绒绒图标",
+      "onboard_time": 1730956161,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 8427,
