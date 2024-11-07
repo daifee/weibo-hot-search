@@ -1,0 +1,410 @@
+{
+  "runTime": 1730976028141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590374,
+        "num": 1590374,
+        "word": "多名运动员为王楚钦发声",
+        "onboard_time": 1730969721,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916146,
+        "num": 916146,
+        "word": "Boss直聘回应求职者被要求陪睡",
+        "onboard_time": 1730972121,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14531,
+        "num": 828251,
+        "word": "首届世界古典学大会开幕",
+        "onboard_time": 1730967320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813251,
+        "num": 813251,
+        "word": "彭高 翁青雅",
+        "onboard_time": 1730958500,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628058,
+        "num": 628058,
+        "word": "杨幂与国旗同框",
+        "onboard_time": 1730972359,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1745566,
+        "num": 623473,
+        "word": "特朗普小儿子巴伦或成美政坛新星",
+        "onboard_time": 1730971699,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 616598,
+        "num": 616598,
+        "word": "招生简章把港澳列入国家川大将追责",
+        "onboard_time": 1730966660,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515612,
+        "num": 515612,
+        "word": "8岁娃扔玩具被终身禁入熊猫基地",
+        "onboard_time": 1730971999,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489880,
+        "num": 489880,
+        "word": "大张伟太太是他的英雄吧",
+        "onboard_time": 1730969120,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67708,
+        "num": 487320,
+        "word": "能笑着走出去的理发店出现了",
+        "onboard_time": 1730974461,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015114,
+        "num": 484807,
+        "word": "叶珂帮忙救助了流浪小狗",
+        "onboard_time": 1730971579,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905575,
+        "num": 480748,
+        "word": "佩洛西哭了",
+        "onboard_time": 1730954062,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104716,
+        "num": 477734,
+        "word": "KPL供暖了",
+        "onboard_time": 1730974400,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 631164,
+        "num": 471616,
+        "word": "李娜回应郑钦文不与选手交友",
+        "onboard_time": 1730972659,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60831,
+        "num": 468686,
+        "word": "卡尔伯格说赢王楚钦感觉不真实",
+        "onboard_time": 1730975904,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525921,
+        "num": 464974,
+        "word": "马斯克为何抢当特朗普的榜1大哥",
+        "onboard_time": 1730967859,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 510863,
+        "num": 461153,
+        "word": "马斯克接受采访中儿子突然闯进来",
+        "onboard_time": 1730964860,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 312773,
+        "num": 460412,
+        "word": "麦琳被画像丑哭了",
+        "onboard_time": 1730972300,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290790,
+        "num": 453586,
+        "word": "迪丽热巴贺思慕青衣路透",
+        "onboard_time": 1730971999,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273543,
+        "num": 452871,
+        "word": "永夜星河",
+        "onboard_time": 1730975482,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10504532,
+        "num": 448010,
+        "word": "曝黄晓明被叶珂索要2.7亿分手费",
+        "onboard_time": 1730975242,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446016,
+        "num": 446016,
+        "word": "特朗普称要立刻封锁边境",
+        "onboard_time": 1730945179,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402961,
+        "num": 402961,
+        "word": "拉萨4.5级地震",
+        "onboard_time": 1730975723,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302865,
+        "num": 302865,
+        "word": "西安一女生称应聘总助被要求陪睡",
+        "onboard_time": 1730968100,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71559,
+        "num": 299864,
+        "word": "王凯 这就是我不发朋友圈的原因",
+        "onboard_time": 1730975904,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34875,
+        "num": 299853,
+        "word": "陈幸同说赢球心情肯定比输好",
+        "onboard_time": 1730974702,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299853,
+        "num": 299852,
+        "word": "饺子",
+        "onboard_time": 1730974341,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251156,
+        "num": 251156,
+        "word": "特朗普赢得2024美国大选",
+        "onboard_time": 1730876377,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200758,
+        "num": 229218,
+        "word": "严浩翔发了一段无声视频",
+        "onboard_time": 1730975003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197823,
+        "num": 226112,
+        "word": "永夜星河寄明月MV",
+        "onboard_time": 1730975122,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224853,
+        "num": 224853,
+        "word": "县城贵妇悄悄买走上亿元皮草",
+        "onboard_time": 1730974761,
+        "rank": 30,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 219538,
+        "num": 219538,
+        "word": "恋与深空偷跑",
+        "onboard_time": 1730970560,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213469,
+        "num": 213469,
+        "word": "蜂花",
+        "onboard_time": 1730946619,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206756,
+        "num": 206756,
+        "word": "蜂花争议广告漫画团队回应",
+        "onboard_time": 1730972419,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206153,
+        "num": 206153,
+        "word": "外交部回应特朗普涉台言论",
+        "onboard_time": 1730966599,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34640,
+        "num": 202422,
+        "word": "小鹏P7+太火了",
+        "onboard_time": 1730973381,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201967,
+        "num": 201967,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180040,
+        "num": 193343,
+        "word": "珠帘玉幕云合首登顶",
+        "onboard_time": 1730973259,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191091,
+        "num": 191091,
+        "word": "Uzi新身份回归老头杯",
+        "onboard_time": 1730974282,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183509,
+        "num": 183509,
+        "word": "潘展乐感谢世界泳联",
+        "onboard_time": 1730975423,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180474,
+        "num": 180474,
+        "word": "网友建议删掉烧伤妈妈被炸伤视频",
+        "onboard_time": 1730968879,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167229,
+        "num": 167229,
+        "word": "女童街头遭老人一顿猛踹后被推倒",
+        "onboard_time": 1730966480,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165026,
+        "num": 165026,
+        "word": "时代少年团五周年宣传片",
+        "onboard_time": 1730974944,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161756,
+        "num": 161756,
+        "word": "白百何演了20多集终于看爽了",
+        "onboard_time": 1730972599,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157861,
+        "num": 157861,
+        "word": "景区回应将水龙头设计成生殖器形状",
+        "onboard_time": 1730953702,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153473,
+        "num": 153473,
+        "word": "张煜东问王楚钦做错了什么",
+        "onboard_time": 1730973320,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151704,
+        "num": 151704,
+        "word": "红气养猴",
+        "onboard_time": 1730965339,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150012,
+        "num": 150012,
+        "word": "蜂花发道歉信",
+        "onboard_time": 1730955202,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141059,
+        "num": 141059,
+        "word": "特朗普正式宣布获胜",
+        "onboard_time": 1730879370,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140806,
+        "num": 140806,
+        "word": "永夜星河推出游戏模式",
+        "onboard_time": 1730965459,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届世界古典学大会致贺信#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730974993128,
+  "endTime": 1730976028141,
   "band_list": [
+    {
+      "raw_hot": 10504532,
+      "num": 448010,
+      "word": "曝黄晓明被叶珂索要2.7亿分手费",
+      "onboard_time": 1730975242,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5648647,
       "num": 1198881,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2036796,
-      "num": 568750,
+      "num": 623473,
       "word": "特朗普小儿子巴伦或成美政坛新星",
       "onboard_time": 1730971699,
       "rank": 31,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015114,
+      "num": 484807,
+      "word": "叶珂帮忙救助了流浪小狗",
+      "onboard_time": 1730971579,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 994739,
       "num": 829486,
       "word": "美国可能面临五大变化",
@@ -297,6 +313,14 @@
       "onboard_time": 1730958500,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 916146,
+      "num": 916146,
+      "word": "Boss直聘回应求职者被要求陪睡",
+      "onboard_time": 1730972121,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 914371,
@@ -371,16 +395,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 774008,
-      "num": 405331,
-      "word": "叶珂帮忙救助了流浪小狗",
-      "onboard_time": 1730971579,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 720245,
-      "num": 398638,
+      "num": 471616,
       "word": "李娜回应郑钦文不与选手交友",
       "onboard_time": 1730972659,
       "rank": 12,
@@ -425,6 +441,14 @@
       "onboard_time": 1730957900,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628058,
+      "num": 628058,
+      "word": "杨幂与国旗同框",
+      "onboard_time": 1730972359,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 613775,
@@ -499,22 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 569007,
-      "num": 569007,
-      "word": "杨幂与国旗同框",
-      "onboard_time": 1730972359,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 559987,
-      "num": 559987,
-      "word": "Boss直聘回应求职者被要求陪睡",
-      "onboard_time": 1730972121,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547175,
       "num": 691989,
       "word": "井柏然与李荣浩母子聚餐",
@@ -529,6 +537,14 @@
       "onboard_time": 1730943380,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 515612,
+      "num": 515612,
+      "word": "8岁娃扔玩具被终身禁入熊猫基地",
+      "onboard_time": 1730971999,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515183,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 408478,
-      "num": 408478,
+      "num": 453586,
       "word": "迪丽热巴贺思慕青衣路透",
       "onboard_time": 1730971999,
       "rank": 19,
@@ -625,6 +641,14 @@
       "onboard_time": 1730941760,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 402961,
+      "num": 402961,
+      "word": "拉萨4.5级地震",
+      "onboard_time": 1730975723,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402416,
@@ -665,14 +689,6 @@
       "onboard_time": 1730956341,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378317,
-      "num": 378317,
-      "word": "8岁娃扔玩具被终身禁入熊猫基地",
-      "onboard_time": 1730971999,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375565,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 342300,
-      "num": 390113,
+      "num": 460412,
       "word": "麦琳被画像丑哭了",
       "onboard_time": 1730972300,
       "rank": 16,
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299853,
+      "num": 299852,
+      "word": "饺子",
+      "onboard_time": 1730974341,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297727,
       "num": 297727,
       "word": "俄方不对美国新当选总统抱有幻想",
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273543,
+      "num": 452871,
+      "word": "永夜星河",
+      "onboard_time": 1730884883,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271030,
       "num": 281697,
       "word": "留几手原生家庭",
@@ -977,14 +1009,6 @@
       "onboard_time": 1730909779,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256060,
-      "num": 256060,
-      "word": "饺子",
-      "onboard_time": 1730974341,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 248860,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224853,
+      "num": 224853,
+      "word": "县城贵妇悄悄买走上亿元皮草",
+      "onboard_time": 1730974761,
+      "rank": 48,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 224687,
       "num": 884873,
       "word": "李佩霞案开庭",
@@ -1187,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206756,
+      "num": 206756,
+      "word": "蜂花争议广告漫画团队回应",
+      "onboard_time": 1730972419,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205905,
       "num": 205905,
       "word": "陈平安偏偏你最争气",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1730973259,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201967,
+      "num": 201967,
+      "word": "中国买家拍下一块77年前的蛋糕",
+      "onboard_time": 1730975602,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201964,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1730949802,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200758,
+      "num": 229218,
+      "word": "严浩翔发了一段无声视频",
+      "onboard_time": 1730975003,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200377,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1730961318,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197823,
+      "num": 226112,
+      "word": "永夜星河寄明月MV",
+      "onboard_time": 1730975122,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 197531,
@@ -1331,14 +1395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192596,
-      "num": 192596,
-      "word": "蜂花争议广告漫画团队回应",
-      "onboard_time": 1730972419,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1730966779,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191091,
+      "num": 395343,
+      "word": "Uzi新身份回归老头杯",
+      "onboard_time": 1730974282,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 188574,
@@ -1371,12 +1435,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 184336,
-      "num": 395343,
-      "word": "Uzi新身份回归老头杯",
-      "onboard_time": 1730974282,
-      "rank": 14,
-      "category": "电竞"
+      "raw_hot": 183509,
+      "num": 183509,
+      "word": "潘展乐感谢世界泳联",
+      "onboard_time": 1730975423,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 182598,
@@ -1388,7 +1452,7 @@
     },
     {
       "raw_hot": 181382,
-      "num": 181382,
+      "num": 477734,
       "word": "KPL供暖了",
       "onboard_time": 1730974400,
       "rank": 37,
@@ -1483,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165026,
+      "num": 165026,
+      "word": "时代少年团五周年宣传片",
+      "onboard_time": 1730974944,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163649,
       "num": 163649,
       "word": "60秒看美国总统选举制度",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1730950761,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161756,
+      "num": 161756,
+      "word": "白百何演了20多集终于看爽了",
+      "onboard_time": 1730972599,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 160483,
@@ -1587,12 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150340,
-      "num": 150340,
-      "word": "白百何演了20多集终于看爽了",
-      "onboard_time": 1730972599,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 153473,
+      "num": 153473,
+      "word": "张煜东问王楚钦做错了什么",
+      "onboard_time": 1730973320,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 149717,
@@ -1619,27 +1699,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 147992,
-      "num": 147992,
-      "word": "时代少年团五周年宣传片",
-      "onboard_time": 1730974944,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 147752,
       "num": 147752,
       "word": "皓嫣的吻晚了三年零七个月",
       "onboard_time": 1730972300,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146171,
-      "num": 146171,
-      "word": "永夜星河",
-      "onboard_time": 1730884883,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1761,14 +1825,6 @@
       "onboard_time": 1730942360,
       "rank": 49,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 128515,
-      "num": 128515,
-      "word": "县城贵妇悄悄买走上亿元皮草",
-      "onboard_time": 1730974761,
-      "rank": 48,
-      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 128169,
@@ -2075,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71559,
+      "num": 299864,
+      "word": "王凯 这就是我不发朋友圈的原因",
+      "onboard_time": 1730975904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70038,
       "num": 438728,
       "word": "原来不是总监首席也能剪好头发",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1730885185,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 67708,
+      "num": 487320,
+      "word": "能笑着走出去的理发店出现了",
+      "onboard_time": 1730974461,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66628,
@@ -2163,6 +2235,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 60831,
+      "num": 468686,
+      "word": "卡尔伯格说赢王楚钦感觉不真实",
+      "onboard_time": 1730975904,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60251,
       "num": 216909,
       "word": "烧伤妈妈已能床边坐立和下地行走",
@@ -2185,14 +2265,6 @@
       "onboard_time": 1730955681,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58697,
-      "num": 406787,
-      "word": "能笑着走出去的理发店出现了",
-      "onboard_time": 1730974461,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57848,
@@ -2395,6 +2467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34640,
+      "num": 209420,
+      "word": "小鹏P7+太火了",
+      "onboard_time": 1730973381,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34026,
       "num": 488791,
       "word": "死亡游戏为什么死灰复燃",
@@ -2441,14 +2521,6 @@
       "onboard_time": 1730920211,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31207,
-      "num": 209420,
-      "word": "小鹏P7+太火了",
-      "onboard_time": 1730973381,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 30601,

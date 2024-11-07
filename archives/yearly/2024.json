@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1730974993128,
+  "endTime": 1730976028141,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1307,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10504532,
+      "num": 448010,
+      "word": "曝黄晓明被叶珂索要2.7亿分手费",
+      "onboard_time": 1730975242,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10438172,
       "num": 753183,
       "word": "文泰一 性犯罪",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707486868,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7901681,
-      "num": 7901681,
-      "word": "张志杰去世",
-      "onboard_time": 1719792137,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
