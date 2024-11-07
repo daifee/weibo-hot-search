@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1730999961564,
+  "endTime": 1731001016344,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5699,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287747,
+      "num": 287747,
+      "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
+      "onboard_time": 1730996059,
+      "rank": 29,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 287287,
       "num": 291822,
       "word": "Faker出门忘买装备",
@@ -6841,14 +6849,6 @@
       "onboard_time": 1730803041,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 226914,
-      "num": 226914,
-      "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
-      "onboard_time": 1730996059,
-      "rank": 29,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 226574,
@@ -12851,6 +12851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91119,
+      "num": 91119,
+      "word": "赛力斯称已报警",
+      "onboard_time": 1730997018,
+      "rank": 44,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 89275,
       "num": 526557,
       "word": "格莱美预测",
@@ -13001,14 +13009,6 @@
       "onboard_time": 1730798301,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 84579,
-      "num": 84579,
-      "word": "赛力斯称已报警",
-      "onboard_time": 1730997018,
-      "rank": 44,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 84291,
@@ -14420,7 +14420,7 @@
     },
     {
       "raw_hot": 40637,
-      "num": 44532,
+      "num": 46926,
       "word": "女飞徐枫灿开着直20到珠海了",
       "onboard_time": 1730997198,
       "rank": 49,
@@ -14681,6 +14681,14 @@
       "onboard_time": 1730626278,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36445,
+      "num": 46943,
+      "word": "王俊凯灰西装look",
+      "onboard_time": 1731000615,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 36233,

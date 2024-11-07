@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 01:19:21
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 01:36:56
 </p>
 </blockquote>
 <p>
@@ -5685,6 +5685,12 @@ On机器人（热度：289569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%B0%B1%E6%B6%89%E5%86%85%E8%92%99%E5%8F%A4%E7%83%A7%E5%8D%96%E4%BA%89%E8%AE%AE%E8%A8%80%E8%AE%BA%E8%87%B4%E6%AD%89%23" target="weibo">
+董宇辉就涉内蒙古烧卖争议言论致歉（热度：287747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%87%BA%E9%97%A8%E5%BF%98%E4%B9%B0%E8%A3%85%E5%A4%87%23" target="weibo">
 Faker出门忘买装备（热度：287287）
 </a>
@@ -6005,12 +6011,6 @@ TES（热度：280492）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%89%AE%E7%9B%B8%23" target="weibo">
 陈都灵扮相（热度：269790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23by2%E4%B8%80%E5%AD%97%E9%A9%AC11%E5%B9%B4%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23" target="weibo">
-by2一字马11年前后对比（热度：269464）
 </a>
 </li>
 
