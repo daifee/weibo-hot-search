@@ -1,6 +1,6 @@
 {
   "startTime": 1730910458846,
-  "endTime": 1730950089199,
+  "endTime": 1730950942640,
   "band_list": [
     {
       "raw_hot": 5648647,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2251316,
-      "num": 1194991,
+      "num": 1215445,
       "word": "马斯克要求台湾供应商搬出台湾",
       "onboard_time": 1730934377,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1810788,
+      "num": 1810788,
+      "word": "蜂花",
+      "onboard_time": 1730946619,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 1737223,
@@ -51,8 +59,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1241482,
-      "num": 1241482,
+      "raw_hot": 1260519,
+      "num": 1260519,
       "word": "发型师晓华3天只睡了1个半小时",
       "onboard_time": 1730945780,
       "rank": 14,
@@ -65,14 +73,6 @@
       "onboard_time": 1730941939,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1220404,
-      "num": 1220404,
-      "word": "蜂花",
-      "onboard_time": 1730946619,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 1111245,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951685,
+      "num": 951685,
+      "word": "美司法部考虑结束针对特朗普的刑案",
+      "onboard_time": 1730945900,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 948470,
       "num": 948470,
       "word": "虞书欣向腾讯视频催更",
@@ -161,14 +169,6 @@
       "onboard_time": 1730942658,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 828472,
-      "num": 828472,
-      "word": "美司法部考虑结束针对特朗普的刑案",
-      "onboard_time": 1730945900,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 814633,
@@ -211,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 584644,
+      "num": 634636,
+      "word": "盯虞兮",
+      "onboard_time": 1730948421,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580691,
       "num": 580691,
       "word": "王皓说王楚钦打得太小心了",
@@ -219,7 +227,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529016,
+      "raw_hot": 547175,
       "num": 691989,
       "word": "井柏然与李荣浩母子聚餐",
       "onboard_time": 1730948540,
@@ -243,19 +251,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 495089,
-      "num": 495089,
-      "word": "盯虞兮",
-      "onboard_time": 1730948421,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 457973,
       "num": 823928,
       "word": "陈都灵 扇耳光当然要快",
       "onboard_time": 1730936899,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446648,
+      "num": 446648,
+      "word": "开始补大理寺少卿游",
+      "onboard_time": 1730949740,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -355,7 +363,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327360,
+      "raw_hot": 336266,
       "num": 677796,
       "word": "杨子不想让父母留遗憾",
       "onboard_time": 1730947879,
@@ -363,8 +371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326201,
-      "num": 326201,
+      "raw_hot": 335983,
+      "num": 335983,
       "word": "马斯克稳居全球首富宝座",
       "onboard_time": 1730944760,
       "rank": 35,
@@ -403,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 300782,
+      "num": 372911,
+      "word": "白鹿赵露思去年vs今年",
+      "onboard_time": 1730945298,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297727,
       "num": 297727,
       "word": "俄方不对美国新当选总统抱有幻想",
@@ -425,14 +441,6 @@
       "onboard_time": 1730935758,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286743,
-      "num": 372911,
-      "word": "白鹿赵露思去年vs今年",
-      "onboard_time": 1730945298,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 286632,
@@ -465,6 +473,14 @@
       "onboard_time": 1730903602,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 266085,
+      "num": 266085,
+      "word": "只有大学生才知道她有多厉害",
+      "onboard_time": 1730949920,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 259453,
@@ -523,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214549,
+      "raw_hot": 224687,
       "num": 884873,
       "word": "李佩霞案开庭",
       "onboard_time": 1730946978,
@@ -553,6 +569,14 @@
       "onboard_time": 1730895320,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 206966,
+      "num": 206966,
+      "word": "黎深 心脏手术",
+      "onboard_time": 1730950341,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 204523,
@@ -587,14 +611,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 198592,
-      "num": 217975,
-      "word": "开始补大理寺少卿游",
-      "onboard_time": 1730949740,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198514,
       "num": 198514,
       "word": "永夜星河穿帮",
@@ -627,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193959,
+      "num": 193959,
+      "word": "2025乙巳蛇年贵金属纪念币",
+      "onboard_time": 1730949920,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "特朗普宣称接下来是美国的黄金时代",
@@ -635,28 +659,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 183814,
-      "num": 183814,
-      "word": "只有大学生才知道她有多厉害",
-      "onboard_time": 1730949920,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179750,
       "num": 179750,
       "word": "冬季第一个节气",
       "onboard_time": 1730935518,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176557,
-      "num": 176557,
-      "word": "2025乙巳蛇年贵金属纪念币",
-      "onboard_time": 1730949920,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 171437,
@@ -707,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162770,
+      "num": 162770,
+      "word": "勇士战胜凯尔特人",
+      "onboard_time": 1730950761,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160438,
       "num": 371078,
       "word": "歼35A意味着以后可能还有B和C",
@@ -721,6 +737,14 @@
       "onboard_time": 1730938821,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158488,
+      "num": 158488,
+      "word": "俄外交部回应美国大选结果",
+      "onboard_time": 1730950460,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 156515,
@@ -739,12 +763,28 @@
       "category": "国外时政,国内时政"
     },
     {
+      "raw_hot": 153993,
+      "num": 883785,
+      "word": "A股三大指数全线翻红",
+      "onboard_time": 1730948239,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153743,
       "num": 412482,
       "word": "中国外交部对特朗普当选总统表示祝贺",
       "onboard_time": 1730910139,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150969,
+      "num": 618703,
+      "word": "拜登政府被爆计划快速对乌提供剩余援助",
+      "onboard_time": 1730949380,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 149717,
@@ -859,6 +899,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 128953,
+      "num": 445792,
+      "word": "男子偷7斤榴莲给老婆吃被行拘7天",
+      "onboard_time": 1730949321,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128169,
       "num": 623860,
       "word": "论天津人的精神气儿",
@@ -945,14 +993,6 @@
       "onboard_time": 1730928851,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 109552,
-      "num": 883785,
-      "word": "A股三大指数全线翻红",
-      "onboard_time": 1730948239,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 104569,
@@ -1051,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74142,
-      "num": 618558,
-      "word": "拜登政府被爆计划快速对乌提供剩余援助",
-      "onboard_time": 1730949380,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 68459,
       "num": 81799,
       "word": "特朗普胜选演讲",
@@ -1083,11 +1115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51174,
-      "num": 445792,
-      "word": "男子偷7斤榴莲给老婆吃被行拘7天",
-      "onboard_time": 1730949321,
-      "rank": 19,
+      "raw_hot": 50313,
+      "num": 594682,
+      "word": "还有没有必要买学区房",
+      "onboard_time": 1730949260,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29887,
+      "num": 243181,
+      "word": "何小鹏开AI汽车上火星",
+      "onboard_time": 1730949861,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28115,
       "num": 83012,
       "word": "北京多区7日0时试供暖",
@@ -1187,28 +1227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25051,
-      "num": 158154,
-      "word": "何小鹏开AI汽车上火星",
-      "onboard_time": 1730949861,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 24465,
       "num": 24465,
       "word": "特朗普叮嘱工作人员警惕计票作弊",
       "onboard_time": 1730919372,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 24203,
-      "num": 594682,
-      "word": "还有没有必要买学区房",
-      "onboard_time": 1730949260,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22935,
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 7504,
-      "num": 1200018,
+      "num": 1222382,
       "word": "数读我国防沙治沙成绩单",
       "onboard_time": 1730896281,
       "rank": 2,
