@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1730964030101,
+  "endTime": 1730964955552,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -737,6 +737,14 @@
       "onboard_time": 1730569042,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1672547,
+      "num": 788936,
+      "word": "祝绪丹 想亲吗",
+      "onboard_time": 1730963179,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1669614,
@@ -2443,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788936,
-      "num": 788936,
-      "word": "祝绪丹 想亲吗",
-      "onboard_time": 1730963179,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 788815,
       "num": 280732,
       "word": "一学生实名举报重庆某高校",
@@ -3521,6 +3521,14 @@
       "onboard_time": 1730733381,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598392,
+      "num": 598392,
+      "word": "王楚钦退场敲了敲球台",
+      "onboard_time": 1730962939,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 596295,
@@ -6755,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298716,
+      "num": 527059,
+      "word": "李佩霞被控受贿165万",
+      "onboard_time": 1730962639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297727,
       "num": 297727,
       "word": "俄方不对美国新当选总统抱有幻想",
@@ -6873,6 +6889,14 @@
       "onboard_time": 1730431938,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293506,
+      "num": 523496,
+      "word": "李行亮被麦琳嫌弃的专辑翻红",
+      "onboard_time": 1730960601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 293341,
@@ -7051,14 +7075,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 285232,
-      "num": 523496,
-      "word": "李行亮被麦琳嫌弃的专辑翻红",
-      "onboard_time": 1730960601,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285200,
       "num": 742302,
       "word": "拜登祝贺特朗普",
@@ -7145,14 +7161,6 @@
       "onboard_time": 1730704337,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279796,
-      "num": 527059,
-      "word": "李佩霞被控受贿165万",
-      "onboard_time": 1730962639,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279548,
@@ -7396,7 +7404,7 @@
     },
     {
       "raw_hot": 271030,
-      "num": 271030,
+      "num": 281697,
       "word": "留几手原生家庭",
       "onboard_time": 1730958680,
       "rank": 34,
@@ -8035,6 +8043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244080,
+      "num": 213128,
+      "word": "李佩霞当庭认罪悔罪",
+      "onboard_time": 1730963419,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243506,
       "num": 284892,
       "word": "张艺兴 破防是我今晚的命题",
@@ -8323,20 +8339,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 232625,
-      "num": 232625,
-      "word": "王楚钦退场敲了敲球台",
-      "onboard_time": 1730962939,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
       "onboard_time": 1730679559,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232228,
+      "num": 232228,
+      "word": "赵今麦樱桃琥珀婚纱路透",
+      "onboard_time": 1730963719,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 232027,
@@ -8569,6 +8585,14 @@
       "onboard_time": 1730946978,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224485,
+      "num": 224485,
+      "word": "杨子说自己一百多公斤",
+      "onboard_time": 1730961259,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 224304,
@@ -8953,6 +8977,14 @@
       "onboard_time": 1730727501,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212427,
+      "num": 212427,
+      "word": "丁禹兮谨言慎行最早源头",
+      "onboard_time": 1730963539,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 212289,
@@ -9811,28 +9843,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 198771,
-      "num": 198771,
-      "word": "赵今麦樱桃琥珀婚纱路透",
-      "onboard_time": 1730963719,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198739,
       "num": 198739,
       "word": "何卓佳11比1",
       "onboard_time": 1730815824,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198660,
-      "num": 198660,
-      "word": "李佩霞当庭认罪悔罪",
-      "onboard_time": 1730963419,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198548,
@@ -9953,6 +9969,14 @@
       "onboard_time": 1730847858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197247,
+      "num": 197247,
+      "word": "基金",
+      "onboard_time": 1730964380,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 197028,
@@ -12547,14 +12571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156893,
-      "num": 156893,
-      "word": "丁禹兮谨言慎行最早源头",
-      "onboard_time": 1730963539,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156872,
       "num": 151733,
       "word": "黄磊回应资源背景争议",
@@ -13137,6 +13153,14 @@
       "onboard_time": 1730345239,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147701,
+      "num": 147701,
+      "word": "马斯克接受采访中儿子突然闯进来",
+      "onboard_time": 1730964860,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147639,
@@ -16243,6 +16267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97170,
+      "num": 217944,
+      "word": "麦琳 麦学",
+      "onboard_time": 1730963958,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97150,
       "num": 97150,
       "word": "S14",
@@ -17027,6 +17059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69302,
+      "num": 425884,
+      "word": "被打死5岁男童生父哭诉细节",
+      "onboard_time": 1730964500,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69211,
       "num": 1324389,
       "word": "网警提醒切勿随意扫码领礼品",
@@ -17329,6 +17369,14 @@
       "onboard_time": 1730899342,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60251,
+      "num": 216909,
+      "word": "烧伤妈妈已能床边坐立和下地行走",
+      "onboard_time": 1730963780,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60022,
@@ -17656,14 +17704,6 @@
       "word": "保护取款自由杀鸡别用牛刀",
       "onboard_time": 1730905041,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51170,
-      "num": 201264,
-      "word": "烧伤妈妈已能床边坐立和下地行走",
-      "onboard_time": 1730963780,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -18305,14 +18345,6 @@
       "onboard_time": 1730777119,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 39920,
-      "num": 204324,
-      "word": "麦琳 麦学",
-      "onboard_time": 1730963958,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 39608,
@@ -19667,6 +19699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23089,
+      "num": 155828,
+      "word": "提升冬天幸福感的数码好物",
+      "onboard_time": 1730962338,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23012,
       "num": 190532,
       "word": "张朝阳受邀回清华物理系讲物理",
@@ -19739,6 +19779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22248,
+      "num": 280376,
+      "word": "离开大厂我为5000个失意人塔罗占卜",
+      "onboard_time": 1730964919,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22236,
       "num": 711587,
       "word": "全球古典学者走读中国",
@@ -19753,14 +19801,6 @@
       "onboard_time": 1730923452,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22102,
-      "num": 155828,
-      "word": "提升冬天幸福感的数码好物",
-      "onboard_time": 1730962338,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 22085,
@@ -20673,6 +20713,14 @@
       "onboard_time": 1730838800,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12809,
+      "num": 220986,
+      "word": "冬天这样穿三层就够了",
+      "onboard_time": 1730964318,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 12762,
