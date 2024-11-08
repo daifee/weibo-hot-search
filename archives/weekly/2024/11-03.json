@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731031066506,
+  "endTime": 1731034311421,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -313,6 +313,14 @@
       "onboard_time": 1730719339,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2584320,
+      "num": 2584320,
+      "word": "被骗缅甸男生妈妈决定卖房救子",
+      "onboard_time": 1731030379,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2575812,
@@ -875,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461670,
+      "num": 872545,
+      "word": "黄圣依再次选择了离婚",
+      "onboard_time": 1731033139,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1461414,
       "num": 923339,
       "word": "彭高 翁青雅",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1730638639,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1251990,
+      "num": 1251990,
+      "word": "全国结婚人数止跌回升",
+      "onboard_time": 1731032118,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1242208,
@@ -2419,6 +2443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 693332,
+      "num": 693332,
+      "word": "美联储主席回应特朗普辞退威胁",
+      "onboard_time": 1731029479,
+      "rank": 23,
+      "category": "国外时政,财经"
+    },
+    {
       "raw_hot": 687651,
       "num": 687651,
       "word": "蒂芙尼成都太古里店被砸",
@@ -3372,7 +3404,7 @@
     },
     {
       "raw_hot": 536801,
-      "num": 300266,
+      "num": 326046,
       "word": "Meiko恋情",
       "onboard_time": 1731022279,
       "rank": 33,
@@ -4201,6 +4233,14 @@
       "onboard_time": 1730858661,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425056,
+      "num": 425056,
+      "word": "黄金一夜大涨50美元",
+      "onboard_time": 1731028640,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 421679,
@@ -5500,7 +5540,7 @@
     },
     {
       "raw_hot": 310559,
-      "num": 168146,
+      "num": 169288,
       "word": "翁青雅 孙乐言",
       "onboard_time": 1730999414,
       "rank": 16,
@@ -5587,14 +5627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302710,
-      "num": 302710,
-      "word": "美联储主席回应特朗普辞退威胁",
-      "onboard_time": 1731029479,
-      "rank": 23,
-      "category": "国外时政,财经"
-    },
-    {
       "raw_hot": 302191,
       "num": 383690,
       "word": "向佐回应不会和郭碧婷参加再见爱人",
@@ -5657,6 +5689,14 @@
       "onboard_time": 1730944338,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297633,
+      "num": 297633,
+      "word": "教资面试报名今天开始",
+      "onboard_time": 1731031219,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 297388,
@@ -5769,6 +5809,14 @@
       "onboard_time": 1730920391,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292902,
+      "num": 292902,
+      "word": "华侨大学",
+      "onboard_time": 1731031040,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 290182,
@@ -5889,6 +5937,14 @@
       "onboard_time": 1730935339,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 284659,
+      "num": 443665,
+      "word": "记者节",
+      "onboard_time": 1731027860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284615,
@@ -6033,14 +6089,6 @@
       "onboard_time": 1730810782,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274252,
-      "num": 443665,
-      "word": "记者节",
-      "onboard_time": 1731027860,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273810,
@@ -6435,6 +6483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251601,
+      "num": 251601,
+      "word": "撞劳斯莱斯货车司机发文",
+      "onboard_time": 1731030979,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251454,
       "num": 251454,
       "word": "秦海璐胡先煦复刻花少名场面",
@@ -6593,14 +6649,6 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242868,
-      "num": 242868,
-      "word": "被骗缅甸男生妈妈决定卖房救子",
-      "onboard_time": 1731030379,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242121,
@@ -7241,14 +7289,6 @@
       "onboard_time": 1730684838,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 216106,
-      "num": 216106,
-      "word": "黄金一夜大涨50美元",
-      "onboard_time": 1731028640,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 215980,
@@ -8851,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185848,
+      "num": 185848,
+      "word": "女子飞机上辱骂殴打空少自称有背景",
+      "onboard_time": 1731031640,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185427,
       "num": 185427,
       "word": "LPL",
@@ -9249,6 +9297,14 @@
       "onboard_time": 1730816663,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175029,
+      "num": 175029,
+      "word": "涵艺说JackeyLove不可能回iG",
+      "onboard_time": 1731031938,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 174781,
@@ -10595,6 +10651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151030,
+      "num": 167824,
+      "word": "电影孤星计划官宣定档",
+      "onboard_time": 1731032899,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150895,
       "num": 150895,
       "word": "令狐茂美疯了",
@@ -10705,6 +10769,14 @@
       "onboard_time": 1730632458,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149069,
+      "num": 272138,
+      "word": "疑似被骗至缅甸大学生家属被索要20万",
+      "onboard_time": 1731032418,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148792,
@@ -11531,6 +11603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133103,
+      "num": 133103,
+      "word": "永夜星河热度破29500",
+      "onboard_time": 1731028640,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132939,
       "num": 132939,
       "word": "虞书欣头像",
@@ -11553,14 +11633,6 @@
       "onboard_time": 1731021257,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132336,
-      "num": 132336,
-      "word": "永夜星河热度破29500",
-      "onboard_time": 1731028640,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 132231,
@@ -11753,6 +11825,14 @@
       "onboard_time": 1730626338,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128004,
+      "num": 128004,
+      "word": "一年级女儿学唱大香蕉爸爸破防",
+      "onboard_time": 1731034039,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127982,
@@ -12563,6 +12643,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112200,
+      "num": 112200,
+      "word": "教资笔试成绩8日可查",
+      "onboard_time": 1730980162,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 112192,
+      "num": 112192,
+      "word": "凯源",
+      "onboard_time": 1731022939,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111965,
       "num": 111965,
       "word": "裴珠泫个人solo预告",
@@ -12691,14 +12787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109315,
-      "num": 109315,
-      "word": "撞劳斯莱斯货车司机发文",
-      "onboard_time": 1731030979,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109081,
       "num": 292924,
       "word": "山东一银行无障碍通道被吐槽有障碍",
@@ -12795,14 +12883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107091,
-      "num": 107091,
-      "word": "凯源",
-      "onboard_time": 1731022939,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107076,
       "num": 107076,
       "word": "狗爸爸和小狗的互动方式好可爱",
@@ -12857,14 +12937,6 @@
       "onboard_time": 1730700379,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105144,
-      "num": 105144,
-      "word": "华侨大学",
-      "onboard_time": 1731031040,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 104982,
@@ -13024,6 +13096,14 @@
       "word": "封堵大学生夜骑不如疏导",
       "onboard_time": 1730819003,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99480,
+      "num": 99480,
+      "word": "警方回应女子殴打空少叫嚣有背景",
+      "onboard_time": 1731034100,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13627,6 +13707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74127,
+      "num": 272337,
+      "word": "券商板块爆发",
+      "onboard_time": 1731033558,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72333,
       "num": 95923,
       "word": "徐枫灿驾驶直20抵达珠海",
@@ -13768,6 +13856,14 @@
       "word": "徒步发现路边有尸骨初步排除刑案",
       "onboard_time": 1730867545,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68780,
+      "num": 298658,
+      "word": "现在比任何时候都更需要专业记者挺身而出",
+      "onboard_time": 1731032718,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -16412,7 +16508,7 @@
     },
     {
       "raw_hot": 18069,
-      "num": 120982,
+      "num": 314730,
       "word": "肖战联名系列包全身的",
       "onboard_time": 1731030618,
       "rank": 39,
@@ -16612,7 +16708,7 @@
     },
     {
       "raw_hot": 15308,
-      "num": 822709,
+      "num": 937768,
       "word": "一起看进博",
       "onboard_time": 1730983282,
       "rank": 2,
