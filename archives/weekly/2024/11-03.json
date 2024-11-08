@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731072414354,
+  "endTime": 1731073094689,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2539,7 +2539,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 736073,
+      "raw_hot": 738652,
       "num": 736073,
       "word": "丁禹兮 老粉比黑粉可怕",
       "onboard_time": 1731070041,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677899,
+      "num": 440371,
+      "word": "杨子也哭了",
+      "onboard_time": 1731070941,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 677482,
@@ -3393,14 +3401,6 @@
       "onboard_time": 1730618119,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 586480,
-      "num": 440371,
-      "word": "杨子也哭了",
-      "onboard_time": 1731070941,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 585860,
@@ -4747,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415111,
+      "num": 336389,
+      "word": "失笑摇来了刘亦菲",
+      "onboard_time": 1731070220,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414501,
       "num": 542730,
       "word": "郑钦文vs萨巴伦卡",
@@ -5291,6 +5299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 362979,
+      "num": 334660,
+      "word": "警校女生痛经跑3公里跪地爬过终点",
+      "onboard_time": 1731071600,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362779,
       "num": 362779,
       "word": "美国女子带两娃跳下60米高瀑布",
@@ -5489,6 +5505,14 @@
       "onboard_time": 1730906661,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 345063,
+      "num": 345063,
+      "word": "日本空手道小选手偷袭致对手瘫痪",
+      "onboard_time": 1731069559,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344863,
@@ -5763,14 +5787,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 331626,
-      "num": 331626,
-      "word": "失笑摇来了刘亦菲",
-      "onboard_time": 1731070220,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331389,
       "num": 331389,
       "word": "贵阳奥体中心被禁言了",
@@ -5923,14 +5939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320584,
-      "num": 320584,
-      "word": "日本空手道小选手偷袭致对手瘫痪",
-      "onboard_time": 1731069559,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320397,
       "num": 320397,
       "word": "白鹿赵露思聊什么呢",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1730888784,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314610,
+      "num": 314610,
+      "word": "王安宇演技",
+      "onboard_time": 1731072141,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 314072,
@@ -6153,6 +6169,14 @@
       "onboard_time": 1730849118,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304524,
+      "num": 304524,
+      "word": "麦琳 我的痛苦和你们一起分享",
+      "onboard_time": 1731072019,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 304215,
@@ -6459,6 +6483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287338,
+      "num": 276306,
+      "word": "雷军能不能生产卫生巾",
+      "onboard_time": 1731068058,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 287287,
       "num": 291822,
       "word": "Faker出门忘买装备",
@@ -6675,14 +6707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 276306,
-      "num": 276306,
-      "word": "雷军能不能生产卫生巾",
-      "onboard_time": 1731068058,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 276018,
       "num": 298146,
       "word": "黄旭熙将回归",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1730865205,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271529,
+      "num": 325434,
+      "word": "博主曝妇幼保健院暗藏摄像头",
+      "onboard_time": 1731071480,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271030,
@@ -7643,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233327,
+      "num": 413004,
+      "word": "家具签收一个月后买家申请了仅退款",
+      "onboard_time": 1731068239,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -7907,14 +7947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223773,
-      "num": 223773,
-      "word": "博主曝妇幼保健院暗藏摄像头",
-      "onboard_time": 1731071480,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223649,
       "num": 543710,
       "word": "网红博主被指有传染病已去医院检查",
@@ -7977,6 +8009,14 @@
       "onboard_time": 1731041602,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221409,
+      "num": 221409,
+      "word": "宗馥莉挨桌敬酒大经销商",
+      "onboard_time": 1731072741,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 221218,
@@ -8089,14 +8129,6 @@
       "onboard_time": 1730727321,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 216990,
-      "num": 216990,
-      "word": "麦琳 我的痛苦和你们一起分享",
-      "onboard_time": 1731072019,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 216680,
@@ -8329,6 +8361,14 @@
       "onboard_time": 1730860461,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211445,
+      "num": 373161,
+      "word": "机场回应男子停车场吵架被气死传闻",
+      "onboard_time": 1731070400,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210896,
@@ -10099,14 +10139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180373,
-      "num": 180373,
-      "word": "警校女生痛经跑3公里跪地爬过终点",
-      "onboard_time": 1731071600,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180334,
       "num": 270733,
       "word": "赵露思晚秋look",
@@ -10467,14 +10499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173609,
-      "num": 173609,
-      "word": "王安宇演技",
-      "onboard_time": 1731072141,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173486,
       "num": 186914,
       "word": "陈楚生直播",
@@ -10545,14 +10569,6 @@
       "onboard_time": 1730724858,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 172587,
-      "num": 413004,
-      "word": "家具签收一个月后买家申请了仅退款",
-      "onboard_time": 1731068239,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172424,
@@ -10953,6 +10969,14 @@
       "onboard_time": 1730983762,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165794,
+      "num": 165794,
+      "word": "何运晨聊妈妈哭了",
+      "onboard_time": 1731072620,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 165595,
@@ -13331,6 +13355,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 127052,
+      "num": 127052,
+      "word": "7.7万名村支书村主任已被立案",
+      "onboard_time": 1731072980,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126805,
       "num": 126805,
       "word": "白敬亭王安宇像极了减肥时的我",
@@ -13529,14 +13561,6 @@
       "onboard_time": 1730802562,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124253,
-      "num": 373161,
-      "word": "机场回应男子停车场吵架被气死传闻",
-      "onboard_time": 1731070400,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124220,
@@ -14947,6 +14971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90559,
+      "num": 383596,
+      "word": "王艺迪vs申裕斌",
+      "onboard_time": 1731071721,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90154,
       "num": 90154,
       "word": "庆祝第25个中国记者节",
@@ -15851,6 +15883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 61530,
+      "num": 224278,
+      "word": "刘宇宁演戏的含金量还在上升",
+      "onboard_time": 1731072620,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61456,
       "num": 225228,
       "word": "美多州在计票中心屋顶安排狙击手",
@@ -16555,14 +16595,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 46627,
-      "num": 383596,
-      "word": "王艺迪vs申裕斌",
-      "onboard_time": 1731071721,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46492,
       "num": 536440,
       "word": "大学生夜骑可别忘了安全第一",
@@ -17043,6 +17075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37331,
+      "num": 323642,
+      "word": "中国家庭需要什么样的MPV",
+      "onboard_time": 1731072201,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37251,
       "num": 463583,
       "word": "再有钱也别买这几样化妆品",
@@ -17137,14 +17177,6 @@
       "onboard_time": 1730725940,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35543,
-      "num": 158054,
-      "word": "中国家庭需要什么样的MPV",
-      "onboard_time": 1731072201,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 35466,
@@ -17763,6 +17795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27504,
+      "num": 978688,
+      "word": "一人一句致敬消防英雄",
+      "onboard_time": 1731071181,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27476,
       "num": 27476,
       "word": "11月7日6时20分迎来立冬",
@@ -18321,14 +18361,6 @@
       "onboard_time": 1730829913,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20994,
-      "num": 978688,
-      "word": "一人一句致敬消防英雄",
-      "onboard_time": 1731071181,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20916,

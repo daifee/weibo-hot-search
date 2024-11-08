@@ -1,0 +1,410 @@
+{
+  "runTime": 1731073094689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199664,
+        "num": 1199664,
+        "word": "孙乐言 彭高",
+        "onboard_time": 1731070459,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530516,
+        "num": 530516,
+        "word": "中国成为全球第二个双隐国家",
+        "onboard_time": 1731061459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27504,
+        "num": 420374,
+        "word": "一人一句致敬消防英雄",
+        "onboard_time": 1731071181,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738652,
+        "num": 414232,
+        "word": "丁禹兮 老粉比黑粉可怕",
+        "onboard_time": 1731070041,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407290,
+        "num": 407290,
+        "word": "恋与深空",
+        "onboard_time": 1731068719,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364339,
+        "num": 364339,
+        "word": "沈海高速一大巴突发车祸",
+        "onboard_time": 1731063501,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141921,
+        "num": 363948,
+        "word": "哈里斯说普京会把特朗普当午餐吃掉",
+        "onboard_time": 1731067579,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 677899,
+        "num": 363511,
+        "word": "杨子也哭了",
+        "onboard_time": 1731070941,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677460,
+        "num": 363261,
+        "word": "易烊千玺评论祝王源生日快乐",
+        "onboard_time": 1731067819,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362319,
+        "num": 362319,
+        "word": "恋与深空猫猫卡",
+        "onboard_time": 1731069019,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 688846,
+        "num": 359333,
+        "word": "大兴机场",
+        "onboard_time": 1731067819,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529097,
+        "num": 355911,
+        "word": "翁青雅好友发声",
+        "onboard_time": 1731060079,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528757,
+        "num": 350762,
+        "word": "王楚钦世一是一板一板打出来的",
+        "onboard_time": 1731062420,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423503,
+        "num": 348464,
+        "word": "伊能静回应艺人都去卖货了",
+        "onboard_time": 1731068900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345063,
+        "num": 345063,
+        "word": "日本空手道小选手偷袭致对手瘫痪",
+        "onboard_time": 1731069559,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28039,
+        "num": 340085,
+        "word": "捷途被外国人围观了",
+        "onboard_time": 1731071061,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 415111,
+        "num": 336389,
+        "word": "失笑摇来了刘亦菲",
+        "onboard_time": 1731070220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362979,
+        "num": 334660,
+        "word": "警校女生痛经跑3公里跪地爬过终点",
+        "onboard_time": 1731071600,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271529,
+        "num": 325434,
+        "word": "博主曝妇幼保健院暗藏摄像头",
+        "onboard_time": 1731071480,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37331,
+        "num": 323642,
+        "word": "中国家庭需要什么样的MPV",
+        "onboard_time": 1731072201,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 512742,
+        "num": 315796,
+        "word": "怀胎八月不做产检孩子不见了",
+        "onboard_time": 1731052879,
+        "rank": 20,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 314610,
+        "num": 314610,
+        "word": "王安宇演技",
+        "onboard_time": 1731072141,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311581,
+        "num": 311581,
+        "word": "女子发工资1636以为收到验证码",
+        "onboard_time": 1731056000,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309489,
+        "num": 309489,
+        "word": "永夜星河",
+        "onboard_time": 1731066138,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304524,
+        "num": 304524,
+        "word": "麦琳 我的痛苦和你们一起分享",
+        "onboard_time": 1731072019,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299016,
+        "num": 299016,
+        "word": "律师谈黄晓明被索要天价分手费",
+        "onboard_time": 1731060680,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246533,
+        "num": 246533,
+        "word": "Minnie吴宣仪Freen合照",
+        "onboard_time": 1731071061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233327,
+        "num": 233327,
+        "word": "家具签收一个月后买家申请了仅退款",
+        "onboard_time": 1731068239,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61530,
+        "num": 224278,
+        "word": "刘宇宁演戏的含金量还在上升",
+        "onboard_time": 1731072620,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107411,
+        "num": 222523,
+        "word": "佩斯科夫回应传闻笑称普京不吃人",
+        "onboard_time": 1731069559,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221409,
+        "num": 221409,
+        "word": "宗馥莉挨桌敬酒大经销商",
+        "onboard_time": 1731072741,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221022,
+        "num": 221022,
+        "word": "凌妙妙不属于这个世界的证据",
+        "onboard_time": 1731070459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211445,
+        "num": 211445,
+        "word": "机场回应男子停车场吵架被气死传闻",
+        "onboard_time": 1731070400,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207237,
+        "num": 207237,
+        "word": "哈尔滨师范大学已报警",
+        "onboard_time": 1731051379,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175553,
+        "num": 175553,
+        "word": "永夜星河17集",
+        "onboard_time": 1731066800,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165794,
+        "num": 165794,
+        "word": "何运晨聊妈妈哭了",
+        "onboard_time": 1731072620,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160754,
+        "num": 160754,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159901,
+        "num": 159901,
+        "word": "原神",
+        "onboard_time": 1731067219,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155435,
+        "num": 155435,
+        "word": "普京称特朗普是条勇敢的汉子",
+        "onboard_time": 1731059602,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154179,
+        "num": 154179,
+        "word": "7人造谣女子喝醉在路边被强暴被罚",
+        "onboard_time": 1731067639,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152174,
+        "num": 152174,
+        "word": "李行亮 表演型人格",
+        "onboard_time": 1731052760,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150841,
+        "num": 150841,
+        "word": "留几手",
+        "onboard_time": 1731070941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287338,
+        "num": 150012,
+        "word": "雷军能不能生产卫生巾",
+        "onboard_time": 1731068058,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90559,
+        "num": 147093,
+        "word": "王艺迪vs申裕斌",
+        "onboard_time": 1731071721,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146431,
+        "num": 146431,
+        "word": "支持房地产税收政策近期即将推出",
+        "onboard_time": 1731070520,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132097,
+        "num": 132097,
+        "word": "辽师大称车祸大巴上载有大三学生",
+        "onboard_time": 1731067161,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127052,
+        "num": 127052,
+        "word": "7.7万名村支书村主任已被立案",
+        "onboard_time": 1731072980,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126146,
+        "num": 126146,
+        "word": "虞书欣说邓超红发魔男",
+        "onboard_time": 1731069140,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118895,
+        "num": 118895,
+        "word": "麦琳空心人",
+        "onboard_time": 1731064820,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116089,
+        "num": 116089,
+        "word": "黄圣依父母不支持黄圣依杨子结婚",
+        "onboard_time": 1731056241,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同意大利总统马塔雷拉会谈#"
+    }
+  }
+}
