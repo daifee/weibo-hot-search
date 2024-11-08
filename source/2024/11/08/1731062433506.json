@@ -1,0 +1,410 @@
+{
+  "runTime": 1731062433506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1584123,
+        "num": 1584123,
+        "word": "6万亿",
+        "onboard_time": 1731054019,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 651726,
+        "num": 651726,
+        "word": "李行亮 表演型人格",
+        "onboard_time": 1731052760,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4155,
+        "num": 647168,
+        "word": "走出一条新时期中美正确相处之道",
+        "onboard_time": 1731012251,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645660,
+        "num": 645660,
+        "word": "草莓麻薯火锅",
+        "onboard_time": 1731056479,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 598049,
+        "num": 598049,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 532570,
+        "num": 532570,
+        "word": "哈尔滨师范大学已报警",
+        "onboard_time": 1731051379,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400739,
+        "num": 400739,
+        "word": "易烊千玺谈角色感情戏",
+        "onboard_time": 1731055940,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380712,
+        "num": 380712,
+        "word": "周一围拍戏被拒300多次",
+        "onboard_time": 1731056119,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352631,
+        "num": 352631,
+        "word": "普京称特朗普是条勇敢的汉子",
+        "onboard_time": 1731059602,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 286663,
+        "num": 329901,
+        "word": "中国成为全球第二个双隐国家",
+        "onboard_time": 1731061459,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142500,
+        "num": 326726,
+        "word": "翁清雅好友发声",
+        "onboard_time": 1731060079,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999037,
+        "num": 323451,
+        "word": "律师谈黄晓明被索要天价分手费",
+        "onboard_time": 1731060680,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319311,
+        "num": 319311,
+        "word": "失联大学生李高人在柬埔寨赌场",
+        "onboard_time": 1731041181,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280717,
+        "num": 280717,
+        "word": "法律专家谈39岁男子工作期间猝死",
+        "onboard_time": 1731054980,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252541,
+        "num": 252541,
+        "word": "卫生巾品牌回应长度不够",
+        "onboard_time": 1731052999,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235438,
+        "num": 245291,
+        "word": "赵一博追永夜星河",
+        "onboard_time": 1731057380,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206000,
+        "num": 239522,
+        "word": "谢娜首聊双胞胎",
+        "onboard_time": 1731046340,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238516,
+        "num": 238516,
+        "word": "日本买LV退税后比国内还贵200元",
+        "onboard_time": 1731060559,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 88311,
+        "num": 235340,
+        "word": "肖战意大利被偶遇",
+        "onboard_time": 1731055400,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33775,
+        "num": 233332,
+        "word": "荣耀Magic7爆单",
+        "onboard_time": 1731060619,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 623779,
+        "num": 227376,
+        "word": "女子发工资1636以为收到验证码",
+        "onboard_time": 1731056000,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615171,
+        "num": 226326,
+        "word": "黄圣依父母不支持黄圣依杨子结婚",
+        "onboard_time": 1731056241,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605217,
+        "num": 221769,
+        "word": "怀胎八月不做产检孩子不见了",
+        "onboard_time": 1731052879,
+        "rank": 22,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 218993,
+        "num": 218993,
+        "word": "A50",
+        "onboard_time": 1731056899,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348626,
+        "num": 214275,
+        "word": "男子8天加班41小时工作中猝死",
+        "onboard_time": 1731045440,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203729,
+        "num": 203729,
+        "word": "深潜定档",
+        "onboard_time": 1731061520,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191846,
+        "num": 191846,
+        "word": "IVE未公开新歌MV",
+        "onboard_time": 1731061401,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219058,
+        "num": 190223,
+        "word": "殴打空少女子已被家属接走",
+        "onboard_time": 1731059602,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80758,
+        "num": 186808,
+        "word": "侯明昊演技审判通过",
+        "onboard_time": 1731060739,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15400,
+        "num": 182529,
+        "word": "进博会现场机器狗为记者送祝福",
+        "onboard_time": 1731061761,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207893,
+        "num": 179911,
+        "word": "女子18万彩礼给父母保管索要时被拒",
+        "onboard_time": 1731061401,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178254,
+        "num": 178254,
+        "word": "和他打乒乓球比分已经不重要了",
+        "onboard_time": 1731058220,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176434,
+        "num": 176434,
+        "word": "王鹤棣在拍星河入梦",
+        "onboard_time": 1731061342,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167364,
+        "num": 167364,
+        "word": "何运晨更新offer十年之约",
+        "onboard_time": 1731060141,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164631,
+        "num": 164631,
+        "word": "心疼葛夕",
+        "onboard_time": 1731059121,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153035,
+        "num": 153035,
+        "word": "易烊千玺现在不敢演刘春和了",
+        "onboard_time": 1731057800,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146280,
+        "num": 146280,
+        "word": "载有辽师大学生客车高速起火",
+        "onboard_time": 1731057981,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142712,
+        "num": 142712,
+        "word": "永夜星河营业 大大方方",
+        "onboard_time": 1731050900,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137795,
+        "num": 137795,
+        "word": "王源生日现场",
+        "onboard_time": 1731055519,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134538,
+        "num": 134538,
+        "word": "虞书欣没想到这个礼要回的那么快",
+        "onboard_time": 1731062240,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38218,
+        "num": 134122,
+        "word": "撞劳斯莱斯被免责司机称遇到好心人",
+        "onboard_time": 1731060380,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133966,
+        "num": 133966,
+        "word": "韩安冉说她是Angelababy粉丝",
+        "onboard_time": 1731057981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127352,
+        "num": 127352,
+        "word": "外交部回应菲律宾涉南海所谓法律",
+        "onboard_time": 1731059540,
+        "rank": 42,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 120937,
+        "num": 120937,
+        "word": "麦琳情商",
+        "onboard_time": 1731055100,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120320,
+        "num": 120320,
+        "word": "永夜星河再登顶云合",
+        "onboard_time": 1731058220,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16664,
+        "num": 118782,
+        "word": "记者的荣光由每一篇作品照亮",
+        "onboard_time": 1731060380,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118779,
+        "num": 118779,
+        "word": "歼35A飞行画面",
+        "onboard_time": 1731038300,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 118073,
+        "num": 118073,
+        "word": "专家建议18到25岁年轻人要多谈恋爱",
+        "onboard_time": 1731040161,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106244,
+        "num": 106244,
+        "word": "最终幻想14",
+        "onboard_time": 1731059960,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104301,
+        "num": 104301,
+        "word": "一个cha给我干回青你了",
+        "onboard_time": 1731058581,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#新闻工作是一种崇高的职业#"
+    }
+  }
+}
