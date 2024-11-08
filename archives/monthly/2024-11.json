@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731039977654,
+  "endTime": 1731040829912,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2771,6 +2771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 779701,
+      "num": 779701,
+      "word": "周星星",
+      "onboard_time": 1731038660,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 779317,
       "num": 779317,
       "word": "马斯克每天抽1名选民送100万美元",
@@ -3107,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702681,
+      "num": 702681,
+      "word": "歼35A飞行画面",
+      "onboard_time": 1731038300,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 700428,
       "num": 633443,
       "word": "死亡游戏流行校园真的会致死",
@@ -3225,14 +3241,6 @@
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678781,
-      "num": 678781,
-      "word": "歼35A飞行画面",
-      "onboard_time": 1731038300,
-      "rank": 6,
-      "category": "军事"
     },
     {
       "raw_hot": 677482,
@@ -3625,6 +3633,14 @@
       "onboard_time": 1730785760,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 628613,
+      "num": 582487,
+      "word": "特朗普公布白宫办公厅主任人选",
+      "onboard_time": 1731038240,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 628058,
@@ -4809,14 +4825,6 @@
       "onboard_time": 1730507898,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501091,
-      "num": 427371,
-      "word": "特朗普公布白宫办公厅主任人选",
-      "onboard_time": 1731038240,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 497337,
@@ -7067,14 +7075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329633,
-      "num": 329633,
-      "word": "周星星",
-      "onboard_time": 1731038660,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328188,
       "num": 340957,
       "word": "神舟十八号航天员平安抵京",
@@ -7963,6 +7963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282938,
+      "num": 282938,
+      "word": "杨子把黄圣依气哭了",
+      "onboard_time": 1731039441,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282882,
       "num": 282882,
       "word": "曝网易游戏多名高管被带走调查",
@@ -8673,6 +8681,14 @@
       "onboard_time": 1730689698,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253459,
+      "num": 253459,
+      "word": "A股大爆发 超4500只个股上涨",
+      "onboard_time": 1731039561,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 253415,
@@ -9444,7 +9460,7 @@
     },
     {
       "raw_hot": 225080,
-      "num": 284335,
+      "num": 285668,
       "word": "再见爱人",
       "onboard_time": 1730504117,
       "rank": 46,
@@ -9779,6 +9795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214638,
+      "num": 214638,
+      "word": "广州投放绝育雄蚊子",
+      "onboard_time": 1731040043,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214616,
       "num": 214616,
       "word": "朱开想去BLG做教练",
@@ -10008,6 +10032,14 @@
       "word": "凌妙妙慕子期开虐",
       "onboard_time": 1730994142,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210747,
+      "num": 236325,
+      "word": "庄图南 性格底色",
+      "onboard_time": 1731038600,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -10539,6 +10571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203296,
+      "num": 203296,
+      "word": "人怎么可以内向成这样",
+      "onboard_time": 1731036199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "郑钦文高情商回应合照C位",
@@ -10593,14 +10633,6 @@
       "onboard_time": 1731029060,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 202314,
-      "num": 236325,
-      "word": "庄图南 性格底色",
-      "onboard_time": 1731038600,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 202279,
@@ -11363,6 +11395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192180,
+      "num": 192180,
+      "word": "专家建议18到25岁年轻人要多谈恋爱",
+      "onboard_time": 1731040161,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192099,
       "num": 192099,
       "word": "登陆少年开场",
@@ -11425,6 +11465,14 @@
       "onboard_time": 1730712381,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "茶百道 成毅",
+      "onboard_time": 1731040101,
+      "rank": 33,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 191179,
@@ -11633,14 +11681,6 @@
       "onboard_time": 1730709680,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188290,
-      "num": 188290,
-      "word": "人怎么可以内向成这样",
-      "onboard_time": 1731036199,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 187913,
@@ -12168,6 +12208,14 @@
       "word": "冬季第一个节气",
       "onboard_time": 1730935518,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179742,
+      "num": 179742,
+      "word": "疑被骗至缅甸大学生遭殴打不能说话",
+      "onboard_time": 1731039382,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -12745,14 +12793,6 @@
       "onboard_time": 1730531598,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171689,
-      "num": 171689,
-      "word": "杨子把黄圣依气哭了",
-      "onboard_time": 1731039441,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 171585,
@@ -13539,14 +13579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161600,
-      "num": 161600,
-      "word": "A股大爆发 超4500只个股上涨",
-      "onboard_time": 1731039561,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 161522,
       "num": 398939,
       "word": "美国国民警卫队紧急待命防内乱",
@@ -13753,6 +13785,14 @@
       "onboard_time": 1730540058,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159238,
+      "num": 159238,
+      "word": "春熙路的爬墙熊猫有班味儿了",
+      "onboard_time": 1731037401,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159215,
@@ -14587,14 +14627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148232,
-      "num": 148232,
-      "word": "春熙路的爬墙熊猫有班味儿了",
-      "onboard_time": 1731037401,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148193,
       "num": 148193,
       "word": "台风康妮",
@@ -14849,6 +14881,14 @@
       "onboard_time": 1730793981,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 145009,
+      "num": 145009,
+      "word": "丫丫喜提mini滑梯",
+      "onboard_time": 1731036859,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 144854,
@@ -15307,6 +15347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139584,
+      "num": 139584,
+      "word": "中所互免签证",
+      "onboard_time": 1731040642,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "诛仙世界",
@@ -15465,14 +15513,6 @@
       "onboard_time": 1730631199,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137751,
-      "num": 137751,
-      "word": "丫丫喜提mini滑梯",
-      "onboard_time": 1731036859,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 137668,
@@ -16003,6 +16043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130012,
+      "num": 130012,
+      "word": "运油20珠海首场适应性训练",
+      "onboard_time": 1731040221,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 129885,
       "num": 129885,
       "word": "赵露思说准备好迎接审判和建议",
@@ -16395,14 +16443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 124680,
-      "num": 124680,
-      "word": "疑被骗至缅甸大学生遭殴打不能说话",
-      "onboard_time": 1731039382,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124660,
       "num": 124660,
       "word": "烧伤妈妈看到孩子视频落泪",
@@ -16713,6 +16753,14 @@
       "onboard_time": 1731022939,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121509,
+      "num": 121509,
+      "word": "歼35A清晰图",
+      "onboard_time": 1731038240,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 121286,
@@ -20419,6 +20467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44532,
+      "num": 589553,
+      "word": "打电话勒索李高家属20万的是骗子",
+      "onboard_time": 1731040582,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44518,
       "num": 342167,
       "word": "京东月黑风高85英寸大电视11.11元",
@@ -21115,6 +21171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35110,
+      "num": 226829,
+      "word": "冰川上穿着波司登的中国来客",
+      "onboard_time": 1731038721,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 35008,
       "num": 356603,
       "word": "周一精神状态belike",
@@ -21249,14 +21313,6 @@
       "onboard_time": 1730982501,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34218,
-      "num": 226829,
-      "word": "冰川上穿着波司登的中国来客",
-      "onboard_time": 1731038721,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 34167,
