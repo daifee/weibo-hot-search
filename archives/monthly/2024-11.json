@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731030048678,
+  "endTime": 1731031066506,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2475,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846798,
+      "num": 1135487,
+      "word": "王俊凯发文为王源庆生",
+      "onboard_time": 1731021316,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 845550,
       "num": 845550,
       "word": "11岁男孩发烧心脏停跳52小时",
@@ -2657,14 +2665,6 @@
       "onboard_time": 1730702839,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 793715,
-      "num": 793715,
-      "word": "王俊凯发文为王源庆生",
-      "onboard_time": 1731021316,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 789810,
@@ -4003,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582113,
+      "num": 582113,
+      "word": "华侨大学回应教师酒囊饭袋言论",
+      "onboard_time": 1731026421,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 580691,
       "num": 580691,
       "word": "王皓说王楚钦打得太小心了",
@@ -4739,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496103,
+      "num": 496103,
+      "word": "心动的信号 剪辑",
+      "onboard_time": 1731026601,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495751,
       "num": 495751,
       "word": "范丞丞回应小巷人家争议",
@@ -5011,14 +5027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469814,
-      "num": 469814,
-      "word": "心动的信号 剪辑",
-      "onboard_time": 1731026601,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 469798,
       "num": 469798,
       "word": "詹姆斯表态将投票支持哈里斯",
@@ -5209,14 +5217,6 @@
       "onboard_time": 1730881893,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 447746,
-      "num": 447746,
-      "word": "华侨大学回应教师酒囊饭袋言论",
-      "onboard_time": 1731026421,
-      "rank": 8,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 447067,
@@ -6185,6 +6185,14 @@
       "onboard_time": 1730461819,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 376135,
+      "num": 294768,
+      "word": "杨洋疑似受伤",
+      "onboard_time": 1731028760,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 375565,
@@ -7228,7 +7236,7 @@
     },
     {
       "raw_hot": 310559,
-      "num": 167170,
+      "num": 168146,
       "word": "翁青雅 孙乐言",
       "onboard_time": 1730999414,
       "rank": 16,
@@ -7353,6 +7361,14 @@
       "onboard_time": 1730535018,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302710,
+      "num": 302710,
+      "word": "美联储主席回应特朗普辞退威胁",
+      "onboard_time": 1731029479,
+      "rank": 23,
+      "category": "国外时政,财经"
     },
     {
       "raw_hot": 302191,
@@ -7521,14 +7537,6 @@
       "onboard_time": 1730411771,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294768,
-      "num": 294768,
-      "word": "杨洋疑似受伤",
-      "onboard_time": 1731028760,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 294658,
@@ -7969,6 +7977,14 @@
       "onboard_time": 1730810782,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274252,
+      "num": 443665,
+      "word": "记者节",
+      "onboard_time": 1731027860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -8723,14 +8739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245103,
-      "num": 443665,
-      "word": "记者节",
-      "onboard_time": 1731027860,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244863,
       "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
@@ -8769,6 +8777,14 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242868,
+      "num": 242868,
+      "word": "被骗缅甸男生妈妈决定卖房救子",
+      "onboard_time": 1731030379,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242121,
@@ -9571,6 +9587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 216106,
+      "num": 216106,
+      "word": "黄金一夜大涨50美元",
+      "onboard_time": 1731028640,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215980,
       "num": 215980,
       "word": "电梯被捂嘴女孩母亲要求追究对方刑责",
@@ -10363,14 +10387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202756,
-      "num": 202756,
-      "word": "美联储主席回应特朗普辞退威胁",
-      "onboard_time": 1731029479,
-      "rank": 23,
-      "category": "国外时政,财经"
-    },
-    {
       "raw_hot": 202733,
       "num": 202733,
       "word": "eStar破BO7最快记录",
@@ -10401,6 +10417,14 @@
       "onboard_time": 1730881347,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202381,
+      "num": 202381,
+      "word": "世界文化遗产遭以色列炮火威胁",
+      "onboard_time": 1731029060,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 202279,
@@ -10787,6 +10811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197501,
+      "num": 273558,
+      "word": "普京称若西方表现主动愿恢复接触",
+      "onboard_time": 1731029060,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197473,
       "num": 220582,
       "word": "看到孩子之间按胸口务必警惕",
@@ -11073,6 +11105,14 @@
       "onboard_time": 1730449339,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 233753,
+      "word": "对接回应肖战将发布个人专辑",
+      "onboard_time": 1731030919,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 193074,
@@ -11593,14 +11633,6 @@
       "onboard_time": 1730524638,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 184759,
-      "num": 184759,
-      "word": "世界文化遗产遭以色列炮火威胁",
-      "onboard_time": 1731029060,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 184501,
@@ -12643,6 +12675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169792,
+      "num": 169792,
+      "word": "黎巴嫩一座250年建筑被炸成平地",
+      "onboard_time": 1731029060,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 169583,
       "num": 169583,
       "word": "章昊跳whiplash",
@@ -13043,6 +13083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164072,
+      "num": 172000,
+      "word": "杜华 输了就去当观众",
+      "onboard_time": 1731025882,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164065,
       "num": 164065,
       "word": "恋与制作人",
@@ -13225,6 +13273,14 @@
       "onboard_time": 1730532916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "土象星座是最合格的前任",
+      "onboard_time": 1731027501,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 161756,
@@ -13619,14 +13675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157525,
-      "num": 157525,
-      "word": "土象星座是最合格的前任",
-      "onboard_time": 1731027501,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157388,
       "num": 157388,
       "word": "河南方城4名公职人员在车祸中死亡",
@@ -13801,14 +13849,6 @@
       "onboard_time": 1730538018,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155011,
-      "num": 155011,
-      "word": "黎巴嫩一座250年建筑被炸成平地",
-      "onboard_time": 1731029060,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 154995,
@@ -14249,14 +14289,6 @@
       "onboard_time": 1730545938,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148892,
-      "num": 172000,
-      "word": "杜华 输了就去当观众",
-      "onboard_time": 1731025882,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 148844,
@@ -14881,14 +14913,6 @@
       "onboard_time": 1730608520,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141166,
-      "num": 141166,
-      "word": "普京称若西方表现主动愿恢复接触",
-      "onboard_time": 1731029060,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 141145,
@@ -15537,6 +15561,14 @@
       "onboard_time": 1730473459,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132336,
+      "num": 132336,
+      "word": "永夜星河热度破29500",
+      "onboard_time": 1731028640,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 132231,
@@ -16443,6 +16475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120858,
+      "num": 120858,
+      "word": "足迹是记者的勋章",
+      "onboard_time": 1731026662,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120582,
       "num": 120582,
       "word": "网友环球影城偶遇宋祖儿",
@@ -17083,14 +17123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 110156,
-      "num": 110156,
-      "word": "足迹是记者的勋章",
-      "onboard_time": 1731026662,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110154,
       "num": 110154,
       "word": "故宫银杏叶已满目金黄",
@@ -17185,6 +17217,14 @@
       "onboard_time": 1730813783,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109315,
+      "num": 109315,
+      "word": "撞劳斯莱斯货车司机发文",
+      "onboard_time": 1731030979,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109081,
@@ -17315,6 +17355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107091,
+      "num": 107091,
+      "word": "凯源",
+      "onboard_time": 1731022939,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107076,
       "num": 107076,
       "word": "狗爸爸和小狗的互动方式好可爱",
@@ -17387,14 +17435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106411,
-      "num": 115681,
-      "word": "黄金一夜大涨50美元",
-      "onboard_time": 1731028640,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 105967,
       "num": 105967,
       "word": "大梦归离两个大男人互扇巴掌",
@@ -17425,6 +17465,14 @@
       "onboard_time": 1730700379,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105144,
+      "num": 105144,
+      "word": "华侨大学",
+      "onboard_time": 1731031040,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 104982,
@@ -19403,6 +19451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55854,
+      "num": 288545,
+      "word": "华晨宇直播",
+      "onboard_time": 1731023118,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55676,
       "num": 241218,
       "word": "郑钦文今晚获胜即出线",
@@ -19681,14 +19737,6 @@
       "onboard_time": 1730650817,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 50576,
-      "num": 288545,
-      "word": "华晨宇直播",
-      "onboard_time": 1731023118,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 50495,
@@ -22457,6 +22505,14 @@
       "onboard_time": 1730582951,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18069,
+      "num": 120982,
+      "word": "肖战联名系列包全身的",
+      "onboard_time": 1731030618,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 17924,
