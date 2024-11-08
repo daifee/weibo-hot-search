@@ -1,0 +1,410 @@
+{
+  "runTime": 1731043302183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442273,
+        "num": 1442273,
+        "word": "周星星",
+        "onboard_time": 1731038660,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1397762,
+        "num": 1397762,
+        "word": "监控还原39人遇难火灾经过",
+        "onboard_time": 1731034398,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51585,
+        "num": 1278639,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1731036620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1397860,
+        "num": 1251030,
+        "word": "黄圣依再次选择了离婚",
+        "onboard_time": 1731033139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1194229,
+        "num": 1194229,
+        "word": "失联大学生李高人在柬埔寨赌场",
+        "onboard_time": 1731041181,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835298,
+        "num": 835298,
+        "word": "广州投放绝育雄蚊子",
+        "onboard_time": 1731040043,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728712,
+        "num": 728712,
+        "word": "全国结婚人数止跌回升",
+        "onboard_time": 1731032118,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627761,
+        "num": 627761,
+        "word": "歼35A飞行画面",
+        "onboard_time": 1731038300,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 625025,
+        "num": 625025,
+        "word": "特朗普获胜后拜登首次公开讲话",
+        "onboard_time": 1731034398,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 574631,
+        "num": 574631,
+        "word": "陶昕然自曝9岁时遭遇猥亵未遂",
+        "onboard_time": 1731041003,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 522573,
+        "num": 522573,
+        "word": "被骗缅甸男生妈妈决定卖房救子",
+        "onboard_time": 1731030379,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518872,
+        "num": 518872,
+        "word": "特朗普公布白宫办公厅主任人选",
+        "onboard_time": 1731038240,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 452995,
+        "num": 452995,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 404748,
+        "num": 404748,
+        "word": "难怪彭高没去张远演唱会",
+        "onboard_time": 1731034940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374383,
+        "num": 374383,
+        "word": "王俊凯发文为王源庆生",
+        "onboard_time": 1731021316,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369175,
+        "num": 369175,
+        "word": "转存歼35A这一瞬",
+        "onboard_time": 1731038539,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 330492,
+        "num": 330492,
+        "word": "杨子把黄圣依气哭了",
+        "onboard_time": 1731039441,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231193,
+        "num": 231193,
+        "word": "王鹤棣邀请何老师参加桃花坞",
+        "onboard_time": 1731042681,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226441,
+        "num": 226441,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30101,
+        "num": 221850,
+        "word": "荣耀Magic7镜头里的毛晓彤",
+        "onboard_time": 1731038721,
+        "rank": 19,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 714556,
+        "num": 221814,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466977,
+        "num": 221748,
+        "word": "专家建议18到25岁年轻人要多谈恋爱",
+        "onboard_time": 1731040161,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221523,
+        "num": 221523,
+        "word": "曝叶珂曾在婚内给男主播刷百万礼物",
+        "onboard_time": 1731041602,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220127,
+        "num": 220127,
+        "word": "一年级女儿学唱大香蕉爸爸破防",
+        "onboard_time": 1731034039,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209952,
+        "num": 209952,
+        "word": "陶昕然8岁女儿首次公开亮相",
+        "onboard_time": 1731042800,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209283,
+        "num": 209283,
+        "word": "她知道什么叫只剪一点点",
+        "onboard_time": 1731016572,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208770,
+        "num": 208770,
+        "word": "Meiko恋情",
+        "onboard_time": 1731022279,
+        "rank": 26,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 198293,
+        "num": 198293,
+        "word": "绝区零",
+        "onboard_time": 1731041662,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189001,
+        "num": 189001,
+        "word": "任天堂闹钟为啥这么火",
+        "onboard_time": 1731037401,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179101,
+        "num": 179101,
+        "word": "王鹤棣泰国演唱会",
+        "onboard_time": 1731035419,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174808,
+        "num": 174808,
+        "word": "Doinb回应涵艺爆料",
+        "onboard_time": 1731043221,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41028,
+        "num": 172410,
+        "word": "中学校长回应年薪50万招教师质疑",
+        "onboard_time": 1731041421,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171211,
+        "num": 171211,
+        "word": "涵艺爆料TheShy将复出",
+        "onboard_time": 1731042261,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169489,
+        "num": 169489,
+        "word": "祁煜剧情",
+        "onboard_time": 1731041722,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167953,
+        "num": 167953,
+        "word": "葛夕 我为什么要他同意呢",
+        "onboard_time": 1731034519,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167788,
+        "num": 167788,
+        "word": "中所互免签证",
+        "onboard_time": 1731040642,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162910,
+        "num": 162910,
+        "word": "人怎么可以内向成这样",
+        "onboard_time": 1731036199,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160524,
+        "num": 160524,
+        "word": "这样玩手机既容易斜视又容易近视",
+        "onboard_time": 1731035479,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153835,
+        "num": 153835,
+        "word": "疑被骗至缅甸大学生遭殴打不能说话",
+        "onboard_time": 1731039382,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147247,
+        "num": 147247,
+        "word": "美联储主席回应特朗普辞退威胁",
+        "onboard_time": 1731029479,
+        "rank": 39,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 147002,
+        "num": 147002,
+        "word": "慕声最讨厌失控的东西",
+        "onboard_time": 1731041962,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145846,
+        "num": 145846,
+        "word": "普京祝贺特朗普",
+        "onboard_time": 1731023599,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139052,
+        "num": 139052,
+        "word": "春熙路的爬墙熊猫有班味儿了",
+        "onboard_time": 1731037401,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140292,
+        "num": 138741,
+        "word": "拜登称将有一场和平的权力移交",
+        "onboard_time": 1731037160,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137659,
+        "num": 137659,
+        "word": "打电话勒索李高家属20万的是骗子",
+        "onboard_time": 1731040582,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130555,
+        "num": 130555,
+        "word": "茶百道 成毅",
+        "onboard_time": 1731040101,
+        "rank": 45,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 130104,
+        "num": 130104,
+        "word": "庄图南 性格底色",
+        "onboard_time": 1731038600,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35357,
+        "num": 123860,
+        "word": "王曼昱说下一场做好困难准备拼着去打",
+        "onboard_time": 1731041962,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121275,
+        "num": 121275,
+        "word": "肖战专辑共10首歌曲",
+        "onboard_time": 1731037699,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42228,
+        "num": 120842,
+        "word": "冰川上穿着波司登的中国来客",
+        "onboard_time": 1731038721,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}

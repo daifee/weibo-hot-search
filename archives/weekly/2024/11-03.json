@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731040829912,
+  "endTime": 1731043302183,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1442273,
+      "num": 1442273,
+      "word": "周星星",
+      "onboard_time": 1731038660,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1427684,
       "num": 1077013,
       "word": "电梯内被捂嘴女孩妈妈发声",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1730874625,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1194229,
+      "num": 1194229,
+      "word": "失联大学生李高人在柬埔寨赌场",
+      "onboard_time": 1731041181,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1177039,
@@ -2035,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 835298,
+      "num": 835298,
+      "word": "广州投放绝育雄蚊子",
+      "onboard_time": 1731040043,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830683,
       "num": 357635,
       "word": "特朗普承认有败选可能",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1730859201,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 779701,
-      "num": 779701,
-      "word": "周星星",
-      "onboard_time": 1731038660,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 779317,
@@ -3211,6 +3227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 574631,
+      "num": 574631,
+      "word": "陶昕然自曝9岁时遭遇猥亵未遂",
+      "onboard_time": 1731041003,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 574101,
       "num": 574101,
       "word": "以爱为营",
@@ -3923,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466977,
+      "num": 221748,
+      "word": "专家建议18到25岁年轻人要多谈恋爱",
+      "onboard_time": 1731040161,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464477,
       "num": 337474,
       "word": "丁禹兮人生镜头",
@@ -3993,6 +4025,14 @@
       "onboard_time": 1730595918,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 452995,
+      "num": 452995,
+      "word": "普京表示俄罗斯站在中国一边",
+      "onboard_time": 1731042621,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 452739,
@@ -5363,6 +5403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330492,
+      "num": 330492,
+      "word": "杨子把黄圣依气哭了",
+      "onboard_time": 1731039441,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329914,
       "num": 329914,
       "word": "蜂花广告被质疑刻意丑化女性",
@@ -6065,14 +6113,6 @@
       "onboard_time": 1730704640,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282938,
-      "num": 282938,
-      "word": "杨子把黄圣依气哭了",
-      "onboard_time": 1731039441,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 282882,
@@ -7083,6 +7123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231193,
+      "num": 231193,
+      "word": "王鹤棣邀请何老师参加桃花坞",
+      "onboard_time": 1731042681,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230753,
       "num": 230753,
       "word": "王一栩救星",
@@ -7315,6 +7363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221523,
+      "num": 221523,
+      "word": "曝叶珂曾在婚内给男主播刷百万礼物",
+      "onboard_time": 1731041602,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221218,
       "num": 221218,
       "word": "猎罪图鉴官微打假",
@@ -7449,14 +7505,6 @@
       "onboard_time": 1730967260,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214638,
-      "num": 214638,
-      "word": "广州投放绝育雄蚊子",
-      "onboard_time": 1731040043,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214616,
@@ -7665,6 +7713,14 @@
       "onboard_time": 1730772680,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209952,
+      "num": 209952,
+      "word": "陶昕然8岁女儿首次公开亮相",
+      "onboard_time": 1731042800,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 209773,
@@ -8363,6 +8419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198293,
+      "num": 198293,
+      "word": "绝区零",
+      "onboard_time": 1731041662,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198092,
       "num": 198092,
       "word": "第一次见这么直观的局部降雨",
@@ -8753,14 +8817,6 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192180,
-      "num": 192180,
-      "word": "专家建议18到25岁年轻人要多谈恋爱",
-      "onboard_time": 1731040161,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192099,
@@ -9523,6 +9579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174808,
+      "num": 174808,
+      "word": "Doinb回应涵艺爆料",
+      "onboard_time": 1731043221,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174781,
       "num": 174781,
       "word": "陈都灵 潇因",
@@ -9755,6 +9819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171211,
+      "num": 171211,
+      "word": "涵艺爆料TheShy将复出",
+      "onboard_time": 1731042261,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171045,
       "num": 171045,
       "word": "刘青松回应被骂",
@@ -9843,6 +9915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169489,
+      "num": 169489,
+      "word": "祁煜剧情",
+      "onboard_time": 1731041722,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169484,
       "num": 169484,
       "word": "黄圣依说没条件展示妻子所有的功能",
@@ -9881,6 +9961,14 @@
       "onboard_time": 1730844433,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167788,
+      "num": 167788,
+      "word": "中所互免签证",
+      "onboard_time": 1731040642,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167731,
@@ -11123,6 +11211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147002,
+      "num": 147002,
+      "word": "慕声最讨厌失控的东西",
+      "onboard_time": 1731041962,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146840,
       "num": 553803,
       "word": "动力电池采购价6万维修却要12万",
@@ -11539,14 +11635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139584,
-      "num": 139584,
-      "word": "中所互免签证",
-      "onboard_time": 1731040642,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 139498,
       "num": 411589,
       "word": "姑娘路边高价买雪莲花实为山茶花",
@@ -11641,6 +11729,14 @@
       "onboard_time": 1730631199,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137659,
+      "num": 589553,
+      "word": "打电话勒索李高家属20万的是骗子",
+      "onboard_time": 1731040582,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137602,
@@ -15107,14 +15203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44532,
-      "num": 589553,
-      "word": "打电话勒索李高家属20万的是骗子",
-      "onboard_time": 1731040582,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44368,
       "num": 540917,
       "word": "济南通报女子未接电话被辱骂事件",
@@ -15203,6 +15291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42228,
+      "num": 226829,
+      "word": "冰川上穿着波司登的中国来客",
+      "onboard_time": 1731038721,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 42182,
       "num": 411264,
       "word": "安可拉红 出圈",
@@ -15281,6 +15377,14 @@
       "onboard_time": 1730828294,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41028,
+      "num": 172410,
+      "word": "中学校长回应年薪50万招教师质疑",
+      "onboard_time": 1731041421,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40577,
@@ -15579,20 +15683,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 35357,
+      "num": 123860,
+      "word": "王曼昱说下一场做好困难准备拼着去打",
+      "onboard_time": 1731041962,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35299,
       "num": 278865,
       "word": "迎接叶光富李聪李广苏回家",
       "onboard_time": 1730650398,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35110,
-      "num": 226829,
-      "word": "冰川上穿着波司登的中国来客",
-      "onboard_time": 1731038721,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 35008,
@@ -15947,6 +16051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30101,
+      "num": 329649,
+      "word": "荣耀Magic7镜头里的毛晓彤",
+      "onboard_time": 1731038721,
+      "rank": 15,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 30081,
       "num": 301816,
       "word": "内娱养成系最后的希望",
@@ -16017,14 +16129,6 @@
       "onboard_time": 1730703078,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28943,
-      "num": 329649,
-      "word": "荣耀Magic7镜头里的毛晓彤",
-      "onboard_time": 1731038721,
-      "rank": 15,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 28684,
