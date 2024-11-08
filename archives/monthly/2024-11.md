@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 18:40:33
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 19:18:39
 </p>
 </blockquote>
 <p>
@@ -1371,6 +1371,12 @@ Faker FMVP（热度：1282167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E7%B4%A2%E8%A6%81%E5%A4%A9%E4%BB%B7%E5%88%86%E6%89%8B%E8%B4%B9%23" target="weibo">
+律师谈黄晓明被索要天价分手费（热度：1090587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E8%B5%9B%E7%82%B9%23" target="weibo">
 BLG赛点（热度：1087761）
 </a>
@@ -1575,12 +1581,6 @@ S14开幕式播不播（热度：1045831）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E7%B4%A2%E8%A6%81%E5%A4%A9%E4%BB%B7%E5%88%86%E6%89%8B%E8%B4%B9%23" target="weibo">
-律师谈黄晓明被索要天价分手费（热度：999037）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E4%BA%94%E5%A4%A7%E5%8F%98%E5%8C%96%23" target="weibo">
 美国可能面临五大变化（热度：994739）
 </a>
@@ -1595,6 +1595,12 @@ S14开幕式播不播（热度：1045831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Elk%E7%A5%9E%E7%AE%AD%23" target="weibo">
 Elk神箭（热度：991451）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8F%8C%E9%9A%90%E5%9B%BD%E5%AE%B6%23" target="weibo">
+中国成为全球第二个双隐国家（热度：990572）
 </a>
 </li>
 
@@ -1709,6 +1715,12 @@ Elk神箭（热度：991451）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E8%80%83%E8%99%91%E7%BB%93%E6%9D%9F%E9%92%88%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%88%91%E6%A1%88%23" target="weibo">
 美司法部考虑结束针对特朗普的刑案（热度：951685）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
+翁青雅好友发声（热度：950999）
 </a>
 </li>
 
@@ -2423,6 +2435,12 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B7%E5%A4%A7%E7%81%AB%E7%AE%AD%E7%A5%9D%E8%B4%BA%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E8%83%9C%23" target="weibo">
 马斯克刷大火箭祝贺特朗普获胜（热度：715034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%9D%A1%E5%8B%87%E6%95%A2%E7%9A%84%E6%B1%89%E5%AD%90%23" target="weibo">
+普京称特朗普是条勇敢的汉子（热度：708429）
 </a>
 </li>
 
@@ -3237,6 +3255,12 @@ Uzi捧杯图P好了（热度：592231）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9018%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%BB%99%E7%88%B6%E6%AF%8D%E4%BF%9D%E7%AE%A1%E7%B4%A2%E8%A6%81%E6%97%B6%E8%A2%AB%E6%8B%92%23" target="weibo">
+女子18万彩礼给父母保管索要时被拒（热度：575584）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%85%A8%E7%90%83%E6%88%98%E5%8A%9B%E6%A6%9C%E7%AC%AC%E4%B8%80%23" target="weibo">
 BLG全球战力榜第一（热度：575308）
 </a>
@@ -3743,6 +3767,12 @@ Meiko恋情（热度：536801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%BD%E8%8A%B1%E5%B0%91%E5%8D%8A%E5%A4%9C%E7%8B%AC%E8%A1%8C5%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
 陈好花少半夜独行5个小时（热度：507189）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E6%BD%9C%E5%AE%9A%E6%A1%A3%23" target="weibo">
+深潜定档（热度：506757）
 </a>
 </li>
 
@@ -4695,6 +4725,12 @@ Bin直视镜头（热度：400518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%B0LV%E9%80%80%E7%A8%8E%E5%90%8E%E6%AF%94%E5%9B%BD%E5%86%85%E8%BF%98%E8%B4%B5200%E5%85%83%23" target="weibo">
+日本买LV退税后比国内还贵200元（热度：399031）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Hybe%E4%B8%8D%E5%B8%8C%E6%9C%9BJennie%E8%8E%B7%E5%BE%97%E6%88%90%E5%8A%9F%23" target="weibo">
 Hybe不希望Jennie获得成功（热度：398799）
 </a>
@@ -5189,12 +5225,6 @@ Uzi谈不复出原因（热度：353318）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8A%E5%B8%9D%E9%A5%B6%E4%BA%86%E6%88%91%E4%B8%80%E5%91%BD%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
 特朗普称上帝饶了我一命是有原因的（热度：352672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%9D%A1%E5%8B%87%E6%95%A2%E7%9A%84%E6%B1%89%E5%AD%90%23" target="weibo">
-普京称特朗普是条勇敢的汉子（热度：352631）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ Tim能不能上再见爱人（热度：306732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%82%AC%E7%BC%B4%E5%8C%BB%E4%BF%9D%23" target="weibo">
 当地回应班主任在家长群催缴医保（热度：295683）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E7%8E%87%E5%85%88%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%80%89%E6%8A%95%E7%A5%A8%23" target="weibo">
-美国两州率先结束大选投票（热度：295222）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BB%91%E7%B2%89%E6%9C%AA%E9%81%93%E6%AD%89%E8%A2%AB%E5%85%AC%E5%91%8A%23" target="weibo">
-肖战黑粉未道歉被公告（热度：295126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AF%85%E5%92%92%E5%AD%A6%E7%94%9F%E5%85%A8%E5%AE%B6%E5%87%B8%E6%98%BE%E6%95%99%E5%B8%88%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E9%97%AE%E9%A2%98%23" target="weibo">
-班主任诅咒学生全家凸显教师心理健康问题（热度：295065）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%94%B6%E5%AE%98%23" target="weibo">
-林俊杰演唱会收官（热度：294658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%95%23" target="weibo">
-税务师考试（热度：294615）
 </a>
 </li>
 
