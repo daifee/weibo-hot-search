@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731084215142,
+  "endTime": 1731086370040,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1730963419,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236697,
+      "num": 1236697,
+      "word": "郑钦文手感火热",
+      "onboard_time": 1731080839,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1229668,
@@ -6819,12 +6827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379063,
+      "num": 379063,
+      "word": "烧伤妈妈第一次和儿子视频大哭",
+      "onboard_time": 1731082879,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379004,
       "num": 487965,
       "word": "王耀庆天生演不了穷人",
       "onboard_time": 1730956341,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378920,
+      "num": 378920,
+      "word": "外国人称无法勘探被中国人找到大气田",
+      "onboard_time": 1731080540,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378284,
@@ -7059,14 +7083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361588,
-      "num": 361588,
-      "word": "郑钦文手感火热",
-      "onboard_time": 1731080839,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 361091,
       "num": 296726,
       "word": "丝芭传媒",
@@ -7233,6 +7249,14 @@
       "onboard_time": 1730606181,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350599,
+      "num": 350599,
+      "word": "郑钦文1比0克雷吉茨科娃",
+      "onboard_time": 1731081740,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 350351,
@@ -8009,6 +8033,14 @@
       "onboard_time": 1730796621,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310228,
+      "num": 310228,
+      "word": "郑钦文晋级总决赛争冠战",
+      "onboard_time": 1731086295,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 310193,
@@ -9467,14 +9499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 254444,
-      "num": 233714,
-      "word": "郑钦文1比0克雷吉茨科娃",
-      "onboard_time": 1731081740,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253917,
       "num": 253917,
       "word": "Minnie吴宣仪Freen合照",
@@ -10664,14 +10688,6 @@
       "word": "电梯被捂嘴女孩母亲要求追究对方刑责",
       "onboard_time": 1730714541,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215759,
-      "num": 288589,
-      "word": "外国人称无法勘探被中国人找到大气田",
-      "onboard_time": 1731080540,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -12827,14 +12843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186960,
-      "num": 186960,
-      "word": "烧伤妈妈第一次和儿子视频大哭",
-      "onboard_time": 1731082879,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186920,
       "num": 186920,
       "word": "付航说刘宇宁必成影帝",
@@ -13105,6 +13113,14 @@
       "onboard_time": 1730638039,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182399,
+      "num": 182399,
+      "word": "京城大师赛",
+      "onboard_time": 1730813603,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 182173,
@@ -14145,6 +14161,14 @@
       "onboard_time": 1731029060,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169718,
+      "num": 169718,
+      "word": "郑钦文将冲击决赛",
+      "onboard_time": 1731085815,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 169583,
@@ -16417,14 +16441,6 @@
       "onboard_time": 1730451798,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 143349,
-      "num": 143349,
-      "word": "京城大师赛",
-      "onboard_time": 1730813603,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 143340,
@@ -22003,6 +22019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52502,
+      "num": 259827,
+      "word": "陈幸同vs大藤沙月",
+      "onboard_time": 1731085815,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51763,
       "num": 523840,
       "word": "私人影院哪能公开打色情擦边球",
@@ -23179,6 +23203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36674,
+      "num": 89506,
+      "word": "残障老人遭猥亵嫌疑人扣3个月工资",
+      "onboard_time": 1731086117,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36640,
       "num": 777791,
       "word": "第41次南极考察划重点",
@@ -23705,6 +23737,14 @@
       "onboard_time": 1730552419,
       "rank": 14,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 31600,
+      "num": 263698,
+      "word": "短短三分钟浓烟灌满整个建筑",
+      "onboard_time": 1731085338,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31589,
@@ -26040,6 +26080,14 @@
       "word": "进博会开启人从众模式",
       "onboard_time": 1730961680,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6044,
+      "num": 528605,
+      "word": "逛进博看新潮",
+      "onboard_time": 1731070819,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
