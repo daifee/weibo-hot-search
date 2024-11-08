@@ -1,0 +1,410 @@
+{
+  "runTime": 1731061388259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720462,
+        "num": 1720462,
+        "word": "6万亿",
+        "onboard_time": 1731054019,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 745662,
+        "num": 745662,
+        "word": "李行亮 表演型人格",
+        "onboard_time": 1731052760,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4354,
+        "num": 654355,
+        "word": "走出一条新时期中美正确相处之道",
+        "onboard_time": 1731012251,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 934420,
+        "num": 639190,
+        "word": "草莓麻薯火锅",
+        "onboard_time": 1731056479,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 595903,
+        "num": 595903,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 568815,
+        "num": 568815,
+        "word": "易烊千玺谈和周雨彤对手戏",
+        "onboard_time": 1731055940,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555588,
+        "num": 555588,
+        "word": "哈尔滨师范大学已报警",
+        "onboard_time": 1731051379,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449521,
+        "num": 449521,
+        "word": "周一围拍戏被拒300多次",
+        "onboard_time": 1731056119,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394990,
+        "num": 394990,
+        "word": "法律专家谈39岁男子工作期间猝死",
+        "onboard_time": 1731054980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202456,
+        "num": 352224,
+        "word": "普京称特朗普是条勇敢的汉子",
+        "onboard_time": 1731059602,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 899657,
+        "num": 348350,
+        "word": "翁清雅好友发声",
+        "onboard_time": 1731060079,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335683,
+        "num": 335683,
+        "word": "卫生巾品牌回应长度不够",
+        "onboard_time": 1731052999,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297629,
+        "num": 297629,
+        "word": "赵一博追永夜星河",
+        "onboard_time": 1731057380,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289057,
+        "num": 289057,
+        "word": "失联大学生李高人在柬埔寨赌场",
+        "onboard_time": 1731041181,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12571,
+        "num": 288596,
+        "word": "记者的荣光由每一篇作品照亮",
+        "onboard_time": 1731060380,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288422,
+        "num": 288422,
+        "word": "律师谈黄晓明被索要天价分手费",
+        "onboard_time": 1731060680,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284421,
+        "num": 284421,
+        "word": "A50",
+        "onboard_time": 1731056899,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259487,
+        "num": 259487,
+        "word": "殴打空少女子已被家属接走",
+        "onboard_time": 1731059602,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22424,
+        "num": 246885,
+        "word": "撞劳斯莱斯被免责司机称遇到好心人",
+        "onboard_time": 1731060380,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41367,
+        "num": 240218,
+        "word": "荣耀Magic7爆单",
+        "onboard_time": 1731060619,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 616550,
+        "num": 219439,
+        "word": "黄圣依父母不支持黄圣依杨子结婚",
+        "onboard_time": 1731056241,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86243,
+        "num": 212207,
+        "word": "肖战意大利被偶遇",
+        "onboard_time": 1731055400,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734904,
+        "num": 194695,
+        "word": "女子发工资1636以为收到验证码",
+        "onboard_time": 1731056000,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181781,
+        "num": 181781,
+        "word": "王源生日现场",
+        "onboard_time": 1731055519,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176652,
+        "num": 176652,
+        "word": "一个cha给我干回青你了",
+        "onboard_time": 1731058581,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166713,
+        "num": 166713,
+        "word": "永夜星河营业 大大方方",
+        "onboard_time": 1731050900,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611487,
+        "num": 166694,
+        "word": "怀胎八月不做产检孩子不见了",
+        "onboard_time": 1731052879,
+        "rank": 26,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 35076,
+        "num": 166656,
+        "word": "郑钦文昵称淘米的由来",
+        "onboard_time": 1731061342,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26096,
+        "num": 166618,
+        "word": "二本大学该出国留学还是考研",
+        "onboard_time": 1731061040,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136151,
+        "num": 166573,
+        "word": "陈昊宇的愿与愁已经nextlevel了",
+        "onboard_time": 1731060559,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412951,
+        "num": 166539,
+        "word": "男子8天加班41小时工作中猝死",
+        "onboard_time": 1731045440,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253497,
+        "num": 166513,
+        "word": "谢娜首聊双胞胎",
+        "onboard_time": 1731046340,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218291,
+        "num": 166488,
+        "word": "日本买LV退税后比国内还贵200元",
+        "onboard_time": 1731060559,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195870,
+        "num": 166426,
+        "word": "和他打乒乓球比分已经不重要了",
+        "onboard_time": 1731058220,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166416,
+        "num": 166416,
+        "word": "何运晨更新offer十年之约",
+        "onboard_time": 1731060141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160368,
+        "num": 160368,
+        "word": "韩安冉说她是Angelababy粉丝",
+        "onboard_time": 1731057981,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156083,
+        "num": 156083,
+        "word": "易烊千玺现在不敢演刘春和了",
+        "onboard_time": 1731057800,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154057,
+        "num": 154057,
+        "word": "永夜星河再登顶云合",
+        "onboard_time": 1731058220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145795,
+        "num": 145795,
+        "word": "外交部回应菲律宾涉南海所谓法律",
+        "onboard_time": 1731059540,
+        "rank": 38,
+        "category": "国内时政,国外时政"
+      },
+      {
+        "raw_hot": 145518,
+        "num": 145518,
+        "word": "麦琳情商",
+        "onboard_time": 1731055100,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142090,
+        "num": 142090,
+        "word": "载有辽师大学生客车高速起火",
+        "onboard_time": 1731057981,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142809,
+        "num": 140705,
+        "word": "心疼葛夕",
+        "onboard_time": 1731059121,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138423,
+        "num": 138423,
+        "word": "专家建议18到25岁年轻人要多谈恋爱",
+        "onboard_time": 1731040161,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119482,
+        "num": 119482,
+        "word": "TheShy说明年复出后年转瓦",
+        "onboard_time": 1731053240,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118179,
+        "num": 118179,
+        "word": "歼35A飞行画面",
+        "onboard_time": 1731038300,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 99739,
+        "num": 116512,
+        "word": "侯明昊演技审判通过",
+        "onboard_time": 1731060739,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71872,
+        "num": 116233,
+        "word": "狼队对战eStar",
+        "onboard_time": 1731060141,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63989,
+        "num": 116128,
+        "word": "哈师大回应女子大闹航班殴打空乘",
+        "onboard_time": 1731061099,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116099,
+        "num": 116099,
+        "word": "王鹤棣在拍星河入梦",
+        "onboard_time": 1731061342,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115750,
+        "num": 115750,
+        "word": "凌妙妙慕声朋友圈",
+        "onboard_time": 1731059781,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样勉励湖北#"
+    }
+  }
+}

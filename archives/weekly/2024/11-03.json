@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731058607753,
+  "endTime": 1731061388259,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934420,
+      "num": 639190,
+      "word": "草莓麻薯火锅",
+      "onboard_time": 1731056479,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 932837,
       "num": 932837,
       "word": "孙滢皓坐了导师的位置",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1730798122,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 899657,
+      "num": 348350,
+      "word": "翁清雅好友发声",
+      "onboard_time": 1731060079,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 893324,
@@ -3019,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616550,
+      "num": 374469,
+      "word": "黄圣依父母不支持黄圣依杨子结婚",
+      "onboard_time": 1731056241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616290,
       "num": 372190,
       "word": "Faker状态",
@@ -3835,14 +3859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502661,
-      "num": 502661,
-      "word": "草莓麻薯火锅",
-      "onboard_time": 1731056479,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -4193,6 +4209,14 @@
       "onboard_time": 1730686878,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 449521,
+      "num": 449521,
+      "word": "周一围拍戏被拒300多次",
+      "onboard_time": 1731056119,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 448424,
@@ -4803,6 +4827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394990,
+      "num": 418068,
+      "word": "法律专家谈39岁男子工作期间猝死",
+      "onboard_time": 1731054980,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392617,
       "num": 335983,
       "word": "陶昕然8岁女儿首次公开亮相",
@@ -4985,14 +5017,6 @@
       "onboard_time": 1730913494,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374469,
-      "num": 374469,
-      "word": "黄圣依父母不支持黄圣依杨子结婚",
-      "onboard_time": 1731056241,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 374076,
@@ -6051,6 +6075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297629,
+      "num": 297629,
+      "word": "赵一博追永夜星河",
+      "onboard_time": 1731057380,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297388,
       "num": 297388,
       "word": "闪耀暖暖",
@@ -6097,14 +6129,6 @@
       "onboard_time": 1730868746,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296131,
-      "num": 296131,
-      "word": "周一围拍戏被拒300多次",
-      "onboard_time": 1731056119,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 295840,
@@ -6208,6 +6232,14 @@
       "word": "陶昕然 现实中谁天天开着豪车上班",
       "onboard_time": 1730759354,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288422,
+      "num": 288422,
+      "word": "律师谈黄晓明被索要天价分手费",
+      "onboard_time": 1731060680,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -6403,14 +6435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 278387,
-      "num": 418068,
-      "word": "法律专家谈39岁男子工作期间猝死",
-      "onboard_time": 1731054980,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278075,
       "num": 347094,
       "word": "马斯克突然来北京是谣言",
@@ -6440,14 +6464,6 @@
       "word": "西北岁月定档",
       "onboard_time": 1730604080,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 277349,
-      "num": 277349,
-      "word": "赵一博追永夜星河",
-      "onboard_time": 1731057380,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -6793,6 +6809,14 @@
       "onboard_time": 1730727081,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259487,
+      "num": 259487,
+      "word": "殴打空少女子已被家属接走",
+      "onboard_time": 1731059602,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259453,
@@ -7819,6 +7843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218291,
+      "num": 166488,
+      "word": "日本买LV退税后比国内还贵200元",
+      "onboard_time": 1731060559,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 216680,
       "num": 571317,
       "word": "劣质美瞳或导致视力下降",
@@ -8547,6 +8579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202456,
+      "num": 352224,
+      "word": "普京称特朗普是条勇敢的汉子",
+      "onboard_time": 1731059602,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "世界文化遗产遭以色列炮火威胁",
@@ -9003,6 +9043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 195870,
+      "num": 191820,
+      "word": "和他打乒乓球比分已经不重要了",
+      "onboard_time": 1731058220,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195869,
       "num": 166511,
       "word": "鞠婧祎饺子没吃玩头发了",
@@ -9241,14 +9289,6 @@
       "onboard_time": 1730805921,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191820,
-      "num": 191820,
-      "word": "和他打乒乓球比分已经不重要了",
-      "onboard_time": 1731058220,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 191675,
@@ -9955,6 +9995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176652,
+      "num": 176652,
+      "word": "一个cha给我干回青你了",
+      "onboard_time": 1731058581,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176450,
       "num": 280661,
       "word": "孔雪儿在看凌妙妙闯关",
@@ -10497,6 +10545,14 @@
       "onboard_time": 1730640139,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166416,
+      "num": 166416,
+      "word": "何运晨更新offer十年之约",
+      "onboard_time": 1731060141,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166266,
@@ -11331,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154057,
+      "num": 154057,
+      "word": "永夜星河再登顶云合",
+      "onboard_time": 1731058220,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154018,
       "num": 154018,
       "word": "中俄三款隐身战机首次同框",
@@ -11393,14 +11457,6 @@
       "onboard_time": 1730867245,
       "rank": 12,
       "category": "军事"
-    },
-    {
-      "raw_hot": 152596,
-      "num": 152596,
-      "word": "永夜星河再登顶云合",
-      "onboard_time": 1731058220,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 152552,
@@ -11835,6 +11891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145795,
+      "num": 145795,
+      "word": "外交部回应菲律宾涉南海所谓法律",
+      "onboard_time": 1731059540,
+      "rank": 38,
+      "category": "国内时政,国外时政"
+    },
+    {
       "raw_hot": 145756,
       "num": 231762,
       "word": "虞书欣工作室",
@@ -11979,6 +12043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142809,
+      "num": 140705,
+      "word": "心疼葛夕",
+      "onboard_time": 1731059121,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142679,
       "num": 142679,
       "word": "再见爱人4制片人感谢张泉灵",
@@ -12040,6 +12112,14 @@
       "word": "西班牙洪灾致中国公民2遇难2失联",
       "onboard_time": 1730592377,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142090,
+      "num": 230480,
+      "word": "载有辽师大学生客车高速起火",
+      "onboard_time": 1731057981,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -12385,6 +12465,14 @@
       "onboard_time": 1730731401,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136151,
+      "num": 166573,
+      "word": "陈昊宇的愿与愁已经nextlevel了",
+      "onboard_time": 1731060559,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 136036,
@@ -13067,14 +13155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123991,
-      "num": 123991,
-      "word": "一个cha给我干回青你了",
-      "onboard_time": 1731058581,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123791,
       "num": 123791,
       "word": "光夜 邻国那个年轻君主",
@@ -13521,6 +13601,22 @@
       "onboard_time": 1730773338,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116099,
+      "num": 116099,
+      "word": "王鹤棣在拍星河入梦",
+      "onboard_time": 1731061342,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 115750,
+      "num": 115750,
+      "word": "凌妙妙慕声朋友圈",
+      "onboard_time": 1731059781,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115632,
@@ -14129,6 +14225,14 @@
       "onboard_time": 1730819003,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99739,
+      "num": 116512,
+      "word": "侯明昊演技审判通过",
+      "onboard_time": 1731060739,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 99480,
@@ -14835,6 +14939,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 71872,
+      "num": 116233,
+      "word": "狼队对战eStar",
+      "onboard_time": 1731060141,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71395,
       "num": 85832,
       "word": "中国市场这么大欢迎大家都来看看",
@@ -15171,6 +15283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63989,
+      "num": 116128,
+      "word": "哈师大回应女子大闹航班殴打空乘",
+      "onboard_time": 1731061099,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63494,
       "num": 63494,
       "word": "皇马vsAC米兰",
@@ -15393,14 +15513,6 @@
       "onboard_time": 1730877394,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 57928,
-      "num": 230480,
-      "word": "载有辽师大学生客车高速起火",
-      "onboard_time": 1731057981,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57848,
@@ -16163,6 +16275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41367,
+      "num": 240218,
+      "word": "荣耀Magic7爆单",
+      "onboard_time": 1731060619,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41174,
       "num": 50649,
       "word": "赛后休息室BLG全员神情落寞",
@@ -16521,6 +16641,14 @@
       "onboard_time": 1730650398,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35076,
+      "num": 166656,
+      "word": "郑钦文昵称淘米的由来",
+      "onboard_time": 1731061342,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 35008,
@@ -17155,6 +17283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 26096,
+      "num": 166618,
+      "word": "二本大学该出国留学还是考研",
+      "onboard_time": 1731061040,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26095,
       "num": 1394115,
       "word": "60秒探访进博会中国馆",
@@ -17449,6 +17585,14 @@
       "onboard_time": 1730669291,
       "rank": 45,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 22424,
+      "num": 246885,
+      "word": "撞劳斯莱斯被免责司机称遇到好心人",
+      "onboard_time": 1731060380,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22393,
@@ -18256,6 +18400,14 @@
       "word": "专访福建锅盔叔叔",
       "onboard_time": 1730835191,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12571,
+      "num": 288596,
+      "word": "记者的荣光由每一篇作品照亮",
+      "onboard_time": 1731060380,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
