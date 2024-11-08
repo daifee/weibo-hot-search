@@ -1,0 +1,410 @@
+{
+  "runTime": 1731030048678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865991,
+        "num": 1138558,
+        "word": "民警着急大吼这是23万不是23块",
+        "onboard_time": 1730994020,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793715,
+        "num": 793715,
+        "word": "王俊凯发文为王源庆生",
+        "onboard_time": 1731021316,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4576,
+        "num": 697092,
+        "word": "一起看进博",
+        "onboard_time": 1730983282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666243,
+        "num": 666243,
+        "word": "普京祝贺特朗普",
+        "onboard_time": 1731023599,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 640730,
+        "num": 640730,
+        "word": "姑娘美签没过一万多团费没退",
+        "onboard_time": 1730998817,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582687,
+        "num": 582687,
+        "word": "她知道什么叫只剪一点点",
+        "onboard_time": 1731016572,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538518,
+        "num": 538518,
+        "word": "工作室回应赵露思妆容和造型问题",
+        "onboard_time": 1731022279,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469814,
+        "num": 469814,
+        "word": "心动的信号 剪辑",
+        "onboard_time": 1731026601,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447746,
+        "num": 447746,
+        "word": "华侨大学回应教师酒囊饭袋言论",
+        "onboard_time": 1731026421,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 245103,
+        "num": 443665,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1584873,
+        "num": 375492,
+        "word": "教师评论夜骑开封大学生为酒囊饭袋",
+        "onboard_time": 1731024803,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1343014,
+        "num": 354236,
+        "word": "杜淳妻子王灿患病暴瘦",
+        "onboard_time": 1731024201,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536801,
+        "num": 300266,
+        "word": "Meiko恋情",
+        "onboard_time": 1731022279,
+        "rank": 12,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 294768,
+        "num": 294768,
+        "word": "杨洋疑似受伤",
+        "onboard_time": 1731028760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18959,
+        "num": 294384,
+        "word": "沪指回到3500点上方",
+        "onboard_time": 1731029598,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443460,
+        "num": 294378,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294174,
+        "num": 294174,
+        "word": "费启鸣发虞书欣独家自拍",
+        "onboard_time": 1731022878,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50576,
+        "num": 288545,
+        "word": "华晨宇直播",
+        "onboard_time": 1731023118,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287782,
+        "num": 287782,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276167,
+        "num": 276167,
+        "word": "美联储降息",
+        "onboard_time": 1731021015,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1135060,
+        "num": 275266,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307780,
+        "num": 275132,
+        "word": "劳斯莱斯女车主和货车司机签协议",
+        "onboard_time": 1731022157,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273861,
+        "num": 273861,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202756,
+        "num": 202756,
+        "word": "美联储主席回应特朗普辞退威胁",
+        "onboard_time": 1731029479,
+        "rank": 23,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 191482,
+        "num": 191482,
+        "word": "徐若瑄被曝患癌后回应",
+        "onboard_time": 1730994321,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187027,
+        "num": 187027,
+        "word": "终于明白北方人说三层穿衣法保暖了",
+        "onboard_time": 1731022576,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184759,
+        "num": 184759,
+        "word": "世界文化遗产遭以色列炮火威胁",
+        "onboard_time": 1731029060,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183443,
+        "num": 183443,
+        "word": "闪耀暖暖",
+        "onboard_time": 1731029300,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150829,
+        "num": 174324,
+        "word": "武艺 没弄清杨子来节目的意义",
+        "onboard_time": 1730989404,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148892,
+        "num": 172000,
+        "word": "杜华 输了就去当观众",
+        "onboard_time": 1731025882,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171045,
+        "num": 171045,
+        "word": "刘青松回应被骂",
+        "onboard_time": 1731029118,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167170,
+        "num": 167170,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730999414,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165333,
+        "num": 165333,
+        "word": "保持饥饿感的重要性",
+        "onboard_time": 1730991686,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157525,
+        "num": 157525,
+        "word": "土象星座是最合格的前任",
+        "onboard_time": 1731027501,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155543,
+        "num": 155543,
+        "word": "周雨辟谣王楚钦比赛发烧",
+        "onboard_time": 1731021917,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155011,
+        "num": 155011,
+        "word": "黎巴嫩一座250年建筑被炸成平地",
+        "onboard_time": 1731029060,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141166,
+        "num": 141166,
+        "word": "普京称若西方表现主动愿恢复接触",
+        "onboard_time": 1731029060,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140385,
+        "num": 140385,
+        "word": "女子11元拍到海景房险些被老公拒收",
+        "onboard_time": 1730985623,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136636,
+        "num": 136636,
+        "word": "大理寺少卿游发了新海报",
+        "onboard_time": 1731024981,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131761,
+        "num": 131761,
+        "word": "中国买家拍下一块77年前的蛋糕",
+        "onboard_time": 1730975602,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131391,
+        "num": 131391,
+        "word": "用西游记打开新闻人的日常",
+        "onboard_time": 1731029060,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130881,
+        "num": 130881,
+        "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
+        "onboard_time": 1730996059,
+        "rank": 41,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 129885,
+        "num": 129885,
+        "word": "赵露思说准备好迎接审判和建议",
+        "onboard_time": 1731029239,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127584,
+        "num": 127584,
+        "word": "饶雪漫",
+        "onboard_time": 1730990185,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123344,
+        "num": 123344,
+        "word": "字节回应不提倡员工间称呼敬语",
+        "onboard_time": 1731024140,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122977,
+        "num": 122977,
+        "word": "奔跑吧",
+        "onboard_time": 1731025220,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106411,
+        "num": 115681,
+        "word": "黄金一夜大涨50美元",
+        "onboard_time": 1731028640,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115637,
+        "num": 115637,
+        "word": "男子赶在金价下跌前出售6根金条",
+        "onboard_time": 1730986765,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 110156,
+        "num": 110156,
+        "word": "足迹是记者的勋章",
+        "onboard_time": 1731026662,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109603,
+        "num": 109603,
+        "word": "影后",
+        "onboard_time": 1731024322,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#做党和人民信赖的新闻工作者#"
+    }
+  }
+}

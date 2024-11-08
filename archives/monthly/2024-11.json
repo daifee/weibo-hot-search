@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731022632075,
+  "endTime": 1731030048678,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1584873,
+      "num": 375492,
+      "word": "教师评论夜骑开封大学生为酒囊饭袋",
+      "onboard_time": 1731024803,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1579878,
       "num": 1579878,
       "word": "民警建议关闭苹果手机这项功能",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1730811441,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1343014,
+      "num": 354236,
+      "word": "杜淳妻子王灿患病暴瘦",
+      "onboard_time": 1731024201,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1342703,
@@ -2643,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793715,
+      "num": 793715,
+      "word": "王俊凯发文为王源庆生",
+      "onboard_time": 1731021316,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789810,
       "num": 789810,
       "word": "6岁女孩冷冻卵巢组织免化疗损害",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1730431999,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 739371,
-      "num": 739371,
-      "word": "王俊凯发文为王源庆生",
-      "onboard_time": 1731021316,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 738965,
@@ -3251,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666243,
+      "num": 666243,
+      "word": "普京祝贺特朗普",
+      "onboard_time": 1731023599,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 664328,
       "num": 477025,
       "word": "英国男子捡到人头以为是恶作剧",
@@ -3424,6 +3448,14 @@
       "word": "内地游客香港换钱被骂穷",
       "onboard_time": 1730789059,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640730,
+      "num": 640730,
+      "word": "姑娘美签没过一万多团费没退",
+      "onboard_time": 1730998817,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4347,11 +4379,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538518,
+      "num": 538518,
+      "word": "工作室回应赵露思妆容和造型问题",
+      "onboard_time": 1731022279,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537332,
       "num": 537332,
       "word": "Faker世界赛500杀",
       "onboard_time": 1730569161,
       "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 536801,
+      "num": 300266,
+      "word": "Meiko恋情",
+      "onboard_time": 1731022279,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -4963,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469814,
+      "num": 469814,
+      "word": "心动的信号 剪辑",
+      "onboard_time": 1731026601,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469798,
       "num": 469798,
       "word": "詹姆斯表态将投票支持哈里斯",
@@ -5153,6 +5209,14 @@
       "onboard_time": 1730881893,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 447746,
+      "num": 447746,
+      "word": "华侨大学回应教师酒囊饭袋言论",
+      "onboard_time": 1731026421,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 447067,
@@ -7164,7 +7228,7 @@
     },
     {
       "raw_hot": 310559,
-      "num": 129146,
+      "num": 167170,
       "word": "翁青雅 孙乐言",
       "onboard_time": 1730999414,
       "rank": 16,
@@ -7185,6 +7249,14 @@
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 307780,
+      "num": 275132,
+      "word": "劳斯莱斯女车主和货车司机签协议",
+      "onboard_time": 1731022157,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306732,
@@ -7451,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294768,
+      "num": 294768,
+      "word": "杨洋疑似受伤",
+      "onboard_time": 1731028760,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294658,
       "num": 249058,
       "word": "林俊杰演唱会收官",
@@ -7472,6 +7552,14 @@
       "word": "永夜星河 亲情刀",
       "onboard_time": 1730545098,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294174,
+      "num": 294174,
+      "word": "费启鸣发虞书欣独家自拍",
+      "onboard_time": 1731022878,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -7881,14 +7969,6 @@
       "onboard_time": 1730810782,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275547,
-      "num": 275547,
-      "word": "姑娘美签没过一万多团费没退",
-      "onboard_time": 1730998817,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274211,
@@ -8641,6 +8721,14 @@
       "onboard_time": 1730822960,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245103,
+      "num": 443665,
+      "word": "记者节",
+      "onboard_time": 1731027860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244863,
@@ -10275,6 +10363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202756,
+      "num": 202756,
+      "word": "美联储主席回应特朗普辞退威胁",
+      "onboard_time": 1731029479,
+      "rank": 23,
+      "category": "国外时政,财经"
+    },
+    {
       "raw_hot": 202733,
       "num": 202733,
       "word": "eStar破BO7最快记录",
@@ -11371,6 +11467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187027,
+      "num": 187027,
+      "word": "终于明白北方人说三层穿衣法保暖了",
+      "onboard_time": 1731022576,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186920,
       "num": 186920,
       "word": "付航说刘宇宁必成影帝",
@@ -11489,6 +11593,14 @@
       "onboard_time": 1730524638,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184759,
+      "num": 184759,
+      "word": "世界文化遗产遭以色列炮火威胁",
+      "onboard_time": 1731029060,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 184501,
@@ -12409,6 +12521,14 @@
       "onboard_time": 1730732061,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171045,
+      "num": 171045,
+      "word": "刘青松回应被骂",
+      "onboard_time": 1731029118,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 170999,
@@ -13499,6 +13619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157525,
+      "num": 157525,
+      "word": "土象星座是最合格的前任",
+      "onboard_time": 1731027501,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157388,
       "num": 157388,
       "word": "河南方城4名公职人员在车祸中死亡",
@@ -13635,6 +13763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155543,
+      "num": 155543,
+      "word": "周雨辟谣王楚钦比赛发烧",
+      "onboard_time": 1731021917,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155468,
       "num": 155468,
       "word": "孙颖莎说愿我们都能成为更好的自己",
@@ -13665,6 +13801,14 @@
       "onboard_time": 1730538018,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155011,
+      "num": 155011,
+      "word": "黎巴嫩一座250年建筑被炸成平地",
+      "onboard_time": 1731029060,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154995,
@@ -14105,6 +14249,14 @@
       "onboard_time": 1730545938,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148892,
+      "num": 172000,
+      "word": "杜华 输了就去当观众",
+      "onboard_time": 1731025882,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 148844,
@@ -14731,6 +14883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141166,
+      "num": 141166,
+      "word": "普京称若西方表现主动愿恢复接触",
+      "onboard_time": 1731029060,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 141145,
       "num": 141145,
       "word": "王源叫谢可寅shaking",
@@ -15065,6 +15225,14 @@
       "onboard_time": 1730689879,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136636,
+      "num": 136636,
+      "word": "大理寺少卿游发了新海报",
+      "onboard_time": 1731024981,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 136566,
@@ -15451,6 +15619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131391,
+      "num": 131391,
+      "word": "用西游记打开新闻人的日常",
+      "onboard_time": 1731029060,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "BLG辅助",
@@ -15529,6 +15705,14 @@
       "onboard_time": 1730715800,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129885,
+      "num": 129885,
+      "word": "赵露思说准备好迎接审判和建议",
+      "onboard_time": 1731029239,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 129869,
@@ -16059,6 +16243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123344,
+      "num": 123344,
+      "word": "字节回应不提倡员工间称呼敬语",
+      "onboard_time": 1731024140,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123307,
       "num": 488744,
       "word": "多方回应男子举报儿媳与干部婚外情",
@@ -16081,6 +16273,14 @@
       "onboard_time": 1730647879,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122977,
+      "num": 122977,
+      "word": "奔跑吧",
+      "onboard_time": 1731025220,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 122726,
@@ -16883,6 +17083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 110156,
+      "num": 110156,
+      "word": "足迹是记者的勋章",
+      "onboard_time": 1731026662,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110154,
       "num": 110154,
       "word": "故宫银杏叶已满目金黄",
@@ -16944,6 +17152,14 @@
       "word": "陆嘉学 就怕反派搞纯爱",
       "onboard_time": 1730524518,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109603,
+      "num": 109603,
+      "word": "影后",
+      "onboard_time": 1731024322,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -17169,6 +17385,14 @@
       "onboard_time": 1730518098,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106411,
+      "num": 115681,
+      "word": "黄金一夜大涨50美元",
+      "onboard_time": 1731028640,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 105967,
@@ -17715,14 +17939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92380,
-      "num": 92380,
-      "word": "周雨辟谣王楚钦比赛发烧",
-      "onboard_time": 1731021917,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92020,
       "num": 364743,
       "word": "赵露思珠帘玉幕发布会vlog",
@@ -17753,14 +17969,6 @@
       "onboard_time": 1730997018,
       "rank": 44,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 91107,
-      "num": 91107,
-      "word": "Meiko恋情",
-      "onboard_time": 1731022279,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 90438,
@@ -17825,14 +18033,6 @@
       "onboard_time": 1730565858,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88765,
-      "num": 88765,
-      "word": "工作室回应赵露思妆容和造型问题",
-      "onboard_time": 1731022279,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 88586,
@@ -18216,14 +18416,6 @@
       "word": "我妈不情愿照顾爷爷奶奶的那些年",
       "onboard_time": 1730991924,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79741,
-      "num": 79741,
-      "word": "劳斯莱斯女车主和货车司机签协议",
-      "onboard_time": 1731022157,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -19243,14 +19435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55322,
-      "num": 55322,
-      "word": "终于明白北方人说三层穿衣法保暖了",
-      "onboard_time": 1731022576,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 55241,
       "num": 389364,
       "word": "山河说脱口秀觉醒了她的女性意识",
@@ -19497,6 +19681,14 @@
       "onboard_time": 1730650817,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 50576,
+      "num": 288545,
+      "word": "华晨宇直播",
+      "onboard_time": 1731023118,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 50495,
@@ -22161,6 +22353,14 @@
       "onboard_time": 1730931312,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 18959,
+      "num": 294384,
+      "word": "沪指回到3500点上方",
+      "onboard_time": 1731029598,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 18926,
