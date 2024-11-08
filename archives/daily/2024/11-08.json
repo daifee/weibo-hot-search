@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731065722858,
+  "endTime": 1731069686525,
   "band_list": [
     {
       "raw_hot": 3645518,
@@ -97,6 +97,14 @@
       "onboard_time": 1731051379,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1600839,
+      "num": 819994,
+      "word": "易烊千玺评论祝王源生日快乐",
+      "onboard_time": 1731067819,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1584873,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1090587,
-      "num": 323451,
+      "num": 467681,
       "word": "律师谈黄晓明被索要天价分手费",
       "onboard_time": 1731060680,
       "rank": 15,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1015800,
-      "num": 272206,
+      "num": 464349,
       "word": "翁青雅好友发声",
       "onboard_time": 1731060079,
       "rank": 11,
@@ -259,6 +267,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 873694,
+      "num": 1139791,
+      "word": "王楚钦世一是一板一板打出来的",
+      "onboard_time": 1731062420,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 864840,
+      "num": 864840,
+      "word": "沈海高速一大巴突发车祸",
+      "onboard_time": 1731063501,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850138,
       "num": 850138,
       "word": "普京称特朗普是条勇敢的汉子",
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816655,
+      "num": 816655,
+      "word": "恋与深空",
+      "onboard_time": 1731068719,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 812410,
       "num": 812410,
       "word": "她知道什么叫只剪一点点",
@@ -292,11 +324,19 @@
     },
     {
       "raw_hot": 786755,
-      "num": 294081,
+      "num": 331927,
       "word": "女子发工资1636以为收到验证码",
       "onboard_time": 1731056000,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771302,
+      "num": 771302,
+      "word": "哈里斯说普京会把特朗普当午餐吃掉",
+      "onboard_time": 1731067579,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 753271,
@@ -412,7 +452,7 @@
     },
     {
       "raw_hot": 575584,
-      "num": 270684,
+      "num": 275387,
       "word": "女子18万彩礼给父母保管索要时被拒",
       "onboard_time": 1731061401,
       "rank": 30,
@@ -425,6 +465,14 @@
       "onboard_time": 1731041003,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 548762,
+      "num": 548762,
+      "word": "恋与深空猫猫卡",
+      "onboard_time": 1731069019,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 538518,
@@ -483,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476229,
+      "num": 460493,
+      "word": "大兴机场",
+      "onboard_time": 1731067819,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469833,
       "num": 356974,
       "word": "翁青雅 奥斯卡",
       "onboard_time": 1730982742,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468608,
+      "num": 468608,
+      "word": "永夜星河",
+      "onboard_time": 1730975482,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 468353,
@@ -524,7 +588,7 @@
     },
     {
       "raw_hot": 451321,
-      "num": 256721,
+      "num": 339750,
       "word": "邓超模仿虞书欣说话",
       "onboard_time": 1731063800,
       "rank": 21,
@@ -545,14 +609,6 @@
       "onboard_time": 1731028640,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 440747,
-      "num": 440747,
-      "word": "王楚钦世一是一板一板打出来的",
-      "onboard_time": 1731062420,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 421679,
@@ -667,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344495,
+      "num": 344495,
+      "word": "伊能静回应艺人都去卖货了",
+      "onboard_time": 1731068900,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340156,
       "num": 340156,
       "word": "葛夕 我为什么要他同意呢",
@@ -699,6 +763,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 330928,
+      "num": 330928,
+      "word": "原神",
+      "onboard_time": 1731067219,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330492,
       "num": 330492,
       "word": "杨子把黄圣依气哭了",
@@ -713,6 +785,14 @@
       "onboard_time": 1731031040,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 311028,
+      "num": 337452,
+      "word": "麦琳空心人",
+      "onboard_time": 1731064820,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 310977,
@@ -811,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282294,
+      "num": 282294,
+      "word": "永夜星河17集",
+      "onboard_time": 1731066800,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280248,
       "num": 280248,
       "word": "文淇中戏毕业大戏",
@@ -865,6 +953,14 @@
       "onboard_time": 1731062240,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265049,
+      "num": 265049,
+      "word": "雷军能不能生产卫生巾",
+      "onboard_time": 1731068058,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 263313,
@@ -931,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254789,
+      "num": 254789,
+      "word": "载有辽师大学生客车高速起火",
+      "onboard_time": 1731057981,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254555,
       "num": 409810,
       "word": "拜登政府被爆赶在换届前给台积电拨款",
@@ -945,14 +1049,6 @@
       "onboard_time": 1731039561,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 253002,
-      "num": 253002,
-      "word": "沈海高速一大巴突发车祸",
-      "onboard_time": 1731063501,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251845,
@@ -985,14 +1081,6 @@
       "onboard_time": 1731044301,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233925,
-      "num": 233925,
-      "word": "麦琳空心人",
-      "onboard_time": 1731064820,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 231033,
@@ -1363,6 +1451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175731,
+      "num": 175731,
+      "word": "辽师大称车祸大巴上载有大三学生",
+      "onboard_time": 1731067161,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174557,
       "num": 174557,
       "word": "保持饥饿感的重要性",
@@ -1377,6 +1473,14 @@
       "onboard_time": 1730989404,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172587,
+      "num": 172587,
+      "word": "家具签收一个月后买家申请了仅退款",
+      "onboard_time": 1731068239,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171211,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1731060141,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166984,
+      "num": 166984,
+      "word": "大梦归离这段笑癫了",
+      "onboard_time": 1731068719,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 165578,
@@ -1667,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146280,
-      "num": 230480,
-      "word": "载有辽师大学生客车高速起火",
-      "onboard_time": 1731057981,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145795,
       "num": 145795,
       "word": "外交部回应菲律宾涉南海所谓法律",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1731029239,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129128,
+      "num": 129128,
+      "word": "虞书欣说邓超红发魔男",
+      "onboard_time": 1731069140,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 128628,
@@ -1995,6 +2107,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114615,
+      "num": 114615,
+      "word": "失笑开播",
+      "onboard_time": 1731066439,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114567,
       "num": 114567,
       "word": "ACT对战GW",
@@ -2027,12 +2147,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111159,
+      "num": 111159,
+      "word": "檀健次最狼狈的一次",
+      "onboard_time": 1731065961,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111127,
       "num": 111127,
       "word": "恋综 分手",
       "onboard_time": 1730978603,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111055,
+      "num": 336447,
+      "word": "医院回应载有学生客车起火",
+      "onboard_time": 1731066860,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109603,
@@ -2051,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107159,
+      "num": 267764,
+      "word": "7人造谣女子喝醉在路边被强暴被罚",
+      "onboard_time": 1731067639,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106244,
       "num": 106244,
       "word": "最终幻想14",
@@ -2065,6 +2209,14 @@
       "onboard_time": 1730994441,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 104321,
+      "num": 104321,
+      "word": "邓海洋住废弃仓库",
+      "onboard_time": 1731069440,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 102890,
@@ -2155,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93527,
+      "num": 93527,
+      "word": "日本空手道小选手偷袭致对手瘫痪",
+      "onboard_time": 1731069559,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92143,
       "num": 471006,
       "word": "疑似被骗至缅甸大学生联系家人",
@@ -2193,6 +2353,14 @@
       "onboard_time": 1731032718,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90302,
+      "num": 90302,
+      "word": "佩斯科夫回应传闻笑称普京不吃人",
+      "onboard_time": 1731069559,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 90163,
@@ -2403,14 +2571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62176,
-      "num": 62176,
-      "word": "永夜星河",
-      "onboard_time": 1730975482,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 61174,
       "num": 61174,
       "word": "名侦探柯南 意难平",
@@ -2571,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42437,
+      "num": 131109,
+      "word": "高端羽绒服抢占平价市场",
+      "onboard_time": 1731067579,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 42228,
       "num": 226829,
       "word": "冰川上穿着波司登的中国来客",
@@ -2659,12 +2827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33928,
+      "num": 256095,
+      "word": "丁禹兮慕声竹蜻蜓小剧场",
+      "onboard_time": 1731067399,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32414,
       "num": 805688,
       "word": "昆明臭肉事件学校再被处罚",
       "onboard_time": 1731054980,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31796,
+      "num": 89388,
+      "word": "海底捞请外卖小哥吃火锅",
+      "onboard_time": 1731066379,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 31589,
@@ -2753,6 +2937,14 @@
       "onboard_time": 1731063919,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23426,
+      "num": 462809,
+      "word": "阅车识绅士",
+      "onboard_time": 1731065659,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 23353,
@@ -2921,14 +3113,6 @@
       "onboard_time": 1731052820,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6505,
-      "num": 108295,
-      "word": "阅车识绅士",
-      "onboard_time": 1731065659,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 5689,
