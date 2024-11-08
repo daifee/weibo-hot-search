@@ -1,0 +1,410 @@
+{
+  "runTime": 1731054452354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1518841,
+        "num": 1518841,
+        "word": "哈尔滨师范大学已报警",
+        "onboard_time": 1731051379,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1311575,
+        "num": 1311575,
+        "word": "酒店回应不接待日本籍顾客",
+        "onboard_time": 1731051619,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46920,
+        "num": 1071711,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1731036620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1023039,
+        "num": 1023039,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 886157,
+        "num": 886157,
+        "word": "男子8天加班41小时工作中猝死",
+        "onboard_time": 1731045440,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1860293,
+        "num": 859827,
+        "word": "怀胎八月不做产检孩子不见了",
+        "onboard_time": 1731052879,
+        "rank": 5,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 788094,
+        "num": 788094,
+        "word": "增加地方政府债务限额6万亿",
+        "onboard_time": 1731053778,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 744160,
+        "num": 744160,
+        "word": "黄圣依再次选择了离婚",
+        "onboard_time": 1731033139,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597809,
+        "num": 597809,
+        "word": "谢娜首聊双胞胎",
+        "onboard_time": 1731046340,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468353,
+        "num": 468353,
+        "word": "永夜星河营业 大大方方",
+        "onboard_time": 1731050900,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341368,
+        "num": 462656,
+        "word": "拒接待日本人酒店称腾冲一直都这样",
+        "onboard_time": 1731053601,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 457012,
+        "num": 457012,
+        "word": "李行亮 表演型人格",
+        "onboard_time": 1731052760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422966,
+        "num": 422966,
+        "word": "失联大学生李高人在柬埔寨赌场",
+        "onboard_time": 1731041181,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52815,
+        "num": 418945,
+        "word": "问界M7事故车主已向法院起诉赛力斯",
+        "onboard_time": 1731053240,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9242,
+        "num": 417710,
+        "word": "2024进博会黑科技盘点",
+        "onboard_time": 1731052820,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416944,
+        "num": 416944,
+        "word": "歼35A飞行画面",
+        "onboard_time": 1731038300,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 69787,
+        "num": 397192,
+        "word": "檀健次说猎罪图鉴2快了",
+        "onboard_time": 1731053659,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48362,
+        "num": 393719,
+        "word": "刘春和是留在千玺身上最久的角色",
+        "onboard_time": 1731053659,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391310,
+        "num": 391310,
+        "word": "6万亿",
+        "onboard_time": 1731054019,
+        "rank": 18,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 68976,
+        "num": 378915,
+        "word": "男子偷拿女友手机转账15万被判刑",
+        "onboard_time": 1731053060,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376274,
+        "num": 376274,
+        "word": "广州投放绝育雄蚊子",
+        "onboard_time": 1731040043,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330397,
+        "num": 330397,
+        "word": "麦琳哭喊罢录",
+        "onboard_time": 1731045319,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307418,
+        "num": 307418,
+        "word": "卫生巾品牌回应长度不够",
+        "onboard_time": 1731052999,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273117,
+        "num": 273117,
+        "word": "裸机的快乐只有0次和无数次",
+        "onboard_time": 1731045199,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270726,
+        "num": 270726,
+        "word": "赵露思读信哭到读不下去",
+        "onboard_time": 1731043760,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265639,
+        "num": 265639,
+        "word": "易烊千玺用半年时间才走出角色",
+        "onboard_time": 1731050959,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254555,
+        "num": 254555,
+        "word": "拜登政府被爆赶在换届前给台积电拨款",
+        "onboard_time": 1731049639,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 13804,
+        "num": 254497,
+        "word": "守望先锋公布10周年",
+        "onboard_time": 1731053720,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27663,
+        "num": 254457,
+        "word": "歼35A提前现身航展",
+        "onboard_time": 1731053720,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 239848,
+        "num": 254453,
+        "word": "TheShy说明年复出后年转瓦",
+        "onboard_time": 1731053240,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254452,
+        "num": 254452,
+        "word": "被骗缅甸男生妈妈决定卖房救子",
+        "onboard_time": 1731030379,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251845,
+        "num": 251845,
+        "word": "4架歼20震撼登场",
+        "onboard_time": 1731050540,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 249341,
+        "num": 249341,
+        "word": "李行亮 既要又要",
+        "onboard_time": 1731044961,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232382,
+        "num": 232382,
+        "word": "专家建议18到25岁年轻人要多谈恋爱",
+        "onboard_time": 1731040161,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216353,
+        "num": 216353,
+        "word": "直接增加地方化债资源10万亿元",
+        "onboard_time": 1731054199,
+        "rank": 34,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 18823,
+        "num": 216234,
+        "word": "吴磊戴华为手表解锁骑行酷体验",
+        "onboard_time": 1731053659,
+        "rank": 35,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 216224,
+        "num": 216224,
+        "word": "张婧仪粉墨抹胸拖尾裙",
+        "onboard_time": 1731053778,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210043,
+        "num": 210043,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194186,
+        "num": 194186,
+        "word": "转存歼35A这一瞬",
+        "onboard_time": 1731038539,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 185733,
+        "num": 185733,
+        "word": "全国结婚人数止跌回升",
+        "onboard_time": 1731032118,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808908,
+        "num": 178237,
+        "word": "腾冲一酒店拒绝为日本人办理入住",
+        "onboard_time": 1731044660,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167576,
+        "num": 167576,
+        "word": "周星星",
+        "onboard_time": 1731038660,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158862,
+        "num": 158862,
+        "word": "围城里不敢辞职的基层公务员们",
+        "onboard_time": 1731049639,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154525,
+        "num": 154525,
+        "word": "荷兰华裔博士走失30年回国寻亲成功",
+        "onboard_time": 1731051919,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154421,
+        "num": 154421,
+        "word": "新版记者证今起启用",
+        "onboard_time": 1731053898,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152313,
+        "num": 152313,
+        "word": "金智秀将回归",
+        "onboard_time": 1731050779,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149400,
+        "num": 149400,
+        "word": "监控还原39人遇难火灾经过",
+        "onboard_time": 1731034398,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144163,
+        "num": 144163,
+        "word": "永夜星河慕瑶人设",
+        "onboard_time": 1731052459,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142880,
+        "num": 142880,
+        "word": "萨摩耶 哪有什么坏人啊",
+        "onboard_time": 1731051859,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141170,
+        "num": 141170,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
