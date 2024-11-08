@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731054452354,
+  "endTime": 1731055262442,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -75,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1636282,
+      "num": 1636282,
+      "word": "6万亿",
+      "onboard_time": 1731054019,
+      "rank": 18,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 1628280,
+      "num": 1628280,
+      "word": "哈尔滨师范大学已报警",
+      "onboard_time": 1731051379,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1584873,
       "num": 375492,
       "word": "教师评论夜骑开封大学生为酒囊饭袋",
@@ -89,14 +105,6 @@
       "onboard_time": 1731044660,
       "rank": 1,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 1518841,
-      "num": 1518841,
-      "word": "哈尔滨师范大学已报警",
-      "onboard_time": 1731051379,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1497182,
@@ -131,19 +139,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1341420,
+      "num": 1341420,
+      "word": "酒店回应不接待日本籍顾客",
+      "onboard_time": 1731051619,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1317299,
       "num": 1317299,
       "word": "失联大学生李高人在柬埔寨赌场",
       "onboard_time": 1731041181,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1311575,
-      "num": 1311575,
-      "word": "酒店回应不接待日本籍顾客",
-      "onboard_time": 1731051619,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1730994020,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1113731,
+      "num": 1113731,
+      "word": "增加地方政府债务限额6万亿",
+      "onboard_time": 1731053778,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1020626,
@@ -211,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788094,
-      "num": 788094,
-      "word": "增加地方政府债务限额6万亿",
-      "onboard_time": 1731053778,
-      "rank": 6,
-      "category": "国内时政"
+      "raw_hot": 771639,
+      "num": 771639,
+      "word": "拒接待日本人酒店称腾冲一直都这样",
+      "onboard_time": 1731053601,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 753271,
@@ -225,6 +241,14 @@
       "onboard_time": 1730994321,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747213,
+      "num": 962010,
+      "word": "李行亮 表演型人格",
+      "onboard_time": 1731052760,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 719834,
@@ -403,14 +427,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 457012,
-      "num": 457012,
-      "word": "李行亮 表演型人格",
-      "onboard_time": 1731052760,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 452739,
       "num": 452739,
       "word": "韩国第一夫人将避免参加公开活动",
@@ -467,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 391310,
-      "num": 391310,
-      "word": "6万亿",
-      "onboard_time": 1731054019,
-      "rank": 18,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 376135,
       "num": 294768,
       "word": "杨洋疑似受伤",
@@ -507,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341368,
-      "num": 462656,
-      "word": "拒接待日本人酒店称腾冲一直都这样",
-      "onboard_time": 1731053601,
-      "rank": 10,
-      "category": "国外时政"
+      "raw_hot": 344863,
+      "num": 344863,
+      "word": "卫生巾品牌回应长度不够",
+      "onboard_time": 1731052999,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340156,
@@ -587,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307418,
-      "num": 307418,
-      "word": "卫生巾品牌回应长度不够",
-      "onboard_time": 1731052999,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300808,
       "num": 267913,
       "word": "撞劳斯莱斯货车司机发文",
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279774,
+      "num": 279774,
+      "word": "直接增加地方化债资源10万亿元",
+      "onboard_time": 1731054199,
+      "rank": 34,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 273861,
       "num": 273861,
       "word": "微信运动一个很私密的东西",
@@ -713,6 +721,14 @@
       "onboard_time": 1730964860,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 260729,
+      "num": 350123,
+      "word": "张婧仪粉墨抹胸拖尾裙",
+      "onboard_time": 1731053778,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257658,
@@ -827,22 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216353,
-      "num": 216353,
-      "word": "直接增加地方化债资源10万亿元",
-      "onboard_time": 1731054199,
-      "rank": 34,
-      "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 216224,
-      "num": 216224,
-      "word": "张婧仪粉墨抹胸拖尾裙",
-      "onboard_time": 1731053778,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 210896,
       "num": 245205,
       "word": "BIGBANG将合体",
@@ -953,6 +953,14 @@
       "onboard_time": 1731029060,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 195234,
+      "num": 865914,
+      "word": "近年来力度最大的化债举措审议通过",
+      "onboard_time": 1731054500,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194282,
@@ -1091,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170988,
+      "num": 170988,
+      "word": "永夜星河慕瑶人设",
+      "onboard_time": 1731052459,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169792,
       "num": 169792,
       "word": "黎巴嫩一座250年建筑被炸成平地",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1731040642,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165578,
+      "num": 165578,
+      "word": "以后洗澡能一键切换沐浴露了",
+      "onboard_time": 1731053480,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 165374,
@@ -1179,6 +1203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158038,
+      "num": 158038,
+      "word": "麦琳情商",
+      "onboard_time": 1731055100,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155832,
+      "num": 155832,
+      "word": "冬季防寒保暖要从头开始",
+      "onboard_time": 1731055218,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155543,
       "num": 155543,
       "word": "周雨辟谣王楚钦比赛发烧",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1731021557,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 151256,
+      "num": 151256,
+      "word": "再见朋友请难哄导演和杨淇源吧",
+      "onboard_time": 1731054859,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 151030,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1731043520,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144163,
-      "num": 144163,
-      "word": "永夜星河慕瑶人设",
-      "onboard_time": 1731052459,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 142880,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1731049338,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128132,
+      "num": 873308,
+      "word": "学前教育法表决通过",
+      "onboard_time": 1731054558,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126485,
@@ -1643,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94656,
+      "num": 151882,
+      "word": "法律专家谈39岁男子工作期间猝死",
+      "onboard_time": 1731054980,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92143,
       "num": 471006,
       "word": "疑似被骗至缅甸大学生联系家人",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1731016391,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 82582,
+      "num": 418945,
+      "word": "问界M7事故车主已向法院起诉赛力斯",
+      "onboard_time": 1731053240,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81162,
@@ -1868,7 +1932,7 @@
     },
     {
       "raw_hot": 57883,
-      "num": 1278639,
+      "num": 1376193,
       "word": "外交部回应美国大选结果",
       "onboard_time": 1731036620,
       "rank": 2,
@@ -1907,14 +1971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52815,
-      "num": 418945,
-      "word": "问界M7事故车主已向法院起诉赛力斯",
-      "onboard_time": 1731053240,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49427,
       "num": 291674,
       "word": "记者会被AI替代吗",
@@ -1937,6 +1993,14 @@
       "onboard_time": 1731034460,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48416,
+      "num": 586606,
+      "word": "航空公司回应女子大闹航班殴打空少",
+      "onboard_time": 1731055100,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48362,
@@ -1995,6 +2059,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 36710,
+      "num": 165487,
+      "word": "从大厂离职的人最后去哪了",
+      "onboard_time": 1731054739,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 36562,
+      "num": 254457,
+      "word": "歼35A提前现身航展",
+      "onboard_time": 1731053720,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 36445,
       "num": 46943,
       "word": "王俊凯灰西装look",
@@ -2017,6 +2097,22 @@
       "onboard_time": 1731048079,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32414,
+      "num": 805688,
+      "word": "昆明臭肉事件学校再被处罚",
+      "onboard_time": 1731054980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31495,
+      "num": 230340,
+      "word": "辽宁本溪坍塌事故3名被困人员死亡",
+      "onboard_time": 1731054799,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31106,
@@ -2049,14 +2145,6 @@
       "onboard_time": 1731005173,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27663,
-      "num": 254457,
-      "word": "歼35A提前现身航展",
-      "onboard_time": 1731053720,
-      "rank": 28,
-      "category": "军事"
     },
     {
       "raw_hot": 25101,
@@ -2099,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20341,
+      "num": 230786,
+      "word": "吴磊戴华为手表解锁骑行酷体验",
+      "onboard_time": 1731053659,
+      "rank": 35,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 19463,
       "num": 19840,
       "word": "美投票日千名移民焦虑等待入境美国",
@@ -2121,14 +2217,6 @@
       "onboard_time": 1731029598,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 18823,
-      "num": 216234,
-      "word": "吴磊戴华为手表解锁骑行酷体验",
-      "onboard_time": 1731053659,
-      "rank": 35,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 18069,
@@ -2171,8 +2259,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 9242,
-      "num": 417710,
+      "raw_hot": 9514,
+      "num": 544986,
       "word": "2024进博会黑科技盘点",
       "onboard_time": 1731052820,
       "rank": 14,

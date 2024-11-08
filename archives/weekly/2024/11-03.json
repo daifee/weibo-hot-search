@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731054452354,
+  "endTime": 1731055262442,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -771,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1636282,
+      "num": 1636282,
+      "word": "6万亿",
+      "onboard_time": 1731054019,
+      "rank": 18,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 1631560,
       "num": 881967,
       "word": "生过孩子的姐妹嘴真严啊",
       "onboard_time": 1730940921,
       "rank": 10,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 1628280,
+      "num": 1628280,
+      "word": "哈尔滨师范大学已报警",
+      "onboard_time": 1731051379,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1617489,
@@ -865,14 +881,6 @@
       "onboard_time": 1731044660,
       "rank": 1,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 1518841,
-      "num": 1518841,
-      "word": "哈尔滨师范大学已报警",
-      "onboard_time": 1731051379,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1513878,
@@ -1115,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1341420,
+      "num": 1341420,
+      "word": "酒店回应不接待日本籍顾客",
+      "onboard_time": 1731051619,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1339685,
       "num": 424768,
       "word": "特朗普的车队离开海湖庄园",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1730779821,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1311575,
-      "num": 1311575,
-      "word": "酒店回应不接待日本籍顾客",
-      "onboard_time": 1731051619,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1303762,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1730776819,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1113731,
+      "num": 1113731,
+      "word": "增加地方政府债务限额6万亿",
+      "onboard_time": 1731053778,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1108915,
@@ -2235,14 +2251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 788094,
-      "num": 788094,
-      "word": "增加地方政府债务限额6万亿",
-      "onboard_time": 1731053778,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 787275,
       "num": 417747,
       "word": "美媒测算特朗普已获超200张选举人票",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1730763257,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 771639,
+      "num": 771639,
+      "word": "拒接待日本人酒店称腾冲一直都这样",
+      "onboard_time": 1731053601,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 771495,
@@ -2369,6 +2385,14 @@
       "onboard_time": 1730994321,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747213,
+      "num": 962010,
+      "word": "李行亮 表演型人格",
+      "onboard_time": 1731052760,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 745657,
@@ -4099,14 +4123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 457012,
-      "num": 457012,
-      "word": "李行亮 表演型人格",
-      "onboard_time": 1731052760,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 456649,
       "num": 447310,
       "word": "任敏说嗑到了赵露思刘宇宁",
@@ -4779,14 +4795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 391310,
-      "num": 391310,
-      "word": "6万亿",
-      "onboard_time": 1731054019,
-      "rank": 18,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 391288,
       "num": 391288,
       "word": "男子赶在金价下跌前出售6根金条",
@@ -5259,6 +5267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344863,
+      "num": 344863,
+      "word": "卫生巾品牌回应长度不够",
+      "onboard_time": 1731052999,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344508,
       "num": 344508,
       "word": "张本智和止步男单32强",
@@ -5313,14 +5329,6 @@
       "onboard_time": 1730777841,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 341368,
-      "num": 462656,
-      "word": "拒接待日本人酒店称腾冲一直都这样",
-      "onboard_time": 1731053601,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 341116,
@@ -5859,14 +5867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307418,
-      "num": 307418,
-      "word": "卫生巾品牌回应长度不够",
-      "onboard_time": 1731052999,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306732,
       "num": 323003,
       "word": "Tim能不能上再见爱人",
@@ -6331,6 +6331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279774,
+      "num": 279774,
+      "word": "直接增加地方化债资源10万亿元",
+      "onboard_time": 1731054199,
+      "rank": 34,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 278417,
       "num": 278417,
       "word": "粉笔模考",
@@ -6697,6 +6705,14 @@
       "onboard_time": 1730678958,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260729,
+      "num": 350123,
+      "word": "张婧仪粉墨抹胸拖尾裙",
+      "onboard_time": 1731053778,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 260452,
@@ -7729,22 +7745,6 @@
       "onboard_time": 1730684838,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 216353,
-      "num": 216353,
-      "word": "直接增加地方化债资源10万亿元",
-      "onboard_time": 1731054199,
-      "rank": 34,
-      "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 216224,
-      "num": 216224,
-      "word": "张婧仪粉墨抹胸拖尾裙",
-      "onboard_time": 1731053778,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215980,
@@ -8947,6 +8947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195234,
+      "num": 865914,
+      "word": "近年来力度最大的化债举措审议通过",
+      "onboard_time": 1731054500,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195126,
       "num": 286330,
       "word": "小巷人家 苏州",
@@ -10147,6 +10155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170988,
+      "num": 170988,
+      "word": "永夜星河慕瑶人设",
+      "onboard_time": 1731052459,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170978,
       "num": 214220,
       "word": "深圳多名学生骑电单车发生意外",
@@ -10441,6 +10457,14 @@
       "onboard_time": 1730717900,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165578,
+      "num": 165578,
+      "word": "以后洗澡能一键切换沐浴露了",
+      "onboard_time": 1731053480,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 165374,
@@ -10971,6 +10995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158038,
+      "num": 158038,
+      "word": "麦琳情商",
+      "onboard_time": 1731055100,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157956,
       "num": 157956,
       "word": "以闪亮之名文案",
@@ -11073,6 +11105,14 @@
       "onboard_time": 1730777660,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155832,
+      "num": 155832,
+      "word": "冬季防寒保暖要从头开始",
+      "onboard_time": 1731055218,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155712,
@@ -11329,6 +11369,14 @@
       "onboard_time": 1730727561,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151256,
+      "num": 151256,
+      "word": "再见朋友请难哄导演和杨淇源吧",
+      "onboard_time": 1731054859,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 151030,
@@ -11753,14 +11801,6 @@
       "onboard_time": 1731043520,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144163,
-      "num": 144163,
-      "word": "永夜星河慕瑶人设",
-      "onboard_time": 1731052459,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 143844,
@@ -12585,6 +12625,14 @@
       "onboard_time": 1730944039,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128132,
+      "num": 873308,
+      "word": "学前教育法表决通过",
+      "onboard_time": 1731054558,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128130,
@@ -14075,6 +14123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94656,
+      "num": 151882,
+      "word": "法律专家谈39岁男子工作期间猝死",
+      "onboard_time": 1731054980,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94468,
       "num": 94468,
       "word": "美国B52战略轰炸机抵达中东",
@@ -14393,6 +14449,14 @@
       "onboard_time": 1731016391,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 82582,
+      "num": 418945,
+      "word": "问界M7事故车主已向法院起诉赛力斯",
+      "onboard_time": 1731053240,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82395,
@@ -15379,14 +15443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52815,
-      "num": 418945,
-      "word": "问界M7事故车主已向法院起诉赛力斯",
-      "onboard_time": 1731053240,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52719,
       "num": 342816,
       "word": "无锡虹桥医院涉骗保被罚5895万",
@@ -15569,6 +15625,14 @@
       "onboard_time": 1730586552,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48416,
+      "num": 586606,
+      "word": "航空公司回应女子大闹航班殴打空少",
+      "onboard_time": 1731055100,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48362,
@@ -16171,12 +16235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36710,
+      "num": 165487,
+      "word": "从大厂离职的人最后去哪了",
+      "onboard_time": 1731054739,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36568,
       "num": 380182,
       "word": "离婚综艺为啥这么火",
       "onboard_time": 1730626278,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36562,
+      "num": 254457,
+      "word": "歼35A提前现身航展",
+      "onboard_time": 1731053720,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 36445,
@@ -16467,6 +16547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32414,
+      "num": 805688,
+      "word": "昆明臭肉事件学校再被处罚",
+      "onboard_time": 1731054980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32249,
       "num": 333372,
       "word": "微短剧会成为电影的掘墓人吗",
@@ -16529,6 +16617,14 @@
       "onboard_time": 1730982082,
       "rank": 14,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 31495,
+      "num": 230340,
+      "word": "辽宁本溪坍塌事故3名被困人员死亡",
+      "onboard_time": 1731054799,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31446,
@@ -16753,14 +16849,6 @@
       "onboard_time": 1730988504,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27663,
-      "num": 254457,
-      "word": "歼35A提前现身航展",
-      "onboard_time": 1731053720,
-      "rank": 28,
-      "category": "军事"
     },
     {
       "raw_hot": 27476,
@@ -17299,6 +17387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20341,
+      "num": 230786,
+      "word": "吴磊戴华为手表解锁骑行酷体验",
+      "onboard_time": 1731053659,
+      "rank": 35,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 20078,
       "num": 115742,
       "word": "第一视角带你沉浸式体验北马",
@@ -17457,14 +17553,6 @@
       "onboard_time": 1730791640,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18823,
-      "num": 216234,
-      "word": "吴磊戴华为手表解锁骑行酷体验",
-      "onboard_time": 1731053659,
-      "rank": 35,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 18812,
@@ -18051,8 +18139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9242,
-      "num": 417710,
+      "raw_hot": 9514,
+      "num": 544986,
       "word": "2024进博会黑科技盘点",
       "onboard_time": 1731052820,
       "rank": 14,
