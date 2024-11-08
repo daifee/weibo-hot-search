@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731090564942,
+  "endTime": 1731091369688,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -11787,6 +11787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159406,
+      "num": 47258,
+      "word": "知情人称要求陪睡公司总有女生应聘",
+      "onboard_time": 1731089113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159238,
       "num": 159238,
       "word": "春熙路的爬墙熊猫有班味儿了",
@@ -15363,14 +15371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93193,
-      "num": 47258,
-      "word": "知情人称要求陪睡公司总有女生应聘",
-      "onboard_time": 1731089113,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93098,
       "num": 167710,
       "word": "相约进博",
@@ -15945,6 +15945,14 @@
       "onboard_time": 1730654175,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71037,
+      "num": 102343,
+      "word": "理发师晓华回应同行质疑",
+      "onboard_time": 1731089593,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70974,
@@ -17987,6 +17995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33327,
+      "num": 33327,
+      "word": "于文文巡演",
+      "onboard_time": 1731090253,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33255,
       "num": 487562,
       "word": "车主称奥迪新车开几十米就跑偏",
@@ -18121,14 +18137,6 @@
       "onboard_time": 1731054799,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31460,
-      "num": 31460,
-      "word": "于文文巡演",
-      "onboard_time": 1731090253,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 31446,
@@ -18441,14 +18449,6 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26863,
-      "num": 102343,
-      "word": "理发师晓华回应同行质疑",
-      "onboard_time": 1731089593,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26484,
@@ -19235,6 +19235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18085,
+      "num": 81999,
+      "word": "王曼昱vs钱天一",
+      "onboard_time": 1731090614,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18069,
       "num": 314730,
       "word": "肖战联名系列包全身的",
@@ -19631,6 +19639,14 @@
       "num": 113981,
       "word": "北京发布大风蓝色预警",
       "onboard_time": 1730586014,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12857,
+      "num": 44914,
+      "word": "119致敬火焰蓝",
+      "onboard_time": 1731091333,
       "rank": 29,
       "category": "社会新闻"
     },
