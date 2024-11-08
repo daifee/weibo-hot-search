@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731069686525,
+  "endTime": 1731070624082,
   "band_list": [
     {
       "raw_hot": 3645518,
@@ -139,6 +139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1483874,
+      "num": 1483874,
+      "word": "哈里斯说普京会把特朗普当午餐吃掉",
+      "onboard_time": 1731067579,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1386927,
       "num": 1386927,
       "word": "男子8天加班41小时工作中猝死",
@@ -267,6 +275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 914805,
+      "num": 460493,
+      "word": "大兴机场",
+      "onboard_time": 1731067819,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873694,
       "num": 1139791,
       "word": "王楚钦世一是一板一板打出来的",
@@ -329,14 +345,6 @@
       "onboard_time": 1731056000,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771302,
-      "num": 771302,
-      "word": "哈里斯说普京会把特朗普当午餐吃掉",
-      "onboard_time": 1731067579,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 753271,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597929,
+      "num": 597929,
+      "word": "恋与深空猫猫卡",
+      "onboard_time": 1731069019,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 597583,
       "num": 391158,
       "word": "饶雪漫",
@@ -465,14 +481,6 @@
       "onboard_time": 1731041003,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 548762,
-      "num": 548762,
-      "word": "恋与深空猫猫卡",
-      "onboard_time": 1731069019,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 538518,
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476229,
-      "num": 460493,
-      "word": "大兴机场",
-      "onboard_time": 1731067819,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 472511,
+      "num": 344495,
+      "word": "伊能静回应艺人都去卖货了",
+      "onboard_time": 1731068900,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 469833,
@@ -609,6 +617,14 @@
       "onboard_time": 1731028640,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 429225,
+      "num": 429225,
+      "word": "丁禹兮 老粉比黑粉可怕",
+      "onboard_time": 1731070041,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 421679,
@@ -721,14 +737,6 @@
       "onboard_time": 1731052999,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344495,
-      "num": 344495,
-      "word": "伊能静回应艺人都去卖货了",
-      "onboard_time": 1731068900,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 340156,
@@ -851,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297629,
+      "num": 297629,
+      "word": "永夜星河17集",
+      "onboard_time": 1731066800,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294552,
       "num": 362144,
       "word": "特朗普小儿子巴伦或成美政坛新星",
@@ -891,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282294,
-      "num": 282294,
-      "word": "永夜星河17集",
-      "onboard_time": 1731066800,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280248,
       "num": 280248,
       "word": "文淇中戏毕业大戏",
@@ -913,6 +921,14 @@
       "onboard_time": 1731054199,
       "rank": 34,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 276306,
+      "num": 276306,
+      "word": "雷军能不能生产卫生巾",
+      "onboard_time": 1731068058,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 273861,
@@ -953,14 +969,6 @@
       "onboard_time": 1731062240,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265049,
-      "num": 265049,
-      "word": "雷军能不能生产卫生巾",
-      "onboard_time": 1731068058,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 263313,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1731034998,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 220300,
+      "num": 267764,
+      "word": "7人造谣女子喝醉在路边被强暴被罚",
+      "onboard_time": 1731067639,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217135,
@@ -1411,6 +1427,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182406,
+      "num": 182406,
+      "word": "日本空手道小选手偷袭致对手瘫痪",
+      "onboard_time": 1731069559,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180382,
+      "num": 180382,
+      "word": "孙乐言 彭高",
+      "onboard_time": 1731070459,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179742,
       "num": 355412,
       "word": "疑被骗至缅甸大学生遭殴打不能说话",
@@ -1476,7 +1508,7 @@
     },
     {
       "raw_hot": 172587,
-      "num": 172587,
+      "num": 413004,
       "word": "家具签收一个月后买家申请了仅退款",
       "onboard_time": 1731068239,
       "rank": 33,
@@ -1763,6 +1795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147329,
+      "num": 147329,
+      "word": "虞书欣说邓超红发魔男",
+      "onboard_time": 1731069140,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147299,
       "num": 147299,
       "word": "丁禹兮人生镜头",
@@ -1843,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139660,
+      "num": 139660,
+      "word": "eStar止步年总四强",
+      "onboard_time": 1731070220,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137659,
       "num": 589553,
       "word": "打电话勒索李高家属20万的是骗子",
@@ -1865,6 +1913,22 @@
       "onboard_time": 1731060559,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135863,
+      "num": 135863,
+      "word": "狼队晋级年总败者组决赛",
+      "onboard_time": 1731070279,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 135164,
+      "num": 135164,
+      "word": "支持房地产税收政策近期即将推出",
+      "onboard_time": 1731070520,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 134761,
@@ -1931,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129128,
-      "num": 129128,
-      "word": "虞书欣说邓超红发魔男",
-      "onboard_time": 1731069140,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128628,
       "num": 128628,
       "word": "赵露思紫色翻领针织衫",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1731047659,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 124177,
+      "num": 124177,
+      "word": "邓海洋住废弃仓库",
+      "onboard_time": 1731069440,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 123455,
@@ -2059,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120702,
+      "num": 120702,
+      "word": "凌妙妙不属于这个世界的证据",
+      "onboard_time": 1731070459,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120292,
       "num": 120292,
       "word": "男子赶在金价下跌前出售6根金条",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1730991203,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117834,
+      "num": 336447,
+      "word": "医院回应载有学生客车起火",
+      "onboard_time": 1731066860,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116155,
@@ -2163,14 +2243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111055,
-      "num": 336447,
-      "word": "医院回应载有学生客车起火",
-      "onboard_time": 1731066860,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109603,
       "num": 109603,
       "word": "影后",
@@ -2187,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107159,
-      "num": 267764,
-      "word": "7人造谣女子喝醉在路边被强暴被罚",
-      "onboard_time": 1731067639,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106244,
       "num": 106244,
       "word": "最终幻想14",
@@ -2209,14 +2273,6 @@
       "onboard_time": 1730994441,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 104321,
-      "num": 104321,
-      "word": "邓海洋住废弃仓库",
-      "onboard_time": 1731069440,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 102890,
@@ -2307,12 +2363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93527,
-      "num": 93527,
-      "word": "日本空手道小选手偷袭致对手瘫痪",
+      "raw_hot": 92531,
+      "num": 423639,
+      "word": "佩斯科夫回应传闻笑称普京不吃人",
       "onboard_time": 1731069559,
-      "rank": 46,
-      "category": "社会新闻"
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 92143,
@@ -2321,6 +2377,14 @@
       "onboard_time": 1731049338,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91571,
+      "num": 280609,
+      "word": "大梦归离",
+      "onboard_time": 1731070340,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 91119,
@@ -2355,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90302,
-      "num": 90302,
-      "word": "佩斯科夫回应传闻笑称普京不吃人",
-      "onboard_time": 1731069559,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 90163,
       "num": 96085,
       "word": "王曼昱vs朱芊曦",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1731034160,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89412,
+      "num": 277216,
+      "word": "原神5.2版本前瞻",
+      "onboard_time": 1731070101,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 88311,
@@ -2619,6 +2683,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56904,
+      "num": 181222,
+      "word": "高端羽绒服抢占平价市场",
+      "onboard_time": 1731067579,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 56202,
+      "num": 373161,
+      "word": "机场回应男子停车场吵架被气死传闻",
+      "onboard_time": 1731070400,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55854,
       "num": 288545,
       "word": "华晨宇直播",
@@ -2731,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42437,
-      "num": 131109,
-      "word": "高端羽绒服抢占平价市场",
-      "onboard_time": 1731067579,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 42228,
       "num": 226829,
       "word": "冰川上穿着波司登的中国来客",
@@ -2844,7 +2916,7 @@
     },
     {
       "raw_hot": 31796,
-      "num": 89388,
+      "num": 117410,
       "word": "海底捞请外卖小哥吃火锅",
       "onboard_time": 1731066379,
       "rank": 49,
@@ -2931,20 +3003,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24507,
+      "num": 462809,
+      "word": "阅车识绅士",
+      "onboard_time": 1731065659,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 23820,
       "num": 270421,
       "word": "网贷行业存在四大乱象",
       "onboard_time": 1731063919,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23426,
-      "num": 462809,
-      "word": "阅车识绅士",
-      "onboard_time": 1731065659,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 23353,
