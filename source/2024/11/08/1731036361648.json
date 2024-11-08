@@ -1,0 +1,410 @@
+{
+  "runTime": 1731036361648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763974,
+        "num": 1763974,
+        "word": "监控还原39人遇难火灾经过",
+        "onboard_time": 1731034398,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1657949,
+        "num": 1657949,
+        "word": "全国结婚人数止跌回升",
+        "onboard_time": 1731032118,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48036,
+        "num": 1606060,
+        "word": "中方对美国政策一以贯之",
+        "onboard_time": 1731035060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2407673,
+        "num": 1605166,
+        "word": "黄圣依再次选择了离婚",
+        "onboard_time": 1731033139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1567423,
+        "num": 1567423,
+        "word": "被骗缅甸男生妈妈决定卖房救子",
+        "onboard_time": 1731030379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890561,
+        "num": 890561,
+        "word": "特朗普获胜后拜登首次公开讲话",
+        "onboard_time": 1731034398,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 841395,
+        "num": 841395,
+        "word": "难怪彭高没去张远演唱会",
+        "onboard_time": 1731034940,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650503,
+        "num": 650503,
+        "word": "王俊凯发文为王源庆生",
+        "onboard_time": 1731021316,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534508,
+        "num": 534508,
+        "word": "疑似被骗至缅甸大学生家属被索要20万",
+        "onboard_time": 1731032418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191474,
+        "num": 510120,
+        "word": "一年级女儿学唱大香蕉爸爸破防",
+        "onboard_time": 1731034039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495754,
+        "num": 495754,
+        "word": "美联储主席回应特朗普辞退威胁",
+        "onboard_time": 1731029479,
+        "rank": 10,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 393655,
+        "num": 393655,
+        "word": "黄金一夜大涨50美元",
+        "onboard_time": 1731028640,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 350860,
+        "num": 350860,
+        "word": "Meiko恋情",
+        "onboard_time": 1731022279,
+        "rank": 12,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 296870,
+        "num": 296870,
+        "word": "她知道什么叫只剪一点点",
+        "onboard_time": 1731016572,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24162,
+        "num": 291674,
+        "word": "记者会被AI替代吗",
+        "onboard_time": 1731035119,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291029,
+        "num": 291029,
+        "word": "普京祝贺特朗普",
+        "onboard_time": 1731023599,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 290919,
+        "num": 290919,
+        "word": "杜淳妻子王灿患病暴瘦",
+        "onboard_time": 1731024201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248743,
+        "num": 248743,
+        "word": "工作室回应赵露思妆容和造型问题",
+        "onboard_time": 1731022279,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234192,
+        "num": 234192,
+        "word": "葛夕 我为什么要他同意呢",
+        "onboard_time": 1731034519,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217466,
+        "num": 234023,
+        "word": "王鹤棣泰国演唱会",
+        "onboard_time": 1731035419,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1019682,
+        "num": 234005,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251173,
+        "num": 234005,
+        "word": "撞劳斯莱斯货车司机发文",
+        "onboard_time": 1731030979,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233972,
+        "num": 233972,
+        "word": "心动的信号 剪辑",
+        "onboard_time": 1731026601,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226311,
+        "num": 226311,
+        "word": "民警着急大吼这是23万不是23块",
+        "onboard_time": 1730994020,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225542,
+        "num": 225542,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211150,
+        "num": 211150,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202223,
+        "num": 202223,
+        "word": "女子飞机上辱骂殴打空少自称有背景",
+        "onboard_time": 1731031640,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48717,
+        "num": 194995,
+        "word": "小鹏P7+又卖爆了",
+        "onboard_time": 1731035179,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193676,
+        "num": 193676,
+        "word": "失笑今日开播",
+        "onboard_time": 1731035419,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189246,
+        "num": 189246,
+        "word": "费启鸣发虞书欣独家自拍",
+        "onboard_time": 1731022878,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174992,
+        "num": 174992,
+        "word": "杨洋疑似受伤",
+        "onboard_time": 1731028760,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161425,
+        "num": 161425,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147042,
+        "num": 147042,
+        "word": "教资面试报名今天开始",
+        "onboard_time": 1731031219,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146701,
+        "num": 146701,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138533,
+        "num": 138533,
+        "word": "涵艺说JackeyLove不可能回iG",
+        "onboard_time": 1731031938,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134756,
+        "num": 134756,
+        "word": "俄功勋飞行员说为中国观众准备惊喜",
+        "onboard_time": 1731034998,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 123203,
+        "num": 123203,
+        "word": "这样玩手机既容易斜视又容易近视",
+        "onboard_time": 1731035479,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13613,
+        "num": 122907,
+        "word": "保暖内衣面料也讲究成分配比",
+        "onboard_time": 1731034460,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139493,
+        "num": 122810,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730999414,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122706,
+        "num": 122706,
+        "word": "徐若瑄被曝患癌后回应",
+        "onboard_time": 1730994321,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121425,
+        "num": 121425,
+        "word": "劳斯莱斯女车主和货车司机签协议",
+        "onboard_time": 1731022157,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121059,
+        "num": 121059,
+        "word": "姑娘美签没过一万多团费没退",
+        "onboard_time": 1730998817,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98289,
+        "num": 98289,
+        "word": "凯源",
+        "onboard_time": 1731022939,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93599,
+        "num": 93599,
+        "word": "永夜星河热度破29500",
+        "onboard_time": 1731028640,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89531,
+        "num": 89531,
+        "word": "互联网大厂反腐潮持续",
+        "onboard_time": 1731034160,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88199,
+        "num": 88199,
+        "word": "人怎么可以内向成这样",
+        "onboard_time": 1731036199,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16075,
+        "num": 88062,
+        "word": "肖战联名系列包全身的",
+        "onboard_time": 1731030618,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88008,
+        "num": 88008,
+        "word": "陈都灵潇因出场",
+        "onboard_time": 1731032658,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87275,
+        "num": 87275,
+        "word": "普京称若西方表现主动愿恢复接触",
+        "onboard_time": 1731029060,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 86921,
+        "num": 86921,
+        "word": "别让孩子觉得拿手机可以买任何东西",
+        "onboard_time": 1731036080,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马来西亚总理#"
+    }
+  }
+}
