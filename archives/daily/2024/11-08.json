@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731036361648,
+  "endTime": 1731037233215,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1763974,
-      "num": 1763974,
+      "raw_hot": 2155953,
+      "num": 2155953,
       "word": "监控还原39人遇难火灾经过",
       "onboard_time": 1731034398,
       "rank": 9,
@@ -75,10 +75,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103114,
+      "num": 1103114,
+      "word": "特朗普获胜后拜登首次公开讲话",
+      "onboard_time": 1731034398,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 997429,
       "num": 372191,
       "word": "赵露思回应网友说她以前比较好看",
       "onboard_time": 1730990005,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 947226,
+      "num": 947226,
+      "word": "难怪彭高没去张远演唱会",
+      "onboard_time": 1731034940,
       "rank": 6,
       "category": "艺人"
     },
@@ -91,27 +107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 890561,
-      "num": 890561,
-      "word": "特朗普获胜后拜登首次公开讲话",
-      "onboard_time": 1731034398,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 846798,
       "num": 1135487,
       "word": "王俊凯发文为王源庆生",
       "onboard_time": 1731021316,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 841395,
-      "num": 841395,
-      "word": "难怪彭高没去张远演唱会",
-      "onboard_time": 1731034940,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347392,
+      "num": 347392,
+      "word": "王鹤棣泰国演唱会",
+      "onboard_time": 1731035419,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333201,
       "num": 333201,
       "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292621,
+      "num": 292621,
+      "word": "葛夕 我为什么要他同意呢",
+      "onboard_time": 1731034519,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284659,
       "num": 443665,
       "word": "记者节",
@@ -385,6 +401,14 @@
       "onboard_time": 1730988145,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 273179,
+      "num": 211203,
+      "word": "女子飞机上辱骂殴打空少自称有背景",
+      "onboard_time": 1731031640,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261221,
@@ -411,20 +435,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 234192,
-      "num": 234192,
-      "word": "葛夕 我为什么要他同意呢",
-      "onboard_time": 1731034519,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 217466,
-      "num": 234023,
-      "word": "王鹤棣泰国演唱会",
-      "onboard_time": 1731035419,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 218308,
+      "num": 510120,
+      "word": "一年级女儿学唱大香蕉爸爸破防",
+      "onboard_time": 1731034039,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217135,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206936,
+      "num": 206936,
+      "word": "教资笔试成绩开始查分",
+      "onboard_time": 1731036800,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "世界文化遗产遭以色列炮火威胁",
@@ -459,28 +483,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 202223,
-      "num": 202223,
-      "word": "女子飞机上辱骂殴打空少自称有背景",
-      "onboard_time": 1731031640,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197501,
       "num": 273558,
       "word": "普京称若西方表现主动愿恢复接触",
       "onboard_time": 1731029060,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 196994,
-      "num": 510120,
-      "word": "一年级女儿学唱大香蕉爸爸破防",
-      "onboard_time": 1731034039,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193676,
@@ -563,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170328,
+      "num": 151097,
+      "word": "这样玩手机既容易斜视又容易近视",
+      "onboard_time": 1731035479,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169792,
       "num": 169792,
       "word": "黎巴嫩一座250年建筑被炸成平地",
@@ -627,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150255,
+      "num": 150255,
+      "word": "人怎么可以内向成这样",
+      "onboard_time": 1731036199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147299,
       "num": 147299,
       "word": "丁禹兮人生镜头",
@@ -651,8 +675,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134756,
-      "num": 134756,
+      "raw_hot": 136222,
+      "num": 235396,
       "word": "俄功勋飞行员说为中国观众准备惊喜",
       "onboard_time": 1731034998,
       "rank": 35,
@@ -723,14 +747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 123203,
-      "num": 123203,
-      "word": "这样玩手机既容易斜视又容易近视",
-      "onboard_time": 1731035479,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 122977,
       "num": 122977,
       "word": "奔跑吧",
@@ -787,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111564,
+      "num": 111564,
+      "word": "陈都灵潇因出场",
+      "onboard_time": 1731032658,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111127,
       "num": 111127,
       "word": "恋综 分手",
@@ -809,6 +833,14 @@
       "onboard_time": 1730994441,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 104324,
+      "num": 104324,
+      "word": "丫丫喜提mini滑梯",
+      "onboard_time": 1731036859,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 102890,
@@ -867,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97143,
+      "num": 97143,
+      "word": "连俄罗斯人都能看懂的中国戏剧",
+      "onboard_time": 1731036980,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91963,
+      "num": 91963,
+      "word": "劳斯莱斯女车主不要货车司机赔偿",
+      "onboard_time": 1731028999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91119,
       "num": 91119,
       "word": "赛力斯称已报警",
@@ -899,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90154,
+      "num": 90154,
+      "word": "庆祝第25个中国记者节",
+      "onboard_time": 1731021616,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89531,
       "num": 89531,
       "word": "互联网大厂反腐潮持续",
@@ -907,20 +963,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 88199,
-      "num": 88199,
-      "word": "人怎么可以内向成这样",
-      "onboard_time": 1731036199,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 88008,
-      "num": 88008,
-      "word": "陈都灵潇因出场",
-      "onboard_time": 1731032658,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 87816,
+      "num": 87816,
+      "word": "拜登称将有一场和平的权力移交",
+      "onboard_time": 1731037160,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 86921,
@@ -1067,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56667,
-      "num": 56667,
-      "word": "庆祝第25个中国记者节",
-      "onboard_time": 1731021616,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55854,
       "num": 288545,
       "word": "华晨宇直播",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1730998936,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49427,
+      "num": 291674,
+      "word": "记者会被AI替代吗",
+      "onboard_time": 1731035119,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48717,
@@ -1139,6 +1187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 33725,
+      "num": 1236638,
+      "word": "外交部回应美国大选结果",
+      "onboard_time": 1731036620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31106,
       "num": 46921,
       "word": "小巷人家",
@@ -1160,14 +1216,6 @@
       "word": "原来中式审美都是有出处的",
       "onboard_time": 1731005173,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24162,
-      "num": 291674,
-      "word": "记者会被AI替代吗",
-      "onboard_time": 1731035119,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1193,6 +1241,14 @@
       "onboard_time": 1731007872,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 19370,
+      "num": 150986,
+      "word": "保暖内衣面料也讲究成分配比",
+      "onboard_time": 1731034460,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 18959,
@@ -1235,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13613,
-      "num": 150986,
-      "word": "保暖内衣面料也讲究成分配比",
-      "onboard_time": 1731034460,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 5643,
       "num": 992244,
       "word": "一起看进博",
@@ -1260,6 +1308,9 @@
     },
     {
       "word": "#习近平会见马来西亚总理#"
+    },
+    {
+      "word": "#习主席秘鲁巴西之行#"
     }
   ]
 }

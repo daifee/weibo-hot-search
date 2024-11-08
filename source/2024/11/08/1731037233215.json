@@ -1,0 +1,410 @@
+{
+  "runTime": 1731037233215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2155953,
+        "num": 2155953,
+        "word": "监控还原39人遇难火灾经过",
+        "onboard_time": 1731034398,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437154,
+        "num": 1437154,
+        "word": "全国结婚人数止跌回升",
+        "onboard_time": 1731032118,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33725,
+        "num": 1236638,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1731036620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2314953,
+        "num": 1175901,
+        "word": "黄圣依再次选择了离婚",
+        "onboard_time": 1731033139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1103114,
+        "num": 1103114,
+        "word": "特朗普获胜后拜登首次公开讲话",
+        "onboard_time": 1731034398,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1073655,
+        "num": 1073655,
+        "word": "被骗缅甸男生妈妈决定卖房救子",
+        "onboard_time": 1731030379,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947226,
+        "num": 947226,
+        "word": "难怪彭高没去张远演唱会",
+        "onboard_time": 1731034940,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617265,
+        "num": 617265,
+        "word": "王俊凯发文为王源庆生",
+        "onboard_time": 1731021316,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441704,
+        "num": 441704,
+        "word": "疑似被骗至缅甸大学生家属被索要20万",
+        "onboard_time": 1731032418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347392,
+        "num": 347392,
+        "word": "王鹤棣泰国演唱会",
+        "onboard_time": 1731035419,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391312,
+        "num": 346992,
+        "word": "美联储主席回应特朗普辞退威胁",
+        "onboard_time": 1731029479,
+        "rank": 10,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 320360,
+        "num": 320360,
+        "word": "Meiko恋情",
+        "onboard_time": 1731022279,
+        "rank": 11,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 309410,
+        "num": 309410,
+        "word": "黄金一夜大涨50美元",
+        "onboard_time": 1731028640,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 292621,
+        "num": 292621,
+        "word": "葛夕 我为什么要他同意呢",
+        "onboard_time": 1731034519,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282433,
+        "num": 282433,
+        "word": "普京祝贺特朗普",
+        "onboard_time": 1731023599,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269295,
+        "num": 269295,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266132,
+        "num": 266132,
+        "word": "她知道什么叫只剪一点点",
+        "onboard_time": 1731016572,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136222,
+        "num": 235396,
+        "word": "俄功勋飞行员说为中国观众准备惊喜",
+        "onboard_time": 1731034998,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 229656,
+        "num": 229656,
+        "word": "杜淳妻子王灿患病暴瘦",
+        "onboard_time": 1731024201,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218308,
+        "num": 218308,
+        "word": "一年级女儿学唱大香蕉爸爸破防",
+        "onboard_time": 1731034039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873202,
+        "num": 213001,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273179,
+        "num": 211203,
+        "word": "女子飞机上辱骂殴打空少自称有背景",
+        "onboard_time": 1731031640,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206936,
+        "num": 206936,
+        "word": "教资笔试成绩开始查分",
+        "onboard_time": 1731036800,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193035,
+        "num": 193035,
+        "word": "心动的信号 剪辑",
+        "onboard_time": 1731026601,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206488,
+        "num": 192730,
+        "word": "撞劳斯莱斯货车司机发文",
+        "onboard_time": 1731030979,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34545,
+        "num": 190861,
+        "word": "小鹏P7+又卖爆了",
+        "onboard_time": 1731035179,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190334,
+        "num": 190334,
+        "word": "民警着急大吼这是23万不是23块",
+        "onboard_time": 1730994020,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177723,
+        "num": 177723,
+        "word": "工作室回应赵露思妆容和造型问题",
+        "onboard_time": 1731022279,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174912,
+        "num": 174912,
+        "word": "微信运动一个很私密的东西",
+        "onboard_time": 1730988145,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151119,
+        "num": 151119,
+        "word": "费启鸣发虞书欣独家自拍",
+        "onboard_time": 1731022878,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170328,
+        "num": 151097,
+        "word": "这样玩手机既容易斜视又容易近视",
+        "onboard_time": 1731035479,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150255,
+        "num": 150255,
+        "word": "人怎么可以内向成这样",
+        "onboard_time": 1731036199,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133030,
+        "num": 133030,
+        "word": "杨洋疑似受伤",
+        "onboard_time": 1731028760,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132919,
+        "num": 132919,
+        "word": "长沙一小区内3人身亡",
+        "onboard_time": 1730987485,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132896,
+        "num": 132896,
+        "word": "涵艺说JackeyLove不可能回iG",
+        "onboard_time": 1731031938,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126696,
+        "num": 126696,
+        "word": "失笑今日开播",
+        "onboard_time": 1731035419,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124196,
+        "num": 124196,
+        "word": "翁青雅 奥斯卡",
+        "onboard_time": 1730982742,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19370,
+        "num": 119971,
+        "word": "保暖内衣面料也讲究成分配比",
+        "onboard_time": 1731034460,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 119689,
+        "word": "劳斯莱斯女车主和货车司机签协议",
+        "onboard_time": 1731022157,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112784,
+        "num": 112784,
+        "word": "姑娘美签没过一万多团费没退",
+        "onboard_time": 1730998817,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111564,
+        "num": 111564,
+        "word": "陈都灵潇因出场",
+        "onboard_time": 1731032658,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123883,
+        "num": 110467,
+        "word": "翁青雅 孙乐言",
+        "onboard_time": 1730999414,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108824,
+        "num": 108824,
+        "word": "教资面试报名今天开始",
+        "onboard_time": 1731031219,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104324,
+        "num": 104324,
+        "word": "丫丫喜提mini滑梯",
+        "onboard_time": 1731036859,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97143,
+        "num": 97143,
+        "word": "连俄罗斯人都能看懂的中国戏剧",
+        "onboard_time": 1731036980,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49427,
+        "num": 92737,
+        "word": "记者会被AI替代吗",
+        "onboard_time": 1731035119,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91963,
+        "num": 91963,
+        "word": "劳斯莱斯女车主不要货车司机赔偿",
+        "onboard_time": 1731028999,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90154,
+        "num": 90154,
+        "word": "庆祝第25个中国记者节",
+        "onboard_time": 1731021616,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89597,
+        "num": 89597,
+        "word": "凯源",
+        "onboard_time": 1731022939,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87816,
+        "num": 87816,
+        "word": "拜登称将有一场和平的权力移交",
+        "onboard_time": 1731037160,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
