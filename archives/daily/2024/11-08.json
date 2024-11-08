@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731050412697,
+  "endTime": 1731051308404,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -99,6 +99,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1386927,
+      "num": 1386927,
+      "word": "男子8天加班41小时工作中猝死",
+      "onboard_time": 1731045440,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343014,
       "num": 354236,
       "word": "杜淳妻子王灿患病暴瘦",
@@ -137,14 +145,6 @@
       "onboard_time": 1730990005,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 950476,
-      "num": 950476,
-      "word": "男子8天加班41小时工作中猝死",
-      "onboard_time": 1731045440,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 947226,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340031,
+      "num": 340031,
+      "word": "赵露思读信哭到读不下去",
+      "onboard_time": 1731043760,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333201,
       "num": 333201,
       "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285376,
+      "num": 243817,
+      "word": "腾冲 酒店",
+      "onboard_time": 1731045740,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284659,
       "num": 443665,
       "word": "记者节",
@@ -561,6 +577,14 @@
       "onboard_time": 1731045259,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280248,
+      "num": 280248,
+      "word": "文淇中戏毕业大戏",
+      "onboard_time": 1731049399,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 273861,
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262306,
+      "num": 256550,
+      "word": "裸机的快乐只有0次和无数次",
+      "onboard_time": 1731045199,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 261221,
       "num": 261221,
       "word": "马斯克接受采访中儿子突然闯进来",
@@ -608,14 +640,6 @@
       "word": "任天堂闹钟为啥这么火",
       "onboard_time": 1731037401,
       "rank": 24,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 256550,
-      "num": 256550,
-      "word": "裸机的快乐只有0次和无数次",
-      "onboard_time": 1731045199,
-      "rank": 30,
       "category": "数码"
     },
     {
@@ -681,14 +705,6 @@
       "onboard_time": 1731034998,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 219553,
-      "num": 235974,
-      "word": "赵露思读信哭到读不下去",
-      "onboard_time": 1731043760,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 217135,
@@ -763,6 +779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204151,
+      "num": 470160,
+      "word": "因为记者所以记着",
+      "onboard_time": 1731048079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203296,
       "num": 203296,
       "word": "人怎么可以内向成这样",
@@ -779,11 +803,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200251,
+      "num": 200251,
+      "word": "魏大勋孙千无罪之身开机",
+      "onboard_time": 1731050660,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199384,
       "num": 238675,
       "word": "疑似大梦归离官配婚后生活",
       "onboard_time": 1731047058,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199307,
+      "num": 199307,
+      "word": "永夜星河营业 大大方方",
+      "onboard_time": 1731050900,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -843,6 +883,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 192514,
+      "num": 192514,
+      "word": "易烊千玺用半年时间才走出角色",
+      "onboard_time": 1731050959,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191450,
       "num": 191450,
       "word": "茶百道 成毅",
@@ -864,6 +912,14 @@
       "word": "拜登称将有一场和平的权力移交",
       "onboard_time": 1731037160,
       "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 184966,
+      "num": 184966,
+      "word": "普京称中国有绝对平衡的政策",
+      "onboard_time": 1731047840,
+      "rank": 47,
       "category": "国外时政"
     },
     {
@@ -889,14 +945,6 @@
       "onboard_time": 1730986043,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176466,
-      "num": 470160,
-      "word": "因为记者所以记着",
-      "onboard_time": 1731048079,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175895,
@@ -1051,6 +1099,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 151649,
+      "num": 151649,
+      "word": "4架歼20震撼登场",
+      "onboard_time": 1731050540,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 151030,
       "num": 167824,
       "word": "电影孤星计划官宣定档",
@@ -1139,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137000,
-      "num": 137000,
-      "word": "普京称中国有绝对平衡的政策",
-      "onboard_time": 1731047840,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 136636,
       "num": 136636,
       "word": "大理寺少卿游发了新海报",
@@ -1211,20 +1259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128703,
+      "num": 250718,
+      "word": "金智秀将回归",
+      "onboard_time": 1731050779,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128628,
       "num": 128628,
       "word": "赵露思紫色翻领针织衫",
       "onboard_time": 1731049338,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128581,
-      "num": 128581,
-      "word": "腾冲 酒店",
-      "onboard_time": 1731045740,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126485,
@@ -1467,6 +1515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93871,
+      "num": 273550,
+      "word": "围城里不敢辞职的基层公务员们",
+      "onboard_time": 1731049639,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92143,
+      "num": 471006,
+      "word": "疑似被骗至缅甸大学生联系家人",
+      "onboard_time": 1731049338,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91119,
       "num": 91119,
       "word": "赛力斯称已报警",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1730984362,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91034,
+      "num": 398798,
+      "word": "公司回应39岁男子工作中猝死",
+      "onboard_time": 1731048739,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90772,
@@ -1523,14 +1595,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 86693,
-      "num": 273550,
-      "word": "围城里不敢辞职的基层公务员们",
-      "onboard_time": 1731049639,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86579,
       "num": 86579,
       "word": "浙江籍女飞行员亮相航展",
@@ -1569,22 +1633,6 @@
       "onboard_time": 1731021616,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 77057,
-      "num": 471006,
-      "word": "疑似被骗至缅甸大学生联系家人",
-      "onboard_time": 1731049338,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74430,
-      "num": 273831,
-      "word": "文淇中戏毕业大戏",
-      "onboard_time": 1731049399,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 74127,

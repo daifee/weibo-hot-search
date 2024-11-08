@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 15:20:12
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/08 15:35:08
 </p>
 </blockquote>
 <p>
@@ -963,6 +963,12 @@ K7034列车发生脱轨事故（热度：1833924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%908%E5%A4%A9%E5%8A%A0%E7%8F%AD41%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%8C%9D%E6%AD%BB%23" target="weibo">
+男子8天加班41小时工作中猝死（热度：1386927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E4%BD%8F%E5%8E%9F%E6%9D%A5%E7%9A%84%E6%88%BF%E5%AD%90%23" target="weibo">
 烧伤妈妈说不想再住原来的房子（热度：1384220）
 </a>
@@ -1649,12 +1655,6 @@ Elk神箭（热度：991451）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E8%80%83%E8%99%91%E7%BB%93%E6%9D%9F%E9%92%88%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%88%91%E6%A1%88%23" target="weibo">
 美司法部考虑结束针对特朗普的刑案（热度：951685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%908%E5%A4%A9%E5%8A%A0%E7%8F%AD41%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%8C%9D%E6%AD%BB%23" target="weibo">
-男子8天加班41小时工作中猝死（热度：950476）
 </a>
 </li>
 
@@ -5229,6 +5229,12 @@ Uzi回应G2邀请（热度：349691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AF%BB%E4%BF%A1%E5%93%AD%E5%88%B0%E8%AF%BB%E4%B8%8D%E4%B8%8B%E5%8E%BB%23" target="weibo">
+赵露思读信哭到读不下去（热度：340031）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E5%AE%89%E5%AE%87%E8%B7%B3%E4%BA%86APT%23" target="weibo">
 关晓彤王安宇跳了APT（热度：339938）
 </a>
@@ -6005,12 +6011,6 @@ Faker出门忘买装备（热度：287287）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%8A%92%E6%9E%9CTV2025%E5%A4%A7%E5%89%A7%E7%89%87%E5%8D%95%23" target="weibo">
 湖南卫视芒果TV2025大剧片单（热度：286864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%E9%87%8C%E5%8F%AA%E6%9C%89%E6%9D%8E%E4%BD%B3%E6%B2%A1%E6%9C%89%E5%AE%B6%23" target="weibo">
-小巷人家里只有李佳没有家（热度：286632）
 </a>
 </li>
 
