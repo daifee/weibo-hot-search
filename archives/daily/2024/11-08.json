@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731064719807,
+  "endTime": 1731065722858,
   "band_list": [
     {
       "raw_hot": 3645518,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1058571,
+      "num": 1058571,
+      "word": "中国成为全球第二个双隐国家",
+      "onboard_time": 1731061459,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020626,
       "num": 1020626,
       "word": "谢娜首聊双胞胎",
@@ -211,27 +219,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1015800,
+      "num": 272206,
+      "word": "翁青雅好友发声",
+      "onboard_time": 1731060079,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997429,
       "num": 372191,
       "word": "赵露思回应网友说她以前比较好看",
       "onboard_time": 1730990005,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 990572,
-      "num": 990572,
-      "word": "中国成为全球第二个双隐国家",
-      "onboard_time": 1731061459,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 950999,
-      "num": 272206,
-      "word": "翁青雅好友发声",
-      "onboard_time": 1731060079,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -257,6 +257,14 @@
       "onboard_time": 1731056479,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 850138,
+      "num": 850138,
+      "word": "普京称特朗普是条勇敢的汉子",
+      "onboard_time": 1731059602,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 846798,
@@ -313,14 +321,6 @@
       "onboard_time": 1730995219,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 708429,
-      "num": 708429,
-      "word": "普京称特朗普是条勇敢的汉子",
-      "onboard_time": 1731059602,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 702681,
@@ -467,8 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506757,
-      "num": 506757,
+      "raw_hot": 522854,
+      "num": 522854,
       "word": "深潜定档",
       "onboard_time": 1731061520,
       "rank": 25,
@@ -523,6 +523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 451321,
+      "num": 256721,
+      "word": "邓超模仿虞书欣说话",
+      "onboard_time": 1731063800,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449521,
       "num": 449521,
       "word": "周一围拍戏被拒300多次",
@@ -537,6 +545,14 @@
       "onboard_time": 1731028640,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 440747,
+      "num": 440747,
+      "word": "王楚钦世一是一板一板打出来的",
+      "onboard_time": 1731062420,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 421679,
@@ -931,20 +947,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 253002,
+      "num": 253002,
+      "word": "沈海高速一大巴突发车祸",
+      "onboard_time": 1731063501,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251845,
       "num": 251845,
       "word": "4架歼20震撼登场",
       "onboard_time": 1731050540,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 250756,
-      "num": 250756,
-      "word": "王楚钦世一是一板一板打出来的",
-      "onboard_time": 1731062420,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 239848,
@@ -969,6 +985,14 @@
       "onboard_time": 1731044301,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233925,
+      "num": 233925,
+      "word": "麦琳空心人",
+      "onboard_time": 1731064820,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 231033,
@@ -1003,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220750,
+      "num": 220750,
+      "word": "祝绪丹好像玉桂狗",
+      "onboard_time": 1731064640,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220530,
       "num": 235396,
       "word": "俄功勋飞行员说为中国观众准备惊喜",
@@ -1027,7 +1059,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212127,
+      "raw_hot": 214779,
+      "num": 214779,
+      "word": "你好种地少年",
+      "onboard_time": 1731064820,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212311,
       "num": 262949,
       "word": "恋人全组都在看赵露思珠帘玉幕",
       "onboard_time": 1731063020,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1731056718,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200304,
-      "num": 200304,
-      "word": "沈海高速一大巴突发车祸",
-      "onboard_time": 1731063501,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200251,
@@ -1227,6 +1259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 192220,
+      "num": 192220,
+      "word": "永夜星河修罗场",
+      "onboard_time": 1731062540,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191846,
       "num": 191846,
       "word": "IVE未公开新歌MV",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1731063620,
       "rank": 24,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 187284,
-      "num": 256721,
-      "word": "邓超模仿虞书欣说话",
-      "onboard_time": 1731063800,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 187027,
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164414,
+      "num": 164414,
+      "word": "教资还值得考吗",
+      "onboard_time": 1731062420,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164072,
       "num": 172000,
       "word": "杜华 输了就去当观众",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1731027501,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160583,
-      "num": 160583,
-      "word": "永夜星河修罗场",
-      "onboard_time": 1731062540,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 159238,
@@ -1563,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152489,
+      "num": 195312,
+      "word": "端午张郎君初遇是赵露思设计的",
+      "onboard_time": 1731064400,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152313,
       "num": 250718,
       "word": "金智秀将回归",
@@ -1635,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145963,
-      "num": 145963,
-      "word": "教资还值得考吗",
-      "onboard_time": 1731062420,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 145795,
       "num": 145795,
       "word": "外交部回应菲律宾涉南海所谓法律",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1731064220,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139697,
-      "num": 139697,
-      "word": "祝绪丹好像玉桂狗",
-      "onboard_time": 1731064640,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 139674,
@@ -1971,6 +1995,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "ACT对战GW",
+      "onboard_time": 1731065538,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112200,
       "num": 112200,
       "word": "教资笔试成绩8日可查",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1731024322,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109367,
+      "num": 109367,
+      "word": "金智秀否认solo回归",
+      "onboard_time": 1731065120,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 106244,
@@ -2105,14 +2145,6 @@
       "onboard_time": 1731036980,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95597,
-      "num": 161200,
-      "word": "端午张郎君初遇是赵露思设计的",
-      "onboard_time": 1731064400,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 94943,
@@ -2467,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49464,
+      "num": 276711,
+      "word": "财政部强调坚决遏制新增隐性债务",
+      "onboard_time": 1731063800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49427,
       "num": 291674,
       "word": "记者会被AI替代吗",
@@ -2552,14 +2592,6 @@
       "word": "中学校长回应年薪50万招教师质疑",
       "onboard_time": 1731041421,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40473,
-      "num": 276711,
-      "word": "财政部强调坚决遏制新增隐性债务",
-      "onboard_time": 1731063800,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2691,6 +2723,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 27018,
+      "num": 250044,
+      "word": "中国兵器航展宣传片",
+      "onboard_time": 1731064220,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 26096,
       "num": 166618,
       "word": "二本大学该出国留学还是考研",
@@ -2707,12 +2747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23892,
-      "num": 250044,
-      "word": "中国兵器航展宣传片",
-      "onboard_time": 1731064220,
-      "rank": 29,
-      "category": "军事"
+      "raw_hot": 23820,
+      "num": 270421,
+      "word": "网贷行业存在四大乱象",
+      "onboard_time": 1731063919,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23353,
@@ -2819,14 +2859,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 17282,
-      "num": 270421,
-      "word": "网贷行业存在四大乱象",
-      "onboard_time": 1731063919,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16731,
       "num": 1056673,
       "word": "走出一条新时期中美正确相处之道",
@@ -2859,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15681,
+      "num": 260541,
+      "word": "矿工诗人陈年喜炸裂人生",
+      "onboard_time": 1731063680,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15400,
       "num": 182529,
       "word": "进博会现场机器狗为记者送祝福",
@@ -2883,12 +2923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7526,
-      "num": 260541,
-      "word": "矿工诗人陈年喜炸裂人生",
-      "onboard_time": 1731063680,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 6505,
+      "num": 108295,
+      "word": "阅车识绅士",
+      "onboard_time": 1731065659,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 5689,

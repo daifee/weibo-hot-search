@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731064719807,
+  "endTime": 1731065722858,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1547,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1058571,
+      "num": 1058571,
+      "word": "中国成为全球第二个双隐国家",
+      "onboard_time": 1731061459,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055760,
       "num": 1158090,
       "word": "特朗普被马斯克通知或遭暗杀",
@@ -1699,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1015800,
+      "num": 272206,
+      "word": "翁青雅好友发声",
+      "onboard_time": 1731060079,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015114,
       "num": 484807,
       "word": "叶珂帮忙救助了流浪小狗",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1730732421,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 990572,
-      "num": 990572,
-      "word": "中国成为全球第二个双隐国家",
-      "onboard_time": 1731061459,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983075,
@@ -1849,14 +1857,6 @@
       "onboard_time": 1730945900,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 950999,
-      "num": 272206,
-      "word": "翁青雅好友发声",
-      "onboard_time": 1731060079,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 950381,
@@ -2137,6 +2137,14 @@
       "onboard_time": 1730709919,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 850138,
+      "num": 850138,
+      "word": "普京称特朗普是条勇敢的汉子",
+      "onboard_time": 1731059602,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 847225,
@@ -2592,14 +2600,6 @@
       "word": "马斯克刷大火箭祝贺特朗普获胜",
       "onboard_time": 1730891121,
       "rank": 15,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 708429,
-      "num": 708429,
-      "word": "普京称特朗普是条勇敢的汉子",
-      "onboard_time": 1731059602,
-      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -3731,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522854,
+      "num": 522854,
+      "word": "深潜定档",
+      "onboard_time": 1731061520,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 522707,
       "num": 467215,
       "word": "永夜星河求加更",
@@ -3881,14 +3889,6 @@
       "onboard_time": 1730883984,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506757,
-      "num": 506757,
-      "word": "深潜定档",
-      "onboard_time": 1731061520,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 504081,
@@ -4259,6 +4259,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 451321,
+      "num": 256721,
+      "word": "邓超模仿虞书欣说话",
+      "onboard_time": 1731063800,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449521,
       "num": 449521,
       "word": "周一围拍戏被拒300多次",
@@ -4385,6 +4393,14 @@
       "onboard_time": 1730866706,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440747,
+      "num": 440747,
+      "word": "王楚钦世一是一板一板打出来的",
+      "onboard_time": 1731062420,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 440525,
@@ -7035,6 +7051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 253002,
+      "num": 253002,
+      "word": "沈海高速一大巴突发车祸",
+      "onboard_time": 1731063501,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252549,
       "num": 364255,
       "word": "珠帘玉幕 一个史铁生和一群余华",
@@ -7081,14 +7105,6 @@
       "onboard_time": 1730614037,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250756,
-      "num": 250756,
-      "word": "王楚钦世一是一板一板打出来的",
-      "onboard_time": 1731062420,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 250554,
@@ -7475,6 +7491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233925,
+      "num": 233925,
+      "word": "麦琳空心人",
+      "onboard_time": 1731064820,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233906,
       "num": 233906,
       "word": "拾荒老人去看病竟掏出一代身份证",
@@ -7835,6 +7859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220750,
+      "num": 220750,
+      "word": "祝绪丹好像玉桂狗",
+      "onboard_time": 1731064640,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220569,
       "num": 220569,
       "word": "KPL年总决赛节目单",
@@ -7961,6 +7993,14 @@
       "onboard_time": 1730967260,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214779,
+      "num": 214779,
+      "word": "你好种地少年",
+      "onboard_time": 1731064820,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 214616,
@@ -8091,20 +8131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212311,
+      "num": 262949,
+      "word": "恋人全组都在看赵露思珠帘玉幕",
+      "onboard_time": 1731063020,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212289,
       "num": 212289,
       "word": "向佐海报都是向左发的",
       "onboard_time": 1730704039,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212127,
-      "num": 262949,
-      "word": "恋人全组都在看赵露思珠帘玉幕",
-      "onboard_time": 1731063020,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 211831,
@@ -8787,14 +8827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200304,
-      "num": 200304,
-      "word": "沈海高速一大巴突发车祸",
-      "onboard_time": 1731063501,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200251,
       "num": 200251,
       "word": "魏大勋孙千无罪之身开机",
@@ -9355,6 +9387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192220,
+      "num": 192220,
+      "word": "永夜星河修罗场",
+      "onboard_time": 1731062540,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192099,
       "num": 192099,
       "word": "登陆少年开场",
@@ -9617,14 +9657,6 @@
       "onboard_time": 1730806040,
       "rank": 35,
       "category": "自然"
-    },
-    {
-      "raw_hot": 187284,
-      "num": 256721,
-      "word": "邓超模仿虞书欣说话",
-      "onboard_time": 1731063800,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 187219,
@@ -10835,6 +10867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164414,
+      "num": 164414,
+      "word": "教资还值得考吗",
+      "onboard_time": 1731062420,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164406,
       "num": 176531,
       "word": "虞书欣贴脸开大丁禹兮",
@@ -11145,14 +11185,6 @@
       "onboard_time": 1730614037,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 160583,
-      "num": 160583,
-      "word": "永夜星河修罗场",
-      "onboard_time": 1731062540,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 160483,
@@ -11595,6 +11627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152489,
+      "num": 195312,
+      "word": "端午张郎君初遇是赵露思设计的",
+      "onboard_time": 1731064400,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152471,
       "num": 152471,
       "word": "睡觉时最伤脊椎的睡姿",
@@ -12011,14 +12051,6 @@
       "category": "剧集,时尚"
     },
     {
-      "raw_hot": 145963,
-      "num": 145963,
-      "word": "教资还值得考吗",
-      "onboard_time": 1731062420,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 145901,
       "num": 145901,
       "word": "万年县委原书记毛奇非法收受巨额财物",
@@ -12417,14 +12449,6 @@
       "onboard_time": 1730642901,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139697,
-      "num": 139697,
-      "word": "祝绪丹好像玉桂狗",
-      "onboard_time": 1731064640,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 139674,
@@ -13819,6 +13843,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "ACT对战GW",
+      "onboard_time": 1731065538,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114244,
       "num": 336043,
       "word": "赵露思问什么时候供暖",
@@ -14033,6 +14065,14 @@
       "onboard_time": 1731024322,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109367,
+      "num": 109367,
+      "word": "金智秀否认solo回归",
+      "onboard_time": 1731065120,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 109333,
@@ -14513,14 +14553,6 @@
       "onboard_time": 1730820201,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95597,
-      "num": 161200,
-      "word": "端午张郎君初遇是赵露思设计的",
-      "onboard_time": 1731064400,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 95508,
@@ -16067,6 +16099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49464,
+      "num": 276711,
+      "word": "财政部强调坚决遏制新增隐性债务",
+      "onboard_time": 1731063800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49427,
       "num": 291674,
       "word": "记者会被AI替代吗",
@@ -16497,14 +16537,6 @@
       "onboard_time": 1730882306,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40473,
-      "num": 276711,
-      "word": "财政部强调坚决遏制新增隐性债务",
-      "onboard_time": 1731063800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40459,
@@ -17427,6 +17459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 27018,
+      "num": 250044,
+      "word": "中国兵器航展宣传片",
+      "onboard_time": 1731064220,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 26983,
       "num": 35572,
       "word": "檀健次说猎罪图鉴2的沈翊更多变",
@@ -17619,14 +17659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23892,
-      "num": 250044,
-      "word": "中国兵器航展宣传片",
-      "onboard_time": 1731064220,
-      "rank": 29,
-      "category": "军事"
-    },
-    {
       "raw_hot": 23857,
       "num": 288043,
       "word": "离岸人民币兑美元升穿7.17",
@@ -17641,6 +17673,14 @@
       "onboard_time": 1730786660,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 23820,
+      "num": 270421,
+      "word": "网贷行业存在四大乱象",
+      "onboard_time": 1731063919,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23501,
@@ -18275,14 +18315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17282,
-      "num": 270421,
-      "word": "网贷行业存在四大乱象",
-      "onboard_time": 1731063919,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17262,
       "num": 421511,
       "word": "竞速骑行乱象调查",
@@ -18409,6 +18441,14 @@
       "onboard_time": 1730674635,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15681,
+      "num": 260541,
+      "word": "矿工诗人陈年喜炸裂人生",
+      "onboard_time": 1731063680,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15616,
@@ -18779,12 +18819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7526,
-      "num": 260541,
-      "word": "矿工诗人陈年喜炸裂人生",
-      "onboard_time": 1731063680,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 6505,
+      "num": 108295,
+      "word": "阅车识绅士",
+      "onboard_time": 1731065659,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 5689,
