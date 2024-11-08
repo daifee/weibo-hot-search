@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731087449591,
+  "endTime": 1731090564942,
   "band_list": [
     {
       "raw_hot": 1760293,
@@ -129,6 +129,14 @@
       "onboard_time": 1731067819,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334698,
+      "num": 334698,
+      "word": "残障老人遭猥亵嫌疑人扣3个月工资",
+      "onboard_time": 1731086117,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324654,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144065,
+      "num": 144065,
+      "word": "郑钦文世界排名上升到第五",
+      "onboard_time": 1731088154,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140749,
       "num": 140749,
       "word": "关晓彤哭戏",
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93193,
+      "num": 47258,
+      "word": "知情人称要求陪睡公司总有女生应聘",
+      "onboard_time": 1731089113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91147,
       "num": 91147,
       "word": "王楚钦世一是一板一板打出来的",
@@ -459,15 +483,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59517,
-      "num": 214418,
-      "word": "残障老人遭猥亵嫌疑人扣3个月工资",
-      "onboard_time": 1731086117,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52502,
+      "raw_hot": 61839,
       "num": 259827,
       "word": "陈幸同vs大藤沙月",
       "onboard_time": 1731085815,
@@ -489,6 +505,22 @@
       "onboard_time": 1731081740,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31460,
+      "num": 31460,
+      "word": "于文文巡演",
+      "onboard_time": 1731090253,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26863,
+      "num": 102343,
+      "word": "理发师晓华回应同行质疑",
+      "onboard_time": 1731089593,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6044,
