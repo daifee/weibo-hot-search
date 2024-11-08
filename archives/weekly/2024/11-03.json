@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731075612731,
+  "endTime": 1731076734276,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2243,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840092,
+      "num": 358298,
+      "word": "宗馥莉挨桌敬酒大经销商",
+      "onboard_time": 1731072741,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 838430,
       "num": 838430,
       "word": "永夜星河开分7.5",
@@ -2265,14 +2273,6 @@
       "onboard_time": 1730683699,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 829931,
-      "num": 274072,
-      "word": "宗馥莉挨桌敬酒大经销商",
-      "onboard_time": 1731072741,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 829459,
@@ -2337,6 +2337,14 @@
       "onboard_time": 1730796681,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 815278,
+      "num": 761203,
+      "word": "丁禹兮 老粉比黑粉可怕",
+      "onboard_time": 1731070041,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 814633,
@@ -2419,6 +2427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 781152,
+      "num": 781152,
+      "word": "日本空手道小选手偷袭致对手瘫痪",
+      "onboard_time": 1731069559,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779317,
       "num": 779317,
       "word": "马斯克每天抽1名选民送100万美元",
@@ -2473,22 +2489,6 @@
       "onboard_time": 1730595440,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761222,
-      "num": 761222,
-      "word": "日本空手道小选手偷袭致对手瘫痪",
-      "onboard_time": 1731069559,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761203,
-      "num": 761203,
-      "word": "丁禹兮 老粉比黑粉可怕",
-      "onboard_time": 1731070041,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 760222,
@@ -2793,6 +2793,14 @@
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681594,
+      "num": 445955,
+      "word": "饶雪漫回应彭高翁青雅分手",
+      "onboard_time": 1731076101,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 677899,
@@ -3115,6 +3123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 627157,
+      "num": 627157,
+      "word": "7.7万名村支书村主任已被立案",
+      "onboard_time": 1731072980,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627145,
       "num": 627145,
       "word": "BLG教练",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1730599579,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 599168,
+      "num": 349053,
+      "word": "麦琳 我的痛苦和你们一起分享",
+      "onboard_time": 1731072019,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 598920,
@@ -3755,14 +3779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540053,
-      "num": 540053,
-      "word": "7.7万名村支书村主任已被立案",
-      "onboard_time": 1731072980,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538518,
       "num": 538518,
       "word": "工作室回应赵露思妆容和造型问题",
@@ -4243,6 +4259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470130,
+      "num": 328282,
+      "word": "麦琳撕伞",
+      "onboard_time": 1731075081,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468840,
       "num": 462185,
       "word": "红气养猴",
@@ -4395,6 +4419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449778,
+      "num": 341312,
+      "word": "腾冲酒店大厅堆满礼品和花",
+      "onboard_time": 1731075261,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449521,
       "num": 449521,
       "word": "周一围拍戏被拒300多次",
@@ -4441,14 +4473,6 @@
       "onboard_time": 1730617878,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 446059,
-      "num": 271559,
-      "word": "麦琳撕伞",
-      "onboard_time": 1731075081,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 445817,
@@ -4841,14 +4865,6 @@
       "onboard_time": 1730859141,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 412476,
-      "num": 304524,
-      "word": "麦琳 我的痛苦和你们一起分享",
-      "onboard_time": 1731072019,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 411753,
@@ -5353,6 +5369,14 @@
       "onboard_time": 1731035419,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363381,
+      "num": 363381,
+      "word": "秦彻战损",
+      "onboard_time": 1731074181,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 362779,
@@ -6235,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303002,
+      "num": 303002,
+      "word": "王楚钦世排仍比林诗栋高1000多分",
+      "onboard_time": 1731073882,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302191,
       "num": 383690,
       "word": "向佐回应不会和郭碧婷参加再见爱人",
@@ -6715,14 +6747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276819,
-      "num": 276819,
-      "word": "秦彻战损",
-      "onboard_time": 1731074181,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 276723,
       "num": 276723,
       "word": "肖战米黄色外套",
@@ -7139,6 +7163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 257557,
+      "num": 257557,
+      "word": "吴磊工作室致歉",
+      "onboard_time": 1731076702,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257537,
       "num": 257537,
       "word": "丁禹兮感情史 废话付出闭嘴",
@@ -7424,6 +7456,14 @@
       "word": "神舟飞船5次落在我们家草场",
       "onboard_time": 1730642600,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244804,
+      "num": 362359,
+      "word": "幼儿园上午演练孩子下午遇火灾逃生",
+      "onboard_time": 1731075561,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -8025,6 +8065,14 @@
       "onboard_time": 1730862864,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222449,
+      "num": 222449,
+      "word": "花海 挑战者杯当作最后一程",
+      "onboard_time": 1731076161,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 221855,
@@ -8945,6 +8993,14 @@
       "onboard_time": 1730971160,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201936,
+      "num": 201936,
+      "word": "陈可儿罗仪涵骆鑫拿到offer",
+      "onboard_time": 1731075622,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 201818,
@@ -9971,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185719,
+      "num": 185719,
+      "word": "庄超英一巴掌打了仨",
+      "onboard_time": 1731074961,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185427,
       "num": 185427,
       "word": "LPL",
@@ -10137,14 +10201,6 @@
       "onboard_time": 1731075021,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180911,
-      "num": 180911,
-      "word": "王楚钦世排仍比林诗栋高1000多分",
-      "onboard_time": 1731073882,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 180729,
@@ -10315,6 +10371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177730,
+      "num": 177730,
+      "word": "永夜星河男二女二先亲上了",
+      "onboard_time": 1731076581,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177547,
       "num": 177547,
       "word": "SuperJunior出道十九周年",
@@ -10403,6 +10467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176347,
+      "num": 176347,
+      "word": "吴磊受伤了",
+      "onboard_time": 1731076581,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176201,
       "num": 176201,
       "word": "于正白鹿合照",
@@ -10456,14 +10528,6 @@
       "word": "成都太古里回应Tiffany专柜被砸",
       "onboard_time": 1730816663,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174856,
-      "num": 174856,
-      "word": "腾冲酒店大厅堆满礼品和花",
-      "onboard_time": 1731075261,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -10793,14 +10857,6 @@
       "onboard_time": 1731029060,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 169668,
-      "num": 169668,
-      "word": "庄超英一巴掌打了仨",
-      "onboard_time": 1731074961,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 169583,
@@ -11505,6 +11561,14 @@
       "onboard_time": 1730560344,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160266,
+      "num": 160266,
+      "word": "癌症晚期男子怒砸店铺商家放弃追偿",
+      "onboard_time": 1731076642,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160169,
@@ -13515,6 +13579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125762,
+      "num": 353362,
+      "word": "林诗栋进四强",
+      "onboard_time": 1731075803,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125565,
       "num": 125565,
       "word": "十万彩礼做女友造谣者仍未道歉赔偿",
@@ -14171,14 +14243,6 @@
       "category": "电竞,作品衍生"
     },
     {
-      "raw_hot": 114958,
-      "num": 265533,
-      "word": "幼儿园上午演练孩子下午遇火灾逃生",
-      "onboard_time": 1731075561,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114903,
       "num": 175583,
       "word": "张拿铁禁制爸爸跟他说中文",
@@ -14633,6 +14697,14 @@
       "onboard_time": 1731059960,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105395,
+      "num": 351274,
+      "word": "林诗栋3比1松岛辉空",
+      "onboard_time": 1731075803,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 105322,
@@ -15363,6 +15435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81615,
+      "num": 308930,
+      "word": "花海挑战者杯当作最后一程",
+      "onboard_time": 1731075981,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81208,
       "num": 301180,
       "word": "珠帘玉幕珍心试炼局",
@@ -15883,12 +15963,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65050,
+      "num": 308301,
+      "word": "未参加公司跑步被辞管培生获赔2万",
+      "onboard_time": 1731074782,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64884,
       "num": 330524,
       "word": "张雨绮男友回应",
       "onboard_time": 1730572034,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64618,
+      "num": 238843,
+      "word": "珠帘玉幕海外热度",
+      "onboard_time": 1731076282,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 64296,
@@ -15905,6 +16001,14 @@
       "onboard_time": 1731061099,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63819,
+      "num": 356083,
+      "word": "郑钦文vs克雷吉茨科娃",
+      "onboard_time": 1731076222,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 63494,
@@ -16851,6 +16955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42540,
+      "num": 310513,
+      "word": "郑钦文备战年终半决赛",
+      "onboard_time": 1731076342,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42402,
       "num": 323474,
       "word": "16岁少年疑被骗至缅北后续",
@@ -17025,6 +17137,14 @@
       "onboard_time": 1730967980,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39650,
+      "num": 309906,
+      "word": "当你拿到樊振东的乒乓球你会怎么做",
+      "onboard_time": 1731075981,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 39300,
@@ -17289,14 +17409,6 @@
       "onboard_time": 1730974702,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35593,
-      "num": 274950,
-      "word": "未参加公司跑步被辞管培生获赔2万",
-      "onboard_time": 1731074782,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35551,
@@ -19321,6 +19433,14 @@
       "onboard_time": 1731052820,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9334,
+      "num": 311224,
+      "word": "喜剧大会第一轮嘻位之战",
+      "onboard_time": 1731076042,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 8427,
