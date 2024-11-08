@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731079403760,
+  "endTime": 1731080299996,
   "band_list": [
     {
       "raw_hot": 3645518,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036735,
+      "num": 1036735,
+      "word": "永夜星河男三 加戏",
+      "onboard_time": 1731078083,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1020626,
       "num": 1020626,
       "word": "谢娜首聊双胞胎",
@@ -289,6 +297,14 @@
       "onboard_time": 1730990005,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 984002,
+      "num": 480538,
+      "word": "拒绝日本人入住酒店公示不接日籍游客",
+      "onboard_time": 1731077362,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947226,
@@ -465,14 +481,6 @@
       "onboard_time": 1731075561,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687860,
-      "num": 687860,
-      "word": "永夜星河男三 加戏",
-      "onboard_time": 1731078083,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 677899,
@@ -659,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480538,
-      "num": 480538,
-      "word": "拒绝日本人入住酒店公示不接日籍游客",
-      "onboard_time": 1731077362,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472511,
       "num": 382428,
       "word": "伊能静回应艺人都去卖货了",
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 470130,
-      "num": 365641,
+      "num": 388442,
       "word": "麦琳撕伞",
       "onboard_time": 1731075081,
       "rank": 22,
@@ -849,6 +849,14 @@
       "onboard_time": 1731056899,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 377358,
+      "num": 377358,
+      "word": "男子偷窥儿子女友洗澡被行拘5日",
+      "onboard_time": 1731079821,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376135,
@@ -1051,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291361,
+      "num": 394892,
+      "word": "意大利返还56件中国文物艺术品",
+      "onboard_time": 1731077543,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 287338,
       "num": 276306,
       "word": "雷军能不能生产卫生巾",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1731045259,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283003,
-      "num": 283003,
-      "word": "意大利返还56件中国文物艺术品",
-      "onboard_time": 1731077543,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 280248,
@@ -1275,6 +1283,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 242437,
+      "num": 242437,
+      "word": "papi酱 黄圣依哀莫大于心死",
+      "onboard_time": 1731077182,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239848,
       "num": 254453,
       "word": "TheShy说明年复出后年转瓦",
@@ -1328,6 +1344,14 @@
       "word": "庄图南你这不是有嘴吗",
       "onboard_time": 1731045259,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223049,
+      "num": 223049,
+      "word": "关晓彤哭戏",
+      "onboard_time": 1731078621,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1395,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214317,
-      "num": 214317,
-      "word": "papi酱 黄圣依哀莫大于心死",
-      "onboard_time": 1731077182,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212311,
       "num": 262949,
       "word": "恋人全组都在看赵露思珠帘玉幕",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1731048799,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209848,
-      "num": 209848,
-      "word": "关晓彤哭戏",
-      "onboard_time": 1731078621,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 209525,
@@ -1723,12 +1731,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 183521,
+      "num": 183521,
+      "word": "黄执中 点评",
+      "onboard_time": 1731079700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183443,
       "num": 183443,
       "word": "闪耀暖暖",
       "onboard_time": 1731029300,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181118,
+      "num": 181118,
+      "word": "凌妙妙cos向佐",
+      "onboard_time": 1731079880,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 180961,
@@ -1745,6 +1769,14 @@
       "onboard_time": 1731039382,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179595,
+      "num": 179595,
+      "word": "失笑一相识二同居三恋爱",
+      "onboard_time": 1731079161,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 179517,
@@ -2059,20 +2091,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154007,
+      "num": 154007,
+      "word": "机器狼首次公开亮相",
+      "onboard_time": 1731079460,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 153825,
       "num": 153825,
       "word": "彭高恳请大家不要再指责任何人",
       "onboard_time": 1730988984,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152926,
-      "num": 152926,
-      "word": "失笑一相识二同居三恋爱",
-      "onboard_time": 1731079161,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 152489,
@@ -2233,6 +2265,14 @@
       "onboard_time": 1731064220,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140205,
+      "num": 140205,
+      "word": "胡夏现场",
+      "onboard_time": 1731079821,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 139674,
@@ -2763,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93605,
+      "num": 393331,
+      "word": "郑钦文vs克雷吉茨科娃",
+      "onboard_time": 1731076222,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92143,
       "num": 471006,
       "word": "疑似被骗至缅甸大学生联系家人",
@@ -3059,14 +3107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63819,
-      "num": 356083,
-      "word": "郑钦文vs克雷吉茨科娃",
-      "onboard_time": 1731076222,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61530,
       "num": 224278,
       "word": "刘宇宁演戏的含金量还在上升",
@@ -3155,6 +3195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55530,
+      "num": 391023,
+      "word": "老人药店晕倒无人扶引发质疑",
+      "onboard_time": 1731078921,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55128,
       "num": 194995,
       "word": "小鹏P7+又卖爆了",
@@ -3169,6 +3217,14 @@
       "onboard_time": 1730998936,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54510,
+      "num": 390561,
+      "word": "探访西安招聘要求陪睡公司",
+      "onboard_time": 1731078382,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54065,
@@ -3291,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41285,
-      "num": 390561,
-      "word": "探访西安招聘要求陪睡公司",
-      "onboard_time": 1731078382,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41028,
       "num": 172410,
       "word": "中学校长回应年薪50万招教师质疑",
@@ -3345,14 +3393,6 @@
       "onboard_time": 1731072201,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 36699,
-      "num": 390732,
-      "word": "老人药店晕倒无人扶引发质疑",
-      "onboard_time": 1731078921,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36562,
@@ -3483,8 +3523,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29208,
+      "num": 508722,
+      "word": "涉密人员因欠债窃取国家秘密被判无期",
+      "onboard_time": 1731078322,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27504,
-      "num": 978688,
+      "num": 1037130,
       "word": "一人一句致敬消防英雄",
       "onboard_time": 1731071181,
       "rank": 2,
@@ -3587,6 +3635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21692,
+      "num": 394075,
+      "word": "郑钦文破发",
+      "onboard_time": 1731079940,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21683,
+      "num": 393162,
+      "word": "关晓彤说庄筱婷是能闷声干大事的人",
+      "onboard_time": 1731079641,
+      "rank": 14,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 21467,
       "num": 230492,
       "word": "剑网三限量外观加NFT码",
@@ -3633,14 +3697,6 @@
       "onboard_time": 1731029598,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 18447,
-      "num": 508722,
-      "word": "涉密人员因欠债窃取国家秘密被判无期",
-      "onboard_time": 1731078322,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18069,
