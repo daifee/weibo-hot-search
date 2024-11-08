@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731101719909,
+  "endTime": 1731104464469,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -17739,6 +17739,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 36499,
+      "num": 36499,
+      "word": "何卓佳1比3张本美和",
+      "onboard_time": 1731095351,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36445,
       "num": 46943,
       "word": "王俊凯灰西装look",
@@ -18235,6 +18243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30390,
+      "num": 30390,
+      "word": "女子带日本人入住酒店被拒",
+      "onboard_time": 1731097991,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30171,
       "num": 30171,
       "word": "郑钦文2比0克雷吉茨科娃",
@@ -18395,6 +18411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27973,
+      "num": 43993,
+      "word": "官方称辽宁大巴起火已致30余人受伤",
+      "onboard_time": 1731097271,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27950,
       "num": 285112,
       "word": "比便宜京东采销没输过",
@@ -18489,14 +18513,6 @@
       "onboard_time": 1730836092,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26643,
-      "num": 26643,
-      "word": "何卓佳1比3张本美和",
-      "onboard_time": 1731095351,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 26484,
@@ -18595,14 +18611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25385,
-      "num": 25385,
-      "word": "女子带日本人入住酒店被拒",
-      "onboard_time": 1731097991,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25348,
       "num": 226286,
       "word": "陈幸同vs梅谢芙",
@@ -18617,6 +18625,14 @@
       "onboard_time": 1730608579,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25153,
+      "num": 53089,
+      "word": "沈阳交警通报沈海高速一起交通事故",
+      "onboard_time": 1731099311,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25101,
@@ -18747,6 +18763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23332,
+      "num": 25148,
+      "word": "佩斯科夫说普京不吃人",
+      "onboard_time": 1731097760,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 23278,
       "num": 23278,
       "word": "广西大学回应副院长被指强奸女学生",
@@ -18761,6 +18785,14 @@
       "onboard_time": 1730989890,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 23169,
+      "num": 25137,
+      "word": "上海迪士尼飘雪",
+      "onboard_time": 1731095051,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 23157,
@@ -18808,14 +18840,6 @@
       "word": "女子生命只剩仨月当志愿者10年后康复",
       "onboard_time": 1730914693,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22925,
-      "num": 43993,
-      "word": "官方称辽宁大巴起火已致30余人受伤",
-      "onboard_time": 1731097271,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -19009,14 +19033,6 @@
       "onboard_time": 1730744892,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 21108,
-      "num": 21108,
-      "word": "上海迪士尼飘雪",
-      "onboard_time": 1731095051,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 21032,
@@ -19249,14 +19265,6 @@
       "onboard_time": 1730665270,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18902,
-      "num": 18902,
-      "word": "佩斯科夫说普京不吃人",
-      "onboard_time": 1731097760,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 18895,
@@ -19811,14 +19819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12598,
-      "num": 53089,
-      "word": "沈阳交警通报沈海高速一起交通事故",
-      "onboard_time": 1731099311,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12361,
       "num": 26453,
       "word": "要加强新质战斗力建设",
@@ -19899,12 +19899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11024,
+      "num": 33037,
+      "word": "这young看进博",
+      "onboard_time": 1731102672,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10893,
       "num": 335007,
       "word": "丁禹兮微博关注玉溪文旅",
       "onboard_time": 1730897781,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10434,
+      "num": 33262,
+      "word": "警方回应男子取钱当街抛撒",
+      "onboard_time": 1731103992,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9963,
