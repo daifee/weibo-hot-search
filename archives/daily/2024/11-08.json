@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731037233215,
+  "endTime": 1731039977654,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1488592,
+      "num": 1488592,
+      "word": "特朗普获胜后拜登首次公开讲话",
+      "onboard_time": 1731034398,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1343014,
       "num": 354236,
       "word": "杜淳妻子王灿患病暴瘦",
@@ -73,14 +81,6 @@
       "onboard_time": 1730994020,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103114,
-      "num": 1103114,
-      "word": "特朗普获胜后拜登首次公开讲话",
-      "onboard_time": 1731034398,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 997429,
@@ -155,6 +155,14 @@
       "category": "国外时政,财经"
     },
     {
+      "raw_hot": 678781,
+      "num": 678781,
+      "word": "歼35A飞行画面",
+      "onboard_time": 1731038300,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 666243,
       "num": 666243,
       "word": "普京祝贺特朗普",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501091,
+      "num": 427371,
+      "word": "特朗普公布白宫办公厅主任人选",
+      "onboard_time": 1731038240,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 496103,
       "num": 496103,
       "word": "心动的信号 剪辑",
@@ -241,6 +257,14 @@
       "onboard_time": 1730982742,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459704,
+      "num": 459704,
+      "word": "转存歼35A这一瞬",
+      "onboard_time": 1731038539,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 452739,
@@ -291,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 364607,
+      "num": 364607,
+      "word": "王鹤棣泰国演唱会",
+      "onboard_time": 1731035419,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349396,
       "num": 349396,
       "word": "多名运动员为王楚钦发声",
@@ -299,12 +331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347392,
-      "num": 347392,
-      "word": "王鹤棣泰国演唱会",
-      "onboard_time": 1731035419,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 340156,
+      "num": 340156,
+      "word": "葛夕 我为什么要他同意呢",
+      "onboard_time": 1731034519,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 333201,
@@ -313,6 +345,14 @@
       "onboard_time": 1730996059,
       "rank": 29,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 329633,
+      "num": 329633,
+      "word": "周星星",
+      "onboard_time": 1731038660,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 312127,
@@ -337,6 +377,14 @@
       "onboard_time": 1730999414,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310193,
+      "num": 510120,
+      "word": "一年级女儿学唱大香蕉爸爸破防",
+      "onboard_time": 1731034039,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307780,
@@ -379,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292621,
-      "num": 292621,
-      "word": "葛夕 我为什么要他同意呢",
-      "onboard_time": 1731034519,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284659,
       "num": 443665,
       "word": "记者节",
@@ -419,6 +459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 257658,
+      "num": 257658,
+      "word": "任天堂闹钟为啥这么火",
+      "onboard_time": 1731037401,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 256457,
       "num": 306032,
       "word": "肖战 专辑",
@@ -435,12 +483,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 218308,
-      "num": 510120,
-      "word": "一年级女儿学唱大香蕉爸爸破防",
-      "onboard_time": 1731034039,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 220530,
+      "num": 235396,
+      "word": "俄功勋飞行员说为中国观众准备惊喜",
+      "onboard_time": 1731034998,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 217135,
@@ -449,6 +497,14 @@
       "onboard_time": 1730983222,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210896,
+      "num": 245205,
+      "word": "BIGBANG将合体",
+      "onboard_time": 1731038600,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 210750,
@@ -483,12 +539,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 202314,
+      "num": 236325,
+      "word": "庄图南 性格底色",
+      "onboard_time": 1731038600,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197501,
       "num": 273558,
       "word": "普京称若西方表现主动愿恢复接触",
       "onboard_time": 1731029060,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 194282,
+      "num": 194282,
+      "word": "这样玩手机既容易斜视又容易近视",
+      "onboard_time": 1731035479,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193739,
+      "num": 193739,
+      "word": "肖战专辑共10首歌曲",
+      "onboard_time": 1731037699,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 193676,
@@ -515,12 +595,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 188290,
+      "num": 188290,
+      "word": "人怎么可以内向成这样",
+      "onboard_time": 1731036199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187027,
       "num": 187027,
       "word": "终于明白北方人说三层穿衣法保暖了",
       "onboard_time": 1731022576,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185129,
+      "num": 185129,
+      "word": "拜登称将有一场和平的权力移交",
+      "onboard_time": 1731037160,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 183443,
@@ -563,20 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171689,
+      "num": 171689,
+      "word": "杨子把黄圣依气哭了",
+      "onboard_time": 1731039441,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171045,
       "num": 171045,
       "word": "刘青松回应被骂",
       "onboard_time": 1731029118,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170328,
-      "num": 151097,
-      "word": "这样玩手机既容易斜视又容易近视",
-      "onboard_time": 1731035479,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169792,
@@ -611,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161600,
+      "num": 161600,
+      "word": "A股大爆发 超4500只个股上涨",
+      "onboard_time": 1731039561,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155543,
       "num": 155543,
       "word": "周雨辟谣王楚钦比赛发烧",
@@ -643,12 +747,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150255,
-      "num": 150255,
-      "word": "人怎么可以内向成这样",
-      "onboard_time": 1731036199,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 148232,
+      "num": 148232,
+      "word": "春熙路的爬墙熊猫有班味儿了",
+      "onboard_time": 1731037401,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147299,
@@ -667,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137751,
+      "num": 137751,
+      "word": "丫丫喜提mini滑梯",
+      "onboard_time": 1731036859,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136636,
       "num": 136636,
       "word": "大理寺少卿游发了新海报",
       "onboard_time": 1731024981,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136222,
-      "num": 235396,
-      "word": "俄功勋飞行员说为中国观众准备惊喜",
-      "onboard_time": 1731034998,
-      "rank": 35,
-      "category": "军事"
     },
     {
       "raw_hot": 133103,
@@ -731,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124680,
+      "num": 124680,
+      "word": "疑被骗至缅甸大学生遭殴打不能说话",
+      "onboard_time": 1731039382,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124447,
       "num": 124447,
       "word": "林诗栋vs杜达",
       "onboard_time": 1730995280,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123455,
+      "num": 232602,
+      "word": "原生鸿蒙版微博能发live图了",
+      "onboard_time": 1731039742,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 123344,
@@ -827,20 +947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106850,
+      "num": 284335,
+      "word": "再见爱人",
+      "onboard_time": 1731039742,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104434,
       "num": 104434,
       "word": "2025年江苏共编制9504个录用计划",
       "onboard_time": 1730994441,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 104324,
-      "num": 104324,
-      "word": "丫丫喜提mini滑梯",
-      "onboard_time": 1731036859,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 102890,
@@ -961,14 +1081,6 @@
       "onboard_time": 1731034160,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 87816,
-      "num": 87816,
-      "word": "拜登称将有一场和平的权力移交",
-      "onboard_time": 1731037160,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 86921,
@@ -1107,6 +1219,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 57883,
+      "num": 1236638,
+      "word": "外交部回应美国大选结果",
+      "onboard_time": 1731036620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57794,
       "num": 57794,
       "word": "科研人员的凡尔赛让朱广权愣住了",
@@ -1123,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55128,
+      "num": 194995,
+      "word": "小鹏P7+又卖爆了",
+      "onboard_time": 1731035179,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54925,
       "num": 54925,
       "word": "王多多说LPL要打败一次Faker",
@@ -1137,14 +1265,6 @@
       "onboard_time": 1731035119,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48717,
-      "num": 194995,
-      "word": "小鹏P7+又卖爆了",
-      "onboard_time": 1731035179,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 48598,
@@ -1187,12 +1307,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 33725,
-      "num": 1236638,
-      "word": "外交部回应美国大选结果",
-      "onboard_time": 1731036620,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 34218,
+      "num": 226829,
+      "word": "冰川上穿着波司登的中国来客",
+      "onboard_time": 1731038721,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 31106,
@@ -1217,6 +1337,22 @@
       "onboard_time": 1731005173,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28943,
+      "num": 329649,
+      "word": "荣耀Magic7镜头里的毛晓彤",
+      "onboard_time": 1731038721,
+      "rank": 15,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 23038,
+      "num": 330190,
+      "word": "A股",
+      "onboard_time": 1730944279,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 23030,
@@ -1289,6 +1425,14 @@
       "onboard_time": 1731006612,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5689,
+      "num": 290731,
+      "word": "美联储再降息对A股影响有多大",
+      "onboard_time": 1731039861,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 5643,

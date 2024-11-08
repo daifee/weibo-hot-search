@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731037233215,
+  "endTime": 1731039977654,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1083,6 +1083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1488592,
+      "num": 1488592,
+      "word": "特朗普获胜后拜登首次公开讲话",
+      "onboard_time": 1731034398,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1487459,
       "num": 656936,
       "word": "花少 骨瓷",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1730444417,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1103114,
-      "num": 1103114,
-      "word": "特朗普获胜后拜登首次公开讲话",
-      "onboard_time": 1731034398,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1101807,
@@ -3225,6 +3225,14 @@
       "onboard_time": 1730687837,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678781,
+      "num": 678781,
+      "word": "歼35A飞行画面",
+      "onboard_time": 1731038300,
+      "rank": 6,
+      "category": "军事"
     },
     {
       "raw_hot": 677482,
@@ -4803,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501091,
+      "num": 427371,
+      "word": "特朗普公布白宫办公厅主任人选",
+      "onboard_time": 1731038240,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -5177,6 +5193,14 @@
       "onboard_time": 1730593097,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459704,
+      "num": 459704,
+      "word": "转存歼35A这一瞬",
+      "onboard_time": 1731038539,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 458173,
@@ -6427,6 +6451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364607,
+      "num": 364607,
+      "word": "王鹤棣泰国演唱会",
+      "onboard_time": 1731035419,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364457,
       "num": 364457,
       "word": "武大博士一人拿下24万元奖学金",
@@ -6651,14 +6683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 347392,
-      "num": 347392,
-      "word": "王鹤棣泰国演唱会",
-      "onboard_time": 1731035419,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 347004,
       "num": 347004,
       "word": "王楚钦加油",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1730762116,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340156,
+      "num": 340156,
+      "word": "葛夕 我为什么要他同意呢",
+      "onboard_time": 1731034519,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 340072,
@@ -7033,6 +7065,14 @@
       "onboard_time": 1730956101,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329633,
+      "num": 329633,
+      "word": "周星星",
+      "onboard_time": 1731038660,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 328188,
@@ -7337,6 +7377,14 @@
       "onboard_time": 1730796621,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310193,
+      "num": 510120,
+      "word": "一年级女儿学唱大香蕉爸爸破防",
+      "onboard_time": 1731034039,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308893,
@@ -7689,14 +7737,6 @@
       "onboard_time": 1730920391,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292621,
-      "num": 292621,
-      "word": "葛夕 我为什么要他同意呢",
-      "onboard_time": 1731034519,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 291956,
@@ -8513,6 +8553,14 @@
       "onboard_time": 1730795720,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257658,
+      "num": 257658,
+      "word": "任天堂闹钟为啥这么火",
+      "onboard_time": 1731037401,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 257537,
@@ -9396,7 +9444,7 @@
     },
     {
       "raw_hot": 225080,
-      "num": 225080,
+      "num": 284335,
       "word": "再见爱人",
       "onboard_time": 1730504117,
       "rank": 46,
@@ -9579,6 +9627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220530,
+      "num": 235396,
+      "word": "俄功勋飞行员说为中国观众准备惊喜",
+      "onboard_time": 1731034998,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 220435,
       "num": 220435,
       "word": "林孝埈受伤",
@@ -9657,14 +9713,6 @@
       "onboard_time": 1730727321,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 218308,
-      "num": 510120,
-      "word": "一年级女儿学唱大香蕉爸爸破防",
-      "onboard_time": 1731034039,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217220,
@@ -9937,6 +9985,14 @@
       "onboard_time": 1730432419,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210896,
+      "num": 245205,
+      "word": "BIGBANG将合体",
+      "onboard_time": 1731038600,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 210827,
@@ -10539,6 +10595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 202314,
+      "num": 236325,
+      "word": "庄图南 性格底色",
+      "onboard_time": 1731038600,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202279,
       "num": 202279,
       "word": "提醒在西班牙中国公民防范灾害",
@@ -11139,6 +11203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194282,
+      "num": 194282,
+      "word": "这样玩手机既容易斜视又容易近视",
+      "onboard_time": 1731035479,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194107,
       "num": 194107,
       "word": "一起打卡大美中国",
@@ -11177,6 +11249,14 @@
       "onboard_time": 1730715019,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193739,
+      "num": 193739,
+      "word": "肖战专辑共10首歌曲",
+      "onboard_time": 1731037699,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 193734,
@@ -11555,6 +11635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188290,
+      "num": 188290,
+      "word": "人怎么可以内向成这样",
+      "onboard_time": 1731036199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187913,
       "num": 323450,
       "word": "王阳 帅而不油",
@@ -11737,6 +11825,14 @@
       "onboard_time": 1730573178,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185129,
+      "num": 185129,
+      "word": "拜登称将有一场和平的权力移交",
+      "onboard_time": 1731037160,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 185081,
@@ -12651,6 +12747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171689,
+      "num": 171689,
+      "word": "杨子把黄圣依气哭了",
+      "onboard_time": 1731039441,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171585,
       "num": 317743,
       "word": "烧伤妈妈说这辈子的苦一次性吃完了",
@@ -12753,14 +12857,6 @@
       "onboard_time": 1730550138,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170328,
-      "num": 151097,
-      "word": "这样玩手机既容易斜视又容易近视",
-      "onboard_time": 1731035479,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170209,
@@ -13441,6 +13537,14 @@
       "onboard_time": 1730811082,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161600,
+      "num": 161600,
+      "word": "A股大爆发 超4500只个股上涨",
+      "onboard_time": 1731039561,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 161522,
@@ -14307,14 +14411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150255,
-      "num": 150255,
-      "word": "人怎么可以内向成这样",
-      "onboard_time": 1731036199,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150214,
       "num": 150214,
       "word": "白宇 侠之大者",
@@ -14489,6 +14585,14 @@
       "onboard_time": 1730661311,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148232,
+      "num": 148232,
+      "word": "春熙路的爬墙熊猫有班味儿了",
+      "onboard_time": 1731037401,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148193,
@@ -15363,6 +15467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137751,
+      "num": 137751,
+      "word": "丫丫喜提mini滑梯",
+      "onboard_time": 1731036859,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137668,
       "num": 137668,
       "word": "朱志鑫全副武装",
@@ -15441,14 +15553,6 @@
       "onboard_time": 1730731401,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136222,
-      "num": 235396,
-      "word": "俄功勋飞行员说为中国观众准备惊喜",
-      "onboard_time": 1731034998,
-      "rank": 35,
-      "category": "军事"
     },
     {
       "raw_hot": 136036,
@@ -16291,6 +16395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124680,
+      "num": 124680,
+      "word": "疑被骗至缅甸大学生遭殴打不能说话",
+      "onboard_time": 1731039382,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124660,
       "num": 124660,
       "word": "烧伤妈妈看到孩子视频落泪",
@@ -16433,6 +16545,14 @@
       "onboard_time": 1730428699,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123455,
+      "num": 232602,
+      "word": "原生鸿蒙版微博能发live图了",
+      "onboard_time": 1731039742,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 123344,
@@ -17675,14 +17795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104324,
-      "num": 104324,
-      "word": "丫丫喜提mini滑梯",
-      "onboard_time": 1731036859,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104264,
       "num": 104264,
       "word": "徐嘉余晒游泳队团建照",
@@ -18337,14 +18449,6 @@
       "onboard_time": 1730849660,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87816,
-      "num": 87816,
-      "word": "拜登称将有一场和平的权力移交",
-      "onboard_time": 1731037160,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 87742,
@@ -19739,6 +19843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55128,
+      "num": 194995,
+      "word": "小鹏P7+又卖爆了",
+      "onboard_time": 1731035179,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55009,
       "num": 379435,
       "word": "单身女性的互助式养老生活",
@@ -20073,14 +20185,6 @@
       "onboard_time": 1730809461,
       "rank": 21,
       "category": "剧集,数码"
-    },
-    {
-      "raw_hot": 48717,
-      "num": 194995,
-      "word": "小鹏P7+又卖爆了",
-      "onboard_time": 1731035179,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 48598,
@@ -21147,6 +21251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34218,
+      "num": 226829,
+      "word": "冰川上穿着波司登的中国来客",
+      "onboard_time": 1731038721,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34167,
       "num": 53337,
       "word": "王一博联合国气候变化大会宣传视频",
@@ -21617,6 +21729,14 @@
       "onboard_time": 1730703078,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28943,
+      "num": 329649,
+      "word": "荣耀Magic7镜头里的毛晓彤",
+      "onboard_time": 1731038721,
+      "rank": 15,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 28684,
@@ -23529,6 +23649,14 @@
       "onboard_time": 1730961680,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5689,
+      "num": 290731,
+      "word": "美联储再降息对A股影响有多大",
+      "onboard_time": 1731039861,
+      "rank": 19,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
