@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731043302183,
+  "endTime": 1731044348933,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -59,20 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1528099,
+      "num": 1528099,
+      "word": "普京表示俄罗斯站在中国一边",
+      "onboard_time": 1731042621,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1497182,
+      "num": 1442273,
+      "word": "周星星",
+      "onboard_time": 1731038660,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1488592,
       "num": 1488592,
       "word": "特朗普获胜后拜登首次公开讲话",
       "onboard_time": 1731034398,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1442273,
-      "num": 1442273,
-      "word": "周星星",
-      "onboard_time": 1731038660,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1343014,
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1194229,
-      "num": 1194229,
+      "raw_hot": 1317299,
+      "num": 1317299,
       "word": "失联大学生李高人在柬埔寨赌场",
       "onboard_time": 1731041181,
       "rank": 4,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 466977,
-      "num": 221748,
+      "num": 295463,
       "word": "专家建议18到25岁年轻人要多谈恋爱",
       "onboard_time": 1731040161,
       "rank": 32,
@@ -305,14 +313,6 @@
       "onboard_time": 1731038539,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 452995,
-      "num": 452995,
-      "word": "普京表示俄罗斯站在中国一边",
-      "onboard_time": 1731042621,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 452739,
@@ -345,6 +345,22 @@
       "onboard_time": 1731021257,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 396277,
+      "num": 396277,
+      "word": "王鹤棣邀请何老师参加桃花坞",
+      "onboard_time": 1731042681,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 392617,
+      "num": 335983,
+      "word": "陶昕然8岁女儿首次公开亮相",
+      "onboard_time": 1731042800,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 376135,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263313,
+      "num": 263313,
+      "word": "Doinb回应涵艺爆料",
+      "onboard_time": 1731043221,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 261221,
       "num": 261221,
       "word": "马斯克接受采访中儿子突然闯进来",
@@ -537,14 +561,6 @@
       "onboard_time": 1730988865,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 231193,
-      "num": 231193,
-      "word": "王鹤棣邀请何老师参加桃花坞",
-      "onboard_time": 1731042681,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 221523,
@@ -593,14 +609,6 @@
       "onboard_time": 1731038600,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209952,
-      "num": 209952,
-      "word": "陶昕然8岁女儿首次公开亮相",
-      "onboard_time": 1731042800,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 209525,
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 179742,
-      "num": 179742,
+      "num": 355412,
       "word": "疑被骗至缅甸大学生遭殴打不能说话",
       "onboard_time": 1731039382,
       "rank": 49,
@@ -744,14 +752,6 @@
       "word": "涵艺说JackeyLove不可能回iG",
       "onboard_time": 1731031938,
       "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 174808,
-      "num": 174808,
-      "word": "Doinb回应涵艺爆料",
-      "onboard_time": 1731043221,
-      "rank": 30,
       "category": "电竞"
     },
     {
@@ -803,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169323,
+      "num": 169323,
+      "word": "为什么建议买冬装要搜原产地",
+      "onboard_time": 1731043641,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 167788,
       "num": 167788,
       "word": "中所互免签证",
@@ -841,6 +849,14 @@
       "onboard_time": 1731037401,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157904,
+      "num": 157904,
+      "word": "赵露思读信哭到读不下去",
+      "onboard_time": 1731043760,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155543,
@@ -899,6 +915,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144756,
+      "num": 144756,
+      "word": "劳斯莱斯女车主不要货车司机赔偿",
+      "onboard_time": 1731028999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144488,
+      "num": 144488,
+      "word": "喜剧大会",
+      "onboard_time": 1731043221,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "华晨宇直播过早",
+      "onboard_time": 1731043520,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139674,
       "num": 139674,
       "word": "张泉灵 我很困扰和无力",
@@ -953,6 +993,14 @@
       "onboard_time": 1731029060,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130245,
+      "num": 130245,
+      "word": "发型师晓华称平时比现在赚得多点",
+      "onboard_time": 1731043520,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 130012,
@@ -1059,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116169,
+      "num": 148681,
+      "word": "高校确认辱骂殴打空少女子非本校人员",
+      "onboard_time": 1731043760,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116155,
       "num": 116155,
       "word": "涵艺说WBG中路准备签Chovy",
       "onboard_time": 1730992702,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115632,
+      "num": 115632,
+      "word": "2024珠海航展",
+      "onboard_time": 1731044301,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 112200,
@@ -1168,14 +1232,6 @@
       "word": "连俄罗斯人都能看懂的中国戏剧",
       "onboard_time": 1731036980,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91963,
-      "num": 91963,
-      "word": "劳斯莱斯女车主不要货车司机赔偿",
-      "onboard_time": 1731028999,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49293,
+      "num": 306463,
+      "word": "原生家庭对婚姻的影响有多大",
+      "onboard_time": 1731044301,
+      "rank": 19,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 48598,
       "num": 310379,
       "word": "何卓佳说再战张本美和做好自己",
@@ -1563,6 +1627,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 17581,
+      "num": 113221,
+      "word": "王一博的黑色羽绒服",
+      "onboard_time": 1731044240,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 16731,
       "num": 36467,
       "word": "走出一条新时期中美正确相处之道",
@@ -1584,6 +1656,14 @@
       "word": "记者第一次进鸡棚差点被臭个跟头",
       "onboard_time": 1731006612,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5934,
+      "num": 473707,
+      "word": "真心建议拆完快递好好洗手",
+      "onboard_time": 1731044301,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731043302183,
+  "endTime": 1731044348933,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1528099,
+      "num": 1528099,
+      "word": "普京表示俄罗斯站在中国一边",
+      "onboard_time": 1731042621,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1513878,
       "num": 1513878,
       "word": "公司宣布将暂停王承渲一切工作",
@@ -873,6 +881,14 @@
       "onboard_time": 1730861601,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1497182,
+      "num": 1442273,
+      "word": "周星星",
+      "onboard_time": 1731038660,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1488592,
@@ -952,14 +968,6 @@
       "word": "赵露思回应网友说她以前比较好看",
       "onboard_time": 1730990005,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1442273,
-      "num": 1442273,
-      "word": "周星星",
-      "onboard_time": 1731038660,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1099,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1317299,
+      "num": 1317299,
+      "word": "失联大学生李高人在柬埔寨赌场",
+      "onboard_time": 1731041181,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1314280,
       "num": 1314280,
       "word": "乌克兰称已同朝鲜军队发生交战",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1730874625,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1194229,
-      "num": 1194229,
-      "word": "失联大学生李高人在柬埔寨赌场",
-      "onboard_time": 1731041181,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1177039,
@@ -3948,7 +3956,7 @@
     },
     {
       "raw_hot": 466977,
-      "num": 221748,
+      "num": 295463,
       "word": "专家建议18到25岁年轻人要多谈恋爱",
       "onboard_time": 1731040161,
       "rank": 32,
@@ -4025,14 +4033,6 @@
       "onboard_time": 1730595918,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 452995,
-      "num": 452995,
-      "word": "普京表示俄罗斯站在中国一边",
-      "onboard_time": 1731042621,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 452739,
@@ -4643,12 +4643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396277,
+      "num": 396277,
+      "word": "王鹤棣邀请何老师参加桃花坞",
+      "onboard_time": 1731042681,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395298,
       "num": 395298,
       "word": "中国人吃掉了智利91%的车厘子",
       "onboard_time": 1730940322,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392617,
+      "num": 335983,
+      "word": "陶昕然8岁女儿首次公开亮相",
+      "onboard_time": 1731042800,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 392138,
@@ -6451,6 +6467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 263313,
+      "num": 263313,
+      "word": "Doinb回应涵艺爆料",
+      "onboard_time": 1731043221,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262802,
       "num": 262802,
       "word": "珠帘玉幕第10集 偷偷藏不住",
@@ -7123,14 +7147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231193,
-      "num": 231193,
-      "word": "王鹤棣邀请何老师参加桃花坞",
-      "onboard_time": 1731042681,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230753,
       "num": 230753,
       "word": "王一栩救星",
@@ -7713,14 +7729,6 @@
       "onboard_time": 1730772680,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209952,
-      "num": 209952,
-      "word": "陶昕然8岁女儿首次公开亮相",
-      "onboard_time": 1731042800,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 209773,
@@ -9388,7 +9396,7 @@
     },
     {
       "raw_hot": 179742,
-      "num": 179742,
+      "num": 355412,
       "word": "疑被骗至缅甸大学生遭殴打不能说话",
       "onboard_time": 1731039382,
       "rank": 49,
@@ -9577,14 +9585,6 @@
       "onboard_time": 1730816663,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174808,
-      "num": 174808,
-      "word": "Doinb回应涵艺爆料",
-      "onboard_time": 1731043221,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 174781,
@@ -9929,6 +9929,14 @@
       "onboard_time": 1730968579,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169323,
+      "num": 169323,
+      "word": "为什么建议买冬装要搜原产地",
+      "onboard_time": 1731043641,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 169239,
@@ -10643,6 +10651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157904,
+      "num": 157904,
+      "word": "赵露思读信哭到读不下去",
+      "onboard_time": 1731043760,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157879,
       "num": 157879,
       "word": "空警500A将亮相中国航展",
@@ -11339,6 +11355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144756,
+      "num": 144756,
+      "word": "劳斯莱斯女车主不要货车司机赔偿",
+      "onboard_time": 1731028999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144708,
       "num": 144708,
       "word": "凌妙妙人生镜头",
@@ -11347,12 +11371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144488,
+      "num": 144488,
+      "word": "喜剧大会",
+      "onboard_time": 1731043221,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144318,
       "num": 175905,
       "word": "刘涛祝杨紫生日快乐破茧成蝶",
       "onboard_time": 1730885063,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "华晨宇直播过早",
+      "onboard_time": 1731043520,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 143844,
@@ -12049,6 +12089,14 @@
       "onboard_time": 1730806942,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130245,
+      "num": 130245,
+      "word": "发型师晓华称平时比现在赚得多点",
+      "onboard_time": 1731043520,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 130093,
@@ -12859,6 +12907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116169,
+      "num": 148681,
+      "word": "高校确认辱骂殴打空少女子非本校人员",
+      "onboard_time": 1731043760,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115632,
+      "num": 115632,
+      "word": "2024珠海航展",
+      "onboard_time": 1731044301,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 115018,
       "num": 115018,
       "word": "林肯公园ban了吗",
@@ -13633,14 +13697,6 @@
       "onboard_time": 1730959520,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91963,
-      "num": 91963,
-      "word": "劳斯莱斯女车主不要货车司机赔偿",
-      "onboard_time": 1731028999,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91390,
@@ -15017,6 +15073,14 @@
       "onboard_time": 1731035119,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49293,
+      "num": 306463,
+      "word": "原生家庭对婚姻的影响有多大",
+      "onboard_time": 1731044301,
+      "rank": 19,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 48853,
@@ -16995,6 +17059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17581,
+      "num": 113221,
+      "word": "王一博的黑色羽绒服",
+      "onboard_time": 1731044240,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 17521,
       "num": 127151,
       "word": "辽宁饭店老板娘报平安",
@@ -17488,6 +17560,14 @@
       "word": "进博会开启人从众模式",
       "onboard_time": 1730961680,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5934,
+      "num": 473707,
+      "word": "真心建议拆完快递好好洗手",
+      "onboard_time": 1731044301,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
