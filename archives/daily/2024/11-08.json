@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731057777078,
+  "endTime": 1731058607753,
   "band_list": [
     {
       "raw_hot": 3645518,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786755,
+      "num": 294081,
+      "word": "女子发工资1636以为收到验证码",
+      "onboard_time": 1731056000,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753271,
       "num": 671946,
       "word": "徐若瑄被曝患癌后回应",
@@ -251,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 737745,
-      "num": 294081,
-      "word": "女子发工资1636以为收到验证码",
-      "onboard_time": 1731056000,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 740587,
+      "num": 740587,
+      "word": "易烊千玺谈和周雨彤对手戏",
+      "onboard_time": 1731055940,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 719834,
@@ -281,14 +289,6 @@
       "onboard_time": 1731021015,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 695908,
-      "num": 491918,
-      "word": "易烊千玺谈和周雨彤对手戏",
-      "onboard_time": 1731055940,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 693332,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502661,
+      "num": 502661,
+      "word": "草莓麻薯火锅",
+      "onboard_time": 1731056479,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 496103,
       "num": 496103,
       "word": "心动的信号 剪辑",
@@ -499,12 +507,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386154,
+      "num": 386154,
+      "word": "A50",
+      "onboard_time": 1731056899,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 376135,
       "num": 294768,
       "word": "杨洋疑似受伤",
       "onboard_time": 1731028760,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374469,
+      "num": 374469,
+      "word": "黄圣依父母不支持黄圣依杨子结婚",
+      "onboard_time": 1731056241,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 372505,
@@ -577,14 +601,6 @@
       "onboard_time": 1731039441,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325272,
-      "num": 325272,
-      "word": "草莓麻薯火锅",
-      "onboard_time": 1731056479,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 312127,
@@ -707,6 +723,22 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 278387,
+      "num": 418068,
+      "word": "法律专家谈39岁男子工作期间猝死",
+      "onboard_time": 1731054980,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277349,
+      "num": 277349,
+      "word": "赵一博追永夜星河",
+      "onboard_time": 1731057380,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273861,
       "num": 273861,
       "word": "微信运动一个很私密的东西",
@@ -729,14 +761,6 @@
       "onboard_time": 1731045199,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 272741,
-      "num": 272741,
-      "word": "黄圣依父母不支持黄圣依杨子结婚",
-      "onboard_time": 1731056241,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 265639,
@@ -859,6 +883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 230466,
+      "num": 230466,
+      "word": "易烊千玺现在不敢演刘春和了",
+      "onboard_time": 1731057800,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229090,
       "num": 229090,
       "word": "庄图南你这不是有嘴吗",
@@ -971,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202709,
-      "num": 202709,
-      "word": "A50",
-      "onboard_time": 1731056899,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "世界文化遗产遭以色列炮火威胁",
@@ -987,8 +1011,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 201222,
-      "num": 201222,
+      "raw_hot": 201577,
+      "num": 201577,
       "word": "学前教育法来了",
       "onboard_time": 1731056718,
       "rank": 35,
@@ -1059,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193313,
+      "num": 384016,
+      "word": "第25个记者节致敬军事记者",
+      "onboard_time": 1731058100,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 193163,
       "num": 233753,
       "word": "对接回应肖战将发布个人专辑",
@@ -1075,6 +1107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 191820,
+      "num": 191820,
+      "word": "和他打乒乓球比分已经不重要了",
+      "onboard_time": 1731058220,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191450,
       "num": 191450,
       "word": "茶百道 成毅",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1731022576,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186617,
-      "num": 186617,
-      "word": "赵一博追永夜星河",
-      "onboard_time": 1731057380,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 185129,
@@ -1259,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162947,
+      "num": 162947,
+      "word": "韩安冉说她是Angelababy粉丝",
+      "onboard_time": 1731057981,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161783,
       "num": 161783,
       "word": "土象星座是最合格的前任",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1730988984,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152596,
+      "num": 152596,
+      "word": "永夜星河再登顶云合",
+      "onboard_time": 1731058220,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152313,
@@ -1579,6 +1627,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 123991,
+      "num": 123991,
+      "word": "一个cha给我干回青你了",
+      "onboard_time": 1731058581,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123455,
       "num": 232602,
       "word": "原生鸿蒙版微博能发live图了",
@@ -1627,6 +1683,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 120992,
+      "num": 295939,
+      "word": "从大厂离职的人最后去哪了",
+      "onboard_time": 1731054739,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120858,
       "num": 120858,
       "word": "足迹是记者的勋章",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1730986765,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 119751,
+      "num": 119751,
+      "word": "摄影说歼35A跟不上焦抓拍太难",
+      "onboard_time": 1731057860,
+      "rank": 49,
+      "category": "军事,数码"
     },
     {
       "raw_hot": 119436,
@@ -1763,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98779,
+      "num": 325783,
+      "word": "25块的短途高铁真的赢很大",
+      "onboard_time": 1731056718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97698,
       "num": 102113,
       "word": "papi酱 杨子假装在戏弄人间",
@@ -1787,28 +1867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94656,
-      "num": 418068,
-      "word": "法律专家谈39岁男子工作期间猝死",
-      "onboard_time": 1731054980,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92143,
       "num": 471006,
       "word": "疑似被骗至缅甸大学生联系家人",
       "onboard_time": 1731049338,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91731,
-      "num": 295939,
-      "word": "从大厂离职的人最后去哪了",
-      "onboard_time": 1731054739,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 91119,
@@ -1955,14 +2019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70360,
-      "num": 325783,
-      "word": "25块的短途高铁真的赢很大",
-      "onboard_time": 1731056718,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69787,
       "num": 397192,
       "word": "檀健次说猎罪图鉴2快了",
@@ -1983,6 +2039,14 @@
       "num": 378915,
       "word": "男子偷拿女友手机转账15万被判刑",
       "onboard_time": 1731053060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68392,
+      "num": 295932,
+      "word": "武汉警方回应博主在天兴洲捡到人骨",
+      "onboard_time": 1731056960,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -2051,6 +2115,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 57928,
+      "num": 230480,
+      "word": "载有辽师大学生客车高速起火",
+      "onboard_time": 1731057981,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57883,
       "num": 1376193,
       "word": "外交部回应美国大选结果",
@@ -2065,6 +2137,14 @@
       "onboard_time": 1731012072,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57247,
+      "num": 210413,
+      "word": "邓超红发扫楼",
+      "onboard_time": 1731057440,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 55854,
@@ -2227,20 +2307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33830,
-      "num": 295932,
-      "word": "武汉警方回应博主在天兴洲捡到人骨",
-      "onboard_time": 1731056960,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32414,
       "num": 805688,
       "word": "昆明臭肉事件学校再被处罚",
       "onboard_time": 1731054980,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31589,
+      "num": 258666,
+      "word": "极氪无图城市NZP万人公测",
+      "onboard_time": 1731056059,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 31495,
@@ -2281,14 +2361,6 @@
       "onboard_time": 1731005173,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28262,
-      "num": 258666,
-      "word": "极氪无图城市NZP万人公测",
-      "onboard_time": 1731056059,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 27124,
@@ -2339,12 +2411,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21110,
+      "raw_hot": 22393,
       "num": 149484,
       "word": "真的会被陌生人的善意打动",
       "onboard_time": 1731056000,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21467,
+      "num": 230492,
+      "word": "剑网三限量外观加NFT码",
+      "onboard_time": 1731058402,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 20634,
+      "num": 230522,
+      "word": "无罪之身班底",
+      "onboard_time": 1731058581,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 19463,

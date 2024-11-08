@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731057777078,
+  "endTime": 1731058607753,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2283,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 786755,
+      "num": 294081,
+      "word": "女子发工资1636以为收到验证码",
+      "onboard_time": 1731056000,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783701,
       "num": 484704,
       "word": "美32个州和华盛顿特区结束大选投票",
@@ -2419,12 +2427,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 737745,
-      "num": 294081,
-      "word": "女子发工资1636以为收到验证码",
-      "onboard_time": 1731056000,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 740587,
+      "num": 740587,
+      "word": "易烊千玺谈和周雨彤对手戏",
+      "onboard_time": 1731055940,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 734419,
@@ -2593,14 +2601,6 @@
       "onboard_time": 1731021015,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 695908,
-      "num": 491918,
-      "word": "易烊千玺谈和周雨彤对手戏",
-      "onboard_time": 1731055940,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 695039,
@@ -3835,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502661,
+      "num": 502661,
+      "word": "草莓麻薯火锅",
+      "onboard_time": 1731056479,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -4859,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386154,
+      "num": 386154,
+      "word": "A50",
+      "onboard_time": 1731056899,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 386024,
       "num": 394627,
       "word": "虞书欣让新浪下次还找她",
@@ -4969,6 +4985,14 @@
       "onboard_time": 1730913494,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374469,
+      "num": 374469,
+      "word": "黄圣依父母不支持黄圣依杨子结婚",
+      "onboard_time": 1731056241,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 374076,
@@ -5633,14 +5657,6 @@
       "onboard_time": 1730868806,
       "rank": 28,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 325272,
-      "num": 325272,
-      "word": "草莓麻薯火锅",
-      "onboard_time": 1731056479,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 323948,
@@ -6387,6 +6403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 278387,
+      "num": 418068,
+      "word": "法律专家谈39岁男子工作期间猝死",
+      "onboard_time": 1731054980,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278075,
       "num": 347094,
       "word": "马斯克突然来北京是谣言",
@@ -6416,6 +6440,14 @@
       "word": "西北岁月定档",
       "onboard_time": 1730604080,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277349,
+      "num": 277349,
+      "word": "赵一博追永夜星河",
+      "onboard_time": 1731057380,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -6519,14 +6551,6 @@
       "num": 391713,
       "word": "大侦探团综 群像",
       "onboard_time": 1730873364,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 272741,
-      "num": 272741,
-      "word": "黄圣依父母不支持黄圣依杨子结婚",
-      "onboard_time": 1731056241,
       "rank": 25,
       "category": "综艺"
     },
@@ -7449,6 +7473,14 @@
       "onboard_time": 1730637738,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230466,
+      "num": 230466,
+      "word": "易烊千玺现在不敢演刘春和了",
+      "onboard_time": 1731057800,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 230434,
@@ -8491,14 +8523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202709,
-      "num": 202709,
-      "word": "A50",
-      "onboard_time": 1731056899,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202661,
       "num": 289339,
       "word": "珠帘玉幕云合首登顶",
@@ -8571,6 +8595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201577,
+      "num": 201577,
+      "word": "学前教育法来了",
+      "onboard_time": 1731056718,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201506,
       "num": 445689,
       "word": "徐明浩直播",
@@ -8593,14 +8625,6 @@
       "onboard_time": 1730876497,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201222,
-      "num": 201222,
-      "word": "学前教育法来了",
-      "onboard_time": 1731056718,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 201202,
@@ -9155,6 +9179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193313,
+      "num": 384016,
+      "word": "第25个记者节致敬军事记者",
+      "onboard_time": 1731058100,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 193163,
       "num": 233753,
       "word": "对接回应肖战将发布个人专辑",
@@ -9209,6 +9241,14 @@
       "onboard_time": 1730805921,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191820,
+      "num": 191820,
+      "word": "和他打乒乓球比分已经不重要了",
+      "onboard_time": 1731058220,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 191675,
@@ -9489,14 +9529,6 @@
       "onboard_time": 1730848578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186617,
-      "num": 186617,
-      "word": "赵一博追永夜星河",
-      "onboard_time": 1731057380,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 186616,
@@ -10739,6 +10771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162947,
+      "num": 162947,
+      "word": "韩安冉说她是Angelababy粉丝",
+      "onboard_time": 1731057981,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162856,
       "num": 162856,
       "word": "天津市考",
@@ -11353,6 +11393,14 @@
       "onboard_time": 1730867245,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 152596,
+      "num": 152596,
+      "word": "永夜星河再登顶云合",
+      "onboard_time": 1731058220,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152552,
@@ -13019,6 +13067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123991,
+      "num": 123991,
+      "word": "一个cha给我干回青你了",
+      "onboard_time": 1731058581,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123791,
       "num": 123791,
       "word": "光夜 邻国那个年轻君主",
@@ -13259,6 +13315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120992,
+      "num": 295939,
+      "word": "从大厂离职的人最后去哪了",
+      "onboard_time": 1731054739,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120919,
       "num": 120919,
       "word": "一句赵叔直接从外国干回东北地头",
@@ -13305,6 +13369,14 @@
       "onboard_time": 1730570115,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119751,
+      "num": 119751,
+      "word": "摄影说歼35A跟不上焦抓拍太难",
+      "onboard_time": 1731057860,
+      "rank": 49,
+      "category": "军事,数码"
     },
     {
       "raw_hot": 119740,
@@ -14067,6 +14139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98779,
+      "num": 325783,
+      "word": "25块的短途高铁真的赢很大",
+      "onboard_time": 1731056718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98594,
       "num": 129498,
       "word": "马龙分享奥运经历",
@@ -14219,14 +14299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94656,
-      "num": 418068,
-      "word": "法律专家谈39岁男子工作期间猝死",
-      "onboard_time": 1731054980,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94468,
       "num": 94468,
       "word": "美国B52战略轰炸机抵达中东",
@@ -14265,14 +14337,6 @@
       "onboard_time": 1730959520,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91731,
-      "num": 295939,
-      "word": "从大厂离职的人最后去哪了",
-      "onboard_time": 1731054739,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 91390,
@@ -14811,14 +14875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70360,
-      "num": 325783,
-      "word": "25块的短途高铁真的赢很大",
-      "onboard_time": 1731056718,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70038,
       "num": 438728,
       "word": "原来不是总监首席也能剪好头发",
@@ -14944,6 +15000,14 @@
       "word": "大风天出门小心高空坠物",
       "onboard_time": 1730766621,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68392,
+      "num": 295932,
+      "word": "武汉警方回应博主在天兴洲捡到人骨",
+      "onboard_time": 1731056960,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -15331,6 +15395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57928,
+      "num": 230480,
+      "word": "载有辽师大学生客车高速起火",
+      "onboard_time": 1731057981,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57848,
       "num": 446723,
       "word": "企业退休人员养老金提至3162元",
@@ -15353,6 +15425,14 @@
       "onboard_time": 1730989045,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 57247,
+      "num": 210413,
+      "word": "邓超红发扫楼",
+      "onboard_time": 1731057440,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 56918,
@@ -16603,14 +16683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33830,
-      "num": 295932,
-      "word": "武汉警方回应博主在天兴洲捡到人骨",
-      "onboard_time": 1731056960,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33708,
       "num": 33708,
       "word": "返回舱舱门打开",
@@ -16745,6 +16817,14 @@
       "onboard_time": 1730730622,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31589,
+      "num": 258666,
+      "word": "极氪无图城市NZP万人公测",
+      "onboard_time": 1731056059,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 31547,
@@ -16945,14 +17025,6 @@
       "onboard_time": 1730885662,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 28262,
-      "num": 258666,
-      "word": "极氪无图城市NZP万人公测",
-      "onboard_time": 1731056059,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 28212,
@@ -17379,6 +17451,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 22393,
+      "num": 149484,
+      "word": "真的会被陌生人的善意打动",
+      "onboard_time": 1731056000,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22248,
       "num": 280376,
       "word": "离开大厂我为5000个失意人塔罗占卜",
@@ -17451,6 +17531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21467,
+      "num": 230492,
+      "word": "剑网三限量外观加NFT码",
+      "onboard_time": 1731058402,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21386,
       "num": 302860,
       "word": "主播深夜出动在墓地求刷礼物",
@@ -17483,14 +17571,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 21110,
-      "num": 149484,
-      "word": "真的会被陌生人的善意打动",
-      "onboard_time": 1731056000,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 21032,
       "num": 439942,
       "word": "男子应聘货车司机被套路买车",
@@ -17521,6 +17601,14 @@
       "onboard_time": 1730717058,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 20634,
+      "num": 230522,
+      "word": "无罪之身班底",
+      "onboard_time": 1731058581,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 20613,
