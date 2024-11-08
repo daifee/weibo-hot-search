@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731105503133,
+  "endTime": 1731108095103,
   "band_list": [
     {
       "raw_hot": 1760293,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 701422,
-      "num": 701422,
+      "num": 783518,
       "word": "郑钦文晋级总决赛争冠战",
       "onboard_time": 1731086295,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 673060,
+      "num": 172184,
+      "word": "知情人称要求陪睡公司总有女生应聘",
+      "onboard_time": 1731089113,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621586,
@@ -72,6 +80,14 @@
       "word": "麦琳 我的痛苦和你们一起分享",
       "onboard_time": 1731072019,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 406385,
+      "num": 406385,
+      "word": "麦琳撕伞",
+      "onboard_time": 1731075081,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 373446,
-      "num": 295689,
+      "num": 297371,
       "word": "papi酱 黄圣依哀莫大于心死",
       "onboard_time": 1731077182,
       "rank": 15,
@@ -153,14 +169,6 @@
       "onboard_time": 1731070459,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310582,
-      "num": 93810,
-      "word": "知情人称要求陪睡公司总有女生应聘",
-      "onboard_time": 1731089113,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293516,
@@ -219,14 +227,6 @@
       "category": "社会新闻,母婴育儿"
     },
     {
-      "raw_hot": 210019,
-      "num": 210019,
-      "word": "麦琳撕伞",
-      "onboard_time": 1731075081,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208068,
       "num": 208068,
       "word": "凌妙妙cos向佐",
@@ -283,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160030,
+      "num": 160030,
+      "word": "郑钦文世界排名上升到第五",
+      "onboard_time": 1731088154,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150043,
       "num": 150043,
       "word": "7.7万名村支书村主任已被立案",
       "onboard_time": 1731072980,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144065,
-      "num": 144065,
-      "word": "郑钦文世界排名上升到第五",
-      "onboard_time": 1731088154,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 140749,
@@ -491,11 +491,83 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67969,
+      "num": 96812,
+      "word": "警方回应男子取钱当街抛撒",
+      "onboard_time": 1731103992,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65609,
+      "num": 65609,
+      "word": "何卓佳1比3张本美和",
+      "onboard_time": 1731095351,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62804,
+      "num": 62804,
+      "word": "普京称特朗普是条勇敢的汉子",
+      "onboard_time": 1731059602,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 61839,
       "num": 259827,
       "word": "陈幸同vs大藤沙月",
       "onboard_time": 1731085815,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60763,
+      "num": 60763,
+      "word": "以色列球迷在荷兰遭群殴",
+      "onboard_time": 1731107114,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57807,
+      "num": 178059,
+      "word": "疑似李高视频称20万赎金是骗人的",
+      "onboard_time": 1731107054,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54100,
+      "num": 54100,
+      "word": "女子带日本人入住酒店被拒",
+      "onboard_time": 1731097991,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53440,
+      "num": 53440,
+      "word": "在狗狗身上看到了左右为难",
+      "onboard_time": 1731105014,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52532,
+      "num": 52532,
+      "word": "被执行人打工4年还清16万激动到哽咽",
+      "onboard_time": 1731107174,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49296,
+      "num": 49296,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1731108015,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -515,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46584,
+      "num": 46584,
+      "word": "王艺迪回应光速晋级四强",
+      "onboard_time": 1731106935,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45476,
       "num": 46874,
       "word": "丁禹兮说老粉是并肩同行的伙伴",
@@ -523,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44123,
-      "num": 44123,
-      "word": "何卓佳1比3张本美和",
-      "onboard_time": 1731095351,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 41309,
+      "num": 46560,
+      "word": "官方称辽宁大巴起火已致30余人受伤",
+      "onboard_time": 1731097271,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41110,
@@ -537,6 +617,22 @@
       "onboard_time": 1731081740,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39832,
+      "num": 46430,
+      "word": "李清照为护文物不惜入狱手撕渣男",
+      "onboard_time": 1731107595,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 39399,
+      "num": 46406,
+      "word": "上海迪士尼飘雪",
+      "onboard_time": 1731095051,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 33327,
@@ -563,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30390,
-      "num": 30390,
-      "word": "女子带日本人入住酒店被拒",
-      "onboard_time": 1731097991,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30171,
       "num": 30171,
       "word": "郑钦文2比0克雷吉茨科娃",
@@ -579,35 +667,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29856,
-      "num": 43993,
-      "word": "官方称辽宁大巴起火已致30余人受伤",
-      "onboard_time": 1731097271,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29754,
-      "num": 29754,
-      "word": "上海迪士尼飘雪",
-      "onboard_time": 1731095051,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 25692,
       "num": 53089,
       "word": "沈阳交警通报沈海高速一起交通事故",
       "onboard_time": 1731099311,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25019,
-      "num": 96812,
-      "word": "警方回应男子取钱当街抛撒",
-      "onboard_time": 1731103992,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -641,14 +705,6 @@
       "onboard_time": 1731091813,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18278,
-      "num": 25569,
-      "word": "在狗狗身上看到了左右为难",
-      "onboard_time": 1731105014,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 17795,
@@ -713,6 +769,14 @@
       "onboard_time": 1731102672,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6520,
+      "num": 61220,
+      "word": "何洁唱的是盛夏忆的是乘风",
+      "onboard_time": 1731107356,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 6044,
