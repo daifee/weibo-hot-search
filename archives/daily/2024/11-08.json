@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731034311421,
+  "endTime": 1731034842873,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2034243,
+      "num": 906560,
+      "word": "黄圣依再次选择了离婚",
+      "onboard_time": 1731033139,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1668948,
       "num": 460975,
       "word": "彭高翁青雅分手",
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1461670,
-      "num": 872545,
-      "word": "黄圣依再次选择了离婚",
-      "onboard_time": 1731033139,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 1442196,
+      "num": 1442196,
+      "word": "全国结婚人数止跌回升",
+      "onboard_time": 1731032118,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1343014,
@@ -49,14 +57,6 @@
       "onboard_time": 1731024201,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1251990,
-      "num": 1251990,
-      "word": "全国结婚人数止跌回升",
-      "onboard_time": 1731032118,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1177039,
@@ -219,8 +219,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 425056,
-      "num": 425056,
+      "raw_hot": 444825,
+      "num": 444825,
       "word": "黄金一夜大涨50美元",
       "onboard_time": 1731028640,
       "rank": 46,
@@ -275,6 +275,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 312127,
+      "num": 312127,
+      "word": "华侨大学",
+      "onboard_time": 1731031040,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 310977,
       "num": 310977,
       "word": "永夜星河热度",
@@ -296,6 +304,14 @@
       "word": "劳斯莱斯女车主和货车司机签协议",
       "onboard_time": 1731022157,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300808,
+      "num": 267913,
+      "word": "撞劳斯莱斯货车司机发文",
+      "onboard_time": 1731030979,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -323,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292902,
-      "num": 292902,
-      "word": "华侨大学",
-      "onboard_time": 1731031040,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 284659,
       "num": 443665,
       "word": "记者节",
@@ -347,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 273299,
+      "num": 273299,
+      "word": "疑似被骗至缅甸大学生家属被索要20万",
+      "onboard_time": 1731032418,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261221,
       "num": 261221,
       "word": "马斯克接受采访中儿子突然闯进来",
@@ -361,14 +377,6 @@
       "onboard_time": 1730992343,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 251601,
-      "num": 251601,
-      "word": "撞劳斯莱斯货车司机发文",
-      "onboard_time": 1731030979,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237257,
@@ -419,6 +427,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 197324,
+      "num": 197324,
+      "word": "特朗普获胜后拜登首次公开讲话",
+      "onboard_time": 1731034398,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 196994,
+      "num": 196994,
+      "word": "一年级女儿学唱大香蕉爸爸破防",
+      "onboard_time": 1731034039,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193163,
       "num": 233753,
       "word": "对接回应肖战将发布个人专辑",
@@ -467,8 +491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175029,
-      "num": 175029,
+      "raw_hot": 175895,
+      "num": 175895,
       "word": "涵艺说JackeyLove不可能回iG",
       "onboard_time": 1731031938,
       "rank": 31,
@@ -489,6 +513,14 @@
       "onboard_time": 1730989404,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171925,
+      "num": 311710,
+      "word": "监控还原39人遇难火灾经过",
+      "onboard_time": 1731034398,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171045,
@@ -563,12 +595,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149069,
-      "num": 272138,
-      "word": "疑似被骗至缅甸大学生家属被索要20万",
-      "onboard_time": 1731032418,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 148957,
+      "num": 148957,
+      "word": "葛夕 我为什么要他同意呢",
+      "onboard_time": 1731034519,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 147299,
@@ -635,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128004,
-      "num": 128004,
-      "word": "一年级女儿学唱大香蕉爸爸破防",
-      "onboard_time": 1731034039,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125035,
       "num": 125035,
       "word": "黑龙江水煮冰排和雾凇同框出现",
@@ -673,6 +697,14 @@
       "onboard_time": 1731025220,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121520,
+      "num": 121520,
+      "word": "凯源",
+      "onboard_time": 1731022939,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120858,
@@ -713,14 +745,6 @@
       "onboard_time": 1730980162,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112192,
-      "num": 112192,
-      "word": "凯源",
-      "onboard_time": 1731022939,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 111127,
@@ -819,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90772,
+      "num": 298658,
+      "word": "现在比任何时候都更需要专业记者挺身而出",
+      "onboard_time": 1731032718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90163,
       "num": 96085,
       "word": "王曼昱vs朱芊曦",
@@ -897,14 +929,6 @@
       "onboard_time": 1730996838,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68780,
-      "num": 298658,
-      "word": "现在比任何时候都更需要专业记者挺身而出",
-      "onboard_time": 1731032718,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66018,
@@ -993,6 +1017,14 @@
       "onboard_time": 1730998936,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48598,
+      "num": 310379,
+      "word": "何卓佳说再战张本美和做好自己",
+      "onboard_time": 1731034460,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 47957,
@@ -1107,8 +1139,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5808,
+      "num": 150986,
+      "word": "保暖内衣面料也讲究成分配比",
+      "onboard_time": 1731034460,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 5643,
-      "num": 937768,
+      "num": 992244,
       "word": "一起看进博",
       "onboard_time": 1730983282,
       "rank": 2,
