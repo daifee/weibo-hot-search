@@ -1,7 +1,15 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731055262442,
+  "endTime": 1731057777078,
   "band_list": [
+    {
+      "raw_hot": 3645518,
+      "num": 771639,
+      "word": "拒接待日本人酒店称腾冲一直都这样",
+      "onboard_time": 1731053601,
+      "rank": 10,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 2584320,
       "num": 2584320,
@@ -51,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1953571,
+      "num": 1953571,
+      "word": "6万亿",
+      "onboard_time": 1731054019,
+      "rank": 18,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 1860293,
       "num": 859827,
       "word": "怀胎八月不做产检孩子不见了",
@@ -73,14 +89,6 @@
       "onboard_time": 1731032118,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636282,
-      "num": 1636282,
-      "word": "6万亿",
-      "onboard_time": 1731054019,
-      "rank": 18,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 1628280,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216543,
+      "num": 1216543,
+      "word": "李行亮 表演型人格",
+      "onboard_time": 1731052760,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1177039,
       "num": 1177039,
       "word": "民警着急大吼这是23万不是23块",
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 771639,
-      "num": 771639,
-      "word": "拒接待日本人酒店称腾冲一直都这样",
-      "onboard_time": 1731053601,
-      "rank": 10,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 753271,
       "num": 671946,
       "word": "徐若瑄被曝患癌后回应",
@@ -243,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 747213,
-      "num": 962010,
-      "word": "李行亮 表演型人格",
-      "onboard_time": 1731052760,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 737745,
+      "num": 294081,
+      "word": "女子发工资1636以为收到验证码",
+      "onboard_time": 1731056000,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719834,
@@ -273,6 +281,14 @@
       "onboard_time": 1731021015,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 695908,
+      "num": 491918,
+      "word": "易烊千玺谈和周雨彤对手戏",
+      "onboard_time": 1731055940,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 693332,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337075,
+      "num": 337075,
+      "word": "王源生日现场",
+      "onboard_time": 1731055519,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333201,
       "num": 333201,
       "word": "董宇辉就涉内蒙古烧卖争议言论致歉",
@@ -553,6 +577,14 @@
       "onboard_time": 1731039441,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325272,
+      "num": 325272,
+      "word": "草莓麻薯火锅",
+      "onboard_time": 1731056479,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 312127,
@@ -609,6 +641,14 @@
       "onboard_time": 1731031219,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 296131,
+      "num": 296131,
+      "word": "周一围拍戏被拒300多次",
+      "onboard_time": 1731056119,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 294552,
@@ -691,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 272741,
+      "num": 272741,
+      "word": "黄圣依父母不支持黄圣依杨子结婚",
+      "onboard_time": 1731056241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265639,
       "num": 265639,
       "word": "易烊千玺用半年时间才走出角色",
@@ -729,6 +777,14 @@
       "onboard_time": 1731053778,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 258396,
+      "num": 258396,
+      "word": "麦琳情商",
+      "onboard_time": 1731055100,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 257658,
@@ -915,12 +971,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202709,
+      "num": 202709,
+      "word": "A50",
+      "onboard_time": 1731056899,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "世界文化遗产遭以色列炮火威胁",
       "onboard_time": 1731029060,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 201222,
+      "num": 201222,
+      "word": "学前教育法来了",
+      "onboard_time": 1731056718,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 200251,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1731022576,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186617,
+      "num": 186617,
+      "word": "赵一博追永夜星河",
+      "onboard_time": 1731057380,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 185129,
@@ -1203,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158038,
-      "num": 158038,
-      "word": "麦琳情商",
-      "onboard_time": 1731055100,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155832,
       "num": 155832,
       "word": "冬季防寒保暖要从头开始",
@@ -1387,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134761,
+      "num": 329749,
+      "word": "我国地方化债压力将大大减轻",
+      "onboard_time": 1731056180,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "永夜星河热度破29500",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1731039742,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125216,
+      "num": 125216,
+      "word": "上海爷叔爱在深秋账号被封",
+      "onboard_time": 1731055459,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 125035,
@@ -1595,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111544,
+      "num": 325405,
+      "word": "增加10万亿元地方化债资源",
+      "onboard_time": 1731055940,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111127,
       "num": 111127,
       "word": "恋综 分手",
@@ -1692,7 +1788,7 @@
     },
     {
       "raw_hot": 94656,
-      "num": 151882,
+      "num": 418068,
       "word": "法律专家谈39岁男子工作期间猝死",
       "onboard_time": 1731054980,
       "rank": 47,
@@ -1705,6 +1801,14 @@
       "onboard_time": 1731049338,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91731,
+      "num": 295939,
+      "word": "从大厂离职的人最后去哪了",
+      "onboard_time": 1731054739,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 91119,
@@ -1851,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70360,
+      "num": 325783,
+      "word": "25块的短途高铁真的赢很大",
+      "onboard_time": 1731056718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69787,
       "num": 397192,
       "word": "檀健次说猎罪图鉴2快了",
@@ -1889,6 +2001,14 @@
       "onboard_time": 1730997737,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65740,
+      "num": 296127,
+      "word": "郑云龙扫楼状态",
+      "onboard_time": 1731056899,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 65580,
@@ -2043,6 +2163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 41822,
+      "num": 259238,
+      "word": "时光音乐会 女性群像",
+      "onboard_time": 1731055400,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41028,
       "num": 172410,
       "word": "中学校长回应年薪50万招教师质疑",
@@ -2051,20 +2179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38818,
+      "num": 132622,
+      "word": "王曼昱称伤势并不影响比赛",
+      "onboard_time": 1731056600,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37456,
       "num": 571094,
       "word": "王一博的黑色羽绒服",
       "onboard_time": 1731044240,
       "rank": 45,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 36710,
-      "num": 165487,
-      "word": "从大厂离职的人最后去哪了",
-      "onboard_time": 1731054739,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 36562,
@@ -2097,6 +2225,14 @@
       "onboard_time": 1731048079,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33830,
+      "num": 295932,
+      "word": "武汉警方回应博主在天兴洲捡到人骨",
+      "onboard_time": 1731056960,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32414,
@@ -2147,6 +2283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28262,
+      "num": 258666,
+      "word": "极氪无图城市NZP万人公测",
+      "onboard_time": 1731056059,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 27124,
+      "num": 230786,
+      "word": "吴磊戴华为手表解锁骑行酷体验",
+      "onboard_time": 1731053659,
+      "rank": 35,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 25101,
       "num": 424254,
       "word": "苦情短视频假剧情伤害真骑手",
@@ -2187,12 +2339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20341,
-      "num": 230786,
-      "word": "吴磊戴华为手表解锁骑行酷体验",
-      "onboard_time": 1731053659,
-      "rank": 35,
-      "category": "艺人,数码"
+      "raw_hot": 21110,
+      "num": 149484,
+      "word": "真的会被陌生人的善意打动",
+      "onboard_time": 1731056000,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 19463,
@@ -2228,7 +2380,7 @@
     },
     {
       "raw_hot": 16731,
-      "num": 36467,
+      "num": 1056673,
       "word": "走出一条新时期中美正确相处之道",
       "onboard_time": 1731012251,
       "rank": 13,
@@ -2295,6 +2447,9 @@
     },
     {
       "word": "#习主席秘鲁巴西之行#"
+    },
+    {
+      "word": "#总书记这样勉励湖北#"
     }
   ]
 }
