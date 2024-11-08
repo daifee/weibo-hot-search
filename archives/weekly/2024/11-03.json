@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731083599331,
+  "endTime": 1731084215142,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5355,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373446,
+      "num": 295689,
+      "word": "papi酱 黄圣依哀莫大于心死",
+      "onboard_time": 1731077182,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373050,
       "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
@@ -6241,14 +6249,6 @@
       "onboard_time": 1730966540,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311276,
-      "num": 249265,
-      "word": "papi酱 黄圣依哀莫大于心死",
-      "onboard_time": 1731077182,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 311028,
@@ -7371,6 +7371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254444,
+      "num": 233714,
+      "word": "郑钦文1比0克雷吉茨科娃",
+      "onboard_time": 1731081740,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253917,
       "num": 253917,
       "word": "Minnie吴宣仪Freen合照",
@@ -8315,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215759,
+      "num": 288589,
+      "word": "外国人称无法勘探被中国人找到大气田",
+      "onboard_time": 1731080540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215586,
       "num": 215586,
       "word": "BLG原班人马再战一年可能性多大",
@@ -8489,14 +8505,6 @@
       "onboard_time": 1730704039,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212088,
-      "num": 233714,
-      "word": "郑钦文1比0克雷吉茨科娃",
-      "onboard_time": 1731081740,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 211831,
@@ -9915,14 +9923,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190627,
-      "num": 288589,
-      "word": "外国人称无法勘探被中国人找到大气田",
-      "onboard_time": 1731080540,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190509,
       "num": 250960,
       "word": "蒲熠星去看KPL了",
@@ -10097,6 +10097,14 @@
       "onboard_time": 1731022576,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186960,
+      "num": 186960,
+      "word": "烧伤妈妈第一次和儿子视频大哭",
+      "onboard_time": 1731082879,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186918,
@@ -10521,6 +10529,14 @@
       "onboard_time": 1730689998,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177915,
+      "num": 177915,
+      "word": "丁禹兮展示建构甲",
+      "onboard_time": 1731083480,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177899,
@@ -12091,14 +12107,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 154003,
-      "num": 136854,
-      "word": "丁禹兮展示建构甲",
-      "onboard_time": 1731083480,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153993,
       "num": 883785,
       "word": "A股三大指数全线翻红",
@@ -13155,14 +13163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137553,
-      "num": 137553,
-      "word": "烧伤妈妈第一次和儿子视频大哭",
-      "onboard_time": 1731082879,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137115,
       "num": 268654,
       "word": "副局长推介大米英语东北话无缝切换",
@@ -13451,6 +13451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132030,
+      "num": 391023,
+      "word": "老人药店晕倒无人扶引发质疑",
+      "onboard_time": 1731078921,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131654,
       "num": 131654,
       "word": "樊振东表达对体育的热爱",
@@ -13729,14 +13737,6 @@
       "onboard_time": 1730993062,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126587,
-      "num": 391023,
-      "word": "老人药店晕倒无人扶引发质疑",
-      "onboard_time": 1731078921,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126540,
@@ -15681,6 +15681,14 @@
       "onboard_time": 1730890883,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81081,
+      "num": 81081,
+      "word": "八一飞行表演队壁纸上新",
+      "onboard_time": 1731081320,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 80680,
