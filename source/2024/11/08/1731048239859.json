@@ -1,0 +1,410 @@
+{
+  "runTime": 1731048239859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865831,
+        "num": 1865831,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1486184,
+        "num": 1486184,
+        "word": "博主称易建联绯闻对象乔姐已入狱",
+        "onboard_time": 1731044660,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 49061,
+        "num": 1248919,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1731036620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1095351,
+        "num": 1095351,
+        "word": "腾冲一酒店拒绝为日本人办理入住",
+        "onboard_time": 1731044660,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020626,
+        "num": 1020626,
+        "word": "谢娜首聊双胞胎",
+        "onboard_time": 1731046340,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788016,
+        "num": 788016,
+        "word": "黄圣依再次选择了离婚",
+        "onboard_time": 1731033139,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661231,
+        "num": 661231,
+        "word": "失联大学生李高人在柬埔寨赌场",
+        "onboard_time": 1731041181,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588500,
+        "num": 588500,
+        "word": "麦琳哭喊罢录",
+        "onboard_time": 1731045319,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95207,
+        "num": 571317,
+        "word": "劣质美瞳或导致视力下降",
+        "onboard_time": 1731047359,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163224,
+        "num": 571146,
+        "word": "高校确认辱骂殴打空少女子非本校人员",
+        "onboard_time": 1731043760,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37456,
+        "num": 571094,
+        "word": "王一博的黑色羽绒服",
+        "onboard_time": 1731044240,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 571079,
+        "num": 571079,
+        "word": "李行亮 既要又要",
+        "onboard_time": 1731044961,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453727,
+        "num": 453727,
+        "word": "监控还原39人遇难火灾经过",
+        "onboard_time": 1731034398,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426070,
+        "num": 426070,
+        "word": "歼35A飞行画面",
+        "onboard_time": 1731038300,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 25101,
+        "num": 424254,
+        "word": "苦情短视频假剧情伤害真骑手",
+        "onboard_time": 1731048138,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422466,
+        "num": 422466,
+        "word": "广州投放绝育雄蚊子",
+        "onboard_time": 1731040043,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379424,
+        "num": 379424,
+        "word": "被骗缅甸男生妈妈决定卖房救子",
+        "onboard_time": 1731030379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121699,
+        "num": 371103,
+        "word": "鲁豫的一个举动让陶昕然记了十年",
+        "onboard_time": 1731047958,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365242,
+        "num": 365242,
+        "word": "周星星",
+        "onboard_time": 1731038660,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321214,
+        "num": 321214,
+        "word": "特朗普获胜后拜登首次公开讲话",
+        "onboard_time": 1731034398,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 420961,
+        "num": 318542,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310632,
+        "num": 310632,
+        "word": "全国结婚人数止跌回升",
+        "onboard_time": 1731032118,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289811,
+        "num": 289811,
+        "word": "男子8天加班41小时工作中猝死",
+        "onboard_time": 1731045440,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286768,
+        "num": 286768,
+        "word": "专家建议18到25岁年轻人要多谈恋爱",
+        "onboard_time": 1731040161,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243312,
+        "num": 243312,
+        "word": "裸机的快乐只有0次和无数次",
+        "onboard_time": 1731045199,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199384,
+        "num": 238675,
+        "word": "疑似大梦归离官配婚后生活",
+        "onboard_time": 1731047058,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197242,
+        "num": 235974,
+        "word": "赵露思读信哭到读不下去",
+        "onboard_time": 1731043760,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235083,
+        "num": 235083,
+        "word": "闫安为王楚钦发声",
+        "onboard_time": 1731045259,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34423,
+        "num": 224243,
+        "word": "杨子知道自己爹味但不想改",
+        "onboard_time": 1731048079,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23353,
+        "num": 219916,
+        "word": "钎城分享长沙美食",
+        "onboard_time": 1731047958,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219173,
+        "num": 219173,
+        "word": "真心建议拆完快递好好洗手",
+        "onboard_time": 1731044301,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206400,
+        "num": 206400,
+        "word": "结婚找不到伴娘是人缘差的体现吗",
+        "onboard_time": 1731044359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203169,
+        "num": 203169,
+        "word": "为什么建议买冬装要搜原产地",
+        "onboard_time": 1731043641,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 200357,
+        "num": 200357,
+        "word": "转存歼35A这一瞬",
+        "onboard_time": 1731038539,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 178588,
+        "num": 178588,
+        "word": "麦琳画师",
+        "onboard_time": 1731046280,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171629,
+        "num": 171629,
+        "word": "难怪彭高没去张远演唱会",
+        "onboard_time": 1731034940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170320,
+        "num": 170320,
+        "word": "Doinb回应涵艺爆料",
+        "onboard_time": 1731043221,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162796,
+        "num": 162796,
+        "word": "庄图南你这不是有嘴吗",
+        "onboard_time": 1731045259,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162285,
+        "num": 162285,
+        "word": "美一医学研究机构43只实验猴出逃",
+        "onboard_time": 1731045680,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156674,
+        "num": 156674,
+        "word": "陶昕然8岁女儿首次公开亮相",
+        "onboard_time": 1731042800,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94943,
+        "num": 155824,
+        "word": "B超里的我们",
+        "onboard_time": 1731047301,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155172,
+        "num": 155172,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154952,
+        "num": 154952,
+        "word": "劳斯莱斯女车主不要货车司机赔偿",
+        "onboard_time": 1731028999,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153533,
+        "num": 153533,
+        "word": "特朗普公布白宫办公厅主任人选",
+        "onboard_time": 1731038240,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146135,
+        "num": 146135,
+        "word": "因为记者所以记着",
+        "onboard_time": 1731048079,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70667,
+        "num": 141926,
+        "word": "绝区零星见雅",
+        "onboard_time": 1731046880,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141279,
+        "num": 141279,
+        "word": "曝叶珂曾在婚内给男主播刷百万礼物",
+        "onboard_time": 1731041602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137000,
+        "num": 137000,
+        "word": "普京称中国有绝对平衡的政策",
+        "onboard_time": 1731047840,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136047,
+        "num": 136047,
+        "word": "发型师晓华称平时比现在赚得多点",
+        "onboard_time": 1731043520,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 132348,
+        "num": 132348,
+        "word": "爸妈在农村做流水席的一天",
+        "onboard_time": 1731044060,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
