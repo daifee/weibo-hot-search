@@ -1,0 +1,410 @@
+{
+  "runTime": 1731094484666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 161332,
+        "num": 161332,
+        "word": "永夜星河男三 加戏",
+        "onboard_time": 1731078083,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140518,
+        "num": 140518,
+        "word": "郑钦文晋级总决赛争冠战",
+        "onboard_time": 1731086295,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2393,
+        "num": 103057,
+        "word": "逛进博看新潮",
+        "onboard_time": 1731070819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90979,
+        "num": 90979,
+        "word": "理发师晓华回应同行质疑",
+        "onboard_time": 1731089593,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86469,
+        "num": 86469,
+        "word": "郑钦文世界排名上升到第五",
+        "onboard_time": 1731088154,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83477,
+        "num": 83477,
+        "word": "饶雪漫回应彭高翁青雅分手",
+        "onboard_time": 1731076101,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82801,
+        "num": 82801,
+        "word": "麦琳撕伞",
+        "onboard_time": 1731075081,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79533,
+        "num": 79533,
+        "word": "麦琳 我的痛苦和你们一起分享",
+        "onboard_time": 1731072019,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70032,
+        "num": 70032,
+        "word": "残障老人遭猥亵嫌疑人扣3个月工资",
+        "onboard_time": 1731086117,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62775,
+        "num": 66610,
+        "word": "癌症晚期男子怒砸店铺商家放弃追偿",
+        "onboard_time": 1731076642,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165504,
+        "num": 65886,
+        "word": "男子偷窥儿子女友洗澡被行拘5日",
+        "onboard_time": 1731079821,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155609,
+        "num": 65505,
+        "word": "拒绝日本人入住酒店公示不接日籍游客",
+        "onboard_time": 1731077362,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64743,
+        "num": 64743,
+        "word": "丁禹兮 老粉比黑粉可怕",
+        "onboard_time": 1731070041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63852,
+        "num": 63852,
+        "word": "永夜星河",
+        "onboard_time": 1731066138,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15198,
+        "num": 62493,
+        "word": "鲍威尔否认下台传言",
+        "onboard_time": 1731092952,
+        "rank": 14,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 61384,
+        "num": 61384,
+        "word": "哈里斯说普京会把特朗普当午餐吃掉",
+        "onboard_time": 1731067579,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60595,
+        "num": 60595,
+        "word": "意大利返还56件中国文物艺术品",
+        "onboard_time": 1731077543,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57567,
+        "num": 57567,
+        "word": "papi酱 黄圣依哀莫大于心死",
+        "onboard_time": 1731077182,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46149,
+        "num": 46149,
+        "word": "外国人称无法勘探被中国人找到大气田",
+        "onboard_time": 1731080540,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45476,
+        "num": 45476,
+        "word": "丁禹兮说老粉是并肩同行的伙伴",
+        "onboard_time": 1731093312,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69615,
+        "num": 43398,
+        "word": "警校女生痛经跑3公里跪地爬过终点",
+        "onboard_time": 1731071600,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46695,
+        "num": 41469,
+        "word": "孙乐言 彭高",
+        "onboard_time": 1731070459,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46011,
+        "num": 40159,
+        "word": "怀胎八月不做产检孩子不见了",
+        "onboard_time": 1731052879,
+        "rank": 22,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 37988,
+        "num": 37988,
+        "word": "日本空手道小选手偷袭致对手瘫痪",
+        "onboard_time": 1731069559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37974,
+        "num": 37974,
+        "word": "翁青雅好友发声",
+        "onboard_time": 1731060079,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34893,
+        "num": 34893,
+        "word": "烧伤妈妈第一次和儿子视频大哭",
+        "onboard_time": 1731082879,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33289,
+        "num": 33289,
+        "word": "王曼昱vs钱天一",
+        "onboard_time": 1731090614,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32615,
+        "num": 32615,
+        "word": "女子发工资1636以为收到验证码",
+        "onboard_time": 1731056000,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30577,
+        "num": 30577,
+        "word": "中国成为全球第二个双隐国家",
+        "onboard_time": 1731061459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30200,
+        "num": 30200,
+        "word": "郑钦文闯入WTA年终总决赛决赛",
+        "onboard_time": 1731086595,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189580,
+        "num": 30192,
+        "word": "知情人称要求陪睡公司总有女生应聘",
+        "onboard_time": 1731089113,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30171,
+        "num": 30171,
+        "word": "郑钦文2比0克雷吉茨科娃",
+        "onboard_time": 1731093911,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29884,
+        "num": 29884,
+        "word": "7.7万名村支书村主任已被立案",
+        "onboard_time": 1731072980,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29381,
+        "num": 29381,
+        "word": "恋与深空",
+        "onboard_time": 1731068719,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13852,
+        "num": 28334,
+        "word": "救火骑士龙麻子成名两年后",
+        "onboard_time": 1731093732,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 27864,
+        "num": 27864,
+        "word": "郑钦文手感火热",
+        "onboard_time": 1731080839,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27508,
+        "num": 27508,
+        "word": "幼儿园上午演练孩子下午遇火灾逃生",
+        "onboard_time": 1731075561,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26188,
+        "num": 26188,
+        "word": "杨子也哭了",
+        "onboard_time": 1731070941,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25204,
+        "num": 25204,
+        "word": "宗馥莉挨桌敬酒大经销商",
+        "onboard_time": 1731072741,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24942,
+        "num": 24942,
+        "word": "老人药店晕倒无人扶引发质疑",
+        "onboard_time": 1731078921,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24696,
+        "num": 24696,
+        "word": "凌妙妙cos向佐",
+        "onboard_time": 1731079880,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24218,
+        "num": 24218,
+        "word": "丁禹兮 妙妙当然妙啊",
+        "onboard_time": 1731076941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24083,
+        "num": 24083,
+        "word": "易烊千玺评论祝王源生日快乐",
+        "onboard_time": 1731067819,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23741,
+        "num": 23741,
+        "word": "花海 挑战者杯当作最后一程",
+        "onboard_time": 1731076161,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22465,
+        "num": 23741,
+        "word": "陈幸同vs大藤沙月",
+        "onboard_time": 1731085815,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21534,
+        "num": 23739,
+        "word": "胜券在握",
+        "onboard_time": 1731094332,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21447,
+        "num": 23739,
+        "word": "京城大师赛",
+        "onboard_time": 1731084856,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21124,
+        "num": 23738,
+        "word": "八一飞行表演队壁纸上新",
+        "onboard_time": 1731081320,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21013,
+        "num": 23738,
+        "word": "吴磊工作室致歉",
+        "onboard_time": 1731076702,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20987,
+        "num": 23737,
+        "word": "救火骑士龙麻子不后悔没接住流量",
+        "onboard_time": 1731091813,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同意大利总统马塔雷拉会谈#"
+    }
+  }
+}
