@@ -1,0 +1,410 @@
+{
+  "runTime": 1731050412697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587157,
+        "num": 1587157,
+        "word": "普京表示俄罗斯站在中国一边",
+        "onboard_time": 1731042621,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 950476,
+        "num": 950476,
+        "word": "男子8天加班41小时工作中猝死",
+        "onboard_time": 1731045440,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48135,
+        "num": 934476,
+        "word": "外交部回应美国大选结果",
+        "onboard_time": 1731036620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2325363,
+        "num": 934038,
+        "word": "腾冲一酒店拒绝为日本人办理入住",
+        "onboard_time": 1731044660,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010541,
+        "num": 931986,
+        "word": "博主称易建联绯闻对象乔姐已入狱",
+        "onboard_time": 1731044660,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 929857,
+        "num": 929857,
+        "word": "谢娜首聊双胞胎",
+        "onboard_time": 1731046340,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787553,
+        "num": 787553,
+        "word": "黄圣依再次选择了离婚",
+        "onboard_time": 1731033139,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489722,
+        "num": 489722,
+        "word": "被骗缅甸男生妈妈决定卖房救子",
+        "onboard_time": 1731030379,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77057,
+        "num": 471006,
+        "word": "疑似被骗至缅甸大学生联系家人",
+        "onboard_time": 1731049338,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176466,
+        "num": 470160,
+        "word": "因为记者所以记着",
+        "onboard_time": 1731048079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586621,
+        "num": 470135,
+        "word": "李行亮 既要又要",
+        "onboard_time": 1731044961,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470090,
+        "num": 470090,
+        "word": "失联大学生李高人在柬埔寨赌场",
+        "onboard_time": 1731041181,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562864,
+        "num": 454844,
+        "word": "麦琳哭喊罢录",
+        "onboard_time": 1731045319,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95460,
+        "num": 409810,
+        "word": "拜登政府被爆赶在换届前给台积电拨款",
+        "onboard_time": 1731049639,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386516,
+        "num": 386516,
+        "word": "广州投放绝育雄蚊子",
+        "onboard_time": 1731040043,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346923,
+        "num": 346923,
+        "word": "歼35A飞行画面",
+        "onboard_time": 1731038300,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 235687,
+        "num": 293971,
+        "word": "周星星",
+        "onboard_time": 1731038660,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285636,
+        "num": 285636,
+        "word": "监控还原39人遇难火灾经过",
+        "onboard_time": 1731034398,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74430,
+        "num": 273831,
+        "word": "文淇中戏毕业大戏",
+        "onboard_time": 1731049399,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86693,
+        "num": 273550,
+        "word": "围城里不敢辞职的基层公务员们",
+        "onboard_time": 1731049639,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378610,
+        "num": 273486,
+        "word": "鹿晗删了宣传关晓彤新剧微博",
+        "onboard_time": 1730985382,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273349,
+        "num": 273349,
+        "word": "全国结婚人数止跌回升",
+        "onboard_time": 1731032118,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262775,
+        "num": 262775,
+        "word": "结婚找不到伴娘是人缘差的体现吗",
+        "onboard_time": 1731044359,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256550,
+        "num": 256550,
+        "word": "裸机的快乐只有0次和无数次",
+        "onboard_time": 1731045199,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254849,
+        "num": 254849,
+        "word": "专家建议18到25岁年轻人要多谈恋爱",
+        "onboard_time": 1731040161,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219553,
+        "num": 219553,
+        "word": "赵露思读信哭到读不下去",
+        "onboard_time": 1731043760,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216680,
+        "num": 216680,
+        "word": "劣质美瞳或导致视力下降",
+        "onboard_time": 1731047359,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210175,
+        "num": 210175,
+        "word": "疑似冰岛事件内幕",
+        "onboard_time": 1731048799,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207271,
+        "num": 207627,
+        "word": "麦琳画师",
+        "onboard_time": 1731046280,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151801,
+        "num": 207545,
+        "word": "疑似大梦归离官配婚后生活",
+        "onboard_time": 1731047058,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207508,
+        "num": 207508,
+        "word": "特朗普获胜后拜登首次公开讲话",
+        "onboard_time": 1731034398,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192341,
+        "num": 192341,
+        "word": "转存歼35A这一瞬",
+        "onboard_time": 1731038539,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 190416,
+        "num": 190416,
+        "word": "真心建议拆完快递好好洗手",
+        "onboard_time": 1731044301,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183521,
+        "num": 183521,
+        "word": "闫安为王楚钦发声",
+        "onboard_time": 1731045259,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165085,
+        "num": 165085,
+        "word": "为什么建议买冬装要搜原产地",
+        "onboard_time": 1731043641,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 402269,
+        "num": 164999,
+        "word": "东方青苍 我走出来了",
+        "onboard_time": 1731049220,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164717,
+        "num": 164717,
+        "word": "这里的成年人智商只有8岁",
+        "onboard_time": 1731049099,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153307,
+        "num": 153307,
+        "word": "记者节",
+        "onboard_time": 1731027860,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150811,
+        "num": 150811,
+        "word": "徐志胜说脱口秀行业没有竞争",
+        "onboard_time": 1731050060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148366,
+        "num": 148366,
+        "word": "汪苏泷预售售罄",
+        "onboard_time": 1731049998,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140607,
+        "num": 140607,
+        "word": "美一医学研究机构43只实验猴出逃",
+        "onboard_time": 1731045680,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137951,
+        "num": 137951,
+        "word": "Doinb回应涵艺爆料",
+        "onboard_time": 1731043221,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136043,
+        "num": 136043,
+        "word": "普京称中国有绝对平衡的政策",
+        "onboard_time": 1731047840,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134197,
+        "num": 134197,
+        "word": "难怪彭高没去张远演唱会",
+        "onboard_time": 1731034940,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130056,
+        "num": 130056,
+        "word": "高校确认辱骂殴打空少女子非本校人员",
+        "onboard_time": 1731043760,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128936,
+        "num": 128936,
+        "word": "特朗普公布白宫办公厅主任人选",
+        "onboard_time": 1731038240,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128628,
+        "num": 128628,
+        "word": "赵露思紫色翻领针织衫",
+        "onboard_time": 1731049338,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "腾冲 酒店",
+        "onboard_time": 1731045740,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127307,
+        "num": 127307,
+        "word": "劳斯莱斯女车主不要货车司机赔偿",
+        "onboard_time": 1731028999,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124404,
+        "num": 124404,
+        "word": "近距离听歼35A发动机声音",
+        "onboard_time": 1731047659,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马来西亚总理#"
+    }
+  }
+}

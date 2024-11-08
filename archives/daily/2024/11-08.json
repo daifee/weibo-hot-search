@@ -1,6 +1,6 @@
 {
   "startTime": 1730996879703,
-  "endTime": 1731048239859,
+  "endTime": 1731050412697,
   "band_list": [
     {
       "raw_hot": 2584320,
@@ -25,6 +25,14 @@
       "onboard_time": 1731033139,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2325363,
+      "num": 1095351,
+      "word": "腾冲一酒店拒绝为日本人办理入住",
+      "onboard_time": 1731044660,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2155953,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1095351,
-      "num": 1095351,
-      "word": "腾冲一酒店拒绝为日本人办理入住",
-      "onboard_time": 1731044660,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1020626,
       "num": 1020626,
       "word": "谢娜首聊双胞胎",
@@ -137,6 +137,14 @@
       "onboard_time": 1730990005,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 950476,
+      "num": 950476,
+      "word": "男子8天加班41小时工作中猝死",
+      "onboard_time": 1731045440,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947226,
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586621,
+      "num": 571113,
+      "word": "李行亮 既要又要",
+      "onboard_time": 1731044961,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582113,
       "num": 582113,
       "word": "华侨大学回应教师酒囊饭袋言论",
@@ -273,14 +289,6 @@
       "onboard_time": 1731041003,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 571113,
-      "num": 571113,
-      "word": "李行亮 既要又要",
-      "onboard_time": 1731044961,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 538518,
@@ -385,6 +393,14 @@
       "onboard_time": 1731021257,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 402269,
+      "num": 164999,
+      "word": "东方青苍 我走出来了",
+      "onboard_time": 1731049220,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 396277,
@@ -531,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289811,
-      "num": 289811,
-      "word": "男子8天加班41小时工作中猝死",
-      "onboard_time": 1731045440,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284659,
       "num": 443665,
       "word": "记者节",
@@ -579,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262775,
+      "num": 262775,
+      "word": "结婚找不到伴娘是人缘差的体现吗",
+      "onboard_time": 1731044359,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261221,
       "num": 261221,
       "word": "马斯克接受采访中儿子突然闯进来",
@@ -592,6 +608,14 @@
       "word": "任天堂闹钟为啥这么火",
       "onboard_time": 1731037401,
       "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 256550,
+      "num": 256550,
+      "word": "裸机的快乐只有0次和无数次",
+      "onboard_time": 1731045199,
+      "rank": 30,
       "category": "数码"
     },
     {
@@ -609,14 +633,6 @@
       "onboard_time": 1731039561,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 243312,
-      "num": 243312,
-      "word": "裸机的快乐只有0次和无数次",
-      "onboard_time": 1731045199,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 237257,
@@ -667,12 +683,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 219553,
+      "num": 235974,
+      "word": "赵露思读信哭到读不下去",
+      "onboard_time": 1731043760,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217135,
       "num": 327748,
       "word": "鹿晗宣传关晓彤新剧",
       "onboard_time": 1730983222,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216680,
+      "num": 571317,
+      "word": "劣质美瞳或导致视力下降",
+      "onboard_time": 1731047359,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210896,
@@ -699,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210175,
+      "num": 210175,
+      "word": "疑似冰岛事件内幕",
+      "onboard_time": 1731048799,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209525,
       "num": 146283,
       "word": "易烊千玺",
@@ -707,28 +747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207271,
+      "num": 207627,
+      "word": "麦琳画师",
+      "onboard_time": 1731046280,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206936,
       "num": 206936,
       "word": "教资笔试成绩开始查分",
       "onboard_time": 1731036800,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 206420,
-      "num": 235974,
-      "word": "赵露思读信哭到读不下去",
-      "onboard_time": 1731043760,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 206400,
-      "num": 206400,
-      "word": "结婚找不到伴娘是人缘差的体现吗",
-      "onboard_time": 1731044359,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203296,
@@ -851,20 +883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178588,
-      "num": 178588,
-      "word": "麦琳画师",
-      "onboard_time": 1731046280,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177732,
       "num": 177732,
       "word": "蒋欣演技 拿奖",
       "onboard_time": 1730986043,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176466,
+      "num": 470160,
+      "word": "因为记者所以记着",
+      "onboard_time": 1731048079,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175895,
@@ -947,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164717,
+      "num": 164717,
+      "word": "这里的成年人智商只有8岁",
+      "onboard_time": 1731049099,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164072,
       "num": 172000,
       "word": "杜华 输了就去当观众",
@@ -1019,6 +1059,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150811,
+      "num": 150811,
+      "word": "徐志胜说脱口秀行业没有竞争",
+      "onboard_time": 1731050060,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148366,
+      "num": 148366,
+      "word": "汪苏泷预售售罄",
+      "onboard_time": 1731049998,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147299,
       "num": 147299,
       "word": "丁禹兮人生镜头",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1731041962,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146135,
-      "num": 146135,
-      "word": "因为记者所以记着",
-      "onboard_time": 1731048079,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145009,
@@ -1163,6 +1211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128628,
+      "num": 128628,
+      "word": "赵露思紫色翻领针织衫",
+      "onboard_time": 1731049338,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128581,
+      "num": 128581,
+      "word": "腾冲 酒店",
+      "onboard_time": 1731045740,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126485,
       "num": 285668,
       "word": "再见爱人",
@@ -1187,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124404,
+      "num": 124404,
+      "word": "近距离听歼35A发动机声音",
+      "onboard_time": 1731047659,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 123455,
       "num": 232602,
       "word": "原生鸿蒙版微博能发live图了",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1731025220,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121705,
-      "num": 121705,
-      "word": "腾冲 酒店",
-      "onboard_time": 1731045740,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121699,
@@ -1371,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98083,
-      "num": 571317,
-      "word": "劣质美瞳或导致视力下降",
-      "onboard_time": 1731047359,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97698,
       "num": 102113,
       "word": "papi酱 杨子假装在戏弄人间",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1731036980,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95460,
+      "num": 409810,
+      "word": "拜登政府被爆赶在换届前给台积电拨款",
+      "onboard_time": 1731049639,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 94943,
@@ -1459,6 +1523,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 86693,
+      "num": 273550,
+      "word": "围城里不敢辞职的基层公务员们",
+      "onboard_time": 1731049639,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86579,
       "num": 86579,
       "word": "浙江籍女飞行员亮相航展",
@@ -1497,6 +1569,22 @@
       "onboard_time": 1731021616,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77057,
+      "num": 471006,
+      "word": "疑似被骗至缅甸大学生联系家人",
+      "onboard_time": 1731049338,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74430,
+      "num": 273831,
+      "word": "文淇中戏毕业大戏",
+      "onboard_time": 1731049399,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 74127,
