@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731104464469,
+  "endTime": 1731105503133,
   "band_list": [
     {
       "raw_hot": 1760293,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310582,
+      "num": 93810,
+      "word": "知情人称要求陪睡公司总有女生应聘",
+      "onboard_time": 1731089113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293516,
       "num": 293516,
       "word": "中国成为全球第二个双隐国家",
@@ -184,14 +192,6 @@
       "word": "幼儿园上午演练孩子下午遇火灾逃生",
       "onboard_time": 1731075561,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247313,
-      "num": 47258,
-      "word": "知情人称要求陪睡公司总有女生应聘",
-      "onboard_time": 1731089113,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -507,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46609,
+      "num": 51820,
+      "word": "这就是一级保护动物的心态吧",
+      "onboard_time": 1731099850,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45476,
       "num": 46874,
       "word": "丁禹兮说老粉是并肩同行的伙伴",
@@ -515,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44192,
-      "num": 51820,
-      "word": "这就是一级保护动物的心态吧",
-      "onboard_time": 1731099850,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 44123,
+      "num": 44123,
+      "word": "何卓佳1比3张本美和",
+      "onboard_time": 1731095351,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 41110,
@@ -528,14 +536,6 @@
       "word": "郑钦文先下一盘",
       "onboard_time": 1731081740,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36499,
-      "num": 36499,
-      "word": "何卓佳1比3张本美和",
-      "onboard_time": 1731095351,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -579,7 +579,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27973,
+      "raw_hot": 29856,
       "num": 43993,
       "word": "官方称辽宁大巴起火已致30余人受伤",
       "onboard_time": 1731097271,
@@ -587,7 +587,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25153,
+      "raw_hot": 29754,
+      "num": 29754,
+      "word": "上海迪士尼飘雪",
+      "onboard_time": 1731095051,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 25692,
       "num": 53089,
       "word": "沈阳交警通报沈海高速一起交通事故",
       "onboard_time": 1731099311,
@@ -595,20 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25019,
+      "num": 96812,
+      "word": "警方回应男子取钱当街抛撒",
+      "onboard_time": 1731103992,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23332,
-      "num": 25148,
+      "num": 25579,
       "word": "佩斯科夫说普京不吃人",
       "onboard_time": 1731097760,
       "rank": 48,
       "category": "国外时政"
     },
     {
-      "raw_hot": 23169,
-      "num": 25137,
-      "word": "上海迪士尼飘雪",
-      "onboard_time": 1731095051,
-      "rank": 43,
-      "category": "旅游,社会新闻"
+      "raw_hot": 22989,
+      "num": 25618,
+      "word": "机器狼首次公开亮相",
+      "onboard_time": 1731079460,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 21534,
@@ -627,12 +643,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 20502,
-      "num": 25087,
-      "word": "机器狼首次公开亮相",
-      "onboard_time": 1731079460,
+      "raw_hot": 18278,
+      "num": 25569,
+      "word": "在狗狗身上看到了左右为难",
+      "onboard_time": 1731105014,
       "rank": 49,
-      "category": "军事"
+      "category": "幽默"
     },
     {
       "raw_hot": 17795,
@@ -696,14 +712,6 @@
       "word": "这young看进博",
       "onboard_time": 1731102672,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10434,
-      "num": 33262,
-      "word": "警方回应男子取钱当街抛撒",
-      "onboard_time": 1731103992,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
