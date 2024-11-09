@@ -1,10 +1,10 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731121070697,
+  "endTime": 1731122738468,
   "band_list": [
     {
-      "raw_hot": 1983831,
-      "num": 1983831,
+      "raw_hot": 1990982,
+      "num": 1990982,
       "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
       "onboard_time": 1731118580,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1731111018,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1298423,
+      "num": 1298423,
+      "word": "英国宣布制裁10家中国企业",
+      "onboard_time": 1731119539,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1236697,
@@ -84,23 +92,15 @@
     },
     {
       "raw_hot": 838273,
-      "num": 256916,
+      "num": 327274,
       "word": "台湾一3岁女童遭男保姆性侵",
       "onboard_time": 1731117799,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799447,
-      "num": 799447,
-      "word": "英国宣布制裁10家中国企业",
-      "onboard_time": 1731119539,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 790494,
-      "num": 790494,
+      "raw_hot": 793717,
+      "num": 793717,
       "word": "我喜欢子期我愿意嫁给子期",
       "onboard_time": 1731111197,
       "rank": 4,
@@ -121,6 +121,14 @@
       "onboard_time": 1731086295,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670404,
+      "num": 534633,
+      "word": "天启 出轨",
+      "onboard_time": 1731119658,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 621586,
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 534633,
-      "num": 534633,
-      "word": "天启 出轨",
-      "onboard_time": 1731119658,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 525198,
       "num": 359257,
       "word": "张婉婷觉得麦琳确实是有问题",
@@ -219,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438208,
+      "num": 402731,
+      "word": "你好星期六全员passion",
+      "onboard_time": 1731120319,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421836,
       "num": 540434,
       "word": "女子举报被名校博士骗走3920万",
       "onboard_time": 1731117380,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411916,
+      "num": 365662,
+      "word": "麦琳被曝要求重新剪辑故事线",
+      "onboard_time": 1731116658,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 379063,
@@ -288,6 +304,14 @@
       "word": "残障老人遭猥亵嫌疑人扣3个月工资",
       "onboard_time": 1731086117,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329045,
+      "num": 329045,
+      "word": "开封倡议骑行别扎堆也不必深夜",
+      "onboard_time": 1731120079,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -355,6 +379,30 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 245339,
+      "num": 245339,
+      "word": "关晓彤 国民闺女赛道",
+      "onboard_time": 1731118218,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244851,
+      "num": 244851,
+      "word": "巴勒斯坦总统与特朗普通电话",
+      "onboard_time": 1731120859,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 241608,
+      "num": 241608,
+      "word": "以色列学生称巴勒斯坦人为畜生",
+      "onboard_time": 1731118998,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 234234,
       "num": 234234,
       "word": "日本空手道小选手偷袭致对手瘫痪",
@@ -371,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230475,
-      "num": 230475,
-      "word": "以色列学生称巴勒斯坦人为畜生",
-      "onboard_time": 1731118998,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 217994,
+      "num": 234908,
+      "word": "黄圣依点赞说杨子不要脸的微博",
+      "onboard_time": 1731119418,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216501,
@@ -395,14 +443,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 212232,
-      "num": 212232,
-      "word": "开封倡议骑行别扎堆也不必深夜",
-      "onboard_time": 1731120079,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208068,
       "num": 208068,
       "word": "凌妙妙cos向佐",
@@ -419,20 +459,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199988,
-      "num": 199988,
-      "word": "你好星期六全员passion",
-      "onboard_time": 1731120319,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199723,
       "num": 199723,
       "word": "萨巴伦卡vs高芙",
       "onboard_time": 1731108015,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194647,
+      "num": 193351,
+      "word": "麦琳的笑",
+      "onboard_time": 1731121819,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 192029,
@@ -451,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191020,
-      "num": 191020,
-      "word": "关晓彤 国民闺女赛道",
-      "onboard_time": 1731118218,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 188659,
+      "num": 188659,
+      "word": "张纯如逝世20周年",
+      "onboard_time": 1731116841,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182399,
@@ -499,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169247,
-      "num": 169247,
-      "word": "张纯如逝世20周年",
-      "onboard_time": 1731116841,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167029,
       "num": 167029,
       "word": "中国向意大利赠送1000毫克月壤",
@@ -537,6 +569,22 @@
       "onboard_time": 1731116777,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156162,
+      "num": 156162,
+      "word": "三大单车平台深夜发布骑行倡议书",
+      "onboard_time": 1731121701,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154720,
+      "num": 154720,
+      "word": "哑舍",
+      "onboard_time": 1731120919,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 152764,
@@ -683,6 +731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129212,
+      "num": 129212,
+      "word": "WTA年终总决赛",
+      "onboard_time": 1731122359,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128545,
       "num": 140342,
       "word": "十个勤天也是当上捉妖师了",
@@ -763,22 +819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111370,
-      "num": 111370,
-      "word": "哑舍",
-      "onboard_time": 1731120919,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 110160,
-      "num": 234908,
-      "word": "黄圣依点赞说杨子不要脸的微博",
-      "onboard_time": 1731119418,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 109568,
       "num": 178342,
       "word": "杨子也哭了",
@@ -811,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106446,
-      "num": 106446,
-      "word": "巴勒斯坦总统与特朗普通电话",
-      "onboard_time": 1731120859,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "WTT法兰克福冠军赛",
@@ -849,6 +881,14 @@
       "onboard_time": 1731082698,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102250,
+      "num": 102250,
+      "word": "歼35A轰鸣声太震撼",
+      "onboard_time": 1731122599,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101553,
@@ -937,6 +977,14 @@
       "onboard_time": 1731082037,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85496,
+      "num": 340252,
+      "word": "中使馆回应英国制裁10家中国企业",
+      "onboard_time": 1731121518,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85172,
@@ -1107,6 +1155,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 34680,
+      "num": 327470,
+      "word": "京东发800元大额券",
+      "onboard_time": 1731121338,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33327,
       "num": 33327,
       "word": "于文文巡演",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1731092713,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31000,
+      "num": 144342,
+      "word": "山东这些好品的含金量还在上升",
+      "onboard_time": 1731121219,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30171,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1731107356,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6219,
+      "num": 1047143,
+      "word": "进博会的新伙伴们",
+      "onboard_time": 1731122658,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6044,
