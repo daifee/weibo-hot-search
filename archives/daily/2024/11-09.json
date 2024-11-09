@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731126347233,
+  "endTime": 1731127192504,
   "band_list": [
     {
       "raw_hot": 1990982,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1154106,
+      "num": 1154106,
+      "word": "熏鸡事变",
+      "onboard_time": 1731123379,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1128988,
       "num": 961923,
       "word": "知情人称要求陪睡公司总有女生应聘",
       "onboard_time": 1731089113,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1107304,
-      "num": 1107304,
-      "word": "熏鸡事变",
-      "onboard_time": 1731123379,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 1073268,
@@ -131,12 +131,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 734092,
-      "num": 566848,
+      "raw_hot": 738657,
+      "num": 672480,
       "word": "疯狂动物城2",
       "onboard_time": 1731123079,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 722129,
+      "num": 722129,
+      "word": "女子因父母要求加30万彩礼跳河轻生",
+      "onboard_time": 1731123319,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701422,
@@ -145,14 +153,6 @@
       "onboard_time": 1731086295,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 673007,
-      "num": 673007,
-      "word": "女子因父母要求加30万彩礼跳河轻生",
-      "onboard_time": 1731123319,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 621586,
@@ -193,6 +193,14 @@
       "onboard_time": 1731116658,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551434,
+      "num": 324606,
+      "word": "特朗普已准备再次退出巴黎协定",
+      "onboard_time": 1731125899,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 542781,
@@ -371,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306838,
+      "num": 306838,
+      "word": "高铁站员工被曝上班慵懒盘核桃",
+      "onboard_time": 1731125538,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305877,
+      "num": 344236,
+      "word": "巴勒斯坦总统与特朗普通电话",
+      "onboard_time": 1731120859,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 304013,
       "num": 277544,
       "word": "黄圣依点赞说杨子不要脸的微博",
@@ -395,20 +419,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 286375,
+      "num": 286375,
+      "word": "黄圣依没有杨子描述的痣",
+      "onboard_time": 1731124279,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274386,
       "num": 274386,
       "word": "三大单车平台深夜发布骑行倡议书",
       "onboard_time": 1731121701,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273261,
-      "num": 227408,
-      "word": "黄圣依没有杨子描述的痣",
-      "onboard_time": 1731124279,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 272740,
@@ -427,20 +451,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 255183,
+      "num": 255183,
+      "word": "哑舍",
+      "onboard_time": 1731120919,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "关晓彤 国民闺女赛道",
       "onboard_time": 1731118218,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244851,
-      "num": 344236,
-      "word": "巴勒斯坦总统与特朗普通电话",
-      "onboard_time": 1731120859,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 241608,
@@ -451,12 +475,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 237446,
-      "num": 237446,
-      "word": "哑舍",
-      "onboard_time": 1731120919,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 240250,
+      "num": 240250,
+      "word": "特朗普表示将努力制止战争",
+      "onboard_time": 1731125658,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234234,
@@ -499,12 +523,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 211373,
-      "num": 211373,
-      "word": "特朗普已准备再次退出巴黎协定",
-      "onboard_time": 1731125899,
-      "rank": 29,
-      "category": "国外时政"
+      "raw_hot": 210378,
+      "num": 331139,
+      "word": "万安县公示3名95后女干部",
+      "onboard_time": 1731126018,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208068,
@@ -515,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207153,
+      "num": 207153,
+      "word": "TheShy和Rookie被曝回归iG",
+      "onboard_time": 1731126859,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207043,
       "num": 207043,
       "word": "肖战专辑预约",
       "onboard_time": 1731120319,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203042,
+      "num": 306111,
+      "word": "丁禹兮撤回一个内耗",
+      "onboard_time": 1731126258,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 199723,
@@ -571,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188888,
+      "num": 188888,
+      "word": "再见爱人母带",
+      "onboard_time": 1731125658,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188659,
       "num": 222573,
       "word": "张纯如逝世20周年",
@@ -579,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187085,
-      "num": 187085,
-      "word": "特朗普表示将努力制止战争",
-      "onboard_time": 1731125658,
-      "rank": 31,
-      "category": "国外时政"
+      "raw_hot": 185918,
+      "num": 142863,
+      "word": "肖战全新专辑MV预约人数",
+      "onboard_time": 1731127099,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 182399,
@@ -611,28 +659,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175714,
-      "num": 175714,
-      "word": "再见爱人母带",
-      "onboard_time": 1731125658,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171665,
       "num": 171665,
       "word": "回小县城一年的真实感受",
       "onboard_time": 1731078862,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 169981,
-      "num": 169981,
-      "word": "高铁站员工被曝上班慵懒盘核桃",
-      "onboard_time": 1731125538,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169718,
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 152994,
-      "num": 152994,
+      "num": 288859,
       "word": "张真源的充电线有两米长",
       "onboard_time": 1731125718,
       "rank": 36,
@@ -835,6 +867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129810,
+      "num": 234190,
+      "word": "小巷人家奶奶分瓜",
+      "onboard_time": 1731126439,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "WTA年终总决赛",
@@ -899,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117539,
-      "num": 117539,
-      "word": "万安县公示3名95后女干部",
-      "onboard_time": 1731126018,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115452,
       "num": 115452,
       "word": "哈妮克孜 何广智人傻钱多",
@@ -969,6 +1001,14 @@
       "onboard_time": 1731117077,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106815,
+      "num": 106815,
+      "word": "白敬亭新片杀青",
+      "onboard_time": 1731126919,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 106098,
@@ -1147,6 +1187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 70553,
+      "num": 90488,
+      "word": "郑钦文回应对阵高芙胜率",
+      "onboard_time": 1731123679,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68128,
       "num": 68128,
       "word": "子期喜欢妙妙全世界都知道",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1731069019,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 47240,
-      "num": 254682,
-      "word": "丁禹兮撤回一个内耗",
-      "onboard_time": 1731126258,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 46609,
