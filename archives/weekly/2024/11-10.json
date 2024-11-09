@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731187250519,
+  "endTime": 1731188152005,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -611,20 +611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34168,
+      "num": 34168,
+      "word": "夜骑开封的共享单车被倒卖",
+      "onboard_time": 1731183072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31764,
       "num": 162573,
       "word": "巴基斯坦火车站爆炸死亡人数升至25人",
       "onboard_time": 1731178573,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 28512,
-      "num": 28512,
-      "word": "夜骑开封的共享单车被倒卖",
-      "onboard_time": 1731183072,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28139,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18574,
+      "num": 61838,
+      "word": "军队装备保障条例",
+      "onboard_time": 1731186071,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18475,
       "num": 25444,
       "word": "再平凡的工作认真去做也能闪闪发光",
@@ -675,15 +683,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14211,
-      "num": 25206,
-      "word": "军队装备保障条例",
-      "onboard_time": 1731186071,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13164,
+      "raw_hot": 15328,
       "num": 42859,
       "word": "中国航展飞行训练高燃瞬间",
       "onboard_time": 1731186552,
