@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731161955185,
+  "endTime": 1731163012741,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1243,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1350138,
+      "num": 900325,
+      "word": "95花top",
+      "onboard_time": 1731160339,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1343014,
       "num": 354236,
       "word": "杜淳妻子王灿患病暴瘦",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1730733561,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1166523,
-      "num": 900325,
-      "word": "95花top",
-      "onboard_time": 1731160339,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1164772,
@@ -2427,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860390,
+      "num": 860390,
+      "word": "麦琳",
+      "onboard_time": 1731160999,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860373,
       "num": 442320,
       "word": "口服避孕药 致癌物",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1730710701,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822665,
+      "num": 766934,
+      "word": "腾讯七部热度破30000剧集",
+      "onboard_time": 1731159200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 819594,
@@ -2849,14 +2865,6 @@
       "onboard_time": 1730595440,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766934,
-      "num": 766934,
-      "word": "腾讯七部热度破30000剧集",
-      "onboard_time": 1731159200,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 760222,
@@ -6771,6 +6779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323893,
+      "num": 200904,
+      "word": "花少后刘烨首次分享不内耗秘籍",
+      "onboard_time": 1731162441,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323759,
       "num": 323759,
       "word": "为什么数学水平最难造假",
@@ -6841,14 +6857,6 @@
       "onboard_time": 1731147018,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 319934,
-      "num": 319934,
-      "word": "麦琳",
-      "onboard_time": 1731160999,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 319649,
@@ -7755,6 +7763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 273028,
+      "num": 439023,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1731156920,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272932,
       "num": 272932,
       "word": "凌妙妙不属于这个世界的证据",
@@ -8553,14 +8569,6 @@
       "onboard_time": 1730614818,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240046,
-      "num": 439023,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1731156920,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 240043,
@@ -10067,6 +10075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202943,
+      "num": 202943,
+      "word": "豆瓣崩了",
+      "onboard_time": 1731162860,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 202938,
       "num": 233686,
       "word": "猎罪图鉴2暂定11月底播出",
@@ -10113,6 +10129,14 @@
       "onboard_time": 1731029060,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202305,
+      "num": 193919,
+      "word": "女生背易烊千玺人形立牌夜骑",
+      "onboard_time": 1731162740,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 202279,
@@ -10899,6 +10923,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 193168,
+      "num": 193168,
+      "word": "丁禹兮发烧了",
+      "onboard_time": 1731160810,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193163,
       "num": 233753,
       "word": "对接回应肖战将发布个人专辑",
@@ -10921,6 +10953,14 @@
       "onboard_time": 1730726120,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192807,
+      "num": 400197,
+      "word": "员工拒绝调岗旷工被辞公司无需赔偿",
+      "onboard_time": 1731157098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192793,
@@ -11121,6 +11161,14 @@
       "onboard_time": 1730889441,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190732,
+      "num": 676668,
+      "word": "王曼昱闯进决赛",
+      "onboard_time": 1731161120,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 190509,
@@ -11417,6 +11465,14 @@
       "onboard_time": 1731158660,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185223,
+      "num": 185223,
+      "word": "老舅鹿晗演唱会给陈赫庆生",
+      "onboard_time": 1731162740,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 185183,
@@ -11771,6 +11827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179007,
+      "num": 179007,
+      "word": "孙俪带等等小花支持邓超新片",
+      "onboard_time": 1731161900,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "留几手",
@@ -12051,6 +12115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174288,
+      "num": 174288,
+      "word": "王曼昱4比1陈幸同",
+      "onboard_time": 1731162321,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174260,
       "num": 174260,
       "word": "A股半日放量2984亿",
@@ -12155,6 +12227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172924,
+      "num": 172924,
+      "word": "珠帘玉幕18集高能",
+      "onboard_time": 1731162681,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172825,
       "num": 172825,
       "word": "剑网3",
@@ -12193,14 +12273,6 @@
       "onboard_time": 1730981662,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172220,
-      "num": 149590,
-      "word": "丁禹兮发烧了",
-      "onboard_time": 1731160810,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 172189,
@@ -12355,14 +12427,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 170012,
-      "num": 400197,
-      "word": "员工拒绝调岗旷工被辞公司无需赔偿",
-      "onboard_time": 1731157098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169946,
       "num": 169946,
       "word": "郑钦文世界排名升至第六",
@@ -12384,6 +12448,14 @@
       "word": "郑钦文将冲击决赛",
       "onboard_time": 1731085815,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169698,
+      "num": 468159,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -13171,6 +13243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159593,
+      "num": 159593,
+      "word": "一诺 更大的舞台见",
+      "onboard_time": 1731162380,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159512,
       "num": 159512,
       "word": "永夜星河原著  慕声强制爱",
@@ -13233,14 +13313,6 @@
       "onboard_time": 1731049639,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158861,
-      "num": 465196,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1731157819,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 158837,
@@ -13377,6 +13449,14 @@
       "onboard_time": 1730973618,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156422,
+      "num": 156422,
+      "word": "刘宇宁到底唱了多少OST",
+      "onboard_time": 1731162860,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 156094,
@@ -14025,6 +14105,14 @@
       "onboard_time": 1730972300,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147716,
+      "num": 147716,
+      "word": "皇马vs奥萨苏纳",
+      "onboard_time": 1731162140,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 147639,
@@ -14787,14 +14875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138160,
-      "num": 676668,
-      "word": "王曼昱闯进决赛",
-      "onboard_time": 1731161120,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137874,
       "num": 137874,
       "word": "原来星座有13个",
@@ -14953,14 +15033,6 @@
       "onboard_time": 1730639839,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134870,
-      "num": 134870,
-      "word": "孙俪带等等小花支持邓超新片",
-      "onboard_time": 1731161900,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 134819,
@@ -15180,7 +15252,7 @@
     },
     {
       "raw_hot": 132076,
-      "num": 676925,
+      "num": 690536,
       "word": "同时拥有两款隐身战机有什么好处",
       "onboard_time": 1731161421,
       "rank": 8,
@@ -17203,6 +17275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100342,
+      "num": 454390,
+      "word": "准爸爸注册母婴APP后频繁收涉黄短信",
+      "onboard_time": 1731161061,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100040,
       "num": 100040,
       "word": "以色列球迷在荷兰遭群殴",
@@ -18041,14 +18121,6 @@
       "onboard_time": 1730972121,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 76309,
-      "num": 454390,
-      "word": "准爸爸注册母婴APP后频繁收涉黄短信",
-      "onboard_time": 1731161061,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75920,
