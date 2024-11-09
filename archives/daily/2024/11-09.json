@@ -1,7 +1,15 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731158590018,
+  "endTime": 1731159299548,
   "band_list": [
+    {
+      "raw_hot": 2121947,
+      "num": 2121947,
+      "word": "夜骑开封被按下暂停键",
+      "onboard_time": 1731156077,
+      "rank": 18,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2113551,
       "num": 2113551,
@@ -81,14 +89,6 @@
       "onboard_time": 1731066138,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1395439,
-      "num": 1395439,
-      "word": "夜骑开封被按下暂停键",
-      "onboard_time": 1731156077,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1374609,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 860373,
-      "num": 375468,
+      "num": 436037,
       "word": "口服避孕药 致癌物",
       "onboard_time": 1731156438,
       "rank": 22,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754013,
+      "num": 754013,
+      "word": "阿娇演的怨女",
+      "onboard_time": 1731156920,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 747089,
       "num": 747089,
       "word": "巴黎圣母院修复者拥抱庆祝",
@@ -361,14 +369,6 @@
       "onboard_time": 1731123319,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 720590,
-      "num": 720590,
-      "word": "阿娇演的怨女",
-      "onboard_time": 1731156920,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 701422,
@@ -425,6 +425,14 @@
       "onboard_time": 1731148399,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633162,
+      "num": 441797,
+      "word": "虞书欣叫章昊帅哥",
+      "onboard_time": 1731157819,
+      "rank": 13,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 621586,
@@ -489,6 +497,14 @@
       "onboard_time": 1731116658,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552625,
+      "num": 440107,
+      "word": "鹿晗西安",
+      "onboard_time": 1731158539,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 544562,
@@ -627,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442388,
+      "num": 442388,
+      "word": "四川绵阳一女子抢警棍当场被控制",
+      "onboard_time": 1731155059,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442070,
       "num": 442070,
       "word": "迪丽热巴陈飞宇慕胥辞婚服路透",
@@ -665,14 +689,6 @@
       "onboard_time": 1731128360,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 404285,
-      "num": 404285,
-      "word": "虞书欣叫章昊帅哥",
-      "onboard_time": 1731157819,
-      "rank": 13,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 389451,
@@ -835,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309307,
-      "num": 399205,
-      "word": "四川绵阳一女子抢警棍当场被控制",
-      "onboard_time": 1731155059,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305877,
       "num": 344236,
       "word": "巴勒斯坦总统与特朗普通电话",
@@ -865,14 +873,6 @@
       "onboard_time": 1731119418,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300527,
-      "num": 300527,
-      "word": "鹿晗西安",
-      "onboard_time": 1731158539,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 293516,
@@ -1011,6 +1011,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240046,
+      "num": 439023,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1731156920,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239257,
       "num": 239257,
       "word": "纪凌尘拍的杨超越",
@@ -1019,12 +1027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235460,
-      "num": 386586,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1731156920,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 235293,
+      "num": 235293,
+      "word": "腾讯七部热度破30000剧集",
+      "onboard_time": 1731159200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 234234,
@@ -1283,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193856,
+      "num": 193856,
+      "word": "时代少年团演唱会重要通知",
+      "onboard_time": 1731158600,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192793,
       "num": 196811,
       "word": "内娱神级转场又加一个",
@@ -1355,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185336,
+      "num": 185336,
+      "word": "侯明昊演技",
+      "onboard_time": 1731158660,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183904,
       "num": 183904,
       "word": "小伙用榫卯结构做面包成世界冠军",
@@ -1384,6 +1408,14 @@
       "word": "川剧吐火被消防盯上了",
       "onboard_time": 1731128720,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180154,
+      "num": 180154,
+      "word": "桑坡雪地靴咋成了东三省省靴",
+      "onboard_time": 1731158539,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173979,
+      "num": 173979,
+      "word": "范丞丞演技",
+      "onboard_time": 1731157939,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173505,
       "num": 173505,
       "word": "图书馆三十秒文学",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1731078862,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 170637,
+      "num": 170637,
+      "word": "熏鸡",
+      "onboard_time": 1731153198,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 169718,
@@ -1515,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166163,
+      "num": 438595,
+      "word": "建议每个恐华症的人都到中国看看",
+      "onboard_time": 1731156799,
+      "rank": 39,
+      "category": "国外时政,国内时政"
+    },
+    {
       "raw_hot": 165553,
       "num": 165553,
       "word": "丁禹兮谢谢你啊齐思钧儿",
@@ -1529,14 +1585,6 @@
       "onboard_time": 1731144259,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163269,
-      "num": 163269,
-      "word": "熏鸡",
-      "onboard_time": 1731153198,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 162611,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1731118457,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152443,
+      "num": 256016,
+      "word": "一家二甲医院欠薪倒闭",
+      "onboard_time": 1731154099,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152285,
@@ -1723,22 +1779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142310,
-      "num": 142310,
-      "word": "桑坡雪地靴咋成了东三省省靴",
-      "onboard_time": 1731158539,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142212,
-      "num": 142212,
-      "word": "建议每个恐华症的人都到中国看看",
-      "onboard_time": 1731156799,
-      "rank": 39,
-      "category": "国外时政,国内时政"
-    },
-    {
       "raw_hot": 142210,
       "num": 451329,
       "word": "距离第十五届中国航展还有3天",
@@ -1827,12 +1867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135748,
-      "num": 256016,
-      "word": "一家二甲医院欠薪倒闭",
-      "onboard_time": 1731154099,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 136088,
+      "num": 136088,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135442,
+      "num": 296658,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1731155898,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 134819,
@@ -1867,14 +1915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134137,
-      "num": 134137,
-      "word": "范丞丞演技",
-      "onboard_time": 1731157939,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133674,
       "num": 133674,
       "word": "SNH48偶像运动会",
@@ -1891,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133143,
+      "num": 133143,
+      "word": "男孩在超市摔倒后昏迷至今",
+      "onboard_time": 1731159019,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132333,
       "num": 132333,
       "word": "郑钦文破发",
@@ -1905,14 +1953,6 @@
       "onboard_time": 1731078921,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131966,
-      "num": 131966,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1731157819,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 131364,
@@ -2020,7 +2060,7 @@
     },
     {
       "raw_hot": 123561,
-      "num": 123561,
+      "num": 219623,
       "word": "小伙不到30秒救下一个娃",
       "onboard_time": 1731156860,
       "rank": 45,
@@ -2571,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70380,
+      "num": 437110,
+      "word": "陈赫说这就是生日buff的加成么",
+      "onboard_time": 1731158600,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68142,
       "num": 400197,
       "word": "员工拒绝调岗旷工被辞公司无需赔偿",
@@ -2771,12 +2819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44785,
-      "num": 296658,
-      "word": "王曼昱vs陈幸同",
-      "onboard_time": 1731155898,
+      "raw_hot": 42148,
+      "num": 439968,
+      "word": "AG战胜KSG",
+      "onboard_time": 1731158960,
       "rank": 13,
-      "category": "体育"
+      "category": "电竞"
     },
     {
       "raw_hot": 41110,
@@ -2899,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30506,
+      "num": 436307,
+      "word": "黄圣依该如何查夫妻共同财产",
+      "onboard_time": 1731157518,
+      "rank": 19,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 30171,
       "num": 30171,
       "word": "郑钦文2比0克雷吉茨科娃",
@@ -2937,14 +2993,6 @@
       "onboard_time": 1731135917,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26258,
-      "num": 381038,
-      "word": "黄圣依该如何查夫妻共同财产",
-      "onboard_time": 1731157518,
-      "rank": 19,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 26103,
