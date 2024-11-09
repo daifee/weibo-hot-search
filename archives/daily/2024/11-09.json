@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731156803097,
+  "endTime": 1731158590018,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1527363,
-      "num": 308915,
+      "num": 467925,
       "word": "王一栩我要打死你",
       "onboard_time": 1731153259,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1731066138,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1395439,
+      "num": 1395439,
+      "word": "夜骑开封被按下暂停键",
+      "onboard_time": 1731156077,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1374609,
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1070418,
+      "num": 1070418,
+      "word": "虞书欣还有好几千张库存",
+      "onboard_time": 1731156378,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060353,
       "num": 409653,
       "word": "百万粉丝博主江边捡垃圾发现散落人骨",
@@ -225,6 +241,14 @@
       "onboard_time": 1731145818,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 860373,
+      "num": 375468,
+      "word": "口服避孕药 致癌物",
+      "onboard_time": 1731156438,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 845026,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720590,
+      "num": 720590,
+      "word": "阿娇演的怨女",
+      "onboard_time": 1731156920,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 701422,
       "num": 871155,
       "word": "郑钦文晋级总决赛争冠战",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 634017,
-      "num": 348683,
+      "num": 470595,
       "word": "4岁男童疑被教练推下平衡木致骨折",
       "onboard_time": 1731148399,
       "rank": 40,
@@ -579,20 +611,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 453563,
-      "num": 268426,
-      "word": "口服避孕药 致癌物",
-      "onboard_time": 1731156438,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 446055,
       "num": 360060,
       "word": "麦琳 我的痛苦和你们一起分享",
       "onboard_time": 1731072019,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442934,
+      "num": 442934,
+      "word": "陈哲远大学同学聚会照",
+      "onboard_time": 1731156018,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 442070,
@@ -635,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404285,
+      "num": 404285,
+      "word": "虞书欣叫章昊帅哥",
+      "onboard_time": 1731157819,
+      "rank": 13,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 389451,
       "num": 310785,
       "word": "香飘飘老板面试羊驼",
@@ -649,14 +689,6 @@
       "onboard_time": 1731150618,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387777,
-      "num": 291669,
-      "word": "虞书欣还有好几千张库存",
-      "onboard_time": 1731156378,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 380220,
@@ -705,6 +737,14 @@
       "onboard_time": 1731151280,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356783,
+      "num": 356783,
+      "word": "爷爷用两块霉豆腐养大了348个孩子",
+      "onboard_time": 1731156378,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 350599,
@@ -796,7 +836,7 @@
     },
     {
       "raw_hot": 309307,
-      "num": 309307,
+      "num": 399205,
       "word": "四川绵阳一女子抢警棍当场被控制",
       "onboard_time": 1731155059,
       "rank": 13,
@@ -825,6 +865,14 @@
       "onboard_time": 1731119418,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300527,
+      "num": 300527,
+      "word": "鹿晗西安",
+      "onboard_time": 1731158539,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 293516,
@@ -971,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235460,
+      "num": 386586,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1731156920,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234234,
       "num": 234234,
       "word": "日本空手道小选手偷袭致对手瘫痪",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1731124279,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226573,
+      "num": 226573,
+      "word": "mlxg还在保Uzi",
+      "onboard_time": 1731156619,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 221069,
@@ -1049,14 +1113,6 @@
       "onboard_time": 1731115279,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 211763,
-      "num": 270455,
-      "word": "夜骑开封被按下暂停键",
-      "onboard_time": 1731156077,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211017,
@@ -1251,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191676,
+      "num": 191676,
+      "word": "黄玲宋莹 今年荧幕最美姐妹情",
+      "onboard_time": 1731157819,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191229,
       "num": 191229,
       "word": "虞书欣头像库更新",
@@ -1355,20 +1419,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177499,
+      "num": 233507,
+      "word": "产量仅1%的黑刺榴莲有多好吃",
+      "onboard_time": 1731156438,
+      "rank": 40,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 176063,
       "num": 176063,
       "word": "永夜星河预告",
       "onboard_time": 1731150257,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175784,
-      "num": 175784,
-      "word": "爷爷用两块霉豆腐养大了348个孩子",
-      "onboard_time": 1731156378,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 175006,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1731144259,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163269,
+      "num": 163269,
+      "word": "熏鸡",
+      "onboard_time": 1731153198,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 162611,
@@ -1651,6 +1723,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "桑坡雪地靴咋成了东三省省靴",
+      "onboard_time": 1731158539,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142212,
+      "num": 142212,
+      "word": "建议每个恐华症的人都到中国看看",
+      "onboard_time": 1731156799,
+      "rank": 39,
+      "category": "国外时政,国内时政"
+    },
+    {
       "raw_hot": 142210,
       "num": 451329,
       "word": "距离第十五届中国航展还有3天",
@@ -1739,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135748,
+      "num": 256016,
+      "word": "一家二甲医院欠薪倒闭",
+      "onboard_time": 1731154099,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134819,
       "num": 134819,
       "word": "歼35A轰鸣声太震撼",
@@ -1771,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134137,
+      "num": 134137,
+      "word": "范丞丞演技",
+      "onboard_time": 1731157939,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133674,
       "num": 133674,
       "word": "SNH48偶像运动会",
@@ -1784,14 +1888,6 @@
       "word": "终于有人出手整顿李川了",
       "onboard_time": 1731139758,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 132370,
-      "num": 132370,
-      "word": "熏鸡",
-      "onboard_time": 1731153198,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1809,6 +1905,14 @@
       "onboard_time": 1731078921,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131966,
+      "num": 131966,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 131364,
@@ -1841,14 +1945,6 @@
       "onboard_time": 1731072741,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130514,
-      "num": 130514,
-      "word": "产量仅1%的黑刺榴莲有多好吃",
-      "onboard_time": 1731156438,
-      "rank": 40,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 129668,
@@ -1923,20 +2019,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123561,
+      "num": 123561,
+      "word": "小伙不到30秒救下一个娃",
+      "onboard_time": 1731156860,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 123549,
       "num": 287965,
       "word": "郑钦文收获127万美元奖金",
       "onboard_time": 1731112638,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123427,
-      "num": 123427,
-      "word": "mlxg还在保Uzi",
-      "onboard_time": 1731156619,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 123317,
@@ -1961,14 +2057,6 @@
       "onboard_time": 1731137237,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119880,
-      "num": 256016,
-      "word": "一家二甲医院欠薪倒闭",
-      "onboard_time": 1731154099,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119288,
@@ -2009,6 +2097,14 @@
       "onboard_time": 1731153739,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117879,
+      "num": 117879,
+      "word": "双城之战动画第二季",
+      "onboard_time": 1731157579,
+      "rank": 46,
+      "category": "动漫,游戏"
     },
     {
       "raw_hot": 117565,
@@ -2347,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90352,
-      "num": 270011,
-      "word": "陈哲远大学同学聚会照",
-      "onboard_time": 1731156018,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89052,
       "num": 215293,
       "word": "美国演员托尼托德去世",
@@ -2481,6 +2569,14 @@
       "onboard_time": 1731123679,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68142,
+      "num": 400197,
+      "word": "员工拒绝调岗旷工被辞公司无需赔偿",
+      "onboard_time": 1731157098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68128,
@@ -2819,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27511,
+      "num": 1035597,
+      "word": "这些橙色身影是最坚实的依靠",
+      "onboard_time": 1731155118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26907,
       "num": 212687,
       "word": "郑钦文今年闯进6个不同级别赛事决赛",
@@ -2833,6 +2937,14 @@
       "onboard_time": 1731135917,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26258,
+      "num": 381038,
+      "word": "黄圣依该如何查夫妻共同财产",
+      "onboard_time": 1731157518,
+      "rank": 19,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 26103,
@@ -2889,14 +3001,6 @@
       "onboard_time": 1731079460,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 22980,
-      "num": 848375,
-      "word": "这些橙色身影是最坚实的依靠",
-      "onboard_time": 1731155118,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21534,
@@ -3055,6 +3159,9 @@
     },
     {
       "word": "#我们共同努力如期实现中国式现代化#"
+    },
+    {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
     }
   ]
 }
