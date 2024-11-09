@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731151053278,
+  "endTime": 1731152172540,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1263964,
+      "num": 1012497,
+      "word": "医院偶遇丁禹兮看病",
+      "onboard_time": 1731149359,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1236697,
       "num": 1236697,
       "word": "郑钦文手感火热",
@@ -161,14 +169,6 @@
       "onboard_time": 1731110898,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1012497,
-      "num": 1012497,
-      "word": "医院偶遇丁禹兮看病",
-      "onboard_time": 1731149359,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 936806,
@@ -275,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 773057,
+      "num": 408910,
+      "word": "永夜星河开虐",
+      "onboard_time": 1731150257,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 747089,
       "num": 747089,
       "word": "巴黎圣母院修复者拥抱庆祝",
@@ -331,6 +339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 660012,
+      "num": 327638,
+      "word": "女子收50万彩礼后与前男友去宾馆",
+      "onboard_time": 1731150439,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652565,
       "num": 652565,
       "word": "万安县公示3名95后女干部",
@@ -345,6 +361,14 @@
       "onboard_time": 1731143297,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634017,
+      "num": 348683,
+      "word": "4岁男童疑被教练推下平衡木致骨折",
+      "onboard_time": 1731148399,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621586,
@@ -369,14 +393,6 @@
       "onboard_time": 1731116841,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 615444,
-      "num": 349120,
-      "word": "永夜星河开虐",
-      "onboard_time": 1731150257,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 594084,
@@ -627,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361050,
-      "num": 348683,
-      "word": "4岁男童疑被教练推下平衡木致骨折",
-      "onboard_time": 1731148399,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350599,
       "num": 350599,
       "word": "郑钦文1比0克雷吉茨科娃",
@@ -683,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322851,
+      "num": 317170,
+      "word": "丁禹兮哭戏要碎了",
+      "onboard_time": 1731150618,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322492,
       "num": 260109,
       "word": "孙乐言 彭高",
       "onboard_time": 1731070459,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320041,
+      "num": 320041,
+      "word": "马斯克身家已达3137亿美元",
+      "onboard_time": 1731147018,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 318992,
@@ -737,6 +761,14 @@
       "onboard_time": 1731119418,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297010,
+      "num": 297010,
+      "word": "凌妙妙告诉慕子期她不是林虞",
+      "onboard_time": 1731151280,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 293516,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 258195,
-      "num": 213993,
+      "num": 238574,
       "word": "熏鸡商家感谢麦琳送的泼天流量",
       "onboard_time": 1731150257,
       "rank": 23,
@@ -824,22 +856,6 @@
       "word": "哑舍",
       "onboard_time": 1731120919,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 253037,
-      "num": 253037,
-      "word": "马斯克身家已达3137亿美元",
-      "onboard_time": 1731147018,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 252446,
-      "num": 212746,
-      "word": "丁禹兮哭戏要碎了",
-      "onboard_time": 1731150618,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -931,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228274,
-      "num": 228274,
-      "word": "女子收50万彩礼后与前男友去宾馆",
-      "onboard_time": 1731150439,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221069,
       "num": 338597,
       "word": "又一次成功发射一箭四星",
@@ -977,6 +985,14 @@
       "onboard_time": 1731115279,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 211017,
+      "num": 211017,
+      "word": "优酷给赵露思的生日排面",
+      "onboard_time": 1731151220,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 208068,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1731129258,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203558,
+      "num": 203558,
+      "word": "肖战专辑我们分三节上线",
+      "onboard_time": 1731151398,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 201995,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 179655,
-      "num": 179655,
+      "num": 229045,
       "word": "歼15D舰载机首次公开亮相",
       "onboard_time": 1731141738,
       "rank": 32,
@@ -1507,6 +1531,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 142034,
+      "num": 142034,
+      "word": "宋亚轩绝对音感",
+      "onboard_time": 1731151760,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "永夜星河打光",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1731089593,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134321,
+      "num": 223238,
+      "word": "长生怎么ban都能C",
+      "onboard_time": 1731151579,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 133674,
@@ -1723,20 +1763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122958,
+      "num": 210236,
+      "word": "律师称老人倒地店员报警已尽帮扶义务",
+      "onboard_time": 1731149599,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121941,
       "num": 121941,
       "word": "GEN疑似接触Ruler",
       "onboard_time": 1731137237,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120131,
-      "num": 210236,
-      "word": "律师称老人倒地店员报警已尽帮扶义务",
-      "onboard_time": 1731149599,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119288,
@@ -2003,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101093,
+      "num": 334903,
+      "word": "双台风即将成型冷空气无能为力",
+      "onboard_time": 1731151037,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100040,
       "num": 100040,
       "word": "以色列球迷在荷兰遭群殴",
@@ -2027,19 +2075,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96979,
+      "num": 96979,
+      "word": "大型无人作战艇虎鲸号首次公开亮相",
+      "onboard_time": 1731150019,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 96430,
       "num": 263698,
       "word": "短短三分钟浓烟灌满整个建筑",
       "onboard_time": 1731085338,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96278,
-      "num": 206486,
-      "word": "双台风即将成型冷空气无能为力",
-      "onboard_time": 1731151037,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2057,6 +2105,14 @@
       "onboard_time": 1731108677,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94943,
+      "num": 94943,
+      "word": "王昌龄是大唐战地记者吧",
+      "onboard_time": 1731151159,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 92370,
@@ -2443,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36417,
+      "num": 220158,
+      "word": "郑钦文高芙交手精彩集锦",
+      "onboard_time": 1731150798,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34680,
       "num": 327470,
       "word": "京东发800元大额券",
@@ -2457,14 +2521,6 @@
       "onboard_time": 1731150678,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34470,
-      "num": 204825,
-      "word": "郑钦文高芙交手精彩集锦",
-      "onboard_time": 1731150798,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 33764,
@@ -2521,6 +2577,14 @@
       "onboard_time": 1731093911,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27733,
+      "num": 213638,
+      "word": "刘宇宁火场打戏花絮",
+      "onboard_time": 1731151639,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 26907,
