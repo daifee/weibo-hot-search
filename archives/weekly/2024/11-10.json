@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731173702123,
+  "endTime": 1731176817404,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -49,6 +49,14 @@
       "onboard_time": 1731164961,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542743,
+      "num": 542743,
+      "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+      "onboard_time": 1731172635,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531859,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198199,
+      "num": 198199,
+      "word": "郑钦文1比1高芙",
+      "onboard_time": 1731172396,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192110,
       "num": 192110,
       "word": "丁禹兮哭戏要碎了",
@@ -241,14 +257,6 @@
       "onboard_time": 1731163761,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166648,
-      "num": 279618,
-      "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
-      "onboard_time": 1731172635,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152997,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87346,
+      "num": 164394,
+      "word": "郑钦文高芙决胜盘",
+      "onboard_time": 1731175573,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86869,
       "num": 86869,
       "word": "王楚钦观战林诗栋",
@@ -435,6 +451,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 71457,
+      "num": 71457,
+      "word": "院方回应更衣室发现隐藏摄像头",
+      "onboard_time": 1731172996,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67981,
+      "num": 67981,
+      "word": "阿尔茨海默症老人术后变计算小能手",
+      "onboard_time": 1731174854,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60322,
       "num": 60322,
       "word": "失笑站内热度破20000",
@@ -451,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44434,
-      "num": 60987,
-      "word": "院方回应更衣室发现隐藏摄像头",
-      "onboard_time": 1731172996,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37894,
       "num": 248180,
       "word": "忙了一天的勇士飞行表演队下班了",
@@ -467,10 +491,34 @@
       "category": "军事"
     },
     {
+      "raw_hot": 37619,
+      "num": 37619,
+      "word": "最正的黑莲花味",
+      "onboard_time": 1731176472,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27332,
       "num": 234215,
       "word": "郑钦文挽救3个破发点",
       "onboard_time": 1731172217,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25420,
+      "num": 164749,
+      "word": "伊朗否认策划谋杀特朗普",
+      "onboard_time": 1731174973,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 18667,
+      "num": 113500,
+      "word": "郑钦文挽救2个盘点破发",
+      "onboard_time": 1731175634,
       "rank": 14,
       "category": "体育"
     },
