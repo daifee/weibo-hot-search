@@ -1,0 +1,410 @@
+{
+  "runTime": 1731121070697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1983831,
+        "num": 1983831,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994101,
+        "num": 994101,
+        "word": "翁青雅 芈迭",
+        "onboard_time": 1731111018,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2997,
+        "num": 883733,
+        "word": "逛进博看新潮",
+        "onboard_time": 1731070819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799447,
+        "num": 799447,
+        "word": "英国宣布制裁10家中国企业",
+        "onboard_time": 1731119539,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 706701,
+        "num": 706701,
+        "word": "我喜欢子期我愿意嫁给子期",
+        "onboard_time": 1731111197,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1019661,
+        "num": 694388,
+        "word": "知情人称要求陪睡公司总有女生应聘",
+        "onboard_time": 1731089113,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666331,
+        "num": 666331,
+        "word": "巴黎圣母院修复者拥抱庆祝",
+        "onboard_time": 1731116658,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 621317,
+        "num": 621317,
+        "word": "赵露思化了珍珠妆",
+        "onboard_time": 1731116841,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558909,
+        "num": 558909,
+        "word": "麦琳要求重新剪辑故事线",
+        "onboard_time": 1731116658,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421836,
+        "num": 540434,
+        "word": "女子举报被名校博士骗走3920万",
+        "onboard_time": 1731117380,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315885,
+        "num": 538656,
+        "word": "韦雪回应被权志龙喜欢过",
+        "onboard_time": 1731116418,
+        "rank": 10,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 534633,
+        "num": 534633,
+        "word": "天启 出轨",
+        "onboard_time": 1731119658,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 502240,
+        "num": 502240,
+        "word": "特朗普第二任期将拥有更大权力",
+        "onboard_time": 1731115279,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 493750,
+        "num": 493750,
+        "word": "肖战专辑我们预告照",
+        "onboard_time": 1731119780,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482684,
+        "num": 482684,
+        "word": "一觉醒来郑钦文成了亚洲一姐",
+        "onboard_time": 1731110898,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423512,
+        "num": 423512,
+        "word": "济南小伙每周走读去韩国读博",
+        "onboard_time": 1731117019,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392788,
+        "num": 392788,
+        "word": "男子偷窥儿子女友洗澡被行拘5日",
+        "onboard_time": 1731079821,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320928,
+        "num": 320928,
+        "word": "张婉婷觉得麦琳确实是有问题",
+        "onboard_time": 1731113839,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250766,
+        "num": 250766,
+        "word": "癌症晚期男子怒砸店铺商家放弃追偿",
+        "onboard_time": 1731076642,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110160,
+        "num": 234908,
+        "word": "黄圣依点赞说杨子不要脸的微博",
+        "onboard_time": 1731119418,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 838273,
+        "num": 234270,
+        "word": "台湾一3岁女童遭男保姆性侵",
+        "onboard_time": 1731117799,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233273,
+        "num": 233273,
+        "word": "永夜星河男三 加戏",
+        "onboard_time": 1731078083,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230475,
+        "num": 230475,
+        "word": "以色列学生称巴勒斯坦人为畜生",
+        "onboard_time": 1731118998,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 225710,
+        "num": 225710,
+        "word": "美司法部指控伊朗策划谋杀特朗普",
+        "onboard_time": 1731115458,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212232,
+        "num": 212232,
+        "word": "开封倡议骑行别扎堆也不必深夜",
+        "onboard_time": 1731120079,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207043,
+        "num": 207043,
+        "word": "肖战专辑预约",
+        "onboard_time": 1731120319,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199988,
+        "num": 199988,
+        "word": "你好星期六全员passion",
+        "onboard_time": 1731120319,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180116,
+        "num": 180116,
+        "word": "费启鸣否认加戏",
+        "onboard_time": 1731116598,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169882,
+        "num": 169882,
+        "word": "关晓彤 国民闺女赛道",
+        "onboard_time": 1731118218,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52161,
+        "num": 169340,
+        "word": "白敬亭魏翔新片概念预告",
+        "onboard_time": 1731120377,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177194,
+        "num": 169334,
+        "word": "王一栩",
+        "onboard_time": 1731114498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169247,
+        "num": 169247,
+        "word": "张纯如逝世20周年",
+        "onboard_time": 1731116841,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167029,
+        "num": 167029,
+        "word": "中国向意大利赠送1000毫克月壤",
+        "onboard_time": 1731117317,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152764,
+        "num": 152764,
+        "word": "萨巴伦卡出局数次气到摔拍",
+        "onboard_time": 1731117077,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145251,
+        "num": 145251,
+        "word": "幼儿园上午演练孩子下午遇火灾逃生",
+        "onboard_time": 1731075561,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140521,
+        "num": 140521,
+        "word": "姐姐回应会不会和杨妞花闹翻",
+        "onboard_time": 1731117138,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131062,
+        "num": 131062,
+        "word": "时隔5年巴黎圣母院钟声再次响起",
+        "onboard_time": 1731116658,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50286,
+        "num": 129274,
+        "word": "金标大众降至16万",
+        "onboard_time": 1731116239,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127670,
+        "num": 127670,
+        "word": "勇士半场落后41分",
+        "onboard_time": 1731118457,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119815,
+        "num": 119815,
+        "word": "普京有意愿与特朗普接触",
+        "onboard_time": 1731115279,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118848,
+        "num": 118848,
+        "word": "愿消防员每次出发都平安归来",
+        "onboard_time": 1731117198,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115452,
+        "num": 115452,
+        "word": "哈妮克孜 何广智人傻钱多",
+        "onboard_time": 1731119961,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112933,
+        "num": 112933,
+        "word": "永夜星河",
+        "onboard_time": 1731066138,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112813,
+        "num": 112813,
+        "word": "十个勤天下期回后陡门了",
+        "onboard_time": 1731119239,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111370,
+        "num": 111370,
+        "word": "哑舍",
+        "onboard_time": 1731120919,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106446,
+        "num": 106446,
+        "word": "巴勒斯坦总统与特朗普通电话",
+        "onboard_time": 1731120859,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104157,
+        "num": 104157,
+        "word": "意大利返还56件中国文物艺术品",
+        "onboard_time": 1731077543,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102368,
+        "num": 102368,
+        "word": "孙乐言 彭高",
+        "onboard_time": 1731070459,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101592,
+        "num": 101592,
+        "word": "防患于未燃是对消防最好的致敬",
+        "onboard_time": 1731118699,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100225,
+        "num": 100225,
+        "word": "丁禹兮早期旧照",
+        "onboard_time": 1731117678,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同意大利总统马塔雷拉会谈#"
+    }
+  }
+}
