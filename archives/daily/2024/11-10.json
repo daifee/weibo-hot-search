@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731179790861,
+  "endTime": 1731180913131,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -75,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446951,
+      "num": 446951,
+      "word": "郑钦文高芙决胜盘",
+      "onboard_time": 1731175573,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 392424,
+      "num": 392424,
+      "word": "郑钦文WTA总决赛亚军",
+      "onboard_time": 1731166159,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387131,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
@@ -115,11 +131,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 354656,
-      "num": 354656,
-      "word": "郑钦文高芙决胜盘",
-      "onboard_time": 1731175573,
-      "rank": 9,
+      "raw_hot": 348521,
+      "num": 348521,
+      "word": "郑钦文",
+      "onboard_time": 1731180792,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207563,
+      "num": 207563,
+      "word": "郑钦文 抢七",
+      "onboard_time": 1731179652,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "阿娇演的怨女",
@@ -273,6 +297,14 @@
       "onboard_time": 1731163761,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162507,
+      "num": 162507,
+      "word": "巴基斯坦爆炸发生时站台旅客很多",
+      "onboard_time": 1731178692,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 152997,
@@ -475,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61515,
+      "num": 61515,
+      "word": "郑钦文1比2高芙",
+      "onboard_time": 1731172396,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60322,
       "num": 60322,
       "word": "失笑站内热度破20000",
       "onboard_time": 1731170838,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58186,
-      "num": 108391,
-      "word": "巴基斯坦爆炸发生时站台旅客很多",
-      "onboard_time": 1731178692,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 55506,
@@ -499,12 +531,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54770,
+      "num": 104976,
+      "word": "郑钦文首次参加总决赛就获得亚军",
+      "onboard_time": 1731180372,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54129,
+      "num": 103652,
+      "word": "郑钦文再次刷新个人最佳纪录",
+      "onboard_time": 1731180252,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53005,
       "num": 134988,
       "word": "拍卖公司回应女子11元拍下海景房",
       "onboard_time": 1731177253,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39724,
+      "num": 39724,
+      "word": "郑钦文晋级总决赛争冠战",
+      "onboard_time": 1731086295,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 37894,
@@ -555,18 +611,18 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22639,
+      "num": 162573,
+      "word": "巴基斯坦火车站爆炸死亡人数升至25人",
+      "onboard_time": 1731178573,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 18667,
       "num": 113500,
       "word": "郑钦文挽救2个盘点破发",
       "onboard_time": 1731175634,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 9141,
-      "num": 77647,
-      "word": "郑钦文 抢七",
-      "onboard_time": 1731179652,
       "rank": 14,
       "category": "体育"
     },

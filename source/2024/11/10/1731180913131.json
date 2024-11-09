@@ -1,0 +1,410 @@
+{
+  "runTime": 1731180913131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 897227,
+        "num": 897227,
+        "word": "郑钦文vs高芙",
+        "onboard_time": 1731166040,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446951,
+        "num": 446951,
+        "word": "郑钦文高芙决胜盘",
+        "onboard_time": 1731175573,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1544,
+        "num": 392461,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392424,
+        "num": 392424,
+        "word": "郑钦文WTA总决赛亚军",
+        "onboard_time": 1731166159,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348521,
+        "num": 348521,
+        "word": "郑钦文",
+        "onboard_time": 1731180792,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207563,
+        "num": 207563,
+        "word": "郑钦文 抢七",
+        "onboard_time": 1731179652,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202864,
+        "num": 202864,
+        "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+        "onboard_time": 1731172635,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146253,
+        "num": 179605,
+        "word": "费启鸣直播求饶",
+        "onboard_time": 1731176833,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127685,
+        "num": 164477,
+        "word": "将门毒后",
+        "onboard_time": 1731165678,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22639,
+        "num": 162573,
+        "word": "巴基斯坦火车站爆炸死亡人数升至25人",
+        "onboard_time": 1731178573,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162507,
+        "num": 162507,
+        "word": "巴基斯坦爆炸发生时站台旅客很多",
+        "onboard_time": 1731178692,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126578,
+        "num": 126578,
+        "word": "被传患病网红夫妇无奈离开家乡",
+        "onboard_time": 1731165080,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54770,
+        "num": 104976,
+        "word": "郑钦文首次参加总决赛就获得亚军",
+        "onboard_time": 1731180372,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54129,
+        "num": 103652,
+        "word": "郑钦文再次刷新个人最佳纪录",
+        "onboard_time": 1731180252,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103218,
+        "num": 103218,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93372,
+        "num": 93372,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80813,
+        "num": 80813,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77655,
+        "num": 77655,
+        "word": "长沙一写字楼电梯提示引人不适",
+        "onboard_time": 1731163761,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77316,
+        "num": 77316,
+        "word": "佩洛西埋怨拜登",
+        "onboard_time": 1731168620,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60523,
+        "num": 65201,
+        "word": "内娱又有troublemaker上新",
+        "onboard_time": 1731164660,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63535,
+        "num": 63535,
+        "word": "王一栩我要打死你",
+        "onboard_time": 1731153259,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61515,
+        "num": 61515,
+        "word": "郑钦文1比2高芙",
+        "onboard_time": 1731172396,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56093,
+        "num": 56093,
+        "word": "哈尔滨中央大街冰糖葫芦男神爆火",
+        "onboard_time": 1731167719,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54114,
+        "num": 54114,
+        "word": "95花top",
+        "onboard_time": 1731160339,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47255,
+        "num": 47255,
+        "word": "口服避孕药 致癌物",
+        "onboard_time": 1731156438,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46231,
+        "num": 46231,
+        "word": "永夜星河开虐",
+        "onboard_time": 1731150257,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45899,
+        "num": 45899,
+        "word": "拍卖公司回应女子11元拍下海景房",
+        "onboard_time": 1731177253,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43845,
+        "num": 43845,
+        "word": "郑钦文总决赛冲冠",
+        "onboard_time": 1731163220,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41816,
+        "num": 41816,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1731164961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41646,
+        "num": 41646,
+        "word": "向佐发文为赵露思庆生",
+        "onboard_time": 1731171737,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40667,
+        "num": 40667,
+        "word": "加油QueenWen",
+        "onboard_time": 1731167960,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39724,
+        "num": 39724,
+        "word": "郑钦文晋级总决赛争冠战",
+        "onboard_time": 1731086295,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39309,
+        "num": 39309,
+        "word": "彭高回母校中山大学了",
+        "onboard_time": 1731167120,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 38377,
+        "num": 38377,
+        "word": "阿娇演的怨女",
+        "onboard_time": 1731156920,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37034,
+        "num": 37034,
+        "word": "王艺迪4比2张本美和",
+        "onboard_time": 1731168439,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36160,
+        "num": 36160,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34417,
+        "num": 34417,
+        "word": "丁禹兮哭戏要碎了",
+        "onboard_time": 1731150618,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33094,
+        "num": 33094,
+        "word": "腾讯七部热度破30000剧集",
+        "onboard_time": 1731159200,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30042,
+        "num": 30042,
+        "word": "豆瓣崩了",
+        "onboard_time": 1731162860,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29591,
+        "num": 29591,
+        "word": "警方通报女生求职被要求陪睡",
+        "onboard_time": 1731165620,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29086,
+        "num": 29086,
+        "word": "女子收50万彩礼后与前男友去宾馆",
+        "onboard_time": 1731150439,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27373,
+        "num": 29083,
+        "word": "卡尔伯格4比2莫雷加德",
+        "onboard_time": 1731172217,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27244,
+        "num": 29070,
+        "word": "公立医院洗牌时代真的来了",
+        "onboard_time": 1731161301,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26473,
+        "num": 29069,
+        "word": "建议每个恐华症的人都到中国看看",
+        "onboard_time": 1731156799,
+        "rank": 43,
+        "category": "国外时政,国内时政"
+      },
+      {
+        "raw_hot": 25124,
+        "num": 29056,
+        "word": "阿尔茨海默症老人术后变计算小能手",
+        "onboard_time": 1731174854,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25099,
+        "num": 29050,
+        "word": "鹿晗西安",
+        "onboard_time": 1731158539,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24918,
+        "num": 29041,
+        "word": "子期仰头落泪",
+        "onboard_time": 1731178871,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22975,
+        "num": 29031,
+        "word": "院方回应更衣室发现隐藏摄像头",
+        "onboard_time": 1731172996,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 29023,
+        "word": "虞书欣90后首位三平台破万演员",
+        "onboard_time": 1731165080,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22428,
+        "num": 29019,
+        "word": "长期上班一定要多出去旅游",
+        "onboard_time": 1731160281,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    }
+  }
+}
