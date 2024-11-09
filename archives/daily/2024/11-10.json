@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731183702354,
+  "endTime": 1731184506349,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45936,
+      "num": 45936,
+      "word": "男生学自行车女生在一旁扶车子",
+      "onboard_time": 1731182171,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39724,
       "num": 39724,
       "word": "郑钦文晋级总决赛争冠战",
@@ -593,14 +601,6 @@
       "onboard_time": 1731178871,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32226,
-      "num": 32226,
-      "word": "男生学自行车女生在一旁扶车子",
-      "onboard_time": 1731182171,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31764,
@@ -635,6 +635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19074,
+      "num": 22679,
+      "word": "夜骑开封的共享单车被倒卖",
+      "onboard_time": 1731183072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18835,
+      "num": 22653,
+      "word": "王啸坤",
+      "onboard_time": 1731184031,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18667,
       "num": 113500,
       "word": "郑钦文挽救2个盘点破发",
@@ -643,20 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12593,
+      "raw_hot": 16450,
+      "num": 68751,
+      "word": "需要排号才能进的理发店咋这么火",
+      "onboard_time": 1731183431,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 14746,
       "num": 25444,
       "word": "再平凡的工作认真去做也能闪闪发光",
       "onboard_time": 1731183550,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12366,
-      "num": 28934,
-      "word": "需要排号才能进的理发店咋这么火",
-      "onboard_time": 1731183431,
-      "rank": 29,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 4776,
