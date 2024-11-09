@@ -1,14 +1,22 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731108913812,
+  "endTime": 1731116668819,
   "band_list": [
     {
       "raw_hot": 1760293,
-      "num": 294891,
+      "num": 302967,
       "word": "男子偷窥儿子女友洗澡被行拘5日",
       "onboard_time": 1731079821,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1317540,
+      "num": 1317540,
+      "word": "翁青雅 芈迭",
+      "onboard_time": 1731111018,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1236697,
@@ -27,6 +35,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1059870,
+      "num": 1059870,
+      "word": "一觉醒来郑钦文成了亚洲一姐",
+      "onboard_time": 1731110898,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 961923,
+      "num": 961923,
+      "word": "知情人称要求陪睡公司总有女生应聘",
+      "onboard_time": 1731089113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906543,
       "num": 278241,
       "word": "拒绝日本人入住酒店公示不接日籍游客",
@@ -43,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 725103,
-      "num": 186832,
-      "word": "知情人称要求陪睡公司总有女生应聘",
-      "onboard_time": 1731089113,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 790494,
+      "num": 790494,
+      "word": "我喜欢子期我愿意嫁给子期",
+      "onboard_time": 1731111197,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 701422,
@@ -67,11 +91,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 564123,
+      "num": 564123,
+      "word": "女孩跑步终点前瘫倒跪着爬向终点",
+      "onboard_time": 1731112158,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540554,
       "num": 406385,
       "word": "麦琳撕伞",
       "onboard_time": 1731075081,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 517029,
+      "num": 301718,
+      "word": "张婉婷觉得麦琳确实是有问题",
+      "onboard_time": 1731113839,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -89,6 +129,14 @@
       "onboard_time": 1731072019,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402940,
+      "num": 296093,
+      "word": "韦雪回应被权志龙喜欢过",
+      "onboard_time": 1731116418,
+      "rank": 13,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 379063,
@@ -155,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326063,
+      "num": 326063,
+      "word": "王一栩",
+      "onboard_time": 1731114498,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324654,
       "num": 263753,
       "word": "吴磊工作室致歉",
@@ -171,19 +227,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306739,
+      "num": 306739,
+      "word": "幼儿园上午演练孩子下午遇火灾逃生",
+      "onboard_time": 1731075561,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293816,
+      "num": 293816,
+      "word": "特朗普第二任期将拥有更大权力",
+      "onboard_time": 1731115279,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 293516,
       "num": 293516,
       "word": "中国成为全球第二个双隐国家",
       "onboard_time": 1731061459,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276509,
-      "num": 276509,
-      "word": "幼儿园上午演练孩子下午遇火灾逃生",
-      "onboard_time": 1731075561,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -259,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178261,
+      "num": 178261,
+      "word": "记者跳了一天",
+      "onboard_time": 1731114559,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177915,
       "num": 177915,
       "word": "丁禹兮展示建构甲",
@@ -291,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165446,
+      "num": 165446,
+      "word": "美司法部指控伊朗策划谋杀特朗普",
+      "onboard_time": 1731115458,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160377,
       "num": 160377,
       "word": "郑钦文世界排名上升到第五",
@@ -307,6 +387,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146494,
+      "num": 146494,
+      "word": "女子带日本人入住酒店被拒",
+      "onboard_time": 1731097991,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145922,
+      "num": 138787,
+      "word": "一觉醒来郑钦文创造2个首次",
+      "onboard_time": 1731115339,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142347,
+      "num": 142347,
+      "word": "当瑞士卷事件在福建",
+      "onboard_time": 1731111559,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140749,
       "num": 140749,
       "word": "关晓彤哭戏",
@@ -321,6 +425,22 @@
       "onboard_time": 1731079700,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138719,
+      "num": 187057,
+      "word": "被执行人打工4年还清16万激动到哽咽",
+      "onboard_time": 1731107174,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134322,
+      "num": 134322,
+      "word": "理发师晓华回应同行质疑",
+      "onboard_time": 1731089593,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132333,
@@ -347,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127169,
+      "num": 140342,
+      "word": "十个勤天也是当上捉妖师了",
+      "onboard_time": 1731114978,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123773,
       "num": 123773,
       "word": "郑钦文闯入WTA年终总决赛决赛",
@@ -360,6 +488,22 @@
       "word": "王安宇演技",
       "onboard_time": 1731072141,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114998,
+      "num": 138793,
+      "word": "赵露思唐晓天cha螂的诱惑",
+      "onboard_time": 1731111618,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113729,
+      "num": 113729,
+      "word": "费启鸣否认加戏",
+      "onboard_time": 1731116598,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -379,6 +523,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111909,
+      "num": 111909,
+      "word": "郑钦文收获127万美元奖金",
+      "onboard_time": 1731112638,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110687,
+      "num": 110687,
+      "word": "普京有意愿与特朗普接触",
+      "onboard_time": 1731115279,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 109568,
       "num": 178342,
       "word": "杨子也哭了",
@@ -395,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106098,
+      "num": 106098,
+      "word": "WTT法兰克福冠军赛",
+      "onboard_time": 1731111258,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106003,
       "num": 106003,
       "word": "呼吸性碱中毒",
@@ -403,12 +571,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105587,
-      "num": 105587,
-      "word": "理发师晓华回应同行质疑",
-      "onboard_time": 1731089593,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 105895,
+      "num": 105895,
+      "word": "杨超越 我怕被恶剪",
+      "onboard_time": 1731113899,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 103751,
@@ -419,11 +587,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101553,
+      "num": 101553,
+      "word": "李清照为护文物不惜入狱手撕渣男",
+      "onboard_time": 1731107595,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 101107,
       "num": 101107,
       "word": "郑钦文vs克雷吉茨科娃",
       "onboard_time": 1731076222,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100040,
+      "num": 100040,
+      "word": "以色列球迷在荷兰遭群殴",
+      "onboard_time": 1731107114,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -443,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94990,
+      "num": 130359,
+      "word": "格莱美",
+      "onboard_time": 1731108677,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92370,
       "num": 178059,
       "word": "疑似李高视频称20万赎金是骗人的",
@@ -456,6 +648,14 @@
       "word": "王楚钦世一是一板一板打出来的",
       "onboard_time": 1731062420,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87476,
+      "num": 177271,
+      "word": "王曼昱3比0钱天一",
+      "onboard_time": 1731108196,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -473,14 +673,6 @@
       "onboard_time": 1731076581,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83638,
-      "num": 83638,
-      "word": "以色列球迷在荷兰遭群殴",
-      "onboard_time": 1731107114,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 83618,
@@ -507,6 +699,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 80556,
+      "num": 83983,
+      "word": "郑钦文高芙职业生涯数据对比",
+      "onboard_time": 1731111799,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76075,
       "num": 76075,
       "word": "普京称特朗普是条勇敢的汉子",
@@ -515,20 +715,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 75653,
+      "num": 196811,
+      "word": "内娱神级转场又加一个",
+      "onboard_time": 1731115998,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68128,
       "num": 68128,
       "word": "子期喜欢妙妙全世界都知道",
       "onboard_time": 1731078442,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68037,
-      "num": 187057,
-      "word": "被执行人打工4年还清16万激动到哽咽",
-      "onboard_time": 1731107174,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67969,
@@ -561,30 +761,6 @@
       "onboard_time": 1731105014,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60568,
-      "num": 60568,
-      "word": "女子带日本人入住酒店被拒",
-      "onboard_time": 1731097991,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57778,
-      "num": 57778,
-      "word": "李清照为护文物不惜入狱手撕渣男",
-      "onboard_time": 1731107595,
-      "rank": 48,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 50451,
-      "num": 130359,
-      "word": "格莱美",
-      "onboard_time": 1731108677,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 48647,
@@ -643,14 +819,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 38264,
-      "num": 177271,
-      "word": "王曼昱3比0钱天一",
-      "onboard_time": 1731108196,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33327,
       "num": 33327,
       "word": "于文文巡演",
@@ -683,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29281,
+      "num": 304841,
+      "word": "我们愿致敬青春但也感谢护航人",
+      "onboard_time": 1731115879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25692,
       "num": 53089,
       "word": "沈阳交警通报沈海高速一起交通事故",
@@ -697,6 +873,14 @@
       "onboard_time": 1731097760,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23052,
+      "num": 96490,
+      "word": "金标大众降至16万",
+      "onboard_time": 1731116239,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 22989,
@@ -804,7 +988,7 @@
     },
     {
       "raw_hot": 6044,
-      "num": 642933,
+      "num": 1004379,
       "word": "逛进博看新潮",
       "onboard_time": 1731070819,
       "rank": 2,
