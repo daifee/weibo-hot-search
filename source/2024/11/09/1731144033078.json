@@ -1,0 +1,410 @@
+{
+  "runTime": 1731144033078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2113551,
+        "num": 2113551,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187452,
+        "num": 1187452,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21679,
+        "num": 868426,
+        "word": "60秒沉浸式打卡进博之美",
+        "onboard_time": 1731142697,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717757,
+        "num": 717757,
+        "word": "芈迭 我和青雅只是朋友关系",
+        "onboard_time": 1731135859,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706245,
+        "num": 706245,
+        "word": "造谣者父亲说小朋友开开玩笑",
+        "onboard_time": 1731137719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568273,
+        "num": 568273,
+        "word": "幼儿园小孩哥立定跳远一米七",
+        "onboard_time": 1731139219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551661,
+        "num": 551661,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478431,
+        "num": 478431,
+        "word": "林大厨为凌妙妙设计黑莲花",
+        "onboard_time": 1731138918,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465131,
+        "num": 465131,
+        "word": "郑州发布交通管制通告",
+        "onboard_time": 1731141560,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442070,
+        "num": 442070,
+        "word": "迪丽热巴陈飞宇慕胥辞婚服路透",
+        "onboard_time": 1731139517,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731466,
+        "num": 426410,
+        "word": "郑州共享单车超区骑行将强制锁车",
+        "onboard_time": 1731140418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599723,
+        "num": 410112,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 572275,
+        "num": 400025,
+        "word": "郑开大道郑州段非机动车道临时禁行",
+        "onboard_time": 1731136760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373232,
+        "num": 373232,
+        "word": "一双跑鞋的寿命就800公里",
+        "onboard_time": 1731136937,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362748,
+        "num": 362748,
+        "word": "女子6次敲诈海底捞被判7个月",
+        "onboard_time": 1731128120,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287221,
+        "num": 287221,
+        "word": "李行亮买青团的机票是积分换的",
+        "onboard_time": 1731136038,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272042,
+        "num": 272042,
+        "word": "郑开大道开封段非机动车道禁行",
+        "onboard_time": 1731142158,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260722,
+        "num": 260722,
+        "word": "谢娜在孩子出生前就买好小孩衣服",
+        "onboard_time": 1731130219,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247837,
+        "num": 247837,
+        "word": "百万粉丝博主江边捡垃圾发现散落人骨",
+        "onboard_time": 1731134299,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128973,
+        "num": 246663,
+        "word": "妈妈要求爱豆女儿退圈照顾弟弟",
+        "onboard_time": 1731143539,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311223,
+        "num": 246567,
+        "word": "男子养了3年的小狗竟是野狼",
+        "onboard_time": 1731138918,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246408,
+        "num": 246408,
+        "word": "六公主精准放片日本人没房间",
+        "onboard_time": 1731131778,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213151,
+        "num": 213151,
+        "word": "熏鸡事变",
+        "onboard_time": 1731123379,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209748,
+        "num": 209748,
+        "word": "永夜星河将拍摄团综",
+        "onboard_time": 1731139278,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208519,
+        "num": 208519,
+        "word": "万安县公示3名95后女干部",
+        "onboard_time": 1731126018,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191229,
+        "num": 191229,
+        "word": "虞书欣头像库更新",
+        "onboard_time": 1731143297,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181102,
+        "num": 181102,
+        "word": "刘学义怀疑沈月武艺是真情侣",
+        "onboard_time": 1731134059,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178465,
+        "num": 178465,
+        "word": "丁禹兮演出了书里的微表情",
+        "onboard_time": 1731134657,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49369,
+        "num": 175614,
+        "word": "俄勇士飞行表演队开展飞行训练",
+        "onboard_time": 1731143718,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20785,
+        "num": 173385,
+        "word": "郑钦文今年闯进6个不同级别赛事决赛",
+        "onboard_time": 1731143597,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261987,
+        "num": 173264,
+        "word": "感觉留几手和葛夕真的生气了",
+        "onboard_time": 1731143297,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172925,
+        "num": 172925,
+        "word": "Offer6嘉宾曝光秋招内幕",
+        "onboard_time": 1731143178,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163935,
+        "num": 163935,
+        "word": "歼15D舰载机首次公开亮相",
+        "onboard_time": 1731141738,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 138761,
+        "num": 138761,
+        "word": "翁青雅 芈迭",
+        "onboard_time": 1731111018,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133072,
+        "num": 133072,
+        "word": "高铁站员工被曝上班慵懒盘核桃",
+        "onboard_time": 1731125538,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 132468,
+        "word": "40岁农村父亲第一次穿了裙子",
+        "onboard_time": 1731139579,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123656,
+        "num": 123656,
+        "word": "永夜星河打光",
+        "onboard_time": 1731143597,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120091,
+        "num": 120091,
+        "word": "桂林火车站通报工作人员躺坐式服务",
+        "onboard_time": 1731140297,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117274,
+        "num": 117274,
+        "word": "图书馆三十秒文学",
+        "onboard_time": 1731143658,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117159,
+        "num": 117159,
+        "word": "好东西",
+        "onboard_time": 1731143539,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117093,
+        "num": 117093,
+        "word": "终于有人出手整顿李川了",
+        "onboard_time": 1731139758,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116636,
+        "num": 116636,
+        "word": "疯狂动物城2",
+        "onboard_time": 1731123079,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111281,
+        "num": 111281,
+        "word": "芈迭回应与翁青雅传闻",
+        "onboard_time": 1731142099,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103667,
+        "num": 103667,
+        "word": "行人捡到金项链后遗失被起诉赔偿",
+        "onboard_time": 1731141798,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102395,
+        "num": 102395,
+        "word": "Faker曾因压力抑郁",
+        "onboard_time": 1731138198,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100707,
+        "num": 100707,
+        "word": "再见爱人 图书馆三十秒文学",
+        "onboard_time": 1731135737,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97977,
+        "num": 97977,
+        "word": "洪尧评论区",
+        "onboard_time": 1731127399,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95919,
+        "num": 95919,
+        "word": "巴基斯坦火车站爆炸死亡升至22人",
+        "onboard_time": 1731130458,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90515,
+        "num": 90515,
+        "word": "陈都灵程潇hi6捧脸杀",
+        "onboard_time": 1731142878,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87478,
+        "num": 87478,
+        "word": "双城之战",
+        "onboard_time": 1731141560,
+        "rank": 49,
+        "category": "动漫,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向意大利总统赠送月壤#"
+    }
+  }
+}
