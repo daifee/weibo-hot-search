@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731129601178,
+  "endTime": 1731130647669,
   "band_list": [
     {
       "raw_hot": 1990982,
@@ -27,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1436071,
+      "num": 1436071,
+      "word": "高铁站员工被曝上班慵懒盘核桃",
+      "onboard_time": 1731125538,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1408372,
       "num": 538656,
       "word": "韦雪回应被权志龙喜欢过",
@@ -35,15 +43,7 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 1317540,
-      "num": 1317540,
-      "word": "翁青雅 芈迭",
-      "onboard_time": 1731111018,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1294701,
+      "raw_hot": 1374609,
       "num": 535024,
       "word": "特朗普已准备再次退出巴黎协定",
       "onboard_time": 1731125899,
@@ -51,12 +51,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1251673,
-      "num": 1251673,
-      "word": "高铁站员工被曝上班慵懒盘核桃",
-      "onboard_time": 1731125538,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 1317540,
+      "num": 1317540,
+      "word": "翁青雅 芈迭",
+      "onboard_time": 1731111018,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1236697,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 936806,
+      "num": 532520,
+      "word": "洪尧评论区",
+      "onboard_time": 1731127399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 906543,
       "num": 278241,
       "word": "拒绝日本人入住酒店公示不接日籍游客",
@@ -121,14 +129,6 @@
       "onboard_time": 1731117799,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 807220,
-      "num": 532520,
-      "word": "洪尧评论区",
-      "onboard_time": 1731127399,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 795461,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652565,
+      "num": 652565,
+      "word": "万安县公示3名95后女干部",
+      "onboard_time": 1731126018,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621586,
       "num": 621586,
       "word": "饶雪漫回应彭高翁青雅分手",
@@ -201,14 +209,6 @@
       "onboard_time": 1731115279,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 579679,
-      "num": 579679,
-      "word": "万安县公示3名95后女干部",
-      "onboard_time": 1731126018,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564123,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417750,
+      "num": 417750,
+      "word": "格莱美kpop0提名",
+      "onboard_time": 1731128360,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 380220,
       "num": 329045,
       "word": "开封倡议骑行别扎堆也不必深夜",
@@ -345,14 +353,6 @@
       "onboard_time": 1731081740,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350250,
-      "num": 350250,
-      "word": "格莱美kpop0提名",
-      "onboard_time": 1731128360,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 348188,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313249,
+      "num": 507635,
+      "word": "听得懂话的女Tony被同行diss了",
+      "onboard_time": 1731129199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313161,
       "num": 313161,
       "word": "幼儿园上午演练孩子下午遇火灾逃生",
@@ -443,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 286622,
+      "num": 396969,
+      "word": "女子6次敲诈海底捞被判7个月",
+      "onboard_time": 1731128120,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286375,
       "num": 286375,
       "word": "黄圣依没有杨子描述的痣",
@@ -481,6 +497,14 @@
       "onboard_time": 1731120919,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254218,
+      "num": 254218,
+      "word": "谢娜怀孕前就把小孩的衣服买好",
+      "onboard_time": 1731130219,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 250392,
@@ -539,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221069,
+      "num": 338597,
+      "word": "又一次成功发射一箭四星",
+      "onboard_time": 1731127701,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216501,
       "num": 216501,
       "word": "怀胎八月不做产检孩子不见了",
@@ -563,12 +595,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 208386,
-      "num": 338597,
-      "word": "又一次成功发射一箭四星",
-      "onboard_time": 1731127701,
-      "rank": 20,
-      "category": "国内时政"
+      "raw_hot": 214877,
+      "num": 320848,
+      "word": "永夜星河被腾讯赐名星帝",
+      "onboard_time": 1731130039,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 208068,
@@ -627,20 +659,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195168,
+      "num": 195168,
+      "word": "郑钦文说爸爸已经变成慈父了",
+      "onboard_time": 1731127701,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194647,
       "num": 193351,
       "word": "麦琳的笑",
       "onboard_time": 1731121819,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193239,
-      "num": 193239,
-      "word": "郑钦文说爸爸已经变成慈父了",
-      "onboard_time": 1731127701,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 192793,
@@ -755,6 +787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 166737,
+      "num": 343833,
+      "word": "女推2全员丝滑变装",
+      "onboard_time": 1731127219,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165553,
       "num": 165553,
       "word": "丁禹兮谢谢你啊齐思钧儿",
@@ -819,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150723,
-      "num": 150723,
-      "word": "听得懂话的女Tony被同行diss了",
-      "onboard_time": 1731129199,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150043,
       "num": 150043,
       "word": "7.7万名村支书村主任已被立案",
@@ -865,14 +897,6 @@
       "onboard_time": 1731115339,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145290,
-      "num": 396969,
-      "word": "女子6次敲诈海底捞被判7个月",
-      "onboard_time": 1731128120,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142347,
@@ -955,6 +979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129668,
+      "num": 221004,
+      "word": "大梦归离一段皮影演三台戏",
+      "onboard_time": 1731129798,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "WTA年终总决赛",
@@ -1003,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120867,
-      "num": 343833,
-      "word": "女推2全员丝滑变装",
-      "onboard_time": 1731127219,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119123,
       "num": 119123,
       "word": "王安宇演技",
@@ -1043,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114569,
+      "num": 136665,
+      "word": "湖人vs76人",
+      "onboard_time": 1731127701,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113629,
       "num": 113629,
       "word": "恋与深空",
@@ -1059,12 +1091,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111039,
-      "num": 125782,
-      "word": "湖人vs76人",
-      "onboard_time": 1731127701,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 112180,
+      "num": 220069,
+      "word": "巴基斯坦火车站爆炸死亡升至22人",
+      "onboard_time": 1731130458,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 111018,
@@ -1411,6 +1443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45294,
+      "num": 279261,
+      "word": "周也上城士24小时",
+      "onboard_time": 1731130519,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44958,
+      "num": 218504,
+      "word": "歼15D首次亮相",
+      "onboard_time": 1731130399,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 41110,
       "num": 194462,
       "word": "郑钦文先下一盘",
@@ -1468,7 +1516,7 @@
     },
     {
       "raw_hot": 31183,
-      "num": 366161,
+      "num": 394428,
       "word": "网友在全国偶遇成毅",
       "onboard_time": 1731127819,
       "rank": 15,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731129601178,
+  "endTime": 1731130647669,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1075,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1436071,
+      "num": 1436071,
+      "word": "高铁站员工被曝上班慵懒盘核桃",
+      "onboard_time": 1731125538,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1427684,
       "num": 1077013,
       "word": "电梯内被捂嘴女孩妈妈发声",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1730726720,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1374609,
+      "num": 535024,
+      "word": "特朗普已准备再次退出巴黎协定",
+      "onboard_time": 1731125899,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1354924,
@@ -1275,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1294701,
-      "num": 535024,
-      "word": "特朗普已准备再次退出巴黎协定",
-      "onboard_time": 1731125899,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1289783,
       "num": 1289783,
       "word": "张继科开业球馆不对外营业",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1730638639,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1251673,
-      "num": 1251673,
-      "word": "高铁站员工被曝上班慵懒盘核桃",
-      "onboard_time": 1731125538,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1242208,
@@ -2099,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 936806,
+      "num": 532520,
+      "word": "洪尧评论区",
+      "onboard_time": 1731127399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 935567,
       "num": 402440,
       "word": "美媒预测特朗普赢得宾夕法尼亚州",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1731016572,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 807220,
-      "num": 532520,
-      "word": "洪尧评论区",
-      "onboard_time": 1731127399,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 798154,
@@ -3131,6 +3131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 652565,
+      "num": 652565,
+      "word": "万安县公示3名95后女干部",
+      "onboard_time": 1731126018,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652210,
       "num": 652210,
       "word": "所谓饭圈大粉不到一年骗350多万元",
@@ -3713,14 +3721,6 @@
       "onboard_time": 1730909179,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 579679,
-      "num": 579679,
-      "word": "万安县公示3名95后女干部",
-      "onboard_time": 1731126018,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579623,
@@ -5091,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417750,
+      "num": 417750,
+      "word": "格莱美kpop0提名",
+      "onboard_time": 1731128360,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 417135,
       "num": 417134,
       "word": "郑州一高校老师称需要统计上报夜骑人数",
@@ -5875,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350250,
-      "num": 350250,
-      "word": "格莱美kpop0提名",
-      "onboard_time": 1731128360,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 349691,
       "num": 349691,
       "word": "Uzi回应G2邀请",
@@ -6499,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313249,
+      "num": 507635,
+      "word": "听得懂话的女Tony被同行diss了",
+      "onboard_time": 1731129199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312647,
       "num": 309075,
       "word": "俄外交部回应美国大选结果",
@@ -6969,6 +6977,14 @@
       "onboard_time": 1730935817,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286622,
+      "num": 396969,
+      "word": "女子6次敲诈海底捞被判7个月",
+      "onboard_time": 1731128120,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286419,
@@ -7697,6 +7713,14 @@
       "onboard_time": 1730689698,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254218,
+      "num": 254218,
+      "word": "谢娜怀孕前就把小孩的衣服买好",
+      "onboard_time": 1731130219,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 253917,
@@ -8555,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221069,
+      "num": 338597,
+      "word": "又一次成功发射一箭四星",
+      "onboard_time": 1731127701,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220915,
       "num": 220915,
       "word": "丁禹兮永夜星河小剧场",
@@ -8713,6 +8745,14 @@
       "onboard_time": 1731115279,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 214877,
+      "num": 320848,
+      "word": "永夜星河被腾讯赐名星帝",
+      "onboard_time": 1731130039,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 214830,
@@ -9025,14 +9065,6 @@
       "onboard_time": 1730875526,
       "rank": 41,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 208386,
-      "num": 338597,
-      "word": "又一次成功发射一箭四星",
-      "onboard_time": 1731127701,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208280,
@@ -10035,6 +10067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195168,
+      "num": 195168,
+      "word": "郑钦文说爸爸已经变成慈父了",
+      "onboard_time": 1731127701,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195126,
       "num": 286330,
       "word": "小巷人家 苏州",
@@ -10177,14 +10217,6 @@
       "onboard_time": 1731058100,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 193239,
-      "num": 193239,
-      "word": "郑钦文说爸爸已经变成慈父了",
-      "onboard_time": 1731127701,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 193163,
@@ -11707,6 +11739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166737,
+      "num": 343833,
+      "word": "女推2全员丝滑变装",
+      "onboard_time": 1731127219,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166636,
       "num": 166636,
       "word": "Uzi说洛没用",
@@ -12891,14 +12931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150723,
-      "num": 150723,
-      "word": "听得懂话的女Tony被同行diss了",
-      "onboard_time": 1731129199,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150401,
       "num": 150401,
       "word": "Knight隐藏微博动态",
@@ -13289,14 +13321,6 @@
       "onboard_time": 1730565498,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145290,
-      "num": 396969,
-      "word": "女子6次敲诈海底捞被判7个月",
-      "onboard_time": 1731128120,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145135,
@@ -14235,6 +14259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129668,
+      "num": 221004,
+      "word": "大梦归离一段皮影演三台戏",
+      "onboard_time": 1731129798,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129497,
       "num": 129497,
       "word": "周深首支西语歌",
@@ -14931,14 +14963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120867,
-      "num": 343833,
-      "word": "女推2全员丝滑变装",
-      "onboard_time": 1731127219,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120858,
       "num": 120858,
       "word": "足迹是记者的勋章",
@@ -15243,6 +15267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 114569,
+      "num": 136665,
+      "word": "湖人vs76人",
+      "onboard_time": 1731127701,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114567,
       "num": 114567,
       "word": "ACT对战GW",
@@ -15339,6 +15371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112180,
+      "num": 220069,
+      "word": "巴基斯坦火车站爆炸死亡升至22人",
+      "onboard_time": 1731130458,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 111965,
       "num": 111965,
       "word": "裴珠泫个人solo预告",
@@ -15408,14 +15448,6 @@
       "word": "萨巴伦卡年终世界第一",
       "onboard_time": 1730857821,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111039,
-      "num": 125782,
-      "word": "湖人vs76人",
-      "onboard_time": 1731127701,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -18075,6 +18107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45294,
+      "num": 279261,
+      "word": "周也上城士24小时",
+      "onboard_time": 1731130519,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 45103,
       "num": 231808,
       "word": "女理发师因听得懂话爆火",
@@ -18097,6 +18137,14 @@
       "onboard_time": 1730783900,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44958,
+      "num": 218504,
+      "word": "歼15D首次亮相",
+      "onboard_time": 1731130399,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 44368,
@@ -19068,7 +19116,7 @@
     },
     {
       "raw_hot": 31183,
-      "num": 366161,
+      "num": 394428,
       "word": "网友在全国偶遇成毅",
       "onboard_time": 1731127819,
       "rank": 15,
