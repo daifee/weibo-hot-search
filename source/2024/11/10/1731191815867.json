@@ -1,0 +1,410 @@
+{
+  "runTime": 1731191815867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 312542,
+        "num": 472506,
+        "word": "被传患病网红夫妇无奈离开家乡",
+        "onboard_time": 1731165080,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253029,
+        "num": 253029,
+        "word": "哈尔滨中央大街冰糖葫芦男神爆火",
+        "onboard_time": 1731167719,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1828,
+        "num": 202972,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182482,
+        "num": 182482,
+        "word": "郑钦文WTA总决赛亚军",
+        "onboard_time": 1731166159,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142851,
+        "num": 142851,
+        "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+        "onboard_time": 1731172635,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141305,
+        "num": 141305,
+        "word": "郑钦文",
+        "onboard_time": 1731180792,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136015,
+        "num": 136015,
+        "word": "将门毒后",
+        "onboard_time": 1731165678,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96811,
+        "num": 96811,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88381,
+        "num": 88381,
+        "word": "女子自述吃河豚刺身中毒",
+        "onboard_time": 1731188651,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68576,
+        "num": 87538,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87176,
+        "num": 87176,
+        "word": "佩洛西埋怨拜登",
+        "onboard_time": 1731168620,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 70790,
+        "num": 70790,
+        "word": "夜骑开封的共享单车被倒卖",
+        "onboard_time": 1731183072,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69225,
+        "num": 69225,
+        "word": "巴基斯坦爆炸发生时站台旅客很多",
+        "onboard_time": 1731178692,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 68048,
+        "num": 68048,
+        "word": "王艺迪4比2张本美和",
+        "onboard_time": 1731168439,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66169,
+        "num": 66169,
+        "word": "警方通报女生求职被要求陪睡",
+        "onboard_time": 1731165620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64781,
+        "num": 64781,
+        "word": "长沙一写字楼电梯提示引人不适",
+        "onboard_time": 1731163761,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45535,
+        "num": 62493,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1731164961,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36231,
+        "num": 56861,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33983,
+        "num": 56061,
+        "word": "费启鸣直播求饶",
+        "onboard_time": 1731176833,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30515,
+        "num": 48481,
+        "word": "阿娇演的怨女",
+        "onboard_time": 1731156920,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47871,
+        "num": 47871,
+        "word": "撞劳斯莱斯货车司机回应是不是剧本",
+        "onboard_time": 1731188592,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14902,
+        "num": 44186,
+        "word": "逛公园带来的好心情能持续4小时",
+        "onboard_time": 1731190451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43500,
+        "num": 43500,
+        "word": "向佐发文为赵露思庆生",
+        "onboard_time": 1731171737,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42151,
+        "num": 42151,
+        "word": "女子收50万彩礼后与前男友去宾馆",
+        "onboard_time": 1731150439,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22997,
+        "num": 41148,
+        "word": "俄勇士在珠海首次展示六机编队桶滚",
+        "onboard_time": 1731191651,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 41122,
+        "num": 41122,
+        "word": "公立医院洗牌时代真的来了",
+        "onboard_time": 1731161301,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40445,
+        "num": 40445,
+        "word": "彭高回母校中山大学了",
+        "onboard_time": 1731167120,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 40203,
+        "num": 40203,
+        "word": "口服避孕药 致癌物",
+        "onboard_time": 1731156438,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38253,
+        "num": 38253,
+        "word": "卡尔伯格4比2莫雷加德",
+        "onboard_time": 1731172217,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30377,
+        "num": 36736,
+        "word": "内娱又有troublemaker上新",
+        "onboard_time": 1731164660,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36479,
+        "num": 36479,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32571,
+        "num": 32571,
+        "word": "建议每个恐华症的人都到中国看看",
+        "onboard_time": 1731156799,
+        "rank": 31,
+        "category": "国外时政,国内时政"
+      },
+      {
+        "raw_hot": 31021,
+        "num": 31021,
+        "word": "院方回应更衣室发现隐藏摄像头",
+        "onboard_time": 1731172996,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30649,
+        "num": 30649,
+        "word": "郑钦文vs高芙",
+        "onboard_time": 1731166040,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29787,
+        "num": 29787,
+        "word": "王啸坤",
+        "onboard_time": 1731184031,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27474,
+        "num": 27474,
+        "word": "男生学自行车女生在一旁扶车子",
+        "onboard_time": 1731182171,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26726,
+        "num": 26726,
+        "word": "拍卖公司回应女子11元拍下海景房",
+        "onboard_time": 1731177253,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25671,
+        "num": 25671,
+        "word": "郑钦文 抢七",
+        "onboard_time": 1731179652,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24666,
+        "num": 24666,
+        "word": "弹射型舰载机可以满载起飞",
+        "onboard_time": 1731170358,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 23755,
+        "num": 23755,
+        "word": "郑钦文再次刷新个人最佳纪录",
+        "onboard_time": 1731180252,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23550,
+        "num": 23550,
+        "word": "巴基斯坦火车站爆炸为自杀式袭击",
+        "onboard_time": 1731180971,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23501,
+        "num": 23501,
+        "word": "姆巴佩状态",
+        "onboard_time": 1731191651,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23350,
+        "num": 23350,
+        "word": "郑钦文1比2高芙",
+        "onboard_time": 1731172396,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23188,
+        "num": 23188,
+        "word": "需要排号才能进的理发店咋这么火",
+        "onboard_time": 1731183431,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 22364,
+        "num": 22364,
+        "word": "军队装备保障条例",
+        "onboard_time": 1731186071,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22016,
+        "num": 22016,
+        "word": "鹿晗西安",
+        "onboard_time": 1731158539,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20974,
+        "num": 22012,
+        "word": "腾讯七部热度破30000剧集",
+        "onboard_time": 1731159200,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20374,
+        "num": 22008,
+        "word": "郑钦文高芙决胜盘",
+        "onboard_time": 1731175573,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20371,
+        "num": 22003,
+        "word": "95花top",
+        "onboard_time": 1731160339,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20257,
+        "num": 21999,
+        "word": "巴基斯坦火车站爆炸死亡人数升至25人",
+        "onboard_time": 1731178573,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    }
+  }
+}
