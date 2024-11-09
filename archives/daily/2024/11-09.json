@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731144033078,
+  "endTime": 1731144899319,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585648,
+      "num": 333807,
+      "word": "感觉留几手和葛夕真的生气了",
+      "onboard_time": 1731143297,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568273,
       "num": 568273,
       "word": "幼儿园小孩哥立定跳远一米七",
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511138,
+      "num": 511138,
+      "word": "郑州发布交通管制通告",
+      "onboard_time": 1731141560,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493750,
       "num": 493750,
       "word": "肖战专辑我们预告照",
@@ -424,14 +440,6 @@
       "word": "济南小伙每周走读去韩国读博",
       "onboard_time": 1731117019,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465131,
-      "num": 465131,
-      "word": "郑州发布交通管制通告",
-      "onboard_time": 1731141560,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -611,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308787,
+      "num": 308787,
+      "word": "妈妈要求爱豆女儿退圈照顾弟弟",
+      "onboard_time": 1731143539,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305877,
       "num": 344236,
       "word": "巴勒斯坦总统与特朗普通电话",
       "onboard_time": 1731120859,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 305653,
+      "num": 305653,
+      "word": "郑开大道开封段非机动车道禁行",
+      "onboard_time": 1731142158,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304013,
@@ -665,22 +689,6 @@
       "onboard_time": 1731071600,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272042,
-      "num": 272042,
-      "word": "郑开大道开封段非机动车道禁行",
-      "onboard_time": 1731142158,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261987,
-      "num": 173264,
-      "word": "感觉留几手和葛夕真的生气了",
-      "onboard_time": 1731143297,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 260722,
@@ -795,6 +803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216753,
+      "num": 216753,
+      "word": "双城之战2开播",
+      "onboard_time": 1731144498,
+      "rank": 24,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 216501,
       "num": 216501,
       "word": "怀胎八月不做产检孩子不见了",
@@ -899,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198116,
+      "num": 198116,
+      "word": "拼多多被曝假花生油泛滥",
+      "onboard_time": 1731144019,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196452,
       "num": 196452,
       "word": "特权码",
@@ -929,6 +953,14 @@
       "onboard_time": 1731121819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194002,
+      "num": 194002,
+      "word": "Bin去UFC进修",
+      "onboard_time": 1731144019,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 192793,
@@ -1035,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173505,
+      "num": 173505,
+      "word": "图书馆三十秒文学",
+      "onboard_time": 1731143658,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173376,
       "num": 173376,
       "word": "能不能让慕瑶亲完再捉妖",
@@ -1091,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165450,
+      "num": 165450,
+      "word": "KPL",
+      "onboard_time": 1731144259,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163935,
       "num": 163935,
       "word": "歼15D舰载机首次公开亮相",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1731088154,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159984,
+      "num": 159984,
+      "word": "大张伟始终不敢唱那首歌",
+      "onboard_time": 1731144198,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 158939,
@@ -1243,12 +1299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145379,
+      "num": 145379,
+      "word": "郑钦文总决赛已狂揽1600万奖金",
+      "onboard_time": 1731144498,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142347,
       "num": 142347,
       "word": "当瑞士卷事件在福建",
       "onboard_time": 1731111559,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141379,
+      "num": 141379,
+      "word": "永夜星河打光",
+      "onboard_time": 1731143597,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 140749,
@@ -1323,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133434,
+      "num": 200773,
+      "word": "歼35A正式列装空军",
+      "onboard_time": 1731144378,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132333,
       "num": 132333,
       "word": "郑钦文破发",
@@ -1340,7 +1420,7 @@
     },
     {
       "raw_hot": 131651,
-      "num": 131651,
+      "num": 313778,
       "word": "桂林火车站通报工作人员躺坐式服务",
       "onboard_time": 1731140297,
       "rank": 48,
@@ -1377,14 +1457,6 @@
       "onboard_time": 1731122359,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128973,
-      "num": 246663,
-      "word": "妈妈要求爱豆女儿退圈照顾弟弟",
-      "onboard_time": 1731143539,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 128545,
@@ -1433,14 +1505,6 @@
       "onboard_time": 1731086595,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123656,
-      "num": 123656,
-      "word": "永夜星河打光",
-      "onboard_time": 1731143597,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 123549,
@@ -1507,20 +1571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117274,
-      "num": 117274,
-      "word": "图书馆三十秒文学",
-      "onboard_time": 1731143658,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117159,
       "num": 117159,
       "word": "好东西",
       "onboard_time": 1731143539,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116011,
+      "num": 116011,
+      "word": "专家称歼35A与歼20可组合作战",
+      "onboard_time": 1731144738,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 115452,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1731142099,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111191,
+      "num": 275105,
+      "word": "仙剑桃花坞都被失笑摇来了",
+      "onboard_time": 1731144078,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 111018,
@@ -1787,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89052,
+      "num": 215293,
+      "word": "美国演员托尼托德去世",
+      "onboard_time": 1731144858,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87478,
       "num": 87478,
       "word": "双城之战",
@@ -1995,8 +2075,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49369,
-      "num": 175614,
+      "raw_hot": 52082,
+      "num": 213536,
       "word": "俄勇士飞行表演队开展飞行训练",
       "onboard_time": 1731143718,
       "rank": 28,
@@ -2155,11 +2235,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26907,
+      "num": 212687,
+      "word": "郑钦文今年闯进6个不同级别赛事决赛",
+      "onboard_time": 1731143597,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26526,
       "num": 311512,
       "word": "裴淳华儿子获汉语桥全球总冠军",
       "onboard_time": 1731135917,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26103,
+      "num": 214660,
+      "word": "郑钦文说拿大满贯不靠鸡血靠稳定",
+      "onboard_time": 1731144678,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25817,
+      "num": 868426,
+      "word": "60秒沉浸式打卡进博之美",
+      "onboard_time": 1731142697,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2195,14 +2299,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 21679,
-      "num": 868426,
-      "word": "60秒沉浸式打卡进博之美",
-      "onboard_time": 1731142697,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21534,
       "num": 23739,
       "word": "胜券在握",
@@ -2217,14 +2313,6 @@
       "onboard_time": 1731091813,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 20785,
-      "num": 173385,
-      "word": "郑钦文今年闯进6个不同级别赛事决赛",
-      "onboard_time": 1731143597,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 17795,
@@ -2356,6 +2444,9 @@
     },
     {
       "word": "#习近平向意大利总统赠送月壤#"
+    },
+    {
+      "word": "#我们共同努力如期实现中国式现代化#"
     }
   ]
 }
