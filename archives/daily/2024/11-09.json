@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731144899319,
+  "endTime": 1731147653492,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076771,
+      "num": 447057,
+      "word": "药店晕倒无人扶老人已去世",
+      "onboard_time": 1731146418,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1073268,
       "num": 1073268,
       "word": "永夜星河男三 加戏",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876588,
+      "num": 445344,
+      "word": "黄圣依画像的痣是颜料流下来了",
+      "onboard_time": 1731145818,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838273,
       "num": 337571,
       "word": "台湾一3岁女童遭男保姆性侵",
@@ -185,6 +201,14 @@
       "onboard_time": 1731130219,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 819651,
+      "num": 443130,
+      "word": "大学生夜骑开封最早是怎么开始的",
+      "onboard_time": 1731146659,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801963,
@@ -267,12 +291,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668340,
+      "num": 668340,
+      "word": "妈妈要求爱豆女儿退圈照顾弟弟",
+      "onboard_time": 1731143539,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 662170,
+      "num": 662170,
+      "word": "拼多多被曝假花生油泛滥",
+      "onboard_time": 1731144019,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 652565,
       "num": 652565,
       "word": "万安县公示3名95后女干部",
       "onboard_time": 1731126018,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639982,
+      "num": 496243,
+      "word": "感觉留几手和葛夕真的生气了",
+      "onboard_time": 1731143297,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 621586,
@@ -313,14 +361,6 @@
       "onboard_time": 1731136760,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585648,
-      "num": 333807,
-      "word": "感觉留几手和葛夕真的生气了",
-      "onboard_time": 1731143297,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 568273,
@@ -435,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478377,
+      "num": 478377,
+      "word": "永夜星河热度",
+      "onboard_time": 1731145759,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465759,
       "num": 465759,
       "word": "济南小伙每周走读去韩国读博",
@@ -473,6 +521,14 @@
       "onboard_time": 1731136038,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428454,
+      "num": 374370,
+      "word": "永夜星河",
+      "onboard_time": 1731066138,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 421836,
@@ -521,14 +577,6 @@
       "onboard_time": 1731080540,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374370,
-      "num": 374370,
-      "word": "永夜星河",
-      "onboard_time": 1731066138,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 373446,
@@ -619,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308787,
-      "num": 308787,
-      "word": "妈妈要求爱豆女儿退圈照顾弟弟",
-      "onboard_time": 1731143539,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 310785,
+      "num": 310785,
+      "word": "香飘飘老板面试羊驼",
+      "onboard_time": 1731145158,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 305877,
@@ -649,6 +697,14 @@
       "onboard_time": 1731119418,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299184,
+      "num": 299184,
+      "word": "妙妙 你怕我",
+      "onboard_time": 1731146898,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 293516,
@@ -769,6 +825,14 @@
       "onboard_time": 1731118998,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 239257,
+      "num": 239257,
+      "word": "纪凌尘拍的杨超越",
+      "onboard_time": 1731146839,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 234234,
@@ -915,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198116,
-      "num": 198116,
-      "word": "拼多多被曝假花生油泛滥",
-      "onboard_time": 1731144019,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196452,
       "num": 196452,
       "word": "特权码",
@@ -931,12 +987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196010,
+      "num": 196010,
+      "word": "郑钦文总决赛已狂揽1600万奖金",
+      "onboard_time": 1731144498,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195739,
       "num": 316603,
       "word": "肖战从我出发",
       "onboard_time": 1731125240,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195640,
+      "num": 200773,
+      "word": "歼35A正式列装空军",
+      "onboard_time": 1731144378,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 195168,
@@ -1043,12 +1115,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182005,
+      "num": 313778,
+      "word": "桂林火车站通报工作人员躺坐式服务",
+      "onboard_time": 1731140297,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180192,
       "num": 322037,
       "word": "川剧吐火被消防盯上了",
       "onboard_time": 1731128720,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179655,
+      "num": 179655,
+      "word": "歼15D舰载机首次公开亮相",
+      "onboard_time": 1731141738,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 178261,
@@ -1067,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175006,
+      "num": 175006,
+      "word": "大张伟始终不敢唱那首歌",
+      "onboard_time": 1731144198,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173505,
       "num": 173505,
       "word": "图书馆三十秒文学",
@@ -1081,6 +1177,14 @@
       "onboard_time": 1731133638,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173339,
+      "num": 447820,
+      "word": "官方通报万安县公示3名95后女干部",
+      "onboard_time": 1731145698,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172925,
@@ -1139,14 +1243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163935,
-      "num": 163935,
-      "word": "歼15D舰载机首次公开亮相",
-      "onboard_time": 1731141738,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
       "raw_hot": 161139,
       "num": 161139,
       "word": "40岁农村父亲第一次穿了裙子",
@@ -1161,14 +1257,6 @@
       "onboard_time": 1731088154,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159984,
-      "num": 159984,
-      "word": "大张伟始终不敢唱那首歌",
-      "onboard_time": 1731144198,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 158939,
@@ -1193,6 +1281,14 @@
       "onboard_time": 1731121518,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156980,
+      "num": 156980,
+      "word": "马斯克身家已达3137亿美元",
+      "onboard_time": 1731147018,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 156973,
@@ -1267,6 +1363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 148513,
+      "num": 148513,
+      "word": "老头杯",
+      "onboard_time": 1731144138,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148482,
       "num": 286150,
       "word": "张大大发文祝赵露思生日快乐",
@@ -1299,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145379,
-      "num": 145379,
-      "word": "郑钦文总决赛已狂揽1600万奖金",
-      "onboard_time": 1731144498,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142347,
       "num": 142347,
       "word": "当瑞士卷事件在福建",
@@ -1315,12 +1411,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142210,
+      "num": 142210,
+      "word": "距离第十五届中国航展还有3天",
+      "onboard_time": 1731147198,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "永夜星河打光",
       "onboard_time": 1731143597,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141238,
+      "num": 141238,
+      "word": "Uzi直播",
+      "onboard_time": 1731147619,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 140981,
+      "num": 140981,
+      "word": "麦琳 自卑",
+      "onboard_time": 1731147138,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 140749,
@@ -1363,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135706,
+      "num": 135706,
+      "word": "刘诗雯与林高远为十五运打call",
+      "onboard_time": 1731147257,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134819,
       "num": 134819,
       "word": "歼35A轰鸣声太震撼",
@@ -1395,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133434,
-      "num": 200773,
-      "word": "歼35A正式列装空军",
-      "onboard_time": 1731144378,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
       "raw_hot": 132333,
       "num": 132333,
       "word": "郑钦文破发",
@@ -1416,14 +1536,6 @@
       "word": "老人药店晕倒无人扶引发质疑",
       "onboard_time": 1731078921,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131651,
-      "num": 313778,
-      "word": "桂林火车站通报工作人员躺坐式服务",
-      "onboard_time": 1731140297,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1963,6 +2075,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 75060,
+      "num": 300604,
+      "word": "闫妮姚晨手牵手下班了",
+      "onboard_time": 1731147138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72703,
       "num": 321970,
       "word": "永夜星河处处有回应",
@@ -2083,12 +2203,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 51010,
+      "num": 444440,
+      "word": "AG对战KSG",
+      "onboard_time": 1731146119,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48647,
       "num": 48647,
       "word": "恋与深空猫猫卡",
       "onboard_time": 1731069019,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47785,
+      "num": 445063,
+      "word": "苏57上演落叶飘",
+      "onboard_time": 1731146239,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 46609,
@@ -2235,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28872,
+      "num": 213514,
+      "word": "晚8点京东秒杀牛肉5折",
+      "onboard_time": 1731144919,
+      "rank": 29,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 26907,
       "num": 212687,
       "word": "郑钦文今年闯进6个不同级别赛事决赛",
@@ -2275,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24037,
+      "num": 446022,
+      "word": "跟着张杰打卡绿城南宁",
+      "onboard_time": 1731144919,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23586,
       "num": 202115,
       "word": "珠帘玉幕珍蚌表情包",
@@ -2313,6 +2465,14 @@
       "onboard_time": 1731091813,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 19707,
+      "num": 213820,
+      "word": "机器狼群亮相中国航展",
+      "onboard_time": 1731147438,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 17795,
