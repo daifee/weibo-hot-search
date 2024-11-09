@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731169502859,
+  "endTime": 1731170472538,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 857916,
+      "num": 857916,
+      "word": "郑钦文vs高芙",
+      "onboard_time": 1731166040,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -27,16 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 672485,
-      "num": 672485,
-      "word": "郑钦文vs高芙",
-      "onboard_time": 1731166040,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 663060,
-      "num": 468722,
+      "num": 515493,
       "word": "麦琳",
       "onboard_time": 1731160999,
       "rank": 6,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 589416,
-      "num": 465386,
+      "num": 483476,
       "word": "迪丽热巴演技",
       "onboard_time": 1731164961,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531859,
+      "num": 531859,
+      "word": "彭高回母校中山大学了",
+      "onboard_time": 1731167120,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 484898,
@@ -57,14 +65,6 @@
       "onboard_time": 1731137779,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438313,
-      "num": 438313,
-      "word": "彭高回母校中山大学了",
-      "onboard_time": 1731167120,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 386421,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362032,
+      "num": 362032,
+      "word": "佩洛西埋怨拜登",
+      "onboard_time": 1731168620,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 322074,
       "num": 322074,
       "word": "郑钦文总决赛冲冠",
@@ -107,12 +115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262513,
-      "num": 262513,
+      "raw_hot": 294165,
+      "num": 294165,
       "word": "王一栩我要打死你",
       "onboard_time": 1731153259,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269525,
+      "num": 269525,
+      "word": "警方通报女生求职被要求陪睡",
+      "onboard_time": 1731165620,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253855,
@@ -131,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227759,
-      "num": 227759,
-      "word": "警方通报女生求职被要求陪睡",
-      "onboard_time": 1731165620,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 232094,
+      "num": 232094,
+      "word": "王艺迪4比2张本美和",
+      "onboard_time": 1731168439,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 225053,
@@ -171,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198999,
-      "num": 198999,
-      "word": "佩洛西埋怨拜登",
-      "onboard_time": 1731168620,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 192110,
       "num": 192110,
       "word": "丁禹兮哭戏要碎了",
       "onboard_time": 1731150618,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191077,
-      "num": 191077,
-      "word": "王艺迪4比2张本美和",
-      "onboard_time": 1731168439,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 186348,
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152066,
+      "num": 225061,
+      "word": "哈尔滨中央大街冰糖葫芦男神爆火",
+      "onboard_time": 1731167719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140669,
+      "num": 140669,
+      "word": "她为什么会突然喜欢你",
+      "onboard_time": 1731166820,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136713,
       "num": 136713,
       "word": "丁禹兮发烧了",
@@ -259,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126965,
-      "num": 126965,
-      "word": "她为什么会突然喜欢你",
-      "onboard_time": 1731166820,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 135284,
+      "num": 392627,
+      "word": "郑钦文冲冠加油",
+      "onboard_time": 1731166159,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 121688,
@@ -313,14 +329,6 @@
       "onboard_time": 1731156619,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98211,
-      "num": 98211,
-      "word": "郑钦文冲冠加油",
-      "onboard_time": 1731166159,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 94023,
@@ -380,23 +388,23 @@
     },
     {
       "raw_hot": 76617,
-      "num": 225278,
+      "num": 421225,
       "word": "战机呼啸是对祖国的深情告白",
       "onboard_time": 1731169038,
       "rank": 18,
       "category": "军事"
     },
     {
-      "raw_hot": 59300,
-      "num": 225061,
-      "word": "哈尔滨中央大街冰糖葫芦男神爆火",
-      "onboard_time": 1731167719,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 71627,
+      "num": 71627,
+      "word": "弹射型舰载机可以满载起飞",
+      "onboard_time": 1731170358,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 4776,
-      "num": 827258,
+      "num": 888804,
       "word": "这些橙色身影是最坚实的依靠",
       "onboard_time": 1731155118,
       "rank": 2,
