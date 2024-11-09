@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731152172540,
+  "endTime": 1731155896164,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1527363,
+      "num": 292382,
+      "word": "王一栩我要打死你",
+      "onboard_time": 1731153259,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1438564,
       "num": 1438564,
       "word": "英国宣布制裁10家中国企业",
@@ -65,6 +73,14 @@
       "onboard_time": 1731116418,
       "rank": 13,
       "category": "网红,艺人"
+    },
+    {
+      "raw_hot": 1395835,
+      "num": 1395835,
+      "word": "永夜星河",
+      "onboard_time": 1731066138,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 1374609,
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 878156,
-      "num": 878156,
-      "word": "永夜星河",
-      "onboard_time": 1731066138,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 876588,
       "num": 452300,
       "word": "黄圣依画像的痣是颜料流下来了",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789510,
+      "num": 789510,
+      "word": "女子收50万彩礼后与前男友去宾馆",
+      "onboard_time": 1731150439,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782422,
       "num": 782422,
       "word": "时代少年团演唱会抢票",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 773057,
-      "num": 408910,
+      "num": 546702,
       "word": "永夜星河开虐",
       "onboard_time": 1731150257,
       "rank": 11,
@@ -339,20 +355,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 660012,
-      "num": 327638,
-      "word": "女子收50万彩礼后与前男友去宾馆",
-      "onboard_time": 1731150439,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 652565,
       "num": 652565,
       "word": "万安县公示3名95后女干部",
       "onboard_time": 1731126018,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650727,
+      "num": 650727,
+      "word": "小巷人家21集后劲太大了",
+      "onboard_time": 1731153139,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 639982,
@@ -635,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375596,
+      "num": 317170,
+      "word": "丁禹兮哭戏要碎了",
+      "onboard_time": 1731150618,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373446,
       "num": 297371,
       "word": "papi酱 黄圣依哀莫大于心死",
       "onboard_time": 1731077182,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362515,
+      "num": 297010,
+      "word": "凌妙妙告诉慕子期她不是林虞",
+      "onboard_time": 1731151280,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 350599,
@@ -689,14 +721,6 @@
       "onboard_time": 1731076702,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322851,
-      "num": 317170,
-      "word": "丁禹兮哭戏要碎了",
-      "onboard_time": 1731150618,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 322492,
@@ -763,19 +787,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297010,
-      "num": 297010,
-      "word": "凌妙妙告诉慕子期她不是林虞",
-      "onboard_time": 1731151280,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293516,
       "num": 293516,
       "word": "中国成为全球第二个双隐国家",
       "onboard_time": 1731061459,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293494,
+      "num": 334903,
+      "word": "双台风即将成型冷空气无能为力",
+      "onboard_time": 1731151037,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1009,14 @@
       "onboard_time": 1731115279,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 212903,
+      "num": 279818,
+      "word": "四川绵阳一女子抢警棍当场被控制",
+      "onboard_time": 1731155059,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211017,
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167552,
+      "num": 162801,
+      "word": "赵露思端午热度",
+      "onboard_time": 1731153498,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167068,
       "num": 167068,
       "word": "丁禹兮不要虐待老人李泽锋",
@@ -1361,6 +1401,22 @@
       "onboard_time": 1731144259,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162863,
+      "num": 162863,
+      "word": "腾讯视频 永夜星河",
+      "onboard_time": 1731155538,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162611,
+      "num": 162611,
+      "word": "周深苏州演唱会",
+      "onboard_time": 1731155178,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 161139,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1731136699,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155850,
+      "num": 172139,
+      "word": "好团圆女主高嫁亿万霸总被家暴",
+      "onboard_time": 1731153799,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 152994,
@@ -1505,6 +1569,14 @@
       "onboard_time": 1731117138,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146116,
+      "num": 146116,
+      "word": "赵丽颖黄晓明造城者开通官微",
+      "onboard_time": 1731154398,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 145922,
@@ -1627,6 +1699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134054,
+      "num": 134054,
+      "word": "猫咪用假吃来示意主人自己很饿",
+      "onboard_time": 1731153380,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133674,
       "num": 133674,
       "word": "SNH48偶像运动会",
@@ -1640,6 +1720,14 @@
       "word": "终于有人出手整顿李川了",
       "onboard_time": 1731139758,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132370,
+      "num": 132370,
+      "word": "熏鸡",
+      "onboard_time": 1731153198,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1665,6 +1753,14 @@
       "onboard_time": 1731119239,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131204,
+      "num": 131204,
+      "word": "金克丝这发火箭我等了3年",
+      "onboard_time": 1731154039,
+      "rank": 39,
+      "category": "动漫,游戏"
     },
     {
       "raw_hot": 130573,
@@ -1811,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118197,
+      "num": 118197,
+      "word": "珠帘玉幕一吻定情一箭决裂",
+      "onboard_time": 1731153739,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117565,
       "num": 117565,
       "word": "丁禹兮早期旧照",
@@ -1947,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108745,
+      "num": 108745,
+      "word": "2024珠海航展名场面",
+      "onboard_time": 1731153198,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 107801,
       "num": 107801,
       "word": "汪汪队是怎样炼成的",
@@ -2043,12 +2155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101093,
-      "num": 334903,
-      "word": "双台风即将成型冷空气无能为力",
-      "onboard_time": 1731151037,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 100694,
+      "num": 100694,
+      "word": "上班做PPT下班看赵晓卉做PPT",
+      "onboard_time": 1731150798,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 100040,
@@ -2171,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87441,
+      "num": 261354,
+      "word": "申请导盲犬需要邻居先同意吗",
+      "onboard_time": 1731153919,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85915,
       "num": 85915,
       "word": "迅速恢复能量的10件小事",
@@ -2259,6 +2379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 73594,
+      "num": 256016,
+      "word": "一家二甲医院欠薪倒闭",
+      "onboard_time": 1731154099,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72703,
       "num": 321970,
       "word": "永夜星河处处有回应",
@@ -2345,6 +2473,14 @@
       "onboard_time": 1731116239,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58254,
+      "num": 275069,
+      "word": "妇幼保健院回应博主曝房间暗藏摄像头",
+      "onboard_time": 1731154339,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56765,
@@ -2547,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32255,
+      "num": 171779,
+      "word": "双11旅行囤点啥",
+      "onboard_time": 1731153198,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 31221,
       "num": 31221,
       "word": "喻言唱跳舞台还变了魔术",
@@ -2675,6 +2819,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 20109,
+      "num": 812110,
+      "word": "这些橙色身影是最坚实的依靠",
+      "onboard_time": 1731155118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17795,
       "num": 19132,
       "word": "麦琳用大笑掩饰悲伤",
@@ -2704,6 +2856,14 @@
       "word": "襄阳多小区燃气管材被曝以旧充新",
       "onboard_time": 1731139819,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15091,
+      "num": 145068,
+      "word": "关注第七届进口博览会",
+      "onboard_time": 1731155299,
+      "rank": 35,
       "category": "社会新闻"
     },
     {

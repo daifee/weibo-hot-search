@@ -1,0 +1,410 @@
+{
+  "runTime": 1731155896164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1395835,
+        "num": 1395835,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864697,
+        "num": 864697,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20109,
+        "num": 812110,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941653,
+        "num": 806344,
+        "word": "药店晕倒无人扶老人已去世",
+        "onboard_time": 1731146418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789510,
+        "num": 789510,
+        "word": "女子收50万彩礼后与前男友去宾馆",
+        "onboard_time": 1731150439,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650727,
+        "num": 650727,
+        "word": "小巷人家21集后劲太大了",
+        "onboard_time": 1731153139,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546702,
+        "num": 546702,
+        "word": "永夜星河开虐",
+        "onboard_time": 1731150257,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309159,
+        "num": 309159,
+        "word": "4岁男童疑被教练推下平衡木致骨折",
+        "onboard_time": 1731148399,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375596,
+        "num": 302515,
+        "word": "丁禹兮哭戏要碎了",
+        "onboard_time": 1731150618,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293494,
+        "num": 293494,
+        "word": "双台风即将成型冷空气无能为力",
+        "onboard_time": 1731151037,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527363,
+        "num": 292382,
+        "word": "王一栩我要打死你",
+        "onboard_time": 1731153259,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374721,
+        "num": 287103,
+        "word": "郑州发布交通管制通告",
+        "onboard_time": 1731141560,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362515,
+        "num": 285170,
+        "word": "凌妙妙告诉慕子期她不是林虞",
+        "onboard_time": 1731151280,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212903,
+        "num": 279818,
+        "word": "四川绵阳一女子抢警棍当场被控制",
+        "onboard_time": 1731155059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58254,
+        "num": 275069,
+        "word": "妇幼保健院回应博主曝房间暗藏摄像头",
+        "onboard_time": 1731154339,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346325,
+        "num": 272796,
+        "word": "永夜星河热度",
+        "onboard_time": 1731145759,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326792,
+        "num": 267708,
+        "word": "妙妙 你怕我",
+        "onboard_time": 1731146898,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322981,
+        "num": 264895,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87441,
+        "num": 261354,
+        "word": "申请导盲犬需要邻居先同意吗",
+        "onboard_time": 1731153919,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73594,
+        "num": 256016,
+        "word": "一家二甲医院欠薪倒闭",
+        "onboard_time": 1731154099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787096,
+        "num": 252327,
+        "word": "医院偶遇丁禹兮看病",
+        "onboard_time": 1731149359,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683036,
+        "num": 250590,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247765,
+        "num": 247765,
+        "word": "妈妈要求爱豆女儿退圈照顾弟弟",
+        "onboard_time": 1731143539,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433679,
+        "num": 237757,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224292,
+        "num": 224292,
+        "word": "官方通报万安县公示3名95后女干部",
+        "onboard_time": 1731145698,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184706,
+        "num": 184706,
+        "word": "感觉留几手和葛夕真的生气了",
+        "onboard_time": 1731143297,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118857,
+        "num": 172760,
+        "word": "歼15D舰载机首次公开亮相",
+        "onboard_time": 1731141738,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 155850,
+        "num": 172139,
+        "word": "好团圆女主高嫁亿万霸总被家暴",
+        "onboard_time": 1731153799,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32255,
+        "num": 171779,
+        "word": "双11旅行囤点啥",
+        "onboard_time": 1731153198,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171779,
+        "num": 171778,
+        "word": "熏鸡商家感谢麦琳送的泼天流量",
+        "onboard_time": 1731150257,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168206,
+        "num": 168206,
+        "word": "芈迭 我和青雅只是朋友关系",
+        "onboard_time": 1731135859,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162863,
+        "num": 162863,
+        "word": "腾讯视频 永夜星河",
+        "onboard_time": 1731155538,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167552,
+        "num": 162801,
+        "word": "赵露思端午热度",
+        "onboard_time": 1731153498,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162611,
+        "num": 162611,
+        "word": "周深苏州演唱会",
+        "onboard_time": 1731155178,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146116,
+        "num": 146116,
+        "word": "赵丽颖黄晓明造城者开通官微",
+        "onboard_time": 1731154398,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15091,
+        "num": 145068,
+        "word": "关注第七届进口博览会",
+        "onboard_time": 1731155299,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144884,
+        "num": 144884,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134054,
+        "num": 134054,
+        "word": "猫咪用假吃来示意主人自己很饿",
+        "onboard_time": 1731153380,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132370,
+        "num": 132370,
+        "word": "熏鸡",
+        "onboard_time": 1731153198,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131204,
+        "num": 131204,
+        "word": "金克丝这发火箭我等了3年",
+        "onboard_time": 1731154039,
+        "rank": 39,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 123424,
+        "num": 123424,
+        "word": "郑钦文总决赛已狂揽1600万奖金",
+        "onboard_time": 1731144498,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118201,
+        "num": 118201,
+        "word": "幼儿园小孩哥立定跳远一米七",
+        "onboard_time": 1731139219,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118197,
+        "num": 118197,
+        "word": "珠帘玉幕一吻定情一箭决裂",
+        "onboard_time": 1731153739,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117827,
+        "num": 117827,
+        "word": "肖战专辑我们分三节上线",
+        "onboard_time": 1731151398,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116078,
+        "num": 116078,
+        "word": "付航真去演猴了",
+        "onboard_time": 1731147979,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115167,
+        "num": 115167,
+        "word": "男子养了3年的小狗竟是野狼",
+        "onboard_time": 1731138918,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108945,
+        "num": 108945,
+        "word": "一双跑鞋的寿命就800公里",
+        "onboard_time": 1731136937,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108745,
+        "num": 108745,
+        "word": "2024珠海航展名场面",
+        "onboard_time": 1731153198,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100694,
+        "num": 100694,
+        "word": "上班做PPT下班看赵晓卉做PPT",
+        "onboard_time": 1731150798,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100008,
+        "num": 100008,
+        "word": "Uzi直播",
+        "onboard_time": 1731147619,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们共同努力如期实现中国式现代化#"
+    }
+  }
+}
