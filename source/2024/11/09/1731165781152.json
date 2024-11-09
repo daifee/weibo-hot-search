@@ -1,0 +1,410 @@
+{
+  "runTime": 1731165781152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244017,
+        "num": 1244017,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1094936,
+        "num": 1094936,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11386,
+        "num": 716160,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183828,
+        "num": 683026,
+        "word": "95花top",
+        "onboard_time": 1731160339,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608778,
+        "num": 608778,
+        "word": "豆瓣崩了",
+        "onboard_time": 1731162860,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539913,
+        "num": 539913,
+        "word": "王楚钦和林诗栋对练",
+        "onboard_time": 1731163761,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604569,
+        "num": 510307,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1731164961,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551786,
+        "num": 499381,
+        "word": "腾讯七部热度破30000剧集",
+        "onboard_time": 1731159200,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444239,
+        "num": 444239,
+        "word": "公立医院洗牌时代真的来了",
+        "onboard_time": 1731161301,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325002,
+        "num": 325002,
+        "word": "长沙一写字楼电梯提示引人不适",
+        "onboard_time": 1731163761,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469859,
+        "num": 320555,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416024,
+        "num": 318424,
+        "word": "虞书欣还有好几千张库存",
+        "onboard_time": 1731156378,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384657,
+        "num": 317805,
+        "word": "阿娇演的怨女",
+        "onboard_time": 1731156920,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314778,
+        "num": 314778,
+        "word": "建议每个恐华症的人都到中国看看",
+        "onboard_time": 1731156799,
+        "rank": 13,
+        "category": "国外时政,国内时政"
+      },
+      {
+        "raw_hot": 19498,
+        "num": 302825,
+        "word": "任由异常电梯载人物业难逃责任",
+        "onboard_time": 1731164899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292651,
+        "num": 292651,
+        "word": "王一栩我要打死你",
+        "onboard_time": 1731153259,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279305,
+        "num": 279305,
+        "word": "女子收50万彩礼后与前男友去宾馆",
+        "onboard_time": 1731150439,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260120,
+        "num": 260120,
+        "word": "郑钦文总决赛冲冠",
+        "onboard_time": 1731163220,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242792,
+        "num": 242792,
+        "word": "被传患病网红夫妇无奈离开家乡",
+        "onboard_time": 1731165080,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39475,
+        "num": 242727,
+        "word": "昭通一户村民家中烧煤中毒致4死",
+        "onboard_time": 1731165260,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415820,
+        "num": 242639,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402792,
+        "num": 242467,
+        "word": "口服避孕药 致癌物",
+        "onboard_time": 1731156438,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295466,
+        "num": 242230,
+        "word": "长期上班一定要多出去旅游",
+        "onboard_time": 1731160281,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289710,
+        "num": 242086,
+        "word": "炸王一栩 破",
+        "onboard_time": 1731159439,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261744,
+        "num": 241972,
+        "word": "内娱又有troublemaker上新",
+        "onboard_time": 1731164660,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271235,
+        "num": 241799,
+        "word": "永夜星河开虐",
+        "onboard_time": 1731150257,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70580,
+        "num": 241657,
+        "word": "林诗栋闯进决赛",
+        "onboard_time": 1731163099,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241641,
+        "num": 241641,
+        "word": "林诗栋4比0林昀儒",
+        "onboard_time": 1731164360,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240322,
+        "num": 240322,
+        "word": "王艺迪vs张本美和",
+        "onboard_time": 1731157819,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239700,
+        "num": 239700,
+        "word": "鹿晗西安",
+        "onboard_time": 1731158539,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238278,
+        "num": 238278,
+        "word": "丁禹兮发烧了",
+        "onboard_time": 1731160810,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198570,
+        "num": 198570,
+        "word": "虞书欣90后首位三平台破万演员",
+        "onboard_time": 1731165080,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195427,
+        "num": 195427,
+        "word": "王楚钦观战林诗栋",
+        "onboard_time": 1731164841,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193571,
+        "num": 193571,
+        "word": "丁程鑫最怕好六说结束语",
+        "onboard_time": 1731165140,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212069,
+        "num": 193464,
+        "word": "老舅鹿晗演唱会给陈赫庆生",
+        "onboard_time": 1731162740,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192851,
+        "num": 192851,
+        "word": "永夜星河扫楼安排上了",
+        "onboard_time": 1731164601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188148,
+        "num": 188148,
+        "word": "戚薇时代少年团合作",
+        "onboard_time": 1731165501,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185536,
+        "num": 185536,
+        "word": "狮子座年底运势最强分析",
+        "onboard_time": 1731163040,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183801,
+        "num": 183801,
+        "word": "西藏文旅发了赵露思端午转场",
+        "onboard_time": 1731164060,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176558,
+        "num": 176558,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161128,
+        "num": 161128,
+        "word": "花少后刘烨首次分享不内耗秘籍",
+        "onboard_time": 1731162441,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151175,
+        "num": 151175,
+        "word": "小巷人家21集后劲太大了",
+        "onboard_time": 1731153139,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143088,
+        "num": 143088,
+        "word": "警方通报女生求职被要求陪睡",
+        "onboard_time": 1731165620,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136096,
+        "num": 136096,
+        "word": "mlxg还在保Uzi",
+        "onboard_time": 1731156619,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133391,
+        "num": 133391,
+        "word": "刘宇宁到底唱了多少OST",
+        "onboard_time": 1731162860,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132766,
+        "num": 132766,
+        "word": "将门毒后",
+        "onboard_time": 1731165678,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121353,
+        "num": 121353,
+        "word": "产量仅1%的黑刺榴莲有多好吃",
+        "onboard_time": 1731156438,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 120684,
+        "num": 120684,
+        "word": "老头杯S2阵容确定",
+        "onboard_time": 1731164241,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119194,
+        "num": 119194,
+        "word": "WTT",
+        "onboard_time": 1731164360,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119143,
+        "num": 119143,
+        "word": "范丞丞演技",
+        "onboard_time": 1731157939,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    }
+  }
+}

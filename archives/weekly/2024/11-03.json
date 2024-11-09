@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731163012741,
+  "endTime": 1731165781152,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1427,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1244017,
+      "num": 1244017,
+      "word": "麦琳",
+      "onboard_time": 1731160999,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1242208,
       "num": 542436,
       "word": "结婚未领证生子男子起诉返还彩礼",
@@ -2425,14 +2433,6 @@
       "onboard_time": 1731063501,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860390,
-      "num": 860390,
-      "word": "麦琳",
-      "onboard_time": 1731160999,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 860373,
@@ -3731,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608778,
+      "num": 608778,
+      "word": "豆瓣崩了",
+      "onboard_time": 1731162860,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 607783,
       "num": 309839,
       "word": "哈里斯暂时不会发表讲话",
@@ -3745,6 +3753,14 @@
       "onboard_time": 1730949920,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 604569,
+      "num": 510307,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1731164961,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 600593,
@@ -4345,6 +4361,14 @@
       "onboard_time": 1731075081,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539913,
+      "num": 539913,
+      "word": "王楚钦和林诗栋对练",
+      "onboard_time": 1731163761,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 539566,
@@ -5161,6 +5185,14 @@
       "onboard_time": 1731028640,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 444239,
+      "num": 444239,
+      "word": "公立医院洗牌时代真的来了",
+      "onboard_time": 1731161301,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443932,
@@ -6771,6 +6803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325002,
+      "num": 325002,
+      "word": "长沙一写字楼电梯提示引人不适",
+      "onboard_time": 1731163761,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "涟水中专发布情况通报",
@@ -7307,6 +7347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295466,
+      "num": 279045,
+      "word": "长期上班一定要多出去旅游",
+      "onboard_time": 1731160281,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295222,
       "num": 295222,
       "word": "美国两州率先结束大选投票",
@@ -7609,14 +7657,6 @@
       "onboard_time": 1731054199,
       "rank": 34,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 279045,
-      "num": 279045,
-      "word": "长期上班一定要多出去旅游",
-      "onboard_time": 1731160281,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 278417,
@@ -7995,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261744,
+      "num": 241972,
+      "word": "内娱又有troublemaker上新",
+      "onboard_time": 1731164660,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261640,
       "num": 238298,
       "word": "黄晓明未删与叶珂官宣微博",
@@ -8065,6 +8113,14 @@
       "onboard_time": 1731131299,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260120,
+      "num": 260120,
+      "word": "郑钦文总决赛冲冠",
+      "onboard_time": 1731163220,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 259487,
@@ -8483,6 +8539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242792,
+      "num": 242792,
+      "word": "被传患病网红夫妇无奈离开家乡",
+      "onboard_time": 1731165080,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242121,
       "num": 242121,
       "word": "虞书欣丁禹兮祝绪丹cos燃冬",
@@ -8523,6 +8587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241641,
+      "num": 241641,
+      "word": "林诗栋4比0林昀儒",
+      "onboard_time": 1731164360,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241608,
       "num": 241608,
       "word": "以色列学生称巴勒斯坦人为畜生",
@@ -8553,6 +8625,14 @@
       "onboard_time": 1731156619,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240322,
+      "num": 468159,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 240229,
@@ -8617,6 +8697,14 @@
       "onboard_time": 1730692281,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238278,
+      "num": 238278,
+      "word": "丁禹兮发烧了",
+      "onboard_time": 1731160810,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 238262,
@@ -9475,6 +9563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212069,
+      "num": 193464,
+      "word": "老舅鹿晗演唱会给陈赫庆生",
+      "onboard_time": 1731162740,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211831,
       "num": 547708,
       "word": "G2三顾茅庐请Uzi",
@@ -10075,14 +10171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202943,
-      "num": 202943,
-      "word": "豆瓣崩了",
-      "onboard_time": 1731162860,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 202938,
       "num": 233686,
       "word": "猎罪图鉴2暂定11月底播出",
@@ -10443,6 +10531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198570,
+      "num": 198570,
+      "word": "虞书欣90后首位三平台破万演员",
+      "onboard_time": 1731165080,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198548,
       "num": 244333,
       "word": "T1扳回一局",
@@ -10739,6 +10835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195427,
+      "num": 195427,
+      "word": "王楚钦观战林诗栋",
+      "onboard_time": 1731164841,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195417,
       "num": 195417,
       "word": "王楚钦攻关克难需要时间",
@@ -10907,6 +11011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "丁程鑫最怕好六说结束语",
+      "onboard_time": 1731165140,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193468,
       "num": 340961,
       "word": "怎么不带张一山",
@@ -10921,14 +11033,6 @@
       "onboard_time": 1731058100,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 193168,
-      "num": 193168,
-      "word": "丁禹兮发烧了",
-      "onboard_time": 1731160810,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 193163,
@@ -10953,6 +11057,14 @@
       "onboard_time": 1730726120,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192851,
+      "num": 192851,
+      "word": "永夜星河扫楼安排上了",
+      "onboard_time": 1731164601,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 192807,
@@ -11291,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188148,
+      "num": 188148,
+      "word": "戚薇时代少年团合作",
+      "onboard_time": 1731165501,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187913,
       "num": 323450,
       "word": "王阳 帅而不油",
@@ -11451,6 +11571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185536,
+      "num": 185536,
+      "word": "狮子座年底运势最强分析",
+      "onboard_time": 1731163040,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185427,
       "num": 185427,
       "word": "LPL",
@@ -11465,14 +11593,6 @@
       "onboard_time": 1731158660,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185223,
-      "num": 185223,
-      "word": "老舅鹿晗演唱会给陈赫庆生",
-      "onboard_time": 1731162740,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 185183,
@@ -11553,6 +11673,14 @@
       "onboard_time": 1731128302,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183801,
+      "num": 183801,
+      "word": "西藏文旅发了赵露思端午转场",
+      "onboard_time": 1731164060,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 183521,
@@ -12448,14 +12576,6 @@
       "word": "郑钦文将冲击决赛",
       "onboard_time": 1731085815,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169698,
-      "num": 468159,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1731157819,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -14435,6 +14555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143088,
+      "num": 143088,
+      "word": "警方通报女生求职被要求陪睡",
+      "onboard_time": 1731165620,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143005,
       "num": 143005,
       "word": "妙妙知道慕声要强 妙妙也曾满身血印",
@@ -15209,6 +15337,14 @@
       "onboard_time": 1730977882,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 132766,
+      "num": 132766,
+      "word": "将门毒后",
+      "onboard_time": 1731165678,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 132521,
@@ -16179,6 +16315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120684,
+      "num": 120684,
+      "word": "老头杯S2阵容确定",
+      "onboard_time": 1731164241,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120582,
       "num": 120582,
       "word": "网友环球影城偶遇宋祖儿",
@@ -16241,6 +16385,14 @@
       "onboard_time": 1731140359,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 119194,
+      "num": 119194,
+      "word": "WTT",
+      "onboard_time": 1731164360,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119185,
@@ -18219,6 +18371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70580,
+      "num": 241657,
+      "word": "林诗栋闯进决赛",
+      "onboard_time": 1731163099,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70553,
       "num": 90488,
       "word": "郑钦文回应对阵高芙胜率",
@@ -19921,6 +20081,14 @@
       "onboard_time": 1731075981,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39475,
+      "num": 242727,
+      "word": "昭通一户村民家中烧煤中毒致4死",
+      "onboard_time": 1731165260,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39399,
@@ -21711,6 +21879,14 @@
       "num": 342662,
       "word": "揭秘壁挂炉市场乱象",
       "onboard_time": 1730962338,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19498,
+      "num": 302825,
+      "word": "任由异常电梯载人物业难逃责任",
+      "onboard_time": 1731164899,
       "rank": 14,
       "category": "社会新闻"
     },
