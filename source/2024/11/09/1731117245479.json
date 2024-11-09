@@ -1,0 +1,410 @@
+{
+  "runTime": 1731117245479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268520,
+        "num": 1268520,
+        "word": "翁青雅 芈迭",
+        "onboard_time": 1731111018,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 976054,
+        "num": 976054,
+        "word": "一觉醒来郑钦文成了亚洲一姐",
+        "onboard_time": 1731110898,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2881,
+        "num": 904577,
+        "word": "逛进博看新潮",
+        "onboard_time": 1731070819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887715,
+        "num": 887715,
+        "word": "知情人称要求陪睡公司总有女生应聘",
+        "onboard_time": 1731089113,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675260,
+        "num": 675260,
+        "word": "我喜欢子期我愿意嫁给子期",
+        "onboard_time": 1731111197,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482030,
+        "num": 482030,
+        "word": "女孩跑步终点前瘫倒跪着爬向终点",
+        "onboard_time": 1731112158,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440733,
+        "num": 440733,
+        "word": "癌症晚期男子怒砸店铺商家放弃追偿",
+        "onboard_time": 1731076642,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313161,
+        "num": 313161,
+        "word": "幼儿园上午演练孩子下午遇火灾逃生",
+        "onboard_time": 1731075561,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309882,
+        "num": 309882,
+        "word": "王一栩",
+        "onboard_time": 1731114498,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147958,
+        "num": 309259,
+        "word": "巴黎圣母院修复者拥抱庆祝",
+        "onboard_time": 1731116658,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1040229,
+        "num": 301628,
+        "word": "韦雪回应被权志龙喜欢过",
+        "onboard_time": 1731116418,
+        "rank": 10,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 628806,
+        "num": 298784,
+        "word": "男子偷窥儿子女友洗澡被行拘5日",
+        "onboard_time": 1731079821,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525198,
+        "num": 289729,
+        "word": "张婉婷觉得麦琳确实是有问题",
+        "onboard_time": 1731113839,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289035,
+        "num": 289035,
+        "word": "永夜星河男三 加戏",
+        "onboard_time": 1731078083,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123549,
+        "num": 287965,
+        "word": "郑钦文收获127万美元奖金",
+        "onboard_time": 1731112638,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394463,
+        "num": 287773,
+        "word": "特朗普第二任期将拥有更大权力",
+        "onboard_time": 1731115279,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287160,
+        "num": 287160,
+        "word": "美司法部指控伊朗策划谋杀特朗普",
+        "onboard_time": 1731115458,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215246,
+        "num": 215246,
+        "word": "普京有意愿与特朗普接触",
+        "onboard_time": 1731115279,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212757,
+        "num": 212757,
+        "word": "哈里斯说普京会把特朗普当午餐吃掉",
+        "onboard_time": 1731067579,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203200,
+        "num": 203200,
+        "word": "赵露思化了珍珠妆",
+        "onboard_time": 1731116841,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188133,
+        "num": 188133,
+        "word": "日本空手道小选手偷袭致对手瘫痪",
+        "onboard_time": 1731069559,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178220,
+        "num": 178220,
+        "word": "孙乐言 彭高",
+        "onboard_time": 1731070459,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173323,
+        "num": 173323,
+        "word": "费启鸣否认加戏",
+        "onboard_time": 1731116598,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165317,
+        "num": 165317,
+        "word": "残障老人遭猥亵嫌疑人扣3个月工资",
+        "onboard_time": 1731086117,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158939,
+        "num": 158939,
+        "word": "勇士vs骑士",
+        "onboard_time": 1731116777,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155025,
+        "num": 155025,
+        "word": "麦琳要求重新剪辑故事线",
+        "onboard_time": 1731116658,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148896,
+        "num": 148896,
+        "word": "女子带日本人入住酒店被拒",
+        "onboard_time": 1731097991,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140579,
+        "num": 140579,
+        "word": "内娱神级转场又加一个",
+        "onboard_time": 1731115998,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138982,
+        "num": 138982,
+        "word": "姐姐回应会不会和杨妞花闹翻",
+        "onboard_time": 1731117138,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137638,
+        "num": 137638,
+        "word": "济南小伙每周走读去韩国读博",
+        "onboard_time": 1731117019,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136146,
+        "num": 136146,
+        "word": "当瑞士卷事件在福建",
+        "onboard_time": 1731111559,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134779,
+        "num": 134779,
+        "word": "记者跳了一天",
+        "onboard_time": 1731114559,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132809,
+        "num": 132809,
+        "word": "萨巴伦卡出局数次气到摔拍",
+        "onboard_time": 1731117077,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107719,
+        "num": 131500,
+        "word": "你我都是消防安全的守护者",
+        "onboard_time": 1731117077,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130848,
+        "num": 130848,
+        "word": "萨巴伦卡vs高芙",
+        "onboard_time": 1731108015,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128545,
+        "num": 128545,
+        "word": "十个勤天也是当上捉妖师了",
+        "onboard_time": 1731114978,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27346,
+        "num": 127888,
+        "word": "金标大众降至16万",
+        "onboard_time": 1731116239,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127329,
+        "num": 127329,
+        "word": "意大利返还56件中国文物艺术品",
+        "onboard_time": 1731077543,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 259294,
+        "num": 126474,
+        "word": "papi酱 黄圣依哀莫大于心死",
+        "onboard_time": 1731077182,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124600,
+        "num": 124600,
+        "word": "赵露思唐晓天cha螂的诱惑",
+        "onboard_time": 1731111618,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493470,
+        "num": 122942,
+        "word": "麦琳撕伞",
+        "onboard_time": 1731075081,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121270,
+        "num": 121270,
+        "word": "理发师晓华回应同行质疑",
+        "onboard_time": 1731089593,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120436,
+        "num": 120436,
+        "word": "时隔5年巴黎圣母院钟声再次响起",
+        "onboard_time": 1731116658,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115740,
+        "num": 115740,
+        "word": "张纯如逝世20周年",
+        "onboard_time": 1731116841,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107801,
+        "num": 107801,
+        "word": "汪汪队是怎样炼成的",
+        "onboard_time": 1731117077,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103349,
+        "num": 103349,
+        "word": "愿消防员每次出发都平安归来",
+        "onboard_time": 1731117198,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102855,
+        "num": 102855,
+        "word": "杨超越 我怕被恶剪",
+        "onboard_time": 1731113899,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100936,
+        "num": 100936,
+        "word": "被执行人打工4年还清16万激动到哽咽",
+        "onboard_time": 1731107174,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39721,
+        "num": 99819,
+        "word": "我们愿致敬青春但也感谢护航人",
+        "onboard_time": 1731115879,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99751,
+        "num": 99751,
+        "word": "外国人称无法勘探被中国人找到大气田",
+        "onboard_time": 1731080540,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同意大利总统马塔雷拉会谈#"
+    }
+  }
+}

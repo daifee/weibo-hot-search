@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731116668819,
+  "endTime": 1731117245479,
   "band_list": [
     {
       "raw_hot": 1760293,
@@ -41,6 +41,14 @@
       "onboard_time": 1731110898,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1040229,
+      "num": 301628,
+      "word": "韦雪回应被权志龙喜欢过",
+      "onboard_time": 1731116418,
+      "rank": 13,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 961923,
@@ -107,7 +115,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517029,
+      "raw_hot": 525198,
       "num": 301718,
       "word": "张婉婷觉得麦琳确实是有问题",
       "onboard_time": 1731113839,
@@ -131,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 402940,
-      "num": 296093,
-      "word": "韦雪回应被权志龙喜欢过",
-      "onboard_time": 1731116418,
-      "rank": 13,
-      "category": "网红,艺人"
+      "raw_hot": 394463,
+      "num": 293816,
+      "word": "特朗普第二任期将拥有更大权力",
+      "onboard_time": 1731115279,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 379063,
@@ -227,20 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306739,
-      "num": 306739,
+      "raw_hot": 313161,
+      "num": 313161,
       "word": "幼儿园上午演练孩子下午遇火灾逃生",
       "onboard_time": 1731075561,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293816,
-      "num": 293816,
-      "word": "特朗普第二任期将拥有更大权力",
-      "onboard_time": 1731115279,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 293516,
@@ -249,6 +249,14 @@
       "onboard_time": 1731061459,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287160,
+      "num": 287160,
+      "word": "美司法部指控伊朗策划谋杀特朗普",
+      "onboard_time": 1731115458,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 272740,
@@ -291,12 +299,28 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 215246,
+      "num": 215246,
+      "word": "普京有意愿与特朗普接触",
+      "onboard_time": 1731115279,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 208068,
       "num": 208068,
       "word": "凌妙妙cos向佐",
       "onboard_time": 1731079880,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203200,
+      "num": 203200,
+      "word": "赵露思化了珍珠妆",
+      "onboard_time": 1731116841,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 199723,
@@ -339,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173323,
+      "num": 173323,
+      "word": "费启鸣否认加戏",
+      "onboard_time": 1731116598,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171665,
       "num": 171665,
       "word": "回小县城一年的真实感受",
@@ -363,20 +395,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165446,
-      "num": 165446,
-      "word": "美司法部指控伊朗策划谋杀特朗普",
-      "onboard_time": 1731115458,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 160377,
       "num": 160377,
       "word": "郑钦文世界排名上升到第五",
       "onboard_time": 1731088154,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158939,
+      "num": 158939,
+      "word": "勇士vs骑士",
+      "onboard_time": 1731116777,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155025,
+      "num": 155025,
+      "word": "麦琳要求重新剪辑故事线",
+      "onboard_time": 1731116658,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 150043,
@@ -387,12 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146494,
-      "num": 146494,
+      "raw_hot": 148896,
+      "num": 148896,
       "word": "女子带日本人入住酒店被拒",
       "onboard_time": 1731097991,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147958,
+      "num": 309259,
+      "word": "巴黎圣母院修复者拥抱庆祝",
+      "onboard_time": 1731116658,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 145922,
@@ -419,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140579,
+      "num": 196811,
+      "word": "内娱神级转场又加一个",
+      "onboard_time": 1731115998,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138982,
+      "num": 138982,
+      "word": "姐姐回应会不会和杨妞花闹翻",
+      "onboard_time": 1731117138,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138794,
       "num": 138794,
       "word": "黄执中 点评",
@@ -435,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137638,
+      "num": 137638,
+      "word": "济南小伙每周走读去韩国读博",
+      "onboard_time": 1731117019,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134322,
       "num": 134322,
       "word": "理发师晓华回应同行质疑",
       "onboard_time": 1731089593,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132809,
+      "num": 132809,
+      "word": "萨巴伦卡出局数次气到摔拍",
+      "onboard_time": 1731117077,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 132333,
@@ -467,12 +547,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127169,
+      "raw_hot": 128545,
       "num": 140342,
       "word": "十个勤天也是当上捉妖师了",
       "onboard_time": 1731114978,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124600,
+      "num": 138793,
+      "word": "赵露思唐晓天cha螂的诱惑",
+      "onboard_time": 1731111618,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123773,
@@ -483,6 +571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123549,
+      "num": 287965,
+      "word": "郑钦文收获127万美元奖金",
+      "onboard_time": 1731112638,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120436,
+      "num": 120436,
+      "word": "时隔5年巴黎圣母院钟声再次响起",
+      "onboard_time": 1731116658,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 119123,
       "num": 119123,
       "word": "王安宇演技",
@@ -491,20 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114998,
-      "num": 138793,
-      "word": "赵露思唐晓天cha螂的诱惑",
-      "onboard_time": 1731111618,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113729,
-      "num": 113729,
-      "word": "费启鸣否认加戏",
-      "onboard_time": 1731116598,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 115740,
+      "num": 115740,
+      "word": "张纯如逝世20周年",
+      "onboard_time": 1731116841,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113629,
@@ -523,22 +619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111909,
-      "num": 111909,
-      "word": "郑钦文收获127万美元奖金",
-      "onboard_time": 1731112638,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110687,
-      "num": 110687,
-      "word": "普京有意愿与特朗普接触",
-      "onboard_time": 1731115279,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 109568,
       "num": 178342,
       "word": "杨子也哭了",
@@ -553,6 +633,22 @@
       "onboard_time": 1731073882,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107801,
+      "num": 107801,
+      "word": "汪汪队是怎样炼成的",
+      "onboard_time": 1731117077,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107719,
+      "num": 131500,
+      "word": "你我都是消防安全的守护者",
+      "onboard_time": 1731117077,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106098,
@@ -585,6 +681,14 @@
       "onboard_time": 1731082698,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103349,
+      "num": 103349,
+      "word": "愿消防员每次出发都平安归来",
+      "onboard_time": 1731117198,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101553,
@@ -715,14 +819,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 75653,
-      "num": 196811,
-      "word": "内娱神级转场又加一个",
-      "onboard_time": 1731115998,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 68128,
       "num": 68128,
       "word": "子期喜欢妙妙全世界都知道",
@@ -811,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39721,
+      "num": 304841,
+      "word": "我们愿致敬青春但也感谢护航人",
+      "onboard_time": 1731115879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39399,
       "num": 46406,
       "word": "上海迪士尼飘雪",
@@ -851,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29281,
-      "num": 304841,
-      "word": "我们愿致敬青春但也感谢护航人",
-      "onboard_time": 1731115879,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 27346,
+      "num": 127888,
+      "word": "金标大众降至16万",
+      "onboard_time": 1731116239,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 25692,
@@ -873,14 +977,6 @@
       "onboard_time": 1731097760,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 23052,
-      "num": 96490,
-      "word": "金标大众降至16万",
-      "onboard_time": 1731116239,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 22989,
