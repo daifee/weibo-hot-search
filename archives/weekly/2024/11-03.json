@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731155896164,
+  "endTime": 1731156803097,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 1527363,
-      "num": 292382,
+      "num": 308915,
       "word": "王一栩我要打死你",
       "onboard_time": 1731153259,
       "rank": 10,
@@ -2465,6 +2465,14 @@
       "onboard_time": 1730813304,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845026,
+      "num": 845026,
+      "word": "永夜星河站内热度破30000",
+      "onboard_time": 1731156318,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 843969,
@@ -4947,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453563,
+      "num": 268426,
+      "word": "口服避孕药 致癌物",
+      "onboard_time": 1731156438,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 453124,
       "num": 453124,
       "word": "汪苏泷演唱会蟑螂退退退",
@@ -5739,6 +5755,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388196,
+      "num": 317170,
+      "word": "丁禹兮哭戏要碎了",
+      "onboard_time": 1731150618,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 387777,
+      "num": 291669,
+      "word": "虞书欣还有好几千张库存",
+      "onboard_time": 1731156378,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387449,
       "num": 357840,
       "word": "李兰迪评论区",
@@ -5867,20 +5899,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 376543,
+      "num": 376543,
+      "word": "双台风即将成型冷空气无能为力",
+      "onboard_time": 1731151037,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376135,
       "num": 294768,
       "word": "杨洋疑似受伤",
       "onboard_time": 1731028760,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375596,
-      "num": 317170,
-      "word": "丁禹兮哭戏要碎了",
-      "onboard_time": 1731150618,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 375565,
@@ -6003,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366150,
+      "num": 297010,
+      "word": "凌妙妙告诉慕子期她不是林虞",
+      "onboard_time": 1731151280,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365816,
       "num": 1350542,
       "word": "郑钦文总决赛首秀落败",
@@ -6041,14 +6081,6 @@
       "onboard_time": 1730561003,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362515,
-      "num": 297010,
-      "word": "凌妙妙告诉慕子期她不是林虞",
-      "onboard_time": 1731151280,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 361964,
@@ -6907,6 +6939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309307,
+      "num": 309307,
+      "word": "四川绵阳一女子抢警棍当场被控制",
+      "onboard_time": 1731155059,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308893,
       "num": 308893,
       "word": "Keria泪洒赛场",
@@ -7200,14 +7240,6 @@
       "word": "赛力斯发布广州问界M7事故鉴定",
       "onboard_time": 1730959099,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293494,
-      "num": 334903,
-      "word": "双台风即将成型冷空气无能为力",
-      "onboard_time": 1731151037,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -9235,14 +9267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 212903,
-      "num": 279818,
-      "word": "四川绵阳一女子抢警棍当场被控制",
-      "onboard_time": 1731155059,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212869,
       "num": 212869,
       "word": "钱天一11比1",
@@ -9329,6 +9353,14 @@
       "onboard_time": 1730952500,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211763,
+      "num": 270455,
+      "word": "夜骑开封被按下暂停键",
+      "onboard_time": 1731156077,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211656,
@@ -9675,6 +9707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205990,
+      "num": 205990,
+      "word": "腾讯视频 永夜星河",
+      "onboard_time": 1731155538,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205905,
       "num": 205905,
       "word": "陈平安偏偏你最争气",
@@ -9897,6 +9937,14 @@
       "onboard_time": 1731036199,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203006,
+      "num": 203006,
+      "word": "珠帘玉幕全组给赵露思庆生",
+      "onboard_time": 1731155898,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 202938,
@@ -11723,6 +11771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175784,
+      "num": 175784,
+      "word": "爷爷用两块霉豆腐养大了348个孩子",
+      "onboard_time": 1731156378,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175731,
       "num": 175731,
       "word": "辽师大称车祸大巴上载有大三学生",
@@ -12657,14 +12713,6 @@
       "onboard_time": 1731057981,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162863,
-      "num": 162863,
-      "word": "腾讯视频 永夜星河",
-      "onboard_time": 1731155538,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 162856,
@@ -14243,6 +14291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141404,
+      "num": 261354,
+      "word": "申请导盲犬需要邻居先同意吗",
+      "onboard_time": 1731153919,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "永夜星河打光",
@@ -14731,6 +14787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134301,
+      "num": 134301,
+      "word": "猫咪用假吃来示意主人自己很饿",
+      "onboard_time": 1731153380,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134288,
       "num": 134288,
       "word": "原神兑换码",
@@ -14753,14 +14817,6 @@
       "onboard_time": 1730759714,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134054,
-      "num": 134054,
-      "word": "猫咪用假吃来示意主人自己很饿",
-      "onboard_time": 1731153380,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 134005,
@@ -14971,6 +15027,14 @@
       "category": "动漫,游戏"
     },
     {
+      "raw_hot": 130917,
+      "num": 130917,
+      "word": "郑钦文再上新闻联播",
+      "onboard_time": 1731156198,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130846,
       "num": 130846,
       "word": "徐明浩STARDUST",
@@ -14993,6 +15057,14 @@
       "onboard_time": 1730806942,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130514,
+      "num": 130514,
+      "word": "产量仅1%的黑刺榴莲有多好吃",
+      "onboard_time": 1731156438,
+      "rank": 40,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 130093,
@@ -15547,6 +15619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123427,
+      "num": 123427,
+      "word": "mlxg还在保Uzi",
+      "onboard_time": 1731156619,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123380,
       "num": 123380,
       "word": "Uzi说今晚偷奖杯",
@@ -15825,6 +15905,14 @@
       "onboard_time": 1730570115,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119880,
+      "num": 256016,
+      "word": "一家二甲医院欠薪倒闭",
+      "onboard_time": 1731154099,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119751,
@@ -16387,6 +16475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110027,
+      "num": 110027,
+      "word": "2024珠海航展名场面",
+      "onboard_time": 1731153198,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 109884,
       "num": 470789,
       "word": "卡尔伯格说王楚钦状态可能不是很好",
@@ -16505,14 +16601,6 @@
       "onboard_time": 1730821519,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108745,
-      "num": 108745,
-      "word": "2024珠海航展名场面",
-      "onboard_time": 1731153198,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 108728,
@@ -17219,6 +17307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90352,
+      "num": 270011,
+      "word": "陈哲远大学同学聚会照",
+      "onboard_time": 1731156018,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90154,
       "num": 90154,
       "word": "庆祝第25个中国记者节",
@@ -17313,14 +17409,6 @@
       "onboard_time": 1731108196,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87441,
-      "num": 261354,
-      "word": "申请导盲犬需要邻居先同意吗",
-      "onboard_time": 1731153919,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86921,
@@ -17769,14 +17857,6 @@
       "onboard_time": 1731033558,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 73594,
-      "num": 256016,
-      "word": "一家二甲医院欠薪倒闭",
-      "onboard_time": 1731154099,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72703,
@@ -19251,6 +19331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44785,
+      "num": 296658,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1731155898,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44368,
       "num": 540917,
       "word": "济南通报女子未接电话被辱骂事件",
@@ -20156,7 +20244,7 @@
     },
     {
       "raw_hot": 32255,
-      "num": 171779,
+      "num": 206039,
       "word": "双11旅行囤点啥",
       "onboard_time": 1731153198,
       "rank": 28,
@@ -20963,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22980,
+      "num": 848375,
+      "word": "这些橙色身影是最坚实的依靠",
+      "onboard_time": 1731155118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22935,
       "num": 66069,
       "word": "女子生命只剩仨月当志愿者10年后康复",
@@ -21231,14 +21327,6 @@
       "num": 970802,
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20109,
-      "num": 812110,
-      "word": "这些橙色身影是最坚实的依靠",
-      "onboard_time": 1731155118,
       "rank": 2,
       "category": "社会新闻"
     },
