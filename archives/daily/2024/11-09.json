@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731127192504,
+  "endTime": 1731129601178,
   "band_list": [
     {
       "raw_hot": 1990982,
@@ -41,6 +41,22 @@
       "onboard_time": 1731111018,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1294701,
+      "num": 535024,
+      "word": "特朗普已准备再次退出巴黎协定",
+      "onboard_time": 1731125899,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1251673,
+      "num": 1251673,
+      "word": "高铁站员工被曝上班慵懒盘核桃",
+      "onboard_time": 1731125538,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1236697,
@@ -100,11 +116,19 @@
     },
     {
       "raw_hot": 838273,
-      "num": 327274,
+      "num": 337571,
       "word": "台湾一3岁女童遭男保姆性侵",
       "onboard_time": 1731117799,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807220,
+      "num": 532520,
+      "word": "洪尧评论区",
+      "onboard_time": 1731127399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 795461,
@@ -179,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 579679,
+      "num": 579679,
+      "word": "万安县公示3名95后女干部",
+      "onboard_time": 1731126018,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564123,
       "num": 564123,
       "word": "女孩跑步终点前瘫倒跪着爬向终点",
@@ -193,14 +225,6 @@
       "onboard_time": 1731116658,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 551434,
-      "num": 324606,
-      "word": "特朗普已准备再次退出巴黎协定",
-      "onboard_time": 1731125899,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 542781,
@@ -323,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350250,
+      "num": 350250,
+      "word": "格莱美kpop0提名",
+      "onboard_time": 1731128360,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 348188,
       "num": 348188,
       "word": "丁禹兮 老粉比黑粉可怕",
@@ -376,14 +408,6 @@
       "word": "幼儿园上午演练孩子下午遇火灾逃生",
       "onboard_time": 1731075561,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306838,
-      "num": 306838,
-      "word": "高铁站员工被曝上班慵懒盘核桃",
-      "onboard_time": 1731125538,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -459,6 +483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250392,
+      "num": 250392,
+      "word": "特朗普表示将努力制止战争",
+      "onboard_time": 1731125658,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 245451,
+      "num": 217532,
+      "word": "张泉灵去查了工伤衍生二次伤害的界定",
+      "onboard_time": 1731129139,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "关晓彤 国民闺女赛道",
@@ -472,14 +512,6 @@
       "word": "以色列学生称巴勒斯坦人为畜生",
       "onboard_time": 1731118998,
       "rank": 23,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 240250,
-      "num": 240250,
-      "word": "特朗普表示将努力制止战争",
-      "onboard_time": 1731125658,
-      "rank": 31,
       "category": "国外时政"
     },
     {
@@ -515,6 +547,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 216074,
+      "num": 306111,
+      "word": "丁禹兮撤回一个内耗",
+      "onboard_time": 1731126258,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215246,
       "num": 215246,
       "word": "普京有意愿与特朗普接触",
@@ -523,12 +563,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 210378,
-      "num": 331139,
-      "word": "万安县公示3名95后女干部",
-      "onboard_time": 1731126018,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 208386,
+      "num": 338597,
+      "word": "又一次成功发射一箭四星",
+      "onboard_time": 1731127701,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208068,
@@ -555,12 +595,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203042,
-      "num": 306111,
-      "word": "丁禹兮撤回一个内耗",
-      "onboard_time": 1731126258,
-      "rank": 24,
+      "raw_hot": 204114,
+      "num": 204114,
+      "word": "肖战工作室发起我们的多棱镜活动",
+      "onboard_time": 1731129258,
+      "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201995,
+      "num": 234190,
+      "word": "小巷人家奶奶分瓜",
+      "onboard_time": 1731126439,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 199723,
@@ -585,6 +633,14 @@
       "onboard_time": 1731121819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193239,
+      "num": 193239,
+      "word": "郑钦文说爸爸已经变成慈父了",
+      "onboard_time": 1731127701,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 192793,
@@ -628,11 +684,19 @@
     },
     {
       "raw_hot": 185918,
-      "num": 142863,
+      "num": 148591,
       "word": "肖战全新专辑MV预约人数",
       "onboard_time": 1731127099,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183904,
+      "num": 183904,
+      "word": "小伙用榫卯结构做面包成世界冠军",
+      "onboard_time": 1731128302,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182399,
@@ -641,6 +705,14 @@
       "onboard_time": 1731084856,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180192,
+      "num": 322037,
+      "word": "川剧吐火被消防盯上了",
+      "onboard_time": 1731128720,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178261,
@@ -747,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150723,
+      "num": 150723,
+      "word": "听得懂话的女Tony被同行diss了",
+      "onboard_time": 1731129199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150043,
       "num": 150043,
       "word": "7.7万名村支书村主任已被立案",
@@ -785,6 +865,14 @@
       "onboard_time": 1731115339,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145290,
+      "num": 396969,
+      "word": "女子6次敲诈海底捞被判7个月",
+      "onboard_time": 1731128120,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142347,
@@ -867,14 +955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129810,
-      "num": 234190,
-      "word": "小巷人家奶奶分瓜",
-      "onboard_time": 1731126439,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129212,
       "num": 129212,
       "word": "WTA年终总决赛",
@@ -889,6 +969,14 @@
       "onboard_time": 1731114978,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127183,
+      "num": 127183,
+      "word": "陈昊宇 李斯丹妮到底有多少黑历史",
+      "onboard_time": 1731127278,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 124600,
@@ -915,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120867,
+      "num": 343833,
+      "word": "女推2全员丝滑变装",
+      "onboard_time": 1731127219,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119123,
       "num": 119123,
       "word": "王安宇演技",
@@ -924,7 +1020,7 @@
     },
     {
       "raw_hot": 118848,
-      "num": 1060778,
+      "num": 1088912,
       "word": "愿消防员每次出发都平安归来",
       "onboard_time": 1731117198,
       "rank": 45,
@@ -961,6 +1057,14 @@
       "onboard_time": 1731076161,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111039,
+      "num": 125782,
+      "word": "湖人vs76人",
+      "onboard_time": 1731127701,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111018,
@@ -1227,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61626,
+      "num": 339821,
+      "word": "张晚意时装男士11月封面",
+      "onboard_time": 1731128539,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 60929,
       "num": 60929,
       "word": "在狗狗身上看到了左右为难",
@@ -1353,6 +1465,14 @@
       "onboard_time": 1731092713,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31183,
+      "num": 366161,
+      "word": "网友在全国偶遇成毅",
+      "onboard_time": 1731127819,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 31000,
