@@ -1,0 +1,410 @@
+{
+  "runTime": 1731133699303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093776,
+        "num": 1175004,
+        "word": "女子6次敲诈海底捞被判7个月",
+        "onboard_time": 1731128120,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909001,
+        "num": 909001,
+        "word": "高铁站员工被曝上班慵懒盘核桃",
+        "onboard_time": 1731125538,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18905,
+        "num": 897045,
+        "word": "愿消防员每次出发都平安归来",
+        "onboard_time": 1731117198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894525,
+        "num": 894525,
+        "word": "听得懂话的女Tony被同行diss了",
+        "onboard_time": 1731129199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782422,
+        "num": 782422,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1731132918,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 559867,
+        "num": 559867,
+        "word": "熏鸡事变",
+        "onboard_time": 1731123379,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531763,
+        "num": 531763,
+        "word": "永夜星河被腾讯赐名星帝",
+        "onboard_time": 1731130039,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530556,
+        "num": 530556,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458346,
+        "num": 458346,
+        "word": "巴基斯坦火车站爆炸死亡升至22人",
+        "onboard_time": 1731130458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95567,
+        "num": 458244,
+        "word": "长白山景区上空现绝美七彩祥云",
+        "onboard_time": 1731132799,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949957,
+        "num": 457127,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 834265,
+        "num": 456073,
+        "word": "谢娜怀孕前就把小孩的衣服买好",
+        "onboard_time": 1731130219,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745467,
+        "num": 454779,
+        "word": "洪尧评论区",
+        "onboard_time": 1731127399,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524570,
+        "num": 454199,
+        "word": "韦雪回应被权志龙喜欢过",
+        "onboard_time": 1731116418,
+        "rank": 13,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 27077,
+        "num": 452459,
+        "word": "山头越野背后竟暗藏直播赌博",
+        "onboard_time": 1731132378,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452214,
+        "num": 452214,
+        "word": "翁青雅 芈迭",
+        "onboard_time": 1731111018,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377789,
+        "num": 377789,
+        "word": "万安县公示3名95后女干部",
+        "onboard_time": 1731126018,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375985,
+        "num": 375985,
+        "word": "女子因父母要求加30万彩礼跳河轻生",
+        "onboard_time": 1731123319,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325440,
+        "num": 325440,
+        "word": "我喜欢子期我愿意嫁给子期",
+        "onboard_time": 1731111197,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72703,
+        "num": 321970,
+        "word": "永夜星河处处有回应",
+        "onboard_time": 1731131718,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394304,
+        "num": 321316,
+        "word": "台湾一3岁女童遭男保姆性侵",
+        "onboard_time": 1731117799,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318992,
+        "num": 318992,
+        "word": "巴基斯坦一火车站发生爆炸",
+        "onboard_time": 1731131599,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300656,
+        "num": 300656,
+        "word": "格莱美kpop0提名",
+        "onboard_time": 1731128360,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260339,
+        "num": 260339,
+        "word": "赵晴养成系00花",
+        "onboard_time": 1731131299,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44449,
+        "num": 259583,
+        "word": "杨紫告黑粉胜诉",
+        "onboard_time": 1731133517,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259286,
+        "num": 259286,
+        "word": "六公主精准放片日本人没房间",
+        "onboard_time": 1731131778,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228700,
+        "num": 228700,
+        "word": "疯狂动物城2",
+        "onboard_time": 1731123079,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187431,
+        "num": 187431,
+        "word": "知情人称要求陪睡公司总有女生应聘",
+        "onboard_time": 1731089113,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186368,
+        "num": 186368,
+        "word": "赵露思化了珍珠妆",
+        "onboard_time": 1731116841,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184662,
+        "num": 184662,
+        "word": "开封倡议骑行别扎堆也不必深夜",
+        "onboard_time": 1731120079,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265525,
+        "num": 184040,
+        "word": "天启 出轨",
+        "onboard_time": 1731119658,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183036,
+        "num": 183036,
+        "word": "黄圣依没有杨子描述的痣",
+        "onboard_time": 1731124279,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181345,
+        "num": 181345,
+        "word": "特朗普第二任期将拥有更大权力",
+        "onboard_time": 1731115279,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160159,
+        "num": 160159,
+        "word": "男子偷窥儿子女友洗澡被行拘5日",
+        "onboard_time": 1731079821,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148678,
+        "num": 148678,
+        "word": "小伙用榫卯结构做面包成世界冠军",
+        "onboard_time": 1731128302,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148430,
+        "num": 148430,
+        "word": "张泉灵去查了工伤衍生二次伤害的界定",
+        "onboard_time": 1731129139,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283013,
+        "num": 148401,
+        "word": "麦琳被曝要求重新剪辑故事线",
+        "onboard_time": 1731116658,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147631,
+        "num": 147631,
+        "word": "郑钦文说爸爸已经变成慈父了",
+        "onboard_time": 1731127701,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141052,
+        "num": 141052,
+        "word": "特朗普表示将努力制止战争",
+        "onboard_time": 1731125658,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130812,
+        "num": 130812,
+        "word": "TheShy和Rookie被曝回归iG",
+        "onboard_time": 1731126859,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125730,
+        "num": 125730,
+        "word": "光遇",
+        "onboard_time": 1731132559,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125473,
+        "num": 125473,
+        "word": "一觉醒来郑钦文成了亚洲一姐",
+        "onboard_time": 1731110898,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125278,
+        "num": 125278,
+        "word": "制片人否认麦琳要求重新剪辑",
+        "onboard_time": 1731132139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121386,
+        "num": 121386,
+        "word": "肖战全新专辑MV预约人数",
+        "onboard_time": 1731127099,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115253,
+        "num": 115253,
+        "word": "歼15D首次亮相",
+        "onboard_time": 1731130399,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 101585,
+        "num": 101585,
+        "word": "虞书欣张凌赫或将合作逍遥游",
+        "onboard_time": 1731124279,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100072,
+        "num": 100072,
+        "word": "又一次成功发射一箭四星",
+        "onboard_time": 1731127701,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95920,
+        "num": 95920,
+        "word": "能不能让慕瑶亲完再捉妖",
+        "onboard_time": 1731133638,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91283,
+        "num": 91283,
+        "word": "卓资山熏鸡",
+        "onboard_time": 1731133278,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90872,
+        "num": 90872,
+        "word": "小巷人家奶奶分瓜",
+        "onboard_time": 1731126439,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同意大利总统马塔雷拉会谈#"
+    }
+  }
+}
