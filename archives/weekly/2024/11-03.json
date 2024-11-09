@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731136730501,
+  "endTime": 1731137697245,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1491,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1148521,
+      "num": 1183763,
+      "word": "芈迭 我和青雅只是朋友关系",
+      "onboard_time": 1731135859,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1145997,
       "num": 1145997,
       "word": "大张伟太太是他的英雄吧",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1730562441,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1060353,
+      "num": 324230,
+      "word": "百万粉丝博主江边捡垃圾发现散落人骨",
+      "onboard_time": 1731134299,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1059870,
@@ -3147,14 +3163,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 663039,
-      "num": 293575,
-      "word": "百万粉丝博主江边捡垃圾发现散落人骨",
-      "onboard_time": 1731134299,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657422,
       "num": 444236,
       "word": "哈里斯取消演讲计划",
@@ -3393,6 +3401,14 @@
       "onboard_time": 1730703439,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 621340,
+      "num": 321503,
+      "word": "六公主精准放片日本人没房间",
+      "onboard_time": 1731131778,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 621317,
@@ -3691,14 +3707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 588404,
-      "num": 282543,
-      "word": "六公主精准放片日本人没房间",
-      "onboard_time": 1731131778,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 587108,
       "num": 834808,
       "word": "正午阳光 切不动了",
@@ -3729,14 +3737,6 @@
       "onboard_time": 1730603840,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584707,
-      "num": 584707,
-      "word": "芈迭 我和青雅只是朋友关系",
-      "onboard_time": 1731135859,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 584644,
@@ -4491,6 +4491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 486842,
+      "num": 318671,
+      "word": "麦琳退了女儿喜欢的汉服",
+      "onboard_time": 1731137118,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486174,
       "num": 436333,
       "word": "G2再次邀请Uzi加入",
@@ -4963,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436449,
+      "num": 315385,
+      "word": "李行亮买青团的机票是积分换的",
+      "onboard_time": 1731136038,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436216,
       "num": 436216,
       "word": "成都一火锅店回收底油再给顾客食用",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1730635939,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418160,
+      "num": 418160,
+      "word": "丁禹兮演出了书里的微表情",
+      "onboard_time": 1731134657,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 417886,
@@ -6401,14 +6425,6 @@
       "onboard_time": 1731076702,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324811,
-      "num": 264369,
-      "word": "丁禹兮演出了书里的微表情",
-      "onboard_time": 1731134657,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 323948,
@@ -7721,14 +7737,6 @@
       "onboard_time": 1730635878,
       "rank": 26,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 256536,
-      "num": 256536,
-      "word": "李行亮买青团的机票是积分换的",
-      "onboard_time": 1731136038,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 255588,
@@ -9283,6 +9291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206852,
+      "num": 206852,
+      "word": "刘宇宁帮丁程鑫竖衣领",
+      "onboard_time": 1731137179,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206812,
       "num": 206812,
       "word": "丁禹兮演技",
@@ -9697,6 +9713,14 @@
       "onboard_time": 1730876497,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201324,
+      "num": 201324,
+      "word": "谁是被害者 歌手后台遇害",
+      "onboard_time": 1731137057,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 201202,
@@ -10499,6 +10523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191125,
+      "num": 325597,
+      "word": "一双跑鞋的寿命就800公里",
+      "onboard_time": 1731136937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191092,
       "num": 191092,
       "word": "披荆斩棘的哥哥",
@@ -10601,6 +10633,14 @@
       "onboard_time": 1730606181,
       "rank": 38,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 188931,
+      "num": 188931,
+      "word": "郑开大道郑州段非机动车道临时禁行",
+      "onboard_time": 1731136760,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188888,
@@ -12619,6 +12659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156973,
+      "num": 156973,
+      "word": "这群厂妹凭实力带火了家乡造",
+      "onboard_time": 1731136699,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156872,
       "num": 151733,
       "word": "黄磊回应资源背景争议",
@@ -14179,14 +14227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134061,
-      "num": 134061,
-      "word": "这群厂妹凭实力带火了家乡造",
-      "onboard_time": 1731136699,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134005,
       "num": 134005,
       "word": "怪奇物语第五季",
@@ -14601,6 +14641,14 @@
       "onboard_time": 1731127278,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127181,
+      "num": 276145,
+      "word": "海军歼15系列舰载机适应性训练",
+      "onboard_time": 1731134059,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127180,
@@ -15057,6 +15105,14 @@
       "onboard_time": 1730955861,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121941,
+      "num": 121941,
+      "word": "GEN疑似接触Ruler",
+      "onboard_time": 1731137237,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 121744,
@@ -16675,6 +16731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83940,
+      "num": 258856,
+      "word": "白敬亭的进步是进军春节档",
+      "onboard_time": 1731136639,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83830,
       "num": 433629,
       "word": "广州房贷商贷利率将不低于3%",
@@ -16857,14 +16921,6 @@
       "onboard_time": 1730617878,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78142,
-      "num": 276145,
-      "word": "海军歼15系列舰载机适应性训练",
-      "onboard_time": 1731134059,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77779,
@@ -18675,14 +18731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39275,
-      "num": 258856,
-      "word": "白敬亭的进步是进军春节档",
-      "onboard_time": 1731136639,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39122,
       "num": 226603,
       "word": "黄子华回应不结婚不生小孩",
@@ -19169,6 +19217,14 @@
       "onboard_time": 1730816603,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33764,
+      "num": 208725,
+      "word": "高芙说郑钦文正处于巅峰状态",
+      "onboard_time": 1731137118,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 33708,
@@ -19699,6 +19755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26526,
+      "num": 311512,
+      "word": "裴淳华儿子获汉语桥全球总冠军",
+      "onboard_time": 1731135917,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26484,
       "num": 221972,
       "word": "闫妮说那一刻感觉黄玲上身了",
@@ -19745,6 +19809,14 @@
       "onboard_time": 1730885485,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25950,
+      "num": 208187,
+      "word": "真心建议买羽绒服要长期主义",
+      "onboard_time": 1731136159,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 25838,
@@ -19921,6 +19993,14 @@
       "onboard_time": 1731063919,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23586,
+      "num": 202115,
+      "word": "珠帘玉幕珍蚌表情包",
+      "onboard_time": 1731135138,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 23501,
@@ -20353,14 +20433,6 @@
       "onboard_time": 1731007872,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 19457,
-      "num": 270736,
-      "word": "裴淳华儿子获汉语桥全球总冠军",
-      "onboard_time": 1731135917,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19431,
@@ -21153,14 +21225,6 @@
       "onboard_time": 1731052820,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9411,
-      "num": 169695,
-      "word": "真心建议买羽绒服要长期主义",
-      "onboard_time": 1731136159,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 9334,
