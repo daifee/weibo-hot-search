@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731122738468,
+  "endTime": 1731123572800,
   "band_list": [
     {
       "raw_hot": 1990982,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1438564,
+      "num": 1438564,
+      "word": "英国宣布制裁10家中国企业",
+      "onboard_time": 1731119539,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1408372,
       "num": 538656,
       "word": "韦雪回应被权志龙喜欢过",
@@ -33,14 +41,6 @@
       "onboard_time": 1731111018,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1298423,
-      "num": 1298423,
-      "word": "英国宣布制裁10家中国企业",
-      "onboard_time": 1731119539,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1236697,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 765521,
+      "num": 534633,
+      "word": "天启 出轨",
+      "onboard_time": 1731119658,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 747089,
       "num": 747089,
       "word": "巴黎圣母院修复者拥抱庆祝",
@@ -121,14 +129,6 @@
       "onboard_time": 1731086295,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 670404,
-      "num": 534633,
-      "word": "天启 出轨",
-      "onboard_time": 1731119658,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 621586,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542781,
+      "num": 376581,
+      "word": "麦琳被曝要求重新剪辑故事线",
+      "onboard_time": 1731116658,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540554,
       "num": 406385,
       "word": "麦琳撕伞",
@@ -203,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 491366,
+      "num": 402731,
+      "word": "你好星期六全员passion",
+      "onboard_time": 1731120319,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465759,
       "num": 465759,
       "word": "济南小伙每周走读去韩国读博",
@@ -219,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 438208,
-      "num": 402731,
-      "word": "你好星期六全员passion",
-      "onboard_time": 1731120319,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 421836,
       "num": 540434,
       "word": "女子举报被名校博士骗走3920万",
@@ -235,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411916,
-      "num": 365662,
-      "word": "麦琳被曝要求重新剪辑故事线",
-      "onboard_time": 1731116658,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 399416,
+      "num": 301408,
+      "word": "疯狂动物城2",
+      "onboard_time": 1731123079,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 380220,
+      "num": 329045,
+      "word": "开封倡议骑行别扎堆也不必深夜",
+      "onboard_time": 1731120079,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379063,
@@ -304,14 +320,6 @@
       "word": "残障老人遭猥亵嫌疑人扣3个月工资",
       "onboard_time": 1731086117,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329045,
-      "num": 329045,
-      "word": "开封倡议骑行别扎堆也不必深夜",
-      "onboard_time": 1731120079,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -419,7 +427,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217994,
+      "raw_hot": 226825,
+      "num": 226825,
+      "word": "三大单车平台深夜发布骑行倡议书",
+      "onboard_time": 1731121701,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220490,
       "num": 234908,
       "word": "黄圣依点赞说杨子不要脸的微博",
       "onboard_time": 1731119418,
@@ -491,8 +507,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188810,
+      "num": 188810,
+      "word": "哑舍",
+      "onboard_time": 1731120919,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188659,
-      "num": 188659,
+      "num": 222573,
       "word": "张纯如逝世20周年",
       "onboard_time": 1731116841,
       "rank": 43,
@@ -571,20 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156162,
-      "num": 156162,
-      "word": "三大单车平台深夜发布骑行倡议书",
-      "onboard_time": 1731121701,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154720,
-      "num": 154720,
-      "word": "哑舍",
-      "onboard_time": 1731120919,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 156997,
+      "num": 340252,
+      "word": "中使馆回应英国制裁10家中国企业",
+      "onboard_time": 1731121518,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152764,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131703,
+      "num": 131703,
+      "word": "熏鸡事变",
+      "onboard_time": 1731123379,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "十个勤天下期回后陡门了",
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126430,
+      "num": 126430,
+      "word": "女子因父母要求加30万彩礼跳河轻生",
+      "onboard_time": 1731123319,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124600,
       "num": 138793,
       "word": "赵露思唐晓天cha螂的诱惑",
@@ -771,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120994,
+      "num": 120994,
+      "word": "歼35A轰鸣声太震撼",
+      "onboard_time": 1731122599,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119123,
       "num": 119123,
       "word": "王安宇演技",
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 118848,
-      "num": 118848,
+      "num": 1046237,
       "word": "愿消防员每次出发都平安归来",
       "onboard_time": 1731117198,
       "rank": 45,
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 107719,
-      "num": 131500,
+      "num": 162566,
       "word": "你我都是消防安全的守护者",
       "onboard_time": 1731117077,
       "rank": 33,
@@ -881,14 +921,6 @@
       "onboard_time": 1731082698,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102250,
-      "num": 102250,
-      "word": "歼35A轰鸣声太震撼",
-      "onboard_time": 1731122599,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 101553,
@@ -977,14 +1009,6 @@
       "onboard_time": 1731082037,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 85496,
-      "num": 340252,
-      "word": "中使馆回应英国制裁10家中国企业",
-      "onboard_time": 1731121518,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85172,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1731116239,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 56765,
+      "num": 191432,
+      "word": "开封喊话夜骑要激情更要平安",
+      "onboard_time": 1731122960,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52161,
@@ -1350,6 +1382,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同意大利总统马塔雷拉会谈#"
+    },
+    {
+      "word": "#中意应该携手构建和合共生的美好世界#"
     }
   ]
 }
