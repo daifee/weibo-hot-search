@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731148681925,
+  "endTime": 1731151053278,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1779534,
-      "num": 447057,
+      "num": 1031326,
       "word": "药店晕倒无人扶老人已去世",
       "onboard_time": 1731146418,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115155,
+      "num": 1115155,
+      "word": "妙妙 你怕我",
+      "onboard_time": 1731146898,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1078427,
       "num": 1078427,
       "word": "听得懂话的女Tony被同行diss了",
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1012497,
+      "num": 1012497,
+      "word": "医院偶遇丁禹兮看病",
+      "onboard_time": 1731149359,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936806,
       "num": 532520,
       "word": "洪尧评论区",
@@ -176,6 +192,14 @@
       "word": "癌症晚期男子怒砸店铺商家放弃追偿",
       "onboard_time": 1731076642,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 883524,
+      "num": 443130,
+      "word": "大学生夜骑开封最早是怎么开始的",
+      "onboard_time": 1731146659,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -209,14 +233,6 @@
       "onboard_time": 1731130219,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 819651,
-      "num": 443130,
-      "word": "大学生夜骑开封最早是怎么开始的",
-      "onboard_time": 1731146659,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 801963,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 664631,
-      "num": 452280,
-      "word": "妙妙 你怕我",
-      "onboard_time": 1731146898,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 662170,
       "num": 662170,
       "word": "拼多多被曝假花生油泛滥",
@@ -361,6 +369,14 @@
       "onboard_time": 1731116841,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615444,
+      "num": 349120,
+      "word": "永夜星河开虐",
+      "onboard_time": 1731150257,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 594084,
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465117,
+      "num": 465117,
+      "word": "官方通报万安县公示3名95后女干部",
+      "onboard_time": 1731145698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458346,
       "num": 458346,
       "word": "巴基斯坦火车站爆炸死亡升至22人",
@@ -603,11 +627,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356037,
-      "num": 447820,
-      "word": "官方通报万安县公示3名95后女干部",
-      "onboard_time": 1731145698,
-      "rank": 9,
+      "raw_hot": 361050,
+      "num": 348683,
+      "word": "4岁男童疑被教练推下平衡木致骨折",
+      "onboard_time": 1731148399,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -739,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282742,
+      "num": 300604,
+      "word": "闫妮姚晨手牵手下班了",
+      "onboard_time": 1731147138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274386,
       "num": 274386,
       "word": "三大单车平台深夜发布骑行倡议书",
@@ -779,11 +811,35 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 258195,
+      "num": 213993,
+      "word": "熏鸡商家感谢麦琳送的泼天流量",
+      "onboard_time": 1731150257,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "哑舍",
       "onboard_time": 1731120919,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253037,
+      "num": 253037,
+      "word": "马斯克身家已达3137亿美元",
+      "onboard_time": 1731147018,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 252446,
+      "num": 212746,
+      "word": "丁禹兮哭戏要碎了",
+      "onboard_time": 1731150618,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -835,14 +891,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 240942,
-      "num": 300604,
-      "word": "闫妮姚晨手牵手下班了",
-      "onboard_time": 1731147138,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239257,
       "num": 239257,
       "word": "纪凌尘拍的杨超越",
@@ -881,6 +929,14 @@
       "onboard_time": 1731124279,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228274,
+      "num": 228274,
+      "word": "女子收50万彩礼后与前男友去宾馆",
+      "onboard_time": 1731150439,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221069,
@@ -1187,12 +1243,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177757,
-      "num": 177757,
-      "word": "马斯克身家已达3137亿美元",
-      "onboard_time": 1731147018,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 176063,
+      "num": 176063,
+      "word": "永夜星河预告",
+      "onboard_time": 1731150257,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 175006,
@@ -1368,14 +1424,6 @@
       "word": "防患于未燃是对消防最好的致敬",
       "onboard_time": 1731118699,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150582,
-      "num": 150582,
-      "word": "4岁男童疑被教练推下平衡木致骨折",
-      "onboard_time": 1731148399,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126185,
+      "num": 126185,
+      "word": "珠帘玉幕开虐了",
+      "onboard_time": 1731148878,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125730,
       "num": 125730,
       "word": "光遇",
@@ -1675,12 +1731,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120131,
+      "num": 210236,
+      "word": "律师称老人倒地店员报警已尽帮扶义务",
+      "onboard_time": 1731149599,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119288,
       "num": 119288,
       "word": "运油20怼脸自萌",
       "onboard_time": 1731140359,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 119185,
+      "num": 119185,
+      "word": "花少后又见旅综里的胡先煦",
+      "onboard_time": 1731149420,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 119123,
@@ -1963,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96278,
+      "num": 206486,
+      "word": "双台风即将成型冷空气无能为力",
+      "onboard_time": 1731151037,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95773,
       "num": 95773,
       "word": "焚城",
@@ -2073,6 +2153,14 @@
       "onboard_time": 1731137958,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82378,
+      "num": 197777,
+      "word": "初雪把冬日氛围感拉满",
+      "onboard_time": 1731149179,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81352,
@@ -2363,6 +2451,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34620,
+      "num": 201901,
+      "word": "钎城镜头里的夕阳好美",
+      "onboard_time": 1731150678,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 34470,
+      "num": 204825,
+      "word": "郑钦文高芙交手精彩集锦",
+      "onboard_time": 1731150798,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33764,
       "num": 208725,
       "word": "高芙说郑钦文正处于巅峰状态",
@@ -2444,7 +2548,7 @@
     },
     {
       "raw_hot": 25817,
-      "num": 868426,
+      "num": 1037630,
       "word": "60秒沉浸式打卡进博之美",
       "onboard_time": 1731142697,
       "rank": 2,

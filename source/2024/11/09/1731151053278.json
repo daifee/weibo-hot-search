@@ -1,0 +1,410 @@
+{
+  "runTime": 1731151053278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251307,
+        "num": 1251307,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115155,
+        "num": 1115155,
+        "word": "妙妙 你怕我",
+        "onboard_time": 1731146898,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12225,
+        "num": 1037630,
+        "word": "60秒沉浸式打卡进博之美",
+        "onboard_time": 1731142697,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1694315,
+        "num": 1031326,
+        "word": "药店晕倒无人扶老人已去世",
+        "onboard_time": 1731146418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012497,
+        "num": 1012497,
+        "word": "医院偶遇丁禹兮看病",
+        "onboard_time": 1731149359,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465117,
+        "num": 465117,
+        "word": "官方通报万安县公示3名95后女干部",
+        "onboard_time": 1731145698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862745,
+        "num": 424915,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 845422,
+        "num": 423639,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349269,
+        "num": 349269,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129959,
+        "num": 349232,
+        "word": "郑州共享单车超区骑行将强制锁车",
+        "onboard_time": 1731140418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883524,
+        "num": 349149,
+        "word": "大学生夜骑开封最早是怎么开始的",
+        "onboard_time": 1731146659,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615444,
+        "num": 349120,
+        "word": "永夜星河开虐",
+        "onboard_time": 1731150257,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554477,
+        "num": 348988,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487955,
+        "num": 348948,
+        "word": "郑州发布交通管制通告",
+        "onboard_time": 1731141560,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402057,
+        "num": 348843,
+        "word": "妈妈要求爱豆女儿退圈照顾弟弟",
+        "onboard_time": 1731143539,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398803,
+        "num": 348814,
+        "word": "永夜星河热度",
+        "onboard_time": 1731145759,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361050,
+        "num": 348683,
+        "word": "4岁男童疑被教练推下平衡木致骨折",
+        "onboard_time": 1731148399,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348683,
+        "num": 348682,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253037,
+        "num": 253037,
+        "word": "马斯克身家已达3137亿美元",
+        "onboard_time": 1731147018,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228274,
+        "num": 228274,
+        "word": "女子收50万彩礼后与前男友去宾馆",
+        "onboard_time": 1731150439,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382835,
+        "num": 226602,
+        "word": "感觉留几手和葛夕真的生气了",
+        "onboard_time": 1731143297,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310165,
+        "num": 221144,
+        "word": "芈迭 我和青雅只是朋友关系",
+        "onboard_time": 1731135859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282742,
+        "num": 219658,
+        "word": "闫妮姚晨手牵手下班了",
+        "onboard_time": 1731147138,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258195,
+        "num": 213993,
+        "word": "熏鸡商家感谢麦琳送的泼天流量",
+        "onboard_time": 1731150257,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213126,
+        "num": 213126,
+        "word": "幼儿园小孩哥立定跳远一米七",
+        "onboard_time": 1731139219,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252446,
+        "num": 212746,
+        "word": "丁禹兮哭戏要碎了",
+        "onboard_time": 1731150618,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120131,
+        "num": 210236,
+        "word": "律师称老人倒地店员报警已尽帮扶义务",
+        "onboard_time": 1731149599,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96278,
+        "num": 206486,
+        "word": "双台风即将成型冷空气无能为力",
+        "onboard_time": 1731151037,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34470,
+        "num": 204825,
+        "word": "郑钦文高芙交手精彩集锦",
+        "onboard_time": 1731150798,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34620,
+        "num": 201901,
+        "word": "钎城镜头里的夕阳好美",
+        "onboard_time": 1731150678,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82378,
+        "num": 197777,
+        "word": "初雪把冬日氛围感拉满",
+        "onboard_time": 1731149179,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197670,
+        "num": 197670,
+        "word": "万安县公示3名95后女干部",
+        "onboard_time": 1731126018,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190535,
+        "num": 190535,
+        "word": "付航真去演猴了",
+        "onboard_time": 1731147979,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176063,
+        "num": 176063,
+        "word": "永夜星河预告",
+        "onboard_time": 1731150257,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 161158,
+        "word": "歼15D舰载机首次公开亮相",
+        "onboard_time": 1731141738,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 160332,
+        "num": 160332,
+        "word": "Uzi直播",
+        "onboard_time": 1731147619,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157594,
+        "num": 157594,
+        "word": "纪凌尘拍的杨超越",
+        "onboard_time": 1731146839,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149831,
+        "num": 149831,
+        "word": "一双跑鞋的寿命就800公里",
+        "onboard_time": 1731136937,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144369,
+        "num": 144369,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1731132918,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144013,
+        "num": 144013,
+        "word": "郑钦文总决赛已狂揽1600万奖金",
+        "onboard_time": 1731144498,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137287,
+        "num": 137287,
+        "word": "男子养了3年的小狗竟是野狼",
+        "onboard_time": 1731138918,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135205,
+        "num": 135205,
+        "word": "女子6次敲诈海底捞被判7个月",
+        "onboard_time": 1731128120,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352483,
+        "num": 134137,
+        "word": "拼多多被曝假花生油泛滥",
+        "onboard_time": 1731144019,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132377,
+        "num": 132377,
+        "word": "百万粉丝博主江边捡垃圾发现散落人骨",
+        "onboard_time": 1731134299,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126185,
+        "num": 126185,
+        "word": "珠帘玉幕开虐了",
+        "onboard_time": 1731148878,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121419,
+        "num": 121419,
+        "word": "熏鸡事变",
+        "onboard_time": 1731123379,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "花少后又见旅综里的胡先煦",
+        "onboard_time": 1731149420,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117785,
+        "num": 117785,
+        "word": "歼35A正式列装空军",
+        "onboard_time": 1731144378,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117217,
+        "num": 117217,
+        "word": "老头杯",
+        "onboard_time": 1731144138,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106544,
+        "num": 106544,
+        "word": "造谣者父亲说小朋友开开玩笑",
+        "onboard_time": 1731137719,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们共同努力如期实现中国式现代化#"
+    }
+  }
+}
