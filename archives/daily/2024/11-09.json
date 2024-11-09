@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731165781152,
+  "endTime": 1731166618755,
   "band_list": [
     {
       "raw_hot": 2176588,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 956075,
+      "num": 956075,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1731164961,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 936806,
       "num": 532520,
       "word": "洪尧评论区",
@@ -257,6 +265,14 @@
       "onboard_time": 1731145818,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 874940,
+      "num": 874940,
+      "word": "长沙一写字楼电梯提示引人不适",
+      "onboard_time": 1731163761,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860373,
@@ -387,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 732313,
+      "num": 732313,
+      "word": "被传患病网红夫妇无奈离开家乡",
+      "onboard_time": 1731165080,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731466,
       "num": 426410,
       "word": "郑州共享单车超区骑行将强制锁车",
@@ -507,14 +531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 604569,
-      "num": 510307,
-      "word": "迪丽热巴演技",
-      "onboard_time": 1731164961,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 594084,
       "num": 502240,
       "word": "特朗普第二任期将拥有更大权力",
@@ -603,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532002,
+      "num": 532002,
+      "word": "内娱又有troublemaker上新",
+      "onboard_time": 1731164660,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525198,
       "num": 359257,
       "word": "张婉婷觉得麦琳确实是有问题",
@@ -667,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468138,
+      "num": 468138,
+      "word": "将门毒后",
+      "onboard_time": 1731165678,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465759,
       "num": 465759,
       "word": "济南小伙每周走读去韩国读博",
@@ -708,7 +740,7 @@
     },
     {
       "raw_hot": 444239,
-      "num": 444239,
+      "num": 470949,
       "word": "公立医院洗牌时代真的来了",
       "onboard_time": 1731161301,
       "rank": 8,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362437,
+      "num": 362437,
+      "word": "郑钦文总决赛冲冠",
+      "onboard_time": 1731163220,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356783,
       "num": 356783,
       "word": "爷爷用两块霉豆腐养大了348个孩子",
@@ -881,14 +921,6 @@
       "onboard_time": 1731114498,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325002,
-      "num": 325002,
-      "word": "长沙一写字楼电梯提示引人不适",
-      "onboard_time": 1731163761,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324654,
@@ -1035,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261744,
-      "num": 241972,
-      "word": "内娱又有troublemaker上新",
-      "onboard_time": 1731164660,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260722,
       "num": 260722,
       "word": "谢娜在孩子出生前就买好小孩衣服",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1731131299,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260120,
-      "num": 260120,
-      "word": "郑钦文总决赛冲冠",
-      "onboard_time": 1731163220,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 259503,
@@ -1107,6 +1123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 247456,
+      "num": 468159,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245451,
       "num": 217532,
       "word": "张泉灵去查了工伤衍生二次伤害的界定",
@@ -1131,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242792,
-      "num": 242792,
-      "word": "被传患病网红夫妇无奈离开家乡",
-      "onboard_time": 1731165080,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241641,
       "num": 241641,
       "word": "林诗栋4比0林昀儒",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1731156619,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 240322,
-      "num": 468159,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1731157819,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 239257,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1731127701,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 218738,
+      "num": 218738,
+      "word": "狮子座年底运势最强分析",
+      "onboard_time": 1731163040,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 217662,
@@ -1619,8 +1635,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188148,
-      "num": 188148,
+      "raw_hot": 188639,
+      "num": 188639,
       "word": "戚薇时代少年团合作",
       "onboard_time": 1731165501,
       "rank": 36,
@@ -1635,20 +1651,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185536,
-      "num": 185536,
-      "word": "狮子座年底运势最强分析",
-      "onboard_time": 1731163040,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185336,
       "num": 185336,
       "word": "侯明昊演技",
       "onboard_time": 1731158660,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185109,
+      "num": 185109,
+      "word": "警方通报女生求职被要求陪睡",
+      "onboard_time": 1731165620,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184954,
+      "num": 175578,
+      "word": "你好星期六下周有虞书欣丁禹兮",
+      "onboard_time": 1731165980,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 183904,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1731144259,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164150,
+      "num": 418521,
+      "word": "郑钦文vs高芙",
+      "onboard_time": 1731166040,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 162611,
@@ -2083,14 +2115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143088,
-      "num": 143088,
-      "word": "警方通报女生求职被要求陪睡",
-      "onboard_time": 1731165620,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142347,
       "num": 142347,
       "word": "当瑞士卷事件在福建",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1731139758,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132766,
-      "num": 132766,
-      "word": "将门毒后",
-      "onboard_time": 1731165678,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 132333,
@@ -2539,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113820,
+      "num": 113820,
+      "word": "郑钦文冲冠加油",
+      "onboard_time": 1731166159,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113707,
       "num": 113707,
       "word": "火影忍者忍者之路今日上映",
@@ -2619,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108429,
+      "num": 108429,
+      "word": "子期 就这个病娇爽",
+      "onboard_time": 1731165560,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107801,
       "num": 107801,
       "word": "汪汪队是怎样炼成的",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1731113899,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105415,
+      "num": 105415,
+      "word": "张杰南宁",
+      "onboard_time": 1731166159,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 103751,
@@ -2744,6 +2784,14 @@
       "word": "小巷人家22集",
       "onboard_time": 1731077603,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98250,
+      "num": 98250,
+      "word": "小巷人家大舅哥成冤种steve",
+      "onboard_time": 1731165200,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -3188,7 +3236,7 @@
     },
     {
       "raw_hot": 39475,
-      "num": 242727,
+      "num": 258552,
       "word": "昭通一户村民家中烧煤中毒致4死",
       "onboard_time": 1731165260,
       "rank": 19,
@@ -3387,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23511,
+      "num": 415785,
+      "word": "任由异常电梯载人物业难逃责任",
+      "onboard_time": 1731164899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23332,
       "num": 25579,
       "word": "佩斯科夫说普京不吃人",
@@ -3417,14 +3473,6 @@
       "onboard_time": 1731091813,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 19498,
-      "num": 302825,
-      "word": "任由异常电梯载人物业难逃责任",
-      "onboard_time": 1731164899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17795,

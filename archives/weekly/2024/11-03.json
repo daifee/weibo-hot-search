@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731165781152,
+  "endTime": 1731166618755,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 956075,
+      "num": 956075,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1731164961,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 954607,
       "num": 954607,
       "word": "毛奇严重违纪违法被双开",
@@ -2400,6 +2408,14 @@
       "word": "大批网友涌入蜂花账号要求道歉",
       "onboard_time": 1730955202,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874940,
+      "num": 874940,
+      "word": "长沙一写字楼电梯提示引人不适",
+      "onboard_time": 1731163761,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2993,6 +3009,14 @@
       "onboard_time": 1730886383,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732313,
+      "num": 732313,
+      "word": "被传患病网红夫妇无奈离开家乡",
+      "onboard_time": 1731165080,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 731466,
@@ -3755,14 +3779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 604569,
-      "num": 510307,
-      "word": "迪丽热巴演技",
-      "onboard_time": 1731164961,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 600593,
       "num": 451725,
       "word": "杨子的财产黄圣依能分多少",
@@ -4427,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532002,
+      "num": 532002,
+      "word": "内娱又有troublemaker上新",
+      "onboard_time": 1731164660,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531406,
       "num": 531406,
       "word": "林诗栋喊孙颖莎留蛋糕",
@@ -4963,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468138,
+      "num": 468138,
+      "word": "将门毒后",
+      "onboard_time": 1731165678,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467514,
       "num": 412800,
       "word": "祝绪丹 永夜",
@@ -5188,7 +5220,7 @@
     },
     {
       "raw_hot": 444239,
-      "num": 444239,
+      "num": 470949,
       "word": "公立医院洗牌时代真的来了",
       "onboard_time": 1731161301,
       "rank": 8,
@@ -6211,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362437,
+      "num": 362437,
+      "word": "郑钦文总决赛冲冠",
+      "onboard_time": 1731163220,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361964,
       "num": 361964,
       "word": "王承渲回应被暂停工作",
@@ -6801,14 +6841,6 @@
       "onboard_time": 1731076702,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325002,
-      "num": 325002,
-      "word": "长沙一写字楼电梯提示引人不适",
-      "onboard_time": 1731163761,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323948,
@@ -8035,14 +8067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261744,
-      "num": 241972,
-      "word": "内娱又有troublemaker上新",
-      "onboard_time": 1731164660,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261640,
       "num": 238298,
       "word": "黄晓明未删与叶珂官宣微博",
@@ -8113,14 +8137,6 @@
       "onboard_time": 1731131299,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260120,
-      "num": 260120,
-      "word": "郑钦文总决赛冲冠",
-      "onboard_time": 1731163220,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 259487,
@@ -8451,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247456,
+      "num": 468159,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247173,
       "num": 683096,
       "word": "米勒",
@@ -8539,14 +8563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242792,
-      "num": 242792,
-      "word": "被传患病网红夫妇无奈离开家乡",
-      "onboard_time": 1731165080,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242121,
       "num": 242121,
       "word": "虞书欣丁禹兮祝绪丹cos燃冬",
@@ -8625,14 +8641,6 @@
       "onboard_time": 1731156619,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 240322,
-      "num": 468159,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1731157819,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 240229,
@@ -9329,6 +9337,14 @@
       "onboard_time": 1730557341,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218738,
+      "num": 218738,
+      "word": "狮子座年底运势最强分析",
+      "onboard_time": 1731163040,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 218402,
@@ -11387,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188639,
+      "num": 188639,
+      "word": "戚薇时代少年团合作",
+      "onboard_time": 1731165501,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188574,
       "num": 188574,
       "word": "苏57一来就是招牌动作落叶飘",
@@ -11401,14 +11425,6 @@
       "onboard_time": 1730709680,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188148,
-      "num": 188148,
-      "word": "戚薇时代少年团合作",
-      "onboard_time": 1731165501,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 187913,
@@ -11571,14 +11587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185536,
-      "num": 185536,
-      "word": "狮子座年底运势最强分析",
-      "onboard_time": 1731163040,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185427,
       "num": 185427,
       "word": "LPL",
@@ -11611,12 +11619,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 185109,
+      "num": 185109,
+      "word": "警方通报女生求职被要求陪睡",
+      "onboard_time": 1731165620,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184966,
       "num": 184966,
       "word": "普京称中国有绝对平衡的政策",
       "onboard_time": 1731047840,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 184954,
+      "num": 175578,
+      "word": "你好星期六下周有虞书欣丁禹兮",
+      "onboard_time": 1731165980,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 184442,
@@ -13001,6 +13025,14 @@
       "onboard_time": 1730708239,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164150,
+      "num": 418521,
+      "word": "郑钦文vs高芙",
+      "onboard_time": 1731166040,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 164114,
@@ -14555,14 +14587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143088,
-      "num": 143088,
-      "word": "警方通报女生求职被要求陪睡",
-      "onboard_time": 1731165620,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143005,
       "num": 143005,
       "word": "妙妙知道慕声要强 妙妙也曾满身血印",
@@ -15337,14 +15361,6 @@
       "onboard_time": 1730977882,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 132766,
-      "num": 132766,
-      "word": "将门毒后",
-      "onboard_time": 1731165678,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 132521,
@@ -16739,6 +16755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113820,
+      "num": 113820,
+      "word": "郑钦文冲冠加油",
+      "onboard_time": 1731166159,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113707,
       "num": 113707,
       "word": "火影忍者忍者之路今日上映",
@@ -17075,6 +17099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 108429,
+      "num": 108429,
+      "word": "子期 就这个病娇爽",
+      "onboard_time": 1731165560,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107878,
       "num": 107878,
       "word": "任天堂新机兼容Switch游戏",
@@ -17185,6 +17217,14 @@
       "onboard_time": 1731113899,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105415,
+      "num": 105415,
+      "word": "张杰南宁",
+      "onboard_time": 1731166159,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 105395,
@@ -17513,6 +17553,14 @@
       "onboard_time": 1731073340,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 98250,
+      "num": 98250,
+      "word": "小巷人家大舅哥成冤种steve",
+      "onboard_time": 1731165200,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98157,
@@ -20084,7 +20132,7 @@
     },
     {
       "raw_hot": 39475,
-      "num": 242727,
+      "num": 258552,
       "word": "昭通一户村民家中烧煤中毒致4死",
       "onboard_time": 1731165260,
       "rank": 19,
@@ -21467,6 +21515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23511,
+      "num": 415785,
+      "word": "任由异常电梯载人物业难逃责任",
+      "onboard_time": 1731164899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23501,
       "num": 264926,
       "word": "为了养老一些人选择中年再婚",
@@ -21879,14 +21935,6 @@
       "num": 342662,
       "word": "揭秘壁挂炉市场乱象",
       "onboard_time": 1730962338,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19498,
-      "num": 302825,
-      "word": "任由异常电梯载人物业难逃责任",
-      "onboard_time": 1731164899,
       "rank": 14,
       "category": "社会新闻"
     },
