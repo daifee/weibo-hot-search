@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731188152005,
+  "endTime": 1731190754104,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -23531,6 +23531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72914,
+      "num": 72914,
+      "word": "女子自述吃河豚刺身中毒",
+      "onboard_time": 1731188651,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72703,
       "num": 321970,
       "word": "永夜星河处处有回应",
@@ -24179,6 +24187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 61625,
+      "num": 61625,
+      "word": "夜骑开封的共享单车被倒卖",
+      "onboard_time": 1731183072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61580,
       "num": 273016,
       "word": "冬天这样穿三层就够了",
@@ -24825,6 +24841,14 @@
       "onboard_time": 1731071541,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 52757,
+      "num": 52757,
+      "word": "王啸坤",
+      "onboard_time": 1731184031,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 52719,
@@ -25497,14 +25521,6 @@
       "onboard_time": 1730527698,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42796,
-      "num": 42796,
-      "word": "王啸坤",
-      "onboard_time": 1731184031,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 42740,
@@ -26465,14 +26481,6 @@
       "onboard_time": 1731071061,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 34168,
-      "num": 34168,
-      "word": "夜骑开封的共享单车被倒卖",
-      "onboard_time": 1731183072,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34167,
@@ -28251,6 +28259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 19808,
+      "num": 61838,
+      "word": "军队装备保障条例",
+      "onboard_time": 1731186071,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19779,
       "num": 356003,
       "word": "郑钦文说不会观看另一小组的晋级赛",
@@ -28441,14 +28457,6 @@
       "onboard_time": 1731175634,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18574,
-      "num": 61838,
-      "word": "军队装备保障条例",
-      "onboard_time": 1731186071,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18525,
@@ -29091,6 +29099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13606,
+      "num": 51475,
+      "word": "撞劳斯莱斯货车司机回应是不是剧本",
+      "onboard_time": 1731188592,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13488,
       "num": 36598,
       "word": "民警帮村民圆梦寻回父母生前照片",
@@ -29217,6 +29233,14 @@
       "onboard_time": 1730838131,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12269,
+      "num": 29096,
+      "word": "逛公园带来的好心情能持续4小时",
+      "onboard_time": 1731190451,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12245,
