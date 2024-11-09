@@ -1,0 +1,410 @@
+{
+  "runTime": 1731140794358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1637620,
+        "num": 1637620,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1599852,
+        "num": 1599852,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11872,
+        "num": 966228,
+        "word": "愿消防员每次出发都平安归来",
+        "onboard_time": 1731117198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842322,
+        "num": 842322,
+        "word": "芈迭 我和青雅只是朋友关系",
+        "onboard_time": 1731135859,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 647499,
+        "num": 647499,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490539,
+        "num": 490539,
+        "word": "一双跑鞋的寿命就800公里",
+        "onboard_time": 1731136937,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454968,
+        "num": 454968,
+        "word": "听得懂话的女Tony被同行diss了",
+        "onboard_time": 1731129199,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451080,
+        "num": 451080,
+        "word": "女子6次敲诈海底捞被判7个月",
+        "onboard_time": 1731128120,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388784,
+        "num": 388784,
+        "word": "迪丽热巴陈飞宇慕胥辞婚服路透",
+        "onboard_time": 1731139517,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369791,
+        "num": 369791,
+        "word": "刘学义怀疑沈月武艺是真情侣",
+        "onboard_time": 1731134059,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641789,
+        "num": 366771,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 593079,
+        "num": 363479,
+        "word": "郑开大道郑州段非机动车道临时禁行",
+        "onboard_time": 1731136760,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558206,
+        "num": 361684,
+        "word": "百万粉丝博主江边捡垃圾发现散落人骨",
+        "onboard_time": 1731134299,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428910,
+        "num": 355662,
+        "word": "李行亮买青团的机票是积分换的",
+        "onboard_time": 1731136038,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15315,
+        "num": 355521,
+        "word": "襄阳多小区燃气管材被曝以旧充新",
+        "onboard_time": 1731139819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411268,
+        "num": 351474,
+        "word": "谢娜怀孕前就把小孩的衣服买好",
+        "onboard_time": 1731130219,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177777,
+        "num": 348462,
+        "word": "幼儿园小孩哥立定跳远一米七",
+        "onboard_time": 1731139219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344955,
+        "num": 344955,
+        "word": "丁禹兮演出了书里的微表情",
+        "onboard_time": 1731134657,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303280,
+        "num": 303280,
+        "word": "六公主精准放片日本人没房间",
+        "onboard_time": 1731131778,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289051,
+        "num": 289051,
+        "word": "造谣者父亲说小朋友开开玩笑",
+        "onboard_time": 1731137719,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312453,
+        "num": 282164,
+        "word": "男子养了3年的小狗竟是野狼",
+        "onboard_time": 1731138918,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269564,
+        "num": 269564,
+        "word": "熏鸡事变",
+        "onboard_time": 1731123379,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264667,
+        "num": 264667,
+        "word": "林大厨为凌妙妙设计黑莲花",
+        "onboard_time": 1731138918,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180279,
+        "num": 249442,
+        "word": "高铁站员工被曝上班慵懒盘核桃",
+        "onboard_time": 1731125538,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247612,
+        "num": 247612,
+        "word": "翁青雅 芈迭",
+        "onboard_time": 1731111018,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242289,
+        "num": 242289,
+        "word": "女子因父母要求加30万彩礼跳河轻生",
+        "onboard_time": 1731123319,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235774,
+        "num": 235774,
+        "word": "永夜星河将拍摄团综",
+        "onboard_time": 1731139278,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 176704,
+        "word": "万安县公示3名95后女干部",
+        "onboard_time": 1731126018,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176054,
+        "num": 176054,
+        "word": "德云社唯一女弟子斗笑社路透",
+        "onboard_time": 1731133699,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126741,
+        "num": 175347,
+        "word": "张大大发文祝赵露思生日快乐",
+        "onboard_time": 1731140719,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 174692,
+        "word": "郑州共享单车超区骑行将强制锁车",
+        "onboard_time": 1731140418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163553,
+        "num": 163553,
+        "word": "韦雪回应被权志龙喜欢过",
+        "onboard_time": 1731116418,
+        "rank": 31,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 153700,
+        "num": 153700,
+        "word": "巴基斯坦火车站爆炸死亡升至22人",
+        "onboard_time": 1731130458,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152285,
+        "num": 152285,
+        "word": "Faker曾因压力抑郁",
+        "onboard_time": 1731138198,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147958,
+        "num": 147958,
+        "word": "洪尧评论区",
+        "onboard_time": 1731127399,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147050,
+        "num": 147050,
+        "word": "再见爱人 图书馆三十秒文学",
+        "onboard_time": 1731135737,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37192,
+        "num": 146504,
+        "word": "超豪华汽车们为何卖不动了",
+        "onboard_time": 1731138798,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146403,
+        "num": 146403,
+        "word": "永夜星河被腾讯赐名星帝",
+        "onboard_time": 1731130039,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145474,
+        "num": 145474,
+        "word": "40岁农村父亲第一次穿了裙子",
+        "onboard_time": 1731139579,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135618,
+        "num": 135618,
+        "word": "谁是被害者 歌手后台遇害",
+        "onboard_time": 1731137057,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130942,
+        "num": 130942,
+        "word": "疯狂动物城2",
+        "onboard_time": 1731123079,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "泰森说不想死在病床想死在拳击场上",
+        "onboard_time": 1731139457,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119288,
+        "num": 119288,
+        "word": "运油20怼脸自萌",
+        "onboard_time": 1731140359,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 114774,
+        "num": 114774,
+        "word": "台湾一3岁女童遭男保姆性侵",
+        "onboard_time": 1731117799,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114139,
+        "num": 114139,
+        "word": "特权码",
+        "onboard_time": 1731135619,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113707,
+        "num": 113707,
+        "word": "火影忍者忍者之路今日上映",
+        "onboard_time": 1731139819,
+        "rank": 45,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 54473,
+        "num": 113647,
+        "word": "真心建议买羽绒服要长期主义",
+        "onboard_time": 1731136159,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113637,
+        "num": 113637,
+        "word": "终于有人出手整顿李川了",
+        "onboard_time": 1731139758,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110349,
+        "num": 110349,
+        "word": "桂林火车站通报工作人员躺坐式服务",
+        "onboard_time": 1731140297,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109050,
+        "num": 109050,
+        "word": "特朗普第二任期将拥有更大权力",
+        "onboard_time": 1731115279,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中意应该携手构建和合共生的美好世界#"
+    }
+  }
+}
