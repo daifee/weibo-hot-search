@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731172678367,
+  "endTime": 1731173702123,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387131,
+      "num": 387131,
+      "word": "哈尔滨中央大街冰糖葫芦男神爆火",
+      "onboard_time": 1731167719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386421,
       "num": 386421,
       "word": "95花top",
@@ -97,14 +105,6 @@
       "onboard_time": 1731168620,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 359223,
-      "num": 359223,
-      "word": "哈尔滨中央大街冰糖葫芦男神爆火",
-      "onboard_time": 1731167719,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322074,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215505,
+      "num": 197518,
+      "word": "向佐发文为赵露思庆生",
+      "onboard_time": 1731171737,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "阿娇演的怨女",
@@ -192,14 +200,6 @@
       "word": "虞书欣还有好几千张库存",
       "onboard_time": 1731156378,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197518,
-      "num": 197518,
-      "word": "向佐发文为赵露思庆生",
-      "onboard_time": 1731171737,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166648,
+      "num": 279618,
+      "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+      "onboard_time": 1731172635,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "狮子座年底运势最强分析",
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139571,
+      "num": 318337,
+      "word": "郑钦文1比0高芙",
+      "onboard_time": 1731172396,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136713,
       "num": 136713,
       "word": "丁禹兮发烧了",
@@ -291,19 +307,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132279,
+      "num": 132279,
+      "word": "卡尔伯格4比2莫雷加德",
+      "onboard_time": 1731172217,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124201,
       "num": 447638,
       "word": "加油QueenWen",
       "onboard_time": 1731167960,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 122165,
-      "num": 122165,
-      "word": "卡尔伯格4比2莫雷加德",
-      "onboard_time": 1731172217,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -427,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55506,
+      "num": 279927,
+      "word": "郑钦文6比3拿下首盘",
+      "onboard_time": 1731172935,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44434,
+      "num": 60987,
+      "word": "院方回应更衣室发现隐藏摄像头",
+      "onboard_time": 1731172996,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37894,
       "num": 248180,
       "word": "忙了一天的勇士飞行表演队下班了",
@@ -435,27 +467,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 35256,
-      "num": 118033,
-      "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
-      "onboard_time": 1731172635,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25202,
+      "raw_hot": 27332,
       "num": 234215,
       "word": "郑钦文挽救3个破发点",
       "onboard_time": 1731172217,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 17775,
-      "num": 318337,
-      "word": "郑钦文1比0高芙",
-      "onboard_time": 1731172396,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -472,6 +488,14 @@
       "word": "郑钦文破发",
       "onboard_time": 1731079940,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3343,
+      "num": 224470,
+      "word": "郑钦文先下一盘",
+      "onboard_time": 1731081740,
+      "rank": 13,
       "category": "体育"
     }
   ],

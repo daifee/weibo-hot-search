@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731172678367,
+  "endTime": 1731173702123,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -7427,6 +7427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387131,
+      "num": 387131,
+      "word": "哈尔滨中央大街冰糖葫芦男神爆火",
+      "onboard_time": 1731167719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386821,
       "num": 386821,
       "word": "美学者称中国人基本上都是现实主义者",
@@ -7889,14 +7897,6 @@
       "onboard_time": 1730782281,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 359223,
-      "num": 359223,
-      "word": "哈尔滨中央大街冰糖葫芦男神爆火",
-      "onboard_time": 1731167719,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358777,
@@ -11795,6 +11795,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 215505,
+      "num": 197518,
+      "word": "向佐发文为赵露思庆生",
+      "onboard_time": 1731171737,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215246,
       "num": 215246,
       "word": "普京有意愿与特朗普接触",
@@ -13289,14 +13297,6 @@
       "onboard_time": 1730943860,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 197518,
-      "num": 197518,
-      "word": "向佐发文为赵露思庆生",
-      "onboard_time": 1731171737,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 197501,
@@ -15993,6 +15993,14 @@
       "onboard_time": 1731127219,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166648,
+      "num": 279618,
+      "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+      "onboard_time": 1731172635,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166636,
@@ -18763,6 +18771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139571,
+      "num": 318337,
+      "word": "郑钦文1比0高芙",
+      "onboard_time": 1731172396,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139538,
       "num": 139538,
       "word": "诛仙世界",
@@ -19424,6 +19440,14 @@
       "word": "郑钦文破发",
       "onboard_time": 1731079940,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132279,
+      "num": 132279,
+      "word": "卡尔伯格4比2莫雷加德",
+      "onboard_time": 1731172217,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -20464,14 +20488,6 @@
       "word": "钱天一晋级8强",
       "onboard_time": 1730988504,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 122165,
-      "num": 122165,
-      "word": "卡尔伯格4比2莫雷加德",
-      "onboard_time": 1731172217,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -24499,6 +24515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55506,
+      "num": 279927,
+      "word": "郑钦文6比3拿下首盘",
+      "onboard_time": 1731172935,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55494,
       "num": 55494,
       "word": "POWER歌词",
@@ -25281,6 +25305,14 @@
       "onboard_time": 1730456359,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44434,
+      "num": 60987,
+      "word": "院方回应更衣室发现隐藏摄像头",
+      "onboard_time": 1731172996,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44427,
@@ -26121,14 +26153,6 @@
       "onboard_time": 1730650398,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35256,
-      "num": 118033,
-      "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
-      "onboard_time": 1731172635,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35076,
@@ -27083,6 +27107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27332,
+      "num": 234215,
+      "word": "郑钦文挽救3个破发点",
+      "onboard_time": 1731172217,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27124,
       "num": 230786,
       "word": "吴磊戴华为手表解锁骑行酷体验",
@@ -27313,14 +27345,6 @@
       "onboard_time": 1730608579,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25202,
-      "num": 234215,
-      "word": "郑钦文挽救3个破发点",
-      "onboard_time": 1731172217,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 25126,
@@ -28329,14 +28353,6 @@
       "onboard_time": 1730751911,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17775,
-      "num": 318337,
-      "word": "郑钦文1比0高芙",
-      "onboard_time": 1731172396,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 17643,
