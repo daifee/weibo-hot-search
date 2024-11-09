@@ -1,0 +1,410 @@
+{
+  "runTime": 1731161955185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2176588,
+        "num": 2176588,
+        "word": "夜骑开封被按下暂停键",
+        "onboard_time": 1731156077,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968343,
+        "num": 968343,
+        "word": "虞书欣还有好几千张库存",
+        "onboard_time": 1731156378,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22451,
+        "num": 902139,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166523,
+        "num": 900325,
+        "word": "95花top",
+        "onboard_time": 1731160339,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 894492,
+        "num": 894492,
+        "word": "药店晕倒无人扶老人已去世",
+        "onboard_time": 1731146418,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832636,
+        "num": 832636,
+        "word": "男孩在超市摔倒后昏迷至今",
+        "onboard_time": 1731159019,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766934,
+        "num": 766934,
+        "word": "腾讯七部热度破30000剧集",
+        "onboard_time": 1731159200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680972,
+        "num": 680972,
+        "word": "阿娇演的怨女",
+        "onboard_time": 1731156920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132076,
+        "num": 676925,
+        "word": "同时拥有两款隐身战机有什么好处",
+        "onboard_time": 1731161421,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 138160,
+        "num": 676668,
+        "word": "王曼昱闯进决赛",
+        "onboard_time": 1731161120,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676641,
+        "num": 676641,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645234,
+        "num": 645234,
+        "word": "建议每个恐华症的人都到中国看看",
+        "onboard_time": 1731156799,
+        "rank": 11,
+        "category": "国外时政,国内时政"
+      },
+      {
+        "raw_hot": 599080,
+        "num": 599080,
+        "word": "王一栩我要打死你",
+        "onboard_time": 1731153259,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532786,
+        "num": 532786,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158861,
+        "num": 465196,
+        "word": "王艺迪vs张本美和",
+        "onboard_time": 1731157819,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430667,
+        "num": 463711,
+        "word": "虞书欣叫章昊帅哥",
+        "onboard_time": 1731157819,
+        "rank": 15,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 269518,
+        "num": 462986,
+        "word": "女子收50万彩礼后与前男友去宾馆",
+        "onboard_time": 1731150439,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462266,
+        "num": 462266,
+        "word": "炸王一栩 破",
+        "onboard_time": 1731159439,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45344,
+        "num": 458504,
+        "word": "大梦归离白玖黑化变黑玖",
+        "onboard_time": 1731161322,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76309,
+        "num": 454390,
+        "word": "准爸爸注册母婴APP后频繁收涉黄短信",
+        "onboard_time": 1731161061,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268546,
+        "num": 445900,
+        "word": "四川绵阳一女子抢警棍当场被控制",
+        "onboard_time": 1731155059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565300,
+        "num": 442320,
+        "word": "口服避孕药 致癌物",
+        "onboard_time": 1731156438,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 440097,
+        "num": 440097,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424543,
+        "num": 424543,
+        "word": "鹿晗西安",
+        "onboard_time": 1731158539,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319934,
+        "num": 319934,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310263,
+        "num": 310263,
+        "word": "永夜星河开虐",
+        "onboard_time": 1731150257,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280837,
+        "num": 280837,
+        "word": "陈哲远大学同学聚会照",
+        "onboard_time": 1731156018,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279045,
+        "num": 279045,
+        "word": "长期上班一定要多出去旅游",
+        "onboard_time": 1731160281,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264098,
+        "num": 264098,
+        "word": "小巷人家21集后劲太大了",
+        "onboard_time": 1731153139,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240332,
+        "num": 240332,
+        "word": "mlxg还在保Uzi",
+        "onboard_time": 1731156619,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226682,
+        "num": 226682,
+        "word": "林诗栋vs林昀儒",
+        "onboard_time": 1731156920,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223637,
+        "num": 223637,
+        "word": "范丞丞演技",
+        "onboard_time": 1731157939,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213940,
+        "num": 213940,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207716,
+        "num": 207716,
+        "word": "爷爷用两块霉豆腐养大了348个孩子",
+        "onboard_time": 1731156378,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206284,
+        "num": 206284,
+        "word": "你好星期六预告",
+        "onboard_time": 1731159439,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201968,
+        "num": 201968,
+        "word": "王曼昱vs陈幸同",
+        "onboard_time": 1731155898,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200272,
+        "num": 200272,
+        "word": "AG北京工体见",
+        "onboard_time": 1731161361,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192176,
+        "num": 192176,
+        "word": "产量仅1%的黑刺榴莲有多好吃",
+        "onboard_time": 1731156438,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 191687,
+        "num": 191687,
+        "word": "桑坡雪地靴咋成了东三省省靴",
+        "onboard_time": 1731158539,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189614,
+        "num": 189614,
+        "word": "医院偶遇丁禹兮看病",
+        "onboard_time": 1731149359,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183330,
+        "num": 183330,
+        "word": "郑州发布交通管制通告",
+        "onboard_time": 1731141560,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170012,
+        "num": 170012,
+        "word": "员工拒绝调岗旷工被辞公司无需赔偿",
+        "onboard_time": 1731157098,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153961,
+        "num": 153961,
+        "word": "Uzi和Ming参加老头杯",
+        "onboard_time": 1731160281,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149993,
+        "num": 149993,
+        "word": "感觉留几手和葛夕真的生气了",
+        "onboard_time": 1731143297,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172220,
+        "num": 149590,
+        "word": "丁禹兮发烧了",
+        "onboard_time": 1731160810,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143096,
+        "num": 143096,
+        "word": "AG连续五次晋级决赛",
+        "onboard_time": 1731159320,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139832,
+        "num": 139832,
+        "word": "时代少年团演唱会重要通知",
+        "onboard_time": 1731158600,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134870,
+        "num": 134870,
+        "word": "孙俪带等等小花支持邓超新片",
+        "onboard_time": 1731161900,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133685,
+        "num": 133685,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132162,
+        "num": 132162,
+        "word": "官方通报万安县公示3名95后女干部",
+        "onboard_time": 1731145698,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    }
+  }
+}

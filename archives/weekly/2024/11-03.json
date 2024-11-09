@@ -1,6 +1,6 @@
 {
   "startTime": 1730564819780,
-  "endTime": 1731159299548,
+  "endTime": 1731161955185,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2176588,
+      "num": 2176588,
+      "word": "夜骑开封被按下暂停键",
+      "onboard_time": 1731156077,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2172668,
       "num": 4202129,
       "word": "薛之谦晒与赵露思聊天记录",
@@ -440,14 +448,6 @@
       "word": "监控还原39人遇难火灾经过",
       "onboard_time": 1731034398,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2121947,
-      "num": 2121947,
-      "word": "夜骑开封被按下暂停键",
-      "onboard_time": 1731156077,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 1527363,
-      "num": 467925,
+      "num": 599080,
       "word": "王一栩我要打死你",
       "onboard_time": 1731153259,
       "rank": 10,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1730733561,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1166523,
+      "num": 900325,
+      "word": "95花top",
+      "onboard_time": 1731160339,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1164772,
@@ -2420,7 +2428,7 @@
     },
     {
       "raw_hot": 860373,
-      "num": 436037,
+      "num": 442320,
       "word": "口服避孕药 致癌物",
       "onboard_time": 1731156438,
       "rank": 22,
@@ -2553,6 +2561,14 @@
       "onboard_time": 1731130219,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 832636,
+      "num": 832636,
+      "word": "男孩在超市摔倒后昏迷至今",
+      "onboard_time": 1731159019,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830683,
@@ -2833,6 +2849,14 @@
       "onboard_time": 1730595440,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766934,
+      "num": 766934,
+      "word": "腾讯七部热度破30000剧集",
+      "onboard_time": 1731159200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 760222,
@@ -3403,6 +3427,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 645234,
+      "num": 645234,
+      "word": "建议每个恐华症的人都到中国看看",
+      "onboard_time": 1731156799,
+      "rank": 39,
+      "category": "国外时政,国内时政"
+    },
+    {
       "raw_hot": 644714,
       "num": 644714,
       "word": "还我庄图南",
@@ -3516,7 +3548,7 @@
     },
     {
       "raw_hot": 633162,
-      "num": 441797,
+      "num": 463711,
       "word": "虞书欣叫章昊帅哥",
       "onboard_time": 1731157819,
       "rank": 13,
@@ -4947,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462266,
+      "num": 462266,
+      "word": "炸王一栩 破",
+      "onboard_time": 1731159439,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460333,
       "num": 482747,
       "word": "强冷空气今天到货",
@@ -5140,7 +5180,7 @@
     },
     {
       "raw_hot": 442388,
-      "num": 442388,
+      "num": 445900,
       "word": "四川绵阳一女子抢警棍当场被控制",
       "onboard_time": 1731155059,
       "rank": 13,
@@ -6803,6 +6843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 319934,
+      "num": 319934,
+      "word": "麦琳",
+      "onboard_time": 1731160999,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319649,
       "num": 319649,
       "word": "假性亲密关系",
@@ -7553,6 +7601,14 @@
       "onboard_time": 1731054199,
       "rank": 34,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 279045,
+      "num": 279045,
+      "word": "长期上班一定要多出去旅游",
+      "onboard_time": 1731160281,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 278417,
@@ -8475,6 +8531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240332,
+      "num": 240332,
+      "word": "mlxg还在保Uzi",
+      "onboard_time": 1731156619,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240229,
       "num": 521189,
       "word": "林依晨言承旭新剧预告",
@@ -8625,14 +8689,6 @@
       "onboard_time": 1730954482,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235293,
-      "num": 235293,
-      "word": "腾讯七部热度破30000剧集",
-      "onboard_time": 1731159200,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 234976,
@@ -8897,14 +8953,6 @@
       "onboard_time": 1730777841,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226573,
-      "num": 226573,
-      "word": "mlxg还在保Uzi",
-      "onboard_time": 1731156619,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 226486,
@@ -9755,6 +9803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206284,
+      "num": 206284,
+      "word": "你好星期六预告",
+      "onboard_time": 1731159439,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206197,
       "num": 206197,
       "word": "警方回应卖40万手表后银行卡被冻结",
@@ -10091,6 +10147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201968,
+      "num": 296658,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1731155898,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201964,
       "num": 201964,
       "word": "这不是严浩翔的婚礼纪录片是什么",
@@ -10217,6 +10281,14 @@
       "onboard_time": 1730621898,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200272,
+      "num": 200272,
+      "word": "AG北京工体见",
+      "onboard_time": 1731161361,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 200251,
@@ -10891,6 +10963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192176,
+      "num": 233507,
+      "word": "产量仅1%的黑刺榴莲有多好吃",
+      "onboard_time": 1731156438,
+      "rank": 40,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 192099,
       "num": 192099,
       "word": "登陆少年开场",
@@ -10913,6 +10993,14 @@
       "onboard_time": 1731061401,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191687,
+      "num": 191687,
+      "word": "桑坡雪地靴咋成了东三省省靴",
+      "onboard_time": 1731158539,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191676,
@@ -11587,14 +11675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180154,
-      "num": 180154,
-      "word": "桑坡雪地靴咋成了东三省省靴",
-      "onboard_time": 1731158539,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180120,
       "num": 180120,
       "word": "微博视界大会出席嘉宾",
@@ -11761,14 +11841,6 @@
       "onboard_time": 1730863943,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177499,
-      "num": 233507,
-      "word": "产量仅1%的黑刺榴莲有多好吃",
-      "onboard_time": 1731156438,
-      "rank": 40,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 177390,
@@ -12123,6 +12195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172220,
+      "num": 149590,
+      "word": "丁禹兮发烧了",
+      "onboard_time": 1731160810,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172189,
       "num": 172189,
       "word": "如鸢",
@@ -12273,6 +12353,14 @@
       "onboard_time": 1730701640,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 170012,
+      "num": 400197,
+      "word": "员工拒绝调岗旷工被辞公司无需赔偿",
+      "onboard_time": 1731157098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169946,
@@ -12513,14 +12601,6 @@
       "onboard_time": 1730712679,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166163,
-      "num": 438595,
-      "word": "建议每个恐华症的人都到中国看看",
-      "onboard_time": 1731156799,
-      "rank": 39,
-      "category": "国外时政,国内时政"
     },
     {
       "raw_hot": 166148,
@@ -13155,6 +13235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158861,
+      "num": 465196,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1731157819,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158837,
       "num": 158837,
       "word": "被烧伤妈妈基本达到临床治愈标准",
@@ -13489,6 +13577,14 @@
       "onboard_time": 1730948239,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 153961,
+      "num": 153961,
+      "word": "Uzi和Ming参加老头杯",
+      "onboard_time": 1731160281,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 153843,
@@ -14243,6 +14339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143096,
+      "num": 143096,
+      "word": "AG连续五次晋级决赛",
+      "onboard_time": 1731159320,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143005,
       "num": 143005,
       "word": "妙妙知道慕声要强 妙妙也曾满身血印",
@@ -14683,6 +14787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138160,
+      "num": 676668,
+      "word": "王曼昱闯进决赛",
+      "onboard_time": 1731161120,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137874,
       "num": 137874,
       "word": "原来星座有13个",
@@ -14795,14 +14907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136088,
-      "num": 136088,
-      "word": "王艺迪vs张本美和",
-      "onboard_time": 1731157819,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136036,
       "num": 136036,
       "word": "全球数学竞赛获奖者超4成来自北大",
@@ -14843,20 +14947,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135442,
-      "num": 296658,
-      "word": "王曼昱vs陈幸同",
-      "onboard_time": 1731155898,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135034,
       "num": 135034,
       "word": "大梦归离 亲情刀",
       "onboard_time": 1730639839,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134870,
+      "num": 134870,
+      "word": "孙俪带等等小花支持邓超新片",
+      "onboard_time": 1731161900,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 134819,
@@ -15011,14 +15115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133143,
-      "num": 133143,
-      "word": "男孩在超市摔倒后昏迷至今",
-      "onboard_time": 1731159019,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "永夜星河热度破29500",
@@ -15081,6 +15177,14 @@
       "onboard_time": 1730712919,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132076,
+      "num": 676925,
+      "word": "同时拥有两款隐身战机有什么好处",
+      "onboard_time": 1731161421,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 132030,
@@ -17939,6 +18043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76309,
+      "num": 454390,
+      "word": "准爸爸注册母婴APP后频繁收涉黄短信",
+      "onboard_time": 1731161061,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75920,
       "num": 664303,
       "word": "新中型隐身多用途战斗机歼35A",
@@ -18201,14 +18313,6 @@
       "onboard_time": 1730988745,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 68142,
-      "num": 400197,
-      "word": "员工拒绝调岗旷工被辞公司无需赔偿",
-      "onboard_time": 1731157098,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67969,
@@ -19425,6 +19529,14 @@
       "onboard_time": 1731093312,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45344,
+      "num": 458504,
+      "word": "大梦归离白玖黑化变黑玖",
+      "onboard_time": 1731161322,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 45294,
