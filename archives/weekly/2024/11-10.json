@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731194491070,
+  "endTime": 1731195315418,
   "band_list": [
     {
       "raw_hot": 1577565,
@@ -49,6 +49,14 @@
       "onboard_time": 1731164961,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543472,
+      "num": 543472,
+      "word": "各地网友送鲜花悼念张纯如",
+      "onboard_time": 1731193393,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542743,
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271137,
+      "num": 271137,
+      "word": "郑钦文回应获亚军",
+      "onboard_time": 1731193933,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197201,
+      "num": 197201,
+      "word": "夜骑开封的共享单车被倒卖",
+      "onboard_time": 1731183072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192110,
       "num": 192110,
       "word": "丁禹兮哭戏要碎了",
@@ -288,14 +312,6 @@
       "word": "女子自述吃河豚刺身中毒",
       "onboard_time": 1731188651,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171632,
-      "num": 126742,
-      "word": "夜骑开封的共享单车被倒卖",
-      "onboard_time": 1731183072,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -363,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138555,
-      "num": 138555,
-      "word": "郑钦文回应获亚军",
-      "onboard_time": 1731193933,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136713,
       "num": 136713,
       "word": "丁禹兮发烧了",
@@ -395,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130621,
+      "num": 130621,
+      "word": "女子收50万彩礼后与前男友去宾馆",
+      "onboard_time": 1731150439,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124201,
       "num": 447638,
       "word": "加油QueenWen",
       "onboard_time": 1731167960,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121688,
-      "num": 121688,
-      "word": "女子收50万彩礼后与前男友去宾馆",
-      "onboard_time": 1731150439,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114637,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101636,
+      "num": 128314,
+      "word": "小巷人家21集后劲太大了",
+      "onboard_time": 1731153139,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100567,
       "num": 100567,
       "word": "mlxg还在保Uzi",
@@ -467,14 +483,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 88821,
-      "num": 85037,
-      "word": "小巷人家21集后劲太大了",
-      "onboard_time": 1731153139,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86869,
       "num": 86869,
       "word": "王楚钦观战林诗栋",
@@ -489,14 +497,6 @@
       "onboard_time": 1731137118,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79758,
-      "num": 134464,
-      "word": "各地网友送鲜花悼念张纯如",
-      "onboard_time": 1731193393,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79659,
@@ -539,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68007,
+      "num": 68007,
+      "word": "这是怎么做到又老又年轻的",
+      "onboard_time": 1731193272,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65863,
+      "num": 65863,
+      "word": "晓华爆改男大剪完神似易烊千玺",
+      "onboard_time": 1731193213,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 61515,
       "num": 61515,
       "word": "郑钦文1比2高芙",
@@ -561,6 +577,22 @@
       "onboard_time": 1731180971,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 57380,
+      "num": 134988,
+      "word": "拍卖公司回应女子11元拍下海景房",
+      "onboard_time": 1731177253,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56423,
+      "num": 56423,
+      "word": "郑钦文年度总奖金达555万美元",
+      "onboard_time": 1731194833,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 55506,
@@ -587,12 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53005,
-      "num": 134988,
-      "word": "拍卖公司回应女子11元拍下海景房",
-      "onboard_time": 1731177253,
-      "rank": 9,
+      "raw_hot": 54055,
+      "num": 54055,
+      "word": "男生学自行车女生在一旁扶车子",
+      "onboard_time": 1731182171,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52984,
+      "num": 68381,
+      "word": "再见爱人观察室请宋丹丹吧",
+      "onboard_time": 1731193994,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 52757,
@@ -611,40 +651,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47066,
-      "num": 47066,
-      "word": "晓华爆改男大剪完神似易烊千玺",
-      "onboard_time": 1731193213,
-      "rank": 33,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 45936,
-      "num": 45936,
-      "word": "男生学自行车女生在一旁扶车子",
-      "onboard_time": 1731182171,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44078,
-      "num": 44078,
+      "num": 50814,
       "word": "俄勇士在珠海首次展示六机编队桶滚",
       "onboard_time": 1731191651,
       "rank": 24,
       "category": "军事"
     },
     {
-      "raw_hot": 40575,
-      "num": 44007,
-      "word": "这是怎么做到又老又年轻的",
-      "onboard_time": 1731193272,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 39743,
-      "num": 44006,
+      "raw_hot": 39895,
+      "num": 50805,
       "word": "姆巴佩状态",
       "onboard_time": 1731191651,
       "rank": 41,
@@ -656,6 +672,14 @@
       "word": "郑钦文晋级总决赛争冠战",
       "onboard_time": 1731086295,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38544,
+      "num": 50791,
+      "word": "王艺迪闯进WTT决赛",
+      "onboard_time": 1731194833,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -675,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36727,
+      "num": 68751,
+      "word": "需要排号才能进的理发店咋这么火",
+      "onboard_time": 1731183431,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 35709,
       "num": 35709,
       "word": "子期仰头落泪",
@@ -683,20 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35260,
-      "num": 68751,
-      "word": "需要排号才能进的理发店咋这么火",
-      "onboard_time": 1731183431,
-      "rank": 29,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 31790,
-      "num": 43998,
-      "word": "再见爱人观察室请宋丹丹吧",
-      "onboard_time": 1731193994,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 33522,
+      "num": 50737,
+      "word": "于正说唐宫感情戏被粉丝撕没了",
+      "onboard_time": 1731194534,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 31764,
@@ -761,6 +785,14 @@
       "onboard_time": 1731183550,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18277,
+      "num": 201677,
+      "word": "对话爆火发型师晓华",
+      "onboard_time": 1731194595,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 15328,
