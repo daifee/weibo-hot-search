@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731123572800,
+  "endTime": 1731126347233,
   "band_list": [
     {
       "raw_hot": 1990982,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107304,
+      "num": 1107304,
+      "word": "熏鸡事变",
+      "onboard_time": 1731123379,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1073268,
       "num": 1073268,
       "word": "永夜星河男三 加戏",
@@ -99,15 +107,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793717,
-      "num": 793717,
+      "raw_hot": 795461,
+      "num": 795461,
       "word": "我喜欢子期我愿意嫁给子期",
       "onboard_time": 1731111197,
       "rank": 4,
       "category": "剧集"
     },
     {
-      "raw_hot": 765521,
+      "raw_hot": 780634,
       "num": 534633,
       "word": "天启 出轨",
       "onboard_time": 1731119658,
@@ -123,12 +131,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 734092,
+      "num": 566848,
+      "word": "疯狂动物城2",
+      "onboard_time": 1731123079,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 701422,
       "num": 871155,
       "word": "郑钦文晋级总决赛争冠战",
       "onboard_time": 1731086295,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 673007,
+      "num": 673007,
+      "word": "女子因父母要求加30万彩礼跳河轻生",
+      "onboard_time": 1731123319,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621586,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399416,
-      "num": 301408,
-      "word": "疯狂动物城2",
-      "onboard_time": 1731123079,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 380220,
       "num": 329045,
       "word": "开封倡议骑行别扎堆也不必深夜",
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304013,
+      "num": 277544,
+      "word": "黄圣依点赞说杨子不要脸的微博",
+      "onboard_time": 1731119418,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293516,
       "num": 293516,
       "word": "中国成为全球第二个双隐国家",
@@ -369,6 +393,22 @@
       "onboard_time": 1731115458,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 274386,
+      "num": 274386,
+      "word": "三大单车平台深夜发布骑行倡议书",
+      "onboard_time": 1731121701,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273261,
+      "num": 227408,
+      "word": "黄圣依没有杨子描述的痣",
+      "onboard_time": 1731124279,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 272740,
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 244851,
-      "num": 244851,
+      "num": 344236,
       "word": "巴勒斯坦总统与特朗普通电话",
       "onboard_time": 1731120859,
       "rank": 45,
@@ -409,6 +449,14 @@
       "onboard_time": 1731118998,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 237446,
+      "num": 237446,
+      "word": "哑舍",
+      "onboard_time": 1731120919,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 234234,
@@ -427,20 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226825,
-      "num": 226825,
-      "word": "三大单车平台深夜发布骑行倡议书",
-      "onboard_time": 1731121701,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220490,
-      "num": 234908,
-      "word": "黄圣依点赞说杨子不要脸的微博",
-      "onboard_time": 1731119418,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 228824,
+      "num": 228824,
+      "word": "虞书欣张凌赫或将合作逍遥游",
+      "onboard_time": 1731124279,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 216501,
@@ -456,6 +496,14 @@
       "word": "普京有意愿与特朗普接触",
       "onboard_time": 1731115279,
       "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 211373,
+      "num": 211373,
+      "word": "特朗普已准备再次退出巴黎协定",
+      "onboard_time": 1731125899,
+      "rank": 29,
       "category": "国外时政"
     },
     {
@@ -483,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195739,
+      "num": 316603,
+      "word": "肖战从我出发",
+      "onboard_time": 1731125240,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194647,
       "num": 193351,
       "word": "麦琳的笑",
       "onboard_time": 1731121819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192793,
+      "num": 196811,
+      "word": "内娱神级转场又加一个",
+      "onboard_time": 1731115998,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192029,
@@ -507,20 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188810,
-      "num": 188810,
-      "word": "哑舍",
-      "onboard_time": 1731120919,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188659,
       "num": 222573,
       "word": "张纯如逝世20周年",
       "onboard_time": 1731116841,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 187085,
+      "word": "特朗普表示将努力制止战争",
+      "onboard_time": 1731125658,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 182399,
@@ -547,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175714,
+      "num": 175714,
+      "word": "再见爱人母带",
+      "onboard_time": 1731125658,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171665,
       "num": 171665,
       "word": "回小县城一年的真实感受",
       "onboard_time": 1731078862,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 169981,
+      "num": 169981,
+      "word": "高铁站员工被曝上班慵懒盘核桃",
+      "onboard_time": 1731125538,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169718,
@@ -601,6 +681,14 @@
       "onboard_time": 1731121518,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152994,
+      "num": 152994,
+      "word": "张真源的充电线有两米长",
+      "onboard_time": 1731125718,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152764,
@@ -683,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140579,
-      "num": 196811,
-      "word": "内娱神级转场又加一个",
-      "onboard_time": 1731115998,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138794,
       "num": 138794,
       "word": "黄执中 点评",
@@ -705,6 +785,14 @@
       "onboard_time": 1731107174,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134819,
+      "num": 134819,
+      "word": "歼35A轰鸣声太震撼",
+      "onboard_time": 1731122599,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134322,
@@ -729,14 +817,6 @@
       "onboard_time": 1731078921,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131703,
-      "num": 131703,
-      "word": "熏鸡事变",
-      "onboard_time": 1731123379,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 131364,
@@ -771,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126430,
-      "num": 126430,
-      "word": "女子因父母要求加30万彩礼跳河轻生",
-      "onboard_time": 1731123319,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124600,
       "num": 138793,
       "word": "赵露思唐晓天cha螂的诱惑",
@@ -803,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120994,
-      "num": 120994,
-      "word": "歼35A轰鸣声太震撼",
-      "onboard_time": 1731122599,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 119123,
       "num": 119123,
       "word": "王安宇演技",
@@ -820,7 +884,7 @@
     },
     {
       "raw_hot": 118848,
-      "num": 1046237,
+      "num": 1060778,
       "word": "愿消防员每次出发都平安归来",
       "onboard_time": 1731117198,
       "rank": 45,
@@ -833,6 +897,14 @@
       "onboard_time": 1731117678,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117539,
+      "num": 117539,
+      "word": "万安县公示3名95后女干部",
+      "onboard_time": 1731126018,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115452,
@@ -857,6 +929,14 @@
       "onboard_time": 1731076161,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111018,
+      "num": 111018,
+      "word": "那个不为人知的故事",
+      "onboard_time": 1731124998,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 109568,
@@ -921,6 +1001,14 @@
       "onboard_time": 1731082698,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102398,
+      "num": 102398,
+      "word": "真诚服务才能赢得口碑",
+      "onboard_time": 1731125960,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101553,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1731069019,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47240,
+      "num": 254682,
+      "word": "丁禹兮撤回一个内耗",
+      "onboard_time": 1731126258,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 46609,
