@@ -1,0 +1,410 @@
+{
+  "runTime": 1731148681925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234871,
+        "num": 1234871,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878156,
+        "num": 878156,
+        "word": "永夜星河",
+        "onboard_time": 1731147559,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12337,
+        "num": 820148,
+        "word": "60秒沉浸式打卡进博之美",
+        "onboard_time": 1731142697,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797121,
+        "num": 797121,
+        "word": "麦琳退了女儿喜欢的汉服",
+        "onboard_time": 1731137118,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645945,
+        "num": 645945,
+        "word": "拼多多被曝假花生油泛滥",
+        "onboard_time": 1731144019,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 452448,
+        "num": 452448,
+        "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
+        "onboard_time": 1731118580,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780465,
+        "num": 452300,
+        "word": "黄圣依画像的痣是颜料流下来了",
+        "onboard_time": 1731145818,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664631,
+        "num": 452280,
+        "word": "妙妙 你怕我",
+        "onboard_time": 1731146898,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451766,
+        "num": 451766,
+        "word": "郑州发布交通管制通告",
+        "onboard_time": 1731141560,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119083,
+        "num": 451329,
+        "word": "距离第十五届中国航展还有3天",
+        "onboard_time": 1731147198,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1779534,
+        "num": 446400,
+        "word": "药店晕倒无人扶老人已去世",
+        "onboard_time": 1731146418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658083,
+        "num": 442508,
+        "word": "大学生夜骑开封最早是怎么开始的",
+        "onboard_time": 1731146659,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583196,
+        "num": 433568,
+        "word": "妈妈要求爱豆女儿退圈照顾弟弟",
+        "onboard_time": 1731143539,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509781,
+        "num": 430165,
+        "word": "感觉留几手和葛夕真的生气了",
+        "onboard_time": 1731143297,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487487,
+        "num": 428045,
+        "word": "永夜星河热度",
+        "onboard_time": 1731145759,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20963,
+        "num": 419566,
+        "word": "跟着张杰打卡绿城南宁",
+        "onboard_time": 1731144919,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 456724,
+        "num": 418291,
+        "word": "特朗普已准备再次退出巴黎协定",
+        "onboard_time": 1731125899,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 414827,
+        "num": 414827,
+        "word": "芈迭 我和青雅只是朋友关系",
+        "onboard_time": 1731135859,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356037,
+        "num": 356037,
+        "word": "官方通报万安县公示3名95后女干部",
+        "onboard_time": 1731145698,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246425,
+        "num": 246425,
+        "word": "幼儿园小孩哥立定跳远一米七",
+        "onboard_time": 1731139219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259937,
+        "num": 245464,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1731132918,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240942,
+        "num": 240942,
+        "word": "闫妮姚晨手牵手下班了",
+        "onboard_time": 1731147138,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231223,
+        "num": 231223,
+        "word": "付航真去演猴了",
+        "onboard_time": 1731147979,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389451,
+        "num": 228666,
+        "word": "香飘飘老板面试羊驼",
+        "onboard_time": 1731145158,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225360,
+        "num": 225360,
+        "word": "纪凌尘拍的杨超越",
+        "onboard_time": 1731146839,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198511,
+        "num": 198511,
+        "word": "万安县公示3名95后女干部",
+        "onboard_time": 1731126018,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196476,
+        "num": 196476,
+        "word": "郑州共享单车超区骑行将强制锁车",
+        "onboard_time": 1731140418,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194704,
+        "num": 194704,
+        "word": "郑钦文总决赛已狂揽1600万奖金",
+        "onboard_time": 1731144498,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192448,
+        "num": 192448,
+        "word": "女子6次敲诈海底捞被判7个月",
+        "onboard_time": 1731128120,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39015,
+        "num": 181910,
+        "word": "晚8点京东秒杀牛肉5折",
+        "onboard_time": 1731144919,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 180944,
+        "num": 180944,
+        "word": "造谣者父亲说小朋友开开玩笑",
+        "onboard_time": 1731137719,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178120,
+        "num": 178120,
+        "word": "熏鸡事变",
+        "onboard_time": 1731123379,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177873,
+        "num": 177873,
+        "word": "Uzi直播",
+        "onboard_time": 1731147619,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177757,
+        "num": 177757,
+        "word": "马斯克身家已达3137亿美元",
+        "onboard_time": 1731147018,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170726,
+        "num": 170726,
+        "word": "一双跑鞋的寿命就800公里",
+        "onboard_time": 1731136937,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170550,
+        "num": 170550,
+        "word": "男子养了3年的小狗竟是野狼",
+        "onboard_time": 1731138918,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167068,
+        "num": 167068,
+        "word": "丁禹兮不要虐待老人李泽锋",
+        "onboard_time": 1731148219,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161691,
+        "num": 161691,
+        "word": "歼15D舰载机首次公开亮相",
+        "onboard_time": 1731141738,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 156400,
+        "num": 156400,
+        "word": "李行亮买青团的机票是积分换的",
+        "onboard_time": 1731136038,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154201,
+        "num": 154201,
+        "word": "歼35A正式列装空军",
+        "onboard_time": 1731144378,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 150582,
+        "num": 150582,
+        "word": "4岁男童疑被教练推下平衡木致骨折",
+        "onboard_time": 1731148399,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59189,
+        "num": 146015,
+        "word": "机器狼群亮相中国航展",
+        "onboard_time": 1731147438,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 145753,
+        "num": 145753,
+        "word": "大张伟始终不敢唱那首歌",
+        "onboard_time": 1731144198,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139939,
+        "num": 139939,
+        "word": "老头杯",
+        "onboard_time": 1731144138,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136449,
+        "num": 136449,
+        "word": "刘诗雯与林高远为十五运打call",
+        "onboard_time": 1731147257,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136197,
+        "num": 136197,
+        "word": "六公主精准放片日本人没房间",
+        "onboard_time": 1731131778,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62227,
+        "num": 134750,
+        "word": "专家称歼35A与歼20可组合作战",
+        "onboard_time": 1731144738,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 134377,
+        "word": "百万粉丝博主江边捡垃圾发现散落人骨",
+        "onboard_time": 1731134299,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119337,
+        "num": 119337,
+        "word": "林大厨为凌妙妙设计黑莲花",
+        "onboard_time": 1731138918,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115136,
+        "num": 115136,
+        "word": "范丞丞回复贾冰想大家了",
+        "onboard_time": 1731148639,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们共同努力如期实现中国式现代化#"
+    }
+  }
+}

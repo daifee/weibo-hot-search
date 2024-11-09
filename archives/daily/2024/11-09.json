@@ -1,6 +1,6 @@
 {
   "startTime": 1731083599331,
-  "endTime": 1731147653492,
+  "endTime": 1731148681925,
   "band_list": [
     {
       "raw_hot": 2113551,
@@ -16,6 +16,14 @@
       "word": "劳斯莱斯女车主丈夫坦言拒赔原因",
       "onboard_time": 1731118580,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1779534,
+      "num": 447057,
+      "word": "药店晕倒无人扶老人已去世",
+      "onboard_time": 1731146418,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1076771,
-      "num": 447057,
-      "word": "药店晕倒无人扶老人已去世",
-      "onboard_time": 1731146418,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1073268,
       "num": 1073268,
       "word": "永夜星河男三 加戏",
@@ -179,8 +179,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878156,
+      "num": 878156,
+      "word": "永夜星河",
+      "onboard_time": 1731066138,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 876588,
-      "num": 445344,
+      "num": 452300,
       "word": "黄圣依画像的痣是颜料流下来了",
       "onboard_time": 1731145818,
       "rank": 12,
@@ -297,6 +305,14 @@
       "onboard_time": 1731143539,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 664631,
+      "num": 452280,
+      "word": "妙妙 你怕我",
+      "onboard_time": 1731146898,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 662170,
@@ -467,19 +483,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487487,
+      "num": 478377,
+      "word": "永夜星河热度",
+      "onboard_time": 1731145759,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478431,
       "num": 478431,
       "word": "林大厨为凌妙妙设计黑莲花",
       "onboard_time": 1731138918,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 478377,
-      "num": 478377,
-      "word": "永夜星河热度",
-      "onboard_time": 1731145759,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -523,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428454,
-      "num": 374370,
-      "word": "永夜星河",
-      "onboard_time": 1731066138,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 421836,
       "num": 540434,
       "word": "女子举报被名校博士骗走3920万",
@@ -553,6 +561,14 @@
       "onboard_time": 1731128360,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 389451,
+      "num": 310785,
+      "word": "香飘飘老板面试羊驼",
+      "onboard_time": 1731145158,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 380220,
@@ -585,6 +601,14 @@
       "onboard_time": 1731077182,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356037,
+      "num": 447820,
+      "word": "官方通报万安县公示3名95后女干部",
+      "onboard_time": 1731145698,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350599,
@@ -667,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310785,
-      "num": 310785,
-      "word": "香飘飘老板面试羊驼",
-      "onboard_time": 1731145158,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 305877,
       "num": 344236,
       "word": "巴勒斯坦总统与特朗普通电话",
@@ -697,14 +713,6 @@
       "onboard_time": 1731119418,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299184,
-      "num": 299184,
-      "word": "妙妙 你怕我",
-      "onboard_time": 1731146898,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 293516,
@@ -827,6 +835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240942,
+      "num": 300604,
+      "word": "闫妮姚晨手牵手下班了",
+      "onboard_time": 1731147138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239257,
       "num": 239257,
       "word": "纪凌尘拍的杨超越",
@@ -849,6 +865,14 @@
       "onboard_time": 1731060079,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231223,
+      "num": 231223,
+      "word": "付航真去演猴了",
+      "onboard_time": 1731147979,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 228824,
@@ -1155,6 +1179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177873,
+      "num": 177873,
+      "word": "Uzi直播",
+      "onboard_time": 1731147619,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 177757,
+      "num": 177757,
+      "word": "马斯克身家已达3137亿美元",
+      "onboard_time": 1731147018,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175006,
       "num": 175006,
       "word": "大张伟始终不敢唱那首歌",
@@ -1179,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173339,
-      "num": 447820,
-      "word": "官方通报万安县公示3名95后女干部",
-      "onboard_time": 1731145698,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172925,
       "num": 172925,
       "word": "Offer6嘉宾曝光秋招内幕",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1731085815,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167068,
+      "num": 167068,
+      "word": "丁禹兮不要虐待老人李泽锋",
+      "onboard_time": 1731148219,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 167029,
@@ -1283,14 +1323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156980,
-      "num": 156980,
-      "word": "马斯克身家已达3137亿美元",
-      "onboard_time": 1731147018,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156973,
       "num": 156973,
       "word": "这群厂妹凭实力带火了家乡造",
@@ -1336,6 +1368,14 @@
       "word": "防患于未燃是对消防最好的致敬",
       "onboard_time": 1731118699,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150582,
+      "num": 150582,
+      "word": "4岁男童疑被教练推下平衡木致骨折",
+      "onboard_time": 1731148399,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 142210,
-      "num": 142210,
+      "num": 451329,
       "word": "距离第十五届中国航展还有3天",
       "onboard_time": 1731147198,
       "rank": 46,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1731143597,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141238,
-      "num": 141238,
-      "word": "Uzi直播",
-      "onboard_time": 1731147619,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 140981,
@@ -1483,8 +1515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135706,
-      "num": 135706,
+      "raw_hot": 136449,
+      "num": 136449,
       "word": "刘诗雯与林高远为十五运打call",
       "onboard_time": 1731147257,
       "rank": 49,
@@ -1692,7 +1724,7 @@
     },
     {
       "raw_hot": 116011,
-      "num": 116011,
+      "num": 134750,
       "word": "专家称歼35A与歼20可组合作战",
       "onboard_time": 1731144738,
       "rank": 49,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1731130399,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 115136,
+      "num": 115136,
+      "word": "范丞丞回复贾冰想大家了",
+      "onboard_time": 1731148639,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114569,
@@ -2075,14 +2115,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 75060,
-      "num": 300604,
-      "word": "闫妮姚晨手牵手下班了",
-      "onboard_time": 1731147138,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72703,
       "num": 321970,
       "word": "永夜星河处处有回应",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1731105014,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59189,
+      "num": 213820,
+      "word": "机器狼群亮相中国航展",
+      "onboard_time": 1731147438,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 59082,
@@ -2299,6 +2339,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 39015,
+      "num": 213514,
+      "word": "晚8点京东秒杀牛肉5折",
+      "onboard_time": 1731144919,
+      "rank": 29,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 37192,
       "num": 146504,
       "word": "超豪华汽车们为何卖不动了",
@@ -2369,14 +2417,6 @@
       "onboard_time": 1731093911,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28872,
-      "num": 213514,
-      "word": "晚8点京东秒杀牛肉5折",
-      "onboard_time": 1731144919,
-      "rank": 29,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 26907,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1731091813,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 19707,
-      "num": 213820,
-      "word": "机器狼群亮相中国航展",
-      "onboard_time": 1731147438,
-      "rank": 28,
-      "category": "军事"
     },
     {
       "raw_hot": 17795,
