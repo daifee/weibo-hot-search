@@ -1,0 +1,410 @@
+{
+  "runTime": 1731230454323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1476958,
+        "num": 1476958,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 0,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 863941,
+        "num": 863941,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15197,
+        "num": 719568,
+        "word": "进博会服务贸易展区体验感满满",
+        "onboard_time": 1731229159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642005,
+        "num": 642005,
+        "word": "白百何 观众缘",
+        "onboard_time": 1731225259,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621097,
+        "num": 621097,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1893123,
+        "num": 619213,
+        "word": "叶珂退网",
+        "onboard_time": 1731216317,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578421,
+        "num": 578421,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554730,
+        "num": 554730,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526733,
+        "num": 526733,
+        "word": "赵露思工作室",
+        "onboard_time": 1731227419,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248115,
+        "num": 525224,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1060105,
+        "num": 521028,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656644,
+        "num": 516552,
+        "word": "黄晓明",
+        "onboard_time": 1731217579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295326,
+        "num": 515045,
+        "word": "迪丽热巴粉衣撑伞路透",
+        "onboard_time": 1731224359,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532069,
+        "num": 510919,
+        "word": "叶珂道歉",
+        "onboard_time": 1731216738,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36840,
+        "num": 506705,
+        "word": "多个基金经理砍仓白酒股",
+        "onboard_time": 1731229220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215974,
+        "num": 503467,
+        "word": "虞书欣亮相曼谷",
+        "onboard_time": 1731230058,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 6169,
+        "num": 498878,
+        "word": "狼队对战KSG",
+        "onboard_time": 1731230420,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81688,
+        "num": 493597,
+        "word": "谁懂吴磊抬头宣誓这一下",
+        "onboard_time": 1731229699,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38935,
+        "num": 491611,
+        "word": "男子自导自演被狗咬碰瓷遛狗人",
+        "onboard_time": 1731229220,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35721,
+        "num": 487128,
+        "word": "你有没有为噗噗拼过命",
+        "onboard_time": 1731227659,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246123,
+        "num": 482689,
+        "word": "无忧渡真的要来了",
+        "onboard_time": 1731223100,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482226,
+        "num": 482226,
+        "word": "黄岩岛领海基线",
+        "onboard_time": 1731227239,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352619,
+        "num": 352619,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287164,
+        "num": 287164,
+        "word": "黑龙江出生率再创历史新低",
+        "onboard_time": 1731220520,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247362,
+        "num": 247362,
+        "word": "芒果男艺人上你好星期六被泼成熏鸡",
+        "onboard_time": 1731225079,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238962,
+        "num": 238962,
+        "word": "男子大口喝下百草枯28天创造奇迹",
+        "onboard_time": 1731214878,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236341,
+        "num": 236341,
+        "word": "徐海乔评论区",
+        "onboard_time": 1731221121,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224174,
+        "num": 224174,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230092,
+        "num": 219978,
+        "word": "虞书欣丁禹兮双人古风写真已安排",
+        "onboard_time": 1731225619,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160709,
+        "num": 215348,
+        "word": "麦琳情商",
+        "onboard_time": 1731229880,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213700,
+        "num": 213700,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 200848,
+        "num": 200848,
+        "word": "男子被相亲对象拒绝行凶逃亡23年",
+        "onboard_time": 1731225918,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181114,
+        "num": 181114,
+        "word": "中国提议交换月球样本美方至今没吭声",
+        "onboard_time": 1731216259,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176384,
+        "num": 176384,
+        "word": "黄岩岛",
+        "onboard_time": 1731229999,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170739,
+        "num": 170739,
+        "word": "王栎鑫体面人",
+        "onboard_time": 1731227300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164727,
+        "num": 164727,
+        "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+        "onboard_time": 1731209478,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162358,
+        "num": 162358,
+        "word": "李宏毅孙珍妮体型差",
+        "onboard_time": 1731225559,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155729,
+        "num": 155729,
+        "word": "落跑新娘凌妙妙",
+        "onboard_time": 1731213078,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154314,
+        "num": 154314,
+        "word": "美媒测算特朗普已获得312张选举人票",
+        "onboard_time": 1731223639,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153991,
+        "num": 153991,
+        "word": "俄罗斯苏57战斗机空中悬停",
+        "onboard_time": 1731227898,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 153652,
+        "num": 153652,
+        "word": "用真肉做的全透明汉堡",
+        "onboard_time": 1731230058,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152180,
+        "num": 152180,
+        "word": "综艺史上最歹毒的惩罚",
+        "onboard_time": 1731226879,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141448,
+        "num": 141448,
+        "word": "李行亮画的麦琳",
+        "onboard_time": 1731221660,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135656,
+        "num": 135656,
+        "word": "鞠婧祎红昭愿名场面一眼万年",
+        "onboard_time": 1731222380,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133262,
+        "num": 133262,
+        "word": "我姥一分钱不花做了八菜一汤",
+        "onboard_time": 1731229939,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131042,
+        "num": 131042,
+        "word": "Rookie白色月牙谈iG重组",
+        "onboard_time": 1731227538,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129043,
+        "num": 129043,
+        "word": "刘花英回应TARA霸凌事件",
+        "onboard_time": 1731225979,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127261,
+        "num": 127261,
+        "word": "陈都灵的哭戏",
+        "onboard_time": 1731230358,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125438,
+        "num": 125438,
+        "word": "被晓华爆改成易烊千玺男生发声",
+        "onboard_time": 1731212477,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 122051,
+        "num": 122051,
+        "word": "南天门计划白帝空天战机亮相航展",
+        "onboard_time": 1731230241,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}
