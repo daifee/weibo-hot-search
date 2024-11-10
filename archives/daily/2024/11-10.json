@@ -1,10 +1,10 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731203122697,
+  "endTime": 1731204340678,
   "band_list": [
     {
-      "raw_hot": 2598685,
-      "num": 2598685,
+      "raw_hot": 2881093,
+      "num": 2881093,
       "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
       "onboard_time": 1731200417,
       "rank": 0,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 499675,
-      "num": 211483,
+      "num": 225824,
       "word": "700一吨买土豆土比土豆多",
       "onboard_time": 1731198918,
       "rank": 20,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 432196,
-      "num": 274988,
+      "num": 413386,
       "word": "子期认识简体字",
       "onboard_time": 1731200357,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422302,
+      "num": 304600,
+      "word": "幼儿园老师用竹签疯狂虐待孩子",
+      "onboard_time": 1731202038,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392424,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 366668,
-      "num": 273575,
+      "num": 304539,
       "word": "叶珂否认给黄晓明花了1000万",
       "onboard_time": 1731199336,
       "rank": 11,
@@ -211,12 +219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327181,
+      "num": 327181,
+      "word": "歼20S亮相",
+      "onboard_time": 1731201738,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 322074,
       "num": 322074,
       "word": "郑钦文总决赛冲冠",
       "onboard_time": 1731163220,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304428,
+      "num": 304428,
+      "word": "国产新机上市老款iPhone跌至半价",
+      "onboard_time": 1731202458,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 302804,
@@ -251,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262195,
-      "num": 262195,
-      "word": "歼20S亮相",
-      "onboard_time": 1731201738,
-      "rank": 14,
-      "category": "军事"
+      "raw_hot": 258996,
+      "num": 258996,
+      "word": "曾黎发文给赵露思庆生",
+      "onboard_time": 1731202577,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 258583,
@@ -291,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237936,
+      "num": 304757,
+      "word": "理发师晓华说30元的价格不低",
+      "onboard_time": 1731199397,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232094,
       "num": 232094,
       "word": "王艺迪4比2张本美和",
@@ -299,11 +331,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230410,
-      "num": 151730,
-      "word": "幼儿园老师用竹签疯狂虐待孩子",
-      "onboard_time": 1731202038,
-      "rank": 30,
+      "raw_hot": 228835,
+      "num": 228835,
+      "word": "有同行称晓华让美发行业倒退10年",
+      "onboard_time": 1731199757,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -323,36 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215505,
-      "num": 197518,
-      "word": "向佐发文为赵露思庆生",
-      "onboard_time": 1731171737,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 214800,
-      "num": 214800,
-      "word": "有同行称晓华让美发行业倒退10年",
-      "onboard_time": 1731199757,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210846,
-      "num": 210846,
+      "raw_hot": 217689,
+      "num": 217689,
       "word": "网上很火但你很反感的梗",
       "onboard_time": 1731195734,
       "rank": 21,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 210810,
-      "num": 210810,
-      "word": "国产新机上市老款iPhone跌至半价",
-      "onboard_time": 1731202458,
-      "rank": 22,
-      "category": "数码"
+      "raw_hot": 215505,
+      "num": 197518,
+      "word": "向佐发文为赵露思庆生",
+      "onboard_time": 1731171737,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 210013,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203127,
+      "num": 203127,
+      "word": "禄丰地震",
+      "onboard_time": 1731203237,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201698,
       "num": 201698,
       "word": "虞书欣还有好几千张库存",
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187982,
+      "num": 187982,
+      "word": "普京签署俄朝全面战略伙伴关系条约",
+      "onboard_time": 1731203057,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
@@ -427,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178004,
+      "num": 178004,
+      "word": "美国队长4正式预告",
+      "onboard_time": 1731203658,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177598,
       "num": 177598,
       "word": "女子自述吃河豚刺身中毒",
       "onboard_time": 1731188651,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175823,
+      "num": 175823,
+      "word": "晓华爆改男大剪完神似易烊千玺",
+      "onboard_time": 1731193213,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 169837,
@@ -456,6 +504,14 @@
       "word": "王楚钦和林诗栋对练",
       "onboard_time": 1731163761,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166269,
+      "num": 166269,
+      "word": "郑钦文说输球并不是运气不好",
+      "onboard_time": 1731201438,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -483,12 +539,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151142,
-      "num": 151142,
-      "word": "理发师晓华说30元的价格不低",
-      "onboard_time": 1731199397,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 151376,
+      "num": 151376,
+      "word": "陈少熙因病缺席十个勤天演唱会",
+      "onboard_time": 1731203839,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 146084,
@@ -507,14 +563,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 144212,
-      "num": 144212,
-      "word": "晓华爆改男大剪完神似易烊千玺",
-      "onboard_time": 1731193213,
-      "rank": 33,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 143006,
       "num": 143006,
       "word": "西藏文旅发了赵露思端午转场",
@@ -531,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139890,
+      "num": 139890,
+      "word": "丁禹兮演员的品格冠军",
+      "onboard_time": 1731200717,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139571,
       "num": 318337,
       "word": "郑钦文1比0高芙",
       "onboard_time": 1731172396,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138457,
+      "num": 276802,
+      "word": "人民空军成立75年",
+      "onboard_time": 1731197957,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136713,
@@ -555,20 +619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135129,
+      "num": 135129,
+      "word": "大屏的鹿晗",
+      "onboard_time": 1731202759,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135107,
       "num": 135107,
       "word": "郑钦文排名飙升至第5位",
       "onboard_time": 1731198856,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133399,
-      "num": 276802,
-      "word": "人民空军成立75年",
-      "onboard_time": 1731197957,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132279,
@@ -595,11 +659,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119180,
-      "num": 119180,
-      "word": "丁禹兮演员的品格冠军",
-      "onboard_time": 1731200717,
-      "rank": 37,
+      "raw_hot": 114944,
+      "num": 114944,
+      "word": "你好星期六下期是永夜星河",
+      "onboard_time": 1731198676,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -611,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112704,
-      "num": 112704,
-      "word": "你好星期六下期是永夜星河",
-      "onboard_time": 1731198676,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110924,
       "num": 110924,
       "word": "建议每个恐华症的人都到中国看看",
@@ -627,12 +683,12 @@
       "category": "国外时政,国内时政"
     },
     {
-      "raw_hot": 106884,
-      "num": 106884,
-      "word": "大屏的鹿晗",
-      "onboard_time": 1731202759,
-      "rank": 40,
-      "category": "演出"
+      "raw_hot": 105576,
+      "num": 105576,
+      "word": "买到40条假中华获退赔10万",
+      "onboard_time": 1731204019,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105496,
@@ -641,6 +697,14 @@
       "onboard_time": 1731201078,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103920,
+      "num": 103920,
+      "word": "昆明震感",
+      "onboard_time": 1731203718,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103792,
@@ -665,14 +729,6 @@
       "onboard_time": 1731195315,
       "rank": 43,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 101646,
-      "num": 101646,
-      "word": "郑钦文说输球并不是运气不好",
-      "onboard_time": 1731201438,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 101636,
@@ -721,14 +777,6 @@
       "onboard_time": 1731202098,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91582,
-      "num": 91582,
-      "word": "普京签署俄朝全面战略伙伴关系条约",
-      "onboard_time": 1731203057,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 88939,
@@ -899,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49927,
-      "num": 211492,
-      "word": "曾黎发文给赵露思庆生",
-      "onboard_time": 1731202577,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47871,
       "num": 51475,
       "word": "撞劳斯莱斯货车司机回应是不是剧本",
@@ -1017,6 +1057,22 @@
       "onboard_time": 1731174973,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 27470,
+      "num": 97937,
+      "word": "来自好品山东的亿点点震撼",
+      "onboard_time": 1731204318,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27401,
+      "num": 170136,
+      "word": "涵艺说TES围绕双C重组",
+      "onboard_time": 1731204076,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 27332,
