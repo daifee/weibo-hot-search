@@ -1,0 +1,410 @@
+{
+  "runTime": 1731217030269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3525769,
+        "num": 3525769,
+        "word": "叶珂退网",
+        "onboard_time": 1731216317,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1130923,
+        "num": 1130923,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26677,
+        "num": 917229,
+        "word": "双座歼20模型亮相中国航展",
+        "onboard_time": 1731204678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865857,
+        "num": 865857,
+        "word": "落跑新娘凌妙妙",
+        "onboard_time": 1731213078,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665745,
+        "num": 665745,
+        "word": "山西一家三口烧煤取暖中毒身亡",
+        "onboard_time": 1731214518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581718,
+        "num": 581718,
+        "word": "理发师晓华说30元的价格不低",
+        "onboard_time": 1731199397,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517943,
+        "num": 517943,
+        "word": "你好星期六半脸卸妆",
+        "onboard_time": 1731206178,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514492,
+        "num": 514492,
+        "word": "狐妖竹业篇 竹影王权",
+        "onboard_time": 1731212717,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490493,
+        "num": 490493,
+        "word": "年轻人为什么爱上电子布洛芬",
+        "onboard_time": 1731209778,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64682,
+        "num": 481219,
+        "word": "为什么有些父母一开口就扫兴",
+        "onboard_time": 1731214819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972828,
+        "num": 473857,
+        "word": "叶珂道歉",
+        "onboard_time": 1731216738,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969217,
+        "num": 468316,
+        "word": "被晓华爆改成易烊千玺男生发声",
+        "onboard_time": 1731212477,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 635601,
+        "num": 452346,
+        "word": "翁青雅好友发文",
+        "onboard_time": 1731209358,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572173,
+        "num": 438575,
+        "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
+        "onboard_time": 1731210497,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436631,
+        "num": 436631,
+        "word": "宋亚轩陪孔夫子回家了",
+        "onboard_time": 1731209418,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320997,
+        "num": 320997,
+        "word": "我喜欢子期变繁体了",
+        "onboard_time": 1731207317,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296995,
+        "num": 296995,
+        "word": "盒马鲜生回应疑孩子摔倒妈妈砸店",
+        "onboard_time": 1731209478,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276442,
+        "num": 276442,
+        "word": "撞劳斯莱斯货车司机否认穿千元T恤",
+        "onboard_time": 1731214819,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117456,
+        "num": 275891,
+        "word": "周杰伦带儿女海边游玩",
+        "onboard_time": 1731216678,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19861,
+        "num": 275413,
+        "word": "原来贾乃亮谭松韵这么会薅羊毛",
+        "onboard_time": 1731214998,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449930,
+        "num": 275403,
+        "word": "男子大口喝下百草枯28天创造奇迹",
+        "onboard_time": 1731214878,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275364,
+        "num": 275364,
+        "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+        "onboard_time": 1731209478,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227297,
+        "num": 227297,
+        "word": "飞机偶遇田曦薇",
+        "onboard_time": 1731210679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206152,
+        "num": 223181,
+        "word": "宁静谢娜戚薇三代浪姐合体",
+        "onboard_time": 1731213257,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222794,
+        "num": 222794,
+        "word": "买到40条假中华获退赔10万",
+        "onboard_time": 1731204019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208264,
+        "num": 208264,
+        "word": "中国提议交换月球样本美方至今没吭声",
+        "onboard_time": 1731216259,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 187899,
+        "word": "于正下一部剧男女主人设",
+        "onboard_time": 1731214398,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173430,
+        "num": 173430,
+        "word": "杨幂慵懒风卷发",
+        "onboard_time": 1731215058,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172124,
+        "num": 172124,
+        "word": "有镯生没镯养",
+        "onboard_time": 1731210798,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104958,
+        "num": 167331,
+        "word": "人民空军75载搏击长空",
+        "onboard_time": 1731213498,
+        "rank": 29,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 163782,
+        "num": 163782,
+        "word": "福州建立教育局局长学校陪餐制",
+        "onboard_time": 1731207438,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162131,
+        "num": 162131,
+        "word": "男童因妈妈限制吃零食想跟爸爸",
+        "onboard_time": 1731210438,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158890,
+        "num": 158890,
+        "word": "宿主慕声",
+        "onboard_time": 1731216918,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156047,
+        "num": 156047,
+        "word": "何炅说最害怕只有名字上热搜",
+        "onboard_time": 1731209657,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152949,
+        "num": 152949,
+        "word": "肖战首专唱片公司肖战工作室",
+        "onboard_time": 1731208159,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141839,
+        "num": 141839,
+        "word": "慕声柳拂衣 老公寄存处",
+        "onboard_time": 1731210017,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141494,
+        "num": 141494,
+        "word": "向佐也有站子了",
+        "onboard_time": 1731212359,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137204,
+        "num": 137204,
+        "word": "朴彩英月收听Kpop历史第一",
+        "onboard_time": 1731213558,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136590,
+        "num": 136590,
+        "word": "永夜星河拍摄期凌妙妙上班图",
+        "onboard_time": 1731215959,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126650,
+        "num": 126650,
+        "word": "妈妈看2岁儿子拍碎6000元电视",
+        "onboard_time": 1731205457,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 124913,
+        "word": "晓华回应被怼30元拉低行业档次",
+        "onboard_time": 1731205221,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114885,
+        "num": 114885,
+        "word": "周深和观众都背过梗来看演唱会",
+        "onboard_time": 1731215478,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108224,
+        "num": 108224,
+        "word": "宋佳要娶的女人太多了",
+        "onboard_time": 1731212537,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103091,
+        "num": 103091,
+        "word": "酸奶块",
+        "onboard_time": 1731216558,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99982,
+        "num": 99982,
+        "word": "杨仕泽 今后有你们无聊的",
+        "onboard_time": 1731210377,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97458,
+        "num": 97458,
+        "word": "郑钦文商业价值或赶超巅峰李娜",
+        "onboard_time": 1731214459,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94771,
+        "num": 94771,
+        "word": "失笑",
+        "onboard_time": 1731216859,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94443,
+        "num": 94443,
+        "word": "歼-20发射导弹击落目标",
+        "onboard_time": 1731210076,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 89695,
+        "num": 89695,
+        "word": "郑钦文说我是比赛中更有统治力的人",
+        "onboard_time": 1731213318,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74744,
+        "num": 89348,
+        "word": "代号鸢",
+        "onboard_time": 1731215478,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切领略大美西部#"
+    }
+  }
+}
