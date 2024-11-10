@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731238502825,
+  "endTime": 1731242288439,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -33,6 +33,14 @@
       "onboard_time": 1731221479,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1954044,
+      "num": 1954044,
+      "word": "劳斯莱斯女车主哽咽否认炒作",
+      "onboard_time": 1731237860,
+      "rank": 23,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 1706752,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196161,
+      "num": 448717,
+      "word": "徐艺洋方声明",
+      "onboard_time": 1731239778,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1059448,
       "num": 1059448,
       "word": "你好星期六半脸卸妆",
@@ -153,6 +169,14 @@
       "onboard_time": 1731229819,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 910416,
+      "num": 910416,
+      "word": "小侯爷人真好",
+      "onboard_time": 1731238099,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 865857,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 762370,
-      "num": 355459,
+      "num": 454170,
       "word": "四大扛剧小生",
       "onboard_time": 1731235160,
       "rank": 11,
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 551383,
+      "num": 551383,
+      "word": "林青霞姜涛牵手出席活动",
+      "onboard_time": 1731236717,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543472,
       "num": 543472,
       "word": "各地网友送鲜花悼念张纯如",
@@ -369,6 +401,14 @@
       "onboard_time": 1731227419,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510440,
+      "num": 473937,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1731241518,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 506363,
@@ -427,12 +467,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 473961,
-      "num": 311186,
-      "word": "林青霞姜涛牵手出席活动",
-      "onboard_time": 1731236717,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 474513,
+      "num": 474513,
+      "word": "这里是中国黄岩岛海域",
+      "onboard_time": 1731232640,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 462251,
+      "num": 448695,
+      "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+      "onboard_time": 1731238099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 451310,
@@ -457,14 +505,6 @@
       "onboard_time": 1731175573,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446044,
-      "num": 446044,
-      "word": "这里是中国黄岩岛海域",
-      "onboard_time": 1731232640,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 445282,
@@ -571,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366866,
+      "num": 366866,
+      "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
+      "onboard_time": 1731237799,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366668,
       "num": 304539,
       "word": "叶珂否认给黄晓明花了1000万",
@@ -659,12 +707,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323667,
+      "num": 323667,
+      "word": "美国多州欲立法抵制特朗普施政",
+      "onboard_time": 1731238758,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 322074,
       "num": 322074,
       "word": "郑钦文总决赛冲冠",
       "onboard_time": 1731163220,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317533,
+      "num": 317533,
+      "word": "慕瑶 蓝兔",
+      "onboard_time": 1731240560,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316579,
@@ -675,12 +739,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 315138,
-      "num": 315138,
-      "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
-      "onboard_time": 1731237799,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 311415,
+      "num": 216482,
+      "word": "男性消费力增速不如狗",
+      "onboard_time": 1731237979,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302804,
@@ -689,14 +753,6 @@
       "onboard_time": 1731196936,
       "rank": 8,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 297303,
-      "num": 297303,
-      "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
-      "onboard_time": 1731238099,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 296485,
@@ -843,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256922,
+      "num": 256922,
+      "word": "小巷人家",
+      "onboard_time": 1731241339,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256141,
       "num": 256141,
       "word": "宁静谢娜戚薇三代浪姐合体",
@@ -923,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237328,
+      "num": 237328,
+      "word": "22岁大学生倒在雪山上",
+      "onboard_time": 1731239419,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232094,
       "num": 232094,
       "word": "王艺迪4比2张本美和",
@@ -945,6 +1017,14 @@
       "onboard_time": 1731210798,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229271,
+      "num": 229271,
+      "word": "中国海警回应菲滋事挑衅",
+      "onboard_time": 1731240620,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 226249,
@@ -995,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221361,
+      "num": 335662,
+      "word": "权志龙点赞玩自己梗的网友",
+      "onboard_time": 1731241759,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219098,
       "num": 219098,
       "word": "男童因妈妈限制吃零食想跟爸爸",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1731229939,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216514,
+      "num": 216514,
+      "word": "邓超陈赫王祖蓝合影",
+      "onboard_time": 1731240078,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215505,
@@ -1187,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199639,
-      "num": 199639,
-      "word": "小侯爷人真好",
-      "onboard_time": 1731238099,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199090,
       "num": 199090,
       "word": "offer律政四季大团建",
@@ -1257,14 +1345,6 @@
       "onboard_time": 1731208938,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193487,
-      "num": 193487,
-      "word": "男性消费力增速不如狗",
-      "onboard_time": 1731237979,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192110,
@@ -1515,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164178,
+      "num": 295736,
+      "word": "时代少年团给娜扎写热搜",
+      "onboard_time": 1731237378,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "巴基斯坦爆炸发生时站台旅客很多",
@@ -1635,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149672,
+      "num": 333726,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149567,
       "num": 149567,
       "word": "谢可寅一声阿耶叫得人心碎",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1731197176,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 143545,
+      "num": 141472,
+      "word": "时代少年团二开",
+      "onboard_time": 1731239480,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 143006,
@@ -1867,6 +1971,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 125347,
+      "num": 125347,
+      "word": "王一栩 费启鸣你发誓别带上我",
+      "onboard_time": 1731242180,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124737,
       "num": 124737,
       "word": "如鸢",
@@ -1881,6 +1993,14 @@
       "onboard_time": 1731167960,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124082,
+      "num": 124082,
+      "word": "珠帘玉幕 各找各的Steve",
+      "onboard_time": 1731241459,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 120959,
@@ -1963,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112727,
+      "num": 112727,
+      "word": "杨迪 王勉好像一只熏鸡",
+      "onboard_time": 1731239238,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111982,
       "num": 111982,
       "word": "WTA主席盛赞郑钦文",
@@ -2009,14 +2137,6 @@
       "onboard_time": 1731211098,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105781,
-      "num": 266662,
-      "word": "劳斯莱斯女车主哽咽否认炒作",
-      "onboard_time": 1731237860,
-      "rank": 23,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 105496,
@@ -2355,20 +2475,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67967,
+      "num": 437955,
+      "word": "流浪干将莫邪好C",
+      "onboard_time": 1731241999,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 66062,
       "num": 201595,
       "word": "郑钦文说希望下次对手没机会评价自己",
       "onboard_time": 1731209298,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62856,
-      "num": 295736,
-      "word": "时代少年团给娜扎写热搜",
-      "onboard_time": 1731237378,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 61879,
@@ -2515,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49749,
+      "num": 448724,
+      "word": "晓华不会颠覆行业但能给同行上一课",
+      "onboard_time": 1731241160,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 47871,
       "num": 51475,
       "word": "撞劳斯莱斯货车司机回应是不是剧本",
@@ -2553,6 +2681,14 @@
       "onboard_time": 1731191651,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 43861,
+      "num": 220892,
+      "word": "疯狂好六夜节目单",
+      "onboard_time": 1731241999,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 43063,
@@ -2651,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34853,
+      "num": 437738,
+      "word": "天猫双11冬装开始5折了",
+      "onboard_time": 1731240020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34576,
       "num": 498878,
       "word": "狼队对战KSG",
@@ -2689,6 +2833,14 @@
       "onboard_time": 1731211458,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30668,
+      "num": 563789,
+      "word": "歼35歼15歼15T三机模型首次同框",
+      "onboard_time": 1731228078,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 29467,
