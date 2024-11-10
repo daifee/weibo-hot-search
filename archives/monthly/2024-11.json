@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731213562386,
+  "endTime": 1731216011361,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1730689698,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1402414,
+      "num": 314181,
+      "word": "被晓华爆改成易烊千玺男生发声",
+      "onboard_time": 1731212477,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1395835,
@@ -3763,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 723826,
+      "num": 347046,
+      "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
+      "onboard_time": 1731210497,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 723742,
       "num": 406380,
       "word": "工作人员实名吐槽王楚然",
@@ -4299,14 +4315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 649835,
-      "num": 347046,
-      "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
-      "onboard_time": 1731210497,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 649714,
       "num": 649714,
       "word": "永夜星河穿帮",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1730806642,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 627165,
+      "num": 627165,
+      "word": "落跑新娘凌妙妙",
+      "onboard_time": 1731213078,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 627157,
@@ -5187,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571183,
+      "num": 571183,
+      "word": "狐妖竹业篇 竹影王权",
+      "onboard_time": 1731212717,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570941,
       "num": 359025,
       "word": "60秒看美国总统选举制度",
@@ -5545,6 +5569,14 @@
       "onboard_time": 1731075081,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540400,
+      "num": 540400,
+      "word": "山西一家三口烧煤取暖中毒身亡",
+      "onboard_time": 1731214518,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539913,
@@ -8635,6 +8667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333583,
+      "num": 203831,
+      "word": "男子大口喝下百草枯28天创造奇迹",
+      "onboard_time": 1731214878,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333277,
       "num": 333277,
       "word": "乌克兰朝鲜",
@@ -8657,14 +8697,6 @@
       "onboard_time": 1730685678,
       "rank": 44,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 333104,
-      "num": 333104,
-      "word": "狐妖竹业篇 竹影王权",
-      "onboard_time": 1731212717,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 333077,
@@ -9019,6 +9051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315367,
+      "num": 315367,
+      "word": "宋亚轩陪孔夫子回家了",
+      "onboard_time": 1731209418,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315225,
       "num": 315225,
       "word": "初三学生被老师没收手机欲跳楼威胁",
@@ -9137,14 +9177,6 @@
       "onboard_time": 1731034039,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309876,
-      "num": 309876,
-      "word": "被晓华爆改成易烊千玺男生发声",
-      "onboard_time": 1731212477,
-      "rank": 26,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 308893,
@@ -10675,6 +10707,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 256141,
+      "num": 256141,
+      "word": "宁静谢娜戚薇三代浪姐合体",
+      "onboard_time": 1731213257,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255588,
       "num": 255588,
       "word": "薛之谦朱桢喝趴了",
@@ -11611,6 +11651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 229524,
+      "num": 198796,
+      "word": "有镯生没镯养",
+      "onboard_time": 1731210798,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229276,
       "num": 229276,
       "word": "邓超晒大饼",
@@ -12393,6 +12441,14 @@
       "onboard_time": 1730675596,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211579,
+      "num": 351283,
+      "word": "福州建立教育局局长学校陪餐制",
+      "onboard_time": 1731207438,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211577,
@@ -13299,14 +13355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 201542,
-      "num": 201542,
-      "word": "宋亚轩陪孔夫子回家了",
-      "onboard_time": 1731209418,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201506,
       "num": 445689,
       "word": "徐明浩直播",
@@ -13715,14 +13763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197730,
-      "num": 177132,
-      "word": "有镯生没镯养",
-      "onboard_time": 1731210798,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197607,
       "num": 246755,
       "word": "刘德华唱的中国人词曲作者均来自台湾",
@@ -13833,14 +13873,6 @@
       "onboard_time": 1730905642,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196831,
-      "num": 301592,
-      "word": "落跑新娘凌妙妙",
-      "onboard_time": 1731213078,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 196782,
@@ -14297,6 +14329,14 @@
       "onboard_time": 1731156438,
       "rank": 40,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 192142,
+      "num": 192142,
+      "word": "撞劳斯莱斯货车司机否认穿千元T恤",
+      "onboard_time": 1731214819,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192099,
@@ -15211,12 +15251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180657,
-      "num": 351283,
-      "word": "福州建立教育局局长学校陪餐制",
-      "onboard_time": 1731207438,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 180654,
+      "num": 180654,
+      "word": "慕子期 还以为我也被爱了呢",
+      "onboard_time": 1731214639,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 180653,
@@ -15433,6 +15473,14 @@
       "onboard_time": 1730547559,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178547,
+      "num": 178547,
+      "word": "于正下一部剧男女主人设",
+      "onboard_time": 1731214398,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 178448,
@@ -15665,6 +15713,14 @@
       "onboard_time": 1730634319,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176128,
+      "num": 176128,
+      "word": "周深和观众都背过梗来看演唱会",
+      "onboard_time": 1731215478,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 176063,
@@ -17939,6 +17995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153240,
+      "num": 153240,
+      "word": "朴彩英月收听Kpop历史第一",
+      "onboard_time": 1731213558,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153169,
       "num": 153169,
       "word": "网红吴迪发文说再见",
@@ -19872,14 +19936,6 @@
       "word": "宋亚轩沈腾 姜还是老的辣具象化",
       "onboard_time": 1730687538,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 134429,
-      "num": 134429,
-      "word": "宁静谢娜戚薇三代浪姐合体",
-      "onboard_time": 1731213257,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -22307,6 +22363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109372,
+      "num": 109372,
+      "word": "郑钦文商业价值或赶超巅峰李娜",
+      "onboard_time": 1731214459,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109367,
       "num": 109367,
       "word": "金智秀否认solo回归",
@@ -22377,6 +22441,14 @@
       "onboard_time": 1730617099,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108942,
+      "num": 210985,
+      "word": "杨幂慵懒风卷发",
+      "onboard_time": 1731215058,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108877,
@@ -22481,6 +22553,14 @@
       "onboard_time": 1730447360,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107245,
+      "num": 180831,
+      "word": "人民空军75载搏击长空",
+      "onboard_time": 1731213498,
+      "rank": 49,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 107162,
@@ -23051,14 +23131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99664,
-      "num": 99664,
-      "word": "人民空军75载搏击长空",
-      "onboard_time": 1731213498,
-      "rank": 49,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 99564,
       "num": 99564,
       "word": "永夜星河好看",
@@ -23257,6 +23329,14 @@
       "onboard_time": 1731036980,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97007,
+      "num": 97007,
+      "word": "永夜星河拍摄期凌妙妙上班图",
+      "onboard_time": 1731215959,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 96979,
@@ -25657,6 +25737,14 @@
       "onboard_time": 1731184031,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52721,
+      "num": 180699,
+      "word": "一诺官宣参加竞燃之夜",
+      "onboard_time": 1731213858,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 52719,
@@ -28153,6 +28241,14 @@
       "onboard_time": 1731071181,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27485,
+      "num": 205382,
+      "word": "原来贾乃亮谭松韵这么会薅羊毛",
+      "onboard_time": 1731214998,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 27476,
