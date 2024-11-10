@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731263215326,
+  "endTime": 1731264016339,
   "band_list": [
     {
       "raw_hot": 650578,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46601,
+      "num": 80401,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43153,
       "num": 43153,
       "word": "2024年只剩7个周末了",
@@ -451,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42119,
+      "num": 42119,
+      "word": "白锦锦 剧本",
+      "onboard_time": 1731262513,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37442,
       "num": 46970,
       "word": "大理苍山和玉龙雪山同框了",
       "onboard_time": 1731259874,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 33227,
-      "num": 33227,
-      "word": "白锦锦 剧本",
-      "onboard_time": 1731262513,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 24583,
@@ -483,20 +491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22432,
+      "num": 30183,
+      "word": "周深演唱会",
+      "onboard_time": 1731263711,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22313,
       "num": 32332,
       "word": "薛之谦音乐节",
       "onboard_time": 1731251600,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19144,
-      "num": 80401,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7593,
@@ -518,6 +526,9 @@
   "hotgov_list": [
     {
       "word": "#把蔬菜种植这个富民产业进一步做好#"
+    },
+    {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
     }
   ]
 }

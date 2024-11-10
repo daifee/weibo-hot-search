@@ -1,0 +1,410 @@
+{
+  "runTime": 1731264016339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 193424,
+        "num": 193424,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 0,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 126094,
+        "num": 126094,
+        "word": "中国领土一点都不会让一寸也不能丢",
+        "onboard_time": 1731255797,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3836,
+        "num": 116816,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156793,
+        "num": 115621,
+        "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+        "onboard_time": 1731258015,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108181,
+        "num": 108181,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92939,
+        "num": 92939,
+        "word": "在妇幼保健院装针孔摄像头被拘",
+        "onboard_time": 1731257656,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97472,
+        "num": 92776,
+        "word": "永夜星河系统包宠的",
+        "onboard_time": 1731254359,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90354,
+        "num": 90354,
+        "word": "2岁失踪女童家属怀疑系熟人作案",
+        "onboard_time": 1731254777,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74287,
+        "num": 74287,
+        "word": "王玉雯的反击给我看爽了",
+        "onboard_time": 1731251899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46601,
+        "num": 71978,
+        "word": "相伴20年男子竟杀了相亲对象在逃",
+        "onboard_time": 1731262032,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71190,
+        "num": 71190,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67410,
+        "num": 67410,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65180,
+        "num": 65180,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56112,
+        "num": 56112,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55847,
+        "num": 55847,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48466,
+        "num": 48466,
+        "word": "何与 双轨",
+        "onboard_time": 1731243198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47147,
+        "num": 47147,
+        "word": "心疼妖刀",
+        "onboard_time": 1731252739,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46480,
+        "num": 46480,
+        "word": "黎巴嫩BP机爆炸事件系以色列制造",
+        "onboard_time": 1731250701,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46448,
+        "num": 46448,
+        "word": "世界上有一半的人都会流血",
+        "onboard_time": 1731244701,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45175,
+        "num": 45175,
+        "word": "黄岩岛是我国固有领土",
+        "onboard_time": 1731245720,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88342,
+        "num": 45040,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51139,
+        "num": 45006,
+        "word": "美43只在逃实验猴捉回一只",
+        "onboard_time": 1731257418,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44866,
+        "num": 44866,
+        "word": "许昕谈王曼昱夺冠",
+        "onboard_time": 1731253819,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43485,
+        "num": 43485,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 23,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 42119,
+        "num": 42119,
+        "word": "白锦锦 剧本",
+        "onboard_time": 1731262513,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40512,
+        "num": 40512,
+        "word": "打过狂犬疫苗的人嘴可真严啊",
+        "onboard_time": 1731245841,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38003,
+        "num": 38003,
+        "word": "华晨宇 想要成长多谈恋爱",
+        "onboard_time": 1731248120,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36839,
+        "num": 36839,
+        "word": "男子将8万现金伪装成喜糖寄出",
+        "onboard_time": 1731246199,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35952,
+        "num": 35952,
+        "word": "林诗栋4比1卡尔伯格",
+        "onboard_time": 1731252020,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35939,
+        "num": 35939,
+        "word": "2024年只剩7个周末了",
+        "onboard_time": 1731260113,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35712,
+        "num": 35712,
+        "word": "24岁女生剃头180天后的变化",
+        "onboard_time": 1731247040,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34524,
+        "num": 34524,
+        "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+        "onboard_time": 1731238099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33448,
+        "num": 33448,
+        "word": "狼队让三追四",
+        "onboard_time": 1731249741,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33007,
+        "num": 33007,
+        "word": "权志龙点赞玩自己梗的网友",
+        "onboard_time": 1731241759,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31848,
+        "num": 31848,
+        "word": "丁俊晖国际锦标赛夺冠",
+        "onboard_time": 1731250400,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30952,
+        "num": 30952,
+        "word": "邓亚萍谈王曼昱对阵王艺迪",
+        "onboard_time": 1731258495,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30883,
+        "num": 30883,
+        "word": "双11",
+        "onboard_time": 1731254059,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30353,
+        "num": 30353,
+        "word": "种地吧",
+        "onboard_time": 1731251481,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26559,
+        "num": 30346,
+        "word": "林诗栋男子单打冠军",
+        "onboard_time": 1731252798,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26245,
+        "num": 30317,
+        "word": "四大扛剧小生",
+        "onboard_time": 1731235160,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26143,
+        "num": 30307,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25469,
+        "num": 30294,
+        "word": "狼队败决上演逆转大戏",
+        "onboard_time": 1731254538,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25123,
+        "num": 30265,
+        "word": "何炅欢迎谢娜回家",
+        "onboard_time": 1731252260,
+        "rank": 42,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 24313,
+        "num": 30259,
+        "word": "田嘉瑞演技",
+        "onboard_time": 1731252980,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24118,
+        "num": 30240,
+        "word": "赵露思珠帘玉幕角色指数第一",
+        "onboard_time": 1731258195,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23566,
+        "num": 30213,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23500,
+        "num": 30189,
+        "word": "曼联3比0莱斯特城",
+        "onboard_time": 1731260653,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22432,
+        "num": 30183,
+        "word": "周深演唱会",
+        "onboard_time": 1731263711,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22323,
+        "num": 30148,
+        "word": "这是我们的黄岩岛",
+        "onboard_time": 1731261553,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22005,
+        "num": 30146,
+        "word": "王安宇人生镜头",
+        "onboard_time": 1731250641,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}
