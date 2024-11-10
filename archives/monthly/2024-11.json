@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731249382845,
+  "endTime": 1731252072827,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1908,7 +1908,7 @@
     },
     {
       "raw_hot": 1196161,
-      "num": 498002,
+      "num": 501749,
       "word": "徐艺洋方声明",
       "onboard_time": 1731239778,
       "rank": 10,
@@ -2361,6 +2361,14 @@
       "onboard_time": 1730517317,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1047236,
+      "num": 1167557,
+      "word": "丁俊晖国际锦标赛夺冠",
+      "onboard_time": 1731250400,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1045831,
@@ -3236,7 +3244,7 @@
     },
     {
       "raw_hot": 852604,
-      "num": 501679,
+      "num": 512780,
       "word": "世界上有一半的人都会流血",
       "onboard_time": 1731244701,
       "rank": 37,
@@ -3971,6 +3979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 724938,
+      "num": 290361,
+      "word": "女生涂碘伏祛痘3天后效果明显",
+      "onboard_time": 1731249442,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 723826,
       "num": 438575,
       "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
@@ -4659,6 +4675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 637641,
+      "num": 637641,
+      "word": "男子将8万现金伪装成喜糖寄出",
+      "onboard_time": 1731246199,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637386,
       "num": 373664,
       "word": "黄圣依又选不离婚",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1730957900,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631686,
+      "num": 631686,
+      "word": "狼队让三追四",
+      "onboard_time": 1731249741,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 631679,
@@ -5289,6 +5321,14 @@
       "onboard_time": 1730603840,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585563,
+      "num": 585563,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 584644,
@@ -7859,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397002,
+      "num": 397002,
+      "word": "永夜星河大火案真相",
+      "onboard_time": 1731247940,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396277,
       "num": 396277,
       "word": "王鹤棣邀请何老师参加桃花坞",
@@ -9419,6 +9467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 319934,
+      "num": 306515,
+      "word": "24岁女生剃头180天后的变化",
+      "onboard_time": 1731247040,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 319649,
       "num": 319649,
       "word": "假性亲密关系",
@@ -9473,6 +9529,14 @@
       "onboard_time": 1731230058,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316363,
+      "num": 316363,
+      "word": "华晨宇 想要成长多谈恋爱",
+      "onboard_time": 1731248120,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 316176,
@@ -9659,14 +9723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 306515,
-      "num": 306515,
-      "word": "24岁女生剃头180天后的变化",
-      "onboard_time": 1731247040,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 305965,
       "num": 305965,
       "word": "永夜星河第七集",
@@ -9849,14 +9905,6 @@
       "onboard_time": 1730801782,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299215,
-      "num": 299215,
-      "word": "男子将8万现金伪装成喜糖寄出",
-      "onboard_time": 1731246199,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299186,
@@ -10843,6 +10891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267881,
+      "num": 211450,
+      "word": "本周锦鲤附体星座",
+      "onboard_time": 1731250940,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267832,
       "num": 267832,
       "word": "刘丁硕说王楚钦压力太大了",
@@ -10905,6 +10961,14 @@
       "onboard_time": 1730440999,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266172,
+      "num": 266172,
+      "word": "白桃星座",
+      "onboard_time": 1730646561,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 266046,
@@ -11049,14 +11113,6 @@
       "onboard_time": 1731210918,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261728,
-      "num": 261728,
-      "word": "永夜星河大火案真相",
-      "onboard_time": 1731247940,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 261640,
@@ -11377,14 +11433,6 @@
       "onboard_time": 1730394974,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253030,
-      "num": 253030,
-      "word": "华晨宇 想要成长多谈恋爱",
-      "onboard_time": 1731248120,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 252835,
@@ -11763,14 +11811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241763,
-      "num": 241763,
-      "word": "白桃星座",
-      "onboard_time": 1730646561,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241688,
       "num": 241688,
       "word": "杜兰特绝杀",
@@ -11849,6 +11889,14 @@
       "onboard_time": 1731156619,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240301,
+      "num": 240301,
+      "word": "王安宇人生镜头",
+      "onboard_time": 1731250641,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 240229,
@@ -13249,6 +13297,14 @@
       "onboard_time": 1730772680,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210342,
+      "num": 210342,
+      "word": "王曼昱说冠军是对前一阶段训练的认可",
+      "onboard_time": 1731251181,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 210175,
@@ -15627,6 +15683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187470,
+      "num": 187470,
+      "word": "鹏飞妈妈",
+      "onboard_time": 1731251421,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187328,
       "num": 200833,
       "word": "陈都灵并蒂双生花",
@@ -15987,6 +16051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182635,
+      "num": 182635,
+      "word": "ksg剧透",
+      "onboard_time": 1731249801,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182598,
       "num": 182598,
       "word": "雪地靴一穿冬天的感觉就来了",
@@ -16179,6 +16251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180464,
+      "num": 180464,
+      "word": "何浩楠直播",
+      "onboard_time": 1731251481,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180389,
       "num": 180389,
       "word": "周洁琼小巷人家戏内外反差",
@@ -16241,6 +16321,14 @@
       "onboard_time": 1730779342,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179955,
+      "num": 179955,
+      "word": "王者荣耀",
+      "onboard_time": 1731251780,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 179888,
@@ -16313,6 +16401,14 @@
       "onboard_time": 1731079161,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179590,
+      "num": 179590,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1731251600,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 179520,
@@ -18627,6 +18723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157491,
+      "num": 157491,
+      "word": "狼队晋级年总决赛",
+      "onboard_time": 1731251899,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157388,
       "num": 157388,
       "word": "河南方城4名公职人员在车祸中死亡",
@@ -18747,6 +18851,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 156065,
+      "num": 416290,
+      "word": "小胖背道崽",
+      "onboard_time": 1731251060,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156048,
       "num": 156048,
       "word": "孙颖莎回应祝福与支持",
@@ -18793,6 +18905,14 @@
       "onboard_time": 1731055218,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155767,
+      "num": 155767,
+      "word": "浙江回应鼓励有条件家庭生四孩",
+      "onboard_time": 1731250641,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155712,
@@ -19283,6 +19403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151568,
+      "num": 151568,
+      "word": "王玉雯的反击给我看爽了",
+      "onboard_time": 1731251899,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151302,
       "num": 300063,
       "word": "Faker 第五冠献给粉丝",
@@ -19641,6 +19769,14 @@
       "onboard_time": 1730345239,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148111,
+      "num": 148111,
+      "word": "虞书欣哭戏片段",
+      "onboard_time": 1731251600,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 147752,
@@ -20915,6 +21051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136438,
+      "num": 512782,
+      "word": "黎巴嫩BP机爆炸事件系以色列制造",
+      "onboard_time": 1731250701,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 136430,
       "num": 136430,
       "word": "长生王昭君救世主",
@@ -21593,14 +21737,6 @@
       "onboard_time": 1731040221,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 129904,
-      "num": 495564,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1731243619,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 129885,
@@ -26369,6 +26505,14 @@
       "onboard_time": 1730610498,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62951,
+      "num": 212372,
+      "word": "小巷人家巷角遇到爱",
+      "onboard_time": 1731251300,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 62862,
@@ -32121,6 +32265,14 @@
       "onboard_time": 1731107356,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6358,
+      "num": 512887,
+      "word": "林诗栋4比1卡尔伯格",
+      "onboard_time": 1731252020,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 6219,
