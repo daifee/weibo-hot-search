@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731278248575,
+  "endTime": 1731280852401,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -283,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 770798,
+      "num": 770798,
+      "word": "李行亮觉醒",
+      "onboard_time": 1731244399,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 766915,
       "num": 766915,
       "word": "晓华回应被怼30元拉低行业档次",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632643,
+      "num": 166308,
+      "word": "华盛顿聚集大量人群抗议特朗普",
+      "onboard_time": 1731273791,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 631686,
       "num": 631686,
       "word": "狼队让三追四",
@@ -427,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 600688,
+      "num": 790554,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593285,
       "num": 593285,
       "word": "年轻人为什么爱上电子布洛芬",
       "onboard_time": 1731209778,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 590156,
+      "num": 590156,
+      "word": "泄密后反嘱咐对方千万别外传",
+      "onboard_time": 1731272050,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589416,
@@ -571,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486068,
-      "num": 323377,
-      "word": "李行亮觉醒",
-      "onboard_time": 1731244399,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 484898,
       "num": 484898,
       "word": "美43只雌猴逃出实验室或携带致命病毒",
@@ -609,6 +633,14 @@
       "onboard_time": 1731232640,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 473282,
+      "num": 473282,
+      "word": "自驾阿姨说自己没有愧对任何人",
+      "onboard_time": 1731275651,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466833,
@@ -947,14 +979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 311944,
-      "num": 477845,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311415,
       "num": 216482,
       "word": "男性消费力增速不如狗",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1731225079,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280756,
-      "num": 102361,
-      "word": "华盛顿聚集大量人群抗议特朗普",
-      "onboard_time": 1731273791,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 280500,
@@ -1251,14 +1267,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 242510,
-      "num": 242510,
-      "word": "泄密后反嘱咐对方千万别外传",
-      "onboard_time": 1731272050,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241023,
       "num": 241023,
       "word": "我国南海部分岛礁标准名称公布",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1731250701,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228126,
+      "num": 231433,
+      "word": "永夜星河好感度百分之99了",
+      "onboard_time": 1731252500,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 226249,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1731218840,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213893,
+      "num": 136487,
+      "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+      "onboard_time": 1731258015,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212774,
@@ -1800,14 +1824,6 @@
       "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
       "onboard_time": 1731237019,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186349,
-      "num": 136487,
-      "word": "商场内带狗吓到小孩父亲抢狗怒摔",
-      "onboard_time": 1731258015,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2171,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160276,
-      "num": 160276,
-      "word": "自驾阿姨说自己没有愧对任何人",
-      "onboard_time": 1731275651,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "檀健次做饭",
@@ -2347,6 +2355,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 147841,
+      "num": 109454,
+      "word": "美43只在逃实验猴捉回一只",
+      "onboard_time": 1731257418,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1731172396,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139531,
+      "num": 139531,
+      "word": "万斯警告欧盟别对X平台下手",
+      "onboard_time": 1731273012,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 139294,
@@ -2715,14 +2739,6 @@
       "category": "国外时政,国内时政"
     },
     {
-      "raw_hot": 109454,
-      "num": 109454,
-      "word": "美43只在逃实验猴捉回一只",
-      "onboard_time": 1731257418,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 109372,
       "num": 109372,
       "word": "郑钦文商业价值或赶超巅峰李娜",
@@ -2883,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97053,
+      "num": 97053,
+      "word": "88岁钟南山上台致辞健步如飞",
+      "onboard_time": 1731278415,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96358,
       "num": 96358,
       "word": "珠帘玉幕",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1731164841,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83314,
+      "num": 83314,
+      "word": "白锦锦 剧本",
+      "onboard_time": 1731262513,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 82769,
@@ -3075,14 +3107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74773,
-      "num": 74773,
-      "word": "万斯警告欧盟别对X平台下手",
-      "onboard_time": 1731273012,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 73807,
       "num": 472338,
       "word": "2023年黑龙江出生率全国垫底",
@@ -3131,12 +3155,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 69922,
-      "num": 69922,
-      "word": "白锦锦 剧本",
-      "onboard_time": 1731262513,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 68752,
+      "num": 68752,
+      "word": "她只是一位想夺回养狗权的妈妈",
+      "onboard_time": 1731269231,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 68007,
@@ -3187,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62623,
+      "num": 62623,
+      "word": "OBGG显示TheShy与Rookie加入iG",
+      "onboard_time": 1731280818,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61879,
       "num": 491611,
       "word": "男子自导自演被狗咬碰瓷遛狗人",
@@ -3227,20 +3259,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 59802,
+      "num": 59802,
+      "word": "邓亚萍谈王曼昱对阵王艺迪",
+      "onboard_time": 1731258495,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59535,
       "num": 326072,
       "word": "刘诗诗冷感白衬衫",
       "onboard_time": 1731241518,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 59526,
-      "num": 59526,
-      "word": "邓亚萍谈王曼昱对阵王艺迪",
-      "onboard_time": 1731258495,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 57380,
@@ -3283,12 +3315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55723,
+      "num": 55723,
+      "word": "晓华会火是击中了当下人们的软肋",
+      "onboard_time": 1731277393,
+      "rank": 35,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 55506,
       "num": 279927,
       "word": "郑钦文6比3拿下首盘",
       "onboard_time": 1731172935,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55062,
+      "num": 55062,
+      "word": "周深回应撞衫大闸蟹",
+      "onboard_time": 1731280577,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 54770,
@@ -3331,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52871,
+      "num": 52871,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52757,
       "num": 52757,
       "word": "王啸坤",
@@ -3361,6 +3417,14 @@
       "onboard_time": 1731231139,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48010,
+      "num": 48010,
+      "word": "天舟七号撤离中国空间站",
+      "onboard_time": 1731272651,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47871,
@@ -3467,14 +3531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39467,
-      "num": 39467,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39385,
       "num": 189772,
       "word": "海军陆战队员首次亮相中国航展",
@@ -3529,14 +3585,6 @@
       "onboard_time": 1731259874,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 37151,
-      "num": 37151,
-      "word": "天舟七号撤离中国空间站",
-      "onboard_time": 1731272651,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36727,
@@ -3617,14 +3665,6 @@
       "onboard_time": 1731228078,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 30016,
-      "num": 30016,
-      "word": "她只是一位想夺回养狗权的妈妈",
-      "onboard_time": 1731269231,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 29467,
@@ -3803,14 +3843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22128,
-      "num": 231433,
-      "word": "永夜星河好感度百分之99了",
-      "onboard_time": 1731252500,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22032,
       "num": 121238,
       "word": "又被郭晶晶美到了",
@@ -3897,6 +3929,14 @@
       "onboard_time": 1731260415,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17253,
+      "num": 48205,
+      "word": "文物里的舞者表情管理也是满分",
+      "onboard_time": 1731275772,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16795,
@@ -3987,6 +4027,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 9761,
+      "num": 166779,
+      "word": "中国黄岩岛上空现双彩虹景观",
+      "onboard_time": 1731280515,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8159,
       "num": 925205,
       "word": "这些橙色身影是最坚实的依靠",
@@ -3996,7 +4044,7 @@
     },
     {
       "raw_hot": 6194,
-      "num": 306472,
+      "num": 614510,
       "word": "7组数据看进博成果",
       "onboard_time": 1731242360,
       "rank": 2,
