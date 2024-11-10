@@ -1,10 +1,10 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731217030269,
+  "endTime": 1731220112581,
   "band_list": [
     {
-      "raw_hot": 3525769,
-      "num": 3525769,
+      "raw_hot": 7517165,
+      "num": 7517165,
       "word": "叶珂退网",
       "onboard_time": 1731216317,
       "rank": 0,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2873458,
+      "num": 361621,
+      "word": "黄晓明",
+      "onboard_time": 1731217579,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1577565,
       "num": 1577565,
       "word": "被传患病网红夫妇无奈离开家乡",
       "onboard_time": 1731165080,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1431932,
+      "num": 473857,
+      "word": "叶珂道歉",
+      "onboard_time": 1731216738,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1402414,
@@ -41,6 +57,14 @@
       "onboard_time": 1731166040,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1151064,
+      "num": 1151064,
+      "word": "美国滞留太空宇航员瘦成锥子脸",
+      "onboard_time": 1731218420,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1059448,
@@ -73,14 +97,6 @@
       "onboard_time": 1731204019,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 972828,
-      "num": 473857,
-      "word": "叶珂道歉",
-      "onboard_time": 1731216738,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 865857,
@@ -219,6 +235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 530587,
+      "num": 361110,
+      "word": "开封市民吐槽别来夜骑了",
+      "onboard_time": 1731218180,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506363,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 449930,
-      "num": 275403,
+      "num": 287672,
       "word": "男子大口喝下百草枯28天创造奇迹",
       "onboard_time": 1731214878,
       "rank": 20,
@@ -305,6 +329,14 @@
       "onboard_time": 1731193933,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426690,
+      "num": 426690,
+      "word": "中国提议交换月球样本美方至今没吭声",
+      "onboard_time": 1731216259,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 392424,
@@ -467,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276442,
-      "num": 276442,
+      "raw_hot": 287289,
+      "num": 287289,
       "word": "撞劳斯莱斯货车司机否认穿千元T恤",
       "onboard_time": 1731214819,
       "rank": 26,
@@ -521,6 +553,14 @@
       "onboard_time": 1731197596,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258275,
+      "num": 258275,
+      "word": "周杰伦接机昆凌",
+      "onboard_time": 1731218720,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 256141,
@@ -595,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224535,
+      "num": 224535,
+      "word": "宿主慕声",
+      "onboard_time": 1731216918,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219098,
       "num": 219098,
       "word": "男童因妈妈限制吃零食想跟爸爸",
       "onboard_time": 1731210438,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218459,
+      "num": 218459,
+      "word": "白敬亭胡先煦8年没见了",
+      "onboard_time": 1731219141,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 217689,
@@ -617,6 +673,22 @@
       "onboard_time": 1731171737,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213966,
+      "num": 293661,
+      "word": "晋江式演技",
+      "onboard_time": 1731218840,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213328,
+      "num": 213328,
+      "word": "酸奶块",
+      "onboard_time": 1731216558,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 211579,
@@ -641,14 +713,6 @@
       "onboard_time": 1731172396,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208264,
-      "num": 208264,
-      "word": "中国提议交换月球样本美方至今没吭声",
-      "onboard_time": 1731216259,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207563,
@@ -787,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180756,
+      "num": 481219,
+      "word": "为什么有些父母一开口就扫兴",
+      "onboard_time": 1731214819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180654,
       "num": 180654,
       "word": "慕子期 还以为我也被爱了呢",
@@ -867,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170635,
+      "num": 362221,
+      "word": "韩国警方租房监视素媛案原型罪犯",
+      "onboard_time": 1731218180,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169837,
       "num": 169837,
       "word": "虞书欣90后首位三平台破万演员",
@@ -891,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168193,
+      "num": 168193,
+      "word": "肖战新歌背景音是粉丝的声音",
+      "onboard_time": 1731217340,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "巴基斯坦爆炸发生时站台旅客很多",
@@ -907,11 +995,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158890,
-      "num": 158890,
-      "word": "宿主慕声",
-      "onboard_time": 1731216918,
-      "rank": 32,
+      "raw_hot": 158298,
+      "num": 158298,
+      "word": "李光洁不是林工是老公",
+      "onboard_time": 1731218299,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -977,6 +1065,14 @@
       "onboard_time": 1731164060,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140936,
+      "num": 140936,
+      "word": "毛绒帽真的可以改变脑袋形状",
+      "onboard_time": 1731218420,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 140669,
@@ -1091,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131998,
+      "num": 131998,
+      "word": "谢可寅一声阿耶叫得人心碎",
+      "onboard_time": 1731217820,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130621,
       "num": 130621,
       "word": "女子收50万彩礼后与前男友去宾馆",
@@ -1137,6 +1241,22 @@
       "onboard_time": 1731167960,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123956,
+      "num": 123956,
+      "word": "高芙盛赞郑钦文",
+      "onboard_time": 1731219380,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122872,
+      "num": 122872,
+      "word": "近距离看苏57太细节了",
+      "onboard_time": 1731219861,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 120959,
@@ -1283,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103091,
-      "num": 103091,
-      "word": "酸奶块",
-      "onboard_time": 1731216558,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 102611,
       "num": 102611,
       "word": "戚薇时代少年团合作",
@@ -1331,12 +1443,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98030,
+      "num": 98030,
+      "word": "周深演唱会的裤子是连续剧",
+      "onboard_time": 1731218959,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96358,
       "num": 96358,
       "word": "珠帘玉幕",
       "onboard_time": 1731215959,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96279,
+      "num": 96279,
+      "word": "苏57运20直8罕见同框",
+      "onboard_time": 1731219199,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 95060,
@@ -1473,14 +1601,6 @@
       "onboard_time": 1731209298,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64682,
-      "num": 481219,
-      "word": "为什么有些父母一开口就扫兴",
-      "onboard_time": 1731214819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61515,
@@ -1769,6 +1889,22 @@
       "onboard_time": 1731172217,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25578,
+      "num": 133727,
+      "word": "郑钦文追平亚洲球员最好成绩",
+      "onboard_time": 1731218840,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25571,
+      "num": 287823,
+      "word": "刷情人卡给妻子转账情人被判自担风险",
+      "onboard_time": 1731218420,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25479,
