@@ -1,0 +1,410 @@
+{
+  "runTime": 1731213562386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430227,
+        "num": 1430227,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782893,
+        "num": 782893,
+        "word": "你好星期六半脸卸妆",
+        "onboard_time": 1731206178,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29161,
+        "num": 768103,
+        "word": "双座歼20模型亮相中国航展",
+        "onboard_time": 1731204678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761910,
+        "num": 761910,
+        "word": "盒马鲜生回应疑孩子摔倒妈妈砸店",
+        "onboard_time": 1731209478,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593285,
+        "num": 593285,
+        "word": "年轻人为什么爱上电子布洛芬",
+        "onboard_time": 1731209778,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 583622,
+        "num": 583622,
+        "word": "我喜欢子期变繁体了",
+        "onboard_time": 1731207317,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478304,
+        "num": 478304,
+        "word": "理发师晓华说30元的价格不低",
+        "onboard_time": 1731199397,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347635,
+        "num": 347635,
+        "word": "晓华回应被怼30元拉低行业档次",
+        "onboard_time": 1731205221,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346067,
+        "num": 346067,
+        "word": "买到40条假中华获退赔10万",
+        "onboard_time": 1731204019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333104,
+        "num": 333104,
+        "word": "狐妖竹业篇 竹影王权",
+        "onboard_time": 1731212717,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 839310,
+        "num": 332650,
+        "word": "翁青雅好友发文",
+        "onboard_time": 1731209358,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115563,
+        "num": 325452,
+        "word": "歼35A高清壁纸来了",
+        "onboard_time": 1731211578,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 649835,
+        "num": 316637,
+        "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
+        "onboard_time": 1731210497,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348643,
+        "num": 313224,
+        "word": "飞机偶遇田曦薇",
+        "onboard_time": 1731210679,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309876,
+        "num": 309876,
+        "word": "被晓华爆改成易烊千玺男生发声",
+        "onboard_time": 1731212477,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 196831,
+        "num": 301592,
+        "word": "落跑新娘凌妙妙",
+        "onboard_time": 1731213078,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300630,
+        "num": 300630,
+        "word": "肖战首专唱片公司肖战工作室",
+        "onboard_time": 1731208159,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290679,
+        "num": 290679,
+        "word": "慕声柳拂衣 老公寄存处",
+        "onboard_time": 1731210017,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235043,
+        "num": 235043,
+        "word": "将门毒后",
+        "onboard_time": 1731165678,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31250,
+        "num": 232350,
+        "word": "刘敏涛天猫双11广告超疯的",
+        "onboard_time": 1731211458,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380880,
+        "num": 227805,
+        "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+        "onboard_time": 1731209478,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265206,
+        "num": 224733,
+        "word": "何炅说最害怕只有名字上热搜",
+        "onboard_time": 1731209657,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176505,
+        "num": 220692,
+        "word": "向佐也有站子了",
+        "onboard_time": 1731212359,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219098,
+        "num": 219098,
+        "word": "男童因妈妈限制吃零食想跟爸爸",
+        "onboard_time": 1731210438,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211090,
+        "num": 211090,
+        "word": "店家回应2男子点烤鱼后偷偷溜走",
+        "onboard_time": 1731210918,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180657,
+        "num": 180657,
+        "word": "福州建立教育局局长学校陪餐制",
+        "onboard_time": 1731207438,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197730,
+        "num": 177132,
+        "word": "有镯生没镯养",
+        "onboard_time": 1731210798,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172251,
+        "num": 172251,
+        "word": "丁禹兮 天选慕声",
+        "onboard_time": 1731207738,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408104,
+        "num": 172063,
+        "word": "幼儿园老师用竹签疯狂虐待孩子",
+        "onboard_time": 1731202038,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42900,
+        "num": 171337,
+        "word": "郑钦文说我是比赛中更有统治力的人",
+        "onboard_time": 1731213318,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 170725,
+        "word": "曝黄晓明叶珂没领证",
+        "onboard_time": 1731210857,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160696,
+        "num": 160696,
+        "word": "宋佳要娶的女人太多了",
+        "onboard_time": 1731212537,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155438,
+        "num": 155438,
+        "word": "粉笔模考",
+        "onboard_time": 1731208338,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155017,
+        "num": 155017,
+        "word": "妈妈看2岁儿子拍碎6000元电视",
+        "onboard_time": 1731205457,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153537,
+        "num": 153537,
+        "word": "歼-20发射导弹击落目标",
+        "onboard_time": 1731210076,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142908,
+        "num": 142908,
+        "word": "陈少熙因病缺席十个勤天演唱会",
+        "onboard_time": 1731203839,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 136099,
+        "word": "李宏毅古装",
+        "onboard_time": 1731212537,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134429,
+        "num": 134429,
+        "word": "宁静谢娜戚薇三代浪姐合体",
+        "onboard_time": 1731213257,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133598,
+        "num": 133598,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131374,
+        "num": 131374,
+        "word": "700一吨买土豆土比土豆多",
+        "onboard_time": 1731198918,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130356,
+        "num": 130356,
+        "word": "假如让古人来卖货",
+        "onboard_time": 1731213439,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127320,
+        "num": 127320,
+        "word": "郑钦文回应获亚军",
+        "onboard_time": 1731193933,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124486,
+        "num": 124486,
+        "word": "网红夫妇称做多项检查不存在传染病",
+        "onboard_time": 1731197776,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22032,
+        "num": 121238,
+        "word": "又被郭晶晶美到了",
+        "onboard_time": 1731211397,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118840,
+        "num": 118840,
+        "word": "杨仕泽 今后有你们无聊的",
+        "onboard_time": 1731210377,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104815,
+        "num": 104815,
+        "word": "白敬亭沈腾 牵牛花",
+        "onboard_time": 1731213197,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103341,
+        "num": 103341,
+        "word": "凌妙妙坦白",
+        "onboard_time": 1731210557,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100375,
+        "num": 100375,
+        "word": "歼20S亮相",
+        "onboard_time": 1731201738,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 101106,
+        "num": 100373,
+        "word": "子期认识简体字",
+        "onboard_time": 1731200357,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99664,
+        "num": 99664,
+        "word": "人民空军75载搏击长空",
+        "onboard_time": 1731213498,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文明瑰宝永续留存泽惠后人#"
+    }
+  }
+}
