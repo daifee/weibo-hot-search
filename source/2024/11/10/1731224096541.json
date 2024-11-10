@@ -1,0 +1,410 @@
+{
+  "runTime": 1731224096541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5283627,
+        "num": 5283627,
+        "word": "叶珂退网",
+        "onboard_time": 1731216317,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1308510,
+        "num": 1308510,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10144,
+        "num": 869821,
+        "word": "双座歼20模型亮相中国航展",
+        "onboard_time": 1731204678,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 629746,
+        "num": 629746,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368481,
+        "num": 368481,
+        "word": "黑龙江出生率再创历史新低",
+        "onboard_time": 1731220520,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758065,
+        "num": 368362,
+        "word": "叶珂道歉",
+        "onboard_time": 1731216738,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400223,
+        "num": 368069,
+        "word": "徐海乔评论区",
+        "onboard_time": 1731221121,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370876,
+        "num": 366949,
+        "word": "落跑新娘凌妙妙",
+        "onboard_time": 1731213078,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365706,
+        "num": 365706,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73807,
+        "num": 361418,
+        "word": "2023年黑龙江出生率全国垫底",
+        "onboard_time": 1731223521,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2054339,
+        "num": 347801,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1567020,
+        "num": 339614,
+        "word": "黄晓明",
+        "onboard_time": 1731217579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483931,
+        "num": 334581,
+        "word": "酸奶块",
+        "onboard_time": 1731216558,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327618,
+        "num": 327618,
+        "word": "买金条打三金能便宜多少",
+        "onboard_time": 1731220461,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 306700,
+        "num": 306700,
+        "word": "无忧渡真的要来了",
+        "onboard_time": 1731223100,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303033,
+        "num": 303033,
+        "word": "中国提议交换月球样本美方至今没吭声",
+        "onboard_time": 1731216259,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289789,
+        "num": 289789,
+        "word": "李行亮画的麦琳",
+        "onboard_time": 1731221660,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228442,
+        "num": 228442,
+        "word": "翁青雅好友发文",
+        "onboard_time": 1731209358,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221681,
+        "num": 221681,
+        "word": "被晓华爆改成易烊千玺男生发声",
+        "onboard_time": 1731212477,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 173900,
+        "num": 219650,
+        "word": "周也病娇感",
+        "onboard_time": 1731223160,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1328207,
+        "num": 218581,
+        "word": "开封市民吐槽别来夜骑了",
+        "onboard_time": 1731218180,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376784,
+        "num": 216911,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262542,
+        "num": 215149,
+        "word": "男子大口喝下百草枯28天创造奇迹",
+        "onboard_time": 1731214878,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222108,
+        "num": 212596,
+        "word": "宋亚轩陪孔夫子回家了",
+        "onboard_time": 1731209418,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211527,
+        "num": 211527,
+        "word": "你好星期六半脸卸妆",
+        "onboard_time": 1731206178,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206385,
+        "num": 206385,
+        "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+        "onboard_time": 1731209478,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201722,
+        "num": 201722,
+        "word": "晋江式演技",
+        "onboard_time": 1731218840,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198317,
+        "num": 198317,
+        "word": "虞书欣 优酸乳",
+        "onboard_time": 1731222559,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162126,
+        "num": 188976,
+        "word": "韩国警方租房监视素媛案原型罪犯",
+        "onboard_time": 1731218180,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23088,
+        "num": 183070,
+        "word": "郑钦文谈站在球场上的意义",
+        "onboard_time": 1731223220,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182546,
+        "num": 182546,
+        "word": "狐妖竹业篇 竹影王权",
+        "onboard_time": 1731212717,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175406,
+        "num": 175406,
+        "word": "NASA坚称2名滞留宇航员很健康",
+        "onboard_time": 1731220100,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172946,
+        "num": 172946,
+        "word": "才发现外面的世界在偷偷进步了",
+        "onboard_time": 1731222079,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167346,
+        "num": 167346,
+        "word": "谁教于文文这么扭的",
+        "onboard_time": 1731222679,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165106,
+        "num": 165106,
+        "word": "鞠婧祎红昭愿名场面一眼万年",
+        "onboard_time": 1731222380,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159693,
+        "num": 159693,
+        "word": "宿主慕声",
+        "onboard_time": 1731216918,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158830,
+        "num": 158830,
+        "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
+        "onboard_time": 1731210497,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136204,
+        "num": 136204,
+        "word": "理发师晓华说30元的价格不低",
+        "onboard_time": 1731199397,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140695,
+        "num": 135143,
+        "word": "美媒测算特朗普已获得312张选举人票",
+        "onboard_time": 1731223639,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132628,
+        "num": 132628,
+        "word": "周杰伦接机昆凌",
+        "onboard_time": 1731218720,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123571,
+        "num": 123571,
+        "word": "白敬亭胡先煦8年没见了",
+        "onboard_time": 1731219141,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114422,
+        "num": 114422,
+        "word": "3条腿警犬考核通关又帅又燃",
+        "onboard_time": 1731222978,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109430,
+        "num": 109430,
+        "word": "撞劳斯莱斯货车司机否认穿千元T恤",
+        "onboard_time": 1731214819,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108721,
+        "num": 108721,
+        "word": "毛绒帽真的可以改变脑袋形状",
+        "onboard_time": 1731218420,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108358,
+        "num": 108358,
+        "word": "肖战新歌背景音是粉丝的声音",
+        "onboard_time": 1731217340,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106822,
+        "num": 106822,
+        "word": "付款方式莫名变成了先用后付",
+        "onboard_time": 1731223820,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104735,
+        "num": 104735,
+        "word": "年轻人为什么爱上电子布洛芬",
+        "onboard_time": 1731209778,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98377,
+        "num": 98377,
+        "word": "我喜欢子期变繁体了",
+        "onboard_time": 1731207317,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97333,
+        "num": 97333,
+        "word": "高芙盛赞郑钦文",
+        "onboard_time": 1731219380,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95048,
+        "num": 95048,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切领略大美西部#"
+    }
+  }
+}
