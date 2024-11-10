@@ -1,0 +1,410 @@
+{
+  "runTime": 1731245698189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1238388,
+        "num": 1238388,
+        "word": "劳斯莱斯女车主哽咽否认炒作",
+        "onboard_time": 1731237860,
+        "rank": 0,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 948871,
+        "num": 948871,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65046,
+        "num": 857979,
+        "word": "一图看懂黄岩岛领海基线",
+        "onboard_time": 1731242540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842167,
+        "num": 842167,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461209,
+        "num": 461209,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1731242121,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448281,
+        "num": 448281,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 593431,
+        "num": 448171,
+        "word": "权志龙点赞玩自己梗的网友",
+        "onboard_time": 1731241759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324697,
+        "num": 441330,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1731243560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511518,
+        "num": 430430,
+        "word": "何与 双轨",
+        "onboard_time": 1731243198,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255716,
+        "num": 423420,
+        "word": "盒马鲜生被砸门店称可起诉",
+        "onboard_time": 1731242540,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577527,
+        "num": 421601,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505100,
+        "num": 410974,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 409151,
+        "num": 409151,
+        "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+        "onboard_time": 1731238099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19534,
+        "num": 400518,
+        "word": "王曼昱连得9分",
+        "onboard_time": 1731245540,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80533,
+        "num": 397296,
+        "word": "天猫双11疯狂好六夜真的好疯",
+        "onboard_time": 1731243619,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394464,
+        "num": 394464,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392160,
+        "num": 392160,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379920,
+        "num": 379920,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375436,
+        "num": 375436,
+        "word": "小侯爷人真好",
+        "onboard_time": 1731238099,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262357,
+        "num": 262357,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 19,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 486068,
+        "num": 258805,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370305,
+        "num": 255150,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341777,
+        "num": 247216,
+        "word": "时代少年团梦舞台",
+        "onboard_time": 1731245300,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324397,
+        "num": 242139,
+        "word": "慕瑶 蓝兔",
+        "onboard_time": 1731240560,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240494,
+        "num": 240494,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 308460,
+        "num": 217938,
+        "word": "世界上有一半的人都会流血",
+        "onboard_time": 1731244701,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243711,
+        "num": 202221,
+        "word": "杨迪娜扎跳troublemaker",
+        "onboard_time": 1731242839,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182173,
+        "num": 182173,
+        "word": "苏57飞行员幽默回答为什么爱飞行",
+        "onboard_time": 1731244399,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 168000,
+        "num": 168000,
+        "word": "我承认之前对小侯爷声音大了点",
+        "onboard_time": 1731241459,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41245,
+        "num": 167931,
+        "word": "听大张伟刘宇宁的歌太费头",
+        "onboard_time": 1731245361,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219050,
+        "num": 167871,
+        "word": "疯狂好六夜节目单",
+        "onboard_time": 1731241999,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151448,
+        "num": 167657,
+        "word": "国产三蹦子在意大利车展火了",
+        "onboard_time": 1731243619,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219035,
+        "num": 167572,
+        "word": "王一栩 费启鸣你发誓别带上我",
+        "onboard_time": 1731242180,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193189,
+        "num": 167432,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182615,
+        "num": 167295,
+        "word": "小巷人家",
+        "onboard_time": 1731241339,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180166,
+        "num": 167157,
+        "word": "大鹏说王一博提名金鸡奖领全组激动",
+        "onboard_time": 1731245479,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167113,
+        "num": 167113,
+        "word": "四大扛剧小生",
+        "onboard_time": 1731235160,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157502,
+        "num": 157502,
+        "word": "比特币",
+        "onboard_time": 1731243380,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154212,
+        "num": 154212,
+        "word": "闫妮檀健次金风玉露",
+        "onboard_time": 1731243560,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151051,
+        "num": 151051,
+        "word": "中国扎染每次打开都是开盲盒的惊喜",
+        "onboard_time": 1731245600,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44413,
+        "num": 150629,
+        "word": "网友称晓华的店为怀化5A级景区",
+        "onboard_time": 1731243619,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38459,
+        "num": 150394,
+        "word": "林诗栋vs卡尔伯格",
+        "onboard_time": 1731243619,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150336,
+        "num": 150336,
+        "word": "歼20S战斗机正式揭开神秘面纱",
+        "onboard_time": 1731243560,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 149801,
+        "num": 149801,
+        "word": "林青霞姜涛牵手出席活动",
+        "onboard_time": 1731236717,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146249,
+        "num": 146249,
+        "word": "22岁大学生倒在雪山上",
+        "onboard_time": 1731239419,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145008,
+        "num": 145008,
+        "word": "娜扎 猫女还原度",
+        "onboard_time": 1731242481,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37876,
+        "num": 142595,
+        "word": "老人黄昏恋花1万6后人消失了",
+        "onboard_time": 1731243619,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141159,
+        "num": 141159,
+        "word": "分享欲才是两个人感情最好的证明",
+        "onboard_time": 1731234859,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139070,
+        "num": 139070,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136915,
+        "num": 136915,
+        "word": "白百何 观众缘",
+        "onboard_time": 1731225259,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}

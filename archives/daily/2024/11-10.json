@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731244998323,
+  "endTime": 1731245698189,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842167,
+      "num": 842167,
+      "word": "费启鸣 请苍天辨忠奸",
+      "onboard_time": 1731242960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -267,14 +275,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 690134,
-      "num": 690134,
-      "word": "费启鸣 请苍天辨忠奸",
-      "onboard_time": 1731242960,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 665745,
       "num": 665745,
       "word": "山西一家三口烧煤取暖中毒身亡",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 645890,
-      "num": 431550,
+      "num": 448171,
       "word": "权志龙点赞玩自己梗的网友",
       "onboard_time": 1731241759,
       "rank": 18,
@@ -435,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511518,
+      "num": 430430,
+      "word": "何与 双轨",
+      "onboard_time": 1731243198,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506363,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
       "onboard_time": 1731167719,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505100,
+      "num": 418445,
+      "word": "美国多州欲立法抵制特朗普施政",
+      "onboard_time": 1731238758,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 499675,
@@ -465,6 +481,14 @@
       "onboard_time": 1731216558,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 486068,
+      "num": 277888,
+      "word": "李行亮觉醒",
+      "onboard_time": 1731244399,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 484898,
@@ -499,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 468187,
-      "num": 418445,
-      "word": "美国多州欲立法抵制特朗普施政",
-      "onboard_time": 1731238758,
-      "rank": 21,
-      "category": "国外时政"
+      "raw_hot": 461209,
+      "num": 461209,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 451310,
@@ -545,14 +569,6 @@
       "onboard_time": 1731208159,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 440121,
-      "num": 440121,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1731242121,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 436631,
@@ -643,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376212,
-      "num": 376212,
-      "word": "何与 双轨",
-      "onboard_time": 1731243198,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375803,
       "num": 234589,
       "word": "何炅说最害怕只有名字上热搜",
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341777,
+      "num": 247216,
+      "word": "时代少年团梦舞台",
+      "onboard_time": 1731245300,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340370,
       "num": 340370,
       "word": "国产新机上市老款iPhone跌至半价",
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 338831,
-      "num": 338831,
+      "num": 423420,
       "word": "盒马鲜生被砸门店称可起诉",
       "onboard_time": 1731242540,
       "rank": 24,
@@ -761,6 +777,14 @@
       "onboard_time": 1731208338,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 324697,
+      "num": 441330,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1731234560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 322074,
@@ -785,6 +809,14 @@
       "onboard_time": 1731237979,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308460,
+      "num": 217938,
+      "word": "世界上有一半的人都会流血",
+      "onboard_time": 1731244701,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 302804,
@@ -872,14 +904,6 @@
       "word": "疯狂好六夜节目单",
       "onboard_time": 1731241999,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 277888,
-      "num": 277888,
-      "word": "李行亮觉醒",
-      "onboard_time": 1731244399,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1315,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202954,
-      "num": 429636,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1731234560,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202592,
       "num": 202592,
       "word": "杨紫许凯获中美电视节优秀青年演员",
@@ -1507,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181544,
-      "num": 181544,
-      "word": "世界上有一半的人都会流血",
-      "onboard_time": 1731244701,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 180758,
       "num": 180758,
       "word": "公立医院洗牌时代真的来了",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1731214639,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180166,
+      "num": 167157,
+      "word": "大鹏说王一博提名金鸡奖领全组激动",
+      "onboard_time": 1731245479,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 178547,
@@ -1675,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168000,
+      "num": 168000,
+      "word": "我承认之前对小侯爷声音大了点",
+      "onboard_time": 1731241459,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167860,
       "num": 167860,
       "word": "闫妮檀健次金风玉露",
@@ -1779,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157502,
+      "num": 157502,
+      "word": "比特币",
+      "onboard_time": 1731243380,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156645,
       "num": 156645,
       "word": "大理第一场雪",
@@ -1843,12 +1875,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151928,
-      "num": 151928,
-      "word": "我承认之前对小侯爷声音大了点",
-      "onboard_time": 1731241459,
+      "raw_hot": 151448,
+      "num": 427958,
+      "word": "国产三蹦子在意大利车展火了",
+      "onboard_time": 1731243619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151051,
+      "num": 151051,
+      "word": "中国扎染每次打开都是开盲盒的惊喜",
+      "onboard_time": 1731245600,
       "rank": 39,
-      "category": "情感"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150336,
+      "num": 150336,
+      "word": "歼20S战斗机正式揭开神秘面纱",
+      "onboard_time": 1731243560,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 149567,
@@ -1873,14 +1921,6 @@
       "onboard_time": 1731160281,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145586,
-      "num": 145586,
-      "word": "歼20S战斗机正式揭开神秘面纱",
-      "onboard_time": 1731243560,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 144949,
@@ -2001,14 +2041,6 @@
       "onboard_time": 1731215959,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136529,
-      "num": 136529,
-      "word": "比特币",
-      "onboard_time": 1731243380,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 136099,
@@ -2256,14 +2288,6 @@
       "word": "十年时间只做一件事情有多卷",
       "onboard_time": 1731211098,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106209,
-      "num": 427958,
-      "word": "国产三蹦子在意大利车展火了",
-      "onboard_time": 1731243619,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2515,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80533,
+      "num": 420655,
+      "word": "天猫双11疯狂好六夜真的好疯",
+      "onboard_time": 1731243619,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79659,
       "num": 79659,
       "word": "鹿晗西安",
@@ -2595,14 +2627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71253,
-      "num": 420655,
-      "word": "天猫双11疯狂好六夜真的好疯",
-      "onboard_time": 1731243619,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68007,
       "num": 68007,
       "word": "这是怎么做到又老又年轻的",
@@ -2627,7 +2651,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63962,
+      "raw_hot": 65046,
       "num": 922492,
       "word": "一图看懂黄岩岛领海基线",
       "onboard_time": 1731242540,
@@ -2827,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44413,
+      "num": 422694,
+      "word": "网友称晓华的店为怀化5A级景区",
+      "onboard_time": 1731243619,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44078,
       "num": 50814,
       "word": "俄勇士在珠海首次展示六机编队桶滚",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1731237560,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 41245,
+      "num": 167931,
+      "word": "听大张伟刘宇宁的歌太费头",
+      "onboard_time": 1731245361,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 40812,
@@ -2899,12 +2939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38459,
+      "num": 421491,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37894,
       "num": 248180,
       "word": "忙了一天的勇士飞行表演队下班了",
       "onboard_time": 1731168917,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 37876,
+      "num": 391475,
+      "word": "老人黄昏恋花1万6后人消失了",
+      "onboard_time": 1731243619,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37619,
@@ -2971,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32059,
-      "num": 421491,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1731243619,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31764,
       "num": 162573,
       "word": "巴基斯坦火车站爆炸死亡人数升至25人",
@@ -3001,14 +3049,6 @@
       "onboard_time": 1731228078,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 29624,
-      "num": 422694,
-      "word": "网友称晓华的店为怀化5A级景区",
-      "onboard_time": 1731243619,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29467,
@@ -3171,12 +3211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20283,
-      "num": 391475,
-      "word": "老人黄昏恋花1万6后人消失了",
-      "onboard_time": 1731243619,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 19534,
+      "num": 400518,
+      "word": "王曼昱连得9分",
+      "onboard_time": 1731245540,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 18667,
