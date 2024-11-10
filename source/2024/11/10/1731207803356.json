@@ -1,0 +1,410 @@
+{
+  "runTime": 1731207803356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2152533,
+        "num": 2152533,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992738,
+        "num": 992738,
+        "word": "买到40条假中华获退赔10万",
+        "onboard_time": 1731204019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7597,
+        "num": 925205,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881821,
+        "num": 881821,
+        "word": "你好星期六半脸卸妆",
+        "onboard_time": 1731206178,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868358,
+        "num": 868358,
+        "word": "幼儿园老师用竹签疯狂虐待孩子",
+        "onboard_time": 1731202038,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737240,
+        "num": 737240,
+        "word": "理发师晓华说30元的价格不低",
+        "onboard_time": 1731199397,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542578,
+        "num": 542578,
+        "word": "子期认识简体字",
+        "onboard_time": 1731200357,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399682,
+        "num": 399682,
+        "word": "将门毒后",
+        "onboard_time": 1731165678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336509,
+        "num": 336509,
+        "word": "歼20S亮相",
+        "onboard_time": 1731201738,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127642,
+        "num": 317264,
+        "word": "安徽六安通报一幼师体罚学生",
+        "onboard_time": 1731205697,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300795,
+        "num": 300795,
+        "word": "国产新机上市老款iPhone跌至半价",
+        "onboard_time": 1731202458,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287670,
+        "num": 287670,
+        "word": "郑钦文回应获亚军",
+        "onboard_time": 1731193933,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287122,
+        "num": 287122,
+        "word": "陈少熙因病缺席十个勤天演唱会",
+        "onboard_time": 1731203839,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17715,
+        "num": 276610,
+        "word": "炒股小心掉进杀猪盘陷阱",
+        "onboard_time": 1731207617,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15528,
+        "num": 274601,
+        "word": "山东你到底有多少好品",
+        "onboard_time": 1731207617,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140803,
+        "num": 273667,
+        "word": "晓华回应被怼30元拉低行业档次",
+        "onboard_time": 1731205221,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273102,
+        "num": 273102,
+        "word": "有同行称晓华让美发行业倒退10年",
+        "onboard_time": 1731199757,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252367,
+        "num": 252367,
+        "word": "普京签署俄朝全面战略伙伴关系条约",
+        "onboard_time": 1731203057,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17638,
+        "num": 246101,
+        "word": "大额存单进入1时代",
+        "onboard_time": 1731207617,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243544,
+        "num": 243544,
+        "word": "我喜欢子期变繁体了",
+        "onboard_time": 1731207317,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267205,
+        "num": 243129,
+        "word": "叶珂否认给黄晓明花了1000万",
+        "onboard_time": 1731199336,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240770,
+        "num": 240770,
+        "word": "曾黎发文给赵露思庆生",
+        "onboard_time": 1731202577,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238905,
+        "num": 238905,
+        "word": "妈妈看2岁儿子拍碎6000元电视",
+        "onboard_time": 1731205457,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238758,
+        "num": 238758,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 225354,
+        "word": "一起解锁漫游山东新姿势",
+        "onboard_time": 1731205757,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220322,
+        "num": 220322,
+        "word": "网红夫妇称做多项检查不存在传染病",
+        "onboard_time": 1731197776,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220224,
+        "num": 220224,
+        "word": "祖国一旦有需要反正那就干",
+        "onboard_time": 1731200658,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176468,
+        "num": 215842,
+        "word": "一座小岛在两个月内搜索量破亿",
+        "onboard_time": 1731207021,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 213019,
+        "word": "张韶涵回应郑钦文赛前听欧若拉",
+        "onboard_time": 1731196936,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 150841,
+        "num": 208927,
+        "word": "邓超孙俪一家四口颜值",
+        "onboard_time": 1731195675,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23766,
+        "num": 203650,
+        "word": "来自好品山东的亿点点震撼",
+        "onboard_time": 1731204318,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202486,
+        "num": 202486,
+        "word": "年轻人不再局限于传统相亲",
+        "onboard_time": 1731204739,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196605,
+        "num": 196605,
+        "word": "700一吨买土豆土比土豆多",
+        "onboard_time": 1731198918,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187544,
+        "num": 187544,
+        "word": "双座歼20模型亮相中国航展",
+        "onboard_time": 1731204678,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 172255,
+        "num": 172255,
+        "word": "晓华爆改男大剪完神似易烊千玺",
+        "onboard_time": 1731193213,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 161017,
+        "num": 161017,
+        "word": "网上很火但你很反感的梗",
+        "onboard_time": 1731195734,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147246,
+        "num": 147246,
+        "word": "内娱又有troublemaker上新",
+        "onboard_time": 1731164660,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35604,
+        "num": 141940,
+        "word": "郑钦文说会尝试忘掉比赛失利",
+        "onboard_time": 1731206297,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139371,
+        "num": 139371,
+        "word": "郑钦文说输球并不是运气不好",
+        "onboard_time": 1731201438,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44580,
+        "num": 138487,
+        "word": "好客山东好品山东云端推介",
+        "onboard_time": 1731207617,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138412,
+        "num": 138412,
+        "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+        "onboard_time": 1731172635,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138045,
+        "num": 138045,
+        "word": "美国队长4正式预告",
+        "onboard_time": 1731203658,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137766,
+        "num": 137766,
+        "word": "李行亮儿子穿姐姐剩下的衣服",
+        "onboard_time": 1731200237,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133966,
+        "num": 133966,
+        "word": "迈阿密国际vs亚特兰大联",
+        "onboard_time": 1731206657,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133784,
+        "num": 133784,
+        "word": "大屏的鹿晗",
+        "onboard_time": 1731202759,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127369,
+        "num": 127369,
+        "word": "王玉雯 破碎感",
+        "onboard_time": 1731205998,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126086,
+        "num": 126086,
+        "word": "飞行员第一次开战机忍不住唱歌",
+        "onboard_time": 1731197957,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122177,
+        "num": 122177,
+        "word": "福州建立教育局局长学校陪餐制",
+        "onboard_time": 1731207438,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119988,
+        "num": 119988,
+        "word": "丁禹兮 天选慕声",
+        "onboard_time": 1731207738,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117018,
+        "num": 117018,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1731164961,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    }
+  }
+}
