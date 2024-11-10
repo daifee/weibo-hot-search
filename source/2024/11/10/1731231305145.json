@@ -1,0 +1,410 @@
+{
+  "runTime": 1731231305145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1469469,
+        "num": 1469469,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 0,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 836899,
+        "num": 836899,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14666,
+        "num": 627316,
+        "word": "进博会服务贸易展区体验感满满",
+        "onboard_time": 1731229159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612681,
+        "num": 612681,
+        "word": "白百何 观众缘",
+        "onboard_time": 1731225259,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611015,
+        "num": 611015,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1695178,
+        "num": 610864,
+        "word": "叶珂退网",
+        "onboard_time": 1731216317,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594831,
+        "num": 594831,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 519544,
+        "num": 519544,
+        "word": "赵露思工作室",
+        "onboard_time": 1731227419,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484682,
+        "num": 484682,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480156,
+        "num": 480156,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975947,
+        "num": 478445,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643319,
+        "num": 477270,
+        "word": "黄晓明",
+        "onboard_time": 1731217579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480252,
+        "num": 475137,
+        "word": "叶珂道歉",
+        "onboard_time": 1731216738,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43364,
+        "num": 472338,
+        "word": "2023年黑龙江出生率全国垫底",
+        "onboard_time": 1731223521,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471321,
+        "num": 471321,
+        "word": "虞书欣亮相曼谷",
+        "onboard_time": 1731230058,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 431949,
+        "num": 431949,
+        "word": "黑龙江出生率再创历史新低",
+        "onboard_time": 1731220520,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404283,
+        "num": 429382,
+        "word": "花粉地狱",
+        "onboard_time": 1731230479,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30632,
+        "num": 426161,
+        "word": "狼队对战KSG",
+        "onboard_time": 1731230420,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326824,
+        "num": 416988,
+        "word": "虞书欣泰国生图",
+        "onboard_time": 1731231199,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49903,
+        "num": 413360,
+        "word": "国乒提前包揽女单冠亚军",
+        "onboard_time": 1731231139,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111794,
+        "num": 407372,
+        "word": "徐冬冬 我会一直继续性感",
+        "onboard_time": 1731230599,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404589,
+        "num": 404589,
+        "word": "黄岩岛领海基线",
+        "onboard_time": 1731227239,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362225,
+        "num": 362225,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 337514,
+        "num": 337514,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303025,
+        "num": 303025,
+        "word": "麦琳情商",
+        "onboard_time": 1731229880,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240627,
+        "num": 240627,
+        "word": "迪丽热巴粉衣撑伞路透",
+        "onboard_time": 1731224359,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216585,
+        "num": 216585,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208959,
+        "num": 208959,
+        "word": "徐海乔评论区",
+        "onboard_time": 1731221121,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202130,
+        "num": 202130,
+        "word": "男子大口喝下百草枯28天创造奇迹",
+        "onboard_time": 1731214878,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200554,
+        "num": 200554,
+        "word": "芒果男艺人上你好星期六被泼成熏鸡",
+        "onboard_time": 1731225079,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262344,
+        "num": 198979,
+        "word": "用真肉做的全透明汉堡",
+        "onboard_time": 1731230058,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196622,
+        "num": 196622,
+        "word": "无忧渡真的要来了",
+        "onboard_time": 1731223100,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45182,
+        "num": 185140,
+        "word": "你有没有为噗噗拼过命",
+        "onboard_time": 1731227659,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174763,
+        "num": 174763,
+        "word": "中国提议交换月球样本美方至今没吭声",
+        "onboard_time": 1731216259,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172192,
+        "num": 172192,
+        "word": "男子被相亲对象拒绝行凶逃亡23年",
+        "onboard_time": 1731225918,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167901,
+        "num": 167901,
+        "word": "黄岩岛",
+        "onboard_time": 1731229999,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162014,
+        "num": 162014,
+        "word": "陈都灵的哭戏",
+        "onboard_time": 1731230358,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154486,
+        "num": 154486,
+        "word": "我姥一分钱不花做了八菜一汤",
+        "onboard_time": 1731229939,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147109,
+        "num": 147109,
+        "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+        "onboard_time": 1731209478,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138871,
+        "num": 138871,
+        "word": "王栎鑫体面人",
+        "onboard_time": 1731227300,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135551,
+        "num": 135551,
+        "word": "美媒测算特朗普已获得312张选举人票",
+        "onboard_time": 1731223639,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54552,
+        "num": 128304,
+        "word": "多个基金经理砍仓白酒股",
+        "onboard_time": 1731229220,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127382,
+        "num": 127382,
+        "word": "李宏毅孙珍妮体型差",
+        "onboard_time": 1731225559,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126290,
+        "num": 126290,
+        "word": "综艺史上最歹毒的惩罚",
+        "onboard_time": 1731226879,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61879,
+        "num": 126071,
+        "word": "男子自导自演被狗咬碰瓷遛狗人",
+        "onboard_time": 1731229220,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126000,
+        "num": 126000,
+        "word": "俄罗斯苏57战斗机空中悬停",
+        "onboard_time": 1731227898,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 125570,
+        "num": 125570,
+        "word": "落跑新娘凌妙妙",
+        "onboard_time": 1731213078,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125051,
+        "num": 125051,
+        "word": "南天门计划白帝空天战机亮相航展",
+        "onboard_time": 1731230241,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 123180,
+        "num": 123180,
+        "word": "鞠婧祎红昭愿名场面一眼万年",
+        "onboard_time": 1731222380,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119227,
+        "num": 119227,
+        "word": "Rookie白色月牙谈iG重组",
+        "onboard_time": 1731227538,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}
