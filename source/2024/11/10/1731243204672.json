@@ -1,0 +1,410 @@
+{
+  "runTime": 1731243204672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1706351,
+        "num": 1706351,
+        "word": "劳斯莱斯女车主哽咽否认炒作",
+        "onboard_time": 1731237860,
+        "rank": 0,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 938368,
+        "num": 938368,
+        "word": "小侯爷人真好",
+        "onboard_time": 1731238099,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39292,
+        "num": 922492,
+        "word": "一图看懂黄岩岛领海基线",
+        "onboard_time": 1731242540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 913129,
+        "num": 913129,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431065,
+        "num": 431065,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430814,
+        "num": 430814,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 619901,
+        "num": 430626,
+        "word": "权志龙点赞玩自己梗的网友",
+        "onboard_time": 1731241759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428360,
+        "num": 428360,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397104,
+        "num": 397104,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412299,
+        "num": 395675,
+        "word": "林青霞姜涛牵手出席活动",
+        "onboard_time": 1731236717,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1011585,
+        "num": 394407,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556615,
+        "num": 391146,
+        "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+        "onboard_time": 1731238099,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448392,
+        "num": 388783,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35966,
+        "num": 385147,
+        "word": "流浪干将莫邪好C",
+        "onboard_time": 1731241999,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40812,
+        "num": 383818,
+        "word": "天猫双11冬装开始5折了",
+        "onboard_time": 1731240020,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382398,
+        "num": 382398,
+        "word": "慕瑶 蓝兔",
+        "onboard_time": 1731240560,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381578,
+        "num": 381578,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 16,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 336986,
+        "num": 336986,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59535,
+        "num": 326072,
+        "word": "刘诗诗冷感白衬衫",
+        "onboard_time": 1731241518,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203266,
+        "num": 322391,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1731242121,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56732,
+        "num": 304018,
+        "word": "晓华不会颠覆行业但能给同行上一课",
+        "onboard_time": 1731241160,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 366182,
+        "num": 291318,
+        "word": "四大扛剧小生",
+        "onboard_time": 1731235160,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286237,
+        "num": 286237,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283376,
+        "num": 283376,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72505,
+        "num": 280093,
+        "word": "盒马鲜生被砸门店称可起诉",
+        "onboard_time": 1731242540,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279869,
+        "num": 279869,
+        "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
+        "onboard_time": 1731237799,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237361,
+        "num": 237361,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224018,
+        "num": 224018,
+        "word": "22岁大学生倒在雪山上",
+        "onboard_time": 1731239419,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155134,
+        "num": 212625,
+        "word": "杨迪娜扎跳troublemaker",
+        "onboard_time": 1731242839,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210646,
+        "num": 210646,
+        "word": "王一栩 费启鸣你发誓别带上我",
+        "onboard_time": 1731242180,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210022,
+        "num": 210022,
+        "word": "小巷人家",
+        "onboard_time": 1731241339,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193689,
+        "num": 193689,
+        "word": "分享欲才是两个人感情最好的证明",
+        "onboard_time": 1731234859,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192222,
+        "num": 192222,
+        "word": "张杰肌肉",
+        "onboard_time": 1731242599,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203220,
+        "num": 188627,
+        "word": "娜扎 猫女还原度",
+        "onboard_time": 1731242481,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170901,
+        "num": 170901,
+        "word": "邓超陈赫王祖蓝合影",
+        "onboard_time": 1731240078,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167123,
+        "num": 167123,
+        "word": "杨幂未来感黑裙",
+        "onboard_time": 1731237319,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156425,
+        "num": 156425,
+        "word": "中国海警回应菲滋事挑衅",
+        "onboard_time": 1731240620,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154182,
+        "num": 154182,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160665,
+        "num": 154179,
+        "word": "时代少年团给娜扎写热搜",
+        "onboard_time": 1731237378,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151928,
+        "num": 151928,
+        "word": "我承认之前对小侯爷声音大了点",
+        "onboard_time": 1731241459,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257833,
+        "num": 150833,
+        "word": "花粉地狱",
+        "onboard_time": 1731230479,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "双轨",
+        "onboard_time": 1731238038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147868,
+        "num": 147868,
+        "word": "黄晓明",
+        "onboard_time": 1731217579,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146431,
+        "num": 146431,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142952,
+        "num": 142952,
+        "word": "黄岩岛领海基线",
+        "onboard_time": 1731227239,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139041,
+        "num": 139041,
+        "word": "丁禹兮摸自己摸到害羞",
+        "onboard_time": 1731233420,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129388,
+        "num": 129388,
+        "word": "两人撞车没受伤但吵架气死1人",
+        "onboard_time": 1731231859,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124697,
+        "num": 124697,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121040,
+        "num": 121040,
+        "word": "时代少年团二开",
+        "onboard_time": 1731239480,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100830,
+        "num": 100830,
+        "word": "厦门高崎机场确定搬迁",
+        "onboard_time": 1731236178,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}

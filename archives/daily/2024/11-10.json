@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731242288439,
+  "endTime": 1731243204672,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -171,12 +171,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 910416,
-      "num": 910416,
+      "raw_hot": 938368,
+      "num": 938368,
       "word": "小侯爷人真好",
       "onboard_time": 1731238099,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 913129,
+      "num": 913129,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1731241518,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 865857,
@@ -315,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 619901,
+      "num": 430626,
+      "word": "权志龙点赞玩自己梗的网友",
+      "onboard_time": 1731241759,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612311,
       "num": 612311,
       "word": "慕声好感度已达99%",
@@ -352,6 +368,14 @@
       "word": "狐妖竹业篇 竹影王权",
       "onboard_time": 1731212717,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 556615,
+      "num": 448695,
+      "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+      "onboard_time": 1731238099,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -401,14 +425,6 @@
       "onboard_time": 1731227419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 510440,
-      "num": 473937,
-      "word": "何炅谢娜同台主持",
-      "onboard_time": 1731241518,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 506363,
@@ -475,14 +491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 462251,
-      "num": 448695,
-      "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
-      "onboard_time": 1731238099,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 451310,
       "num": 275364,
       "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
@@ -497,6 +505,14 @@
       "onboard_time": 1731214878,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448392,
+      "num": 388783,
+      "word": "美国多州欲立法抵制特朗普施政",
+      "onboard_time": 1731238758,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 446951,
@@ -585,6 +601,14 @@
       "onboard_time": 1731160339,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382398,
+      "num": 382398,
+      "word": "慕瑶 蓝兔",
+      "onboard_time": 1731240560,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377447,
@@ -707,28 +731,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 323667,
-      "num": 323667,
-      "word": "美国多州欲立法抵制特朗普施政",
-      "onboard_time": 1731238758,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 322074,
       "num": 322074,
       "word": "郑钦文总决赛冲冠",
       "onboard_time": 1731163220,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317533,
-      "num": 317533,
-      "word": "慕瑶 蓝兔",
-      "onboard_time": 1731240560,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 316579,
@@ -817,6 +825,14 @@
       "onboard_time": 1731218720,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283376,
+      "num": 283376,
+      "word": "费启鸣 请苍天辨忠奸",
+      "onboard_time": 1731242960,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 282674,
@@ -1075,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221361,
-      "num": 335662,
-      "word": "权志龙点赞玩自己梗的网友",
-      "onboard_time": 1731241759,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219098,
       "num": 219098,
       "word": "男童因妈妈限制吃零食想跟爸爸",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1731207438,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210646,
+      "num": 210646,
+      "word": "王一栩 费启鸣你发誓别带上我",
+      "onboard_time": 1731242180,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 210484,
@@ -1225,6 +1241,22 @@
       "onboard_time": 1731145818,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203266,
+      "num": 333726,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203220,
+      "num": 188627,
+      "word": "娜扎 猫女还原度",
+      "onboard_time": 1731242481,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203127,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1731208938,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192222,
+      "num": 192222,
+      "word": "张杰肌肉",
+      "onboard_time": 1731242599,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 192110,
@@ -1675,6 +1715,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155134,
+      "num": 212625,
+      "word": "杨迪娜扎跳troublemaker",
+      "onboard_time": 1731242839,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154004,
       "num": 250891,
       "word": "沈梦辰说和娜扎是情敌",
@@ -1723,12 +1771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149672,
-      "num": 333726,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1731242121,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 151928,
+      "num": 151928,
+      "word": "我承认之前对小侯爷声音大了点",
+      "onboard_time": 1731241459,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 149567,
@@ -1969,14 +2017,6 @@
       "onboard_time": 1731234138,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 125347,
-      "num": 125347,
-      "word": "王一栩 费启鸣你发誓别带上我",
-      "onboard_time": 1731242180,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 124737,
@@ -2451,6 +2491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 72505,
+      "num": 280093,
+      "word": "盒马鲜生被砸门店称可起诉",
+      "onboard_time": 1731242540,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71876,
       "num": 410847,
       "word": "如何看待电梯异常提示生命仅一次",
@@ -2531,12 +2579,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 59535,
+      "num": 326072,
+      "word": "刘诗诗冷感白衬衫",
+      "onboard_time": 1731241518,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 57380,
       "num": 134988,
       "word": "拍卖公司回应女子11元拍下海景房",
       "onboard_time": 1731177253,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56732,
+      "num": 448724,
+      "word": "晓华不会颠覆行业但能给同行上一课",
+      "onboard_time": 1731241160,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 56726,
@@ -2635,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49749,
-      "num": 448724,
-      "word": "晓华不会颠覆行业但能给同行上一课",
-      "onboard_time": 1731241160,
-      "rank": 9,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 47871,
       "num": 51475,
       "word": "撞劳斯莱斯货车司机回应是不是剧本",
@@ -2707,6 +2763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40812,
+      "num": 437738,
+      "word": "天猫双11冬装开始5折了",
+      "onboard_time": 1731240020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39895,
       "num": 50805,
       "word": "姆巴佩状态",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1731225859,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 39292,
+      "num": 922492,
+      "word": "一图看懂黄岩岛领海基线",
+      "onboard_time": 1731242540,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38812,
@@ -2785,14 +2857,6 @@
       "onboard_time": 1731206297,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34853,
-      "num": 437738,
-      "word": "天猫双11冬装开始5折了",
-      "onboard_time": 1731240020,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34576,
