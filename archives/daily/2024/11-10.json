@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731210042391,
+  "endTime": 1731212693929,
   "band_list": [
     {
       "raw_hot": 2881093,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854241,
+      "num": 371419,
+      "word": "翁青雅好友发文",
+      "onboard_time": 1731209358,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763066,
+      "num": 763066,
+      "word": "盒马鲜生回应疑孩子摔倒妈妈砸店",
+      "onboard_time": 1731209478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663060,
       "num": 515493,
       "word": "麦琳",
@@ -91,12 +107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 641909,
-      "num": 641909,
+      "raw_hot": 655766,
+      "num": 655766,
       "word": "我喜欢子期变繁体了",
       "onboard_time": 1731207317,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 619180,
+      "num": 347046,
+      "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
+      "onboard_time": 1731210497,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 606082,
@@ -113,6 +137,14 @@
       "onboard_time": 1731164961,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 583915,
+      "num": 583915,
+      "word": "年轻人为什么爱上电子布洛芬",
+      "onboard_time": 1731209778,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 543472,
@@ -168,6 +200,14 @@
       "word": "美43只雌猴逃出实验室或携带致命病毒",
       "onboard_time": 1731137779,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451310,
+      "num": 250578,
+      "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+      "onboard_time": 1731209478,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -243,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371419,
-      "num": 371419,
-      "word": "翁青雅好友发文",
-      "onboard_time": 1731209358,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366668,
       "num": 304539,
       "word": "叶珂否认给黄晓明花了1000万",
@@ -297,6 +329,14 @@
       "onboard_time": 1731202458,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 336605,
+      "num": 336605,
+      "word": "飞机偶遇田曦薇",
+      "onboard_time": 1731210679,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 326489,
@@ -379,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262464,
+      "num": 262464,
+      "word": "店家回应2男子点烤鱼后偷偷溜走",
+      "onboard_time": 1731210918,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258996,
       "num": 258996,
       "word": "曾黎发文给赵露思庆生",
@@ -411,14 +459,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 250578,
-      "num": 250578,
-      "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
-      "onboard_time": 1731209478,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249691,
       "num": 249691,
       "word": "飞行员第一次开战机忍不住唱歌",
@@ -433,6 +473,14 @@
       "onboard_time": 1731157819,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236726,
+      "num": 236726,
+      "word": "慕声柳拂衣 老公寄存处",
+      "onboard_time": 1731210017,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 232094,
@@ -515,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204569,
+      "num": 204569,
+      "word": "男童因妈妈限制吃零食想跟爸爸",
+      "onboard_time": 1731210438,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203283,
       "num": 203283,
       "word": "黄圣依画像的痣是颜料流下来了",
@@ -563,6 +619,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 200875,
+      "num": 200875,
+      "word": "宋亚轩要小发雷霆了",
+      "onboard_time": 1731211518,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197960,
       "num": 197960,
       "word": "肖战专辑intro",
@@ -595,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190718,
+      "num": 190718,
+      "word": "被晓华爆改成易烊千玺男生发声",
+      "onboard_time": 1731212477,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
@@ -609,6 +681,14 @@
       "onboard_time": 1731193213,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 185295,
+      "num": 185295,
+      "word": "曝黄晓明叶珂没领证",
+      "onboard_time": 1731210857,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 180758,
@@ -649,6 +729,14 @@
       "onboard_time": 1731201438,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174536,
+      "num": 174536,
+      "word": "有镯生没镯养",
+      "onboard_time": 1731210798,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 173586,
@@ -692,7 +780,7 @@
     },
     {
       "raw_hot": 161597,
-      "num": 161597,
+      "num": 351283,
       "word": "福州建立教育局局长学校陪餐制",
       "onboard_time": 1731207438,
       "rank": 47,
@@ -713,6 +801,14 @@
       "onboard_time": 1731163040,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150141,
+      "num": 150141,
+      "word": "歼-20发射导弹击落目标",
+      "onboard_time": 1731210076,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 146084,
@@ -795,14 +891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137888,
-      "num": 137888,
-      "word": "年轻人为什么爱上电子布洛芬",
-      "onboard_time": 1731209778,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136713,
       "num": 136713,
       "word": "丁禹兮发烧了",
@@ -835,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133083,
+      "num": 133083,
+      "word": "凌妙妙坦白",
+      "onboard_time": 1731210557,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132279,
       "num": 132279,
       "word": "卡尔伯格4比2莫雷加德",
@@ -859,12 +955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126325,
-      "num": 378144,
-      "word": "盒马鲜生回应疑孩子摔倒妈妈砸店",
-      "onboard_time": 1731209478,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 126528,
+      "num": 126528,
+      "word": "杨仕泽 今后有你们无聊的",
+      "onboard_time": 1731210377,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 124737,
@@ -899,12 +995,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119889,
-      "num": 119889,
-      "word": "慕声柳拂衣 老公寄存处",
-      "onboard_time": 1731210017,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 117494,
+      "num": 185432,
+      "word": "歼35A高清壁纸来了",
+      "onboard_time": 1731211578,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 116583,
+      "num": 116583,
+      "word": "梅西头球破门",
+      "onboard_time": 1731211877,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115937,
+      "num": 201282,
+      "word": "宋佳要娶的女人太多了",
+      "onboard_time": 1731212537,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 114944,
@@ -931,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112009,
+      "num": 107391,
+      "word": "李宏毅古装",
+      "onboard_time": 1731212537,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111982,
       "num": 111982,
       "word": "WTA主席盛赞郑钦文",
@@ -953,6 +1073,14 @@
       "onboard_time": 1731205457,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106617,
+      "num": 106617,
+      "word": "十年时间只做一件事情有多卷",
+      "onboard_time": 1731211098,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105496,
@@ -1145,6 +1273,14 @@
       "onboard_time": 1731170838,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59993,
+      "num": 232101,
+      "word": "向佐也有站子了",
+      "onboard_time": 1731212359,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 59989,
@@ -1371,6 +1507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 27533,
+      "num": 223079,
+      "word": "刘敏涛天猫双11广告超疯的",
+      "onboard_time": 1731211458,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27470,
       "num": 250626,
       "word": "来自好品山东的亿点点震撼",
@@ -1419,12 +1563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21888,
+      "raw_hot": 22525,
       "num": 246089,
       "word": "晚8点京东双11五折品剧透",
       "onboard_time": 1731207918,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21963,
+      "num": 113859,
+      "word": "又被郭晶晶美到了",
+      "onboard_time": 1731211397,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 21320,
@@ -1457,6 +1609,14 @@
       "onboard_time": 1731194595,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 15895,
+      "num": 185297,
+      "word": "郑钦文总决赛收视率爆棚",
+      "onboard_time": 1731212178,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 15328,
