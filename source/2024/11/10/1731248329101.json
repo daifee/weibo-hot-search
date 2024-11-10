@@ -1,0 +1,410 @@
+{
+  "runTime": 1731248329101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129865,
+        "num": 1180778,
+        "word": "劳斯莱斯女车主哽咽否认炒作",
+        "onboard_time": 1731237860,
+        "rank": 0,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 1083589,
+        "num": 1083589,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1731243560,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71025,
+        "num": 962317,
+        "word": "一图看懂黄岩岛领海基线",
+        "onboard_time": 1731242540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 950700,
+        "num": 950700,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730070,
+        "num": 730070,
+        "word": "何与 双轨",
+        "onboard_time": 1731243198,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511347,
+        "num": 511347,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1731242121,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578279,
+        "num": 510507,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199237,
+        "num": 508997,
+        "word": "王曼昱摘冠",
+        "onboard_time": 1731247581,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553290,
+        "num": 505484,
+        "word": "戚薇你是真的饿了",
+        "onboard_time": 1731246799,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40328,
+        "num": 502472,
+        "word": "为何此时公布黄岩岛领海基线",
+        "onboard_time": 1731247221,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852604,
+        "num": 501679,
+        "word": "世界上有一半的人都会流血",
+        "onboard_time": 1731244701,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 631942,
+        "num": 498002,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69743,
+        "num": 495564,
+        "word": "林诗栋vs卡尔伯格",
+        "onboard_time": 1731243619,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51234,
+        "num": 494604,
+        "word": "先用后付开通容易取消难",
+        "onboard_time": 1731247221,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12811,
+        "num": 492317,
+        "word": "中国好礼在进博有多火",
+        "onboard_time": 1731247221,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490505,
+        "num": 490505,
+        "word": "盒马鲜生被砸门店称可起诉",
+        "onboard_time": 1731242540,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466833,
+        "num": 466833,
+        "word": "黄岩岛是我国固有领土",
+        "onboard_time": 1731245720,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439530,
+        "num": 439530,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417885,
+        "num": 417885,
+        "word": "王曼昱WTT女单夺冠",
+        "onboard_time": 1731247701,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416950,
+        "num": 416950,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 407195,
+        "num": 407195,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379007,
+        "num": 379007,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372498,
+        "num": 372498,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 361296,
+        "num": 361296,
+        "word": "丁禹兮年纪轻轻就听不清了",
+        "onboard_time": 1731246320,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338955,
+        "num": 338955,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 24,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 323377,
+        "num": 323377,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317755,
+        "num": 317755,
+        "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+        "onboard_time": 1731238099,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316177,
+        "num": 316177,
+        "word": "权志龙点赞玩自己梗的网友",
+        "onboard_time": 1731241759,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309153,
+        "num": 309153,
+        "word": "打过狂犬疫苗的人嘴可真严啊",
+        "onboard_time": 1731245841,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209913,
+        "num": 304167,
+        "word": "戚薇收拾收拾准备升咖",
+        "onboard_time": 1731247821,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303231,
+        "num": 303231,
+        "word": "时代少年团梦舞台",
+        "onboard_time": 1731245300,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294496,
+        "num": 294496,
+        "word": "男子将8万现金伪装成喜糖寄出",
+        "onboard_time": 1731246199,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266000,
+        "num": 266000,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254973,
+        "num": 254973,
+        "word": "24岁女生剃头180天后的变化",
+        "onboard_time": 1731247040,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232901,
+        "num": 232901,
+        "word": "国产三蹦子在意大利车展火了",
+        "onboard_time": 1731243619,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211250,
+        "num": 211250,
+        "word": "王曼昱连得9分",
+        "onboard_time": 1731245540,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199342,
+        "num": 199342,
+        "word": "栋哲筱婷好嗑",
+        "onboard_time": 1731247581,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188143,
+        "num": 188143,
+        "word": "杨迪娜扎跳troublemaker",
+        "onboard_time": 1731242839,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177991,
+        "num": 177991,
+        "word": "虞书欣中式清水妆",
+        "onboard_time": 1731247400,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 175144,
+        "num": 175144,
+        "word": "永夜星河大火案真相",
+        "onboard_time": 1731247940,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170692,
+        "num": 170692,
+        "word": "华晨宇 想要成长多谈恋爱",
+        "onboard_time": 1731248120,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167407,
+        "num": 167407,
+        "word": "苏57飞行员幽默回答为什么爱飞行",
+        "onboard_time": 1731244399,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "大鹏说王一博提名金鸡奖领全组激动",
+        "onboard_time": 1731245479,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160000,
+        "num": 160000,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155317,
+        "num": 155317,
+        "word": "分享欲才是两个人感情最好的证明",
+        "onboard_time": 1731234859,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155155,
+        "num": 155155,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147840,
+        "num": 147840,
+        "word": "慕瑶 蓝兔",
+        "onboard_time": 1731240560,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135926,
+        "num": 135926,
+        "word": "闫妮檀健次金风玉露",
+        "onboard_time": 1731243560,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130994,
+        "num": 130994,
+        "word": "小巷人家",
+        "onboard_time": 1731241339,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130076,
+        "num": 130076,
+        "word": "王一栩 费启鸣你发誓别带上我",
+        "onboard_time": 1731242180,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}

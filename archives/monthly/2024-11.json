@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731245698189,
+  "endTime": 1731248329101,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 1196161,
-      "num": 448717,
+      "num": 498002,
       "word": "徐艺洋方声明",
       "onboard_time": 1731239778,
       "rank": 10,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1730792660,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1083589,
+      "num": 1083589,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1731234560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1079237,
@@ -2739,6 +2747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 950700,
+      "num": 950700,
+      "word": "费启鸣 请苍天辨忠奸",
+      "onboard_time": 1731242960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 950381,
       "num": 568290,
       "word": "毛奇与他人发生不正当性关系",
@@ -3203,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852604,
+      "num": 501679,
+      "word": "世界上有一半的人都会流血",
+      "onboard_time": 1731244701,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 851526,
       "num": 851526,
       "word": "覃海洋回应近日争议",
@@ -3288,14 +3312,6 @@
       "word": "虞书欣 扛剧",
       "onboard_time": 1730525837,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 842167,
-      "num": 842167,
-      "word": "费启鸣 请苍天辨忠奸",
-      "onboard_time": 1731242960,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3920,6 +3936,14 @@
       "word": "虞书欣身后是109个婧妹",
       "onboard_time": 1730720781,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 730070,
+      "num": 730070,
+      "word": "何与 双轨",
+      "onboard_time": 1731243198,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -5595,6 +5619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553290,
+      "num": 505484,
+      "word": "戚薇你是真的饿了",
+      "onboard_time": 1731246799,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552641,
       "num": 552641,
       "word": "特朗普和哈里斯决战摇摆州",
@@ -6147,20 +6179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511518,
-      "num": 430430,
-      "word": "何与 双轨",
-      "onboard_time": 1731243198,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 511507,
       "num": 638416,
       "word": "特朗普胜选演讲",
       "onboard_time": 1730885185,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 511347,
+      "num": 511347,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 511138,
@@ -6379,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490505,
+      "num": 490505,
+      "word": "盒马鲜生被砸门店称可起诉",
+      "onboard_time": 1731242540,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490358,
       "num": 445534,
       "word": "闵塔鲨给赵露思做的高定造型",
@@ -6452,7 +6492,7 @@
     },
     {
       "raw_hot": 486068,
-      "num": 277888,
+      "num": 323377,
       "word": "李行亮觉醒",
       "onboard_time": 1731244399,
       "rank": 27,
@@ -6707,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466833,
+      "num": 466833,
+      "word": "黄岩岛是我国固有领土",
+      "onboard_time": 1731245720,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 466131,
       "num": 466131,
       "word": "白鹿小水同框",
@@ -6761,14 +6809,6 @@
       "onboard_time": 1731159439,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461209,
-      "num": 461209,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1731242121,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 460990,
@@ -7457,6 +7497,14 @@
       "onboard_time": 1730630899,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417885,
+      "num": 417885,
+      "word": "王曼昱WTT女单夺冠",
+      "onboard_time": 1731247701,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 417753,
@@ -8459,6 +8507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361296,
+      "num": 361296,
+      "word": "丁禹兮年纪轻轻就听不清了",
+      "onboard_time": 1731246320,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361091,
       "num": 296726,
       "word": "丝芭传媒",
@@ -8860,7 +8916,7 @@
     },
     {
       "raw_hot": 341777,
-      "num": 247216,
+      "num": 303231,
       "word": "时代少年团梦舞台",
       "onboard_time": 1731245300,
       "rank": 22,
@@ -8921,14 +8977,6 @@
       "onboard_time": 1730779222,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 338831,
-      "num": 423420,
-      "word": "盒马鲜生被砸门店称可起诉",
-      "onboard_time": 1731242540,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338760,
@@ -9267,14 +9315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324697,
-      "num": 441330,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1731234560,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323951,
       "num": 323951,
       "word": "S15决赛落地成都",
@@ -9587,20 +9627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309153,
+      "num": 309153,
+      "word": "打过狂犬疫苗的人嘴可真严啊",
+      "onboard_time": 1731245841,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308893,
       "num": 308893,
       "word": "Keria泪洒赛场",
       "onboard_time": 1730573417,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 308460,
-      "num": 217938,
-      "word": "世界上有一半的人都会流血",
-      "onboard_time": 1731244701,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 307780,
@@ -9961,6 +10001,14 @@
       "onboard_time": 1730519478,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 294496,
+      "num": 294496,
+      "word": "男子将8万现金伪装成喜糖寄出",
+      "onboard_time": 1731246199,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294268,
@@ -11235,6 +11283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254973,
+      "num": 254973,
+      "word": "24岁女生剃头180天后的变化",
+      "onboard_time": 1731247040,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254963,
       "num": 417169,
       "word": "今日A股大爆发",
@@ -12033,6 +12089,14 @@
       "onboard_time": 1730526497,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 232901,
+      "num": 427958,
+      "word": "国产三蹦子在意大利车展火了",
+      "onboard_time": 1731243619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232259,
@@ -13083,6 +13147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211250,
+      "num": 400518,
+      "word": "王曼昱连得9分",
+      "onboard_time": 1731245540,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211180,
       "num": 416360,
       "word": "男子0元购偷出一个超市",
@@ -13177,6 +13249,14 @@
       "onboard_time": 1731172396,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209913,
+      "num": 304167,
+      "word": "戚薇收拾收拾准备升咖",
+      "onboard_time": 1731247821,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 209882,
@@ -14291,12 +14371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199342,
+      "num": 199342,
+      "word": "栋哲筱婷好嗑",
+      "onboard_time": 1731247581,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199271,
       "num": 199271,
       "word": "hybe称边伯贤参考田柾国",
       "onboard_time": 1730514557,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199237,
+      "num": 508997,
+      "word": "王曼昱摘冠",
+      "onboard_time": 1731247581,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 199090,
@@ -16283,6 +16379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177991,
+      "num": 177991,
+      "word": "虞书欣中式清水妆",
+      "onboard_time": 1731247400,
+      "rank": 38,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 177915,
       "num": 177915,
       "word": "丁禹兮展示建构甲",
@@ -16609,6 +16713,14 @@
       "onboard_time": 1730389339,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175144,
+      "num": 175144,
+      "word": "永夜星河大火案真相",
+      "onboard_time": 1731247940,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 175006,
@@ -17065,6 +17177,14 @@
       "onboard_time": 1730861842,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170692,
+      "num": 170692,
+      "word": "华晨宇 想要成长多谈恋爱",
+      "onboard_time": 1731248120,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 170637,
@@ -19121,14 +19241,6 @@
       "onboard_time": 1731078203,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151448,
-      "num": 427958,
-      "word": "国产三蹦子在意大利车展火了",
-      "onboard_time": 1731243619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151302,
@@ -25651,6 +25763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71025,
+      "num": 962317,
+      "word": "一图看懂黄岩岛领海基线",
+      "onboard_time": 1731242540,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70974,
       "num": 318459,
       "word": "律师称捂嘴男孩监护人需承担民责",
@@ -25745,6 +25865,14 @@
       "onboard_time": 1731053659,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69743,
+      "num": 495564,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 69649,
@@ -26113,14 +26241,6 @@
       "onboard_time": 1731074782,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65046,
-      "num": 922492,
-      "word": "一图看懂黄岩岛领海基线",
-      "onboard_time": 1731242540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64884,
@@ -27091,6 +27211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51234,
+      "num": 494604,
+      "word": "先用后付开通容易取消难",
+      "onboard_time": 1731247221,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51136,
       "num": 385359,
       "word": "贾樟柯请求观众抵制盗版风流一代",
@@ -28035,6 +28163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40328,
+      "num": 502472,
+      "word": "为何此时公布黄岩岛领海基线",
+      "onboard_time": 1731247221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40265,
       "num": 111391,
       "word": "河南校园500米内不准卖高盐高糖食品",
@@ -28241,14 +28377,6 @@
       "onboard_time": 1730524338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38459,
-      "num": 421491,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1731243619,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 38240,
@@ -30771,14 +30899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19534,
-      "num": 400518,
-      "word": "王曼昱连得9分",
-      "onboard_time": 1731245540,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19477,
       "num": 52050,
       "word": "超近距离看歼15T机翼折叠",
@@ -31681,6 +31801,14 @@
       "onboard_time": 1730838800,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12811,
+      "num": 492317,
+      "word": "中国好礼在进博有多火",
+      "onboard_time": 1731247221,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12762,

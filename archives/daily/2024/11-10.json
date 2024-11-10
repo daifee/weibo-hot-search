@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731245698189,
+  "endTime": 1731248329101,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 1196161,
-      "num": 448717,
+      "num": 498002,
       "word": "徐艺洋方声明",
       "onboard_time": 1731239778,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1083589,
+      "num": 1083589,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1731234560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1072719,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950700,
+      "num": 950700,
+      "word": "费启鸣 请苍天辨忠奸",
+      "onboard_time": 1731242960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 945120,
       "num": 1151219,
       "word": "用人民币感受冰岛物价",
@@ -203,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 842167,
-      "num": 842167,
-      "word": "费启鸣 请苍天辨忠奸",
-      "onboard_time": 1731242960,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 852604,
+      "num": 501679,
+      "word": "世界上有一半的人都会流血",
+      "onboard_time": 1731244701,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 823219,
@@ -264,6 +280,14 @@
       "word": "白百何 观众缘",
       "onboard_time": 1731225259,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 730070,
+      "num": 730070,
+      "word": "何与 双轨",
+      "onboard_time": 1731243198,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 553290,
+      "num": 505484,
+      "word": "戚薇你是真的饿了",
+      "onboard_time": 1731246799,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551383,
       "num": 551383,
       "word": "林青霞姜涛牵手出席活动",
@@ -435,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511518,
-      "num": 430430,
-      "word": "何与 双轨",
-      "onboard_time": 1731243198,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 511347,
+      "num": 511347,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 506363,
@@ -483,8 +515,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 490505,
+      "num": 490505,
+      "word": "盒马鲜生被砸门店称可起诉",
+      "onboard_time": 1731242540,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486068,
-      "num": 277888,
+      "num": 323377,
       "word": "李行亮觉醒",
       "onboard_time": 1731244399,
       "rank": 27,
@@ -523,12 +563,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 461209,
-      "num": 461209,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1731242121,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 466833,
+      "num": 466833,
+      "word": "黄岩岛是我国固有领土",
+      "onboard_time": 1731245720,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 451310,
@@ -601,6 +641,14 @@
       "onboard_time": 1731229880,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417885,
+      "num": 417885,
+      "word": "王曼昱WTT女单夺冠",
+      "onboard_time": 1731247701,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 400223,
@@ -691,6 +739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 361296,
+      "num": 361296,
+      "word": "丁禹兮年纪轻轻就听不清了",
+      "onboard_time": 1731246320,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360365,
       "num": 360365,
       "word": "邓超孙俪一家四口颜值",
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 341777,
-      "num": 247216,
+      "num": 303231,
       "word": "时代少年团梦舞台",
       "onboard_time": 1731245300,
       "rank": 22,
@@ -753,14 +809,6 @@
       "onboard_time": 1731202458,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 338831,
-      "num": 423420,
-      "word": "盒马鲜生被砸门店称可起诉",
-      "onboard_time": 1731242540,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326824,
@@ -777,14 +825,6 @@
       "onboard_time": 1731208338,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 324697,
-      "num": 441330,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1731234560,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 322074,
@@ -811,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308460,
-      "num": 217938,
-      "word": "世界上有一半的人都会流血",
-      "onboard_time": 1731244701,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 309153,
+      "num": 309153,
+      "word": "打过狂犬疫苗的人嘴可真严啊",
+      "onboard_time": 1731245841,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 302804,
@@ -833,6 +873,14 @@
       "onboard_time": 1731159200,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294496,
+      "num": 294496,
+      "word": "男子将8万现金伪装成喜糖寄出",
+      "onboard_time": 1731246199,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294165,
@@ -995,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254973,
+      "num": 254973,
+      "word": "24岁女生剃头180天后的变化",
+      "onboard_time": 1731247040,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254701,
       "num": 254701,
       "word": "两人撞车没受伤但吵架气死1人",
@@ -1088,6 +1144,14 @@
       "word": "22岁大学生倒在雪山上",
       "onboard_time": 1731239419,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232901,
+      "num": 427958,
+      "word": "国产三蹦子在意大利车展火了",
+      "onboard_time": 1731243619,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211250,
+      "num": 400518,
+      "word": "王曼昱连得9分",
+      "onboard_time": 1731245540,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210484,
       "num": 210484,
       "word": "年轻人不再局限于传统相亲",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1731172396,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209913,
+      "num": 304167,
+      "word": "戚薇收拾收拾准备升咖",
+      "onboard_time": 1731247821,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 207563,
@@ -1377,6 +1457,22 @@
       "onboard_time": 1731225918,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199342,
+      "num": 199342,
+      "word": "栋哲筱婷好嗑",
+      "onboard_time": 1731247581,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199237,
+      "num": 508997,
+      "word": "王曼昱摘冠",
+      "onboard_time": 1731247581,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 199090,
@@ -1571,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177991,
+      "num": 177991,
+      "word": "虞书欣中式清水妆",
+      "onboard_time": 1731247400,
+      "rank": 38,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 177598,
       "num": 177598,
       "word": "女子自述吃河豚刺身中毒",
@@ -1611,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175144,
+      "num": 175144,
+      "word": "永夜星河大火案真相",
+      "onboard_time": 1731247940,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174759,
       "num": 174759,
       "word": "郑钦文说输球并不是运气不好",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1731222079,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170692,
+      "num": 170692,
+      "word": "华晨宇 想要成长多谈恋爱",
+      "onboard_time": 1731248120,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 169837,
@@ -1873,14 +1993,6 @@
       "onboard_time": 1731226879,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151448,
-      "num": 427958,
-      "word": "国产三蹦子在意大利车展火了",
-      "onboard_time": 1731243619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151051,
@@ -2627,6 +2739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71025,
+      "num": 962317,
+      "word": "一图看懂黄岩岛领海基线",
+      "onboard_time": 1731242540,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 69743,
+      "num": 495564,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68007,
       "num": 68007,
       "word": "这是怎么做到又老又年轻的",
@@ -2649,14 +2777,6 @@
       "onboard_time": 1731209298,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65046,
-      "num": 922492,
-      "word": "一图看懂黄岩岛领海基线",
-      "onboard_time": 1731242540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61879,
@@ -2811,6 +2931,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 51234,
+      "num": 494604,
+      "word": "先用后付开通容易取消难",
+      "onboard_time": 1731247221,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49903,
       "num": 413360,
       "word": "国乒提前包揽女单冠亚军",
@@ -2899,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40328,
+      "num": 502472,
+      "word": "为何此时公布黄岩岛领海基线",
+      "onboard_time": 1731247221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39895,
       "num": 50805,
       "word": "姆巴佩状态",
@@ -2936,14 +3072,6 @@
       "word": "王艺迪闯进WTT决赛",
       "onboard_time": 1731194833,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38459,
-      "num": 421491,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1731243619,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -3211,14 +3339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19534,
-      "num": 400518,
-      "word": "王曼昱连得9分",
-      "onboard_time": 1731245540,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18667,
       "num": 113500,
       "word": "郑钦文挽救2个盘点破发",
@@ -3264,6 +3384,14 @@
       "word": "进博会服务贸易展区体验感满满",
       "onboard_time": 1731229159,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12811,
+      "num": 492317,
+      "word": "中国好礼在进博有多火",
+      "onboard_time": 1731247221,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
