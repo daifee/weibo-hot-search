@@ -1,0 +1,410 @@
+{
+  "runTime": 1731227943087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2919122,
+        "num": 2919122,
+        "word": "叶珂退网",
+        "onboard_time": 1731216317,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1149595,
+        "num": 1149595,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32617,
+        "num": 849266,
+        "word": "双座歼20模型亮相中国航展",
+        "onboard_time": 1731204678,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 803501,
+        "num": 803501,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755425,
+        "num": 755425,
+        "word": "白百何 观众缘",
+        "onboard_time": 1731225259,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654935,
+        "num": 654935,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561190,
+        "num": 561190,
+        "word": "叶珂道歉",
+        "onboard_time": 1731216738,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502543,
+        "num": 502543,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99135,
+        "num": 479204,
+        "word": "俄罗斯苏57战斗机空中悬停",
+        "onboard_time": 1731227898,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 56726,
+        "num": 469297,
+        "word": "当地行业协会回应晓华拉低行业档次",
+        "onboard_time": 1731226219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468364,
+        "num": 442225,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827150,
+        "num": 405590,
+        "word": "黄晓明",
+        "onboard_time": 1731217579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80187,
+        "num": 373036,
+        "word": "郑钦文用3个关键词总结2024赛季",
+        "onboard_time": 1731226820,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360320,
+        "num": 360320,
+        "word": "无忧渡真的要来了",
+        "onboard_time": 1731223100,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682231,
+        "num": 354808,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 14,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 348896,
+        "num": 348896,
+        "word": "黑龙江出生率再创历史新低",
+        "onboard_time": 1731220520,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345004,
+        "num": 345004,
+        "word": "迪丽热巴粉衣撑伞路透",
+        "onboard_time": 1731224359,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23056,
+        "num": 310820,
+        "word": "郑钦文希望下次能更强大地回来",
+        "onboard_time": 1731227599,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43835,
+        "num": 298709,
+        "word": "无畏吃柠檬酸到模糊",
+        "onboard_time": 1731226820,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291767,
+        "num": 291767,
+        "word": "徐海乔评论区",
+        "onboard_time": 1731221121,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282674,
+        "num": 282674,
+        "word": "芒果男艺人上你好星期六被泼成熏鸡",
+        "onboard_time": 1731225079,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278723,
+        "num": 278723,
+        "word": "男子大口喝下百草枯28天创造奇迹",
+        "onboard_time": 1731214878,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267789,
+        "num": 267789,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264921,
+        "num": 264921,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258173,
+        "num": 258173,
+        "word": "黄岩岛领海基线",
+        "onboard_time": 1731227239,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257772,
+        "num": 257772,
+        "word": "赵露思工作室",
+        "onboard_time": 1731227419,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253609,
+        "num": 253609,
+        "word": "落跑新娘凌妙妙",
+        "onboard_time": 1731213078,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242308,
+        "num": 242308,
+        "word": "李宏毅孙珍妮体型差",
+        "onboard_time": 1731225559,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235349,
+        "num": 235349,
+        "word": "美媒测算特朗普已获得312张选举人票",
+        "onboard_time": 1731223639,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81702,
+        "num": 224741,
+        "word": "疯狂好六夜",
+        "onboard_time": 1731227778,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221372,
+        "num": 221372,
+        "word": "王栎鑫体面人",
+        "onboard_time": 1731227300,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71876,
+        "num": 213083,
+        "word": "如何看待电梯异常提示生命仅一次",
+        "onboard_time": 1731225918,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210418,
+        "num": 210418,
+        "word": "刘花英回应TARA霸凌事件",
+        "onboard_time": 1731225979,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206447,
+        "num": 206447,
+        "word": "虞书欣丁禹兮双人古风写真已安排",
+        "onboard_time": 1731225619,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201080,
+        "num": 201080,
+        "word": "鞠婧祎红昭愿名场面一眼万年",
+        "onboard_time": 1731222380,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77748,
+        "num": 200427,
+        "word": "男子被相亲对象拒绝行凶逃亡23年",
+        "onboard_time": 1731225918,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200258,
+        "num": 200258,
+        "word": "李行亮画的麦琳",
+        "onboard_time": 1731221660,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29082,
+        "num": 196013,
+        "word": "你有没有为噗噗拼过命",
+        "onboard_time": 1731227659,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83750,
+        "num": 194612,
+        "word": "20家族珠海全家福",
+        "onboard_time": 1731226398,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 194461,
+        "num": 194461,
+        "word": "我国南海部分岛礁标准名称公布",
+        "onboard_time": 1731224119,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183687,
+        "num": 183687,
+        "word": "中国提议交换月球样本美方至今没吭声",
+        "onboard_time": 1731216259,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181387,
+        "num": 181387,
+        "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
+        "onboard_time": 1731209478,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179727,
+        "num": 179727,
+        "word": "酸奶块",
+        "onboard_time": 1731216558,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174112,
+        "num": 174112,
+        "word": "翁青雅好友发文",
+        "onboard_time": 1731209358,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166087,
+        "num": 166087,
+        "word": "Rookie白色月牙谈iG重组",
+        "onboard_time": 1731227538,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164985,
+        "num": 164985,
+        "word": "被晓华爆改成易烊千玺男生发声",
+        "onboard_time": 1731212477,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 161989,
+        "num": 161989,
+        "word": "付款方式莫名变成了先用后付",
+        "onboard_time": 1731223820,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 157130,
+        "word": "买金条打三金能便宜多少",
+        "onboard_time": 1731220461,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150512,
+        "num": 150512,
+        "word": "理发师晓华说30元的价格不低",
+        "onboard_time": 1731199397,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149172,
+        "num": 149172,
+        "word": "综艺史上最歹毒的惩罚",
+        "onboard_time": 1731226879,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文明瑰宝永续留存泽惠后人#"
+    }
+  }
+}
