@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731204340678,
+  "endTime": 1731207245635,
   "band_list": [
     {
       "raw_hot": 2881093,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1021458,
+      "num": 1021458,
+      "word": "幼儿园老师用竹签疯狂虐待孩子",
+      "onboard_time": 1731202038,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -43,12 +51,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 808865,
+      "num": 808865,
+      "word": "理发师晓华说30元的价格不低",
+      "onboard_time": 1731199397,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734918,
+      "num": 734918,
+      "word": "买到40条假中华获退赔10万",
+      "onboard_time": 1731204019,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663060,
       "num": 515493,
       "word": "麦琳",
       "onboard_time": 1731160999,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606082,
+      "num": 606082,
+      "word": "子期认识简体字",
+      "onboard_time": 1731200357,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 589416,
@@ -107,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494546,
+      "num": 494546,
+      "word": "你好星期六半脸卸妆",
+      "onboard_time": 1731206178,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484898,
       "num": 484898,
       "word": "美43只雌猴逃出实验室或携带致命病毒",
@@ -137,22 +177,6 @@
       "onboard_time": 1731193933,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 432196,
-      "num": 413386,
-      "word": "子期认识简体字",
-      "onboard_time": 1731200357,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 422302,
-      "num": 304600,
-      "word": "幼儿园老师用竹签疯狂虐待孩子",
-      "onboard_time": 1731202038,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392424,
@@ -211,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357297,
+      "num": 357297,
+      "word": "歼20S亮相",
+      "onboard_time": 1731201738,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 348521,
       "num": 348521,
       "word": "郑钦文",
@@ -219,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327181,
-      "num": 327181,
-      "word": "歼20S亮相",
-      "onboard_time": 1731201738,
-      "rank": 14,
-      "category": "军事"
+      "raw_hot": 340370,
+      "num": 340370,
+      "word": "国产新机上市老款iPhone跌至半价",
+      "onboard_time": 1731202458,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 322074,
@@ -233,14 +265,6 @@
       "onboard_time": 1731163220,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304428,
-      "num": 304428,
-      "word": "国产新机上市老款iPhone跌至半价",
-      "onboard_time": 1731202458,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 302804,
@@ -267,6 +291,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290115,
+      "num": 290115,
+      "word": "陈少熙因病缺席十个勤天演唱会",
+      "onboard_time": 1731203839,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 288025,
+      "num": 288025,
+      "word": "有同行称晓华让美发行业倒退10年",
+      "onboard_time": 1731199757,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -291,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256933,
+      "num": 242079,
+      "word": "妈妈看2岁儿子拍碎6000元电视",
+      "onboard_time": 1731205457,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253855,
       "num": 225061,
       "word": "口服避孕药 致癌物",
@@ -307,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240426,
+      "num": 240426,
+      "word": "普京签署俄朝全面战略伙伴关系条约",
+      "onboard_time": 1731203057,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 238892,
       "num": 238892,
       "word": "王艺迪vs张本美和",
@@ -315,28 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237936,
-      "num": 304757,
-      "word": "理发师晓华说30元的价格不低",
-      "onboard_time": 1731199397,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232094,
       "num": 232094,
       "word": "王艺迪4比2张本美和",
       "onboard_time": 1731168439,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228835,
-      "num": 228835,
-      "word": "有同行称晓华让美发行业倒退10年",
-      "onboard_time": 1731199757,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226249,
@@ -419,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200882,
+      "num": 248999,
+      "word": "双座歼20模型亮相中国航展",
+      "onboard_time": 1731204678,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 197201,
       "num": 197201,
       "word": "夜骑开封的共享单车被倒卖",
@@ -435,20 +483,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187982,
-      "num": 187982,
-      "word": "普京签署俄朝全面战略伙伴关系条约",
-      "onboard_time": 1731203057,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
       "onboard_time": 1731162860,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185319,
+      "num": 185319,
+      "word": "晓华爆改男大剪完神似易烊千玺",
+      "onboard_time": 1731193213,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 184851,
+      "num": 184851,
+      "word": "年轻人不再局限于传统相亲",
+      "onboard_time": 1731204739,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180758,
@@ -460,7 +516,7 @@
     },
     {
       "raw_hot": 178004,
-      "num": 178004,
+      "num": 200084,
       "word": "美国队长4正式预告",
       "onboard_time": 1731203658,
       "rank": 26,
@@ -475,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175823,
-      "num": 175823,
-      "word": "晓华爆改男大剪完神似易烊千玺",
-      "onboard_time": 1731193213,
-      "rank": 33,
-      "category": "社会新闻,网红"
+      "raw_hot": 174759,
+      "num": 174759,
+      "word": "郑钦文说输球并不是运气不好",
+      "onboard_time": 1731201438,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 169837,
@@ -507,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166269,
-      "num": 166269,
-      "word": "郑钦文说输球并不是运气不好",
-      "onboard_time": 1731201438,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "巴基斯坦爆炸发生时站台旅客很多",
@@ -531,6 +579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155540,
+      "num": 155540,
+      "word": "安徽六安通报一幼师体罚学生",
+      "onboard_time": 1731205697,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "狮子座年底运势最强分析",
@@ -539,20 +595,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151376,
-      "num": 151376,
-      "word": "陈少熙因病缺席十个勤天演唱会",
-      "onboard_time": 1731203839,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
       "onboard_time": 1731160281,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "王玉雯 破碎感",
+      "onboard_time": 1731205998,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 144275,
@@ -592,6 +648,14 @@
       "word": "郑钦文1比0高芙",
       "onboard_time": 1731172396,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "迈阿密国际vs亚特兰大联",
+      "onboard_time": 1731206657,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -643,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131115,
+      "num": 131115,
+      "word": "一座小岛在两个月内搜索量破亿",
+      "onboard_time": 1731207021,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130621,
       "num": 130621,
       "word": "女子收50万彩礼后与前男友去宾馆",
@@ -675,6 +747,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113532,
+      "num": 113532,
+      "word": "云南楚雄3.9级地震",
+      "onboard_time": 1731206477,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111982,
+      "num": 111982,
+      "word": "WTA主席盛赞郑钦文",
+      "onboard_time": 1731206419,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110924,
       "num": 110924,
       "word": "建议每个恐华症的人都到中国看看",
@@ -683,12 +771,12 @@
       "category": "国外时政,国内时政"
     },
     {
-      "raw_hot": 105576,
-      "num": 105576,
-      "word": "买到40条假中华获退赔10万",
-      "onboard_time": 1731204019,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 108699,
+      "num": 108699,
+      "word": "老岳爆料EDG阵容",
+      "onboard_time": 1731205457,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 105496,
@@ -737,6 +825,14 @@
       "onboard_time": 1731153139,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101103,
+      "num": 277588,
+      "word": "晓华回应被怼30元拉低行业档次",
+      "onboard_time": 1731205221,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100839,
@@ -1035,6 +1131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 28671,
+      "num": 252035,
+      "word": "郑钦文说会尝试忘掉比赛失利",
+      "onboard_time": 1731206297,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28529,
       "num": 44186,
       "word": "逛公园带来的好心情能持续4小时",
@@ -1060,7 +1164,7 @@
     },
     {
       "raw_hot": 27470,
-      "num": 97937,
+      "num": 250626,
       "word": "来自好品山东的亿点点震撼",
       "onboard_time": 1731204318,
       "rank": 49,
@@ -1089,6 +1193,14 @@
       "onboard_time": 1731178871,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19249,
+      "num": 244004,
+      "word": "一起解锁漫游山东新姿势",
+      "onboard_time": 1731205757,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18667,

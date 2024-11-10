@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/10 10:05:40
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/10 10:54:05
 </p>
 </blockquote>
 <p>
@@ -1761,6 +1761,12 @@ S14开幕式播不播（热度：1045831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%94%A8%E7%AB%B9%E7%AD%BE%E7%96%AF%E7%8B%82%E8%99%90%E5%BE%85%E5%AD%A9%E5%AD%90%23" target="weibo">
+幼儿园老师用竹签疯狂虐待孩子（热度：1021458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A1%97%E5%A4%B4%E9%81%AD%E8%80%81%E4%BA%BA%E4%B8%80%E9%A1%BF%E7%8C%9B%E8%B8%B9%E5%90%8E%E8%A2%AB%E6%8E%A8%E5%80%92%23" target="weibo">
 女童街头遭老人一顿猛踹后被推倒（热度：1020700）
 </a>
@@ -2499,6 +2505,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E6%99%93%E5%8D%8E%E8%AF%B430%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E4%B8%8D%E4%BD%8E%23" target="weibo">
+理发师晓华说30元的价格不低（热度：808865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E6%80%80%E7%96%91%E6%B2%88%E6%9C%88%E6%AD%A6%E8%89%BA%E6%98%AF%E7%9C%9F%E6%83%85%E4%BE%A3%23" target="weibo">
 刘学义怀疑沈月武艺是真情侣（热度：801963）
 </a>
@@ -2753,6 +2765,12 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%23" target="weibo">
 疯狂动物城2（热度：738657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%88%B040%E6%9D%A1%E5%81%87%E4%B8%AD%E5%8D%8E%E8%8E%B7%E9%80%80%E8%B5%9410%E4%B8%87%23" target="weibo">
+买到40条假中华获退赔10万（热度：734918）
 </a>
 </li>
 
@@ -3521,6 +3539,12 @@ Bin哥厉害（热度：613687）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
 乔任梁母亲发声（热度：606875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%90%E6%9C%9F%E8%AE%A4%E8%AF%86%E7%AE%80%E4%BD%93%E5%AD%97%23" target="weibo">
+子期认识简体字（热度：606082）
 </a>
 </li>
 
@@ -4461,6 +4485,12 @@ Meiko恋情（热度：536801）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%8D%8A%E8%84%B8%E5%8D%B8%E5%A6%86%23" target="weibo">
+你好星期六半脸卸妆（热度：494546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9F%B3%E5%B7%9E%E5%A5%B3%E5%AD%90%E7%96%91%E5%96%9D%E9%86%89%E5%9C%A8%E8%B7%AF%E8%BE%B9%E8%A2%AB%E5%BC%BA%E6%9A%B4%23" target="weibo">
 警方回应柳州女子疑喝醉在路边被强暴（热度：494096）
 </a>
@@ -5109,12 +5139,6 @@ Doinb准备办退役仪式（热度：458173）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%90%E6%9C%9F%E8%AE%A4%E8%AF%86%E7%AE%80%E4%BD%93%E5%AD%97%23" target="weibo">
-子期认识简体字（热度：432196）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E9%AB%98%20%E7%9C%9F%E8%AF%9A%23" target="weibo">
 彭高 真诚（热度：431925）
 </a>
@@ -5195,12 +5219,6 @@ T1夺冠后的LPL解说台（热度：426158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%97%9C%E7%9D%A1%E7%88%B6%E6%AF%8D%E6%80%80%E7%96%91%E8%A2%AB%E5%96%82%E5%AE%89%E7%9C%A0%E8%8D%AF%23" target="weibo">
 婴儿嗜睡父母怀疑被喂安眠药（热度：424773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%94%A8%E7%AB%B9%E7%AD%BE%E7%96%AF%E7%8B%82%E8%99%90%E5%BE%85%E5%AD%A9%E5%AD%90%23" target="weibo">
-幼儿园老师用竹签疯狂虐待孩子（热度：422302）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ WTT法兰克福冠军赛抽签仪式（热度：369302）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%23" target="weibo">
 丝芭传媒（热度：361091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E9%A2%9C%E5%80%BC%23" target="weibo">
-邓超孙俪一家四口颜值（热度：360365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E4%BA%B2%E6%89%8B%E5%9F%8B%E8%91%AC%E8%A2%AB%E6%9D%80%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
-加沙医院院长亲手埋葬被杀的儿子（热度：360188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.2%23" target="weibo">
-小巷人家豆瓣开分8.2（热度：360052）
 </a>
 </li>
 
