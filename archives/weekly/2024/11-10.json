@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731252072827,
+  "endTime": 1731252906169,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784904,
+      "num": 290361,
+      "word": "女生涂碘伏祛痘3天后效果明显",
+      "onboard_time": 1731249442,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 766915,
       "num": 766915,
       "word": "晓华回应被怼30元拉低行业档次",
@@ -313,14 +321,6 @@
       "onboard_time": 1731243198,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 724938,
-      "num": 290361,
-      "word": "女生涂碘伏祛痘3天后效果明显",
-      "onboard_time": 1731249442,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 723826,
@@ -691,19 +691,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402847,
+      "num": 402847,
+      "word": "永夜星河大火案真相",
+      "onboard_time": 1731247940,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400223,
       "num": 368069,
       "word": "徐海乔评论区",
       "onboard_time": 1731221121,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 397002,
-      "num": 397002,
-      "word": "永夜星河大火案真相",
-      "onboard_time": 1731247940,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305117,
+      "num": 512887,
+      "word": "林诗栋4比1卡尔伯格",
+      "onboard_time": 1731252020,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302804,
       "num": 302804,
       "word": "张韶涵回应郑钦文赛前听欧若拉",
@@ -1003,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280500,
+      "num": 280500,
+      "word": "王曼昱说冠军是对前一阶段训练的认可",
+      "onboard_time": 1731251181,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279176,
       "num": 279176,
       "word": "疯狂好六夜节目单",
       "onboard_time": 1731241999,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277110,
+      "num": 277110,
+      "word": "本周锦鲤附体星座",
+      "onboard_time": 1731250940,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 275073,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1731165620,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267881,
-      "num": 211450,
-      "word": "本周锦鲤附体星座",
-      "onboard_time": 1731250940,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 266172,
@@ -1163,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248817,
+      "num": 248817,
+      "word": "王安宇人生镜头",
+      "onboard_time": 1731250641,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248046,
       "num": 248046,
       "word": "李宏毅孙珍妮体型差",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1731242180,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240301,
-      "num": 240301,
-      "word": "王安宇人生镜头",
-      "onboard_time": 1731250641,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 238892,
@@ -1299,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "鹏飞妈妈",
+      "onboard_time": 1731251421,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221372,
       "num": 221372,
       "word": "王栎鑫体面人",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1731210438,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219072,
+      "num": 219072,
+      "word": "王玉雯的反击给我看爽了",
+      "onboard_time": 1731251899,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 217689,
@@ -1393,14 +1425,6 @@
       "onboard_time": 1731225979,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210342,
-      "num": 210342,
-      "word": "王曼昱说冠军是对前一阶段训练的认可",
-      "onboard_time": 1731251181,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210013,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1731248600,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201867,
+      "num": 512782,
+      "word": "黎巴嫩BP机爆炸事件系以色列制造",
+      "onboard_time": 1731250701,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 201698,
@@ -1651,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192384,
+      "num": 192384,
+      "word": "种地吧",
+      "onboard_time": 1731251481,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192222,
       "num": 192222,
       "word": "张杰肌肉",
@@ -1675,28 +1715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191363,
+      "num": 191363,
+      "word": "何炅欢迎谢娜回家",
+      "onboard_time": 1731252260,
+      "rank": 37,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 190816,
       "num": 368358,
       "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
       "onboard_time": 1731237019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188957,
-      "num": 188957,
-      "word": "种地吧",
-      "onboard_time": 1731251481,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 187470,
-      "num": 187470,
-      "word": "鹏飞妈妈",
-      "onboard_time": 1731251421,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 186348,
@@ -1747,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181242,
+      "num": 181242,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1731251600,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180758,
       "num": 180758,
       "word": "公立医院洗牌时代真的来了",
@@ -1772,7 +1812,7 @@
     },
     {
       "raw_hot": 180464,
-      "num": 180464,
+      "num": 300706,
       "word": "何浩楠直播",
       "onboard_time": 1731251481,
       "rank": 37,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1731251780,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179590,
-      "num": 179590,
-      "word": "薛之谦音乐节",
-      "onboard_time": 1731251600,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 178547,
@@ -1913,6 +1945,14 @@
       "onboard_time": 1731165080,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169823,
+      "num": 515950,
+      "word": "AG决赛再会狼队",
+      "onboard_time": 1731252078,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 169359,
@@ -2171,12 +2211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151568,
-      "num": 151568,
-      "word": "王玉雯的反击给我看爽了",
-      "onboard_time": 1731251899,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 151932,
+      "num": 151932,
+      "word": "林诗栋男子单打冠军",
+      "onboard_time": 1731252798,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 151051,
@@ -2185,6 +2225,14 @@
       "onboard_time": 1731245600,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150633,
+      "num": 150633,
+      "word": "虞书欣哭戏片段",
+      "onboard_time": 1731251600,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 150336,
@@ -2209,14 +2257,6 @@
       "onboard_time": 1731230241,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 148111,
-      "num": 148111,
-      "word": "虞书欣哭戏片段",
-      "onboard_time": 1731251600,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 146084,
@@ -2265,6 +2305,14 @@
       "onboard_time": 1731164060,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142956,
+      "num": 142956,
+      "word": "心疼妖刀",
+      "onboard_time": 1731252739,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 140936,
@@ -2361,14 +2409,6 @@
       "onboard_time": 1731215959,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136438,
-      "num": 512782,
-      "word": "黎巴嫩BP机爆炸事件系以色列制造",
-      "onboard_time": 1731250701,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 136099,
@@ -3523,6 +3563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22128,
+      "num": 231433,
+      "word": "永夜星河好感度百分之99了",
+      "onboard_time": 1731252500,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22032,
       "num": 121238,
       "word": "又被郭晶晶美到了",
@@ -3611,20 +3659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13650,
+      "num": 508743,
+      "word": "职业打假人收徒卖课已成生意",
+      "onboard_time": 1731252618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8159,
       "num": 925205,
       "word": "这些橙色身影是最坚实的依靠",
       "onboard_time": 1731155118,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6358,
-      "num": 512887,
-      "word": "林诗栋4比1卡尔伯格",
-      "onboard_time": 1731252020,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 4723,
