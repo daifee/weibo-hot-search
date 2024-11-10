@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731277206791,
+  "endTime": 1731278248575,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -947,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311944,
+      "num": 477845,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311415,
       "num": 216482,
       "word": "男性消费力增速不如狗",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1731225079,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280756,
+      "num": 102361,
+      "word": "华盛顿聚集大量人群抗议特朗普",
+      "onboard_time": 1731273791,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 280500,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1731223639,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 242510,
+      "num": 242510,
+      "word": "泄密后反嘱咐对方千万别外传",
+      "onboard_time": 1731272050,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241023,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1731254359,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210761,
-      "num": 369155,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210484,
@@ -1785,14 +1801,6 @@
       "onboard_time": 1731237019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190476,
-      "num": 66101,
-      "word": "华盛顿聚集大量人群抗议特朗普",
-      "onboard_time": 1731273791,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 186349,
@@ -2163,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160276,
+      "num": 160276,
+      "word": "自驾阿姨说自己没有愧对任何人",
+      "onboard_time": 1731275651,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "檀健次做饭",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1731230241,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 148102,
-      "num": 148102,
-      "word": "泄密后反嘱咐对方千万别外传",
-      "onboard_time": 1731272050,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146084,
@@ -3067,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74773,
+      "num": 74773,
+      "word": "万斯警告欧盟别对X平台下手",
+      "onboard_time": 1731273012,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 73807,
       "num": 472338,
       "word": "2023年黑龙江出生率全国垫底",
@@ -3153,14 +3169,6 @@
       "onboard_time": 1731209298,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65971,
-      "num": 65971,
-      "word": "自驾阿姨说自己没有愧对任何人",
-      "onboard_time": 1731275651,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65672,
@@ -3273,14 +3281,6 @@
       "onboard_time": 1731209298,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56172,
-      "num": 56172,
-      "word": "万斯警告欧盟别对X平台下手",
-      "onboard_time": 1731273012,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 55506,
@@ -3467,6 +3467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39467,
+      "num": 39467,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39385,
       "num": 189772,
       "word": "海军陆战队员首次亮相中国航展",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1731259874,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 37151,
+      "num": 37151,
+      "word": "天舟七号撤离中国空间站",
+      "onboard_time": 1731272651,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36727,
@@ -3595,20 +3611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30868,
-      "num": 30868,
-      "word": "天舟七号撤离中国空间站",
-      "onboard_time": 1731272651,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30668,
       "num": 563789,
       "word": "歼35歼15歼15T三机模型首次同框",
       "onboard_time": 1731228078,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 30016,
+      "num": 30016,
+      "word": "她只是一位想夺回养狗权的妈妈",
+      "onboard_time": 1731269231,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 29467,
@@ -3675,14 +3691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25879,
-      "num": 25879,
-      "word": "她只是一位想夺回养狗权的妈妈",
-      "onboard_time": 1731269231,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25578,
       "num": 133727,
       "word": "郑钦文追平亚洲球员最好成绩",
@@ -3747,12 +3755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23583,
-      "num": 23583,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 23388,
+      "num": 26813,
+      "word": "鞠婧祎嘉人百大赏预热",
+      "onboard_time": 1731277451,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23088,
@@ -3819,6 +3827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21221,
+      "num": 26810,
+      "word": "双11疯狂好六夜",
+      "onboard_time": 1731261013,
+      "rank": 41,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 20776,
       "num": 22598,
       "word": "以总理证实以方制造黎巴嫩BP机爆炸",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1731249020,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19909,
-      "num": 25111,
-      "word": "双11疯狂好六夜",
-      "onboard_time": 1731261013,
-      "rank": 41,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 19093,
@@ -3939,6 +3947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14486,
+      "num": 102387,
+      "word": "民间反偷拍不该受威胁",
+      "onboard_time": 1731276912,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13764,
       "num": 30995,
       "word": "关注第15届中国航展",
@@ -3969,14 +3985,6 @@
       "onboard_time": 1731270560,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11242,
-      "num": 66110,
-      "word": "民间反偷拍不该受威胁",
-      "onboard_time": 1731276912,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8159,
