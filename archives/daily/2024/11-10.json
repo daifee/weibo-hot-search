@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731237425167,
+  "endTime": 1731238502825,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 930308,
-      "num": 1148849,
+      "raw_hot": 945120,
+      "num": 1151219,
       "word": "用人民币感受冰岛物价",
       "onboard_time": 1731229819,
       "rank": 30,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762370,
+      "num": 355459,
+      "word": "四大扛剧小生",
+      "onboard_time": 1731235160,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 755425,
       "num": 755425,
       "word": "白百何 观众缘",
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656878,
-      "num": 355459,
-      "word": "四大扛剧小生",
-      "onboard_time": 1731235160,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 655766,
       "num": 655766,
       "word": "我喜欢子期变繁体了",
@@ -291,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 612311,
+      "num": 612311,
+      "word": "慕声好感度已达99%",
+      "onboard_time": 1731233297,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 606082,
       "num": 606082,
       "word": "子期认识简体字",
@@ -312,14 +320,6 @@
       "word": "迪丽热巴演技",
       "onboard_time": 1731164961,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 573031,
-      "num": 573031,
-      "word": "慕声好感度已达99%",
-      "onboard_time": 1731233297,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -425,6 +425,14 @@
       "onboard_time": 1731216259,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 473961,
+      "num": 311186,
+      "word": "林青霞姜涛牵手出席活动",
+      "onboard_time": 1731236717,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 451310,
@@ -667,12 +675,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 315138,
+      "num": 315138,
+      "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
+      "onboard_time": 1731237799,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302804,
       "num": 302804,
       "word": "张韶涵回应郑钦文赛前听欧若拉",
       "onboard_time": 1731196936,
       "rank": 8,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 297303,
+      "num": 297303,
+      "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+      "onboard_time": 1731238099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 296485,
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265682,
+      "num": 265682,
+      "word": "杨幂未来感黑裙",
+      "onboard_time": 1731237319,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 263950,
       "num": 277952,
       "word": "NASA坚称2名滞留宇航员很健康",
@@ -817,14 +849,6 @@
       "onboard_time": 1731213257,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256023,
-      "num": 256023,
-      "word": "林青霞姜涛牵手出席活动",
-      "onboard_time": 1731236717,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 254701,
@@ -945,6 +969,14 @@
       "onboard_time": 1731216918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223777,
+      "num": 223777,
+      "word": "分享欲才是两个人感情最好的证明",
+      "onboard_time": 1731234859,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 223301,
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203127,
+      "num": 255296,
+      "word": "沈月 相亲届燃冬",
+      "onboard_time": 1731236239,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202592,
       "num": 202592,
       "word": "杨紫许凯获中美电视节优秀青年演员",
@@ -1147,20 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199639,
+      "num": 199639,
+      "word": "小侯爷人真好",
+      "onboard_time": 1731238099,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199090,
+      "num": 199090,
+      "word": "offer律政四季大团建",
+      "onboard_time": 1731235879,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198585,
       "num": 198585,
       "word": "早期虞书欣",
       "onboard_time": 1731234138,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198046,
-      "num": 198046,
-      "word": "杨幂未来感黑裙",
-      "onboard_time": 1731237319,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197960,
@@ -1187,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196484,
+      "num": 196484,
+      "word": "双轨",
+      "onboard_time": 1731238038,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194197,
       "num": 186320,
       "word": "仙逆王林化神新皮肤上线",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1731208938,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193487,
+      "num": 193487,
+      "word": "男性消费力增速不如狗",
+      "onboard_time": 1731237979,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192110,
@@ -1219,20 +1283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190816,
+      "num": 368358,
+      "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
+      "onboard_time": 1731237019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
       "onboard_time": 1731162860,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 186325,
-      "num": 186325,
-      "word": "沈月 相亲届燃冬",
-      "onboard_time": 1731236239,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 185319,
@@ -1257,14 +1321,6 @@
       "onboard_time": 1731234019,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181745,
-      "num": 181745,
-      "word": "offer律政四季大团建",
-      "onboard_time": 1731235879,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 181702,
@@ -1361,14 +1417,6 @@
       "onboard_time": 1731201438,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174665,
-      "num": 174665,
-      "word": "分享欲才是两个人感情最好的证明",
-      "onboard_time": 1731234859,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 173900,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1731200839,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 154004,
+      "num": 250891,
+      "word": "沈梦辰说和娜扎是情敌",
+      "onboard_time": 1731235996,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 153991,
@@ -1955,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105781,
+      "num": 266662,
+      "word": "劳斯莱斯女车主哽咽否认炒作",
+      "onboard_time": 1731237860,
+      "rank": 23,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 105496,
       "num": 105496,
       "word": "小巷人家预告好甜",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1731167120,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103207,
+      "num": 312765,
+      "word": "KSG败决先下一城",
+      "onboard_time": 1731237560,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 102611,
@@ -2097,6 +2169,14 @@
       "onboard_time": 1731216859,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94600,
+      "num": 319706,
+      "word": "天猫双11最后5折冲刺",
+      "onboard_time": 1731236419,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 94023,
@@ -2283,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62856,
+      "num": 295736,
+      "word": "时代少年团给娜扎写热搜",
+      "onboard_time": 1731237378,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61879,
       "num": 491611,
       "word": "男子自导自演被狗咬碰瓷遛狗人",
@@ -2291,28 +2379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61860,
-      "num": 319706,
-      "word": "天猫双11最后5折冲刺",
-      "onboard_time": 1731236419,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 61515,
       "num": 61515,
       "word": "郑钦文1比2高芙",
       "onboard_time": 1731172396,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60724,
-      "num": 368358,
-      "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
-      "onboard_time": 1731237019,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60693,
@@ -2483,6 +2555,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 43063,
+      "num": 296001,
+      "word": "最快下个月又能看郑钦文比赛了",
+      "onboard_time": 1731238399,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41779,
+      "num": 265828,
+      "word": "京东再次放价",
+      "onboard_time": 1731237560,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39895,
       "num": 50805,
       "word": "姆巴佩状态",
@@ -2561,14 +2649,6 @@
       "onboard_time": 1731206297,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34632,
-      "num": 255349,
-      "word": "时代少年团给娜扎写热搜",
-      "onboard_time": 1731237378,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 34576,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731237425167,
+  "endTime": 1731238502825,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2747,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 945120,
+      "num": 1151219,
+      "word": "用人民币感受冰岛物价",
+      "onboard_time": 1731229819,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 944734,
       "num": 614618,
       "word": "所有男明星都看过来",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1730648239,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 930308,
-      "num": 1148849,
-      "word": "用人民币感受冰岛物价",
-      "onboard_time": 1731229819,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 925703,
@@ -3691,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762370,
+      "num": 355459,
+      "word": "四大扛剧小生",
+      "onboard_time": 1731235160,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 760600,
       "num": 561334,
       "word": "26岁女子确诊渐冻症前后判若两人",
@@ -4363,14 +4371,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 656878,
-      "num": 355459,
-      "word": "四大扛剧小生",
-      "onboard_time": 1731235160,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 656823,
       "num": 656823,
       "word": "哈里斯做好特朗普提前宣布胜选准备",
@@ -4875,6 +4875,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 612311,
+      "num": 612311,
+      "word": "慕声好感度已达99%",
+      "onboard_time": 1731233297,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611911,
       "num": 380872,
       "word": "男孩一洗澡就癫痫发作",
@@ -5312,14 +5320,6 @@
       "word": "以爱为营",
       "onboard_time": 1730607500,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 573031,
-      "num": 573031,
-      "word": "慕声好感度已达99%",
-      "onboard_time": 1731233297,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -6505,6 +6505,14 @@
       "onboard_time": 1730432598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473961,
+      "num": 311186,
+      "word": "林青霞姜涛牵手出席活动",
+      "onboard_time": 1731236717,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 472712,
@@ -9331,6 +9339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315138,
+      "num": 315138,
+      "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
+      "onboard_time": 1731237799,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314072,
       "num": 314072,
       "word": "特朗普小儿子或成美政坛新星",
@@ -9705,6 +9721,14 @@
       "onboard_time": 1730779160,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297303,
+      "num": 297303,
+      "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+      "onboard_time": 1731238099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 296915,
@@ -10707,6 +10731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265682,
+      "num": 265682,
+      "word": "杨幂未来感黑裙",
+      "onboard_time": 1731237319,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 265639,
       "num": 265639,
       "word": "易烊千玺用半年时间才走出角色",
@@ -11017,14 +11049,6 @@
       "onboard_time": 1731213257,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256023,
-      "num": 256023,
-      "word": "林青霞姜涛牵手出席活动",
-      "onboard_time": 1731236717,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 255588,
@@ -12217,6 +12241,14 @@
       "onboard_time": 1730990484,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223777,
+      "num": 223777,
+      "word": "分享欲才是两个人感情最好的证明",
+      "onboard_time": 1731234859,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 223649,
@@ -13627,6 +13659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203127,
+      "num": 255296,
+      "word": "沈月 相亲届燃冬",
+      "onboard_time": 1731236239,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203006,
       "num": 203006,
       "word": "珠帘玉幕全组给赵露思庆生",
@@ -14019,6 +14059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199639,
+      "num": 199639,
+      "word": "小侯爷人真好",
+      "onboard_time": 1731238099,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199600,
       "num": 199600,
       "word": "副市长31亿涉案资产背后的官场江湖",
@@ -14073,6 +14121,14 @@
       "onboard_time": 1730514557,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199090,
+      "num": 199090,
+      "word": "offer律政四季大团建",
+      "onboard_time": 1731235879,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 199078,
@@ -14169,14 +14225,6 @@
       "onboard_time": 1730961318,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198046,
-      "num": 198046,
-      "word": "杨幂未来感黑裙",
-      "onboard_time": 1731237319,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198023,
@@ -14369,6 +14417,14 @@
       "onboard_time": 1730909538,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196484,
+      "num": 196484,
+      "word": "双轨",
+      "onboard_time": 1731238038,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196452,
@@ -14683,6 +14739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193487,
+      "num": 193487,
+      "word": "男性消费力增速不如狗",
+      "onboard_time": 1731237979,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193468,
       "num": 340961,
       "word": "怎么不带张一山",
@@ -14985,6 +15049,14 @@
       "onboard_time": 1730554099,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190816,
+      "num": 368358,
+      "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
+      "onboard_time": 1731237019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190732,
@@ -15331,14 +15403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 186325,
-      "num": 186325,
-      "word": "沈月 相亲届燃冬",
-      "onboard_time": 1731236239,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186233,
       "num": 186233,
       "word": "女子产后出院被老公套袋抬回家",
@@ -15657,14 +15721,6 @@
       "onboard_time": 1730519959,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181745,
-      "num": 181745,
-      "word": "offer律政四季大团建",
-      "onboard_time": 1731235879,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 181702,
@@ -16393,14 +16449,6 @@
       "onboard_time": 1731201438,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174665,
-      "num": 174665,
-      "word": "分享欲才是两个人感情最好的证明",
-      "onboard_time": 1731234859,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 174650,
@@ -18561,6 +18609,14 @@
       "onboard_time": 1731079460,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 154004,
+      "num": 250891,
+      "word": "沈梦辰说和娜扎是情敌",
+      "onboard_time": 1731235996,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 153993,
@@ -23443,6 +23499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105781,
+      "num": 266662,
+      "word": "劳斯莱斯女车主哽咽否认炒作",
+      "onboard_time": 1731237860,
+      "rank": 23,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 105496,
       "num": 105496,
       "word": "小巷人家预告好甜",
@@ -23649,6 +23713,14 @@
       "onboard_time": 1730623039,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103207,
+      "num": 312765,
+      "word": "KSG败决先下一城",
+      "onboard_time": 1731237560,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 103089,
@@ -24233,6 +24305,14 @@
       "onboard_time": 1731216859,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94600,
+      "num": 319706,
+      "word": "天猫双11最后5折冲刺",
+      "onboard_time": 1731236419,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 94468,
@@ -25835,6 +25915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62856,
+      "num": 295736,
+      "word": "时代少年团给娜扎写热搜",
+      "onboard_time": 1731237378,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62640,
       "num": 306749,
       "word": "这届中国航展太passion了",
@@ -25897,14 +25985,6 @@
       "onboard_time": 1731229220,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61860,
-      "num": 319706,
-      "word": "天猫双11最后5折冲刺",
-      "onboard_time": 1731236419,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 61839,
@@ -26017,14 +26097,6 @@
       "onboard_time": 1730975904,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60724,
-      "num": 368358,
-      "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
-      "onboard_time": 1731237019,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60693,
@@ -27347,6 +27419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43063,
+      "num": 296001,
+      "word": "最快下个月又能看郑钦文比赛了",
+      "onboard_time": 1731238399,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42854,
       "num": 148543,
       "word": "煤气爆燃烧伤妈妈手指可以动了",
@@ -27505,6 +27585,14 @@
       "onboard_time": 1731055400,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41779,
+      "num": 265828,
+      "word": "京东再次放价",
+      "onboard_time": 1731237560,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 41656,
@@ -28289,14 +28377,6 @@
       "onboard_time": 1730973381,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 34632,
-      "num": 255349,
-      "word": "时代少年团给娜扎写热搜",
-      "onboard_time": 1731237378,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 34620,
