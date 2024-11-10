@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731255892440,
+  "endTime": 1731256811982,
   "band_list": [
     {
       "raw_hot": 650578,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383318,
+      "num": 383318,
+      "word": "2岁失踪女童家属怀疑系熟人作案",
+      "onboard_time": 1731254777,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375379,
       "num": 375379,
       "word": "费启鸣 请苍天辨忠奸",
@@ -59,7 +67,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308627,
+      "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
       "onboard_time": 1731253819,
@@ -131,8 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217735,
-      "num": 217735,
+      "raw_hot": 228813,
+      "num": 228813,
       "word": "黎巴嫩BP机爆炸事件系以色列制造",
       "onboard_time": 1731250701,
       "rank": 17,
@@ -171,6 +179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198481,
+      "num": 198481,
+      "word": "心疼妖刀",
+      "onboard_time": 1731252739,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192256,
       "num": 192256,
       "word": "本周锦鲤附体星座",
@@ -187,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187100,
-      "num": 187100,
-      "word": "心疼妖刀",
-      "onboard_time": 1731252739,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 180481,
       "num": 180481,
       "word": "华晨宇 想要成长多谈恋爱",
@@ -203,8 +211,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161786,
-      "num": 161786,
+      "raw_hot": 162436,
+      "num": 162436,
       "word": "永夜星河系统包宠的",
       "onboard_time": 1731254359,
       "rank": 27,
@@ -275,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132969,
+      "num": 132969,
+      "word": "田嘉瑞演技",
+      "onboard_time": 1731252980,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124309,
       "num": 124309,
       "word": "林诗栋男子单打冠军",
@@ -299,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109671,
-      "num": 109671,
-      "word": "田嘉瑞演技",
-      "onboard_time": 1731252980,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109087,
       "num": 109087,
       "word": "张真源眼镜造型killing",
@@ -321,14 +329,6 @@
       "onboard_time": 1731232640,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 103419,
-      "num": 286020,
-      "word": "2岁失踪女童家属怀疑系熟人作案",
-      "onboard_time": 1731254777,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95172,
@@ -363,7 +363,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80499,
+      "raw_hot": 81011,
       "num": 109936,
       "word": "双11",
       "onboard_time": 1731254059,
@@ -388,11 +388,19 @@
     },
     {
       "raw_hot": 75939,
-      "num": 75939,
+      "num": 236245,
       "word": "中国领土一点都不会让一寸也不能丢",
       "onboard_time": 1731255797,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65672,
+      "num": 65672,
+      "word": "小鬼 轻舟撞上周一围",
+      "onboard_time": 1731256517,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 7593,
