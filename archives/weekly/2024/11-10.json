@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731235095265,
+  "endTime": 1731237425167,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -40,6 +40,14 @@
       "word": "泰迪吓到小孩男子抢狗当场暴摔",
       "onboard_time": 1731231799,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1626291,
+      "num": 348353,
+      "word": "女孩租房半年房东4天清出7车垃圾",
+      "onboard_time": 1731234019,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -139,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 919641,
-      "num": 1133039,
+      "raw_hot": 930308,
+      "num": 1148849,
       "word": "用人民币感受冰岛物价",
       "onboard_time": 1731229819,
       "rank": 30,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656878,
+      "num": 355459,
+      "word": "四大扛剧小生",
+      "onboard_time": 1731235160,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 655766,
       "num": 655766,
       "word": "我喜欢子期变繁体了",
@@ -296,6 +312,14 @@
       "word": "迪丽热巴演技",
       "onboard_time": 1731164961,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 573031,
+      "num": 573031,
+      "word": "慕声好感度已达99%",
+      "onboard_time": 1731233297,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446044,
+      "num": 446044,
+      "word": "这里是中国黄岩岛海域",
+      "onboard_time": 1731232640,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 445282,
       "num": 445282,
       "word": "祖国一旦有需要反正那就干",
@@ -465,14 +497,6 @@
       "onboard_time": 1731220520,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431510,
-      "num": 431510,
-      "word": "这里是中国黄岩岛海域",
-      "onboard_time": 1731232640,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 423633,
@@ -593,14 +617,6 @@
       "onboard_time": 1731180792,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348353,
-      "num": 348353,
-      "word": "女孩租房半年房东4天清出7车垃圾",
-      "onboard_time": 1731234019,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345004,
@@ -747,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269622,
-      "num": 379779,
-      "word": "慕声好感度已达99%",
-      "onboard_time": 1731233297,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -809,6 +817,22 @@
       "onboard_time": 1731213257,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256023,
+      "num": 256023,
+      "word": "林青霞姜涛牵手出席活动",
+      "onboard_time": 1731236717,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254701,
+      "num": 254701,
+      "word": "两人撞车没受伤但吵架气死1人",
+      "onboard_time": 1731231859,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253855,
@@ -923,12 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221768,
-      "num": 211222,
-      "word": "两人撞车没受伤但吵架气死1人",
-      "onboard_time": 1731231859,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 223301,
+      "num": 219568,
+      "word": "丁禹兮摸自己摸到害羞",
+      "onboard_time": 1731233420,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221372,
@@ -937,14 +961,6 @@
       "onboard_time": 1731227300,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219568,
-      "num": 219568,
-      "word": "丁禹兮摸自己摸到害羞",
-      "onboard_time": 1731233420,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219098,
@@ -1131,6 +1147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198585,
+      "num": 198585,
+      "word": "早期虞书欣",
+      "onboard_time": 1731234138,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "杨幂未来感黑裙",
+      "onboard_time": 1731237319,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197960,
       "num": 197960,
       "word": "肖战专辑intro",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1731233238,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194197,
+      "num": 186320,
+      "word": "仙逆王林化神新皮肤上线",
+      "onboard_time": 1731237378,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 193797,
@@ -1187,6 +1227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186325,
+      "num": 186325,
+      "word": "沈月 相亲届燃冬",
+      "onboard_time": 1731236239,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185319,
       "num": 185319,
       "word": "晓华爆改男大剪完神似易烊千玺",
@@ -1209,6 +1257,22 @@
       "onboard_time": 1731234019,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181745,
+      "num": 181745,
+      "word": "offer律政四季大团建",
+      "onboard_time": 1731235879,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181702,
+      "num": 181702,
+      "word": "厦门高崎机场确定搬迁",
+      "onboard_time": 1731236178,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180758,
@@ -1299,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174665,
+      "num": 174665,
+      "word": "分享欲才是两个人感情最好的证明",
+      "onboard_time": 1731234859,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173900,
       "num": 219650,
       "word": "周也病娇感",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1731227538,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165073,
-      "num": 165073,
-      "word": "早期虞书欣",
-      "onboard_time": 1731234138,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164881,
@@ -2059,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91820,
-      "num": 91820,
-      "word": "分享欲才是两个人感情最好的证明",
-      "onboard_time": 1731234859,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 89695,
       "num": 171337,
       "word": "郑钦文说我是比赛中更有统治力的人",
@@ -2235,12 +2291,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61860,
+      "num": 319706,
+      "word": "天猫双11最后5折冲刺",
+      "onboard_time": 1731236419,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61515,
       "num": 61515,
       "word": "郑钦文1比2高芙",
       "onboard_time": 1731172396,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60724,
+      "num": 368358,
+      "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
+      "onboard_time": 1731237019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60693,
+      "num": 108182,
+      "word": "中国航展超燃画面连连看",
+      "onboard_time": 1731236539,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 60322,
@@ -2481,6 +2561,14 @@
       "onboard_time": 1731206297,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34632,
+      "num": 255349,
+      "word": "时代少年团给娜扎写热搜",
+      "onboard_time": 1731237378,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 34576,

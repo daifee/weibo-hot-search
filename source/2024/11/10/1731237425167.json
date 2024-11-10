@@ -1,0 +1,410 @@
+{
+  "runTime": 1731237425167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 930308,
+        "num": 1148849,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 593233,
+        "num": 593233,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7940,
+        "num": 593193,
+        "word": "进博会服务贸易展区体验感满满",
+        "onboard_time": 1731229159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593183,
+        "num": 593183,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573031,
+        "num": 573031,
+        "word": "慕声好感度已达99%",
+        "onboard_time": 1731233297,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551904,
+        "num": 551904,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 5,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 446044,
+        "num": 446044,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412807,
+        "num": 412807,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378240,
+        "num": 378240,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60724,
+        "num": 368358,
+        "word": "黑龙江蔓越莓广西砂糖橘的故事上新",
+        "onboard_time": 1731237019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987990,
+        "num": 358432,
+        "word": "花粉地狱",
+        "onboard_time": 1731230479,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 656878,
+        "num": 355459,
+        "word": "四大扛剧小生",
+        "onboard_time": 1731235160,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561565,
+        "num": 336579,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335888,
+        "num": 335888,
+        "word": "麦琳情商",
+        "onboard_time": 1731229880,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61860,
+        "num": 319706,
+        "word": "天猫双11最后5折冲刺",
+        "onboard_time": 1731236419,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308638,
+        "num": 308638,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304082,
+        "num": 304082,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292916,
+        "num": 292916,
+        "word": "黄晓明",
+        "onboard_time": 1731217579,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256023,
+        "num": 256023,
+        "word": "林青霞姜涛牵手出席活动",
+        "onboard_time": 1731236717,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34632,
+        "num": 255349,
+        "word": "时代少年团给娜扎写热搜",
+        "onboard_time": 1731237378,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1626291,
+        "num": 255292,
+        "word": "女孩租房半年房东4天清出7车垃圾",
+        "onboard_time": 1731234019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254701,
+        "num": 254701,
+        "word": "两人撞车没受伤但吵架气死1人",
+        "onboard_time": 1731231859,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244179,
+        "num": 244179,
+        "word": "用真肉做的全透明汉堡",
+        "onboard_time": 1731230058,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233498,
+        "num": 233498,
+        "word": "虞书欣亮相曼谷",
+        "onboard_time": 1731230058,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193983,
+        "num": 201460,
+        "word": "白百何 观众缘",
+        "onboard_time": 1731225259,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198585,
+        "num": 198585,
+        "word": "早期虞书欣",
+        "onboard_time": 1731234138,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198046,
+        "num": 198046,
+        "word": "杨幂未来感黑裙",
+        "onboard_time": 1731237319,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223301,
+        "num": 195770,
+        "word": "丁禹兮摸自己摸到害羞",
+        "onboard_time": 1731233420,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212991,
+        "num": 193074,
+        "word": "我姥一分钱不花做了八菜一汤",
+        "onboard_time": 1731229939,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186325,
+        "num": 186325,
+        "word": "沈月 相亲届燃冬",
+        "onboard_time": 1731236239,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194197,
+        "num": 186320,
+        "word": "仙逆王林化神新皮肤上线",
+        "onboard_time": 1731237378,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181745,
+        "num": 181745,
+        "word": "offer律政四季大团建",
+        "onboard_time": 1731235879,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181702,
+        "num": 181702,
+        "word": "厦门高崎机场确定搬迁",
+        "onboard_time": 1731236178,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174665,
+        "num": 174665,
+        "word": "分享欲才是两个人感情最好的证明",
+        "onboard_time": 1731234859,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171228,
+        "num": 171228,
+        "word": "黄岩岛领海基线",
+        "onboard_time": 1731227239,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "赵露思工作室",
+        "onboard_time": 1731227419,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143695,
+        "num": 143695,
+        "word": "鞠婧祎红昭愿",
+        "onboard_time": 1731234019,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141497,
+        "num": 141497,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138925,
+        "num": 138925,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 136099,
+        "word": "中国提议交换月球样本美方至今没吭声",
+        "onboard_time": 1731216259,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131329,
+        "num": 131329,
+        "word": "凌妙妙慕子期和好",
+        "onboard_time": 1731232759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126225,
+        "num": 126225,
+        "word": "珠帘玉幕上强度了",
+        "onboard_time": 1731233238,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125885,
+        "num": 125885,
+        "word": "猴王争霸赛",
+        "onboard_time": 1731232759,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122940,
+        "num": 122940,
+        "word": "黑龙江出生率再创历史新低",
+        "onboard_time": 1731220520,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121321,
+        "num": 121321,
+        "word": "男子大口喝下百草枯28天创造奇迹",
+        "onboard_time": 1731214878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118549,
+        "num": 118549,
+        "word": "南天门计划白帝空天战机亮相航展",
+        "onboard_time": 1731230241,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 116778,
+        "num": 116778,
+        "word": "丁禹兮好一个付出型人格",
+        "onboard_time": 1731232039,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115938,
+        "num": 115938,
+        "word": "运20夜间大规模输送空降兵空降空投",
+        "onboard_time": 1731234138,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 109176,
+        "word": "付款方式莫名变成了先用后付",
+        "onboard_time": 1731223820,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60693,
+        "num": 108182,
+        "word": "中国航展超燃画面连连看",
+        "onboard_time": 1731236539,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}
