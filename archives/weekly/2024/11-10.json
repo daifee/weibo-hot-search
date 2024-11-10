@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731266307887,
+  "endTime": 1731267324105,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -3771,6 +3771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19578,
+      "num": 20296,
+      "word": "以总理证实以方制造黎巴嫩BP机爆炸",
+      "onboard_time": 1731256816,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 19093,
+      "num": 52860,
+      "word": "彩虹7无人机已具备上舰能力",
+      "onboard_time": 1731265632,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 18667,
       "num": 113500,
       "word": "郑钦文挽救2个盘点破发",
@@ -3787,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18379,
-      "num": 20296,
-      "word": "以总理证实以方制造黎巴嫩BP机爆炸",
-      "onboard_time": 1731256816,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 18277,
       "num": 201677,
       "word": "对话爆火发型师晓华",
@@ -3803,7 +3811,7 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 17680,
+      "raw_hot": 18217,
       "num": 20294,
       "word": "狼队对战ksg",
       "onboard_time": 1731260415,
@@ -3843,11 +3851,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14101,
-      "num": 52860,
-      "word": "彩虹7无人机已具备上舰能力",
-      "onboard_time": 1731265632,
-      "rank": 10,
+      "raw_hot": 13764,
+      "num": 30995,
+      "word": "关注第15届中国航展",
+      "onboard_time": 1731264911,
+      "rank": 33,
       "category": "军事"
     },
     {
@@ -3857,14 +3865,6 @@
       "onboard_time": 1731252618,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13531,
-      "num": 27395,
-      "word": "关注第15届中国航展",
-      "onboard_time": 1731264911,
-      "rank": 33,
-      "category": "军事"
     },
     {
       "raw_hot": 8159,
