@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731231305145,
+  "endTime": 1731234070040,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -75,6 +75,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1362859,
+      "num": 429382,
+      "word": "花粉地狱",
+      "onboard_time": 1731230479,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1354745,
       "num": 1354745,
       "word": "郑钦文vs高芙",
@@ -88,6 +96,14 @@
       "word": "开封市民吐槽别来夜骑了",
       "onboard_time": 1731218180,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287857,
+      "num": 1287857,
+      "word": "泰迪吓到小孩男子抢狗当场暴摔",
+      "onboard_time": 1731231799,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -121,6 +137,14 @@
       "onboard_time": 1731204019,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919641,
+      "num": 919641,
+      "word": "用人民币感受冰岛物价",
+      "onboard_time": 1731229819,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 865857,
@@ -235,20 +259,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 619631,
+      "num": 619631,
+      "word": "中国一点都不能少",
+      "onboard_time": 1731229819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 606082,
       "num": 606082,
       "word": "子期认识简体字",
       "onboard_time": 1731200357,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 594831,
-      "num": 594831,
-      "word": "中国一点都不能少",
-      "onboard_time": 1731229819,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 593285,
@@ -297,6 +321,14 @@
       "onboard_time": 1731167120,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 529635,
+      "num": 503467,
+      "word": "虞书欣亮相曼谷",
+      "onboard_time": 1731230058,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 526733,
@@ -363,12 +395,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 471321,
-      "num": 503467,
-      "word": "虞书欣亮相曼谷",
-      "onboard_time": 1731230058,
-      "rank": 15,
-      "category": "作品衍生,时尚"
+      "raw_hot": 476472,
+      "num": 476472,
+      "word": "永夜星河",
+      "onboard_time": 1731147559,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 451310,
@@ -435,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404283,
-      "num": 429382,
-      "word": "花粉地狱",
-      "onboard_time": 1731230479,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 400223,
       "num": 368069,
       "word": "徐海乔评论区",
@@ -472,14 +496,6 @@
       "word": "95花top",
       "onboard_time": 1731160339,
       "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 377828,
-      "num": 363590,
-      "word": "永夜星河",
-      "onboard_time": 1731147559,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1731199336,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362225,
-      "num": 362225,
-      "word": "用人民币感受冰岛物价",
-      "onboard_time": 1731229819,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 362032,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342547,
+      "num": 342547,
+      "word": "麦琳情商",
+      "onboard_time": 1731229880,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340370,
       "num": 340370,
       "word": "国产新机上市老款iPhone跌至半价",
@@ -611,12 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303025,
-      "num": 303025,
-      "word": "麦琳情商",
-      "onboard_time": 1731229880,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 316579,
+      "num": 316579,
+      "word": "用真肉做的全透明汉堡",
+      "onboard_time": 1731230058,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 302804,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264834,
+      "num": 264834,
+      "word": "这里是中国黄岩岛海域",
+      "onboard_time": 1731232640,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263950,
       "num": 277952,
       "word": "NASA坚称2名滞留宇航员很健康",
@@ -745,14 +769,6 @@
       "onboard_time": 1731210918,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262344,
-      "num": 198979,
-      "word": "用真肉做的全透明汉堡",
-      "onboard_time": 1731230058,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 258996,
@@ -891,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221768,
+      "num": 202684,
+      "word": "两人撞车没受伤但吵架气死1人",
+      "onboard_time": 1731231859,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221372,
       "num": 221372,
       "word": "王栎鑫体面人",
@@ -913,6 +937,14 @@
       "onboard_time": 1731195734,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 216802,
+      "num": 200552,
+      "word": "我姥一分钱不花做了八菜一汤",
+      "onboard_time": 1731229939,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 215505,
@@ -1003,12 +1035,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203974,
+      "num": 203974,
+      "word": "慕声好感度已达99%",
+      "onboard_time": 1731233297,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203638,
       "num": 203638,
       "word": "恋与制作人",
       "onboard_time": 1731220520,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203506,
+      "num": 203506,
+      "word": "丁禹兮好一个付出型人格",
+      "onboard_time": 1731232039,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 203283,
@@ -1096,6 +1144,22 @@
       "word": "丁禹兮哭戏要碎了",
       "onboard_time": 1731150618,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191797,
+      "num": 407372,
+      "word": "徐冬冬 我会一直继续性感",
+      "onboard_time": 1731230599,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188479,
+      "num": 201738,
+      "word": "珠帘玉幕上强度了",
+      "onboard_time": 1731233238,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1339,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160037,
+      "num": 160037,
+      "word": "檀健次做饭",
+      "onboard_time": 1731233477,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158298,
       "num": 266992,
       "word": "李光洁不是林工是老公",
@@ -1363,12 +1435,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 154486,
-      "num": 154486,
-      "word": "我姥一分钱不花做了八菜一汤",
-      "onboard_time": 1731229939,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 154426,
+      "num": 154426,
+      "word": "丁禹兮摸自己摸到害羞",
+      "onboard_time": 1731233420,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153991,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1731226879,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150991,
+      "num": 150991,
+      "word": "凌妙妙慕子期和好",
+      "onboard_time": 1731232759,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 149567,
@@ -1523,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137953,
+      "num": 137953,
+      "word": "猴王争霸赛",
+      "onboard_time": 1731232759,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136713,
       "num": 136713,
       "word": "丁禹兮发烧了",
@@ -1620,7 +1708,7 @@
     },
     {
       "raw_hot": 125051,
-      "num": 125051,
+      "num": 398908,
       "word": "南天门计划白帝空天战机亮相航展",
       "onboard_time": 1731230241,
       "rank": 49,
@@ -1659,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118936,
+      "num": 506705,
+      "word": "多个基金经理砍仓白酒股",
+      "onboard_time": 1731229220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117494,
       "num": 325452,
       "word": "歼35A高清壁纸来了",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1731216678,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116792,
+      "num": 116792,
+      "word": "好团圆",
+      "onboard_time": 1731233118,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 116583,
@@ -1715,14 +1819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111794,
-      "num": 407372,
-      "word": "徐冬冬 我会一直继续性感",
-      "onboard_time": 1731230599,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110924,
       "num": 110924,
       "word": "建议每个恐华症的人都到中国看看",
@@ -1747,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107449,
+      "num": 107449,
+      "word": "女孩租房半年房东4天清出7车垃圾",
+      "onboard_time": 1731234019,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107245,
       "num": 180831,
       "word": "人民空军75载搏击长空",
@@ -1769,6 +1873,14 @@
       "onboard_time": 1731201078,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104877,
+      "num": 104877,
+      "word": "鞠婧祎红昭愿",
+      "onboard_time": 1731234019,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 104815,
@@ -2147,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54552,
-      "num": 506705,
-      "word": "多个基金经理砍仓白酒股",
-      "onboard_time": 1731229220,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54129,
       "num": 103652,
       "word": "郑钦文再次刷新个人最佳纪录",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1731231139,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48618,
+      "num": 387766,
+      "word": "檀健次在天猫大集开店卖小吃",
+      "onboard_time": 1731232819,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 47871,
@@ -2331,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34576,
+      "num": 498878,
+      "word": "狼队对战KSG",
+      "onboard_time": 1731230420,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33522,
       "num": 50737,
       "word": "于正说唐宫感情戏被粉丝撕没了",
@@ -2361,14 +2481,6 @@
       "onboard_time": 1731211458,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30632,
-      "num": 498878,
-      "word": "狼队对战KSG",
-      "onboard_time": 1731230420,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 29467,
@@ -2572,7 +2684,7 @@
     },
     {
       "raw_hot": 15197,
-      "num": 719568,
+      "num": 922642,
       "word": "进博会服务贸易展区体验感满满",
       "onboard_time": 1731229159,
       "rank": 2,
