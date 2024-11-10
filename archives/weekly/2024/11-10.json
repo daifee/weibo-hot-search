@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731224096541,
+  "endTime": 1731227100779,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2873458,
-      "num": 361621,
+      "num": 428020,
       "word": "黄晓明",
       "onboard_time": 1731217579,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2111060,
-      "num": 350853,
+      "num": 433489,
       "word": "王栎鑫吴雅婷合体澄清",
       "onboard_time": 1731221479,
       "rank": 10,
@@ -187,20 +187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662437,
+      "num": 662437,
+      "word": "2岁失联女童被警犬在山顶上找到",
+      "onboard_time": 1731221780,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655766,
       "num": 655766,
       "word": "我喜欢子期变繁体了",
       "onboard_time": 1731207317,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 629746,
-      "num": 629746,
-      "word": "2岁失联女童被警犬在山顶上找到",
-      "onboard_time": 1731221780,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606082,
@@ -259,6 +259,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 517078,
+      "num": 466486,
+      "word": "白百何 观众缘",
+      "onboard_time": 1731225259,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506363,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
@@ -296,6 +304,14 @@
       "word": "美43只雌猴逃出实验室或携带致命病毒",
       "onboard_time": 1731137779,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484820,
+      "num": 484820,
+      "word": "广州有可能打破最长夏季纪录",
+      "onboard_time": 1731224060,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401648,
+      "num": 401648,
+      "word": "黑龙江出生率再创历史新低",
+      "onboard_time": 1731220520,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400223,
       "num": 368069,
       "word": "徐海乔评论区",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 376784,
-      "num": 246531,
+      "num": 285037,
       "word": "22岁女孩感冒后厌食暴瘦到40斤",
       "onboard_time": 1731220579,
       "rank": 38,
@@ -425,14 +449,6 @@
       "onboard_time": 1731209657,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368481,
-      "num": 368481,
-      "word": "黑龙江出生率再创历史新低",
-      "onboard_time": 1731220520,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366668,
@@ -491,6 +507,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 332101,
+      "num": 332101,
+      "word": "无忧渡真的要来了",
+      "onboard_time": 1731223100,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329315,
+      "num": 329315,
+      "word": "迪丽热巴粉衣撑伞路透",
+      "onboard_time": 1731224359,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326489,
       "num": 326489,
       "word": "粉笔模考",
@@ -505,14 +537,6 @@
       "onboard_time": 1731163220,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306700,
-      "num": 306700,
-      "word": "无忧渡真的要来了",
-      "onboard_time": 1731223100,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 302804,
@@ -691,6 +715,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248046,
+      "num": 248046,
+      "word": "李宏毅孙珍妮体型差",
+      "onboard_time": 1731225559,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244276,
+      "num": 244276,
+      "word": "美媒测算特朗普已获得312张选举人票",
+      "onboard_time": 1731223639,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 241023,
+      "num": 241023,
+      "word": "我国南海部分岛礁标准名称公布",
+      "onboard_time": 1731224119,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238892,
       "num": 238892,
       "word": "王艺迪vs张本美和",
@@ -713,6 +761,14 @@
       "onboard_time": 1731210798,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228822,
+      "num": 228822,
+      "word": "芒果男艺人上你好星期六被泼成熏鸡",
+      "onboard_time": 1731225079,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 226249,
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204280,
+      "num": 204280,
+      "word": "鞠婧祎红昭愿名场面一眼万年",
+      "onboard_time": 1731222380,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203638,
       "num": 203638,
       "word": "恋与制作人",
@@ -905,6 +969,14 @@
       "onboard_time": 1731208938,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193104,
+      "num": 288001,
+      "word": "刘花英回应TARA霸凌事件",
+      "onboard_time": 1731225979,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 192110,
@@ -1067,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168863,
+      "num": 168863,
+      "word": "付款方式莫名变成了先用后付",
+      "onboard_time": 1731223820,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168602,
       "num": 168602,
       "word": "王楚钦和林诗栋对练",
@@ -1091,11 +1171,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165106,
-      "num": 165106,
-      "word": "鞠婧祎红昭愿名场面一眼万年",
-      "onboard_time": 1731222380,
-      "rank": 31,
+      "raw_hot": 165067,
+      "num": 165067,
+      "word": "虞书欣丁禹兮双人古风写真已安排",
+      "onboard_time": 1731225619,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1137,6 +1217,14 @@
       "onboard_time": 1731218299,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158038,
+      "num": 158038,
+      "word": "3条腿警犬考核通关又帅又燃",
+      "onboard_time": 1731222978,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156645,
@@ -1235,14 +1323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140695,
-      "num": 135143,
-      "word": "美媒测算特朗普已获得312张选举人票",
-      "onboard_time": 1731223639,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 140669,
       "num": 140669,
       "word": "她为什么会突然喜欢你",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1731206657,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139198,
+      "num": 139198,
+      "word": "综艺史上最歹毒的惩罚",
+      "onboard_time": 1731226879,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 139112,
@@ -1459,14 +1547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114422,
-      "num": 114422,
-      "word": "3条腿警犬考核通关又帅又燃",
-      "onboard_time": 1731222978,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113532,
       "num": 113532,
       "word": "云南楚雄3.9级地震",
@@ -1513,14 +1593,6 @@
       "onboard_time": 1731213498,
       "rank": 49,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 106822,
-      "num": 106822,
-      "word": "付款方式莫名变成了先用后付",
-      "onboard_time": 1731223820,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106617,
@@ -1577,6 +1649,14 @@
       "onboard_time": 1731195315,
       "rank": 43,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 102488,
+      "num": 419820,
+      "word": "郑钦文用3个关键词总结2024赛季",
+      "onboard_time": 1731226820,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 101938,
@@ -1651,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95048,
-      "num": 95048,
-      "word": "广州有可能打破最长夏季纪录",
-      "onboard_time": 1731224060,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94771,
       "num": 94771,
       "word": "失笑",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1731165200,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93919,
+      "num": 454484,
+      "word": "20家族珠海全家福",
+      "onboard_time": 1731226398,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 93023,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1731137118,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81067,
+      "num": 135201,
+      "word": "国乒集体观战林诗栋",
+      "onboard_time": 1731224479,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79659,
@@ -1915,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46513,
+      "num": 329559,
+      "word": "无畏吃柠檬酸到模糊",
+      "onboard_time": 1731226820,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44580,
       "num": 153457,
       "word": "好客山东好品山东云端推介",
@@ -1931,6 +2027,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 43167,
+      "num": 329353,
+      "word": "男子被相亲对象拒绝行凶逃亡23年",
+      "onboard_time": 1731225918,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41944,
+      "num": 443093,
+      "word": "当地行业协会回应晓华拉低行业档次",
+      "onboard_time": 1731226219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39895,
       "num": 50805,
       "word": "姆巴佩状态",
@@ -1945,6 +2057,30 @@
       "onboard_time": 1731086295,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39385,
+      "num": 189772,
+      "word": "海军陆战队员首次亮相中国航展",
+      "onboard_time": 1731225859,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 39213,
+      "num": 410847,
+      "word": "如何看待电梯异常提示生命仅一次",
+      "onboard_time": 1731225918,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38812,
+      "num": 402867,
+      "word": "时代少年团要在天猫摆摊上热搜",
+      "onboard_time": 1731226161,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 38544,
@@ -2169,6 +2305,14 @@
       "onboard_time": 1731205757,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20768,
+      "num": 224720,
+      "word": "疯狂好六夜全员变装live图",
+      "onboard_time": 1731226280,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 18667,
