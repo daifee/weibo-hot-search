@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731220112581,
+  "endTime": 1731220919307,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1460447,
+      "num": 1460447,
+      "word": "美国滞留太空宇航员瘦成锥子脸",
+      "onboard_time": 1731218420,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1449924,
       "num": 634758,
       "word": "陈好 恶意剪辑",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1731123379,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1151064,
-      "num": 1151064,
-      "word": "美国滞留太空宇航员瘦成锥子脸",
-      "onboard_time": 1731218420,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1150851,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1730459359,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 923222,
+      "num": 361110,
+      "word": "开封市民吐槽别来夜骑了",
+      "onboard_time": 1731218180,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 922621,
@@ -5723,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 530587,
-      "num": 361110,
-      "word": "开封市民吐槽别来夜骑了",
-      "onboard_time": 1731218180,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530574,
       "num": 246181,
       "word": "王大发回应荣梓杉方",
@@ -6329,6 +6329,14 @@
       "onboard_time": 1730717298,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 477071,
+      "num": 477071,
+      "word": "中国提议交换月球样本美方至今没吭声",
+      "onboard_time": 1731216259,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 476420,
@@ -7073,14 +7081,6 @@
       "onboard_time": 1730645839,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 426690,
-      "num": 426690,
-      "word": "中国提议交换月球样本美方至今没吭声",
-      "onboard_time": 1731216259,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 426158,
@@ -9803,6 +9803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 286986,
+      "num": 270237,
+      "word": "周杰伦接机昆凌",
+      "onboard_time": 1731218720,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286974,
       "num": 286974,
       "word": "范丞丞王安宇 选角",
@@ -9825,6 +9833,14 @@
       "onboard_time": 1730935817,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286540,
+      "num": 268239,
+      "word": "酸奶块",
+      "onboard_time": 1731216558,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 286431,
@@ -10539,6 +10555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262948,
+      "num": 262948,
+      "word": "白敬亭胡先煦8年没见了",
+      "onboard_time": 1731219141,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262802,
       "num": 262802,
       "word": "珠帘玉幕第10集 偷偷藏不住",
@@ -10689,14 +10713,6 @@
       "onboard_time": 1731055100,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258275,
-      "num": 258275,
-      "word": "周杰伦接机昆凌",
-      "onboard_time": 1731218720,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 258195,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1730435361,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250074,
+      "num": 362221,
+      "word": "韩国警方租房监视素媛案原型罪犯",
+      "onboard_time": 1731218180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249886,
@@ -12179,14 +12203,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 218459,
-      "num": 218459,
-      "word": "白敬亭胡先煦8年没见了",
-      "onboard_time": 1731219141,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218402,
       "num": 218402,
       "word": "广西大学通报",
@@ -12299,6 +12315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 215179,
+      "num": 293661,
+      "word": "晋江式演技",
+      "onboard_time": 1731218840,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214830,
       "num": 438629,
       "word": "王楚钦是奥运后参赛最多的运动员",
@@ -12363,14 +12387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213966,
-      "num": 293661,
-      "word": "晋江式演技",
-      "onboard_time": 1731218840,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213557,
       "num": 213557,
       "word": "第一次吃柿子的大熊猫满脸陶醉",
@@ -12385,14 +12401,6 @@
       "onboard_time": 1730562019,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 213328,
-      "num": 213328,
-      "word": "酸奶块",
-      "onboard_time": 1731216558,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 213078,
@@ -13249,6 +13257,14 @@
       "onboard_time": 1730535737,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203638,
+      "num": 203638,
+      "word": "恋与制作人",
+      "onboard_time": 1730805260,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 203558,
@@ -16379,14 +16395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170635,
-      "num": 362221,
-      "word": "韩国警方租房监视素媛案原型罪犯",
-      "onboard_time": 1731218180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170591,
       "num": 170591,
       "word": "郑钦文WTA年终总决赛首胜",
@@ -16571,8 +16579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168193,
-      "num": 168193,
+      "raw_hot": 168348,
+      "num": 168348,
       "word": "肖战新歌背景音是粉丝的声音",
       "onboard_time": 1731217340,
       "rank": 29,
@@ -16763,6 +16771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "买金条打三金能便宜多少",
+      "onboard_time": 1731220461,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "付航拿猴子走红毯",
@@ -16915,6 +16931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164881,
+      "num": 215275,
+      "word": "高芙盛赞郑钦文",
+      "onboard_time": 1731219380,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "小巷人家 晓庆衫",
@@ -17001,14 +17025,6 @@
       "onboard_time": 1731025882,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164065,
-      "num": 164065,
-      "word": "恋与制作人",
-      "onboard_time": 1730805260,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 163738,
@@ -17628,7 +17644,7 @@
     },
     {
       "raw_hot": 158298,
-      "num": 158298,
+      "num": 266992,
       "word": "李光洁不是林工是老公",
       "onboard_time": 1731218299,
       "rank": 30,
@@ -18499,6 +18515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149567,
+      "num": 149567,
+      "word": "谢可寅一声阿耶叫得人心碎",
+      "onboard_time": 1731217820,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149557,
       "num": 149557,
       "word": "江苏省考",
@@ -18953,6 +18977,14 @@
       "onboard_time": 1731036859,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144949,
+      "num": 144949,
+      "word": "近距离看苏57太细节了",
+      "onboard_time": 1731219861,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 144854,
@@ -19715,6 +19747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138701,
+      "num": 138701,
+      "word": "22岁女孩感冒后厌食暴瘦到40斤",
+      "onboard_time": 1731220579,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138457,
       "num": 276802,
       "word": "人民空军成立75年",
@@ -20345,14 +20385,6 @@
       "onboard_time": 1731078921,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131998,
-      "num": 131998,
-      "word": "谢可寅一声阿耶叫得人心碎",
-      "onboard_time": 1731217820,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 131961,
@@ -21179,14 +21211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123956,
-      "num": 123956,
-      "word": "高芙盛赞郑钦文",
-      "onboard_time": 1731219380,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123804,
       "num": 123804,
       "word": "男子故意碰撞多名女生胸部被行拘",
@@ -21321,14 +21345,6 @@
       "onboard_time": 1731149599,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122872,
-      "num": 122872,
-      "word": "近距离看苏57太细节了",
-      "onboard_time": 1731219861,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 122726,
@@ -22451,6 +22467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110595,
+      "num": 110595,
+      "word": "黑龙江出生率再创历史新低",
+      "onboard_time": 1731220520,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110202,
       "num": 102938,
       "word": "泽连斯基祝贺特朗普",
@@ -23163,6 +23187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101938,
+      "num": 101938,
+      "word": "宋亚轩梦想的演唱会",
+      "onboard_time": 1731220399,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101935,
       "num": 101935,
       "word": "高芙vs克雷吉茨科娃",
@@ -23249,6 +23281,14 @@
       "onboard_time": 1730453838,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100481,
+      "num": 100481,
+      "word": "鹰击21导弹发射震撼瞬间",
+      "onboard_time": 1731220520,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 100342,
@@ -24009,6 +24049,14 @@
       "onboard_time": 1730417477,
       "rank": 38,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 85934,
+      "num": 277952,
+      "word": "NASA坚称2名滞留宇航员很健康",
+      "onboard_time": 1731220100,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85915,
@@ -25945,6 +25993,14 @@
       "onboard_time": 1730865804,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52641,
+      "num": 216477,
+      "word": "戚薇小马珍戚",
+      "onboard_time": 1731220880,
+      "rank": 28,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 52161,
@@ -28951,6 +29007,14 @@
       "num": 224114,
       "word": "全智贤谈演员的恐惧",
       "onboard_time": 1730546180,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23737,
+      "num": 266222,
+      "word": "徐振轩机场拉练",
+      "onboard_time": 1731220280,
       "rank": 19,
       "category": "艺人"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731220112581,
+  "endTime": 1731220919307,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1460447,
+      "num": 1460447,
+      "word": "美国滞留太空宇航员瘦成锥子脸",
+      "onboard_time": 1731218420,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1431932,
       "num": 473857,
       "word": "叶珂道歉",
@@ -57,14 +65,6 @@
       "onboard_time": 1731166040,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1151064,
-      "num": 1151064,
-      "word": "美国滞留太空宇航员瘦成锥子脸",
-      "onboard_time": 1731218420,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1059448,
@@ -96,6 +96,14 @@
       "word": "买到40条假中华获退赔10万",
       "onboard_time": 1731204019,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 923222,
+      "num": 361110,
+      "word": "开封市民吐槽别来夜骑了",
+      "onboard_time": 1731218180,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 530587,
-      "num": 361110,
-      "word": "开封市民吐槽别来夜骑了",
-      "onboard_time": 1731218180,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506363,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
@@ -273,6 +273,14 @@
       "onboard_time": 1731137779,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477071,
+      "num": 477071,
+      "word": "中国提议交换月球样本美方至今没吭声",
+      "onboard_time": 1731216259,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 451310,
@@ -329,14 +337,6 @@
       "onboard_time": 1731193933,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 426690,
-      "num": 426690,
-      "word": "中国提议交换月球样本美方至今没吭声",
-      "onboard_time": 1731216259,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 392424,
@@ -507,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286986,
+      "num": 270237,
+      "word": "周杰伦接机昆凌",
+      "onboard_time": 1731218720,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286540,
+      "num": 268239,
+      "word": "酸奶块",
+      "onboard_time": 1731216558,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275073,
       "num": 245169,
       "word": "妈妈看2岁儿子拍碎6000元电视",
@@ -529,6 +545,14 @@
       "onboard_time": 1731165620,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262948,
+      "num": 262948,
+      "word": "白敬亭胡先煦8年没见了",
+      "onboard_time": 1731219141,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 262464,
@@ -555,14 +579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 258275,
-      "num": 258275,
-      "word": "周杰伦接机昆凌",
-      "onboard_time": 1731218720,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256141,
       "num": 256141,
       "word": "宁静谢娜戚薇三代浪姐合体",
@@ -585,6 +601,14 @@
       "onboard_time": 1731203057,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 250074,
+      "num": 362221,
+      "word": "韩国警方租房监视素媛案原型罪犯",
+      "onboard_time": 1731218180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249691,
@@ -651,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218459,
-      "num": 218459,
-      "word": "白敬亭胡先煦8年没见了",
-      "onboard_time": 1731219141,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217689,
       "num": 217689,
       "word": "网上很火但你很反感的梗",
@@ -675,20 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213966,
+      "raw_hot": 215179,
       "num": 293661,
       "word": "晋江式演技",
       "onboard_time": 1731218840,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213328,
-      "num": 213328,
-      "word": "酸奶块",
-      "onboard_time": 1731216558,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 211579,
@@ -737,6 +745,14 @@
       "onboard_time": 1731207918,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203638,
+      "num": 203638,
+      "word": "恋与制作人",
+      "onboard_time": 1731220520,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 203283,
@@ -939,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170635,
-      "num": 362221,
-      "word": "韩国警方租房监视素媛案原型罪犯",
-      "onboard_time": 1731218180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169837,
       "num": 169837,
       "word": "虞书欣90后首位三平台破万演员",
@@ -971,12 +979,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168193,
-      "num": 168193,
+      "raw_hot": 168348,
+      "num": 168348,
       "word": "肖战新歌背景音是粉丝的声音",
       "onboard_time": 1731217340,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "买金条打三金能便宜多少",
+      "onboard_time": 1731220461,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 164881,
+      "num": 215275,
+      "word": "高芙盛赞郑钦文",
+      "onboard_time": 1731219380,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 162507,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 158298,
-      "num": 158298,
+      "num": 266992,
       "word": "李光洁不是林工是老公",
       "onboard_time": 1731218299,
       "rank": 30,
@@ -1035,12 +1059,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149567,
+      "num": 149567,
+      "word": "谢可寅一声阿耶叫得人心碎",
+      "onboard_time": 1731217820,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
       "onboard_time": 1731160281,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144949,
+      "num": 144949,
+      "word": "近距离看苏57太细节了",
+      "onboard_time": 1731219861,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 144320,
@@ -1115,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138701,
+      "num": 138701,
+      "word": "22岁女孩感冒后厌食暴瘦到40斤",
+      "onboard_time": 1731220579,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138457,
       "num": 276802,
       "word": "人民空军成立75年",
@@ -1187,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131998,
-      "num": 131998,
-      "word": "谢可寅一声阿耶叫得人心碎",
-      "onboard_time": 1731217820,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130621,
       "num": 130621,
       "word": "女子收50万彩礼后与前男友去宾馆",
@@ -1241,22 +1281,6 @@
       "onboard_time": 1731167960,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123956,
-      "num": 123956,
-      "word": "高芙盛赞郑钦文",
-      "onboard_time": 1731219380,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 122872,
-      "num": 122872,
-      "word": "近距离看苏57太细节了",
-      "onboard_time": 1731219861,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 120959,
@@ -1339,6 +1363,14 @@
       "category": "国外时政,国内时政"
     },
     {
+      "raw_hot": 110595,
+      "num": 110595,
+      "word": "黑龙江出生率再创历史新低",
+      "onboard_time": 1731220520,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109372,
       "num": 109372,
       "word": "郑钦文商业价值或赶超巅峰李娜",
@@ -1419,6 +1451,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 101938,
+      "num": 101938,
+      "word": "宋亚轩梦想的演唱会",
+      "onboard_time": 1731220399,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101636,
       "num": 128314,
       "word": "小巷人家21集后劲太大了",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1731156619,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100481,
+      "num": 100481,
+      "word": "鹰击21导弹发射震撼瞬间",
+      "onboard_time": 1731220520,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 98030,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1731164841,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85934,
+      "num": 277952,
+      "word": "NASA坚称2名滞留宇航员很健康",
+      "onboard_time": 1731220100,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82769,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1731213858,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 52641,
+      "num": 216477,
+      "word": "戚薇小马珍戚",
+      "onboard_time": 1731220880,
+      "rank": 28,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 47871,
@@ -1921,6 +1985,14 @@
       "onboard_time": 1731178871,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23737,
+      "num": 266222,
+      "word": "徐振轩机场拉练",
+      "onboard_time": 1731220280,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 22610,
