@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731264016339,
+  "endTime": 1731266307887,
   "band_list": [
     {
       "raw_hot": 650578,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148669,
+      "num": 148669,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143605,
       "num": 143605,
       "word": "苏57飞行员幽默回答为什么爱飞行",
@@ -419,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69922,
+      "num": 69922,
+      "word": "白锦锦 剧本",
+      "onboard_time": 1731262513,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65672,
       "num": 65672,
       "word": "小鬼 轻舟撞上周一围",
@@ -443,28 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46601,
-      "num": 80401,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43153,
       "num": 43153,
       "word": "2024年只剩7个周末了",
       "onboard_time": 1731260113,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42119,
-      "num": 42119,
-      "word": "白锦锦 剧本",
-      "onboard_time": 1731262513,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 37442,
@@ -505,6 +505,38 @@
       "onboard_time": 1731251600,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18379,
+      "num": 20296,
+      "word": "以总理证实以方制造黎巴嫩BP机爆炸",
+      "onboard_time": 1731256816,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 17680,
+      "num": 20294,
+      "word": "狼队对战ksg",
+      "onboard_time": 1731260415,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 14101,
+      "num": 52860,
+      "word": "彩虹7无人机已具备上舰能力",
+      "onboard_time": 1731265632,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 13531,
+      "num": 27395,
+      "word": "关注第15届中国航展",
+      "onboard_time": 1731264911,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 7593,
