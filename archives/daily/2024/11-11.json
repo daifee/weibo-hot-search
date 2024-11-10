@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731267324105,
+  "endTime": 1731270126481,
   "band_list": [
     {
       "raw_hot": 650578,
@@ -523,11 +523,51 @@
       "category": "军事"
     },
     {
+      "raw_hot": 18576,
+      "num": 18576,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18217,
       "num": 20294,
       "word": "狼队对战ksg",
       "onboard_time": 1731260415,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 17932,
+      "num": 17932,
+      "word": "她只是一位想夺回养狗权的妈妈",
+      "onboard_time": 1731269231,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 17155,
+      "num": 17155,
+      "word": "双11疯狂好六夜",
+      "onboard_time": 1731261013,
+      "rank": 41,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 16886,
+      "num": 29867,
+      "word": "商家促销先涨价再降价涉嫌欺诈吗",
+      "onboard_time": 1731268213,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15999,
+      "num": 17064,
+      "word": "KPL",
+      "onboard_time": 1731249860,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -537,6 +577,14 @@
       "onboard_time": 1731264911,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12631,
+      "num": 21408,
+      "word": "商家促销构成欺诈可以退一赔三",
+      "onboard_time": 1731270070,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7593,
