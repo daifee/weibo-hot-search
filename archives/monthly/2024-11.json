@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731248329101,
+  "endTime": 1731249382845,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1899,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1196956,
+      "num": 1196956,
+      "word": "王曼昱WTT女单夺冠",
+      "onboard_time": 1731247701,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1196161,
       "num": 498002,
       "word": "徐艺洋方声明",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1730896821,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063969,
+      "num": 1063969,
+      "word": "戚薇你是真的饿了",
+      "onboard_time": 1731246799,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1062583,
@@ -5619,14 +5635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553290,
-      "num": 505484,
-      "word": "戚薇你是真的饿了",
-      "onboard_time": 1731246799,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 552641,
       "num": 552641,
       "word": "特朗普和哈里斯决战摇摆州",
@@ -6244,7 +6252,7 @@
     },
     {
       "raw_hot": 505100,
-      "num": 418445,
+      "num": 422292,
       "word": "美国多州欲立法抵制特朗普施政",
       "onboard_time": 1731238758,
       "rank": 21,
@@ -7497,14 +7505,6 @@
       "onboard_time": 1730630899,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417885,
-      "num": 417885,
-      "word": "王曼昱WTT女单夺冠",
-      "onboard_time": 1731247701,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 417753,
@@ -9003,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337341,
+      "num": 337341,
+      "word": "打过狂犬疫苗的人嘴可真严啊",
+      "onboard_time": 1731245841,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337314,
       "num": 445274,
       "word": "李行亮送麦琳锦旗",
@@ -9627,14 +9635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309153,
-      "num": 309153,
-      "word": "打过狂犬疫苗的人嘴可真严啊",
-      "onboard_time": 1731245841,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308893,
       "num": 308893,
       "word": "Keria泪洒赛场",
@@ -9657,6 +9657,14 @@
       "onboard_time": 1730780060,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 306515,
+      "num": 306515,
+      "word": "24岁女生剃头180天后的变化",
+      "onboard_time": 1731247040,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 305965,
@@ -9843,6 +9851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299215,
+      "num": 299215,
+      "word": "男子将8万现金伪装成喜糖寄出",
+      "onboard_time": 1731246199,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299186,
       "num": 730761,
       "word": "广东湛江一垃圾桶旁发现男婴",
@@ -10001,14 +10017,6 @@
       "onboard_time": 1730519478,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 294496,
-      "num": 294496,
-      "word": "男子将8万现金伪装成喜糖寄出",
-      "onboard_time": 1731246199,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294268,
@@ -11043,6 +11051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261728,
+      "num": 261728,
+      "word": "永夜星河大火案真相",
+      "onboard_time": 1731247940,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261640,
       "num": 238298,
       "word": "黄晓明未删与叶珂官宣微博",
@@ -11283,14 +11299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254973,
-      "num": 254973,
-      "word": "24岁女生剃头180天后的变化",
-      "onboard_time": 1731247040,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254963,
       "num": 417169,
       "word": "今日A股大爆发",
@@ -11369,6 +11377,14 @@
       "onboard_time": 1730394974,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253030,
+      "num": 253030,
+      "word": "华晨宇 想要成长多谈恋爱",
+      "onboard_time": 1731248120,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 252835,
@@ -14027,6 +14043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202175,
+      "num": 268827,
+      "word": "宋亚轩刘耀文七rap",
+      "onboard_time": 1731248600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202062,
       "num": 714199,
       "word": "BLG总决赛先下一城",
@@ -15105,6 +15129,22 @@
       "onboard_time": 1731115998,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192725,
+      "num": 192725,
+      "word": "何炅谢娜梦回快乐大本营",
+      "onboard_time": 1731248540,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192447,
+      "num": 192447,
+      "word": "双11晚会 苹果香",
+      "onboard_time": 1731248901,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 192433,
@@ -16715,14 +16755,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 175144,
-      "num": 175144,
-      "word": "永夜星河大火案真相",
-      "onboard_time": 1731247940,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175006,
       "num": 175006,
       "word": "大张伟始终不敢唱那首歌",
@@ -17179,14 +17211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170692,
-      "num": 170692,
-      "word": "华晨宇 想要成长多谈恋爱",
-      "onboard_time": 1731248120,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 170637,
       "num": 170637,
       "word": "熏鸡",
@@ -17417,6 +17441,14 @@
       "onboard_time": 1731040642,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167772,
+      "num": 167772,
+      "word": "王曼昱4比2王艺迪",
+      "onboard_time": 1731249200,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 167731,
@@ -17713,6 +17745,14 @@
       "onboard_time": 1730715499,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165360,
+      "num": 428393,
+      "word": "KSG拿到败决赛点",
+      "onboard_time": 1731243798,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 165251,
@@ -20035,6 +20075,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 143298,
+      "num": 428396,
+      "word": "狼队败决连追两分",
+      "onboard_time": 1731249081,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143202,
       "num": 143202,
       "word": "周扬青分享福布斯领奖视频",
@@ -20737,6 +20785,14 @@
       "onboard_time": 1730529738,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138031,
+      "num": 433529,
+      "word": "小胖典韦尽显猖狂",
+      "onboard_time": 1731248962,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 137953,
@@ -21537,6 +21593,14 @@
       "onboard_time": 1731040221,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 129904,
+      "num": 495564,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 129885,
@@ -24003,6 +24067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103851,
+      "num": 494604,
+      "word": "先用后付开通容易取消难",
+      "onboard_time": 1731247221,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103842,
       "num": 103842,
       "word": "美国男子持仿真枪与警方冲突被击毙",
@@ -24505,14 +24577,6 @@
       "onboard_time": 1730703439,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97509,
-      "num": 428393,
-      "word": "KSG拿到败决赛点",
-      "onboard_time": 1731243798,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 97477,
@@ -25764,7 +25828,7 @@
     },
     {
       "raw_hot": 71025,
-      "num": 962317,
+      "num": 1068196,
       "word": "一图看懂黄岩岛领海基线",
       "onboard_time": 1731242540,
       "rank": 2,
@@ -25865,14 +25929,6 @@
       "onboard_time": 1731053659,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69743,
-      "num": 495564,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1731243619,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 69649,
@@ -26137,6 +26193,14 @@
       "onboard_time": 1731135318,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66340,
+      "num": 502472,
+      "word": "为何此时公布黄岩岛领海基线",
+      "onboard_time": 1731247221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66062,
@@ -27211,14 +27275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51234,
-      "num": 494604,
-      "word": "先用后付开通容易取消难",
-      "onboard_time": 1731247221,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51136,
       "num": 385359,
       "word": "贾樟柯请求观众抵制盗版风流一代",
@@ -28160,14 +28216,6 @@
       "word": "研究发现焦虑和高度近视强相关",
       "onboard_time": 1730459298,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40328,
-      "num": 502472,
-      "word": "为何此时公布黄岩岛领海基线",
-      "onboard_time": 1731247221,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -30827,6 +30875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20315,
+      "num": 452011,
+      "word": "别让假货成为你双11购物的痛点",
+      "onboard_time": 1731249020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20078,
       "num": 115742,
       "word": "第一视角带你沉浸式体验北马",
@@ -31563,6 +31619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14687,
+      "num": 492317,
+      "word": "中国好礼在进博有多火",
+      "onboard_time": 1731247221,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14627,
       "num": 314305,
       "word": "珠帘玉幕藏着赵露思搞钱秘籍",
@@ -31801,14 +31865,6 @@
       "onboard_time": 1730838800,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12811,
-      "num": 492317,
-      "word": "中国好礼在进博有多火",
-      "onboard_time": 1731247221,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12762,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731248329101,
+  "endTime": 1731249382845,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196956,
+      "num": 1196956,
+      "word": "王曼昱WTT女单夺冠",
+      "onboard_time": 1731247701,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1196161,
       "num": 498002,
       "word": "徐艺洋方声明",
@@ -144,6 +152,14 @@
       "word": "何炅谢娜同台主持",
       "onboard_time": 1731241518,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1063969,
+      "num": 1063969,
+      "word": "戚薇你是真的饿了",
+      "onboard_time": 1731246799,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 553290,
-      "num": 505484,
-      "word": "戚薇你是真的饿了",
-      "onboard_time": 1731246799,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 551383,
       "num": 551383,
       "word": "林青霞姜涛牵手出席活动",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 505100,
-      "num": 418445,
+      "num": 422292,
       "word": "美国多州欲立法抵制特朗普施政",
       "onboard_time": 1731238758,
       "rank": 21,
@@ -641,14 +649,6 @@
       "onboard_time": 1731229880,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 417885,
-      "num": 417885,
-      "word": "王曼昱WTT女单夺冠",
-      "onboard_time": 1731247701,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 400223,
@@ -811,6 +811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 337341,
+      "num": 337341,
+      "word": "打过狂犬疫苗的人嘴可真严啊",
+      "onboard_time": 1731245841,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326824,
       "num": 416988,
       "word": "虞书欣泰国生图",
@@ -851,11 +859,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309153,
-      "num": 309153,
-      "word": "打过狂犬疫苗的人嘴可真严啊",
-      "onboard_time": 1731245841,
-      "rank": 28,
+      "raw_hot": 306515,
+      "num": 306515,
+      "word": "24岁女生剃头180天后的变化",
+      "onboard_time": 1731247040,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -867,20 +875,20 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 299215,
+      "num": 299215,
+      "word": "男子将8万现金伪装成喜糖寄出",
+      "onboard_time": 1731246199,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296485,
       "num": 296485,
       "word": "腾讯七部热度破30000剧集",
       "onboard_time": 1731159200,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294496,
-      "num": 294496,
-      "word": "男子将8万现金伪装成喜糖寄出",
-      "onboard_time": 1731246199,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294165,
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261728,
+      "num": 261728,
+      "word": "永夜星河大火案真相",
+      "onboard_time": 1731247940,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258996,
       "num": 258996,
       "word": "曾黎发文给赵露思庆生",
@@ -1043,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254973,
-      "num": 254973,
-      "word": "24岁女生剃头180天后的变化",
-      "onboard_time": 1731247040,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254701,
       "num": 254701,
       "word": "两人撞车没受伤但吵架气死1人",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1731156438,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 253030,
+      "num": 253030,
+      "word": "华晨宇 想要成长多谈恋爱",
+      "onboard_time": 1731248120,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 252835,
@@ -1427,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202175,
+      "num": 268827,
+      "word": "宋亚轩刘耀文七rap",
+      "onboard_time": 1731248600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201698,
       "num": 201698,
       "word": "虞书欣还有好几千张库存",
@@ -1545,6 +1569,22 @@
       "onboard_time": 1731208938,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192725,
+      "num": 192725,
+      "word": "何炅谢娜梦回快乐大本营",
+      "onboard_time": 1731248540,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192447,
+      "num": 192447,
+      "word": "双11晚会 苹果香",
+      "onboard_time": 1731248901,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 192222,
@@ -1715,14 +1755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175144,
-      "num": 175144,
-      "word": "永夜星河大火案真相",
-      "onboard_time": 1731247940,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174759,
       "num": 174759,
       "word": "郑钦文说输球并不是运气不好",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1731222079,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170692,
-      "num": 170692,
-      "word": "华晨宇 想要成长多谈恋爱",
-      "onboard_time": 1731248120,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 169837,
@@ -1827,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167772,
+      "num": 167772,
+      "word": "王曼昱4比2王艺迪",
+      "onboard_time": 1731249200,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167346,
       "num": 167346,
       "word": "谁教于文文这么扭的",
@@ -1840,6 +1872,14 @@
       "word": "Rookie白色月牙谈iG重组",
       "onboard_time": 1731227538,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 165360,
+      "num": 428393,
+      "word": "KSG拿到败决赛点",
+      "onboard_time": 1731243798,
+      "rank": 8,
       "category": "电竞"
     },
     {
@@ -2059,6 +2099,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143298,
+      "num": 428396,
+      "word": "狼队败决连追两分",
+      "onboard_time": 1731249081,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143006,
       "num": 143006,
       "word": "西藏文旅发了赵露思端午转场",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1731197957,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138031,
+      "num": 433529,
+      "word": "小胖典韦尽显猖狂",
+      "onboard_time": 1731248962,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 137953,
@@ -2225,6 +2281,14 @@
       "onboard_time": 1731208698,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129904,
+      "num": 495564,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 126528,
@@ -2427,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103851,
+      "num": 494604,
+      "word": "先用后付开通容易取消难",
+      "onboard_time": 1731247221,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103792,
       "num": 103792,
       "word": "柳大哥 转人工",
@@ -2513,14 +2585,6 @@
       "onboard_time": 1731218959,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97509,
-      "num": 428393,
-      "word": "KSG拿到败决赛点",
-      "onboard_time": 1731243798,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 96358,
@@ -2740,19 +2804,11 @@
     },
     {
       "raw_hot": 71025,
-      "num": 962317,
+      "num": 1068196,
       "word": "一图看懂黄岩岛领海基线",
       "onboard_time": 1731242540,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 69743,
-      "num": 495564,
-      "word": "林诗栋vs卡尔伯格",
-      "onboard_time": 1731243619,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 68007,
@@ -2769,6 +2825,14 @@
       "onboard_time": 1731241999,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66340,
+      "num": 502472,
+      "word": "为何此时公布黄岩岛领海基线",
+      "onboard_time": 1731247221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66062,
@@ -2931,14 +2995,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 51234,
-      "num": 494604,
-      "word": "先用后付开通容易取消难",
-      "onboard_time": 1731247221,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49903,
       "num": 413360,
       "word": "国乒提前包揽女单冠亚军",
@@ -3024,14 +3080,6 @@
       "word": "天猫双11冬装开始5折了",
       "onboard_time": 1731240020,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40328,
-      "num": 502472,
-      "word": "为何此时公布黄岩岛领海基线",
-      "onboard_time": 1731247221,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3339,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20315,
+      "num": 452011,
+      "word": "别让假货成为你双11购物的痛点",
+      "onboard_time": 1731249020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18667,
       "num": 113500,
       "word": "郑钦文挽救2个盘点破发",
@@ -3387,7 +3443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12811,
+      "raw_hot": 14687,
       "num": 492317,
       "word": "中国好礼在进博有多火",
       "onboard_time": 1731247221,
