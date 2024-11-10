@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731270126481,
+  "endTime": 1731270904528,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -3675,6 +3675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23954,
+      "num": 29867,
+      "word": "商家促销先涨价再降价涉嫌欺诈吗",
+      "onboard_time": 1731268213,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23737,
       "num": 266222,
       "word": "徐振轩机场拉练",
@@ -3779,6 +3787,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 19463,
+      "num": 19463,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19194,
+      "num": 19194,
+      "word": "她只是一位想夺回养狗权的妈妈",
+      "onboard_time": 1731269231,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19093,
       "num": 52860,
       "word": "彩虹7无人机已具备上舰能力",
@@ -3795,20 +3819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18576,
-      "num": 18576,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18475,
       "num": 25444,
       "word": "再平凡的工作认真去做也能闪闪发光",
       "onboard_time": 1731183550,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18431,
+      "num": 18431,
+      "word": "双11疯狂好六夜",
+      "onboard_time": 1731261013,
+      "rank": 41,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 18277,
@@ -3827,31 +3851,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17932,
-      "num": 17932,
-      "word": "她只是一位想夺回养狗权的妈妈",
-      "onboard_time": 1731269231,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 17155,
-      "num": 17155,
-      "word": "双11疯狂好六夜",
-      "onboard_time": 1731261013,
-      "rank": 41,
-      "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 16886,
-      "num": 29867,
-      "word": "商家促销先涨价再降价涉嫌欺诈吗",
-      "onboard_time": 1731268213,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15999,
+      "raw_hot": 16795,
       "num": 17064,
       "word": "KPL",
       "onboard_time": 1731249860,
@@ -3908,11 +3908,19 @@
     },
     {
       "raw_hot": 12631,
-      "num": 21408,
+      "num": 38016,
       "word": "商家促销构成欺诈可以退一赔三",
       "onboard_time": 1731270070,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11777,
+      "num": 19251,
+      "word": "八一飞行表演队空中拉彩烟",
+      "onboard_time": 1731270560,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 8159,
