@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731260121699,
+  "endTime": 1731263215326,
   "band_list": [
     {
       "raw_hot": 650578,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186349,
+      "num": 136487,
+      "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+      "onboard_time": 1731258015,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180481,
       "num": 180481,
       "word": "华晨宇 想要成长多谈恋爱",
@@ -411,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66117,
-      "num": 136487,
-      "word": "商场内带狗吓到小孩父亲抢狗怒摔",
-      "onboard_time": 1731258015,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65672,
       "num": 65672,
       "word": "小鬼 轻舟撞上周一围",
@@ -443,12 +443,60 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43153,
+      "num": 43153,
+      "word": "2024年只剩7个周末了",
+      "onboard_time": 1731260113,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37442,
       "num": 46970,
       "word": "大理苍山和玉龙雪山同框了",
       "onboard_time": 1731259874,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 33227,
+      "num": 33227,
+      "word": "白锦锦 剧本",
+      "onboard_time": 1731262513,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24583,
+      "num": 37654,
+      "word": "这是我们的黄岩岛",
+      "onboard_time": 1731261553,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23663,
+      "num": 32343,
+      "word": "曼联3比0莱斯特城",
+      "onboard_time": 1731260653,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22313,
+      "num": 32332,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1731251600,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 19144,
+      "num": 80401,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7593,
