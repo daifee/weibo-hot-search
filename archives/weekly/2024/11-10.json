@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731207803356,
+  "endTime": 1731209190595,
   "band_list": [
     {
       "raw_hot": 2881093,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1050544,
+      "num": 1050544,
+      "word": "你好星期六半脸卸妆",
+      "onboard_time": 1731206178,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1036498,
       "num": 1036498,
       "word": "将门毒后",
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 881821,
-      "num": 881821,
-      "word": "你好星期六半脸卸妆",
-      "onboard_time": 1731206178,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -81,6 +81,14 @@
       "onboard_time": 1731160999,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606390,
+      "num": 606390,
+      "word": "我喜欢子期变繁体了",
+      "onboard_time": 1731207317,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 606082,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407728,
+      "num": 407728,
+      "word": "晓华回应被怼30元拉低行业档次",
+      "onboard_time": 1731205221,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "郑钦文WTA总决赛亚军",
@@ -193,6 +209,14 @@
       "onboard_time": 1731160339,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384776,
+      "num": 384776,
+      "word": "肖战首专唱片公司肖战工作室",
+      "onboard_time": 1731208159,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 377828,
@@ -307,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275073,
+      "num": 245169,
+      "word": "妈妈看2岁儿子拍碎6000元电视",
+      "onboard_time": 1731205457,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273358,
+      "num": 273358,
+      "word": "丁禹兮 天选慕声",
+      "onboard_time": 1731207738,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -329,14 +369,6 @@
       "onboard_time": 1731197596,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256933,
-      "num": 242079,
-      "word": "妈妈看2岁儿子拍碎6000元电视",
-      "onboard_time": 1731205457,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253855,
@@ -363,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243544,
-      "num": 243544,
-      "word": "我喜欢子期变繁体了",
-      "onboard_time": 1731207317,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238892,
       "num": 238892,
       "word": "王艺迪vs张本美和",
@@ -385,6 +409,14 @@
       "onboard_time": 1731168439,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226960,
+      "num": 226960,
+      "word": "粉笔模考",
+      "onboard_time": 1731208338,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 226249,
@@ -417,6 +449,14 @@
       "onboard_time": 1731171737,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210484,
+      "num": 210484,
+      "word": "年轻人不再局限于传统相亲",
+      "onboard_time": 1731204739,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210013,
@@ -459,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202486,
-      "num": 202486,
-      "word": "年轻人不再局限于传统相亲",
-      "onboard_time": 1731204739,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201698,
       "num": 201698,
       "word": "虞书欣还有好几千张库存",
@@ -481,6 +513,14 @@
       "onboard_time": 1731204678,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 197960,
+      "num": 197960,
+      "word": "肖战专辑intro",
+      "onboard_time": 1731208400,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 197201,
@@ -513,6 +553,14 @@
       "onboard_time": 1731193213,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 185218,
+      "num": 246996,
+      "word": "尹子维 港式漫画中的人物",
+      "onboard_time": 1731207918,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 180758,
@@ -596,7 +644,7 @@
     },
     {
       "raw_hot": 155540,
-      "num": 317264,
+      "num": 369661,
       "word": "安徽六安通报一幼师体罚学生",
       "onboard_time": 1731205697,
       "rank": 35,
@@ -643,11 +691,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140803,
-      "num": 277588,
-      "word": "晓华回应被怼30元拉低行业档次",
-      "onboard_time": 1731205221,
-      "rank": 13,
+      "raw_hot": 141859,
+      "num": 141859,
+      "word": "福州建立教育局局长学校陪餐制",
+      "onboard_time": 1731207438,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -683,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139112,
+      "num": 139112,
+      "word": "LPL战队报价Chovy",
+      "onboard_time": 1731208159,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138457,
       "num": 276802,
       "word": "人民空军成立75年",
@@ -705,6 +761,14 @@
       "onboard_time": 1731166159,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135228,
+      "num": 135228,
+      "word": "陶昕然长文回应争议",
+      "onboard_time": 1731208938,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 135129,
@@ -739,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130204,
+      "num": 130204,
+      "word": "现在就出发",
+      "onboard_time": 1731208698,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124201,
       "num": 447638,
       "word": "加油QueenWen",
@@ -747,19 +819,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122177,
-      "num": 122177,
-      "word": "福州建立教育局局长学校陪餐制",
-      "onboard_time": 1731207438,
+      "raw_hot": 120213,
+      "num": 120213,
+      "word": "李宏毅十万狂花入梦来杀青特辑",
+      "onboard_time": 1731207497,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119988,
-      "num": 119988,
-      "word": "丁禹兮 天选慕声",
-      "onboard_time": 1731207738,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1076,7 +1140,7 @@
     },
     {
       "raw_hot": 44580,
-      "num": 138487,
+      "num": 139597,
       "word": "好客山东好品山东云端推介",
       "onboard_time": 1731207617,
       "rank": 39,
@@ -1163,12 +1227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32947,
+      "num": 276610,
+      "word": "炒股小心掉进杀猪盘陷阱",
+      "onboard_time": 1731207617,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31764,
       "num": 162573,
       "word": "巴基斯坦火车站爆炸死亡人数升至25人",
       "onboard_time": 1731178573,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29467,
+      "num": 246216,
+      "word": "大额存单进入1时代",
+      "onboard_time": 1731207617,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28529,
@@ -1219,12 +1299,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25119,
+      "num": 274601,
+      "word": "山东你到底有多少好品",
+      "onboard_time": 1731207617,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25034,
       "num": 26592,
       "word": "周震南正是最纯饿的年纪",
       "onboard_time": 1731178871,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22610,
+      "num": 853529,
+      "word": "进博会特别的交换之旅",
+      "onboard_time": 1731207800,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20547,
+      "num": 246089,
+      "word": "晚8点京东双11五折品剧透",
+      "onboard_time": 1731207918,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 19249,
@@ -1257,30 +1361,6 @@
       "onboard_time": 1731194595,
       "rank": 9,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 17715,
-      "num": 276610,
-      "word": "炒股小心掉进杀猪盘陷阱",
-      "onboard_time": 1731207617,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17638,
-      "num": 246101,
-      "word": "大额存单进入1时代",
-      "onboard_time": 1731207617,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15528,
-      "num": 274601,
-      "word": "山东你到底有多少好品",
-      "onboard_time": 1731207617,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15328,
@@ -1318,6 +1398,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    },
+    {
+      "word": "#循着总书记关切领略大美西部#"
     }
   ]
 }
