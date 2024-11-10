@@ -1,0 +1,410 @@
+{
+  "runTime": 1731281729139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715182,
+        "num": 916946,
+        "word": "相伴20年男子竟杀了相亲对象在逃",
+        "onboard_time": 1731262032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692069,
+        "num": 692069,
+        "word": "泄密后反嘱咐对方千万别外传",
+        "onboard_time": 1731272050,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2134,
+        "num": 564697,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549930,
+        "num": 549930,
+        "word": "自驾阿姨说自己没有愧对任何人",
+        "onboard_time": 1731275651,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332697,
+        "num": 332697,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 4,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 306916,
+        "num": 306916,
+        "word": "男子将8万现金伪装成喜糖寄出",
+        "onboard_time": 1731246199,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300139,
+        "num": 300139,
+        "word": "永夜星河好感度百分之99了",
+        "onboard_time": 1731252500,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190885,
+        "num": 190885,
+        "word": "在妇幼保健院装针孔摄像头被拘",
+        "onboard_time": 1731257656,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180207,
+        "num": 180207,
+        "word": "王玉雯的反击给我看爽了",
+        "onboard_time": 1731251899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159227,
+        "num": 159227,
+        "word": "王安宇人生镜头",
+        "onboard_time": 1731250641,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36388,
+        "num": 158390,
+        "word": "中国黄岩岛上空现双彩虹景观",
+        "onboard_time": 1731280515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939456,
+        "num": 157238,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719803,
+        "num": 156224,
+        "word": "华盛顿聚集大量人群抗议特朗普",
+        "onboard_time": 1731273791,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 333540,
+        "num": 154483,
+        "word": "2岁失踪女童家属怀疑系熟人作案",
+        "onboard_time": 1731254777,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17210,
+        "num": 152870,
+        "word": "郑钦文总决赛后迎来1个月假期",
+        "onboard_time": 1731281175,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181558,
+        "num": 151816,
+        "word": "许昕谈王曼昱夺冠",
+        "onboard_time": 1731253819,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151356,
+        "num": 151356,
+        "word": "周深回应撞衫大闸蟹",
+        "onboard_time": 1731280577,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137274,
+        "num": 151346,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136941,
+        "num": 151320,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20765,
+        "num": 151276,
+        "word": "丁俊晖终结5年冠军荒",
+        "onboard_time": 1731281175,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409028,
+        "num": 151249,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171067,
+        "num": 151190,
+        "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+        "onboard_time": 1731258015,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169980,
+        "num": 151165,
+        "word": "美43只在逃实验猴捉回一只",
+        "onboard_time": 1731257418,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151157,
+        "num": 151157,
+        "word": "林诗栋4比1卡尔伯格",
+        "onboard_time": 1731252020,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143192,
+        "num": 143192,
+        "word": "万斯警告欧盟别对X平台下手",
+        "onboard_time": 1731273012,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129519,
+        "num": 129519,
+        "word": "88岁钟南山上台致辞健步如飞",
+        "onboard_time": 1731278415,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97749,
+        "num": 97749,
+        "word": "白锦锦 剧本",
+        "onboard_time": 1731262513,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95959,
+        "num": 95959,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 27,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 86392,
+        "num": 86392,
+        "word": "关晓彤小巷人家眼神戏",
+        "onboard_time": 1731281417,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21799,
+        "num": 86233,
+        "word": "向鱼北京见",
+        "onboard_time": 1731281175,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107710,
+        "num": 85755,
+        "word": "打过狂犬疫苗的人嘴可真严啊",
+        "onboard_time": 1731245841,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104969,
+        "num": 85430,
+        "word": "日产净利润暴跌94%",
+        "onboard_time": 1731280876,
+        "rank": 31,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 92331,
+        "num": 85058,
+        "word": "我们的飞机不用再飞两遍了",
+        "onboard_time": 1731280876,
+        "rank": 32,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 84828,
+        "num": 84828,
+        "word": "OBGG显示TheShy与Rookie加入iG",
+        "onboard_time": 1731280818,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78344,
+        "num": 78344,
+        "word": "减肥人也是过上好日子了",
+        "onboard_time": 1731280936,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 73267,
+        "num": 73267,
+        "word": "华晨宇 想要成长多谈恋爱",
+        "onboard_time": 1731248120,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71441,
+        "num": 71441,
+        "word": "许昕说喷我可以别攻击其他队员",
+        "onboard_time": 1731281356,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71309,
+        "num": 71309,
+        "word": "WTT",
+        "onboard_time": 1731280876,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70969,
+        "num": 70969,
+        "word": "丁俊晖国际锦标赛夺冠",
+        "onboard_time": 1731250400,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65345,
+        "num": 65345,
+        "word": "种地吧",
+        "onboard_time": 1731251481,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20434,
+        "num": 63517,
+        "word": "女孩眼神从茫然变成抑不住的开心",
+        "onboard_time": 1731281477,
+        "rank": 40,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 62209,
+        "num": 62209,
+        "word": "国安公布涉密人员失泄密案件",
+        "onboard_time": 1731267611,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61748,
+        "num": 61748,
+        "word": "大鹏说王一博提名金鸡奖领全组激动",
+        "onboard_time": 1731245479,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61331,
+        "num": 61331,
+        "word": "男子被相亲对象拒绝行凶逃亡23年",
+        "onboard_time": 1731225918,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60482,
+        "num": 60482,
+        "word": "晓华会火是击中了当下人们的软肋",
+        "onboard_time": 1731277393,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 59940,
+        "num": 59940,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59644,
+        "num": 59644,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59621,
+        "num": 59621,
+        "word": "邓亚萍谈王曼昱对阵王艺迪",
+        "onboard_time": 1731258495,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58172,
+        "num": 58172,
+        "word": "黄岩岛是我国固有领土",
+        "onboard_time": 1731245720,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56258,
+        "num": 56258,
+        "word": "何炅欢迎谢娜回家",
+        "onboard_time": 1731252260,
+        "rank": 49,
+        "category": "综艺,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}

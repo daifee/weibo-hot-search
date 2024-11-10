@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731280852401,
+  "endTime": 1731281729139,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2835,6 +2835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 939456,
+      "num": 770798,
+      "word": "李行亮觉醒",
+      "onboard_time": 1731244399,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938989,
       "num": 593089,
       "word": "美16个州和华盛顿特区结束大选投票",
@@ -3739,14 +3747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 770798,
-      "num": 770798,
-      "word": "李行亮觉醒",
-      "onboard_time": 1731244399,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 769361,
       "num": 629518,
       "word": "95四小花",
@@ -4067,6 +4067,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 719803,
+      "num": 166308,
+      "word": "华盛顿聚集大量人群抗议特朗普",
+      "onboard_time": 1731273791,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 718598,
       "num": 718598,
       "word": "市委书记落马政绩工程将被拆除",
@@ -4081,6 +4089,14 @@
       "onboard_time": 1730453959,
       "rank": 11,
       "category": "国外时政,电影"
+    },
+    {
+      "raw_hot": 715182,
+      "num": 916946,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 715034,
@@ -4209,6 +4225,14 @@
       "onboard_time": 1730552419,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 692069,
+      "num": 692069,
+      "word": "泄密后反嘱咐对方千万别外传",
+      "onboard_time": 1731272050,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689967,
@@ -4771,14 +4795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632643,
-      "num": 166308,
-      "word": "华盛顿聚集大量人群抗议特朗普",
-      "onboard_time": 1731273791,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 631686,
       "num": 631686,
       "word": "狼队让三追四",
@@ -5091,14 +5107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 600688,
-      "num": 790554,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 600593,
       "num": 451725,
       "word": "杨子的财产黄圣依能分多少",
@@ -5273,14 +5281,6 @@
       "onboard_time": 1730604080,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 590156,
-      "num": 590156,
-      "word": "泄密后反嘱咐对方千万别外传",
-      "onboard_time": 1731272050,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 589929,
@@ -5752,6 +5752,14 @@
       "word": "广州往返中山仅需15分钟",
       "onboard_time": 1730710701,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549930,
+      "num": 549930,
+      "word": "自驾阿姨说自己没有愧对任何人",
+      "onboard_time": 1731275651,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -6713,14 +6721,6 @@
       "onboard_time": 1730432598,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473282,
-      "num": 473282,
-      "word": "自驾阿姨说自己没有愧对任何人",
-      "onboard_time": 1731275651,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472712,
@@ -9955,6 +9955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300139,
+      "num": 300139,
+      "word": "永夜星河好感度百分之99了",
+      "onboard_time": 1731252500,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299853,
       "num": 299852,
       "word": "饺子",
@@ -12483,14 +12491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228126,
-      "num": 231433,
-      "word": "永夜星河好感度百分之99了",
-      "onboard_time": 1731252500,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227920,
       "num": 452309,
       "word": "女子怕疼还打耳洞耳朵长出个乒乓球",
@@ -13124,7 +13124,7 @@
     },
     {
       "raw_hot": 213893,
-      "num": 136487,
+      "num": 151190,
       "word": "商场内带狗吓到小孩父亲抢狗怒摔",
       "onboard_time": 1731258015,
       "rank": 29,
@@ -17483,6 +17483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169980,
+      "num": 151165,
+      "word": "美43只在逃实验猴捉回一只",
+      "onboard_time": 1731257418,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 169946,
       "num": 169946,
       "word": "郑钦文世界排名升至第六",
@@ -19547,6 +19555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151356,
+      "num": 151356,
+      "word": "周深回应撞衫大闸蟹",
+      "onboard_time": 1731280577,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151302,
       "num": 300063,
       "word": "Faker 第五冠献给粉丝",
@@ -19913,14 +19929,6 @@
       "onboard_time": 1730345239,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147841,
-      "num": 109454,
-      "word": "美43只在逃实验猴捉回一只",
-      "onboard_time": 1731257418,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 147752,
@@ -20369,6 +20377,14 @@
       "onboard_time": 1731075382,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143192,
+      "num": 143192,
+      "word": "万斯警告欧盟别对X平台下手",
+      "onboard_time": 1731273012,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 143144,
@@ -20889,14 +20905,6 @@
       "onboard_time": 1730466138,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139531,
-      "num": 139531,
-      "word": "万斯警告欧盟别对X平台下手",
-      "onboard_time": 1731273012,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 139498,
@@ -21929,6 +21937,14 @@
       "onboard_time": 1730426237,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129519,
+      "num": 129519,
+      "word": "88岁钟南山上台致辞健步如飞",
+      "onboard_time": 1731278415,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129516,
@@ -24283,6 +24299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104969,
+      "num": 85430,
+      "word": "日产净利润暴跌94%",
+      "onboard_time": 1731280876,
+      "rank": 31,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 104815,
       "num": 104815,
       "word": "白敬亭沈腾 牵牛花",
@@ -24859,6 +24883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97749,
+      "num": 97749,
+      "word": "白锦锦 剧本",
+      "onboard_time": 1731262513,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97698,
       "num": 102113,
       "word": "papi酱 杨子假装在戏弄人间",
@@ -24904,14 +24936,6 @@
       "word": "连俄罗斯人都能看懂的中国戏剧",
       "onboard_time": 1731036980,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97053,
-      "num": 97053,
-      "word": "88岁钟南山上台致辞健步如飞",
-      "onboard_time": 1731278415,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -25113,6 +25137,14 @@
       "onboard_time": 1731107054,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92331,
+      "num": 85058,
+      "word": "我们的飞机不用再飞两遍了",
+      "onboard_time": 1731280876,
+      "rank": 32,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 92143,
@@ -25411,6 +25443,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 86392,
+      "num": 86392,
+      "word": "关晓彤小巷人家眼神戏",
+      "onboard_time": 1731281417,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86322,
       "num": 120701,
       "word": "北斗七行包场秦海璐新电影",
@@ -25505,6 +25545,14 @@
       "onboard_time": 1730805501,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84828,
+      "num": 84828,
+      "word": "OBGG显示TheShy与Rookie加入iG",
+      "onboard_time": 1731280818,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 84809,
@@ -25633,14 +25681,6 @@
       "onboard_time": 1731016391,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 83314,
-      "num": 83314,
-      "word": "白锦锦 剧本",
-      "onboard_time": 1731262513,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 82582,
@@ -25873,6 +25913,14 @@
       "onboard_time": 1730482216,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78344,
+      "num": 78344,
+      "word": "减肥人也是过上好日子了",
+      "onboard_time": 1731280936,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 78227,
@@ -26145,6 +26193,14 @@
       "onboard_time": 1731172996,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71441,
+      "num": 71441,
+      "word": "许昕说喷我可以别攻击其他队员",
+      "onboard_time": 1731281356,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 71395,
@@ -26739,14 +26795,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 62623,
-      "num": 62623,
-      "word": "OBGG显示TheShy与Rookie加入iG",
-      "onboard_time": 1731280818,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 62579,
       "num": 446716,
       "word": "网友喊话王楚钦还年轻下个赛场见",
@@ -26784,6 +26832,14 @@
       "word": "45元1桶假冒机油卖给消费者数百元",
       "onboard_time": 1730672592,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62209,
+      "num": 62209,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -26937,6 +26993,14 @@
       "onboard_time": 1730899342,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60482,
+      "num": 60482,
+      "word": "晓华会火是击中了当下人们的软肋",
+      "onboard_time": 1731277393,
+      "rank": 35,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 60322,
@@ -27291,14 +27355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 55723,
-      "num": 55723,
-      "word": "晓华会火是击中了当下人们的软肋",
-      "onboard_time": 1731277393,
-      "rank": 35,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 55676,
       "num": 241218,
       "word": "郑钦文今晚获胜即出线",
@@ -27361,14 +27417,6 @@
       "onboard_time": 1731035179,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 55062,
-      "num": 55062,
-      "word": "周深回应撞衫大闸蟹",
-      "onboard_time": 1731280577,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 55009,
@@ -27552,14 +27600,6 @@
       "word": "福利院回应垃圾桶发现男婴已接收",
       "onboard_time": 1730873005,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52871,
-      "num": 52871,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -29129,6 +29169,14 @@
       "onboard_time": 1731150798,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36388,
+      "num": 166779,
+      "word": "中国黄岩岛上空现双彩虹景观",
+      "onboard_time": 1731280515,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36233,
@@ -31147,6 +31195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21799,
+      "num": 86233,
+      "word": "向鱼北京见",
+      "onboard_time": 1731281175,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 21683,
       "num": 393162,
       "word": "关晓彤说庄筱婷是能闷声干大事的人",
@@ -31291,6 +31347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20765,
+      "num": 151276,
+      "word": "丁俊晖终结5年冠军荒",
+      "onboard_time": 1731281175,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20717,
       "num": 257546,
       "word": "用长焦微距看清文物细节",
@@ -31337,6 +31401,14 @@
       "onboard_time": 1730388740,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20434,
+      "num": 63517,
+      "word": "女孩眼神从茫然变成抑不住的开心",
+      "onboard_time": 1731281477,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 20412,
@@ -31809,6 +31881,14 @@
       "onboard_time": 1730952261,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17210,
+      "num": 152870,
+      "word": "郑钦文总决赛后迎来1个月假期",
+      "onboard_time": 1731281175,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 17200,
@@ -32585,14 +32665,6 @@
       "onboard_time": 1730770818,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 9761,
-      "num": 166779,
-      "word": "中国黄岩岛上空现双彩虹景观",
-      "onboard_time": 1731280515,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9705,

@@ -1,14 +1,38 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731280852401,
+  "endTime": 1731281729139,
   "band_list": [
     {
-      "raw_hot": 770798,
+      "raw_hot": 939456,
       "num": 770798,
       "word": "李行亮觉醒",
       "onboard_time": 1731244399,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 719803,
+      "num": 166308,
+      "word": "华盛顿聚集大量人群抗议特朗普",
+      "onboard_time": 1731273791,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 715182,
+      "num": 916946,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692069,
+      "num": 692069,
+      "word": "泄密后反嘱咐对方千万别外传",
+      "onboard_time": 1731272050,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650578,
@@ -19,27 +43,11 @@
       "category": "财经,时尚"
     },
     {
-      "raw_hot": 632643,
-      "num": 166308,
-      "word": "华盛顿聚集大量人群抗议特朗普",
-      "onboard_time": 1731273791,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 600688,
-      "num": 790554,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590156,
-      "num": 590156,
-      "word": "泄密后反嘱咐对方千万别外传",
-      "onboard_time": 1731272050,
-      "rank": 34,
+      "raw_hot": 549930,
+      "num": 549930,
+      "word": "自驾阿姨说自己没有愧对任何人",
+      "onboard_time": 1731275651,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1731244701,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 473282,
-      "num": 473282,
-      "word": "自驾阿姨说自己没有愧对任何人",
-      "onboard_time": 1731275651,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440080,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306916,
+      "num": 306916,
+      "word": "男子将8万现金伪装成喜糖寄出",
+      "onboard_time": 1731246199,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302354,
       "num": 299444,
       "word": "鹏飞妈妈",
@@ -123,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299780,
-      "num": 299780,
-      "word": "男子将8万现金伪装成喜糖寄出",
-      "onboard_time": 1731246199,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 300139,
+      "num": 300139,
+      "word": "永夜星河好感度百分之99了",
+      "onboard_time": 1731252500,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 298385,
@@ -187,14 +195,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 228126,
-      "num": 228126,
-      "word": "永夜星河好感度百分之99了",
-      "onboard_time": 1731252500,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218201,
       "num": 218201,
       "word": "在妇幼保健院装针孔摄像头被拘",
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 213893,
-      "num": 136487,
+      "num": 151190,
       "word": "商场内带狗吓到小孩父亲抢狗怒摔",
       "onboard_time": 1731258015,
       "rank": 29,
@@ -291,6 +291,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169980,
+      "num": 151165,
+      "word": "美43只在逃实验猴捉回一只",
+      "onboard_time": 1731257418,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 159227,
+      "num": 159227,
+      "word": "王安宇人生镜头",
+      "onboard_time": 1731250641,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158524,
       "num": 158524,
       "word": "权志龙点赞玩自己梗的网友",
@@ -307,20 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149494,
-      "num": 149494,
-      "word": "王安宇人生镜头",
-      "onboard_time": 1731250641,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147841,
-      "num": 109454,
-      "word": "美43只在逃实验猴捉回一只",
-      "onboard_time": 1731257418,
-      "rank": 22,
-      "category": "国外时政"
+      "raw_hot": 151356,
+      "num": 151356,
+      "word": "周深回应撞衫大闸蟹",
+      "onboard_time": 1731280577,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 143605,
@@ -331,8 +339,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 139531,
-      "num": 139531,
+      "raw_hot": 143192,
+      "num": 143192,
       "word": "万斯警告欧盟别对X平台下手",
       "onboard_time": 1731273012,
       "rank": 37,
@@ -369,6 +377,14 @@
       "onboard_time": 1731252980,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129519,
+      "num": 129519,
+      "word": "88岁钟南山上台致辞健步如飞",
+      "onboard_time": 1731278415,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124309,
@@ -411,12 +427,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97053,
-      "num": 97053,
-      "word": "88岁钟南山上台致辞健步如飞",
-      "onboard_time": 1731278415,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 104969,
+      "num": 85430,
+      "word": "日产净利润暴跌94%",
+      "onboard_time": 1731280876,
+      "rank": 31,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 97749,
+      "num": 97749,
+      "word": "白锦锦 剧本",
+      "onboard_time": 1731262513,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 95172,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92331,
+      "num": 85058,
+      "word": "我们的飞机不用再飞两遍了",
+      "onboard_time": 1731280876,
+      "rank": 32,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 91873,
       "num": 91873,
       "word": "双11晚会 苹果香",
@@ -435,12 +467,20 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 83314,
-      "num": 83314,
-      "word": "白锦锦 剧本",
-      "onboard_time": 1731262513,
-      "rank": 36,
+      "raw_hot": 86392,
+      "num": 86392,
+      "word": "关晓彤小巷人家眼神戏",
+      "onboard_time": 1731281417,
+      "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84828,
+      "num": 84828,
+      "word": "OBGG显示TheShy与Rookie加入iG",
+      "onboard_time": 1731280818,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 82771,
@@ -475,12 +515,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 78344,
+      "num": 78344,
+      "word": "减肥人也是过上好日子了",
+      "onboard_time": 1731280936,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 76016,
       "num": 76016,
       "word": "狼队败决上演逆转大戏",
       "onboard_time": 1731254538,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71441,
+      "num": 71441,
+      "word": "许昕说喷我可以别攻击其他队员",
+      "onboard_time": 1731281356,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71309,
+      "num": 71309,
+      "word": "WTT",
+      "onboard_time": 1731280876,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 68752,
@@ -507,12 +571,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 62623,
-      "num": 62623,
-      "word": "OBGG显示TheShy与Rookie加入iG",
-      "onboard_time": 1731280818,
+      "raw_hot": 62209,
+      "num": 62209,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61331,
+      "num": 61331,
+      "word": "男子被相亲对象拒绝行凶逃亡23年",
+      "onboard_time": 1731225918,
       "rank": 30,
-      "category": "电竞"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60482,
+      "num": 60482,
+      "word": "晓华会火是击中了当下人们的软肋",
+      "onboard_time": 1731277393,
+      "rank": 35,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 59802,
@@ -523,44 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55723,
-      "num": 55723,
-      "word": "晓华会火是击中了当下人们的软肋",
-      "onboard_time": 1731277393,
-      "rank": 35,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 55062,
-      "num": 55062,
-      "word": "周深回应撞衫大闸蟹",
-      "onboard_time": 1731280577,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 54014,
       "num": 54014,
       "word": "赵露思珠帘玉幕角色指数第一",
       "onboard_time": 1731258195,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52988,
-      "num": 52988,
-      "word": "男子被相亲对象拒绝行凶逃亡23年",
-      "onboard_time": 1731225918,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52871,
-      "num": 52871,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48010,
@@ -585,6 +633,14 @@
       "onboard_time": 1731259874,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 36388,
+      "num": 166779,
+      "word": "中国黄岩岛上空现双彩虹景观",
+      "onboard_time": 1731280515,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24583,
@@ -635,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21799,
+      "num": 86233,
+      "word": "向鱼北京见",
+      "onboard_time": 1731281175,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 21221,
       "num": 26810,
       "word": "双11疯狂好六夜",
@@ -649,6 +713,22 @@
       "onboard_time": 1731256816,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 20765,
+      "num": 151276,
+      "word": "丁俊晖终结5年冠军荒",
+      "onboard_time": 1731281175,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20434,
+      "num": 63517,
+      "word": "女孩眼神从茫然变成抑不住的开心",
+      "onboard_time": 1731281477,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 19093,
@@ -673,6 +753,14 @@
       "onboard_time": 1731275772,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17210,
+      "num": 152870,
+      "word": "郑钦文总决赛后迎来1个月假期",
+      "onboard_time": 1731281175,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 16795,
@@ -721,14 +809,6 @@
       "onboard_time": 1731270560,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 9761,
-      "num": 166779,
-      "word": "中国黄岩岛上空现双彩虹景观",
-      "onboard_time": 1731280515,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7593,
