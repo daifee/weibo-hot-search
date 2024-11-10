@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731274550043,
+  "endTime": 1731277206791,
   "band_list": [
     {
       "raw_hot": 650578,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210761,
+      "num": 369155,
+      "word": "相伴20年男子竟杀了相亲对象在逃",
+      "onboard_time": 1731262032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209798,
       "num": 201644,
       "word": "何炅欢迎谢娜回家",
@@ -211,12 +219,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196983,
+      "num": 196983,
+      "word": "李行亮觉醒",
+      "onboard_time": 1731244399,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192256,
       "num": 192256,
       "word": "本周锦鲤附体星座",
       "onboard_time": 1731250940,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190476,
+      "num": 66101,
+      "word": "华盛顿聚集大量人群抗议特朗普",
+      "onboard_time": 1731273791,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 190058,
@@ -267,11 +291,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148669,
-      "num": 148669,
-      "word": "相伴20年男子竟杀了相亲对象在逃",
-      "onboard_time": 1731262032,
-      "rank": 9,
+      "raw_hot": 148102,
+      "num": 148102,
+      "word": "泄密后反嘱咐对方千万别外传",
+      "onboard_time": 1731272050,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -281,14 +305,6 @@
       "onboard_time": 1731244399,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 142304,
-      "num": 175489,
-      "word": "李行亮觉醒",
-      "onboard_time": 1731244399,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 138322,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65971,
+      "num": 65971,
+      "word": "自驾阿姨说自己没有愧对任何人",
+      "onboard_time": 1731275651,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65672,
       "num": 65672,
       "word": "小鬼 轻舟撞上周一围",
@@ -449,6 +473,14 @@
       "onboard_time": 1731258495,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56172,
+      "num": 56172,
+      "word": "万斯警告欧盟别对X平台下手",
+      "onboard_time": 1731273012,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 54014,
@@ -475,24 +507,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 27980,
-      "num": 26939,
-      "word": "华盛顿聚集大量人群抗议特朗普",
-      "onboard_time": 1731273791,
-      "rank": 22,
-      "category": "国外时政"
+      "raw_hot": 30868,
+      "num": 30868,
+      "word": "天舟七号撤离中国空间站",
+      "onboard_time": 1731272651,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 25797,
-      "num": 25797,
-      "word": "万斯警告欧盟别对X平台下手",
-      "onboard_time": 1731273012,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 24877,
-      "num": 24877,
+      "raw_hot": 25879,
+      "num": 25879,
       "word": "她只是一位想夺回养狗权的妈妈",
       "onboard_time": 1731269231,
       "rank": 40,
@@ -523,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23583,
+      "num": 23583,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22432,
       "num": 30183,
       "word": "周深演唱会",
@@ -540,19 +572,19 @@
     },
     {
       "raw_hot": 20776,
-      "num": 20776,
+      "num": 22598,
       "word": "以总理证实以方制造黎巴嫩BP机爆炸",
       "onboard_time": 1731256816,
       "rank": 46,
       "category": "国外时政"
     },
     {
-      "raw_hot": 19463,
-      "num": 19463,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 19909,
+      "num": 25111,
+      "word": "双11疯狂好六夜",
+      "onboard_time": 1731261013,
+      "rank": 41,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 19093,
@@ -561,14 +593,6 @@
       "onboard_time": 1731265632,
       "rank": 10,
       "category": "军事"
-    },
-    {
-      "raw_hot": 18431,
-      "num": 25111,
-      "word": "双11疯狂好六夜",
-      "onboard_time": 1731261013,
-      "rank": 41,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 18217,
@@ -587,14 +611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 16296,
-      "num": 25649,
-      "word": "天舟七号撤离中国空间站",
-      "onboard_time": 1731272651,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15000,
       "num": 38016,
       "word": "商家促销构成欺诈可以退一赔三",
@@ -611,14 +627,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 12681,
-      "num": 20848,
-      "word": "泄密后反嘱咐对方千万别外传",
-      "onboard_time": 1731272050,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12380,
       "num": 24912,
       "word": "本届航展动态演示区新装备超三成",
@@ -633,6 +641,14 @@
       "onboard_time": 1731270560,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11242,
+      "num": 66110,
+      "word": "民间反偷拍不该受威胁",
+      "onboard_time": 1731276912,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7593,

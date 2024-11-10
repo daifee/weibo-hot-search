@@ -1,0 +1,410 @@
+{
+  "runTime": 1731277206791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210761,
+        "num": 369155,
+        "word": "相伴20年男子竟杀了相亲对象在逃",
+        "onboard_time": 1731262032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196983,
+        "num": 196983,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1231,
+        "num": 161613,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148102,
+        "num": 148102,
+        "word": "泄密后反嘱咐对方千万别外传",
+        "onboard_time": 1731272050,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111403,
+        "num": 111403,
+        "word": "2岁失踪女童家属怀疑系熟人作案",
+        "onboard_time": 1731254777,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99621,
+        "num": 99621,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 5,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 81487,
+        "num": 81487,
+        "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+        "onboard_time": 1731258015,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76072,
+        "num": 76072,
+        "word": "男子将8万现金伪装成喜糖寄出",
+        "onboard_time": 1731246199,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41652,
+        "num": 66331,
+        "word": "王玉雯的反击给我看爽了",
+        "onboard_time": 1731251899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11242,
+        "num": 66110,
+        "word": "民间反偷拍不该受威胁",
+        "onboard_time": 1731276912,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190476,
+        "num": 66101,
+        "word": "华盛顿聚集大量人群抗议特朗普",
+        "onboard_time": 1731273791,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66028,
+        "num": 66028,
+        "word": "林诗栋4比1卡尔伯格",
+        "onboard_time": 1731252020,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65971,
+        "num": 65971,
+        "word": "自驾阿姨说自己没有愧对任何人",
+        "onboard_time": 1731275651,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64278,
+        "num": 64278,
+        "word": "在妇幼保健院装针孔摄像头被拘",
+        "onboard_time": 1731257656,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57387,
+        "num": 57387,
+        "word": "世界上有一半的人都会流血",
+        "onboard_time": 1731244701,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56172,
+        "num": 56172,
+        "word": "万斯警告欧盟别对X平台下手",
+        "onboard_time": 1731273012,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32826,
+        "num": 56079,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 16,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 32777,
+        "num": 54824,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32581,
+        "num": 54369,
+        "word": "白锦锦 剧本",
+        "onboard_time": 1731262513,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31229,
+        "num": 53639,
+        "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+        "onboard_time": 1731238099,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88123,
+        "num": 52126,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52083,
+        "num": 52083,
+        "word": "美43只在逃实验猴捉回一只",
+        "onboard_time": 1731257418,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 43642,
+        "num": 43642,
+        "word": "中国领土一点都不会让一寸也不能丢",
+        "onboard_time": 1731255797,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43477,
+        "num": 43477,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36310,
+        "num": 36310,
+        "word": "许昕谈王曼昱夺冠",
+        "onboard_time": 1731253819,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35063,
+        "num": 35063,
+        "word": "24岁女生剃头180天后的变化",
+        "onboard_time": 1731247040,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32551,
+        "num": 32551,
+        "word": "林诗栋男子单打冠军",
+        "onboard_time": 1731252798,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28869,
+        "num": 32212,
+        "word": "何炅欢迎谢娜回家",
+        "onboard_time": 1731252260,
+        "rank": 27,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 28174,
+        "num": 32091,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25386,
+        "num": 32016,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32016,
+        "num": 32015,
+        "word": "邓亚萍谈王曼昱对阵王艺迪",
+        "onboard_time": 1731258495,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30868,
+        "num": 30868,
+        "word": "天舟七号撤离中国空间站",
+        "onboard_time": 1731272651,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30299,
+        "num": 30299,
+        "word": "打过狂犬疫苗的人嘴可真严啊",
+        "onboard_time": 1731245841,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29519,
+        "num": 29519,
+        "word": "丁俊晖国际锦标赛夺冠",
+        "onboard_time": 1731250400,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28391,
+        "num": 28391,
+        "word": "双11",
+        "onboard_time": 1731254059,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27000,
+        "num": 27000,
+        "word": "黄岩岛是我国固有领土",
+        "onboard_time": 1731245720,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25879,
+        "num": 25879,
+        "word": "她只是一位想夺回养狗权的妈妈",
+        "onboard_time": 1731269231,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24138,
+        "num": 24138,
+        "word": "苏57飞行员幽默回答为什么爱飞行",
+        "onboard_time": 1731244399,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 23645,
+        "num": 23645,
+        "word": "王曼昱WTT女单夺冠",
+        "onboard_time": 1731247701,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23583,
+        "num": 23583,
+        "word": "国安公布涉密人员失泄密案件",
+        "onboard_time": 1731267611,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22620,
+        "num": 22620,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21745,
+        "num": 22618,
+        "word": "狼队让三追四",
+        "onboard_time": 1731249741,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20774,
+        "num": 22608,
+        "word": "黎巴嫩BP机爆炸事件系以色列制造",
+        "onboard_time": 1731250701,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19909,
+        "num": 22601,
+        "word": "双11疯狂好六夜",
+        "onboard_time": 1731261013,
+        "rank": 43,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 19775,
+        "num": 22598,
+        "word": "以总理证实以方制造黎巴嫩BP机爆炸",
+        "onboard_time": 1731256816,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19427,
+        "num": 22587,
+        "word": "曼联3比0莱斯特城",
+        "onboard_time": 1731260653,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19383,
+        "num": 22585,
+        "word": "华晨宇 想要成长多谈恋爱",
+        "onboard_time": 1731248120,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18594,
+        "num": 22576,
+        "word": "2024年只剩7个周末了",
+        "onboard_time": 1731260113,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18585,
+        "num": 22570,
+        "word": "种地吧",
+        "onboard_time": 1731251481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18367,
+        "num": 22566,
+        "word": "这是我们的黄岩岛",
+        "onboard_time": 1731261553,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}
