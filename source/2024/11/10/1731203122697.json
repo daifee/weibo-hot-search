@@ -1,0 +1,410 @@
+{
+  "runTime": 1731203122697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2598685,
+        "num": 2598685,
+        "word": "疑儿子盒马鲜生摔倒没人扶妈妈砸店",
+        "onboard_time": 1731200417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498213,
+        "num": 498213,
+        "word": "网红夫妇称做多项检查不存在传染病",
+        "onboard_time": 1731197776,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8159,
+        "num": 466042,
+        "word": "这些橙色身影是最坚实的依靠",
+        "onboard_time": 1731155118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458588,
+        "num": 458588,
+        "word": "将门毒后",
+        "onboard_time": 1731165678,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445282,
+        "num": 445282,
+        "word": "祖国一旦有需要反正那就干",
+        "onboard_time": 1731200658,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436503,
+        "num": 436503,
+        "word": "郑钦文回应获亚军",
+        "onboard_time": 1731193933,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360365,
+        "num": 360365,
+        "word": "邓超孙俪一家四口颜值",
+        "onboard_time": 1731195675,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340473,
+        "num": 340473,
+        "word": "被传患病网红夫妇无奈离开家乡",
+        "onboard_time": 1731165080,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302804,
+        "num": 302804,
+        "word": "张韶涵回应郑钦文赛前听欧若拉",
+        "onboard_time": 1731196936,
+        "rank": 8,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 133399,
+        "num": 276802,
+        "word": "人民空军成立75年",
+        "onboard_time": 1731197957,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432196,
+        "num": 274988,
+        "word": "子期认识简体字",
+        "onboard_time": 1731200357,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366668,
+        "num": 273575,
+        "word": "叶珂否认给黄晓明花了1000万",
+        "onboard_time": 1731199336,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268892,
+        "num": 268892,
+        "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
+        "onboard_time": 1731172635,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262824,
+        "num": 262824,
+        "word": "麦琳",
+        "onboard_time": 1731160999,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262195,
+        "num": 262195,
+        "word": "歼20S亮相",
+        "onboard_time": 1731201738,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 258583,
+        "num": 258583,
+        "word": "张远你别唱了",
+        "onboard_time": 1731197596,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249691,
+        "num": 249691,
+        "word": "飞行员第一次开战机忍不住唱歌",
+        "onboard_time": 1731197957,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223632,
+        "num": 223632,
+        "word": "美43只雌猴逃出实验室或携带致命病毒",
+        "onboard_time": 1731137779,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214800,
+        "num": 214800,
+        "word": "有同行称晓华让美发行业倒退10年",
+        "onboard_time": 1731199757,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49927,
+        "num": 211492,
+        "word": "曾黎发文给赵露思庆生",
+        "onboard_time": 1731202577,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499675,
+        "num": 211483,
+        "word": "700一吨买土豆土比土豆多",
+        "onboard_time": 1731198918,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210846,
+        "num": 210846,
+        "word": "网上很火但你很反感的梗",
+        "onboard_time": 1731195734,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210810,
+        "num": 210810,
+        "word": "国产新机上市老款iPhone跌至半价",
+        "onboard_time": 1731202458,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195634,
+        "num": 195634,
+        "word": "警方通报女生求职被要求陪睡",
+        "onboard_time": 1731165620,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194347,
+        "num": 194347,
+        "word": "内娱又有troublemaker上新",
+        "onboard_time": 1731164660,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173210,
+        "num": 173210,
+        "word": "各地网友送鲜花悼念张纯如",
+        "onboard_time": 1731193393,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169359,
+        "num": 169359,
+        "word": "李行亮儿子穿姐姐剩下的衣服",
+        "onboard_time": 1731200237,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156645,
+        "num": 156645,
+        "word": "大理第一场雪",
+        "onboard_time": 1731200839,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153647,
+        "num": 153647,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1731164961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73100,
+        "num": 152189,
+        "word": "中国奥委会祝贺郑钦文",
+        "onboard_time": 1731201259,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230410,
+        "num": 151730,
+        "word": "幼儿园老师用竹签疯狂虐待孩子",
+        "onboard_time": 1731202038,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151142,
+        "num": 151142,
+        "word": "理发师晓华说30元的价格不低",
+        "onboard_time": 1731199397,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150098,
+        "num": 150098,
+        "word": "哈尔滨中央大街冰糖葫芦男神爆火",
+        "onboard_time": 1731167719,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144275,
+        "num": 144275,
+        "word": "子期妖化美甲",
+        "onboard_time": 1731197176,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144212,
+        "num": 144212,
+        "word": "晓华爆改男大剪完神似易烊千玺",
+        "onboard_time": 1731193213,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 135107,
+        "num": 135107,
+        "word": "郑钦文排名飙升至第5位",
+        "onboard_time": 1731198856,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120867,
+        "num": 120867,
+        "word": "口服避孕药 致癌物",
+        "onboard_time": 1731156438,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119180,
+        "num": 119180,
+        "word": "丁禹兮演员的品格冠军",
+        "onboard_time": 1731200717,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116803,
+        "num": 116803,
+        "word": "向佐发文为赵露思庆生",
+        "onboard_time": 1731171737,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112704,
+        "num": 112704,
+        "word": "你好星期六下期是永夜星河",
+        "onboard_time": 1731198676,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106884,
+        "num": 106884,
+        "word": "大屏的鹿晗",
+        "onboard_time": 1731202759,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105496,
+        "num": 105496,
+        "word": "小巷人家预告好甜",
+        "onboard_time": 1731201078,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102687,
+        "num": 102687,
+        "word": "佩洛西埋怨拜登",
+        "onboard_time": 1731168620,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102591,
+        "num": 102591,
+        "word": "郑钦文伸手接金色彩带",
+        "onboard_time": 1731195315,
+        "rank": 43,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 101646,
+        "num": 101646,
+        "word": "郑钦文说输球并不是运气不好",
+        "onboard_time": 1731201438,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100839,
+        "num": 100839,
+        "word": "高芙成为20年来WTA最年轻冠军",
+        "onboard_time": 1731198376,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100008,
+        "num": 100008,
+        "word": "95花top",
+        "onboard_time": 1731160339,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95060,
+        "num": 95060,
+        "word": "郑钦文立下新赛季目标",
+        "onboard_time": 1731200598,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93023,
+        "num": 93023,
+        "word": "王艺迪说曼昱是非常强的队友",
+        "onboard_time": 1731202098,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91582,
+        "num": 91582,
+        "word": "普京签署俄朝全面战略伙伴关系条约",
+        "onboard_time": 1731203057,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统普拉博沃会谈#"
+    }
+  }
+}
