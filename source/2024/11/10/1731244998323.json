@@ -1,0 +1,410 @@
+{
+  "runTime": 1731244998323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358507,
+        "num": 1358507,
+        "word": "劳斯莱斯女车主哽咽否认炒作",
+        "onboard_time": 1731237860,
+        "rank": 0,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 1072719,
+        "num": 1072719,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1731241518,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63962,
+        "num": 781376,
+        "word": "一图看懂黄岩岛领海基线",
+        "onboard_time": 1731242540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690134,
+        "num": 690134,
+        "word": "费启鸣 请苍天辨忠奸",
+        "onboard_time": 1731242960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440121,
+        "num": 440121,
+        "word": "孙颖莎要成为孙颖莎",
+        "onboard_time": 1731242121,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432087,
+        "num": 432087,
+        "word": "用人民币感受冰岛物价",
+        "onboard_time": 1731229819,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 645890,
+        "num": 431550,
+        "word": "权志龙点赞玩自己梗的网友",
+        "onboard_time": 1731241759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202954,
+        "num": 429636,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1731243560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97509,
+        "num": 428393,
+        "word": "KSG拿到败决赛点",
+        "onboard_time": 1731243798,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106209,
+        "num": 427958,
+        "word": "国产三蹦子在意大利车展火了",
+        "onboard_time": 1731243619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651652,
+        "num": 426345,
+        "word": "徐艺洋方声明",
+        "onboard_time": 1731239778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549496,
+        "num": 424345,
+        "word": "小侯爷人真好",
+        "onboard_time": 1731238099,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29624,
+        "num": 422694,
+        "word": "网友称晓华的店为怀化5A级景区",
+        "onboard_time": 1731243619,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32059,
+        "num": 421491,
+        "word": "林诗栋vs卡尔伯格",
+        "onboard_time": 1731243619,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71253,
+        "num": 420655,
+        "word": "天猫双11疯狂好六夜真的好疯",
+        "onboard_time": 1731243619,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468187,
+        "num": 418445,
+        "word": "美国多州欲立法抵制特朗普施政",
+        "onboard_time": 1731238758,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 445280,
+        "num": 417652,
+        "word": "虞书欣 亲太紧就看不到嘴巴瓣了",
+        "onboard_time": 1731238099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417073,
+        "num": 417073,
+        "word": "中国一点都不能少",
+        "onboard_time": 1731229819,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 402173,
+        "num": 402173,
+        "word": "这里是中国黄岩岛海域",
+        "onboard_time": 1731232640,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20283,
+        "num": 391475,
+        "word": "老人黄昏恋花1万6后人消失了",
+        "onboard_time": 1731243619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382024,
+        "num": 382024,
+        "word": "慕瑶 蓝兔",
+        "onboard_time": 1731240560,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376212,
+        "num": 376212,
+        "word": "何与 双轨",
+        "onboard_time": 1731243198,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361643,
+        "num": 361643,
+        "word": "美国滞留太空宇航员瘦成锥子脸",
+        "onboard_time": 1731218420,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344618,
+        "num": 344618,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 23,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 338831,
+        "num": 338831,
+        "word": "盒马鲜生被砸门店称可起诉",
+        "onboard_time": 1731242540,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302206,
+        "num": 302206,
+        "word": "永夜星河",
+        "onboard_time": 1731233297,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279176,
+        "num": 279176,
+        "word": "疯狂好六夜节目单",
+        "onboard_time": 1731241999,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277888,
+        "num": 277888,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252835,
+        "num": 252835,
+        "word": "杨迪娜扎跳troublemaker",
+        "onboard_time": 1731242839,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34323,
+        "num": 244964,
+        "word": "央视网文娱评珠帘玉幕",
+        "onboard_time": 1731244161,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242376,
+        "num": 242376,
+        "word": "中国政府就黄岩岛领海基线发表声明",
+        "onboard_time": 1731227239,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240393,
+        "num": 240393,
+        "word": "王一栩 费启鸣你发誓别带上我",
+        "onboard_time": 1731242180,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213749,
+        "num": 213749,
+        "word": "王栎鑫吴雅婷合体澄清",
+        "onboard_time": 1731221479,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210245,
+        "num": 210245,
+        "word": "四大扛剧小生",
+        "onboard_time": 1731235160,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200185,
+        "num": 200185,
+        "word": "林青霞姜涛牵手出席活动",
+        "onboard_time": 1731236717,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194768,
+        "num": 194768,
+        "word": "苏57飞行员幽默回答为什么爱飞行",
+        "onboard_time": 1731244399,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 184522,
+        "num": 184522,
+        "word": "22岁大学生倒在雪山上",
+        "onboard_time": 1731239419,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181544,
+        "num": 181544,
+        "word": "世界上有一半的人都会流血",
+        "onboard_time": 1731244701,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170052,
+        "num": 170052,
+        "word": "小巷人家",
+        "onboard_time": 1731241339,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167860,
+        "num": 167860,
+        "word": "闫妮檀健次金风玉露",
+        "onboard_time": 1731243560,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159685,
+        "num": 159685,
+        "word": "分享欲才是两个人感情最好的证明",
+        "onboard_time": 1731234859,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154908,
+        "num": 154908,
+        "word": "时代少年团二开",
+        "onboard_time": 1731239480,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151221,
+        "num": 151221,
+        "word": "我承认之前对小侯爷声音大了点",
+        "onboard_time": 1731241459,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150774,
+        "num": 150774,
+        "word": "娜扎 猫女还原度",
+        "onboard_time": 1731242481,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147346,
+        "num": 147346,
+        "word": "广州有可能打破最长夏季纪录",
+        "onboard_time": 1731224060,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "歼20S战斗机正式揭开神秘面纱",
+        "onboard_time": 1731243560,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144194,
+        "num": 144194,
+        "word": "2岁失联女童被警犬在山顶上找到",
+        "onboard_time": 1731221780,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142289,
+        "num": 142289,
+        "word": "22岁女孩感冒后厌食暴瘦到40斤",
+        "onboard_time": 1731220579,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141302,
+        "num": 141302,
+        "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
+        "onboard_time": 1731237799,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136529,
+        "num": 136529,
+        "word": "比特币",
+        "onboard_time": 1731243380,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}

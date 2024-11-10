@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731243204672,
+  "endTime": 1731244998323,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072719,
+      "num": 1072719,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1731241518,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1059448,
       "num": 1059448,
       "word": "你好星期六半脸卸妆",
@@ -177,14 +185,6 @@
       "onboard_time": 1731238099,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 913129,
-      "num": 913129,
-      "word": "何炅谢娜同台主持",
-      "onboard_time": 1731241518,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 865857,
@@ -267,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 690134,
+      "num": 690134,
+      "word": "费启鸣 请苍天辨忠奸",
+      "onboard_time": 1731242960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665745,
       "num": 665745,
       "word": "山西一家三口烧煤取暖中毒身亡",
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 645890,
+      "num": 431550,
+      "word": "权志龙点赞玩自己梗的网友",
+      "onboard_time": 1731241759,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643067,
       "num": 643067,
       "word": "永夜星河",
@@ -321,14 +337,6 @@
       "onboard_time": 1731227239,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 619901,
-      "num": 430626,
-      "word": "权志龙点赞玩自己梗的网友",
-      "onboard_time": 1731241759,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 612311,
@@ -491,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 468187,
+      "num": 418445,
+      "word": "美国多州欲立法抵制特朗普施政",
+      "onboard_time": 1731238758,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 451310,
       "num": 275364,
       "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
@@ -505,14 +521,6 @@
       "onboard_time": 1731214878,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448392,
-      "num": 388783,
-      "word": "美国多州欲立法抵制特朗普施政",
-      "onboard_time": 1731238758,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 446951,
@@ -537,6 +545,14 @@
       "onboard_time": 1731208159,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 440121,
+      "num": 440121,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 436631,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376212,
+      "num": 376212,
+      "word": "何与 双轨",
+      "onboard_time": 1731243198,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375803,
       "num": 234589,
       "word": "何炅说最害怕只有名字上热搜",
@@ -713,6 +737,14 @@
       "onboard_time": 1731202458,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 338831,
+      "num": 338831,
+      "word": "盒马鲜生被砸门店称可起诉",
+      "onboard_time": 1731242540,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326824,
@@ -827,19 +859,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283376,
-      "num": 283376,
-      "word": "费启鸣 请苍天辨忠奸",
-      "onboard_time": 1731242960,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282674,
       "num": 282674,
       "word": "芒果男艺人上你好星期六被泼成熏鸡",
       "onboard_time": 1731225079,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279176,
+      "num": 279176,
+      "word": "疯狂好六夜节目单",
+      "onboard_time": 1731241999,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277888,
+      "num": 277888,
+      "word": "李行亮觉醒",
+      "onboard_time": 1731244399,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -947,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 252835,
+      "num": 252835,
+      "word": "杨迪娜扎跳troublemaker",
+      "onboard_time": 1731242839,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252367,
       "num": 252367,
       "word": "普京签署俄朝全面战略伙伴关系条约",
@@ -993,6 +1041,14 @@
       "onboard_time": 1731224119,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 240393,
+      "num": 240393,
+      "word": "王一栩 费启鸣你发誓别带上我",
+      "onboard_time": 1731242180,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 238892,
@@ -1155,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210646,
-      "num": 210646,
-      "word": "王一栩 费启鸣你发誓别带上我",
-      "onboard_time": 1731242180,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210484,
       "num": 210484,
       "word": "年轻人不再局限于传统相亲",
@@ -1243,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203266,
-      "num": 333726,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1731242121,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203220,
       "num": 188627,
       "word": "娜扎 猫女还原度",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1731236239,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202954,
+      "num": 429636,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1731234560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 202592,
@@ -1363,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194768,
+      "num": 194768,
+      "word": "苏57飞行员幽默回答为什么爱飞行",
+      "onboard_time": 1731244399,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 194197,
       "num": 186320,
       "word": "仙逆王林化神新皮肤上线",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1731236178,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181544,
+      "num": 181544,
+      "word": "世界上有一半的人都会流血",
+      "onboard_time": 1731244701,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 180758,
@@ -1611,6 +1675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167860,
+      "num": 167860,
+      "word": "闫妮檀健次金风玉露",
+      "onboard_time": 1731243560,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167346,
       "num": 167346,
       "word": "谁教于文文这么扭的",
@@ -1715,12 +1787,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 155134,
-      "num": 212625,
-      "word": "杨迪娜扎跳troublemaker",
-      "onboard_time": 1731242839,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 154908,
+      "num": 154908,
+      "word": "时代少年团二开",
+      "onboard_time": 1731239480,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 154004,
@@ -1803,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145586,
+      "num": 145586,
+      "word": "歼20S战斗机正式揭开神秘面纱",
+      "onboard_time": 1731243560,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 144949,
       "num": 144949,
       "word": "近距离看苏57太细节了",
@@ -1825,14 +1905,6 @@
       "onboard_time": 1731197176,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 143545,
-      "num": 141472,
-      "word": "时代少年团二开",
-      "onboard_time": 1731239480,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 143006,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1731215959,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136529,
+      "num": 136529,
+      "word": "比特币",
+      "onboard_time": 1731243380,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 136099,
@@ -2179,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106209,
+      "num": 427958,
+      "word": "国产三蹦子在意大利车展火了",
+      "onboard_time": 1731243619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105496,
       "num": 105496,
       "word": "小巷人家预告好甜",
@@ -2291,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97509,
+      "num": 428393,
+      "word": "KSG拿到败决赛点",
+      "onboard_time": 1731243798,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96358,
       "num": 96358,
       "word": "珠帘玉幕",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1731168620,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 87231,
-      "num": 87231,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1731234560,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 86869,
@@ -2491,14 +2579,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 72505,
-      "num": 280093,
-      "word": "盒马鲜生被砸门店称可起诉",
-      "onboard_time": 1731242540,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71876,
       "num": 410847,
       "word": "如何看待电梯异常提示生命仅一次",
@@ -2513,6 +2593,14 @@
       "onboard_time": 1731172996,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71253,
+      "num": 420655,
+      "word": "天猫双11疯狂好六夜真的好疯",
+      "onboard_time": 1731243619,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 68007,
@@ -2537,6 +2625,14 @@
       "onboard_time": 1731209298,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63962,
+      "num": 922492,
+      "word": "一图看懂黄岩岛领海基线",
+      "onboard_time": 1731242540,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61879,
@@ -2739,14 +2835,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 43861,
-      "num": 220892,
-      "word": "疯狂好六夜节目单",
-      "onboard_time": 1731241999,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43063,
       "num": 296001,
       "word": "最快下个月又能看郑钦文比赛了",
@@ -2793,14 +2881,6 @@
       "onboard_time": 1731225859,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 39292,
-      "num": 922492,
-      "word": "一图看懂黄岩岛领海基线",
-      "onboard_time": 1731242540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38812,
@@ -2867,6 +2947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34323,
+      "num": 244964,
+      "word": "央视网文娱评珠帘玉幕",
+      "onboard_time": 1731244161,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33522,
       "num": 50737,
       "word": "于正说唐宫感情戏被粉丝撕没了",
@@ -2881,6 +2969,14 @@
       "onboard_time": 1731207617,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32059,
+      "num": 421491,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 31764,
@@ -2905,6 +3001,14 @@
       "onboard_time": 1731228078,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 29624,
+      "num": 422694,
+      "word": "网友称晓华的店为怀化5A级景区",
+      "onboard_time": 1731243619,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29467,
@@ -3065,6 +3169,14 @@
       "onboard_time": 1731226280,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20283,
+      "num": 391475,
+      "word": "老人黄昏恋花1万6后人消失了",
+      "onboard_time": 1731243619,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18667,

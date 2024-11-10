@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731243204672,
+  "endTime": 1731244998323,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2227,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1072719,
+      "num": 1072719,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1731241518,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1070418,
       "num": 1070418,
       "word": "虞书欣还有好几千张库存",
@@ -2921,14 +2929,6 @@
       "onboard_time": 1730949740,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 913129,
-      "num": 913129,
-      "word": "何炅谢娜同台主持",
-      "onboard_time": 1731241518,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 911889,
@@ -4139,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690134,
+      "num": 690134,
+      "word": "费启鸣 请苍天辨忠奸",
+      "onboard_time": 1731242960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 689967,
       "num": 689967,
       "word": "美国大选时间",
@@ -4523,6 +4531,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 645890,
+      "num": 431550,
+      "word": "权志龙点赞玩自己梗的网友",
+      "onboard_time": 1731241759,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645234,
       "num": 645234,
       "word": "建议每个恐华症的人都到中国看看",
@@ -4809,14 +4825,6 @@
       "onboard_time": 1730538438,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619901,
-      "num": 430626,
-      "word": "权志龙点赞玩自己梗的网友",
-      "onboard_time": 1731241759,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 619869,
@@ -6651,6 +6659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 468187,
+      "num": 418445,
+      "word": "美国多州欲立法抵制特朗普施政",
+      "onboard_time": 1731238758,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 468138,
       "num": 637804,
       "word": "死亡游戏再现校园",
@@ -6899,14 +6915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 448392,
-      "num": 388783,
-      "word": "美国多州欲立法抵制特朗普施政",
-      "onboard_time": 1731238758,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 447067,
       "num": 447790,
       "word": "永夜星河推出游戏模式",
@@ -7105,6 +7113,14 @@
       "onboard_time": 1730879132,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440121,
+      "num": 440121,
+      "word": "孙颖莎要成为孙颖莎",
+      "onboard_time": 1731242121,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 439484,
@@ -8163,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376212,
+      "num": 376212,
+      "word": "何与 双轨",
+      "onboard_time": 1731243198,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376135,
       "num": 294768,
       "word": "杨洋疑似受伤",
@@ -8881,6 +8905,14 @@
       "onboard_time": 1730779222,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 338831,
+      "num": 338831,
+      "word": "盒马鲜生被砸门店称可起诉",
+      "onboard_time": 1731242540,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338760,
@@ -10243,14 +10275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283376,
-      "num": 283376,
-      "word": "费启鸣 请苍天辨忠奸",
-      "onboard_time": 1731242960,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283053,
       "num": 283053,
       "word": "收入减半的中产开始反向换房自救",
@@ -10355,6 +10379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279176,
+      "num": 279176,
+      "word": "疯狂好六夜节目单",
+      "onboard_time": 1731241999,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278698,
       "num": 289421,
       "word": "李明德20天瘦了12斤",
@@ -10393,6 +10425,14 @@
       "onboard_time": 1730680397,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 277888,
+      "num": 277888,
+      "word": "李行亮觉醒",
+      "onboard_time": 1731244399,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 277863,
@@ -11251,6 +11291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252835,
+      "num": 252835,
+      "word": "杨迪娜扎跳troublemaker",
+      "onboard_time": 1731242839,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252549,
       "num": 364255,
       "word": "珠帘玉幕 一个史铁生和一群余华",
@@ -11681,6 +11729,14 @@
       "onboard_time": 1730801480,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 240393,
+      "num": 240393,
+      "word": "王一栩 费启鸣你发誓别带上我",
+      "onboard_time": 1731242180,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 240365,
@@ -13051,14 +13107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210646,
-      "num": 210646,
-      "word": "王一栩 费启鸣你发誓别带上我",
-      "onboard_time": 1731242180,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210484,
       "num": 210484,
       "word": "年轻人不再局限于传统相亲",
@@ -13755,14 +13803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203266,
-      "num": 333726,
-      "word": "孙颖莎要成为孙颖莎",
-      "onboard_time": 1731242121,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203220,
       "num": 188627,
       "word": "娜扎 猫女还原度",
@@ -13800,6 +13840,14 @@
       "word": "郑钦文高情商回应合照C位",
       "onboard_time": 1730526198,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202954,
+      "num": 429636,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1731234560,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -14689,6 +14737,14 @@
       "onboard_time": 1730535559,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194768,
+      "num": 194768,
+      "word": "苏57飞行员幽默回答为什么爱飞行",
+      "onboard_time": 1731244399,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 194722,
@@ -15841,6 +15897,14 @@
       "onboard_time": 1731236178,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181544,
+      "num": 181544,
+      "word": "世界上有一半的人都会流血",
+      "onboard_time": 1731244701,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 181535,
@@ -17193,6 +17257,14 @@
       "onboard_time": 1731217340,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167860,
+      "num": 167860,
+      "word": "闫妮檀健次金风玉露",
+      "onboard_time": 1731243560,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167788,
@@ -18595,14 +18667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155134,
-      "num": 212625,
-      "word": "杨迪娜扎跳troublemaker",
-      "onboard_time": 1731242839,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 155088,
       "num": 155088,
       "word": "张晚意付航i人相处演我",
@@ -18633,6 +18697,14 @@
       "onboard_time": 1730698521,
       "rank": 45,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 154908,
+      "num": 154908,
+      "word": "时代少年团二开",
+      "onboard_time": 1731239480,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 154814,
@@ -19659,6 +19731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145586,
+      "num": 145586,
+      "word": "歼20S战斗机正式揭开神秘面纱",
+      "onboard_time": 1731243560,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 145474,
       "num": 145474,
       "word": "Bin 永远尊重faker",
@@ -19801,14 +19881,6 @@
       "onboard_time": 1730451798,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 143545,
-      "num": 141472,
-      "word": "时代少年团二开",
-      "onboard_time": 1731239480,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 143340,
@@ -23627,6 +23699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106209,
+      "num": 427958,
+      "word": "国产三蹦子在意大利车展火了",
+      "onboard_time": 1731243619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "WTT法兰克福冠军赛",
@@ -24291,6 +24371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97509,
+      "num": 428393,
+      "word": "KSG拿到败决赛点",
+      "onboard_time": 1731243798,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97477,
       "num": 377331,
       "word": "珠帘玉幕设定",
@@ -24776,14 +24864,6 @@
       "word": "王曼昱3比0钱天一",
       "onboard_time": 1731108196,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 87231,
-      "num": 87231,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1731234560,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -25499,14 +25579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72505,
-      "num": 280093,
-      "word": "盒马鲜生被砸门店称可起诉",
-      "onboard_time": 1731242540,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72333,
       "num": 95923,
       "word": "徐枫灿驾驶直20抵达珠海",
@@ -25545,6 +25617,14 @@
       "onboard_time": 1730654175,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71253,
+      "num": 420655,
+      "word": "天猫双11疯狂好六夜真的好疯",
+      "onboard_time": 1731243619,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 70974,
@@ -26041,6 +26121,14 @@
       "onboard_time": 1731061099,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63962,
+      "num": 922492,
+      "word": "一图看懂黄岩岛领海基线",
+      "onboard_time": 1731242540,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63506,
@@ -27571,14 +27659,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 43861,
-      "num": 220892,
-      "word": "疯狂好六夜节目单",
-      "onboard_time": 1731241999,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43554,
       "num": 309700,
       "word": "必须知道的女性健康知识",
@@ -28009,14 +28089,6 @@
       "onboard_time": 1730614037,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39292,
-      "num": 922492,
-      "word": "一图看懂黄岩岛领海基线",
-      "onboard_time": 1731242540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39122,
@@ -28651,6 +28723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34323,
+      "num": 244964,
+      "word": "央视网文娱评珠帘玉幕",
+      "onboard_time": 1731244161,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34237,
       "num": 222058,
       "word": "新版大乱斗的快乐谁懂",
@@ -28913,6 +28993,14 @@
       "onboard_time": 1730920211,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32059,
+      "num": 421491,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1731243619,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 32021,
@@ -29248,6 +29336,14 @@
       "word": "买适老器械来某东享国补",
       "onboard_time": 1730959341,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29624,
+      "num": 422694,
+      "word": "网友称晓华的店为怀化5A级景区",
+      "onboard_time": 1731243619,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -30560,6 +30656,14 @@
       "word": "文化中国行看打开ChinaTravel的N种方式",
       "onboard_time": 1730639180,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20283,
+      "num": 391475,
+      "word": "老人黄昏恋花1万6后人消失了",
+      "onboard_time": 1731243619,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
