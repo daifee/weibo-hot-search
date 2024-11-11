@@ -1,0 +1,410 @@
+{
+  "runTime": 1731299187211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501743,
+        "num": 1501743,
+        "word": "美国大选后多地非洲裔收到摘棉花短信",
+        "onboard_time": 1731288019,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 835976,
+        "num": 835976,
+        "word": "坚决纠正幼儿园小学化等行为",
+        "onboard_time": 1731295878,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17098,
+        "num": 783732,
+        "word": "回眸人民空军75年壮阔征程",
+        "onboard_time": 1731298939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775914,
+        "num": 775914,
+        "word": "幼儿园招聘需做背景查询",
+        "onboard_time": 1731294438,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743875,
+        "num": 743875,
+        "word": "网友翻出16年晓华理发店照片",
+        "onboard_time": 1731282917,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576657,
+        "num": 576657,
+        "word": "顾客从韩国飞来找晓华剪头发",
+        "onboard_time": 1731290839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566696,
+        "num": 566696,
+        "word": "麦琳吵架逻辑",
+        "onboard_time": 1731292697,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538122,
+        "num": 538122,
+        "word": "律师谈赵露思工作室被指抄袭",
+        "onboard_time": 1731292938,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439921,
+        "num": 439921,
+        "word": "尹子维妈妈曾是邵氏十二金钗之一",
+        "onboard_time": 1731297439,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76433,
+        "num": 431742,
+        "word": "中国野猪致害省份多达26个",
+        "onboard_time": 1731298038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1905588,
+        "num": 424568,
+        "word": "男子刷情人的卡向妻子转账13万",
+        "onboard_time": 1731296719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878579,
+        "num": 415538,
+        "word": "男孩被老师拎到讲台狂扇20多巴掌",
+        "onboard_time": 1731293358,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40947,
+        "num": 402134,
+        "word": "京东双11京喜1元大捡漏",
+        "onboard_time": 1731294378,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 736101,
+        "num": 389370,
+        "word": "支付宝回应付款异常",
+        "onboard_time": 1731296778,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43929,
+        "num": 386776,
+        "word": "比特币价格史上首次突破81000美元",
+        "onboard_time": 1731297918,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377458,
+        "num": 377458,
+        "word": "女子被丈夫暴打报警后仍遭踢踹",
+        "onboard_time": 1731289278,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318752,
+        "num": 373823,
+        "word": "丁禹兮拼了一个慕声两个妙妙",
+        "onboard_time": 1731294197,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52430,
+        "num": 372698,
+        "word": "失笑巡回开麦直播局",
+        "onboard_time": 1731298698,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372033,
+        "num": 372033,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51311,
+        "num": 339661,
+        "word": "妹子连续加班后确诊女星同款美女病",
+        "onboard_time": 1731298339,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3074,
+        "num": 337220,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893021,
+        "num": 337145,
+        "word": "女子遭家暴婆婆抱孩子站一旁",
+        "onboard_time": 1731294919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336801,
+        "num": 336801,
+        "word": "年轻人狂刷74岁爷爷视频恶补知识点",
+        "onboard_time": 1731290897,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301269,
+        "num": 301269,
+        "word": "吴泽林为芒果付出太多了",
+        "onboard_time": 1731291079,
+        "rank": 23,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 254549,
+        "num": 254549,
+        "word": "大奉打更人",
+        "onboard_time": 1731291678,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238884,
+        "num": 238884,
+        "word": "幼儿园不得教授小学内容",
+        "onboard_time": 1731296359,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223422,
+        "num": 223422,
+        "word": "我勤勤恳恳赚钱为啥越来越穷",
+        "onboard_time": 1731293897,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221577,
+        "num": 221577,
+        "word": "慕声 小狗",
+        "onboard_time": 1731297978,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216101,
+        "num": 216101,
+        "word": "iG",
+        "onboard_time": 1731288438,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193258,
+        "num": 213942,
+        "word": "宋亚轩 邪恶萨摩耶",
+        "onboard_time": 1731297499,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212908,
+        "num": 212908,
+        "word": "Doinb和Tian疑似和解",
+        "onboard_time": 1731298399,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208491,
+        "num": 208491,
+        "word": "丁禹兮做永夜星河拼豆",
+        "onboard_time": 1731287299,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208944,
+        "num": 208120,
+        "word": "只有庄桦林儿子不能这样说",
+        "onboard_time": 1731298879,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206861,
+        "num": 206861,
+        "word": "凤凰传奇杭州抢票",
+        "onboard_time": 1731298218,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175482,
+        "num": 175482,
+        "word": "当我用麦学过双十一",
+        "onboard_time": 1731299059,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20319,
+        "num": 175007,
+        "word": "一城一景尽览齐鲁风华",
+        "onboard_time": 1731295578,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174883,
+        "num": 174883,
+        "word": "奔跑吧茶马古道篇定档",
+        "onboard_time": 1731293658,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172428,
+        "num": 172428,
+        "word": "当初中生问老师活着的意义",
+        "onboard_time": 1731295878,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168128,
+        "num": 168128,
+        "word": "以色列要求公民国外旅行避免表明身份",
+        "onboard_time": 1731298879,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160750,
+        "num": 160750,
+        "word": "未定事件簿",
+        "onboard_time": 1731297499,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66615,
+        "num": 159653,
+        "word": "大梦归离活人剧粉整活",
+        "onboard_time": 1731297439,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1634855,
+        "num": 159572,
+        "word": "支付宝崩了",
+        "onboard_time": 1731290117,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159198,
+        "num": 159198,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66598,
+        "num": 153912,
+        "word": "王曼昱说我非常想拿到这个冠军",
+        "onboard_time": 1731298339,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152923,
+        "num": 152923,
+        "word": "蒋敦豪对阿条姐说下次见",
+        "onboard_time": 1731292218,
+        "rank": 44,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 148078,
+        "num": 148078,
+        "word": "加沙孩子睡在妈妈坟墓上",
+        "onboard_time": 1731292518,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144113,
+        "num": 144113,
+        "word": "饿了么免单",
+        "onboard_time": 1731295637,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138099,
+        "num": 138099,
+        "word": "欧文43分",
+        "onboard_time": 1731298999,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 135748,
+        "word": "禹宙中欣",
+        "onboard_time": 1731285859,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134647,
+        "num": 134647,
+        "word": "心动的信号",
+        "onboard_time": 1731299119,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记嘱托这样护宝#"
+    }
+  }
+}
