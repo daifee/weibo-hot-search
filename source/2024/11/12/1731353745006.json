@@ -1,0 +1,410 @@
+{
+  "runTime": 1731353745006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 122442,
+        "num": 122442,
+        "word": "原来双11最后一天才是最划算的",
+        "onboard_time": 1731340457,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99709,
+        "num": 99709,
+        "word": "唐梓回应跟丁禹兮长得像",
+        "onboard_time": 1731342976,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1393,
+        "num": 88642,
+        "word": "一组图带你看懂COP29",
+        "onboard_time": 1731328159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82250,
+        "num": 82250,
+        "word": "发型师晓华爆改乌克兰宝爸",
+        "onboard_time": 1731332780,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 58697,
+        "num": 58697,
+        "word": "子期 东方青苍",
+        "onboard_time": 1731335960,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53723,
+        "num": 53723,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52054,
+        "num": 52054,
+        "word": "晓华拉动现场消费超2000万元",
+        "onboard_time": 1731351311,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 48220,
+        "num": 48220,
+        "word": "美发行业早就应该整顿了",
+        "onboard_time": 1731338658,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41375,
+        "num": 41375,
+        "word": "虞书欣更新TikTok",
+        "onboard_time": 1731333081,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18473,
+        "num": 40675,
+        "word": "美方要求各国遵守公约自己却不加入",
+        "onboard_time": 1731352812,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40160,
+        "num": 40160,
+        "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+        "onboard_time": 1731342917,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36501,
+        "num": 36501,
+        "word": "抗癌男子筹款5天后晒新房照",
+        "onboard_time": 1731331820,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35639,
+        "num": 35639,
+        "word": "62岁传奇与26岁新星同框了",
+        "onboard_time": 1731343732,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 33021,
+        "num": 33021,
+        "word": "麦琳退掉的汉服",
+        "onboard_time": 1731334880,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31948,
+        "num": 31948,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30962,
+        "num": 30962,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28698,
+        "num": 28698,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26828,
+        "num": 26828,
+        "word": "林一沈月cos赵露思刘宇宁",
+        "onboard_time": 1731337880,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26561,
+        "num": 26561,
+        "word": "林虞爸爸 妙妙子期都是谁啊",
+        "onboard_time": 1731333199,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24726,
+        "num": 24726,
+        "word": "张艺谋说对电影解说短视频很无语",
+        "onboard_time": 1731323658,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36478,
+        "num": 24720,
+        "word": "顺产妈妈用错力致整脸肿胀",
+        "onboard_time": 1731345134,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26470,
+        "num": 24707,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24672,
+        "num": 24672,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23742,
+        "num": 23742,
+        "word": "周洁琼演技",
+        "onboard_time": 1731338300,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23544,
+        "num": 23544,
+        "word": "多个商家账号改名为晓华隔壁",
+        "onboard_time": 1731337281,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 23209,
+        "num": 23209,
+        "word": "冷冻馒头超过两天会长黄曲霉素",
+        "onboard_time": 1731330199,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22844,
+        "num": 22844,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1731329119,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22810,
+        "num": 22810,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 22635,
+        "num": 22635,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22049,
+        "num": 22049,
+        "word": "EDG芜湖起飞",
+        "onboard_time": 1731335482,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22292,
+        "num": 21332,
+        "word": "虞书欣跳河马舞",
+        "onboard_time": 1731348012,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19888,
+        "num": 19888,
+        "word": "官方再次回应万安县95后女干部提拔副科",
+        "onboard_time": 1731333981,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18728,
+        "num": 18728,
+        "word": "蔡磊破冰驿站跻身双11带货榜前10",
+        "onboard_time": 1731342377,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18425,
+        "num": 18425,
+        "word": "祝绪丹 闫妮赛道嫡长女",
+        "onboard_time": 1731333199,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18408,
+        "num": 18408,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18377,
+        "num": 18377,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 18203,
+        "word": "权志龙仿妆",
+        "onboard_time": 1731350413,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 17589,
+        "num": 17589,
+        "word": "起猛了以为新疆沙漠有动物园",
+        "onboard_time": 1731348793,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17134,
+        "num": 17134,
+        "word": "丁禹兮连女儿名字都想好了",
+        "onboard_time": 1731331339,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16541,
+        "num": 16541,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16436,
+        "num": 16436,
+        "word": "2024年还剩50天",
+        "onboard_time": 1731330019,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16063,
+        "num": 16432,
+        "word": "东方甄选交个朋友掉出双11带货前10",
+        "onboard_time": 1731336740,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15634,
+        "num": 16428,
+        "word": "新疆沙漠发现罕见长耳跳鼠",
+        "onboard_time": 1731339798,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15308,
+        "num": 16424,
+        "word": "直击航展现场",
+        "onboard_time": 1731321139,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 14737,
+        "num": 16423,
+        "word": "杨幂机场",
+        "onboard_time": 1731331037,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14692,
+        "num": 16419,
+        "word": "发型师晓华回应同行质疑",
+        "onboard_time": 1731343217,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 14671,
+        "num": 16413,
+        "word": "小巷人家向鹏飞哭戏感染力",
+        "onboard_time": 1731351792,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14654,
+        "num": 16410,
+        "word": "军事专家夸歼35A好形象",
+        "onboard_time": 1731343995,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 12828,
+        "num": 16408,
+        "word": "孙颖莎王楚钦单打冠军数量仍第一",
+        "onboard_time": 1731328999,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12663,
+        "num": 16402,
+        "word": "失笑站内热度破21000",
+        "onboard_time": 1731341480,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信巴西各界友好人士#"
+    }
+  }
+}
