@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731306671642,
+  "endTime": 1731307447771,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -75,20 +75,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1770824,
+      "num": 1770824,
+      "word": "我喜欢妙妙 我要娶妙妙",
+      "onboard_time": 1731304097,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1706752,
       "num": 1287857,
       "word": "泰迪吓到小孩男子抢狗当场暴摔",
       "onboard_time": 1731231799,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1673622,
-      "num": 1673622,
-      "word": "我喜欢妙妙 我要娶妙妙",
-      "onboard_time": 1731304097,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1644045,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1040313,
+      "num": 1040313,
+      "word": "公职人员收间谍100多万被判无期徒刑",
+      "onboard_time": 1731301399,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036498,
       "num": 1036498,
       "word": "将门毒后",
@@ -307,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 881622,
+      "num": 881622,
+      "word": "网红知假卖假被判刑3年赔32万",
+      "onboard_time": 1731303438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 874992,
       "num": 874992,
       "word": "顾客从韩国飞来找晓华剪头发",
@@ -363,14 +379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 829094,
-      "num": 829094,
-      "word": "公职人员收间谍100多万被判无期徒刑",
-      "onboard_time": 1731301399,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -401,6 +409,14 @@
       "onboard_time": 1731302419,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 794134,
+      "num": 794134,
+      "word": "河南一高中学生会干部被曝受贿",
+      "onboard_time": 1731306079,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784904,
@@ -657,14 +673,6 @@
       "onboard_time": 1731243619,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 583494,
-      "num": 583494,
-      "word": "网红知假卖假被判刑3年赔32万",
-      "onboard_time": 1731303438,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573898,
@@ -931,20 +939,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 452970,
+      "num": 452970,
+      "word": "高雅cp售后被删",
+      "onboard_time": 1731302419,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451310,
       "num": 275364,
       "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
       "onboard_time": 1731209478,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450813,
-      "num": 450813,
-      "word": "高雅cp售后被删",
-      "onboard_time": 1731302419,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 449930,
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431173,
+      "num": 431173,
+      "word": "向太正联系晓华给向佐理发",
+      "onboard_time": 1731306858,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423633,
       "num": 423633,
       "word": "麦琳情商",
@@ -1035,20 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414914,
+      "num": 414914,
+      "word": "IVE新歌被骂",
+      "onboard_time": 1731306618,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 414704,
+      "num": 414704,
+      "word": "虞书欣跳红昭愿",
+      "onboard_time": 1731303978,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 407141,
       "num": 407141,
       "word": "丁禹兮拼了一个慕声两个妙妙",
       "onboard_time": 1731294197,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404605,
-      "num": 404605,
-      "word": "虞书欣跳红昭愿",
-      "onboard_time": 1731303978,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 402847,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1731160339,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382763,
+      "num": 280188,
+      "word": "长痘时真正需要忌口的食物",
+      "onboard_time": 1731305718,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 382398,
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289742,
+      "num": 289742,
+      "word": "杭州女子一直喉咙痛竟是咖啡惹的祸",
+      "onboard_time": 1731306020,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288025,
       "num": 288025,
       "word": "有同行称晓华让美发行业倒退10年",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1731225079,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282524,
-      "num": 282524,
-      "word": "河南一高中学生会干部被曝受贿",
-      "onboard_time": 1731306079,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280500,
@@ -1524,7 +1556,7 @@
     },
     {
       "raw_hot": 274084,
-      "num": 228163,
+      "num": 248848,
       "word": "用鸡柳骗回家的小狗1年的变化",
       "onboard_time": 1731302358,
       "rank": 45,
@@ -1603,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260508,
+      "num": 260508,
+      "word": "心动的信号节目组 诈骗",
+      "onboard_time": 1731305899,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258996,
       "num": 258996,
       "word": "曾黎发文给赵露思庆生",
@@ -1675,14 +1715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252640,
-      "num": 227428,
-      "word": "长痘时真正需要忌口的食物",
-      "onboard_time": 1731305718,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 252367,
       "num": 252367,
       "word": "普京签署俄朝全面战略伙伴关系条约",
@@ -1724,11 +1756,19 @@
     },
     {
       "raw_hot": 246974,
-      "num": 226872,
+      "num": 242440,
       "word": "突然发现INFJ在陌生城市更勇敢",
       "onboard_time": 1731304938,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246527,
+      "num": 246527,
+      "word": "留学了才发现鸡蛋是个很善良的食物",
+      "onboard_time": 1731303797,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 244276,
@@ -1867,19 +1907,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 226556,
-      "num": 226556,
-      "word": "留学了才发现鸡蛋是个很善良的食物",
-      "onboard_time": 1731303797,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 226249,
       "num": 226249,
       "word": "费启鸣直播求饶",
       "onboard_time": 1731176833,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225673,
+      "num": 225673,
+      "word": "赵露思刘宇宁捧脸对视",
+      "onboard_time": 1731305779,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1913,14 +1953,6 @@
       "onboard_time": 1731233420,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 222029,
-      "num": 222029,
-      "word": "IVE新歌被骂",
-      "onboard_time": 1731306618,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 221372,
@@ -2347,14 +2379,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 194546,
-      "num": 194546,
-      "word": "赵露思刘宇宁捧脸对视",
-      "onboard_time": 1731305779,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194197,
       "num": 186320,
       "word": "仙逆王林化神新皮肤上线",
@@ -2416,14 +2440,6 @@
       "word": "种地吧",
       "onboard_time": 1731251481,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192306,
-      "num": 192306,
-      "word": "心动的信号节目组 诈骗",
-      "onboard_time": 1731305899,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2547,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182240,
+      "num": 182240,
+      "word": "男子凌晨在巷子被捅8刀致死",
+      "onboard_time": 1731307097,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181702,
       "num": 181702,
       "word": "厦门高崎机场确定搬迁",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1731251780,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179843,
-      "num": 179843,
-      "word": "杭州女子一直喉咙痛竟是咖啡惹的祸",
-      "onboard_time": 1731306020,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178547,
@@ -2740,7 +2756,7 @@
     },
     {
       "raw_hot": 173117,
-      "num": 173117,
+      "num": 439293,
       "word": "力箭一号遥五运载火箭发射成功",
       "onboard_time": 1731303679,
       "rank": 38,
@@ -2761,6 +2777,22 @@
       "onboard_time": 1731295878,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172386,
+      "num": 172386,
+      "word": "航展开我家学校窗外了",
+      "onboard_time": 1731306559,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 170708,
+      "num": 170708,
+      "word": "尹锡悦为推进与特朗普合作重拾高尔夫",
+      "onboard_time": 1731305598,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 169837,
@@ -2913,14 +2945,6 @@
       "onboard_time": 1731219380,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164433,
-      "num": 164433,
-      "word": "尹锡悦为推进与特朗普合作重拾高尔夫",
-      "onboard_time": 1731305598,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 164178,
@@ -3203,6 +3227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150727,
+      "num": 453727,
+      "word": "大专生15万镀金海外硕士被揭学历造假",
+      "onboard_time": 1731304999,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150712,
       "num": 252163,
       "word": "枭学生",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1731295038,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147248,
-      "num": 453727,
-      "word": "大专生15万镀金海外硕士被揭学历造假",
-      "onboard_time": 1731304999,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146084,
@@ -3531,6 +3555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132436,
+      "num": 132436,
+      "word": "小狗簪花 世世漂亮",
+      "onboard_time": 1731306979,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132279,
       "num": 132279,
       "word": "卡尔伯格4比2莫雷加德",
@@ -3585,14 +3617,6 @@
       "onboard_time": 1731289038,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127746,
-      "num": 127746,
-      "word": "航展开我家学校窗外了",
-      "onboard_time": 1731306559,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 126769,
@@ -3715,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121404,
+      "num": 226700,
+      "word": "再见爱人 华人春晚",
+      "onboard_time": 1731306738,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120959,
       "num": 120959,
       "word": "好品山东",
@@ -3801,6 +3833,14 @@
       "onboard_time": 1731289038,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 115188,
+      "num": 115188,
+      "word": "时光音乐会下期是披荆斩棘",
+      "onboard_time": 1731307399,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 114944,
@@ -4147,6 +4187,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 93072,
+      "num": 223619,
+      "word": "宋佳老师可以做我妈妈吗",
+      "onboard_time": 1731304279,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93023,
       "num": 93023,
       "word": "王艺迪说曼昱是非常强的队友",
@@ -4177,14 +4225,6 @@
       "onboard_time": 1731164841,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83089,
-      "num": 223619,
-      "word": "宋佳老师可以做我妈妈吗",
-      "onboard_time": 1731304279,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 82769,
@@ -4280,6 +4320,14 @@
       "word": "阿尔茨海默症老人术后变计算小能手",
       "onboard_time": 1731174854,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74523,
+      "num": 407567,
+      "word": "老师狂扇学生巴掌开除不是终点",
+      "onboard_time": 1731306438,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4603,14 +4651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53115,
-      "num": 332435,
-      "word": "老师狂扇学生巴掌开除不是终点",
-      "onboard_time": 1731306438,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52984,
       "num": 68381,
       "word": "再见爱人观察室请宋丹丹吧",
@@ -4721,6 +4761,14 @@
       "onboard_time": 1731227659,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44909,
+      "num": 288964,
+      "word": "居民吐槽一段路半年挖开2次",
+      "onboard_time": 1731306738,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44737,
@@ -5052,7 +5100,7 @@
     },
     {
       "raw_hot": 26185,
-      "num": 770604,
+      "num": 888308,
       "word": "祝人民空军75周岁生日快乐",
       "onboard_time": 1731299179,
       "rank": 2,
