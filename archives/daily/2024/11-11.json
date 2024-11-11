@@ -1,7 +1,31 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731281729139,
+  "endTime": 1731289359057,
   "band_list": [
+    {
+      "raw_hot": 2003177,
+      "num": 2003177,
+      "word": "网友翻出16年晓华理发店照片",
+      "onboard_time": 1731282917,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1559800,
+      "num": 1559800,
+      "word": "美国大选后多地非洲裔收到摘棉花短信",
+      "onboard_time": 1731288019,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1244576,
+      "num": 1244576,
+      "word": "李晓华说放假第一件事是在家睡两天",
+      "onboard_time": 1731282917,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
     {
       "raw_hot": 939456,
       "num": 770798,
@@ -11,8 +35,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 736300,
+      "num": 736300,
+      "word": "日本石破内阁集体辞职",
+      "onboard_time": 1731284659,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 719803,
-      "num": 166308,
+      "num": 205369,
       "word": "华盛顿聚集大量人群抗议特朗普",
       "onboard_time": 1731273791,
       "rank": 22,
@@ -51,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501676,
+      "num": 357826,
+      "word": "闫妮 机械姬",
+      "onboard_time": 1731286640,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499735,
-      "num": 202290,
+      "num": 250958,
       "word": "女生涂碘伏祛痘3天后效果明显",
       "onboard_time": 1731249442,
       "rank": 20,
@@ -67,6 +107,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 467560,
+      "num": 467560,
+      "word": "周深回应撞衫大闸蟹",
+      "onboard_time": 1731280577,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 463729,
+      "num": 463729,
+      "word": "禹宙中欣",
+      "onboard_time": 1731285859,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440080,
       "num": 440080,
       "word": "王玉雯的反击给我看爽了",
@@ -75,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432525,
+      "num": 432525,
+      "word": "他捐款9万元为抗美援朝买战机",
+      "onboard_time": 1731282978,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401489,
       "num": 401489,
       "word": "2岁失踪女童家属怀疑系熟人作案",
       "onboard_time": 1731254777,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387746,
+      "num": 387746,
+      "word": "丁禹兮做拼豆",
+      "onboard_time": 1731287299,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 375379,
@@ -115,12 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306916,
-      "num": 306916,
+      "raw_hot": 309483,
+      "num": 309483,
       "word": "男子将8万现金伪装成喜糖寄出",
       "onboard_time": 1731246199,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308619,
+      "num": 308619,
+      "word": "阿条姐晒十个勤天演唱会照片",
+      "onboard_time": 1731285139,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 302354,
@@ -171,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268563,
+      "num": 268563,
+      "word": "字母哥垫脚塔图姆",
+      "onboard_time": 1731285680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265499,
       "num": 265499,
       "word": "丁俊晖国际锦标赛夺冠",
       "onboard_time": 1731250400,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248025,
+      "num": 253595,
+      "word": "张杰脸和身材各长各的",
+      "onboard_time": 1731288858,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 243643,
@@ -203,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216771,
+      "num": 216771,
+      "word": "iG",
+      "onboard_time": 1731288438,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214694,
       "num": 214694,
       "word": "王曼昱WTT女单夺冠",
@@ -212,7 +316,7 @@
     },
     {
       "raw_hot": 213893,
-      "num": 151190,
+      "num": 166285,
       "word": "商场内带狗吓到小孩父亲抢狗怒摔",
       "onboard_time": 1731258015,
       "rank": 29,
@@ -283,6 +387,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190041,
+      "num": 190041,
+      "word": "人怎么可以外向成这个样子",
+      "onboard_time": 1731283458,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 183751,
+      "num": 183751,
+      "word": "美43只在逃实验猴捉回一只",
+      "onboard_time": 1731257418,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 183635,
+      "num": 183635,
+      "word": "朴宝英喊话T1全员留队",
+      "onboard_time": 1731285018,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183102,
+      "num": 183102,
+      "word": "关晓彤小巷人家眼神戏",
+      "onboard_time": 1731281417,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180481,
       "num": 180481,
       "word": "华晨宇 想要成长多谈恋爱",
@@ -291,12 +427,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169980,
-      "num": 151165,
-      "word": "美43只在逃实验猴捉回一只",
-      "onboard_time": 1731257418,
-      "rank": 22,
+      "raw_hot": 175917,
+      "num": 361141,
+      "word": "日本举行首相指名选举",
+      "onboard_time": 1731286039,
+      "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169675,
+      "num": 169675,
+      "word": "警方通报女子被家暴报警后仍遭踢踹",
+      "onboard_time": 1731288917,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167493,
+      "num": 174625,
+      "word": "丁禹兮 聋的传人",
+      "onboard_time": 1731286280,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160160,
+      "num": 160160,
+      "word": "国安公布涉密人员失泄密案件",
+      "onboard_time": 1731267611,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159227,
@@ -323,12 +483,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151356,
-      "num": 151356,
-      "word": "周深回应撞衫大闸蟹",
-      "onboard_time": 1731280577,
+      "raw_hot": 149531,
+      "num": 149531,
+      "word": "咱们空军的飞机你认识多少",
+      "onboard_time": 1731288917,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 145632,
+      "num": 145632,
+      "word": "深圳偶遇葛夕",
+      "onboard_time": 1731285139,
       "rank": 36,
-      "category": "演出"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145413,
+      "num": 251339,
+      "word": "A股",
+      "onboard_time": 1731288318,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 145021,
+      "num": 145021,
+      "word": "多地省考年龄放宽至40岁周岁",
+      "onboard_time": 1731283939,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 143605,
@@ -353,6 +537,14 @@
       "onboard_time": 1731245841,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137902,
+      "num": 137902,
+      "word": "日产净利润暴跌94%",
+      "onboard_time": 1731280876,
+      "rank": 31,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 133998,
@@ -387,12 +579,76 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128189,
+      "num": 128189,
+      "word": "古巴地区6.8级地震",
+      "onboard_time": 1731289038,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125653,
+      "num": 125653,
+      "word": "章昊和成员们一起看中国电视剧",
+      "onboard_time": 1731289278,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124877,
+      "num": 124877,
+      "word": "祝人民空军75岁生日快乐",
+      "onboard_time": 1731283158,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124309,
       "num": 124309,
       "word": "林诗栋男子单打冠军",
       "onboard_time": 1731252798,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119627,
+      "num": 119627,
+      "word": "OBGG显示TheShy与Rookie加入iG",
+      "onboard_time": 1731280818,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119595,
+      "num": 119595,
+      "word": "减肥人也是过上好日子了",
+      "onboard_time": 1731280936,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 118599,
+      "num": 118599,
+      "word": "女子被丈夫暴打报警后仍遭踢踹",
+      "onboard_time": 1731289278,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117817,
+      "num": 117817,
+      "word": "谨以此片献给人民空军成立75周年",
+      "onboard_time": 1731289336,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 116328,
+      "num": 116328,
+      "word": "加沙女孩说希望能继续长大",
+      "onboard_time": 1731289038,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 115155,
@@ -427,14 +683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 104969,
-      "num": 85430,
-      "word": "日产净利润暴跌94%",
-      "onboard_time": 1731280876,
-      "rank": 31,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 97749,
       "num": 97749,
       "word": "白锦锦 剧本",
@@ -467,22 +715,6 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 86392,
-      "num": 86392,
-      "word": "关晓彤小巷人家眼神戏",
-      "onboard_time": 1731281417,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 84828,
-      "num": 84828,
-      "word": "OBGG显示TheShy与Rookie加入iG",
-      "onboard_time": 1731280818,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 82771,
       "num": 82771,
       "word": "孙颖莎要成为孙颖莎",
@@ -497,6 +729,14 @@
       "onboard_time": 1731227239,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81037,
+      "num": 137551,
+      "word": "林诗栋奥运后已获5站男单冠军",
+      "onboard_time": 1731288257,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 81011,
@@ -515,20 +755,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 78344,
-      "num": 78344,
-      "word": "减肥人也是过上好日子了",
-      "onboard_time": 1731280936,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 76016,
       "num": 76016,
       "word": "狼队败决上演逆转大戏",
       "onboard_time": 1731254538,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72613,
+      "num": 160587,
+      "word": "丁俊晖总结职业生涯",
+      "onboard_time": 1731288257,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 71441,
@@ -569,14 +809,6 @@
       "onboard_time": 1731245479,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62209,
-      "num": 62209,
-      "word": "国安公布涉密人员失泄密案件",
-      "onboard_time": 1731267611,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61331,
@@ -739,6 +971,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 18909,
+      "num": 308671,
+      "word": "三大股指今日低开",
+      "onboard_time": 1731288977,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 18217,
       "num": 20294,
       "word": "狼队对战ksg",
@@ -820,7 +1060,7 @@
     },
     {
       "raw_hot": 6194,
-      "num": 614510,
+      "num": 1298409,
       "word": "7组数据看进博成果",
       "onboard_time": 1731242360,
       "rank": 2,
