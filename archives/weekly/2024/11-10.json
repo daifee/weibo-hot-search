@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731338591842,
+  "endTime": 1731339460966,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874601,
+      "num": 874601,
+      "word": "报警后仍遭家暴踢踹女子发声",
+      "onboard_time": 1731335541,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872410,
       "num": 872410,
       "word": "女子被丈夫暴打报警后仍遭踢踹",
@@ -553,14 +561,6 @@
       "onboard_time": 1731304097,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 840821,
-      "num": 840821,
-      "word": "报警后仍遭家暴踢踹女子发声",
-      "onboard_time": 1731335541,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 835976,
@@ -851,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 630621,
+      "num": 630621,
+      "word": "医生殴打便利店老板致死被刑拘",
+      "onboard_time": 1731337639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628016,
       "num": 628016,
       "word": "慕声好感度百分百了",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1731238099,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 551586,
+      "num": 393384,
+      "word": "发型师晓华爆改乌克兰宝爸",
+      "onboard_time": 1731332780,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 551383,
@@ -1483,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 399790,
-      "num": 375496,
-      "word": "发型师晓华爆改乌克兰宝爸",
-      "onboard_time": 1731332780,
-      "rank": 22,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "郑钦文WTA总决赛亚军",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1731168620,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 361433,
+      "num": 361433,
+      "word": "林一沈月cos赵露思刘宇宁",
+      "onboard_time": 1731337880,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 361296,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1731241999,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278190,
+      "num": 278190,
+      "word": "周洁琼演技",
+      "onboard_time": 1731338300,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 277110,
@@ -2787,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203250,
-      "num": 203250,
-      "word": "林一沈月cos赵露思刘宇宁",
-      "onboard_time": 1731337880,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203220,
       "num": 188627,
       "word": "娜扎 猫女还原度",
@@ -3369,14 +3385,6 @@
       "onboard_time": 1731251780,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178811,
-      "num": 380223,
-      "word": "医生殴打便利店老板致死被刑拘",
-      "onboard_time": 1731337639,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178645,
@@ -4283,14 +4291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146263,
-      "num": 146263,
-      "word": "周洁琼演技",
-      "onboard_time": 1731338300,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
@@ -4361,6 +4361,14 @@
       "onboard_time": 1731294858,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143774,
+      "num": 143774,
+      "word": "张艺兴新歌",
+      "onboard_time": 1731338839,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 143298,
@@ -4691,8 +4699,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126884,
-      "num": 126884,
+      "raw_hot": 127737,
+      "num": 127737,
       "word": "林栋哲受难日",
       "onboard_time": 1731336020,
       "rank": 38,
@@ -5052,7 +5060,7 @@
     },
     {
       "raw_hot": 112024,
-      "num": 112024,
+      "num": 144051,
       "word": "2024年还剩50天",
       "onboard_time": 1731330019,
       "rank": 49,
@@ -5457,6 +5465,14 @@
       "onboard_time": 1731168620,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 88744,
+      "num": 393409,
+      "word": "美发行业早就应该整顿了",
+      "onboard_time": 1731338658,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86869,

@@ -1,0 +1,402 @@
+{
+  "runTime": 1731339460966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048636,
+        "num": 1167781,
+        "word": "丁禹兮 唐梓",
+        "onboard_time": 1731330260,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 874601,
+        "num": 874601,
+        "word": "报警后仍遭家暴踢踹女子发声",
+        "onboard_time": 1731335541,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941137,
+        "num": 671862,
+        "word": "子期 东方青苍",
+        "onboard_time": 1731335960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658152,
+        "num": 658152,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 630621,
+        "num": 630621,
+        "word": "医生殴打便利店老板致死被刑拘",
+        "onboard_time": 1731337639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519197,
+        "num": 519197,
+        "word": "虞书欣更新TikTok",
+        "onboard_time": 1731333081,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400300,
+        "num": 400300,
+        "word": "麦琳退掉的汉服",
+        "onboard_time": 1731334880,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369839,
+        "num": 393525,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88744,
+        "num": 393409,
+        "word": "美发行业早就应该整顿了",
+        "onboard_time": 1731338658,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551586,
+        "num": 393384,
+        "word": "发型师晓华爆改乌克兰宝爸",
+        "onboard_time": 1731332780,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 393342,
+        "num": 393342,
+        "word": "抗癌男子筹款5天后晒新房照",
+        "onboard_time": 1731331820,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381925,
+        "num": 381925,
+        "word": "林虞爸爸 妙妙子期都是谁啊",
+        "onboard_time": 1731333199,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361433,
+        "num": 361433,
+        "word": "林一沈月cos赵露思刘宇宁",
+        "onboard_time": 1731337880,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335256,
+        "num": 335256,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287691,
+        "num": 287691,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282152,
+        "num": 282152,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278190,
+        "num": 278190,
+        "word": "周洁琼演技",
+        "onboard_time": 1731338300,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225252,
+        "num": 225252,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177372,
+        "num": 221271,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 276399,
+        "num": 220401,
+        "word": "祝绪丹 闫妮赛道嫡长女",
+        "onboard_time": 1731333199,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270751,
+        "num": 214145,
+        "word": "丁禹兮连女儿名字都想好了",
+        "onboard_time": 1731331339,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267515,
+        "num": 207872,
+        "word": "青海一便利店老板被殴打10秒后死亡",
+        "onboard_time": 1731329959,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207089,
+        "num": 207089,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204363,
+        "num": 204363,
+        "word": "冷冻馒头超过两天会长黄曲霉素",
+        "onboard_time": 1731330199,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204074,
+        "num": 204074,
+        "word": "虞书欣好辣",
+        "onboard_time": 1731313939,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173933,
+        "num": 173933,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147760,
+        "num": 147760,
+        "word": "30元理发绝不会拉低行业档次",
+        "onboard_time": 1731318738,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 146617,
+        "num": 146617,
+        "word": "杨幂机场",
+        "onboard_time": 1731331037,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99915,
+        "num": 144051,
+        "word": "2024年还剩50天",
+        "onboard_time": 1731330019,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143774,
+        "num": 143774,
+        "word": "张艺兴新歌",
+        "onboard_time": 1731338839,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140582,
+        "num": 140582,
+        "word": "EDG芜湖起飞",
+        "onboard_time": 1731335482,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138544,
+        "num": 138544,
+        "word": "东方甄选交个朋友掉出双11带货前10",
+        "onboard_time": 1731336740,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127737,
+        "num": 127737,
+        "word": "林栋哲受难日",
+        "onboard_time": 1731336020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121657,
+        "num": 121657,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 121192,
+        "num": 121192,
+        "word": "官方再次回应万安县95后女干部提拔副科",
+        "onboard_time": 1731333981,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121084,
+        "num": 121084,
+        "word": "直击航展现场",
+        "onboard_time": 1731321139,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113053,
+        "num": 113053,
+        "word": "郭敬明画皮改名",
+        "onboard_time": 1731335361,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111844,
+        "num": 111844,
+        "word": "鹏飞演技太好了",
+        "onboard_time": 1731332601,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110227,
+        "num": 110227,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106327,
+        "num": 106327,
+        "word": "戚薇回应粉钻漏掉薛之谦",
+        "onboard_time": 1731337400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104070,
+        "num": 104070,
+        "word": "温峥嵘 因为妈不同啊",
+        "onboard_time": 1731328459,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102655,
+        "num": 102655,
+        "word": "双十一什么也没有买的人",
+        "onboard_time": 1731332900,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101174,
+        "num": 101174,
+        "word": "小巷人家 纯爱的杀伤力",
+        "onboard_time": 1731335541,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97597,
+        "num": 97597,
+        "word": "孙颖莎王楚钦单打冠军数量仍第一",
+        "onboard_time": 1731328999,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97048,
+        "num": 97048,
+        "word": "梁王退赛",
+        "onboard_time": 1731326418,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81321,
+        "num": 81321,
+        "word": "Doinb想让Tian当教练",
+        "onboard_time": 1731334880,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79554,
+        "num": 79554,
+        "word": "水滴筹回应抗癌男子筹款后晒新房照",
+        "onboard_time": 1731334160,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76659,
+        "num": 76659,
+        "word": "小巷人家",
+        "onboard_time": 1731328159,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71682,
+        "num": 71682,
+        "word": "古代人也对发量有追求",
+        "onboard_time": 1731332240,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根亚太建设亚太造福亚太#"
+    }
+  }
+}

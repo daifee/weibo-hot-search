@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/11 00:24:52 ~ 2024/11/11 23:23:11
+本榜单时间：2024/11/11 00:24:52 ~ 2024/11/11 23:37:40
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@ papi酱 家都不回你在托举什么（热度：1257027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A5%E8%AD%A6%E5%90%8E%E4%BB%8D%E9%81%AD%E5%AE%B6%E6%9A%B4%E8%B8%A2%E8%B8%B9%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+报警后仍遭家暴踢踹女子发声（热度：874601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%9A%B4%E6%89%93%E6%8A%A5%E8%AD%A6%E5%90%8E%E4%BB%8D%E9%81%AD%E8%B8%A2%E8%B8%B9%23" target="weibo">
 女子被丈夫暴打报警后仍遭踢踹（热度：872410）
 </a>
@@ -239,12 +245,6 @@ papi酱 家都不回你在托举什么（热度：1257027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%85%95%E5%A3%B0%E5%BD%A9%E8%9B%8B%E6%88%91%E8%A6%81%E5%A8%B6%E5%A6%99%E5%A6%99%23" target="weibo">
 慕声彩蛋我要娶妙妙（热度：846937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A5%E8%AD%A6%E5%90%8E%E4%BB%8D%E9%81%AD%E5%AE%B6%E6%9A%B4%E8%B8%A2%E8%B8%B9%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-报警后仍遭家暴踢踹女子发声（热度：840821）
 </a>
 </li>
 
@@ -363,6 +363,12 @@ papi酱 家都不回你在托举什么（热度：1257027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%AE%B4%E6%89%93%E4%BE%BF%E5%88%A9%E5%BA%97%E8%80%81%E6%9D%BF%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+医生殴打便利店老板致死被刑拘（热度：630621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%85%95%E5%A3%B0%E5%A5%BD%E6%84%9F%E5%BA%A6%E7%99%BE%E5%88%86%E7%99%BE%E4%BA%86%23" target="weibo">
 慕声好感度百分百了（热度：628016）
 </a>
@@ -431,6 +437,12 @@ papi酱 家都不回你在托举什么（热度：1257027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%85%AC%E6%B0%91%E5%9B%BD%E5%A4%96%E6%97%85%E8%A1%8C%E9%81%BF%E5%85%8D%E8%A1%A8%E6%98%8E%E8%BA%AB%E4%BB%BD%23" target="weibo">
 以色列要求公民国外旅行避免表明身份（热度：563784）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
+发型师晓华爆改乌克兰宝爸（热度：551586）
 </a>
 </li>
 
@@ -621,12 +633,6 @@ IVE新歌被骂（热度：448190）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
-发型师晓华爆改乌克兰宝爸（热度：399790）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E5%90%8E%E4%BB%8D%E9%81%AD%E8%B8%A2%E8%B8%B9%23" target="weibo">
 警方通报女子被家暴报警后仍遭踢踹（热度：388168）
 </a>
@@ -683,6 +689,12 @@ IVE新歌被骂（热度：448190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E6%96%B9%E5%A3%B0%E6%98%8E%23" target="weibo">
 徐艺洋方声明（热度：361845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E6%B2%88%E6%9C%88cos%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
+林一沈月cos赵露思刘宇宁（热度：361433）
 </a>
 </li>
 
@@ -815,6 +827,12 @@ IVE新歌被骂（热度：448190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B321%E9%9B%86%E5%A5%BD%E6%B0%B4%23" target="weibo">
 永夜星河21集好水（热度：284499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E6%BC%94%E6%8A%80%23" target="weibo">
+周洁琼演技（热度：278190）
 </a>
 </li>
 
@@ -1089,12 +1107,6 @@ A股（热度：211502）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E6%B2%88%E6%9C%88cos%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
-林一沈月cos赵露思刘宇宁（热度：203250）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E4%BA%B2%E5%A4%AA%E7%B4%A7%E5%B0%B1%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%98%B4%E5%B7%B4%E7%93%A3%E4%BA%86%23" target="weibo">
 虞书欣 亲太紧就看不到嘴巴瓣了（热度：203025）
 </a>
@@ -1313,12 +1325,6 @@ ENHYPEN新歌not in（热度：184182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E6%83%B3%E8%A6%81%E6%88%90%E9%95%BF%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%23" target="weibo">
 华晨宇 想要成长多谈恋爱（热度：180481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%AE%B4%E6%89%93%E4%BE%BF%E5%88%A9%E5%BA%97%E8%80%81%E6%9D%BF%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-医生殴打便利店老板致死被刑拘（热度：178811）
 </a>
 </li>
 
@@ -1701,12 +1707,6 @@ Tomo告别信（热度：154208）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E6%BC%94%E6%8A%80%23" target="weibo">
-周洁琼演技（热度：146263）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8E%B9%E5%88%B0%E5%93%AA%E9%83%BD%E4%B8%8D%E4%BC%9A%E8%BF%87%E5%BE%97%E5%B7%AE%23" target="weibo">
 宋莹到哪都不会过得差（热度：145995）
 </a>
@@ -1733,6 +1733,12 @@ Tomo告别信（热度：154208）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%B1%B3%E5%92%8C%E7%89%9B%E8%82%89%E5%92%B1%E9%83%BD%E6%94%BE%E5%BF%83%E5%90%83%23" target="weibo">
 大米和牛肉咱都放心吃（热度：144015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E6%AD%8C%23" target="weibo">
+张艺兴新歌（热度：143774）
 </a>
 </li>
 
@@ -1870,7 +1876,7 @@ Tomo告别信（热度：154208）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%A0%8B%E5%93%B2%E5%8F%97%E9%9A%BE%E6%97%A5%23" target="weibo">
-林栋哲受难日（热度：126884）
+林栋哲受难日（热度：127737）
 </a>
 </li>
 
@@ -2189,6 +2195,12 @@ SEVENTEEN 消费期限（热度：106603）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%8D%E5%87%BA%E5%8D%B3%E5%A4%BA%E5%86%A0%23" target="weibo">
 王曼昱复出即夺冠（热度：89231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%91%E8%A1%8C%E4%B8%9A%E6%97%A9%E5%B0%B1%E5%BA%94%E8%AF%A5%E6%95%B4%E9%A1%BF%E4%BA%86%23" target="weibo">
+美发行业早就应该整顿了（热度：88744）
 </a>
 </li>
 

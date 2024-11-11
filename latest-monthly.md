@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/11 23:23:11
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/11 23:37:40
 </p>
 </blockquote>
 <p>
@@ -2577,6 +2577,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A5%E8%AD%A6%E5%90%8E%E4%BB%8D%E9%81%AD%E5%AE%B6%E6%9A%B4%E8%B8%A2%E8%B8%B9%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+报警后仍遭家暴踢踹女子发声（热度：874601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E4%B8%80%E6%98%AF%E4%B8%80%E6%9D%BF%E4%B8%80%E6%9D%BF%E6%89%93%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
 王楚钦世一是一板一板打出来的（热度：873694）
 </a>
@@ -2741,12 +2747,6 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%89%9B%E5%89%A7%23" target="weibo">
 虞书欣 扛剧（热度：842500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A5%E8%AD%A6%E5%90%8E%E4%BB%8D%E9%81%AD%E5%AE%B6%E6%9A%B4%E8%B8%A2%E8%B8%B9%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-报警后仍遭家暴踢踹女子发声（热度：840821）
 </a>
 </li>
 
@@ -3939,6 +3939,12 @@ Knight删除BLG相关微博（热度：635402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%AE%B4%E6%89%93%E4%BE%BF%E5%88%A9%E5%BA%97%E8%80%81%E6%9D%BF%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+医生殴打便利店老板致死被刑拘（热度：630621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B5%B7%E9%A9%AC%E4%BD%93%E7%85%A7%E7%89%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E8%BA%AB%E4%BB%BD%E6%A0%B8%E9%AA%8C%23" target="weibo">
 官方回应海马体照片会影响身份核验（热度：629682）
 </a>
@@ -4697,6 +4703,12 @@ EXO经纪人发文（热度：569588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%AC%A7%E6%89%8E%E5%85%8B%23" target="weibo">
 孙颖莎 欧扎克（热度：552446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
+发型师晓华爆改乌克兰宝爸（热度：551586）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ IVE新歌被骂（热度：448190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E9%99%AA%E5%AD%94%E5%A4%AB%E5%AD%90%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
 宋亚轩陪孔夫子回家了（热度：436631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%9B%9E%E5%BA%94%E8%8E%B7%E4%BA%9A%E5%86%9B%23" target="weibo">
-郑钦文回应获亚军（热度：436503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%A1%8C%E4%BA%AE%E4%B9%B0%E9%9D%92%E5%9B%A2%E7%9A%84%E6%9C%BA%E7%A5%A8%E6%98%AF%E7%A7%AF%E5%88%86%E6%8D%A2%E7%9A%84%23" target="weibo">
-李行亮买青团的机票是积分换的（热度：436449）
 </a>
 </li>
 

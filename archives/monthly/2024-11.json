@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731338591842,
+  "endTime": 1731339460966,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3419,6 +3419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 874601,
+      "num": 874601,
+      "word": "报警后仍遭家暴踢踹女子发声",
+      "onboard_time": 1731335541,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873694,
       "num": 1139791,
       "word": "王楚钦世一是一板一板打出来的",
@@ -3641,14 +3649,6 @@
       "onboard_time": 1730525837,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 840821,
-      "num": 840821,
-      "word": "报警后仍遭家暴踢踹女子发声",
-      "onboard_time": 1731335541,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 840092,
@@ -5235,6 +5235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630621,
+      "num": 630621,
+      "word": "医生殴打便利店老板致死被刑拘",
+      "onboard_time": 1731337639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629682,
       "num": 629682,
       "word": "官方回应海马体照片会影响身份核验",
@@ -6249,6 +6257,14 @@
       "onboard_time": 1730629040,
       "rank": 45,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 551586,
+      "num": 393384,
+      "word": "发型师晓华爆改乌克兰宝爸",
+      "onboard_time": 1731332780,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 551383,
@@ -8659,14 +8675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 399790,
-      "num": 375496,
-      "word": "发型师晓华爆改乌克兰宝爸",
-      "onboard_time": 1731332780,
-      "rank": 22,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 399031,
       "num": 238516,
       "word": "日本买LV退税后比国内还贵200元",
@@ -9393,6 +9401,14 @@
       "onboard_time": 1730797880,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361433,
+      "num": 361433,
+      "word": "林一沈月cos赵露思刘宇宁",
+      "onboard_time": 1731337880,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 361296,
@@ -11544,6 +11560,14 @@
       "word": "赵露思新剧好美",
       "onboard_time": 1730439499,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 278190,
+      "num": 278190,
+      "word": "周洁琼演技",
+      "onboard_time": 1731338300,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -15275,14 +15299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203250,
-      "num": 203250,
-      "word": "林一沈月cos赵露思刘宇宁",
-      "onboard_time": 1731337880,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203220,
       "num": 188627,
       "word": "娜扎 猫女还原度",
@@ -18009,14 +18025,6 @@
       "onboard_time": 1731070941,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178811,
-      "num": 380223,
-      "word": "医生殴打便利店老板致死被刑拘",
-      "onboard_time": 1731337639,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178672,
@@ -22003,14 +22011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146263,
-      "num": 146263,
-      "word": "周洁琼演技",
-      "onboard_time": 1731338300,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "蒯曼3比1金娜英",
@@ -22273,6 +22273,14 @@
       "onboard_time": 1730993062,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143774,
+      "num": 143774,
+      "word": "张艺兴新歌",
+      "onboard_time": 1731338839,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 143654,
@@ -24147,6 +24155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127737,
+      "num": 127737,
+      "word": "林栋哲受难日",
+      "onboard_time": 1731336020,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127728,
       "num": 331942,
       "word": "周柯宇直播",
@@ -24209,14 +24225,6 @@
       "onboard_time": 1730973139,
       "rank": 49,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 126884,
-      "num": 126884,
-      "word": "林栋哲受难日",
-      "onboard_time": 1731336020,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 126805,
@@ -25948,7 +25956,7 @@
     },
     {
       "raw_hot": 112024,
-      "num": 112024,
+      "num": 144051,
       "word": "2024年还剩50天",
       "onboard_time": 1731330019,
       "rank": 49,
@@ -27721,6 +27729,14 @@
       "onboard_time": 1731168620,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 88744,
+      "num": 393409,
+      "word": "美发行业早就应该整顿了",
+      "onboard_time": 1731338658,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88586,
