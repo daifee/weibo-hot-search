@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731324935801,
+  "endTime": 1731328937368,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -225,6 +225,14 @@
       "onboard_time": 1731282917,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1203346,
+      "num": 1203346,
+      "word": "赵露思直播状态",
+      "onboard_time": 1731326058,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1196956,
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 862475,
+      "num": 862475,
+      "word": "雷军 我马上去催一下",
+      "onboard_time": 1731323539,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 854241,
       "num": 452346,
       "word": "翁青雅好友发文",
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 814281,
-      "num": 416591,
+      "num": 574696,
       "word": "翁青雅 彭高",
       "onboard_time": 1731316939,
       "rank": 38,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486352,
+      "num": 353027,
+      "word": "米诺地尔副作用",
+      "onboard_time": 1731325698,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 484898,
       "num": 484898,
       "word": "美43只雌猴逃出实验室或携带致命病毒",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1731245720,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 460397,
+      "num": 460397,
+      "word": "梁王退赛",
+      "onboard_time": 1731326418,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 456717,
@@ -1395,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372691,
-      "num": 315046,
-      "word": "雷军 我马上去催一下",
-      "onboard_time": 1731323539,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 367184,
+      "num": 367184,
+      "word": "我不是林虞 你是妙妙",
+      "onboard_time": 1731327019,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 366866,
@@ -1675,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299607,
+      "num": 299607,
+      "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+      "onboard_time": 1731327859,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 299497,
       "num": 299497,
       "word": "只有庄桦林儿子不能这样说",
@@ -1764,7 +1804,7 @@
     },
     {
       "raw_hot": 285495,
-      "num": 285495,
+      "num": 354348,
       "word": "直击航展现场",
       "onboard_time": 1731321139,
       "rank": 8,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1731223639,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 241062,
+      "num": 404682,
+      "word": "张艺谋说对电影解说短视频很无语",
+      "onboard_time": 1731323658,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 241023,
@@ -2395,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211435,
+      "num": 211435,
+      "word": "华晨宇在粉丝身后排队买饭",
+      "onboard_time": 1731326238,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211250,
       "num": 400518,
       "word": "王曼昱连得9分",
@@ -2657,6 +2713,14 @@
       "onboard_time": 1731305359,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200461,
+      "num": 200461,
+      "word": "双十一",
+      "onboard_time": 1731327799,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 199342,
@@ -2985,6 +3049,14 @@
       "onboard_time": 1731234019,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182946,
+      "num": 182946,
+      "word": "温峥嵘 因为妈不同啊",
+      "onboard_time": 1731328459,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 182635,
@@ -3403,6 +3475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166312,
+      "num": 166312,
+      "word": "珠海航展",
+      "onboard_time": 1731328637,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 166265,
       "num": 166265,
       "word": "永夜星河豆瓣涨至7.7分",
@@ -3755,6 +3835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152880,
+      "num": 152880,
+      "word": "博导先后4次被保研学生放鸽子",
+      "onboard_time": 1731325458,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152180,
       "num": 152180,
       "word": "综艺史上最歹毒的惩罚",
@@ -3771,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151615,
+      "num": 151615,
+      "word": "山西一座山中发现北魏精美石窟",
+      "onboard_time": 1731326180,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151231,
       "num": 196516,
       "word": "大梦归离听劝就是嫡长子",
@@ -3785,6 +3881,14 @@
       "onboard_time": 1731313577,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151114,
+      "num": 151114,
+      "word": "手机电量用完再充会损害电池",
+      "onboard_time": 1731327500,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 151051,
@@ -3841,6 +3945,14 @@
       "onboard_time": 1731243560,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 149661,
+      "num": 149661,
+      "word": "永夜星河21集 走剧情",
+      "onboard_time": 1731326717,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 149604,
@@ -3945,6 +4057,14 @@
       "onboard_time": 1731294858,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143365,
+      "num": 143365,
+      "word": "丁禹兮吃面主打一个好养活",
+      "onboard_time": 1731327859,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 143298,
@@ -4115,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137137,
+      "num": 137137,
+      "word": "以前的我嗤之以鼻 现在的我逐帧学习",
+      "onboard_time": 1731328279,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137038,
       "num": 137038,
       "word": "中国排面看一次震撼一次",
@@ -4193,6 +4321,14 @@
       "onboard_time": 1731172217,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132004,
+      "num": 132004,
+      "word": "papi酱 家都不回你在托举什么",
+      "onboard_time": 1731328819,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131879,
@@ -4457,6 +4593,14 @@
       "onboard_time": 1731280818,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119626,
+      "num": 119626,
+      "word": "陈可儿 骗我生女儿系列",
+      "onboard_time": 1731325038,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 119595,
@@ -4929,14 +5073,6 @@
       "onboard_time": 1731323419,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88959,
-      "num": 404682,
-      "word": "张艺谋说对电影解说短视频很无语",
-      "onboard_time": 1731323658,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 88939,
@@ -5563,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47434,
+      "num": 315166,
+      "word": "天猫双十一5折日用品你囤了吗",
+      "onboard_time": 1731324860,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46513,
       "num": 329559,
       "word": "无畏吃柠檬酸到模糊",
@@ -5809,6 +5953,14 @@
       "onboard_time": 1731244161,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33732,
+      "num": 315230,
+      "word": "天猫双11最后4小时极限抄作业",
+      "onboard_time": 1731326418,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 33522,
@@ -6243,14 +6395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 18720,
-      "num": 114848,
-      "word": "天猫双十一5折日用品你囤了吗",
-      "onboard_time": 1731324860,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 18667,
       "num": 113500,
       "word": "郑钦文挽救2个盘点破发",
@@ -6312,6 +6456,14 @@
       "word": "回眸人民空军75年壮阔征程",
       "onboard_time": 1731298939,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17034,
+      "num": 186963,
+      "word": "揭秘知假售假网红商业版图",
+      "onboard_time": 1731326899,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -6379,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14573,
+      "num": 295756,
+      "word": "周慧敏晒童年照",
+      "onboard_time": 1731328578,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14486,
       "num": 102387,
       "word": "民间反偷拍不该受威胁",
@@ -6393,6 +6553,14 @@
       "onboard_time": 1731264911,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 13730,
+      "num": 106298,
+      "word": "离谷爱凌最近的一次",
+      "onboard_time": 1731325338,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 13650,
@@ -6419,12 +6587,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 9139,
+      "num": 643164,
+      "word": "万千气象看湖南",
+      "onboard_time": 1731328518,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8159,
       "num": 925205,
       "word": "这些橙色身影是最坚实的依靠",
       "onboard_time": 1731155118,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7221,
+      "num": 198177,
+      "word": "历数人民空军的那些第一",
+      "onboard_time": 1731328880,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 6194,
@@ -6472,6 +6656,9 @@
     },
     {
       "word": "#习近平主席引经据典话亚太合作#"
+    },
+    {
+      "word": "#习近平复信巴西各界友好人士#"
     }
   ]
 }
