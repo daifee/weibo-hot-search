@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731329905497,
+  "endTime": 1731331670728,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -353,6 +353,14 @@
       "onboard_time": 1730774358,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2855133,
+      "num": 193793,
+      "word": "珠海体育中心",
+      "onboard_time": 1731329417,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2828835,
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173104,
+      "num": 1187696,
+      "word": "papi酱 家都不回你在托举什么",
+      "onboard_time": 1731328819,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1172692,
       "num": 1172692,
       "word": "郑钦文 别喊了",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1730798122,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 896123,
+      "num": 505213,
+      "word": "丁禹兮 唐梓",
+      "onboard_time": 1731330260,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 893324,
@@ -4385,14 +4409,6 @@
       "onboard_time": 1731273791,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 718962,
-      "num": 193793,
-      "word": "珠海体育中心",
-      "onboard_time": 1731329417,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 718598,
@@ -5739,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587325,
+      "num": 587325,
+      "word": "珠海航展",
+      "onboard_time": 1731328637,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 587108,
       "num": 834808,
       "word": "正午阳光 切不动了",
@@ -6795,6 +6819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507790,
+      "num": 507790,
+      "word": "米诺地尔副作用",
+      "onboard_time": 1731325698,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 507191,
       "num": 507191,
       "word": "失笑定档",
@@ -7075,14 +7107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486352,
-      "num": 445709,
-      "word": "米诺地尔副作用",
-      "onboard_time": 1731325698,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 486174,
       "num": 436333,
       "word": "G2再次邀请Uzi加入",
@@ -7129,6 +7153,14 @@
       "onboard_time": 1730648119,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482386,
+      "num": 482386,
+      "word": "手机电量用完再充会损害电池",
+      "onboard_time": 1731327500,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 482226,
@@ -8003,6 +8035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 429508,
+      "num": 429508,
+      "word": "温峥嵘 因为妈不同啊",
+      "onboard_time": 1731328459,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429194,
       "num": 429194,
       "word": "杨子要不赔画师点钱吧",
@@ -8305,14 +8345,6 @@
       "onboard_time": 1730784439,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 409702,
-      "num": 409702,
-      "word": "papi酱 家都不回你在托举什么",
-      "onboard_time": 1731328819,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 408679,
@@ -8947,6 +8979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 377509,
+      "num": 377509,
+      "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+      "onboard_time": 1731327859,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 377182,
       "num": 377182,
       "word": "恒欣引力",
@@ -9027,14 +9067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374025,
-      "num": 374025,
-      "word": "伊拉克拟将女性法定结婚年龄降至9岁",
-      "onboard_time": 1731327859,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 373838,
       "num": 373838,
       "word": "爱侧睡的可以今晚试试这个姿势",
@@ -9071,14 +9103,6 @@
       "num": 287020,
       "word": "张凌赫发文虞书欣永夜星河",
       "onboard_time": 1730661311,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 372620,
-      "num": 372620,
-      "word": "温峥嵘 因为妈不同啊",
-      "onboard_time": 1731328459,
       "rank": 32,
       "category": "剧集"
     },
@@ -10443,14 +10467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310751,
-      "num": 255904,
-      "word": "珠海航展",
-      "onboard_time": 1731328637,
-      "rank": 34,
-      "category": "军事"
-    },
-    {
       "raw_hot": 310559,
       "num": 169288,
       "word": "翁青雅 孙乐言",
@@ -10472,6 +10488,14 @@
       "word": "一年级女儿学唱大香蕉爸爸破防",
       "onboard_time": 1731034039,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309322,
+      "num": 309322,
+      "word": "六问大专学历女干部被提拔副科",
+      "onboard_time": 1731330139,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -10633,6 +10657,14 @@
       "onboard_time": 1731196936,
       "rank": 8,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 302605,
+      "num": 240510,
+      "word": "青海一便利店老板被殴打10秒后死亡",
+      "onboard_time": 1731329959,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302354,
@@ -11249,6 +11281,14 @@
       "onboard_time": 1730600779,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284330,
+      "num": 238348,
+      "word": "冷冻馒头超过两天会长黄曲霉素",
+      "onboard_time": 1731330199,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 284131,
@@ -11985,14 +12025,6 @@
       "onboard_time": 1730703739,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262794,
-      "num": 262794,
-      "word": "手机电量用完再充会损害电池",
-      "onboard_time": 1731327500,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 262775,
@@ -13123,6 +13155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233477,
+      "num": 233477,
+      "word": "杨幂机场",
+      "onboard_time": 1731331037,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233376,
       "num": 233376,
       "word": "毓言cp陪看没了",
@@ -13867,6 +13907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218735,
+      "num": 218735,
+      "word": "王鹤棣演唱会",
+      "onboard_time": 1731329119,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218500,
       "num": 218500,
       "word": "任正非称英语是华为工作语言",
@@ -14033,6 +14081,14 @@
       "onboard_time": 1731218840,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215025,
+      "num": 215025,
+      "word": "孙颖莎王楚钦单打冠军数量仍第一",
+      "onboard_time": 1731328999,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 214830,
@@ -15699,6 +15755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198880,
+      "num": 198880,
+      "word": "丁禹兮连女儿名字都想好了",
+      "onboard_time": 1731331339,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198792,
       "num": 198792,
       "word": "永夜星河团综",
@@ -16411,14 +16475,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 193026,
-      "num": 193026,
-      "word": "王鹤棣演唱会",
-      "onboard_time": 1731329119,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192953,
       "num": 519629,
       "word": "追凶姐姐为取证与嫌犯网聊3年",
@@ -16793,14 +16849,6 @@
       "onboard_time": 1731283458,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189963,
-      "num": 189963,
-      "word": "孙颖莎王楚钦单打冠军数量仍第一",
-      "onboard_time": 1731328999,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 189932,
@@ -17473,6 +17521,14 @@
       "onboard_time": 1731140297,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181911,
+      "num": 195984,
+      "word": "不敢想象凌妙妙清醒过来得多难过",
+      "onboard_time": 1731329299,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181877,
@@ -23619,6 +23675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130514,
+      "num": 215051,
+      "word": "宋莹到哪都不会过得差",
+      "onboard_time": 1731329538,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130356,
       "num": 130356,
       "word": "假如让古人来卖货",
@@ -23945,6 +24009,14 @@
       "onboard_time": 1730973139,
       "rank": 49,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 127011,
+      "num": 127011,
+      "word": "演技是男演员最好的医美",
+      "onboard_time": 1731331102,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 126805,
@@ -26377,14 +26449,6 @@
       "onboard_time": 1730565983,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104182,
-      "num": 195984,
-      "word": "不敢想象凌妙妙清醒过来得多难过",
-      "onboard_time": 1731329299,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 104127,
@@ -29267,6 +29331,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 59164,
+      "num": 382079,
+      "word": "中介收200万造假文凭成本几毛",
+      "onboard_time": 1731330439,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59103,
       "num": 340144,
       "word": "公立医院为啥难开进口原研药",
@@ -29345,6 +29417,14 @@
       "onboard_time": 1731074002,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57724,
+      "num": 379028,
+      "word": "天猫双11错过今晚就要再等365天",
+      "onboard_time": 1731330019,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 57709,
@@ -31184,6 +31264,14 @@
       "word": "撞劳斯莱斯被免责司机称遇到好心人",
       "onboard_time": 1731060380,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38133,
+      "num": 465820,
+      "word": "局长陪餐应有随时到场的监管威慑",
+      "onboard_time": 1731330499,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -35209,6 +35297,14 @@
       "onboard_time": 1731328518,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9114,
+      "num": 215358,
+      "word": "霉霉看男友球赛",
+      "onboard_time": 1731331641,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 8427,

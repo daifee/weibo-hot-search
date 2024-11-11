@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731329905497,
+  "endTime": 1731331670728,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -25,6 +25,14 @@
       "onboard_time": 1731217579,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2855133,
+      "num": 193793,
+      "word": "珠海体育中心",
+      "onboard_time": 1731329417,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2799489,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173104,
+      "num": 1187696,
+      "word": "papi酱 家都不回你在托举什么",
+      "onboard_time": 1731328819,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1119164,
       "num": 450419,
       "word": "男子凌晨在巷子被捅8刀致死",
@@ -433,6 +449,14 @@
       "onboard_time": 1731238099,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 896123,
+      "num": 505213,
+      "word": "丁禹兮 唐梓",
+      "onboard_time": 1731330260,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 892098,
@@ -659,14 +683,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 718962,
-      "num": 193793,
-      "word": "珠海体育中心",
-      "onboard_time": 1731329417,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 715182,
       "num": 916946,
       "word": "相伴20年男子竟杀了相亲对象在逃",
@@ -891,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587325,
+      "num": 587325,
+      "word": "珠海航展",
+      "onboard_time": 1731328637,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 585563,
       "num": 585563,
       "word": "林诗栋vs卡尔伯格",
@@ -1051,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507790,
+      "num": 507790,
+      "word": "米诺地尔副作用",
+      "onboard_time": 1731325698,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 506363,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
@@ -1115,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486352,
-      "num": 445709,
-      "word": "米诺地尔副作用",
-      "onboard_time": 1731325698,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 484898,
       "num": 484898,
       "word": "美43只雌猴逃出实验室或携带致命病毒",
       "onboard_time": 1731137779,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482386,
+      "num": 482386,
+      "word": "手机电量用完再充会损害电池",
+      "onboard_time": 1731327500,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 482226,
@@ -1315,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429508,
+      "num": 429508,
+      "word": "温峥嵘 因为妈不同啊",
+      "onboard_time": 1731328459,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423633,
       "num": 423633,
       "word": "麦琳情商",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1731310039,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 409702,
-      "num": 409702,
-      "word": "papi酱 家都不回你在托举什么",
-      "onboard_time": 1731328819,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 407141,
@@ -1419,6 +1451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 377509,
+      "num": 377509,
+      "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+      "onboard_time": 1731327859,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 377447,
       "num": 377447,
       "word": "长沙一写字楼电梯提示引人不适",
@@ -1449,22 +1489,6 @@
       "onboard_time": 1731209657,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374025,
-      "num": 374025,
-      "word": "伊拉克拟将女性法定结婚年龄降至9岁",
-      "onboard_time": 1731327859,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 372620,
-      "num": 372620,
-      "word": "温峥嵘 因为妈不同啊",
-      "onboard_time": 1731328459,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 366866,
@@ -1691,12 +1715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310751,
-      "num": 255904,
-      "word": "珠海航展",
-      "onboard_time": 1731328637,
-      "rank": 34,
-      "category": "军事"
+      "raw_hot": 309322,
+      "num": 309322,
+      "word": "六问大专学历女干部被提拔副科",
+      "onboard_time": 1731330139,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308619,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1731196936,
       "rank": 8,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 302605,
+      "num": 240510,
+      "word": "青海一便利店老板被殴打10秒后死亡",
+      "onboard_time": 1731329959,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302354,
@@ -1851,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284330,
+      "num": 238348,
+      "word": "冷冻馒头超过两天会长黄曲霉素",
+      "onboard_time": 1731330199,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282674,
       "num": 282674,
       "word": "芒果男艺人上你好星期六被泼成熏鸡",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1731219141,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262794,
-      "num": 262794,
-      "word": "手机电量用完再充会损害电池",
-      "onboard_time": 1731327500,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 262464,
@@ -2211,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233477,
+      "num": 233477,
+      "word": "杨幂机场",
+      "onboard_time": 1731331037,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233376,
       "num": 233376,
       "word": "毓言cp陪看没了",
@@ -2387,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218735,
+      "num": 218735,
+      "word": "王鹤棣演唱会",
+      "onboard_time": 1731329119,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218201,
       "num": 218201,
       "word": "在妇幼保健院装针孔摄像头被拘",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1731218840,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215025,
+      "num": 215025,
+      "word": "孙颖莎王楚钦单打冠军数量仍第一",
+      "onboard_time": 1731328999,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 213893,
@@ -2787,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198880,
+      "num": 198880,
+      "word": "丁禹兮连女儿名字都想好了",
+      "onboard_time": 1731331339,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198792,
       "num": 198792,
       "word": "永夜星河团综",
@@ -2915,14 +2979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193026,
-      "num": 193026,
-      "word": "王鹤棣演唱会",
-      "onboard_time": 1731329119,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192725,
       "num": 192725,
       "word": "何炅谢娜梦回快乐大本营",
@@ -3001,14 +3057,6 @@
       "onboard_time": 1731283458,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189963,
-      "num": 189963,
-      "word": "孙颖莎王楚钦单打冠军数量仍第一",
-      "onboard_time": 1731328999,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 189452,
@@ -3121,6 +3169,14 @@
       "onboard_time": 1731249801,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181911,
+      "num": 195984,
+      "word": "不敢想象凌妙妙清醒过来得多难过",
+      "onboard_time": 1731329299,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181829,
@@ -4387,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130514,
+      "num": 215051,
+      "word": "宋莹到哪都不会过得差",
+      "onboard_time": 1731329538,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130356,
       "num": 130356,
       "word": "假如让古人来卖货",
@@ -4425,6 +4489,14 @@
       "onboard_time": 1731289038,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127011,
+      "num": 127011,
+      "word": "演技是男演员最好的医美",
+      "onboard_time": 1731331102,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 126769,
@@ -4873,14 +4945,6 @@
       "onboard_time": 1731213197,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104182,
-      "num": 195984,
-      "word": "不敢想象凌妙妙清醒过来得多难过",
-      "onboard_time": 1731329299,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 104061,
@@ -5555,6 +5619,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 59164,
+      "num": 382079,
+      "word": "中介收200万造假文凭成本几毛",
+      "onboard_time": 1731330439,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57724,
+      "num": 379028,
+      "word": "天猫双11错过今晚就要再等365天",
+      "onboard_time": 1731330019,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57380,
       "num": 134988,
       "word": "拍卖公司回应女子11元拍下海景房",
@@ -5921,6 +6001,14 @@
       "onboard_time": 1731194833,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38133,
+      "num": 465820,
+      "word": "局长陪餐应有随时到场的监管威慑",
+      "onboard_time": 1731330499,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37894,
@@ -6657,6 +6745,14 @@
       "onboard_time": 1731328518,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9114,
+      "num": 215358,
+      "word": "霉霉看男友球赛",
+      "onboard_time": 1731331641,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 8159,

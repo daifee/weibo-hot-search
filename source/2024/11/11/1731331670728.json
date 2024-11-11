@@ -1,0 +1,410 @@
+{
+  "runTime": 1731331670728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1173104,
+        "num": 1187696,
+        "word": "papi酱 家都不回你在托举什么",
+        "onboard_time": 1731328819,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610328,
+        "num": 610328,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154,
+        "num": 587523,
+        "word": "万千气象看湖南",
+        "onboard_time": 1731328518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060312,
+        "num": 587426,
+        "word": "赵露思直播状态",
+        "onboard_time": 1731326058,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587325,
+        "num": 587325,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 507790,
+        "num": 507790,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 896123,
+        "num": 505213,
+        "word": "丁禹兮 唐梓",
+        "onboard_time": 1731330260,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482386,
+        "num": 482386,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 497376,
+        "num": 474812,
+        "word": "我不是林虞 你是妙妙",
+        "onboard_time": 1731327019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38133,
+        "num": 465820,
+        "word": "局长陪餐应有随时到场的监管威慑",
+        "onboard_time": 1731330499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464545,
+        "num": 464545,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 429508,
+        "num": 429508,
+        "word": "温峥嵘 因为妈不同啊",
+        "onboard_time": 1731328459,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392608,
+        "num": 392608,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59164,
+        "num": 382079,
+        "word": "中介收200万造假文凭成本几毛",
+        "onboard_time": 1731330439,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57724,
+        "num": 379028,
+        "word": "天猫双11错过今晚就要再等365天",
+        "onboard_time": 1731330019,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377509,
+        "num": 377509,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 337045,
+        "num": 337045,
+        "word": "梁王退赛",
+        "onboard_time": 1731326418,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309322,
+        "num": 309322,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279727,
+        "num": 279727,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251630,
+        "num": 251630,
+        "word": "曝高雅cp约会人均消费1300",
+        "onboard_time": 1731314659,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612635,
+        "num": 243350,
+        "word": "虞书欣好辣",
+        "onboard_time": 1731313939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302605,
+        "num": 240510,
+        "word": "青海一便利店老板被殴打10秒后死亡",
+        "onboard_time": 1731329959,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284330,
+        "num": 238348,
+        "word": "冷冻馒头超过两天会长黄曲霉素",
+        "onboard_time": 1731330199,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234612,
+        "num": 234612,
+        "word": "小巷人家",
+        "onboard_time": 1731328159,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233477,
+        "num": 233477,
+        "word": "杨幂机场",
+        "onboard_time": 1731331037,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221080,
+        "num": 221080,
+        "word": "30元理发绝不会拉低行业档次",
+        "onboard_time": 1731318738,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218735,
+        "num": 218735,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1731329119,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 215737,
+        "word": "石破茂再当选日本首相",
+        "onboard_time": 1731309558,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 9114,
+        "num": 215358,
+        "word": "霉霉看男友球赛",
+        "onboard_time": 1731331641,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 130514,
+        "num": 215051,
+        "word": "宋莹到哪都不会过得差",
+        "onboard_time": 1731329538,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215025,
+        "num": 215025,
+        "word": "孙颖莎王楚钦单打冠军数量仍第一",
+        "onboard_time": 1731328999,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203199,
+        "num": 203199,
+        "word": "慕声好感度百分百了",
+        "onboard_time": 1731321199,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198880,
+        "num": 198880,
+        "word": "丁禹兮连女儿名字都想好了",
+        "onboard_time": 1731331339,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194033,
+        "num": 194033,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193501,
+        "num": 193501,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182977,
+        "num": 182977,
+        "word": "张艺谋说对电影解说短视频很无语",
+        "onboard_time": 1731323658,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181911,
+        "num": 181911,
+        "word": "不敢想象凌妙妙清醒过来得多难过",
+        "onboard_time": 1731329299,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166233,
+        "num": 166233,
+        "word": "发型师晓华拉动怀化市消费1.2亿元",
+        "onboard_time": 1731320779,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2855133,
+        "num": 157926,
+        "word": "珠海体育中心",
+        "onboard_time": 1731329417,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 145695,
+        "num": 145695,
+        "word": "博导先后4次被保研学生放鸽子",
+        "onboard_time": 1731325458,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128924,
+        "num": 128924,
+        "word": "网友质疑九寨沟水獭是引进物种",
+        "onboard_time": 1731321079,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127709,
+        "num": 127709,
+        "word": "晓华回复向太",
+        "onboard_time": 1731310219,
+        "rank": 41,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 127448,
+        "num": 127448,
+        "word": "以前的我嗤之以鼻 现在的我逐帧学习",
+        "onboard_time": 1731328279,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 127011,
+        "word": "演技是男演员最好的医美",
+        "onboard_time": 1731331102,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122714,
+        "num": 122714,
+        "word": "晓华隔壁理发师称偶尔会捡漏",
+        "onboard_time": 1731312498,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 110137,
+        "num": 110137,
+        "word": "国色芳华要动了",
+        "onboard_time": 1731322518,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106254,
+        "num": 106254,
+        "word": "山西一座山中发现北魏精美石窟",
+        "onboard_time": 1731326180,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104915,
+        "num": 104915,
+        "word": "晚晚大嘴 再见爱人",
+        "onboard_time": 1731316338,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102809,
+        "num": 102809,
+        "word": "永夜星河21集 走剧情",
+        "onboard_time": 1731326717,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99948,
+        "num": 99948,
+        "word": "在恋与深空有猫了",
+        "onboard_time": 1731329299,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信巴西各界友好人士#"
+    }
+  }
+}
