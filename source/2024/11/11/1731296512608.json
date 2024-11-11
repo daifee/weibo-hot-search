@@ -1,0 +1,410 @@
+{
+  "runTime": 1731296512608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252507,
+        "num": 1252507,
+        "word": "美国大选后多地非洲裔收到摘棉花短信",
+        "onboard_time": 1731288019,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 861622,
+        "num": 861622,
+        "word": "顾客从韩国飞来找晓华剪头发",
+        "onboard_time": 1731290839,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3561,
+        "num": 844099,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843214,
+        "num": 843214,
+        "word": "网友翻出16年晓华理发店照片",
+        "onboard_time": 1731282917,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760145,
+        "num": 760145,
+        "word": "幼儿园招聘需做背景查询",
+        "onboard_time": 1731294438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628589,
+        "num": 628589,
+        "word": "年轻人狂刷74岁爷爷视频恶补知识点",
+        "onboard_time": 1731290897,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607347,
+        "num": 607347,
+        "word": "女子被丈夫暴打报警后仍遭踢踹",
+        "onboard_time": 1731289278,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604597,
+        "num": 604597,
+        "word": "律师谈赵露思工作室被指抄袭",
+        "onboard_time": 1731292938,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530919,
+        "num": 530919,
+        "word": "麦琳吵架逻辑",
+        "onboard_time": 1731292697,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79214,
+        "num": 503684,
+        "word": "当初中生问老师活着的意义",
+        "onboard_time": 1731295878,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23810,
+        "num": 480931,
+        "word": "京东双11京喜1元大捡漏",
+        "onboard_time": 1731294378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1177683,
+        "num": 448131,
+        "word": "女子遭家暴婆婆抱孩子站一旁",
+        "onboard_time": 1731294919,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993603,
+        "num": 412376,
+        "word": "男孩被老师拎到讲台狂扇20多巴掌",
+        "onboard_time": 1731293358,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403083,
+        "num": 403083,
+        "word": "大奉打更人",
+        "onboard_time": 1731291678,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35079,
+        "num": 396406,
+        "word": "学校回应小学生踩脏地板被老师扔鞋",
+        "onboard_time": 1731296057,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601655,
+        "num": 394814,
+        "word": "张杰脸和身材各长各的",
+        "onboard_time": 1731288858,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 392023,
+        "num": 392023,
+        "word": "坚决纠正幼儿园小学化等行为",
+        "onboard_time": 1731295878,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 363836,
+        "num": 363836,
+        "word": "吴泽林为芒果付出太多了",
+        "onboard_time": 1731291079,
+        "rank": 17,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 336626,
+        "num": 336626,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30800,
+        "num": 307930,
+        "word": "一城一景尽览齐鲁风华",
+        "onboard_time": 1731295578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306191,
+        "num": 306191,
+        "word": "iG",
+        "onboard_time": 1731288438,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292232,
+        "num": 292232,
+        "word": "日本石破内阁仅存在一个多月",
+        "onboard_time": 1731291618,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254534,
+        "num": 254534,
+        "word": "饿了么免单",
+        "onboard_time": 1731295637,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235777,
+        "num": 235777,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231265,
+        "num": 231265,
+        "word": "我勤勤恳恳赚钱为啥越来越穷",
+        "onboard_time": 1731293897,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207444,
+        "num": 207444,
+        "word": "小巷人家庄图南人物特辑",
+        "onboard_time": 1731295457,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180367,
+        "num": 204218,
+        "word": "奔跑吧茶马古道篇定档",
+        "onboard_time": 1731293658,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173919,
+        "num": 202502,
+        "word": "蒋敦豪对阿条姐说下次见",
+        "onboard_time": 1731292218,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 223377,
+        "num": 198634,
+        "word": "丁禹兮做永夜星河拼豆",
+        "onboard_time": 1731287299,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157293,
+        "num": 195749,
+        "word": "失笑微博追剧团",
+        "onboard_time": 1731295457,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2096506,
+        "num": 190874,
+        "word": "支付宝崩了",
+        "onboard_time": 1731290117,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172775,
+        "num": 188246,
+        "word": "丁禹兮拼了一个慕声两个妙妙",
+        "onboard_time": 1731294197,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187120,
+        "num": 187120,
+        "word": "加沙孩子睡在妈妈坟墓上",
+        "onboard_time": 1731292518,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181641,
+        "num": 181641,
+        "word": "国内最小白血病患儿成功移植",
+        "onboard_time": 1731293839,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166265,
+        "num": 166265,
+        "word": "永夜星河豆瓣涨至7.7分",
+        "onboard_time": 1731295278,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 165843,
+        "word": "昊龙货运航天飞机演示动画",
+        "onboard_time": 1731295637,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 159714,
+        "num": 159714,
+        "word": "禹宙中欣",
+        "onboard_time": 1731285859,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159073,
+        "num": 159073,
+        "word": "日本石破内阁集体辞职",
+        "onboard_time": 1731284659,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38938,
+        "num": 157802,
+        "word": "年轻人买黄金也开始看颜值了",
+        "onboard_time": 1731294618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23016,
+        "num": 157120,
+        "word": "山东旅游攻略Nextlevel",
+        "onboard_time": 1731294020,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157071,
+        "num": 157071,
+        "word": "贾冰喊黄景瑜老景瑜子",
+        "onboard_time": 1731296178,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156672,
+        "num": 156672,
+        "word": "独行侠vs掘金",
+        "onboard_time": 1731295818,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153921,
+        "num": 153921,
+        "word": "看一眼古建筑5000年文明就住心里了",
+        "onboard_time": 1731292878,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149409,
+        "num": 149409,
+        "word": "日本举行首相指名选举",
+        "onboard_time": 1731286039,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147781,
+        "num": 147781,
+        "word": "警方通报女子被家暴报警后仍遭踢踹",
+        "onboard_time": 1731288917,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144682,
+        "num": 144682,
+        "word": "李晓华说放假第一件事是在家睡两天",
+        "onboard_time": 1731282917,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 144015,
+        "num": 144015,
+        "word": "大米和牛肉咱都放心吃",
+        "onboard_time": 1731294858,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139621,
+        "num": 139621,
+        "word": "阿条姐晒十个勤天演唱会照片",
+        "onboard_time": 1731285139,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131042,
+        "num": 131042,
+        "word": "幼儿园不得教授小学内容",
+        "onboard_time": 1731296359,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126766,
+        "num": 126766,
+        "word": "直接安排10万亿元化债",
+        "onboard_time": 1731296479,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}

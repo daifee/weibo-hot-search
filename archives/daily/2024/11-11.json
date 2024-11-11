@@ -1,10 +1,10 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731295634765,
+  "endTime": 1731296512608,
   "band_list": [
     {
       "raw_hot": 2799489,
-      "num": 188203,
+      "num": 190874,
       "word": "支付宝崩了",
       "onboard_time": 1731290117,
       "rank": 30,
@@ -35,6 +35,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1177683,
+      "num": 448131,
+      "word": "女子遭家暴婆婆抱孩子站一旁",
+      "onboard_time": 1731294919,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993603,
+      "num": 469827,
+      "word": "男孩被老师拎到讲台狂扇20多巴掌",
+      "onboard_time": 1731293358,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939456,
       "num": 770798,
       "word": "李行亮觉醒",
@@ -59,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 843850,
-      "num": 469827,
-      "word": "男孩被老师拎到讲台狂扇20多巴掌",
-      "onboard_time": 1731293358,
-      "rank": 39,
+      "raw_hot": 760145,
+      "num": 760145,
+      "word": "幼儿园招聘需做背景查询",
+      "onboard_time": 1731294438,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -131,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 583973,
-      "num": 583973,
-      "word": "幼儿园招聘需做背景查询",
-      "onboard_time": 1731294438,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 601655,
+      "num": 485451,
+      "word": "张杰脸和身材各长各的",
+      "onboard_time": 1731288858,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 549930,
@@ -153,6 +169,14 @@
       "onboard_time": 1731287299,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530919,
+      "num": 530919,
+      "word": "麦琳吵架逻辑",
+      "onboard_time": 1731292697,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 512966,
@@ -195,28 +219,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 485451,
-      "num": 485451,
-      "word": "张杰脸和身材各长各的",
-      "onboard_time": 1731288858,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 470567,
       "num": 470567,
       "word": "大奉打更人",
       "onboard_time": 1731291678,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469307,
-      "num": 469307,
-      "word": "麦琳吵架逻辑",
-      "onboard_time": 1731292697,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 456717,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392023,
+      "num": 392023,
+      "word": "坚决纠正幼儿园小学化等行为",
+      "onboard_time": 1731295878,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388168,
       "num": 461472,
       "word": "警方通报女子被家暴报警后仍遭踢踹",
@@ -275,8 +291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362516,
-      "num": 362516,
+      "raw_hot": 363836,
+      "num": 363836,
       "word": "吴泽林为芒果付出太多了",
       "onboard_time": 1731291079,
       "rank": 12,
@@ -337,14 +353,6 @@
       "onboard_time": 1731285139,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 302938,
-      "num": 302938,
-      "word": "女子遭家暴婆婆抱孩子站一旁",
-      "onboard_time": 1731294919,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302354,
@@ -411,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254534,
+      "num": 254534,
+      "word": "饿了么免单",
+      "onboard_time": 1731295637,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 243643,
       "num": 243643,
       "word": "何与 双轨",
       "onboard_time": 1731243198,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231265,
+      "num": 339762,
+      "word": "我勤勤恳恳赚钱为啥越来越穷",
+      "onboard_time": 1731293897,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228813,
@@ -491,8 +515,8 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 206497,
-      "num": 206497,
+      "raw_hot": 207444,
+      "num": 207444,
       "word": "小巷人家庄图南人物特辑",
       "onboard_time": 1731295457,
       "rank": 24,
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 202478,
-      "num": 202478,
+      "num": 204218,
       "word": "奔跑吧茶马古道篇定档",
       "onboard_time": 1731293658,
       "rank": 23,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181641,
+      "num": 181641,
+      "word": "国内最小白血病患儿成功移植",
+      "onboard_time": 1731293839,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180481,
       "num": 180481,
       "word": "华晨宇 想要成长多谈恋爱",
@@ -620,19 +652,11 @@
     },
     {
       "raw_hot": 174836,
-      "num": 171980,
+      "num": 188246,
       "word": "丁禹兮拼了一个慕声两个妙妙",
       "onboard_time": 1731294197,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174569,
-      "num": 174569,
-      "word": "国内最小白血病患儿成功移植",
-      "onboard_time": 1731293839,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168494,
@@ -659,6 +683,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166265,
+      "num": 166265,
+      "word": "永夜星河豆瓣涨至7.7分",
+      "onboard_time": 1731295278,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165843,
+      "num": 165843,
+      "word": "昊龙货运航天飞机演示动画",
+      "onboard_time": 1731295637,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 160160,
       "num": 160160,
       "word": "国安公布涉密人员失泄密案件",
@@ -681,6 +721,30 @@
       "onboard_time": 1731241759,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157293,
+      "num": 195749,
+      "word": "失笑微博追剧团",
+      "onboard_time": 1731295457,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157071,
+      "num": 157071,
+      "word": "贾冰喊黄景瑜老景瑜子",
+      "onboard_time": 1731296178,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156672,
+      "num": 156672,
+      "word": "独行侠vs掘金",
+      "onboard_time": 1731295818,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151416,
@@ -721,6 +785,14 @@
       "onboard_time": 1731283939,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144015,
+      "num": 144015,
+      "word": "大米和牛肉咱都放心吃",
+      "onboard_time": 1731294858,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 143605,
@@ -771,22 +843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135095,
-      "num": 135095,
-      "word": "永夜星河豆瓣涨至7.7分",
-      "onboard_time": 1731295278,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134303,
-      "num": 339762,
-      "word": "我勤勤恳恳赚钱为啥越来越穷",
-      "onboard_time": 1731293897,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133998,
       "num": 133998,
       "word": "24岁女生剃头180天后的变化",
@@ -819,6 +875,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 131042,
+      "num": 131042,
+      "word": "幼儿园不得教授小学内容",
+      "onboard_time": 1731296359,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129519,
       "num": 129519,
       "word": "88岁钟南山上台致辞健步如飞",
@@ -841,6 +905,14 @@
       "onboard_time": 1731289879,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126766,
+      "num": 126766,
+      "word": "直接安排10万亿元化债",
+      "onboard_time": 1731296479,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 126579,
@@ -873,14 +945,6 @@
       "onboard_time": 1731292398,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124849,
-      "num": 124849,
-      "word": "大米和牛肉咱都放心吃",
-      "onboard_time": 1731294858,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 124309,
@@ -1043,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93807,
-      "num": 188500,
-      "word": "失笑微博追剧团",
-      "onboard_time": 1731295457,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91873,
       "num": 91873,
       "word": "双11晚会 苹果香",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1731229819,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 79214,
+      "num": 503684,
+      "word": "当初中生问老师活着的意义",
+      "onboard_time": 1731295878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76016,
@@ -1188,7 +1252,7 @@
     },
     {
       "raw_hot": 52539,
-      "num": 153997,
+      "num": 157802,
       "word": "年轻人买黄金也开始看颜值了",
       "onboard_time": 1731294618,
       "rank": 37,
@@ -1235,8 +1299,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30383,
-      "num": 110932,
+      "raw_hot": 35079,
+      "num": 396406,
+      "word": "学校回应小学生踩脏地板被老师扔鞋",
+      "onboard_time": 1731296057,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30800,
+      "num": 307930,
       "word": "一城一景尽览齐鲁风华",
       "onboard_time": 1731295578,
       "rank": 49,
@@ -1244,7 +1316,7 @@
     },
     {
       "raw_hot": 26375,
-      "num": 210747,
+      "num": 480931,
       "word": "京东双11京喜1元大捡漏",
       "onboard_time": 1731294378,
       "rank": 23,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1731277451,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23016,
+      "num": 157120,
+      "word": "山东旅游攻略Nextlevel",
+      "onboard_time": 1731294020,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 22432,
@@ -1353,14 +1433,6 @@
       "onboard_time": 1731288977,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 18221,
-      "num": 143268,
-      "word": "山东旅游攻略Nextlevel",
-      "onboard_time": 1731294020,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 18217,
