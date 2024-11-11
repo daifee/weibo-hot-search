@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731299187211,
+  "endTime": 1731300062485,
   "band_list": [
     {
       "raw_hot": 2799489,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852864,
+      "num": 435129,
+      "word": "支付宝回应付款异常",
+      "onboard_time": 1731296778,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 835976,
       "num": 835976,
       "word": "坚决纠正幼儿园小学化等行为",
@@ -113,14 +121,6 @@
       "onboard_time": 1731284659,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 736101,
-      "num": 389370,
-      "word": "支付宝回应付款异常",
-      "onboard_time": 1731296778,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 719803,
@@ -177,6 +177,14 @@
       "onboard_time": 1731288858,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 593568,
+      "num": 593568,
+      "word": "尹子维妈妈曾是邵氏十二金钗之一",
+      "onboard_time": 1731297439,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 566696,
@@ -243,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 475569,
+      "num": 475569,
+      "word": "心动的信号",
+      "onboard_time": 1731299119,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470567,
       "num": 470567,
       "word": "大奉打更人",
@@ -275,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 439921,
-      "num": 439921,
-      "word": "尹子维妈妈曾是邵氏十二金钗之一",
-      "onboard_time": 1731297439,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 437105,
+      "num": 437105,
+      "word": "成都混团世界杯名单出炉",
+      "onboard_time": 1731299179,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 432525,
@@ -289,6 +305,14 @@
       "onboard_time": 1731282978,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407141,
+      "num": 407141,
+      "word": "丁禹兮拼了一个慕声两个妙妙",
+      "onboard_time": 1731294197,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 401489,
@@ -363,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318752,
-      "num": 373823,
-      "word": "丁禹兮拼了一个慕声两个妙妙",
-      "onboard_time": 1731294197,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 309483,
       "num": 309483,
       "word": "男子将8万现金伪装成喜糖寄出",
@@ -403,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299497,
+      "num": 299497,
+      "word": "只有庄桦林儿子不能这样说",
+      "onboard_time": 1731298879,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298385,
       "num": 298385,
       "word": "黄岩岛是我国固有领土",
@@ -417,6 +441,14 @@
       "onboard_time": 1731241518,
       "rank": 8,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 276324,
+      "num": 276324,
+      "word": "凤凰传奇杭州抢票",
+      "onboard_time": 1731298218,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 274799,
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265208,
+      "num": 388194,
+      "word": "以色列要求公民国外旅行避免表明身份",
+      "onboard_time": 1731298879,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 254534,
       "num": 254534,
       "word": "饿了么免单",
@@ -467,12 +507,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239512,
+      "num": 239512,
+      "word": "Doinb和Tian疑似和解",
+      "onboard_time": 1731298399,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238884,
       "num": 238884,
       "word": "幼儿园不得教授小学内容",
       "onboard_time": 1731296359,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 238778,
+      "num": 238778,
+      "word": "肖战新专辑末日风预告",
+      "onboard_time": 1731299899,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 235539,
+      "num": 387782,
+      "word": "慕声 小狗",
+      "onboard_time": 1731297978,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 231265,
@@ -489,14 +553,6 @@
       "onboard_time": 1731250701,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 221577,
-      "num": 221577,
-      "word": "慕声 小狗",
-      "onboard_time": 1731297978,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 218201,
@@ -521,14 +577,6 @@
       "onboard_time": 1731258015,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212908,
-      "num": 212908,
-      "word": "Doinb和Tian疑似和解",
-      "onboard_time": 1731298399,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 212006,
@@ -571,28 +619,12 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 208944,
-      "num": 208120,
-      "word": "只有庄桦林儿子不能这样说",
-      "onboard_time": 1731298879,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207444,
       "num": 207444,
       "word": "小巷人家庄图南人物特辑",
       "onboard_time": 1731295457,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206861,
-      "num": 206861,
-      "word": "凤凰传奇杭州抢票",
-      "onboard_time": 1731298218,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 203699,
@@ -691,6 +723,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189452,
+      "num": 189452,
+      "word": "当我用麦学过双十一",
+      "onboard_time": 1731299059,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 187172,
+      "num": 187172,
+      "word": "沈月 又不是我们先开始的",
+      "onboard_time": 1731299839,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185944,
+      "num": 185944,
+      "word": "刘宇宁说自己没有舒适圈",
+      "onboard_time": 1731299479,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183751,
       "num": 183751,
       "word": "美43只在逃实验猴捉回一只",
@@ -731,12 +787,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175482,
-      "num": 175482,
-      "word": "当我用麦学过双十一",
-      "onboard_time": 1731299059,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 178860,
+      "num": 178860,
+      "word": "中国造出机器狼群兵器",
+      "onboard_time": 1731299539,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 172428,
@@ -753,14 +809,6 @@
       "onboard_time": 1731286280,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168128,
-      "num": 168128,
-      "word": "以色列要求公民国外旅行避免表明身份",
-      "onboard_time": 1731298879,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 168090,
@@ -793,6 +841,14 @@
       "onboard_time": 1731295637,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 164901,
+      "num": 164901,
+      "word": "周也 乌兰察布",
+      "onboard_time": 1731299661,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160750,
@@ -843,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157029,
+      "num": 157029,
+      "word": "晓华回应有网红公司找她签约",
+      "onboard_time": 1731299719,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156672,
       "num": 156672,
       "word": "独行侠vs掘金",
@@ -873,6 +937,14 @@
       "onboard_time": 1731295038,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147699,
+      "num": 147699,
+      "word": "这才叫化妆师",
+      "onboard_time": 1731299839,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 145632,
@@ -955,14 +1027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134647,
-      "num": 134647,
-      "word": "心动的信号",
-      "onboard_time": 1731299119,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133998,
       "num": 133998,
       "word": "24岁女生剃头180天后的变化",
@@ -1008,6 +1072,14 @@
       "word": "古巴地区6.8级地震",
       "onboard_time": 1731289038,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127614,
+      "num": 431742,
+      "word": "中国野猪致害省份多达26个",
+      "onboard_time": 1731298038,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1259,14 +1331,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 76433,
-      "num": 431742,
-      "word": "中国野猪致害省份多达26个",
-      "onboard_time": 1731298038,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76016,
       "num": 76016,
       "word": "狼队败决上演逆转大戏",
@@ -1307,6 +1371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 69060,
+      "num": 404915,
+      "word": "官方回应网友称图书馆有流浪汉",
+      "onboard_time": 1731299179,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68752,
       "num": 68752,
       "word": "她只是一位想夺回养狗权的妈妈",
@@ -1329,6 +1401,22 @@
       "onboard_time": 1731298339,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66039,
+      "num": 370224,
+      "word": "妹子连续加班后确诊女星同款美女病",
+      "onboard_time": 1731298339,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66002,
+      "num": 386776,
+      "word": "比特币价格史上首次突破81000美元",
+      "onboard_time": 1731297918,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65672,
@@ -1395,12 +1483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51311,
-      "num": 339661,
-      "word": "妹子连续加班后确诊女星同款美女病",
-      "onboard_time": 1731298339,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 50801,
+      "num": 480931,
+      "word": "京东双11京喜1元大捡漏",
+      "onboard_time": 1731294378,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 48010,
@@ -1419,28 +1507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43929,
-      "num": 386776,
-      "word": "比特币价格史上首次突破81000美元",
-      "onboard_time": 1731297918,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43153,
       "num": 43153,
       "word": "2024年只剩7个周末了",
       "onboard_time": 1731260113,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40947,
-      "num": 480931,
-      "word": "京东双11京喜1元大捡漏",
-      "onboard_time": 1731294378,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 37442,
@@ -1472,6 +1544,14 @@
       "word": "一城一景尽览齐鲁风华",
       "onboard_time": 1731295578,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25145,
+      "num": 667036,
+      "word": "祝人民空军75周岁生日快乐",
+      "onboard_time": 1731299179,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731299187211,
+  "endTime": 1731300062485,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3323,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852864,
+      "num": 435129,
+      "word": "支付宝回应付款异常",
+      "onboard_time": 1731296778,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 852604,
       "num": 512780,
       "word": "世界上有一半的人都会流血",
@@ -4041,14 +4049,6 @@
       "onboard_time": 1731284659,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 736101,
-      "num": 389370,
-      "word": "支付宝回应付款异常",
-      "onboard_time": 1731296778,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 734419,
@@ -5369,6 +5369,14 @@
       "onboard_time": 1730863883,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593568,
+      "num": 593568,
+      "word": "尹子维妈妈曾是邵氏十二金钗之一",
+      "onboard_time": 1731297439,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 593297,
@@ -6883,6 +6891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475569,
+      "num": 475569,
+      "word": "心动的信号",
+      "onboard_time": 1730695462,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474513,
       "num": 474513,
       "word": "这里是中国黄岩岛海域",
@@ -7467,20 +7483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 439921,
-      "num": 439921,
-      "word": "尹子维妈妈曾是邵氏十二金钗之一",
-      "onboard_time": 1731297439,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439484,
       "num": 439484,
       "word": "芬兰总统vlog晒中国高铁",
       "onboard_time": 1730458879,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 437105,
+      "num": 437105,
+      "word": "成都混团世界杯名单出炉",
+      "onboard_time": 1731299179,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 437034,
@@ -7977,6 +7993,14 @@
       "onboard_time": 1730605220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407141,
+      "num": 407141,
+      "word": "丁禹兮拼了一个慕声两个妙妙",
+      "onboard_time": 1731294197,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 406258,
@@ -9811,14 +9835,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 318752,
-      "num": 373823,
-      "word": "丁禹兮拼了一个慕声两个妙妙",
-      "onboard_time": 1731294197,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 318429,
       "num": 295304,
       "word": "广西大学被指强奸女学生教授报案",
@@ -10241,6 +10257,14 @@
       "onboard_time": 1730782820,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299497,
+      "num": 299497,
+      "word": "只有庄桦林儿子不能这样说",
+      "onboard_time": 1731298879,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 299217,
@@ -10955,6 +10979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276324,
+      "num": 276324,
+      "word": "凤凰传奇杭州抢票",
+      "onboard_time": 1731298218,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276018,
       "num": 298146,
       "word": "黄旭熙将回归",
@@ -11376,6 +11408,14 @@
       "word": "美国大选选举日首个投票点结果出炉",
       "onboard_time": 1730786360,
       "rank": 28,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 265208,
+      "num": 388194,
+      "word": "以色列要求公民国外旅行避免表明身份",
+      "onboard_time": 1731298879,
+      "rank": 38,
       "category": "国外时政"
     },
     {
@@ -12179,14 +12219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241775,
-      "num": 319092,
-      "word": "心动的信号",
-      "onboard_time": 1730695462,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241688,
       "num": 241688,
       "word": "杜兰特绝杀",
@@ -12307,6 +12339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239512,
+      "num": 239512,
+      "word": "Doinb和Tian疑似和解",
+      "onboard_time": 1731298399,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239372,
       "num": 239372,
       "word": "blgon",
@@ -12329,6 +12369,14 @@
       "onboard_time": 1731296359,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 238778,
+      "num": 238778,
+      "word": "肖战新专辑末日风预告",
+      "onboard_time": 1731299899,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 238534,
@@ -12441,6 +12489,14 @@
       "onboard_time": 1730890162,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 235539,
+      "num": 387782,
+      "word": "慕声 小狗",
+      "onboard_time": 1731297978,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 235314,
@@ -13027,14 +13083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221577,
-      "num": 221577,
-      "word": "慕声 小狗",
-      "onboard_time": 1731297978,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221523,
       "num": 221523,
       "word": "曝叶珂曾在婚内给男主播刷百万礼物",
@@ -13459,14 +13507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 212908,
-      "num": 212908,
-      "word": "Doinb和Tian疑似和解",
-      "onboard_time": 1731298399,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 212885,
       "num": 212885,
       "word": "肖战版射雕首次改编襄阳保卫战",
@@ -13843,14 +13883,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 208944,
-      "num": 208120,
-      "word": "只有庄桦林儿子不能这样说",
-      "onboard_time": 1731298879,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208937,
       "num": 208937,
       "word": "官方通报市监所员工骂消费者狗东西",
@@ -14057,14 +14089,6 @@
       "onboard_time": 1731036800,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 206861,
-      "num": 206861,
-      "word": "凤凰传奇杭州抢票",
-      "onboard_time": 1731298218,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 206852,
@@ -16099,6 +16123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189452,
+      "num": 189452,
+      "word": "当我用麦学过双十一",
+      "onboard_time": 1731299059,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189365,
       "num": 189365,
       "word": "时代少年团七个人分八个瑞士卷",
@@ -16251,6 +16283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187172,
+      "num": 187172,
+      "word": "沈月 又不是我们先开始的",
+      "onboard_time": 1731299839,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187027,
       "num": 187027,
       "word": "终于明白北方人说三层穿衣法保暖了",
@@ -16345,6 +16385,14 @@
       "onboard_time": 1730423478,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 185944,
+      "num": 185944,
+      "word": "刘宇宁说自己没有舒适圈",
+      "onboard_time": 1731299479,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 185918,
@@ -17019,6 +17067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178860,
+      "num": 178860,
+      "word": "中国造出机器狼群兵器",
+      "onboard_time": 1731299539,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 178672,
       "num": 255050,
       "word": "国防部说台独武装那点儿事不难掌握",
@@ -17385,14 +17441,6 @@
       "onboard_time": 1730463019,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175482,
-      "num": 175482,
-      "word": "当我用麦学过双十一",
-      "onboard_time": 1731299059,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 175465,
@@ -18107,14 +18155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168128,
-      "num": 168128,
-      "word": "以色列要求公民国外旅行避免表明身份",
-      "onboard_time": 1731298879,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 168090,
       "num": 168090,
       "word": "谨以此片献给人民空军成立75周年",
@@ -18521,6 +18561,14 @@
       "onboard_time": 1730974944,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164901,
+      "num": 164901,
+      "word": "周也 乌兰察布",
+      "onboard_time": 1731299661,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164885,
@@ -19409,6 +19457,14 @@
       "onboard_time": 1731296178,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157029,
+      "num": 157029,
+      "word": "晓华回应有网红公司找她签约",
+      "onboard_time": 1731299719,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156997,
@@ -20473,6 +20529,14 @@
       "onboard_time": 1731162140,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147699,
+      "num": 147699,
+      "word": "这才叫化妆师",
+      "onboard_time": 1731299839,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 147639,
@@ -22705,6 +22769,14 @@
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127614,
+      "num": 431742,
+      "word": "中国野猪致害省份多达26个",
+      "onboard_time": 1731298038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127584,
@@ -26715,14 +26787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 76433,
-      "num": 431742,
-      "word": "中国野猪致害省份多达26个",
-      "onboard_time": 1731298038,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76407,
       "num": 401008,
       "word": "檀健次在天猫大集开店卖小吃",
@@ -27099,6 +27163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69060,
+      "num": 404915,
+      "word": "官方回应网友称图书馆有流浪汉",
+      "onboard_time": 1731299179,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68976,
       "num": 378915,
       "word": "男子偷拿女友手机转账15万被判刑",
@@ -27347,10 +27419,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66039,
+      "num": 370224,
+      "word": "妹子连续加班后确诊女星同款美女病",
+      "onboard_time": 1731298339,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66018,
       "num": 66018,
       "word": "与蜂花合作插画师所在MCN公司回应",
       "onboard_time": 1731004753,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66002,
+      "num": 386776,
+      "word": "比特币价格史上首次突破81000美元",
+      "onboard_time": 1731297918,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -28451,14 +28539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51311,
-      "num": 339661,
-      "word": "妹子连续加班后确诊女星同款美女病",
-      "onboard_time": 1731298339,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51281,
       "num": 234720,
       "word": "白敬亭新疆之旅第二期幕后花絮",
@@ -28529,6 +28609,14 @@
       "onboard_time": 1730430018,
       "rank": 14,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 50801,
+      "num": 480931,
+      "word": "京东双11京喜1元大捡漏",
+      "onboard_time": 1731294378,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 50763,
@@ -29091,14 +29179,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 43929,
-      "num": 386776,
-      "word": "比特币价格史上首次突破81000美元",
-      "onboard_time": 1731297918,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43554,
       "num": 309700,
       "word": "必须知道的女性健康知识",
@@ -29401,14 +29481,6 @@
       "onboard_time": 1730452818,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40947,
-      "num": 480931,
-      "word": "京东双11京喜1元大捡漏",
-      "onboard_time": 1731294378,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 40812,
@@ -31385,6 +31457,14 @@
       "onboard_time": 1730608579,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25145,
+      "num": 667036,
+      "word": "祝人民空军75周岁生日快乐",
+      "onboard_time": 1731299179,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25126,
