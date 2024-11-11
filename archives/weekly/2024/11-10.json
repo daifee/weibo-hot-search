@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731310648782,
+  "endTime": 1731313725371,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -107,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1609367,
+      "num": 1609367,
+      "word": "晓华回复向太",
+      "onboard_time": 1731310219,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1577565,
       "num": 1577565,
       "word": "被传患病网红夫妇无奈离开家乡",
       "onboard_time": 1731165080,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1565538,
+      "num": 430831,
+      "word": "拜登还有70天说服特朗普不要放弃乌克兰",
+      "onboard_time": 1731311598,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1495078,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956202,
+      "num": 956202,
+      "word": "石破茂再当选日本首相",
+      "onboard_time": 1731309558,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 950700,
       "num": 950700,
       "word": "费启鸣 请苍天辨忠奸",
@@ -347,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 930483,
-      "num": 930483,
-      "word": "石破茂再当选日本首相",
-      "onboard_time": 1731309558,
-      "rank": 28,
-      "category": "国外时政"
+      "raw_hot": 911335,
+      "num": 911335,
+      "word": "晓华说想跟楼上邻居说声抱歉",
+      "onboard_time": 1731311658,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 881622,
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665443,
+      "num": 665443,
+      "word": "晓华说自己还没学会剪女发",
+      "onboard_time": 1731309377,
+      "rank": 34,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 663060,
       "num": 515493,
       "word": "麦琳",
@@ -617,6 +649,14 @@
       "onboard_time": 1731147559,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 642922,
+      "num": 642922,
+      "word": "长沙一小区9栋楼170个井盖",
+      "onboard_time": 1731309319,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637641,
@@ -1115,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412345,
+      "num": 258323,
+      "word": "从编制高中教师辞职做酒吧MC",
+      "onboard_time": 1731310039,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 407141,
       "num": 407141,
       "word": "丁禹兮拼了一个慕声两个妙妙",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1731305718,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 382419,
-      "num": 196146,
-      "word": "晓华回复向太",
-      "onboard_time": 1731310219,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 382398,
@@ -1443,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303819,
+      "num": 303819,
+      "word": "奥斯卡收官小作文",
+      "onboard_time": 1731309679,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302804,
       "num": 302804,
       "word": "张韶涵回应郑钦文赛前听欧若拉",
@@ -1480,6 +1528,14 @@
       "word": "只有庄桦林儿子不能这样说",
       "onboard_time": 1731298879,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 299418,
+      "num": 299418,
+      "word": "费启鸣 愧疚粉",
+      "onboard_time": 1731309799,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1627,14 +1683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 271567,
-      "num": 271567,
-      "word": "奥斯卡收官小作文",
-      "onboard_time": 1731309679,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -1747,14 +1795,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 254394,
-      "num": 254394,
-      "word": "晓华说自己还没学会剪女发",
-      "onboard_time": 1731309377,
-      "rank": 34,
-      "category": "社会新闻,作品衍生"
-    },
-    {
       "raw_hot": 253855,
       "num": 225061,
       "word": "口服避孕药 致癌物",
@@ -1779,14 +1819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252505,
-      "num": 252505,
-      "word": "长沙一小区9栋楼170个井盖",
-      "onboard_time": 1731309319,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252367,
       "num": 252367,
       "word": "普京签署俄朝全面战略伙伴关系条约",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1731197957,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249231,
-      "num": 249231,
-      "word": "费启鸣 愧疚粉",
-      "onboard_time": 1731309799,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 248817,
@@ -1913,6 +1937,14 @@
       "onboard_time": 1731239419,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235779,
+      "num": 224179,
+      "word": "张泉灵被再见爱人专组审判",
+      "onboard_time": 1731311358,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 235539,
@@ -2025,6 +2057,14 @@
       "onboard_time": 1731216918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223874,
+      "num": 223874,
+      "word": "黄岩岛争端",
+      "onboard_time": 1731312078,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223777,
@@ -2435,6 +2475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197629,
+      "num": 197629,
+      "word": "郭晓婷 女师尊赛道",
+      "onboard_time": 1731312919,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197201,
       "num": 197201,
       "word": "夜骑开封的共享单车被倒卖",
@@ -2457,14 +2505,6 @@
       "onboard_time": 1731238038,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194801,
-      "num": 194801,
-      "word": "从编制高中教师辞职做酒吧MC",
-      "onboard_time": 1731310039,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 194768,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1731308178,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187575,
+      "num": 187575,
+      "word": "晓华隔壁理发师称偶尔会捡漏",
+      "onboard_time": 1731312498,
+      "rank": 28,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 186348,
@@ -3011,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167199,
+      "num": 167199,
+      "word": "韩国的婚宴席自助",
+      "onboard_time": 1731311959,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166265,
       "num": 166265,
       "word": "永夜星河豆瓣涨至7.7分",
@@ -3123,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160810,
+      "num": 304364,
+      "word": "应聘司机工资还没到手就花了5万",
+      "onboard_time": 1731311479,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160750,
       "num": 160750,
       "word": "未定事件簿",
@@ -3161,6 +3225,14 @@
       "onboard_time": 1731233477,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159695,
+      "num": 159695,
+      "word": "外交部回应石破茂当选日本首相",
+      "onboard_time": 1731313518,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 159507,
@@ -3323,12 +3395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151231,
+      "num": 196516,
+      "word": "大梦归离听劝就是嫡长子",
+      "onboard_time": 1731310460,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151051,
       "num": 151051,
       "word": "中国扎染每次打开都是开盲盒的惊喜",
       "onboard_time": 1731245600,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150871,
+      "num": 150871,
+      "word": "麦琳 心理状态",
+      "onboard_time": 1731310518,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 150843,
@@ -3515,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140595,
+      "num": 140595,
+      "word": "珉佑",
+      "onboard_time": 1731311237,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140031,
       "num": 140031,
       "word": "中国战机每一幕都安全感满满",
@@ -3553,14 +3649,6 @@
       "onboard_time": 1731208159,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138869,
-      "num": 138869,
-      "word": "麦琳 心理状态",
-      "onboard_time": 1731310518,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 138457,
@@ -3859,6 +3947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123604,
+      "num": 123604,
+      "word": "教体局回应高中学生会干部涉受贿",
+      "onboard_time": 1731312379,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123075,
       "num": 123075,
       "word": "学前儿童入园不得组织考试",
@@ -3873,6 +3969,14 @@
       "onboard_time": 1731304159,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122006,
+      "num": 122006,
+      "word": "A股芯片板块近50股涨停",
+      "onboard_time": 1731312258,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 120959,
@@ -3985,6 +4089,22 @@
       "onboard_time": 1731162740,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113806,
+      "num": 113806,
+      "word": "江浙沪地区羽绒服销量反超北方",
+      "onboard_time": 1731313699,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113786,
+      "num": 113786,
+      "word": "丁禹兮 付出型",
+      "onboard_time": 1731313577,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113532,
@@ -4248,14 +4368,6 @@
       "word": "白锦锦 剧本",
       "onboard_time": 1731262513,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 96624,
-      "num": 196516,
-      "word": "大梦归离听劝就是嫡长子",
-      "onboard_time": 1731310460,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4841,6 +4953,14 @@
       "onboard_time": 1731298698,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51640,
+      "num": 259383,
+      "word": "羽超联赛名单公布",
+      "onboard_time": 1731313638,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 51381,
@@ -5617,6 +5737,22 @@
       "onboard_time": 1731264791,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12335,
+      "num": 139650,
+      "word": "双11看来看去还是在天猫下单",
+      "onboard_time": 1731313338,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 12277,
+      "num": 438102,
+      "word": "高价收购公司背后的电诈骗局",
+      "onboard_time": 1731312619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11777,
