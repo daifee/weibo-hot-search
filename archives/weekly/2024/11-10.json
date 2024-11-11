@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731350553812,
+  "endTime": 1731352632866,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -6995,6 +6995,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 20385,
+      "num": 42565,
+      "word": "晓华拉动现场消费超2000万元",
+      "onboard_time": 1731351311,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 20315,
       "num": 452011,
       "word": "别让假货成为你双11购物的痛点",
@@ -7009,6 +7017,14 @@
       "onboard_time": 1731348612,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19602,
+      "num": 22203,
+      "word": "权志龙仿妆",
+      "onboard_time": 1731350413,
+      "rank": 46,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 19093,
@@ -7057,14 +7073,6 @@
       "onboard_time": 1731260415,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18090,
-      "num": 22203,
-      "word": "权志龙仿妆",
-      "onboard_time": 1731350413,
-      "rank": 46,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 17279,
@@ -7185,6 +7193,14 @@
       "onboard_time": 1731247221,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14676,
+      "num": 17733,
+      "word": "小巷人家向鹏飞哭戏感染力",
+      "onboard_time": 1731351792,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 14486,
