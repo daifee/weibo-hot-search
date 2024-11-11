@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731343409234,
+  "endTime": 1731345545398,
   "band_list": [
     {
       "raw_hot": 1184250,
@@ -49,6 +49,14 @@
       "onboard_time": 1731337880,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461032,
+      "num": 461032,
+      "word": "唐梓回应跟丁禹兮长得像",
+      "onboard_time": 1731342976,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 397511,
@@ -147,14 +155,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 190631,
-      "num": 111575,
-      "word": "唐梓回应跟丁禹兮长得像",
-      "onboard_time": 1731342976,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185810,
       "num": 131153,
       "word": "青海一便利店老板被殴打10秒后死亡",
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104342,
+      "num": 108818,
+      "word": "发型师晓华回应同行质疑",
+      "onboard_time": 1731343217,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 102624,
       "num": 102624,
       "word": "直击航展现场",
@@ -289,6 +297,14 @@
       "onboard_time": 1731342258,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 90943,
+      "num": 113418,
+      "word": "蔡磊破冰驿站跻身双11带货榜前10",
+      "onboard_time": 1731342377,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82235,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 64073,
-      "num": 64073,
+      "num": 166485,
       "word": "三星堆一团皱皱金箔展开后飞出小鸟",
       "onboard_time": 1731342917,
       "rank": 42,
@@ -411,23 +427,31 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44881,
-      "num": 113418,
-      "word": "蔡磊破冰驿站跻身双11带货榜前10",
-      "onboard_time": 1731342377,
-      "rank": 29,
+      "raw_hot": 53358,
+      "num": 53358,
+      "word": "62岁传奇与26岁新星同框了",
+      "onboard_time": 1731343732,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 49129,
+      "num": 49129,
+      "word": "王鹤棣演唱会",
+      "onboard_time": 1731329119,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 45774,
+      "num": 45774,
+      "word": "顺产妈妈用错力致整脸肿胀",
+      "onboard_time": 1731345134,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32083,
-      "num": 108818,
-      "word": "发型师晓华回应同行质疑",
-      "onboard_time": 1731343217,
-      "rank": 24,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 30479,
+      "raw_hot": 43147,
       "num": 113044,
       "word": "温峥嵘回复慕声赵若失哭对比图",
       "onboard_time": 1731341957,
@@ -435,7 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6528,
+      "raw_hot": 6904,
       "num": 449744,
       "word": "一组图带你看懂COP29",
       "onboard_time": 1731328159,

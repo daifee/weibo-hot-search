@@ -1,0 +1,410 @@
+{
+  "runTime": 1731345545398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 724802,
+        "num": 724802,
+        "word": "原来双11最后一天才是最划算的",
+        "onboard_time": 1731340457,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 461032,
+        "num": 461032,
+        "word": "唐梓回应跟丁禹兮长得像",
+        "onboard_time": 1731342976,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6904,
+        "num": 292590,
+        "word": "一组图带你看懂COP29",
+        "onboard_time": 1731328159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240266,
+        "num": 240266,
+        "word": "发型师晓华爆改乌克兰宝爸",
+        "onboard_time": 1731332780,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 174702,
+        "num": 174702,
+        "word": "美发行业早就应该整顿了",
+        "onboard_time": 1731338658,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170409,
+        "num": 170409,
+        "word": "新疆沙漠发现罕见长耳跳鼠",
+        "onboard_time": 1731339798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339484,
+        "num": 170363,
+        "word": "丁禹兮 唐梓",
+        "onboard_time": 1731330260,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238838,
+        "num": 169169,
+        "word": "子期 东方青苍",
+        "onboard_time": 1731335960,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215582,
+        "num": 167125,
+        "word": "麦琳退掉的汉服",
+        "onboard_time": 1731334880,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48936,
+        "num": 166485,
+        "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+        "onboard_time": 1731342917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183514,
+        "num": 164894,
+        "word": "林一沈月cos赵露思刘宇宁",
+        "onboard_time": 1731337880,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164800,
+        "num": 164800,
+        "word": "虞书欣更新TikTok",
+        "onboard_time": 1731333081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141013,
+        "num": 141013,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137347,
+        "num": 137347,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125684,
+        "num": 125684,
+        "word": "周洁琼演技",
+        "onboard_time": 1731338300,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116215,
+        "num": 116215,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104342,
+        "num": 104342,
+        "word": "发型师晓华回应同行质疑",
+        "onboard_time": 1731343217,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 90943,
+        "num": 90943,
+        "word": "蔡磊破冰驿站跻身双11带货榜前10",
+        "onboard_time": 1731342377,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82058,
+        "num": 82058,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79915,
+        "num": 79915,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 79892,
+        "word": "林虞爸爸 妙妙子期都是谁啊",
+        "onboard_time": 1731333199,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98795,
+        "num": 79676,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96339,
+        "num": 79660,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118933,
+        "num": 79453,
+        "word": "报警后仍遭家暴踢踹女子发声",
+        "onboard_time": 1731335541,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96264,
+        "num": 79311,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79306,
+        "num": 79306,
+        "word": "冷冻馒头超过两天会长黄曲霉素",
+        "onboard_time": 1731330199,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74993,
+        "num": 74993,
+        "word": "EDG芜湖起飞",
+        "onboard_time": 1731335482,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74071,
+        "num": 74071,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 70176,
+        "num": 70176,
+        "word": "多个商家账号改名为晓华隔壁",
+        "onboard_time": 1731337281,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 67688,
+        "num": 67688,
+        "word": "抗癌男子筹款5天后晒新房照",
+        "onboard_time": 1731331820,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60862,
+        "num": 60862,
+        "word": "直击航展现场",
+        "onboard_time": 1731321139,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 59357,
+        "num": 59357,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57989,
+        "num": 57989,
+        "word": "张艺谋说对电影解说短视频很无语",
+        "onboard_time": 1731323658,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56133,
+        "num": 56133,
+        "word": "虞书欣好辣",
+        "onboard_time": 1731313939,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55461,
+        "num": 55461,
+        "word": "祝绪丹 闫妮赛道嫡长女",
+        "onboard_time": 1731333199,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55062,
+        "num": 55062,
+        "word": "2024年还剩50天",
+        "onboard_time": 1731330019,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54655,
+        "num": 54655,
+        "word": "慕声你是妙妙",
+        "onboard_time": 1731342197,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53358,
+        "num": 53358,
+        "word": "62岁传奇与26岁新星同框了",
+        "onboard_time": 1731343732,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 51581,
+        "num": 51581,
+        "word": "失笑站内热度破21000",
+        "onboard_time": 1731341480,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49129,
+        "num": 49129,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1731329119,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48045,
+        "num": 48045,
+        "word": "戚薇回应粉钻漏掉薛之谦",
+        "onboard_time": 1731337400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47801,
+        "num": 47801,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 45774,
+        "num": 45774,
+        "word": "顺产妈妈用错力致整脸肿胀",
+        "onboard_time": 1731345134,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45092,
+        "num": 45092,
+        "word": "官方再次回应万安县95后女干部提拔副科",
+        "onboard_time": 1731333981,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43147,
+        "num": 43147,
+        "word": "温峥嵘回复慕声赵若失哭对比图",
+        "onboard_time": 1731341957,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39932,
+        "num": 43067,
+        "word": "东方甄选交个朋友掉出双11带货前10",
+        "onboard_time": 1731336740,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39925,
+        "num": 43033,
+        "word": "双十一什么也没有买的人",
+        "onboard_time": 1731332900,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38952,
+        "num": 42946,
+        "word": "关晓彤画的庄筱婷林栋哲",
+        "onboard_time": 1731339559,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38588,
+        "num": 42836,
+        "word": "鹏飞演技太好了",
+        "onboard_time": 1731332601,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38038,
+        "num": 42778,
+        "word": "郭敬明画皮改名",
+        "onboard_time": 1731335361,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根亚太建设亚太造福亚太#"
+    }
+  }
+}
