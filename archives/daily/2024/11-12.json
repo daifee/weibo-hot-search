@@ -1,10 +1,10 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731342500996,
+  "endTime": 1731343409234,
   "band_list": [
     {
-      "raw_hot": 961263,
-      "num": 961263,
+      "raw_hot": 1184250,
+      "num": 1184250,
       "word": "原来双11最后一天才是最划算的",
       "onboard_time": 1731340457,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 310330,
+      "num": 310330,
+      "word": "新疆沙漠发现罕见长耳跳鼠",
+      "onboard_time": 1731339798,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293041,
       "num": 293041,
       "word": "麦琳退掉的汉服",
@@ -137,6 +145,14 @@
       "onboard_time": 1731327500,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190631,
+      "num": 111575,
+      "word": "唐梓回应跟丁禹兮长得像",
+      "onboard_time": 1731342976,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 185810,
@@ -227,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102986,
-      "num": 141911,
-      "word": "新疆沙漠发现罕见长耳跳鼠",
-      "onboard_time": 1731339798,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102624,
       "num": 102624,
       "word": "直击航展现场",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73567,
+      "num": 73567,
+      "word": "关晓彤画的庄筱婷林栋哲",
+      "onboard_time": 1731339559,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71874,
       "num": 71874,
       "word": "官方再次回应万安县95后女干部提拔副科",
@@ -363,8 +379,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67560,
-      "num": 67560,
+      "raw_hot": 68814,
+      "num": 68814,
       "word": "张艺谋说对电影解说短视频很无语",
       "onboard_time": 1731323658,
       "rank": 48,
@@ -379,12 +395,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42811,
-      "num": 112666,
+      "raw_hot": 64073,
+      "num": 64073,
+      "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+      "onboard_time": 1731342917,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55275,
+      "num": 55275,
+      "word": "王源将录制你好星期六",
+      "onboard_time": 1731340638,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44881,
+      "num": 113418,
       "word": "蔡磊破冰驿站跻身双11带货榜前10",
       "onboard_time": 1731342377,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32083,
+      "num": 108818,
+      "word": "发型师晓华回应同行质疑",
+      "onboard_time": 1731343217,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 30479,
@@ -393,11 +433,22 @@
       "onboard_time": 1731341957,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6528,
+      "num": 449744,
+      "word": "一组图带你看懂COP29",
+      "onboard_time": 1731328159,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#扎根亚太建设亚太造福亚太#"
+    },
+    {
+      "word": "#习近平复信巴西各界友好人士#"
     }
   ]
 }
