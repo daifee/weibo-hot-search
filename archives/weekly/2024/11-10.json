@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731349744938,
+  "endTime": 1731350553812,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -6787,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25040,
+      "num": 64126,
+      "word": "起猛了以为新疆沙漠有动物园",
+      "onboard_time": 1731348793,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25034,
       "num": 26592,
       "word": "周震南正是最纯饿的年纪",
@@ -7051,12 +7059,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17533,
-      "num": 64126,
-      "word": "起猛了以为新疆沙漠有动物园",
-      "onboard_time": 1731348793,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 18090,
+      "num": 22203,
+      "word": "权志龙仿妆",
+      "onboard_time": 1731350413,
+      "rank": 46,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 17279,
