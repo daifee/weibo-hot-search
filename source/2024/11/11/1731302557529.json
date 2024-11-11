@@ -1,0 +1,410 @@
+{
+  "runTime": 1731302557529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1502845,
+        "num": 1502845,
+        "word": "沈月 又不是我们先开始的",
+        "onboard_time": 1731299839,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 876951,
+        "num": 876951,
+        "word": "美国大选后多地非洲裔收到摘棉花短信",
+        "onboard_time": 1731288019,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22480,
+        "num": 770604,
+        "word": "祝人民空军75周岁生日快乐",
+        "onboard_time": 1731299179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741485,
+        "num": 741485,
+        "word": "网友翻出16年晓华理发店照片",
+        "onboard_time": 1731282917,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541449,
+        "num": 541449,
+        "word": "以色列要求公民国外旅行避免表明身份",
+        "onboard_time": 1731298879,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 540925,
+        "num": 540925,
+        "word": "心动的信号",
+        "onboard_time": 1731299119,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436609,
+        "num": 436609,
+        "word": "坚决纠正幼儿园小学化等行为",
+        "onboard_time": 1731295878,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 411681,
+        "num": 411681,
+        "word": "尹子维妈妈曾是邵氏十二金钗之一",
+        "onboard_time": 1731297439,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384850,
+        "num": 384850,
+        "word": "顾客从韩国飞来找晓华剪头发",
+        "onboard_time": 1731290839,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24471,
+        "num": 363975,
+        "word": "竞业限制补少赔多公平吗",
+        "onboard_time": 1731301519,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615841,
+        "num": 363531,
+        "word": "男孩被老师拎到讲台狂扇20多巴掌",
+        "onboard_time": 1731293358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362426,
+        "num": 362426,
+        "word": "中国造出机器狼群兵器",
+        "onboard_time": 1731299539,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 319466,
+        "num": 319466,
+        "word": "麦琳吵架逻辑",
+        "onboard_time": 1731292697,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319356,
+        "num": 319356,
+        "word": "丁禹兮拼了一个慕声两个妙妙",
+        "onboard_time": 1731294197,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32485,
+        "num": 318675,
+        "word": "直播带货工厂直发有多少是真的",
+        "onboard_time": 1731301639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318481,
+        "num": 318481,
+        "word": "幼儿园招聘需做背景查询",
+        "onboard_time": 1731294438,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317636,
+        "num": 317636,
+        "word": "成都混团世界杯名单出炉",
+        "onboard_time": 1731299179,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305815,
+        "num": 305815,
+        "word": "赵丽颖雁背斜阳",
+        "onboard_time": 1731300199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300992,
+        "num": 300992,
+        "word": "肖战新专辑末日风预告",
+        "onboard_time": 1731299899,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271628,
+        "num": 271628,
+        "word": "华晨宇给特殊粉丝提供最佳视角",
+        "onboard_time": 1731301040,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 643876,
+        "num": 270540,
+        "word": "女子遭家暴婆婆抱孩子站一旁",
+        "onboard_time": 1731294919,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534895,
+        "num": 269542,
+        "word": "男子刷情人的卡向妻子转账13万",
+        "onboard_time": 1731296719,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267910,
+        "num": 267910,
+        "word": "贵女",
+        "onboard_time": 1731300801,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253672,
+        "num": 253672,
+        "word": "学校称体罚男孩老师系合同工",
+        "onboard_time": 1731300919,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204804,
+        "num": 253090,
+        "word": "丁禹兮慕声是349%的喜欢",
+        "onboard_time": 1731302419,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252874,
+        "num": 252874,
+        "word": "中国野猪致害省份多达26个",
+        "onboard_time": 1731298038,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237080,
+        "num": 237080,
+        "word": "只有庄桦林儿子不能这样说",
+        "onboard_time": 1731298879,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220122,
+        "num": 220122,
+        "word": "律师谈赵露思工作室被指抄袭",
+        "onboard_time": 1731292938,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218761,
+        "num": 218761,
+        "word": "公职人员收间谍100多万被判无期徒刑",
+        "onboard_time": 1731301399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213064,
+        "num": 213064,
+        "word": "慕声 小狗",
+        "onboard_time": 1731297978,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703641,
+        "num": 212980,
+        "word": "支付宝回应付款异常",
+        "onboard_time": 1731296778,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212869,
+        "num": 212869,
+        "word": "年轻人狂刷74岁爷爷视频恶补知识点",
+        "onboard_time": 1731290897,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159507,
+        "num": 205938,
+        "word": "刘宇宁回应拿小狗练台词",
+        "onboard_time": 1731301819,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163180,
+        "num": 203531,
+        "word": "在别的综艺窒息 在出发救命",
+        "onboard_time": 1731301339,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202391,
+        "num": 202391,
+        "word": "枭起青壤",
+        "onboard_time": 1731301880,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188613,
+        "num": 188613,
+        "word": "我勤勤恳恳赚钱为啥越来越穷",
+        "onboard_time": 1731293897,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176487,
+        "num": 176487,
+        "word": "这才叫化妆师",
+        "onboard_time": 1731299839,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "袁一琦回应摘掉SNH48前缀能否出圈",
+        "onboard_time": 1731301639,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171443,
+        "num": 171443,
+        "word": "Doinb和Tian疑似和解",
+        "onboard_time": 1731298399,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162933,
+        "num": 162933,
+        "word": "医院病理室主任酒后值班被免职",
+        "onboard_time": 1731300919,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 162127,
+        "num": 162127,
+        "word": "比起牺牲更希望父母有自己的人生",
+        "onboard_time": 1731301819,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158957,
+        "num": 158957,
+        "word": "大奉打更人",
+        "onboard_time": 1731291678,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156402,
+        "num": 156402,
+        "word": "宋亚轩 邪恶萨摩耶",
+        "onboard_time": 1731297499,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155054,
+        "num": 155054,
+        "word": "高雅cp售后被删",
+        "onboard_time": 1731302419,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151767,
+        "num": 151767,
+        "word": "湖人大胜猛龙",
+        "onboard_time": 1731302239,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144589,
+        "num": 144589,
+        "word": "用鸡柳骗回家的小狗1年的变化",
+        "onboard_time": 1731302358,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144344,
+        "num": 144344,
+        "word": "晓华回应有网红公司找她签约",
+        "onboard_time": 1731299719,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137431,
+        "num": 137431,
+        "word": "齐思钧给吴泽林录了直拍",
+        "onboard_time": 1731301579,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136829,
+        "num": 136829,
+        "word": "加沙孩子睡在妈妈坟墓上",
+        "onboard_time": 1731292518,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136095,
+        "num": 136095,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}

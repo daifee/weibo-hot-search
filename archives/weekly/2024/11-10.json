@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731300062485,
+  "endTime": 1731302557529,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -97,6 +97,14 @@
       "onboard_time": 1731165080,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1502845,
+      "num": 1502845,
+      "word": "沈月 又不是我们先开始的",
+      "onboard_time": 1731299839,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 1495078,
@@ -683,6 +691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541449,
+      "num": 541449,
+      "word": "以色列要求公民国外旅行避免表明身份",
+      "onboard_time": 1731298879,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 540925,
+      "num": 540925,
+      "word": "心动的信号",
+      "onboard_time": 1731299119,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534293,
       "num": 534293,
       "word": "丁禹兮做拼豆",
@@ -817,14 +841,6 @@
       "onboard_time": 1731216259,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 475569,
-      "num": 475569,
-      "word": "心动的信号",
-      "onboard_time": 1731299119,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 474513,
@@ -1083,6 +1099,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 362426,
+      "num": 362426,
+      "word": "中国造出机器狼群兵器",
+      "onboard_time": 1731299539,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 362121,
       "num": 362121,
       "word": "日本石破内阁仅存在一个多月",
@@ -1267,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305815,
+      "num": 305815,
+      "word": "赵丽颖雁背斜阳",
+      "onboard_time": 1731300199,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302804,
       "num": 302804,
       "word": "张韶涵回应郑钦文赛前听欧若拉",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1731251421,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300992,
+      "num": 300992,
+      "word": "肖战新专辑末日风预告",
+      "onboard_time": 1731299899,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 300139,
@@ -1419,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271628,
+      "num": 271628,
+      "word": "华晨宇给特殊粉丝提供最佳视角",
+      "onboard_time": 1731301040,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -1435,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267910,
+      "num": 267910,
+      "word": "贵女",
+      "onboard_time": 1731300801,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266172,
       "num": 266172,
       "word": "白桃星座",
@@ -1449,14 +1505,6 @@
       "onboard_time": 1731237319,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 265208,
-      "num": 388194,
-      "word": "以色列要求公民国外旅行避免表明身份",
-      "onboard_time": 1731298879,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 263950,
@@ -1537,6 +1585,22 @@
       "onboard_time": 1731156438,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 253672,
+      "num": 253672,
+      "word": "学校称体罚男孩老师系合同工",
+      "onboard_time": 1731300919,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252874,
+      "num": 431742,
+      "word": "中国野猪致害省份多达26个",
+      "onboard_time": 1731298038,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252835,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1731296359,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 238778,
-      "num": 238778,
-      "word": "肖战新专辑末日风预告",
-      "onboard_time": 1731299899,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 237328,
@@ -1768,6 +1824,14 @@
       "word": "男童因妈妈限制吃零食想跟爸爸",
       "onboard_time": 1731210438,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218761,
+      "num": 218761,
+      "word": "公职人员收间谍100多万被判无期徒刑",
+      "onboard_time": 1731301399,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1955,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204804,
+      "num": 253090,
+      "word": "丁禹兮慕声是349%的喜欢",
+      "onboard_time": 1731302419,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204280,
       "num": 204280,
       "word": "鞠婧祎红昭愿名场面一眼万年",
@@ -2033,6 +2105,14 @@
       "onboard_time": 1731293658,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202391,
+      "num": 202391,
+      "word": "枭起青壤",
+      "onboard_time": 1731301880,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202175,
@@ -2275,14 +2355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187172,
-      "num": 187172,
-      "word": "沈月 又不是我们先开始的",
-      "onboard_time": 1731299839,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
@@ -2427,14 +2499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178860,
-      "num": 178860,
-      "word": "中国造出机器狼群兵器",
-      "onboard_time": 1731299539,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 178547,
       "num": 187899,
       "word": "于正下一部剧男女主人设",
@@ -2473,6 +2537,14 @@
       "onboard_time": 1731212359,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176487,
+      "num": 176487,
+      "word": "这才叫化妆师",
+      "onboard_time": 1731299839,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 176468,
@@ -2529,6 +2601,14 @@
       "onboard_time": 1731215058,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173357,
+      "num": 173357,
+      "word": "袁一琦回应摘掉SNH48前缀能否出圈",
+      "onboard_time": 1731301639,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 172946,
@@ -2707,12 +2787,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163180,
+      "num": 203531,
+      "word": "在别的综艺窒息 在出发救命",
+      "onboard_time": 1731301339,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162933,
+      "num": 162933,
+      "word": "医院病理室主任酒后值班被免职",
+      "onboard_time": 1731300919,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "巴基斯坦爆炸发生时站台旅客很多",
       "onboard_time": 1731178692,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 162127,
+      "num": 162127,
+      "word": "比起牺牲更希望父母有自己的人生",
+      "onboard_time": 1731301819,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 162014,
@@ -2769,6 +2873,14 @@
       "onboard_time": 1731233477,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159507,
+      "num": 205938,
+      "word": "刘宇宁回应拿小狗练台词",
+      "onboard_time": 1731301819,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 158298,
@@ -2859,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155054,
+      "num": 155054,
+      "word": "高雅cp售后被删",
+      "onboard_time": 1731302419,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154908,
       "num": 154908,
       "word": "时代少年团二开",
@@ -2923,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151767,
+      "num": 151767,
+      "word": "湖人大胜猛龙",
+      "onboard_time": 1731302239,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151051,
       "num": 151051,
       "word": "中国扎染每次打开都是开盲盒的惊喜",
@@ -2979,14 +3107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147699,
-      "num": 147699,
-      "word": "这才叫化妆师",
-      "onboard_time": 1731299839,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
@@ -3017,6 +3137,14 @@
       "onboard_time": 1731219861,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 144589,
+      "num": 144589,
+      "word": "用鸡柳骗回家的小狗1年的变化",
+      "onboard_time": 1731302358,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 144320,
@@ -3171,6 +3299,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 137431,
+      "num": 137431,
+      "word": "齐思钧给吴泽林录了直拍",
+      "onboard_time": 1731301579,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137038,
       "num": 137038,
       "word": "中国排面看一次震撼一次",
@@ -3296,14 +3432,6 @@
       "word": "古巴地区6.8级地震",
       "onboard_time": 1731289038,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127614,
-      "num": 431742,
-      "word": "中国野猪致害省份多达26个",
-      "onboard_time": 1731298038,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4595,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32485,
+      "num": 318675,
+      "word": "直播带货工厂直发有多少是真的",
+      "onboard_time": 1731301639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31764,
       "num": 162573,
       "word": "巴基斯坦火车站爆炸死亡人数升至25人",
@@ -4716,7 +4852,7 @@
     },
     {
       "raw_hot": 25145,
-      "num": 667036,
+      "num": 770604,
       "word": "祝人民空军75周岁生日快乐",
       "onboard_time": 1731299179,
       "rank": 2,
@@ -4737,6 +4873,14 @@
       "onboard_time": 1731261553,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24471,
+      "num": 363975,
+      "word": "竞业限制补少赔多公平吗",
+      "onboard_time": 1731301519,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23954,
