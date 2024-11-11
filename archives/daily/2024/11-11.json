@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731293574501,
+  "endTime": 1731294128694,
   "band_list": [
     {
       "raw_hot": 2799489,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397473,
+      "num": 397473,
+      "word": "大奉打更人",
+      "onboard_time": 1731291678,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388168,
       "num": 461472,
       "word": "警方通报女子被家暴报警后仍遭踢踹",
@@ -224,14 +232,6 @@
       "word": "费启鸣 请苍天辨忠奸",
       "onboard_time": 1731242960,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 367665,
-      "num": 367665,
-      "word": "大奉打更人",
-      "onboard_time": 1731291678,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -259,12 +259,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329581,
+      "num": 329581,
+      "word": "麦琳吵架逻辑",
+      "onboard_time": 1731292697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
       "onboard_time": 1731253819,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321993,
+      "num": 321993,
+      "word": "吴泽林为芒果付出太多了",
+      "onboard_time": 1731291079,
+      "rank": 12,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 315167,
+      "num": 148579,
+      "word": "律师谈赵露思工作室被指抄袭",
+      "onboard_time": 1731292938,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 309483,
@@ -315,14 +339,6 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 283095,
-      "num": 283095,
-      "word": "吴泽林为芒果付出太多了",
-      "onboard_time": 1731291079,
-      "rank": 12,
-      "category": "综艺,互联网"
-    },
-    {
       "raw_hot": 274799,
       "num": 274799,
       "word": "美国多州欲立法抵制特朗普施政",
@@ -363,20 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240383,
-      "num": 143105,
-      "word": "律师谈赵露思工作室被指抄袭",
-      "onboard_time": 1731292938,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 239815,
-      "num": 239815,
-      "word": "麦琳吵架逻辑",
-      "onboard_time": 1731292697,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 239963,
+      "num": 270735,
+      "word": "日本石破内阁仅存在一个多月",
+      "onboard_time": 1731291618,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 228813,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210568,
+      "num": 210568,
+      "word": "蒋敦豪对阿条姐说下次见",
+      "onboard_time": 1731292218,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 209798,
       "num": 201644,
       "word": "何炅欢迎谢娜回家",
@@ -449,6 +465,14 @@
       "onboard_time": 1731238099,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202478,
+      "num": 202478,
+      "word": "奔跑吧茶马古道篇定档",
+      "onboard_time": 1731293658,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 200618,
@@ -515,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187831,
+      "num": 187831,
+      "word": "男孩被老师拎到讲台狂扇20多巴掌",
+      "onboard_time": 1731293358,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183751,
       "num": 183751,
       "word": "美43只在逃实验猴捉回一只",
@@ -529,14 +561,6 @@
       "onboard_time": 1731285018,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183597,
-      "num": 270735,
-      "word": "日本石破内阁仅存在一个多月",
-      "onboard_time": 1731291618,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 183102,
@@ -579,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166704,
+      "num": 166704,
+      "word": "加沙孩子睡在妈妈坟墓上",
+      "onboard_time": 1731292518,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160160,
       "num": 160160,
       "word": "国安公布涉密人员失泄密案件",
@@ -609,14 +641,6 @@
       "onboard_time": 1731251481,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150219,
-      "num": 150219,
-      "word": "加沙孩子睡在妈妈坟墓上",
-      "onboard_time": 1731292518,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149531,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127791,
+      "num": 127791,
+      "word": "国内最小白血病患儿成功移植",
+      "onboard_time": 1731293839,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126769,
       "num": 126769,
       "word": "塔图姆回应字母哥垫脚",
@@ -785,22 +817,6 @@
       "onboard_time": 1731252798,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123631,
-      "num": 123631,
-      "word": "蒋敦豪对阿条姐说下次见",
-      "onboard_time": 1731292218,
-      "rank": 38,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 123599,
-      "num": 123599,
-      "word": "男孩被老师拎到讲台狂扇20多巴掌",
-      "onboard_time": 1731293358,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119627,
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111581,
+      "num": 111581,
+      "word": "优酸乳 虞书欣",
+      "onboard_time": 1731294020,
+      "rank": 41,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 109087,
       "num": 109087,
       "word": "张真源眼镜造型killing",
@@ -875,6 +899,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107848,
+      "num": 107848,
+      "word": "勇士战胜雷霆",
+      "onboard_time": 1731293839,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107074,
+      "num": 107074,
+      "word": "75年一路走来的空军英模部队",
+      "onboard_time": 1731293538,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 105322,
       "num": 105322,
       "word": "这里是中国黄岩岛海域",
@@ -883,12 +923,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102696,
-      "num": 102696,
-      "word": "75年一路走来的空军英模部队",
-      "onboard_time": 1731293538,
-      "rank": 46,
-      "category": "军事"
+      "raw_hot": 104061,
+      "num": 104061,
+      "word": "库里36分",
+      "onboard_time": 1731294020,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102219,
+      "num": 102219,
+      "word": "大鹏说王一博拍热烈时代号小土狗",
+      "onboard_time": 1731293958,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 99772,
+      "num": 99772,
+      "word": "女子试岗被要求陪睡涉事公司也该担责",
+      "onboard_time": 1731293778,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97749,
@@ -1067,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26415,
+      "num": 349980,
+      "word": "A股成交连续29个交易日破1万亿",
+      "onboard_time": 1731293839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24583,
       "num": 37654,
       "word": "这是我们的黄岩岛",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1731264911,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12995,
+      "num": 113454,
+      "word": "山东旅游攻略Nextlevel",
+      "onboard_time": 1731294020,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 12380,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731293574501,
+  "endTime": 1731294128694,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -883,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397473,
+      "num": 397473,
+      "word": "大奉打更人",
+      "onboard_time": 1731291678,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "郑钦文WTA总决赛亚军",
@@ -945,14 +953,6 @@
       "onboard_time": 1731209657,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367665,
-      "num": 367665,
-      "word": "大奉打更人",
-      "onboard_time": 1731291678,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 366866,
@@ -1075,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329581,
+      "num": 329581,
+      "word": "麦琳吵架逻辑",
+      "onboard_time": 1731292697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
@@ -1107,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321993,
+      "num": 321993,
+      "word": "吴泽林为芒果付出太多了",
+      "onboard_time": 1731291079,
+      "rank": 12,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 319934,
       "num": 306515,
       "word": "24岁女生剃头180天后的变化",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1731248120,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 315167,
+      "num": 148579,
+      "word": "律师谈赵露思工作室被指抄袭",
+      "onboard_time": 1731292938,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 311415,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1731218720,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283095,
-      "num": 283095,
-      "word": "吴泽林为芒果付出太多了",
-      "onboard_time": 1731291079,
-      "rank": 12,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 282674,
@@ -1467,20 +1483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240383,
-      "num": 143105,
-      "word": "律师谈赵露思工作室被指抄袭",
-      "onboard_time": 1731292938,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 239815,
-      "num": 239815,
-      "word": "麦琳吵架逻辑",
-      "onboard_time": 1731292697,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 239963,
+      "num": 270735,
+      "word": "日本石破内阁仅存在一个多月",
+      "onboard_time": 1731291618,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 238892,
@@ -1707,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210568,
+      "num": 210568,
+      "word": "蒋敦豪对阿条姐说下次见",
+      "onboard_time": 1731292218,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 210484,
       "num": 210484,
       "word": "年轻人不再局限于传统相亲",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1731209717,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202478,
+      "num": 202478,
+      "word": "奔跑吧茶马古道篇定档",
+      "onboard_time": 1731293658,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 202175,
@@ -2059,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187831,
+      "num": 187831,
+      "word": "男孩被老师拎到讲台狂扇20多巴掌",
+      "onboard_time": 1731293358,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
@@ -2097,14 +2129,6 @@
       "onboard_time": 1731285018,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183597,
-      "num": 270735,
-      "word": "日本石破内阁仅存在一个多月",
-      "onboard_time": 1731291618,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 183102,
@@ -2403,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166704,
+      "num": 166704,
+      "word": "加沙孩子睡在妈妈坟墓上",
+      "onboard_time": 1731292518,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166087,
       "num": 166087,
       "word": "Rookie白色月牙谈iG重组",
@@ -2633,14 +2665,6 @@
       "onboard_time": 1731243560,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 150219,
-      "num": 150219,
-      "word": "加沙孩子睡在妈妈坟墓上",
-      "onboard_time": 1731292518,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149567,
@@ -2963,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127791,
+      "num": 127791,
+      "word": "国内最小白血病患儿成功移植",
+      "onboard_time": 1731293839,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126769,
       "num": 126769,
       "word": "塔图姆回应字母哥垫脚",
@@ -3041,22 +3073,6 @@
       "onboard_time": 1731241459,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123631,
-      "num": 123631,
-      "word": "蒋敦豪对阿条姐说下次见",
-      "onboard_time": 1731292218,
-      "rank": 38,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 123599,
-      "num": 123599,
-      "word": "男孩被老师拎到讲台狂扇20多巴掌",
-      "onboard_time": 1731293358,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120959,
@@ -3195,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111581,
+      "num": 111581,
+      "word": "优酸乳 虞书欣",
+      "onboard_time": 1731294020,
+      "rank": 41,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 110924,
       "num": 110924,
       "word": "建议每个恐华症的人都到中国看看",
@@ -3235,12 +3259,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107848,
+      "num": 107848,
+      "word": "勇士战胜雷霆",
+      "onboard_time": 1731293839,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107245,
       "num": 180831,
       "word": "人民空军75载搏击长空",
       "onboard_time": 1731213498,
       "rank": 49,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 107074,
+      "num": 107074,
+      "word": "75年一路走来的空军英模部队",
+      "onboard_time": 1731293538,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 106617,
@@ -3265,6 +3305,14 @@
       "onboard_time": 1731213197,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104061,
+      "num": 104061,
+      "word": "库里36分",
+      "onboard_time": 1731294020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 103920,
@@ -3299,14 +3347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102696,
-      "num": 102696,
-      "word": "75年一路走来的空军英模部队",
-      "onboard_time": 1731293538,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 102611,
       "num": 102611,
       "word": "戚薇时代少年团合作",
@@ -3329,6 +3369,14 @@
       "onboard_time": 1731226820,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102219,
+      "num": 102219,
+      "word": "大鹏说王一博拍热烈时代号小土狗",
+      "onboard_time": 1731293958,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 101938,
@@ -3369,6 +3417,14 @@
       "onboard_time": 1731220520,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 99772,
+      "num": 99772,
+      "word": "女子试岗被要求陪睡涉事公司也该担责",
+      "onboard_time": 1731293778,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98030,
@@ -4211,6 +4267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26415,
+      "num": 349980,
+      "word": "A股成交连续29个交易日破1万亿",
+      "onboard_time": 1731293839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25578,
       "num": 133727,
       "word": "郑钦文追平亚洲球员最好成绩",
@@ -4529,6 +4593,14 @@
       "onboard_time": 1731252618,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12995,
+      "num": 113454,
+      "word": "山东旅游攻略Nextlevel",
+      "onboard_time": 1731294020,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 12380,

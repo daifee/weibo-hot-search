@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731293574501,
+  "endTime": 1731294128694,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -8083,6 +8083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397473,
+      "num": 397473,
+      "word": "大奉打更人",
+      "onboard_time": 1731291678,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396277,
       "num": 396277,
       "word": "王鹤棣邀请何老师参加桃花坞",
@@ -8625,14 +8633,6 @@
       "onboard_time": 1730895741,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367665,
-      "num": 367665,
-      "word": "大奉打更人",
-      "onboard_time": 1731291678,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 367606,
@@ -9491,6 +9491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329581,
+      "num": 329581,
+      "word": "麦琳吵架逻辑",
+      "onboard_time": 1731292697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328188,
       "num": 340957,
       "word": "神舟十八号航天员平安抵京",
@@ -9633,6 +9641,14 @@
       "onboard_time": 1730812884,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321993,
+      "num": 321993,
+      "word": "吴泽林为芒果付出太多了",
+      "onboard_time": 1731291079,
+      "rank": 12,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 321254,
@@ -9793,6 +9809,14 @@
       "onboard_time": 1730888784,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315167,
+      "num": 148579,
+      "word": "律师谈赵露思工作室被指抄袭",
+      "onboard_time": 1731292938,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 314072,
@@ -10649,14 +10673,6 @@
       "onboard_time": 1731045259,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283095,
-      "num": 283095,
-      "word": "吴泽林为芒果付出太多了",
-      "onboard_time": 1731291079,
-      "rank": 12,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 283053,
@@ -12147,14 +12163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240383,
-      "num": 143105,
-      "word": "律师谈赵露思工作室被指抄袭",
-      "onboard_time": 1731292938,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240365,
       "num": 316651,
       "word": "珠帘玉幕",
@@ -12195,6 +12203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239963,
+      "num": 270735,
+      "word": "日本石破内阁仅存在一个多月",
+      "onboard_time": 1731291618,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 239856,
       "num": 239856,
       "word": "杨洋新造型梦回于途",
@@ -12209,14 +12225,6 @@
       "onboard_time": 1731053240,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239815,
-      "num": 239815,
-      "word": "麦琳吵架逻辑",
-      "onboard_time": 1731292697,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 239372,
@@ -13587,6 +13595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210568,
+      "num": 210568,
+      "word": "蒋敦豪对阿条姐说下次见",
+      "onboard_time": 1731292218,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 210484,
       "num": 210484,
       "word": "年轻人不再局限于传统相亲",
@@ -14369,6 +14385,14 @@
       "onboard_time": 1731209717,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202478,
+      "num": 202478,
+      "word": "奔跑吧茶马古道篇定档",
+      "onboard_time": 1731293658,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 202475,
@@ -16011,6 +16035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187831,
+      "num": 187831,
+      "word": "男孩被老师拎到讲台狂扇20多巴掌",
+      "onboard_time": 1731293358,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "羊绒衫为啥这么贵",
@@ -16385,14 +16417,6 @@
       "onboard_time": 1731285018,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183597,
-      "num": 270735,
-      "word": "日本石破内阁仅存在一个多月",
-      "onboard_time": 1731291618,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 183521,
@@ -18105,6 +18129,14 @@
       "onboard_time": 1731127219,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166704,
+      "num": 166704,
+      "word": "加沙孩子睡在妈妈坟墓上",
+      "onboard_time": 1731292518,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166636,
@@ -19945,14 +19977,6 @@
       "onboard_time": 1731243560,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 150219,
-      "num": 150219,
-      "word": "加沙孩子睡在妈妈坟墓上",
-      "onboard_time": 1731292518,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150214,
@@ -22435,6 +22459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127791,
+      "num": 127791,
+      "word": "国内最小白血病患儿成功移植",
+      "onboard_time": 1731293839,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127728,
       "num": 331942,
       "word": "周柯宇直播",
@@ -22961,22 +22993,6 @@
       "onboard_time": 1730626878,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123631,
-      "num": 123631,
-      "word": "蒋敦豪对阿条姐说下次见",
-      "onboard_time": 1731292218,
-      "rank": 38,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 123599,
-      "num": 123599,
-      "word": "男孩被老师拎到讲台狂扇20多巴掌",
-      "onboard_time": 1731293358,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123561,
@@ -24147,6 +24163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111581,
+      "num": 111581,
+      "word": "优酸乳 虞书欣",
+      "onboard_time": 1731294020,
+      "rank": 41,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 111564,
       "num": 111564,
       "word": "陈都灵潇因出场",
@@ -24499,6 +24523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107848,
+      "num": 107848,
+      "word": "勇士战胜雷霆",
+      "onboard_time": 1731293839,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107801,
       "num": 107801,
       "word": "汪汪队是怎样炼成的",
@@ -24569,6 +24601,14 @@
       "onboard_time": 1730983942,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107074,
+      "num": 107074,
+      "word": "75年一路走来的空军英模部队",
+      "onboard_time": 1731293538,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 107062,
@@ -24811,6 +24851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 104061,
+      "num": 104061,
+      "word": "库里36分",
+      "onboard_time": 1731294020,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103920,
       "num": 103920,
       "word": "昆明震感",
@@ -24947,14 +24995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102696,
-      "num": 102696,
-      "word": "75年一路走来的空军英模部队",
-      "onboard_time": 1731293538,
-      "rank": 46,
-      "category": "军事"
-    },
-    {
       "raw_hot": 102591,
       "num": 102591,
       "word": "郑钦文伸手接金色彩带",
@@ -24985,6 +25025,14 @@
       "onboard_time": 1731125960,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102219,
+      "num": 102219,
+      "word": "大鹏说王一博拍热烈时代号小土狗",
+      "onboard_time": 1731293958,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 102167,
@@ -25153,6 +25201,14 @@
       "onboard_time": 1731107114,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99772,
+      "num": 99772,
+      "word": "女子试岗被要求陪睡涉事公司也该担责",
+      "onboard_time": 1731293778,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99739,
@@ -30835,6 +30891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26415,
+      "num": 349980,
+      "word": "A股成交连续29个交易日破1万亿",
+      "onboard_time": 1731293839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26343,
       "num": 28398,
       "word": "夜袭开封",
@@ -32865,6 +32929,14 @@
       "onboard_time": 1730748613,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12995,
+      "num": 113454,
+      "word": "山东旅游攻略Nextlevel",
+      "onboard_time": 1731294020,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 12891,
