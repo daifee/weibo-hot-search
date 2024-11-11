@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731334907774,
+  "endTime": 1731335983733,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -595,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 791912,
+      "num": 791912,
+      "word": "虞书欣更新TikTok",
+      "onboard_time": 1731333081,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784904,
       "num": 290361,
       "word": "女生涂碘伏祛痘3天后效果明显",
@@ -665,6 +673,14 @@
       "onboard_time": 1731284659,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 735314,
+      "num": 735314,
+      "word": "抗癌男子筹款5天后晒新房照",
+      "onboard_time": 1731331820,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730070,
@@ -843,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 622392,
-      "num": 492513,
-      "word": "虞书欣更新TikTok",
-      "onboard_time": 1731333081,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 621097,
       "num": 621097,
       "word": "中国政府就黄岩岛领海基线发表声明",
@@ -883,14 +891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 594582,
-      "num": 594582,
-      "word": "抗癌男子筹款5天后晒新房照",
-      "onboard_time": 1731331820,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593568,
       "num": 593568,
       "word": "尹子维妈妈曾是邵氏十二金钗之一",
@@ -905,6 +905,14 @@
       "onboard_time": 1731209778,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 591460,
+      "num": 507707,
+      "word": "林虞爸爸 妙妙子期都是谁啊",
+      "onboard_time": 1731333199,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 589416,
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525897,
+      "num": 499113,
+      "word": "丁禹兮连女儿名字都想好了",
+      "onboard_time": 1731331339,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516095,
       "num": 516095,
       "word": "我不是林虞 你是妙妙",
@@ -1211,27 +1227,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 474454,
-      "num": 474454,
-      "word": "丁禹兮连女儿名字都想好了",
-      "onboard_time": 1731331339,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 470567,
       "num": 470567,
       "word": "大奉打更人",
       "onboard_time": 1731291678,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 470430,
-      "num": 435610,
-      "word": "林虞爸爸 妙妙子期都是谁啊",
-      "onboard_time": 1731333199,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -1280,6 +1280,14 @@
       "word": "2男子点烤鱼店家杀鱼后偷偷溜走",
       "onboard_time": 1731209478,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451060,
+      "num": 451060,
+      "word": "六问大专学历女干部被提拔副科",
+      "onboard_time": 1731330139,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1371,12 +1379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433394,
-      "num": 433394,
-      "word": "六问大专学历女干部被提拔副科",
-      "onboard_time": 1731330139,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 434521,
+      "num": 434521,
+      "word": "杨幂机场",
+      "onboard_time": 1731331037,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 432525,
@@ -1451,12 +1459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395220,
-      "num": 395220,
-      "word": "杨幂机场",
-      "onboard_time": 1731331037,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 399790,
+      "num": 187487,
+      "word": "发型师晓华爆改乌克兰宝爸",
+      "onboard_time": 1731332780,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 392424,
@@ -1537,14 +1545,6 @@
       "onboard_time": 1731220579,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376160,
-      "num": 187487,
-      "word": "发型师晓华爆改乌克兰宝爸",
-      "onboard_time": 1731332780,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 375803,
@@ -1872,6 +1872,14 @@
       "word": "贵女",
       "onboard_time": 1731300801,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294470,
+      "num": 294470,
+      "word": "祝绪丹 闫妮赛道嫡长女",
+      "onboard_time": 1731333199,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2259,14 +2267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 239212,
-      "num": 187381,
-      "word": "祝绪丹 闫妮赛道嫡长女",
-      "onboard_time": 1731333199,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238892,
       "num": 238892,
       "word": "王艺迪vs张本美和",
@@ -2312,6 +2312,14 @@
       "word": "毓言cp陪看没了",
       "onboard_time": 1731305057,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233011,
+      "num": 170948,
+      "word": "麦琳退掉的汉服",
+      "onboard_time": 1731334880,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -3379,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177174,
+      "num": 435918,
+      "word": "水滴筹回应抗癌男子筹款后晒新房照",
+      "onboard_time": 1731334160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176958,
       "num": 176958,
       "word": "鹏飞演技太好了",
@@ -3683,6 +3699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165845,
+      "num": 165845,
+      "word": "Doinb想让Tian当教练",
+      "onboard_time": 1731334880,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165843,
       "num": 165843,
       "word": "昊龙货运航天飞机演示动画",
@@ -3713,6 +3737,14 @@
       "onboard_time": 1731219380,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164465,
+      "num": 164465,
+      "word": "EDG芜湖起飞",
+      "onboard_time": 1731335482,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 164178,
@@ -3777,6 +3809,14 @@
       "onboard_time": 1731302239,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161640,
+      "num": 161640,
+      "word": "郭敬明画皮改名",
+      "onboard_time": 1731335361,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 161591,
@@ -4299,6 +4339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141860,
+      "num": 141860,
+      "word": "官方再次回应万安县95后女干部提拔副科",
+      "onboard_time": 1731333981,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "毛绒帽真的可以改变脑袋形状",
@@ -4377,14 +4425,6 @@
       "onboard_time": 1731208159,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138489,
-      "num": 138489,
-      "word": "官方再次回应万安县95后女干部提拔副科",
-      "onboard_time": 1731333981,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138457,
@@ -4507,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134438,
-      "num": 134438,
-      "word": "Doinb想让Tian当教练",
-      "onboard_time": 1731334880,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133083,
       "num": 133083,
       "word": "凌妙妙坦白",
@@ -4593,6 +4625,14 @@
       "onboard_time": 1731308898,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 128278,
+      "num": 128278,
+      "word": "子期 东方青苍",
+      "onboard_time": 1731335960,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 128189,
@@ -4771,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120608,
+      "num": 120608,
+      "word": "报警后仍遭家暴踢踹女子发声",
+      "onboard_time": 1731335541,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120292,
       "num": 120292,
       "word": "高中学生会干部索取钱财属实",
@@ -4835,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118282,
+      "num": 118282,
+      "word": "赵远舟好有安全感的一只大妖",
+      "onboard_time": 1731335721,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117494,
       "num": 325452,
       "word": "歼35A高清壁纸来了",
@@ -4873,14 +4929,6 @@
       "onboard_time": 1731211877,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116427,
-      "num": 116427,
-      "word": "麦琳退掉的汉服",
-      "onboard_time": 1731334880,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 116328,
@@ -5297,14 +5345,6 @@
       "onboard_time": 1731202098,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92571,
-      "num": 435918,
-      "word": "水滴筹回应抗癌男子筹款后晒新房照",
-      "onboard_time": 1731334160,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90293,
@@ -6043,6 +6083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44621,
+      "num": 454014,
+      "word": "晓华听得懂话本质是尊重顾客意愿",
+      "onboard_time": 1731335000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44580,
       "num": 153457,
       "word": "好客山东好品山东云端推介",
@@ -6121,6 +6169,14 @@
       "onboard_time": 1731245361,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40993,
+      "num": 166958,
+      "word": "小巷人家 纯爱的杀伤力",
+      "onboard_time": 1731335541,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 40812,
@@ -6905,6 +6961,14 @@
       "onboard_time": 1731270560,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 9797,
+      "num": 201044,
+      "word": "小伙把家乡做成游戏拟登陆steam",
+      "onboard_time": 1731335240,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9139,
