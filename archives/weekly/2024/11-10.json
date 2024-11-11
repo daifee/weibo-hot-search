@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731294128694,
+  "endTime": 1731295634765,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2799489,
-      "num": 168100,
+      "num": 188203,
       "word": "支付宝崩了",
       "onboard_time": 1731290117,
       "rank": 30,
@@ -307,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 843850,
+      "num": 469827,
+      "word": "男孩被老师拎到讲台狂扇20多巴掌",
+      "onboard_time": 1731293358,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823219,
       "num": 823219,
       "word": "内娱又有troublemaker上新",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636003,
+      "num": 173899,
+      "word": "优酸乳 虞书欣",
+      "onboard_time": 1731294020,
+      "rank": 41,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 631686,
       "num": 631686,
       "word": "狼队让三追四",
@@ -497,6 +513,14 @@
       "onboard_time": 1731229819,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 624386,
+      "num": 624386,
+      "word": "律师谈赵露思工作室被指抄袭",
+      "onboard_time": 1731292938,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 621097,
@@ -545,6 +569,14 @@
       "onboard_time": 1731243619,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 583973,
+      "num": 583973,
+      "word": "幼儿园招聘需做背景查询",
+      "onboard_time": 1731294438,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571183,
@@ -747,6 +779,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 470567,
+      "num": 470567,
+      "word": "大奉打更人",
+      "onboard_time": 1731291678,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 469307,
+      "num": 469307,
+      "word": "麦琳吵架逻辑",
+      "onboard_time": 1731292697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466833,
       "num": 466833,
       "word": "黄岩岛是我国固有领土",
@@ -883,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397473,
-      "num": 397473,
-      "word": "大奉打更人",
-      "onboard_time": 1731291678,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "郑钦文WTA总决赛亚军",
@@ -969,6 +1009,22 @@
       "onboard_time": 1731199336,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362516,
+      "num": 362516,
+      "word": "吴泽林为芒果付出太多了",
+      "onboard_time": 1731291079,
+      "rank": 12,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 362121,
+      "num": 362121,
+      "word": "日本石破内阁仅存在一个多月",
+      "onboard_time": 1731291618,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 362032,
@@ -1075,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329581,
-      "num": 329581,
-      "word": "麦琳吵架逻辑",
-      "onboard_time": 1731292697,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
@@ -1115,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321993,
-      "num": 321993,
-      "word": "吴泽林为芒果付出太多了",
-      "onboard_time": 1731291079,
-      "rank": 12,
-      "category": "综艺,互联网"
-    },
-    {
       "raw_hot": 319934,
       "num": 306515,
       "word": "24岁女生剃头180天后的变化",
@@ -1147,14 +1187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 315167,
-      "num": 148579,
-      "word": "律师谈赵露思工作室被指抄袭",
-      "onboard_time": 1731292938,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311415,
       "num": 216482,
       "word": "男性消费力增速不如狗",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1731285139,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 302938,
+      "num": 302938,
+      "word": "女子遭家暴婆婆抱孩子站一旁",
+      "onboard_time": 1731294919,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302804,
@@ -1483,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239963,
-      "num": 270735,
-      "word": "日本石破内阁仅存在一个多月",
-      "onboard_time": 1731291618,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 238892,
       "num": 238892,
       "word": "王艺迪vs张本美和",
@@ -1779,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206497,
+      "num": 206497,
+      "word": "小巷人家庄图南人物特辑",
+      "onboard_time": 1731295457,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206154,
       "num": 246996,
       "word": "尹子维 港式漫画中的人物",
@@ -1793,6 +1833,14 @@
       "onboard_time": 1731222380,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203699,
+      "num": 203699,
+      "word": "加沙孩子睡在妈妈坟墓上",
+      "onboard_time": 1731292518,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203638,
@@ -1873,6 +1921,14 @@
       "onboard_time": 1731156378,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201339,
+      "num": 233527,
+      "word": "看一眼古建筑5000年文明就住心里了",
+      "onboard_time": 1731292878,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200882,
@@ -2035,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192280,
-      "num": 233527,
-      "word": "看一眼古建筑5000年文明就住心里了",
-      "onboard_time": 1731292878,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192222,
       "num": 192222,
       "word": "张杰肌肉",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1731283458,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187831,
-      "num": 187831,
-      "word": "男孩被老师拎到讲台狂扇20多巴掌",
-      "onboard_time": 1731293358,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186348,
@@ -2283,12 +2323,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174836,
+      "num": 171980,
+      "word": "丁禹兮拼了一个慕声两个妙妙",
+      "onboard_time": 1731294197,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174759,
       "num": 174759,
       "word": "郑钦文说输球并不是运气不好",
       "onboard_time": 1731201438,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174569,
+      "num": 174569,
+      "word": "国内最小白血病患儿成功移植",
+      "onboard_time": 1731293839,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173900,
@@ -2425,14 +2481,6 @@
       "onboard_time": 1731292697,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166704,
-      "num": 166704,
-      "word": "加沙孩子睡在妈妈坟墓上",
-      "onboard_time": 1731292518,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166087,
@@ -2691,6 +2739,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 147793,
+      "num": 147793,
+      "word": "教育部解读学前教育法",
+      "onboard_time": 1731295038,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "长期上班一定要多出去旅游",
@@ -2915,6 +2971,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135095,
+      "num": 135095,
+      "word": "永夜星河豆瓣涨至7.7分",
+      "onboard_time": 1731295278,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134303,
+      "num": 339762,
+      "word": "我勤勤恳恳赚钱为啥越来越穷",
+      "onboard_time": 1731293897,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133083,
       "num": 133083,
       "word": "凌妙妙坦白",
@@ -2987,14 +3059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127791,
-      "num": 127791,
-      "word": "国内最小白血病患儿成功移植",
-      "onboard_time": 1731293839,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126769,
       "num": 126769,
       "word": "塔图姆回应字母哥垫脚",
@@ -3051,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124849,
+      "num": 124849,
+      "word": "大米和牛肉咱都放心吃",
+      "onboard_time": 1731294858,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124737,
       "num": 124737,
       "word": "如鸢",
@@ -3075,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123075,
+      "num": 123075,
+      "word": "学前儿童入园不得组织考试",
+      "onboard_time": 1731294977,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120959,
       "num": 120959,
       "word": "好品山东",
@@ -3089,6 +3169,14 @@
       "onboard_time": 1731207497,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120144,
+      "num": 120144,
+      "word": "好东西",
+      "onboard_time": 1731294499,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 119627,
@@ -3209,14 +3297,6 @@
       "onboard_time": 1731292099,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111581,
-      "num": 111581,
-      "word": "优酸乳 虞书欣",
-      "onboard_time": 1731294020,
-      "rank": 41,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 110924,
@@ -3507,6 +3587,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 93807,
+      "num": 188500,
+      "word": "失笑微博追剧团",
+      "onboard_time": 1731295457,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93023,
       "num": 93023,
       "word": "王艺迪说曼昱是非常强的队友",
@@ -3705,6 +3793,14 @@
       "onboard_time": 1731242540,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69340,
+      "num": 272375,
+      "word": "倪妮ELLE12月刊封面",
+      "onboard_time": 1731294679,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 68752,
@@ -3939,6 +4035,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 52539,
+      "num": 153997,
+      "word": "年轻人买黄金也开始看颜值了",
+      "onboard_time": 1731294618,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49903,
       "num": 413360,
       "word": "国乒提前包揽女单冠亚军",
@@ -3977,6 +4081,14 @@
       "onboard_time": 1731227659,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44737,
+      "num": 469916,
+      "word": "A股成交连续29个交易日破1万亿",
+      "onboard_time": 1731293839,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44580,
@@ -4203,6 +4315,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 30383,
+      "num": 110932,
+      "word": "一城一景尽览齐鲁风华",
+      "onboard_time": 1731295578,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29467,
       "num": 246216,
       "word": "大额存单进入1时代",
@@ -4267,12 +4387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26415,
-      "num": 349980,
-      "word": "A股成交连续29个交易日破1万亿",
-      "onboard_time": 1731293839,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 26375,
+      "num": 210747,
+      "word": "京东双11京喜1元大捡漏",
+      "onboard_time": 1731294378,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 25578,
@@ -4499,6 +4619,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 18221,
+      "num": 143268,
+      "word": "山东旅游攻略Nextlevel",
+      "onboard_time": 1731294020,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 18217,
       "num": 20294,
       "word": "狼队对战ksg",
@@ -4593,14 +4721,6 @@
       "onboard_time": 1731252618,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12995,
-      "num": 113454,
-      "word": "山东旅游攻略Nextlevel",
-      "onboard_time": 1731294020,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 12380,
