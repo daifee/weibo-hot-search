@@ -1,0 +1,410 @@
+{
+  "runTime": 1731293574501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369069,
+        "num": 1369069,
+        "word": "美国大选后多地非洲裔收到摘棉花短信",
+        "onboard_time": 1731288019,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1075306,
+        "num": 1075306,
+        "word": "网友翻出16年晓华理发店照片",
+        "onboard_time": 1731282917,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3460,
+        "num": 908862,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874992,
+        "num": 874992,
+        "word": "顾客从韩国飞来找晓华剪头发",
+        "onboard_time": 1731290839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872410,
+        "num": 872410,
+        "word": "女子被丈夫暴打报警后仍遭踢踹",
+        "onboard_time": 1731289278,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748541,
+        "num": 748541,
+        "word": "年轻人狂刷74岁爷爷视频恶补知识点",
+        "onboard_time": 1731290897,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456717,
+        "num": 456717,
+        "word": "丁禹兮做永夜星河拼豆",
+        "onboard_time": 1731287299,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411297,
+        "num": 411297,
+        "word": "张杰脸和身材各长各的",
+        "onboard_time": 1731288858,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388168,
+        "num": 388168,
+        "word": "警方通报女子被家暴报警后仍遭踢踹",
+        "onboard_time": 1731288917,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383415,
+        "num": 383415,
+        "word": "iG",
+        "onboard_time": 1731288438,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 432083,
+        "num": 379417,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367665,
+        "num": 367665,
+        "word": "大奉打更人",
+        "onboard_time": 1731291678,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283095,
+        "num": 283095,
+        "word": "吴泽林为芒果付出太多了",
+        "onboard_time": 1731291079,
+        "rank": 12,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 271508,
+        "num": 271508,
+        "word": "日本举行首相指名选举",
+        "onboard_time": 1731286039,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183597,
+        "num": 270735,
+        "word": "日本石破内阁仅存在一个多月",
+        "onboard_time": 1731291618,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 270697,
+        "num": 270697,
+        "word": "禹宙中欣",
+        "onboard_time": 1731285859,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256469,
+        "num": 256469,
+        "word": "日本石破内阁集体辞职",
+        "onboard_time": 1731284659,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253751,
+        "num": 253751,
+        "word": "李晓华说放假第一件事是在家睡两天",
+        "onboard_time": 1731282917,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 241350,
+        "num": 241350,
+        "word": "闫妮 机械姬",
+        "onboard_time": 1731286640,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239815,
+        "num": 239815,
+        "word": "麦琳吵架逻辑",
+        "onboard_time": 1731292697,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192280,
+        "num": 233527,
+        "word": "看一眼古建筑5000年文明就住心里了",
+        "onboard_time": 1731292878,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291149,
+        "num": 231231,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228408,
+        "num": 228408,
+        "word": "周深回应撞衫大闸蟹",
+        "onboard_time": 1731280577,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198286,
+        "num": 198286,
+        "word": "阿条姐晒十个勤天演唱会照片",
+        "onboard_time": 1731285139,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193166,
+        "num": 193166,
+        "word": "永夜星河木镯子道歉",
+        "onboard_time": 1731290359,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174441,
+        "num": 174441,
+        "word": "章昊和成员们一起看中国电视剧",
+        "onboard_time": 1731289278,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167269,
+        "num": 167269,
+        "word": "勇士vs雷霆",
+        "onboard_time": 1731292697,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150219,
+        "num": 150219,
+        "word": "加沙孩子睡在妈妈坟墓上",
+        "onboard_time": 1731292518,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147201,
+        "num": 147201,
+        "word": "美43只在逃实验猴捉回一只",
+        "onboard_time": 1731257418,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 145557,
+        "word": "男子将8万现金伪装成喜糖寄出",
+        "onboard_time": 1731246199,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2799489,
+        "num": 145327,
+        "word": "支付宝崩了",
+        "onboard_time": 1731290117,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240383,
+        "num": 143105,
+        "word": "律师谈赵露思工作室被指抄袭",
+        "onboard_time": 1731292938,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137773,
+        "num": 137773,
+        "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+        "onboard_time": 1731258015,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126579,
+        "num": 126579,
+        "word": "祝人民空军75岁生日快乐",
+        "onboard_time": 1731283158,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 126305,
+        "num": 126305,
+        "word": "林诗栋奥运后已获5站男单冠军",
+        "onboard_time": 1731288257,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125367,
+        "num": 125367,
+        "word": "字母哥挑衅布朗",
+        "onboard_time": 1731292398,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124701,
+        "num": 124701,
+        "word": "丁禹兮 聋的传人",
+        "onboard_time": 1731286280,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124014,
+        "num": 124014,
+        "word": "泄密后反嘱咐对方千万别外传",
+        "onboard_time": 1731272050,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123631,
+        "num": 123631,
+        "word": "蒋敦豪对阿条姐说下次见",
+        "onboard_time": 1731292218,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 123599,
+        "num": 123599,
+        "word": "男孩被老师拎到讲台狂扇20多巴掌",
+        "onboard_time": 1731293358,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113481,
+        "num": 113481,
+        "word": "我们的飞机不用再飞两遍了",
+        "onboard_time": 1731280876,
+        "rank": 40,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 111665,
+        "num": 111665,
+        "word": "羽毛球馆回应公共浴室藏摄像头",
+        "onboard_time": 1731292099,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110142,
+        "num": 110142,
+        "word": "中国经济既要正视困难更要坚定信心",
+        "onboard_time": 1731289579,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109322,
+        "num": 109322,
+        "word": "咱们空军的飞机你认识多少",
+        "onboard_time": 1731288917,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108579,
+        "num": 108579,
+        "word": "上证指数",
+        "onboard_time": 1731292578,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107880,
+        "num": 107880,
+        "word": "字母哥垫脚塔图姆",
+        "onboard_time": 1731285680,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102696,
+        "num": 102696,
+        "word": "75年一路走来的空军英模部队",
+        "onboard_time": 1731293538,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 102364,
+        "num": 102364,
+        "word": "他捐款9万元为抗美援朝买战机",
+        "onboard_time": 1731282978,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100889,
+        "num": 100889,
+        "word": "中国排面看一次震撼一次",
+        "onboard_time": 1731289157,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98206,
+        "num": 98206,
+        "word": "谨以此片献给人民空军成立75周年",
+        "onboard_time": 1731289336,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731290373481,
+  "endTime": 1731293574501,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -361,6 +361,14 @@
       "onboard_time": 1730893640,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2799489,
+      "num": 168100,
+      "word": "支付宝崩了",
+      "onboard_time": 1731290117,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 2798059,
@@ -3163,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 874992,
+      "num": 874992,
+      "word": "顾客从韩国飞来找晓华剪头发",
+      "onboard_time": 1731290839,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 874940,
       "num": 874940,
       "word": "长沙一写字楼电梯提示引人不适",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1731062420,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 872410,
+      "num": 872410,
+      "word": "女子被丈夫暴打报警后仍遭踢踹",
+      "onboard_time": 1731289278,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 870848,
@@ -3897,6 +3921,14 @@
       "onboard_time": 1730419878,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 748541,
+      "num": 748541,
+      "word": "年轻人狂刷74岁爷爷视频恶补知识点",
+      "onboard_time": 1731290897,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 747089,
@@ -7011,6 +7043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456717,
+      "num": 456717,
+      "word": "丁禹兮做永夜星河拼豆",
+      "onboard_time": 1731287299,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456696,
       "num": 456696,
       "word": "iG",
@@ -8203,6 +8243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388168,
+      "num": 461472,
+      "word": "警方通报女子被家暴报警后仍遭踢踹",
+      "onboard_time": 1731288917,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387449,
       "num": 357840,
       "word": "李兰迪评论区",
@@ -8459,14 +8507,6 @@
       "category": "军事,教育"
     },
     {
-      "raw_hot": 375366,
-      "num": 461472,
-      "word": "警方通报女子被家暴报警后仍遭踢踹",
-      "onboard_time": 1731288917,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375078,
       "num": 357365,
       "word": "初中生被收手机欲跳楼老师一把拉回",
@@ -8585,6 +8625,14 @@
       "onboard_time": 1730895741,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367665,
+      "num": 367665,
+      "word": "大奉打更人",
+      "onboard_time": 1731291678,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 367606,
@@ -10603,6 +10651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283095,
+      "num": 283095,
+      "word": "吴泽林为芒果付出太多了",
+      "onboard_time": 1731291079,
+      "rank": 12,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 283053,
       "num": 283053,
       "word": "收入减半的中产开始反向换房自救",
@@ -12091,6 +12147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240383,
+      "num": 143105,
+      "word": "律师谈赵露思工作室被指抄袭",
+      "onboard_time": 1731292938,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240365,
       "num": 316651,
       "word": "珠帘玉幕",
@@ -12145,6 +12209,14 @@
       "onboard_time": 1731053240,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239815,
+      "num": 239815,
+      "word": "麦琳吵架逻辑",
+      "onboard_time": 1731292697,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 239372,
@@ -14419,14 +14491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201689,
-      "num": 201689,
-      "word": "女子被丈夫暴打报警后仍遭踢踹",
-      "onboard_time": 1731289278,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201577,
       "num": 201577,
       "word": "学前教育法来了",
@@ -15299,14 +15363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 193931,
-      "num": 168100,
-      "word": "支付宝崩了",
-      "onboard_time": 1731290117,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "时代少年团演唱会重要通知",
@@ -15411,6 +15467,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 193166,
+      "num": 193166,
+      "word": "永夜星河木镯子道歉",
+      "onboard_time": 1731290359,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193163,
       "num": 233753,
       "word": "对接回应肖战将发布个人专辑",
@@ -15505,6 +15569,14 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192280,
+      "num": 233527,
+      "word": "看一眼古建筑5000年文明就住心里了",
+      "onboard_time": 1731292878,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192222,
@@ -16313,6 +16385,14 @@
       "onboard_time": 1731285018,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183597,
+      "num": 270735,
+      "word": "日本石破内阁仅存在一个多月",
+      "onboard_time": 1731291618,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 183521,
@@ -17953,6 +18033,14 @@
       "onboard_time": 1731222679,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167269,
+      "num": 167269,
+      "word": "勇士vs雷霆",
+      "onboard_time": 1731292697,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 167250,
@@ -19857,6 +19945,14 @@
       "onboard_time": 1731243560,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 150219,
+      "num": 150219,
+      "word": "加沙孩子睡在妈妈坟墓上",
+      "onboard_time": 1731292518,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150214,
@@ -22435,6 +22531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126579,
+      "num": 126579,
+      "word": "祝人民空军75岁生日快乐",
+      "onboard_time": 1731283158,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 126540,
       "num": 126540,
       "word": "GG对战TE",
@@ -22457,6 +22561,14 @@
       "onboard_time": 1730696602,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126305,
+      "num": 137551,
+      "word": "林诗栋奥运后已获5站男单冠军",
+      "onboard_time": 1731288257,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 126273,
@@ -22571,6 +22683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125367,
+      "num": 125367,
+      "word": "字母哥挑衅布朗",
+      "onboard_time": 1731292398,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125335,
       "num": 173778,
       "word": "歼15T结合新型隐身舰载机作战更丰富",
@@ -22617,14 +22737,6 @@
       "onboard_time": 1730614999,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125075,
-      "num": 125075,
-      "word": "祝人民空军75岁生日快乐",
-      "onboard_time": 1731283158,
-      "rank": 43,
-      "category": "军事"
     },
     {
       "raw_hot": 125035,
@@ -22849,6 +22961,22 @@
       "onboard_time": 1730626878,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123631,
+      "num": 123631,
+      "word": "蒋敦豪对阿条姐说下次见",
+      "onboard_time": 1731292218,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 123599,
+      "num": 123599,
+      "word": "男孩被老师拎到讲台狂扇20多巴掌",
+      "onboard_time": 1731293358,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123561,
@@ -23265,14 +23393,6 @@
       "onboard_time": 1730537719,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119340,
-      "num": 137551,
-      "word": "林诗栋奥运后已获5站男单冠军",
-      "onboard_time": 1731288257,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 119296,
@@ -23859,6 +23979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113481,
+      "num": 113481,
+      "word": "我们的飞机不用再飞两遍了",
+      "onboard_time": 1731280876,
+      "rank": 32,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 113463,
       "num": 113463,
       "word": "唐宫奇案男女主官宣日期",
@@ -24000,6 +24128,14 @@
       "word": "鹅腿阿姨只想静静烤鹅腿",
       "onboard_time": 1730883804,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111665,
+      "num": 111665,
+      "word": "羽毛球馆回应公共浴室藏摄像头",
+      "onboard_time": 1731292099,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -24339,6 +24475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 108579,
+      "num": 108579,
+      "word": "上证指数",
+      "onboard_time": 1731292578,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108429,
       "num": 108429,
       "word": "子期 就这个病娇爽",
@@ -24552,14 +24696,6 @@
       "word": "小巷人家预告好甜",
       "onboard_time": 1731201078,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 105432,
-      "num": 105432,
-      "word": "永夜星河木镯子道歉",
-      "onboard_time": 1731290359,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -24809,6 +24945,14 @@
       "onboard_time": 1730674874,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102696,
+      "num": 102696,
+      "word": "75年一路走来的空军英模部队",
+      "onboard_time": 1731293538,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 102591,
@@ -25433,14 +25577,6 @@
       "onboard_time": 1731107054,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92331,
-      "num": 85058,
-      "word": "我们的飞机不用再飞两遍了",
-      "onboard_time": 1731280876,
-      "rank": 32,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 92143,
