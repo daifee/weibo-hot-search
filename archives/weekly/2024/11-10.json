@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731332350445,
+  "endTime": 1731334907774,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -195,6 +195,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1377302,
+      "num": 1377302,
+      "word": "珠海航展",
+      "onboard_time": 1731328637,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 1370093,
+      "num": 1370093,
+      "word": "丁禹兮 唐梓",
+      "onboard_time": 1731330260,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1363504,
       "num": 1363504,
       "word": "麦琳承认自己有点道德绑架",
@@ -249,14 +265,6 @@
       "onboard_time": 1731282917,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1208372,
-      "num": 604809,
-      "word": "丁禹兮 唐梓",
-      "onboard_time": 1731330260,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1196956,
@@ -587,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 790654,
-      "num": 790654,
-      "word": "珠海航展",
-      "onboard_time": 1731328637,
-      "rank": 34,
-      "category": "军事"
-    },
-    {
       "raw_hot": 784904,
       "num": 290361,
       "word": "女生涂碘伏祛痘3天后效果明显",
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622392,
+      "num": 492513,
+      "word": "虞书欣更新TikTok",
+      "onboard_time": 1731333081,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621097,
       "num": 621097,
       "word": "中国政府就黄岩岛领海基线发表声明",
@@ -873,6 +881,14 @@
       "onboard_time": 1731288858,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 594582,
+      "num": 594582,
+      "word": "抗癌男子筹款5天后晒新房照",
+      "onboard_time": 1731331820,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593568,
@@ -1195,11 +1211,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 474454,
+      "num": 474454,
+      "word": "丁禹兮连女儿名字都想好了",
+      "onboard_time": 1731331339,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470567,
       "num": 470567,
       "word": "大奉打更人",
       "onboard_time": 1731291678,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 470430,
+      "num": 435610,
+      "word": "林虞爸爸 妙妙子期都是谁啊",
+      "onboard_time": 1731333199,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -1339,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433394,
+      "num": 433394,
+      "word": "六问大专学历女干部被提拔副科",
+      "onboard_time": 1731330139,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432525,
       "num": 432525,
       "word": "他捐款9万元为抗美援朝买战机",
@@ -1371,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 412199,
+      "num": 293641,
+      "word": "冷冻馒头超过两天会长黄曲霉素",
+      "onboard_time": 1731330199,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 407141,
       "num": 407141,
       "word": "丁禹兮拼了一个慕声两个妙妙",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1731221121,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395220,
+      "num": 395220,
+      "word": "杨幂机场",
+      "onboard_time": 1731331037,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 392424,
@@ -1467,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377292,
-      "num": 377292,
-      "word": "六问大专学历女干部被提拔副科",
-      "onboard_time": 1731330139,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377182,
       "num": 377182,
       "word": "恒欣引力",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1731220579,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376160,
+      "num": 187487,
+      "word": "发型师晓华爆改乌克兰宝爸",
+      "onboard_time": 1731332780,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 375803,
@@ -1619,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343276,
-      "num": 293641,
-      "word": "冷冻馒头超过两天会长黄曲霉素",
-      "onboard_time": 1731330199,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 341777,
       "num": 303231,
       "word": "时代少年团梦舞台",
@@ -1651,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336968,
+      "num": 336968,
+      "word": "古代人也对发量有追求",
+      "onboard_time": 1731332240,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333605,
       "num": 512887,
       "word": "林诗栋4比1卡尔伯格",
@@ -1665,14 +1721,6 @@
       "onboard_time": 1731309679,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329466,
-      "num": 329466,
-      "word": "杨幂机场",
-      "onboard_time": 1731331037,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 327334,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1731300199,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302938,
-      "num": 302938,
-      "word": "丁禹兮连女儿名字都想好了",
-      "onboard_time": 1731331339,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 302804,
@@ -2217,6 +2257,14 @@
       "onboard_time": 1731298399,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239212,
+      "num": 187381,
+      "word": "祝绪丹 闫妮赛道嫡长女",
+      "onboard_time": 1731333199,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 238892,
@@ -3123,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184269,
+      "num": 184269,
+      "word": "纪录片马王堆",
+      "onboard_time": 1731332601,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184182,
       "num": 395871,
       "word": "ENHYPEN新歌not in",
@@ -3219,6 +3275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181073,
+      "num": 181073,
+      "word": "我国古代人就开始戴假发了",
+      "onboard_time": 1731332240,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180758,
       "num": 180758,
       "word": "公立医院洗牌时代真的来了",
@@ -3313,6 +3377,14 @@
       "onboard_time": 1731188651,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176958,
+      "num": 176958,
+      "word": "鹏飞演技太好了",
+      "onboard_time": 1731332601,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 176505,
@@ -3659,14 +3731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162981,
-      "num": 162981,
-      "word": "抗癌男子筹款5天后晒新房照",
-      "onboard_time": 1731331820,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162933,
       "num": 162933,
       "word": "医院病理室主任酒后值班被免职",
@@ -3729,14 +3793,6 @@
       "onboard_time": 1731232759,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161125,
-      "num": 217703,
-      "word": "古代人也对发量有追求",
-      "onboard_time": 1731332240,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160750,
@@ -4131,14 +4187,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 146882,
-      "num": 146882,
-      "word": "我国古代人就开始戴假发了",
-      "onboard_time": 1731332240,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146436,
       "num": 146436,
       "word": "演技是男演员最好的医美",
@@ -4331,6 +4379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138489,
+      "num": 138489,
+      "word": "官方再次回应万安县95后女干部提拔副科",
+      "onboard_time": 1731333981,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138457,
       "num": 276802,
       "word": "人民空军成立75年",
@@ -4387,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137238,
+      "num": 137238,
+      "word": "双十一什么也没有买的人",
+      "onboard_time": 1731332900,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137038,
       "num": 137038,
       "word": "中国排面看一次震撼一次",
@@ -4441,6 +4505,14 @@
       "onboard_time": 1731198856,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134438,
+      "num": 134438,
+      "word": "Doinb想让Tian当教练",
+      "onboard_time": 1731334880,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 133083,
@@ -4803,6 +4875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116427,
+      "num": 116427,
+      "word": "麦琳退掉的汉服",
+      "onboard_time": 1731334880,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116328,
       "num": 116328,
       "word": "加沙女孩说希望能继续长大",
@@ -4865,6 +4945,14 @@
       "onboard_time": 1731239238,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112024,
+      "num": 112024,
+      "word": "2024年还剩50天",
+      "onboard_time": 1731330019,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111982,
@@ -4969,6 +5057,14 @@
       "onboard_time": 1731211098,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105880,
+      "num": 187563,
+      "word": "归期北京工体见",
+      "onboard_time": 1731334220,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 105496,
@@ -5201,6 +5297,14 @@
       "onboard_time": 1731202098,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92571,
+      "num": 435918,
+      "word": "水滴筹回应抗癌男子筹款后晒新房照",
+      "onboard_time": 1731334160,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90293,
@@ -5520,6 +5624,14 @@
       "word": "流浪干将莫邪好C",
       "onboard_time": 1731241999,
       "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 67124,
+      "num": 187251,
+      "word": "桃晚安手势舞",
+      "onboard_time": 1731334220,
+      "rank": 29,
       "category": "电竞"
     },
     {
@@ -5993,6 +6105,14 @@
       "onboard_time": 1731237560,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 41690,
+      "num": 187291,
+      "word": "珠帘玉幕 学会自爱",
+      "onboard_time": 1731332900,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 41245,

@@ -1,0 +1,402 @@
+{
+  "runTime": 1731334907774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1377302,
+        "num": 1377302,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1370093,
+        "num": 1370093,
+        "word": "丁禹兮 唐梓",
+        "onboard_time": 1731330260,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1131437,
+        "num": 1131437,
+        "word": "papi酱 家都不回你在托举什么",
+        "onboard_time": 1731328819,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594582,
+        "num": 594582,
+        "word": "抗癌男子筹款5天后晒新房照",
+        "onboard_time": 1731331820,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494530,
+        "num": 494530,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 622392,
+        "num": 492513,
+        "word": "虞书欣更新TikTok",
+        "onboard_time": 1731333081,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474454,
+        "num": 474454,
+        "word": "丁禹兮连女儿名字都想好了",
+        "onboard_time": 1731331339,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441387,
+        "num": 441387,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92571,
+        "num": 435918,
+        "word": "水滴筹回应抗癌男子筹款后晒新房照",
+        "onboard_time": 1731334160,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470430,
+        "num": 435610,
+        "word": "林虞爸爸 妙妙子期都是谁啊",
+        "onboard_time": 1731333199,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433394,
+        "num": 433394,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402866,
+        "num": 402866,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395220,
+        "num": 395220,
+        "word": "杨幂机场",
+        "onboard_time": 1731331037,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349604,
+        "num": 349604,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 336968,
+        "num": 336968,
+        "word": "古代人也对发量有追求",
+        "onboard_time": 1731332240,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304033,
+        "num": 304033,
+        "word": "温峥嵘 因为妈不同啊",
+        "onboard_time": 1731328459,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271580,
+        "num": 271580,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187584,
+        "num": 187584,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 105880,
+        "num": 187563,
+        "word": "归期北京工体见",
+        "onboard_time": 1731334220,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 422113,
+        "num": 187537,
+        "word": "虞书欣好辣",
+        "onboard_time": 1731313939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412199,
+        "num": 187511,
+        "word": "冷冻馒头超过两天会长黄曲霉素",
+        "onboard_time": 1731330199,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376160,
+        "num": 187487,
+        "word": "发型师晓华爆改乌克兰宝爸",
+        "onboard_time": 1731332780,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 299562,
+        "num": 187454,
+        "word": "青海一便利店老板被殴打10秒后死亡",
+        "onboard_time": 1731329959,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282002,
+        "num": 187412,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239212,
+        "num": 187381,
+        "word": "祝绪丹 闫妮赛道嫡长女",
+        "onboard_time": 1731333199,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234782,
+        "num": 187354,
+        "word": "小巷人家",
+        "onboard_time": 1731328159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207503,
+        "num": 187334,
+        "word": "我不是林虞 你是妙妙",
+        "onboard_time": 1731327019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41690,
+        "num": 187291,
+        "word": "珠帘玉幕 学会自爱",
+        "onboard_time": 1731332900,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67124,
+        "num": 187251,
+        "word": "桃晚安手势舞",
+        "onboard_time": 1731334220,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 716996,
+        "num": 187223,
+        "word": "赵露思直播状态",
+        "onboard_time": 1731326058,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187220,
+        "num": 187220,
+        "word": "孙颖莎王楚钦单打冠军数量仍第一",
+        "onboard_time": 1731328999,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184269,
+        "num": 184269,
+        "word": "纪录片马王堆",
+        "onboard_time": 1731332601,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181073,
+        "num": 181073,
+        "word": "我国古代人就开始戴假发了",
+        "onboard_time": 1731332240,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180926,
+        "num": 180926,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176958,
+        "num": 176958,
+        "word": "鹏飞演技太好了",
+        "onboard_time": 1731332601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168185,
+        "num": 168185,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1731329119,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139713,
+        "num": 139713,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139242,
+        "num": 139242,
+        "word": "30元理发绝不会拉低行业档次",
+        "onboard_time": 1731318738,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 138489,
+        "num": 138489,
+        "word": "官方再次回应万安县95后女干部提拔副科",
+        "onboard_time": 1731333981,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137238,
+        "num": 137238,
+        "word": "双十一什么也没有买的人",
+        "onboard_time": 1731332900,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136338,
+        "num": 136338,
+        "word": "梁王退赛",
+        "onboard_time": 1731326418,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134797,
+        "num": 134797,
+        "word": "曝高雅cp约会人均消费1300",
+        "onboard_time": 1731314659,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134438,
+        "num": 134438,
+        "word": "Doinb想让Tian当教练",
+        "onboard_time": 1731334880,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133842,
+        "num": 133842,
+        "word": "晓华隔壁理发师称偶尔会捡漏",
+        "onboard_time": 1731312498,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 126462,
+        "num": 126462,
+        "word": "张艺谋说对电影解说短视频很无语",
+        "onboard_time": 1731323658,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118679,
+        "num": 118679,
+        "word": "演技是男演员最好的医美",
+        "onboard_time": 1731331102,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116427,
+        "num": 116427,
+        "word": "麦琳退掉的汉服",
+        "onboard_time": 1731334880,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115959,
+        "num": 115959,
+        "word": "发型师晓华拉动怀化市消费1.2亿元",
+        "onboard_time": 1731320779,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 112024,
+        "num": 112024,
+        "word": "2024年还剩50天",
+        "onboard_time": 1731330019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信巴西各界友好人士#"
+    }
+  }
+}
