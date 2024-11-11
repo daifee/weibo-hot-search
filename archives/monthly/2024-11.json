@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731317078142,
+  "endTime": 1731317882782,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1621914,
+      "num": 549845,
+      "word": "虞书欣好辣",
+      "onboard_time": 1731313939,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1617489,
       "num": 531846,
       "word": "虞书欣赵露思 干票大的引爆视界大会",
@@ -1483,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1440304,
-      "num": 549845,
-      "word": "虞书欣好辣",
-      "onboard_time": 1731313939,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1438564,
       "num": 1438564,
       "word": "英国宣布制裁10家中国企业",
@@ -1641,6 +1641,14 @@
       "onboard_time": 1730437519,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1363504,
+      "num": 1363504,
+      "word": "麦琳承认自己有点道德绑架",
+      "onboard_time": 1731315020,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1362859,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1731080839,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1230666,
-      "num": 1230666,
-      "word": "麦琳承认自己有点道德绑架",
-      "onboard_time": 1731315020,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1229668,
@@ -2867,6 +2867,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 958563,
+      "num": 549804,
+      "word": "晓华隔壁理发师称偶尔会捡漏",
+      "onboard_time": 1731312498,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 957688,
       "num": 1149265,
       "word": "警方通报徒步发现路边有尸骨",
@@ -2985,14 +2993,6 @@
       "onboard_time": 1730875766,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 942727,
-      "num": 549804,
-      "word": "晓华隔壁理发师称偶尔会捡漏",
-      "onboard_time": 1731312498,
-      "rank": 28,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 940137,
@@ -4803,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 655068,
+      "num": 406734,
+      "word": "李定豪 阮小咪",
+      "onboard_time": 1731315618,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654460,
       "num": 654460,
       "word": "BLG赛后发博",
@@ -4841,14 +4849,6 @@
       "onboard_time": 1730841433,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652028,
-      "num": 404623,
-      "word": "李定豪 阮小咪",
-      "onboard_time": 1731315618,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 650763,
@@ -5635,6 +5635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589401,
+      "num": 589401,
+      "word": "黄岩岛争端",
+      "onboard_time": 1731312078,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 588500,
       "num": 588500,
       "word": "麦琳哭喊罢录",
@@ -6073,14 +6081,6 @@
       "onboard_time": 1730629040,
       "rank": 45,
       "category": "体育,美食"
-    },
-    {
-      "raw_hot": 552009,
-      "num": 552009,
-      "word": "黄岩岛争端",
-      "onboard_time": 1731312078,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 551383,
@@ -6640,6 +6640,14 @@
       "word": "疑似花少后期发声",
       "onboard_time": 1730387059,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 511939,
+      "num": 398187,
+      "word": "翁青雅 彭高",
+      "onboard_time": 1731316939,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -7769,6 +7777,14 @@
       "onboard_time": 1731193933,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436451,
+      "num": 436451,
+      "word": "考公放宽至40岁释放什么信号",
+      "onboard_time": 1731316040,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436449,
@@ -10435,6 +10451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303890,
+      "num": 303890,
+      "word": "王一栩 崇拜虞书欣供着虞书欣",
+      "onboard_time": 1731315559,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303771,
       "num": 241512,
       "word": "北京套内40平的精致小家",
@@ -11201,14 +11225,6 @@
       "onboard_time": 1731241999,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279032,
-      "num": 279032,
-      "word": "王一栩 崇拜虞书欣供着虞书欣",
-      "onboard_time": 1731315559,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 278698,
@@ -12507,6 +12523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245083,
+      "num": 245083,
+      "word": "晚晚大嘴 再见爱人",
+      "onboard_time": 1731316338,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244863,
       "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
@@ -13115,6 +13139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 230292,
+      "num": 230292,
+      "word": "NCTDREAM回归",
+      "onboard_time": 1731317181,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230092,
       "num": 219978,
       "word": "虞书欣丁禹兮双人古风写真已安排",
@@ -13681,6 +13713,14 @@
       "onboard_time": 1731195734,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 217366,
+      "num": 217366,
+      "word": "江浙沪地区羽绒服销量反超北方",
+      "onboard_time": 1731313699,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217220,
@@ -14675,6 +14715,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 204909,
+      "num": 204909,
+      "word": "卢昱晓韩国vlog",
+      "onboard_time": 1731316338,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204853,
       "num": 204853,
       "word": "高雅MV",
@@ -14971,14 +15019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202391,
-      "num": 202391,
-      "word": "卢昱晓韩国vlog",
-      "onboard_time": 1731316338,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "世界文化遗产遭以色列炮火威胁",
@@ -15033,14 +15073,6 @@
       "onboard_time": 1730886262,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201999,
-      "num": 201999,
-      "word": "江浙沪地区羽绒服销量反超北方",
-      "onboard_time": 1731313699,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201995,
@@ -16235,6 +16267,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 192115,
+      "num": 192115,
+      "word": "ENHYPEN回归",
+      "onboard_time": 1731317240,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192099,
       "num": 192099,
       "word": "登陆少年开场",
@@ -16721,14 +16761,6 @@
       "onboard_time": 1730878171,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187040,
-      "num": 187040,
-      "word": "晚晚大嘴 再见爱人",
-      "onboard_time": 1731316338,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 187027,
@@ -17691,14 +17723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177013,
-      "num": 404830,
-      "word": "考公放宽至40岁释放什么信号",
-      "onboard_time": 1731316040,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176969,
       "num": 223481,
       "word": "疯狂好六夜阵容官宣",
@@ -18449,14 +18473,6 @@
       "onboard_time": 1731305598,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 170701,
-      "num": 170701,
-      "word": "翁青雅 彭高",
-      "onboard_time": 1731316939,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 170637,
@@ -21787,6 +21803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142437,
+      "num": 142437,
+      "word": "石破茂当选首相艰难到30年一见",
+      "onboard_time": 1731317181,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 142347,
       "num": 142347,
       "word": "当瑞士卷事件在福建",
@@ -24371,6 +24395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120347,
+      "num": 120347,
+      "word": "真维斯回应",
+      "onboard_time": 1731317718,
+      "rank": 47,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 120307,
       "num": 120307,
       "word": "Faker说BLG气势很强",
@@ -24635,6 +24667,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117480,
+      "num": 117480,
+      "word": "双十一是人民空军生日",
+      "onboard_time": 1731317779,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 117456,
       "num": 275891,
       "word": "周杰伦带儿女海边游玩",
@@ -24785,6 +24825,14 @@
       "onboard_time": 1730773338,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116190,
+      "num": 116190,
+      "word": "小作坊下料就是猛",
+      "onboard_time": 1731317840,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 116011,
@@ -27491,6 +27539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76965,
+      "num": 401151,
+      "word": "职场35岁门槛该拆了",
+      "onboard_time": 1731315858,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76733,
       "num": 263576,
       "word": "中国航展亮点满满",
@@ -27987,6 +28043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68490,
+      "num": 549854,
+      "word": "中国一箭15星发射成功",
+      "onboard_time": 1731315318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68419,
       "num": 408675,
       "word": "大风天出门小心高空坠物",
@@ -28219,14 +28283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65709,
-      "num": 401151,
-      "word": "职场35岁门槛该拆了",
-      "onboard_time": 1731315858,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65672,
       "num": 65672,
       "word": "小鬼 轻舟撞上周一围",
@@ -28379,20 +28435,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62861,
+      "num": 194638,
+      "word": "大梦归离全员小苦瓜",
+      "onboard_time": 1731317240,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62640,
       "num": 306749,
       "word": "这届中国航展太passion了",
       "onboard_time": 1730988984,
       "rank": 22,
       "category": "军事"
-    },
-    {
-      "raw_hot": 62625,
-      "num": 549854,
-      "word": "中国一箭15星发射成功",
-      "onboard_time": 1731315318,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62579,
@@ -31355,6 +31411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32338,
+      "num": 382442,
+      "word": "双11看来看去还是在天猫下单",
+      "onboard_time": 1731313338,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 32255,
       "num": 206039,
       "word": "双11旅行囤点啥",
@@ -31409,14 +31473,6 @@
       "onboard_time": 1730430258,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31951,
-      "num": 382442,
-      "word": "双11看来看去还是在天猫下单",
-      "onboard_time": 1731313338,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 31927,
@@ -31979,6 +32035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27512,
+      "num": 404326,
+      "word": "图解带货主播江湖阵营",
+      "onboard_time": 1731315799,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27511,
       "num": 1035597,
       "word": "这些橙色身影是最坚实的依靠",
@@ -32425,6 +32489,14 @@
       "onboard_time": 1730615837,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24383,
+      "num": 393382,
+      "word": "YG预计明年扭亏为盈",
+      "onboard_time": 1731316939,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 24312,
@@ -33707,14 +33779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16989,
-      "num": 404326,
-      "word": "图解带货主播江湖阵营",
-      "onboard_time": 1731315799,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16805,
       "num": 1282878,
       "word": "必须把顶层设计和摸着石头过河结合起来",
@@ -34521,14 +34585,6 @@
       "onboard_time": 1730729124,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8101,
-      "num": 393382,
-      "word": "YG预计明年扭亏为盈",
-      "onboard_time": 1731316939,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 8007,
