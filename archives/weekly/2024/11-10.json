@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731314577068,
+  "endTime": 1731317078142,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -147,6 +147,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 1440304,
+      "num": 549845,
+      "word": "虞书欣好辣",
+      "onboard_time": 1731313939,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1431932,
       "num": 561190,
       "word": "叶珂道歉",
@@ -201,6 +209,14 @@
       "onboard_time": 1731282917,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1230666,
+      "num": 1230666,
+      "word": "麦琳承认自己有点道德绑架",
+      "onboard_time": 1731315020,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1196956,
@@ -363,6 +379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 942727,
+      "num": 549804,
+      "word": "晓华隔壁理发师称偶尔会捡漏",
+      "onboard_time": 1731312498,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 939456,
       "num": 770798,
       "word": "李行亮觉醒",
@@ -377,6 +401,14 @@
       "onboard_time": 1731238099,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 892098,
+      "num": 457622,
+      "word": "曝高雅cp约会人均消费1300",
+      "onboard_time": 1731314659,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 881622,
@@ -643,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 652028,
+      "num": 404623,
+      "word": "李定豪 阮小咪",
+      "onboard_time": 1731315618,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 645890,
       "num": 448171,
       "word": "权志龙点赞玩自己梗的网友",
@@ -801,6 +841,14 @@
       "onboard_time": 1731238099,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552009,
+      "num": 552009,
+      "word": "黄岩岛争端",
+      "onboard_time": 1731312078,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 551383,
@@ -1251,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377182,
+      "num": 377182,
+      "word": "恒欣引力",
+      "onboard_time": 1731314718,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376784,
       "num": 285037,
       "word": "22岁女孩感冒后厌食暴瘦到40斤",
@@ -1312,14 +1368,6 @@
       "word": "丁禹兮年纪轻轻就听不清了",
       "onboard_time": 1731246320,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 360700,
-      "num": 360700,
-      "word": "虞书欣好辣",
-      "onboard_time": 1731313939,
-      "rank": 9,
       "category": "艺人"
     },
     {
@@ -1403,14 +1451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334516,
-      "num": 334516,
-      "word": "黄岩岛争端",
-      "onboard_time": 1731312078,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 333605,
       "num": 512887,
       "word": "林诗栋4比1卡尔伯格",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1731231199,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326506,
-      "num": 335435,
-      "word": "晓华隔壁理发师称偶尔会捡漏",
-      "onboard_time": 1731312498,
-      "rank": 28,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 326489,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1731241999,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279032,
+      "num": 279032,
+      "word": "王一栩 崇拜虞书欣供着虞书欣",
+      "onboard_time": 1731315559,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 277110,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1731168439,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231804,
+      "num": 231804,
+      "word": "贵州女生在晓华店门口卖咖啡日入700",
+      "onboard_time": 1731314837,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 231265,
@@ -2379,12 +2427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202391,
+      "num": 202391,
+      "word": "卢昱晓韩国vlog",
+      "onboard_time": 1731316338,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202175,
       "num": 268827,
       "word": "宋亚轩刘耀文七rap",
       "onboard_time": 1731248600,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201999,
+      "num": 201999,
+      "word": "江浙沪地区羽绒服销量反超北方",
+      "onboard_time": 1731313699,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201698,
@@ -2651,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187040,
+      "num": 187040,
+      "word": "晚晚大嘴 再见爱人",
+      "onboard_time": 1731316338,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
@@ -2665,6 +2737,14 @@
       "onboard_time": 1731299479,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185486,
+      "num": 322824,
+      "word": "应聘司机工资还没到手就花了5万",
+      "onboard_time": 1731311479,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185319,
@@ -2843,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177013,
+      "num": 404830,
+      "word": "考公放宽至40岁释放什么信号",
+      "onboard_time": 1731316040,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176505,
       "num": 232101,
       "word": "向佐也有站子了",
@@ -2963,12 +3051,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 171432,
+      "num": 171432,
+      "word": "涵艺爆料RA确认退出LPL",
+      "onboard_time": 1731315679,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170708,
       "num": 170708,
       "word": "尹锡悦为推进与特朗普合作重拾高尔夫",
       "onboard_time": 1731305598,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 170701,
+      "num": 170701,
+      "word": "翁青雅 彭高",
+      "onboard_time": 1731316939,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 169837,
@@ -3187,14 +3291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161868,
-      "num": 322824,
-      "word": "应聘司机工资还没到手就花了5万",
-      "onboard_time": 1731311479,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161254,
       "num": 161254,
       "word": "凌妙妙慕子期和好",
@@ -3257,6 +3353,14 @@
       "onboard_time": 1731301819,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158431,
+      "num": 158431,
+      "word": "高中通报学生会干部索取钱财",
+      "onboard_time": 1731316819,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 158298,
@@ -3353,6 +3457,14 @@
       "onboard_time": 1731239480,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154208,
+      "num": 154208,
+      "word": "Tomo告别信",
+      "onboard_time": 1731316639,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 154004,
@@ -3505,14 +3617,6 @@
       "onboard_time": 1731288917,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 149235,
-      "num": 149235,
-      "word": "江浙沪地区羽绒服销量反超北方",
-      "onboard_time": 1731313699,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148834,
@@ -4001,6 +4105,14 @@
       "onboard_time": 1731294977,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123040,
+      "num": 123040,
+      "word": "永夜星河播放量破五亿",
+      "onboard_time": 1731316520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 122485,
@@ -4763,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65709,
+      "num": 401151,
+      "word": "职场35岁门槛该拆了",
+      "onboard_time": 1731315858,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65672,
       "num": 65672,
       "word": "小鬼 轻舟撞上周一围",
@@ -4775,6 +4895,22 @@
       "num": 212372,
       "word": "小巷人家巷角遇到爱",
       "onboard_time": 1731251300,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62625,
+      "num": 549854,
+      "word": "中国一箭15星发射成功",
+      "onboard_time": 1731315318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62430,
+      "num": 202064,
+      "word": "慕瑶 事业脑",
+      "onboard_time": 1731315499,
       "rank": 29,
       "category": "剧集"
     },
@@ -5292,7 +5428,7 @@
     },
     {
       "raw_hot": 31951,
-      "num": 204474,
+      "num": 382442,
       "word": "双11看来看去还是在天猫下单",
       "onboard_time": 1731313338,
       "rank": 39,
@@ -5707,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16989,
+      "num": 404326,
+      "word": "图解带货主播江湖阵营",
+      "onboard_time": 1731315799,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16795,
       "num": 17064,
       "word": "KPL",
@@ -5801,6 +5945,14 @@
       "onboard_time": 1731155118,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8101,
+      "num": 393382,
+      "word": "YG预计明年扭亏为盈",
+      "onboard_time": 1731316939,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 6194,
