@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/12 07:20:32
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/12 07:35:23
 </p>
 </blockquote>
 <p>
@@ -2553,6 +2553,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
+发型师晓华爆改乌克兰宝爸（热度：876094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E7%BD%91%E5%8F%8B%E6%B6%8C%E5%85%A5%E8%9C%82%E8%8A%B1%E8%B4%A6%E5%8F%B7%E8%A6%81%E6%B1%82%E9%81%93%E6%AD%89%23" target="weibo">
 大批网友涌入蜂花账号要求道歉（热度：875666）
 </a>
@@ -3101,12 +3107,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%80%BC30%E5%85%83%E6%8B%89%E4%BD%8E%E8%A1%8C%E4%B8%9A%E6%A1%A3%E6%AC%A1%23" target="weibo">
 晓华回应被怼30元拉低行业档次（热度：766915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
-发型师晓华爆改乌克兰宝爸（热度：764532）
 </a>
 </li>
 

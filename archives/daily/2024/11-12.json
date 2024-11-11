@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731367232397,
+  "endTime": 1731368123742,
   "band_list": [
     {
       "raw_hot": 1184250,
@@ -11,7 +11,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 764532,
+      "raw_hot": 876094,
       "num": 816769,
       "word": "发型师晓华爆改乌克兰宝爸",
       "onboard_time": 1731332780,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433564,
+      "num": 183523,
+      "word": "特朗普提名强硬派霍曼为边境事务负责人",
+      "onboard_time": 1731353951,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 397511,
       "num": 397511,
       "word": "美发行业早就应该整顿了",
       "onboard_time": 1731338658,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395609,
-      "num": 183523,
-      "word": "特朗普提名强硬派霍曼为边境事务负责人",
-      "onboard_time": 1731353951,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 381816,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366311,
+      "num": 853679,
+      "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+      "onboard_time": 1731342917,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336627,
       "num": 336627,
       "word": "周洁琼演技",
       "onboard_time": 1731338300,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325509,
-      "num": 325509,
-      "word": "三星堆一团皱皱金箔展开后飞出小鸟",
-      "onboard_time": 1731342917,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320304,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257476,
+      "num": 257476,
+      "word": "官方再次回应万安县95后女干部提拔副科",
+      "onboard_time": 1731333981,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238594,
       "num": 238594,
       "word": "翁青雅 彭高",
@@ -153,14 +161,6 @@
       "onboard_time": 1731333199,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211897,
-      "num": 211897,
-      "word": "官方再次回应万安县95后女干部提拔副科",
-      "onboard_time": 1731333981,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210406,
@@ -187,6 +187,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 205647,
+      "num": 205647,
+      "word": "张艺谋说对电影解说短视频很无语",
+      "onboard_time": 1731323658,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186899,
+      "num": 117167,
+      "word": "顺产妈妈用错力致整脸肿胀",
+      "onboard_time": 1731345134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185810,
       "num": 131153,
       "word": "青海一便利店老板被殴打10秒后死亡",
@@ -195,11 +211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177333,
-      "num": 177333,
+      "raw_hot": 179725,
+      "num": 179725,
       "word": "福建莆田一15岁男孩离校后失联",
       "onboard_time": 1731359351,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178833,
+      "num": 178833,
+      "word": "抗癌男子筹款5天后晒新房照",
+      "onboard_time": 1731331820,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -208,22 +232,6 @@
       "word": "李定豪 阮小咪",
       "onboard_time": 1731315618,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172087,
-      "num": 117167,
-      "word": "顺产妈妈用错力致整脸肿胀",
-      "onboard_time": 1731345134,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172086,
-      "num": 196534,
-      "word": "张艺谋说对电影解说短视频很无语",
-      "onboard_time": 1731323658,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158381,
+      "num": 158381,
+      "word": "晓华拉动现场消费超2000万元",
+      "onboard_time": 1731351311,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 155199,
       "num": 133329,
       "word": "多个商家账号改名为晓华隔壁",
@@ -251,12 +267,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 143943,
-      "num": 143943,
-      "word": "抗癌男子筹款5天后晒新房照",
-      "onboard_time": 1731331820,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 150817,
+      "num": 84384,
+      "word": "晓华隔壁理发店1天下来门可罗雀",
+      "onboard_time": 1731362652,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 143503,
@@ -275,20 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128113,
-      "num": 67238,
-      "word": "晓华隔壁理发店1天下来门可罗雀",
-      "onboard_time": 1731362652,
-      "rank": 44,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 122907,
-      "num": 122907,
-      "word": "晓华拉动现场消费超2000万元",
-      "onboard_time": 1731351311,
-      "rank": 9,
-      "category": "社会新闻,网红"
+      "raw_hot": 126278,
+      "num": 83109,
+      "word": "这个国家把中国人称作老乡",
+      "onboard_time": 1731364393,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 117721,
@@ -339,20 +347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101606,
+      "num": 96721,
+      "word": "东方甄选交个朋友掉出双11带货前10",
+      "onboard_time": 1731336740,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100695,
       "num": 100695,
       "word": "EDG芜湖起飞",
       "onboard_time": 1731335482,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96721,
-      "num": 96721,
-      "word": "东方甄选交个朋友掉出双11带货前10",
-      "onboard_time": 1731336740,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 92013,
@@ -379,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82651,
+      "num": 82651,
+      "word": "疯狂好六夜全员素颜下班",
+      "onboard_time": 1731365774,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82235,
       "num": 82235,
       "word": "2024年还剩50天",
       "onboard_time": 1731330019,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81335,
-      "num": 81335,
-      "word": "这个国家把中国人称作老乡",
-      "onboard_time": 1731364393,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 81176,
@@ -409,6 +417,14 @@
       "onboard_time": 1731317718,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 78856,
+      "num": 78856,
+      "word": "Excel装修风",
+      "onboard_time": 1731353350,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 77736,
@@ -475,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64689,
+      "num": 64689,
+      "word": "恋与深空快开门",
+      "onboard_time": 1731368056,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63004,
       "num": 63004,
       "word": "62岁传奇与26岁新星同框了",
@@ -491,36 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51062,
-      "num": 51062,
+      "raw_hot": 55059,
+      "num": 55059,
       "word": "男孩离校出走前曾被女友家长扇巴掌",
       "onboard_time": 1731355870,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50909,
-      "num": 69024,
-      "word": "疯狂好六夜全员素颜下班",
-      "onboard_time": 1731365774,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 49129,
-      "num": 49129,
+      "num": 51389,
       "word": "王鹤棣演唱会",
       "onboard_time": 1731329119,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48775,
-      "num": 48775,
-      "word": "Excel装修风",
-      "onboard_time": 1731353350,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 47778,
@@ -691,6 +699,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13487,
+      "num": 63249,
+      "word": "使中巴友好像长江和亚马孙河一样奔腾不息",
+      "onboard_time": 1731367937,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13009,
+      "num": 82560,
+      "word": "苏57飞行员为中国空军送生日祝福",
+      "onboard_time": 1731368056,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 12962,
       "num": 35008,
       "word": "沉浸式感受苏57旱地拔葱一飞冲天",
@@ -705,6 +729,14 @@
       "onboard_time": 1731360911,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 9969,
+      "num": 82533,
+      "word": "虞书欣99%玫瑰泪",
+      "onboard_time": 1731367695,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 6904,
