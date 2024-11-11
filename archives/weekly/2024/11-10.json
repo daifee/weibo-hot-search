@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731321696226,
+  "endTime": 1731323956926,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 814281,
+      "num": 416591,
+      "word": "翁青雅 彭高",
+      "onboard_time": 1731316939,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 808865,
       "num": 808865,
       "word": "理发师晓华说30元的价格不低",
@@ -617,14 +625,6 @@
       "onboard_time": 1731243198,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 726425,
-      "num": 398187,
-      "word": "翁青雅 彭高",
-      "onboard_time": 1731316939,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 723826,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 642958,
+      "num": 409330,
+      "word": "4名受贿干部已清退出学生会",
+      "onboard_time": 1731318619,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637641,
       "num": 637641,
       "word": "男子将8万现金伪装成喜糖寄出",
@@ -753,6 +761,22 @@
       "onboard_time": 1731249741,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 629364,
+      "num": 629364,
+      "word": "网友质疑九寨沟水獭是引进物种",
+      "onboard_time": 1731321079,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628016,
+      "num": 628016,
+      "word": "慕声好感度百分百了",
+      "onboard_time": 1731321199,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 626937,
@@ -835,12 +859,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 587634,
-      "num": 286195,
-      "word": "4名受贿干部已清退出学生会",
-      "onboard_time": 1731318619,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 587623,
+      "num": 408792,
+      "word": "晚晚大嘴 再见爱人",
+      "onboard_time": 1731316338,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 585563,
@@ -1275,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401531,
-      "num": 342308,
-      "word": "晚晚大嘴 再见爱人",
-      "onboard_time": 1731316338,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 401489,
       "num": 401489,
       "word": "2岁失踪女童家属怀疑系熟人作案",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1731248120,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 312802,
+      "num": 312802,
+      "word": "发型师晓华拉动怀化市消费1.2亿元",
+      "onboard_time": 1731320779,
+      "rank": 21,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 311415,
@@ -1955,14 +1979,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 251791,
-      "num": 251791,
-      "word": "发型师晓华拉动怀化市消费1.2亿元",
-      "onboard_time": 1731320779,
-      "rank": 21,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 250074,
       "num": 362221,
       "word": "韩国警方租房监视素媛案原型罪犯",
@@ -2323,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213813,
-      "num": 256907,
-      "word": "慕声好感度百分百了",
-      "onboard_time": 1731321199,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212774,
       "num": 212774,
       "word": "虞书欣 优酸乳",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1731247821,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209803,
+      "num": 397412,
+      "word": "国色芳华要动了",
+      "onboard_time": 1731322518,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 209798,
@@ -2899,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184182,
+      "num": 395871,
+      "word": "ENHYPEN新歌not in",
+      "onboard_time": 1731322758,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183751,
       "num": 183751,
       "word": "美43只在逃实验猴捉回一只",
@@ -3067,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176994,
+      "num": 176994,
+      "word": "特朗普团队称不会派美军去维护乌和平",
+      "onboard_time": 1731320838,
+      "rank": 40,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 176505,
       "num": 232101,
       "word": "向佐也有站子了",
@@ -3105,6 +3137,14 @@
       "onboard_time": 1731215478,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175429,
+      "num": 175429,
+      "word": "雷军 我马上去催一下",
+      "onboard_time": 1731323539,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 174759,
@@ -3193,14 +3233,6 @@
       "onboard_time": 1731306559,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 171701,
-      "num": 171701,
-      "word": "网友质疑九寨沟水獭是引进物种",
-      "onboard_time": 1731321079,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171432,
@@ -3483,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160314,
+      "num": 160314,
+      "word": "九寨沟回应被指人为引进水獭",
+      "onboard_time": 1731321917,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160160,
       "num": 160160,
       "word": "国安公布涉密人员失泄密案件",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1731233477,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159762,
+      "num": 159762,
+      "word": "晓华拉动全市消费1.2亿元",
+      "onboard_time": 1731323179,
+      "rank": 43,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 159695,
@@ -3651,6 +3699,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 153605,
+      "num": 153605,
+      "word": "十个勤天演唱会官宣",
+      "onboard_time": 1731322099,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153537,
       "num": 153537,
       "word": "歼-20发射导弹击落目标",
@@ -3787,6 +3843,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 149327,
+      "num": 149327,
+      "word": "丁禹兮演技 讲课素材",
+      "onboard_time": 1731323598,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148834,
       "num": 398908,
       "word": "南天门计划白帝空天战机亮相航展",
@@ -3801,6 +3865,14 @@
       "onboard_time": 1731295038,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146981,
+      "num": 146981,
+      "word": "理发师晓华回应同行质疑",
+      "onboard_time": 1731322936,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 146084,
@@ -3993,6 +4065,14 @@
       "onboard_time": 1731248962,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137974,
+      "num": 381502,
+      "word": "小李子50岁了",
+      "onboard_time": 1731322638,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 137953,
@@ -4843,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82665,
+      "num": 388866,
+      "word": "青川入梦开机",
+      "onboard_time": 1731322878,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81702,
       "num": 224741,
       "word": "疯狂好六夜",
@@ -5091,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66481,
+      "num": 404682,
+      "word": "张艺谋说对电影解说短视频很无语",
+      "onboard_time": 1731323658,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66340,
       "num": 502472,
       "word": "为何此时公布黄岩岛领海基线",
@@ -5153,6 +5249,14 @@
       "onboard_time": 1731315499,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62003,
+      "num": 411282,
+      "word": "天猫双11最后4轮红包雨下疯了",
+      "onboard_time": 1731322819,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 61879,
@@ -5299,14 +5403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53733,
-      "num": 171721,
-      "word": "特朗普团队称不会派美军去维护乌和平",
-      "onboard_time": 1731320838,
-      "rank": 40,
-      "category": "国外时政,军事"
-    },
-    {
       "raw_hot": 53512,
       "num": 338261,
       "word": "林一被男粉聊到红温了",
@@ -5416,6 +5512,14 @@
       "word": "撞劳斯莱斯货车司机回应是不是剧本",
       "onboard_time": 1731188592,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47767,
+      "num": 417422,
+      "word": "机票跌至百元时代高铁还香吗",
+      "onboard_time": 1731323119,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5579,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38227,
+      "num": 414928,
+      "word": "王曼昱复出即夺冠",
+      "onboard_time": 1731323419,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37894,
       "num": 248180,
       "word": "忙了一天的勇士飞行表演队下班了",
@@ -5697,6 +5809,14 @@
       "onboard_time": 1731313338,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 31880,
+      "num": 413772,
+      "word": "世乒联恭喜王曼昱林诗栋夺冠",
+      "onboard_time": 1731323419,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 31764,
@@ -5819,6 +5939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27286,
+      "num": 383425,
+      "word": "陈数07年排舞视频",
+      "onboard_time": 1731321798,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26185,
       "num": 981248,
       "word": "祝人民空军75周岁生日快乐",
@@ -5857,6 +5985,14 @@
       "onboard_time": 1731207617,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25341,
+      "num": 401322,
+      "word": "天猫88VIP大额券最后一波你用了吗",
+      "onboard_time": 1731322579,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 25034,
@@ -6043,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19691,
+      "num": 412779,
+      "word": "年轻人被避雷帖逼疯了",
+      "onboard_time": 1731323238,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19093,
       "num": 52860,
       "word": "彩虹7无人机已具备上舰能力",
@@ -6137,6 +6281,14 @@
       "onboard_time": 1731249860,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16363,
+      "num": 405251,
+      "word": "燕云十六声年底公测",
+      "onboard_time": 1731323299,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 15895,

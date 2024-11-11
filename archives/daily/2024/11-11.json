@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731321696226,
+  "endTime": 1731323956926,
   "band_list": [
     {
       "raw_hot": 2799489,
@@ -259,6 +259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 814281,
+      "num": 416591,
+      "word": "翁青雅 彭高",
+      "onboard_time": 1731316939,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797982,
       "num": 494186,
       "word": "丁禹兮慕声是349%的喜欢",
@@ -297,14 +305,6 @@
       "onboard_time": 1731284659,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 726425,
-      "num": 398187,
-      "word": "翁青雅 彭高",
-      "onboard_time": 1731316939,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 719803,
@@ -363,12 +363,36 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 642958,
+      "num": 409330,
+      "word": "4名受贿干部已清退出学生会",
+      "onboard_time": 1731318619,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636003,
       "num": 173899,
       "word": "优酸乳 虞书欣",
       "onboard_time": 1731294020,
       "rank": 41,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 629364,
+      "num": 629364,
+      "word": "网友质疑九寨沟水獭是引进物种",
+      "onboard_time": 1731321079,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628016,
+      "num": 628016,
+      "word": "慕声好感度百分百了",
+      "onboard_time": 1731321199,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 624386,
@@ -403,12 +427,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 587634,
-      "num": 286195,
-      "word": "4名受贿干部已清退出学生会",
-      "onboard_time": 1731318619,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 587623,
+      "num": 408792,
+      "word": "晚晚大嘴 再见爱人",
+      "onboard_time": 1731316338,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 573898,
@@ -611,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401531,
-      "num": 342308,
-      "word": "晚晚大嘴 再见爱人",
-      "onboard_time": 1731316338,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 401489,
       "num": 401489,
       "word": "2岁失踪女童家属怀疑系熟人作案",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 365367,
-      "num": 365367,
+      "num": 418551,
       "word": "永夜星河",
       "onboard_time": 1731233297,
       "rank": 14,
@@ -729,6 +745,14 @@
       "onboard_time": 1731253819,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312802,
+      "num": 312802,
+      "word": "发型师晓华拉动怀化市消费1.2亿元",
+      "onboard_time": 1731320779,
+      "rank": 21,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 309483,
@@ -899,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251791,
-      "num": 251791,
-      "word": "发型师晓华拉动怀化市消费1.2亿元",
-      "onboard_time": 1731320779,
-      "rank": 21,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 246974,
       "num": 242440,
       "word": "突然发现INFJ在陌生城市更勇敢",
@@ -1075,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213813,
-      "num": 256907,
-      "word": "慕声好感度百分百了",
-      "onboard_time": 1731321199,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212006,
       "num": 236245,
       "word": "中国领土一点都不会让一寸也不能丢",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1731292218,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 209803,
+      "num": 397412,
+      "word": "国色芳华要动了",
+      "onboard_time": 1731322518,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 209798,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184182,
+      "num": 395871,
+      "word": "ENHYPEN新歌not in",
+      "onboard_time": 1731322758,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183751,
       "num": 183751,
       "word": "美43只在逃实验猴捉回一只",
@@ -1395,12 +1419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176994,
+      "num": 176994,
+      "word": "特朗普团队称不会派美军去维护乌和平",
+      "onboard_time": 1731320838,
+      "rank": 40,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 176487,
       "num": 176487,
       "word": "这才叫化妆师",
       "onboard_time": 1731299839,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175429,
+      "num": 175429,
+      "word": "雷军 我马上去催一下",
+      "onboard_time": 1731323539,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 174558,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1731306559,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 171701,
-      "num": 171701,
-      "word": "网友质疑九寨沟水獭是引进物种",
-      "onboard_time": 1731321079,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171432,
@@ -1587,12 +1619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160314,
+      "num": 160314,
+      "word": "九寨沟回应被指人为引进水獭",
+      "onboard_time": 1731321917,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160160,
       "num": 160160,
       "word": "国安公布涉密人员失泄密案件",
       "onboard_time": 1731267611,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159762,
+      "num": 159762,
+      "word": "晓华拉动全市消费1.2亿元",
+      "onboard_time": 1731323179,
+      "rank": 43,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 159695,
@@ -1683,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153605,
+      "num": 153605,
+      "word": "十个勤天演唱会官宣",
+      "onboard_time": 1731322099,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151416,
       "num": 151416,
       "word": "种地吧",
@@ -1755,12 +1811,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 149327,
+      "num": 149327,
+      "word": "丁禹兮演技 讲课素材",
+      "onboard_time": 1731323598,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147793,
       "num": 147793,
       "word": "教育部解读学前教育法",
       "onboard_time": 1731295038,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146981,
+      "num": 146981,
+      "word": "理发师晓华回应同行质疑",
+      "onboard_time": 1731322936,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 145632,
@@ -1849,6 +1921,14 @@
       "onboard_time": 1731298999,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137974,
+      "num": 381502,
+      "word": "小李子50岁了",
+      "onboard_time": 1731322638,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 137902,
@@ -2275,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82665,
+      "num": 388866,
+      "word": "青川入梦开机",
+      "onboard_time": 1731322878,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81647,
       "num": 81647,
       "word": "中国政府就黄岩岛领海基线发表声明",
@@ -2403,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66481,
+      "num": 404682,
+      "word": "张艺谋说对电影解说短视频很无语",
+      "onboard_time": 1731323658,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66039,
       "num": 370224,
       "word": "妹子连续加班后确诊女星同款美女病",
@@ -2451,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62003,
+      "num": 411282,
+      "word": "天猫双11最后4轮红包雨下疯了",
+      "onboard_time": 1731322819,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61331,
       "num": 61331,
       "word": "男子被相亲对象拒绝行凶逃亡23年",
@@ -2481,14 +2585,6 @@
       "onboard_time": 1731258195,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53733,
-      "num": 171721,
-      "word": "特朗普团队称不会派美军去维护乌和平",
-      "onboard_time": 1731320838,
-      "rank": 40,
-      "category": "国外时政,军事"
     },
     {
       "raw_hot": 53512,
@@ -2555,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47767,
+      "num": 417422,
+      "word": "机票跌至百元时代高铁还香吗",
+      "onboard_time": 1731323119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46376,
       "num": 363975,
       "word": "竞业限制补少赔多公平吗",
@@ -2603,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38227,
+      "num": 414928,
+      "word": "王曼昱复出即夺冠",
+      "onboard_time": 1731323419,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37442,
       "num": 46970,
       "word": "大理苍山和玉龙雪山同框了",
@@ -2643,6 +2755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31880,
+      "num": 413772,
+      "word": "世乒联恭喜王曼昱林诗栋夺冠",
+      "onboard_time": 1731323419,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30800,
       "num": 307930,
       "word": "一城一景尽览齐鲁风华",
@@ -2675,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27286,
+      "num": 383425,
+      "word": "陈数07年排舞视频",
+      "onboard_time": 1731321798,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26185,
       "num": 981248,
       "word": "祝人民空军75周岁生日快乐",
@@ -2689,6 +2817,14 @@
       "onboard_time": 1731309139,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25341,
+      "num": 401322,
+      "word": "天猫88VIP大额券最后一波你用了吗",
+      "onboard_time": 1731322579,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 24583,
@@ -2803,6 +2939,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 19691,
+      "num": 412779,
+      "word": "年轻人被避雷帖逼疯了",
+      "onboard_time": 1731323238,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19093,
       "num": 52860,
       "word": "彩虹7无人机已具备上舰能力",
@@ -2873,6 +3017,14 @@
       "onboard_time": 1731249860,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16363,
+      "num": 405251,
+      "word": "燕云十六声年底公测",
+      "onboard_time": 1731323299,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 15000,
