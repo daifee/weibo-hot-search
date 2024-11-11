@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/12 00:28:20 ~ 2024/11/12 06:20:37
+本榜单时间：2024/11/12 00:28:20 ~ 2024/11/12 06:38:15
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E5%BC%BA%E7%A1%AC%E6%B4%BE%E9%9C%8D%E6%9B%BC%E4%B8%BA%E8%BE%B9%E5%A2%83%E4%BA%8B%E5%8A%A1%E8%B4%9F%E8%B4%A3%E4%BA%BA%23" target="weibo">
+特朗普提名强硬派霍曼为边境事务负责人（热度：175241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%9A%E8%B1%AA%20%E9%98%AE%E5%B0%8F%E5%92%AA%23" target="weibo">
 李定豪 阮小咪（热度：175187）
 </a>
@@ -171,14 +177,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E5%BC%BA%E7%A1%AC%E6%B4%BE%E9%9C%8D%E6%9B%BC%E4%B8%BA%E8%BE%B9%E5%A2%83%E4%BA%8B%E5%8A%A1%E8%B4%9F%E8%B4%A3%E4%BA%BA%23" target="weibo">
-特朗普提名强硬派霍曼为边境事务负责人（热度：134291）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%9E%E5%A5%B3%E5%84%BF%E5%90%8D%E5%AD%97%E9%83%BD%E6%83%B3%E5%A5%BD%E4%BA%86%23" target="weibo">
+丁禹兮连女儿名字都想好了（热度：129467）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%9E%E5%A5%B3%E5%84%BF%E5%90%8D%E5%AD%97%E9%83%BD%E6%83%B3%E5%A5%BD%E4%BA%86%23" target="weibo">
-丁禹兮连女儿名字都想好了（热度：129467）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E4%B8%8015%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A6%BB%E6%A0%A1%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
+福建莆田一15岁男孩离校后失联（热度：128138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E4%B8%80%E5%9B%A2%E7%9A%B1%E7%9A%B1%E9%87%91%E7%AE%94%E5%B1%95%E5%BC%80%E5%90%8E%E9%A3%9E%E5%87%BA%E5%B0%8F%E9%B8%9F%23" target="weibo">
+三星堆一团皱皱金箔展开后飞出小鸟（热度：121048）
 </a>
 </li>
 
@@ -209,12 +221,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%90%8C%E8%A1%8C%E8%B4%A8%E7%96%91%23" target="weibo">
 发型师晓华回应同行质疑（热度：106863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E4%B8%8015%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A6%BB%E6%A0%A1%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
-福建莆田一15岁男孩离校后失联（热度：103973）
 </a>
 </li>
 
@@ -261,12 +267,6 @@ EDG芜湖起飞（热度：100695）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E4%B8%80%E5%9B%A2%E7%9A%B1%E7%9A%B1%E9%87%91%E7%AE%94%E5%B1%95%E5%BC%80%E5%90%8E%E9%A3%9E%E5%87%BA%E5%B0%8F%E9%B8%9F%23" target="weibo">
-三星堆一团皱皱金箔展开后飞出小鸟（热度：85468）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E8%BF%98%E5%89%A950%E5%A4%A9%23" target="weibo">
 2024年还剩50天（热度：82235）
 </a>
@@ -303,6 +303,12 @@ EDG芜湖起飞（热度：100695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E5%AF%B9%E7%94%B5%E5%BD%B1%E8%A7%A3%E8%AF%B4%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BE%88%E6%97%A0%E8%AF%AD%23" target="weibo">
+张艺谋说对电影解说短视频很无语（热度：72795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E4%B8%87%E5%AE%89%E5%8E%BF95%E5%90%8E%E5%A5%B3%E5%B9%B2%E9%83%A8%E6%8F%90%E6%8B%94%E5%89%AF%E7%A7%91%23" target="weibo">
 官方再次回应万安县95后女干部提拔副科（热度：71874）
 </a>
@@ -329,12 +335,6 @@ EDG芜湖起飞（热度：100695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%85%95%E5%A3%B0%E4%BD%A0%E6%98%AF%E5%A6%99%E5%A6%99%23" target="weibo">
 慕声你是妙妙（热度：69492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E5%AF%B9%E7%94%B5%E5%BD%B1%E8%A7%A3%E8%AF%B4%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BE%88%E6%97%A0%E8%AF%AD%23" target="weibo">
-张艺谋说对电影解说短视频很无语（热度：68814）
 </a>
 </li>
 
@@ -387,6 +387,18 @@ EDG芜湖起飞（热度：100695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%853%E5%8E%98%E7%B1%B3%E5%A4%A7%E7%9A%84%E6%A0%B8%E8%88%9F%E7%AA%97%E6%88%B7%E5%B1%85%E7%84%B6%E8%83%BD%E5%BC%80%E5%85%B3%23" target="weibo">
+仅3厘米大的核舟窗户居然能开关（热度：40455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E9%9A%94%E5%A3%81%E7%90%86%E5%8F%91%E5%BA%971%E5%A4%A9%E4%B8%8B%E6%9D%A5%E9%97%A8%E5%8F%AF%E7%BD%97%E9%9B%80%23" target="weibo">
+晓华隔壁理发店1天下来门可罗雀（热度：35219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E4%BA%8B%E4%B8%93%E5%AE%B6%E5%A4%B8%E6%AD%BC35A%E5%A5%BD%E5%BD%A2%E8%B1%A1%23" target="weibo">
 军事专家夸歼35A好形象（热度：34497）
 </a>
@@ -405,14 +417,26 @@ EDG芜湖起飞（热度：100695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A6%BB%E6%A0%A1%E5%87%BA%E8%B5%B0%E5%89%8D%E6%9B%BE%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%AE%B6%E9%95%BF%E6%89%87%E5%B7%B4%E6%8E%8C%23" target="weibo">
+男孩离校出走前曾被女友家长扇巴掌（热度：26181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E4%BB%A5%E4%B8%BA%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E6%9C%89%E5%8A%A8%E7%89%A9%E5%9B%AD%23" target="weibo">
 起猛了以为新疆沙漠有动物园（热度：25040）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A6%BB%E6%A0%A1%E5%87%BA%E8%B5%B0%E5%89%8D%E6%9B%BE%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%AE%B6%E9%95%BF%E6%89%87%E5%B7%B4%E6%8E%8C%23" target="weibo">
-男孩离校出走前曾被女友家长扇巴掌（热度：21250）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%BF%91%E6%9C%9F%E6%88%96%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E9%9D%A2%23" target="weibo">
+石破茂近期或与特朗普会面（热度：21688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Excel%E8%A3%85%E4%BF%AE%E9%A3%8E%23" target="weibo">
+Excel装修风（热度：20581）
 </a>
 </li>
 
@@ -441,32 +465,20 @@ EDG芜湖起飞（热度：100695）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Excel%E8%A3%85%E4%BF%AE%E9%A3%8E%23" target="weibo">
-Excel装修风（热度：19527）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E7%BE%8E%E6%96%B9%E6%94%AF%E6%8C%81%E8%8F%B2%E9%A2%81%E5%B8%83%E6%B5%B7%E6%B4%8B%E5%8C%BA%E5%9F%9F%E6%B3%95%23" target="weibo">
 中方驳斥美方支持菲颁布海洋区域法（热度：19412）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E9%9A%94%E5%A3%81%E7%90%86%E5%8F%91%E5%BA%971%E5%A4%A9%E4%B8%8B%E6%9D%A5%E9%97%A8%E5%8F%AF%E7%BD%97%E9%9B%80%23" target="weibo">
-晓华隔壁理发店1天下来门可罗雀（热度：18256）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35A%E6%AD%BC20S%E9%BD%90%E8%81%9A%E4%B8%80%E5%A0%82%E4%BA%AE%E7%9B%B8%E8%88%AA%E5%B1%95%23" target="weibo">
+歼35A歼20S齐聚一堂亮相航展（热度：19230）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8C%87%E4%BD%BF%E6%8C%91%E5%8A%A8%E8%8F%B2%E5%BE%8B%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85%23" target="weibo">
 美国指使挑动菲律在南海侵权挑衅（热度：17335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%BF%91%E6%9C%9F%E6%88%96%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E9%9D%A2%23" target="weibo">
-石破茂近期或与特朗普会面（热度：16674）
 </a>
 </li>
 
@@ -479,12 +491,6 @@ Excel装修风（热度：19527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%23" target="weibo">
 小巷人家（热度：14281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35A%E6%AD%BC20S%E9%BD%90%E8%81%9A%E4%B8%80%E5%A0%82%E4%BA%AE%E7%9B%B8%E8%88%AA%E5%B1%95%23" target="weibo">
-歼35A歼20S齐聚一堂亮相航展（热度：14265）
 </a>
 </li>
 

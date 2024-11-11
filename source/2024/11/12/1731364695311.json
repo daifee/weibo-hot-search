@@ -1,0 +1,410 @@
+{
+  "runTime": 1731364695311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 390421,
+        "num": 490401,
+        "word": "原来双11最后一天才是最划算的",
+        "onboard_time": 1731340457,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 271968,
+        "num": 271968,
+        "word": "发型师晓华爆改乌克兰宝爸",
+        "onboard_time": 1731332780,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1044,
+        "num": 177128,
+        "word": "一组图带你看懂COP29",
+        "onboard_time": 1731328159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152616,
+        "num": 152616,
+        "word": "唐梓回应跟丁禹兮长得像",
+        "onboard_time": 1731342976,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128138,
+        "num": 128138,
+        "word": "福建莆田一15岁男孩离校后失联",
+        "onboard_time": 1731359351,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121048,
+        "num": 121048,
+        "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+        "onboard_time": 1731342917,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116917,
+        "num": 116917,
+        "word": "美发行业早就应该整顿了",
+        "onboard_time": 1731338658,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95941,
+        "num": 95941,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 74298,
+        "num": 74298,
+        "word": "麦琳退掉的汉服",
+        "onboard_time": 1731334880,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40455,
+        "num": 73468,
+        "word": "仅3厘米大的核舟窗户居然能开关",
+        "onboard_time": 1731363733,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175241,
+        "num": 73192,
+        "word": "特朗普提名强硬派霍曼为边境事务负责人",
+        "onboard_time": 1731353951,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72795,
+        "num": 72795,
+        "word": "张艺谋说对电影解说短视频很无语",
+        "onboard_time": 1731323658,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68055,
+        "num": 68055,
+        "word": "官方再次回应万安县95后女干部提拔副科",
+        "onboard_time": 1731333981,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67981,
+        "num": 67981,
+        "word": "子期 东方青苍",
+        "onboard_time": 1731335960,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63161,
+        "num": 63161,
+        "word": "抗癌男子筹款5天后晒新房照",
+        "onboard_time": 1731331820,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58394,
+        "num": 58394,
+        "word": "林一沈月cos赵露思刘宇宁",
+        "onboard_time": 1731337880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50513,
+        "num": 50513,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47322,
+        "num": 47322,
+        "word": "晓华拉动现场消费超2000万元",
+        "onboard_time": 1731351311,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 42365,
+        "num": 42365,
+        "word": "东方甄选交个朋友掉出双11带货前10",
+        "onboard_time": 1731336740,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36556,
+        "num": 36556,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72576,
+        "num": 35925,
+        "word": "顺产妈妈用错力致整脸肿胀",
+        "onboard_time": 1731345134,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57082,
+        "num": 35370,
+        "word": "冷冻馒头超过两天会长黄曲霉素",
+        "onboard_time": 1731330199,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54702,
+        "num": 34998,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32867,
+        "num": 34224,
+        "word": "林虞爸爸 妙妙子期都是谁啊",
+        "onboard_time": 1731333199,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33781,
+        "num": 33781,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33309,
+        "num": 33309,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1731329119,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32800,
+        "num": 32800,
+        "word": "蔡磊破冰驿站跻身双11带货榜前10",
+        "onboard_time": 1731342377,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32314,
+        "num": 32314,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 31866,
+        "num": 31866,
+        "word": "周洁琼演技",
+        "onboard_time": 1731338300,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31193,
+        "num": 31193,
+        "word": "新疆沙漠发现罕见长耳跳鼠",
+        "onboard_time": 1731339798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35219,
+        "num": 31161,
+        "word": "晓华隔壁理发店1天下来门可罗雀",
+        "onboard_time": 1731362652,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 30685,
+        "num": 30685,
+        "word": "虞书欣更新TikTok",
+        "onboard_time": 1731333081,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26850,
+        "num": 30552,
+        "word": "祝绪丹 闫妮赛道嫡长女",
+        "onboard_time": 1731333199,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30551,
+        "num": 30551,
+        "word": "丁禹兮连女儿名字都想好了",
+        "onboard_time": 1731331339,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29852,
+        "num": 29852,
+        "word": "多个商家账号改名为晓华隔壁",
+        "onboard_time": 1731337281,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 27964,
+        "num": 27964,
+        "word": "62岁传奇与26岁新星同框了",
+        "onboard_time": 1731343732,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 27587,
+        "num": 27587,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27375,
+        "num": 27375,
+        "word": "直击航展现场",
+        "onboard_time": 1731321139,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 26581,
+        "num": 26581,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26181,
+        "num": 26181,
+        "word": "男孩离校出走前曾被女友家长扇巴掌",
+        "onboard_time": 1731355870,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25262,
+        "num": 25262,
+        "word": "杨幂机场",
+        "onboard_time": 1731331037,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24763,
+        "num": 24763,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24527,
+        "num": 24527,
+        "word": "美方要求各国遵守公约自己却不加入",
+        "onboard_time": 1731352812,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24070,
+        "num": 24070,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23988,
+        "num": 23988,
+        "word": "EDG芜湖起飞",
+        "onboard_time": 1731335482,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21688,
+        "num": 23987,
+        "word": "石破茂近期或与特朗普会面",
+        "onboard_time": 1731357611,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20581,
+        "num": 23986,
+        "word": "Excel装修风",
+        "onboard_time": 1731353350,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20485,
+        "num": 23985,
+        "word": "军事专家夸歼35A好形象",
+        "onboard_time": 1731343995,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19230,
+        "num": 23983,
+        "word": "歼35A歼20S齐聚一堂亮相航展",
+        "onboard_time": 1731361990,
+        "rank": 48,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 19188,
+        "num": 23982,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根亚太建设亚太造福亚太#"
+    }
+  }
+}
