@@ -1,0 +1,410 @@
+{
+  "runTime": 1731329905497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1286816,
+        "num": 1286816,
+        "word": "赵露思直播状态",
+        "onboard_time": 1731326058,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776158,
+        "num": 776158,
+        "word": "雷军 我马上去催一下",
+        "onboard_time": 1731323539,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2466,
+        "num": 631376,
+        "word": "万千气象看湖南",
+        "onboard_time": 1731328518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516095,
+        "num": 516095,
+        "word": "我不是林虞 你是妙妙",
+        "onboard_time": 1731327019,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471213,
+        "num": 471213,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 456162,
+        "num": 456162,
+        "word": "梁王退赛",
+        "onboard_time": 1731326418,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493166,
+        "num": 455669,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445709,
+        "num": 445709,
+        "word": "米诺地尔副作用",
+        "onboard_time": 1731325698,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409702,
+        "num": 409702,
+        "word": "papi酱 家都不回你在托举什么",
+        "onboard_time": 1731328819,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80867,
+        "num": 387723,
+        "word": "九寨沟回应被指人为引进水獭",
+        "onboard_time": 1731321917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374025,
+        "num": 374025,
+        "word": "伊拉克拟将女性法定结婚年龄降至9岁",
+        "onboard_time": 1731327859,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 372620,
+        "num": 372620,
+        "word": "温峥嵘 因为妈不同啊",
+        "onboard_time": 1731328459,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328228,
+        "num": 328228,
+        "word": "30元理发绝不会拉低行业档次",
+        "onboard_time": 1731318738,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 311412,
+        "num": 311412,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49616,
+        "num": 300333,
+        "word": "天猫双11最后4小时极限抄作业",
+        "onboard_time": 1731326418,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51751,
+        "num": 293250,
+        "word": "天猫双十一5折日用品你囤了吗",
+        "onboard_time": 1731324860,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290054,
+        "num": 290054,
+        "word": "慕声好感度百分百了",
+        "onboard_time": 1731321199,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262794,
+        "num": 262794,
+        "word": "手机电量用完再充会损害电池",
+        "onboard_time": 1731327500,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30638,
+        "num": 261450,
+        "word": "周慧敏晒童年照",
+        "onboard_time": 1731328578,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15835,
+        "num": 259979,
+        "word": "女浴室藏摄像头羽毛球馆负责人被控制",
+        "onboard_time": 1731329482,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703110,
+        "num": 258293,
+        "word": "虞书欣好辣",
+        "onboard_time": 1731313939,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310751,
+        "num": 255904,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 254312,
+        "num": 254312,
+        "word": "张艺谋说对电影解说短视频很无语",
+        "onboard_time": 1731323658,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250087,
+        "num": 250087,
+        "word": "网友质疑九寨沟水獭是引进物种",
+        "onboard_time": 1731321079,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242285,
+        "num": 242285,
+        "word": "曝高雅cp约会人均消费1300",
+        "onboard_time": 1731314659,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228735,
+        "num": 228735,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211910,
+        "num": 211910,
+        "word": "小巷人家",
+        "onboard_time": 1731328159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204197,
+        "num": 204197,
+        "word": "华晨宇在粉丝身后排队买饭",
+        "onboard_time": 1731326238,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104182,
+        "num": 195984,
+        "word": "不敢想象凌妙妙清醒过来得多难过",
+        "onboard_time": 1731329299,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22026,
+        "num": 194355,
+        "word": "历数人民空军的那些第一",
+        "onboard_time": 1731328880,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 718962,
+        "num": 193793,
+        "word": "珠海体育中心",
+        "onboard_time": 1731329417,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 193026,
+        "num": 193026,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1731329119,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189963,
+        "num": 189963,
+        "word": "孙颖莎王楚钦单打冠军数量仍第一",
+        "onboard_time": 1731328999,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187880,
+        "num": 187880,
+        "word": "博导先后4次被保研学生放鸽子",
+        "onboard_time": 1731325458,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166928,
+        "num": 166928,
+        "word": "晓华回复向太",
+        "onboard_time": 1731310219,
+        "rank": 34,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 164791,
+        "num": 164791,
+        "word": "晚晚大嘴 再见爱人",
+        "onboard_time": 1731316338,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161591,
+        "num": 161591,
+        "word": "在恋与深空有猫了",
+        "onboard_time": 1731329299,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158970,
+        "num": 158970,
+        "word": "发型师晓华拉动怀化市消费1.2亿元",
+        "onboard_time": 1731320779,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 154791,
+        "num": 154791,
+        "word": "石破茂再当选日本首相",
+        "onboard_time": 1731309558,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153134,
+        "num": 153134,
+        "word": "晓华理发店周围连夜铺路扩街",
+        "onboard_time": 1731315919,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 148182,
+        "num": 148182,
+        "word": "丁禹兮吃面主打一个好养活",
+        "onboard_time": 1731327859,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83394,
+        "num": 144737,
+        "word": "双十一",
+        "onboard_time": 1731327799,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144590,
+        "num": 144590,
+        "word": "以前的我嗤之以鼻 现在的我逐帧学习",
+        "onboard_time": 1731328279,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124907,
+        "num": 124907,
+        "word": "国色芳华要动了",
+        "onboard_time": 1731322518,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124121,
+        "num": 124121,
+        "word": "永夜星河21集 走剧情",
+        "onboard_time": 1731326717,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124646,
+        "num": 123937,
+        "word": "丁禹兮演技 讲课素材",
+        "onboard_time": 1731323598,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123130,
+        "num": 123130,
+        "word": "山西一座山中发现北魏精美石窟",
+        "onboard_time": 1731326180,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123044,
+        "num": 123044,
+        "word": "直击航展现场",
+        "onboard_time": 1731321139,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 119200,
+        "num": 119200,
+        "word": "年龄不该成为束缚考公应广纳贤才",
+        "onboard_time": 1731329237,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113427,
+        "num": 113427,
+        "word": "4名受贿干部已清退出学生会",
+        "onboard_time": 1731318619,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根亚太建设亚太造福亚太#"
+    }
+  }
+}
