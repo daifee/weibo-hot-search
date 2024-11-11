@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731356590952,
+  "endTime": 1731357393151,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -5931,6 +5931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65123,
+      "num": 34899,
+      "word": "特朗普提名强硬派霍曼为边境事务负责人",
+      "onboard_time": 1731353951,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 62951,
       "num": 212372,
       "word": "小巷人家巷角遇到爱",
@@ -6433,14 +6441,6 @@
       "onboard_time": 1731191651,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39895,
-      "num": 34899,
-      "word": "特朗普提名强硬派霍曼为边境事务负责人",
-      "onboard_time": 1731353951,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 39724,
@@ -7267,20 +7267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13030,
+      "num": 13030,
+      "word": "男孩离校出走前曾被女友家长扇巴掌",
+      "onboard_time": 1731355870,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12962,
+      "num": 35008,
+      "word": "沉浸式感受苏57旱地拔葱一飞冲天",
+      "onboard_time": 1731355991,
+      "rank": 9,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 12380,
       "num": 24912,
       "word": "本届航展动态演示区新装备超三成",
       "onboard_time": 1731264791,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 12229,
-      "num": 35008,
-      "word": "沉浸式感受苏57旱地拔葱一飞冲天",
-      "onboard_time": 1731355991,
-      "rank": 9,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 11777,
@@ -7297,6 +7305,14 @@
       "onboard_time": 1731337998,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10427,
+      "num": 15672,
+      "word": "美国指使挑动菲律在南海侵权挑衅",
+      "onboard_time": 1731355932,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 9797,
