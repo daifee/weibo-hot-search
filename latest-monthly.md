@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/12 06:38:15
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/12 07:20:32
 </p>
 </blockquote>
 <p>
@@ -3105,6 +3105,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
+发型师晓华爆改乌克兰宝爸（热度：764532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E8%85%BF%E9%83%A8%E6%8B%89%E4%BC%A4%E9%80%80%E8%B5%9B%23" target="weibo">
 林高远腿部拉伤退赛（热度：763369）
 </a>
@@ -4709,12 +4715,6 @@ EXO经纪人发文（热度：569588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%AC%A7%E6%89%8E%E5%85%8B%23" target="weibo">
 孙颖莎 欧扎克（热度：552446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9D%E7%88%B8%23" target="weibo">
-发型师晓华爆改乌克兰宝爸（热度：551586）
 </a>
 </li>
 

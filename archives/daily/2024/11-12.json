@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731364695311,
+  "endTime": 1731367232397,
   "band_list": [
     {
       "raw_hot": 1184250,
@@ -9,6 +9,14 @@
       "onboard_time": 1731340457,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 764532,
+      "num": 816769,
+      "word": "发型师晓华爆改乌克兰宝爸",
+      "onboard_time": 1731332780,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 710854,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506221,
-      "num": 320396,
-      "word": "发型师晓华爆改乌克兰宝爸",
-      "onboard_time": 1731332780,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 462976,
       "num": 390130,
       "word": "林一沈月cos赵露思刘宇宁",
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395609,
+      "num": 183523,
+      "word": "特朗普提名强硬派霍曼为边境事务负责人",
+      "onboard_time": 1731353951,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 381816,
       "num": 381816,
       "word": "医生殴打便利店老板致死被刑拘",
@@ -81,6 +89,14 @@
       "onboard_time": 1731338300,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325509,
+      "num": 325509,
+      "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+      "onboard_time": 1731342917,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320304,
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293188,
+      "num": 293188,
+      "word": "仅3厘米大的核舟窗户居然能开关",
+      "onboard_time": 1731363733,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293041,
       "num": 293041,
       "word": "麦琳退掉的汉服",
@@ -129,6 +153,14 @@
       "onboard_time": 1731333199,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211897,
+      "num": 211897,
+      "word": "官方再次回应万安县95后女干部提拔副科",
+      "onboard_time": 1731333981,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210406,
@@ -163,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175241,
-      "num": 73192,
-      "word": "特朗普提名强硬派霍曼为边境事务负责人",
-      "onboard_time": 1731353951,
-      "rank": 10,
-      "category": "国外时政"
+      "raw_hot": 177333,
+      "num": 177333,
+      "word": "福建莆田一15岁男孩离校后失联",
+      "onboard_time": 1731359351,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175187,
@@ -176,6 +208,22 @@
       "word": "李定豪 阮小咪",
       "onboard_time": 1731315618,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172087,
+      "num": 117167,
+      "word": "顺产妈妈用错力致整脸肿胀",
+      "onboard_time": 1731345134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172086,
+      "num": 196534,
+      "word": "张艺谋说对电影解说短视频很无语",
+      "onboard_time": 1731323658,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -227,20 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128138,
-      "num": 128138,
-      "word": "福建莆田一15岁男孩离校后失联",
-      "onboard_time": 1731359351,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 128113,
+      "num": 67238,
+      "word": "晓华隔壁理发店1天下来门可罗雀",
+      "onboard_time": 1731362652,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 121048,
-      "num": 166485,
-      "word": "三星堆一团皱皱金箔展开后飞出小鸟",
-      "onboard_time": 1731342917,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 122907,
+      "num": 122907,
+      "word": "晓华拉动现场消费超2000万元",
+      "onboard_time": 1731351311,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 117721,
@@ -265,14 +313,6 @@
       "onboard_time": 1731337400,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111054,
-      "num": 54396,
-      "word": "顺产妈妈用错力致整脸肿胀",
-      "onboard_time": 1731345134,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106863,
@@ -347,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81335,
+      "num": 81335,
+      "word": "这个国家把中国人称作老乡",
+      "onboard_time": 1731364393,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 81176,
       "num": 81176,
       "word": "失笑站内热度破21000",
@@ -385,22 +433,6 @@
       "onboard_time": 1731339559,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72795,
-      "num": 72795,
-      "word": "张艺谋说对电影解说短视频很无语",
-      "onboard_time": 1731323658,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 71874,
-      "num": 71874,
-      "word": "官方再次回应万安县95后女干部提拔副科",
-      "onboard_time": 1731333981,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71097,
@@ -459,12 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52054,
-      "num": 52054,
-      "word": "晓华拉动现场消费超2000万元",
-      "onboard_time": 1731351311,
-      "rank": 9,
-      "category": "社会新闻,网红"
+      "raw_hot": 51062,
+      "num": 51062,
+      "word": "男孩离校出走前曾被女友家长扇巴掌",
+      "onboard_time": 1731355870,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50909,
+      "num": 69024,
+      "word": "疯狂好六夜全员素颜下班",
+      "onboard_time": 1731365774,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 49129,
@@ -473,6 +513,14 @@
       "onboard_time": 1731329119,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48775,
+      "num": 48775,
+      "word": "Excel装修风",
+      "onboard_time": 1731353350,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 47778,
@@ -499,27 +547,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40455,
-      "num": 73468,
-      "word": "仅3厘米大的核舟窗户居然能开关",
-      "onboard_time": 1731363733,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35219,
-      "num": 31161,
-      "word": "晓华隔壁理发店1天下来门可罗雀",
-      "onboard_time": 1731362652,
-      "rank": 44,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 34497,
       "num": 41831,
       "word": "军事专家夸歼35A好形象",
       "onboard_time": 1731343995,
       "rank": 45,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 34249,
+      "num": 42903,
+      "word": "战机多又不远航展看珠海",
+      "onboard_time": 1731364993,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 32464,
+      "num": 42825,
+      "word": "跟总台记者逛中国航展轻武器展区",
+      "onboard_time": 1731360791,
+      "rank": 35,
       "category": "军事"
     },
     {
@@ -531,20 +579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30998,
+      "num": 42790,
+      "word": "学前教育多点快乐让孩子健康成长",
+      "onboard_time": 1731365233,
+      "rank": 49,
+      "category": "母婴育儿,教育"
+    },
+    {
       "raw_hot": 29360,
       "num": 41813,
       "word": "30元理发绝不会拉低行业档次",
       "onboard_time": 1731318738,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 26181,
-      "num": 26181,
-      "word": "男孩离校出走前曾被女友家长扇巴掌",
-      "onboard_time": 1731355870,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25040,
@@ -561,14 +609,6 @@
       "onboard_time": 1731357611,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 20581,
-      "num": 23986,
-      "word": "Excel装修风",
-      "onboard_time": 1731353350,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 20483,
@@ -643,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13915,
+      "num": 190303,
+      "word": "扎根亚太建设亚太造福亚太",
+      "onboard_time": 1731366795,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12962,
       "num": 35008,
       "word": "沉浸式感受苏57旱地拔葱一飞冲天",
@@ -656,14 +704,6 @@
       "word": "向人民空军致敬",
       "onboard_time": 1731360911,
       "rank": 29,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 10759,
-      "num": 16612,
-      "word": "跟总台记者逛中国航展轻武器展区",
-      "onboard_time": 1731360791,
-      "rank": 35,
       "category": "军事"
     },
     {
