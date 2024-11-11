@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731317882782,
+  "endTime": 1731320671317,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -33,6 +33,14 @@
       "onboard_time": 1731290117,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2166788,
+      "num": 2166788,
+      "word": "考公放宽至40岁释放什么信号",
+      "onboard_time": 1731316040,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2111060,
@@ -249,6 +257,14 @@
       "onboard_time": 1731307097,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109766,
+      "num": 295750,
+      "word": "真维斯回应",
+      "onboard_time": 1731317718,
+      "rank": 47,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 1098915,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672074,
+      "num": 672074,
+      "word": "30元理发绝不会拉低行业档次",
+      "onboard_time": 1731318738,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 665745,
       "num": 665745,
       "word": "山西一家三口烧煤取暖中毒身亡",
@@ -680,6 +704,14 @@
       "word": "李定豪 阮小咪",
       "onboard_time": 1731315618,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 651073,
+      "num": 398187,
+      "word": "翁青雅 彭高",
+      "onboard_time": 1731316939,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -939,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 511939,
-      "num": 398187,
-      "word": "翁青雅 彭高",
-      "onboard_time": 1731316939,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 511611,
       "num": 511611,
       "word": "禹宙中欣",
@@ -1115,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449775,
+      "num": 449775,
+      "word": "晓华理发店周围连夜铺路扩街",
+      "onboard_time": 1731315919,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 448190,
       "num": 448190,
       "word": "IVE新歌被骂",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1731193933,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436451,
-      "num": 436451,
-      "word": "考公放宽至40岁释放什么信号",
-      "onboard_time": 1731316040,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432525,
@@ -1411,12 +1435,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 355262,
+      "num": 286195,
+      "word": "4名受贿干部已清退出学生会",
+      "onboard_time": 1731318619,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354856,
       "num": 361141,
       "word": "日本举行首相指名选举",
       "onboard_time": 1731286039,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 353575,
+      "num": 353575,
+      "word": "王一栩 崇拜虞书欣供着虞书欣",
+      "onboard_time": 1731315559,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 348643,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1731224359,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342308,
+      "num": 342308,
+      "word": "晚晚大嘴 再见爱人",
+      "onboard_time": 1731316338,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 341777,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1731300199,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303890,
-      "num": 303890,
-      "word": "王一栩 崇拜虞书欣供着虞书欣",
-      "onboard_time": 1731315559,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 302804,
@@ -1955,14 +1995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245083,
-      "num": 245083,
-      "word": "晚晚大嘴 再见爱人",
-      "onboard_time": 1731316338,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244276,
       "num": 244276,
       "word": "美媒测算特朗普已获得312张选举人票",
@@ -2163,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224184,
+      "num": 224184,
+      "word": "碘伏祛痘的原理搞清楚了",
+      "onboard_time": 1731318498,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223777,
       "num": 223777,
       "word": "分享欲才是两个人感情最好的证明",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1731233420,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221449,
+      "num": 241435,
+      "word": "永夜星河21.7%占比新高",
+      "onboard_time": 1731318858,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 221372,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1731252260,
       "rank": 37,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 209798,
+      "num": 234479,
+      "word": "小作坊下料就是猛",
+      "onboard_time": 1731317840,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 207563,
@@ -2595,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197351,
+      "num": 233957,
+      "word": "陈好被花椒打脸了",
+      "onboard_time": 1731318498,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197201,
       "num": 197201,
       "word": "夜骑开封的共享单车被倒卖",
@@ -2649,6 +2713,14 @@
       "onboard_time": 1731289278,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193554,
+      "num": 224696,
+      "word": "地租 好听",
+      "onboard_time": 1731320000,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 193258,
@@ -3083,6 +3155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170869,
+      "num": 170869,
+      "word": "石破茂当选首相艰难到30年一见",
+      "onboard_time": 1731317181,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 170708,
       "num": 170708,
       "word": "尹锡悦为推进与特朗普合作重拾高尔夫",
@@ -3395,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157696,
+      "num": 157696,
+      "word": "关晓彤演技",
+      "onboard_time": 1731320299,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157502,
       "num": 157502,
       "word": "比特币",
@@ -3464,6 +3552,14 @@
       "word": "浙江回应鼓励有条件家庭生四孩",
       "onboard_time": 1731250641,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155167,
+      "num": 155167,
+      "word": "我国未来可发射一箭50星",
+      "onboard_time": 1731320178,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -3731,14 +3827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142437,
-      "num": 142437,
-      "word": "石破茂当选首相艰难到30年一见",
-      "onboard_time": 1731317181,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "毛绒帽真的可以改变脑袋形状",
@@ -3891,6 +3979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136200,
+      "num": 136200,
+      "word": "端午是什么i女圣体",
+      "onboard_time": 1731320419,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136099,
       "num": 136099,
       "word": "李宏毅古装",
@@ -4011,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127760,
+      "num": 127760,
+      "word": "中医认证艾灸贴属于智商税",
+      "onboard_time": 1731320000,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126769,
       "num": 126769,
       "word": "塔图姆回应字母哥垫脚",
@@ -4041,6 +4145,14 @@
       "onboard_time": 1731210377,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126352,
+      "num": 126352,
+      "word": "鞠婧祎的多面之美",
+      "onboard_time": 1731319580,
+      "rank": 45,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 126305,
@@ -4155,6 +4267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121627,
+      "num": 121627,
+      "word": "为中国航天点赞",
+      "onboard_time": 1731319818,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120959,
       "num": 120959,
       "word": "好品山东",
@@ -4163,12 +4283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120347,
-      "num": 120347,
-      "word": "真维斯回应",
-      "onboard_time": 1731317718,
-      "rank": 47,
-      "category": "体育,作品衍生"
+      "raw_hot": 120292,
+      "num": 120292,
+      "word": "高中学生会干部索取钱财属实",
+      "onboard_time": 1731318738,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120213,
@@ -4257,14 +4377,6 @@
       "onboard_time": 1731289038,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 116190,
-      "num": 116190,
-      "word": "小作坊下料就是猛",
-      "onboard_time": 1731317840,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 115188,
@@ -4393,6 +4505,14 @@
       "onboard_time": 1731293538,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 106995,
+      "num": 225282,
+      "word": "再见爱人选角",
+      "onboard_time": 1731319159,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 106617,
@@ -4529,6 +4649,14 @@
       "onboard_time": 1731220520,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 100413,
+      "num": 292945,
+      "word": "石破茂疑在首相投票现场睡着",
+      "onboard_time": 1731320119,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 99772,
@@ -4689,6 +4817,14 @@
       "onboard_time": 1731224479,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81013,
+      "num": 296176,
+      "word": "曾直播流水数十亿如今播不下去了",
+      "onboard_time": 1731319818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81011,
@@ -4868,7 +5004,7 @@
     },
     {
       "raw_hot": 68490,
-      "num": 549854,
+      "num": 694336,
       "word": "中国一箭15星发射成功",
       "onboard_time": 1731315318,
       "rank": 2,
@@ -5835,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19426,
+      "num": 287826,
+      "word": "交通执法人员被司机顶引擎盖疾驰",
+      "onboard_time": 1731319760,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19093,
       "num": 52860,
       "word": "彩虹7无人机已具备上舰能力",
@@ -5881,6 +6025,14 @@
       "onboard_time": 1731260415,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17279,
+      "num": 292033,
+      "word": "麦学成观众全新人类样本考察",
+      "onboard_time": 1731319459,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 17253,
@@ -6053,6 +6205,9 @@
     },
     {
       "word": "#总书记嘱托这样护宝#"
+    },
+    {
+      "word": "#习近平主席引经据典话亚太合作#"
     }
   ]
 }

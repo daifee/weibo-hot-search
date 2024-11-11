@@ -1,0 +1,410 @@
+{
+  "runTime": 1731320671317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2166788,
+        "num": 2166788,
+        "word": "考公放宽至40岁释放什么信号",
+        "onboard_time": 1731316040,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006689,
+        "num": 1006689,
+        "word": "麦琳承认自己有点道德绑架",
+        "onboard_time": 1731315020,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44325,
+        "num": 694336,
+        "word": "中国一箭15星发射成功",
+        "onboard_time": 1731315318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672074,
+        "num": 672074,
+        "word": "30元理发绝不会拉低行业档次",
+        "onboard_time": 1731318738,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 449775,
+        "num": 449775,
+        "word": "晓华理发店周围连夜铺路扩街",
+        "onboard_time": 1731315919,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 420847,
+        "num": 420847,
+        "word": "石破茂再当选日本首相",
+        "onboard_time": 1731309558,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 353575,
+        "num": 353575,
+        "word": "王一栩 崇拜虞书欣供着虞书欣",
+        "onboard_time": 1731315559,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342308,
+        "num": 342308,
+        "word": "晚晚大嘴 再见爱人",
+        "onboard_time": 1731316338,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296794,
+        "num": 296794,
+        "word": "公职人员收间谍100多万被判无期徒刑",
+        "onboard_time": 1731301399,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81013,
+        "num": 296176,
+        "word": "曾直播流水数十亿如今播不下去了",
+        "onboard_time": 1731319818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109766,
+        "num": 295750,
+        "word": "真维斯回应",
+        "onboard_time": 1731317718,
+        "rank": 10,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 1253815,
+        "num": 294467,
+        "word": "虞书欣好辣",
+        "onboard_time": 1731313939,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651073,
+        "num": 293925,
+        "word": "翁青雅 彭高",
+        "onboard_time": 1731316939,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100413,
+        "num": 292945,
+        "word": "石破茂疑在首相投票现场睡着",
+        "onboard_time": 1731320119,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17279,
+        "num": 292033,
+        "word": "麦学成观众全新人类样本考察",
+        "onboard_time": 1731319459,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815779,
+        "num": 291316,
+        "word": "拜登还有70天说服特朗普不要放弃乌克兰",
+        "onboard_time": 1731311598,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 730528,
+        "num": 290965,
+        "word": "晓华回复向太",
+        "onboard_time": 1731310219,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 707290,
+        "num": 290021,
+        "word": "曝高雅cp约会人均消费1300",
+        "onboard_time": 1731314659,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704644,
+        "num": 288823,
+        "word": "晓华隔壁理发师称偶尔会捡漏",
+        "onboard_time": 1731312498,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 19426,
+        "num": 287826,
+        "word": "交通执法人员被司机顶引擎盖疾驰",
+        "onboard_time": 1731319760,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565841,
+        "num": 287681,
+        "word": "李定豪 阮小咪",
+        "onboard_time": 1731315618,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355262,
+        "num": 286195,
+        "word": "4名受贿干部已清退出学生会",
+        "onboard_time": 1731318619,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327952,
+        "num": 285683,
+        "word": "河南一高中学生会干部被曝受贿",
+        "onboard_time": 1731306079,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321426,
+        "num": 284683,
+        "word": "男子凌晨在巷子被捅8刀致死",
+        "onboard_time": 1731307097,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284425,
+        "num": 284425,
+        "word": "永夜星河",
+        "onboard_time": 1731319098,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221449,
+        "num": 241435,
+        "word": "永夜星河21.7%占比新高",
+        "onboard_time": 1731318858,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209798,
+        "num": 234479,
+        "word": "小作坊下料就是猛",
+        "onboard_time": 1731317840,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197351,
+        "num": 233957,
+        "word": "陈好被花椒打脸了",
+        "onboard_time": 1731318498,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233953,
+        "num": 233953,
+        "word": "长沙一小区9栋楼170个井盖",
+        "onboard_time": 1731309319,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106995,
+        "num": 225282,
+        "word": "再见爱人选角",
+        "onboard_time": 1731319159,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193554,
+        "num": 224696,
+        "word": "地租 好听",
+        "onboard_time": 1731320000,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224184,
+        "num": 224184,
+        "word": "碘伏祛痘的原理搞清楚了",
+        "onboard_time": 1731318498,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197414,
+        "num": 197414,
+        "word": "黄岩岛争端",
+        "onboard_time": 1731312078,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195613,
+        "num": 195613,
+        "word": "晓华说自己还没学会剪女发",
+        "onboard_time": 1731309377,
+        "rank": 33,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 179585,
+        "num": 179585,
+        "word": "恒欣引力",
+        "onboard_time": 1731314718,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170869,
+        "num": 170869,
+        "word": "石破茂当选首相艰难到30年一见",
+        "onboard_time": 1731317181,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167011,
+        "num": 167011,
+        "word": "孙乐言 你我都出现在最好的时间",
+        "onboard_time": 1731309198,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166086,
+        "num": 166086,
+        "word": "晓华说想跟楼上邻居说声抱歉",
+        "onboard_time": 1731311658,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 165561,
+        "num": 165561,
+        "word": "杭州女子一直喉咙痛竟是咖啡惹的祸",
+        "onboard_time": 1731306020,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157696,
+        "num": 157696,
+        "word": "关晓彤演技",
+        "onboard_time": 1731320299,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155167,
+        "num": 155167,
+        "word": "我国未来可发射一箭50星",
+        "onboard_time": 1731320178,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143363,
+        "num": 143363,
+        "word": "卢昱晓韩国vlog",
+        "onboard_time": 1731316338,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140236,
+        "num": 140236,
+        "word": "女子遭家暴婆婆抱孩子站一旁",
+        "onboard_time": 1731294919,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136200,
+        "num": 136200,
+        "word": "端午是什么i女圣体",
+        "onboard_time": 1731320419,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127760,
+        "num": 127760,
+        "word": "中医认证艾灸贴属于智商税",
+        "onboard_time": 1731320000,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126352,
+        "num": 126352,
+        "word": "鞠婧祎的多面之美",
+        "onboard_time": 1731319580,
+        "rank": 45,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 124649,
+        "num": 124649,
+        "word": "IVE新歌被骂",
+        "onboard_time": 1731306618,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121627,
+        "num": 121627,
+        "word": "为中国航天点赞",
+        "onboard_time": 1731319818,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 120292,
+        "word": "高中学生会干部索取钱财属实",
+        "onboard_time": 1731318738,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119585,
+        "num": 119585,
+        "word": "涵艺爆料RA确认退出LPL",
+        "onboard_time": 1731315679,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席引经据典话亚太合作#"
+    }
+  }
+}
