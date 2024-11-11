@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731331670728,
+  "endTime": 1731332350445,
   "band_list": [
     {
       "raw_hot": 2855133,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1257027,
+      "num": 1257027,
+      "word": "papi酱 家都不回你在托举什么",
+      "onboard_time": 1731328819,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1244576,
       "num": 1244576,
       "word": "李晓华说放假第一件事是在家睡两天",
@@ -123,20 +131,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1208372,
+      "num": 604809,
+      "word": "丁禹兮 唐梓",
+      "onboard_time": 1731330260,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1177683,
       "num": 448131,
       "word": "女子遭家暴婆婆抱孩子站一旁",
       "onboard_time": 1731294919,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1173104,
-      "num": 1187696,
-      "word": "papi酱 家都不回你在托举什么",
-      "onboard_time": 1731328819,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 1119164,
@@ -227,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 896123,
-      "num": 505213,
-      "word": "丁禹兮 唐梓",
-      "onboard_time": 1731330260,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 892098,
       "num": 457622,
       "word": "曝高雅cp约会人均消费1300",
@@ -313,6 +313,14 @@
       "onboard_time": 1731302419,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 790654,
+      "num": 790654,
+      "word": "珠海航展",
+      "onboard_time": 1731328637,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 775914,
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 587325,
-      "num": 587325,
-      "word": "珠海航展",
-      "onboard_time": 1731328637,
-      "rank": 34,
-      "category": "军事"
-    },
-    {
       "raw_hot": 573898,
       "num": 573898,
       "word": "学校称体罚男孩老师系合同工",
@@ -497,6 +497,14 @@
       "onboard_time": 1731292697,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 564104,
+      "num": 564104,
+      "word": "手机电量用完再充会损害电池",
+      "onboard_time": 1731327500,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 563784,
@@ -603,14 +611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 482386,
-      "num": 482386,
-      "word": "手机电量用完再充会损害电池",
-      "onboard_time": 1731327500,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 475566,
       "num": 475566,
       "word": "虞书欣跳红昭愿",
@@ -675,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440157,
+      "num": 429508,
+      "word": "温峥嵘 因为妈不同啊",
+      "onboard_time": 1731328459,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440080,
       "num": 440080,
       "word": "王玉雯的反击给我看爽了",
@@ -697,14 +705,6 @@
       "onboard_time": 1731282978,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429508,
-      "num": 429508,
-      "word": "温峥嵘 因为妈不同啊",
-      "onboard_time": 1731328459,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 412345,
@@ -755,6 +755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 377292,
+      "num": 377292,
+      "word": "六问大专学历女干部被提拔副科",
+      "onboard_time": 1731330139,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377182,
       "num": 377182,
       "word": "恒欣引力",
@@ -769,6 +777,14 @@
       "onboard_time": 1731242960,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371741,
+      "num": 295099,
+      "word": "青海一便利店老板被殴打10秒后死亡",
+      "onboard_time": 1731329959,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365367,
@@ -819,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343276,
+      "num": 293641,
+      "word": "冷冻馒头超过两天会长黄曲霉素",
+      "onboard_time": 1731330199,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 333605,
       "num": 333605,
       "word": "林诗栋4比1卡尔伯格",
@@ -833,6 +857,14 @@
       "onboard_time": 1731309679,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329466,
+      "num": 329466,
+      "word": "杨幂机场",
+      "onboard_time": 1731331037,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 327334,
@@ -859,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309322,
-      "num": 309322,
-      "word": "六问大专学历女干部被提拔副科",
-      "onboard_time": 1731330139,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308619,
       "num": 308619,
       "word": "阿条姐晒十个勤天演唱会照片",
@@ -883,12 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302605,
-      "num": 240510,
-      "word": "青海一便利店老板被殴打10秒后死亡",
-      "onboard_time": 1731329959,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 302938,
+      "num": 302938,
+      "word": "丁禹兮连女儿名字都想好了",
+      "onboard_time": 1731331339,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 302354,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292358,
+      "num": 292358,
+      "word": "小巷人家",
+      "onboard_time": 1731328159,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288620,
       "num": 288620,
       "word": "何炅谢娜同台主持",
@@ -969,14 +1001,6 @@
       "onboard_time": 1731323958,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284330,
-      "num": 238348,
-      "word": "冷冻馒头超过两天会长黄曲霉素",
-      "onboard_time": 1731330199,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 276324,
@@ -1123,22 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234612,
-      "num": 234612,
-      "word": "小巷人家",
-      "onboard_time": 1731328159,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 233477,
-      "num": 233477,
-      "word": "杨幂机场",
-      "onboard_time": 1731331037,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233376,
       "num": 233376,
       "word": "毓言cp陪看没了",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1731317181,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229730,
+      "num": 229730,
+      "word": "孙颖莎王楚钦单打冠军数量仍第一",
+      "onboard_time": 1731328999,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 228813,
@@ -1241,14 +1257,6 @@
       "onboard_time": 1731313699,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215025,
-      "num": 215025,
-      "word": "孙颖莎王楚钦单打冠军数量仍第一",
-      "onboard_time": 1731328999,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 214694,
@@ -1409,14 +1417,6 @@
       "onboard_time": 1731327799,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 198880,
-      "num": 198880,
-      "word": "丁禹兮连女儿名字都想好了",
-      "onboard_time": 1731331339,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 198792,
@@ -1587,18 +1587,18 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183102,
-      "num": 183102,
-      "word": "关晓彤小巷人家眼神戏",
-      "onboard_time": 1731281417,
+      "raw_hot": 183197,
+      "num": 195984,
+      "word": "不敢想象凌妙妙清醒过来得多难过",
+      "onboard_time": 1731329299,
       "rank": 28,
       "category": "剧集"
     },
     {
-      "raw_hot": 181911,
-      "num": 195984,
-      "word": "不敢想象凌妙妙清醒过来得多难过",
-      "onboard_time": 1731329299,
+      "raw_hot": 183102,
+      "num": 183102,
+      "word": "关晓彤小巷人家眼神戏",
+      "onboard_time": 1731281417,
       "rank": 28,
       "category": "剧集"
     },
@@ -1665,6 +1665,14 @@
       "onboard_time": 1731314359,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174407,
+      "num": 174407,
+      "word": "歼35A最新训练画面披露",
+      "onboard_time": 1731332324,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 173357,
@@ -1803,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162981,
+      "num": 162981,
+      "word": "抗癌男子筹款5天后晒新房照",
+      "onboard_time": 1731331820,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162933,
       "num": 162933,
       "word": "医院病理室主任酒后值班被免职",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1731329299,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161125,
+      "num": 217703,
+      "word": "古代人也对发量有追求",
+      "onboard_time": 1731332240,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160750,
@@ -2075,6 +2099,30 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 146882,
+      "num": 146882,
+      "word": "我国古代人就开始戴假发了",
+      "onboard_time": 1731332240,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146436,
+      "num": 146436,
+      "word": "演技是男演员最好的医美",
+      "onboard_time": 1731331102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145995,
+      "num": 215051,
+      "word": "宋莹到哪都不会过得差",
+      "onboard_time": 1731329538,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145632,
       "num": 145632,
       "word": "深圳偶遇葛夕",
@@ -2243,14 +2291,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 130514,
-      "num": 215051,
-      "word": "宋莹到哪都不会过得差",
-      "onboard_time": 1731329538,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129519,
       "num": 129519,
       "word": "88岁钟南山上台致辞健步如飞",
@@ -2273,14 +2313,6 @@
       "onboard_time": 1731289038,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127011,
-      "num": 127011,
-      "word": "演技是男演员最好的医美",
-      "onboard_time": 1731331102,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 126769,
@@ -2539,6 +2571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107917,
+      "num": 217664,
+      "word": "筱婷栋哲大学恋爱日记",
+      "onboard_time": 1731331701,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107848,
       "num": 107848,
       "word": "勇士战胜雷霆",
@@ -2683,6 +2723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80809,
+      "num": 382079,
+      "word": "中介收200万造假文凭成本几毛",
+      "onboard_time": 1731330439,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79858,
       "num": 79858,
       "word": "用人民币感受冰岛物价",
@@ -2811,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66247,
+      "num": 379028,
+      "word": "天猫双11错过今晚就要再等365天",
+      "onboard_time": 1731330019,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66039,
       "num": 370224,
       "word": "妹子连续加班后确诊女星同款美女病",
@@ -2883,22 +2939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59164,
-      "num": 382079,
-      "word": "中介收200万造假文凭成本几毛",
-      "onboard_time": 1731330439,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57724,
-      "num": 379028,
-      "word": "天猫双11错过今晚就要再等365天",
-      "onboard_time": 1731330019,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 54014,
       "num": 54014,
       "word": "赵露思珠帘玉幕角色指数第一",
@@ -2913,6 +2953,14 @@
       "onboard_time": 1731309857,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53039,
+      "num": 465820,
+      "word": "局长陪餐应有随时到场的监管威慑",
+      "onboard_time": 1731330499,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52539,
@@ -3033,14 +3081,6 @@
       "onboard_time": 1731313879,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38133,
-      "num": 465820,
-      "word": "局长陪餐应有随时到场的监管威慑",
-      "onboard_time": 1731330499,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37442,
@@ -3387,6 +3427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15962,
+      "num": 301954,
+      "word": "霉霉看男友球赛",
+      "onboard_time": 1731331641,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 15835,
       "num": 259979,
       "word": "女浴室藏摄像头羽毛球馆负责人被控制",
@@ -3449,14 +3497,6 @@
       "onboard_time": 1731328518,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9114,
-      "num": 215358,
-      "word": "霉霉看男友球赛",
-      "onboard_time": 1731331641,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 7593,
