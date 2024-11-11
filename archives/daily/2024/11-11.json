@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731303576492,
+  "endTime": 1731306671642,
   "band_list": [
     {
       "raw_hot": 2799489,
@@ -33,6 +33,14 @@
       "onboard_time": 1731288019,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1673622,
+      "num": 1673622,
+      "word": "我喜欢妙妙 我要娶妙妙",
+      "onboard_time": 1731304097,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1644045,
@@ -107,8 +115,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 829094,
+      "num": 829094,
+      "word": "公职人员收间谍100多万被判无期徒刑",
+      "onboard_time": 1731301399,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797982,
-      "num": 383114,
+      "num": 494186,
       "word": "丁禹兮慕声是349%的喜欢",
       "onboard_time": 1731302419,
       "rank": 24,
@@ -201,6 +217,22 @@
       "onboard_time": 1731297439,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583494,
+      "num": 583494,
+      "word": "网红知假卖假被判刑3年赔32万",
+      "onboard_time": 1731303438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573898,
+      "num": 573898,
+      "word": "学校称体罚男孩老师系合同工",
+      "onboard_time": 1731300919,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566696,
@@ -315,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 450813,
+      "num": 450813,
+      "word": "高雅cp售后被删",
+      "onboard_time": 1731302419,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440080,
       "num": 440080,
       "word": "王玉雯的反击给我看爽了",
@@ -339,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415478,
-      "num": 398438,
-      "word": "高雅cp售后被删",
-      "onboard_time": 1731302419,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 407141,
       "num": 407141,
       "word": "丁禹兮拼了一个慕声两个妙妙",
       "onboard_time": 1731294197,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404605,
+      "num": 404605,
+      "word": "虞书欣跳红昭愿",
+      "onboard_time": 1731303978,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 401489,
@@ -491,12 +531,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 294564,
+      "num": 294564,
+      "word": "贵女",
+      "onboard_time": 1731300801,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288620,
       "num": 288620,
       "word": "何炅谢娜同台主持",
       "onboard_time": 1731241518,
       "rank": 8,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 282524,
+      "num": 282524,
+      "word": "河南一高中学生会干部被曝受贿",
+      "onboard_time": 1731306079,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276324,
@@ -513,6 +569,14 @@
       "onboard_time": 1731238758,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 274084,
+      "num": 228163,
+      "word": "用鸡柳骗回家的小狗1年的变化",
+      "onboard_time": 1731302358,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 273488,
@@ -539,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267910,
-      "num": 267910,
-      "word": "贵女",
-      "onboard_time": 1731300801,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265499,
       "num": 265499,
       "word": "丁俊晖国际锦标赛夺冠",
@@ -563,14 +619,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 253672,
-      "num": 253672,
-      "word": "学校称体罚男孩老师系合同工",
-      "onboard_time": 1731300919,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252874,
       "num": 431742,
       "word": "中国野猪致害省份多达26个",
@@ -579,12 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244144,
-      "num": 244144,
-      "word": "公职人员收间谍100多万被判无期徒刑",
-      "onboard_time": 1731301399,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 252640,
+      "num": 227428,
+      "word": "长痘时真正需要忌口的食物",
+      "onboard_time": 1731305718,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 246974,
+      "num": 226872,
+      "word": "突然发现INFJ在陌生城市更勇敢",
+      "onboard_time": 1731304938,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 243643,
@@ -643,20 +699,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 228593,
+      "num": 228593,
+      "word": "半导体芯片股爆发",
+      "onboard_time": 1731304399,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 226556,
+      "num": 226556,
+      "word": "留学了才发现鸡蛋是个很善良的食物",
+      "onboard_time": 1731303797,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 222029,
+      "num": 222029,
+      "word": "IVE新歌被骂",
+      "onboard_time": 1731306618,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218201,
       "num": 218201,
       "word": "在妇幼保健院装针孔摄像头被拘",
       "onboard_time": 1731257656,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217229,
-      "num": 217229,
-      "word": "用鸡柳骗回家的小狗1年的变化",
-      "onboard_time": 1731302358,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 214694,
@@ -723,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204426,
+      "num": 223897,
+      "word": "毓言cp陪看没了",
+      "onboard_time": 1731305057,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203699,
       "num": 203699,
       "word": "加沙孩子睡在妈妈坟墓上",
@@ -755,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200773,
+      "num": 227584,
+      "word": "林一沈月情侣拍照姿势",
+      "onboard_time": 1731305359,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200618,
       "num": 200618,
       "word": "狼队让三追四",
@@ -769,6 +857,14 @@
       "onboard_time": 1731252739,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194546,
+      "num": 194546,
+      "word": "赵露思刘宇宁捧脸对视",
+      "onboard_time": 1731305779,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 193559,
@@ -793,6 +889,14 @@
       "onboard_time": 1731290359,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192306,
+      "num": 192306,
+      "word": "心动的信号节目组 诈骗",
+      "onboard_time": 1731305899,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 192256,
@@ -875,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179843,
+      "num": 179843,
+      "word": "杭州女子一直喉咙痛竟是咖啡惹的祸",
+      "onboard_time": 1731306020,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176487,
       "num": 176487,
       "word": "这才叫化妆师",
@@ -889,6 +1001,14 @@
       "onboard_time": 1731301639,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173117,
+      "num": 173117,
+      "word": "力箭一号遥五运载火箭发射成功",
+      "onboard_time": 1731303679,
+      "rank": 38,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 172428,
@@ -945,6 +1065,14 @@
       "onboard_time": 1731299661,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164433,
+      "num": 164433,
+      "word": "尹锡悦为推进与特朗普合作重拾高尔夫",
+      "onboard_time": 1731305598,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 163180,
@@ -1059,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150843,
+      "num": 150843,
+      "word": "养狗人都懂这时候千万不能跑",
+      "onboard_time": 1731304338,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150712,
       "num": 252163,
       "word": "枭学生",
@@ -1081,6 +1217,14 @@
       "onboard_time": 1731295038,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147248,
+      "num": 453727,
+      "word": "大专生15万镀金海外硕士被揭学历造假",
+      "onboard_time": 1731304999,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145632,
@@ -1219,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127746,
+      "num": 127746,
+      "word": "航展开我家学校窗外了",
+      "onboard_time": 1731306559,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 126769,
       "num": 126769,
       "word": "塔图姆回应字母哥垫脚",
@@ -1296,6 +1448,14 @@
       "word": "学前儿童入园不得组织考试",
       "onboard_time": 1731294977,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122485,
+      "num": 122485,
+      "word": "中国机器狼打团战还有分工",
+      "onboard_time": 1731304159,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1451,6 +1611,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 83089,
+      "num": 223619,
+      "word": "宋佳老师可以做我妈妈吗",
+      "onboard_time": 1731304279,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82771,
       "num": 82771,
       "word": "孙颖莎要成为孙颖莎",
@@ -1473,14 +1641,6 @@
       "onboard_time": 1731254059,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 80037,
-      "num": 390290,
-      "word": "网红知假卖假被判刑3年赔32万",
-      "onboard_time": 1731303438,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79858,
@@ -1627,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53115,
+      "num": 332435,
+      "word": "老师狂扇学生巴掌开除不是终点",
+      "onboard_time": 1731306438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52539,
       "num": 157802,
       "word": "年轻人买黄金也开始看颜值了",
@@ -1641,6 +1809,14 @@
       "onboard_time": 1731298698,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51381,
+      "num": 223524,
+      "word": "郑钦文总决赛后发文",
+      "onboard_time": 1731305779,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 50801,
@@ -1731,7 +1907,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25145,
+      "raw_hot": 26185,
       "num": 770604,
       "word": "祝人民空军75周岁生日快乐",
       "onboard_time": 1731299179,

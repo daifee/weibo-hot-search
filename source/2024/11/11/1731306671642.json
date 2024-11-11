@@ -1,0 +1,410 @@
+{
+  "runTime": 1731306671642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673622,
+        "num": 1673622,
+        "word": "我喜欢妙妙 我要娶妙妙",
+        "onboard_time": 1731304097,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 829094,
+        "num": 829094,
+        "word": "公职人员收间谍100多万被判无期徒刑",
+        "onboard_time": 1731301399,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26185,
+        "num": 661256,
+        "word": "祝人民空军75周岁生日快乐",
+        "onboard_time": 1731299179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955631,
+        "num": 623753,
+        "word": "沈月 又不是我们先开始的",
+        "onboard_time": 1731299839,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583494,
+        "num": 583494,
+        "word": "网红知假卖假被判刑3年赔32万",
+        "onboard_time": 1731303438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573898,
+        "num": 573898,
+        "word": "学校称体罚男孩老师系合同工",
+        "onboard_time": 1731300919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494186,
+        "num": 494186,
+        "word": "丁禹兮慕声是349%的喜欢",
+        "onboard_time": 1731302419,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459344,
+        "num": 459344,
+        "word": "网友翻出16年晓华理发店照片",
+        "onboard_time": 1731282917,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147248,
+        "num": 453727,
+        "word": "大专生15万镀金海外硕士被揭学历造假",
+        "onboard_time": 1731304999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450813,
+        "num": 450813,
+        "word": "高雅cp售后被删",
+        "onboard_time": 1731302419,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516837,
+        "num": 446143,
+        "word": "美国大选后多地非洲裔收到摘棉花短信",
+        "onboard_time": 1731288019,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503337,
+        "num": 442703,
+        "word": "男孩被老师拎到讲台狂扇20多巴掌",
+        "onboard_time": 1731293358,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404605,
+        "num": 404605,
+        "word": "虞书欣跳红昭愿",
+        "onboard_time": 1731303978,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349368,
+        "num": 349368,
+        "word": "中国造出机器狼群兵器",
+        "onboard_time": 1731299539,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 53115,
+        "num": 332435,
+        "word": "老师狂扇学生巴掌开除不是终点",
+        "onboard_time": 1731306438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317389,
+        "num": 317389,
+        "word": "以色列要求公民国外旅行避免表明身份",
+        "onboard_time": 1731298879,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294564,
+        "num": 294564,
+        "word": "贵女",
+        "onboard_time": 1731300801,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282524,
+        "num": 282524,
+        "word": "河南一高中学生会干部被曝受贿",
+        "onboard_time": 1731306079,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273732,
+        "num": 273732,
+        "word": "成都混团世界杯名单出炉",
+        "onboard_time": 1731299179,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228593,
+        "num": 228593,
+        "word": "半导体芯片股爆发",
+        "onboard_time": 1731304399,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 449280,
+        "num": 228292,
+        "word": "女子遭家暴婆婆抱孩子站一旁",
+        "onboard_time": 1731294919,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274084,
+        "num": 228163,
+        "word": "用鸡柳骗回家的小狗1年的变化",
+        "onboard_time": 1731302358,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200773,
+        "num": 227584,
+        "word": "林一沈月情侣拍照姿势",
+        "onboard_time": 1731305359,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252640,
+        "num": 227428,
+        "word": "长痘时真正需要忌口的食物",
+        "onboard_time": 1731305718,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250536,
+        "num": 227170,
+        "word": "男子刷情人的卡向妻子转账13万",
+        "onboard_time": 1731296719,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246974,
+        "num": 226872,
+        "word": "突然发现INFJ在陌生城市更勇敢",
+        "onboard_time": 1731304938,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226556,
+        "num": 226556,
+        "word": "留学了才发现鸡蛋是个很善良的食物",
+        "onboard_time": 1731303797,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204426,
+        "num": 223897,
+        "word": "毓言cp陪看没了",
+        "onboard_time": 1731305057,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83089,
+        "num": 223619,
+        "word": "宋佳老师可以做我妈妈吗",
+        "onboard_time": 1731304279,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51381,
+        "num": 223524,
+        "word": "郑钦文总决赛后发文",
+        "onboard_time": 1731305779,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223481,
+        "num": 223481,
+        "word": "支付宝回应付款异常",
+        "onboard_time": 1731296778,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222029,
+        "num": 222029,
+        "word": "IVE新歌被骂",
+        "onboard_time": 1731306618,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219123,
+        "num": 219123,
+        "word": "顾客从韩国飞来找晓华剪头发",
+        "onboard_time": 1731290839,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194546,
+        "num": 194546,
+        "word": "赵露思刘宇宁捧脸对视",
+        "onboard_time": 1731305779,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192306,
+        "num": 192306,
+        "word": "心动的信号节目组 诈骗",
+        "onboard_time": 1731305899,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180306,
+        "num": 180306,
+        "word": "幼儿园招聘需做背景查询",
+        "onboard_time": 1731294438,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179843,
+        "num": 179843,
+        "word": "杭州女子一直喉咙痛竟是咖啡惹的祸",
+        "onboard_time": 1731306020,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179714,
+        "num": 179714,
+        "word": "枭起青壤",
+        "onboard_time": 1731301880,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173117,
+        "num": 173117,
+        "word": "力箭一号遥五运载火箭发射成功",
+        "onboard_time": 1731303679,
+        "rank": 38,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 165285,
+        "num": 165285,
+        "word": "麦琳吵架逻辑",
+        "onboard_time": 1731292697,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164433,
+        "num": 164433,
+        "word": "尹锡悦为推进与特朗普合作重拾高尔夫",
+        "onboard_time": 1731305598,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150843,
+        "num": 150843,
+        "word": "养狗人都懂这时候千万不能跑",
+        "onboard_time": 1731304338,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 138532,
+        "word": "心动的信号",
+        "onboard_time": 1731299119,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132178,
+        "num": 132178,
+        "word": "赵丽颖雁背斜阳",
+        "onboard_time": 1731300199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129672,
+        "num": 129672,
+        "word": "坚决纠正幼儿园小学化等行为",
+        "onboard_time": 1731295878,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127746,
+        "num": 127746,
+        "word": "航展开我家学校窗外了",
+        "onboard_time": 1731306559,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122485,
+        "num": 122485,
+        "word": "中国机器狼打团战还有分工",
+        "onboard_time": 1731304159,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121687,
+        "num": 121687,
+        "word": "肖战新专辑末日风预告",
+        "onboard_time": 1731299899,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114007,
+        "num": 114007,
+        "word": "丁禹兮做永夜星河拼豆",
+        "onboard_time": 1731287299,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113163,
+        "num": 113163,
+        "word": "医院病理室主任酒后值班被免职",
+        "onboard_time": 1731300919,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#让文明的灯塔照耀人类前行的正道#"
+    }
+  }
+}
