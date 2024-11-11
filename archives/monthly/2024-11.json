@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731289359057,
+  "endTime": 1731290373481,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1887751,
+      "num": 1887751,
+      "word": "美国大选后多地非洲裔收到摘棉花短信",
+      "onboard_time": 1731288019,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1861305,
       "num": 531657,
       "word": "摇人",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1730635939,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1559800,
-      "num": 1559800,
-      "word": "美国大选后多地非洲裔收到摘棉花短信",
-      "onboard_time": 1731288019,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1547344,
@@ -6011,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534293,
+      "num": 534293,
+      "word": "丁禹兮做拼豆",
+      "onboard_time": 1731287299,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533237,
       "num": 383312,
       "word": "刘晓庆曾给刘涛演丫鬟",
@@ -6275,6 +6283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512966,
+      "num": 512966,
+      "word": "周深回应撞衫大闸蟹",
+      "onboard_time": 1731280577,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 512050,
       "num": 512050,
       "word": "没认出张若昀后面的魏晨",
@@ -6296,6 +6312,14 @@
       "word": "魅女 怨女",
       "onboard_time": 1730549539,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 511611,
+      "num": 511611,
+      "word": "禹宙中欣",
+      "onboard_time": 1730938821,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -6404,7 +6428,7 @@
     },
     {
       "raw_hot": 501676,
-      "num": 357826,
+      "num": 413587,
       "word": "闫妮 机械姬",
       "onboard_time": 1731286640,
       "rank": 11,
@@ -6617,6 +6641,14 @@
       "onboard_time": 1730774719,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 485451,
+      "num": 485451,
+      "word": "张杰脸和身材各长各的",
+      "onboard_time": 1731288858,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 483754,
@@ -6851,14 +6883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467560,
-      "num": 467560,
-      "word": "周深回应撞衫大闸蟹",
-      "onboard_time": 1731280577,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 467514,
       "num": 412800,
       "word": "祝绪丹 永夜",
@@ -6912,14 +6936,6 @@
       "word": "丁禹兮人生镜头",
       "onboard_time": 1730980343,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 463729,
-      "num": 463729,
-      "word": "禹宙中欣",
-      "onboard_time": 1730938821,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -6993,6 +7009,14 @@
       "onboard_time": 1730936899,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456696,
+      "num": 456696,
+      "word": "iG",
+      "onboard_time": 1731288438,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 456649,
@@ -8179,14 +8203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 387746,
-      "num": 387746,
-      "word": "丁禹兮做拼豆",
-      "onboard_time": 1731287299,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 387449,
       "num": 357840,
       "word": "李兰迪评论区",
@@ -8441,6 +8457,14 @@
       "onboard_time": 1730983462,
       "rank": 15,
       "category": "军事,教育"
+    },
+    {
+      "raw_hot": 375366,
+      "num": 461472,
+      "word": "警方通报女子被家暴报警后仍遭踢踹",
+      "onboard_time": 1731288917,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375078,
@@ -8817,6 +8841,14 @@
       "onboard_time": 1730536099,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354856,
+      "num": 361141,
+      "word": "日本举行首相指名选举",
+      "onboard_time": 1731286039,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 354533,
@@ -11827,14 +11859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248025,
-      "num": 253595,
-      "word": "张杰脸和身材各长各的",
-      "onboard_time": 1731288858,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 247883,
       "num": 247883,
       "word": "丁禹兮 人前vs妖后",
@@ -13065,14 +13089,6 @@
       "onboard_time": 1731229939,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 216771,
-      "num": 216771,
-      "word": "iG",
-      "onboard_time": 1731288438,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 216753,
@@ -14403,6 +14419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201689,
+      "num": 201689,
+      "word": "女子被丈夫暴打报警后仍遭踢踹",
+      "onboard_time": 1731289278,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201577,
       "num": 201577,
       "word": "学前教育法来了",
@@ -15275,6 +15299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193931,
+      "num": 168100,
+      "word": "支付宝崩了",
+      "onboard_time": 1731290117,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "时代少年团演唱会重要通知",
@@ -15337,6 +15369,14 @@
       "onboard_time": 1731165140,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193559,
+      "num": 193559,
+      "word": "章昊和成员们一起看中国电视剧",
+      "onboard_time": 1731289278,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 193468,
@@ -17027,14 +17067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175917,
-      "num": 361141,
-      "word": "日本举行首相指名选举",
-      "onboard_time": 1731286039,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 175895,
       "num": 175895,
       "word": "涵艺说JackeyLove不可能回iG",
@@ -17675,14 +17707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169675,
-      "num": 169675,
-      "word": "警方通报女子被家暴报警后仍遭踢踹",
-      "onboard_time": 1731288917,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169583,
       "num": 169583,
       "word": "章昊跳whiplash",
@@ -17795,12 +17819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168494,
+      "num": 174625,
+      "word": "丁禹兮 聋的传人",
+      "onboard_time": 1731286280,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168348,
       "num": 168348,
       "word": "肖战新歌背景音是粉丝的声音",
       "onboard_time": 1731217340,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168090,
+      "num": 168090,
+      "word": "谨以此片献给人民空军成立75周年",
+      "onboard_time": 1731289336,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 168000,
@@ -17881,14 +17921,6 @@
       "onboard_time": 1730597659,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167493,
-      "num": 174625,
-      "word": "丁禹兮 聋的传人",
-      "onboard_time": 1731286280,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 167413,
@@ -20995,6 +21027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140031,
+      "num": 140031,
+      "word": "中国战机每一幕都安全感满满",
+      "onboard_time": 1731283939,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139892,
       "num": 139892,
       "word": "李一桐粉色高定",
@@ -21321,6 +21361,14 @@
       "onboard_time": 1731132139,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "中国排面看一次震撼一次",
+      "onboard_time": 1731289157,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136730,
@@ -21875,6 +21923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131864,
+      "num": 131864,
+      "word": "今天的人民空军霸气值拉满了",
+      "onboard_time": 1731289937,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "男子接FaceTime电话被骗15万",
@@ -22363,6 +22419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126769,
+      "num": 126769,
+      "word": "塔图姆回应字母哥垫脚",
+      "onboard_time": 1731289879,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126756,
       "num": 126756,
       "word": "小巷人家蛇瓜也有替身文学",
@@ -22475,14 +22539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125653,
-      "num": 125653,
-      "word": "章昊和成员们一起看中国电视剧",
-      "onboard_time": 1731289278,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125565,
       "num": 125565,
       "word": "十万彩礼做女友造谣者仍未道歉赔偿",
@@ -22505,6 +22561,14 @@
       "onboard_time": 1730452519,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125451,
+      "num": 125451,
+      "word": "中国经济既要正视困难更要坚定信心",
+      "onboard_time": 1731289579,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125335,
@@ -22555,6 +22619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125075,
+      "num": 125075,
+      "word": "祝人民空军75岁生日快乐",
+      "onboard_time": 1731283158,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 125035,
       "num": 125035,
       "word": "黑龙江水煮冰排和雾凇同框出现",
@@ -22568,14 +22640,6 @@
       "word": "我军首部战地记者宣传片",
       "onboard_time": 1730986644,
       "rank": 48,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 124877,
-      "num": 124877,
-      "word": "祝人民空军75岁生日快乐",
-      "onboard_time": 1731283158,
-      "rank": 43,
       "category": "军事"
     },
     {
@@ -23203,6 +23267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119340,
+      "num": 137551,
+      "word": "林诗栋奥运后已获5站男单冠军",
+      "onboard_time": 1731288257,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119296,
       "num": 119296,
       "word": "手把手教你开火车票电子发票",
@@ -23283,14 +23355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118599,
-      "num": 118599,
-      "word": "女子被丈夫暴打报警后仍遭踢踹",
-      "onboard_time": 1731289278,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118197,
       "num": 118197,
       "word": "珠帘玉幕一吻定情一箭决裂",
@@ -23353,14 +23417,6 @@
       "onboard_time": 1730480535,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 117817,
-      "num": 117817,
-      "word": "谨以此片献给人民空军成立75周年",
-      "onboard_time": 1731289336,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 117756,
@@ -24496,6 +24552,14 @@
       "word": "小巷人家预告好甜",
       "onboard_time": 1731201078,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105432,
+      "num": 105432,
+      "word": "永夜星河木镯子道歉",
+      "onboard_time": 1731290359,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -26000,14 +26064,6 @@
       "word": "国乒集体观战林诗栋",
       "onboard_time": 1731224479,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 81037,
-      "num": 137551,
-      "word": "林诗栋奥运后已获5站男单冠军",
-      "onboard_time": 1731288257,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -32988,7 +33044,7 @@
     },
     {
       "raw_hot": 6194,
-      "num": 1298409,
+      "num": 1329803,
       "word": "7组数据看进博成果",
       "onboard_time": 1731242360,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731290373481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1890714,
+        "num": 1890714,
+        "word": "网友翻出16年晓华理发店照片",
+        "onboard_time": 1731282917,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1887751,
+        "num": 1887751,
+        "word": "美国大选后多地非洲裔收到摘棉花短信",
+        "onboard_time": 1731288019,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3906,
+        "num": 1329803,
+        "word": "7组数据看进博成果",
+        "onboard_time": 1731242360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776200,
+        "num": 776200,
+        "word": "李晓华说放假第一件事是在家睡两天",
+        "onboard_time": 1731282917,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 581278,
+        "num": 581278,
+        "word": "日本石破内阁集体辞职",
+        "onboard_time": 1731284659,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 534293,
+        "num": 534293,
+        "word": "丁禹兮做拼豆",
+        "onboard_time": 1731287299,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512966,
+        "num": 512966,
+        "word": "周深回应撞衫大闸蟹",
+        "onboard_time": 1731280577,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 511611,
+        "num": 511611,
+        "word": "禹宙中欣",
+        "onboard_time": 1731285859,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485451,
+        "num": 485451,
+        "word": "张杰脸和身材各长各的",
+        "onboard_time": 1731288858,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375366,
+        "num": 461472,
+        "word": "警方通报女子被家暴报警后仍遭踢踹",
+        "onboard_time": 1731288917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639257,
+        "num": 459147,
+        "word": "李行亮觉醒",
+        "onboard_time": 1731244399,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456696,
+        "num": 456696,
+        "word": "iG",
+        "onboard_time": 1731288438,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413587,
+        "num": 413587,
+        "word": "闫妮 机械姬",
+        "onboard_time": 1731286640,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354856,
+        "num": 354856,
+        "word": "日本举行首相指名选举",
+        "onboard_time": 1731286039,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307085,
+        "num": 307085,
+        "word": "阿条姐晒十个勤天演唱会照片",
+        "onboard_time": 1731285139,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295539,
+        "num": 295539,
+        "word": "他捐款9万元为抗美援朝买战机",
+        "onboard_time": 1731282978,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254720,
+        "num": 254720,
+        "word": "男子将8万现金伪装成喜糖寄出",
+        "onboard_time": 1731246199,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254287,
+        "num": 254287,
+        "word": "泄密后反嘱咐对方千万别外传",
+        "onboard_time": 1731272050,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240796,
+        "num": 240796,
+        "word": "相伴20年男子竟杀了相亲对象在逃",
+        "onboard_time": 1731262032,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233244,
+        "num": 233244,
+        "word": "字母哥垫脚塔图姆",
+        "onboard_time": 1731285680,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401845,
+        "num": 229163,
+        "word": "女生涂碘伏祛痘3天后效果明显",
+        "onboard_time": 1731249442,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211502,
+        "num": 211502,
+        "word": "A股",
+        "onboard_time": 1731288318,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201689,
+        "num": 201689,
+        "word": "女子被丈夫暴打报警后仍遭踢踹",
+        "onboard_time": 1731289278,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193559,
+        "num": 193559,
+        "word": "章昊和成员们一起看中国电视剧",
+        "onboard_time": 1731289278,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191317,
+        "num": 191317,
+        "word": "拉夫劳伦退货率达95%成凑单神器",
+        "onboard_time": 1731227419,
+        "rank": 24,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 179325,
+        "num": 179325,
+        "word": "朴宝英喊话T1全员留队",
+        "onboard_time": 1731285018,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176477,
+        "num": 176477,
+        "word": "美43只在逃实验猴捉回一只",
+        "onboard_time": 1731257418,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168802,
+        "num": 168802,
+        "word": "人怎么可以外向成这个样子",
+        "onboard_time": 1731283458,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168494,
+        "num": 168494,
+        "word": "丁禹兮 聋的传人",
+        "onboard_time": 1731286280,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145795,
+        "num": 168102,
+        "word": "永夜星河好感度百分之99了",
+        "onboard_time": 1731252500,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193931,
+        "num": 168100,
+        "word": "支付宝崩了",
+        "onboard_time": 1731290117,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168090,
+        "num": 168090,
+        "word": "谨以此片献给人民空军成立75周年",
+        "onboard_time": 1731289336,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 157003,
+        "num": 157003,
+        "word": "商场内带狗吓到小孩父亲抢狗怒摔",
+        "onboard_time": 1731258015,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147499,
+        "num": 147499,
+        "word": "华盛顿聚集大量人群抗议特朗普",
+        "onboard_time": 1731273791,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143025,
+        "num": 143025,
+        "word": "关晓彤小巷人家眼神戏",
+        "onboard_time": 1731281417,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142067,
+        "num": 142067,
+        "word": "咱们空军的飞机你认识多少",
+        "onboard_time": 1731288917,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140031,
+        "num": 140031,
+        "word": "中国战机每一幕都安全感满满",
+        "onboard_time": 1731283939,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137038,
+        "num": 137038,
+        "word": "中国排面看一次震撼一次",
+        "onboard_time": 1731289157,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131864,
+        "num": 131864,
+        "word": "今天的人民空军霸气值拉满了",
+        "onboard_time": 1731289937,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131063,
+        "num": 131063,
+        "word": "国安公布涉密人员失泄密案件",
+        "onboard_time": 1731267611,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129794,
+        "num": 129794,
+        "word": "深圳偶遇葛夕",
+        "onboard_time": 1731285139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126769,
+        "num": 126769,
+        "word": "塔图姆回应字母哥垫脚",
+        "onboard_time": 1731289879,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125451,
+        "num": 125451,
+        "word": "中国经济既要正视困难更要坚定信心",
+        "onboard_time": 1731289579,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125075,
+        "num": 125075,
+        "word": "祝人民空军75岁生日快乐",
+        "onboard_time": 1731283158,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 119340,
+        "num": 119340,
+        "word": "林诗栋奥运后已获5站男单冠军",
+        "onboard_time": 1731288257,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118172,
+        "num": 118172,
+        "word": "多地省考年龄放宽至40岁周岁",
+        "onboard_time": 1731283939,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114371,
+        "num": 114371,
+        "word": "打过狂犬疫苗的人嘴可真严啊",
+        "onboard_time": 1731245841,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110343,
+        "num": 110343,
+        "word": "减肥人也是过上好日子了",
+        "onboard_time": 1731280936,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109359,
+        "num": 109359,
+        "word": "自驾阿姨说自己没有愧对任何人",
+        "onboard_time": 1731275651,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105432,
+        "num": 105432,
+        "word": "永夜星河木镯子道歉",
+        "onboard_time": 1731290359,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把蔬菜种植这个富民产业进一步做好#"
+    }
+  }
+}

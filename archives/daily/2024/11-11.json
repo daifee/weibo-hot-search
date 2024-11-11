@@ -1,6 +1,6 @@
 {
   "startTime": 1731255892440,
-  "endTime": 1731289359057,
+  "endTime": 1731290373481,
   "band_list": [
     {
       "raw_hot": 2003177,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1559800,
-      "num": 1559800,
+      "raw_hot": 1887751,
+      "num": 1887751,
       "word": "美国大选后多地非洲裔收到摘棉花短信",
       "onboard_time": 1731288019,
       "rank": 1,
@@ -83,8 +83,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534293,
+      "num": 534293,
+      "word": "丁禹兮做拼豆",
+      "onboard_time": 1731287299,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 512966,
+      "num": 512966,
+      "word": "周深回应撞衫大闸蟹",
+      "onboard_time": 1731280577,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 511611,
+      "num": 511611,
+      "word": "禹宙中欣",
+      "onboard_time": 1731285859,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501676,
-      "num": 357826,
+      "num": 413587,
       "word": "闫妮 机械姬",
       "onboard_time": 1731286640,
       "rank": 11,
@@ -107,20 +131,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 467560,
-      "num": 467560,
-      "word": "周深回应撞衫大闸蟹",
-      "onboard_time": 1731280577,
-      "rank": 36,
+      "raw_hot": 485451,
+      "num": 485451,
+      "word": "张杰脸和身材各长各的",
+      "onboard_time": 1731288858,
+      "rank": 18,
       "category": "演出"
     },
     {
-      "raw_hot": 463729,
-      "num": 463729,
-      "word": "禹宙中欣",
-      "onboard_time": 1731285859,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 456696,
+      "num": 456696,
+      "word": "iG",
+      "onboard_time": 1731288438,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 440080,
@@ -147,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387746,
-      "num": 387746,
-      "word": "丁禹兮做拼豆",
-      "onboard_time": 1731287299,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 375379,
       "num": 375379,
       "word": "费启鸣 请苍天辨忠奸",
@@ -163,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375366,
+      "num": 461472,
+      "word": "警方通报女子被家暴报警后仍遭踢踹",
+      "onboard_time": 1731288917,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361845,
       "num": 278719,
       "word": "徐艺洋方声明",
       "onboard_time": 1731239778,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354856,
+      "num": 361141,
+      "word": "日本举行首相指名选举",
+      "onboard_time": 1731286039,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 333605,
@@ -267,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248025,
-      "num": 253595,
-      "word": "张杰脸和身材各长各的",
-      "onboard_time": 1731288858,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 243643,
       "num": 243643,
       "word": "何与 双轨",
@@ -297,14 +321,6 @@
       "onboard_time": 1731257656,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216771,
-      "num": 216771,
-      "word": "iG",
-      "onboard_time": 1731288438,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 214694,
@@ -331,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211502,
+      "num": 251339,
+      "word": "A股",
+      "onboard_time": 1731288318,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211061,
       "num": 211061,
       "word": "永夜星河系统包宠的",
@@ -355,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201689,
+      "num": 201689,
+      "word": "女子被丈夫暴打报警后仍遭踢踹",
+      "onboard_time": 1731289278,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200618,
       "num": 200618,
       "word": "狼队让三追四",
@@ -369,6 +401,22 @@
       "onboard_time": 1731252739,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193931,
+      "num": 168100,
+      "word": "支付宝崩了",
+      "onboard_time": 1731290117,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 193559,
+      "num": 193559,
+      "word": "章昊和成员们一起看中国电视剧",
+      "onboard_time": 1731289278,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 192256,
@@ -427,28 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175917,
-      "num": 361141,
-      "word": "日本举行首相指名选举",
-      "onboard_time": 1731286039,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 169675,
-      "num": 169675,
-      "word": "警方通报女子被家暴报警后仍遭踢踹",
-      "onboard_time": 1731288917,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167493,
+      "raw_hot": 168494,
       "num": 174625,
       "word": "丁禹兮 聋的传人",
       "onboard_time": 1731286280,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168090,
+      "num": 168090,
+      "word": "谨以此片献给人民空军成立75周年",
+      "onboard_time": 1731289336,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 160160,
@@ -499,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145413,
-      "num": 251339,
-      "word": "A股",
-      "onboard_time": 1731288318,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 145021,
       "num": 145021,
       "word": "多地省考年龄放宽至40岁周岁",
@@ -531,6 +563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 140031,
+      "num": 140031,
+      "word": "中国战机每一幕都安全感满满",
+      "onboard_time": 1731283939,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 138322,
       "num": 138322,
       "word": "打过狂犬疫苗的人嘴可真严啊",
@@ -545,6 +585,14 @@
       "onboard_time": 1731280876,
       "rank": 31,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "中国排面看一次震撼一次",
+      "onboard_time": 1731289157,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133998,
@@ -571,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131864,
+      "num": 131864,
+      "word": "今天的人民空军霸气值拉满了",
+      "onboard_time": 1731289937,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 129519,
       "num": 129519,
       "word": "88岁钟南山上台致辞健步如飞",
@@ -587,16 +643,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125653,
-      "num": 125653,
-      "word": "章昊和成员们一起看中国电视剧",
-      "onboard_time": 1731289278,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 126769,
+      "num": 126769,
+      "word": "塔图姆回应字母哥垫脚",
+      "onboard_time": 1731289879,
+      "rank": 41,
+      "category": "体育"
     },
     {
-      "raw_hot": 124877,
-      "num": 124877,
+      "raw_hot": 125451,
+      "num": 125451,
+      "word": "中国经济既要正视困难更要坚定信心",
+      "onboard_time": 1731289579,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125075,
+      "num": 125075,
       "word": "祝人民空军75岁生日快乐",
       "onboard_time": 1731283158,
       "rank": 43,
@@ -627,20 +691,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 118599,
-      "num": 118599,
-      "word": "女子被丈夫暴打报警后仍遭踢踹",
-      "onboard_time": 1731289278,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117817,
-      "num": 117817,
-      "word": "谨以此片献给人民空军成立75周年",
-      "onboard_time": 1731289336,
-      "rank": 47,
-      "category": "军事"
+      "raw_hot": 119340,
+      "num": 137551,
+      "word": "林诗栋奥运后已获5站男单冠军",
+      "onboard_time": 1731288257,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 116328,
@@ -673,6 +729,14 @@
       "onboard_time": 1731254598,
       "rank": 41,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 105432,
+      "num": 105432,
+      "word": "永夜星河木镯子道歉",
+      "onboard_time": 1731290359,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105322,
@@ -729,14 +793,6 @@
       "onboard_time": 1731227239,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81037,
-      "num": 137551,
-      "word": "林诗栋奥运后已获5站男单冠军",
-      "onboard_time": 1731288257,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 81011,
@@ -1060,7 +1116,7 @@
     },
     {
       "raw_hot": 6194,
-      "num": 1298409,
+      "num": 1329803,
       "word": "7组数据看进博成果",
       "onboard_time": 1731242360,
       "rank": 2,
