@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731436969627,
+  "endTime": 1731439041959,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -507,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20014,
+      "num": 27106,
+      "word": "外交部回应菲方涉南海言论",
+      "onboard_time": 1731436751,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19949,
       "num": 108580,
       "word": "你好C909",
@@ -555,12 +563,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10138,
-      "num": 27106,
-      "word": "外交部回应菲方涉南海言论",
-      "onboard_time": 1731436751,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 9880,
+      "num": 37563,
+      "word": "尼日尔高级军官期待购买中国战机",
+      "onboard_time": 1731437472,
+      "rank": 9,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
