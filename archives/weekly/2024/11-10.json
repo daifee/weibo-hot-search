@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731380317447,
+  "endTime": 1731381884182,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -171,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1493885,
+      "num": 426040,
+      "word": "一个人吃火锅打完酱料回来锅被收了",
+      "onboard_time": 1731377118,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1476958,
       "num": 1476958,
       "word": "拉夫劳伦退货率达95%成凑单神器",
       "onboard_time": 1731227419,
       "rank": 14,
       "category": "财经,时尚"
-    },
-    {
-      "raw_hot": 1452465,
-      "num": 426040,
-      "word": "一个人吃火锅打完酱料回来锅被收了",
-      "onboard_time": 1731377118,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1431932,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088431,
+      "num": 424890,
+      "word": "烧伤妈妈说她实在熬不住了",
+      "onboard_time": 1731378859,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083589,
       "num": 1083589,
       "word": "王曼昱vs王艺迪",
@@ -449,14 +457,6 @@
       "onboard_time": 1731335960,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 998153,
-      "num": 424890,
-      "word": "烧伤妈妈说她实在熬不住了",
-      "onboard_time": 1731378859,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 993603,
@@ -811,6 +811,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 700649,
+      "num": 700649,
+      "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
+      "onboard_time": 1731376759,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 692069,
       "num": 692069,
       "word": "泄密后反嘱咐对方千万别外传",
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664357,
+      "num": 664357,
+      "word": "肖战作词",
+      "onboard_time": 1731380299,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 663060,
       "num": 515493,
       "word": "麦琳",
@@ -873,14 +889,6 @@
       "onboard_time": 1731315618,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647623,
-      "num": 647623,
-      "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
-      "onboard_time": 1731376759,
-      "rank": 4,
-      "category": "军事"
     },
     {
       "raw_hot": 645890,
@@ -1291,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499515,
+      "num": 499515,
+      "word": "歌手2025",
+      "onboard_time": 1731378380,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498213,
       "num": 498213,
       "word": "网红夫妇称做多项检查不存在传染病",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1731353951,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 433258,
-      "num": 433258,
-      "word": "歌手2025",
-      "onboard_time": 1731378380,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 432525,
@@ -1924,19 +1932,11 @@
     },
     {
       "raw_hot": 340065,
-      "num": 287950,
+      "num": 317097,
       "word": "顺产妈妈用错力致整脸肿胀",
       "onboard_time": 1731345134,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339973,
-      "num": 339973,
-      "word": "肖战作词",
-      "onboard_time": 1731380299,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 337341,
@@ -2065,6 +2065,14 @@
       "onboard_time": 1731237979,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311139,
+      "num": 431288,
+      "word": "升级版双座歼20亮相中国航展",
+      "onboard_time": 1731379038,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 310330,
@@ -2443,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256361,
+      "num": 256361,
+      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
+      "onboard_time": 1731379218,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256141,
       "num": 256141,
       "word": "宁静谢娜戚薇三代浪姐合体",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1731156438,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 253277,
+      "num": 341908,
+      "word": "金饰价格一夜下跌14元每克",
+      "onboard_time": 1731379339,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 252874,
@@ -2563,6 +2587,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 243654,
+      "num": 243654,
+      "word": "难哄婚卡彻底把我哄好了",
+      "onboard_time": 1731380299,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 241357,
+      "num": 347502,
+      "word": "2025芒果大剧片单",
+      "onboard_time": 1731380299,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241023,
       "num": 241023,
       "word": "我国南海部分岛礁标准名称公布",
@@ -2633,14 +2673,6 @@
       "onboard_time": 1731297978,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235328,
-      "num": 431288,
-      "word": "升级版双座歼20亮相中国航展",
-      "onboard_time": 1731379038,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 233376,
@@ -3019,14 +3051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208965,
-      "num": 208965,
-      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
-      "onboard_time": 1731379218,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208262,
       "num": 208262,
       "word": "Doinb和LWX训练赛红温",
@@ -3169,14 +3193,6 @@
       "onboard_time": 1731248600,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201817,
-      "num": 201817,
-      "word": "难哄婚卡彻底把我哄好了",
-      "onboard_time": 1731380299,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 201698,
@@ -3475,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190076,
+      "num": 356754,
+      "word": "为何金价连续大跳水",
+      "onboard_time": 1731380840,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190041,
       "num": 190041,
       "word": "人怎么可以外向成这个样子",
@@ -3484,7 +3508,7 @@
     },
     {
       "raw_hot": 189725,
-      "num": 189725,
+      "num": 322481,
       "word": "从歼35A视角看蓝天大地",
       "onboard_time": 1731378919,
       "rank": 34,
@@ -3875,6 +3899,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 173990,
+      "num": 226768,
+      "word": "水龙吟",
+      "onboard_time": 1731380299,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173900,
       "num": 219650,
       "word": "周也病娇感",
@@ -3905,6 +3937,14 @@
       "onboard_time": 1731301639,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173241,
+      "num": 226651,
+      "word": "尔滨又有新节目了",
+      "onboard_time": 1731377779,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173117,
@@ -4139,14 +4179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165225,
-      "num": 165225,
-      "word": "金饰价格一夜下跌14元每克",
-      "onboard_time": 1731379339,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 164901,
       "num": 164901,
       "word": "周也 乌兰察布",
@@ -4177,14 +4209,6 @@
       "onboard_time": 1731335482,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164294,
-      "num": 164294,
-      "word": "尔滨又有新节目了",
-      "onboard_time": 1731377779,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164178,
@@ -4283,14 +4307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160704,
-      "num": 160704,
-      "word": "2025芒果大剧片单",
-      "onboard_time": 1731380299,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160696,
       "num": 201282,
       "word": "宋佳要娶的女人太多了",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1731222501,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160458,
+      "num": 362646,
+      "word": "中东大客户已进入珠海航展现场",
+      "onboard_time": 1731380959,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 160314,
@@ -5011,14 +5035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 137221,
-      "num": 133019,
-      "word": "水龙吟",
-      "onboard_time": 1731380299,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137038,
       "num": 137038,
       "word": "中国排面看一次震撼一次",
@@ -5233,6 +5249,14 @@
       "onboard_time": 1731210377,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126417,
+      "num": 295923,
+      "word": "伊津野英昭入职腾讯",
+      "onboard_time": 1731379459,
+      "rank": 19,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 126413,
@@ -5547,6 +5571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 116027,
+      "num": 116027,
+      "word": "王鹤棣泰国演唱会票价",
+      "onboard_time": 1731381499,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115188,
       "num": 115188,
       "word": "时光音乐会下期是披荆斩棘",
@@ -5569,14 +5601,6 @@
       "onboard_time": 1731162740,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114187,
-      "num": 295923,
-      "word": "伊津野英昭入职腾讯",
-      "onboard_time": 1731379459,
-      "rank": 19,
-      "category": "游戏,互联网"
     },
     {
       "raw_hot": 114139,
@@ -5787,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104510,
+      "num": 104510,
+      "word": "邻居的小猫天天来找猫咪玩",
+      "onboard_time": 1731381679,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104061,
       "num": 104061,
       "word": "库里36分",
@@ -5825,6 +5857,14 @@
       "onboard_time": 1731237560,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102751,
+      "num": 102751,
+      "word": "玉茗茶骨",
+      "onboard_time": 1731381859,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 102611,
@@ -6371,6 +6411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 69285,
+      "num": 129800,
+      "word": "中山大学100周年校庆",
+      "onboard_time": 1731380478,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69060,
       "num": 404915,
       "word": "官方回应网友称图书馆有流浪汉",
@@ -6795,6 +6843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50018,
+      "num": 365306,
+      "word": "歼35系列战机的先进程度专家不敢说",
+      "onboard_time": 1731381439,
+      "rank": 12,
+      "category": "军事"
+    },
+    {
       "raw_hot": 49988,
       "num": 173415,
       "word": "杨迪你这样让我好不习惯",
@@ -6825,6 +6881,14 @@
       "onboard_time": 1731272651,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47937,
+      "num": 334919,
+      "word": "守望先锋2回归6V6",
+      "onboard_time": 1731380659,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 47871,
@@ -6932,7 +6996,7 @@
     },
     {
       "raw_hot": 44158,
-      "num": 190260,
+      "num": 327979,
       "word": "当鸿蒙牵手日产",
       "onboard_time": 1731379399,
       "rank": 46,
