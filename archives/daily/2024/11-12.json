@@ -1,7 +1,31 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731400925022,
+  "endTime": 1731403398743,
   "band_list": [
+    {
+      "raw_hot": 19267203,
+      "num": 19267203,
+      "word": "全国法定节假日将增加",
+      "onboard_time": 1731402322,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11100779,
+      "num": 11100779,
+      "word": "李子柒回归",
+      "onboard_time": 1731401000,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 3640289,
+      "num": 3640289,
+      "word": "除夕纳入放假",
+      "onboard_time": 1731402502,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2258741,
       "num": 453550,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 1124397,
-      "num": 292112,
+      "num": 403512,
       "word": "仅退款白嫖产业链调查",
       "onboard_time": 1731397579,
       "rank": 10,
@@ -89,6 +113,14 @@
       "onboard_time": 1731371780,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1106859,
+      "num": 1106859,
+      "word": "2025年放假安排来了",
+      "onboard_time": 1731402744,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093413,
@@ -161,6 +193,22 @@
       "onboard_time": 1731392718,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838804,
+      "num": 406452,
+      "word": "停止这种AI视频",
+      "onboard_time": 1731399859,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 837734,
+      "num": 392563,
+      "word": "孕妈拼第7胎只想凑个好字",
+      "onboard_time": 1731401781,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 776355,
@@ -339,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 467909,
+      "num": 390674,
+      "word": "被医生打死老板妻子一度以为他在救人",
+      "onboard_time": 1731401722,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 467282,
       "num": 467282,
       "word": "王安宇回应圆了华妃要孩子的梦",
@@ -475,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388802,
+      "num": 388802,
+      "word": "A股跳水原因找到了",
+      "onboard_time": 1731401479,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381816,
       "num": 381816,
       "word": "医生殴打便利店老板致死被刑拘",
@@ -595,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 326967,
+      "num": 326967,
+      "word": "恋与深空登顶",
+      "onboard_time": 1731400819,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320304,
       "num": 320304,
       "word": "虞书欣更新TikTok",
@@ -609,14 +681,6 @@
       "onboard_time": 1731370760,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314653,
-      "num": 269526,
-      "word": "停止这种AI视频",
-      "onboard_time": 1731399859,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 311139,
@@ -673,6 +737,14 @@
       "onboard_time": 1731387202,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 276410,
+      "num": 276410,
+      "word": "歼35A飞着飞着就开始隐身了",
+      "onboard_time": 1731400578,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 276131,
@@ -883,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222914,
+      "num": 214977,
+      "word": "虞书欣新增永夜星河团综行程",
+      "onboard_time": 1731401722,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222606,
       "num": 322481,
       "word": "从歼35A视角看蓝天大地",
@@ -1043,6 +1123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193875,
+      "num": 193875,
+      "word": "关晓彤问王安宇花少成员的关系好不好",
+      "onboard_time": 1731400339,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192934,
+      "num": 192934,
+      "word": "调休后上班一般不超6天",
+      "onboard_time": 1731403044,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192920,
       "num": 192920,
       "word": "杨倩备战新的奥运周期",
@@ -1075,12 +1171,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189106,
-      "num": 189106,
-      "word": "关晓彤问王安宇花少成员的关系好不好",
-      "onboard_time": 1731400339,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 186998,
+      "num": 186998,
+      "word": "马丽 32岁后我才丢掉了自卑和拧巴",
+      "onboard_time": 1731402202,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 186059,
@@ -1139,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179764,
+      "num": 179764,
+      "word": "周三其实应该是休息日才对",
+      "onboard_time": 1731399918,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179725,
       "num": 179725,
       "word": "福建莆田一15岁男孩离校后失联",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1731369378,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176598,
+      "num": 411600,
+      "word": "李子柒 非遗漆器",
+      "onboard_time": 1731402142,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 175989,
@@ -1243,14 +1355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166587,
-      "num": 166587,
-      "word": "恋与深空登顶",
-      "onboard_time": 1731400819,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166444,
       "num": 166444,
       "word": "比特币",
@@ -1305,6 +1409,14 @@
       "onboard_time": 1731396739,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162627,
+      "num": 162627,
+      "word": "春节自农历除夕起放假调休8天",
+      "onboard_time": 1731403225,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162379,
@@ -1371,12 +1483,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 154376,
+      "num": 154376,
+      "word": "歼35会上航母",
+      "onboard_time": 1731401601,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 153434,
       "num": 153434,
       "word": "谁家学校一抬头就能看航展啊",
       "onboard_time": 1731373460,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 152222,
+      "num": 152222,
+      "word": "马斯克为特朗普花了2亿美元",
+      "onboard_time": 1731403104,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 151793,
@@ -1475,14 +1603,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 140086,
-      "num": 140086,
-      "word": "周三其实应该是休息日才对",
-      "onboard_time": 1731399918,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139252,
       "num": 166092,
       "word": "首位歼10女飞行员余旭牺牲8周年",
@@ -1491,20 +1611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138890,
-      "num": 189117,
-      "word": "歼35A飞着飞着就开始隐身了",
-      "onboard_time": 1731400578,
-      "rank": 29,
-      "category": "军事"
-    },
-    {
       "raw_hot": 138620,
       "num": 138620,
       "word": "燕子京 我还能活多久",
       "onboard_time": 1731393679,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137706,
+      "num": 137706,
+      "word": "女子买高仿炫耀是正品被戳穿",
+      "onboard_time": 1731403285,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136733,
@@ -1619,6 +1739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125988,
+      "num": 209760,
+      "word": "这个赛道还得是李子柒",
+      "onboard_time": 1731402202,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125007,
       "num": 125007,
       "word": "小米双十一销售额创纪录",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1731395118,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 111049,
+      "num": 413541,
+      "word": "全体公民法定假日增加2天",
+      "onboard_time": 1731402805,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111012,
@@ -1811,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101437,
+      "num": 398437,
+      "word": "李子柒式美学",
+      "onboard_time": 1731402866,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 100695,
       "num": 100695,
       "word": "EDG芜湖起飞",
@@ -1881,6 +2025,14 @@
       "onboard_time": 1731330019,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82085,
+      "num": 235229,
+      "word": "赵露思明镜台开业大吉",
+      "onboard_time": 1731403345,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 81176,
@@ -2195,6 +2347,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 44126,
+      "num": 408533,
+      "word": "专家建议平台多点实惠少点套路",
+      "onboard_time": 1731402322,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43147,
       "num": 113044,
       "word": "温峥嵘回复慕声赵若失哭对比图",
@@ -2267,6 +2427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 34392,
+      "num": 341948,
+      "word": "内蒙古男子救人踹凶徒被判故意伤害",
+      "onboard_time": 1731402142,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34335,
       "num": 420350,
       "word": "警方辟谣天津某大学有学生被杀害",
@@ -2315,6 +2483,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 31243,
+      "num": 299077,
+      "word": "奥迪在华市场电动车终极答卷",
+      "onboard_time": 1731402382,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30998,
       "num": 42790,
       "word": "学前教育多点快乐让孩子健康成长",
@@ -2329,6 +2505,14 @@
       "onboard_time": 1731318738,
       "rank": 49,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 28709,
+      "num": 182309,
+      "word": "四环奥迪多一环",
+      "onboard_time": 1731403044,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 28335,
@@ -2403,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22435,
+      "num": 234096,
+      "word": "沈阳街头的伦敦公园",
+      "onboard_time": 1731400218,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21886,
       "num": 345895,
       "word": "表达情绪对男性来说有多难",
@@ -2443,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20474,
+      "num": 346796,
+      "word": "为一座博物馆奔赴澳门",
+      "onboard_time": 1731402142,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20117,
       "num": 24833,
       "word": "孙颖莎王楚钦单打冠军数量仍第一",
@@ -2457,6 +2657,14 @@
       "onboard_time": 1731348612,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19999,
+      "num": 3835794,
+      "word": "万千气象看福建",
+      "onboard_time": 1731384022,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19945,
@@ -2491,6 +2699,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 18021,
+      "num": 234157,
+      "word": "日本为何频繁更换首相",
+      "onboard_time": 1731402502,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 17335,
       "num": 17335,
       "word": "美国指使挑动菲律在南海侵权挑衅",
@@ -2504,14 +2720,6 @@
       "word": "男子当孩子面殴打妻子被拘10日",
       "onboard_time": 1731374959,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16647,
-      "num": 532720,
-      "word": "万千气象看福建",
-      "onboard_time": 1731384022,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2537,6 +2745,14 @@
       "onboard_time": 1731376278,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14069,
+      "num": 396422,
+      "word": "律师称商家挂麦琳肖像或涉侵权",
+      "onboard_time": 1731402502,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 13915,
@@ -2571,14 +2787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11228,
-      "num": 170514,
-      "word": "沈阳街头的伦敦公园",
-      "onboard_time": 1731400218,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11216,
       "num": 19312,
       "word": "向人民空军致敬",
@@ -2609,6 +2817,14 @@
       "onboard_time": 1731382759,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 4590,
+      "num": 399854,
+      "word": "李子柒断更1217天",
+      "onboard_time": 1731403345,
+      "rank": 12,
+      "category": "网红"
     }
   ],
   "hotgov_list": [
@@ -2623,6 +2839,9 @@
     },
     {
       "word": "#习近平向全球南方媒体智库高端论坛致贺信#"
+    },
+    {
+      "word": "#习近平致信祝贺中山大学建校100周年#"
     }
   ]
 }
