@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731436172100,
+  "endTime": 1731436969627,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -37123,6 +37123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22764,
+      "num": 24191,
+      "word": "肖战我们MV上线",
+      "onboard_time": 1731436152,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22745,
       "num": 189749,
       "word": "为什么古人千杯不醉",
@@ -37321,14 +37329,6 @@
       "onboard_time": 1730887522,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21839,
-      "num": 24191,
-      "word": "肖战我们MV上线",
-      "onboard_time": 1731436152,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 21806,
@@ -38915,6 +38915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12753,
+      "num": 62583,
+      "word": "在自家阳台看航展是什么体验",
+      "onboard_time": 1731435432,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 12720,
       "num": 26062,
       "word": "共赴进博之约",
@@ -39001,14 +39009,6 @@
       "onboard_time": 1730873246,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11842,
-      "num": 62583,
-      "word": "在自家阳台看航展是什么体验",
-      "onboard_time": 1731435432,
-      "rank": 14,
-      "category": "军事"
     },
     {
       "raw_hot": 11777,
@@ -39113,6 +39113,14 @@
       "onboard_time": 1730495771,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10138,
+      "num": 27106,
+      "word": "外交部回应菲方涉南海言论",
+      "onboard_time": 1731436751,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10132,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731436172100,
+  "endTime": 1731436969627,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21839,
+      "raw_hot": 22764,
       "num": 24191,
       "word": "肖战我们MV上线",
       "onboard_time": 1731436152,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12753,
+      "num": 62583,
+      "word": "在自家阳台看航展是什么体验",
+      "onboard_time": 1731435432,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 12526,
       "num": 437339,
       "word": "七张图带你了解秘鲁",
@@ -547,12 +555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11842,
-      "num": 62583,
-      "word": "在自家阳台看航展是什么体验",
-      "onboard_time": 1731435432,
-      "rank": 14,
-      "category": "军事"
+      "raw_hot": 10138,
+      "num": 27106,
+      "word": "外交部回应菲方涉南海言论",
+      "onboard_time": 1731436751,
+      "rank": 34,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

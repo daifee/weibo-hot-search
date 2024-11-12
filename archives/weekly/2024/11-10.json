@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731436172100,
+  "endTime": 1731436969627,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -10067,6 +10067,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 22764,
+      "num": 24191,
+      "word": "肖战我们MV上线",
+      "onboard_time": 1731436152,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22610,
       "num": 853529,
       "word": "进博会特别的交换之旅",
@@ -10121,14 +10129,6 @@
       "onboard_time": 1731389898,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21839,
-      "num": 24191,
-      "word": "肖战我们MV上线",
-      "onboard_time": 1731436152,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 21799,
@@ -10595,6 +10595,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 12753,
+      "num": 62583,
+      "word": "在自家阳台看航展是什么体验",
+      "onboard_time": 1731435432,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 12526,
       "num": 437339,
       "word": "七张图带你了解秘鲁",
@@ -10616,14 +10624,6 @@
       "word": "本届航展动态演示区新装备超三成",
       "onboard_time": 1731264791,
       "rank": 30,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 11842,
-      "num": 62583,
-      "word": "在自家阳台看航展是什么体验",
-      "onboard_time": 1731435432,
-      "rank": 14,
       "category": "军事"
     },
     {
@@ -10657,6 +10657,14 @@
       "onboard_time": 1731337998,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10138,
+      "num": 27106,
+      "word": "外交部回应菲方涉南海言论",
+      "onboard_time": 1731436751,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9969,
